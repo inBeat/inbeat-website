@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In New Delhi in 2023
+title: Top 10 Vegan Instagram Influencers In New Delhi In 2023
 description: >-
-  Find top vegan Instagram influencers in New Delhi in 2023. Most popular hashtags: #vegan #delhi #delhigram #sodelhi.
+  Find top vegan Instagram influencers in New Delhi in 2023. Most popular hashtags: #reels #vegan #reelitfeelit #skincare.
 platform: Instagram
-hits: 21
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 21 Instagram influencers like this in New Delhi, India for you to connect with.
+hits: 20
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 20 Instagram influencers like this in New Delhi, India for you to work with.
 profiles:
-  - username: "hot_for_food"
-    fullname: >-
-      Vidhi and Vibha
-    bio: >-
-      We recreate recipes from across the world and tell their stories! Learn how to cook and discover the best places to eat with us ❤️
-    location: "India"
-    followers: 68449
-    engagement: 70
-    commentsToLikes: 0.042898
-    id: ck0w41usewdss0i19sym1ygcd
-    verified: false
-    hashtags: "#homecooking, #hotforfood, #dimsum, #kolkatagram"
-  - username: "anushkamandal04"
-    fullname: >-
-      ANUSHKA MANDAL🧿
-    bio: >-
-      LMG’15 | ECU’19 🇦🇺 | GNLU’20 Carpe Diem💫Wanderlust🌏 Lawyer | #type1diabetic 🩸 Less talk, more 𝓋𝒾𝒷𝑒✨ Pvt - @anushkamandal96
-    location: "India"
-    followers: 12587
-    engagement: 512
-    commentsToLikes: 0.062182
-    id: ck8t9riusp2v40j78chkrnwpc
-    verified: false
-    hashtags: "#aesthetics, #mumbai, #portrait, #bengali"
-  - username: "pragyasachdev"
-    fullname: >-
-      Pragya | Design | Fashion
-    bio: >-
-      • پرگیہ • Nift New Delhi🎓 📍Delhi
-    location: "India"
-    followers: 8301
-    engagement: 387
-    commentsToLikes: 0.165288
-    id: ckf5vglixoizy0j23l988q2mq
-    verified: false
-    hashtags: "#highlighteronpoint, #myglammxobeautycreator, #lockdownmakeupfreeselfie, #loveformakeup"
-  - username: "the_ankita_gupta_"
-    fullname: >-
-      Ankita Gupta
-    bio: >-
-      NIFT, New Delhi. B.Des.🎓 Jewelry Designer @swarovski Professional Makeup Artist 💄@ankita_gupta_makeovers Kanpur🔃Delhi DM for paid promotions /collabs
-    location: "India"
-    followers: 11451
-    engagement: 907
-    commentsToLikes: 0.091880
-    id: ckaov5oul361p0i78o45c14hk
-    verified: false
-    hashtags: "#nift, #photoshoot, #summeroutfitideas, #makeupblogger"
-  - username: "sumis_cookbook_18"
-    fullname: >-
-      Sumeet Kaur
-    bio: >-
-      Versatility is the key #foodstylist #foodphotographer #recipe developer Writer @alfazon_ki_minare DM for enquiries and collabs New Delhi, India 🇮🇳
-    location: "India"
-    followers: 7411
-    engagement: 985
-    commentsToLikes: 0.238495
-    id: ckf5x0rwtty0f0j23k8xx44gt
-    verified: false
-    hashtags: "#heydelhi, #heresmyfood, #india, #delhigram"
-  - username: "ashwaryabhutani"
-    fullname: >-
-      Aishwarya Bhutani
-    bio: >-
-      ;Model | Living&Loving ✨ •Fashion•Lifestyle•Travel 🌍 🎓Economics, Du 📍New Delhi
-    location: "India"
-    followers: 4481
-    engagement: 1040
-    commentsToLikes: 0.050088
-    id: ck0uaq701cvhl0i19ov2abkwy
-    verified: false
-    hashtags: "#blog, #yourebeautiful, #lifestyle, #model"
-  - username: "ksk1989_"
-    fullname: >-
-      _zindaginamilegidobara❤
-    bio: >-
-      Use #ksk1989_ Eat🍴Shoot 🎬 Ride 🛵 Your support is♥️ Love to try new places,Authentic food lover,Mad for photography 📸. 📧 kmlsingh92@gmail.com Delhi/Uk🥂
-    location: "India"
-    followers: 101323
-    engagement: 111
-    commentsToLikes: 0.136808
-    id: ck8td7sdu28v60j78tbhci0u4
-    verified: false
-    hashtags: "#veg, #lunch, #somumbai, #desikhana"
   - username: "thedivinedrug"
     fullname: >-
       ✨Tanya arora🍒|FASHION & STYLE
     bio: >-
       Just a girl next door Content Creator • Coder • Cares for nature ♀ • Leo • New Delhi, India📍 Business enquires : thedivinedrug@gmail.com
     location: "India"
-    followers: 9554
-    engagement: 473
-    commentsToLikes: 0.158343
+    followers: 9123
+    engagement: 387
+    commentsToLikes: 0.100594
     id: ck0ub2bfydlmk0i193ekbvvfh
     verified: false
-    hashtags: "#indianphotographyinc, #coronavaction, #reeltoreel, #indiannaturephotography"
-  - username: "buzzforfood"
+    hashtags: "#nathabit, #click, #productreview, #apanunstoppable"
+  - username: "the_ankita_gupta_"
     fullname: >-
-      Tarang |Ritika |Nandini 🧿
+      Ankita Gupta
     bio: >-
-      • Eat 💯 • Explore 💪 • Express ❣️ Food Technologists on Work 💪 @tguptajii @me.ritika.chauhan @all_the_stars_xoxo DM for Reviews|Collabs|Invites 😉
+      NIFT, New Delhi. B.Des.🎓 Jewelry Designer @swarovski Professional Makeup Artist 💄@ankita_gupta_makeovers Kanpur🔃Delhi DM for paid promotions /collabs
     location: "India"
-    followers: 41086
-    engagement: 623
-    commentsToLikes: 0.069145
-    id: ck5c4ny1l1qn30i11ip1ip8tz
+    followers: 11727
+    engagement: 798
+    commentsToLikes: 0.064296
+    id: ckaov5oul361p0i78o45c14hk
     verified: false
-    hashtags: "#delhistreetfood, #breakfastideas, #eatgood, #soulfood"
-  - username: "foodychinks"
+    hashtags: "#pose, #delhifashionblogger, #makeup, #summeroutfitideas"
+  - username: "shopaholicadventures"
     fullname: >-
-      rakhi Chettri
+      Shopaholic adventures
     bio: >-
-      FOOD & LIFESTYLE • explore👀 • eat👅 • click 📸 Zomato level : 🔟 DM for reviews | collabs 📧:foodychinks98@gmail.com 🎥 : YouTube 👇
+      Praghti & Mallika 🧜🏼 Fashion | Beauty | Travel | Lifestyle 📍New Delhi 💌 For collaboration DM/Mail Check out our new video 🔻
     location: "India"
-    followers: 6710
-    engagement: 797
-    commentsToLikes: 0.045020
-    id: ck1350qulz44o0i19rfubuee1
+    followers: 18824
+    engagement: 195
+    commentsToLikes: 0.284934
+    id: ck8t7ayqng5vn0j78ra3rygfk
     verified: false
-    hashtags: "#easyrecipes, #foodgasm, #delhiites, #mumbaifoodicious"
+    hashtags: "#reelpose, #valentine, #valentineday, #birthday"
+  - username: "bineetkaurr"
+    fullname: >-
+      Bineet Kaur
+    bio: >-
+      📍new delhi Let’s fly
+    location: "India"
+    followers: 5582
+    engagement: 799
+    commentsToLikes: 0.021432
+    id: ck6tmmgrp84470j710cbl020n
+    verified: false
+    hashtags: "#onlineclasses, #photography, #kiaka, #reelitfeelit"
+  - username: "ashwaryabhutani"
+    fullname: >-
+      Aishwarya Bhutani
+    bio: >-
+      Beauty & Confidence 🤍 Model | Fashion•Lifestyle•Travel 🎓Economics, DU 📍New Delhi
+    location: "India"
+    followers: 4662
+    engagement: 982
+    commentsToLikes: 0.057075
+    id: ck0uaq701cvhl0i19ov2abkwy
+    verified: false
+    hashtags: "#staysafe, #outfitideas, #picturesofindia, #staytuned"
+  - username: "manpreetmannii"
+    fullname: >-
+      Manpreet Kaur Mannii 🦄
+    bio: >-
+      🇮🇳New delhi 💌Dm/Email for collaboration 💄Makeup•Fashion•Skin/Haircare•DIY ⬇️VERIFIED Accounts 🔥Tiktok-1M•MXtakatak-1M•Likee•Kwai•Vero•Tangi
+    location: "India"
+    followers: 81998
+    engagement: 159
+    commentsToLikes: 0.017265
+    id: ck8welvd7e92q0j78zg28ee2f
+    verified: false
+    hashtags: "#famehouseonmxplayer, #mxtakatak, #skincare, #glowingskin"
+  - username: "aashiiwadhwa"
+    fullname: >-
+      Aashi Wadhwa
+    bio: >-
+      More than just a pretty girl 🦋 New Delhi 💌: wadhwa_aashi@yahoo.com
+    location: "India"
+    followers: 309882
+    engagement: 216
+    commentsToLikes: 0.007620
+    id: ck0vwujtzvnzv0i19lx21d2e4
+    verified: false
+    hashtags: "#leaveamark, #ootd, #lehenga, #indianwear"
+  - username: "akhandpratapsinghh"
+    fullname: >-
+      Akhand Pratap Singh 👔
+    bio: >-
+      Men's Fashion | Grooming | Lifestyle | New Delhi,India 🇮🇳 📩: fashionfarmer01@gmail.com
+    location: "India"
+    followers: 107318
+    engagement: 181
+    commentsToLikes: 0.065214
+    id: ckaoz7j6zkpxo0i788ofngfo8
+    verified: false
+    hashtags: "#sponsored, #thesafelook, #amazonprimeday, #wowhairdays"
+  - username: "bifnakedofficial"
+    fullname: >-
+      Bif Naked
+    bio: >-
+      She/Her/Elle. Recording Artist, Author, Artist Manager, Cancer Survivor, Dog Mom. xVx. New Delhi-born Canadian Citizen. Follow my @monalisahealing
+    location: "India"
+    followers: 40146
+    engagement: 165
+    commentsToLikes: 0.036916
+    id: ck1352giizd4s0i19tdp6d412
+    verified: true
+    hashtags: "#love, #happiness, #peace, #pma"
+  - username: "ms.curvylicious"
+    fullname: >-
+      | SWATI SRIVASTAVA |
+    bio: >-
+      🎭THEATRE ARTIST 👩‍💻#creator#DesignFaculty,@nift.newdelhi 🦄#PSMODEL: IFW'19 @fdciofficial 👸FINALIST:@msindiacurvy'19 👑DESIGNER'S CHOICE AWARDEE 💌Collab
+    location: "India"
+    followers: 42616
+    engagement: 61
+    commentsToLikes: 0.111649
+    id: ck0w051umcey00i19r2e8t873
+    verified: false
+    hashtags: "#hair, #effyourbeautystandards, #chopped, #nobodyshaming"
 ---

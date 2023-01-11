@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Boston in 2023
+title: Top 10 Beauty TikTok Influencers In Boston In 2023
 description: >-
-  Find top beauty TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #boston #beauty #greenscreen.
+  Find top beauty TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #beauty #boston #love.
 platform: TikTok
-hits: 13
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 13 TikTok influencers like this in Boston, United States for you to work with.
+hits: 7
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this in Boston, United States for you to connect with.
 profiles:
-  - username: "annababayanskincare"
+  - username: "beautifyfairy"
     fullname: >-
-      ANNA BABAYAN
+      Audrey Rose
     bio: >-
-      ESTHETICIAN 📍BOSTON ADVANCED SKINCARE 📧ANNABABAYANSKINCARE@GMAIL.COM
+      Ageless Weighless Medi Spa📍NH, MA Injectables | Weight loss | Body Contouring
     location: "United States"
-    followers: 47176
-    engagement: 272
-    commentsToLikes: 0.015151
-    id: ckamialinjebh0i78fgk7rf91
+    followers: 19300
+    engagement: 268
+    commentsToLikes: 0.036857
+    id: ck9jvm44mssc30j785p28sdct
     verified: false
-    hashtags: "#microcurrentfacial, #skincare, #facialtime, #microcurrent"
-  - username: "mamablurr"
+    hashtags: "#newhampshire, #skin, #boston, #facelift"
+  - username: "ryanthebruinsfan"
     fullname: >-
-      Mama Blurr
+      Ryan Burns
     bio: >-
-      Insta: babyblueblurr PayPal.Me/mamablurr Twitter: blurr_baby
+      I’m a Bruins fan You’re a beauty 😍 Hockey Content 🏒 Please look at the link 🙏
     location: "United States"
-    followers: 172300
-    engagement: 1831
-    commentsToLikes: 0.038293
-    id: ck90t6e9us1bq0j78mm88ubwx
+    followers: 93700
+    engagement: 1903
+    commentsToLikes: 0.090300
+    id: ckbb6ahwswemp0j23hvuopmiq
     verified: false
-    hashtags: "#puppy, #halloween, #greenscreen, #twitch"
-  - username: "minamicheal78"
+    hashtags: "#nhloutdoors, #dothescottsslide, #hockey, #doritosflatlife"
+  - username: "madelinedelp"
     fullname: >-
-      Mina Micheal
+      Madeline Delp
     bio: >-
-      Fitness💪🏼 | Photography 📸 | Engineer 🛠 Travel 🌎 🇪🇬 مصري | Boston📍
+      IG: madelinedelp 💕Just a girl in a pink wheelchair chasing bold adventures 💕
     location: "United States"
-    followers: 3089
-    engagement: 732
-    commentsToLikes: 0.042580
-    id: ckdbjcify965m0j23uo2slipm
+    followers: 54000
+    engagement: 966
+    commentsToLikes: 0.028026
+    id: ckdsq1nntomsr0j2314vt76fu
     verified: false
-    hashtags: "#boston, #views, #mass, #travel"
-  - username: "marissaspagnoli"
-    fullname: >-
-      Marissa Spagnoli
-    bio: >-
-      Unpopular beauty/fashion opinions☕️ SKINCARE GIVEAWAY AT 50K!!👀✨
-    location: "United States"
-    followers: 54700
-    engagement: 645
-    commentsToLikes: 0.020842
-    id: ck984baq3nrah0j78jjl35s9k
-    verified: false
-    hashtags: "#skincareroutine, #skincareopinion, #cerave, #fyp"
-  - username: "twiinstarr"
-    fullname: >-
-      Twiinstarr88 
-    bio: >-
-      Teach Assist/Actress/Singer/Beauty ✨ I HATE RACISM AND WHITE SUPREMACY PERIOD!
-    location: "United States"
-    followers: 8875
-    engagement: 1231
-    commentsToLikes: 0.127852
-    id: ckcdeix69664p0j23g87ctle1
-    verified: false
-    hashtags: "#peace, #blm, #whitesupremacy, #nojucticenopeace"
-  - username: "marquillajones"
-    fullname: >-
-      Marquilla Jones
-    bio: >-
-      Social Butterfly 🦋 Follow me, https://www.youtube.com/channel/UCx
-    location: "United States"
-    followers: 55500
-    engagement: 2030
-    commentsToLikes: 0.088020
-    id: ckav2m2sq8tic0j23r5rz1v76
-    verified: false
-    hashtags: "#laughs, #stitch, #teachersof2020, #xcyzbca"
-  - username: "crystalstiktok_"
-    fullname: >-
-      CrystalsTikTok
-    bio: >-
-      
-    location: "United States"
-    followers: 11600
-    engagement: 635
-    commentsToLikes: 0.036202
-    id: ckahun7wgj5pk0i78qhszgv57
-    verified: false
-    hashtags: "#shredwithbillandted, #fitcheck, #letsfaceit, #timefortenet"
-  - username: "ava_berube"
-    fullname: >-
-      ava berube
-    bio: >-
-      17 | massachusetts
-    location: "United States"
-    followers: 4899
-    engagement: 548
-    commentsToLikes: 0.019642
-    id: ckbasqqzpje820j23hm20qd4k
-    verified: false
-    hashtags: "#comedy, #moodboost, #butterglosspop, #starbucks"
+    hashtags: "#beauty, #motivation, #pageant, #fashion"
   - username: "_michelle_lynne_"
     fullname: >-
       Michlynne
     bio: >-
-      • MA 🌈 25 •
+      • MA 🌈 25 • SC - Staytruexo Insta - Michellecamerano
     location: "United States"
-    followers: 2822
-    engagement: 958
-    commentsToLikes: 0.032476
+    followers: 2878
+    engagement: 1067
+    commentsToLikes: 0.071873
     id: ckc7qo7duw3gp0j23s7gopywa
     verified: false
-    hashtags: "#happy, #foryoupage, #fyp, #kayakingadventures"
-  - username: "playerstribune"
+    hashtags: "#foryoupage, #puppy, #fyp, #iloveyou"
+  - username: "princecollywolly"
     fullname: >-
-      PlayersTribune
+      Colly Wolly
     bio: >-
-      The voice of the game. 📸 IG @playerstribune 🎥 SUBSCRIBE to our YT channel
+      sickly cousin who gets sent to the seaside in an Austen novel 🌊📖 | she/her
     location: "United States"
-    followers: 54400
-    engagement: 999
-    commentsToLikes: 0.016982
-    id: ckcdmg8nna60j0j234475ret9
-    verified: true
-    hashtags: "#nba, #cooking, #mlb, #nbamoments"
+    followers: 7991
+    engagement: 1538
+    commentsToLikes: 0.059095
+    id: ckdh11xqurobh0j23s3wr0o6k
+    verified: false
+    hashtags: "#englishmajor, #godzillavskongroar, #thebadbatch, #plussizeedition"
+  - username: "robbywoolworth"
+    fullname: >-
+      Robby Woolworth
+    bio: >-
+      Fabricator welder redsox fan husband father racer
+    location: "United States"
+    followers: 3912
+    engagement: 989
+    commentsToLikes: 0.030069
+    id: ckc1zejen356s0j23legor584
+    verified: false
+    hashtags: "#woolworthrevolution, #ford, #pitbull, #shilo"
+  - username: "lauren_ledoux"
+    fullname: >-
+      lauren 
+    bio: >-
+      yes i am the grad party girl model
+    location: "United States"
+    followers: 44500
+    engagement: 892
+    commentsToLikes: 0.025546
+    id: ck8j6dqxa9fl20j782qg28wlk
+    verified: false
+    hashtags: "#heather, #fyi, #yum, #feliznavidad"
+  - username: "beauty"
+    fullname: >-
+      beauty
+    bio: >-
+      Beauty 💄 Fashion 👗 Lifestyle 💁🏻‍♀️ Pop Culture 📰
+    location: "United States"
+    followers: 136800
+    engagement: 1015
+    commentsToLikes: 0.005391
+    id: ck9ewzh7sp3lc0j786j4zba38
+    verified: false
+    hashtags: "#beautyhack, #style, #makeuphacks, #skincare"
+  - username: "naturallycolorfulbabe"
+    fullname: >-
+      Chicago Cosplayer
+    bio: >-
+      🦄Welcome to my WORLD❤ Nerd Life/Beauty/Cosplay $Colorfuljazzy 💖New Podcast Ep⤵
+    location: "United States"
+    followers: 23400
+    engagement: 2252
+    commentsToLikes: 0.052231
+    id: ckc91lm2fronk0j23uo0hgtbd
+    verified: false
+    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+  - username: "lexisroc"
+    fullname: >-
+      ✨Alexis✨
+    bio: >-
+      To All Who Come To This Magical Place ✨Welcome✨ IG: lexisroc 70K beauties 💖
+    location: "United States"
+    followers: 76800
+    engagement: 1523
+    commentsToLikes: 0.046760
+    id: ckbbdo6pn2izp0j2342epu47j
+    verified: false
+    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Jakarta in 2023
+title: Top 10 Models Instagram Influencers In Jakarta In 2023
 description: >-
-  Find top models Instagram influencers in Jakarta in 2023. Most popular hashtags: #model #jakarta #indonesia #modeling.
+  Find top models Instagram influencers in Jakarta in 2023. Most popular hashtags: #model #jakarta #beauty #indonesia.
 platform: Instagram
-hits: 92
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 92 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
+hits: 85
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 85 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
 profiles:
   - username: "michellefrendiaz"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       JIM Models Jakarta Contact Person: ☎️Cilla +62 819 700054 Face of Indonesia 2017 🇮🇩
     location: "Indonesia"
-    followers: 4018
-    engagement: 1217
-    commentsToLikes: 0.039520
+    followers: 4029
+    engagement: 1225
+    commentsToLikes: 0.039179
     id: ck0vxofh0zx390i19nqg31gz2
     verified: false
-    hashtags: "#michellefrendiaz, #jfw2020, #michellejim, #jakartafashionweek"
-  - username: "dulurbalap.id"
+    hashtags: "#michellefrendiaz, #jfw2020, #michellejim, #danjyohiyoji"
+  - username: "hengkyirawan"
     fullname: >-
-      デュラーレーシング
+      Hengky Irawan
     bio: >-
-      🅱🅰🅻🅰🅿 , 🅷🅴🆁🅴🆇 , 🆈🅾🆄🆃🆄🅱🅴 𝙳𝚊𝚢 𝚗𝚒𝚐𝚑𝚝 𝚛𝚊𝚌𝚎 . 𝙿𝙿/𝙴𝚗𝚍𝚘𝚛𝚜𝚎 𝚍𝚖📲 . 𝚃𝚎𝚊𝚖 : @abah_herex @mojokertogas_clurut1200m @dulurbalap.id . Ⓨⓞⓤⓣⓤⓑⓔ 👇 .
+      Official Sony Alpha Guru @sonyalpha_id @vanguard_id @sekonic.id I see things differently Founder of @caffeine.id Portfolios @by.hengkyirawan
     location: "Indonesia"
-    followers: 34970
-    engagement: 112
-    commentsToLikes: 0.004886
-    id: ckf5ts1smilrd0j23pd9er3zz
+    followers: 43105
+    engagement: 149
+    commentsToLikes: 0.019899
+    id: ck134fh7aw6gz0i1958vsywjv
     verified: false
-    hashtags: "#bola, #play, #join, #youtuberindonesia"
-  - username: "varyabaikova"
-    fullname: >-
-      JAKARTA MODEL
-    bio: >-
-      Currently represented by @amormodel 🇷🇺 @moremodelmanagement All about Aesthetic & Style Fashion content creation ⠀ 📍Jakarta
-    location: "Indonesia"
-    followers: 48090
-    engagement: 282
-    commentsToLikes: 0.015188
-    id: ck5cho319r5610i117ptkkz2m
-    verified: false
-    hashtags: "#baliblogger, #modelbali, #baliphotoshoot, #jakartablogger"
+    hashtags: "#hengkyirawan, #water, #12shadesofzodiac, #sonyalpha"
   - username: "mbatinabule_official"
     fullname: >-
       Cristina Surya
     bio: >-
-      🕊Youtuber 🕊Fashion model & Actress 📍Jakarta, Indonesia 📱Business/collaboration 💬WA only 081218615105
+      ⚽️Brand ambassador @laligasuperfansofficial 🕊Youtuber, Fashion model & Actress 📍Jakarta, Indonesia 📱Business/collaboration 💬WA only 081218615105
     location: "Indonesia"
-    followers: 31857
-    engagement: 361
-    commentsToLikes: 0.023976
+    followers: 34157
+    engagement: 314
+    commentsToLikes: 0.023961
     id: ck5chhf9xqsds0i11n6an4tto
     verified: false
-    hashtags: "#treatment, #open, #internationalmodel, #clinic"
-  - username: "felicianathalie_"
+    hashtags: "#shooting, #love, #catalogue, #jakarta"
+  - username: "zonaretjeh"
     fullname: >-
-      펠리시아🍑felicia nathalie
+      Retjeh - Receh
     bio: >-
-      📍BALI | TNG UMN '19 #model | #dancer DM For #endorsement 📥 Part of @teen_management @chb_management CiaAgency BA @mamaleonofficial YTChannel👇🏻
+      18+ Jangan baperan! Mari menebar kebahagiaan dan sedikit kegoblokan Endorse/Paid Promote? Dm🤝
     location: "Indonesia"
-    followers: 18695
-    engagement: 698
-    commentsToLikes: 0.222421
-    id: ck9wgk3pjts0e0j78vcntnir1
+    followers: 43095
+    engagement: 1001
+    commentsToLikes: 0.030235
+    id: ckap1uwtuw9700i78bblryggq
     verified: false
-    hashtags: "#modelbali, #makeup, #fotograferbali, #model"
-  - username: "bozgik_official"
+    hashtags: "#guyonanreceh, #videogokil, #semenitvidgram, #lucugaksih"
+  - username: "jessysilanawong"
     fullname: >-
-      Bozgik.GantengMakasih🐧
+      𝗝𝗲𝘀𝘀𝘆 𝗦𝗶𝗹𝗮𝗻𝗮 𝗪𝗼𝗻𝗴𝘀𝗼𝗱𝗶𝗵𝗮𝗿𝗷𝗼
     bio: >-
-      🌷:@monalisaa_29 😘 TopUp aman & murah: @conan.gameshop Pengen di Subscribe👇
+      👸PUTRI PARIWISATA INDONESIA 2020 👑 MISS TOURISM Intl INDONESIA 2021 💃🏻RU STARTEEN'12 🎓Master of Com Int Buss&Dev(Hons) 🎤📺TvHost @kopisantai.tv IWriter
     location: "Indonesia"
-    followers: 171357
-    engagement: 474
-    commentsToLikes: 0.024894
-    id: ckf5vklkiovzo0j23ivx6txmy
+    followers: 71272
+    engagement: 258
+    commentsToLikes: 0.051430
+    id: ck14jhq59kemy0i19g8t9afqx
     verified: false
-    hashtags: "#jualdiamondffmurah, #freefirelucu, #topupffmurah, #freefirethailand"
-  - username: "lizeetttt"
-    fullname: >-
-      Elizabeth🌹
-    bio: >-
-      Model - 21 Y.O. Currently - Jakarta, Indonesia📍 For booking contact DM or Lizad412@gmail.com
-    location: "Indonesia"
-    followers: 14776
-    engagement: 590
-    commentsToLikes: 0.025391
-    id: ck0vvg2h2ozc20i19beaimpjg
-    verified: false
-    hashtags: "#missbali, #bepatient, #morningride, #ridejakarta"
+    hashtags: "#putripariwisataindonesia, #cny, #eljohntv, #model"
   - username: "zhanglimei"
     fullname: >-
       Clara
     bio: >-
       💍 @ivanabednego12 . • 🎵tiktok : zhanglimei • Katalog Photoshoot & Freelance Model • DM for business inquires • Jakarta
     location: "Indonesia"
-    followers: 58608
-    engagement: 450
-    commentsToLikes: 0.021467
+    followers: 62397
+    engagement: 466
+    commentsToLikes: 0.019727
     id: ck8t7stnmhvln0j78ak21iz8x
     verified: false
-    hashtags: "#toptags, #girl, #asian, #lightrom"
-  - username: "ann.grigorievaa"
+    hashtags: "#msigamingindonesia, #tb, #halu, #ceritanyagitu"
+  - username: "akashellahi"
     fullname: >-
-      Anka
+      Akash Ellahi
     bio: >-
-      ॐ and no more
+      ENDORSE & JOB DM 📩 . malikakash2014@gmail.com Subscribe to my YouTube channel.
     location: "Indonesia"
-    followers: 5313
-    engagement: 804
-    commentsToLikes: 0.029937
-    id: ck5heoex7tz2s0i112lwxk2ul
+    followers: 62383
+    engagement: 470
+    commentsToLikes: 0.051952
+    id: ck9ha13wiarwr0j78fmpnx0q9
     verified: false
-    hashtags: "#kievmodel, #vsco, #delhigirls, #kievgrams"
-  - username: "agussantosoyang"
+    hashtags: "#tiktok, #model, #indonesia, #tiktokviral"
+  - username: "dino_prata01"
     fullname: >-
-      Fashion/Beauty/Commercial
+      muhammad hamdin rizki pratama
     bio: >-
-      📍Jakarta - Indonesia 📸 +6287855608055 Inquiry & Reservation +62877.0060.8055 🦊agussantosoyang@gmail.com #agussantosoyang #beauty #fashion #commercial
+      -👉Sewa camera 📲 -👉jasa photographer/session- videography-Dll📲 Untuk bisnis & PP/endrose 👇 📲 watshaap - 082284438905 06-20🎂
     location: "Indonesia"
-    followers: 26201
-    engagement: 80
-    commentsToLikes: 0.011028
-    id: ck134cbr6vqy90i193i4vj72o
+    followers: 13412
+    engagement: 923
+    commentsToLikes: 0.010486
+    id: ck5cecjk2krqb0i1171eyhda7
     verified: false
-    hashtags: "#jakartaretoucher, #makeup, #elleindonesia, #stylist"
+    hashtags: "#sumbaroke, #vidio, #medantalk, #ladyinsquare"
+  - username: "danielisyours"
+    fullname: >-
+      Daniel Doroshenko
+    bio: >-
+      Currently in Jakarta🇮🇩 bookings: @2icons (for Indonesia) model dancer polyglot creator
+    location: "Indonesia"
+    followers: 9361
+    engagement: 698
+    commentsToLikes: 0.017582
+    id: ck6txtiukzrpo0j71d5k9lkjh
+    verified: false
+    hashtags: "#uniqlo, #uniqloindonesia, #msmsmsm, #electronic"
+  - username: "fathbayy"
+    fullname: >-
+      Fathbayy🐼
+    bio: >-
+      Virgo Model, Talent, Host, Vlogger, Content Creator
+    location: "Indonesia"
+    followers: 68312
+    engagement: 584
+    commentsToLikes: 0.015265
+    id: ck0tzpyr0r4lu0i19juk7qn39
+    verified: false
+    hashtags: "#potrait, #earth, #photograph, #photography"
 ---

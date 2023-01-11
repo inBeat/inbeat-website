@@ -1,48 +1,36 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Belgium in 2023
+title: Top 10 Gymnasts TikTok Influencers In Belgium In 2023
 description: >-
-  Find top gymnasts TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #foryoupage #gymnastics.
+  Find top gymnasts TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #foryoupage #gymnastics.
 platform: TikTok
-hits: 13
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 13 TikTok influencers like this in Belgium for you to pitch.
+hits: 8
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "jelle.vdbx"
-    fullname: >-
-      51K✨🤍
-    bio: >-
-      14y/o💕 | Belgium📍 | gymnast 🤸‍♂️ 51K thank you all ✨ Insta: jellevdbx ✌🏼
-    location: "Belgium"
-    followers: 51800
-    engagement: 3202
-    commentsToLikes: 0.177298
-    id: ck9foop7y3k390j78lwrl761v
-    verified: false
-    hashtags: "#fyp, #viraal, #lovefans, #jellefam"
   - username: "maarten_gymnastics"
     fullname: >-
       Maarten Vermeiren
     bio: >-
       Tumbling Gymnast 🇧🇪 Belgium’s Got Talent 2019 📥 - maarten.vermeiren@live.be
     location: "Belgium"
-    followers: 21500
-    engagement: 1579
-    commentsToLikes: 0.025722
+    followers: 23000
+    engagement: 1067
+    commentsToLikes: 0.010455
     id: ck9eq92x9w4ta0j78o6167n1b
     verified: false
-    hashtags: "#fyp, #tumbling, #gymnastics, #doubleback"
-  - username: "chloe_vbx"
+    hashtags: "#gymnastics, #fyp, #backflip, #tumbling"
+  - username: "yassine_saltoo"
     fullname: >-
-      Chloë Vanbutsele 
+      Yassine_saltoo
     bio: >-
-      18 y/o Belgium 🧸🤍
+      -Bruxelles👀- SNAP👻/ INSTA🥶: yassine_saltoo😉 Partenariat: Yb294667@gmail.com
     location: "Belgium"
-    followers: 126200
-    engagement: 2232
-    commentsToLikes: 0.009157
-    id: ck9ep9eperng60j781nvmf1xw
-    verified: true
-    hashtags: "#foryou, #fyp, #gymnastics, #fy"
+    followers: 44000
+    engagement: 518
+    commentsToLikes: 0.010766
+    id: ckbezjoi2koo70j23sloddxyz
+    verified: false
+    hashtags: "#foryoupage, #sugarcrash, #flips, #tumbling"
   - username: "xmichellex_2007"
     fullname: >-
       :))
@@ -54,77 +42,65 @@ profiles:
     commentsToLikes: 0.072669
     id: ckb9at787w2sr0j23wane1vw8
     verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #fy"
+    hashtags: "#foryoupage, #foryou, #fyp, #gymnastic"
   - username: "atimo.s"
     fullname: >-
       a t i m o
     bio: >-
-      Ja ik ben echt 18 She/her 🇧🇪🇸🇳
+      Ja ik ben echt 18 She/her Actiever op mn spamacc so go and find it xo
     location: "Belgium"
-    followers: 141700
-    engagement: 2424
-    commentsToLikes: 0.011781
+    followers: 137900
+    engagement: 2149
+    commentsToLikes: 0.013592
     id: ck9envenel3jf0j78cpurxxqe
     verified: false
-    hashtags: "#perfumechallenge, #gymnastics, #duet, #dontleavemechallenge"
-  - username: "amefie"
-    fullname: >-
-      ADD
-    bio: >-
-      Komkommersoep
-    location: "Belgium"
-    followers: 3606
-    engagement: 2201
-    commentsToLikes: 0.023195
-    id: ckbqrj1fqcdcd0j23cho89o5o
-    verified: false
-    hashtags: "#fyp, #famous, #foryoupage, #gymnastics"
-  - username: "redbullbe"
-    fullname: >-
-      Red Bull Belgium
-    bio: >-
-      🇧🇪 Geeft je vleugels! Donne des ailes! #givesyouwings
-    location: "Belgium"
-    followers: 89000
-    engagement: 1778
-    commentsToLikes: 0.008182
-    id: ckb9s75xjp9r00j23e12ly8f9
-    verified: true
-    hashtags: "#snowboard, #mtb, #juggling, #racing"
+    hashtags: "#outfits, #fyp, #foryou, #ninaricciparfums"
   - username: "julie_michiels"
     fullname: >-
-      OfficialJulie <3
+      JulieMichiels
     bio: >-
       Gewoon voor de fun
     location: "Belgium"
-    followers: 30500
-    engagement: 2516
-    commentsToLikes: 0.006729
+    followers: 29900
+    engagement: 2156
+    commentsToLikes: 0.010894
     id: ckcvj9hc0wmst0j23q2r2ton5
     verified: false
-    hashtags: "#crownme, #featurethis, #featureme, #featurejulie"
-  - username: "yassine_saltoo"
+    hashtags: "#featureme, #crownme, #featurethis, #gymnastics"
+  - username: "aestheticwolfofficial"
     fullname: >-
-      Yassine_saltoo
+      Aesthetic Wolf
     bio: >-
-      20 yo👀 Bruxelles ✌️ Snap/insta : yassine_saltoo😉 Follow me/suis moi🕺
+      Premium Activewear 🐺 Shop: aestheticwolf.com
     location: "Belgium"
-    followers: 22900
-    engagement: 647
-    commentsToLikes: 0.023022
-    id: ckbezjoi2koo70j23sloddxyz
+    followers: 6316
+    engagement: 419
+    commentsToLikes: 0.009903
+    id: ckck4c04boql30j2353as3k7v
     verified: false
-    hashtags: "#duo, #combo, #fyp, #bruxelles"
-  - username: "blondiab280884"
+    hashtags: "#fy, #fitfam, #blackfriday, #homeworkout"
+  - username: "jumpxlbrussels"
     fullname: >-
-      blondiab280884
+      JumpXlBrussels
     bio: >-
-      Dutch artist, illustrator,autographcollector,Belgium 🇧🇪 ✍️⬇️ My redbubble ⬇️
+      
     location: "Belgium"
-    followers: 3588
-    engagement: 801
-    commentsToLikes: 0.000000
-    id: ckce3z9k0jcer0j23b5wku5v0
+    followers: 9187
+    engagement: 1183
+    commentsToLikes: 0.015227
+    id: ckcujtcb6gmln0j23npxmq7a0
     verified: false
-    hashtags: "#foryou, #kidsstopmotion, #fun, #kids"
+    hashtags: "#foryoupage, #funny, #gym, #pt"
+  - username: "stefhertsens"
+    fullname: >-
+      Stef Hertsens
+    bio: >-
+      Digital Creative / StuBru / Freelance Videographer
+    location: "Belgium"
+    followers: 6415
+    engagement: 407
+    commentsToLikes: 0.006428
+    id: ckck4ng91p6o80j23svrukry6
+    verified: false
+    hashtags: "#pregnant, #foryou, #foryoupage, #bored"
 ---

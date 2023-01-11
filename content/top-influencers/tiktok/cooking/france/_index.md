@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking TikTok Influencers In France in 2023
+title: Top 10 Cooking TikTok Influencers In France In 2023
 description: >-
-  Find top cooking TikTok influencers in France in 2023. Most popular hashtags: #cooking #pourtoi #fyp #foryou.
+  Find top cooking TikTok influencers in France in 2023. Most popular hashtags: #cooking #pourtoi #foryou #food.
 platform: TikTok
-hits: 59
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 59 TikTok influencers like this in France for you to pitch.
+hits: 56
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 56 TikTok influencers like this in France for you to collaborate.
 profiles:
-  - username: "cookislifefr"
-    fullname: >-
-      Cook'n life
-    bio: >-
-      just love cooking 🍉🥗🥘🍣🎂 Follow me on IG With @LapiLaphi mère et fille 👩👧
-    location: "France"
-    followers: 3970
-    engagement: 1363
-    commentsToLikes: 0.007531
-    id: ckbqiox4m3xl10j23duzacifv
-    verified: false
-    hashtags: "#cooking, #pourtoi, #cookislifefr, #foryou"
-  - username: "audreyskitchen"
-    fullname: >-
-      Audrey’s Kitchen
-    bio: >-
-      ❤️ Baking and cooking lover ❤️ ❤️ it’s all about cravings ❤️
-    location: "France"
-    followers: 6353
-    engagement: 780
-    commentsToLikes: 0.020174
-    id: ckav1tugp7xk50j234v8wrgw2
-    verified: false
-    hashtags: "#dessert, #recettefacile, #recipes, #beyoncesong"
   - username: "toufuoff"
     fullname: >-
-      𝖙𝖔𝖚𝖋𝖚🍋
+      𝖙𝖔𝖚𝖋𝖚🧸
     bio: >-
-      |🌜16yo🌛| |📸Instagram➪Toufu.mg🍓 JE FOLLOW MES ABONNÉS D’INSTA ➪52.0K🐧
+      |🌜17yo🌛| |📸Instagram➪Toufu.mg🍓 JE FOLLOW MES ABONNÉS D’INSTA ➪52.0K🐧
     location: "France"
-    followers: 52200
-    engagement: 2510
-    commentsToLikes: 0.184745
+    followers: 51600
+    engagement: 1252
+    commentsToLikes: 0.022353
     id: ckciuky0m0ady0j239d1u1hri
     verified: false
-    hashtags: "#toufuoff, #cuisine, #rouet, #pourtoi"
-  - username: "sweetlouchie"
+    hashtags: "#cooking, #fun, #concours, #rouet"
+  - username: "minikitchenworld"
     fullname: >-
-      Sweet Louchie
+      lexix8
     bio: >-
-      🎨Artiste amatrice🎨 💕Roller Derby💕 Half-Blood Queen #10 💞 📸Model photo📸
+      find your miniature 👇👇
     location: "France"
-    followers: 39000
-    engagement: 1461
-    commentsToLikes: 0.019561
-    id: cka63f4me43ez0i7853avgvk7
+    followers: 273500
+    engagement: 1245
+    commentsToLikes: 0.005129
+    id: ckbqio7du3ugs0j23306ul1a4
     verified: false
-    hashtags: "#sports, #tatouage, #motivation, #tattoogirl"
-  - username: "rose_2b"
-    fullname: >-
-      Rose Guiseppi
-    bio: >-
-      Corsica☀️🐬 20 ans💁🏼‍♀️ https://youtu.be/wKCrxwRLAnM
-    location: "France"
-    followers: 30600
-    engagement: 1216
-    commentsToLikes: 0.018968
-    id: ckb0oycxdeyd60j23t5df7jln
-    verified: false
-    hashtags: "#music, #newtrend, #fyp, #foryou"
+    hashtags: "#foodie, #mini, #fyp, #cooking"
   - username: "lousbii"
     fullname: >-
       Nikita_mere
     bio: >-
-      Insta: lousbii 🔫🦁
+      Insta: Lousbii94 🔫🦁
     location: "France"
-    followers: 2559
-    engagement: 1201
-    commentsToLikes: 0.015251
+    followers: 2733
+    engagement: 837
+    commentsToLikes: 0.016239
     id: ckae1eymuokob0i78qsgjpflr
     verified: false
-    hashtags: "#humor, #cooking, #fyp, #pourtoi"
-  - username: "chocolatseve"
-    fullname: >-
-      Arthur Sève & Richard Sève
-    bio: >-
-      Maître Pâtissier Chocolatier 👨🏻‍🍳 Académicien du Chocolat 🇫🇷 #chocolatseve
-    location: "France"
-    followers: 244600
-    engagement: 856
-    commentsToLikes: 0.015954
-    id: ckamm4lgpyz710i78eircbw9f
-    verified: true
-    hashtags: "#chocolatier, #chocolatseve, #pastryart, #cooking"
-  - username: "lgazzy"
-    fullname: >-
-      Lili-Rose
-    bio: >-
-      Heyyyyy I’m Lili-Rose, I cook from the heart 💘
-    location: "France"
-    followers: 134600
-    engagement: 1249
-    commentsToLikes: 0.004110
-    id: cka6be8vozze80i786xm2aa11
-    verified: false
-    hashtags: "#fyp, #tiktokacademie, #cooking, #cuisine"
+    hashtags: "#cooking, #cuisto, #mood, #pourtoi"
   - username: "bsraw"
     fullname: >-
       Bsraw
     bio: >-
-      
+      bsraw
     location: "France"
-    followers: 10100
-    engagement: 760
-    commentsToLikes: 0.016951
+    followers: 10000
+    engagement: 749
+    commentsToLikes: 0.016801
     id: ck9skca9i83jy0j78y69i3qsi
     verified: false
-    hashtags: "#pourlaphoto, #cuisine, #cooking, #recette"
-  - username: "helenask_"
+    hashtags: "#pourtoi, #cuisine, #pourtoii, #pourtoipage"
+  - username: "nirosa.world"
     fullname: >-
-      🦋 Veri On Tiktok 🦋
+      Nirosa
     bio: >-
-      Kdrama Lover 💻 𝒫𝑜𝓈𝒾𝓉𝒾𝓋𝑒𝓈 𝒱𝒾𝒷𝑒𝓈 𝒪𝓃𝓁𝓎 🤞🏼 Foodie 🍜🔥
+      Le sujet principale ici c'est...... Les bijoux 💎 Je les fais moi même !
     location: "France"
-    followers: 7520
-    engagement: 617
-    commentsToLikes: 0.051569
-    id: ck9fx9xjn5n130j7891ti6grj
+    followers: 3915
+    engagement: 1249
+    commentsToLikes: 0.005263
+    id: ckbqiox4m3xl10j23duzacifv
     verified: false
-    hashtags: "#xyzbca, #duo, #makeup, #me"
+    hashtags: "#cookislifefr, #cooking, #pourtoi, #cuisine"
+  - username: "penelope.dc"
+    fullname: >-
+      penelope.dc
+    bio: >-
+      i like to embarrass myself
+    location: "France"
+    followers: 7252
+    engagement: 799
+    commentsToLikes: 0.022143
+    id: ckb9bqvfry6o80j23t966z2fo
+    verified: false
+    hashtags: "#sushi, #coffee, #foryou, #vegan"
+  - username: "laeyna"
+    fullname: >-
+      lina
+    bio: >-
+      Food food food fooooooooood 22yo looking like 17 Thank you for 20k 🥺💕
+    location: "France"
+    followers: 20800
+    engagement: 921
+    commentsToLikes: 0.016472
+    id: ckbl0vz6kxr0q0j23gj72jy78
+    verified: false
+    hashtags: "#recette, #recipe, #cooking, #food"
+  - username: "cii_ndye"
+    fullname: >-
+      Dydie
+    bio: >-
+      Maman de Mayron 🐶 Undiz 👙 Aime la bouffe 🍫
+    location: "France"
+    followers: 6577
+    engagement: 792
+    commentsToLikes: 0.018650
+    id: ck9fcswx2lev30j78uro0cnmt
+    verified: false
+    hashtags: "#pourtoi, #tiktokfoodie, #dogchallenge, #foodlover"
+  - username: "pereetfishrestaurant"
+    fullname: >-
+      Père & Fish
+    bio: >-
+      Street Food de Poisson Frais 🐟 On cuisine 🔪On partage 🤤 & Tu kiffes 💙
+    location: "France"
+    followers: 15200
+    engagement: 579
+    commentsToLikes: 0.026161
+    id: cka0vlc04z1lo0i78seahyynz
+    verified: true
+    hashtags: "#foodporn, #fishburger, #tiktokchef, #foodcomedy"
+  - username: "izeecook"
+    fullname: >-
+      Sopien_lifestyle
+    bio: >-
+      YouTube: IzeeCOOK tv💕Insta: sopien_lifestyle💕Facebook: IzeeCOOK. Abonne-toi 😘
+    location: "France"
+    followers: 15200
+    engagement: 718
+    commentsToLikes: 0.008610
+    id: ckce1cyeqi7ln0j23r54uw0es
+    verified: false
+    hashtags: "#yumm, #izeecook, #pourtoi, #foryou"
 ---

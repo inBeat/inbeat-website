@@ -1,11 +1,11 @@
 ---
-title: Top 10 Songwriters TikTok Influencers in 2023
+title: Top 10 Songwriters TikTok Influencers In 2023
 description: >-
-  Find top songwriters TikTok influencers in 2023. Most popular hashtags: #duet #fyp #foryoupage #voiceeffects.
+  Find top songwriters TikTok influencers in 2023. Most popular hashtags: #duet #fyp #foryou.
 platform: TikTok
-hits: 509
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 509 TikTok influencers like this for you to collaborate.
+hits: 586
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 586 TikTok influencers like this for you to pitch.
 profiles:
   - username: "iamjordiofficial"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Singer/Dancer/Songwriter 💘 IG: iamjordiofficial YT: iAmJordi SC: iamjordi1
     location: "United States"
-    followers: 6800000
-    engagement: 3055
-    commentsToLikes: 0.033578
+    followers: 7600000
+    engagement: 2510
+    commentsToLikes: 0.014721
     id: ck8kdaihg4wob0j780t4ls400
     verified: true
-    hashtags: ""
-  - username: "iamtobygrey"
+    hashtags: "#romweback2school, #dancingqueenchallenge, #onebreathchallenge"
+  - username: "jacibutler"
     fullname: >-
-      Toby Grey
+      Jaci Butler
     bio: >-
-      (She/her) 🎤 I am a singer and songwriter. Pls check out my music below👇💙🌴
-    location: "United Kingdom"
-    followers: 123100
-    engagement: 3298
-    commentsToLikes: 0.051164
-    id: ckd08h31ob5f00j23oqlqkmi3
-    verified: false
-    hashtags: "#fyp, #foryou, #tobygreyhair, #foryoupage"
+      That Girl with the Green Hair🌱 singer/songwriter ☢️ she/her💚 spotify ⚡️⤵️
+    location: "United States"
+    followers: 4100000
+    engagement: 1213
+    commentsToLikes: 0.031182
+    id: ck9ej7son17sq0j78hh6kezsa
+    verified: true
+    hashtags: "#pickupline, #greenscreen, #finishthelyric, #linkinbio"
   - username: "mchewlett"
     fullname: >-
       MC Hewlett
     bio: >-
-      Kindness Consultant 🤗❤️✌🏻 Doorholder 🙋🏼‍♀️ Singer Songwriter
+      Kindness Consultant ❤️🤗 Singer Songwriter...Insta @mchewlettmusic NYC/Nash
     location: "United States"
-    followers: 3595
-    engagement: 2209
-    commentsToLikes: 0.368140
+    followers: 5201
+    engagement: 2842
+    commentsToLikes: 0.614035
     id: ckcpt37c6nnf10j23w6b9vpnr
     verified: false
-    hashtags: "#foryoupage, #duet, #fyp, #gardenproject"
+    hashtags: "#lovetiktok, #lovetok, #summervibes, #roadto10k"
+  - username: "davidhammmusic"
+    fullname: >-
+      david🥀
+    bio: >-
+      he/him singer/songwriter snap david.hamm30 follow instagram for add back on snap
+    location: "United States"
+    followers: 260800
+    engagement: 2671
+    commentsToLikes: 0.035912
+    id: ckbr7wflcmyk40j23lnzqc8jt
+    verified: false
+    hashtags: "#fyp, #foryou, #stitch, #voiceeffects"
   - username: "thepinkmoose"
     fullname: >-
       ⭐️ Amy Dean ⭐️
     bio: >-
       💗 I pick ppl daily & like ur videos 🎶 Singer/Songwriter/Comedy 🎭 #mooserfam
     location: "United States"
-    followers: 35300
-    engagement: 1976
-    commentsToLikes: 0.056815
+    followers: 34700
+    engagement: 1946
+    commentsToLikes: 0.049932
     id: ckaikzlahlsa60i78w3wiqi18
     verified: true
-    hashtags: "#lol, #petsoftiktok, #foryoupage, #coronavirus"
-  - username: "sanctuaryvegan"
+    hashtags: "#petsoftiktok, #keepingitcute, #lol, #makesomeonesmile"
+  - username: "miggie.snyder"
     fullname: >-
-      Matthew Sanctuary
+      Miggie Snyder
     bio: >-
-      Vegan 🌱 musician 🎵 Following back 💯 songwriter 🔥for @mattyglilwinter
-    location: "United Kingdom"
-    followers: 9066
-    engagement: 1924
-    commentsToLikes: 0.211800
-    id: ckcj5asmo5m4b0j23pedom2ma
+      LEGENDS OUT NOW singer/songwriter 24 | she/her ⬇️ MUSIC LINKS ⬇️
+    location: "United States"
+    followers: 65400
+    engagement: 1822
+    commentsToLikes: 0.067417
+    id: ckb18jg4pwczw0j235cdofxph
     verified: false
-    hashtags: "#youbettheydie, #veganchallenge, #voiceeffects, #vegan"
+    hashtags: "#duet, #singer, #miggietok, #songwriter"
   - username: "courtneyyoungccm"
     fullname: >-
       Courtney Young
     bio: >-
-      WRSHP leader🖤Singer-songwriter ✨SHINE ON✨ ⬇️About⚡️Contact⬇️
+      WA📍 Singer-songwriter💫WRSHP leader🙌🏻 #shineon✨ ⬇️’Just Breathe’ LISTEN NOW⬇️
     location: "United States"
-    followers: 17500
-    engagement: 1923
-    commentsToLikes: 0.370826
+    followers: 47000
+    engagement: 1525
+    commentsToLikes: 0.268403
     id: ckbbgef6151010j23edik1td4
     verified: false
-    hashtags: "#worshipleader, #millennialsoftiktok, #spreadjoy, #christiantiktok"
-  - username: "aryyzona"
+    hashtags: "#shineon, #singersongwriter, #justbreathe, #duet"
+  - username: "kamikazedivine4"
     fullname: >-
-      aryy
+      Koby Mita
     bio: >-
-      i’m a singer-songwriter with a ukulele obsession❣️🇧🇷🇺🇸 stream i was wrong⤵️
-    location: "United States"
-    followers: 88700
-    engagement: 1909
-    commentsToLikes: 0.078526
-    id: ckajax8w1l1nb0i78ffhmhl0d
+      🥐19 - Singer/Songwriter🥐 The amount of cheese you should use is subjective🧀 ♐
+    location: "Australia"
+    followers: 17700
+    engagement: 2463
+    commentsToLikes: 0.074364
+    id: ckan0mal0rbc70i78w1vuvop7
     verified: false
-    hashtags: "#indieartist, #originalsong, #indiesongs, #independentartist"
+    hashtags: "#original, #artist, #whydoesthisexist, #sideprofile"
   - username: "thisisfiamusic"
     fullname: >-
       Fia Forsström
     bio: >-
       📍Sweden | Artist & Songwriter
     location: "United States"
-    followers: 52000
-    engagement: 1992
-    commentsToLikes: 0.044694
+    followers: 58700
+    engagement: 1857
+    commentsToLikes: 0.045656
     id: ckd6w9z3sruet0j23qf1qnr8n
     verified: false
-    hashtags: "#spirituality, #personaldevelopment, #magic, #healing"
-  - username: "erikformosa"
+    hashtags: "#mantra, #uplifting, #spirituality, #healing"
+  - username: "hangulandheather"
     fullname: >-
-      ERIK FORMOSA
+      Heather Palmer Pills
     bio: >-
-      🎶 Singer/Songwriter #formosalife 💙❤️ ⬇️ #pömpellife Merch -15% Rabatt ⬇️
-    location: "Germany"
-    followers: 83400
-    engagement: 1869
-    commentsToLikes: 0.062235
-    id: ckb9txnnws6um0j23g4cajvd0
-    verified: false
-    hashtags: "#formosalife, #amongusvideos, #duett, #verstecken"
-  - username: "miggie.snyder"
-    fullname: >-
-      Miggie Snyder
-    bio: >-
-      23 singer/songwriter NEW SINGLE: GHOST OUT NOW 👻 PO BOX 4478 Lisle, IL 60532
+      Songwriter | Musician Korean Culture Enthusiast
     location: "United States"
-    followers: 27800
-    engagement: 1818
-    commentsToLikes: 0.063121
-    id: ckb18jg4pwczw0j235cdofxph
+    followers: 16300
+    engagement: 1805
+    commentsToLikes: 0.062389
+    id: ckbbbj8nt0ltj0j237q8vmufw
     verified: false
-    hashtags: "#newmusic, #originalmusic, #legendlake, #legendlakegirl"
+    hashtags: "#bts, #christian, #btsarmy, #btsxarmy"
 ---

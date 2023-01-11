@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Russia in 2023
+title: Top 10 Travel Instagram Influencers In Russia In 2023
 description: >-
-  Find top travel Instagram influencers in Russia in 2023. Most popular hashtags: #travel #video #travelblog.
+  Find top travel Instagram influencers in Russia in 2023. Most popular hashtags: #mountains #nature #travel.
 platform: Instagram
-hits: 1320
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 1320 Instagram influencers like this in Russia for you to contact.
+hits: 1369
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 1369 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "julie_pr_spb"
+  - username: "orkhanaslanov"
     fullname: >-
-      Вышивка за чашкой кофе☕️
+      ORKHAN ASLANOV
     bio: >-
-      🔻Магазин ⏩ @crossstitch.pro 🔻Вышивка #вышивка_julie_pr 🔻Выставки #выставки_julie_pr 🔻Путешествия #travel_julie_pr 🔻Блог 🌐julie-pr.ru
+      PHOTOGRAPHER & TRAVELER . INFLUENCER . Phone & whatsapp +994 502422242 Email: aslanovstudio@gmail.com
     location: "Russia"
-    followers: 13627
-    engagement: 712
-    commentsToLikes: 0.029228
-    id: ck9win6kb31cg0j78d2v0s8ac
+    followers: 69535
+    engagement: 378
+    commentsToLikes: 0.029766
+    id: ck55n9dzy5qiu0i116c12jfsv
     verified: false
-    hashtags: "#travel"
+    hashtags: "#icelandwithjohnnie, #nomakeup, #noretouch, #samsung"
   - username: "elvira_1_"
     fullname: >-
       Эльвира Шигапова
     bio: >-
       📺 журналист 1 Канала /journalist 1TV Channel Russia 📝пишу/writing 🌎путешествую/traveling 🎨рисую/drawing
     location: "Russia"
-    followers: 5525
-    engagement: 2732
-    commentsToLikes: 0.144124
+    followers: 5494
+    engagement: 2163
+    commentsToLikes: 0.126870
     id: ckap6v4iehh440i78wepuv4fz
     verified: false
-    hashtags: "#tv, #family, #fam, #lady"
-  - username: "stefandariana"
+    hashtags: "#gift, #palmtree, #women, #instagram"
+  - username: "svethappy"
     fullname: >-
-      
+      Многодетная мама блогер Минск
     bio: >-
-      traveling with dogs inspiration project @ph.stefandariana Moscow | Izmir
+      Как бюджетно улететь на Мальдивы #svethappy_travel_maldives О покупках онлайн в США #svethappy_покупки Тьма полезного #svethappy_навигация
     location: "Russia"
-    followers: 6726
-    engagement: 1873
-    commentsToLikes: 0.113332
-    id: ck14k9d56oeki0i194uf79z4m
+    followers: 84887
+    engagement: 375
+    commentsToLikes: 0.060573
+    id: ckaov35h42xfu0i78e5933xf0
     verified: false
-    hashtags: "#ankara, #travelblog, #husky, #huskylove"
+    hashtags: "#svethappy"
+  - username: "alexey_shanin"
+    fullname: >-
+      Алексей Шанин / Alexey Shanin
+    bio: >-
+      Автор видео и публикаций о рыбалке. 9-times World angling Champion. Pro-angler, World traveler, aviation fan. Krasnodar, Russia 🇷🇺
+    location: "Russia"
+    followers: 60941
+    engagement: 620
+    commentsToLikes: 0.040563
+    id: ck6ui6eapdbp60j71oiz2f7tb
+    verified: false
+    hashtags: "#duojpn, #pontoon21, #fhmoutdoor, #fhmshanin"
   - username: "jusjka"
     fullname: >-
       Travel Latvia & Baltics / РИГА
     bio: >-
       🏕Маршруты по странам Балтии/ Maršruti Baltijā 🕵🏽‍♀️Необычные места и простые отзывы 🗺Куда поехать на выходных: #jusjka_i ⠀ 🚘MARŠRUTI / TRAVEL ROUTES:
     location: "Russia"
-    followers: 11506
-    engagement: 1167
-    commentsToLikes: 0.650608
+    followers: 11555
+    engagement: 990
+    commentsToLikes: 0.329879
     id: ck0u2mxns0et20i19eewgwiit
     verified: false
     hashtags: "#konkursslatvija, #riga, #konkurss, #latvija"
-  - username: "missis_oleana_mva"
+  - username: "ekaterinaandreeva_official"
     fullname: >-
-      Oleana|Travel🌷Hygge
+      Екатерина Андреева
     bio: >-
-      ✈ travel - diary with love ❀ ♡ собираю фото из разных уголков мира 🌿заряжаю счастьем и гармонией • создаю декор для фотодней ✐ Loleana@bk.ru
+      •Первый канал •«Время» •Travel and... 🤗 •Сотрудничество-ekandreevapr@gmail.com #снамиопасноноинтересно
     location: "Russia"
-    followers: 33821
-    engagement: 738
-    commentsToLikes: 0.048443
-    id: ck15tif1qi8h90i198jnmos9t
-    verified: false
-    hashtags: "#victoriassecretrussia"
-  - username: "oksana.happysoul"
-    fullname: >-
-      Oksana Rudenko
-    bio: >-
-      🌏 World Citizen ✈️ Passionate Traveller 👩🏼‍💻 Business Development Professional 💫 Beauty and lifestyle
-    location: "Russia"
-    followers: 20331
-    engagement: 1053
-    commentsToLikes: 0.050534
-    id: ckaoxorsoe5l30i78d3vejq83
-    verified: false
-    hashtags: ""
+    followers: 563991
+    engagement: 176
+    commentsToLikes: 0.036987
+    id: ck14k1xlanbhe0i19d157h9zy
+    verified: true
+    hashtags: "#animals, #wild, #africa, #nature"
   - username: "_alinakalinina_"
     fullname: >-
       Алина Калинина
     bio: >-
-      LIFESTYLE & TRAVEL & DRIVE 📝 В свободное время пишу про отношения и думаю о жизни
+      LIFESTYLE & TRAVEL & DRIVE Влюбляю в вышеперечисленное
     location: "Russia"
-    followers: 67509
-    engagement: 425
-    commentsToLikes: 0.086492
+    followers: 71927
+    engagement: 424
+    commentsToLikes: 0.100917
     id: ck55k9r1sytgn0i11lebc75gw
     verified: false
-    hashtags: "#smm, #video, #liketime, #liketimes"
-  - username: "_diana_gd"
+    hashtags: "#wintermood, #liketimes, #liketimegame, #kbwomen"
+  - username: "angelina"
     fullname: >-
-      𝐿𝒾𝒻𝑒𝓈𝓉𝓎𝓁𝑒 & 𝓉𝓇𝒶𝓋𝑒𝓁
+      A N G E L I N A
     bio: >-
-      🧳 Путешественник со стажем 👗 Помешана на моде ✈️ Групповые путешествия со смыслом в @newconcept.travel ☁️ Вдохновляю и вдохновляюсь
+      Lifestyle&Travel Girl 📽TikTok angelina 447k 🌍39 countries Now: Istanbul🇹🇷 📩lina.shashki@gmail.com
     location: "Russia"
-    followers: 3220
-    engagement: 2549
-    commentsToLikes: 0.074704
-    id: ckap43d4y5nvi0i78qzz96052
+    followers: 243198
+    engagement: 690
+    commentsToLikes: 0.062894
+    id: ck0tzla5qqqt80i19zeq0uhru
     verified: false
-    hashtags: ""
-  - username: "ekaterinanefedova_"
+    hashtags: "#larocheposayrussia, #alltimeru"
+  - username: "madame_perrier"
     fullname: >-
-      Екатерина Блогер Мама Самара
+      Настоящая Франция
     bio: >-
-      🔸️покажу где скидки #помагазинам_kate 🔸️делюсь рецептами 🔸️путешествую по Самаре #kat_samara_travel 🔸️Еженедельные РОЗЫГРЫШИ 🎁
+      Мария 18 лет на Юге🇫🇷 Франция без розовых👓 Еда🧀Вино🍷Французы👨‍🎨 Food Wine Travel Influencer 👉#maryperrier_навигация
     location: "Russia"
-    followers: 12154
-    engagement: 786
-    commentsToLikes: 0.780209
-    id: ck6u3sh53zmca0j71xf593r8m
+    followers: 116983
+    engagement: 321
+    commentsToLikes: 0.072730
+    id: ck15unqeeo23e0i19snlwwa31
     verified: false
-    hashtags: "#faberlicbeyourbest"
-  - username: "_inna_demchenko"
+    hashtags: "#maryperrier"
+  - username: "maria_ponomaryova"
     fullname: >-
-      INNA 🦂
+      Мария Пономарева
     bio: >-
-      • travelholic • 20 countries... ★ • sport🤍 • founder : @keeplove_krd_ @cosmetic.love.krd @gate__17
+      Travel | Lifestyle ⚡️Разрешила себе жить так, как хочу, и разрешу тебе тоже 📝 Пишу так, что ты не сможешь оторваться ✉️ PonomaryovaAdv@gmail.com
     location: "Russia"
-    followers: 42188
-    engagement: 712
-    commentsToLikes: 0.025908
-    id: ck6u4mtm24mdj0j71e2oh0i87
+    followers: 711383
+    engagement: 291
+    commentsToLikes: 0.029337
+    id: ck0ty3lbilh9a0i1925ll5je8
     verified: false
-    hashtags: ""
+    hashtags: "#lifewear, #mp, #uniqlodailylook, #uniqlogiftswithheart"
 ---

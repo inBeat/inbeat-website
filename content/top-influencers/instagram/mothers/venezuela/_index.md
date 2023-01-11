@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Venezuela in 2023
+title: Top 10 Mothers Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top mothers Instagram influencers in Venezuela in 2023. Most popular hashtags: #love #photography #mothersday #venezuela.
+  Find top mothers Instagram influencers in Venezuela in 2023. Most popular hashtags: #motherhood #colombia #babyphotography #mamaprimeriza.
 platform: Instagram
-hits: 31
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 31 Instagram influencers like this in Venezuela for you to connect with.
+hits: 11
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 11 Instagram influencers like this in Venezuela for you to work with.
 profiles:
+  - username: "morellafitness"
+    fullname: >-
+      Morella Potolicchio Villalba
+    bio: >-
+      👣 #HealthyMom @bemorechiara 👩🏻‍🍳Chef Saludable Certificada 🍞CEO @eatmorefit 💡Content Creator & Recipe Developer 🏆6ta BikiniWorldRanking 17’
+    location: "Venezuela"
+    followers: 41721
+    engagement: 238
+    commentsToLikes: 0.031316
+    id: ck15sckg2cbp50i19o02ptrgu
+    verified: false
+    hashtags: "#motherhood, #fitfood, #momsofinstagram, #momlife"
   - username: "andreinarusso"
     fullname: >-
       Virginia A. Vasquez Russo
     bio: >-
-      🦋 Lupus Warrior 🧔🏻 Husband @sardaniscas 👦🏻 Brother @moisesarusso 👶🏻 Baby boy @babymarquito 🐶 Baby girl @babychanttal 📨 Publicidad e intercambio
+      ⬇️ AYUDA ⬇️
     location: "Venezuela"
-    followers: 220193
-    engagement: 123
-    commentsToLikes: 0.053220
+    followers: 218736
+    engagement: 176
+    commentsToLikes: 0.315935
     id: ck13bqemhwog90i191gbpg8kf
     verified: false
-    hashtags: "#papa, #newbornphoto, #aragua, #newbornphotographer"
-  - username: "fonsecafotografia"
+    hashtags: "#handmade, #quieromik300enmultipos, #newbornphoto, #babiesofinstagram"
+  - username: "quelocuraadolfito"
     fullname: >-
-      Leonardo Fonseca - Fotografia
+      THE MONKEY #TEAMALDEA🐒🇯🇲
     bio: >-
-      Fotógrafo de Bodas y Eventos Sociales 📞+58 424 6359842 📨 fotolf@hotmail.com Venezuela / Panama / Colombia / Aruba
+      SÍGUEME Y DISFRUTA😈🔞 ~Soy el loco de mami😛 ~Solo vibras positivas🔋 DIOS MI GUÍA 🙏🏽 ~Embajador: @myself23gram CEO: - @barbersing__ 💈 - @fajasblushop 👗
     location: "Venezuela"
-    followers: 35327
-    engagement: 124
-    commentsToLikes: 0.083102
-    id: ck5cjidr3us630i11nj7ml15i
+    followers: 19608
+    engagement: 1002
+    commentsToLikes: 0.219252
+    id: ck5zvsbnm4tyz0i140ipy3xnt
     verified: false
-    hashtags: "#beautiful, #espan, #venezuela, #instagood"
-  - username: "ori.ocre"
+    hashtags: "#humorespan, #humorvenezolano, #risas, #humor"
+  - username: "aprendoasermama"
     fullname: >-
-      Ori Center
+      María Mercedes Socorro
     bio: >-
-      🐘Alma creativa y apasionada por la escritura 👪🐶Comparto mi día a día como mamá ❤️ @gringocomearepa
+      100% maternidad Chef Periodista Locutora Maracaibo - Venezuela
     location: "Venezuela"
-    followers: 39637
-    engagement: 306
-    commentsToLikes: 0.035774
-    id: ck14lgncoukr20i19u2tz67w0
+    followers: 49637
+    engagement: 26
+    commentsToLikes: 0.084561
+    id: ck1377l6ia6yh0i19qxjf940q
     verified: false
-    hashtags: "#maternidadereal, #maternidadreal, #maternidad, #sue"
-  - username: "orianalucchese_"
+    hashtags: "#maracaibo, #mamadedos, #miocapricciovzla, #vinoparaquedarse"
+  - username: "pranajuicebar"
     fullname: >-
-      Oriana Lucchese
+      PRANA JUICE BAR
     bio: >-
-      @shopallie_ @lamersw
+      Jugos Cold Pressed || Comida Vegetariana 0424 165 4165 #LPG 0424 216 4316 #LaCastellana PICKUP: 7:30am a 4:30pm DELIVERY: 8am a 4pm
     location: "Venezuela"
-    followers: 157559
-    engagement: 338
-    commentsToLikes: 0.006450
-    id: ck15t71asgnx50i19zhz8fg5z
+    followers: 41110
+    engagement: 69
+    commentsToLikes: 0.021512
+    id: ck8t307ce1e3j0j78bpdy5knb
     verified: false
-    hashtags: "#mothersday, #shopallie, #summertime, #nightout"
-  - username: "ledezma_daya"
+    hashtags: "#coldpressed, #caracas, #healthy, #chacao"
+  - username: "drnelsonleon"
     fullname: >-
-      Dayana Ledezma 🇻🇪
+      Nelson León - Maxilofacial
     bio: >-
-      |Lifestyle| Una vida como la tuya... Llena de historias 🌺 Tips de belleza y contagiarte con mi sonrisa. Mi marca @smartmobile_dl ;hobby @dl_misfrases
+      📞+58 212 9880526 📲WhatsApp+58 4125415222 📩infomaxilofacial@gmail.com Cirugía Ortognática-Implantes Dentales Cirugía Maxilofacial 🇻🇪Caracas-VENEZUELA
     location: "Venezuela"
-    followers: 16885
-    engagement: 294
-    commentsToLikes: 0.022799
-    id: ck6ubutf3btux0j71tnye0zn0
+    followers: 112514
+    engagement: 158
+    commentsToLikes: 0.036701
+    id: ck15ryt16ads10i19mtlodxcg
     verified: false
-    hashtags: "#love, #photography, #house, #likeforlike"
-  - username: "danielaalvareztv"
+    hashtags: "#gummysmile, #orthognathic, #facialchange, #surgery"
+  - username: "danigoico"
     fullname: >-
-      Daniella Alvarez
+      Daniela Goicoechea
     bio: >-
-      👑 Miss Colombia 2011-2012 Unicef Ambassador Tv Host Mánager @tatianazuluagal @danielaalvarezboutique Nominada Influenciadora Latina del 2020
+      ⚡️ Co Founder @brandcrops 📚 Mi propósito es inspirar a las personas a seguir creciendo 🍔 former CMO de @goiko 📍 MADRID 🇪🇸🇻🇪 👇 Asesoría y eventos
     location: "Venezuela"
-    followers: 3062292
-    engagement: 468
-    commentsToLikes: 0.023558
-    id: ck6tuwcuyisnn0j71yjrek1ha
-    verified: true
-    hashtags: "#amputee, #stylish, #koalachallenge, #publicidad"
-  - username: "claudiasserrano"
+    followers: 28241
+    engagement: 13503
+    commentsToLikes: 1.269948
+    id: ckapbc3xizcse0i78se1b5kwy
+    verified: false
+    hashtags: "#alaibg, #untamed, #apple, #pandemia"
+  - username: "irepelusa"
     fullname: >-
+      🐨
+    bio: >-
       
-    bio: >-
-      Maquilladora Profesional Certificada🇻🇪 Citas y cursos inf al Dm👍🏻 La vida es un constante aprendizaje🙏🏻 Ceo @serranoshopsc
     location: "Venezuela"
-    followers: 45539
-    engagement: 454
-    commentsToLikes: 0.029502
-    id: ck6ubvhc8bxz00j71t7avozje
-    verified: false
-    hashtags: "#teamsserrano, #makeupartist, #claudiaserranomakeup, #makeup"
-  - username: "asoteldo"
+    followers: 51860
+    engagement: 1641
+    commentsToLikes: 0.014820
+    id: ck5cjbr3cueja0i11tskxbjbs
+    verified: true
+    hashtags: "#tbt, #laconga, #xulitos, #lacosta"
+  - username: "oceanomartina"
     fullname: >-
-      Alejandro Soteldo 🇻🇪
+      Martina Alvarez ➶
     bio: >-
-      #RebeldesConPropósito ⚡️ Presentador | Artista | Actor 🎥#TVHost de @venevision en @atomicooficial 👨🏼‍🎨Design Studio👉🏼@soteldo.studio
+      🐚 Dandole “voz” al océano 🐚 Mi casa es un barco 🐚Instructora de buceo 🐚Missing Sharks documental
     location: "Venezuela"
-    followers: 22741
-    engagement: 539
-    commentsToLikes: 0.075349
-    id: ck602x1lzjs7m0i14chfvlftd
+    followers: 21098
+    engagement: 314
+    commentsToLikes: 0.065714
+    id: ck5zluqmilf4n0i14sw56dp1q
     verified: false
-    hashtags: "#instaholic, #republicadominicana, #igers, #malemodel"
-  - username: "guillegiagante"
+    hashtags: "#colombia, #panama, #localkids, #womenoftheocean"
+  - username: "pisoocho"
     fullname: >-
-      Guillermo Giagante
+      El Piso 8
     bio: >-
-      Fotógrafo. Conferencista TEDx. Cursos y workshops de fotografía, online en vivo para toda América Latina. Info:
+      Sello discográfico - Estudio creativo Lluvia (REMIX) 🔽
     location: "Venezuela"
-    followers: 9962
-    engagement: 776
-    commentsToLikes: 0.049424
-    id: ckap98q8hrmoz0i784hx8uk98
+    followers: 8775
+    engagement: 387
+    commentsToLikes: 0.019799
+    id: ck5zptw3otc4s0i14gjdtujnc
     verified: false
-    hashtags: "#theimaged, #outdoortones, #tripinargentina, #igargentina"
-  - username: "jelianedasilva"
-    fullname: >-
-      Jeliane Da Silva Castillo
-    bio: >-
-      LA ZANAHORIA 🥕🔝🟠 @carrotswimwear
-    location: "Venezuela"
-    followers: 15260
-    engagement: 433
-    commentsToLikes: 0.102685
-    id: ck55lhqc01li70i119oykui6d
-    verified: false
-    hashtags: "#singer, #picsart, #latinas, #venezuela"
+    hashtags: "#estreno, #thewonderisland, #20, #probandoshit"
 ---

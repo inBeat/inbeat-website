@@ -1,36 +1,24 @@
 ---
-title: Top 10 Crossfit TikTok Influencers in 2023
+title: Top 10 Crossfit TikTok Influencers In 2023
 description: >-
-  Find top crossfit TikTok influencers in 2023. Most popular hashtags: #fyp #crossfit #foryou #duet.
+  Find top crossfit TikTok influencers in 2023. Most popular hashtags: #crossfit #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 371
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 371 TikTok influencers like this for you to collaborate.
+hits: 379
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 379 TikTok influencers like this for you to connect with.
 profiles:
-  - username: "doctorwho1109"
+  - username: "jam_f1t"
     fullname: >-
-      DoctorWho11
+      Joshua Miller
     bio: >-
-      #whoviansquad🤠#bowtiesarecool BFF @mark_kansas03 🤓☕️#Crossfit
+      🛑Follow my insta↗️ MD.18+🔞 Olympic lifting/CrossFit 🖤💪🏼😈
     location: "United States"
-    followers: 10000
-    engagement: 1969
-    commentsToLikes: 0.118201
-    id: ck8ncg6utebeg0j7829pz1dyk
+    followers: 86200
+    engagement: 1690
+    commentsToLikes: 0.052997
+    id: ckblgzfqqai7m0j23g1klo6vx
     verified: false
-    hashtags: "#followher, #smile, #followhim, #comedy"
-  - username: "leitomarchiori"
-    fullname: >-
-      Leonardo Marchiori
-    bio: >-
-      🔴 IG: @leitomarchiori CrossFit Coach +Music +Drawing +Martial Arts +Boludeces
-    location: "Argentina"
-    followers: 16300
-    engagement: 1049
-    commentsToLikes: 0.066964
-    id: ckbf85nskyfou0j23wfez7vpw
-    verified: false
-    hashtags: "#humor, #consejosutiles, #cuarentena, #consejos"
+    hashtags: "#gym, #gymshark, #blueeyes, #fitness"
   - username: "amberrnfit"
     fullname: >-
       AmberRNFit
@@ -42,89 +30,101 @@ profiles:
     commentsToLikes: 0.038710
     id: ckb9fg33p3wjh0j23d4f5q20l
     verified: false
-    hashtags: "#familytime, #fyp, #foodfam, #scoobdance"
-  - username: "stephenduh"
+    hashtags: "#yoplaitcuprelay, #duet, #itsaremix, #scoobdance"
+  - username: "leitomarchiori"
     fullname: >-
-      Stephen Duhaime
+      Leonardo Marchiori
+    bio: >-
+      🔴 IG: @leitomarchiori CrossFit Coach +Music +Drawing +Martial Arts +Boludeces
+    location: "Argentina"
+    followers: 16300
+    engagement: 1023
+    commentsToLikes: 0.061292
+    id: ckbf85nskyfou0j23wfez7vpw
+    verified: false
+    hashtags: "#argentina, #cuarentena, #consejosutiles, #consejos"
+  - username: "thickfila0"
+    fullname: >-
+      Thick Fil A
     bio: >-
       Following back on ig⬆️ Jesus first #crossfitislife Tysmmm for 100k!
     location: "United States"
-    followers: 110600
-    engagement: 2157
-    commentsToLikes: 0.019134
+    followers: 106900
+    engagement: 2075
+    commentsToLikes: 0.021362
     id: ck8vtjo0fgin10j78pm9rk27s
     verified: false
-    hashtags: "#viral, #fyp, #pov, #relatable"
+    hashtags: "#viral, #relatable, #pov, #fyp"
   - username: "faria_maikon"
     fullname: >-
       Maikon Faria
     bio: >-
       Irmão do Michel Gestor Eng. Produção Crossfiteiro Insta @maikon_faria
     location: "Brazil"
-    followers: 108300
-    engagement: 1736
-    commentsToLikes: 0.034931
+    followers: 111500
+    engagement: 1631
+    commentsToLikes: 0.032191
     id: ckbwhyzxm2zvj0j23gtuba6tn
     verified: false
-    hashtags: "#tiktok, #amordeirmao, #amor, #fyp"
+    hashtags: "#pets, #familia, #irmaos, #tiktok"
+  - username: "doctorwho1109"
+    fullname: >-
+      DoctorWho11
+    bio: >-
+      #whoviansquad🤠#bowtiesarecool BFF @mark_kansas03 🤓☕️#Crossfit
+    location: "United States"
+    followers: 10000
+    engagement: 1048
+    commentsToLikes: 0.143001
+    id: ck8ncg6utebeg0j7829pz1dyk
+    verified: false
+    hashtags: "#fyp, #friends, #comedy, #duet"
   - username: "nickdompierre"
     fullname: >-
       nickdompierre
     bio: >-
-      Zoe 🐶 CrossFit 🏋🏻‍♂️ Youtube 📺
+      Laura 👸🏽 Zoe 🐶 CrossFit 🏋🏻‍♂️ Youtube 📺
     location: "United States"
-    followers: 28100
-    engagement: 979
-    commentsToLikes: 0.041327
+    followers: 51200
+    engagement: 1086
+    commentsToLikes: 0.035759
     id: ckbf7nv1ixlkh0j23fcbdhqkb
     verified: false
-    hashtags: "#frenchie, #foryou, #crossfit, #foryoupage"
-  - username: "matthstealsmiles"
+    hashtags: "#skateboarding, #glutes, #workout, #foryoupage"
+  - username: "samaradamm"
     fullname: >-
-      Matthew Cordaz
+      Samara Damian
     bio: >-
-      🇮🇹 Chiavari (Ge) Crossfit🏋️‍♀️Gamer 🎮Otaku 🦁Cosplay 🃏 LIVE stasera 23.30
+      👾Streamer🎮 Crossfit🏋🏻‍♀️ Proxomamente en Twitch🙇‍♀️ Soy buena onda🤪
+    location: "Mexico"
+    followers: 34100
+    engagement: 2025
+    commentsToLikes: 0.026090
+    id: ckbalx1w4cw6d0j23l4qn8768
+    verified: false
+    hashtags: "#foryou, #xyzbca, #like, #viral"
+  - username: "giuliastime"
+    fullname: >-
+      Giulia Cai
+    bio: >-
+      hi there 21 | almost vegan | crossfit | breakfast queen 📸 IG: novemberregen_
     location: "Italy"
-    followers: 9657
-    engagement: 1122
-    commentsToLikes: 0.130022
-    id: ckbf1clurndva0j23lzt2gfvw
+    followers: 3463
+    engagement: 850
+    commentsToLikes: 0.037335
+    id: ck8fayxkt4pkc0j78k6kkwjvj
     verified: false
-    hashtags: "#trend, #dpcm, #joker, #unicorn"
-  - username: "oceaneb562"
-    fullname: >-
-      Oceaneb56🏋🏼‍♀️
-    bio: >-
-      Instagram 📷 oceaneb56 ↖️ 21 ans Crossfiteuse 💪🏻🏋🏼‍♀️
-    location: "France"
-    followers: 19600
-    engagement: 923
-    commentsToLikes: 0.046452
-    id: ckbl12xwexuxw0j23lz1mfgej
-    verified: false
-    hashtags: "#foryou, #soeur, #transition, #pourtoi"
+    hashtags: "#oats, #selflove, #crossfitter, #oatmeal"
   - username: "tonton_fit"
     fullname: >-
       Tonton Fit
     bio: >-
       🎉 Fun & Crossfit 🏋🏻 #tontonfit
     location: "France"
-    followers: 4772
-    engagement: 700
-    commentsToLikes: 0.050528
+    followers: 4912
+    engagement: 651
+    commentsToLikes: 0.048271
     id: ck9uw86tfuipj0j782ckesvl2
     verified: false
-    hashtags: "#fun, #confinement, #confinement2, #trentenaire"
-  - username: "daytonamoore"
-    fullname: >-
-      Daytona Moore (✿◠‿◠)
-    bio: >-
-      mama • makeup • CrossFit • sobriety • women empowerment • OF link below!
-    location: "United States"
-    followers: 77200
-    engagement: 755
-    commentsToLikes: 0.027293
-    id: ckbf9lick0lnv0j23zh7i1w9d
-    verified: false
-    hashtags: "#heinzhalloween, #falldiy, #micellarrewind, #thatwitch"
+    hashtags: "#humour, #confinement, #confinement2, #fun"
 ---

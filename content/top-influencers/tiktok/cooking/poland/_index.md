@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Poland in 2023
+title: Top 10 Cooking TikTok Influencers In Poland In 2023
 description: >-
-  Find top cooking TikTok influencers in Poland in 2023. Most popular hashtags: #cooking #dlaciebie #dc #polska.
+  Find top cooking TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #foryou #cooking.
 platform: TikTok
-hits: 27
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database has 27 TikTok influencers like this in Poland for you to collaborate.
+hits: 25
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 25 TikTok influencers like this in Poland for you to contact.
 profiles:
-  - username: "kvjkvmjvl"
-    fullname: >-
-      kajakamilajulka
-    bio: >-
-      KOCHAM MOICH FANÓW JESTEŚCIE SUPER 😍😍❤️💜💜💜❤️😍😍😍😍
-    location: "Poland"
-    followers: 12900
-    engagement: 1153
-    commentsToLikes: 0.043550
-    id: ckachgbn6z9b50i788vnym45b
-    verified: false
-    hashtags: "#dc, #cooking, #polska, #foryoupage"
   - username: "freezinka"
     fullname: >-
       freezinka
     bio: >-
       Zina (Wasza Zi) Śmieszki, ciekawostki i trochę depreski Spełniam swoje marzenie
     location: "Poland"
-    followers: 59600
-    engagement: 1121
-    commentsToLikes: 0.015303
+    followers: 62900
+    engagement: 1098
+    commentsToLikes: 0.014078
     id: ckb0wn236ltlo0j23ufxk0whv
     verified: false
-    hashtags: "#przepis, #ciekawostka, #smaczne, #polska"
-  - username: "lenagryszko"
+    hashtags: "#foodlover, #jedzonko, #smieszki, #culturedifferences"
+  - username: "kvjkvmjvl"
     fullname: >-
-      lenagryszko
+      kajakamilajulka
     bio: >-
-      Life is too short to eat untasty food! All recipes on my IG ❤️
+      KOCHAM MOICH FANÓW JESTEŚCIE SUPER 😍😍❤️💜💜💜❤️😍😍😍😍
     location: "Poland"
-    followers: 170500
-    engagement: 1349
-    commentsToLikes: 0.007441
-    id: ck95vzwkn028m0j78s4pw9o56
-    verified: true
-    hashtags: "#vlog, #whatieatinaday, #przepis, #perfectmeal"
+    followers: 12700
+    engagement: 1126
+    commentsToLikes: 0.031816
+    id: ckachgbn6z9b50i788vnym45b
+    verified: false
+    hashtags: "#dessert, #polska, #foryoupage, #fit"
   - username: "boczkowska__"
     fullname: >-
       Zosia Boczkowska
     bio: >-
       Zosia18 🥧🍝 ✉️ zosia.boczkowska2@gmail.com 📍Poland
     location: "Poland"
-    followers: 203400
-    engagement: 1482
-    commentsToLikes: 0.003245
+    followers: 198000
+    engagement: 1385
+    commentsToLikes: 0.003452
     id: ck9n868398aut0j78qzbh85kk
     verified: false
-    hashtags: "#foryoupage, #dessert, #chocolate, #dc"
+    hashtags: "#chocolate, #foryoupage, #summer, #cookies"
   - username: "jarek_lorek"
     fullname: >-
       Jarek Lorek
     bio: >-
-      📷Instagram: jarek.lorek 🎥Youtube: Jarek Lorek 🍕Blog: pełniasmaku.pl
+      📷Instagram: jarek_lorek 🎥Youtube: Jarek Lorek 🍕Blog: pełniasmaku.pl
     location: "Poland"
-    followers: 38300
-    engagement: 557
-    commentsToLikes: 0.023280
+    followers: 38200
+    engagement: 575
+    commentsToLikes: 0.020017
     id: cka0ruvqeijky0i78ebo65epa
     verified: false
-    hashtags: "#trend, #cooking, #foryou, #duet"
-  - username: "wowmaciej"
-    fullname: >-
-      Maciej Łagan
-    bio: >-
-      🌚
-    location: "Poland"
-    followers: 19800
-    engagement: 1187
-    commentsToLikes: 0.006789
-    id: ck85cry0x3fs20j787orkevbv
-    verified: false
-    hashtags: "#poland, #lato, #konie, #natura"
+    hashtags: "#cooking, #dlaciebie, #polska, #foryou"
   - username: "kubachuba"
     fullname: >-
       Kubachuba
     bio: >-
       Food, drink and fun 😄
     location: "Poland"
-    followers: 5464
-    engagement: 401
-    commentsToLikes: 0.014150
+    followers: 5337
+    engagement: 378
+    commentsToLikes: 0.012060
     id: ckbl31c5g07op0j23rf0isef0
     verified: false
-    hashtags: "#dlaciebie, #foryourpage, #poland, #tiktokcreator"
+    hashtags: "#tiktokcreator, #cooking, #foryou, #foryoupage"
+  - username: "magdaciernicka"
+    fullname: >-
+      Magda Ściernicka
+    bio: >-
+      Insta: madzia_sciernicka ❤️ Szamotuły/Poznań ❤️ 18😈🔥
+    location: "Poland"
+    followers: 13000
+    engagement: 897
+    commentsToLikes: 0.043709
+    id: ckb9uog7ntek70j2340ojmdu7
+    verified: false
+    hashtags: "#tt, #foryou, #polishgirl, #trend"
   - username: "kreujeswojezycie"
     fullname: >-
       kreujeswojezycie
     bio: >-
-      🍩 27 yo 🍩 Czasem śmiesznie, czasem poważnie ✨🕯
+      🍩 28 🍩 Czasem śmiesznie, czasem poważnie ✨🕯
     location: "Poland"
-    followers: 3177
-    engagement: 868
-    commentsToLikes: 0.060935
+    followers: 3307
+    engagement: 811
+    commentsToLikes: 0.050471
     id: ckcdznuknhbbb0j23hjg3vkkr
     verified: false
-    hashtags: "#dlaciebie, #cakerecipe, #cakeoftiktok, #przepis"
-  - username: "beautifulmeh_24"
+    hashtags: "#przepis, #przepisykulinarne, #cakerecipe, #cakestoday"
+  - username: "sebx777"
     fullname: >-
-      💖Szmidt_Family💖
+      djsebX
     bio: >-
-      Settled in 🇵🇱 Spread ❤️ not hate😊 IG: pearljoyszmidt
+      Future DJ / 🇵🇱 📷 IG 📷 sebX_777
     location: "Poland"
-    followers: 83800
-    engagement: 309
-    commentsToLikes: 0.082655
-    id: ckac417yuc7s20i78g0h420sg
+    followers: 12000
+    engagement: 1651
+    commentsToLikes: 0.030139
+    id: ck8w411em813f0j78coc0wfey
     verified: false
-    hashtags: "#poland, #szmidtfamily, #fyp, #dzia"
-  - username: "atagab"
+    hashtags: "#dlaciebie, #fy, #you, #for"
+  - username: "waldekziarnik"
     fullname: >-
-      Agata Bida
+      Mariolka ✅
     bio: >-
-      Pls follow me on instagram 🥺 Insta: instaataga📷 Contact: agatabida1@gmail.com
+      
     location: "Poland"
-    followers: 102000
-    engagement: 1145
-    commentsToLikes: 0.037815
-    id: ckbwgvkc82lz50j23kng6m4le
+    followers: 107300
+    engagement: 673
+    commentsToLikes: 0.068204
+    id: ckbezsmjml4n00j232ihwfudi
     verified: false
-    hashtags: "#dlaciebie, #foryou, #diy, #fyp"
+    hashtags: "#mariolka, #love, #waldekziarnik, #dlacb"
+  - username: "lenagryszko"
+    fullname: >-
+      lenagryszko
+    bio: >-
+      Life is too short to eat untasty food. Check my IG and YT
+    location: "Poland"
+    followers: 254200
+    engagement: 1508
+    commentsToLikes: 0.013161
+    id: ck95vzwkn028m0j78s4pw9o56
+    verified: true
+    hashtags: "#przepis, #maj, #lenagryszko, #jajko"
 ---

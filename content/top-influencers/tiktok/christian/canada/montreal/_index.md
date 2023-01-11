@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian TikTok Influencers In Montreal in 2023
+title: Top 10 Christian TikTok Influencers In Montreal In 2023
 description: >-
-  Find top christian TikTok influencers in Montreal in 2023. Most popular hashtags: #duet #greenscreen #fyp #montreal.
+  Find top christian TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #duet #foryou #foryoupage.
 platform: TikTok
-hits: 6
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 6 TikTok influencers like this in Montreal, Canada for you to work with.
+hits: 5
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 5 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
+  - username: "guncledann"
+    fullname: >-
+      Daily Dose of Dann
+    bio: >-
+      Keeping other people’s secrets since 1980 He/Him or 🧸 Merch Shop & More👇
+    location: "Canada"
+    followers: 103800
+    engagement: 1836
+    commentsToLikes: 0.067720
+    id: cka69k769su190i78uiiby5gt
+    verified: false
+    hashtags: "#tea, #lesbiansoftiktok, #gay, #stitch"
   - username: "naesha.joanna"
     fullname: >-
       Naësha Joanna💕
     bio: >-
-      Psalm 23🤍🙏🏽 MTL, CAN🇨🇦🇭🇹 Youtube - Naesha Joanna Instagram - naeshax
+      God always 🤍 Caribbean Gyal🌴🇭🇹 MTL, CAN 🇨🇦 Instagram - naeshajoanna
     location: "Canada"
-    followers: 166300
-    engagement: 2093
-    commentsToLikes: 0.021416
+    followers: 164000
+    engagement: 1644
+    commentsToLikes: 0.027109
     id: ckammbjfqzsfz0i783go3eqjg
     verified: false
-    hashtags: "#duet, #haitiantiktok, #youtuber, #haiti"
-  - username: "jayme.triumph"
+    hashtags: "#foryou, #montreal, #haitian, #tiktokhaiti"
+  - username: "biancaslatt"
     fullname: >-
-      Jayme Triumph
+      Bianca
     bio: >-
-      CEO @ FYP CEO @ Yo 👑 Le King De Montréal ⚜️ 👻 Jayme_TheBeast
+      MTL Bitch what
     location: "Canada"
-    followers: 27700
-    engagement: 1033
-    commentsToLikes: 0.023551
-    id: cka9m59v83y930i78vfywr66e
+    followers: 2789
+    engagement: 1106
+    commentsToLikes: 0.084719
+    id: ckajk9utgp95u0i78ghps2mpn
     verified: false
-    hashtags: "#girl, #couple, #occupationdouble, #homme"
-  - username: "ibrownzzrule"
-    fullname: >-
-      iBrownZz Rule
-    bio: >-
-      Skits/Educational Videos 📖🔥 IG : ibrownzz 👥 ibrownzzrule@gmail.com 📩
-    location: "Canada"
-    followers: 51800
-    engagement: 803
-    commentsToLikes: 0.115358
-    id: ckb0uvwtzka340j23hjcy7mmr
-    verified: false
-    hashtags: "#mtlblog, #metrostations, #countries, #world"
+    hashtags: "#fyp, #mtl, #foryoupage, #duet"
   - username: "nissikeah"
     fullname: >-
       nissikeah
     bio: >-
       18 ~ Filipina 📍MTL CANADA
     location: "Canada"
-    followers: 3131
-    engagement: 1294
-    commentsToLikes: 0.032677
+    followers: 3109
+    engagement: 1290
+    commentsToLikes: 0.032648
     id: cka9pg1aq6tzc0i78k0ol5ahi
     verified: false
-    hashtags: "#qc, #filipino, #foryou, #montreal"
-  - username: "ellie_kaiserin"
+    hashtags: "#asian, #happyathome, #mtl, #canada"
+  - username: "laetitiahonlon"
     fullname: >-
-      Ellie
+      Laetitia Hon Lon
     bio: >-
-      🇨🇦20🏳️‍🌈 I like making art Cringe will do
+      Je suis une africaine. Instagram: Laetitia lastar
     location: "Canada"
-    followers: 46700
-    engagement: 2259
-    commentsToLikes: 0.050761
-    id: ckbbc44iq14nb0j237dtcaqx9
+    followers: 3691
+    engagement: 561
+    commentsToLikes: 0.254052
+    id: ckcj13g4n3p3m0j235mlqw0rs
     verified: false
-    hashtags: "#lgbt, #liberal, #leftist, #capitalism"
-  - username: "thatveganteacher"
-    fullname: >-
-      💚  That Vegan Teacher 💚
-    bio: >-
-      Miss Kadie is on TikTok to help animals & all who are oppressed. She/Her 🌈
-    location: "Canada"
-    followers: 1400000
-    engagement: 230
-    commentsToLikes: 0.009545
-    id: ckbqfk28b17090j23xivuaheh
-    verified: false
-    hashtags: "#bella, #meatismurder, #veganphobic, #happyveganprideday"
+    hashtags: "#tiktok225, #duo, #afrique, #manifestation"
   - username: "ready4anarchy"
     fullname: >-
       Charlie Franko
     bio: >-
-      Political/religious opinion 25\💍\any pronouns Christian\Anarchist 🔞my DMs🔞
+      💖Ezekiel 23:20💖 26/💍\any pronouns Christian\Libertarian 🔞my DMs🔞
     location: "Canada"
-    followers: 5162
-    engagement: 1014
-    commentsToLikes: 0.184911
+    followers: 59000
+    engagement: 1180
+    commentsToLikes: 0.079358
     id: ckb98lyxrs72z0j23cyw8yzto
     verified: false
-    hashtags: "#rapbattlewithafriend, #greenscreen, #stitch, #duet"
+    hashtags: "#airpodsjump, #stitch, #duet, #fidoboostchallenge"
   - username: "purple.fettucine"
     fullname: >-
-      Olivia 
+      PHOEBE
     bio: >-
-      Christian Conservative ✝️ 💕 i’m 16! Jesus is Lord 🥺✝️
+      Christian Conservative ✝️ 💕 i’m 17! Jesus is Lord 🥺✝️
     location: "Canada"
-    followers: 43700
-    engagement: 965
-    commentsToLikes: 0.104803
+    followers: 42800
+    engagement: 1060
+    commentsToLikes: 0.115594
     id: ckbbjp5ka83eu0j232h5daytw
     verified: false
-    hashtags: "#jesus, #jesusisking, #duet, #conservative"
+    hashtags: "#greysanatomy, #duet, #foryoupage, #perfectgifts"
   - username: "its_lukeidk"
     fullname: >-
       Luke
     bio: >-
       Christian 🙏
     location: "Canada"
-    followers: 4881
-    engagement: 1107
-    commentsToLikes: 0.055079
+    followers: 4816
+    engagement: 1104
+    commentsToLikes: 0.053090
     id: ck9r3moygqmff0j78prwoo6uh
     verified: false
-    hashtags: "#fyp, #xyzbca, #funny, #foryou"
-  - username: "christianrenaud"
+    hashtags: "#funny, #fyp, #foryou, #xyzbca"
+  - username: "victory_dennise"
     fullname: >-
-      Christian Renaud 😈
+      Victory_Dennise
     bio: >-
-      Backup account , Main account Christianrenaud_ 😈 500+ follow my Instagram 😌
+      Long Distance sibling IG: @victory_aguzue @_d.e.n.n.i.s.e (Luke 1:37) Christians
     location: "Canada"
-    followers: 265900
-    engagement: 1381
-    commentsToLikes: 0.030228
-    id: ckdi6mypx865l0j232ge49mks
+    followers: 194100
+    engagement: 673
+    commentsToLikes: 0.025244
+    id: ckbl3x0z81btq0j23p4vaji2p
     verified: false
-    hashtags: "#hey, #fyp, #duet, #lol"
+    hashtags: "#viral, #fy, #foryou, #duet"
+  - username: "mrhot"
+    fullname: >-
+      MrHot
+    bio: >-
+      The Lord broke through
+    location: "Canada"
+    followers: 161800
+    engagement: 2345
+    commentsToLikes: 0.095489
+    id: ck80719g9nu290j78bmwznfih
+    verified: false
+    hashtags: "#jesusisking, #pray, #loveyou, #youareloved"
 ---

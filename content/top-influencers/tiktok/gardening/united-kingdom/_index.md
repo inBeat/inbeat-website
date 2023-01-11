@@ -1,108 +1,96 @@
 ---
-title: Top 10 Gardening TikTok Influencers In United Kingdom in 2023
+title: Top 10 Gardening TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top gardening TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #gardening #foryoupage #garden.
+  Find top gardening TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #gardening #foryoupage #duet.
 platform: TikTok
-hits: 24
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 24 TikTok influencers like this in United Kingdom for you to contact.
+hits: 22
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 22 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "jack.bennet"
     fullname: >-
       Jack Bennet
     bio: >-
-      IG @JackBennet 🕺🏼Creator, entrepreneur 🐟 Code JB20 for 20% off Fish Flops ↙️
+      IG @JackBennet 🕺🏼Creator, entrepreneur
     location: "United Kingdom"
-    followers: 198500
-    engagement: 1187
-    commentsToLikes: 0.006815
+    followers: 197800
+    engagement: 1186
+    commentsToLikes: 0.009817
     id: ck85cr53x36y90j78wome5yfc
     verified: false
-    hashtags: "#freezeframe, #gardening, #fyp, #grow"
-  - username: "benbutler37"
-    fullname: >-
-      Ben Butler
-    bio: >-
-      Howdy
-    location: "United Kingdom"
-    followers: 36100
-    engagement: 863
-    commentsToLikes: 0.010607
-    id: ck81s74mxqhkw0j78bmo4opnm
-    verified: false
-    hashtags: "#foryoupage, #coronavirus, #gardening, #wholesome"
-  - username: "rossleegardener"
-    fullname: >-
-      .
-    bio: >-
-      
-    location: "United Kingdom"
-    followers: 26400
-    engagement: 916
-    commentsToLikes: 0.018985
-    id: ck8vwyl79pqt20j784sv53ri3
-    verified: false
-    hashtags: "#zengarden, #plants, #fyp, #goldfishtank"
+    hashtags: "#lol, #foryou, #ad, #fyp"
   - username: "powersheds"
     fullname: >-
       Powersheds
     bio: >-
       🌎 The World's Most Adaptable Shed™ Powersheds.com
     location: "United Kingdom"
-    followers: 34400
-    engagement: 373
-    commentsToLikes: 0.010803
+    followers: 33800
+    engagement: 399
+    commentsToLikes: 0.009954
     id: ck8adizvl6lda0j78jokxb885
     verified: false
-    hashtags: "#foryoupage, #felt, #shed, #sheds"
+    hashtags: "#fyp, #diy, #sheds, #home"
+  - username: "sanctuaryvegan"
+    fullname: >-
+      Matthew Sanctuary
+    bio: >-
+      Vegan news, views, product reviews, cooking and baking. Vegan for the animals 🌱
+    location: "United Kingdom"
+    followers: 17900
+    engagement: 1449
+    commentsToLikes: 0.167839
+    id: ckcj5asmo5m4b0j23pedom2ma
+    verified: false
+    hashtags: "#thatveganteacher, #vegan2021, #vegan, #sanctuaryvegan"
   - username: ".hunnytea"
     fullname: >-
       𑁍 𝐄 𝐦 𝐦 𝐚 𑁍
     bio: >-
       ♡ 𝗀𝗋𝗐𝗆 𝗋𝗈𝗎𝗍𝗂𝗇𝖾𝗌 ♡
     location: "United Kingdom"
-    followers: 5370
-    engagement: 2901
-    commentsToLikes: 0.035051
+    followers: 5245
+    engagement: 2736
+    commentsToLikes: 0.030394
     id: ckbl13b5oxxem0j234mjpjizh
     verified: false
-    hashtags: "#grwm, #routine, #morning, #fyp"
+    hashtags: "#routine, #foryoupage, #grwm, #morning"
   - username: "mazyondown"
     fullname: >-
       Mazyondown
     bio: >-
       Just me, being me 🤗
     location: "United Kingdom"
-    followers: 3061
-    engagement: 1000
-    commentsToLikes: 0.085197
+    followers: 4220
+    engagement: 913
+    commentsToLikes: 0.100552
     id: ck94k40i9tnka0j787e7vkv5n
     verified: false
-    hashtags: "#thankyou, #silly, #idontknow, #happy"
+    hashtags: "#community, #happy, #cats, #wales"
   - username: "roxythezoologist"
     fullname: >-
       Roxy the Zoologist
     bio: >-
       Wildlife Filmmaker & Presenter📸 Vegan🌱 IG@roxythezoologist YouTube ⬇️🎥
     location: "United Kingdom"
-    followers: 6997
-    engagement: 2038
-    commentsToLikes: 0.054605
+    followers: 6968
+    engagement: 1688
+    commentsToLikes: 0.037550
     id: ck8hoe63nuse20j78araz2144
     verified: false
-    hashtags: "#puppy, #wildlife, #petsoftiktok, #cute"
+    hashtags: "#conservation, #animalfacts, #learnontiktok, #fyp"
   - username: "charlieorca83"
     fullname: >-
       Charles
     bio: >-
       Just a newborn and wedding photographer who’s a bit of a wally
     location: "United Kingdom"
-    followers: 4281
-    engagement: 788
-    commentsToLikes: 0.159418
+    followers: 4236
+    engagement: 728
+    commentsToLikes: 0.123950
     id: ckakob78haln80i78w8wst07s
     verified: false
-    hashtags: "#germanshepherd, #fyp, #uk, #foryoupage"
+    hashtags: "#foryoupage, #uk, #germanshepherd, #fyp"
   - username: "sup.itzjessx"
     fullname: >-
       sup.itzjessx
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.031236
     id: ckbr74d4rmdbp0j23suc5e24n
     verified: false
-    hashtags: "#sad, #christian, #duet, #lonely"
+    hashtags: "#duet, #christian, #sad, #xyzbca"
+  - username: "chefpauluk"
+    fullname: >-
+      Paul
+    bio: >-
+      Subscribe on YouTube☝️Instagram CEO of #fcpuk 👨‍🍳 Eat Healthy 🌮 Love Food ❤️
+    location: "United Kingdom"
+    followers: 147600
+    engagement: 404
+    commentsToLikes: 0.092391
+    id: ckdnuh1ihn60k0j23jog707a3
+    verified: false
+    hashtags: "#foodtiktok, #learnontiktok, #tiktokfood, #facts"
   - username: "snagglegap"
     fullname: >-
       Snaggle Gap Games
     bio: >-
       🎲Board game designers 🤩Follow us on Insta/Twitter: @snagglegapgames
     location: "United Kingdom"
-    followers: 5515
-    engagement: 1051
-    commentsToLikes: 0.044347
+    followers: 5460
+    engagement: 993
+    commentsToLikes: 0.040437
     id: cka0j35saga700i78civ6u8bw
     verified: false
-    hashtags: "#boardgame, #clay, #claymodelling, #stupidvideo"
+    hashtags: "#sillyvoice, #crafts, #games, #clay"
 ---

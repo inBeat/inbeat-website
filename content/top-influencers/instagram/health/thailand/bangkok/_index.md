@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Bangkok in 2023
+title: Top 10 Health Instagram Influencers In Bangkok In 2023
 description: >-
-  Find top health Instagram influencers in Bangkok in 2023. Most popular hashtags: #healthy #bangkok #thailand #healthylifestyle.
+  Find top health Instagram influencers in Bangkok in 2023. Most popular hashtags: #healthylifestyle #bangkok #healthy #thailand.
 platform: Instagram
-hits: 7
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 7 Instagram influencers like this in Bangkok, Thailand for you to connect with.
+hits: 5
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 5 Instagram influencers like this in Bangkok, Thailand for you to work with.
 profiles:
   - username: "anitabye"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       📍Bangkok ✖️Thai/Norwegian 💪🏼Personal trainer @thecubicfitness 🥊@knockoutbkk 💕Brand ambassador @barebells.thailand
     location: "Thailand"
-    followers: 39475
-    engagement: 222
-    commentsToLikes: 0.057508
+    followers: 38924
+    engagement: 210
+    commentsToLikes: 0.052580
     id: ck8taypvztmid0j7889mj9a69
     verified: false
-    hashtags: "#activewear, #stayhome, #proteinbar, #bangkok"
+    hashtags: "#guiltfree, #bangkok, #barebellsambassador, #barebellsthailand"
   - username: "newwy_official"
     fullname: >-
       Be Humble🌸💓
     bio: >-
       🇹🇭THAI |FHM Model |Tan |Gym Addicted 📍Based in Bangkok, Thailand📍 เจ้าของแบรนด์ @mytan.th ☀️🥥🌴 #น้ำมันอาบแดด #น้ำมันผิวแทน #organic -WORK PLEASE DM-
     location: "Thailand"
-    followers: 56839
-    engagement: 143
-    commentsToLikes: 0.025051
+    followers: 56499
+    engagement: 145
+    commentsToLikes: 0.025004
     id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
-    hashtags: "#travel, #photooftheday, #pics, #photography"
-  - username: "aroisnap"
+    hashtags: "#travel, #goals, #beautiful, #happy"
+  - username: "sajadsattarii"
     fullname: >-
-      AroiSnap 😋📸 (อร่อย-สแนป)
+      Sajad "The Superman" Sattari
     bio: >-
-      📷✨มาร่วมกันแชร์ภาพอาหารให้น้ำลายหกกันจ้า~ 💖โดยใส่ tag #aroisnap หรือ @aroisnap 😋😋 📩Email : AroiSnap@gmail.com
+      Iranian Made 🇮🇷 Based in Pattaya, Thailand 🇹🇭 Muaythai world champion Always be happy, and Dream on! My YouTube channel👇🏼
     location: "Thailand"
-    followers: 70711
-    engagement: 144
-    commentsToLikes: 0.005343
-    id: ckap7r0zbl6ki0i78j194c4s4
+    followers: 20728
+    engagement: 874
+    commentsToLikes: 0.041630
+    id: ck5zjlk5phsut0i14gnwfoc7z
     verified: false
-    hashtags: "#dessert, #sweet, #icecream, #aroisnap"
-  - username: "roociialien"
-    fullname: >-
-      Am-RoociiAlien💙🦋
-    bio: >-
-      •Club HD48•48ers •Touring-Adventurer Motorbike🏍 •Lovely“Wukong”Yorkshire Terrier Contact for work:0842296996
-    location: "Thailand"
-    followers: 16875
-    engagement: 475
-    commentsToLikes: 0.015372
-    id: ck6tud7u1fny40j71kxol82la
-    verified: false
-    hashtags: "#0202pkyg2020, #naruebesv, #pkygthemirrorofoursoul, #milinfrontrow"
+    hashtags: "#helath, #modeling, #nature, #kickboxing"
   - username: "gainmadeline"
     fullname: >-
       Personal Trainer / Athlete
     bio: >-
       Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
     location: "Thailand"
-    followers: 8355
-    engagement: 348
-    commentsToLikes: 0.019032
+    followers: 8382
+    engagement: 326
+    commentsToLikes: 0.020372
     id: ck55ox92q9bfr0i11nn8p3w63
     verified: false
-    hashtags: "#athlete, #diet, #bangkok, #healthylifestyle"
-  - username: "mra.ktc"
+    hashtags: "#muscle, #personaltraining, #gym, #transformation"
+  - username: "zeemyiinz"
     fullname: >-
-      𝐊𝐈𝐓𝐓𝐈𝐂𝐇𝐀𝐈 シ 𝐀𝐀𝐑𝐌
+      αρcу
     bio: >-
-      𝙏𝙝𝙖𝙞𝙡𝙖𝙣𝙙 1991 🇹🇭 𝙎𝙊𝙉𝙔𝘼6000 𝘾𝙖𝙡𝙡𝙖𝙗 𝙥𝙡𝙨.𝘿𝙈 @isamarmstyle #shuterarm #isamarmstyle
+      ♪•● ✰ zεεмчııпz✰ ●•♪ ❶ ❾ ❾ ❹ кмυтив єиgιиєєя ⚙🇹🇭🇩🇪 мιѕѕ иєd ② ⓪ ① ② ♕♔ 1 ˢᵗ ʟιиє : zeemyiinz ( шoяκ oиʟч )
     location: "Thailand"
-    followers: 9613
-    engagement: 625
-    commentsToLikes: 0.015057
-    id: ck15uxowzozqn0i19dlky0vw6
+    followers: 27475
+    engagement: 92
+    commentsToLikes: 0.010887
+    id: ck1384i6oegkp0i19grs2d8ec
     verified: false
-    hashtags: "#lightroompresets, #verynewcafeinbkk, #isamarmstyle, #adayinthailand"
-  - username: "jaksawatr"
-    fullname: >-
-      Jack Attaskulchai (Jay)
-    bio: >-
-      Instawash ASEAN: Co-Founder / CEO @instawash.thailand 🥛Brand Spokesperson - Betagen🥛 @betagenthailand
-    location: "Thailand"
-    followers: 30106
-    engagement: 277
-    commentsToLikes: 0.019725
-    id: ck15qai4v1we40i19n564knxh
-    verified: false
-    hashtags: "#supercars, #lifestyle, #hypercars, #ferrarithailand"
-  - username: "daisydiiva"
-    fullname: >-
-      DaisyDiiva
-    bio: >-
-      I'm DAY Thx for follow me🙏 Healthy Life Diary, Flexible Diet , Eat Well & Exercise, I Love Workout , Thailand 🇹🇭
-    location: "Thailand"
-    followers: 48234
-    engagement: 170
-    commentsToLikes: 0.125778
-    id: ck5pv3e8pfxef0i11go96lpmt
-    verified: false
-    hashtags: "#goodhealth, #fitnessmotivation, #eatclean, #homeworkout"
+    hashtags: "#jajatahwedding, #lanlanathailand, #lanlana, #healthylife"
   - username: "emilysfooddiaryyy"
     fullname: >-
       
     bio: >-
       🥐 healthy food & workout 🍞 #emily👊🏻 #emilyshealthyfood #กินขนมกับเอมมิลี่
     location: "Thailand"
-    followers: 13405
-    engagement: 493
-    commentsToLikes: 0.167405
+    followers: 17504
+    engagement: 466
+    commentsToLikes: 0.130759
     id: ckap94193r26n0i78n7t3ecio
     verified: false
-    hashtags: "#emily, #emilyshealthyfood"
+    hashtags: "#grainthailand, #grainxsinghalemonsoda, #orderagrain, #emilyshealthyfood"
+  - username: "daisydiiva"
+    fullname: >-
+      DaisyDiiva
+    bio: >-
+      I'm DAY Owner : @wearevery.day Healthy Life Diary, Flexible Diet , Eat Well & Exercise, I Love Workout Thailand 🇹🇭
+    location: "Thailand"
+    followers: 52405
+    engagement: 99
+    commentsToLikes: 0.112820
+    id: ck5pv3e8pfxef0i11go96lpmt
+    verified: false
+    hashtags: "#healthy, #eatclean, #fitness, #diet"
+  - username: "on_lyy13"
+    fullname: >-
+      Gin Gub ON 🇹🇭 food lover
+    bio: >-
+      ชอบถ่ายรูปอาหาร รีวิวแบบบ้านๆ cooking 🍳eating🍰 💄healthy🍃 ติดต่อรีวิวได้ทาง DM น่ะค่ะ
+    location: "Thailand"
+    followers: 77307
+    engagement: 90
+    commentsToLikes: 0.055871
+    id: ck6u78h53k2xv0j71y95r4adf
+    verified: false
+    hashtags: "#thaifood, #sizzlervaluemeal, #wongnai, #food"
   - username: "kittyart_healthy"
     fullname: >-
       Kittyart Healthy
     bio: >-
       🥑 Healthy Food 🍳 Easy Cooking 🧘‍♀️ Workout 👩‍💼 Owner @avalonhealthydrink ❤️ My Life at IG : @kittyart 💛 Start 7Dec18 💜 เราจะแก่แบบมีคุณภาพ
     location: "Thailand"
-    followers: 31601
-    engagement: 115
-    commentsToLikes: 0.162954
+    followers: 35171
+    engagement: 87
+    commentsToLikes: 0.168245
     id: ckap93ztpr1z50i78s0lsm1tq
     verified: false
-    hashtags: ""
+    hashtags: "#cleanrecipes, #cleaneating, #eatclean, #healthyfood"
+  - username: "ueelicious"
+    fullname: >-
+      ueelicious (ยุ้ย)*
+    bio: >-
+      🏋️‍♀️Workout 🥑Healthy Food 🍳Cooking 📸Photography ✈️Traveler❣️Hopeless Romantic 🌈For Work : Direct Message #HappyUee #Ueeliciouscuisine
+    location: "Thailand"
+    followers: 26468
+    engagement: 78
+    commentsToLikes: 0.148750
+    id: ckaov4dob2zwp0i78ccb36dgc
+    verified: false
+    hashtags: "#ueeliciouseating, #ueeliciouscuisine, #happyuee, #ueelicious"
 ---

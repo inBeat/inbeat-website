@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Singapore in 2023
+title: Top 10 Lifestyle Instagram Influencers In Singapore In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #singapore #igsg.
+  Find top lifestyle Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #partipost #sgcontest.
 platform: Instagram
-hits: 45
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 45 Instagram influencers like this in Singapore for you to contact.
+hits: 28
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 28 Instagram influencers like this in Singapore for you to work with.
 profiles:
+  - username: "whathebronte"
+    fullname: >-
+      Danil Palma
+    bio: >-
+      ✖️ Lifestyle | Travel | Fitness 📍 Singapore ✉️ contact@danilpalma.com
+    location: "Singapore"
+    followers: 78810
+    engagement: 326
+    commentsToLikes: 0.011725
+    id: ck5hdxfebpvl90i11tbrvfx1s
+    verified: false
+    hashtags: "#uipsingapore, #halloween, #halloweenmakeup, #airnzbungychallenge"
   - username: "lihuijapanlove"
     fullname: >-
       Lihui利慧| Singapore新加坡🇸🇬
     bio: >-
       Food | Fashion | Beauty | Lifestyle 🏅Top 100 SG Lifestyle Blogger Founder of @creativeinfluencermedia 📩Collab/工作/代言: lihuijapanlove@gmail.com
     location: "Singapore"
-    followers: 35860
-    engagement: 315
-    commentsToLikes: 0.101387
+    followers: 41454
+    engagement: 208
+    commentsToLikes: 0.075530
     id: ckaotr1v0x4230i78w5diw0tm
     verified: false
-    hashtags: "#sp, #tokyobustexpress, #passionationsg, #72hourswear"
-  - username: "jauzchen"
+    hashtags: "#kbeauty, #koreanbeauty, #atomekittens, #tmgmgroup"
+  - username: "supermyca"
     fullname: >-
-      Jauz Chen
+      SuperMyca
     bio: >-
-      Parenting 🤱 Lifestyle 🌴 Food 🍳 Mum of 15yo twins 👭 + 9 mths 👶🏻 💌 DM for Collab | Reviews | Events Jauz.chen@gmail.com @favesofficial Personality
+      Certified Yoga Teacher Certified Active Lifestyle Motivation Coach @camphealthstyle Discount Codes, Classes and Links👇🏼
     location: "Singapore"
-    followers: 3991
-    engagement: 784
-    commentsToLikes: 0.560142
-    id: ck6u1far0ldzd0j71wrl9ouh4
+    followers: 24016
+    engagement: 184
+    commentsToLikes: 0.077999
+    id: ck6tihorg0qjy0j71x6pj9bke
     verified: false
-    hashtags: "#happybaby, #instakids, #sgig, #ootd"
-  - username: "tylomere"
+    hashtags: "#yogaeverywhere, #thelunaryogis, #igyoga, #yogawithprops"
+  - username: "awansauce"
     fullname: >-
-      Tyler 🌱
+      Alan Wan 溫家偉
     bio: >-
-      Travel . Beauty . Lifestyle . Food #tylomeregreatescape 👷🏻 Physiotherapy student 💁🏻‍♂️TGY Finalist 📩 tylomere@yahoo.com.sg
+      Lifestyle | Food lover | Coffee enthusiast. ￼ 📍SG / HK Represented by @flyentertains
     location: "Singapore"
-    followers: 20345
-    engagement: 398
-    commentsToLikes: 0.036206
-    id: ck5cgzj3apu9c0i11ascv8ghh
-    verified: false
-    hashtags: "#sp, #tylomeregreatescape, #partipost, #zinussg"
+    followers: 81692
+    engagement: 255
+    commentsToLikes: 0.020902
+    id: ck5zveeg642tb0i14awwh1v4r
+    verified: true
+    hashtags: "#burgerlover, #mcgriddle, #airdancer, #ndp2021"
   - username: "cpoyee"
     fullname: >-
       Poyee C | Content Creator
     bio: >-
-      Rhea ▫️🇭🇰Hong Kong•Lifestyle•Travel ▫️Contact: Click the email button or by dm♥️ ▫️Creator of @Girlab.hk - ⇩NEW VIDEO 📸新加坡Vlog Part 2 ⇩
+      Rhea ▫️🇭🇰Hong Kong•Lifestyle•Travel ▫️Contact: Click the email button or by dm♥️ ▫️Creator of @Girlab.hk - ⇩NEW VIDEO☀️成為內容創作者後的6個小改變！⇩
     location: "Singapore"
-    followers: 19403
-    engagement: 403
-    commentsToLikes: 0.038067
+    followers: 19692
+    engagement: 304
+    commentsToLikes: 0.040775
     id: ckaozf9h0lmlf0i78hys4dhue
     verified: false
-    hashtags: "#poyeeslifestyle, #aroundtheworldwithdorsett, #sudiohk, #macfixplusvibes"
+    hashtags: "#lovebonito, #hongkong, #poyeeslifestyle, #poyeeinhongkong"
   - username: "dianabakar_"
     fullname: >-
       Diana Bakar ♥️
     bio: >-
-      Lifestyle 💃 24 , SG 🇸🇬 💐My flower shop: 🌸 @bebeblumen 🌸 💼Managed by: @titandigitalmedia ,@crayeightstudios
+      Gaming, entrepreneur, lifestyle 24 , SG 🇸🇬 💐My flower shop: @33petals.co 💼Managed by: @titandigitalmedia ,@crayeightstudios
     location: "Singapore"
-    followers: 51874
-    engagement: 450
-    commentsToLikes: 0.012072
+    followers: 52835
+    engagement: 507
+    commentsToLikes: 0.009275
     id: ck5hjwzarhe8s0i11z0p32lw6
     verified: false
-    hashtags: ""
+    hashtags: "#proudmum, #asussg, #intel, #zenbook"
   - username: "clairejedrek"
     fullname: >-
       Presenter /  Media
     bio: >-
-      PRESENTER| Motorsport | Lifestyle | TEDx Speaker British S’pore Race Driver Hosting :Clairejedrek@gmail.com
+      PRESENTER| Motorsport | Lifestyle British SG Race Driver Co- owner: TheFilmDispensary Former owner The Karting Arena Clairejedrek@gmail.com
     location: "Singapore"
-    followers: 26078
-    engagement: 175
-    commentsToLikes: 0.023291
+    followers: 26977
+    engagement: 185
+    commentsToLikes: 0.025697
     id: ck6tynwvm4ty70j71132n77iy
     verified: false
-    hashtags: "#skodakodiaq, #singapore, #charlylouisetan, #olitylertan"
-  - username: "intoxincant"
+    hashtags: "#saferinternetday2021, #singapore, #olitylertan, #justassforit"
+  - username: "rachelwongggg"
     fullname: >-
-      Xinyi | Creator 🇸🇬
+      Rachel Wong
     bio: >-
-      📸 Portraits • Events • Lifestyle Fashion 💌 reach@arkivalstudios.com for work 👩🏻‍💻📹 Head Wedding Filmmaker @darrenandjade @xinyi.atp
+      💜 BEAUTY . FITNESS . LIFESTYLE . DOGS 🐾 〰️ Host | Livestream ✉️ rachelwongg@hotmail.com
     location: "Singapore"
-    followers: 2241
-    engagement: 1096
-    commentsToLikes: 0.038706
-    id: ck0w2oscdpgf70i19h30scot9
+    followers: 41430
+    engagement: 224
+    commentsToLikes: 0.017592
+    id: ck5zvedfd42qt0i140vr1e7tp
     verified: false
-    hashtags: "#thestagewalk, #shotoniphone, #lovebyilo, #sonysingapore"
-  - username: "kaitinghearts"
+    hashtags: "#sato, #johnfriedasg, #hairmeout, #folligrow"
+  - username: "william82sg"
     fullname: >-
-      Kaiting Cheng
+      William Tan 陈家辉 (SG)
     bio: >-
-      🌈 Lifestyle & beauty 🇸🇬 Based in Singapore 🏠 Real Estate Agent - check out IGTV 💌 chengkaiting@gmail.com
+      Lifestyle+Travel Founder @discoverfoodsg @dazzlingrosessg 💇️ @blackhairsalon Quote William 10-15%OFF ✉️william82sg@hotmail.com
     location: "Singapore"
-    followers: 23707
-    engagement: 164
-    commentsToLikes: 0.101817
-    id: ck5hh8kxn6y4t0i11226wcjhx
+    followers: 32554
+    engagement: 184
+    commentsToLikes: 0.058653
+    id: ck0w5dmug34iv0i19paasgbju
     verified: false
-    hashtags: "#sp, #tokyobustexpress, #asianskinsolutions, #preeminentgroup"
-  - username: "syafiqlee17"
+    hashtags: "#sp, #contestsg, #sgcontest, #primataste"
+  - username: "sodapopp"
     fullname: >-
-      Syafiq Lee
+      j a n 🌹
     bio: >-
-      🇸🇬 🇲🇾 "𝘐'𝘮 𝘓𝘪𝘷𝘪𝘯𝘨 𝘓𝘪𝘧𝘦 𝘛𝘰 𝘛𝘩𝘦 𝘍𝘶𝘭𝘭𝘦𝘴𝘵." Chinese Muslim Fashion | Quotes | Lifestyle 📧 syafiqlee17@gmail.com
+      SG // Mummy to #JanNicJunior ✨Fashion Beauty Lifestyle✨ 💇‍♀️ @chezvoushair 👀 @kiramesg
     location: "Singapore"
-    followers: 17391
-    engagement: 230
-    commentsToLikes: 0.004042
-    id: ckaotqlvmx23n0i783gl9ke15
+    followers: 20408
+    engagement: 212
+    commentsToLikes: 0.086330
+    id: ck15uiz6sneol0i19ba9g5cnf
     verified: false
-    hashtags: "#sentosaisland, #theshoppesmbs, #silosobeach, #nofilter"
-  - username: "so.gelly"
-    fullname: >-
-      GELLY-
-    bio: >-
-      What is life without bad puns and fat animals. 🌚 📍SG 🇸🇬 📱iPhone 11 📸Leica CL / Sony A7M3 Lifestyle | Fashion | Beauty | Food | Travel
-    location: "Singapore"
-    followers: 20804
-    engagement: 348
-    commentsToLikes: 0.105631
-    id: ck6ugwgch5ksw0j71z4lz5sj8
-    verified: false
-    hashtags: "#sglookbook, #instagramsg, #ootdsg, #tslmakan"
+    hashtags: "#beautyblogger, #jannicjunior, #shopperboard, #lechicsg"
 ---

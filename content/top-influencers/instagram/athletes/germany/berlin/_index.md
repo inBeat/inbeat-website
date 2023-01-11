@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Berlin in 2023
+title: Top 10 Athletes Instagram Influencers In Berlin In 2023
 description: >-
-  Find top athletes Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #fitness #athlete #sport.
+  Find top athletes Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #athlete #running #training.
 platform: Instagram
-hits: 81
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 81 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 39
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 39 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "lisa_buckwitz"
+  - username: "elena_krawzow"
     fullname: >-
-      Lιѕa Вυcĸwιтz OLY
+      Elena Krawzow
     bio: >-
-      🇩🇪|Bobsleigh / Sport soldier 🥇|OlympicGold2018 25 y/o,Potsdam 🗝|Ambassador: @yfooddrink Code:Lisa10 @polar_de @ideal_versicherung
+      #teamkrawzow 💼 management: info@hd-swim.de 🏊🏼‍♀️ paralympic swimmer 🌍 world champion & world record holder 🇩🇪 berliner schwimmteam
     location: "Germany"
-    followers: 6089
-    engagement: 1255
-    commentsToLikes: 0.011979
-    id: ckaoyci2egxnu0i78qqspozla
-    verified: true
-    hashtags: "#girlpower, #athlete, #berlin, #bundeswehr"
-  - username: "miri.krug"
-    fullname: >-
-      Miriam Krug
-    bio: >-
-      🔻Founder @nubymi_nutrition 📝 Sports Nutrition & Recovery 🏋🏼‍♂️ Educator & Coach ⬇️ Buche dein Coaching ⬇️
-    location: "Germany"
-    followers: 9405
-    engagement: 637
-    commentsToLikes: 0.021358
-    id: ck14ivlzshcxd0i19wcf9e981
+    followers: 32541
+    engagement: 345
+    commentsToLikes: 0.032210
+    id: ck6tnfiah9qih0j71n6cqcu46
     verified: false
-    hashtags: "#sportsnutrition, #bff, #ern, #sports"
-  - username: "bgirljilou"
-    fullname: >-
-      Jilou
-    bio: >-
-      @hellogetsafe sponsored athlete Based in Berlin
-    location: "Germany"
-    followers: 78844
-    engagement: 491
-    commentsToLikes: 0.021969
-    id: ck138e9lnftb40i19fj56b7fi
-    verified: false
-    hashtags: "#berlin, #theskyisnotthelimit, #pink, #redbullbcone"
+    hashtags: "#paraswimming, #swimsuit, #turkey, #paralympics"
   - username: "eric.muehle"
     fullname: >-
       sports photographer for life
     bio: >-
-      ✖️𝐥𝐢𝐟𝐞 𝐚𝐭 𝟏/𝟏𝟎𝟎𝟎𝐭𝐡 𝐨𝐟 𝐚 𝐬𝐞𝐜𝐨𝐧𝐝 ✖️𝐚𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 @affenhand ✖️𝐚𝐰𝐚𝐫𝐝 𝐰𝐢𝐧𝐧𝐞𝐫 ✖️𝐞𝐱 𝐛𝐚𝐥𝐥𝐞𝐫🏈 ✖️𝐛𝐚 𝐩𝐡𝐨𝐭𝐨 @ue.germany ✖️𝐢𝐧 𝐥𝐨𝐯𝐞 𝐰/ @maryxloves 𝐚𝐧𝐝 𝐜𝐨𝐟𝐟𝐞𝐞 ✖️𝐛𝐞𝐫𝐥𝐢𝐧
+      ✖️𝐥𝐢𝐟𝐞 𝐚𝐭 𝟏/𝟏𝟎𝟎𝟎𝐭𝐡 𝐨𝐟 𝐚 𝐬𝐞𝐜𝐨𝐧𝐝 ✖️𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞𝐫 𝐟𝐨𝐫 @gettysport ✖️𝐚𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 @affenhand ✖️𝐚𝐰𝐚𝐫𝐝 𝐰𝐢𝐧𝐧𝐞𝐫 ✖️𝐞𝐱 𝐛𝐚𝐥𝐥𝐞𝐫🏈 ✖️𝐢𝐧 𝐥𝐨𝐯𝐞 𝐰𝐢𝐭𝐡 @maryxloves ✖️𝐛𝐞𝐫𝐥𝐢𝐧
     location: "Germany"
-    followers: 8463
-    engagement: 451
-    commentsToLikes: 0.019696
+    followers: 9152
+    engagement: 572
+    commentsToLikes: 0.038466
     id: ckaowsgw9a8zr0i78jelzi1st
     verified: false
-    hashtags: "#crossfitphotography, #igersgermany, #crossfitchicks, #sonyalpha"
-  - username: "alena_halv"
+    hashtags: "#gymnastics, #corona, #fitfamgermany, #running"
+  - username: "shareenqueen"
     fullname: >-
-      Alena ♕
+      S H A R E E N
     bio: >-
-      ♡ ~EX🏜🦇 *CF @yfood ALENAHALV10 -private account
+      Vehicle Engineering Student - BabyBenz Driver ⠀⠀⠀  I am 24 years old and I have no intention of ⠀   ⠀⠀ ⠀⠀⠀⠀  ⠀⠀  slowing down.
     location: "Germany"
-    followers: 17540
-    engagement: 1529
-    commentsToLikes: 0.017941
-    id: ckap8bgjunnue0i78v32icaxg
+    followers: 62131
+    engagement: 760
+    commentsToLikes: 0.030150
+    id: ck0vx4ghgx3jj0i190w32iork
     verified: false
-    hashtags: "#soldiergirl, #traveltheworld, #germany, #bethebestversionofyourself"
-  - username: "philipp.pflieger"
+    hashtags: "#fitness, #cars, #mercedesamg, #oldschool"
+  - username: "mariuskusch"
     fullname: >-
-      Philipp Pflieger
+      Marius Kusch
     bio: >-
-      🇩🇪 Professional Runner ⏱ Marathon 2:12:50h 🎖 2016 Olympian 💯 @adidas_de Athlete 🎽 @laufteamhamburg 📚 Author #LaufenAmLimit 🎙 #Bestzeit Podcast
+      ▪️ Olympic Swimmer 🇩🇪-> Tokyo 2021 ▪️ World Championship Medalist ▪️ European Champion ▪️business inquiries mkswim93@gmail.com
     location: "Germany"
-    followers: 20392
-    engagement: 741
-    commentsToLikes: 0.012820
-    id: ck5c75pbp6v8b0i11qwtlf68p
-    verified: true
-    hashtags: "#mondaymotivation, #bestzeit, #roadtovalencia, #adizeroadiospro"
-  - username: "sporthilfe"
-    fullname: >-
-      Deutsche Sporthilfe
-    bio: >-
-      Die Deutsche Sporthilfe fördert Spitzen- und Nachwuchssportler, die durch ihre Erfolge & Auftreten als Vorbilder agieren. #sporthilfe #leistungleben
-    location: "Germany"
-    followers: 25306
-    engagement: 245
-    commentsToLikes: 0.005121
-    id: ck0u0krcgu54c0i19zxa2vs8u
-    verified: true
-    hashtags: "#swipe, #karate, #linkinbio, #swimming"
-  - username: "tonsovic"
-    fullname: >-
-      🇩🇪🇭🇷 𝐀𝐍𝐓𝐎𝐍𝐈𝐎 𝐌𝐀𝐑𝐓𝐈𝐍𝐎𝐕𝐈𝐂
-    bio: >-
-      👊| Boxer and Blogger 🥊| @Venum Athlete 📩|Business Inquiries 📍|Berlin
-    location: "Germany"
-    followers: 96029
-    engagement: 539
-    commentsToLikes: 0.010672
-    id: ck8tbmmxlw9hv0j78pwk57sci
+    followers: 55414
+    engagement: 2473
+    commentsToLikes: 0.007175
+    id: ck138ie0kgd5k0i19aa0jfc80
     verified: false
-    hashtags: "#boxing, #boxraw, #ad, #venum"
-  - username: "wrightnow74kg"
+    hashtags: "#water, #reels, #underwater, #training"
+  - username: "yul_oeltze"
     fullname: >-
-      Joshua (W)right
+      ⓎⓊⓁ ⓄⒺⓁⓉⓏⒺ
     bio: >-
-      IPF RAW 74kg 237,5/180/290 🇩🇪Team Athlete 🇩🇪🥇2019 @noccogermany Athlete |@mybraineffect #personaltrainer based in #berlin Website⬇️
+      2x European Champion 🥇🥇 2x World Champion 🥇🥇 @foodspring -15% —> yulFSG @gymshark link below ♥️Magdeburg💚
     location: "Germany"
-    followers: 2305
-    engagement: 1061
-    commentsToLikes: 0.076422
-    id: ckaowlks79gk90i78iirppm90
+    followers: 32776
+    engagement: 738
+    commentsToLikes: 0.007734
+    id: ck5chndxar3o80i113smsylgm
     verified: false
-    hashtags: "#lockdownpowerliftingcup, #powerlifting, #letsgo, #deadlift"
+    hashtags: "#sport, #couplegoals, #training, #foodspring"
+  - username: "__julianweber__"
+    fullname: >-
+      Julian Weber
+    bio: >-
+      Olympic finalist - Rio 2016 JAVELIN THROW 🏋🏼‍♂️26 y/o 📍Berlin/Potsdam/Mainz Team @gradeonenutrition Rabatt Code: julian20
+    location: "Germany"
+    followers: 10370
+    engagement: 953
+    commentsToLikes: 0.006620
+    id: ck6twmxgfsxcy0j71lti097g9
+    verified: false
+    hashtags: "#roadtotokyo, #workout, #support, #allin"
   - username: "lisakwayie"
     fullname: >-
-      Lisa Kwayie🕊
+      Lisa Marie Kwayie🕊
     bio: >-
       berlin| german sprinter| @adidas_de athlete great things never came from comfort zones
     location: "Germany"
-    followers: 9738
-    engagement: 1434
-    commentsToLikes: 0.021138
+    followers: 11320
+    engagement: 1354
+    commentsToLikes: 0.022348
     id: ck0u94i3e8ysw0i19uqfz4v8o
     verified: false
-    hashtags: "#readyforsport, #createdwithadidas, #throwback, #letsgo"
+    hashtags: "#cantstopher, #teamlisa, #adidas, #dreambig"
+  - username: "fotorunners.es"
+    fullname: >-
+      Fotorunners
+    bio: >-
+      📸 sport photographer World Athletics Photograph of the year 2018 World Athletics Photograph of the year 2019 📖 we tell stories with our images.
+    location: "Germany"
+    followers: 34024
+    engagement: 310
+    commentsToLikes: 0.026081
+    id: ck14h0giq7xbf0i19fmd5m70o
+    verified: false
+    hashtags: "#polevault, #athletics, #trackandfield, #atletismo"
+  - username: "franziskaschoebel"
+    fullname: >-
+      FRANZI | RUNNING + LIFTING
+    bio: >-
+      🏃🏽‍♀️ 10km 46:25 🦈 @gymshark athlete 🌱 @foodspring | Code FranziFSG ✉️ franziska@fyndafit.com https://sneakerhoodcom.wordpress.com/impressum/
+    location: "Germany"
+    followers: 88165
+    engagement: 481
+    commentsToLikes: 0.011068
+    id: ck8t4by5d67nq0j780jw0qz7d
+    verified: false
+    hashtags: "#running, #berlin, #runninggirl, #gymshark"
+  - username: "theo_penkala"
+    fullname: >-
+      THEO PENKALA
+    bio: >-
+      PERSONAL TRAINER | ATHLETE | COACH less human, more being 🙏🏼 📍 Berlin 📸 @thijography
+    location: "Germany"
+    followers: 13279
+    engagement: 661
+    commentsToLikes: 0.064210
+    id: ckap4gq457b0l0i78r18coxvi
+    verified: false
+    hashtags: "#stephenhawking, #theydontreallycareaboutus, #ad, #amazfitgts2"
 ---

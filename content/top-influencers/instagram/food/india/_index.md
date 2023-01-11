@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In India in 2023
+title: Top 10 Food Instagram Influencers In India In 2023
 description: >-
-  Find top food Instagram influencers in India in 2023. Most popular hashtags: #ig #passionpassport #instakolkata #kolkata.
+  Find top food Instagram influencers in India in 2023. Most popular hashtags: #ad #indianfood #reelkarofeelkaro #reelsinstagram.
 platform: Instagram
-hits: 3236
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 3236 Instagram influencers like this in India for you to contact.
+hits: 2211
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 2211 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "ourpassportstory_"
+  - username: "dr.siddhant.bhargava"
     fullname: >-
-      Surbhi & Nehil | Travel Couple
+      Dr. Siddhant Bhargava
     bio: >-
-      TRAVEL IN STYLE ❥ #travelcouple made in #dubai Travel | Fashion | Food 📍Dubai 🇦🇪 | India 🇮🇳 🗺 13 countries and counting Chartered Accountants
+      🧑🏻‍⚕️ Fat-Loss Ninja 😎 Avid Entrepreneur 💼 Running @food.darzee 🧑🏻‍💻 Building @feet.wings 🏋🏻‍♂️ Director @jgsfitnesscentre 🎧 Listen to My Podcast👇🏻
     location: "India"
-    followers: 5684
-    engagement: 2271
-    commentsToLikes: 0.093308
-    id: ck6tyeona3a9p0j71yjimujwa
+    followers: 551128
+    engagement: 533
+    commentsToLikes: 0.006750
+    id: ck0tvkw48btab0i19fj0y5qew
     verified: false
-    hashtags: "#dubaibloggers, #dubai, #traveldeeper, #travelcouples"
-  - username: "swalih__sinu"
+    hashtags: "#ad, #drsidsays, #drsid, #doctor"
+  - username: "passionateaboutbaking"
     fullname: >-
-      صلح 
+      Deeba Rajpal
     bio: >-
-      #mallu Boy #food ball lover💞 #Njr uyr💋 #Soul love music🎼 #kl55/Qatar🇮🇳🇶🇦 #Adventure #Bike Rider #First cry on October 20 #Dream boy #Twenty
+      Cookbook Author | Baker | Content Creator | Blogger | Eggless Desserts | Food Stylist | Food Photography Recipes on @pabrecipes India 🇮🇳
     location: "India"
-    followers: 2871
-    engagement: 3954
-    commentsToLikes: 0.188094
-    id: ckf5vzlcbqeks0j2331o40n9s
-    verified: false
-    hashtags: "#duke, #ktm, #superbikers, #ktmindiaofficial"
-  - username: "sejaltiwari3"
+    followers: 416171
+    engagement: 1005
+    commentsToLikes: 0.016130
+    id: ck0twjmsvfofn0i19ffoazlr7
+    verified: true
+    hashtags: "#ad, #strawberries, #pabrecipes, #biscofflotus"
+  - username: "hyderabad.food.diaries"
     fullname: >-
-      seju,,,,,,,❤😘😘😘
+      Mohammed Zubair Ali
     bio: >-
-      Lifestyle / Fashion / Foodie Wish Me On 12 Dec🎂 I Love My Self Surat Smart City❤
+      Food, Night life & Hospitality 9 Times Award Winner Division : @buzzbusinesssolutions E-Mail: hydfooddiaries@gmail.com YouTube: https://bit.ly/3OjNOX1
     location: "India"
-    followers: 3190
-    engagement: 2328
-    commentsToLikes: 0.150934
-    id: ckaou1twpyf8q0i78rmbq4fnb
+    followers: 260021
+    engagement: 411
+    commentsToLikes: 0.008336
+    id: ck14j3qgfihbo0i19jx87vzw3
     verified: false
-    hashtags: ""
-  - username: "bhoomee_17"
+    hashtags: "#happiness, #foryoupage, #trendingreels, #foodbloggerindia"
+  - username: "surti_lalo"
     fullname: >-
-      Bhoomi Panchal | Blogger
+      Surti_lalo
     bio: >-
-      • Abundance 🧘‍♀️ 📍India 🇮🇳 • Travel • Fashion • Food • • Enquires : Bhumipanchal881@gmail.com • Pv acc : @bhooms_17
+      Food | Lifestyle Vegetarian & Non-vegetarian Foodie DM for Invites, Collaboration & Reviews . #suratfoodbloggers #surti_lalo
     location: "India"
-    followers: 6401
-    engagement: 1220
-    commentsToLikes: 0.125972
-    id: ck9wf9wminw340j78yoyxpk37
+    followers: 58306
+    engagement: 582
+    commentsToLikes: 0.010104
+    id: ck8t7ja8vh0p30j783xgje79k
     verified: false
-    hashtags: "#themysterypr0ject, #777luckyfish, #indiapictures, #travelblogger"
-  - username: "glamup_with_ankita"
+    hashtags: "#delicious, #suratstreetfood, #streetfoodstories, #streetfood"
+  - username: "oh.so.delish"
     fullname: >-
-      ANKITA  MAJUMDAR👸💕| Influencer
+      Priyanjali | Food Photographer
     bio: >-
-      #glamupwithankita #foodblogger First cry on 4th Aug🎂 @foodieslove_kolkata 💌For business inquiry E-mail 📩ankitamajumdar6335@gmail.com YOUTUBE LINK
+      #healthyrecipes DM for Food/product shoot | recipe development 🎥 Recipe videos 🏡 #mumbai 📧 ohsodelishblog@gmail.com Learn to bake healthy at home👇
     location: "India"
-    followers: 57389
-    engagement: 570
-    commentsToLikes: 0.052210
-    id: ck15rkzh18fpd0i190jz9h26t
+    followers: 5459
+    engagement: 392
+    commentsToLikes: 0.334840
+    id: ck0w1hmsnje580i19fttmqidv
     verified: false
-    hashtags: "#sareeblousedesigns, #bangladesh, #sareelover, #sareecollection"
-  - username: "priyaspassion"
+    hashtags: "#hautecuisines, #bakestagram, #mumbaifoodicious, #myopenkitchen"
+  - username: "subhikshavenkat"
     fullname: >-
-      Priya Das
+      Subhiksha Venkat
     bio: >-
-      ✨Be Content with an Ordinary Life✨ ⚜️Lifestyle🧘🔸Fashion💃🔸Food🍔🔸Travel🏖️ 📩 DM or Mail for Collabs... ⚜️FoodPage @journeywith_flavors YouTube link➡️⤵️
+      Fashion | Food | Travel | Lifestyle blogger 🐝 #madeinchennai Founder of @kaathadi.madras 🪁 📍Madras
     location: "India"
-    followers: 14721
-    engagement: 1375
-    commentsToLikes: 0.052253
-    id: ck14l7r1cta800i19l26luckd
+    followers: 111152
+    engagement: 330
+    commentsToLikes: 0.023098
+    id: ck14girnc5fhk0i195aieuwr5
     verified: false
-    hashtags: "#kolkatasutra, #kolkataigers, #igcalcutta, #thekolkatavibes"
-  - username: "thehappym0nkeys"
+    hashtags: "#chennaiinfluencer, #ad, #discoverchennaiwithbee, #beeinparis"
+  - username: "zaveri_dhaval"
     fullname: >-
-      POOJA ~ Travel Monkey 🙊🙊
+      Dhaval Zaveri
     bio: >-
-      • Travel • Fashion • Lifestyle • Food • #happym0nkeys 🇮🇳 🇮🇩 🇧🇹 🇹🇷 🇪🇭🏡
+      Digital Content Creator👤 Traveller 🗺| Lifestyle/Fashion🕴| Food | Motivation | #Mumbai #Lifestyle #Fashion #Sports #Fitness #Motivation #Comedy #Tech
     location: "India"
-    followers: 15817
-    engagement: 877
-    commentsToLikes: 0.080982
-    id: ckaou6e70z01p0i78ijmhj6zw
+    followers: 109230
+    engagement: 283
+    commentsToLikes: 0.059515
+    id: ck8tc5m6jyd1v0j787w66w34t
     verified: false
-    hashtags: "#ig, #cntraveler, #mysore, #karnatakatourism"
-  - username: "belikehira"
+    hashtags: "#dhavalzaveri, #respectallbandhans, #2023, #trending"
+  - username: "supaintsonplates"
     fullname: >-
-      Hira Ahmed | Content Creator
+      Surabhi Sehgal /Plantbased Chef
     bio: >-
-      Food•Fashion•Beauty Owns @thefantasypr Lifestyle Blogger 🦋 DM for PR & Collab. Lahore.
+      Vibrant recipes/Natural ingredients #WorldFood #FoodArt 🍃🧿 📷@khaleejtimes @archdigestindia @graziaindia 📩supaintsonplates@gmail.com 📍India/Dubai
     location: "India"
-    followers: 5267
-    engagement: 1323
-    commentsToLikes: 0.177364
-    id: ck6ty2upw1d040j71b4ssdzsm
+    followers: 105726
+    engagement: 252
+    commentsToLikes: 0.099521
+    id: ck6ucfx5xfd890j71mgyexf35
     verified: false
-    hashtags: "#modestfashion, #quarntine, #belikehira, #supportsmallbusiness"
-  - username: "mohammed_rizvan_mr"
+    hashtags: "#eattherainbow, #indiancuisine, #eatrealfood, #glutenfreerecipes"
+  - username: "ankita_extreme"
     fullname: >-
-      // RIZVAN MR //
+      💎 Ankita Singh 💎
     bio: >-
-      | Nature • Music • Travel • Fitness • Food| 6 ft 2🕴 Bengaluru❌Kottakkal Auto Enthusiast 🚦 🃏
+      LifeTimeDrugFree🤌🧿 👶@extreme_bikini Lifestyle/Food MissIndia2021🇮🇳 Ex SoftwareEngg Miss Karnataka18/19/21 BLR 📌 💌ankita.extreme@yahoo.co.in
     location: "India"
-    followers: 3081
-    engagement: 1903
-    commentsToLikes: 0.124660
-    id: ck6u14ey8jis10j71ztaj15dm
-    verified: false
-    hashtags: "#aesthetic, #bangalorediaries, #vsco, #aestheticedits"
-  - username: "aasthachaudhary"
+    followers: 284631
+    engagement: 229
+    commentsToLikes: 0.011874
+    id: ck6tsfmkf4htw0j712ulg009j
+    verified: true
+    hashtags: "#fitness, #ritebite, #lifetimedrugfree, #casino"
+  - username: "naqiyah_mayat"
     fullname: >-
-      aastha Chaudhary
+      Naqiyah Mayat
     bio: >-
-      Proud indian 🇮🇳 Thalassophile,dreamer, traveller, foodie 🤤 #manchesterunited & #cr7 for life 🙌 Dm for collaboration 👍
+      🤍 Food | Fashion | Lifestyle 📓 The Beginning; Indian Recipes From My Home 🏆 World Gourmand Award Winner 📍Jhb, SA
     location: "India"
-    followers: 12678
-    engagement: 956
-    commentsToLikes: 0.187819
-    id: ck8t4gs3s6rdl0j78uazsze5f
+    followers: 61195
+    engagement: 216
+    commentsToLikes: 0.154257
+    id: ck0vw1ywsrqqn0i19tx3ihpbw
     verified: false
-    hashtags: "#aasthachaudhary, #madeinindia, #handblockprinted, #cottondresses"
+    hashtags: "#woolieschristmas, #indiancooking, #indianrecipes, #indiancookingathome"
 ---

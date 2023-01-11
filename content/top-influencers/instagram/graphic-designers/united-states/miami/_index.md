@@ -1,120 +1,120 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Miami in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Miami In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Miami in 2023. Most popular hashtags: #graphicdesign #art #nba #lakers.
+  Find top graphic-designers Instagram influencers in Miami in 2023. Most popular hashtags: #nba #art #graphicdesigner #graphicdesign.
 platform: Instagram
-hits: 36
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 36 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 28
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 28 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "cheligfx"
+  - username: "che1ique"
     fullname: >-
       Che1ique
     bio: >-
-      Graphic Artist // Remember you have infinite potential! Clients with: NBA l B/R | Knicks | ESPN Open to work! 💥 Inquiries: cheliross90@yahoo.com
+      Graphic Artist Just want to create art that pushes boundaries⚡️ Constantly evolving. Art is a journey! 🖼 💜 📧 cheliqueross@gmail.com 📧
     location: "United States"
-    followers: 5611
-    engagement: 1642
-    commentsToLikes: 0.060103
+    followers: 6199
+    engagement: 1431
+    commentsToLikes: 0.065934
     id: ck5qb4i8qjroe0i11wubzm7lu
     verified: false
-    hashtags: "#art, #lebron, #kobebryant, #artists"
+    hashtags: "#lebron, #miamiheat, #graphicdesigner, #nbaart"
   - username: "minnietomyears"
     fullname: >-
       joanna belle
     bio: >-
       📍miami, fl owner of @magiclaymade #disneyirl edits • @ellebannaoj.jpg ✞ follower of Christ
     location: "United States"
-    followers: 3329
-    engagement: 927
-    commentsToLikes: 0.140678
+    followers: 3107
+    engagement: 709
+    commentsToLikes: 0.124950
     id: ck6u2km3fscor0j717g41roub
     verified: false
-    hashtags: "#disneysmallshop, #instadisney, #mickeystyle, #ilovedisney"
-  - username: "sa_arteaga"
-    fullname: >-
-      Sergio Arteaga
-    bio: >-
-      Cuban Graphic Designer #branding #uiuxdesign #illustration
-    location: "United States"
-    followers: 9743
-    engagement: 311
-    commentsToLikes: 0.038766
-    id: ck5c0z6plu4p90i114h9ertnd
-    verified: false
-    hashtags: "#3d, #trending, #art, #drawing"
+    hashtags: "#disneylover, #disneyirl, #disneyland, #disneygirl"
   - username: "thekylecyr"
     fullname: >-
       Kyle Cyr 𓅓 | 20K 🔜
     bio: >-
-      CT📍 | UMD ‘24 | Graphic Designer @eamaddennfl | Ambassador @seatgeek
+      CT📍 | UMD ‘24 | Graphic Designer @eamaddennfl | Ambassador @seatgeek | 𝐜𝐡𝐚𝐧𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐦𝐞.
     location: "United States"
-    followers: 12276
-    engagement: 2741
-    commentsToLikes: 0.035471
+    followers: 15897
+    engagement: 3477
+    commentsToLikes: 0.021912
     id: ckapaohpewuv60i78m5xln6hr
     verified: false
-    hashtags: "#graphicdesign, #lions, #steelersnation, #buccaneers"
-  - username: "designedbyjohnny"
+    hashtags: "#httr, #bills, #patrickmahomes, #nba"
+  - username: "theartofbokkaboom"
     fullname: >-
-      Johnny Silva
+      𝔹𝕆𝕂𝕂𝔸𝔹𝕆𝕆𝕄
     bio: >-
-      🇧🇷 27 | Graphic Designer / Retoucher Crazy about sports, but I think you already noticed that. Twitter: @DesignByJohnny
+      #bokkaboom Illustrator | Graphic Designer | Creative Director Inspired by hip hop & street culture at it's finest.🔥 📨 Inquiries: bokkaboom@gmail.com
     location: "United States"
-    followers: 11161
-    engagement: 1451
-    commentsToLikes: 0.032693
-    id: ck8tcu3fg0oqg0j78aa7b52g3
+    followers: 7635
+    engagement: 276
+    commentsToLikes: 0.098177
+    id: ck55ppf2db31c0i11su8l5nc5
     verified: false
-    hashtags: "#sports, #chargersfootball, #artgallery, #nbadesign"
+    hashtags: "#bennythebutcher, #airjordan1, #hiphop, #northface"
   - username: "srelix"
     fullname: >-
       Mikey Halim
     bio: >-
-      Graphic Designer // @mikey_halim Clients within @NBA, @FIBA, @EXTFootball - Enquiries: DM or Email 📩
+      Graphic Designer // @mikey_halim Clients within @NBA, @FIBA, @EXTFootball - Shop custom jerseys ↙️
     location: "United States"
-    followers: 100267
-    engagement: 680
-    commentsToLikes: 0.026983
+    followers: 102497
+    engagement: 769
+    commentsToLikes: 0.010333
     id: ck8tbi6mnvs150j78gd4afe13
     verified: false
-    hashtags: "#xbox, #ballislife, #love, #pacers"
-  - username: "sicerow"
-    fullname: >-
-      SICEROW PHOTOGRAPHY
-    bio: >-
-      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 👻 Snapchat: Sicerow 🐼 Making of 👇🏽 @sicerowphotography
-    location: "United States"
-    followers: 14536
-    engagement: 424
-    commentsToLikes: 0.031994
-    id: ck5q70ojozir30i11j6ldgc33
-    verified: false
-    hashtags: "#cosplay, #vlog, #instadaily, #artsy"
+    hashtags: "#thisiswhyweplay, #rockets, #bball, #basketball"
   - username: "bayareadesigns"
     fullname: >-
       Jeremy Jae Aguinaldo
     bio: >-
-      🇵🇭🇺🇸 Clients within NBA, NFL, & NCAA 🖋 Graphic Designer 👤 Personal: @jeremyaguinaldo 📱 Other page: @visualsbyjerm
+      🇵🇭🇺🇸 • Featured on NBA TV • Clients within NBA, NFL, & NCAA 🖋 Graphic Designer 👤 Personal: @jeremyaguinaldo 📱 Other page: @visualsbyjerm
     location: "United States"
-    followers: 14984
-    engagement: 1356
-    commentsToLikes: 0.046683
+    followers: 14810
+    engagement: 1466
+    commentsToLikes: 0.042125
     id: ck14lqe3tvys80i19o3vklwl6
     verified: false
-    hashtags: "#blackouttuesday, #digitalizecontest, #digitalizesports"
+    hashtags: ""
+  - username: "ashalooo00"
+    fullname: >-
+      𝐀𝐒𝐇𝐋𝐄𝐘 | 𝐛𝐞𝐚𝐮𝐭𝐲 𝐢𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
+    bio: >-
+      📍𝑴𝑰𝑨𝑴𝑰 ✰ top 3% of a billion💲company ✰ content creator/ graphic designer ↓ ready to change your life?
+    location: "United States"
+    followers: 6891
+    engagement: 559
+    commentsToLikes: 0.102474
+    id: ckaow9mli7yf70i78eqzxw53l
+    verified: false
+    hashtags: "#glowingskin, #snacktime, #selfdevelopment, #loveyourself"
   - username: "hawkedits_"
     fullname: >-
       JH
     bio: >-
-      Graphic Design 📍Virginia 📩 hawkedits14@gmail.com Graphic designer for @wahoops_ and @boowilliamsaau Available for freelance!
+      📍Virginia 📩 hawkedits14@gmail.com Graphic designer for @wahoops_ and @boowilliamsaau Available for freelance!
     location: "United States"
-    followers: 6429
-    engagement: 762
-    commentsToLikes: 0.026718
+    followers: 6543
+    engagement: 1057
+    commentsToLikes: 0.029166
     id: ck14i3jeudgpd0i19x5n4pl7z
     verified: false
-    hashtags: "#hawkedits, #atlantahawks, #bubble, #nba"
+    hashtags: "#hawkedits, #la, #nba, #lebronjames"
+  - username: "carola_deutsch"
+    fullname: >-
+      Carola Deutsch
+    bio: >-
+      ART I TATTOO I DESIGN Co-owner of @decasa_creative_studio Check out our website for an overview of my work
+    location: "United States"
+    followers: 14900
+    engagement: 198
+    commentsToLikes: 0.040208
+    id: ck55ocpah83uc0i1114gyr3x7
+    verified: false
+    hashtags: "#instaart, #abstracttattoo, #watercolourtattoo, #austrianart"
   - username: "gillie_edits"
     fullname: >-
       GillieEdits
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.016394
     id: ck13d16o8357m0i19vxn12x2y
     verified: false
-    hashtags: "#billsmafia, #speed, #lakers, #art"
+    hashtags: "#lakers, #nike, #art, #buffalo"
 ---

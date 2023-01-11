@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Montreal in 2023
+title: Top 10 Food Instagram Influencers In Montreal In 2023
 description: >-
-  Find top food Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #foodstagram #mtlfoodie #mtlfood.
+  Find top food Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #foodie #food #instafood.
 platform: Instagram
-hits: 50
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 50 Instagram influencers like this in Montreal, Canada for you to connect with.
+hits: 22
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 22 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
-  - username: "amoula__style"
+  - username: "olivierprimeaubc"
     fullname: >-
-      Amal Lassoued | Lifestyle
+      Olivier Primeau
     bio: >-
-      🇨🇦 | 📍Montréal 🌎🦋📸 Modest Fashion | Beauty | Travel | Food #montreal 📧 for collabs: amelhope.inc@gmail.com
+      Beachday Everyday
     location: "Canada"
-    followers: 20209
-    engagement: 257
-    commentsToLikes: 0.261554
-    id: ck0w0z38mgqtm0i19nkz6byk7
-    verified: false
-    hashtags: "#hijabfashionista, #ootdhijab, #hfinspo, #canadianbloggers"
-  - username: "miss_evycookies"
-    fullname: >-
-      Evelyne Caillé-Guibert
-    bio: >-
-      ✈️ Créatrice de contenu | Voyage et bouffe 🍰 Content creator | Travel and food 🇨🇦 Montréal 💌 DM for collaboration 🐈 Accro aux chats, livres et thés
-    location: "Canada"
-    followers: 6588
-    engagement: 3028
-    commentsToLikes: 0.281386
-    id: ck5ce14fjk4x40i1170cxpskn
-    verified: false
-    hashtags: "#canadaparadise, #travelblogger, #restaurant, #italy"
-  - username: "tastemontreal"
-    fullname: >-
-      TasteMontreal
-    bio: >-
-      Revealing the best food in Montreal / Decouvrez la meilleure nourriture à Montréal ➥ Get Featured: #TasteMontreal ➥ Contact: info@tastemontreal.ca
-    location: "Canada"
-    followers: 158137
-    engagement: 136
-    commentsToLikes: 0.087185
-    id: ck14i8g66e5ul0i19x21yljmj
+    followers: 679260
+    engagement: 62
+    commentsToLikes: 0.044427
+    id: ck0vvpuyvq7xg0i19541djgzx
     verified: true
-    hashtags: "#tastemontreal"
-  - username: "feedmemontreal"
+    hashtags: "#lol, #laval, #slicegang, #vlog"
+  - username: "themosttrusted"
     fullname: >-
-      FEEDMEMONTREAL
+      MONTREAL FOOD
     bio: >-
-      📍Montréal’s best food joints—upscale, street style & everything in between 👌🏼 Tag us or #feedmemontreal to be featured 💌feedmemontreal@gmail.com
+      Your Favourite Food Page 🔥 • Social Media Specialists • Content Creators Contact : info@tmtrusted.com #THEMOSTTRUSTED
     location: "Canada"
-    followers: 19519
-    engagement: 99
-    commentsToLikes: 0.168516
-    id: ck8syr656loyy0j78ocpca8u5
+    followers: 25179
+    engagement: 544
+    commentsToLikes: 0.062134
+    id: ck5hjzhu5hiv50i11fb4w1dvv
     verified: false
-    hashtags: "#foodblogger, #yummy, #hungry, #foodphotography"
-  - username: "christopher_the_pig"
-    fullname: >-
-      Christopher the Pig
-    bio: >-
-      
-    location: "Canada"
-    followers: 80000
-    engagement: 354
-    commentsToLikes: 0.017621
-    id: ck135rz2d2xiy0i19q8sd5mum
-    verified: true
-    hashtags: "#hotel, #fun, #funtimes, #vegan"
-  - username: "fulltimefoooodie"
-    fullname: >-
-      Nath | Montreal Food Blogger
-    bio: >-
-      🍽Eat with me all over Montreal 📸Food Photographer⁣ ✨Content Creator 💌DM/email for collabs⁣/invites 😋Always hungry
-    location: "Canada"
-    followers: 14997
-    engagement: 623
-    commentsToLikes: 0.497647
-    id: ck0u68j5b18vz0i19tdk9l14t
-    verified: false
-    hashtags: "#mtlresto, #montrealer, #sweets, #mtlfoodblog"
+    hashtags: "#tasty, #foodporn, #mtlfood, #foodgasm"
   - username: "jeanniesfood"
     fullname: >-
       Jeannie | Montreal Food Blog 📸
     bio: >-
-      Small girl with a big appetite 🙋🏻‍♀️ Foodie 🍕 Sweets lover 🍰 Latte 🍵 Boba🥤 💌 DM for collab/invites :)
+      Small girl with a big appetite 🙋🏻‍♀️ Foodie 🍕 Sweets 🍰 Coffee ☕️ Boba🥤 💌 DM for collab/invites :)
     location: "Canada"
-    followers: 2426
-    engagement: 842
-    commentsToLikes: 0.072318
+    followers: 2595
+    engagement: 793
+    commentsToLikes: 0.076985
     id: ck55mdo9n3q0x0i11bxskwulj
     verified: false
-    hashtags: "#supportlocal"
-  - username: "abelaslife"
+    hashtags: "#supportlocal, #gohabsgo"
+  - username: "christopher_the_pig"
     fullname: >-
-      ABELA’S LIFE.🕊🤍
+      
     bio: >-
-      ⬗ Bacc en droit, Maîtrise en droit UdeM ⠀ ⠀ ⠀& créatrice de contenu ⚐ Montreal ↠ Fashion, Food & Lifestyle
+      👍🏻شوف الاىىىـ/ـتوري وتفهم كل شي سبحانك ربي ان كنت من الضالمين @instagram @christopher_the_pig
     location: "Canada"
-    followers: 30713
-    engagement: 245
-    commentsToLikes: 0.125113
-    id: ck5zmrplon3na0i1479y9ok0q
-    verified: false
-    hashtags: "#partenaire"
-  - username: "lebaneseyvr"
+    followers: 103558
+    engagement: 273
+    commentsToLikes: 0.016314
+    id: ck135rz2d2xiy0i19q8sd5mum
+    verified: true
+    hashtags: "#fun, #instagood, #instagram, #funtimes"
+  - username: "cbcnews"
     fullname: >-
-      𝐌𝐎𝐄𝐄𝐍𝐊 | 🇨🇦 𝐕𝐚𝐧𝐜𝐨𝐮𝐯𝐞𝐫 𝐅𝐨𝐨𝐝𝐢𝐞
+      CBC News
     bio: >-
-      📍Vancouver, BC Canada 🇨🇦 📸 Beautiful spots & restaurants 🧑‍🍳 Home cooking and baking 📥 DM for collabs and reviews
+      Images through the Canadian lens curated by the team at CBC News
     location: "Canada"
-    followers: 119277
-    engagement: 54
-    commentsToLikes: 0.024306
-    id: ck9h9tnf59xas0j78xxnh7of5
-    verified: false
-    hashtags: "#richmondbc, #halalvancity, #homefood, #yvreats"
-  - username: "jellybeaneats"
+    followers: 594518
+    engagement: 58
+    commentsToLikes: 0.053730
+    id: ck0u6mtr42gcf0i1913zojzob
+    verified: true
+    hashtags: "#cbcnews, #tokyo2020, #ontario, #canada"
+  - username: "cestvrai_"
     fullname: >-
-      Jellybeaneats (Alex) 🇨🇦🇵🇹🇮🇹
+      V
     bio: >-
-      🏡 Home Cook 🐟 Pescatarian 💚 Eat well to live well 💭Follow for meal inspiration/recipes 🍽 Montreal restaurants 📸 Sonny a6000 +iPhone XR
+      Swoosh-ing with class 🇨🇦 Montreal // YUL 😝 Food is my BFF ⚡️ bubble tea is my diet
     location: "Canada"
-    followers: 8749
-    engagement: 434
-    commentsToLikes: 0.284207
-    id: ck8tb7ei0uldr0j78xsmsmyc3
+    followers: 129007
+    engagement: 89
+    commentsToLikes: 0.036129
+    id: ck5q181fv9pka0i11z1uxihcb
     verified: false
-    hashtags: "#mtlblog, #plantbasedrecipe, #food52, #foodphotographer"
+    hashtags: ""
+  - username: "working_chix"
+    fullname: >-
+      Anna Przezak
+    bio: >-
+      Fashion, Beauty, Lifestyle, Personal Finance CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
+    location: "Canada"
+    followers: 33270
+    engagement: 127
+    commentsToLikes: 0.041714
+    id: ck9wh6amgwge60j782z3gl8jx
+    verified: false
+    hashtags: "#toronto, #homedecor, #torontoblogger, #luxyhair"
+  - username: "mtlfoodbuzz"
+    fullname: >-
+      Mtlfoodbuzz | Montreal Foodie
+    bio: >-
+      💥 | Content Creator • Social Media Influencer 📸 | All My Eats 📍 | Montreal • Laval 📲 | DM For Food Collaboration
+    location: "Canada"
+    followers: 15978
+    engagement: 436
+    commentsToLikes: 0.617639
+    id: ckaotuhkxxksk0i78v064feku
+    verified: false
+    hashtags: "#mtlfood, #giveaway, #mtlgiveaway, #montrealcity"
+  - username: "roxane_bailey"
+    fullname: >-
+      Roxane Bailey | MTL📍
+    bio: >-
+      Makeup 💋 Fashion 👠 Food 🍰 Digital Marketing Manager at @image_motion 💁🏻‍♀️
+    location: "Canada"
+    followers: 2212
+    engagement: 558
+    commentsToLikes: 0.275977
+    id: ck6uidy4aeiv60j71qnq4vwkk
+    verified: false
+    hashtags: "#endypartner, #gifted, #ad, #askingforafriend"
+  - username: "canspiceitup"
+    fullname: >-
+      Toronto Foodies
+    bio: >-
+      📍Greater Toronto Area ⬅️Lived in Montreal🇨🇦, Chicago🇺🇸 & India🇮🇳 👫a foodie couple on a mission to discover food spots 📩DM for collabs/invites
+    location: "Canada"
+    followers: 6162
+    engagement: 795
+    commentsToLikes: 0.498971
+    id: ck0u9tffgamnr0i192jiattus
+    verified: false
+    hashtags: "#phoneeatsfirst, #scarborougheats, #invite, #summervibes"
 ---

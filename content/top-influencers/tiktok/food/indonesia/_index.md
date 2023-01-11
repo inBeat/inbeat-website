@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Indonesia in 2023
+title: Top 10 Food TikTok Influencers In Indonesia In 2023
 description: >-
   Find top food TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryoupage #foryou #viral.
 platform: TikTok
-hits: 63
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 63 TikTok influencers like this in Indonesia for you to pitch.
+hits: 52
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 52 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "agatillano"
     fullname: >-
       RAIKANTOPHINO (พี่โน่)
     bio: >-
-      ผมรู้ว่าผมไม่หล่อ แต่ผมพยายามจะเป็นคนตลก ❤️ Food, Travel, Comedy 🇮🇩🇹🇭
+      ❤️ Food, Travel, & Comedy 🇮🇩🇹🇭
     location: "Indonesia"
-    followers: 108800
-    engagement: 1039
-    commentsToLikes: 0.045833
+    followers: 201100
+    engagement: 1816
+    commentsToLikes: 0.031685
     id: ck9kduzc2w0se0j78zpvhbnu4
     verified: false
-    hashtags: "#raikantopeni, #korea, #solo, #viensboys"
-  - username: "cia.hartono"
+    hashtags: "#viensboys, #raikantophino, #kulinertiktok, #kulinersolo"
+  - username: "ilmumakanan"
     fullname: >-
-      ciA☁️🐝
+      Food Technologist
     bio: >-
-      Jangan lupa follow instagram : cia.hartono! CEO of grocery,food & slime vlogs 🐝
+      All related to Food 🥦🥬🥒🫒🥕🌽🍠🥨🥞🥔🍗🥖🍕🍟🍕🧆🌮🍙🍤🍨🍧🍰🎂🍭🍬🌰🍪🍼🥤🥂
     location: "Indonesia"
-    followers: 1500000
-    engagement: 1793
-    commentsToLikes: 0.007861
-    id: ck83zpw5f1you0j782b5g58ta
+    followers: 406400
+    engagement: 1169
+    commentsToLikes: 0.023024
+    id: ckbl31aq4078c0j23ec75w7a6
     verified: false
-    hashtags: "#magicscan, #duet"
+    hashtags: "#samasamabelajar, #foodtech, #kreasivalentine, #egg"
+  - username: "edsaestella"
+    fullname: >-
+      Eca 👑
+    bio: >-
+      20🇮🇩 Ig: edsaestella Youtube:Edsa Estella fitness, food & dance enthusiast.
+    location: "Indonesia"
+    followers: 243500
+    engagement: 723
+    commentsToLikes: 0.024118
+    id: ckdtjmekfwvnf0j23mcgm5auv
+    verified: false
+    hashtags: ""
   - username: "food.hunting"
     fullname: >-
       Food Hunting 👣😋
     bio: >-
       Good Food is Good Mood😋 🌭🌮🌯🍔🍗🍙🍜🍝🍦🍧🍨🍟 📧 : food.hunting@aol.com
     location: "Indonesia"
-    followers: 473400
-    engagement: 974
-    commentsToLikes: 0.006436
+    followers: 469000
+    engagement: 905
+    commentsToLikes: 0.006103
     id: ck8ae316z9d700j7898c1gzog
     verified: false
-    hashtags: "#food, #foodie, #latteart, #foryou"
-  - username: "ivyfeb"
-    fullname: >-
-      ivyfeb ☁️
-    bio: >-
-      20 Review barang ngeracun art beauty fashion food ig : ivyfeb Tiktok2: @ivyfeb00
-    location: "Indonesia"
-    followers: 1800000
-    engagement: 1287
-    commentsToLikes: 0.005591
-    id: ckcjjtewndlp30j23rjo1yw4o
-    verified: false
-    hashtags: "#fyp, #skincare, #fashion, #baju"
+    hashtags: "#food, #foodie, #latteart, #latte"
   - username: "pkulover"
     fullname: >-
       Pipin Pkulover
     bio: >-
       Food Video For Fun Please Check My Instagram
     location: "Indonesia"
-    followers: 681500
-    engagement: 731
-    commentsToLikes: 0.004751
+    followers: 1400000
+    engagement: 810
+    commentsToLikes: 0.005979
     id: ckcjqulbqgzal0j23q7vy2v8j
     verified: true
-    hashtags: "#colatta, #colattaglaze, #samasamadaritiktok, #resso"
-  - username: "foodirectory"
+    hashtags: "#fyp, #360hkfoodmoments, #mito, #tiktokmalaysia"
+  - username: "ivyfeb"
     fullname: >-
-      WINDY IWANDI
+      ivyfeb ☁️
     bio: >-
-      Kehidupanku bersama Yura🐶 si drama queen👑 Instagram: @foodirectory
+      21 Hobi review barang &food viral ✨ yt / ig : ivyfeb Jangan mau ketinggalan 👇🏻
     location: "Indonesia"
-    followers: 199800
-    engagement: 1118
-    commentsToLikes: 0.005284
-    id: ck9dyz57gzc280j78ovgza6fb
+    followers: 3100000
+    engagement: 1177
+    commentsToLikes: 0.009127
+    id: ckcjjtewndlp30j23rjo1yw4o
     verified: false
-    hashtags: "#fyp, #foryoupage, #dogoftiktok, #pet"
+    hashtags: "#makan, #racuntiktok, #kuliner, #kulinerramadan"
   - username: "travelawan"
     fullname: >-
       Awan Yulianto
     bio: >-
       Indonesian 🇮🇩 Travel Blogger & Foodie Follow my Instagram: @travelawan
     location: "Indonesia"
-    followers: 11000
-    engagement: 638
-    commentsToLikes: 0.016823
+    followers: 10900
+    engagement: 618
+    commentsToLikes: 0.030651
     id: ck8nbf0cc9ll70j784i6wjihe
     verified: false
-    hashtags: "#tiktoktravel, #fyp, #travelawan, #jelajahkotaku"
+    hashtags: "#sanfrancisco, #travelawan, #tiktokkuliner, #doyanjajan"
+  - username: "foodirectory"
+    fullname: >-
+      WINDY IWANDI
+    bio: >-
+      Kehidupanku bersama Yura🐶 si drama queen👑 Instagram: @foodirectory
+    location: "Indonesia"
+    followers: 359200
+    engagement: 1266
+    commentsToLikes: 0.005504
+    id: ck9dyz57gzc280j78ovgza6fb
+    verified: false
+    hashtags: "#jakarta, #foryou, #shihtzu, #food"
   - username: "alvina_tw"
     fullname: >-
       Alvina T. W.
     bio: >-
       Healthy & Vegetarian food cooking 👩‍🍳 l'm losing 28 kg IG: alvina_tw
     location: "Indonesia"
-    followers: 275100
-    engagement: 774
-    commentsToLikes: 0.007843
+    followers: 316200
+    engagement: 726
+    commentsToLikes: 0.007788
     id: ckbl07ojawxs80j233of3xk3s
     verified: false
-    hashtags: "#berbagifakta, #samasamaindonesia, #menudiet, #lebihdari1menit"
+    hashtags: "#diet, #fy, #tipsdiet, #kulinernusantara"
   - username: "storeateller"
     fullname: >-
       Hara
     bio: >-
-      Foods Slave 🇮🇩
+      HATE PEOPLE LOVE FOOD 🇲🇨
     location: "Indonesia"
-    followers: 18000
-    engagement: 353
-    commentsToLikes: 0.016306
+    followers: 17900
+    engagement: 383
+    commentsToLikes: 0.017021
     id: ck9shjodltt9a0j78gwbmwi40
     verified: false
-    hashtags: "#kuliner, #makan, #tiktok, #yummy"
-  - username: "devynnnnnnnnn"
-    fullname: >-
-      devyn 😺
-    bio: >-
-      chelsea’s idea hey... ig: @brulee.foods
-    location: "Indonesia"
-    followers: 17500
-    engagement: 908
-    commentsToLikes: 0.025840
-    id: cka0ppba1989z0i7852uoezt5
-    verified: false
-    hashtags: "#foryou, #viral, #fyp, #foryoupage"
+    hashtags: "#kuliner, #fypdongggggggg, #eat, #streetfood"
 ---

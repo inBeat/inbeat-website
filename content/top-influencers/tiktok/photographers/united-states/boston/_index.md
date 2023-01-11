@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Boston in 2023
+title: Top 10 Photographers TikTok Influencers In Boston In 2023
 description: >-
-  Find top photographers TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #photographer #foryoupage #photography.
+  Find top photographers TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #photographer #photography #viral.
 platform: TikTok
-hits: 10
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 10 TikTok influencers like this in Boston, United States for you to work with.
+hits: 8
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Boston, United States for you to collaborate.
 profiles:
-  - username: "lydia.rich"
+  - username: "benskaar"
     fullname: >-
-      lydia 🇧🇲
+      Ben Skaar
     bio: >-
-      18 | photographer 📸🦋 BOSTON check my insta @lydia.rich JUSTICE.
+      My Instagram is better 17 | Boston
     location: "United States"
-    followers: 7539
-    engagement: 1990
-    commentsToLikes: 0.021684
-    id: ck8nbv6z0br1p0j78y854ke9r
+    followers: 51200
+    engagement: 1910
+    commentsToLikes: 0.052223
+    id: ckbez3tpmk37q0j23nc2unbqj
     verified: false
-    hashtags: "#snoozzzapalooza, #artist, #miraclecurlschallenge, #photography"
+    hashtags: "#massachusetts, #fyp, #photographer, #boston"
   - username: "eric.snyder"
     fullname: >-
       Eric Snyder
     bio: >-
-      Professional photographer based in Boston. 📸 CEO of lipsync Portfolio 👇🏼
+      Professional photographer based in Boston. 📸 CEO of lipsync 👇🏼
     location: "United States"
-    followers: 33100
-    engagement: 1380
-    commentsToLikes: 0.052674
+    followers: 36500
+    engagement: 1137
+    commentsToLikes: 0.074016
     id: ckcdw8qasfjgo0j231a2lw9f4
     verified: false
-    hashtags: "#photographer, #vote, #lipsync, #fyp"
-  - username: "alykula"
+    hashtags: "#fyo, #catsoftiktok, #lipsyn, #foryourpage"
+  - username: "ali_raye"
     fullname: >-
-      Aly
+      Ali
     bio: >-
-      Idfk but it’s fun photo tips n tings NYC based photographer
+      Country Girl. Photographer. 🤍 Nashville. Boston Marathoner 🏅Bi. 🏳️‍🌈
     location: "United States"
-    followers: 13500
-    engagement: 1439
-    commentsToLikes: 0.022547
-    id: ckbfdfzol6tp20j23uc9dy350
+    followers: 60000
+    engagement: 1318
+    commentsToLikes: 0.200684
+    id: cka7ny2q3z9c80i78y37soofw
     verified: false
-    hashtags: "#photoshoot, #editing, #nyc, #fyp"
-  - username: "vs_car_videos"
-    fullname: >-
-      vs_car_photos
-    bio: >-
-      Ri Photographer- Follow my Instagram @vs_car_photos all vids are mine
-    location: "United States"
-    followers: 4855
-    engagement: 1456
-    commentsToLikes: 0.009650
-    id: ckankrvxx5n1m0i78p2137inn
-    verified: false
-    hashtags: "#foryoupage, #bugatti, #photographer, #cars"
-  - username: "chowdownusa"
-    fullname: >-
-      Chelsea
-    bio: >-
-      Travel + Food✈️🍰 Based in Boston
-    location: "United States"
-    followers: 19800
-    engagement: 1136
-    commentsToLikes: 0.038205
-    id: ck8saa27p16nt0j78monb9kq1
-    verified: false
-    hashtags: "#traveldiaries, #stayathome, #hiddengems, #food"
+    hashtags: "#mifamilia, #roadto70k, #snowstorm, #snowday"
   - username: "thatkidrbm"
     fullname: >-
       Rudimir Martinez
     bio: >-
       I’m Rudy, Im not funny but I’m a pretty decent photographer :) 🇩🇴
     location: "United States"
-    followers: 4718
-    engagement: 836
-    commentsToLikes: 0.050622
+    followers: 6132
+    engagement: 929
+    commentsToLikes: 0.107733
     id: ckdbjcdhl96230j23tvr83cid
     verified: false
-    hashtags: "#boston, #dominican, #xyzbca, #latino"
-  - username: "benskaar"
+    hashtags: "#photography, #617, #boston, #978"
+  - username: "alykula"
     fullname: >-
-      Ben Skaar
+      Aly
     bio: >-
-      🍁Ceo of Fall🍁 17 | Massachusetts
+      big apple photo tings & what not
     location: "United States"
-    followers: 43000
-    engagement: 1614
-    commentsToLikes: 0.045792
-    id: ckbez3tpmk37q0j23nc2unbqj
+    followers: 14400
+    engagement: 1458
+    commentsToLikes: 0.039887
+    id: ckbfdfzol6tp20j23uc9dy350
     verified: false
-    hashtags: "#photoshop, #igotthemusic, #drone, #halloweenathome"
-  - username: "capturedbykal"
+    hashtags: "#photography, #photoshoot, #wee, #joshuatree"
+  - username: "lydrichardson"
     fullname: >-
-      Kal
+      old account!
     bio: >-
-      Bio Major MA
+      follow @lydia.rich 🥰
     location: "United States"
-    followers: 17500
-    engagement: 629
-    commentsToLikes: 0.049930
-    id: ck8vxtknus4es0j78icd8bmc7
+    followers: 7790
+    engagement: 1357
+    commentsToLikes: 0.096774
+    id: ck8nbv6z0br1p0j78y854ke9r
     verified: false
-    hashtags: "#mass, #fyp, #photography, #greenscreenvideo"
-  - username: "eddieottero"
+    hashtags: "#travel, #florida, #wee, #aesthetic"
+  - username: "taylormarieland"
     fullname: >-
-      Eddie Otero
+      Tay
     bio: >-
-      Filmmaker & Content Creator🎥📸 Instagram: @EddieOtero
+      “She’s tokin but she’s not tokin to me” - Mya Angelou
     location: "United States"
-    followers: 4705
-    engagement: 1020
-    commentsToLikes: 0.162042
-    id: ckd17ubwmp7nf0j23gdr5e7ld
+    followers: 10700
+    engagement: 1031
+    commentsToLikes: 0.074900
+    id: ckb9a0b47ukj30j23wt0rcb1q
     verified: false
-    hashtags: "#parati, #tutorial, #photography, #miami"
-  - username: "clvtch_life"
+    hashtags: "#duet, #greenscreen, #stitch, #winterfashion"
+  - username: "aaronjb3"
     fullname: >-
       Aaron
     bio: >-
-      Just here sharing my story Filmmaking✖️Moto✖️Dad Life Business ⬇️ IG:@ajb_films
+      Photographer/Cinematographer IG: @aaronjbfilms
     location: "United States"
-    followers: 4546
-    engagement: 1218
-    commentsToLikes: 0.021622
+    followers: 4527
+    engagement: 871
+    commentsToLikes: 0.018410
     id: ckb0uo1o5k05o0j23e8jxe7gw
     verified: false
-    hashtags: "#foryoupage, #foryourpage, #trending, #fyp"
+    hashtags: "#foryoupage, #foryourpage, #trending, #cameralife"
+  - username: "jakechamseddine"
+    fullname: >-
+      Jake Chamseddine 
+    bio: >-
+      Photographer/twitch partner 35k? ⬇️Come say hey nerds⬇️
+    location: "United States"
+    followers: 30200
+    engagement: 1859
+    commentsToLikes: 0.051004
+    id: ck8nf5lmgqe8b0j78mk6exy1b
+    verified: true
+    hashtags: "#patd, #photo, #photography, #fyp"
+  - username: "chelseyrayphoto"
+    fullname: >-
+      chelseyrayphoto
+    bio: >-
+      Photographer. jewelry maker. spiritual truther. movie lover. black lives matter.
+    location: "United States"
+    followers: 68900
+    engagement: 2171
+    commentsToLikes: 0.053529
+    id: ckb9v5s9qu69z0j23tiefdex8
+    verified: false
+    hashtags: "#smallbusiness, #helpothers, #selflove, #woke"
 ---

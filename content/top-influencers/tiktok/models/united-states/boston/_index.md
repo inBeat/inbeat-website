@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Boston in 2023
+title: Top 10 Models TikTok Influencers In Boston In 2023
 description: >-
-  Find top models TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #foryou #model #foryoupage.
+  Find top models TikTok influencers in Boston in 2023. Most popular hashtags: #model #fyp #boston #viral.
 platform: TikTok
-hits: 13
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 13 TikTok influencers like this in Boston, United States for you to pitch.
+hits: 14
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Boston, United States for you to pitch.
 profiles:
-  - username: "fanatics"
+  - username: "madelinedelp"
     fullname: >-
-      Fanatics
+      Madeline Delp
     bio: >-
-      The world’s largest collection of official fan gear #LoveOn
+      IG: madelinedelp 💕Just a girl in a pink wheelchair chasing bold adventures 💕
     location: "United States"
-    followers: 307600
-    engagement: 1077
-    commentsToLikes: 0.023916
-    id: cka0hir2q9bb70i788kvs6x48
-    verified: true
-    hashtags: "#allinchallenge, #nfl, #mlb, #jlo"
+    followers: 54000
+    engagement: 966
+    commentsToLikes: 0.028026
+    id: ckdsq1nntomsr0j2314vt76fu
+    verified: false
+    hashtags: "#beauty, #motivation, #pageant, #fashion"
+  - username: "rpizzzle"
+    fullname: >-
+      Rachel Pace
+    bio: >-
+      Just here. ✌🏼
+    location: "United States"
+    followers: 7043
+    engagement: 547
+    commentsToLikes: 0.020778
+    id: ck9sm4ugfhfyc0j78p7iu2ghb
+    verified: false
+    hashtags: "#funny, #fail, #fyp, #foryou"
   - username: "joehadley96"
     fullname: >-
       Joseph JP Hadley
     bio: >-
       Instagram- Jphadley19 Twitter -Jphadley96 🏳️‍🌈🏳️‍🌈🇮🇹🇮🇹
     location: "United States"
-    followers: 8012
-    engagement: 709
-    commentsToLikes: 0.041930
+    followers: 8170
+    engagement: 765
+    commentsToLikes: 0.041485
     id: ck9tu8w7sk87z0j786zjpgboa
     verified: false
-    hashtags: "#gaykid, #equinox, #snapchat, #sexy"
-  - username: "sperothehero"
+    hashtags: "#lifetime, #gay, #equinox, #gaymen"
+  - username: "laronhinesofficial"
     fullname: >-
-      Sophia
+      La’Ron®🎤
     bio: >-
-      NYC singer/songwriter (she/her) insta original music & BLM resources below⬇️
+      19 yrs old MS✈️Cali Actor, Singer, Model not a teacher/parent Snap- laron-hines
     location: "United States"
-    followers: 12500
-    engagement: 1631
-    commentsToLikes: 0.067698
-    id: ck9fln0odoti40j789zlffe68
-    verified: false
-    hashtags: "#greenscreen, #imjealous, #dialitforward, #singing"
-  - username: "papipalmerofficial"
+    followers: 5900000
+    engagement: 1509
+    commentsToLikes: 0.010709
+    id: ckbwfc1ng1xq00j23safvdhsf
+    verified: true
+    hashtags: "#sponsored, #bangenergy, #ad, #datewithprotection"
+  - username: "juliamcorso"
     fullname: >-
-      Baby Oil Physique🥵
+      julia corso
     bio: >-
-      BOSTON ‼️21🇯🇲 YOUTUBER: @JUSTC.PALMER IG - C.Palmer_Fitness ⬇️Apparel website
+      MMG model IG: ju1iacorso NY www.dripeight.com
     location: "United States"
-    followers: 122100
-    engagement: 1668
-    commentsToLikes: 0.042892
-    id: ckbawb0g1mrz10j23kph27p7h
+    followers: 2759
+    engagement: 724
+    commentsToLikes: 0.040720
+    id: ckbexcbymhjre0j23yp4nr1gr
     verified: false
-    hashtags: "#greenscreen, #fyp, #fyppage, #motivation"
-  - username: "rockyourhair"
+    hashtags: "#playboy, #vogue, #drip, #tiktokartists"
+  - username: "keikitoooo"
     fullname: >-
-      rockyourhair
+      Kevin Guevara
     bio: >-
-      Are You the Next R💖CK Model? ✨
+      Made in El Salvador Boston- nantucket Massachusetts Villana maldita 🧁
     location: "United States"
-    followers: 352900
-    engagement: 1156
-    commentsToLikes: 0.012887
-    id: ckbr7ijrqmo0d0j23yjrtrext
+    followers: 35100
+    engagement: 555
+    commentsToLikes: 0.025805
+    id: ckbfc0bse4huk0j23qx08gcl3
     verified: false
-    hashtags: "#rockyourhair, #rockmodel, #fyp, #cheerleader"
-  - username: "marvmore"
-    fullname: >-
-      Marv
-    bio: >-
-      I stand in front of tweets/looks like Khalid 📍Boston 26 Y.O 4 Mil likes 🎂😳
-    location: "United States"
-    followers: 11200
-    engagement: 988
-    commentsToLikes: 0.016175
-    id: ckd09b430bida0j23zlc7azm8
-    verified: false
-    hashtags: "#greenscreen, #teacher, #twitter, #immuneupvapedown"
-  - username: "daddy_mags_official"
-    fullname: >-
-      daddy_mags ™️
-    bio: >-
-      •Daddy-Dom •Entrepreneur •Tattooist •Model Only Fans👇🏼
-    location: "United States"
-    followers: 24400
-    engagement: 1645
-    commentsToLikes: 0.052439
-    id: ckbf940l4zv5g0j23d7lqp1s5
-    verified: false
-    hashtags: "#30k, #ink, #accent, #follow"
-  - username: "scottfreda"
-    fullname: >-
-      Scott Freda
-    bio: >-
-      👨🏻‍💼Health 🤵🏻Model 🗣Comedian 🥃Alcoholic🦸‍♂️World Class Sprinter
-    location: "United States"
-    followers: 95700
-    engagement: 312
-    commentsToLikes: 0.410069
-    id: ckd6kc6ewdrb00j23wfmra84z
-    verified: false
-    hashtags: "#marriage, #single, #mom, #soouse"
+    hashtags: "#perra, #viral, #salvadorean, #dance"
   - username: "lauren_ledoux"
     fullname: >-
       lauren 
     bio: >-
       yes i am the grad party girl model
     location: "United States"
-    followers: 46000
-    engagement: 917
-    commentsToLikes: 0.018629
+    followers: 44500
+    engagement: 892
+    commentsToLikes: 0.025546
     id: ck8j6dqxa9fl20j782qg28wlk
     verified: false
-    hashtags: "#tiktokprom, #tiktokprom2020, #fyp, #cooking"
-  - username: "bostontemporarytattoos"
+    hashtags: "#heather, #fyi, #yum, #feliznavidad"
+  - username: "lydrichardson"
     fullname: >-
-      Temporary Tattoos ‼️
+      old account!
     bio: >-
-      The Realest Fake Tattoo Ever ❌ Lasts 8-10 days ❌ Looks Real ❌ Easily Applied
+      follow @lydia.rich 🥰
     location: "United States"
-    followers: 32000
-    engagement: 376
-    commentsToLikes: 0.021165
-    id: ckd16psqenqtv0j23lxszf6hy
+    followers: 7790
+    engagement: 1357
+    commentsToLikes: 0.096774
+    id: ck8nbv6z0br1p0j78y854ke9r
     verified: false
-    hashtags: "#tatted, #tattoos, #temporarytattoo, #boston"
+    hashtags: "#travel, #florida, #wee, #aesthetic"
+  - username: "fanatics"
+    fullname: >-
+      Fanatics
+    bio: >-
+      The world’s largest collection of official fan gear #LoveOn
+    location: "United States"
+    followers: 307000
+    engagement: 1078
+    commentsToLikes: 0.024083
+    id: cka0hir2q9bb70i788kvs6x48
+    verified: true
+    hashtags: "#mlb, #nba, #nfl, #allinchallenge"
+  - username: "ggubblebum"
+    fullname: >-
+      ur mom 
+    bio: >-
+      
+    location: "United States"
+    followers: 81800
+    engagement: 1472
+    commentsToLikes: 0.023241
+    id: ckan3zurg7qfv0i780ca78z8y
+    verified: false
+    hashtags: "#fyp, #blowthisup, #college, #whatieatinaday"
 ---

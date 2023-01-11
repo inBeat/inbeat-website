@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Malaysia in 2023
+title: Top 10 TikTok Influencers In Malaysia In 2023
 description: >-
-  Find top TikTok influencers in Malaysia in 2023. Most popular hashtags: #duet #shouldbeme #foryou #foryoupage.
+  Find top TikTok influencers in Malaysia in 2023. Most popular hashtags: #duet #foryoupage #foryou.
 platform: TikTok
-hits: 483
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 483 TikTok influencers like this in Malaysia for you to pitch.
+hits: 496
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 496 TikTok influencers like this in Malaysia for you to collaborate.
 profiles:
   - username: "harishkhan2635"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       Harish khan
     location: "Malaysia"
-    followers: 6572
-    engagement: 5271
-    commentsToLikes: 0.158618
+    followers: 6872
+    engagement: 5103
+    commentsToLikes: 0.136817
     id: ckbvvhywotsje0j23yvlctplk
     verified: false
     hashtags: ""
@@ -25,34 +25,46 @@ profiles:
     bio: >-
       465
     location: "Malaysia"
-    followers: 2394
-    engagement: 5081
-    commentsToLikes: 0.199241
+    followers: 2185
+    engagement: 5039
+    commentsToLikes: 0.170369
     id: ckc1p1x8hthcw0j23q9zy4t3n
     verified: false
     hashtags: "#fyp, #foryou, #33, #duet"
-  - username: "mdminhaj507"
+  - username: "shahidjutt186"
     fullname: >-
-      🇧🇩(MD MENHAZ)#507#
+      🌹jutt 🥀g 💞 302⭐
     bio: >-
-      🌹সে:সিনহাজ🌹
+      💕 Tahir jutt 🌹 Shahid jutt 💞 pardesi 💗 love 🥀Pakistan Malaysia ❣️✌️👈👍
     location: "Malaysia"
-    followers: 9434
-    engagement: 3579
-    commentsToLikes: 0.109877
-    id: ckczzlnyz7pfp0j236cabq5il
+    followers: 6289
+    engagement: 4633
+    commentsToLikes: 0.084702
+    id: ckbq9mcgkvuj10j23r2o75nau
     verified: false
     hashtags: ""
-  - username: "roki_vai0"
+  - username: "rezaulfotin"
     fullname: >-
-      roki_vai💔💔💔
+      faizfaiz
     bio: >-
       
     location: "Malaysia"
-    followers: 12400
-    engagement: 2967
-    commentsToLikes: 0.124058
-    id: ckbldp5uh7y2g0j23bb2q99tn
+    followers: 28800
+    engagement: 3813
+    commentsToLikes: 0.165219
+    id: ckcir5jmoxq6u0j23gsgfinhf
+    verified: false
+    hashtags: ""
+  - username: "jayaseelanr.18.03.1993"
+    fullname: >-
+      விவசாயி ஜெயசீலன்
+    bio: >-
+      எனக்கு நானே ராஜா நல்லவனாய் நடித்து வாழ்வதை விட கெட்டவனாய் வாழ்ந்துட்டு போகலாம்
+    location: "Malaysia"
+    followers: 4914
+    engagement: 2842
+    commentsToLikes: 0.239863
+    id: ckcczfohiyzn10j232gseoomv
     verified: false
     hashtags: ""
   - username: "msrana16"
@@ -61,70 +73,58 @@ profiles:
     bio: >-
       🌹🌹ও প্রবাসী ওপ্রবাসী এত কষ্ট বুকে🌹🌹 💜💜রেখে কেমনে দাও হাসি 🎸🎸
     location: "Malaysia"
-    followers: 23100
-    engagement: 2843
-    commentsToLikes: 0.220407
+    followers: 28900
+    engagement: 2795
+    commentsToLikes: 0.240476
     id: ckbq3uio5qby90j238lkuvr7t
     verified: false
-    hashtags: ""
-  - username: "xhazykhan9217"
+    hashtags: "#greentopurple, #786, #stitch, #duet"
+  - username: "roki_vai0"
     fullname: >-
-      Xhazy Khan9217
+      roki_vai💔💔💔
     bio: >-
-      ♥️ birthday 16sep♥️ 🔥I feel proud that I am Pakistani🔥 use👉 #xhazykhan9217
+      ❤roki+roja❤
     location: "Malaysia"
-    followers: 6142
-    engagement: 2728
-    commentsToLikes: 0.096917
-    id: cka84sz70vgqh0i785hs4141v
+    followers: 19400
+    engagement: 2760
+    commentsToLikes: 0.194987
+    id: ckbldp5uh7y2g0j23bb2q99tn
     verified: false
-    hashtags: "#foryoupage, #xhazykhan9217, #lifestyle, #sad"
-  - username: "sk_rafik_08"
+    hashtags: "#foryou, #foryoupage, #roki, #kapongbarupark"
+  - username: "zam_husqvarna"
     fullname: >-
-      Sk_Rafik_08
+      ذم هوسقۏرن 🇲🇾
     bio: >-
-      টেকনাফ আমার অহংকার টেকনাফ আমার বাড়ি তাইতো টেকনাফকে ভালোবাসি BD🇧🇩 Teknaf🤘
+      السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
     location: "Malaysia"
-    followers: 10900
-    engagement: 2706
-    commentsToLikes: 0.114623
-    id: cka9swjzfao6d0i78l5fpg9nl
+    followers: 55200
+    engagement: 2653
+    commentsToLikes: 0.118432
+    id: ckdncd9tkglm90j23ytx9medk
     verified: false
-    hashtags: "#foryoupage, #foryou, #team, #fyp"
-  - username: "rezaulfotin"
-    fullname: >-
-      faizfaiz
-    bio: >-
-      
-    location: "Malaysia"
-    followers: 25800
-    engagement: 2604
-    commentsToLikes: 0.109549
-    id: ckcir5jmoxq6u0j23gsgfinhf
-    verified: false
-    hashtags: "#penang, #havib, #duet, #agechallenge"
+    hashtags: "#laksamanadoremi, #mucien, #haniszalikha, #akakhelmetsteng"
   - username: "fuchi27"
     fullname: >-
       prrityy magar
     bio: >-
       
     location: "Malaysia"
-    followers: 11000
-    engagement: 2466
-    commentsToLikes: 0.111904
+    followers: 13400
+    engagement: 2639
+    commentsToLikes: 0.125363
     id: ckblegs1l8il60j23bm36lfa4
     verified: false
-    hashtags: "#nepali, #tiktak, #tiktok, #foryou"
-  - username: "curlyboiiiivibes"
+    hashtags: "#iloveyou3000, #goodtimes, #smilestrong2021, #foryoupage"
+  - username: "xhazykhan9217"
     fullname: >-
-      DaAsian
+      Xhazy Khan9217
     bio: >-
-      Join the Curly Gang👨‍🦱✌️ Follow my Instagram for a Free 🍩 COMING BACK SOON❗️
+      ♥️ ♥️ ♥️ 🔥I feel proud that I am Pakistani🔥 use👉 #xhazykhan9217
     location: "Malaysia"
-    followers: 859500
-    engagement: 2438
-    commentsToLikes: 0.029087
-    id: ckal45uoc1b040i7841pnmep2
+    followers: 6366
+    engagement: 2539
+    commentsToLikes: 0.122116
+    id: cka84sz70vgqh0i785hs4141v
     verified: false
-    hashtags: "#inspect, #roblox, #fyp, #meme"
+    hashtags: "#bfoncrew, #pahtan, #foryoupage, #malaysia"
 ---

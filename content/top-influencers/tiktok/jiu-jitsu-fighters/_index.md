@@ -1,130 +1,130 @@
 ---
-title: Top 10 Jiu-Jitsu Fighters TikTok Influencers in 2023
+title: Top 10 Jiu-Jitsu Fighters TikTok Influencers In 2023
 description: >-
-  Find top jiu-jitsu fighters TikTok influencers in 2023. Most popular hashtags: #jiujitsu #fyp #mma #muaythai.
+  Find top jiu-jitsu fighters TikTok influencers in 2023. Most popular hashtags: #jiujitsu #fyp #foryoupage #foryou.
 platform: TikTok
-hits: 71
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat has 71 TikTok influencers like this for you to work with.
+hits: 80
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 80 TikTok influencers like this for you to connect with.
 profiles:
   - username: "faithfullyme"
     fullname: >-
       fafa
     bio: >-
-      Mom of 2 humans & 2 dogs! Jiu-Jitsu 💜 🇧🇷🇺🇸📍FL IG: @faethusa
+      Mom (2 humans & 2 🐶) my fam & I are Jiu Jitsu fighters 🇧🇷🇺🇸📍FL
     location: "United States"
-    followers: 263400
-    engagement: 1303
-    commentsToLikes: 0.006882
+    followers: 277500
+    engagement: 990
+    commentsToLikes: 0.007809
     id: ck9si7z0lxe600j784jzztt6d
     verified: false
-    hashtags: "#mom, #family, #tiktokmom, #over30"
+    hashtags: "#fyp, #jiujitsu, #funny, #trend"
   - username: "mikesaffaie"
     fullname: >-
       Mike Saffaie
     bio: >-
       🥋Gracie Jiu-Jitsu Black Belt 🏋🏼Strength/Conditioning Coach 📲IG@mikesaffaie
     location: "United States"
-    followers: 2394
+    followers: 2379
     engagement: 296
-    commentsToLikes: 0.028467
+    commentsToLikes: 0.027577
     id: ckbw3nfupx6cu0j23a581x6r0
     verified: false
-    hashtags: "#training, #fitness, #core, #happy"
+    hashtags: "#balance, #coronavirus, #abs, #core"
+  - username: "kylejitz"
+    fullname: >-
+      Kyle Huang
+    bio: >-
+      Jiu Jitsu Black Belt 🥋 Bow hunter 🏹 Gamer/Streamer 🎥 Free Stocks ⬇️⬇️⬇️
+    location: "United States"
+    followers: 178700
+    engagement: 730
+    commentsToLikes: 0.010242
+    id: ck976tjkg10770j78prs4gapn
+    verified: false
+    hashtags: "#foryou, #bowhunting, #archery, #foryoupage"
   - username: "jasonwesley_"
     fullname: >-
       Jason 
     bio: >-
       Actor 🎭 Veteran 🦅🌎⚓️ LA📍Jiujitsu Living Life On Purpose Eph. 3:20-21 📖
     location: "United States"
-    followers: 252500
-    engagement: 1674
-    commentsToLikes: 0.072752
+    followers: 284500
+    engagement: 1684
+    commentsToLikes: 0.070342
     id: ck9nmw5aymeg80j783t3daa7a
     verified: false
-    hashtags: "#biden2020, #election2020, #trump2020, #jasonwesley"
+    hashtags: "#therealmrjr, #election2020, #jasonwesley, #keyandpeele"
   - username: "cjoyrose"
     fullname: >-
       Cjrose
     bio: >-
       Lesbian🌈 Jiujitsu🥋 Fitness💪🏻 Michigan🤚🏻 26 18+
     location: "United States"
-    followers: 4401
-    engagement: 1421
-    commentsToLikes: 0.026671
+    followers: 4395
+    engagement: 1455
+    commentsToLikes: 0.031378
     id: ckc7qjtsrvzwf0j23enfoq5gu
     verified: false
-    hashtags: "#lgbtq, #fyp, #singlelesbian, #lesbian"
+    hashtags: "#lesbianproblems, #foryoupage, #gay, #michigan"
   - username: "genothefilipino"
     fullname: >-
       Geno Quintin
     bio: >-
-      White Belt Mentality Black Belt Excellence 🥊🥋🇵🇭 ⬇️Download My Free eBook!⬇️
+      Martial Arts & Good Vibes 🇵🇭🥊🥋 More Educational Content ⬇️ Available Here ⬇️
     location: "United States"
-    followers: 238600
-    engagement: 1854
-    commentsToLikes: 0.018638
+    followers: 283800
+    engagement: 1915
+    commentsToLikes: 0.007079
     id: ckcunpgr1i5ob0j23sroi9imz
     verified: false
-    hashtags: "#jiujitsu, #mma, #fighter, #muaythai"
+    hashtags: "#kali, #muaythai, #martialarts, #jiujitsu"
+  - username: "slickvickba"
+    fullname: >-
+      Vicki Magyar
+    bio: >-
+      ✨Lioness🦁Healer🤲🏽Joy😄 🌻You create your reality🥋
+    location: "United States"
+    followers: 191300
+    engagement: 908
+    commentsToLikes: 0.057857
+    id: ckbqgl4vm21un0j23v5apdkkq
+    verified: false
+    hashtags: "#fyp, #vikingtiktok, #fittiktok, #millionactsoflove"
   - username: "stephen__gaon"
     fullname: >-
       Stephen__Gaon
     bio: >-
       Spread positivity
     location: "United States"
-    followers: 3253
-    engagement: 599
-    commentsToLikes: 0.138240
+    followers: 3166
+    engagement: 556
+    commentsToLikes: 0.134388
     id: ckblgeopma3400j23kimbjelp
     verified: false
-    hashtags: "#guitar, #music, #fyp, #jiujitsu"
-  - username: "jacquarius23"
-    fullname: >-
-      jacquarius23
-    bio: >-
-      Insta- jacquarious23 youtube- Jack Pearl This account is fighting and comedy
-    location: "United States"
-    followers: 10600
-    engagement: 938
-    commentsToLikes: 0.072179
-    id: ckc86m8wp5mm30j238kjmshrh
-    verified: false
-    hashtags: "#muaythai, #bellator, #israeladasenya, #wrestling"
-  - username: "jayde.raquel"
-    fullname: >-
-      Jayde
-    bio: >-
-      MMA fighter👊🏼 Ohio📍
-    location: "United States"
-    followers: 219700
-    engagement: 1021
-    commentsToLikes: 0.017318
-    id: cka6acwumvx4i0i78g4t6i9z8
-    verified: false
-    hashtags: "#athlete, #ohio, #mma, #fyp"
-  - username: "trainer.tompoo66"
-    fullname: >-
-      trainer.tompoo66
-    bio: >-
-      instagram: trainer.tompoo66
-    location: "Turkey"
-    followers: 22100
-    engagement: 332
-    commentsToLikes: 0.049694
-    id: ck9eja3591r9w0j78awso0oct
-    verified: false
-    hashtags: "#fighter, #fight, #ufc, #polis"
+    hashtags: "#jiujitsu, #music, #foryou, #foryoupage"
   - username: "chelseakyann"
     fullname: >-
       ChelseaKyann
     bio: >-
-      Professional MMA Fighter Self defense tips 👊🏻 training@chelseakyann.com 📧
+      Professional MMA Fighter Self Defense 👊🏻 CHELSEAKYANN10=10% Birdie Alarms
     location: "United States"
-    followers: 275700
-    engagement: 1214
-    commentsToLikes: 0.010286
+    followers: 284100
+    engagement: 1420
+    commentsToLikes: 0.012553
     id: ckbwaudrd0ahu0j23pnzujres
     verified: false
-    hashtags: "#jiujitsu, #safetytips, #fyp, #selfdefensetoolsforwomen"
+    hashtags: "#selfdefensetoolsforwomen, #selfdefense, #fyp, #selfdefensetechniques"
+  - username: "supersaiyachamp"
+    fullname: >-
+      Alberto Serrano Gove
+    bio: >-
+      Atleta IG supersaiyachamp YouTube Alberto Serrano 30 podios internacionales
+    location: "Mexico"
+    followers: 639000
+    engagement: 1652
+    commentsToLikes: 0.015048
+    id: ck8sa9vrf159o0j78t3yp2hu3
+    verified: false
+    hashtags: "#albertoserranojiujitsu, #mexico, #defensapersonal, #vlog"
 ---

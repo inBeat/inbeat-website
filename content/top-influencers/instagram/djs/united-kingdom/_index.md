@@ -1,48 +1,36 @@
 ---
-title: Top 10 Djs Instagram Influencers In United Kingdom in 2023
+title: Top 10 Djs Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top djs Instagram influencers in United Kingdom in 2023. Most popular hashtags: #dj #music #djlife.
+  Find top djs Instagram influencers in United Kingdom in 2023. Most popular hashtags: #djset #dj #music.
 platform: Instagram
-hits: 124
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database holds 124 Instagram influencers like this in United Kingdom for you to connect with.
+hits: 86
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 86 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
   - username: "djshmia"
     fullname: >-
       S H M I A
     bio: >-
-      Dj 📍 London/Essex Snapchat - djshmia https://www.mixcloud.com/dj-shmia/
+      Dj 📍 London/Essex YouTube/Twitch/Snapchat/TikTok/Twitter/FB- djshmia https://www.mixcloud.com/dj-shmia/ www.twitch.tv/djshmia
     location: "United Kingdom"
-    followers: 15221
-    engagement: 575
-    commentsToLikes: 0.060735
+    followers: 16142
+    engagement: 586
+    commentsToLikes: 0.076179
     id: ck0tvpkv4calk0i196pxh6cc6
     verified: false
-    hashtags: "#ladydj, #djlife, #londondj, #femaledj"
-  - username: "djstavo"
+    hashtags: "#twitchstreamer, #londonrestaurants, #ladydj, #djshmia"
+  - username: "hot7025fm"
     fullname: >-
-      𝘿𝙅 𝙎𝙏𝘼𝙑𝙊
+      HOT 702.5 FM
     bio: >-
-      • Music Producer | AfroHouse 🎧 • Husband | Father 👨‍👩‍👧‍👦 • Twitter 🐦: (@ DjStavo) • YouTube 🎥: (Dj Stavo)
+      🏆AWARD WINNING•HOT 702.5•BEST ONLINE RADIO STATION•Risky Radio•HIP HOP/RNB• 30+ Risky Talk Shows & DJ’s in FM sound. 1.8 Million Documented Listeners!
     location: "United Kingdom"
-    followers: 89087
-    engagement: 109
-    commentsToLikes: 0.015184
-    id: ck6udtoahn2uw0j71m49qv5mm
-    verified: true
-    hashtags: "#ttp, #flashbackfriday, #zimbabweanlivesmatter"
-  - username: "sisterscapdj"
-    fullname: >-
-      Sisters Cap
-    bio: >-
-      🎧 #Djs 🎼 #Producers 💞 #Sisters 📍 Tuscany, Italy 🌍 Excl Management & Booking Worldwide:@silviomalibu 📲 +39 3933359681 📩 silviomalibu@flagbooking.com
-    location: "United Kingdom"
-    followers: 28726
-    engagement: 116
-    commentsToLikes: 0.098981
-    id: ck5hjjequgql60i11ydchemj7
+    followers: 37514
+    engagement: 155
+    commentsToLikes: 0.075047
+    id: ck0w3yhomvx7s0i19ele16wqq
     verified: false
-    hashtags: "#harddance, #djane, #silviomalibumanager, #womandeejay"
+    hashtags: "#riskyradio, #awardwinning, #voteperiod, #bestonlineradio"
   - username: "technodancers.official"
     fullname: >-
       ⚡️TECHNO DANCERS⚡️
@@ -55,76 +43,88 @@ profiles:
     id: ck0tvq0whccph0i19df6sg04n
     verified: false
     hashtags: "#tbt, #covid19, #fase2"
-  - username: "fendmedia"
-    fullname: >-
-      FEND Media
-    bio: >-
-      🎥 We film Festivals · Events · Nightclubs · DJs 🆕 Original Content Only ✉️ DM for Enquiries
-    location: "United Kingdom"
-    followers: 8130
-    engagement: 365
-    commentsToLikes: 0.028168
-    id: ck5cfjk7ln36m0i11p8tg10r6
-    verified: false
-    hashtags: "#technolove, #cork, #technoclub, #ravelife"
-  - username: "hospitalitydnb"
-    fullname: >-
-      HospitalityDNB
-    bio: >-
-      Hospitality is the worldwide club event of UK D&B imprint @hospitalrecords. Known for its feel-good music policy, showstopping DJs & fun atmosphere.
-    location: "United Kingdom"
-    followers: 88598
-    engagement: 103
-    commentsToLikes: 0.048842
-    id: ck14h0zex7zyg0i19tmncdeuc
-    verified: true
-    hashtags: "#hospitalityhouseparty"
-  - username: "somarecords"
-    fullname: >-
-      Soma Records
-    bio: >-
-      Owned by duo @Slam_djs, we're one of the world's leading & longest running electronic dance labels: we have been putting out great music since 1991.
-    location: "United Kingdom"
-    followers: 29880
-    engagement: 59
-    commentsToLikes: 0.026029
-    id: ck0vzqspbag8e0i192y3uy9jk
-    verified: true
-    hashtags: "#dj, #newmusic, #music, #protools"
-  - username: "djsalouse"
-    fullname: >-
-      CAPTAIN ACTIVIA™️
-    bio: >-
-      • You Ain’t ACTIVE Like Me @CaptainActivia • Ain’t No Party Like A Salouse Party • Cognac Connoisseur & Uncle Wray’s favourite nephew •📍SW London
-    location: "United Kingdom"
-    followers: 2565
-    engagement: 1295
-    commentsToLikes: 0.069935
-    id: ck5cknsahx9750i11eac857ek
-    verified: false
-    hashtags: "#topboi, #liverpool, #captainactivia, #djsalouse"
   - username: "slam_djs"
     fullname: >-
       SLAM
     bio: >-
-      SLAM are a producer/DJ duo from Glasgow, owners of @SomaRecords.
+      
     location: "United Kingdom"
-    followers: 53259
-    engagement: 169
-    commentsToLikes: 0.043009
+    followers: 53895
+    engagement: 138
+    commentsToLikes: 0.048078
     id: ck0vzqrjuag2q0i19fohw7tcq
     verified: true
-    hashtags: "#love, #mullet, #bringbacktinthepark, #somarecords"
-  - username: "djsashaofficial"
+    hashtags: "#techno, #music, #bestofglasgow, #loveglasgow"
+  - username: "djsaracox"
     fullname: >-
-      Sasha
+      Sara
     bio: >-
-      DJ. Producer. Last Night On Earth @lnoe_label LINKS 👇
+      Radio/tv/mum of 3/friend to many/wife to my 1&only. TEATIME5-7pm @bbcradio2 🧡 @bbctwo BETWEEN THE COVERS BackInTime myBOOK:https://amzn.to/2tFhvLe
     location: "United Kingdom"
-    followers: 187967
-    engagement: 76
-    commentsToLikes: 0.031201
-    id: ck0tunt9p7x9z0i19a9xh8z8h
+    followers: 249202
+    engagement: 170
+    commentsToLikes: 0.021672
+    id: ck5q5shihudwb0i11gw2y4j5q
     verified: true
-    hashtags: "#sasha, #lnoe, #luzoscura, #lasdalias"
+    hashtags: "#acuvue, #gosee, #ad, #contactlenses"
+  - username: "djshadow"
+    fullname: >-
+      DJ Shadow Official
+    bio: >-
+      The double-album, 'Our Pathetic Age' is out now.
+    location: "United Kingdom"
+    followers: 106748
+    engagement: 191
+    commentsToLikes: 0.023290
+    id: ck55vfx6teqt90i11svx0kemo
+    verified: true
+    hashtags: "#vote"
+  - username: "djmanuelcoby"
+    fullname: >-
+      Dj Manuel Coby
+    bio: >-
+      Rome 📍 〽️anuel Coby TikTok194K International Dj & Producer🎧 @freedompartyofficial @muccassassinaofficial @matrixevents Emanuele.maringola@hotmail.it
+    location: "United Kingdom"
+    followers: 178973
+    engagement: 218
+    commentsToLikes: 0.050644
+    id: ck5c2py1uxqni0i11g0ll9053
+    verified: true
+    hashtags: "#croatia, #summer2021, #sundaymood, #nice"
+  - username: "emma.bonneaud"
+    fullname: >-
+      Emma B
+    bio: >-
+      Founder @olde.paris Represented by @chevry_agency & @futur.mgmt
+    location: "United Kingdom"
+    followers: 34983
+    engagement: 206
+    commentsToLikes: 0.044576
+    id: ck55jc8a5wqkd0i11thkrv5tf
+    verified: false
+    hashtags: "#djset, #techno, #femaledj, #freenightfreenow"
+  - username: "mro_presents"
+    fullname: >-
+      DJ MrO Presents (Mister O)
+    bio: >-
+      🎧 DJ - Club Music Podcasts - Link below ⬇️ 👕 Co-founder of @homo_london T-Shirts 💖 My heart belongs to @theotherkarl ⚠️ This is my only IG account ⚠️
+    location: "United Kingdom"
+    followers: 60955
+    engagement: 279
+    commentsToLikes: 0.027868
+    id: ck5hd0d6skuhn0i11qoia0uvj
+    verified: false
+    hashtags: "#illustration, #fanart, #tbt, #djset"
+  - username: "ellie.sax"
+    fullname: >-
+      Ellie Sax
+    bio: >-
+      🎷 Sax Player | Hed Kandi Resident 🎷 🎧 Producer & Performer 🎧 🌅 World Explorer 🌅 🐕 Dog Enthusiast 🐕 👇🏻 Bookings and Enquiries👇🏻
+    location: "United Kingdom"
+    followers: 40979
+    engagement: 168
+    commentsToLikes: 0.049881
+    id: ck0tyls29n6jn0i19pwtgfdtz
+    verified: false
+    hashtags: "#femaleempowerment, #femalesax, #artist, #femaleartist"
 ---

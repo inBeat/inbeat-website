@@ -1,130 +1,130 @@
 ---
-title: Top 10 Entrepreneurs Instagram Influencers in 2023
+title: Top 10 Entrepreneurs Instagram Influencers In 2023
 description: >-
-  Find top entrepreneurs Instagram influencers in 2023. Most popular hashtags: #happybirthday #lavinia #discoverla.
+  Find top entrepreneurs Instagram influencers in 2023. Most popular hashtags: #fashion #ad #love.
 platform: Instagram
-hits: 6227
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 6227 Instagram influencers like this for you to work with.
+hits: 6456
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 6456 Instagram influencers like this for you to work with.
 profiles:
-  - username: "davidlinn"
-    fullname: >-
-      David Linn
-    bio: >-
-      Entrepreneur
-    location: "United States"
-    followers: 54494
-    engagement: 371
-    commentsToLikes: 0.029192
-    id: ck5c3twj601vj0i11jid0775r
-    verified: false
-    hashtags: "#astonmartindbs, #business, #citation, #team"
-  - username: "mrmerlano"
-    fullname: >-
-      Antonio Merlano
-    bio: >-
-      Entrepreneur
-    location: "Colombia"
-    followers: 68303
-    engagement: 277
-    commentsToLikes: 0.085381
-    id: ck5hoizftpnhv0i117jwy4fpg
-    verified: true
-    hashtags: "#barranquilla, #humor, #bogota, #tbt"
-  - username: "sathyan_rajan"
-    fullname: >-
-      Sathyan Rajan
-    bio: >-
-      Entrepreneur.
-    location: "India"
-    followers: 10406
-    engagement: 548
-    commentsToLikes: 0.015801
-    id: ck15q5hwt176x0i19xoqdoh10
-    verified: false
-    hashtags: "#sathyanrajanphotograph"
   - username: "ossyfitriana"
     fullname: >-
       𝐎𝐬𝐬𝐲 𝐅𝐢𝐭𝐫𝐢𝐚𝐧𝐚 | Entrepreneur
     bio: >-
-      Mantan Pramugari Sapphire Director #4 Fastest Growing Entrepreneur 2020 Butuh pemasukan tambahan?💰 Mau dimentorin full online? SIGN UP NOW 👇🏻
+      Bisnis Tanpa Modal Sapphire Director #4 Fastest Growing Entrepreneur #92 Oriflame Indonesia Butuh pemasukan tambahan?💰 SIGN UP NOW 👇🏻
     location: "Indonesia"
-    followers: 18566
-    engagement: 371
-    commentsToLikes: 0.019270
+    followers: 18703
+    engagement: 280
+    commentsToLikes: 0.027606
     id: ckaoz6hxfkl5s0i781lnjamfz
     verified: false
-    hashtags: "#bisnisonline, #throwback, #bisnisbarengossy, #oriflame"
+    hashtags: "#oriflame, #ceritampasi, #oriflamechangeslives, #oriflameconceptstore"
   - username: "je1bc"
     fullname: >-
       Jeremiah Emmanuel BEM
     bio: >-
       Entrepreneur
-    location: "United Kingdom"
-    followers: 9475
-    engagement: 1111
-    commentsToLikes: 0.076513
+    location: "United States"
+    followers: 9426
+    engagement: 1034
+    commentsToLikes: 0.077203
     id: ck8sxikr8hj4b0j784st04jwq
     verified: true
-    hashtags: "#unlockyourpassion, #blackouttuesday, #letsmakehistory, #stormzy"
+    hashtags: "#stormzy, #dreaminginanightmare, #merky, #lightwork"
   - username: "lavinia_biagiotti"
     fullname: >-
       Lavinia Biagiotti
     bio: >-
       Entrepreneur
     location: "Italy"
-    followers: 25817
-    engagement: 380
-    commentsToLikes: 0.047589
+    followers: 26631
+    engagement: 329
+    commentsToLikes: 0.056288
     id: ck6tmv5o78lcx0j718hafum2n
     verified: false
-    hashtags: "#forever, #laura, #lavinia, #happybirthday"
-  - username: "armaan_zunaid"
+    hashtags: "#family, #laura, #roma, #happybirthday"
+  - username: "sarkar.shaina"
     fullname: >-
-      Armaan Zunaid [JKT]
+      Shaina Sarkar
     bio: >-
-      13-April 🎂 YouTuber 🎬 (700K+) SUB's (FAMiLY) Blogger ⌨🔥 Entrepreneur 🙂 New Vlog ! ⏬
+      Entrepreneur
     location: "United States"
-    followers: 29096
-    engagement: 797
-    commentsToLikes: 0.116661
-    id: ck8tdp23y48i20j78scxpsg8s
+    followers: 153858
+    engagement: 127
+    commentsToLikes: 0.028784
+    id: ck137ey6nb7ks0i19peo5p8gn
     verified: false
-    hashtags: "#workout, #junnukitech, #armaanzunaid, #giveaway"
-  - username: "heidicortez"
+    hashtags: "#legday, #photooftheday, #beachbody, #stunning"
+  - username: "andreaupribadi"
     fullname: >-
-      Heidi Cortez
+      Andro
     bio: >-
-      ￼Lifelong American Entrepreneur (Best Selling Author, Coach, Adviser, Branding Expert & Creator of @TheModelAdviser ) Beverly Hills, CA 🌴
+      Entrepreneur
+    location: "Indonesia"
+    followers: 102346
+    engagement: 69
+    commentsToLikes: 0.972624
+    id: ck9whp2ynywlo0j78lz3k74sm
+    verified: false
+    hashtags: "#dirumahaja"
+  - username: "dr.siddhant.bhargava"
+    fullname: >-
+      Dr. Siddhant Bhargava
+    bio: >-
+      🧑🏻‍⚕️ Fat-Loss Ninja 😎 Avid Entrepreneur 💼 Running @food.darzee 🧑🏻‍💻 Building @feet.wings 🏋🏻‍♂️ Director @jgsfitnesscentre 🎧 Listen to My Podcast👇🏻
+    location: "India"
+    followers: 551128
+    engagement: 533
+    commentsToLikes: 0.006750
+    id: ck0tvkw48btab0i19fj0y5qew
+    verified: false
+    hashtags: "#ad, #drsidsays, #drsid, #doctor"
+  - username: "brittanylynne"
+    fullname: >-
+      Brittany Mahomes
+    bio: >-
+      Mama • Entrepreneur • @kccurrent Co-Owner Be Kind ♡
     location: "United States"
-    followers: 175639
-    engagement: 2337
-    commentsToLikes: 0.045441
-    id: ck0u7p4t05c3t0i19150mld1k
+    followers: 1151024
+    engagement: 1245
+    commentsToLikes: 0.005755
+    id: cl7rmj03vxmlz0i23j70hhfco
+    verified: false
+    hashtags: "#yesicriedtypingthis, #emotionsarebrewing, #happyhalloween, #chiefskingdom"
+  - username: "katebroug"
+    fullname: >-
+      Kate Broug | Entrepreneur
+    bio: >-
+      Woman of action. Entrepreneur. Pilot. Journalist. Podcast Host. Contributor @entrepreneur. ✉️ Email: kb@katebroug.com
+    location: "United States"
+    followers: 140609
+    engagement: 438
+    commentsToLikes: 0.028638
+    id: ckxe9prq245ws0j23ak2n6hg7
+    verified: false
+    hashtags: "#tcsnycmarathon, #nyc, #nycmarathon, #aviation"
+  - username: "thatguyslater"
+    fullname: >-
+      Slater Young 🇵🇭
+    bio: >-
+      Engineer, Real Estate Developer, Entrepreneur. @liteblockph @monterrazas_prime 👇🏼 Skypod 2.0 House Tour 👇🏼
+    location: "Philippines"
+    followers: 755370
+    engagement: 1094
+    commentsToLikes: 0.005032
+    id: ck138wgnpicoe0i19sm2qtg2a
     verified: true
-    hashtags: "#cityofangels, #losangeles, #beverlyhills, #la"
-  - username: "kaushal_j"
+    hashtags: "#glassonion, #knivesout, #akillergetaway, #seagaterescue"
+  - username: "marcoparrino"
     fullname: >-
-      Kaushal Joshi
+      Marco Parrino®
     bio: >-
-      Entrepreneur. Event Manager. Simple Person with loads of dreams.
-    location: "Netherlands"
-    followers: 27351
-    engagement: 2300
-    commentsToLikes: 0.092843
-    id: ckaoxdlbyct6q0i78nxx41st2
+      Digital Creator | Entrepreneur 🌍 Author of “Sicilia è amore” 📖 Proud Sicilian 🍋 📧: Info@marcoparrino.com ORDINA LA TUA COPIA SU: ↙️
+    location: "Italy"
+    followers: 506869
+    engagement: 431
+    commentsToLikes: 0.008122
+    id: ckapck5dy45790i782o7iaowv
     verified: false
-    hashtags: "#mercedeseclass, #happynewyeartrips, #europe, #sopeaceful"
-  - username: "itij"
-    fullname: >-
-      Iti-Pätrik Järve🧞‍♂️
-    bio: >-
-      Entrepreneur / Content creator from Estonia🇪🇪 Founder of @northfjordshop Cheerleader @taltech_cheerleaders MY NEW 2020 PRESETS✨👇🏽
-    location: "United States"
-    followers: 25993
-    engagement: 1386
-    commentsToLikes: 0.514545
-    id: ck0u7dmlz4j8p0i191boe42nt
-    verified: false
-    hashtags: ""
+    hashtags: "#sicily, #oppocrew, #travel, #ad"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Canada in 2023
+title: Top 10 Hypebeast Instagram Influencers In Canada In 2023
 description: >-
-  Find top hypebeast Instagram influencers in Canada in 2023. Most popular hashtags: #hypebeast #artofvisuals #way2ill #highsnobiety.
+  Find top hypebeast Instagram influencers in Canada in 2023. Most popular hashtags: #hypebeast #way2ill #visualambassadors #moodygrams.
 platform: Instagram
-hits: 56
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 56 Instagram influencers like this in Canada for you to collaborate.
+hits: 24
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 24 Instagram influencers like this in Canada for you to connect with.
 profiles:
   - username: "yvngrice"
     fullname: >-
       🍚 romulus 🍚
     bio: >-
-      🔥YYC’s H¥PEBEAST🔥 ✨EMPOWER & INSPIRE 🤩🙏💫 🔌 “STORE” + GIVEAWAY$ @runitupyyc 👟🏃 📧 contact@yvngrice.com @xtrariceplz
+      👟 | Sneakers, Streetwear & Entrepreneurship 🔥 | Teaching YOU About Hype Culture 📲 | TikTok: 900k+ 📧 | contact@yvngrice.com @xtrariceplz @runitupyyc
     location: "Canada"
-    followers: 21210
-    engagement: 1930
-    commentsToLikes: 0.059724
+    followers: 45757
+    engagement: 694
+    commentsToLikes: 0.015655
     id: ck8wfx1ecge400j78177l4upr
     verified: false
-    hashtags: "#reels, #sneakerhead, #offwhite, #hypebeast"
-  - username: "sai.jung"
+    hashtags: "#offwhite, #hypebeast, #sneakerhead, #jordan1"
+  - username: "ebenism"
     fullname: >-
-      
+      ebenism | animal art
     bio: >-
-      📷 👟 Sneaker Content 12/13 StreetWear • Sneakers • Automotive Email or DM for Business inquires
+      📱 Photo manipulation edits in iOS 📷 Photography @ebenmccrimmon 🌏 Byron Bay Australia 🔻PRINTS🔻
     location: "Canada"
-    followers: 41735
-    engagement: 251
-    commentsToLikes: 0.137207
-    id: ck6tkum4c5fll0j710pm74jdn
+    followers: 90272
+    engagement: 677
+    commentsToLikes: 0.010670
+    id: ck0u1uq41y19b0i191s1hkhi3
     verified: false
-    hashtags: "#aj1, #klekttakeover, #snkrskickcheck, #travisscottjordan1"
-  - username: "rezagilani.ca"
-    fullname: >-
-      Reza
-    bio: >-
-      Toronto, Canada 🇨🇦 Media bawse @thejibfestweekender @bestkindbbq Podcast @creativestalkshoppodcast
-    location: "Canada"
-    followers: 14804
-    engagement: 132
-    commentsToLikes: 0.073755
-    id: ck5qdaq5yunq10i11ku1v10c1
-    verified: false
-    hashtags: "#earthpix, #igtoronto, #torontolifestyle, #ftwotw"
-  - username: "raindoria"
-    fullname: >-
-      Rainier Doria
-    bio: >-
-      For The LOVE Of Kush & Swoosh Size.10 👟 NOT A RESELLER... “Rain15” @swiftgreen "Rain15" @thegrailcompany New vid. JOHN ELLIOT Air Force ONE REVIEW👇🏽
-    location: "Canada"
-    followers: 17517
-    engagement: 452
-    commentsToLikes: 0.057266
-    id: ck5bzdc9uqx590i118okba0qs
-    verified: false
-    hashtags: "#streetwear, #hsdailyfeature, #sneakerhead, #fragment1s"
+    hashtags: "#art, #bigcats, #surrealart, #creativeoptic"
   - username: "f8edcolors"
     fullname: >-
       Jordan Bank
     bio: >-
       
     location: "Canada"
-    followers: 10619
-    engagement: 587
-    commentsToLikes: 0.069682
+    followers: 10329
+    engagement: 606
+    commentsToLikes: 0.069293
     id: ck0u7x4k45zyr0i19odypqhzd
     verified: false
-    hashtags: "#jordhammondsundays, #sonyimages, #eclectic, #ig"
-  - username: "ebenism"
+    hashtags: "#eclectic, #theimaged, #exploretocreate, #leagueoflenses"
+  - username: "sneakertalkca"
     fullname: >-
-      ebenism | animal art
+      Christian Cantelon ✪
     bio: >-
-      📱 Photo manipulation edits in iOS 📷 Photography @ebenmccrimmon 🌏 Byron Bay Australia ⬇️ PRINTS
+      Sneaker, Steetwear & Travel Vlogger on YouTube 📍Based in Toronto, Canada 🇵🇭🇨🇦 Sneaker Page ➡️ @sneakertalk365
     location: "Canada"
-    followers: 84405
-    engagement: 636
-    commentsToLikes: 0.011152
-    id: ck0u1uq41y19b0i191s1hkhi3
+    followers: 35527
+    engagement: 242
+    commentsToLikes: 0.042027
+    id: ck6tr4rlbwxc40j712p3elo58
     verified: false
-    hashtags: "#artselect, #nature, #heatercentral, #lensdistortions"
-  - username: "somekidfromthe6"
+    hashtags: "#jordan1, #streetwear, #hypebeast, #ootd"
+  - username: "factoryxii"
     fullname: >-
-      🇧🇬🇷🇸
+      Charles Hü | 不只是個攝影大叔
     bio: >-
-      𝕾𝖔𝖑𝖎 𝕯𝖊𝖔 𝖌𝖑𝖔𝖗𝖎𝖆♰ 📍🇨🇦⁶⁰⁴ Isaiah 43:19/Deut 31:8
+      storyteller, photographer, father and traveller. my photo worth a thousand words. - Canon R5 /
     location: "Canada"
-    followers: 4771
-    engagement: 786
-    commentsToLikes: 0.064425
-    id: ck9h9n6vd95km0j78gfr3pca2
+    followers: 33855
+    engagement: 209
+    commentsToLikes: 0.006549
+    id: ck8td8rrv2d5d0j78t18u7ifd
+    verified: false
+    hashtags: "#brunchoutfit, #foodgawker, #streetphotography, #moodygrams"
+  - username: "auragramz"
+    fullname: >-
+      AuraGramz | MAGIC⚡
+    bio: >-
+      NEVER STOP THE EXPLORE tag & follow #AuraGramz to be featureD! V R on TikTok 👇
+    location: "Canada"
+    followers: 13359
+    engagement: 509
+    commentsToLikes: 0.009409
+    id: ck5byzj4tq5kz0i11qtkaze6h
     verified: false
     hashtags: ""
-  - username: "dunnadidit"
+  - username: "montrealworld"
     fullname: >-
-      Dunna
+      Montreal | Travel community
     bio: >-
-      📷 Videos 🎵 Music 📸 Photos Brands & Professional Inquiries - contact@dunnadidit.com ⇩ Looking for the LINK IN BIO? click here! ⇩
+      🇨🇦 MONTREAL, CANADA ✈️FOUNDER: @marknayman 📷Tag us #montrealworld and we`ll post it! 📣 Contact zerbermark1995@gmail.com for all issues.
     location: "Canada"
-    followers: 19835
-    engagement: 513
-    commentsToLikes: 0.030593
-    id: ck5hjtws9h8r00i11u46afv5w
+    followers: 46879
+    engagement: 334
+    commentsToLikes: 0.011015
+    id: ck14l4v73sv690i19kv2xycjl
     verified: false
-    hashtags: "#welivetoexplore, #earth, #ideafunnel, #sonymirrorless"
-  - username: "aeforia"
+    hashtags: ""
+  - username: "chufflord"
     fullname: >-
-      Alexy Préfontaine
+      💎Liam Gunther🔥
     bio: >-
-      @aefaroe @alphaandthevan Montréal — ✉︎ aeforia@outlook.com Represented by @hplus_creative ↓ Store & More ↓
+      ☯️JUST A BRO OBSESSED WITH KICKS☯️ . YYC/CALGARY A place for videos and fashion💧 . BUY YOUR HYPE HERE👉🏼 @hypehype.yyc
     location: "Canada"
-    followers: 101928
-    engagement: 416
-    commentsToLikes: 0.019327
-    id: ck0u21q4uylw80i19upmhfxbl
+    followers: 52397
+    engagement: 32
+    commentsToLikes: 0.090884
+    id: ck137bm8haqd90i195lsi13f8
     verified: false
-    hashtags: "#taxcollection, #trippy, #designarf, #vaporwave"
-  - username: "garycphoto"
+    hashtags: "#shoes, #supreme, #clothing, #photography"
+  - username: "admir23"
     fullname: >-
-      
+      Admir Hrbinic Photography
     bio: >-
-      City stuff..Nature stuff..Other Stuff! NatGeo published photog @lumecube ambassador DM for prints and enquiries
+      🇨🇦 Vancouver, British Columbia 📷 #Nikon FX 📩 Dm for photo shoots & Canvas prints 💬 2016
     location: "Canada"
-    followers: 24235
-    engagement: 277
-    commentsToLikes: 0.055560
-    id: ck0vuzx0bmwln0i19jesan94v
+    followers: 6015
+    engagement: 747
+    commentsToLikes: 0.054825
+    id: ck0tus4wp8hhm0i19aq0xg280
     verified: false
-    hashtags: "#globalnightsquad, #instagram, #earthfocus, #nikonusa"
+    hashtags: "#vancouvercanada, #beautifuldestinations, #hypebeast, #vancouver"
+  - username: "iamxdremonn"
+    fullname: >-
+      Dre S-H. Ashmeade
+    bio: >-
+      🇨🇦/🇯🇲 💼 Co-Founder of:@lucid.saturdays @thelucidfamily 👤 @justsaydremonn 👟 Streetwear | Sneakers | Lifestyle 📩 Iamxdremonn@outlook.com
+    location: "Canada"
+    followers: 3392
+    engagement: 1714
+    commentsToLikes: 0.189811
+    id: ck5pxadoqqumi0i11jr54d513
+    verified: false
+    hashtags: "#outfitoftheday, #ootd, #hypedstreets, #dailystreetwearinspiration"
 ---

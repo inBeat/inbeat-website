@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In New York in 2023
+title: Top 10 Home Decor Instagram Influencers In New York In 2023
 description: >-
-  Find top home decor Instagram influencers in New York in 2023. Most popular hashtags: #newyork #homedecor #photography #travel.
+  Find top home decor Instagram influencers in New York in 2023. Most popular hashtags: #homedecor #interiordesign #newyork #fashion.
 platform: Instagram
-hits: 138
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 138 Instagram influencers like this in New York, United States for you to pitch.
+hits: 173
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 173 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "paopati"
+  - username: "jentalbotdesign"
     fullname: >-
-      🧿 | Content Creator
+      Jen Talbot Design
     bio: >-
-      💎 beauty • lifestyle • fashion • decor 🟣 mua • @paopatimakeup 🏰 orlando fl. special needs mom 🤍 @babynoahatencio
+      Chicago + NYC + San Fran | Curating Modern Spaces. ELLE DECORATION Turkey, Netherlands, Indonesia, House Beautiful, LivingETC
     location: "United States"
-    followers: 33777
-    engagement: 395
-    commentsToLikes: 0.102042
-    id: ck5q7n2hy2b6n0i11uxtiyf14
+    followers: 38009
+    engagement: 127
+    commentsToLikes: 0.093483
+    id: ckaoqrxz0k3gu0i7807hbcefm
     verified: false
-    hashtags: "#homebypaopati, #paopatimakeup, #christmasdecor, #sunset"
-  - username: "slc.scribbles"
+    hashtags: "#elledecor, #dominomagazine, #modernliving, #masterbedroomdecor"
+  - username: "chens_plate"
     fullname: >-
-      SLC Scribbles
+      Chen Kirshenbaum
     bio: >-
-      London based designer. Loves a pocket sketchbook. Message for collabs, commissions and prints. Website coming soon(ish)⚡️
+      ✰ NYC gal trying her best to live a balanced life ✰ self love + body positivity ✰ new YouTube videos every Wed ✌🏻 ↓ recipes, links, work with me!
     location: "United States"
-    followers: 11968
-    engagement: 561
-    commentsToLikes: 0.018844
-    id: ckapbv9zs1eqs0i78nmnz9tte
+    followers: 49892
+    engagement: 191
+    commentsToLikes: 0.066147
+    id: ck0ub2or0dncy0i190ugnvk2o
     verified: false
-    hashtags: "#arqsketch, #travelsketch, #sketchartist, #urbansketcher"
-  - username: "joanaccanteiro"
+    hashtags: "#dairyfreerecipes, #dairyfree, #glutenfreedairyfree, #foodgasm"
+  - username: "deunivory"
     fullname: >-
-      𝖩𝖮𝖠𝖭𝖠 𝖢𝖠𝖭𝖳𝖤𝖨𝖱𝖮
+      deun (dee • yawn) ivory
     bio: >-
-      22, Porto📍 › ISMAI • Mestrado em Psicologia Clínica e da Saúde Ψ › I'm that blogger who talks about mental health and fashion ⤷ YouTube (1.2k)
+      using design, art + wellness to reimagine a better world for black women. los angeles📍 founder: @thebodyahomeforlove aesthetics • art • activism
     location: "United States"
-    followers: 7396
-    engagement: 580
-    commentsToLikes: 0.052548
-    id: ckf5msw7hv8im0j2323el4m4x
-    verified: false
-    hashtags: "#mentalhealth, #outfitinspiration, #selfcare, #psychology"
-  - username: "camila_d.ladicani"
-    fullname: >-
-      Camila D’ Ladicani💛
-    bio: >-
-      𝗙𝗼𝘂𝗻𝗱𝗲𝗿 𝗼𝗳 @ladicani_design 🇨🇺𝖢𝗎𝖻𝖺𝗇 𝗀𝗂𝗋𝗅 🇺🇸 𝖫𝗂𝗏𝗂𝗇𝗀 𝗂𝗇 𝖴𝖲 ✈️𝖳𝗋𝖺𝗏𝖾𝗅 + 🛍𝖥𝖺𝗌𝗁𝗂𝗈𝗇 + 🍔𝖥𝗈𝗈𝖽𝗂𝖾 + 🌊𝖮𝖼𝖾𝖺𝗇 𝗅𝗈𝗏𝖾𝗋.
-    location: "United States"
-    followers: 4003
-    engagement: 2025
-    commentsToLikes: 0.086157
-    id: ck8t5dvqe9sxu0j7828kdljth
-    verified: false
-    hashtags: "#worldtraveler, #picoftheday, #ootd, #city"
-  - username: "theblondeangler"
-    fullname: >-
-      Andrea Nivolo
-    bio: >-
-      🌲|𝐹𝑖𝑠ℎ𝑖𝑛𝑔 |𝐹𝑎𝑚𝑖𝑙𝑦 |𝐻𝑢𝑛𝑡𝑖𝑛𝑔 |🌲 *𝘔𝘠 𝘖𝘕𝘓𝘠 𝘈𝘊𝘊𝘖𝘜𝘕𝘛* 𝘛𝘸𝘰 𝘵𝘪𝘮𝘦 𝘊𝘛 𝘈𝘯𝘨𝘭𝘦𝘳'𝘴 𝘎𝘶𝘪𝘥𝘦 𝘊𝘰𝘷𝘦𝘳𝘨𝘪𝘳𝘭. 𝘍𝘢𝘤𝘦𝘣𝘰𝘰𝘬: 𝘈𝘯𝘥𝘳𝘦𝘢 𝘕𝘪𝘷𝘰𝘭𝘰 𝘖𝘶𝘵𝘥𝘰𝘰𝘳𝘴. @𝘥𝘴𝘨𝘧𝘪𝘴𝘩
-    location: "United States"
-    followers: 33519
+    followers: 81462
     engagement: 416
-    commentsToLikes: 0.041026
-    id: ck6u5zuqlcpyd0j71cn8owk6h
+    commentsToLikes: 0.029121
+    id: ck0w5bddg2tn70i197lvpk2rp
     verified: false
-    hashtags: "#travel, #bassfishing, #smallmouthbass, #trout"
-  - username: "iriscovetbook"
+    hashtags: "#vsco, #art, #minimal, #affirmation"
+  - username: "michaelreynoldsnyc"
     fullname: >-
-      Iris Covet Book
+      Michael Reynolds
     bio: >-
-      Editor in Chief - @marc.sifuentes Creative Director - @herecomeslouis Publisher - Irma Brindis
+      East Village, Manhattan, NYC
     location: "United States"
-    followers: 32548
-    engagement: 165
-    commentsToLikes: 0.006415
-    id: ck0twg6rcf8cq0i19kl8zigca
+    followers: 8056
+    engagement: 448
+    commentsToLikes: 0.075474
+    id: ck13daipr4haf0i19unwmd2pj
     verified: false
-    hashtags: "#fashion, #stylist, #gallery, #ericmack"
-  - username: "lord_ofmaps"
+    hashtags: "#thebigapple, #stevenvolpedesign, #bumthang, #newyork"
+  - username: "undeniablyroshi"
     fullname: >-
-      Isaac Dushku
+      Roshiana, MBA
     bio: >-
-      For the finest maps in all the land, click the link below
+      I really does this in real life. Enjoy the highlights 👩🏾‍💻|Finance in Tech 📸|Travel 📍|Cali 🇯🇲|Born 🇨🇦|Raised 🐕|@ghostthelovablehusky
     location: "United States"
-    followers: 22674
-    engagement: 391
-    commentsToLikes: 0.108459
-    id: ckf5wcwpbrn3x0j23rdr8a9kh
+    followers: 3646
+    engagement: 1146
+    commentsToLikes: 0.094107
+    id: ckaox650cby9e0i78hdgd5gud
     verified: false
-    hashtags: "#fantasymaps, #arizona, #lordofmaps, #mapmaking"
-  - username: "sammie.sweets"
+    hashtags: "#boxbraids, #blacktravelclub, #autumn, #socialdistancing"
+  - username: "monica_ant"
     fullname: >-
-      Samantha
+      🦋 M O N I C A
     bio: >-
-      ⚡️Rҽԃ Bυʅʅ Oɳ Pɾҽɱιsҽ NJ & DE 🌿вєαυту • ωєℓℓηєѕѕ • тяανєℓ ☟ Lєт’ѕ υρgяα∂є уα
+      ▪️Fashion ▪️Travel ▪️Lifestyle ▪️DM for Collabs
     location: "United States"
-    followers: 8958
-    engagement: 586
-    commentsToLikes: 0.049191
-    id: ck5zvqdrz4q4h0i14qx77e7t0
+    followers: 35649
+    engagement: 373
+    commentsToLikes: 0.406755
+    id: ckap5fr4gbh940i78h4k0hsmj
     verified: false
-    hashtags: "#beauty, #beautyblog, #monat, #influencer"
-  - username: "ladyhattan"
+    hashtags: "#streetstylelook, #dressoftheday, #giveawaygr, #stylishlook"
+  - username: "jasonskeldon"
     fullname: >-
-      Ladyhattan by Tara Moss
+      JḀṠṏṆ ṠḲḕḶḊṏṆ. ( Skel Art )
     bio: >-
-      Travel & Life Through My Lady Lens Harvard Grad, Travel Writer, Lawyer, Mommy, Terrible Cook Ladyhattan@gmail.com | NYC/Nantucket Based
+      📍 Tampa, FL (USA) 📍Miami ,FL 🎨 ARTIST 👦 Clients include: Michael Jordan,Kevin Hart , Taylor swift, Hard Rock Casino, Nike ✏️ Email: skelart@yahoo.com
     location: "United States"
-    followers: 60736
-    engagement: 163
-    commentsToLikes: 0.046586
-    id: ck8t04f77qsp10j78tbzzwy95
-    verified: false
-    hashtags: "#holidaydecor, #socialdistancing, #covid19, #homedecor"
-  - username: "makingitmoore"
+    followers: 68181
+    engagement: 364
+    commentsToLikes: 0.016999
+    id: ck6tru9sq14dv0j71c6mi438j
+    verified: true
+    hashtags: "#skelart, #popart, #contemporaryart, #modernart"
+  - username: "derekzagami"
     fullname: >-
-      JJ Moore
+      Derek Zagami
     bio: >-
-      ▫️Self Made Men’s Fashion Syndicate▫️ 📍 New York City 🐶 Dog Dad @itshamptonguys
+      On-Air🎤🎥📺📱On-The Web #RealiTea & #LuxeLifeWithDerekZ 📺 @necntv @nbclx Latest Videos
     location: "United States"
-    followers: 86136
-    engagement: 125
-    commentsToLikes: 0.085393
-    id: ck5zobiexq6v60i14ks2y24ma
+    followers: 18628
+    engagement: 168
+    commentsToLikes: 0.029637
+    id: ck14l6gqtt3jl0i195u4vazq0
     verified: false
-    hashtags: "#menwithink, #expresspartner, #menswear, #actor"
+    hashtags: "#tvhost, #host, #necn, #entertainment"
+  - username: "malene.barnett"
+    fullname: >-
+      Malene Barnett
+    bio: >-
+      Redefining what it means to be Black and female in the contemporary art world.Together we rise✊🏿 Partner + Invest in @badguild
+    location: "United States"
+    followers: 51450
+    engagement: 140
+    commentsToLikes: 0.090207
+    id: ck55ofmpw89es0i1179h65v2t
+    verified: false
+    hashtags: "#functionalceramics, #terracotta, #blackempowerment, #ceramicsofinstagram"
+  - username: "cullmankravis"
+    fullname: >-
+      Cullman & Kravis Associates
+    bio: >-
+      Interior Design Firm | AD 100 Hall of Fame • Elle Decor A list Transcending trends and traditions since '84.
+    location: "United States"
+    followers: 42095
+    engagement: 132
+    commentsToLikes: 0.021971
+    id: ck5c01d0ps8y80i11us6g3h75
+    verified: false
+    hashtags: "#bedroom, #interiors, #diningroom, #design"
 ---

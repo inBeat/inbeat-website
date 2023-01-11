@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Home Decor Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top home decor Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #photography #mydubai #dubai #fashion.
+  Find top home decor Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #homedecor #dubai #mydubai #uae.
 platform: Instagram
-hits: 14
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 14 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 13
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
   - username: "reahzz_world"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.108074
     id: ck8t7cc80gasx0j78hivzqevw
     verified: false
-    hashtags: "#beautifulday, #swissalps, #sareelove, #smile"
-  - username: "philipe0410"
+    hashtags: "#posesforpictures, #swissalps, #dubai, #travelgram"
+  - username: "samirhakim_designstudio"
     fullname: >-
-      Felipe | فيليب
+      samirhakim design.studio
     bio: >-
-      Menstyle - Lifestyle - Luxury Travels 📍#Dubai 👻 Snap: Philipe0410 📩 felipeandres10@hotmail.com
+      Lebanon: T: +961 1 449652 +961 70 702030 Dubai: T: +971 54 7788729
     location: "United Arab Emirates"
-    followers: 86144
-    engagement: 157
-    commentsToLikes: 0.061165
-    id: ck0w1yt1alsxz0i19hfhq8wbn
+    followers: 8885
+    engagement: 574
+    commentsToLikes: 0.018835
+    id: ck5cgm6mvp4a10i11g1gwjsy0
     verified: false
-    hashtags: "#visitdubai, #travelblogger, #hotels, #weekend"
-  - username: "samar_tm"
+    hashtags: "#officedesign, #interiorinspiration, #lebanesedesigners, #samirhakimdesignstudio"
+  - username: "thehauteinteriors"
     fullname: >-
-      Samar Taimour | سمر تيمور
+      T.H.I. INTERIORS
     bio: >-
-      مُعدة ومقدمة برامج 🎙📺 بهيئة الشارقة للإذاعة والتلفزيون مدونة في التواصل الاجتماعي إماراتية 🇦🇪 ممنوع دخول الرجال عالخاص ( بلوك )🚫
+      INTERIOR DESIGN | ARCHITECTURE 📍Chicago Projects in NY | Dubai | Kuwait Featured in Harper’s Bazaar Interiors 📧 info@thi-interiors.com 📱+17084655596
     location: "United Arab Emirates"
-    followers: 24092
-    engagement: 615
-    commentsToLikes: 0.079743
-    id: ck55nqb4h6qys0i11522e30ju
+    followers: 193144
+    engagement: 221
+    commentsToLikes: 0.009261
+    id: ck6uidmn7egv80j71bqjpqh21
     verified: false
-    hashtags: "#homecenter, #beauty, #abbayafashion, #officedesign"
-  - username: "fj_art"
+    hashtags: "#mydubai, #chicago, #beiruting, #interiordesigner"
+  - username: "rujoomsreverie_"
     fullname: >-
-      Fleur Josephine ART
+      Rujoom Qamar 📍(AUH/DXB)
     bio: >-
-      Dutch artist in Dubai All my works are handmade with love International shipping available Trader license 850953 Inquire me by email ♡👩🏻‍🎨
+      #Lifestyle #Homestyle #Parenting #FamilyTravel @mumzworld Rujoom10 🇦🇪 UAE born & Raised🇵🇰 Visual journey of my Simple Life 📩 Email for PR/Collab
     location: "United Arab Emirates"
-    followers: 21562
-    engagement: 763
-    commentsToLikes: 0.088282
-    id: ckaozabz4kzdb0i78n8aql0k7
+    followers: 57454
+    engagement: 340
+    commentsToLikes: 0.086363
+    id: ck9wgdtnaszh80j784dpc9mhl
     verified: false
-    hashtags: "#abudhabi, #takeashot, #dxb, #netherlands"
-  - username: "kitchen_maestro"
+    hashtags: "#reels, #uaekids, #dss, #winterweddings"
+  - username: "themandarinegirl"
     fullname: >-
-      Kitchen_Maestro
+      Daisy🍷 Travel & Lifestyle
     bio: >-
-      I am Nisreen Rahhal, a Pharmacist and a Passionate Palestinian 🇵🇸 Food lover 📍based in Dubai Food 📷 Food 🎨
+      Mykonos🔜Mallorca, Cannes
     location: "United Arab Emirates"
-    followers: 38334
-    engagement: 271
-    commentsToLikes: 0.225020
-    id: ck0w5jqoi3z6f0i19syzmfswm
+    followers: 98145
+    engagement: 267
+    commentsToLikes: 0.112523
+    id: ck8taf4vmri8n0j78xrm9fxeo
     verified: false
-    hashtags: "#foodbeast, #eidmubarak, #lowcarbrecipes, #foodstyling"
-  - username: "pasha.tehreem"
+    hashtags: "#bohostyle, #bohofashion, #munich, #ootd"
+  - username: "nasser.omayer"
     fullname: >-
-      Tehreem Pasha | Islamic Artist
+      Nass Omayer
     bio: >-
-      🧑🏻‍🎨 Islamic traditional art enthusiast 👉🏻 Tezhip | Geometry | Calligraphy 👈🏻 🎬 Featured: @szgmc_ae @lushmiddleeast @dubaiartseason ✨FREE RESOURCES👇🏻
+      N7 NB 💍 Homs- Dubai
     location: "United Arab Emirates"
-    followers: 17502
-    engagement: 458
-    commentsToLikes: 0.099370
-    id: ck9wge7prt18p0j78odn1rip1
+    followers: 5349
+    engagement: 1237
+    commentsToLikes: 0.067661
+    id: ckf5rgo7kclnr0j23qscu7myo
     verified: false
-    hashtags: "#tezhip, #homesrusramadan, #konmari, #pakistancreates"
-  - username: "beautyy_vogue"
+    hashtags: "#fitnessmotivation, #family, #dubailife, #workout"
+  - username: "deakedinakarina"
     fullname: >-
-      Aniqa Yusufzai
+      Travel | Fashion | Bali
     bio: >-
-      sʜᴀʀɪɴɢ ʟɪᴛᴛʟᴇ ʟɪғᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇs💓 📍Dubai 🇦🇪 / Karachi 🇵🇰 #Makeup | #Lifestyle | #Fashion | #Food Licensed by @itsherskill Dm for Collabs!
+      Dina 🇭🇺Fashion & Travel blogger, Model, Fashion stylist DXB|BP|BALI @contentbydina 📍Bali #itssunnysomewhere #bali #dinafaraway
     location: "United Arab Emirates"
-    followers: 15758
-    engagement: 370
-    commentsToLikes: 0.217207
-    id: ck9wgpxwuugrt0j78vpea580h
+    followers: 18343
+    engagement: 261
+    commentsToLikes: 0.085010
+    id: ck8ta1m8fq4bc0j78x4apok15
     verified: false
-    hashtags: "#makeup, #beautiful, #halloweenmakeupideas, #halfpainted"
+    hashtags: "#balilife, #budapest, #bali, #itssunnysomewhere"
+  - username: "vanitiqueme"
+    fullname: >-
+      Aisha Ossman ♡
+    bio: >-
+      
+    location: "United Arab Emirates"
+    followers: 38956
+    engagement: 84
+    commentsToLikes: 0.066979
+    id: ckapcgd783pa40i78ubm3czar
+    verified: false
+    hashtags: "#mua, #mydubai, #positiveenergy, #motd"
   - username: "tahera.fatimaa"
     fullname: >-
-      Tahera Fatima| طاهرة فاطمة
+      Tahera Fatima | Blogger
     bio: >-
-      Fashion Enthusiast •Foodie •Beauty •Lifestyle BBA Grad •Twin @abida.fatimaa 👯‍♀️ 📍Dubai •Currently in Hyd,India 📥DM •Fatimatahera14@gmail.com
+      Self Love & Kindess🌻• Fashion•Beauty•Lifestyle•Food BBA Grad👩🏻‍🎓•Twin @abida.fatimaa 👯‍♂️ 📍Hyderabad,India🇮🇳• 📩Fatimatahera14@gmail.com •DM
     location: "United Arab Emirates"
-    followers: 8462
-    engagement: 974
-    commentsToLikes: 0.134053
+    followers: 10283
+    engagement: 651
+    commentsToLikes: 0.134834
     id: ck15uurweolxt0i19qb3qjxmj
     verified: false
-    hashtags: "#desiinfluencer, #taherafatima, #dubaigirls, #desifashion"
-  - username: "asmaoriginal"
+    hashtags: "#girls, #indianwedding, #instagood, #instagram"
+  - username: "malak.alotabi"
     fullname: >-
-      Asma Enayeh 🌸 أسماء عناية
+      Malak Alotaibi ♍️
     bio: >-
-      🌼 A Dreamer • Shorty • Left Handed 🌿 Represented by @astoundusagency Founder: #kidlitober Co-Founder: #bonvoyageweek, #magicmoonweek ➖ Dubai Website:
+      👩‍💻Full time Electrical Engineer. 👩‍👧‍👦Mom of three. Makeup || Skincare || Modest Fashion || Lifestyle 📍Dubai, UAE
     location: "United Arab Emirates"
-    followers: 6964
-    engagement: 550
-    commentsToLikes: 0.141501
-    id: ck6u3xbnd0f970j71bvqh64o9
+    followers: 189556
+    engagement: 240
+    commentsToLikes: 0.016292
+    id: ck5c4goxi1bih0i11bqyb1td0
     verified: false
-    hashtags: "#ink, #kidlitober2020, #instaart, #voyage"
-  - username: "dubaiholics"
-    fullname: >-
-      Hania - Licensed Blogger
-    bio: >-
-      🔸️My Dubai 🇦🇪 🔸️Food 🔸️Lifestyle 🔸️Fashion @zomatouae Level 12 - Connoisseur 📩 dubaiholic92@gmail.com
-    location: "United Arab Emirates"
-    followers: 11570
-    engagement: 498
-    commentsToLikes: 0.386128
-    id: ck6ugi8ju362n0j71cfr9ioes
-    verified: false
-    hashtags: "#dubaifashion, #delicious, #culture, #dubaifashionista"
+    hashtags: "#homedecor, #homedesign, #tvcorner, #mascaralover"
 ---

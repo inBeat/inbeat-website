@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Australia in 2023
+title: Top 10 Comedians TikTok Influencers In Australia In 2023
 description: >-
-  Find top comedians TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #comedy #foryou #duet.
+  Find top comedians TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #comedy #duet #foryou.
 platform: TikTok
-hits: 24
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 24 TikTok influencers like this in Australia for you to contact.
+hits: 21
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform has 21 TikTok influencers like this in Australia for you to connect with.
 profiles:
-  - username: "mynameisjosuha"
-    fullname: >-
-      My Name Is Josuha
-    bio: >-
-      🎤😁 COMEDIAN Tells Jokes. Makes Videos. ⬇️ Posts regular content irregularly ⬇️
-    location: "Australia"
-    followers: 53500
-    engagement: 2476
-    commentsToLikes: 0.025820
-    id: ck81sy6hetzne0j7893t2p5d2
-    verified: false
-    hashtags: "#funny, #dadjoke, #australia, #life"
-  - username: "horlicksthegolden"
-    fullname: >-
-      Horlicks
-    bio: >-
-      🄷🄾🅁🄻🄸🄲🄺🅂 Golden Retriever Boi🐶 Comedian from AU 🇦🇺 Follow my journey
-    location: "Australia"
-    followers: 262900
-    engagement: 1515
-    commentsToLikes: 0.015798
-    id: ckb9ex8oh2yri0j23b7a37u6n
-    verified: false
-    hashtags: "#halloweenishere, #goldens, #tiktokgolden, #goldenretrieverlife"
-  - username: "luke.kidgell"
-    fullname: >-
-      luke.kidgell
-    bio: >-
-      Stand up comedian. Instagram: @lukekidgell Go subscribe on Youtube if ya want!
-    location: "Australia"
-    followers: 189100
-    engagement: 2098
-    commentsToLikes: 0.005058
-    id: cka0wqf6j42920i78z84jepwd
-    verified: false
-    hashtags: "#bachelorinparadise, #thebachelor, #omegle, #australia"
-  - username: "jjpantano"
-    fullname: >-
-      JJ Pantano
-    bio: >-
-      Comedian•Actor•Singer AGTAU-Golden Buzzer *acc mged by mum** #agt : Champions
-    location: "Australia"
-    followers: 8739
-    engagement: 1720
-    commentsToLikes: 0.049470
-    id: ckahz49up1wv20i78kwrci92i
-    verified: false
-    hashtags: "#laughter, #howiemandel, #duet, #jjpantano"
-  - username: "samanthandrew1"
-    fullname: >-
-      Samantha Andrew
-    bio: >-
-      🏳️‍🌈 She/Her | Melbourne Composer | Comedian | Writer lucy@bornbredtalent.com
-    location: "Australia"
-    followers: 135900
-    engagement: 1562
-    commentsToLikes: 0.011481
-    id: ckb9sp1ztq3mj0j23uxks52ok
-    verified: true
-    hashtags: "#comedyskit, #thespian, #tryingsnacks, #tayto"
-  - username: "alexshooterwilliamson"
-    fullname: >-
-      Alex Williamson
-    bio: >-
-      Aussie comedian. My insta500k YT630k. Cameo, Twitch @ link below
-    location: "Australia"
-    followers: 742000
-    engagement: 1861
-    commentsToLikes: 0.006690
-    id: ckavqo18f28ti0j23wl22fqx5
-    verified: true
-    hashtags: "#fyp, #election, #aussiethings, #leaveacomment"
   - username: "lewspears"
     fullname: >-
       Lewis Spears
     bio: >-
       CEO of being tall - Stand Up comedian from Australia - 500k on YouTube
     location: "Australia"
-    followers: 52500
-    engagement: 1461
-    commentsToLikes: 0.015428
+    followers: 70200
+    engagement: 1830
+    commentsToLikes: 0.019168
     id: ckbatps1dkajq0j23o7nx8zbo
     verified: true
-    hashtags: "#stitch, #duet, #cuties, #melbourne"
+    hashtags: "#melbourne, #spearsreeltalk, #gamestop, #gme"
+  - username: "marcgallagher32"
+    fullname: >-
+      Gallagher
+    bio: >-
+      Comedian Insta: marcgallagher32 Snap: marcgallagher32 YT: goodallandgallagher
+    location: "Australia"
+    followers: 18100
+    engagement: 1591
+    commentsToLikes: 0.030229
+    id: ckc90gr0mpuzu0j236g9w9rya
+    verified: false
+    hashtags: "#gallagher, #stitch, #repost, #howwemet"
+  - username: "jjpantano"
+    fullname: >-
+      JJ Pantano
+    bio: >-
+      Comedian•Actor•Singer AGTAU-Golden Buzzer #AGT Champions acc mged by mum
+    location: "Australia"
+    followers: 10600
+    engagement: 1678
+    commentsToLikes: 0.057041
+    id: ckahz49up1wv20i78kwrci92i
+    verified: false
+    hashtags: "#agt, #jjpantano, #howiemandel, #comedy"
+  - username: "luke.kidgell"
+    fullname: >-
+      luke.kidgell
+    bio: >-
+      Stand up comedian. Instagram: @lukekidgell Go subscribe on Youtube if ya want!
+    location: "Australia"
+    followers: 331200
+    engagement: 1927
+    commentsToLikes: 0.003711
+    id: cka0wqf6j42920i78z84jepwd
+    verified: false
+    hashtags: "#standup, #australia, #standupcomedy, #comedy"
   - username: "thebuttsmarn"
     fullname: >-
       thebuttsmarn
     bio: >-
       Australian Comedian
     location: "Australia"
-    followers: 218300
-    engagement: 1574
-    commentsToLikes: 0.009232
+    followers: 229000
+    engagement: 1611
+    commentsToLikes: 0.009831
     id: ck8sbvt7o89zz0j78abz4meg7
     verified: true
-    hashtags: "#pokemon, #fyp, #duet, #comedian"
-  - username: "boy.by.da.sea"
-    fullname: >-
-      DUET PAGE! 🎥🎭
-    bio: >-
-      CEO OF DUET WRITER/ACTOR CHAROT/COMEDIAN 🎥🎭 GVO OK!🇵🇭🇦🇺
-    location: "Australia"
-    followers: 51700
-    engagement: 684
-    commentsToLikes: 0.152885
-    id: ckb1ar637z4en0j2392z9ego0
-    verified: false
-    hashtags: "#hugotnimars, #fyp, #foryou, #boybydasea"
+    hashtags: "#duet, #pokemon, #fyp, #stitch"
   - username: "gabriel_rossi_comedian"
     fullname: >-
       Gabriel Rossi Comedy
     bio: >-
       Comedian from Melbourne. I’m GEN-X - from a time you could joke about anything
     location: "Australia"
-    followers: 18100
-    engagement: 671
-    commentsToLikes: 0.198325
+    followers: 24700
+    engagement: 764
+    commentsToLikes: 0.188258
     id: ckbf0qow9mpwj0j230apwb7nd
     verified: false
-    hashtags: "#aftermycoffee, #australia, #foryou, #xyzbca"
+    hashtags: "#melbourne, #sackdanandrews, #follow, #australia"
+  - username: "rxme.v"
+    fullname: >-
+      r o m e
+    bio: >-
+      idk if I’m a softboi, a comedian or a dancer 21 | 🇵🇭 | AUS | NERVE dance crew
+    location: "Australia"
+    followers: 371000
+    engagement: 2571
+    commentsToLikes: 0.006417
+    id: ck83zb5lszbyb0j78r34fo5kg
+    verified: false
+    hashtags: "#filipino, #kpop, #fyp, #bangbang"
+  - username: "boy.by.da.sea"
+    fullname: >-
+      DUET PAGE! 🎥🎭
+    bio: >-
+      CEO OF DUET RN/DAD/WRITER/ACTOR CHAROT/COMEDIAN 🎥🎭 GOOD VIBES ONLY OK🇵🇭🇦🇺
+    location: "Australia"
+    followers: 71800
+    engagement: 670
+    commentsToLikes: 0.132391
+    id: ckb1ar637z4en0j2392z9ego0
+    verified: false
+    hashtags: "#fyp, #foryou, #hugotnimars, #boybydasea"
+  - username: "mynameisjosuha"
+    fullname: >-
+      My Name Is Josuha
+    bio: >-
+      🎤😁 COMEDIAN Josuha Taylor ⬇️ Social Media and ⬇️ Stand-Up Clips (Link Below)
+    location: "Australia"
+    followers: 80500
+    engagement: 1707
+    commentsToLikes: 0.021937
+    id: ck81sy6hetzne0j7893t2p5d2
+    verified: false
+    hashtags: "#comedy, #australia, #foryoupage, #straya"
+  - username: "grumpy_leanne"
+    fullname: >-
+      leanne🖤
+    bio: >-
+      Grumpy Comedian go follow my son @maitlandrd & @maitlanddevlin
+    location: "Australia"
+    followers: 60000
+    engagement: 1347
+    commentsToLikes: 0.015192
+    id: ckbex439bh6370j231uznsvhn
+    verified: false
+    hashtags: "#blowthisup, #oldlady, #grumpy, #viral"
 ---

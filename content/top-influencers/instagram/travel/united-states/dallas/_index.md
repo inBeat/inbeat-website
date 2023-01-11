@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Dallas in 2023
+title: Top 10 Travel Instagram Influencers In Dallas In 2023
 description: >-
-  Find top travel Instagram influencers in Dallas in 2023. Most popular hashtags: #liketkit #dallas #ltkstyletip #ltkunder50.
+  Find top travel Instagram influencers in Dallas in 2023. Most popular hashtags: #dallasblogger #travel #fashionblogger #dallas.
 platform: Instagram
-hits: 197
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 197 Instagram influencers like this in Dallas, United States for you to pitch.
+hits: 272
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 272 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
+  - username: "missylynn"
+    fullname: >-
+      MISSY LYNN 💋
+    bio: >-
+      Lifestyle | Beauty | Fashion | Travel Dallas, TX📍 Collabs 💌: info@mymissylynn.com
+    location: "United States"
+    followers: 347366
+    engagement: 176
+    commentsToLikes: 0.020619
+    id: ck15rsobk9i360i19jjbx7r36
+    verified: true
+    hashtags: "#bathselfie, #missylynn, #pathforwardpsychics, #igdaily"
   - username: "anabeth.jpg"
     fullname: >-
       anabeth.jpg
     bio: >-
       COLORFULLY BOLD🌈💃🏽 Fashion. Design. Travel. Dallas. Plus Size. Avocado. Margaritas. What? Oh, I was just naming things🤗 ⬜️Enjoy my life in squares⬜️
     location: "United States"
-    followers: 27269
-    engagement: 164
-    commentsToLikes: 0.105838
+    followers: 33426
+    engagement: 116
+    commentsToLikes: 0.076148
     id: ck5q8s75i7qp00i11ivduhogc
     verified: false
-    hashtags: "#liketkit, #ltkcurves, #plussize, #ltksalealert"
-  - username: "southern_belle_living"
+    hashtags: "#ltkcurves, #plussizefashion, #colorcrush, #xoq"
+  - username: "alexleivaaa"
     fullname: >-
-      L A U R A  B E L L E
+      A.
     bio: >-
-      | Georgia | • Choose Happy 💗 • #PowerYourPlatform 👗 • Travel Blogger sharing Fashion, Relationship, Lifestyle & Positivity
+      ▪️Dallas, Texas. ▪️Realtor • @alexleiva.realestate ▪️FREE apartment locating all over TX 📍
     location: "United States"
-    followers: 20495
-    engagement: 386
-    commentsToLikes: 0.109917
-    id: ck5c07swqslrq0i11shut3acb
+    followers: 7513
+    engagement: 1964
+    commentsToLikes: 0.030533
+    id: ckap33dzn1e550i78z4czbrq0
     verified: false
-    hashtags: "#leopard, #love, #liketoknowit, #amazon"
-  - username: "queyoun"
+    hashtags: "#travel, #dallasluxuryhomes, #dallasrealestate, #realestate"
+  - username: "viktoriavelika"
     fullname: >-
-      Q. | Liberian-American🇱🇷🇺🇸
+      Viktoria Anna V.
     bio: >-
-      For business inquiries please email: queyoun.makor@gmail.com @wilhelminamodels #willysocial 📍Dallas, Texas
+      🇸🇰🇺🇸🏐 Good Vibes Only ♥️ Slovak Girl ♥️
     location: "United States"
-    followers: 100651
-    engagement: 464
-    commentsToLikes: 0.028171
-    id: ck13d0yks340q0i19yw7xovk6
+    followers: 9427
+    engagement: 830
+    commentsToLikes: 0.042406
+    id: ck8taxf36th300j78bwngfh64
     verified: false
-    hashtags: "#expressmen, #fashion, #potd, #style"
-  - username: "sydneycroft_"
+    hashtags: "#freckles, #florida, #nudemakeup, #bloggersre"
+  - username: "lyamariella"
     fullname: >-
-      S Y D N E Y
+      LYA | Lifestyle • Decor • Swim
     bio: >-
-      MA: @dmm.management RGA | RealStyle DET- @cocorochamodelcamp alumni
+      pronunciation: / Lee-ah / San Juan, PR | Los Angeles, CA | Dallas, TX📍 blogger + @caribumofficial co-founder
     location: "United States"
-    followers: 2150
-    engagement: 978
-    commentsToLikes: 0.076668
-    id: ckaozoj4vmoxn0i78px36066o
+    followers: 17164
+    engagement: 587
+    commentsToLikes: 0.083583
+    id: ck5causw6e69r0i11bhdhryh1
     verified: false
-    hashtags: "#detroit, #editorial, #fashion, #dallasblogger"
-  - username: "rushent_trail"
+    hashtags: "#vacation, #fashionstyle, #blogger, #photooftheday"
+  - username: "thefunkgypsy"
     fullname: >-
-      Celebrity Booking Agent
+      Michele Moss Design
     bio: >-
-      @luxexoticrentals YouTube: Rushent Trail
+      🌿 Dallas Interior & Event Designer 💙 Featured Designer @houzz & @roomplays 🌿 Home Decor & Lifestyle 💙 San Diego, CA ——> Prosper, TX
     location: "United States"
-    followers: 17677
-    engagement: 497
-    commentsToLikes: 0.051091
-    id: ck5hourkmq9u70i119w5bcm0g
+    followers: 26069
+    engagement: 235
+    commentsToLikes: 0.274196
+    id: ck0vy969v2u8w0i19k0mgf73x
     verified: false
-    hashtags: "#luxurylifestyle, #rushent, #dallasclubs, #dallasnights"
-  - username: "hectormeza.z"
+    hashtags: "#dustyblue, #dfw, #wainscoting, #wainscotting"
+  - username: "lifeofsmorris"
     fullname: >-
-      Hector Meza
+      
     bio: >-
-      ♥️Dallas, TX 🐶Foster Dad 🔍Apartment Locator DM me if you need an apartment or puppy!
+      NYC | ATL Cuff Daddy Slim 🔌 •Events, Tours, Radio, interviews •MGMT, Marketing, Blogs and more •exec assist: @jbabe_hellenkeller
     location: "United States"
-    followers: 3670
-    engagement: 2928
-    commentsToLikes: 0.023359
-    id: ckap1uxrww9av0i78wx868kiq
+    followers: 24952
+    engagement: 142
+    commentsToLikes: 0.347749
+    id: ck5hlr5uqkpet0i118bkur8z5
     verified: false
-    hashtags: "#southafrica, #love, #capetown, #travel"
-  - username: "carly_mc"
+    hashtags: "#events, #power, #event, #morbookings"
+  - username: "littlemixico"
     fullname: >-
-      Carly McDowell
+      Dani Rios
     bio: >-
-      life + style + travel ☆ dallas, tx ✉️ carly.a.mcdowell@gmail.com shop my amazon finds ↓
+      Boss @brow.savior 💕 Im most likely exploring + eating somewhere. Mexico City ✈️ Dallas Travel. Beauty. Wellness. Weekly YT Videos
     location: "United States"
-    followers: 25990
-    engagement: 466
-    commentsToLikes: 0.254392
-    id: ck0vxid2pz1iw0i19u3g539cd
+    followers: 28511
+    engagement: 234
+    commentsToLikes: 0.028355
+    id: ck13czyo52z9e0i1926i5vdah
     verified: false
-    hashtags: "#lifeartois, #shopadeline, #stellapartner, #liketkit"
-  - username: "katnazz001"
-    fullname: >-
-      Kat D-Villano
-    bio: >-
-      🌸 fashion/travel 📍Dallas based 📩 let's connect DM @Katnazz001 💻 blog is live⬇️ 💍@ciachef35 Email for collab: katiedo97@gmail.com
-    location: "United States"
-    followers: 33580
-    engagement: 187
-    commentsToLikes: 0.149759
-    id: ck15shvfbd30g0i19t7jbnc05
-    verified: false
-    hashtags: "#sheinpartner, #liketkit, #gifted, #sheingals"
-  - username: "msashleydevonna"
-    fullname: >-
-      ASHLEY DEVONNA
-    bio: >-
-      beauty • fashion • lifestyle • travel 📍dallas, tx ✉️: collab@houseofarnat.com join the a-list ↓
-    location: "United States"
-    followers: 86251
-    engagement: 605
-    commentsToLikes: 0.022132
-    id: ck0w5vpuo5ni40i19zclncqgl
-    verified: false
-    hashtags: "#ad, #astoldbyashley, #crimeandwine, #gifted"
+    hashtags: "#latinablogger, #luxurylifestyle, #lightroompresets, #faithblogger"
   - username: "bishopandholland"
     fullname: >-
       Stia, Jean & Katherine
     bio: >-
       Fashion|Travel|Baby Dallas, TX | Mom, daughter + daughter-in-law 💌: hello@bishopandholland.com 📍: Dallas, TX
     location: "United States"
-    followers: 42803
-    engagement: 61
-    commentsToLikes: 0.123255
+    followers: 43113
+    engagement: 59
+    commentsToLikes: 0.061346
     id: ck9wol3bz5l1n0j788vss715h
     verified: false
-    hashtags: "#ltkunder50, #ltksalealert, #fashionblogger, #ltkspring"
+    hashtags: "#weekend, #ltkunder100, #saks, #summer"
+  - username: "dallasfoodwanderer"
+    fullname: >-
+      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
+    bio: >-
+      I came🚶🏼‍♀️I saw 🤳 I ate 👅 📍 | dallas & travel 👯‍♀️ | fill out form to collab ⬇️
+    location: "United States"
+    followers: 21068
+    engagement: 253
+    commentsToLikes: 0.106816
+    id: ck0w3er8vt17z0i19w116309e
+    verified: false
+    hashtags: "#hallartshotel, #designdistrict, #dallas, #gopuffpartner"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In Germany in 2023
+title: Top 10 Dog Owners Instagram Influencers In Germany In 2023
 description: >-
-  Find top dog owners Instagram influencers in Germany in 2023. Most popular hashtags: #love #dog #dogowner #instadog.
+  Find top dog owners Instagram influencers in Germany in 2023. Most popular hashtags: #love #dogsofinstagram #cute #picoftheday.
 platform: Instagram
-hits: 19
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 19 Instagram influencers like this in Germany for you to contact.
+hits: 13
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 13 Instagram influencers like this in Germany for you to pitch.
 profiles:
   - username: "jnnfr2607"
     fullname: >-
       JENNY • INTERIOR.MOM.RHODESIAN
     bio: >-
-      MOM. WIFE. DOG OWNER. INTERIOR LOVER. ♥
+      🇩🇪🇵🇱 • MOM. WIFE. DOG OWNER. INTERIOR LOVER. ♥ @dnl2608 you're my always und forever.
     location: "Germany"
-    followers: 5288
-    engagement: 896
-    commentsToLikes: 0.093707
+    followers: 5483
+    engagement: 838
+    commentsToLikes: 0.076391
     id: ck5hn4mk3n72n0i1112083riq
     verified: false
-    hashtags: "#homesweethome, #interior123, #solebich, #home"
-  - username: "pomhub.premium"
+    hashtags: "#interior, #furniture, #house, #bathroominspiration"
+  - username: "koschtaaa"
     fullname: >-
-      Sky & Moon
+      Kostas Kind
     bio: >-
-      Happy dogdad of two🐕🐕. ⠀ 🦁 Sky - brown booper 🐺 Moon - black booper ⠀ 🥳 Sharing the joy of being a dog owner. ⠀ 📍Berlin
+      He/Him 📸 YouTuber from Berlin 💙 Gay dude, in love with @darkviktory 🐾 Dog Owner & Lover 📩 info@kostaskind.de
     location: "Germany"
-    followers: 6204
-    engagement: 492
-    commentsToLikes: 0.112624
-    id: ckaoudbjmzsaf0i78tw9nilhl
+    followers: 119355
+    engagement: 579
+    commentsToLikes: 0.021281
+    id: ck6u9nxcvym5u0j71xmhvang9
     verified: false
-    hashtags: "#bonerbros, #covid19"
+    hashtags: "#gayboy, #youtuber, #germanyoutuber, #potd"
   - username: "milena_and_her_dog"
     fullname: >-
       Milena
     bio: >-
-      🏡 Innsbruck 👧🏻 Pfälzer Mädchen 🐕Dogowner Frieda 📷 Fujifilm Xt20 @nonstopdogwear Ambassador
+      Austria Stranded Knitting Dogowner Outdoorlover @nonstopdogwear Ambassador
     location: "Germany"
-    followers: 11082
-    engagement: 654
-    commentsToLikes: 0.031131
+    followers: 10931
+    engagement: 716
+    commentsToLikes: 0.039645
     id: ck5zta01c00nv0i149xgwj5ll
     verified: false
-    hashtags: "#mountain, #southtyrol, #trentinomese, #altoadigeweb"
-  - username: "cozytownhouse"
-    fullname: >-
-      Dani Io
-    bio: >-
-      Home 🌿 Garden 🌿 Deko 🌿Interior 🌿 Farmhouseliving 🌿Landhausstil 🌿 Altbauliebe 🌿 Architect 🌿Girlsmom 🌿 Dogowner 🌿 Fashionista 🌿 Tattoolover
-    location: "Germany"
-    followers: 8259
-    engagement: 1389
-    commentsToLikes: 0.081067
-    id: ckapbx44h1mdy0i78dwiy331v
-    verified: false
-    hashtags: "#herbstdekoration, #germaninteriorbloggers, #solebich, #myhappyplace"
-  - username: "dorilain"
-    fullname: >-
-      E30 Dori
-    bio: >-
-      Ｐｒｏｐｒｉｅｔｒｅｓｓ @carjunkies.grmny Ｆｕｔｕｒｅ Ｍｒｓ. @germi_e36 ♥️💍 🚘 Ｅ３０ Ｐ💙🍼 ｃｒａｚｙ 😜 Ｂｌｏｎｄｉｅ 🙋🏼‍♀️ Ｄｏｇｏｗｎｅｒ 🐾 🇩🇪／🇵🇱
-    location: "Germany"
-    followers: 5492
-    engagement: 1153
-    commentsToLikes: 0.015612
-    id: ckaoytc68izi50i78yuqfhfvt
-    verified: false
-    hashtags: "#e30girl, #domoreofehatmakesyouhappy, #goodlife, #e36"
-  - username: "lisa.und.ihr.bully"
-    fullname: >-
-      Lisa
-    bio: >-
-      🐾Brutus / franz. Bulldogge/ 2y 🙋🏼‍♀️ 28/ Nrw 📍 ❤️ @nico.m90
-    location: "Germany"
-    followers: 3894
-    engagement: 1113
-    commentsToLikes: 0.048025
-    id: ckap9v5pwtqom0i786it245xg
-    verified: false
-    hashtags: "#blonde, #dog, #bullylife, #franzo"
+    hashtags: "#knitlife, #igknitters, #alwaysknitting, #knitaddict"
   - username: "doodledog.comics"
     fullname: >-
       Comics of a Dog‘s Life
     bio: >-
-      🐶 I‘m Frieda the poodle.
+      🐶 I‘m Frieda the poodle & Luna is my annoying lil sister. Find us on tiktok! (link👇)
     location: "Germany"
-    followers: 8577
-    engagement: 4081
-    commentsToLikes: 0.017324
+    followers: 8331
+    engagement: 3541
+    commentsToLikes: 0.021930
     id: ckaotcobpvc6s0i78cez5tsco
     verified: false
-    hashtags: "#comicbites, #webcomic, #funnycomic, #dailycartoons"
-  - username: "lenamatufotografie"
+    hashtags: "#dailycartoons, #funnycomic, #barkhappy, #webcomicz"
+  - username: "missyminzi"
     fullname: >-
-      Lena Matu Fotografie
+      Poms | Happiness | Lifestyle
     bio: >-
-      ❣️Gemeinsam schaffen wir liebevolle Andenken an deinen treusten Wegbegleiter 📸#Tierfotografie 🏙based in #Mainz ✨Zeig mir deine Fotos #lmfotofollower
+      👩‍❤️‍👨 Sandra Andre 🐶 Minzi Monty Maui Maili Murphy Lia Cora Aisha 💗 daily life with 7 fluffs 🌎 Germany ✉️ hello@missyminzi.com
     location: "Germany"
-    followers: 6828
-    engagement: 790
-    commentsToLikes: 0.017981
-    id: ck1372c219f1w0i198l9qahoc
+    followers: 202039
+    engagement: 535
+    commentsToLikes: 0.017190
+    id: ck137fkkwba130i199s2p216g
     verified: false
-    hashtags: "#tierfotografie, #tierfoto, #puppy, #animal"
-  - username: "rr_rusty"
+    hashtags: "#hund, #dogstagram, #comedy, #dogdad"
+  - username: "cigar.dreams"
     fullname: >-
-      Rusty Bombasty
+      Ken Stemler
     bio: >-
-      🐶 Rusty 🍀 17.01.2015 🇩🇪 Germany Baden-Württemberg 💐 MAIL: swilluweit@gmx.de 👩🏽 Saskia, 24 Jahre
+      • Your daily dose of passion • Ken@cigardreams.de or DM • Germany
     location: "Germany"
-    followers: 6296
-    engagement: 664
-    commentsToLikes: 0.023779
-    id: ckapawu7ixrmq0i78daq4p35t
+    followers: 31745
+    engagement: 407
+    commentsToLikes: 0.053039
+    id: ck0w6hpkl8mba0i19b0x0kunj
     verified: false
-    hashtags: "#dogphotography, #rhodesianridgeback, #doglover, #dog"
-  - username: "mini_aussie_charlie_brown"
+    hashtags: "#cigarcollector, #cigarsofhabanos, #cigarsofhabanoshk, #zigarren"
+  - username: "amanda__hannover"
     fullname: >-
-      Charlie Brown
+      ☠Amanda Hard☠
     bio: >-
-      𝐇𝐮𝐧𝐝 🐶 • 𝐑𝐞𝐢𝐬𝐞𝐧 🌎 • 𝐮𝐧𝐝 𝐞𝐢𝐧 𝐛𝐢𝐬𝐬𝐜𝐡𝐞𝐧 𝐋𝐢𝐞𝐛𝐞 💑 📍Germany, Berlin 🐶 Charlie Brown (*27.10.2016) 👩 Vanessa 🧑Matthias
+      ⛔ Old Account deleted at 70k ⛔ Owner @hardbullz_germany 🐶 • TV Girl Babestation24 • Stripperin • Tänzerin • Model 📍Hanover 🇩🇪 👩🏼 📩amanda.hard@gmx.de
     location: "Germany"
-    followers: 6209
+    followers: 28452
+    engagement: 377
+    commentsToLikes: 0.060937
+    id: ck5bvd2vgjf1h0i114qoz6wkg
+    verified: false
+    hashtags: "#inkedlife, #selfie, #beautiful, #lips"
+  - username: "iceiman"
+    fullname: >-
+      Ice & Coco
+    bio: >-
+      follow the story of 2 dogs who explore the beautiful nature in Europe together with their owner Caro, based in Innsbruck, Austria
+    location: "Germany"
+    followers: 27283
+    engagement: 271
+    commentsToLikes: 0.040894
+    id: ck8t85evyj5zr0j78kmcood0f
+    verified: false
+    hashtags: ""
+  - username: "_kevin_haupt_"
+    fullname: >-
+      KEVIN HAUPT
+    bio: >-
+      KEVIN HAUPT Owner: @lynalia_official_ @kevinherzblutshop @herzblutfloristen @herzblut_flowers_and_garden_ Management@kevinhaupt.de • IMPRESSUM:
+    location: "Germany"
+    followers: 160995
+    engagement: 523
+    commentsToLikes: 0.042658
+    id: ck13a9b5wp9fy0i19jffnggyr
+    verified: false
+    hashtags: "#work, #kevin, #love, #flowers"
+  - username: "dog_in_nature"
+    fullname: >-
+      Buddy
+    bio: >-
+      🏔Our adventure from trips in nature🏔️ I care about protecting our planet🌍 🌎CZ🌎 Ambassador for @hellosandy.cz Owner @natalie.dosedelova
+    location: "Germany"
+    followers: 5730
     engagement: 764
-    commentsToLikes: 0.151303
-    id: ck6u9pad4yuhn0j71o6ulfhpi
+    commentsToLikes: 0.030626
+    id: ck8tcxqp913600j781a0bzfaq
     verified: false
-    hashtags: "#love, #hundeblick, #hundemama, #weekendvibes"
+    hashtags: "#nature, #travelphotography, #dogphotography, #bordercollie"
 ---

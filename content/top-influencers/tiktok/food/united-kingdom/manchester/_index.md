@@ -1,12 +1,36 @@
 ---
-title: Top 10 Food TikTok Influencers In Manchester in 2023
+title: Top 10 Food TikTok Influencers In Manchester In 2023
 description: >-
-  Find top food TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #foryou #food #foryoupage.
+  Find top food TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
-hits: 28
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 28 TikTok influencers like this in Manchester, United Kingdom for you to connect with.
+hits: 19
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 19 TikTok influencers like this in Manchester, United Kingdom for you to contact.
 profiles:
+  - username: "jacksondace"
+    fullname: >-
+      Jackson Dace
+    bio: >-
+      
+    location: "United Kingdom"
+    followers: 28000
+    engagement: 1925
+    commentsToLikes: 0.015096
+    id: ckbeqon878fi40j23frl866fl
+    verified: false
+    hashtags: "#funny, #instaxinspo, #fup, #foryoupage"
+  - username: "ceeno11"
+    fullname: >-
+      CC
+    bio: >-
+      I POST THE BEST CONTENT ON TIKTOK MAIN ACCOUNT GOT DELETED AT 197K Insta:11cino
+    location: "United Kingdom"
+    followers: 14100
+    engagement: 656
+    commentsToLikes: 0.021218
+    id: ckd0yj4n8lbwi0j23zy6mk9k1
+    verified: false
+    hashtags: "#tiktok, #wow, #uk, #6ix9inechallenge"
   - username: "eiad_d"
     fullname: >-
       Eiad
@@ -18,31 +42,31 @@ profiles:
     commentsToLikes: 0.153464
     id: ckbw8lpk0z9vx0j23t8xb5cwc
     verified: false
-    hashtags: "#arabfyp, #duet, #freepalestine, #muslimtiktok"
-  - username: "life.of.ty"
+    hashtags: "#hijabi, #freepalestine, #tiktokarab, #viral"
+  - username: "tiffinguys"
     fullname: >-
-      Life Of Ty
+      Tiffinguys
     bio: >-
-      Professional ginger, with to much free time... find me on cameo @NotEdSheeran
+      Instagram: @tiffinguys
     location: "United Kingdom"
-    followers: 76900
-    engagement: 529
-    commentsToLikes: 0.030093
-    id: ckbqmxir97uri0j23j9zs2gdk
+    followers: 7601
+    engagement: 443
+    commentsToLikes: 0.000000
+    id: ckbki97smal620j23u7ptux3l
     verified: false
-    hashtags: "#comedy, #edsheeran, #edit, #food"
-  - username: "novustory"
+    hashtags: "#fyp, #foryoupage, #tiktokpakistan, #birthday"
+  - username: "manchesterlifestyle"
     fullname: >-
-      Novustory
+      Manchesterlifestyle
     bio: >-
-      Uk Rock Band🇬🇧 4 best mates making videos Find us on YouTube?😍🙏 🏳️‍🌈❤️
+      love live. you only live once. snapchat a Manchester 19 Instagram lovlylahor🇬
     location: "United Kingdom"
-    followers: 4484
-    engagement: 1560
-    commentsToLikes: 0.131781
-    id: ckb9q95xym3540j23relpj81b
+    followers: 38200
+    engagement: 1971
+    commentsToLikes: 0.039569
+    id: cka0r8dzwg09d0i78oulgapy7
     verified: false
-    hashtags: "#halloween, #covers, #fyp, #singing"
+    hashtags: "#allah, #manchester, #muslim, #foryourpage"
   - username: "baldmuthatrucka"
     fullname: >-
       Ryan
@@ -54,77 +78,53 @@ profiles:
     commentsToLikes: 0.189571
     id: ckac5zxmydq9p0i78s38mjqlc
     verified: false
-    hashtags: "#friends, #tiktok, #bathroom, #joke"
-  - username: "thelifeofbako"
+    hashtags: "#fun, #kids, #tiktok, #uk"
+  - username: "badgirlaesthetics_"
     fullname: >-
-      The Life Of Bako
+      BadGirlAesthetics
     bio: >-
-      🇦🇫 Your Daily Dose of Happiness! 🇳🇱🇬🇧 Manchester
+      Aesthetics Based In Manchester Insta @badgirlaesthetics_ FILLERS&BOTOX 💉💉💉
     location: "United Kingdom"
-    followers: 4849
-    engagement: 1011
-    commentsToLikes: 0.027519
-    id: ckb9kplh0cqmz0j23o7x4gaoz
+    followers: 57200
+    engagement: 1122
+    commentsToLikes: 0.018645
+    id: cka5zg4a8mmj70i78bc8anlrv
     verified: false
-    hashtags: "#haha, #jokes, #thelifeofbako, #humour"
-  - username: "trainwithadby"
+    hashtags: "#work, #cecilhotel, #foryoupage, #mukbang"
+  - username: "olivia_._taylor"
     fullname: >-
-      Adby Twins
+      Liv Taylor
     bio: >-
-      👬 FITNESS TWINS 💪🏼Jon & Eddie 🏴󠁧󠁢󠁥󠁮󠁧󠁿Manchester 📲INSTA 📸
+      Manchester
     location: "United Kingdom"
-    followers: 281400
-    engagement: 785
-    commentsToLikes: 0.017361
-    id: ckav6epozd7an0j23k1ze9fxu
+    followers: 12500
+    engagement: 589
+    commentsToLikes: 0.017352
+    id: ckb9pe8gzk8ts0j23kndkt2we
     verified: false
-    hashtags: "#foryou, #personaltrainer, #fitness, #twins"
-  - username: "ministryofmunch"
+    hashtags: "#fyp, #lipsync, #uk, #cbb"
+  - username: "foodbylaila"
     fullname: >-
-      ministryofmunch
+      Food by Laila
     bio: >-
-      Street food, seafood or smoothie bowls... you can learn it all here!🍟
+      Gamer ☯︎︎Weeb ☯︎︎Foodie Manchester🐝 Mac n Cheese Recipe‼️👇🏽
     location: "United Kingdom"
-    followers: 17500
-    engagement: 903
-    commentsToLikes: 0.017354
-    id: ckb9s7ff4pb710j2379cvir26
-    verified: true
-    hashtags: "#healthy, #learnontiktok, #foryou, #munch"
+    followers: 298700
+    engagement: 991
+    commentsToLikes: 0.012471
+    id: ck8ouiq1wprnb0j78qgnb605t
+    verified: false
+    hashtags: "#foodtiktok, #macandcheese, #foodbylaila, #airfryerrecipes"
   - username: "uszyy2k"
     fullname: >-
       Uszyyy
     bio: >-
       Manchester 📍
     location: "United Kingdom"
-    followers: 4494
-    engagement: 678
-    commentsToLikes: 0.026746
+    followers: 4461
+    engagement: 781
+    commentsToLikes: 0.023786
     id: cka0r8bhifzpe0i782pcpd5qw
     verified: false
-    hashtags: "#viral, #manchester, #freestyledance, #trending"
-  - username: "jordanrtw"
-    fullname: >-
-      Jordan Scott
-    bio: >-
-      🙎🏼‍♂️Jordan🙎🏼‍♂️ 📍Manchester, UK📍 🌍 Travelling the world 🌍 💍 @Samm6794
-    location: "United Kingdom"
-    followers: 5300
-    engagement: 346
-    commentsToLikes: 0.026669
-    id: ck80oe0abh6hk0j78zu7llw7p
-    verified: false
-    hashtags: "#couplegoals, #phiphi, #animals, #australia"
-  - username: "famz7991"
-    fullname: >-
-      Fahima
-    bio: >-
-      Here to have fun and be creative Insta: fa_bakes Thank you for 13k 💕 Link👇🏽
-    location: "United Kingdom"
-    followers: 13700
-    engagement: 1146
-    commentsToLikes: 0.058257
-    id: ckb9pel7ekawi0j23jlt8sua8
-    verified: false
-    hashtags: "#food, #foodie, #smallbusiness, #cake"
+    hashtags: "#bpl, #asian, #tiktokuk, #trending"
 ---

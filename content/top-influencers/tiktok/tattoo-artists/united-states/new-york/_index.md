@@ -1,72 +1,72 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In New York in 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In New York In 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in New York in 2023. Most popular hashtags: #fyp #duet #foryoupage #tattoo.
+  Find top tattoo-artists TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #tattoo #duet.
 platform: TikTok
-hits: 7
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database has 7 TikTok influencers like this in New York, United States for you to contact.
+hits: 9
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 9 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "cithevision"
-    fullname: >-
-      Ci
-    bio: >-
-      i am goddess. #blacklivesmatter IG:cithevision be the change you want to see🦋💌
-    location: "United States"
-    followers: 4549
-    engagement: 1925
-    commentsToLikes: 0.068725
-    id: ckbf85zllyhdr0j2370d58p8a
-    verified: false
-    hashtags: "#funny, #xyzbca, #peace, #ootd"
   - username: "tattoosbyandrea"
     fullname: >-
       Andrea
     bio: >-
       Check out my IG for tattoos I’ve done!!! I’m on Long Island New York!!!
     location: "United States"
-    followers: 317100
-    engagement: 1734
-    commentsToLikes: 0.013878
+    followers: 326800
+    engagement: 1502
+    commentsToLikes: 0.010295
     id: ck8qi56m07sj30j78fkp9i060
     verified: false
-    hashtags: "#strapback, #spookyseason, #fall, #tattoos"
+    hashtags: "#greenscreen, #fyp, #tattooartist, #destinationdepop"
   - username: "kayfeenz"
     fullname: >-
       Kayfeenz
     bio: >-
       🦇New York handpoke artist/MUA🦇 Instagram.com/artbyLahh Instagram.com/Kayfeenz
     location: "United States"
-    followers: 4313
-    engagement: 678
-    commentsToLikes: 0.057111
+    followers: 4329
+    engagement: 768
+    commentsToLikes: 0.064326
     id: ckbfc0o5d4jwu0j2313ki62c9
     verified: false
-    hashtags: "#fyp, #quarantine, #tattoo, #makeup"
+    hashtags: "#tattooartist, #duet, #promlook, #promdiy"
   - username: "jhondrawvolta"
     fullname: >-
       🖋jhondrawvolta✏️
     bio: >-
       Making things with my hands for your eyes. 🛎Check out my Instagram for more🛎
     location: "United States"
-    followers: 2265
-    engagement: 974
-    commentsToLikes: 0.145234
+    followers: 2233
+    engagement: 738
+    commentsToLikes: 0.154886
     id: ckbf0gp25m4ne0j23g0sm7gfw
     verified: false
-    hashtags: "#pearls, #tiger, #tattooartist, #woman"
-  - username: "jonybarra7"
+    hashtags: "#art, #design, #tattooartist, #foryou"
+  - username: "bigtimemikee"
+    fullname: >-
+      Bigtimemikee
+    bio: >-
+      Gamer 🎮 photographer 📸 Videographer 🎥
+    location: "United States"
+    followers: 12800
+    engagement: 1156
+    commentsToLikes: 0.028023
+    id: ckb9b6uelx67g0j23j4vd4fmu
+    verified: false
+    hashtags: "#codwarzone, #warzoneclips, #modernwarfare, #2020"
+  - username: "thetatos.bar"
     fullname: >-
       Tatos.Bar
     bio: >-
-      Dallas tattooist Dancer si te gustan los Tattoos follow me on my business IG
+      🚫-18 USA SPAIN
     location: "United States"
-    followers: 15374
-    engagement: 831
-    commentsToLikes: 0.058983
+    followers: 110400
+    engagement: 799
+    commentsToLikes: 0.024236
     id: ckb0uggmtjrgy0j23ys9aeeyt
     verified: false
-    hashtags: "#followme, #dallas, #tiktok, #newyork"
+    hashtags: "#newyear2020, #duo, #xyzbca, #duet"
   - username: "unwantedling"
     fullname: >-
       Emily tifflin🦋
@@ -78,53 +78,53 @@ profiles:
     commentsToLikes: 0.017471
     id: ckbrankn0oxv00j23c60v2ovy
     verified: false
-    hashtags: "#scoobdance, #fyp, #inthehouseparty, #foryoupage"
-  - username: "devonrodriguezart"
+    hashtags: "#foryou, #eatemup, #scoobdance, #painting"
+  - username: "livcharetteofficial"
     fullname: >-
-      Devon Rodriguez
+      livcharette
     bio: >-
-      24, NYC artist 𝗜𝗚 @𝗱𝗲𝘃𝗼𝗻𝗿𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇𝗮𝗿𝘁 ⬇️MERCH⬇️
+      recording artist & tiny mic queen 👑 thank you for 100k! 💗
     location: "United States"
-    followers: 5000000
-    engagement: 1077
-    commentsToLikes: 0.005971
-    id: ckcdwelgffmha0j23gej0srt4
+    followers: 133900
+    engagement: 1203
+    commentsToLikes: 0.041747
+    id: ckd095cktbfv20j232okl2lah
     verified: true
-    hashtags: "#tiktokart, #familialatina, #tiktokpartner, #fyp"
-  - username: "alimarie.art.lady"
+    hashtags: "#onewordsongchallenge, #singingchallenge, #fidoboostchallenge, #tinymic"
+  - username: "theewavegoddess"
     fullname: >-
-      AliMarie
+      Nancy Lyn
     bio: >-
-      lady tattoo artist 🍉Level 28🍉 https://www.redbubble.com/people/SkinFlixTattoo
+      IG:TheeWaveGoddess CASHAPP:WaveBlock631 Chronic pain/illness warrior BBW Gamer
     location: "United States"
-    followers: 94300
-    engagement: 2384
-    commentsToLikes: 0.037701
-    id: ck9c01pwio0rs0j78l3br6yxf
+    followers: 39700
+    engagement: 1354
+    commentsToLikes: 0.089210
+    id: ckbes9tt9b2q80j233slbx4qq
     verified: false
-    hashtags: "#tattoosartist, #tattooartist, #tattoo, #coveruptattoo"
-  - username: "poppyrose783"
+    hashtags: "#videosnapchallenge, #duet, #thiccc, #beauty"
+  - username: "giapupia"
     fullname: >-
-      poppyrose783
+      enragedfeminist
     bio: >-
-      Tattoo artist, photographer. Iceg0dess-(GF/TTwife) 🏳️‍🌈 (L)gbt 🏳️‍🌈
+      follow my art IG: sugarfreecereal
     location: "United States"
-    followers: 5457
-    engagement: 2624
-    commentsToLikes: 0.113685
-    id: cka68dhzmodjh0i78a4v7pinx
+    followers: 10000
+    engagement: 509
+    commentsToLikes: 0.006960
+    id: ckbrb8qz3pfv40j23qlkp97k3
     verified: false
-    hashtags: "#us, #home, #stemlife, #lesbianlife"
-  - username: "gabby_gh0ul"
+    hashtags: "#voiceeffects, #lgbt, #foryou, #lesbian"
+  - username: "bluerosetattoo"
     fullname: >-
-      Gabby Gh0ul
+      LilBlueRose
     bio: >-
-      Dead Meme Queen Tattoo Artist. Cosplayer. No spam likes #blacklivesmatter 🇵🇷
+      ✒️Professional Tattoo Artist 🖋 🌬Louisville, KY💨 Witchy 💀 Woman ⚰️ Lvl28⚰️
     location: "United States"
-    followers: 9135
-    engagement: 2867
-    commentsToLikes: 0.039269
-    id: cka6lvfjn4pbv0i7816mezidx
+    followers: 72100
+    engagement: 1861
+    commentsToLikes: 0.043531
+    id: ckd5ljrnqvu7n0j23z4jclhy9
     verified: false
-    hashtags: "#junkoenoshima, #fyp, #junkochallenge, #anime"
+    hashtags: "#stitch, #tattooartist, #tattooartistsoftiktok, #tattoos"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Los Angeles in 2023
+title: Top 10 Fashion Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top fashion Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fashion #losangeles #model #style.
+  Find top fashion Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fashion #losangeles #model #photography.
 platform: Instagram
-hits: 1166
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 1166 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 1212
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 1212 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "lisslobos"
+  - username: "hellolyndon"
     fullname: >-
-      Lissette 🇲🇽
+      L Y N D O N   S M I T H
     bio: >-
-      ✈️ Commercial/Instrument rated Pilot 📍Los Angeles-San Diego
+      Actress + Advocate of Sustainable Fashion Los Angeles⁣ hellolyndonsmith@gmail.com
     location: "United States"
-    followers: 28931
-    engagement: 947
-    commentsToLikes: 0.026554
-    id: ck137zt27dtf70i195jn1qrkf
-    verified: false
-    hashtags: "#sandiego, #canon, #playa, #pilots"
-  - username: "lenoxknightofficial"
+    followers: 62189
+    engagement: 202
+    commentsToLikes: 0.051369
+    id: ck0u740ji3nl00i19ddzvv3vz
+    verified: true
+    hashtags: ""
+  - username: "peixotodust"
     fullname: >-
-      Lenox Knight
+      Jennifer Peixoto
     bio: >-
-      ⭐️ Los Angeles, CA 🎭 SAG-AFTRA Actor 🎶 Singer 💃 Dancer 🎤 Host Agent @ctatheatrical Manager @angela_durden Personal @lenoxknightlife
+      @heruniverse, @boxlunchgifts, @oliveandjune Ambassador 4’11” Fashion Los Angeles 🌅 Mental Health Advocate 💞 Fandoms. Faithtrustpeixotodust@gmail.com
     location: "United States"
-    followers: 45381
-    engagement: 462
-    commentsToLikes: 0.031242
-    id: ck5zn0a0knj7u0i14nxgwmuoj
+    followers: 18943
+    engagement: 157
+    commentsToLikes: 0.196333
+    id: ckaoxxmvwf6zm0i78c6ui92n4
     verified: false
-    hashtags: "#fall, #halloween, #fashion, #losangeles"
-  - username: "emyreyes"
+    hashtags: "#htfandom, #downtowndisney, #huambassador, #boxlunch"
+  - username: "bhavna_popli_"
     fullname: >-
-      E M Y  R  E Y E S 🇩🇴
+      𝓑𝓱𝓪𝓿𝓷𝓪🦋
     bio: >-
-      Work hard & be kind. 🦋
+      °` 🎀 𝒟𝑒𝓁𝒽𝒾 🎀 `° 𝓢𝓖𝓖𝓢𝓒𝓒 ||𝓓𝓤|| 👻- bhavnapopli15 🎂- 29 feb ♥️💯 𝐹𝒶𝓈𝒽𝒾𝑜𝓃 ||𝐹𝑜𝑜𝒹 ||𝐿𝐼𝐹𝐸𝒮𝒯𝒴𝐿𝐸
     location: "United States"
-    followers: 28280
-    engagement: 445
-    commentsToLikes: 0.102679
-    id: ck0tzqnzdr7r00i19cyunjzit
+    followers: 3300
+    engagement: 1711
+    commentsToLikes: 0.100220
+    id: ck8t1mvjqwaff0j78977hc5rh
     verified: false
-    hashtags: "#collabs, #outfits, #photography, #blogger"
-  - username: "brendahuertaa_"
+    hashtags: "#popxofashion, #cutest, #fashionista, #converse"
+  - username: "sandrazuri411"
     fullname: >-
-      Brenda Huerta
+      Sandra Zuri
     bio: >-
-      💖 @bodiesbybrenda 📍LA | Chicago 👻Snapchat | brenda8299 💌DM or Email for collabs 🎥Youtube Channel👇🏼
+      💕@SZ411adventures 📸@916.aestheticz 👑@GoddessZuri411 🌎 916, CALIFORNIA ART▪︎CARS▪︎FASHION▪︎INK
     location: "United States"
-    followers: 4286
-    engagement: 756
-    commentsToLikes: 0.184693
-    id: ck5qb3gw2jmol0i11zdvt6kak
+    followers: 5324
+    engagement: 1372
+    commentsToLikes: 0.080427
+    id: ck5q81t4q42860i111ux54kb1
     verified: false
-    hashtags: "#stylegram, #lookbook, #cute, #sections"
-  - username: "shotbyana"
+    hashtags: "#portrait, #life, #goth, #fashion"
+  - username: "courtney_lanexo"
     fullname: >-
-      LA Photographer | Ana Ochoa 📷
+      Courtney Newman 👑
     bio: >-
-      Fashion, Lifestyle & Brand Photographer📸 Social Media Manager 👑 Monthly Content Creation & Website Design ✨ www.glowyour.com 💕
+      🦋 LA Beauty + Fashion Blogger @lasmilespecialists Collabs: emailcourtneynewman@gmail.com
     location: "United States"
-    followers: 89937
-    engagement: 66
-    commentsToLikes: 0.053701
-    id: ck1349cs9vctt0i1949cex247
+    followers: 43151
+    engagement: 175
+    commentsToLikes: 0.066313
+    id: ck5c7gz6i7iqo0i11zhpejmov
     verified: false
-    hashtags: "#blacklivesmatter, #vitiligobeauty, #lamodel, #portrait"
-  - username: "theohypefilms"
+    hashtags: "#fashion, #losangeles, #ootd, #hairgoals"
+  - username: "cmyemima"
     fullname: >-
-      Theo Hype™
+      💋سيندي
     bio: >-
-      Director // DOP 🎥 #losangeles 🌴 #iconic #prolific #vision
+      👸🏻World Beauty Queen Indonesia'15 ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ 👸🏻1st RU MISS ASIA USA'16 ⠀ ⠀⠀ ⠀ ⠀⠀ 🇮🇩🇸🇬🇦🇺🇺🇸 FIDM🎓Designer @houseofcn @prestigiousmodels
     location: "United States"
-    followers: 12906
-    engagement: 298
-    commentsToLikes: 0.030948
-    id: ck0vzy2grbg1y0i19j570byew
+    followers: 35812
+    engagement: 216
+    commentsToLikes: 0.080013
+    id: ckap1tgmaw2ix0i78ai3bmrkr
     verified: false
-    hashtags: "#cinematography, #lafw, #alexamini, #joshuatree"
-  - username: "amberlijahn"
+    hashtags: "#photography, #streetstyle, #photoshoot, #modeling"
+  - username: "alexstergios"
     fullname: >-
-      Λ . JΛHN
+      Alexandra Stergios
     bio: >-
-      ———————————— God is good خلق بنفسك 𝟲 ᴡᴇᴇᴋ ʙᴏᴏᴛʏ ɢᴜɪᴅᴇ Arbonne Area Manager
+      📍LA/MX #Periodista 📽 Host @canalestrellatv 📺 12pm & 5pm @noticias62tv Cronista Deportivo⚽️🏈🏀 Nací en 🇩🇰, soy 🇲🇽 Twitter: @alexs265
     location: "United States"
-    followers: 14655
-    engagement: 314
-    commentsToLikes: 0.110387
-    id: ck9hbjaxth2zd0j7863barltq
+    followers: 81287
+    engagement: 207
+    commentsToLikes: 0.069340
+    id: ck0u6237a0ra10i19mfvmctui
     verified: false
-    hashtags: "#fit, #follow, #clothing, #influencer"
-  - username: "samanthacaudle9"
+    hashtags: "#fashion, #losangeles, #makeup, #outfit"
+  - username: "emzcurry"
     fullname: >-
-      DANCER CHOREOGRAPHER YOUTUBER
+      Emma Currington
     bio: >-
-      J Balvin, Wiz Kid, Jason Derulo, Pia Mia, Eric Bellinger, Sage the Gemini, Kalin White BOOKINGS: samanthacaudle9@gmail.com NEW FREE DANCE TUTORIAL 🔥⬇️
+      Bixby, Ok Agency: @tabbmodels • @sterlingimagesmodelandtalent • @kimdawsonagency • @avalonartists_youth Snap:emmaacurryy👻 TikTok: emmaacurryy
     location: "United States"
-    followers: 102069
-    engagement: 239
-    commentsToLikes: 0.017348
-    id: ck55ms7kz4nhm0i11nthkqf2s
+    followers: 20700
+    engagement: 244
+    commentsToLikes: 0.096465
+    id: ck8weou9lee0i0j78uus8w8ko
     verified: false
-    hashtags: "#hiphop, #style, #la, #dancing"
-  - username: "vc_makeupartist"
+    hashtags: "#strong, #chic, #scout, #hairgoals"
+  - username: "makenzie__coleman"
     fullname: >-
-      VALENTINA COSTA 𝗛𝗔𝗜𝗥 & 𝗠𝗔𝗞𝗘𝗨𝗣
+      Kenz
     bio: >-
-      𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗶𝗮𝗹.𝗧𝗩.𝗙𝗶𝗹𝗺.𝗖𝗼𝗿𝗽𝗼𝗿𝗮𝘁𝗲.𝗘𝗱𝗶𝘁𝗼𝗿𝗶𝗮𝗹.𝗥𝗲𝗱𝗖𝗮𝗿𝗽𝗲𝘁 Miami LA NYC Orlando I.A.T.S.E. 798 Licensed @WWE @FullSail Bookings + Brand Partnerships ⤵️
+      Manager || Richard DeLancy AMDA Alum She / her
     location: "United States"
-    followers: 8006
-    engagement: 496
-    commentsToLikes: 0.031218
-    id: ck15u9r4qm4a50i19kwtf1pp7
+    followers: 4391
+    engagement: 600
+    commentsToLikes: 0.058356
+    id: ckap1sveevzp70i789slp8veu
     verified: false
-    hashtags: "#celebritymakeupartist, #makeupartistworldwide, #redcarpet, #fashion"
-  - username: "surfwaveaton"
+    hashtags: "#me, #likes, #santamonica, #redhead"
+  - username: "pieri.camacho"
     fullname: >-
-      surfwav.eatn
+      PIERI
     bio: >-
-      the waviest creature 3K🏄🏽‍♂️🌊
+      BSN RN LA 📍 Management: @cylencemedia “I alone cannot change the world, but I can cast a stone across the waters to create many ripples”
     location: "United States"
-    followers: 3589
-    engagement: 1042
-    commentsToLikes: 0.085182
-    id: ck6tkmidy4zzi0j71hc1eiyiy
+    followers: 22280
+    engagement: 429
+    commentsToLikes: 0.072717
+    id: ck6tyxxui6hv30j71ajhglz2r
     verified: false
-    hashtags: "#dankmemes, #corona, #fashion, #losangeles"
+    hashtags: "#photography, #la, #ootd, #fashion"
 ---

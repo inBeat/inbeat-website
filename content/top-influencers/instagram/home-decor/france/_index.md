@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In France in 2023
+title: Top 10 Home Decor Instagram Influencers In France In 2023
 description: >-
-  Find top home decor Instagram influencers in France in 2023. Most popular hashtags: #homedecor #homesweethome #deco #decoration.
+  Find top home decor Instagram influencers in France in 2023. Most popular hashtags: #homedecor #decorationinterieur #homesweethome #deco.
 platform: Instagram
-hits: 571
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 571 Instagram influencers like this in France for you to connect with.
+hits: 655
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 655 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "audrey.lanamonamour"
-    fullname: >-
-      || Audrey & Lana ||
-    bio: >-
-      • Ma vie de maman ♾ ♡ Lana 6 ans ♡ Bébé (avril 2023) • Strasbourg, 🇫🇷 #kids #family #fashion #homedecor Lien direct 🔛
-    location: "France"
-    followers: 19795
-    engagement: 557
-    commentsToLikes: 0.176878
-    id: ck6ubxm42c9vv0j71p91zyngi
-    verified: false
-    hashtags: "#fashionaddict, #family, #weekend, #familygoals"
   - username: "soodecoo"
     fullname: >-
       S͢o͢p͢h͢i͢e͢ -  🌸 Déco
     bio: >-
       ▪️Maman de 2 petites filles 💕 ▪️Amoureuse #homedecor #inspideco #scandinavehome #decorationinterieur #decoaddict
     location: "France"
-    followers: 38319
-    engagement: 947
-    commentsToLikes: 0.082157
+    followers: 72646
+    engagement: 673
+    commentsToLikes: 0.096872
     id: ck6tmstnl8gsy0j71i6ljum51
     verified: false
-    hashtags: "#cocooning, #follow, #homeinterior, #passion4interior"
+    hashtags: "#interior2you, #decoracion, #instagram, #livingroomgoals"
+  - username: "audrey.lanamonamour"
+    fullname: >-
+      || Audrey & Lana ||
+    bio: >-
+      • Ma vie de maman ♾ ♡ Lana 6 ans ♡ Baby girl (avril 2021) • Strasbourg, 🇫🇷 #kids #family #fashion #homedecor Lien direct 🔛
+    location: "France"
+    followers: 20013
+    engagement: 498
+    commentsToLikes: 0.322321
+    id: ck6ubxm42c9vv0j71p91zyngi
+    verified: false
+    hashtags: "#mumtobe, #pregnant, #magrandefille, #mereetfille"
+  - username: "julie__homedecor"
+    fullname: >-
+      ꧁ ᴊᴜʟɪᴇ ꧂
+    bio: >-
+      💼 @maisonsdumonde Cᴏᴅᴇ ᴘʀᴏᴍᴏ @lafa_vin ♥️ -10% ᴀᴠᴇᴄ ʟᴇ ᴄᴏᴅᴇ ᴊᴜʟɪᴇ10
+    location: "France"
+    followers: 108260
+    engagement: 278
+    commentsToLikes: 0.031782
+    id: ck8t5p08iar3z0j785nw1c0hp
+    verified: false
+    hashtags: "#inspirationdeco, #christmas, #industrial, #inspiration"
   - username: "homedecorationbynae"
     fullname: >-
       HomeDecoration By NAE
     bio: >-
-      📍Rouen Conseillère en décoration d’intérieur 📩 homedecorationbynae@outlook.fr
+      🌿 Founder @naae.decoshop 🌿 Influenceurs Déco & Boutique en ligne articles de déco, bougies & lifestyle ❤️ 📍Rouen
     location: "France"
-    followers: 64920
-    engagement: 425
-    commentsToLikes: 0.023644
+    followers: 74249
+    engagement: 358
+    commentsToLikes: 0.026317
     id: ck8t9d1glnnaq0j78nkohdnf4
     verified: false
-    hashtags: "#ad, #inspiration, #madecoamoi, #maisondumonde"
-  - username: "myhome_39"
+    hashtags: "#salleamanger, #livingroomdecor, #coocooning, #decoratricedinterieur"
+  - username: "notrejolie_maison"
     fullname: >-
-      
+      Notrejolie Maison
     bio: >-
-      🌸home decor lover🏠 🌸autism mum 🧩 🌸please credit my pictures 📷 🌸no dms⛔
+      ⠀ ⠀ 👩🏽⠀•⠀Charlenne | 📍 Bretagne 🏡⠀•⠀Fin 2017 ~ 📸 #lifestyleanddeco 👩‍👦⠀•⠀Maman 💙 de 3 garçons :Swan, Eden & COME ( mes pépettes) !!!
     location: "France"
-    followers: 3336
-    engagement: 56
-    commentsToLikes: 0.000000
-    id: ck14ldt6qu6bq0i19efqjjzme
+    followers: 102840
+    engagement: 482
+    commentsToLikes: 0.093585
+    id: clas9eqi4xair0i23p92atxj8
     verified: false
-    hashtags: ""
-  - username: "julie__homedecor"
+    hashtags: "#photography, #noel, #home, #homesweethome"
+  - username: "le_petit_marius"
     fullname: >-
-      JulieHomeDecor
+      ✿ 𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒓𝒂 ✿
     bio: >-
-      💼 : @maisonsdumonde 🏡 : Propriétaires - rénovation 📍 : Reims ❤️ : @julien_castilla 👮🏻‍♂️ -10% avec le code JULIE10 ⬇️
+      𝑪𝒓𝒆𝒂𝒕𝒓𝒊𝒄𝒆 𝒅𝒆 𝒄𝒐𝒏𝒕𝒆𝒏𝒖𝒔 Famille ✽ Voyage ✽ Deco ✽ Food 𝑴𝒂𝒓𝒊𝒖𝒔 / 𝑺𝒐𝒍𝒊𝒏𝒆 / 𝑩𝒂𝒃𝒚 𝑮𝒂𝒕𝒊𝒆𝒏 ♥ Un petit bout de notre vie✨ 𝑫𝒓𝒐𝒎𝒆 🌿 📩 alexpetitmarius@gmail.com
     location: "France"
-    followers: 99841
-    engagement: 297
-    commentsToLikes: 0.018216
-    id: ck8t5p08iar3z0j785nw1c0hp
+    followers: 66507
+    engagement: 367
+    commentsToLikes: 0.240017
+    id: ckap8rgd6pjka0i78znw034dh
     verified: false
-    hashtags: "#bathroom, #industrial, #ikea, #madecoamoi"
-  - username: "cecileprz"
+    hashtags: "#jouet, #jeux, #famille, #cadeaunoel"
+  - username: "yaelle.ab"
     fullname: >-
-      Cécile
+      Yaelle 🌵
     bio: >-
-      〰 26 🍂 〰 Infirmière 🌙 〰 Montpellier 🇫🇷 ✨LIFESTYLE&GOODVIBESONLY✨
+      Lifestyle, ,Travel , Food Mum of 👧🏼👧🏼👦👶 🌍 : Toulouse ✉️ : yaelle@josephine-agency.com
     location: "France"
-    followers: 6371
-    engagement: 2443
-    commentsToLikes: 0.298256
-    id: ckaowddmk8fqh0i78yysrcvbo
+    followers: 71708
+    engagement: 343
+    commentsToLikes: 0.090446
+    id: ck5hn8y1lnev30i11rnx42h69
     verified: false
-    hashtags: "#igersfrance, #disney, #disneylandparis, #latergram"
-  - username: "_marine_____"
+    hashtags: "#humour, #postpartumbody, #homedecor, #fashion"
+  - username: "louisegrdd"
     fullname: >-
-      M a r i n e 🐚  Mama to be
+      Louise 🧿
     bio: >-
-      • Dailyℒife, Family, Déco • ℋeureuse ℳaman de bientôt trois Amours, ♀ℳila ~ 6 ans ♂ ℘ablo ~ 2 ans ♡ ℬébé 2o2o Souvenirs de nos jolis moments 🕊
+      Paris ✉️ : louisegrdd.journey@gmail.com Tiktok : louisegrdd Represented by @journey.std Co-founder of @perleetporcelaine
     location: "France"
-    followers: 41160
-    engagement: 560
-    commentsToLikes: 0.116520
-    id: ck55nbdpf5uv50i1182mywcd2
+    followers: 59239
+    engagement: 631
+    commentsToLikes: 0.049228
+    id: ck5cjseksvemn0i11tamwo6g7
     verified: false
-    hashtags: "#evolutionbebe, #saca, #home, #bebebonheur"
+    hashtags: "#summeroutfit, #ootdpost, #neutralstyle, #fashionpost"
+  - username: "charlene_rso"
+    fullname: >-
+      Charlène Russo
+    bio: >-
+      💗 Mum of Neela & Lénéa 🧸 📍#Lyonnaise, fr ✉️ Contact: scarpinabeauty@gmail.com
+    location: "France"
+    followers: 30620
+    engagement: 247
+    commentsToLikes: 0.047035
+    id: ck5hn8pbyneeu0i11wbed0d98
+    verified: false
+    hashtags: "#mode, #ootd, #fashionstyle, #amour"
   - username: "frenchstyle.agi"
     fullname: >-
       a g a 🕊
     bio: >-
       all about minimal looks and mediterranean lifestyle 📍French Riviera based 📩agnieszka.buldak@gmail.com
     location: "France"
-    followers: 19531
-    engagement: 542
-    commentsToLikes: 0.085539
+    followers: 21938
+    engagement: 286
+    commentsToLikes: 0.090120
     id: ck5hjjrn7gr5m0i111cl5jhoo
     verified: false
-    hashtags: "#scandilove, #frenchrivieralife, #inspocafe, #goldenhourlight"
-  - username: "le.monde.de.mia"
-    fullname: >-
-      𝑳𝒆́𝒂 🌾
-    bio: >-
-      𝚄𝚗𝚎 𝚖𝚊𝚖𝚊𝚗 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚗𝚎́𝚎 𝚍𝚎 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚒𝚎 📸 𝙼𝚒𝚊, 𝟷𝟾 𝚖𝚘𝚒𝚜 🤍 𝟾 𝚊𝚗𝚜 𝚍’𝚊𝚖𝚘𝚞𝚛
-    location: "France"
-    followers: 7211
-    engagement: 825
-    commentsToLikes: 0.219854
-    id: ck9wfkkd2p9440j78ki6nvqfg
-    verified: false
-    hashtags: "#canon, #decoration, #goodnight, #mamanblogueuse"
-  - username: "madebyceylan"
-    fullname: >-
-      C E Y L A N • Y I L M A Z
-    bio: >-
-      Fashion, beauty, lifestyle 🐾 @mbc_vannes VANNES | ✉️ madebyceylan@gmail.com
-    location: "France"
-    followers: 93796
-    engagement: 213
-    commentsToLikes: 0.100176
-    id: ck138fsoxg0zz0i19rbvdvs40
-    verified: false
-    hashtags: "#outfit, #bozine, #homedecor, #autumnvibes"
+    hashtags: "#decosalon, #scandiinspo, #sezaneaddict, #modeaparis"
 ---

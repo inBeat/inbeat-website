@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Germany in 2023
+title: Top 10 Guitar TikTok Influencers In Germany In 2023
 description: >-
-  Find top guitar TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #guitar #foryou #fy.
+  Find top guitar TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #guitar #foryou #music.
 platform: TikTok
-hits: 25
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 25 TikTok influencers like this in Germany for you to collaborate.
+hits: 30
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 30 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "anthonysuntiago"
     fullname: >-
@@ -13,36 +13,48 @@ profiles:
     bio: >-
       -Musician- I’m doing POV’s using sounds!✌️ IG📷AnthonySuntiago 👻Anthonypharao
     location: "Germany"
-    followers: 46400
-    engagement: 2228
-    commentsToLikes: 0.033149
+    followers: 45200
+    engagement: 2432
+    commentsToLikes: 0.010909
     id: ckck27olkljzv0j23dfykrhsn
     verified: false
     hashtags: "#fy, #guitar, #music, #pov"
-  - username: "vintageena"
+  - username: "philipp_dittberner"
     fullname: >-
-      vintageena
+      Philipp Dittberner
     bio: >-
-      ceo of creating 🌻 follow my insta 📸 NEW VIDEO 👇
+      Auch auf Twitch ! FOLG MIR ✌🏻
     location: "Germany"
-    followers: 2372
-    engagement: 1566
-    commentsToLikes: 0.031423
-    id: ckbf9bu8c03yj0j23wqe9d6zf
-    verified: false
-    hashtags: "#selfportraits, #berlin, #photography, #singing"
+    followers: 116400
+    engagement: 1236
+    commentsToLikes: 0.020544
+    id: ckce1yc63iho10j23mh5jp8qn
+    verified: true
+    hashtags: "#zur, #fifa21, #viral, #foryou"
   - username: "nicolecrossmusic"
     fullname: >-
       nicolecrossmusic
     bio: >-
-      My name is Nicole, I’m 26 and from Germany 🇩🇪 Singing is my passion 🎤
+      My name is Nicole, I’m 27 and from Germany 🇩🇪 Singing is my passion 🎤
     location: "Germany"
-    followers: 33300
-    engagement: 992
-    commentsToLikes: 0.020932
+    followers: 32800
+    engagement: 896
+    commentsToLikes: 0.019786
     id: ck9rk71o8ritp0j78gt1qq6i9
     verified: true
-    hashtags: "#coversong, #covergirl, #musiccover, #viral"
+    hashtags: "#piano, #viral, #coversong, #acoustic"
+  - username: ".iamnadaw"
+    fullname: >-
+      Nadaw Albilia
+    bio: >-
+      🙋🏻‍♂️🤷🏻‍♂️ stay positive and happy and if you aren't....here's some joy✨
+    location: "Germany"
+    followers: 18400
+    engagement: 350
+    commentsToLikes: 0.035033
+    id: ckcdmprbgacoj0j23j6gnhqhz
+    verified: false
+    hashtags: "#viral, #guitar, #foryoupage, #girlfriend"
   - username: "leonderino"
     fullname: >-
       Leon Derino
@@ -54,77 +66,65 @@ profiles:
     commentsToLikes: 0.018265
     id: ck8os1r1neurh0j786i1mhu3u
     verified: false
-    hashtags: "#meme, #foryou, #fyp, #crazy"
+    hashtags: "#nintendo, #xyzbca, #foryou, #lego"
+  - username: "ruanomano"
+    fullname: >-
+      Ruano Mano
+    bio: >-
+      🇵🇭
+    location: "Germany"
+    followers: 3576
+    engagement: 1496
+    commentsToLikes: 0.040703
+    id: ckbbhrnd66bco0j23ybt6sdgd
+    verified: false
+    hashtags: "#foryou, #parkour, #freerunning, #duett"
+  - username: "noraincoats"
+    fullname: >-
+      ella<3
+    bio: >-
+      she/her singer & songwriter Blm-> Donate by watching ads
+    location: "Germany"
+    followers: 152300
+    engagement: 1316
+    commentsToLikes: 0.100670
+    id: ck8ncg59jeawm0j78dppry7yu
+    verified: true
+    hashtags: "#mlb, #makeup, #heylol, #lgbt"
+  - username: "mikasetzer"
+    fullname: >-
+      Mika Setzer
+    bio: >-
+      Actually I sing 🙃 Check out my new single Slow Motion 🎶⬇️
+    location: "Germany"
+    followers: 34200
+    engagement: 1189
+    commentsToLikes: 0.029169
+    id: ckc8x6pggkxvc0j23c2ffqt0w
+    verified: true
+    hashtags: "#foryou, #hairholiday, #slowmotion, #newsong"
+  - username: "kevwithin"
+    fullname: >-
+      Kevin 
+    bio: >-
+      New Tutorial on YouTube 🔝 kevwithin@web.de
+    location: "Germany"
+    followers: 1900000
+    engagement: 437
+    commentsToLikes: 0.041942
+    id: ck9rk08kjqn830j78kmpi6xtp
+    verified: true
+    hashtags: "#fyp, #drawing, #piano, #tutorial"
   - username: "kenetiapa"
     fullname: >-
       KJ Apa
     bio: >-
-      🇼🇸🇳🇿
+      🇼🇸🇳🇿 personal account
     location: "Germany"
-    followers: 80900
-    engagement: 2287
-    commentsToLikes: 0.014774
+    followers: 79100
+    engagement: 2321
+    commentsToLikes: 0.013596
     id: ck83zai9jz5ch0j784o3cto0a
     verified: false
-    hashtags: "#riverdale, #exploringtheworld, #fyp, #boredinthehouse"
-  - username: "lenasicks"
-    fullname: >-
-      🎵✨Lena Sicks✨🎵
-    bio: >-
-      🌹singer 📍Germany Instagram: lenasicks
-    location: "Germany"
-    followers: 70600
-    engagement: 1431
-    commentsToLikes: 0.037438
-    id: ckbaf4b7d792g0j23tdu6wwoi
-    verified: false
-    hashtags: "#germany, #foryou, #goviral, #fyp"
-  - username: "kayefofficial"
-    fullname: >-
-      kayefofficial
-    bio: >-
-      Sänger/Rapper, 25, Düsseldorf ICH WÜRD LÜGEN OUT NOW!
-    location: "Germany"
-    followers: 209100
-    engagement: 1409
-    commentsToLikes: 0.012376
-    id: ck9m4hrrkkc8v0j78put74nmu
-    verified: true
-    hashtags: "#ichw, #egalwiesp, #warum, #kayef"
-  - username: "thetrollzor"
-    fullname: >-
-      thetrollzor
-    bio: >-
-      Leon, 19 Jahre Hufflepuff 🦡🟡 IG: thetrollzor 📷 E-Mail: leon.auvray@gmail.com
-    location: "Germany"
-    followers: 89900
-    engagement: 1538
-    commentsToLikes: 0.026150
-    id: ckbbumx8qi32f0j236smbrar6
-    verified: false
-    hashtags: "#fyp, #stimme, #jungs, #voice"
-  - username: "ginoofficial"
-    fullname: >-
-      Gino
-    bio: >-
-      ✌️Wilkommen✌️ 📷Instagram: ginoginelli95📷 👻snap: ginodino95👻 🔵Bavaria🔵 🍄
-    location: "Germany"
-    followers: 8021
-    engagement: 564
-    commentsToLikes: 0.102165
-    id: cka841mxbrkat0i78tzhaujuz
-    verified: false
-    hashtags: "#cosmicfail, #vibes, #emotion, #fyp"
-  - username: "schmemes"
-    fullname: >-
-      schmemes
-    bio: >-
-      HIT OR MISS I GUESS I DAB DREAMIN BOUT LADIES AND GENTS WE GOTEM
-    location: "Germany"
-    followers: 23100
-    engagement: 1042
-    commentsToLikes: 0.034878
-    id: ckbvxmwhwusmo0j23nuzmac2g
-    verified: false
-    hashtags: "#duet, #meme, #song, #tiktok"
+    hashtags: "#likeandsubscribe, #lol, #covid19, #goingcrazy"
 ---

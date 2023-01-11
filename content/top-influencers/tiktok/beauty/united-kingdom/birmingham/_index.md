@@ -1,24 +1,12 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Birmingham in 2023
+title: Top 10 Beauty TikTok Influencers In Birmingham In 2023
 description: >-
-  Find top beauty TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #beauty #makeup #birmingham.
+  Find top beauty TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #foryou #duet #birmingham.
 platform: TikTok
 hits: 4
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 4 TikTok influencers like this in Birmingham, United Kingdom for you to contact.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 4 TikTok influencers like this in Birmingham, United Kingdom for you to work with.
 profiles:
-  - username: "tasmina_khan"
-    fullname: >-
-      Tasmina Khan
-    bio: >-
-      📸 @tasmina_khan 👻 @tasmina_khan
-    location: "United Kingdom"
-    followers: 3859
-    engagement: 450
-    commentsToLikes: 0.038069
-    id: ckamyj9tshue40i78hp6rql3c
-    verified: false
-    hashtags: "#viral, #bengali, #trending, #friends"
   - username: "pilotaadikhan"
     fullname: >-
       Aadi Khan
@@ -30,101 +18,113 @@ profiles:
     commentsToLikes: 0.029094
     id: cka0tng9sqlud0i78o3m7g89v
     verified: false
-    hashtags: "#luton, #birmingham, #tiktokglobal, #airlinepilot"
-  - username: "ibabthekebab"
+    hashtags: "#uae, #pakistani, #peshawar, #india"
+  - username: "muhammadirfan934"
     fullname: >-
-      Ibabthekebab
+      Muhammad Irfan
     bio: >-
-      London Yuh Pakistani Yuh
+      living in 🇬🇧 . ( Allah oh akbaar☝️)
     location: "United Kingdom"
-    followers: 10100
-    engagement: 1435
-    commentsToLikes: 0.078488
-    id: ckdnbs1h9gfzg0j23synovgom
+    followers: 60700
+    engagement: 121
+    commentsToLikes: 0.012859
+    id: ck8add2ip59ia0j7829vw2mmi
     verified: false
-    hashtags: "#trend, #dajjal, #makkah, #hijab"
-  - username: "justurlittleasianfriend"
+    hashtags: "#barber, #muhammadirfan934, #accidents, #barbershop"
+  - username: "tasmina_khan"
     fullname: >-
-      UrLittleAsianFriend
+      Tasmina Khan
     bio: >-
-      Click on the camera icon for a surprise 👆🏼 Follow me on Depop👇🏼💕
+      📸 @tasmina_khan 👻 @tasmina_khan
     location: "United Kingdom"
-    followers: 43300
-    engagement: 1529
-    commentsToLikes: 0.023060
-    id: ck92x2w5awxhf0j78ijyvn6ix
+    followers: 3965
+    engagement: 511
+    commentsToLikes: 0.029903
+    id: ckamyj9tshue40i78hp6rql3c
     verified: false
-    hashtags: "#makeup, #sats, #tips, #studying"
+    hashtags: "#harrods, #birthday, #valentinesday2021, #food"
+  - username: "sukhikoonerjatti"
+    fullname: >-
+      Sukhi Kaur Kooner ❤️
+    bio: >-
+      -JATTI💕 -Cardiff🇬🇧 @sukhikooner_beauty
+    location: "United Kingdom"
+    followers: 29800
+    engagement: 1726
+    commentsToLikes: 0.071607
+    id: cka0zbd5ees2y0i784kx6qxhn
+    verified: false
+    hashtags: "#fyp, #uttrakhand, #jatt, #cardiff"
   - username: "local_bitch_0"
     fullname: >-
       💞✨jophie + liper✨💞🥺
     bio: >-
       Beauty’s in all shapes and sizes 🥺❤️ I’m taken so bye ❤️
     location: "United Kingdom"
-    followers: 60500
-    engagement: 1932
-    commentsToLikes: 0.174876
+    followers: 59900
+    engagement: 1789
+    commentsToLikes: 0.137539
     id: ckae85htwkce70i78gwi5u0a3
     verified: false
     hashtags: "#duet"
-  - username: "softieglows"
+  - username: "unicorncosmetics"
     fullname: >-
-      brooke <33
+      UC
     bio: >-
-      77k beauty’s!! insta: sxftieglows email: brookebranna@gmail.com i love you!! <3
+      WE ARE UC, a little team of 4 🎨 🌈👸🏼💗👏🏼💕 Beauty is our biggest passion!
     location: "United Kingdom"
-    followers: 77000
-    engagement: 2956
-    commentsToLikes: 0.060764
-    id: ck9eykecyw9hf0j78xbxuhzki
+    followers: 25200
+    engagement: 1368
+    commentsToLikes: 0.072661
+    id: ck8fbxbat5b4o0j78fjhkohvb
     verified: false
-    hashtags: "#skincare, #mylevismyvibe, #viral, #fyp"
-  - username: "beautybay"
+    hashtags: "#loosepigment, #indiebrand, #ucunboxing, #unicorncosmetics"
+  - username: "loveinglife5"
     fullname: >-
-      BEAUTYBAY
+      @ loveing _ life .
     bio: >-
-      We are BEAUTY BAY 👋🏻 Sharing our beauty obsessions with the world ⚡️💜
+      🌈Beauty is Everywhere 🕊 One 🌎one ❤ 🙏😃Be kind 🌃
     location: "United Kingdom"
-    followers: 43400
-    engagement: 2156
-    commentsToLikes: 0.164335
-    id: ck8nhsf0l2dm70j780178s5ex
-    verified: true
-    hashtags: "#skincare, #fyp, #makeupchallenge, #eyeshadow"
-  - username: "andrijanaukm"
-    fullname: >-
-      Adriana
-    bio: >-
-      Follow my Instagram💕👆🏻 FASHION👗BEAUTY✨TRAVEL✈️ 🇬🇧🇹🇩🌈 HETEROCHROMIA EYES
-    location: "United Kingdom"
-    followers: 126300
-    engagement: 1817
-    commentsToLikes: 0.030147
-    id: ckd0eselhdhnm0j23ekfmouz3
+    followers: 2437
+    engagement: 1204
+    commentsToLikes: 0.533532
+    id: ckb1ajyidyw8q0j23qmlcvcdz
     verified: false
-    hashtags: "#howtostyleoutfits, #outfits, #autumnfashion, #emojioutfits"
+    hashtags: ""
   - username: "sukhikoonerjatti"
     fullname: >-
-      Sukhi Kaur Kooner
+      Sukhi Kaur Kooner ❤️
     bio: >-
       -JATTI💕 -Cardiff🇬🇧 @sukhikooner_beauty
     location: "United Kingdom"
-    followers: 28500
-    engagement: 1849
-    commentsToLikes: 0.058864
+    followers: 29800
+    engagement: 1726
+    commentsToLikes: 0.071607
     id: cka0zbd5ees2y0i784kx6qxhn
     verified: false
-    hashtags: "#kooner, #foryoupage, #pbx1, #pb07"
+    hashtags: "#fyp, #uttrakhand, #jatt, #cardiff"
   - username: "spectrumcollections"
     fullname: >-
       Spectrum Collections
     bio: >-
-      British Beauty Brand 💖 We design the tools, you create Beauty ✨ 🌿 Vegan & CF
+      British Beauty Brand💖 We design the tools, you create beauty✨ 🌿Vegan & CF🐰
     location: "United Kingdom"
-    followers: 19100
-    engagement: 1863
-    commentsToLikes: 0.102526
+    followers: 20500
+    engagement: 1709
+    commentsToLikes: 0.106902
     id: ck8f7g6cu31d40j78gzyejq82
     verified: false
-    hashtags: "#makeupbrushes, #pantherinepalette, #halloween, #eyeshadowswatches"
+    hashtags: "#macrofying, #spectrumcollections, #thelittlemermaid, #disneyfans"
+  - username: "official_lotti_ignite"
+    fullname: >-
+      Lotti🖤🔥🧡
+    bio: >-
+      🧡🔥Ignite🔥🧡 #Beautywithconfidence🖤 💖SingleMumToBe💙 🖤🧡DA/DV Survivor🧡🖤
+    location: "United Kingdom"
+    followers: 32200
+    engagement: 1598
+    commentsToLikes: 0.181951
+    id: ck8ae8p69atkz0j78i1dlyl6y
+    verified: false
+    hashtags: "#foryou, #bossit2021, #naiisangels, #weareignite"
 ---

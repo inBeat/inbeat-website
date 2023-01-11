@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In United Arab Emirates in 2023
+title: Top 10 Skincare TikTok Influencers In United Arab Emirates In 2023
 description: >-
-  Find top skincare TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #skincare #fyp #foryou #foryoupage.
+  Find top skincare TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #fyp #skincare #foryoupage #foryou.
 platform: TikTok
-hits: 22
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 22 TikTok influencers like this in United Arab Emirates for you to pitch.
+hits: 23
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 23 TikTok influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "aaminahh.221"
+  - username: "itsm.11_"
     fullname: >-
-      Aaminah
+      Maitha
     bio: >-
-      snap: aaminahh2626 AbuDhabi
+      Snap: itsm-2 11/12 🎈 Food lover and Love to cook 👩🏻‍🍳 Makeup / skincare💕
     location: "United Arab Emirates"
-    followers: 8712
-    engagement: 2549
-    commentsToLikes: 0.123365
-    id: ckavqv9wi2jie0j23bkgj8e3z
+    followers: 137300
+    engagement: 633
+    commentsToLikes: 0.018132
+    id: ckc7h6kz1pl5e0j23mhuq4rot
     verified: false
-    hashtags: "#foryou, #foryoupage, #foru, #indie"
-  - username: "steffie_neve"
-    fullname: >-
-      Steffie_Neve
-    bio: >-
-      Photographer. Dane. Living in Dubai. Instagram: @steffieneve
-    location: "United Arab Emirates"
-    followers: 8822
-    engagement: 1430
-    commentsToLikes: 0.036873
-    id: ckad5op55vthj0i78kx7qy646
-    verified: false
-    hashtags: "#skincare, #foryou, #fyp, #newtiktok"
-  - username: "scrub_bebes"
+    hashtags: "#yasalamyadubai, #glowup, #eating, #food"
+  - username: "scrub_babes"
     fullname: >-
       𝕊𝕔𝕣𝕦𝕓𝕤シ💗
     bio: >-
-      Not adding members rn❥ 𝚁𝚘𝚊𝚍 𝚝𝚘 30𝚔⚡️ 𝙽𝚘 𝚏𝚊𝚌𝚎 𝚛𝚎𝚟𝚎𝚊𝚕💕
+      ❥𝚊𝚍𝚍𝚒𝚗𝚐 𝚊𝚝𝟹𝟶𝚔❥ ⚡️𝚁𝚘𝚊𝚍 𝚝𝚘 𝟸6𝚔⚡️ 💕𝙽𝚘 𝚏𝚊𝚌𝚎 𝚛𝚎𝚟𝚎𝚊𝚕💕
     location: "United Arab Emirates"
-    followers: 25300
-    engagement: 1836
-    commentsToLikes: 0.030728
+    followers: 24400
+    engagement: 1740
+    commentsToLikes: 0.025647
     id: ckbf2sbjiq0t50j2332rnfo6x
     verified: false
-    hashtags: "#scrub, #foryoupage, #explore, #foryou"
+    hashtags: "#fyp, #fypp, #viral, #foryoupage"
   - username: "isabelle_sk"
     fullname: >-
       Isabelle.sk
     bio: >-
       Fashion/ beauty /travel 🇦🇪 to the world Instagram @isabelle.sakaian
     location: "United Arab Emirates"
-    followers: 44900
-    engagement: 246
-    commentsToLikes: 0.037615
+    followers: 44000
+    engagement: 238
+    commentsToLikes: 0.037732
     id: ckb9extlz31b70j23z88zgzew
     verified: false
-    hashtags: "#beauty, #dubai, #skincare, #skincareroutine"
-  - username: "thereeofficial"
-    fullname: >-
-      🌻THE REE OFFICIAL🌻
-    bio: >-
-      ضيفوني عل follow my snap سناب⏬ insta انستا⏬ 💋@thereeofficial💋
-    location: "United Arab Emirates"
-    followers: 72700
-    engagement: 303
-    commentsToLikes: 0.079254
-    id: ckbf39shcqzc30j23wpfdkmbj
-    verified: false
-    hashtags: "#reebeauty, #makeup, #explore, #glambyree"
-  - username: "hudabeauty"
-    fullname: >-
-      Huda Beauty💄
-    bio: >-
-      IG & YT & SC: Hudabeauty
-    location: "United Arab Emirates"
-    followers: 2600000
-    engagement: 1146
-    commentsToLikes: 0.010130
-    id: ck7zoyq16mhvf0j78gf537m60
-    verified: true
-    hashtags: "#foryoupage, #asmr, #beauty, #foryourpage"
-  - username: "beautybuttonapp"
-    fullname: >-
-      Beauty Button App
-    bio: >-
-      All things BEAUTY & WELLNESS related ✨
-    location: "United Arab Emirates"
-    followers: 5217
-    engagement: 411
-    commentsToLikes: 0.064205
-    id: ckbqepzxk0gzc0j236b5ou14e
-    verified: false
-    hashtags: "#hairstyle, #makeuphacks, #beautysecrets, #wap"
+    hashtags: "#isabellesk, #fashion, #fyp, #tiktoktravel"
   - username: "sophiekatirai"
     fullname: >-
       sophie
     bio: >-
-      Sophie💄صوفي Makeup & Beauty 📍Dubai 🇦🇪
+      Sophie 💖 صوفي AR Makeup Artist and Filter Creator Try my filters on IG @sophie
     location: "United Arab Emirates"
-    followers: 11600
-    engagement: 427
-    commentsToLikes: 0.018911
+    followers: 12200
+    engagement: 542
+    commentsToLikes: 0.027909
     id: ckbf39t05qzg70j23r4sexbv8
     verified: false
-    hashtags: "#viral, #makeuptutorial, #makeup, #catfishchallenge"
-  - username: "wadomy_al7"
+    hashtags: "#tiktokdubai, #fashiontok, #kyliexgrinch, #makeup"
+  - username: "mridulmadhhok_"
     fullname: >-
-      ✧･ﾟ: *✧･ﾟ:* *:･ﾟ
+      MridulMadhok
     bio: >-
-      800k reasons to smile ♡ Snap? Wadomy_al7 🦋
+      No bio yet
     location: "United Arab Emirates"
-    followers: 878800
-    engagement: 1520
-    commentsToLikes: 0.052776
-    id: ckc8x4qn5kuvy0j23n7o2svof
+    followers: 68300
+    engagement: 477
+    commentsToLikes: 0.014707
+    id: ckdn6y6s2exej0j237nafrck7
     verified: false
-    hashtags: "#facepaint, #skincare, #routine, #sisters"
+    hashtags: ""
+  - username: "bunch_a_tingz4you"
+    fullname: >-
+      ☆ Your If You ☆
+    bio: >-
+      🌌 Your if you 🌌 ✨ Goal : 52.6K ✨ 🌌 BLM , MLM 🌌 ✨You Look Lost Follow Me
+    location: "United Arab Emirates"
+    followers: 52000
+    engagement: 1899
+    commentsToLikes: 0.076340
+    id: ckd6z5fdnxvj50j23ksfoadfi
+    verified: false
+    hashtags: "#girls, #fyp, #foryoupage, #yourifyou"
   - username: "annabell_newman"
     fullname: >-
       Annabell Newman
     bio: >-
       Instagram: @Annabell_Newman Youtube: Annabell Newman 🏠 London, UK 📍Dubai, UAE
     location: "United Arab Emirates"
-    followers: 80100
-    engagement: 1200
-    commentsToLikes: 0.065757
+    followers: 166600
+    engagement: 975
+    commentsToLikes: 0.075204
     id: ckaclkmzifxfw0i7893ub26ow
+    verified: true
+    hashtags: "#pov, #couple, #makeuptutorial, #dubai"
+  - username: "artist.hend"
+    fullname: >-
+      Hend | هند
+    bio: >-
+      youtube & Instagram👆🏻 @artist.reem When the sunshine we shin together 🤍 _____
+    location: "United Arab Emirates"
+    followers: 10400
+    engagement: 1479
+    commentsToLikes: 0.042177
+    id: ckb92uob9jdam0j233xcicsk4
     verified: false
-    hashtags: "#vlog, #couple, #prank, #prankwars"
+    hashtags: "#explore, #fyp, #follow, #foryou"
+  - username: "steffie_neve"
+    fullname: >-
+      Steffie_Neve
+    bio: >-
+      Photographer. Dane. Living in Dubai. Instagram: @steffieneve
+    location: "United Arab Emirates"
+    followers: 8618
+    engagement: 1267
+    commentsToLikes: 0.037310
+    id: ckad5op55vthj0i78kx7qy646
+    verified: false
+    hashtags: "#foryoupage, #tiktokuae, #newtiktok, #fyp"
+  - username: "so.haila"
+    fullname: >-
+      سوهايلة🌿
+    bio: >-
+      Editing tutorials 📱🌸 Subscribe me on YouTube 👇🏻
+    location: "United Arab Emirates"
+    followers: 6527
+    engagement: 568
+    commentsToLikes: 0.059869
+    id: ckbeym99sj4ou0j23iuj5jbn8
+    verified: false
+    hashtags: "#foryou, #foryoupage, #explore, #number1"
 ---

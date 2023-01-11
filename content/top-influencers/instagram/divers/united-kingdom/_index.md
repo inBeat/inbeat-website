@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In United Kingdom in 2023
+title: Top 10 Divers Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top divers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #love #wearediversity #equality #blm.
+  Find top divers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #love #fitnessmotivation #reels.
 platform: Instagram
-hits: 233
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 233 Instagram influencers like this in United Kingdom for you to work with.
+hits: 176
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 176 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "leenaalfishawyofficial"
+  - username: "vampuk"
     fullname: >-
-      LEENA FAROUK ALFISHAWY
+      VAMP
     bio: >-
-      16!❤️🇪🇬Actor,Singer,Writer,Diver & dancer #detailerTM @imperfectbyemm😍use code leenaalfishawyofficial50 for $ off for @bijouxlove.fr
+      • Digital Talent & Entertainment PR Agency aiding brands in authentically diversifying content and maximising reach. • @vampnetwork | @unheardnetwork
     location: "United Kingdom"
-    followers: 51679
-    engagement: 468
-    commentsToLikes: 0.050695
-    id: ckap6agsvf2tq0i78hyrj98qg
+    followers: 13736
+    engagement: 411
+    commentsToLikes: 0.031358
+    id: ckprgr6if81xo0j23d0bh2tua
     verified: false
-    hashtags: "#leenaalfishawy, #hindelhinnawy, #family, #love"
+    hashtags: "#vamppr, #wakandaforever, #vampfamily, #pressedpodcast"
   - username: "rosshaslam"
     fullname: >-
       ROSS HASLAM
     bio: >-
-      Sheffield•GB Diver @nurokor ⚡ @w_modelmgmt for enquiries contact craig@wmodel.co.uk
+      Sheffield • GB Diver 🇬🇧 @nurokor ⚡ @scienceinsport 🍎 @w_modelmgmt 👉 craig@wmodel.co.uk
     location: "United Kingdom"
-    followers: 43294
-    engagement: 812
-    commentsToLikes: 0.016031
+    followers: 46718
+    engagement: 809
+    commentsToLikes: 0.015460
     id: ck6u0et9yf9y20j71rbaojvga
     verified: false
-    hashtags: "#oneplusnord, #oneplus, #oneplusuk, #shotononeplus"
-  - username: "georgiaalewiss"
-    fullname: >-
-      Georgia Lewis
-    bio: >-
-      You can’t put a time limit on creativity ♡ My @diversity_official family✌🏽 Come learn with us on @20dvofficial ! Tik tok-geolewis
-    location: "United Kingdom"
-    followers: 9674
-    engagement: 1079
-    commentsToLikes: 0.032364
-    id: ck5hixsxqfnp20i11il065bq3
-    verified: false
-    hashtags: "#gocrazychallenge, #fitness, #coppafeel, #moodswings"
+    hashtags: "#instafit, #workout, #training, #fitness"
   - username: "4cchronicles"
     fullname: >-
       4C • C H R O N I C L E S
     bio: >-
       👩🏾‍🔬💊 A journey of Health&Growth | 🇬🇧 Celebrating 4C diversity 📧 4cchronicles@gmail.com
     location: "United Kingdom"
-    followers: 17667
-    engagement: 446
-    commentsToLikes: 0.059481
+    followers: 17436
+    engagement: 462
+    commentsToLikes: 0.070542
     id: ck15sl11ldjk00i19fh7g2geh
     verified: false
-    hashtags: "#washday, #washdayroutine, #afrobun, #explorepage"
-  - username: "gazawiyaaa"
+    hashtags: "#marleytwist, #braidout, #flexirods, #twists"
+  - username: "francescabanjo"
     fullname: >-
-      💍🌹 غيداء رمضان       Doctor
+      Francesca Banjo
     bio: >-
-      Surgeon in the making 💉 @Nike Girl Business Owner Scuba Diver Equestrian JL 🤍💍
+      ▪️Wife❤️ ▪️Mummy to Rose & Micah 👨‍👩‍👧‍👦 ▪️Professional Husband organiser 👩🏼‍💻 ▪️enquiries- info@diversitydance.co.uk
     location: "United Kingdom"
-    followers: 39513
-    engagement: 569
-    commentsToLikes: 0.024212
-    id: ck6tqe267qwwz0j7127oss489
+    followers: 97955
+    engagement: 651
+    commentsToLikes: 0.012192
+    id: ck13d4tjf3osz0i19jdjuu3nd
     verified: false
-    hashtags: "#internationalwomensday, #blacklivesmatter"
-  - username: "hodhenliaden"
+    hashtags: "#micahdiaries, #rosiediaries, #family, #familytime"
+  - username: "morganplom_"
     fullname: >-
-      60lbs⬇️🙋🏾‍♀️
+      Morgan Plom
     bio: >-
-      👸🏾Founder of @thedarkskinsisters @dffgclub @deardivorcedgirl 📸 Diversity & Womens campaigner 💻 Hodhenliaden@gmail.com
+      📍London DM/Email for teaching workshops 💫 Diversity’s ‘Connected’ tour tickets below👇🏼
     location: "United Kingdom"
-    followers: 47803
-    engagement: 311
-    commentsToLikes: 0.036038
-    id: ck6ucn1gegjr80j71w15torku
+    followers: 10650
+    engagement: 574
+    commentsToLikes: 0.031029
+    id: ck5hixxclfnve0i11awrjv8lk
     verified: false
-    hashtags: "#weightlossjourney, #clinique, #weightlosstransformation, #weightloss"
-  - username: "adam_mckop"
+    hashtags: "#dancechallenge, #dancersofinstagram, #dancereels, #gifted"
+  - username: "alettrich"
     fullname: >-
-      Adam McKop
+      ALEX 🐚 LETTRICH
     bio: >-
-      Member @its_dvjofficial Dance with @diversity_official Dream•Believe•Achieve Diversity Connected Tour Tickets 👇🏾👇🏾👇🏾👇🏾
+      If you're not barefoot then you're overdressed diver | nurtured by nature ZA + FL ☼ team @diver.usa @rawelementsusa ✉️ lettrichalex@gmail.com
     location: "United Kingdom"
-    followers: 9630
-    engagement: 868
-    commentsToLikes: 0.016658
-    id: ck6u80y59osow0j71twtcqsoz
+    followers: 47542
+    engagement: 515
+    commentsToLikes: 0.029486
+    id: ck0twdknxf0x80i19g1m9xaqt
     verified: false
-    hashtags: "#justice, #blm, #wearediversity, #equality"
-  - username: "pulpriot.uk"
-    fullname: >-
-      Pulp Riot UK
-    bio: >-
-      We want to celebrate artist’s work from every background to create a better, more inclusive, diverse world. #pulpriotuk #pulpriotdiversity
-    location: "United Kingdom"
-    followers: 39952
-    engagement: 259
-    commentsToLikes: 0.017899
-    id: ck6tu91bbezs80j71c7nw1auq
-    verified: false
-    hashtags: "#pulpriothair, #hauntedhair, #pulpriotdiversity, #halloweenhair"
-  - username: "tmhgram"
-    fullname: >-
-      Theo
-    bio: >-
-      16, Videographer, media editor, animator, photographer, dancer. 7 UK tours with Diversity. ADHD and autism
-    location: "United Kingdom"
-    followers: 13655
-    engagement: 480
-    commentsToLikes: 0.026726
-    id: ck6u80wqvoshd0j71nnhzkpg6
-    verified: false
-    hashtags: "#love, #bolingp1, #canon600d, #justice"
+    hashtags: "#voteforchange, #staysaltyflorida, #padi, #wildlingsouls"
   - username: "darceybussellofficial"
     fullname: >-
       Darcey Bussell
     bio: >-
       Darcey Bussell DBE - Former Principal of The Royal Ballet & Strictly Judge. President of the RAD, Creator of @diversedancemix www.youtube.com/c/DDMIX
     location: "United Kingdom"
-    followers: 168597
-    engagement: 215
-    commentsToLikes: 0.008518
+    followers: 167462
+    engagement: 174
+    commentsToLikes: 0.013939
     id: ck0vx2mjxwu5r0i192slymfxa
     verified: true
-    hashtags: "#mandarinoriental, #saveourtheatres, #imafan, #worldballetday"
+    hashtags: "#britishballetcharitygala, #englishnationalballet, #birminghamroyalballet, #scottishballet"
+  - username: "yonakw"
+    fullname: >-
+      Yona Knight-Wisdom
+    bio: >-
+      🇯🇲 Diver Enquiries to sam@metisathlete.com Supported by @levirootsmusic Smuggling with @budgysmuggler
+    location: "United Kingdom"
+    followers: 35781
+    engagement: 304
+    commentsToLikes: 0.015508
+    id: ck6u0evepfa840j71ht8ukj23
+    verified: true
+    hashtags: "#lockdowntrim, #pancakeday, #cancerdeadlineday, #coffinlay"
+  - username: "tmhgram"
+    fullname: >-
+      Theo
+    bio: >-
+      16, Videographer, media editor, animator, photographer, dancer. 7 UK tours with Diversity. ADHD and autism
+    location: "United Kingdom"
+    followers: 13344
+    engagement: 500
+    commentsToLikes: 0.026248
+    id: ck6u80wqvoshd0j71nnhzkpg6
+    verified: false
+    hashtags: "#justice, #blm, #equality, #wearediversity"
+  - username: "iraisavampire"
+    fullname: >-
+      Ira Giorgetti 📷✨
+    bio: >-
+      capturing joy, connection and diversity in the big smoke 📸🇬🇧 fashion, portraits, lifestyle and culture 🎞🥀 lensman at @harrods 🏢💎 get in touch below👇
+    location: "United Kingdom"
+    followers: 9871
+    engagement: 237
+    commentsToLikes: 0.122681
+    id: ck5zsdavyyaeq0i14yb0c3vrc
+    verified: false
+    hashtags: "#portra160, #contaxg2, #portra400, #mamiyarz67"
 ---

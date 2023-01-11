@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Brazil in 2023
+title: Top 10 Lifestyle TikTok Influencers In Brazil In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #foryoupage #fyp #trend.
+  Find top lifestyle TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #fyp #lifestyle #viral.
 platform: TikTok
-hits: 67
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 67 TikTok influencers like this in Brazil for you to collaborate.
+hits: 74
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 74 TikTok influencers like this in Brazil for you to pitch.
 profiles:
   - username: "teacherosanna"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       TIKTOK CREATOR- LifeStyle-Gym’s Teacher SP🇧🇷 contato:rosana.paula.bb@gmail.com
     location: "Brazil"
-    followers: 68100
-    engagement: 479
-    commentsToLikes: 0.051955
+    followers: 70100
+    engagement: 1048
+    commentsToLikes: 0.191786
     id: ckbqfc9mm0zhp0j234jw0lxm9
     verified: false
-    hashtags: "#dueto, #tag, #fyi, #trend"
+    hashtags: "#teacherosanna, #cityrock, #bbb21, #botaofuzilpracantar"
+  - username: "erijackson"
+    fullname: >-
+      Erijackson
+    bio: >-
+      💖 oi, eu sou o Eri 💖 Lifestyle, Cabelo e Fanboy meta: 300k
+    location: "Brazil"
+    followers: 253600
+    engagement: 1728
+    commentsToLikes: 0.024292
+    id: ck910lvxyi8nr0j785s99refc
+    verified: false
+    hashtags: "#sabinahidalgo, #nowunitedforever, #viral, #nowunited"
+  - username: "iagoweslley"
+    fullname: >-
+      IAGO WESLLEY
+    bio: >-
+      🎶 music and lifestyle 🏆 2 MILHÕES/plays no Spotify 📸 insta: @iagoweslley
+    location: "Brazil"
+    followers: 17100
+    engagement: 889
+    commentsToLikes: 0.198739
+    id: ckahwku7ar8pa0i78tanh3l5z
+    verified: true
+    hashtags: "#comediah, #humor, #podepararchallenge, #comoachavaqueiaser"
   - username: "julianalouiise"
     fullname: >-
       Juliana Louise
     bio: >-
       beleza • moda • lifestyle 💄 @julianalouisebeauty
     location: "Brazil"
-    followers: 22000
-    engagement: 1664
-    commentsToLikes: 0.020936
+    followers: 26200
+    engagement: 1462
+    commentsToLikes: 0.018960
     id: ckai4z3p5q12l0i78vua0di1v
     verified: true
-    hashtags: "#maquiagemchallenge, #halloween2020, #foryou, #cachoschallenge"
+    hashtags: "#penteadosparacabeloscacheados, #curlyhairgirl, #foryou, #makeuphacks"
   - username: "athoscomhofc"
     fullname: >-
       Athos Souza
     bio: >-
       Insta: @athoscomhofc 💉 FTM 💥Life Style 🌈Militância e boooom humor 👌🏽
     location: "Brazil"
-    followers: 19100
-    engagement: 915
-    commentsToLikes: 0.047112
+    followers: 19400
+    engagement: 922
+    commentsToLikes: 0.038468
     id: ckdnjvajdixv90j23hjt79ahy
     verified: false
-    hashtags: "#lgbtsp, #cat, #quarentena, #foryoupage"
-  - username: "nathanabritta"
+    hashtags: "#nature, #sp, #fyp, #goodvibe"
+  - username: "felipelimamil"
     fullname: >-
-      nathanabritta
+      Felipe Lima
     bio: >-
-      fotografia/moda masculina/lifestyle 👆respondo todos vcs lá no insta 👆
+      🦿 Life style - vibe positiva - risadas🦿 🏳️‍🌈Vem 500k Deixa um desafio aí 👇?
     location: "Brazil"
-    followers: 295400
-    engagement: 944
-    commentsToLikes: 0.027372
-    id: ckav1tqjo7x330j23tmlbgiy5
-    verified: false
-    hashtags: "#fy, #foto, #foryoupage, #outfit"
-  - username: "gabrieltuoto"
-    fullname: >-
-      GABRIEL TUOTO 🌟
-    bio: >-
-      Fashion & Lifestyle Curitiba 🔁 São Paulo sigo de volta no insta @gabriel_tuoto
-    location: "Brazil"
-    followers: 55400
-    engagement: 1299
-    commentsToLikes: 0.031259
-    id: ckblhrisbb6qs0j23fadtb0bn
-    verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #trend"
+    followers: 454500
+    engagement: 629
+    commentsToLikes: 0.024716
+    id: ck930jtmyb41m0j783r33lil9
+    verified: true
+    hashtags: "#amputado, #amputee, #meme, #curiosidade"
   - username: "caiotravels"
     fullname: >-
       caiotravels
     bio: >-
-      TRAVEL l LIFESTYLE Me siga no insta (260k+) Follow me on Instagram
+      TRAVEL l LIFESTYLE Me siga no insta (610+) Follow me on Instagram
     location: "Brazil"
-    followers: 15000
-    engagement: 1132
-    commentsToLikes: 0.018054
+    followers: 15400
+    engagement: 1052
+    commentsToLikes: 0.023986
     id: ck9v9lqwce9v70j784lrvf1rl
     verified: false
-    hashtags: "#thailand, #tailandia, #tiktoktravel, #alagoas"
-  - username: "jtzanno"
-    fullname: >-
-      João Tzanno
-    bio: >-
-      eu gosto de roupa fashion • lifestyle • geek • travel contatojtzanno@gmail.com
-    location: "Brazil"
-    followers: 167000
-    engagement: 1239
-    commentsToLikes: 0.021551
-    id: cka0rnmxkhrsi0i78rjalhek8
-    verified: false
-    hashtags: "#disney, #dicasdemoda, #styletips, #modamasculina"
-  - username: "guigofernandess"
-    fullname: >-
-      Guigo Fernandes
-    bio: >-
-      Tudo sobre o universo masculino Moda, saúde e lifestyle Segue no insta também!
-    location: "Brazil"
-    followers: 20300
-    engagement: 813
-    commentsToLikes: 0.047096
-    id: ckb99rfauu60v0j23h59g2vng
-    verified: false
-    hashtags: "#estilomasculino, #modaparahomens, #manstyle, #modamasculina"
-  - username: "jaypmgarcia"
-    fullname: >-
-      Jp Garcia
-    bio: >-
-      Aspirante a tiktoker🙃 Insta : @jpmgarcia Fitness lifestyle 011/🇧🇷
-    location: "Brazil"
-    followers: 70600
-    engagement: 1215
-    commentsToLikes: 0.019378
-    id: ck92tdg59hfny0j78maa3uwo7
-    verified: false
-    hashtags: "#viral, #foryoupage, #foryou, #tiktok"
+    hashtags: "#thailand, #tiktoktravel, #tailandia, #noronha"
   - username: "marcelladidonato"
     fullname: >-
       Marcella Di Donato
     bio: >-
       Travel • Lifestyle - Meu instagram @marcelladidonato
     location: "Brazil"
-    followers: 2346
-    engagement: 667
-    commentsToLikes: 0.021258
+    followers: 2348
+    engagement: 663
+    commentsToLikes: 0.029022
     id: ckahy5uu4y1zu0i78380b1n3m
     verified: false
-    hashtags: "#sonho, #style, #receitinhas, #antesedepois"
+    hashtags: "#winelovers, #sonho, #dessert, #sobremesa"
+  - username: "jtzanno"
+    fullname: >-
+      João Tzanno
+    bio: >-
+      eu gosto de roupa fashion • lifestyle • geek • travel contatojtzanno@gmail.com
+    location: "Brazil"
+    followers: 173800
+    engagement: 1409
+    commentsToLikes: 0.023619
+    id: cka0rnmxkhrsi0i78rjalhek8
+    verified: false
+    hashtags: "#publi, #tiktokfashion, #mensfashion, #modamasculina"
+  - username: "gabrieltuoto"
+    fullname: >-
+      GABRIEL TUOTO 🌟
+    bio: >-
+      Fashion & Lifestyle Curitiba 🔁 São Paulo instagram: @gabriel_tuoto
+    location: "Brazil"
+    followers: 111000
+    engagement: 1112
+    commentsToLikes: 0.028124
+    id: ckblhrisbb6qs0j23fadtb0bn
+    verified: false
+    hashtags: "#routine, #lifestyle, #tiktokfashion, #fyp"
 ---

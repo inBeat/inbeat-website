@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Toronto in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Toronto In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Toronto in 2023. Most popular hashtags: #tattoo #tattooartist #torontotattoo #toronto.
+  Find top tattoo-artists Instagram influencers in Toronto in 2023. Most popular hashtags: #tattoo #tattooartist #tattoos.
 platform: Instagram
-hits: 33
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database has 33 Instagram influencers like this in Toronto, Canada for you to pitch.
+hits: 8
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "camachotattoo"
+  - username: "curtmontgomerytattoos"
     fullname: >-
-      C A M A C H O
+      Curt Montgomery
     bio: >-
-      
+      Tattoo Artist = Honey Badger Hero He who dares wins yo Inside Out Toronto curtmontgomerytattoos@gmail.com
     location: "Canada"
-    followers: 94133
-    engagement: 325
-    commentsToLikes: 0.028284
-    id: ck0tzl3v2qq000i19fjw8tvj9
-    verified: false
-    hashtags: "#torontotattoos, #tiger, #canada, #sleevetattoo"
-  - username: "lilindigotattoo"
+    followers: 430661
+    engagement: 252
+    commentsToLikes: 0.003392
+    id: ck136mgxd77s10i19q23xulh4
+    verified: true
+    hashtags: "#tattoos, #tattooartist, #safestsex, #toronto"
+  - username: "release852"
     fullname: >-
-      𝕿𝖆𝖞𝖑𝖔𝖗
+      Mr. Koo 🔵
     bio: >-
-      * 𝔗𝔞𝔱𝔱𝔬𝔬 𝔄𝔯𝔱𝔦𝔰𝔱 * DOWNTOWN TORONTO/ GOLDEN IRON/ 18+ * BLACKWORK FLORAL/ MORE 💕 * BOOKS CLOSED * MENTAL HEALTH ADVOCATE ✨
+      TORONTO BOOKS OPENING MARCH 6th (late March to May) vegan friendly ink 🌱 dm for collaborations
     location: "Canada"
-    followers: 24658
-    engagement: 292
-    commentsToLikes: 0.016784
-    id: ck14jym3cmtnw0i19u6ofabni
+    followers: 66439
+    engagement: 61
+    commentsToLikes: 0.009616
+    id: ck8swrt6hf0oa0j784luxb7ps
     verified: false
-    hashtags: "#ladytattooers, #torontotattoo, #floraltattoo, #toronto"
-  - username: "vic.ink_"
+    hashtags: "#paintingoftheday, #ttblackink, #tattooistartmag, #tinytattoo"
+  - username: "ajmartinart"
     fullname: >-
-      ＶＩＣ 🥀
+      Amanda Martin
     bio: >-
-      ✖️BOOKS CLOSED✖️Reopening end of NOV, will be booking for DEC • Microrealism • Fineline • Black+Grey • No DMs ⚔️ 3097 Dundas St. W, Toronto, ON
+      Character designer & Tattoo Artist Tattoo Insta- @ajmartin.tattoos 🌟 Toronto 🇨🇦 Please credit if you post my work :)
     location: "Canada"
-    followers: 21738
-    engagement: 366
-    commentsToLikes: 0.015947
-    id: ck6txdagxx6ka0j71dftggnv7
+    followers: 25221
+    engagement: 476
+    commentsToLikes: 0.023275
+    id: ck8t0bxvwrjqh0j782ij2nrwm
     verified: false
-    hashtags: "#microneedle, #antique, #ornate, #design"
-  - username: "queenie_tattoo_ist"
-    fullname: >-
-      Queenie Yang
-    bio: >-
-      🌓Tattoo Artist 🌓Golden Iron Tattoo Studio 🌓Dotwork Linework Blackwork 🌓DM or Email to book
-    location: "Canada"
-    followers: 6180
-    engagement: 261
-    commentsToLikes: 0.014404
-    id: ck0vz476277uz0i19th0sk4yg
-    verified: false
-    hashtags: "#tattooist, #toronto, #ocean, #design"
+    hashtags: "#photoshop, #digitalart, #6fanarts, #flowers"
   - username: "ivamarcina"
     fullname: >-
       I   V   A   N   A
     bio: >-
       BLACK & GREY TATTOOS ———————————— ✖️Vaughan, Ontario ✖️certified weirdo ⚰️ ✖️inquiries via email only 📩 ✖️booked for 2020, VIP only @dreamworxink
     location: "Canada"
-    followers: 16928
-    engagement: 188
-    commentsToLikes: 0.049520
+    followers: 16701
+    engagement: 179
+    commentsToLikes: 0.050925
     id: ck8sz2vlvmyqh0j78stz019nm
     verified: false
-    hashtags: "#portraittattoo, #bngtattoos, #tattooartist, #inkedmag"
-  - username: "tris10_chronicink"
+    hashtags: "#tattooartist, #tattoosofig, #tattoos, #ink"
+  - username: "vic.ink_"
     fullname: >-
-      TRISTEN ZHANG
+      ＶＩＣ 🥀
     bio: >-
-      創作刺靑師匠 Since 2007 CHRONIC INK TATTOOS® Co-Founder & Artist | @chronicink TORONTO | CANADA
+      ✖️BOOKS CLOSED✖️due to lockdown • To purchase a sword pendant⬇️ • Microrealism • Fineline • Black+Grey • No DMs ⚔️ 3097 Dundas St. W, Toronto, ON
     location: "Canada"
-    followers: 105086
-    engagement: 242
-    commentsToLikes: 0.012487
-    id: ck6u74rtvjh7j0j71d52usznb
+    followers: 21351
+    engagement: 284
+    commentsToLikes: 0.028318
+    id: ck6txdagxx6ka0j71dftggnv7
     verified: false
-    hashtags: "#covid, #tattoo, #covid19, #pubg"
-  - username: "isvy_chronicink"
+    hashtags: "#menswear, #snaketattoo, #collaboration, #fashiondesign"
+  - username: "lukecormiertattoo"
     fullname: >-
-      Isvinthan Rajakumaran
+      Luke Cormier
     bio: >-
-      @chronicink 📍Toronto Inquires: info@chronicinktattoo.com
+      @9thgategallery Nova Scotia 🇨🇦 Sponsored by @fkirons @fusion_ink @saniderm @mdwipeoutz @hivecaps @northerntattoosupply
     location: "Canada"
-    followers: 6755
-    engagement: 485
-    commentsToLikes: 0.068369
-    id: ckap8flzso3oi0i78lpc3hs2j
+    followers: 74344
+    engagement: 145
+    commentsToLikes: 0.016467
+    id: ck13ap5hirhtx0i196tnzew78
     verified: false
-    hashtags: "#bngscripttattoos, #animaltattoos, #goodvibes, #statuetattoo"
-  - username: "therubygore"
+    hashtags: "#saniderm, #tattoos, #sanidermproteam, #smartphotocase"
+  - username: "higorart"
     fullname: >-
-      𝑹𝑼𝑩𝒀 𝑮𝑶𝑹𝑬 🕷
+      Higor Sales
     bio: >-
-      Dark Illustrative Tattoos 🥀 Powered by Plants 💯 Vegan Supplies 🌱 Toronto • Philly 𝑩𝑶𝑶𝑲 𝑵𝑶𝑾 👇 contact@therubygore.com 💌 #botanicaltattoo #torontotattoo
+      Booking only Anime tattoos for now Owner/Artist @thearcadetattoos No DMs Email Only: higorsalesart@gmail.com •FYT Pro Artist @fytsupplies 📌Toronto 🍁
     location: "Canada"
-    followers: 41710
-    engagement: 74
-    commentsToLikes: 0.019214
-    id: ck55klzwezmq90i112lqh2ibz
+    followers: 20236
+    engagement: 142
+    commentsToLikes: 0.071084
+    id: ck8sz2v2mmyp80j78d4f34zd5
     verified: false
-    hashtags: "#torontoinknews, #spring, #healed, #ladytattooers"
-  - username: "wildfirepunch"
+    hashtags: "#animetattoos, #anime, #animetattoo, #animemasterink"
+  - username: "tiffleetattoo"
     fullname: >-
-      Pam // 🅟🅐🅜 🔥
+      🌱Tiff Lee🌱
     bio: >-
-      🅑🅞🅛🅓 ⚡ 🅒🅞🅛🅞🅤🅡 🌈 🇨🇦 🇵🇱 Toronto, CA 🛸 Booking NOV / DEC 🐯 NO DMS (pls)/ LINK BELOW 🏠 @gratefulhousetoronto
+      Tattoos | Queer | Gentle | They/Them OWNER AND ARTIST OF @HEARTSTRONGTATTOO NO DMS PLZ N THANKS ✖️📖 BOOKS CLOSED📖✖️
     location: "Canada"
-    followers: 10486
-    engagement: 267
-    commentsToLikes: 0.015543
-    id: ck14knss1qfs40i19guuel8ew
+    followers: 16338
+    engagement: 378
+    commentsToLikes: 0.026599
+    id: ck6u46xdz21jm0j71dkj3j7eg
     verified: false
-    hashtags: "#torontoink, #tatuaz, #tattooartist, #ink"
-  - username: "cindy_chronicink"
+    hashtags: "#copperplate, #torontotattoo, #greyharbourtattoo, #firefundraiser"
+  - username: "naomikingofficial"
     fullname: >-
-      Cindy Liu
+      Naomi King
     bio: >-
-      chronic ink_tattoo artist 🎋👩🏻‍🎨 🇨🇦Toronto Booking is open 🙈No DM ☎️ (416) 544-0311 (12-8pm) info@chronicinktattoo.com
+      Musician, actor, author, digital & tattoo artist, nonbinary, asexual, animal-loving vegan. 💖 Vancouver, Canada 🍁 🇵🇭🇨🇦🇳🇱🇯🇵🇦🇺🇮🇳🇸🇬 @naomikingtattoos
     location: "Canada"
-    followers: 16432
-    engagement: 736
-    commentsToLikes: 0.012465
-    id: ck8t7l3uhh7mw0j783p8g7tkp
+    followers: 12495
+    engagement: 526
+    commentsToLikes: 0.031121
+    id: ck5heggxyss1y0i115qyylh0v
     verified: false
     hashtags: ""
+  - username: "lukalajoie"
+    fullname: >-
+      Luka lajoie
+    bio: >-
+      🕺🏼 Tattoo artist 🇨🇦 Montreal For bookings, my Youtube channel and everything else click the link below👇
+    location: "Canada"
+    followers: 284931
+    engagement: 114
+    commentsToLikes: 0.011542
+    id: ck5buaythhgrf0i11wozlkgzk
+    verified: false
+    hashtags: "#ifyouknowyouknow"
 ---

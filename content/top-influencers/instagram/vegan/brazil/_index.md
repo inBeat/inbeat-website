@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Brazil in 2023
+title: Top 10 Vegan Instagram Influencers In Brazil In 2023
 description: >-
-  Find top vegan Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #travel #menclothing.
+  Find top vegan Instagram influencers in Brazil in 2023. Most popular hashtags: #redhead #ruiva #ruivasacobreadas.
 platform: Instagram
-hits: 479
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 479 Instagram influencers like this in Brazil for you to connect with.
+hits: 481
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 481 Instagram influencers like this in Brazil for you to work with.
 profiles:
   - username: "nubiafelipeti"
     fullname: >-
       Núbia Felipeti
     bio: >-
-      ASSISTA OS STORIES 📍Vinhedo-SP | 24 Vegan 🌱 Medicina Veterinária - UNESP 🐾 Dicas | Cabelos | Edição de Fotos | Dia a Dia
+      📍Vinhedo/Botucatu - SP | 25 🐾 Médica Veterinária - UNESP Botucatu 🌱 Vegan Dicas | Cabelos | Edição de Fotos | Dia a Dia
     location: "Brazil"
-    followers: 63635
-    engagement: 757
-    commentsToLikes: 0.076451
+    followers: 61492
+    engagement: 708
+    commentsToLikes: 0.089601
     id: ck13cgkeu08f10i19xnckkiv0
     verified: false
-    hashtags: "#ruivosdobrasil, #ruivasradiantes, #ruivas, #ruivasacobreadas"
+    hashtags: "#redhead, #ruivasradiantes, #ruivas, #ruiva"
+  - username: "renatoshippee"
+    fullname: >-
+      Renato Shippee
+    bio: >-
+      🇧🇷 Criador da @karenkardasha📍Los Angeles🇺🇸 🌱 Vegan - Actor / 🎶 writer 🎬 Filmmaker 📩 renato.solipe@hotmail.com Ouça minhas músicas👇🏼
+    location: "Brazil"
+    followers: 1284588
+    engagement: 741
+    commentsToLikes: 0.011950
+    id: ck8t3ure44kk30j78co17t0w8
+    verified: false
+    hashtags: "#vam, #brasil, #fashioneditorial, #renatoshippe"
   - username: "lurygrabovski"
     fullname: >-
       Lury Grabovski
     bio: >-
       VEGAN 🌱 • Beauty & lifestyle • Cook • Horror fan Collabs/Business: Direct or e-mail. 💌 New collab vídeo:
     location: "Brazil"
-    followers: 19594
-    engagement: 725
-    commentsToLikes: 0.181937
+    followers: 19249
+    engagement: 632
+    commentsToLikes: 0.165473
     id: ck14hmvtub4ce0i19sb5oo7sg
     verified: false
-    hashtags: "#tbt"
-  - username: "renatoshippee"
+    hashtags: "#tbt, #bussitchallenge"
+  - username: "triveganas"
     fullname: >-
-      Renato Shippee
+      Laís Palma Elsing
     bio: >-
-      🌱 Vegan - SAG Actor / 🎓 Teacher 📍Los Angeles 🇺🇸 From Brazil 🇧🇷 🎬 Filmmaker 🎶 Writer Ouça minhas músicas
+      Um casal vegano, duas cachorras e trigêmeas surpresa! São Paulo triveganas@gmail.com
     location: "Brazil"
-    followers: 186991
-    engagement: 491
-    commentsToLikes: 0.044939
-    id: ck8t3ure44kk30j78co17t0w8
+    followers: 35782
+    engagement: 954
+    commentsToLikes: 0.033279
+    id: ck14l5s0aszwd0i19128yrh80
     verified: false
-    hashtags: "#menhaircuts, #chest, #brazilianboy, #motivations"
-  - username: "olena.starodubets"
+    hashtags: "#paralisiacerebral, #trigemeas, #oftalmologia, #trigemeos"
+  - username: "lorna_foxye_lady_"
     fullname: >-
-      Olena Starodubets🍀 Oficial
+      🦊Lorna🍁
     bio: >-
-      💯% Atleta Natural 🌱 Vegan desde 2017💚 💪 #mamafit 👩‍👧 🏆4 x Campeã Wellness 🔺️ @prozis -10%+🎁 Cupão"OLENA10" 🇺🇦🇵🇹 ☆STAR PHYSIQUE☆ 🎥 YouTube 1M ♡
+      📍Cotia, SP | BR 🇧🇷 💫Just being myself Ruiva | Vegan | Pets | Modelo | Chef contatolornafoxyelady@gmail.com Links⬇️
     location: "Brazil"
-    followers: 384078
-    engagement: 989
-    commentsToLikes: 0.023849
-    id: ck8t8yy9bmc9w0j78haonvy8z
+    followers: 59476
+    engagement: 292
+    commentsToLikes: 0.115220
+    id: ck8t81b6giqw10j78jw7o791t
     verified: false
-    hashtags: "#fitmom, #gravidez, #gratid, #motiva"
-  - username: "gian_eidler"
-    fullname: >-
-      Giancarlo | VegEstrito
-    bio: >-
-      🌿 Vegetariano Estrito há 8 anos 🎓 Psicólogo | Tec. Nutrição 📚 Autor 🥦 @vegan_fitness_meal 🎬 YouTube:Giancarlo Eidler 📍São Carlos - SP
-    location: "Brazil"
-    followers: 50573
-    engagement: 657
-    commentsToLikes: 0.041425
-    id: ck0ty0jpol39l0i19f1aq79xz
-    verified: false
-    hashtags: "#saocarlos, #skyfit"
+    hashtags: "#browneyes, #redheads, #bikini, #coppertop"
   - username: "vegetarirango"
     fullname: >-
       Flavio Giusti
     bio: >-
-      🐷 Criador do 1º canal de culinária vegana do Brasil
+      🐷 Criador do 1º canal de culinária vegana do Brasil 🎥 432k no Youtube
     location: "Brazil"
-    followers: 205248
-    engagement: 388
-    commentsToLikes: 0.177058
+    followers: 205941
+    engagement: 332
+    commentsToLikes: 0.077618
     id: ck5pzwzji35kj0i11cv9m24cw
     verified: true
-    hashtags: "#chupameusabugoh, #govegan, #coxinhafite, #doming"
-  - username: "franzventura"
+    hashtags: "#pegaaquinomeutender, #maldade, #fodaseafriboi, #fam"
+  - username: "mialvess"
     fullname: >-
-      Franz Ventura
+      Michelle Alves | Intercâmbio
     bio: >-
-      🎹 Pianista & Compositora 🌱 Vegana ⬇️ YouTuber
+      🌎 Intercambista, Viajante, Vegana 🌱 🎥 Maior canal do Brasil sobre #intercâmbio 📩 contato@mialves.com ✨ Descontos e indicações:
     location: "Brazil"
-    followers: 49246
-    engagement: 445
-    commentsToLikes: 0.078447
-    id: ck6ubx3hvc7i80j71v9p2d46r
-    verified: true
-    hashtags: "#piano, #pianist, #mozart, #beethoven"
-  - username: "allanxau"
-    fullname: >-
-      Allan Schaubert
-    bio: >-
-      📥tiktok 69k+, lifestyle 🇧🇷made in brazil, going to 🇮🇱 🌱try my best, veggie/ vegan
-    location: "Brazil"
-    followers: 25162
-    engagement: 456
-    commentsToLikes: 0.091030
-    id: ck8wd07jzd8ml0j78e1zg2lml
+    followers: 115877
+    engagement: 692
+    commentsToLikes: 0.019830
+    id: ck13aaphhpgok0i19xymufbkb
     verified: false
-    hashtags: "#sugar"
+    hashtags: "#publicidade, #santacatarina, #naturalumina, #miileva"
+  - username: "alineribeiroficial"
+    fullname: >-
+      Aline Ribeiro
+    bio: >-
+      🤱🏻 Mamãe aos 21, Esposa, Dona de casa & Empreendedora 🥗 Estilo de Vida Saudável 🌱 Vegan por ♥️ aos animais 🐷
+    location: "Brazil"
+    followers: 29269
+    engagement: 382
+    commentsToLikes: 0.642567
+    id: ck6u5so13bi1t0j71a6snh4k0
+    verified: false
+    hashtags: "#treinocombebe, #treinodiario, #treinoemcasa, #perdergordura"
+  - username: "bernardovillasboas"
+    fullname: >-
+      Bernardo Villas Bôas
+    bio: >-
+      🌱 Plant-based / Vegan 🇧🇷 Rio de Janeiro
+    location: "Brazil"
+    followers: 106845
+    engagement: 955
+    commentsToLikes: 0.018902
+    id: ckf5ucxtokg0i0j23yvbyuouc
+    verified: false
+    hashtags: "#govegan, #tbt, #worldveganday"
   - username: "kafe"
     fullname: >-
       Kafé
     bio: >-
-      ♦️ Singer/Songwriter ♦️ Salvador, Bahia 🌱 Vegan 🎵 Voz & Violão - Album (432hz):
+      🎤 Singer/Songwriter 📍Salvador, Bahia 🌱 Vegan 🎵 Ouça o novo single “LONGE”:
     location: "Brazil"
-    followers: 17716
-    engagement: 526
-    commentsToLikes: 0.071765
+    followers: 17805
+    engagement: 444
+    commentsToLikes: 0.076451
     id: ck5bxnp10o2b20i11lqqj30l2
     verified: true
-    hashtags: "#voiceandguitar, #rnb, #acoustic, #amanhecer"
-  - username: "maquiandosemcrueldade"
-    fullname: >-
-      melissa vieira
-    bio: >-
-      maquiagem criativa • veganismo • beleza 📍 mossoró/rn, brasil
-    location: "Brazil"
-    followers: 7590
-    engagement: 777
-    commentsToLikes: 0.091889
-    id: ck8t54uwq8rwb0j78mjjaylxg
-    verified: false
-    hashtags: "#olhosesfumadosnamadre, #resenhasemcrueldade, #iluminadorvegano, #vma"
+    hashtags: "#lovesongs, #rnb, #rnbbrasil, #lovesong"
 ---

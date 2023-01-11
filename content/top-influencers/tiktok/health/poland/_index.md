@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Poland in 2023
+title: Top 10 Health TikTok Influencers In Poland In 2023
 description: >-
-  Find top health TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #fyp #dc #viral.
+  Find top health TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #fyp #viral.
 platform: TikTok
-hits: 33
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 33 TikTok influencers like this in Poland for you to pitch.
+hits: 25
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 25 TikTok influencers like this in Poland for you to connect with.
 profiles:
   - username: "artybryja"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Motivation - Inspiration - Insight (Health Wealth Happiness)
     location: "Poland"
-    followers: 28500
-    engagement: 1117
-    commentsToLikes: 0.011897
+    followers: 27900
+    engagement: 1129
+    commentsToLikes: 0.009849
     id: ck9k5xoe7yjhv0j78d05oadmb
     verified: false
-    hashtags: "#dlaciebie, #fyp, #dancing, #tiktok"
+    hashtags: "#funny, #trending, #cute, #foryou"
   - username: "monikalewczuk"
     fullname: >-
       Monika Lewczuk
     bio: >-
       Artist 🎤 Beauty • Healthy Lifestyle • Fashion 💄🌶 📩: management@nowascena.pl
     location: "Poland"
-    followers: 6289
-    engagement: 509
-    commentsToLikes: 0.020855
+    followers: 8530
+    engagement: 520
+    commentsToLikes: 0.019898
     id: cka5zmovxne5q0i78wg18vujn
     verified: false
-    hashtags: "#healthyhabits, #beauty, #fyp, #veganrecipe"
-  - username: "dominikaroszak"
+    hashtags: "#dc, #makeup, #perfumy, #trend"
+  - username: "ewaszabatin"
     fullname: >-
-      Dominika Roszak
+      Ewa Szabatin
     bio: >-
-      Instagram z przepisami : @healthy_bydominika 🍫🍭🥗
+      FIT FASHION FREAK🌱 Follow ➡️ insta: @ewaszabatin https: https://ewaszabatin.pl
     location: "Poland"
-    followers: 4590
-    engagement: 641
-    commentsToLikes: 0.013695
-    id: ck9bxjriammqm0j78g9xlrqz3
-    verified: false
-    hashtags: "#foryou, #zostanwdomu, #foryoupage, #dc"
-  - username: "barbara.ni"
-    fullname: >-
-      barbara
-    bio: >-
-      19, warsaw sprawdź nowości elektroniczne w Empiku klikając tu⬇️
-    location: "Poland"
-    followers: 14600
-    engagement: 1246
-    commentsToLikes: 0.021378
-    id: ckdtenmivvrgm0j23s4xqpkxt
-    verified: false
-    hashtags: "#harrypotter, #foryoupage, #snapshot, #genz"
+    followers: 17500
+    engagement: 371
+    commentsToLikes: 0.062295
+    id: ck9036nhjd1t00j78ne5nonpk
+    verified: true
+    hashtags: "#healthyhabit, #owoce, #zdrowie, #zdroweprzepisy"
   - username: "exhto"
     fullname: >-
       Aga Exhuman
     bio: >-
       Artist and yoga freak 🧘🏻‍♀️🎨
     location: "Poland"
-    followers: 6864
-    engagement: 287
-    commentsToLikes: 0.026854
+    followers: 6718
+    engagement: 281
+    commentsToLikes: 0.034548
     id: ck8j8py0sjv7q0j78t27qhnzc
     verified: false
-    hashtags: "#dc, #forupage, #yoga, #dlaciebie"
-  - username: "gandi_thc"
+    hashtags: "#forupage, #yoga, #foryoupage, #foru"
+  - username: "betterfitnessgirl"
     fullname: >-
-      Gandi Nisha
+      Weronika 
     bio: >-
-      ☁ sklep z ciuchami ig lovethcstore ☁ ⭐ ig gandi_th
+      ⬇️⬇️⬇️
     location: "Poland"
-    followers: 55200
-    engagement: 1877
-    commentsToLikes: 0.038185
-    id: ck9k7vy0b6hwn0j78th74fwsf
+    followers: 137400
+    engagement: 751
+    commentsToLikes: 0.011206
+    id: ck8ae5xfla2qj0j78mf6h3rpg
     verified: false
-    hashtags: "#trend, #dc, #dlaciebie, #dlacb"
-  - username: "irena.vass"
+    hashtags: "#foryoupage, #healthy, #dc, #happy"
+  - username: "_jujcia__"
     fullname: >-
-      irena
+      jujcia
     bio: >-
-      ✨🪐⚡️ follow my ig😋 @irenavass business email💌 imirenavass@gmail.com
+      DANCE | FROM POLAND | 19 YEARS OLD Vinted: jujcia01
     location: "Poland"
-    followers: 1700000
-    engagement: 1173
-    commentsToLikes: 0.009821
-    id: ck97wpards3hg0j78a3qjkygw
+    followers: 14600
+    engagement: 2439
+    commentsToLikes: 0.047154
+    id: ck83zp9om1t1m0j78ks3ahg4w
     verified: false
-    hashtags: "#ad, #makeup, #flattummyapp, #fyp"
+    hashtags: "#foryourpage, #winter, #featureme, #dance"
+  - username: "borys.s"
+    fullname: >-
+      Borys Skowron
+    bio: >-
+      Brand Identity Designer 🖊 👇🏼 Currently booking new projects ⌛️
+    location: "Poland"
+    followers: 22800
+    engagement: 760
+    commentsToLikes: 0.041890
+    id: ck9nb2utrapo50j78qnkq5ykq
+    verified: false
+    hashtags: "#typography, #branding, #logo, #graphicdesign"
   - username: "mrs.upril"
     fullname: >-
       Aleksandra Kwiecień
     bio: >-
       Instagram: @mrs.upril ❤️ Współpraca 📩: kwiecien.wspolpraca@gmail.com
     location: "Poland"
-    followers: 31000
-    engagement: 1383
-    commentsToLikes: 0.043707
+    followers: 29800
+    engagement: 1349
+    commentsToLikes: 0.010882
     id: ckaiggeco1cip0i78elni821e
     verified: false
-    hashtags: "#dc, #bf, #viral, #challange"
-  - username: "borys.s"
+    hashtags: "#funny, #dlaciebie, #joke, #bf"
+  - username: "sarahtpalmer"
     fullname: >-
-      Borys
+      Sarah Palmer 
     bio: >-
-      Brand Identity Designer 🖊 👇🏼 Currently booking new projects ⌛️
+      Travel 👸 + Your future smile 👩‍⚕️ 🎓 DDS ‘21 🇺🇸 studying📍Poznań, Poland
     location: "Poland"
-    followers: 22600
-    engagement: 753
-    commentsToLikes: 0.041664
-    id: ck9nb2utrapo50j78qnkq5ykq
+    followers: 19100
+    engagement: 454
+    commentsToLikes: 0.037306
+    id: ck8j858nghcvx0j78nh4699vi
     verified: false
-    hashtags: "#designer, #logodesign, #typography, #brandidentity"
+    hashtags: "#dentalschool, #poland, #fyp, #boyfriend"
   - username: "kvjkvmjvl"
     fullname: >-
       kajakamilajulka
     bio: >-
       KOCHAM MOICH FANÓW JESTEŚCIE SUPER 😍😍❤️💜💜💜❤️😍😍😍😍
     location: "Poland"
-    followers: 12900
-    engagement: 1153
-    commentsToLikes: 0.043550
+    followers: 12700
+    engagement: 1126
+    commentsToLikes: 0.031816
     id: ckachgbn6z9b50i788vnym45b
     verified: false
-    hashtags: "#dc, #cooking, #polska, #foryoupage"
+    hashtags: "#dessert, #polska, #foryoupage, #fit"
 ---

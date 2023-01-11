@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Malaysia in 2023
+title: Top 10 Makeup TikTok Influencers In Malaysia In 2023
 description: >-
-  Find top makeup TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #foryoupage #foryou #tiktokmalaysia.
+  Find top makeup TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #makeup.
 platform: TikTok
-hits: 20
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 20 TikTok influencers like this in Malaysia for you to collaborate.
+hits: 13
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this in Malaysia for you to contact.
 profiles:
   - username: "parameswaransivakumar"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       You must do the things you think you cannot do. MAKEUP ARTIST
     location: "Malaysia"
-    followers: 15200
-    engagement: 2087
-    commentsToLikes: 0.081958
+    followers: 16500
+    engagement: 2215
+    commentsToLikes: 0.104640
     id: ckbf8g46xz14p0j23uy4sohla
     verified: false
-    hashtags: "#parameswaransivakumar, #beurself, #makeupartist, #loveurself"
+    hashtags: "#wecandoanything, #parameswaran, #parameswaransivakumar, #360hkfoodmoments"
   - username: "cilibling"
     fullname: >-
       cilibling
     bio: >-
-      🇭🇺 🇨🇳 in 🇨🇦 TORONTO
+      
     location: "Malaysia"
-    followers: 584200
-    engagement: 1660
-    commentsToLikes: 0.009669
+    followers: 665800
+    engagement: 1294
+    commentsToLikes: 0.008702
     id: ckc8xir3rli1b0j23m8j9r712
     verified: false
-    hashtags: "#fyp, #foryoupage, #myhobby, #foryou"
+    hashtags: "#myfuturethanksme, #makeup, #fyp, #foryou"
   - username: "jeon.hyunji"
     fullname: >-
       ceoofboring
     bio: >-
-      •BTS fan’s account @anpanminnn🌈 If you are my schoolmates,please leave 🥰
+      •BTS fan’s account @anpanminnn Not tolerated with maleis and Malaysian hatred😄
     location: "Malaysia"
-    followers: 19800
-    engagement: 2356
-    commentsToLikes: 0.018352
+    followers: 19400
+    engagement: 1987
+    commentsToLikes: 0.016937
     id: ckbf8n9zaz7ni0j23cvwsj2pa
     verified: false
-    hashtags: "#funny, #bts, #zoommyface, #fyp"
-  - username: "misauroralee"
+    hashtags: "#kpop, #foryou, #jimin, #memes"
+  - username: "igkhairunnisanorliyana10"
     fullname: >-
-      Misauroralee
+      𝕸𝖊𝖐 𝕹𝖎𝖊𝖘𝖘𝖆🇲🇾
     bio: >-
-      YANDERE Waifu ✨Psycho Online Girlfriend ✨
+      Follow my IG 👆🏻😘 Mekap Bajet💕 Bstt💕 Klateteam💕 Malaysia 🇲🇾
     location: "Malaysia"
-    followers: 29800
-    engagement: 1338
-    commentsToLikes: 0.039725
-    id: ckcp6baiid1gw0j2383zpaczo
+    followers: 46500
+    engagement: 1168
+    commentsToLikes: 0.103176
+    id: ckanl7jow7mm10i78pdstk1e5
     verified: false
-    hashtags: "#foryoupage, #headdancechallenge, #fyp, #duet"
+    hashtags: "#makeuptransition, #princessstyle, #muakotabharu, #slowmoqueen"
+  - username: "tisha_zlkpl"
+    fullname: >-
+      Tisha <3
+    bio: >-
+      You dont know me f
+    location: "Malaysia"
+    followers: 8907
+    engagement: 1064
+    commentsToLikes: 0.104996
+    id: ckcprl10qlfxp0j23mw3p5rli
+    verified: false
+    hashtags: "#fyp, #trend, #driverslicense, #xyzbca"
   - username: "alynnalwi"
     fullname: >-
       alynn@🌹T.G.F🌹
     bio: >-
-      TQ FOR LIKE&FOLLOW💗 https://www.youtube.com/channel/UCTZG0ZBnsP59SGGn2hbf7Hg
+      TQ FOR LIKE&FOLLOW💗 keep smile & be positif 🇲🇾
     location: "Malaysia"
-    followers: 15300
-    engagement: 1151
-    commentsToLikes: 0.038832
+    followers: 16000
+    engagement: 938
+    commentsToLikes: 0.041448
     id: ckbaghgcs8hjh0j23cagg4kbi
     verified: false
-    hashtags: "#lipsync, #ttc02, #mokcik, #tiktokmalaysia"
-  - username: "_meisien"
-    fullname: >-
-      steph
-    bio: >-
-      Photographer with probably way too many hobbies. IG/YouTube: @meisien
-    location: "Malaysia"
-    followers: 9695
-    engagement: 697
-    commentsToLikes: 0.064956
-    id: cka68yptkqljr0i78wlqa30wn
-    verified: false
-    hashtags: "#tiktokmalaysia, #photographer, #fyp, #quarantine"
-  - username: "75xiaosharon"
-    fullname: >-
-      SharonChai
-    bio: >-
-      大家好！我是Sharon小雪人 首支单曲《爱情魔法店》 工作接洽請聯繫+60125280060或email到talent@75insanity.com
-    location: "Malaysia"
-    followers: 103400
-    engagement: 782
-    commentsToLikes: 0.020545
-    id: ckbqqnv1cbhs10j23t1nasiuy
-    verified: false
-    hashtags: "#positingeduet, #grabatinge, #mymakeup, #librarychallenge"
+    hashtags: "#tiktokmalaysia, #bollywoodsong, #newyearnewmi, #ttc02"
   - username: "naila_1414"
     fullname: >-
       ❤ Naila ❤️
     bio: >-
       Tiktok Influencer ✔️ Open Paid Review #mathahari #atmix#tyfcrew
     location: "Malaysia"
-    followers: 187500
-    engagement: 606
-    commentsToLikes: 0.049681
+    followers: 192400
+    engagement: 719
+    commentsToLikes: 0.058429
     id: ckbbvesfcir0p0j239htduped
     verified: false
-    hashtags: "#tiktoker, #tiktokers, #tiktokmalaysia, #fyp"
-  - username: "erinmustaffa"
+    hashtags: "#fyp, #foryou, #foryoupage, #mathahari"
+  - username: "uniqso"
     fullname: >-
-      erin.mustaffa
+      UNIQSO
     bio: >-
-      Just follow my ig @erin.mustaffa
+      Follow us for giveaways! Extra account 👉 uniqso.com
     location: "Malaysia"
-    followers: 57700
-    engagement: 478
-    commentsToLikes: 0.100466
-    id: ckbky62b0u97d0j23ott922t6
+    followers: 3255
+    engagement: 1099
+    commentsToLikes: 0.005612
+    id: ck8qlr6aymuov0j78guicp2es
     verified: false
-    hashtags: "#foryoupage, #fyi, #foryou, #shouldbeme"
-  - username: "bunsybarb"
+    hashtags: "#cosplay, #naruto, #sharingan, #coloredcontacts"
+  - username: "zhigynlim"
     fullname: >-
-      thesabrinamohd
+      Zhi Gyn Lim
     bio: >-
-      🇲🇾 🇵🇰🇨🇳 Southeast Asian // 99 baby
+      ❤️谢谢那么优秀的你关注了我还给我点赞❤️ 大陆版抖音 🆔 zi.jun0830 Instagram 📷 gyneelim
     location: "Malaysia"
-    followers: 154100
-    engagement: 1235
-    commentsToLikes: 0.009954
-    id: cka0lxq01swly0i78i38f1lq2
+    followers: 23300
+    engagement: 876
+    commentsToLikes: 0.017035
+    id: ckad56ul1swf50i78fm4dcsd1
     verified: false
-    hashtags: "#corpsebride, #style, #hijab, #muslim"
+    hashtags: "#howichange, #fingerdance, #mugshot, #makeup"
+  - username: "am4ndaloo8"
+    fullname: >-
+      Am4ndaLoo
+    bio: >-
+      
+    location: "Malaysia"
+    followers: 17900
+    engagement: 262
+    commentsToLikes: 0.024115
+    id: ckbw90hl8zg5d0j23ni5f5vj7
+    verified: false
+    hashtags: "#foryou, #tiktoksg, #duet, #xyzbca"
 ---

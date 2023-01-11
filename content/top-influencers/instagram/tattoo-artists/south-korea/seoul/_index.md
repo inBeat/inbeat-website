@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Seoul in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Seoul In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Seoul in 2023. Most popular hashtags: #tattoo #colortattoo #tattoodesign #flowertattoo.
+  Find top tattoo-artists Instagram influencers in Seoul in 2023. Most popular hashtags: #tattoo #tattooart #tattooideas #colortattoo.
 platform: Instagram
-hits: 9
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 9 Instagram influencers like this in Seoul, South Korea for you to connect with.
+hits: 10
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 10 Instagram influencers like this in Seoul, South Korea for you to contact.
 profiles:
+  - username: "wormholehopper"
+    fullname: >-
+      
+    bio: >-
+      I’m an artist that tattoos Seoul, Korea🇰🇷 오픈카카오로 문의주세요 Blackwork👉@brain_flavor Email me for any inquiry No dms plz 📧stnrtatt@gmail.com ✨LGBTQ FRIENDLY
+    location: "South Korea"
+    followers: 17964
+    engagement: 512
+    commentsToLikes: 0.014822
+    id: ck14jz1iamw0w0i19qmkzbxco
+    verified: false
+    hashtags: "#spike, #buffythevampireslayer, #girlwithapearlearring, #zelda"
   - username: "graycodetattoo"
     fullname: >-
-      Tattoo Artist GRAYCODE
+      Tattoo artist GRAYCODE
     bio: >-
-      🇰🇷Seoul -11월/ 예약마감(Nov/ closed) -12월/ 예약오픈(Dec/ open) 📍Jeonju 11/15-11/19 (예약마감) 　 ▪️Graycodetattoo@gmail.com ▪️Kakao channel: graycodetattoo
+      🇰🇷Seoul -3월(Mar) available 🇰🇷Jeju - 3월(Mar) 5~7th, 1 spot left 　 Contact ▪️Graycodetattoo@gmail.com ▪️Kakao channel: graycodetattoo
     location: "South Korea"
-    followers: 41153
-    engagement: 510
-    commentsToLikes: 0.014160
+    followers: 51288
+    engagement: 434
+    commentsToLikes: 0.012276
     id: ckaovj61o4s5q0i788zhkb7dt
     verified: false
-    hashtags: "#portraittattoo, #tinytattoo, #tattoodesign, #animaltattoo"
+    hashtags: "#tattoodesigns, #arttattoo, #tinytattoos, #tattooflash"
   - username: "tattooer_manda"
     fullname: >-
-      STUDIOBYSOL_MANDA
+      MANDA
     bio: >-
       * I do not sell my design* Tattooer / Artist Seoul, Korea 🇰🇷 . . Contact (Kakaotalk) *No DM* 👇👇
     location: "South Korea"
-    followers: 33904
-    engagement: 326
-    commentsToLikes: 0.007630
+    followers: 33621
+    engagement: 356
+    commentsToLikes: 0.006831
     id: ck8tbm6tgw7f70j78r26dugp2
     verified: false
-    hashtags: "#colortattoo, #ink, #koreantattoo, #minitattoo"
+    hashtags: "#animaltattoo, #studiobysol, #illustration, #flowertattoo"
   - username: "q_tattoos"
     fullname: >-
       Dongkyu Lee
     bio: >-
-      Korean, Artist 🇰🇷 Seoul now 🇺🇸 NYC TBD Sponsors: @intenzetattooink @kwadron @hustlebutterdeluxe @killerinktattoo leedongkyutattoo - gmail 오픈카톡
+      Korean, Artist 🇰🇷 Seoul now 🇺🇸 NYC, LA TBD leedongkyutattoo-gmail 오픈카톡
     location: "South Korea"
-    followers: 232603
-    engagement: 108
-    commentsToLikes: 0.019153
+    followers: 232260
+    engagement: 136
+    commentsToLikes: 0.019044
     id: ck6udf9mvkr5q0j711k6r62zm
     verified: true
-    hashtags: "#realismtattoo, #tattoodo, #blue, #colortattoo"
-  - username: "tattooist_yammy"
-    fullname: >-
-      야미 / 반려견타투 반려묘타투 칼라타투
-    bio: >-
-      Seoul, Korea 🇰🇷 11월 예약 가능합니다. 예약 및 디자인 문의👇
-    location: "South Korea"
-    followers: 63809
-    engagement: 245
-    commentsToLikes: 0.009312
-    id: ck0vvso3mql730i19n0qcop3d
-    verified: false
-    hashtags: "#colortattoo, #tattoo, #pettattoo, #inked"
+    hashtags: "#tattoo, #tattooideas, #realistictattoo, #tat"
   - username: "tattooist_eunzo_"
     fullname: >-
       tattooist_eunzo_
     bio: >-
-      Book Available DM or E-mail E-mail : sojung3241@naver.com
+      @hystericgarden Seoul, South Korea Book Available DM or E-mail E-mail : sojung3241@naver.com
     location: "South Korea"
-    followers: 10395
-    engagement: 508
-    commentsToLikes: 0.019316
+    followers: 10433
+    engagement: 460
+    commentsToLikes: 0.023309
     id: ck8szl3waov5h0j78fvjh3pxa
     verified: false
-    hashtags: "#blackworkerssubmission, #blackwork, #tattoosketch, #floraltattoo"
-  - username: "robineggstudio"
+    hashtags: "#blackwork, #tattooculture, #blackworkers, #blackink"
+  - username: "mumi_ink"
     fullname: >-
-      로빈에그 𝐓𝐚𝐭𝐭𝐨𝐨 𝐒𝐭𝐮𝐝𝐢𝐨
+      무미
     bio: >-
-      📍𝐁𝐚𝐬𝐞𝐝 𝐢𝐧 𝐒𝐞𝐨𝐮𝐥, 𝐊𝐨𝐫𝐞𝐚 연남동🇰🇷 🖇 𝐂𝐫𝐞𝐰 𝐓𝐞𝐚𝐦 𝐰𝐢𝐭𝐡 𝐕𝐚𝐫𝐢𝐨𝐮𝐬 𝐒𝐭𝐲𝐥𝐞 𝐨𝐟 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 •• 𝐅𝐨𝐫 𝐛𝐨𝐨𝐤𝐢𝐧𝐠 - 𝐃𝐌/𝐞𝐦𝐚𝐢𝐥 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐚𝐫𝐭𝐢𝐬𝐭 (𝐧𝐨 𝐃𝐌 𝐭𝐨 𝐭𝐡𝐢𝐬 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐩𝐥𝐞𝐚𝐬𝐞!🙅🏻‍♂️)
+      Seoul,Korea 3월 예약중 Email inkedbymumi@gmail.com Kakao Talk
     location: "South Korea"
-    followers: 26979
-    engagement: 225
-    commentsToLikes: 0.011498
-    id: ck15ttxe7jvqx0i19rmzc5vzk
+    followers: 81529
+    engagement: 448
+    commentsToLikes: 0.008463
+    id: ck5hk1pqhhmxx0i11uopvcq15
     verified: false
-    hashtags: "#illustration, #tattoo, #colortattoo, #tattoowork"
-  - username: "artist.haneul"
+    hashtags: "#tattooartist, #finetattoo, #goldtattoo, #portraittattoo"
+  - username: "girin_tattoo"
     fullname: >-
-      Haneul
+      GIRIN
     bio: >-
-      Hongdae, Seoul, Korea 𝓈𝑜𝓂𝑒𝑜𝓃𝑒'𝓈 𝒻𝓁𝑜𝓌𝑒𝓇 𝑔𝒶𝓇𝒹𝑒𝓃 . 6월예약 오픈
+      Don't copy - KOREA/ Seoul @3layer_studio -타투 수강/DM/ naragustlr@gmail.com -오픈카톡 주소 변경 되었습니다 아래 링크로 다시 들어와주세요👇👇
     location: "South Korea"
-    followers: 69418
-    engagement: 233
-    commentsToLikes: 0.004051
-    id: ck0w0ei8cdsk40i1943nd6wbh
+    followers: 67536
+    engagement: 381
+    commentsToLikes: 0.002584
+    id: ck8t12deou7on0j78om6ten8u
     verified: false
-    hashtags: "#letteringtattoo, #butterflytattoo, #rosetattoo, #gentianatattoo"
+    hashtags: "#inked, #tattooartist, #flower, #blackandgreytattoo"
+  - username: "arang_eleven"
+    fullname: >-
+      Arang eleven
+    bio: >-
+      email - info@seoulinktattoo.com 또는 디엠
+    location: "South Korea"
+    followers: 70892
+    engagement: 716
+    commentsToLikes: 0.011493
+    id: ck55k51uiyh6n0i11jccth73u
+    verified: false
+    hashtags: "#tattooidea, #blackouttattoo, #blacktattooart, #blacktattoomag"
+  - username: "now_tattooer"
+    fullname: >-
+      ‧ ͙✷ 𝐍𝐎𝐖 ✷ ͙‧
+    bio: >-
+      ✷ 𝐒𝐞𝐨𝐮𝐥, 𝐊𝐨𝐫𝐞𝐚 ✷ 𝐃𝐞𝐬𝐢𝐠𝐧 : @Now_ttt ̵ ̀ ̗ 𝐍𝐨 𝐃𝐌 ̖ ́ ̵ ✷ 𝐊𝐚𝐤𝐚𝐨 : 𝐜𝐫𝐚𝐳𝐲𝐥𝐮𝐜𝐤𝐧𝐨𝐰 ✷ 𝐌𝐚𝐢𝐥 : 𝐧𝐨𝐰𝐭𝐚𝐭𝐭𝐨𝐨𝐞𝐫@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+    location: "South Korea"
+    followers: 52808
+    engagement: 249
+    commentsToLikes: 0.002063
+    id: ck6u146lnjhab0j713gb6dhq5
+    verified: false
+    hashtags: "#lineworks, #tttism, #blacktattoo, #seoultattoo"
   - username: "lighthouse_professional_tattoo"
     fullname: >-
       ⚓️Lighthouse Tattoo Studio
     bio: >-
       • Based in Republic of Korea 🇰🇷 • Nampodong, Busan • Itaewon, Seoul • Check individual artists and contact directly ⬇️
     location: "South Korea"
-    followers: 50716
-    engagement: 257
-    commentsToLikes: 0.003554
+    followers: 73672
+    engagement: 423
+    commentsToLikes: 0.002636
     id: ck5qebx8vzpxx0i1141dpfof7
     verified: false
     hashtags: ""
-  - username: "seanl83"
-    fullname: >-
-      💥 션엘 / $E🔺N  L ☄
-    bio: >-
-      🇰🇷 Rapper / Artist / Trapporean / Ownfleek
-    location: "South Korea"
-    followers: 6073
-    engagement: 907
-    commentsToLikes: 0.024251
-    id: ck5cjpsrfv8er0i11h6i46cln
-    verified: false
-    hashtags: "#swag, #style, #music, #trapporean"
-  - username: "tattooist_eunzo_"
-    fullname: >-
-      tattooist_eunzo_
-    bio: >-
-      Book Available DM or E-mail E-mail : sojung3241@naver.com
-    location: "South Korea"
-    followers: 10395
-    engagement: 508
-    commentsToLikes: 0.019316
-    id: ck8szl3waov5h0j78fvjh3pxa
-    verified: false
-    hashtags: "#blackworkerssubmission, #blackwork, #tattoosketch, #floraltattoo"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Norway in 2023
+title: Top 10 Divers Instagram Influencers In Norway In 2023
 description: >-
-  Find top divers Instagram influencers in Norway in 2023. Most popular hashtags: #norway #nofilter #nature.
+  Find top divers Instagram influencers in Norway in 2023. Most popular hashtags: #norway #christmas #oslo #nature.
 platform: Instagram
-hits: 17
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 17 Instagram influencers like this in Norway for you to contact.
+hits: 12
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 12 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "minikim"
+  - username: "unececilie"
     fullname: >-
-      Minikim
+      UNE CECILIE
     bio: >-
-      🇰🇷🇳🇴Pro Death Diver🦦 Supported by: @bulaeurope @citroennorge Diving n chill?💥↙️↙️ YT, 200k+ TikTok!
+      Friluftsfersking ⛺️ Dumpster diver🥦 Åpenhet rundt mental helse🧘🏼‍♀️ Håper på å inspirere til å ta vare på deg selv, miljøet og naturen💚 Team Bergans🌿
     location: "Norway"
-    followers: 36466
-    engagement: 1113
-    commentsToLikes: 0.010546
-    id: ck0vyd5mo3e810i19vuikivs3
+    followers: 27684
+    engagement: 603
+    commentsToLikes: 0.034946
+    id: ck15t0hl2fq8o0i190y1r4v6k
     verified: false
-    hashtags: "#bulavantour, #chill, #ilovesurfing, #skillz"
-  - username: "mrlumeshot"
+    hashtags: "#norsknatur, #surnadal, #friluftsferskinger, #motivasjon"
+  - username: "imanmeskini"
     fullname: >-
-      Christian Mr LumeShot🔦 Kirkemo
+      Iman Meskini
     bio: >-
-      Mr Lumeshot Only my pictures � Mostly lumeshots👍👍 RePost with credit 👍 #redbaroslo 📷 Pentax KP/OnePlus 7 Pro Nothing serious, just shooting ⌚ for fun.
+      Norway🇳🇴 | Muslim🤲🏽 Actress, TV-personality & public speaker 📺 💍@mouradjay ✉️ Management: julianne@brandpeople.no
     location: "Norway"
-    followers: 6772
-    engagement: 890
-    commentsToLikes: 0.052290
-    id: ck5hio1lrei520i11rfe674t6
-    verified: false
-    hashtags: "#relojes, #uhren, #pickoftheday, #ablogtowatch"
-  - username: "garnsurr"
-    fullname: >-
-      Garnsurr
-    bio: >-
-      Former hand dying social integration company for refugee women. The company is under liquidation. Ravelry: ahelens
-    location: "Norway"
-    followers: 12849
-    engagement: 425
-    commentsToLikes: 0.037343
-    id: ck0w0nje3f3tb0i192e3mwpnp
-    verified: false
-    hashtags: "#barnestrikk, #babyknits, #spetter, #babystrikk"
-  - username: "gunhild_stordalen"
-    fullname: >-
-      Gunhild A. Stordalen
-    bio: >-
-      Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
-    location: "Norway"
-    followers: 185531
-    engagement: 368
-    commentsToLikes: 0.028644
-    id: ck5zmq1uzn0kg0i147yvuqe2w
+    followers: 567597
+    engagement: 186
+    commentsToLikes: 0.007402
+    id: ck0w1k2jljqm70i19d0t6ehs1
     verified: true
-    hashtags: "#plantforward, #greatdanesofinstagram, #healthyfood, #betterfoodforall"
-  - username: "felicitysaxophonist"
+    hashtags: "#igdaily, #skam, #hijabfashion, #instastory"
+  - username: "martinhelseth"
     fullname: >-
-      ♡ Ｆｅｌｉｃｉｔｙ
+      Martin Helseth
     bio: >-
-      ⚜️ Professional saxophonist performing worldwide at the most exclusive events ⚜️ Based in Norway 🇳🇴
+      Olympic Qualified Rower Freediving For Plastic Ålesund/Oslo, Norway @lobnobsno @polyformnorway @romeganorge @regattaofnorway @halite.no #EUClimatePact
     location: "Norway"
-    followers: 13267
-    engagement: 427
-    commentsToLikes: 0.076094
-    id: ck55k7o1pyofz0i11q77woac0
+    followers: 12332
+    engagement: 757
+    commentsToLikes: 0.014490
+    id: ck6u27xl5q92l0j7128jevvoq
     verified: false
-    hashtags: "#fashion, #summervibes, #slavikmusicstraps, #brunette"
-  - username: "pettermazzetta"
+    hashtags: "#underwater, #norway, #sunnm, #aalesund"
+  - username: "martine_roenning"
     fullname: >-
-      Petter Mazzetta
+      Martine Rønning
     bio: >-
-      SKYDIVER-PILOT-WINDTUNNEL COACH /HOME RENOVATOR & INTERIOR CREATOR Made in Sweden 🇸🇪 @bodyflightswe 🧡 📍Swe atm🇸🇪 🎥- Freefly the world ⬇️
+      Artist/model - Norway🇧🇻 Singer at @playagencyofficial🎤 Model at @ebmodels📷 Booking DM/email ❣️
     location: "Norway"
-    followers: 19947
-    engagement: 225
-    commentsToLikes: 0.042885
-    id: ck5ztfsvm0bur0i14g96atkd8
+    followers: 13218
+    engagement: 1402
+    commentsToLikes: 0.268635
+    id: ck55k7pvwyokz0i110g2y9sgs
     verified: false
-    hashtags: "#vrgames, #gopromax, #purewildflight, #norwaytravel"
-  - username: "bestro_7r"
+    hashtags: "#christmas, #photoshoot, #instacover, #cover"
+  - username: "730no"
     fullname: >-
-      Leon Bestro
+      730.no
     bio: >-
-      Golf R MK7.5🇳🇴 @bestro3 - Owner @Asker_Autospa Ceramic Coating🇳🇴 PM for rabatterte priser
+      Norges største frittstående nettsted for popkultur siden 2008 🇳🇴 post@730.no Gå til nettstedet her:
     location: "Norway"
-    followers: 5444
-    engagement: 1184
-    commentsToLikes: 0.057181
-    id: ck6u6uc0chrqn0j71awface8f
+    followers: 139039
+    engagement: 124
+    commentsToLikes: 0.008843
+    id: ck5pw1b0jkm8x0i11wicpwrja
     verified: false
-    hashtags: "#motor, #mk7, #mk7r, #vwgolf"
+    hashtags: "#intotheblue, #nrkmgp, #eurovision, #hannahmontana"
   - username: "jamiiina"
     fullname: >-
       JAMINA BLIPP
     bio: >-
       📍 OSLO 💌 jamina.iversen@gmail.com 💻 Holzweiler 🎧 Babyboom podcast
     location: "Norway"
-    followers: 31605
-    engagement: 826
-    commentsToLikes: 0.025768
+    followers: 33461
+    engagement: 781
+    commentsToLikes: 0.011952
     id: ck5zrwmujxe3p0i14pnwhaidl
     verified: false
-    hashtags: "#myoptimalprint, #smarthandel, #obs, #cosmica"
+    hashtags: "#softcreamdeo, #thenightwhispererrug, #cosmica, #cosmicagang"
   - username: "mittlillehjerte"
     fullname: >-
       Janne Iversen | Norway
     bio: >-
       ◼️Vinner av Gullfjæren interior awards årets stue 2020 🏆 ◽️Finalist Gullfjæren 2019 ◾️Scandinavian interiorstyler ◽️Photo 📧 janne.iversen78@gmail.com
     location: "Norway"
-    followers: 146323
-    engagement: 85
-    commentsToLikes: 0.066040
+    followers: 146361
+    engagement: 84
+    commentsToLikes: 0.046836
     id: ck138p1gnhapa0i19j4rzi3g5
     verified: false
-    hashtags: "#mittlillehjerte, #interiorwarrior, #mzintetior, #norgesinteri"
-  - username: "ottofrank"
+    hashtags: "#interiorstyled, #interior4you1, #homeinterior4you, #charminghouses"
+  - username: "fotovegard"
     fullname: >-
-      Frank Otto Pedersen
+      Vegard Eggen
     bio: >-
-      • Landscape and Astro Photographer • Kristiansand, Norway • fopede80@gmail.com
+      Batman during nighttime🐧, photographer by day in Trondheim, Norway. All photos are mine © Thanks for stopping by 😃😃
     location: "Norway"
-    followers: 10637
-    engagement: 980
-    commentsToLikes: 0.079127
-    id: ck0w1yb8elqip0i19ar60a9vd
+    followers: 11554
+    engagement: 772
+    commentsToLikes: 0.086213
+    id: ck0w2lqjbp00q0i19p8fj23xq
     verified: false
-    hashtags: "#autumnvibes, #milkyway, #planet, #landscapephotography"
+    hashtags: "#norgesbeste, #way2ill, #night, #tv"
+  - username: "mats_jorgensen"
+    fullname: >-
+      explore more
+    bio: >-
+      ▪️based in Norway ▪️hiking adventures ▪️alpha shooter ▪️mavic crasher
+    location: "Norway"
+    followers: 4835
+    engagement: 996
+    commentsToLikes: 0.055579
+    id: ckf5u0nz2j8cw0j23bvc5elov
+    verified: false
+    hashtags: "#ig, #friluftsliv, #fjelltur, #raw"
+  - username: "kirothcollie"
+    fullname: >-
+      ↟ 𝐊𝐈𝐑𝐎 & 𝐈𝐃𝐀
+    bio: >-
+      ↟ Rough shaded collie boy ↟ From norway 🇳🇴 ↟ Canon 600D 📸 ↟ Ambassador for @godbit1.no
+    location: "Norway"
+    followers: 2982
+    engagement: 1054
+    commentsToLikes: 0.083779
+    id: ck8tdq83g4dgi0j785bhzordm
+    verified: false
+    hashtags: "#collie, #doginfluencer, #dogfluencer, #forestgreen"
 ---

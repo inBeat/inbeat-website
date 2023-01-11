@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Austria in 2023
+title: Top 10 Cosmetics Instagram Influencers In Austria In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #makeup #fashion #autumn.
+  Find top cosmetics Instagram influencers in Austria in 2023. Most popular hashtags: #makeup #vienna #fashion #beauty.
 platform: Instagram
-hits: 20
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 20 Instagram influencers like this in Austria for you to connect with.
+hits: 11
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 11 Instagram influencers like this in Austria for you to contact.
 profiles:
-  - username: "albiinais"
-    fullname: >-
-      Albina Isufi
-    bio: >-
-      Austria | Albania
-    location: "Austria"
-    followers: 3468
-    engagement: 2692
-    commentsToLikes: 0.048933
-    id: ck0u6ajo71ig70i19kzivxq4l
-    verified: false
-    hashtags: "#lips, #greeneyes, #hairstyle, #albanian"
-  - username: "simply_lenny"
-    fullname: >-
-      LENNY💋✌🏼
-    bio: >-
-      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
-    location: "Austria"
-    followers: 2474
-    engagement: 2945
-    commentsToLikes: 0.473416
-    id: ckap52mut9wvu0i78iu0g9589
-    verified: false
-    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
-  - username: "stefaniecebis"
-    fullname: >-
-      FASHION|INSPO 𝖻𝗒 𝖲𝗍𝖾𝖿𝖿𝗂
-    bio: >-
-      austrian content creator 📸 social collabs: stefanie.cebis@gmx.at use #stefaniecebis
-    location: "Austria"
-    followers: 5678
-    engagement: 777
-    commentsToLikes: 0.130253
-    id: ckaoxuuazeure0i78m49ld09u
-    verified: false
-    hashtags: "#dailyfashion, #dailyinspo, #bodygoals, #stefaniecebis"
   - username: "terezabudkova"
     fullname: >-
       Tereza Budková
     bio: >-
       Czech model 📸💄 Simply Model Management - Prague; Louisa Models- Hamburg, Munchen; Born Models- Denmark; AMT- Vienna ☺️
     location: "Austria"
-    followers: 103240
-    engagement: 464
-    commentsToLikes: 0.025014
+    followers: 110131
+    engagement: 473
+    commentsToLikes: 0.016313
     id: ck6tpthc4mrf00j717n7qvztb
     verified: true
-    hashtags: "#fashiondesigner, #praha, #backstage, #saturday"
-  - username: "beatrice.koermer"
-    fullname: >-
-      👑 𝑴𝒊𝒔𝒔 𝑽𝒊𝒆𝒏𝒏𝒂 𝟐𝟎𝟏𝟗/𝟐𝟎
-    bio: >-
-      ⭐Society 💃🏼Fashion&Beauty&Lifestyle 🎙Singer 🏆Blogger award winner 📍Based in Vienna 💌Bookings: office@beatricekoermer.com 💎Official model website
-    location: "Austria"
-    followers: 22659
-    engagement: 369
-    commentsToLikes: 0.066653
-    id: ck6tzqm2qb9uj0j712ycho48s
-    verified: false
-    hashtags: "#beatricekoermer, #vienna, #creepy, #autumn"
+    hashtags: "#lovemyjob, #muah, #germany, #makeup"
   - username: "caroline.lena"
     fullname: >-
-      Lena Caroline | Vienna
+      Lena
     bio: >-
       📍 #vienna 📷 #behindthescenes 🍴 #foodstories 🇦🇹 #contentcreator ✉️ lenacaroline.lc@gmail.com
     location: "Austria"
-    followers: 10574
-    engagement: 326
-    commentsToLikes: 0.170100
+    followers: 11291
+    engagement: 223
+    commentsToLikes: 0.218527
     id: ck0w4tdkd0bjo0i19ho2fzyd7
     verified: false
-    hashtags: "#portraitgames, #freachlyvienna, #freddywear, #777luckyfish"
-  - username: "isabella_leeb_"
+    hashtags: "#bts, #lightroom, #sustainable, #rabattcode"
+  - username: "frederika_kurtulikova"
     fullname: >-
-      🌺 ISABELLA 🌺
+      Frederika Kurtulíková
     bio: >-
-      Hey I‘m Bella💋 🇦🇹 #Austria/#graz 🌺 21 yrs 💌 Cooperation: isabellaleeb@icloud.com #makeup | #fashion | #happy
+      MISS Slovakia ‘19 📍 Vienna, Bratislava, Ibiza 📸🎬 Bookings: @lookmodels_int
     location: "Austria"
-    followers: 175802
-    engagement: 1284
-    commentsToLikes: 0.040878
-    id: ck6ui8a6idmtf0j71cwijzpwz
+    followers: 11595
+    engagement: 329
+    commentsToLikes: 0.032683
+    id: ck5hjktdmgsxc0i115a8scbex
     verified: false
-    hashtags: "#igersaustria, #fashion, #happy, #quotes"
+    hashtags: "#face, #bratislava, #woman, #slovenka"
   - username: "sheri_show"
     fullname: >-
-      🤍SHERI🤍
+      Shqlawa
     bio: >-
-      Beauty | Fashion | Lifestyle | Travel —————————————————— 📍 V I E N N A 📩 sheri.show.01@gmail.com
+      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
     location: "Austria"
-    followers: 61341
-    engagement: 259
-    commentsToLikes: 0.069202
+    followers: 61326
+    engagement: 244
+    commentsToLikes: 0.055980
     id: ck8ta6eejqlzf0j78zskkwc4n
     verified: false
-    hashtags: "#girls, #vienna, #makeupartist, #makeup"
-  - username: "mizzchrissi"
+    hashtags: "#vienna, #fashion, #styleblogger, #shein"
+  - username: "shadesbynina"
     fullname: >-
-      ©️h ®️issi
+      nina 🤍 makeup artist
     bio: >-
-      🌍 Globetrotter 👩🏻‍💼 Pharma Business Woman 🏋️‍♀️ @malu.wien 🐶 Dog-Mom 👗 Fashionlover 🍣 Foodlover 📍Vienna
+      hi friends! this is me sharing my life with you and doing makeup 🎨☺️ enjoy! • vienna | aut • makeup and creative stuff
     location: "Austria"
-    followers: 59637
-    engagement: 202
-    commentsToLikes: 0.047990
-    id: ck5zp0b3nrqjl0i141kfftvbp
+    followers: 5573
+    engagement: 1138
+    commentsToLikes: 0.087818
+    id: ck8t0ixkis7tt0j7848javd0l
     verified: false
-    hashtags: "#beautybehandlung, #viennaat, #fitness, #heurigenschenke"
-  - username: "nina.galle"
+    hashtags: "#beginnermakeup, #eyemakeupideas, #eyeart, #abhbrows"
+  - username: "sarah.stormborn"
     fullname: >-
-      Nina Gallé
+      Sarah Stormborn
     bio: >-
-      📍in #graz | 25 year old business student madly in love with #fashion ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ 💌niina.galle@gmail.com ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      💉🇦🇹 medstudent 💋💄makeupaddict 🔮💀⚰🐲vamp/goth/dragonqueen 🃏♠real life-harley quinn use code „sstormborn“ at @newrockaustralia for 10% off 💸
     location: "Austria"
-    followers: 11455
-    engagement: 567
-    commentsToLikes: 0.100974
-    id: ck9weppojlcmp0j78nbb0p9f9
+    followers: 13235
+    engagement: 445
+    commentsToLikes: 0.041414
+    id: ck8t815ukiqas0j7802q56q8b
     verified: false
-    hashtags: "#diewocheaufinstagram, #autumnstyle, #holidays, #weekendvibes"
+    hashtags: "#nugoth, #halloweencostume, #gothicstyle, #wearekillstar"
+  - username: "nadjahluchovsky"
+    fullname: >-
+      Make-upArtist-Bodypainter💄🎨
+    bio: >-
+      Make-Up Artist & Bodypainter Based in Vienna Love being colourful & creative 💋 Mail:info@make-up4u.at Facebook&YouTube : Nadja Hluchovsky
+    location: "Austria"
+    followers: 34832
+    engagement: 133
+    commentsToLikes: 0.116110
+    id: ck5hrx5ayvmq60i11mxx72d7d
+    verified: false
+    hashtags: "#cutcrease, #eyemakeupoftheday, #eyemakeup, #revlonprofessional"
+  - username: "sweetenzias"
+    fullname: >-
+      Sᴡᴇᴇᴛᴇɴᴢɪᴀꜱ | Mᴀᴋᴇᴜᴘ Aʀᴛɪꜱᴛ
+    bio: >-
+      🎨 | ᴄᴇʀᴛɪғɪᴇᴅ ᴍᴀᴋᴇᴜᴘ ᴀʀᴛɪsᴛ 🏆 | ᴀʀᴛ ʙᴀʙᴇ ᴀᴡᴀʀᴅꜱ ᴡɪɴɴᴇʀ 2020 👁 | %ᴅɪꜱᴄᴏᴜɴᴛ ᴄᴏᴅᴇ: @ttd_eye : ꜱᴡᴇᴇᴛᴇɴᴢɪᴀꜱ ⬇️ 📨 | ᴅᴍ/ ᴇᴍᴀɪʟ: ᴍᴜᴀ_sᴡᴇᴇᴛᴇɴᴢɪᴀs@ɢᴍx.ᴀᴛ
+    location: "Austria"
+    followers: 6631
+    engagement: 1055
+    commentsToLikes: 0.194898
+    id: ckap22w1xx5820i783b7th47f
+    verified: false
+    hashtags: "#editorialmakeup, #creativeart, #mehronhalloween, #faceproject2018"
+  - username: "olga_sankin"
+    fullname: >-
+      Olga Sankin
+    bio: >-
+      🇰🇿 🇷🇺 Makeup & Opinions 🇩🇪 🇦🇹 Twitter & TikTok: olga_sankin
+    location: "Austria"
+    followers: 33130
+    engagement: 514
+    commentsToLikes: 0.086034
+    id: ckap50rbj9o6q0i78fn3bgc30
+    verified: false
+    hashtags: "#makeuptutorial, #eyeliner, #oljaljas, #makeuplook"
+  - username: "xmakeupista"
+    fullname: >-
+      Sandra Lukić
+    bio: >-
+      professional MuA & Educator 💄 ◾️ @slavya.academy ◾️ @slavya.design #byxmakeupista _____________________ A ♥
+    location: "Austria"
+    followers: 2338
+    engagement: 874
+    commentsToLikes: 0.066391
+    id: ckaorb593mi9m0i786fodtnp1
+    verified: false
+    hashtags: "#anastasiabrows, #abh, #brautmakeup, #muasupport"
 ---

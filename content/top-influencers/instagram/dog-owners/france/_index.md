@@ -1,130 +1,106 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In France in 2023
+title: Top 10 Dog Owners Instagram Influencers In France In 2023
 description: >-
-  Find top dog owners Instagram influencers in France in 2023. Most popular hashtags: #dogoftheday #love #dog.
+  Find top dog owners Instagram influencers in France in 2023. Most popular hashtags: #love #homedecor #dog.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 10 Instagram influencers like this in France for you to collaborate.
+hits: 8
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in France for you to contact.
 profiles:
-  - username: "joachim_pastor"
-    fullname: >-
-      Joachim Pastor
-    bio: >-
-      🇫🇷Home of joachim pastor 🔊Electronic music artist 🥇Founder of @hungrymusic 🎛Full analog geek 🏎Car lover 🦅Dog owner 🎧600k monthly spotify auditors
-    location: "France"
-    followers: 17999
-    engagement: 389
-    commentsToLikes: 0.048138
-    id: ck5bwsoiemc7f0i11v01i4icr
-    verified: false
-    hashtags: "#frenchtouch, #electronicmusicfestival, #liveshow, #seaofpeople"
-  - username: "adzmilner"
-    fullname: >-
-      ADZ MILNER
-    bio: >-
-      Rugby League Player @ctrlfc • Dog Owner @cockapooclive
-    location: "France"
-    followers: 7695
-    engagement: 487
-    commentsToLikes: 0.024137
-    id: ck8swjmxjeb9h0j78terosqvg
-    verified: true
-    hashtags: "#onevoice, #dadlife, #blackouttuesday"
   - username: "dog.lovers.squad"
     fullname: >-
       Dog Memes And Hacks!
     bio: >-
       🐶 Dog Lover 🐶 😂 OG Memes 😂 👏 Dog Owner Tips 👏 👑 Let’s Spoil Our Dogs 👑 . 🎇Trying to Make Dogs Famous With My Memes 🎇 . ❤️ Love Dogs Always ❤️
     location: "France"
-    followers: 13568
-    engagement: 127
-    commentsToLikes: 0.003757
+    followers: 12435
+    engagement: 115
+    commentsToLikes: 0.004850
     id: ck14h63x48q280i19htkpbfm1
     verified: false
-    hashtags: "#doglovers, #labrador, #dogsofinstagram, #instadog"
-  - username: "the.french.pack"
+    hashtags: "#puppy, #doglife, #lovedogs, #pet"
+  - username: "theoverseaslovers"
     fullname: >-
-      Ouraï et ses frerots
+      𝗖𝗔𝗠𝗜𝗟𝗟𝗘 & 𝗥𝗜𝗖𝗛𝗔𝗥𝗗 | 𝗧𝗿𝗮𝘃𝗲𝗹
     bio: >-
-      🐼 Ouraï, pouppy panda 15 %@pet.stones ➡️ OURAISTONES 10%@localiz_animaux ➡️ thefrenchpack 🐕 Nano, gros cul de ouu 🐶 Jonah, quenelle nunu 📍 Montpellier
+      ❥ Lifestyle & Travel 🌍 french couple ✺ 𝘏𝘈𝘗𝘗𝘠 𝘔𝘌𝘔𝘖𝘙𝘐𝘌𝘚 𝘊𝘖𝘓𝘓𝘌𝘊𝘛𝘖𝘙𝘚 ✨ ✈ Now: Toulouse, France 🇫🇷🥖🍷 ✯ Our handmade work @theoverseascrafts
     location: "France"
-    followers: 9366
-    engagement: 602
-    commentsToLikes: 0.039566
-    id: ck5zq3xt4tw230i14t0syhgql
+    followers: 2310
+    engagement: 1613
+    commentsToLikes: 0.291668
+    id: ckaoy932fgihe0i786dwajgxv
     verified: false
-    hashtags: "#yakutianlaika, #chienmignon, #akitalovers, #chiens"
-  - username: "kotopopi"
-    fullname: >-
-      Kotopopi
-    bio: >-
-      That artist with that weird name. Writer @succulentscomic ITALIANO> @tomato.comics FRANÇAIS> @croquebd
-    location: "France"
-    followers: 68513
-    engagement: 1196
-    commentsToLikes: 0.006588
-    id: ck138ckwhfkta0i19w0mg786e
-    verified: false
-    hashtags: "#webcomics, #deardiary, #quarantine, #instacomics"
+    hashtags: "#traveltoexplore, #couplesofig, #romantictrip, #couplefun"
   - username: "morganpalun.photography"
     fullname: >-
-      Morgan Palun
+      Morgan Palun-Ré
     bio: >-
-      📸 | Interior/Portrait Photographer 🏡 | @voxpopulideco Co-Owner 🐶 | Dogs lover @la_spa 🇫🇷 | Provence
+      📸 | Interior/Portrait Photographer 🏡 | @voxpopulideco Co-Owner 🐶 | Dogs Lover/Photographer @la_spa 🇫🇷 | Provence
     location: "France"
-    followers: 11825
-    engagement: 382
-    commentsToLikes: 0.028638
+    followers: 11585
+    engagement: 348
+    commentsToLikes: 0.027353
     id: ck6ty5pqp1tyd0j71yff45fr5
     verified: false
-    hashtags: "#nikoninspiration, #decorationinterieur, #provence, #stayhome"
+    hashtags: "#studio, #doglovers, #model, #explorer"
   - username: "julia_this"
     fullname: >-
       Julia This
     bio: >-
-      -29- 🇫🇷 French⭐Metz 🏠 Montmedy @vince_zombie ❤Aaron & Charly’s mum 👶 @rusty_foxy_dog 🦊 VWgirl-Photographer📷 Owner #fatalitybug @julia_t_photography
+      -29-🇫🇷French⭐Metz 🏠Montmedy @vince_zombie ❤A&C @happy_pasquis_family @rusty_foxy_dog 🦊 VWgirl-Photographer📷 Owner #fatalitybug @julia_t_photography
     location: "France"
-    followers: 7821
-    engagement: 539
-    commentsToLikes: 0.037044
+    followers: 8148
+    engagement: 502
+    commentsToLikes: 0.028777
     id: ck14gyuew7p560i193h4vlya3
     verified: false
-    hashtags: "#love, #cox, #lovemycar, #flower"
+    hashtags: "#vwetmoi, #love, #baywindow, #fatalitybug"
+  - username: "alexhopes"
+    fullname: >-
+      alex🚀hopes
+    bio: >-
+      Dog photographer w/ @zilkerbark. Dog dad w/ @myregalbeagle. Vacation rental owner w/ @casa.chicoma. Santa Fe NM & Austin TX
+    location: "France"
+    followers: 11035
+    engagement: 1160
+    commentsToLikes: 0.030296
+    id: ck5c72vhg6pga0i11wxm3qx7f
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "jasmine_poletastix"
+    fullname: >-
+      ⭐Jasmine PoletastiX ⭐
+    bio: >-
+      Owner&Trainer @poletastix_dusseldorf 🇩🇪 Yoga💖Poledance💖Fitness💖 hello@poletastix.com
+    location: "France"
+    followers: 45341
+    engagement: 98
+    commentsToLikes: 0.221305
+    id: ck8t1xuhzxh5l0j78d6eb2t5m
+    verified: false
+    hashtags: "#motivation, #quotes, #tbt, #yoga"
   - username: "dogxytocin"
     fullname: >-
       Dogs - Puppies - Friends 🐶
     bio: >-
       ❤️ Like our content? 🔔 📷 Credit reserves to its respective owners 👇🏻 Spotify Playlist👇🏻
     location: "France"
-    followers: 195293
-    engagement: 762
-    commentsToLikes: 0.004382
+    followers: 343823
+    engagement: 433
+    commentsToLikes: 0.004773
     id: ck8t1tp7pwzsz0j783di7hdsz
     verified: false
     hashtags: ""
-  - username: "celiaouldmohand.officiel"
+  - username: "dogsianz"
     fullname: >-
-      Celia Ould Mohand
+      Dogs - Puppies - Cuties
     bio: >-
-      Singer / Actress Owner @celiaomcreations 📩E-mail📪: pro.celia@outlook.com
+      ❤️ Like our content? 🔔 📷 Credit reserves to its respective owners
     location: "France"
-    followers: 306916
-    engagement: 532
-    commentsToLikes: 0.013645
-    id: ckaouuit51vp10i78xbyuhx7w
+    followers: 66190
+    engagement: 1203
+    commentsToLikes: 0.006464
+    id: ck8t28ebuyiqz0j789lgr73an
     verified: false
-    hashtags: "#friends, #love, #soon, #happiness"
-  - username: "cooldoggomemes"
-    fullname: >-
-      Cool doggo memes
-    bio: >-
-      Your daily dose of doggo memes. No content posted is ours; (message us proof of ownership for credit).
-    location: "France"
-    followers: 140897
-    engagement: 877
-    commentsToLikes: 0.006871
-    id: ck6u7notzmltr0j71manigevg
-    verified: false
-    hashtags: ""
+    hashtags: "#trustfall"
 ---

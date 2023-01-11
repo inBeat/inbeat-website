@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Colombia in 2023
+title: Top 10 Bloggers Instagram Influencers In Colombia In 2023
 description: >-
-  Find top bloggers Instagram influencers in Colombia in 2023. Most popular hashtags: #makeup #colombia #makeupartist #maquillaje.
+  Find top bloggers Instagram influencers in Colombia in 2023. Most popular hashtags: #makeup #maquillajecolombia #makeupartist.
 platform: Instagram
-hits: 74
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 74 Instagram influencers like this in Colombia for you to connect with.
+hits: 63
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 63 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "lauramonsalvomakeup"
-    fullname: >-
-      Diva, Top !
-    bio: >-
-      Beauty blogger 🌸 Talleres de maquillaje Ocaña- Aguachica 🌈 publicidad al 3136619966 Gus & Lau 👫👩‍❤️‍💋‍👨💖
-    location: "Colombia"
-    followers: 21634
-    engagement: 1462
-    commentsToLikes: 3.380859
-    id: ckaov9slz3naa0i78gdzg4oq7
-    verified: false
-    hashtags: "#diva, #color, #aesthetic, #power"
   - username: "saracalderonmakeup"
     fullname: >-
       Maquillaje Cartagena
     bio: >-
-      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
+      Maquillaje para toda ocasión ¡a domicilio! Cursos de automaquillaje 🖊 Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 #makeupcartagena Blogger
     location: "Colombia"
-    followers: 6466
-    engagement: 868
-    commentsToLikes: 0.118183
+    followers: 6543
+    engagement: 821
+    commentsToLikes: 0.145285
     id: ckaoydrcxh39n0i78g1yu92pf
     verified: false
-    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
+    hashtags: "#makeup, #tutorial, #maquillajenatural, #novias"
+  - username: "conchisamperr"
+    fullname: >-
+      Conchi Samper
+    bio: >-
+      Psicóloga Social Media Manager / Blogger / Moda / Belleza 💌hola@viviendotendencias.es 📍 Almería
+    location: "Colombia"
+    followers: 31288
+    engagement: 288
+    commentsToLikes: 0.079671
+    id: ck5hi0usmb25p0i11evzfvxeq
+    verified: false
+    hashtags: "#conchisamper, #modasostenible, #fotografiaartistica, #modacircular"
   - username: "carogallegoca"
     fullname: >-
       Caro Gallego Ca.
     bio: >-
       Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
     location: "Colombia"
-    followers: 34797
-    engagement: 342
-    commentsToLikes: 0.366796
+    followers: 36955
+    engagement: 234
+    commentsToLikes: 0.092682
     id: ck5qaczd5fr190i11fj3cjksh
     verified: false
-    hashtags: "#hawaii, #summernight, #dolcevitta"
-  - username: "maclablog"
-    fullname: >-
-      Macla 💖 Marcela McCausland
-    bio: >-
-      Creo que el amor es la fuerza más poderosa del mundo ❤️👩🏼‍💻💕 Presentadora, columnista y blogger de moda 👠
-    location: "Colombia"
-    followers: 76647
-    engagement: 268
-    commentsToLikes: 0.063156
-    id: ck0uabmgibsav0i19yykzcuum
-    verified: true
-    hashtags: "#colorful, #halloweenhair, #colombiamoda2020, #patrocinado"
-  - username: "valeriefrangie"
-    fullname: >-
-      Valerie Frangie
-    bio: >-
-      Fashion & Lifestyle Blogger Everyday looks. Real life fashion Directora Creativa @shopvf 1/2 @livinghabibi Coautora “La Cocina de Mamarie”
-    location: "Colombia"
-    followers: 39510
-    engagement: 261
-    commentsToLikes: 0.078086
-    id: ckap1bw68tx3p0i78ajlsruv1
-    verified: false
-    hashtags: "#transformatuinstagram21dias, #valeriefrangie, #vf, #tbt"
+    hashtags: "#viernestrepado, #giveaway"
   - username: "adribeautyartist"
     fullname: >-
       ✨Adri Beauty Artist✨
     bio: >-
-      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje y Cursos👇🏻
+      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje 👇🏻
     location: "Colombia"
-    followers: 13381
-    engagement: 852
-    commentsToLikes: 0.137053
+    followers: 13900
+    engagement: 813
+    commentsToLikes: 0.122506
     id: ckaoyngqii8us0i78s7n5ut7m
     verified: false
-    hashtags: "#maquillajebarranquilla, #makeupartist, #maquilladora, #maquillaje"
+    hashtags: "#atlantico, #maquillaje, #maquilladoracolombia, #adribeautyartist"
   - username: "paokatan"
     fullname: >-
       Paola Katan
     bio: >-
-      BEAUTY I LIFESTYLE I FASHION Youtuber, Blogger and mommy Content creator 💻blog: www.paolakatan.com #SoyVogera ⬇️Mi último video ⬇️
+      BEAUTY I LIFESTYLE I FASHION Youtuber, Blogger and mommy Content creator 💻blog: www.paolakatan.com #SoyVogera ⬇️Mi últimas fotos⬇️
     location: "Colombia"
-    followers: 15796
-    engagement: 255
-    commentsToLikes: 0.152220
+    followers: 15918
+    engagement: 254
+    commentsToLikes: 0.251160
     id: ck15u84ublvw30i19laidux05
     verified: false
-    hashtags: "#paokatan, #makeup, #cumplea, #quedateencasa"
-  - username: "estebanexplora"
+    hashtags: "#quedateencasa, #inspirar, #makeup, #paokatan"
+  - username: "leplumeti"
     fullname: >-
-      Esteban Explora 🗿
+      L e   P l u m e t i  💗💗
     bio: >-
-      🤙🏼 Viajes chimbitas 🌎 Travel Blogger en @eltiempo 🇨🇴 ¿Conoces realmente tu propio país?
+      👩🏻‍💻 Wedding & Lifestyle Blogger + Social Media Manager [C.M.] Contenido RRSS 📮📩 info@leplumeti.com ✨ ¿Hablamos? Me 👉🏼 @msmerida 🥰 {Mommy of one 🐣}
     location: "Colombia"
-    followers: 24640
-    engagement: 517
-    commentsToLikes: 0.426076
-    id: ck5zqacoyu8ih0i14dhyyq427
+    followers: 42708
+    engagement: 242
+    commentsToLikes: 0.037790
+    id: ck6tiufdl1g8x0j71i98wnrb9
     verified: false
-    hashtags: "#travel, #colombiainexplorada, #colombia, #lifeisbeautiful"
-  - username: "angelanuevamoda"
+    hashtags: "#noviaplumeti, #arras, #inspiration, #weddingblogger"
+  - username: "cassaragon"
     fullname: >-
-      Ángela María Guerrero
+      Cass Aragón•🇲🇽Mexi-leira🇧🇷
     bio: >-
-      𝑭𝒂𝒔𝒉𝒊𝒐𝒏, 𝑩𝒆𝒂𝒖𝒕𝒚 & 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 ♡︎ Entrepeneur | Blogger of fashion 𝑴𝒚 𝒃𝒓𝒂𝒏𝒅 ✨@nuevamoda__ 👉🏼💖 @desayunosbogota94 @luxuryboxcolombia @94lovers_
+      Viajar es la mejor escuela ✈️Travel blogger pata salada 💃Zumba instructor & Latin dancer 🌎Medio ambiente y mar 🌊 💼Manager:@alexandraglez 🎥YouTube👇🏼
     location: "Colombia"
-    followers: 53576
-    engagement: 51
-    commentsToLikes: 0.058679
-    id: ck6tlpyrt6f570j714f5d812q
+    followers: 28350
+    engagement: 565
+    commentsToLikes: 0.035466
+    id: ck0w2himboe3k0i19or90fx8f
     verified: false
-    hashtags: "#twerk, #jardinantioquia, #tiktok, #halloweenmakeup"
+    hashtags: ""
+  - username: "palabrademadre"
+    fullname: >-
+      Sheila, Palabra De Madre
+    bio: >-
+      Blogger desde 2012•Familia•Viajes•Periodista•Social Media freelance. Mejor Blog Ocio Familiar 2019 ✉️hola@palabrademadre.com📍Sitges, BCN Último post👇🏻
+    location: "Colombia"
+    followers: 30314
+    engagement: 153
+    commentsToLikes: 0.494848
+    id: ck136wnlc8m9q0i19oohro52c
+    verified: false
+    hashtags: "#gratis, #sitgesanytime, #sitges, #sorteo"
+  - username: "cuelateenmivestidor"
+    fullname: >-
+      Isamá Minayo
+    bio: >-
+      🙋🏻‍♀️Lifestyle Blogger 👩🏻‍💻Social Media 📚Aprendiz de escritora 📍Alicante 🔜 Cualquier parte 🌍 ✉️ hello@cuelateenmivestidor.com
+    location: "Colombia"
+    followers: 31115
+    engagement: 149
+    commentsToLikes: 0.258029
+    id: ck5qbxfxbnun90i1138gg10e3
+    verified: false
+    hashtags: "#alc, #alicante, #alicantemolamucho, #instaalicante"
   - username: "turcios_10"
     fullname: >-
-      J.A Turcios 🇭🇳🇨🇭
+      J.A Turcios
     bio: >-
       HONDUREÑO X EL MUNDO 🌍 TRAVELS |FASHION | LIFESTYLE—BLOGGER |YOUTUBER HONDUREÑO ⤵️ 🎥
     location: "Colombia"
-    followers: 33948
-    engagement: 113
-    commentsToLikes: 0.049592
+    followers: 35632
+    engagement: 64
+    commentsToLikes: 0.054421
     id: ckf5nyeea07ik0j23pj1mvb6p
     verified: false
-    hashtags: "#igerscolombia, #fashionblog, #colombia, #louisvuittonmen"
+    hashtags: "#louisvuittonbag, #diorsneakers, #diorhomme, #louisvuitton"
 ---

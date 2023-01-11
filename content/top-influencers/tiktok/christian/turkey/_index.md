@@ -1,130 +1,106 @@
 ---
-title: Top 10 Christian TikTok Influencers In Turkey in 2023
+title: Top 10 Christian TikTok Influencers In Turkey In 2023
 description: >-
-  Find top christian TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #cristiano #foryou #foryoupage.
+  Find top christian TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #cristiano #foryou #fenerbah.
 platform: TikTok
-hits: 11
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform has 11 TikTok influencers like this in Turkey for you to collaborate.
+hits: 8
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "beratincin01"
+  - username: "zeboum_"
     fullname: >-
-      Ben BEROO
+      *h*e*j*k*e*l
     bio: >-
-      
+      BRAWLER
     location: "Turkey"
-    followers: 2216
-    engagement: 1031
-    commentsToLikes: 0.032077
+    followers: 2121
+    engagement: 1141
+    commentsToLikes: 0.030197
     id: ck8j419ii0izy0j789iluchlk
     verified: false
-    hashtags: "#tiktoktreanding, #kesfettv, #instantbollywood, #tiktoktrends"
+    hashtags: "#instantbollywood, #benioner, #kesfettv, #tiktoktrends"
   - username: "erenkaankaracan"
     fullname: >-
       CristianoEren7
     bio: >-
       hedef 300K takipçi takip ederseniz sevinirim #teameren
     location: "Turkey"
-    followers: 256500
-    engagement: 1244
-    commentsToLikes: 0.003125
+    followers: 252200
+    engagement: 1209
+    commentsToLikes: 0.004317
     id: ckd05dya69tdq0j23y6e1qgje
     verified: false
-    hashtags: "#realmadridfc, #fotbaall, #cr7fans, #beni"
+    hashtags: "#beni, #realmadridfc, #ke, #cristiano"
+  - username: "miles0307"
+    fullname: >-
+      Ant07Selim
+    bio: >-
+      Dürüstlük pahalı bir mülktür ucuz insanlarda bulunmaz ✅ 🇹🇷💛💙FB💛💙🇹🇷0307
+    location: "Turkey"
+    followers: 5011
+    engagement: 2032
+    commentsToLikes: 0.109529
+    id: ck9jw7vz6vdmy0j78mwywmxju
+    verified: false
+    hashtags: "#fenerbah, #antalya07, #ke, #teammiles0307"
+  - username: "pojerss"
+    fullname: >-
+      PoJerS
+    bio: >-
+      
+    location: "Turkey"
+    followers: 31400
+    engagement: 804
+    commentsToLikes: 0.090168
+    id: cka9ouk9q68ca0i78nsumi5tq
+    verified: false
+    hashtags: "#foryou, #efsaney, #game, #ke"
   - username: "persian_lion"
     fullname: >-
       Persian_lion
     bio: >-
-      I love football & speaking the truth. 18. All a Joke. Let’s get 20K by Christmas
+      🐐👑🦁 ¿50k?
     location: "Turkey"
-    followers: 15700
-    engagement: 585
-    commentsToLikes: 0.163325
+    followers: 49300
+    engagement: 772
+    commentsToLikes: 0.106897
     id: ckcdke49l99dm0j23ol3gbu4u
     verified: false
-    hashtags: "#arsenal, #britishhumour, #soccer, #football"
-  - username: "stilistresulnew"
+    hashtags: "#football, #soccer, #fyp, #barca"
+  - username: "samet.erdemir"
     fullname: >-
-      StilistResul
+      Samet Erdemir
     bio: >-
-      📍GAZİANTEP RANDEVU İÇİN MESAJ BÖLÜMÜNDEN ULAŞABİLİRSİNİZ ( HERKESE AÇIK )
+      Samet ⚡ ETS 2 ⚡ Instagram: sameterdemirx
     location: "Turkey"
-    followers: 13800
-    engagement: 556
-    commentsToLikes: 0.050706
-    id: cka6lh4va34gq0i78ast0q8f6
-    verified: false
-    hashtags: "#adana, #ke, #antalya, #manavgat"
-  - username: "diablo_blood0"
-    fullname: >-
-      мєииαи_27
-    bio: >-
-      Gaziantep
-    location: "Turkey"
-    followers: 31200
-    engagement: 455
-    commentsToLikes: 0.041711
-    id: cka9ouk9q68ca0i78nsumi5tq
-    verified: false
-    hashtags: "#ke, #pugb, #pov, #foryou"
-  - username: "futbolcity"
-    fullname: >-
-      Futbol City
-    bio: >-
-      En güncel ve en güzel Futbol Videoları için takip edelim instagram:sameterdemirx
-    location: "Turkey"
-    followers: 2519
-    engagement: 717
-    commentsToLikes: 0.025534
+    followers: 2510
+    engagement: 742
+    commentsToLikes: 0.048871
     id: ckai8356b2qic0i78mdnjx5fi
     verified: false
-    hashtags: "#futboltr, #kesfetteyizzzz, #xyzbca, #opposelfie"
-  - username: "futbolkurdi"
+    hashtags: "#tff, #dahafazlasen, #lfs, #uefaeuropaleague"
+  - username: "mkfutbol1"
     fullname: >-
-      Futbolkurdi
+      mkfutbol
     bio: >-
-      
+      Sonsuz spor savaşçısı
     location: "Turkey"
-    followers: 12500
-    engagement: 916
-    commentsToLikes: 0.013617
-    id: cka9m4xdv3wav0i78e0okcbxa
+    followers: 36400
+    engagement: 600
+    commentsToLikes: 0.021861
+    id: ckbkiyg3xbna10j232jyan6fn
     verified: false
-    hashtags: "#futbol, #ke, #futbolkurdi, #tiktokt"
-  - username: "emre_b20"
+    hashtags: "#leomessi, #ronaldo, #manchesterunited, #fenerbah"
+  - username: "unstoppableng"
     fullname: >-
-      EMO⚡️
+      For You special
     bio: >-
-      İnstagram İçin Tıkla ☝️ Sende Takip Et Birlikte Issıralım Ortalığı ❤️ Topçu ⚽️20
+      All Sport Videos
     location: "Turkey"
-    followers: 3507
-    engagement: 369
-    commentsToLikes: 0.034088
-    id: ckb93juwnkfrq0j23hwdwl6re
+    followers: 5612
+    engagement: 833
+    commentsToLikes: 0.011133
+    id: ck9k7pa985sht0j7828rmfj9j
     verified: false
-    hashtags: "#gym, #elaz, #challenge, #tiktokturkey"
-  - username: "____krkmz__01__47____"
-    fullname: >-
-      🤙 b@tmanlı 🤞
-    bio: >-
-      🛑 Welcome To My Family 🛑 👆 inst : @____krkmz__01__47____ 👆 17 years
-    location: "Turkey"
-    followers: 17352
-    engagement: 805
-    commentsToLikes: 0.012866
-    id: ckae8cfeql9k50i78l7az9zzr
-    verified: false
-    hashtags: "#falcao, #gsd, #vartolu, #slowmo"
-  - username: "acemileylek"
-    fullname: >-
-      Acemi Leylek
-    bio: >-
-      Facebook.Com/PopulerVideolar Sayfamız Daha Fazlası
-    location: "Turkey"
-    followers: 26100
-    engagement: 268
-    commentsToLikes: 0.015067
-    id: ckb97bhnbpznu0j23fjq1dwnh
-    verified: false
-    hashtags: "#inan, #ilgin, #ke, #foryoupage"
+    hashtags: "#masatenisi, #tabletenis, #timeboll, #xuxin"
 ---

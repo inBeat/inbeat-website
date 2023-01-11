@@ -1,96 +1,108 @@
 ---
-title: Top 10 Health Instagram Influencers In Turin in 2023
+title: Top 10 Health Instagram Influencers In Turin In 2023
 description: >-
-  Find top health Instagram influencers in Turin in 2023. Most popular hashtags: #turin #torino #italy.
+  Find top health Instagram influencers in Turin in 2023. Most popular hashtags: #turin #love #instagood #italy.
 platform: Instagram
-hits: 5
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database holds 5 Instagram influencers like this in Turin, Italy for you to contact.
+hits: 4
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 4 Instagram influencers like this in Turin, Italy for you to collaborate.
 profiles:
-  - username: "piedmontfood"
-    fullname: >-
-      Piedmontfood
-    bio: >-
-      La più grande Food Community del Piemonte Scatta, Tagga, Scopri 😉 Tag us👇🏼 @piedmontfood #piedmontfood Admin: @rk_ema @torni @rleo05
-    location: "Italy"
-    followers: 31173
-    engagement: 189
-    commentsToLikes: 0.114558
-    id: ck55o4tpn7mfm0i113z4dregv
-    verified: false
-    hashtags: "#yummy, #amazing, #food, #like"
   - username: "giuse_joseph"
     fullname: >-
       © Giuse Joseph - Videomaker
     bio: >-
-      📍 Turin IT and beyond ✈️ 🎥 Filmmaker || Photographer || Director 📸 Canon 5D mark iii || Sony Alpha 7S ii || Mavic Air ✏️ DM or Email for contacts
+      📍 Turin IT and beyond ✈️ 🎥 Filmmaker || Photographer || Director 📈 Drop Shipping || E-Commerce || Web Marketing ✏️ DM or Email for contacts
     location: "Italy"
-    followers: 13670
-    engagement: 130
-    commentsToLikes: 0.046762
+    followers: 13548
+    engagement: 141
+    commentsToLikes: 0.043814
     id: ck14guqwz74lt0i192gmg5z09
     verified: false
-    hashtags: "#photography, #backstage, #portrait, #photographer"
-  - username: "sonia_dedo"
+    hashtags: "#portrait, #love, #videomaker, #behindthescenes"
+  - username: "eleonora_buratto"
     fullname: >-
-      Sonia (Dedo) Barreca💎
+      Eleonora Buratto
     bio: >-
-      Team: 🇮🇹@simonesantoro_cemiletarim🇮🇹 Torino 📬 sonia.barreca@icloud.com or Direct
+      Welcome to the official Instagram page of the Italian soprano Eleonora Buratto
     location: "Italy"
-    followers: 26788
-    engagement: 1250
-    commentsToLikes: 0.022212
-    id: ck8wd0kj4d8xs0j78f76looq7
+    followers: 8187
+    engagement: 801
+    commentsToLikes: 0.046703
+    id: ck14jjoznkpa60i19kzqvk620
     verified: false
-    hashtags: "#italiangirl, #travel, #fiume, #turin"
+    hashtags: "#jewelry, #mua, #hair, #ernani"
+  - username: "biancodavide_"
+    fullname: >-
+      Davide Bianco
+    bio: >-
+      👮Soldier 🇮🇹, Italy 🐟Spearfishing🌊 ✴Military Instructor 🇮🇹 ⛰ Mountain Climbing ❄ 🌍🗺 Love Traveling 🛫🌎
+    location: "Italy"
+    followers: 16921
+    engagement: 2282
+    commentsToLikes: 0.026959
+    id: ck8t34x871vof0j7862jmo2zx
+    verified: false
+    hashtags: "#catania, #italiansoldiers, #ercolano, #napoli"
   - username: "lestradeditorino"
     fullname: >-
       Le strade di Torino
     bio: >-
-      The city blog for urban explorers 🚲 | tips for locals | #lestradeditorino | also in Milan @lestradedimilano | Genova @lestradedigenova
+      Il blog per esploratori urbani | consigli da chi ama la città per chi vive la città | #lestradeditorino | scopri le altre città @lestradepuntocom
     location: "Italy"
-    followers: 30487
-    engagement: 226
-    commentsToLikes: 0.008582
+    followers: 34495
+    engagement: 197
+    commentsToLikes: 0.013796
     id: ck5cf063dm2b90i112mpmgnjh
     verified: false
-    hashtags: "#lestradeditorino, #feliceadesso, #healty, #architetturaitaliana"
-  - username: "dave_cfto"
+    hashtags: "#urbanexplorer, #torinocity, #architetturaitaliana, #whatitalyis"
+  - username: "itstheskinyourein"
     fullname: >-
-      Davide Dave Gioia
+      Serena✨beauty content creator - UGC
     bio: >-
-      🇮🇹 Coach & PT CrossFit Torino 🏋🏽‍♂ CrossFit Level 2 Trainer Competitor & Weightlifting Trainer 👐🏽Osteopath ——————— 📩davigio91@hotmail.com
+      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
     location: "Italy"
-    followers: 6011
-    engagement: 478
-    commentsToLikes: 0.030395
-    id: ck6txdv3dx9lj0j7153kjm1a3
+    followers: 36489
+    engagement: 1556
+    commentsToLikes: 0.159760
+    id: ck8tdo5fr44kc0j78ws6cotly
     verified: false
-    hashtags: "#gym, #personaltrainer, #kettlebelltraining, #fitnessmotivation"
+    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
+  - username: "mamastateofmind"
+    fullname: >-
+      Ashley Ager ☾
+    bio: >-
+      wife + mama motherhood | home | real life advocate for mental health + healing trauma ⚲ military family living in italy
+    location: "Italy"
+    followers: 12720
+    engagement: 674
+    commentsToLikes: 0.015836
+    id: ck0w5lkj248tg0i191ytcpnpg
+    verified: false
+    hashtags: "#twentynine, #lastyearofmytwenties, #family, #dallas"
   - username: "paolafreeman"
     fullname: >-
       Paula Freimane
     bio: >-
-      📚 Author of best-seller healthy cookbook 💜 Zelta Sastāvdaļa 📩 freimane.paula@gmail.com ⬇️Workouts YOUTUBE⬇️
+      📚Author of two best-seller healthy cookbooks 💜Zelta Sastāvdaļa 🧡Zelta Sastāvdaļa 2 📩freimane.paula@gmail.com ⬇️iegādājies Zelta Sastāvdaļa⬇️
     location: "Italy"
-    followers: 124758
-    engagement: 754
-    commentsToLikes: 0.317503
+    followers: 121890
+    engagement: 780
+    commentsToLikes: 0.177274
     id: ck0vv4f4anhzj0i19bhlmg690
     verified: true
-    hashtags: "#travellatvia, #autumn, #comingsoon, #rokudarbs"
-  - username: "remalda"
+    hashtags: "#rekla, #olbaltumvielambagats, #vicisurimi, #pokebowl"
+  - username: "nerinafrancesca"
     fullname: >-
-      Travel/Fashion/motherhood🇦🇱🇮🇹
+      💎 Francesca Nerina 💎
     bio: >-
-      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 Watch my stories 🙏 ✝️=💜 📨livetoinspireblog@gmail.com
+      HEALTH | FITNESS | LIFESTYLE 💪 Italy 🇮🇹 Brand Ambassador My only backup @francescanerinaa
     location: "Italy"
-    followers: 12106
-    engagement: 931
-    commentsToLikes: 0.099789
-    id: ck5zmzotkni710i1426xyuqcp
+    followers: 528497
+    engagement: 680
+    commentsToLikes: 0.048623
+    id: ck8t5753n90v00j78mkte5hhx
     verified: false
-    hashtags: "#momswhotravel, #polignanoamare, #perugia, #pugliabella"
+    hashtags: "#selfie, #heels, #dress, #homesweethome"
   - username: "aurilion_"
     fullname: >-
       𝓐𝓾𝓻𝓸𝓻𝓪 🐆
@@ -102,29 +114,17 @@ profiles:
     commentsToLikes: 0.093104
     id: ckap5am87awas0i786flt3d6h
     verified: false
-    hashtags: "#milanomarittima, #rexaline, #collezioneestiva, #occhialidasole"
-  - username: "nerinafrancesca"
+    hashtags: "#eyewear, #mykonos, #modadonna, #vacanze"
+  - username: "remalda"
     fullname: >-
-      💎 Francesca Nerina 💎
+      Travel/Fashion/motherhood🇦🇱🇮🇹
     bio: >-
-      HEALTH | FITNESS | LIFESTYLE 💪 Brand Ambassador My only backup @francescanerinaa
+      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 👀 my stories🙏 ✝️=💜 📨livetoinspireblog@gmail.com Nixplay
     location: "Italy"
-    followers: 419505
-    engagement: 377
-    commentsToLikes: 0.040970
-    id: ck8t5753n90v00j78mkte5hhx
+    followers: 12910
+    engagement: 463
+    commentsToLikes: 0.128079
+    id: ck5zmzotkni710i1426xyuqcp
     verified: false
-    hashtags: "#sea, #sun, #mirror, #night"
-  - username: "anej_sosic"
-    fullname: >-
-      Anej Sosic
-    bio: >-
-      Model + Actor - ~𝘈𝘸𝘢𝘳𝘥 𝘸𝘪𝘯𝘯𝘪𝘯𝘨 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘤𝘳𝘦𝘢𝘵𝘰𝘳~ T E Dx • youth, health legislation •
-    location: "Italy"
-    followers: 91574
-    engagement: 354
-    commentsToLikes: 0.068643
-    id: ck6ufp29jyboh0j71ap3j3rvu
-    verified: false
-    hashtags: "#pose, #repost, #comingsoon, #venice"
+    hashtags: "#enjoylife, #visitalbania, #espa, #girlswhotravel"
 ---

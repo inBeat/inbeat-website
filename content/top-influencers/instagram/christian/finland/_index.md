@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Finland in 2023
+title: Top 10 Christian Instagram Influencers In Finland In 2023
 description: >-
-  Find top christian Instagram influencers in Finland in 2023. Most popular hashtags: #finland #repost #stayhome #cristianoronaldo.
+  Find top christian Instagram influencers in Finland in 2023. Most popular hashtags: #music #winter #snow #piano.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 10 Instagram influencers like this in Finland for you to contact.
+hits: 15
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 15 Instagram influencers like this in Finland for you to work with.
 profiles:
+  - username: "monika_agarwall_04"
+    fullname: >-
+      Moni💖💖
+    bio: >-
+      @christian___bella_ ➡️5➖ßøYf®!€ñd ➡️DõN't Wo®®y !t'$ My ß!®tHdAt€😉 ➡️$€ãLf!€ Add!©tD📱 ➡️DõN't Pl@Y W!tH M€ B'©ôZ I KñôW I ©ãN Pl@Y ßâTt€® Th@ñ U😎
+    location: "Finland"
+    followers: 104182
+    engagement: 113
+    commentsToLikes: 0.084674
+    id: ck9wh9d19wvay0j78vl96zkqp
+    verified: false
+    hashtags: "#model, #literasi, #post, #gururandhawa"
   - username: "mrs.tews"
     fullname: >-
       Claudia Tews
     bio: >-
       💍@tews.christian 👨‍👩‍👧‍👧👫Mum of four kids 💕Zwillingsmädchen 💙@max.tews ❤️ @julia.tews 🌿Home & Garden 💄Beauty & Lifestyle
     location: "Finland"
-    followers: 44281
-    engagement: 340
-    commentsToLikes: 0.047869
+    followers: 51594
+    engagement: 344
+    commentsToLikes: 0.024800
     id: ck8tdd7jp2w240j78hvvgm76u
     verified: false
-    hashtags: "#wedding, #mrandmrstews, #immerdein, #specialwedding"
+    hashtags: "#holidays, #immerdein, #dackelliebe, #liebe"
+  - username: "samiyaffaofficial"
+    fullname: >-
+      Sami Yaffa
+    bio: >-
+      Bass w Michael Monroe,The Hellacopters, Hanoi Rocks, New York Dolls,Joan Jett, Pelle Miljoona Oy, Sami Yaffa: Sound Tracker
+    location: "Finland"
+    followers: 24674
+    engagement: 659
+    commentsToLikes: 0.021022
+    id: ck14hf69ia0md0i19ybl5lx3x
+    verified: false
+    hashtags: "#sylvainsylvain, #yleareena, #yle, #rnr"
+  - username: "scandinaviastandard"
+    fullname: >-
+      Scandinavia Standard
+    bio: >-
+      Scandinavian lifestyle for locals, travelers & Scandiphiles. In Copenhagen, Stockholm, Reykjavik, Oslo, & Helsinki. For travel recs, download our app.
+    location: "Finland"
+    followers: 40379
+    engagement: 149
+    commentsToLikes: 0.045219
+    id: ck15rsewq9gqf0i19yz9v4gwz
+    verified: false
+    hashtags: "#interiordesign, #scandinaviandesign, #scandinavianstyle, #denmark"
   - username: "franssalmi"
     fullname: >-
       𝘍𝘳𝘢𝘯𝘴 𝘚𝘢𝘭𝘮𝘪 | 𝘛𝘢𝘦𝘬𝘸𝘰𝘯𝘥𝘰 | ✞
     bio: >-
-      📍Turku, Finland •Taekwondo Athlete •Marketing Student •Entrepreneur 🥇European Champion 🥉World bronze medalist 🥇Beach Taekwondo World Champion
+      📍Turku, Finland 🥋Taekwondo Athlete 📄Marketing & Sales Student 💡Entrepreneur 🥇European Champion 🥉World bronze medalist 🥇Beach Taekwondo World Champion
     location: "Finland"
-    followers: 2298
-    engagement: 1859
-    commentsToLikes: 0.015508
+    followers: 2349
+    engagement: 1732
+    commentsToLikes: 0.023252
     id: ck8szvyrhpx2s0j78ni4ubr53
     verified: false
-    hashtags: "#taekwondo, #summer, #poomsae, #finland"
-  - username: "jonenikula"
+    hashtags: "#poomsae, #taekwondo, #turku, #finland"
+  - username: "tsapatakis_a"
     fullname: >-
-      Jone
+      Αντώνης Τσαπατάκης
     bio: >-
-      Juontaja, Radio Rock joka arkipäivä 11-15, Jonen Päivävuoro. Muuta suunsoittoa ja sekalaisia mediahommia siellä sun täällä.
+      @toyota @toyota.hellas @kallistivouliagmeni
     location: "Finland"
-    followers: 19842
-    engagement: 478
-    commentsToLikes: 0.011711
-    id: ck0vvpa7xq5ag0i19qv3u6df9
+    followers: 74350
+    engagement: 673
+    commentsToLikes: 0.021528
+    id: ck5bv0iz7irjv0i11e10om8j6
     verified: false
-    hashtags: "#radiorocksuomi, #kentt, #jonenp, #michaelmonroe"
-  - username: "dailymotoig"
+    hashtags: "#swimming, #tsapatakis, #solgar, #greece"
+  - username: "rebeckalala"
     fullname: >-
-      Motocross
+      Rebecka Assio
     bio: >-
-      #1 For Motocross Content 🔥 DM or #DailyMotoIG For a Submission ☠️
+      Listen to my music on SPOTIFY✨👇🏽
     location: "Finland"
-    followers: 109430
-    engagement: 182
-    commentsToLikes: 0.009937
-    id: ck55m2vuq32s90i11qax4rf10
+    followers: 2279
+    engagement: 1123
+    commentsToLikes: 0.117866
+    id: ck6tw1cwdpg0v0j71n2ruu5j3
     verified: false
-    hashtags: "#mx4life, #racing, #repost, #horsepower"
-  - username: "malvava"
+    hashtags: "#acoustic, #singer, #vocalist, #vocals"
+  - username: "meerikoutaniemi"
     fullname: >-
-      Malva Soewarno
+      Meeri Koutaniemi
     bio: >-
-      ☎️ Yunna +6282230558594 ( Malvava ) & +6287855813977 ( TEAM ) 💄 #MalvavaTeam @jessicajecky @zevillaa @bykeziadelarosa 🏡 Malvava Makeup Artist Studio
+      Photographer & Journalist // Human rights activist & Feminist // Dance & Nature lover
     location: "Finland"
-    followers: 141995
-    engagement: 99
-    commentsToLikes: 0.023908
-    id: ck5c1ajfyus3t0i11d2w57yyq
+    followers: 78989
+    engagement: 756
+    commentsToLikes: 0.012252
+    id: ck135z8c53yv00i19q3ssb9ld
     verified: false
-    hashtags: "#makeupbymalvava, #cantikitupeduli, #malvavamakeupartist, #stayhome"
-  - username: "chrishoiberg"
+    hashtags: "#filippasohva, #kummitytt, #rakas, #hengitys"
+  - username: "elisaviolinist"
     fullname: >-
-      Christian Hoiberg
+      Elisa Järvelä
     bio: >-
-      Lofoten, Norway #CaptureLandscapes Tutorials | eBooks | Courses | Tours
+      Violinist | Global Performer | Master of Music 🎻Acoustic & Electronic 🎵Classical & EDM 💃🏻FASHION 🧚🏼‍♀️Beauty 🤸🏼‍♀️ Sport From🇫🇮 👇Latest video
     location: "Finland"
-    followers: 81819
-    engagement: 323
-    commentsToLikes: 0.035982
-    id: ck14jfuuak4k80i19glt5sqfs
+    followers: 19717
+    engagement: 142
+    commentsToLikes: 0.045961
+    id: ck6u5bf6o8nmb0j71o94jmzzb
     verified: false
-    hashtags: "#norway, #lofoten, #norge, #hiking"
-  - username: "dq_the_legend"
+    hashtags: "#winteroutfit, #levi, #lapland, #winteroutfits"
+  - username: "cris_boy_cr7"
     fullname: >-
-      🔰DQ THE LEGEND🔰[🔥14k🔥]
+      ᴀᴊᴀʏ ᴄʀ 🎭
     bio: >-
-      🔹@dqsalmaan ᴏꜰꜰɪᴄɪᴀʟ ꜰᴀɴ ᴘᴀɢᴇ 🔹24ʜ×7ᴜᴘᴅᴀᴛᴇꜱ 🔹ᴏɴʟɪɴᴇ ᴘʀᴏᴍᴏᴛɪᴏɴ ᴛᴇᴀᴍ 🔹ᴘʜᴏᴛᴏꜱ,ᴠɪᴅᴇᴏꜱ,ᴛʀᴏʟʟꜱ,ᴇᴛᴄ 🔹ᴅQ ɴᴇxᴛ ᴍᴏᴠɪᴇꜱ👇 ➡ᴋᴜʀᴜᴘᴘ ➡ʜᴇʏ ꜱɪɴᴀᴍɪᴋᴀ ➡ᴠᴀᴀɴ
+      ❤ ᴅɪᴇ-ʜᴀʀᴅ ꜰᴀɴ ᴏꜰ ʀᴏɴᴏ ❤ . ᴘʀꜱɴʟ ᴀᴄᴄɴᴛ : @a_j_7_y . 🐐 @cristiano 🐐 . ✨ @juventus ✨ . ⚡ʏᴏᴜʀ ʟᴏᴠᴇ ᴍᴀᴋᴇꜱ ᴍᴇ ꜱᴛʀᴏɴɢ & ʏᴏᴜʀ ʜᴀᴛᴇꜱ ᴍᴀᴋᴇꜱ ᴍᴇ ᴜɴꜱᴛᴏᴘᴘᴀʙʟᴇ ⚡
     location: "Finland"
-    followers: 14665
-    engagement: 590
-    commentsToLikes: 0.024075
-    id: ck9wief0h1yju0j78gf51n0ni
+    followers: 102920
+    engagement: 324
+    commentsToLikes: 0.011408
+    id: ck9hapw0adkrs0j78prmrtle2
     verified: false
-    hashtags: "#malayalam, #ernakulam, #troll, #karikku"
-  - username: "toffem"
-    fullname: >-
-      Football Boots & Cleats
-    bio: >-
-      Boot Collector - 🇫🇮🇸🇪🇬🇧 🔌 Influencer 📅 Latest football boot news! 📸 Pics by me, unless stated Use promo code «TOFFEM» for 5% off 👇🏻
-    location: "Finland"
-    followers: 247685
-    engagement: 102
-    commentsToLikes: 0.020461
-    id: ck13c2t08ycii0i19i0h3o6oi
-    verified: false
-    hashtags: "#adidas, #predator, #footballboot, #nike"
-  - username: "mariaveitola"
-    fullname: >-
-      Maria Veitola
-    bio: >-
-      TV- ja radiotoimittaja, kirjailija, keskustelija, yökyläilijä. ♥ B•🌸•S•S•L•A•D•🍕♥ Ota yhteys: anu@mellakkamanagement.fi
-    location: "Finland"
-    followers: 165441
-    engagement: 643
-    commentsToLikes: 0.023108
-    id: ck0uajx6pcg1n0i19d8u6wbi6
-    verified: true
-    hashtags: "#maskedsingersuomi, #minttuvesalastyling, #yo, #lyhtykulkue"
-  - username: "the69eyesofficial"
-    fullname: >-
-      The 69 Eyes
-    bio: >-
-      Official #The69Eyes Instagram. The original Helsinki Vampires since 1989 🦇🇫🇮. New album, West End, out now! Listen and order at:
-    location: "Finland"
-    followers: 27018
-    engagement: 680
-    commentsToLikes: 0.025306
-    id: ck5ckqmjzxf2s0i11rpjdax5i
-    verified: true
-    hashtags: "#helsinkisleaze, #27anddone, #twohornsup, #helsinkivampires"
+    hashtags: ""
 ---

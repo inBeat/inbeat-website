@@ -1,130 +1,130 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Brazil in 2023
+title: Top 10 Guitar Instagram Influencers In Brazil In 2023
 description: >-
-  Find top guitar Instagram influencers in Brazil in 2023. Most popular hashtags: #guitar #rockon #pitty.
+  Find top guitar Instagram influencers in Brazil in 2023. Most popular hashtags: #guitar #rock #guitarrista.
 platform: Instagram
-hits: 529
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 529 Instagram influencers like this in Brazil for you to pitch.
+hits: 491
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 491 Instagram influencers like this in Brazil for you to pitch.
 profiles:
   - username: "deleogt"
     fullname: >-
       
     bio: >-
-      ✖️ guitarrista | @moradaoficial ✍🏻 mv guitar | handspb | 440sound | bless music
+      ✖️ guitarrista | @moradaoficial ✖️ CEO at @ggnexusbr ✖️ Pai do biel e marido da dea “deleo masterclass” ⬇️
     location: "Brazil"
-    followers: 68661
-    engagement: 1056
-    commentsToLikes: 0.022712
+    followers: 72420
+    engagement: 961
+    commentsToLikes: 0.067540
     id: ck6016uxwey4a0i14o16qpf8z
     verified: false
-    hashtags: "#qualguitarrafalou"
-  - username: "muriloamancio"
-    fullname: >-
-      Murilo Amancio
-    bio: >-
-      Guitar for @BlackDaysNoises 🌐 Photographer | Videomaker #Turnêmatriz @pitty |@analog_35 | @fenrisclothing | @lexquisitefilms muriloaamancio@gmail.com
-    location: "Brazil"
-    followers: 9735
-    engagement: 628
-    commentsToLikes: 0.076007
-    id: ck0txwsjbksa30i19fagnnay1
-    verified: false
-    hashtags: "#matriz, #sonyalpha, #pitty, #turn"
-  - username: "edgarde9"
-    fullname: >-
-      Edgar Gomez
-    bio: >-
-      🇦🇷 Guitarrista de Damas Gratis 🎸 Edgar de 9🎹🎧💿🎚💿(Set Show para Boliches, Fiestas, Eventos, previas ) ♏Escorpio 🦂
-    location: "Brazil"
-    followers: 27759
-    engagement: 531
-    commentsToLikes: 0.031890
-    id: ck14k5165nra30i19amqpvvr3
-    verified: false
-    hashtags: "#cumbia, #2020, #damasgratis, #dukissj"
-  - username: "brunocarvalhobc"
-    fullname: >-
-      Bruno Carvalho
-    bio: >-
-      Guitarrista - @sorrisomaroto Sócio - @ternariomusic Guitarist(eletric/acoustic) & arranger Musical producer 📍Rio de Janeiro, Brazil
-    location: "Brazil"
-    followers: 12412
-    engagement: 509
-    commentsToLikes: 0.086741
-    id: ck9we9wlmjbly0j78eqidlj45
-    verified: false
-    hashtags: "#tbt"
+    hashtags: ""
   - username: "prikaamaral"
     fullname: >-
       Prika Amaral
     bio: >-
       Guitarist and founder of Nervosa @nervosathrash Sponsored by: @pedroneamps @kramerguitarsus @espacosom @tiaflex @sgstrings @knox_ink @edsmodshop
     location: "Brazil"
-    followers: 49630
-    engagement: 877
-    commentsToLikes: 0.027593
+    followers: 54461
+    engagement: 756
+    commentsToLikes: 0.026618
     id: ckaow2are73lk0i78ynpftfks
     verified: false
-    hashtags: "#prikaamaral, #thrashmetal, #headbanger, #nervosathrash"
+    hashtags: "#thrashmetal, #nervosa, #perpetualchaos, #headbanger"
+  - username: "muriloamancio"
+    fullname: >-
+      Murilo Amancio
+    bio: >-
+      Guitar for @BlackDaysNoises 🌐 Photographer | Videomaker #Turnêmatriz @pitty |@analog_35 | @fenrisclothing | @lexquisitefilms muriloaamancio@gmail.com
+    location: "Brazil"
+    followers: 9809
+    engagement: 623
+    commentsToLikes: 0.076760
+    id: ck0txwsjbksa30i19fagnnay1
+    verified: false
+    hashtags: "#pitty, #turn, #sonyalpha, #matriz"
   - username: "lucasxmalta"
     fullname: >-
       Lucas Malta
     bio: >-
       SP/23 anos Guitarra 🎸 São Paulo-SP Contato - E-mail 👇🏻
     location: "Brazil"
-    followers: 80256
+    followers: 79867
     engagement: 265
-    commentsToLikes: 0.037587
+    commentsToLikes: 0.040984
     id: ck1387n4jevy10i195p2hyp7n
     verified: false
-    hashtags: "#guitar, #longhair, #blondehair, #hair"
+    hashtags: "#hairstyle, #longhair, #blondehair, #ink"
   - username: "esprilalimariane"
     fullname: >-
       E S P R I L A 🎸
     bio: >-
-      Guitarrista @tnshebr PROFª GUITARRA E VIOLÃO Agende agora mesmo uma aula experimental 😉 D’Addario | Gibson Brasil | Marshall Brasil VÍDEO NOVO ⬇️😃
+      🔴 Guitarrista na @tnshebr 🔴 PROFª GUITARRA/VIOLÃO 🔴 aulas online e presenciais 🔴 Agende agora sua aula experimental 😉 🔴 D’Addario•Gibson Brasil ⬇️⬇️
     location: "Brazil"
-    followers: 10644
-    engagement: 481
-    commentsToLikes: 0.114961
+    followers: 11025
+    engagement: 447
+    commentsToLikes: 0.094124
     id: ck5pzyz8e3ftf0i11uakrr1x1
     verified: false
-    hashtags: "#tnshe, #powerup, #rockon, #acdc"
+    hashtags: "#kikoloureiro, #guitar, #rock, #estudeguitarra"
   - username: "anderson_guitta"
     fullname: >-
       lanchinho_guitta
     bio: >-
-      guitarrista:🎸e produtor musical 🎼ex:guitarrista @ze_vaqueiroof @wanessa_aylla💍 pai de duas princesas 👸
+      guitarrista:🎸e produtor musical,experiência @ze_vaqueiroof @wanessa_aylla💍 pai de duas princesas 👸
     location: "Brazil"
-    followers: 3855
-    engagement: 1587
-    commentsToLikes: 0.069843
+    followers: 3814
+    engagement: 1622
+    commentsToLikes: 0.069376
     id: ckaoxcbi4cpxf0i787eb83fu5
     verified: false
     hashtags: ""
-  - username: "ra.ffa"
+  - username: "thiagopitrez"
     fullname: >-
-      𝕽𝖆𝖋𝖆𝖊𝖑 𝕭𝖗𝖆𝖘𝖎𝖑
+      Thiago Pitrez
     bio: >-
-      . @farfromalaska . @pedaizz . @listodigital - earthquaker devices artist, mk guitar shop, hellocases
+      Fotógrafo • Filmmaker • Guitarrista da @rockfused . POA | RS
     location: "Brazil"
-    followers: 17124
-    engagement: 760
-    commentsToLikes: 0.011963
-    id: ck5q9iowkbb4t0i11mbbz9evd
+    followers: 21965
+    engagement: 189
+    commentsToLikes: 0.096287
+    id: ck8t0kcz0scxx0j78ekfcs9pb
     verified: false
-    hashtags: "#farfromalaska, #sepultura, #tbt, #plutaojafoiplaneta"
-  - username: "pixierqueen"
+    hashtags: "#pinscher, #pretilene, #nadadora, #casamento"
+  - username: "paula_carregosa"
     fullname: >-
-      Lucas Piex
+      🛸 PAULA CARREGOSA
     bio: >-
-      Hairstylist 💇 Colorist 🎨 Guitar Player 🎸 And a Killer Queen 👸 No salão @duo_mais 💆‍♀️ Especialista em Pixie Hair! 👦
+      Brazilian Lefty-handed Guitarrista 🎸 I’m Random👹 Produção Musical @ejectstudios Formada em Comunicação Social | RP | MKT | MÍDIAS @flavio.produtor 💍
     location: "Brazil"
-    followers: 18058
-    engagement: 433
-    commentsToLikes: 0.027472
-    id: ck5zu9hhp1xm00i14rz9tqrh1
+    followers: 108108
+    engagement: 385
+    commentsToLikes: 0.016506
+    id: ck5zy3zhk96ra0i14g8ugfv10
     verified: false
-    hashtags: ""
+    hashtags: "#julianocorrea, #itapetininga, #cabelosaudavel, #itape"
+  - username: "danylloxarles"
+    fullname: >-
+      Dany Boy
+    bio: >-
+      Guitarrista e Produtor Musical! 🎧🎸🇧🇷 @drmusic83 @dialetorock Gravações online. Informações pelo direct. João Pessoa - PB📍
+    location: "Brazil"
+    followers: 10276
+    engagement: 360
+    commentsToLikes: 0.082991
+    id: ck8t0l0afsf560j78lv82fd53
+    verified: false
+    hashtags: "#producaomusical, #forr, #forronaguitarra, #musicaminhavida"
+  - username: "juliasmithoficial"
+    fullname: >-
+      JULIA SMITH
+    bio: >-
+      🎤cantora 🎹compositora 🎸guitarrista CALMA E PAZ - ASSISTA AGORA 👇🏻
+    location: "Brazil"
+    followers: 22209
+    engagement: 76
+    commentsToLikes: 0.109153
+    id: ck8tdtjaw4prl0j78759hwtih
+    verified: false
+    hashtags: "#diadomusico, #johnmayer, #emojiofa, #repost"
 ---

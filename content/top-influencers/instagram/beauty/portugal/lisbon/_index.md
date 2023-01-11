@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Lisbon in 2023
+title: Top 10 Beauty Instagram Influencers In Lisbon In 2023
 description: >-
-  Find top beauty Instagram influencers in Lisbon in 2023. Most popular hashtags: #beauty #portugal #fashion #makeup.
+  Find top beauty Instagram influencers in Lisbon in 2023. Most popular hashtags: #summer #fashion #beauty #beach.
 platform: Instagram
-hits: 35
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 35 Instagram influencers like this in Lisbon, Portugal for you to collaborate.
+hits: 11
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 11 Instagram influencers like this in Lisbon, Portugal for you to contact.
 profiles:
-  - username: "_vitoriamota"
+  - username: "martaalvespinklemonade"
     fullname: >-
-      Vitória Mota
+      Marta Alves 🌙 Pink Lemonade
     bio: >-
-      @lagence_lisboa @nextmodels
+      Makeup and Skincare addict Glam • Workshops • Brides thepinklemonade@hotmail.com Promocode até 25%👇🏻
     location: "Portugal"
-    followers: 54055
-    engagement: 384
-    commentsToLikes: 0.034453
-    id: ck0vxre5m0c0z0i19deeooo6e
+    followers: 30934
+    engagement: 138
+    commentsToLikes: 0.064470
+    id: ck5zlojp8l3qj0i144bqujskv
     verified: false
-    hashtags: "#fashion, #skin, #cool, #styling"
-  - username: "susanachaves"
-    fullname: >-
-      Susana Persson Chaves
-    bio: >-
-      👩🏻‍✈️Captain-in-chief 🌴 @mirandabysapo & ✈️ @Beauty_Airlines 💋 #BeautyAddict 👉🏻 #FlightModeBeauty Early adopter. Late bloomer. Life hacker.
-    location: "Portugal"
-    followers: 12152
-    engagement: 159
-    commentsToLikes: 0.034316
-    id: ck5c5eg5r3bft0i114fg1lyfq
-    verified: false
-    hashtags: "#igtopshelfie, #onmyshelf, #home, #mirandabysapo"
-  - username: "joanamoreira_makeup"
-    fullname: >-
-      Joana Moreira_makeup
-    bio: >-
-      Beauty Makeup Artist 🇵🇹// Lisbon Celebrity / Beauty / Campaign / Brides Tutoriais aos Sábados 🙌🏼
-    location: "Portugal"
-    followers: 25130
-    engagement: 434
-    commentsToLikes: 0.122618
-    id: ck9h9qk9x9kew0j78npxs9q1j
-    verified: false
-    hashtags: "#makeuplisbon, #makeupartistlisbon, #makeupportugal, #makeuplisboa"
-  - username: "lord_vladbathory"
-    fullname: >-
-      𝘙𝘖𝘋𝘙𝘐𝘎𝘖 𝘎𝘖𝘕Ç𝘈𝘓𝘝𝘌𝘚
-    bio: >-
-      A boy obsessed with beauty💄 𝘔𝘢𝘬𝘦𝘶𝘱 | 𝘓𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 | 𝘍𝘢𝘴𝘩𝘪𝘰𝘯 📍Lisbon,Portugal 🇵🇹 📩 rodrigo14@live.com.pt 👇YOUTUBE, ARGENTMAKEUP, TTDEYE👇
-    location: "Portugal"
-    followers: 5618
-    engagement: 870
-    commentsToLikes: 0.148945
-    id: ck6tx83ujwcya0j71af0no11j
-    verified: false
-    hashtags: "#horrorhags, #spookyseason, #31daysofhalloweenmakeup, #halloweenmakeupideas"
-  - username: "evandromgomes_"
-    fullname: >-
-      Evandro Gomes
-    bio: >-
-      | On God | Seeker en @oblackcaps
-    location: "Portugal"
-    followers: 4835
-    engagement: 1972
-    commentsToLikes: 0.017567
-    id: ck5c7657f6w7l0i116t4tw5gg
-    verified: false
-    hashtags: "#modamasculina, #men, #instaphoto, #beauty"
-  - username: "alicetrewinnard"
-    fullname: >-
-      Alice Trewinnard
-    bio: >-
-      From Lisbon, Portugal Fashion, beauty & healthy living Represented by @Notable.pt ALICE TREWINNARD X CATA VASSALO SHOP NOW!
-    location: "Portugal"
-    followers: 250312
-    engagement: 872
-    commentsToLikes: 0.091161
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#cas, #portugal, #lorealparispub, #wells"
-  - username: "torysmithphoto"
-    fullname: >-
-      Tory Smith | Photographer
-    bio: >-
-      Fashion, Beauty & Advertising #Photographer London | Lisbon
-    location: "Portugal"
-    followers: 17338
-    engagement: 263
-    commentsToLikes: 0.071880
-    id: ck6tp7i5ri9bf0j71cfhdud4a
-    verified: false
-    hashtags: "#caparica, #beauty, #makeupartist, #portrait"
+    hashtags: "#beach, #lookoftheday, #ootd, #naturalmakeup"
   - username: "brunagaliano_"
     fullname: >-
       Bruna Galiano
     bio: >-
-      Lifestyle, beauty and fashion 📍Lisbon Real estate agent/ Remax 📧 brunagaliano@hotmail.com
+      Lifestyle, beauty and fashion 📍Lisbon 🇵🇹🇦🇴 Real estate agent/ Remax 📧 brunagaliano@hotmail.com
     location: "Portugal"
-    followers: 8691
-    engagement: 1021
-    commentsToLikes: 0.017497
+    followers: 9157
+    engagement: 939
+    commentsToLikes: 0.024331
     id: ck8tb4ctxu7ub0j78jl5614zn
     verified: false
-    hashtags: "#curls, #beautiful, #tb, #blackouttuesday"
-  - username: "thepinkelephantshoe"
+    hashtags: "#praiadosalem, #melanina, #stayhome, #summer"
+  - username: "alicetrewinnard"
     fullname: >-
-      Cátia Rodrigues
+      Alice Trewinnard
     bio: >-
-      Beauty & Lifestyle Blogger 🌸 Lisbon 📍 I truly believe that our skin should glow as much as our soul ✨ 💌 thepinkelephantshoe@gmail.com NOVO POST👩🏼‍💻👇🏻
+      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
     location: "Portugal"
-    followers: 19572
-    engagement: 619
-    commentsToLikes: 0.671275
-    id: ck0vv7ejrnvfu0i19lj715hn8
-    verified: false
-    hashtags: "#skincare, #giveaway, #passatempo, #skinpt"
-  - username: "misscasimiro"
+    followers: 269425
+    engagement: 1129
+    commentsToLikes: 0.006114
+    id: ck134v13sybqz0i19a00owtxx
+    verified: true
+    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
+  - username: "alexmoraisoff"
     fullname: >-
-      Mädchen
+      Alexandre Morais
     bio: >-
-      Daniela Casimiro Direito/Law 🎓 📍Lisbon 90’s kid beauty | aesthetic | photography |everything
+      @centralmodels 🇵🇹 Ambassador of @cabelopantene Shanti 🕊
     location: "Portugal"
-    followers: 9604
-    engagement: 1786
-    commentsToLikes: 0.066591
-    id: ck9hb1xoaf15l0j789k7x4783
+    followers: 5775
+    engagement: 1406
+    commentsToLikes: 0.026825
+    id: ck5pxx48stakv0i11ihxacllg
     verified: false
-    hashtags: "#eyes, #aesthetically, #quarantine, #quarentena"
+    hashtags: "#outfit, #liveinlevis, #fashionstyle, #outfitinspiration"
+  - username: "marianacardia"
+    fullname: >-
+      Mαяιαηα 🌹
+    bio: >-
+      📍Lisbon 🇵🇹 👩🏼‍🎓:ciências da comunicação 💖: Beauty - Fashion - Travel 💓 📩: prettyinpinkgeral@gmail.com 🖥: www.prettyinpink.pt⠀ ⠀⠀⠀🛍⠀@dailypinkootd
+    location: "Portugal"
+    followers: 16563
+    engagement: 540
+    commentsToLikes: 0.089691
+    id: ck8t6uh2eeqch0j78kg2sj6w0
+    verified: false
+    hashtags: "#dresslily, #dresses, #dresslilyfashion, #newdresses"
+  - username: "coach_saraserol"
+    fullname: >-
+      Sara Serol
+    bio: >-
+      📍Lisbon, 24 ⚡ Personal Trainer- presencial & online 📩 @eunutrition_pt : SARASEROL15 💥
+    location: "Portugal"
+    followers: 3663
+    engagement: 1196
+    commentsToLikes: 0.014761
+    id: ckf5n8h9ix5j30j23bhiyg8gx
+    verified: false
+    hashtags: "#fitgirl, #ootd, #summer, #water"
+  - username: "alexandracariano"
+    fullname: >-
+      Alexandra Cariano
+    bio: >-
+      @alexandra_cariano . Dogs Sea Greens Chocolate 🤍 fuel to my soul . Let the beauty of what you love be what you do 🤍 .
+    location: "Portugal"
+    followers: 20311
+    engagement: 373
+    commentsToLikes: 0.112543
+    id: ck5bvze06kp490i11x8e5kbr0
+    verified: false
+    hashtags: "#lisboa, #chocolate, #zomatoemcasa, #giveaway"
+  - username: "_vitoriamota"
+    fullname: >-
+      Vitória Mota
+    bio: >-
+      @lagence_lisboa @nextmodels worldwide @unomodels
+    location: "Portugal"
+    followers: 52844
+    engagement: 277
+    commentsToLikes: 0.032530
+    id: ck0vxre5m0c0z0i19deeooo6e
+    verified: false
+    hashtags: "#chilling, #portugal, #beauty, #summer"
+  - username: "andrecostaac"
+    fullname: >-
+      Andre Costa
+    bio: >-
+      𝐋𝐢𝐯𝐢𝐧𝐠 𝐦𝐲 𝐯𝐚𝐥𝐮𝐞𝐬 𝐰𝐢𝐭𝐡 𝐜𝐨𝐮𝐫𝐚𝐠𝐞. _________________ 𝐌𝐨𝐝𝐞𝐥-𝐓𝐫𝐚𝐯𝐞𝐥𝐥𝐞𝐫 *Wilhelmina-NY|MIA|LA *Independent-ITA *Uno-ESP *Dulcedo-CAN *L'Agence-POR
+    location: "Portugal"
+    followers: 117547
+    engagement: 242
+    commentsToLikes: 0.023099
+    id: ck0vx7nf5xjx50i19fbp9qfmc
+    verified: false
+    hashtags: "#fashion, #summer, #braganca, #intimissimiuomo"
+  - username: "aaron_gqs"
+    fullname: >-
+      Aaron Gabriel
+    bio: >-
+      Singer•Model•Actor Dreamer ✨ Believe in your Dreams 🇧🇷•🇵🇹
+    location: "Portugal"
+    followers: 10795
+    engagement: 529
+    commentsToLikes: 0.034095
+    id: ck0u82uor6dra0i19ynn0yreo
+    verified: false
+    hashtags: "#men, #bloggerstyle, #outfitoftheday, #cover"
 ---

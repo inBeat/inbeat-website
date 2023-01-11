@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In France in 2023
+title: Top 10 Yoga TikTok Influencers In France In 2023
 description: >-
-  Find top yoga TikTok influencers in France in 2023. Most popular hashtags: #yoga #pourtoi #foryou #challenge.
+  Find top yoga TikTok influencers in France in 2023. Most popular hashtags: #yoga #pourtoi #foryou #fitness.
 platform: TikTok
-hits: 22
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 22 TikTok influencers like this in France for you to collaborate.
+hits: 23
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 23 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "the_tiny_yogini"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Yoga Teacher 🇫🇷 Based in Paris 🤸🏻‍♂️Handstands lover I’m here to flow
     location: "France"
-    followers: 8687
-    engagement: 1502
-    commentsToLikes: 0.005647
+    followers: 8537
+    engagement: 1574
+    commentsToLikes: 0.005922
     id: ckc8in1dhc6bb0j233ojoixvi
     verified: false
-    hashtags: "#handstand, #gymnastics, #gym, #handstandchallenge"
+    hashtags: "#yogi, #forearmstand, #gymnast, #handstand"
   - username: "fau.yoga"
     fullname: >-
       Faustine
     bio: >-
       90´s kid Yoga girl and teacher 🦋 Instagram : @fau.yoga
     location: "France"
-    followers: 33100
-    engagement: 859
-    commentsToLikes: 0.010525
+    followers: 32900
+    engagement: 783
+    commentsToLikes: 0.007190
     id: ck8j8pwd8juup0j78kag0fsg0
     verified: false
-    hashtags: "#yogachallenge, #yoga, #flexible, #yogagirl"
-  - username: "mathildejourdan16"
+    hashtags: "#yogachallenge, #yoga, #fitness, #pourtoi"
+  - username: "_ashletix_"
     fullname: >-
-      mathildejourdan16
+      Ashletix
     bio: >-
-      Sport Pole Dance 💪 Nutrition Instagram: @mathilde_jdn_
+      INSTA: @_ASHLETIX_ Fitness 💪 Travel 🌍 Acrobatics 🤸‍♀️ Travelled 30 countries
     location: "France"
-    followers: 33900
-    engagement: 1420
-    commentsToLikes: 0.008782
-    id: ckc1ucv73ykvv0j23f101yqd9
+    followers: 10700
+    engagement: 2076
+    commentsToLikes: 0.073890
+    id: ck9flwj4sqaq00j78zp1nd82e
     verified: false
-    hashtags: "#souplesse, #poledance, #lingerie, #acroyoga"
+    hashtags: "#gymnast, #up, #pourtoipage, #foryoupage"
   - username: "michaelnaja"
     fullname: >-
       michaelnaja
     bio: >-
-      💙Keep calm and enjoy the moment my friend💙
+      💙Keep calm and enjoy the moment my friend💙 Mon livre juste ici 👇
     location: "France"
-    followers: 6743
-    engagement: 839
-    commentsToLikes: 0.039068
+    followers: 6665
+    engagement: 894
+    commentsToLikes: 0.045184
     id: ckbl3hg6m0urw0j232dh98k48
     verified: false
-    hashtags: "#workout, #enjoy, #yoga, #france"
-  - username: "meihanliulive"
+    hashtags: "#meditation, #enjoy, #beautiful, #winter"
+  - username: "jujujayb"
     fullname: >-
-      👑MEIHAN LIU 🛍️💄👠
+      Julien Blouet
     bio: >-
-      Conseil en Image Diplômée 😇 Coach Self-Love🙏 YTB :Meihan Liu IG :meihanliulive
+      Winner NFR Men's Physique 2019 Yellow tape around my body ☺️
     location: "France"
-    followers: 149300
-    engagement: 1936
-    commentsToLikes: 0.022265
-    id: ckb9acbfevfki0j23azmnefm5
+    followers: 26700
+    engagement: 831
+    commentsToLikes: 0.024837
+    id: ckamyawnxgm120i78qc6051ue
     verified: false
-    hashtags: "#bien, #conseilenimage, #coachlove, #amour"
-  - username: "mel_geeez"
+    hashtags: "#fitness, #abs, #challenge, #foryou"
+  - username: "celinehyeo"
     fullname: >-
-      Mélissa
+      Coucou TikTok 💛
     bio: >-
-      🇨🇳🇩🇿Mel_geeez@rushinfluence.fr SURPRISE AUX 8K INSTA (DEMANDEZ EN D.M 🤪) ⬇️
+      Follow ma vie passionnante ↗️ sur instagram
     location: "France"
-    followers: 235100
-    engagement: 2377
-    commentsToLikes: 0.021951
-    id: ckcjfumdzb9yg0j23fhbe9qp8
+    followers: 9040
+    engagement: 777
+    commentsToLikes: 0.063573
+    id: ckc1ucyygylmv0j239h6a7jth
     verified: false
-    hashtags: "#uselections2020, #gameofthegeneration, #stankasswalk, #diviseen5"
-  - username: "bsam_memoucho"
+    hashtags: "#instagramtips, #humourfrancais, #drole, #vegan"
+  - username: "wespiserd"
     fullname: >-
-      Bsam_Memucho
+      Delphine Wespiser 
     bio: >-
-      AVC survivant 💝 Chaque jour est un cadeau 💝
+      Top ! Qui -suis je ? Végétarienne , animaux , cheveux rouges , environnement ..
     location: "France"
-    followers: 32400
-    engagement: 800
-    commentsToLikes: 0.034184
-    id: ckbl1jbd8yfex0j23vbmckcz2
+    followers: 366000
+    engagement: 1278
+    commentsToLikes: 0.007455
+    id: ckdbwyjf6e5jx0j23radrp7s5
+    verified: true
+    hashtags: "#pourtoi, #devenirpssoi, #dog, #happy"
+  - username: "lestwixs_"
+    fullname: >-
+      Les Twixs
+    bio: >-
+      Duo athletes 👇🏼 Nos INSTA 👇🏼 gael_margaine & zaccoletti_aurelien 20k 🔜💎
+    location: "France"
+    followers: 16000
+    engagement: 1324
+    commentsToLikes: 0.031133
+    id: ckbktiwz4oog80j236z7ie8pi
     verified: false
-    hashtags: "#bassamfaitplaisir, #wonsieurlarbitre, #bassamfaitrire, #bassamfatigue"
+    hashtags: "#foryou, #pourtoi, #sport, #fyp"
   - username: "mllesofy"
     fullname: >-
       Mlle Sofy
     bio: >-
       
     location: "France"
-    followers: 5691
-    engagement: 454
-    commentsToLikes: 0.047293
+    followers: 5634
+    engagement: 470
+    commentsToLikes: 0.047337
     id: ckav6zwxvdv6w0j23aiwlhehf
     verified: false
-    hashtags: "#tuto, #foryoupage, #foryou, #jerestechezmoi"
-  - username: "ibra_acro_boy"
+    hashtags: "#prank, #fyp, #pranks, #foryou"
+  - username: "w9lachaine"
     fullname: >-
-      Ibra Acro Boy
+      w9officiel
     bio: >-
-      🏃🏾‍♂️Pro Flipper Athlete Montpellier, France 🇫🇷 IG : @ibra_acro_boy
+      Le compte officiel de la chaîne W9
     location: "France"
-    followers: 28800
-    engagement: 1721
-    commentsToLikes: 0.015731
-    id: ck910siwyj01z0j78dietopb2
-    verified: false
-    hashtags: "#flips, #tiktok, #followme, #acrobatics"
-  - username: "lesdroners"
-    fullname: >-
-      lesdroners
-    bio: >-
-      💕 CLAIRE & ARTHUR ✨ Blogueurs | Voyageurs | Rêveurs YT / FB / IG : @lesdroners
-    location: "France"
-    followers: 2109
-    engagement: 629
-    commentsToLikes: 0.025508
-    id: ckaibdiy9g1nq0i78fq8oqfe2
-    verified: false
-    hashtags: "#lesdroners, #drone, #tiktoktravel, #morzine"
+    followers: 368500
+    engagement: 1399
+    commentsToLikes: 0.006121
+    id: ck8sf82zen0lz0j78swho5bt8
+    verified: true
+    hashtags: "#udpp, #diner, #lmad, #humour"
 ---

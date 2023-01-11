@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In New York in 2023
+title: Top 10 Fitness Instagram Influencers In New York In 2023
 description: >-
-  Find top fitness Instagram influencers in New York in 2023. Most popular hashtags: #fitness #newyork #explorepage #fitnessmotivation.
+  Find top fitness Instagram influencers in New York in 2023. Most popular hashtags: #fitness #newyork #newyorkcity #fitnessmotivation.
 platform: Instagram
-hits: 554
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 554 Instagram influencers like this in New York, United States for you to collaborate.
+hits: 559
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 559 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "mahsa.jani"
+  - username: "alisaobrivanova"
     fullname: >-
-      Mahsa مَـه☽سـٰا
+      Alisa's Wonderland
     bio: >-
-      Fashion • Beauty • Food 📮@blogmahsa 🎬 Content Creator • Blogger 📍 New Jersey➰New York Influencer ✉️ Collaborations: Unboxwithmahsa@gmail.com
+      Almodels NY🌆🗽 #alisaobrivanova Yoga teacher🕉🌱#yogalisa1 It's very simple to be happy. But it's very difficult to be simple. ✨DM for cooperation✨
     location: "United States"
-    followers: 79582
-    engagement: 308
-    commentsToLikes: 0.077322
-    id: ckaov9rvg3n7s0i78igq7e9ak
+    followers: 20617
+    engagement: 410
+    commentsToLikes: 0.025976
+    id: ck6uayz1k6ic40j7135cxd6sv
     verified: false
-    hashtags: "#fit, #styleinspo, #nycblog, #glam"
-  - username: "brooke_barrera"
+    hashtags: "#go, #urban, #style, #alisaobrivanova"
+  - username: "osamoje"
     fullname: >-
-      Brookie 🍒
+      Grow With O
     bio: >-
-      Also known as Brookie bitch For all inquiries please email or dm Catch me In VIBES by Da baby 🍼 Link down below
+      Master of Public Health & Certified Personal Trainer I enjoy exercising mind, body, and spirit. 🇳🇬 ⬇️GROWTH STARTS HERE ⬇️
     location: "United States"
-    followers: 9350
-    engagement: 1224
-    commentsToLikes: 0.023196
-    id: ck6tyux3q601p0j71raik6ptj
-    verified: false
-    hashtags: "#tanning, #cbd, #influencer, #bikinimodel"
-  - username: "chavdar__ivanov"
-    fullname: >-
-      Chavdar Ivanov
-    bio: >-
-      CEO & Creative Director of Charlino Group, Influencer, #blogger #party lover #model #travel 🛩🌎 @charlinotravel @charlinoplaza @charlinofashion ⬇️
-    location: "United States"
-    followers: 44499
-    engagement: 45
-    commentsToLikes: 0.040662
-    id: ck5cjrmzpvcrk0i11n2t2pbmx
-    verified: false
-    hashtags: "#sexy, #man, #food, #friends"
+    followers: 57279
+    engagement: 310
+    commentsToLikes: 0.058140
+    id: ck6ufc1gfw5en0j71stpfog74
+    verified: true
+    hashtags: "#growwitho, #grow, #aesthetic, #bodybuilding"
   - username: "petervigilante"
     fullname: >-
       Peter Vigilante
     bio: >-
       📍New York🗽 ❣️Health 🍳 ⚜️Fitness💪🏻 🏋🏻‍♂️NASM Certified Personal Trainer 📖 • Click the link below for all my social media platforms! ➖➖⬇️⬇️⬇️➖➖
     location: "United States"
-    followers: 50312
-    engagement: 1492
-    commentsToLikes: 0.010485
+    followers: 66947
+    engagement: 1761
+    commentsToLikes: 0.011490
     id: ck9wdc5itezpi0j78zgx0ovis
     verified: false
-    hashtags: "#veins, #guys, #reels, #reel"
-  - username: "likachriqui"
+    hashtags: "#explore, #fitnessmotivation, #reel, #explorepage"
+  - username: "shoutout_ig_promotter"
     fullname: >-
-      L I K A C H R I Q
+      Shoutout ig promotter
     bio: >-
-      🇪🇸🇷🇸 For business inquiries: DM / 💌 lihishriki@gmail.com
+      DM FOR WORLDWIDE PROMOTION ❤️ onlyfans🇺🇸 suicide🇨🇦 mym.fans 🇬🇧 Milf🇨🇺 fitness 🇦🇺 exclusive creator🇵🇷 7MILLION NETWORK WORLDWIDE
     location: "United States"
-    followers: 20935
-    engagement: 447
-    commentsToLikes: 0.169840
-    id: ckap87dz3n5le0i786ya1g2zb
+    followers: 627714
+    engagement: 74
+    commentsToLikes: 0.040211
+    id: ck0w6bc887rfd0i191gu0mqc5
     verified: false
-    hashtags: "#losangeles, #flowergirl, #israel, #ocean"
-  - username: "james_haydn"
+    hashtags: "#explorepage, #unicornmom, #followforfollowback, #blonde"
+  - username: "hungryrabbitnyc"
     fullname: >-
-      James Hayden Rodriguez
+      Ken
     bio: >-
-      Adding COLOR to this world, a page at a time🏳️‍🌈 The Lightning Thief BROADWAY 💙⚡ ART - MUSIC - HEALTH - FITNESS✌🏾 🖤Youtube Channel🖤
+      Hungry for what life has to offer .............. . Food | Travel | Fitness 📍New York . #hRtravels #hungryrabbitnyc .
     location: "United States"
-    followers: 7406
-    engagement: 1007
-    commentsToLikes: 0.018608
-    id: ck15sv8b0eyu50i19n7ez19pf
+    followers: 45867
+    engagement: 131
+    commentsToLikes: 0.014847
+    id: ck6u88mknq2r20j710esgghf9
     verified: false
-    hashtags: "#quarantinethehousedownboots, #fitnessmotivation, #enoughisenough, #health"
-  - username: "caitlin_eats_alot"
+    hashtags: "#eatingnyc, #tastingtable, #nycfat, #feedfeed"
+  - username: "newyorker"
     fullname: >-
-      Caitlin Eats The East Coast
+      NewYorker🗽
     bio: >-
-      📍 Queens girl with a big appetite! 🗽 🍣 Feasting in NYC, Long Island & beyond 🍦🌮 📲 DM to Collab 📸 🌍 #Yelp Elite ‘18 ‘19, ‘20
+      From New York
     location: "United States"
-    followers: 14995
-    engagement: 883
-    commentsToLikes: 0.194558
-    id: ck5cbl3vqfng60i11ese4n0ub
+    followers: 75721
+    engagement: 282
+    commentsToLikes: 0.022508
+    id: ck55l2hm90lhu0i115kx06ebk
     verified: false
-    hashtags: "#foodporn, #steakhouse, #healthyfood, #nycfood"
-  - username: "mrwilliamcruse"
+    hashtags: "#city, #midtown, #brooklyn, #fitness"
+  - username: "elchin_ahmadov_"
     fullname: >-
-      Sir Cruse
+      Elchin Ahmadov
     bio: >-
-      MAIN PAGE @realsircruse ✊🏾🌊🦜⭐️
+      🥊Heavyweight professional boxer🇦🇿 ◼️Professional athlete🇺🇸 ⚡ Motivator⚡ ◾️Business inquiries☞🄳🄼📥 ⚫️Online strength training program
     location: "United States"
-    followers: 38602
-    engagement: 768
-    commentsToLikes: 0.015702
-    id: ck5c6ekj559zm0i11030vuue0
+    followers: 49688
+    engagement: 128
+    commentsToLikes: 0.054320
+    id: ck8t66m6ycfbt0j78bymtg65x
     verified: false
-    hashtags: "#360waves, #haircut, #chicagosalon, #mascara"
-  - username: "mrkbay"
+    hashtags: "#crossfit, #boxer, #workout, #azerbaijan"
+  - username: "andrew.mariani"
     fullname: >-
-      Mark Bay
+      Andrew Mariani
     bio: >-
-      Fashion | Lifestyle | Fitness 🗽 New York 📩 themarkbay@gmail.com
+      Specific training/programming @hudsonriverathletics @fhittingroom @strongnewyork Try My #Limitless Program
     location: "United States"
-    followers: 36033
-    engagement: 316
-    commentsToLikes: 0.054223
-    id: ck5cgiw7toxyn0i11se5oq9x2
+    followers: 26767
+    engagement: 152
+    commentsToLikes: 0.040342
+    id: ck13ba0nuuf960i19kgfe817t
     verified: false
-    hashtags: "#sunday, #coffee, #ad, #ootd"
-  - username: "scaybay39"
+    hashtags: "#strong, #strength, #coach, #strongnewyork"
+  - username: "mikebradshawsr"
     fullname: >-
-      Tommy Scala
+      MIKE BRADSHAW SR.
     bio: >-
-      Fitness💯| New York 🇮🇹| Model _ @nutrexresearch Ambassador _ @slfblt_apparel _
+      GOD-FamilyFirst 🎗Elite Military Inspired Fitness ▫️ @assaultseries_ BeTheBestYou ▪️ @TrainingMask Coach 🔸 @FitRadio Coach 👨🏽‍🎓 ExerciseScience ARMY
     location: "United States"
-    followers: 10027
-    engagement: 1172
-    commentsToLikes: 0.055228
-    id: ck6ufcgz9w80e0j71186luxp7
+    followers: 42621
+    engagement: 93
+    commentsToLikes: 0.054570
+    id: ckapcg4a13o3m0i78a4n2k3bd
     verified: false
-    hashtags: "#photooftheday, #tattoo, #tbt, #tattoomodel"
+    hashtags: "#defiancefuel, #rocnationsports, #clockin, #feelingsdontmatter"
+  - username: "cami_cakes_"
+    fullname: >-
+      Cami Mantilla
+    bio: >-
+      👙Bikini Enthusiast ✈️ Traveler 😉Follow the adventure👇🏼
+    location: "United States"
+    followers: 565777
+    engagement: 467
+    commentsToLikes: 0.008671
+    id: ck0w10b44gx5j0i1942qihl6p
+    verified: false
+    hashtags: "#fashionnova, #sundayfunday, #whyistherenotamargaritaemoji, #ontuesdayswewearpink"
 ---

@@ -1,120 +1,96 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Peru in 2023
+title: Top 10 Outdoors Instagram Influencers In Peru In 2023
 description: >-
-  Find top outdoors Instagram influencers in Peru in 2023. Most popular hashtags: #outdoors #adventure #mountains #nature.
+  Find top outdoors Instagram influencers in Peru in 2023. Most popular hashtags: #outdoors #peru #igersperu #nature.
 platform: Instagram
-hits: 29
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 29 Instagram influencers like this in Peru for you to collaborate.
+hits: 24
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 24 Instagram influencers like this in Peru for you to collaborate.
 profiles:
-  - username: "marianobreccia"
-    fullname: >-
-      Mariano Breccia
-    bio: >-
-      •Multi-sport Athlete/Multideportista •Photographer/Fotógrafo •Capitán @adidasrunners Lima⚡️ •Sponsored by: @adidasterrex @suunto @gopro @scoscheperu
-    location: "Peru"
-    followers: 75240
-    engagement: 495
-    commentsToLikes: 0.074260
-    id: ck6ub4sus7gs20j71ww6ugyp4
-    verified: true
-    hashtags: "#enjoy, #explorer, #publicidad, #outdoors"
   - username: "dibujatuviaje"
     fullname: >-
       Daniela Avila
     bio: >-
       Peruana 🇵🇪 Embajadora @cometoperu Te mostrare lo lindo de mi país 🥰 Encuéntrame en YouTu
     location: "Peru"
-    followers: 4246
-    engagement: 1817
-    commentsToLikes: 0.044255
+    followers: 43108
+    engagement: 924
+    commentsToLikes: 0.033068
     id: ckapahfdgw4a50i78gy0nhdbv
     verified: false
-    hashtags: "#inthowild, #travelphotography, #mountains, #peruana"
-  - username: "the_running_cuy"
+    hashtags: "#inthowild, #ctperu, #lake, #monta"
+  - username: "marianobreccia"
     fullname: >-
-      Diego Casabonne
+      Mariano Breccia
     bio: >-
-      From overweight to ultra Marathoner 🇵🇪 . @tailwindnutritionperu | @adidasterrex | @interbank | @inyogo Believe there are no limits, then fly🐢.
+      •Multi-sport Athlete/Multideportista •Photographer/Fotógrafo •Capitán @adidasrunners Lima⚡️ •Sponsored by: @adidasterrex @suunto @scoscheperu
     location: "Peru"
-    followers: 11204
-    engagement: 351
-    commentsToLikes: 0.029855
-    id: ck5zumgo92n7v0i147ooprfty
-    verified: false
-    hashtags: "#outdoors, #trailrunning, #barcelona, #mtb"
-  - username: "manu___mg"
+    followers: 81381
+    engagement: 458
+    commentsToLikes: 0.035552
+    id: ck6ub4sus7gs20j71ww6ugyp4
+    verified: true
+    hashtags: "#terrex, #gopro, #outdoorlife, #marianobreccia"
+  - username: "dibujandomisrutas"
     fullname: >-
-      Manu
+      𝗖𝗲́𝘀𝗮𝗿 | 𝗧𝗿𝗮𝘃𝗲𝗹 & 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆
     bio: >-
-      | Foodlover | Traveler 🏝 obsessed with cakes and all things sweet #manueats #manu_travels
+      🇵🇪 𝐏𝐞𝐫𝐮𝐚𝐧𝐨 📸 𝐕𝐢𝐚𝐣𝐞𝐬 𝐲 𝐟𝐨𝐭𝐨𝐠𝐫𝐚𝐟𝐢́𝐚 📍𝗖𝘂𝘀𝗰𝗼 - 𝗣𝗲𝗿𝘂́ 𝗢𝘄𝗻𝗲𝗿: @geotravel.pe 𝗘𝗺𝗯𝗮𝗷𝗮𝗱𝗼𝗿: @letsenjoyperu #️⃣𝒅𝒊𝒃𝒖𝒋𝒂𝒏𝒅𝒐𝒎𝒊𝒔𝒓𝒖𝒕𝒂𝒔
     location: "Peru"
-    followers: 4938
-    engagement: 2009
-    commentsToLikes: 0.028077
-    id: ck6tucbacfiqx0j71qsyjhil9
+    followers: 5602
+    engagement: 1242
+    commentsToLikes: 0.251349
+    id: ck6txpawpz35s0j71zzx199of
     verified: false
-    hashtags: "#nom, #foodphotography, #streetfood, #peru"
+    hashtags: "#adventure, #enigmaperu, #visitsouthamerica, #outdoors"
+  - username: "travelmoregirl"
+    fullname: >-
+      ᘔᑌᒪᗰᗩ ! ᐯIᗩᒍᗩᑎᗪO ᑭOᖇ ᑭᕮᖇᑌ́
+    bio: >-
+      💜| 𝚂𝚘𝚢 𝚗𝚘́𝚖𝚊𝚍𝚊 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 ✈️| 𝚅𝚒𝚊𝚓𝚘́ 𝚢 𝚝𝚛𝚊𝚋𝚊𝚓𝚘 𝚊 𝚕𝚊 𝚟𝚎𝚣 🌟| 𝚃𝚒𝚙𝚜 𝚍𝚎 𝚟𝚒𝚊𝚓𝚎𝚜-𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖
+    location: "Peru"
+    followers: 9119
+    engagement: 739
+    commentsToLikes: 0.140019
+    id: ck6txpbgez3ar0j715oa7qsqo
+    verified: false
+    hashtags: "#landscape, #hiking, #visitperu, #travelblogger"
   - username: "mauricioephoto"
     fullname: >-
       Mauricio Espinoza
     bio: >-
       📷 Photographer ⚡️ @elduo_team 🌊 Ocean son Fine Art Prints - DM!
     location: "Peru"
-    followers: 7218
-    engagement: 877
-    commentsToLikes: 0.035062
+    followers: 7949
+    engagement: 553
+    commentsToLikes: 0.036020
     id: ckap9omvqt0ii0i784jx484bg
     verified: false
-    hashtags: "#skymadness, #madeofocean, #seeyouthere, #summerfun"
+    hashtags: "#sundayvibe, #waterman, #discoverocean, #theimagined"
   - username: "jacoriat"
     fullname: >-
       Juan Andrés Coriat 🇵🇪
     bio: >-
       🧘🏽‍♂️Trying to make this earth a little better. ☝🏽Don't waste your lifetime wondering. 🏡 Sacred Valley, Perú 🎬 YouTube 👇🏽
     location: "Peru"
-    followers: 11099
-    engagement: 637
-    commentsToLikes: 0.047901
+    followers: 11209
+    engagement: 688
+    commentsToLikes: 0.043355
     id: ck5hfs45qz1m00i11ndwshty6
     verified: false
-    hashtags: "#igcusco, #southamerica, #hikinggram, #mountainstories"
-  - username: "nicolaspacheco94"
-    fullname: >-
-      Nicolas Pacheco
-    bio: >-
-      🇵🇪 Olympic Shooter 🇬🇧 London’12 🔜 Tokyo’20🇯🇵 🥉 Panam Games 🥇 Jr World Champion 🥇 South American Games 2014 - 2018 Traveling around the 🌎
-    location: "Peru"
-    followers: 9210
-    engagement: 709
-    commentsToLikes: 0.033753
-    id: ck137d3ojay3p0i198x77jrt2
-    verified: false
-    hashtags: "#pesca, #gameshooting, #fishing, #sporting"
+    hashtags: "#mountainstones, #visualsofearth, #southamerica, #mountainlovers"
   - username: "rutas_del_mochilero"
     fullname: >-
       Rutas del Mochilero 🇵🇪🤠🎒📷✈
     bio: >-
       Fundador: @alex_gutierrez_a Comunidad de Mochileros 🎒 ¿Y ahora cuál es tu ruta?🤔 No lo pienses más: ¡coge tu mochila, alista tu cámara y a fotear!📸🇵🇪
     location: "Peru"
-    followers: 63694
-    engagement: 172
-    commentsToLikes: 0.033005
+    followers: 66354
+    engagement: 166
+    commentsToLikes: 0.145004
     id: ck138b8hefegb0i19hzdp9c2d
     verified: false
-    hashtags: "#paradise, #landscape, #instatravel, #travelgram"
-  - username: "bryanthealpinist"
-    fullname: >-
-      Bryan Mestre
-    bio: >-
-      @zodiacmilproofficial Special Application Technics instructor 🚤 @scarpafrance @barrabes.ski.mountain athlete 🧗🏻 Paraglider 🪂 Diver 🤿 Explorer 🛫 MP👮‍♂️
-    location: "Peru"
-    followers: 25929
-    engagement: 217
-    commentsToLikes: 0.009166
-    id: ck55ntoy36y9q0i111n4lqlq7
-    verified: false
-    hashtags: "#outdoors, #alpinism, #explorer, #rhib"
+    hashtags: "#life, #peru, #nature, #huaraz"
   - username: "kawsaytrekk"
     fullname: >-
       KAWSAY TREKKING PERU
@@ -126,5 +102,29 @@ profiles:
     commentsToLikes: 0.014959
     id: ck8t3idv73ets0j784l8yy5ol
     verified: false
-    hashtags: "#life, #per, #perunature, #mochiladeviaje"
+    hashtags: "#intoperu, #visitcusco, #amazingplaces, #visitperu"
+  - username: "heiidilg"
+    fullname: >-
+      Christiane
+    bio: >-
+      мєχι¢αиα 💌 heidit856@gmail.com 🎥YouTube: Nuevo video 📺⬇️
+    location: "Peru"
+    followers: 12558
+    engagement: 900
+    commentsToLikes: 0.164620
+    id: ckap4aavo6gl00i78jimkn90o
+    verified: false
+    hashtags: "#atardeceresmagicos, #travel, #visitmexico, #spring"
+  - username: "raysalopezg"
+    fullname: >-
+      raysa gabriela
+    bio: >-
+      M I A M I / F L 🛬... lima📍 𝓂𝒶𝒹𝑒 𝒾𝓃 𝒫𝑒𝓇𝓊
+    location: "Peru"
+    followers: 10212
+    engagement: 1482
+    commentsToLikes: 0.041673
+    id: ckf5p16by4l010j23zo4fehag
+    verified: false
+    hashtags: "#style, #portrait, #ootd, #beach"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Italy in 2023
+title: Top 10 Nutrition TikTok Influencers In Italy In 2023
 description: >-
-  Find top nutrition TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #neiperte #nutrition.
+  Find top nutrition TikTok influencers in Italy in 2023. Most popular hashtags: #dieta #perte #imparacontiktok #duetto.
 platform: TikTok
-hits: 11
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 11 TikTok influencers like this in Italy for you to connect with.
+hits: 13
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 13 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "fionashealth"
-    fullname: >-
-      Fiona Gray
-    bio: >-
-      🇬🇧🇮🇹 Fiona Gray Balanced Recipes & Nutrition 🍓
-    location: "Italy"
-    followers: 3950
-    engagement: 571
-    commentsToLikes: 0.008430
-    id: ckcuyuo5xmjaf0j236oqyr2c0
-    verified: false
-    hashtags: "#foryou, #intermittentfasting, #colazione, #dieta"
-  - username: "mimi_iofrida"
-    fullname: >-
-      Domi Mimì Iofrida
-    bio: >-
-      Biologa nutrizionista
-    location: "Italy"
-    followers: 15300
-    engagement: 749
-    commentsToLikes: 0.088561
-    id: ck9si0l7swee10j78v3mf433s
-    verified: false
-    hashtags: "#amoilmiocorpo, #nutrition, #job, #followme"
   - username: "cataldihealth"
     fullname: >-
       Cataldi Health 
     bio: >-
       Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
     location: "Italy"
-    followers: 56000
-    engagement: 1861
-    commentsToLikes: 0.012609
+    followers: 55100
+    engagement: 1385
+    commentsToLikes: 0.013724
     id: ck8s5jvwzg8i50j785nktn2vv
     verified: false
-    hashtags: "#cataldihealth, #naturopathy, #sweet, #nutrizione"
-  - username: "silenepretto"
+    hashtags: "#naturopata, #sweet, #cataldi, #fruit"
+  - username: "mimi_iofrida"
     fullname: >-
-      Nutrizionista Silene
+      Domi Mimì Iofrida
     bio: >-
-      @silenepretto Nutrizionista 🌸 Seria per professione👩🏽‍⚕️ Scema nella vita 🤪
+      👩🏻‍⚕️ #Biologanutrizionista #nutrizioneclinica 🧬#bioingegneria Seguimi❤️
     location: "Italy"
-    followers: 14800
-    engagement: 357
-    commentsToLikes: 0.013104
-    id: ckcuyukiymj6z0j23mfkvrjgt
+    followers: 19300
+    engagement: 445
+    commentsToLikes: 0.041742
+    id: ck9si0l7swee10j78v3mf433s
     verified: false
-    hashtags: "#4u, #nutrizione, #breakfastbowl, #nutrizionista"
-  - username: "giuliastime"
+    hashtags: "#calabria, #neiperte, #perte, #sorridi"
+  - username: "fionashealth"
     fullname: >-
-      Giulia Cai
+      Fiona Gray
     bio: >-
-      vegan-ish 🥑 eating & working out 🏋🏻‍♀️ CEO of breakfast 📸 IG: novemberregen_
+      Balanced Diet WIEIADs Instagram @Fionashealth
     location: "Italy"
-    followers: 3409
-    engagement: 868
-    commentsToLikes: 0.022169
-    id: ck8fayxkt4pkc0j78k6kkwjvj
+    followers: 4151
+    engagement: 636
+    commentsToLikes: 0.012314
+    id: ckcuyuo5xmjaf0j236oqyr2c0
     verified: false
-    hashtags: "#food, #fit, #fyp, #vegan"
-  - username: "chiara.sbardellati"
-    fullname: >-
-      chiara.sbardellati
-    bio: >-
-      CONTENT CREATOR Welcome to my fitness life Instagram : @chiarasbardellati
-    location: "Italy"
-    followers: 9017
-    engagement: 436
-    commentsToLikes: 0.014882
-    id: ckb9o689jicqv0j2390jybgh8
-    verified: false
-    hashtags: "#pilates, #abs, #fitnessitalia, #fitness"
+    hashtags: "#recipe, #dieta, #student, #oatmeal"
   - username: "drlucacioffi"
     fullname: >-
-      Cioffi Luca
+      Nutrizionista Dr. Cioffi Luca
     bio: >-
-      Biologo nutrizionista specializzato studio SANU ⬇️ ⬇️ ⬇️
+      Biologo Nutrizionista Divulgatore Scientifico studio SANU visite online ⬇️
     location: "Italy"
-    followers: 97300
-    engagement: 909
-    commentsToLikes: 0.070436
+    followers: 127900
+    engagement: 707
+    commentsToLikes: 0.049631
     id: ckb9idyjd8omr0j231nlchzzc
     verified: false
-    hashtags: "#amoilmiocorpo, #dieta, #perte, #sesapessi"
+    hashtags: "#informazione, #imparacontiktok, #dieta, #informacontiktok"
+  - username: "davideleporati"
+    fullname: >-
+      Davide Leporati🍎🏋🏼‍♂️
+    bio: >-
+      🏋🏼‍♂️Personal Trainer 📚Scienze Motorie, Sport e Salute 🍎Nutrizione
+    location: "Italy"
+    followers: 89000
+    engagement: 906
+    commentsToLikes: 0.032392
+    id: cka86pu5t3mij0i78xisb0fql
+    verified: false
+    hashtags: "#dimagrire, #trend, #benefici, #reaction"
   - username: "_aledge_"
     fullname: >-
       _aledge_
     bio: >-
-      Email 📧: alessiodigennaro1772@gmail.com Dietistica 🥦 Palestra 💪🏼 IG:_aledge_
+      📍Roma Studio Dietistica 🥦 Parlo di palestra e nutrizione 💪🏼 IG:_aledge_
     location: "Italy"
-    followers: 36700
-    engagement: 696
-    commentsToLikes: 0.019504
+    followers: 41000
+    engagement: 611
+    commentsToLikes: 0.017789
     id: ck8qh53eo3ku40j78n96fdjyq
     verified: false
-    hashtags: "#manubri, #aledge, #palestra, #allenamentoacasa"
+    hashtags: "#proecontro, #duetto, #corda, #massa"
+  - username: "silenepretto"
+    fullname: >-
+      Nutrizionista Silene
+    bio: >-
+      Nutrizionista 🌸 Seria per professione👩🏽‍⚕️ Scema nella vita 🤪 Seguimi Ig👇🏽
+    location: "Italy"
+    followers: 104200
+    engagement: 519
+    commentsToLikes: 0.016770
+    id: ckcuyukiymj6z0j23mfkvrjgt
+    verified: false
+    hashtags: "#imparacontiktok, #tiktokfoodie, #tiktokita, #buongiorno"
   - username: "sissifacose"
     fullname: >-
       Sissi Fa Cose
     bio: >-
-      YOLO❤️ Humor and a healthy life 😊 Sport:#sissifasport Food:#sissifacibo
+      Ma ciao! 😊 Yolo✌🏼Humor and a healthy life #SissiFaSport #SissiFaCibo
     location: "Italy"
-    followers: 3290
-    engagement: 335
-    commentsToLikes: 0.069037
+    followers: 13100
+    engagement: 418
+    commentsToLikes: 0.037047
     id: ckdbqzqr1bzb40j23igguxv4i
     verified: false
-    hashtags: "#corsica, #sardegna, #equilibrio, #sissifasport"
+    hashtags: "#parmigiano, #videoricetta, #sissifasport, #informacontiktok"
+  - username: "johnangchi"
+    fullname: >-
+      John Angchi
+    bio: >-
+      BioHacking 🧬 #DrinkVsDiet #ShakeDrinkBam Ig: jo.angchi
+    location: "Italy"
+    followers: 9069
+    engagement: 479
+    commentsToLikes: 0.025685
+    id: ckbeyuhjqjjdo0j2384l558lx
+    verified: false
+    hashtags: "#salute, #proteine, #fitnesstips, #bruciagrassi"
   - username: "gionata_triplaa_system"
     fullname: >-
       Gionata Raffaelli
     bio: >-
       Esperto di fitness creatore del metodo TRIPLA A SYSTEM. ▶️ Aggiungimi su IG
     location: "Italy"
-    followers: 76300
-    engagement: 371
-    commentsToLikes: 0.073279
+    followers: 82900
+    engagement: 315
+    commentsToLikes: 0.089832
     id: ckc7zjtwv18ub0j23jef9xqv6
     verified: false
-    hashtags: "#perte, #upperbodyworkout, #fitnesstrainer, #bodytransformation"
+    hashtags: "#perte, #allenamento, #manigliedellamore, #dimagrire"
 ---

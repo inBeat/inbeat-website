@@ -1,130 +1,130 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Poland in 2023
+title: Top 10 Pole Dancers Instagram Influencers In Poland In 2023
 description: >-
-  Find top pole dancers Instagram influencers in Poland in 2023. Most popular hashtags: #poledancer #poledance #polishgirl #polskadziewczyna.
+  Find top pole dancers Instagram influencers in Poland in 2023. Most popular hashtags: #poledance #poledancer #polishgirl #polskadziewczyna.
 platform: Instagram
-hits: 37
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 37 Instagram influencers like this in Poland for you to work with.
+hits: 35
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 35 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "evii.pl"
+  - username: "weronikawoszczek"
     fullname: >-
-      Evelina
+      Weronika Woszczek
     bio: >-
-      👩🏼‍💼Language Coach 🍀Professional Optimist 💙Trying to make a difference 🧘🏼‍♀️🌿🐛🥦 #mountainlover🗻 #model #poledancer
+      Poledancer 🦋 Webmaster @revactiv ambassador: „weronikawoszczek” for -15% 🌷 Violonist in @coveral__ 🎶 Damn2k20
     location: "Poland"
-    followers: 8420
-    engagement: 1174
-    commentsToLikes: 0.099373
-    id: ck8t7c3y5g9zy0j78nxsv372k
+    followers: 8083
+    engagement: 2305
+    commentsToLikes: 0.019355
+    id: ck8t06v7kr06w0j787gvafbvw
     verified: false
-    hashtags: "#chorwacja, #croatia, #niedziela, #croatie"
-  - username: "alessa_vu"
+    hashtags: "#polskiesylwetki, #poledancer, #poledance, #portrait"
+  - username: "polinvvv"
     fullname: >-
-      Aleksandra ⚪️ Gdańsk
+      POLINA
     bio: >-
-      💕 Pole Dancer 🚗 Cars Lover, CRX Driver 📷 Photomodel 💌 DM 🌍 Poland/Gdańsk 🇵🇱
+      Owner @kreatornia.tekstow Pole dancer 🦋 26🎂 Lublin📍Biłgoraj 🇵🇱 📩𝙲𝚘𝚕𝚕𝚊𝚋: 𝚙𝚘𝚕𝚒𝚗𝚟𝚟𝚟.𝚌𝚘𝚕𝚕𝚊𝚋@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
     location: "Poland"
-    followers: 62894
-    engagement: 497
-    commentsToLikes: 0.040543
-    id: ck6txi5z5xz7h0j71bovfkv0v
+    followers: 38996
+    engagement: 225
+    commentsToLikes: 0.026218
+    id: ck0ueae9lkyuu0i19g6mxp79e
     verified: false
-    hashtags: "#kobietazklasa, #szpilki, #biznesnaluzie, #biznesonline"
+    hashtags: "#vacay, #sunnyday, #ink, #smile"
+  - username: "maartaszamp"
+    fullname: >-
+      Marta👱🏾‍♀️💓Fakebakeathome🙌🏾👼🏾!
+    bio: >-
+      OPALANIE NATRYSKOWE-FAKEBAKE🙌🏾💓! Zapisz się💓👇🏾! @fakebakeathome_bymartaszamp 👼🏾! 💓-wskazówki urodowe🧖🏼‍♀️! 💓-POLEDANCERS🤍. 💓-Stylizacje🤍. 💓-Recenzje.
+    location: "Poland"
+    followers: 5482
+    engagement: 608
+    commentsToLikes: 0.049951
+    id: ck8t9swfep8pu0j78utg3mf9p
+    verified: false
+    hashtags: "#dance, #happygirl, #girl, #day"
   - username: "k.swiech"
     fullname: >-
       Kasia Świech
     bio: >-
       @cmon_studio 👸🏼👑 Pole dancer 🦄 Aerial dance lover 💕
     location: "Poland"
-    followers: 37618
-    engagement: 1310
-    commentsToLikes: 0.037698
+    followers: 49877
+    engagement: 846
+    commentsToLikes: 0.013479
     id: ck5c6lx4e5pnx0i114pwui356
     verified: false
-    hashtags: "#contortion, #czestochowa, #poleworkout, #cmonstudio"
-  - username: "maartaszamp"
-    fullname: >-
-      Marta Szamp👼🏾💓! Fakebake🙌🏾!
-    bio: >-
-      OPALANIE NATRYSKOWE-FAKEBAKE🌴💓! Zapisz się👇🏾! @fakebakeathome_bymartaszamp 👼🏾! 💓-wskazówki urodowe🧖🏼‍♀️! 💓-POLEDANCERS🤍. 💓-Stylizacje🤍. 💓-Recenzje.
-    location: "Poland"
-    followers: 5610
-    engagement: 674
-    commentsToLikes: 0.049120
-    id: ck8t9swfep8pu0j78utg3mf9p
-    verified: false
-    hashtags: "#summertime, #opalanienatryskowe, #instaphoto, #dance"
-  - username: "polinvvv"
-    fullname: >-
-      POLINA
-    bio: >-
-      Pole dancer 🦋 25🎂 Lublin📍Poland 🇵🇱 📩𝙲𝚘𝚕𝚕𝚊𝚋: 𝚙𝚘𝚕𝚒𝚗𝚟𝚟𝚟.𝚌𝚘𝚕𝚕𝚊𝚋@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
-    location: "Poland"
-    followers: 40782
-    engagement: 246
-    commentsToLikes: 0.024249
-    id: ck0ueae9lkyuu0i19g6mxp79e
-    verified: false
-    hashtags: "#poledance, #ootd, #instagirl, #legs"
+    hashtags: "#pdinspiration, #polepose, #poledancersofpoland, #poledancepolska"
   - username: "kornelia.pawlicka"
     fullname: >-
       K O R N E L I A👸🏽
     bio: >-
-      
+      🌸„korneliapawlicka” -15% @revactiv ⚡️„KORNELIAP10” -10% @musclepower.pl 🤸🏽‍♀️„kornelia.pawlicka” -10% @makeusstrong.eu 🎶 TikTok: kornelia.pawlicka
     location: "Poland"
-    followers: 16073
-    engagement: 1101
-    commentsToLikes: 0.016764
+    followers: 17842
+    engagement: 712
+    commentsToLikes: 0.014953
     id: ckaowks6v9cy40i78k7f8nukj
     verified: false
-    hashtags: "#poletrick, #poleworkout, #poledance, #poledancer"
-  - username: "_bambucia_"
-    fullname: >-
-      Poledancer 💃
-    bio: >-
-      Będę mamą! 🥑 Pole dance i gimnastyka ✨ @sklep.sfd /@allnutrition kod bambucia ♥️ @rough_radical ↗️
-    location: "Poland"
-    followers: 46157
-    engagement: 148
-    commentsToLikes: 0.136453
-    id: ck5zt5w3ozsm10i14sylohx7x
-    verified: false
-    hashtags: "#poledancer, #czarnytom, #rain, #brzuszekci"
-  - username: "pastelcaat"
-    fullname: >-
-      Nanami~Chan
-    bio: >-
-      💗Cooperation: business.nanamichan@gmail.com 💗TikTok: pastelcaatofficial +740 k 💗YouTube: Nanami Chan +650 k 💗 #influencer 🇵🇱 Polish girl 🛍 My shop
-    location: "Poland"
-    followers: 406232
-    engagement: 793
-    commentsToLikes: 0.005954
-    id: ck15tjysdigof0i1909nt36m6
-    verified: false
-    hashtags: "#halloweencostume, #leaves, #sportstyle, #poledancemotivation"
-  - username: "weronikawoszczek"
-    fullname: >-
-      Weronika Woszczek
-    bio: >-
-      Priv pole lessons —> DM @revactiv kod „weronikawoszczek” -15% 🍷 📍Kraków 📍Tomaszów Mazowiecki 📍Olkusz 📍Warszawa @coveral__ 🎻 @star_trail_fit werka10
-    location: "Poland"
-    followers: 7690
-    engagement: 2402
-    commentsToLikes: 0.013934
-    id: ck8t06v7kr06w0j787gvafbvw
-    verified: false
-    hashtags: "#ddobinsta, #polskiesylwetki, #cracowgirl, #trening"
+    hashtags: "#poledance, #poledancer, #revactiv, #poleworkout"
   - username: "lasenioritaa"
     fullname: >-
       Aga 💞
     bio: >-
       Mum 💜 Inspo 💖 Travel 💜 lifestyle 💖 fashion 💜 Cuisine 💖
     location: "Poland"
-    followers: 30704
-    engagement: 89
-    commentsToLikes: 0.064657
+    followers: 30419
+    engagement: 100
+    commentsToLikes: 0.055827
     id: ck8tdrgq54i8a0j78g0opushi
     verified: false
-    hashtags: "#domowo, #beigelook, #poledancer, #fitgirl"
+    hashtags: "#zima, #polesplit, #kuba, #beigelook"
+  - username: "katarzyna_zimolzak"
+    fullname: >-
+      Kasia Zimolzak
+    bio: >-
+      24, Gdańsk 🏙🌍 Lawyer, Tax Advisor ◾ Books ◾ Food ◾ Fashion ◾ Fitness ◾ Pole dance @adrian.szydlik ❤️💏
+    location: "Poland"
+    followers: 6052
+    engagement: 459
+    commentsToLikes: 0.061376
+    id: ck9wekp71kp7i0j78p0uurcpf
+    verified: false
+    hashtags: "#tripideas, #tb, #poledancer, #architecture"
+  - username: "slupcia"
+    fullname: >-
+      • S • L • U • P • C • I • A •
+    bio: >-
+      ✨ Polska 🇵🇱 ✨ Rzeszów 🏢 ✨ #poledance #sport #gym #modeling#kosmetologia MOTTO: ,,N𝕚𝕖 𝕟𝕒𝕣𝕫𝕖𝕜𝕒𝕛, ż𝕖 𝕞𝕒𝕤𝕫 𝕡𝕠𝕕 𝕘ó𝕣𝕜ę, 𝕛𝕖ś𝕝𝕚 𝕚𝕕𝕫𝕚𝕖𝕤𝕫 𝕟𝕒 𝕤𝕫𝕔𝕫𝕪𝕥!,, 💪
+    location: "Poland"
+    followers: 27228
+    engagement: 104
+    commentsToLikes: 0.045184
+    id: ckaoypwh3ijz70i78v3282th8
+    verified: false
+    hashtags: "#poledance, #polishgirl, #rurka, #smile"
+  - username: "kaarero"
+    fullname: >-
+      ➡️️Karolina⬅️
+    bio: >-
+      Karolina Marszałek 👩🏼🌸 TFP📸 ✍🏼priv TikTok: marszalek.karolina #travel 🌴☀️💦 #gymlover 💪🏽 ✖️Szczecin✖️🇵🇱
+    location: "Poland"
+    followers: 12324
+    engagement: 546
+    commentsToLikes: 0.026507
+    id: ck5zphnvisoqo0i1488xmys5n
+    verified: false
+    hashtags: "#poletrick, #fitnessmotivation, #glamour, #poledance"
+  - username: "kalinowskaiza"
+    fullname: >-
+      Iza Kalinowska
+    bio: >-
+      ☆ Kosmetolog Trener personalny Instruktor pole dance ————————————— Kod zniżkowy do sklepu SFD „kalinowska10”
+    location: "Poland"
+    followers: 30555
+    engagement: 554
+    commentsToLikes: 0.012958
+    id: ck8t6xzwsf1jb0j786t9v5qb6
+    verified: false
+    hashtags: "#simple, #summer, #gymgirl, #gym"
 ---

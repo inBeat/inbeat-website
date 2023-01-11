@@ -1,130 +1,130 @@
 ---
-title: Top 10 Pilates Instagram Influencers in 2023
+title: Top 10 Pilates Instagram Influencers In 2023
 description: >-
-  Find top pilates Instagram influencers in 2023. Most popular hashtags: #pilatesinstructor #yogalove #yogainspiration.
+  Find top pilates Instagram influencers in 2023. Most popular hashtags: #matpilates #abworkout #coreworkout #pilatesinstructor.
 platform: Instagram
-hits: 1915
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform has 1915 Instagram influencers like this for you to pitch.
+hits: 1805
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 1805 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "maria_louiza_real"
+    fullname: >-
+      Maria Louiza Vourou
+    bio: >-
+      📺 Tv Presenter 📻 Radio producer 🥑Founder @thehealthyplan.gr 🤸‍♀️ Pilates instructor 🍇Wellness influencer 👶🏻 Jason’s mom
+    location: "Greece"
+    followers: 87993
+    engagement: 157
+    commentsToLikes: 0.032473
+    id: ck55n9iwk5quk0i11bdztjjlt
+    verified: false
+    hashtags: "#wellness, #december, #mood, #motivation"
+  - username: "pilatesbodyraven"
+    fullname: >-
+      Raven Ross
+    bio: >-
+      Founder @pilatesbodyhotties LIB SZN3 @loveisblindnetflix Pilates Master Trainer Barre Instructor Weekly Workouts on YT⤵️
+    location: "United States"
+    followers: 792595
+    engagement: 128
+    commentsToLikes: 0.006964
+    id: ckap2c945y8bx0i788fs3no8c
+    verified: false
+    hashtags: "#pilates, #podsquad, #freeworkout, #matpilates"
+  - username: "getfit_whit"
+    fullname: >-
+      Whitney Houlin | Fitness Instructor | FREE workouts
+    bio: >-
+      Sharing workouts and choreography for: Barre-Pilates-TRX-Power Flow-Low impact 👀Let’s hang out in stories! 📍Utah 🚴🏻‍♀️Freebeat Squad
+    location: "United States"
+    followers: 137773
+    engagement: 111
+    commentsToLikes: 0.163198
+    id: cl9ej7hk8gl160i237tdq1gkh
+    verified: false
+    hashtags: "#matpilates, #fullbodyworkout, #lowerbodyworkout, #athomeworkouts"
+  - username: "sophiechoudry"
+    fullname: >-
+      SOPHIE
+    bio: >-
+      Singer, Performer, Actor, Host, Pilates girl💗 Positive Vibes Only💫 New song: Aaj Main Nachna on reels & Gori Hai 💥 Link below
+    location: "Thailand"
+    followers: 3146340
+    engagement: 89
+    commentsToLikes: 0.008336
+    id: ck14h0n4y7y7q0i19gurrgy5u
+    verified: true
+    hashtags: "#raw, #unfiltered, #giglife, #shootlife"
+  - username: "fitfionaj"
+    fullname: >-
+      𝘍𝘪𝘰𝘯𝘢 𝘑𝘶𝘥𝘥, 𝘍𝘪𝘵𝘯𝘦𝘴𝘴 𝘐𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘰𝘳/𝘛𝘳𝘢𝘪𝘯𝘦𝘳/𝘏𝘰𝘮𝘦 𝘞𝘰𝘳𝘬𝘰𝘶𝘵 𝘐𝘥𝘦𝘢𝘴
+    bio: >-
+      𝘍𝘙𝘌𝘌 Workouts Pumped Up Strength Creative Team Barre Above/Balletone Program Specialist BodyPump/Pilates MyQFit App Trainer
+    location: "United States"
+    followers: 159055
+    engagement: 82
+    commentsToLikes: 0.081126
+    id: ckqg6g0zdob280j236d2ke6v1
+    verified: false
+    hashtags: "#armworkouts, #armday, #homeworkoutideas, #dumbbellworkout"
+  - username: "saracolquhoun"
+    fullname: >-
+      
+    bio: >-
+      💪Pilates Trainer ✨Balanced Body Master Instructor ✨Pilates Teacher Trainer Melbourne 👇ON DEMAND COMING SOON!
+    location: "United States"
+    followers: 195089
+    engagement: 41
+    commentsToLikes: 0.029803
+    id: ck5zx1icl75xy0i14uxz15ei8
+    verified: false
+    hashtags: "#workout, #athomeworkout, #pilatesfit, #pilates"
   - username: "andreitalevin"
     fullname: >-
       Andreita Levin
     bio: >-
       Based in Canada | From Mexico ♡ 🤸🏻‍♀️Yoga/Pilates Teacher☼Dance Artist ➵ Wanderluster ✈️ 📍Toronto 🇨🇦
     location: "Canada"
-    followers: 21558
-    engagement: 602
-    commentsToLikes: 0.062108
+    followers: 24024
+    engagement: 384
+    commentsToLikes: 0.071997
     id: ck0u7h3mp4njc0i19m5nnh9yv
     verified: false
-    hashtags: "#igyoga, #yoga, #yogaeverydamnday, #igyogafam"
+    hashtags: "#aloanimalsofthewild, #alochallenge, #aloyoga, #yogadrills"
   - username: "caro.lina.gil"
     fullname: >-
       Cäro
     bio: >-
       ☼ Happy just because ⇢ Professional dancer & Teacher ✯ Pilates Instructor • Lisbon
-    location: "Portugal"
-    followers: 9004
-    engagement: 1544
-    commentsToLikes: 0.083427
+    location: "Brazil"
+    followers: 8738
+    engagement: 1589
+    commentsToLikes: 0.083574
     id: ck0u0x6rzv5ow0i19vvpq2udd
     verified: false
-    hashtags: "#cancerfighter, #diary, #love, #sunlight"
+    hashtags: "#cancerfighter, #diary, #love, #breathe"
   - username: "movewithnicole"
     fullname: >-
       Nicole McPherson
     bio: >-
-      🇦🇺 🇵🇭 🇪🇸 Yoga Lover || Latin Dancer Barre & Pilates Instructor @fitnessplaygroundaus 📍Sydney, Australia 👇 YouTube Channel 👇
-    location: "Australia"
-    followers: 27441
-    engagement: 687
-    commentsToLikes: 0.100910
+      🇦🇺 🇵🇭 🇪🇸 YouTube: Move With Nicole Pilates Instructor || Lover of Movement 📍Queensland, Australia
+    location: "United States"
+    followers: 44006
+    engagement: 606
+    commentsToLikes: 0.078411
     id: ck5zm9ff1m5bf0i14yx1eswhf
     verified: false
-    hashtags: "#yogisofinstagram, #pilatesinstructor, #yogainspo, #flexible"
-  - username: "junglejohanna"
+    hashtags: "#yogainspo, #yogamotivation, #yogagirl, #backbend"
+  - username: "sarita_me_myself"
     fullname: >-
-      JUNGLE™
+      Sara ❤️
     bio: >-
-      MIAMI BASED ☀️ @selectmodelmiami YOGA + PILATES 🧘🏽‍♀️ @greenmonkeyyoga @solyogaflorida PERSONAL TRAINER 💪🏽 PLANT MOM 🌵🌿 LIBRA 🌞 SCORPIO 🌙 SAG 📈
-    location: "United States"
-    followers: 59982
-    engagement: 691
-    commentsToLikes: 0.029744
-    id: ck55lk8kb1rfp0i111gckz3dl
+      💆🏽 Masajista y esteticista 👠 Modelo ⚽️ Real Madrid 🎭 Actriz 💪🏽 Monitora de pilates 🎤 Reportera 📩 Colaboraciones saragonzalez@media-influencer.es
+    location: "Spain"
+    followers: 60172
+    engagement: 724
+    commentsToLikes: 0.048918
+    id: ckap72oopidpw0i786v19bm29
     verified: false
-    hashtags: "#octobersveryown, #respectfully, #onlyfans, #halloween"
-  - username: "anyellesouza"
-    fullname: >-
-      Anyelle Souza
-    bio: >-
-      Fisioterapeuta 🔸Instrutora de Pilates Clássico 🔸Pós graduanda em fisioterapia Desportiva e Traumato-ortopedia
-    location: "Brazil"
-    followers: 2961
-    engagement: 1445
-    commentsToLikes: 0.123605
-    id: ck8syzr15mng70j78q85qvisn
-    verified: false
-    hashtags: "#josephpilates, #pernambuco, #pilatesclassico, #contrologia"
-  - username: "miawatanabe_yoga"
-    fullname: >-
-      Mia
-    bio: >-
-      ERYT-500+•YACEP🕉 Pilates ヨガ&ピラティスインストラクター 🏠USA🇺🇸 🌸シリコンバレーの🇺🇸アメリカ大企業でヨガ教導 🌸Day1Stretch/Founder(オフィスヨガ) •英語でヨガ •Vinyasa Yoga •ヒーリングタッチ •骨盤底 •オフィスヨガ
-    location: "Japan"
-    followers: 21686
-    engagement: 457
-    commentsToLikes: 0.061414
-    id: ck14l4qmzsuh90i19pq2tx3ir
-    verified: false
-    hashtags: "#stanford, #split, #yogapractice, #sf"
-  - username: "maria_louiza_real"
-    fullname: >-
-      Maria Louiza Vourou
-    bio: >-
-      📺 Tv Presenter 🤸‍♀️ Pilates instructor 🥑🍑🍌 Fitness blogger 🇬🇷 @Queen.gr➡️MLvlog /model 👶🏻 happy mama of Jason
-    location: "Greece"
-    followers: 69643
-    engagement: 297
-    commentsToLikes: 0.197497
-    id: ck55n9iwk5quk0i11bdztjjlt
-    verified: false
-    hashtags: "#quarantine, #staysafe, #mood, #staypositive"
-  - username: "happycoachbyaurelie"
-    fullname: >-
-      Aurélie EDMOND - Happy Coach
-    bio: >-
-      ⭐️ Coach diplômée: fitness 💪🏼🏋🏽 - yoga 🙏🏼 - pilates 🎽 🎥 Chaîne YT: Happy Coach 📩 Contact@happy-coach.fr 🚨 PROGRAMME 28JPS ⬇️⬇️⬇️
-    location: "France"
-    followers: 16819
-    engagement: 678
-    commentsToLikes: 0.067444
-    id: ckf5m1xiiry7n0j23p8s0anrk
-    verified: false
-    hashtags: ""
-  - username: "eva.pepaj"
-    fullname: >-
-      Eva Gabriel
-    bio: >-
-      WifeMomModelActor Explorer🧭 BeachBum🏖 📍Los angeles DET✈️LA Born#albania🇦🇱 Spiritual🔮 #Pilates lover For collab📧 bellaeva11@gmail.com
-    location: "United States"
-    followers: 159849
-    engagement: 230
-    commentsToLikes: 0.052483
-    id: ck14hcauz9loq0i19jg9pg5rp
-    verified: true
-    hashtags: "#production, #revolve, #albanian, #ootd"
-  - username: "christrimarchi"
-    fullname: >-
-      Chris "topher"
-    bio: >-
-      📍Melbourne, Australia 🇦🇺 ▪️KX Pilates Instructor ▪️Pizza lover ▪️TiKToK @beardedblanche ▪️Hump Day Advocate 🍑 • HAVE COURAGE AND BE KIND •
-    location: "Australia"
-    followers: 22921
-    engagement: 620
-    commentsToLikes: 0.041966
-    id: ckap370vn1tka0i78vws3d2aa
-    verified: false
-    hashtags: "#comedy, #humpday, #wearamask, #throwback"
+    hashtags: "#madrid, #foodporn, #happy, #photography"
 ---

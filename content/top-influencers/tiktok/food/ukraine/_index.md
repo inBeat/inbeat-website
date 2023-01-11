@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Ukraine in 2023
+title: Top 10 Food TikTok Influencers In Ukraine In 2023
 description: >-
-  Find top food TikTok influencers in Ukraine in 2023. Most popular hashtags: #food #funny #ideas #howto.
+  Find top food TikTok influencers in Ukraine in 2023. Most popular hashtags: #food #funny #yummy #dessert.
 platform: TikTok
-hits: 21
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 21 TikTok influencers like this in Ukraine for you to connect with.
+hits: 17
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 17 TikTok influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "troom_crafts"
-    fullname: >-
-      Troom_Crafts
-    bio: >-
-      
-    location: "Ukraine"
-    followers: 319100
-    engagement: 1855
-    commentsToLikes: 0.006257
-    id: cka6b5jt6yy5x0i78z7d5xzz2
-    verified: true
-    hashtags: "#howto, #food, #btoke, #pets"
-  - username: "cooktastic"
-    fullname: >-
-      Cooktastic
-    bio: >-
-      We’re a super tasty channel, check out! It’s gonna be a lot of fun, we promise!
-    location: "Ukraine"
-    followers: 76300
-    engagement: 1109
-    commentsToLikes: 0.009007
-    id: ckbqth9ise6iv0j23fdvlx333
-    verified: false
-    hashtags: "#funny, #food, #cooktastic, #sneak"
   - username: "kukhtin.pro"
     fullname: >-
       Сергей Кухтин
     bio: >-
       SMM, WEB, DESIGN 🎯 www.kukhtin.pro
     location: "Ukraine"
-    followers: 51100
-    engagement: 331
-    commentsToLikes: 0.014208
+    followers: 51800
+    engagement: 335
+    commentsToLikes: 0.020693
     id: ck9gntouey4e40j785fe5r0y5
     verified: false
-    hashtags: "#digital, #ukraine, #foodvideo, #tiktok"
+    hashtags: "#kiev, #foodvideo, #smm, #tiktok"
   - username: "homecookingtop"
     fullname: >-
       Home cooking
     bio: >-
       
     location: "Ukraine"
-    followers: 60600
-    engagement: 1059
-    commentsToLikes: 0.008534
+    followers: 58200
+    engagement: 979
+    commentsToLikes: 0.006994
     id: ck9ngu28mfhc60j78qjx7n0cu
     verified: false
-    hashtags: "#cake, #cookingathome, #cooking, #idea"
-  - username: "catvskati"
-    fullname: >-
-      Cat vs Kati
-    bio: >-
-      🥳Cat VS Kati 🎬 Today 500k!!! subscribers on YOUTUBE🥁🦝🐈🦄🐯🐕!Thanks guys!🥳
-    location: "Ukraine"
-    followers: 108100
-    engagement: 746
-    commentsToLikes: 0.003367
-    id: ckcjilksycubi0j234vc8lhfy
-    verified: false
-    hashtags: "#challenge, #pets, #mycat, #animals"
+    hashtags: "#dessert, #yummy, #lifehack, #foodart"
   - username: "vsco__honey_"
     fullname: >-
       ✰︎ 🍯𝚟𝚜𝚌𝚘🍯 ✰︎
     bio: >-
       27/12/2019 goal 10k ☁️🤍🐚 love you all so much ♡︎♡︎♡︎
     location: "Ukraine"
-    followers: 4836
-    engagement: 2036
-    commentsToLikes: 0.067502
+    followers: 4411
+    engagement: 1947
+    commentsToLikes: 0.075103
     id: ckc8h7j0qbbau0j23vtvlcnzi
     verified: false
-    hashtags: "#night, #vscogirl, #vscogirlcheck, #aesthetic"
-  - username: "troom_troom.select"
+    hashtags: "#lviv, #vscowalk, #pinterest, #vsco"
+  - username: "leleka3555"
     fullname: >-
-      Troom Troom SELECT
+      user38378108185
     bio: >-
-      Magic tricks, DIYs, Lifehacks & Pranks! ;-)
+      Папа блог 🥰🥰🥰
     location: "Ukraine"
-    followers: 928500
-    engagement: 1956
-    commentsToLikes: 0.004001
-    id: ckcdkmphl9cm90j231f9up80g
-    verified: true
-    hashtags: "#switch, #bad, #snacks, #candy"
-  - username: "troomtroom"
-    fullname: >-
-      Troom Troom
-    bio: >-
-      Easy DIY "how to" video tutorials. DIY Accessories, Make Up Tutorials, Life Hack
-    location: "Ukraine"
-    followers: 3400000
-    engagement: 1252
-    commentsToLikes: 0.006914
-    id: ckav3espn9qnk0j23zcwuwbc0
-    verified: true
-    hashtags: "#troomtroom, #spring, #situations, #winter"
-  - username: "lalilu"
-    fullname: >-
-      LaLiLu
-    bio: >-
-      Easy DIY "how to make" video tutorials for parents and creative people.
-    location: "Ukraine"
-    followers: 498700
-    engagement: 1478
-    commentsToLikes: 0.003815
-    id: ck81s6he0qc7p0j7801ce016a
-    verified: true
-    hashtags: "#ideas, #pregnant, #doll, #dolls"
-  - username: "top5experiment"
-    fullname: >-
-      Top 5 Experiments
-    bio: >-
-      Crushing Crunchy & Soft Things 🚘🍭🍟 📧 top5experiments@gmail.com
-    location: "Ukraine"
-    followers: 1800000
-    engagement: 926
-    commentsToLikes: 0.008056
-    id: ck9ror4x8dudb0j789qcidnwg
+    followers: 3285
+    engagement: 883
+    commentsToLikes: 0.022441
+    id: ckczu2sz65du10j23kzrjvv3w
     verified: false
-    hashtags: "#shoes, #crash, #asmr, #slime"
+    hashtags: "#voiceeffects, #food"
+  - username: "woohoo_whoa"
+    fullname: >-
+      WooHoo WHOA
+    bio: >-
+      Experiments, explosions, crushing and a lot more! SUBSCRIBE!
+    location: "Ukraine"
+    followers: 652200
+    engagement: 984
+    commentsToLikes: 0.008622
+    id: ckacajpuph18g0i78dv1bhkri
+    verified: false
+    hashtags: "#woohoowhoa, #funny, #ideas, #situations"
+  - username: "christina_rbl"
+    fullname: >-
+      Христина
+    bio: >-
+      
+    location: "Ukraine"
+    followers: 65000
+    engagement: 517
+    commentsToLikes: 0.022134
+    id: ck8f8vtg73o120j781hpxda8t
+    verified: false
+    hashtags: "#ukraine, #puppy, #ukrainian, #2019"
+  - username: "homecookingvideo"
+    fullname: >-
+      Home cooking
+    bio: >-
+      
+    location: "Ukraine"
+    followers: 168000
+    engagement: 1046
+    commentsToLikes: 0.007664
+    id: cka0kugryo6qi0i78phj56hil
+    verified: false
+    hashtags: "#cake, #yummy, #dessert, #cakedecor"
+  - username: "lanaappetitovna"
+    fullname: >-
+      Lana Appetitovna
+    bio: >-
+      Подробные рецепты в моем👆INSTAGRAM❤ и YouTube❤Подпишись! НЕ НУ А ШО!😉👇
+    location: "Ukraine"
+    followers: 961000
+    engagement: 1036
+    commentsToLikes: 0.005051
+    id: ckcvgk9eyszdu0j23c9di0gh8
+    verified: false
+    hashtags: "#foryoupage, #kinder, #makeadrink, #chocolate"
+  - username: "hannashvets"
+    fullname: >-
+      Hanna Shvets
+    bio: >-
+      Cooperation - hannabusinessinfo@gmail.com
+    location: "Ukraine"
+    followers: 462600
+    engagement: 790
+    commentsToLikes: 0.022719
+    id: ckcdrrd2mcxsw0j23hjtc1ltt
+    verified: false
+    hashtags: "#eyebrows, #trimmer, #colorcustomizer, #2021"
+  - username: "bloggersawards"
+    fullname: >-
+      Bloggers Awards
+    bio: >-
+      World Influencers&Bloggers Awards 🏆Backstages🏆 APPLY & DM ➡️ Instagram
+    location: "Ukraine"
+    followers: 81700
+    engagement: 218
+    commentsToLikes: 0.008760
+    id: cka0jynggk5qu0i78ecov54r2
+    verified: false
+    hashtags: "#gianlucavacchi, #influencer, #cannesfilmfestival, #party"
 ---

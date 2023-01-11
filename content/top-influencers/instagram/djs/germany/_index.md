@@ -1,72 +1,72 @@
 ---
-title: Top 10 Djs Instagram Influencers In Germany in 2023
+title: Top 10 Djs Instagram Influencers In Germany In 2023
 description: >-
-  Find top djs Instagram influencers in Germany in 2023. Most popular hashtags: #dj #djlife #lucbelaire.
+  Find top djs Instagram influencers in Germany in 2023. Most popular hashtags: #djlife #music #party.
 platform: Instagram
-hits: 99
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 99 Instagram influencers like this in Germany for you to collaborate.
+hits: 63
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 63 Instagram influencers like this in Germany for you to pitch.
 profiles:
   - username: "djrayd"
     fullname: >-
       DJ Ray-D
     bio: >-
-      🇩🇪 2 x German DMC DJ Champion 🎧 Turntablist & Club DJ 💯 DJs4DJs Hoodie 🛒 ⬇️ ORDER NOW
+      🇩🇪 2 x German DMC DJ Champion 🎧 Turntablist & Club DJ 🏫 @raycademy DJ School | FFM 🔌 Co-Founder of DJs4DJs 👟 ⬇️⬇️⬇️ Merchandise
     location: "Germany"
-    followers: 21735
-    engagement: 284
-    commentsToLikes: 0.160754
+    followers: 21794
+    engagement: 335
+    commentsToLikes: 0.239787
     id: ck13d40ai3kec0i19kwqgy5uv
     verified: false
-    hashtags: "#djs4djs, #tbt, #djlife, #realdjing"
-  - username: "djsaywhaat"
-    fullname: >-
-      𝑺𝑨𝒀 𝑾𝑯𝑨𝑨𝑻
-    bio: >-
-      Booking: daniel@heroes.dj #djsaywhaat #rocthatmix 🏡CGN|DUS🇩🇪1999
-    location: "Germany"
-    followers: 8320
-    engagement: 385
-    commentsToLikes: 0.080825
-    id: ck5ce7k0vkhnz0i11cd8bd0ep
-    verified: false
-    hashtags: "#milkymusicgroup, #scratchmag, #scratch, #djsaywhaat"
+    hashtags: "#djlife, #djs4djs, #raycademy, #lockdown"
   - username: "jugglerz"
     fullname: >-
       𝙅𝙐𝙂𝙂𝙇𝙀𝙍𝙕
     bio: >-
-      𝖓𝖔𝕽𝖚𝖑𝖊𝖘 l Producer & DJs l Follow us on TikTok:
+      𝖓𝖔𝕽𝖚𝖑𝖊𝖘 l Producer & DJs l New @kabakapyramid Video ⬇️
     location: "Germany"
-    followers: 27438
-    engagement: 153
-    commentsToLikes: 0.053569
+    followers: 30088
+    engagement: 165
+    commentsToLikes: 0.059177
     id: ck55jqoruxknv0i11qz4skfxz
     verified: true
-    hashtags: "#soundclash, #miwata, #norules, #tbt"
+    hashtags: "#jugglerz, #fun, #luciano, #yonii"
+  - username: "djrapture4real"
+    fullname: >-
+      Dj Rapture
+    bio: >-
+      Producer & Dj from Germany 🇩🇪 Jiggle | Hell Yeah | S.I.R. | Bend Ova 👇🏼👇🏼DJs4DJs Hoodies 👇🏼👇🏼
+    location: "Germany"
+    followers: 14700
+    engagement: 388
+    commentsToLikes: 0.221259
+    id: ck0w49ljixh310i1927vhlyfc
+    verified: false
+    hashtags: "#raycademy, #realtalk, #100, #shutdown"
   - username: "djmetino"
     fullname: >-
       DJ Metino
     bio: >-
       ★RVNTIME★ @rvntime ★VIOLATOR DJs EUROPE★ ★BLACK BOTTLE BOY ★ ★Vienna/AT/EU ★ Email: djmetino@gmail.com
     location: "Germany"
-    followers: 5970
-    engagement: 1210
-    commentsToLikes: 0.029157
+    followers: 6709
+    engagement: 915
+    commentsToLikes: 0.053466
     id: ck5zxgfsy7yw80i147camo1rp
     verified: false
-    hashtags: "#fromcitytocity, #violatordjspromo, #picoftheday, #violatordjseurope"
-  - username: "shizgarawedding"
+    hashtags: "#luxeboys, #picoftheday, #djing, #violatordjs"
+  - username: "ruhrinlove"
     fullname: >-
-      ShizGaraStudio
+      Ruhr-in-Love
     bio: >-
-      Der Hochzeitsdienstleister: #Fotograf, #Kameramann, #Moderatoren, DJs Deko: @clara_miet_deko Deutschlandweit, Europa. English, Deutsch, Русский
+      Das elektronische Familienfest. ❤️ 03.07.2021 // 12-22 Uhr 400 DJs. 40 Floors. Alle Styles elektronischer Musik.
     location: "Germany"
-    followers: 7062
-    engagement: 710
-    commentsToLikes: 0.011246
-    id: ck5zxqfmw8h3a0i144t5bteck
+    followers: 12715
+    engagement: 376
+    commentsToLikes: 0.049927
+    id: ck0u94wrc90qu0i19oz0ezf7s
     verified: false
-    hashtags: ""
+    hashtags: "#summer, #music, #goa, #electronicmusic"
   - username: "djswedlu"
     fullname: >-
       DJ SWED LU
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.013565
     id: ck5hlsnvzksb40i11jbnplx5w
     verified: false
-    hashtags: "#international, #urban, #supreme, #blackbottleboys"
+    hashtags: "#urban, #supreme, #blackbottleboys, #lifestyle"
   - username: "dj.slick"
     fullname: >-
       Slick68
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.020583
     id: ck14h6bl48r530i19r9lqf2he
     verified: false
-    hashtags: "#slickguitar, #smaragdplus, #slick68, #backinbitchness"
+    hashtags: "#outnow, #greeen, #slickbeats, #slickguitar"
   - username: "djschowi"
     fullname: >-
       Jean-Christoph 'Schowi' Ritter
     bio: >-
       
     location: "Germany"
-    followers: 7118
-    engagement: 602
-    commentsToLikes: 0.046707
+    followers: 7139
+    engagement: 570
+    commentsToLikes: 0.033688
     id: ck5cg1grdnzsl0i11izckc5re
     verified: true
     hashtags: "#komplizenfilm, #marenade, #blackouttuesday"
-  - username: "lukemadnessofficial"
+  - username: "cat_deejane"
     fullname: >-
-      LUKE MADNESS
+      Cat Deejane 🎶🕊
     bio: >-
-      ◼️ || don’t forget to smile today :) ◼️ || singer, songwriter & producer #moini ◼️ || click the link below 🖤
+      DJane & producer by Sirup Music, PinkStar Disco, Attractive Music DJane @sinnersgotsoultoo New summer session 🎶
     location: "Germany"
-    followers: 7218
-    engagement: 1331
-    commentsToLikes: 0.165179
-    id: ck5zxga177yoy0i14313ssbe4
+    followers: 17098
+    engagement: 300
+    commentsToLikes: 0.051171
+    id: ck13cxmqa2o2y0i19snrg9vkw
     verified: false
-    hashtags: "#werderbremen, #bhfyp, #whitehairboy, #instafashion"
-  - username: "dj.dasco"
+    hashtags: "#deephousemusic, #enjoythemoment, #fashion, #deejane"
+  - username: "gourski"
     fullname: >-
-      DASCO
+      Daniel Gourski | Music ♥️
     bio: >-
-      For worldwide bookings please contact: alberto@orchid-am.com My b2b set with Dr. Rubinstein: 😈
+      🎶DJ, Producer, Soundhunter & Filmmaker 📍Cᴏʟᴏɢɴᴇ/Mᴏsᴄᴏᴡ ⬇️Music, Videos, Samplepacks
     location: "Germany"
-    followers: 18979
-    engagement: 156
-    commentsToLikes: 0.029950
-    id: ck0vw11pkrmjh0i19v53oawbt
+    followers: 33935
+    engagement: 166
+    commentsToLikes: 0.046196
+    id: ck5cdcjwgixmf0i11agxicnfx
     verified: false
-    hashtags: "#djset, #music, #openair, #sydney"
+    hashtags: "#producer, #soundsof, #zoomh1n, #ableton"
 ---

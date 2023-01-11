@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Bakers Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top bakers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #foodporn #foodphotography #bakersofinstagram #foodstagram.
+  Find top bakers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #feedfeed #dubaifoodbloggers #foodporn.
 platform: Instagram
-hits: 34
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 34 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 27
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 27 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
   - username: "saanya_jain"
     fullname: >-
       S A N Y A  J A I N
     bio: >-
-      Fashion & Marketing Enthusiast | Writer & Editor | Dancer | Amateur Baker 🌻 Dubai 🌱
+      Fashion & Marketing Enthusiast | Content Writer & Editor | Dancer | Amateur Baker 🌻 Dubai 🌱
     location: "United Arab Emirates"
-    followers: 2845
-    engagement: 1170
-    commentsToLikes: 0.061231
+    followers: 3288
+    engagement: 1023
+    commentsToLikes: 0.049170
     id: ck5qe4io1yolj0i116hx57kbv
     verified: false
-    hashtags: "#staysafe, #dancelover, #dessert, #bakingfromscratch"
-  - username: "sandyskitchendxb"
-    fullname: >-
-      Sandra Boghos-Letayf
-    bio: >-
-      Tried and tested recipes from my kitchen to yours. A baker. Also, a mom of three 😱🤹🏻‍♀️🎪 ☀️ Dubai
-    location: "United Arab Emirates"
-    followers: 9575
-    engagement: 403
-    commentsToLikes: 0.181191
-    id: ck8t2b1zxyssu0j78tsyec4uc
-    verified: false
-    hashtags: "#sandysrecipes, #bakersofinstagram, #sandyskitchendxb, #foodie"
+    hashtags: "#dancevideos, #dancelove, #baking, #bakingvideo"
   - username: "mahadphotographyofficial"
     fullname: >-
       Photography By Mahad Ur Rehman
     bio: >-
-      We’re Based in Pakistan🇵🇰Dubai🇦🇪Turkey🇹🇷 For Booking Details 0314-5387990 2nd floor Syed Arcade , Opposite Rahat Bakers ,Main PWD Road Islamabad
+      ISB,LHR,PSH,ATD Pakistan🇵🇰Dubai🇦🇪Turkey🇹🇷 For Booking Details 0314-5387990 2nd floor Syed Arcade , Opposite Rahat Bakers ,Main PWD Road Islamabad
     location: "United Arab Emirates"
-    followers: 102333
-    engagement: 44
-    commentsToLikes: 0.003708
+    followers: 185183
+    engagement: 31
+    commentsToLikes: 0.005118
     id: ck13bbw5buon10i197rjqdb02
     verified: false
-    hashtags: ""
+    hashtags: "#islambad, #bridalshoot, #pakistanibride, #pakistanidress"
+  - username: "romaindufour"
+    fullname: >-
+      Romain Dufour
+    bio: >-
+      Boulanger globe trotter! Plaza Athénée, head baker of Intercontinental Dubai, now in Eurogerm Chicago🇺🇸
+    location: "United Arab Emirates"
+    followers: 26987
+    engagement: 282
+    commentsToLikes: 0.023112
+    id: ck5c6wqma6czh0i11ripxtow4
+    verified: false
+    hashtags: "#pastry, #mexico, #isigny, #pastryfreshfaces"
   - username: "joyfulhomecooking"
     fullname: >-
       Joyce Nicolas Mrad
     bio: >-
       👩🏻‍🍳Happy, healthy cooking in my Dubai kitchen 😋Beautiful food that puts a smile on your face 💗Gluten, dairy & sugar free |Vegan |Paleo 🍴Food stylist
     location: "United Arab Emirates"
-    followers: 56330
-    engagement: 411
-    commentsToLikes: 0.298926
+    followers: 71920
+    engagement: 308
+    commentsToLikes: 0.077204
     id: ck138wefhicbv0i19f898cdo1
     verified: false
-    hashtags: "#instasweets, #bakersofinstagram, #justdesserts, #veganinspo"
-  - username: "lisaedunsin"
-    fullname: >-
-      Lisa Angel | ليزا أنجل
-    bio: >-
-      • Proud Melanin Blogger • Photo Tips • Food • Luxury • Style • Travel • 🍝 True Foodie @wherethefoodtho • • 📸 Portfolio @lisaangelphotography •
-    location: "United Arab Emirates"
-    followers: 12210
-    engagement: 475
-    commentsToLikes: 0.077601
-    id: ckaord35rmofm0i788o57xwe9
-    verified: false
-    hashtags: "#doyoutravel, #darkskinbeauty, #dubai, #naijafoodie"
-  - username: "flavoursofuae"
-    fullname: >-
-      #abudhabi  | Rajat and Riti
-    bio: >-
-      #uaebloggers 👫 #instagrammer Brand Ambassador- #chefstable @adculinaryseason #dubaiblogger #zomato top5 #foodphotographer 💌flavoursofarab@gmail.com
-    location: "United Arab Emirates"
-    followers: 12766
-    engagement: 614
-    commentsToLikes: 0.131796
-    id: ckap6v2tmhgu40i785amooxnf
-    verified: false
-    hashtags: "#dubaibloggers, #dubaiblogger, #abudhabi, #uae"
-  - username: "kitchen_maestro"
-    fullname: >-
-      Kitchen_Maestro
-    bio: >-
-      I am Nisreen Rahhal, a Pharmacist and a Passionate Palestinian 🇵🇸 Food lover 📍based in Dubai Food 📷 Food 🎨
-    location: "United Arab Emirates"
-    followers: 38334
-    engagement: 271
-    commentsToLikes: 0.225020
-    id: ck0w5jqoi3z6f0i19syzmfswm
-    verified: false
-    hashtags: "#foodbeast, #eidmubarak, #lowcarbrecipes, #foodstyling"
-  - username: "afsheenowais"
-    fullname: >-
-      Blessed with the Best Mommy
-    bio: >-
-      #sweettreatsbyafsheen 🔹Mommy Life with2️⃣munchkins👨‍👩‍👧‍👦 🔹Easy cooking tutorials 🔹Chai is Life☕️ 🔹Food|Lifestyle|Photography📸 📍UAE🇦🇪/PAK🇵🇰/Aus🇦🇺
-    location: "United Arab Emirates"
-    followers: 31839
-    engagement: 435
-    commentsToLikes: 0.166532
-    id: ck5pw3wplkz1b0i11xno2l07p
-    verified: false
-    hashtags: "#pakistanifoodblogger, #pakistanibloggers, #homecookingmadeeasy, #dubaiblogger"
+    hashtags: "#veganinspo, #thenewhealthy, #plantbased, #foodporn"
   - username: "lama_gharaibeh"
     fullname: >-
-      Lama F Gharaibeh
+      Lama Gharaibeh
     bio: >-
-      I find joy in cooking and baking, turning every meal with family and friends into a celebration 🎊! Mumzworld discount code (LamaG10)❤️
+      I find joy in cooking and baking, turning every meal with family and friends into a celebration ! Mumzworld discount code LamaG10 💓
     location: "United Arab Emirates"
-    followers: 17168
-    engagement: 382
-    commentsToLikes: 0.250161
+    followers: 21589
+    engagement: 269
+    commentsToLikes: 0.257689
     id: ck5hrufivvhzo0i11rl3ujv6r
     verified: false
-    hashtags: "#beautifulcuisines, #dubaifood, #goodfood, #uaefoodbloggers"
-  - username: "thestylechoreo"
+    hashtags: "#healthyeating, #foodculture, #bakedfromscratch, #deliciousfood"
+  - username: "sofiesworld__"
     fullname: >-
-      Paul Ramos
+      Safa Sartawi
     bio: >-
-      The Style Choreo [Koryo] 📧 thestylechoreo@gmail.com 📍 #AbuDhabi
+      فيه عطور بترجعلنا ذكريات وفيه اكلات بتلففنا بلاد تعو نروح مشوار food lover in Dubai , love to make recipes that tells a story 💟 Sofies World🇵🇸
     location: "United Arab Emirates"
-    followers: 47416
-    engagement: 169
-    commentsToLikes: 0.077296
-    id: ck5c5n12e3s9v0i11lxud1puy
+    followers: 28109
+    engagement: 170
+    commentsToLikes: 0.254648
+    id: ckap9hgplsmun0i7877l4nxfn
     verified: false
-    hashtags: "#unboxamazing, #thestylechoreoatfairmontbabalbahr, #thestylechoreo, #thedapperbaker"
+    hashtags: "#food, #maamoul, #eidcookies, #foodfotography"
+  - username: "oatsandthyme"
+    fullname: >-
+      ＭＡＨＡ M K
+    bio: >-
+      Stories from my home 🌴 ⠀⠀⠀⠀ 🌿 90% PLANT-BASED 🧘🏻‍ WELLBEING 〰 MINIMALIST LOVER 🍵 TEAHOLIC 👸🏻 Founder @pinkygoatlashes 📍 DUBAI, UAE
+    location: "United Arab Emirates"
+    followers: 111735
+    engagement: 130
+    commentsToLikes: 0.108186
+    id: ckaouu1p71tl90i78bhyqkgb1
+    verified: false
+    hashtags: "#dubaifood, #teawithmaha, #oatsandthyme, #avocado"
+  - username: "yashrajrautela"
+    fullname: >-
+      YashrajRautela
+    bio: >-
+      Early Stage Investor Emirates Aviation University🇦🇪•GAir🇵🇹•L3 Harris🇺🇸 Mumbai•UK•Dubai•Lisbon ‎₹ • د.إ • € Use #YashrajRautela
+    location: "United Arab Emirates"
+    followers: 73592
+    engagement: 382
+    commentsToLikes: 0.021984
+    id: ck15rqwhx98x10i191wywkcif
+    verified: false
+    hashtags: "#tedsgroomingroom, #londonbarbers"
+  - username: "sofyabaker"
+    fullname: >-
+      Sofya Baker
+    bio: >-
+      fashion,lifestyle & car enthusiast🤍 moscow | dubai 💌: sofyaabaker@gmail.com
+    location: "United Arab Emirates"
+    followers: 10149
+    engagement: 558
+    commentsToLikes: 0.138451
+    id: ck5zqt271v8ro0i14daa9rfmt
+    verified: false
+    hashtags: "#voicesofpandora, #pandorasignature, #somethingaboutyou, #pandoratimeless"
+  - username: "__amazingking_"
+    fullname: >-
+      Kingsley Rainbow
+    bio: >-
+      “No one is you and that is your power”. Artist Manager #ENDSARS #ENDPOLICEBRUTALITY Founder 👉 @dubai.babershop_africans
+    location: "United Arab Emirates"
+    followers: 8517
+    engagement: 332
+    commentsToLikes: 0.060843
+    id: ck135551rzrbx0i199xde19df
+    verified: false
+    hashtags: "#dubai, #brandinfluencer, #lifestyle, #fashion"
 ---

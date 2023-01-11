@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Indonesia in 2023
+title: Top 10 Cooking Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top cooking Instagram influencers in Indonesia in 2023. Most popular hashtags: #masaksimple #foodstagram #foods #kuetradisional.
+  Find top cooking Instagram influencers in Indonesia in 2023. Most popular hashtags: #indonesia #indoflashlight #exploreindonesia #keluarbentar.
 platform: Instagram
-hits: 363
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 363 Instagram influencers like this in Indonesia for you to contact.
+hits: 300
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 300 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "lola.amaria"
+  - username: "hungryfever"
     fullname: >-
-      Lola Amaria
+      HARTANTO
     bio: >-
-      Founder of Lola Amaria Production🌻Cooking addicts🌻Food lover🌻Traveller🌻Enjoying the world🌻 @lolas.cooking Contact : Gia | giapartawinata@gmail.com
+      Cooking • Baking • Travel | 📍Jakarta hartanto.chen@yahoo.com | 🤝🏻 Team Up Personal Feed : @hartan.to #HUNGRYFEVER
     location: "Indonesia"
-    followers: 42245
-    engagement: 199
-    commentsToLikes: 0.037284
-    id: ck13cwkdu2ilg0i19xjvsyuj3
-    verified: true
-    hashtags: "#bikeride, #piknikpedal, #roadbikelife, #gowes"
-  - username: "masakan.simple"
-    fullname: >-
-      Resep Masakan Simple
-    bio: >-
-      📣 Cooking Channel🍴🍱🥤 📍Malang 🍰 For Bussiness Email / Wa 0815 7521 1544 (Alf) pizza 3 bahan aja ⏬
-    location: "Indonesia"
-    followers: 164517
-    engagement: 614
-    commentsToLikes: 0.037799
-    id: ck9wdpwtkgq3x0j78cfzlfjse
+    followers: 493536
+    engagement: 68
+    commentsToLikes: 0.010630
+    id: ck0w4pzgrztly0i19jf6xegha
     verified: false
-    hashtags: "#masterchefindonesia, #instagood, #foods, #masaksimple"
+    hashtags: "#cafebandung, #hungryfevervideo, #kulinerbandung, #hungryfevertravellog"
+  - username: "alfiyann27"
+    fullname: >-
+      Wonosobo || Semarang ||Jkt
+    bio: >-
+      Say Hi . ♊99 🏠Wonosobo 📍Semarang 🚖Travel addict 👨‍🍳 Cooking 🧒Simple
+    location: "Indonesia"
+    followers: 7528
+    engagement: 1614
+    commentsToLikes: 0.069194
+    id: ck6ub976r87vp0j71ite4kk2o
+    verified: false
+    hashtags: "#indozonetravel, #hellonusantara, #agameoftones, #instagram"
+  - username: "liemvie"
+    fullname: >-
+      okta via
+    bio: >-
+      Lifestyle | Sharing | Review | Momcare | Cooking | Beauty 💍: @erikwijaya93 👶 : Cassie E.W Muse🏅 @mereetmoi BA 🏅 @imundexbaby @littlelight.baby
+    location: "Indonesia"
+    followers: 83008
+    engagement: 132
+    commentsToLikes: 0.032517
+    id: ck9wd5jsne5jz0j7817u0yo8u
+    verified: false
+    hashtags: "#sharingiscaring, #reviewmamycassie, #sharingmamycassie, #reviewproduct"
   - username: "kaklongteh_"
     fullname: >-
-      sitihaidahmahat🇲🇾
+      Siti HaiDah maHaT
     bio: >-
       Dapurku Officeku👩‍🍳 Love Cooking❤ Sendiri masak sendiri makan😁 Masak biase² n berulang seadenye je🤭 Ade gak selit2 pic2📸kesayangan🤗 Tq follow n like🌹🌹
     location: "Indonesia"
-    followers: 6246
-    engagement: 650
-    commentsToLikes: 0.160465
+    followers: 7253
+    engagement: 643
+    commentsToLikes: 0.126070
     id: ckf5x8d5wuse10j23hqpdd1k4
     verified: false
-    hashtags: "#alhamdulillah, #sayamasak, #lunch, #syukuralhamdulillah"
+    hashtags: "#mahn, #semogamurahrezekimu, #menuhariini, #foodfood"
   - username: "yulichia88"
     fullname: >-
       Helena Yuli
     bio: >-
       💙Cooking and Baking💙 🍃Simple Cuisine🍃 🏡Indonesia🏡 🤍Thanks for like, comment & follow🤍
     location: "Indonesia"
-    followers: 64369
-    engagement: 166
-    commentsToLikes: 0.268238
+    followers: 79620
+    engagement: 134
+    commentsToLikes: 0.199544
     id: ck135zlym40vv0i19be6ul7v2
     verified: false
-    hashtags: "#homebaking, #kuesederhana, #guniezzt, #reseproemahan"
+    hashtags: "#doyanmasak, #love, #reseproemahan, #guniezzt"
+  - username: "onyah.pingky"
+    fullname: >-
+      ＯＮＹＡＨ ＰＩＮＧＫＹ
+    bio: >-
+      🧕🏻 27th 🏠 Sharing & Inspiring with me 🍛 cooking enthusiast ⬇️⬇️ INFO BARANG2 RUMAH KLIK LINK DIBIO
+    location: "Indonesia"
+    followers: 48193
+    engagement: 279
+    commentsToLikes: 0.064813
+    id: ck5cho4tmr59y0i110zwu5z77
+    verified: false
+    hashtags: "#animalcrossing, #ngemilbebaskhawatir, #hdlselimutanyuk, #hdlbantalgemes"
+  - username: "dapur.pandamerah"
+    fullname: >-
+      Menu diet sehat ❤️ lost 20kg
+    bio: >-
+      💁 Healthy Lifestyle, Pejuang PCOS & pejuang diet defisit kalori, 👶 @sheonalevina 🍲 Cooking by PandaMerah Youtube Cara Diet & Pola Makanku ⬇️
+    location: "Indonesia"
+    followers: 83652
+    engagement: 258
+    commentsToLikes: 0.022654
+    id: ck5zn77adnws70i14lijhflrw
+    verified: false
+    hashtags: "#supjagungwortel, #muntahu, #jamurtiram, #resepsambalmentah"
   - username: "sulli_fant"
     fullname: >-
       M A S U L L I
     bio: >-
       Traveling Cooking planting 🌻 📍Malang East Java - Indonesia 🇮🇩 @letss_plants
     location: "Indonesia"
-    followers: 4465
-    engagement: 2198
-    commentsToLikes: 0.245518
+    followers: 4404
+    engagement: 1902
+    commentsToLikes: 0.240432
     id: ck0tuu3da8o5f0i19sgvxcy0s
     verified: false
-    hashtags: "#jalan2terus, #keluarbentar, #cobanrendeng, #travel"
-  - username: "onyah.pingky"
-    fullname: >-
-      Inspirasi Rumah Peachy Pink
-    bio: >-
-      🧕🏻 26th 🏠 Sharing & Inspiring with me 🍛 cooking enthusiast
-    location: "Indonesia"
-    followers: 36139
-    engagement: 337
-    commentsToLikes: 0.074019
-    id: ck5cho4tmr59y0i110zwu5z77
-    verified: false
-    hashtags: "#shabbylovers, #pinklady, #shabby, #shabbychicstyle"
-  - username: "randferdian"
-    fullname: >-
-      Randi Ferdiansyah
-    bio: >-
-      🍳Cooking, Food, Traveler, Photograph📷 ___ TikTok : @MaenMasakMasakan Business Inquiry: ❌ No DM 📩 Email : randferdian@gmail.com ___ 👇🏻👇🏻👇🏻👇🏻👇🏻
-    location: "Indonesia"
-    followers: 150572
-    engagement: 555
-    commentsToLikes: 0.028170
-    id: ckaowm6m59gqp0i78v26mci5k
-    verified: false
-    hashtags: "#hanzelpremiumsausage, #morejuicymoretasty, #gayahidupsehat, #mille"
-  - username: "earlytitania"
-    fullname: >-
-      Early Titania
-    bio: >-
-      Ordinary Mom & Wife who loves Cats, rumahHavana with 13 cats, CookingVideography & Capturing beauty through my lens 📸
-    location: "Indonesia"
-    followers: 57428
-    engagement: 83
-    commentsToLikes: 0.117541
-    id: ckap7eba5jpcb0i786qwogghz
-    verified: false
-    hashtags: "#plantstyling, #plantsofinstagram, #plantshelfie, #plantsplantsplants"
+    hashtags: "#mountains, #keluarbentar, #puncakbundu, #indonesiantraveler"
   - username: "eviwanq"
     fullname: >-
       Evi Wang
     bio: >-
       Hobby : Baking 🍰 & Cooking 🍴 Masakan Rumah 📍Pemangkat, Kalbar
     location: "Indonesia"
-    followers: 9794
-    engagement: 627
-    commentsToLikes: 0.256332
+    followers: 11040
+    engagement: 561
+    commentsToLikes: 0.290712
     id: ckap3ekgo2qxp0i786qbudv27
     verified: false
-    hashtags: "#rotienak, #rotisourdough, #bawangputihhitam, #starter"
-  - username: "dapur.pandamerah"
+    hashtags: "#ragialami, #ragiliar, #kueimlek, #imlek2021"
+  - username: "olderplus"
     fullname: >-
-      Menu diet sehat ❤️ lost 20kg
+      Alphabad
     bio: >-
-      💁 Healthy Lifestyle, Pejuang PCOS & pejuang diet defisit kalori, 👶 @sheonalevina 🍲 Cooking by PandaMerah 🏠 JKT Youtube Cara Diet & Pola Makanku ⬇️
+      Cooking Soulfood 🍕
     location: "Indonesia"
-    followers: 81568
-    engagement: 230
-    commentsToLikes: 0.020673
-    id: ck5zn77adnws70i14lijhflrw
+    followers: 19624
+    engagement: 580
+    commentsToLikes: 0.015512
+    id: ck5bwxqe0mm6r0i1136y8zvmh
     verified: false
-    hashtags: "#reseptahu, #resepayam, #resepsop, #cookiesoat"
+    hashtags: "#graffiti, #beanbag, #graffbike, #olderplus"
 ---

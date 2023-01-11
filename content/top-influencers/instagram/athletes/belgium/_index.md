@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Belgium in 2023
+title: Top 10 Athletes Instagram Influencers In Belgium In 2023
 description: >-
-  Find top athletes Instagram influencers in Belgium in 2023. Most popular hashtags: #fitness #paris #tbt.
+  Find top athletes Instagram influencers in Belgium in 2023. Most popular hashtags: #teambelgium #belgium #olympics.
 platform: Instagram
-hits: 27
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 27 Instagram influencers like this in Belgium for you to contact.
+hits: 16
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 16 Instagram influencers like this in Belgium for you to work with.
 profiles:
-  - username: "sterre.vervloet"
-    fullname: >-
-      𝚂𝚝𝚎𝚛𝚛𝚎 𝚟𝚎𝚛𝚟𝚕𝚘𝚎𝚝 ☆
-    bio: >-
-      @athletesforhopebelgium •Faith it till you make it •Paradise found ❥ℳ
-    location: "Belgium"
-    followers: 2375
-    engagement: 2942
-    commentsToLikes: 0.058413
-    id: ck6u3wdbl09ii0j71ave0hjlc
-    verified: false
-    hashtags: "#sportoase, #aveve, #185, #trek"
-  - username: "remi.ganzeman"
-    fullname: >-
-      REMI GANZEMAN
-    bio: >-
-      Dad . 🎈 Online E-Coach . 💪🏼 Belgium, Antwerp . 🌍 @gorillawearusa Athlete 🐵 @qntsportnutritionTEAMREMI 15% 👅
-    location: "Belgium"
-    followers: 22637
-    engagement: 375
-    commentsToLikes: 0.115579
-    id: ck0twglz0fack0i196e89a169
-    verified: false
-    hashtags: "#corona, #myson, #gorillawearusa, #motivationmonday"
-  - username: "jenthe.van.houdt"
-    fullname: >-
-      𝐅𝐢𝐭 & 𝐅𝐥𝐞𝐱𝐢𝐛𝐥𝐞⁠
-    bio: >-
-      🇧🇪 | Belgian Acrobat 🏆 4x European Champion 💦 | Proud @vitaminwellbenelux ambassador 👊 | Strong @bodyandfit_nl athlete 💋 | Sharing life @kjell.jansen
-    location: "Belgium"
-    followers: 12785
-    engagement: 827
-    commentsToLikes: 0.095512
-    id: ck5hg9gfe1mi50i118szsa0ld
-    verified: false
-    hashtags: "#staysafe, #theartofdance, #dancersofinstagram, #sprouttobebrussels"
-  - username: "alihealth_1"
-    fullname: >-
-      Ali Health | Online Coach
-    bio: >-
-      @xxlnutrition athlete 9 times overall champ 🥇 🇦🇫🇧🇪 Join my online coaching team 👇🏼
-    location: "Belgium"
-    followers: 112196
-    engagement: 503
-    commentsToLikes: 0.018008
-    id: ck5ca6efzcsdr0i11x61122fr
-    verified: false
-    hashtags: "#bodybuilding, #pictureoftheday, #fitness, #fitnessmodel"
-  - username: "iboufay28"
-    fullname: >-
-      Ibrahima Fall Faye🏀
-    bio: >-
-      #28 🇸🇳Senegalese Men’s Basketball Team 🦁 🇧🇪Antwerp Giants Men’s Basketball Team @nike athlete
-    location: "Belgium"
-    followers: 5489
-    engagement: 1416
-    commentsToLikes: 0.028819
-    id: ck5zuz7sj3aut0i14pwl4qfeu
-    verified: true
-    hashtags: "#28"
-  - username: "isaure_medde"
-    fullname: >-
-      Isaure Medde
-    bio: >-
-      Mountain biker U23 at @creuseoxygene 🚵🏼‍♀️ Athlète de la pépinière #FDJSportFactory 🤝 WORLD CHAMPION XCE 2020 🌈
-    location: "Belgium"
-    followers: 7783
-    engagement: 2146
-    commentsToLikes: 0.008807
-    id: ck1370ncv974f0i19eytfuy8e
-    verified: false
-    hashtags: "#happyyyyy, #noshortcuts, #scottspark, #yessss"
   - username: "oballsohard"
     fullname: >-
       Retin Obasohan
     bio: >-
       @pumahoops Athlete @basketballnymburk #32 🇨🇿 Belgian National Team #15 🇧🇪 VISION OVER SIGHT - VØS
     location: "Belgium"
-    followers: 17822
-    engagement: 420
-    commentsToLikes: 0.031192
+    followers: 18169
+    engagement: 473
+    commentsToLikes: 0.030625
     id: ck5bykppipc1r0i11kxvgtme0
     verified: true
-    hashtags: "#paris, #livebackwards, #visionoversight, #yulaenergy"
+    hashtags: "#visionoversight, #unity, #love, #paris"
   - username: "badrtkd74"
     fullname: >-
-      𝓑𝓪𝓭𝓻𝓽𝓴𝓭 🦁
+      ACHAB.B
     bio: >-
-      🥋: Taekwondo athlete 🇧🇪 🇹🇳: World junior championships medalist 🥉 🇦🇷: Youth Olympic Medalist 🥈 🇸🇪: European Championships -21 🥈 🦁: Only the beginning.
+      Professional Taekwondo @begold.be & @adeps_officiel athlete 🇧🇪 Youth vice-Olympic champion, World bronze medalist and silver Europeans u21 🥇
     location: "Belgium"
-    followers: 3995
-    engagement: 2000
-    commentsToLikes: 0.030516
+    followers: 4186
+    engagement: 1890
+    commentsToLikes: 0.034257
     id: ckap5rkokcv4z0i78ka3wv6u8
     verified: false
-    hashtags: "#confinement, #holidays, #ba74, #teamachab"
+    hashtags: "#ba74, #teamachab, #begold, #photography"
+  - username: "elkevanhoof91"
+    fullname: >-
+      🌍 Elke Vanhoof 🚲
+    bio: >-
+      ♥️ @demeyvalerie 🇧🇪 Belgian Defence - Belgian Team 🏆 2016 & 2020 Olympic Athlete 🇪🇺Euro Champ 🥇🥈🥉 🎓 BMX Coach👇🏻
+    location: "Belgium"
+    followers: 11650
+    engagement: 707
+    commentsToLikes: 0.039730
+    id: ck0w6m5vv98t80i19dl5dro82
+    verified: false
+    hashtags: "#bmxlife, #project91family, #bmxgirl, #sporten"
+  - username: "emma_meesseman"
+    fullname: >-
+      Emma Meesseman
+    bio: >-
+      ~ Belgian Cat 🇧🇪😼🏀 ~ UMMC Ekaterinburg 🇷🇺 ~ WNBA Washington Mystics 🇺🇸 Nike athlete
+    location: "Belgium"
+    followers: 31758
+    engagement: 1295
+    commentsToLikes: 0.013767
+    id: ck0ubs9wdf7xg0i198y8l345m
+    verified: false
+    hashtags: "#roadtotokyo2020, #basketballwithorange, #focusnext, #basketballbelgium"
+  - username: "emilie_conter"
+    fullname: >-
+      Emilie Conter
+    bio: >-
+      🇧🇪 Belgian Showjumping Athlete 📍@stephexstables Personal account: @emilie.conter
+    location: "Belgium"
+    followers: 13850
+    engagement: 1012
+    commentsToLikes: 0.007002
+    id: ckaote5vpvjhj0i78a77lgbju
+    verified: false
+    hashtags: "#espyrante, #fragile, #catokia2, #womensupportingwomen"
   - username: "demi_casteleyn"
     fullname: >-
       🌸 Demi 🌸
     bio: >-
-      Little '90s girl who's trying to grow a booty & become a psychologist💖 @bootytools.be athlete 🍑
+      Little '90s girl who's trying to grow a booty & become a psychologist💖 @bootytools athlete 🍑
     location: "Belgium"
-    followers: 2414
-    engagement: 949
-    commentsToLikes: 0.086745
+    followers: 2280
+    engagement: 998
+    commentsToLikes: 0.087442
     id: ck6ubbawe8l0q0j71wacri4ea
     verified: false
-    hashtags: "#fitlife, #fitgirl, #fitbelgians, #fitness"
+    hashtags: "#fitness, #fitgirl, #fitlife, #fitfam"
   - username: "walsh_53"
     fullname: >-
       Dylan Walsh
     bio: >-
-      New Zealander Professional motocross athlete 2019 British MX2 champion
+      British born , New Zealand raised Professional motocross athlete Reigning British MX2 champion
     location: "Belgium"
-    followers: 24652
-    engagement: 1238
-    commentsToLikes: 0.009888
+    followers: 25103
+    engagement: 1385
+    commentsToLikes: 0.010004
     id: ck14lsx1wwbg10i19p2zuo831
     verified: false
-    hashtags: "#level2, #itsallintheprep, #onlyrevo"
+    hashtags: "#itsallintheprep, #onlyrevo"
+  - username: "philien_verhofstadt"
+    fullname: >-
+      Philien
+    bio: >-
+      • Belgian 🇧🇪 • Model 💋 • Athlete @aestheticwolfofficial • Guitarist 🎸 & Singer 🎤 • Maxime 💕 • UGent 📚
+    location: "Belgium"
+    followers: 6080
+    engagement: 1035
+    commentsToLikes: 0.032319
+    id: ckap0obpzr63f0i784s6w21rr
+    verified: false
+    hashtags: "#blondie, #carmodel, #belgiumsbestmodels, #happy"
+  - username: "ferland_mendy"
+    fullname: >-
+      Ferland Mendy
+    bio: >-
+      Real Madrid player @realmadrid France National Team 🇫🇷 @fff Adidas athlete @adidasfootball
+    location: "Belgium"
+    followers: 1550824
+    engagement: 866
+    commentsToLikes: 0.004496
+    id: ck5zpxa0ztj3m0i14uwcsna4k
+    verified: true
+    hashtags: "#equipedefrance, #halamadrid, #laliga, #fm23"
+  - username: "achabtkd"
+    fullname: >-
+      Jaouad Achab
+    bio: >-
+      Professional Taekwondo athlete 🏆 World champion - World ranked no.1 🥇2x Olympian, 3x euros & universiade champion 🇧🇪 @teambelgium - @adeps_officiel
+    location: "Belgium"
+    followers: 80127
+    engagement: 903
+    commentsToLikes: 0.012858
+    id: ck0w3pyviuoa40i19idyuk60u
+    verified: true
+    hashtags: "#taekwondo, #wilrijk, #trainingcamp, #teamachab"
 ---

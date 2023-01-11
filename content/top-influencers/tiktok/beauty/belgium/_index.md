@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Belgium in 2023
+title: Top 10 Beauty TikTok Influencers In Belgium In 2023
 description: >-
-  Find top beauty TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #foryoupage #funny.
+  Find top beauty TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #pourtoi #beauty #foryou.
 platform: TikTok
 hits: 29
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 29 TikTok influencers like this in Belgium for you to contact.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 29 TikTok influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "fiona_2906"
+  - username: "europain"
+    fullname: >-
+      stellaaa :)
+    bio: >-
+      20 shrek 2 is my favorite indie film she/her
+    location: "Belgium"
+    followers: 5028
+    engagement: 1857
+    commentsToLikes: 0.047792
+    id: ckb9eniqz2h080j234k275a34
+    verified: false
+    hashtags: "#fy, #fyp, #thoughts, #beauty"
+  - username: "fiona_costumes"
     fullname: >-
       Fiona
     bio: >-
-      🌸 Cosplay & costumes 🌸 • Instagram : @Fiona2906
+      🌸 Cosplay & costumes 🌸 • Instagram : @Fiona_costumes 🇧🇪
     location: "Belgium"
     followers: 158500
-    engagement: 1092
-    commentsToLikes: 0.010246
+    engagement: 1389
+    commentsToLikes: 0.018446
     id: ckd6b13eb4lp70j23yn0jkrha
     verified: false
-    hashtags: "#transformation, #sunflower, #historical, #thelittlemermaidcosplay"
-  - username: "alzliz"
+    hashtags: "#fyp, #belle, #thisorthatchallenge, #thisorthat"
+  - username: "laithhafez"
     fullname: >-
-      Liz
+      Laith
     bio: >-
-      🇧🇪 BLACK LIVES MATTER
+      LE MONDE DE LAITH 🤪 IG : laithhafez 📩 laithhafez@gmx.com
     location: "Belgium"
-    followers: 145900
-    engagement: 2297
-    commentsToLikes: 0.009704
-    id: ckbezsv01l5t50j230mnkne3z
+    followers: 230800
+    engagement: 1170
+    commentsToLikes: 0.049461
+    id: ckb9jqcjdb70a0j23qjkhliaj
     verified: false
-    hashtags: "#covid, #lol, #jppdemoi, #lesanges"
-  - username: "tinne.oltmans"
+    hashtags: "#asiatique, #food, #pourtoi, #fyp"
+  - username: "pixgeekette"
     fullname: >-
-      Tinne Oltmans
+      Priscillia B.
     bio: >-
-      Actor & singer VERDRIJF ME, OUT NOW! 💙 ☎ Business: tinne.oltmans@outlook.com
+      Geekette 🎮 - Disney addict 🍭 Humaine de Loki 🐈 et de Brume 🐈‍⬛
     location: "Belgium"
-    followers: 89200
-    engagement: 1827
-    commentsToLikes: 0.015824
-    id: ck921p03jj0o40j7863jp3fbm
+    followers: 23000
+    engagement: 1544
+    commentsToLikes: 0.017582
+    id: ck81s1fuspbgj0j780ntkrhdc
     verified: false
-    hashtags: "#tinneoltmans, #lipsync, #singer, #comedy"
-  - username: "marjo_drien"
+    hashtags: "#catvids, #ouverturedecolis, #jackskellington, #thenightmarebeforechristmas"
+  - username: "x_hake"
     fullname: >-
-      marjo_drien
+      Ximm Vanhaecke
     bio: >-
-      Instagram marjo_drien 💕 #Belgium 🇧🇪
+      Tien duizend volgers zou wel cool zijn hoor ;)
     location: "Belgium"
-    followers: 32400
-    engagement: 1065
-    commentsToLikes: 0.019981
-    id: cka5zmwjhnfko0i78bx8s2xhn
+    followers: 7829
+    engagement: 1020
+    commentsToLikes: 0.028768
+    id: ckbq8ddgdup760j23havg63tc
     verified: false
-    hashtags: "#relaxing, #love, #belgium, #duo"
-  - username: "ayoubbabyy"
+    hashtags: "#grap, #trend, #prankcall, #tiktok"
+  - username: "aurelieorton"
     fullname: >-
-      Ayoub Ben Ammar
+      Jewel horse
     bio: >-
-      modèle et chanteur 📀 30 K ? Insta : ayoubbabyy Snap : ayoubbabyy 👇
+      "live with passion, live with a horse 🐴
     location: "Belgium"
-    followers: 29800
+    followers: 6635
+    engagement: 1644
+    commentsToLikes: 0.029042
+    id: ck9eo5hx8mmmy0j78jd29v3t1
+    verified: false
+    hashtags: "#lgbt, #cheval, #chat, #fyp"
+  - username: "laura.josephine_"
+    fullname: >-
+      Laura.josephine_
+    bio: >-
+      𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 🤙🏻🔝
+    location: "Belgium"
+    followers: 4018
+    engagement: 462
+    commentsToLikes: 0.099017
+    id: ckcjfswekb8sc0j23jc8fq02w
+    verified: false
+    hashtags: "#viral, #fyp, #foryoupage, #foryourpage"
+  - username: "venus_mayamia"
+    fullname: >-
+      Venus Maya
+    bio: >-
+      Youtuber 👻@adelinavev @venusmayastyle 🛍 www.venusmayastyle.co
+    location: "Belgium"
+    followers: 2924
+    engagement: 763
+    commentsToLikes: 0.090879
+    id: ckbw2orzqwtmt0j233i3f8kr8
+    verified: false
+    hashtags: "#makeuptipstiktok, #togo, #belgique, #belgiumgirlzzzz"
+  - username: "aurelaskandaj"
+    fullname: >-
+      Aurela Skandaj
+    bio: >-
+      Insta: @aurelaskandaj Follow me 💞 From 🇦🇱 living in 🇧🇪 https://bit.ly/3mjb
+    location: "Belgium"
+    followers: 567200
     engagement: 1123
-    commentsToLikes: 0.032370
-    id: ckbfedphs8aep0j23njoflng5
-    verified: false
-    hashtags: "#fypp, #storytime, #fyp, #pourtoi"
-  - username: "just.ster"
-    fullname: >-
-      ster
-    bio: >-
-      Ster ☀️ 23 and and a half Started making art during quarantine MY | BE | NL
-    location: "Belgium"
-    followers: 5643
-    engagement: 1021
-    commentsToLikes: 0.031861
-    id: ckba9ugws2kyz0j23y7d74545
-    verified: false
-    hashtags: "#painting, #mysketchbook, #tiktokbelgium, #promlook"
+    commentsToLikes: 0.011073
+    id: cka0ujw96unop0i78rix38c1o
+    verified: true
+    hashtags: "#pourtoi, #fyp, #foryou, #viral"
   - username: "arazytikmua"
     fullname: >-
       Sarah
     bio: >-
       Follow me on Instagram for more content 🤍✨
     location: "Belgium"
-    followers: 36100
-    engagement: 1167
-    commentsToLikes: 0.019972
+    followers: 36200
+    engagement: 1067
+    commentsToLikes: 0.018649
     id: ck87u1dbi4o8e0j789y9ttwwy
     verified: false
-    hashtags: "#foryou, #halloween2020, #makeupartist, #pourtoi"
-  - username: "shaunidl"
-    fullname: >-
-      Shauni DL
-    bio: >-
-      
-    location: "Belgium"
-    followers: 5146
-    engagement: 550
-    commentsToLikes: 0.020464
-    id: ckcotdq1r8c9c0j23goew8xbc
-    verified: false
-    hashtags: "#tiktok, #voorjou, #love, #kidsvoice"
-  - username: "runekestens"
-    fullname: >-
-      Rune Kestens
-    bio: >-
-      Belgium🇧🇪 💜 18 y/o 💜 Business: runekestens@hotmail.com
-    location: "Belgium"
-    followers: 2960
-    engagement: 789
-    commentsToLikes: 0.030743
-    id: ckbf4ftadszuo0j23tnej3o4q
-    verified: false
-    hashtags: "#instagram, #foryoupage, #tiktok, #gossipgirl"
-  - username: "klaasje_meijer_"
-    fullname: >-
-      Klaasje Meijer
-    bio: >-
-      OFFICIËLE TIKTOK 💗 📩 klaasjemeijerofficial@gmail.com 📸 insta: klaasje_meijer
-    location: "Belgium"
-    followers: 125000
-    engagement: 1080
-    commentsToLikes: 0.010289
-    id: ckbqih9sb3pns0j23mvqb8jib
-    verified: false
-    hashtags: "#fyp, #foryoupage, #tiktok, #fy"
+    hashtags: "#makeupartist, #makeuplook, #mua, #foryou"
 ---

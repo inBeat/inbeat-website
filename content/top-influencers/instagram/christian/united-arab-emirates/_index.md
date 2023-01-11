@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Christian Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top christian Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #uae #mydubai #dubailife.
+  Find top christian Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fashion #style.
 platform: Instagram
 hits: 15
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 15 Instagram influencers like this in United Arab Emirates for you to connect with.
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
-  - username: "_mem_6"
+  - username: "samar_tm"
     fullname: >-
-      MENA FALAH
+      Samar Taimour | سمر تيمور
     bio: >-
-      | Babil,iraq🇮🇶 لا تعش حياتك لآرضاء الاخرين sanctify youself🍯🐝
+      مُعدة ومقدمة برامج 🎙📺 بهيئة الشارقة للإذاعة والتلفزيون مدونة في التواصل الاجتماعي إماراتية 🇦🇪 ممنوع دخول الرجال عالخاص ( بلوك )🚫
     location: "United Arab Emirates"
-    followers: 232891
-    engagement: 464
-    commentsToLikes: 0.032618
-    id: ck8t4qipl7pmw0j78ttg01qka
+    followers: 24143
+    engagement: 99
+    commentsToLikes: 0.171466
+    id: ck55nqb4h6qys0i11522e30ju
     verified: false
-    hashtags: "#fashionnova, #hijabstyle, #photooftheday, #photo"
-  - username: "alintzaa"
+    hashtags: "#style, #modern, #explorer, #fashion"
+  - username: "phloem_weddingz"
     fullname: >-
-      Alintzaa
+      Phloem Weddings
     bio: >-
-      💄 makeup and skincare 👗 fashion ✈️ travel Living a bikini kind of life 👙 Follow the link Use ALINTZAA for 15% off
+      Premium Wedding Photography & Cinematography Based in India & Dubai +91 9986462946
     location: "United Arab Emirates"
-    followers: 42624
-    engagement: 354
-    commentsToLikes: 0.110720
-    id: ck5c3fio4z8880i11ivk1g8i1
+    followers: 36972
+    engagement: 265
+    commentsToLikes: 0.004373
+    id: ck600ctmrdd0q0i14ptdlo4gz
     verified: false
-    hashtags: "#modeling, #bikiniseries, #blondegoals, #emirates"
-  - username: "swagge_9_5"
+    hashtags: ""
+  - username: "marloflex"
     fullname: >-
-      OFFICIAL SWAGGE
+      Marlo Flexxx
     bio: >-
-      بو شوق 💕👶🏼💍 - - 🇲🇦🇦🇪 للدعاية و الأعلان ❇️ 971508852708+ - - Unlaced - Air Dior 1 ⬇️⬇️
+      Tournoi Karl Toko Ekambi ⬇️⬇️
     location: "United Arab Emirates"
-    followers: 27944
-    engagement: 575
-    commentsToLikes: 0.282576
-    id: ck5hchdfvi2ua0i11n2xoonfm
+    followers: 5283
+    engagement: 377
+    commentsToLikes: 0.018180
+    id: ck6u3m28jykdw0j7192rovdcw
     verified: false
-    hashtags: "#jordansquad, #nike, #jordans, #low"
+    hashtags: "#jordan1, #nike, #jordan, #style"
+  - username: "al_ahin"
+    fullname: >-
+      YaSiR EdAvaNNappARa
+    bio: >-
+      Traveling tm @yathra_premi UAE 🇦🇪 ASPIRE 2 INSPIRE B4 U EXPIRE,
+    location: "United Arab Emirates"
+    followers: 15676
+    engagement: 865
+    commentsToLikes: 0.229021
+    id: ck15r47yk62d80i192twk4gxn
+    verified: false
+    hashtags: "#red, #keraladiaries, #followforfollowback, #love"
   - username: "fundakocakm"
     fullname: >-
       Funda 🧿
     bio: >-
       With good basics, you’ll have endless options! I love timeless pieces & daily outfits Heidelberg 🇩🇪 • İzmir • Dubai married 💍 📧 funda.kocakm@gmail.com
     location: "United Arab Emirates"
-    followers: 153834
-    engagement: 199
-    commentsToLikes: 0.023292
+    followers: 153371
+    engagement: 201
+    commentsToLikes: 0.022359
     id: ck137xdt3dive0i1975tt628i
     verified: false
-    hashtags: "#ootdinspirations, #autumnstyles, #womenwithstyle, #ootdinspo"
-  - username: "dinamaimouni"
+    hashtags: "#benimtarz, #styledbyme, #streetstyleinspiration, #ootddaily"
+  - username: "_mem_6"
     fullname: >-
-      Dina Maimouni 🕊
+      mena🖤
     bio: >-
-      Lifestyle | Fashion | Beauty Mommy 👦🏻👧🏻⬇️ @little.adamm @baby.kamilaa 📩Dina.maimouni.blog@gmail.com 📍Dubai
+      
     location: "United Arab Emirates"
-    followers: 79967
-    engagement: 275
-    commentsToLikes: 0.054597
-    id: ck5hh0sj15sv70i11y1bg08op
+    followers: 49
+    engagement: 1827899
+    commentsToLikes: 0.024771
+    id: ck8t4qipl7pmw0j78ttg01qka
     verified: false
-    hashtags: "#mydubai, #styleinspiration, #style, #uae"
-  - username: "hm_shifaa"
+    hashtags: "#hijabstreetstyle, #hijabfashionista, #tesett, #hijabstories"
+  - username: "themaryoom"
     fullname: >-
-      shifaahm 🇹🇳🇦🇪
+      Mariam💓مريم
     bio: >-
-      بسم الله ▪️ discount shein : A53‏ تغطيات المطاعم والكافيهات 📥 ▪️ ▪️zomato 6 big foodie ▪️Fashion 👗Beauty💄food 🍤 ▪️ Dolphinuz code 4350
+      🇦🇪🇬🇧 📍Dubai Hotels | Beauty | Lifestyle Order my abayas via dm💓 Masters 👩🏻‍🎓 Collabs :themaryoom@gmail.com 👻Mariamt44 ماشاء الله💕 Protect your peace🕊
     location: "United Arab Emirates"
-    followers: 24158
-    engagement: 168
-    commentsToLikes: 0.192803
-    id: ckap39vll25q50i787sj7v6me
+    followers: 93338
+    engagement: 160
+    commentsToLikes: 0.137061
+    id: ck8t9xvkmpqvf0j7888syfurq
     verified: false
-    hashtags: "#2020kprdubai, #2020kproductroadshowdubai, #koreanproduct, #kbeauty"
-  - username: "mumma_dubai"
+    hashtags: "#ramadan, #themaryoom, #abaya, #bisht"
+  - username: "nabilelh_"
     fullname: >-
-      Kirti Jaisani Bohra
+      Nabil El Hamdaoui
     bio: >-
-      Life is as beautiful as my daughter 👩‍👧 “DCM64” @sprii DM for collab 🇦🇪 🇮🇳 Zomato level 6 💌 jaisanikirti@gmail.com
+      📸 🇳🇱 | Dubai @alphalete Code: NABIL | Lightroom Presets 👇🏽
     location: "United Arab Emirates"
-    followers: 12583
-    engagement: 599
-    commentsToLikes: 0.261707
-    id: ck8tdrjrg4iks0j78kdns0xrm
+    followers: 61127
+    engagement: 590
+    commentsToLikes: 0.013948
+    id: ck0vvqfs5qaug0i19xsfzxtuz
     verified: false
-    hashtags: "#dubaifoodies, #uae, #skincare, #dubaiinfluencer"
-  - username: "the_fatimablejournal"
+    hashtags: "#lutbundle"
+  - username: "katia.mrtn"
     fullname: >-
-      Fatima Abdulla|UAE Influencer
+      Katia Martin
     bio: >-
-      فاطمة عبدالله 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞|𝐁𝐞𝐚𝐮𝐭𝐲|𝐅𝐨𝐨𝐝|𝐌𝐨𝐭𝐡𝐞𝐫 & 𝐌𝐨𝐫𝐞 UAE 🇦🇪 India🇮🇳 #ZomatoTop5Connoisseur #Tripadvisor|#GoogleGuide|#Facebook 📧PR|Collab|Invite
+      Model in Paris and in Dubai ☀️ Management of models Photo event on @katiamrtnevents modelekatia@gmail.com ~ Y 💍 Bruxelles 20-21/05 Amsterdam 22-23/05
     location: "United Arab Emirates"
-    followers: 14302
-    engagement: 715
-    commentsToLikes: 0.169291
-    id: ck6txl5aeyfuo0j717bdcz58o
+    followers: 87614
+    engagement: 125
+    commentsToLikes: 0.038566
+    id: ck55mf6nm3tfd0i11oydhi2ur
     verified: false
-    hashtags: "#haircut, #hairmakeover, #salons, #perfumes"
-  - username: "deemaalasadi"
+    hashtags: "#friends, #fashion, #dubai, #photographer"
+  - username: "ablasofy"
     fullname: >-
-      Deema Al Asadi ديما الأسدي
+      Abla Sofy 🌸
     bio: >-
-      #Fashion #Beauty #Travel #Lifestyle 👻 : deema2210 📍 : Dubai 📧 : Deemakawkar@gmail.com
+      Queen A 💅🏻 Humanitarian 🤍 TV presenter MBC1 LA ✨
     location: "United Arab Emirates"
-    followers: 890345
-    engagement: 99
-    commentsToLikes: 0.033578
-    id: ck6twescdrkh10j71sriw7iz3
+    followers: 934168
+    engagement: 151
+    commentsToLikes: 0.011607
+    id: ck0uc6fxag7x40i19hk7hb2m6
     verified: true
-    hashtags: "#forthosewecherish, #sharethesparkle, #longliveclothes, #myounass"
-  - username: "zhanar_daukeeva"
-    fullname: >-
-      Zhanar Daukeeva
-    bio: >-
-      Founder of @elite_studio Dubai/Almaty If you want to be somebody, somebody really special, be yourself! 👑
-    location: "United Arab Emirates"
-    followers: 43163
-    engagement: 150
-    commentsToLikes: 0.030132
-    id: ckf5lcsfwp3hf0j23cceyzqlm
-    verified: false
-    hashtags: "#dubailifestyle, #mylife, #kazakhstan, #dubai"
+    hashtags: "#2021, #fashion, #2020, #morocco"
 ---

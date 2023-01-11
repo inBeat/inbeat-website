@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Capetown in 2023
+title: Top 10 Fashion Instagram Influencers In Capetown In 2023
 description: >-
-  Find top fashion Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #fashion #photooftheday #summer.
+  Find top fashion Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #fashion #model #southafrica.
 platform: Instagram
-hits: 45
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 45 Instagram influencers like this in Capetown, South Africa for you to work with.
+hits: 28
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 28 Instagram influencers like this in Capetown, South Africa for you to contact.
 profiles:
+  - username: "kunene_ayanda"
+    fullname: >-
+      Ayanda Kunene
+    bio: >-
+      South African 🇿🇦 Twin: @amanda_Kunene 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
+    location: "South Africa"
+    followers: 4206
+    engagement: 738
+    commentsToLikes: 0.064269
+    id: ck138fd3bfyxf0i199d208qt8
+    verified: false
+    hashtags: "#explorepage, #reels, #milkmodelsearch, #editorial"
+  - username: "marcbermanphotography"
+    fullname: >-
+      Marc Berman | Photographer
+    bio: >-
+      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
+    location: "South Africa"
+    followers: 16600
+    engagement: 187
+    commentsToLikes: 0.023634
+    id: ck5cdtxbzjrsk0i114cjcvvst
+    verified: false
+    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
+  - username: "ciara_tay_kruger"
+    fullname: >-
+      Ciara Taylor Kruger💋
+    bio: >-
+      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
+    location: "South Africa"
+    followers: 5624
+    engagement: 1387
+    commentsToLikes: 0.111456
+    id: ckapbizlf021z0i78vsf48vsh
+    verified: false
+    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
+  - username: "garrethbarclayphoto"
+    fullname: >-
+      GARRETH BARCLAY | PHOTOGRAPHER
+    bio: >-
+      DM me for bookings. 📍CAPE TOWN 🇿🇦 Wedding Photography & Videography: @barclaystudios_
+    location: "South Africa"
+    followers: 53541
+    engagement: 149
+    commentsToLikes: 0.034702
+    id: ck0vvz6s4rfa20i193tcpbiln
+    verified: false
+    hashtags: "#pool, #styling, #natashajoubert, #sexy"
   - username: "amber_brits"
     fullname: >-
       A M B E R. BRITS. OFFICIAL 💥
     bio: >-
       Stay Golden ✨ CapeTown South Africa 🇿🇦 ☀️ Freelance Model Content creator Fashion♡Beauty♡Food♡Art♡Design♡Weed ● ○ -Email/dm for rates or collab 🦋
     location: "South Africa"
-    followers: 17269
-    engagement: 335
-    commentsToLikes: 0.061279
+    followers: 18841
+    engagement: 478
+    commentsToLikes: 0.041060
     id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#summer, #photooftheday, #stayhome, #lockdown"
-  - username: "marcbermanphotography"
+    hashtags: "#shop, #fashioninspo, #babe, #cute"
+  - username: "annettaprimadonna"
     fullname: >-
-      Marc Berman | Photographer
+      𝓐𝓷𝓷𝓮𝓽𝓽𝓮 𝓚𝓮𝓶𝓹
     bio: >-
-      #photographer 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
+      Afrikaans 🍻 Wife-to-Be 💍 Old-fashioned Girl 🌼 Actress @ermstars 🇿🇦⁣⁣ Model @bossmodelsa 📸⁣⁣ Writer 🦊 ✨Natural Redhead⁣ ✨Haircare, Fashion, Makeup⁣
     location: "South Africa"
-    followers: 15887
-    engagement: 256
-    commentsToLikes: 0.022283
-    id: ck5cdtxbzjrsk0i114cjcvvst
+    followers: 36862
+    engagement: 424
+    commentsToLikes: 0.030438
+    id: ck15qfb7i2kdy0i196rs1xs3l
     verified: false
-    hashtags: "#canonphotography, #fitgirls, #dailypost, #brazil"
-  - username: "darkprince_david"
+    hashtags: "#leestafford, #redhair, #hairtutorial, #haircare"
+  - username: "daniella_thibault"
     fullname: >-
-      David Bowz
+      Daniella Zainette Thibault
     bio: >-
-      God over everything👑 African giant 🦅 🇳🇬
+      🌹#TheBachelorSA S2 👑@donline.co.za My Business 👑My page is to inspire & entertain
     location: "South Africa"
-    followers: 2156
-    engagement: 2023
-    commentsToLikes: 0.062886
-    id: ckaorxq4lp8oe0i78qob8mdk5
+    followers: 26829
+    engagement: 111
+    commentsToLikes: 0.284741
+    id: ck5zm4eyblvn20i149l5nh9oa
     verified: false
-    hashtags: "#icegenetics, #capetownmodel, #darkskin, #malemodel"
-  - username: "mischkebosse"
+    hashtags: "#beauty, #capetown, #2021, #virgo"
+  - username: "withlovebloomingrose"
     fullname: >-
-      mischke bosse
+      Aminah Gallie
     bio: >-
-      photographer, writer, traveler 📍 cape town
+      MARKETING | CONTENT CREATOR Plants | ParentHood | Doggie Love Cape Town 🔥🔥
     location: "South Africa"
-    followers: 6935
-    engagement: 416
-    commentsToLikes: 0.044600
-    id: ck6u0k4ajg5ra0j713hceiqw2
+    followers: 41869
+    engagement: 53
+    commentsToLikes: 0.495737
+    id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
-    hashtags: "#southafrica, #travelgram, #adventure, #africa"
-  - username: "nontando58"
+    hashtags: "#houseplants, #plantsmakepeoplehappy, #girlswithplants, #capetown"
+  - username: "frema.mensah"
     fullname: >-
-      Nontando [Sunrise] Mposo 🌞
+      🇬🇭Frema Mensah🇬🇭
     bio: >-
-      @glamour_sa Editor-in-chief 📧 nontando@condenast.co.za
+      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
     location: "South Africa"
-    followers: 31512
-    engagement: 87
-    commentsToLikes: 0.078424
-    id: ck600ua0qea650i14uyzpz6bc
+    followers: 7981
+    engagement: 721
+    commentsToLikes: 0.085715
+    id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
-    hashtags: "#runway, #fashion, #fashionweek, #glamour"
-  - username: "yannickbandora"
+    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
+  - username: "mattejacobs"
     fullname: >-
-      Yannick Bandora
+      Matte Jacobs
     bio: >-
-      For bookings: hugo@immbruxelles.com D1 Models London🇬🇧 IMM Brussel🇧🇪 Why not models milan🇮🇹 Boss models Capetown🇿🇦
+      Cape Town @20modelmanagement Johannesburg @syncmodels_ • Make Up⠀ • Fashion ⠀ • Face of @houseoflecap • Creative 🇿🇦 ✊🏽✊🏿✊🏾🏳️‍🌈⠀
     location: "South Africa"
-    followers: 12782
-    engagement: 712
-    commentsToLikes: 0.025488
-    id: ck6u9au89wh1t0j71y1xvfgyb
+    followers: 10035
+    engagement: 724
+    commentsToLikes: 0.122577
+    id: ck5zy5rny9a3r0i14dbfi53e1
     verified: false
-    hashtags: "#zalandoman, #editorial, #blacklivesmatter, #capetown"
-  - username: "kellarr_"
-    fullname: >-
-      KLR
-    bio: >-
-      Stylist | Interior Architect & Designer @kellarrstudio | @kfportfolio ❤ OCRG | 🇬🇧 🇿🇦
-    location: "South Africa"
-    followers: 5736
-    engagement: 1348
-    commentsToLikes: 0.026999
-    id: ck8sxnrjyi0jr0j78brpenh8f
-    verified: false
-    hashtags: "#instatravelling, #postcardsfromtheworld, #picoftheday, #writetotravel"
-  - username: "pashalife7"
-    fullname: >-
-      Pasha Life
-    bio: >-
-      Chris & Kayla Just your ordinary couple👫 Step into our world of life, fashion, travel and love 💙🌍 #wanderlust 📍#southafrica ☀️
-    location: "South Africa"
-    followers: 22094
-    engagement: 1014
-    commentsToLikes: 0.083755
-    id: ck8t241tky2my0j78xi2b0950
-    verified: false
-    hashtags: "#blog, #forever, #greece, #bestfriends"
-  - username: "jessica_vanheerden"
-    fullname: >-
-      Jessica van Heerden
-    bio: >-
-      Award Winning Content Creator 🇿🇦 Beauty, Fashion, Lifestyle & YouTube vheerdenjessica@gmail.com
-    location: "South Africa"
-    followers: 41896
-    engagement: 677
-    commentsToLikes: 0.029140
-    id: ck135ukud3bat0i199i7ol35t
-    verified: false
-    hashtags: "#selfcaresunday, #cottonon, #capetown, #spritzersaturday"
-  - username: "the_girl_in_the_bikini"
-    fullname: >-
-      Katelyn
-    bio: >-
-      🌞FOREVER CHASING SUMMER🌞 •MODEL👱🏼‍♀️ @icemodelsjhb •DESIGNER/OWNER🧵 @missktb_fashion •TRAVELLER 🌍 •MOM OF @gigi_the_toy 🐩
-    location: "South Africa"
-    followers: 27739
-    engagement: 354
-    commentsToLikes: 0.041946
-    id: ck8t6fp6sdg760j78cygld5w6
-    verified: false
-    hashtags: "#fitnessmotivation, #waterfall, #bali, #beachbabe"
+    hashtags: "#nextfacesofponds, #watchmenow, #avon, #ugg"
 ---

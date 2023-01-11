@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In United States in 2023
+title: Top 10 Cosmetics TikTok Influencers In United States In 2023
 description: >-
-  Find top cosmetics TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #duet #lipgloss.
+  Find top cosmetics TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #makeup #smallbusiness.
 platform: TikTok
-hits: 181
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 181 TikTok influencers like this in United States for you to pitch.
+hits: 190
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 190 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "lipfix_cosmetics"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ✊🏻✊🏼✊🏽✊🏾✊🏿 Giveaway at 150k💖 Insta⬆️ YouTube: Lipfix Cosmetics
     location: "United States"
-    followers: 123400
-    engagement: 2121
-    commentsToLikes: 0.028002
+    followers: 118600
+    engagement: 2031
+    commentsToLikes: 0.033189
     id: ck9pm9m3k88ze0j784ceyaswn
     verified: false
-    hashtags: "#fun, #smallbusiness, #lipgloss, #lipfix"
-  - username: "marieclaire.popernik"
+    hashtags: "#fun, #fyp, #lipfix, #smallbusiness"
+  - username: "queermeetsworld"
     fullname: >-
-      Marieclaire Popernik
+      Other Noah
     bio: >-
-      shop the link below! go follow my business page @marieclaire.cosmetics
+      🧿✡️💅 Spam/Political Account All pronouns Random crap main: cosmeticswithnoah
     location: "United States"
-    followers: 88600
-    engagement: 2192
-    commentsToLikes: 0.013943
-    id: ck8z8ny64uwv30j78aal4fkes
+    followers: 17300
+    engagement: 1316
+    commentsToLikes: 0.232368
+    id: ckcur7bdfjle60j2367mlirhx
     verified: false
-    hashtags: "#tiktoktaughtme, #foryoupage, #theoldguard, #fyp"
+    hashtags: "#stitch, #israel, #freepalestine, #jewish"
   - username: "ofracosmetics"
     fullname: >-
       Ofra Cosmetics
     bio: >-
       OFRA Cosmetics 🇺🇸Made in the USA 🐰Cruelty-Free Cosmetics 💗Makeup & Skincare
     location: "United States"
-    followers: 20300
-    engagement: 1563
-    commentsToLikes: 0.076807
+    followers: 21000
+    engagement: 1368
+    commentsToLikes: 0.116997
     id: ck9c4m8lnq4t60j78g00u940a
     verified: false
-    hashtags: "#lipstick, #ghostphotoshoot, #amazonprime, #dayinmylife"
-  - username: "olgaavezbakiev"
+    hashtags: "#duet, #makeuptransition, #makeuptransformation, #outcome"
+  - username: "marieclaire.popernik"
     fullname: >-
-      Olga Avezbakiev
+      Marieclaire Popernik
     bio: >-
-      Thank You all for love and support! Check out my daughter's cosmetic business!
+      shop the link below! go follow my business page @marieclaire.cosmetics
     location: "United States"
-    followers: 2662
-    engagement: 1232
-    commentsToLikes: 0.084778
-    id: ckcdf7ezy6hix0j23fjpaow61
+    followers: 87100
+    engagement: 2132
+    commentsToLikes: 0.013815
+    id: ck8z8ny64uwv30j78aal4fkes
     verified: false
-    hashtags: "#holidayseason, #viral, #lipscrub, #happyhalloween"
-  - username: "waykint"
+    hashtags: "#theoldguard, #fyp, #tiktoktaughtme, #beatsdaisychallenge"
+  - username: "theheauxmentorofficial"
     fullname: >-
-      kayla
+      Lydia Dupra 
     bio: >-
-      24 | OH | waykintcustoms on Etsy | waykint cosmetics on facebook 🥰
+      CEO Heaux Cosmetics Love Potions, Penthouse Life & Lambo content
     location: "United States"
-    followers: 5566
-    engagement: 1170
-    commentsToLikes: 0.053336
-    id: ckc7wx75azvsc0j23igkzuus3
+    followers: 399800
+    engagement: 1199
+    commentsToLikes: 0.019890
+    id: ckbexbn9khg270j238zagxpcu
     verified: false
-    hashtags: "#unitedwedance, #browneyes, #fyp, #hi"
+    hashtags: "#pheromones, #heauxcosmeticsreview, #lambo, #lamborghiniurus"
   - username: "stryx_official"
     fullname: >-
       Stryx
     bio: >-
-      CEO of Handsome Men’s Cosmetics & Skincare USE CODE ‘TIKTOK’ for 15% off! ⬇️ ⬇️
+      Men’s Cosmetics & Skincare Use Code ‘TIKTOK’ for 15% OFF orders $40+
     location: "United States"
-    followers: 41400
-    engagement: 658
-    commentsToLikes: 0.053284
+    followers: 49600
+    engagement: 649
+    commentsToLikes: 0.071135
     id: ck8khqmk3nx490j78dbyiza1t
     verified: false
-    hashtags: "#menwhowearmakeup, #mensskincare, #realmenwearmakeup, #duet"
-  - username: "askdrjason"
+    hashtags: "#stryx, #stitch, #makeup, #shavetok"
+  - username: "gngcosmetics"
     fullname: >-
-      askdrjason
+      Glitz n’ Glamour Cosmetics
     bio: >-
-      Cosmetic/Medical Board Certified Derm Be kind!!! @askdrjason NJ
+      Glamorous cosmetics at your door! 📦💕 Shop Now:
     location: "United States"
-    followers: 72300
-    engagement: 564
-    commentsToLikes: 0.050149
-    id: ckcdtc8c8dtcz0j23cjgc6877
+    followers: 281100
+    engagement: 1586
+    commentsToLikes: 0.029055
+    id: ck8ke5i578t2m0j78z8a3mk3f
     verified: false
-    hashtags: "#skin, #duet, #dermatology, #nyc"
+    hashtags: "#asmrpackaging, #makeup, #smallbusiness, #lipgloss"
   - username: "lagirlcosmetics"
     fullname: >-
       L.A. Girl Cosmetics
     bio: >-
       The Official L.A. Girl Cosmetics Tik Tok💄 Cruelty Free 🐰 www.lagirlusa.com
     location: "United States"
-    followers: 18600
-    engagement: 1218
-    commentsToLikes: 0.111721
+    followers: 34500
+    engagement: 1096
+    commentsToLikes: 0.068123
     id: ck8w5alsr9s8g0j78eg967opq
     verified: false
-    hashtags: "#sfxmakeup, #foryou, #makeup, #makeuphacks"
+    hashtags: "#inlove, #eyeshadow, #lagirlcosmetics, #gamingsetup"
+  - username: "askdrjason"
+    fullname: >-
+      Dr Jason
+    bio: >-
+      Cosmetic/Medical Board Certified Dermatologist All things skin + science NJ
+    location: "United States"
+    followers: 118900
+    engagement: 201
+    commentsToLikes: 0.026543
+    id: ckcdtc8c8dtcz0j23cjgc6877
+    verified: false
+    hashtags: "#askdrjason, #duet, #dermatology, #satisfying"
   - username: "drbrianccd"
     fullname: >-
       Brian Beard
     bio: >-
       Cosmetic Dentist in Cleveland,TN that loves show dogs, hip hop, and fun at work
     location: "United States"
-    followers: 99500
-    engagement: 986
-    commentsToLikes: 0.036889
+    followers: 98900
+    engagement: 960
+    commentsToLikes: 0.033959
     id: ckbblnn7c9x3d0j23ah0fi2z0
     verified: false
-    hashtags: "#fyp, #surfing, #dancingdentist, #centerforcosmeticdentistry"
-  - username: "maccosmetics"
-    fullname: >-
-      maccosmetics
-    bio: >-
-      The Official MAC Cosmetics TikTok Account All Ages, All Races, All Genders
-    location: "United States"
-    followers: 51900
-    engagement: 1282
-    commentsToLikes: 0.021620
-    id: ck8ae9y8zb5mv0j78sr6v1xdo
-    verified: true
-    hashtags: "#macvivaglam, #macfrostedfirework, #halloweenlook, #machalloween"
+    hashtags: "#dancingdentist, #centerforcosmeticdentistry, #surfing, #fyp"
 ---

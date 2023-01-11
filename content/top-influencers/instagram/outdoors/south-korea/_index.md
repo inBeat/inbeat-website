@@ -1,130 +1,130 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In South Korea in 2023
+title: Top 10 Outdoors Instagram Influencers In South Korea In 2023
 description: >-
-  Find top outdoors Instagram influencers in South Korea in 2023. Most popular hashtags: #korea #camping #nature #outdoor.
+  Find top outdoors Instagram influencers in South Korea in 2023. Most popular hashtags: #outdoorsis #outdoor #leki #outdoorlife.
 platform: Instagram
-hits: 24
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 24 Instagram influencers like this in South Korea for you to work with.
+hits: 27
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 27 Instagram influencers like this in South Korea for you to connect with.
 profiles:
-  - username: "leessssseul"
+  - username: "seulowlee"
     fullname: >-
       Seulgi Lee
     bio: >-
-      ✍🏻 따뜻한 순간들과 온전한 쉼의 기록 🌿 mountfulness in nature 📺 Youtube : 아웃씨 Outdoorsis ⛰
+      아웃씨 🌿 mountfulness
     location: "South Korea"
-    followers: 15555
-    engagement: 752
-    commentsToLikes: 0.042721
+    followers: 16262
+    engagement: 892
+    commentsToLikes: 0.035149
     id: ck5zybynu9lsh0i14774sssfz
     verified: false
-    hashtags: "#leki, #outdoorsis, #outdoorlife, #outdoorsisters"
-  - username: "chloe19890309"
-    fullname: >-
-      Chloe
-    bio: >-
-      Seoul🇰🇷 ❄️🏂 🚴🏽‍♀️ 🎒 🏕 산행 정보는 정상석 사진 피드 참고해주세요 🥰 네이버 블로그 & 유튜브 #클로이다이어리 📷 @chloe__photo__
-    location: "South Korea"
-    followers: 7727
-    engagement: 985
-    commentsToLikes: 0.014851
-    id: ck5zybll79l350i149867uw00
-    verified: false
-    hashtags: "#trekking, #korea, #outdoors, #bac"
+    hashtags: "#outdoorlife, #leki, #outdoorsis, #outdoorresearch"
   - username: "outdoor_young"
     fullname: >-
       gayoung | 아웃씨 /산에서 힐링
     bio: >-
-      mountains × photography × travel fall in love with mountain💕 너도 타보면 알게될거야🤘 KASK&KOO Ambassador
+      mountains × photography × travel fall in love with mountain💕 너도 타보면 알게될거야🤘 RE:FIND CUBE Ambassador KASK&KOO Ambassador
     location: "South Korea"
-    followers: 16551
-    engagement: 1132
-    commentsToLikes: 0.022397
+    followers: 17097
+    engagement: 1253
+    commentsToLikes: 0.024992
     id: ck5zybzkj9ltq0i14103mrxd8
     verified: false
-    hashtags: "#outdoorsis, #outsis, #outdoorsisters, #hiking"
+    hashtags: "#koo, #hiking, #outdoorsis, #zv1white"
   - username: "gold.shin"
     fullname: >-
       Gold.Shin
     bio: >-
       #러프네이쳐. #와일드캠핑. #밴라이프. #신혼일기.
     location: "South Korea"
-    followers: 7795
-    engagement: 770
-    commentsToLikes: 0.020544
+    followers: 8900
+    engagement: 926
+    commentsToLikes: 0.016813
     id: ck5hnslsyobkr0i11wuj744ct
     verified: false
-    hashtags: "#outdoor, #vancamping, #bushcraft, #bornfire"
-  - username: "sofjin_"
+    hashtags: "#bornfire, #outdoor, #goout, #vancamping"
+  - username: "samaralee_etcetc"
     fullname: >-
-      Sofia Jin
+      Samara Lee - Official Account
     bio: >-
-      Entertainer, adventurer & creator. In love with the 🌍 & presenting it! @thenorthfaceuk Explorer, @ospreyeurope athlete 🎬hcarlile@unitedagents.co.uk.
+      Actor/SAG/Model/♓️/Korean Food Lover/ 🎥 Annabelle Creation/Comes Home/Concussion/Indivisible/Last Witch Hunter & more (Acc Managed By Mom)
     location: "South Korea"
-    followers: 97422
-    engagement: 360
-    commentsToLikes: 0.012775
-    id: ck13cfi9r030u0i19x95av55i
+    followers: 15954
+    engagement: 807
+    commentsToLikes: 0.032962
+    id: ck0w2zuawqxgz0i19p98osggl
     verified: false
-    hashtags: "#outdoors, #neverstopexploring, #funny, #rickandmortysunscreaming"
-  - username: "noealz"
+    hashtags: "#yummy, #melaniemartinez, #samaralee, #nightime"
+  - username: "rider_joohyun"
     fullname: >-
-      Anime / Manga / Art
+      업힐마녀(주현)💕
     bio: >-
-      📷 Noe Alonzo - 노위 🇰🇷 Seoul, South Korea 🌇 Anime, Lofi, Vaporwave 🌃 Pro account @noealzii - 📌 Click the link / Tutorials / Wallpapers / Prints
+      Amateur Cyclist (for 7 years)🚴🏻‍♀️ - 2018 화악산힐크라임대회 3위🥉 - 2016/2018 백두대간그란폰도 6위/9위 - 현) smithkorea ambassador
     location: "South Korea"
-    followers: 9795
-    engagement: 1032
-    commentsToLikes: 0.011913
-    id: ck0u6752912k20i193dvgx1me
+    followers: 16677
+    engagement: 524
+    commentsToLikes: 0.040836
+    id: ck9wexvszmcbr0j78kawcsrbf
     verified: false
-    hashtags: "#cloudchaser, #asia, #callforart, #cartoonist"
-  - username: "bingleytheboston"
+    hashtags: "#roadbike, #cyclingstyle, #cyclingapparel, #cyclingtrip"
+  - username: "shinmincheol"
     fullname: >-
-      Bingley
+      미르메 신민철
     bio: >-
-      I'm Bingley, a Boston Terrier from Seoul, 🇰🇷South Korea. I hurt my eye when on the streets, but I'm a happy and friendly guy despite everything! In 🇨🇦
+      🥋 Shin MinCheol | 05.Sep.1986 미르메 | @mirme_taekwondo Master 레드불 | @redbull Athlete 아드레날린 | @adrenalineworldwide Athlete 무토 | @mooto_global Sponsorship
     location: "South Korea"
-    followers: 8767
-    engagement: 449
-    commentsToLikes: 0.020598
-    id: ck15thj8zi3uo0i19w6m9novq
-    verified: false
-    hashtags: "#doggy, #instagood, #bostonterriergang, #autumn"
-  - username: "peach2gold"
+    followers: 209355
+    engagement: 366
+    commentsToLikes: 0.009824
+    id: ck0udewzvj1d10i191bzzoqxx
+    verified: true
+    hashtags: "#mirme, #kick, #redbull, #btwist"
+  - username: "lovelyn210"
     fullname: >-
-      이장군
+      남궁하린💞 운동하는스포츠아나운서
     bio: >-
-      Outdoor life with dogs in Korea 📚#유럽우리함께오길잘했다 이장군 걷고 이수경 씀 #장군이의미국여행 #장군이의유럽여행 👧 96.06 장군이누나 🐶 12.01 이장군 🐰 20.01 여동생 이연두 💜장군이의 지구여행 유튜브💜
+      🇰🇷아나운서/ 배우/ 러너🏃‍♀️/ 모델 Sports reporter/ Runner/Model/Actor My YouTube Cafe ASMR👇 새영상
     location: "South Korea"
-    followers: 28464
-    engagement: 1105
-    commentsToLikes: 0.016107
-    id: ckap7osmokws00i78vtitz19e
+    followers: 12388
+    engagement: 721
+    commentsToLikes: 0.052708
+    id: ck5hntkhnod7v0i11vvfxkcyr
     verified: false
-    hashtags: "#24, #sup, #10km"
-  - username: "itsme_youngran"
+    hashtags: "#runstagram, #trailrunning, #runninggirl, #snow"
+  - username: "adventuresof_solynoah"
     fullname: >-
-      YoungRan Kim
+      Sol y Noah
     bio: >-
-      ⛰도 타고, 🚴‍♀️도 타요 - 🙋🏻‍♀️ #임상영양사 👉 @rd_youngran 📺YOU Tube [란대장] 청량산! 가을산행으로 꼭 가보세요! 강추강추!
+      Adventure seeking, outdoor exploring, nature loving siblings. Currently exploring South Korea. Sibling OOTD~Reels SOL & NOAH are 🇰🇷 🇺🇸 🇬🇹
     location: "South Korea"
-    followers: 6593
-    engagement: 1000
-    commentsToLikes: 0.032878
-    id: ck9wfn6duplby0j78qs9ppnmo
+    followers: 7984
+    engagement: 685
+    commentsToLikes: 0.137320
+    id: ck6u6ehumf4u10j71c8olyd7v
     verified: false
-    hashtags: "#lovecycling, #cycletouring, #outdoor, #mountainlife"
-  - username: "lamacamper"
+    hashtags: "#momentsinmotherhood, #capturingmoments, #mihija, #misolecito"
+  - username: "i_m_fe"
     fullname: >-
-      라마, 일상을 여행처럼
+      :"(
     bio: >-
-      #TEAMWCAM #캠핑
+      DM & AD
     location: "South Korea"
-    followers: 6460
-    engagement: 1138
-    commentsToLikes: 0.027029
-    id: ck9wfd0hhobir0j78maopl5xt
+    followers: 81699
+    engagement: 357
+    commentsToLikes: 0.047830
+    id: ck14ki1d6plhh0i196m1fhn8s
     verified: false
-    hashtags: "#wildcamp, #campinggear, #sunset, #camp"
+    hashtags: "#tempusstudio, #211, #tempus, #tonywack"
+  - username: "swk8910"
+    fullname: >-
+      Sarah🌹
+    bio: >-
+      🇰🇷 Korean adoptee 💙 🏳️‍🌈 Queer & proud 🔆 📍Published model ❌ 🌏 6/7 continents traveled ✈️ 💃🏻 Argentine Tango dancer 🌹 📚 B.A., Psychology 📖
+    location: "South Korea"
+    followers: 2962
+    engagement: 976
+    commentsToLikes: 0.296777
+    id: ck15qv3gf4sco0i19s8hacxqy
+    verified: false
+    hashtags: "#portraitphotography, #pschallenge, #bravopost, #creativision"
 ---

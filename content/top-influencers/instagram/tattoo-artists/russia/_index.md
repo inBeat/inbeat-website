@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Russia in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Russia In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Russia in 2023. Most popular hashtags: #tattoo #portrait #realistictattoo.
+  Find top tattoo-artists Instagram influencers in Russia in 2023. Most popular hashtags: #tattoo #moscow #tattoomoscow.
 platform: Instagram
-hits: 155
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 155 Instagram influencers like this in Russia for you to contact.
+hits: 142
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 142 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "cubatattoo"
+  - username: "she_is"
     fullname: >-
-      Karina Cuba
+      Kristina Darmaeva
     bio: >-
-      Тату-мастер, Омск-Москва/ tattoo artist, RUS Основатель студии «Куба» Про бизнес и подход к делу ➡️ @karinacuba2.0 Консультации и запись / booking ⬇️
+      Tattoo artist from St.-Petersburg, Russia 🇩🇪Dresden 13-26 of September🇩🇪Darmaeva.k@gmail.com
     location: "Russia"
-    followers: 76662
-    engagement: 150
-    commentsToLikes: 0.047107
-    id: ck5hng2ganq0w0i11wtanhd6v
+    followers: 84049
+    engagement: 731
+    commentsToLikes: 0.011318
+    id: ck9wepmzzlcbz0j78eofr9gcz
     verified: false
-    hashtags: ""
-  - username: "mvtattoo"
+    hashtags: "#tattoo, #blacktattooart, #kwadron, #kwadronproteam"
+  - username: "holt_unicorn"
     fullname: >-
-      Vitaly Morozov
+      Kate Holt
     bio: >-
-      📍Tattoo artist from Moscow ⠀ 📩tattoomv@gmail.com ⠀ ➡️https://www.facebook.com/mvtatts ⠀ ➡️https://vk.com/mvtattoo
+      Tattoo artist, Moscow🦄 My pet: @pyatka_the_skunk🐾
     location: "Russia"
-    followers: 186788
-    engagement: 456
-    commentsToLikes: 0.009487
-    id: ck8t2hgazzikq0j78n4g9pa1v
+    followers: 37317
+    engagement: 398
+    commentsToLikes: 0.009034
+    id: ckap8o39jp78r0i78pu8xrqxd
     verified: false
-    hashtags: "#tattooart, #wolf, #blackandgray, #artist"
-  - username: "katrinlove27"
+    hashtags: "#moscow, #cartoontattoo, #animetattoo, #cutetattoo"
+  - username: "pmtattooing"
     fullname: >-
-      🔮Katrin Tattoo🔮
+      Polina Matveeva•Tattoo
     bio: >-
-      I’m Tattoo Artist Мой дневник жизни Отдыхай и смотри TATTOO 👉🏼 @piersibtattoo @piercing_ru 🌙 #татуоткатрин
+      •Tattoo artist🌱based in Saint-Petersburg 💌pmtattooing@gmail.com •Записаться на сеанс тату в октябре можно заполнив форму на сайте ↓
     location: "Russia"
-    followers: 73038
-    engagement: 103
-    commentsToLikes: 0.028937
-    id: ck5buo2ezi4g00i11y18pdaql
+    followers: 42681
+    engagement: 410
+    commentsToLikes: 0.005738
+    id: ck9wejbx3kiu70j789315rmwl
     verified: false
-    hashtags: "#tattoonsk, #tattoonovosibirsk, #piersib, #piersibtattoo"
+    hashtags: "#harrypotter, #potion, #flowertattoo, #tattoo"
   - username: "broock.schaft"
     fullname: >-
       Polina Svetlova
     bio: >-
       MODEL| BLOGGER| TATTOO ARTIST ⠀ ▪️О моделинге #schaft_model ▪️О красоте #schaft_beauty ▪️О жизни #schaft_life ⠀ TATTOO WORKS @schaft.tattoo ⠀ VK
     location: "Russia"
-    followers: 46483
-    engagement: 67
-    commentsToLikes: 0.028649
+    followers: 46339
+    engagement: 171
+    commentsToLikes: 0.016667
     id: ck6u60swacw0e0j71pg8rbae7
     verified: false
     hashtags: "#schaft, #backstage"
-  - username: "andrey_kolbasin"
+  - username: "cubatattoo"
     fullname: >-
-      Andrey  Kolbasin
+      Karina Cuba
     bio: >-
-      Tattoo artist Tattoo teacher Art and painting 📍Russia, St-Petersburg;Moscow ✈️Austria, Germany, Switzerland
+      Тату-мастер, Омск-Москва / tattoo artist, RUS Основатель студии «Куба» Про бизнес и подход к делу ➡️ @karinacuba2.0 Консультации и запись / booking ⬇️
     location: "Russia"
-    followers: 66109
-    engagement: 108
-    commentsToLikes: 0.019597
-    id: ck6ude60mkku50j71klzbd715
+    followers: 76210
+    engagement: 93
+    commentsToLikes: 0.019693
+    id: ck5hng2ganq0w0i11wtanhd6v
     verified: false
-    hashtags: "#foresttattoo, #tattoo, #realistictattoo, #tattoospb"
-  - username: "horror_tattoo"
+    hashtags: "#tattooistartmag"
+  - username: "evgenymel"
     fullname: >-
-      🗡Horror tattoo🗡
+      Евгений Мэл
     bio: >-
-      •Tattoo artist • For cooperation fedorhorror94@gmail.com
+      Tattoo Artist My studio: @visota_tattoo 🖤 Moscow, Russia Excalibur pro team Записаться на сеанс можно через вк
     location: "Russia"
-    followers: 29200
-    engagement: 190
-    commentsToLikes: 0.016648
-    id: ck5bub9f4hh850i11l8fezm3z
+    followers: 41723
+    engagement: 219
+    commentsToLikes: 0.012580
+    id: ck0u12zjyvmco0i19qudid8q7
     verified: false
-    hashtags: "#tattoo, #memetattoo, #poledancer, #nofilter"
-  - username: "coldsemenova"
+    hashtags: "#dotworktattoo, #tattoovideo, #evgenymel, #galaxy"
+  - username: "deni_aktemirov"
     fullname: >-
-      TATTOO ARTIST
+      Deni
     bio: >-
-      Ekaterina @cold_tattoo_artist @cold_tattoo_artist @cold_tattoo_artist @cold_tattoo_artist ⠀ CUSTOM @friendly_violence
+      Freehand tattoo artist. St.Petersburg, Russia. deni9333(at)gmail.com vk.com/deni_aktemirov Private page:
     location: "Russia"
-    followers: 22238
-    engagement: 763
-    commentsToLikes: 0.027251
-    id: ckap0cfphpqfx0i78825vpu04
+    followers: 29788
+    engagement: 292
+    commentsToLikes: 0.010913
+    id: ck5zqib7iunh40i148z1vecua
     verified: false
-    hashtags: "#inktober2020, #inktoberteeth"
+    hashtags: "#dotwork, #dotworktattoo, #blackwork, #blackworktattoo"
+  - username: "lenakshishtan"
+    fullname: >-
+      kshishtovskaya.
+    bio: >-
+      Ink ninja, tattoo-artist, cat lover. @kshishtan @lenatheartdestroyer
+    location: "Russia"
+    followers: 8894
+    engagement: 648
+    commentsToLikes: 0.014075
+    id: ckap6duv7fh930i78a98k05cd
+    verified: false
+    hashtags: ""
   - username: "swallow_tattoo"
     fullname: >-
-      #Гошанмосковский
+      #Гошанмосковский
     bio: >-
       Russian Tattoo artist Inkin 2009+ 💵🇷🇺💵🇷🇺💵🇷🇺 Остальные работы в отмеченных Безопасно,качественно и действительно не дорого с 2009г
     location: "Russia"
-    followers: 27627
-    engagement: 406
-    commentsToLikes: 0.041422
+    followers: 27275
+    engagement: 418
+    commentsToLikes: 0.041113
     id: ck8sz476gn3ne0j78byozafwa
     verified: false
-    hashtags: "#tattoo, #realismtattoo, #portrait, #realism"
-  - username: "catherine_harmony"
+    hashtags: "#realismtattoo, #portrait, #tattoo, #realistictattoo"
+  - username: "katrinlove27"
     fullname: >-
-      Тату. Эстетика.Минимализм
+      🔮Katrin Tattoo🔮
     bio: >-
-      Co owner & tattoo artist @sashatattooingstudios St.Petersburg/Moscow 📮catherinetattooart@gmail.com
+      I’m Tattoo Artist Мой дневник жизни Отдыхай и смотри TATTOO 👉🏼 @piersibtattoo @piercing_ru 🌙 #татуоткатрин
     location: "Russia"
-    followers: 32160
-    engagement: 150
-    commentsToLikes: 0.010209
-    id: ck0twczm6ey4k0i19eqlqo4ag
+    followers: 70091
+    engagement: 103
+    commentsToLikes: 0.014991
+    id: ck5buo2ezi4g00i11y18pdaql
     verified: false
-    hashtags: ""
-  - username: "stepanovtattoo"
-    fullname: >-
-      Andrei Stepanov
-    bio: >-
-      Tattoo artist from Samara, Russia Sponsored by: 🔥 @fkirons
-    location: "Russia"
-    followers: 108063
-    engagement: 371
-    commentsToLikes: 0.014252
-    id: ckaoy0plyfkp60i78z47hd80v
-    verified: false
-    hashtags: "#tattoo, #follow, #tattooart, #fkironsproteam"
+    hashtags: "#tattoonsk, #tattoonovosibirsk, #piersib, #piersibtattoo"
 ---

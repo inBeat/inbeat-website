@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Izmir in 2023
+title: Top 10 Food Instagram Influencers In Izmir In 2023
 description: >-
-  Find top food Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #food #istanbul #instagood.
+  Find top food Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #food #istanbul #ankara.
 platform: Instagram
-hits: 152
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat has 152 Instagram influencers like this in Izmir, Turkey for you to collaborate.
+hits: 120
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 120 Instagram influencers like this in Izmir, Turkey for you to connect with.
 profiles:
-  - username: "muhendisbirkadin"
+  - username: "ecemkatiboglu"
     fullname: >-
-      Ayça Aydın 🧿
+      Ecem Dirilen Katiboğlu
     bio: >-
-      📌Lifestyle | Food | Travel | Beauty 👷🏻‍♀️İnşaat Mühendisi 👩🏻‍💻 Inf.Mark. & Event Hosting 📍İzmir Pr&Mekan Tanıtımları: Mail/Dm
+      Mila ❤️ Mahmut ❤️ 👩🏻‍🎓Industrial Engineering
     location: "Turkey"
-    followers: 78560
-    engagement: 269
-    commentsToLikes: 0.217945
-    id: ck8t3fiwe32ch0j786o58wssv
+    followers: 12237
+    engagement: 316
+    commentsToLikes: 0.101131
+    id: ckaos81xfqiut0i78gmewxv5j
     verified: false
-    hashtags: "#bucayikesfet, #izmirblogger, #kahvalt, #izmirdeyasam"
-  - username: "oglakkiziofficial"
+    hashtags: "#likeforfollow, #sun, #happy, #mom"
+  - username: "izmirkesifnotlari"
     fullname: >-
-      izmir
+      Şebnem🌸
     bio: >-
-      @izmirsocialhelper @bugunizmirdeneyesek 📬Tanıtım/Çekiliş:DM&Mail KAPADOKYA TATİLİMİZ YAYINDA.👇🏻 Abone olmayı unutmayın.❤
+      ✨Geziyor, tadıyor, yiyor, içiyor ve öneriyor. ✨Mekan, yemek, lezzet ve gezi önerileri ✨Tanıtım için; DM & mail✉️ 🎓Astronom 📍İzmir
     location: "Turkey"
-    followers: 36010
-    engagement: 340
-    commentsToLikes: 0.019028
-    id: ck8t9357amsqf0j781t2ajfbr
+    followers: 13026
+    engagement: 418
+    commentsToLikes: 0.103105
+    id: ck14i29lpda3w0i19bizy7jye
     verified: false
-    hashtags: "#bostanl, #c4c, #comment4comment, #followback"
-  - username: "xphalitxp"
+    hashtags: "#alsancak, #foodporn, #breakfast, #kemeralt"
+  - username: "1dunyalideri"
     fullname: >-
-      Temizkan_halidd
+      Mustafa Kemal Atatürk
     bio: >-
-      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥İŞ BİRLİĞİ İÇİN DM ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
+      💥 Atatürk sevgimizi daha büyük kitlelere hep birlikte ulaştıralım!👍🏻 👉🏻 En Büyük #Atatürk Hayran Sayfası.
     location: "Turkey"
-    followers: 10140
-    engagement: 406
-    commentsToLikes: 0.098382
-    id: ckapb2imgybv80i789vnokj18
+    followers: 145789
+    engagement: 364
+    commentsToLikes: 0.016424
+    id: ckaou51q2ytvp0i78ruxtgqji
     verified: false
-    hashtags: "#dog, #kids, #instalike, #bestoftheday"
-  - username: "antalyagurmesimurat"
+    hashtags: "#beyaz, #polis, #kemalist, #foto"
+  - username: "lokumatolyesi"
     fullname: >-
-      Antalya Gurmesi Murat Atay
+      Lokum Atölyesi
     bio: >-
-      🇹🇷 ANTALYA Sevdam ➡️ Gurme; Lezzeti keşfetmiş, damak tadına sahip kişi demek. (Bir okulu yoktur) 🎥 Youtuber 👇Abone Ol👇 📲 İletişim için - Mail Lütfen
+      Afyon Lokum Atölyesi Tek Resmi Hesabıdır. Lokum, Pişmaniye ve Şekerleme İmalat ve Perakende Satış ONLİNE SİPARİŞ İÇİN TIKLAYINIZ⬇️
     location: "Turkey"
-    followers: 222118
-    engagement: 72
-    commentsToLikes: 0.020505
-    id: ck0uettwjm9n20i19h4a6dn0j
+    followers: 11828
+    engagement: 1546
+    commentsToLikes: 0.588268
+    id: ckaosihc1rn1b0i787h1qhe21
     verified: false
-    hashtags: "#sunum, #dessert, #istanbul, #muratatay"
-  - username: "narmina_princessa"
+    hashtags: "#find, #delicious, #coffie, #lokum"
+  - username: "omurlu_hayattt"
     fullname: >-
-      Princess Life Style  👑
+      Betül♡ Recep♡ Ömür♡
     bio: >-
-      Marriage 21.03.2020 🇦🇿❤️🇮🇹
+      🌸Evli💍 🌸Sunumlarım, tariflerim, evim 🏡 🌸Gurbet kuşu 🕊 🌸İstanbul'dan 👉 Adana Aladağ'a 🌸Ömür👧🏼 & Metehan🤰👦
     location: "Turkey"
-    followers: 63268
-    engagement: 81
-    commentsToLikes: 0.020189
-    id: ck0w79n4jcga10i19soj4n83g
+    followers: 7906
+    engagement: 428
+    commentsToLikes: 0.145624
+    id: ckf5x96neuuvz0j23xwo3xnn0
     verified: false
-    hashtags: "#azstagram, #love, #vacation, #instaaz"
+    hashtags: "#food, #instagram, #izmir, #lezzet"
   - username: "ezgiparinn"
     fullname: >-
       Ezgi Parın
     bio: >-
       Food Engineer • MSc • İzmir
     location: "Turkey"
-    followers: 6911
-    engagement: 1036
-    commentsToLikes: 0.022552
+    followers: 10187
+    engagement: 508
+    commentsToLikes: 0.013223
     id: ck9web9r8jijn0j78s3nrzwi3
     verified: false
-    hashtags: "#beachparty, #ootdfashion, #mango, #beachlife"
-  - username: "anilarinmutfagi"
+    hashtags: "#vacationmode, #ootd, #ootdstyle, #ootdfashion"
+  - username: "kaburgaci_cahit"
     fullname: >-
-      anıların mutfağında
+      kaburgacı cahit®
     bio: >-
-      İstanbul - İzmir ⭐Yemek Yazarı ⭐Mekan Yazarı ⭐Mekan ve ürün tanıtımları için iletişim 📩 DM
+      center of the meat 👑 05357604135 taste kingdom👉kaburga👉hipnoz👉kaburgakiymasi👉kazbasi👉kuzuciger 🏠 ValilikKarşısıMigrosVeZübeydeHnmAnaokulyani ADANA
     location: "Turkey"
-    followers: 28472
-    engagement: 376
-    commentsToLikes: 0.078271
-    id: ck133vjhfua3p0i19x2bjs5tv
+    followers: 30066
+    engagement: 143
+    commentsToLikes: 0.012732
+    id: ckaorj26jngbk0i78epi4tuq4
     verified: false
-    hashtags: "#tariflerim, #food, #mukemmellezzetler, #instafood"
-  - username: "yunusemreakkor"
+    hashtags: ""
+  - username: "turkmenkizigurgengelini"
     fullname: >-
-      Sertabbah
+      
     bio: >-
-      Ayla’nın babası 💕 TRT 2 ‘de belgeselci,Skylife yazarı,Kültür araştırmacısı, World cookbook awards 2020’de dünyanın en iyisi ödüllü, Zanaatkar aşçıbaşı
+      🌹Bismillâhirrahmânirrahîm 🌹 🍒sunumsever🍒 🌯🌶#01adanalıyıkgardaş🌯🌶 👉İnanmak başarmanın yarısıdır👈
     location: "Turkey"
-    followers: 169582
-    engagement: 281
-    commentsToLikes: 0.026794
-    id: ck5zo3lkvpov80i1467ijxhnx
-    verified: true
-    hashtags: "#instafood, #nature, #photography, #sultanahmet"
-  - username: "evkeyfim"
-    fullname: >-
-      𝓔 𝓿 𝓴 𝓮 𝔂 𝓯 𝓲 𝓶
-    bio: >-
-      🟪Gerçek hayattaki samimiyetsizliklerden bıkıp sanalı tercih eden biri - 🅸🆉🅼🅸🆁 🟪Ek gelir isteyenler için 👉@asli.fit.life 🟪Tanıtım ve işbirliği için 👉DM
-    location: "Turkey"
-    followers: 36402
-    engagement: 437
-    commentsToLikes: 0.171662
-    id: ck0u0lb79u7uv0i19oheehp3b
+    followers: 87643
+    engagement: 105
+    commentsToLikes: 0.016523
+    id: ckap3w6384r6p0i78eft8vr2c
     verified: false
-    hashtags: "#kahvekeyfi, #manzara, #iftarmen, #hay"
-  - username: "yemekle_bitmez"
+    hashtags: "#kahve, #instagood, #turkey, #ke"
+  - username: "cagdas62dersim"
     fullname: >-
-      Okullu Değil, Alaylı 🔪
+      
     bio: >-
-      Mehmet Ay @moslifeiletisim reklam ve sosyal medya ajansı Kendi çapında usta Sosyete tabirle chef 😉 Güzel izmirli Gurme degil İyi bir gastronomici
+      only Allah can judge me!!!⚡️ nothing is impossible...!!!⚡️ ❤️🔒🙏🏼
     location: "Turkey"
-    followers: 180771
-    engagement: 98
-    commentsToLikes: 0.023298
-    id: ck1393uxrjdt90i19zax0qkrs
+    followers: 340588
+    engagement: 15
+    commentsToLikes: 0.003918
+    id: ck0w02ippc2cd0i19k2036a9u
     verified: false
-    hashtags: "#food, #foods, #foodporn, #foodie"
+    hashtags: "#breakfast, #food, #delicious, #ankara"
+  - username: "filizaydinc"
+    fullname: >-
+      Filiz Aydinc
+    bio: >-
+      🧿
+    location: "Turkey"
+    followers: 136358
+    engagement: 147
+    commentsToLikes: 0.036804
+    id: ck8tcx2q310ih0j78uv4lrp1k
+    verified: false
+    hashtags: "#green, #kiss, #makeup, #goodvibes"
 ---

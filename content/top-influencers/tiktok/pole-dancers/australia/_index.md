@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In Australia in 2023
+title: Top 10 Pole Dancers TikTok Influencers In Australia In 2023
 description: >-
-  Find top pole dancers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #poledancing #polefitness #dancer.
+  Find top pole dancers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #polefitness #poledancing #fitness.
 platform: TikTok
-hits: 9
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 9 TikTok influencers like this in Australia for you to collaborate.
+hits: 10
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 10 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "angelique_ent"
     fullname: >-
@@ -13,106 +13,118 @@ profiles:
     bio: >-
       Pole Dancer 🤸‍♀️ Aussie 🇦🇺 Instagram @Angelique_entertainment
     location: "Australia"
-    followers: 23500
-    engagement: 867
-    commentsToLikes: 0.031721
+    followers: 32000
+    engagement: 1003
+    commentsToLikes: 0.040899
     id: ckcjlndghejd60j23rfuc5luj
     verified: false
-    hashtags: "#heels, #polefitness, #bodypositivity, #photography"
+    hashtags: "#poletricks, #strength, #bodyawareness, #fitness"
   - username: "cherri_polecat"
     fullname: >-
       cherri_polecat
     bio: >-
-      GC, Australia 🇦🇺 Pole dancer 💃🏻 Here to have a good time 👌
+      GC, Australia 🇦🇺 Pole dancer 💃🏻 OF: @cherri.k 🙈
     location: "Australia"
-    followers: 15400
-    engagement: 659
-    commentsToLikes: 0.023377
+    followers: 21500
+    engagement: 578
+    commentsToLikes: 0.040595
     id: ckb0s3boshlvp0j238vvpi1m4
     verified: false
-    hashtags: "#dancer, #throwback, #fitness, #fyp"
+    hashtags: "#bodypositivity, #flexibility, #selflove, #fyp"
   - username: "ria.sangria"
     fullname: >-
       Ria Sangria
     bio: >-
-      IG : Ria.sangria | Currenty shadow-banned here | Find me on IG Bye Tiktok 👋🏼
+      IG : Ria.sangria Floating here sometimes. Find me on IG most days 🙂
     location: "Australia"
-    followers: 14300
-    engagement: 1086
-    commentsToLikes: 0.055059
+    followers: 18600
+    engagement: 1264
+    commentsToLikes: 0.094272
     id: ckbl1is68ycro0j23rcmdvv2i
     verified: false
-    hashtags: "#bird, #exoticpole, #poledancer, #danceonapole"
+    hashtags: "#fyp, #danceonapole, #poledancer, #poledance"
   - username: "theroseann"
     fullname: >-
       R Ann Gould
     bio: >-
       Exotic dancer and acrobat👽🏹
     location: "Australia"
-    followers: 3284
-    engagement: 529
-    commentsToLikes: 0.027225
+    followers: 3275
+    engagement: 488
+    commentsToLikes: 0.031853
     id: ckb0xzwlzmxpb0j23hggu5zoq
     verified: false
-    hashtags: "#poledancer, #acrobat, #shoes, #acrobatics"
-  - username: "aspen_springg"
+    hashtags: "#acrobatics, #flexibility, #stretching, #highheels"
+  - username: "mydebstinations"
     fullname: >-
-      🌺 ASPEN SPRING 🌺
+      Deb | Geek Style in Sydney ✨
     bio: >-
-      Blocked from posting go follow my Instagram for updates and videos 🌞🏳️‍🌈
+      ✨ Comms @ TikTok 🇦🇺 ✨ Geek who spins lightsabers & pixel whips ✨ Pole fitness
     location: "Australia"
-    followers: 21700
-    engagement: 1024
-    commentsToLikes: 0.012326
-    id: ckb9ofg33ith40j23517sym2z
+    followers: 6368
+    engagement: 882
+    commentsToLikes: 0.184744
+    id: ckb9jfl6bakiz0j234peqte0j
     verified: false
-    hashtags: "#egirls, #poledancer, #pole, #fitness"
+    hashtags: "#polefitness, #pixelwhip, #flowarts, #pixelwhipflow"
   - username: "voddy_barbie"
     fullname: >-
       Lozzy
     bio: >-
-      Welcome to ✨poletok ✨ 21 Australia 100k?
+      Welcome to ✨poletok ✨ 21 Australia
     location: "Australia"
-    followers: 96000
-    engagement: 1912
-    commentsToLikes: 0.011912
+    followers: 109700
+    engagement: 1587
+    commentsToLikes: 0.012720
     id: ckcdyc3pxgkh50j23uwbfhrtj
     verified: false
-    hashtags: "#poledance, #poledancing, #fyp, #fitness"
+    hashtags: "#streets, #ldr, #polefitness, #lanadelrey"
+  - username: "watthefricative"
+    fullname: >-
+      Alex
+    bio: >-
+      Welcome to my account! ❤️ He/Him Thank you so much for 50k! BLM
+    location: "Australia"
+    followers: 53100
+    engagement: 2295
+    commentsToLikes: 0.038080
+    id: cka6k9nr0y32n0i786kl76bix
+    verified: false
+    hashtags: "#classiccatch, #makeup, #sfx, #lovestory"
   - username: "gorjessss"
     fullname: >-
       Jessie Qua
     bio: >-
-      Insta📸 Gorjess1xx Snap 👻 Gorjessxx1 Facey 😊 private
+      Insta📸 Gorjess1xx Snap 👻 Gorjessxx1 Just living my best life! Pole fitness💗
     location: "Australia"
-    followers: 3137
-    engagement: 419
-    commentsToLikes: 0.029280
+    followers: 3259
+    engagement: 452
+    commentsToLikes: 0.038907
     id: ckd6gw89x98r90j23fluarg0n
     verified: false
-    hashtags: "#adventure, #fyp, #poledancing, #dancing"
-  - username: "justjakk"
+    hashtags: "#poletok, #tiktokaustralia, #fail, #myhobby"
+  - username: "aspen_springg"
     fullname: >-
-      jakrose
+      🌺 ASPEN SPRING 🌺
     bio: >-
-      she / her 🇦🇺 vegan dancer
+      🦋 She/her 🦋 Mullets metal and pole
     location: "Australia"
-    followers: 19800
-    engagement: 1080
-    commentsToLikes: 0.017287
-    id: ckbfc8k144tvj0j23w766tezp
+    followers: 29400
+    engagement: 1054
+    commentsToLikes: 0.012003
+    id: ckb9ofg33ith40j23517sym2z
     verified: false
-    hashtags: "#perth, #cat, #foryou, #fyp"
+    hashtags: "#mullets, #watchmegrow, #flexible, #dancer"
   - username: "sabrina.the.vegan.witch"
     fullname: >-
       Sabrina M
     bio: >-
       Welcome to my weird (but great) life Ig: @Sabrina.the.vegan.witch
     location: "Australia"
-    followers: 3185
-    engagement: 311
-    commentsToLikes: 0.030630
+    followers: 3165
+    engagement: 320
+    commentsToLikes: 0.031460
     id: ck87tz87v4b7h0j781c784zjy
     verified: false
-    hashtags: "#4u, #fy, #foryou, #foryoupage"
+    hashtags: "#longhair, #hairgoals, #foryou, #fy"
 ---

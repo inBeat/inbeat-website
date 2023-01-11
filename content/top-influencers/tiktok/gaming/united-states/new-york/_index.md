@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In New York in 2023
+title: Top 10 Gaming TikTok Influencers In New York In 2023
 description: >-
-  Find top gaming TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #gaming #newyork.
+  Find top gaming TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #gaming #duet.
 platform: TikTok
-hits: 43
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 43 TikTok influencers like this in New York, United States for you to collaborate.
+hits: 35
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 35 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "mattduckettcomedy"
+  - username: "dayymein"
     fullname: >-
-      Matt Duckett
+      ⁹⁹⁹
     bio: >-
-      26 Half Black Comedian. BLM. Thanks for 40K!
+      NYC x Detroit 🤝 Email📩: Talent@channeliris.com Follow my twitch below 👇🏽
     location: "United States"
-    followers: 40300
-    engagement: 1764
-    commentsToLikes: 0.010716
-    id: ckcv8ys9vqlzo0j23fd7nt5hb
+    followers: 779100
+    engagement: 1541
+    commentsToLikes: 0.013206
+    id: cka89slv1gbqo0i78fasab0pi
     verified: false
-    hashtags: "#maga, #lol, #fyp, #college"
-  - username: "laineybear004"
+    hashtags: "#nyc, #xybca, #fyp, #foryou"
+  - username: "starkrafingmad"
     fullname: >-
-      ☞ Elaine ☜
+      starkrafingmad
     bio: >-
-      ~•★ Sarcasm is the best medicine ★ •~ ~•↓ social media ↓•~
+      Rafe 🏳️‍🌈 he?/they 🏳️‍⚧️ 29 18+ shipduets Hope you're having a nice day! ⬇️
     location: "United States"
-    followers: 7269
-    engagement: 1689
-    commentsToLikes: 0.149807
-    id: ckbalx4zocwqu0j2322x4a787
+    followers: 3128
+    engagement: 1452
+    commentsToLikes: 0.089861
+    id: ckc30vfacrhax0j23flkmwcbg
     verified: false
-    hashtags: "#minecraft, #fyp, #hamilton, #duet"
-  - username: "_lil_silly_"
+    hashtags: "#lifeisstrangecosplay, #mrcentipede, #chloeprice, #lifeisstrange"
+  - username: "wttdotm"
     fullname: >-
-      Lil silly
+      Morry
     bio: >-
-      Do it for the tok
+      Influencer and Influenza a share a root Welcome To The Desert Of The Meme 25, BK
     location: "United States"
-    followers: 45400
-    engagement: 1759
-    commentsToLikes: 0.038999
-    id: cka0urnflvmjl0i78ezguqjnw
+    followers: 25200
+    engagement: 1386
+    commentsToLikes: 0.042731
+    id: ckcdf80yy6hxs0j23e3rnwny9
     verified: false
-    hashtags: "#fyp, #funny, #foryou, #meme"
-  - username: "annavasiliev23"
+    hashtags: "#greenscreen, #stitch, #wttdotm, #borat"
+  - username: "zinkronized"
     fullname: >-
-      Anna vasiliev 
+      Zink
     bio: >-
-      Theeesse is a dIIsaSTAAAAR Insta: anna_vasiliev 18 👽
+      #1 Call of Duty Sniper in New York #YouShallObey Twitter @Zinkronized
     location: "United States"
-    followers: 24800
-    engagement: 1151
-    commentsToLikes: 0.035663
-    id: ckc324avlse2f0j237ee7h1nn
+    followers: 30800
+    engagement: 1564
+    commentsToLikes: 0.028660
+    id: ckauy7n0y3oqg0j235k6e7pzf
     verified: false
-    hashtags: "#greenscreen, #fyp, #makeup, #foryou"
-  - username: "hoodvineunrated"
+    hashtags: "#callofduty, #youshallobey, #foryoupage, #twitch"
+  - username: "blinkbuttonmash"
     fullname: >-
-      Hoodvine by RAPTV
+      Blinko Blinky
     bio: >-
-      🚀1M+ Followers On Instagram⬆️ 📥Email For Promo Pricing ⬇️Follow our Spotif
+      CEO OF SHINY POKEMON nerd,hardcore gamer,anime,family,friends,chef,artist.nyc
     location: "United States"
-    followers: 217300
-    engagement: 1748
-    commentsToLikes: 0.009063
-    id: ckc30zed6rkzu0j23skz2hsnx
+    followers: 3551
+    engagement: 1101
+    commentsToLikes: 0.046748
+    id: ckcdvthgbf88q0j23xj45o4bb
     verified: false
-    hashtags: "#hiphop, #fyp, #raptv, #newyork"
-  - username: "blainemcintosh77"
+    hashtags: "#playstation, #worththewait, #duet, #memes"
+  - username: "jbobbyandrios"
     fullname: >-
-      Blaine_MC
-    bio: >-
-      Professional Baseball Player New York Mets #LGM Nashville, Tennessee 150k??❗️
-    location: "United States"
-    followers: 130000
-    engagement: 1403
-    commentsToLikes: 0.011412
-    id: ckb99j9l0tu4l0j238afu8p98
-    verified: true
-    hashtags: "#theboys, #nymets, #xyzbca, #foryou"
-  - username: "pr0gamerzach"
-    fullname: >-
-      Pro Gamer Zach
-    bio: >-
-      Pro Gamer / Influencer / Compulsive Liar CEO of Cloning Myself Feet reveal at 1M
-    location: "United States"
-    followers: 6950
-    engagement: 1620
-    commentsToLikes: 0.084000
-    id: ck9ror8c6dvdj0j78nrqokadd
-    verified: false
-    hashtags: "#fantasyfootball, #fyp, #strapback, #stitch"
-  - username: "stephhsicilian"
-    fullname: >-
-      steph
+      JbobbyandRios
     bio: >-
       
     location: "United States"
-    followers: 11000
-    engagement: 1144
-    commentsToLikes: 0.082223
-    id: ckb0siezpi45a0j23vzj9brix
+    followers: 29500
+    engagement: 810
+    commentsToLikes: 0.015825
+    id: ck8s54925e9nz0j78fzr9bdw8
     verified: false
-    hashtags: "#foryou, #foryoupage, #greenscreen, #coranavirus"
-  - username: "cybercoastal"
+    hashtags: "#overtime, #nba, #music, #basketball"
+  - username: "nikahola"
     fullname: >-
-      Cyber Coastal
+      Niklas Ahola
     bio: >-
-      Data Analytics Data Visualizations Data Science
+      Real Estate 🏡 Naples, FL 🌴 @hellonaples
     location: "United States"
-    followers: 10800
-    engagement: 1177
-    commentsToLikes: 0.035095
-    id: ckbqexz6z0qo20j237vcopfwc
+    followers: 2844
+    engagement: 806
+    commentsToLikes: 0.045843
+    id: ck8tst70vrjgq0j78rrd9f67g
     verified: false
-    hashtags: "#dataviz, #datavisualisation, #dataisbeautiful, #covid19"
+    hashtags: "#miami, #rave, #ultramusic, #edm"
   - username: "aboudyonduty"
     fullname: >-
       Abdullah🇵🇸
     bio: >-
-      Snapchat: lolsmg New York🗽 18
+      New York🗽 18
     location: "United States"
-    followers: 6899
-    engagement: 1310
-    commentsToLikes: 0.072852
+    followers: 6863
+    engagement: 1265
+    commentsToLikes: 0.082299
     id: ckbqvw61og3kv0j23cv12xdnz
     verified: false
-    hashtags: "#meme, #fyp, #foryoupage, #funny"
+    hashtags: "#fyp, #arab, #foryoupage, #funny"
+  - username: "ongodpreston"
+    fullname: >-
+      𝓟𝓻𝓮𝓼𝓽𝓸𝓷
+    bio: >-
+      19 🇵🇭🇭🇹 New York🗽 Follow the gram💜👆🏽
+    location: "United States"
+    followers: 9362
+    engagement: 918
+    commentsToLikes: 0.038079
+    id: ck8ovd96nteld0j78r0j2aul8
+    verified: false
+    hashtags: "#yearbook2020, #greenscreen, #fyp, #bigmac"
+  - username: "jae.kung"
+    fullname: >-
+      Nathan
+    bio: >-
+      new york city ig: jkun.g
+    location: "United States"
+    followers: 24800
+    engagement: 1279
+    commentsToLikes: 0.018219
+    id: ckavk0uzcssjk0j23w8itip6h
+    verified: false
+    hashtags: "#asian, #foryou, #leagueoflegends, #fyp"
 ---

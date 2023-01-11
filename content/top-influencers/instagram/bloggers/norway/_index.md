@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Norway in 2023
+title: Top 10 Bloggers Instagram Influencers In Norway In 2023
 description: >-
-  Find top bloggers Instagram influencers in Norway in 2023. Most popular hashtags: #blogger #fashion #norway.
+  Find top bloggers Instagram influencers in Norway in 2023. Most popular hashtags: #blogger #instagood #norway #christmas.
 platform: Instagram
-hits: 22
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 22 Instagram influencers like this in Norway for you to collaborate.
+hits: 10
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 10 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "sofieenilsen"
+  - username: "halasz_evi"
     fullname: >-
-      Sofie Caroline Nilsen
+      Farkas-Halász Évi
     bio: >-
-      👻 Sofieeec 📍 Norway | LA ✉️ sofie_karoline@hotmail.com ⌨️ Post@adsales.no / @adsalesnorge 💗 Blogger, TV - personality & Youtuber
+      🤱🏻Három kislány anyukàja🧁blogger📚receptkönyv-szerző #anyakentisfitten 📨Collab: anyakentisfitten@gmail.com Könyv és Öröknaptár rendelés:
     location: "Norway"
-    followers: 93650
-    engagement: 556
-    commentsToLikes: 0.159820
-    id: ck6tw1iggpgz90j71pmye10p1
-    verified: true
-    hashtags: "#iceno, #iceung"
-  - username: "anjacatrine"
-    fullname: >-
-      𝑨𝑵𝑱𝑨 𝑪𝑨𝑻𝑹𝑰𝑵𝑬 𝑽𝑬𝑵𝑨̊𝑺
-    bio: >-
-      a little nerd in oslo • retired blogger [@xanjac] lol • 𝒔𝒐𝒄𝒊𝒂𝒍 𝒎𝒆𝒅𝒊𝒂 𝒆𝒙𝒑𝒆𝒓𝒕 @ 𝒔𝒕𝒐𝒓𝒊𝒆𝒔 𝒎𝒆𝒅𝒊𝒂 •
-    location: "Norway"
-    followers: 3911
-    engagement: 1027
-    commentsToLikes: 0.092186
-    id: ck6u5drqa91l50j71uecex4mo
+    followers: 24623
+    engagement: 407
+    commentsToLikes: 0.055196
+    id: ck5q5niigto5q0i11c1aca7rd
     verified: false
-    hashtags: "#ootd, #norway, #bunad, #festdrakt"
-  - username: "akam1k3"
+    hashtags: "#ima, #hungarianblogger, #ikozosseg, #mutimitsu"
+  - username: "rabistyle_"
     fullname: >-
-      m1k3chemical romance🎈
+      𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄|𝐅𝐀𝐒𝐇𝐈𝐎𝐍|𝐁𝐄𝐀𝐔𝐓𝐘
     bio: >-
-      Award winning blogger 😂// @alsoknownas__ // ENDELIG NY EPISODE AV AJJAR&MIKE!! ❤️❤️❤️ ⬇️⬇️⬇️
+      • Rabi Fredriksen | 21 • Content Creator • Norwegian in Germany
     location: "Norway"
-    followers: 47158
-    engagement: 439
-    commentsToLikes: 0.010714
-    id: ck55lxcjk2nyr0i11877q6218
+    followers: 27244
+    engagement: 481
+    commentsToLikes: 0.260115
+    id: ckap4mfej7x850i788tciwxpv
     verified: false
-    hashtags: "#annonse, #mikeithappen"
-  - username: "angelikasverdrup"
-    fullname: >-
-      Angelika S. 🇳🇴
-    bio: >-
-      🌍Exploring the world with running shoes on🏃🏼‍♀️ 🏅Marathon x 11 @HOKAONEONE_EU @shadesofnorway @run4.no 💻Blogger on Runners World:
-    location: "Norway"
-    followers: 6952
-    engagement: 511
-    commentsToLikes: 0.037729
-    id: ck13atkhxs47b0i19g2j21f6t
-    verified: false
-    hashtags: "#tilhimmels, #mounteverest, #covid, #aksla"
-  - username: "daniiblogg"
-    fullname: >-
-      Daniela Izaguirre
-    bio: >-
-      Photo album 👨‍👩‍👧‍👧💖📸 Blogger|Estilo de vida|ideas para fotos📸 📍🇻🇪viviendo en Noruega 🇳🇴 📸#mamarazzi de❤️ 👇🏼click aquí para obtener mis preset😍👇🏼
-    location: "Norway"
-    followers: 9837
-    engagement: 605
-    commentsToLikes: 0.166777
-    id: ck5hgdcar26tt0i11e0mrrxfl
-    verified: false
-    hashtags: "#coleccionandomomentos, #halloween, #babygirl, #fashionstyle"
-  - username: "pureelisabeth_"
-    fullname: >-
-      INTERIOR & FASHION STYLIST
-    bio: >-
-      Elisabeth Halbjørhus 🤍 Freelance Influencer & blogger 🤍 Content creator/Photography 🤍 Garden lover 🤍 Trend enthusiast Blog 👇🏻
-    location: "Norway"
-    followers: 39083
-    engagement: 76
-    commentsToLikes: 0.246415
-    id: ck5bzscqurqwd0i11by906bjp
-    verified: false
-    hashtags: "#julen2020, #julepynt, #bad, #badrum"
-  - username: "vibekedesign"
-    fullname: >-
-      Vibeke Svenningsen
-    bio: >-
-      Norwegian blogger ~Stylist/Fotograf
-    location: "Norway"
-    followers: 139031
-    engagement: 236
-    commentsToLikes: 0.020828
-    id: ck8sy1b9bjdzu0j78vnp8xi7p
-    verified: false
-    hashtags: "#lantliv, #countryhomesandgardens, #october, #vibekedesign"
-  - username: "teodorasandorofficial"
-    fullname: >-
-      FASHION | BEAUTY | LIFESTYLE
-    bio: >-
-      📍 AUSTRIAN | ROMANIAN from the 90's 📩 Open for Collaborations
-    location: "Norway"
-    followers: 28171
-    engagement: 361
-    commentsToLikes: 0.212974
-    id: ck5hg9smj1o4r0i118imnp8m8
-    verified: false
-    hashtags: "#instagood, #hudabeauty, #blogger, #lifestyle"
+    hashtags: "#bloggers, #bloggerinde, #bloggerlifesyle, #hautecouture"
   - username: "nyquist_home"
     fullname: >-
       Lill-Anita Nyquist
     bio: >-
-      Gift og mamma til 3 gutter 🤍 Fotograf 📸 Byggestart høsten 2020 av vårt råkule funkishus ved Oslofjorden 🌊🌅 TAG #delmeg Owner of @funkisbloggen
+      Interiør & livsstil @fryd_kosmetiske TAG #delmeg Owner of @funkisbloggen
     location: "Norway"
-    followers: 81472
-    engagement: 127
-    commentsToLikes: 0.248487
+    followers: 80034
+    engagement: 81
+    commentsToLikes: 0.252072
     id: ck0uajdd2cdhe0i19jo1to3yj
     verified: false
-    hashtags: "#modernehjem, #bolig, #house, #modernhouse"
-  - username: "ingridivarson"
+    hashtags: "#myhomevibe, #homeblogger, #interiorblogger, #homeinspo"
+  - username: "cruiseguyofnorway"
     fullname: >-
-      Ingrid Suhr Olsen
+      Frode
     bio: >-
-      Norwegian living in Copenhagen🇳🇴🇩🇰 Welcome to my world of feminine & elegant fashion, interior design and travelling👗🏡✈️ ✉️ ingridivarson@hotmail.com
+      Thank you for following. Norwegian who loves travels, and RCCL Cruises. 45 Cruises and 61 countries visited and counting
     location: "Norway"
-    followers: 10167
-    engagement: 579
-    commentsToLikes: 0.071654
-    id: ck0vwbsv4szr10i192bnfjexo
+    followers: 22196
+    engagement: 489
+    commentsToLikes: 0.002599
+    id: ck14li695ussv0i19o45ll3rl
     verified: false
-    hashtags: "#elegantwomen, #ootdfashion, #tallboots, #styleinspo"
+    hashtags: "#lifestyle, #life, #jeweloftheseas, #traveltheworld"
+  - username: "siggudottir"
+    fullname: >-
+      ÍRENA | fitness + lifestyle
+    bio: >-
+      ♡ Ace ♡ Certified Personal Trainer ♡ @womensbest || SIGGU20
+    location: "Norway"
+    followers: 62797
+    engagement: 50
+    commentsToLikes: 0.008629
+    id: ck8t0z473tvch0j78swx52uef
+    verified: false
+    hashtags: "#muscle, #gymmotivation, #gymshark, #confidence"
+  - username: "heidisboble"
+    fullname: >-
+      Heidis Boble
+    bio: >-
+      Blogg om min lille verden: Mest om mat, oppskrifter og bøker. Følg meg gjerne også på
+    location: "Norway"
+    followers: 9523
+    engagement: 599
+    commentsToLikes: 0.009614
+    id: ckf5lnp9fq7re0j23z1uuj0eb
+    verified: false
+    hashtags: "#hjemmelaget, #gr, #ukebladethjemmet, #instacakes"
+  - username: "idawulff.no"
+    fullname: >-
+      Ida Wulff
+    bio: >-
+      • Ida, 30🤰🏼Gravid og bloggerinne på fulltid, masterstudent på deltid, forlovet med Gravlyset. Helt middels i alt jeg gjør. • 👇🏼 Bloggen min
+    location: "Norway"
+    followers: 40906
+    engagement: 635
+    commentsToLikes: 0.115525
+    id: ck14jnp84l9s60i19rdyft5bv
+    verified: true
+    hashtags: "#cozyfix, #barneromsinspo, #desenio, #kvinnehelse"
+  - username: "kimwigaard"
+    fullname: >-
+      K I M  W I G A A R D
+    bio: >-
+      ✨ Norwegian singer / vocal coach / model ✨
+    location: "Norway"
+    followers: 21890
+    engagement: 326
+    commentsToLikes: 0.082558
+    id: ck6tpbshpiyda0j715moe4m8v
+    verified: true
+    hashtags: "#love, #music, #christmas, #oslo"
+  - username: "chris_nyhus"
+    fullname: >-
+      Chris Nyhus
+    bio: >-
+      ▪️Pappa til 4🙏🏻 ▪️👸🏼 @monica.nyhus 💙 ▪️Gründer @dromcollection - @babyboksnorge - @bebebiagio ▪️Følg oss på @familiennyhus ▪️ Annonselenke:
+    location: "Norway"
+    followers: 52168
+    engagement: 336
+    commentsToLikes: 0.017477
+    id: ck5c3zr6r0cre0i11k53sbn4f
+    verified: false
+    hashtags: "#reima, #dromcollection, #euro2020, #mymollers"
+  - username: "frkkaasen"
+    fullname: >-
+      Cathrine
+    bio: >-
+      #treework #husqvarna #hiking #vakreryfylke #mytimberwolf #chainsaw My work,hiking and nature 🤩🌲 Private : @cathrinekaas Work with :@ryfylkeskogas
+    location: "Norway"
+    followers: 12905
+    engagement: 664
+    commentsToLikes: 0.013708
+    id: ck14ieqyuf2a00i19pzk85zn4
+    verified: false
+    hashtags: "#husqyfan, #ryfylke, #orangeisthenewblack, #treeple"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Norway in 2023
+title: Top 10 Bodybuilding Instagram Influencers In Norway In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #bodybuilding #girlswholift #workout.
+  Find top bodybuilding Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #bodybuilding #workout #training.
 platform: Instagram
-hits: 21
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform has 21 Instagram influencers like this in Norway for you to contact.
+hits: 14
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 14 Instagram influencers like this in Norway for you to work with.
 profiles:
   - username: "coachsigvar"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Online-coach @mx3.no 🖥 PT @optimaltrening🏋🏻‍♂️ Osteopat Nasjonal mester i styrkeløft🥇 Tidl. landslagsutøver i bodybuilding💪🏻 #CoachSigvar Coaching? 👇🏻
     location: "Norway"
-    followers: 11174
-    engagement: 611
-    commentsToLikes: 0.034875
+    followers: 11436
+    engagement: 600
+    commentsToLikes: 0.027687
     id: ckap0uwq4rwt10i78jechtngx
     verified: false
-    hashtags: "#liveterbestute, #mx3, #gains, #coachsigvar"
-  - username: "sunnivaan"
+    hashtags: "#gains, #liveterbestute, #jakt, #protein"
+  - username: "andrealowing"
     fullname: >-
-      SUNNIVA ANGLEN
+      Andrea Løwing 👑
     bio: >-
-      🕊 Trondheim 🤍 Team @tights_no & @celsiusnorge 📔 Bevegelsesvitenskap NTNU ▫️ IFBB bikinifitness
+      IFBB bikini athlete Online coach COACHING INFO ⬇️
     location: "Norway"
-    followers: 3810
-    engagement: 1742
-    commentsToLikes: 0.099278
-    id: ck8t6uti7ermy0j78doj3ppa1
+    followers: 13132
+    engagement: 551
+    commentsToLikes: 0.062403
+    id: ck8t6pi6led900j7848rkv3h0
     verified: false
-    hashtags: "#ifbb, #betterbodies, #curves, #selfie"
-  - username: "solveigkg"
+    hashtags: "#photooftheday, #outfitinspiration, #bodybuilding, #ootd"
+  - username: "siggudottir"
     fullname: >-
-      Solveig Kjøren Gjelstad
+      ÍRENA | fitness + lifestyle
     bio: >-
-      Life • lifting • fitness 🤍🏋🏼‍♀️🏆 📲 Collabs: solveig.kjoren@hotmail.com 🥇 Oslo Grand Prix 2019 🥉NM 2019 💙 Team @nocconorge | @tights_no ☀️ @nardosol
+      ♡ Ace ♡ Certified Personal Trainer ♡ @womensbest || SIGGU20
     location: "Norway"
-    followers: 19479
-    engagement: 715
-    commentsToLikes: 0.040182
-    id: ck9web8xdjien0j786scxwwnf
+    followers: 62797
+    engagement: 50
+    commentsToLikes: 0.008629
+    id: ck8t0z473tvch0j78swx52uef
     verified: false
-    hashtags: "#lifting, #tb, #girlswholift, #fit"
-  - username: "jannicke_hk"
-    fullname: >-
-      🄹🄰🄽🄽🄸🄲🄺🄴 🇳🇴
-    bio: >-
-      ✮ IFBB Bodyfitness ➞ @teamtoppform_fitnessklubb 🥈 NM 2019 🥈 SO 2019 ✮ @mmsports_norge ✮ Dirt.no
-    location: "Norway"
-    followers: 21024
-    engagement: 403
-    commentsToLikes: 0.055512
-    id: ck8t68geucnev0j78jn1pjajk
-    verified: false
-    hashtags: "#boostboxambassad, #motivation, #muscle, #bootyonfire"
-  - username: "aktivmamma"
-    fullname: >-
-      Cathrine 🇳🇴
-    bio: >-
-      •CF Athlete •Mom and wife @petterkmortvedt •Web coach👉🏻 @elitept.no •@dirt.norge - use Cathrine25 •@heartoflule- use cath20 for a discount
-    location: "Norway"
-    followers: 22787
-    engagement: 423
-    commentsToLikes: 0.062111
-    id: ck5q44os5nqso0i11w2n0z62s
-    verified: false
-    hashtags: "#healthy, #runners, #instagram, #workoutmotivation"
-  - username: "heddajosefineh"
-    fullname: >-
-      Hedda Josefine | Fitness
-    bio: >-
-      Hedda Josefine Hjelmark ✖️Ambassador - @mmsports_norge Contact👇🏻 mehedda@hotmail.no 🔒🖤 @lucipher.d
-    location: "Norway"
-    followers: 2824
-    engagement: 747
-    commentsToLikes: 0.120969
-    id: ckaoum6ai0vkv0i78m0kxb7v5
-    verified: false
-    hashtags: "#getinshape, #gymlifestyles, #weighttraining, #fitsporation"
+    hashtags: "#muscle, #gymmotivation, #gymshark, #confidence"
   - username: "mo9ca86"
     fullname: >-
       Monica 🇳🇴
     bio: >-
-      Ambassadør for @icaniwill bruk koden MONICAS20 og få 20% rabatt❤️
+      Ambassadør for: 💛@wearefit.no 💜@fitnessmafia.no 💖@norsweet_official Model for : ♥️@asimmonsphotography ✨Trykk på link for rabattkoder
     location: "Norway"
-    followers: 6415
-    engagement: 970
-    commentsToLikes: 0.130932
+    followers: 8644
+    engagement: 606
+    commentsToLikes: 0.095670
     id: ck8t6picmeda90j78nb1kbfau
     verified: false
-    hashtags: "#fitnesslifestyle, #girlswholift, #weightlifting, #platinumpixie"
-  - username: "ingridkristiansen_"
+    hashtags: "#treningsforum, #girlswithmuscle, #fitnesslifestyle, #trening"
+  - username: "_juicyjoceyy"
     fullname: >-
-      PT Ingrid Kristiansen
+      𝕁𝕠𝕔𝕖𝕝𝕚𝕟𝕖 𝔾𝕠𝕟𝕫𝕒𝕝𝕖𝕤 🐺🖤✨
     bio: >-
-      FITNESS • HEALTH • LIFESTYLE 📍Tromsø, Norway 🏋🏼‍♀️Personal trainer @skyfitnesstromsoe INGRIDK20 for 20% hos @icaniwill 🖤Ambassadør @mmsports_norge
+      •@hairbyjoceyyg 💇🏻‍♀️ • Wellness Competitor ✨ • 2018 Crossfit Games Team Athlete🏋🏻‍♀️ • @precise.meal.prep (JOCELINE10)
     location: "Norway"
-    followers: 4566
-    engagement: 1061
-    commentsToLikes: 0.114398
-    id: ck8t68e32cn750j78d0yv667f
+    followers: 3310
+    engagement: 1304
+    commentsToLikes: 0.054459
+    id: ck5pzsh9g2j1i0i11gehd7oxy
     verified: false
-    hashtags: "#norwegian, #happiness, #skyfitnessnorge, #lifting"
-  - username: "andreamadelennorway"
+    hashtags: "#wellnesscompetitor, #justthebeginning, #wellness, #letsgrow"
+  - username: "anthayneshk"
     fullname: >-
-      🍍 Andrea Madelen Hauge Bjønnes
+      Ant Haynes
     bio: >-
-      IFBB Bikini Fitness Athlete Cheerleader ✖️ DNB ✖️ @nocconorge Student Ambassador ✖️ @tights_no ✖️ @boostbox.no ✖️ Team Fit2gether
+      🏋🏽‍♂️CrossFit Games 2019 & 2020 📍HKG 🇭🇰 📝@coastalfitnesshk S&C Coach 👕@earnedathleticapparel Owner 🔋@noccohk 🍎 @goligummy 🛠@cluster.ltd 📺anthayneshk
     location: "Norway"
-    followers: 11200
-    engagement: 433
-    commentsToLikes: 0.038573
-    id: ckaos2ci0pudc0i78380uj68e
+    followers: 66084
+    engagement: 361
+    commentsToLikes: 0.008513
+    id: ck0ttd9wm28ev0i19t5mzs4im
     verified: false
-    hashtags: "#couple, #workout, #photography, #scandinaviandesign"
+    hashtags: "#lifting, #deadlift, #powerlifting, #exercise"
   - username: "italofeliperm"
     fullname: >-
       Ítalo Felipe🇧🇷Fitness Trainer
     bio: >-
-      🔹Elite Online Trainer - Results wherever you are ! 🔹@myproteinno - MPITALO = 40% discount ——————————————————————————— ⬇️Youtube🎥
+      🔹Elite Online Trainer - Results wherever you are ! 🔹@myproteinno - MPITALO = 40% discount ——————————————————————————— ⬇️Live streams 🎥
     location: "Norway"
-    followers: 6811
-    engagement: 302
-    commentsToLikes: 0.127128
+    followers: 6765
+    engagement: 306
+    commentsToLikes: 0.123042
     id: ck5bvo8b6k1up0i113ltkfqtl
     verified: false
-    hashtags: "#reelsinstagram, #workout, #myprotein, #workoutmotivation"
+    hashtags: "#gym, #workoutmotivation, #noruega, #myproteinitalia"
+  - username: "malin_moeneeraas"
+    fullname: >-
+      Malin Moe Neeraas
+    bio: >-
+      👩🏽‍💻 @abel.health
+    location: "Norway"
+    followers: 5363
+    engagement: 684
+    commentsToLikes: 0.137505
+    id: ck14jdqpajtzf0i19bbujnyiv
+    verified: false
+    hashtags: "#norge, #bhfyp, #fit, #gym"
+  - username: "henrylemoin"
+    fullname: >-
+      Henry Lemoin | Norwegian Model
+    bio: >-
+      📍Oslo, Norway . ⚘Ambassador @eromaperfumes Discount code: LEMOIN Please check out the music video i'm starring in for The Da Vinci Code
+    location: "Norway"
+    followers: 35539
+    engagement: 863
+    commentsToLikes: 0.046501
+    id: ck6u5xvxkce1r0j71t220u2qo
+    verified: false
+    hashtags: "#mensstyle, #suited, #heathenry, #vikingstyle"
+  - username: "solveigkg"
+    fullname: >-
+      Solveig Kjøren Gjelstad
+    bio: >-
+      𝕃𝕚𝕗𝕖 • 𝕝𝕚𝕗𝕥𝕚𝕟𝕘 • 𝕗𝕚𝕥𝕟𝕖𝕤𝕤 𝘢𝘢𝘢𝘯𝘥 𝘢 𝘭𝘰𝘵 𝘰𝘧 𝘣𝘰𝘰𝘵𝘺 🏆 Overall Norwegian Champion 2020 🥇 Oslo Grand Prix 2019 💙 Team @nocconorge | @tights.no ☀️ @nardosol
+    location: "Norway"
+    followers: 20804
+    engagement: 645
+    commentsToLikes: 0.051562
+    id: ck9web8xdjien0j786scxwwnf
+    verified: false
+    hashtags: "#norwegiangirl, #prep, #ifbb, #pump"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Peru in 2023
+title: Top 10 Comedians Instagram Influencers In Peru In 2023
 description: >-
-  Find top comedians Instagram influencers in Peru in 2023. Most popular hashtags: #comedia #quedateencasa #publicidad #style.
+  Find top comedians Instagram influencers in Peru in 2023. Most popular hashtags: #comedia #humor #argentina #cuarentena.
 platform: Instagram
-hits: 27
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 27 Instagram influencers like this in Peru for you to contact.
+hits: 29
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 29 Instagram influencers like this in Peru for you to contact.
 profiles:
-  - username: "fernandamarsano"
+  - username: "macamadernalaprebende"
     fullname: >-
-      Fernanda Marsano 🦄
+      ᴍᴀᴄᴀ ᴍᴀᴅᴇʀɴᴀ ʟᴀᴘʀᴇʙᴇɴᴅᴇ
     bio: >-
-      Entrepreneur |Comedian |Actress Owner: @firaysana @labodegadefernanda_
+      • Aᴄᴛʀɪᴢ • 🎬 • Cantante • 🎤 • Productora de TV y eventos • • Cine 🎥 • • Comedianta • • Escribo • ✍️ • Bailo • 💃 “ᴠɪᴠɪʀ ᴀʟ ᴍᴀxɪᴍᴏ” 📍 𝐵.𝒜 🇦🇷
     location: "Peru"
-    followers: 26160
-    engagement: 248
-    commentsToLikes: 0.071438
-    id: ck6ucvulyhr0m0j7186ra4e96
+    followers: 32238
+    engagement: 452
+    commentsToLikes: 0.729487
+    id: ck15pwf4bzyxu0i19k4ywbszr
     verified: false
-    hashtags: "#travelphotography, #love, #blackandwhitephotography, #home"
+    hashtags: "#reels, #humor, #colombia, #sorteo"
   - username: "danilachepi"
     fullname: >-
       Daniela Viaggiamari (La Chepi)
     bio: >-
-      Mama de Isa.Actriz.Comediante.Cantante Comercial: @latinfluence Gira post cuarentena 👇
+      Mama de Isa.Actriz.Comediante.Cantante Comercial: @latinfluence “Que vas a hacer”
     location: "Peru"
-    followers: 2319256
-    engagement: 975
-    commentsToLikes: 1.348630
+    followers: 2785432
+    engagement: 1077
+    commentsToLikes: 1.207653
     id: ck5heo4fttxkj0i11uyxwnozq
     verified: true
-    hashtags: "#sonre, #isa, #diainternacionaldelanina, #elgrupodemamis"
-  - username: "jorgetalaveraca"
-    fullname: >-
-      Jorge Talavera
-    bio: >-
-      Comediante - Actor Creador de contenido 🔥 Mi video podcast🎙: @nisumaniresta
-    location: "Peru"
-    followers: 115993
-    engagement: 374
-    commentsToLikes: 0.101724
-    id: ck6u90yqouukl0j7121lnh6ju
-    verified: true
-    hashtags: "#pumafuturerider, #publicidad, #martesdeconfesiones, #taladatos"
+    hashtags: "#javu, #isa, #chupamelax, #starchannel"
   - username: "kainospr"
     fullname: >-
       KAINOS | 1ST IS GOD
     bio: >-
-      |🎭:Comediante |🎙:Cantante |🕹:YouTuber |📺:YouTube Comedia: Kainostv |📺:Youtube Música: Kainospr |📀:No Me Llames 👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽
+      |🎭:Comediante |🎙:Cantante |🕹:YouTuber |📺:YouTube Comedia: Kainostv |📺:Youtube Música: Kainospr |📀:Regresa Disponible 👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽
     location: "Peru"
-    followers: 34497
-    engagement: 355
-    commentsToLikes: 0.169025
+    followers: 36306
+    engagement: 300
+    commentsToLikes: 0.074610
     id: ck5ciw5i9thvo0i11fy8qshnv
     verified: false
-    hashtags: "#tbt, #cute, #me, #friends"
+    hashtags: "#re, #nike, #happy, #fun"
+  - username: "joseluiszagaroficial"
+    fullname: >-
+      Jose Luis Zagar
+    bio: >-
+      Comediante/StandUpero regiomontano con más de 20 años de experiencia. Nuevo Canal de YouTube. ⬇️🙏🏻
+    location: "Peru"
+    followers: 212527
+    engagement: 105
+    commentsToLikes: 0.025804
+    id: ck138btbgfgny0i1990pmwwh2
+    verified: false
+    hashtags: "#zagardesdeelbar, #live, #envivo, #spotifypodcast"
   - username: "piareconpe"
     fullname: >-
       PiARE
     bio: >-
-      Actriz, profesora y comediante. Mamá de Diego, que es el niño más perfecto y hermoso del mundo! Según yo. Y criamos juntos a #Torniquete 😻
+      Actriz, profesora, comediante. Mamá de Diego, el niño más perfecto y hermoso del mundo! Según yo. Y criamos juntos a Torniquete
     location: "Peru"
-    followers: 42764
-    engagement: 163
-    commentsToLikes: 0.062846
+    followers: 44144
+    engagement: 114
+    commentsToLikes: 0.040072
     id: ck14ha3ox9auh0i19p3xc0lnn
     verified: false
-    hashtags: "#encasa, #quedateencasa, #covid, #pandemiaconpe"
-  - username: "merycaldass"
+    hashtags: "#standupcomedy, #online, #comedia, #show"
+  - username: "crissgeithner"
     fullname: >-
-      Mery Caldass
+      Aura Cristina Geithner
     bio: >-
-      toma dale gasolina y que no decaiga🔥 ⚡️Cuenta personal: @mariacaldaas 🎬Youtube: Mery Caldass 📩Gmail: merycaldas@bushidotalent.com
+      ACTRIZ,MODELO,CANTANTE. #auracristinageithner #lapotradelabanda @crissgeithner👉Twitter @auracristinageithner👉Facebook LINK:
     location: "Peru"
-    followers: 68763
-    engagement: 1613
-    commentsToLikes: 0.009765
-    id: ckf5ngftdy5oo0j2307e5t2jo
-    verified: false
-    hashtags: "#comediante, #humorista, #comedia, #primestudentes"
-  - username: "gabrielleout"
+    followers: 890064
+    engagement: 274
+    commentsToLikes: 0.016509
+    id: ck0uabjx7bs1c0i19j1qfk3sm
+    verified: true
+    hashtags: "#likes4follo, #instacool, #usa, #funny"
+  - username: "alf.music"
     fullname: >-
-      Gabriel Peñavasquez
+      ALF RAVAZZANI
     bio: >-
-      Mamá | Emprendedora | Lifestyle • -A+E ￼ • AnimalLover♥️ • Marketing y Comunicaciones📚 📍Lima, Perú 📩 info@gabrielleout.com #Virginia 😜
+      Cantante • Compositor • Actor 💛@opividal 📍Punta del Este, Uruguay Escucha "Luna Llena" acá!👇🏼
     location: "Peru"
-    followers: 36082
-    engagement: 383
-    commentsToLikes: 0.089212
-    id: ckf5piqf368mi0j23dcb80qil
+    followers: 26702
+    engagement: 133
+    commentsToLikes: 0.252525
+    id: ck6tqwrxjv2d50j71ocivtohb
     verified: false
-    hashtags: "#peru, #family, #mama, #lifestyle"
+    hashtags: "#puntadeleste, #beach, #beachlife, #covers"
+  - username: "jbjorgebenavides"
+    fullname: >-
+      Jorge Benavides
+    bio: >-
+      📌 Humorista Peruano, Imitador, Actor y Director 😜 📌 Contacto: jbjorgebenavides@gmail.com
+    location: "Peru"
+    followers: 959761
+    engagement: 284
+    commentsToLikes: 0.045997
+    id: ck8sxv4khis660j78qh9f7704
+    verified: true
+    hashtags: "#jbjorgebenavides, #comedia, #humor, #jbenatv"
+  - username: "marianoperugiabruna"
+    fullname: >-
+      Mariano Perugia Bruna
+    bio: >-
+      Stand Up🎤 Actor 🎭 Soy la porción de pizza que te espera a la vuelta del boliche🍕🍕
+    location: "Peru"
+    followers: 8665
+    engagement: 376
+    commentsToLikes: 0.019103
+    id: ck8swtw3xf80y0j783je9zwom
+    verified: false
+    hashtags: "#coronavirus, #viral, #cordobes, #funnyvideos"
   - username: "chistosos_rexs"
     fullname: >-
       Rexi y Bexi
     bio: >-
-      Somos Bexi y Rexi, los hermanos Rex más chistosos de Instagram. ¡Síguenos! ⬇️Te recomiendo este cortometraje⬇️
+      Somos Bexi y Rexi, los hermanos Rex más chistosos de Instagram. ¡Síguenos! ⬇️Dadle like a este video ⬇️
     location: "Peru"
-    followers: 65770
-    engagement: 517
-    commentsToLikes: 0.006021
+    followers: 57068
+    engagement: 473
+    commentsToLikes: 0.005956
     id: ck14iaagmeeo80i19v8okn7no
     verified: false
-    hashtags: "#humorespa, #comedia, #chistosos, #dinosaurio"
-  - username: "andyjqm"
-    fullname: >-
-      Andy quintero ✨
-    bio: >-
-      ✉️ andyquin0710@gmail.com 🇻🇪 en 🇵🇪 TIKTOK: AndyJQM +580k Nuevo video en YouTube 👇🏻
-    location: "Peru"
-    followers: 38850
-    engagement: 1047
-    commentsToLikes: 0.033111
-    id: ck8wd9vehdju10j78j6wc1n39
-    verified: false
-    hashtags: "#reebook, #reebokperu, #publicidad, #peru"
-  - username: "maricieloeffio"
-    fullname: >-
-      Maricielo Effio
-    bio: >-
-      💜 Mama de Brissa 🎭Actriz Peru 🇵🇪 👉🏼Fanny en #DeVueltaAlBarrio📺 @americatelevision 💃Dancer 👼Ex paquita
-    location: "Peru"
-    followers: 421511
-    engagement: 341
-    commentsToLikes: 0.037728
-    id: ck5bwfpzflm6s0i11qjclpbt8
-    verified: false
-    hashtags: "#quedateencasa, #cuarentena, #fanny, #dancing"
+    hashtags: "#risa, #memesespa, #memes, #risas"
 ---

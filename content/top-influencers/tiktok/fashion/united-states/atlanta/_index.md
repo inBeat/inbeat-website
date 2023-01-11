@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Atlanta in 2023
+title: Top 10 Fashion TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top fashion TikTok influencers in Atlanta in 2023. Most popular hashtags: #atlanta #fyp #fashion #fy.
+  Find top fashion TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #atlanta #fashion #viral.
 platform: TikTok
-hits: 33
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 33 TikTok influencers like this in Atlanta, United States for you to work with.
+hits: 38
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 38 TikTok influencers like this in Atlanta, United States for you to pitch.
 profiles:
-  - username: "backstageconcerts"
+  - username: "lorenschaffer"
     fullname: >-
-      Concerts
+      Loren Schaffer
     bio: >-
-      Backstage
+      I sing about abt stuff 🎙🎶 1/2 of Schaf Apparel ⬇️
     location: "United States"
-    followers: 9646
-    engagement: 840
-    commentsToLikes: 0.010125
-    id: ck9dtjl0tcepx0j781rdkgk0l
+    followers: 620100
+    engagement: 1555
+    commentsToLikes: 0.017476
+    id: ckaig21zzzj200i787b6160g9
     verified: false
-    hashtags: "#concertcheck, #cactusjack, #dontoliver, #fy"
-  - username: "mackchristopher"
-    fullname: >-
-      MackChristopher 
-    bio: >-
-      insta: mack.christopher twitter: themackchris
-    location: "United States"
-    followers: 3205
-    engagement: 1163
-    commentsToLikes: 0.054761
-    id: ckcur6oy2jl0o0j239x3i3oud
-    verified: false
-    hashtags: "#fyp, #xcybca, #foryou, #foryoupage"
-  - username: "ecologievintage"
-    fullname: >-
-      ecologievintage
-    bio: >-
-      Lovely little vintage and resale shop located in Kennesaw, Georgia 💞
-    location: "United States"
-    followers: 6190
-    engagement: 1388
-    commentsToLikes: 0.022738
-    id: ckdsqzy5xov1b0j235c2am2zy
-    verified: false
-    hashtags: "#vintagefashion, #kennesaw, #fashion, #vintage"
-  - username: "sameplate"
-    fullname: >-
-      SamePlate
-    bio: >-
-      A Sony Music Entertainment Record Label Everybody Eats
-    location: "United States"
-    followers: 4333
-    engagement: 641
-    commentsToLikes: 0.068980
-    id: ckbkxqetptsad0j23lz9jcnlw
-    verified: false
-    hashtags: "#foru, #tobi, #youngnudy, #viral"
+    hashtags: "#singer, #schaftok, #lgbtq, #fashion"
   - username: "ranen"
     fullname: >-
       Ranen 
     bio: >-
       atl. | 🇪🇹 main insta: @ranen_turner clothes: @discarded.atl
     location: "United States"
-    followers: 58200
-    engagement: 1984
-    commentsToLikes: 0.019557
+    followers: 58800
+    engagement: 1529
+    commentsToLikes: 0.018302
     id: ckd6m9j53gauv0j23xm6142rn
     verified: false
-    hashtags: "#fashion, #streetwear, #fitinspo, #style"
-  - username: "annamoraan"
+    hashtags: "#thrifted, #fashion, #style, #streetwear"
+  - username: "disaintready2luv_77"
     fullname: >-
-      Anna
+      DisAintReady2Luv_77
     bio: >-
-      ANNAzon hiiii lets be friends :)) 📧: jessica@telloconsult.com AMAZON SHOP⬇️
+      Ready To Love Season 2 Cast OwnTV NaijaBoy 🇳🇬 My Path Held No Punches...
     location: "United States"
-    followers: 1200000
-    engagement: 2642
-    commentsToLikes: 0.005232
-    id: ck9reo5n534q30j78haedbg7g
+    followers: 24000
+    engagement: 1803
+    commentsToLikes: 0.085867
+    id: ckbfdvofd7dtt0j23n8fjcg3u
     verified: false
-    hashtags: "#amazonfinds, #amazonfashion, #dayinthelife, #selfcare"
+    hashtags: "#naijaboy, #justakidfromchicago, #viral, #fyp"
+  - username: "iamashleyyyy._"
+    fullname: >-
+      𝙰𝚂𝙷𝙻𝙴𝚈 𝙼𝙰𝚁𝙸𝙴 ♡
+    bio: >-
+      50K? IG: @hiashyyy Twitter: @hiashyy passion FOR fashion 🧚🏾‍♀️ 📍 ATLANTA
+    location: "United States"
+    followers: 31900
+    engagement: 986
+    commentsToLikes: 0.035081
+    id: ckbeyumvfjki10j23uvbzaahl
+    verified: false
+    hashtags: "#ifeelweightless, #scene, #xyzcba, #destinationdepop"
+  - username: "jessijheavenly"
+    fullname: >-
+      JessijHeavenly
+    bio: >-
+      ✨Serial Entrepreneur & Baddie✨ www.HeavenlyHavenBoutique.com
+    location: "United States"
+    followers: 28500
+    engagement: 1278
+    commentsToLikes: 0.037752
+    id: ckcdkyk6l9jaf0j23mnohepgl
+    verified: false
+    hashtags: "#baecation, #baddie, #newarrivals, #atlanta"
   - username: "the_jimk"
     fullname: >-
       Jim Kelley
     bio: >-
       Actor, voice actor and action performer from Atlanta. Next goal: 25k 😈
     location: "United States"
-    followers: 11500
-    engagement: 1908
-    commentsToLikes: 0.059822
+    followers: 11600
+    engagement: 2069
+    commentsToLikes: 0.104330
     id: ck9e18m3d9kf30j78s2laxmvu
     verified: false
-    hashtags: "#duet, #collegegotmelike, #longboard, #comedy"
-  - username: "delrosario.adventures"
+    hashtags: "#fyp, #retro, #comedy, #love"
+  - username: "thearishj"
     fullname: >-
-      Melissa Jiménez
+      Arish Jamil
     bio: >-
-      Atlanta📍 Create your adventures 💖 TikTok travel group for girls on IG bio
+      📍Atlanta
     location: "United States"
-    followers: 90100
-    engagement: 1223
-    commentsToLikes: 0.025128
-    id: ck9nfahjfe6cf0j78y0b2yp0m
+    followers: 6542
+    engagement: 962
+    commentsToLikes: 0.068764
+    id: ckc30xyszrj750j2326r4ydkp
     verified: false
-    hashtags: "#euphoria, #duet, #colorcustomizer, #meadsquarry"
+    hashtags: "#desicomedy, #southasian, #brown, #bookclub"
+  - username: "cloverandbirch"
+    fullname: >-
+      cloverandbirch
+    bio: >-
+      Taylor | Owner | Woodworker | Mama Wooden Toys Made in Atlanta
+    location: "United States"
+    followers: 5082
+    engagement: 468
+    commentsToLikes: 0.056314
+    id: ckd6jlf78csuv0j2388nr28yo
+    verified: false
+    hashtags: "#smallbusinesscheck, #shopsmallbusinesses, #bestfriend, #fyp"
   - username: "therhensnesttoyshop"
     fullname: >-
       Rhen’s Nest Toy Shop
     bio: >-
       Purveyors of toys & fun in ATLANTA & SAVANNAH
     location: "United States"
-    followers: 292400
-    engagement: 557
-    commentsToLikes: 0.006918
+    followers: 297300
+    engagement: 545
+    commentsToLikes: 0.006608
     id: ckbwif860343z0j23k1doswo5
     verified: false
-    hashtags: "#savannahcitymarket, #toys, #sav, #pcm"
-  - username: "naturallycharity"
+    hashtags: "#rhensnesttoyshop, #unplugandplay, #atlanta, #downtown"
+  - username: "porchianicole"
     fullname: >-
-      naturallycharity
+      PorchiaNicole
     bio: >-
-      24♊️ Body positive💕 Queer🏳️‍🌈 black✊🏾 Just trying to make the gays happy😊
+      Fashion Dealer (SHOP)⤵️ ↪️www.hautekulture.com Subscribe “PorchiaNicole”
     location: "United States"
-    followers: 74500
-    engagement: 2183
-    commentsToLikes: 0.014120
-    id: ck9ekix1j6mzx0j78c6oax7b8
+    followers: 35100
+    engagement: 708
+    commentsToLikes: 0.019147
+    id: ckcjqnaepgw9n0j23nwyft5zf
     verified: false
-    hashtags: "#blacktiktok, #femmelesbian, #thickgirl, #lgbt"
+    hashtags: "#tictokfashion, #viral, #vibezone, #fashionedit"
 ---

@@ -1,120 +1,72 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Singapore in 2023
+title: Top 10 Architecture Instagram Influencers In Singapore In 2023
 description: >-
-  Find top architecture Instagram influencers in Singapore in 2023. Most popular hashtags: #architecture #singapore #travel #beautifuldestinations.
+  Find top architecture Instagram influencers in Singapore in 2023. Most popular hashtags: #architecture #singapore #design.
 platform: Instagram
-hits: 17
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database has 17 Instagram influencers like this in Singapore for you to collaborate.
+hits: 10
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 10 Instagram influencers like this in Singapore for you to connect with.
 profiles:
   - username: "sensorshift"
     fullname: >-
       Warren Liew | Singapore 🇸🇬
     bio: >-
-      📷| Olympus OM-D E-M1 Mark III Architecture | Landscapes | Travels
+      Architecture | Landscapes | Travels 📩DM or email for collab: sensorshift@gmail.com
     location: "Singapore"
-    followers: 4246
-    engagement: 1700
-    commentsToLikes: 0.063328
+    followers: 5202
+    engagement: 1513
+    commentsToLikes: 0.090198
     id: ck5chstwzref20i115spxmw5l
     verified: false
-    hashtags: "#stayhomeffa20, #jordhammondffa, #discoverasr, #shapesofhome"
+    hashtags: "#discoverasr, #shapesofhome, #vivox50e5g, #fasterthanfuture"
   - username: "k7scott"
     fullname: >-
       Kevin Scott
     bio: >-
       Architecture / Interiors / Concept
     location: "Singapore"
-    followers: 5881
-    engagement: 654
-    commentsToLikes: 0.030004
+    followers: 7103
+    engagement: 569
+    commentsToLikes: 0.023366
     id: ck6tuqskxhvcq0j71lsg91ber
     verified: false
     hashtags: ""
-  - username: "infinitepassport"
-    fullname: >-
-      Jessica Morales 🌙
-    bio: >-
-      Cebuana 🇵🇭/American 🇺🇸 Currently living in 🇯🇵 𝓬𝓲𝓽𝓲𝔃𝒆𝓷 𝓸𝒇 𝓽𝓱𝒆 𝔀𝓸𝓻𝓵𝓭🌏 ⠀⠀⠀ 📷 Sony A7III/📱IPhone 8/ Mavic Air
-    location: "Singapore"
-    followers: 5513
-    engagement: 1365
-    commentsToLikes: 0.058153
-    id: ck5zpz5vitmin0i14c3r48h08
-    verified: false
-    hashtags: "#girlswhotravel, #prettylittletrips, #igworldclub, #wearetravelgirls"
   - username: "momentos_sg"
     fullname: >-
-      Miguel
+      Miguel Vidal
     bio: >-
       🏠 🇸🇬 SG Sony A7R II Business : DM Prints ⬇️⬇️
     location: "Singapore"
-    followers: 54694
-    engagement: 210
-    commentsToLikes: 0.123832
+    followers: 66259
+    engagement: 153
+    commentsToLikes: 0.125041
     id: ck0w3kxh5txi90i19093lrrux
     verified: false
-    hashtags: "#designboom, #archilovers, #architecturedose, #tv"
-  - username: "simon.ong"
-    fullname: >-
-      Simon
-    bio: >-
-      Mobile Photography Singapore
-    location: "Singapore"
-    followers: 29029
-    engagement: 153
-    commentsToLikes: 0.039104
-    id: ckap2if98yz230i789apkw37u
-    verified: false
-    hashtags: "#structure, #hellofrom, #arquitecturamx, #jj"
+    hashtags: "#lookingup, #tv, #papodearquiteto, #sonyalpha"
   - username: "jlron"
     fullname: >-
       J R
     bio: >-
-      | artist • singapore 🇸🇬 • feel free to dm me | art + personal page • #jlyonart | thank you for following me : ) | psn/steam ≫ ukupon |
+      | artist • singapore 🇸🇬 • feel free to dm me | art + personal page • #jlyonart | thank you for following me : ) | |
     location: "Singapore"
-    followers: 16138
-    engagement: 402
-    commentsToLikes: 0.017909
+    followers: 16293
+    engagement: 425
+    commentsToLikes: 0.020355
     id: ck14kah2mokjn0i19kmtbsvk1
     verified: false
-    hashtags: "#artwork, #architecturedrawing, #japanarchitecture, #sketching"
-  - username: "highonmars"
-    fullname: >-
-      Aik Kai | Singapore 🇸🇬
-    bio: >-
-      For work 📩 Highonmars1@gmail.com 👾
-    location: "Singapore"
-    followers: 50868
-    engagement: 529
-    commentsToLikes: 0.028034
-    id: ck0w0s0lafr340i195ua338md
-    verified: false
-    hashtags: "#milliondollarvisuals, #living, #agameoftones, #hsdailyfeature"
+    hashtags: "#illust, #ink, #urbansketch, #alvindrafting"
   - username: "marzabophoto"
     fullname: >-
       TravelZabo
     bio: >-
       Snapshoter - only my own pictures Travel 🌏🛄 Sunsetlover..🌅 Aviationlover..✈✈ @1200mmf13 Favorites destination's UAE & Asia 🇦🇪🇲🇾🇹🇭🇻🇳🇯🇵 ✌
     location: "Singapore"
-    followers: 6510
-    engagement: 827
-    commentsToLikes: 0.015455
+    followers: 6483
+    engagement: 786
+    commentsToLikes: 0.015677
     id: ck13d83y845rj0i19z12hwq9x
     verified: false
-    hashtags: "#amazing, #uae, #mydubai, #ladigue"
-  - username: "crummbcakes"
-    fullname: >-
-      Crummb
-    bio: >-
-      ▫️Wedding cakes. ▫️Cake decorating tutorials. ▫️Quality tools designed by a cake artist. Free shipping worldwide.
-    location: "Singapore"
-    followers: 63743
-    engagement: 316
-    commentsToLikes: 0.022180
-    id: ck5qcc55opunr0i11rvw62kze
-    verified: false
-    hashtags: "#architecture, #sgweddingcake, #cakedesign, #moderncake"
+    hashtags: "#summer, #dubai, #krabi, #night"
   - username: "singaporetoday"
     fullname: >-
       @SINGAPORETODAY Singapore
@@ -126,5 +78,53 @@ profiles:
     commentsToLikes: 0.008956
     id: ck15rqasz95qk0i19z41lpgek
     verified: false
-    hashtags: "#stayhealthy, #travel, #hotel, #instagram"
+    hashtags: "#marinabaysands, #stayhealthy, #architecture, #singapore"
+  - username: "zippyzipeng"
+    fullname: >-
+      李枳燊
+    bio: >-
+      +65/+60 🚹 In search of good food & exploring unique spaces Food acc : @zippyfoodtrail zipeng.lee@hotmail.com
+    location: "Singapore"
+    followers: 82376
+    engagement: 128
+    commentsToLikes: 0.059396
+    id: ck0twgrbefb200i197vu7r3eu
+    verified: false
+    hashtags: "#aesthetictones, #singaporeworld, #earthfocus, #singaporecafe"
+  - username: "blackmobil"
+    fullname: >-
+      Leslie Heng
+    bio: >-
+      Singapore + Travels 🌐 blackmobil.sg Prints available ⤵️
+    location: "Singapore"
+    followers: 61817
+    engagement: 152
+    commentsToLikes: 0.042453
+    id: ck5cgl14mp22o0i115mglugkl
+    verified: false
+    hashtags: "#passionmadepossible, #hellofrom, #sgartweek, #arttakesover"
+  - username: "mysquiggles"
+    fullname: >-
+      Alena Kudriashova
+    bio: >-
+      My sketchbooks, interior design and the life in between 📍Based in Singapore
+    location: "Singapore"
+    followers: 58295
+    engagement: 166
+    commentsToLikes: 0.017626
+    id: ck13cpb431hzq0i19z9teez1i
+    verified: false
+    hashtags: "#singapore, #watercolor, #artbook, #sketchbook"
+  - username: "arsitekturpedia.id"
+    fullname: >-
+      ARSITEKTURPEDIA™
+    bio: >-
+      ©Archief Group • A space to grow into an Architect and Designer • Kontak Bisnis ⬇ 📩 E-mail // arsitekturpedia@gmail.com 📱 Line // @ayk4204x 📮 DM
+    location: "Singapore"
+    followers: 126061
+    engagement: 253
+    commentsToLikes: 0.010286
+    id: ck15rcidw78oz0i19l6urevqa
+    verified: false
+    hashtags: "#infodunia, #arsitektur, #arsitekjakarta, #tokoharsitek"
 ---

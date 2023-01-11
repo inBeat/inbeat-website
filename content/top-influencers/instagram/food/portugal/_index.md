@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Portugal in 2023
+title: Top 10 Food Instagram Influencers In Portugal In 2023
 description: >-
-  Find top food Instagram influencers in Portugal in 2023. Most popular hashtags: #summer #ad #autumn #love.
+  Find top food Instagram influencers in Portugal in 2023. Most popular hashtags: #portugal #instagood #foodie.
 platform: Instagram
-hits: 112
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 112 Instagram influencers like this in Portugal for you to contact.
+hits: 59
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 59 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "miss_tet"
+  - username: "tothepointenutrition"
     fullname: >-
-      Teresa Lemos
+      Dance Nutritionist Rachel Fine
     bio: >-
-      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
+      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
     location: "Portugal"
-    followers: 27624
-    engagement: 2192
-    commentsToLikes: 0.114470
-    id: ck55oexap88090i11kxq4k55q
+    followers: 37160
+    engagement: 204
+    commentsToLikes: 0.012168
+    id: ck6tkfn344lx00j714kteow87
     verified: false
-    hashtags: "#sunnyday, #summer, #smile, #alegria"
-  - username: "inesdsimao"
+    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
+  - username: "rafaelaalexandra0"
     fullname: >-
-      Hey, it’s Inês
+      Rafaela Duarte | Healthy 💫
     bio: >-
-      Travel & Food Enthusiast 🗺 (off to see the world) All Disney parks in the 🌏: check!! 📍Lisbon (home)
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
     location: "Portugal"
-    followers: 12135
-    engagement: 859
-    commentsToLikes: 0.309347
-    id: ck14iqxnmgs420i19np23l7do
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
     verified: false
-    hashtags: "#pub, #bekind, #soubekind, #21dayskind"
-  - username: "thetolerantcook"
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
+  - username: "sea3p0"
     fullname: >-
-      Kristína Suchánková
+      s e a
     bio: >-
-      mom of a boy and one little babygirl | foodblogger | content creator | foodphoto | recipes for food intolerances | kristina.tomekova@gmail.com
+      I just really like anime and food🤤💖 📧 @notable.pt 👇👼🏼YOUTUBE👼🏼👇
     location: "Portugal"
-    followers: 16058
-    engagement: 707
-    commentsToLikes: 0.060812
-    id: ck15texg7hqu50i19oxcr63nh
-    verified: false
-    hashtags: "#slovakia, #mojezahrada, #bezlepku, #zastolom"
-  - username: "jmigsimoes"
+    followers: 376974
+    engagement: 301
+    commentsToLikes: 0.008954
+    id: ck8t2x3uu110h0j78fihlmp31
+    verified: true
+    hashtags: "#parceria"
+  - username: "claudiadias.oficial"
     fullname: >-
-      João Miguel Simões
+      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
     bio: >-
-      Creative Consultant & Content Creator (social media) | Based in Lisbon | Founder #addressbookbyjms | travel • food • design • menswear • arch
+      💃🏽25| Lifestyle| Dancer | food lover Represented by @milenar_influence_media 💌claudia.dias@milenarmedia.pt 🎥Youtube Channel:Claudia Dias
     location: "Portugal"
-    followers: 93217
-    engagement: 243
-    commentsToLikes: 0.086316
-    id: ck5zzn4bvc1rj0i1453awqb62
+    followers: 42189
+    engagement: 772
+    commentsToLikes: 0.005703
+    id: ck13bn882w8ri0i19lsl0rjse
     verified: false
-    hashtags: "#ad, #huawei, #appgallery, #huaweixtomtom"
-  - username: "diannamoraru"
+    hashtags: "#day3, #cookingwithclaudia, #pub, #ograndegorrinho"
+  - username: "gabriellaspbrooks"
     fullname: >-
-      Diana Moraru
+      Gabriella Brooks
     bio: >-
-      🩺5/6 Medical student UMFCD 💪🏻42% Reducere Myprotein: DIANAMYP 🥞 Reducere Foodkit: DIANA5 ⬇️ LINK REDUCERE ⬇️ 🏋🏻‍♀️Certified PT & Nutritionist👩🏻‍⚕️
+      🇦🇺🇵🇹🇧🇪 Foodie @nxt.management Brands & Digital: lara@next.pt
     location: "Portugal"
-    followers: 23206
-    engagement: 1319
-    commentsToLikes: 0.019390
-    id: ck138jpkogk4u0i198acu6c8s
+    followers: 10344
+    engagement: 362
+    commentsToLikes: 0.046466
+    id: ck5c38a9hys8a0i11wx17zhik
     verified: false
-    hashtags: "#succes, #igmoldova, #ig, #retete"
-  - username: "rafinhaaaaa"
-    fullname: >-
-      Rafinhaaaaa ✌🏽
-    bio: >-
-      Hey You! In love w/ my Frenchies🤍 Storyteller | Lifestyle | Business & Brands Travel | Culture | Tv | Food
-    location: "Portugal"
-    followers: 6489
-    engagement: 1090
-    commentsToLikes: 0.082579
-    id: ckaotdwnzvi7z0i78eazacr6i
-    verified: false
-    hashtags: "#nice, #photographer, #blogger, #happy"
-  - username: "guga_blog"
-    fullname: >-
-      Guga || Lifestyle
-    bio: >-
-      Rui Almeida 📍Based in Portugal 🇵🇹 Content creator/Lifestyle/Fashion /Travel & Food
-    location: "Portugal"
-    followers: 16725
-    engagement: 309
-    commentsToLikes: 0.064420
-    id: ck55k2pjsybg90i11yg0tqwzh
-    verified: false
-    hashtags: "#men, #fashionistas, #fashionblogger, #menstreetstyle"
+    hashtags: "#dessertbae, #foodie, #hungrylittlemuffin, #stayathome"
   - username: "golden.nico"
     fullname: >-
       𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
     bio: >-
-      Foodie and everything in between 😛 Fashion and Makeup lover 💄💋 Graphic designer 👩‍🎨 Wanna Collab? Dm me! 🇧🇴 🇺🇸 🌎 Spanish • English • Portuguese.
+      Foodie and everything in between 😛 Fashion and Makeup lover 💄💋 Graphic designer 👩‍🎨 Spanish • English • Portuguese.
     location: "Portugal"
-    followers: 13967
-    engagement: 540
-    commentsToLikes: 0.053796
+    followers: 14070
+    engagement: 291
+    commentsToLikes: 0.028862
     id: ck6ucvcowhold0j71e8oo86f3
     verified: false
-    hashtags: "#makeup, #bolivia, #halloween, #yanbalbo"
-  - username: "horis_surya_golden"
+    hashtags: "#reels, #lookyanbal, #yanbal, #makeup"
+  - username: "ifatchencohen"
     fullname: >-
-      🐾 Horis & Surya 🐾💕
+      Travel Blogger & Photographer
     bio: >-
-      Twins. Golden Retriever 📍Portugal 🇵🇹 🐣|09.03.17 🏷 @delnatural.pt 5% DELHOR&SUR5 🏷 @natural.meow 10% HORIS10 🌱Foodlovers and Beachaholics 🌱#sury_horis
+      Travel Blogger. Hotel reviewer. Foodie. Currently in: Tel-Aviv 🍹 Collab 📧 ifati.oui@gmail.com For travel inspiration 👇
     location: "Portugal"
-    followers: 6766
-    engagement: 1396
-    commentsToLikes: 0.160460
-    id: ckaox121ebapo0i78pgnh0sr9
+    followers: 81362
+    engagement: 290
+    commentsToLikes: 0.338856
+    id: ck8t34plt1upb0j78sdvo6git
     verified: false
-    hashtags: "#pups, #goldenretrievers, #dogoftheday, #mydogiscutest"
-  - username: "belle_azzure"
+    hashtags: "#pride2021, #surprisedbynature"
+  - username: "serenafarruggio.it"
     fullname: >-
-      B E L L E    A Z Z U R E
+      Serena Farruggio
     bio: >-
-      Speaker & Digital Marketer @Google Positivity🧡 Wellness💙 Fitness, Food & Travel 🌎 2021 Bride🤞🏽💍 @thecollaborationsagency 💌belleazzureblog@gmail.com
+      🎀 Allenamenti personalizzati al femminile 🏋🏻‍♀️ Co-founder & PT @bootyshapepts 🚴🏻‍♀️ Ambassador @thorobicycles 🍝 Food lover
     location: "Portugal"
-    followers: 43966
-    engagement: 421
-    commentsToLikes: 0.059133
-    id: ckap5mij9cbxe0i78crp87bo9
+    followers: 12491
+    engagement: 391
+    commentsToLikes: 0.022757
+    id: ck8t32p631max0j78czhltiak
     verified: false
-    hashtags: "#staycation, #irish, #summer, #travel"
+    hashtags: "#fitness, #training, #committobebootyshape, #lampedusa"
+  - username: "weekendlovers_pt"
+    fullname: >-
+      Weekend Lovers
+    bio: >-
+      An instablog about our family enjoying life! 👨‍👩‍👧 Family • Love • Travel & Food Lovers 📍Lisboa 🇵🇹 📩 weekendlovers.pt@gmail.com
+    location: "Portugal"
+    followers: 30538
+    engagement: 400
+    commentsToLikes: 0.084625
+    id: ck5zlo196l2x60i143zwvhqic
+    verified: false
+    hashtags: "#staysafe, #travel, #portugal, #river"
+  - username: "michal_officiel"
+    fullname: >-
+      Michal Kwiatkowski
+    bio: >-
+      #music #food #love #sport
+    location: "Portugal"
+    followers: 59510
+    engagement: 218
+    commentsToLikes: 0.021899
+    id: ck8t99lrjnbb50j78rrtu4t2i
+    verified: true
+    hashtags: "#bixentesimonet, #vacances, #throwbackthursday, #menstyle"
 ---

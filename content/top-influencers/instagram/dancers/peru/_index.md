@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Peru in 2023
+title: Top 10 Dancers Instagram Influencers In Peru In 2023
 description: >-
-  Find top dancers Instagram influencers in Peru in 2023. Most popular hashtags: #dance #reggaeton #dancer #love.
+  Find top dancers Instagram influencers in Peru in 2023. Most popular hashtags: #reggaeton #rauwalejandro #lennytavarez.
 platform: Instagram
-hits: 41
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 41 Instagram influencers like this in Peru for you to contact.
+hits: 49
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 49 Instagram influencers like this in Peru for you to contact.
 profiles:
-  - username: "maricieloeffio"
+  - username: "muharruda"
     fullname: >-
-      Maricielo Effio
+      ⭐️ MAX  MUH ⭐️
     bio: >-
-      💜 Mama de Brissa 🎭Actriz Peru 🇵🇪 👉🏼Fanny en #DeVueltaAlBarrio📺 @americatelevision 💃Dancer 👼Ex paquita
+      ‣ Asista al Reels y baile conmigo 🎥🕺🏽 ‣ Cantante / Dancer @zumba ‣ #NewSong Surra de Bumbum ‣ Embajador: @proyectafitchile ‣ Entre en el link 👇🏽
     location: "Peru"
-    followers: 421511
-    engagement: 341
-    commentsToLikes: 0.037728
-    id: ck5bwfpzflm6s0i11qjclpbt8
-    verified: false
-    hashtags: "#quedateencasa, #cuarentena, #fanny, #dancing"
+    followers: 61356
+    engagement: 114
+    commentsToLikes: 0.076662
+    id: ck0w37lh1rzg50i19be9dmj75
+    verified: true
+    hashtags: "#zumbachoreo, #zumbacommunity, #zumba, #zumbachileoficial"
   - username: "jobstarqueen"
     fullname: >-
-      JOBSTAR
+      JOBITA
     bio: >-
       Make up artist. Drag performance. Gogo dancer. Cantante. Artista independiente.
     location: "Peru"
-    followers: 44582
-    engagement: 787
-    commentsToLikes: 0.013356
+    followers: 47212
+    engagement: 619
+    commentsToLikes: 0.013033
     id: ckaoxzsy8fgkp0i7828mfnsv1
     verified: false
-    hashtags: "#welovedrag, #instadragqueen, #halloweenmakeup, #dragperfection"
-  - username: "ampipenia"
+    hashtags: "#dragqueen, #dragworld, #instadrag, #llegotujobita"
+  - username: "astridcamacho.f"
     fullname: >-
-      Amparo Peña
+      ASTREET C ☯
     bio: >-
-      🇦🇷 / dancer @cazzu / Clases presenciales @proyectodanceba @vibradancestudio @laestaciondedanza
+      Professional dancer 📍 Lima, Perú 🇵🇪 ☯️ @yinyangcrewperu 🏠 @d1asociacioncultural 🌎 @alianzstreet 👑 @sisterhood.peru @gileate.astrid ⬇️
     location: "Peru"
-    followers: 47047
-    engagement: 771
-    commentsToLikes: 0.021550
-    id: ck6tvhg4km9250j71dbaw2bqh
+    followers: 15447
+    engagement: 765
+    commentsToLikes: 0.044939
+    id: ck5zrc5o5wb3y0i14okxut8pc
     verified: false
-    hashtags: "#gimmemore, #samanthalong, #heels, #dance"
+    hashtags: "#coreografia, #look, #hiphop, #freestyle"
   - username: "andrearondonb"
     fullname: >-
       A N D R E A    R O N D O N
     bio: >-
-      📍Lima | PERÚ Dancer ❤️ 🇯🇲 ᗪ A N C E H A L L Clases Online por @andreadhonline 🇯🇲 ✨IM SHEER✨
+      📍Lima | PERÚ Dancer ❤️ 🇯🇲 ᗪ A N C E H A L L ✨IM SHEER✨ 🦅 Badyardie 😳 GRUPOS SOLOS:
     location: "Peru"
-    followers: 3748
-    engagement: 1081
-    commentsToLikes: 0.211602
+    followers: 3972
+    engagement: 956
+    commentsToLikes: 0.146797
     id: ck6u1e1m7l6k90j71lhk910ao
     verified: false
-    hashtags: "#dancehallsteps, #dancer, #dancehallperu, #reggaeton"
-  - username: "maggio_choreographer"
+    hashtags: "#reggaetonantiguo, #dancehall, #dancehallclass, #dancehallsteps"
+  - username: "ampipenia"
     fullname: >-
-      🇵🇪WillianMaggioOFICIAL 🇮🇹
+      Amparo Peña
     bio: >-
-      👑COREÓGRAFO de artistas 👑coreógrafo: @yahairaplasencia 👑Modelo 👑Maestro/dancer @latina.pe 👑influencer @balboni_store 👑Contratos :+51927242455
+      / dancer @cazzu / bailarina, actriz y cantante
     location: "Peru"
-    followers: 28334
-    engagement: 176
-    commentsToLikes: 0.063704
-    id: ckap65nxtei620i787dx6v104
+    followers: 52780
+    engagement: 595
+    commentsToLikes: 0.015944
+    id: ck6tvhg4km9250j71dbaw2bqh
     verified: false
-    hashtags: "#peru, #guachineo, #parati, #foryou"
-  - username: "brendanavarreteofficial"
+    hashtags: "#reggeatondeantes, #tansolo, #hastaabajochallenge, #latidos"
+  - username: "iamfatou_matou"
     fullname: >-
-      Brenda Navarrete
+      Fatoumata Camara
     bio: >-
-      Brenda Navarrete Artista,Músico,Percusión/Cantante/Compositor/Productor/Dancer/Profesor-Música www.brendanavarrete.com Curso #afroinspiración
+      📍Berlin 💃🏾 Dancer | Coach | Choreographer Adriana Lima I Sean Paul | Shirin David I Meghan Trainior | Zara Larsson | Seeed I Helene Fischer | etc.. .
     location: "Peru"
-    followers: 17365
-    engagement: 504
-    commentsToLikes: 0.120436
-    id: ckf5no3k3yy1o0j23xil7ra65
+    followers: 7203
+    engagement: 1251
+    commentsToLikes: 0.057427
+    id: ck5bxn2pdo1040i11ozbcpnjw
     verified: false
-    hashtags: "#afrolatina, #cuba, #music, #brendanavarrete"
+    hashtags: "#flyingstepsacademy, #dowhatyoulove, #fatoucamarachoreo, #thepynkbash"
   - username: "abelrdc"
     fullname: >-
       Abel Rdc
     bio: >-
-      Dancer / Choreographer Perú 🇵🇪 #vibes 🎭🎙
+      Dancer / Choreographer Perú 🇵🇪 🎭🎙 #lovewhatyoudo
     location: "Peru"
-    followers: 6148
-    engagement: 1130
-    commentsToLikes: 0.057003
+    followers: 7145
+    engagement: 1177
+    commentsToLikes: 0.057735
     id: ck15ths6ki54f0i19z875jbz8
     verified: false
-    hashtags: "#lima, #peru, #challenge, #limaperu"
-  - username: "edysong4"
-    fullname: >-
-      E D Y  S A N C H E Z 🎵
-    bio: >-
-      Dancer | Choreographer 🎶 I'm grateful to God 🙌🏼
-    location: "Peru"
-    followers: 36731
-    engagement: 700
-    commentsToLikes: 0.026575
-    id: ck5bx4bt9mz710i11vlk6ieiy
-    verified: false
-    hashtags: "#class, #maluma, #jowellyrandy, #jowell"
-  - username: "amerikaoz19"
-    fullname: >-
-      America Orihuela
-    bio: >-
-      Choreographer and urban dancer. Lima -Peru 🇵🇪 *RICHGIRL$💖 Teacher in "EBAC ,soulful ,Backstage ,betesda" 🔥 Link: clase HOLA zion y lenox
-    location: "Peru"
-    followers: 18207
-    engagement: 604
-    commentsToLikes: 0.059066
-    id: ck6u1e06vl69t0j719nibxlzi
-    verified: false
-    hashtags: "#laprotagonista, #cuarentena, #americaorihuela, #tbt"
+    hashtags: "#latino, #limaperu, #camilo, #reggaeton"
   - username: "angelocaceres.z"
     fullname: >-
       🦁 ANGELO CACERES 🦁
     bio: >-
-      DANCER | COREOGRAPHER | D1| BAILARIN. CREDITS: LENNY TVRZ / YANDEL/ MIKE BAHIA/ ALEXIS&FIDO/ FARRUKO/ JOWELL&RANDY/ SBYATRA/ DON OMAR. 🇵🇪 | ✈🇦🇷 | ✈🇺🇾
+      Artist | dancer | coreographer | CREDITS: LENNY TVRZ / YANDEL/ MIKE BAHIA/ ALEXIS&FIDO/ FARRUKO/ JOWELL&RANDY/ SBYATRA/ DON OMAR. 🇵🇪 | ✈🇦🇷 | ✈🇺🇾
     location: "Peru"
-    followers: 4165
-    engagement: 823
-    commentsToLikes: 0.065966
+    followers: 5917
+    engagement: 895
+    commentsToLikes: 0.049471
     id: ck6u7fcm6l6l40j714bcmi918
     verified: false
-    hashtags: "#daddyyankee, #reggaeton, #angelocaceres, #guiador"
+    hashtags: "#sech, #viral, #angelocaceres, #reggaeton"
+  - username: "edysong4"
+    fullname: >-
+      E D Y  S A N C H E Z 🐰
+    bio: >-
+      Dancer | Choreographer 🇵🇪 🌎 I'm grateful to God 🙌🏼
+    location: "Peru"
+    followers: 38559
+    engagement: 835
+    commentsToLikes: 0.040010
+    id: ck5bx4bt9mz710i11vlk6ieiy
+    verified: false
+    hashtags: "#looneychallenge, #mexico, #reggaeton, #rauwalejandro"
+  - username: "maggio_choreographer"
+    fullname: >-
+      🇵🇪WillianMaggioOFICIAL 🇮🇹
+    bio: >-
+      👑COREÓGRAFO de artistas 👑coreógrafo: @yahairaplasencia / @soydiegovillaran 👑Maestro/dancer @latina.pe 👑embajador @xceljeans 👑Contratos:+51927242455
+    location: "Peru"
+    followers: 29438
+    engagement: 136
+    commentsToLikes: 0.038491
+    id: ckap65nxtei620i787dx6v104
+    verified: false
+    hashtags: "#womanizer, #maldades, #shorcitonegrochallenge, #shortcitochallenge"
 ---

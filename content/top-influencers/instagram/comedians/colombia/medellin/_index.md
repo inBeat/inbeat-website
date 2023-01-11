@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Medellín in 2023
+title: Top 10 Comedians Instagram Influencers In Medellín In 2023
 description: >-
-  Find top comedians Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #comedia #humor #colombia.
+  Find top comedians Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #humor #comedia #cali.
 platform: Instagram
-hits: 43
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 43 Instagram influencers like this in Medellín, Colombia for you to pitch.
+hits: 30
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 30 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
   - username: "jhulian_oficial"
     fullname: >-
       JHULIAN
     bio: >-
-      Cali Or Nah ⬇️⌛️ 24 De Mayo
+      📌@publisonido.pro 📌@sonpatacon
     location: "Colombia"
-    followers: 3138
-    engagement: 807
-    commentsToLikes: 0.144731
+    followers: 2939
+    engagement: 876
+    commentsToLikes: 0.135825
     id: ck5zkns0vjtf00i140pm7er67
     verified: false
-    hashtags: "#freestyle, #estyle, #photo, #medellin"
+    hashtags: "#medellin, #cali, #colombia, #music"
+  - username: "jhonier_largo"
+    fullname: >-
+      jhonier🎩
+    bio: >-
+      Cali,colombia 🇨🇴
+    location: "Colombia"
+    followers: 4636
+    engagement: 2033
+    commentsToLikes: 0.087439
+    id: ck5qc4h5fot810i11mptnlils
+    verified: false
+    hashtags: "#viral, #meme, #novia, #amigos"
+  - username: "valencijunior"
+    fullname: >-
+      VALENCI
+    bio: >-
+      Bregando como se debe bregar. 🏌🏾‍♂️ Publicidad: 3185513908 (esa vaina no es mía)
+    location: "Colombia"
+    followers: 42114
+    engagement: 1457
+    commentsToLikes: 0.023207
+    id: ckapaxzilxw540i78oovby8ef
+    verified: false
+    hashtags: ""
+  - username: "estebananayaa"
+    fullname: >-
+      Esteban Anaya🌴
+    bio: >-
+      🏝Santa Marta Pal Mundo🌴
+    location: "Colombia"
+    followers: 31219
+    engagement: 121
+    commentsToLikes: 0.069350
+    id: ck0u0kfieu3fv0i19xca5fqc1
+    verified: false
+    hashtags: "#santamarta, #barranquilla, #risa, #humor"
   - username: "jormeloo_"
     fullname: >-
       JORMAN | EL JORMELOO
     bio: >-
       🇨🇴 B/Quilla📍. ¡CREADOR DE CONTENIDO! Diviértete conmigo, mira mis vídeos😂👌. . Publicidad: +57 3005267609 'O' DM 📥⚡️ . #siempremelosconeljormeloo
     location: "Colombia"
-    followers: 36937
-    engagement: 1491
-    commentsToLikes: 0.034967
+    followers: 35324
+    engagement: 1545
+    commentsToLikes: 0.035056
     id: ck0u0kezzu3em0i196ibdm53i
     verified: false
-    hashtags: "#humor, #quedateencasa, #humorcolombiano, #feliz"
-  - username: "zacmorriss_"
+    hashtags: "#estamosmelos, #barranquilla, #siempremelosconeljormeloo, #humor"
+  - username: "jhonsito_official"
     fullname: >-
-      Zac Morris
+      “EL JHONSITOO”🎥 🇨🇴
     bio: >-
-      🇺🇸➡️🇨🇴➡️🌎 Let’s go to Colombia ➡️ @adventure_better Pra português➡️ @zacfala Learn more⬇️
+      ●Cali-Colombia🇨🇴 ●A Dreamer Boy🔥 ●Publicidad Al DM📲 ●Suscribanse A Mi Canal De Youtube👇👇
     location: "Colombia"
-    followers: 582288
-    engagement: 717
-    commentsToLikes: 0.028423
-    id: ck8syjqubl0x90j784elg1sdt
-    verified: true
-    hashtags: "#english, #espa, #risa, #comida"
-  - username: "marcolassoml"
-    fullname: >-
-      Marco Lasso ML
-    bio: >-
-      📬infomarcolassoml@gmail.com📥 @conectadosdigital @conectadosaudiovisual 👇🏽Video: una casa para mi madre 🙏🏽❤️👇🏽
-    location: "Colombia"
-    followers: 365307
-    engagement: 137
-    commentsToLikes: 0.027887
-    id: ck5ci7weos6kr0i11ctgqwd1c
-    verified: true
-    hashtags: "#comedia, #suanfonson, #medellin, #calicolombia"
-  - username: "_camilovalenciaa"
-    fullname: >-
-      CAMILO⚡️
-    bio: >-
-      🇨🇴|QUE LA QUE AYY 🎥|Tik Tok (+160k) 👕|MARCA: @raystore_clothes 🙏🏼LO QUE DIOS BENDICE,NO LO MALDICE NADIE #medellin #colombia
-    location: "Colombia"
-    followers: 146768
-    engagement: 298
-    commentsToLikes: 0.081555
-    id: ck5ch3vmoq2bx0i11p754vrge
+    followers: 5080
+    engagement: 413
+    commentsToLikes: 0.135502
+    id: ck8t3x1jk4srs0j78spng5nxu
     verified: false
-    hashtags: "#bromas, #humor, #medellin, #medellincolombia"
-  - username: "alejandrocubillan1"
-    fullname: >-
-      𝐀𝐥𝐞𝐣𝐚𝐧𝐝𝐫𝐨 𝐂𝐮𝐛𝐢𝐥𝐥𝐚𝐧
-    bio: >-
-      🔥Hola amigos Espero disfruten mis fotos y videos 😅 🐦Twitter: alejandrocubi1 👇🏻Suscribete a mi canal en youtube 🖤👇🏻
-    location: "Colombia"
-    followers: 30572
-    engagement: 194
-    commentsToLikes: 0.036411
-    id: ckap422qo5i610i788gmyh0c1
-    verified: false
-    hashtags: "#boys, #gayboy, #chicos, #piscina"
-  - username: "eltrigueno__"
-    fullname: >-
-      El Trigueño 👑
-    bio: >-
-      Bienvenido al TENDERETE😂 Publicidad 📩 Cuenta personal @csar_amaya Embajador @nasastorecolombia J/Ibirico🇭🇺Becerril🇳🇬Valledupar🇳🇱
-    location: "Colombia"
-    followers: 27213
-    engagement: 1088
-    commentsToLikes: 0.049728
-    id: ck6u832b6p5hh0j71q27f21xv
-    verified: false
-    hashtags: "#santamarta, #fotografia, #risas, #medellin"
-  - username: "elcoyote__"
-    fullname: >-
-      El coyote🐰
-    bio: >-
-      📍 Pereira.🇨🇴 Para publicidad, DM.📥 Creador de contenido digital.📸🔮
-    location: "Colombia"
-    followers: 10092
-    engagement: 1037
-    commentsToLikes: 0.216291
-    id: ck5ch4mqjq3l90i11olh31a08
-    verified: false
-    hashtags: "#pereira, #comedia, #humor, #bogota"
-  - username: "elgutyy_"
-    fullname: >-
-      GUTY🌩
-    bio: >-
-      •SEGUNDA CUENTA: @soygutyy •Suéñalo y créalo🙌🏼 🪐 •TikTok: elgutyy 😂🔥 (+1.3M )🔝⚡️ •📥: soysantigutierrez@gmail.com REP: @trendsetters.ok
-    location: "Colombia"
-    followers: 29473
-    engagement: 1243
-    commentsToLikes: 0.018647
-    id: ck9hcvkq8n5ha0j78itnonobc
-    verified: false
-    hashtags: "#medellin, #papa, #tiktok, #comedia"
+    hashtags: "#risas, #momossad, #momos, #momazo"
   - username: "brayan_sanchezm"
     fullname: >-
-      BRAYAN SÁNCHEZ🍍
+      BRAYAN SÁNCHEZ
     bio: >-
-      🎥𝗧𝗶𝗸𝗧𝗼𝗸: brayan_sanchezm “Desde pequeño fui un tipo con buena suerte, naci justo el dia de mi cumpleaños” xd 📩brayansanchezinfo@gmail.com
+      🤪”Mi vida es una comedia” TikTok: @brayan_sanchezm |160k| 📨Contacto: brayansanchezinfo@gmail.com Mi canal de YouTube👇🏻
     location: "Colombia"
-    followers: 25336
-    engagement: 242
-    commentsToLikes: 0.074208
+    followers: 31773
+    engagement: 545
+    commentsToLikes: 0.040293
     id: ck9whibbdxzhx0j78q9yb9ntn
     verified: false
-    hashtags: "#colombia, #medellin, #pereira, #humor"
+    hashtags: "#humor, #comedia, #brayansanchez, #colombia"
+  - username: "la_guaracha_official"
+    fullname: >-
+      La Guaracha Official
+    bio: >-
+      Meta 50k 🔜 By:@camilovalenciatrg @jhonosorio22
+    location: "Colombia"
+    followers: 32810
+    engagement: 477
+    commentsToLikes: 0.015718
+    id: ck8t0zby6tw3f0j78aor5xt3u
+    verified: false
+    hashtags: "#guaracha, #cuarentena, #bogot, #risas"
+  - username: "crispasquel"
+    fullname: >-
+      Cristian Pasquel
+    bio: >-
+      •Host de TV 📺 y eventos Creador de contenido digital
+    location: "Colombia"
+    followers: 108525
+    engagement: 180
+    commentsToLikes: 0.032840
+    id: ck8sxy3mqj3070j78aoa9xlk5
+    verified: false
+    hashtags: "#cali, #medellin, #colombia, #humor"
+  - username: "gendri_portillo"
+    fullname: >-
+      gendri portillo🔵
+    bio: >-
+      SIGUEME misión hacerte REIR 🎥😬/CREADOR DE VIDEOS🎥 (Locutor) 🤣HUMOR VENEZOLANO PARA EL MUNDO🇨🇴MEDELLÍN 😎/ COMUNICADOR🇻🇪 publicidad aqui 🌍 / telegram👇
+    location: "Colombia"
+    followers: 23498
+    engagement: 109
+    commentsToLikes: 0.107392
+    id: ck6u9mxndygdq0j71zb5chvu4
+    verified: false
+    hashtags: "#tbt, #venzolanosensantiago, #pty, #venezolanosporelmundo"
 ---

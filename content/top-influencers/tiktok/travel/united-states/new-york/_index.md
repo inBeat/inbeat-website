@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In New York in 2023
+title: Top 10 Travel TikTok Influencers In New York In 2023
 description: >-
-  Find top travel TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #nyc #travel.
+  Find top travel TikTok influencers in New York in 2023. Most popular hashtags: #travel #nyc #fyp #newyork.
 platform: TikTok
-hits: 223
+hits: 215
 text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 223 TikTok influencers like this in New York, United States for you to connect with.
+text_bottom: Our platform has 215 TikTok influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "tyseemarie"
+  - username: "sarhodgson"
     fullname: >-
-      Chloe Steve
+      Sarah Hodgson
     bio: >-
-      I post way more on IG & YOUTUBE 🌸 Come say hiiiiiii New vid out! 👙🤍
+      nyc co-host of @cryinginpublicpodcast ig: @sar.hodgson
     location: "United States"
-    followers: 69100
-    engagement: 689
-    commentsToLikes: 0.033381
-    id: ck9dyej4qwz2a0j78oggtajqt
+    followers: 195200
+    engagement: 1239
+    commentsToLikes: 0.012266
+    id: ckd6gsbyx93qz0j23gtzk71z2
     verified: false
-    hashtags: "#outfitideas, #fyp, #colorselector, #nyccheck"
-  - username: "_______jake_________"
+    hashtags: "#drinks, #viral, #eat, #view"
+  - username: "lorilynng"
     fullname: >-
-      J
+      Lori Lynn
     bio: >-
-      Travel Page🏝
+      ❤️5 grown Sons ❤️Hubby 🇺🇸 Proud Army Momma 🇺🇸 Mimi to 6 FAMILY
     location: "United States"
-    followers: 6955
-    engagement: 214
-    commentsToLikes: 0.059575
-    id: ckb9kq8tictr60j2362ds6k7t
+    followers: 4492
+    engagement: 1189
+    commentsToLikes: 0.040139
+    id: ckbff5cf59pd10j23uj01mvjp
     verified: false
-    hashtags: "#hiking, #foryou, #biden2020, #election2020"
-  - username: "nyctraveller"
+    hashtags: "#love, #shorkie, #puppy, #georgia"
+  - username: "sfclimber"
     fullname: >-
-      NYC and beyond
+      Val
     bio: >-
-      New York and so much more ✅
+      SF, 🌫 KarlTheFog
     location: "United States"
-    followers: 186200
-    engagement: 681
-    commentsToLikes: 0.036800
-    id: ck7zp9vcso7gk0j78tvjx7c7t
+    followers: 4365
+    engagement: 498
+    commentsToLikes: 0.048827
+    id: ckd0sst8tj1bq0j23w7skzsw2
     verified: false
-    hashtags: "#art, #pa, #manhattan, #whatisthat"
-  - username: "lionelchambers"
+    hashtags: "#realestate, #bayarea, #california, #ca"
+  - username: "fashiontravelrepeat"
     fullname: >-
-      Lionel Chambers
+      Vicki Rutwind
     bio: >-
-      YouTube: Lionel Chambers
+      NYC 🗽+ AZ 🌵 + Travel Tips Follow puppy @louie_poochon + @influencerguide
     location: "United States"
-    followers: 197000
-    engagement: 1288
-    commentsToLikes: 0.024333
-    id: ck9fiay519vjx0j78l0zmx4bj
+    followers: 39400
+    engagement: 907
+    commentsToLikes: 0.051682
+    id: ck92tyobxjy380j783j9esfdv
     verified: false
-    hashtags: "#cornell, #surprise, #fyp, #readysetgo"
-  - username: "emilyxinfinity"
+    hashtags: "#nyc, #nyccoffee, #nyctiktok, #traveltiktok"
+  - username: "gab_nyc"
     fullname: >-
-      emilyxinfinity
+      gab
     bio: >-
-      25 • nyc
+      vlogs ⭑ nyc ⭑ style heygabnyc@gmail.com IG: gabrielavasci
     location: "United States"
-    followers: 27700
-    engagement: 1490
-    commentsToLikes: 0.152518
-    id: ckan6djy8jbv70i789gvgf1m0
+    followers: 102700
+    engagement: 1014
+    commentsToLikes: 0.011896
+    id: ck94l4ot6xsn90j78eascc1zj
     verified: false
-    hashtags: "#biden2020, #nyccheck, #fyp, #adhd"
-  - username: "dyanabratz"
+    hashtags: "#lovememode, #college, #miami, #travel"
+  - username: "ibeezmaryobasi"
     fullname: >-
-      DyanaBratz
+      Mary Obasi
     bio: >-
-      SHEIN clothing Haul is now on my channel 👇🏾
+      subscribe to my YouTube channel! Www.youtube.com/maryobasi
     location: "United States"
-    followers: 57700
-    engagement: 1621
-    commentsToLikes: 0.017588
-    id: ckb9hbjhl6pfz0j23vyd4fozq
+    followers: 59500
+    engagement: 586
+    commentsToLikes: 0.088997
+    id: ckcot1o4i87jh0j23egtt569m
     verified: false
-    hashtags: "#muslimtiktok, #styleedit, #fyp, #style"
+    hashtags: "#workout, #foryou, #fypsounds, #fyp"
   - username: "nytoanywhere"
     fullname: >-
       Lauren McGill
     bio: >-
-      Travel blogger + Foodie New York & beyond 🌎🍕 ⬇️Travel Guides ⬇️
+      Travel blogger + Foodie New York & beyond 🌎🍕 ⬇️ Tulum Guide
     location: "United States"
-    followers: 7145
-    engagement: 784
-    commentsToLikes: 0.064158
+    followers: 72100
+    engagement: 701
+    commentsToLikes: 0.050482
     id: ck8tpyq36qooc0j78w5vxy8ex
     verified: false
-    hashtags: "#outdoordining, #newyorkcheck, #tiktoktraveling, #hudsonvalley"
-  - username: "meirschon"
-    fullname: >-
-      Meir
-    bio: >-
-      Luxury Travel Content Creator New York City 📍
-    location: "United States"
-    followers: 59900
-    engagement: 1204
-    commentsToLikes: 0.013226
-    id: ckamwch357w0o0i7852bop7ow
-    verified: false
-    hashtags: "#fyp, #luxury, #maldives, #nyc"
-  - username: "elizabethfow"
-    fullname: >-
-      Elizabeth Fowler
-    bio: >-
-      Instagram - @elizabethfowlerx YouTube- Elizabeth Fowler NYC 📍
-    location: "United States"
-    followers: 35700
-    engagement: 1075
-    commentsToLikes: 0.015144
-    id: ckb997qgptbb30j23o1starp7
-    verified: false
-    hashtags: "#whatispendinaday, #newyork, #citylife, #minivlog"
+    hashtags: "#oceanview, #hoteltour, #cenote, #manhattan"
   - username: "arina_youusedto"
     fullname: >-
       Arina Bloom💄💋
     bio: >-
       👠INSTAGRAM: youusedto_💄 ✈️🅲🅰🅱🅸🅽 🅲🆁🅴🆆👩🏻‍✈️ ☁️ᴹᴬᴰᴱ ᴵᴺ ᵁᴷᴿᴬᴵᴺᴱ☁️ NYC🗽
     location: "United States"
-    followers: 54900
-    engagement: 841
-    commentsToLikes: 0.016647
+    followers: 54400
+    engagement: 798
+    commentsToLikes: 0.015196
     id: ckbl57qp62p8p0j23urllcso8
     verified: false
-    hashtags: "#relationship, #flightattendants, #bf, #foryou"
+    hashtags: "#viral, #flywithme, #travel, #relationship"
+  - username: "camillasantandrea"
+    fullname: >-
+      Camilla Santandrea
+    bio: >-
+      Everything you see I owe to Spaghetti 🍝 📍 New York City
+    location: "United States"
+    followers: 6594
+    engagement: 492
+    commentsToLikes: 0.049488
+    id: cka0o56nn24ys0i78kfrr43nr
+    verified: false
+    hashtags: "#nature, #love, #dance, #fyp"
+  - username: "emilyxinfinity"
+    fullname: >-
+      emilyxinfinity
+    bio: >-
+      25 • nyc
+    location: "United States"
+    followers: 27000
+    engagement: 1268
+    commentsToLikes: 0.155998
+    id: ckan6djy8jbv70i789gvgf1m0
+    verified: false
+    hashtags: "#nyc, #gangnam, #seoul, #southkorea"
 ---

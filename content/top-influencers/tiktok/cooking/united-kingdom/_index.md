@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking TikTok Influencers In United Kingdom in 2023
+title: Top 10 Cooking TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top cooking TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryoupage #foryou #food.
+  Find top cooking TikTok influencers in United Kingdom in 2023. Most popular hashtags: #learnontiktok #fyp #foryoupage #foryou.
 platform: TikTok
-hits: 299
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 299 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 317
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 317 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "yasmine_eex"
+  - username: "sanctuaryvegan"
     fullname: >-
-      yasmine_eex
+      Matthew Sanctuary
     bio: >-
-      🇲🇦|🇬🇧 Islamic Reminders and Cooking Videos اللهم إني أسألك حسن الخاتمة
+      Vegan news, views, product reviews, cooking and baking. Vegan for the animals 🌱
     location: "United Kingdom"
-    followers: 9976
-    engagement: 2068
-    commentsToLikes: 0.026875
-    id: ckd0dc4b5d0iz0j23kni7lhjq
+    followers: 17900
+    engagement: 1449
+    commentsToLikes: 0.167839
+    id: ckcj5asmo5m4b0j23pedom2ma
     verified: false
-    hashtags: "#fyp, #islamic, #xybca, #peace"
+    hashtags: "#thatveganteacher, #vegan2021, #vegan, #sanctuaryvegan"
+  - username: "kinniscookbook"
+    fullname: >-
+      Kiran Kaur
+    bio: >-
+      ☬ Follow for daily vegetarian cooking videos and indian sketch comedy
+    location: "United Kingdom"
+    followers: 12900
+    engagement: 874
+    commentsToLikes: 0.345991
+    id: ckc8412b24cdw0j23cfar6zhy
+    verified: false
+    hashtags: "#concert, #xyzbca, #parents, #viral"
+  - username: "nannabea"
+    fullname: >-
+      Nanna TikTok
+    bio: >-
+      Hello my lovelies Yorkshire born Mum of 4 Nanna of 4 lover of cooking and bees🐝
+    location: "United Kingdom"
+    followers: 265800
+    engagement: 642
+    commentsToLikes: 0.028282
+    id: ckcdfr5em6s7f0j23gqpnroox
+    verified: false
+    hashtags: "#mentalhealthawarness, #outfittransition, #brits2021, #letsplay"
   - username: "ollie_eats"
     fullname: >-
       ollieeats
     bio: >-
       🎥 Showcasing home cooking hacks and amazing products from the food industry🍩
     location: "United Kingdom"
-    followers: 248700
-    engagement: 927
-    commentsToLikes: 0.023493
+    followers: 266500
+    engagement: 922
+    commentsToLikes: 0.019120
     id: ck8kh4nchlb3u0j78wbuus6kb
     verified: false
-    hashtags: "#properbritishdishes, #food, #learnontiktok, #ramsayreacts"
+    hashtags: "#learnontik, #ad, #learnontiktok, #shoulditsandwich"
+  - username: "yasmine_eex"
+    fullname: >-
+      yasmine_eex
+    bio: >-
+      🇲🇦|🇬🇧 Islamic Reminders and Cooking Videos اللهم إني أسألك حسن الخاتمة
+    location: "United Kingdom"
+    followers: 10500
+    engagement: 1762
+    commentsToLikes: 0.028801
+    id: ckd0dc4b5d0iz0j23kni7lhjq
+    verified: false
+    hashtags: "#muslim, #fyp, #allah, #fup"
   - username: "recentlybaked"
     fullname: >-
       Baking & cooking
     bio: >-
       Baking & cooking videos Thanks for following❤️
     location: "United Kingdom"
-    followers: 5889
-    engagement: 1643
-    commentsToLikes: 0.031498
+    followers: 6182
+    engagement: 1472
+    commentsToLikes: 0.028338
     id: ckcdznx7ihbfm0j23m0ok9fp9
     verified: false
-    hashtags: "#baking, #boba, #bubbletea, #fyp"
-  - username: "chlooebrownn"
-    fullname: >-
-      Chlöe Brown
-    bio: >-
-      22 | London | African Tastebuds🇳🇬 Owner of a fantastic African cooking page✌🏼
-    location: "United Kingdom"
-    followers: 122200
-    engagement: 1144
-    commentsToLikes: 0.026259
-    id: ckb9mp3kqfzdu0j23x5zmesie
-    verified: false
-    hashtags: "#nigerianstyle, #endsars, #cookbook, #atb"
-  - username: "0723sona"
-    fullname: >-
-      neelam
-    bio: >-
-      Love cooking 🥘 Fav place London Wish me 7th Nov 🇮🇳✈️🇬🇧
-    location: "United Kingdom"
-    followers: 347000
-    engagement: 766
-    commentsToLikes: 0.013639
-    id: ckcj82b1f6zil0j23amandkui
-    verified: false
-    hashtags: "#tictok, #easyrecipe, #pb08, #tictoklover"
-  - username: "georgiehalfacree"
-    fullname: >-
-      Georgie
-    bio: >-
-      Just out here cooking up a storm follow my instagram @georgiehalfacree
-    location: "United Kingdom"
-    followers: 291900
-    engagement: 1002
-    commentsToLikes: 0.007897
-    id: ckbadr5j4628f0j23hmeqi79d
-    verified: true
-    hashtags: "#feelgoodfactor, #carnivalready, #learnontiktok, #backtouni"
+    hashtags: "#baking, #fyp, #cake, #christmasbaking"
   - username: "desitouch20"
     fullname: >-
       desi madam
     bio: >-
       cooking my passion and obsession. so plz hit the heart. and subs to my YouTube .
     location: "United Kingdom"
-    followers: 68800
-    engagement: 372
-    commentsToLikes: 0.015171
+    followers: 82900
+    engagement: 534
+    commentsToLikes: 0.027157
     id: ckav0l4or6ayv0j237xflpb6o
     verified: false
-    hashtags: "#foryoupage, #tranding, #foryou, #beefcurry"
-  - username: "poppy_cooks"
+    hashtags: ""
+  - username: "0723sona"
     fullname: >-
-      poppy_cooks
+      Sona
     bio: >-
-      Michelin-trained chef making cooking EASY FRICKIN’ PEASY 🤤❤️ 📩DM on Instagram
+      Love 💕 cooking PB08 🇮🇳 to 🇬🇧
     location: "United Kingdom"
-    followers: 58600
-    engagement: 821
-    commentsToLikes: 0.018288
-    id: ckcj5ajwr5luj0j23ng6ie7zi
+    followers: 357000
+    engagement: 481
+    commentsToLikes: 0.013203
+    id: ckcj82b1f6zil0j23amandkui
     verified: false
-    hashtags: "#fyp, #foodie, #chocolate, #whatieatinaday"
-  - username: "itshollyyx"
+    hashtags: "#cookingshooking, #pb08, #london, #foryou"
+  - username: "georgiehalfacree"
     fullname: >-
-      Gurl
+      Georgie
     bio: >-
-      ✨Just a multiple sclerosis fighter cooking her way through life✨
+      Just out here cooking up a storm follow my instagram 👇🏽 @georgiehalfacree
     location: "United Kingdom"
-    followers: 7402
-    engagement: 377
-    commentsToLikes: 0.033219
-    id: cka0w9xc220s40i78kkt8et84
-    verified: false
-    hashtags: "#fyp, #slimmingworldrecipes, #foryoupage, #slimmingworldfood"
+    followers: 417000
+    engagement: 720
+    commentsToLikes: 0.009882
+    id: ckbadr5j4628f0j23hmeqi79d
+    verified: true
+    hashtags: "#easyrecipe, #happyeaster, #didyouknow, #learnontiktok"
   - username: "zubyskitchen"
     fullname: >-
       Zuby’s Kitchen
     bio: >-
-      CEO of delicious desi cooking 🇬🇧
+      CEO of delicious desi cooking 🇬🇧 30k 😃
     location: "United Kingdom"
-    followers: 21700
-    engagement: 288
-    commentsToLikes: 0.028971
+    followers: 29500
+    engagement: 261
+    commentsToLikes: 0.018268
     id: cka0kek7zm7dg0i78kqmsjizw
     verified: false
-    hashtags: "#fyp, #desifood, #weddingseason, #birmingham"
+    hashtags: "#tiktokchef, #desi, #myclub, #superiorsnack"
 ---

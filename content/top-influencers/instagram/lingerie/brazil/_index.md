@@ -1,120 +1,96 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Brazil in 2023
+title: Top 10 Lingerie Instagram Influencers In Brazil In 2023
 description: >-
-  Find top lingerie Instagram influencers in Brazil in 2023. Most popular hashtags: #love #makeup #mood.
+  Find top lingerie Instagram influencers in Brazil in 2023. Most popular hashtags: #lingerie #modafeminina #instagood #girl.
 platform: Instagram
-hits: 373
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 373 Instagram influencers like this in Brazil for you to connect with.
+hits: 360
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 360 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "rafa.mcd"
+  - username: "roselielingerie"
     fullname: >-
-      Rafaella Macedo ➰
+      Lingeries
     bio: >-
-      •Parcerias direct ou wp ✨📥 Tudo por nós ! @marcosdferreira ❤️ ✨ Lojas online @mr.storee10 e @lopes_reiis_lingeries ✨
+      Comece a se vestir bem pela lingerie ✨ Lingeries no melhor Preço e qualidade! Lingeries colecionáveis 🥰 COMPRE AQUI👇🏻
     location: "Brazil"
-    followers: 26103
-    engagement: 1887
-    commentsToLikes: 7.783787
-    id: ck8t243twy2vp0j78wh3lnjq2
+    followers: 105390
+    engagement: 213
+    commentsToLikes: 0.029380
+    id: ck8t6admicuvq0j78nn7vky0d
     verified: false
-    hashtags: "#digitalillustration, #hair, #ac, #modelo"
+    hashtags: "#lingeriesexy, #lingerie, #lingerieatacado, #amocalcinhas"
+  - username: "makysuelma"
+    fullname: >-
+      Makysuelma silva
+    bio: >-
+      SMG/Pará 📍 @lingerie_bolsascomestilo✨•OrganistaCcb🎹 | XVII✨ | Paulista-Sp👶🏼 | Moda | Looks | hair
+    location: "Brazil"
+    followers: 10016
+    engagement: 1401
+    commentsToLikes: 0.049653
+    id: ckaouumeb1w270i78zutsx5lz
+    verified: false
+    hashtags: "#mo, #moda, #modelando, #eleganciaeestilo"
   - username: "carolina.fialhoo"
     fullname: >-
       Carolina Fialho🌹
     bio: >-
-      📍 Mineira🌹 sagitariana | 21 anos 👄 Modelo de lingerie 📕 Odonto 6/10 💢 TikTok (somos +34k) 😍👇🏻
+      📍 Mineira ❤️ sagitariana | 22 anos 👄 Modelo de lingerie 📕 Odonto 7/10 💢 TikTok (somos +185k) 😍👇🏻
     location: "Brazil"
-    followers: 11373
-    engagement: 1498
-    commentsToLikes: 0.055823
+    followers: 16130
+    engagement: 925
+    commentsToLikes: 0.035477
     id: ck9ha9cs1bnr20j78satrn5af
     verified: false
     hashtags: "#tiedye"
-  - username: "barbieherculano"
+  - username: "fernanda_hernandes"
     fullname: >-
-      Fabi 🌈
+      Fernanda Hernandes
     bio: >-
-      Blogueiragem 👩🏾‍💻 CEO: @brigadeiriafabi @lingerieslola @yakisobadochefe ✨𝑙𝑖𝑓𝑒𝑠𝑡𝑦𝑙𝑒, 𝑚𝑎𝑘𝑒, 𝑣𝑖𝑎𝑔𝑒𝑛𝑠 𝑒 𝑚𝑜𝑑𝑎🌿 ULTIMO VIDEO DO CANAL👇🏾
+      👙 Lingerie Model 👩🏼‍💻 Influencer 💃🏼 Ballet @leonardo 👯‍♀️ Ballet @horadofaro 👑 Winner @ufc RingGirl 2014 💌 Contact via Direct
     location: "Brazil"
-    followers: 16905
-    engagement: 333
-    commentsToLikes: 0.092885
-    id: ck8t6y74hf24d0j78h3vktynr
-    verified: false
-    hashtags: "#remixchallenge, #divulgamakeup, #tomachallenge, #feiaearrumadachallenge"
-  - username: "nbbatista"
+    followers: 434940
+    engagement: 168
+    commentsToLikes: 0.022447
+    id: ckap3et4w2rzz0i788rjyp6mn
+    verified: true
+    hashtags: "#casal, #cintasmodeladoras, #praia, #reelsinstagram"
+  - username: "marcella_jchn"
     fullname: >-
-      NATHALIA BATISTA
+      Marcella Jenichen
     bio: >-
-      com H e sem acento😜 Apresentadora | Consultora de Imagem 📺 @bandtv 📚@de.lingerie 👩🏻‍💻@wnbproducoes @escoladecomunicadores JESUS🙏🏼
+      D𝚎𝚜𝚒𝚐𝚗 𝚍𝚎 𝙿𝚛𝚘𝚍𝚞𝚝𝚘 | UFPR ♥️Minha loja de Lingeries → @mar_intimate Portfólio de modelo ↓
     location: "Brazil"
-    followers: 92660
-    engagement: 129
-    commentsToLikes: 0.057494
-    id: ck6ufmhc6xxik0j711drw5q31
+    followers: 5767
+    engagement: 568
+    commentsToLikes: 0.037649
+    id: ck55nmn7e6j6x0i11jo3j2wfz
     verified: false
-    hashtags: "#summeressentials, #futebolfeminino, #looksdanathi, #showdoesporte"
-  - username: "camila_postais"
+    hashtags: "#marcaslocais, #curitiba, #sustentabilidade, #designativista"
+  - username: "herikasantos30"
     fullname: >-
-      Camila Postais
+      Herika santos
     bio: >-
-      ‼️ Parcerias via direct ❤️ @lingeries_apimentadas ⚖️ 4ª fase - Direito 👩🏻‍💻 @bridaseguros
+      Bombeiro Civil 🚒 Atleta Wellness 🏆 Modelo 📸 Dançarina 💃🏽 Pisciana 🐟 PARCERIA VIA DIRECT 📩 @grothlabs 💉💊 Loja @lunnasexy_lingeriesexshop
     location: "Brazil"
-    followers: 11457
-    engagement: 758
-    commentsToLikes: 0.020097
-    id: ckapck1dv44pe0i78dgt9kpl4
+    followers: 83509
+    engagement: 47
+    commentsToLikes: 0.049399
+    id: ckap23p6dx8nj0i7855voviyu
     verified: false
-    hashtags: "#riodosul, #empoderamentofeminino, #empoderamento, #empoderamentodamulher"
-  - username: "_jessicawsilva"
-    fullname: >-
-      Jessica Silva
-    bio: >-
-      🧿 | Mineira . Escorpiana . Empreendedora 🛒 | Sex shop e Lingeries @js_forgirl 📚 | Graduada em Ed Física bacharel ♥️ | @j.v_silvaa Parcerias direct 📥
-    location: "Brazil"
-    followers: 9674
-    engagement: 365
-    commentsToLikes: 0.049717
-    id: ck0u1zmkxycj80i19n0yr9q7b
-    verified: false
-    hashtags: ""
-  - username: "mirielysantos_"
-    fullname: >-
-      𝑀𝒾𝓇𝒾𝑒𝓁𝓁𝓎 𝒮𝒶𝓃𝓉𝑜𝓈
-    bio: >-
-      》𝖵𝖤𝖩𝖠𝖬 𝖮𝖲 𝖲𝖳𝖮𝖱𝖸𝖲📱👀 》@miriely_manicureoficial 💅🏽 》𝖨𝖳𝖠𝖡𝖠𝖨𝖠𝖭𝖠-𝖲𝖤🏡 》𝖬𝖮𝖣𝖤𝖫𝖮 𝖥𝖮𝖳𝖮𝖦𝖱𝖠𝖥𝖨𝖢𝖠📸 》𝖫𝖮𝖩𝖠 @clube_lingerie_ 👙 》𝖯𝖠𝖱𝖢𝖤𝖱𝖨𝖠 𝖵𝖨𝖠 𝖣𝖨𝖱𝖤𝖢𝖳📥
-    location: "Brazil"
-    followers: 16078
-    engagement: 513
-    commentsToLikes: 0.032858
-    id: ckaoy5ol9g3nj0i78elzy5sl0
-    verified: false
-    hashtags: "#amorproprio, #tiktok, #trabalhoduro, #batata"
+    hashtags: "#sp, #life, #goodmorning, #topfitness"
   - username: "trigemeas_dantas_fitness_"
     fullname: >-
       Trigêmeas Dantas
     bio: >-
       Atletas 🥇 Empreendedoras 💼 Influenciadoras Seguidoras de Jesus 🕊 Donas da @three_diamonds_lingerie e @sweetpiecedoces
     location: "Brazil"
-    followers: 23892
-    engagement: 70
-    commentsToLikes: 0.090088
+    followers: 23282
+    engagement: 63
+    commentsToLikes: 0.072237
     id: ck6u07hxye1t70j71j1uftbhj
     verified: false
-    hashtags: "#cool, #sisters, #girls, #triplets"
-  - username: "dicas_fashion_pravc"
-    fullname: >-
-      
-    bio: >-
-      Beeeem vinda! Caçando os melhores preços da net 💸 Dicas de lojas e lingerie. 🛍 🎀 Segue a gente mana!
-    location: "Brazil"
-    followers: 71014
-    engagement: 286
-    commentsToLikes: 0.326141
-    id: ck14hcahr9lmo0i19ppprpcgq
-    verified: false
-    hashtags: "#sorteioiphone, #dinheironaconta, #sorteios, #sorteio2020"
+    hashtags: "#girls, #instagood, #triplets, #trigemeas"
   - username: "laymelingerie"
     fullname: >-
       Laymê lingerie
@@ -126,5 +102,29 @@ profiles:
     commentsToLikes: 0.076322
     id: ckf5p0jtc4ivd0j23rq48qhkz
     verified: false
-    hashtags: "#estampadesejo, #cole, #mood, #mulheresempoderadas"
+    hashtags: "#inspired, #mood, #love, #confywear"
+  - username: "gabrielammariani"
+    fullname: >-
+      Gabriela Mariani
+    bio: >-
+      23 • modelo/miss umuarama 2019 UNIPAR • odontologia 3/4 ⚕ — seja gentil, espalhe gentileza! ♡ 🦋🌙🦷📷
+    location: "Brazil"
+    followers: 13113
+    engagement: 748
+    commentsToLikes: 0.068515
+    id: ck8sz1k2bmtv60j78nejod8m2
+    verified: false
+    hashtags: "#mulher, #modelo, #ensaio, #glow"
+  - username: "marianasofiacanelas"
+    fullname: >-
+      MARIANA CANELAS
+    bio: >-
+      💪PROZIS 10%: MARICANELAS 💡 𝒍𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 ◦𝒇𝒂𝒔𝒉𝒊𝒐𝒏 ◦ 𝒃𝒆𝒂𝒖𝒕𝒚 ◦ 𝒕𝒊𝒑𝒔 🌎 Environmental Engineer 📍 Porto | Coimbra 📩 𝙢𝙖𝙧𝙞𝙖𝙣𝙖.𝙨𝙤𝙛𝙞𝙖.𝙘𝙖𝙣𝙚𝙡𝙖𝙨@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+    location: "Brazil"
+    followers: 22712
+    engagement: 544
+    commentsToLikes: 0.332355
+    id: ck5qdve62xhpb0i11h4wsty48
+    verified: false
+    hashtags: "#picsartphoto, #portugal, #lingerie, #portugueseblogger"
 ---

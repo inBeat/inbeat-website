@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Chicago in 2023
+title: Top 10 Rappers TikTok Influencers In Chicago In 2023
 description: >-
-  Find top rappers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryoupage #foryou #chicago.
+  Find top rappers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #viral #funny.
 platform: TikTok
-hits: 16
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 16 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 22
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 22 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "officialks11"
-    fullname: >-
-      Ks11💸
-    bio: >-
-      18 Chicago📍
-    location: "United States"
-    followers: 96800
-    engagement: 1135
-    commentsToLikes: 0.149688
-    id: ckb9v5ju6u4w10j23g77t0vim
-    verified: false
-    hashtags: "#foryoupage, #thingsyoudidntknow, #rappers, #chicago"
-  - username: "theemessiah"
-    fullname: >-
-      Classymas
-    bio: >-
-      I’ll try my best to make u laugh. Follow yer boi 🇮🇷 15k??
-    location: "United States"
-    followers: 10200
-    engagement: 686
-    commentsToLikes: 0.065581
-    id: ckbw9f0dgzofc0j23qv3wg92q
-    verified: false
-    hashtags: "#citylockdown, #covid19, #werkitfromhome, #blowthisup"
   - username: "biglewwis"
     fullname: >-
       BIG LEWIS
     bio: >-
       Big LEWIS is a Famous Rapper in Chicago with a star on the Magnificent Mile
     location: "United States"
-    followers: 5214
-    engagement: 562
-    commentsToLikes: 0.107821
+    followers: 5149
+    engagement: 754
+    commentsToLikes: 0.130834
     id: ckbetaa3ic7750j234j6e8qmm
     verified: false
-    hashtags: "#obama, #blm, #blacklivesmatter, #cardi"
-  - username: "groovynilo"
+    hashtags: "#biglewwis, #blm, #gdaman, #tamirrice"
+  - username: "reallyviral"
     fullname: >-
-      GroovyNilo
+      Viral
     bio: >-
-      TALK MY SHIT OUT NOW ON YT AND SC
+      satire discord 👇🏾
     location: "United States"
-    followers: 30700
-    engagement: 1499
-    commentsToLikes: 0.074524
-    id: ckcehp5p9pl3b0j23jnrz5bgx
+    followers: 210700
+    engagement: 2566
+    commentsToLikes: 0.029190
+    id: ck9pmqvf5azzl0j78dgjgnj2c
     verified: false
-    hashtags: "#lol, #fyp, #rap, #lmao"
-  - username: "xaviermali"
+    hashtags: "#tiktokgaming, #trump2020, #downbad, #funny"
+  - username: "officialks11"
     fullname: >-
-      Xavier Mali
+      Therapist〽️
     bio: >-
-      HIT THAT LINK ‼️🥶
+      
     location: "United States"
-    followers: 2048
-    engagement: 1037
-    commentsToLikes: 0.012373
-    id: ckcv3hozfogrv0j23caq262yw
+    followers: 266600
+    engagement: 1575
+    commentsToLikes: 0.149923
+    id: ckb9v5ju6u4w10j23g77t0vim
     verified: false
-    hashtags: "#summer, #explore, #forus, #summervibes"
-  - username: "hurdleboyratliff"
+    hashtags: "#6ix9ine, #rapperstoknow, #chicago, #texas"
+  - username: "playboierik22"
     fullname: >-
-      CartierBoyRatliff
+      playboierik22
     bio: >-
-      Illinois State Track&Field 📍Grand Rapids, Michigan🌃 #Free9K
+      16 Add me on Discord! @NotProudMexican#5182
     location: "United States"
-    followers: 25900
-    engagement: 1432
-    commentsToLikes: 0.058528
-    id: cka0p1ruw6c480i78nz5qdf7u
+    followers: 15000
+    engagement: 1680
+    commentsToLikes: 0.063934
+    id: ckblf1yx090ng0j23p586s9uk
     verified: false
-    hashtags: "#fyp, #michigan, #foryoupage, #blowup"
-  - username: "osoavarice"
+    hashtags: "#funny, #rocketleague, #foryou, #twitch"
+  - username: "bobbykristoph"
     fullname: >-
-      Sovereignty🌍🔒
+      Bobby Kristoph
     bio: >-
-      Don’t let this fool y’all 🤐🗣 Sc:justintybull Growth & development 📉🏙
+      DOING WHAT TF I WANT! GET ME TO 20K IG: Bobbykristoph CA:$Bobbykristoph
     location: "United States"
-    followers: 296800
-    engagement: 1807
-    commentsToLikes: 0.086985
-    id: ckb9bzjx5yhp80j23qddb8luz
+    followers: 18300
+    engagement: 819
+    commentsToLikes: 0.070042
+    id: ckciwk8yy1b4p0j23o3kd96n3
     verified: false
-    hashtags: "#illinois, #foryoupage, #foryou, #fyp"
+    hashtags: "#duet, #upthebeat, #stitch, #thewildschallenge"
+  - username: "marioskowron"
+    fullname: >-
+      Mario Skowron
+    bio: >-
+      Chicago📍 ⬇️Use code “MARIO” for 20% off⬇️
+    location: "United States"
+    followers: 588700
+    engagement: 1207
+    commentsToLikes: 0.020124
+    id: ckbqigkt03mnk0j233qz9rvn7
+    verified: false
+    hashtags: "#juicewrld, #chasingdreams, #pov, #artmas"
+  - username: "russiaancream"
+    fullname: >-
+      САНЯ 222
+    bio: >-
+      Следи за собой ur fav photographer & stylist chicago/nyc 20
+    location: "United States"
+    followers: 26900
+    engagement: 1577
+    commentsToLikes: 0.017133
+    id: ck9aaylbqmlmx0j78f0wepbvx
+    verified: false
+    hashtags: "#newyork, #model, #style, #fit"
+  - username: "adjigocrazy"
+    fullname: >-
+      AdjiGoCrazy
+    bio: >-
+      🖤Chicago💯(Da Town)😷 🏎💨IG:@Prodadji 🎥Camera Man dats into Cars🤫😌
+    location: "United States"
+    followers: 221700
+    engagement: 1045
+    commentsToLikes: 0.010175
+    id: ckdn4bvpge4s70j23nvuhq1zk
+    verified: false
+    hashtags: "#viral, #prank, #chicago, #foryou"
   - username: "tylerissoepic"
     fullname: >-
       tylerissoepic
     bio: >-
       Graphic Designer Wallpapers On My Instagram: @tylerissoepic Comment Requests!
     location: "United States"
-    followers: 3124
-    engagement: 1549
-    commentsToLikes: 0.076477
+    followers: 3289
+    engagement: 869
+    commentsToLikes: 0.085192
     id: ckav2llyn8qqk0j23vqbjckl5
     verified: false
-    hashtags: "#rappers, #micellarrewind, #meleaving, #tiktokfood"
-  - username: "djsmallz732"
+    hashtags: "#art, #xxl, #micellarrewind, #fyp"
+  - username: "iamsaucee"
     fullname: >-
-      DJ Smallz 732
+      iamsaucee
     bio: >-
-      CLUB 🐐 || PRODUCER || DJ || OVER 100+ MILLION PLAYS WORLD WIDE 🌏 || IG ⬆️
+      INSTAGRAM: iamsaucee YOUTUBE: iamsaucee Road to 1 million 🎉
     location: "United States"
-    followers: 40500
-    engagement: 1128
-    commentsToLikes: 0.031859
-    id: ckdnu2b4dmjqr0j23nqmnojnw
+    followers: 975200
+    engagement: 1887
+    commentsToLikes: 0.017435
+    id: ck8j6dbiz9alx0j782idwl5if
     verified: false
-    hashtags: "#flstudio, #chicagofreestyle, #viral, #djsmallz732"
-  - username: "wavy_jose30"
-    fullname: >-
-      Jose Alberto
-    bio: >-
-      CEO OF RANKS 🤓 Go follow that IG !! Nyc 🗽🏙 ✈️ NJ 25k?
-    location: "United States"
-    followers: 20100
-    engagement: 1949
-    commentsToLikes: 0.045399
-    id: ckbfacjem1s9b0j23hb7fvhl9
-    verified: false
-    hashtags: "#fypage, #4u, #foryoupage, #trending"
+    hashtags: "#blowthisup, #getcrocd, #aeriereal, #viral"
 ---

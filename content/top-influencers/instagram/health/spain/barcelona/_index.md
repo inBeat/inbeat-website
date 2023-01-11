@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Barcelona in 2023
+title: Top 10 Health Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top health Instagram influencers in Barcelona in 2023. Most popular hashtags: #fitness #barcelona #healthy #motivation.
+  Find top health Instagram influencers in Barcelona in 2023. Most popular hashtags: #fitness #health #barcelona #gym.
 platform: Instagram
-hits: 72
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 72 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+hits: 52
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 52 Instagram influencers like this in Barcelona, Spain for you to collaborate.
 profiles:
-  - username: "debbysoemadijo"
+  - username: "pompomilicious"
     fullname: >-
-      Content Creator - Bali BCN
+      Pompomilicious | DogLifeStyle
     bio: >-
-      Debby Soemadijo ❦ Creative Director ❦ Content Creator for Health, Wellness & Ethical Brands 📍Bali/Barcelona available worldwide @forartsakestudio_
+      🌟 | Somos la Pomifamily 👩🏻‍🦰 | Beauty & DIY 🧔🏻 | Music & Food 🦊 | Pomeranians & Fun 👑 | Embajadores: @laboutiquedeldiamante
     location: "Spain"
-    followers: 6834
-    engagement: 366
-    commentsToLikes: 0.025933
-    id: ck5hmf3j3lu3g0i111f2x07r1
+    followers: 29282
+    engagement: 154
+    commentsToLikes: 0.191842
+    id: ck6uiihp4fa160j713w267gja
     verified: false
-    hashtags: ""
-  - username: "regalosonrisas"
+    hashtags: "#japanesespitz, #dog, #love, #pomeranianpage"
+  - username: "emithesituation"
     fullname: >-
-      Lᴀɪᴇᴛᴛᴀ ఌ NV
+      A13💍
     bio: >-
-      📍𝑆𝑖𝑡𝑔𝑒𝑠 || 𝑀𝑖𝑎𝑚𝑖 🇺🇸 𝑃𝑎𝑚𝑝𝑙𝑜𝑛𝑎🇪🇸 💚 𝐻𝑜’𝑜𝑝𝑜𝑛𝑜𝑝𝑜𝑛𝑜︎ 🏋🏼‍♀️𝐹𝑖𝑡𝑛𝑒𝑠𝑠𝐿𝑜𝑣𝑒𝑟 🌀𝑁𝑜 𝑐𝑟𝑒𝑜 𝑒𝑛 𝑙𝑎𝑠 𝑐𝑎𝑠𝑢𝑎𝑙𝑖𝑑𝑎𝑑𝑒𝑠 ✨𝑉𝑖𝑣𝑒 𝑙𝑎 𝑚𝑎𝑔𝑖𝑎 𝑑𝑒 𝑠𝑒 tú
+      📍Madrid ▪ Zumub ambassador 💪🏼 🏆 @zumub.es➡️THESITUATIONFIT ▪ Natural aesthetic🏋🏻‍♂ ▪ Model 📸 ▪ Fitness Addict🏆
     location: "Spain"
-    followers: 5441
-    engagement: 1186
-    commentsToLikes: 0.032911
-    id: ck5zt5d7xzrm90i14li97fli2
+    followers: 16881
+    engagement: 94
+    commentsToLikes: 0.047109
+    id: ck5qc2qhiokux0i11m68tvt18
     verified: false
-    hashtags: "#girlswholift, #bodybuilding, #body, #healthy"
-  - username: "alexdc31"
+    hashtags: "#amazing, #tattooart, #gym, #food"
+  - username: "victornunezzz"
     fullname: >-
-      𝐀𝐥𝐞𝐱 𝐃𝐂 - 𝐕𝐞𝐠𝐚𝐧 𝐈𝐜𝐨𝐧®
+      Victor Nuñez
     bio: >-
-      ☯️ Natural Health 🏋️🏻‍♂️ Fitness 🕶 Lifestyle 🎯 Inspiring people to stay healthier and positive
+      ✖️Head-Coach @flamma_fight_academy . ✖️Fighter , Personal Trainer . ✖️Model @fifthmodels
     location: "Spain"
-    followers: 54772
-    engagement: 295
-    commentsToLikes: 0.027387
-    id: ck5q9lfubbpaj0i111zw60pf4
+    followers: 19778
+    engagement: 266
+    commentsToLikes: 0.022323
+    id: ck8sxpxppi89t0j78ofvjissz
     verified: false
-    hashtags: "#me, #selfietime, #back, #quarantena"
-  - username: "chema_trezze"
-    fullname: >-
-      Chema Malavia
-    bio: >-
-      🤜 Talk shit... get hit!! 🇪🇸 Barcelona 👻 chematrezze 📩 Contact: chemagarciamalavia@gmail.com
-    location: "Spain"
-    followers: 37523
-    engagement: 443
-    commentsToLikes: 0.052157
-    id: ckapbdzr3zkdw0i78t11m4h67
-    verified: false
-    hashtags: "#barcelona, #sunrise, #fashion, #bw"
+    hashtags: "#tattoos, #swag, #inked, #boxing"
   - username: "7sanchezc"
     fullname: >-
       CARMEN SÁNCHEZ SILVA
     bio: >-
-      📍Barcelona 🌺 International athlete 🌺 Valencia CA 🌺 Psychology student 🌺 carmen.sanchez.silva90@gmail.com
+      📍Barcelona 🌺 International athlete 🌺 Valencia CA 🌺 carmen.sanchez.silva90@gmail.com #TeamTherabody
     location: "Spain"
-    followers: 25710
-    engagement: 1142
-    commentsToLikes: 0.016581
+    followers: 26645
+    engagement: 1463
+    commentsToLikes: 0.015885
     id: ck15udw6xmoxt0i199z5ord3t
     verified: false
-    hashtags: "#photography, #fitlife, #runninggirl, #running"
-  - username: "tanovillar"
-    fullname: >-
-      민석 Tano Villar
-    bio: >-
-      Balance | Movement | Health ⏳Intermittent fasting lifestyle 🏋️🏼Weights⚡Motivation🍕Pizza 🎥 YouTube 👇🏼- #NoLiftNoPizza 🎙️Podcast
-    location: "Spain"
-    followers: 18612
-    engagement: 536
-    commentsToLikes: 0.040680
-    id: ckaorflipmzq10i78i6lrfpox
-    verified: false
-    hashtags: "#valencia, #muevete, #pizzaislife, #fotosdecomida"
+    hashtags: "#track, #trackandfield, #runningmotivation, #workout"
   - username: "jacksflavours"
     fullname: >-
       Jack
     bio: >-
-      🌕Health Chef 👨‍🍳 🌘Coach transpersonal 🌔Youtuber 🌏@jackarribas 📩 jacksflavours@gmail.com #jacksflavours Canal en Youtube 👇
+      🌕Health Chef 👨‍🍳 🌘Coach transpersonal 🌔Youtuber 📩 jacksflavours@gmail.com #jacksflavours Canal en Youtube 👇
     location: "Spain"
-    followers: 22786
-    engagement: 429
-    commentsToLikes: 0.236116
+    followers: 23029
+    engagement: 284
+    commentsToLikes: 0.210856
     id: ck6ty9fa22evr0j71kliadtre
     verified: false
-    hashtags: "#food, #vegan, #barcelona, #trueitaliantaste"
+    hashtags: "#panellets, #chef, #recetassaludables, #gourmet"
   - username: "polcejas"
     fullname: >-
       POL CEJAS ⚡️
     bio: >-
-      • 📈 Planes de Entreno @powerbypolcejas • 👁 Máster Sport Science & Health • /// @adidas Coach
+      • ☯️ Movimiento & Mentalidad • 👁 Master Sport Science & Health • 🏋🏽‍♂️ @powerbypolcejas • /// Adidas Coach
     location: "Spain"
-    followers: 10076
-    engagement: 538
-    commentsToLikes: 0.042035
+    followers: 10358
+    engagement: 400
+    commentsToLikes: 0.049813
     id: ck8t5xliqbl580j786ez7wup7
     verified: false
-    hashtags: "#allio, #creadoconadidas, #badalona, #personaltrainer"
+    hashtags: "#adidasrunners, #fitnessbarcelona, #barcelonafitness, #squat"
   - username: "fattoincasa_ok"
     fullname: >-
       Fatto by Ampi Dalla Torre
     bio: >-
-      📍Barcelona 👇🏼Encarga tu granola casera🤤 ☎️+34 652457070 📩DM o ampidallatorre@gmail.com Foodie | Travel | Life Style Blogger |
+      🏡Mendoza 📍Barcelona 📩DM o ampidallatorre@gmail.com Foodie | Travel | Life Style Blogger |
     location: "Spain"
-    followers: 15936
+    followers: 15463
     engagement: 193
-    commentsToLikes: 0.062692
+    commentsToLikes: 0.059304
     id: ckaovc9y63ymv0i78u4lvlyc7
     verified: false
-    hashtags: "#fattoincasa, #sinharina, #facilyrico, #mendoza"
-  - username: "saulejakim"
+    hashtags: "#healthyfood, #espa, #vegano, #saludable"
+  - username: "marulekhal"
     fullname: >-
-      ✨Saulė Jakimavičiūtė✨
+      Maru Lekhal /ENTRENADOR ONLINE
     bio: >-
-      Barcelona 🇪🇸 Lithuanian🇱🇹 23/02/1984 We only live once!!! 🥳 Make moves or make excuses!!💪🏻🏋️‍♀️🧘🏼‍♂️⛰ #fitnesslifestlye #healthylifestyle #saule #fit
+      📍Barcelona.💻 Asesoramiento Online VIP 1:1 📩Marulekhal@icloud.com +600Vidas y cuerpos Cambiados @teammarulekhal LISTO PARA CAMBIAR TU FÍSICO? -65%👇🏽
     location: "Spain"
-    followers: 2351
-    engagement: 1231
-    commentsToLikes: 0.051061
-    id: ckap7x7yelyqt0i78u6pz5k0n
+    followers: 82576
+    engagement: 262
+    commentsToLikes: 0.019877
+    id: ckap5w3zadf0d0i7868hm4orf
     verified: false
-    hashtags: "#diet, #trekking, #saule, #sexy"
+    hashtags: "#training, #reels, #shredded, #fit"
+  - username: "nutricionista.leylafacuse"
+    fullname: >-
+      Nutricionista Leyla Facuse 🇨🇱
+    bio: >-
+      Good vibes only✨ 👩🏼‍🎓UC 🇪🇸 Msc. Universitat de Barcelona(c) Asesoría online 👩🏼‍💻 agenda AQUÍ ⬇️ ⚠️Info hist dest 🏋🏼‍♂️ Dipl. Nutr. Deportiva UC
+    location: "Spain"
+    followers: 65668
+    engagement: 216
+    commentsToLikes: 0.023567
+    id: ck9wdeuq9fc220j78rn39xr02
+    verified: false
+    hashtags: "#comosano, #healthyliving, #comidarecomendable, #nutricionistas"
+  - username: "gammafoto"
+    fullname: >-
+      GAMMAFOTO
+    bio: >-
+      Spanish photographer focused on male photograhy, specially fitness. Follow my work! All comments are appreciated! 🌍 Madrid (Spain)
+    location: "Spain"
+    followers: 39946
+    engagement: 282
+    commentsToLikes: 0.032389
+    id: ck5byyu8sq4b50i116z4ame2i
+    verified: false
+    hashtags: "#miami, #marcuseaustralia, #fitnessmodel, #boy"
 ---

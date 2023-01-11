@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Brisbane in 2023
+title: Top 10 Yoga Instagram Influencers In Brisbane In 2023
 description: >-
-  Find top yoga Instagram influencers in Brisbane in 2023. Most popular hashtags: #love #australia #brisbane #yoga.
+  Find top yoga Instagram influencers in Brisbane in 2023. Most popular hashtags: #photography #instafit #surf.
 platform: Instagram
-hits: 13
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 13 Instagram influencers like this in Brisbane, Australia for you to connect with.
+hits: 5
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 5 Instagram influencers like this in Brisbane, Australia for you to contact.
 profiles:
-  - username: "rosie.rees"
-    fullname: >-
-      Rosie Rees | Yoni Queen 👑🏳️‍🌈
-    bio: >-
-      Sexuality & Relationship Coach & CEO at @yoni_pleasure_palace & Nude Yoga founder @naked.awakening 💌 Enquiries: rosie@rosierees.com
-    location: "Australia"
-    followers: 74406
-    engagement: 129
-    commentsToLikes: 0.033154
-    id: ck5cj8c64u6zf0i11cuksevf1
-    verified: false
-    hashtags: "#nakedyoga, #nudeyogawithrosie, #nudeyoga, #selflove"
-  - username: "themagicalozfamily"
-    fullname: >-
-      🇦🇺 𝗧𝗵𝗲 𝗠𝗮𝗴𝗶𝗰𝗮𝗹 𝗢𝘇 𝗙𝗮𝗺𝗶𝗹𝘆 🇦🇺
-    bio: >-
-      💗 All things family, parenting, teaching & mum'ing 💗 Australian Eco Warriors #Brisbane #TeacherLife #Familylife #mumlife
-    location: "Australia"
-    followers: 21239
-    engagement: 352
-    commentsToLikes: 0.125058
-    id: ck5heb7fms0k80i11budywgdn
-    verified: false
-    hashtags: "#mumlife, #womensfashion, #instamum, #parenting"
-  - username: "jasmine.rollason"
-    fullname: >-
-      Jasmine Jatece Rollason
-    bio: >-
-      Lifestyle | Fitness | Outdoors 📧 Content Creator ❤️ @harrymarinos @echt_apparel JASMINE10 @naturesbestaunz
-    location: "Australia"
-    followers: 26448
-    engagement: 237
-    commentsToLikes: 0.091903
-    id: ck14ies26f2ci0i19g7z54xju
-    verified: false
-    hashtags: "#landscape, #bikini, #motivation, #explore"
-  - username: "caashacreations"
-    fullname: >-
-      Self love-Fitness-Fashion
-    bio: >-
-      💥Influencer 💥Self-love/Self care 💥Fitness 💥Health and Beauty 💥Mental health 👗Fashion DM to Collab 💜 📧caashacreations.com@gmail.com
-    location: "Australia"
-    followers: 42990
-    engagement: 233
-    commentsToLikes: 0.284826
-    id: ck14hao799e0c0i193npmtyzk
-    verified: false
-    hashtags: "#fashionmoment, #influencer, #fashionmodel, #courage"
   - username: "jennybeeen"
     fullname: >-
       Jenny Blenk | Content Creator
     bio: >-
-      German living in Brisbane 🤍 God is love |progressive Christianity| empowerment 💌jenny.em.blenk@gmail.com New video👇🏼
+      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
     location: "Australia"
-    followers: 7040
-    engagement: 1114
-    commentsToLikes: 0.223159
+    followers: 8147
+    engagement: 644
+    commentsToLikes: 0.205182
     id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#smallinfluencer, #favouriteoutfit, #brisbaneblogger, #blogger"
+    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
   - username: "tillyjacsmith"
     fullname: >-
       Tilly Smith ✨
     bio: >-
       Now in Sydney Mental health 🙏 Model - @scoopmanagement @chic_brisbane @newyorkmodelsdirect Social - @maxconnectors 🐝 Ambassador - @kai_yoga_mosman 🧘
     location: "Australia"
-    followers: 72337
-    engagement: 165
-    commentsToLikes: 0.021177
+    followers: 78076
+    engagement: 162
+    commentsToLikes: 0.022568
     id: ck0tuasak6d8v0i19y86vgcd7
     verified: false
-    hashtags: "#flawlessbeautyus, #sponsored, #rainbird, #partner"
+    hashtags: "#minenssey, #fragrance, #minebyminenssey, #mermaid"
   - username: "junes_life"
     fullname: >-
-      Jun Yan Wu
+      June's life
     bio: >-
-      訓練回歸 Project come back since 30th of July Taiwan-Australia 🌿 Life - Fitness🌿 Yoga / ocean lover / free diving @xoffit 'juneslife'
+      訓練回歸 Camper Van building going on... Taiwan-Australia 🌿 Life - Fitness🌿 Yoga / ocean lover / free diving @xoffit 'juneslife'
     location: "Australia"
-    followers: 7313
-    engagement: 456
-    commentsToLikes: 0.031108
+    followers: 7164
+    engagement: 350
+    commentsToLikes: 0.027302
     id: ck5pwegbnmg1c0i11iigmrtnc
     verified: false
-    hashtags: "#fitness, #surf, #australia, #surfing"
-  - username: "serchmaa_oui"
+    hashtags: "#van, #surf, #australia, #surfing"
+  - username: "robmillsarchitects"
     fullname: >-
-      Serchmaa Oui
+      Rob Mills Architects (RMA)
     bio: >-
-      Contortion 🦩 Workout 💦 Mindfulness 🌟 Yoga 🦋 📍MEL / UB Cirque du Soleil 🌞 @ilovecontortion.tv🥕 Exploring body illustration @official.thinkpropertyclub
+      Melbourne | Sydney | Brisbane | Perth | Byron Bay | Architecture & Interiors | AAP Firm of the Year | World Interior Practice of the Year
     location: "Australia"
-    followers: 13676
-    engagement: 442
-    commentsToLikes: 0.039464
-    id: ck0u83em16gcx0i19hra0s8f0
+    followers: 66213
+    engagement: 100
+    commentsToLikes: 0.010879
+    id: ck5c5mjjc3rbq0i11kk3xy9uk
     verified: false
-    hashtags: "#sydney, #instameetulaanbaatar, #instagram, #melbourne"
-  - username: "yinoveryang"
+    hashtags: "#robmills, #robmillsarchitects, #interiors, #design"
+  - username: "eddiejowilliams"
     fullname: >-
-      Kate | Modern Mindfulness
+      Eddie Williams
     bio: >-
-      ⋑ #Meditation + #Yoga Teacher ⋑ Techniques to help you live a calmer life ⋑ Sharing the ‘why’ not just the ‘how’ FREE A to Z of Yin Yoga Guide⇣
+      SINGING STRONGMAN 🏆 2 x Australia’s Strongest Man 17,18 🏆 SH STRONGEST MAN ✝️ SAVED @kindafitkindafat_apparel Get 10% off use my code: CHUBZ
     location: "Australia"
-    followers: 6030
-    engagement: 678
-    commentsToLikes: 0.162279
-    id: ckap8kvaeorx40i78u9m0xh95
+    followers: 53470
+    engagement: 180
+    commentsToLikes: 0.021084
+    id: ck135pai02k1s0i197qafhsmy
     verified: false
-    hashtags: "#yogaphotography, #yogapose, #mindfulliving, #healthblogger"
-  - username: "danie_mon"
+    hashtags: "#lol, #instafit, #weightlifting, #ipf"
+  - username: "angieasimus"
     fullname: >-
-      D a n i e
+      Angie Asimus
     bio: >-
-      I just want to spend the rest of my life smiling 😁 28 • Townsville • Heavy Vehicle Mechanic • J.L
+      Girl from Gundagai | Storyteller: @7newssyd | Weather chaser & climate graduate: @usqedu | Urban yogi @the_yoga_cloud | Ambassador: @actforkids
     location: "Australia"
-    followers: 95235
-    engagement: 671
-    commentsToLikes: 0.011567
-    id: ck136d7n95wvs0i19rekoqn64
+    followers: 6979
+    engagement: 970
+    commentsToLikes: 0.052481
+    id: ck5ckoh10xans0i11a6qx7tus
+    verified: true
+    hashtags: "#domesticviolenceawareness, #pinktest, #tbt, #missyouguys"
+  - username: "reneecanzoneri"
+    fullname: >-
+      Renee Canzoneri
+    bio: >-
+      ➖ Yoga + Meditation Trainings & Retreats ➖ Move with me @op_e___n ✨creating things, coming soon, very mysterious✨ 📍just a Vegemite loving Aussie in LA
+    location: "Australia"
+    followers: 19444
+    engagement: 318
+    commentsToLikes: 0.103168
+    id: ck14hj7hmakwr0i191zy9toc3
     verified: false
-    hashtags: "#townsville, #suspension, #camping, #dynamicslideoncampers"
+    hashtags: ""
+  - username: "karinachorley"
+    fullname: >-
+      Karina Nicole
+    bio: >-
+      Represented by @bespoke_digital lee@bespokepublicrelations.com.au Cacao is life 🍫 Yoga teacher in training🧘🏽‍♀️ Brand consultant 💻 DJ 🎧
+    location: "Australia"
+    followers: 31894
+    engagement: 120
+    commentsToLikes: 0.096834
+    id: ck55pulacbezw0i11jzx7jjlw
+    verified: false
+    hashtags: "#kcpartner, #jagjeansforgenes, #jeansforgenes, #thesheetsociety"
+  - username: "tranquil_steph"
+    fullname: >-
+      Steph | Yoga & PT Abu Dhabi |
+    bio: >-
+      Aussie #inAbuDhabi teaching Yoga, PT, wakesurfing, traveling & creating my dream life 💫 💍 @willy_spirituales 👫 @body.soul.evolution 🏄🏼‍♀️ @WakeEvo
+    location: "Australia"
+    followers: 22111
+    engagement: 168
+    commentsToLikes: 0.077726
+    id: ck6ub36rq776c0j71uori86te
+    verified: false
+    hashtags: "#care, #inabudhabi, #adidas, #writeyourlegacy"
+  - username: "kpearl21"
+    fullname: >-
+      KRYSTAL PEARL
+    bio: >-
+      Spread Love & Positivity ❥ Jeremiah 29:11 † @gymmolly “krystal20” {BS Health Science ✦ NFL Cheerleader ✦ Yoga Sculpt instructor}
+    location: "Australia"
+    followers: 233517
+    engagement: 308
+    commentsToLikes: 0.015771
+    id: ckap64fa5ecm00i78wwrabsp2
+    verified: false
+    hashtags: "#dancer, #nflcheerleaders, #thursdaymood, #happyearlyvalentinesday"
 ---

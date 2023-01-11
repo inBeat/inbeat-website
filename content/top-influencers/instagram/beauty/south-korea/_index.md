@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In South Korea in 2023
+title: Top 10 Beauty Instagram Influencers In South Korea In 2023
 description: >-
-  Find top beauty Instagram influencers in South Korea in 2023. Most popular hashtags: #ootd #dailylook #makeup.
+  Find top beauty Instagram influencers in South Korea in 2023. Most popular hashtags: #ootd #bodycheck #fitness.
 platform: Instagram
-hits: 253
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat has 253 Instagram influencers like this in South Korea for you to collaborate.
+hits: 263
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 263 Instagram influencers like this in South Korea for you to pitch.
 profiles:
-  - username: "hyoninii"
+  - username: "hannacoreana"
     fullname: >-
-      Hyoni🎀 효니
+      Hanna Coreana 한나
     bio: >-
-      Let's be Happy & Healthy 💕 @hyoni_beauty 👇🏻효니🙋🏼‍♀️블로그👇🏻
+      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
     location: "South Korea"
-    followers: 24372
-    engagement: 721
-    commentsToLikes: 0.023084
-    id: ckapby83h1qoe0i78duyl1zxg
+    followers: 73663
+    engagement: 1430
+    commentsToLikes: 0.017638
+    id: ck139lh76lwpc0i19g78af5pm
     verified: false
-    hashtags: "#nike, #vt, #halloween, #campingiscoming"
+    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
   - username: "bibisister_j"
     fullname: >-
       전지영 쇼호스트  | 비비언니
     bio: >-
-      🏆2020 beautycreator 2nd Runner ▫️봄온 아나운서 아카데미 교수진 | 프리랜서 방송인 ▫️문의사항 DM&카톡 > bibisister ⠀ 👇🏻#하루비움 구매링크
+      🏆2020 beautycreator 2nd Runner 현) 프리랜서 쇼호스트 | 뷰티크리에이터 전) 아모레퍼시픽 교육강사 전) 해커스교육그룹 CS팀장 ▫️#섭외 카톡&DM > bibisister ⠀ 👇🏻비비언니 모든것
     location: "South Korea"
-    followers: 73990
-    engagement: 106
-    commentsToLikes: 0.082590
+    followers: 84753
+    engagement: 97
+    commentsToLikes: 0.129171
     id: ck6towsgggjn20j71bgihivbc
     verified: false
-    hashtags: "#ootd, #fitgirl, #running, #workout"
-  - username: "renasteps"
+    hashtags: "#workout, #bodycheck, #ootd, #mook"
+  - username: "west__star__"
     fullname: >-
-      Irena
+      서별 // 플러스사이즈모델
     bio: >-
-      📮Inquires: irena@ohismelon.com 💎Jewelry: bonbon jewelry @ taobao 💄Beauty: 美就完事了@ taobao
+      🇰🇷 PLUS SIZE MODEL | ACTOR | FITNESS | BEAUTY @thekurvekorea @nobleman_theater 유튜브 ‘웨스트스타’ 채널
     location: "South Korea"
-    followers: 42196
-    engagement: 679
-    commentsToLikes: 0.005593
-    id: ckapa1coeubh30i78dxa2s9wt
+    followers: 22567
+    engagement: 541
+    commentsToLikes: 0.014856
+    id: ck9haqe75dngd0j781tk89geu
     verified: false
-    hashtags: "#plog"
-  - username: "ariarisom"
+    hashtags: "#13"
+  - username: "hyoninii"
     fullname: >-
-      아리솜의 짜릿한 뷰티 / ARISOM
+      Hyoni🎀 포도효니
     bio: >-
-      💄Korean beauty Creator & blogger 👑 네이버 뷰스타 TOP 10 💋뷰티 블로거/ 크리에이터/유튜버 ❤️Beauty / Cosmetic / Makeup /Travel 여행 계정 @hyunshin_lee
+      Let's be Happy & Healthy 💕 @hyoni_beauty 👇🏻효니🙋🏼‍♀️블로그👇🏻
     location: "South Korea"
-    followers: 101125
-    engagement: 171
-    commentsToLikes: 0.033159
-    id: ck15s5uglbdgt0i19cnaaef8f
+    followers: 25372
+    engagement: 654
+    commentsToLikes: 0.018220
+    id: ckapby83h1qoe0i78duyl1zxg
     verified: false
-    hashtags: "#dyson, #lookfantastickr, #exomage, #leadcycle"
-  - username: "director_pihyunjung"
+    hashtags: "#melonoptics, #garminconnect, #cyclegoggles, #cyclewear"
+  - username: "glam_dana"
     fullname: >-
-      디렉터파이
+      운동하는간호사ㅣ다나(Dana)
     bio: >-
-      화장품을 분석하고 만드는 착한 화장품 멘토 It's my beauty life!! #디렉터파이 #directorpi 유튜브 바로가기
+      🇰🇷 Seoul/health&Beauty lifestyle💕 👑 @nabbawffkorea ambassador 💪🏿 @f45_training_sinnonhyeon ambassador 🏅 20 NABBA Bikini athlete tall top6
     location: "South Korea"
-    followers: 64759
-    engagement: 155
-    commentsToLikes: 0.045563
-    id: ck5bvgb27jlcy0i11zqmvnntw
+    followers: 93409
+    engagement: 208
+    commentsToLikes: 0.030592
+    id: ck6uiejgjemip0j71e2w2sfil
     verified: false
-    hashtags: "#directorpi, #thanksgod, #comingsoon, #sunblock"
-  - username: "anachoii"
+    hashtags: "#fitness, #gym, #bodycheck, #dailylook"
+  - username: "exhyun"
     fullname: >-
-      ANA CHOI | CONTENT CREATOR
+      김대현
     bio: >-
-      400k+ YouTuber 🎬 Podcast Host de “Querida Ana”🎤 Spanish speaking Korean 🇰🇷 K-beauty • Lifestyle • Culture ©
+      Beauty makeup major
     location: "South Korea"
-    followers: 17635
-    engagement: 937
-    commentsToLikes: 0.049224
-    id: ck9wookw95y240j78xszkt8a4
+    followers: 82297
+    engagement: 205
+    commentsToLikes: 0.032052
+    id: ckapbkg1b07ut0i78x97vaiyc
     verified: false
-    hashtags: "#modafashionista, #moda2020, #moda, #netherlands"
+    hashtags: "#iphone12mini"
   - username: "hyeggossi"
     fullname: >-
       ᴊᴊɪɴsᴛᴀɢʀᴀᴍ___
     bio: >-
       - contact : dm or e-mail - iphone  - daily, cafe, beauty, fashion
     location: "South Korea"
-    followers: 53317
-    engagement: 218
-    commentsToLikes: 0.026067
+    followers: 61426
+    engagement: 225
+    commentsToLikes: 0.026860
     id: ck55ncv825xwr0i117er3etft
     verified: false
-    hashtags: "#ck, #aestura, #lee, #410"
-  - username: "kimdax.daeun"
+    hashtags: "#onitsuka, #onitsukatiger, #1460, #baskinrobbins"
+  - username: "director_pihyunjung"
     fullname: >-
-      킴닥스
+      디렉터파이
     bio: >-
-      Director & Beauty youtuber “Whatever We Want✨“ 꿈을 꾸는 사람은 동화를 만날 거예요 _______ 🎬 ㈜ @kimdax_studio CEO 👩🏻‍🎓중앙대 신문방송학부 media @kimdax.story
+      화장품을 분석하고 만드는 착한 화장품 멘토 It's my beauty life!! #디렉터파이 #directorpi 유튜브 바로가기
     location: "South Korea"
-    followers: 66621
-    engagement: 176
-    commentsToLikes: 0.017363
-    id: ck6tvq0w9nmem0j71jiki2hht
-    verified: true
-    hashtags: "#art, #kimdax, #kimdaxstyle, #ootd"
-  - username: "gyuri_pp"
-    fullname: >-
-      박규리 Park Gyuri
-    bio: >-
-      Fashion / Beauty / Life style Styling Keywords💎 "Romantic chic" 🤍TikTok : gyuri_pp gyuripp59@gmail.com
-    location: "South Korea"
-    followers: 70307
-    engagement: 166
-    commentsToLikes: 0.015357
-    id: ck5zns8nfp21b0i14893ercj0
+    followers: 63036
+    engagement: 161
+    commentsToLikes: 0.045582
+    id: ck5bvgb27jlcy0i11zqmvnntw
     verified: false
-    hashtags: "#biglogotrainer2, #ootd, #wakemake, #uncrown"
+    hashtags: "#directorpi, #thanksgod, #comingsoon, #sunblock"
   - username: "sangvely_luv"
     fullname: >-
-      Sang Ah
+      Sang Ah(Model)
     bio: >-
-      Beauty•fashion | model gm40328@naver.com 📩 촬영•라이브커머스방송 문의 dm or e-mail 몽모랑시 타트체리 콜라겐 예스틱 네이버라방 오후4시💖
+      Beauty•fashion Model&Showhost 촬영•라이브 방송 문의 DM💌 코멜리르 주얼리👇🏻
     location: "South Korea"
-    followers: 142870
-    engagement: 121
-    commentsToLikes: 0.017093
+    followers: 173910
+    engagement: 149
+    commentsToLikes: 0.025908
     id: ck13bwm6yxhod0i19sb3kez1o
     verified: false
-    hashtags: "#skin, #beauty, #lohacell, #makeup"
+    hashtags: "#dyson, #lancome, #comelile, #ahc"
+  - username: "anachoii"
+    fullname: >-
+      ANA CHOI | CONTENT CREATOR
+    bio: >-
+      480k+ YouTuber 🎬 Spanish speaking Korean 🇰🇷 Beauty • Lifestyle/Wellness • Culture ⤵️
+    location: "South Korea"
+    followers: 17657
+    engagement: 1001
+    commentsToLikes: 0.051681
+    id: ck9wookw95y240j78xszkt8a4
+    verified: false
+    hashtags: "#modaestilo, #sheinbuenfin2020, #sheinss21, #jeans"
 ---

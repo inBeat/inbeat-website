@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Los Angeles in 2023
+title: Top 10 Bloggers TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top bloggers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #fashion #foryoupage.
+  Find top bloggers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #fyp #ootd #fashion.
 platform: TikTok
-hits: 11
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 11 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 12
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat has 12 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
   - username: "minimalmajor"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🎬 TV Producer | Host | Blogger 🌴 los angeles | hawaii 👇🏼 shop my looks
     location: "United States"
-    followers: 21500
-    engagement: 687
-    commentsToLikes: 0.037904
+    followers: 20600
+    engagement: 742
+    commentsToLikes: 0.033831
     id: ck9v1zzgujeud0j788zvq9euw
     verified: false
-    hashtags: "#girlpower, #tiktokfashion, #sidehustle, #girlboss"
+    hashtags: "#motivation, #sidehustle, #dreamjobcheck, #dreamjob"
   - username: "afashionnerd"
     fullname: >-
       Amy Roiland
     bio: >-
       Fashion blogger A Fashion Nerd , @afashionnerd living in Los Angeles 💕
     location: "United States"
-    followers: 31400
-    engagement: 1079
-    commentsToLikes: 0.026484
+    followers: 54500
+    engagement: 1078
+    commentsToLikes: 0.040816
     id: ck9k9omuudzo80j78c4fbrndi
     verified: false
-    hashtags: "#fashion, #fyp, #gucci, #pinkhair"
-  - username: "monsterlovetoeat"
+    hashtags: "#fashiontok, #thrifted, #fy, #fyp"
+  - username: "stuartbrazell"
     fullname: >-
-      Monsterlovetoeat
+      stuartbrazell
     bio: >-
-      Follow my instagram ⬆️ 💌Email me for collab Los Angeles Foodie ❤️
+      Entertainment Reporter + Mom Blogger Boy Mama 😍 Baby + Toddler DM me on IG⬆️
     location: "United States"
-    followers: 478500
-    engagement: 960
-    commentsToLikes: 0.030031
-    id: ck8tor9w3nm920j78y698pbjg
+    followers: 51100
+    engagement: 599
+    commentsToLikes: 0.083827
+    id: cka0i7xigcjll0i78ehdbj3h1
     verified: true
-    hashtags: "#irvinespectrum, #amazon, #la, #fyp"
-  - username: "alyssatabit"
+    hashtags: "#rhinoplasty, #septoplasty, #oscars, #surgerytiktok"
+  - username: "brittsbellavita"
     fullname: >-
-      alyssa
+      Brittany Henderson
     bio: >-
-      Blogger & Podcast Host fashion + lifestyle IG: alyssatabit
+      🗺 Drone Photographer + Travel Blogger 🏔 Explore Hidden Gems 📍California
     location: "United States"
-    followers: 26000
-    engagement: 1418
-    commentsToLikes: 0.065475
-    id: ckbkt2nxko44z0j23uxvlyfak
+    followers: 4860
+    engagement: 879
+    commentsToLikes: 0.158024
+    id: ckc31kxgbs0780j23l3sqkae7
     verified: false
-    hashtags: "#ootd, #quarantinelife, #greenscreen, #makeoverchallenge"
+    hashtags: "#california, #mavicair2, #norcal, #traveltiktok"
+  - username: "jules_cali"
+    fullname: >-
+      Jules_Cali
+    bio: >-
+      LA Luxury Lifestyle Blogger | Entrepreneur 👧🏻 Insta @jules_cali 🇺🇸 🇵🇭 😄
+    location: "United States"
+    followers: 9783
+    engagement: 486
+    commentsToLikes: 0.141776
+    id: ck7zpa3fio9o40j78h13e4nol
+    verified: false
+    hashtags: "#tiktokfashion, #chanel, #chaneladdict, #ocblogger"
   - username: "hofitkimcohen"
     fullname: >-
       Hofit Kim Cohen
     bio: >-
       Travel & Lifestyle Blogger + some Comedy 😜 FOLLOW ME ON IG 📸 @hofitkimcohen
     location: "United States"
-    followers: 17600
-    engagement: 743
-    commentsToLikes: 0.068766
+    followers: 17400
+    engagement: 837
+    commentsToLikes: 0.066382
     id: ck93o54k532mk0j783oj08xdl
     verified: false
-    hashtags: "#foryou, #fyp, #travel, #losangeles"
-  - username: "meganeliseblog"
+    hashtags: "#foryou, #comedy, #kimkardashian, #fyp"
+  - username: "saffrononrose"
     fullname: >-
-      Megan Elise
+      Alisha Taneja
     bio: >-
-      San Diego based travel blogger inspiring your next adventure
+      Business: alisha@zoozlosangeles.com Following back on insta!❤️
     location: "United States"
-    followers: 5825
-    engagement: 591
-    commentsToLikes: 0.024316
-    id: ckbfdoczw75p50j23js9mhwud
-    verified: false
-    hashtags: "#pumpkinszn, #hellofall, #fallyall, #socal"
-  - username: "myexplorewithme"
+    followers: 409500
+    engagement: 1671
+    commentsToLikes: 0.051566
+    id: ck807322soaxg0j78rhkf1s40
+    verified: true
+    hashtags: "#losangeles, #la, #weho, #vlog"
+  - username: "miss_veraa"
     fullname: >-
-      MyExploreWithMe
+      Vera Cai
     bio: >-
-      San Diego videos, travel videos and nursing videos!Come to Yosemite with me!👇🏻
+      🦋 Founder + CEO of @pellatini 🤍 Brand Manager @shop.gemandi
     location: "United States"
-    followers: 34800
-    engagement: 630
-    commentsToLikes: 0.042397
-    id: ckbezszhdl6g10j237qflbudj
+    followers: 110800
+    engagement: 1785
+    commentsToLikes: 0.017459
+    id: ckdhk4ljqzb3b0j23f81hu3nf
     verified: false
-    hashtags: "#visitsd, #sandiego, #washington, #hiking"
-  - username: "absolutelylulu"
+    hashtags: "#learnontiktok, #losangeles, #jobperks, #advertising"
+  - username: "backtobrittany"
     fullname: >-
-      Lulu Benavides 
+      Backtobrittany
     bio: >-
-      Peruvian actress taking over LA ✨ Lifestyle - Fashion - Skincare
+      👑 of hair flipping Dancer/cheerleader turned Tik toker💃 Insta @brittanyrendak
     location: "United States"
-    followers: 17300
-    engagement: 693
-    commentsToLikes: 0.013671
-    id: ckb9q730xlspj0j23xo0p4snq
+    followers: 97300
+    engagement: 428
+    commentsToLikes: 0.024430
+    id: ckd06z92bahh00j23baxun39q
     verified: false
-    hashtags: "#mentalhealth, #happyathome, #makeup, #foryoupage"
-  - username: "nicoleisaacs11"
+    hashtags: "#relationship, #funny, #dance, #bf"
+  - username: "jennleezy"
     fullname: >-
-      nicoleisaacs
+      Jennleezy
     bio: >-
-      A bit of everything 💃🏽🍔🌏💄 www.nicoleisaacs.com Instagram: @Nicoleisaacs
+      IG: @jennleezy JenniferJLeezy@gmail.com
     location: "United States"
-    followers: 3548
-    engagement: 710
-    commentsToLikes: 0.023252
-    id: ck9fj3razdwql0j78wydswho7
+    followers: 261200
+    engagement: 472
+    commentsToLikes: 0.016133
+    id: ck9782t3f6ghw0j7892veg46s
     verified: false
-    hashtags: "#foryoupage, #foryou, #dance, #tiktoktravel"
-  - username: "ilsebringas"
-    fullname: >-
-      Ilse’Bringas |
-    bio: >-
-      Follow me on IG ↗️ Self-portrait photographer & model self taught 📸
-    location: "United States"
-    followers: 30200
-    engagement: 1242
-    commentsToLikes: 0.020396
-    id: ckbkowkumj3q90j23z426q02c
-    verified: false
-    hashtags: "#fashion, #duet, #makeup, #fyp"
+    hashtags: "#fyp, #monkeysoftiktok, #wanderlust, #swimwear"
 ---

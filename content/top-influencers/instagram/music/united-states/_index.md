@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In United States in 2023
+title: Top 10 Music Instagram Influencers In United States In 2023
 description: >-
-  Find top music Instagram influencers in United States in 2023. Most popular hashtags: #contrasts #streetportraiture #lifeandpeople.
+  Find top music Instagram influencers in United States in 2023. Most popular hashtags: #jeffsatur #madeintheusa #nicaragua.
 platform: Instagram
-hits: 14671
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 14671 Instagram influencers like this in United States for you to collaborate.
+hits: 16752
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 16752 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "jakewebber9"
+  - username: "wowtashawow"
     fullname: >-
-      Jake Webber
+      tasha 🕊
     bio: >-
-      music?
+      music ;-)
     location: "United States"
-    followers: 821503
-    engagement: 1274
-    commentsToLikes: 0.010793
-    id: ck13bzobmxxnc0i19spym07qa
-    verified: false
-    hashtags: ""
-  - username: "temporex"
-    fullname: >-
-      Joseph
-    bio: >-
-      music
-    location: "United States"
-    followers: 35385
-    engagement: 1865
-    commentsToLikes: 0.013365
-    id: ck6tih13p0p910j71q04julzv
+    followers: 12075
+    engagement: 740
+    commentsToLikes: 0.015422
+    id: ck55jdp3hwth30i11q9ww3j5a
     verified: true
-    hashtags: "#hello, #chilling"
+    hashtags: ""
   - username: "tajralph"
     fullname: >-
       Taj Ralph
     bio: >-
       Music
     location: "United States"
-    followers: 7069
-    engagement: 611
-    commentsToLikes: 0.029172
+    followers: 6598
+    engagement: 405
+    commentsToLikes: 0.047942
     id: ck6u1uaienxaf0j71rd3u3t32
     verified: false
-    hashtags: ""
-  - username: "thegiftedvoices"
+    hashtags: "#callinsurance"
+  - username: "osloibrahim"
     fullname: >-
-      MUSIC
+      LORD OSLO
     bio: >-
-      Music | Música | La Musique | 音乐 | ❤️ • Tag us in your videos • Email: Thegiftedvoices1@yahoo.com • Enjoy the covers :) #thegiftedvoices
+      he is wonderful. he is me and i’m him. 📞 : +62 856 7660881 (balian) “he makes music”
     location: "United States"
-    followers: 55442
-    engagement: 189
-    commentsToLikes: 0.017688
-    id: ck14hc4ut9kth0i19vhtn9pkl
+    followers: 49241
+    engagement: 692
+    commentsToLikes: 0.012044
+    id: ck8sz7hthndus0j7894d27aks
     verified: false
-    hashtags: "#music, #covers, #christmas"
-  - username: "juliaholter"
+    hashtags: "#masmaslyfe, #livebold, #tennislyfe, #tenniscourt"
+  - username: "juliengeloen"
     fullname: >-
-      julia shammas holter
+      Julien Geloën
     bio: >-
-      music
+      📩 juliengeloenpro@gmail.com 🏳️🎶 music : @iamblanc 🐯🐯 @superstarbianca 🌞 SUN IS SHINING 🌞 🎥 Tiktok ↙️↙️
     location: "United States"
-    followers: 19172
-    engagement: 336
-    commentsToLikes: 0.017317
-    id: ck0w02qa7c3d90i19vh1t72mb
-    verified: false
-    hashtags: ""
-  - username: "kalleyheili"
+    followers: 437933
+    engagement: 485
+    commentsToLikes: 0.010626
+    id: ck55j15u3w0jk0i11r3rbowyd
+    verified: true
+    hashtags: "#monmomentestheticcenter, #estheticcenter, #thinknewdrinknew, #deltatour"
+  - username: "jeffsatur"
     fullname: >-
-      kalley
+      𝗝 𝗘 𝗙 𝗙   𝗦 𝗔 𝗧 𝗨 𝗥 (罗杰夫)
     bio: >-
-      I like words and they say pictures are worth a thousand. • Wife + Mom, BSSM2 + Bethel Music I wear lots of hats. Literally.
+      🪐Work @studio_on_saturn:0968626665(K.Venus) @beoncloud.official Line:@beoncloud ✉️artist@beoncloud.com Warner Music Thailand :0654409098(K.Boy)
     location: "United States"
-    followers: 282086
-    engagement: 1245
-    commentsToLikes: 0.013977
-    id: ck55n1llc5abw0i11669c6kha
+    followers: 2615963
+    engagement: 1688
+    commentsToLikes: 0.005370
+    id: cl31crsw9xwqw0i23qc3523r1
     verified: false
-    hashtags: "#blackouttuesday, #enneagram, #myersbriggs, #disc"
-  - username: "annabelle_8314"
+    hashtags: "#jeffxmnyfreshtint, #jeffsatur, #panth, #santosdecartier"
+  - username: "kaytranada"
     fullname: >-
-      Naomi
+      
     bio: >-
-      Based in NYC! 📷Passionate streetphotographer. Documentary. Street portraiture.Life! Shadows....Love to engage with people, nature!music is my soul! 🌎
+      oh my gosh the music just turns me on
     location: "United States"
-    followers: 4073
-    engagement: 2653
-    commentsToLikes: 0.259682
-    id: ck8tc9rfmysem0j788zdn1119
-    verified: false
-    hashtags: "#griii, #bnwgreatshots, #bnwstreetphotography, #shotfromthesoul"
-  - username: "aereoflash"
+    followers: 1069476
+    engagement: 796
+    commentsToLikes: 4.675763
+    id: ck0vv8ul3o2770i19ai31qg0e
+    verified: true
+    hashtags: "#flauntmagazine, #thetempestissue, #placespluskaytranada"
+  - username: "teishi"
     fullname: >-
-      Aereoflash
+      Tei Shi
     bio: >-
-      #Film & #Music fan 🎬 #Slacker ✌ 📷 Thanks for visiting my profile! Unfortunately no DMs but feel free to leave a comment or share a post.
+      🇨🇴 🇨🇦 music. teishibiz@gmail.com tiktok: @tei.shi
     location: "United States"
-    followers: 8889
-    engagement: 1403
-    commentsToLikes: 0.201115
-    id: ck15qjdb934po0i198lo5utlv
-    verified: false
-    hashtags: ""
-  - username: "dawsonthuckabee"
+    followers: 45370
+    engagement: 388
+    commentsToLikes: 0.021167
+    id: ck55jgumxx07u0i11qm5t4xoo
+    verified: true
+    hashtags: "#pressplay, #teishi"
+  - username: "tatuajeinc"
     fullname: >-
-      Dawson Huckabee ~ OTO
+      Pete Johnson
     bio: >-
-      @ontheoutside #JUSTKEEPDRIVING music video out now!! check it out 👇🏼
+      Founder - Tatuaje Cigars Inc. - Cigars, Wine, Spirits, Music, Fashion & Travel @tatuajecigars #tatuajecigars
     location: "United States"
-    followers: 28831
-    engagement: 1141
-    commentsToLikes: 0.075184
-    id: ck14ji8yvkhfu0i19s44fqpta
+    followers: 26289
+    engagement: 348
+    commentsToLikes: 0.032740
+    id: ck5q6m5j5xyog0i11cbsl7prk
     verified: false
-    hashtags: "#otoforono, #jkd, #justkeepdriving"
-  - username: "unkutcinematics"
+    hashtags: "#nicaragua, #madeinnicaragua, #madeintheusa, #cigars"
+  - username: "sanholobeats"
     fullname: >-
-      UN✂️UT📽inematics
+      San Holo (↑%)
     bio: >-
-      A🎵 in ⭕️ne Rich Forever Musics A&R💰 YoungBoy NBA Personal Asst.🐵 Unkutcinematics@gmail.com
+      LA | founder @bitbird 🕊❤️ ✨@stayvibrant ✨ EDM EXISTENTIAL DANCE MUSIC
     location: "United States"
-    followers: 48910
-    engagement: 861
-    commentsToLikes: 0.106863
-    id: ck14igeh4f9of0i19jczm1s6n
+    followers: 466296
+    engagement: 297
+    commentsToLikes: 0.033255
+    id: ck0tt10a00ouh0i19fem87c1e
+    verified: true
+    hashtags: "#kunstinspireertenverbindt, #artinspiresandconnects, #bekijkhetmauritshuismetjeoren, #supportervanallekunstontdekkers"
+  - username: "chrismcg"
+    fullname: >-
+      Christopher McGinnis
+    bio: >-
+      🌎 Worldwide 🎶 Life Without Music Would B Flat 🙏🏼 Faith in God 🤝 I enjoy helping people
+    location: "United States"
+    followers: 10706992
+    engagement: 251
+    commentsToLikes: 0.005202
+    id: ck5ho3yggow5j0i11yqoba04c
     verified: false
-    hashtags: "#nobodysafe, #snoopdogg, #richthekidd, #offset"
+    hashtags: "#edst, #dubai, #maldives, #barbados"
 ---

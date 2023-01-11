@@ -1,12 +1,36 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Chicago in 2023
+title: Top 10 Comedians Instagram Influencers In Chicago In 2023
 description: >-
-  Find top comedians Instagram influencers in Chicago in 2023. Most popular hashtags: #quarantine #chicago #comedy.
+  Find top comedians Instagram influencers in Chicago in 2023. Most popular hashtags: #comedy #chicago #comedian #instagood.
 platform: Instagram
-hits: 28
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 28 Instagram influencers like this in Chicago, United States for you to collaborate.
+hits: 22
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
+  - username: "merediddys"
+    fullname: >-
+      Meredith Stepien
+    bio: >-
+      Chicago-based comedian, Starkid, musician!! Band: @jimandthepovolos //Theater: @therealteamstarkid // Rep’d by: @paonessatalentagency // she/they
+    location: "United States"
+    followers: 69142
+    engagement: 441
+    commentsToLikes: 0.004983
+    id: ck0vuvfr9mcde0i19okhp01rq
+    verified: true
+    hashtags: "#vhschristmascarol, #snow, #sunset, #morning"
+  - username: "darioncomedy"
+    fullname: >-
+      Darion Adkins
+    bio: >-
+      Stand Up Comedian | Actor | Host Chicago, IL If you ain’t never got chased by some Latin Kings you ain’t living right 🤣
+    location: "United States"
+    followers: 19401
+    engagement: 26
+    commentsToLikes: 0.165426
+    id: ck0w42fhzwgyl0i19lycvds95
+    verified: false
+    hashtags: "#respectthelegends, #comedy"
   - username: "alia.janine"
     fullname: >-
       Alia Janine 🦄
@@ -18,113 +42,89 @@ profiles:
     commentsToLikes: 0.065723
     id: ck5ce8zemkkvh0i11rtlzkx2l
     verified: false
-    hashtags: "#quarantinehero, #humor, #instafunny, #standup"
-  - username: "mayadanzig"
-    fullname: >-
-      Maya Danzig
-    bio: >-
-      nyc & chicago actor/comedian/hire me UCAA and @desantitalents
-    location: "United States"
-    followers: 4909
-    engagement: 1208
-    commentsToLikes: 0.032694
-    id: ckap1jyz1uusu0i78zva4no4x
-    verified: false
-    hashtags: "#teamjaney, #crownher"
-  - username: "merediddys"
-    fullname: >-
-      Meredith Stepien
-    bio: >-
-      Chicago based comedian, Starkid, musician. I love photos!! Band: @jimandthepovolos //Theater: @therealteamstarkid // Rep’d by: @paonessatalentagency
-    location: "United States"
-    followers: 64342
-    engagement: 575
-    commentsToLikes: 0.005517
-    id: ck0vuvfr9mcde0i19okhp01rq
-    verified: true
-    hashtags: "#quarantine, #chicago, #spring, #stayhome"
-  - username: "darioncomedy"
-    fullname: >-
-      Darion Adkins
-    bio: >-
-      Stand Up Comedian | Actor | Host Chicago, IL If you ain’t never got chased by some Latin Kings you ain’t living right 🤣
-    location: "United States"
-    followers: 18961
-    engagement: 22
-    commentsToLikes: 0.199740
-    id: ck0w42fhzwgyl0i19lycvds95
-    verified: false
-    hashtags: ""
-  - username: "richmwilliams"
-    fullname: >-
-      Rich Williams
-    bio: >-
-      Lost 120lbs by eating whole, real foods 6'5" 235lbs ❤️Health 🏙Chicago & 🐈 Cats 🎭 Writer/Actor/Comedian My booper’s page: @chicagoblackcat
-    location: "United States"
-    followers: 13151
-    engagement: 1738
-    commentsToLikes: 0.037928
-    id: ck0vziuxm9bq10i19ol9uqwmp
-    verified: false
-    hashtags: "#citycat, #funnycat, #catvideo, #chicagocat"
-  - username: "joenicastro"
-    fullname: >-
-      ᴴᴬˢᴴᵀᴬᴳ ᴺᴼᵀ ᴬᴺ ᴵᴺᶠᴸᵁᴱᴺᶜᴱᴿ
-    bio: >-
-      𝐒𝐄𝐍𝐈𝐎𝐑 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐎𝐑, @barrys 📍Chicago Self-proclaimed comedian. He/him/his “NEVER HOLD YOUR BEST SELF HOSTAGE.” #lamppostgoals 👬@benandjerrys
-    location: "United States"
-    followers: 17065
-    engagement: 425
-    commentsToLikes: 0.046395
-    id: ck5cfe3e7mrs90i11smfvlb3f
-    verified: false
-    hashtags: "#blessed, #glowup, #notaninfluencer, #tbt"
+    hashtags: "#comedynyc, #standup, #stayhome, #lol"
   - username: "lilmaisiemarie"
     fullname: >-
       Maisie | Pomeranian
     bio: >-
       🌠 Pawfessional Dog Model 🌇 Chicago’s Happiest Pom 🎆 Aspiring comedian 🌌 TikTok⭐️<440k> ⬇️50% off 1st #barkbox code⬇️
     location: "United States"
-    followers: 10386
-    engagement: 1308
-    commentsToLikes: 0.119654
+    followers: 10191
+    engagement: 1284
+    commentsToLikes: 0.140386
     id: ck5bvkbdgjtkt0i11ghs2wupc
     verified: false
-    hashtags: "#pomeranian, #funnyvideos, #reels, #maisiemusings"
-  - username: "mrkkess"
+    hashtags: "#reelsinstagram, #reels, #funnyvideos, #pomeranian"
+  - username: "nphcomedy"
     fullname: >-
-      K. Kess (aka Mr. Versatility)
+      Natasha Pearl Hansen
     bio: >-
-      Business Executive 👨🏿‍💼| Public Speaker 🎤 | Professional DJ 🎶 | Professional Photographer 📷
+      LA Comedian•Creator•Producer•Entrepreneur•Ninja• 👋🏽Clubhouse✳️ CEO/Fndr: @mybreakupregistry Ruggedly classy life enthusiast @futurerolemodel Pod👇🏾
     location: "United States"
-    followers: 2307
-    engagement: 1300
-    commentsToLikes: 0.145495
-    id: ck5c1g41kv4fd0i11okvebzj4
+    followers: 28711
+    engagement: 119
+    commentsToLikes: 0.085111
+    id: ck15q4a6m10ya0i19uh84etfi
     verified: false
-    hashtags: "#creative, #love, #beautiful, #entrepreneurmindset"
+    hashtags: "#fitness, #comedy, #photography, #wine"
+  - username: "joenicastro"
+    fullname: >-
+      ᴴᴬˢᴴᵀᴬᴳ ᴺᴼᵀ ᴬᴺ ᴵᴺᶠᴸᵁᴱᴺᶜᴱᴿ
+    bio: >-
+      📍Chicago @barrys 💪🏻🏃🏻‍♂️ CF-L1 🏋🏻‍♂️ Self-proclaimed comedian. He/him/his “𝐘𝐨𝐮𝐫 🌍 𝐢𝐬 𝐧𝐨𝐭 𝐭𝐡𝐞 🌍.”
+    location: "United States"
+    followers: 16568
+    engagement: 402
+    commentsToLikes: 0.047539
+    id: ck5cfe3e7mrs90i11smfvlb3f
+    verified: false
+    hashtags: ""
+  - username: "binkey1"
+    fullname: >-
+      BINKEY
+    bio: >-
+      I’m black boy joy in da flesh! Traveling Artist/ Host/MC/Comedian/Beatboxer/Loop Specialist/Minister/Teacher & Reformed FukBoi...eh...Reforming!
+    location: "United States"
+    followers: 6998
+    engagement: 388
+    commentsToLikes: 0.104762
+    id: ck5zp27z1ruh20i148onqsnil
+    verified: false
+    hashtags: "#instagram, #spreadlove, #chicago, #blackboyjoy"
+  - username: "markvieracomedy"
+    fullname: >-
+      Mark Viera
+    bio: >-
+      🇵🇷Puerto Rican Comedian from the #Bronx! #thelatinassasin Watch me on @hbomax @trutv @showtime @comedycentral and more! Show tickets & NEW special!👇
+    location: "United States"
+    followers: 31642
+    engagement: 170
+    commentsToLikes: 0.075289
+    id: ck5zunsg32pqa0i1448uf33bv
+    verified: false
+    hashtags: "#love, #statenisland, #nyc, #laugh"
   - username: "mella_famous"
     fullname: >-
       Mella Famous
     bio: >-
       🙏🏾I Am That I Am God 1st🙏🏾 🎶🎛🎬 Comedian / Musician / DJ / Producer / Father #MellaFamousComedy #MellaFamous #PastorCantSee @pastor_cantsee
     location: "United States"
-    followers: 6636
-    engagement: 642
-    commentsToLikes: 0.083724
+    followers: 7141
+    engagement: 182
+    commentsToLikes: 0.101858
     id: ck5cce1vnh6ha0i11e272vfnp
     verified: false
-    hashtags: "#comedian, #instagood, #instaquote, #explore"
-  - username: "nahlarae1"
+    hashtags: "#wildnout, #worldstar, #public, #fyp"
+  - username: "j_ivy"
     fullname: >-
-      Nahla Rae
+      J. Ivy
     bio: >-
-      Pretty much a comedian.
+      Tune in to #theWORD w/ J. Ivy Poetry & Conversation Every Wedns 7pm CST on IG Live #NeverLetMeDown @recordingacademy’s #Chicago Chapter President
     location: "United States"
-    followers: 104165
-    engagement: 133
-    commentsToLikes: 0.083213
-    id: ck0u2g0cgzuxm0i19zllzvy26
-    verified: false
-    hashtags: "#boredinthehouse, #scoutmechadwick, #blonde, #pictureoftheday"
+    followers: 18610
+    engagement: 138
+    commentsToLikes: 0.103546
+    id: ck6ts8ihj3byz0j71fcjg4hbe
+    verified: true
+    hashtags: "#spokenword, #newyork, #poets, #repost"
 ---

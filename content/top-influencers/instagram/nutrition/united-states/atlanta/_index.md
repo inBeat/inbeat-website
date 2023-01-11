@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Atlanta in 2023
+title: Top 10 Nutrition Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top nutrition Instagram influencers in Atlanta in 2023. Most popular hashtags: #feedfeed #foodie #strongnotskinny.
+  Find top nutrition Instagram influencers in Atlanta in 2023. Most popular hashtags: #strongnotskinny #mondaymotivation #intuitiveeating #wholefoods.
 platform: Instagram
-hits: 26
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 26 Instagram influencers like this in Atlanta, United States for you to contact.
+hits: 21
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 21 Instagram influencers like this in Atlanta, United States for you to collaborate.
 profiles:
-  - username: "rushingtothekitchen"
+  - username: "plantfueledstrength"
     fullname: >-
-      Courtney Rushing
+      Devon Bennett Ⓥ
     bio: >-
-      Masters in Clinical Nutrition student Atlanta, Ga 1:1 coaching spots available👇🏻
+      🌱 Vegan Fitness and Nutrition 📍 Atlanta, Ga
     location: "United States"
-    followers: 7076
-    engagement: 363
-    commentsToLikes: 0.236292
-    id: ck0twvachgwf90i1936cdck00
+    followers: 39505
+    engagement: 260
+    commentsToLikes: 0.045566
+    id: ck14klz1nq61h0i19sgxw6lzz
     verified: false
-    hashtags: "#iifym, #foodreview, #macros, #review"
-  - username: "renebyrdofficial"
+    hashtags: "#plantfueled, #govegan, #plantbaseddiet, #plantbasedathlete"
+  - username: "tammy_bellabae_fitness"
     fullname: >-
-      Rene Byrd
+      Tammy 🎀🌴👙💪
     bio: >-
-      Singer Songwriter 🎤 ❤ God Born Again music out now link in bio 🔥 Ambassador Wearenmcfuk Influencer #platformforpurpose #boardroomtostage #whoami
+      ISSA Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding and Senior Fitness @valorfitnessclothing 💙 TAMMY20
     location: "United States"
-    followers: 31075
-    engagement: 161
-    commentsToLikes: 0.058914
-    id: ckap9695urbzt0i78oyuuu43r
+    followers: 12215
+    engagement: 1256
+    commentsToLikes: 0.111499
+    id: ckf5pez4b5ukz0j2385upfgyk
     verified: false
-    hashtags: "#tjnmusic, #renebyrdofficial, #musicforyoursoul, #music"
-  - username: "dasiafitadventures"
+    hashtags: "#giveback, #louboutin, #tattedbabes, #gucci"
+  - username: "laylayslaysit"
     fullname: >-
-      Dasia Baker
+      L A Y  L A Y    S L A Y S ❤️👑💋
     bio: >-
-      Atlanta|Health|Fitness| Personal Trainer @bowmar_nutrition Athlete Code: Dasia Visualize•Believe•Achieve
+      Atlanta,Ga. 🍑 CEO & Tribute video maker for J.Lo 🎥 Follow ➡️ #laylayslays Subscribe to my channel below ⬇️🙏
     location: "United States"
-    followers: 18244
-    engagement: 220
-    commentsToLikes: 0.058316
-    id: ck8t7u3h8hziv0j784o4555rz
+    followers: 10667
+    engagement: 425
+    commentsToLikes: 0.166978
+    id: ckf5q18ki7v3u0j23gfxmrc9y
     verified: false
-    hashtags: ""
+    hashtags: "#questionoftheday, #laylayslays, #pic, #instamood"
   - username: "turnipyourlife"
     fullname: >-
       Sydney Boyd
     bio: >-
       ✨bs in nutrition #rd2be | real food recipes | balanced lifestyle ♡ ⋆ breakfast lover and yogi🧘🏻‍♀️ atlanta📍
     location: "United States"
-    followers: 13086
-    engagement: 698
-    commentsToLikes: 0.343540
+    followers: 12261
+    engagement: 745
+    commentsToLikes: 0.343029
     id: ck0txokwcjwjs0i19cf049dxg
     verified: false
-    hashtags: "#iamwellandgood, #easyrecipes, #foodblogging, #veganoatmeal"
-  - username: "eleni.cc"
-    fullname: >-
-      Eleni | Coffee & Concealer
-    bio: >-
-      | here to spread kindness 💫 | integrative nutrition specialist finding the balance in all things wellness, beauty, & lifestyle 🌱
-    location: "United States"
-    followers: 10365
-    engagement: 481
-    commentsToLikes: 0.103549
-    id: ck5btpm8ygdbi0i11dmboexoz
-    verified: false
-    hashtags: "#ad, #target, #aveenopartner, #aveeno"
+    hashtags: "#iamwellandgood, #healthyfoodie, #feedyoursoul, #easyrecipes"
   - username: "hellospoonful"
     fullname: >-
       Nutritionist | Elizabeth Moye
     bio: >-
-      👩🏻‍⚕️ nutritionist 💜 approachable, affordable, + healthy eats 🥜 peanut butter obsessed 🍑 Atlanta, GA ✉️ elizabethamoye@gmail.com
+      👩🏻‍⚕️ nutritionist, wife, mama 💜 approachable, affordable, + healthy eats 🥜 peanut butter obsessed 🍑 Atlanta, GA ✉️ elizabethamoye@gmail.com
     location: "United States"
-    followers: 39138
-    engagement: 400
-    commentsToLikes: 0.156551
+    followers: 42578
+    engagement: 272
+    commentsToLikes: 0.168628
     id: ck0w2ed0knxpd0i197mhmcc78
     verified: false
-    hashtags: "#foodbloggerpro, #foodgawker, #healthyfood, #nourishyourbody"
+    hashtags: "#babyzay, #todayfood, #thekitchn, #nomnom"
+  - username: "marisamoore"
+    fullname: >-
+      Marisa Moore, MBA. RDN.
+    bio: >-
+      Registered Dietitian Nutritionist connecting on nutrition, well-being & food. 🥘 First cookbook in progress 🥑Seen on CNN, TODAY, Essence... 📍Atlanta,GA
+    location: "United States"
+    followers: 51476
+    engagement: 179
+    commentsToLikes: 0.125336
+    id: ckf5wkjarsc2z0j23ijkkzj6j
+    verified: false
+    hashtags: "#balancedeating, #healthyeatingideas, #summersalad, #recipeinspo"
   - username: "the_templebuilder"
     fullname: >-
       Julius Miles---TempleBuilder
     bio: >-
       🙏🏾HE>family>i 💪🏾Coaching & 🍎Nutrition 🦋Transformation Specialist 🛡Owner @gladiator_fitness_atlanta 💊 @gaspari MILES20 Click to get started 🔽🔽🔽🔽
     location: "United States"
-    followers: 18962
-    engagement: 158
-    commentsToLikes: 0.092063
+    followers: 19288
+    engagement: 169
+    commentsToLikes: 0.088210
     id: ckap1cqb8u12v0i788bg96jbb
     verified: false
-    hashtags: "#fitover50"
-  - username: "thedesailifestyle"
+    hashtags: "#love, #blacklove, #family, #blessed"
+  - username: "liannagro_ifbbpro"
     fullname: >-
-      Abhish Desai
+      Lianna Groeneveld
     bio: >-
-      -TRAINER -LAW DEGREE -APP COMING SOON 📍ATLANTA @jaybirdsport @on_running ambassador @celsiusofficial athlete . .
+      🌐 IFBB FIGURE PRO 🎓 B.S. Exercise Science, NASM CPT/FNS ⚡️ NeuX Specialist @neulevelperformance 💪🏽 Online Nutrition/Training + Posing
     location: "United States"
-    followers: 373914
-    engagement: 170
-    commentsToLikes: 0.004963
-    id: ck135z50y3yb00i198y6ixoz3
+    followers: 7453
+    engagement: 463
+    commentsToLikes: 0.061168
+    id: ck5hh4swg6dx50i114ie4xukl
     verified: false
-    hashtags: "#fitnessfirst, #bodyweight, #crossfitathlete, #workoutmotivation"
-  - username: "eatplantsprosper"
+    hashtags: "#smoothnx, #puppy, #dogsofinstagram, #neuxtec"
+  - username: "kiefferallie"
     fullname: >-
-      Whitney Miner | Nutritionist
+      Allie Kieffer
     bio: >-
-      Certified Holistic Nutritionist 🙏🏾 Believer |🌱 Vegan | 🧘🏾‍♀️ Yogi | 📍Atlanta whitney@eatplantsandprosper.com #BYMTribe Seen in @vegnews & @incmagazine
+      Running & nutrition coach // marathoner @NURVV code: ALLIE30 @InsideTracker code: ALLIEKIEFFER
     location: "United States"
-    followers: 8492
-    engagement: 535
-    commentsToLikes: 0.058001
-    id: ckaoqs3eek48s0i78r6akv5qb
+    followers: 58799
+    engagement: 568
+    commentsToLikes: 0.022804
+    id: ck55jsbb5xmzu0i11h9ggbyb0
     verified: false
-    hashtags: "#veganchef, #holisticnutritionist, #veganblogger, #veganvirgin"
-  - username: "plantfueledstrength"
+    hashtags: "#peachtreeroadrace, #runnersofinstagram, #mondaymotivation, #portlandtrackfestival"
+  - username: "t.rocha16"
     fullname: >-
-      Devon Bennett Ⓥ
+      Tony Rocha
     bio: >-
-      💪🏾 | Plant-based Fitness Nutrition 🌎 | Vegan Advocate 🥦 | DM for Custom Meal/Workout Plans 🌱 | Coach-@plantstrengthperformance 👇🏽 PSP Resistance Bands
+      🙏🏽Follower of Christ ⚽️ Professional Footballer @nycfc #15 ⚽️ Belize National Football Team 🌱Plant Based Athlete 🍎Nutrition Coach @nutritiongols
     location: "United States"
-    followers: 43615
-    engagement: 271
-    commentsToLikes: 0.033917
-    id: ck14klz1nq61h0i19sgxw6lzz
-    verified: false
-    hashtags: "#veganbreakfast, #plantprotein, #plantbaseddiet, #fueledbyplants"
+    followers: 3074
+    engagement: 870
+    commentsToLikes: 0.037992
+    id: ckf5mo6qfuprm0j23rgam8ha3
+    verified: true
+    hashtags: "#derby, #tr15, #ussoccer, #inspired"
 ---

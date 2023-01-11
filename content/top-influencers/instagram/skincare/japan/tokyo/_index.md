@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Tokyo in 2023
+title: Top 10 Skincare Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top skincare Instagram influencers in Tokyo in 2023. Most popular hashtags: #skincare #tokyo #fashion #pr.
+  Find top skincare Instagram influencers in Tokyo in 2023. Most popular hashtags: #pr #skincare #ootd #fashion.
 platform: Instagram
-hits: 79
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 79 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+hits: 49
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 49 Instagram influencers like this in Tokyo, Japan for you to pitch.
 profiles:
-  - username: "cjkana"
+  - username: "kalani_tokyo"
     fullname: >-
-      CYBERJAPAN DANCERS Kana
+      Kalani Ah Sing 【カラ二】
     bio: >-
-      サイバージャパンダンサーズのカナです🤍
+      🔹日本にフラを伝える先生《クムフラ》 🔹ライフスタイルに活かせば ▫️Positive＝積極的な人に ▫️Thankful＝感謝を言える人に ▫️Humble＝謙虚な人に ▫️Happy ＝幸せを与える人に
     location: "Japan"
-    followers: 427897
-    engagement: 222
-    commentsToLikes: 0.009381
-    id: ck5bukcwyhxz40i11ai55fbix
-    verified: true
-    hashtags: "#cyberjapan, #photobook, #yummy, #pr"
-  - username: "golf_yoshimi"
-    fullname: >-
-      YOSHIMI（よしし）
-    bio: >-
-      Golf / Fitness / Trip / Beauty ... ⛳️ 2years（❤️79 🤍82） 🌏 tokyo, japan 会社員とフリーランスモデルしております☺︎ ※お仕事依頼以外のDM/メールは対応できません🙏💦
-    location: "Japan"
-    followers: 47420
-    engagement: 417
-    commentsToLikes: 0.025187
-    id: ckf5ntckyzm8g0j23irayw85j
+    followers: 16416
+    engagement: 720
+    commentsToLikes: 0.015652
+    id: ck0u87pmv6n1m0i1924puhrji
     verified: false
-    hashtags: "#golfer, #golfwear, #golflife, #healthy"
-  - username: "xxayapink"
+    hashtags: "#kinaandkalani, #hawaii, #hulame, #hula"
+  - username: "bisuhada"
     fullname: >-
-      𝐚 𝐲 𝐚
+      Etsuyo Imoto
     bio: >-
-      ┈┈┈┈┈┈┈┈┈┈┈ 𝐦𝐲 𝐟𝐚𝐯 🥐🩰🧺🥂ˎˊ˗ 𝑐𝑎𝑓𝑒 , 𝑛𝑎𝑖𝑙 , 𝑐𝑜𝑑𝑒 , 𝑟𝑜𝑜𝑚 ┈┈┈┈┈┈┈┈┈┈┈
+      ♪セントラル株式会社所属 ■ #衝撃コスパモール #qoo10 の TVCM出演 ■ショップチャンネル ・リオッサ愛用者モデル ■美容誌・ファッション誌 読者モデル ■コスメコンシェルジュ ■グルーデコ講師 ■日本ソムリエ協会認定ワインエキスパート ■日本ソムリエ協会認定 SAKE DIPLOMA
     location: "Japan"
-    followers: 65668
-    engagement: 291
-    commentsToLikes: 0.004055
-    id: ck5zsbybzy7ka0i14exzwcw18
+    followers: 128561
+    engagement: 172
+    commentsToLikes: 0.045560
+    id: ck5qc5keboynq0i11m627wygf
     verified: false
-    hashtags: "#outfit, #shoplist, #code, #boots"
-  - username: "xshizzyx"
+    hashtags: "#bag, #ootd, #boots, #cordinate"
+  - username: "rio.takeuchi.543"
     fullname: >-
-      Shizuka Anderson | アンダーソン静香✨
+      竹内りお (Rio Takeuchi）
     bio: >-
-      ✨Miss World Japan 2020 特別賞受賞✨ NHK World "J-Flicks" Presenter Host of Japan by Food & TC Talk 🇯🇵x🇨🇦 halfie Food & singing❤️😋 Keeping it green🌿
+      ■ArowZ Entertainment ■ジュエリー,fashion designer ※撮影やお仕事のご依頼はDMでお願いします （広告モデル、PR、作品、映像etc） 衣食美を楽しみ才色兼備な生き方を ■作品集ギャラリー @takeuchirio24.4
     location: "Japan"
-    followers: 64526
-    engagement: 905
-    commentsToLikes: 0.017106
-    id: ck13741jw9o240i198fwx7yt4
+    followers: 53129
+    engagement: 232
+    commentsToLikes: 0.038075
+    id: ckaouzdrm2gnh0i78wxtthg22
     verified: false
-    hashtags: "#missworldjapan2020, #cp, #japan, #japanbyfood"
-  - username: "_ayami.y_"
+    hashtags: "#model, #cool, #cameramantokyo, #pr"
+  - username: "miki__yoshida"
     fullname: >-
-      彩未🍓【𝐚𝐲𝐚𝐦𝐢】
+      吉田美紀 Miki Yoshida
     bio: >-
-      🦄【PC:ブルベ夏/顔タイプ:フェミニン/骨格:ウェーブ】 可愛いと綺麗の中間が好き ⸜‪‪❤︎⸝‬‪‪ 🏋🏼‍♀️| @lastyle_official 📚| sweet/CLASSY/anan/ViVi/InRed/Ray etc... ↓ 楽天roomで愛用アイテム公開してます🥂
+      📍Tokyo JPN🇯🇵 🍀1978 Age43 👱‍♀️13years daughter 👗@lialapg producer/ 💍@liala_official producer 📩お仕事のご依頼は liala.info@gmail.com
     location: "Japan"
-    followers: 43161
-    engagement: 166
-    commentsToLikes: 0.022346
-    id: ckaoxua40es6k0i78gdzd05cp
+    followers: 42327
+    engagement: 134
+    commentsToLikes: 0.016884
+    id: ck5zzww4eck670i14z93ebol7
     verified: false
-    hashtags: "#stayhome, #fashion, #beauty, #clio"
-  - username: "risatolife_oka"
+    hashtags: "#ootd, #hermes, #lialapg, #wardrobe"
+  - username: "climbersjp"
     fullname: >-
-      Risato
+      CLIMBERS
     bio: >-
-      🏝 沖縄移住(2020.08〜) 　　　　　　　 ▶︎東京を離れ馬のお世話と畑を始めました ▶︎自然と調和する生き方にシフト✨ 　　　　　　　　　 お仕事・PRのご依頼はDMにお願いします📩
+      CLIMBERS（クライマーズ）はクライミングをテーマにした複合メディアプロジェクトです。フリーマガジンは全国のクライミングジム630店舗で配布中！ 🔎 Focus on Japanese sport climbing scenes and publishing a free magazine
     location: "Japan"
-    followers: 7078
-    engagement: 826
-    commentsToLikes: 0.010141
-    id: ck1375pnu9x1w0i19wv6bf9d5
+    followers: 13050
+    engagement: 588
+    commentsToLikes: 0.000681
+    id: ck0ttpt123rzw0i197qfuh1oe
     verified: false
-    hashtags: "#sportswear, #iammightysolo, #gastonluga, #mightysolo"
-  - username: "16__akanen"
-    fullname: >-
-      Akanen ♡
-    bio: >-
-      🍰 🐾 🍴 🍳 💗 本当はお肉とお芋が好きなんです！ ᴡᴏʀᴋ ʀᴇǫᴜᴇsᴛ ➠ DM
-    location: "Japan"
-    followers: 16075
-    engagement: 327
-    commentsToLikes: 0.000000
-    id: ckap5dac2b5rg0i787db47d8n
-    verified: false
-    hashtags: "#tokyo, #cafe, #cake, #afternoontea"
-  - username: "ninjacatgirl"
-    fullname: >-
-      LILI  リリ
-    bio: >-
-      ・Tokyo, Japan 🇯🇵 ⁣ ・スウェーデン出身⁣ ・フリーモデル & インフルエンサー⁣ お仕事の依頼はDMへ📩⁣ Please DM for inquiries
-    location: "Japan"
-    followers: 104752
-    engagement: 797
-    commentsToLikes: 0.035391
-    id: ck0u1whdby9bv0i193vusj6lv
-    verified: false
-    hashtags: "#swedishgirl, #selfie, #auna, #motd"
-  - username: "eri_t28"
-    fullname: >-
-      Eri Takakura   高倉 絵理
-    bio: >-
-      TRAVEL / BEAUTY / FASHION 1977 / based in Tokyo, JAPAN BYRON @byron_t28 FiNCアンバサダー @finc_app
-    location: "Japan"
-    followers: 171133
-    engagement: 144
-    commentsToLikes: 0.042692
-    id: ck6ugl5kf3obs0j71ffwwh3t3
-    verified: false
-    hashtags: "#chihuahua, #chihuahualife, #chihuahuastagram, #hotelstay"
+    hashtags: "#bpump, #men, #women, #aimori"
   - username: "haruka_takahashi0127"
     fullname: >-
       高橋晴香
     bio: >-
       model/PR Tokyo.Japan🇯🇵Haruka Takahashi/高橋晴香 アンバサダー @clena.official Trip🇹🇭🇰🇷🇭🇰🇬🇺🇺🇸🇬🇧 お仕事の依頼はDMにてお願い致します☆ アクセサリーブランド lumiere eclat プロデュース💎
     location: "Japan"
-    followers: 113177
-    engagement: 117
-    commentsToLikes: 0.061574
+    followers: 120558
+    engagement: 124
+    commentsToLikes: 0.074119
     id: ck0w7911ocdbw0i196up7cwdg
     verified: false
-    hashtags: "#outfit, #ootd, #ryuri, #clena"
+    hashtags: "#japantrip, #skincare, #valmuer, #pr"
+  - username: "haruka_yamauchi"
+    fullname: >-
+      山内遥 Haruka Yamauchi
+    bio: >-
+      Hyogo→Tokyo 165cm🌸🍃 お仕事のご依頼はDMまで☺︎ 雑誌LARMEモデルオーディショングランプリ スキューバダイビングOW Twitter
+    location: "Japan"
+    followers: 29732
+    engagement: 108
+    commentsToLikes: 0.030560
+    id: ck55kd7tez1i70i11zfkfvevm
+    verified: false
+    hashtags: "#dotcomspacetokyo, #etretokyo, #zara, #fashion"
+  - username: "naa_tsu0827"
+    fullname: >-
+      Natsu
+    bio: >-
+      Tokyo🇯🇵/#golf #trip #Natsu_trip🌸 お出かけするのが好き☺️
+    location: "Japan"
+    followers: 10607
+    engagement: 341
+    commentsToLikes: 0.021700
+    id: ckaouzcim2giu0i78vu0osj57
+    verified: false
+    hashtags: "#afternoontea, #natsu, #sweets, #travel"
+  - username: "kaori_sekimoto_"
+    fullname: >-
+      KAORI SEKIMOTO
+    bio: >-
+      TOKYO.JAPAN ㅤㅤㅤ
+    location: "Japan"
+    followers: 51799
+    engagement: 158
+    commentsToLikes: 0.005487
+    id: ck14ge1ps4qxl0i19pctg2nby
+    verified: false
+    hashtags: "#meeco, #make, #murua, #jewelry"
+  - username: "adubaby_519"
+    fullname: >-
+      大口あづ記 Azuki Oguchi
+    bio: >-
+      Tokyo / model /NMT inc./ 169cm
+    location: "Japan"
+    followers: 5555
+    engagement: 1026
+    commentsToLikes: 0.022518
+    id: ck6tkkwol4wpk0j71ea5wytvi
+    verified: false
+    hashtags: "#japanesemodel, #pr, #portrait, #jillstuart"
 ---

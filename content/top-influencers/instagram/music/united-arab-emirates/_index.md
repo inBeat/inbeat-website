@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Music Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top music Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #summervibes #dubailife.
+  Find top music Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #photooftheday.
 platform: Instagram
-hits: 119
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 119 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 111
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 111 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
+  - username: "therealdjkaran"
+    fullname: >-
+      Karan Bhatia
+    bio: >-
+      🎧 DJ 🎹 Music Producer 🏆 Best Asian DJ - Middle East (Masala 17) JUMP (OUT NOW) 👇🏻
+    location: "United Arab Emirates"
+    followers: 85833
+    engagement: 155
+    commentsToLikes: 0.013828
+    id: ck5zktrhkk5bm0i14ckwux8r9
+    verified: true
+    hashtags: "#dubai, #india, #mydubai, #therealdjkaran"
   - username: "a7mdf_"
     fullname: >-
       Ahmed
     bio: >-
       📧 | Ahmed-fareed@hotmail.com 👨🏽‍✈️ | Pilot 📍 | Dubai,UAE 👻 | A7mdf Shoe Addict • Music Lover • Man United Fan
     location: "United Arab Emirates"
-    followers: 47528
-    engagement: 706
-    commentsToLikes: 0.033408
+    followers: 55870
+    engagement: 441
+    commentsToLikes: 0.060922
     id: ckf5s6tchevxp0j23tw6oypg8
     verified: false
-    hashtags: "#menswardrobe, #ferragamopf20"
-  - username: "qval_director"
+    hashtags: ""
+  - username: "veraciocca"
     fullname: >-
-      Kovalev | Filmmaker Dubai
+      Vera Ciocca
     bio: >-
-      ▫Owner of @qval_film ▪Resident of Dubai 🧐Lifestyle and funny moments ▫commercial/music videos ▪KING OF SAUCE 👑
+      i make music ‘rompecabezas’ out now 👇🏼🧩
     location: "United Arab Emirates"
-    followers: 21292
-    engagement: 536
-    commentsToLikes: 0.071688
-    id: ck5hhi2438c250i11b98id14x
+    followers: 33166
+    engagement: 317
+    commentsToLikes: 0.105763
+    id: ck6tzzm0tcs6z0j712uuc2mwd
     verified: false
-    hashtags: "#atlaslensco, #red, #dubai, #qval"
-  - username: "lilanilottie"
-    fullname: >-
-      LILANI 🇬🇭
-    bio: >-
-      1/3 @set.music_ “HOW I FEEL” out now 💘
-    location: "United Arab Emirates"
-    followers: 27946
-    engagement: 544
-    commentsToLikes: 0.031648
-    id: ck15q6goi1c790i19pblghwww
-    verified: false
-    hashtags: "#birthdaygirl"
+    hashtags: "#rompecabezas, #veraciocca"
   - username: "vivianhawat"
     fullname: >-
       Vivian Hawat
     bio: >-
       Dubai📍 Virgo ♍️ Comms - L'Oréal Middle East @lorealmiddleeast Delmar and Bella’s mom 👶 🐶 Music lover 🎶 Nutella addict 🍫
     location: "United Arab Emirates"
-    followers: 19873
-    engagement: 1299
-    commentsToLikes: 0.013050
+    followers: 21081
+    engagement: 1109
+    commentsToLikes: 0.014412
     id: ck15uc8pxmg250i19zh51a8yw
     verified: false
-    hashtags: "#summervibes, #happydays, #stayhome, #nodrama"
-  - username: "swathi_kriz_nahh"
+    hashtags: "#stayhome, #dubai, #happydays, #summervibes"
+  - username: "dalidakhalilofficial"
     fullname: >-
-      Swathi Krishna
+      𝑫𝒂𝒍𝒊𝒅𝒂  𝑲𝒉𝒂𝒍𝒊𝒍
     bio: >-
-      BE BOLD OR ITALIC. NEVER REGULAR😈 Love❤ without limits✨️ 11~April 🎂🎉 Calicut🧡 INDIA🇮🇳 Musical.ly:swazooo😂
+      Actress🎬 🔹️Artist at Heart ♥️ 🔺️Bad Comments = 🚫Block 👻| DalidaKhalil Twitter| DalidaKhalil New Song & Music Video#شيك_اوي 🔽
     location: "United Arab Emirates"
-    followers: 9602
-    engagement: 1037
-    commentsToLikes: 0.038901
-    id: ck9wg94mfsdgz0j78mdiglgk2
-    verified: false
-    hashtags: "#dubai, #dxb, #adidas, #abudhabi"
-  - username: "harpistdubai"
-    fullname: >-
-      HARYOT | Harpist&Violist
-    bio: >-
-      🇩🇪 German Harp & Viola Performer 🎵 Studied Music with Distinction 📍 🇦🇹 Austria, Vienna 📩 office@haryot-singh.com
-    location: "United Arab Emirates"
-    followers: 5498
-    engagement: 1405
-    commentsToLikes: 0.078161
-    id: ck6tygihk3lcj0j71ilq0kjyw
-    verified: false
-    hashtags: "#livemusic, #dubaiharp, #violin, #harp"
+    followers: 2120209
+    engagement: 305
+    commentsToLikes: 0.046475
+    id: ck5bxjl9pnull0i11qxwafbvs
+    verified: true
+    hashtags: "#youtube, #artist, #dubaifashion, #chicawi"
   - username: "myglamgypsy"
     fullname: >-
       Rosh
     bio: >-
       Beauty | Fashion | Travel | Food | Music 📍: Dubai ↔️ Chicago 🔔 DM for Collabs 💌: myglamgypsy@gmail.com
     location: "United Arab Emirates"
-    followers: 27578
-    engagement: 138
-    commentsToLikes: 0.076796
+    followers: 26996
+    engagement: 83
+    commentsToLikes: 0.071650
     id: ck0w5yzr8641j0i193jsgznso
     verified: false
-    hashtags: "#makeupheaven, #modestclothing, #cuteoutfits, #makeupsquad"
+    hashtags: "#dubaigram, #reelsinstagram, #fashioninfluencers, #chicagomodels"
   - username: "djshadowdubai"
     fullname: >-
       DJ Shadow Dubai
     bio: >-
       📌Master of Global Music Collaborations 📌Producer👇 #SlowlySlowly @pitbull❌@gururandhawa #MoveYourBody @duttypaul❌@badboyshah #AajaNiAaja @iambohemia
     location: "United Arab Emirates"
-    followers: 462492
-    engagement: 186
-    commentsToLikes: 0.033974
+    followers: 451085
+    engagement: 135
+    commentsToLikes: 0.033381
     id: ck5hcadpxh0cd0i11kc3r4k2b
     verified: true
-    hashtags: "#djshadowdubai, #dubainightlife, #dj, #dubailife"
-  - username: "lami_lachu"
+    hashtags: "#diljitdosanjh, #flashbackfriday, #yoyohoneysingh"
+  - username: "djkidy_"
     fullname: >-
-      𝓛𝓪𝓴𝓼𝓱𝓶𝓲 𝓛𝓪𝓬𝓱𝓾𝔃
+      KIDY
     bio: >-
-      🇦🇪uae🇦🇪mallu 🇮🇳 Model💃🏻no7🎙Arab girl🧕🏻 🔥businessegirl💎still 18 🤨 Single🎀love myself💖 Music addict🎧 Crazines ?itz bor DM for Paid Promotions~
+      Dubai 🇦🇪 DJ, SOUND PRODUCER, TURNTABLIST RESIDENT DJ: @secretroomdubai @praiadubai @leovdubai @selektme TOP 1 DJ’S RUSSIA new music👇🏾
     location: "United Arab Emirates"
-    followers: 570208
-    engagement: 199
-    commentsToLikes: 0.015166
-    id: ck15r7jxk6jbs0i19xqzqtvg4
+    followers: 27976
+    engagement: 188
+    commentsToLikes: 0.040743
+    id: ck5hmufk4mn670i118lbcxn8u
     verified: false
-    hashtags: "#gangsterunited, #salsa, #gangstersrunitedkerela, #keraladiaries"
+    hashtags: ""
   - username: "saifandsoundofficial"
     fullname: >-
       Saif and Sound
     bio: >-
-      I talk and play music for a living! 📧 bookings@saifandsound.com
+      I talk and play music for a living! Founder @theprojectuae 📧 bookings@saifandsound.com
     location: "United Arab Emirates"
-    followers: 30427
-    engagement: 158
-    commentsToLikes: 0.059343
+    followers: 30187
+    engagement: 172
+    commentsToLikes: 0.060201
     id: ck601tqwpg5mq0i1489jxqk4l
     verified: true
-    hashtags: "#creativestateme, #quarantinelife, #motivation, #60seconds"
+    hashtags: "#graffitiwithoutborders, #creativestateme, #vusechargebeyond, #modelingagencies"
+  - username: "emily_bullock_"
+    fullname: >-
+      E M I L Y  B U L L O C K
+    bio: >-
+      22 🧚🏼‍♀️ Northern girl 🇬🇧 Living in Dubai 🤍 Music teacher ✨ My only account
+    location: "United Arab Emirates"
+    followers: 20902
+    engagement: 349
+    commentsToLikes: 0.024376
+    id: ck6tmgprx7tdm0j71l7rseq8k
+    verified: false
+    hashtags: ""
 ---

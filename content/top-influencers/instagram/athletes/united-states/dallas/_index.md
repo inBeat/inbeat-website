@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Dallas in 2023
+title: Top 10 Athletes Instagram Influencers In Dallas In 2023
 description: >-
-  Find top athletes Instagram influencers in Dallas in 2023. Most popular hashtags: #athlete #fitness #fashion.
+  Find top athletes Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #fitness #athlete.
 platform: Instagram
-hits: 64
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 64 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 69
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 69 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "camallison"
-    fullname: >-
-      CAM ALLISON
-    bio: >-
-      **only page** 100% Natural Athlete Dallas, TX⠀⠀⠀⠀⠀⠀⠀⠀ 👻Snap // cam_allison ⠀ ⠀⠀⠀⠀⠀⠀⠀⠀
-    location: "United States"
-    followers: 37613
-    engagement: 640
-    commentsToLikes: 0.015978
-    id: ckapcgcce3p5p0i78zc5fjbqh
-    verified: false
-    hashtags: "#chillout, #inwiththenew, #blackandwhite, #aesthetics"
   - username: "crashbanogu"
     fullname: >-
       Ben Banogu
     bio: >-
       DE Indianapolis Colts Business Inquiries: cjlaboy@teamwass.com @nike athlete Dallas, TX || TCU 🏈🐸 ||
     location: "United States"
-    followers: 12530
-    engagement: 1044
-    commentsToLikes: 0.025968
+    followers: 13206
+    engagement: 974
+    commentsToLikes: 0.023773
     id: ck0tuu9748oww0i19oo733104
     verified: true
-    hashtags: "#ad, #budlight, #blackouttuesday, #victorymonday"
-  - username: "modelmorganraine"
+    hashtags: "#victorymonday, #lemmetakethatoffyahandsbuddy, #crashcourse, #ad"
+  - username: "sarahannlopez"
     fullname: >-
-      Morgan
+      Sarah Ann
     bio: >-
-      17 year old TTMO Elite Model/actress/dancer Every living thing has a voice. Kindness matters. DM for rates TTMO November 2020 edition:
+      @shellshockcbd 🇺🇸 ☀️🧘🏽‍♀️ code: sarah - #fitmom 👧🏽👶🏽 WBFF 💎💜 @dynastytraining
     location: "United States"
-    followers: 3689
-    engagement: 2018
-    commentsToLikes: 0.123313
-    id: ck9h9sa7l9rie0j78o3kez23n
+    followers: 10719
+    engagement: 321
+    commentsToLikes: 0.057214
+    id: ckaora7c3mdx50i7835wzj7ot
     verified: false
-    hashtags: "#alltheoceanblues, #moodyports, #wickedports, #gramkilla"
-  - username: "r_yahuza"
+    hashtags: "#personalgrowth, #fitmom, #grow, #texas"
+  - username: "jaydenpollard16"
     fullname: >-
-      Yahuza Rasas 🇸🇸
+      Jayden Pollard
     bio: >-
-      Royalty 👑 STL 🛫 HTX Texas Southern MBB
+      5-year-old-gymnast @rolandp90x and @stephanie_pollard’s daughter! Haleigh@os-agency.co
     location: "United States"
-    followers: 2515
-    engagement: 1604
-    commentsToLikes: 0.031842
-    id: ck5zw5tes5jhl0i14h1yshtjm
+    followers: 218799
+    engagement: 760
+    commentsToLikes: 0.014376
+    id: ckaotru7mx7x00i78546iehap
     verified: false
-    hashtags: "#legacy, #statement, #neverlostit, #texas"
-  - username: "missjoyce22"
-    fullname: >-
-      JMoney Basketball Expert
-    bio: >-
-      🇺🇸Joyce "Sweet J" Ekworomadu - 12th female of the Harlem Globetrotters🌍 🏆Former WNBA🏆 🇳🇬Nigerian Nat'l Team🇳🇬 🎤Motivational Speaker🎤 Dallas, TX
-    location: "United States"
-    followers: 20919
-    engagement: 266
-    commentsToLikes: 0.128149
-    id: ckap224czx1sk0i78so6v39ut
-    verified: true
-    hashtags: "#wcw, #hooper, #ballislife, #ballin"
-  - username: "fit.tatiana"
-    fullname: >-
-      Tatiana Velasquez
-    bio: >-
-      👦🏻Proud mommy NASM CPT, CES, YES, WFS PN Certified Coach 1 @kimerakoffee TATI15 @hidden_gym
-    location: "United States"
-    followers: 43897
-    engagement: 88
-    commentsToLikes: 0.079903
-    id: ckaoynfq7i8r10i78ckwv8789
-    verified: false
-    hashtags: "#fashionable, #cute, #photooftheday, #look"
-  - username: "annavladiii"
-    fullname: >-
-      Anna Contortionist
-    bio: >-
-      Obsessed with travel 🧭 Very boring person 😏
-    location: "United States"
-    followers: 190242
-    engagement: 625
-    commentsToLikes: 0.019259
-    id: ck9wikdyq2nfw0j780m1g390a
-    verified: false
-    hashtags: "#texas, #gymlife, #acroyoga, #workout"
-  - username: "tonyd_ifbbpro"
-    fullname: >-
-      Tony Davis
-    bio: >-
-      🥇2016 IFBB NAmerica Championship Overall Champion 🏋🏾‍♂️PT Dallas
-    location: "United States"
-    followers: 10471
-    engagement: 404
-    commentsToLikes: 0.017355
-    id: ck14j5e8jipst0i19l5sgeup7
-    verified: false
-    hashtags: "#frenchiesofinstagram, #privategym, #bookyourappointment, #goonsquad"
+    hashtags: "#cheer, #gymnastics, #gymnast, #woga"
   - username: "edwincerrillo"
     fullname: >-
       
     bio: >-
       FC Dallas // Nike Athlete // #wvo
     location: "United States"
-    followers: 5063
-    engagement: 2026
-    commentsToLikes: 0.020559
+    followers: 5501
+    engagement: 1732
+    commentsToLikes: 0.021482
     id: ck5ciq8idt5eq0i1172golwh8
     verified: true
-    hashtags: "#mls, #playinside, #playfortheworld, #wvo"
+    hashtags: "#wvo, #texasderby"
   - username: "dallasmccarver"
     fullname: >-
       Dallas "Big Country" McCarver
     bio: >-
       Face and athlete of @redcon1official Dallas10 = 10%
     location: "United States"
-    followers: 419236
-    engagement: 536
-    commentsToLikes: 0.035577
+    followers: 400739
+    engagement: 577
+    commentsToLikes: 0.034951
     id: ck0w16zz1huzl0i19d8rkk2cv
     verified: false
+    hashtags: "#bigcountry, #dragonslair, #outgrowyourego, #campjansen"
+  - username: "lawrencepgivens"
+    fullname: >-
+      Lawrence P Givens
+    bio: >-
+      #BlackPhotographer Published #Editorial #Campaign #Ad #CreativeDirector #Photographer #Fashion #Beauty #Luxury 📍#Miami #NYC #LA #CHI #Global DM us
+    location: "United States"
+    followers: 23349
+    engagement: 126
+    commentsToLikes: 0.067156
+    id: ck14igqfffbfl0i19q94nls3q
+    verified: false
+    hashtags: "#bridalfashionweek, #miami, #photographer, #abs"
+  - username: "houseofultimate"
+    fullname: >-
+      Ultimate Frisbee
+    bio: >-
+      Making Ultimate mainstream❤️ Send Submissions to the Dms💜 - @goodboysultimate is OUT!!
+    location: "United States"
+    followers: 23126
+    engagement: 980
+    commentsToLikes: 0.009707
+    id: ckaowgrmq8v8e0i789hk8sagr
+    verified: false
     hashtags: ""
+  - username: "jarrah_floyde"
+    fullname: >-
+      Jarrah Floyde
+    bio: >-
+      Made in Australia ♻️ DALLAS📍🌴 Athlete 🏈🔒
+    location: "United States"
+    followers: 14206
+    engagement: 584
+    commentsToLikes: 0.021697
+    id: ck6ui0lxyccua0j712l7meki0
+    verified: false
+    hashtags: "#beenwaitingallyearforthis, #mentalstrong, #projectdumptruck, #backtobuisness"
+  - username: "breezylu"
+    fullname: >-
+      Bree'Anna Lucero
+    bio: >-
+      Strengthened by Christ ✨See the beauty of this world through my eyes✨ Adventure🌴Fitness💪Luna🐾 Athlete- @mansports 20% (BREEZY) Dallas, TX
+    location: "United States"
+    followers: 6972
+    engagement: 604
+    commentsToLikes: 0.033339
+    id: ck5cd522rijuy0i112xkqmg3l
+    verified: false
+    hashtags: ""
+  - username: "aditwirls"
+    fullname: >-
+      Adaline Bebo
+    bio: >-
+      All my Glory to God • Baton Twirling World Champion • CMMOA • Baylor Neuro ‘19 • #BeBold Dallas, TX @nymmg
+    location: "United States"
+    followers: 13768
+    engagement: 728
+    commentsToLikes: 0.020020
+    id: ck0twuvnigufi0i19qpn5l5zt
+    verified: false
+    hashtags: "#dancer, #dallas, #dallastexas, #performingarts"
 ---

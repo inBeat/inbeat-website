@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Malaysia in 2023
+title: Top 10 Cooking TikTok Influencers In Malaysia In 2023
 description: >-
-  Find top cooking TikTok influencers in Malaysia in 2023. Most popular hashtags: #stayathome #tiktokmalaysia #fyp #foryoupage.
+  Find top cooking TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #tiktokmalaysia #malaysia #cooking.
 platform: TikTok
-hits: 9
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 9 TikTok influencers like this in Malaysia for you to collaborate.
+hits: 12
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 12 TikTok influencers like this in Malaysia for you to pitch.
 profiles:
   - username: "hemahmanimaran"
     fullname: >-
@@ -13,106 +13,118 @@ profiles:
     bio: >-
       🎂3Apr90♈️/🇲🇾/Independent/❤️Long Drive(Alone)/❤️Pets 🐾 & Cooking/Grandma's Kid 👵🏼👧🏼/Family & Friends comes first❣️ ~Be Unique,Be Different,Be Yourself~
     location: "Malaysia"
-    followers: 26100
-    engagement: 1077
-    commentsToLikes: 0.070562
+    followers: 26500
+    engagement: 754
+    commentsToLikes: 0.025390
     id: ckc1w7r5y06h80j236f6ouvr5
     verified: false
-    hashtags: "#tamilponnu, #mybetterhalf, #loveofmylife, #sivahemahparisam"
+    hashtags: "#sivahemah, #tamilponnu, #justforthesong, #baybaaandpapa"
   - username: "moeirajohnson"
     fullname: >-
       Mj
     bio: >-
-      First we eat, then we do everything else 👩‍🍳 🇲🇾🇳🇬 Shop MJFoods at ig 👆
+      🇲🇾|🇳🇬|🇺🇸 Slow down... Enjoy life... 💝
     location: "Malaysia"
-    followers: 105400
-    engagement: 596
-    commentsToLikes: 0.027083
+    followers: 179800
+    engagement: 636
+    commentsToLikes: 0.016975
     id: ck8vyikg3u7wh0j78uuq3zc9f
     verified: false
-    hashtags: "#momslife, #csection, #makantime, #hospitalfood"
-  - username: "ddjt_food_journey"
-    fullname: >-
-      DDJT Food Journey
-    bio: >-
-      Its All About Food. The ingredient that binds us together. ❤️🌎🤝🌍🤝🌏❤️
-    location: "Malaysia"
-    followers: 8446
-    engagement: 945
-    commentsToLikes: 0.016779
-    id: ck8f6u4ol2sd60j780v7rmmse
-    verified: false
-    hashtags: "#kakimakan, #foods, #resepimudah, #resepi"
+    hashtags: "#learnontiktok, #mjrecipes, #syawal2021, #ramadanmubarak"
   - username: "johnsom.eattravel"
     fullname: >-
       Johnsom阿勇-旅游美食TV
     bio: >-
       Youtube: 阿勇Johnsom-旅遊美食TV FB : 阿勇Johnsom-旅遊美食TV ⬇️ Subscribe me now⬇️
     location: "Malaysia"
-    followers: 14200
-    engagement: 433
-    commentsToLikes: 0.010016
+    followers: 14300
+    engagement: 416
+    commentsToLikes: 0.020311
     id: ck9fwzt783wpg0j78zk6hxczi
     verified: false
-    hashtags: "#stayathome, #cooking, #tiktokmalaysia, #tiktokfood"
+    hashtags: "#malaysia, #cooking, #tiktokfood, #tiktokcooking"
+  - username: "mayaibrahim91"
+    fullname: >-
+      MayaIbrahim91🖤
+    bio: >-
+      HindiLover🌼 #kelatenesse 🇲🇾 #Allahisthebestplanner #FaithhopeLove #mylesbi🖤
+    location: "Malaysia"
+    followers: 82400
+    engagement: 1711
+    commentsToLikes: 0.102951
+    id: ckb8zf03mes3i0j230i58k8oh
+    verified: false
+    hashtags: "#justforfun, #princessstyle, #myopinion, #senoritamaya"
+  - username: "jagat_1110"
+    fullname: >-
+      Jagathesanthanaskodi
+    bio: >-
+      Make friends to push you to next level,Enter wth positive❤️ - 🍾Orders via insta
+    location: "Malaysia"
+    followers: 14700
+    engagement: 1755
+    commentsToLikes: 0.129685
+    id: ckbqs6zhod3b50j23q0uq50z3
+    verified: false
+    hashtags: "#smilestrong2021, #happymealways, #diy, #happyvalentinesday"
+  - username: "fovity_id"
+    fullname: >-
+      Hamster Squad
+    bio: >-
+      Told you I would be here forever 🐹 📍KL Biz: hilary.sariii@hotmail.com
+    location: "Malaysia"
+    followers: 202100
+    engagement: 428
+    commentsToLikes: 0.031672
+    id: ck8tn0lw5h8960j78t48nd38f
+    verified: false
+    hashtags: "#fyp, #tiktokmalaysia, #foryou, #masakdaging"
   - username: "lucashoangg"
     fullname: >-
       Huu Dat Nguyen Hoang
     bio: >-
       
     location: "Malaysia"
-    followers: 6288
-    engagement: 373
-    commentsToLikes: 0.072929
+    followers: 6245
+    engagement: 363
+    commentsToLikes: 0.075883
     id: ckb9u8sn8swrm0j23kv3obhdt
     verified: false
-    hashtags: "#quarantine, #lucashoang, #vietnam, #malaysia"
-  - username: "ichriskee"
+    hashtags: "#lucashoang, #vietnam, #malaysia, #familyathome"
+  - username: "a.aidura"
     fullname: >-
-      Chris Liew
+      Amylia aidura
     bio: >-
-      ♍️ IG: iChrisKee Marathoner 🏃🏻 + ChefWannaBe 👨🏻‍🍳 + Traveller ✈️ from 🇲🇾
+      👁👅👁 | 🇲🇾
     location: "Malaysia"
-    followers: 58500
-    engagement: 546
-    commentsToLikes: 0.038288
-    id: ckb0yzid0ns7x0j23bw7kq9th
+    followers: 462900
+    engagement: 1397
+    commentsToLikes: 0.007997
+    id: ckacf1jvnp4y50i78pfv3bpae
     verified: false
-    hashtags: "#smile, #foryoupage, #foryourpage, #tiktokmalaysia"
-  - username: "karthik_santiran"
+    hashtags: "#attackontitan, #malaysia, #pov, #fyp"
+  - username: "rk_arvin"
     fullname: >-
-      KarthiK卐சந்திரன்
+      RK ARVIN
     bio: >-
-      வாழ்க தமிழ் வழர்க எண் தாய்மொழியே.musical.ly
+      RK ARVIN Singer/Actor/Performer IbpStudios Malaysian IG:@iam_rkarvin
     location: "Malaysia"
-    followers: 12900
-    engagement: 495
-    commentsToLikes: 0.015292
-    id: ckbbm8scbafjj0j236mcxgoho
+    followers: 96500
+    engagement: 1397
+    commentsToLikes: 0.019834
+    id: ckbbo01nbc15w0j23z5ef3eli
     verified: false
-    hashtags: "#stayathome, #tranding, #foryou, #foryoupage"
-  - username: "am4ndaloo8"
+    hashtags: "#rk, #tamilsong, #song, #trending"
+  - username: "ddjt_food_journey"
     fullname: >-
-      Am4ndaLoo
+      DDJT Food Journey
     bio: >-
-      
+      Its All About Food. The ingredient that binds us together. ❤️🌎🤝🌍🤝🌏❤️
     location: "Malaysia"
-    followers: 12900
-    engagement: 209
-    commentsToLikes: 0.018894
-    id: ckbw90hl8zg5d0j23ni5f5vj7
+    followers: 8530
+    engagement: 722
+    commentsToLikes: 0.019556
+    id: ck8f6u4ol2sd60j780v7rmmse
     verified: false
-    hashtags: "#chiaseeds, #cb, #handschallenge, #hairchallenge"
-  - username: "durqa140798"
-    fullname: >-
-      துர்கா ❤🕊️
-    bio: >-
-      💜
-    location: "Malaysia"
-    followers: 2972
-    engagement: 736
-    commentsToLikes: 0.000528
-    id: ck9flvyskq64p0j783ldonu7g
-    verified: false
-    hashtags: "#my, #gg99tamil, #tamiltiktok, #aranthavaalu"
+    hashtags: "#makanyuk, #tiktokmakan, #malaysianfood, #onlyinmalaysia"
 ---

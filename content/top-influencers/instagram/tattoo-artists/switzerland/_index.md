@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Switzerland in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Switzerland in 2023. Most popular hashtags: #tattooartist #tattoo #tattooart #inked.
+  Find top tattoo-artists Instagram influencers in Switzerland in 2023. Most popular hashtags: #tattooartist #tattoos #tattooart #tattoo.
 platform: Instagram
-hits: 29
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database holds 29 Instagram influencers like this in Switzerland for you to contact.
+hits: 11
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat has 11 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "rynarya"
+  - username: "pedrotattoo_ribeiro"
     fullname: >-
-      𝐑  𝐘  𝐍  𝐀
+      PedroTattoo_Ribeiro
     bio: >-
-      / basically in my feels all the time so be prepared // tattoo artist @ryna.white /// rynarya.pro@gmail.com //// youtube : RYNA
+      Tattoo artist ⚜️Based in Zürich 🇨🇭 travel the 🌍 1904 🔴⚪️ Booking 2021 Open Sponsor: @moodytattooproducts
     location: "Switzerland"
-    followers: 69149
-    engagement: 1313
-    commentsToLikes: 0.006720
-    id: ck9wecv48jqgu0j78dxih5un3
+    followers: 27822
+    engagement: 118
+    commentsToLikes: 0.017262
+    id: ck5bub1ovhgwv0i113r1rw30x
     verified: false
-    hashtags: "#feelyourbreast, #myloungelife, #comfortmadesexy"
-  - username: "miss.lava.tattoo"
+    hashtags: "#rose, #swiss, #zuri, #deustchland"
+  - username: "desthex_tattoos"
     fullname: >-
-      Lava
+      •DESTHEX•
     bio: >-
-      • BOOKING CLOSED • Tattoo artist / Fine art student • PRO TEAM @humaninkstinct • Life account- @desislavailine 🪐
+      •••••TATTOO ARTIST••••• •••ZÜRICH SWITZERLAND••• •CREATIONS•• ➡️ @desthex_designs WEBSHOP⬇️
     location: "Switzerland"
-    followers: 11475
-    engagement: 635
-    commentsToLikes: 0.022708
-    id: ck6tz2lgs79cy0j71rnzt66qv
+    followers: 23716
+    engagement: 343
+    commentsToLikes: 0.015027
+    id: ck6ts9x8x3kf80j713vugly0d
     verified: false
-    hashtags: "#psychedelic, #tattooartist, #blackworktattoo, #facetattoo"
+    hashtags: "#fractals, #silkscreening, #spirals, #geometrico"
   - username: "ben_klishevskiy"
     fullname: >-
       BEN KLISHEVSKIY
     bio: >-
-      Tattoo artist, vegan🌿 @banana_tattoo_moscow AMBASSADOR @BLACKMONSTERRU ⚡️🔋 Member of PRO TEAM @FUSION_ink @VLADBLADIRONS @KWADRON @H2OCEANLOYALTY
+      Tattoo artist, vegan🌿 @banana_tattoo_moscow AMBASSADOR @BLACKMONSTERRU ⚡️🔋 Member of PRO TEAM @FUSION_ink @VLADBLADIRONS @H2OCEANLOYALTY
     location: "Switzerland"
-    followers: 67921
-    engagement: 252
-    commentsToLikes: 0.016231
+    followers: 67953
+    engagement: 171
+    commentsToLikes: 0.017942
     id: ck0w6vxasailg0i194bvtmr87
     verified: false
-    hashtags: "#tattooculturemagazine, #h2oceanloyalty, #spacemantattoo, #galaxytattoo"
-  - username: "moducommun"
+    hashtags: "#planettattoo, #tattooinrussia, #inked, #bananatattoo"
+  - username: "jakabtattoo"
     fullname: >-
-      𝕸𝖔 𝕯𝖚𝖈𝖔𝖒𝖒𝖚𝖓
+      Dezső Jakab
     bio: >-
-      based @the_atelier_lucerne only email for booking enquiries 🤍 📸 @ducommun.trail
+      ➕➕➕Geometry➕➕➕ Co-Owner of @inkbuzz Tattoo studio Looking for resident and guest artist!
     location: "Switzerland"
-    followers: 7906
-    engagement: 932
-    commentsToLikes: 0.014652
-    id: ck0vztktsau3r0i1911pnwud2
+    followers: 40292
+    engagement: 744
+    commentsToLikes: 0.008588
+    id: ck6ts9w5x3k9q0j71aw8sred2
     verified: false
-    hashtags: "#blackworkershero, #contemporarytattooing, #swissisolationartproject, #tattooartist"
-  - username: "fabio_landert"
-    fullname: >-
-      Fabio Landert
-    bio: >-
-      Stand-Up Comedian Booking: fabiolandert@brainpool.de
-    location: "Switzerland"
-    followers: 7551
-    engagement: 1155
-    commentsToLikes: 0.027779
-    id: ck136pf3y7m2y0i19d7lvtio8
-    verified: false
-    hashtags: "#frenchbulldog, #happy, #swiss, #frenchies"
+    hashtags: "#art, #tattooart, #mandalas, #spiral"
   - username: "durantattoo"
     fullname: >-
       DURAN TATTOO
     bio: >-
-      ❌ @durantattoostudio ❌Girona ✈️Switzerland ✈️ Alicante ✈️ Granada 📩Para citas Ldurantattoo@gmail.com📩 Sponsors: @sumuntattoo @tsunami_tattoo_needles
+      ❌ @durantattoostudio ❌Girona ✈️Switzerland ✈️ Alicante ✈️ Madrid 📩Ldurantattoo@gmail.com📩 @sumuntattoo @tsunami_tattoo_needles @tw9machines
     location: "Switzerland"
-    followers: 107700
-    engagement: 456
-    commentsToLikes: 0.014052
+    followers: 131062
+    engagement: 405
+    commentsToLikes: 0.012604
     id: ck0tzl1xoqpqh0i19i6u6n62g
     verified: false
-    hashtags: "#tattooartist, #thebestspaintattooartists, #gironatattoo, #dbz"
-  - username: "sir_villforth"
+    hashtags: "#onepiece, #realismtattoo, #bardock, #goku"
+  - username: "daniele_lo_scritto"
     fullname: >-
-      David Villforth 🇨🇭🇸🇪🇫🇷
+      Daniele Lo Scritto
     bio: >-
-      First you learn then you remove the "L" 📸 Photography profil @villforth_photography ➡️ @dmus_media -#lion 🦁 -#Fitness 💪 #Vegetarian 🌱 -#Zurich 🇨🇭
+      🇮🇹 from Italy Always in guest pot Zürich @born1891.tattoo Essen @pottboiz.electric.tattoo 📍on the road Currently in Rome 🇮🇹
     location: "Switzerland"
-    followers: 24490
-    engagement: 515
-    commentsToLikes: 0.030157
-    id: ck5ck9hr5weyi0i11c853svtc
+    followers: 57459
+    engagement: 174
+    commentsToLikes: 0.024105
+    id: ck5hhuswna6o60i11t9y0kadj
     verified: false
-    hashtags: "#luxury, #inked, #gym, #fashionblogger"
-  - username: "pkg_photography"
+    hashtags: "#zurigo, #illusioniottiche, #mandalaart, #loscritto"
+  - username: "ivanpanayotovtattoo"
     fullname: >-
-      📷THE TATTOO PHOTOGRAPHER
+      𝕴𝖛𝖆𝖓 𝕻𝖆𝖓𝖆𝖞𝖔𝖙𝖔𝖛 ㋡
     bio: >-
-      📍 RHEINTAL SWITZERLAND🇨🇭 📝 BOOKING - PRIVATE MESSAGE
+      Co-owner @inksocietybasel🇧🇬🇨🇭 Sponsored by: @stigmarotary @aftercareh2ocean Patreon: IvanPanayotov Latest video👇🏻
     location: "Switzerland"
-    followers: 30303
-    engagement: 348
-    commentsToLikes: 0.013310
-    id: ck0vvb5reoctz0i19umjy1bqh
+    followers: 39585
+    engagement: 174
+    commentsToLikes: 0.022677
+    id: ck5bzm36ureyr0i11m2xag6up
     verified: false
-    hashtags: "#tattooartist, #tattooedgirl, #photoshoot, #boobs"
-  - username: "mr_nobody_tattoo"
+    hashtags: "#ivanpanayotovtattoo, #stigmathorn, #tattooing, #tats"
+  - username: "christos_zorbas"
     fullname: >-
-      Mr.Nobody
+      ᴄʜʀɪsᴛᴏs ᴢᴏʀʙᴀs
     bio: >-
-      📍From Tuscany guest in: Rorschach, St.Gallen 🇨🇭 Lugano 🇨🇭 London 🇬🇧 Milano 🇮🇹 Roma 🇮🇹 Essen 🇩🇪 Konstanz 🇩🇪
+      ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪsᴛ 🖋🙆‍♂️ sᴋɢ,ɢʀ📍 5/3-21/3 2021 Zurich 🇨🇭 ᴄᴏɴᴛᴀᴄᴛ:ᴢᴏʀʙᴀsᴛᴀᴛᴛᴏᴏ@ʜᴏᴛᴍᴀɪʟ.ᴄᴏᴍ 5 May - 5 June 2021 @inked_nyc Owner : @bloodycherry_tattoo
     location: "Switzerland"
-    followers: 47591
-    engagement: 442
-    commentsToLikes: 0.013841
-    id: ckap0p12ir9190i78whtplq62
+    followers: 18474
+    engagement: 375
+    commentsToLikes: 0.017654
+    id: ck5qeapzdzjif0i11i4weixw7
     verified: false
-    hashtags: "#ornoirtattoolugano, #ornoirtattoorapperswil, #ornoirtattoororschach, #intenze"
-  - username: "andrew_lead_"
+    hashtags: "#realistictattoo, #tattooideas, #sleevetattoo, #tattoogirl"
+  - username: "alexey.cubas"
     fullname: >-
-      Andrew Lead
+      Alexey Cubas 🎨
     bio: >-
-      Resident at @ornoirtattoogallery St.Gallen - Rapperswil - Lugano 🇨🇭 Roma 🇮🇹 Berlin from 9 to 14/11/20 🇩🇪 ✉️ Leadtattoo@gmail.com
+      🔺VIVE CON ARTE ✍️Dibujante y 🎥Youtuber ▪️Último vídeo 👇👇👇
     location: "Switzerland"
-    followers: 10377
-    engagement: 436
-    commentsToLikes: 0.047543
-    id: ck5ho6kwsp14m0i11z4scuqoc
+    followers: 28417
+    engagement: 353
+    commentsToLikes: 0.027332
+    id: ck136vp378h2d0i19u8wrlcox
     verified: false
-    hashtags: "#tattooed, #inkedlife, #ornoirtattoororschach, #tattoos"
+    hashtags: "#dibujosalapiz, #dibujos, #papomc, #arttattoo"
+  - username: "drillito"
+    fullname: >-
+      Drill
+    bio: >-
+      New Music Video 📼 “Rojeni da blestimo"💎 @komora.ent 🏭
+    location: "Switzerland"
+    followers: 14916
+    engagement: 1344
+    commentsToLikes: 0.009336
+    id: ck5hgmnhb3lr80i115ly5qf92
+    verified: false
+    hashtags: "#sunnyday, #marijana, #single, #hiphop"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Ankara in 2023
+title: Top 10 Food Instagram Influencers In Ankara In 2023
 description: >-
-  Find top food Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #food #istanbul #izmir.
+  Find top food Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #food #istanbul #yummy.
 platform: Instagram
 hits: 106
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 106 Instagram influencers like this in Ankara, Turkey for you to contact.
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 106 Instagram influencers like this in Ankara, Turkey for you to contact.
 profiles:
-  - username: "nesihtunc0101"
+  - username: "cagdas62dersim"
     fullname: >-
-      Nesih Turunç
+      
     bio: >-
-      Nesih Turunç ➕S1F1RB1R ➕
+      only Allah can judge me!!!⚡️ nothing is impossible...!!!⚡️ ❤️🔒🙏🏼
     location: "Turkey"
-    followers: 59852
-    engagement: 582
-    commentsToLikes: 0.008873
-    id: ck5ch8nf9qaxe0i11ae4hdao4
+    followers: 340588
+    engagement: 15
+    commentsToLikes: 0.003918
+    id: ck0w02ippc2cd0i19k2036a9u
     verified: false
-    hashtags: "#soka, #karde, #adana, #dost"
-  - username: "seymatan_collection"
+    hashtags: "#breakfast, #food, #delicious, #ankara"
+  - username: "karadeniz_official"
     fullname: >-
-      Şeyma Tantalkaya Büyükkuşoğlu
+      Karadeniz Official
     bio: >-
-      🌟%100 El Yapımı,Kanevice Islemeli Vintage Canta 🌟Popart Clucth-Çanta 🌟Ödeme👉Havale&Eft 🌟Yurtiçi-Yurt Dışı Kargo 🌟Kargo👉Alıcı Ödemeli 🌟Bilgi-Fiyat👉DM
+      KARADENİZİ GÖRMEK VE YAŞAMAK İSTİYOSAN BU SAYFA TAM SANA GÖRE.. 🌲 Biraz huzur.. 🧿 sevdası karadeniz olanlar buraya ☝️☝️
     location: "Turkey"
-    followers: 12132
-    engagement: 779
-    commentsToLikes: 0.029987
-    id: ck15qpkgw40wk0i197f0lsby3
+    followers: 113094
+    engagement: 228
+    commentsToLikes: 0.368440
+    id: ck8sz5bm9n7m50j785nn4etj9
     verified: false
-    hashtags: "#izmir, #bag, #paris, #crosstich"
-  - username: "tadimnotlari"
+    hashtags: "#istanbul, #ke, #kemen, #ordu"
+  - username: "edebiyatci_annem"
     fullname: >-
-      tadimnotlari
+      3 Çocuklu Öğretmen Anne 👩‍🏫👼
     bio: >-
-      📌Adanalı 📝Yemek ve Seyahat Aşığı 🏊Otel ve Yemek Önerileri 👇Youtube kanalım 👇
+      بِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم Reklam-tanıtım-çekiliş dm📩 #influencer #bebek #anne #kitap #kahve #sunum
     location: "Turkey"
-    followers: 305861
-    engagement: 128
-    commentsToLikes: 0.020946
-    id: ck0vzy3pvbg950i19mw48lh9j
+    followers: 57878
+    engagement: 188
+    commentsToLikes: 0.077378
+    id: ck9hb90tnfuyf0j782s1yfxxc
     verified: false
-    hashtags: "#turkey, #istanbul, #denizli, #sucukd"
-  - username: "ankaraetkinlik"
+    hashtags: "#instagood, #zay, #yemek, #okul"
+  - username: "enfess_tatlar._"
     fullname: >-
-      Ankara Etkinlik ®™
+      💕Enfes Tatlar Tarifler💕
     bio: >-
-      Tescilli Etkinlik Markası 🌟 Influencer (2013) 🌟 Dijital Medya (2004) 🌟 Blogger (2004)
+      👉REKLAM ve İŞBİRLİĞİ için DM✉👈 👉ADMİN👸 😍Tarifler ve görseller alıntıdır 💕Hayatta Olabileceğiniz En Güzel Yer "Bir Duanın İçinde Yer Almaktır"💕
     location: "Turkey"
-    followers: 72121
-    engagement: 201
-    commentsToLikes: 0.158003
-    id: ck0u6kgjj25gl0i1933eqbbi0
+    followers: 17448
+    engagement: 219
+    commentsToLikes: 0.049646
+    id: ckf5skdk6fp4j0j235v6y9kib
     verified: false
-    hashtags: "#ankaraetkinlikg, #ankarakahvalt, #ankaraetkinlik, #ankaradaneyenir"
-  - username: "dml_ozdgn"
+    hashtags: "#food, #recipe, #recipes, #ankara"
+  - username: "seldaofficiall"
     fullname: >-
-      Damla
+      GÜNCEL 🟡 BLOG 🟡 MAGAZİN
     bio: >-
-      -15 kg 😱 Özlenen lezzetlerin sağlıklı ve fit tarifleri burda👇 Yemek yemeyi ve fotoğrafını çekmeyi seviyorum🥰 dmlozdgn@icloud.com 📩
+      Kah güldük kah ağladık Sizinle 🔆 Beraber büyüyelim diye sende takip et kardeşim❗️ Diğer sayfamız @essa.accessories
     location: "Turkey"
-    followers: 11156
-    engagement: 481
-    commentsToLikes: 0.170981
-    id: ckaosf9z0rd7q0i78raonqcks
+    followers: 145350
+    engagement: 37
+    commentsToLikes: 0.053497
+    id: ck9weaq7qjfs20j78erfo202c
     verified: false
-    hashtags: "#fitkahvalt, #healthydinner, #healthydessert, #healthyrecipes"
-  - username: "gezginyiyor"
+    hashtags: "#bebekyemekleri, #annelerdenmamalar, #annevebebek, #bimmarket"
+  - username: "turkmenkizigurgengelini"
     fullname: >-
-      Gezgin Yiyor
+      
     bio: >-
-      📌Yemek, Otel, Mekan😊 📢Efsane Geri Döndü😎 😍Yaşasın Yemek Yemek❗️ 🔂Reklam ve tanıtım için DM 🗳
+      🌹Bismillâhirrahmânirrahîm 🌹 🍒sunumsever🍒 🌯🌶#01adanalıyıkgardaş🌯🌶 👉İnanmak başarmanın yarısıdır👈
     location: "Turkey"
-    followers: 257231
-    engagement: 79
-    commentsToLikes: 0.012863
-    id: ck0vwja33u2wo0i19xwrc9ug0
+    followers: 87643
+    engagement: 105
+    commentsToLikes: 0.016523
+    id: ckap3w6384r6p0i78eft8vr2c
     verified: false
-    hashtags: "#baruthanepilavc, #tatl, #lezzet, #ankara"
-  - username: "bygezerhakan"
+    hashtags: "#kahve, #instagood, #turkey, #ke"
+  - username: "burcusavasciofficial"
     fullname: >-
-      👑 @bygezerhakan 🇹🇷
+      Burcu Savaşçı
     bio: >-
-      Kişisel blog, Blog yazarı #Gezgin #Gezer 💛💙 deli dolu yaz asigi 🏊✈️🌞🏄🌍🌅🚤🌴🆘📻🌴🏂⚓🇹🇷⛵Seyyah 📷💯🎥 Kisacasi !!! HKN 👑 Azz insan🏃 çoook huzur..
+      Yemek yapmaya,fotoğraflamaya aşık bir yemek tutkunu .Ankara da mekan gezer,yorumlar . Tanıtım ve davetler için DM&mail 💌 ✨İnfluencer ✨Blogger
     location: "Turkey"
-    followers: 7372
-    engagement: 577
-    commentsToLikes: 0.649206
-    id: ckap95altr7jc0i78q8u7wo7c
+    followers: 69773
+    engagement: 115
+    commentsToLikes: 0.303250
+    id: ck5cezhcgm0xf0i11xysp3pw1
     verified: false
-    hashtags: "#travelphotography, #tbt, #sunset, #instavideo"
-  - username: "gulsahsenalpsevinc"
-    fullname: >-
-      𝗚𝘂𝗹𝘀𝗮𝗵 𝗦𝗲𝗻𝗮𝗹𝗽 𝗦𝗲𝘃i𝗻𝗰
-    bio: >-
-      🌏Travel / 🍽🥤Food&Drink / YouTube’/ 📍ANKARA / 📥 PR:gulsahsenalp@gmail.com
-    location: "Turkey"
-    followers: 15416
-    engagement: 633
-    commentsToLikes: 0.046919
-    id: ckaoyf7emh9pn0i78g75bpriq
-    verified: false
-    hashtags: "#geziyorum, #africasafaris, #karavangu, #gezginyas"
+    hashtags: "#karantina, #kahvalt, #foodlover, #foodblogger"
   - username: "katmerbanktosun"
     fullname: >-
-      Hüseyin DAĞCI Official Account
+      Hüseyin DağcıOfficial Account
     bio: >-
-      🇹🇷Katmerbank tosun @aksamsimit ❗Youtube Kanalım ⬇️
+      Nam-ı değer katmerbanktosun @aksamsimit
     location: "Turkey"
-    followers: 2806
-    engagement: 1029
-    commentsToLikes: 0.140921
+    followers: 5586
+    engagement: 482
+    commentsToLikes: 0.138036
     id: ck5q5cyegsb7b0i11wya84zak
     verified: false
-    hashtags: "#katmer, #pasta, #taste, #foodporn"
-  - username: "sercenin_masali"
+    hashtags: "#tu, #aksamsimit, #katmer, #simitkatmer"
+  - username: "gazianteppaylasimlari"
     fullname: >-
-      A&  Tuğçe 🐞😊
+      GAZİANTEP LEZZETLERİ
     bio: >-
-      Mehmet Emir ❤❣❤ 🐣 #bebekoyun #öneri Biraz aşk❤️ biraz sunum❤️ ve tarif sayfam ❤️ Matematik öğretmeni Reklam ve iş birliği için —>DM <— Ankara
+      Takiplerimiz davet amaçlıdır 🤗 yeni hesap lütfen geri dönüş yapınnn 🙏🙏🙏
     location: "Turkey"
-    followers: 21200
-    engagement: 265
-    commentsToLikes: 0.053143
-    id: ck5zmcpxdmbv70i144wezlx9h
+    followers: 705
+    engagement: 36907
+    commentsToLikes: 0.013117
+    id: ckaork9u0nm4k0i78tl9u6xtl
     verified: false
-    hashtags: "#fashion, #objektifimden, #perfect, #evlat"
+    hashtags: "#adana, #instalike, #naturelover, #polonya"
+  - username: "sevim__dalma"
+    fullname: >-
+      🆂🅴🆅🅸🅼 🅳🅰🅻🅼🅰
+    bio: >-
+      🎀Üç prensin prensesi👨‍👦‍👦👸🎈 🎀Onur'um ile şenlenen hayatımız 🎀Mert'im ile renklendi🙏🎈💕 🎀 "İçimdeki çocuk yeni yürümeye başladı "💕💕 REKLAM TANITIM ➡️DM
+    location: "Turkey"
+    followers: 20069
+    engagement: 621
+    commentsToLikes: 0.064700
+    id: ck9hchupslgx40j7853lonhtm
+    verified: false
+    hashtags: "#nefissunumlar, #caysaati, #droetker, #gunaydin"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Indonesia in 2023
+title: Top 10 Illustrators Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top illustrators Instagram influencers in Indonesia in 2023. Most popular hashtags: #art #artwork #illustration #drawing.
+  Find top illustrators Instagram influencers in Indonesia in 2023. Most popular hashtags: #illustration #artwork #drawing #art.
 platform: Instagram
-hits: 100
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 100 Instagram influencers like this in Indonesia for you to pitch.
+hits: 82
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 82 Instagram influencers like this in Indonesia for you to work with.
 profiles:
   - username: "ggwp_riry"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Brand Ambassador of @ggwp_esports Lazy Illustrator • Cosplayer • Gamer Business 📩 riani.sh@ggwp.id +62 81281806111 (Wenny)
     location: "Indonesia"
-    followers: 30072
-    engagement: 984
-    commentsToLikes: 0.022356
+    followers: 29653
+    engagement: 949
+    commentsToLikes: 0.032954
     id: ck0tw5j17e4160i19by621sws
     verified: false
-    hashtags: "#mood, #asiangirls, #moodygrams, #cosplayers"
-  - username: "raunak_fashion_illustration"
-    fullname: >-
-      Raunak Rai
-    bio: >-
-      Selftaught Fashion illustrator Dm me for commission work Youtuber..
-    location: "Indonesia"
-    followers: 6767
-    engagement: 1665
-    commentsToLikes: 0.060841
-    id: ckaoztce6nb9a0i78732ekyqe
-    verified: false
-    hashtags: "#illustrator, #stylist, #artonpaper, #sketch"
-  - username: "im.cipa"
-    fullname: >-
-      cipa 🐼
-    bio: >-
-      ▪︎ Newbie Illustrator ▪︎ 🎨 Design : @cipproject_ 🧥 Fashion : @ic.clothingstore 🎮 Account Game : @saya.cipa
-    location: "Indonesia"
-    followers: 145069
-    engagement: 166
-    commentsToLikes: 0.020238
-    id: ck9wfjp9ap4qz0j78ptojspeh
-    verified: false
-    hashtags: "#indonesia, #hip500, #tiktokindo, #muserid"
-  - username: "asma.niin"
-    fullname: >-
-      Asma Ninin Kurnia
-    bio: >-
-      22 y.o 🇮🇩|🎨 illustrator 🌵Open Commission➡DM 🎓Chemistry 🚫Don't repost my arts without credit & don't edit/trace my arts
-    location: "Indonesia"
-    followers: 97817
-    engagement: 519
-    commentsToLikes: 0.010494
-    id: ck0tugz7n748d0i193li62l0t
-    verified: false
-    hashtags: "#selfreminder, #illustration, #artistsoninstagram, #drawing"
+    hashtags: "#azurlane, #mood, #womanesiaa, #girls"
   - username: "wd.willy"
     fullname: >-
-      • WD •
+      WEDE
     bio: >-
-      Illustrator ✌🏻 . wdwilly06@gmail.com . #Wdwilly
+      Illustrator 🇲🇨 For collaboration and commission work : ✉️ wdwilly06@gmail.com #Wdwilly
     location: "Indonesia"
-    followers: 33925
-    engagement: 917
-    commentsToLikes: 0.023881
+    followers: 42502
+    engagement: 597
+    commentsToLikes: 0.013925
     id: ck15q4naq12sy0i19e75xgxdf
     verified: false
-    hashtags: "#letscml, #designyourownscooter, #designcharacter, #design"
+    hashtags: "#indonesia, #design, #designcharacter, #wdwilly"
   - username: "ganeca__"
     fullname: >-
       Gavriella Diandra Ganesh
     bio: >-
-      @coretan_ganeca / @jl_ganeca / Illustrator - animator wannabe OPEN COMISSION BULAN DESEMBER Ask for collaboration: gavriella.diandra.gd@gmail.com
+      @coretan_ganeca / @jl_ganeca / Illustrator - animator Ask for collaboration/comission: gavriella.diandra.gd@gmail.com
     location: "Indonesia"
-    followers: 11892
-    engagement: 1442
-    commentsToLikes: 0.019941
+    followers: 12073
+    engagement: 1436
+    commentsToLikes: 0.020059
     id: ckaosxjx2th0x0i78jroo3gic
     verified: false
-    hashtags: "#indonesiapride, #tiktok, #princessdisney, #indonesia"
-  - username: "bilx_art"
+    hashtags: "#indonesiapride, #princessdisney, #lathichallenge, #indonesia"
+  - username: "inikeke"
     fullname: >-
-      🇧 🇮 🇱 🇽  ⷶ ͬ ͭ
+      Eunike Nugroho
     bio: >-
-      🦄Artist 💫 All art by me🌈😸 🌟🇲🇨 I N D O N E S I A 🇲🇨🌟 🦄Doodler, illustrator, realism🙀 🦄Use #bilxdoodles 🙌 🦄My talent since I was little✌🏻
+      A full time mother & part time illustrator | Watercolours | Botanical Art | Indonesia @IDSBA founder, fellow of @societybotanicalartists
     location: "Indonesia"
-    followers: 8929
-    engagement: 831
-    commentsToLikes: 0.058176
-    id: ckaox9qb9cei20i78ztyshtqi
+    followers: 56471
+    engagement: 417
+    commentsToLikes: 0.072771
+    id: ck0uaxer3ddvj0i19ftqsnbui
     verified: false
-    hashtags: "#astro, #flower, #pennywise, #artistsoninstagram"
+    hashtags: "#watercolor, #wip, #idsba, #theartofbotanicalillustration"
+  - username: "dini_marl"
+    fullname: >-
+      dini marlina
+    bio: >-
+      Illustrator & comic artist art : #dinimarlinagaleri Exclusive PinArtist @mintyxpins Enamel Pin commission:CLOSED❌ Please repost with credit ^^
+    location: "Indonesia"
+    followers: 13416
+    engagement: 883
+    commentsToLikes: 0.026953
+    id: ck8td46yu1ss90j78t6vbu5kz
+    verified: false
+    hashtags: "#andiadinata, #dinimarlinacommission, #dinimarlinagaleri, #faceyourart"
   - username: "harry_sandi"
     fullname: >-
       harry sandi
     bio: >-
       🌏 INDONESIAN 📍Bandung,🇮 🇳 🇩 🇴 🇳 🇪 🇸 🇮 🇦 💛 Fashion Illustrator ♌ Fashion Designer
     location: "Indonesia"
-    followers: 65141
-    engagement: 690
-    commentsToLikes: 0.009724
+    followers: 65128
+    engagement: 274
+    commentsToLikes: 0.009558
     id: ck0tyw97iobte0i19rv5v4qtc
     verified: false
-    hashtags: "#dirumahaja, #stayathome, #pencil, #fashionillustration"
-  - username: "leendoodles"
+    hashtags: "#fashionillustration, #sketching, #pencil, #drawing"
+  - username: "poppy_betha"
     fullname: >-
-      Leenh
+      Poy
     bio: >-
-      Graphic designer & Illustrator ⁝ Commission: OPEN, link in bio! ⁝ Ask for permission if u want to repost ⬇ STICKER SHOP, PATREON and other links
+      ♒ she/they 🚫 do NOT repost&use w/o permission/credit 🦄 Illustrator @weirdsgn studio 🐻 Part of @mario_bearcode 📍 Indonesia 💌 poppybetharia@gmail.com
     location: "Indonesia"
-    followers: 35870
-    engagement: 716
-    commentsToLikes: 0.028017
-    id: ckaou84tsz8660i78yx0nrwjz
+    followers: 33437
+    engagement: 2802
+    commentsToLikes: 0.004399
+    id: ck8t1u518x1lb0j78m7g6as17
     verified: false
-    hashtags: "#commissions, #twitchcommissions, #commissionsopen, #artcommissions"
-  - username: "abdhy.art"
+    hashtags: "#artwork, #digitaldrawing, #gore, #drawthisinyourstylechallenge"
+  - username: "krisanti_comics"
     fullname: >-
-      Abdhy.art
+      Devita Krisanti
     bio: >-
-      🏠 Makassar 🇲🇨 INDONESIA 🎨 ArtLegendsFamily 🎨 MGL-ID Designer & Illustrator Freelance Illustrator Character/Mascot Designer Animator Beginner
+      Comic Artist Relatable Comic Strips Sri Asih (Webtoon) illustrator Personal Account: @devitakrisanti --- 📩 Business Inquiry: Rendy (+62 821-2565-5247)
     location: "Indonesia"
-    followers: 15713
-    engagement: 1486
-    commentsToLikes: 0.030298
-    id: ckf5wacsvre3z0j23zj6rh67s
+    followers: 124483
+    engagement: 917
+    commentsToLikes: 0.015290
+    id: ckap8bklsnoc80i78fqpqsf6l
     verified: false
-    hashtags: "#art, #naruto, #komikpolisi, #narutoxmlbb"
+    hashtags: "#apple, #illustration, #webtoonid, #manhwa"
+  - username: "raunak_fashion_illustration"
+    fullname: >-
+      Raunak Rai
+    bio: >-
+      Selftaught Fashion illustrator Dm me for commission work Youtuber.. I'm @its_.rauni_
+    location: "Indonesia"
+    followers: 12385
+    engagement: 1126
+    commentsToLikes: 0.041745
+    id: ckaoztce6nb9a0i78732ekyqe
+    verified: false
+    hashtags: "#sketch, #artistoninstagram, #raunak, #illustrationsketch"
+  - username: "sendisiswadi"
+    fullname: >-
+      Sendi Siswadi
+    bio: >-
+      #visualartist #illustrator #freelancer
+    location: "Indonesia"
+    followers: 5054
+    engagement: 1803
+    commentsToLikes: 0.040287
+    id: ck15sfs6ocsqh0i194v0o0ufn
+    verified: false
+    hashtags: "#mythology, #budaya, #illustration, #berkaryadirumah"
 ---

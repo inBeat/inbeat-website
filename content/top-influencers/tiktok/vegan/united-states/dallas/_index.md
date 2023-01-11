@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Dallas in 2023
+title: Top 10 Vegan TikTok Influencers In Dallas In 2023
 description: >-
-  Find top vegan TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
+  Find top vegan TikTok influencers in Dallas in 2023. Most popular hashtags: #vegan #fyp #duet #veganfood.
 platform: TikTok
-hits: 5
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 5 TikTok influencers like this in Dallas, United States for you to pitch.
+hits: 7
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 7 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: ".boomer405"
+  - username: "paigealwayswright"
     fullname: >-
-      BoomBoom
+      Paige W.
     bio: >-
-      🌾Oklahoma🌾 🇺🇸 Trump2020🇺🇸 🏈Dallas Cowboys🏈 🖕🏻Don’t Trust Anybody 🖕🏻
+      A 20 sumn that mostly makes videos about food. Dallas IG: @paigealwayswright_
     location: "United States"
-    followers: 57800
-    engagement: 1280
-    commentsToLikes: 0.023861
-    id: ck9gu4sgcpod70j78cia4x3im
+    followers: 17400
+    engagement: 1405
+    commentsToLikes: 0.014029
+    id: ckcpcatkpfjje0j23hwjzog88
     verified: false
-    hashtags: "#thatwitch, #timewarpscan, #dialitforward, #micellarrewind"
-  - username: "bethanyp22"
-    fullname: >-
-      Bethany Parker
-    bio: >-
-      22 yr old small biz owner✨
-    location: "United States"
-    followers: 19400
-    engagement: 1000
-    commentsToLikes: 0.029280
-    id: ckcoypfx3a9ve0j23lo97611z
-    verified: false
-    hashtags: "#fyp, #smallbusiness, #foryou, #cricut"
-  - username: "nicolelinjohnson"
-    fullname: >-
-      ThatOneVeganGirl
-    bio: >-
-      FL🌴🍊 #BLM✊🏼✊🏽✊🏾✊🏿 📧officialnicolelinjohnson@gmail.com
-    location: "United States"
-    followers: 171000
-    engagement: 1104
-    commentsToLikes: 0.050292
-    id: ck8f6ei8y2grp0j78zx3hmxuw
-    verified: false
-    hashtags: "#duet, #4u, #foryou, #viral"
-  - username: "absanders101"
-    fullname: >-
-      Adam Sanders
-    bio: >-
-      My IG @absanders101
-    location: "United States"
-    followers: 4092
-    engagement: 1514
-    commentsToLikes: 0.055819
-    id: ckcjh5h6sc18q0j23zdctpowc
-    verified: false
-    hashtags: "#menfashion, #cheflife, #sleflove, #blm"
+    hashtags: "#marriedlife, #cooking, #food, #pregnant"
   - username: "hunuhh"
     fullname: >-
       Hannah Gebert
     bio: >-
-      Atl, GA UGA’ 23 20
+      Atl, GA UGA
     location: "United States"
-    followers: 2245
-    engagement: 842
-    commentsToLikes: 0.038535
+    followers: 2204
+    engagement: 952
+    commentsToLikes: 0.007280
     id: ck8kh49sdl8mz0j78dv0myh2d
     verified: false
-    hashtags: "#college, #greenscreen, #corona, #veganlife"
-  - username: "thevintagegoree"
+    hashtags: "#college, #vegan, #greenscreen, #rona"
+  - username: "absanders101"
     fullname: >-
-      •Black Retro Babe•
+      Adam Sanders
     bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
+      My IG @absanders101 On this amazing weight-loss journey down 125 pounds!
     location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
+    followers: 9245
+    engagement: 1569
+    commentsToLikes: 0.087091
+    id: ckcjh5h6sc18q0j23zdctpowc
     verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
-  - username: "alaneatsfrogs"
+    hashtags: "#fyp, #veganfood, #sleflove, #weightloss"
+  - username: "parul.nagpal"
     fullname: >-
-      alan raskin :)
+      Purukitchen
     bio: >-
-      "i’m a vegan except for when i eat the rich" - noor wendy WHALEyums stan accoun
+      Food 🥗 & Fitness 💪🏻 Like, Share and Subscribe - Puru’s Kitchen 🇺🇸🇮🇳
     location: "United States"
-    followers: 49500
-    engagement: 2471
-    commentsToLikes: 0.046072
-    id: ckdn8veqjfihi0j23mwyza1it
+    followers: 214600
+    engagement: 252
+    commentsToLikes: 0.018884
+    id: ck9eukgq8e60a0j78qanhejs4
     verified: false
-    hashtags: "#biden2020, #voting, #gay, #electionday"
-  - username: "findingjayreace"
+    hashtags: "#vegetarianfood, #homechef, #vegan, #realsimple"
+  - username: "beautyofaboymom"
     fullname: >-
-      🤴🏽Mr.Positivity 🌱
+      BeautyofBoyMom
     bio: >-
-      Author/Speaker Veganism | Health | Motivation | Legacy is available now👇🏾|
+      Lover of affordable style, fitness and beauty. Follow me on IG. Shop links 👇🏼
     location: "United States"
-    followers: 9112
-    engagement: 2153
-    commentsToLikes: 0.429635
-    id: ck9skqa1ua13n0j78xb4nidzv
+    followers: 59200
+    engagement: 359
+    commentsToLikes: 0.049192
+    id: ck982kodkgdgg0j78053yide1
     verified: false
-    hashtags: "#positivitytrain, #reacenation, #stitch, #strapback"
+    hashtags: "#targetstyling, #charlottenc, #over40, #over40mom"
+  - username: "cryptomistie"
+    fullname: >-
+      CryptoMistie
+    bio: >-
+      Helping Others Financially Support Themselves While Living Their Best Lives
+    location: "United States"
+    followers: 20600
+    engagement: 1233
+    commentsToLikes: 0.038172
+    id: ckae9djv0qa0r0i78sreqd2th
+    verified: false
+    hashtags: "#networkmarketing, #trumpsquad2020, #duet, #trump2020"
+  - username: "billmaniatv"
+    fullname: >-
+      Billmaniatv
+    bio: >-
+      Official page of Billmania Media
+    location: "United States"
+    followers: 46600
+    engagement: 626
+    commentsToLikes: 0.021395
+    id: ck806w30kmh5u0j78f9a4heoe
+    verified: false
+    hashtags: "#rap, #hiphop, #fyp, #boxing"
   - username: "veganlesbianrepublicans"
     fullname: >-
       Eve & Das
     bio: >-
       “The Avocado Toast Lesbians,” Vegan, Married, Republicans 🇺🇸 🏳️‍🌈
     location: "United States"
-    followers: 47500
-    engagement: 2110
-    commentsToLikes: 0.086643
+    followers: 46500
+    engagement: 2261
+    commentsToLikes: 0.100295
     id: ckdclovylnw2r0j23tvaevkjy
     verified: false
-    hashtags: "#democrat, #kag, #conservative, #liberal"
-  - username: "kawaiikingb"
+    hashtags: "#walkaway, #maga, #lesbiansfortrump, #trump"
+  - username: "antheiamae"
     fullname: >-
-      MJ Cobra
+      mae mae
     bio: >-
-      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
+      intersectional vegan big sis🥰 comrade🧸 total liberationist she/? @eco_tok
     location: "United States"
-    followers: 4375
-    engagement: 2868
-    commentsToLikes: 0.066832
-    id: ckav30jp99aym0j2355hwtnvy
+    followers: 7125
+    engagement: 1746
+    commentsToLikes: 0.137265
+    id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#decorakei, #kawaii, #darkora, #altgirl"
+    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+  - username: "veganmumu"
+    fullname: >-
+      Shannon
+    bio: >-
+      your vegan mom 🐧 Florida 🍊
+    location: "United States"
+    followers: 6762
+    engagement: 1446
+    commentsToLikes: 0.401234
+    id: ckavlfj1duq540j237nx3htr9
+    verified: false
+    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
 ---

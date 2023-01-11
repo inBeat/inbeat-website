@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Birmingham in 2023
+title: Top 10 Beauty Instagram Influencers In Birmingham In 2023
 description: >-
-  Find top beauty Instagram influencers in Birmingham in 2023. Most popular hashtags: #beauty #makeup #fashion #explorepage.
+  Find top beauty Instagram influencers in Birmingham in 2023. Most popular hashtags: #makeup #ad #model #fashionblogger.
 platform: Instagram
-hits: 26
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 26 Instagram influencers like this in Birmingham, United Kingdom for you to work with.
+hits: 21
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 21 Instagram influencers like this in Birmingham, United Kingdom for you to work with.
 profiles:
-  - username: "liveuptohername"
+  - username: "kalleashatamzin"
     fullname: >-
-      Lexi 🎀
+      KALLEASHA TAMZIN 👽🦄
     bio: >-
-      💃🏽 Latina 📍 Birmingham 🇬🇧 @springbreakportugal 💚 team 👩🏼‍✈️ 💁🏽‍♀️ - lexi10 - my_vitopia 👓 - LIVEUP10 - officialreveur 👗 - LexFlo20 - TigerLuxx
+      Owner of @kchouseofdollz @kchodbeautyrange 💉🌸 Model | Dancer | Influencer | LashTech | Aesthetician China Doll 👽🦊 📍 Liverpool
     location: "United Kingdom"
-    followers: 19482
-    engagement: 634
-    commentsToLikes: 0.006125
-    id: ck5cik16gsslf0i11w5ovnhua
+    followers: 23808
+    engagement: 236
+    commentsToLikes: 0.028187
+    id: ck14lddv3u3y50i194uvgk1tb
     verified: false
-    hashtags: "#photooftheday, #lifestyle, #architecture, #canon"
-  - username: "fatimakaymakeupartist"
+    hashtags: "#fashion, #gymwear, #tracksuit, #influencer"
+  - username: "gerrijphillips"
     fullname: >-
-      BIRMINGHAM MAKEUP ARTIST
+      Gerri J. Phillips
     bio: >-
-      Bridal | Bridesmaid | Engagement | Party ▫️Booking/ Enquires tap “text” below ▫️Booking Info in Highlights 👇🏻 ▫️Makeup Only
+      Birmingham Based Content Creator • Lifestyle | Beauty | Millennial Motherhood • Collabs: hello@gerrijphillips.com
     location: "United Kingdom"
-    followers: 10525
-    engagement: 465
-    commentsToLikes: 0.071949
-    id: ckaosz2extngc0i78eqc6bgcl
+    followers: 33043
+    engagement: 437
+    commentsToLikes: 0.049104
+    id: ck5zsrtaxz2ju0i14h3wm0jv2
     verified: false
-    hashtags: "#walimaglam, #makeupblogger, #makeupjunkie, #nudelip"
-  - username: "iulia_david_photography"
+    hashtags: "#cookingwithcomfort, #datenight, #onebypoise, #ad"
+  - username: "maiyabellexo"
     fullname: >-
-      Iulia David
+      Maiya Francesca | Blogger 🕊
     bio: >-
-      Beauty photographer 📍London/ Birmingham Represented by @lha_rep For bookings please email info@iuliadavid.co.uk
+      ☁️ beauty, life and style content 📍 london & birmingham | UK ☕️ addicted to iced caramel lattes ✉️ maiyafrancesca@gmail.com 👇🏻 latest blog post
     location: "United Kingdom"
-    followers: 70138
-    engagement: 273
-    commentsToLikes: 0.026665
-    id: ck0u1vifey5140i19oyckvt3d
+    followers: 3673
+    engagement: 945
+    commentsToLikes: 0.431997
+    id: ck8t76mepfr230j78vyec6vbg
     verified: false
-    hashtags: "#makeup, #makeupartist, #londonphotographer, #beautyphotographer"
-  - username: "artbecomesyou"
+    hashtags: "#foundedbeauty, #texturetuesday, #ad, #fableandmane"
+  - username: "nadoosh.xo"
     fullname: >-
-      Lydia Epangue
+      NADOOSH
     bio: >-
-      Wife, Mom & Beygent🐝I write sometimes🇨🇲 🖥:artbecomesyou.com📧:artbecomesyoublog@gmail.com 📍Birmingham, UK #artbecomesyou
+      Beauty•Motherhood•Lifestyle•Real Talk 🌱Founder @malikaatofficial 🌱Makeup bookings @makeupbynadoosh 🌱Email: makeupbynadoosh@gmail.com Birmingham UK 🇬🇧
     location: "United Kingdom"
-    followers: 29630
-    engagement: 122
-    commentsToLikes: 0.156170
-    id: ck6tpglu6jr9e0j71m5bpvfsb
+    followers: 88300
+    engagement: 196
+    commentsToLikes: 0.034789
+    id: ck6u5v58cbxrl0j71ckk2hnak
     verified: false
-    hashtags: "#aesthetic, #vintagevibes, #artbecomesyou, #neutralstyle"
-  - username: "samiya.styles"
-    fullname: >-
-      • S A M I Y A •
-    bio: >-
-      FASHION 👜• BEAUTY 💄• FOOD 🍔 📍BIRMINGHAM PR & Collabs 💌 samiya.styles@hotmail.com A walk in my wardrobe ❤️ tiktok samiyastyles
-    location: "United Kingdom"
-    followers: 20945
-    engagement: 808
-    commentsToLikes: 0.121615
-    id: ck6u2tdzmttul0j71ee09xysh
-    verified: false
-    hashtags: "#pakistanidresses, #desiblogger, #pakistanistreetstyle, #muslimahchamber"
-  - username: "sarahstawowski"
-    fullname: >-
-      s ᴀ ʀ ᴀ ʜ  ᴊ ᴀ ᴅ ᴇ
-    bio: >-
-      𝗨𝗞📍 ⠀ email : sarahjade_model@outlook.com Managed by @buzz_talent_
-    location: "United Kingdom"
-    followers: 4364
-    engagement: 899
-    commentsToLikes: 0.196750
-    id: ckap2edryygwg0i785yn3tm33
-    verified: false
-    hashtags: "#discoverunder10k, #fashionbible, #theoutfitcommunity, #fashionaddict"
-  - username: "makeup_obsessionsxx"
-    fullname: >-
-      𝐚𝐦𝐦𝐚𝐚𝐫𝐚𝐡 ✿
-    bio: >-
-      𝐛𝐞𝐚𝐮𝐭𝐲 | 𝐬𝐤𝐢𝐧𝐜𝐚𝐫𝐞 𝐠𝐨𝐚𝐥 : 𝟏𝟎𝐤 𝐮𝐤
-    location: "United Kingdom"
-    followers: 8930
-    engagement: 936
-    commentsToLikes: 0.455260
-    id: ck0w6bczo7rii0i19usmp95pe
-    verified: false
-    hashtags: "#createbeauty, #hypebaebeauty, #skincareface, #beautyreview"
-  - username: "liliana__anaya"
-    fullname: >-
-      LILIANA⚡️
-    bio: >-
-      📍Birmingham, U.K
-    location: "United Kingdom"
-    followers: 4925
-    engagement: 917
-    commentsToLikes: 0.242183
-    id: ckap6rfcph4400i78kanuxqvp
-    verified: false
-    hashtags: "#cgmethod, #motd, #zarawomen, #makeup"
-  - username: "poonamwalid"
-    fullname: >-
-      Poonam walid
-    bio: >-
-      📍 Birmingham, UK ❥ Skincare | Makeup | Fashion | Lifestyle ❥ Collaborations: contact@heeldiaries.com ❥ Wifey 👉🏽 @abzolutefoodie 🧿 ❥ My Amazon shop 👇🏽
-    location: "United Kingdom"
-    followers: 47761
-    engagement: 300
-    commentsToLikes: 0.060688
-    id: ck9wean2wjfak0j78qsind28a
-    verified: false
-    hashtags: "#style, #beauty, #narspartner, #fashion"
+    hashtags: "#rimmellondon, #tescofood, #eidinspo, #realtalks"
   - username: "elizas_everyday"
     fullname: >-
       Eliza's_everyday
     bio: >-
       Birmingham Blogger & host of... #whatweworeonwednesday 💥Fashion 💥Beauty 💥Fitness 💥Mum to 2 gorgeous boys 💥Next travel destination French Alps
     location: "United Kingdom"
-    followers: 18832
-    engagement: 379
-    commentsToLikes: 0.544144
+    followers: 21277
+    engagement: 249
+    commentsToLikes: 0.408494
     id: ck5bw68vel2m20i11vebkj9bq
     verified: false
-    hashtags: "#womanandhomestreetstyle, #stylemum, #instamum, #boots"
+    hashtags: "#brightcolorsmakemehappy, #over30fashion, #brightcolors, #blue"
+  - username: "liveuptohername"
+    fullname: >-
+      Lexi 🎀
+    bio: >-
+      💃🏽 Latina 📍 Birmingham 🇬🇧 👸🏼- Founder of @lfhairofficial
+    location: "United Kingdom"
+    followers: 31707
+    engagement: 689
+    commentsToLikes: 0.006258
+    id: ck5cik16gsslf0i11w5ovnhua
+    verified: false
+    hashtags: "#happy, #instadaily, #style, #beauty"
+  - username: "jasellejanee"
+    fullname: >-
+      Jaselle🧚🏽‍♀️
+    bio: >-
+      UAB alumna | Activist | Birmingham Safety Task Force Member | Model | #blacklivesmatter Food page: @foodbyjassss
+    location: "United Kingdom"
+    followers: 6904
+    engagement: 897
+    commentsToLikes: 0.057243
+    id: ck5zkfkoxje1f0i147ekts6dj
+    verified: false
+    hashtags: "#letsshoot, #fashionmodel, #elitemodel, #glossier"
+  - username: "yasminsartistry"
+    fullname: >-
+      Yasmin
+    bio: >-
+      📍🇬🇧Birmingham 💌PR and enquiries: yasminartistry@outlook.com
+    location: "United Kingdom"
+    followers: 18923
+    engagement: 1407
+    commentsToLikes: 0.029099
+    id: ckf5mc6c8t58t0j23f8fwdgt3
+    verified: false
+    hashtags: "#kikomilano, #nipandfab, #benefitcosmetics, #coverfx"
+  - username: "1217_mike"
+    fullname: >-
+      Mike Fisher
+    bio: >-
+      •Traveling Event & Portrait photographer 📍 Birmingham ALABAMA | DM me for all rates
+    location: "United Kingdom"
+    followers: 15507
+    engagement: 320
+    commentsToLikes: 0.009717
+    id: ck5hgmndq3lph0i11583udsg0
+    verified: false
+    hashtags: "#champagnechristmas"
+  - username: "anishas_artistry"
+    fullname: >-
+      A N I S H A  🎀
+    bio: >-
+      💄|BRIDAL - (MAKE-UP ONLY) 🎓|ChemEng Graduate 🇬🇧|UK - Birmingham ❌|No DMs, text ONLY please 👇🏼❤️ 💬|Contact: 07578697557
+    location: "United Kingdom"
+    followers: 22541
+    engagement: 834
+    commentsToLikes: 0.026118
+    id: ck15ulvhcntge0i192zrqvmyo
+    verified: false
+    hashtags: "#birminghammua, #internationalmakeupartist, #soniaxfyza, #makeupjunkie"
 ---

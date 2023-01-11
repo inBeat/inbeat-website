@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Rome in 2023
+title: Top 10 Models Instagram Influencers In Rome In 2023
 description: >-
-  Find top models Instagram influencers in Rome in 2023. Most popular hashtags: #model #fashion #rome #italy.
+  Find top models Instagram influencers in Rome in 2023. Most popular hashtags: #model #rome #fashion #style.
 platform: Instagram
-hits: 154
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 154 Instagram influencers like this in Rome, Italy for you to work with.
+hits: 122
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 122 Instagram influencers like this in Rome, Italy for you to connect with.
 profiles:
-  - username: "sarah_parmeggiani"
+  - username: "dami_riz"
     fullname: >-
-      Sarah Parmeggiani
+      Damiano Rizzeri 🔥
     bio: >-
-      🇮🇹🇬🇧 Architect & Graphic Designer | Journalist 📸 #model | #fitness | #fashion | #design Owner @e20_events_designer
+      Damy•♑️🌑🧠 25yo• Rome📍•🇮🇹 ShootingModel 📸 Figurante🎥@amiciufficiale Lover•tatto🎨travel🌍food🍝sport🏆fashion✨animals🐲luxury💰car🏎 Info & collaborazione 📩
     location: "Italy"
-    followers: 48722
-    engagement: 206
-    commentsToLikes: 0.187296
-    id: ck6u6mcd4gfrm0j715e0q2t7z
+    followers: 4291
+    engagement: 877
+    commentsToLikes: 0.057873
+    id: ck8t1e1aoverl0j78ok3bswrw
     verified: false
-    hashtags: "#modellife, #concorso, #fitnessmodel, #igersrimini"
-  - username: "marghearesti_"
+    hashtags: "#men, #followthemovement, #mood, #ph"
+  - username: "elisadospina"
     fullname: >-
-      MARGHERITA ARESTI
+      Elisa D'Ospina
     bio: >-
-      •Actress @yd_actors_yvonnedabbraccio •Model 📍 Rome 🇮🇹
+      👗 Founder @elisadospinacollection 📺 In tv Rai1 e Rai2 📷 Top model #curvy 👠 ⭐️Collaborazioni: pr@elisadospina.com Tv Agency: VEGASTAR
     location: "Italy"
-    followers: 13758
-    engagement: 866
-    commentsToLikes: 0.006127
-    id: ck55oype69f2y0i119v1kmbrs
-    verified: false
-    hashtags: ""
-  - username: "alessandragiubilato"
-    fullname: >-
-      Alessandra Giubilato - blog🎤🎶📸
-    bio: >-
-      sɪɴɢᴇʀ/sᴏɴɢᴡʀɪᴛᴇʀ, ᴛᴠ ᴘʀᴇsᴇɴᴛᴇʀ ᴀɴᴅ sᴘᴏʀᴛʏ ɢɪʀʟ 📸 ➡️➡️ @alessandragiubilato_music 🎵🎤 ᭙​ꫀ​᥇​𝘴​𝓲​𝓽​ꫀ​:
-    location: "Italy"
-    followers: 39856
-    engagement: 221
-    commentsToLikes: 0.066386
-    id: ck9wfvm89qot60j786za0nr8l
-    verified: false
-    hashtags: "#singersongwriter, #summer2020, #fitgirl, #fitness"
-  - username: "eleonora__pieroni"
-    fullname: >-
-      Eleonora Pieroni
-    bio: >-
-      Model |Actress|Presenter🧿 Italian personality & Brands Ambassador in New York 🇺🇸 🇮🇹 🌏EleonoraPieroni LIVE NEW YORK!⬇️
-    location: "Italy"
-    followers: 46499
-    engagement: 163
-    commentsToLikes: 0.040989
-    id: ck5qcoehwrkli0i11cn5x2t2v
-    verified: true
-    hashtags: "#festadelcinemadiroma, #puglia, #travelling, #eleonorapieroniliveitaly"
-  - username: "eleonoraviscardii"
-    fullname: >-
-      Eleonora Viscardi
-    bio: >-
-      Business Economics👩‍🎓 Advices on fashion and travel Model 🌺 Italy🇮🇹 #milano For collaborations ➡️ DM
-    location: "Italy"
-    followers: 49482
+    followers: 336116
     engagement: 195
-    commentsToLikes: 0.127496
-    id: ck9hcf78dl3n30j78ttlu59hx
-    verified: false
-    hashtags: "#sorridisempre, #bikini, #mare, #smile"
-  - username: "photosdaniele"
-    fullname: >-
-      📷 Daniele Cucaro 📷
-    bio: >-
-      📍🌏 Based Rome 📷📸 Photographer and 📽 Videomaker 📪📬 Danieleph@libero.it 📩 🌄🌅 Creative Photography 💡
-    location: "Italy"
-    followers: 86691
-    engagement: 175
-    commentsToLikes: 0.098673
-    id: ck15snfdsdvi70i190ot11np3
-    verified: false
-    hashtags: "#photos, #tamron, #fotos, #couples"
-  - username: "babi.besenzoni"
-    fullname: >-
-      Barbara Besenzoni☀️
-    bio: >-
-      🎂 1996 |📍Bergamo 🇮🇹 🍝 foodie & travelholic 🌍 | 14 countries 🎓 uniBG | modern languages & literatures 📸 iphone 8 - Nikon D3300
-    location: "Italy"
-    followers: 12096
-    engagement: 527
-    commentsToLikes: 0.012829
-    id: ck8ta88y9qte20j78hzpztuvz
-    verified: false
-    hashtags: "#best, #trentinodascoprire, #cute, #volgoroma"
-  - username: "ls_luxury.shop"
-    fullname: >-
-      LS_LuxuryShop
-    bio: >-
-      • 100% original products 💯 • Free shipping 10/12 gg 🚚 • Payment: PayPal, Postepay 💵 • Info & price in DM 📥 • Special price 🔥
-    location: "Italy"
-    followers: 28079
-    engagement: 13
-    commentsToLikes: 0.012622
-    id: ck13bmjudw59y0i19jmrodf6w
-    verified: false
-    hashtags: "#brand, #milan, #rome, #model"
-  - username: "gregoriodimasi"
-    fullname: >-
-      Gregorio Di Masi
-    bio: >-
-      Model based in Rome 📍🇮🇹 Crossfitter 🏋🏻‍♂️ Info and collaboration DM or e-mail 📩
-    location: "Italy"
-    followers: 20809
-    engagement: 218
-    commentsToLikes: 0.012803
-    id: ck8svytyvd7gp0j78fvl71zea
-    verified: false
-    hashtags: "#color, #photography, #art, #fashion"
+    commentsToLikes: 0.036665
+    id: ck14jv77pmcpv0i199nd3uzc7
+    verified: true
+    hashtags: "#loveyourself, #bodypositive, #elisadospinacollection, #ad"
   - username: "vittoriabelvedere"
     fullname: >-
       Vittoria Belvedere
     bio: >-
       Model // Actress // Mum — Rome • Italy
     location: "Italy"
-    followers: 37270
-    engagement: 207
-    commentsToLikes: 0.039032
+    followers: 37749
+    engagement: 183
+    commentsToLikes: 0.035540
     id: ck6tve2q7lpjl0j71arifjsxc
     verified: true
-    hashtags: "#friendzone, #mynewglasses, #montiabruzzesi, #amicizia"
+    hashtags: "#thecharitychallenge, #biella, #familytime, #mynewglasses"
+  - username: "martinalane"
+    fullname: >-
+      Martina Lane
+    bio: >-
+      Italian model 📸 Brand Promoter Mid-June France 🇫🇷 📩 martinalanee@gmail.com
+    location: "Italy"
+    followers: 163624
+    engagement: 333
+    commentsToLikes: 0.022104
+    id: ck6u9m92gyc5f0j71a3s6o2q9
+    verified: false
+    hashtags: "#photography, #modeling, #rome, #glamour"
+  - username: "nicolebuttafoco"
+    fullname: >-
+      ⭐Nicole Buttafoco⭐
+    bio: >-
+      #Hairstylist #Fashion Fashion-editor @nonsololook #nicole⭐ Per info e collaborazioni 👉🏻Direct/Email 📧 @instagram
+    location: "Italy"
+    followers: 29699
+    engagement: 795
+    commentsToLikes: 0.084975
+    id: ck6uekji2rgvg0j71lc35gyi8
+    verified: false
+    hashtags: "#bellezza, #makeup, #likesforlike, #instagram"
+  - username: "saralabidi28"
+    fullname: >-
+      Sara Labidi
+    bio: >-
+      🇮🇹🇹🇳 Italo-tunisina 🎬Attrice,Doppiatrice 📷Model 📍Based in Rome
+    location: "Italy"
+    followers: 13935
+    engagement: 1042
+    commentsToLikes: 0.029013
+    id: ck6u1igpnlxau0j714x2fdc7i
+    verified: false
+    hashtags: ""
+  - username: "anna.targa"
+    fullname: >-
+      Anna Targa
+    bio: >-
+      Per info e costi scrivi in DM 📬 @oppomobileit ambassador #oppocrew @nikonitalia creator 2020 Personal 👉 @annatarga81
+    location: "Italy"
+    followers: 30429
+    engagement: 587
+    commentsToLikes: 0.079420
+    id: ck5bve8lyjhgf0i11sr9hcw8q
+    verified: false
+    hashtags: "#portraitphoto, #fashion, #nikon, #nikonphotography"
+  - username: "thebeatrice_ferro"
+    fullname: >-
+      Beatrice Ferro
+    bio: >-
+      ROMA🏡 - Hostess Eventi 🎤 - Cosplayer : @jasminecosplayer - gridgirl and Ombrellina 👠☂️ - Fotomodella📸 -fotografa @beatriceferrophotography
+    location: "Italy"
+    followers: 18673
+    engagement: 214
+    commentsToLikes: 0.163803
+    id: ck5cirfk8t87n0i117rkzsm9a
+    verified: false
+    hashtags: "#protrait, #nikon, #igersitalia, #nikonista"
+  - username: "federico.p92"
+    fullname: >-
+      Federico
+    bio: >-
+      🄶🄾 🄱🄴🅈🄾🄽🄳 🅃🄷🄴 🄵🅁🄰🄼🄴 • 🇮🇹 Roma📍 • Info & Prenotazioni 📲 DM
+    location: "Italy"
+    followers: 17105
+    engagement: 456
+    commentsToLikes: 0.066393
+    id: ck5heaz35rze20i11km3xilvt
+    verified: false
+    hashtags: "#portrait, #beautydish, #beautyphotographer, #beautyphotography"
+  - username: "big_frontinaa"
+    fullname: >-
+      Giulia Biagioli
+    bio: >-
+      Model and mua Based in rome 🇮🇹 12-14/12 milan 🇮🇹18-20/12 veneto For collab dm-mail
+    location: "Italy"
+    followers: 45025
+    engagement: 761
+    commentsToLikes: 0.019713
+    id: ck5zyfpp39sw60i14rwmgal1t
+    verified: false
+    hashtags: ""
 ---

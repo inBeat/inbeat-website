@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers in 2023
+title: Top 10 Gardening Instagram Influencers In 2023
 description: >-
-  Find top gardening Instagram influencers in 2023. Most popular hashtags: #homedecor #garden #autumn.
+  Find top gardening Instagram influencers in 2023. Most popular hashtags: #cottagecore #sponsored #pretty.
 platform: Instagram
-hits: 2486
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 2486 Instagram influencers like this for you to pitch.
+hits: 2218
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 2218 Instagram influencers like this for you to contact.
 profiles:
+  - username: "northwoodsfolk"
+    fullname: >-
+      Sunny // Folk Living                                       🌲MN🌲
+    bio: >-
+      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+    location: "United States"
+    followers: 131357
+    engagement: 474
+    commentsToLikes: 0.067900
+    id: ckx3j50xwzxpa0j2331ss8l9z
+    verified: false
+    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
+  - username: "michelle_font"
+    fullname: >-
+      Michelle Fonticiella
+    bio: >-
+      City girl turned farm girl 👩🏻‍🌾 | Mom of girls, dogs, goats, chickens | Active living | Gardening | Life on our tropical mini farm 🌴🌿🌾
+    location: "France"
+    followers: 8963
+    engagement: 592
+    commentsToLikes: 0.080957
+    id: ck5pzaek800gn0i1174v99xh1
+    verified: false
+    hashtags: "#patriayvida, #soscuba, #cuba, #cubalibre"
+  - username: "laurenselfblogs"
+    fullname: >-
+      Lauren
+    bio: >-
+      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+    location: "United States"
+    followers: 18656
+    engagement: 1858
+    commentsToLikes: 0.022000
+    id: ck8t1vbnlx6dp0j782ei1ya9s
+    verified: false
+    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
   - username: "seldabelda"
     fullname: >-
       anna aromin | ↟ pnw ↟
     bio: >-
       artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
     location: "United States"
-    followers: 34042
-    engagement: 337
-    commentsToLikes: 0.098448
+    followers: 33490
+    engagement: 341
+    commentsToLikes: 0.090660
     id: ck14kkiiwpyiz0i19q3we0t10
     verified: false
-    hashtags: "#freelensed, #vintagelens, #bnw, #talesofthemoment"
+    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
+  - username: "life_of_glow"
+    fullname: >-
+      Robyn | Home & Garden Joy
+    bio: >-
+      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
+    location: "United States"
+    followers: 40685
+    engagement: 309
+    commentsToLikes: 0.087218
+    id: ck0u7az5246wj0i19r71e0x0v
+    verified: false
+    hashtags: "#rugsusa"
   - username: "theladywholunches"
     fullname: >-
       Jenna Ingalls
     bio: >-
-      knitting, sewing, sometimes gardening Oakland, California she/her
+      sewing, knitting, sometimes gardening, now with a baby Oakland, California
     location: "United States"
-    followers: 5323
-    engagement: 1285
-    commentsToLikes: 0.075316
+    followers: 6923
+    engagement: 1144
+    commentsToLikes: 0.061068
     id: ck5zobjeqq6wu0i146qvnwtx8
     verified: false
-    hashtags: "#handknitsweater, #maternitycapsulewardrobe, #fatsewingclub, #maternitysewing"
-  - username: "aara.lee"
+    hashtags: "#memadeeveryday, #sewistsofinstagram, #oaklandsews, #huondress"
+  - username: "francescaroseelizabeth"
     fullname: >-
-      Aara Lee
+      𝔽𝕣𝕒𝕟𝕔𝕖𝕤𝕔𝕒
     bio: >-
-      I’m Aara! 🌱 ❝ i may be small, but i can fly ❞ 143 cm, mixed Thai, bi/nb forest imp cosplay 🎭 writing 📖 dnd ⚔️ gardening 🌼
+      Mummy to a little boy ❤ I love nature & gardening 🌿~ first year growing from seed 🌱 I also share my outfits ⚘
     location: "United States"
-    followers: 19159
-    engagement: 853
-    commentsToLikes: 0.028131
-    id: ck138fffifza10i199jsto5os
+    followers: 29392
+    engagement: 286
+    commentsToLikes: 0.031805
+    id: ck6ucyprhi5qc0j7134qob3k0
     verified: false
-    hashtags: "#felixcosplay, #felixhugofraldarius, #myheroacademia, #dungeonsanddragons"
+    hashtags: "#vintage, #naturephotography, #retro, #naturelovers"
+  - username: "busylittleizzy"
+    fullname: >-
+      Eryka ☀️ Mom to Izzy
+    bio: >-
+      🌲#Mainers Our Life & Adventures Mind & Body Wellness 🌱 Gardening 🤍 #bekind 🚫 bullying Former Teacher PR: eryka@busylittleizzy.com
+    location: "United States"
+    followers: 71147
+    engagement: 78
+    commentsToLikes: 0.122732
+    id: ck0vv2i8wn8o20i195rvv7cw7
+    verified: false
+    hashtags: "#teachtuesday, #careforyourbody, #sunflowers, #savethebees"
   - username: "keerthanamurthy11"
     fullname: >-
       Keerthana
     bio: >-
       Making my way into balcony gardening-Interior Snacker-Desperate to live sustainably
     location: "United States"
-    followers: 2268
-    engagement: 2770
-    commentsToLikes: 0.168940
+    followers: 2250
+    engagement: 2716
+    commentsToLikes: 0.159089
     id: ckapc48492eih0i7874qsm2ur
     verified: false
-    hashtags: "#indianplantcommunity, #greenlover, #mydesiswag, #love"
-  - username: "tarahurstdesign"
+    hashtags: "#homesweethome, #pretty, #myhomefeel, #ecofynd"
+  - username: "connieandluna"
     fullname: >-
-      Tara Hurst
+      Sustainable living + travel 🍃
     bio: >-
-      creative director on the west coast. home, food, gardening & bertie.
-    location: "Canada"
-    followers: 6957
-    engagement: 415
-    commentsToLikes: 0.044231
-    id: ck5hrp4etv8n80i11qlnc4g63
+      👩🏻‍🌾 Connie📍Melbourne 🍃 urban edible gardening 🌾 sustainable home & living 🌞 always wandering 💕 🥬 @leafkeeper 🎨 @connieandlunastudio
+    location: "Australia"
+    followers: 84162
+    engagement: 50
+    commentsToLikes: 0.055402
+    id: ck0w5iw3p3umn0i19yfbhtfjr
     verified: false
-    hashtags: ""
-  - username: "bbhiral"
-    fullname: >-
-      Hiral Bhatia
-    bio: >-
-      Hair Artist| Treks, Travel n Adventure @barefeet_topknot Treehugger | Artist | Botany and Gardening | Dogmom |Mumbai jubin@viniyardfilms.com
-    location: "India"
-    followers: 50959
-    engagement: 145
-    commentsToLikes: 0.018850
-    id: ck5hfc7wrwsx10i11vi0v5wn4
-    verified: false
-    hashtags: "#texture, #kiaraadvani, #macramewallhanging, #hiralbhatia"
-  - username: "jessbburbridge"
-    fullname: >-
-      J e s s  B u r b r i d g e 🌿
-    bio: >-
-      Photographer | Multidisciplinary Artist Mama to Nigel & Kavi, Mrs. @oteil_burbridge Lover of traveling, adventure, music & gardening. 📍Boca Raton, FL
-    location: "United States"
-    followers: 8330
-    engagement: 1302
-    commentsToLikes: 0.084472
-    id: ckap23hkqx7pi0i78bsan5lea
-    verified: false
-    hashtags: "#southfloridakids, #porcelainsculpture, #adoptionislove, #ceramicart"
-  - username: "susanbranchauthor"
-    fullname: >-
-      Susan Branch
-    bio: >-
-      Happy gene, New York Times best-selling author, #watercolor artist, love Joe, girlfriends, cooking & gardening, riding train and England too.💞
-    location: "United States"
-    followers: 21987
-    engagement: 1018
-    commentsToLikes: 0.061204
-    id: ck1389sscf72z0i192iuuxwfu
-    verified: false
-    hashtags: "#pandemic, #wearamask, #marthasvineyard, #fruitsaladyummyyummy"
-  - username: "ellenjokikunnas"
-    fullname: >-
-      Ellen Jokikunnas
-    bio: >-
-      Radio @helmiradio morning show TV host @nelonen ✨ Life is about art, furniture refurbish and gardening collab: ellen.jokikunnas@nelonenmedia.fi
-    location: "Finland"
-    followers: 25592
-    engagement: 681
-    commentsToLikes: 0.071656
-    id: ck13bo3nrwcgd0i19f66cok1s
-    verified: false
-    hashtags: "#reinothegreat, #primacat, #farmisuomi, #plywoodfloors"
-  - username: "flowersandlifestylebymargot"
-    fullname: >-
-      Karen
-    bio: >-
-      Sharing my love for flowers, gardening, food and interior design Saffron Walden, UK based Floral designs available online #followeverythingmargot 👇
-    location: ""
-    followers: 7465
-    engagement: 1047
-    commentsToLikes: 0.341814
-    id: ckap97jgerhhr0i78fk0gsl5u
-    verified: false
-    hashtags: "#bouquet, #stopandsmelltheroses, #fall, #brightensmyday"
+    hashtags: "#athomewithcastlery, #sponsored, #t2xchobanisupermoments"
 ---

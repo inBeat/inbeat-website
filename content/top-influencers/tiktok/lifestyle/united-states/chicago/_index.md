@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Chicago in 2023
+title: Top 10 Lifestyle TikTok Influencers In Chicago In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #foryou #lifestyle.
+  Find top lifestyle TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #lifestyle #chicago.
 platform: TikTok
-hits: 16
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 16 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 24
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 24 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "livewithmoi"
-    fullname: >-
-      MOIRA
-    bio: >-
-      Poor Chicago girl with taste Follow me on IG: moiiisauce 🤍
-    location: "United States"
-    followers: 4901
-    engagement: 838
-    commentsToLikes: 0.033802
-    id: ckbexsvczia4n0j23hg485zgk
-    verified: false
-    hashtags: "#stayathome, #boredathome, #happy, #target"
-  - username: "itisdanielaaa"
-    fullname: >-
-      Itisdanielaaa
-    bio: >-
-      Chicago 🦋 | MEXICAN 🇲🇽
-    location: "United States"
-    followers: 15200
-    engagement: 883
-    commentsToLikes: 0.000156
-    id: ckb8z5cfge96k0j23qvpd7xkp
-    verified: false
-    hashtags: "#married, #fyp, #foryoupage, #army"
-  - username: "jokubas_pa"
-    fullname: >-
-      Jokubas_pa
-    bio: >-
-      Just some videos of my cars and my car problems. Instagram: jokubas_pa
-    location: "United States"
-    followers: 16795
-    engagement: 362
-    commentsToLikes: 0.007066
-    id: ck81qrnr0ja460j78owf739an
-    verified: false
-    hashtags: "#carlover, #fun, #car, #fast"
   - username: "chlobellexx"
     fullname: >-
       chlobellexx
     bio: >-
-      I’m Chloe! Chicago Based Lifestyle Creator Fashion | Travel | Dance | FUN!
+      I’m Chloe! Chicago Based Lifestyle Creator Fashion | Travel | Photography 7619
     location: "United States"
-    followers: 27100
-    engagement: 866
-    commentsToLikes: 0.073780
+    followers: 30600
+    engagement: 725
+    commentsToLikes: 0.093808
     id: cka0sjq6zls1d0i78cohlipwf
     verified: false
-    hashtags: "#colorado, #ad, #chicagobucketlist, #photomagic"
-  - username: "alaia.alaia"
+    hashtags: "#trendyfashion, #weddingguestoutfit, #springfashion, #trendy"
+  - username: "felonthesavage"
     fullname: >-
-      Lai lai 🦋
+      FELON
     bio: >-
-      24. Chicago. 🍒Interior. Life Style. 🦋Beauty. DIY.Family.Dance✨
+      🍾‼️😈TIKTOK INTERVIEWS 😈‼🎙
     location: "United States"
-    followers: 19600
-    engagement: 597
-    commentsToLikes: 0.029383
-    id: ck90tz47runq10j7890aatttc
+    followers: 10700
+    engagement: 784
+    commentsToLikes: 0.090909
+    id: ckbag36fb83410j23l933ytbe
     verified: false
-    hashtags: "#chicago, #summer, #health, #fitness"
-  - username: "eattravelrock"
+    hashtags: "#video, #fyp, #live, #art"
+  - username: "joaquin3x"
     fullname: >-
-      Kelly Rizzo
+      Joaquin3x
     bio: >-
-      TV Host Food/Travel/Lifestyle Expert IG @eattravelrock Mrs. @bobsaget
+      Chicago 👻 - Joaquin3x Follow INSTA<3 Business // Joaquin3x@TIKTAL.co
     location: "United States"
-    followers: 168200
-    engagement: 1023
-    commentsToLikes: 0.020429
-    id: ck80oq80jj7lk0j78wd2t1otg
+    followers: 276600
+    engagement: 2167
+    commentsToLikes: 0.023608
+    id: ckbf7wmm3xze40j23qnk2vp4y
+    verified: false
+    hashtags: "#shadowbanned, #fyp, #viral, #coming2america"
+  - username: "corixgabrielle"
+    fullname: >-
+      cori
+    bio: >-
+      stay weird
+    location: "United States"
+    followers: 1400000
+    engagement: 1507
+    commentsToLikes: 0.010044
+    id: ckavceqiik88h0j236f0r9q7w
     verified: true
-    hashtags: "#pumpkinrecipes, #airtravel, #covidsafety, #travelsafety"
-  - username: "dailymillionaire"
+    hashtags: "#happyvalentinesday, #parentinghumor, #beauty, #models"
+  - username: "livewithmoi"
     fullname: >-
-      Luxury
+      MOIRA
     bio: >-
-      Just Another Millionaire Lifestyle
+      Poor Chicago girl with taste Follow me on IG: andmoira 🤍
     location: "United States"
-    followers: 17100
-    engagement: 803
-    commentsToLikes: 0.017497
-    id: ckb9kzfkad9oh0j23wirscd4v
+    followers: 4838
+    engagement: 797
+    commentsToLikes: 0.029837
+    id: ckbexsvczia4n0j23hg485zgk
     verified: false
-    hashtags: "#supercars, #travel, #hollywood, #cars"
-  - username: "dessimonoff"
+    hashtags: "#home, #fyp, #lifestyle, #apartment"
+  - username: "lamarhymeswithemma"
     fullname: >-
-      dessimonoff
+      𝓛ama
     bio: >-
-      Fashion, beauty, lifestyle. Business collabs: DessiMonoff@gmail.com
+      books, cat, & occasionally more 20 📍chicago 🇱🇧
     location: "United States"
-    followers: 46400
-    engagement: 338
-    commentsToLikes: 0.012889
-    id: ck9v17ljmft3g0j784l2ozgix
+    followers: 14800
+    engagement: 1476
+    commentsToLikes: 0.073591
+    id: ckcv66e3lpi230j23ud1i5sma
     verified: false
-    hashtags: "#blogger, #nails, #foryou, #fashionhacks"
-  - username: "miss_annavictoria"
+    hashtags: "#refundglowup, #arab, #foryou, #chicago"
+  - username: "bunchtipzz"
     fullname: >-
-      miss_annavictoria
+      𝖳𝗂𝗉𝗓 ✰
     bio: >-
-      
+      •welcome• lifestyle | tips | vsco 🛍🐆🦩⚡️🥂
     location: "United States"
-    followers: 3138
-    engagement: 702
-    commentsToLikes: 0.045244
-    id: ck9a6qsny4e3v0j78f8zpx2ir
+    followers: 53100
+    engagement: 2061
+    commentsToLikes: 0.011675
+    id: ckdcl1odpn4xx0j2327dstz95
     verified: false
-    hashtags: "#fyp, #california, #traveling, #view"
-  - username: "jennifergendece"
+    hashtags: "#fyp, #foryoupage, #helps, #aesthetic"
+  - username: "rich.kwil"
     fullname: >-
-      Jennifer Gendece
+      Richard kwil
     bio: >-
-      Helping Realtors achieve 6 & 7 figure years www.classyclosers.com
+      Loras college 21🤙🏼 Chicago Positive vibes
     location: "United States"
-    followers: 19100
-    engagement: 436
-    commentsToLikes: 0.048150
-    id: ck9k3epvho3yb0j78r2eqrlbj
+    followers: 66000
+    engagement: 1080
+    commentsToLikes: 0.313266
+    id: cka6kgtqsywdr0i78ns73ohfy
+    verified: true
+    hashtags: "#iowa, #coming2america, #comedy, #challenge"
+  - username: "jo.sienche"
+    fullname: >-
+      Jo
+    bio: >-
+      Chicago 20
+    location: "United States"
+    followers: 4790
+    engagement: 1375
+    commentsToLikes: 0.042951
+    id: ckdnp91bwkl650j23iizyd9sl
     verified: false
-    hashtags: "#lastminutexmas, #lifestyle, #millionaire, #foryou"
+    hashtags: "#overnightoats, #greenscreen, #fyp, #night"
+  - username: "debragabriella"
+    fullname: >-
+      DebraGabriella
+    bio: >-
+      Loving my Low Carb lifestyle, 98lbs gone and still working on me! 📍Chicago
+    location: "United States"
+    followers: 44300
+    engagement: 440
+    commentsToLikes: 0.086875
+    id: ckbffkj6ha6wb0j23mkydlmm1
+    verified: false
+    hashtags: "#vodkalemonade, #fun, #cocktail, #bagels"
 ---

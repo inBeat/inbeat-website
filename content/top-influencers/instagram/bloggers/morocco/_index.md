@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Morocco in 2023
+title: Top 10 Bloggers Instagram Influencers In Morocco In 2023
 description: >-
-  Find top bloggers Instagram influencers in Morocco in 2023. Most popular hashtags: #outfit #morocco #marrakech #stayathome.
+  Find top bloggers Instagram influencers in Morocco in 2023. Most popular hashtags: #fashion #love #fashionstyle #reels.
 platform: Instagram
-hits: 88
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 88 Instagram influencers like this in Morocco for you to work with.
+hits: 47
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database holds 47 Instagram influencers like this in Morocco for you to contact.
 profiles:
-  - username: "_kawtar1"
-    fullname: >-
-      K  A  W  T  A  R | كوثر 🕊
-    bio: >-
-      إمرأة تعرف من أين يُؤكَل الفرح ﷽ ☪️ Influencer | blogger For collaboration 📥 #mohammedia #morocco ▪︎makeup , beauty , lifestyle , fashion ,hijaber
-    location: "Morocco"
-    followers: 26317
-    engagement: 633
-    commentsToLikes: 0.071920
-    id: ckap025c2oe0s0i781y7gp2rl
-    verified: false
-    hashtags: "#hijabootd, #modesty, #chichijab, #hijabstyleicon"
-  - username: "amina.dehbi"
-    fullname: >-
-      Amina Dehbi | أمينة الذهبي
-    bio: >-
-      Blogger | مُدَوِّنة Journalism student | طالِبَة إِعْلام My Blog | مُدَوّنَتَي 🌼 amina.dehbi001@gmail.com
-    location: "Morocco"
-    followers: 497145
-    engagement: 538
-    commentsToLikes: 0.015466
-    id: ckf5opd4s37v40j23ptbyxhbt
-    verified: false
-    hashtags: "#free, #blog, #icantbreathe, #weareyou"
-  - username: "badgalberry"
-    fullname: >-
-      BERRY 🇲🇦
-    bio: >-
-      Multifaceted if I may say so myself - Fashion blogger, rapper, songwriter. ~ Best bid wins ~ Contact: chaimaeberry@gmail.com “Alright” music video ⬇️
-    location: "Morocco"
-    followers: 40513
-    engagement: 690
-    commentsToLikes: 0.012337
-    id: ck5ci9zaus9mz0i11vkd4cduk
-    verified: false
-    hashtags: "#rotita, #sun, #newchicgals, #ootd"
   - username: "salwa.jd1"
     fullname: >-
       Salwa JD🇲🇦'Official
     bio: >-
-      ﷽ . ●MOROCCAN 🇲🇦/ MODEL🇲🇦/Blogger/influencer . ●contact Business&collaboration 💰 :Salwajlaidi2000@gmail.com . ✨🇲🇦
+      ﷽ ●MOROCCAN 🇲🇦/ MODEL🇲🇦/Blogger/influencer ●contact Business&collaboration 💰 :Salwajlaidi2000@gmail.com
     location: "Morocco"
-    followers: 109084
-    engagement: 331
-    commentsToLikes: 0.022447
+    followers: 143722
+    engagement: 483
+    commentsToLikes: 0.019232
     id: ck5hqup4htr6o0i11h3it82uu
     verified: false
-    hashtags: "#fashiondaily, #purse, #jewelry, #fashionblogger"
-  - username: "espada.yassinee"
-    fullname: >-
-      Yassine Moussaoui
-    bio: >-
-      _2eme: @espadayassinephotography _ambassador : @newchic_asia -📷ArtPhotography -👔Fashion blogger -🏋️‍♂️Fitness - 🤝Collab Dm Me - 🇲🇦 Morocco/Tanger
-    location: "Morocco"
-    followers: 89588
-    engagement: 252
-    commentsToLikes: 0.042663
-    id: ck6uevi25tbae0j714d36cpnl
-    verified: false
-    hashtags: "#yellowtshirt, #motivation, #fitnessmotivation, #dapperman"
+    hashtags: "#fashiondaily, #socialenvy, #styles, #fashiongram"
   - username: "iam.moustache"
     fullname: >-
       
     bio: >-
-      Menswear l Blogger l Model Contact : iamstche@gmail.com Rabat 📍
+      Menswear l Blogger l Model
     location: "Morocco"
-    followers: 18036
-    engagement: 712
-    commentsToLikes: 0.100654
+    followers: 19972
+    engagement: 424
+    commentsToLikes: 0.110913
     id: ck0w2k53xorwi0i19tq7m1up9
     verified: false
-    hashtags: "#spicollective, #photographer, #menswear, #jungle"
-  - username: "asmaawk"
+    hashtags: "#style, #777luckyfish, #doubleyedge, #fashionstyle"
+  - username: "marwarioui"
     fullname: >-
-      Curlytraveler
+      مروى الريوي | Marwa Rioui
     bio: >-
-      Moroccan living in Brazil 🇲🇦🇧🇷📍 Travel blogger :💉🌍✈️ Export & marketing : 👩‍💻📊
+      Nutella🍫 healthy life style 🥦💪🏋️‍♀️ Moroccan blogger 🇲🇦 Tiktok📽: Marwarioui for business inquiries: riouipro@gmail.com Contact : 0648960329 📍Morocco
     location: "Morocco"
-    followers: 29419
-    engagement: 334
-    commentsToLikes: 0.022070
-    id: ck5hhkblh8oez0i11tb4psr2t
+    followers: 1648933
+    engagement: 186
+    commentsToLikes: 0.006050
+    id: ck14gt97h6wv30i199b4ic6fb
     verified: false
-    hashtags: "#maroc, #egypt, #casablanca, #india"
-  - username: "zainab_hanin"
+    hashtags: "#maybellinesquad2021, #maybelline"
+  - username: "its_rahaf6"
     fullname: >-
-      
+      رهف | Rahaf
     bio: >-
-      Model / blogger / Actress Tetouan/ Fes❤️💦
+      Beauty blogger and fashion model For business inquiries : its.rahaf.6@gmail.com📩 اختمو إعجابكم بماشاء الله 🌟
     location: "Morocco"
-    followers: 18063
-    engagement: 414
-    commentsToLikes: 0.023709
-    id: ckap0efkopx5e0i78r1a5g3rz
+    followers: 98937
+    engagement: 1143
+    commentsToLikes: 0.036944
+    id: ckf5ud34dkgm00j23l5u2x0ww
     verified: false
-    hashtags: "#morocco, #instagood, #blogger, #marrakech"
+    hashtags: ""
   - username: "kenzoftravel"
     fullname: >-
       Kenza Bennis
     bio: >-
       💎Moroccan Travel-lifestyle blogger 🥰#Marriedtolife 🧘‍♀️ hatha yoga teacher 🌍36 countries,the rest is on my list ❤️Spreading Love 💎Marketing spec
     location: "Morocco"
-    followers: 54648
-    engagement: 158
-    commentsToLikes: 0.023581
+    followers: 54626
+    engagement: 126
+    commentsToLikes: 0.028491
     id: ck6tjsfis3bxa0j71evmn0njg
     verified: false
-    hashtags: "#yoga, #yogalover, #sarvangasana, #yogateacher"
-  - username: "soniangadi"
+    hashtags: "#travelblogger, #gltlove, #unpublished, #mymorocco"
+  - username: "lulualkhataf"
     fullname: >-
-      Sonia Ngadi
+      LULWA ALKHATAF - لولوه الخطاف
     bio: >-
-      MUA & Blogger •Influencer• 📞Tel • 0661973471 👻Snapchat• Sonia Ngadi 💌 Contact•soniangadi@hotmail.com 📹YouTube• sonia ngadi
+      ✈️Lifestyle & Travel blogger 🌟Content creator 🧥addicted to fashion 〽️ @meemonoon representer .
     location: "Morocco"
-    followers: 575970
-    engagement: 195
-    commentsToLikes: 0.151208
-    id: ck5hr2xipu69c0i11pwcl4wir
-    verified: true
-    hashtags: "#stayathome, #morocco, #staysafe, #bride"
+    followers: 702270
+    engagement: 209
+    commentsToLikes: 0.017670
+    id: ck5hnflr2np6w0i11za8469hy
+    verified: false
+    hashtags: "#shotoniphone, #travel, #view, #instatravel"
+  - username: "oussama_mouhabi"
+    fullname: >-
+      OUSSAMA MOUHABI ®️
+    bio: >-
+      Official instagram ▪Lifestyle 🕶 ▪Fashion blogger 👕 ▪MoRoccaN 🇲🇦 ▪Follow Me ☝️
+    location: "Morocco"
+    followers: 5502
+    engagement: 626
+    commentsToLikes: 0.016443
+    id: ckf5n65yawxi00j23p363qu6i
+    verified: false
+    hashtags: "#spain, #fashionstyle, #like4follow, #like4likes"
+  - username: "rim_bl"
+    fullname: >-
+      Rim BL ريم
+    bio: >-
+      Bridal / Celebrities Makeup artist Beauty Blogger ☎️ +216 50656303 Made in 🇹🇳 📍 everywhere
+    location: "Morocco"
+    followers: 250556
+    engagement: 150
+    commentsToLikes: 0.004707
+    id: ck5hpo2dtrop10i11uapsmhbz
+    verified: false
+    hashtags: "#diafa2020"
+  - username: "yasminezemmama"
+    fullname: >-
+      Yasmine Zemmama | Beauty
+    bio: >-
+      🇲🇦 Moroccan 💎 Fashion, Beauty & Lifestyle ✈️ Travel Lover 📩 myhipstersquare@gmail.com FOLLOW FOR MORE 🎀 Blogger at :
+    location: "Morocco"
+    followers: 73675
+    engagement: 216
+    commentsToLikes: 0.089662
+    id: ck55pg34sahjt0i11eyiq4jmw
+    verified: false
+    hashtags: "#exploremore, #reelsindia, #fyp, #moroccan"
+  - username: "ingyelengbawy"
+    fullname: >-
+      IngyElengbawy انچي الانجباوى
+    bio: >-
+      Certified Stylist Fashion blogger Egyptian Love to travel Wife-Mommy For inquiries : Ingyelengbawy@gmail.com Watch my episodes @mbcbeautymatch
+    location: "Morocco"
+    followers: 573663
+    engagement: 274
+    commentsToLikes: 0.018790
+    id: ck5c4e07r15id0i11orq74i78
+    verified: false
+    hashtags: "#pictureoftheday, #blogger, #fashion, #outfitinspo"
 ---

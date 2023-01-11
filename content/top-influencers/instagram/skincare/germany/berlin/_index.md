@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Berlin in 2023
+title: Top 10 Skincare Instagram Influencers In Berlin In 2023
 description: >-
-  Find top skincare Instagram influencers in Berlin in 2023. Most popular hashtags: #skincare #beauty #berlin #blogger.
+  Find top skincare Instagram influencers in Berlin in 2023. Most popular hashtags: #skincare #berlin #blogger #fashion.
 platform: Instagram
-hits: 79
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 79 Instagram influencers like this in Berlin, Germany for you to work with.
+hits: 71
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 71 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
-  - username: "lullugun"
+  - username: "menina.woitalla"
     fullname: >-
-      Lullu Gun (Official) 🖤🕊
+      🔆M e n i n a  W o i t a l l a
     bio: >-
-      Int. Venus Award Winner | Int. #Actress | #TV | #Showgirl | #Model | 🌎📍BERLIN | — • #420 Queen 👑 • — |
+      professional model / actress ♡ based in berlin | ffm for coop.:📩meninaw@gmx.de ✩ ✩ ✩ 🇩🇪pma_models🇦🇹visage🇫🇷agencesilver 🇨🇭scout 🇮🇪modo🇿🇦bossmodels …
     location: "Germany"
-    followers: 57295
-    engagement: 244
-    commentsToLikes: 0.030759
-    id: ck0u93b7p8t3w0i19idwufo17
+    followers: 101790
+    engagement: 578
+    commentsToLikes: 0.079099
+    id: ckf5m4epes7fd0j23kryvy7yo
     verified: false
-    hashtags: "#happy, #skincare, #berlin, #420"
-  - username: "katyyys_welt"
+    hashtags: "#port, #bruenette, #face, #ootdfashion"
+  - username: "andreaxdaniela"
     fullname: >-
-      KaTi☆Beautyberaterin☆by☆Avon
+      Andrea Daniela
     bio: >-
-      🖤 My little life♡ Ich bin Ich #Leader & #Beautyberaterin by #Avon #Kaffeetantenmittwoch #IchbinAvon #workingmom #Bloggerin
+      TRAVEL- BEAUTY - FASHION half 🇩🇪/half 🇵🇱 🎓 B. A. advertising 📌 Berlin | 💌 andrea_daniela@web.de
     location: "Germany"
-    followers: 6339
-    engagement: 374
-    commentsToLikes: 0.229746
-    id: ck6ugqe2m4jm10j71o5phvvtd
+    followers: 11948
+    engagement: 357
+    commentsToLikes: 0.125183
+    id: ckap9oo7qt0nq0i78a4j16yer
     verified: false
-    hashtags: "#erfolgistkeingl, #gl, #gutenmorgen, #dankbar"
-  - username: "_laura_hwe"
+    hashtags: "#chillimilli, #ootdgermany, #gumo, #blondesandcookies"
+  - username: "xamirabeauty"
     fullname: >-
-      Laura  🥀☕️
+      🛍BEAUTY | FASHION | SALE🛍
     bio: >-
-      📍Düsseldorf ❤️ @stani612 🐆Fashion|Beauty|Lifestyle
+      👸🏻 Amira 🌍 Germany 📧 amirabeauty@outlook.de ⭐️ Dauerwerbesendung
     location: "Germany"
-    followers: 6223
-    engagement: 1067
-    commentsToLikes: 0.083770
-    id: ck9wozp6r76fr0j78nwzqbbqv
+    followers: 69484
+    engagement: 475
+    commentsToLikes: 0.023084
+    id: ck55kildezdtg0i119bk24m7q
     verified: false
-    hashtags: "#streetstyleinspo, #americanstyle, #womensupportingwomen, #fashioninspo"
-  - username: "kiamisu_"
+    hashtags: "#dmdeutschland, #schminken, #dupes, #primer"
+  - username: "lovepeacehippieness"
     fullname: >-
-      Kim Ahrens
+      JESSE
     bio: >-
-      🔊 quality over quantity 📸 photo & editing @kiamisuphotography ❤ Home & Heart: #Kassel, Germany 📨 contact: kiamisu@gmx.de Impressum:
+      See the world in every color ☀️ #berlin #berlinblogger #curvy #plussize Anfragen: LovePeaceHippieness@outlook.com
     location: "Germany"
-    followers: 127256
-    engagement: 102
-    commentsToLikes: 0.065407
-    id: ck5pz2kx6yy3t0i11txrfg8fi
+    followers: 11294
+    engagement: 1724
+    commentsToLikes: 0.208133
+    id: ck8szru6jphb40j78sr44q3ly
     verified: false
-    hashtags: "#fashionmagazine, #carmushka, #carmushkaootw, #portrait"
+    hashtags: "#berlinblogger, #verlosung, #summervibes, #sommer"
+  - username: "samar_miryeganeh"
+    fullname: >-
+      Samar Miryeganeh
+    bio: >-
+      Fashion lover 👠 | Dentistry student 🦷 📍 Berlin 💌 hello.samar@gmx.de
+    location: "Germany"
+    followers: 10483
+    engagement: 805
+    commentsToLikes: 0.088813
+    id: ck138jdb3gia00i19zv0japu3
+    verified: false
+    hashtags: "#noexpectations, #legsfordays, #sunny, #berlinmitte"
+  - username: "sabrinawayneee"
+    fullname: >-
+      𝐒𝐚𝐛𝐫𝐢𝐧𝐚
+    bio: >-
+      𝐃𝐀𝐈𝐋𝐘 𝐌𝐎𝐌 𝐋𝐈𝐅𝐄 | 𝐅𝐀𝐒𝐇𝐈𝐎𝐍 | 𝐅𝐎𝐎𝐃 📍 Berlin, Braunschweig based 💌 Contact: sabrinawayneee@gmail.com Meine Posts enthalten Werbung
+    location: "Germany"
+    followers: 27383
+    engagement: 236
+    commentsToLikes: 0.071202
+    id: ck6tul76pgyvm0j71vmqcc5jx
+    verified: false
+    hashtags: "#mamablogger, #berlin, #momlife, #vacation"
+  - username: "franzy"
+    fullname: >-
+      FRANZY
+    bio: >-
+      MOMMY 👶🏼| FASHION | BEAUTY 📍Berlin ✉️ missionfashionfranzi@gmail.com Impressum 🔽
+    location: "Germany"
+    followers: 14507
+    engagement: 499
+    commentsToLikes: 0.079535
+    id: ck8t96rgln2gc0j78251fgn90
+    verified: false
+    hashtags: "#babyboy, #fashioninspo, #fashionblogger, #blogger"
   - username: "me.soeren"
     fullname: >-
       Søren
     bio: >-
       „Be in love with your life“ 🔹Germany 📍Berlin 🔹📩 DM: soerenger@gmx.de
     location: "Germany"
-    followers: 5749
-    engagement: 1005
-    commentsToLikes: 0.062651
+    followers: 5735
+    engagement: 791
+    commentsToLikes: 0.043737
     id: ckaoyrmrliro90i78gzp5vhll
     verified: false
-    hashtags: "#stayhealthy, #mood, #tbt, #smile"
-  - username: "mi_leenaa_"
+    hashtags: "#blogger, #strong, #winter, #dailylook"
+  - username: "hanna.look"
     fullname: >-
-      👟FITNESS | HEALTHY LIFESTYLE
+      beauty sustainability mom
     bio: >-
-      MILENA030▪️Fitnessökonomin▪️Prof.Sportsmanagement/TDS Sports▪️Athletikcoach TCblauweiss▪️Personaltrainer▪️Pilatesteacher Weights for Women▪️Team NOCCO
+      📍Berlin | mom to🤱🏻👧🏼 🐶 🐱 | clean beauty 🌟 | waste reduction journey | ashtanga lover | plantbased 🌱| hobby surfer | content creator 👇
     location: "Germany"
-    followers: 10636
-    engagement: 499
-    commentsToLikes: 0.047823
-    id: ck5hkxbqqj71n0i11r0f1jzhn
+    followers: 12037
+    engagement: 364
+    commentsToLikes: 0.026332
+    id: ck5zjwk12ie3g0i14qntwxdy9
     verified: false
-    hashtags: "#fitness, #focus, #teamnocco, #beauty"
-  - username: "ev_irina"
+    hashtags: "#skinlover, #sustainability, #blogger, #veganesonnencreme"
+  - username: "josephine.krk"
     fullname: >-
-      Eva Irina
+      Josephine
     bio: >-
-      • Born and Raised in Berlin 🇩🇪 • Maturing dentist 🦷 • Fav Things to do: 🎤 📷 🏊🏼‍♀️🏌🏼‍♀️
+      catch my vibe 🤍 📍Berlin ✉️ business inquiries: josephine.krk@maxplusmgmt.de
     location: "Germany"
-    followers: 11453
-    engagement: 1270
-    commentsToLikes: 0.077290
-    id: ck9hbw74iipv70j786dv60a09
+    followers: 12530
+    engagement: 129
+    commentsToLikes: 0.094801
+    id: ck8t3pvbp41d10j78j3duk3wb
     verified: false
-    hashtags: "#fashionblogger, #summergirl, #fashioninstas, #travelergirl"
-  - username: "yolcsita_eats"
-    fullname: >-
-      Yoli | Vegan | FoodPhotography
-    bio: >-
-      💛 Mindfulness & Sustainability ✨ Fair Fashion 🧘🏼‍♀️ Certified Yoga Teacher 🌏 Berlin
-    location: "Germany"
-    followers: 35551
-    engagement: 256
-    commentsToLikes: 0.119558
-    id: ck0vwpj40uy880i196z1j0qw8
-    verified: false
-    hashtags: "#veganberlin, #foodography, #plantbased, #nachhaltigkeit"
-  - username: "tinesuchtnachmehr"
-    fullname: >-
-      Tine
-    bio: >-
-      Skincare • Beauty • Scents #Lipstickjunkie & #SkinCareLover 📍 Berlin
-    location: "Germany"
-    followers: 10561
-    engagement: 573
-    commentsToLikes: 0.019202
-    id: ck9wd3or9dxms0j7876gdvwjw
-    verified: false
-    hashtags: "#lippenstift, #vegannails, #nailpolish, #notd"
-  - username: "sarghonaa"
-    fullname: >-
-      Sarghona Sultany
-    bio: >-
-      @glow.aesthetics_hh #hamburg mail:sarghona.sultany@web.de J❤️
-    location: "Germany"
-    followers: 30510
-    engagement: 195
-    commentsToLikes: 0.121049
-    id: ck14kfcarp8vq0i19err44qjj
-    verified: false
-    hashtags: "#berlin, #family, #hh, #happy"
+    hashtags: "#beigefeed, #fitfam, #blondhair, #fashioninspo"
 ---

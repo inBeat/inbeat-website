@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Belgium in 2023
+title: Top 10 Mothers Instagram Influencers In Belgium In 2023
 description: >-
-  Find top mothers Instagram influencers in Belgium in 2023. Most popular hashtags: #photography #love #stayhome.
+  Find top mothers Instagram influencers in Belgium in 2023. Most popular hashtags: #momsofinstagram #motherhood #fashion.
 platform: Instagram
-hits: 65
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 65 Instagram influencers like this in Belgium for you to connect with.
+hits: 33
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 33 Instagram influencers like this in Belgium for you to pitch.
 profiles:
   - username: "ursulavonderleyen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       President of the @europeancommission. Mother of seven. Brussels-born. European by heart. 🇪🇺
     location: "Belgium"
-    followers: 119624
-    engagement: 400
-    commentsToLikes: 0.094723
+    followers: 140518
+    engagement: 380
+    commentsToLikes: 0.049914
     id: ck0uaim8oc9sv0i19j3asdyeg
     verified: true
-    hashtags: "#soteu, #stateoftheunion, #coronavirus, #eu"
-  - username: "aarondegroeve"
+    hashtags: "#safevaccines, #europe, #europeanunion, #euco"
+  - username: "harmonylu_"
     fullname: >-
-      AARON
+      harmony lu
     bio: >-
-      ✗ Mother Agency: @immbxl ✗ hugo@immbruxelles.com ✗ BOOTCAMP ‘20 @tagmagbe
+      ◦ belgian expat in nyc 🇧🇪🛫🇺🇸 ◦ adam's mom 🐼 ◦ motherhood in all its glory 🥴 ◦ mental health advocate 🧘🏻‍♀️ ◦ she/her
     location: "Belgium"
-    followers: 5049
-    engagement: 1905
-    commentsToLikes: 0.041565
-    id: ck8swhsaue4w20j78l2uozyoj
+    followers: 11050
+    engagement: 661
+    commentsToLikes: 0.034026
+    id: ck9wdlge8g7fq0j782qg2p20h
     verified: false
-    hashtags: "#aaroninfrance, #aaroninbrussels, #hmman, #city"
+    hashtags: "#streetsofnewyork, #motherhoodunplugged, #toddlermomlife, #boymom"
   - username: "styledbynad"
     fullname: >-
-      Nadège Kalenga ▪️Styledbynad
+      Fashion | Outfit | Look
     bio: >-
-      Mother, Wife and Fashion addict. 📧kalenganadege@gmail.com 🇧🇪Belgium Code promo SHEIN: styledbynadQ4
+      Mother, Wife and Fashion addict. 📧kalenganadege@gmail.com 🇧🇪Belgium
     location: "Belgium"
-    followers: 63449
-    engagement: 322
-    commentsToLikes: 0.015914
+    followers: 64532
+    engagement: 352
+    commentsToLikes: 0.012774
     id: ck135hbyy1f850i19oaqzxeio
     verified: false
-    hashtags: "#shein, #sheingals, #ad, #stayhome"
+    hashtags: "#sheingals, #ad, #leazboutique, #leazgirlz"
+  - username: "zowiedeville"
+    fullname: >-
+      Zoë ✨ Zowiedeville
+    bio: >-
+      •Mother of 3 💕 •Mrs. To @dieltches 💍🖤 •Surviving on coffee ☕️ •Belgium 📍 •
+    location: "Belgium"
+    followers: 20081
+    engagement: 341
+    commentsToLikes: 0.029324
+    id: ckaos7w49qi0l0i78x4ecufbc
+    verified: false
+    hashtags: "#vintagestyle, #vintageinspired, #dailypinup, #rockabilly"
   - username: "tijanadraws"
     fullname: >-
       Tijana Lukovic
     bio: >-
-      Belgium based illustrator and painter Inspired by motherhood, folklore, nature and waldorf 🌿lukovictijana@gmail.com
+      🦊 Belgium based illustrator and painter 🌙 Rooted in nature 〰️ myth 〰️ folklore 〰️ motherhood 🐚 lukovictijana@gmail.com
     location: "Belgium"
-    followers: 19545
-    engagement: 786
-    commentsToLikes: 0.070344
+    followers: 36881
+    engagement: 1031
+    commentsToLikes: 0.033980
     id: ck15qiwhk32co0i19drd663iv
     verified: false
-    hashtags: "#livethelittlethings, #darlingmovement, #mentalhealthawarenessweek, #childhoodunplugged"
+    hashtags: ""
   - username: "violettevdvondel"
     fullname: >-
       V I O L E T T E 🇧🇪
     bio: >-
       Working for & Other Stories Gent Mother of fat cat @fatcatmollyyyyyy
     location: "Belgium"
-    followers: 54221
-    engagement: 1069
-    commentsToLikes: 0.011672
+    followers: 61770
+    engagement: 958
+    commentsToLikes: 0.009014
     id: ck5hph9xwrcxj0i116p3op09e
     verified: false
-    hashtags: "#knitwearseason"
-  - username: "zowiedeville"
-    fullname: >-
-      Zoë ✨ Zowiedeville
-    bio: >-
-      •Mother of 3 💕 •Mrs. To @dieltches 💍🖤 •Surviving on coffee ☕️ •Belgium 📍 • •@love_yemak YEMAK-Zoe for 40% off✨ •
-    location: "Belgium"
-    followers: 19608
-    engagement: 583
-    commentsToLikes: 0.027814
-    id: ckaos7w49qi0l0i78x4ecufbc
-    verified: false
-    hashtags: "#modernpinup, #girlswithink, #pinup, #bettiebangs"
+    hashtags: ""
   - username: "inesridane"
     fullname: >-
       Inès Ridane
     bio: >-
-      ~ 🌍♈ ~ My mother language is dance 🌸 ~ 📧 : inesridanepro@gmail.com 📍Brussel, Belgium ~ YouTube ⤵️
+      ~ 🌍♈🌑🌒🌓🌔🌕🌖🌗🌘 ~ My mother language is dance 🌸 ~ 📧 : inesridanepro@gmail.com 📍Brussel, Belgium ~ YouTube ⤵️
     location: "Belgium"
-    followers: 4992
-    engagement: 1113
-    commentsToLikes: 0.047187
+    followers: 5109
+    engagement: 990
+    commentsToLikes: 0.060851
     id: ck55lvw822kg90i110544dmuu
     verified: false
-    hashtags: "#smile, #loveyourself, #makeup, #proud"
+    hashtags: "#trust, #picture, #belgium, #hipsdontlie"
   - username: "lynnvanroyen"
     fullname: >-
       Lynn Van Royen
     bio: >-
       • Actress • Belgian • Mother of two • For professional inquiries please contact gudrun@burieburie.be #kleingelukske #gewolkte #royenbol
     location: "Belgium"
-    followers: 91539
-    engagement: 407
-    commentsToLikes: 0.010756
+    followers: 93586
+    engagement: 267
+    commentsToLikes: 0.012280
     id: ck15paq2xwxto0i19eei9fe4j
     verified: true
-    hashtags: "#kleingelukske, #thewindow, #breastcancer, #breastfriend"
+    hashtags: "#designedinbelgium, #wolvis, #streepinhetzand, #kleingelukske"
   - username: "maigalal"
     fullname: >-
       maigalal
     bio: >-
       -Celebrity stylist - Costumes making for movies - Fashion consultant - Personal shopper And a mother to 3 loving angels
     location: "Belgium"
-    followers: 221127
-    engagement: 152
-    commentsToLikes: 0.020911
+    followers: 231410
+    engagement: 126
+    commentsToLikes: 0.020112
     id: ck138ljxigto50i19p20lej33
     verified: false
-    hashtags: "#gff, #redcarpet, #yousra, #egyptianstylist"
+    hashtags: "#shootingad, #egyptiancelebrity, #styledbymaigalal, #sahraneen"
   - username: "carolien.machiels"
     fullname: >-
       Carolien machiels
     bio: >-
-      ♥ Dm for collaboration Mommy of 2 ♥ Eden & Enora
+      ♥ Dm for collaboration Mommy of 2 ♥ Eden & Enora ♥ Baby N•3 june 2021
     location: "Belgium"
-    followers: 3302
-    engagement: 1820
-    commentsToLikes: 0.149184
+    followers: 3481
+    engagement: 1914
+    commentsToLikes: 0.146514
     id: ckf5xaqb0v05l0j23z9ykm0jq
     verified: false
-    hashtags: "#cameramama, #love, #instakids, #photooftheday"
+    hashtags: "#kids, #beautiful, #photooftheday, #children"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Chile in 2023
+title: Top 10 Yoga Instagram Influencers In Chile In 2023
 description: >-
-  Find top yoga Instagram influencers in Chile in 2023. Most popular hashtags: #yoga #chile #love #nature.
+  Find top yoga Instagram influencers in Chile in 2023. Most popular hashtags: #yoga #instachile #chile #love.
 platform: Instagram
-hits: 34
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 34 Instagram influencers like this in Chile for you to collaborate.
+hits: 22
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 22 Instagram influencers like this in Chile for you to contact.
 profiles:
   - username: "yoga_nicoletta"
     fullname: >-
-      Nicole Arpoulet
+      
     bio: >-
       Bailarina de esta tierra comparto mi práctica de Yoga y espero que te inspire a comenzar la tuya Recetas base a plantas cosmética natural y un deli❤️
     location: "Chile"
-    followers: 59365
-    engagement: 457
-    commentsToLikes: 0.030973
+    followers: 62209
+    engagement: 506
+    commentsToLikes: 0.026909
     id: ck137r3ldcyks0i19dq7ufwtt
     verified: false
-    hashtags: "#life, #ibelieveinthegoodthingscoming, #heart, #lovingreminder"
+    hashtags: "#abundance, #life, #love, #ibelieveinthegoodthingscoming"
   - username: "carolazow"
     fullname: >-
       Caro Lazo
     bio: >-
       CLASES DE YOGA ON LINE ✨ • Vinyasa and Anusara Elements Yoga Teacher and Student 🙏💜 •Sharing magic moments ✨
     location: "Chile"
-    followers: 3454
-    engagement: 630
-    commentsToLikes: 0.094102
+    followers: 3543
+    engagement: 623
+    commentsToLikes: 0.105108
     id: ck133yqseuefm0i1981u3k4z9
     verified: false
-    hashtags: "#yoga, #conexion, #yogaparatodos, #coaching"
-  - username: "nativa_cl"
+    hashtags: "#love, #meditacion, #yoga, #friends"
+  - username: "dama_riiss"
     fullname: >-
-      Vania Hermosilla
+      Damaris Noemi
     bio: >-
-      Arte inspirado en la naturaleza, los viajes y los sueños❤️⚡ 25 de 194 📍🌎 🐶 @nativapintatumascota 🦋 @myaerialyoga 🤸🏽‍♀️ @yogasemillas . 💌 Tienda:
+      Santiago de Chile 🇨🇱 Estudiante de Derecho 👩‍⚖ Yoga 🧘‍♀️❤🏞
     location: "Chile"
-    followers: 2713
-    engagement: 847
-    commentsToLikes: 0.056816
-    id: ck5zlo38vl30f0i14rl2rezsx
+    followers: 7821
+    engagement: 647
+    commentsToLikes: 0.016406
+    id: ckaozr9non20j0i78tndavo4c
     verified: false
-    hashtags: "#womanart, #natureart, #art, #artist"
-  - username: "isiassler"
-    fullname: >-
-      Isi Assler
-    bio: >-
-      SPLITBOARDING FOR LIFE 🏂💙❄️ 🌱Born in chile 📍 Malalcahuello 🏆 Nacional x2 🏂 ☀️somos energía ⭐️🙏🏼 🔷ASHTANGA YOGA 🔛@chasing.winters
-    location: "Chile"
-    followers: 12787
-    engagement: 489
-    commentsToLikes: 0.023919
-    id: ck5q8gmkx630k0i111jyz65c4
-    verified: false
-    hashtags: "#mavicmini, #merecidorelajo, #chile, #nature"
+    hashtags: "#chilegram, #instagram, #me, #insta"
   - username: "stephany_butler"
     fullname: >-
       Stephany Butler
     bio: >-
-      INSTRUCTORA YOGA ॐ PSICÓLOGA CLÍNICA TERAPEUTA FLORAL ABDOMINALES HIPOPRESIVOS . . . . Yogui/ Atleta/Poledancer CONSULTA Ψ CLASES ॐ X DM 📩
+      INSTRUCTORA YOGA ॐ PSICÓLOGA CLÍNICA TERAPEUTA FLORAL ABDOMINALES HIPOPRESIVOS . . . . CONSULTAS TERAPIA PSICOLÓGICA Y CLASES DE YOGA ॐ X DM 📩
     location: "Chile"
-    followers: 9589
-    engagement: 391
-    commentsToLikes: 0.059112
+    followers: 11550
+    engagement: 221
+    commentsToLikes: 0.049626
     id: ckap8krnyore10i789ycfjzmd
     verified: false
-    hashtags: "#calisthenics, #clasesyogaonline, #instachile, #mindfullness"
+    hashtags: "#psicologiaonline, #yogagirl, #yogaprovidencia, #handstand"
   - username: "maitejimenezr"
     fullname: >-
       Maite Jiménez Ramírez
     bio: >-
       Profesora de Educación Física Instructora Kundalini Yoga CEO @espaciofluye #Foxfit |FoxSport Chile 📺 @fitbitlatam Fitness | Yoga| 📍5ta región,🇨🇱
     location: "Chile"
-    followers: 28734
-    engagement: 124
-    commentsToLikes: 0.093249
+    followers: 28583
+    engagement: 103
+    commentsToLikes: 0.095062
     id: ck15p9mjkws560i19jryx2rrk
     verified: false
-    hashtags: "#barritasinazucar, #maitefit, #yoga, #concurso"
+    hashtags: "#fitbit, #fitbitversa2, #emiliesnack, #barritasemilie"
   - username: "lou_cooper_yoga"
     fullname: >-
       ᴸᴼᵁ ᶜᴼᴼᴾᴱᴿॐसर्व मन्गलम्✽
     bio: >-
       𓂀°•ʜᴇʟʟᴏ ᴜɴɪᴠᴇʀsᴇ•°𓆃 ᴠɪɴʏᴀsᴀ ʏᴏɢᴀ ɪɴsᴛʀᴜᴄᴛᴏʀ°ʙᴜᴅᴏᴋᴏɴ®ʏᴏɢᴀ & ᴍᴏʙɪʟɪᴛʏ ᴛʜᴇ ᴡᴀʏ ʏᴏᴜ ᴍᴏᴠᴇ ɪs ᴛʜᴇ ᴡᴀʏ ʏᴏᴜ ᴛʜɪɴᴋ 📍ᴘɪᴄʜɪʟᴇᴍᴜ✺♪𓆚 ɴᴏᴍᴀᴅ꧁➶ 𓂍
     location: "Chile"
-    followers: 33539
-    engagement: 155
-    commentsToLikes: 0.064700
+    followers: 34058
+    engagement: 158
+    commentsToLikes: 0.049478
     id: ck5heom39tzvu0i119hmmdip5
     verified: false
-    hashtags: "#budokonyoga, #pichilemu, #puntadelobos, #outfit"
+    hashtags: "#outfit, #sportbra, #goforit, #2020"
+  - username: "anny_outdoor"
+    fullname: >-
+      Anny Travel & Hikes 🌎
+    bio: >-
+      Venezolana de corazón! 🇻🇪 📍🇨🇱 Cuasi-Socióloga. ⛰️🧗🏼‍♀️Montañista y Escaladora que está perdidamete enamorada de la AVENTURA.🧗🏼‍♀️⛰️
+    location: "Chile"
+    followers: 9400
+    engagement: 839
+    commentsToLikes: 0.087750
+    id: ck5qdgtyfvihd0i11uayarwgu
+    verified: false
+    hashtags: "#trekking, #hikegirl, #trekkinglovers, #travelphotography"
+  - username: "alef.cero"
+    fullname: >-
+      José Martínez
+    bio: >-
+      Ingeniero Industrial La fotografía mi pasión 📍Valencia - Spain- 📷 Fotógrafo ↔ Photographer Portraits | Retratos | Landscapes | Paisajes
+    location: "Chile"
+    followers: 35934
+    engagement: 312
+    commentsToLikes: 0.029705
+    id: ck6u6hpujfnlo0j71jpmnyxl0
+    verified: false
+    hashtags: "#shoesaddict, #portraitpage, #valencia, #gorgeous"
   - username: "bboyears"
     fullname: >-
       EARS👂
     bio: >-
-      Bailarín Profesional, Acrobata y Equilibrista 🤸‍♂️ 📍🇨🇱 🇫🇷🇩🇪🇨🇭🇳🇱🇪🇸🇨🇺🇧🇷🇨🇴🇪🇨🇵🇪🇦🇷 Speedy Angels Uni CREW 🇻🇪 @Spdangelsuni @Aborigenesvzla @GodLevelStore
+      🚨CLASES PERSONALIZADAS ONLINE🚨 Dancer/Acrobat/Hand Balancer 📍🇨🇱 Speedy Angels Uni CREW🇻🇪 🙌🏻@Spdangelsuni 🏹@Aborigenesvzla 🏆@GodLevelStore ↘️VIDEO↙️
     location: "Chile"
-    followers: 6848
-    engagement: 658
-    commentsToLikes: 0.048347
+    followers: 8807
+    engagement: 970
+    commentsToLikes: 0.061185
     id: ck55kfj5tz6u80i11km7r03i2
     verified: false
-    hashtags: "#powermoves, #acrobatics, #yoga, #hiphop"
-  - username: "giselabargar"
+    hashtags: "#training, #handstand, #tricking, #breakdance"
+  - username: "elevaelki"
     fullname: >-
-      🄶🄸🅂🄴🄻🄰 🄱🄰🅁🄶🄰🅁
+      Makarena Cabello Contreras
     bio: >-
-      Gaucha, bien de campo🐴🐄🌾🌽🌻 👩‍👧‍👦Mamá de Zoe y Matteo Vivo en 🇨🇱 hace 19 años. 🇦🇷 Soy de Rivera 💼 ESPN 🎓 Locutora ❤️ los autos y las 🏍️ 100% tuerca
+      Antofagasta, Chile STREET WORKOUT 20 años <<El camino del guerrero.
     location: "Chile"
-    followers: 60421
-    engagement: 290
-    commentsToLikes: 0.044594
-    id: ck6u5b8si8ml30j71ppt17cwq
+    followers: 61037
+    engagement: 246
+    commentsToLikes: 0.020509
+    id: ckap2ix3jz11m0i78jahjgbat
     verified: false
-    hashtags: "#slr, #workout, #slrcanon, #funny"
-  - username: "tomasgonzalez1"
-    fullname: >-
-      Tomas Gonzalez
-    bio: >-
-      Gimnasta Chileno 🇨🇱 3x Olympic finalist 4x World finalist
-    location: "Chile"
-    followers: 249685
-    engagement: 323
-    commentsToLikes: 0.016722
-    id: ck0u7p8c65cit0i19wkdpybdi
-    verified: true
-    hashtags: "#gimnasia, #escuelatomasgonzalez, #gymnastics, #chile"
+    hashtags: "#calisthenicsgirls, #streetworkoutgirl, #progressnotperfection, #streetworkoutgirls"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Atlanta in 2023
+title: Top 10 Health Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top health Instagram influencers in Atlanta in 2023. Most popular hashtags: #love #health #atlanta.
+  Find top health Instagram influencers in Atlanta in 2023. Most popular hashtags: #health #atlanta #love #selflove.
 platform: Instagram
-hits: 160
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 160 Instagram influencers like this in Atlanta, United States for you to collaborate.
+hits: 159
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 159 Instagram influencers like this in Atlanta, United States for you to contact.
 profiles:
-  - username: "sourceradiance"
-    fullname: >-
-      KEVIN WALTON | BE THE LOVE 💚
-    bio: >-
-      VOICE OF TRUTH🕯DIVINE ORDER @thelightbeings | @sacredsons *Spiritual Guide *Transformation Specialist *Activational Speaker *Community Builder
-    location: "United States"
-    followers: 40817
-    engagement: 387
-    commentsToLikes: 0.054561
-    id: ck6twuwv1u8iz0j71x480jrd3
-    verified: false
-    hashtags: "#sacred, #changeyourmindchangeyourlife, #desert, #createyourreality"
-  - username: "atlantabestbites"
-    fullname: >-
-      Atlanta’s Best Bites | Sarah
-    bio: >-
-      Atlanta Restaurants | Food & Drink 🌮 Original Content 🍕 Restaurant & Business Promoter 📩 atlantabestbites@gmail.com for business inquiries
-    location: "United States"
-    followers: 29705
-    engagement: 88
-    commentsToLikes: 0.107935
-    id: ckaoqoiu3jmpu0i78wya0t204
-    verified: false
-    hashtags: "#atliens, #noms, #bites, #weloveatl"
-  - username: "_erinsnow"
-    fullname: >-
-      ERIN SNOW
-    bio: >-
-      📍Atlanta health account: @wellnessandwine_ The Block Agency Sherri Hill Monster Energy
-    location: "United States"
-    followers: 20978
-    engagement: 657
-    commentsToLikes: 0.020690
-    id: ck6u6c3tweqfz0j71s21ic5q3
-    verified: false
-    hashtags: "#bridalmodel, #yikes, #model, #atlantamodel"
-  - username: "dasiafitadventures"
-    fullname: >-
-      Dasia Baker
-    bio: >-
-      Atlanta|Health|Fitness| Personal Trainer @bowmar_nutrition Athlete Code: Dasia Visualize•Believe•Achieve
-    location: "United States"
-    followers: 18244
-    engagement: 220
-    commentsToLikes: 0.058316
-    id: ck8t7u3h8hziv0j784o4555rz
-    verified: false
-    hashtags: ""
   - username: "sirenitytoday"
     fullname: >-
       Sirenity
     bio: >-
       Bringing Peace To The Mental Health of Black Men Positive News | Mental Health | Inspiration Atlanta, GA DM FOR PROMO
     location: "United States"
-    followers: 33849
-    engagement: 395
-    commentsToLikes: 0.036401
+    followers: 53056
+    engagement: 904
+    commentsToLikes: 0.042687
     id: ck8t9k47xoe5s0j784c3wp0hb
     verified: false
-    hashtags: "#blacklove, #blackhealth, #blackqueens, #blackisbeautiful"
-  - username: "meldebarge"
+    hashtags: "#blackmenmagic, #blackboyjoy, #girldad, #blacklove"
+  - username: "jazziloves"
     fullname: >-
-      Mel DeBarge
+      ✨Jasmine Usher ✨
     bio: >-
-      NYC • @no.idle PRODUCER | DJ | RENAISSANCE MAN mel@meldebarge.com
+      📍 Atl 📦 P.O. Box 325 Scottdale, Ga 30079 Natural Hair/Brand Content Creator✨ Collab 📩 JazziLoves820@gmail.com
     location: "United States"
-    followers: 45605
-    engagement: 296
-    commentsToLikes: 0.113676
-    id: ck5zvzb4c56nn0i146kafhxty
+    followers: 9715
+    engagement: 239
+    commentsToLikes: 0.270848
+    id: ckaorlu3rnsxi0i78k5b82jde
+    verified: false
+    hashtags: "#bahamas, #leoseason, #atlantablogger, #selflove"
+  - username: "t.rocha16"
+    fullname: >-
+      Tony Rocha
+    bio: >-
+      🙏🏽Follower of Christ ⚽️ Professional Footballer @nycfc #15 ⚽️ Belize National Football Team 🌱Plant Based Athlete 🍎Nutrition Coach @nutritiongols
+    location: "United States"
+    followers: 3074
+    engagement: 870
+    commentsToLikes: 0.037992
+    id: ckf5mo6qfuprm0j23rgam8ha3
     verified: true
-    hashtags: "#fashion, #newmusic, #studio, #instagood"
-  - username: "designsbyjazmyne"
+    hashtags: "#derby, #tr15, #ussoccer, #inspired"
+  - username: "nbbpodcast"
     fullname: >-
-      ⠀⠀  ⠀⠀⠀⠀⠀⠀ DesignsByᎫᎯℤℳᎽℕÉ 🍃
+      NotBasicBlonde Podcast
     bio: >-
-      ⠀⠀⠀⠀⠀⠀-⠀Fashion Designer - Creator - Model ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ NEED A MASK?😷SHOP HERE ⤵️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      💖Celebrity Podcast💖 🎙By @notbasicblonde_ 🎙 Over 3M downloads 🤩 💕Your Guide to dating, entrepreneurship,spirituality, health&wellness🎙 📍Atlanta, GA
     location: "United States"
-    followers: 9518
-    engagement: 632
-    commentsToLikes: 0.050833
-    id: ckaoqmq38jemy0i78oc4i2b0u
+    followers: 257808
+    engagement: 119
+    commentsToLikes: 0.342423
+    id: ck55m2aai30uf0i11ewcpuc70
     verified: false
-    hashtags: "#meditation, #naturalhairstyles, #explorepage, #festivalhair"
-  - username: "lloyddickenson"
+    hashtags: "#podcasts, #weloveatl, #entrepreneurship, #spring2021"
+  - username: "willina.rodriguez"
     fullname: >-
-      lloyddickenson
+      🦋𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 👑𝙈𝙤𝙙𝙚𝙡💋
     bio: >-
-      acтor | Wilhelmina NYC & MIA, DT LA, Locke Management NC, Boss SA | CPT|USVI 🇻🇮 | Owner @1stLookModels Owner @lloyddickensonfitness Trainer: @pvolve
+      💗𝘏𝘪, 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘱𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 🥰 📍𝙈𝙞𝙖𝙢𝙞 🤓#Editorial & #Commercial 𝘔𝘰𝘥𝘦𝘭 😊𝙈𝙤𝙙𝙚𝙡 𝘾𝙤𝙖𝙘𝙝 🌹𝘓𝘦𝘢𝘥 𝘮𝘰𝘥𝘦𝘭 𝘰𝘧 @vi3ions 🥰𝘍𝘢𝘤𝘦 𝘰𝘧 @the_biagoddess ✨♒️🕉☪️☯️🔮
     location: "United States"
-    followers: 53833
-    engagement: 425
-    commentsToLikes: 0.084454
-    id: ck6u506og6tka0j71t8ogwclb
+    followers: 6427
+    engagement: 629
+    commentsToLikes: 0.129579
+    id: ck5hi5jzabrc00i111iv9ajx8
     verified: false
-    hashtags: "#mensfashion, #blacklove, #lloydandafiya, #nyc"
-  - username: "fitlaurenelizabeth"
+    hashtags: "#miamiflorida, #model, #blackleather, #phillyphotography"
+  - username: "_erinsnow"
     fullname: >-
-      LAUREN JOHNSON
+      ERIN SNOW
     bio: >-
-      health + fitness + lifestyle atlanta, ga @laurenelizzz / @peak_barbell
+      📍Atlanta Georgia REALTOR® @erinsnowtherealtor health page: @thegirlfriendsguide__ The Block Agency
     location: "United States"
-    followers: 3152
-    engagement: 1012
-    commentsToLikes: 0.069622
-    id: ckf5ox8t145550j23kd990qay
+    followers: 20812
+    engagement: 700
+    commentsToLikes: 0.020282
+    id: ck6u6c3tweqfz0j71s21ic5q3
     verified: false
-    hashtags: ""
+    hashtags: "#monstergirlmonday, #monstergirl, #engaged, #monsterenergy"
+  - username: "deronwalker"
+    fullname: >-
+      deron
+    bio: >-
+      tik tok: @deron_walker chi ✈️ la
+    location: "United States"
+    followers: 7947
+    engagement: 1296
+    commentsToLikes: 0.101280
+    id: ck6u3dcgxx5vs0j71txo626mv
+    verified: false
+    hashtags: "#dancers, #fitness, #nature, #body"
   - username: "acostaparkmusic"
     fullname: >-
       Acosta Park
     bio: >-
-      Owner @thepenthousenyc Owner 723 Penthouse Mafia Singer/Songwriter/Engineer
+      🔊 SINGER - SONGWRITER OWNER - @thepenthousenyc RUN IT UP - PENTHOUSE MAFIA
     location: "United States"
-    followers: 43434
-    engagement: 45
-    commentsToLikes: 0.261381
+    followers: 42203
+    engagement: 49
+    commentsToLikes: 0.256310
     id: ck6touavyg5ha0j71mk3knawn
     verified: false
-    hashtags: "#acostapark, #motivation, #love, #inspiration"
+    hashtags: "#love, #2020, #entrepreneur, #boss"
+  - username: "chief_miller"
+    fullname: >-
+      𝙲𝚑𝚒𝚎𝚏 𝙼𝚒𝚕𝚕𝚎𝚛 ™
+    bio: >-
+      𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙿𝙰𝙶𝙴 Dᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ᴛʜᴇ ᴍᴇɴ ᴀɴᴅ ᴡᴏᴍᴇɴ ᴏғ ᴛʜᴇ ғɪʀᴇ sᴇʀᴠɪᴄᴇ ⭐⭐⭐⭐⭐⭐⭐ @chiefmillerapparel @chiefmillermedia @chiefmillerambassadors
+    location: "United States"
+    followers: 213029
+    engagement: 124
+    commentsToLikes: 0.037268
+    id: ck5hmzq4imxq50i11xngj1egu
+    verified: false
+    hashtags: "#chiefmiller, #paramedic, #fireservice, #bomberos"
+  - username: "southernketogirl"
+    fullname: >-
+      🌟 Jana 🌟
+    bio: >-
+      📍 ATL K-Nutri @knutri 10% Discount- southernketogirl10 ⬇️ 150 lbs w/ Keto+Exercise 👙 Skin removal @athenixbody 🥩 Keto 🏋🏼‍♀️ Fitness ❤️ Health
+    location: "United States"
+    followers: 60996
+    engagement: 64
+    commentsToLikes: 0.149020
+    id: ck5zm4sqolwh10i14eyzzjudk
+    verified: false
+    hashtags: "#selflove, #ketogeniclifestyle, #ketodiet, #ketogenic"
 ---

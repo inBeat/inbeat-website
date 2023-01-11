@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Poland in 2023
+title: Top 10 Music Instagram Influencers In Poland In 2023
 description: >-
-  Find top music Instagram influencers in Poland in 2023. Most popular hashtags: #summer #mirrorselfie #polska.
+  Find top music Instagram influencers in Poland in 2023. Most popular hashtags: #warszawa #ootd #love.
 platform: Instagram
-hits: 402
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 402 Instagram influencers like this in Poland for you to connect with.
+hits: 330
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 330 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "beata_chmielowska_olech"
+  - username: "majastrojek"
     fullname: >-
-      Beata Chmielowska-Olech
+      Maja Strojek Model Actress
     bio: >-
-      #tvpresenter #journalist #lifestyle #events #businessmeetings #tv #beautycare #educationalproject #music #management 📩b.chmielowskaolech@gmail.com
+      📍 Warsaw TikTok: majastrojek_ 📸 photoshoot 🎥 video 🎬 movies, series ❤️ Food Love music, dance, video games, memes and more 📩 majastrojek@gmail.com
     location: "Poland"
-    followers: 13983
-    engagement: 1103
-    commentsToLikes: 0.076755
-    id: ck6tpvvgqnj0e0j71miyul8gv
+    followers: 576756
+    engagement: 192
+    commentsToLikes: 12.465804
+    id: ck5bxb0kwndin0i119qbbxato
     verified: false
-    hashtags: "#teleexpress, #badzmyrazem, #teleexpressextra, #tvp2"
-  - username: "beata_walczynska"
-    fullname: >-
-      
-    bio: >-
-      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
-    location: "Poland"
-    followers: 11226
-    engagement: 1673
-    commentsToLikes: 0.066285
-    id: ck13azgmrsy100i19khq0qwde
-    verified: false
-    hashtags: "#rabowice, #summertime, #poznancity, #amateurphotography"
-  - username: "kajajablonska"
-    fullname: >-
-      𝒌𝒂𝒋𝒂 𝒋𝒂𝒃𝒍𝒐𝒏𝒔𝒌𝒂♡
-    bio: >-
-      singer ✰ my music 💿 ✰ współpraca: kajkajablonska3232@gmail.pl📩 @kajajablonska.mess funny meッ @smiesznakajka friendsッ ✰ tiktok: kaja_jablonska ✰ MERCH👚
-    location: "Poland"
-    followers: 81738
-    engagement: 721
-    commentsToLikes: 0.034050
-    id: ck134u237y6gj0i19oodgmngk
-    verified: false
-    hashtags: "#sing, #singing, #vocalist, #voice"
-  - username: "qeeriefire"
-    fullname: >-
-      Justyna 🔥
-    bio: >-
-      Poland Music▪️Self-taught beginner guitarist▪️ Dogs▪️Cooking▪️ Marvel Comics▪️Yoga #metalhead
-    location: "Poland"
-    followers: 21421
-    engagement: 1065
-    commentsToLikes: 0.040381
-    id: ck0w6ezy8892n0i19b3l6lf3r
-    verified: false
-    hashtags: ""
+    hashtags: "#photoshoot, #photooftheday, #women, #naturallight"
   - username: "kuberaadam"
     fullname: >-
       Adam Kubera
     bio: >-
-      📀: Universal Music Polska ✉️ mail: t.turek@magicrecords.pl 🎙 booking: d.kosinska@kmevents.pl ⬇️ PREMIERA UTWORU ŚWIĄTECZNEGO!
+      📀: Universal Music Polska ✉️ mail: t.turek@magicrecords.pl 🎙 booking: d.kosinska@kmevents.pl ⬇️ SPOTIFY
     location: "Poland"
-    followers: 58847
-    engagement: 831
-    commentsToLikes: 0.031387
+    followers: 54201
+    engagement: 735
+    commentsToLikes: 0.016253
     id: ck15sfmoqcrvt0i199br3ujmp
     verified: false
-    hashtags: "#newmusiccomingsoon, #music, #adamkubera, #matura2023"
+    hashtags: "#summervibes, #sunnyday, #kuberaadam, #car"
+  - username: "julia_binczyk"
+    fullname: >-
+      Julka Bińczyk
+    bio: >-
+      Dzieeeeń dobry moi cudni🌞 My music | YS Fajniejsza ja- @julia_binczyk_mess • juliabinczyk@mymusic.pl SCHOWAM SIĘ W TOBIE
+    location: "Poland"
+    followers: 20939
+    engagement: 1607
+    commentsToLikes: 0.045773
+    id: ckap6k9lgg7b90i78yj8shl5w
+    verified: false
+    hashtags: "#samuel, #lato, #hasztag"
+  - username: "adriannagrotkowska"
+    fullname: >-
+      Adrianna Grotkowska
+    bio: >-
+      🦄 Make-up artist & music lover🎸 🏡 Warsaw, Poland 📩 aduchapoducha@gmail.com
+    location: "Poland"
+    followers: 158985
+    engagement: 869
+    commentsToLikes: 0.030837
+    id: ck5c5oaye3umk0i11a839lxnu
+    verified: false
+    hashtags: "#summertime, #rarebeauty, #wakeupandmakeup, #zapozno"
+  - username: "aniakarwan"
+    fullname: >-
+      Ania Karwan
+    bio: >-
+      RAJ MANAGEMENT Music&Entertainment PR Katarzyna Rajtar management@aniakarwan.com k.rajtar@rajmanagement.pl
+    location: "Poland"
+    followers: 108062
+    engagement: 370
+    commentsToLikes: 0.022057
+    id: ck0ueam4ukzxl0i19qsxzknlr
+    verified: true
+    hashtags: "#latko, #koncert, #aniakarwan, #warszawa"
+  - username: "bymartawisniewska"
+    fullname: >-
+      Marta Wiśniewska
+    bio: >-
+      Tworzę modę 👗 owner @cherrystore.pl ❤️ • fashion • travels • books • rock music • mtb • yoga
+    location: "Poland"
+    followers: 43710
+    engagement: 215
+    commentsToLikes: 0.133794
+    id: ck15sj1xnd9bd0i1902n87op0
+    verified: false
+    hashtags: "#polskajestpiekna, #love, #mi, #coreczka"
   - username: "romaastemberg"
     fullname: >-
       Roma Astemberg 🌸
     bio: >-
       🌍📍 Warsaw/Gdansk 🎤🎶 in love with music
     location: "Poland"
-    followers: 9332
-    engagement: 1186
-    commentsToLikes: 0.047409
+    followers: 9328
+    engagement: 762
+    commentsToLikes: 0.065013
     id: ck0tupct5847b0i19515uurot
     verified: false
-    hashtags: "#brunettegirl, #theworldofportraits, #makeuponpoint, #italiangirl"
-  - username: "levelonek"
-    fullname: >-
-      Wojtek Sarwa - Menelaos
-    bio: >-
-      Wokalista / producent muzyczny 🎬 TikTok: levelon (200.000) 🔴 YouTube: Levelon Music (90.000)
-    location: "Poland"
-    followers: 11644
-    engagement: 910
-    commentsToLikes: 0.050517
-    id: ck9wgl009tvnd0j78vgejerlk
-    verified: false
-    hashtags: "#bluza, #nagranie, #discopolo, #jeansjacket"
+    hashtags: "#brunettegirl, #longhair, #tbt, #topmodels"
   - username: "dropkillx"
     fullname: >-
       𝖉𝖗𝖔𝖕𝖐𝖎𝖑𝖑𝖝
     bio: >-
-      @rafalpacierz • Spiritual awakening • Music • Fashion • Lifestyle • • Collab: dropkillx@gmail.com • ↘ moje outfity do kupienia tutaj ↙
+      • spiritual awakening • • music producer • • FashionNovaMen ambassador • • collab • dropkillx@gmail.com •
     location: "Poland"
-    followers: 73237
-    engagement: 166
-    commentsToLikes: 0.049334
+    followers: 71537
+    engagement: 162
+    commentsToLikes: 0.055387
     id: ck8tbrxrbww3s0j785wjsj0qj
     verified: false
-    hashtags: "#pi, #primark, #primarkpoland, #piek"
-  - username: "sensitivelly"
+    hashtags: "#cybergrzesznik, #goodvibesonly, #sonyxb33, #ubezpieczeniesamochodu"
+  - username: "sandrvczuraj"
     fullname: >-
-      Natalia
+      sandra czuraj
     bio: >-
-      I love music, people, art 2001 ⚡️ 🧜🏻‍♀️W A R S A W yt⤵️
+      ☾𓄀✿𓆈𓁿♪ 04’ 📍my music twitter&tiktok- sandrvczuraj 📩sandraczuraj@mymusic.pl moja nowa piosenka „halucynacje”
     location: "Poland"
-    followers: 4135
-    engagement: 2287
-    commentsToLikes: 0.039036
-    id: ck8ta2s6rq8qy0j780jngdavh
+    followers: 26281
+    engagement: 1189
+    commentsToLikes: 0.015514
+    id: ck8t1sohiwvar0j782d6xdu8b
     verified: false
-    hashtags: "#spring, #sunset, #polskadziewczyna, #smile"
-  - username: "djanedelayna"
+    hashtags: ""
+  - username: "alicjaruchala"
     fullname: >-
-      De Layna
+      Alice Wonderland
     bio: >-
-      Hi, I am a djane which loves electronic music 🔊 ➡️ Facebook.com/djanedelayna 💵💰Patreon.com/delayna 🎵 Soundcloud.com/djdelayna 🔈MixCloud.com/djdelayna
+      International Polish Model 🇵🇱 \ Singer 🎧Sony Music Poland📀 📍Tulum
     location: "Poland"
-    followers: 8405
-    engagement: 1017
-    commentsToLikes: 0.036165
-    id: ck0u691sc1bd20i19jscy1kc1
-    verified: false
-    hashtags: "#polishdjs, #ukg, #summertime, #partymix"
+    followers: 550783
+    engagement: 128
+    commentsToLikes: 0.044343
+    id: ck55p0yne9kri0i11ohukaw2f
+    verified: true
+    hashtags: "#miamilife, #tulum, #mexico, #miami"
 ---

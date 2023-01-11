@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Boston in 2023
+title: Top 10 Yoga Instagram Influencers In Boston In 2023
 description: >-
-  Find top yoga Instagram influencers in Boston in 2023. Most popular hashtags: #boston #fitness #yoga #bostonfitness.
+  Find top yoga Instagram influencers in Boston in 2023. Most popular hashtags: #boston #yoga #bostonyoga #bostonfitness.
 platform: Instagram
-hits: 27
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 27 Instagram influencers like this in Boston, United States for you to contact.
+hits: 17
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 17 Instagram influencers like this in Boston, United States for you to work with.
 profiles:
+  - username: "africarubiop"
+    fullname: >-
+      Africa Rubio / Health Coach
+    bio: >-
+      ▫️Hormone Health Coach @nutritionschool ▫️Gut Health Coach ▫️Co-Founder @namastaywell.co ▫️Co-Founder @bostonwomensmarket ▫️Work with me ⬇️
+    location: "United States"
+    followers: 15507
+    engagement: 358
+    commentsToLikes: 0.029254
+    id: ck14jacm1jby30i194h487oqj
+    verified: false
+    hashtags: "#healthandwellness, #holisticapproach, #healthieryou, #namastaywell"
   - username: "konstantinkakanias"
     fullname: >-
       Konstantin Kakanias
     bio: >-
       
     location: "United States"
-    followers: 8219
-    engagement: 1296
-    commentsToLikes: 0.055318
+    followers: 8733
+    engagement: 1245
+    commentsToLikes: 0.054125
     id: ck0u20d0nyfsb0i196i4zegtf
     verified: false
-    hashtags: "#lovevenice, #basics, #mrstependris, #karnak"
+    hashtags: "#cafedeflore, #medusaart, #bidenharris2020, #joebiden2020"
   - username: "thecoastalyogi"
     fullname: >-
       SARAH WHITE // COASTIE
     bio: >-
-      ▫️ E-RYT 200 | Yoga Sculpt | ACE GFI ▫️ @bspokestudios | instructor ▫️ @thecoastalmethod | founder next IG LIVE class! ▫️ 11/16 12:00pm ET Yoga Sculpt
+      ▫️ E-RYT 200 | Yoga Sculpt | Yin | PSM ▫️ @thecoastalmethod | founder ▫️ @bspokestudios | instructor next IG LIVE class! ▫️ 8/27 7:30am ET Yoga Sculpt
     location: "United States"
-    followers: 8809
-    engagement: 754
-    commentsToLikes: 0.045989
+    followers: 8933
+    engagement: 830
+    commentsToLikes: 0.031089
     id: ck6tzmxkranhb0j71n12e9dq7
     verified: false
-    hashtags: "#tcmchallenge, #yoga, #community, #thecoastalyogi"
-  - username: "littlejewlia"
+    hashtags: "#yogasculpt, #yoga, #thecoastalyogi, #summerrecipe"
+  - username: "amandarunsboston"
     fullname: >-
-      Julia Galloway
+      Amanda Nurse | Runner & Coach
     bio: >-
-      NBA Dancer for the Miami Heat Dream big; smile bigger. ⬇️VOTING INFO⬇️ #blacklivesmatter
+      👩🏻‍💻 Run Coach, Yoga Teacher, Mama of 2 🏃🏻‍♀️ Marathoner x22 for @adidasrunning 🏅 Olympic Trialist x2 (2:40 PR) 👇🏼 Interested in training? Learn more!
     location: "United States"
-    followers: 4256
-    engagement: 857
-    commentsToLikes: 0.093777
-    id: ck5q0ritf7el40i11vet1d8bh
+    followers: 18281
+    engagement: 428
+    commentsToLikes: 0.056437
+    id: ck5hjh5bcgme50i11qohikmjs
     verified: false
-    hashtags: "#basketball, #winning, #nba, #nbadancers"
-  - username: "africarubiop"
-    fullname: >-
-      Africa Rubio / Health Coach
-    bio: >-
-      Health Coach @nutritionschool Co-Founder @bostonwomensmarket - @namastaywell.co YSTT~RYTT 200~GFI~YIN NAMASTAY HOME WORKOUTS™ SIGN UP HERE⬇️
-    location: "United States"
-    followers: 11224
-    engagement: 393
-    commentsToLikes: 0.040329
-    id: ck14jacm1jby30i194h487oqj
-    verified: false
-    hashtags: "#movedaily, #healthandwellness, #namastayhomeworkouts, #eatwell"
-  - username: "daianesodre"
-    fullname: >-
-      Daiane Sodré 🇧🇷
-    bio: >-
-      Ambassador for @largerthanlifeusa Ambassador for Dara Institute @instituto.dara Spokesperson for @lovetogetherbrasiloficial NYC based📍
-    location: "United States"
-    followers: 453697
-    engagement: 183
-    commentsToLikes: 0.082090
-    id: ck1371hvt9bhi0i19dvnz2cie
-    verified: true
-    hashtags: "#aloyoga, #nyc, #happiness, #daianesodre"
-  - username: "rodneylavoiejr"
-    fullname: >-
-      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
-    bio: >-
-      🗺 Philanthropist |🎙Speaker | Artist 🎶 💚 Mental Health | Coach 👥 | Fitness 💪🏼💪🏾 🌱Plant-Based | Activist | Truth Seeker👁 🏫 501(c)@thewarriorsofpurpose
-    location: "United States"
-    followers: 411593
-    engagement: 634
-    commentsToLikes: 0.039362
-    id: ck6u2a8u3qmzb0j71yukdua4n
-    verified: true
-    hashtags: "#rodneylavoiejr, #fitnessmotivation, #selfcare, #hiphop"
+    hashtags: "#birthstory, #helloworld, #loveyou, #babygirl"
   - username: "alyraymer"
     fullname: >-
-      ALY RAYMER
+      ALY RAYMER (Fitness & Health)
     bio: >-
-      R/DE @bspokestudios YOGA @lululemon Newbury St. LEGACY AMBASSADOR @lululemon FOUNDER @whatlieswithin_
+      Indoor cycling & yoga instructor for 15+ years Currently📍@bspokestudios Founder @whatlieswithin_ wellness retreats @lululemon ambassador ❤️ (‘17-‘19)
     location: "United States"
-    followers: 30395
-    engagement: 175
-    commentsToLikes: 0.068129
+    followers: 29446
+    engagement: 146
+    commentsToLikes: 0.085987
     id: ck0w4t74j0an00i19x53ktavn
     verified: false
-    hashtags: "#iglive, #selfcare, #fitness, #nycfitness"
+    hashtags: "#indoorcycling, #bostonfitness, #bostonyoga, #igersboston"
   - username: "yogagolfdad"
     fullname: >-
       Ronan O'Connor
     bio: >-
-      🦸🏻‍♂️ Yoga Teacher 🏌🏼‍♂️ Golf Legend 🧔🏻 Dad to Natalia ☘️ Dublinese 🕹 Boston, MA
+      🦸🏻‍♂️ Yoga Teacher 🏌🏼‍♂️ Golf Legend 🧔🏻 Dad to Natalia ☘️ Dublinese 🕹 Boston, MA 🎙 My Interview ⛳️ w/ @bogeyboyspod👇
     location: "United States"
-    followers: 19644
-    engagement: 530
-    commentsToLikes: 0.027842
+    followers: 19357
+    engagement: 413
+    commentsToLikes: 0.025139
     id: ck14jabt8jbtv0i19ar16c9aw
     verified: false
-    hashtags: "#ygd, #yogagolfdad, #yogisofinstagram, #swipeleft"
-  - username: "zaynagold"
-    fullname: >-
-      Pilates Teacher Training
-    bio: >-
-      💖Master Instructor @balanced_body Founder @bostonbodypilates @pilatestogo.live #pilates #spondylolisthesis #crohns #spinalfusion Links Below 👇👇
-    location: "United States"
-    followers: 39447
-    engagement: 76
-    commentsToLikes: 0.195718
-    id: ck5q436manjst0i1145k5e4mg
-    verified: false
-    hashtags: "#pilatescommunity, #spondylolisthesis, #strongandbeautiful, #crohnswarrior"
+    hashtags: "#brogis, #winningyoga, #yogagolfdad, #foryoupage"
   - username: "bspokestudios"
     fullname: >-
       B/SPOKE Studios
     bio: >-
-      Boston | CAPE HOUSE | Wellesley | @dripcafebos Created To Improve Life Streaming ON DEMAND and LIVE Classes
+      Boston, Wellesley, Cape House, ON DEMAND + LiveStream R/DE | STRENGTH | YOGA | PERSONAL TRAINING Created To Improve Life
     location: "United States"
-    followers: 28046
-    engagement: 90
-    commentsToLikes: 0.032475
+    followers: 28113
+    engagement: 100
+    commentsToLikes: 0.045848
     id: ck55lj7wt1p6v0i11fjwc7avl
     verified: false
-    hashtags: "#dayinthelife, #cycling, #mindfulness, #bspokelife"
+    hashtags: "#fitnessinstructor, #bspokewarehouse, #outdoorfitness, #bspokestudios"
+  - username: "haleypwelsh"
+    fullname: >-
+      ☆ H A L E Y☆
+    bio: >-
+      📍Pittsburgh, PA 🧘🏻‍♀️ Yoga student & teacher in training @onepeloton obsessed 🚲
+    location: "United States"
+    followers: 16665
+    engagement: 470
+    commentsToLikes: 0.098776
+    id: ck6tirhp01a7n0j71va0e5xal
+    verified: false
+    hashtags: "#ad, #lulusambassador, #bostonterriersofinstagram, #lovelulus"
+  - username: "rodneylavoiejr"
+    fullname: >-
+      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
+    bio: >-
+      🎙 Motivational Speaker 🧠 Mental Health Awareness 🫂 Life Coach 📚501(c)3:@TheWarriorsofPurpose 🎧 Podcast:@SilenceKillsMovement 📲 Back-up:@SurvivorRodney
+    location: "United States"
+    followers: 393099
+    engagement: 659
+    commentsToLikes: 0.040046
+    id: ck6u2a8u3qmzb0j71yukdua4n
+    verified: true
+    hashtags: "#motivation, #miami, #depression, #selflove"
+  - username: "nitinrawat_olympian"
+    fullname: >-
+      Nitendra Singh Rawat OLY 🇮🇳
+    bio: >-
+      RIO 2016 Olympian | Marathoner | No Limits to Achievements |
+    location: "United States"
+    followers: 11022
+    engagement: 844
+    commentsToLikes: 0.012940
+    id: ckap08ii1p7no0i78nun2z686
+    verified: false
+    hashtags: "#olympian, #running, #pahadirunner, #highaltitude"
 ---

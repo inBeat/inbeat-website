@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In United States in 2023
+title: Top 10 Pole Dancers TikTok Influencers In United States In 2023
 description: >-
-  Find top pole dancers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #poledancing #poledancer #polefitness.
+  Find top pole dancers TikTok influencers in United States in 2023. Most popular hashtags: #poledancing #fyp #poledancer #polefitness.
 platform: TikTok
-hits: 67
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 67 TikTok influencers like this in United States for you to collaborate.
+hits: 94
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 94 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "clairesclosetcosplay"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       💻Gamer/Weeb/Cosplayer👗 ❤Nonbianary Texan💙 ✨Duets Encouraged🌹 💃Pole Dancer🚥
     location: "United States"
-    followers: 64400
-    engagement: 1971
-    commentsToLikes: 0.019043
+    followers: 64600
+    engagement: 1881
+    commentsToLikes: 0.018007
     id: ck83k39238yrv0j78d3cu0u8d
     verified: false
-    hashtags: "#adora, #yennefer, #witcher, #funny"
+    hashtags: "#adora, #anime, #sheracosplay, #witcher"
   - username: "genieandjade"
     fullname: >-
       Kristen Marina
     bio: >-
-      💚You’re a badass. Put it on display. 💚 I’m a pole dancer and str!pper ally 🥰
+      💚You’re a badass. Put it on display. 💚 pole dancer and skr!pper ally 🥰
     location: "United States"
-    followers: 52400
-    engagement: 1683
-    commentsToLikes: 0.018601
+    followers: 53100
+    engagement: 2018
+    commentsToLikes: 0.063349
     id: ck83k2wgr8vpv0j78ffzbh302
     verified: false
-    hashtags: "#polelove, #polelife, #poledancer, #poledancing"
+    hashtags: "#poledancer, #beginnerpole, #fyp, #poleathome"
+  - username: "msaiko"
+    fullname: >-
+      msaiko
+    bio: >-
+      Miss A the Pole Dancer 💕 🎇Lets get to 10k🎆 $M1SS4 18+ Only ↘ Click Me
+    location: "United States"
+    followers: 7447
+    engagement: 1366
+    commentsToLikes: 0.020569
+    id: ck8z6k4l7me950j78lld3lmo1
+    verified: false
+    hashtags: "#hmongtiktok, #polechallenge, #foryoupage, #spinningpole"
+  - username: "madisonpoledance"
+    fullname: >-
+      Madison Pole Dance
+    bio: >-
+      Pole Dancer💃🏻✨ Fire Eater🔥🔥
+    location: "United States"
+    followers: 83500
+    engagement: 1361
+    commentsToLikes: 0.009172
+    id: ck83k31948wuo0j78ihaum5nj
+    verified: false
+    hashtags: "#spinpole, #pole, #polefitnessgirl, #fire"
   - username: "staycrayray"
     fullname: >-
       Rachel LaVoie
     bio: >-
       Engineer & pole dancer Coach for Women in STEM 🔬⚙️ IG staycrayray | Website👇🏻
     location: "United States"
-    followers: 73100
-    engagement: 1210
-    commentsToLikes: 0.015446
+    followers: 71600
+    engagement: 1081
+    commentsToLikes: 0.014849
     id: ckck3hyxanftm0j23vnef3uys
     verified: false
-    hashtags: "#careertiktok, #duet, #engineering, #womeninengineering"
-  - username: "msaiko"
-    fullname: >-
-      msaiko
-    bio: >-
-      Miss A the Pole Dancer 💕 IG: @__msaiko 18+ Only ↘ Click Me ↙
-    location: "United States"
-    followers: 6859
-    engagement: 1275
-    commentsToLikes: 0.014440
-    id: ck8z6k4l7me950j78lld3lmo1
-    verified: false
-    hashtags: "#fyp, #polefitness, #react, #spinningpole"
+    hashtags: "#duet, #womeninengineering, #poledancing, #careertiktok"
   - username: "emilyelisepoledance"
     fullname: >-
       EMILY ELISE
     bio: >-
       More on the Gram 👆🏻 >> Professional Pole Dancer << D A N C E W E A R👇🏻
     location: "United States"
-    followers: 15100
-    engagement: 952
-    commentsToLikes: 0.052770
+    followers: 15500
+    engagement: 941
+    commentsToLikes: 0.041960
     id: ckamgxhwpdse70i78qbw3sdo3
     verified: false
-    hashtags: "#heelsdance, #mpls, #minnesota, #polefitness"
-  - username: "madisonpoledance"
-    fullname: >-
-      Madison Pole Dance
-    bio: >-
-      Pole Dancer💃🏻✨ Instagram: @prettygingiepole 🥰❤️
-    location: "United States"
-    followers: 83800
-    engagement: 1478
-    commentsToLikes: 0.006243
-    id: ck83k31948wuo0j78ihaum5nj
-    verified: false
-    hashtags: "#foryoupage, #poledancer, #poledancing, #cat"
-  - username: "polemermaid"
-    fullname: >-
-      🔞 Pole Mermaid
-    bio: >-
-      Pole dancer ✨ 18+ account🔞 Women empowerment 🔥 Snapchat in link 📸 🖤🖤🖤🖤
-    location: "United States"
-    followers: 85500
-    engagement: 1076
-    commentsToLikes: 0.014377
-    id: ck8neqjkcogfn0j7865zk3t8o
-    verified: false
-    hashtags: "#floorwork, #meleaving, #fyp, #halloweenishere"
-  - username: "ariannamaay"
-    fullname: >-
-      AriannaMaay
-    bio: >-
-      Hi I’m ari👽❤️🌴 22 yrs Gemini Florida Baby, I like to mud Pole dancer
-    location: "United States"
-    followers: 17500
-    engagement: 898
-    commentsToLikes: 0.012243
-    id: ckd6gwgio99570j233dmv00sm
-    verified: false
-    hashtags: "#red, #duet, #justaslongasyoutwerkforme, #highexpectations"
+    hashtags: "#poledance, #bossbabe, #exoticdance, #polecombo"
   - username: "novacaine_official"
     fullname: >-
       Nova
     bio: >-
       5”5’ by day; 6’1” by night. Aerialist/Pole Dancer. Ig: Novacaine_official
     location: "United States"
-    followers: 5560
-    engagement: 594
-    commentsToLikes: 0.015787
+    followers: 10500
+    engagement: 674
+    commentsToLikes: 0.024368
     id: ckbqq6mtgb00d0j23ih964jw6
     verified: false
-    hashtags: "#poledancing, #aerialist, #polefitness, #stopstrippershaming"
-  - username: "frenchfrylady"
+    hashtags: "#polefitness, #striptok, #fyp, #poledancing"
+  - username: "jen.arrow"
     fullname: >-
-      Alyssa
+      Jen Arrow ♠️
     bio: >-
-      🖤⚡️CT•MUA•HAIRSTYLIST•POLEDANCER⚡️🖤
+      TX pole dancer 🏳️‍🌈 Follow me on insta: @jen.arrow
     location: "United States"
-    followers: 5545
-    engagement: 824
-    commentsToLikes: 0.009017
-    id: ck83k3flz90iw0j78hqgvg91m
+    followers: 18500
+    engagement: 1351
+    commentsToLikes: 0.014988
+    id: ckbqq6okhb06t0j23pa0v55jq
     verified: false
-    hashtags: "#fyp, #frostedfeelings, #pole, #foryoupage"
+    hashtags: "#lesbiancouple, #gaycouple, #polefitness, #strength"
+  - username: "ariannamaay"
+    fullname: >-
+      AriannaMaay
+    bio: >-
+      Hi I’m ari👽❤️🌴 22 yrs Gemini Florida Baby, I like to mud Pole dancer
+    location: "United States"
+    followers: 18300
+    engagement: 703
+    commentsToLikes: 0.012671
+    id: ckd6gwgio99570j233dmv00sm
+    verified: false
+    hashtags: "#duet, #notfyp, #red, #fyp"
+  - username: "madelineshakespeare"
+    fullname: >-
+      👑Jessie Leigh👑
+    bio: >-
+      🎨Artist 🛹SK8RDIE 💋Pole Dancer ☆TIPS ARE ACCEPTED:)☆ CASHAPP: MADELINESHAKES
+    location: "United States"
+    followers: 16400
+    engagement: 428
+    commentsToLikes: 0.026500
+    id: ck9gpq96f65qd0j78ts9o8vj6
+    verified: false
+    hashtags: "#walkingonadream, #poledancing, #fyp, #floridalife"
 ---

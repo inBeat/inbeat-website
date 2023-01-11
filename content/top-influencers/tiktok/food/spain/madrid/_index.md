@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Madrid in 2023
+title: Top 10 Food TikTok Influencers In Madrid In 2023
 description: >-
-  Find top food TikTok influencers in Madrid in 2023. Most popular hashtags: #parati #food #foryou #fyp.
+  Find top food TikTok influencers in Madrid in 2023. Most popular hashtags: #fyp #parati #foryou #food.
 platform: TikTok
-hits: 10
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 10 TikTok influencers like this in Madrid, Spain for you to contact.
+hits: 6
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 6 TikTok influencers like this in Madrid, Spain for you to pitch.
 profiles:
-  - username: "laurapastor89"
+  - username: "robertolucich"
     fullname: >-
-      Laura Pastor
+      Roberto Antonio Pere
     bio: >-
-      Actriz | Cantante | Actriz de doblaje 🦄Insta @laurapastor89 YouTube Channel👇🏻
+      Hey ves esto? Siguenme en Ig y envíame un 🖤
     location: "Spain"
-    followers: 52100
-    engagement: 1663
-    commentsToLikes: 0.023026
-    id: ckc8wqzpsk9l20j23zy16tpug
+    followers: 28400
+    engagement: 634
+    commentsToLikes: 0.016501
+    id: ckb9ix1219p7h0j232h2w72a9
     verified: false
-    hashtags: "#miraculousladybug, #doblaje, #voz, #ladybug"
-  - username: "pinkbetta"
-    fullname: >-
-      PINKBETTA
-    bio: >-
-      CEO del “¡Oh! ¿Qué fue?” 🧀YouTube:PinkBetta🧀 🇮🇨Canarias-Madrid🇪🇸
-    location: "Spain"
-    followers: 598800
-    engagement: 2109
-    commentsToLikes: 0.006855
-    id: ck9000vmo9pn80j787r55pyb8
-    verified: false
-    hashtags: "#humor, #animal, #animals, #reaccion"
-  - username: "lolita.perrita"
-    fullname: >-
-      laperritalola
-    bio: >-
-      Mándame un emoji por Instagram y te sigo 🤙😉 Madrid, ESP 🇪🇸
-    location: "Spain"
-    followers: 42400
-    engagement: 1282
-    commentsToLikes: 0.032467
-    id: ckacrfbqu55yk0i78l2dx61ok
-    verified: false
-    hashtags: "#foryou, #parati, #viral, #humor"
-  - username: "videopatas"
-    fullname: >-
-      Videópatas 
-    bio: >-
-      😎La comedia no tiene edad 📍Madrid 📩Contacto comercial: videopatas@gmail.com
-    location: "Spain"
-    followers: 248900
-    engagement: 2447
-    commentsToLikes: 0.004619
-    id: ck81q5wx2g7pd0j784yd9epob
-    verified: true
-    hashtags: "#espa, #videopatas, #humorespa, #chistes"
-  - username: "thatrestaurant"
-    fullname: >-
-      That Restaurant
-    bio: >-
-      🍩You can start your diet tomorrow. 🔥Follow us on IG @ThatRestaurant 📍Madrid
-    location: "Spain"
-    followers: 165300
-    engagement: 1430
-    commentsToLikes: 0.005990
-    id: ck7zog3objqbr0j78p4houblv
-    verified: false
-    hashtags: "#foryoupage, #tiktokfood, #thatrestaurant, #foodporn"
+    hashtags: "#baile, #homo, #gay, #foryou"
   - username: "gladysseara"
     fullname: >-
       Gladys Seara
     bio: >-
       Journalist&youtuber🎬 Food, fun & Love. Traveling around the 🌍 Lipedema fighter
     location: "Spain"
-    followers: 39200
-    engagement: 519
-    commentsToLikes: 0.020299
+    followers: 57300
+    engagement: 818
+    commentsToLikes: 0.021178
     id: ckb9r74lbni1d0j234q6cbxc1
     verified: false
-    hashtags: "#baile, #dance, #fyp, #drburgosdelaobra"
+    hashtags: "#lipedema, #fyp, #japan, #parati"
   - username: "crissancupcakes"
     fullname: >-
       Crissan Cupcakes
     bio: >-
       ¡La mejor repostería tradicional! 📍Madrid 🇪🇸
     location: "Spain"
-    followers: 3346
-    engagement: 369
-    commentsToLikes: 0.022880
+    followers: 3598
+    engagement: 313
+    commentsToLikes: 0.019140
     id: ckb0piuwffdxo0j232jjrrb23
     verified: false
-    hashtags: "#cakevideo, #iheartbaking, #chococake, #cake"
-  - username: "mikhailcossi"
+    hashtags: "#bakersoftiktok, #christmas, #foryoupage, #cake"
+  - username: "laurapastor89"
     fullname: >-
-      MIKHAIL COSSI
+      Laura Pastor
     bio: >-
-      🔥 INSTAGRAM +18K ⬆️ 📸 Artist 🎥 Actor ✈️ Traveller 🇪🇸 Spain ✉️ Direct IG
+      Actriz | Cantante | Actriz de doblaje 🦄Insta @laurapastor89 YouTube Channel👇🏻
     location: "Spain"
-    followers: 86700
-    engagement: 403
-    commentsToLikes: 0.036687
-    id: ckdsukdmzptjz0j23kfgfh6cx
+    followers: 68800
+    engagement: 1450
+    commentsToLikes: 0.019435
+    id: ckc8wqzpsk9l20j23zy16tpug
     verified: false
-    hashtags: "#acting, #chistes, #caracas, #florida"
+    hashtags: "#restaurante, #ladybug, #actrizdedoblaje, #parati"
   - username: "pierinaam"
     fullname: >-
       pierina isabella
     bio: >-
       la flaca | 19 venezolana
     location: "Spain"
-    followers: 2631
-    engagement: 635
-    commentsToLikes: 0.029860
+    followers: 2851
+    engagement: 713
+    commentsToLikes: 0.032814
     id: ckc82budx33ty0j23iv8u1zzg
     verified: false
-    hashtags: "#greenscreen, #parati, #venezuela, #fyp"
-  - username: "palomamobaile"
+    hashtags: "#cooking, #parati, #madrid, #fyp"
+  - username: "aprildgr8"
     fullname: >-
-      user7550774254592
+      aprildgr8
     bio: >-
-      Decoradora de Interiores. Instagram @palomamobaile ¡Gracias a todos! 😘
+      I respond on instagram DMs : @aprildgreat 📧: apriljereza@cmail.carleton.ca
     location: "Spain"
-    followers: 24900
-    engagement: 436
-    commentsToLikes: 0.038995
-    id: ckb18jqkrwerz0j23m8qg33fb
+    followers: 61500
+    engagement: 1200
+    commentsToLikes: 0.021893
+    id: cka6fv3l5ha330i78780zttr2
     verified: false
-    hashtags: "#decoracion, #alicante, #palomaamo, #paraisoscercanos"
+    hashtags: "#parati, #canada, #greenscreen, #spain"
+  - username: "peerjii50"
+    fullname: >-
+      peerjii
+    bio: >-
+      Artist/Actor/FoodLover Taxi Vuaey Peer jii ( spain walay )
+    location: "Spain"
+    followers: 15700
+    engagement: 345
+    commentsToLikes: 0.119963
+    id: ckbwi6rco32og0j230i7fpyrr
+    verified: false
+    hashtags: "#fun, #barcelona, #foryou, #spain"
+  - username: "chef_daniels"
+    fullname: >-
+      Chef Daniels
+    bio: >-
+      Worldwide Food Finder Food Obsession 🥐🥗🍜🍨🥠 mail: info.chefdaniels@gmail.com
+    location: "Spain"
+    followers: 95900
+    engagement: 851
+    commentsToLikes: 0.009493
+    id: cka6blb540pl60i788sl22xty
+    verified: false
+    hashtags: "#croissant, #tiktokchef, #food, #delicious"
+  - username: "gladysseara"
+    fullname: >-
+      Gladys Seara
+    bio: >-
+      Journalist&youtuber🎬 Food, fun & Love. Traveling around the 🌍 Lipedema fighter
+    location: "Spain"
+    followers: 57300
+    engagement: 818
+    commentsToLikes: 0.021178
+    id: ckb9r74lbni1d0j234q6cbxc1
+    verified: false
+    hashtags: "#lipedema, #fyp, #japan, #parati"
+  - username: "aigostar_"
+    fullname: >-
+      Best food share
+    bio: >-
+      Do you love food ?🤗 If so turn on my NOTIFICATIONS! 📣Best food ACC🍲
+    location: "Spain"
+    followers: 71100
+    engagement: 467
+    commentsToLikes: 0.014088
+    id: ckc30vbn4rh2v0j232d1rtz4e
+    verified: false
+    hashtags: "#lovefood, #recipe, #cook, #delicious"
 ---

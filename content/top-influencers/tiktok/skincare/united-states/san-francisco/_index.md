@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In San Francisco in 2023
+title: Top 10 Skincare TikTok Influencers In San Francisco In 2023
 description: >-
-  Find top skincare TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #california #sanfrancisco #bayarea.
+  Find top skincare TikTok influencers in San Francisco in 2023. Most popular hashtags: #skincare #makeup #greenscreen #duet.
 platform: TikTok
-hits: 13
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database holds 13 TikTok influencers like this in San Francisco, United States for you to pitch.
+hits: 4
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 4 TikTok influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "jyo_shankar"
-    fullname: >-
-      Jyotsna Shankar
-    bio: >-
-      Travel & Lifestyle Blogger San Francisco Bay Area based Instagram: @jyo_shankar
-    location: "United States"
-    followers: 14500
-    engagement: 957
-    commentsToLikes: 0.048653
-    id: ck8saa4l117bv0j78ade4z9vk
-    verified: false
-    hashtags: "#travelblog, #hellofall, #travellife, #tiktoktravel"
-  - username: "viralcyril"
-    fullname: >-
-      viralcyril
-    bio: >-
-      Follow my IG
-    location: "United States"
-    followers: 3253
-    engagement: 1164
-    commentsToLikes: 0.031893
-    id: ckcue2f1we5eq0j23g4k7buui
-    verified: false
-    hashtags: "#jdm, #240sx, #swag, #skateboarding"
-  - username: "whimsysoul"
-    fullname: >-
-      Whimsy Soul
-    bio: >-
-      just a Midwest gal who ran away to San Francisco
-    location: "United States"
-    followers: 233400
-    engagement: 1367
-    commentsToLikes: 0.023015
-    id: ck84ma2klmmrn0j78282jzc4h
-    verified: false
-    hashtags: "#travel, #bigbearlake, #wine, #bayarea"
-  - username: "beach.vibes.grwm"
-    fullname: >-
-      hi
-    bio: >-
-      tysm for 22k! tpwk she/her
-    location: "United States"
-    followers: 22200
-    engagement: 2688
-    commentsToLikes: 0.088966
-    id: ckcotog7y8gcj0j23u5nw957v
-    verified: false
-    hashtags: "#avocadotoast, #urbanoutfitters, #vlog, #tppaudition2big"
-  - username: "andytarutran"
+  - username: "daytran12"
     fullname: >-
       Andy Taru
     bio: >-
-      I WILL TRY TO RESPOND TO COMMENTS UNLESS U UGLY JK BUT NOT JK JK HEHE NOT JK, JK
+      check out my music :)
     location: "United States"
-    followers: 2529
-    engagement: 668
-    commentsToLikes: 0.050416
+    followers: 2946
+    engagement: 1005
+    commentsToLikes: 0.106685
     id: ckc83pxrz45zm0j23mylhqf1h
     verified: false
-    hashtags: "#civic, #california, #supra, #houston"
-  - username: "beautybychavonne"
+    hashtags: "#mopar, #socal, #jdm, #bayarea"
+  - username: "ariellecalimquim"
     fullname: >-
-      beautybychavonne
+      Arielle
     bio: >-
-      Skin vids, adventures, & other random stuff✌🏼 📍SEATTLE, WA
+      Beauty•Shopaholic•Skincare Follow my new IG🤍 💌ariellecalimquim@tiktal.co
     location: "United States"
-    followers: 5273
-    engagement: 299
-    commentsToLikes: 0.043478
-    id: ck8hmxf8go4uo0j78mlgwz3be
+    followers: 471700
+    engagement: 997
+    commentsToLikes: 0.004606
+    id: ck9v17kvyfsuf0j78dt4u81qd
     verified: false
-    hashtags: "#inthehouseparty, #quarantinelife, #hydrojellymask, #esthemax"
-  - username: "sydneysua"
+    hashtags: "#ad, #dollartree, #targetfinds, #affordablemakeup"
+  - username: "natforprez"
     fullname: >-
-      Sydney Sua
+      N A T | 辣椒妹
     bio: >-
-      Unboxings and other stuff 📧: apackageaday@gmail.com
+      She/her 21 🇭🇰 Natforprezmgmt@gmail.com 📍LA -> Bay Personality Loading....
     location: "United States"
-    followers: 25700
-    engagement: 906
-    commentsToLikes: 0.012795
-    id: ck9a6pasv43oi0j788np7d097
+    followers: 286200
+    engagement: 1574
+    commentsToLikes: 0.016500
+    id: ck9k4yol5un3k0j78mpopq7n8
     verified: false
-    hashtags: "#unboxing, #fyp, #dogsoftiktok, #skincare"
-  - username: "veronicasavas"
+    hashtags: "#yellowfever, #asian, #greenscreen, #republicanbf"
+  - username: "21_hm"
     fullname: >-
-      veronica
+      21HM
     bio: >-
-      sf | 🏳️‍🌈 i believe in evan peters supremacy shadow banned‼️💯😈
+      Jewelry Designer Shop jewelry pieces www.21hmboutique.com Follow insta:@21_HM
     location: "United States"
-    followers: 3965
-    engagement: 2767
-    commentsToLikes: 0.068761
-    id: ckdi8l7m1b63m0j23sy140wh5
+    followers: 3668
+    engagement: 551
+    commentsToLikes: 0.010590
+    id: ckbezcjlpkhvf0j23w3t8h9ye
     verified: false
-    hashtags: "#hogwarts, #harrypotter, #xyzbca, #fyp"
-  - username: "c8liu"
+    hashtags: "#fashionweek, #duet, #foryou, #business"
+  - username: "allthingscloseup"
     fullname: >-
-      Cate
+      <33
     bio: >-
-      you look good today 💜
+      closeups + skincare biz: allthingscloseup@gmail.com backup @.allthingscloseup :)
     location: "United States"
-    followers: 13800
-    engagement: 1221
-    commentsToLikes: 0.151245
-    id: cka0xdk4w6nq80i789gw1atb9
+    followers: 2802
+    engagement: 2970
+    commentsToLikes: 0.151081
+    id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#foryoupage, #relationship, #joke, #pov"
-  - username: "iamaaryn"
+    hashtags: "#grwm, #upclose, #closeups, #aesthetic"
+  - username: "jc.dombrowski"
     fullname: >-
-      Iamaaryn97
+      J.C. Dombrowski
     bio: >-
-      22 Bay Area 📍 RNB Singer🎙 🇲🇽
+      Cornell Marine Bio Science + Skincare 🇵🇭🏳️‍🌈 Follow my insta ❤️
     location: "United States"
-    followers: 16900
-    engagement: 1455
-    commentsToLikes: 0.026265
-    id: ck9n4jq0h4otv0j78kw7afqx1
+    followers: 2800000
+    engagement: 2151
+    commentsToLikes: 0.010895
+    id: ck80obynrgodq0j786z4nwcq0
+    verified: true
+    hashtags: "#fyp, #scary, #ocean, #edutok"
+  - username: "avecnou"
+    fullname: >-
+      Minou
+    bio: >-
+      Fashion • Skincare • Lifestyle Follow me on Instagram for more content
+    location: "United States"
+    followers: 2587
+    engagement: 1396
+    commentsToLikes: 0.151162
+    id: ckbfflxyvae6l0j23v9fyz53x
     verified: false
-    hashtags: "#mexicano, #fyp, #latino, #hispanic"
+    hashtags: "#skincareroutine, #ootd, #makeuptutorial, #makeuptips"
+  - username: "seechelleflow"
+    fullname: >-
+      Lynn
+    bio: >-
+      #Auntie #BusinessOwner #Conversationalist #SkincareExpert #Herbalist #Entrepre
+    location: "United States"
+    followers: 21500
+    engagement: 1528
+    commentsToLikes: 0.083258
+    id: ckbktjkn4orfp0j23nly8j53s
+    verified: false
+    hashtags: "#menandwomen, #thingswomennevertellmen, #anxiety, #relationships"
+  - username: "twinmomplusone26"
+    fullname: >-
+      Catherine Wade
+    bio: >-
+      26, Wife, Mom of 3, Seint Beauty, Pomifera skincare
+    location: "United States"
+    followers: 18800
+    engagement: 1013
+    commentsToLikes: 0.050151
+    id: ckcdwfcsbfn0n0j2360724tmg
+    verified: false
+    hashtags: "#beforeandafter, #seint, #hubby, #hotmessmom"
+  - username: "taylercmone"
+    fullname: >-
+      I’m BlackQueenC
+    bio: >-
+      Fashion • Hair • Skincare DMV💕
+    location: "United States"
+    followers: 60200
+    engagement: 1581
+    commentsToLikes: 0.076720
+    id: ck92xai6sxwye0j787t00wjw0
+    verified: false
+    hashtags: "#headbandwig, #naturalhair, #naturalhairstyles, #foryou"
 ---

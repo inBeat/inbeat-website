@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In New York in 2023
+title: Top 10 Hypebeast Instagram Influencers In New York In 2023
 description: >-
-  Find top hypebeast Instagram influencers in New York in 2023. Most popular hashtags: #newyork #hypebeast #nyc #moodygrams.
+  Find top hypebeast Instagram influencers in New York in 2023. Most popular hashtags: #hypebeast #newyork #newyorkcity #ig.
 platform: Instagram
-hits: 100
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 100 Instagram influencers like this in New York, United States for you to connect with.
+hits: 75
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 75 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "88.visuals"
+  - username: "arley_us"
     fullname: >-
-      ❌Kristian, Content Creating ❌
+      αяℓєу ιѕ му ηαмє
     bio: >-
-      ⚜️ F̶o̶u̶n̶d̶e̶r̶ @enter.imagination ⚠️ Folk account @88.optics Finland 🇫🇮
+      ⋙ ƒαмιℓу - вαяçα -тяανєℓ ⋙ 📍 🇲🇽🇲🇽  ƒσℓℓσω αη∂ тαg υѕ тσ вє ƒєαтυяє∂📌 ꜰᴜᴛᴜʀᴇ ɪɴᴅᴜꜱᴛʀɪᴀʟ ᴇɴɢɪɴᴇᴇʀ 💡 #ꜰᴄʙᴀʀᴄᴇʟᴏɴᴀ ❤💙 ɴᴇxᴛ ᴘᴏꜱᴛ 📸: #ꜰᴇʙʀᴜᴀʀʏ 03
     location: "United States"
-    followers: 49053
-    engagement: 190
-    commentsToLikes: 0.047295
-    id: ck5zn6aobnv2c0i14v40u2npi
+    followers: 8071
+    engagement: 302
+    commentsToLikes: 0.047041
+    id: ckaoswwg8te030i78tk6ogd25
     verified: false
-    hashtags: "#shotzdelight, #hypebeast, #newyork, #photoshopped"
-  - username: "make_money_online_eg"
+    hashtags: "#newyorkstate, #newyorkcity, #newyorkmets, #vacation"
+  - username: "visualged"
     fullname: >-
-      Money l Business l Marketing
+      GED 🎥
     bio: >-
-      Bank BIG In 24 Hours Or Less Even If You've Never Made A Dime Online - PROVEN To Work For OVER 2 Years. Visit my website below. 👇👇👇
+      I make cool visuals 📸 Visuals: @weare_oi 👇🏻65k Tiktok - Belfast, NI
     location: "United States"
-    followers: 15099
-    engagement: 1079
-    commentsToLikes: 0.018389
-    id: ckaosazezqwzz0i784rc221bt
+    followers: 28850
+    engagement: 347
+    commentsToLikes: 0.023342
+    id: ck9whdjikxd190j78zqfyptur
     verified: false
-    hashtags: "#millionairelife, #luxurylifestyles, #luxury, #luxlifestyle"
+    hashtags: "#way2ill, #ourmoodydays, #sony, #visualambassadors"
   - username: "chasestash"
     fullname: >-
       CHA$E
     bio: >-
-      @eroshunterny @sneakerpawnonline
+      
     location: "United States"
-    followers: 24470
-    engagement: 436
-    commentsToLikes: 0.024897
+    followers: 27494
+    engagement: 464
+    commentsToLikes: 0.022916
     id: ck5zxy1z38vgr0i14qa5ohtb2
     verified: true
-    hashtags: "#newyork, #nike, #supreme, #fearofgod"
-  - username: "windycityboi209"
-    fullname: >-
-      Barber Allan✂💈💺
-    bio: >-
-      @barbernova_ Ambassadors sponsored by @hairillusionllc Haircuts $40 and up Founder of @LosBarberosclothing CASSANDRA ORDAZ💍
-    location: "United States"
-    followers: 37127
-    engagement: 243
-    commentsToLikes: 0.018128
-    id: ck5c6gtkx5eq70i11alvpvm2z
-    verified: false
-    hashtags: "#barbershopconnect, #barbersleague, #shave, #barberlife"
+    hashtags: "#balenciagatriples, #outfitgrid, #offwhite, #dope"
   - username: "byflore"
     fullname: >-
       Christopher Florentino "Flore"
     bio: >-
-      New York Artist/Designer featured in Hypebeast & WWD & Dwell. Abstract expressionist & Urban Cubist. For More Info PRESS LINK ⬇️
+      New York Artist/Designer featured in @hypebeast & @wwd & @dwellmagazine @nakamurakeithharingcollection 🇺🇸🇮🇹 #ethereum
     location: "United States"
-    followers: 36589
-    engagement: 93
-    commentsToLikes: 0.019507
+    followers: 40684
+    engagement: 86
+    commentsToLikes: 0.023116
     id: ck5c8gqq89g4q0i11uxpe40a5
     verified: false
-    hashtags: "#nyc, #hypebeast, #wolf, #artist"
-  - username: "travacs"
+    hashtags: "#wolf, #hypebeastart, #modern, #hypebeast"
+  - username: "sleepingplanes"
     fullname: >-
-      Travel & Vacation
+      Jeremy Perez-Cruz
     bio: >-
-      Inspiring people to travel and explore our beautiful earth 🌏 📍 Tag us and use #travacs to be featured Contact/Collab: travacs1@gmail.com
+      Street photography / Creative Direction Sony A7III Brooklyn, New York City. #streetweekly
     location: "United States"
-    followers: 128910
-    engagement: 161
-    commentsToLikes: 0.185563
-    id: ck15r9acr6sfm0i19z716sslt
+    followers: 38552
+    engagement: 454
+    commentsToLikes: 0.020915
+    id: ck0w4r144zz2m0i19jhfeepg8
     verified: false
-    hashtags: "#beach, #travelphotography, #travel, #travacs"
+    hashtags: "#street, #zonestreet, #streetleaks, #atlantecollective"
+  - username: "amaarae"
+    fullname: >-
+      at0mic angel
+    bio: >-
+      Melo Drama Mama. TAYDK Album Out Now.
+    location: "United States"
+    followers: 60079
+    engagement: 1071
+    commentsToLikes: 0.022933
+    id: ck15sf724cpk20i197lpove15
+    verified: true
+    hashtags: "#endsars, #endswat, #sarsmustgo, #endsarsnow"
+  - username: "evan_nowak_"
+    fullname: >-
+      TRAVEL 🌎 EVAN  NOWAK
+    bio: >-
+      Oh lawd he do be travelin
+    location: "United States"
+    followers: 3762
+    engagement: 1876
+    commentsToLikes: 0.047982
+    id: ck0u9ga9b9pfh0i19kk5bucoy
+    verified: false
+    hashtags: "#travelphotography, #eclectic, #fstopphotochallenge, #scenicpa"
+  - username: "karen_myers_"
+    fullname: >-
+      𝓚𝓪𝓻𝓮𝓷 𝓜𝔂𝓮𝓻𝓼❤️
+    bio: >-
+      ♡︎•𝔫𝔬 𝔠𝔞𝔪𝔟𝔦𝔢𝔰 𝔩𝔬 𝔮𝔲𝔢 𝔪𝔞𝔰 𝔮𝔲𝔦𝔢𝔯𝔢𝔰 𝔢𝔫 𝔩𝔞 𝔳𝔦𝔡𝔞 𝔭𝔬𝔯 𝔩𝔬 𝔮𝔲𝔢 𝔪𝔰 𝔡𝔢𝔰𝔢𝔞𝔰 𝔢𝔫 𝔢𝔩 𝔪𝔬𝔪𝔢𝔪𝔱𝔬,𝔭𝔬𝔯𝔮𝔲𝔢 𝔩𝔬𝔰 𝔪𝔬𝔪𝔢𝔫𝔱𝔬𝔰 𝔭𝔞𝔰𝔞𝔫 𝔭𝔢𝔯𝔬 𝔩𝔞 𝔳𝔦𝔡𝔞 𝔰𝔦𝔤𝔲𝔢•❤️
+    location: "United States"
+    followers: 175
+    engagement: 19400
+    commentsToLikes: 0.027453
+    id: ck15qwui551450i19ka0i1b8y
+    verified: false
+    hashtags: "#portrait, #calvinklein, #modellife, #mexicocity"
   - username: "j2woo"
     fullname: >-
-      간종우
+      간종우 Jong-woo Kan
     bio: >-
-      🎙 K-pop Singer & Lyricist 🦦 Sr. Web Designer @esteelauder 📸 Instahusband and Traveler 📧 J2woo.ny@gmail.com
+      🦦Associate Design Director @esteelauder 🎙#kpop Artist @j2woo.kpop ✨#travelphotographer #lifestyle @j2woo.travel 🍳#foodie in #nyc @j2woo.foodie
     location: "United States"
-    followers: 44394
-    engagement: 239
-    commentsToLikes: 0.039571
+    followers: 42389
+    engagement: 209
+    commentsToLikes: 0.029044
     id: ck15tyx8bkl8p0i198hpearqj
     verified: false
-    hashtags: "#photography, #mood, #quarantine, #newyorkcity"
-  - username: "picture_of_newyork"
+    hashtags: "#artofvisuals, #dirtybootsandmessyhair, #instahusband, #travel"
+  - username: "zimernyc"
     fullname: >-
-      new york City
+      Zimer
     bio: >-
-      ▶Follow 💗 @picture_of_newyork ▶Daily dose of nyc pictures ▶Daily updates, Tag for future 🥇@picture_of_newyork #picture_of_newyork
+      Full Time Artist: Murals~Design~Architecture~Sculpture. Born and Raised in Queens Ny. Dm for commissions Zimernyc@gmail.com
     location: "United States"
-    followers: 43609
-    engagement: 150
-    commentsToLikes: 0.010693
-    id: ck8t4r21y7r6g0j78was1fhqj
+    followers: 8139
+    engagement: 335
+    commentsToLikes: 0.066747
+    id: ck13a4nx1om0k0i193mxuw6jf
     verified: false
-    hashtags: "#newyorkfashionweek, #khalme, #newyorkgiants, #newyorkjets"
-  - username: "jay_roams"
-    fullname: >-
-      Jeromy Jimeno
-    bio: >-
-      In love with the Process MOD: @nyc_explorers Nikon D810/Sony A7RIV/Samsung NOTE 10 Plus DM for Collaborations/Inquiries
-    location: "United States"
-    followers: 4033
-    engagement: 1376
-    commentsToLikes: 0.080084
-    id: ck8t4zj268cln0j780u4ul5f9
-    verified: false
-    hashtags: "#topnewyorkphoto, #what, #nycgo, #justgoshoot"
-  - username: "ryankeithfilms"
-    fullname: >-
-      FL Photographer / Film Maker
-    bio: >-
-      ʀʏᴀɴ ᴋᴇɪᴛʜ🥣 @fullsail 𝔻𝕚𝕘𝕚𝕥𝕒𝕝 ℂ𝕚𝕟𝕖𝕞𝕒𝕥𝕠𝕘𝕣𝕒𝕡𝕙𝕪 ᴰᵒ ˢᵒᵐᵉᵗʰⁱⁿᵍ ᶜʳᵉᵃᵗⁱᵛᵉ 𝗡𝗲𝘄 𝗩𝗶𝗱𝗲𝗼 ↴
-    location: "United States"
-    followers: 43618
-    engagement: 81
-    commentsToLikes: 0.079201
-    id: ck5q6f00qx4io0i111pofr9ml
-    verified: false
-    hashtags: "#filmmaking, #worldstar, #corona, #leagueoflenses"
+    hashtags: "#spraypaint, #stain, #love, #original"
 ---

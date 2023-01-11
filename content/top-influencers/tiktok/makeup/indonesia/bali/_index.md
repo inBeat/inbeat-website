@@ -1,24 +1,60 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Bali in 2023
+title: Top 10 Makeup TikTok Influencers In Bali In 2023
 description: >-
-  Find top makeup TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #viral #bali #foryou.
+  Find top makeup TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #makeup #viral #xyzbca.
 platform: TikTok
-hits: 8
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 8 TikTok influencers like this in Bali, Indonesia for you to collaborate.
+hits: 6
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in Bali, Indonesia for you to contact.
 profiles:
   - username: "sayblebaby"
     fullname: >-
       Sayble
     bio: >-
-      💅🏼beauty / / travel Adhesive Eyeliner 👇🏼
+      💅🏼Beauty tips and hacks Founder | @balilash 🌴 Discount code: TIKTOK
     location: "Indonesia"
-    followers: 58200
-    engagement: 887
-    commentsToLikes: 0.067802
+    followers: 59300
+    engagement: 450
+    commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beautyessentials, #fallaesthetic, #adhesiveeyeliner, #makeuphacks"
+    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+  - username: "fausisalon"
+    fullname: >-
+      FausiSalon
+    bio: >-
+      MUA KAMPUNG BLEGA-MADURA-JATIM-INDONESIA BOOKING / ENDORSE TLP/WA : 0811346222
+    location: "Indonesia"
+    followers: 282100
+    engagement: 640
+    commentsToLikes: 0.032885
+    id: ckb9q8ntbm0ni0j23jq031x66
+    verified: false
+    hashtags: "#mua, #muahits, #fausisalonblega, #makeup"
+  - username: "mayajanuarsa"
+    fullname: >-
+      M 🍒
+    bio: >-
+      zooweemama🤠 Follow the ig
+    location: "Indonesia"
+    followers: 8661
+    engagement: 578
+    commentsToLikes: 0.049184
+    id: ckc8wq9wjk8h80j23loagqi0d
+    verified: false
+    hashtags: "#xyzbca, #tiktokindonesia, #indonesia, #fyp"
+  - username: "jedarnation"
+    fullname: >-
+      inijedar
+    bio: >-
+      
+    location: "Indonesia"
+    followers: 1600000
+    engagement: 295
+    commentsToLikes: 0.008217
+    id: ckbkyu1oxv1v40j23h63mvqwm
+    verified: true
+    hashtags: "#for, #2021, #foryoupage, #foryou"
   - username: "ridhwansyh"
     fullname: >-
       RidhwanSyh ☑️
@@ -30,101 +66,65 @@ profiles:
     commentsToLikes: 0.096038
     id: ck9evot8kji7e0j7829ffxd5o
     verified: false
-    hashtags: "#lgbt, #tiktokmanado, #raikantopeni, #xyzbca"
-  - username: "backpackertampan"
+    hashtags: "#masukfyppls, #xyzbca, #raikantopeni, #bts"
+  - username: "bhadnhut"
     fullname: >-
-      tampan
+      ♿️
     bio: >-
-      Living in Bali Follow my journey on IG @backpackertampan
+      
     location: "Indonesia"
-    followers: 487300
-    engagement: 1114
-    commentsToLikes: 0.015730
-    id: ck8kjxev8wpgy0j78iidyn8n7
+    followers: 5130
+    engagement: 905
+    commentsToLikes: 0.041744
+    id: cka0ppgcm99gs0i784477ioa4
     verified: false
-    hashtags: "#kocak, #lucu, #fyp, #istanbul"
-  - username: "aleksandranajda.com"
+    hashtags: "#xyzbca, #trending, #viral, #foryoupage"
+  - username: "mariadelouvre"
     fullname: >-
-      AleksandraNajda
+      Maria Clarin
     bio: >-
-      🥥 B A L I 🥥 travel girl 🌈 instagram: aleksandranajda
+      i like makeup & cosplays (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 17 join my discord server
     location: "Indonesia"
-    followers: 30675
-    engagement: 632
-    commentsToLikes: 0.012624
-    id: ck8za6h960if60j78h9d3nvn9
+    followers: 646100
+    engagement: 1564
+    commentsToLikes: 0.009756
+    id: ckdbxu0awego80j23yk32vzjf
     verified: false
-    hashtags: "#balisquad, #bali, #quarantinetings, #tiktokindo"
-  - username: "dr.ziee"
-    fullname: >-
-      dr. Yessica Tania
-    bio: >-
-      Medical Doctor 🩺 Beauty / Aesthetic Consultant I’m , Your Skin Best Friend 💋
-    location: "Indonesia"
-    followers: 1100000
-    engagement: 859
-    commentsToLikes: 0.031785
-    id: ckbqvgdsifood0j23rapkdlrp
-    verified: true
-    hashtags: "#skincarecheck, #tipsdrzie, #samasamabelajar, #dokter"
-  - username: "dillaprb"
-    fullname: >-
-      Dillah Probokusumo ⛓
-    bio: >-
-      Brand Ambassador of @mirandahaircare 20 📍Jakarta 🎓Law Faculty I enjoy sewing
-    location: "Indonesia"
-    followers: 493700
-    engagement: 1519
-    commentsToLikes: 0.007980
-    id: ckbwl7xrl40x70j23ukcky208
-    verified: true
-    hashtags: "#foryoupage, #foryou, #localbrand, #tiktokpintar"
-  - username: "sundaridewi95"
-    fullname: >-
-      Sundari dewi
-    bio: >-
-      Hiii guys❤️🦋
-    location: "Indonesia"
-    followers: 245800
-    engagement: 832
-    commentsToLikes: 0.018312
-    id: ck92uqw9vn9h70j78jc3at3qz
-    verified: false
-    hashtags: "#balinese, #dancetutorial, #kpop, #foryoupage"
-  - username: "lucaepifany"
-    fullname: >-
-      Luca Epifani
-    bio: >-
-      📸🎥 Instagram @lucaepifany
-    location: "Indonesia"
-    followers: 314300
-    engagement: 636
-    commentsToLikes: 0.008508
-    id: ck80cqsvzam750j78sd8j9k0q
-    verified: false
-    hashtags: "#photographytricks, #iphonephotography, #videotricks, #photographytips"
-  - username: "koko_vania"
-    fullname: >-
-      Koko Vania
-    bio: >-
-      Follow ig ➡️ @Miss_vania24 Makeup Artist ( Wedding ) MC WSinger Ladyboy show
-    location: "Indonesia"
-    followers: 13900
-    engagement: 471
-    commentsToLikes: 0.067617
-    id: ckbque0kpeurf0j23mgwpycjo
-    verified: false
-    hashtags: "#tranding, #cantik, #masukbrandagak, #viral"
+    hashtags: "#cottagecore, #fairy, #transition, #anime"
   - username: "dianaquinn_"
     fullname: >-
       DianaQuinn
     bio: >-
       IG @DianaQuinn_Makeup08 Subcribe Channel YouTube aku *DianaQuinn Official*
     location: "Indonesia"
-    followers: 77200
-    engagement: 945
-    commentsToLikes: 0.041100
+    followers: 105700
+    engagement: 611
+    commentsToLikes: 0.031558
     id: ckamu6p9gxwdf0i78qqablrmp
     verified: false
-    hashtags: "#selebgram, #goodmoodtiaphari, #xyzbca, #fypdongggggggg"
+    hashtags: "#mulaidari100, #ayodancepuzzles, #robogurugratis, #muadepok"
+  - username: "koko_vania"
+    fullname: >-
+      Koko Vania
+    bio: >-
+      Follow ig ➡️ @Miss_vania24 Makeup Artist ( Wedding ) MC WSinger Ladyboy show
+    location: "Indonesia"
+    followers: 86000
+    engagement: 203
+    commentsToLikes: 0.038261
+    id: ckbque0kpeurf0j23mgwpycjo
+    verified: false
+    hashtags: "#lewatberandagak, #lewatberanda, #fyp, #masukberandagak"
+  - username: "fennyfatimah"
+    fullname: >-
+      fennyfatimah
+    bio: >-
+      follow Instagram @fenny_fatimah subscribe My Youtube Chanel @Fenny Fatimah
+    location: "Indonesia"
+    followers: 38000
+    engagement: 955
+    commentsToLikes: 0.098263
+    id: ckbque02heunx0j23o4ql4u1e
+    verified: false
+    hashtags: "#makeupcheck, #santaitapiberisi, #ayodancepuzzles, #berandalagi"
 ---

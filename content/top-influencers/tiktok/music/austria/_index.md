@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In Austria in 2023
+title: Top 10 Music TikTok Influencers In Austria In 2023
 description: >-
-  Find top music TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #music #fyp #austria.
+  Find top music TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #fyp #austria #music.
 platform: TikTok
-hits: 56
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 56 TikTok influencers like this in Austria for you to contact.
+hits: 50
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 50 TikTok influencers like this in Austria for you to connect with.
 profiles:
-  - username: "georgandmusic"
+  - username: "julianguba"
     fullname: >-
-      Georg
+      Julian Guba
     bio: >-
-      Guitarist & producer from🇦🇹 Doing musician's stuff 🎤🎶 Happy Halloween🎃👇
+      vienna | 🇦🇹 | 20 i make music ⬇️
     location: "Austria"
-    followers: 3704
-    engagement: 1074
-    commentsToLikes: 0.096882
-    id: ckbr6qko6m4kd0j23adibpx58
+    followers: 29600
+    engagement: 1562
+    commentsToLikes: 0.039554
+    id: cka0jjjtxibr60i782glqnd0k
     verified: false
-    hashtags: "#beat, #country, #music, #fyp"
+    hashtags: "#austria, #stitch, #vienna, #fyp"
+  - username: "petercloudmusic"
+    fullname: >-
+      Petercloudmusic
+    bio: >-
+      Hyperactive music producer 🇦🇹🇮🇹 NEW SINGLE OUT NOW !! ⬇️
+    location: "Austria"
+    followers: 24200
+    engagement: 1422
+    commentsToLikes: 0.046306
+    id: ck8j8z3nykzgf0j78abng0q14
+    verified: false
+    hashtags: "#tiktokaustria, #remix, #deutsch, #musicproducer"
   - username: "shehulksabrina"
     fullname: >-
       Shehulk Sabrina
     bio: >-
       Lasse dich inspirieren und sei inspirierend. Lebe mit Leidenschaft, lebe musical.ly
     location: "Austria"
-    followers: 13900
-    engagement: 1104
-    commentsToLikes: 0.022163
+    followers: 13700
+    engagement: 690
+    commentsToLikes: 0.013348
     id: ckbwi8n5q33xt0j23vi21fgx9
     verified: false
-    hashtags: "#mtb, #vienna, #ridebrand, #ride"
-  - username: "_vladiator_"
-    fullname: >-
-      Vladiator
-    bio: >-
-      🎥Video Editor 🎧Music Producer ⚽️Goalie Follow me on YT & IG
-    location: "Austria"
-    followers: 15000
-    engagement: 519
-    commentsToLikes: 0.059823
-    id: ck9nb9gy1av4x0j786h247pzm
-    verified: false
-    hashtags: "#fyp, #foryou, #soccer, #comedy"
-  - username: "mikevallas"
-    fullname: >-
-      Mike Vallas
-    bio: >-
-      ⚠️ CEO von Teil 2 ⚠️ 📩 vallas.music@gmail.com
-    location: "Austria"
-    followers: 1300000
-    engagement: 1199
-    commentsToLikes: 0.005474
-    id: ck9kdgvyyu8000j78ogk9attr
-    verified: true
-    hashtags: "#foryou, #omggg, #langeweile, #viral"
+    hashtags: "#ride, #austria, #nature, #mtb"
   - username: "greenice.rocks"
     fullname: >-
       Greenice
     bio: >-
       Make People Happy 💚 Austrian Musician 🎶
     location: "Austria"
-    followers: 10800
-    engagement: 848
-    commentsToLikes: 0.011787
+    followers: 17300
+    engagement: 879
+    commentsToLikes: 0.009264
     id: ckd0ix3k0f5gy0j237xas9eat
     verified: false
-    hashtags: "#foryou, #dj, #fyp, #austria"
+    hashtags: "#foryou, #fyp, #austria, #dj"
   - username: "sujishin"
     fullname: >-
       Suji 
     bio: >-
       Be inspired and be inspiring. Live with passion, and live musical.ly
     location: "Austria"
-    followers: 5112
-    engagement: 551
-    commentsToLikes: 0.013556
+    followers: 4907
+    engagement: 512
+    commentsToLikes: 0.000000
     id: ck9gl3kg4mea80j78oag8qfwx
     verified: false
-    hashtags: "#justanact, #foryou, #foryoupage, #tik"
+    hashtags: "#justanact, #trending, #foryou, #foryoupage"
   - username: "miranhusseini"
     fullname: >-
       Miran7
     bio: >-
       Österreich Instagram: 1mir7 Snapchat :Miran.husseini
     location: "Austria"
-    followers: 3094
-    engagement: 1103
-    commentsToLikes: 0.105547
+    followers: 2989
+    engagement: 977
+    commentsToLikes: 0.096957
     id: ckb9i4npt87m20j23ucq9v33g
     verified: false
-    hashtags: "#innsbruck, #kurd, #schweiz, #rojava"
+    hashtags: "#model, #duet, #kurdistan, #kurdish"
+  - username: "georgandmusic"
+    fullname: >-
+      Georg
+    bio: >-
+      Guitarist & producer from🇦🇹 🎵OUT NOW🎵: "Funky Christmastime"🎄👇
+    location: "Austria"
+    followers: 3674
+    engagement: 998
+    commentsToLikes: 0.094587
+    id: ckbr6qko6m4kd0j23adibpx58
+    verified: false
+    hashtags: "#funk, #viral, #sound, #beat"
+  - username: "checheiam"
+    fullname: >-
+      Checheiam 
+    bio: >-
+      Dominican🇩🇴 @checheiam 🙏🏽❤️
+    location: "Austria"
+    followers: 9376
+    engagement: 517
+    commentsToLikes: 0.072199
+    id: ckb9fn6lv42ox0j23cber69c9
+    verified: false
+    hashtags: "#shooting, #innsbruck, #cheche, #beats"
+  - username: "kikki_deee"
+    fullname: >-
+      kikki_deee
+    bio: >-
+      35 Visit me on instagram 😉 #dance / #lipsync / #fun (only 18+)
+    location: "Austria"
+    followers: 5138
+    engagement: 1289
+    commentsToLikes: 0.035620
+    id: cka0kurouo9cc0i78a55jl0b4
+    verified: false
+    hashtags: "#pierced, #jasonderulo, #music, #lgbt"
   - username: "blasisker98"
     fullname: >-
       blasisker98
     bio: >-
       𝗠𝗮𝗿𝗰𝗼 𝗕𝗹𝗮𝘀𝗶𝘀𝗸𝗲𝗿 ♕ Austria/Osttirol ♕ 21 y.o. Schreib mir auf Insta
     location: "Austria"
-    followers: 69300
-    engagement: 1107
-    commentsToLikes: 0.087583
+    followers: 67600
+    engagement: 738
+    commentsToLikes: 0.025408
     id: ckbf0pkrjmje90j23cxqvkatu
     verified: false
-    hashtags: "#test, #stop, #music, #animals"
-  - username: "checheiam"
-    fullname: >-
-      Checheiam 
-    bio: >-
-      Dominican🇩🇴/🇦🇹 @checheiam 🙏🏽❤️
-    location: "Austria"
-    followers: 9489
-    engagement: 601
-    commentsToLikes: 0.060462
-    id: ckb9fn6lv42ox0j23cber69c9
-    verified: false
-    hashtags: "#innsbruck, #tiktok, #beats, #austria"
-  - username: "christinaroosaa"
-    fullname: >-
-      ChristinaRosa
-    bio: >-
-      Snapchat: christinaroosa | Instagram: christinaroosa
-    location: "Austria"
-    followers: 2315
-    engagement: 753
-    commentsToLikes: 0.088138
-    id: cka84rl5yv3sv0i78ar7a28ju
-    verified: false
-    hashtags: "#austria, #trend, #cute, #foryoupage"
+    hashtags: "#foryou, #stopattherightmoment, #music, #animals"
 ---

@@ -1,84 +1,96 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Berlin in 2023
+title: Top 10 Photographers Instagram Influencers In Berlin In 2023
 description: >-
-  Find top photographers Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #photography #35mm.
+  Find top photographers Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #portraitart #makeup.
 platform: Instagram
-hits: 334
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 334 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 217
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 217 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
+  - username: "1st.sholo"
+    fullname: >-
+      Louis Schulz
+    bio: >-
+      photographer berlin_
+    location: "Germany"
+    followers: 9752
+    engagement: 1453
+    commentsToLikes: 0.042068
+    id: ck0vz79ia7nu40i19driw489y
+    verified: false
+    hashtags: ""
   - username: "heks_one"
     fullname: >-
       Heks Sascha Haubold
     bio: >-
       📸 Photographer | Berlin 📍 The Heks Laboratory 👩🏻‍💻 Booking: janine@heks.biz
     location: "Germany"
-    followers: 15010
-    engagement: 652
-    commentsToLikes: 0.032109
+    followers: 15324
+    engagement: 630
+    commentsToLikes: 0.026876
     id: ck0vwh1zstpsd0i1975la6h3z
     verified: false
-    hashtags: "#girl, #darkbeauty, #highend, #painting"
-  - username: "beautypalmira"
-    fullname: >-
-      ⋆ 𝕻𝖆𝖑𝖒𝖎𝖗𝖆 ⋆ 🦋
-    bio: >-
-      ⋆ Certified Makeup Artist ⋆ Retoucher, Photographer ⋆ Berlin, Germany ⋆ PR, Bookings: palmira.ruben@gmail.com ⋆ Bridal Artist @palmira.makeup
-    location: "Germany"
-    followers: 35445
-    engagement: 109
-    commentsToLikes: 0.088138
-    id: ck5q3lqg8lcfr0i11ku117ia8
-    verified: false
-    hashtags: "#fentylipgloss, #ubcd, #prom, #glitter"
+    hashtags: "#cyberpunk, #darkartist, #makeuplover, #cyberpunkaesthetic"
   - username: "s_wilbo"
     fullname: >-
       Swilbo
     bio: >-
       - Photographer - Berlin - all images ©
     location: "Germany"
-    followers: 5548
-    engagement: 1233
-    commentsToLikes: 0.021773
+    followers: 5559
+    engagement: 1202
+    commentsToLikes: 0.021297
     id: ck0vy6cim2fys0i19i4et2n8o
     verified: false
-    hashtags: "#urbanromantix, #thecreatorclass, #worldviewmag, #tv"
+    hashtags: "#filmisnotdead, #bnw, #autoportrait, #lightandshadow"
   - username: "maxmenning"
     fullname: >-
       Max Menning
     bio: >-
       Photographer - Berlin www.maxmenning.com #fotokraft for the Kraftrunners
     location: "Germany"
-    followers: 7832
-    engagement: 963
-    commentsToLikes: 0.008927
+    followers: 7391
+    engagement: 1054
+    commentsToLikes: 0.008905
     id: ck15qwwu551di0i19utetwwzr
     verified: false
-    hashtags: "#tspdiy, #curacao, #nikerunning, #berlin"
-  - username: "verenafrye"
+    hashtags: "#laufen, #curacao, #trondheim, #berlinmarathon"
+  - username: "beautypalmira"
     fullname: >-
-      Verena Frye
+      ⋆ 𝕻𝖆𝖑𝖒𝖎𝖗𝖆 ⋆ 🦋
     bio: >-
-      Photographer / Berlin | São Paulo mail@verenafrye.com⠀ my photo book @descriptiveanatomy out now!⠀ ⠀ 📍Berlin
+      ⋆ Certified Creative Makeup Artist ⋆ Retoucher, Photographer ⋆ Berlin, Germany ⋆ PR, Bookings: palmira.ruben@gmail.com ⋆ Bridal Artist @palmira.makeup
     location: "Germany"
-    followers: 3040
-    engagement: 865
-    commentsToLikes: 0.115879
-    id: ck5hkaicji2s30i115s42apok
+    followers: 33915
+    engagement: 130
+    commentsToLikes: 0.101257
+    id: ck5q3lqg8lcfr0i11ku117ia8
     verified: false
-    hashtags: "#filmisalive, #fujisuperia400, #blackwork, #digitalisnotdead"
-  - username: "julianimkephotography"
+    hashtags: "#sephoradeutschland, #abhbrows, #wakeup2slay, #beautyphotos"
+  - username: "akut_herakut"
     fullname: >-
-      julia nimke I berlin
+      🅰🅺🆄🆃
     bio: >-
-      travel & lifestyle photographer Berlin, Germany
+      Photorealistic artist & photographer, Berlin based. Founder of MACLAIM crew and @herakut - - - 👇Limited edition fine art prints available here👇
     location: "Germany"
-    followers: 47500
-    engagement: 327
-    commentsToLikes: 0.012338
-    id: ck0uavpbnd6b10i19z5if6nce
+    followers: 33598
+    engagement: 313
+    commentsToLikes: 0.021890
+    id: ck0ubxdwjfhgq0i190z6br5sb
     verified: false
-    hashtags: ""
+    hashtags: "#womanportrait, #charcoal, #mixedfeelings, #artdetails"
+  - username: "nils.lucas"
+    fullname: >-
+      Nils Lucas
+    bio: >-
+      Portrait & Documentary Photographer Berlin/Zürich prints available at: @editiondrei
+    location: "Germany"
+    followers: 5147
+    engagement: 686
+    commentsToLikes: 0.010815
+    id: ck5ckq49jxe2i0i11031p4qiv
+    verified: false
+    hashtags: "#120mm, #chemnitz, #editiondrei, #10"
   - username: "lovisworld"
     fullname: >-
       Lovis Ostenrik
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.111674
     id: ck15s690fbfhb0i19lutk59mo
     verified: false
-    hashtags: "#forgiveness, #compassion, #listen, #learn"
-  - username: "let.the.nipples.shine"
-    fullname: >-
-      let the n!pples shine
-    bio: >-
-      📍Berlin, #friedrichshain 📷 #photography project supporting no bra freedom. Scouting, photography & project by IC. 📨 #model applications are welcome.
-    location: "Germany"
-    followers: 36424
-    engagement: 322
-    commentsToLikes: 0.008416
-    id: ckap6ochwgqwm0i78s4uia5iu
-    verified: false
-    hashtags: "#freethenipplemovement, #piercing, #warschauerstrasse, #nikondeutschland"
+    hashtags: "#alllivesmatter, #love, #respect, #forgiveness"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Hamburg in 2023
+title: Top 10 Nutrition Instagram Influencers In Hamburg In 2023
 description: >-
-  Find top nutrition Instagram influencers in Hamburg in 2023. Most popular hashtags: #hamburg #fitness #workout #motivation.
+  Find top nutrition Instagram influencers in Hamburg in 2023. Most popular hashtags: #hamburg #fitness #fitfam #fitnessmotivation.
 platform: Instagram
-hits: 35
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 35 Instagram influencers like this in Hamburg, Germany for you to contact.
+hits: 19
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 19 Instagram influencers like this in Hamburg, Germany for you to collaborate.
 profiles:
-  - username: "malenas.blog"
+  - username: "sanae.decker"
     fullname: >-
-      Malena | CrossFit | Lifestyle
+      Sanae - Yoga Teacher
     bio: >-
-      • northern germany • crossfit & coffee addiction • @noccogermany • @underarmourdach • Impressum:
+      she / her 🏳️‍🌈 Let’s talk about (Self)Love, Sexuality, Feminism & Spirtuality 😘 💌 DM für 1:1 Yoga 🧘🏼‍♀️ 🎙Trust Yourself, Love! & Yoniradio ✳️CH
     location: "Germany"
-    followers: 13847
-    engagement: 768
-    commentsToLikes: 0.275119
-    id: ck8t4lpnl77o00j781v141whd
+    followers: 8586
+    engagement: 387
+    commentsToLikes: 0.054983
+    id: ck8swofawepvm0j78mdg3uwat
     verified: false
-    hashtags: "#workonyourweakness, #germany, #sportblogger, #personalgrowth"
-  - username: "sophia_bu"
+    hashtags: "#fitnessdeutschland, #yogadeutschland, #powerfrau, #humandesigndeutschland"
+  - username: "lisa.frank93"
     fullname: >-
-      Sophia Bünting
+      Lisa
     bio: >-
-      🔥 YOUTUBE | FITNESS | ERNÄHRUNG🔥 💓 Daily Storys 💓 📍Hamburg Team @myproteinde ✉️ Anfragen: PhillipZwoll@web.de ⬇️neustes Video
+      „Be you. Believe in yourself.“ Law I Athlete I Fitfood I Team @olimp_sport_nutrition Code: „LISA10“ 🏅4. Platz @gnbf_ev ‘19 🏅5. Platz @nac_germany ‘19
     location: "Germany"
-    followers: 44447
-    engagement: 266
-    commentsToLikes: 0.069500
-    id: ck9wemaahkw490j78wt72gmyd
+    followers: 4929
+    engagement: 961
+    commentsToLikes: 0.196921
+    id: ck0w04cadcbfh0i196lrwvzmi
     verified: false
-    hashtags: "#myprotein, #legday, #ironmaxxnutrition, #teamironmaxx"
+    hashtags: "#gesunderezepte, #cleaneating, #gesundeern, #fridaymood"
+  - username: "jessi.a"
+    fullname: >-
+      Jessica Bloß
+    bio: >-
+      Freelance model B.Sc. nutrition & food supply mgmt @jessi.a.food 🥑🌿 healthy lifestyle 🇩🇪 near #nuremberg
+    location: "Germany"
+    followers: 39629
+    engagement: 365
+    commentsToLikes: 0.040757
+    id: ck6tw3l7eptix0j717savuzrj
+    verified: false
+    hashtags: "#ludwigsburg, #erlangen, #homeshooting, #hamburg"
   - username: "umut.fit_official"
     fullname: >-
       Umut Yildirim
     bio: >-
-      Model @mcfitmodels @tm_agentur Team @mammut_nutrition Athlete Team @gorillawearusa Athlete Video @umut.creator_official 🎥Filmmaker
+      Model @mcfitmodels @tm_agentur Team @mammut_nutrition Athlete🇩🇪 Filmmaker @umut.creator_official
     location: "Germany"
-    followers: 13687
-    engagement: 457
-    commentsToLikes: 0.109964
+    followers: 12504
+    engagement: 307
+    commentsToLikes: 0.130924
     id: ck14lcrlfu0gv0i19o26uljba
     verified: false
-    hashtags: "#lifestyle, #motivation, #getfit, #trainharder"
-  - username: "mikethebadass"
-    fullname: >-
-      Mike Sommerfeld
-    bio: >-
-      🏆 IFBB PRO 📩 Coaching 🎖 @np_nutrition [Mike10] 🏋️‍♂️ @climaqx_ [Mike10] ®️ TEAM #Y3T 🎥 Youtube ‼️ Zu den DropStixx⤵️
-    location: "Germany"
-    followers: 103158
-    engagement: 418
-    commentsToLikes: 0.017426
-    id: ck5bvcshqjedj0i113hjostfs
-    verified: false
-    hashtags: "#fitfamgermany, #fitfamde, #bodybuilding, #classicphysique"
+    hashtags: "#noexcuses, #strong, #motivation, #bodybuilding"
   - username: "franziflott"
     fullname: >-
       Franziska Jürgensen
     bio: >-
-      Bikini Champ Nc. 🇩🇪🏆🥇 Bikini Champ Berlin 🏆 🥈 Bikini Champ Juniors 🏆🥉 ▪️Bodybuilding 📍Hamburg 🇲🇽 México
+      IFBB BIKINI FITNESS ATHLETE 🏆 ▪️Lifestyle ▪️Bodybuilding | Nature 🌿| México 🇲🇽 | Travelling ▪️Nursing Science 🩺🎓 📍Hamburg Stay R E A L & POLARIZE!💫
     location: "Germany"
-    followers: 2657
-    engagement: 1596
-    commentsToLikes: 0.052247
+    followers: 2712
+    engagement: 1355
+    commentsToLikes: 0.057790
     id: ck5bz8fwpqnaz0i1191l9l8do
     verified: false
-    hashtags: "#travelling, #goodvibes, #bikinifitness, #workhard"
-  - username: "celina.glsmn"
-    fullname: >-
-      Celina
-    bio: >-
-      ~ 22🌸 ~ A ❤️ ~ Hamburg ⚓️
-    location: "Germany"
-    followers: 2708
-    engagement: 2012
-    commentsToLikes: 0.048456
-    id: ck9hbl40whb9i0j7897hoozwy
-    verified: false
-    hashtags: "#fashion, #instablogger, #fitness, #gymgirl"
-  - username: "kristin_zirnsak"
-    fullname: >-
-      𝓚𝓻𝓲𝓼𝓽𝓲𝓷 𝓩𝓲𝓻𝓷𝓼𝓪𝓴 🎬
-    bio: >-
-      𝒯𝒱 𝒫𝓇𝑒𝓈𝑒𝓃𝓉𝑒𝓇/ 𝐵𝓁𝑜𝑔𝑔𝑒𝓇/ 𝑀𝑜𝒹𝑒𝓁 Moderatorin/ Reporterin /Model 𝐻𝒶𝓂𝒷𝓊𝓇𝑔 -𝒢𝑒𝓇𝓂𝒶𝓃𝓎 Sports and Nutrition I Media and Fashion
-    location: "Germany"
-    followers: 30763
-    engagement: 281
-    commentsToLikes: 0.028285
-    id: ck5hee0lysf3k0i11jt8rfji2
-    verified: false
-    hashtags: "#like, #styling, #fashioninspo, #love"
-  - username: "byleatheresa"
-    fullname: >-
-      nutrition & mindfulness
-    bio: >-
-      Lea Theresa 𖤥 Hamburg ☼ Ernährungsberatungen & Coachings @soulfitness.de ☽ YouTube • Instagram • Podcast ↓ E-Books mit Rezepten & Ernährungstipps
-    location: "Germany"
-    followers: 21132
-    engagement: 741
-    commentsToLikes: 0.058574
-    id: ck15tyk3ykjdr0i1944n15hz6
-    verified: false
-    hashtags: ""
+    hashtags: "#gymtime, #vacation, #spirit, #inhale"
   - username: "mrtzfbg"
     fullname: >-
       Moritz Fiebig
     bio: >-
-      Hier um DICH und MICH zu verbessern. #CROSSFIT @wodstore_de Ambassador mo10 @ahead_nutrition Athlet MORITZ15 @loewenanteil Athlet moritzfiebig-la
+      Hier um DICH und MICH zu verbessern. #CROSSFIT @sanktpauliathletik Owner @nordicoil MORITZ20 @ahead_nutrition MORITZ15 @loewenanteil moritzfiebig-la
     location: "Germany"
-    followers: 2480
-    engagement: 1163
-    commentsToLikes: 0.042864
+    followers: 2599
+    engagement: 979
+    commentsToLikes: 0.034972
     id: ck5casncde1t30i11q7n3hjvm
     verified: false
-    hashtags: "#crossfit, #hierumdichzuverbessern, #dedication, #motivation"
-  - username: "fitmadeleinee"
+    hashtags: "#regeneration, #community, #hwpo, #training"
+  - username: "dr.viviancharlott"
     fullname: >-
-      M a d e l e i n e
+      ATTITUDE OF LOVE AND GRATITUDE
     bio: >-
-      🌸 BIKINI FITNESS | TRAVEL | HAPPINESS 🌸 📍BS / MA ❤️ taken 💥 Sponsored by: @np_nutrition ↪️ -10 % Code: „Madeleine10“
+      🇬🇩/🇩🇪 Munich I Grenada | NYC | Rostock Board certified-Internal med. (Trained @ NYU) Preventive medicine l Nutrition |Fitness Miss World semi-finalist
     location: "Germany"
-    followers: 15665
-    engagement: 193
-    commentsToLikes: 0.038500
-    id: ck8tclbczzt540j780jhz0cjh
+    followers: 5202
+    engagement: 1174
+    commentsToLikes: 0.044413
+    id: ck5zswlnnzbi20i14aco2a1um
     verified: false
-    hashtags: "#braunschweig, #berlin, #hannover, #bodybuilding"
+    hashtags: "#gratitude, #love, #blessed, #grateful"
+  - username: "alena_halv"
+    fullname: >-
+      𝐀𝐥𝐞𝐧𝐚 𝐇.
+    bio: >-
+      Das Leben ist zu kurz, um nicht zu lächeln! ツ Soldat & Physiotherapeutin CrossFit @better_training Militaryfitness privat Account
+    location: "Germany"
+    followers: 24658
+    engagement: 937
+    commentsToLikes: 0.021496
+    id: ckap8bgjunnue0i78v32icaxg
+    verified: false
+    hashtags: "#fitfamgermany, #protein, #bremen, #berlin"
+  - username: "dregold"
+    fullname: >-
+      Andrej Mangold 🇩🇪🇺🇸🇱🇻
+    bio: >-
+      📸Model @kultmodels 🎥🌹TV | Bachelor2019 | Actor 🏋🏽1-1 Online-Coaching check Link⬇️ 🏡@innovio_homes 🏀Former Pro Athlete 📩click button 💻TM Entertainment
+    location: "Germany"
+    followers: 296411
+    engagement: 225
+    commentsToLikes: 0.029431
+    id: ck0u6ev6k1r1q0i19reo9686x
+    verified: true
+    hashtags: "#realitytvshow, #entertainment, #tvshow, #bachelor"
+  - username: "mauricezection"
+    fullname: >-
+      Maurice Geitz
+    bio: >-
+      GOTT IST GROß☝🏽 💊 @Prozis Code: Maurice10 🦅 🔥DEDICATION HAS NO OFFSEASON🔥
+    location: "Germany"
+    followers: 5160
+    engagement: 1330
+    commentsToLikes: 0.094899
+    id: ck8t0xqjvtpzu0j789oz7y182
+    verified: false
+    hashtags: "#mcfit, #kraftsport, #gymjunkie, #follow"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In United States in 2023
+title: Top 10 Dog Owners TikTok Influencers In United States In 2023
 description: >-
-  Find top dog owners TikTok influencers in United States in 2023. Most popular hashtags: #fyp #dogs #dogowner #dogsoftiktok.
+  Find top dog owners TikTok influencers in United States in 2023. Most popular hashtags: #dogowner #dogsoftiktok #fyp #dogs.
 platform: TikTok
-hits: 68
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 68 TikTok influencers like this in United States for you to connect with.
+hits: 74
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 74 TikTok influencers like this in United States for you to collaborate.
 profiles:
-  - username: "gottatrain"
-    fullname: >-
-      Gottatrain 
-    bio: >-
-      Here to help dog owners better communicate with their dogs @gottatrain
-    location: "United States"
-    followers: 609000
-    engagement: 757
-    commentsToLikes: 0.024801
-    id: ck92t6lnign1r0j78cf7uagph
-    verified: true
-    hashtags: "#stitch, #gottatrain, #fearfuldog, #fyp"
   - username: "ukn714"
     fullname: >-
       Unknown
     bio: >-
       Huntington Beach! Mexican 🇲🇽 Barber Dog owner: Kaia & kora 🐺🐺
     location: "United States"
-    followers: 2842
-    engagement: 690
-    commentsToLikes: 0.018645
+    followers: 2839
+    engagement: 685
+    commentsToLikes: 0.017756
     id: ckbl76alb4vpf0j23zi6sa1ha
     verified: false
-    hashtags: "#crusing, #crusin, #chicanoculture, #bags"
+    hashtags: "#chicanoculture, #lowriders, #crusin, #calivibes"
   - username: "chef_nukka"
     fullname: >-
       Chef_nukka
     bio: >-
       Just a husky and its owner having fun 🖖🏻 Follow my INSTAGRAM 👆🏻
     location: "United States"
-    followers: 36600
-    engagement: 2073
-    commentsToLikes: 0.037026
+    followers: 36100
+    engagement: 2048
+    commentsToLikes: 0.032797
     id: ckb9husdy7nv00j233nyub3hx
     verified: false
-    hashtags: "#duet, #huskyowner, #husky, #fyp"
+    hashtags: "#tiktokdogs, #dogowner, #duet, #husky"
+  - username: "maslowthetrickcorgi"
+    fullname: >-
+      MaslowTheTrickCorgi
+    bio: >-
+      Get your own Maslow trick titles from Maslow’s University using the link below!!
+    location: "United States"
+    followers: 100100
+    engagement: 1405
+    commentsToLikes: 0.032111
+    id: ckauzeeoz4xyn0j23y35w4hgz
+    verified: false
+    hashtags: "#maslowthetrickcorgi, #dogsport, #dogowner, #corgisoftiktok"
   - username: "laurenandmitz"
     fullname: >-
       Lauren & The Pups
     bio: >-
-      #FlyHighLoki 4.21.20❤️ Loki👼🏼 Thor🐾 Mitzi🐾 FOLLOW OUR INSTA :)
+      #FlyHighLoki 4.21.20❤️ Loki👼🏼 Mitzi🐾 Brindi🐾 Thor🐾 FOLLOW OUR INSTA :)
     location: "United States"
-    followers: 60400
-    engagement: 2393
-    commentsToLikes: 0.033260
+    followers: 60300
+    engagement: 2115
+    commentsToLikes: 0.031271
     id: ck9kc9emkoitz0j78z9r2w22w
     verified: false
-    hashtags: "#dogowner, #pet, #dogs, #gsdlove"
-  - username: "leticiaamar"
+    hashtags: "#rescuestory, #dogsoftiktok, #pet, #dogowner"
+  - username: "doodledog.official"
     fullname: >-
-      leticiaamar
+      Doodledog 🐶❤️
     bio: >-
-      just a happy mom love everyone. follow my 📸 IG. @Leticiaamar Venmo @Leticiaamar
+      📍 Judgment-free space for pet parents. Self care comics on Instagram. Link 👇
     location: "United States"
-    followers: 62200
-    engagement: 876
-    commentsToLikes: 0.051479
-    id: ckc7q5vlcvpcm0j23h19qsefs
+    followers: 19700
+    engagement: 676
+    commentsToLikes: 0.069173
+    id: ckacgnnjlvwco0i78t4i1tx2q
     verified: false
-    hashtags: "#expressieyourself, #sometimesirun, #diet, #duet"
-  - username: "__jamilah8"
+    hashtags: "#doglookslikeme, #doglove, #doglovers, #pets"
+  - username: "dognameddax"
     fullname: >-
-      Jamilah
+      dognameddax
     bio: >-
-      🇵🇸 🇧🇷 CA TY FOR 9K!❤️ Pray for Lebanon, free Palestine, BLM
+      blue merle australian shepherd livin in Indy! @dognameddax on instagram 📸🐶
     location: "United States"
-    followers: 9265
-    engagement: 1503
-    commentsToLikes: 0.069373
-    id: ckcus0k0qjy6w0j23s96qa4u4
+    followers: 155100
+    engagement: 2401
+    commentsToLikes: 0.013908
+    id: ck8kmv8sbaf2q0j78fwa66smr
     verified: false
-    hashtags: "#relatable, #heinzhalloween, #worldseries, #gaminglife"
-  - username: "marco.a.valdez"
+    hashtags: "#wildanimals, #weirdpets, #dogtiktok, #foryoupage"
+  - username: "mackzeeallan18"
     fullname: >-
-      marcoavaldez
+      mackenzie
     bio: >-
-      Products | Lifestyle | Photography Tutorials Follow my IG @marcoavaldez ⚡
+      Got this to do when I’m bored 20 and surviving Insta: @mackzeeallan
     location: "United States"
-    followers: 16500
-    engagement: 975
-    commentsToLikes: 0.032064
-    id: ckcphfy8yhh7p0j233726sune
+    followers: 109000
+    engagement: 1170
+    commentsToLikes: 0.013851
+    id: ck9a7j4507y5w0j78db6cvvdo
     verified: false
-    hashtags: "#cameralens, #lightroom, #photographer, #photography"
-  - username: "travelinmace"
+    hashtags: "#onestepcloser, #gt, #college, #chipsgottalent"
+  - username: "bandit.thehusky"
     fullname: >-
-      Macy Kornewald
+      Bandit The Husky
     bio: >-
-      Reseller, Traveler, Couch Potato I like bargains and food
+      🐶 1 follow = 1 pet 🤔can we get 2m? • 👇 Donate Below To Help Bandit 👇
     location: "United States"
-    followers: 4380
-    engagement: 709
-    commentsToLikes: 0.044923
-    id: ckd0a85ywbuqt0j23mmf7loa1
-    verified: false
-    hashtags: "#cosplay, #coupons, #stlouis, #fyp"
-  - username: "cali4niadayz"
+    followers: 1800000
+    engagement: 1826
+    commentsToLikes: 0.027658
+    id: ckb9m6wuef3q80j23hd19yszk
+    verified: true
+    hashtags: "#banditthehusky, #dogswim, #husky, #swimming"
+  - username: "kb_dean"
     fullname: >-
-      Cali4niadayz
+      Katie Beth
     bio: >-
-      The Coldest Water
+      Dog Trainer & Handler | KY | Dock Diving, OB & Rally | Nosework in progress 🐕
     location: "United States"
-    followers: 647100
-    engagement: 2046
-    commentsToLikes: 0.011327
-    id: ck9kcvgedrc3q0j78a8idqkbd
+    followers: 26800
+    engagement: 1859
+    commentsToLikes: 0.056390
+    id: ckd6mn40fgs2r0j23lldz09dr
     verified: false
-    hashtags: "#badneighbors, #holacholas, #conspiracy, #humor"
-  - username: "the_dogumenter"
+    hashtags: "#akc, #mentalhealthmatters, #springerspaniel, #nadd"
+  - username: "devincaherly"
     fullname: >-
-      Shadrach Webb
+      Devin Caherly
     bio: >-
-      check out the gram! 👆 😉 I design & sell my own dog collars! 🐕 👇
+      Follow me or else I’ll take your tacos 🌮 Devin@coxmgmt.com TEXT ME RIGHT NOW ⬇️
     location: "United States"
-    followers: 22400
-    engagement: 1348
-    commentsToLikes: 0.037749
-    id: ck8ufuzmo37b50j78boe8dwru
-    verified: false
-    hashtags: "#dogsoftiktok, #smallbusiness, #photography, #fyp"
+    followers: 3100000
+    engagement: 2041
+    commentsToLikes: 0.009824
+    id: ck83zs3762jnx0j78xbe8j7lw
+    verified: true
+    hashtags: "#devincaherly, #relatable, #siblings, #kids"
 ---

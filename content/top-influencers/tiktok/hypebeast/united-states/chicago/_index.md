@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Chicago in 2023
+title: Top 10 Hypebeast TikTok Influencers In Chicago In 2023
 description: >-
   Find top hypebeast TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
 platform: TikTok
-hits: 6
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 6 TikTok influencers like this in Chicago, United States for you to connect with.
+hits: 4
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 4 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
   - username: "hirizekickz"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Typical Sneakerhead🔥 FB: Hi-rizekickz IG: Hirizekickz Worldwide shipping✈️
     location: "United States"
-    followers: 7082
-    engagement: 1393
-    commentsToLikes: 0.041047
+    followers: 6849
+    engagement: 1388
+    commentsToLikes: 0.040049
     id: cka9lauph1zti0i7867da44uh
     verified: false
-    hashtags: "#thesongofus, #duet, #nike, #travisscott"
-  - username: "colehosman"
-    fullname: >-
-      Cole Hosman
-    bio: >-
-      Chicago Use code: cole ⬇️
-    location: "United States"
-    followers: 346300
-    engagement: 755
-    commentsToLikes: 0.007792
-    id: ck9773pkf2kl50j789rrhxdlc
-    verified: false
-    hashtags: "#skateboarding, #foryoupage, #skaterboy, #fyp"
+    hashtags: "#offwhite, #sneakers, #jordan, #duet"
   - username: "officialenvyhype"
     fullname: >-
       EnvyHype
     bio: >-
       Your Favourite Reseller 😱 Instagram: @EnvyHype
     location: "United States"
-    followers: 2641
-    engagement: 1082
-    commentsToLikes: 0.066425
+    followers: 2600
+    engagement: 1044
+    commentsToLikes: 0.067207
     id: ckd0k4ysmfrne0j23623j08u3
     verified: false
-    hashtags: "#adidas, #shoes, #sneakers, #customshoes"
+    hashtags: "#viral, #foryou, #shoes, #tiktokdiy"
   - username: "getgulley"
     fullname: >-
       Tabrin Gulley
     bio: >-
-      I LIKE MAKIN STUFF... Oh yea! And shoes! 11K ? 😂 Check the IG
+      I LIKE MAKIN STUFF... Oh yea! And shoes! 13K? 😂 Check the IG
     location: "United States"
-    followers: 11000
-    engagement: 1655
-    commentsToLikes: 0.032064
+    followers: 11200
+    engagement: 1216
+    commentsToLikes: 0.056955
     id: ck9ohnc42c1g00j78xnym8uvw
     verified: false
-    hashtags: "#lakers, #foryou, #sneakers, #sneakerhead"
-  - username: "sneakervideos"
-    fullname: >-
-      HYPEBEAST SNEAKERS
-    bio: >-
-      🔥SNEAKER CONTENT🔥 Follow👉 @hypehuddle on Instagram! Credit to original owner!
-    location: "United States"
-    followers: 7496
-    engagement: 1744
-    commentsToLikes: 0.055646
-    id: ck9eo4w3lmgpg0j78n4mhg7hg
-    verified: false
-    hashtags: "#sneakerlover, #af1, #xyzbca, #yeezy"
+    hashtags: "#sneakers, #foryoupage, #sneakerhead, #foryou"
   - username: "benhui_benhui_benhui_ben"
     fullname: >-
-      Benhui
+      FBG BENHUI
     bio: >-
-      I’m smoking tooka so I’m lookin like a Asian
+      Rocket got the pints for the low
     location: "United States"
-    followers: 3392
-    engagement: 994
-    commentsToLikes: 0.018360
+    followers: 3369
+    engagement: 1080
+    commentsToLikes: 0.022300
     id: ck9r8iayycesi0j780jsri9yp
     verified: false
-    hashtags: "#neverfitin, #eatemup, #duet, #youngthug"
+    hashtags: "#youngthug, #fyp, #twitter, #duet"
   - username: "ashdiamond"
     fullname: >-
       ash
     bio: >-
       Sacramento’s Biggest Hypebeast
     location: "United States"
-    followers: 46600
-    engagement: 1081
-    commentsToLikes: 0.018371
+    followers: 46300
+    engagement: 1080
+    commentsToLikes: 0.018528
     id: ck8vwdgn2o6us0j78syt8r3c7
     verified: false
-    hashtags: "#foryouppage, #lambo, #exotic, #fyp"
+    hashtags: "#foryoupage, #trend, #viral, #foryou"
   - username: "andihyll"
     fullname: >-
       alyson yates
     bio: >-
       chaotic good hypebeast twitter and the gram @andihyll
     location: "United States"
-    followers: 52900
-    engagement: 1209
-    commentsToLikes: 0.007935
+    followers: 51900
+    engagement: 1195
+    commentsToLikes: 0.007655
     id: ckbkwm2qxscol0j23xjvo5dx1
     verified: false
-    hashtags: "#imbaby, #viralvibes, #justdancemoves, #fyp"
+    hashtags: "#greenscreen, #imbaby, #spooky, #fyp"
   - username: "hypebeast"
     fullname: >-
       HYPEBEAST
     bio: >-
       CEO of Culture
     location: "United States"
-    followers: 887400
-    engagement: 1526
-    commentsToLikes: 0.010076
+    followers: 970200
+    engagement: 1212
+    commentsToLikes: 0.009391
     id: ck80crnnyat9w0j782gds869q
     verified: true
-    hashtags: "#diyproject, #howto, #foryou, #ig"
-  - username: "adrianthedipper"
+    hashtags: "#fyp, #tellmewithouttellingme, #funny, #gamer"
+  - username: "floridahype"
     fullname: >-
-      Adrianthedipper
+      Florida Hype
     bio: >-
-      I hydro dip stuff & post random videos! Comment say hi 😃
+      Follow our Insta & YouTube🔺 Insta: @florida.hype 👇 OUR WEBSITE👇
     location: "United States"
-    followers: 89700
-    engagement: 2208
-    commentsToLikes: 0.023176
-    id: ckanlzi4cb46c0i78b6h5zrb6
+    followers: 94700
+    engagement: 1335
+    commentsToLikes: 0.046338
+    id: ck9glclqknlpf0j786olklmgw
     verified: false
-    hashtags: "#hypebeast, #hydrodipping, #magnetfishing, #picker"
+    hashtags: "#sneaker, #sneakerhead, #shoetok, #hypebeast"
+  - username: "nohoesyorsh"
+    fullname: >-
+      abovetherimhoops
+    bio: >-
+      professional failure
+    location: "United States"
+    followers: 6017
+    engagement: 1609
+    commentsToLikes: 0.091755
+    id: ckbf7fig4xba20j23d29435oq
+    verified: false
+    hashtags: "#sneakers, #kicks, #lakers, #basketball"
+  - username: "tommytrillions"
+    fullname: >-
+      IG: @tommytrillions
+    bio: >-
+      CHALLENGE: TRADING STOCK OPTIONS UP TO A G-WAGON 🚘🔥 PRO SHOE CUSTOMIZER 👟🎨
+    location: "United States"
+    followers: 26700
+    engagement: 836
+    commentsToLikes: 0.067041
+    id: ck9eo4x1amgv10j78i5qfskts
+    verified: false
+    hashtags: "#amazonstock, #airforces, #bandananikes, #customairforce1"
 ---

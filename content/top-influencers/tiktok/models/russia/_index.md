@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Russia in 2023
+title: Top 10 Models TikTok Influencers In Russia In 2023
 description: >-
-  Find top models TikTok influencers in Russia in 2023. Most popular hashtags: #model #modeling #fyp.
+  Find top models TikTok influencers in Russia in 2023. Most popular hashtags: #model #fyp #modeling.
 platform: TikTok
-hits: 31
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 31 TikTok influencers like this in Russia for you to pitch.
+hits: 34
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 34 TikTok influencers like this in Russia for you to pitch.
 profiles:
+  - username: "katrinhot"
+    fullname: >-
+      katrinhot
+    bio: >-
+      Blogger and Model 🍑 Все самое горячее в инсте🔥 All the hottest in my instagram
+    location: "Russia"
+    followers: 79900
+    engagement: 920
+    commentsToLikes: 0.084907
+    id: ckbkvy7opriol0j23gn3hcqw9
+    verified: false
+    hashtags: "#desertcraft, #kissme, #model, #kiss"
   - username: "helen_yushkova"
     fullname: >-
       helen_yushkova
     bio: >-
-      model 💔 creator 💎youtuber ❤ Insta: Helen_yushkova ads@pzprod.ru
+      model 💔 creator 💎 Insta: Helen_yushkova ads@pzprod.ru
     location: "Russia"
-    followers: 8658
-    engagement: 828
-    commentsToLikes: 0.034949
+    followers: 8433
+    engagement: 813
+    commentsToLikes: 0.029372
     id: cka6a5nurv4w30i78p5cblax4
     verified: false
-    hashtags: "#backstage, #redhair, #flowers, #fashion"
-  - username: "eliot_sugar"
-    fullname: >-
-      Eliot
-    bio: >-
-      🏙️Ростов-на-Дону🏙️ 📷Inst : Eliot_sugar📷 🌟M.A. : Success model management🌟
-    location: "Russia"
-    followers: 4572
-    engagement: 1368
-    commentsToLikes: 0.011696
-    id: ckbqnjy2p8dw50j233pmhkmd3
-    verified: false
-    hashtags: "#vogue, #model, #modelagency, #modelrussia"
-  - username: "polinamoskvina"
-    fullname: >-
-      Polina Moskvina
-    bio: >-
-      💞 model and also a 🤡 💕 Inst: @moskvina_polina
-    location: "Russia"
-    followers: 75500
-    engagement: 592
-    commentsToLikes: 0.025795
-    id: ckbkp4h3ljcgf0j23w3atfhx6
-    verified: false
-    hashtags: "#foryou, #foruyou, #funny, #modeling"
-  - username: "anna_sopkalova"
-    fullname: >-
-      Anna Sopkalova
-    bio: >-
-      Model &Trainer 🏆Miss Talent of Miss Globe 👑Miss Best Body of Miss All Nations
-    location: "Russia"
-    followers: 15400
-    engagement: 744
-    commentsToLikes: 0.023524
-    id: cka0q68yabgar0i78c7e0bwh0
-    verified: false
-    hashtags: "#cannes, #acrobatics, #handstand, #baikal"
+    hashtags: "#aesthetic, #backstage, #moscow, #timelapse"
   - username: "lubanchic"
     fullname: >-
       любовь
     bio: >-
       I’m model from Vladivostok😍❤️
     location: "Russia"
-    followers: 13700
-    engagement: 483
-    commentsToLikes: 0.029642
+    followers: 13600
+    engagement: 707
+    commentsToLikes: 0.035339
     id: cka6a5io8v3u50i78fabzxqaj
     verified: false
-    hashtags: "#similanisland, #twins, #phuketthailand, #twinschallenge"
+    hashtags: "#megadreams, #voiceeffects, #phiphiisland, #vladivostok"
+  - username: "eliot_sugar"
+    fullname: >-
+      Eliot
+    bio: >-
+      🏙️Ростов-на-Дону🏙️ 📷Inst : Eliot_sugar📷 🌟M.A. : Success model management🌟
+    location: "Russia"
+    followers: 4378
+    engagement: 1197
+    commentsToLikes: 0.012462
+    id: ckbqnjy2p8dw50j233pmhkmd3
+    verified: false
+    hashtags: "#model, #russianboy, #modelagency, #vogue"
   - username: "karinagoter"
     fullname: >-
       it.karina
     bio: >-
       Инста: litt.x 1️⃣9️⃣ years Model:sigma👸🏻 Пиар в инсту💣
     location: "Russia"
-    followers: 454900
-    engagement: 714
-    commentsToLikes: 0.008438
+    followers: 441400
+    engagement: 677
+    commentsToLikes: 0.011303
     id: ckbkdkq4m3iop0j232v6x4ytj
     verified: false
     hashtags: ""
+  - username: "natalee.007"
+    fullname: >-
+      Natasha
+    bio: >-
+      Dj/Model Natalee.007 Instagram (5,5M)
+    location: "Russia"
+    followers: 180100
+    engagement: 563
+    commentsToLikes: 0.013116
+    id: cka0u3t8tsny00i782f7m6dn5
+    verified: false
+    hashtags: "#recommendations, #recomendation, #summer, #rec"
+  - username: "anna_sopkalova"
+    fullname: >-
+      Anna Sopkalova
+    bio: >-
+      Model &Trainer 🏆Miss Talent of Miss Globe 👑Miss Best Body of Miss All Nations
+    location: "Russia"
+    followers: 17700
+    engagement: 304
+    commentsToLikes: 0.024730
+    id: cka0q68yabgar0i78c7e0bwh0
+    verified: false
+    hashtags: "#merrychristmas, #baikal, #snowfun, #14"
+  - username: "lisina15"
+    fullname: >-
+      Ekaterina Lisina
+    bio: >-
+      Tallest Professional Model (6’9) Follow my IG and YouTube
+    location: "Russia"
+    followers: 6600000
+    engagement: 1001
+    commentsToLikes: 0.006242
+    id: ck8kg29gogpx30j78ybsj145p
+    verified: true
+    hashtags: "#heightdifference, #ladydimitrescu, #tallpeopleproblems, #fyp"
   - username: "viki_odintcova"
     fullname: >-
       Viki_odintcova
     bio: >-
       Model, TV-host Instagram : viki_odintcova 5.1M
     location: "Russia"
-    followers: 106300
-    engagement: 443
-    commentsToLikes: 0.010679
+    followers: 114000
+    engagement: 519
+    commentsToLikes: 0.012941
     id: ckbagh00z8ejz0j23tj1jywcg
     verified: true
-    hashtags: "#vikiodintcova, #stayhome"
+    hashtags: "#stayhome, #vikiodintcova"
   - username: "emrata_official"
     fullname: >-
       Emily Ratajkowski
     bio: >-
       model, actress, feminist, designer: https://l.instagram.com/?u=https%3A%2F%2Fpeo
     location: "Russia"
-    followers: 6198
-    engagement: 143
-    commentsToLikes: 0.020342
+    followers: 7395
+    engagement: 165
+    commentsToLikes: 0.016802
     id: ckcejx6tkt0sp0j238dnbvd00
     verified: false
-    hashtags: "#model, #mod, #emrata, #gm"
-  - username: "snowgueen"
-    fullname: >-
-      🥀폴리나 🥀
-    bio: >-
-      💜ARMY💜 fan k-pop I feel my heart beat in time with my favorite song.
-    location: "Russia"
-    followers: 8680
-    engagement: 1183
-    commentsToLikes: 0.041673
-    id: ckb9pgepykk9y0j23crttp1nk
-    verified: false
-    hashtags: "#kendalljenner, #model, #fyr, #army"
-  - username: "tatayammy"
-    fullname: >-
-      TATA
-    bio: >-
-      inst: @tatayammy ♥️ Если хотите взаимные лайки, пишите в коментах ♥️
-    location: "Russia"
-    followers: 3304
-    engagement: 1328
-    commentsToLikes: 0.031157
-    id: ck8f8n5ep3ftd0j78wzbp22q5
-    verified: false
-    hashtags: "#boredinthehouse, #foryoupage, #ultrasmoothmoves, #fyp"
+    hashtags: "#gm, #model, #mod, #emrata"
 ---

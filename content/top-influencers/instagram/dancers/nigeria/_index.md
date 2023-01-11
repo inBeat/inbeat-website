@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Nigeria in 2023
+title: Top 10 Dancers Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top dancers Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #endsars #explorepage.
+  Find top dancers Instagram influencers in Nigeria in 2023. Most popular hashtags: #dance #afrobeats #reels #explore.
 platform: Instagram
-hits: 34
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 34 Instagram influencers like this in Nigeria for you to connect with.
+hits: 25
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 25 Instagram influencers like this in Nigeria for you to work with.
 profiles:
-  - username: "kleenton_"
+  - username: "shivolski"
     fullname: >-
-      18o9
+      Noluthando
     bio: >-
-      # WhiteAngel # |Model|Brand Influencer|Dancer Dm for business and collaborations Virgo🥵. #September18 Ambassador for @apparelsbyddavid 💯❤️🥊🍇♥🥈🚺
+      HALLS OMFCC| 2X NMU 👩‍🎓 FOR BOOKINGS: sikhakhane8@gmail.com MC 🎤 |DANCER 💃| CHOREOGRAPHER | DM FOR PROMO video out now!!
     location: "Nigeria"
-    followers: 12567
-    engagement: 763
-    commentsToLikes: 0.101675
-    id: ck5hobohmpaaf0i11qtheqdik
+    followers: 6550
+    engagement: 1382
+    commentsToLikes: 0.037725
+    id: ck5cgd18folcp0i11ueey4u4z
     verified: false
-    hashtags: "#sars, #sarsmustend, #reformthesystem, #endsarsbrutalityinnigeria"
-  - username: "o_okaforblessing"
+    hashtags: "#dripdrip, #naturalhaircommunity, #dancersofinstagram, #bantuknots"
+  - username: "queenibbb"
     fullname: >-
-      Queen Okafor Blessing
+      Becky Bonsu Brown
     bio: >-
-      5’9.5 MA- @pagesmodels 🇳🇬 Miss Intellects Universe 2018👑 Miss FOBSSA UNN👑 Dancer💃
+      God 1st. 👰🏾💍DANCER/ CHOREOGRAFER Founder of @beckybonsubrown @wupper_dance_camp_
     location: "Nigeria"
-    followers: 4606
-    engagement: 1394
-    commentsToLikes: 0.139748
-    id: ck5hlgdsdk6d20i11wc8dsghk
+    followers: 6111
+    engagement: 819
+    commentsToLikes: 0.104286
+    id: ck6tvr4rsnsr90j71kik8hd2h
     verified: false
-    hashtags: "#staysafe, #tallmodel, #model, #runwaymodel"
+    hashtags: "#afro, #fashion, #ootd, #chopdaily"
+  - username: "rapunzel_juliana"
+    fullname: >-
+      🌹Rapunzel ➴♡
+    bio: >-
+      Girl with very long hair. International model. Almost a singer 😅. I'm a legal alien, traveler, blogger, actress, dancer.🎭 📬Cooperation in Direct 💋
+    location: "Nigeria"
+    followers: 10939
+    engagement: 539
+    commentsToLikes: 0.038450
+    id: ck5zoq515r38t0i14kjp9p2g6
+    verified: false
+    hashtags: "#photography, #makeup, #model, #xoxo"
+  - username: "karrahraye"
+    fullname: >-
+      Karrah Raye
+    bio: >-
+      Atlanta📍 Actor. Singer. Writer. Dancer. Spelman Alum. 💙 GlitterBomb Unicorn 🦄 LET’S WORK 🎞 Hair page: @bomb_aesthetics_bykraye
+    location: "Nigeria"
+    followers: 7004
+    engagement: 465
+    commentsToLikes: 0.059225
+    id: ck15pcxhgx9cg0i192sb9qwge
+    verified: false
+    hashtags: "#atlantamodel, #fashion, #nails, #nailvlogger"
+  - username: "delztheplug"
+    fullname: >-
+      Delz 🦅
+    bio: >-
+      Dancer/ abnormal Creator Brand deals & promos dm 💰 - IPHONE VID EDITING TUTORIALS DM ➡️ @delzcreated DM FOR ADs💰
+    location: "Nigeria"
+    followers: 14779
+    engagement: 1372
+    commentsToLikes: 0.118464
+    id: ck5hdmmajo92e0i11uiv9q35g
+    verified: false
+    hashtags: "#30bg, #reels, #fyp, #explorepage"
   - username: "sonizyyy"
     fullname: >-
       Sonia❤️
     bio: >-
       VIBE QUEEN👑 Sneakers lover model dancer Dm @sonizyyyvibes 29/07/2018💔
     location: "Nigeria"
-    followers: 34434
-    engagement: 736
-    commentsToLikes: 0.039116
+    followers: 35286
+    engagement: 684
+    commentsToLikes: 0.030910
     id: ck8t0084aqedk0j78ivh4ah3j
     verified: false
-    hashtags: "#nizzybraids, #basedonwhat, #explore, #explorepage"
-  - username: "shivolski"
-    fullname: >-
-      Noluthando
-    bio: >-
-      HALLS OMFCC| 2X NMU 👩‍🎓| AN ENTIRE MOOD 💃💃 FOR BOOKINGS: sikhakhane8@gmail.com DANCER | CHOREOGRAPHER | DM FOR PROMO video out now!!
-    location: "Nigeria"
-    followers: 6486
-    engagement: 1376
-    commentsToLikes: 0.035090
-    id: ck5cgd18folcp0i11ueey4u4z
-    verified: false
-    hashtags: "#bantuknots, #dripdrip, #naturalhaircommunity, #dancersofinstagram"
-  - username: "nenenwanyo"
-    fullname: >-
-      Nene Nwanyo
-    bio: >-
-      THESPIAN Voiceover Artist Voice Actor Commercial Model Kinda a dancer Funny girl Click link in bio
-    location: "Nigeria"
-    followers: 2444
-    engagement: 1340
-    commentsToLikes: 0.130849
-    id: ckap88c8hn9sj0i78sb04g5ok
-    verified: false
-    hashtags: "#repost, #stageactor, #figurek8, #tvactor"
+    hashtags: "#explore, #explorepage, #sonizyyy, #basedonwhat"
   - username: "queenadamma__"
     fullname: >-
-      ADA EBUTA AYUK 👑👑
+      ADA EBUTA AYUK 👑
     bio: >-
-      Dancer | Choreographer | Promoter💫 God First✨ 📩 Adanaomia@gmail.com LU’18🇺🇸🇳🇬 ••👻 nancee90••
+      Dancer | Choreographer | Promoter God First✨ Bookings/enquiries 📩 Adanaomia@gmail.com ••👻 nancee90••
     location: "Nigeria"
-    followers: 52346
-    engagement: 620
-    commentsToLikes: 0.029651
+    followers: 51576
+    engagement: 471
+    commentsToLikes: 0.027771
     id: ck0w2ht96ofnx0i190tu9ff4l
     verified: false
-    hashtags: "#afrobeats, #afrodance, #nweworldwide, #chopdaily"
-  - username: "celestialsteppers"
+    hashtags: "#chopdaily, #afrobeats, #nweworldwide, #nwe"
+  - username: "itsthatezi"
     fullname: >-
-      🌈Celestial Steppers 🤸‍♀️💃
+      Ezinne Chukwu A.
     bio: >-
-      Celestial Church of Christ Dancers 💃🕺 #Celestialsteppers For Booking/ Sponsorship/ Videoshoots/ Adverts/ Enquiries 💰💵 📞💬Call/WhatsApp +2348089242023
+      Jesus❤️ Natural Hair 💁🏾 Dancer/singer🙈 🇳🇬🇳🇱🇨🇦, Currently living in 🇬🇧 Co-founder of @nkitidesigns @chinedu13 💍♥️
     location: "Nigeria"
-    followers: 22795
-    engagement: 344
-    commentsToLikes: 0.127128
-    id: ck8tbzbukxroy0j783j63xruq
+    followers: 17312
+    engagement: 568
+    commentsToLikes: 0.074108
+    id: ck0w27rjjn0e60i19rl0waq62
     verified: false
-    hashtags: "#truelovechallenge, #kojodancechallenge, #bbnlockdown2020, #whattypeofdance"
-  - username: "thelearobinson"
-    fullname: >-
-      LeA Robinson
-    bio: >-
-      🌻 PRIVATE DANCER 🌻 ON ALL PLATFORMS MGMT: @britt.nay_ SHOP @peopleblockers @thelsrcollection . . 🎤 Singer/Songwriter/Engineer 🌱 Fly Ass #Vegan
-    location: "Nigeria"
-    followers: 97695
-    engagement: 103
-    commentsToLikes: 0.067553
-    id: ck5q9qhj2cgr30i119ijgikgs
-    verified: true
-    hashtags: "#happymothersday, #learobinson, #dancer, #geminiseason"
+    hashtags: "#fullhair, #type4hair, #4b, #healthyhair"
   - username: "seunpizzle_"
     fullname: >-
       OLUWASEUN🌍
     bio: >-
       Dancer/Influencer @pizzle_luxury 👟 For Bookings ☎️ 0906 924 8434 @philz_emp
     location: "Nigeria"
-    followers: 449331
-    engagement: 236
-    commentsToLikes: 0.017094
+    followers: 474891
+    engagement: 299
+    commentsToLikes: 0.013473
     id: ck5c9ri31bz790i11lkfywjks
     verified: false
-    hashtags: "#marliansprecident, #odumeje, #zttw, #endsars"
-  - username: "itsthatezi"
+    hashtags: "#lamba, #zttw, #omoologo"
+  - username: "stormiebandele"
     fullname: >-
-      Ezinne Chukwu
+      S T O R M I E🌪
     bio: >-
-      Jesus❤️ Natural Hair 💁🏾 Dancer/singer🙈 Co-founder of @nkitidesigns Use link below to get 5% off your first nkiti purchase!
+      HTX •God1st •Dancer/Choreographer/Model @augustprevail ambassador 🇳🇬⚜️#stormieSZN
     location: "Nigeria"
-    followers: 14202
-    engagement: 571
-    commentsToLikes: 0.082673
-    id: ck0w27rjjn0e60i19rl0waq62
+    followers: 31970
+    engagement: 415
+    commentsToLikes: 0.050146
+    id: ck0w2hpahof3o0i19iycg6bm9
     verified: false
-    hashtags: "#melaninqueen, #healthyhairjourney, #kinkychicks, #4c"
+    hashtags: "#challenges, #coronavirus, #tiktokdance, #greenlightchallenge"
 ---

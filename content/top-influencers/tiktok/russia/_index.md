@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Russia in 2023
+title: Top 10 TikTok Influencers In Russia In 2023
 description: >-
-  Find top TikTok influencers in Russia in 2023. Most popular hashtags: #weasleytwins #weasleys #recomendation.
+  Find top TikTok influencers in Russia in 2023. Most popular hashtags: #fyp #foryou #anime.
 platform: TikTok
-hits: 3663
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 3663 TikTok influencers like this in Russia for you to work with.
+hits: 3739
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 3739 TikTok influencers like this in Russia for you to work with.
 profiles:
-  - username: "ba.bich_"
+  - username: "mirnaya_ru"
     fullname: >-
-      Бабич или БабиТч?😂
+      mirnaya.ru
     bio: >-
-      Подпишись на мой INST (3m)🤪 🤡@ba.bitch_🤡
+      ДИНА МИРНАЯ😋 Идем со мной к 5🍋🔥РАЗРЫВНЫХ👆🏻
     location: "Russia"
-    followers: 7100000
-    engagement: 2227
-    commentsToLikes: 0.013531
-    id: cka9q9g7y7rv70i78zarm8vls
+    followers: 4200000
+    engagement: 1955
+    commentsToLikes: 0.006393
+    id: ckbaisyr09ybt0j23msi5pp6l
     verified: true
-    hashtags: "#doritos"
-  - username: "my_lizaveta"
+    hashtags: "#stitch"
+  - username: "romanenccco"
     fullname: >-
-      Liza in hoodie
+      ликвидатор что ли 
     bio: >-
-      Harry PoTTaH🦉 Mischief managed⚡️always Пойдем, я покажу, где найти HP мерч⚡️
+      Вы 🐝 Inst:romanencco
     location: "Russia"
-    followers: 25500
-    engagement: 1928
-    commentsToLikes: 0.056209
-    id: ckd0jfo6nfc3e0j23vfvlz8ck
-    verified: false
-    hashtags: "#potterhead, #weasleys, #dracotok, #hogwards"
+    followers: 4900000
+    engagement: 1837
+    commentsToLikes: 0.003122
+    id: cka7sgs6mj5cd0i78xly8q9jq
+    verified: true
+    hashtags: ""
   - username: "jasmin33rus"
     fullname: >-
       Jasmin33
     bio: >-
       Отписался-Удалю Не ставишь взаимно лайки и комменты - И я не буду Работу не ищу
     location: "Russia"
-    followers: 3435
-    engagement: 5098
-    commentsToLikes: 0.273880
+    followers: 3401
+    engagement: 4987
+    commentsToLikes: 0.273016
     id: ck8qlrgypmxnn0j78cavkxaqh
     verified: false
     hashtags: ""
-  - username: "777sweet_lana222"
+  - username: "_iruka_umino0"
     fullname: >-
-      ꧁⚜ 𝔖₭ͥỢrͣ₱ͫᶖ͢͢͢oή ⚜꧂
-    bio: >-
-      Совместные безумия сближают больше, чем общие взгляды на мир! ºO•💜•.✿.•.°•★
-    location: "Russia"
-    followers: 6747
-    engagement: 4596
-    commentsToLikes: 0.125156
-    id: ckc8y30xmmenn0j23vabwkgkt
-    verified: false
-    hashtags: "#90, #now"
-  - username: "_downey_nephilim"
-    fullname: >-
-      🔪Dostoevsky🖤
+      😂😏Iruka Sensei❤😏
     bio: >-
       Имя:Aнгелина Город:Сергиев Посад Любимое аниме: Наруто) ДР:21 октября))
     location: "Russia"
-    followers: 2874
-    engagement: 3881
-    commentsToLikes: 0.089083
+    followers: 2864
+    engagement: 3652
+    commentsToLikes: 0.118753
     id: cka8h9uyoa0zt0i78d4jyueb6
     verified: false
-    hashtags: "#voiceeffects, #supernatural, #marvelstudios, #wakanda"
-  - username: "3ehutsy"
+    hashtags: "#marvel, #voiceeffects"
+  - username: "s.t.a.l.a.k.e.r01"
     fullname: >-
-      Зерницу :D
+      Андрей добрый
     bio: >-
-      Цель: 4000 3200✅ 3600❌ 3300✅ 3700❌ 3400✅ 3800❌ 3500❌ 3900❌
+      позывной -Кот группировка - Монолит Клан- ☣️Инквизиция☢️ косплей на Хидана
     location: "Russia"
-    followers: 3412
-    engagement: 3158
-    commentsToLikes: 0.138205
-    id: ckb16cgeutrkn0j231tris5oy
-    verified: false
-    hashtags: "#kimetsunoyaiba, #recomendation, #anime, #rec"
-  - username: "s.t.a.l.k.e.r01"
-    fullname: >-
-      Андрей Добрый
-    bio: >-
-      позывной -Кот группировка - Монолит Клан- ☣️Заблудшие☢️
-    location: "Russia"
-    followers: 3734
-    engagement: 3127
-    commentsToLikes: 0.093468
+    followers: 3704
+    engagement: 3313
+    commentsToLikes: 0.085112
     id: ckdtlb65hzcql0j23ze3rwyr3
     verified: false
     hashtags: ""
-  - username: "kykyepta72"
+  - username: "daniel_sadykov72rus"
     fullname: >-
-      Eagle🦅
+      Даниэль Садыков
     bio: >-
-      Привет ❣️😎 Я из России 🇷🇺 12y.o🤚🏻😔
+      СЛЫШ ПАЦАН ИЛИ НЕ ПАЦАН ЛАЙК ПОСТАВЬ И ПОДПИШИСЬ НА КАНАЛ😁
     location: "Russia"
-    followers: 99100
-    engagement: 3059
-    commentsToLikes: 0.257281
-    id: ckaus4zp0x6d10j239adf36fz
+    followers: 3381
+    engagement: 3094
+    commentsToLikes: 0.122810
+    id: ckdsogb1do5nj0j237wt49l1z
     verified: false
-    hashtags: ""
-  - username: "_maxutko_99"
+    hashtags: "#ivi"
+  - username: "okmn"
     fullname: >-
-      💕 СТЕЙСИ 💕
+      Cookie🍪
     bio: >-
-      👀👀I think типа akk фанатки👃Well.. всегда рада тебе 👀👀 ☝️16.7k максуток👆
+      🖤🖤
     location: "Russia"
-    followers: 16700
-    engagement: 2891
-    commentsToLikes: 0.065377
-    id: ckdbcoonw6v7z0j23u9pkcw38
+    followers: 95600
+    engagement: 2858
+    commentsToLikes: 0.063425
+    id: ckbqbnlqnxfwi0j23vz1on3gu
     verified: false
-    hashtags: "#brian, #thebrian, #thebrianmaps, #anastasiz"
-  - username: "ekaterina_199"
+    hashtags: "#btsarmy, #namjoon, #rm, #foryou"
+  - username: "ya.kuvshin4ik"
     fullname: >-
-      Буробина Екатерина
+      кувшинчик
     bio: >-
-      ~°°°**§Бродяги 🤙🤟🤟📿§**°°°~
+      свободу попугаям!
     location: "Russia"
-    followers: 2685
-    engagement: 2889
-    commentsToLikes: 0.189723
-    id: ckdclwrino4f00j23i8gngpmb
+    followers: 3699
+    engagement: 2855
+    commentsToLikes: 0.184240
+    id: ckb0edhpe6rkd0j23t9q0s51o
     verified: false
-    hashtags: ""
+    hashtags: "#anime, #fyp, #aot, #foryou"
+  - username: "j_a_d_u_a"
+    fullname: >-
+      💞 Карманная баба 💞
+    bio: >-
+      ❌АККАУНТ ЗАКРЫТ❌
+    location: "Russia"
+    followers: 13800
+    engagement: 2820
+    commentsToLikes: 0.078033
+    id: cka7r97ole1p00i788sx7xash
+    verified: false
+    hashtags: "#3rk, #redbulldanceyourstyle, #evolutionteam, #playwithpringles"
+  - username: "shiropak"
+    fullname: >-
+      ShiroPak
+    bio: >-
+      🎊🎉🌟💫🍀Please follow me on Twitch🍀💫🌟🎉🎊 🌟💫[ShiroPak]💫🌟 🍀🌟[白パク]🌟🍀
+    location: "Russia"
+    followers: 31200
+    engagement: 2779
+    commentsToLikes: 0.072946
+    id: ckbkgnk5687kg0j23l0olo18g
+    verified: false
+    hashtags: "#art"
 ---

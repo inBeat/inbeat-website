@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Barcelona in 2023
+title: Top 10 Travel Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top travel Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #travel #travelphotography #spain.
+  Find top travel Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #spain #barcelonacity #travel.
 platform: Instagram
-hits: 310
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 310 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+hits: 209
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 209 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
-  - username: "lo_lo_rina"
+  - username: "lacosmopolilla"
     fullname: >-
-      L🅾️rin🅰️🛩
+      Patri Rojas
     bio: >-
-      out there doin lots of stuff and things👧🏽. just pipi longstocking 💃🏼 💪gym freak f*ck racism🌏 #2fast4yall ✈️ ʎlɟ ⅋ ʇıɟ #flightattendant
+      #lacosmopolilla ✈ Travel journalist since 2013 ✏🌍📸 📍 Barcelona 📩 escribe@lacosmopolilla.com Mi blog⬇
     location: "Spain"
-    followers: 5237
-    engagement: 1872
-    commentsToLikes: 0.068057
-    id: ck9wf04gkmo900j78llzxtv6n
+    followers: 52328
+    engagement: 377
+    commentsToLikes: 0.132655
+    id: ck0u7e4qz4lm90i19tlmekhwv
     verified: false
-    hashtags: "#iamtb, #girlswhotravel, #creative, #blondesandcookies"
-  - username: "nico_sosa_"
+    hashtags: "#embrujosoportujar, #iamtb, #visititaly, #europegrafias"
+  - username: "king4photo"
     fullname: >-
-      Nicolás Ithiel Sosa 💎
+      ©  M E H D I  -  ρнσтσgяαρну
     bio: >-
-      Cada día escribes la historia de tu vida! 📝💫 📌| Rosario 📚| Marketing 🌎| 🇦🇷🇵🇦🇺🇸🇮🇹🇪🇸🇫🇷🇻🇦
+      *Own content *Photos with Nikon d3300 📷 *Landscape & urban photography *Edition with photoshop ------ *22 years old @mehdi_regbaoui ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
     location: "Spain"
-    followers: 7084
-    engagement: 850
-    commentsToLikes: 0.001967
-    id: ck15ud2llmkdw0i190v7i0khm
+    followers: 5264
+    engagement: 2660
+    commentsToLikes: 0.035651
+    id: ck0ucvffnht9r0i198ppw0kn7
     verified: false
-    hashtags: "#sicily, #marsella, #francia, #travel"
+    hashtags: "#world, #total, #traveltheworld, #descobreixcatalunya"
+  - username: "barcelonastravel"
+    fullname: >-
+      Barcelona | Travel community
+    bio: >-
+      🇪🇸Barcelona, Spain ✈️ FOUNDER: @marknayman 📷 Tag us #Barcelonastravel and we'll post it! 📣Collabs? Contact zerbermark1995@gmail.com for all issues.
+    location: "Spain"
+    followers: 64574
+    engagement: 511
+    commentsToLikes: 0.013488
+    id: ckap6roqph58l0i78y7bxs5fe
+    verified: false
+    hashtags: "#sight, #bacelonagram, #ig, #travelphotography"
   - username: "emilyginni"
     fullname: >-
-      Emilia Giniyatova 🇷🇺🇪🇸
+      𝐄𝐦𝐢𝐥𝐢𝐚 𝐆𝐢𝐧𝐢𝐲𝐚𝐭𝐨𝐯𝐚 🇷🇺🇪🇸
     bio: >-
-      💠Figure skater,Spanish championship winner’19 💠Ambassador @chiquesport @giegi_by_karisma 💠Ambassador @goldenhorseskates 💠Run by @sabinagin
+      💠Figure skater & roller skater 💠Ambassador @chiquesport @officeskating 💠 @goldenhorseskates @micro.skate 💠Collabs&co sabina@bk.ru
     location: "Spain"
-    followers: 87461
-    engagement: 280
-    commentsToLikes: 0.028162
+    followers: 131608
+    engagement: 360
+    commentsToLikes: 0.025035
     id: ckf5lj4onprib0j23zwih6p39
     verified: false
-    hashtags: "#chiquesquad, #rollergirl, #patinajeartistico, #roller"
-  - username: "shootwithjuan"
+    hashtags: "#summer, #vacation, #figureskating, #sportgirl"
+  - username: "maxibellucci"
     fullname: >-
-      Juan 🇨🇴 Travel • Barcelona
+      Maxi Bellucci
     bio: >-
-      📸 Barcelona-based freelance photographer & videographer 💻 Social media specialist & community builder 👇🏽PRINTS • PHOTOSHOOTS • PRESETS
+      🧑🏼‍🚀 Creador audiovisual 🇪🇸 Barcelona | España ⬇️ Mirá mi portfolio ⬇️
     location: "Spain"
-    followers: 11673
-    engagement: 1062
-    commentsToLikes: 0.163030
-    id: ck0ucoxtphe4g0i19p1la5o03
+    followers: 14620
+    engagement: 732
+    commentsToLikes: 0.034290
+    id: ck0w3uqv1vdrx0i194rref5ii
     verified: false
-    hashtags: "#ig, #loves, #prettycities, #forbestravelguide"
+    hashtags: "#igbuenosaires, #barcelonainspira, #visto, #vivirenbuenosaires"
+  - username: "cristiana_simoes_silva"
+    fullname: >-
+      Cristiana Simoes Silva ✈︎
+    bio: >-
+      🌍 Traveller │ Lifestyle ✈︎ Cabin Crew ✈︎ 🇵🇹 from Portugal ♥️ 📍 Based in Palma de Mallorca
+    location: "Spain"
+    followers: 16574
+    engagement: 362
+    commentsToLikes: 0.046076
+    id: ckf5mhqfbtutm0j23cyzh4ijx
+    verified: false
+    hashtags: "#wanderlusttribe, #passportcollective, #citystyle, #mallorquinament"
   - username: "aina.simon"
     fullname: >-
       AINA SIMON
     bio: >-
       Fashion • Food • Travel ✈️ | Barcelona - Madrid| 💌 ainasimonm@gmail.com
     location: "Spain"
-    followers: 301725
-    engagement: 670
-    commentsToLikes: 0.006882
+    followers: 332763
+    engagement: 842
+    commentsToLikes: 0.005175
     id: ck0vyy6sp6d680i19gk2enc5c
     verified: false
-    hashtags: "#elvive, #dalem, #porquetupelolovale, #noongirls"
+    hashtags: "#primania, #embajadoraprimark, #iworkwithprimark, #adikagirls"
   - username: "harris_jrt"
     fullname: >-
       🄷🄰🅁🅁🄸🅂 ♂️
     bio: >-
-      I'ᴍ Hᴀᴿᴿɪs 🐕Jᴀᴄᴋᴿᴜsᴇʟʟ Creator📍#trueloverpets #petinblack 🎊1er.Aniversario 🎊 🎂17/03/2018 Barcelona Travel Addict🌏 🇪🇸🇮🇹🇭🇷🇧🇦🇸🇮🇫🇷
+      I'ᴍ Hᴀᴿᴿɪs 🐕Jᴀᴄᴋᴿᴜsᴇʟʟ Creator📍#trueloverpets #petinblack 🎊1er.Aniversario 🎊 🎂17/03/2018 Barcelona Travel Addict🌏 🇪🇸🇮🇹🇭🇷🇧🇦🇸🇮🇫🇷 @patasbox Harris code
     location: "Spain"
-    followers: 16567
-    engagement: 815
-    commentsToLikes: 0.145745
+    followers: 17920
+    engagement: 954
+    commentsToLikes: 0.131284
     id: ck6u5hw869q7x0j717xf5ruhh
     verified: false
-    hashtags: "#mydogisthecutest, #jrtofinstagram, #jrtlove, #dogsworld"
-  - username: "storiesofmytrips"
+    hashtags: "#jackrussellworld, #perrosgram, #thedogist, #jackruselllove"
+  - username: "tengo_alma_viajera"
     fullname: >-
-      Historias de mis viajes ✨
+      Tengo Alma Viajera • Ester
     bio: >-
-      📷Travel Photography 👫Mafe + Lucas 🎈Looking for beauty in cultures around the world 🌏Zero plastic - Responsible travel 📍Barcelona 👇🏼#travelblog EN/ES
+      🌎Adicta a la vida, los viajes y las fotos 📍Barcelona 📩 tengoalmaviajera@gmail.com ⬇️ Travel Blog:
     location: "Spain"
-    followers: 2249
-    engagement: 1379
-    commentsToLikes: 0.202910
-    id: ckaownbii9lmq0i78q960ehfh
+    followers: 23183
+    engagement: 290
+    commentsToLikes: 0.088621
+    id: ck5qcbn01psd20i11ud4beg1h
     verified: false
-    hashtags: "#livingbythesea, #morocco, #mydubai, #splendid"
-  - username: "davidpr1990"
+    hashtags: "#paisajesnaturales, #mexicomagico, #chiapas, #barcelona"
+  - username: "shebasale"
     fullname: >-
-      David Palacios Rubio
+      Sebas🧔🏻
     bio: >-
-      Journalist | Travel&Food | Barcelona. #luxurylifestyle #staycation #hospitality #finedining
+      34 años #virgo #argentino viviendo en #barcelona 🇦🇷🇪🇸
     location: "Spain"
-    followers: 20919
-    engagement: 276
-    commentsToLikes: 0.001102
-    id: ck6tj8rcd28850j710gn8jpi0
+    followers: 6340
+    engagement: 677
+    commentsToLikes: 0.034709
+    id: ck8t8zd6bmdvm0j784aop43lr
     verified: false
-    hashtags: "#foodiegram, #alcohol, #traveltheworld, #picoftheday"
-  - username: "danirull.official"
-    fullname: >-
-      danielrull
-    bio: >-
-      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
-    location: "Spain"
-    followers: 19043
-    engagement: 368
-    commentsToLikes: 0.095710
-    id: ck0w0ii8tedh20i19eb5soii8
-    verified: false
-    hashtags: "#fashionblogger, #malebeauty, #retouch, #visualart"
-  - username: "sramboer"
-    fullname: >-
-      Simon Ramboer • Belgium
-    bio: >-
-      📸 Travel Photographer 📍currently in #Belgium ✈️ Traveler 🏄‍♂️Surfer 🏂 Snowboarder ✉️ simonramboer@gmail.com
-    location: "Spain"
-    followers: 18370
-    engagement: 277
-    commentsToLikes: 0.024515
-    id: ck8t1hue1vtro0j78lwds60ji
-    verified: false
-    hashtags: "#neverstopexploring, #adventuretime, #catalunia, #catalunyafotos"
+    hashtags: "#lumber, #latingay, #barber, #gaybeard"
 ---

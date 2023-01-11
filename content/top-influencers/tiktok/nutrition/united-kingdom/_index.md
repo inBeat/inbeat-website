@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In United Kingdom in 2023
+title: Top 10 Nutrition TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top nutrition TikTok influencers in United Kingdom in 2023. Most popular hashtags: #nutrition #fyp #health #learnontiktok.
+  Find top nutrition TikTok influencers in United Kingdom in 2023. Most popular hashtags: #nutrition #weightloss #nutritionist #fitness.
 platform: TikTok
-hits: 26
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 26 TikTok influencers like this in United Kingdom for you to connect with.
+hits: 35
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 35 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "lukehannaofficial"
+  - username: "lukehannanutrition"
     fullname: >-
       Luke Hanna
     bio: >-
       FOLLOW ME ON IG 👆🏼 PT and Nutritionist making a fool of myself🇬🇧
     location: "United Kingdom"
-    followers: 183700
-    engagement: 1429
-    commentsToLikes: 0.030715
+    followers: 374400
+    engagement: 914
+    commentsToLikes: 0.052968
     id: ckb9bfyekxkc80j23fqp1zi8u
     verified: false
-    hashtags: "#keto, #personaltrainer, #duet, #diettips"
+    hashtags: "#nutritionfacts, #nutritiontips, #howtolosefat, #fitnessfacts"
   - username: "theimperfectnutritionist"
     fullname: >-
       Jennifer Medhurst
     bio: >-
-      Registered Nutritionist London and virtual clinic Contact@jennifermedhurst.com
+      Registered Nutritionist, mBANT ✉️Email & recipes on IG
     location: "United Kingdom"
-    followers: 93200
-    engagement: 464
-    commentsToLikes: 0.011222
+    followers: 112300
+    engagement: 451
+    commentsToLikes: 0.060584
     id: ck9844lzrn0010j78stjuo5aq
     verified: false
-    hashtags: "#fyp, #healthyrecipe, #learnontiktok, #vegan"
-  - username: "katyyeoman"
+    hashtags: "#asktheexpert, #health, #asktheaudience, #healthyrecipes"
+  - username: "david.birtwistle"
     fullname: >-
-      Katy Yooooo
+      David Birtwistle
     bio: >-
-      Issa lifestyle PT | Nutritionist
+      Fitness & Nutrition Coach Founder of Endeavour Life Want to be trained by me?
     location: "United Kingdom"
-    followers: 8437
-    engagement: 696
-    commentsToLikes: 0.009215
-    id: ckcp1v1sjbdql0j23k6gri01z
+    followers: 199900
+    engagement: 1241
+    commentsToLikes: 0.012572
+    id: ck8ae8m4sasoc0j78xr0n0vfx
     verified: false
-    hashtags: "#inhomeworkout, #fitfam, #gymgirl, #gymlife"
+    hashtags: "#toohottohandle, #react, #fitness, #tiktokfitness"
   - username: "aylishrutherford"
     fullname: >-
       Aylish Rutherford
     bio: >-
-      nutrition student passionate about health & fitness 🏃🏽‍♀️
+      nutritionist and online coach ❣️🏋🏽‍♀️🥑
     location: "United Kingdom"
-    followers: 13300
-    engagement: 644
-    commentsToLikes: 0.010688
+    followers: 14700
+    engagement: 675
+    commentsToLikes: 0.015167
     id: cka6juuecwcp90i78hp1kp29a
     verified: false
-    hashtags: "#nutritionwithaylish, #dubai, #ladiesday, #fitnesswithaylish"
+    hashtags: "#nutritionwithaylish, #wellnesswithaylish, #fitnesswithaylish, #nutritionmadeeasy"
   - username: "anastaasiah"
     fullname: >-
       Stacey
     bio: >-
       nutrition products I use & FREE 21 day challenge too
     location: "United Kingdom"
-    followers: 7586
-    engagement: 692
-    commentsToLikes: 0.018518
+    followers: 7465
+    engagement: 625
+    commentsToLikes: 0.023248
     id: ckbw5i58dxzlb0j2340maswvs
     verified: false
-    hashtags: "#smoothie, #healthyrecipes, #whatieatinaday, #viral"
+    hashtags: "#loa, #whatieatinaday, #proteinpancakes, #fitness"
   - username: "shakelashan"
     fullname: >-
       Nutrishan
     bio: >-
       Shakela Shan 🌻 Nutritionist mBANT AFMCP Food | Cooking | Nutrition
     location: "United Kingdom"
-    followers: 12209
-    engagement: 959
-    commentsToLikes: 0.022117
+    followers: 12900
+    engagement: 876
+    commentsToLikes: 0.019442
     id: cka0t0zgnnysd0i78fc7tlv42
     verified: false
-    hashtags: "#nutritionist, #fyp, #muslim, #nutrition"
+    hashtags: "#uk, #foryou, #fyp, #health"
   - username: "solofinity"
     fullname: >-
       SoloFinity 🌱💚
     bio: >-
-      🐔 Vegan for the animals 🐮 🌱 Plant based for health 🌱 ⚠️ FACE REVEAL ⚠️👇🏽
+      WATCH DOMINION ON YOUTUBE 🐔 Vegan for the animals 🐮 they/them 🏳️‍🌈
     location: "United Kingdom"
-    followers: 17600
-    engagement: 851
-    commentsToLikes: 0.535647
+    followers: 17500
+    engagement: 1093
+    commentsToLikes: 0.536468
     id: ckcpi6in3hrzs0j23gk8r7xbo
     verified: false
-    hashtags: "#vegan, #vegans, #nutritionist, #govegan"
+    hashtags: "#environment, #govegan, #foryoupage, #foryou"
   - username: "coachandersonuk"
     fullname: >-
       Terry Anderson
     bio: >-
-      ⭐️ 𝘐 𝘏𝘦𝘭𝘱 𝘞𝘰𝘮𝘦𝘯 𝘓𝘰𝘴𝘦 𝘞𝘦𝘪𝘨𝘩𝘵! ⭐️ 📲 Dm me Q’s on Instagram
+      ⭐️ 𝗜 𝗛𝗲𝗹𝗽 𝗪𝗼𝗺𝗲𝗻 𝗚𝗲𝘁 𝗧𝗵𝗲𝗶𝗿 𝗗𝗿𝗲𝗮𝗺 𝗕𝗼𝗱𝗶𝗲𝘀⭐️
     location: "United Kingdom"
-    followers: 88000
-    engagement: 533
-    commentsToLikes: 0.064956
+    followers: 96100
+    engagement: 629
+    commentsToLikes: 0.038729
     id: ck9skxhcvb1rz0j78cj58q2q7
     verified: false
-    hashtags: "#diet, #backtothemusic, #weightloss, #workout"
+    hashtags: "#fittok, #fatloss, #caloriedeficit, #nutrition"
   - username: "scottroberttaylor"
     fullname: >-
       Scott Taylor
     bio: >-
       Follow me on - Instagram: SCOTTROBERTTAYLOR
     location: "United Kingdom"
-    followers: 7595
-    engagement: 633
-    commentsToLikes: 0.049549
+    followers: 7393
+    engagement: 655
+    commentsToLikes: 0.060159
     id: ckbfhuvdfdgfa0j2375nnkffc
     verified: false
-    hashtags: "#funny, #transform, #smile, #weightloss"
-  - username: "jalalsamfit"
+    hashtags: "#nutrition, #positive, #transform, #transformation"
+  - username: "ryanjames_23"
     fullname: >-
-      Jalal
+      Ryansmith
     bio: >-
-      London🇬🇧 fitness | gains | tips instagram - jalalsamfit positive vibes 💫
+      🙋🏼‍♀️I Help Frustrated Women Lose Weight - 👇🏼FREE CALORIE CALCULATOR👇🏼
     location: "United Kingdom"
-    followers: 226900
-    engagement: 558
-    commentsToLikes: 0.016176
-    id: ck9r6257720zb0j78fn86x6rr
+    followers: 212000
+    engagement: 634
+    commentsToLikes: 0.023467
+    id: ckdt67qmntbco0j23p6z36o5c
     verified: false
-    hashtags: "#dessert, #health, #getfit, #easymeal"
+    hashtags: "#diet, #caloriedeficit, #nutrition, #weightloss"
 ---

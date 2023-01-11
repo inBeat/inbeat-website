@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In New York in 2023
+title: Top 10 Fashion Instagram Influencers In New York In 2023
 description: >-
-  Find top fashion Instagram influencers in New York in 2023. Most popular hashtags: #fashion #newyork #model #nyc.
+  Find top fashion Instagram influencers in New York in 2023. Most popular hashtags: #fashion #newyork #style #ootd.
 platform: Instagram
-hits: 1293
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 1293 Instagram influencers like this in New York, United States for you to contact.
+hits: 1369
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 1369 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "niki_inthecity"
+  - username: "cyberkay"
     fullname: >-
-      Niki Mallikarachi
+      Kiara🎨
     bio: >-
-      For the love of fashion New York, NY 🇱🇰
+      Beauty & Fashion New York 🗽 💌kiarawade30@gmail.com
     location: "United States"
-    followers: 2481
-    engagement: 1065
-    commentsToLikes: 0.207811
-    id: ckaoqms00jeus0i78jafw58kt
+    followers: 18248
+    engagement: 557
+    commentsToLikes: 0.067612
+    id: ck6tk5amb419x0j712onrcbne
     verified: false
-    hashtags: "#gifted, #campdonni, #auratenewyork, #partner"
-  - username: "sree.guha"
+    hashtags: "#underratedmuas, #makeupforblackwomen, #cyberkay, #giftedbymaybelline"
+  - username: "susanbowlusphoto"
     fullname: >-
-      Sree
+      Susan Bowlus
     bio: >-
-      📍NYC 🗽 fashion | feminism | beauty 👒 🇮🇳 X 🇬🇧 based in 🇺🇲 style blogger 👠 Email to collab ↘️
+      Brooklyn, New York Photographer Beauty, Fashion, Portrait, Travel Photos c. Susan Bowlus
     location: "United States"
-    followers: 7085
-    engagement: 1105
-    commentsToLikes: 0.135733
-    id: ckf5w3dyhqpig0j23yhmmbely
+    followers: 5084
+    engagement: 947
+    commentsToLikes: 0.078336
+    id: ck5zoicypqmqb0i14bwkgcjyh
     verified: false
-    hashtags: "#styleinspo, #ootd, #autumninnewyork, #outfitoftheday"
-  - username: "iamjarijones"
+    hashtags: "#actor, #photography, #makeup, #editorialphotography"
+  - username: "m.brewko"
     fullname: >-
-      Jari Jones
+      michelle ❁
     bio: >-
-      Actress /Model /Creativ /Activist 🇵🇭 + ✊🏾 CashApp : $IAMJARIJONES Fashion Inquiry: mgmt@iamjarijones.com Tv / Film Inquiry : ABrown@avalon-usa.com
+      24 ྾ 🦜 ✘ #brewko ⚘ enjoying my life w/ @frederickkost ♥ ➳ let‘s explore this world together ✈ next: home
     location: "United States"
-    followers: 184644
-    engagement: 768
-    commentsToLikes: 0.013972
-    id: ck136yv708xx10i19iy0mo8le
-    verified: true
-    hashtags: "#freedom, #revolution, #editorialphotography, #campaign"
-  - username: "edelinfalcon"
-    fullname: >-
-      Edelin Y Falcon
-    bio: >-
-      TAMUK’24 ✞ Pr/Collab’s - email or DM 💌
-    location: "United States"
-    followers: 4619
-    engagement: 1143
-    commentsToLikes: 0.085616
-    id: ck5zpeizysj2a0i14piotuf8t
+    followers: 31450
+    engagement: 913
+    commentsToLikes: 0.072580
+    id: ck14gja2i5iat0i1911kiuobb
     verified: false
-    hashtags: "#sections, #latina, #photooftheday, #loveyourself"
-  - username: "_theofficialmimiii"
+    hashtags: "#streetstyle, #blogger, #americanstyle, #outfitidea"
+  - username: "oxananiki"
     fullname: >-
-      Mercy🇳🇬
+      FASHION | INSPO | TRAVEL
     bio: >-
-      Self love is the real bag💕 📍NYC
+      Oxana Niki 📍 Miami, FL 💌 oxananiki00@gmail.com 💫 Owner of @alyssakidsfashion
     location: "United States"
-    followers: 2068
-    engagement: 1860
-    commentsToLikes: 0.046461
-    id: ckap0aec9pgok0i78e1po7m5z
+    followers: 115489
+    engagement: 162
+    commentsToLikes: 0.041312
+    id: ck0tu7xi45zkt0i19qcl5v02i
     verified: false
-    hashtags: "#model, #binghamton, #castingcalls, #nycphotographer"
-  - username: "robinlirb"
+    hashtags: "#miami, #sexy, #cute, #travel"
+  - username: "solais2"
     fullname: >-
-      Ruo Bing Li
+      Jeniffer Solais Ávila López
     bio: >-
-      Photographer based in NYC and represented by @saintlukeartists
+      📍dallas Tx ☕️ lifestyle, fitness, coffee ✉️ solaisavila@gmail.com 🙌🏼 Faith. Grace.
     location: "United States"
-    followers: 26381
-    engagement: 249
-    commentsToLikes: 0.011702
-    id: ck0ue8r87kr430i19s6i24xbo
+    followers: 18714
+    engagement: 272
+    commentsToLikes: 0.022565
+    id: ck6ty3xnf1jbg0j71g89ji833
     verified: false
-    hashtags: "#creativestudiomanager, #postproduction, #digitalart, #texture"
-  - username: "muhlisa_n"
+    hashtags: "#f45, #cowprint, #london, #marriedlife"
+  - username: "gabufords"
     fullname: >-
-      🦋Muhlisa🦋
+      Gabu Fords
     bio: >-
-      
+      I Will Do What I Can With Everything I Got @20modelmanagement 🇿🇦 | @damanmgmt 🇹🇷
     location: "United States"
-    followers: 2479
-    engagement: 8314
-    commentsToLikes: 0.030019
-    id: ck138g7sxg2v50i19lcn64xfn
+    followers: 10387
+    engagement: 614
+    commentsToLikes: 0.034676
+    id: ck0u6z3v13dfq0i19pon6k4h0
     verified: false
-    hashtags: "#mood, #positivevibes, #newyorkcity, #quarantine"
-  - username: "franklin_vanderbilt"
+    hashtags: "#fashion, #newyork, #newyear, #model"
+  - username: "frazier_19"
     fullname: >-
-      FRANKLIN VANDERBILT
+      Henry Frazier I I
     bio: >-
-      DRUMMER singer/songwriter/composer/actor/author - NYC & LA- Born in Chicago, IL
+      Black American 🇺🇸 Mens Fashion, Lifestyle & Styleblogger frazierhenry@ymail.com 📍 Houston, Tx
     location: "United States"
-    followers: 7983
-    engagement: 487
-    commentsToLikes: 0.068701
-    id: ck6tz0ln66ycw0j71ee7vteq3
+    followers: 63575
+    engagement: 374
+    commentsToLikes: 0.011405
+    id: ck55j4wchw9t30i11ker074wy
     verified: false
-    hashtags: "#rockandroll, #rocknroll, #actor, #igdaily"
-  - username: "kurnosova"
+    hashtags: "#houston, #menfashion, #tedbakerwatch, #mensfashionstyle"
+  - username: "mariagjieli"
     fullname: >-
-      Elena Kurnosova
+      ᴍᴀʀɪᴀ ɢᴊɪᴇʟɪ
     bio: >-
-      NY-Muse models LA- LA models 🎶🔥🌎🎓📸📚🎨💋🌺🌊🐅🎶 #fashionmodel #model #nyfw ♣️⭐️💧♠️
+      🇦🇱 🔺23 | NYC | Miami 📍 🔺Model | Foodie 🔺Other: @walkswithmaria 🔻
     location: "United States"
-    followers: 108160
-    engagement: 154
-    commentsToLikes: 0.011284
-    id: ck14hgzyqaaai0i19t26xmnc4
-    verified: true
-    hashtags: "#nyfw, #runway, #cfda, #runwayshow"
-  - username: "nicolewilsonart"
-    fullname: >-
-      Nicole Wilson | Artist
-    bio: >-
-      👩🏻‍🎨#Artist #Illustrator 📍NYC 💌 nicolewilsonart@gmail.com ❤️ Tag & credit me if you wish to share Personal IG : @nicolewilsonnyc COMMISSIONS OPEN
-    location: "United States"
-    followers: 10683
-    engagement: 303
-    commentsToLikes: 0.008523
-    id: ck5c38va2ytid0i11e7t3j58q
+    followers: 1604825
+    engagement: 527
+    commentsToLikes: 0.018189
+    id: ckap4oi4a864k0i78h9xfuq4y
     verified: false
-    hashtags: "#design, #wildlife, #koala, #illustratorsoninstagram"
+    hashtags: "#beaches, #miami, #curves, #mariagjieli"
+  - username: "lastnightatthemet"
+    fullname: >-
+      Last Night at the Met
+    bio: >-
+      Fabulous fashions from the Metropolitan Opera—where the opera is grand, and so is the style. #LastNightAtTheMet @metopera
+    location: "United States"
+    followers: 16588
+    engagement: 453
+    commentsToLikes: 0.008657
+    id: ck5hfvesvzjg20i113bsxygf8
+    verified: false
+    hashtags: "#stylegram, #opera, #newyorkcity, #metropolitanopera"
+  - username: "itneverblindsme"
+    fullname: >-
+      Neon Lights
+    bio: >-
+      LIMITED TIME PROMO 👇 🙌$99 (ALL SIGNS) 🌍FREE Shipping Worldwide 📬 DM To Place An Order 🎊 Yes We Do Customized Neon Signs
+    location: "United States"
+    followers: 28366
+    engagement: 482
+    commentsToLikes: 0.013018
+    id: ck8t1gua6vptg0j78u56zcfv0
+    verified: false
+    hashtags: "#neon, #fashion, #newyork, #followme"
 ---

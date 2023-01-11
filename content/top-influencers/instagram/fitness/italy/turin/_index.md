@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Turin in 2023
+title: Top 10 Fitness Instagram Influencers In Turin In 2023
 description: >-
-  Find top fitness Instagram influencers in Turin in 2023. Most popular hashtags: #fitness #photography #turin #italy.
+  Find top fitness Instagram influencers in Turin in 2023. Most popular hashtags: #turin #torino #photography #fitness.
 platform: Instagram
-hits: 16
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 16 Instagram influencers like this in Turin, Italy for you to collaborate.
+hits: 7
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 7 Instagram influencers like this in Turin, Italy for you to collaborate.
 profiles:
-  - username: "daniele.gaiti"
-    fullname: >-
-      Daniele Gaiti
-    bio: >-
-      Turin, Italy Fashion - Fitness - Travel Danielegaiti@gmail.com
-    location: "Italy"
-    followers: 7404
-    engagement: 1412
-    commentsToLikes: 0.167291
-    id: ck8t50bq08fhu0j78ttv20nhq
-    verified: false
-    hashtags: "#men, #menfashion, #guywithstyle, #fashionforman"
-  - username: "martadimatteo__"
-    fullname: >-
-      🌸 MARTA DI MATTEO 🌸
-    bio: >-
-      🎓 Economics 💄 Model 🎿 Ski Instructor 💚 Monster Energy Girl 📧 For collabs: DM or marta_dimatteo@libero.it 📍Turin, Italy 🇮🇹
-    location: "Italy"
-    followers: 36399
-    engagement: 701
-    commentsToLikes: 0.041850
-    id: ck8szh5zhofe00j78w2gx6kik
-    verified: false
-    hashtags: "#monstergirls, #sporty, #monsterenergygirl, #summertime"
-  - username: "miriammigliaccio"
-    fullname: >-
-      Miriam
-    bio: >-
-      Personal Trainer 🔥 Naples-Turin @athleticperform 10% off “miriam01” Click the link below 💖
-    location: "Italy"
-    followers: 11616
-    engagement: 1385
-    commentsToLikes: 0.023724
-    id: ck9wezrpcmmkf0j789f1w9gn0
-    verified: false
-    hashtags: "#fitnessgirl, #bodypositive, #makeup, #motivation"
-  - username: "nicodsn"
-    fullname: >-
-      Nico Schneider Ruatta
-    bio: >-
-      Fashion and Wildlife Photographer, Art Director and Social Media Strategist between Turin and Milan. IED Graduate.
-    location: "Italy"
-    followers: 33939
-    engagement: 72
-    commentsToLikes: 0.012517
-    id: ck6txe9cbxc040j71kf61g862
-    verified: false
-    hashtags: "#ai2023, #mfw, #woman, #fw2023"
-  - username: "giuse_joseph"
-    fullname: >-
-      © Giuse Joseph - Videomaker
-    bio: >-
-      📍 Turin IT and beyond ✈️ 🎥 Filmmaker || Photographer || Director 📸 Canon 5D mark iii || Sony Alpha 7S ii || Mavic Air ✏️ DM or Email for contacts
-    location: "Italy"
-    followers: 13670
-    engagement: 130
-    commentsToLikes: 0.046762
-    id: ck14guqwz74lt0i192gmg5z09
-    verified: false
-    hashtags: "#photography, #backstage, #portrait, #photographer"
   - username: "egolifeofficial"
     fullname: >-
       Eghosa Edayi
     bio: >-
       🥇 AINBB Italian Male Model Champ 💪🏽 Get flawless or die tryin’ 💢Fitness/ Fashion/ Model💢 Physiqapparel “Egolife” -10%
     location: "Italy"
-    followers: 16824
-    engagement: 485
-    commentsToLikes: 0.158790
+    followers: 17173
+    engagement: 574
+    commentsToLikes: 0.240803
     id: ckap7pf3rkzn50i7827zusl3r
     verified: false
-    hashtags: "#naturephotography, #fashionnova, #influencerkings, #photography"
-  - username: "riccardochina"
+    hashtags: "#fitnessmodel, #fashionnova, #videooftheday, #photography"
+  - username: "giuse_joseph"
     fullname: >-
-      𝐆 𝐑 𝐈 𝐆 𝐈 𝐎
+      © Giuse Joseph - Videomaker
     bio: >-
-      𝑢𝑛 𝑟𝑎𝑔𝑎𝑧𝑧𝑜 𝑐𝑜𝑛 𝑡𝑎𝑛𝑡𝑖 𝑠𝑜𝑔𝑛𝑖 𝑛𝑒𝑙 𝑐𝑎𝑠𝑠𝑒𝑡𝑡𝑜. _ contact: info@riccardochina.it
+      📍 Turin IT and beyond ✈️ 🎥 Filmmaker || Photographer || Director 📈 Drop Shipping || E-Commerce || Web Marketing ✏️ DM or Email for contacts
     location: "Italy"
-    followers: 101117
-    engagement: 490
-    commentsToLikes: 0.037823
-    id: ck5ho24fboso60i11i13hnnz0
+    followers: 13548
+    engagement: 141
+    commentsToLikes: 0.043814
+    id: ck14guqwz74lt0i192gmg5z09
     verified: false
-    hashtags: "#menwithclass, #travel, #photography, #fashion"
-  - username: "sonia_dedo"
-    fullname: >-
-      Sonia (Dedo) Barreca💎
-    bio: >-
-      Team: 🇮🇹@simonesantoro_cemiletarim🇮🇹 Torino 📬 sonia.barreca@icloud.com or Direct
-    location: "Italy"
-    followers: 26788
-    engagement: 1250
-    commentsToLikes: 0.022212
-    id: ck8wd0kj4d8xs0j78f76looq7
-    verified: false
-    hashtags: "#italiangirl, #travel, #fiume, #turin"
-  - username: "marikawaldorf"
-    fullname: >-
-      MARÌKA 🌎 WALDORF
-    bio: >-
-      𝑻𝒓𝒂𝒗𝒆𝒍𝒊𝒏𝒈🌏𝒐𝒏🗺𝒎𝒚🧳𝒉𝒆𝒆𝒍𝒔👠 💕Owner @AtelierMarikaPoleMood & @waldorfjustsport 🤍 @yamamotonutrition code:MARIKA5 🥇 🥇 EPDC’19 S-D 🥉 EG🇩🇪 🥈 EM’18 🥉 EPDC’17
-    location: "Italy"
-    followers: 11424
-    engagement: 692
-    commentsToLikes: 0.032438
-    id: ck9h9vjy3a4kf0j781uwoqu7o
-    verified: false
-    hashtags: "#aroundtheworld, #italy, #atelierunicorns, #sport"
+    hashtags: "#portrait, #love, #videomaker, #behindthescenes"
   - username: "giadamasii"
     fullname: >-
       𝐆𝐈𝐀𝐃𝐀 𝐌𝐀𝐒𝐈
     bio: >-
-      📍𝙄𝙩𝙖𝙡𝙮 Torino ▫️𝙁𝙖𝙨𝙝𝙞𝙤𝙣||𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙮 ♡ @mattia_raguzzini
+      📍𝙄𝙩𝙖𝙡𝙮 Torino ▫️𝙁𝙖𝙨𝙝𝙞𝙤𝙣||𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙮 ▫️DM for collaboration
     location: "Italy"
-    followers: 2960
-    engagement: 1325
-    commentsToLikes: 0.074557
+    followers: 3085
+    engagement: 1533
+    commentsToLikes: 0.047503
     id: ck6tmvv498mmx0j71sgeuotur
     verified: false
-    hashtags: "#fitstyle, #womenartists, #picoftheday, #stylish"
+    hashtags: "#stylish, #italian, #italians, #love"
+  - username: "_milk_and_cookies__"
+    fullname: >-
+      Giulia Premutati
+    bio: >-
+      Amante del buon cibo🍝|Torino📍 Mangio, cucino, racconto🌺 Gustando la vita dopo l’anoressia☀️ @myproteinit MILKANDCOOKIES ⬇️
+    location: "Italy"
+    followers: 16877
+    engagement: 371
+    commentsToLikes: 0.091226
+    id: ck5cayt58edwr0i11ojapqpyy
+    verified: false
+    hashtags: "#ascoltarsi, #positivita, #anoressiaitalia, #liberta"
+  - username: "claudia_pagnini"
+    fullname: >-
+      Claudia Pagnini
+    bio: >-
+      💙🏄🏼‍♀️•20• wakeboarder💙🏄🏼‍♀️ -> @liquidforcewake 🌊 -> @followwake ⚡️ -> @roxy 👙 🇮🇹italian team🇮🇹 @italian_cablewake_team
+    location: "Italy"
+    followers: 22982
+    engagement: 1079
+    commentsToLikes: 0.080003
+    id: ck6toaslsd11r0j717rv70rur
+    verified: false
+    hashtags: "#wakesurf, #bangkok, #surf, #windsurf"
+  - username: "marcelloiaconetti"
+    fullname: >-
+      InstaViolinist™
+    bio: >-
+      🟢 Hi, I take pictures and I play violin ⚪ Runner 🏃 🌿 🔴 Regional Brand Lover @huaweimobileit
+    location: "Italy"
+    followers: 19989
+    engagement: 590
+    commentsToLikes: 0.028905
+    id: ckf5nwrmv006m0j23ia2e12ge
+    verified: false
+    hashtags: "#colors, #piemonte, #turin, #italy"
+  - username: "desire_desix"
+    fullname: >-
+      𝒟𝐸𝒮𝐼𝑅𝐸’⭐️𝑅𝒪𝒞𝒞𝐻𝐼𝐸𝒯𝒯𝐼
+    bio: >-
+      📍TORINO
+    location: "Italy"
+    followers: 15506
+    engagement: 906
+    commentsToLikes: 0.039159
+    id: ckaoyomgoieac0i78t17kt5gv
+    verified: false
+    hashtags: "#mountainlovers, #cyclinglife, #travel, #bikini"
+  - username: "lovefit_girl"
+    fullname: >-
+      fitness
+    bio: >-
+      🛒Affiliato @prozisitalia ➡️Codice LOVEFIT10 🏋🏻‍♀️ #fitnessgirl 🥞 #fitbreakfast 📝 #ricettefit LINK⤵️
+    location: "Italy"
+    followers: 11487
+    engagement: 1008
+    commentsToLikes: 0.103500
+    id: ck0vv6j7hnrfu0i19g45powzl
+    verified: false
+    hashtags: "#natalericettre, #colazionefit, #breakfast, #colazione"
+  - username: "belladally"
+    fullname: >-
+      B e  l l a   D a l l y 🕊
+    bio: >-
+      — my work & creative space — Wife to Arif Iz❣️ KL, Malaysia Actor | Modest Fashion | Fitness | Traveler Ambassador of @galeriariani
+    location: "Italy"
+    followers: 2353642
+    engagement: 19
+    commentsToLikes: 0.008925
+    id: ck0w5s6lg56hg0i19v9j0zt9r
+    verified: true
+    hashtags: "#garniergreenbeauty, #garniermalaysia, #greenerneverstops, #bellaforariani"
+  - username: "siledona"
+    fullname: >-
+      Sile
+    bio: >-
+      ❤️Fashion/Fitness & 🧘‍♀️/🐈/Dentistry • Founder of @sile.style 👗 • #siledona #silestyle ✒️🇬🇧🇷🇺🇮🇹🇱🇹 📩siledona7@gmail.com • ⬇️SILE clothing store⬇️
+    location: "Italy"
+    followers: 17753
+    engagement: 829
+    commentsToLikes: 0.588470
+    id: ck13byiddxrgy0i1987nbvc01
+    verified: false
+    hashtags: "#buonaserataatutti, #instamood, #siledona, #mare"
 ---

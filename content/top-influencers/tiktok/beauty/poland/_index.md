@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Poland in 2023
+title: Top 10 Beauty TikTok Influencers In Poland In 2023
 description: >-
-  Find top beauty TikTok influencers in Poland in 2023. Most popular hashtags: #foryou #fyp #dlaciebie #dc.
+  Find top beauty TikTok influencers in Poland in 2023. Most popular hashtags: #fyp #dlaciebie #beauty #foryou.
 platform: TikTok
-hits: 107
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 107 TikTok influencers like this in Poland for you to work with.
+hits: 99
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat has 99 TikTok influencers like this in Poland for you to pitch.
 profiles:
-  - username: "drzaz_"
+  - username: "africanviolettt"
     fullname: >-
       Joanna
     bio: >-
       Photography, videography and the beauty of the world 🌻
     location: "Poland"
-    followers: 265700
-    engagement: 906
-    commentsToLikes: 0.067877
+    followers: 265500
+    engagement: 616
+    commentsToLikes: 0.098061
     id: ck8adetps5oad0j78u3mh5ihg
     verified: false
-    hashtags: "#nature, #videography, #foryou, #adventure"
+    hashtags: "#fyp, #makethisgoviral, #viral, #makerhisgoviral"
+  - username: "agataserge"
+    fullname: >-
+      agataserge
+    bio: >-
+      📸 FASHION & BEAUTY PHOTOGRAPHER 📸 📍New York / Warsaw / Milan📍
+    location: "Poland"
+    followers: 9640
+    engagement: 751
+    commentsToLikes: 0.029322
+    id: ck8z1is1a1s3t0j78fymu68vt
+    verified: true
+    hashtags: "#fashionphotography, #beforeandafter, #behindthescenes, #fotografia"
   - username: "aga_grzelak"
     fullname: >-
       Agnieszka Grzelak 
     bio: >-
       💭Sklep: pibuya.pl💭 🎥 Agnieszka Grzelak Beauty & Vlog IG: agagrzelakk 🇵🇱
     location: "Poland"
-    followers: 748400
-    engagement: 1645
-    commentsToLikes: 0.008389
+    followers: 742600
+    engagement: 1622
+    commentsToLikes: 0.007486
     id: ck8vzpbnxx0xv0j78wvycvoxr
     verified: true
-    hashtags: "#zigkinetica, #imamess, #bubbletea, #paris"
+    hashtags: "#bubbletea, #harrypotter, #przepis, #lipsync"
   - username: "_joanh"
     fullname: >-
       _joanh
     bio: >-
       INSTAGRAM: @_joanh CONTACT: joanheyy@gmail.com #BeautyInfluencer
     location: "Poland"
-    followers: 5878
-    engagement: 1145
-    commentsToLikes: 0.016024
+    followers: 6790
+    engagement: 883
+    commentsToLikes: 0.023841
     id: ck8faqy5r4ihz0j786k1euu7a
     verified: false
-    hashtags: "#makijaz, #fyp, #foryoupage, #norvina"
-  - username: "mamiczka"
-    fullname: >-
-      Weronika Heck
-    bio: >-
-      Fashion&Beauty&Lifestyle
-    location: "Poland"
-    followers: 643300
-    engagement: 1137
-    commentsToLikes: 0.006016
-    id: ck8kn9u2xc7zk0j789iwy6512
-    verified: true
-    hashtags: "#foryou, #foryoupage, #makeup, #kylieskin"
+    hashtags: "#makeuptutorial, #dc, #dlaciebie, #anastasiasoare"
   - username: "magdapieczonkamakeup"
     fullname: >-
       Magdapieczonkamakeup
     bio: >-
       💄 Makijażystka Wszech Czasów wizaż.pl 💄 Beauty Influencer Roku magazynu JOY
     location: "Poland"
-    followers: 174100
-    engagement: 472
-    commentsToLikes: 0.005005
+    followers: 191700
+    engagement: 607
+    commentsToLikes: 0.005496
     id: ck8klezme3lnr0j78c7paqhwz
     verified: true
-    hashtags: "#tiktokchallenge, #tiktokmakeup, #bestfriendscheck, #quarantine"
+    hashtags: "#christmastime, #halloweenmakeup, #tiktokgirl, #bestfriendscheck"
+  - username: "mamiczka"
+    fullname: >-
+      Mamiko
+    bio: >-
+      Fashion&Beauty&Lifestyle
+    location: "Poland"
+    followers: 643200
+    engagement: 1076
+    commentsToLikes: 0.006849
+    id: ck8kn9u2xc7zk0j789iwy6512
+    verified: true
+    hashtags: "#foryoupage, #foryou, #makeup, #transformation"
   - username: "monikalewczuk"
     fullname: >-
       Monika Lewczuk
     bio: >-
       Artist 🎤 Beauty • Healthy Lifestyle • Fashion 💄🌶 📩: management@nowascena.pl
     location: "Poland"
-    followers: 6289
-    engagement: 509
-    commentsToLikes: 0.020855
+    followers: 8530
+    engagement: 520
+    commentsToLikes: 0.019898
     id: cka5zmovxne5q0i78wg18vujn
     verified: false
-    hashtags: "#healthyhabits, #beauty, #fyp, #veganrecipe"
-  - username: "nails_ac"
-    fullname: >-
-      Angelika Cegla
-    bio: >-
-      Filmy i instruktaże o paznokciach❤️ Instagram beautyandstylist
-    location: "Poland"
-    followers: 3406
-    engagement: 1301
-    commentsToLikes: 0.009843
-    id: ck8f8vek33m4f0j785zn64fl0
-    verified: false
-    hashtags: "#newnails, #polishnails, #foryou, #nails"
-  - username: "serszynkaiananas"
-    fullname: >-
-      Pauluu❤️
-    bio: >-
-      Paula 🤡 16 soocer ⚽️ acro 🤸 scout🏕 10k🔒
-    location: "Poland"
-    followers: 5557
-    engagement: 937
-    commentsToLikes: 0.057586
-    id: ckae15nqun7300i78m0lnjyg8
-    verified: false
-    hashtags: "#fail, #backhandspring, #beautyfull, #tired"
+    hashtags: "#dc, #makeup, #perfumy, #trend"
   - username: "aleksandra7477"
     fullname: >-
       Aleksandra
     bio: >-
-      Hi✌🏻 26🤦🏼‍♀️♀️ Polish 🇵🇱 Artist 🎨 Inst: beyolcia😘
+      Hi✌🏻 27🤦🏼‍♀️♀️ Polish 🇵🇱 Artist 🎨 Inst: beyolcia😘
     location: "Poland"
-    followers: 38200
-    engagement: 1581
-    commentsToLikes: 0.009181
+    followers: 37700
+    engagement: 1571
+    commentsToLikes: 0.009210
     id: ckbqquhtxbkoi0j23okt0zqfe
     verified: false
-    hashtags: "#like, #girl, #funny, #tiktokart"
+    hashtags: "#dlaciebie, #funny, #polishgirls, #drawing"
   - username: "martatazbir"
     fullname: >-
-      Marta Tazbir
+      Marta Tazbir 👑 Klinika Tazbir
     bio: >-
-      Jestem założycielką Kliniki Tazbir. Moja praca jest moją największą pasją. 🌹🕊
+      Medycyna estetyczna, laseroterapia, kosmetologia Hi-tech, modelowanie sylwetki.
     location: "Poland"
-    followers: 38100
-    engagement: 328
-    commentsToLikes: 0.043600
+    followers: 41700
+    engagement: 243
+    commentsToLikes: 0.037187
     id: ck9dv46ifj8bn0j78wh4exdsa
     verified: false
-    hashtags: "#aesthetic, #klinikatazbir, #dc, #mylevismyvibe"
+    hashtags: "#beautyandthebeast, #rf, #medycynaestetyczna, #trening"
+  - username: "noemisparkle"
+    fullname: >-
+      Noemi Sparkle
+    bio: >-
+      YT: NOEMISPARKLE 🔒223k IG: NOEMISPARKLE 🔒68k LIKEE APP: NOEMISPARKLE🥰 🇵🇱
+    location: "Poland"
+    followers: 43900
+    engagement: 1025
+    commentsToLikes: 0.005827
+    id: ck97wp2n3s1w10j78v0pssiki
+    verified: false
+    hashtags: "#foryou, #funny, #dlaciebie, #couple"
 ---

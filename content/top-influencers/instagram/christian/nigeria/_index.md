@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Nigeria in 2023
+title: Top 10 Christian Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top christian Instagram influencers in Nigeria in 2023. Most popular hashtags: #endsars #tiktok #endpolicebrutality.
+  Find top christian Instagram influencers in Nigeria in 2023. Most popular hashtags: #endsars #natural #explorepage.
 platform: Instagram
-hits: 19
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 19 Instagram influencers like this in Nigeria for you to work with.
+hits: 8
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 8 Instagram influencers like this in Nigeria for you to work with.
 profiles:
   - username: "hafizayahayabello"
     fullname: >-
@@ -13,118 +13,94 @@ profiles:
     bio: >-
       Philanthropist, Patron Christian Muslim Unity Foundation. Chairperson, Mothercare Welfare Outreach. Personal Page: @Hafiza_Bello
     location: "Nigeria"
-    followers: 23136
-    engagement: 362
-    commentsToLikes: 0.051352
+    followers: 23346
+    engagement: 378
+    commentsToLikes: 0.054052
     id: ck5hrdf2auon80i11ph027lbx
     verified: false
-    hashtags: "#staysafe, #happymothersday, #eidmubarak, #jummahmubarak"
-  - username: "rekiyayusuf"
-    fullname: >-
-      REKIYA/ MIMI
-    bio: >-
-      CHRISTIAN | PRESENTER | HOST 🐦@rekiyayusuf 👻@rekiyayusuf 📧 yusufrekiya@gmail.com
-    location: "Nigeria"
-    followers: 39208
-    engagement: 204
-    commentsToLikes: 0.059688
-    id: ck5chi9apqu050i11ajwebpkj
-    verified: false
-    hashtags: "#endpolicebrutality, #endsars, #yawnaijatv, #coffeetalk"
-  - username: "lily.v.peters"
-    fullname: >-
-      Lily Peters
-    bio: >-
-      Model: @gngmodelsafrica Faith Freak[CHRISTIAN] 5ft 7inches (170cm) Petite Model Bsc. MIS 🎓🎓 ABUJA, NIGERIA🇳🇬
-    location: "Nigeria"
-    followers: 3627
-    engagement: 899
-    commentsToLikes: 0.048961
-    id: ck5q75iza02um0i116f82a8ia
-    verified: false
-    hashtags: "#photography, #neemjahofficial, #beauty, #canoneosr5"
+    hashtags: "#stayhome, #staysafe, #happymothersday, #eidmubarak"
   - username: "werucheopia"
     fullname: >-
       Weruche Opia
     bio: >-
       Christian.Actor.Chic 💋
     location: "Nigeria"
-    followers: 33803
-    engagement: 500
-    commentsToLikes: 0.045208
+    followers: 36957
+    engagement: 625
+    commentsToLikes: 0.045043
     id: ck6tou0gbg3y80j71zugwigiv
     verified: false
-    hashtags: "#imaydestroyyou, #georgefloyd, #whocantellidesperatelywanttogothecaribbean, #haveacuteweek"
-  - username: "diimejii"
+    hashtags: "#glorytogodalways, #ellelist2020, #godisgood, #endsars"
+  - username: "rekiyayusuf"
     fullname: >-
-      Dimeji (Oladimeji Ajegbile)
+      REKIYA/ MIMI
     bio: >-
-      Christian/Creative 💡 Helping creatives simplify the creative process 👥 Join the community @the.simplecreative 👇 New Podcast Ep w/ @directedbyoscar
+      CHRISTIAN | PRESENTER | HOST 🐦👻@rekiyayusuf 📧 yusufrekiya@gmail.com
     location: "Nigeria"
-    followers: 9691
-    engagement: 462
-    commentsToLikes: 0.218896
-    id: ckap9cl9xs3y50i78fmsqmvs9
+    followers: 42829
+    engagement: 319
+    commentsToLikes: 0.060517
+    id: ck5chi9apqu050i11ajwebpkj
     verified: false
-    hashtags: "#freelance, #poem, #writersofig, #designthink"
-  - username: "oliveemodi"
+    hashtags: "#coffeetalk, #endsars, #birthdaygirl, #thankgoditsfriyayyyy"
+  - username: "nikitasgram"
     fullname: >-
-      Olive Emodi
+      NiKITA | K I T A
     bio: >-
-      Founder, @theoliveemodinetwork Ambassador, @endsingleuseplasticng Multi-award winning TV Host/Producer MC Actor Lawyer Christian 📧:olive.emodi1@gmail.
+      Checkout my YouTube for new releases! 🇺🇸 🇳🇬 Dr Dolor Entertainment Bookings: 0703-053-0970 BookNikitagram@gmail.com
     location: "Nigeria"
-    followers: 62862
-    engagement: 95
-    commentsToLikes: 0.131659
-    id: ck5bv7cygj48n0i11awagfpxh
+    followers: 25100
+    engagement: 641
+    commentsToLikes: 0.058504
+    id: ck5hoafg7p8200i11b5nr5xmj
+    verified: false
+    hashtags: "#endsars, #endpolicebrutality, #santorini, #5for5"
+  - username: "monicafriday1"
+    fullname: >-
+      Monica Friday
+    bio: >-
+      Soul winner Award winning Actress Film-maker Content creator Realtor @mfhomes1 AJ Born & Bred Brand Amb @okinarewaskincareline 👇🏾youtube
+    location: "Nigeria"
+    followers: 167825
+    engagement: 91
+    commentsToLikes: 0.055244
+    id: ck134ms37x77y0i190l3u3h8u
     verified: true
-    hashtags: "#funny, #nigeria, #memes, #god"
-  - username: "thedarkamberry"
+    hashtags: "#theseries, #blessed, #ejiro, #thisispersonalforme"
+  - username: "obeystina"
     fullname: >-
-      Tda
+      Christine Rand
     bio: >-
-      🌸 @kiyedaa skin💕 . 🌸 God||Beauty Influencer||Brand Influencer . 🌸 Hit my contact button for collaborations/promotions . 🌸Jeremiah29:11
+      God First |Prov 3:5 |Dallas TX| Natural Hair Enthusiast | Youtuber (rebooting) @donatasco Discount Code : Christine10 My 📸 page : @crandphotography
     location: "Nigeria"
-    followers: 17703
-    engagement: 223
-    commentsToLikes: 0.040663
-    id: ck15s85d4bpp10i19hj6krt18
+    followers: 2255
+    engagement: 1958
+    commentsToLikes: 0.082855
+    id: ckf5rl27dd25e0j230ixwqlm9
     verified: false
-    hashtags: "#blackgirlmakeup, #christiangirl, #beautytip, #blackgirlmakeupvideos"
-  - username: "darkskin_tosin"
+    hashtags: "#naturalhairstyles, #blackhairmagic, #teamnatural, #natural"
+  - username: "officialujuokoli"
     fullname: >-
-      TOSIN IYANUOLUWA OLAJIRE
+      ujuokoli
     bio: >-
-      🌻 🌻🌻 @selectmodellondon @musemodelsnyc @premium_models @fabbrica.milano @fifthmodels @bossmodelsa I am a living Miracle of God’s Grace Be a warrior
+      NOLLYWOOD’S SWEETHEART ❤️.ACTOR 🎥📽. ADA AKOKWA.... I believe in God⛪,dogged christain🙏,lover of arts🌏,music addict🎼🎶🎤,love to LOVE💏,fetish for shoes👠👟
     location: "Nigeria"
-    followers: 7658
-    engagement: 1998
-    commentsToLikes: 0.087280
-    id: ck0vyk4so4ehm0i19fptvpbjt
+    followers: 665636
+    engagement: 136
+    commentsToLikes: 0.018115
+    id: ckf5rsjssdrp90j23akjap8pr
     verified: false
-    hashtags: "#explorepage, #blackgirlmagic, #exploremore, #explore"
-  - username: "adokiye"
+    hashtags: "#adaakokwa, #repost, #happygirlsaretheprettiest, #ingodwetrust"
+  - username: "uzodinma_g"
     fullname: >-
-      Arc, Amb, ADOKIYE NGOZI KYRIAN
+      Uzodinma Gift🌺🌺
     bio: >-
-      GOD FIRST🙏🏼 PEACE:! Ambassador For Peace😇 SnapChat:! @adokiyeyvonne 📧☎️: kyrianadokiyey@gmail.com teta nu na ula😇
+      Welcome to my page✨✨ Personal gallery✨ Virgo♍️
     location: "Nigeria"
-    followers: 99026
-    engagement: 119
-    commentsToLikes: 0.041662
-    id: ck5hoaxm6p8yq0i11zxgmg1va
-    verified: true
-    hashtags: "#jordan, #alabama, #travel, #endsars"
-  - username: "kimmygabriela__"
-    fullname: >-
-      ✰ K I M M Y  G A B R I E L A ✰
-    bio: >-
-      “LIKE A FOOL” 🖤 OUT NOW ✩American Idol S18 (top 20) ✩check out my tiktok/SoundCloud
-    location: "Nigeria"
-    followers: 113072
-    engagement: 422
-    commentsToLikes: 0.025198
-    id: ck14kmjahq9180i19en3g894y
+    followers: 3763
+    engagement: 660
+    commentsToLikes: 0.115014
+    id: ckaowcbz88au40i78te9hv4ip
     verified: false
-    hashtags: "#musician, #voice, #music, #tiktok"
+    hashtags: "#gaintrick, #gaintrain, #beauty, #gains"
 ---

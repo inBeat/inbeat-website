@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Canada in 2023
+title: Top 10 Chefs Instagram Influencers In Canada In 2023
 description: >-
-  Find top chefs Instagram influencers in Canada in 2023. Most popular hashtags: #sponsored #foodphotography #campeveryday.
+  Find top chefs Instagram influencers in Canada in 2023. Most popular hashtags: #canada #chocolate #vancouver.
 platform: Instagram
-hits: 121
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 121 Instagram influencers like this in Canada for you to work with.
+hits: 50
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 50 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "guayfrederique"
-    fullname: >-
-      Frédérique Guay
-    bio: >-
-      Chef d’antenne, Animatrice, Reporter🎾⚽️, @tvasports et @tvanouvelles 👱🏼‍♀️ . Fitness. Federer. Doritos. . Partenariats: martin@reverberesmedia.com
-    location: "Canada"
-    followers: 15035
-    engagement: 783
-    commentsToLikes: 0.042549
-    id: ck5c8asjh93mg0i11kqrrr0in
-    verified: false
-    hashtags: "#isole, #imfc, #sis, #tbt2019"
   - username: "kelseylmorin"
     fullname: >-
       Kelsey Morin
     bio: >-
-      Wife l fur mom Local goods & adventure seeker, wine drinker, wannabe chef and content creator. 📍Barrie, Ontario 🇨🇦
+      Wife l fur mom Local goods & adventure seeker, wine drinker, wannabe chef and content creator. Founder of @designingpolly 📍Barrie, Ontario 🇨🇦
     location: "Canada"
-    followers: 4136
-    engagement: 825
-    commentsToLikes: 0.193284
+    followers: 4440
+    engagement: 897
+    commentsToLikes: 0.218197
     id: ck14huj75c7mo0i196knqlsw2
     verified: false
-    hashtags: "#mymetro, #metroloveslocal, #rawf20, #sponsored"
-  - username: "shahirmassoud"
+    hashtags: ""
+  - username: "moppie_and_chef"
     fullname: >-
-      Shahir Massoud
+      𝐌𝐎𝐏𝐏𝐈𝐄 & 𝐂𝐇𝐄𝐅 ▫️frenchies
     bio: >-
-      Chef Spokesperson @butterball_ca Guest chef on @themarilyndenisshow
+      * Frenchie half sister & brother 🇳🇱 * Moppie 7-8-15 & Chef 6-10-16 * Double trouble * MOPPIECHEF10 @rebel.and.moon
     location: "Canada"
-    followers: 3733
-    engagement: 1013
-    commentsToLikes: 0.102795
-    id: ck5q8dbne5m220i1125c9hhke
+    followers: 11830
+    engagement: 872
+    commentsToLikes: 0.202949
+    id: ck5zyb3k09jzk0i14n4in3181
     verified: false
-    hashtags: "#christmas, #giveaway, #blackouttuesday"
-  - username: "ryanmagdanz"
-    fullname: >-
-      Ryan Magdanz
-    bio: >-
-      Chef, Accountant, Director @TothMedia Professing My Love For @MadisonJoyCo One Photo At A Time! #instahusband😂 🗻 | John 3:8 | 🇨🇦 Vancouver
-    location: "Canada"
-    followers: 13627
-    engagement: 222
-    commentsToLikes: 0.042266
-    id: ck14jlavskwun0i195016ubav
-    verified: false
-    hashtags: "#vancouver, #travel, #ourplanetdaily, #visualcollective"
-  - username: "archerthefrenchie.to"
-    fullname: >-
-      ARCHER THE FRENCHIE
-    bio: >-
-      🚫 Not a Pug 👨🏻‍🍳 Part-time Chef #BakingWithArcher 🎒 ARCHER10 ➡️ @barkindustry 🛒 ARCHERTORONTO10 ➡️ @frenchie_bulldog 🖥 TREAT RECIPES 👩🏻‍🍳👨🏻‍🍳👇🏼
-    location: "Canada"
-    followers: 53929
-    engagement: 346
-    commentsToLikes: 0.096751
-    id: ck137p1ffcnip0i19ostrtpdl
-    verified: false
-    hashtags: "#wheredidtheweekendgo, #tbt, #thisface, #halloween2020"
+    hashtags: "#cuteaf, #dog, #hond, #dogsofinstagram"
   - username: "sweetlyraw"
     fullname: >-
       Heather Pace l Healthy Recipes
     bio: >-
-      Victoria BC 🇨🇦 Trained chef 👩‍🍳 Healthy recipes: sweetlyraw.com 💕Cookbooks📚YouTube: Heather Pace (🍰food & yoga 🧘‍♀️)🎥 Recipe development. Order my 🍫👇🏻
+      Victoria BC 🇨🇦 @sweetlyraw.sensual Trained chef 👩‍🍳 Healthy Recipes: sweetlyraw.com 💕YouTube: Heather Pace(food & yoga)✨ Certified yoga instructor🧘‍♀️
     location: "Canada"
-    followers: 29857
-    engagement: 144
-    commentsToLikes: 0.239626
+    followers: 29315
+    engagement: 114
+    commentsToLikes: 0.279833
     id: ck0u2f8jhzrhy0i19k6ivtn3i
     verified: false
-    hashtags: "#healthyfoodshare, #healthyrecipes, #yyj, #vegandessert"
+    hashtags: "#veganfood, #rawdessert, #sweetlyraw, #yyjfoodie"
   - username: "livforcake"
     fullname: >-
       olivia bogacki || liv for cake
     bio: >-
-      👩🏼‍🍳 Pastry Chef, Recipe Developer, Photographer 🍰 Classic Cake Recipes with a Modern Twist 📍 Fort Langely, BC 👇🏻 Recipes
+      👩🏼‍🍳 Pastry Chef, Recipe Developer, Photographer 🍰 Classic Cake Recipes with a Modern Twist 📍 Vancouver, BC 👇🏻 Recipes
     location: "Canada"
-    followers: 124212
-    engagement: 194
-    commentsToLikes: 0.028186
+    followers: 127714
+    engagement: 229
+    commentsToLikes: 0.023148
     id: ck0u6tay92yid0i19uwtthzo6
     verified: false
-    hashtags: "#treatweekbc, #notsponsored, #iloveanimals"
-  - username: "chefpaulwahlberg"
+    hashtags: "#countdowntochristmas"
+  - username: "chefalexchen"
     fullname: >-
-      Paul Wahlberg
+      Alex Chen
     bio: >-
-      Official Instagram page of Chef Paul Wahlberg @wahlburgers and @almanove
+      Culinary Exe of @suttonplacehotels+@blvdyvr | Team 🇨🇦 top 10 Bocuse d'Or 2013 | 2018 CDN Culinary Champion 🏆 | #vanmagawards 2018 Chef of the Year 👨‍🍳
     location: "Canada"
-    followers: 112629
-    engagement: 633
-    commentsToLikes: 0.035686
-    id: ck0u11jflvfv90i191jo1alhh
-    verified: true
-    hashtags: "#wahlburgershappyplace, #wahlburgersstc, #smaht, #wahlchefjunior"
-  - username: "chefdannysmiles"
+    followers: 7727
+    engagement: 589
+    commentsToLikes: 0.113585
+    id: ck137z2rddpw60i1941a9yvfs
+    verified: false
+    hashtags: "#ironchefcanada, #bgeteamgreen, #artofplating, #beautifulcuisines"
+  - username: "geoffgulevich"
     fullname: >-
-      Danny Smiles
+      Geoff Gulevich - “Gully”
     bio: >-
-      Daniele Francis. Chef & Co-founder of Mise En Place @mymep.ca One of the chefs at Osheaga’s Artist World. 🟧🟥
+      🇨🇦 Professional Freeride Mountain Biker. Mountain Human. Photo guy. Writer. Producer. Karate Master.Iron Chef.Karaoke Enthusiast. YouTuber.
     location: "Canada"
-    followers: 38135
-    engagement: 315
-    commentsToLikes: 0.022043
-    id: ck13blmrrw0i80i19ca2ni8er
+    followers: 113913
+    engagement: 347
+    commentsToLikes: 0.019650
+    id: ck13821oee4m60i19o09qzhi7
     verified: true
-    hashtags: "#staropramenquebec, #table, #partenaire"
+    hashtags: "#bike, #myorbea, #wearethecommission, #rideshimano"
+  - username: "chefantoniopark"
+    fullname: >-
+      Antonio Park
+    bio: >-
+      Chef/Owner/Dishwasher @parkresto @cafebazin @jatobamontreal @lecathcart @kampaigardenmtl @flyjinmtl & more Culinary Partner @aircanada PARK DELIVERS 🚚
+    location: "Canada"
+    followers: 126570
+    engagement: 143
+    commentsToLikes: 0.025592
+    id: ck0w6ogi49jk80i19977sw13c
+    verified: false
+    hashtags: "#quebec, #westmount, #valentinesday, #montreal"
+  - username: "dyansolomon"
+    fullname: >-
+      Dy
+    bio: >-
+      Chef by trade, co-owner of @olive_et_gourmando +@foxymtl + @caffeunpodipiu I WROTE A COOKBOOK! The Olive et Gourmando Cookbook.🤸‍♂️🤸‍♂️🤸‍♂️
+    location: "Canada"
+    followers: 4404
+    engagement: 877
+    commentsToLikes: 0.187887
+    id: ck5zm1l7rlqj80i14i6jhtrdn
+    verified: false
+    hashtags: "#oldmontreal, #womenchefs, #caffeunpodipiu, #restaurantfoxy"
   - username: "munchiescure"
     fullname: >-
       Zeem 🇨🇦🇦🇫
     bio: >-
       Social Media Marketing/Content Creator, & Chef (Toronto, & abroad) Email for collabs 👉 Munchiescure@hotmail.com
     location: "Canada"
-    followers: 31322
-    engagement: 225
-    commentsToLikes: 0.080631
+    followers: 31222
+    engagement: 114
+    commentsToLikes: 0.108608
     id: ck6tzi7p59uv60j719tqro32t
     verified: false
-    hashtags: "#munchonthis, #eater, #eeeeeats, #f52grams"
+    hashtags: "#blogto, #torontoeats, #toronto, #reelsinstagram"
+  - username: "micheleforgione"
+    fullname: >-
+      Michele Forgione
+    bio: >-
+      Exec Chef|Co-Owner @impastomtl @pizzeriagema @cheztousignant @vestamtl @resto.joon @la_regie.ca|Co-Owner and brand ambassador #AlimentsFaitaForgione
+    location: "Canada"
+    followers: 26619
+    engagement: 175
+    commentsToLikes: 0.033006
+    id: ck8t0jk5ks9w40j78d3p5lg84
+    verified: false
+    hashtags: "#opelamadonna, #alimentsfaitaforgione, #littleitaly, #behya"
 ---

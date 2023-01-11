@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In United Kingdom in 2023
+title: Top 10 Comedians TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top comedians TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #foryoupage #comedian.
+  Find top comedians TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #comedy #ukcomedy.
 platform: TikTok
-hits: 95
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 95 TikTok influencers like this in United Kingdom for you to pitch.
+hits: 80
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 80 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "thebenlangleyshow"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       BGT Misheard Lyric Comedian. CBeebies Treasure Champs Hippodrome Circus Comic
     location: "United Kingdom"
-    followers: 16200
-    engagement: 2376
-    commentsToLikes: 0.026744
+    followers: 28700
+    engagement: 2370
+    commentsToLikes: 0.037122
     id: ckdhnyucp0s940j23aovz3h8h
     verified: false
-    hashtags: "#foryoupage, #misheardlyrics, #letslove, #foryou"
+    hashtags: "#bgt, #thebenlangleyshow, #fyp, #backforgood"
+  - username: "amberdoigthorne"
+    fullname: >-
+      Amber Doig-Thorne
+    bio: >-
+      🎬Actor/Comedian🤪 Email: Amber@AmberDoigThorne.com 3 Million Combined Followers
+    location: "United Kingdom"
+    followers: 288600
+    engagement: 762
+    commentsToLikes: 0.038392
+    id: ck8ndr8hfk9580j78qxu5m24u
+    verified: true
+    hashtags: "#acting, #london, #actress, #comedy"
   - username: "sofie.hagen"
     fullname: >-
       Sofie Hagen
     bio: >-
-      I’m a comedian, the accent is Danish and I’m verified because I know your mom.
+      I’m a comedian, I’m nonbinary (she/he/they) and I’m verified cuz I know your mom
     location: "United Kingdom"
-    followers: 38800
-    engagement: 1026
-    commentsToLikes: 0.040579
+    followers: 46900
+    engagement: 1382
+    commentsToLikes: 0.024919
     id: ck964h8ifyp3u0j787fr7h50j
     verified: true
-    hashtags: "#duet, #oddlysatisfying, #asmr, #sharpei"
-  - username: "castmeimjane"
-    fullname: >-
-      Cast Me I’m Jane Postlethwaite
-    bio: >-
-      🇬🇧 Comedian • Writer • Actor Road to 20k Comedy Characters, Sketches & Duets
-    location: "United Kingdom"
-    followers: 11900
-    engagement: 1041
-    commentsToLikes: 0.118298
-    id: ckcptcflfo0dx0j236mrx9403
-    verified: false
-    hashtags: "#duet, #foryou, #gum, #fyp"
-  - username: "olaffalafel"
-    fullname: >-
-      Olaf Falafel
-    bio: >-
-      Comedian, illustrator, CEO of idiot. Real name Derek Chickpeas.
-    location: "United Kingdom"
-    followers: 16000
-    engagement: 1058
-    commentsToLikes: 0.029440
-    id: ck8qmy11vs74o0j78vclr0f8s
-    verified: false
-    hashtags: "#foryou, #fyp, #ukcomedy, #foryoupage"
-  - username: "joverma1"
-    fullname: >-
-      jo verma
-    bio: >-
-      comedian,vlogger Laughter ke patake youtuber desi tadka live https://youtu.be/Y5
-    location: "United Kingdom"
-    followers: 2378
-    engagement: 513
-    commentsToLikes: 0.070429
-    id: ckce5ybl4ka510j233spqbrd7
-    verified: false
-    hashtags: "#funnyhindidialogues, #comedyindia, #funnytiktokvideos, #funnyvideo"
-  - username: "thekevindurham"
-    fullname: >-
-      TheKevinDurham
-    bio: >-
-      I'm a celebrity interviewer, comedian, writer, entrepreneur. kevindurham.com
-    location: "United Kingdom"
-    followers: 12000
-    engagement: 543
-    commentsToLikes: 0.049412
-    id: ckb9gd59059og0j231krx1ue1
-    verified: false
-    hashtags: "#redcarpet, #celebrityinterview, #comedyuk, #foryou"
+    hashtags: "#reuoploadingmypopulartiktokswithcaptions, #sharpei, #dogsoftiktok, #dogtok"
   - username: "salmanmalikcomedy"
     fullname: >-
       Salman Malik Comedyn
     bio: >-
       London based Standup Comedian 🙂✌🇵🇰🇬🇧🇧🇭 Follow INSTA: SalmanMalikComedian
     location: "United Kingdom"
-    followers: 7363
-    engagement: 504
-    commentsToLikes: 0.077118
+    followers: 13500
+    engagement: 965
+    commentsToLikes: 0.175750
     id: ckb9ppx61l2ag0j23m1lggi57
     verified: false
-    hashtags: "#stitch, #hindi, #urdu, #islamic"
-  - username: "kelly_convey"
+    hashtags: "#stitch, #uk, #duet, #salmanmalikcomedian"
+  - username: "ediffied"
     fullname: >-
-      Kelly Convey
+      ediffied
     bio: >-
-      Standup comedian BC (Before Corona) ... now my life is TikTok & Alcohol
+      Happily married. Family Content creator Upcoming comedian Dm on IG for ads/promo
     location: "United Kingdom"
-    followers: 14200
-    engagement: 786
-    commentsToLikes: 0.056693
-    id: ckcj71qn16gdk0j23joxryw1c
+    followers: 802000
+    engagement: 1070
+    commentsToLikes: 0.024075
+    id: ckb9cyjbozyal0j23n5zcfhno
     verified: false
-    hashtags: "#fyp, #funny, #dogs, #bulldog"
+    hashtags: "#braidedwig, #toilethack, #duet, #azspltd"
+  - username: "olaffalafel"
+    fullname: >-
+      Olaf Falafel
+    bio: >-
+      Comedian, illustrator, CEO of idiot. Real name Derek Chickpeas.
+    location: "United Kingdom"
+    followers: 16500
+    engagement: 1090
+    commentsToLikes: 0.027963
+    id: ck8qmy11vs74o0j78vclr0f8s
+    verified: false
+    hashtags: "#foryou, #foryoupage, #ukcomedy, #fyp"
+  - username: "troatwreacts"
+    fullname: >-
+      TROATW Reacts
+    bio: >-
+      Comedian, Actor, Autistic And Bi 26/06/94 Youtuber, Entertainer Joined 12/03/20
+    location: "United Kingdom"
+    followers: 32400
+    engagement: 1002
+    commentsToLikes: 0.027263
+    id: cka7wo4ab19s00i784j5j1pbw
+    verified: false
+    hashtags: "#nickelodeon, #southpark, #fyp, #nickelodeonuk"
+  - username: "thekevindurham"
+    fullname: >-
+      TheKevinDurham
+    bio: >-
+      I'm a celebrity interviewer, comedian, writer, entrepreneur. kevindurham.com
+    location: "United Kingdom"
+    followers: 11900
+    engagement: 520
+    commentsToLikes: 0.049740
+    id: ckb9gd59059og0j231krx1ue1
+    verified: false
+    hashtags: "#celebrityinterview, #tiktokcomedy, #funnysong, #ukcomedy"
   - username: "larrydeancomedy"
     fullname: >-
       Larry Dean
     bio: >-
-      Glaswegian🏴󠁧󠁢󠁳󠁣󠁴󠁿 Comedian/Goon🤡 Bender🏳️‍🌈 Check out my Insta/FB/YT
+      Glaswegian 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Comedian 🤡 Vagina Dodger 🏳️‍🌈
     location: "United Kingdom"
-    followers: 95500
-    engagement: 1256
-    commentsToLikes: 0.006076
+    followers: 104800
+    engagement: 1264
+    commentsToLikes: 0.007013
     id: ck960lgy7iv3j0j78v5fduvl9
     verified: false
-    hashtags: "#standup, #funny, #scotland, #comedy"
-  - username: "darrenwalshpuns"
+    hashtags: "#comedian, #tiktokglasgow, #funny, #panelshow"
+  - username: "annabelkeaneee"
     fullname: >-
-      Darren Walsh Puns
+      Annabel :) 
     bio: >-
-      Comedian. Probably older then you. Puns.
+      i wanted to be a dancer, apparently I’m a comedian now
     location: "United Kingdom"
-    followers: 35700
-    engagement: 902
-    commentsToLikes: 0.014856
-    id: ck83z7yedyiga0j78ehpycuj5
+    followers: 2825
+    engagement: 896
+    commentsToLikes: 0.022118
+    id: ck92tyhspjwha0j78zdtivjsb
     verified: false
-    hashtags: "#edfringe, #covid19, #ukcomedy, #gags"
+    hashtags: "#monclerbubbleup, #fyp, #glowup, #foryoupage"
 ---

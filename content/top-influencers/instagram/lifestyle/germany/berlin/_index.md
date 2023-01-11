@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Berlin in 2023
+title: Top 10 Lifestyle Instagram Influencers In Berlin In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #lifestyle #happy #love.
+  Find top lifestyle Instagram influencers in Berlin in 2023. Most popular hashtags: #lifestyle #berlin #fashion #ootd.
 platform: Instagram
-hits: 585
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 585 Instagram influencers like this in Berlin, Germany for you to connect with.
+hits: 427
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 427 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "jf_maier"
+  - username: "ledea_dominik_"
     fullname: >-
-      Jonas Maier
+      Ledea Dominik
     bio: >-
-      📍Berlin, Germany Mensfashion | Lifestyle 📩 info@jfmaier.com #menswear #lifestyle #berlin
+      📍Berlin/Leipzig 📸 Model #opposuits 🎬In aller Freundschaft 🎬 Mieten Kaufen Wohnen 🎬 Abenteuer Leben 🎬Erstmal zu Penny 🎬R&V Versicherung
     location: "Germany"
-    followers: 227058
-    engagement: 177
-    commentsToLikes: 0.036511
-    id: ck5hhxiywakb90i11372jdl0r
+    followers: 46536
+    engagement: 1271
+    commentsToLikes: 0.001311
+    id: ck5pyto1qxr1q0i11d3mqwq1g
     verified: false
-    hashtags: "#cardiomotivation, #herbstlook, #fitguys, #sea"
-  - username: "fepaka"
+    hashtags: "#fashion, #insta, #nice, #photography"
+  - username: "baerliner_luft"
     fullname: >-
-      FELICITAS PAULA KADELKE
+      Berliner Luft
     bio: >-
-      ❤️ SONY MUSIC ARIOLA ❤️ 💋 1/2 @bonitaz.band & Lea @lea.tutu 💋 💌 management@bonitaz.de 💌 ❣️ FIRST SINGLE ⬇️⬇️⬇️❣️
+      Erste Berliner Luft - Community Seite © #nosponsoring durch Schilkin -don't drink and drive- Fotos von euch per PN sind gerne gesehen ☺
     location: "Germany"
-    followers: 7059
-    engagement: 1440
-    commentsToLikes: 0.089664
-    id: ckaotimdow2qd0i781nrqen5m
+    followers: 4987
+    engagement: 1336
+    commentsToLikes: 0.007120
+    id: ck6005p9mczxr0i14mamijj0s
     verified: false
-    hashtags: "#photographer, #sky, #wanderlust, #model"
-  - username: "sykooffiziell"
+    hashtags: "#push, #community, #love, #schilkin"
+  - username: "aaylingk"
     fullname: >-
-      SYKO
+      •Gülcan Aylin•
     bio: >-
-      ❌W.K.V.D.S❌ OUT NOW ⬇️⬇️⬇️
+      Aylin 👩🏻‍💻Beauty | Fashion | Lifestyle 📍Berlin / Germany
     location: "Germany"
-    followers: 6146
-    engagement: 949
-    commentsToLikes: 0.093258
-    id: ck6tjpe3835y90j71x1mcfyks
+    followers: 127909
+    engagement: 648
+    commentsToLikes: 0.015834
+    id: ck15uh2ozn5gu0i19daoe8clk
     verified: false
-    hashtags: "#wirkommenvonderstra, #stuttgart, #hannover, #bonn"
-  - username: "paegersus_"
+    hashtags: "#getthelook, #zalandostyle, #safirashine"
+  - username: "lennartmarlon_"
     fullname: >-
-      Patrick
+      Lennart Marlon Flottemesch
     bio: >-
-      |📍Wolfsburg (Germany) 🇩🇪 | 🎨 ink | 🛵 motorcycle | 🎮 Gamer 👩‍❤️‍👨 @marlainemat
+      28 german 🦁 Founder of @lennartmarlon_thelabel Blogger/Actor & Worldtraveller 🌎🌏🌍 based in #Düsseldorf Next - #berlin #lifestyle #beauty #dogdad
     location: "Germany"
-    followers: 7583
-    engagement: 696
-    commentsToLikes: 0.102568
-    id: ck0vv3vf9nf9d0i198jmhqrxb
+    followers: 113517
+    engagement: 246
+    commentsToLikes: 0.011317
+    id: ck0vyxyhp6c1e0i19v126mv0z
     verified: false
-    hashtags: "#hannover, #wolfsburg, #inkedmen, #manbun"
-  - username: "krizzybeauty"
+    hashtags: "#madeingermany, #guy, #blonde, #handmade"
+  - username: "mrsunicorn.de"
     fullname: >-
-      K R I ⚡️ T I N A
+      ❥ Mrs Unicorn by Celine
     bio: >-
-      👗 l fashion l inspirations 💄 l makeup l hairstyles 🇩🇪 l 🇰🇿 // est. 1995 📍berlin 💌 l collab: krizzybeauty@gmx.de
+      Travel | Dance | Lifestyle 📍 Berlin, Germany
     location: "Germany"
-    followers: 2726
-    engagement: 2799
-    commentsToLikes: 0.035419
-    id: ckaowhton8zzr0i78j21k4oij
+    followers: 14237
+    engagement: 32
+    commentsToLikes: 0.050768
+    id: ck0vuyu6xmrpb0i1946fd325h
     verified: false
-    hashtags: "#happy, #monday, #style, #smile"
-  - username: "lamineezybah"
+    hashtags: "#oceanlover, #quoteoftheday, #happygirl, #vacationmode"
+  - username: "debo3295"
     fullname: >-
-      𝐋𝐚𝐦𝐢𝐧.
+      Debo
     bio: >-
-      📍 ʙᴀsᴇᴅ ɪɴ #ʜᴀᴍʙᴜʀɢ | #ʙᴇʀʟɪɴ 👔 ᴍᴇɴsᴡᴇᴀʀ | ᴛʀᴀᴠᴇʟ | ʟɪғᴇsᴛʏʟᴇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🏠ʀᴇᴀʟ ᴇsᴛᴀᴛᴇ ᴀɢᴇɴᴛ sᴏᴛʜᴇʙʏ’s ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ʀᴇᴀʟᴛʏ | @laradias___💍
+      》Berlin📍 》Suzuki GSXR 600er L1 🏍 》👫@alphavlogss 》Motorradbekleidung 👚 @buese 》Felgen 💯 @indiv.style 》Motovloggerin
     location: "Germany"
-    followers: 6416
-    engagement: 725
-    commentsToLikes: 0.121733
-    id: ck5hee467sfkc0i11o06rx0rm
+    followers: 17937
+    engagement: 937
+    commentsToLikes: 0.013739
+    id: ck6u6g9wqffgp0j7106sqrakx
     verified: false
-    hashtags: "#vibes, #casualstyle, #coatseason, #030"
-  - username: "_marisacarry"
+    hashtags: "#alpharudel, #bikefam, #suzuki, #mivv"
+  - username: "sarahvogue_"
     fullname: >-
-      ❥ 𝚖𝚊𝚛𝚒𝚜𝚊
+      SARAH VOGUE ツ
     bio: >-
-      𝖥𝖠𝖲𝖧𝖨𝖮𝖭 | 𝖫𝖨𝖥𝖤𝖲𝖳𝖸𝖫𝖤 | 𝑃𝐻𝑂𝑇𝑂𝐺𝑅𝐴𝑃𝐻𝑌 ♡ ❥ | Kassel ❥ | Collab via DM 💞
+      FASHION | BEAUTY | TRAVEL ⇢ 𝑤𝑖𝑙𝑑 𝑠𝑝𝑖𝑟𝑖𝑡,𝑠𝑜𝑓𝑡 ℎ𝑒𝑎𝑟𝑡,𝑠𝑤𝑒𝑒𝑡 𝑠𝑜𝑢𝑙 #girlpower⚡️ Google SEA Marketing Expert |Berlin,spanish girl✌🏽 ✉️ Mail@sarahvogue.com
     location: "Germany"
-    followers: 11922
-    engagement: 600
-    commentsToLikes: 0.040701
-    id: ck15q968t1pa50i19xyok8060
+    followers: 21477
+    engagement: 293
+    commentsToLikes: 0.132609
+    id: ck9wdicm6fr8s0j7826663l1s
     verified: false
-    hashtags: "#loveyourself, #bloggerstyle, #vacay, #kasselcity"
-  - username: "peakysmindset"
-    fullname: >-
-      Peakymindset
-    bio: >-
-      ThePeakyMindset ▪️Black/White ▪️Inspired by the Peaky Blinders ▪️Second page: @gasautism
-    location: "Germany"
-    followers: 20295
-    engagement: 1401
-    commentsToLikes: 0.002326
-    id: ck9wdwzhxhna90j78dbr08jrw
-    verified: false
-    hashtags: "#excuse, #quotes, #beastmode, #thomasshelby"
-  - username: "grabscher36"
+    hashtags: "#karokauer, #dailyinspiration, #shape, #berlinblogger"
+  - username: "saman_ibiza"
     fullname: >-
       
     bio: >-
-      Kreuzberg ist Meine hall of Fame
+      🌏 🇩🇪🇮🇷 📍 Cologne | Teheran
     location: "Germany"
-    followers: 12013
-    engagement: 800
-    commentsToLikes: 0.016082
-    id: ck5hkwxm3j6dk0i11jm03h9id
+    followers: 59254
+    engagement: 435
+    commentsToLikes: 0.030684
+    id: ck55ph1nbajlr0i11le5apqba
     verified: false
-    hashtags: "#colours, #bombing, #vienna, #vacation"
-  - username: "len.alini"
+    hashtags: "#fussball, #hellsangels, #pictureoftheday, #cologne"
+  - username: "celinajadakerr"
     fullname: >-
-      Lena✨Vegan food | Lifestyle
+      Celina Kerr 🦋
     bio: >-
-      𝙱𝚎𝚛𝚕𝚒𝚗 • “𝚌𝚕𝚎𝚊𝚗” 𝚛𝚎𝚌𝚒𝚙𝚎𝚜 Soon -> 𝚑𝚘𝚕𝚒𝚜𝚝𝚒𝚌 𝚗𝚞𝚝𝚛𝚒𝚝𝚒𝚘𝚗𝚒𝚜𝚝🌿 Podcast🎙𝚃𝙷𝙾𝚄𝙶𝙷𝚃𝚂 𝚃𝙾 𝙶𝙾 Sport lover🏃🏽‍♀️🧘🏽‍♀️🏊🏼‍♀️
+      🎓B.A. Media & Communication Management ✉️ Management @musetheagency this profile includes advertising
     location: "Germany"
-    followers: 18214
-    engagement: 368
-    commentsToLikes: 0.121492
-    id: ckaotc2dtv9ax0i78rw7a6ee5
+    followers: 98676
+    engagement: 1795
+    commentsToLikes: 0.006951
+    id: ck5hclxbtir5g0i11wrprl4cs
     verified: false
-    hashtags: "#foodie, #nutritionfacts, #gesundleben, #vegan"
+    hashtags: "#fashion, #outfitideas, #look, #brown"
+  - username: "fashion_and_more_by_monika"
+    fullname: >-
+      Monika
+    bio: >-
+      Influencer/Blogger 📌aus Berlin. 💚Fashion, Reisen, Essen💕. Träume nicht Dein Leben, lebe Deinen Traum . Email: monikaguhl.blog@gmail.com
+    location: "Germany"
+    followers: 129748
+    engagement: 87
+    commentsToLikes: 0.191629
+    id: ck0tzjh65qi6h0i19b3e6tmbs
+    verified: false
+    hashtags: "#womanwithstyle, #picotd, #germanwoman, #stayups"
 ---

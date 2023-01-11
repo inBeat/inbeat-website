@@ -1,130 +1,130 @@
 ---
-title: Top 10 Boxers TikTok Influencers In France in 2023
+title: Top 10 Boxers TikTok Influencers In France In 2023
 description: >-
-  Find top boxers TikTok influencers in France in 2023. Most popular hashtags: #boxer #foryou #pourtoi #viral.
+  Find top boxers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #fyp #boxer.
 platform: TikTok
-hits: 12
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in France for you to pitch.
+hits: 14
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 14 TikTok influencers like this in France for you to collaborate.
 profiles:
-  - username: "hikmatullah93"
-    fullname: >-
-      Hikmat Ullah
-    bio: >-
-      
-    location: "France"
-    followers: 1
-    engagement: 1224
-    commentsToLikes: 0.044942
-    id: ckbajkcmfajv10j231dn0897i
-    verified: false
-    hashtags: "#fyp, #afg, #islam, #foryoupage"
   - username: "annataniaguerra"
     fullname: >-
       annataniaguerra
     bio: >-
-      📸 IG : @annataniaguerraa 🦋 📍🇮🇹&🇫🇷 Soon 30 000 ? ✨🤩
+      Que des good vibes ici 🧡 Soon 35 500 ? ✨ 📸 IG : @annataniaguerraa 🦋
     location: "France"
-    followers: 30100
-    engagement: 1044
-    commentsToLikes: 0.030195
+    followers: 35100
+    engagement: 726
+    commentsToLikes: 0.039368
     id: ck9fcshlxlbkn0j78lv0pznin
     verified: false
-    hashtags: "#fyp, #petlover, #pourtoi, #dogs"
+    hashtags: "#fyp, #cute, #dogsoftiktok, #viral"
   - username: "bad.boy041"
     fullname: >-
-      🦍Bad boy🍆💦🦾😈🔥👅
+      Bad boy🐺🦾
     bio: >-
-      Boxeur in paris🇪🇸🇧🇷🏴‍☠️😈🥊baby🍆👅🔥🤫
+      🏅🏆Boxing 📍in paris🇫🇷🥊💀🦾 🥋🏋🏾‍♀️Insta @Boxeur_7 👻Snap ldk😁😉
     location: "France"
-    followers: 32600
-    engagement: 2276
-    commentsToLikes: 0.027637
+    followers: 53500
+    engagement: 2426
+    commentsToLikes: 0.025625
     id: ckbfbix2k3mnf0j230bndvudi
     verified: false
-    hashtags: "#paris, #parisoslo, #smiley, #paris2024"
-  - username: "alvadi_officiel"
+    hashtags: "#tiktok, #parisberelc, #boxinghistory, #tiktokparis"
+  - username: "iamkelvinly"
     fullname: >-
-      alvadi_officiel
+      Kelvin Ly
     bio: >-
-      Insta ⚜ @alvadi_officiel ⚜ 🏋🏾‍♂️ Athlète 💪🏾gym 👟Fit 🏃🏾‍♂️Run 📍🇲🇫
+      Le Sénateur 🕺 🙏 From 96s 🇫🇷 Suivez moi sur Insta 🔥💪
     location: "France"
-    followers: 6605
-    engagement: 964
-    commentsToLikes: 0.038816
-    id: ck81s5acqq37h0j78935m4ukf
+    followers: 32800
+    engagement: 1239
+    commentsToLikes: 0.028104
+    id: ckcv396idodpa0j23a1cshx8v
     verified: false
-    hashtags: "#sportlife, #fitnes, #calisthenics, #gymtime"
+    hashtags: "#foryou, #pool, #pourtoi, #fyp"
   - username: "newjumplangon"
     fullname: >-
       New Jump 
     bio: >-
       🔝abonne toi🔝 New jump le trampoline park rien que pour toi 🔴🔴🔴
     location: "France"
-    followers: 78500
-    engagement: 1718
-    commentsToLikes: 0.005470
+    followers: 77400
+    engagement: 1682
+    commentsToLikes: 0.004746
     id: ckbfedxp48bwr0j23bhf4jcng
     verified: false
-    hashtags: "#jeunesse, #gymastique, #createwithasus, #backbenchersonflipkart"
+    hashtags: "#jeunesse, #beautifulgirl, #treanding, #trampoline"
+  - username: "alvadi_officiel"
+    fullname: >-
+      alvadi_officiel
+    bio: >-
+      Insta ⚜ @alvadi_officiel ⚜ 🏋🏾‍♂️ Athlète 💪🏾gym 👟Fit 🏃🏾‍♂️Run 📍🇲🇫
+    location: "France"
+    followers: 6499
+    engagement: 998
+    commentsToLikes: 0.029195
+    id: ck81s5acqq37h0j78935m4ukf
+    verified: false
+    hashtags: "#workout, #amazing, #fitfam, #body"
   - username: "tom_vpt"
     fullname: >-
       Tom Van-Praët
     bio: >-
       
     location: "France"
-    followers: 3799
-    engagement: 769
-    commentsToLikes: 0.036947
+    followers: 3764
+    engagement: 601
+    commentsToLikes: 0.041542
     id: ckbb0m0lnqzg20j2324lrg0ne
     verified: false
-    hashtags: "#pourtoi, #imbored, #confinement, #foryou"
+    hashtags: "#pourtoi, #imbored, #foryou, #confinement"
+  - username: "alexandre.lzz"
+    fullname: >-
+      Alexandre.lzz
+    bio: >-
+      don’t be rude
+    location: "France"
+    followers: 95500
+    engagement: 1156
+    commentsToLikes: 0.016232
+    id: ckb9v6k9tuak10j235biah0t2
+    verified: false
+    hashtags: "#hood, #foryoupage, #pourtoi, #fyp"
   - username: "lenacrlt"
     fullname: >-
       𝓛𝓮𝓷𝓪 🥀
     bio: >-
       Insta : lena.dcf Kaiser 🐶 Moon 🐱
     location: "France"
-    followers: 21000
-    engagement: 1384
-    commentsToLikes: 0.005384
+    followers: 20800
+    engagement: 1381
+    commentsToLikes: 0.006244
     id: ckbkmo34ag7rw0j23gb551wol
     verified: false
-    hashtags: "#foryou, #challenge, #french, #girl"
-  - username: "batman_ferhat"
+    hashtags: "#challenge, #french, #girl, #foryou"
+  - username: "tonimars"
     fullname: >-
-      Ferhat Batman☑️
+      🇨🇵Toni Mars🇨🇵
     bio: >-
-      Insta: Batman_ferhat 📍Marseille
+      👻TONIIMARS13👻 🇨🇵 protection rapprochée sécurité 🇨🇵 #tonimars
     location: "France"
-    followers: 11000
-    engagement: 228
-    commentsToLikes: 0.036173
-    id: ck8s4xa26deph0j78e9fkusrj
+    followers: 8073
+    engagement: 272
+    commentsToLikes: 0.000000
+    id: ckbfedwpr8bp10j23y8fi6l6s
     verified: false
-    hashtags: "#boxingday, #boxeo, #boxingtraning, #pourtoi"
-  - username: "mofitness_fr"
+    hashtags: "#pourtoi, #foryou, #foryoupage, #tonimars"
+  - username: "anais_et_raika"
     fullname: >-
-      Mofitness_fr
+      ✨🎀 Anaïs et Raïka 🎀✨
     bio: >-
-      Pour Coaching Dm 📥 Insta : Mofitness_fr A🔒❤️
+      Raïka🎀 Staffie née le 25/08/2020 🐾 Insta de Raïka : raika_off🐶 Abonnez-vous❤️
     location: "France"
-    followers: 14800
-    engagement: 871
-    commentsToLikes: 0.003609
-    id: ckbezb8ozkbzx0j23ccruyoq0
+    followers: 23600
+    engagement: 1369
+    commentsToLikes: 0.085793
+    id: ckamybjwxgrlo0i78ci5delkb
     verified: false
-    hashtags: "#motivation, #tips, #viral, #sport"
-  - username: "panjshir_wolf"
-    fullname: >-
-      panjshir_wolf
-    bio: >-
-      گرگ پنجشیر
-    location: "France"
-    followers: 21300
-    engagement: 1042
-    commentsToLikes: 0.080525
-    id: ck900ykm0b1f30j781aglb1th
-    verified: false
-    hashtags: "#panjshir, #duo"
+    hashtags: "#staffie, #staffy, #chien, #abonnetoi"
 ---

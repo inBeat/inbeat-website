@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Brazil in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Brazil In 2023
 description: >-
   Find top tattoo-artists Instagram influencers in Brazil in 2023. Most popular hashtags: #tattoo #blackwork #tatuagem.
 platform: Instagram
-hits: 370
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 370 Instagram influencers like this in Brazil for you to connect with.
+hits: 365
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 365 Instagram influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "lobotattooart"
+    fullname: >-
+      Pedro Lobo 🌈
+    bio: >-
+      Tattoo artist São Paulo | Mantra Tattoo | Pinheiros Marque aqui um orçamento: (11) 977396227
+    location: "Brazil"
+    followers: 33322
+    engagement: 540
+    commentsToLikes: 0.009229
+    id: ck5zue3i626sa0i1495jc89xy
+    verified: false
+    hashtags: ""
   - username: "fabitattoo"
     fullname: >-
       Fabi Ventura - Geek Tattoo
     bio: >-
-      Tattoo Artist 💕🦄 🖤Black e fineline: @fabiventuratattoo 🖌Ilustrações: @fabiventuraart São Paulo - SP 011 Orçamentos pelo link abaixo:
+      Tattoo Artist 💕🦄 Orçamentos: Whats: (11)94325-5174 Atendendo no @nineinktattoo 🔥 🖤Black e fineline: @fabiventuratattoo 🖌Ilustrações: @fabiventuraart
     location: "Brazil"
-    followers: 23332
-    engagement: 325
-    commentsToLikes: 0.063112
+    followers: 23223
+    engagement: 465
+    commentsToLikes: 0.074679
     id: ck8t8wfg4m3lo0j781seyif2p
     verified: false
-    hashtags: "#anime, #geek, #digitalillustration, #comissionsopen"
-  - username: "rrezend"
-    fullname: >-
-      raphael rezend
-    bio: >-
-      Tattoo Artist - Ilustrator (Não trabalho com Maori) Por favor tenham calma nos directs Obrigado por escolherem meu trabalho. Feira de Santana - BA
-    location: "Brazil"
-    followers: 35668
-    engagement: 727
-    commentsToLikes: 0.542580
-    id: ck5her07cuccb0i11hf6wp359
-    verified: false
-    hashtags: "#finelinetattoo, #blackwork, #l4l, #nature"
-  - username: "r.korski"
-    fullname: >-
-      Ricardo G. Ciechorski
-    bio: >-
-      Tattoo artist ♉ 🇧🇷 🇪🇸 🇵🇹 🇬🇧 🇮🇹 Pro Team @tropicaldermoficial @carbynetattoo @colordragonneedles 📨rgctattoo@gmail.com AGENDA FECHADA
-    location: "Brazil"
-    followers: 87783
-    engagement: 153
-    commentsToLikes: 0.049376
-    id: ckaoy0ojhfkk20i789ute2g57
-    verified: false
-    hashtags: "#amazingtattoos, #colordragonneedles, #inkedmag, #tattoorealistic"
+    hashtags: "#blackworktattoo, #pratodosverem, #geekink, #piticas"
   - username: "annielobt"
     fullname: >-
       Annie Lobt
     bio: >-
       Brazilian 🇧🇷 Based in Paris 🇫🇷 Tattoo Artist @annielobttattoo
     location: "Brazil"
-    followers: 8542
-    engagement: 765
-    commentsToLikes: 0.046229
+    followers: 10027
+    engagement: 904
+    commentsToLikes: 0.052261
     id: ckap4b7yw6krz0i78qiqhq40w
     verified: false
-    hashtags: ""
-  - username: "bya.brasil"
+    hashtags: "#greece, #tb, #letitgo"
+  - username: "r.korski"
     fullname: >-
-      Bya Brasil 🦂
+      Ricardo G. Ciechorski
     bio: >-
-      ✶ Tattoo artist & illustrator ✶ São Paulo - ateliê privado ✶ AGENDA 2020 - encerrada
+      Tattoo artist ♉ 🇧🇷 🇪🇸 🇵🇹 🇬🇧 🇮🇹 Pro Team @tropicaldermoficial @colordragonneedles 📩 Agendamentos pelo link abaixo 👇
     location: "Brazil"
-    followers: 40163
-    engagement: 392
-    commentsToLikes: 0.027867
-    id: ck6u5sc1rbfz60j71l684uy9h
+    followers: 83201
+    engagement: 124
+    commentsToLikes: 0.047931
+    id: ckaoy0ojhfkk20i789ute2g57
     verified: false
-    hashtags: "#blkttt, #blackworkers, #blackworktattoo, #blackworkbrasil"
-  - username: "mpac13"
+    hashtags: "#tatuagem, #skinartmag, #tattoo, #thebesttattooartists"
+  - username: "zacatattoo"
     fullname: >-
-      ࿇ ࿄ Marcos Costa ∴
+      Ederson Zacarias
     bio: >-
-      ༻ @mpac13_flash ༻ Tattoo Artist - São Paulo ༻ WhatsApp: (11)99496.8778 ༻ Atendimento com hora marcada.
+      Tattoo Artist ➖@inkpacttattoogallery - Porto Alegre/RS 🇧🇷 ➖@old_border_ink - Clermont-Ferrand 🇫🇷 Orçamentos: +55 51 992555647
     location: "Brazil"
-    followers: 26878
-    engagement: 145
-    commentsToLikes: 0.215581
-    id: ck8t7n4wyheb70j78teblkh79
+    followers: 76446
+    engagement: 108
+    commentsToLikes: 0.441866
+    id: ck8t4lauh76220j78ltk9x6el
     verified: false
-    hashtags: "#btattooing, #mpac13, #pontilhismo, #dotwork"
-  - username: "lobotattooart"
-    fullname: >-
-      Pedro Lobo 🌈
-    bio: >-
-      Tattoo artist São Paulo | Mantra Tattoo | Pinheiros Marque aqui um orçamento: (11) 9 7739 6227
-    location: "Brazil"
-    followers: 30310
-    engagement: 551
-    commentsToLikes: 0.020159
-    id: ck5zue3i626sa0i1495jc89xy
-    verified: false
-    hashtags: ""
+    hashtags: "#portoalegre, #tattooart, #skinartmag, #tatdaddytattoo"
   - username: "fernandotravis"
     fullname: >-
       Fernando De Paiva
     bio: >-
-      🇧🇷RN Brazilian Ilustrator,tattoo artist ARTIST: @sullenclothing @famousstarsandstraps @copicbrasil and @derwentpencils_brasil 🏆 winner copic Award 17
+      🇧🇷RN Artist,tattoo artist ARTIST: sullenclothing,famousstarsandstraps, copicbrasil and derwentpencils_brasil 🏆 winner copic Award 17
     location: "Brazil"
-    followers: 80065
-    engagement: 78
-    commentsToLikes: 0.048932
+    followers: 94069
+    engagement: 58
+    commentsToLikes: 0.059963
     id: ck15q8mrq1md50i19tad2cty4
     verified: false
-    hashtags: "#lineart, #study, #flash, #black"
-  - username: "eron.freitas"
+    hashtags: "#acuarelle, #aquarela, #sullenartist, #acuarela"
+  - username: "rrezend"
     fullname: >-
-      Eron Freitas
+      raphael rezend
     bio: >-
-      ⚫ Tattoo Artist ⚫ Macaé e Rio de Janeiro Rj - 🇧🇷 ❌ NÃO RESPONDO ORÇAMENTOS POR DM ⚫ Orçamentos pelo link abaixo ⬇️
+      Tattoo Artist - Ilustrator (Não trabalho com Maori) Por favor tenham calma nos directs Obrigado por escolherem meu trabalho. Feira de Santana - BA
     location: "Brazil"
-    followers: 10969
-    engagement: 523
-    commentsToLikes: 0.064771
-    id: ck8tcetyxz7yu0j78f9lqcb7q
+    followers: 33850
+    engagement: 529
+    commentsToLikes: 0.379602
+    id: ck5her07cuccb0i11hf6wp359
     verified: false
-    hashtags: "#1rl, #sketch, #3rl, #singleneedle"
-  - username: "lapeaudure"
+    hashtags: "#fkirons, #inspirationtattoo, #blackwork, #l4l"
+  - username: "marianariom_tattooartist"
     fullname: >-
-      La Peau Dure
+      mariana rio
     bio: >-
-      Thongsavanh | Happy Tattoo Artist | Owner @lapeaudurestudio • 🇫🇷 Paris 10ème • • 💌 Infos (tattoo request) :
+      💉tattoo artist and body piercer at @skinlab_tattoos Professional account @marianariom__tattooartist (Facebook link⬇⬇)
     location: "Brazil"
-    followers: 82528
-    engagement: 273
-    commentsToLikes: 0.019636
-    id: ck5zvdhgg40x10i14nun1so0s
+    followers: 2193
+    engagement: 1077
+    commentsToLikes: 0.087865
+    id: ck8t5sd04b2p20j780w26buly
     verified: false
-    hashtags: "#lapeaudurestudio, #tatouageparis, #tatoueurparis, #tattooparis"
+    hashtags: "#babycosplay, #babyofinstagram, #halloween, #baby"
+  - username: "jessicapaixao"
+    fullname: >-
+      Jéssica Paixão 🇧🇷
+    bio: >-
+      ✨ Tattoo Artist ✨ Founder at @inkdomus Agenda fechada temporariamente . Para informações: 11.94338-8282
+    location: "Brazil"
+    followers: 82998
+    engagement: 134
+    commentsToLikes: 0.029733
+    id: ck9hb735hfnoh0j78kiypfs87
+    verified: false
+    hashtags: "#tatuagemfeminina, #jessicapaixao, #fineline, #finelinetattoo"
+  - username: "bya.brasil"
+    fullname: >-
+      Bya Brasil 🦂
+    bio: >-
+      ✶ j u s t s u r r e a l a r t ✶ ✶ Tattoo artist, illustrator & content creator. ✶ São Paulo - ateliê privado ✶ byabrasiltattoo@gmail.com
+    location: "Brazil"
+    followers: 45268
+    engagement: 442
+    commentsToLikes: 0.012406
+    id: ck6u5sc1rbfz60j71l684uy9h
+    verified: false
+    hashtags: "#blackart, #tttism, #tattoodo, #blackworksubmission"
 ---

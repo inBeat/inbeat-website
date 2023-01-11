@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian TikTok Influencers In Italy in 2023
+title: Top 10 Christian TikTok Influencers In Italy In 2023
 description: >-
-  Find top christian TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #fyp #neiperte.
+  Find top christian TikTok influencers in Italy in 2023. Most popular hashtags: #perte #fyp #foryou #duetto.
 platform: TikTok
-hits: 65
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 65 TikTok influencers like this in Italy for you to work with.
+hits: 79
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 79 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "damn.tee"
     fullname: >-
       Damn Tee
     bio: >-
-      💜What’s up guys! Io sono Christian💜 🏰 Sindaco di Extralandia 🎉 19
+      💜What’s up everybody! Io sono Christian💜 🏰 Sindaco di Extralandia 🎉 20
     location: "Italy"
-    followers: 277300
-    engagement: 2606
-    commentsToLikes: 0.007846
+    followers: 287900
+    engagement: 2415
+    commentsToLikes: 0.009175
     id: ck9du4o2cewjt0j786a1u6xgw
     verified: false
-    hashtags: "#foryou, #foryoupage, #makeup, #perte"
-  - username: "davidescappatura7"
+    hashtags: "#foryoupage, #makeup, #foryou, #fy"
+  - username: "baby_jonn"
     fullname: >-
-      Davide ✝️
+      Jonathan
     bio: >-
-      Gesù Cristo è il Signore Unico e Vero Dio Instagram :Davide Scappatura
+      Sto tornando .. Italy🇮🇹
     location: "Italy"
-    followers: 9649
-    engagement: 1150
-    commentsToLikes: 0.347556
+    followers: 10100
+    engagement: 1238
+    commentsToLikes: 0.083333
     id: ckbb79v1zxa4z0j234tz6193m
     verified: false
-    hashtags: "#perte, #christianity, #foryou, #dpcm"
-  - username: "thehaller"
+    hashtags: "#greenscreen, #christiantiktok, #duetto, #perte"
+  - username: "alessandro.pacifici"
     fullname: >-
-      Angelo Casale
+      alessandro.pacifici
     bio: >-
-      Yooo
+      🎭ATTORE ROMANO🎭 PADRE-MARITO-ATTORE Road to 1mls🤪🤪🤪
     location: "Italy"
-    followers: 34100
-    engagement: 1491
-    commentsToLikes: 0.028167
-    id: ck8knhl29d7tt0j78h12l0e7s
+    followers: 26700
+    engagement: 1220
+    commentsToLikes: 0.109749
+    id: ck9e1ulg0cfew0j78gvmjg7s2
     verified: false
-    hashtags: "#weeb, #italia, #commedia, #anime"
-  - username: "marcherrimo"
+    hashtags: "#alessandropacifici, #twins, #desica, #duetto"
+  - username: "madaria"
     fullname: >-
-      Marcherrimo
+      Arianna Madonna
     bio: >-
-      INSTAGRAM: @marcherrimo Dicono che strappo sorrisi 😄 Verso la vetta dei 100k
+      ✨Be Positive✨ Road To 200k💛
     location: "Italy"
-    followers: 59000
-    engagement: 1048
-    commentsToLikes: 0.025658
-    id: ck9dtx65kdwsa0j78s53bdeux
+    followers: 149500
+    engagement: 1571
+    commentsToLikes: 0.011019
+    id: ckbf3ymb4s5r40j23k3605b8n
     verified: false
-    hashtags: "#gaycouple, #marcherrimo, #perte, #milano"
-  - username: "pincopallino896"
+    hashtags: "#charlidamelio, #greenscreen, #madslewis, #kyliejenner"
+  - username: "bogdansolomenco"
     fullname: >-
-      Pinco Pallino
+      Bogdan Solomenco
     bio: >-
-      Random videos in random moments. Enjoy!
+      🧥DenimJacket & T-shirt👕 🎨Dipinte a mano🖐 🇮🇹Milano, Italy🇮🇹
     location: "Italy"
-    followers: 23000
-    engagement: 1118
-    commentsToLikes: 0.023212
-    id: ckavlmzpwv2xk0j23wzgvjr8p
+    followers: 12900
+    engagement: 748
+    commentsToLikes: 0.042489
+    id: cka6e7j9vaq110i78nbupc64w
     verified: false
-    hashtags: "#duetto, #fun, #neiperte, #fyp"
-  - username: "ibradiakite"
+    hashtags: "#customtshirt, #tshirt, #johnnydepp, #fyp"
+  - username: "patriziaeanthony0"
     fullname: >-
-      Ibra Diakite 🍫
+      Anthony Russo
     bio: >-
-      Athlète Street workout calisthenics 🦍 Insta @ibradiakite🍫
+      Patrizia e anthony ( coppia fidanzati ) vi regaliamo un sorriso 😊🥰 (Napoli)
     location: "Italy"
-    followers: 16200
-    engagement: 573
-    commentsToLikes: 0.023161
-    id: ckdbugcm3d6vl0j23vo5nsbco
+    followers: 55200
+    engagement: 409
+    commentsToLikes: 0.032092
+    id: ck8vshr4wdm9c0j78287mh4hh
     verified: false
-    hashtags: "#motivation, #fyp, #gym, #workout"
+    hashtags: "#duett, #video, #foryou, #dog"
+  - username: "andreadalcorso"
+    fullname: >-
+      Andrea Dal Corso
+    bio: >-
+      TUTTO parte dal CAOS!! Con STILE! 👊🏻
+    location: "Italy"
+    followers: 100100
+    engagement: 384
+    commentsToLikes: 0.006379
+    id: ck900atgbaaad0j78cfatneoc
+    verified: true
+    hashtags: "#coronavirus, #iorestoacasa, #couplecomedy, #tiktokchallenge"
   - username: "christianpaparini"
     fullname: >-
       il PAPA🌵
     bio: >-
-      🌵 💗VI AMO💗 CEO of ‘FFFIGAAA’ 🌵
+      🌵 💗GRAZIE💗 CEO of ‘FFFIGAAA’ 🌵
     location: "Italy"
-    followers: 593900
-    engagement: 2644
-    commentsToLikes: 0.011092
+    followers: 761700
+    engagement: 2659
+    commentsToLikes: 0.014237
     id: ckbql19nz66cg0j23tn0e0s01
     verified: false
-    hashtags: ""
+    hashtags: "#duetto, #stitch"
   - username: "christian.smaldone"
     fullname: >-
       chris🥇
     bio: >-
       •Volleyball player 🏐 •Caserta, Italy
     location: "Italy"
-    followers: 4795
-    engagement: 738
-    commentsToLikes: 0.017158
+    followers: 4846
+    engagement: 735
+    commentsToLikes: 0.015402
     id: cka7nq2r8y57l0i78239fd4el
     verified: false
-    hashtags: "#perte, #volleyballworld, #volleyball, #foryou"
-  - username: "richprjcts"
+    hashtags: "#foryou, #libero, #perte, #volleyball"
+  - username: "alessandrobertonii"
     fullname: >-
-      Riccardo
+      Ale☄️🌎
     bio: >-
-      19, Saronno
+      VARESE, 80k? fatti un giro anche su insta💞
     location: "Italy"
-    followers: 14400
-    engagement: 1791
-    commentsToLikes: 0.031011
-    id: ckbkz1xo9vc5h0j237vz15y54
+    followers: 73300
+    engagement: 1886
+    commentsToLikes: 0.033522
+    id: ckdmqu8us9n060j2383zuehbp
     verified: false
-    hashtags: "#foryou, #perte, #fyp, #foryoupage"
-  - username: "davideceseranii"
-    fullname: >-
-      Davide Ceserani
-    bio: >-
-      🇮🇹🇩🇪 Palermo📍 Instagram _davideceserani 210k? 🔥
-    location: "Italy"
-    followers: 207900
-    engagement: 2704
-    commentsToLikes: 0.019543
-    id: ckcprkvn7lfos0j23vbc00p16
-    verified: false
-    hashtags: "#maestrideipov, #duetto, #greenscreen, #pov"
+    hashtags: "#foru, #fyp, #duetto, #perte"
 ---

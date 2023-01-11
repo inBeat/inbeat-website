@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Houston in 2023
+title: Top 10 Yoga Instagram Influencers In Houston In 2023
 description: >-
-  Find top yoga Instagram influencers in Houston in 2023. Most popular hashtags: #yoga #houston #love #lifestyle.
+  Find top yoga Instagram influencers in Houston in 2023. Most popular hashtags: #yoga #houston #houstonblogger #ad.
 platform: Instagram
-hits: 37
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 37 Instagram influencers like this in Houston, United States for you to pitch.
+hits: 29
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 29 Instagram influencers like this in Houston, United States for you to work with.
 profiles:
-  - username: "natash_getslost"
+  - username: "missnicolecara"
+    fullname: >-
+      𝐍𝐢𝐜𝐨𝐥𝐞 𝐂𝐚𝐫𝐚 BLACK SWAN YOGA
+    bio: >-
+      🖤General Manager @blackswanyogahouston 📍Houston, TX Baby 💃🏼 Former NBA Dancer 🔗
+    location: "United States"
+    followers: 2550
+    engagement: 912
+    commentsToLikes: 0.054546
+    id: ck8t039otqonr0j78jbtqw2jj
+    verified: false
+    hashtags: "#goofy, #dancehousefitness, #hookahut, #sameme"
+  - username: "chubbystruggles"
+    fullname: >-
+      Alex Sundstrom
+    bio: >-
+      👗: Queer fat model 🪡: Crafty sewing queen 🌵: Plant and dog mama ❤️ Self-love, mental health, yoga 📍Houston, TX 📧: alexandriasundstrom@gmail.com
+    location: "United States"
+    followers: 34713
+    engagement: 107
+    commentsToLikes: 0.052317
+    id: ck14kfgxqp9h30i19esmzrc35
+    verified: false
+    hashtags: "#visiblyfat, #athleta, #plussizeathleisure, #fatgirlsummer"
+  - username: "sugarfacebakes"
+    fullname: >-
+      The Balanced Lifestyle Expert
+    bio: >-
+      Stacie|📚@amazon "The Best Damn Cook Book" Author + Founder Of SugarFaceBakes 🍪 Products, Live Yoga 📍 #houstontx @happywayau|HAPPYSTACIE 📌 I Can Help👇
+    location: "United States"
+    followers: 15692
+    engagement: 316
+    commentsToLikes: 0.778819
+    id: ck14hyl7mcsfy0i196cx91yp1
+    verified: false
+    hashtags: "#homemadewithlove, #happywayau, #foodfood, #breadbaking"
+  - username: "theresarockface"
+    fullname: >-
+      TheresaRockFace
+    bio: >-
+      National #IHeartRadio Alt/RockRadio Personality 10-3p • #Houston #Indy #Charlotte #Vegas #SaltLake #Portland #Omaha &beyond • theresa@iheartradio.com
+    location: "United States"
+    followers: 64464
+    engagement: 136
+    commentsToLikes: 0.040440
+    id: ck5qd5bojtvvf0i116p6p0qnj
+    verified: false
+    hashtags: "#repost, #halloweenbash, #texas, #halloween"
+  - username: "bboygermy"
+    fullname: >-
+      Jeremy G. Cheung | Houston, TX
+    bio: >-
+      👔 Men’s Fashion × 🌊 Movement x 🕶 Lifestyle 🏙 Houston, TX 🧑🏻‍💼: @germymedia ❖ : bboygermy@gmail.com ⤓ Learn Breaking! 🤸🏻 ✦ #germynation — ╿ 🇭🇰🇺🇸
+    location: "United States"
+    followers: 30186
+    engagement: 93
+    commentsToLikes: 0.138835
+    id: ck0vyxk3769vd0i196fepe3g8
+    verified: false
+    hashtags: "#asianamerican, #martialarts, #onearm, #houstonblogger"
+  - username: "natashgetslost"
     fullname: >-
       Natasha Ponciano Travel Yogi
     bio: >-
-      ✈️Travel, EAT, play, sing, learn, laugh, and live free. 🧘🏽‍♀️Yoga Teacher RYT 500, E-RYT 200 ✨ DM for Private Yoga Inquiries 🖤 Matchmaker
+      Owner @lostlotusyoga Yoga Teacher RYT 500, E-RYT 200 ✨ Email for Private Yoga Inquiries
     location: "United States"
-    followers: 2986
-    engagement: 1185
-    commentsToLikes: 0.082423
+    followers: 4052
+    engagement: 966
+    commentsToLikes: 0.104763
     id: ck5q8sj1q7sb70i11nau3tbau
     verified: false
-    hashtags: "#natashgetslost, #yoga, #houstonyogis, #yogi"
-  - username: "missnicolecara"
+    hashtags: "#functionalwater, #owntheoneyou, #lostlotusyoga, #ad"
+  - username: "tarik_rever"
     fullname: >-
-      𝐍𝐢𝐜𝐨𝐥𝐞 𝐂𝐚𝐫𝐚 YOGA DANCE FITNESS
+      Tarik Rever
     bio: >-
-      Love is my Religion, Yoga is my Church. @blackswanyogahouston Studio Manager •𝙳𝚊𝚗𝚌𝚎/𝙲𝚑𝚘𝚛𝚎𝚘𝚐𝚛𝚊𝚙𝚑𝚢/𝚏𝚘𝚛𝚖𝚎𝚛 𝙽𝙱𝙰 𝙳𝚊𝚗𝚌𝚎𝚛 @dancehousefitness
+      Them/They Official IG of Tarik Rêver. Singer songwriter. Spokesperson for Social Bleu. Model, equal rights activist, inventor for the disabled. VEGAN
     location: "United States"
-    followers: 2514
-    engagement: 922
-    commentsToLikes: 0.060525
-    id: ck8t039otqonr0j78jbtqw2jj
+    followers: 183618
+    engagement: 400
+    commentsToLikes: 0.051024
+    id: ck13daddl4gmo0i19nq12223x
     verified: false
-    hashtags: "#fitfam, #quarantine, #yoga, #stayhome"
-  - username: "tactical_karl"
+    hashtags: "#alt, #kawaii, #vampire, #artist"
+  - username: "mashforooz"
     fullname: >-
-      karlton
+      Mash Forooz
     bio: >-
-      🚘 Jeep life 🚁U.S Army Vet 12B/Air Assault🇺🇸 🎓I Make people harder to kill ⚔ TX DPS LTC Firearm/Self Defense Instructor 🖊https://linktr.ee/tac
+      💗 Fashion | Beauty | Travel | Lifestyle ✈️: Napa 💌: mashforooz@gmail.com 📍Houston, TX 💫 Spread love everywhere you go. 🛍Shop my looks👇🏻
     location: "United States"
-    followers: 28377
-    engagement: 283
-    commentsToLikes: 0.042701
-    id: ck8syo3aklexw0j78hyennruf
+    followers: 89803
+    engagement: 172
+    commentsToLikes: 0.074480
+    id: ck5zxzgnw8yc40i14gla49rhg
     verified: false
-    hashtags: "#pew, #tacticalgirl, #glockgirls, #bluelivesmatter"
-  - username: "yogamaris"
-    fullname: >-
-      maris degener
-    bio: >-
-      lead peer mentor and marketing strategist at @equiphealth #iammarismovie on @netflix advisor to @iam_phoenix_rising she/her ✨🌈
-    location: "United States"
-    followers: 69466
-    engagement: 365
-    commentsToLikes: 0.020264
-    id: ck0u8rs0783vx0i19h7eiobib
-    verified: false
-    hashtags: "#iammarismovie, #mentalillnessawareness, #mentalillnessawarenessweek, #miaw2019"
-  - username: "designsbyjazmyne"
-    fullname: >-
-      ⠀⠀  ⠀⠀⠀⠀⠀⠀ DesignsByᎫᎯℤℳᎽℕÉ 🍃
-    bio: >-
-      ⠀⠀⠀⠀⠀⠀-⠀Fashion Designer - Creator - Model ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ NEED A MASK?😷SHOP HERE ⤵️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    location: "United States"
-    followers: 9518
-    engagement: 632
-    commentsToLikes: 0.050833
-    id: ckaoqmq38jemy0i78oc4i2b0u
-    verified: false
-    hashtags: "#meditation, #naturalhairstyles, #explorepage, #festivalhair"
-  - username: "lisamsanders"
-    fullname: >-
-      Lisa Marie Sanders
-    bio: >-
-      #IFBBPRO #REALTOR #ARMY & AF #veteran #executiveprotection Ex-LEO, 50+ yrs old BHRC Ambassador Sandersbhrch2020 ProSport Nutrition Ambassador
-    location: "United States"
-    followers: 40157
-    engagement: 279
-    commentsToLikes: 0.024408
-    id: ckap3j5ko37pl0i78h7pg4w53
-    verified: false
-    hashtags: "#texas, #love, #ifbbpro, #fbf"
-  - username: "plutomami"
-    fullname: >-
-      P L U T O  (Only Account)
-    bio: >-
-      1908 | PHX | Loc’d | CoolKicks | PlantMom | MUVA Owner: @marymamaorganics
-    location: "United States"
-    followers: 146294
-    engagement: 324
-    commentsToLikes: 0.018441
-    id: ck5cj2bjstu4j0i11egplvotf
-    verified: false
-    hashtags: "#cozyvibes, #ink, #wcw, #loclady"
-  - username: "palmvisuals"
-    fullname: >-
-      A Cinematic Film Co.
-    bio: >-
-      ▪️Digital Marketing 💻 ▪️Cinematic Wedding Films 💍 ▪️Luxury Real Estate Tours + Branding 🎥 ▪️Award Winning Videography Team 🏆
-    location: "United States"
-    followers: 6667
-    engagement: 708
-    commentsToLikes: 0.025605
-    id: ck5zvnkh34kna0i14d7njvut6
-    verified: false
-    hashtags: "#luxurycars, #house, #entrepreneur, #architecture"
-  - username: "_brittneymarshall"
-    fullname: >-
-      Brittney Marshall
-    bio: >-
-      Houston 21 @blendedbrown @bookwithbrittneym ✉️ email for booking/inquiries @cddt_brittney UH Cougar Dolls Captain IceCube’s @thebig3 Dancer Season2+3
-    location: "United States"
-    followers: 10192
-    engagement: 1137
-    commentsToLikes: 0.064155
-    id: ck55pxzq8bmqx0i11d4rgggwt
-    verified: false
-    hashtags: "#brittneyforhoco, #uhhomecoming2020, #gocoogs, #alyaskinbabe"
+    hashtags: "#ad, #travelinfluencer, #hmxme, #chanelcaviar"
   - username: "ijanelleg"
     fullname: >-
       C H A N E L
     bio: >-
-      FITNESS | BEAUTY | LIFESTYLE ★ Dalton, Ga ✈️ Houston, Tx ★ @shopijanelleg Bands & Lashes out now! ★ @blessedprotein/@ehplabs “CHANELBP” for 10% off💗
+      Latina • Fitness • Lifestyle ★ Ga ✈️ Houston, Tx ★ @shopijanelleg ★ @blessedprotein/@ehplabs “CHANELBP” for 10% off🤍
     location: "United States"
-    followers: 3882
-    engagement: 2784
-    commentsToLikes: 0.030487
+    followers: 4758
+    engagement: 1272
+    commentsToLikes: 0.033808
     id: ckaozk7etm8rr0i78gf4zqsnr
     verified: false
-    hashtags: "#motivation, #selflove, #glutes, #goals"
+    hashtags: "#fotd, #fitnessjourney, #workout, #ootd"
+  - username: "xoxozennnifer"
+    fullname: >-
+      j e n🕊✨🌊🌱🤸🏽‍♀️
+    bio: >-
+      OF THE EARTH here 222 connect - houston | txst alum
+    location: "United States"
+    followers: 4716
+    engagement: 1815
+    commentsToLikes: 0.065075
+    id: ckap1b40cttkq0i78ptkfrt17
+    verified: false
+    hashtags: "#sisters, #om, #love, #divinefeminine"
 ---

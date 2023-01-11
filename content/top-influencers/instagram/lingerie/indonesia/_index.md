@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Indonesia in 2023
+title: Top 10 Lingerie Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top lingerie Instagram influencers in Indonesia in 2023. Most popular hashtags: #portrait #lingerie #model.
+  Find top lingerie Instagram influencers in Indonesia in 2023. Most popular hashtags: #lingerie #photooftheday #instagood #fashion.
 platform: Instagram
-hits: 24
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 24 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 18
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 18 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "jaydekemp12"
     fullname: >-
       jaydekemp12
     bio: >-
-      •I collect tattoos & lingerie •@stronglifter😻💕 •Mother of @happybluestaffy🐶 •🆕 @happyshq •Aspiring lingerie designer💋 • BIKINIS 👙⤵️
+      •I collect tattoos & lingerie •@stronglifter😻💕 •Mother of @happybluestaffy🐶 •🆕 @happyshq •Be the first to access @devilishdemeanour ⤵️
     location: "Indonesia"
-    followers: 9000
-    engagement: 778
-    commentsToLikes: 0.040087
+    followers: 8882
+    engagement: 791
+    commentsToLikes: 0.041753
     id: ck5hjgegdgkxt0i11fwbj91ae
     verified: false
-    hashtags: "#weekendgym, #gymdaily, #allblackoutfit, #sushitime"
+    hashtags: "#ysl, #allblackeverything, #allblackoutfit, #longhairdontcare"
   - username: "taniafrisca_"
     fullname: >-
       T A N I A F D Z R🌻
     bio: >-
-      •📍tangerang selatan • Entertaiment🎬 •🚫 No bikini& Lingerie
+      • akun jualan @olniashop_ •📍tangerang selatan •@eh_alvian💓 • Entertaiment🎬 •🚫 No bikini& Lingerie
     location: "Indonesia"
-    followers: 4915
-    engagement: 1756
-    commentsToLikes: 0.051851
+    followers: 4885
+    engagement: 1709
+    commentsToLikes: 0.048929
     id: ck6udfffaks2h0j71f0qnbowl
     verified: false
-    hashtags: "#fypage, #lf, #likesforlike, #kfm"
-  - username: "olya_seteykina"
-    fullname: >-
-      𝓞𝓵𝓰𝓪 𝓢𝓮𝓽𝓮𝔂𝓴𝓲𝓷𝓪
-    bio: >-
-      Lingerie model @olya_seteykina_ 📍Phuket
-    location: "Indonesia"
-    followers: 646660
-    engagement: 158
-    commentsToLikes: 0.022838
-    id: ck15ukq2cnnnr0i19x24heffx
-    verified: false
-    hashtags: ""
+    hashtags: "#muakfm, #kfmupdete, #crf, #crfsupermoto"
   - username: "ps.artnaked"
     fullname: >-
       PAULIUS STEFANOVICIUS
     bio: >-
-      🇱🇹 Lithuanian-born photographer 📍LT - till the end of madness 📷 Swimwear•Lingerie•Artnude•Lifestyle ⌨️ DM / Email for Inqueries Art Nude Gallery ⤵️
+      📍Lithuania 📷 Swimwear•Lingerie•Artnude•Lifestyle ⌨️ DM / Email for Inqueries Art Nude Gallery ⤵️
     location: "Indonesia"
-    followers: 11823
-    engagement: 574
-    commentsToLikes: 0.010277
+    followers: 13145
+    engagement: 694
+    commentsToLikes: 0.005199
     id: ck15pqq5wz6q30i19vxqlyqh6
     verified: false
-    hashtags: "#beachphotographer, #beachaddict, #summerforever, #beacheveryday"
+    hashtags: "#balibody, #baliphotographer, #holidayphotoshoot, #baliphotographers"
   - username: "drhandamari"
     fullname: >-
       ꦲꦤ꧀ꦢꦩꦫꦶ
     bio: >-
-      Lingerie Enthusiast ✨ #plusandproud Work with me 👉🏻 DM/EMAIL 📩 thekittyhunny@gmail.com 📍Surakarta
+      📍SOLO - ID Lingerie Enthusiast ✨ Thrift Shop @disasterxsisters #plusandproud Work / Collab with me 👉🏻 DM/EMAIL 📩 thekittyhunny@gmail.com
     location: "Indonesia"
-    followers: 10002
-    engagement: 286
-    commentsToLikes: 0.020369
+    followers: 10187
+    engagement: 292
+    commentsToLikes: 0.018451
     id: ck5zyua94ajho0i14dwbi2gzv
     verified: false
-    hashtags: "#ootdbigsizeindo, #boldandcurvy, #plusandproud, #plussizeindonesia"
-  - username: "evgeniya_wushu"
+    hashtags: "#plussizeindonesia, #plusandproud, #ootd, #lingerieforeverybody"
+  - username: "bondaumirahtaib"
     fullname: >-
-      Yevgeniya
+      Director of Le Maream
     bio: >-
-      🏆World champion 🌟Influencer 💕Model 🌺For collabs & business inquiry : DM
+      29 yrs🇲🇾|From Medical to Lingerie|Bonda of 5 kids| @lemaream and aiming to #rejuvenatemarriage. WORK: umirahtaib@gmail.com telegram channel:
     location: "Indonesia"
-    followers: 7895
-    engagement: 921
-    commentsToLikes: 0.040584
-    id: ck5zp5r74s1ey0i14cma2a90b
+    followers: 61214
+    engagement: 251
+    commentsToLikes: 0.017584
+    id: ck5q0y5wz8bxx0i11jxgm2ggi
     verified: false
-    hashtags: "#cirquedesoleil, #performingarts, #beautifulgirls, #curves"
-  - username: "rochdizakaria"
+    hashtags: "#maryamfatimah, #maryamkhadija, #founderlemaream, #maryamlathifa"
+  - username: "staniaszekx"
     fullname: >-
-      Rochdi Zakaria
+      Dominika Staniaszek
     bio: >-
-      ● Filmmaker 🎥 | | Photographer 📸 🎞 ● Reppin' Morockingz crew | ✈️ : 🇹🇷 | 🇮🇩 | 🇭🇺 | 🇿🇦 | Based in Casablanca 📍 #filmmaking #photography 🔴 YouTube :
+      🇵🇱♒️ Model at @as_management caro.grynik@asmanagement.pl
     location: "Indonesia"
-    followers: 10408
-    engagement: 455
-    commentsToLikes: 0.041475
-    id: ck14ht9tfc0te0i19o3vsjfk3
+    followers: 9766
+    engagement: 2161
+    commentsToLikes: 0.021204
+    id: ckap86xw2n3l60i78siohlyyd
     verified: false
-    hashtags: "#boudoirphotos, #footballshirt, #psg, #barcelona"
-  - username: "joshi.dio69"
+    hashtags: "#model, #yachtlife, #girl, #instamood"
+  - username: "zaralenajackson"
     fullname: >-
-      Joshua Dio | 约书亚
+      𝐙𝐚𝐫𝐚𝐋𝐞𝐧𝐚 𝐉𝐚𝐜𝐤𝐬𝐨𝐧
     bio: >-
-      @joshi.dio 👈 was hacked at 234K KOMPOSISI MEDIA ENTERTAMA ~ P.O.L.O.S ~ @poseloesexy +62 812 333 44 5 6
+      🌬𝙿𝚛𝚎𝚜𝚝𝚘𝚗/𝙼𝚊𝚗𝚌𝚑𝚎𝚜𝚝𝚎𝚛📍 🗣𝙰𝚕𝚘𝚙𝚎𝚌𝚒𝚊𝚗 𝙵𝚊𝚒𝚛𝚢 @zaralenacosmetics🧚‍♀️ 👗𝙳𝚛𝚎𝚜𝚜𝚖𝚊𝚔𝚎𝚛 𝙻𝚊𝚋𝚎𝚕 @zaralena✨ 📺𝐌𝐓𝐕📺 📸𝙼𝚘𝚍𝚎𝚕/𝙿𝚁 𝙴𝚗𝚚𝚞𝚒𝚛𝚒𝚎𝚜 - Brandon@pwrmanagement.co.uk 💌
     location: "Indonesia"
-    followers: 45722
-    engagement: 83
-    commentsToLikes: 0.037895
-    id: ck0tz9a2gpl9l0i19aylolf6a
-    verified: false
-    hashtags: "#summerbabes, #cuteasiangirls, #photoshoot, #asianbeauty"
-  - username: "_giulia_lamarca"
-    fullname: >-
-      Giulia Lamarca
-    bio: >-
-      ADVENTURE. INCLUSION. DISCLOSURE 🌏 Travel Journalist 🤙 YouTube ☀️Human rights 💦Wake
-    location: "Indonesia"
-    followers: 49826
-    engagement: 604
-    commentsToLikes: 0.020506
-    id: ck6u7uol0nqyo0j71tk8x6aov
+    followers: 207772
+    engagement: 128
+    commentsToLikes: 0.056286
+    id: ck5zpzngctnjc0i14gmj4185w
     verified: true
-    hashtags: "#fvglive, #exploretheworld, #planetearth, #creativethinking"
+    hashtags: "#teamboandtee, #ohpolly, #fashion, #nikkintimates"
+  - username: "hanickach"
+    fullname: >-
+      Ing. Hana Chomaničová
+    bio: >-
+      Model, Photo-model 💞@zlyart Ambassador @tajnaclub Finalist Miss Czech Press 2016 Cooperation with eshops 👙
+    location: "Indonesia"
+    followers: 114586
+    engagement: 206
+    commentsToLikes: 0.031239
+    id: ck5q229kfdx5k0i11qkkir2wo
+    verified: false
+    hashtags: "#hanickach, #prahacity, #fashionartist, #zlyart"
   - username: "stephanie.bex"
     fullname: >-
-      STEPHANIE BEX
+      Stephanie | TRAVEL l HEALTH |
     bio: >-
-      28 model & worldtraveler 🌱 plantbased diet 📥 for collabs send a dm
+      𖥸 CRYPTO INVESTOR 𖥸 SOCIAL MEDIA MANAGEMENT 𓃠. @stephanie.bexvip
     location: "Indonesia"
-    followers: 10211
-    engagement: 698
-    commentsToLikes: 0.083315
+    followers: 13636
+    engagement: 447
+    commentsToLikes: 0.060963
     id: ckaovrfse5u1b0i78qcaq89rj
     verified: false
-    hashtags: "#zafulswimwear, #lifewisdom, #thepresetbundle, #indtravel"
+    hashtags: "#instagood, #photooftheday, #photography, #love"
+  - username: "iszakeszti"
+    fullname: >-
+      iszakeszti
+    bio: >-
+      Viva Tv - Tv presenter - Model - Has sick attraction to music...••• Founder and owner of @isaanofficial •••
+    location: "Indonesia"
+    followers: 200752
+    engagement: 189
+    commentsToLikes: 0.013155
+    id: ck5byg1nip2qf0i11cbbk7pns
+    verified: true
+    hashtags: "#ootd, #yogalife, #yoga, #healthylife"
 ---

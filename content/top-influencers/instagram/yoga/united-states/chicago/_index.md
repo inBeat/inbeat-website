@@ -1,118 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Chicago in 2023
+title: Top 10 Yoga Instagram Influencers In Chicago In 2023
 description: >-
-  Find top yoga Instagram influencers in Chicago in 2023. Most popular hashtags: #yoga #chicago #artwork.
+  Find top yoga Instagram influencers in Chicago in 2023. Most popular hashtags: #yoga #chicago #sunset #chicagomodel.
 platform: Instagram
-hits: 40
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 40 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 35
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 35 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "tobiberta"
-    fullname: >-
-      Andrea Tobar ❣️
-    bio: >-
-      I draw, I travel & post about life & stuff ✏️ Shop here ⬇️ http://www.etsy.com/shop/andreatobarshop 🇸🇻🇵🇦 @the_standby_family
-    location: "United States"
-    followers: 41406
-    engagement: 526
-    commentsToLikes: 0.049655
-    id: ck6uddbyrkg810j71coz3q7dr
-    verified: false
-    hashtags: "#illustration, #foodillustration, #digitalillustration, #places"
-  - username: "fabi_yoga"
-    fullname: >-
-      Fabiola Ma
-    bio: >-
-      DYRT 200/500/800 Dharma Yoga E-RYT500 & YACEP #dharmayogamonterrey 📍MTY, MX | Casa Xoles:
-    location: "United States"
-    followers: 9408
-    engagement: 366
-    commentsToLikes: 0.073300
-    id: ck9wfpk3lpxm60j78w507as38
-    verified: false
-    hashtags: "#yogamonterrey, #yogalife, #igyoga, #dharmayogamonterrey"
   - username: "maria.koche"
     fullname: >-
       Maria Koché
     bio: >-
-      💃🏼Dancer @columbiachi @insomniacevents 👠Model @moorecreativetalent 🤓 Accountant 🤸🏼‍♀️IFPA Certified Flexibility Specialist 📍#chicago
+      ⭕️IFPA Certified Flexibility Specialist @aspis_chicago ⭕️Dancer @columbiachi @insomniacevents ⭕️Model @moorecreativetalent 📍#chicago
     location: "United States"
-    followers: 11014
-    engagement: 544
-    commentsToLikes: 0.074865
+    followers: 14933
+    engagement: 361
+    commentsToLikes: 0.072883
     id: ck15qs12r4ct40i190sexxn5p
     verified: false
-    hashtags: "#chicagodancer, #gymnast, #chicago, #stretching"
-  - username: "docrheumatic"
+    hashtags: "#chicagoyoga, #activeflexibility, #flexible, #chicago"
+  - username: "kelseyfank"
     fullname: >-
-      Shikha S, MD
+      Kelsey Fankhauser ♡
     bio: >-
-      Rheumatologist 🇮🇳✈️🇺🇸 I strive to keep looking forward while living today to the fullest.
+      hi, it’s kels. welcome to my colorful life ◡̈ — model / influencer / cat mama — scorpio ♏️ chi📍 kelseyfank44@gmail.com discount codes! ✨ ↴
     location: "United States"
-    followers: 2622
-    engagement: 947
-    commentsToLikes: 0.162070
-    id: ckaotbuifv8540i78o2g58xcl
+    followers: 18898
+    engagement: 181
+    commentsToLikes: 0.045896
+    id: ck5q1dtzaaikw0i11xzbo8me1
     verified: false
-    hashtags: "#womeninmedicine, #mbbslife, #rheumatology, #patientcare"
-  - username: "minafakouhi"
+    hashtags: "#chicagoblogger, #chiinfluencer, #socialitemedia, #chitown"
+  - username: "marvelousinthemidwest"
     fullname: >-
-      Mina مینا‎
+      CARA ♥︎ Chicago Blogger
     bio: >-
-      ≗ yoga + mediation ≋ sound bath experiences ⋒ based in chicago
+      Lifestyle ✿ Fashion ✿ Travel ✿ Mommy & Me 📍Chicago 💍Wife & Mom to 👶🏼🐶 💌: marvelousinthemidwest@gmail.com 🛍Shop ⬇️ Liketoknow.it/marvelousinthemidwest
     location: "United States"
-    followers: 5163
-    engagement: 385
-    commentsToLikes: 0.075305
-    id: ck5q3quxam05d0i11ohu2exi9
+    followers: 54460
+    engagement: 127
+    commentsToLikes: 0.073044
+    id: ck0vx7lhmxjlj0i1955h5o41b
     verified: false
-    hashtags: "#crystaltones, #soundbath, #sendinglove, #proactivepractice"
+    hashtags: "#rdbabe, #ootd, #ltkbaby, #chicagoblogger"
+  - username: "realsircruse"
+    fullname: >-
+      Sir Cruse
+    bio: >-
+      ⚠️Dm Response=$15 ⚠️Cashapp: $Sircruse27
+    location: "United States"
+    followers: 383400
+    engagement: 185
+    commentsToLikes: 0.021284
+    id: ck5c6ejz359yd0i11zgy9b3lo
+    verified: false
+    hashtags: "#waves, #chicagomua, #motivation, #curlybeauties"
+  - username: "futureteller"
+    fullname: >-
+      gifford kasen
+    bio: >-
+      @logansquaretattoo Chicago @bornweird_tattoo Boise sept28-oct1st Futuretellerart@gmail.com
+    location: "United States"
+    followers: 24841
+    engagement: 82
+    commentsToLikes: 0.017116
+    id: ck15u2qtll5000i19gpgx1tp1
+    verified: false
+    hashtags: "#blackandgrey, #boise, #futureteller, #biomech"
+  - username: "lvnstudio"
+    fullname: >-
+      LVN Studio
+    bio: >-
+      This is Diego 😁📸 🔴 Youtube: The LVN Crew 📸 Founder of @portrait_trends 🙋🏻‍♂️Personal @dieegoedu 📩 Email to book a 📸 Tutorials Discounted 👇🏼
+    location: "United States"
+    followers: 242528
+    engagement: 650
+    commentsToLikes: 0.014861
+    id: ck138zsomitq20i19qmylb181
+    verified: false
+    hashtags: "#portrait, #ocfportraits, #reelsinstagram, #ourportraitdays"
+  - username: "merediddys"
+    fullname: >-
+      Meredith Stepien
+    bio: >-
+      Chicago-based comedian, Starkid, musician!! Band: @jimandthepovolos //Theater: @therealteamstarkid // Rep’d by: @paonessatalentagency // she/they
+    location: "United States"
+    followers: 69142
+    engagement: 441
+    commentsToLikes: 0.004983
+    id: ck0vuvfr9mcde0i19okhp01rq
+    verified: true
+    hashtags: "#vhschristmascarol, #snow, #sunset, #morning"
   - username: "majer_eddie"
     fullname: >-
       Eddie Ryan
     bio: >-
       From Chicago living in Edinburg Texas. Life is good 👇 YouTube
     location: "United States"
-    followers: 15226
-    engagement: 251
-    commentsToLikes: 0.042317
+    followers: 14927
+    engagement: 243
+    commentsToLikes: 0.044600
     id: ck5c5susd43a10i11o8u1tci4
     verified: false
-    hashtags: "#skate, #skateboardingisfun, #yoga, #skatelife"
-  - username: "furassicpark"
+    hashtags: "#skatelife, #dklgriptape, #skateboardingisfun, #vans"
+  - username: "noellereidmd"
     fullname: >-
-      Foster Purrents ANDREA & RICH
+      Noelle Reid MD
     bio: >-
-      🌿FURASSIC PARK🌱 🥩Raw fed foster carnivores 🐈 🦖Welcome to our Chicago apartment aka Furassic Park Resident cats @chicagoblackcat 🐈🐈 ⬇️Cat Food⬇️
+      Owner-Trinity Health & Wellness/Board Certified Family Med/Yoga-CYT/Media Health Expert as seen on FOX/ABC/GMA/BRAVO/ MD consult @celltrient
     location: "United States"
-    followers: 23215
-    engagement: 2215
-    commentsToLikes: 0.016253
-    id: ck0vziuvb9bo60i19z9qmcikv
-    verified: false
-    hashtags: "#aspenadlerfurassicpark, #adopted, #rescuecat, #obligatecarnivore"
-  - username: "alissajosey"
+    followers: 33346
+    engagement: 177
+    commentsToLikes: 0.071195
+    id: ck5hsi74jwn3j0i11db77cwdh
+    verified: true
+    hashtags: "#letsgo, #health, #wellnessjourney, #cellularhealth"
+  - username: "minafakouhi"
     fullname: >-
-      Alissa Jo
+      مینا‎
     bio: >-
-      ♫, 𝐦𝐨𝐯𝐞𝐦𝐞𝐧𝐭, & meditation as 𝘮𝘦𝘥𝘪𝘤𝘪𝘯𝘦 Founder of @deephouseyoga.us Producer @dybrkr Chicago
+      ≗ mover of mind & bodies ≋ sound bath experiences ⋒ based in chicago
     location: "United States"
-    followers: 10166
-    engagement: 517
-    commentsToLikes: 0.081083
-    id: ck5hhmnhv90zx0i11lqfz08yq
+    followers: 5103
+    engagement: 425
+    commentsToLikes: 0.087583
+    id: ck5q3quxam05d0i11ohu2exi9
     verified: false
-    hashtags: "#simplemillsparter, #sponsored, #soulmates, #navypier"
-  - username: "r_blume"
-    fullname: >-
-      rblume
-    bio: >-
-      Artist || Yogi 🌈🦅🌞🎨🐲🎶 The door is now and the password is Love. Chicago ryan.j.blume@gmail.com
-    location: "United States"
-    followers: 10858
-    engagement: 481
-    commentsToLikes: 0.045465
-    id: ck15umirgnwji0i19yhygx698
-    verified: false
-    hashtags: "#painting, #chakras, #visionaryart, #artwork"
+    hashtags: "#meditation, #chicagoyoga, #mindfulness, #mindset"
 ---

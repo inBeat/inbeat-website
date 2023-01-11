@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Sydney in 2023
+title: Top 10 Food TikTok Influencers In Sydney In 2023
 description: >-
-  Find top food TikTok influencers in Sydney in 2023. Most popular hashtags: #australia #food #sydney #foryoupage.
+  Find top food TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #food #australia #fyp.
 platform: TikTok
-hits: 35
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat has 35 TikTok influencers like this in Sydney, Australia for you to connect with.
+hits: 42
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 42 TikTok influencers like this in Sydney, Australia for you to collaborate.
 profiles:
-  - username: "chongybrah"
-    fullname: >-
-      Chongy
-    bio: >-
-      Bris
-    location: "Australia"
-    followers: 34000
-    engagement: 1497
-    commentsToLikes: 0.016333
-    id: ck81swb9rtkv10j78pjbv5vy2
-    verified: false
-    hashtags: "#australia, #aussie, #ohno, #polynesian"
   - username: "ashe_media"
     fullname: >-
       ashe_media
     bio: >-
       Hi its Liam Business- liamashesocials@gmail.com Insta/snap- ashe_media
     location: "Australia"
-    followers: 103600
-    engagement: 1376
-    commentsToLikes: 0.011112
+    followers: 142800
+    engagement: 1221
+    commentsToLikes: 0.011110
     id: cka5z125uko3m0i78ew259dvp
     verified: false
-    hashtags: "#woolies, #diving, #duet, #tv"
-  - username: "_danny__loyd_"
-    fullname: >-
-      Just for fun 😁😁😁
-    bio: >-
-      21 🍪 just a guy for fun now! I'm barely on tiktok 🤣🤣🤣
-    location: "Australia"
-    followers: 19800
-    engagement: 1278
-    commentsToLikes: 0.022136
-    id: ckc8x8dtfl0q20j23tons20sr
-    verified: false
-    hashtags: "#duet, #fyp, #foryou, #relate"
+    hashtags: "#eastershow, #australia, #woolies, #rides"
   - username: "andyescapes"
     fullname: >-
       Andrew
     bio: >-
-      Videographer 📸 Always Adventuring | Syd 🇦🇺 Check the IG for the bangers 🔥
+      Videographer 📸 Always Adventuring | 🇦🇺 Check the IG for the bangers 🔥
     location: "Australia"
-    followers: 79400
-    engagement: 816
-    commentsToLikes: 0.018667
+    followers: 117300
+    engagement: 863
+    commentsToLikes: 0.017261
     id: ckbffu2t3apxc0j23ajpez8yv
     verified: false
-    hashtags: "#drone, #transition, #cinematic, #viral"
+    hashtags: "#sunset, #helicopter, #waterfall, #foodtiktok"
+  - username: "thatgirlfaf"
+    fullname: >-
+      Thatgirlfaf
+    bio: >-
+      
+    location: "Australia"
+    followers: 2890
+    engagement: 223
+    commentsToLikes: 0.031255
+    id: cka0vl5iuyzno0i78jpctlwhg
+    verified: false
+    hashtags: "#foryourpage, #quarantine, #fyp, #versace"
+  - username: "danmeet.singh"
+    fullname: >-
+      Meet singh
+    bio: >-
+      Faith in God love sydney 🇦🇺 follow me on instagram 👆🏻👆🏻😇
+    location: "Australia"
+    followers: 22300
+    engagement: 472
+    commentsToLikes: 0.000000
+    id: ckbkpcyfojomi0j23b6hbeilk
+    verified: false
+    hashtags: "#love, #brisbane, #classof2020, #canada"
   - username: "ryanpaturzo"
     fullname: >-
       Ryanpaturzo
     bio: >-
       The guy with famous hands Producer @Buzzfeed Tasty 🙌🏼🍔🍕🌮 **Personal account
     location: "Australia"
-    followers: 64400
-    engagement: 1037
-    commentsToLikes: 0.016850
+    followers: 69700
+    engagement: 1141
+    commentsToLikes: 0.018297
     id: ckb0u97b5jkel0j23g079ifdc
     verified: false
-    hashtags: "#food, #tasty, #dessert, #foodie"
-  - username: "a_osman_"
+    hashtags: "#melbourne, #beach, #dessert, #easyrecipe"
+  - username: "itsjanicefung"
     fullname: >-
-      A Osman
+      Itsjanicefung
     bio: >-
-      For a Laugh
+      📷 IG: itsjanicefung 👇🏼100+ videos on Food & Travel! 🥘 ✈️ 🍣
     location: "Australia"
-    followers: 2458
-    engagement: 562
-    commentsToLikes: 0.041808
-    id: ckbfftzbaaph00j2323405h0e
+    followers: 20100
+    engagement: 849
+    commentsToLikes: 0.017488
+    id: ckc7w5ka1zf870j23jhbp57ls
     verified: false
-    hashtags: "#foryoupage, #dontletthisflop, #fyp, #wipeitdown"
-  - username: "lukedamant"
+    hashtags: "#travelmememories, #eats, #foodreview, #tiktokau"
+  - username: "karimdaddyslim"
     fullname: >-
-      Luke Damant
+      Karim
     bio: >-
-      Travel vlogger 20 years young sydney, aus 🇦🇺 43K + Instagram: 145K + YouTube
+      1 MINUTE VLOGS INSTAGRAM 📥 | Karimdaddyslim@gmail.com
     location: "Australia"
-    followers: 350900
-    engagement: 690
-    commentsToLikes: 0.074940
-    id: ck8orm0m4cub50j78e0r042jl
+    followers: 169700
+    engagement: 1750
+    commentsToLikes: 0.006397
+    id: cka0xd8w86kqv0i78mt9b95un
     verified: false
-    hashtags: "#australia, #travel, #european, #food"
-  - username: "brookie12601"
+    hashtags: "#sydney, #vlog, #minivlog, #dayinthelife"
+  - username: "real_blackbox"
     fullname: >-
-      Brooke
+      Arman
     bio: >-
-      💕I appreciate you💕 🇦🇺Newcastle/Sydney Australia🇦🇺 🙂Smile beautiful🙂
+      ✈️ Traveller 🎞 storyteller I travel, tell stories and expose scammers
     location: "Australia"
-    followers: 18700
-    engagement: 1615
-    commentsToLikes: 0.045037
-    id: ckc384h9lwxjw0j231otyge09
+    followers: 18200
+    engagement: 315
+    commentsToLikes: 0.045385
+    id: ckd6haw149qo30j23f3f6vdea
     verified: false
-    hashtags: "#mybff, #australia, #trending, #dayoutwithfriends"
-  - username: "sydneyspearos"
+    hashtags: "#taipei, #flashback, #travelmemories, #fyp"
+  - username: "johnfredrie"
     fullname: >-
-      sydney spearos
+      John Guanzon
     bio: >-
-      @sydney.spearos insta @Sydney spearos spearfishing f/b follow and comment
+      Video producer for @news.com.au 📹 / Dad of three 👦🏻👦🏻👧🏻 /
     location: "Australia"
-    followers: 217100
-    engagement: 449
-    commentsToLikes: 0.024532
-    id: ck83wz6byn75q0j78mjg27hju
+    followers: 2822
+    engagement: 510
+    commentsToLikes: 0.049227
+    id: ckb9gn2as5sk80j230woahy4c
     verified: false
-    hashtags: "#oceanadict, #foryoupage, #theman, #ocean"
-  - username: "gabreal.hungry"
+    hashtags: "#trending, #sydney, #australia, #foryoupage"
+  - username: "angelmaybowyer"
     fullname: >-
-      Gabrielle
+      Angel Bowyer
     bio: >-
-      I love food and boba too much
+      Insta is the main ^^^
     location: "Australia"
-    followers: 5082
-    engagement: 863
-    commentsToLikes: 0.026709
-    id: ckauyssfw4aiw0j233wipxz1x
+    followers: 78600
+    engagement: 727
+    commentsToLikes: 0.012636
+    id: ck9drttly5h0n0j78j1ss8efy
     verified: false
-    hashtags: "#quarantine, #albumcover, #chiangrai, #albumcoverchallenge"
+    hashtags: "#colorcustomizer, #viral, #fyp, #flipping"
 ---

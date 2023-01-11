@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Poland in 2023
+title: Top 10 Fashion TikTok Influencers In Poland In 2023
 description: >-
-  Find top fashion TikTok influencers in Poland in 2023. Most popular hashtags: #foryou #fyp #dlaciebie #dc.
+  Find top fashion TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #viral #foryou #foryoupage.
 platform: TikTok
 hits: 86
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 86 TikTok influencers like this in Poland for you to connect with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 86 TikTok influencers like this in Poland for you to contact.
 profiles:
+  - username: "gooldb3rry"
+    fullname: >-
+      komorosia👼🏼
+    bio: >-
+      22 yo 👼🏼 • fashion lifestyle gamegirl • Ig: gooldb3rry ✨🤍
+    location: "Poland"
+    followers: 100500
+    engagement: 1101
+    commentsToLikes: 0.049857
+    id: ckb9qi1d5mig80j23qgjj9du4
+    verified: false
+    hashtags: "#foryoupage, #dlaciebie, #foryou, #viral"
+  - username: "ewaszabatin"
+    fullname: >-
+      Ewa Szabatin
+    bio: >-
+      FIT FASHION FREAK🌱 Follow ➡️ insta: @ewaszabatin https: https://ewaszabatin.pl
+    location: "Poland"
+    followers: 17500
+    engagement: 371
+    commentsToLikes: 0.062295
+    id: ck9036nhjd1t00j78ne5nonpk
+    verified: true
+    hashtags: "#healthyhabit, #owoce, #zdrowie, #zdroweprzepisy"
+  - username: "agataserge"
+    fullname: >-
+      agataserge
+    bio: >-
+      📸 FASHION & BEAUTY PHOTOGRAPHER 📸 📍New York / Warsaw / Milan📍
+    location: "Poland"
+    followers: 9640
+    engagement: 751
+    commentsToLikes: 0.029322
+    id: ck8z1is1a1s3t0j78fymu68vt
+    verified: true
+    hashtags: "#fashionphotography, #beforeandafter, #behindthescenes, #fotografia"
+  - username: "milenabekalarska"
+    fullname: >-
+      Milena Bekalarska
+    bio: >-
+      ✨Style Tips & Fashion vibes✨ Instagram: @milena_bekalarska
+    location: "Poland"
+    followers: 5873
+    engagement: 916
+    commentsToLikes: 0.028838
+    id: ckc80l49s1x1e0j23j8pi90ci
+    verified: false
+    hashtags: "#tiktokfashion, #outfit, #howtostyle, #fashioninspo"
   - username: "aliakseimaat"
     fullname: >-
       Aliaksei Maat
     bio: >-
-      Fashion & content photographer Instagram: @lesha_maatik Cracow
+      Fashion & content photographer Cracow
     location: "Poland"
-    followers: 58200
-    engagement: 471
-    commentsToLikes: 0.015771
+    followers: 57400
+    engagement: 465
+    commentsToLikes: 0.014398
     id: ck8ke55xs8qqy0j78h653rdb2
     verified: false
-    hashtags: "#foryourpage, #top, #backstage, #foryouppage"
+    hashtags: "#foryouppage, #backstage, #foryou, #top"
   - username: "mamiczka"
     fullname: >-
-      Weronika Heck
+      Mamiko
     bio: >-
       Fashion&Beauty&Lifestyle
     location: "Poland"
-    followers: 643300
-    engagement: 1137
-    commentsToLikes: 0.006016
+    followers: 643200
+    engagement: 1076
+    commentsToLikes: 0.006849
     id: ck8kn9u2xc7zk0j789iwy6512
     verified: true
-    hashtags: "#foryou, #foryoupage, #makeup, #kylieskin"
+    hashtags: "#foryoupage, #foryou, #makeup, #transformation"
   - username: "monikalewczuk"
     fullname: >-
       Monika Lewczuk
     bio: >-
       Artist 🎤 Beauty • Healthy Lifestyle • Fashion 💄🌶 📩: management@nowascena.pl
     location: "Poland"
-    followers: 6289
-    engagement: 509
-    commentsToLikes: 0.020855
+    followers: 8530
+    engagement: 520
+    commentsToLikes: 0.019898
     id: cka5zmovxne5q0i78wg18vujn
     verified: false
-    hashtags: "#healthyhabits, #beauty, #fyp, #veganrecipe"
+    hashtags: "#dc, #makeup, #perfumy, #trend"
   - username: "ssolkosss"
     fullname: >-
       ssolkosss
     bio: >-
-      #momlife #lifestyle #moda #fashion #braids @ssolkosss IG 52k 🎓🐟🌷
+      #momlife #lifestyle #moda #fashion #braids @ssolkosss IG 56k 🎓🐟🌷
     location: "Poland"
-    followers: 9078
-    engagement: 724
-    commentsToLikes: 0.009746
+    followers: 12400
+    engagement: 479
+    commentsToLikes: 0.014619
     id: ck9rpd3f4gxsm0j78zgtqtaia
     verified: false
-    hashtags: "#coreczka, #viral, #kidsfashion, #corka"
+    hashtags: "#flowers, #zmiana, #fryzuranaszybko, #fashionista"
   - username: "cheersmyheels"
     fullname: >-
-      cheersmyheels
+      cheers
     bio: >-
       Fashion FREAK ✌🏼 YOUTUBE: CheersMyHeels INSTA: oliwia_bugala
     location: "Poland"
-    followers: 50600
-    engagement: 597
-    commentsToLikes: 0.008308
+    followers: 64500
+    engagement: 800
+    commentsToLikes: 0.007395
     id: ckbf4fi7jsxz60j239lbjlp6t
     verified: false
-    hashtags: "#falloutfit, #trends2020, #transformation, #diy"
+    hashtags: "#moda, #transformation, #howtopose, #posingtips"
   - username: "juliahajdenraich"
     fullname: >-
       Julia Hajdenraich
     bio: >-
       Fun Diet & Fashion 20yo Ig: thinkloud_
     location: "Poland"
-    followers: 10700
-    engagement: 534
-    commentsToLikes: 0.006051
+    followers: 12800
+    engagement: 359
+    commentsToLikes: 0.010711
     id: cka0jird0i55j0i78sy76zn2a
     verified: false
-    hashtags: "#fyp, #trend, #dc, #polska"
-  - username: "agataserge"
-    fullname: >-
-      agataserge
-    bio: >-
-      📸 fashion photographer, the funny one Warsaw / New York IG: @agataserge
-    location: "Poland"
-    followers: 9085
-    engagement: 652
-    commentsToLikes: 0.013527
-    id: ck8z1is1a1s3t0j78fymu68vt
-    verified: true
-    hashtags: "#behindthescenes, #beforeandafter, #photographer, #postproduction"
-  - username: "mosquitopl"
-    fullname: >-
-      Mosquitopl
-    bio: >-
-      Obserwujcie Nas na Instagramie 👉🏻 @mosquitopl Odwiedź Nas w sklepie! 🛍👇🏻
-    location: "Poland"
-    followers: 5177
-    engagement: 1029
-    commentsToLikes: 0.077332
-    id: ck9vf1fx11fdg0j788e23shpt
-    verified: false
-    hashtags: ""
-  - username: "fitashionn"
-    fullname: >-
-      Fitashionn
-    bio: >-
-      Instagram: @fitashionn Blog: www.fit-ashion.com YouTube: Fitashionn
-    location: "Poland"
-    followers: 4322
-    engagement: 632
-    commentsToLikes: 0.051019
-    id: ckbau4do1kq310j23nc51p4xc
-    verified: false
-    hashtags: "#look, #foryou, #dlaciebie, #ootd"
-  - username: "oliviaabrose"
-    fullname: >-
-      liv
-    bio: >-
-      
-    location: "Poland"
-    followers: 12500
-    engagement: 1516
-    commentsToLikes: 0.024864
-    id: ck9a6xno458qm0j78o0pd90ef
-    verified: false
-    hashtags: "#xyzbca, #fyp, #vintage, #viral"
+    hashtags: "#trend, #dailyroutine, #polska, #friends"
 ---

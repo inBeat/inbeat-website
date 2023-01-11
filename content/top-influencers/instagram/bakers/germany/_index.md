@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Germany in 2023
+title: Top 10 Bakers Instagram Influencers In Germany In 2023
 description: >-
-  Find top bakers Instagram influencers in Germany in 2023. Most popular hashtags: #bakersgonnabake #thebakefeed #bakersofinstagram #backenistliebe.
+  Find top bakers Instagram influencers in Germany in 2023. Most popular hashtags: #bakersofinstagram #foodblogger #backenistliebe #feedfeed.
 platform: Instagram
-hits: 537
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 537 Instagram influencers like this in Germany for you to collaborate.
+hits: 482
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform has 482 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "john_whaite"
-    fullname: >-
-      John Whaite
-    bio: >-
-      📚 Cookery writer and baker. 🏆 #gbbo #gbbs winner 2012. 📺 @packedlunchc4 🏫 cookery school: @johnwhaiteskitchen 🏳️‍🌈
-    location: "Germany"
-    followers: 87398
-    engagement: 251
-    commentsToLikes: 0.027703
-    id: ck6ttzuuvdi8i0j71tf290vbw
-    verified: true
-    hashtags: "#bakersofinstagram, #bakersgonnabake, #pastry, #homebaker"
   - username: "katjas_tortenfabrik"
     fullname: >-
       
     bio: >-
-      Hobby baker Mom of 2 Fragen gern per pn
+      Hobby baker Mom of 2 Fragen gern per pn, Hobby, kein Verkauf!
     location: "Germany"
-    followers: 2685
-    engagement: 1136
-    commentsToLikes: 0.082362
+    followers: 2829
+    engagement: 1516
+    commentsToLikes: 0.053943
     id: ck6tt9vjt9fjh0j71j6dhc6wa
     verified: false
-    hashtags: "#stripedcake, #faultlinecake, #cupcakesofinstagram, #foodblogliebebacken"
+    hashtags: "#macarons, #pastrydelights, #backenistliebe, #foodphotography"
+  - username: "dawnkperry"
+    fullname: >-
+      Dawn Perry
+    bio: >-
+      Head baker 👩‍🍳 @superkindcookies 🍪 Recipe developer and cookbook author Ready, Set, Cook! (Simon & Schuster ‘21)
+    location: "Germany"
+    followers: 20076
+    engagement: 160
+    commentsToLikes: 0.026168
+    id: ck6uagjd83fup0j71sfmpgh66
+    verified: false
+    hashtags: "#fruitcakecookbook"
   - username: "cloedis_sweet_corner"
     fullname: >-
       Claudia
     bio: >-
       Weekendbaker and hobby-photographer from Niedersachsen / Germany 🍦🍰🍨📸📷
     location: "Germany"
-    followers: 4044
-    engagement: 2405
-    commentsToLikes: 0.191051
+    followers: 4304
+    engagement: 2002
+    commentsToLikes: 0.226568
     id: ck55mjmn844420i1194i1932l
     verified: false
-    hashtags: "#myfoodpics, #bakersgonnabake, #bakingfromscratch, #cakestagram"
+    hashtags: "#spicyfood, #bakefeed, #easypeasy, #selbstgemacht"
   - username: "homenherbs"
     fullname: >-
       Home and Herbs
     bio: >-
       Stefanie Stephan | Content Creator | #foodphotography | #foodstylist | #diy | #interior | #recipes | 3fach-Mama 📍Schwäbisch Gmünd/Baden Württemberg
     location: "Germany"
-    followers: 7531
-    engagement: 876
-    commentsToLikes: 0.129415
+    followers: 8974
+    engagement: 569
+    commentsToLikes: 0.134123
     id: ck13550yvzqpb0i19pwgs9vyu
     verified: false
-    hashtags: "#ilovebaking, #herbstliebe, #foodforfoodies, #einfacherezepte"
-  - username: "kitchenversity"
+    hashtags: "#beerenliebe, #backenmachtglu, #abendessen, #cakeoftheday"
+  - username: "nicestthingsblog"
     fullname: >-
-      •Nadine•
+      Vera Wohlleben | Nicest Things
     bio: >-
-      Willkommen- viel Spaß beim Stöbern🔎 👩🏼‍🍳based in Austria🇦🇹 🌺Passion|Kochen und Backen🥨 🍓Quer durch die Geschmackswelt🌶 🌱Rezepte mit|ohne Thermomix®️
+      37, Neustadt an der Weinstraße. Bloggerin, Fotografin, Stylistin für Food & Stills. Kreative Rezepte & Food Fotografie 🍒📷 Blogposts & Infos: ⠀ ⠀ ⠀ ⠀
     location: "Germany"
-    followers: 11057
-    engagement: 767
-    commentsToLikes: 0.101767
-    id: ck8tacm53r81x0j78j6dvnbrr
+    followers: 32176
+    engagement: 226
+    commentsToLikes: 0.080816
+    id: ck0vv9ct7o4ji0i19agn6md17
     verified: false
-    hashtags: "#backenistliebe, #yummyyummy, #yummilicious, #dinnerideas"
+    hashtags: "#gloobyfood, #sweetmagazine, #thebestinstafoods, #huffposttaste"
+  - username: "mamaglueckundkuchenzauber"
+    fullname: >-
+      Stini•Mamaglück&Kuchenzauber
+    bio: >-
+      • Rezepte zum Nachbacken • •Familie, Haus & Garten • BaWü❤️ Mama von 3 #backliebe #backenmitliebe #mamablogger_de
+    location: "Germany"
+    followers: 11777
+    engagement: 640
+    commentsToLikes: 0.090071
+    id: ck8tdd0u12v940j78828qbojk
+    verified: false
+    hashtags: "#diykids, #mamaglueckundkuchenzauber, #bakersofinstagram, #backenmitkindern"
   - username: "zuckerzimtundliebe"
     fullname: >-
       Zuckerzimtundliebe
     bio: >-
       Virginia Horstmann / cookbook author, blogger and culinary traveller 📍Bremen/Germany. #zuckerzimtundliebe 🍰 Alle Rezepte und Impressum auf:
     location: "Germany"
-    followers: 119436
-    engagement: 327
-    commentsToLikes: 0.040683
+    followers: 125138
+    engagement: 369
+    commentsToLikes: 0.034809
     id: ck134cgm1vrpr0i19stvzztwd
     verified: false
-    hashtags: "#imsomartha, #wsbakeclub, #altesland, #eatcaptureshare"
-  - username: "frau_gold"
-    fullname: >-
-      Frau Gold
-    bio: >-
-      Was man macht, soll man schön machen. Shop und Blog:
-    location: "Germany"
-    followers: 16902
-    engagement: 533
-    commentsToLikes: 0.075967
-    id: ck6ugo8hb46470j717imr81a8
-    verified: false
-    hashtags: "#ihavethisthingwithcolours, #supportsmallbusiness, #imakerainbows, #bakersgonnabake"
-  - username: "nicestthingscom"
-    fullname: >-
-      Vera Wohlleben | Nicest Things
-    bio: >-
-      36, Neustadt an der Weinstraße. Bloggerin, Fotografin, Stylistin für Food & Stills. Kreative Rezepte & Food Fotografie 🍒📷 Blogposts & Infos: ⠀ ⠀ ⠀ ⠀
-    location: "Germany"
-    followers: 32854
-    engagement: 289
-    commentsToLikes: 0.062135
-    id: ck0vv9ct7o4ji0i19agn6md17
-    verified: false
-    hashtags: "#backrezepte, #diamantzucker, #sweettooth, #foodblogeats"
-  - username: "klaraslife"
-    fullname: >-
-      Klaraslife Foodblog
-    bio: >-
-      Kathrin Salzwedel & Ramin Madani Fotografie & Food Styling Vegetarische Rezepte 🍂 Süddeutschland E-Mail: Klaraslife@gmx.de Blog/Rezepte
-    location: "Germany"
-    followers: 125101
-    engagement: 162
-    commentsToLikes: 0.052910
-    id: ck0u9mhdea4bt0i196xercs1f
-    verified: false
-    hashtags: "#thebakefeed, #brownies, #foodlover, #food"
+    hashtags: "#thekitchn, #irefdiscover, #thefeedfeedbaking, #myhmhome"
   - username: "mariaplusvier"
     fullname: >-
       Maria
     bio: >-
-      Mom of 3 boys 💙💙💙 Austria 🇦🇹 familylife ⭐️️ DIY ⭐️ #mariaplusvierbäckt #mariaplusvierplottet #mariaplusviermachtparty #mariaplusvieraufreisen
+      Mom of 3 boys 💙💙💙 Austria 🇦🇹 familylife ⭐️️ DIY ⭐️ YOGA #mariaplusvierbäckt #mariaplusvierplottet #mariaplusviermachtparty #mariaplusvieraufreisen
     location: "Germany"
-    followers: 31337
-    engagement: 546
-    commentsToLikes: 0.023697
+    followers: 44072
+    engagement: 528
+    commentsToLikes: 0.024309
     id: ck6twqvp3tkux0j715oks63cc
     verified: false
-    hashtags: "#werbungwegenmarkierung, #ilovebaking, #instabake, #instabaker"
+    hashtags: "#froheostern, #cakedesign, #osterhase, #mariaplusvieraufreisen"
+  - username: "besondersgut"
+    fullname: >-
+      Katharina Arrigoni
+    bio: >-
+      𝚋𝚛𝚎𝚊𝚍 𝚊𝚛𝚝𝚒𝚜𝚝 | 𝚏𝚘𝚘𝚍 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚎𝚛 | 𝚎𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛 | 𝚋𝚎𝚜𝚝𝚜𝚎𝚕𝚕𝚒𝚗𝚐 𝚊𝚞𝚝𝚑𝚘𝚛 | 𝚒𝚏 𝚢𝚘𝚞 𝚗𝚎𝚟𝚎𝚛 𝚝𝚛𝚢 𝚢𝚘𝚞'𝚕𝚕 𝚗𝚎𝚟𝚎𝚛 𝚔𝚗𝚘𝚠!
+    location: "Germany"
+    followers: 71482
+    engagement: 324
+    commentsToLikes: 0.024652
+    id: ck0tzqldqr7gd0i19jzy463ev
+    verified: false
+    hashtags: "#eater, #f52bread, #breadartist, #foodpic"
+  - username: "frau_federleicht_"
+    fullname: >-
+      🌿 Das Leben ist schön! 🌿
+    bio: >-
+      Nadine | 📍Österreich Food| Adventures| Photography
+    location: "Germany"
+    followers: 11678
+    engagement: 387
+    commentsToLikes: 0.053606
+    id: ck8tacm53r81x0j78j6dvnbrr
+    verified: false
+    hashtags: "#kuchen, #bakersgonnabake, #erdbeeren, #heuteaufmeinemteller"
 ---

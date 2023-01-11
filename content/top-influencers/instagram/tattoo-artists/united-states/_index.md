@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In United States in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In United States In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in United States in 2023. Most popular hashtags: #blackwork #tattoos #girlswithtattoos.
+  Find top tattoo-artists Instagram influencers in United States in 2023. Most popular hashtags: #tattoo #skull #tattooart.
 platform: Instagram
-hits: 1246
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 1246 Instagram influencers like this in United States for you to connect with.
+hits: 1659
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 1659 Instagram influencers like this in United States for you to connect with.
 profiles:
+  - username: "horror_tattoo"
+    fullname: >-
+      Anna Chernova
+    bio: >-
+      •Dark…beautiful •Professional Tattoo Artist from LA,SF •Email: Fedorhorror94@gmail.com •Pro Team @hustlebutterdeluxe •Official partnership @tattoodo
+    location: "United States"
+    followers: 32921
+    engagement: 131
+    commentsToLikes: 0.014705
+    id: ck5bub9f4hh850i11l8fezm3z
+    verified: false
+    hashtags: "#hustlerbutter, #hustlerbutterdeluxe, #wjxcartridges, #hustelbutterdeluxe"
+  - username: "elmirakruger"
+    fullname: >-
+      Elmira Kruger
+    bio: >-
+      Hamburg- November 🗓 Designer of your body✍️ TELEGRAM- https://t.me/ElmiraKrugertattoo Tattoo artist
+    location: "United States"
+    followers: 123343
+    engagement: 111
+    commentsToLikes: 0.008961
+    id: ck8svyxj4d7tf0j789kbsvi5w
+    verified: false
+    hashtags: "#rap, #rock, #style, #realism"
+  - username: "anjelika_kartasheva"
+    fullname: >-
+      Anjelika Kartasheva
+    bio: >-
+      Tattooartist 🌎 PRO TEAM 🖌️ @cheyenne_tattooequipment 🎨@intenzetattooink 🗽@sullenclothing Founder🏆@fabrik13_tattoo🏆
+    location: "United States"
+    followers: 57933
+    engagement: 282
+    commentsToLikes: 0.039631
+    id: ck6tuhhftgd9v0j71raebe187
+    verified: false
+    hashtags: "#tattoolife, #anjelikakartasheva, #tattooart, #tattoorostov"
   - username: "brandochiesa"
     fullname: >-
       Brando Chiesa
     bio: >-
-      💖pastel gore💖X🔥Animetal🔥 @tattoodo ambassador @fkirons @eternalink Tattoo artist and illustrator based in Florence Italy 📩brandochiesa01@gmail.com📩
+      💖pastel gore💖X🔥Animetal🔥 🇮🇹 @tattoodo ambassador Tattoo artist and illustrator based in Florence Italy 📩brandochiesa01@gmail.com📩
     location: "United States"
-    followers: 881052
-    engagement: 856
-    commentsToLikes: 0.010038
+    followers: 908866
+    engagement: 854
+    commentsToLikes: 0.009147
     id: ck55pdbauabl20i11jqqhap9a
     verified: true
-    hashtags: "#thering, #hunterxhunter, #sailormoon, #evangelion"
+    hashtags: "#darlinginthefranxx, #totoro, #bratz, #sailormoon"
+  - username: "fabrizioaldobelfiore"
+    fullname: >-
+      Fabrizio Aldo 💎❤️
+    bio: >-
+      • Tattoo artist @inkfab • Owner @inkfab_tattoostudio • 📍 Turin, Italy • 📩 Fabrizioaldobelfiore@gmail.com
+    location: "United States"
+    followers: 278433
+    engagement: 123
+    commentsToLikes: 0.029323
+    id: ck13bszhlx0sl0i19imuyatqb
+    verified: false
+    hashtags: "#bikerstyle, #dapperman, #menstyle, #torino"
   - username: "swat_mtoto_wa_eunice"
     fullname: >-
       MTOTO WA EUNICE
     bio: >-
-      Recording and performing artist at ethic entertainment For booking call +254 701 384919 Art 🖌 (customize )+ Tattoo artist For bookings 0748055337
+      Recording and performing artist at ethic entertainment For booking call Art 🖌 (customize )+ Tattoo artist For bookings 0748055337
     location: "United States"
-    followers: 119477
-    engagement: 486
-    commentsToLikes: 0.022624
+    followers: 119989
+    engagement: 449
+    commentsToLikes: 0.022043
     id: ck5cd8o11iqak0i111z67x3ti
     verified: false
-    hashtags: "#waririsi, #zoenadeen, #dondoka, #try"
-  - username: "getnmoney"
+    hashtags: "#utabaki"
+  - username: "coringilbert"
     fullname: >-
-      PRETTY PAPI ⚜️ONE & ONLY ⚜️
+      Corin Gilbert
     bio: >-
-      I’m PRETTY but I’m PAPI GOD1st 🇲🇽 🇺🇸 CHICANA 💵Entrepreneur 💉Tattoo ARTIST 📍LA/IE 📝DM’s 4 Business ONLY @prettypapicollection @monicashtattoosupply
+      @ivoryngold - Owner San Antonio, Tattoo Artist BOOKS CLOSED •NO DMS• @vanimesole 🌗 Happily Taken
     location: "United States"
-    followers: 18344
-    engagement: 223
-    commentsToLikes: 0.087233
-    id: ck6tk550840xf0j71bg2amc5h
+    followers: 24357
+    engagement: 693
+    commentsToLikes: 0.029091
+    id: ck0tyj6mvn1x00i19sttmtlad
     verified: false
-    hashtags: "#spookytattoos, #monicashcartridges, #tattedup, #greenglide"
-  - username: "tessa.von"
+    hashtags: "#anime, #neotrad, #texasinked, #vitalitreetattoo"
+  - username: "biancavitalex"
     fullname: >-
-      🕸 Tessa Von 🕸
+      Bianca Vitale
     bio: >-
-      🏰 Tattoo artist from Belgium ✉️ Bookings: tessavonvon@gmail.com
+      ♡✧ 𝙲𝙴𝚁𝚃𝙸𝙵𝙸𝙴𝙳 𝙰𝙽𝙸𝙼𝙴 𝙶𝙸𝚁𝙻 ✧♡ • TATTOO ARTIST at @ethereatattoo. 💉 • For collabs→ @loosingconnections
     location: "United States"
-    followers: 39138
-    engagement: 600
-    commentsToLikes: 0.017665
-    id: ck5cgh0pnotpr0i11l67h6fvy
+    followers: 27292
+    engagement: 1109
+    commentsToLikes: 0.013570
+    id: ck0w5v3q65klu0i19j64j711u
     verified: false
-    hashtags: "#blacktattooart, #darkartists, #death, #blacktattoomag"
-  - username: "zeke.tattoo"
+    hashtags: "#selflove, #sailorsaturn, #flashwarning"
+  - username: "dotstolines"
     fullname: >-
-      Zeke Yip
+      Chaim Machlev
     bio: >-
-      Tattoo Artist @Chronicink 🇨🇦 🤍@keeley.lam 🐈 @fafa__chocho For bookings📧Zeke@chronicinktattoo.com
+      Tattoo Artist • Designer Berlin • Los Angeles
     location: "United States"
-    followers: 30333
-    engagement: 453
-    commentsToLikes: 0.024209
-    id: ck9ha5lmrb8wm0j78hvf12frs
-    verified: false
-    hashtags: "#sp5k, #shesaidyes, #10102020"
-  - username: "carlotah_sandiego"
+    followers: 498802
+    engagement: 122
+    commentsToLikes: 0.042947
+    id: ck6tp4lyzht040j71iarm4dm9
+    verified: true
+    hashtags: "#fridaygiveaway, #individualise, #oldnewspaper, #geometrictattoo"
+  - username: "droptop_sg"
     fullname: >-
-      Carla Ricci
+      Black Mamba
     bio: >-
-      ⚜️1st Yr Tattoo Artist •Lines •Realism •Erotic Art •Aerosol A simply vibrant life... Sí way🌹• San Diego, CA @bsd_murals 🌞 DM or email for inquiries❣️
+      🖤Tattoo Artist 🛸@suicidegirls 💉Modified
     location: "United States"
-    followers: 3654
-    engagement: 2430
-    commentsToLikes: 0.013566
-    id: ckaosxfqxtgfg0i78mv5aisdy
-    verified: false
-    hashtags: "#stippling, #thicklines, #floweroflife, #sacredgeometry"
-  - username: "flipshades"
-    fullname: >-
-      Ol’ Snake Face
-    bio: >-
-      #TATTOURIST BOOKS ALWAYS OPEN📖 DM to book in for a tattoo Artists/owners DM to set up a guest spot 👌🏻 #whereisflipshadesnow #
-    location: "United States"
-    followers: 24603
-    engagement: 296
-    commentsToLikes: 0.044910
-    id: ck5hk216whnh00i11l1vhnk12
-    verified: false
-    hashtags: "#crystals, #stickertattoo, #1000crystalclub, #3dtattoo"
-  - username: "23_fon"
-    fullname: >-
-      Fon
-    bio: >-
-      ▪️Father ▪️🏆Award Winning Tattoo Artist ▪️Ink Master Contestant - S12 ▪️Black And Grey Photo-Realism ▪️Money & Ink Tattoo Studio #TattoosByFon
-    location: "United States"
-    followers: 19790
-    engagement: 262
-    commentsToLikes: 0.053963
-    id: ckap6728oeoaq0i78x23h1vst
-    verified: false
-    hashtags: "#tattooart, #tattoogirl, #facetattoo, #tat"
-  - username: "naomikingofficial"
-    fullname: >-
-      Naomi King
-    bio: >-
-      Musician, digital & tattoo artist, author, actor, nonbinary, asexual, animal-loving vegan. 💖 They/them ☀️ naomikingofficial.com @naomikingtattoos
-    location: "United States"
-    followers: 12065
-    engagement: 703
-    commentsToLikes: 0.026714
-    id: ck5heggxyss1y0i115qyylh0v
-    verified: false
-    hashtags: ""
-  - username: "jessiprestontattoos"
-    fullname: >-
-      Jessi Preston
-    bio: >-
-      Tattoo Artist • Owner of @lombardstreettattoo in Portland, OR • All bodies & all skin tones✌️ BOOK NOW:
-    location: "United States"
-    followers: 24149
-    engagement: 324
-    commentsToLikes: 0.029276
-    id: ck5c1b8ssutqp0i111seoxnfh
+    followers: 73751
+    engagement: 983
+    commentsToLikes: 0.010049
+    id: ck0vvytb1rdlb0i1979b0ey0l
     verified: false
     hashtags: ""
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In South Korea in 2023
+title: Top 10 Models TikTok Influencers In South Korea In 2023
 description: >-
-  Find top models TikTok influencers in South Korea in 2023. Most popular hashtags: #fyp #model #korea #foryou.
+  Find top models TikTok influencers in South Korea in 2023. Most popular hashtags: #model #foryou #fyp #trend.
 platform: TikTok
-hits: 26
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 26 TikTok influencers like this in South Korea for you to connect with.
+hits: 17
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 17 TikTok influencers like this in South Korea for you to contact.
 profiles:
-  - username: "iamjina_kim"
+  - username: "evan185_"
     fullname: >-
-      Jina kim 김지나
+      거니거니☘️
     bio: >-
-      MODEL
+      Korean🇰🇷 model.
     location: "South Korea"
-    followers: 420900
-    engagement: 647
-    commentsToLikes: 0.024393
-    id: ck8nbet0l9jop0j78u56elr2q
-    verified: true
-    hashtags: "#asian, #korea, #fyp, #korean"
-  - username: "jun.haem"
-    fullname: >-
-      정현 HYUN
-    bio: >-
-      2019 Mister international korea🇰🇷 fitness model DJ
-    location: "South Korea"
-    followers: 789400
-    engagement: 1199
-    commentsToLikes: 0.035546
-    id: ckbqloqlr6u6u0j23dirxgmzr
-    verified: true
-    hashtags: "#exercise, #fittok, #abs, #bts"
+    followers: 135700
+    engagement: 1312
+    commentsToLikes: 0.056904
+    id: ckcofxaxn2z700j23dj5t0obl
+    verified: false
+    hashtags: "#transformation, #tanness, #dancemachine, #shooting"
   - username: "hayoungbeen"
     fullname: >-
       Hayoung Been
     bio: >-
       Hi I'm Hayoung. I'm a pianist, composer, singer and a model. Nice to enter here♡
     location: "South Korea"
-    followers: 8658
-    engagement: 907
-    commentsToLikes: 0.130212
+    followers: 8975
+    engagement: 823
+    commentsToLikes: 0.143160
     id: ck9jzci2g84xk0j78b6giyzxt
     verified: false
-    hashtags: "#singer, #girl, #dance, #youtuber"
-  - username: "evan185_"
+    hashtags: "#model, #foryou, #dance, #singer"
+  - username: "iamalexischang"
     fullname: >-
-      EVAN🧡
+      Alexis 🧚‍♀️
     bio: >-
-      Korean model.🙌🏻🧡
+      chicago Korean American Model Clubhouse/ 클럽하우스: @iamalexischang 악플= 악플 답변
     location: "South Korea"
-    followers: 134900
-    engagement: 1290
-    commentsToLikes: 0.032765
-    id: ckcofxaxn2z700j23dj5t0obl
+    followers: 34200
+    engagement: 959
+    commentsToLikes: 0.041537
+    id: ckc82n7mh3c850j232nz87srs
     verified: false
-    hashtags: "#model, #koreaman, #korea, #g9"
-  - username: "jack00426"
+    hashtags: "#trend, #xyzbca, #alexis, #fyp"
+  - username: "iamjina_kim"
     fullname: >-
-      jackson
+      Jina kim 김지나
     bio: >-
-      황성현/ Jackson 🇰🇷/21 🇺🇸/19 model / hotelier 👫International couple💞
+      MODEL 💌 tiktok@uzurocks.com
     location: "South Korea"
-    followers: 34800
-    engagement: 1473
-    commentsToLikes: 0.032809
-    id: ckb18ycq1wxl30j23jrzlix6d
-    verified: false
-    hashtags: "#fyp, #bts, #dynamite, #duet"
-  - username: "itizwhvtitiz"
+    followers: 506800
+    engagement: 812
+    commentsToLikes: 0.048025
+    id: ck8nbet0l9jop0j78u56elr2q
+    verified: true
+    hashtags: "#korean, #koreangirl, #fyp, #korea"
+  - username: "b4dape"
     fullname: >-
       역시는역시
     bio: >-
       KOREAN 🇰🇷 MODEL / DJ CONTACT DM 📩
     location: "South Korea"
-    followers: 335100
-    engagement: 1391
-    commentsToLikes: 0.020362
+    followers: 380500
+    engagement: 1377
+    commentsToLikes: 0.017082
     id: ckbqnyoob8ojd0j23tx6qjyqy
     verified: false
-    hashtags: "#krabbystep, #fyp, #trend, #pov"
-  - username: "nastya.jung"
-    fullname: >-
-      Nana
-    bio: >-
-      한국에 사는 나나에요 🌸 Russian model living in Korea Instagram:Nastya.jung
-    location: "South Korea"
-    followers: 127100
-    engagement: 617
-    commentsToLikes: 0.020821
-    id: ckb8ybc5edn270j233j1ywvbq
-    verified: false
-    hashtags: "#korea, #onemillionauditionkr, #foryou, #recomendation"
-  - username: "ya.stacey"
-    fullname: >-
-      Stacey 🌻 스테이시
-    bio: >-
-      🇰🇷Korean Model🇰🇷 🐬 Capt. Levi wants to save the marine life 🐬 ↓ ↓ ↓ ↓ ↓
-    location: "South Korea"
-    followers: 148700
-    engagement: 1019
-    commentsToLikes: 0.030474
-    id: ck9fme4ebt1ev0j78nqod1xir
-    verified: false
-    hashtags: "#haikyuu, #fyp, #weeb, #anime"
+    hashtags: ""
   - username: "ooohrena"
     fullname: >-
       Renata Uchôa
     bio: >-
       Model Seoul, Korea. From 🇧🇷 Brazil
     location: "South Korea"
-    followers: 119600
-    engagement: 1002
-    commentsToLikes: 0.013603
+    followers: 117200
+    engagement: 769
+    commentsToLikes: 0.015921
     id: ckbf9cjvx06xs0j234b4nc614
     verified: false
-    hashtags: "#model, #brazilian, #korea, #dueto"
-  - username: "itsleonardlim"
+    hashtags: "#korea, #model, #brazilian, #duet"
+  - username: "sweetaj_"
     fullname: >-
-      Leonard Lim
+      앶온니
     bio: >-
-      Currently in: Seoul Model, Former Athlete, and Entrepreneur
+      Korean model⭐️ 💌 tiktok@uzurocks.com
     location: "South Korea"
-    followers: 4486
-    engagement: 674
-    commentsToLikes: 0.022460
-    id: ck9fq4cjqaiev0j78g02wzvah
+    followers: 254700
+    engagement: 683
+    commentsToLikes: 0.042427
+    id: ckal6detzaecv0i78xu9dzwhy
     verified: false
-    hashtags: "#foryou, #justforyou, #fyp, #foryoupage"
+    hashtags: "#koreangirl, #jeonjutour, #fyp, #foryou"
+  - username: "luxekim"
+    fullname: >-
+      Youngchul Kim
+    bio: >-
+      I am a Comedian not a Canadian~
+    location: "South Korea"
+    followers: 73000
+    engagement: 1097
+    commentsToLikes: 0.032049
+    id: ckav47h2lam5h0j23y4tqzrm3
+    verified: true
+    hashtags: "#jogging, #model, #greedyy, #smile"
+  - username: "jack00426"
+    fullname: >-
+      jackson
+    bio: >-
+      황성현/ jackson 22🇰🇷/20🇺🇸 please follow my Instagram
+    location: "South Korea"
+    followers: 37100
+    engagement: 802
+    commentsToLikes: 0.120392
+    id: ckb18ycq1wxl30j23jrzlix6d
+    verified: false
+    hashtags: "#korean, #typ, #foryou, #model"
+  - username: "nastya.jung"
+    fullname: >-
+      Nana
+    bio: >-
+      아나스타샤 Instagram:Nastya.jung
+    location: "South Korea"
+    followers: 126600
+    engagement: 570
+    commentsToLikes: 0.022193
+    id: ckb8ybc5edn270j233j1ywvbq
+    verified: false
+    hashtags: "#model, #recommendation, #korea, #foryou"
 ---

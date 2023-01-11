@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Finland in 2023
+title: Top 10 Makeup Instagram Influencers In Finland In 2023
 description: >-
-  Find top makeup Instagram influencers in Finland in 2023. Most popular hashtags: #makeup #makeupartist #halloweenmakeup #anastasiabeverlyhills.
+  Find top makeup Instagram influencers in Finland in 2023. Most popular hashtags: #makeup #style #collaboration.
 platform: Instagram
-hits: 85
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 85 Instagram influencers like this in Finland for you to collaborate.
+hits: 79
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 79 Instagram influencers like this in Finland for you to contact.
 profiles:
   - username: "sosssi"
     fullname: >-
       𝕾𝖔𝖓𝖏𝖆 𝕳𝖞𝖙𝖙𝖎𝖓𝖊𝖓 (𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑)
     bio: >-
-      Mom life, tattoos and makeup 𝗖𝗢𝗟𝗟𝗔𝗕𝗦 | sosssi.hyttinen@gmail.com 𝟷𝟿𝟿𝟸, 𝙵𝙸𝙽
+      Mom life, tattoos and makeup 𝗖𝗢𝗟𝗟𝗔𝗕𝗦 | sosssi.hyttinen@gmail.com 𝟷𝟿𝟿𝟸, 𝙵𝙸𝙽 𝒔𝒉𝒆 /𝒉𝒆𝒓 Tattoo account @sosssink
     location: "Finland"
-    followers: 66426
-    engagement: 715
-    commentsToLikes: 0.036676
+    followers: 63577
+    engagement: 621
+    commentsToLikes: 0.016269
     id: ck5hfmpr1y7pp0i11qb9j3id9
     verified: false
-    hashtags: "#whitehair, #inkedfinland, #makeupinspo, #kes"
+    hashtags: "#styleinspo, #happy, #summertime, #tattoos"
   - username: "emma.dragon"
     fullname: >-
       🐉Emma🐉
     bio: >-
       💄Makeup Enthusiast 📩 Contact: emma.dragon@hotmail.com 📍Helsinki, Finland
     location: "Finland"
-    followers: 18234
-    engagement: 585
-    commentsToLikes: 0.040947
+    followers: 17830
+    engagement: 603
+    commentsToLikes: 0.041017
     id: ck6uhcgpy8ben0j71oxyw06qz
     verified: false
     hashtags: ""
+  - username: "makeupmariannaa"
+    fullname: >-
+      Marianna💄
+    bio: >-
+      • Makeup artist • Makeup teacher • Phone: 096 211 201 Byron 12📍👇🏻 @lineart.armenia
+    location: "Finland"
+    followers: 46747
+    engagement: 170
+    commentsToLikes: 0.041047
+    id: ck6udb046k2gd0j71bm5c3ead
+    verified: false
+    hashtags: "#greyeyes, #wakeupandmakeup, #makeuptutorial, #lovemyjob"
+  - username: "nandagalvaoficial"
+    fullname: >-
+      NANDA GALVÃO ♡
+    bio: >-
+      𝚅𝚎𝚖 𝚟𝚎𝚛 𝚊𝚜 𝚍𝚒𝚌𝚊𝚜 𝚗𝚘𝚜 𝚜𝚝𝚘𝚛𝚒𝚎𝚜 ✨📸 @rafaellrnsz 💍♥️ | Deus | Goiânia #BEAUTY| #MODA | #MAKEUP
+    location: "Finland"
+    followers: 42224
+    engagement: 182
+    commentsToLikes: 0.081414
+    id: ck8tas4kusu8a0j78d3qozq8h
+    verified: false
+    hashtags: "#eunolejardin, #girl, #lookdodia, #lookinspirac"
+  - username: "kemelyllanes"
+    fullname: >-
+      KEᗰEᒪY ᒪᒪᗩᑎES
+    bio: >-
+      ㅅMODEL 👠 ᗰᗩKEᑌᑭ ᗩᖇTIᔕT @makeupbykemely “ I ᴅᴏ ᴡʜᴀᴛ I ʟᴏᴠᴇ ᴀɴᴅ I ʟᴏᴠᴇ ᴡʜᴀᴛ I ᴅᴏ”
+    location: "Finland"
+    followers: 12396
+    engagement: 406
+    commentsToLikes: 0.062343
+    id: ck6ts3mi32kp50j71mwjiuqlb
+    verified: false
+    hashtags: "#nycblogger, #modelsearch, #modellife, #fashionstyle"
   - username: "jennaemilia_"
     fullname: >-
-      Jenna Pasanen💜
+      Jenna Pasanen
     bio: >-
-      Beauty | Makeup | Fashion Collabs 💌 jenna.pasanen3@gmail.com
+      🖤 makeup
     location: "Finland"
-    followers: 2990
-    engagement: 2288
-    commentsToLikes: 0.039989
+    followers: 2981
+    engagement: 1946
+    commentsToLikes: 0.040414
     id: ckap5utsid9l10i78gvaf9i8g
     verified: false
-    hashtags: "#nature, #life, #bikbok, #tb"
-  - username: "ssipe_"
-    fullname: >-
-      Sanna Partanen
-    bio: >-
-      ▪️26 ▪️🇫🇮 💚 Drawing, painting, facepainting, makeup, designing and making clothes, gaming 🎮 ❤ landmid 👁️ @ttd_eye (use code 'ssipe' for 10% off)
-    location: "Finland"
-    followers: 4147
-    engagement: 1199
-    commentsToLikes: 0.067598
-    id: ck5cjtkztvh9s0i1188gu946e
-    verified: false
-    hashtags: "#hell, #thelist, #fairypocketwigs, #horror"
-  - username: "janinamakeup"
-    fullname: >-
-      JANINA
-    bio: >-
-      Makeup Artist | FINLAND ✉️Contact: janina.booking@gmail.com
-    location: "Finland"
-    followers: 5029
-    engagement: 518
-    commentsToLikes: 0.065968
-    id: ck8syua9pm15x0j784cf7i7vc
-    verified: false
-    hashtags: "#makeupinspo, #eyemakeup, #fashionphotography, #flawlessdolls"
-  - username: "ida_elina"
-    fullname: >-
-      IDA EKMAN
-    bio: >-
-      Makeup Artist
-    location: "Finland"
-    followers: 196857
-    engagement: 166
-    commentsToLikes: 0.013210
-    id: ck134p6mfxiwr0i19sftt2npz
-    verified: true
-    hashtags: "#meltcosmetics, #smashboxcosmetics, #beautyblender, #jeffreestarcosmetics"
-  - username: "elisauroora"
-    fullname: >-
-      E L I S A U R O O R A
-    bio: >-
-      i like makeup 💄 🌱 helsinki | finland 📮 elisa.pesola@gmail.com @elpesola
-    location: "Finland"
-    followers: 29802
-    engagement: 2576
-    commentsToLikes: 0.010494
-    id: ck15ude8qmm850i191vaxrvk6
-    verified: false
-    hashtags: "#halloween2019, #horrormakeup, #crazymakeups, #meikki"
+    hashtags: "#bestfriends, #collaboration, #makeup, #lyko"
   - username: "dhayricci"
     fullname: >-
       Dhay Ricci
     bio: >-
       💁🏽‍♀️| SOCIAL MAKEUP SPECIALIST 👰🏼|BRIDAL MAKEUP 👩🏼‍🎓| CURSOS - INICIANTE 🧑🏼‍🎨|PERFECCIONAMIENTO Tutoriales y más... 💌|Agenda⬇️
     location: "Finland"
-    followers: 21578
-    engagement: 193
-    commentsToLikes: 0.140481
+    followers: 21226
+    engagement: 219
+    commentsToLikes: 0.162646
     id: ck6ti46wb007t0j711em8r2mm
     verified: false
-    hashtags: "#makeupartist, #makeupartistvzla, #podermua, #musuquerida"
-  - username: "blvckmurose"
+    hashtags: "#beach, #lovetahiti, #allmodernmakeup, #xmasglam"
+  - username: "amaliaseppanen"
     fullname: >-
-      Aundrey
+      𝒜𝓂𝒶𝓁𝒾𝒶 𝒱𝒾𝓁𝒽𝑒𝓁𝓂𝒾𝒾𝓃𝒶 𝒮𝑒𝓅𝓅𝒶𝓃𝑒𝓃
     bio: >-
-      ° Scandinavian Cypriot Mastered Makeup artist x stylist
+      18 📍Finland/Joensuu 👻seppanenamalia makeup account: @makeupamalia -20% ICIW-tuotteista koodilla AMALIAS20
     location: "Finland"
-    followers: 6202
-    engagement: 592
-    commentsToLikes: 0.015426
-    id: ck5c5ry7h41jg0i11xcvxf7jb
+    followers: 4403
+    engagement: 2239
+    commentsToLikes: 0.018464
+    id: ck0u7oe3v58qt0i19lzrh0h34
     verified: false
-    hashtags: "#aesthetic, #ocean, #fashion, #beigeaesthetic"
-  - username: "tinatevosyan_beautycenter"
+    hashtags: ""
+  - username: "elisauroora"
     fullname: >-
-      Tina Tevosyan Beauty Center
+      E L I S A U R O O R A
     bio: >-
-      💄Founded by @makeuptinaa 📍Yerevan, Baghramyan 85 Marketing 📱 +374 98 908264 👇🏼Join our FB page
+      i like makeup 💄 🌱 helsinki | finland 📮 elisa.pesola@gmail.com @elpesola
     location: "Finland"
-    followers: 86589
-    engagement: 107
-    commentsToLikes: 0.006012
-    id: ck6ueah20prxl0j71yxjzum2c
+    followers: 27545
+    engagement: 2621
+    commentsToLikes: 0.010491
+    id: ck15ude8qmm850i191vaxrvk6
     verified: false
-    hashtags: "#hairdresser, #topmakeup, #weddingmakeup, #hairfashion"
+    hashtags: "#coolmakeup, #makeupartistsworldwide, #meikki, #dupemag"
+  - username: "dalmomakeup"
+    fullname: >-
+      Dalmo
+    bio: >-
+      Makeup • Hairstylist⁣ 📍Salvador | Bahia⁣ Marcações (71) 99101-3644 • 3561-3202 @salaomissnail⁣ 🇧🇷 @trusslovers @trusssalvador Team
+    location: "Finland"
+    followers: 34359
+    engagement: 142
+    commentsToLikes: 0.049128
+    id: ck15sx86qf9g70i19z3mpsog0
+    verified: false
+    hashtags: "#motd, #noiva, #casamento, #hair"
 ---

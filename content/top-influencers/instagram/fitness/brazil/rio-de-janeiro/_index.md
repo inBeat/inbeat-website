@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Rio De Janeiro in 2023
+title: Top 10 Fitness Instagram Influencers In Rio De Janeiro In 2023
 description: >-
-  Find top fitness Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #fitness #vidasaudavel #tbt #lifestyle.
+  Find top fitness Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #fitness #riodejaneiro #tbt #praia.
 platform: Instagram
-hits: 31
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 31 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
+hits: 36
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 36 Instagram influencers like this in Rio de Janeiro, Brazil for you to collaborate.
 profiles:
-  - username: "juniosox"
+  - username: "adilaalvesoficial"
     fullname: >-
-      Junio Sox
+      ✨Á ᴅ  ɪ  よ  ᴀ ⠀⠀
     bio: >-
-      Fitness lifestyle Rio de Janeiro 🇧🇷 Tiktok | JUNIOSOX work | @jr.sox
+      🌍 da Bahêa pro mundo! - Se eu sou barril véi✨🤷🏼‍♀️ ⚡️CEO da @adilaonlinestore ®️ Bora CACHEAR comigo? 🌻 CACHOS | MAKEUP | FITNESS 📍Rio de Janeiro, BR
     location: "Brazil"
-    followers: 13614
-    engagement: 771
-    commentsToLikes: 0.039112
-    id: ck5qd1ctitche0i1179d613h9
+    followers: 99542
+    engagement: 182
+    commentsToLikes: 0.055248
+    id: ck8t843t7j1ad0j78o3m0i81u
     verified: false
-    hashtags: "#goodvibes, #vintage, #monday, #rj"
-  - username: "sahwx"
+    hashtags: "#curlyhair, #curlyblondehair, #sheinofficial, #sheingals"
+  - username: "crispereirarezende"
     fullname: >-
-      𝒔𝒂𝒓𝒂𝒉 𝒈𝒖𝒆𝒅𝒆𝒔
+      CRISTIANE REZENDE
     bio: >-
-      • rio de janeiro | fitness girl ✨ • seja sua própria inspiração! • graduanda de fisioterapia 4/10
+      Fashion | Beleza | Fitness | Mom | Wife Rio de Janeiro
     location: "Brazil"
-    followers: 4133
-    engagement: 1725
-    commentsToLikes: 0.077351
-    id: ck6u7gvexlfuy0j71fjm8s8y5
+    followers: 61023
+    engagement: 91
+    commentsToLikes: 0.469803
+    id: ck5hi8ewgc6ow0i116kjwb75r
     verified: false
-    hashtags: "#fitnessbrasil, #quarentine, #loiras, #loira"
+    hashtags: "#consumoconsciente, #canela, #inspiration, #bahia"
+  - username: "caroolfigueiras"
+    fullname: >-
+      CAROL FIGUEIRAS
+    bio: >-
+      • TREINO | ALIMENTAÇÃO | LIFESTYLE • Rio de Janeiro • O tal “Fitness” sem neura 🦋Trabalho/Parcerias : direct ou contatocaroolfigueiras@gmail.com
+    location: "Brazil"
+    followers: 6217
+    engagement: 657
+    commentsToLikes: 0.066836
+    id: ck6u9m1vdyatr0j71gsb6ppmf
+    verified: false
+    hashtags: "#thatibritopersonal, #treinodepernas, #lifestyle, #vidasaud"
   - username: "tin_beca"
     fullname: >-
-      M̸a̸r̸t̸ín̸ 🐯🏳️‍🌈
+      M̸a̸r̸t̸ín̸ 🧸🏳️‍🌈
     bio: >-
-      ❤️ Brasil, Rio de Janeiro 🇧🇷 📍 Barcelona 🇪🇸 Seja melhor cada dia ❤️🙏🏼
+      ❤️ Brasil, Rio de Janeiro 🇧🇷 📍 Barcelona 🇪🇸
     location: "Brazil"
-    followers: 78438
-    engagement: 984
-    commentsToLikes: 0.029575
+    followers: 92153
+    engagement: 930
+    commentsToLikes: 0.030120
     id: ck6u96c1tvr7o0j71gqt9ywaq
     verified: false
-    hashtags: "#saturday, #summer, #muscle, #fitness"
-  - username: "brunapintolopesmoraes"
-    fullname: >-
-      Bruna Pinto Lopes V. De Moraes
-    bio: >-
-      📍Maceió- Al/ Maragogi -Al/ Rio de Janeiro- Rj ♡ Fashion lover, life and travel 🇨🇱🇺🇸🇵🇹 Contato por direct 💌 Pra não guardar só na memória 📸
-    location: "Brazil"
-    followers: 6629
-    engagement: 963
-    commentsToLikes: 0.102320
-    id: ckaoxrlw9eff30i789q992fov
-    verified: false
-    hashtags: "#ocrivoautorizou, #peloerrejota"
-  - username: "_isabellabittencourt_"
-    fullname: >-
-      Isabella Bittencourt
-    bio: >-
-      ✰Farmacêutica ✰Pós-graduada em Farmácia Estética pelo IPUPO Campinas ✰Mãe de 👸🏻👸🏻🐶🐱 ✰Cristã✝️ @curaativa 💊🧪⚗️ Rio de Janeiro INFORMAÇÕES 👇
-    location: "Brazil"
-    followers: 7888
-    engagement: 870
-    commentsToLikes: 0.138282
-    id: ck5hiic1bdnh30i1121fdq4ve
-    verified: false
-    hashtags: "#mandamanipular, #farm, #verisol, #curaativa"
+    hashtags: "#morrodesaopaulo, #bahia, #praia, #fitness"
   - username: "deboragmoura"
     fullname: >-
       Débora G Moura
     bio: >-
       📍Rio de Janeiro | 🇧🇷 📩 contato@deboragmoura.com.br
     location: "Brazil"
-    followers: 207331
-    engagement: 786
-    commentsToLikes: 0.020165
+    followers: 298796
+    engagement: 1011
+    commentsToLikes: 0.013615
     id: ck0vzjby09e0f0i19hrbih09h
     verified: false
-    hashtags: "#treino, #treinoemcasa, #saude, #vidasaudavel"
-  - username: "jonatas.weima"
+    hashtags: "#fitness, #saude, #qualidadedevida, #sedirigirnaobeba"
+  - username: "viannaanacarolina"
     fullname: >-
-      Jonatas Weima
+      Ana Carolina Vianna
     bio: >-
-      Cearense 📍Rio de Janeiro🌊 Músico - Saxofonista 🎷🎵 Doutorando-UNIRIO📚 Mestre em Música-UFRJ🎓👨🏻‍🎓 Bacharel em Saxofone-UFPB/UFRJ🎓👨🏻‍🎓 Militar👮🏻‍♂️
+      📍Rio de Janeiro, Brasil * Registro dos meus momentos * Viagens * Dicas *Lifestyle Parceria via Direct💌 🌎🇧🇷🇦🇷🇵🇪🇵🇾🇺🇸
     location: "Brazil"
-    followers: 18549
-    engagement: 1163
-    commentsToLikes: 0.028889
-    id: ckap80a8vma7u0i78mjil1edy
+    followers: 17383
+    engagement: 428
+    commentsToLikes: 0.507252
+    id: ck0w6eb0f85tn0i19uh67fxqx
     verified: false
-    hashtags: "#brasil, #ocean, #praia, #ferias"
+    hashtags: "#riodejaneiro, #fantasticview, #destinosnacionais, #riograndedonorte"
   - username: "lupincarioca"
     fullname: >-
       Wanderson Alves
     bio: >-
       “A vida tem a cor que você pinta” 👊🏻 Permita-se... 🇧🇷 Brasileiro 💚Solteiro 📍Rio de Janeiro Bem vindo ao meu mundo!!!
     location: "Brazil"
-    followers: 4949
-    engagement: 2714
-    commentsToLikes: 0.043845
+    followers: 5232
+    engagement: 2592
+    commentsToLikes: 0.039192
     id: ck8t4no8w7fux0j78d91r8nyw
     verified: false
-    hashtags: "#acabaquarentena, #buzios, #fitness, #seguesigodevolta"
-  - username: "bruno_foks"
+    hashtags: "#verao2021, #fitness, #friends, #felicidade"
+  - username: "guiscarpari"
     fullname: >-
-      Bruno Foks
+      Gui Scarpari
     bio: >-
-      🇧🇷 From Rio de Janeiro 🇮🇱 Based in Israel ⚽ Professional Altinha Player 📖 International Relations Student @jogoloucorj @altinhafc
+      Afinal, você poderia me amar de qualquer jeito? 📍 Rio de Janeiro
     location: "Brazil"
-    followers: 2322
-    engagement: 1147
-    commentsToLikes: 0.116771
-    id: ck6tr5lnix2i30j71b7i9neo2
+    followers: 62675
+    engagement: 658
+    commentsToLikes: 0.018025
+    id: ckap4ysy29f210i78qwz72jxg
     verified: false
-    hashtags: "#ficaemcasa, #nogymnoproblem, #loratcho, #juliet"
-  - username: "thalitariios"
+    hashtags: "#stayhome, #selfie, #amor, #ficaemcasa"
+  - username: "daniellemag"
     fullname: >-
-      thalita rios •
+      Danielle Magalhaes Rocha
     bio: >-
-      mineira no rio de janeiro 🌴 • eu sei em quem tenho crido †
+      Rio de Janeiro, 20 🇧🇷 Nutrição por amor 💕 Atleta BaseMax 🏆 @maxtitaniumsuplementos % DANI10 🎟 @farmaciaarteeciencia 🧬 @gpharma_brasil 🧊 @4lifemedical
     location: "Brazil"
-    followers: 10316
-    engagement: 505
-    commentsToLikes: 0.167086
-    id: ckap5yyaudr6t0i7842s1xjwj
+    followers: 41198
+    engagement: 702
+    commentsToLikes: 0.014285
+    id: ck15qywzf5atq0i194mqq2uzq
     verified: false
-    hashtags: "#lookdodia, #4patas, #doglovers, #parceiros"
+    hashtags: "#teamjorlan, #basemax, #fitness, #bodybuilding"
+  - username: "patrick_marinho"
+    fullname: >-
+      Patrick Marinho
+    bio: >-
+      🇧🇷 Brazilian 🏠 Dublin - Ireland 🇮🇪 @steelsupplements | Code: PatrickM (10% off) 🤙🏻 Rio de Janeiro 😎 👻 Snap: patrickmarinho ▫Facebook: Patrick Marinho
+    location: "Brazil"
+    followers: 87421
+    engagement: 172
+    commentsToLikes: 0.045640
+    id: ck15pi7lay0bh0i19rfzu779s
+    verified: false
+    hashtags: "#shredded, #carioca, #fit, #europe"
 ---

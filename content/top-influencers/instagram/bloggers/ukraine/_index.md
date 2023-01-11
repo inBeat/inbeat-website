@@ -1,21 +1,57 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Ukraine in 2023
+title: Top 10 Bloggers Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top bloggers Instagram influencers in Ukraine in 2023. Most popular hashtags: #makeup #beauty #travel.
+  Find top bloggers Instagram influencers in Ukraine in 2023. Most popular hashtags: #fun #travel #nature.
 platform: Instagram
-hits: 96
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 96 Instagram influencers like this in Ukraine for you to contact.
+hits: 51
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 51 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
+  - username: "mariana_oleksik"
+    fullname: >-
+      Mariana Oleksik
+    bio: >-
+      Smm | Uzhorod |Content manager 20 y.o Fashion | Lifestyle blogger Owner @dollhouse.uzh 🤍
+    location: "Ukraine"
+    followers: 7624
+    engagement: 1026
+    commentsToLikes: 0.101743
+    id: ckap27uy6xr8r0i78ntml2otv
+    verified: false
+    hashtags: ""
+  - username: "annagirm"
+    fullname: >-
+      A.n.n.a G.i.r Malowany 🌺
+    bio: >-
+      Good life blogger 🤳🏻 Born in Odessa Ukraine 🇺🇦 Living in Israel 🇮🇱 Traveling the world 🌎 Food 😋 and wine 🍷 fan
+    location: "Ukraine"
+    followers: 5594
+    engagement: 2134
+    commentsToLikes: 0.160600
+    id: ck0tyggvvmppp0i19v8scrgo5
+    verified: false
+    hashtags: "#smile, #happygirl, #enjoyinglife, #cheers"
+  - username: "nastiaminiailo"
+    fullname: >-
+      𝙸𝙽𝚂𝚃𝙰𝙶𝙸𝚁𝙻 🥀
+    bio: >-
+      ТВОЄ ДЖЕРЕЛО НАТХНЕННЯ 💃🏼 Lifestyle blogger 📍Vінницький блог 💌Співпраця/реклама - Direct
+    location: "Ukraine"
+    followers: 10589
+    engagement: 586
+    commentsToLikes: 0.100119
+    id: ck9hbr5aii4ji0j78hy5zibns
+    verified: false
+    hashtags: ""
   - username: "verbaaa"
     fullname: >-
       YULIA VERBYNETS
     bio: >-
       Та сама Верба😈 ⠀ 👩🏼‍🦰 рижі коси у відпустці ⠀ 📊 FORBES TOP 30 🥇 БЛОГЕР РОКУ 2020 🏆 LIFESTYLE BLOGGER 2019 ⠀ 📮 реклама @verbaaa_cooperation
     location: "Ukraine"
-    followers: 1634032
-    engagement: 1709
-    commentsToLikes: 0.041819
+    followers: 3002488
+    engagement: 780
+    commentsToLikes: 0.008697
     id: ck6tv30k2jvue0j71kj73mbne
     verified: false
     hashtags: ""
@@ -23,60 +59,36 @@ profiles:
     fullname: >-
       Sofi-Nikol Kidsfashion
     bio: >-
-      🎀Kids Fashion Blogger/ 🎀Model/ Agent in Europe @ksyusha_abdukhanova ⠀ @modamodakids ⠀ @pkmanagement ⠀ Account run by mum
+      childhood is too short to wear boring clothes 🎀Kids Fashion Blogger 🎀Model Agent in Europe @ksyusha_abdukhanova ⠀ Account run by mum
     location: "Ukraine"
-    followers: 17865
-    engagement: 683
-    commentsToLikes: 0.111835
+    followers: 90592
+    engagement: 240
+    commentsToLikes: 0.063990
     id: ck5q3wjq2mpd00i11x37fcsgp
     verified: false
-    hashtags: "#fashionkidz, #kidsfashioninstamodel, #kidsstyling, #topmodel"
-  - username: "annagirm"
+    hashtags: "#fun, #wiba2021, #cannesevent, #fashionforkids"
+  - username: "ostee_"
     fullname: >-
-      A.n.n.a G.i.r Malowany 🌺
+      Olha Stepanova | TORONTO
     bio: >-
-      Good life blogger 🤳🏻 Born in Odessa Ukraine 🇺🇦 Living in Israel 🇮🇱 Traveling the world 🌎 Food 😋 and wine 🍷 fan
+      красуні, привіт 🇺🇦 @ostee_shopping featured in Vogue & InStyle Fashion blogger & personal shopper contact@olhastepanova.com
     location: "Ukraine"
-    followers: 5937
-    engagement: 2000
-    commentsToLikes: 0.166215
-    id: ck0tyggvvmppp0i19v8scrgo5
+    followers: 45090
+    engagement: 152
+    commentsToLikes: 0.111024
+    id: ck0w1wod4li8n0i19tv22ukh9
     verified: false
-    hashtags: "#weekend, #fantastic, #lovethispic, #instalike"
-  - username: "mariana_oleksik"
-    fullname: >-
-      Mariana Oleksik
-    bio: >-
-      Fashion | Lifestyle blogger Прокачаємо стиль разом? Стану твоєю Фешн подругою✨ 📍модні тести в сторі 📍мода по простому 📍 Traveller addicted to fashion
-    location: "Ukraine"
-    followers: 8619
-    engagement: 937
-    commentsToLikes: 0.104835
-    id: ckap27uy6xr8r0i78ntml2otv
-    verified: false
-    hashtags: ""
+    hashtags: "#sorrynotsorry"
   - username: "yaninakozar"
     fullname: >-
       Яніна Козар🕊
     bio: >-
       👼🏻Victor’s mum 📈Співпраця - @yanina_cooperation 🧥Fashion blogger ✈️Traveller (15 countries) 👰🏻#meetthekozars 🇺🇸Fluent English speaker
     location: "Ukraine"
-    followers: 95973
-    engagement: 369
-    commentsToLikes: 0.125687
+    followers: 163650
+    engagement: 306
+    commentsToLikes: 0.024620
     id: ckaoy6cu3g6lk0i782ulyhinv
-    verified: false
-    hashtags: "#alpeua, #bmw, #mayoralkids, #alpe"
-  - username: "nastiaminiailo"
-    fullname: >-
-      𝙸𝙽𝚂𝚃𝙰𝙶𝙸𝚁𝙻 🥀
-    bio: >-
-      ТВОЄ ДЖЕРЕЛО НАТХНЕННЯ 💃🏼 Lifestyle blogger 📍Vінницький блог 💌Співпраця/реклама - Direct
-    location: "Ukraine"
-    followers: 10842
-    engagement: 793
-    commentsToLikes: 0.136066
-    id: ck9hbr5aii4ji0j78hy5zibns
     verified: false
     hashtags: ""
   - username: "_nanadi_"
@@ -85,46 +97,34 @@ profiles:
     bio: >-
       MODEL/ BLOGGER/ STUDENT 💥 •A girl with a face of an Angel 👼 • Открыта к сотрудничеству❤️ 📍 Latvia 📍Uzbekistan
     location: "Ukraine"
-    followers: 16219
-    engagement: 558
-    commentsToLikes: 0.048563
+    followers: 16342
+    engagement: 361
+    commentsToLikes: 0.037951
     id: ck8t52d7r8lk80j78syfa5bet
     verified: false
-    hashtags: "#riga, #nanadi, #jurmala, #latviatravel"
-  - username: "totallyblond"
+    hashtags: "#latvia, #blonde, #uzbekistan, #latviatravel"
+  - username: "dushnaandriana"
     fullname: >-
-      Liza Krasnova | Blogger | Kiev
+      У 18, відкрила фотостудію💗
     bio: >-
-      💋 Beautiful blogger :) 📬 Сотрудничество lizka@totallyblond.com 🎥 YouTube.com/user/Totallyblondcom (120+k) New video👇🏻
+      📸Моя @bloggers__studio 📱Крамничка @bloggers_case_drogobych 🎥Знімаю ТікТок ⠀ Дівчина найкращого @m_o_t_r_y_c_h_ #dushnaandriana_навігація 📩Співпраця
     location: "Ukraine"
-    followers: 123007
-    engagement: 129
-    commentsToLikes: 0.202718
-    id: ck0twglxpfabu0i19hiycf2zs
+    followers: 61902
+    engagement: 81
+    commentsToLikes: 0.015898
+    id: ck0w1vkw7lcge0i19tkg05ex0
     verified: false
-    hashtags: "#makeup, #elan, #facechart, #recycle"
-  - username: "kvashnevskyi"
+    hashtags: "#hookahplace, #liketime, #dushnaandriana, #he"
+  - username: "joinerdennis"
     fullname: >-
-      Дмитрий Квашневский
+      Денис Столяров
     bio: >-
-      Influencer | Blogger | Investor Pr/Сотрудничество/Реклама: @kvashnevskyi_pr ⠀ Авто за одну подписку 👇👇👇
+      ㊙️ BMX rider since 2008 🥗 Vegan, blogger, PC Gamer ⚙️ Support & friends: @enjoy_bmxstore 📡 Найбільший україномовний BMX канал ⤵️ Perfluence
     location: "Ukraine"
-    followers: 350498
-    engagement: 282
-    commentsToLikes: 0.023061
-    id: ck5hcejmnhnoo0i119am1lt8p
+    followers: 15318
+    engagement: 1251
+    commentsToLikes: 0.036202
+    id: ckap7mqezknut0i78pgc1hk5p
     verified: false
     hashtags: ""
-  - username: "tim_masha"
-    fullname: >-
-      𝗠𝗔𝗦𝗛𝗔  𝗧𝗜𝗠𝗢𝗦𝗛𝗘𝗡𝗞𝗢
-    bio: >-
-      • Fashion&Lifestyle blogger ♡ • Co-founder @ncyzip • Contact me: timoshenko.masha89@gmail.com New video on YouTube👇🏼
-    location: "Ukraine"
-    followers: 693901
-    engagement: 627
-    commentsToLikes: 0.009277
-    id: ck13c3hiryfuo0i19tq10dvhf
-    verified: false
-    hashtags: "#sponsored, #mastercard, #otpblackedition"
 ---

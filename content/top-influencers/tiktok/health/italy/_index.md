@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Italy in 2023
+title: Top 10 Health TikTok Influencers In Italy In 2023
 description: >-
-  Find top health TikTok influencers in Italy in 2023. Most popular hashtags: #perte #healthy #food #whatieatinaday.
+  Find top health TikTok influencers in Italy in 2023. Most popular hashtags: #perte #healthy #healthyfood #viral.
 platform: TikTok
-hits: 52
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 52 TikTok influencers like this in Italy for you to work with.
+hits: 47
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 47 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "sissifacose"
-    fullname: >-
-      Sissi Fa Cose
-    bio: >-
-      YOLO❤️ Humor and a healthy life 😊 Sport:#sissifasport Food:#sissifacibo
-    location: "Italy"
-    followers: 3290
-    engagement: 335
-    commentsToLikes: 0.069037
-    id: ckdbqzqr1bzb40j23igguxv4i
-    verified: false
-    hashtags: "#corsica, #sardegna, #equilibrio, #sissifasport"
   - username: "valentina_galassi"
     fullname: >-
       valentina_galassi
     bio: >-
       •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
     location: "Italy"
-    followers: 38500
-    engagement: 1140
-    commentsToLikes: 0.009052
+    followers: 45600
+    engagement: 1278
+    commentsToLikes: 0.010491
     id: ckbf9cmr707cj0j23glh8972f
     verified: false
-    hashtags: "#veganfood, #photo, #modellife, #whatieatinaday"
-  - username: "petracola"
+    hashtags: "#photo, #model, #shooting, #modellife"
+  - username: "sissifacose"
     fullname: >-
-      Petra Cola
+      Sissi Fa Cose
     bio: >-
-      mountain, nature, sport & health🌿 🤸🏼‍♀️
+      Ma ciao! 😊 Yolo✌🏼Humor and a healthy life #SissiFaSport #SissiFaCibo
     location: "Italy"
-    followers: 19600
-    engagement: 443
-    commentsToLikes: 0.013441
-    id: ck9f41o5xkd930j789cghr4pm
+    followers: 13100
+    engagement: 418
+    commentsToLikes: 0.037047
+    id: ckdbqzqr1bzb40j23igguxv4i
     verified: false
-    hashtags: "#sardegna"
+    hashtags: "#parmigiano, #videoricetta, #sissifasport, #informacontiktok"
   - username: "giada_todesco"
     fullname: >-
       Giada Todesco 🍒
     bio: >-
       Welcome to my HEALTHY and FUNNY world 🌱😂 MY COOKBOOK 📚👇🏼
     location: "Italy"
-    followers: 38100
-    engagement: 536
-    commentsToLikes: 0.009978
+    followers: 41400
+    engagement: 547
+    commentsToLikes: 0.010427
     id: ckbb5w65jw07c0j23fslzfnre
     verified: false
-    hashtags: "#viral, #windyorbeauty, #duet, #foryou"
-  - username: "theavokiddo"
+    hashtags: "#victoriassecret, #crispychallenge, #stratosfericaaaah, #scherzo"
+  - username: "patty_shady99"
     fullname: >-
-      theavokiddo
+      Patrizia Vanessa
     bio: >-
-      Aisha 👩🏽‍🍳 ig: @theavokiddo ✨ la ricciolina di masterchef sono ioo 🤍
+      22 y.o ⚕️📚 🏥🇵🇱🇮🇹🏡Lucana Oggi è il mio 🎂 31-01-2021
     location: "Italy"
-    followers: 457500
-    engagement: 2374
-    commentsToLikes: 0.002559
-    id: ck8setz37ldlx0j78hfhenqdd
+    followers: 24100
+    engagement: 577
+    commentsToLikes: 0.070347
+    id: ckcpakto8eu2o0j23x16ijmd1
     verified: false
-    hashtags: "#imparacontiktok, #perte, #xyzbca, #fallseason"
-  - username: "giuliastime"
-    fullname: >-
-      Giulia Cai
-    bio: >-
-      vegan-ish 🥑 eating & working out 🏋🏻‍♀️ CEO of breakfast 📸 IG: novemberregen_
-    location: "Italy"
-    followers: 3409
-    engagement: 868
-    commentsToLikes: 0.022169
-    id: ck8fayxkt4pkc0j78k6kkwjvj
-    verified: false
-    hashtags: "#food, #fit, #fyp, #vegan"
+    hashtags: "#healthy, #viral, #healthylifestyle, #fy"
   - username: "cataldihealth"
     fullname: >-
       Cataldi Health 
     bio: >-
       Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
     location: "Italy"
-    followers: 56000
-    engagement: 1861
-    commentsToLikes: 0.012609
+    followers: 55100
+    engagement: 1385
+    commentsToLikes: 0.013724
     id: ck8s5jvwzg8i50j785nktn2vv
     verified: false
-    hashtags: "#cataldihealth, #naturopathy, #sweet, #nutrizione"
+    hashtags: "#naturopata, #sweet, #cataldi, #fruit"
+  - username: "priyasharma321"
+    fullname: >-
+      Priya Sharma
+    bio: >-
+      🎀 𝑀𝓇𝓈 𝒫𝓇𝒾𝓎𝒶 𝒮𝒶𝑔𝒶𝓇 𝒜𝓇💍𝓇𝒶 🎀 𝐼𝓃𝒹𝑜🇮🇳𝐼𝓉𝒶𝓁𝒾𝒶𝓃🇮🇹
+    location: "Italy"
+    followers: 219000
+    engagement: 582
+    commentsToLikes: 0.027423
+    id: ck8j4g7oj23fv0j78u9ttpx10
+    verified: false
+    hashtags: "#italy, #covid19vaccine, #healthcareworker, #murshad"
   - username: "caterinafalhiofficial"
     fullname: >-
       🌸CATERINA FALHI🌸
     bio: >-
-      Cerchi un amica o hai bisogno di consigli? Scrivimi su Insta❤️ Stay strong 💪🏽
+      🏋🏽‍♀️FITNESS COACH💪🏽♥️WOMEN-SUPPORTER♥️ Workout e altro su YouTube👇🏽
     location: "Italy"
-    followers: 117600
-    engagement: 1180
-    commentsToLikes: 0.009022
+    followers: 303600
+    engagement: 1093
+    commentsToLikes: 0.006609
     id: ckb9bfvx6xjw90j230vkuwy2b
     verified: false
-    hashtags: "#workoutathome, #ilmiosport, #imparacontiktok, #cosamangio"
-  - username: "veronica_ferraro"
+    hashtags: "#absworkout, #icecoffee, #informacontiktok, #informaconcaterina"
+  - username: "johnangchi"
     fullname: >-
-      Veronica Ferraro
+      John Angchi
     bio: >-
-      Italy🇮🇹 Instagram: @veronicaferraro
+      BioHacking 🧬 #DrinkVsDiet #ShakeDrinkBam Ig: jo.angchi
     location: "Italy"
-    followers: 74600
-    engagement: 641
-    commentsToLikes: 0.004442
-    id: cka6p5gspib6z0i78kr3c3rkd
+    followers: 9069
+    engagement: 479
+    commentsToLikes: 0.025685
+    id: ckbeyuhjqjjdo0j2384l558lx
     verified: false
-    hashtags: "#healthy, #ad, #neiperte, #food"
-  - username: "gigifarne"
+    hashtags: "#salute, #proteine, #fitnesstips, #bruciagrassi"
+  - username: "fionashealth"
     fullname: >-
-      gigif_62
+      Fiona Gray
     bio: >-
-      Fitness & Personal Trainer Model over 58 📸 enjoy life Live and let live ❤️ 📬
+      Balanced Diet WIEIADs Instagram @Fionashealth
     location: "Italy"
-    followers: 2901
-    engagement: 853
-    commentsToLikes: 0.001755
-    id: ckcuzcxtjmqoj0j23nhqxhmtb
+    followers: 4151
+    engagement: 636
+    commentsToLikes: 0.012314
+    id: ckcuyuo5xmjaf0j236oqyr2c0
     verified: false
-    hashtags: "#personaltrainer, #over58model, #modelagency, #healthylifestyle"
+    hashtags: "#recipe, #dieta, #student, #oatmeal"
+  - username: "hamsters_party"
+    fullname: >-
+      _hamsters_party
+    bio: >-
+      🐹🐹🐹 Very large hamster family 🐹🐹🐹 ⬇️ Follow Us On YouTube & Instagram ⬇️
+    location: "Italy"
+    followers: 40700
+    engagement: 2560
+    commentsToLikes: 0.140978
+    id: ck9du5oy1f5bw0j784uzbdiix
+    verified: false
+    hashtags: "#fy, #share, #syrian, #roborovski"
 ---

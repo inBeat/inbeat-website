@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers in 2023
+title: Top 10 Instagram Influencers In 2023
 description: >-
-  Find top Instagram influencers from in 2023. Most popular hashtags: #nature #homesweethome #stayandwander.
+  Find top Instagram influencers in 2023. Most popular hashtags: #ad #explorepage #outfitideas.
 platform: Instagram
-hits: 699725
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 699725 Instagram influencers like this for you to collaborate.
+hits: 685863
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 685863 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "mauu.otero"
+  - username: "amberdowty_"
     fullname: >-
-      Mau Otero
+      Amber Nicole ♡
     bio: >-
-      Creado mi historia todos los dias 🖤 Vivir lo que otros sueñan... TikTok |+1.7M| Contact: 📩 @troop Suscríbanse 👇🏼
-    location: "Mexico"
-    followers: 514910
-    engagement: 1701
-    commentsToLikes: 0.019449
-    id: ck0u2mjzk0d7k0i19zjmwur9v
-    verified: false
-    hashtags: "#followyourgroove, #dolcegabbana, #papayaplayaproyect, #eliotawards2020"
-  - username: "amoureuxdumonde"
-    fullname: >-
-      Yann ♡ Aurélie - Blog Voyage
-    bio: >-
-      ✧ Chasseurs de paysages ✧ On vit à #Lyon 🦁 ✧ Pro : amoureuxdumonde@gmail.com 💌 Blog Voyage & Bons Plans
-    location: "France"
-    followers: 138232
-    engagement: 600
-    commentsToLikes: 0.054981
-    id: ck0tv1s609kcq0i19fj66fe0n
-    verified: false
-    hashtags: "#gre, #paysages, #spainstagram, #amoureux"
-  - username: "charlie.ma.vie"
-    fullname: >-
-      Raphaëlle
-    bio: >-
-      Mum of two • Famille recomposée • ✨ Brune, Charlie & Milo ♡ Passionnée de photographie💫 Inspiration & instants de notre petite vie RECETTES en story🍴
-    location: "France"
-    followers: 50110
-    engagement: 677
-    commentsToLikes: 0.014703
-    id: ck0vzn1709wpv0i19kyvoss00
-    verified: false
-    hashtags: "#mumoftwo, #simplychildren, #momsofinstagram, #motherhoodunplugged"
-  - username: "igna.ferriol"
-    fullname: >-
-      Igna & Hanna
-    bio: >-
-      "Enjoying life with my dog Hanna🐶🏃🏽‍♂️🌍" #Bordercollie 📍Tenerife • Canary Islands🌴 Nature | Travel | Outdoor - 📸 Sony, GoPro, Xiaomi 📱
-    location: "Spain"
-    followers: 26611
-    engagement: 1894
-    commentsToLikes: 0.039549
-    id: ck55o5tf27otd0i11wpmyqhwx
-    verified: false
-    hashtags: "#tenerife, #optoutside, #spacewheel, #sonyphotography"
-  - username: "angelika_rysz"
-    fullname: >-
-      Angelika
-    bio: >-
-      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
-    location: "Poland"
-    followers: 3646
-    engagement: 1525
-    commentsToLikes: 0.346529
-    id: ck5zizhb5gnvu0i14guq3n633
-    verified: false
-    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
-  - username: "travelwithkwen"
-    fullname: >-
-      Kwen - Travel & Lifestyle
-    bio: >-
-      📍🇬🇧 TRAVEL 🌍 | PHOTOGRAPHY 📷 Email for Collabs: travelwithkwen@outlook.com
-    location: "United Kingdom"
-    followers: 12197
-    engagement: 1196
-    commentsToLikes: 0.309865
-    id: ck14jebadjwb70i19j0zmu54p
-    verified: false
-    hashtags: "#stayandwander, #instatravel, #livetotravel, #roamtheworld"
-  - username: "silvio_tova"
-    fullname: >-
-      S I L V I O  T O V A G L I A
-    bio: >-
-      📸 PHOTOGRAPHER 🍭 CONTENT CREATOR 📍MILANO 📩 Business/ collabs : daniel@hedmedia.com
-    location: "Italy"
-    followers: 16967
-    engagement: 984
-    commentsToLikes: 0.193945
-    id: ck0u1mb6hx8ga0i19d9k1rvsb
-    verified: false
-    hashtags: "#insiemecelafaremo, #snipesknows, #supplied, #fratellipercaso"
-  - username: "lissiloveslife"
-    fullname: >-
-      𝗜𝗡𝗦𝗣𝗢 • 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
-    bio: >-
-      ✨ 𝘓𝘪𝘴𝘢 / 28 𝘺/𝘰 👰🏼 𝘮𝘢𝘳𝘳𝘪𝘦𝘥 & 𝘮𝘰𝘮𝘮𝘺 🏡 𝘦𝘪𝘨𝘦𝘯𝘩𝘦𝘪𝘮𝘴𝘶𝘤𝘩𝘦 𝘱𝘢𝘥𝘦𝘳𝘣𝘰𝘳𝘯 2020/21 #️⃣ 𝘶𝘴𝘦 #lissiloveslife • 💻 𝘐𝘮𝘱𝘳𝘦𝘴𝘴𝘶𝘮:
-    location: "Germany"
-    followers: 7036
-    engagement: 833
-    commentsToLikes: 0.169452
-    id: ck15tf4eshrue0i191ml886ab
-    verified: false
-    hashtags: "#flatlay, #hyggehygge, #carmushkadresden, #sophieklex"
-  - username: "evierupp"
-    fullname: >-
-      Evelyn Grace ♡ LA Biz Educator
-    bio: >-
-      🌸I help women create a life + biz they LOVE 💛Founder: @theheartuniversity 🎙Heart+Hustle Podcast 🌿elopement photographer FREE PRODUCTIVITY GUIDE👇🏼
+      Long Island-NY📍 Daily Outfit Inspo🫶 💌 amberdowty@insanityhq.com Shop my Presets below ↓
     location: "United States"
-    followers: 26736
-    engagement: 712
-    commentsToLikes: 0.035347
-    id: ck13a76akoyg40i19edjwq8h6
+    followers: 51096
+    engagement: 419
+    commentsToLikes: 0.052067
+    id: ckt2ndyak3i400j23hglzx8of
     verified: false
-    hashtags: "#athomephotochallenge"
-  - username: "wandabadwal"
+    hashtags: "#falloutfits, #fallfashion, #outfitinspo, #outfitideas"
+  - username: "enigivensunday"
     fullname: >-
-      WANDA BADWAL
+      Eni Popoola | NYC Blogger
     bio: >-
-      ㅿ𝙔𝙊𝙂𝘼 𝘽𝙀𝙔𝙊𝙉𝘿 𝙏𝙃𝙀 𝘼𝙎𝘼𝙉𝘼 ☽ ㅿɢᴜɪᴅɪɴɢ ᴘᴇᴏᴘʟᴇ ᴛᴏ ʀᴇᴍᴇᴍʙᴇʀ ᴡʜᴏ ᴛʜᴇʏ ᴀʀᴇ ㅿsᴘɪʀɪᴛᴜᴀʟ ɢᴜɪᴅᴇ / ʏᴏɢᴀ ᴛᴇᴀᴄʜᴇʀ / ᴀᴜᴛʜᴏʀ / sᴘᴇᴀᴋᴇʀ ㅿᴏɴʟɪɴᴇ ʏᴏɢᴀ: @ʀᴏsᴇ.ᴏғ.ғɪʀᴇ.ʏᴏɢᴀ
-    location: "Germany"
-    followers: 34097
-    engagement: 377
-    commentsToLikes: 0.070125
-    id: ck14hs02gbu2v0i19pus82mrj
+      ⚖️Columbia Law alumna 💄beauty lover ✨ trying to live my best blessed & balanced life 🎥 #SephoraSquad ‘22 📧 enipopoola@enigivensunday.com
+    location: "Canada"
+    followers: 120230
+    engagement: 663
+    commentsToLikes: 0.011475
+    id: ck5hi7xnuc41l0i11lv2p1q6j
     verified: false
-    hashtags: "#achtsamkeit, #yoga, #loveyourself, #namaste"
+    hashtags: "#makeupforblackwomen, #melaninmakeupdaily, #nycblogger, #makeuptutorial"
+  - username: "ayushsemwal08"
+    fullname: >-
+      ✨A Y U S H  S E M W A L✨
+    bio: >-
+      More than just a face 💫 Interior designer by profession For business : 📩 ayushsemwal22@gmail.com 📍Dehradun | Delhi | Gurgaon
+    location: "India"
+    followers: 60043
+    engagement: 1894
+    commentsToLikes: 0.014528
+    id: ck5zm43t8lv1d0i147lv0z9x9
+    verified: false
+    hashtags: "#wedding, #style, #ad, #winterfashion"
+  - username: "thehalliescene"
+    fullname: >-
+      Hallie | Nashville Blogger
+    bio: >-
+      hi, i’m Hallie, like Halle Berry! everyday style + home reno | new mom 💕 normalizing life + mental health 🤍🌿 hannaht@shinetalentgroup.com
+    location: "United States"
+    followers: 52689
+    engagement: 414
+    commentsToLikes: 0.115509
+    id: ckn9ayfvumbl20j23lt41y6yv
+    verified: false
+    hashtags: "#nursery, #expectingmom, #firsttimemom, #girlnursery"
+  - username: "mollymae"
+    fullname: >-
+      Molly-Mae Hague
+    bio: >-
+      Contact: Fran@FB-commercial.co.uk CREATIVE DIRECTOR @prettylittlething CEO @filterbymollymae Home @mollymaison
+    location: "Italy"
+    followers: 6860239
+    engagement: 671
+    commentsToLikes: 0.001550
+    id: cl088goccaiwf0i231i9w2kd1
+    verified: false
+    hashtags: ""
+  - username: "baileysarian"
+    fullname: >-
+      Bailey Sarian  🥀
+    bio: >-
+      Ms. Murder, Mystery, & Makeup • Dark History • 👇🏼 * New Video * & My Social Links :
+    location: "United States"
+    followers: 2984315
+    engagement: 663
+    commentsToLikes: 0.007988
+    id: ck0tu62zw5sxv0i19qevjyufa
+    verified: false
+    hashtags: ""
+  - username: "jess"
+    fullname: >-
+      Jess Conte
+    bio: >-
+      ✞ ☻ jess@scalemanagement.co ⤥ my guided journal
+    location: "United States"
+    followers: 2262141
+    engagement: 1362
+    commentsToLikes: 0.002894
+    id: ck0vw0aemrj6l0i194vjeeex9
+    verified: true
+    hashtags: ""
+  - username: "savannah_joyyy"
+    fullname: >-
+      Savannah Joy
+    bio: >-
+      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
+    location: "United States"
+    followers: 132122
+    engagement: 417
+    commentsToLikes: 0.012208
+    id: ck5q33lorj2160i11tlfrq9s1
+    verified: false
+    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
+  - username: "behamin"
+    fullname: >-
+      Behamin • بهامين
+    bio: >-
+      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
+    location: "United States"
+    followers: 487738
+    engagement: 571
+    commentsToLikes: 0.033819
+    id: ck0u741343nni0i1969xnaly0
+    verified: false
+    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
+  - username: "maggiemacdonald"
+    fullname: >-
+      MM
+    bio: >-
+      raelyn@raelynmgmt.com
+    location: "United States"
+    followers: 200926
+    engagement: 832
+    commentsToLikes: 0.009191
+    id: ck5zt6mnrzu670i14y1jc91xm
+    verified: false
+    hashtags: "#ad, #revolvegallery"
 countries:
   - name: Algeria
     link: /instagram/algeria
@@ -196,8 +196,6 @@ countries:
     link: /instagram/russia
   - name: Saudi Arabia
     link: /instagram/saudi-arabia
-  - name: Serbia
-    link: /instagram/serbia
   - name: Singapore
     link: /instagram/singapore
   - name: Slovakia

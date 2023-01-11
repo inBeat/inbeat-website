@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Singapore in 2023
+title: Top 10 Mothers Instagram Influencers In Singapore In 2023
 description: >-
-  Find top mothers Instagram influencers in Singapore in 2023. Most popular hashtags: #motherhood #sgmom #singapore #momlife.
+  Find top mothers Instagram influencers in Singapore in 2023. Most popular hashtags: #motherhood #singapore #momlife #ootd.
 platform: Instagram
-hits: 46
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 46 Instagram influencers like this in Singapore for you to work with.
+hits: 16
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 16 Instagram influencers like this in Singapore for you to pitch.
 profiles:
-  - username: "shanadramaqueen"
-    fullname: >-
-      Aakarshana Saravanan
-    bio: >-
-      Spread love everywhere u go Let no one ever come to u without leaving happier - Mother Teresa 🇸🇬 📩- Aakarshana89@gmail.com My YouTube Channel⬇️
-    location: "Singapore"
-    followers: 20981
-    engagement: 489
-    commentsToLikes: 0.009315
-    id: ck6tkskab5bq70j71iqt720zs
-    verified: false
-    hashtags: "#zeropatiencesara, #firstworldproblems, #31october, #kbye"
   - username: "evonnz"
     fullname: >-
       Evonne ★
     bio: >-
       Beauty/Aesthetic, Design, Diving, Bunnies and Taugeh-less meals🐚 Mother Hen @mizuaesthetic @aeras.sg
     location: "Singapore"
-    followers: 29841
-    engagement: 119
-    commentsToLikes: 0.027295
+    followers: 30021
+    engagement: 141
+    commentsToLikes: 0.023139
     id: ck5q78j7p0eg90i11uml1hz79
     verified: false
-    hashtags: "#rabbitsofrhq, #harrythejerseywooly, #rabbitsofinstagram, #stayhome"
+    hashtags: "#harrythejerseywooly, #rabbitsofinstagram, #rabbitsofrhq, #clearturn28days"
   - username: "briebenfell"
     fullname: >-
       Brie
     bio: >-
-      📍 Singapore • Mummy & Wife • Actress • Model • 💌 Bookings@19sixtyfive.com.sg 🤱🏼 Ambassador: @motherswork 🧘🏼‍♀️ Founder: @brie_fit 👑 @everafter_sg
+      📍 🇸🇬 Mama & Wife • Actress • Model 💌 Bookings@19sixtyfive.com.sg 🎙 Host: @makingofmotherhood 🧘🏼‍♀️ Founder: @brie_fit 🤱🏼 Ambassador: @motherswork
     location: "Singapore"
-    followers: 15065
-    engagement: 352
-    commentsToLikes: 0.057510
+    followers: 16000
+    engagement: 374
+    commentsToLikes: 0.033655
     id: ck8sy96m0k5u20j78gm9bmlw4
     verified: false
-    hashtags: "#mummytobrie, #momtobe, #duejuly2020, #lockdown"
-  - username: "jauzchen"
-    fullname: >-
-      Jauz Chen
-    bio: >-
-      Parenting 🤱 Lifestyle 🌴 Food 🍳 Mum of 15yo twins 👭 + 9 mths 👶🏻 💌 DM for Collab | Reviews | Events Jauz.chen@gmail.com @favesofficial Personality
-    location: "Singapore"
-    followers: 3991
-    engagement: 784
-    commentsToLikes: 0.560142
-    id: ck6u1far0ldzd0j71wrl9ouh4
-    verified: false
-    hashtags: "#happybaby, #instakids, #sgig, #ootd"
-  - username: "adelinebabysuns"
-    fullname: >-
-      AdelineBaby Suns
-    bio: >-
-      A drama-mama of 2 👦🏻👦🏻& a baby👧🏻 👑ＭｒｓＳｉｎｇａｐｏｒｅ Ｗｏｒｌｄ 🌎 2016/17 Collabs/media: adelinebabysuns@gmail.com
-    location: "Singapore"
-    followers: 9406
-    engagement: 408
-    commentsToLikes: 0.501763
-    id: ck0tzejo8q2dm0i19er12ow9h
-    verified: false
-    hashtags: "#momootd, #beingbestforbaby, #6monthsold, #circuitbreaker"
-  - username: "poojakawatra"
-    fullname: >-
-      Pooja Kawatra | Mums&Babies
-    bio: >-
-      Mom | Lifestyle | Beauty| Travel Founder @makeadifferencechangelives @mumsbabies 🙋CANCER SURVIVOR🎗 👑Top #ParentBlogger 📍SG/India
-    location: "Singapore"
-    followers: 35136
-    engagement: 96
-    commentsToLikes: 0.163968
-    id: ckf5rn8v8da8x0j23kh286zat
-    verified: false
-    hashtags: "#jaimatadi, #motherhood, #mums, #mumsbabiesseries"
-  - username: "cravings4vegan"
-    fullname: >-
-      Nisha🙏 Recipe Developer🥙🥗
-    bio: >-
-      Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 #detoxwithnish #rainbowrecipesbynish DM/email for collab
-    location: "Singapore"
-    followers: 10459
-    engagement: 663
-    commentsToLikes: 0.513091
-    id: ck134qfltxp6r0i19bk4o1m7h
-    verified: false
-    hashtags: "#navratri, #newparents, #glutenfreerecipes, #singaporehomecooks"
-  - username: "wantingw"
-    fullname: >-
-      W A N T I N G
-    bio: >-
-      Wife to @nd_lim Mama to @christianlim.fk #ndwtcl Christian’s One Year Old party 👇🏻
-    location: "Singapore"
-    followers: 24027
-    engagement: 257
-    commentsToLikes: 0.047102
-    id: ck55vgf3vetlg0i11xuq2f9zj
-    verified: false
-    hashtags: "#mothersday, #ndwtcl, #cny, #cny2020"
-  - username: "alillustralee"
-    fullname: >-
-      Ali Hanafiah
-    bio: >-
-      SG. dsgnr / llstrtr / phtgrhpr ✎ Im self-represented and take clients on a limited basis. Inquire about my availability. alillustralee@gmail.com
-    location: "Singapore"
-    followers: 39997
-    engagement: 334
-    commentsToLikes: 0.020469
-    id: ck0w011aobuvk0i19pay1a2vl
-    verified: false
-    hashtags: "#moneyheist, #netflix, #nairobi, #netflixasia"
+    hashtags: "#playtogether, #fullertonmemories, #staycation, #shotoniphone12"
   - username: "yuniqueyuni"
     fullname: >-
       Yuni | Travel & Lifestyle SG
     bio: >-
-      📍Singapore ✨ @dearbbkai mommy 🤱🏻 ✨ @myfatpocket resident blogger ✨ @favesofficial Personality
+      📍Singapore Also sharing Motherhood & Baby Moments 🥰 ✨ @dearbbkai mommy 🤱🏻
     location: "Singapore"
-    followers: 21120
-    engagement: 262
-    commentsToLikes: 0.179101
+    followers: 21196
+    engagement: 221
+    commentsToLikes: 0.299958
     id: ck0ubxdjvfhdh0i191t2tm3tl
     verified: false
-    hashtags: "#visitsingapore, #discoversingapore, #things2doinsingapore, #singapore"
+    hashtags: "#sgmums, #singaporeworld, #rediscoversingapore, #sgmummy"
+  - username: "mothershipsg"
+    fullname: >-
+      Mothership.sg
+    bio: >-
+      The younger people run this account.
+    location: "Singapore"
+    followers: 650489
+    engagement: 420
+    commentsToLikes: 0.006060
+    id: ck139r2enmpvq0i19ynud6txn
+    verified: true
+    hashtags: "#linkinbio, #sponsored, #mothershipgdll"
+  - username: "roxannegan_"
+    fullname: >-
+      ROXANNE GAN
+    bio: >-
+      🇸🇬 Certified Yoga Instructor & PT 📩 hello@roxannegan.com 🎥 YouTube: Roxanne Gan Purchase my Yoga eBook (60 tutorials) 👇🏻
+    location: "Singapore"
+    followers: 126481
+    engagement: 131
+    commentsToLikes: 0.012749
+    id: ck0vxnqw9zteb0i190sr9gudl
+    verified: false
+    hashtags: "#pregnancy, #yogajourney, #motherhood, #bumplife"
+  - username: "narellekheng"
+    fullname: >-
+      𝖓𝖆𝖗𝖊𝖑𝖑𝖊
+    bio: >-
+      🧡 @moonstone.sg 🌝 She
+    location: "Singapore"
+    followers: 137123
+    engagement: 197
+    commentsToLikes: 0.004014
+    id: ck5qap1uvhjbk0i11mm6lr3fm
+    verified: true
+    hashtags: "#3x3bookclub, #mothernatureappreciationpost, #earthday, #gucciepilogue"
+  - username: "cravings4vegan"
+    fullname: >-
+      Nisha🙏 Recipe Developer🥙🥗
+    bio: >-
+      See me Growing through my mumma's 👀: Eddie👦🏻 Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 DM/email for collab
+    location: "Singapore"
+    followers: 10661
+    engagement: 439
+    commentsToLikes: 0.476225
+    id: ck134qfltxp6r0i19bk4o1m7h
+    verified: false
+    hashtags: "#homemade, #indianfoodie, #birthdaycakes, #gharkakhana"
+  - username: "poojakawatra"
+    fullname: >-
+      Pooja Kawatra | Family |Mom| Lifestyle
+    bio: >-
+      🇮🇳 🇸🇬 Be the change you want to see.. Nov/Dec✈️Europe🇫🇷 🇨🇭 🇦🇹 🇭🇺 #CancerSurvivor Founder @makeadifferencechangelives Lancôme’s 100 Inspiring Women
+    location: "Singapore"
+    followers: 74096
+    engagement: 239
+    commentsToLikes: 0.044652
+    id: ckf5rn8v8da8x0j23kh286zat
+    verified: false
+    hashtags: "#mums, #reelsinstagram, #christmas, #india"
+  - username: "tjinlee"
+    fullname: >-
+      Tjin Lee
+    bio: >-
+      Adventurer, Boymama, Home & Travel. Blazing my own trail. Founder/ Creative @mercurysocial Co-founder @lifebeyondgrades @crib_society 🇸🇬
+    location: "Singapore"
+    followers: 46150
+    engagement: 82
+    commentsToLikes: 0.019626
+    id: ck6uige5fextx0j71crclrwep
+    verified: false
+    hashtags: "#sgkids, #sgfamily, #blessed, #mercurysocial"
+  - username: "nadiahmdin"
+    fullname: >-
+      Nadiah M.Din
+    bio: >-
+      🎬 Tv/Film Actor & Host 👩🏽 🇸🇬Javanese and Pakistani. #asktherevertiglive #lapouponsmaison #lespouponsdecor @lespoupons.sg 📧-Nmdin.official@gmail.com
+    location: "Singapore"
+    followers: 158030
+    engagement: 182
+    commentsToLikes: 0.029375
+    id: ck0u2a0v2zdx90i19cggrb9qg
+    verified: true
+    hashtags: "#thepouponswed, #nadiahxmayfifth, #tiktok, #ootd"
 ---

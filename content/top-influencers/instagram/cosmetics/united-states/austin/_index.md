@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Austin in 2023
+title: Top 10 Cosmetics Instagram Influencers In Austin In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Austin in 2023. Most popular hashtags: #makeup #cosmetics #beauty #art.
+  Find top cosmetics Instagram influencers in Austin in 2023. Most popular hashtags: #fashion #cosmetics #mua #austin.
 platform: Instagram
-hits: 25
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database has 25 Instagram influencers like this in Austin, United States for you to collaborate.
+hits: 26
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 26 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "nailed_by_becky"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.040427
     id: ck6tk5n3o41r70j71oizdxx9j
     verified: false
-    hashtags: "#beauty, #nail, #nailgirl, #nailart"
+    hashtags: "#nailart, #acrylicnailsdesign, #coffinnails, #quarantine"
+  - username: "melu103"
+    fullname: >-
+      𝘔𝘦𝘭𝘪𝘯𝘢 ❥
+    bio: >-
+      📍❘ ⁣𝙰𝚞𝚜𝚝𝚒𝚗, 𝚃𝚇 🌎❘ 𝐦𝐚𝐝𝐞 𝐢𝐧 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊 🇦🇷⁣ 💻❘ Social Media Content Creator
+    location: "United States"
+    followers: 9331
+    engagement: 256
+    commentsToLikes: 0.104617
+    id: ck6ua4ehe1f2h0j719d0ie3wx
+    verified: false
+    hashtags: "#staymotivated, #healthy, #eatright, #fatloss"
   - username: "jannaortiz1"
     fullname: >-
       𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
     bio: >-
       Filipina 🇵🇭 Austin TX Twitter: Jannaortiz1
     location: "United States"
-    followers: 2676
-    engagement: 1952
-    commentsToLikes: 0.080489
+    followers: 3504
+    engagement: 1522
+    commentsToLikes: 0.074640
     id: ck5q6e1jrx0dy0i11ssc44sp5
     verified: false
-    hashtags: "#cosmetics, #moodygrams, #exploreeverything, #fashionblogger"
-  - username: "kimono_kat"
+    hashtags: "#fashion, #fashionista, #officialfuegobabe, #mua"
+  - username: "lisajmakeup"
     fullname: >-
-      Mina • มีน่า
+      Lisa J
     bio: >-
-      📸 Skincare hobbyist// Flatlay Lover 📍 Austin, TX 💌 PR: kimonokat91@gmail.com
+      Creator & Founder @thebkbeauty Passion for Beauty. Mission to Inspire Kindness 💜 YouTube 🎥 LisaJMakeup Austin, TX
     location: "United States"
-    followers: 9017
-    engagement: 703
-    commentsToLikes: 0.323792
-    id: ck5q8fc225wis0i11f20hbd2o
+    followers: 33784
+    engagement: 264
+    commentsToLikes: 0.070886
+    id: ck5hdvxqgpn2v0i11p2gl121l
     verified: false
-    hashtags: "#beatthealgo, #selfcaresunday, #beatthealgorithm, #texturetuesday"
+    hashtags: "#liketkit, #kendrascott, #ad, #ltkbeauty"
   - username: "chelseasmakeup"
     fullname: >-
       Chelsea Tresidder
     bio: >-
       🇨🇦🇬🇾 🎥Youtube Channel 📍Toronto -> Austin, Texas Personal Insta: @chelstres
     location: "United States"
-    followers: 202092
-    engagement: 118
-    commentsToLikes: 0.013770
+    followers: 190141
+    engagement: 123
+    commentsToLikes: 0.014240
     id: ck5zz4w5lb32j0i14hqyeqe28
     verified: false
-    hashtags: ""
-  - username: "bat.barbie"
+    hashtags: "#shophudabeauty, #concealer, #fashion, #eyeshadow"
+  - username: "callher6"
     fullname: >-
-      Britt Gorman
+      6
     bio: >-
-      Look like a Slytherin, love like a Hufflepuff.🦇💖 Temp tattoo princess @seventhskin in Austin, TX | Mermaids | Illustration | Disney | Makeup
+      I’ll be remembered for all the lives I’ve touched & Defined by how many times I managed to get back up-💋J.Austin
     location: "United States"
-    followers: 14245
-    engagement: 745
-    commentsToLikes: 0.025479
-    id: ck5bvsamtkb420i11gxx478eo
+    followers: 30993
+    engagement: 443
+    commentsToLikes: 0.079882
+    id: ck5hfgoatxe0w0i119ltgerzp
     verified: false
-    hashtags: "#painting, #acrylic, #art, #originalart"
-  - username: "dopenail_galleria"
-    fullname: >-
-      DM FOR $10 PROMO
-    bio: >-
-      We post the dopest 💅🏿💅🏾💅🏼 artists on the 🌎🚨ALL ARTISTS ARE TAGGED🚨INSPO ONLY🚨 DM FOR $10 PROMO...👀 #dopenailgalleria...Austin📍
-    location: "United States"
-    followers: 70426
-    engagement: 56
-    commentsToLikes: 0.012190
-    id: ck0vyj5j549aj0i19iu1nhnj2
-    verified: false
-    hashtags: "#atlantanails, #charlottenails, #nailpromagazine, #makeupideas"
+    hashtags: "#drag, #dragqueen, #dragmakeup, #transformation"
   - username: "lovelyysamantha"
     fullname: >-
       Samantha Nguyen
     bio: >-
-      Austin, Tx My family are my world Owner: @shopaotg 🦋
+      Austin, Tx Don’t be the reason you don’t reach your goals ✨ Family 💕
     location: "United States"
-    followers: 7656
-    engagement: 777
-    commentsToLikes: 0.054452
+    followers: 8354
+    engagement: 524
+    commentsToLikes: 0.051323
     id: ck5pzv63a2wlv0i119dagil0g
     verified: false
-    hashtags: "#makeuplover, #benefitbrows, #lashes, #beauty"
-  - username: "slokeone"
+    hashtags: "#makeuptutorial, #makeup, #makeuplooks, #austinmakeupartist"
+  - username: "realself"
     fullname: >-
-      
+      RealSelf
     bio: >-
-      ATX Native...NBK,CBS,OTM,LAWS,LORDS,CREATURES CREWS. Stylizing letters and surfaces since 1990. DM for commissions. 👉🏼You can now shop for my art at
+      Factual, unbiased info on cosmetic procedures. Find a doctor for an in-person or virtual consult👇
     location: "United States"
-    followers: 19942
-    engagement: 239
-    commentsToLikes: 0.037022
-    id: ck13cxgxv2n8y0i19oiv40oeh
-    verified: false
-    hashtags: "#sloke, #abstract, #fuckcorona, #atxgraff"
-  - username: "angelabermudeza"
+    followers: 229639
+    engagement: 45
+    commentsToLikes: 0.032925
+    id: ck5q2wui7i63k0i113wv9eemy
+    verified: true
+    hashtags: ""
+  - username: "cutenailstudio"
     fullname: >-
-      Angela Bermúdez Art
+      Cute Nail Studio
     bio: >-
-      🇨🇷 Costa Rican in LA | Self-taught Painter 📸 Modeling & Cosplay at @angelabermudezb 🎨 Creating at @brushesandkeys w/@a.wintory
+      🌈 lgbtqia+ safe space // manis and pedis // nail art // waxing // skincare // tattoos // currently building out our second location // we love you 🌙
     location: "United States"
-    followers: 38979
-    engagement: 441
-    commentsToLikes: 0.020423
-    id: ck15r92h86rdn0i19gpfc81fh
+    followers: 59413
+    engagement: 199
+    commentsToLikes: 0.010520
+    id: ck0vwjxn4u6a80i197t7nuiqq
     verified: false
-    hashtags: "#stayhome, #quarantine, #musicandpainting, #cosplay"
-  - username: "jerichoalexanderdee"
+    hashtags: "#austin, #valentinesnails, #nailpolishaddict, #cutecult"
+  - username: "alaia_mcbroom__"
     fullname: >-
-      Jericho Alexander & Mommy Dee
+      🦋Alaia Marie Mcbroom🦋
     bio: >-
-      莊聖凱 Part of @oninfluencer 💗 Managed by J’s mom #jdeempasi #jdeesharing #jdeetravelling #jdeeMilestone 💕💕💕
+      Business inquires: helloletscollaborate@gmail.com 💜💙 Positive mind | Positive vibe | Positive life Be the reason someone smile today!!
     location: "United States"
-    followers: 83104
-    engagement: 117
-    commentsToLikes: 0.036295
-    id: ck9wh08uevnmd0j785swxpml4
+    followers: 24161
+    engagement: 241
+    commentsToLikes: 0.003417
+    id: ckf5xm2c6w5os0j239tgw4iph
     verified: false
-    hashtags: "#jerichoalexanderdee, #bajurumah, #bajuanak, #frenchfood"
+    hashtags: "#theacefamily, #catherinemcbroom, #ellemcbroom, #family"
 ---

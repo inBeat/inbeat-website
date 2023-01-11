@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In India in 2023
+title: Top 10 Bodybuilding Instagram Influencers In India In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in India in 2023. Most popular hashtags: #bodybuilding #fitness #motivation #fitnessmotivation.
+  Find top bodybuilding Instagram influencers in India in 2023. Most popular hashtags: #bodybuilding #fitness #workout #health.
 platform: Instagram
-hits: 346
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 346 Instagram influencers like this in India for you to pitch.
+hits: 244
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 244 Instagram influencers like this in India for you to work with.
 profiles:
   - username: "dev_lohia"
     fullname: >-
       Dev lohia
     bio: >-
-      Natural bodybuilding &memes Delhi🇮🇳 Online trainer- natural athletes Drug free. Biker, philanthropist. Brown boy aesthetics
+      Natural bodybuilding, lifelong student of the game. Delhi🇮🇳 Online coach- natural athletes Drug free. Motorcycle enthusiast. Philanthropist.
     location: "India"
-    followers: 17845
-    engagement: 592
-    commentsToLikes: 0.034908
+    followers: 16856
+    engagement: 366
+    commentsToLikes: 0.036049
     id: ckf5lzgserm960j23wdysmtte
     verified: false
-    hashtags: "#fitnessmotivation, #aesthetics, #gymlife, #menswear"
-  - username: "drtonyhuge"
-    fullname: >-
-      Dr. Tony Huge®
-    bio: >-
-      Bodybuilding, chemistry, lifestyle. Teaching as I learn through self experimentation and underground research. Legal supps: @enhancedlabs.official
-    location: "India"
-    followers: 136912
-    engagement: 74
-    commentsToLikes: 0.040548
-    id: ck5q8v5xe83k70i11073d41xx
-    verified: false
-    hashtags: "#thailand, #pattaya, #bodybuilding, #fitnessmotivation"
-  - username: "karthikshekar6"
-    fullname: >-
-      Karthik Shekar Acharya
-    bio: >-
-      Mr_karnataka 🥇 Mr_bangalore 🥇 Mr_india 🥈 bodybuilding a way of lif ￼DM for Collab and Paid Promation 📩 Kannada_film_industry Quick_animals_rescue_team
-    location: "India"
-    followers: 11275
-    engagement: 1000
-    commentsToLikes: 0.010088
-    id: ck8wf4659f3iz0j78nhs5875x
-    verified: false
-    hashtags: "#fightthedarkness, #archanamosale, #bestyforever"
+    hashtags: "#bollywood, #workout, #healthylifestyle, #instagram"
   - username: "vetriselvam_official"
     fullname: >-
       Fitness_Freek
     bio: >-
       Online training 🔥💪 #AV Garments @ owner🤑 #bodybuilding #12 competition complete 💪🏆🏅 #Mr tirupur multiple times 🏆🏅 #தமிழன் (indian)🇮🇳 #22-11-🎂🎂
     location: "India"
-    followers: 3706
-    engagement: 1363
-    commentsToLikes: 0.048677
+    followers: 6338
+    engagement: 910
+    commentsToLikes: 0.034631
     id: ck9wg8xy3sck50j78nr20ynkb
     verified: false
-    hashtags: "#nutrition, #weightloss, #motivation, #tiktok"
+    hashtags: "#weightloss, #posing, #gym, #bodybuilder"
+  - username: "hossein_abdollahi_official_"
+    fullname: >-
+      Hossein Abdollahi
+    bio: >-
+      Secretary of Judging Committee of WBPF, Chairman of disciplinary Committee of ABBF, Bodybuilding international Lecturer & Sport Biomechanist
+    location: "India"
+    followers: 3511
+    engagement: 1469
+    commentsToLikes: 0.136170
+    id: ck6tnewnl9paa0j7124v6pgwi
+    verified: false
+    hashtags: "#repost"
+  - username: "drtonyhuge"
+    fullname: >-
+      Tony Huge
+    bio: >-
+      Tony Huge: Bodybuilding, chemistry, lifestyle. Teaching as I self experiment and underground research. Legal supps: @enhancedlabs.official
+    location: "India"
+    followers: 147848
+    engagement: 134
+    commentsToLikes: 0.031356
+    id: ck5q8v5xe83k70i11073d41xx
+    verified: false
+    hashtags: "#drtonyhuge, #bodybuilding, #tonyhuge, #anime"
   - username: "the_indianbodybuilding"
     fullname: >-
       Indian Bodybuilding
     bio: >-
       Official Instagram page of Indian Bodybuilding Blog (IBB). Follow us for all the latest in Indian Bodybuilding and Fitness @the_indianbodybuilding
     location: "India"
-    followers: 133285
-    engagement: 298
-    commentsToLikes: 0.004787
+    followers: 120649
+    engagement: 345
+    commentsToLikes: 0.004448
     id: ck13bgjh9vbfv0i193avrhy05
     verified: false
-    hashtags: "#motivation, #repost, #bodybuilding, #fitness"
-  - username: "_sharon_shag_"
+    hashtags: "#fitness, #repost, #bodybuilding, #teambasekofitness"
+  - username: "rohitkhatrifitness"
     fullname: >-
-      SHARON SHAG
+      Rohit Khatri
     bio: >-
-      .....Official account..... 😎also a kochikaran😎 ☺️Landed on April 17🙂 😍RX lover 😍 🤙No drugs🤙 😜💯%chilll😜
+      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
     location: "India"
-    followers: 3140
-    engagement: 3089
-    commentsToLikes: 0.219887
-    id: ck9whqor9z1qc0j78fx4hpwxo
+    followers: 614738
+    engagement: 467
+    commentsToLikes: 0.004563
+    id: ck8wd6rbxdgf00j78gz3so4nb
     verified: false
-    hashtags: "#instamood, #trending, #beach, #food"
-  - username: "iamjobansandhu"
+    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
+  - username: "akash_d_prabhu"
     fullname: >-
-      🔱 JOBAN  SANDHU 🔱
+      AKASH DINESH PRABHU
     bio: >-
-      ਸਾਣ ਜੱਟ 😤 Punjab Police 🚨 Amritsar, Punjab 📍 Vadda veer @r.o.b.i.n_s.i.n.g.h You know my Name not my Story 🖤
+      Sky beast 🦁 Fashion and fitness 🦁
     location: "India"
-    followers: 41729
-    engagement: 787
-    commentsToLikes: 0.021355
-    id: ck135wzgu3nui0i193ga0iiqy
+    followers: 75729
+    engagement: 460
+    commentsToLikes: 0.008572
+    id: ckap402la59660i78p84xb03x
     verified: false
-    hashtags: "#fashionblog, #pune, #sport, #wmk"
-  - username: "engineeronvacay"
+    hashtags: "#explore, #abs, #reels, #love"
+  - username: "ifbbpro_jkaliwala"
     fullname: >-
-      Anshul Aggarwal
+      Junaid Kaliwala
     bio: >-
-      Welcome to join my family to get some work-life balance ideas 🥂 Software Engineer 👨‍💻 14 countries visited🌍 Delhi 🎈
+      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
     location: "India"
-    followers: 30405
-    engagement: 402
-    commentsToLikes: 0.054806
-    id: ckaouftiw033h0i78z1hqwdjb
-    verified: false
-    hashtags: "#styleblogger, #travelindia, #fitnessinfluencer, #lifestyleblogger"
-  - username: "fitnessfreak_2407"
+    followers: 333970
+    engagement: 247
+    commentsToLikes: 0.010723
+    id: ck5hrf80lurx60i11laqzr2nh
+    verified: true
+    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
+  - username: "varunverrma"
     fullname: >-
-      Sayed Haider
+      Varun Verma
     bio: >-
-      Truest success is finding it in work that u love. •Fitness•Lifestyle•Travel•Automobile•Fashion An Entrepreneur Co-founder @kalacraft_110
+      Mr India Supranational’19 Mr Supranational Asia’19 @muscleblaze 💪 @myntra style squad member
     location: "India"
-    followers: 35904
-    engagement: 168
-    commentsToLikes: 0.144708
-    id: ckap2w88k0l5v0i78yc1fwabf
-    verified: false
-    hashtags: "#mensclothing, #healthy, #preworkout, #instastyle"
-  - username: "tanyakapoor05"
+    followers: 739950
+    engagement: 220
+    commentsToLikes: 0.004725
+    id: ck55lhxdo1m4x0i11j5fem362
+    verified: true
+    hashtags: "#bodybuilding, #healthy, #health, #varunverma"
+  - username: "sparsh_alawadhi"
     fullname: >-
-      Tanya Kapoor| Lifestyle Coach
+      SPARSH🥂
     bio: >-
-      Daughter of God. I love lifting weights🏋️‍♂️ 🍑NOT your average FIT PAGE😝 @muscletech ATHLETE💪🏻 📧 DM Online Coaching ▫️Youtube
+      23 Fashion / Fitness / Lifestyle 📍| Delhi | India 👻 : sparsh9953 For collaborations 👇 📩 : sparsh.allawadi123456@gmail.com
     location: "India"
-    followers: 288145
-    engagement: 288
-    commentsToLikes: 0.019590
-    id: ck15sq0hte8u40i199u83p3ps
+    followers: 72526
+    engagement: 201
+    commentsToLikes: 0.033284
+    id: ckv1vnc6mw63e0j23hsofahqm
     verified: false
-    hashtags: "#fitness, #gym, #motivation, #workout"
+    hashtags: "#instagood, #menwithstyle, #sexy, #men"
 ---

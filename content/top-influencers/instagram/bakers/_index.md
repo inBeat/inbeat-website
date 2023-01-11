@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers in 2023
+title: Top 10 Bakers Instagram Influencers In 2023
 description: >-
-  Find top bakers Instagram influencers in 2023. Most popular hashtags: #family #food52 #thefeedfeedbaking.
+  Find top bakers Instagram influencers in 2023. Most popular hashtags: #chocolate #dessert #chocolatecake.
 platform: Instagram
-hits: 4406
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 4406 Instagram influencers like this for you to contact.
+hits: 9677
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 9677 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "germantorres.pan"
+  - username: "bakergkln"
     fullname: >-
-      Germán Torres
+      BAKER
     bio: >-
-      Baker/
-    location: "Argentina"
-    followers: 29716
-    engagement: 294
-    commentsToLikes: 0.044762
-    id: ck0uadxg8c2vf0i19hykd9n23
+      🇧🇷 Brazillian Rapper 🎤@gilklan 💿@papatunes 📮Shows: contato@papatinho.com ☎️21 981386134 ⬇️⬇️LANÇAMENTO⬇️⬇️ Carlean - Passando de fase(feat.Baker)
+    location: "Brazil"
+    followers: 4156
+    engagement: 530
+    commentsToLikes: 0.160547
+    id: ck6u4so0c5jvh0j71heuwmy9i
     verified: false
-    hashtags: ""
+    hashtags: "#quarentena, #ficaemcasa, #quarantine, #hiphop"
   - username: "simons_bread"
     fullname: >-
       Simon Bowden
     bio: >-
       Baker
     location: "United States"
-    followers: 8303
-    engagement: 860
-    commentsToLikes: 0.058190
+    followers: 8189
+    engagement: 667
+    commentsToLikes: 0.056262
     id: ck6u13xirjfly0j71bzfjd23x
     verified: false
-    hashtags: "#sourdough, #yahoofood, #food52, #sourdoughbread"
+    hashtags: "#fermentation, #cinnamonrolls, #uppereastside, #brioche"
+  - username: "passionateaboutbaking"
+    fullname: >-
+      Deeba Rajpal
+    bio: >-
+      Cookbook Author | Baker | Content Creator | Blogger | Eggless Desserts | Food Stylist | Food Photography Recipes on @pabrecipes India 🇮🇳
+    location: "India"
+    followers: 416171
+    engagement: 1005
+    commentsToLikes: 0.016130
+    id: ck0twjmsvfofn0i19ffoazlr7
+    verified: true
+    hashtags: "#ad, #strawberries, #pabrecipes, #biscofflotus"
+  - username: "janeejaneee"
+    fullname: >-
+      SF Bay Area food & fun 🥂 Jane
+    bio: >-
+      🍴 #foodie // 👩‍💻 #coder // 👩‍🍳 #baker 🌉 #sfbayarea // 🇨🇦 #toronto 💌 dm for collabs 欢迎合作！ 📸 #shotonpixel
+    location: "United States"
+    followers: 9473
+    engagement: 576
+    commentsToLikes: 0.146488
+    id: ckwbef5xnkycr0j23v856l8hz
+    verified: false
+    hashtags: "#yamimeal, #tastyselect, #heypot, #heyhotpot"
+  - username: "fahimanwar"
+    fullname: >-
+      Fahim Anwar
+    bio: >-
+      TOUR🎟 BAKERSFIELD Jan 12 DC Jan 27-29, more! ⬇️
+    location: "United States"
+    followers: 125164
+    engagement: 2088
+    commentsToLikes: 0.025287
+    id: ck0vypm44563m0i1900lf99au
+    verified: true
+    hashtags: "#fahimstandup, #comedy, #jokes, #funny"
+  - username: "recueilgourmand"
+    fullname: >-
+      Mahmoud - Recueil Gourmand
+    bio: >-
+      🍰 Baker in soul 🍮 🍩Gourmand-love eating pastry 🎂 📑Moroccan Food Blogger✒ 📍Rabat ✉ recueilgourmand@gmail.com My blog:
+    location: "France"
+    followers: 26938
+    engagement: 143
+    commentsToLikes: 0.030061
+    id: ck8t5c6sd9lrz0j78a75vfzj2
+    verified: false
+    hashtags: "#dessertlover, #bakingfromscratch, #cakestagram, #icecreamlover"
+  - username: "tonybaker"
+    fullname: >-
+      Tony Baker
+    bio: >-
+      Actor/Stand Up Comedian. Youtube: Tony Baker Comedy Instagram: @tonybakerrandomly Facebook: @TonyBakerComedyPage TURN ON MY NOTIFICATIONS 👆🏾
+    location: "United States"
+    followers: 2529132
+    engagement: 34
+    commentsToLikes: 0.046869
+    id: cl34yj62dzu5q0i237lz5qnuw
+    verified: false
+    hashtags: "#tonybakerontheshelves, #thefabulousbakerboyz, #la, #burbank"
+  - username: "cindykarmoko"
+    fullname: >-
+      CINDY KARMOKO
+    bio: >-
+      Big wardrobe 🧳🤣 👠, Beauty, Travel & Fragrance enthusiast ✈️ Home Baker👩🏻‍🍳 @swellrecipes ❤️ #oma🍑 #idressedtothrill #lidahcece
+    location: "France"
+    followers: 108165
+    engagement: 37
+    commentsToLikes: 0.061865
+    id: ck137q4rfct710i19fx80v9rf
+    verified: true
+    hashtags: "#makandireels, #viralfood, #idressedtothrill, #coachny"
+  - username: "real_tim_othy"
+    fullname: >-
+      Tim Othy
+    bio: >-
+      From WI Live in SF Gymgoer, traveler, baker, linguaphile, photic sneezer, dog lover, needlepointer, Golden Girls maniac, and Oxford comma enthusiast.
+    location: "United States"
+    followers: 42438
+    engagement: 1231
+    commentsToLikes: 0.045103
+    id: ck9hb12frexd20j7894363rx2
+    verified: false
+    hashtags: "#showyourpineapple, #tbt, #jjmalibu, #doubletimetwins"
   - username: "bestobaker"
     fullname: >-
       Giuseppe Besto Stella
     bio: >-
       I'm a Bearded baker in love with photography. 📍Milano 🇮🇹 🏳️‍🌈 |He/Him| The other side of me👇 @besto_stella
-    location: "United States"
-    followers: 7268
-    engagement: 1351
-    commentsToLikes: 0.064616
+    location: "Italy"
+    followers: 7531
+    engagement: 1515
+    commentsToLikes: 0.059349
     id: ck6tyehy039k30j71pe2sx5np
     verified: false
-    hashtags: "#art, #queer, #muscle, #pink"
-  - username: "real_tim_othy"
-    fullname: >-
-      Tim Othy
-    bio: >-
-      From WI. Live in SF. Gym goer. Traveler. Baker. Dog lover. Needlepointer. Linguaphile, Golden Girls lunatic, and Oxford comma enthusiast.
-    location: "United States"
-    followers: 28743
-    engagement: 1015
-    commentsToLikes: 0.051472
-    id: ck9hb12frexd20j7894363rx2
-    verified: false
-    hashtags: "#byedon2020, #proudboys, #vote, #bidenharris2020"
-  - username: "biancavierra"
-    fullname: >-
-      b. 🐝
-    bio: >-
-      hot tub connoisseur 🛁 aspiring sourdough baker 👩🏻‍🍳 LA - @theindustryla francis@theindustrymodelmgmt.com
-    location: "United States"
-    followers: 34689
-    engagement: 674
-    commentsToLikes: 0.033143
-    id: ck1381wzie3wf0i196bq18n4u
-    verified: true
-    hashtags: ""
-  - username: "gemma_stafford"
-    fullname: >-
-      Gemma Stafford
-    bio: >-
-      Host, Professional Chef, Bold Baker, Irish living in LA. Follow my baking @biggerbolderbaking. New baking recipes 4x per week on my website 👇
-    location: "United States"
-    followers: 131040
-    engagement: 332
-    commentsToLikes: 0.035423
-    id: ck0w1xhqelmhc0i19k0tesijh
-    verified: true
-    hashtags: "#newmom, #babyboy, #newparents, #fallbaking"
-  - username: "mumma.baker"
-    fullname: >-
-      • Mackenzie •
-    bio: >-
-      Mumma | Wifey⁣⁣ ⁣⁣ Welcome to the grid of my life. Tiny little squares of love and laughter. ⁣⁣ ⁣ 🏡Somerset⁣, UK ⁣⁣ We are The Bakers! 👨🏽👩🏽👦🏽👶🏽🐶
-    location: "United Kingdom"
-    followers: 4727
-    engagement: 1397
-    commentsToLikes: 0.104545
-    id: ckf5v2wopn3wp0j234ndszxp7
-    verified: false
-    hashtags: "#mumsunite, #parenthood, #motherhoodthroughinstagram, #unitedinmotherhood"
-  - username: "stephiblackwell"
-    fullname: >-
-      Steph Blackwell 🦋
-    bio: >-
-      〰️ Great British Bake off 2019 Finalist 👩🏼‍🍳 Amateur Baker 👟 Sport & Health enthusiast 🧠 Mental health warrior Enquiries: bakewellsteph@gmail.com
-    location: "United Kingdom"
-    followers: 127403
-    engagement: 745
-    commentsToLikes: 0.022829
-    id: ck5py94z9uwd60i11ssf2ppxj
-    verified: true
-    hashtags: "#gbbo, #mentalhealth, #happiness, #bakeoff"
-  - username: "likaran"
-    fullname: >-
-      𝙻𝚒𝚔𝚊𝚛𝚊𝚗 𝙰𝚒
-    bio: >-
-      💌 likaranlai@gmail.com Baker of 🎂 @cakerylili 📍𝓗𝓸𝓷𝓰 𝓚𝓸𝓷𝓰 ✈️#likarantravel ➕地名中字 🍴#likarankitchen ♡🗺🇭🇰🇯🇵📷 𝒫𝒾𝓍𝓃𝑒𝓉 𝐵𝓁𝑜𝑔𝑔𝑒𝓇 | 𝑀𝑜𝓂𝓂𝓎 | 𝒞𝒶𝓀𝑒 𝒜𝓇𝓉𝒾𝓈𝓉丨155
-    location: ""
-    followers: 68925
-    engagement: 401
-    commentsToLikes: 0.077132
-    id: ckapbpr3y0uj10i78044q13xh
-    verified: false
-    hashtags: "#shoutout, #lightroom, #lightroompresets, #instafood"
-  - username: "manonlagreve"
-    fullname: >-
-      Manon Lagrève
-    bio: >-
-      📺Great British Bake Off 2018👩‍🍳 🇫🇷 🇬🇧 Self taught Baker & Cook 🧁 Tuesday Bake Along 🧁 🧵Seamstress apprentice 🧵 More on my website ⬇️
-    location: "United Kingdom"
-    followers: 142653
-    engagement: 298
-    commentsToLikes: 0.026803
-    id: ck15u7j1vlspz0i19g918xcmj
-    verified: true
-    hashtags: "#gbbo, #parisianstyle, #barbados, #frenchbaker"
+    hashtags: "#gay, #beardedman, #muscle, #pink"
 ---

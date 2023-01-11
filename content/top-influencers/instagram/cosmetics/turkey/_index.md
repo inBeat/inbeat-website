@@ -1,96 +1,96 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Turkey in 2023
+title: Top 10 Cosmetics Instagram Influencers In Turkey In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #beauty #cosmetics #fashion.
+  Find top cosmetics Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #makyaj #beauty #makeuptutorial.
 platform: Instagram
-hits: 109
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 109 Instagram influencers like this in Turkey for you to collaborate.
+hits: 89
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 89 Instagram influencers like this in Turkey for you to contact.
 profiles:
+  - username: "ertugrulgazisener"
+    fullname: >-
+      Ertuğrul Gazi Şener
+    bio: >-
+      ⚙️ Boss of @senerbmwyedekparca 🏗Co-Founder of EGS Construction 💄Ceo of Buner's Cosmetic Production
+    location: "Turkey"
+    followers: 302053
+    engagement: 178
+    commentsToLikes: 0.068911
+    id: ckapadupgvplg0i78cu15cst7
+    verified: false
+    hashtags: ""
   - username: "emretunafarmasi"
     fullname: >-
       Emretunafarmasi
     bio: >-
       @emretunaa Farmasi Cosmetics Board 👋 #FarmasiRevolution 🚀 🌍 120+Countries 🌿20+ Brands ✌️MakeUp 💄MakeArt 💋 We Make You Beautiful 📌 Official Account
     location: "Turkey"
-    followers: 32249
-    engagement: 465
-    commentsToLikes: 0.149625
+    followers: 33780
+    engagement: 433
+    commentsToLikes: 0.132150
     id: ck0u61wmf0qkk0i19iq8cflyf
     verified: false
-    hashtags: "#makyaj, #success, #farmasiofficial, #farmasirevolution"
-  - username: "drmirzafirat"
-    fullname: >-
-      Mirza Firat, MD
-    bio: >-
-      Cosmetic Surgery Center Istanbul / Turkey 🇬🇧 +905308571930 🇹🇷 +905353767530 🇸🇦 +905365163248
-    location: "Turkey"
-    followers: 167138
-    engagement: 167
-    commentsToLikes: 0.021600
-    id: ck6uf5abuuzrf0j712n1cvbok
-    verified: false
-    hashtags: "#nosesurgery, #nosejob, #nasenkorrektur, #staysafe"
-  - username: "blog_kubist"
-    fullname: >-
-      
-    bio: >-
-      Kübra✌️ #skincare #cosmetics 💄 Uygun ve yüksek fiyatlı ürün inceleme 💥 TANITIM,REKLAM VE İŞBİRLİKLERİ için DM❣️
-    location: "Turkey"
-    followers: 15805
-    engagement: 466
-    commentsToLikes: 0.089137
-    id: ckaoveru14avm0i78chujci0j
-    verified: false
-    hashtags: "#ke, #farmasi, #denemeli, #kiehls"
-  - username: "denizlebak"
-    fullname: >-
-      Deniz
-    bio: >-
-      📍@sachane 📩denizlebak@gmail.com #cosmetics #skincare #healtyskin #beauty
-    location: "Turkey"
-    followers: 27082
-    engagement: 273
-    commentsToLikes: 0.085170
-    id: ck9hc53ocjtvw0j789s8zuixr
-    verified: false
-    hashtags: "#girl, #me, #style, #purse"
+    hashtags: "#cosmetics, #makeup, #makyaj, #farmasirevolution"
   - username: "yagmurkeskiiin"
     fullname: >-
       Yağmur Keskin
     bio: >-
-      💄 Mac Cosmetics Makeup Artist 💥 Events Team Member 📸 Spotlight Artist 👰🏻Gelin ve özel gün makyajları için DM 📩
+      ✨Mac Cosmetics Makeup Artist ✨Events Team Member ✨Gelin makyajı ve özel gün makyajları için DM 📩
     location: "Turkey"
-    followers: 30961
-    engagement: 481
-    commentsToLikes: 0.016099
+    followers: 30314
+    engagement: 462
+    commentsToLikes: 0.445517
     id: ck5zsltezyqu50i14rjvn6fzn
     verified: false
-    hashtags: "#macloudandclear, #macartistchallenge, #maccosmeticsturkiye, #makeuptutorial"
+    hashtags: "#makeup, #maccosmeticsturkiye, #maccosmetics, #makeuptutorial"
   - username: "ghaida_msy"
     fullname: >-
       
     bio: >-
       🇴🇲 Business WhatsApp : +968 71977189 ‏ @ghaida_cosmetics @shop.ghaida @chloe_msy1
     location: "Turkey"
-    followers: 177175
-    engagement: 169
-    commentsToLikes: 0.013824
+    followers: 180667
+    engagement: 133
+    commentsToLikes: 0.016051
     id: ck601raxgg1070i14qohyt3tx
     verified: false
-    hashtags: "#narscosmetics, #makeup, #makeuplover, #makeupoftheday"
-  - username: "dr.borakorkut"
+    hashtags: "#anastasiabrows, #makeupartist, #glam, #facemask"
+  - username: "blog_kubist"
     fullname: >-
-      Dr. Bora Korkut, D.D.S., Ph.D.
+      K ü b r a
     bio: >-
-      🦷 Esthetic & Cosmetic Dentistry 🔘 Restorative Dentistry Specialist 🔹️ Certified Invisalign Provider 🎓 Academic 🔬Researcher 💻 Lecturer
+      #skincare #cosmetics ✨ Uygun ve yüksek fiyatlı ürün inceleme ✨ Tanıtım,Reklam ve işbirlikleri için DM ✨
     location: "Turkey"
-    followers: 42202
-    engagement: 54
-    commentsToLikes: 0.029241
-    id: ck6u5dnj990xu0j71yzk4g0is
+    followers: 19857
+    engagement: 388
+    commentsToLikes: 0.073668
+    id: ckaoveru14avm0i78chujci0j
     verified: false
-    hashtags: "#justcomposite, #justalign, #estheticdentistry, #restorativedentistry"
+    hashtags: "#ciltbak, #makyaj, #koreanskincare, #skincare"
+  - username: "nesin_blogu"
+    fullname: >-
+      nesce güzellik 🌸🌸👩‍🦱
+    bio: >-
+      Takip etmeden mesaj atma ❌ cevap yok 2015ten beri Makyaj, cilt, saç bakımı blog yazarı 📝 Son yazım: janssen cosmetics hyalüronik asit ampulü 👇👇👇
+    location: "Turkey"
+    followers: 34619
+    engagement: 188
+    commentsToLikes: 0.109114
+    id: ck0vv0abfmydd0i19xqbi76r2
+    verified: false
+    hashtags: "#yu, #pandemi, #ku, #covid19"
+  - username: "gozdesblogg"
+    fullname: >-
+      
+    bio: >-
+      #Beauty#Skincare#Cosmetic#Nail#Lifestyle#Photography 📷
+    location: "Turkey"
+    followers: 25340
+    engagement: 155
+    commentsToLikes: 0.028795
+    id: ck8taiquirxjh0j78nsxg8g3r
+    verified: false
+    hashtags: "#picoftheday, #summertime, #sa, #follow"
   - username: "ilahahajiyeva"
     fullname: >-
       ILAHA HAJIYEVA
@@ -103,28 +103,28 @@ profiles:
     id: ck15rdn8z7eqx0i19fc4fehni
     verified: false
     hashtags: "#ilahahajiyevafoundation, #ilahahajiyevacosmetics, #ilahahajiyevamakeup, #ilahahajiyevalashes"
-  - username: "niranhurel"
-    fullname: >-
-      Niran Hürel Herder
-    bio: >-
-      🇹🇷🇺🇸👩🏻‍💻Freelance Marka İletişim Danışmanı&Etkinlik Yöneticisi 📬Isbirlikleri ➡️niran.hurel@gmail.com 🌿İletişim Müdürü @yvesrocherturkiye 2011-2020
-    location: "Turkey"
-    followers: 16230
-    engagement: 1085
-    commentsToLikes: 0.434642
-    id: ck5hslyftwsyz0i11g27870d7
-    verified: false
-    hashtags: "#look, #cosy, #lovehim, #makeup"
   - username: "tzahivazana"
     fullname: >-
       צחי ואזנה
     bio: >-
-      Producer & Photographer
+      models agency +972-52-6280053 tzahivazanh@bezeqint.net menachem begin 37 tel aviv
     location: "Turkey"
-    followers: 43506
-    engagement: 197
-    commentsToLikes: 0.060066
+    followers: 54669
+    engagement: 174
+    commentsToLikes: 0.016564
     id: ck5c8wxjlad1y0i11i2n9k1zo
     verified: false
-    hashtags: "#makeuptutorial, #cool, #beautyful, #beauty"
+    hashtags: "#menstyle, #kidsroom, #modeling, #kids"
+  - username: "yasinaltinel"
+    fullname: >-
+      Yasin Altınel
+    bio: >-
+      Influencer ⭐️ Make-Up Artist & Trainer 🎨 ✉️ yasinaltinel@gmail.com New Brand @yasinaltinelofficial 👘 For Shopping👇🏼
+    location: "Turkey"
+    followers: 45201
+    engagement: 409
+    commentsToLikes: 0.034405
+    id: ck5hmcid3lpkd0i11njiilkwg
+    verified: false
+    hashtags: "#sephora, #cosmetics, #manfashion, #porselenmakyaj"
 ---

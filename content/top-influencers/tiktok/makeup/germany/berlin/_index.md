@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Berlin in 2023
+title: Top 10 Makeup TikTok Influencers In Berlin In 2023
 description: >-
-  Find top makeup TikTok influencers in Berlin in 2023. Most popular hashtags: #makeup #foryou #berlin #fyp.
+  Find top makeup TikTok influencers in Berlin in 2023. Most popular hashtags: #makeup #fy #fyp #foryou.
 platform: TikTok
-hits: 27
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 27 TikTok influencers like this in Berlin, Germany for you to collaborate.
+hits: 19
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 19 TikTok influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "sophialuisa20"
-    fullname: >-
-      Sophia Luisa
-    bio: >-
-      Sophia 🌞 22 🌞 Munich, Germany Instagram: sophia_luisa
-    location: "Germany"
-    followers: 22200
-    engagement: 405
-    commentsToLikes: 0.018698
-    id: ckb99syycud6e0j23pkorctst
-    verified: false
-    hashtags: "#whatiwearfor, #germany, #fyp, #coronavirus"
-  - username: "toni.dreher"
-    fullname: >-
-      Toni Dreher
-    bio: >-
-      OLUWATONILOBA DREHER ADENUGA 🤡 w e l c o m e t o c l o w n c l u b
-    location: "Germany"
-    followers: 235500
-    engagement: 1764
-    commentsToLikes: 0.012850
-    id: ck8hkku79ecbr0j789fxsblz4
-    verified: true
-    hashtags: "#foryou, #nigerian, #african, #fyp"
-  - username: "annajuliana"
-    fullname: >-
-      Anna Juliana
-    bio: >-
-      🎬 Showrunner @hashtagdaily 💔 #tiktoksoap #schauspielerin BFF-Club 👇❤
-    location: "Germany"
-    followers: 16800
-    engagement: 1131
-    commentsToLikes: 0.020176
-    id: cka0ink58eef40i78pra9u70u
-    verified: false
-    hashtags: "#duett, #funny, #liebe, #tiktoksoap"
-  - username: "luca.sanchez"
-    fullname: >-
-      Luca Sanchez
-    bio: >-
-      CEO of vlogging
-    location: "Germany"
-    followers: 53700
-    engagement: 1595
-    commentsToLikes: 0.009751
-    id: ckbw9mp4cztt20j23juasmjcf
-    verified: false
-    hashtags: "#temptationisland, #halloween, #rap, #insekten"
-  - username: "michaela.berdaga"
-    fullname: >-
-      Michaela
-    bio: >-
-      🇩🇪 Berlin Everyday new TikToks Your fave couple👩‍❤️‍👨 Fashion&makeup💄
-    location: "Germany"
-    followers: 106200
-    engagement: 766
-    commentsToLikes: 0.009722
-    id: ck8opwxg853mm0j78vnxla21k
-    verified: false
-    hashtags: "#tiktokfashion, #makeup, #fyp, #verzerrer"
-  - username: "siljawisk"
-    fullname: >-
-      Silja Wisk 👼
-    bio: >-
-      🧚🏼 Täglich neue TikToks 🧚🏼 50k? 💜🙏🏽
-    location: "Germany"
-    followers: 48300
-    engagement: 1844
-    commentsToLikes: 0.022151
-    id: cka85avr6xbv00i78r3fbfgk2
-    verified: false
-    hashtags: "#cat, #katze, #catlover, #nagellack"
-  - username: "rikaphrodite"
-    fullname: >-
-      rikaphrodite
-    bio: >-
-      kathi / 21 / berlin / mua / they i just love yoonie okay ig rikaphrodite
-    location: "Germany"
-    followers: 8169
-    engagement: 2195
-    commentsToLikes: 0.022350
-    id: ckbfbiicr3ivk0j23oq83tqhl
-    verified: false
-    hashtags: "#btsarmy, #jungkook, #jin, #kpopmemes"
   - username: "_veger_"
     fullname: >-
       _veger_
     bio: >-
-      BERLIN Lachen ist die beste Medizin und Liebe ist die stärkste Magie
+      BERLIN Lachen ist die beste Medizin und die stärkste Magie ist die Liebe
     location: "Germany"
-    followers: 9314
-    engagement: 720
-    commentsToLikes: 0.122230
+    followers: 9317
+    engagement: 822
+    commentsToLikes: 0.155887
     id: ckbbwrw6qjy170j23bjawo4o7
     verified: false
-    hashtags: "#rosenylund, #lipsync, #twoandahalfmen, #comedy"
+    hashtags: "#makeup, #berlin, #duett, #fy"
+  - username: "makeupwithmilena"
+    fullname: >-
+      Milena💄
+    bio: >-
+      ~Germany,Stuttgart ~ ~Self taught Artist~ ~my insta: makeupwithmilena~ 🇩🇪🇭🇷
+    location: "Germany"
+    followers: 124300
+    engagement: 2228
+    commentsToLikes: 0.034704
+    id: ckdi64lj67dmq0j236f6ykpus
+    verified: false
+    hashtags: "#gemini, #viral, #fy, #fyp"
+  - username: "pauli.slnr"
+    fullname: >-
+      P a u l i ✨
+    bio: >-
+      Pauline🐰 20 y/o👑
+    location: "Germany"
+    followers: 7379
+    engagement: 813
+    commentsToLikes: 0.045092
+    id: ckb8zfi3neuot0j23zsme29g6
+    verified: false
+    hashtags: "#berlin, #feature, #lmao, #lol"
   - username: "turbalee"
     fullname: >-
       turbalee
     bio: >-
       Berlin 📌
     location: "Germany"
-    followers: 4409
-    engagement: 1077
-    commentsToLikes: 0.028509
+    followers: 6908
+    engagement: 992
+    commentsToLikes: 0.036361
     id: cka62t9b81cjm0i785zdns4qo
     verified: false
-    hashtags: "#raver, #foryou, #fyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfy, #fy"
-  - username: "y.kiomatic"
+    hashtags: "#bathtub, #technogirl, #alt, #anime"
+  - username: "lilianviegas"
     fullname: >-
-      Y.kioMatic
+      Lilian Viegas
     bio: >-
-      a bean from Berlin~ °˖✧◝(⁰▿⁰)◜✧˖° my insta is better :') loading 18% ██▒▒▒▒▒▒▒
+      humor shizzle & stupid jokes comedy Film ❤️ Acting 📡BERLiN🧸
     location: "Germany"
-    followers: 14000
-    engagement: 1418
-    commentsToLikes: 0.013973
-    id: ckbw7akygyr0w0j239fsewmwr
+    followers: 54200
+    engagement: 1989
+    commentsToLikes: 0.007344
+    id: ck9pm21p774km0j78l1q5mivd
     verified: false
-    hashtags: "#cosplay, #sallyfacecosplay, #larryjohnsoncosplay, #sallyface"
+    hashtags: "#humor, #comedyvideo, #comedy, #dasj"
+  - username: "michaela.berdaga"
+    fullname: >-
+      Michaela
+    bio: >-
+      🇲🇩🇩🇪 BLN Your fave couple Fashion&makeup 📩berdaga.michaela@gmail.com
+    location: "Germany"
+    followers: 175100
+    engagement: 821
+    commentsToLikes: 0.013785
+    id: ck8opwxg853mm0j78vnxla21k
+    verified: false
+    hashtags: "#revolveinbloom, #fy, #transformation, #berlin"
+  - username: "typischkassii"
+    fullname: >-
+      Typisch Kassii
+    bio: >-
+      19 | Berlin ✉️ typischkassii@gmail.com
+    location: "Germany"
+    followers: 717800
+    engagement: 1147
+    commentsToLikes: 0.006573
+    id: ck83z5up7xzbh0j78g8hnhtku
+    verified: true
+    hashtags: "#christmas, #pille, #foryou, #fyp"
+  - username: "chyelosh"
+    fullname: >-
+      chyelenaa
+    bio: >-
+      Berlin 🇹🇳/🇷🇸 Instagram : chyelosh /
+    location: "Germany"
+    followers: 3073
+    engagement: 1673
+    commentsToLikes: 0.032627
+    id: cka85i7bry7jm0i7800apm3xr
+    verified: false
+    hashtags: "#foryou, #fy, #tunisia, #deutschland"
+  - username: "_jenisharma_"
+    fullname: >-
+      👑Jenifer Bengs👑
+    bio: >-
+      ♥Germany/Berlin♥ 🌺31 years🌺 ❤️Bollywood❤️ 🎂24.01 🎂
+    location: "Germany"
+    followers: 41200
+    engagement: 1203
+    commentsToLikes: 0.089990
+    id: ck9grx9gnfu8z0j78f2qsgzx8
+    verified: false
+    hashtags: "#jengs, #bollyfam, #fy, #tiktok"
+  - username: "noraincoats"
+    fullname: >-
+      ella<3
+    bio: >-
+      she/her singer & songwriter Blm-> Donate by watching ads
+    location: "Germany"
+    followers: 152300
+    engagement: 1316
+    commentsToLikes: 0.100670
+    id: ck8ncg59jeawm0j78dppry7yu
+    verified: true
+    hashtags: "#mlb, #makeup, #heylol, #lgbt"
 ---

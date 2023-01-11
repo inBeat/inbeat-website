@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Models Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top models Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #model #dubai #fashion #dubaifashion.
+  Find top models Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #fashion #model #modeling #dubai.
 platform: Instagram
 hits: 242
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 242 Instagram influencers like this in United Arab Emirates for you to pitch.
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 242 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "mohd__esa"
+  - username: "marcosfonseca96"
     fullname: >-
-      𝕸𝖔𝖍𝖉 𝖊𝖘𝖆
+      MARCOS FONSECA
     bio: >-
-      Model|Tiktoker|Businessman 🎓 - WUC 📗📍Dubai 🇦🇪 ⚠️ I'm addiction. closness can be dangerous ⚡ 💌 DM- paid collaborations ✍️ TikTok=Esa_.a 👻=Esakhakhan86
+      Model | Fashion | Lifestyle Marco_fg_5@hotmail.com 📩 Dubai UAE 📍🇦🇪
     location: "United Arab Emirates"
-    followers: 35296
-    engagement: 926
-    commentsToLikes: 0.036882
-    id: ck9wp1u9g7fnu0j78c1qts05p
+    followers: 59964
+    engagement: 506
+    commentsToLikes: 0.024628
+    id: ck6ty8wg02bob0j71texywhnv
     verified: false
-    hashtags: ""
-  - username: "therjacobs"
+    hashtags: "#positano, #dubai, #dxb, #bench"
+  - username: "shazyzahid"
     fullname: >-
-      RHEA JACOBS 🧿
+      Shahreen Zahid | شاهرين زاهد
     bio: >-
-      🍀Artist•Model•Creative 📩rhea_jacob@hotmail.co.uk 💡100 most influential Asians‘19‘17 💕Cosmo rising star 🔶Grazia Digital star nominee 🎓BA Fashion Hons
+      Digital Content Creator | Model 🌴 Fashion and beauty 📍Dubai 📩shazyzahid@gmail.com
     location: "United Arab Emirates"
-    followers: 30875
-    engagement: 328
-    commentsToLikes: 0.123863
-    id: ck0ub2c2odlp20i19ze9b7cxq
-    verified: true
-    hashtags: "#watsonsgcc, #30daysofbooks, #lookgoodfeelgreat, #thebeautifulgeneration"
+    followers: 42651
+    engagement: 243
+    commentsToLikes: 0.087318
+    id: ck5hi0fsbazvw0i115cua5wol
+    verified: false
+    hashtags: "#aldouae, #stepintolove, #aquaforeverything, #lespecs"
+  - username: "kamran_nateghiii"
+    fullname: >-
+      Kamran Nateghi
+    bio: >-
+      🇮🇷🇸🇪 Model | Bodybuilder | Boxer | Father | Grandfather 🥈IFBB Championships Dubai 2016 Silver 🥇WFF Ireland 2016 Honorary Gold
+    location: "United Arab Emirates"
+    followers: 50213
+    engagement: 584
+    commentsToLikes: 0.054377
+    id: ck9wii7lo2dtv0j78joaqhfce
+    verified: false
+    hashtags: "#gang, #fitnes, #modeling, #portrait"
   - username: "shamss_model"
     fullname: >-
       شمس مودل shams model
     bio: >-
-      Model,blogger Miss Iraq emigrant2019 Miss Arab Top Model .2020 Miss Arab Iraq 2020 📍dubai ‭+971 55 313 6843‬ @shams_hair_extensions ‭
+      Model,blogger 🇮🇶🇦🇪 Miss Iraq emigrant2019 Miss Arab Top Model .2020 Miss Arab Iraq 2020 📍dubai @shams_hair_extensions ‭
     location: "United Arab Emirates"
-    followers: 545488
-    engagement: 221
-    commentsToLikes: 0.034568
+    followers: 583132
+    engagement: 192
+    commentsToLikes: 0.030045
     id: ckf5mv12pvj710j23w0oo2xh7
     verified: false
-    hashtags: "#bahrain, #black, #fashionstyle, #style"
-  - username: "yazxan"
+    hashtags: "#makeup, #makeupartist, #lifestyle, #dubailife"
+  - username: "walidsiddiqui"
     fullname: >-
-      Yazz 🕴
+      Walid Siddiqui
     bio: >-
-      Dubai 📍/ 🇹🇷 📽Tiktok : yazxan(200k+) ~ Model 🕴 Dm for promos 📥 👻Sc: yazan.mp
+      It’s Walid not Waleed but pronounced Waleed. Bareface Models Dubai 🇺🇸🇵🇰🇦🇪
     location: "United Arab Emirates"
-    followers: 10964
-    engagement: 1966
-    commentsToLikes: 0.060102
-    id: ckf5nzfh60cgk0j23ywi7o61s
+    followers: 36099
+    engagement: 753
+    commentsToLikes: 0.018053
+    id: ck5zktixmk4wa0i140m0kgutv
     verified: false
-    hashtags: "#men, #hotguys, #model, #likeforlikes"
-  - username: "cristini.janaina"
+    hashtags: "#eidmubarak, #california, #mydubai, #thisisd3"
+  - username: "iammelody.mp"
     fullname: >-
-      Jana 🌸🇧🇷 🌎✈️ 🇦🇪
+      // MELODY //
     bio: >-
-      RV&CO Model: @rvandco_management Wanderlust🌟💫✈️🛫 I am discovering myself everyday so don’t be surprised and don’t label me 😜☺️
+      @metropolitanmodelsgroup 🇫🇷 @bodylondon_ 🇬🇧 @bareface_model_agency 🇦🇪 Currently in Dubai 📍
     location: "United Arab Emirates"
-    followers: 17099
-    engagement: 346
-    commentsToLikes: 0.280619
-    id: ck8t3hvas3cz80j78qegya2b4
+    followers: 29549
+    engagement: 229
+    commentsToLikes: 0.065998
+    id: ck5pvg02jhp9u0i11wpmo0tvr
     verified: false
-    hashtags: "#cartier, #look, #blonde, #model"
-  - username: "raizy_hasan"
+    hashtags: "#dessert, #hellodecember, #fallvibes, #camebarbe"
+  - username: "ani_zzz"
     fullname: >-
-      🙌JR💪
+      Anita.
     bio: >-
-      🚼SINCE 1998 FEB 1 MODEL🕺🏻 | BLOGGER🗣| ENTERTAINER🙋🏻‍♂️ LIVING AT DUBAI🇦🇪 | THE CITY OF DREAMS🌃
+      Based in Dubai. MODEL - blogger
     location: "United Arab Emirates"
-    followers: 88820
-    engagement: 783
-    commentsToLikes: 0.032110
-    id: ckapby3o31q7d0i787wgpkxd6
+    followers: 20355
+    engagement: 290
+    commentsToLikes: 0.070572
+    id: ck134un5ay9p00i19o1pmpmlo
     verified: false
-    hashtags: "#dubaimodel, #raizy, #dxbmodel, #uaemodel"
-  - username: "misss_marlen"
-    fullname: >-
-      Professional Model in Dubai
-    bio: >-
-      🎬📽 Model for jewellery hairstyle, fashion UAE 🇦🇪👗👙💇‍♀️💍 Natural face🌸 ♊️ 🏃‍♀️Sport 👠Fashion 🎬Actress
-    location: "United Arab Emirates"
-    followers: 46384
-    engagement: 203
-    commentsToLikes: 0.067852
-    id: ck15q7ncx1h980i19vqik8bme
-    verified: false
-    hashtags: "#dubaimodels, #mydubai, #dubaifashion, #dubaiblogger"
-  - username: "azar_shazz"
-    fullname: >-
-      Azar
-    bio: >-
-      🇦🇪UAE🇦🇪 Influencer 🤙 Model & business KL14 💪
-    location: "United Arab Emirates"
-    followers: 67126
-    engagement: 304
-    commentsToLikes: 0.041322
-    id: ck9wg4tmtrwcw0j78886tei1n
-    verified: false
-    hashtags: "#dubaiburjkhalifa, #dubai, #casrodian, #fastionblogger"
+    hashtags: "#fashionweek, #makeuplooks, #mensfashion, #menfashion"
   - username: "dudasilveira07"
     fullname: >-
       Maria Eduarda💋
     bio: >-
-      • For work Enquiries contact me(DM) colabs • MODEL •ɑҍմ ժհɑҍí / Dubai 🇦🇪🐪 • • model | make up💄💋 | fashion • • Watch the stories😜 #model #fashion
+      • DM me for bookings🤍 Check @m.e_silveira • MODEL •ɑҍմ ժհɑҍí 🇦🇪🐪UAE • • model | make up💄💋 | fashion • • Watch the stories😜 #model #fashion
     location: "United Arab Emirates"
-    followers: 6150
-    engagement: 909
-    commentsToLikes: 0.105454
+    followers: 8256
+    engagement: 788
+    commentsToLikes: 0.092088
     id: ck15ulwhnntkd0i19u6a82rai
     verified: false
-    hashtags: "#dubai, #modeling, #dubaimodels, #makeup"
-  - username: "josephinelecar"
+    hashtags: "#abudhabifashionblogger, #model, #dubaimodels, #modeling"
+  - username: "deakedinakarina"
     fullname: >-
-      JOSEPHINE
+      Travel | Fashion | Bali
     bio: >-
-      Dubai 📍 Model Digital marketing manager For social media inquiries : josephine@daze-mgmt.com
+      Dina 🇭🇺Fashion & Travel blogger, Model, Fashion stylist DXB|BP|BALI @contentbydina 📍Bali #itssunnysomewhere #bali #dinafaraway
     location: "United Arab Emirates"
-    followers: 36801
-    engagement: 697
-    commentsToLikes: 0.019141
-    id: ck0vzq8d7ad310i191nwg3gb9
+    followers: 18343
+    engagement: 261
+    commentsToLikes: 0.085010
+    id: ck8ta1m8fq4bc0j78x4apok15
     verified: false
-    hashtags: "#freeuyghurs"
+    hashtags: "#balilife, #budapest, #bali, #itssunnysomewhere"
+  - username: "yazxan"
+    fullname: >-
+      Yazz🇹🇷
+    bio: >-
+      Dubai 📍 Model 🧥 Tiktok : Yazxan [ +250k ] DM for promos 📥 / Sc : yazan.mp
+    location: "United Arab Emirates"
+    followers: 12126
+    engagement: 1215
+    commentsToLikes: 0.044948
+    id: ckf5nzfh60cgk0j23ywi7o61s
+    verified: false
+    hashtags: "#model, #man, #explore, #lebanon"
 ---

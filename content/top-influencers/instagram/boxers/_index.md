@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers in 2023
+title: Top 10 Boxers Instagram Influencers In 2023
 description: >-
-  Find top boxers Instagram influencers in 2023. Most popular hashtags: #boxing #hardwork #boxer.
+  Find top boxers Instagram influencers in 2023. Most popular hashtags: #love #instagood #instagram.
 platform: Instagram
-hits: 1530
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 1530 Instagram influencers like this for you to collaborate.
+hits: 1513
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1513 Instagram influencers like this for you to connect with.
 profiles:
   - username: "boxers_lovely_bx"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🌟We 💖Boxers Dog || 👕 Uniquely Designed T-Shirts&more 🌟 Printed in the USA 🌟 💯Satisfaction guarantied❗ CLICK⤵to SHOP 👕 ⤵👇👇
     location: "United States"
-    followers: 28826
-    engagement: 599
-    commentsToLikes: 0.009064
+    followers: 30950
+    engagement: 612
+    commentsToLikes: 0.007281
     id: ck14jg4mfk6380i19pj2vva1a
     verified: false
-    hashtags: "#boxermurah, #beatboxer, #boxerbriefs, #boxerplanet"
-  - username: "boxer_funny_sky"
+    hashtags: "#boxerbreed, #boxerlab, #boxerlover, #boxerpuppies"
+  - username: "tommyfury"
     fullname: >-
-      Boxer
+      Tommy TNT Fury
     bio: >-
-      Hey, I am a fun-loving ‘Bruce-iful’ Boxer living life to the fullest in world. was Born August-2017 ❤️Shopping Here: @boxers_lovely_bx
-    location: ""
-    followers: 24847
-    engagement: 289
-    commentsToLikes: 0.004996
-    id: ck14jg4ijk61f0i190zq02gmn
-    verified: false
-    hashtags: "#boxersrule, #boxerpuppy, #boxers, #whiteboxer"
-  - username: "overtflow"
-    fullname: >-
-      OVERT | PJ
-    bio: >-
-      yoyoyo Fortnite Creator: OVERT 2.5M+ Followers 🎮 Pro Gamer 🥊 Logan Paul vs KSI Boxer 🏀 NBA Playmakers 🏆 Game Awards ♾ FaZe Up 🥋 BJJ Brown Belt 🎰 Vegas
+      TNT💣 Contact✉️- jake@alphatalentgroup.co.uk Professional boxer🥊 YouTube⬇️
     location: "United States"
-    followers: 130860
-    engagement: 471
-    commentsToLikes: 0.138517
-    id: ck8wfyhlqggin0j78w1tplpg1
+    followers: 4320313
+    engagement: 755
+    commentsToLikes: 0.005771
+    id: cku8q8m6imgwp0j233sy1s9py
     verified: false
-    hashtags: "#fortnite, #fazeup, #vbucks"
-  - username: "adligoldenboyhafidz"
+    hashtags: "#fableticsmeneu, #ad, #mayweatherdeji, #furybamba"
+  - username: "dr.richa.negi"
     fullname: >-
-      adli 'goldenboy' hafidz
+      Richa
     bio: >-
-      Malaysian Professional boxer 🇲🇾 SEA Games medalist WBC ASIA SILVER CHAMPION WBA ASIA SOUTH CHAMPION ( 8-0-0 )
-    location: "Malaysia"
-    followers: 18367
-    engagement: 907
-    commentsToLikes: 0.037388
-    id: ck5q3jm14l1p30i11z5ppw3z6
+      Shuffler🕺🏻 Boxer 🥊 Budding Dermatologist 👩🏻‍⚕️ . Expert At Doing A Million Things,Messily😋
+    location: "India"
+    followers: 271708
+    engagement: 635
+    commentsToLikes: 0.014055
+    id: ck15t8yabgwvt0i19qla1bx8w
     verified: false
-    hashtags: "#teamgoldenboy, #hardwork, #adligoldenboy, #routine"
-  - username: "dan_azeez"
+    hashtags: "#beautiful, #bollywood, #shuffle, #trend"
+  - username: "lawzzy7"
     fullname: >-
-      𝗗𝗔𝗡 𝗔𝗭𝗘𝗘𝗭
+      Joseph Laws
     bio: >-
-      Professional Light-Heavyweight Boxer🥊12-0 Southern Area Champion English Champion 🏆 📩 Enquiries info@connectforce.co.uk | Sponsored by @romaxssltd
+      💣BENWELL BOMBER💣 ◽ 12-2 professional boxer🥊🥊 ◽ local lad going after his dream ◽benwell boy #peopleschamp Remember the name 👀👀👀👀
+    location: ""
+    followers: 29487
+    engagement: 164
+    commentsToLikes: 0.016453
+    id: ck6to9xpecx3s0j71r5ch5u12
+    verified: false
+    hashtags: "#bombsquad, #teambomber, #benwellbomber, #savagearmy"
+  - username: "casspernyovest"
+    fullname: >-
+      Refiloe Phoolo 🇿🇦
+    bio: >-
+      👑 of South African Music/ celebrity boxer CLICK LINK BELOW
+    location: "South Africa"
+    followers: 5889001
+    engagement: 95
+    commentsToLikes: 0.011742
+    id: ck5hrq0rsvaaj0i11x7kd345g
+    verified: true
+    hashtags: "#cassperxsportsbetio, #cryptoknightwithcass, #billiatoatasteofwealth, #billiatoallwhite"
+  - username: "jordz_flynn"
+    fullname: >-
+      Jordan Flynn
+    bio: >-
+      Professional Boxer 3x National Champion
     location: "United Kingdom"
-    followers: 9206
-    engagement: 1181
-    commentsToLikes: 0.066971
-    id: ck5byoo3npjph0i11wnro9oxy
+    followers: 49536
+    engagement: 632
+    commentsToLikes: 0.047709
+    id: ck5cl43tcy7jo0i11tldzbazd
     verified: false
-    hashtags: "#march20th, #andstill, #staysafe, #war"
+    hashtags: ""
+  - username: "suraj__sachu"
+    fullname: >-
+      Suraj Sachu
+    bio: >-
+      Gymholic💪 Travel boy😎 Wander_lust👽 Boxer👊
+    location: ""
+    followers: 10947
+    engagement: 1619
+    commentsToLikes: 0.277599
+    id: ck9wi7j0d12fc0j782bl2exij
+    verified: false
+    hashtags: "#instagood, #love, #photography, #bhfyp"
+  - username: "king_teej"
+    fullname: >-
+      The King 👑
+    bio: >-
+      📖 • minimalist • world traveler • cigarian • KING 🏡 • Miami, FL 🌎 • 6 Continents I 45+ Countries | 19 States 15% OFF KING Boxers promo code: KINGTEEJ
+    location: "United States"
+    followers: 21958
+    engagement: 464
+    commentsToLikes: 0.068809
+    id: ck6u6ovm6gv330j71jw4safxl
+    verified: false
+    hashtags: "#instadaily, #rockclimbing, #instatravel, #travelphotography"
   - username: "hector_tanajara"
     fullname: >-
       El Finito
     bio: >-
       Professional boxer signed with Golden Boy Promotions 👊 19-0 (5KO's) #TeamTanajara #RGBA #210 💯 Westside San Antonio, Texas Twitter: hector_tanajara
     location: "United States"
-    followers: 20480
-    engagement: 904
-    commentsToLikes: 0.028917
+    followers: 20594
+    engagement: 913
+    commentsToLikes: 0.030677
     id: ck5hisq1vf6qf0i11pyl00xj6
     verified: true
-    hashtags: "#rgba, #210, #teamtanajara, #237"
-  - username: "paolocologna_official"
+    hashtags: "#rgba, #teamtanajara, #210, #sanantonio"
+  - username: "dan_azeez"
     fullname: >-
-      Paolo Cologna
+      𝗗𝗔𝗡 𝗔𝗭𝗘𝗘𝗭
     bio: >-
-      ▪️Model @majormodelsmilan ▪️Ex Boxer ▪️Co-Founder @globo.communication ~ 𝑊ℎ𝑜 𝑓𝑖𝑔ℎ𝑡𝑠 𝑎𝑛𝑑 𝑑𝑟𝑒𝑎𝑚𝑠 𝑛𝑒𝑣𝑒𝑟 𝑑𝑖𝑒𝑠 ~ 📍Milan 🇮🇹
-    location: "Italy"
-    followers: 8841
-    engagement: 717
-    commentsToLikes: 0.087954
-    id: ckf5ws5ubt25i0j23ki9g328d
-    verified: false
-    hashtags: "#modelphoto, #modelingportfolio, #shakespeare, #modelingfashion"
-  - username: "jordz_flynn"
-    fullname: >-
-      Jordan Flynn
-    bio: >-
-      Professional Boxer 3x National Champion Snapchat - jordz_flynn
-    location: "United Kingdom"
-    followers: 16448
-    engagement: 1223
-    commentsToLikes: 0.026456
-    id: ck5cl43tcy7jo0i11tldzbazd
-    verified: false
-    hashtags: "#2days, #team, #boxing, #blackouttuesday"
-  - username: "remi.bojani"
-    fullname: >-
-      Rémi Bojani
-    bio: >-
-      Braunschweig 🎓 1. Bundesliga Boxer 🥊 Landesmeister 2012, 2013, 2018, 2019, 2020🥇 Privater Account: @remi_b96
-    location: "Germany"
-    followers: 5668
-    engagement: 1350
-    commentsToLikes: 0.068680
-    id: ck8t5cjkd9nbl0j78dajthddr
-    verified: false
-    hashtags: "#boxinglife, #boxinggloves, #boxingtrainer, #alhamdulillah"
-  - username: "ivan_baranchyk"
-    fullname: >-
-      Ivan Baranchyk
-    bio: >-
-      📍Miami, FL 🌴 🥊Professional boxer 20-2-0 13KOs 🇧🇾🇺🇸 @yuliya_bogdanovich ❤️ DM for any questions and offers
+      Professional Light Heavyweight Boxer 13-0 Southern Area Champion English Champion 🏆🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sponsored by @romaxsolutions @algbra 📩 @connectforcecf
     location: "United States"
-    followers: 14150
-    engagement: 981
-    commentsToLikes: 0.040941
-    id: ck6u1s49gnk3n0j71vppd5awr
-    verified: true
-    hashtags: "#miami, #mundoboxing, #boxing, #hardwork"
+    followers: 11289
+    engagement: 1109
+    commentsToLikes: 0.072907
+    id: ck5byoo3npjph0i11wnro9oxy
+    verified: false
+    hashtags: "#speedballchallenge, #super, #2ndsept, #property"
 ---

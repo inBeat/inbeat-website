@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In South Africa in 2023
+title: Top 10 Comedians Instagram Influencers In South Africa In 2023
 description: >-
-  Find top comedians Instagram influencers in South Africa in 2023. Most popular hashtags: #stayhome #southafrica #portrait.
+  Find top comedians Instagram influencers in South Africa in 2023. Most popular hashtags: #comedy #comedian #southafrica.
 platform: Instagram
-hits: 12
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 12 Instagram influencers like this in South Africa for you to collaborate.
+hits: 11
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "lasizwe"
-    fullname: >-
-      Lasizwe Dambuza
-    bio: >-
-      Multi Award Winning Comedian 1st African to have a Reality Show on MTV Most Influential South African 2018-2019 Bookings: Bookings@Lasizwe.co.za
-    location: "South Africa"
-    followers: 1018892
-    engagement: 538
-    commentsToLikes: 0.016525
-    id: ck0w3xu2ivtx60i19f617gogw
-    verified: true
-    hashtags: "#koreanbeauty, #kotra, #tasty, #gotgame"
-  - username: "vafafrica"
-    fullname: >-
-      Vafa Naraghi
-    bio: >-
-      Stand-up Comedian 🎤 Civil Engineer 🏛 South African 🇿🇦 Persian 🏝 Baha’i Faith 🧘🏽‍♂️ Fluent in everything 😂 ⬇️⬇️⬇️ Comedy Night Bookings
-    location: "South Africa"
-    followers: 16591
-    engagement: 496
-    commentsToLikes: 0.063604
-    id: ck14gt3dr6w0f0i190ajb4o76
-    verified: false
-    hashtags: "#staysafe, #tswana, #comedy, #southafrica"
   - username: "thatninahastie"
     fullname: >-
       Nina Hastie
     bio: >-
-      South African Comedian / Actor / Person of Influence 🇿🇦 Boookings: geraldine@owens.co.za +27721179230
+      South African Comedian / Actor / Writer 🇿🇦 Boookings: geraldine@owens.co.za +27721179230
     location: "South Africa"
-    followers: 88146
-    engagement: 83
-    commentsToLikes: 0.056407
+    followers: 90785
+    engagement: 145
+    commentsToLikes: 0.028275
     id: ck6tpaphtiroi0j71ud52zdsr
     verified: true
-    hashtags: "#wipeitdownchallenge, #mondaymotivation, #casadepapel, #tiktok"
+    hashtags: "#satma15, #southafrica, #cyril, #speech"
+  - username: "lasizwe"
+    fullname: >-
+      Lasizwe Dambuza
+    bio: >-
+      Remember I am comedian. Bookings: Bookings@Lasizwe.co.za
+    location: "South Africa"
+    followers: 1128953
+    engagement: 477
+    commentsToLikes: 0.019959
+    id: ck0w3xu2ivtx60i19f617gogw
+    verified: true
+    hashtags: "#withgalaxy, #timefortinkies, #vday, #oneofakind"
+  - username: "trevornoah"
+    fullname: >-
+      Trevor Noah
+    bio: >-
+      Comedian from South Africa. I was in the crowd when Rafiki held Simba over the edge of the cliff like an African Michael Jackson. #TrevorNoah
+    location: "South Africa"
+    followers: 7088113
+    engagement: 311
+    commentsToLikes: 0.017207
+    id: ck0tuslgl8ji20i19yygficbe
+    verified: true
+    hashtags: "#kidoftheyear, #2021squadgoals, #grammys, #naacpimageawards"
+  - username: "vafafrica"
+    fullname: >-
+      Vafa Naraghi
+    bio: >-
+      Stand-up Comedian 🎤 Civil Engineer 🏛 South African 🇿🇦 Persian 🏝 Baha’i Faith 🧘🏽‍♂️ Fluent in everything 😂 ⬇️⬇️⬇️ My Channel
+    location: "South Africa"
+    followers: 16173
+    engagement: 482
+    commentsToLikes: 0.060643
+    id: ck14gt3dr6w0f0i190ajb4o76
+    verified: false
+    hashtags: "#staysafe, #comedy, #southafrica, #zulu"
+  - username: "slinkjohnson"
+    fullname: >-
+      Sʟɪɴᴋ Jᴏʜɴsᴏɴ
+    bio: >-
+      Actor, producer, comedian and writer. Lamar Davis from GTA V. Star of Adult Swim's BLACK JESUS. Master of the West African Monkeyspank Technique.
+    location: "South Africa"
+    followers: 189824
+    engagement: 42
+    commentsToLikes: 0.038110
+    id: ck6uf8eejvit40j717ugm8g61
+    verified: true
+    hashtags: "#smokeyours, #smokeyoursorsmokenuthin, #playersball2020, #atl"
+  - username: "nimu_roger"
+    fullname: >-
+      Nimu Roger
+    bio: >-
+      🔸Best African Comedian 🔸I'm nothing without Jesus New comedy is Here👇🏿👇🏿👇🏿
+    location: "South Africa"
+    followers: 15330
+    engagement: 318
+    commentsToLikes: 0.026756
+    id: ck14ka5csoir20i19g958exq4
+    verified: false
+    hashtags: "#claptonkibonge, #umuturanyi, #jessicamucyowera, #gumamurugo"
   - username: "thefoxhimself"
     fullname: >-
       Foxy P
     bio: >-
       Stand up comedian, Wedding MC & African Princes of Comedy Founder. Head Chef Tout Kitchen! For bookings email africancomedians@gmail.com
     location: "South Africa"
-    followers: 68955
-    engagement: 68
-    commentsToLikes: 0.090494
+    followers: 67656
+    engagement: 119
+    commentsToLikes: 0.062672
     id: ck5pxdc4hr8py0i11fhp1t1fv
     verified: false
-    hashtags: "#buharimustresign, #buharimustgo, #endsars, #andstill"
-  - username: "dullvani"
-    fullname: >-
-      ABDALLAH SULTAN
-    bio: >-
-      African KING Comedian 👑 @startimestz INFLUENCER
-    location: "South Africa"
-    followers: 1544081
-    engagement: 63
-    commentsToLikes: 0.023203
-    id: ck14j3mx6igsx0i19ey7slkdo
-    verified: false
-    hashtags: "#startimeson, #bss2020, #dullvaniasantefans, #kishuazaidi"
-  - username: "jasongoliath"
-    fullname: >-
-      Jason Goliath
-    bio: >-
-      Comedian Host of #KayaBreakfast @kayafm95dot9 @GOLIATHandGOLIATH @melvillecomedyclub 💍 @lipstick_maverick #LOVEMYLIFE
-    location: "South Africa"
-    followers: 26853
-    engagement: 41
-    commentsToLikes: 0.076458
-    id: ck5hpufg0rzks0i11ahcdjdz6
-    verified: false
-    hashtags: "#lovemylife, #itsmetom, #alonetogether, #goliathsgolive"
-  - username: "louisdanielbotha"
-    fullname: >-
-      Louis Botha
-    bio: >-
-      🔸Louis Daniel Botha🔸📸 Professional photographer📷 Traveler ✈️ Explorer 🌌 Monty Python 🐍 In Gauteng at present⏳ 📷🎥☕️
-    location: "South Africa"
-    followers: 40780
-    engagement: 183
-    commentsToLikes: 0.028884
-    id: ck0w1hw0jjfgz0i19s53bcxkc
-    verified: false
-    hashtags: "#mensfashion, #blackandwhite, #portrait, #portraitphotography"
-  - username: "siyahandro"
-    fullname: >-
-      SIYA TV🤪🇿🇦
-    bio: >-
-      –CONTENT CREATOR–😎 -EMAIL FOR BUSINESS INQUIRIES-📩 “Here to make you smile/laugh”🤪 : ⬇️Link to my YouTube Channel⬇️
-    location: "South Africa"
-    followers: 15350
-    engagement: 1905
-    commentsToLikes: 0.033975
-    id: ckaox2zmubjsf0i78q6ept2gk
-    verified: false
-    hashtags: "#memes, #tiktoksouthafrica, #iyadilabantu, #humor"
-  - username: "jsntbn"
-    fullname: >-
-      Jason Tobin
-    bio: >-
-      🔥Young Jun on @BruceLee 's Warrior🔥Fast 9 & Tokyo Drift, Sonora: The Devil's Highway, Jasmine, #1 Serial Killer, Better Luck Tomorrow
-    location: "South Africa"
-    followers: 16660
-    engagement: 869
-    commentsToLikes: 0.104783
-    id: ck15pv9qmzsx10i19xa5tvzz0
-    verified: false
-    hashtags: "#brucelee, #repost, #warriormax, #yungflutes"
+    hashtags: "#buharimustgo, #toutkitchen, #buharimustresign, #ginjahhhh"
   - username: "theafricancreative"
     fullname: >-
       The African Creative
     bio: >-
-      Celebrating African Creativity and Innovation. The African Creative Revolution is upon us, that revolution will be televised!
+      Digital Agency Celebrating African Creativity and Innovation. The African Creative Revolution is upon us. Created by @andrekemayou
     location: "South Africa"
-    followers: 47099
-    engagement: 244
-    commentsToLikes: 0.016953
+    followers: 77635
+    engagement: 166
+    commentsToLikes: 0.025695
     id: ckaorsug2olq90i78z4ihj2f2
     verified: false
-    hashtags: "#african, #theafricancreative, #africa, #love"
+    hashtags: "#love, #africa, #theafricancreative, #african"
+  - username: "ghanaposts"
+    fullname: >-
+      🇬🇭🅖🅗🅐🅝🅐 🅟🅞🅢🅣🅢🇬🇭
+    bio: >-
+      The African race is a rubber ball. The harder you dash it to the ground, the higher it will rise. 🆃🅷🅴 🅰︎🅵🆁🅸🅲🅰︎ 🆃🅷🅴🆈 🅳🅾︎🅽'🆃 🆂🅷🅾︎🆆
+    location: "South Africa"
+    followers: 138592
+    engagement: 100
+    commentsToLikes: 0.095601
+    id: ck0vzbb9388z50i19jxgynw1x
+    verified: false
+    hashtags: "#ghanaposts, #obronimentalissues, #clownari, #endsars"
+  - username: "k_star_kenya"
+    fullname: >-
+      Mtoto wa Mukwaiti
+    bio: >-
+      GOD IS MY HERO African Child Kenyan Gospel artiste God is Good and Great C.E.O @blessedkinyozi Creator #gainwithkstarkenya Follow @shanniz254_
+    location: "South Africa"
+    followers: 27383
+    engagement: 173
+    commentsToLikes: 0.058228
+    id: ckaov8jbv3ieg0i7859c9dt2w
+    verified: false
+    hashtags: "#gainwiththeepluto, #nikonkenya, #igkenya, #gainwithbundi"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In India in 2023
+title: Top 10 Yoga TikTok Influencers In India In 2023
 description: >-
   Find top yoga TikTok influencers in India in 2023. Most popular hashtags: #tiktok #foryoupage #fyp #trending.
 platform: TikTok
-hits: 230
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 230 TikTok influencers like this in India for you to work with.
+hits: 236
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 236 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "sonalishewale"
     fullname: >-
@@ -14,11 +14,11 @@ profiles:
       Yoga Teacher, Bharatnatyam Dancer, Actor, Model
     location: "India"
     followers: 20800
-    engagement: 1296
-    commentsToLikes: 0.309681
+    engagement: 1285
+    commentsToLikes: 0.309614
     id: ck9n78apd7owf0j78sfnip8vd
     verified: false
-    hashtags: "#foryoupage, #foryou, #tiktok, #danceathome"
+    hashtags: "#foryou, #danceathome, #fyp, #foryoupage"
   - username: "enaasharma"
     fullname: >-
       enaa💖
@@ -26,83 +26,83 @@ profiles:
       (yoga insturctor)
     location: "India"
     followers: 115600
-    engagement: 1259
-    commentsToLikes: 0.041453
+    engagement: 1250
+    commentsToLikes: 0.041689
     id: ck8ozllascnzv0j78g0vgu8kr
     verified: false
-    hashtags: "#yogawithenaa, #yogagirl, #foryoupage, #tiktok"
+    hashtags: "#yogagirl, #yogawithenaa, #yogalover, #foryoupage"
   - username: "shinearthyoga"
     fullname: >-
       Renne
     bio: >-
       💓💓YogaExpert💓💓 💫Model💫 Facebook :- Arthyoga ( Shine ) Insta :- Arthyoga
     location: "India"
-    followers: 8706
-    engagement: 1288
-    commentsToLikes: 0.104034
+    followers: 8698
+    engagement: 1269
+    commentsToLikes: 0.099393
     id: ckb9fdtca3mig0j23ep5huwgh
     verified: false
-    hashtags: "#duet, #trend2020, #trendingsong, #girl"
+    hashtags: "#girl, #trending, #duet, #trendinggirl"
   - username: "sunandasurkundu91"
     fullname: >-
       CatWoman
     bio: >-
       Yoga instructor 💗🧘‍♀️💗 ❣️ Subscribe my YouTube channel ❣️
     location: "India"
-    followers: 212900
-    engagement: 714
-    commentsToLikes: 0.032686
+    followers: 212800
+    engagement: 708
+    commentsToLikes: 0.032665
     id: ck8fb1k4w52ii0j78mnqyynrp
     verified: false
-    hashtags: "#look, #nailpolish, #act, #wallpaper"
+    hashtags: "#bonggirl, #cool, #look, #wallpaper"
   - username: "anjalishukla43"
     fullname: >-
       Anjali Shukla
     bio: >-
       Dancer. Gymnastics. Yoga. It’s my life ❤️❤️❤️🥰
     location: "India"
-    followers: 100200
-    engagement: 912
-    commentsToLikes: 0.048597
+    followers: 100100
+    engagement: 926
+    commentsToLikes: 0.050784
     id: ck80nsbffecw70j7804onmpfg
     verified: false
-    hashtags: "#trending, #duet, #trandingsong, #memoriesbringback"
+    hashtags: "#sharethecare, #trending, #trandingsong, #duet"
   - username: "mahiesingh"
     fullname: >-
       Mahie Singh
     bio: >-
       Actress ✌️ Professional yoga trainer🧘‍♀️ Dm me on insta mahie_singh
     location: "India"
-    followers: 46500
-    engagement: 714
-    commentsToLikes: 0.068193
+    followers: 46300
+    engagement: 709
+    commentsToLikes: 0.068178
     id: ckbqwk62agrm30j23xbsz0xzb
     verified: false
-    hashtags: "#viral, #covid19, #sharethecare, #myntraeorschallenge"
+    hashtags: "#fyp, #sharethecare, #love, #trending"
   - username: "ramlatcha"
     fullname: >-
       😎🆃🅸🅼🅴🅱🅾🆂🆂😘
     bio: >-
       🙏INSTA SUPPORT ME🙏 Ram.En Uire🤗yoga.En Oravu Laksh😚RLM.Mybestii😍kodi boys💕
     location: "India"
-    followers: 186000
-    engagement: 1113
-    commentsToLikes: 0.029911
+    followers: 185900
+    engagement: 1110
+    commentsToLikes: 0.029827
     id: ckal5q3n07kdw0i78b0f0bwo0
     verified: false
-    hashtags: "#tamilmuser, #tirupur, #tidelagaodaaghatao, #lovebirds"
+    hashtags: "#love, #tamiltiktok, #tidelagaodaaghatao, #tiktok"
   - username: "yogawithmaahi"
     fullname: >-
       yogawithmaahi
     bio: >-
       International yoga teacher 🧘 long hair and dimple queen 👰 Karo Yog Rho Nirog🤸
     location: "India"
-    followers: 454100
+    followers: 454000
     engagement: 407
-    commentsToLikes: 0.018946
+    commentsToLikes: 0.018945
     id: ckbl06toqwt6y0j23044g10jc
     verified: false
-    hashtags: "#foru, #cutinghair, #yogawithmaahi, #fyp"
+    hashtags: "#foru, #longhair, #justforfun, #tiktok"
   - username: "yogaurmi.india"
     fullname: >-
       URMI PANDYA
@@ -110,21 +110,21 @@ profiles:
       YOGA TEACHER_Owner and Founder of URMI YOGA ACADEMY_ 💌👉 yogaurmi@gmail.com
     location: "India"
     followers: 2600000
-    engagement: 433
-    commentsToLikes: 0.011899
+    engagement: 437
+    commentsToLikes: 0.013072
     id: ck80nsab0ecj20j78tnf7zzvw
     verified: true
-    hashtags: "#yoga, #internationalyogaday, #yogaday, #mylifemyyoga"
+    hashtags: "#yogaurmi, #internationalyogaday2020, #yogaday, #yoga"
   - username: "mohinibhatia"
     fullname: >-
       Mohini Bhatia
     bio: >-
       yoga teacher from Delhi contact for yoga classes on Instagram 🙂
     location: "India"
-    followers: 34700
-    engagement: 733
-    commentsToLikes: 0.022460
+    followers: 34600
+    engagement: 745
+    commentsToLikes: 0.023683
     id: cka0zzo2vhoyk0i782fyfxqn5
     verified: false
-    hashtags: "#yogagirl, #fitness, #yogawithmohini, #quarantinelife"
+    hashtags: "#yogapose, #yogagirl, #yogalover, #timepass"
 ---

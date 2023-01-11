@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Medellín in 2023
+title: Top 10 Health Instagram Influencers In Medellín In 2023
 description: >-
-  Find top health Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #fitness #health #workout.
+  Find top health Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #fitness #health #colombia.
 platform: Instagram
-hits: 15
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 15 Instagram influencers like this in Medellín, Colombia for you to work with.
+hits: 7
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 7 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
-  - username: "ramvidzapata"
+  - username: "rolando_posada"
     fullname: >-
-      🆁🅰🅼🆅🅸🅳
+      Rolando A. Posada F.
     bio: >-
-      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ ✳️ @scrufflatino Influencer🏳️‍🌈 🍑@WeCakdUP Ambassador💊 🇻🇪Living in Bogota🇻🇪
+      Medicina Interna. Nutrición/Farmacología/Fisiología rolandoposada2004@gmail.com @sindy_mena 👰🏻💍
     location: "Colombia"
-    followers: 65330
-    engagement: 264
-    commentsToLikes: 0.020057
-    id: ck6u070hhdyy10j71x6lygpcd
+    followers: 31588
+    engagement: 247
+    commentsToLikes: 0.054658
+    id: ck5c102oqu6nm0i11nt7jqqw1
     verified: false
-    hashtags: "#me, #lingerie, #fit, #men"
-  - username: "orthorepost"
-    fullname: >-
-      Orthorepost 📚
-    bio: >-
-      📍Medellín 🇨🇴 ▫️Ortodoncia y Ortopedia Maxilofacial ▫️Miembro Activo AAO/WFO ▫️CCO System ▫️Invisalign Doctor
-    location: "Colombia"
-    followers: 63992
-    engagement: 101
-    commentsToLikes: 0.005816
-    id: ck5zrkocnwreb0i14co8gms19
-    verified: false
-    hashtags: "#clinicacolombiana, #ortodonciaenmedellin, #odontologos, #biteramps"
+    hashtags: "#anabolicdoc, #medellin, #healthylifestyle, #salud"
   - username: "chdermatologia"
     fullname: >-
       CLAUDIA HERNÁNDEZ
     bio: >-
-      МD.Derмaтologιѕт •Expert Injector💉•KOL🌎•Research 🔬 360 Face & Body health - anti-aging & beauty strategies 📍Medellín-Col🇨🇴 📲574-4443072-3006413849
+      МD.Derмaтologιѕт •Injector💉•KOL🌎•Research 🔬 Anti-aging & beauty strategies 📍Medellín-Colombia🇨🇴 📲574-4443072-3006413849
     location: "Colombia"
-    followers: 86504
-    engagement: 175
-    commentsToLikes: 0.015401
+    followers: 93179
+    engagement: 192
+    commentsToLikes: 0.016119
     id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#dermatology, #beauty, #medellin, #fillers"
-  - username: "dr.tonni"
+    hashtags: "#fillers, #envejecimiento, #beauty, #skincare"
+  - username: "changeyourlifewmel"
     fullname: >-
-      GORDO PERO CHIMBA MI AMOR
+      Melissa 🌶
     bio: >-
-      🎥 Travel | Comedy | Lifestyle Toditos ▶️ Tik Tok: dr.tonni 2.2 M ❌ NO Twitter 📍 Medellin, Colombia ❤️🇨🇴 📩 dr.tonni.publicidad@gmail.com
+      Fitness | Lifestyle ✨🧿👩🏻‍🎓 🇨🇴 - NY 📌
     location: "Colombia"
-    followers: 1483203
-    engagement: 762
-    commentsToLikes: 0.009014
-    id: ck8wg6z05gu3j0j78mcrw9qau
+    followers: 5065
+    engagement: 1069
+    commentsToLikes: 0.054493
+    id: ck8t1veuhx6sp0j7825w41la7
     verified: false
-    hashtags: "#medellin, #gains, #abs, #training"
-  - username: "danicalo19"
+    hashtags: "#shredded, #colombianwomen, #fitnessmotivation, #physique"
+  - username: "_zackmorris"
     fullname: >-
-      DKalo #JumpRopeGirl
+      Zack Morris
     bio: >-
-      ✨ Health Coach #FATBURNGIRL 🌪JumpRopeCoach ⏳ 💣 @bangenergy Select Model 🇨🇴 Modelo ☀️ #Mismañanasfit
+      🦁🇨🇦 I Ride Bikes 🚴🏻‍♂️ & Build Brands 👨🏻‍💻 Follow 👉🏻 @teamnoexcusestv
     location: "Colombia"
-    followers: 210588
-    engagement: 108
-    commentsToLikes: 0.027062
-    id: ck5qck0ebqyis0i11qv5ut1pj
+    followers: 32138
+    engagement: 395
+    commentsToLikes: 0.008565
+    id: ck14kg6lopd3w0i19ilj9s7vi
     verified: false
-    hashtags: "#bangenergy, #drink, #redline, #tbt"
-  - username: "marianelamodel"
+    hashtags: "#cinchform, #cycling, #cinchcycling, #cyclinglife"
+  - username: "lindapalma"
     fullname: >-
-      Marianela💋Ramos
+      LindaPalma ❤️😜🌴
     bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
+      Presentadora TV. Colombiana 🇨🇴 Embajadora @adidasco 💜La Vida es linda💜 #LaVidaEslinda 💌 linda@lindapalma.com
     location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
-  - username: "miguelsquash"
-    fullname: >-
-      𝙈𝙄𝙂𝙐𝙀𝙇 𝘼𝙉𝙂𝙀𝙇 𝙍𝙊𝘿𝙍𝙄𝙂𝙐𝙀𝙕
-    bio: >-
-      📍 Colombian 🇨🇴 ⚫️ Professional Squash Player 🌎 World Top 10 🏆 British Open 2018 @sporadecolombia @tecnifibre @eyeracketsint @rowemotoroilofficial
-    location: "Colombia"
-    followers: 23732
-    engagement: 540
-    commentsToLikes: 0.013023
-    id: ck0w4iqi7yrg80i190ewn9hgk
-    verified: false
-    hashtags: "#911, #cairo, #miguelsquash, #bogota"
-  - username: "estefigomez11"
-    fullname: >-
-      Estefania Gomez Actriz
-    bio: >-
-      Actriz colombiana ..🎬 🎥. Fiel a mi. 🌀 ❤️Mujer de Dios Tw/ @estefigomez11 🖤@byestefaniagomezactriz 🖤
-    location: "Colombia"
-    followers: 1375133
-    engagement: 166
-    commentsToLikes: 0.023726
-    id: ck6ub5afg7jsm0j71nm0m1zrp
+    followers: 1608225
+    engagement: 84
+    commentsToLikes: 0.012483
+    id: ck13c5up2yrg40i19srua000u
     verified: true
-    hashtags: "#healthyuniverse, #photooftheday, #universosaludable, #love"
-  - username: "juanseayala"
+    hashtags: "#creadoconadidas, #tbt, #lavidaeslinda, #healthylifestyle"
+  - username: "leidysolis76kg"
     fullname: >-
-      Juan Sebastián Ayala
+      𝐋𝐞𝐢𝐝𝐲 𝐒𝐨𝐥𝐢𝐬
     bio: >-
-      🌎 Online Fitness Coach ⭐️ Celebrity Personal Trainer ⚡️ Embajador @fitbitlatam 📱 Planes de entrenamiento y nutrición ⬇️ 😍 eBooks Patty & Juanse ⬇️
+      LEVANTAMIENTO DE PESAS DEPORTISTA DE ALTO RENDIMIENTO TRIPLE CAMPEONA DEL MUNDO DOBLE CAMPEONA DEL MUNDO JUVENIL SUB CAMPEONA OLÍMPICA
     location: "Colombia"
-    followers: 57400
-    engagement: 88
-    commentsToLikes: 0.052126
-    id: ck6u3hplkxujx0j71bhhxaa90
+    followers: 50244
+    engagement: 633
+    commentsToLikes: 0.022984
+    id: ck8sxy4enj3200j78wvhe5jjh
     verified: false
-    hashtags: "#perderpeso, #gym, #fitness, #humorfit"
-  - username: "pabon.art"
+    hashtags: "#worldchampion, #likelike, #crowd, #photooftheday"
+  - username: "juandaimond"
     fullname: >-
-      Jhonatan Pabon
+      JUANDAIMOND
     bio: >-
-      Filipenses 4:13 Tattoo Artist Currently in Bogota 🇨🇴 For Appoiment DM Skateboarding Love
+      Youtuber: 🕺🏿🕺🏿🕺🏿🕺🏿🍪🍮🥙🍟⬇️⬇️
     location: "Colombia"
-    followers: 34333
-    engagement: 140
-    commentsToLikes: 0.071032
-    id: ck55osusa927v0i11ix4c50ni
+    followers: 53650
+    engagement: 179
+    commentsToLikes: 0.032440
+    id: ck6u91mx3uyoz0j71kuvli029
     verified: false
-    hashtags: "#realistic, #healthy, #eyes, #leon"
+    hashtags: "#lovetodance, #dancefloor, #bailar, #dancer"
+  - username: "the_runaddict"
+    fullname: >-
+      George | Running & Tri Junkie
+    bio: >-
+      ‣ Marketing | Triathlon & running coach 👉🏻 @aethosport ‣ Health & wellness motivation. ‣ 4 major marathons ⭐️ (so far).
+    location: "Colombia"
+    followers: 10343
+    engagement: 534
+    commentsToLikes: 0.112158
+    id: ckaozhml1lxdo0i78gltg1vkd
+    verified: false
+    hashtags: "#runningmotivation, #runningcolombia, #iloverunning, #nbrunning"
+  - username: "kevincardenas__"
+    fullname: >-
+      Kevin Cardenas 🇨🇴
+    bio: >-
+      🔥 desafío súper regiones 2019 #cafetero Embajador @healthysportscolombia 📝admon de negocios internacionales 📸modelo 🏋🏻 CrossFit
+    location: "Colombia"
+    followers: 61512
+    engagement: 471
+    commentsToLikes: 0.026606
+    id: ckapckj38474m0i788cgi5sma
+    verified: false
+    hashtags: "#fitness, #smile, #mensfashion, #photography"
+  - username: "valentinathorne"
+    fullname: >-
+      Valentina
+    bio: >-
+      Thornemvalentina@gmail.com📩 Embajadora: @healthysportscolombia @amarte.sw Diseñadora 👩‍🎨
+    location: "Colombia"
+    followers: 162947
+    engagement: 603
+    commentsToLikes: 0.016221
+    id: ckapbottv0qp30i78foawh7df
+    verified: false
+    hashtags: "#saturdaynight"
 ---

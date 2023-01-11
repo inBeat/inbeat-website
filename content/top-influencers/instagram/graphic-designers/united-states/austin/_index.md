@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Austin in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Austin In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Austin in 2023. Most popular hashtags: #graphicdesign #graphicdesigner #illustration #design.
+  Find top graphic-designers Instagram influencers in Austin in 2023. Most popular hashtags: #art #graphicdesigner #vision #design.
 platform: Instagram
-hits: 18
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 18 Instagram influencers like this in Austin, United States for you to collaborate.
+hits: 14
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 14 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "staygrayponyboy"
-    fullname: >-
-      Matt Dawson
-    bio: >-
-      ATX | Graphic Design | Branding | Illustration Founder of @cropcons
-    location: "United States"
-    followers: 35297
-    engagement: 245
-    commentsToLikes: 0.049736
-    id: ck8tcuwn90ryl0j78dlv18kzs
-    verified: false
-    hashtags: "#staygrayponyboy, #beerdesign, #craftbeer, #logoinspirations"
   - username: "daphnasebbane"
     fullname: >-
       Daphna Sebbane
     bio: >-
-      Graphic Designer | ATX AIGA Austin Board Member | Programming Chair DM or email for commissions or inquiries daphnasebbane@gmail.com
+      Graphic Designer | ATX DM or email for commissions or inquiries daphnasebbane@gmail.com
     location: "United States"
-    followers: 26445
-    engagement: 398
-    commentsToLikes: 0.015769
+    followers: 35539
+    engagement: 329
+    commentsToLikes: 0.011992
     id: ck14kgqf4pfuz0i19xoixa5p8
     verified: false
-    hashtags: "#yogaart, #artistinthemaking, #atxdesigner, #ladieswhodesign"
-  - username: "volac"
+    hashtags: "#typetopia, #theskullreserve, #thedesignfix, #mystical"
+  - username: "koludro"
     fullname: >-
-      Camilo
+      𝕯𝖆𝖓𝖎𝖊𝖑 𝕶𝖔𝖑𝖚𝖉𝖗𝖔𝖛𝖎𝖈𝖍
     bio: >-
-      🇩🇪🇨🇴🇱🇰 Lead Graphic Designer Auto Enthusiast Living in Austin, TX @_streetheart ❤️
+      ⭐️ Brand Designer 🖋 Hand-Lettering Artist ✨ Rainbow Fluff 🌈 & Cartoon Buff 💪🏼 💕 👨🏻 𝟐𝟕 | ⬇️ 𝐍𝐄𝐖 𝐒𝐈𝐓𝐄 |📍𝐒𝐅 🌁 | he/him
     location: "United States"
-    followers: 8183
-    engagement: 1331
-    commentsToLikes: 0.019797
-    id: ck134oqt0xgi70i19yqauwimx
+    followers: 38049
+    engagement: 553
+    commentsToLikes: 0.014721
+    id: ckaozrg3un2tm0i78ynsv6t87
     verified: false
-    hashtags: "#bmwclassic, #e31, #bmw, #e24"
-  - username: "derekjelliott"
+    hashtags: "#handlettered, #merch, #artistsoninstagram, #sf"
+  - username: "shannonkatecypress"
     fullname: >-
-      Derek Elliott
+      Ryder ✨
     bio: >-
-      Design + Animation in Austin, TX Available in July
+      Acts tuff but is just fluff ... Pekepom Rescue | Houston TX 🗯️Design with 🐶s in mind - shannonkatecypress
     location: "United States"
-    followers: 11881
-    engagement: 843
-    commentsToLikes: 0.032037
-    id: ck5q6ipjsxjey0i11f1n6yi08
+    followers: 6300
+    engagement: 519
+    commentsToLikes: 0.148619
+    id: ck55q8p5cc68z0i11ygl5vr4y
     verified: false
-    hashtags: "#3danimation, #icff2020, #toycar, #calm"
-  - username: "paigeforrest"
+    hashtags: "#weeklyfluff, #halloweendogs, #ratemydog, #woofrepublic"
+  - username: "saizagus"
     fullname: >-
-      Paige Martindell
+      Agustina Saiz
     bio: >-
-      Dallas | Fueled by His strength† Fitness Instructor & Graphic Designer Co-Owner + Creative: @class_studios @lululemon ambassador
+      💻 Graphic Designer 📸 Model
     location: "United States"
-    followers: 10955
-    engagement: 691
-    commentsToLikes: 0.118136
-    id: ck0ucamt0gcsl0i199uow2uol
+    followers: 3303
+    engagement: 940
+    commentsToLikes: 0.039397
+    id: ck6tib47c0dr60j718aqm1lzk
     verified: false
-    hashtags: "#shinethatlight, #sponsored, #getyourasstoclass, #myable"
-  - username: "alakijastudios"
+    hashtags: "#food, #smile, #life, #instacool"
+  - username: "miguelwilson"
     fullname: >-
-      Jide Alakija - ALAKIJA STUDIOS
+      Miguel Wilson
     bio: >-
-      📍 New York City - Washington DC - Beyond ✉️ Inquiries : instagram@alakija.com 🎤 Nikon Speaker Street photos- @alakija
+      ✏️ Toy Designer/Product Developer 📈 Project Management and Consultant 🏃🏽‍♂️Fitness and Healthy Lifestyle 🕺🏽Former Professional Dancer
     location: "United States"
-    followers: 61760
-    engagement: 83
-    commentsToLikes: 0.044915
-    id: ck15pkmomycjp0i19gajoqi8f
+    followers: 6796
+    engagement: 467
+    commentsToLikes: 0.041344
+    id: ck5zvnddz4kaj0i14adhidqdj
     verified: false
-    hashtags: "#color, #weddingphoto, #weddinginspiration, #instaphoto"
-  - username: "_designbytes_"
+    hashtags: "#characterart, #marvelcomics, #characterdesign, #design"
+  - username: "thekylecyr"
     fullname: >-
-      Helen T 🤖 DesignBytes
+      Kyle Cyr 𓅓 | 20K 🔜
     bio: >-
-      Co-Founder & Product(UX/UI) Designer with various interests. I create stuff, sometimes I talk about it too.
+      CT📍 | UMD ‘24 | Graphic Designer @eamaddennfl | Ambassador @seatgeek | 𝐜𝐡𝐚𝐧𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐦𝐞.
     location: "United States"
-    followers: 17846
-    engagement: 234
-    commentsToLikes: 0.135091
-    id: ck6u53v3x7fx90j71tbhrnue2
+    followers: 15897
+    engagement: 3477
+    commentsToLikes: 0.021912
+    id: ckapaohpewuv60i78m5xln6hr
     verified: false
-    hashtags: "#dailyui, #interactiondesign, #designprocess, #opportunityknocks"
-  - username: "justinsansom_"
+    hashtags: "#httr, #bills, #patrickmahomes, #nba"
+  - username: "carlosgzz003"
     fullname: >-
-      Justin “Giovanni” Sansom
+      Carloz Gzz 🌙
     bio: >-
-      🏳️‍🌈 model | graphic designer | songwriter | creative director MI📍
+      Graphic designer/ Painter/ illustrator PRINTS & MERCH . visit my ArtSHOP🔥
     location: "United States"
-    followers: 15521
-    engagement: 318
-    commentsToLikes: 0.082175
-    id: ck6u6j3r6fvv10j714xjjc1mq
+    followers: 110788
+    engagement: 581
+    commentsToLikes: 0.018418
+    id: ck14h7ufq8z360i19qauuigaz
     verified: false
-    hashtags: "#detroitmodel, #midwestphotographer, #michiganmodel, #atlmodel"
-  - username: "outlyning"
-    fullname: >-
-      Outlyning – Graphic Designer
-    bio: >-
-      🎨 I post Justin Bieber edits, concepts & more 💌 DM for cover art/graphics 🖼 Portfolio: @outlyning.graphics
-    location: "United States"
-    followers: 114891
-    engagement: 371
-    commentsToLikes: 0.036307
-    id: ck8t18gjxust30j78aec96iat
-    verified: false
-    hashtags: "#mileycyrus, #jiley, #jileyedits, #beliebers"
+    hashtags: "#wanda, #badbunny, #versace, #saintseiya"
   - username: "j_cal_designs"
     fullname: >-
       Justin Calvin
     bio: >-
-      NASCAR graphic designer for William Byron Josh Bilicki Denny Hamlin Bobby Dale Earnhardt Twitter: jcalmx189
+      graphic designer for 23XI, Pittsburgh Native Graphic designer for William Byron, Josh Bilicki, Denny Hamlin, Bobby Dale Earnhardt and Bubba Wallace
     location: "United States"
-    followers: 9963
-    engagement: 1303
-    commentsToLikes: 0.018383
+    followers: 11295
+    engagement: 1082
+    commentsToLikes: 0.023575
     id: ck8t7mcn9hbxb0j78into066n
     verified: false
-    hashtags: "#budweiser, #dalesr, #nascaronfox, #nascarcupseries"
+    hashtags: "#nascardesign, #nascardiecast, #nascarreverseretro, #hendrickmotorsports"
+  - username: "melalelou"
+    fullname: >-
+      MEL | Lyrics Artworks 🎶
+    bio: >-
+      🇨🇭Graphic Designer ※ 🎶🌴🏋🏼‍♀️✏️🎨💓 🧘🏻‍♀️ drawing letters is my yoga ❣️ tagg me when you re- draw/post my works🤗
+    location: "United States"
+    followers: 3437
+    engagement: 828
+    commentsToLikes: 0.074122
+    id: ck9wel2b8kqq10j78bz74lvez
+    verified: false
+    hashtags: "#todiefor, #xellence, #photoshop, #photoedit"
+  - username: "_beccacherry"
+    fullname: >-
+      Becca Cherry
+    bio: >-
+      Artist • Designer • Maker One of those creative types. >hello@beccacherry.com<
+    location: "United States"
+    followers: 5439
+    engagement: 380
+    commentsToLikes: 0.096594
+    id: ck6uh8q487ogs0j71vu8a5mgp
+    verified: false
+    hashtags: "#capturequiet, #aseasonalshift, #alliseeispretty, #flashesofdelight"
 ---

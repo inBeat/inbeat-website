@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In San Francisco in 2023
+title: Top 10 Yoga Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top yoga Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #yoga #travel #art.
+  Find top yoga Instagram influencers in San Francisco in 2023. Most popular hashtags: #yoga #sanfrancisco #nature #california.
 platform: Instagram
-hits: 25
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 25 Instagram influencers like this in San Francisco, United States for you to connect with.
+hits: 21
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 21 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "yogamaris"
+  - username: "janetstoneyoga"
     fullname: >-
-      maris degener
+      Janet Stone
     bio: >-
-      lead peer mentor and marketing strategist at @equiphealth #iammarismovie on @netflix advisor to @iam_phoenix_rising she/her ✨🌈
+      • Humble student of life • Embodied yoga • Motherhood as teacher • Devotion | Bhakti
     location: "United States"
-    followers: 69466
-    engagement: 365
-    commentsToLikes: 0.020264
-    id: ck0u8rs0783vx0i19h7eiobib
+    followers: 43493
+    engagement: 170
+    commentsToLikes: 0.046022
+    id: ck5hoekaapf8n0i11ahpic9rh
     verified: false
-    hashtags: "#iammarismovie, #mentalillnessawareness, #mentalillnessawarenessweek, #miaw2019"
-  - username: "changecatalysts"
+    hashtags: "#yogateacher, #meditation, #sangha, #yogateachertraining"
+  - username: "maikaisogawa"
     fullname: >-
-      Melinda Briana Epler
+      Maika Isogawa
     bio: >-
-      Changing the world ☕️✈️🚀🎤 ❤️☀️🌁🏍⛰🏝 TED speaker, CEO @techinclusion Ambassador @revit_official #techinclusion #startups #allyship #womenwhoride
+      💻 Engineer @microsoft 🌲 @stanford alumni 👙 @cirquedusoleil TOTEM 🇯🇵 ハーフ　五十川舞香　 📍San Francisco, CA, USA
     location: "United States"
-    followers: 18055
-    engagement: 107
-    commentsToLikes: 0.047735
-    id: ck13bm0aaw2g00i194glflsf7
+    followers: 6032
+    engagement: 612
+    commentsToLikes: 0.034778
+    id: ckaoz5hxekgk10i78em2eslbe
     verified: false
-    hashtags: "#inclusion, #allyship, #motorcycles, #womenwhoride"
-  - username: "enabledcollective"
-    fullname: >-
-      max barringer | male yoga
-    bio: >-
-      🏠 san francisco, ca 🌉 🧘🏼‍♂️ #ASHTANGA | #VINYASA | #INVERSION ☇ CODE “ENABLED” FOR 10% OFF MY SHOP!
-    location: "United States"
-    followers: 140662
-    engagement: 179
-    commentsToLikes: 0.030852
-    id: ck5cc3xbggo6j0i11sfk65g7j
-    verified: false
-    hashtags: "#speakupforthosewhocantscream, #onelove, #someone, #and"
-  - username: "simonagyoga"
-    fullname: >-
-      Simona G Yoga
-    bio: >-
-      Yoga teacher | E-RYT500 Empowering through physical and mental strength 🌱Plant powered Email for collaborations 🌉Based in San Francisco Bay Area 📺👇
-    location: "United States"
-    followers: 116618
-    engagement: 230
-    commentsToLikes: 0.052794
-    id: ck0vwp7n1uwss0i19fho9jq4p
-    verified: false
-    hashtags: "#yogastudent, #howtoyogaathome, #heartopener, #yogastrong"
+    hashtags: "#landscape, #sf, #aerialist, #circusperformer"
   - username: "scrumptious.sf"
     fullname: >-
       Bay Area Munchies / SF LA NYC
     bio: >-
-      📍 Adventuring in San Francisco // Bay Area 📸 @bestfoodsf @bestfoodbayarea 💌 Email or DM for collabs! ✈️ Travel w/ us for food! ️🌸 HAWAII
+      📍 Adventuring in San Francisco // Bay Area 📸 @bestfoodsf @bestfoodbayarea 💌 Email or DM for collabs! 🛒 Costco enthusiast ✈️ Travel w/ us! ️🌸 HAWAII
     location: "United States"
-    followers: 3117
-    engagement: 1209
-    commentsToLikes: 0.107429
+    followers: 3567
+    engagement: 815
+    commentsToLikes: 0.105471
     id: ck6ueuqget7k70j710mjrrmmi
     verified: false
-    hashtags: "#noodleworship, #thekitchn, #egg, #nomnomnom"
+    hashtags: "#chicken, #southernfood, #dailyfoodfeed, #topcitybites"
   - username: "emlee7"
     fullname: >-
       Emma Lee | Fashion designer
     bio: >-
-      Creativity takes courage|Travel • Fashion • Lifestyle Architecture & Me| Home = San Francisco #architectureemlee7 @_citytocity|📍NJ / NYC
+      Creativity takes courage|Travel • Fashion • Lifestyle Architecture & Me| Home = San Francisco #architectureemlee7 @_citytocity|📍NJ/NYC
     location: "United States"
-    followers: 28124
-    engagement: 191
-    commentsToLikes: 0.040434
+    followers: 27816
+    engagement: 103
+    commentsToLikes: 0.045041
     id: ck0txpr0hk27v0i19a4rpfpv4
     verified: false
-    hashtags: "#livethelittlethings, #livefolk, #flatlay, #exploremore"
+    hashtags: "#theartofslowliving, #liveauthentic, #creativityfound, #momentslikethese"
+  - username: "konacloud"
+    fullname: >-
+      Lil Kona 🌊the Samoyed
+    bio: >-
+      its Kona be a good life 💖🥑 ☁️ born 10/1/2019 🌸 1 year old | samoyed girl 🐾 san francisco, ca
+    location: "United States"
+    followers: 8479
+    engagement: 406
+    commentsToLikes: 0.028010
+    id: ck8t1oq0lwgti0j78i0ye7n4i
+    verified: false
+    hashtags: "#samoyedpage, #samoyedhub, #cutiepatootie, #samoyedjourney"
+  - username: "the.tavares"
+    fullname: >-
+      T A V A R E S
+    bio: >-
+      San Francisco Bay Area📍 🏳️‍🌈 Cuban 🇨🇺 Miami Born ♥️ Live, Laugh, Love... & Meme 👌🏾 #MNDWarrior #MNDAwareness #MNDAdvocacy
+    location: "United States"
+    followers: 66091
+    engagement: 278
+    commentsToLikes: 0.004782
+    id: ckf5ow12940fi0j233wulwecu
+    verified: false
+    hashtags: "#mndawareness, #blackboymagic, #gayfollow, #slowprogression"
   - username: "jennyclise_"
     fullname: >-
-      Jenny Clise
+      Jenny Clise (She, Her)
     bio: >-
       New York based Yoga Teacher #blockasanas Check out my E-book @blockasanas 👇🏼 E-BOOK 📖 & RETREAT 🏝 🤸🏼‍♀️
     location: "United States"
-    followers: 37899
-    engagement: 533
-    commentsToLikes: 0.059318
+    followers: 37568
+    engagement: 300
+    commentsToLikes: 0.069037
     id: ck5cbx4o0gbr70i11zexbfmd0
     verified: false
-    hashtags: "#yoga, #meditative, #shakira, #govote"
-  - username: "jrobertbailey"
+    hashtags: "#backbend, #yogalove, #alobackbendlovers, #yoga"
+  - username: "swenyly"
     fullname: >-
-      Jared Bailey
+      Tomas
     bio: >-
-      Global Brow Expert for @benefitcosmetics and kombucha drinking yoga junkie traveling the world getting other people’s brows and my body in shape. ✈️
+      •Yoga •Cooking & Baking •Nature •Music Trying to live my best🌱
     location: "United States"
-    followers: 26964
-    engagement: 189
-    commentsToLikes: 0.093757
-    id: ck0u1nzqhxg610i197dp69rrt
+    followers: 8862
+    engagement: 599
+    commentsToLikes: 0.030937
+    id: ckap5zblcdsux0i78m02emwkl
     verified: false
-    hashtags: "#eyebrows, #benefitbrows, #browexpert, #vote2020"
-  - username: "krista_kimberly"
+    hashtags: "#gaytravel, #smile, #gaymale, #memories"
+  - username: "confusedgirlla"
     fullname: >-
-      Krista DeBono
+      Giovanna Silvestre
     bio: >-
-      📍 NYC 🎬 TV Personality 🏈 NFL Cheerleader 🗣 Speech-Language Pathologist 💌 Email for Inquiries
+      🧘🏻‍♀️ I Make Yoga Wear Inspired By Healing Crystals `Confused Girl In The City’ ft. Forbes, VH1, ThriveGlobal, LAYoga, Yoga Mag 📍California
     location: "United States"
-    followers: 146869
-    engagement: 303
-    commentsToLikes: 0.065972
-    id: ck0tuvigz8uyf0i19rkbgx08y
-    verified: true
-    hashtags: "#happiness, #motherhood, #newmomlife, #travelblogger"
-  - username: "nancynprado"
-    fullname: >-
-      Nancy
-    bio: >-
-      📍:Miami, FL 🏠:Coachella, CA God First ✝️ Free Spirit 🧿 Love to Travel 🌎 Love to Dance 💃🏻
-    location: "United States"
-    followers: 38475
-    engagement: 387
-    commentsToLikes: 0.026830
-    id: ck6u7o66imol10j71f7rwgxqb
+    followers: 234614
+    engagement: 133
+    commentsToLikes: 0.041010
+    id: ck6tih1ev0paa0j713dhil4f0
     verified: false
-    hashtags: "#girlpower, #caligirl, #coachella, #fashion"
+    hashtags: "#travelgram, #yogagirl, #lifestyleblogger, #confusedgirl"
+  - username: "ishanbhandarii"
+    fullname: >-
+      Ishan Bhandari
+    bio: >-
+      Be little kinder today #hotels #himalayas #yoga @salvushotels
+    location: "United States"
+    followers: 11831
+    engagement: 2498
+    commentsToLikes: 0.030897
+    id: ck6tmxfx58psk0j71lr0lm97i
+    verified: false
+    hashtags: "#salvus, #dehradun, #harkidun, #california"
 ---

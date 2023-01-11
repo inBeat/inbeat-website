@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Germany in 2023
+title: Top 10 Food TikTok Influencers In Germany In 2023
 description: >-
-  Find top food TikTok influencers in Germany in 2023. Most popular hashtags: #food #lecker #fyp.
+  Find top food TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fyp #fy #food.
 platform: TikTok
-hits: 321
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 321 TikTok influencers like this in Germany for you to work with.
+hits: 330
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 330 TikTok influencers like this in Germany for you to work with.
 profiles:
+  - username: "meccesgurltz"
+    fullname: >-
+      ❤️80k?❤️
+    bio: >-
+      ~Rblx: Its_xcookie ~80k?🥺 ~LY ALL and food too👀❤️ ~Pizzasqad🍕
+    location: "Germany"
+    followers: 74200
+    engagement: 2639
+    commentsToLikes: 0.046180
+    id: ckd5n7h8twkcu0j23capo0fro
+    verified: false
+    hashtags: "#fy, #foryou, #vallahg, #lol"
+  - username: "blondminh"
+    fullname: >-
+      MINH
+    bio: >-
+      food & asian content 🥢 insta: blondminh ☄️ we rice by lifting each other 🍚
+    location: "Germany"
+    followers: 168400
+    engagement: 1695
+    commentsToLikes: 0.027107
+    id: ckb9asykcw1il0j23v3jvj38v
+    verified: false
+    hashtags: "#comedy, #rezept, #tutorial, #bubbletea"
+  - username: "izzpedro"
+    fullname: >-
+      izzpedro
+    bio: >-
+      💡DIY | Food | Vlogs | Experiment 🧪 📩 izzpedrocoop@gmail.com 📩
+    location: "Germany"
+    followers: 446100
+    engagement: 1392
+    commentsToLikes: 0.025300
+    id: ckc7cf915m3rh0j23qz8x4su8
+    verified: false
+    hashtags: "#mochis, #schleim, #loveyourself, #trend"
   - username: "tanni_berlin"
     fullname: >-
       TanNi_BerLin
     bio: >-
-      Insta @tanni_berlin CURVY FASHION FUN & FOOD
+      Insta @tanni_berlin CURVY FASHION Hula Hoop FUN & FOOD
     location: "Germany"
-    followers: 12700
-    engagement: 845
-    commentsToLikes: 0.071552
+    followers: 14800
+    engagement: 785
+    commentsToLikes: 0.073270
     id: ckc8wpa96k7ff0j236coua8wy
     verified: false
-    hashtags: "#meinerstestiktok"
+    hashtags: "#tagderjogginghose, #maydaymayday, #hullahoop, #weightloss"
   - username: "demigodfood"
     fullname: >-
       Christian
     bio: >-
-      👨‍🍳 Welcome to Food TikTok 🔪 der plan ist euch hungrig zu machen #demigodfood
+      👨‍🍳 Willkommen auf Food TikTok 🔪 der plan ist euch hungrig zu machen
     location: "Germany"
-    followers: 176900
-    engagement: 1120
-    commentsToLikes: 0.019953
+    followers: 859400
+    engagement: 1238
+    commentsToLikes: 0.018247
     id: ckbf2jehdpjya0j23lsvmzy6n
     verified: false
-    hashtags: "#demigodfood, #asmr, #lernenmittiktok, #kitkat"
-  - username: "s.fel_"
+    hashtags: "#fyp, #japanese, #asmr, #food"
+  - username: "mrsjennii"
     fullname: >-
-      s.fel_
+      mrsjennii
     bio: >-
-      🧁 Food & Fun 🧁 22y
+      💌 mrsjennii@gmx.de Postfach: 330307 40436 Düsseldorf🌸 Hauls, Food & Friendship
     location: "Germany"
-    followers: 14200
-    engagement: 1090
-    commentsToLikes: 0.036638
-    id: ckcdsk0lrdg5i0j23ob4ngl9u
+    followers: 414500
+    engagement: 1946
+    commentsToLikes: 0.012096
+    id: ckc8ykeojn2qa0j23baowwc8d
     verified: false
-    hashtags: "#asia, #asian, #asiamarkt, #candychallenge"
-  - username: "foodgod"
-    fullname: >-
-      foodgod
-    bio: >-
-      DONT Keep UP w/ Jonathan..I’m Foodgod now 🍩🍔🍟
-    location: "Germany"
-    followers: 3100000
-    engagement: 1216
-    commentsToLikes: 0.008617
-    id: ck963v12zwo150j78v07fp59v
-    verified: true
-    hashtags: "#london, #fyp, #foodgod, #scarygood"
-  - username: "zimtliebe_de"
-    fullname: >-
-      Mona Schmidt & Mel
-    bio: >-
-      blogging ♥ content creators ♥ food lovers —— Official Creators #LernenMitTikTok
-    location: "Germany"
-    followers: 24700
-    engagement: 770
-    commentsToLikes: 0.032350
-    id: ckdcee9lyk3cr0j232eacs0jz
-    verified: false
-    hashtags: "#gutzuwissen, #einfachesrezept, #leckeresessen, #avocado"
-  - username: "diningdaily"
-    fullname: >-
-      Diningdaily
-    bio: >-
-      🍣🍦🍩 #foodporn everyday 🥞🍱🍕 Follow me on Instagram: @diningdaily (17K)
-    location: "Germany"
-    followers: 3980
-    engagement: 546
-    commentsToLikes: 0.047609
-    id: ckcdvwpf3f9xf0j23c1becg0t
-    verified: false
-    hashtags: "#breakfast, #lovefood, #fr, #nomnom"
-  - username: "healthiswealth_"
-    fullname: >-
-      What I eat in the day!
-    bio: >-
-      Daily Foodiarys🤍|| Recipes👩🏼‍🍳 ————————————————- “Turn the pain into power.”
-    location: "Germany"
-    followers: 16600
-    engagement: 1601
-    commentsToLikes: 0.003308
-    id: cka84qhnwuvap0i78ed6ufr47
-    verified: false
-    hashtags: "#healthyfood, #foodinspo, #healthy, #foryou"
+    hashtags: "#boyfrienddd, #fyp, #viral, #foryoupage"
   - username: "foodschau"
     fullname: >-
       FoodSchau
     bio: >-
-      Food Videos und etwas Fun😅 Folgt mir auch auf Instagram 44K & YouTube 4K ⬇️🎬⬇️
+      Food Videos, Food Tests und etwas Fun😅 ⬇️🎬⬇️
     location: "Germany"
-    followers: 39700
-    engagement: 1278
-    commentsToLikes: 0.030779
+    followers: 65700
+    engagement: 1043
+    commentsToLikes: 0.054049
     id: ckcdiuq0m8heq0j234qt6tdn7
     verified: false
-    hashtags: "#gro, #crazyfood, #deutschland, #chips"
-  - username: "gero862"
+    hashtags: "#gro, #shopping, #kommtmit, #foodschau"
+  - username: "elvislamo"
     fullname: >-
-      the chef!!
+      Elvis 🏳️‍🌈
     bio: >-
-      I LOVE FISCH...AND FOOD🇷🇺🇷🇺🇷🇺 🇩🇪🇯🇵🇮🇹follow me!!❤🇨🇳🇩🇪
+      Elvis, 🇮🇹🇩🇪 Food | Lifestyle | Fitness 📩 contact@elvislamo.de
     location: "Germany"
-    followers: 4846
-    engagement: 511
-    commentsToLikes: 0.046970
-    id: ckfplwfxp10lu0j23twt1idqd
+    followers: 311900
+    engagement: 1283
+    commentsToLikes: 0.032287
+    id: ck92z0o2556sa0j782f2yf6t7
     verified: false
-    hashtags: "#rational"
-  - username: "justbogdana"
+    hashtags: "#teiledeinwissen, #kochen, #lowcarb, #abnehmentipps"
+  - username: "mireeeeym"
     fullname: >-
-      Just Bogdana
+      Mireeeeym 👀
     bio: >-
-      Say no to boring food😋🥙🌶 📍in 🇩🇪 CEO of eating and more eating
+      ✨ Lifestyle | Beauty | Food ✨ Migirdicoglumirey@gmail.com
     location: "Germany"
-    followers: 7204
-    engagement: 747
-    commentsToLikes: 0.029507
-    id: cka0x4n7m5i5t0i78lnikbyh9
+    followers: 362000
+    engagement: 1413
+    commentsToLikes: 0.011289
+    id: ck8kf6o83csvt0j78u7opoqg3
     verified: false
-    hashtags: "#gesunderezepte, #tiktokfood, #rezepteideen, #kochen"
+    hashtags: "#melodylashes, #campustuete, #familyguy, #stitch"
+  - username: "dailyfooddiarys_"
+    fullname: >-
+      What I eat in the day!
+    bio: >-
+      Daily Foodiarys🤍|| Recipes👩🏼‍🍳 ————————————————-
+    location: "Germany"
+    followers: 17400
+    engagement: 1864
+    commentsToLikes: 0.001865
+    id: cka84qhnwuvap0i78ed6ufr47
+    verified: false
+    hashtags: "#vegetarian, #plantbased, #foryou, #fy"
 ---

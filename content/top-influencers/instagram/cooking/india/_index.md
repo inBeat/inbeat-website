@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In India in 2023
+title: Top 10 Cooking Instagram Influencers In India In 2023
 description: >-
-  Find top cooking Instagram influencers in India in 2023. Most popular hashtags: #indianfood #foodphotography #indianfoodbloggers #foodblogger.
+  Find top cooking Instagram influencers in India in 2023. Most popular hashtags: #foodporn #food #indianfood #foodstagram.
 platform: Instagram
-hits: 853
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 853 Instagram influencers like this in India for you to connect with.
+hits: 575
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 575 Instagram influencers like this in India for you to connect with.
 profiles:
+  - username: "papare_thebeautyofsmallthings"
+    fullname: >-
+      Papare 🍴 Mirela Andoni
+    bio: >-
+      TV Chef&TV presenter #Instafood #çfarëkashtëpia @tring_albania Cooking editor-Receta në 2 minuta 📫DM for collaboration
+    location: "India"
+    followers: 53422
+    engagement: 94
+    commentsToLikes: 0.037961
+    id: ckap6jyl5g5ys0i78nnuhw8l4
+    verified: false
+    hashtags: "#gatimetradicionale, #cookhome, #yummy, #bestfoodfeed"
   - username: "tamarawebb_"
     fullname: >-
       TAMARA WEBB 💫
     bio: >-
       Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
     location: "India"
-    followers: 53255
-    engagement: 805
-    commentsToLikes: 0.078111
+    followers: 56494
+    engagement: 647
+    commentsToLikes: 0.010663
     id: ck8tavj66t8pm0j7872g8sxdw
     verified: false
-    hashtags: "#covid, #postpartum, #newmum, #outfitoftheday"
-  - username: "mrsshiftless"
-    fullname: >-
-      Misses Shiftless
-    bio: >-
-      🇮🇳Indian 🛵Powerd by aprilia 💏Shiftless Infected ⚠️ @theshiftless 💃Dance 👩‍🍳Cooking 🏸Badminton 👱‍♀️Teacher 👨‍🏫Doing PG 📩 DM for Promotions
-    location: "India"
-    followers: 20769
-    engagement: 1228
-    commentsToLikes: 0.023344
-    id: ck0uc55xtg20x0i197vyalylb
-    verified: false
-    hashtags: "#ktmrc200, #tiktok, #malayalam, #thrissur"
+    hashtags: "#healthyrecipes, #gold, #gabadiamonds, #mumanddad"
   - username: "ink_mypassport"
     fullname: >-
       Prachi Gupta
     bio: >-
       Ink that leaves more than just impressions #inkmypassport 61 #stamps, countless #stories Follow @talksaucytome for my world travel inspired cooking!
     location: "India"
-    followers: 7450
-    engagement: 660
-    commentsToLikes: 0.113712
+    followers: 8107
+    engagement: 471
+    commentsToLikes: 0.086564
     id: ck0w4gucgyhzs0i19m0gaudt7
     verified: false
-    hashtags: "#inkmypassport, #throwback, #colorful, #visitcolombia"
-  - username: "tithiduttasd"
+    hashtags: "#incredibleindia, #inkmypassport, #manali, #weekend"
+  - username: "mrsshiftless"
     fullname: >-
-      Tithi Dutta
+      Misses Shiftless
     bio: >-
-      PhD scholar #fashionblogger #kolkata #bengali #food #travel #lifestyle #beautytips #cooking
+      🇮🇳Indian 🛵Powerd by aprilia 💏Shiftless Infected ⚠️ @theshiftless 💃Dance 👩‍🍳Cooking 🏸Badminton 👱‍♀️Teacher 👨‍🏫Doing PG 📩 DM for Promotions
     location: "India"
-    followers: 40605
-    engagement: 414
-    commentsToLikes: 0.033980
-    id: ck8t9ueuope4x0j78kl4nrem5
+    followers: 20370
+    engagement: 1293
+    commentsToLikes: 0.019823
+    id: ck0uc55xtg20x0i197vyalylb
     verified: false
-    hashtags: "#wahhkolkata, #indianbeautyblogger, #instakolkata, #indiaclicks"
-  - username: "wannaeat16"
-    fullname: >-
-      Shifa Shiwangi|Food&Lifestyle
-    bio: >-
-      Home Chef|Passionate for cooking 👩‍🍳 Foodie for life 🤤♥️ DM or email for invite/promotion/collab/product review
-    location: "India"
-    followers: 10871
-    engagement: 1165
-    commentsToLikes: 0.206078
-    id: ck8tdq10m4cn00j7852e2zfhs
-    verified: false
-    hashtags: "#hkfoodie, #viralcontent, #foodilysm, #f52grams"
+    hashtags: "#mt15, #kollam, #ducati, #yamahamt09"
   - username: "cookingdiarybygargi"
     fullname: >-
       GARGI SHARMA | JAIPUR
     bio: >-
       Food blogger💕 Dm/mail for invites and collabs📲 Use#cookingdiarybygargi
     location: "India"
-    followers: 21088
-    engagement: 501
-    commentsToLikes: 0.067984
+    followers: 20493
+    engagement: 524
+    commentsToLikes: 0.067201
     id: ckf5mns2sunx60j23e4v9aile
     verified: false
-    hashtags: "#punefoodie, #jaipurbloggers, #delhidiaries, #delhibloggers"
-  - username: "pratscorner"
+    hashtags: "#cookingdiarybygargi, #delhifoodie, #punefood, #delhigram"
+  - username: "jamiehector"
     fullname: >-
-      Prat's Corner
+      Jamie Hector
     bio: >-
-      Passionate about Cooking, Photography and Craft From Kerala🏘️ Currently in Bangalore🌆 Home Chef👩‍🍳 Working 👩‍💻 Wife to a foodie💏
+      Actor/ Stream Bosch on @amazonprime now. Cooking up season 7
     location: "India"
-    followers: 10332
-    engagement: 721
-    commentsToLikes: 0.230900
-    id: ck8t9fa50nvgu0j78myguu2n9
+    followers: 72842
+    engagement: 206
+    commentsToLikes: 0.032582
+    id: ck5caj10cdhzm0i1148s3i9cq
     verified: false
-    hashtags: "#naadanfood, #naadanoonu, #keralameals, #southindian"
-  - username: "cook.and.click"
+    hashtags: "#sundance, #indiewire, #sagaftrafoundation, #jreasonfowkkes"
+  - username: "thechubbyfoodie36"
     fullname: >-
-      Sivapriya
+      Tejashree Godse
     bio: >-
-      An instagram handle with recipes for eggless baking and vegetarian cooking!
+      Vegetarian foodie❤ Forget beer, gulabjam is my intoxication🙋 Love for cooking 💫 DM for collaborations 📍Mumbai, India...
     location: "India"
-    followers: 9823
-    engagement: 977
-    commentsToLikes: 0.052252
-    id: ck8tasku1svxv0j78fo4uh4tc
+    followers: 79588
+    engagement: 531
+    commentsToLikes: 0.017495
+    id: ck5pyokj4x0y20i11nf0rhy91
     verified: false
-    hashtags: "#darkchocolate, #mumbaifoodie, #indianfood, #homebaker"
-  - username: "thefood_lusttales"
+    hashtags: "#indianfood, #mumbai2020, #mumbaifoodie, #lavazzaindia"
+  - username: "cyras.photo.stop"
     fullname: >-
-      Sukanya Bidyanta 🥂
+      Cyra’s Photo Stop
     bio: >-
-      Avid food lover 🍳 🙋Here to introduce all of you to my cooking & eating out spree 🙌🏻 Zomato 11 🥧 Currently Kolkata based 📍 👇👇
+      👫Cyra & Farhan| Sharing Travel & Food Ventures| 🇵🇰 #Islamabad, #Pakistan 🍔 #food ✈️#travel 🇹🇷 🇲🇾🇸🇬🇺🇸🇹🇭🇨🇦🇦🇪🇶🇦 👩‍🍳 #cooking 💌DM for Queries|Photography
     location: "India"
-    followers: 4938
-    engagement: 835
-    commentsToLikes: 0.130378
-    id: ck8t6m7ibe3jp0j786qye4uxp
+    followers: 29684
+    engagement: 336
+    commentsToLikes: 0.075259
+    id: ck9wgwe26va2s0j78gis8unda
     verified: false
-    hashtags: "#tasty, #dinner, #delicious, #homemade"
-  - username: "hyangla_bibi"
+    hashtags: "#islamabaddiaries, #foodphotography, #continentalfood, #salad"
+  - username: "_foodride_"
     fullname: >-
-      Riya D 👩‍🍳
+      Akanksha Singh
     bio: >-
-      Food makes me happpp😃 Bengali from Kolkata,India🇮🇳 Engineer,living by herself in this city & cooking her heart out! Work-Cook-Click-Eat-Sleep-Repeat!😎
+      |a foodie who loves eating & cooking | |I get way too much happiness from food | Mumbai based📍 📸Tag or use#_foodride_ to get featured ↘️DM for collab
     location: "India"
-    followers: 23015
-    engagement: 614
-    commentsToLikes: 0.041447
-    id: ck15rtgb39m900i1954nhqdxf
+    followers: 4049
+    engagement: 1299
+    commentsToLikes: 0.333123
+    id: ck9hbkbvlh7qk0j78qlaiw4fo
     verified: false
-    hashtags: "#bangalorefoodies, #foodphotography, #weekend, #eat"
+    hashtags: "#mumbaifoodblogger, #foodpic, #likesforfollow, #food52"
+  - username: "esha_yahana"
+    fullname: >-
+      Esha Yahana Hussain(runjun)
+    bio: >-
+      A/aleikum🙂🙏i am from🤗🇮🇳 🍜Good food is the foundation of happiness. 👨‍🍳love to #cooking nd good #motivator 👩‍📲dm for any #queries or#colab .
+    location: "India"
+    followers: 5409
+    engagement: 972
+    commentsToLikes: 0.112866
+    id: ckaou51q1ytva0i78ucrey384
+    verified: false
+    hashtags: "#dinner, #cooking, #foodgasm, #foodblogger"
 ---

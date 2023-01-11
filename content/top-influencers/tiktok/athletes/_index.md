@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers in 2023
+title: Top 10 Athletes TikTok Influencers In 2023
 description: >-
-  Find top athletes TikTok influencers in 2023. Most popular hashtags: #fyp #viral #foryoupage #foryou.
+  Find top athletes TikTok influencers in 2023. Most popular hashtags: #fyp #viral #foryoupage #trending.
 platform: TikTok
-hits: 1237
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 1237 TikTok influencers like this for you to collaborate.
+hits: 1272
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 1272 TikTok influencers like this for you to work with.
 profiles:
   - username: "vikashkandola16"
     fullname: >-
@@ -14,117 +14,117 @@ profiles:
       Athlete
     location: "India"
     followers: 12500
-    engagement: 1752
+    engagement: 1751
     commentsToLikes: 0.006596
     id: ckb17qyssveoi0j238eniqmcj
     verified: false
     hashtags: "#pubg"
+  - username: "sadik_hadzovic"
+    fullname: >-
+      Sadik Hadzovic
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 63300
+    engagement: 742
+    commentsToLikes: 0.018188
+    id: ck9kegkrwysvx0j78zzeuzoaf
+    verified: false
+    hashtags: "#exercise, #fitness, #bodybuilding, #workout"
   - username: "rcfitnessworld73"
     fullname: >-
       Rahul Chauhan
     bio: >-
       Athlete
     location: "India"
-    followers: 58800
-    engagement: 1300
-    commentsToLikes: 0.018710
+    followers: 58700
+    engagement: 1298
+    commentsToLikes: 0.018585
     id: ckamslkq9qotn0i78ocb3d9sh
     verified: false
-    hashtags: "#rcfitnessworld, #trending, #foryoupage, #india"
-  - username: "sadikfitness"
-    fullname: >-
-      Sadik Hadzovic
-    bio: >-
-      Athlete
-    location: "United States"
-    followers: 36600
-    engagement: 640
-    commentsToLikes: 0.020144
-    id: ck9kegkrwysvx0j78zzeuzoaf
-    verified: false
-    hashtags: "#fitness, #bodybuilding, #sadikhadzovic, #motivation"
-  - username: "nasandino"
-    fullname: >-
-      nasandino
-    bio: >-
-      Athlete
-    location: "United States"
-    followers: 7302
-    engagement: 868
-    commentsToLikes: 0.034122
-    id: ckcejgzats9sp0j23f7uqraaa
-    verified: false
-    hashtags: "#fyp, #foryou, #basketball, #viral"
-  - username: "tee_higgins5"
+    hashtags: "#fyp, #deadlift, #viral, #achiachilaage"
+  - username: "teehiggins"
     fullname: >-
       Tee Higgins
     bio: >-
       Athlete
     location: "United States"
-    followers: 60200
-    engagement: 1170
-    commentsToLikes: 0.015078
+    followers: 83000
+    engagement: 1143
+    commentsToLikes: 0.014502
     id: ck94l48tmxpge0j7838if7uw2
     verified: true
-    hashtags: "#foryoupage, #fyp, #foryou, #viral"
+    hashtags: "#foryoupage, #foryou, #viral, #fyp"
   - username: "dylan_lambert"
     fullname: >-
       Dylanlambert
     bio: >-
       Athlete
     location: "United States"
-    followers: 17300
-    engagement: 763
-    commentsToLikes: 0.025142
+    followers: 17100
+    engagement: 758
+    commentsToLikes: 0.026258
     id: ckcpf2fk9gkln0j23kglvznrf
     verified: false
-    hashtags: "#trackandfield, #foryoupage, #running, #fyp"
-  - username: "mouseketeerjonathan"
+    hashtags: "#viral, #trackandfield, #running, #athlete"
+  - username: "aaronandarcher"
     fullname: >-
-      Jonathan
+      Aaron and Archer
     bio: >-
-      The official account of MouseketeerJonathan. Athlete, Zumba Instructor, Teacher
+      A guy and his dog @blackriflecoffee code “Archer” @valorfitness Athletes
     location: "United States"
-    followers: 294800
-    engagement: 1955
-    commentsToLikes: 0.028324
-    id: ckcpttx2lonxr0j23bwxwpowe
+    followers: 505200
+    engagement: 1478
+    commentsToLikes: 0.040380
+    id: ck8qkrbsnihvv0j7869cf62c0
     verified: false
-    hashtags: "#duet, #mouseketeerjonathan, #acting, #fyp"
-  - username: "neeekaa_"
+    hashtags: "#batdog, #lol, #dogsareawesome, #welcomeback"
+  - username: "barbiemonsterl"
     fullname: >-
-      NEEK MILLY
+      Roji Lama
     bio: >-
-      T&F ATHLETE I make custom wigs [ IG @unitsbyneek ] Personal IG @neeekaa_ 💕
-    location: "United States"
-    followers: 29900
-    engagement: 1629
-    commentsToLikes: 0.075513
-    id: ckbeq6w8c7jgo0j23c3xmg9h7
+      Athlete 🇳🇵 women's physique Insta:@roji_pakhrin_fitness Trainer
+    location: "Nepal"
+    followers: 4852
+    engagement: 2453
+    commentsToLikes: 0.113145
+    id: ckbf53mwotugl0j233v1fane3
     verified: false
-    hashtags: "#motivationmonday, #fyp, #unitsbyneek, #xyzbca"
-  - username: "armon.figs"
+    hashtags: "#nepal, #selflovebestlove, #purplehair, #bodytransformation"
+  - username: "isaiah.hudgens"
     fullname: >-
-      Randynyc💫
+      Isaiah H
     bio: >-
-      yung_obj13👻 Athlete 📍 nycthelabel 🗽
+      20 Child of God Athlete Professionally broke
     location: "United States"
-    followers: 2267
-    engagement: 2364
-    commentsToLikes: 0.134219
-    id: ckbw82wpoz1r90j23yost3ai2
+    followers: 113600
+    engagement: 2068
+    commentsToLikes: 0.033451
+    id: ck9nfb1yke9ej0j780gol8jdt
     verified: false
-    hashtags: "#gardenproject, #stemlife, #10secondsvs, #viral"
+    hashtags: "#valentinesday, #duet, #trackandfield, #polevault"
   - username: "danger_racer__"
     fullname: >-
       ⚔️ Aᴿᴹᵞ    LØᵛᴱᴿ ⚔️
     bio: >-
       ༒ĐΔ₦G€Řシ Athlete 1500m Iᴹ.. iᴺᶜᴼᴹᴾᴸᴱᵀᴱ.. Wiᵀᴴᴼᵁᵀ... Yøᵁ. ..Aᴿᴹᵞ.
     location: "India"
-    followers: 2790
-    engagement: 2355
-    commentsToLikes: 0.081473
+    followers: 2787
+    engagement: 2351
+    commentsToLikes: 0.081992
     id: ckbqsucjjdn6c0j23uk5ny2d3
     verified: false
-    hashtags: "#jaihind, #photomagic, #army, #ilovemyindia"
+    hashtags: "#photomagic, #viral, #edutok, #danger"
+  - username: "oscarlynch25"
+    fullname: >-
+      oscarlynch™️
+    bio: >-
+      follower of Christ positive vibes athlete
+    location: "United States"
+    followers: 23900
+    engagement: 2103
+    commentsToLikes: 0.028063
+    id: ckcdym9pggre20j23jhcj1lcg
+    verified: false
+    hashtags: "#christisking, #love, #positivevibes, #jesus"
 ---

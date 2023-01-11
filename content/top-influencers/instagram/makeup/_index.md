@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers in 2023
+title: Top 10 Makeup Instagram Influencers In 2023
 description: >-
-  Find top makeup Instagram influencers in 2023. Most popular hashtags: #makeup #undiscovered #makeupartist.
+  Find top makeup Instagram influencers in 2023. Most popular hashtags: #makeup #fallmakeup #makeuplooks.
 platform: Instagram
-hits: 80124
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 80124 Instagram influencers like this for you to contact.
+hits: 71580
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 71580 Instagram influencers like this for you to contact.
 profiles:
-  - username: "haya.husseinn"
+  - username: "baileysarian"
     fullname: >-
-      haya hussien
+      Bailey Sarian  🥀
     bio: >-
-      Amman/Dubai 🌃 Makeup Artist 💄 Al Mamlakah TV 📺 DM for Inquiries
-    location: "United Arab Emirates"
-    followers: 2609
-    engagement: 1102
-    commentsToLikes: 0.049599
-    id: ck5qdug14xdcq0i1196ia6p2h
-    verified: false
-    hashtags: "#makeup"
-  - username: "makeup"
-    fullname: >-
-      @makeup
-    bio: >-
-      Makeup tutorials & tips 💄💋
-    location: ""
-    followers: 251269
-    engagement: 191
-    commentsToLikes: 0.022387
-    id: ck0w77volc78i0i192jb7r3zz
+      Ms. Murder, Mystery, & Makeup • Dark History • 👇🏼 * New Video * & My Social Links :
+    location: "United States"
+    followers: 2984315
+    engagement: 663
+    commentsToLikes: 0.007988
+    id: ck0tu62zw5sxv0i19qevjyufa
     verified: false
     hashtags: ""
-  - username: "jewska.makeup"
+  - username: "vanessa_gyimah"
     fullname: >-
-      Jewska Makeup
+      Vanessa | Beauty Influencer 🇬🇭🇺🇸
     bio: >-
-      🎨Self-taught makeup artist in progress 📩 jewska.makeup@gmail.com 🇵🇱 Wrocław, Poland
-    location: "Poland"
-    followers: 3950
-    engagement: 3277
-    commentsToLikes: 0.219874
-    id: ck5qdwruaxnx10i113sbecb9m
+      💄 Published Pro Makeup Artist 📧 : vanessagyimah@a3artistsagency.com
+    location: "United States"
+    followers: 456301
+    engagement: 975
+    commentsToLikes: 0.010222
+    id: ck0tzwjz8rqss0i19txvjjzwi
     verified: false
-    hashtags: "#plouisebase, #rozdaniekosmetyczne, #konkurs, #makeupaddict"
-  - username: "la_sussi_"
+    hashtags: "#fallmakeup, #igreels, #makeuplooks, #juviasplacepartner"
+  - username: "soph"
     fullname: >-
-      Gonzalo Gervilla Limon
+      Sophie
     bio: >-
-      🔥MakeUp Artist🔥
-    location: "Spain"
-    followers: 3254
-    engagement: 3140
-    commentsToLikes: 0.141739
-    id: ck6tqxe2pv7yo0j711l48gtma
-    verified: false
-    hashtags: ""
-  - username: "yasssmachado"
-    fullname: >-
-      𝔜𝔞𝔰𝔪𝔦𝔫 𝔐𝔞𝔠𝔥𝔞𝔡𝔬
-    bio: >-
-      • Makeup Artist | Metal | Geek ✨ • 071 📍 • 📧 yasmindahoraa@gmail.com
-    location: "Brazil"
-    followers: 5287
-    engagement: 2931
-    commentsToLikes: 0.131081
-    id: ck8t87w5zje0t0j78usiprw3o
-    verified: false
-    hashtags: "#blackmetalgirl, #halloweenmakeup, #gothgirl, #makeuplook"
-  - username: "antoniyayaneva"
-    fullname: >-
-      
-    bio: >-
-      🌴Aloha👋😬 💌 DM for collabs 🧬Medical University Sofia 🖌Certified Makeup artist @angelbeautybulgaria
-    location: ""
-    followers: 5018
-    engagement: 2589
-    commentsToLikes: 0.316132
-    id: ckaots5cnx9ec0i78lj5knm8b
-    verified: false
-    hashtags: "#followmyself, #fashiondays, #fashiondaysbg, #littleblackdresses"
-  - username: "fashmakeup_blog"
-    fullname: >-
-      Martha Lorena Acevedo JW
-    bio: >-
-      Content Creator ✨ Makeup obsessed & skincare lover! Fashion is my passion as well✨ Miami,Florida. PR Friendly 💌 Email: martitamigos@yahoo.es
+      UK 🇬🇧 Youtube 📷 sophdoeslife Makeup, fashion, lifestyle, travel ☀️ 📩soph@mcsaatchisocial.com Shop Soph x Revolution now!
     location: "United Kingdom"
-    followers: 5672
-    engagement: 2562
-    commentsToLikes: 0.270516
-    id: ck5c6oj815vam0i11m64tw265
+    followers: 436537
+    engagement: 459
+    commentsToLikes: 0.006437
+    id: ck0vx9o1cxusa0i19inq24px6
     verified: false
-    hashtags: "#noracora, #sponsorship, #outiftoftheday, #octolyfamily"
-  - username: "mr.andre.fernandes"
+    hashtags: "#christmas, #makeup, #rarebeauty, #17cosmetics"
+  - username: "i.am.chanice"
     fullname: >-
-      André 🎨
+      I Am Chanice
     bio: >-
-      💋 Makeup Artist (DM for info) 📍 Lisboa | Portugal 📧 afgfernandes@gmail.com 📺 ÚLTIMO VÍDEO ⤵️
-    location: "Portugal"
-    followers: 10137
-    engagement: 2558
-    commentsToLikes: 0.903432
-    id: ck8tduw344uvg0j78zgfznyqt
+      Content Creator | Model | Hair Stylist | Makeup Artist 🇬🇧 London, UK ✉️ Email for PR/Collabs i.am.chanice1@gmail.com
+    location: "United Kingdom"
+    followers: 37872
+    engagement: 545
+    commentsToLikes: 0.049951
+    id: ck6u5qez8b4pa0j71cg1x0l13
     verified: false
-    hashtags: "#katyperry, #malemua, #pastelmakeup, #nyxcosmetics"
-  - username: "mrsmlw_"
+    hashtags: "#blackhaircare, #lacefront, #congolaise, #rdcongo"
+  - username: "frishtag_"
     fullname: >-
-      𝐎̈ 𝐙 𝐆 𝐄  ♥
+      Frishta G
     bio: >-
-      Mommy of three ❥ #zwillingsmama // pro makeup artist @mrsmlwcosmetics // wifey to @maroquinox ✨🤲🏻
-    location: "Germany"
-    followers: 2397
-    engagement: 2453
-    commentsToLikes: 0.152220
-    id: ckaos4627q0200i789z5s6xac
+      The girl that does the makeup transitions🤳 @frishtaxx on tiktok Contact: frishta@thebloggeragent.co.uk
+    location: "United States"
+    followers: 107704
+    engagement: 1768
+    commentsToLikes: -0.794181
+    id: cl7mks3m7vsx60i23f57ty9u7
     verified: false
-    hashtags: "#liebe, #mamablogger, #girls, #mamaleben"
-  - username: "gianna_karamani"
+    hashtags: "#fashion, #macchilicrew, #winter, #maccrew"
+  - username: "ellieekellyy"
     fullname: >-
-      Gianna Karamani
+      ELLIEKELLY
     bio: >-
-      💌 Pr : giannakaramanh@gmail.com 💞Obsessed with makeup 👩‍👧Mommy of baby Ellie 💄 YOUTUBE CHANNEL👇
+      fashion • makeup • lifestyle @iconmanagement.ie co-host of hold my drink podcast🎙✨ Shop EK Eyewear below⬇️
+    location: "France"
+    followers: 293521
+    engagement: 431
+    commentsToLikes: 0.030517
+    id: ck0w2y0dpqoho0i19uyvmvrcc
+    verified: false
+    hashtags: "#ad, #ba, #makeupartist, #elliekelly"
+  - username: "joanna.james"
+    fullname: >-
+      Jo
+    bio: >-
+      Somewhere in a bikini 👙 @makeupbymiraclej Tiktok 130k+
+    location: "United States"
+    followers: 28261
+    engagement: 957
+    commentsToLikes: 0.028582
+    id: ck5q57sxarppp0i11n653tucp
+    verified: false
+    hashtags: "#floridaphotographer, #christmasphotoshoot, #christmasoutfitideas, #merrychristmas"
+  - username: "stateofkait"
+    fullname: >-
+      Kait Gardner | beauty youtuber & vlogger
+    bio: >-
+      Honest reviews, easy makeup, daily IG stories, & life with hEDS, Dysautonomia, & POTS 💌me@stateofkait.com YouTube channel and discount codes 👇🏻
+    location: "United States"
+    followers: 12972
+    engagement: 443
+    commentsToLikes: 0.139214
+    id: ckvb784ol5ymb0j23zlk89mj0
+    verified: false
+    hashtags: "#ad"
+  - username: "madeupbykaty"
+    fullname: >-
+      Katie Herron
+    bio: >-
+      💄 Makeup & Beauty | Photography | Content Creation 💌 Business/PR: madeupbykaty@gmail.com 📍 Ireland
     location: ""
-    followers: 23323
-    engagement: 2287
-    commentsToLikes: 0.787318
-    id: ck5q3zuern3x80i11x51bgxo8
+    followers: 101868
+    engagement: 3083
+    commentsToLikes: 0.014817
+    id: cl4f68d6epj520i23u6dx2foy
     verified: false
-    hashtags: "#giveaway, #cozy, #smashboxgreece, #homesweethome"
+    hashtags: "#fallmakeup, #chanelbeauty, #makeupideas, #grungemakeup"
+  - username: "roedaxacmas_makeup"
+    fullname: >-
+      Makeup & skincare roedaxacmas
+    bio: >-
+      •makeup lover •Makeup , Skin care ✨ •USA🇺🇸-🇲🇽 •latina 💖💍 •36 78714
+    location: "United States"
+    followers: 12608
+    engagement: 660
+    commentsToLikes: 0.019636
+    id: ck6u0czcteyup0j71lw6unjg2
+    verified: false
+    hashtags: "#skeepersfamily, #giftme, #reelsinstagram, #mua"
 ---

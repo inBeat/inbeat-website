@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Colombia in 2023
+title: Top 10 Yoga Instagram Influencers In Colombia In 2023
 description: >-
-  Find top yoga Instagram influencers in Colombia in 2023. Most popular hashtags: #yoga #yogainspiration #yogalife #cuarentena.
+  Find top yoga Instagram influencers in Colombia in 2023. Most popular hashtags: #yoga #meditacion #bienestar #salud.
 platform: Instagram
-hits: 53
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 53 Instagram influencers like this in Colombia for you to pitch.
+hits: 34
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 34 Instagram influencers like this in Colombia for you to pitch.
 profiles:
   - username: "ania17art"
     fullname: >-
-      ania17art
+      ania17art.yoga
     bio: >-
-      Empresaria @panamaluxurygardens Yoga y Mas Youtube 📽📺 Ania Moreno. Yoga/crecimiento personal/recetas/ jardinería.
+      @panamaluxurygardens Alma libre💚 Yoga / Recetas / naturaleza /jardinería
     location: "Colombia"
-    followers: 9250
-    engagement: 924
-    commentsToLikes: 0.079738
+    followers: 9945
+    engagement: 959
+    commentsToLikes: 0.089889
     id: ckaoyhmybhke40i78yljrwual
     verified: false
-    hashtags: "#delicious, #tropical, #panama, #ania17art"
+    hashtags: "#sol, #instagood, #instapanama, #delicious"
   - username: "zuzana_klingrova"
     fullname: >-
       Zuzana Klingrova
     bio: >-
       Yoga teacher & therapist 💛Yoga&travel Autor 📚Jóga po celý rok, Jóga proti úzkosti a strachu Podcast: Povídání nejen o józe
     location: "Colombia"
-    followers: 31398
-    engagement: 1027
-    commentsToLikes: 0.015151
+    followers: 33658
+    engagement: 699
+    commentsToLikes: 0.033855
     id: ck14ilv5yg22q0i19wu5yhqi6
     verified: false
-    hashtags: "#jogadnes, #joganapohodu, #spoluprace, #yoga"
+    hashtags: "#jogadnes, #joga, #darek, #mixtee"
   - username: "deluzsemilla"
     fullname: >-
       cyan 🌙ॐ ~ yoga & bienestar
     bio: >-
-      ✨Profesora de Kundalini Yoga✨ ~ Yoga | Plantas | Bienestar ~ 🍯 encontrando la dulzura mamá de Sue 🌞 mi sol
+      ✨Profesora de Kundalini Yoga✨ ~ Yoga | Plantas | Bienestar ~ mamá de Sue 🌞 mi sol ✨⬇️LINK APP DE MEDITACIÓN GUIADA⬇️🌞
     location: "Colombia"
-    followers: 5483
-    engagement: 1047
-    commentsToLikes: 0.103234
+    followers: 61381
+    engagement: 1715
+    commentsToLikes: 0.013835
     id: ck6u1ajahkl4f0j7175jmootb
     verified: false
-    hashtags: "#challengeaccepted"
-  - username: "layogini"
-    fullname: >-
-      𓋹 SOY ALEXANDRA 𓂀
-    bio: >-
-      🔮 Desmitifico la Espiritualidad Mi misión es inspirarte a vivir una vida auténtica, llena de magia y buena vibra! Maestría Online de Yoga 🌺 ⏬
-    location: "Colombia"
-    followers: 50467
-    engagement: 119
-    commentsToLikes: 0.034980
-    id: ck600z4kkejop0i14pdbrfv7o
-    verified: false
-    hashtags: "#viajes, #colombiatravel, #travel, #santander"
+    hashtags: "#dreamself, #yogacolombia, #diainternacionaldelyoga, #saludmental"
   - username: "justincaruso"
     fullname: >-
       Justin Caruso
     bio: >-
-      Over a decade teaching AcroYoga, Thai massage & yoga intensives, retreats and teacher trainings around the world. Founder @modernthaischool 📍Medellin
+      Decade+ teaching AcroYoga, bodywork & yoga intensives, retreats & teacher trainings worldwide Founder @modernthaischool 📍Medellin 🏊🏼‍♂️🧘🏼‍♂️🙌🏼🕺🏼🗽🌄🛀🏾 🗺
     location: "Colombia"
-    followers: 20469
-    engagement: 189
-    commentsToLikes: 0.065966
+    followers: 19527
+    engagement: 199
+    commentsToLikes: 0.062987
     id: ck5hggcoe2mgy0i11ypi3zbuh
     verified: false
-    hashtags: "#brasil, #acroyoga, #medellin, #yogacolombia"
-  - username: "susanatorres.a"
+    hashtags: "#acroyoga, #yoga, #colombia, #impresionante"
+  - username: "layogini"
     fullname: >-
-      Susana Torres Arenas
+      𓋹 ALEXANDRA 𓂀 La Yogini
     bio: >-
-      👩🏻‍💻 Comunicación & Mercadeo ⚡️ Co-founder @vamoscontoda.co 🏅 Triatleta y aprendiz de yoga 🇨🇴 Medellín
+      ✨ 𝐃𝐞𝐬𝐦𝐢𝐭𝐢𝐟𝐢𝐜𝐨 𝐥𝐚 𝐄𝐬𝐩𝐢𝐫𝐢𝐭𝐮𝐚𝐥𝐢𝐝𝐚𝐝 🧘🏻‍♀️ Cursos Online: Yoga, Astro, Magick, Tarot, Meditación y Cristales ✨ Yoga Trainings 🧘🏻‍♂️ MINDSET MENTORSHIP👇🏼
     location: "Colombia"
-    followers: 3602
-    engagement: 871
-    commentsToLikes: 0.068309
-    id: ck6u37jjew6pe0j7114ep0uvd
+    followers: 51529
+    engagement: 131
+    commentsToLikes: 0.040040
+    id: ck600z4kkejop0i14pdbrfv7o
     verified: false
-    hashtags: "#teamvamoscontoda, #yogacontoda, #yogainspiration, #yogaposes"
-  - username: "patriciahurtadod"
+    hashtags: "#yogateachertraining, #yogacolombia, #bienestar, #meditacion"
+  - username: "changeyourlifewmel"
     fullname: >-
-      Pat 🌱🌺🍌✨🌸🦋🌻🌴
+      Melissa 🌶
     bio: >-
-      sun, waves, yoga, plants, love. 🌊🌊 Colombiana 📚Cornell Plant Based certificate. ❤️IIN health coach
+      Fitness | Lifestyle ✨🧿👩🏻‍🎓 🇨🇴 - NY 📌
     location: "Colombia"
-    followers: 10901
-    engagement: 723
-    commentsToLikes: 0.019575
-    id: ck5hp1mfaqlps0i11txfpm9qv
+    followers: 5065
+    engagement: 1069
+    commentsToLikes: 0.054493
+    id: ck8t1veuhx6sp0j7825w41la7
     verified: false
-    hashtags: "#iamunprocessed, #vegan, #playtime, #raw"
-  - username: "carolinaecovida"
+    hashtags: "#shredded, #colombianwomen, #fitnessmotivation, #physique"
+  - username: "silvanatorresc"
     fullname: >-
-      𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐆𝐨𝐧𝐳𝐚𝐥𝐞𝐳
+      Silvana Torres
     bio: >-
-      𝙿𝚎𝚛𝚒𝚘𝚍𝚒𝚜𝚝𝚊 |𝙰𝚌𝚝𝚒𝚟𝚒𝚜𝚝𝚊 & 𝙴𝚌𝚘𝚕𝚘𝚐𝚒𝚜𝚝𝚊 | 𝚙𝚛𝚊𝚗𝚊 𝚟𝚒𝚗𝚢𝚊𝚜𝚊 𝚢𝚘𝚐𝚒𝚗𝚒| 𝚜𝚙𝚎𝚊𝚔𝚎𝚛 |𝚟𝚒𝚊𝚓𝚎𝚛𝚊| @yogatribepv // @prem_darma
+      ᴍᴇ ɪɴꜱᴘɪʀᴀ ʟᴀ ᴠɪᴅᴀ✨ 🌱 acción(ando) un mundo mejor 🧘🏻 cuerpo, alma y bien-estar 🌙 lugares con magia ⛅️ pedacitos de cielo CEO @blinkcol ⚡️
     location: "Colombia"
-    followers: 28407
-    engagement: 139
-    commentsToLikes: 0.029886
-    id: ck6u1n4gimqbd0j71hqhpbbv5
+    followers: 75239
+    engagement: 258
+    commentsToLikes: 0.009633
+    id: ck8szkkltosyz0j78zgihygnz
     verified: false
-    hashtags: "#cuarentena, #quedateencasa, #tardesdebienestar, #crecimientopersonal"
-  - username: "jacobofranco"
+    hashtags: "#yoga, #travel, #ejecafetero, #colombia"
+  - username: "vero__ospina"
     fullname: >-
-      Jacobo Franco | Lifestyle
+      Vero Ospina
     bio: >-
-      📍Medellin 🔥 Pasión por las películas, series, música y yoga @codiscos | Caza talentos 🌈 #loveislove
+      Respira, respira, respira 🍃🌬 Guía de bienestar📖 @atmavillas
     location: "Colombia"
-    followers: 18069
-    engagement: 238
-    commentsToLikes: 0.169579
-    id: ck55klcw4zkxq0i11389cxfwv
+    followers: 47735
+    engagement: 262
+    commentsToLikes: 0.042843
+    id: ck136gciz6d2g0i19pezkgsqq
     verified: false
-    hashtags: "#musica, #fotografia, #salsa, #covid"
-  - username: "sarahschmidtinside"
+    hashtags: "#pranayama, #bienestar, #justbreathe, #meditar"
+  - username: "natygaravitoa"
     fullname: >-
-      INSIDE BY SARAH
+      Natalia Garavito ✨
     bio: >-
-      Diseñadora de Espacios Escenario Maestra de Vinyasa Krama Yoga Líder en Mindfulness Plant based 🌱 Contenido exclusivo aquí
+      Abogada | PUJ ✨@nataliaangel33 💕
     location: "Colombia"
-    followers: 125573
-    engagement: 124
-    commentsToLikes: 0.017098
-    id: ck6u9fctbx8na0j71f6b9i5nw
+    followers: 716
+    engagement: 4304
+    commentsToLikes: 0.092587
+    id: ckaoznu8fmlt30i781vylujhi
     verified: false
-    hashtags: "#newage, #onelove, #tattoo, #encasa"
+    hashtags: "#concienciaplena, #mujerholistica, #motivacion, #bienestar"
+  - username: "endocrinorosero"
+    fullname: >-
+      Endocrino Rosero
+    bio: >-
+      👉🏻Comida real para personas reales| ✍️Autor : Meta Alimentación | Médico Endocrinólogo Experto en metabolismo🧬|🇨🇴| Información sobre EndocrinoRosero👇
+    location: "Colombia"
+    followers: 504079
+    engagement: 268
+    commentsToLikes: 0.039558
+    id: ck8sz2e86mwzd0j788xvt7vyr
+    verified: false
+    hashtags: "#dieta, #keto, #nutricion, #saludable"
 ---

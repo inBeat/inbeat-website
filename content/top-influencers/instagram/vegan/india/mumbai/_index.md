@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Mumbai in 2023
+title: Top 10 Vegan Instagram Influencers In Mumbai In 2023
 description: >-
-  Find top vegan Instagram influencers in Mumbai in 2023. Most popular hashtags: #mumbai #instagood #vegan #love.
+  Find top vegan Instagram influencers in Mumbai in 2023. Most popular hashtags: #foodphotography #reelsinstagram #foodporn #vegan.
 platform: Instagram
-hits: 173
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 173 Instagram influencers like this in Mumbai, India for you to contact.
+hits: 85
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 85 Instagram influencers like this in Mumbai, India for you to contact.
 profiles:
-  - username: "feastnfly_withbrownblond"
+  - username: "savorytales"
     fullname: >-
-      K.Priya
+      Richa
     bio: >-
-      🇮🇳🇦🇪🇲🇾🇮🇩🇺🇸 Food/Travel/Lifestyle. Eating on my way across the world. Currently : 📍PUNE DM for collaborations
+      IFBA Awards - Best Instagram-Recipe Orange Flower Award Best #foodgram Runner Up Canon #eosinfluencer #featured Femina India, Tripoto, Travel+Leisure
     location: "India"
-    followers: 6052
-    engagement: 607
-    commentsToLikes: 0.353021
-    id: ck9wek3qrkmd30j78lyeguski
+    followers: 45236
+    engagement: 91
+    commentsToLikes: 0.251796
+    id: ck13cmjmm12zq0i19fvqnun7j
     verified: false
-    hashtags: "#puneinstagrammers, #indiansindubai, #instagrammer, #foodporn"
-  - username: "_._wicky"
+    hashtags: "#foodstyling, #easyrecipes, #mumbaifoodbloggers, #foodblogger"
+  - username: "hetankshi.sejpal"
     fullname: >-
-      !rrrfn👅
+      FOOD O' MANIA - Hetankshi
     bio: >-
-      HU.men 16 |ᴍᴏᴍ=ʜᴀᴘᴘɪɴᴇss 💖|
+      || Food Blogger || Zomato:Level 12😇 Google: level 8 22+ Lakhs views on Google.🙀 Handled by @hetankshi_13
     location: "India"
-    followers: 3715
-    engagement: 2666
-    commentsToLikes: 0.249633
-    id: ck8tck0v0zoke0j784t170eb5
+    followers: 6588
+    engagement: 294
+    commentsToLikes: 0.052904
+    id: ckapae73nvqsd0i78t23wzk3g
     verified: false
-    hashtags: "#godsowncountry, #keralagram, #photography, #vintage"
-  - username: "thefoodattacker"
+    hashtags: "#delhifood, #foodindia, #homemadefood, #foodphotography"
+  - username: "thecharupatil"
     fullname: >-
-      🤓 KARAN SINGHAL 🤓
+      Charu Patil | Brand Consultant
     bio: >-
-      90% vegetarian 😁😁 Meetha is LUB Delhi DM - Invite/Promo/Hotel/Food/Travel
+      Beauty 🔹Fitness🔹 Fashion🔹 Dm/ Mail for collabs 📍Pune / Bangalore India 🇮🇳 Co-founder- @balwantfoundation #bangalorefashionblogger
     location: "India"
-    followers: 156518
-    engagement: 152
-    commentsToLikes: 0.056165
-    id: ck14kmjdaq93q0i19f22vyxgr
+    followers: 22019
+    engagement: 164
+    commentsToLikes: 0.021563
+    id: ck5zsv3iwz8m50i146qf51yfu
     verified: false
-    hashtags: "#dessertporn, #foodgram, #dillifoodies, #chocolate"
-  - username: "s_n_e_h_a_p_a_l"
+    hashtags: "#sustainablefashion, #casuallook, #styleinspo, #opareviews"
+  - username: "themumbaigourmand"
     fullname: >-
-      SNEHA
+      The Mumbai Gourmand
     bio: >-
-      Fashion Designer|Stylist|Beauty|Fashion|Lifestyle Blogger Email/Dm for collab & promotions 💌:snehapal.10@gmail.com Private:@justbesneha
+      Eat. Eat. Eat. Repeat. ✴️ Always Hungry. Sometimes Drunk. 🙃 Zomato 13 10k+ 🤩 Google & Trip Advisor 🌉 Photos on #TeamPixel 📸 DM/Mail to connect 📩
     location: "India"
-    followers: 14484
-    engagement: 651
-    commentsToLikes: 0.186809
-    id: ck8sxzgx1j7mm0j78yll16c77
+    followers: 11306
+    engagement: 375
+    commentsToLikes: 0.176445
+    id: ck8tc35e1y4ac0j78h7x6a40n
     verified: false
-    hashtags: "#reelsinstagram, #influencerstyle, #instamood, #plixxoinfluencer"
-  - username: "handlewithcurve"
+    hashtags: "#delhifood, #chickencurry, #delhifoodie, #mumbaifoodie"
+  - username: "thefooddestination"
     fullname: >-
-      PRACHI JASANI🦄
+      
     bio: >-
-      •Fashion👗•Makeup💕•Lifestyle✨ Sharing My Crazy Curvy Life Here🍉 ➡️Turn On The Notification & Join In The Curvy Movement👓 DM / Mail For Collabs
+      📍 Gurgaon | Delhi A Curious soul finding happiness in exploring 🧭 Food 🍜 | Health🥑 | Travel ✈️
     location: "India"
-    followers: 16012
-    engagement: 517
-    commentsToLikes: 0.072222
-    id: ckap6vtpzhk4j0i78u29eqt3d
+    followers: 24580
+    engagement: 382
+    commentsToLikes: 0.030771
+    id: ck15sqyi3edts0i19mrpgxvp9
     verified: false
-    hashtags: "#makeupartist, #bridesmaids, #wakeupandmakeup, #bridalwear"
-  - username: "in.her.wardrobe"
+    hashtags: "#f52grams, #sodelhi, #delhifoodie, #kolkatadiaries"
+  - username: "spicyx_official"
     fullname: >-
-      Meghna Govindaraju
+      Fizzy_Official®
     bio: >-
-      👛Fashion & Style Blogger 🧬 V I B E P I N K 🎓Fashion Graduate from NIFT ✉️DM for Collaboration 🎀#styling #fashionblogger 💌meghna.govindaraju@gmail.com
+      😍Nurse Spanked My Ass On 7 Jan🤣 👿Ceo&Founder Of Prsxw3b & Fla5h Army Offcial 😎Belive In Your Self Waana party ? Come Here @mybarheadquarters
     location: "India"
-    followers: 22105
-    engagement: 138
-    commentsToLikes: 0.104482
-    id: ck15uoo75o6kx0i19hy3nk7iu
+    followers: 39621
+    engagement: 131
+    commentsToLikes: 0.020598
+    id: ck8t5s0irb1f00j78251ouq7y
     verified: false
-    hashtags: "#indianfashionblogger, #indianfashion, #instagramreels, #hyderabadfashion"
-  - username: "punefoodhunt"
+    hashtags: "#picoftheday, #itz, #photography, #indian"
+  - username: "babelicious_indiana"
     fullname: >-
-      Pune Food Hunt
+      𝗗𝗥.𝗥𝗜𝗧𝗨 𝗦𝗜𝗡𝗚𝗛 𝗬𝗔𝗟𝗔𝗚𝗜 | 𝘍𝘈𝘚𝘏𝘐𝘖𝘕 & 𝘓𝘐𝘍𝘌𝘚𝘛𝘠𝘓𝘌
     bio: >-
-      Food and Travel Blogger Compassionate Animal Lover Hunting for the best of what Pune has to offer! Vegetarian DM or E-mail for Enquiries.
+      🦷 𝗗𝗘𝗡𝗧𝗜𝗦𝗧 Owner @dr.ritusdentalstudio 📍𝕄𝕌𝕄𝔹𝔸𝕀 Travel | Beauty | Luxury 📩 𝐬𝐦𝐚𝐫𝐭.𝐝𝐞𝐧𝐭𝐢𝐬𝐭𝟏𝟗𝟗𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 “𝘘𝘜𝘈𝘓𝘐𝘛𝘠 𝘪𝘯 𝘌𝘷𝘦𝘳𝘺 𝘬𝘪𝘯𝘥 𝘰𝘧 𝘈𝘋𝘝𝘌𝘙𝘛𝘐𝘚𝘌”
     location: "India"
-    followers: 27099
-    engagement: 283
-    commentsToLikes: 0.013852
-    id: ck0u63jy50xys0i19huqp49l4
+    followers: 60203
+    engagement: 365
+    commentsToLikes: 0.017261
+    id: ck5bxlj67nygn0i11l5uuez5r
     verified: false
-    hashtags: "#igfood, #puneblogger, #quarantine, #southindian"
-  - username: "savour.n.binge"
+    hashtags: "#explore, #trendingreels, #ad, #posesforpictures"
+  - username: "poojakhemi"
     fullname: >-
-      Srishti| Food Influencer
+      Poojakhemi
     bio: >-
-      |Food Influencer| Product Reviewer| Content Creator #Storyteller Textile Technologist| IIM Kozhikode Mumbai
+      Motherhood, self love & more❤️ Reels & IGTV for baby food & tips 👶🏻 Ahmedabad/Surat 🏠 DM or Mail for Collaboration 💯
     location: "India"
-    followers: 9372
-    engagement: 892
-    commentsToLikes: 0.164669
-    id: ck9hcmc7wm0ks0j78dyq9ctop
+    followers: 40158
+    engagement: 143
+    commentsToLikes: 0.015661
+    id: ck8wegfx4e0nd0j7820gap21h
     verified: false
-    hashtags: "#fooddiaries, #quarantinechef, #indianfoodblog, #mumbai"
-  - username: "thealluringchic"
+    hashtags: "#babyboy, #navratri, #momsonlove, #momson"
+  - username: "myfoodcrushh"
     fullname: >-
-      Chaitra Poojary | Creator
+      Naman Pandey
     bio: >-
-      | Fashion | Beauty | Makeup | Senior Environmental Officer 📍 Mumbai 💌 chaitrapoojary26@gmail.com
+      Youtube - 65k+Subs 😍 New video every Tuesday and Friday 📹 12M+ views on Google-L8😚 No repost without Permission❌ Use #myfoodcrushh to get featured❤️
     location: "India"
-    followers: 29895
-    engagement: 55
-    commentsToLikes: 0.485461
-    id: ck5q39cwyjusc0i11mnt74cm6
+    followers: 36077
+    engagement: 922
+    commentsToLikes: 0.008620
+    id: ckaoz8g6rktw60i78saa60q4u
     verified: false
-    hashtags: "#plixxoinfluencer, #reelkarofeelkaro, #explorepage, #explore"
-  - username: "the_crazy_indian_chef"
+    hashtags: "#myfoodcrushh, #momos, #yummyinmytummy, #reels"
+  - username: "foodie.karan"
     fullname: >-
-      Punam | Food & Lifestyle
+      Karan Singh | ItsAllAboutFood
     bio: >-
-      Food & Lifestyle, Food Photographer X Styling, DM for food tasting and collaborations 👍✌
+      FoodBlogger | Content Creators Use #Foodbykaran To Got Featured 🌟 DM/Mail (For Paid) Collabs Promotions, Reviews, PR 📩deepmani023@gmail.com
     location: "India"
-    followers: 7530
-    engagement: 277
-    commentsToLikes: 0.069875
-    id: ckap0obber60w0i78sgy46j7l
+    followers: 24086
+    engagement: 471
+    commentsToLikes: 0.055189
+    id: ck9wf901dnr370j78z3ibdsvr
     verified: false
-    hashtags: "#instafood, #foodlover, #mumbai, #love"
+    hashtags: "#delhi, #delhigram, #foodmaniacindia, #omnomnomnom"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Russia in 2023
+title: Top 10 Christian Instagram Influencers In Russia In 2023
 description: >-
-  Find top christian Instagram influencers in Russia in 2023. Most popular hashtags: #love #beautiful #happy.
+  Find top christian Instagram influencers in Russia in 2023. Most popular hashtags: #model #dubai2020 #wow.
 platform: Instagram
-hits: 76
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 76 Instagram influencers like this in Russia for you to connect with.
+hits: 88
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat has 88 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "ariunamunku"
-    fullname: >-
-      арюна.
-    bio: >-
-      18|christian|singer|creator ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ телеграм канал
-    location: "Russia"
-    followers: 21070
-    engagement: 1410
-    commentsToLikes: 0.050443
-    id: ck5q7b5a40pdd0i11paixrg3v
-    verified: false
-    hashtags: "#andro, #se, #shawnmendes, #camillacabello"
   - username: "makarychevaar"
     fullname: >-
-      𝗺𝘆 𝗻𝗮𝗺𝗲 𝗔𝗿𝗶𝗻𝗮 𝗠𝗮𝗸𝗮𝗿𝘆𝗰𝗵𝗲𝘃𝗮
+      𝗔𝗿𝗶𝗻𝗮 𝗠𝗮𝗸𝗮𝗿𝘆𝗰𝗵𝗲𝘃𝗮
     bio: >-
-      content creator | fashion | christian Петербургские дребезги 🏛 О размеренном образе жизни 💬 @arlette.management @yavleniechurch
+      Стилизую съёмки 🎥 visual content creator | fashion | christian saint p based @arlette.management @yavleniechurch
     location: "Russia"
-    followers: 3125
-    engagement: 907
-    commentsToLikes: 0.083420
+    followers: 3072
+    engagement: 1204
+    commentsToLikes: 0.056372
     id: ckap1mqkqv7qx0i7844uw9h3l
     verified: false
-    hashtags: "#soularmak, #thenoisetier"
-  - username: "anaslastya"
+    hashtags: ""
+  - username: "yourkatrinna"
     fullname: >-
-      - АНАСТАСИЯ РОГОВА -
+      ᏦᎯᎿᏬᎽᏕᎻᏦᎯ  ᏦᎾᎷᎯᏒᎾᏉᎯ❤
     bio: >-
-      💎 Здесь твои уши отдохнут ⠀ 💟 Christian Моя песня «ВИРУС» на радио 102.8 и площадках👇🏻 ⠀ 🎶 С музыкой на ТЫ или просто учусь на дирижерском @rogova_pr
+      "Ты родился оригиналом, не умри копией" ~18 years old ~christian ( 07.08.2019🙈) ~B-day: 7 of January
     location: "Russia"
-    followers: 48084
-    engagement: 345
-    commentsToLikes: 0.071268
-    id: ckaou6ldnz0w50i782i5vimwb
+    followers: 1787
+    engagement: 1668
+    commentsToLikes: 0.038528
+    id: ck15tcgg6hex80i19gxo7s2wy
     verified: false
-    hashtags: "#anaslastya, #rucover, #musicallycover, #tiktokrussia"
+    hashtags: "#khersononline, #topkherson, #likeforfollow, #follow"
+  - username: "maximilian_lapin"
+    fullname: >-
+      Maximilian Lapin
+    bio: >-
+      🇦🇪Dubai 🇷🇺Sochi 🇺🇸 LA 🔞Russian Christian Grey without pathos 🐰King of “Pink Rabbit” @pinkrabbit.ru 🥰Talk about S•x & Spirituality 💪🏽Crazy streamer
+    location: "Russia"
+    followers: 104759
+    engagement: 116
+    commentsToLikes: 0.282284
+    id: ck5zo1fljpjwj0i14kmq1nk1l
+    verified: false
+    hashtags: "#mma, #pinkrabbit, #maximilianlapin, #model"
   - username: "marishaivit"
     fullname: >-
       Мой Уютный Мир
     bio: >-
       ~ М а р и а н н а ~ 🏰Создаю теплый уют в нашем #vm_home ☕Люблю свою #vm_kitchen Врач, который "Сам себе дизайнер"👌 Обо всём что люблю 📖 Christian
     location: "Russia"
-    followers: 16903
-    engagement: 388
-    commentsToLikes: 0.035526
+    followers: 16616
+    engagement: 443
+    commentsToLikes: 0.032554
     id: ck0vy3f0921ku0i19f1r8i0gx
     verified: false
     hashtags: "#coronarendererer, #vm, #happyfamilyvitamins, #3dsmaxcorona"
-  - username: "yannissinger"
+  - username: "_slavika"
     fullname: >-
-      𝕐𝕒𝕟𝕟𝕚𝕤
+      Elisabeth V. Korsikova Kruk
     bio: >-
-      christian singer humorist
+      Tik tok: elizabeth_kruk 15К | Christian | Ballroom dancer | Co-founder of: @vanilodessa | founder of: @mypostcard.ua
     location: "Russia"
-    followers: 20096
-    engagement: 522
-    commentsToLikes: 0.019932
-    id: ckap30phr14rs0i78qv4awpk1
+    followers: 29761
+    engagement: 321
+    commentsToLikes: 0.012560
+    id: ck8t23yzdy2ag0j781mu105w9
     verified: false
-    hashtags: ""
-  - username: "innavladam"
-    fullname: >-
-      📖ЗАГЛЯНИ В СВОЁ СЕРДЦЕ🌷
-    bio: >-
-      Инна🙋‍♀️Orthodox Christian🕊 ЧЕСТНО О ГЛАВНОМ🌿 - о жизни и вере ⛪️ - семейные зарисовки👨‍👩‍👧 -педагог, гид-международник🌏 -эфиры о православии🎥 -📚📚📚
-    location: "Russia"
-    followers: 12584
-    engagement: 646
-    commentsToLikes: 0.071325
-    id: ck15qf3i12jcc0i192szas933
-    verified: false
-    hashtags: "#innavladam, #autumnmood"
-  - username: "alexei_mel7"
-    fullname: >-
-      Алексей Рябчиков
-    bio: >-
-      🎤Stand Up комик🎙,🔝Christian🔝,, Открытый микрофон ТНТ🎤🎬, 🔝StandUp Цимермана🔝, ОРГАНИЗАЦИЯ StandUp шоу, предложения, сотрудничество в direct⬆️
-    location: "Russia"
-    followers: 5345
-    engagement: 511
-    commentsToLikes: 0.067430
-    id: ck5ccqwazhue10i11v7w2segb
-    verified: false
-    hashtags: "#standup, #comedy, #moscow, #90"
+    hashtags: "#pkelvkwed, #notadd"
   - username: "christiane_blg"
     fullname: >-
       🖤CHRISTIANE
     bio: >-
-      🔮РАЗНЫЕ ЖЕНСКИЕ ШТУЧКИ 🧜‍♀️буду твоей бьюти-подружкой 💌collab: pronina_kristina@mail.ru/direct 🔥коробочки NEWBEAUTYBOX🔻
+      🔮РАЗНЫЕ ЖЕНСКИЕ ШТУЧКИ 🧜‍♀️буду твоей бьюти-подружкой 💌collab: pronina_kristina@mail.ru/direct
     location: "Russia"
-    followers: 45398
-    engagement: 111
-    commentsToLikes: 0.129854
+    followers: 43513
+    engagement: 146
+    commentsToLikes: 0.037165
     id: ck14ixpg7hmxp0i190jn1rj8j
     verified: false
-    hashtags: "#christiane, #glamboxrussia, #faberlicinfluencer, #glamour"
-  - username: "tanymarble"
+    hashtags: "#wow, #christiane, #faberlic, #faberlicinfluencer"
+  - username: "andreyshilkov"
     fullname: >-
-      Tatyana/Татьяна
+      Andrey Shilkov
     bio: >-
-      Женщина-Личность Красивой,стильной,модной можно быть всегда и в любом возрасте 📍Beauty•Makeup•Nails•Parfum 📍Lifestyle
+      •celebrity and editorial makeup artist •pr: ashilkov.agent@gmail.com •@andreyshilkovmasterclass #бьютидетектор™ #альфадетектор™
     location: "Russia"
-    followers: 6660
-    engagement: 1192
-    commentsToLikes: 0.112213
-    id: ckf5p2ao94p8o0j236x9rp3s7
+    followers: 294888
+    engagement: 251
+    commentsToLikes: 0.021150
+    id: ck0w1he71jcvl0i19vnmr0azj
     verified: false
-    hashtags: "#chantecaille, #chanellove, #beautiful, #chanelholiday2019"
-  - username: "ekaterina7semenchuk"
+    hashtags: "#andreyshilkovmakeup, #christianlouboutin, #louboutinbeauty, #maisonbohemique"
+  - username: "o777xy"
     fullname: >-
-      EKATERINA SEMENCHUK
+      Miller Anna
     bio: >-
-      OPERA SINGER Seven Romances on Poems by Alexander Blok from the New #Shostakovich Album @harmoniamundi_inter ⤵️
+      Моя закрытая группа @club_miller
     location: "Russia"
-    followers: 7143
-    engagement: 990
-    commentsToLikes: 0.056993
-    id: ck5c1mr7tvhvu0i11jilqwd8q
+    followers: 48346
+    engagement: 236
+    commentsToLikes: 0.008505
+    id: ck0w3h02btcz80i19ge42qult
     verified: false
-    hashtags: "#theatre, #yusifeyvazov, #life, #world"
+    hashtags: "#dubai2020, #orangemood, #madinatjumeirah, #hermes"
+  - username: "svetlanapustova"
+    fullname: >-
+      Svetlana Pustova
+    bio: >-
+      ✞ Russian / 📍Austin, TX ⇢ #quienmatoasara #netflix 🎬 ⇢ actress, youtuber, traveler ⇢ be brave and unique 🌻 ⇢ svetpustovalova@gmail.com
+    location: "Russia"
+    followers: 27931
+    engagement: 285
+    commentsToLikes: 0.030084
+    id: ck5cf1e04m4s00i11shzehwge
+    verified: false
+    hashtags: "#svetlana, #rusaenmexico, #model, #russianmodel"
+  - username: "karinchistyakova"
+    fullname: >-
+      Karin Chistyakova (18+)
+    bio: >-
+      Producer & Creative director Ex Vogue, Glamour & InStyle Russia ✶ В чем сила, брат? Dagestani 👁 Ally 🌱
+    location: "Russia"
+    followers: 10547
+    engagement: 827
+    commentsToLikes: 0.038312
+    id: ck0ty8kwclx6o0i19yrygkp22
+    verified: false
+    hashtags: "#ugg, #breannataylor, #christiancooper, #spiritday2020"
 ---

@@ -1,120 +1,60 @@
 ---
-title: Top 10 Food TikTok Influencers In Peru in 2023
+title: Top 10 Food TikTok Influencers In Peru In 2023
 description: >-
-  Find top food TikTok influencers in Peru in 2023. Most popular hashtags: #parati #peru #fyp #trend.
+  Find top food TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #foryou #parati #peru.
 platform: TikTok
-hits: 23
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 23 TikTok influencers like this in Peru for you to contact.
+hits: 19
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 19 TikTok influencers like this in Peru for you to pitch.
 profiles:
   - username: "elfoodieloo"
     fullname: >-
       FOODIELOO
     bio: >-
-      COCINO Y TE RECOMIENDO RESTAURANTES EN 🇵🇪! Instagram 📸 : @elfoodielo
+      COCINO Y TE RECOMIENDO RESTAURANTES EN 🇵🇪! Instagram 📸 : elfoodieloo
     location: "Peru"
-    followers: 47500
-    engagement: 355
-    commentsToLikes: 0.014484
+    followers: 295800
+    engagement: 814
+    commentsToLikes: 0.020479
     id: ckafu2b0f8chr0i78gz21kv1p
     verified: false
-    hashtags: "#fyp, #foodieperu, #foodies, #pork"
-  - username: "lacuchara_recetas"
+    hashtags: "#foodtutorial, #limaperu, #recetaperuana, #foodieperu"
+  - username: "._l3mon"
     fullname: >-
-      Jean albarracin
+      lemon__
     bio: >-
-      Recetas al estilo La Cuchara 🥄🇵🇪 IG: @lacuchara_recetas 👍🏼 #quedateencasa
+      Si no eres otaku, chau q bloqueo No spam de likes 🇵🇪 She/They
     location: "Peru"
-    followers: 20900
-    engagement: 666
-    commentsToLikes: 0.029830
-    id: ckacaxokzh99c0i78w97qac7h
+    followers: 65200
+    engagement: 2590
+    commentsToLikes: 0.025568
+    id: ckcviw4f1w5vc0j23gp9vlhlw
     verified: false
-    hashtags: "#tiktok, #cocina, #recetas, #food"
-  - username: "cuantocuesta.pe"
+    hashtags: "#weeb, #anime, #sk8theinfinitymanga, #sk8theinfinity"
+  - username: "jcsalvadorr"
     fullname: >-
-      Sophia Ponce
+      🛡Jcsalvadorr
     bio: >-
-      Periodista - Giornalista 🇵🇪 🇮🇹 🎙 Spotify : Aprende castellano con cultura
+      🇵🇪
     location: "Peru"
-    followers: 5544
-    engagement: 452
-    commentsToLikes: 0.023385
-    id: ckcdrvzyid2g20j23igx0gz7d
+    followers: 22700
+    engagement: 1261
+    commentsToLikes: 0.256834
+    id: ckd6xqtgjuwgw0j23vuoxge7k
     verified: false
-    hashtags: "#foodieperu, #aprendeespa, #yomequedoencasa, #tiktok"
-  - username: "oddy.art"
+    hashtags: "#foryou, #peruvip, #parati, #zxycba"
+  - username: "i_andrea_"
     fullname: >-
-      🍜𝐀𝐧𝐝𝐫𝐞𝐚🌱
+      ⚡️
     bio: >-
-      Stop hating 📺𝐒𝐓/𝐓𝐔𝐀/𝐇𝐏/𝐅𝐋𝐀𝐒𝐇🎡 𝐚𝐫𝐫𝐨𝐰𝐯𝐞𝐫𝐬𝐞
+      Ig: @andrea.guzbell
     location: "Peru"
-    followers: 120700
-    engagement: 2226
-    commentsToLikes: 0.028363
+    followers: 116800
+    engagement: 1936
+    commentsToLikes: 0.013464
     id: ckdc6mxyehgn80j23z6q5i7jq
     verified: false
-    hashtags: "#foryourpage, #satisfying, #slime, #girls"
-  - username: "anggelo_raicovi"
-    fullname: >-
-      anggelo_raicovi
-    bio: >-
-      IG: @anggelo_raicovi
-    location: "Peru"
-    followers: 82200
-    engagement: 870
-    commentsToLikes: 0.040499
-    id: ckbqulj8lezfw0j23zri83f0r
-    verified: false
-    hashtags: "#peru, #cuerpofitness, #comidatiktok, #subirdepeso"
-  - username: "tolyangasilin"
-    fullname: >-
-      tolyangasilin
-    bio: >-
-      Instagram: tolyan_gasilin On stay in Lima-Peru.
-    location: "Peru"
-    followers: 2757
-    engagement: 1150
-    commentsToLikes: 0.036694
-    id: ck9e3tu7el37k0j78l208gye8
-    verified: false
-    hashtags: "#model, #peru, #like, #skate"
-  - username: "unaufhaltsameslachen"
-    fullname: >-
-      Dumusstesnichtwi
-    bio: >-
-      Du musst es nicht wissen
-    location: "Peru"
-    followers: 12500
-    engagement: 1838
-    commentsToLikes: 0.015803
-    id: ckbksmb6oni4y0j23perk0n35
-    verified: false
-    hashtags: "#bear, #ballet, #royalballet, #london"
-  - username: "johananana"
-    fullname: >-
-      Johanna De La Cruz 
-    bio: >-
-      ✨18 años✨ 📍Lima, Peru📍 🔔Click the bell 🔔 📸 ig: johanaadelacruz📸
-    location: "Peru"
-    followers: 1300000
-    engagement: 1529
-    commentsToLikes: 0.009212
-    id: ckal76tate0ce0i78lzfy8siv
-    verified: true
-    hashtags: "#trend, #comedia, #fyp, #parati"
-  - username: "malusalcedo6"
-    fullname: >-
-      Malu Salcedo
-    bio: >-
-      CEO del anyways #opa💛 🇵🇪 Perú 🇵🇪
-    location: "Peru"
-    followers: 351400
-    engagement: 1893
-    commentsToLikes: 0.015903
-    id: ckaihu98j7kob0i78lviwuhhp
-    verified: false
-    hashtags: "#storytime, #peru, #viral, #halloween"
+    hashtags: "#paratipage, #foryoupage, #fyp, #famous"
   - username: "momasoslatinos"
     fullname: >-
       MomasosLatinos
@@ -126,5 +66,65 @@ profiles:
     commentsToLikes: 0.040203
     id: ckai3fd3zjn8e0i78mrtiaitz
     verified: false
-    hashtags: "#trending, #dance, #xyzcba, #pets"
+    hashtags: "#gta, #ps4, #mexico, #argentina"
+  - username: "saqra_warmicha"
+    fullname: >-
+      Yeni Llamocca
+    bio: >-
+      Viajo por todo Cusco - Perú 🇵🇪 enseñándote mis aventuras 👒SAQRA WARMICHA🎒
+    location: "Peru"
+    followers: 141100
+    engagement: 649
+    commentsToLikes: 0.024541
+    id: ckcehzp3zpz760j23ce13asxl
+    verified: false
+    hashtags: "#viajera, #cusco, #viajestiktok, #travelgirl"
+  - username: "nicolaszuninocosta"
+    fullname: >-
+      Nicolás Zunino
+    bio: >-
+      
+    location: "Peru"
+    followers: 46100
+    engagement: 991
+    commentsToLikes: 0.050206
+    id: ckck29jhjlm4i0j23eq1hmblt
+    verified: false
+    hashtags: "#fyp, #dance, #foryou, #peru"
+  - username: "rafangel.md"
+    fullname: >-
+      user3466352526231
+    bio: >-
+      Rafael Angel @rxfxngel 😊 improve yourself
+    location: "Peru"
+    followers: 4920
+    engagement: 829
+    commentsToLikes: 0.027654
+    id: ck9m0zzqrcrzj0j78u3nx6904
+    verified: false
+    hashtags: "#fyp, #cat, #cars, #momcat"
+  - username: "recetitsss"
+    fullname: >-
+      Recetitsss
+    bio: >-
+      Follow para mas recetasss🤪🍴 📍Lima, Perú Instagram✨: @recetitsss
+    location: "Peru"
+    followers: 236300
+    engagement: 1201
+    commentsToLikes: 0.004392
+    id: ck9f24e6ubnyr0j788cyxnhre
+    verified: false
+    hashtags: "#fyp, #postres, #parati, #recetafacil"
+  - username: "sweetbaakery.pe"
+    fullname: >-
+      recetas de postres✨
+    bio: >-
+      heyy!👋🏽 venta de postres en insta☺️ aquí recetas💗
+    location: "Peru"
+    followers: 42900
+    engagement: 1091
+    commentsToLikes: 0.004816
+    id: ckacmk67sk0cr0i788b7772x6
+    verified: false
+    hashtags: "#foryoupage, #bling, #fyp, #recetafacil"
 ---

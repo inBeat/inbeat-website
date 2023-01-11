@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Chicago in 2023
+title: Top 10 Beauty TikTok Influencers In Chicago In 2023
 description: >-
-  Find top beauty TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #beauty #chicago #duet.
+  Find top beauty TikTok influencers in Chicago in 2023. Most popular hashtags: #chicago #fyp #beauty #makeup.
 platform: TikTok
-hits: 36
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 36 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 30
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 30 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
+  - username: "danithemodel"
+    fullname: >-
+      Dani
+    bio: >-
+      Sam’s Beauty Hair Model Published Chicago Model Age: 25
+    location: "United States"
+    followers: 53300
+    engagement: 573
+    commentsToLikes: 0.051614
+    id: ckbfaslt62cib0j23gm7x3yit
+    verified: false
+    hashtags: "#chicagomodel, #viral, #pepsihalftimechallenge, #itwasntme"
+  - username: "therobotsdaughter"
+    fullname: >-
+      The robots daughter
+    bio: >-
+      
+    location: "United States"
+    followers: 107800
+    engagement: 819
+    commentsToLikes: 0.012942
+    id: ck83wzpw3nbzy0j7806o6sjhi
+    verified: false
+    hashtags: "#chicago, #harrystyles, #notviral, #beauty"
+  - username: "tiffanyengr"
+    fullname: >-
+      Tiffany Reed-Villarr
+    bio: >-
+      
+    location: "United States"
+    followers: 57000
+    engagement: 870
+    commentsToLikes: 0.049278
+    id: ck83wxh4wmrx50j78a0fuu2wt
+    verified: false
+    hashtags: "#construction, #plasticpollution, #concrete, #sustainable"
+  - username: "graceisthenameee"
+    fullname: >-
+      G R A C E
+    bio: >-
+      NE | 18 God First ✞ 🤍 Code GElizabeth15 to purchase from Elevated Faith >
+    location: "United States"
+    followers: 20500
+    engagement: 1175
+    commentsToLikes: 0.019227
+    id: ck9uwfpjnvjkr0j787xybgoy1
+    verified: false
+    hashtags: "#travel, #ha, #vacay, #christian"
+  - username: "lacexnelson_"
+    fullname: >-
+      Lace
+    bio: >-
+      Wake up, pray, & slay💋 Insta: @lacexnelson_
+    location: "United States"
+    followers: 22200
+    engagement: 809
+    commentsToLikes: 0.063431
+    id: ck9r99ycffrr90j78bhttlqi7
+    verified: false
+    hashtags: "#makeup, #bffs, #birthday, #lol"
+  - username: "naturallycolorfulbabe"
+    fullname: >-
+      Chicago Cosplayer
+    bio: >-
+      🦄Welcome to my WORLD❤ Nerd Life/Beauty/Cosplay $Colorfuljazzy 💖New Podcast Ep⤵
+    location: "United States"
+    followers: 23400
+    engagement: 2252
+    commentsToLikes: 0.052231
+    id: ckc91lm2fronk0j23uo0hgtbd
+    verified: false
+    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+  - username: "sierraxandrea"
+    fullname: >-
+      sierra 
+    bio: >-
+      19 • CHICAGO📍 i luv u 🤍 "siemakeup" for 10% OFF your coldest water bottle🧊
+    location: "United States"
+    followers: 223200
+    engagement: 869
+    commentsToLikes: 0.034879
+    id: ck8vta2c4fkf70j78taf9keht
+    verified: false
+    hashtags: "#tiktokggt, #doritosduetroulette, #fyp, #trend"
   - username: "asmaticc"
     fullname: >-
       Asma
     bio: >-
-      Here for the laughs chicago
+      just archiving my mems chicago
     location: "United States"
-    followers: 29900
-    engagement: 1084
-    commentsToLikes: 0.048546
+    followers: 29700
+    engagement: 1042
+    commentsToLikes: 0.043705
     id: ck7zo7iaaij8w0j788xzigt3w
     verified: false
-    hashtags: "#upcycling, #notonething, #fyp, #hijabi"
-  - username: "901nm"
+    hashtags: "#hijabi, #aesthetic, #timewarpscan, #pakistani"
+  - username: "infalliblebeautyceo"
     fullname: >-
-      Nadine🌻💕
+      Fallon S Anderson
     bio: >-
-      BLM 🇵🇸🇵🇸🇵🇸🇵🇸 19
+      Certified Ombré Brow Slayer based in Chicago area...plus we sell bomb cosmetics!
     location: "United States"
-    followers: 13600
-    engagement: 594
-    commentsToLikes: 0.071384
-    id: ckcdrdqoncqj60j23dbwenvgv
+    followers: 9565
+    engagement: 1088
+    commentsToLikes: 0.037149
+    id: ckd0ykapclci50j23zw3zrxzg
     verified: false
-    hashtags: "#palestinian, #funny, #foryou, #xyzbca"
-  - username: "alaia.alaia"
+    hashtags: "#fyp, #instagram, #wakeupandmakeup, #love"
+  - username: "bonnierzm"
     fullname: >-
-      Lai lai 🦋
+      Bonnierzm
     bio: >-
-      24. Chicago. 🍒Interior. Life Style. 🦋Beauty. DIY.Family.Dance✨
+      Follow to be photogenic Photo, fashion & beauty bonnierzmteam@gmail.com
     location: "United States"
-    followers: 19600
-    engagement: 597
-    commentsToLikes: 0.029383
-    id: ck90tz47runq10j7890aatttc
-    verified: false
-    hashtags: "#chicago, #summer, #health, #fitness"
-  - username: "hanan3.b"
-    fullname: >-
-      Hanane Hearts
-    bio: >-
-      Free Palestine If you for trump, your argument is automatically invalid.
-    location: "United States"
-    followers: 14700
-    engagement: 628
-    commentsToLikes: 0.064755
-    id: ckamqmsoni1850i78hz2md1er
-    verified: false
-    hashtags: "#foryou, #eid, #fyp, #kodakblack"
-  - username: "chicagostyleicon"
-    fullname: >-
-      Jen White
-    bio: >-
-      YouTube vlogs🎙 Public speaking tips @digitalspeakingcoach (Tiktok)
-    location: "United States"
-    followers: 22200
-    engagement: 491
-    commentsToLikes: 0.013825
-    id: ckb9fooa54a2h0j23z9piqlxj
-    verified: false
-    hashtags: "#nordstromanniversarysale, #amazon, #chicago, #amazonhaul"
-  - username: "ac_paints"
-    fullname: >-
-      Alexisss
-    bio: >-
-      Art and stuffs🎨🌈💘✨ California
-    location: "United States"
-    followers: 43700
-    engagement: 1396
-    commentsToLikes: 0.057399
-    id: ckbqoextu96h10j23d8odpllg
-    verified: false
-    hashtags: "#tiktokartist, #food, #aesthetic, #fyp"
-  - username: "honeybmua"
-    fullname: >-
-      Mua.Fatshionista
-    bio: >-
-      Chicago ❤️ She/Her 🏳️‍🌈 Queer. Married 35yo Anti-Racist Anti-terf
-    location: "United States"
-    followers: 8123
-    engagement: 2191
-    commentsToLikes: 0.094565
-    id: ckbqivjoh406z0j234lsd7dxx
-    verified: false
-    hashtags: "#blacklivesmatter, #duet, #beauty, #biden2020"
-  - username: "russiaancream"
-    fullname: >-
-      САНЯ 222
-    bio: >-
-      chicago/19/♐️ Следи за собой i speak russian sometimes lol
-    location: "United States"
-    followers: 21100
-    engagement: 1597
-    commentsToLikes: 0.055168
-    id: ck9aaylbqmlmx0j78f0wepbvx
-    verified: false
-    hashtags: "#viral, #fyp, #xyzbca, #duet"
-  - username: "pvo.aj"
-    fullname: >-
-      Pvo.Aj💫
-    bio: >-
-      Chicago 📍 30k on IG? P V O🧸
-    location: "United States"
-    followers: 372100
-    engagement: 2485
-    commentsToLikes: 0.009944
-    id: ckaiiteombyvi0i78uebd69h4
-    verified: false
-    hashtags: "#college, #foryoupage, #pvo, #fyp"
-  - username: "jessicahash4"
-    fullname: >-
-      Jessica Hash
-    bio: >-
-      Beauty*Fashion*Dance Keep it classy
-    location: "United States"
-    followers: 63200
-    engagement: 684
-    commentsToLikes: 0.073626
-    id: ckcjbj3uw8zqm0j23ucaqkkas
-    verified: false
-    hashtags: "#razrfit, #outfitideas, #funny, #duets"
+    followers: 2200000
+    engagement: 459
+    commentsToLikes: 0.007033
+    id: ck8torn3hnpn80j7883p8xn7a
+    verified: true
+    hashtags: "#fashionhacks, #chicago, #tiktokfashionmonth, #dothescottsslide"
 ---

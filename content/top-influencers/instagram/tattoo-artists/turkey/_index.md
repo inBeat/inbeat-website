@@ -1,69 +1,81 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Turkey in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Turkey In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Turkey in 2023. Most popular hashtags: #tattooart #tattoo #ink #art.
+  Find top tattoo-artists Instagram influencers in Turkey in 2023. Most popular hashtags: #tattooart #ink #tattoo #inked.
 platform: Instagram
-hits: 37
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 37 Instagram influencers like this in Turkey for you to collaborate.
+hits: 29
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 29 Instagram influencers like this in Turkey for you to connect with.
 profiles:
   - username: "doguarslan91"
     fullname: >-
-      
+      Doğu
     bio: >-
-      🏆 3 Award-Winning Tattoo Artist ⭐️ Artist at @cleopatraink.nisantasi 📩 doguarslan91@gmail.com
+      🇹🇷📍Istanbul @cleopatraink Tattoo artist since 2008 3 International award winner 🥇🥉🥉 For bookings 📩dogu.arslan91@gmail.com
     location: "Turkey"
-    followers: 7612
-    engagement: 516
-    commentsToLikes: 0.041931
+    followers: 7862
+    engagement: 551
+    commentsToLikes: 0.040895
     id: ck8sxssstij8m0j78yh2ey02r
     verified: false
-    hashtags: "#tattooart, #tattrx, #artist, #thebesttattoopage"
+    hashtags: "#ink, #inkaddict, #art, #tattooart"
   - username: "cerennkarakus"
     fullname: >-
       Ceren Karakuş Dündar
     bio: >-
       Tattoo Artist ▪️ Tattoom Gallery For appointment only mail : karakusceren@gmail.com Very soon NYC @atelier.eva 🗽
     location: "Turkey"
-    followers: 18205
-    engagement: 252
-    commentsToLikes: 0.024163
+    followers: 19113
+    engagement: 236
+    commentsToLikes: 0.020082
     id: ck5zuwh3h36030i14zpowu3uv
     verified: false
-    hashtags: "#linework, #instatattoo, #tattooer, #blacklivesmatter"
+    hashtags: "#tattoos, #inks, #blackworkers, #darkart"
   - username: "bobrossss"
     fullname: >-
       fati ölmez
     bio: >-
       •ADÜ - Tıp fak.🩺 6/6 •Tattoo Artist •alaşehir
     location: "Turkey"
-    followers: 33597
-    engagement: 723
-    commentsToLikes: 0.011461
+    followers: 35516
+    engagement: 696
+    commentsToLikes: 0.013854
     id: ck6u8g4jfreb20j71ryajr6w0
     verified: false
-    hashtags: "#drawing, #draw, #ink, #medical"
+    hashtags: "#medical, #drawing, #anatomy, #ink"
+  - username: "rujtattootr"
+    fullname: >-
+      RUJ TATTOO NİŞANTAŞI
+    bio: >-
+      Tattoo ARTIST ▪️ @tattoofatiherdal ▪️ @viosead 📞 0530 946 66 70 | 7/24 WhatsApp Hizmeti
+    location: "Turkey"
+    followers: 24010
+    engagement: 104
+    commentsToLikes: 0.011916
+    id: ck6u8foi2rbl20j710u6xwxmm
+    verified: false
+    hashtags: ""
   - username: "barantattooart"
     fullname: >-
       BARANYILMAZ
     bio: >-
       DREAMER TATTOO ISTANBUL Tattoo Artist ✉️barantattooart@gmail.com 📞+90534 468 19 14
     location: "Turkey"
-    followers: 17353
-    engagement: 273
-    commentsToLikes: 0.016163
+    followers: 17817
+    engagement: 270
+    commentsToLikes: 0.015640
     id: ckf5wnxcwsooy0j23nt1a045h
     verified: false
-    hashtags: "#portrait, #art, #tattoodesign, #ink"
+    hashtags: "#tattooisartmagazine, #color, #tattooart, #tattooideas"
   - username: "denizhanvardeniz"
     fullname: >-
       denizhanvardeniz
     bio: >-
-      Tattooartist @hakangercektattooshop Bağdat Caddesi Erenköy Dövme ve model bilgisi icin DM
+      Tattooartist @hakangercektattoos Bağdat Caddesi Erenköy / İstanbul Randevu ve Bilgi almak için DM
     location: "Turkey"
-    followers: 7149
-    engagement: 454
-    commentsToLikes: 0.031302
+    followers: 10374
+    engagement: 327
+    commentsToLikes: 0.025420
     id: ck134icsuwkj80i1982phtuzn
     verified: false
     hashtags: ""
@@ -71,60 +83,48 @@ profiles:
     fullname: >-
       Gökçe Özaslan•Tattoo Artist
     bio: >-
-      📍@tattoomgallery - Nişantaşı-İstanbul 📩gokceozaslan@gmail.com 🍃🌸 mood @heyysakura
+      ➖gokceozaslan@gmail.com ➖@tattoomgallery Nişantaşı-İstanbul 🍃🌸 mood @heyysakura
     location: "Turkey"
-    followers: 18156
-    engagement: 695
-    commentsToLikes: 0.021336
+    followers: 22476
+    engagement: 621
+    commentsToLikes: 0.023498
     id: ckf5v44ynn8h20j23yijoxyjs
     verified: false
-    hashtags: "#watercolorpainting, #tattooideas, #tattoodesign, #movietattoo"
+    hashtags: "#tattooartist, #gokceozaslan, #inktattoo, #sculpturetattoo"
   - username: "irfan.mertdogdu"
     fullname: >-
-      İrfan Mertdoğdu
+      İrfan Mertdoğdu
     bio: >-
-      📍Cyprus ☣️ @mutationlab_supplement_store
+      📍𝓒𝔂𝓹𝓻𝓾𝓼 🖤𝓣𝓾𝓰𝓬𝓮 ☣️ @mutationlab_supplement_store
     location: "Turkey"
-    followers: 19312
-    engagement: 503
-    commentsToLikes: 0.010645
+    followers: 19275
+    engagement: 499
+    commentsToLikes: 0.010941
     id: ckapchrpl3uve0i78t4bv1etq
     verified: false
-    hashtags: "#inked, #tattooer, #tattoos, #tb"
+    hashtags: "#inkedup, #tattooart, #gym, #ink"
   - username: "resulodabas"
     fullname: >-
       Resul Odabas
     bio: >-
       •Private Studio• •Booking resulodabas@gmail.com • •Istanbul/Turkey•
     location: "Turkey"
-    followers: 79371
-    engagement: 178
-    commentsToLikes: 0.009493
+    followers: 77820
+    engagement: 175
+    commentsToLikes: 0.008971
     id: ck5zuwyur36ur0i14c06qkdxo
     verified: false
-    hashtags: "#littletattoo, #cutetattoo, #tattooart, #colourtattoo"
-  - username: "krmkaan"
+    hashtags: "#littletattoo, #tattooartist, #tattooed, #flowertattoo"
+  - username: "nurayguler___"
     fullname: >-
-      Kerim Kaan Köse
+      ⚜️  Nuray Güler
     bio: >-
-      @cleopatrainktunali Mersin/ankara @cleopatraink /Pro team black and white team ⚪️⚫️
+      Türkiye'nin en büyük dövme kanalı 🔥 📍 Antalya / İstanbul 📌 YouTube
     location: "Turkey"
-    followers: 12204
-    engagement: 710
-    commentsToLikes: 0.038710
-    id: ck8sxsrusij4v0j78jb72mbi3
+    followers: 11774
+    engagement: 564
+    commentsToLikes: 0.018630
+    id: ckaowf0ha8nca0i78hy9o5d7p
     verified: false
-    hashtags: "#blackandgrey, #tattooistartmag, #cleopatraink7, #finland"
-  - username: "mentat_gamze"
-    fullname: >-
-      MENTAT • GAMZE🌾
-    bio: >-
-      Istanbul Turkey🦇 •Booking: mentatgamze@gmail.com •🌿Vegan Tattoo ʕ•ᴥ•ʔ •No Dm please•
-    location: "Turkey"
-    followers: 84203
-    engagement: 242
-    commentsToLikes: 0.091356
-    id: ck6tmlkm982bs0j710j61btfi
-    verified: true
-    hashtags: "#dovme, #leaftattoo, #fineline, #instainspiredtattoos"
+    hashtags: "#inked, #youtuber, #inkmaster, #tattoomag"
 ---

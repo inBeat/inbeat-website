@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Italy in 2023
+title: Top 10 Cooking Instagram Influencers In Italy In 2023
 description: >-
-  Find top cooking Instagram influencers in Italy in 2023. Most popular hashtags: #italy #food #photooftheday #foodporn.
+  Find top cooking Instagram influencers in Italy in 2023. Most popular hashtags: #italianfood #cucinaitaliana #food.
 platform: Instagram
-hits: 808
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 808 Instagram influencers like this in Italy for you to connect with.
+hits: 645
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 645 Instagram influencers like this in Italy for you to contact.
 profiles:
   - username: "stereolady"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Rome 🇮🇹 music 🎵 drums & piano 🥁 cooking 🍽️ walking 🚶 programming 💾 languages 🈴 sharing thoughts & emotions 💭 being awake at night 🌙 astronomy 💫
     location: "Italy"
-    followers: 30960
-    engagement: 880
-    commentsToLikes: 0.079902
+    followers: 33450
+    engagement: 602
+    commentsToLikes: 0.075964
     id: ck8tahj87rs2p0j78rh1p3ygr
     verified: false
-    hashtags: "#almenotunelluniverso"
+    hashtags: "#pianist, #longhairgirl, #angel, #piano"
   - username: "andreacoccohirai"
     fullname: >-
       Andrea Cocco Hirai
     bio: >-
-      Actor that loves to cook, check out my cooking profile @coccos_kitchen , now in 🇯🇵 🌐Ambassador arigat-eu Diventa chi sei SHOWREEL e youtube chanel 👇
+      Actor that loves to cook, check out my cooking profile @coccos_kitchen , now in 🇮🇹 🌐Ambassador arigat-eu Diventa chi sei SHOWREEL e youtube chanel 👇
     location: "Italy"
-    followers: 34308
-    engagement: 314
-    commentsToLikes: 0.042610
+    followers: 34780
+    engagement: 258
+    commentsToLikes: 0.040559
     id: ck6tkkvqx4wob0j71rl67z4ta
     verified: true
-    hashtags: "#andreacocco, #actorslife, #sicilia, #tokyo"
+    hashtags: "#actor, #andreacoccohirai, #modelwork, #japan"
   - username: "eleonorabazzonicoach"
     fullname: >-
       💎bᥲzzყ rᥙᥒᥒᥱr & ᥴookιᥒg ᥣovᥱr
     bio: >-
       👩‍🍳cooking lover 🎓laurea in scienze motorie 🏃‍♀️tecnico Fidal 🇮🇹champion 21k 2009 🔒10km➡️35'15 🔒21,097➡️1h17 🔒42,195➡️2h45 Amb ⚫@volchem_italia
     location: "Italy"
-    followers: 6158
-    engagement: 740
-    commentsToLikes: 0.046501
+    followers: 6044
+    engagement: 765
+    commentsToLikes: 0.043873
     id: ckap1zzmpwsju0i784qnj14n9
     verified: false
-    hashtags: "#timetorun, #runnersterritory, #iloverun, #runnermom"
-  - username: "pavicevic_tamara"
+    hashtags: "#13point1, #momrunner, #runstrong, #runalways"
+  - username: "isabellapoti"
     fullname: >-
-      Tamara Pavicevic
+      Isabella Potí
     bio: >-
-      Fashion designer @tamarapavicevic_fashion 👗 #tamarapavicevic and creator of @cookingwithsonja 👩🏻‍🍳🤍 My YouTube Chanel is here👇🏼
+      Be Bros’ / Italian & Polish 🐈🍭 My first book Millennial Cooking available on:
     location: "Italy"
-    followers: 24993
-    engagement: 523
-    commentsToLikes: 0.014980
-    id: ck5qc6wvyp59h0i11n1mistv0
-    verified: false
-    hashtags: "#kuvajiiska, #kuvanjesasonjom, #newhaircolor, #25"
+    followers: 85610
+    engagement: 208
+    commentsToLikes: 0.020324
+    id: ck0tt04me0kue0i19ri5sxwtn
+    verified: true
+    hashtags: "#twinsetladybug, #brothersofitaly, #caff, #juliusmeinl"
+  - username: "cremaschina"
+    fullname: >-
+      Laura Cremaschi
+    bio: >-
+      I’m a lover❤️ Fitness lover 💚 Cooking lover💜 Travel lover🖤 Dog lover 🧡
+    location: "Italy"
+    followers: 1051210
+    engagement: 216
+    commentsToLikes: 0.009164
+    id: ck5q93qvv98nc0i11iopgwlz6
+    verified: true
+    hashtags: "#coffeetime, #coffeelover, #adv, #perfettomoka"
   - username: "lericettedimarygio"
     fullname: >-
       Maria Giovanna Staffieri
     bio: >-
       BRAND AMBASSADOR @tonnomaruzzellaofficial ▶MATERA ▶+25 ▶FoodPorn ▶ Dessert ▶Passion for cooking Amo fare i dolci/salati ♥
     location: "Italy"
-    followers: 83039
-    engagement: 881
-    commentsToLikes: 0.086398
+    followers: 84317
+    engagement: 493
+    commentsToLikes: 0.117895
     id: ck137arttam8o0i197maup2hn
     verified: false
-    hashtags: "#autumninpitcures, #octooberspics, #happynoovember, #autumnpaattern"
-  - username: "atavolaconfra"
+    hashtags: "#januarrygoodvibes, #fbebraioinfoto, #tuttiglialtrinehanttrentuno, #februarvyibes"
+  - username: "sister_love67"
     fullname: >-
-      atavolaconfra
+      𝘼𝙣𝙩𝙤𝙣𝙚𝙡𝙡𝙖
     bio: >-
-      Francesca, italian girl🌻 27yo🎂 #homemade Food lover 🍕🍟🍔 Cooking lover🍝🍜 per collaborazioni➡️ atavolaconfra@gmail.com
+      💘 My loves 💓 Paola & Nicola 👫 Mauro 👩‍❤️‍💋‍👨 Leo 🐇 👩‍🍳Cooking is my passion ☘🌸 🍞 🍰 All food is homemade 👇 #sister_love67
     location: "Italy"
-    followers: 10802
-    engagement: 1035
-    commentsToLikes: 0.133363
-    id: ckap69fjsey6b0i785g0j2s1b
+    followers: 67534
+    engagement: 422
+    commentsToLikes: 0.079357
+    id: ck0u8tj518btf0i19magxzfdw
     verified: false
-    hashtags: "#campaniafoodblog, #eat, #cucina, #foodie"
-  - username: "_annamaione_"
-    fullname: >-
-      Anna Maione
-    bio: >-
-      • 🇮🇹, 27 •Economics & management/Luxury & fashion management •Food and cooking lover 🐷👩🏻‍🍳🍕🍣 🌰🍷🍝 •Traveler 🌍🎡 •Ruan’s mom 🐶
-    location: "Italy"
-    followers: 6247
-    engagement: 964
-    commentsToLikes: 0.029379
-    id: ckapaxn56xuyf0i78jiu0j7qh
-    verified: false
-    hashtags: "#outfit, #cilento, #love, #italy"
-  - username: "viaggiare_con_la_cucina"
-    fullname: >-
-      Elisa Simonati
-    bio: >-
-      🇮🇹 🇬🇧 Cooking, baking and travelling addict 👩‍🍳✈️ Panificatrice seriale, viaggiatrice compulsiva Racconti dei miei viaggi nelle storie in evidenza 😉
-    location: "Italy"
-    followers: 14753
-    engagement: 789
-    commentsToLikes: 0.352046
-    id: ck15synzsfh7h0i19mzxq0a8w
-    verified: false
-    hashtags: "#ricettelight, #lievitomadre, #homemadebread, #mangiaconpizzakaiju"
-  - username: "foodieglobetrotter"
-    fullname: >-
-      Foodie Globetrotter (Lilia)
-    bio: >-
-      See also my other a/c @roman_footsteps Travel + food + wine + people I love ❤ passionate about cooking, culture & the arts Globetrotter ☉
-    location: "Italy"
-    followers: 3522
-    engagement: 1616
-    commentsToLikes: 0.128847
-    id: ck5zzqph6c90n0i14o1tubcqo
-    verified: false
-    hashtags: "#bestofitaly, #loves, #europe, #bellaitalia"
+    hashtags: "#cibobuono, #solocosebuone, #arancia, #piattiitaliani"
   - username: "la_cucina_di_imma"
     fullname: >-
       Imma
     bio: >-
       I studied #Business, I love #cooking 👉🏻#focaccequadridautore 🔹Passione #cucina #Italia 👩🏼‍🍳🇮🇹 🔹Fatto a #casa 🏠 🔹Buono & Creativo 😋🎨 🔹Dolce & Salato 🍰🧂
     location: "Italy"
-    followers: 7189
-    engagement: 885
-    commentsToLikes: 0.352641
+    followers: 8251
+    engagement: 926
+    commentsToLikes: 0.323275
     id: ckap6a1u6f0yj0i78r62fqw14
     verified: false
-    hashtags: "#cibo, #italia, #mangiaresano, #fame"
+    hashtags: "#vogliadicheffare, #cucinareitaliano, #italianfood, #foodlover"
+  - username: "laiaia_official"
+    fullname: >-
+      La Iaia
+    bio: >-
+      👰WeddingPlanning&Design #laiaia_daicisposiamo 🎉Super Party #laiaia_daifesteggiamo 💥Cooking Classes #laiaia_daicuciniamo 💌 info@laiaia.it
+    location: "Italy"
+    followers: 66602
+    engagement: 251
+    commentsToLikes: 0.042186
+    id: ck0u6rism2q6v0i19d0o57982
+    verified: false
+    hashtags: "#suppliedby, #santalucia, #iconicacollection, #laiaiateam"
+  - username: "jakobherrmann"
+    fullname: >-
+      Jakob Herrmann
+    bio: >-
+      Austrian Skimountaineerer @heeressportzentrum Hobbies: cooking 🥘, baking 🍰, Hike&fly 😎! Team: @dynafit, @pureathleten @compex.austria
+    location: "Italy"
+    followers: 7339
+    engagement: 870
+    commentsToLikes: 0.015680
+    id: ck6u1u30dnw2i0j71qhq80sbm
+    verified: false
+    hashtags: "#puremoments, #piepsmicro, #hwkskiwachs, #skiaustria"
 ---

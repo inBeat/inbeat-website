@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In India in 2023
+title: Top 10 Fitness Instagram Influencers In India In 2023
 description: >-
-  Find top fitness Instagram influencers in India in 2023. Most popular hashtags: #love #instagood #nature #naturephotography.
+  Find top fitness Instagram influencers in India in 2023. Most popular hashtags: #fitness #fashion #reels #explorepage.
 platform: Instagram
-hits: 2142
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 2142 Instagram influencers like this in India for you to pitch.
+hits: 1503
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 1503 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "roshan_nechiyil"
+  - username: "rohitkhatrifitness"
     fullname: >-
-      روشن نشيل
+      Rohit Khatri
     bio: >-
-      Ex-Gemsian Wanderlust👣 Comrade🇦🇴 Petrolhead⛽ Fitness motive💪
+      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
     location: "India"
-    followers: 2481
-    engagement: 2755
-    commentsToLikes: 0.113174
-    id: ck8tbpujawn2w0j7869w8dsee
+    followers: 614738
+    engagement: 467
+    commentsToLikes: 0.004563
+    id: ck8wd6rbxdgf00j78gz3so4nb
     verified: false
-    hashtags: "#lovemalayalam, #mallureposts, #malayalamtypography, #mallu"
-  - username: "majiziya_bhanu"
+    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
+  - username: "apoorvaalex"
     fullname: >-
-      Dr. Majiziya Bhanu
+      𝘼𝙥𝙤𝙤𝙧𝙫𝙖 𝘼𝙡𝙚𝙭 💕
     bio: >-
-      Powerlifting World Champion 🇮🇳 Fitness Model And Physique🧕 International Arm Wrestler💪 For Enquiries/Collaborations 📩 DM @hafeezahammed
+      Fashion | Fitness Ordinary girl with big dreams ✨ YouTube link
     location: "India"
-    followers: 40568
-    engagement: 748
-    commentsToLikes: 0.046485
-    id: ck8wgdxerh6820j781r1t3c41
+    followers: 781730
+    engagement: 740
+    commentsToLikes: 0.011592
+    id: ckvbtb4xz6dpb0j2345pxwuk7
+    verified: false
+    hashtags: "#positivevibe, #girlwholift, #gym, #love"
+  - username: "thefitvogue"
+    fullname: >-
+      Yash Pal Singh
+    bio: >-
+      ▪️ : Menswear | Lifestyle | Fitness 📩 : thefitvogue@gmail.com 👻 : thefitvogue 📍 : Mumbai / Delhi 🇮🇳 Dm / Email for Collaboration⤵️ Living the dream…
+    location: "India"
+    followers: 106636
+    engagement: 632
+    commentsToLikes: 0.014788
+    id: ck6uevdl2takk0j71845dh2us
+    verified: false
+    hashtags: "#styling, #thefitvogue, #fashion, #explore"
+  - username: "akash_d_prabhu"
+    fullname: >-
+      AKASH DINESH PRABHU
+    bio: >-
+      Sky beast 🦁 Fashion and fitness 🦁
+    location: "India"
+    followers: 75729
+    engagement: 460
+    commentsToLikes: 0.008572
+    id: ckap402la59660i78p84xb03x
+    verified: false
+    hashtags: "#explore, #abs, #reels, #love"
+  - username: "zaveri_dhaval"
+    fullname: >-
+      Dhaval Zaveri
+    bio: >-
+      Digital Content Creator👤 Traveller 🗺| Lifestyle/Fashion🕴| Food | Motivation | #Mumbai #Lifestyle #Fashion #Sports #Fitness #Motivation #Comedy #Tech
+    location: "India"
+    followers: 109230
+    engagement: 283
+    commentsToLikes: 0.059515
+    id: ck8tc5m6jyd1v0j787w66w34t
+    verified: false
+    hashtags: "#dhavalzaveri, #respectallbandhans, #2023, #trending"
+  - username: "anupriyakapur"
+    fullname: >-
+      Anupriya
+    bio: >-
+      Single Mom | Blogger | Co-founder @imbuenatural Fitness. Lifestyle. Travel. Relatable Fashion.
+    location: "India"
+    followers: 238882
+    engagement: 204
+    commentsToLikes: 0.029517
+    id: ck13bcdbvuqyd0i19b00ekhkl
     verified: true
-    hashtags: ""
-  - username: "mohammed_rizvan_mr"
+    hashtags: "#shotoniphone14promax, #ad, #srilanka, #fitover40"
+  - username: "sparsh_alawadhi"
     fullname: >-
-      // RIZVAN MR //
+      SPARSH🥂
     bio: >-
-      | Nature • Music • Travel • Fitness • Food| 6 ft 2🕴 Bengaluru❌Kottakkal Auto Enthusiast 🚦 🃏
+      23 Fashion / Fitness / Lifestyle 📍| Delhi | India 👻 : sparsh9953 For collaborations 👇 📩 : sparsh.allawadi123456@gmail.com
     location: "India"
-    followers: 3081
-    engagement: 1903
-    commentsToLikes: 0.124660
-    id: ck6u14ey8jis10j71ztaj15dm
+    followers: 72526
+    engagement: 201
+    commentsToLikes: 0.033284
+    id: ckv1vnc6mw63e0j23hsofahqm
     verified: false
-    hashtags: "#aesthetic, #bangalorediaries, #vsco, #aestheticedits"
-  - username: "manu.sainii"
+    hashtags: "#instagood, #menwithstyle, #sexy, #men"
+  - username: "ajayjeswani88official"
     fullname: >-
-      Manu Saini
+      Ajay Jeswani
     bio: >-
-      🥇Teenage bodybuilder . 💪🏻Fitness model 16 y/old= 29’th MAY Sc👻 : manu_saini86 ਧਾਕੜ👇🏻
+      FITNESS INFLUENCERS personal trainer Wish me 25 march Dm for brand collaborations contact
     location: "India"
-    followers: 21277
-    engagement: 2425
-    commentsToLikes: 0.041115
-    id: ck9wfx3f3qw2a0j78i53fxb47
+    followers: 81448
+    engagement: 163
+    commentsToLikes: 0.026058
+    id: ck8wesk0tejw70j78qfocfgwn
     verified: false
-    hashtags: "#sainimanu, #nature, #gains, #love"
-  - username: "the_indian_messieurs"
+    hashtags: "#instagood, #lifestyle, #fitnessmodel, #asitisnutrition"
+  - username: "thepinkumbrella_diaries"
     fullname: >-
-      Shivam Gupta
+      Neha Modi Jalan
     bio: >-
-      🛡 The Indian Messieurs™ 👔 Fashion | Lifestyle | Fitness 🧑 NIFT | Fashion Designer & Model ▶️ Follow Me For Daily Fashion Updates 📩 DM/Mail For Collab
+      Life full of beautiful colors 🦋💕 | Fashion | Fitness | Beauty | Lifestyle | 💌 @thepinkumbrella10@gmail.com 📍Mumbai-Delhi 🇮🇳
     location: "India"
-    followers: 21426
-    engagement: 911
-    commentsToLikes: 0.073152
-    id: ck6tmcgr07l2x0j71tc2tt54p
+    followers: 101705
+    engagement: 140
+    commentsToLikes: 0.077030
+    id: ckaoumefp0wq10i78fhftflfb
     verified: false
-    hashtags: "#dapperlydone, #menblogger, #whiteaesthetic, #urbanfashion"
-  - username: "nishu9953"
+    hashtags: "#reelstrending, #reelsvideo, #reelitin, #reels"
+  - username: "harman_fitness_mommy"
     fullname: >-
-      Nisha Jaiswal
+      Harman Sidhu
     bio: >-
-      Engineer/ Model/ fashion / beauty /fitness/ lifestyle 🏅1st runner miss odisha photogenic 2k17 DM for collaboration and promotion
+      • Mom 🇮🇳 • Postpartum fitness influencer . Collaboration Brands events Pr : 📧 . harmansidhu1705@gmail.com . 📲 9041101099 . Coach @puneetbigguy
     location: "India"
-    followers: 19125
-    engagement: 898
-    commentsToLikes: 0.208597
-    id: ck8t7azzvg60o0j78w0llw6jd
+    followers: 328705
+    engagement: 60
+    commentsToLikes: 0.040862
+    id: ck6ueijgfr4qu0j71kxmhbqym
     verified: false
-    hashtags: "#beautybloggers, #fashionblogger, #indianblogger, #beromtlipsticks"
-  - username: "tamarawebb_"
-    fullname: >-
-      TAMARA WEBB 💫
-    bio: >-
-      Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
-    location: "India"
-    followers: 53255
-    engagement: 805
-    commentsToLikes: 0.078111
-    id: ck8tavj66t8pm0j7872g8sxdw
-    verified: false
-    hashtags: "#covid, #postpartum, #newmum, #outfitoftheday"
-  - username: "j_a_t_i_n_0001"
-    fullname: >-
-      J A T I N  P A N D O R
-    bio: >-
-      👔ᶠᴬˢᴴᴵᴼᴺ ᴮᴸᴼᴳᴳᴱᴿ . 📸ᴼᵂᴺᴱᴿ ᴶᴬᵀᴵᴺ ᴾᴴᴼᵀᴼᴳᴿᴬᴾᴴᵞ . 💪🏻ᶠᴵᵀᴺᴱˢˢ ᶠᴿᴱᴬᴷˢ . 🇮🇳ᴵᴺᴰᴵᴬᴺ (ᴳᵁᴶᴬᴿᴬᵀᴵ) . 🔈🎵 ᴸᴼᵛᴱ ᴹᵁˢᴵᶜ . 🌍ᴮᴰᴬᵞ :17th JuLY .
-    location: "India"
-    followers: 19496
-    engagement: 2019
-    commentsToLikes: 0.138288
-    id: ck0tzzdzys4gw0i19axkv6oxf
-    verified: false
-    hashtags: "#love, #color, #fashion, #fashionmodel"
-  - username: "ashique_sikku"
-    fullname: >-
-      🌿عاشِق /💓 ASHIQUE🌿
-    bio: >-
-      ☺ALHAMDULILLAH FOR EVERYTHING☺ 💪 fiTneSs Lover💪 ⚽ @arsenal @m10_official ⚽
-    location: "India"
-    followers: 2045
-    engagement: 1878
-    commentsToLikes: 0.144483
-    id: ckaow4xtc7g6c0i78nkftzy08
-    verified: false
-    hashtags: "#india, #keralagram, #malayalam, #travelphotography"
-  - username: "gowithheflowww"
-    fullname: >-
-      KHUSHI GUPTA🧚🏻‍♀️
-    bio: >-
-      💥5’7 || BEAUTY AND THE BEAST 💪🏻 💥I am curvyyy 🍑 💥FASHION | FITNESS| LIFESTYLE🦋 ♡Use code KHUSHI for 25% on @myproteinin 💌DM/ MAIL for shoots/collabs
-    location: "India"
-    followers: 52313
-    engagement: 846
-    commentsToLikes: 0.027572
-    id: ck5cbpvejfy0m0i11debhxnoy
-    verified: false
-    hashtags: "#fitgirl, #indianreels, #fitnessmodels, #indiantrend"
+    hashtags: "#pregnancyjourney, #whatiwore, #pregnancyworkout, #momlife"
 ---

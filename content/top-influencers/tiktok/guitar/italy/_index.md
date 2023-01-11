@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Italy in 2023
+title: Top 10 Guitar TikTok Influencers In Italy In 2023
 description: >-
-  Find top guitar TikTok influencers in Italy in 2023. Most popular hashtags: #music #guitar #perte #fyp.
+  Find top guitar TikTok influencers in Italy in 2023. Most popular hashtags: #perte #guitar #fyp #duetto.
 platform: TikTok
-hits: 24
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 24 TikTok influencers like this in Italy for you to contact.
+hits: 30
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 30 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "_twinsquad_official"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ⚡TwinSquad⚡ Artists 🇮🇹🎨 Lvl.18♀️ Sweet but psycho😈 Guitarists🎸 Cosplayers🤡
     location: "Italy"
-    followers: 37100
-    engagement: 2272
-    commentsToLikes: 0.028904
+    followers: 38500
+    engagement: 2220
+    commentsToLikes: 0.031471
     id: ckbbgerz8539g0j23qo2g7067
     verified: false
-    hashtags: "#fanart, #fyp, #like4llike, #duet"
+    hashtags: "#furryitalia, #furryfandom, #duetto, #furries"
   - username: "simonasansovini"
     fullname: >-
       Simona Sansovini
     bio: >-
-      Guitarist 🎸🇮🇹
+      Guitarist 🎸🇮🇹 (211K on IG)
     location: "Italy"
-    followers: 39700
-    engagement: 1037
-    commentsToLikes: 0.035613
+    followers: 42300
+    engagement: 1082
+    commentsToLikes: 0.038254
     id: ck9ekj4wp6orm0j78b8cglo18
     verified: false
-    hashtags: "#blues, #femaleguitarist, #guitar, #guitarist"
+    hashtags: "#bluesguitar, #guitarist, #guitar, #femaleguitarist"
   - username: "fedesixstring"
     fullname: >-
       Federico Cartello
     bio: >-
-      I play the 🎸 Follow me on Instagram for more videos !
+      Artist for:Gibson / D’addario/ Joyo/ Coatl Straps / BK Devices/Soundbrenner ⚡️
     location: "Italy"
-    followers: 3491
-    engagement: 858
-    commentsToLikes: 0.039213
+    followers: 5031
+    engagement: 999
+    commentsToLikes: 0.031121
     id: ck9gtx5wkopxw0j78u380gexu
     verified: false
-    hashtags: "#hardrock, #guitarsolo, #gunsnroses, #ledzeppelin"
-  - username: "rebygnesi"
+    hashtags: "#metallica, #guitar, #gunsnroses, #musica"
+  - username: "astrionismo"
     fullname: >-
-      ECLETTICA
+      Astrion
     bio: >-
-      piccola sciatrice fiorentina innamorata del canto e della sua 🎸🎢
+      Be proud who you are. 🌈❤️✨
     location: "Italy"
-    followers: 42300
-    engagement: 1893
-    commentsToLikes: 0.011443
-    id: ckc7zozpa1e0p0j23hjtitsuv
+    followers: 6436
+    engagement: 2629
+    commentsToLikes: 0.019712
+    id: ckauon659topc0j237gv2hb8x
     verified: false
-    hashtags: "#neiperte, #fyp, #singing, #perte"
-  - username: "giomustacchi"
+    hashtags: "#onedirection, #ff, #directioner, #1d"
+  - username: "chiaradelfrancia"
     fullname: >-
-      Gio Mustacchi
+      Chiara Del Francia
     bio: >-
-      📍From Palermo, Live in Brianza!🇮🇹 🥓 Ricette CROCCANTI e comicità BECERA 🐐💨
+      Si , sono Marti Insta: chiaradelfrancia
     location: "Italy"
-    followers: 17800
-    engagement: 1458
-    commentsToLikes: 0.070800
-    id: ckafu31548jv20i78c89d1mp7
+    followers: 12200
+    engagement: 2358
+    commentsToLikes: 0.016025
+    id: ck8z9stp9z9ga0j7893qof45z
     verified: false
-    hashtags: "#festaincasa, #ricetteveloci, #comeinunfilm, #verochef"
-  - username: "simon_evans"
+    hashtags: "#duetto, #xte, #perte, #saraemarti"
+  - username: "pietro_morello"
     fullname: >-
-      SIMON EVANS
+      Pietro Morello
     bio: >-
-      15 y/o musician/artist
+      Ciao! Sono Pietro e amo suonare! (Ogni tanto faccio arrabbiare i miei vicini)😂
     location: "Italy"
-    followers: 23700
-    engagement: 1710
-    commentsToLikes: 0.038413
+    followers: 1100000
+    engagement: 2052
+    commentsToLikes: 0.012021
+    id: ckc3ebqxkzu620j23o241m148
+    verified: true
+    hashtags: "#morelloimpara, #piano, #viral, #fyp"
+  - username: "reddwin"
+    fullname: >-
+      Edwin
+    bio: >-
+      
+    location: "Italy"
+    followers: 23300
+    engagement: 1818
+    commentsToLikes: 0.000000
     id: ckb8ya7cbdhcm0j238mpeid0d
     verified: false
-    hashtags: "#foryou, #music, #lesbian, #neiperte"
-  - username: "ariipalazzetti"
+    hashtags: "#lesbian, #perte, #music, #neiperte"
+  - username: "_lorecesaro_"
     fullname: >-
-      Arianna Palazzetti
+      Lorenzo Cesaro
     bio: >-
-      canto sempre
+      Real Pro🔱
     location: "Italy"
-    followers: 13500
-    engagement: 1280
-    commentsToLikes: 0.034841
-    id: ck8tueaczshx80j78bxc7sdbl
+    followers: 132200
+    engagement: 1330
+    commentsToLikes: 0.026617
+    id: ck9n4vnfa5v380j78yx5o4kbg
     verified: false
-    hashtags: "#music, #italy, #ladygaga, #sing"
-  - username: "nicola.romolo"
-    fullname: >-
-      Nicola
-    bio: >-
-      CEO of 🏀🏀💢 20 yo🍫 Rome🇮🇹 Road to 150k🔒
-    location: "Italy"
-    followers: 134000
-    engagement: 1498
-    commentsToLikes: 0.021350
-    id: ckdbc27416lyp0j238o3tkrm1
-    verified: false
-    hashtags: "#virale, #opponightmode, #duetto, #viral"
+    hashtags: "#dance, #party, #disturbia, #moves"
   - username: "giorgiovanniofficial"
     fullname: >-
       Giorgio Vanni
     bio: >-
       🏴‍☠️CIURMA🏴‍☠️ Benvenuti sull’account ufficiale del Capitano!
     location: "Italy"
-    followers: 18800
-    engagement: 1071
-    commentsToLikes: 0.020510
+    followers: 20400
+    engagement: 1058
+    commentsToLikes: 0.019992
     id: cka6oq6ckgioj0i7847ul87pp
     verified: false
-    hashtags: "#pervoi, #perte, #dragonball, #youtube"
-  - username: "simoprax"
+    hashtags: "#pervoi, #perte, #dragonball, #giorgiovanni"
+  - username: "lucyvanpelt4"
     fullname: >-
-      Simone Cretti
+      Lucy Vanpelt
     bio: >-
-      ciao, faccio cose
+      
     location: "Italy"
-    followers: 7164
-    engagement: 550
-    commentsToLikes: 0.090503
-    id: ckcejyqdvt2ej0j23oxyk0ho3
+    followers: 2674
+    engagement: 530
+    commentsToLikes: 0.040408
+    id: ckdi8hu1mazm10j237q0kfzrs
     verified: false
-    hashtags: "#foryoupage, #quarantena, #iorestoacasa, #italy"
+    hashtags: "#chemioterapia, #cancro, #balletto, #coronavirus"
 ---

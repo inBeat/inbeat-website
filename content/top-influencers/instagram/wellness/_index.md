@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers in 2023
+title: Top 10 Wellness Instagram Influencers In 2023
 description: >-
-  Find top wellness Instagram influencers in 2023. Most popular hashtags: #wellness #exploreitaly #selfcare.
+  Find top wellness Instagram influencers in 2023. Most popular hashtags: #ad #wellness #selfcare.
 platform: Instagram
-hits: 5386
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 5386 Instagram influencers like this for you to connect with.
+hits: 5262
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 5262 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "newtonbogue"
+  - username: "lisablane.nutrition_wellness"
     fullname: >-
-      Adam
+      Wellness Coach - Lisa Blane
     bio: >-
-      NYC/LA restauranteur turned green bath, beauty & wellness brand Cofounder in the Ojai Valley, CA.
+      Helping you create a healthy lifestyle beyond the plate. Author of ‘The Wellness Mindset’ - now available on Amazon! ⬇️
     location: "United States"
-    followers: 13018
-    engagement: 1430
-    commentsToLikes: 0.123402
-    id: ck8sx6wa3gcto0j78hijxj1jd
+    followers: 75192
+    engagement: 164
+    commentsToLikes: 0.062766
+    id: ck15utzumoixi0i19k4w95ai3
     verified: false
-    hashtags: "#staysafe, #elcapitan, #deepbreaths, #harper"
-  - username: "_jasminvanessa"
+    hashtags: "#wellness"
+  - username: "annierose.nelson"
     fullname: >-
-      JΛSMIN ╳ VΛNESSΛ
+      Annie Rose Nelson
     bio: >-
-      ur virtual soul sis Unfiltered LA creative💃🏽 Life+CurvyStyle ✘ Wellness ✘ Advocacy join the fam #jasmINSPIRED jasminvanessa93@gmail.com TRAVEL W/ ME ↓
+      NYC | life, wellness, favs, food tiktok @ annierosenelson ✉️ msannierose@gmail.com meal plan below
     location: "United States"
-    followers: 30774
-    engagement: 1246
-    commentsToLikes: 0.172423
-    id: ck55mxhoz51bd0i11q9fhs1x0
+    followers: 66355
+    engagement: 699
+    commentsToLikes: 0.006191
+    id: cl0cxzu0qgll50i23a9luo6oi
     verified: false
-    hashtags: "#revolveme, #spookyszn, #fallootd, #31nightsofhalloween"
-  - username: "fit.full.life"
+    hashtags: "#workoutroutine, #motivationalquotes, #productive, #healthyliving"
+  - username: "rrayyme"
     fullname: >-
-      Julie
+      Remi Ishizuka
     bio: >-
-      Registered Dietitian • B.S. Nutrition and Exercise Physiology • Barre Certified • Mom of 4 • Food, Fitness and Wellness
+      Health | Wellness | Easy recipes | Lifestyle Co-Founder @clubhomebodies Join our 21 day challenge👇🏼
     location: "United States"
-    followers: 8757
-    engagement: 1973
-    commentsToLikes: 0.386816
-    id: ck6tukukugwtw0j718rwi641a
-    verified: false
-    hashtags: "#bodypositive, #dietitiansofinstagram, #strongcore, #healthyliving"
-  - username: "karoliinamakela"
+    followers: 377687
+    engagement: 414
+    commentsToLikes: 0.013939
+    id: ck0tztrryrlv90i19i3yavym2
+    verified: true
+    hashtags: "#targetfinds, #shopwithme, #hmxme, #skincare"
+  - username: "kirra.mov"
     fullname: >-
-      Karoliina | yrittäjä
+      Kirra Dickinson
     bio: >-
-      🌻Owner @sarmamedia 🌸@wellnessmalli.fi 2019 🥈 ♡ Hyvinvointia rennosti ✧ Tyyli-inspistä, arjen pieniä iloja ja somevinkkejä
-    location: "Finland"
-    followers: 9051
-    engagement: 1432
-    commentsToLikes: 0.120080
-    id: ck5hfiuu8xosh0i1112ksidwk
-    verified: false
-    hashtags: "#nextory, #rikkaampiel, #bubbleroomstyle, #evolveorganic"
-  - username: "chloe__chamberlain"
-    fullname: >-
-      Chloe Chamberlain
-    bio: >-
-      Owner + Designer @balanceathletica⁣⁣⁣⁣ @tolucaswim ⁣ 📚Purdue University Alumn ⁣⁣⁣ 📈 Business 🌿 Health 💋 Beauty ⚖️ Wellness⁣⁣⁣⁣⁣⁣⁣ ⁣
+      🇺🇸🇯🇵⁣ ♡ Mgmt: @nextmodels ⁣ ♡ Lifestyle, Wellness, Mental Health⁣ ♡ Dickinsonkirra@gmail.com⁣⁣⁣⁣ / luis@nextmanagement.com
     location: "United States"
-    followers: 71960
-    engagement: 1212
-    commentsToLikes: 0.088736
-    id: ck0uav00bd2xv0i19127d3k1s
+    followers: 101836
+    engagement: 1026
+    commentsToLikes: 0.009725
+    id: cl3u8mp8matcs0i238u8gj4gj
     verified: false
-    hashtags: "#stayhome, #flattenthecurve, #bywomxnforwomxn"
-  - username: "sashannr"
+    hashtags: "#wellnessjourney, #morningvibes, #inspirationalreels, #minivlog"
+  - username: "kbfitusa"
     fullname: >-
-      S A S H A ⋆ 🌿 ✈️ Travel
+      KATIE🥊
     bio: >-
-      Holistic obsessed Torontonian 🇨🇦 with a penchant for travelling. 🌍Globetrotting since 2012 Travel ∣ Wellness ∣ Activism ↓ BOOK WITH US ↓
-    location: "Canada"
-    followers: 7113
-    engagement: 1253
-    commentsToLikes: 0.349170
-    id: ckap3ha6z2zxu0i78bws33m0g
-    verified: false
-    hashtags: "#alllivesmatter, #kidding, #imsooldlol, #amplifymelanatedvoices"
-  - username: "tayruths"
-    fullname: >-
-      Tay Ruth Welgoss
-    bio: >-
-      ⋒ hey, I’m tay! I’m goofy & encouraging 😊 I share about my lifestyle, faith & suffering. 🍁 ⋒home&wellness: @tayruthwel ✉️: tayruthblog@gmail.com
+      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
     location: "United States"
-    followers: 13476
-    engagement: 1162
-    commentsToLikes: 0.121753
-    id: ck55jcu9qwrzh0i11jnqc3a25
+    followers: 74597
+    engagement: 2547
+    commentsToLikes: 0.009460
+    id: cl4ipwlnnsa1u0i23nwgkjc0b
+    verified: false
+    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
+  - username: "meg.boggs"
+    fullname: >-
+      Meg Boggs
+    bio: >-
+      🏋🏽‍♀️ powerlifter. author. self-lover. mother. ✨ confidence + fitness + wellness 📖 #fitnessforeverybody | #thankyoubody 📍 DFW 💌hello@megboggs.com
+    location: "United States"
+    followers: 442726
+    engagement: 871
+    commentsToLikes: 0.011689
+    id: ck0w5n1yw4gk00i19u62dqgfa
+    verified: true
+    hashtags: "#healthierhappenstogether, #ivfjourney, #cvspartner, #fitnessforeverybody"
+  - username: "kennedybonham_"
+    fullname: >-
+      Kennedy Bonham
+    bio: >-
+      health & wellness ⚡️ @ehplabs & @inakapower code 'KENNEDY10' houston, texas TrainWithKennedy ✨👇🏽
+    location: "United States"
+    followers: 119770
+    engagement: 1098
+    commentsToLikes: 0.011210
+    id: cl7i19kuptxul0i23f4u9t8fi
     verified: false
     hashtags: ""
-  - username: "withashleykay"
+  - username: "nadiaboule"
     fullname: >-
-      Ashley Kay, PA-C
+      Nadia Boule
     bio: >-
-      📍ORL, FL 💉Vascular Surgery Physician Assistant⠀⠀⠀⠀⠀⠀⠀ 💍 Bride-to-be 🧠More Education, Health, & Wellness Here: http://www.withashleykay.com/
+      Life is what happens to you when you're busy making other plans. Wellness lifestyle lover @b_bynadiaboule
+    location: "Greece"
+    followers: 158914
+    engagement: 794
+    commentsToLikes: 0.008893
+    id: ck0vzvoqfb4gu0i19yceak34d
+    verified: false
+    hashtags: "#flowers, #modernparents, #9monthspregnant, #readytopop"
+  - username: "meaganjmitchell"
+    fullname: >-
+      Meagan Mitchell
+    bio: >-
+      📍LA Fashion | Beauty | Travel | Wellness @ayurveda.collective
     location: "United States"
-    followers: 35532
-    engagement: 684
-    commentsToLikes: 0.123323
-    id: ck5c4ae1p0xqz0i11daqs65ur
+    followers: 63235
+    engagement: 410
+    commentsToLikes: 0.002657
+    id: ck5bwid22lrd40i11q6bcipuy
     verified: false
-    hashtags: "#physicianassistant, #livebetterbycvshealth, #womeninmedicine, #linkinbio"
-  - username: "brooklynkitten_"
+    hashtags: "#ootd, #ad, #lookoftheday, #monday"
+  - username: "ochristine"
     fullname: >-
-      paulina | brooklyn kitten
+      O. Christine | Travel • Wellness • Outdoors
     bio: >-
-      left nyc for the world // always seeking the magic💫 travel • wellness • spirituality • positivity ✨ blog↡ | 💌paulina@brooklynkitten.com
-    location: "United Kingdom"
-    followers: 32981
-    engagement: 649
-    commentsToLikes: 0.087854
-    id: ck0w6b0697pny0i19vpnmhdoe
-    verified: false
-    hashtags: "#amazingthailand, #travelvietnam, #hoianancienttown, #exploreitaly"
-  - username: "kundaliniyoginiprasiddha"
-    fullname: >-
-      PRASIDDHA🌿Health&Spirit Coach
-    bio: >-
-      Here to share authentic Yoga, Ayurveda & Hindu spirituality🧡💫 Certified Ayurvedic Wellness Counselor🌱 India 🕌 & LA 🌊 For free resources and booking👇🏻
+      🌿 helping you travel + get outdoors for wellness 🇵🇷 afro latina with lupus 🎥 seen: OWN, CNN 📧 info@ochristine.com 👩🏽‍🏫 learn: getoutdoors101.com
     location: "United States"
-    followers: 8814
-    engagement: 1122
-    commentsToLikes: 0.084211
-    id: ck9ha2pmsaw7d0j783nn2j00v
+    followers: 24802
+    engagement: 5637
+    commentsToLikes: 0.072351
+    id: ckmw2p3x78u540j23ltwjjsce
     verified: false
-    hashtags: "#soul, #reflection, #cosmos, #heal"
+    hashtags: "#nomadness, #optoutdoors, #shetravels, #traveldestinations"
 ---

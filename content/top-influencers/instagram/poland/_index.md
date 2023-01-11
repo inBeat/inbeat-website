@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Poland in 2023
+title: Top 10 Instagram Influencers In Poland In 2023
 description: >-
-  Find top Instagram influencers in Poland in 2023. Most popular hashtags: #makeup #wakeupandmakeup #polishgirl #anastasiabeverlyhills.
+  Find top Instagram influencers in Poland in 2023. Most popular hashtags: #polska #sukienka #warszawa.
 platform: Instagram
-hits: 7641
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 7641 Instagram influencers like this in Poland for you to collaborate.
+hits: 6946
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 6946 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "angelika_rysz"
+  - username: "carlita_music"
     fullname: >-
-      Angelika
+      C A R L I T A
     bio: >-
-      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
+      ⚡Here to make you dance⚡ NA: Andrew@liaisonartists.com Europe: dc@temporary-secretary.net MGMT: M@unreal-mgmt.com Listen to Cinecittà 👇🏼
     location: "Poland"
-    followers: 3646
-    engagement: 1525
-    commentsToLikes: 0.346529
-    id: ck5zizhb5gnvu0i14guq3n633
+    followers: 64731
+    engagement: 463
+    commentsToLikes: 0.033339
+    id: ck55ngzwy672i0i11wktkg47a
     verified: false
-    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
-  - username: "natalia.wlo"
+    hashtags: "#whotels, #wrome, #cercle"
+  - username: "siostry_adihd"
     fullname: >-
-      Natalia Włodarczyk | MAKEUP
+      Ilona i Milena Krawczyńskie
     bio: >-
-      💄 Make Up 📬 wlodarczyknata@gmail.com / DM
+      👯‍♀️ Siostry - nie bliźniaczki ⭐️ Influencerki roku by @ofemininpl ☺️ Ambasadorki @puma 📺 Prowadząca @farmapolsat 📧 kontakt@siostryadihd.pl
     location: "Poland"
-    followers: 2028
-    engagement: 7526
-    commentsToLikes: 0.453836
-    id: ck9h9qtsu9li70j782of8952z
+    followers: 291737
+    engagement: 555
+    commentsToLikes: 0.022661
+    id: ck0u0xampv6360i19rgjvx070
     verified: false
-    hashtags: "#makeuprevolution, #miyo, #anastasiabeverlyhills, #makeuplover"
-  - username: "dulcysiowe"
+    hashtags: "#siostry, #siostryadihd, #nowysacz, #tanieczgwiazdami"
+  - username: "simci.a"
     fullname: >-
-      | AGA |
+      Cozy christmas winter xmass 🎅🏼❄️🎄
     bio: >-
-      Mama, żona i kobieta z wieloma pasjami 🖤 Insta to moje miejsce na wyrażenie siebie 📷 ⬇️ Contact/Collab ⬇️ 📧 agnieszkale1@gmail.com
+      Zakręcona #Włoszka 🇵🇱🇮🇹 #fotografia moja pasja 📸 Zostań ze mną na dłużej 📩Collab.DM /simona979@o2.pl 🥰
     location: "Poland"
-    followers: 2266
-    engagement: 3956
-    commentsToLikes: 0.270734
-    id: ck8t9xugdpqqf0j784o2ww3iy
+    followers: 10305
+    engagement: 1507
+    commentsToLikes: 0.055238
+    id: ckap528vu9v0o0i78xjvwhocs
     verified: false
-    hashtags: "#cozymood, #aesthethic, #myeverydaymagic, #polskakobieta"
-  - username: "patrycja_roll"
+    hashtags: "#skin, #xmas, #vegan, #body"
+  - username: "wersow"
     fullname: >-
-      𝓟𝓪𝓽𝓲  Ⓡ
+      WERONIKA SOWA
     bio: >-
-      📍 Ｗｒｏｃłａｗ 🇵🇱/ 🇮🇹/ 🇬🇧 ⚜️ 𝓁𝒾𝒻𝑒𝓈𝓉𝓎𝓁𝑒 ⚜️ 𝒶𝓃𝒾𝓂𝒶𝓁 𝓁𝑜𝓋𝑒𝓇 ⚜️ 𝑅𝓎𝓈𝒾𝑜’𝓈 𝓂𝑜𝓂 🐱 ⚜️ 💍 patrycjarola0@gmail.com 📩📥
+      INFLUENCER & YOUTUBER 🎬 YouTube: WERSOW (2,3 MLN) 🔺 TikTok: WERSOW (2,8 MLN) 📩 dominik@db4.pl
     location: "Poland"
-    followers: 2244
-    engagement: 3498
-    commentsToLikes: 0.120702
-    id: ckap4vhtz92dw0i78pidkhq9i
+    followers: 3014302
+    engagement: 465
+    commentsToLikes: 0.002406
+    id: ck15siy8ud8qm0i1949k0y4pm
     verified: false
-    hashtags: "#poland, #winelovers, #koncowkalata, #polishsea"
-  - username: "jewska.makeup"
+    hashtags: "#blackopium, #etam, #feelfree, #etamsquad"
+  - username: "jeanetelife"
     fullname: >-
-      Jewska Makeup
+      Żaneta Ochmańska-Król
     bio: >-
-      🎨Self-taught makeup artist in progress 📩 jewska.makeup@gmail.com 🇵🇱 Wrocław, Poland
+      mom of Sara & Melisa 🎀 founder 👇🏻 presets @instaksiegarnia planners @allecudo ✺ 🕊 mail: jeanetelife@gmail.com
     location: "Poland"
-    followers: 3950
-    engagement: 3277
-    commentsToLikes: 0.219874
-    id: ck5qdwruaxnx10i113sbecb9m
+    followers: 220178
+    engagement: 796
+    commentsToLikes: 0.007616
+    id: ck0tz9tinpnvl0i19e4f9183g
     verified: false
-    hashtags: "#plouisebase, #rozdaniekosmetyczne, #konkurs, #makeupaddict"
-  - username: "gvbiik"
+    hashtags: "#jestemwciazy, #jesiennastylizacja, #kochamnadzycie, #jesiennestylizacje"
+  - username: "bvemil"
     fullname: >-
-      Gabriela 💫
+      𝕊𝕒𝕤𝕙𝕒 𝕋𝕙𝕖 𝕆𝕨𝕟𝕖𝕣
     bio: >-
-      💄self-taught and still learning 📩 gabriela424@o2.pl
+      🎬YouTuber -> 250.000 🇵🇱/🇪🇸 📊Ceo @tokacars 🔰Ceo @bezpieczneautousa 🏁Wicemistrz Polski drag AWD Turbo
     location: "Poland"
-    followers: 3270
-    engagement: 2894
-    commentsToLikes: 0.170808
-    id: ck8tcrpnh0f4j0j786b2j06w6
+    followers: 125149
+    engagement: 1251
+    commentsToLikes: 0.004972
+    id: ckaoxu2pver8g0i78awwb41ld
     verified: false
-    hashtags: "#polishmakeup, #bperfectcarnivalpalette, #retrobykarolinazientek, #browgame"
-  - username: "dwojka_styczniowa"
+    hashtags: "#mustang, #lubin, #sopot, #toru"
+  - username: "kamerzysta69"
     fullname: >-
-      Magdalena
+      Kamerzysta 🎥
     bio: >-
-      Spełniona Mama i Żona 😊 ❤ 28.01.2014 Stasiu 😍 💍24.12.2016💍 👣 👶 16.01.2018 Kornelka 😍 MĄŻ & ŻONA 💏😍 💒 28.09.2018 👰 09.2020🏡
+      
     location: "Poland"
-    followers: 2661
-    engagement: 2845
-    commentsToLikes: 0.120534
-    id: ck15qy5tq581s0i19yzey5mqs
+    followers: 1265448
+    engagement: 1304
+    commentsToLikes: 0.023958
+    id: ck1358o6h091b0i19gp3kv8ks
     verified: false
-    hashtags: "#tbt"
-  - username: "mil_ciia"
+    hashtags: "#zadyma, #mma, #freakfight, #primemma"
+  - username: "kasiamvp"
     fullname: >-
-      Milena🦋
+      _______Kasia
     bio: >-
-      Mińsk Mazowiecki/Warszawa
+      🫧 „Napad” out now!
     location: "Poland"
-    followers: 2522
-    engagement: 2817
-    commentsToLikes: 0.160968
-    id: ck8td3luv1q650j78b9b3culz
+    followers: 45307
+    engagement: 404
+    commentsToLikes: 0.008743
+    id: ckaowesot8mbq0i78nv71v5rl
     verified: false
-    hashtags: "#szarewlosy, #outfit, #streetstyle, #makeuplover"
-  - username: "ewela_sien"
+    hashtags: "#instavacation, #portrait, #wonderfulplaces, #rsa"
+  - username: "kolorowa_dusza"
     fullname: >-
-      Ewelina Sienkiewicz
+      Gabriela Koperska | Stylizacje | Ciekawe miejsca
     bio: >-
-      🎤 Wokalistka 🎧 www.gesek.pl 🙋🏻‍♀️ 169 cm ✉️msu.sienkiewicz@gmail.com 🇵🇱warmińsko-mazurskie
+      #Rzeszów 💌 kontakt@kolorowadusza.com 🙍🏽Blogerka i właścicielka biura @aktowka Pokazuję ciekawe miejsca 🏔 Kocham koty i kwiaty 🌼 💻 Blog
     location: "Poland"
-    followers: 6224
-    engagement: 2720
-    commentsToLikes: 0.089399
-    id: ck8t1gekbvo610j78khrufkn5
+    followers: 16735
+    engagement: 431
+    commentsToLikes: 0.063184
+    id: ck5qeiiid0ntk0i1168ysovbv
     verified: false
-    hashtags: "#mirrorselfie, #nogi, #sunnyday, #shortdress"
-  - username: "oleksy_patrycja_"
+    hashtags: "#weddingblog, #italy, #wakacje, #weddingdress"
+  - username: "sylwiawasik.makeupartist"
     fullname: >-
-      Patrycja
+      Sylwia Wąsik Make Up Artist
     bio: >-
-      In love with traveling ✈️ and fashion👠 @nizio1 💍
+      Make Up Artist Makijaż, szkolenia indywidualne i grupowe Wierzchowiska pierwsze 42, 27-350 Sienno Oferta szkoleń grupowych w zakładce WYDARZENIA FB
     location: "Poland"
-    followers: 2608
-    engagement: 2656
-    commentsToLikes: 0.328281
-    id: ckaozwm0hnqfu0i78rt8g4vi5
+    followers: 45739
+    engagement: 402
+    commentsToLikes: 0.014260
+    id: ck6u1out5mzw40j71d7uxub0y
     verified: false
-    hashtags: "#throwback, #bdaygirl, #oliviastar, #oliviastar360"
+    hashtags: "#foxyeyesmakeup, #makeup, #foxy, #mattemakeup"
 ---

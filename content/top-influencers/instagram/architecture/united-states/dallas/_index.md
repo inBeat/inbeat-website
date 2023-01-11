@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Dallas in 2023
+title: Top 10 Architecture Instagram Influencers In Dallas In 2023
 description: >-
-  Find top architecture Instagram influencers in Dallas in 2023. Most popular hashtags: #architecture #dallas #art #design.
+  Find top architecture Instagram influencers in Dallas in 2023. Most popular hashtags: #architecture #design #dallas #nature.
 platform: Instagram
-hits: 29
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 29 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 36
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 36 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "sushiiimilk"
+  - username: "thepottedboxwood"
     fullname: >-
-      Female Tattoo Artist
+      The Potted Boxwood
     bio: >-
-      Bringing you: Tattoos, Jams, & Threads DM for booking inquires Deposit required ✨
+      all things timeless, everything chic 🍃 by Christina Dandar #ChicinDallas
     location: "United States"
-    followers: 12037
-    engagement: 1141
-    commentsToLikes: 0.043071
-    id: ck6tu8c3cevrb0j71kdtyt3d9
+    followers: 127402
+    engagement: 177
+    commentsToLikes: 0.019815
+    id: ck14h5cef8m140i19ocedqni0
     verified: false
-    hashtags: "#styledby, #plants, #fyp, #ootd"
-  - username: "jenkinsinteriors"
-    fullname: >-
-      jenkins interiors
-    bio: >-
-      High-End Residential, Full-Scale Interior Design Firm located in Dallas, TX #schemescometrue #dallas #interiordesign
-    location: "United States"
-    followers: 52912
-    engagement: 233
-    commentsToLikes: 0.027789
-    id: ckaor092hl5pv0i785nqqsfgj
-    verified: false
-    hashtags: "#interiordesign, #classyinteriors, #homeinteriors, #dallasdesigndistrict"
-  - username: "stephensillsassociates"
-    fullname: >-
-      Stephen Sills Associates
-    bio: >-
-      Designer of interiors, constant gardener, lover of beautiful things
-    location: "United States"
-    followers: 61371
-    engagement: 182
-    commentsToLikes: 0.033726
-    id: ck55lez4b1eto0i11bfh281s5
-    verified: false
-    hashtags: "#interiordesign, #decoration, #stephensills, #design"
+    hashtags: "#curbappeal, #home, #chicindallas, #design"
   - username: "lovesdfw"
     fullname: >-
       Ben Zavala
     bio: >-
       Dallas, TX. Architecture | City Landscape | Travel Sony A7iii | Sony a6500 👇 For prints 👇
     location: "United States"
-    followers: 3633
-    engagement: 1688
-    commentsToLikes: 0.030993
+    followers: 3639
+    engagement: 888
+    commentsToLikes: 0.031705
     id: ck135dhp90wpw0i195ux6vys6
     verified: false
     hashtags: ""
-  - username: "__czzar__"
+  - username: "shannonbowersdesigns"
     fullname: >-
-      
+      Shannon Bowers
     bio: >-
-      @_ceasar_salad_
+      Dallas Based Interior Designer & Editor-at-Large, Milieu Magazine
     location: "United States"
-    followers: 20708
-    engagement: 678
-    commentsToLikes: 0.032659
-    id: ck5qax6e4iptm0i11gtmvhazo
+    followers: 6067
+    engagement: 409
+    commentsToLikes: 0.067250
+    id: ck0u0j1lftwsy0i19crzvs5ey
     verified: false
-    hashtags: "#ontheroofs, #artofvisuals, #citykillerz, #urbex"
-  - username: "theamericanmansion"
+    hashtags: "#interiordesign, #architecture, #shannonbowersdesigns, #milieumagazine"
+  - username: "stephensillsassociates"
     fullname: >-
-      The American Man$ion
+      Stephen Sills Associates
     bio: >-
-      The best address for luxury #realestate and fine #interiordesign 🏡 Architectural Designer ❯ Creator ❯ Content Manager ❯ @amazon Aff
+      Designer of interiors, constant gardener, lover of beautiful things
     location: "United States"
-    followers: 86906
-    engagement: 126
-    commentsToLikes: 0.026231
-    id: ck5hpsd27rvzi0i11d48qz71f
+    followers: 68327
+    engagement: 157
+    commentsToLikes: 0.037456
+    id: ck55lez4b1eto0i11bfh281s5
     verified: false
-    hashtags: "#newjerseyrealestate, #dallasrealestate, #luxuryhome, #frenchinspired"
-  - username: "shmarchitects"
+    hashtags: "#bedford, #decoration, #gardendesign, #interiordesign"
+  - username: "platinumserieshomes"
     fullname: >-
-      SHM Architects
+      Platinum Homes
     bio: >-
-      We believe that passion and time lead to beautiful, purposeful designs.
+      Custom home builder in Dallas, Texas. Exquisite craftsmanship, unique luxury design and functional living.
     location: "United States"
-    followers: 16935
-    engagement: 165
-    commentsToLikes: 0.018140
-    id: ck6ttws5nd0ma0j71xcvkg2hz
+    followers: 40685
+    engagement: 119
+    commentsToLikes: 0.019470
+    id: ck8t87u3sjdry0j78rgmdrftv
     verified: false
-    hashtags: "#interiordesign, #office, #interior, #texas"
+    hashtags: "#luxuryhome, #customhomes, #luxurylifestyle, #luxuryhomes"
+  - username: "sushiiimilk"
+    fullname: >-
+      Female Tattoo Artist
+    bio: >-
+      @inkhousetattoos214 @sushiiimilkink Bringing you: Tattoos, Jams, & Threads DM for booking inquiries Now accepting March/April appt Deposit required
+    location: "United States"
+    followers: 13422
+    engagement: 1662
+    commentsToLikes: 0.037151
+    id: ck6tu8c3cevrb0j71kdtyt3d9
+    verified: false
+    hashtags: "#fffemales, #instagood, #architecture, #vintage"
+  - username: "harinehas"
+    fullname: >-
+      Srinis_photos📷🌏🌟
+    bio: >-
+      Dallas TX- Travel inspirationalist. Exploring landscapes -architecture - culture 📸 shot by me
+    location: "United States"
+    followers: 21551
+    engagement: 773
+    commentsToLikes: 0.013486
+    id: ck15qrf0m4af30i19vqav6pm7
+    verified: false
+    hashtags: "#nakedplanet, #z6, #travelnoire, #earthfocus"
+  - username: "jaguarcontainers"
+    fullname: >-
+      Jaguar Containers
+    bio: >-
+      🔥Need a NO FEES Bank Account💰💰🔥 . Click 👇🏾👇🏿 .
+    location: "United States"
+    followers: 72112
+    engagement: 150
+    commentsToLikes: 0.007958
+    id: ck6tz8edw87jx0j715h63gb21
+    verified: false
+    hashtags: "#dreamhouse, #trendy, #millennials, #homeideas"
+  - username: "jrh79_"
+    fullname: >-
+      Juan R Hernandez
+    bio: >-
+      Also @spherephotographyjrh79 All pics are mine or of Me! Prints Available Ft Worth Tx🇺🇸 Gto🇲🇽 🎱📷💀🚲✈👇🏽👇🏽👇🏽
+    location: "United States"
+    followers: 4324
+    engagement: 885
+    commentsToLikes: 0.082355
+    id: ck0tznhcvr0z20i19rx7g0ac7
+    verified: false
+    hashtags: "#texas, #nightphotography, #visualambassadors, #funkytown"
   - username: "marcosal85"
     fullname: >-
       Marco
     bio: >-
       •ARCHITECT •MODEL •TRAVELER •CONTENT CREATOR •DALLAS, TX. 📍 For bookings/brand deals: ✉️officialmarcosal85@gmail.com
     location: "United States"
-    followers: 104448
-    engagement: 294
-    commentsToLikes: 0.021462
+    followers: 129488
+    engagement: 408
+    commentsToLikes: 0.024418
     id: ckaoujcuc0iy50i78ms1a6005
     verified: false
-    hashtags: "#veins, #scruff, #studs, #traveltheworld"
-  - username: "jenm_xx"
-    fullname: >-
-      Jennifer Marckx
-    bio: >-
-      #blacklivesmatter Seattle 🌎 Furniture 🛠 Architecture Viz 🌇 Women in Business 💪🏽
-    location: "United States"
-    followers: 13889
-    engagement: 592
-    commentsToLikes: 0.054012
-    id: ckap0nnygr3ar0i78hcf6z78c
-    verified: false
-    hashtags: "#becauseidontknow, #imgoodluvenjoy, #justiceforahmaud, #dutchbraidenergy"
-  - username: "thefunkgypsy"
-    fullname: >-
-      Michele Moss Design
-    bio: >-
-      🌿 Dallas Interior & Event Designer 💙 Featured Designer @houzz 🌿 Home Decor & Lifestyle 💙 San Diego, CA ——> Prosper, TX
-    location: "United States"
-    followers: 26484
-    engagement: 266
-    commentsToLikes: 0.266009
-    id: ck0vy969v2u8w0i19k0mgf73x
-    verified: false
-    hashtags: "#bhghome, #fashionblogger, #hgtv, #ighome"
+    hashtags: "#travel, #newmexico, #hairy, #scruff"
 ---

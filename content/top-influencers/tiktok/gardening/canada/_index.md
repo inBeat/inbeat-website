@@ -1,108 +1,96 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Canada in 2023
+title: Top 10 Gardening TikTok Influencers In Canada In 2023
 description: >-
-  Find top gardening TikTok influencers in Canada in 2023. Most popular hashtags: #foryou #fyp #foryoupage #gardening101.
+  Find top gardening TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #foryou #foryoupage.
 platform: TikTok
-hits: 92
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 92 TikTok influencers like this in Canada for you to contact.
+hits: 63
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 63 TikTok influencers like this in Canada for you to connect with.
 profiles:
-  - username: "averagesizedpp"
-    fullname: >-
-      Averagesizedpp
-    bio: >-
-      Your moms a gardening tool 👻 - matthewsyrovy
-    location: "Canada"
-    followers: 65500
-    engagement: 1016
-    commentsToLikes: 0.013724
-    id: ck807c75iprlx0j78gzdswj3r
-    verified: false
-    hashtags: "#duet, #foryou, #fyp, #viral"
   - username: "theplantladyk"
     fullname: >-
       Kelly O'Mara
     bio: >-
       Indoor/Outdoor plants. Rad since 1981. Toronto. BLACK LIVES MATTER ✊✊🏻✊🏽✊🏿
     location: "Canada"
-    followers: 2239
-    engagement: 631
-    commentsToLikes: 0.094540
+    followers: 2296
+    engagement: 826
+    commentsToLikes: 0.130526
     id: ckd0qjeygi73w0j231u2nzj4h
     verified: false
-    hashtags: "#plants, #fall, #flowers, #summer"
+    hashtags: "#greenthumb, #learnontiktok, #holidaydecor, #plants"
   - username: "maytalfay"
     fullname: >-
       Maytal Fay
     bio: >-
       Hey 😇 insta: maytalfsegal
     location: "Canada"
-    followers: 6756
-    engagement: 128
-    commentsToLikes: 0.061752
+    followers: 6747
+    engagement: 169
+    commentsToLikes: 0.057687
     id: ckbfe59ns7wqy0j23463345oq
     verified: false
-    hashtags: "#foryoupage, #fyp, #petroutine, #esportsforall"
-  - username: "jessiejj90"
-    fullname: >-
-      Jessie Jacobson
-    bio: >-
-      Teaching you how to 🌱 🇨🇦
-    location: "Canada"
-    followers: 61483
-    engagement: 823
-    commentsToLikes: 0.017627
-    id: ck9r92rxkeu2t0j78fw8fewrw
-    verified: false
-    hashtags: "#howtowithjessie, #viralvideo, #quarantine, #simplesteps"
+    hashtags: "#gardening101, #homecooked, #littlethings, #esportsforall"
   - username: "rosiejuko"
     fullname: >-
       Rosie Juko
     bio: >-
       Call me Rosie 🌹😘 🇨🇦
     location: "Canada"
-    followers: 4866
-    engagement: 916
-    commentsToLikes: 0.018425
+    followers: 4871
+    engagement: 901
+    commentsToLikes: 0.017632
     id: ckdhormeq11zp0j23roqpyhrm
     verified: false
-    hashtags: "#foryou, #mango, #gardening, #greenhouse"
+    hashtags: "#plants, #greenhouse, #foryou, #plantlover"
   - username: "obxfavourites"
     fullname: >-
       obxfunfans🌅🏄‍♀️🤩
     bio: >-
       obx💕🌅🏄‍♀️🤩🌊 pogue life🤪 goal is 6000 followers💗 2 ppl run this acc!💛
     location: "Canada"
-    followers: 5139
-    engagement: 2587
-    commentsToLikes: 0.116715
+    followers: 4843
+    engagement: 2562
+    commentsToLikes: 0.096912
     id: ckb9sqf99qanm0j23ev868xjm
     verified: false
-    hashtags: "#fyp, #greenscreen, #foryouu, #4youpage"
-  - username: "greatgifts"
+    hashtags: "#morningboost, #foryou, #foru, #greenscreen"
+  - username: "weeb.ies"
     fullname: >-
-      🎁 GreatGifts
+      🌵g a b s🧃&💧h a n b a⭐️
     bio: >-
-      our friend @RosesAreRez makes cute resin art ⤵️
+      kinda sus minor 😦
     location: "Canada"
-    followers: 185200
-    engagement: 2000
-    commentsToLikes: 0.040940
-    id: ck81s6jcqqcox0j788qtgxokj
+    followers: 11600
+    engagement: 1759
+    commentsToLikes: 0.109005
+    id: ckbeu5sl3dhhi0j23n2dubxxh
     verified: false
-    hashtags: "#stayathome, #sidehustle, #happyeaster, #wipeitdown"
-  - username: "ben.mofitt"
+    hashtags: "#yeet, #series, #weeb, #royalehigh"
+  - username: "crusoe_dachshund"
     fullname: >-
-      Ben Mofitt 
+      Crusoe the Celebrity Dachshund
     bio: >-
-      18🇨🇦 GIVING MY DAD A HAIRCUT ⤵️💈🧚🏼‍♀️
+      Winner People’s Choice Award IG: crusoe_dachshund YouTube: Crusoe Dachshund
     location: "Canada"
-    followers: 57100
-    engagement: 1747
-    commentsToLikes: 0.047085
-    id: ck8kh4uzdlcso0j783v27k7jk
+    followers: 1500000
+    engagement: 1625
+    commentsToLikes: 0.021279
+    id: ck806wckcmjew0j78gpt9sb7a
+    verified: true
+    hashtags: "#fyp, #dogsoftiktok, #dachshund, #dachshunds"
+  - username: "mikeybacontoast"
+    fullname: >-
+      Mikey Bacontoast
+    bio: >-
+      🏳️‍🌈 30 🇨🇦 Been on a breakdown During so deleted content🤟 BLM 🛑Asian Hate
+    location: "Canada"
+    followers: 56300
+    engagement: 1097
+    commentsToLikes: 0.064361
+    id: ckb0wub4qm09h0j23or08i2xl
     verified: false
-    hashtags: "#foryoupage, #gay, #esportsforall, #lgbt"
+    hashtags: "#duet, #lol, #stitch, #lmao"
   - username: "forbidden.jam"
     fullname: >-
       My body my choice
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.076634
     id: ck92z7nqx5ylr0j78du3sit1z
     verified: false
-    hashtags: "#foryoupage, #blm, #petroutine, #morningboost"
+    hashtags: "#petroutine, #utgw, #vibewithme, #mycrib"
   - username: "montreal_meme"
     fullname: >-
       Meme en français
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.047560
     id: ckb165ukctmhm0j236qk369n5
     verified: false
-    hashtags: "#ryp, #happyathome, #confinement, #forupage"
+    hashtags: "#happyathome, #pourtoi, #forupage, #4u"
+  - username: "queer_coupon"
+    fullname: >-
+      Coup
+    bio: >-
+      24, he/they, Queer, 🇨🇦 Twitter @Qdazed (18+ content) for commission info
+    location: "Canada"
+    followers: 23500
+    engagement: 2286
+    commentsToLikes: 0.052243
+    id: ckblpbnlwh09l0j23agvl17pc
+    verified: false
+    hashtags: "#nonbinary, #trans, #cosplay, #autism"
 ---

@@ -1,36 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Bali in 2023
+title: Top 10 Nutrition Instagram Influencers In Bali In 2023
 description: >-
-  Find top nutrition Instagram influencers in Bali in 2023. Most popular hashtags: #bali #nutrition #shakeherbalife #herbalife.
+  Find top nutrition Instagram influencers in Bali in 2023. Most popular hashtags: #jakarta #herbalife #bali #bandung.
 platform: Instagram
-hits: 48
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 48 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 30
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 30 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "citrakirana_fc"
+  - username: "infopintar.id"
     fullname: >-
-      citrakirana & rezkyaditya
+      info pintar
     bio: >-
-      Alhamdulillah SAH Selalu support @citraciki & @thereal_rezkyadhitya Jangan lupa follow ya guys .. 😍😍💖💖👇 @citrakirana_fc
+      Menyediakan informasi yg tidak kalian dapatkan di bangku sekolah yg akan menambah wawasan kalian Info PP klik link di bawah ya
     location: "Indonesia"
-    followers: 66703
-    engagement: 109
-    commentsToLikes: 0.011068
-    id: ck8t4zyox8e9r0j782hp9lsln
+    followers: 46583
+    engagement: 855
+    commentsToLikes: 0.012279
+    id: ck8t8cchyjwqn0j78zmyozy6c
     verified: false
-    hashtags: "#rogerdanuartadancutmeyriska, #verrelbramasta, #irishbella, #verellbramasta"
-  - username: "joko.widodo_"
-    fullname: >-
-      Joko Widodo
-    bio: >-
-      Fansbase Presiden Jokowi dan Keluarga| Berbagi Sisi Lain Joko Widodo | Follow @joko.widodo_ | #bersamaindonesiamaju | #sdmunggulindonesiamaju🇲🇨 |
-    location: "Indonesia"
-    followers: 81530
-    engagement: 203
-    commentsToLikes: 0.028907
-    id: ckf5md7lwta750j23tzhhbg3t
-    verified: false
-    hashtags: "#tkwmalaysia, #tkwhongkong, #tkwtaiwan, #tkwkorea"
+    hashtags: "#yafakta, #viralkak, #videoheboh, #kekinian"
   - username: "makankenyang56"
     fullname: >-
       Makan Kenyang
@@ -42,7 +30,31 @@ profiles:
     commentsToLikes: 0.017944
     id: ck8t9w9vhpkok0j78jx8390de
     verified: false
-    hashtags: "#mukbangseafood, #diet, #kulinerjogja, #mukbangshow"
+    hashtags: "#resepudang, #makankenyang56, #lapartengahmalam, #mukbangseafood"
+  - username: "eldooraidea"
+    fullname: >-
+      ｅｌｄｏｏｒａｉｄｅａ
+    bio: >-
+      👸Vanity Mirror Spesialist ☎ 08170966966 📱Line : @eldooraidea
+    location: "Indonesia"
+    followers: 282239
+    engagement: 106
+    commentsToLikes: 0.002826
+    id: ck8tbdfwtv82k0j7851wjiiqd
+    verified: false
+    hashtags: "#cerminvanitymirror, #vanitymirrorindonesia, #hollywoodmirror, #promovanitymirror"
+  - username: "axelschura"
+    fullname: >-
+      Axel Schurawlow 🥑
+    bio: >-
+      Mindset | Health | Nutrition 🌱@vivolife Athlete CODE “SHMONKEY“ 🎶 JOIN 340 000 ON TIKTOK! 📸 Youtube/axelschura 🎙 Podcast 📍 Bali - All my channels👇
+    location: "Indonesia"
+    followers: 28434
+    engagement: 370
+    commentsToLikes: 0.041371
+    id: ck0ttg7i12ksr0i195fpjvruy
+    verified: false
+    hashtags: "#dairy, #vegansofig, #vegangains, #fitfam"
   - username: "mrsveronicatan"
     fullname: >-
       VeronicaTan
@@ -54,31 +66,19 @@ profiles:
     commentsToLikes: 0.037377
     id: ck0u8y1u48itm0i192qw2ms3t
     verified: false
-    hashtags: "#distributorherbalife, #herbalife, #pelangsingbadan, #selebrita17"
-  - username: "nagita_slavinaaa1717"
+    hashtags: "#nutrition, #healthyeating, #shakeherbalife, #fansnikita"
+  - username: "niikiitamirzanimawardi_17"
     fullname: >-
-      PP MURAH ➡️ DM 📩
+      akun fans💞
     bio: >-
-      Nagita Slavina MT Akun fansbase 📹 : @rans.entertainment (RANSVLOG) Always Support 👉👉👉 @raffinagita1717 #nagitaslavina #raffiahmad #rafatharmalikahmad
+      🚻akun fans bebs,. akun nyai yang asli 👇👇👇👇👇👇👇👇👇 @nikitamirzanimawardi_17 @nikitamirzanimawardi_172 📌Fans nyai niki follow ya
     location: "Indonesia"
-    followers: 127593
-    engagement: 81
-    commentsToLikes: 0.023646
-    id: ck15rxezla6jp0i19d30ndzwu
+    followers: 83252
+    engagement: 60
+    commentsToLikes: 0.014669
+    id: ckap1gq6cuiv90i78qe68fyzt
     verified: false
-    hashtags: "#jedaricho, #nagitaslavina, #lambeturah, #likelike"
-  - username: "unstoppablesurfer"
-    fullname: >-
-      Brian Swan🏄🏻‍♂️Surf🎅Beard🌴Life
-    bio: >-
-      🌎 12 yrs of non-stop travel 🏄🏻‍♂️Surfing the world's best waves 📍currently in Bali 🌴Create Your Perfect Day - FREE Exercise 👇🏼
-    location: "Indonesia"
-    followers: 54270
-    engagement: 107
-    commentsToLikes: 0.114245
-    id: ck5hpc615r45j0i11f3dncc93
-    verified: false
-    hashtags: "#beunstoppable, #surftrip, #uluwatu, #roxies"
+    hashtags: "#herbalifejakarta, #faktanutrisi, #nikitamirzani, #bandung"
   - username: "sulekersss"
     fullname: >-
       FANS Sule Prikitiw  🇮🇩
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.024579
     id: ck14go6ae67dp0i19ka3di4ks
     verified: false
-    hashtags: "#temaindonesia, #lucu, #initalkshow, #partopatrio"
-  - username: "mariana___guerra"
+    hashtags: "#sulefamily, #youtube, #taulanytv, #suleprikitiw"
+  - username: "janethes.galeri"
     fullname: >-
-      Mariana Guerra
+      Jan Ethes Galeri
     bio: >-
-      22 |🇵🇹 🌏 Always planning the next adventure 🌍 Studying Nutrition🍏🎓 (@healthy.tasty.kitchen) ✈️ 35 countries and counting | 4 continents
+      Mau tau keseruan mas Ethes? Info kerjasama klik link dibawah
     location: "Indonesia"
-    followers: 4161
-    engagement: 1198
-    commentsToLikes: 0.074904
-    id: ck5hllggckfbx0i11o77eo193
+    followers: 33666
+    engagement: 211
+    commentsToLikes: 0.011777
+    id: ck0u8y1d38isd0i193p2u1ptc
     verified: false
-    hashtags: "#portugaltourism, #collectmomentsnotthings, #portugaldenorteasul, #summervibes"
-  - username: "iamanajas"
+    hashtags: "#janethes, #cucujokowi, #kaesangpangarep, #presidenjokowi"
+  - username: "maiaestianty80"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Igor Amanajás
+      Maia Estianty
     bio: >-
-      👹 Actor, director and dancer of balinese traditional dance-dramas 🇧🇷 & 🇵🇹 📍 🇮🇩Bali ♉️🔆 ɓσ∂ყ ɱเɳ∂ & รσµℓ 🔆🏳️‍🌈 🍦 Ice cream addicted! 雪君のお父さんです。
+      Fans Bunda Maia ❤️ Terima kasih sudah follow Skincare terbaik follow ->> @megabeauty_official Mixberry original follow ->> @berryhouse_id
     location: "Indonesia"
-    followers: 17135
-    engagement: 509
-    commentsToLikes: 0.066042
-    id: ckf5lk0tlpv7o0j23gxlno6ey
+    followers: 76191
+    engagement: 52
+    commentsToLikes: 0.018474
+    id: ck8tbd63ov7300j78o0j8scd6
     verified: false
-    hashtags: "#malemodel, #uluwatu, #model, #photography"
-  - username: "surfstrengthcoach"
+    hashtags: "#kalimantan, #malaysia, #cintakarnacinta, #ammarzoni"
+  - username: "mikhaell.moeis"
     fullname: >-
-      Surf Athlete Coach-Cris Mills
+      Mikhael Moeis
     bio: >-
-      📍Bali Performance Coach for Humans that Surf Training, Rehab, & Surf Technique Download the new Surf Athlete app 👇🏻
+      Fanbase of #sandradewi family 👦:@hmoeis 👧:@sandradewi88 ❤:@raphaelmoeiss . By admin PP MURAH DM
     location: "Indonesia"
-    followers: 26208
-    engagement: 229
-    commentsToLikes: 0.053721
-    id: ck5znwjo3pa3j0i14gdx9lfe0
+    followers: 52673
+    engagement: 176
+    commentsToLikes: 0.007293
+    id: ck0w10h4fgy6p0i19k7akxwvz
     verified: false
-    hashtags: "#surfsc, #surffit, #surfcoaches, #surftechnique"
+    hashtags: "#jakarta, #tkwmalaysia, #tkwdubai, #shakeherbalife"
 ---

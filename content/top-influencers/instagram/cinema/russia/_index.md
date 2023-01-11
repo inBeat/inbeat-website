@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Russia in 2023
+title: Top 10 Cinema Instagram Influencers In Russia In 2023
 description: >-
-  Find top cinema Instagram influencers in Russia in 2023. Most popular hashtags: #film #model #covid.
+  Find top cinema Instagram influencers in Russia in 2023. Most popular hashtags: #filmisnotdead #sunsiyamresorts #movie.
 platform: Instagram
-hits: 230
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 230 Instagram influencers like this in Russia for you to connect with.
+hits: 241
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 241 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "mariya_mironova_actress"
+  - username: "nikino.kino"
     fullname: >-
-      Мария Миронова Менакер
+      VERONIKA FILM PHOTOGRAPHER
     bio: >-
-      АКТРИСА ТЕАТРА И КИНО - THEATER AND CINEMA ACTRESS
+      Film photographer, actress and model in love with arts and cinematography 📸 Фотограф пленочный, модель. Сотрудничество - DM💌 #фотографминск
     location: "Russia"
-    followers: 258245
-    engagement: 512
-    commentsToLikes: 0.021028
-    id: ck6tr2uaswm350j71janoa8vv
-    verified: true
-    hashtags: "#covid, #insight, #island, #mood"
+    followers: 10876
+    engagement: 977
+    commentsToLikes: 0.070716
+    id: ck0tzf2ohq4vm0i19hqodo287
+    verified: false
+    hashtags: "#filmislove, #filmisnotdead, #filmlovers, #filmlove"
   - username: "xenichez"
     fullname: >-
       Xenie Zasetskaya
     bio: >-
-      Photographer & cinematographer ✈️🌍💙 Засецкая Ксения 25.11.1995 Facebook/vk: @xenichez
+      Photographer & cinematographer Russia, Moscow Засецкая Ксения 25.11.1995 Facebook/vk: @xenichez
     location: "Russia"
-    followers: 134377
-    engagement: 1111
-    commentsToLikes: 0.010480
+    followers: 180204
+    engagement: 954
+    commentsToLikes: 0.009131
     id: ck55njq4q6cm10i11o3oa0xfw
     verified: false
-    hashtags: "#xenmemoirs, #lghtmovesxenie, #canonrussia, #xenichezballet"
+    hashtags: "#xenmemoirs, #lghtmovesxenie"
   - username: "zakirova_magicphoto"
     fullname: >-
       Юлия Закирова ✨ Сказки и фото
     bio: >-
       📸 Fairy Tale 📸 FineArt and Cinematic ✨Вдохновляю на шедевры ✨Пишу о сказках и мифах ✨Разбираю костюмы в кино 🎥Интересные факты в сторис ⤵️Связаться⤵️
     location: "Russia"
-    followers: 18501
-    engagement: 368
-    commentsToLikes: 0.041291
+    followers: 18761
+    engagement: 333
+    commentsToLikes: 0.044899
     id: ck5zzfnysbnba0i14rlwshcrd
     verified: false
-    hashtags: "#fineart, #85vs135"
-  - username: "polinaboka"
+    hashtags: "#fineart"
+  - username: "andrey_kryzhniy"
     fullname: >-
-      Polina Naboka
+      🎥🎬Андрей Крыжний™
     bio: >-
-      CINEMA @psnaboka My twin @sofi_naboka
+      The actor of theater and cinema. 🎩 ☎️По рабочим вопросам пишите или звоните Ксении🎭 📩+7 925 610-42-82 Третьякова Ксения
     location: "Russia"
-    followers: 17609
-    engagement: 736
-    commentsToLikes: 0.010987
-    id: ck139p4mvmfoj0i19yffimkzh
+    followers: 28306
+    engagement: 314
+    commentsToLikes: 0.022119
+    id: ck5hgc82a20yd0i114mvv5fnz
     verified: false
-    hashtags: "#35mm, #pskov"
-  - username: "ingaleps"
-    fullname: >-
-      INGA LEPS
-    bio: >-
-      American Academy of Dramatic Arts, New York Театр Наций Jan Fabre Teaching Group МШНК Сотрудничать: Женя +79263670593 Про Кино: @cinema_collection
-    location: "Russia"
-    followers: 30414
-    engagement: 160
-    commentsToLikes: 0.043674
-    id: ck6u4mjgv4kmn0j715fx1q7dq
-    verified: false
-    hashtags: "#cannesfilmfestival, #sochi, #film, #theageofadeline"
+    hashtags: "#sonyzv1"
   - username: "sofi_naboka"
     fullname: >-
       Sofi Naboka
     bio: >-
       cinema @psnaboka my sis-twin @polinaboka
     location: "Russia"
-    followers: 13486
-    engagement: 820
-    commentsToLikes: 0.011293
+    followers: 15207
+    engagement: 791
+    commentsToLikes: 0.011550
     id: ck139p5ujmfur0i198vj4knpt
     verified: false
-    hashtags: ""
-  - username: "oichichan"
-    fullname: >-
-      Oichi
-    bio: >-
-      🎭 Theater & 📽️ Cinema actress 💌 Cosplayer ❤️ Model 🎤 Singer 🎨 Artist 📑 Writer 📷 Business/Q&A:oichidelelion@gmail.com ⬇️ Pаtrеоn, ОnlуFаns, Prints ⬇️
-    location: "Russia"
-    followers: 140170
-    engagement: 608
-    commentsToLikes: 0.014998
-    id: ck134pm46xl6y0i19xbjlm8s9
-    verified: false
-    hashtags: "#castlevania, #finalfantasy7, #cosplay, #sypha"
-  - username: "andrey_kryzhniy"
-    fullname: >-
-      🎥🎬Андрей Крыжний™
-    bio: >-
-      The actor of theater and cinema. 🎩 ➡️Подпишись на канал YouTube. ☎️По рабочим вопросам на почту или в direct🎭 📩Aspiratione@yandex.ru
-    location: "Russia"
-    followers: 27903
-    engagement: 196
-    commentsToLikes: 0.025465
-    id: ck5hgc82a20yd0i114mvv5fnz
-    verified: false
-    hashtags: "#belugahunting, #im"
+    hashtags: "#madrussians"
   - username: "ivanetsss"
     fullname: >-
       Григорий Иванец
     bio: >-
       #Режиссер кино. #Продюсер Titan Cinema Production(Russia, Moscow)🎥🎞️🎬 Sport:Wakeboarding(@wakefamily) #Director #Producer #Moviemaker #wakeboarding
     location: "Russia"
-    followers: 5350
-    engagement: 601
-    commentsToLikes: 0.043356
+    followers: 5336
+    engagement: 690
+    commentsToLikes: 0.043415
     id: ck5cdfo53j3le0i11x6gdtbs0
     verified: false
-    hashtags: "#shooting, #tcp, #advertising, #wakeboarding"
-  - username: "lilya_manukian"
+    hashtags: "#titancinemaproduction, #advertising, #tcp, #cinema"
+  - username: "polinaboka"
     fullname: >-
-      Lilya #Manukian
+      Polina Naboka
     bio: >-
-      Актриса театра и кино. Actress of theatre and cinema 🎭🎬🎤🎨 📻Радиоведущая Иногда во мне живет Бабушка 👵🏼 Мой магазин - @lilushop1 💕 ￼
+      CINEMA @psnaboka My twin @sofi_naboka
     location: "Russia"
-    followers: 60619
-    engagement: 455
-    commentsToLikes: 0.095945
-    id: ck5q2rx8ghie60i11y7tejiqq
+    followers: 19998
+    engagement: 665
+    commentsToLikes: 0.009236
+    id: ck139p4mvmfoj0i19yffimkzh
     verified: false
-    hashtags: "#vsco, #moscowcity, #corona, #vscocam"
+    hashtags: ""
+  - username: "nika_shatova"
+    fullname: >-
+      Nika Shatova ★ Iliushina
+    bio: >-
+      • Photographer @nikashatova.ru • esthetic pics • style | outfits | inspo | cinemalover • живые будни в сториз ✍🏻 ig.nikashatova@gmail.com
+    location: "Russia"
+    followers: 185693
+    engagement: 251
+    commentsToLikes: 0.009144
+    id: ck5zrhgn1wl3r0i14s4n0ysq4
+    verified: false
+    hashtags: "#sunsiyam, #iruveli, #sunsiyamresorts, #messyhair"
+  - username: "janson.art"
+    fullname: >-
+      ARTHUR "BezBit" JANSON
+    bio: >-
+      🚶‍♂️ DIY Neon in Riga 🎬 Cinematographer & YouTuber 🎥 My neon @neonvibestudio 📷 Urbex @abandoned.latvia 👇 YouTube video & Showreel
+    location: "Russia"
+    followers: 3042
+    engagement: 1029
+    commentsToLikes: 0.056875
+    id: ck6tin295116i0j71wd4zf9ge
+    verified: false
+    hashtags: "#neon, #neonlight, #cyberpunk, #neonlights"
+  - username: "klimova_queen"
+    fullname: >-
+      Екатерина Климова (fan)❤️
+    bio: >-
+      @klimovagram ‘s fan account ❤️🥀 Queen of russian cinema🎥 the most beautiful woman 👑 the best person you’ve ever seen 💗
+    location: "Russia"
+    followers: 8046
+    engagement: 1321
+    commentsToLikes: 0.024436
+    id: ck15rp2d690000i19zijxt80f
+    verified: false
+    hashtags: ""
 ---

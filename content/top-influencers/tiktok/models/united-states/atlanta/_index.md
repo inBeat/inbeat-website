@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Atlanta in 2023
+title: Top 10 Models TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top models TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #foryou #foryoupage #atlanta.
+  Find top models TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #atlanta #model #foryoupage.
 platform: TikTok
-hits: 24
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 24 TikTok influencers like this in Atlanta, United States for you to pitch.
+hits: 16
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 16 TikTok influencers like this in Atlanta, United States for you to collaborate.
 profiles:
-  - username: "mellevi7"
+  - username: "melaniejlevi"
     fullname: >-
       mel♡
     bio: >-
-      israeli / model / atlanta follow me on instagram @mel.levi💋
+      Nineteen with a God complex. Model. Atlanta.
     location: "United States"
-    followers: 6027
-    engagement: 672
-    commentsToLikes: 0.039382
+    followers: 19000
+    engagement: 950
+    commentsToLikes: 0.055042
     id: ckb9hmbyu7cys0j23oe7yvvp5
     verified: false
-    hashtags: "#alwayslearning, #makebakeshake, #scoobdance, #tiktokanimals"
-  - username: "katienageotte"
+    hashtags: "#respectfully, #greenscreen, #theghetto, #greenscreenvideo"
+  - username: "lindseyhilliard"
     fullname: >-
-      Katie Nageotte
+      Lindsey Hilliard
     bio: >-
-      Pole vault professional. Tiktok amateur. Training for 2023 Olympics 🇺🇸.
+      https://www.instagram.com/fataleyourslc/
     location: "United States"
-    followers: 30100
-    engagement: 754
-    commentsToLikes: 0.019312
-    id: ckbkjlzgjch9d0j23x6c57l9k
-    verified: false
-    hashtags: "#teamusa, #usa, #strong, #polevault"
-  - username: "fataleyourslc"
-    fullname: >-
-      fataleyourslc
-    bio: >-
-      
-    location: "United States"
-    followers: 4838
-    engagement: 558
-    commentsToLikes: 0.012684
+    followers: 4803
+    engagement: 697
+    commentsToLikes: 0.035042
     id: ckbqqfw5fbce70j23zns6ekci
     verified: false
-    hashtags: "#georgia, #xyzcba, #foryou, #fyp"
-  - username: "upsonreflections"
+    hashtags: "#funny, #fyp, #wedding, #love"
+  - username: "yofisherphoto"
     fullname: >-
-      UpsonReflections
+      Photo
     bio: >-
-      
+      Photo Tips and Behind The Scenes www.fishertaylor.com Instagram: @yofisher
     location: "United States"
-    followers: 4369
-    engagement: 898
-    commentsToLikes: 0.036125
-    id: ckb98wbkdsqsv0j23rqxtczlb
+    followers: 34600
+    engagement: 1064
+    commentsToLikes: 0.017260
+    id: ck8kd2w753ypx0j78z2dvzzba
     verified: false
-    hashtags: "#photography, #canon6dmarkii, #jbskating, #viral"
-  - username: "nonaaaxx"
+    hashtags: "#photoshoot, #photo, #photographer, #photochallenge"
+  - username: "rubymoniquedlc"
     fullname: >-
-      Nona 
+      Ruby Monique
     bio: >-
-      No-na Alternative model 20 ATL she/her/they/them scare actress 👻
+      follow me on IG: @rubymoniquedlc
     location: "United States"
-    followers: 6640
-    engagement: 2799
-    commentsToLikes: 0.030622
-    id: ckbakjcgwbi3l0j23z9a3iviq
+    followers: 4512
+    engagement: 996
+    commentsToLikes: 0.046212
+    id: ckcj90ag57mt40j23fj48wj9i
     verified: false
-    hashtags: "#goth, #piercings, #model, #atl"
+    hashtags: "#checkmeoutchallenge, #fyp, #texas, #wearamask"
   - username: "the_jimk"
     fullname: >-
       Jim Kelley
     bio: >-
       Actor, voice actor and action performer from Atlanta. Next goal: 25k 😈
     location: "United States"
-    followers: 11500
-    engagement: 1908
-    commentsToLikes: 0.059822
+    followers: 11600
+    engagement: 2069
+    commentsToLikes: 0.104330
     id: ck9e18m3d9kf30j78s2laxmvu
     verified: false
-    hashtags: "#duet, #collegegotmelike, #longboard, #comedy"
-  - username: "lapinstudios"
+    hashtags: "#fyp, #retro, #comedy, #love"
+  - username: "nonaaaxx"
     fullname: >-
-      Lapin Studios
+      Nona 
     bio: >-
-      Model 🤷🏼‍♀️ Actress 🤷🏼‍♀️ OCD awareness 🤷🏼‍♀️
+      No-na Alt model 20 ATL she/they BLM/ACAB scare actress 👻 paypal: nonaxxx
     location: "United States"
-    followers: 163700
-    engagement: 2091
-    commentsToLikes: 0.009319
-    id: ck9v0mifodbm60j78ak263lp8
+    followers: 6625
+    engagement: 2687
+    commentsToLikes: 0.038857
+    id: ckbakjcgwbi3l0j23z9a3iviq
     verified: false
-    hashtags: "#foryou, #halloween, #heinzhalloween, #mentalhealthmatters"
+    hashtags: "#gothgf, #fyp, #gothgirlsdoitbetter, #genz"
   - username: "hadsnasty"
     fullname: >-
       Hads
     bio: >-
-      Pretty enough to act but not model so I joined tiktok where I do neither
+      Pretty enough to act but not model so I joined tiktok where I do NEITHER
     location: "United States"
-    followers: 4180
-    engagement: 944
-    commentsToLikes: 0.033375
+    followers: 5025
+    engagement: 748
+    commentsToLikes: 0.044701
     id: ckcdlblnx9neo0j23thtdok4i
     verified: false
-    hashtags: "#festivalfashion, #edmgirls, #dubstep, #nature"
-  - username: "i_am_tajmaher"
+    hashtags: "#traveltiktok, #travel, #dubstep, #fyp"
+  - username: "thearishj"
     fullname: >-
-      Taj Thomas
+      Arish Jamil
     bio: >-
-      Model, Brand Ambassador, Aspiring Actress and Karaoke Fanatic
+      📍Atlanta
     location: "United States"
-    followers: 18300
-    engagement: 942
-    commentsToLikes: 0.056320
-    id: ckal63nhw8wba0i78x5gauxyo
+    followers: 6542
+    engagement: 962
+    commentsToLikes: 0.068764
+    id: ckc30xyszrj750j2326r4ydkp
     verified: false
-    hashtags: "#duet, #foryoupage, #funny, #over45"
-  - username: "twixxtaylor"
+    hashtags: "#desicomedy, #southasian, #brown, #bookclub"
+  - username: "keezeey7"
     fullname: >-
-      Twixx
+      KeeOUTtheHOOD7
     bio: >-
-      👑PLUS SIZE MODEL/ INFLUENCER 24 / GA 18+ TAKEN ❤️ Buisness: lifeoftwix@gmail
+      ⚜️🐊NOLA🐊⚜️ 25 of age | ACTOR | MODEL CEO of Imitating IG : @ keezeey
     location: "United States"
-    followers: 25900
-    engagement: 691
-    commentsToLikes: 0.052716
-    id: ck9n4apd742lc0j78m31zxyno
+    followers: 16600
+    engagement: 1208
+    commentsToLikes: 0.037125
+    id: ckacuzq4mlfwx0i78e3qspfq1
     verified: false
-    hashtags: "#imfat, #reaction, #foryou, #cutecouple"
+    hashtags: "#foryou, #nola, #repost, #foryoupage"
+  - username: "upsonreflections"
+    fullname: >-
+      UpsonReflections
+    bio: >-
+      
+    location: "United States"
+    followers: 4441
+    engagement: 1140
+    commentsToLikes: 0.032231
+    id: ckb98wbkdsqsv0j23rqxtczlb
+    verified: false
+    hashtags: "#rollerskate, #foryoupage, #photoshoot, #fyp"
 ---

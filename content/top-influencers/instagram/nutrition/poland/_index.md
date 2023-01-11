@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Poland in 2023
+title: Top 10 Nutrition Instagram Influencers In Poland In 2023
 description: >-
-  Find top nutrition Instagram influencers in Poland in 2023. Most popular hashtags: #love #poland #olimp.
+  Find top nutrition Instagram influencers in Poland in 2023. Most popular hashtags: #workout #smile #fitnessmotivation.
 platform: Instagram
-hits: 77
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 77 Instagram influencers like this in Poland for you to contact.
+hits: 70
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 70 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "kieliszkowskimateusz"
+  - username: "m_onika_k"
     fullname: >-
-      Mateusz Kieliszkowski
+      MONIKA ⚜️ KUREK
     bio: >-
-      Professional strongman 🥈WSM 2018,2019 🥇Poland Strongest Man @roguefitness @rogueeurope @sbdapparel @real_pharm_nutrition @kindafitkindafat_apparel
+      🔱Team @real_pharm_nutrition Kod -20%: Monika20 🕊cooperation🕊: mkurek1308@web.de
     location: "Poland"
-    followers: 146032
-    engagement: 675
-    commentsToLikes: 0.015903
-    id: ck0w0glhoe39c0i199f2yofj1
+    followers: 123759
+    engagement: 501
+    commentsToLikes: 0.039324
+    id: ck14icxfjesif0i196uoxpnd3
     verified: false
-    hashtags: "#strong, #child, #strongman, #warszawa"
-  - username: "biernatagata"
+    hashtags: "#polskakobieta, #sexydresses, #nylonlegs, #behappy"
+  - username: "dominika_wisniewska2"
     fullname: >-
-      MISS WORLD POLAND 2018👑
+      Dominika Wiśniewska
     bio: >-
-      👑 MISS POLONIA 2017 👑 MISS WORLD Poland 2018 🇵🇱 💪🏻 Fit Freak 💃🏻 Dancer 👸🏻 Model @olimp_nutrition_pl @adidaswomen @etam agatabiernat@misspolonia.com.pl
+      🇵🇱 Warszawa https://mym.fans/dominika_wisniewska2 Team @real_pharm_nutrition -10% "Domi10" @fitby.nature @gattafashioneurope 🥰
     location: "Poland"
-    followers: 86418
-    engagement: 264
-    commentsToLikes: 0.044928
-    id: ck0udl13djf8y0i196fnwovvx
-    verified: true
-    hashtags: "#biernat, #sport, #photomodel, #paris"
+    followers: 130140
+    engagement: 461
+    commentsToLikes: 0.053377
+    id: ck8t1rewdwqkv0j78cj59oftk
+    verified: false
+    hashtags: "#lingiere, #body, #czarnulka, #goodnight"
   - username: "bembenikklaudia"
     fullname: >-
       Klaudia Bembenik® 🇵🇱
     bio: >-
-      mom | girl boss | IFBB Athlete owner @claudiawingsshop @olimp_nutrition_pl -20% kod: klaudiab @boco_wear ambassador -20% kod: bembenikklaudia
+      mom | girl boss | IFBB Athlete owner @claudiawingsshop athlete @olimp_nutrition_pl -10% code: klaudiab
     location: "Poland"
-    followers: 37637
-    engagement: 253
-    commentsToLikes: 0.063167
+    followers: 36952
+    engagement: 242
+    commentsToLikes: 0.063974
     id: ck5hh71ln6pnt0i114du8yklt
     verified: false
-    hashtags: "#bocowear, #poland, #mood, #motivation"
-  - username: "natalyie_"
+    hashtags: "#autumnvibes, #catchthemoment, #gymwear, #mountains"
+  - username: "nikola_strzyz"
     fullname: >-
-      Natalia Stafińska
+      𝒩𝒾𝓀𝑜𝓁𝒶
     bio: >-
-      ✍🏼Plany żywieniowe/treningowe/współpraca on-line 👇🏼 📩nourish.shape@gmail.com 💚@olimp_nutrition_pl -10%👉🏼Natalyie 💙@deadlift.company -15%👉🏼Natalia15
+      📍 Warsaw team @gymhero_official & @olimp_nutrition_pl 🖤 wsparcie dietetyczne ᴅɪᴇᴛʙᴏx🍽 kod %: 𝕟𝕚𝕜𝕠𝕝𝕒𝕤𝕥𝕣𝕫𝕪𝕫 Dołącz do grupy⬇️
     location: "Poland"
-    followers: 18871
-    engagement: 680
-    commentsToLikes: 0.037696
-    id: ck6tx8bpaweag0j710h04xetl
+    followers: 41305
+    engagement: 154
+    commentsToLikes: 0.073015
+    id: ck8t2rxfo0hoy0j78hxj2g288
     verified: false
-    hashtags: "#abs, #rhodes, #morning, #focus"
+    hashtags: "#photomood, #weekendmood"
   - username: "wolver_terrorysta"
     fullname: >-
       Wolver Terrorysta-Tomasz Nobis
     bio: >-
       🏅2x IFBB Men's Physique Overall 🥈Diamond Cup 💥OlimpTeam @olimp_nutrition_pl 💥DEADlift -15%code: wolver15 💥ONLINE COACH 💥Personal Trainer Warsaw
     location: "Poland"
-    followers: 26541
-    engagement: 497
-    commentsToLikes: 0.035778
+    followers: 26362
+    engagement: 368
+    commentsToLikes: 0.032595
     id: ck6tx8b68we7t0j71bdh0ugwz
     verified: false
-    hashtags: "#competition, #passion, #olimpteam, #coach"
-  - username: "ma_rle_na"
+    hashtags: "#couplegoals, #sixpack, #competition, #dreamteam"
+  - username: "piotr.lisek.pv"
     fullname: >-
-      Ma Rle Na💁🏼‍♀️
+      Piotr Lisek
     bio: >-
-      Warszawa/Łódź🏠 Ambasador: @alite_clinic 💋 @real_pharm_nutrition 💪🏼 @realwearshop 🏃🏼‍♀️ Collaboration📥 #polishgirl 🇵🇱
+      Pole Vault #polishboy Polish record holder 6.02! 🥉🥈🥉 WC 🥉🥉 IWC 🥇🥈🥉IEC 🇧🇷Olympian🇧🇷 🤝partners🤝 @puma @pkn.orlen @olimp_nutrition_pl @kia_polmotor
     location: "Poland"
-    followers: 162911
-    engagement: 247
-    commentsToLikes: 0.034852
-    id: ck0u80gpi62tz0i19s0uc9ryk
+    followers: 43393
+    engagement: 812
+    commentsToLikes: 0.005062
+    id: ck0vxps7203wj0i19bqujjo2e
     verified: false
-    hashtags: "#dziewczyna, #igers, #happygirl, #dobrywiecz"
-  - username: "iga.co.smiga"
+    hashtags: "#polishboy, #goforit, #piotrlisek, #swietoniepodleglosci"
+  - username: "bigmajkmikulewicz"
     fullname: >-
-      Iga Baumgart-Witan
+      Michał Mikulewicz
     bio: >-
-      Athlete 400m ⛽ PKN Orlen 🏙️ Miasto Bydgoszcz 🏃‍♀️ New Balance Poland 🥣 Olimp Sport Nutrition
+      📧Online@bigmajk.pl @kfdnutrition kod 🔥BydlaTex🔥 @e_monsterpower - Kod 💣Powermajk💣 📧CoachingONLINE-fanpage 🍗Nutrition Coach @adam_rebis_thebodychanger
     location: "Poland"
-    followers: 34601
-    engagement: 719
-    commentsToLikes: 0.009858
-    id: ck5hhh4j7879f0i11t95hxgwe
+    followers: 93982
+    engagement: 334
+    commentsToLikes: 0.011918
+    id: ck5cd4nndij4p0i11jnhuplzs
     verified: false
-    hashtags: "#love, #friends, #pknorlen, #newbalance"
+    hashtags: "#bodybuildingmotivation, #fitfam, #muscle, #bodygoals"
   - username: "adakaczmarekifbbpro"
     fullname: >-
       Adrianna Kaczmarek IFBB PRO
     bio: >-
-      👑IFBB BIKINI PRO 🏋🏽‍♀️Online coach ✨@olimp_nutrition_pl Team 🌪@carpatree Team 💥@protan_europe Team 📩adakaczmarekak7@gmail.com #kaczmarekteam®️
+      ⭕️LYMPIAN BIKINI PRO 🏋🏽‍♀️Online coach ✨@olimp_nutrition_pl Team 🌪@carpatree Team 💥@protan_europe Team 📩adakaczmarekak7@gmail.com #kaczmarekteam®️
     location: "Poland"
-    followers: 130619
-    engagement: 590
-    commentsToLikes: 0.013754
+    followers: 135029
+    engagement: 431
+    commentsToLikes: 0.010239
     id: ck13amu5or5i80i19i64xk31r
     verified: false
-    hashtags: "#thanksgod, #choc, #covid19, #fiendsgoals"
-  - username: "nikola_strzyz"
+    hashtags: "#kaczmarek, #mentality, #10daysout, #2daysout"
+  - username: "biernatagata"
     fullname: >-
-      𝒩𝒾𝓀𝑜𝓁𝒶
+      MISS WORLD POLAND 2018👑
     bio: >-
-      🗒współpraca, dieta, treningi 📧nikolastrzyz.współpraca@gmail.com 💕 kod rabatowy: NIKOLASTRZYZ 🔝 @gymhero_official • @olimp_sport_nutrition • @dietbox_
+      👑 MISS POLONIA 2017 👑 MISS WORLD Poland 2018 🇵🇱 💪🏻 Fit Freak 💃🏻 Dancer 👸🏻 Model @olimp_nutrition_pl @etam kontakt@agatabiernat.com
     location: "Poland"
-    followers: 40605
-    engagement: 253
-    commentsToLikes: 0.030650
-    id: ck8t2rxfo0hoy0j78hxj2g288
-    verified: false
-    hashtags: "#warsawgirls, #sunvibes"
-  - username: "yelyzaveta_piven"
+    followers: 90645
+    engagement: 216
+    commentsToLikes: 0.053164
+    id: ck0udl13djf8y0i196fnwovvx
+    verified: true
+    hashtags: "#photomodel, #model, #womanstyle, #biernat"
+  - username: "iga.co.smiga"
     fullname: >-
-      Yelyzaveta Piven
+      Iga Baumgart-Witan
     bio: >-
-      @gymhero_official “ELYZAVETA” -15% “ELYZA” -20% @fit.calc “Elyza20” -20% @real_pharm_nutrition “Sweetelyzaveta” -10% @legal_cakes
+      Athlete 400m Collab: iga.baumgart@wp.pl ⛽ PKN Orlen 🏃‍♀️ New Balance Poland 🥣 Olimp Sport Nutrition
     location: "Poland"
-    followers: 18499
-    engagement: 438
-    commentsToLikes: 0.030504
-    id: ck5hrviv2vjtj0i111kho1d26
+    followers: 34534
+    engagement: 609
+    commentsToLikes: 0.010783
+    id: ck5hhh4j7879f0i11t95hxgwe
     verified: false
-    hashtags: ""
+    hashtags: "#partnersincrime, #olimpsportnutrition, #pknorlen, #girlpower"
 ---

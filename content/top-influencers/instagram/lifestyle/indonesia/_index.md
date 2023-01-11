@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Indonesia in 2023
+title: Top 10 Lifestyle Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Indonesia in 2023. Most popular hashtags: #baliliving #donasi #sedekah.
+  Find top lifestyle Instagram influencers in Indonesia in 2023. Most popular hashtags: #giveaway #indonesia #ootd.
 platform: Instagram
-hits: 631
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 631 Instagram influencers like this in Indonesia for you to work with.
+hits: 528
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 528 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "elenacoffey777"
+  - username: "milla_khs"
     fullname: >-
-      Elena Coffey
+      MILLA HISYAM S.Pd 🇲🇨🇸🇦
     bio: >-
-      Fashion | Beauty | Lifestyle | Travelling the World Non Stop✈️ My main account: @elenacoffey
+      LIFESTYLE,BEAUTY,FOOD,TRAVEL JOGJA Pp/Endorse(DM/Email/Wa CP) 📩millakhs1999@gmail.com TIKTOK 30K CEO @myndmanagement @rioslvs_ 🔒 Wa Cp (Mario) 👇🏻
     location: "Indonesia"
-    followers: 28406
-    engagement: 793
-    commentsToLikes: 0.097526
-    id: ck8t5rzc5b1ce0j78bh9g5vsq
+    followers: 122173
+    engagement: 408
+    commentsToLikes: 0.025745
+    id: ckf5s6zluewgv0j232p2dmoz5
     verified: false
-    hashtags: "#beautifulbali, #thetraveltag, #journeyofgirls, #elenacoffey"
-  - username: "farnazjavdankherad"
+    hashtags: "#pesanuntuknur, #thatskygameid, #glowingjuicyskin, #kelilingbarengbecakichitan"
+  - username: "ganisss"
     fullname: >-
-      Farnaz
+      Ganis Pevita Sari
     bio: >-
-      Farnaz businesswoman owner and founder of Fj @f.jcollection fashion | beauty | lifestyle maried mehran ghalamchi 📧farnaz.javdan@gmail.com
+      اَللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ Beauty, lifestyle, Mom. 👶🏻 @babyprilly.farasya 📩DM for Bussines Inquiries 📌SOC,ID
     location: "Indonesia"
-    followers: 7648
-    engagement: 1893
-    commentsToLikes: 0.075238
-    id: ck6u4x2da6a4m0j71adqdys8y
+    followers: 17039
+    engagement: 581
+    commentsToLikes: 0.066528
+    id: ck9wh8jhiwr310j789366khjq
     verified: false
-    hashtags: "#love, #bali, #birthday, #couplegoal"
-  - username: "tiaramandalawangi"
+    hashtags: "#giveawaysolo, #greenplum, #minalaidzinwalfaidzin, #giveawayberhadiah"
+  - username: "pujirisee"
     fullname: >-
-      Tiara Mandalawangi
+      Puji Setyowati | Indonesia 🇮🇩
     bio: >-
-      @avtech_indonesia Travel , Outdoor and Lifestyle Business inquiries email 📩 tiara.mandalawangi12@gmail.com
+      📩 DM/Email for Business/Endorse 🌍 Lifestyle | Travel Enthusiast 👣 Part of @travelculture.id 📍 Semarang, Jawa Tengah
     location: "Indonesia"
-    followers: 43131
-    engagement: 647
-    commentsToLikes: 0.100382
-    id: ck5ziu7segdyx0i14vbtktzvl
+    followers: 20362
+    engagement: 342
+    commentsToLikes: 0.076215
+    id: ck8sz9s3gnlz00j7832bgegj9
     verified: false
-    hashtags: "#pendidikanvokasi, #seruputkopitorabika, #seruputkopitorabikachallenge, #roove"
-  - username: "zelitaptr24"
+    hashtags: "#potala, #paramountvillagesemarang, #paramountland, #paramountvillage"
+  - username: "dsenjaya89"
     fullname: >-
-      Ikke Zelita Putri💫
+      DODY SENJAYA | TRAVEL BLOGGER
     bio: >-
-      influencer|beauty|lifestyle|food|hijaber 𝗘𝗻𝗱𝗼𝗿𝘀𝗲 👇🏻 UNIVERSITAS RIAU’18🎓 #endorsebyzelita
+      LANGKAHKU‼️ Part of @transmateindonesia 🇮🇩Travelling and Lifestyle #langkahdody 📩 hello@langkahdody.com 📍JAKARTA tiktok.com/@langkahdody
     location: "Indonesia"
-    followers: 12827
-    engagement: 1128
-    commentsToLikes: 0.186355
-    id: ck9wh8ehrwqfy0j782jhdp4ri
+    followers: 31244
+    engagement: 288
+    commentsToLikes: 0.237285
+    id: ck8tae4etre2g0j785ed85jr9
     verified: false
-    hashtags: "#pekanbaru, #endorsebyzelita, #skincare, #bersamalawancorona"
-  - username: "trsplanet"
+    hashtags: "#langkahdody, #g20kebudayaan, #transmatepenghubungindonesia, #hotel"
+  - username: "novkrisst"
     fullname: >-
-      Romal & Aneka | IG Filters
+      Nova ~ 🍭
     bio: >-
-      - Follow to unlock 20+ filters free - Travel | Food | Lifestyle - DM me if you want your own instagram effect or filter
+      Beauty | Fashion | Games | Lifestyle 🌸 ¦ Live Youtube : Novkrisst (7pm) 🌸 ¦ Tiktok : Nopnopajah 🌸 ¦ Inq / Endorsement : -Yap (081937076365)
     location: "Indonesia"
-    followers: 10867
-    engagement: 1259
-    commentsToLikes: 0.058981
-    id: ck15r793r6hra0i19jn5uhkmt
+    followers: 100586
+    engagement: 211
+    commentsToLikes: 0.030437
+    id: ck0tsy0as0ebf0i194k71wy0a
     verified: false
-    hashtags: ""
-  - username: "annisahidayarahmahica"
+    hashtags: "#gaminggear, #onlinemedan, #mousegaming, #komputermedan"
+  - username: "widya98"
     fullname: >-
-      ᴀɴɴɪsᴀ ʜɪᴅᴀʏᴀ ʀᴀʜᴍᴀʜ
+      Surabaya Foodies
     bio: >-
-      📍Pekanbaru BEAUTY | HIJAB TRAVELLER | LIFESTYLE | OOTD 📩ENDORSEMENT DM 💌 📒Science of Communication '17
+      Fashion•Beauty•Lifestyle•Staycation♡ 📩 TAP LINK FOR ENDORSEMENT 🖤 Tiktok(22k+) & Youtube #Wstaycationdisini #Wayukicob 🙆‍♀️ KursusMUA @widya98_mua
     location: "Indonesia"
-    followers: 16093
-    engagement: 2119
-    commentsToLikes: 0.057784
-    id: ck9wd1jaydnew0j78h04eyw4x
+    followers: 62374
+    engagement: 212
+    commentsToLikes: 0.145789
+    id: ck9wght21th390j78fik69ir7
     verified: false
-    hashtags: "#lengkaplezatnya, #cuntukcucitangan, #lifebuoyid, #jumatberkah"
-  - username: "vidaarmeta_"
+    hashtags: "#wstaycationdisini, #gengkulinerseru, #wayukicob, #mangkokkusurabaya"
+  - username: "vallerieaudrey"
     fullname: >-
-      𝓥𝓲𝓭𝓪 𝓐𝓻𝓶𝓮𝓽𝓪
+      Vallerie Audrey
     bio: >-
-      Lifestyle ▪️ Fashion ▪️ Beauty 📍PTI - SMG 📩 For business inquires DM Brand Affiliate @simplynu.sosmed.central
+      ♥ Fashion | Beauty | Food | Lifestyle ♥ #StylebyVall 🪐 ☁️Line@ : @vallerieaudrey (with @)📲 // DM 🇮🇩Jakarta, Indonesia 💌vallerie.audrey@yahoo.com
     location: "Indonesia"
-    followers: 7603
-    engagement: 1084
-    commentsToLikes: 0.090217
-    id: ckap7caavjg7g0i788tm37wpl
+    followers: 37903
+    engagement: 202
+    commentsToLikes: 0.013240
+    id: ck5cbcc48f5jc0i118nrotk24
     verified: false
-    hashtags: "#donasi, #sahabat, #sedekah, #gotongroyongkebaikan"
-  - username: "amerkad88"
+    hashtags: "#ootdfashion, #ootdindo, #ootdinspiration, #ootdstyle"
+  - username: "christina_chandraa"
     fullname: >-
-      Amer Kadic
+      𝓒𝓱𝓻𝓲𝓼𝓽𝓲𝓷𝓪 𝓬𝓱𝓪𝓷𝓭𝓻𝓪
     bio: >-
-      🌎 #Lifestyle and #travel 🏠 📍#Sarajevo 💪🏼 @polleosportbih Ambassador 💼 #CEO @seedigital / #Influencer #Marketing
+      📍 Jakarta,Indonesia. Lifestyle blogger & full time mom #christinachandraareview ✨ business inquiries 💌 Tap here 🫶🏼 👇🏼
     location: "Indonesia"
-    followers: 30993
-    engagement: 950
-    commentsToLikes: 0.050437
-    id: ck6u5r8ntb9jf0j71jgafzatz
+    followers: 104042
+    engagement: 138
+    commentsToLikes: 0.085619
+    id: ck8t0gbe7rytw0j78yib1ck3c
     verified: false
-    hashtags: "#pratitemezavisecitata, #lionsfightback, #pangaiacollective"
-  - username: "virginiaobed"
+    hashtags: "#momlife, #traveling, #lifestyleblogger, #skincare"
+  - username: "triutamiraudani"
     fullname: >-
-      Virginia Obed Nirmala
+      Tri Utami Raudani
     bio: >-
-      ✨ Lifestyle and fashun ⚡️ @vonbymood_ @viers.project ✉️ Business inq : DM Yogyakarta, Indonesia
+      A Mom, Lifestyle, Parenting 📩 tamiraudani@gmail.com 📌MAMS by @travelokaxperience || AII
     location: "Indonesia"
-    followers: 127145
-    engagement: 674
-    commentsToLikes: 0.029851
-    id: ckaovf4nk4cfy0i78geun1l5k
+    followers: 54904
+    engagement: 133
+    commentsToLikes: 0.086461
+    id: ck9wp5ktm7wmd0j78q0bu59z9
     verified: false
-    hashtags: "#nimcogowes, #campinaicecream, #petualangankuliner, #authenticbooster"
-  - username: "h.fikrii98"
+    hashtags: "#lomboktrip, #playground, #toddlerlife, #appetonindonesia"
+  - username: "brendapantja"
     fullname: >-
-      𝕱𝖎𝖐𝖗𝖎 | Travelling
+      Brenda
     bio: >-
-      #lifestyle 𝐃𝐨𝐧'𝐭 𝐛𝐞 𝐁𝐮𝐬𝐲 𝐉𝐮𝐬𝐭 𝐛𝐞 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐞 بسم الله 🌴 Aceh-Medan 🇮🇩
+      Fashion, fitness, lifestyle, and everything in between 🇹🇷 Turkey 24/01 ⠀⠀ team @go_fitlife ⠀ #weshootatmono @monoshoot.id @monospace_gs
     location: "Indonesia"
-    followers: 3648
-    engagement: 1763
-    commentsToLikes: 0.207188
-    id: ckf5n0eafw7hp0j23riv7lv62
+    followers: 32020
+    engagement: 116
+    commentsToLikes: 0.053240
+    id: ck6u8z1gluj0h0j71qhgi7v52
     verified: false
-    hashtags: "#letstravelindonesia, #curung, #wonderfullindonesia, #exploreaceh"
+    hashtags: "#brensbalidiary, #localbrand, #fitwithbrenzi, #weshootatmono"
 ---

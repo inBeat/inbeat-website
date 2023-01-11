@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes TikTok Influencers In New York in 2023
+title: Top 10 Athletes TikTok Influencers In New York In 2023
 description: >-
-  Find top athletes TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #sports #athlete.
+  Find top athletes TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #athlete #funny.
 platform: TikTok
-hits: 22
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 22 TikTok influencers like this in New York, United States for you to collaborate.
+hits: 14
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform has 14 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "4guysinabush"
+  - username: "alexandertheswag"
     fullname: >-
-      Tik Toker
+      ‘xander
     bio: >-
-      We are the freshest men to ever walk this Earth. You best believe it foo
+      😎 🔮 🐻 🌻 I am very nice and cool
     location: "United States"
-    followers: 31800
-    engagement: 1635
-    commentsToLikes: 0.046665
-    id: ck9sih7j0yvvd0j7837mpna08
+    followers: 4131
+    engagement: 1298
+    commentsToLikes: 0.209748
+    id: ckamjtkw1plza0i78mih858gm
     verified: false
-    hashtags: "#animals, #jets, #football, #nfl"
-  - username: "steviothememeio"
+    hashtags: "#actor, #fyp, #pov, #soccer"
+  - username: "mendybollen"
     fullname: >-
-      user846347574608
+      Mendy Bollen
     bio: >-
-      Spiderman: Into the Spider-Verse 15:23
+      Snap-mbollen42
     location: "United States"
-    followers: 10700
-    engagement: 1442
-    commentsToLikes: 0.164774
-    id: ckd1a7g6ns5xi0j23gb73hm1r
+    followers: 24800
+    engagement: 1743
+    commentsToLikes: 0.086961
+    id: ckb9p585zjv3a0j23up3vgbh0
     verified: false
-    hashtags: "#dontletthisflop, #fyp, #duet, #christmas"
-  - username: "jakekulakowski"
+    hashtags: "#greenscreen, #foryou, #duet, #readysetgo"
+  - username: "moesafa"
     fullname: >-
-      jake
+      moesafa
     bio: >-
-      new york ig: @jakekulakowski get your vibz merch now
+      🇱🇧 27 NYC 🗽
     location: "United States"
-    followers: 1300000
-    engagement: 2151
-    commentsToLikes: 0.056148
-    id: ck8f6fq8v2la40j78cpir1pds
+    followers: 14800
+    engagement: 632
+    commentsToLikes: 0.048534
+    id: ckai4kwmsoc9a0i786b44ww0a
     verified: false
-    hashtags: "#showupshowoff, #fyp, #basketball, #viral"
-  - username: "nyctraveller"
+    hashtags: "#foryou, #islam, #muslim, #arabtiktok"
+  - username: "allnewyork"
     fullname: >-
-      NYC and beyond
-    bio: >-
-      New York and so much more ✅
-    location: "United States"
-    followers: 186200
-    engagement: 681
-    commentsToLikes: 0.036800
-    id: ck7zp9vcso7gk0j78tvjx7c7t
-    verified: false
-    hashtags: "#art, #pa, #manhattan, #whatisthat"
-  - username: "nyclouthousee"
-    fullname: >-
-      New York Gang wya
+      best content out 🤷🏼‍♂️
     bio: >-
       Business Email: benandnickweldon@gmail.com Use promo code “benn” to get 10% off
     location: "United States"
-    followers: 26000
-    engagement: 1620
-    commentsToLikes: 0.070280
+    followers: 24500
+    engagement: 1591
+    commentsToLikes: 0.073986
     id: cka9kz60b17ur0i782wbhmp7m
     verified: false
-    hashtags: "#foryou, #xyzbca, #518, #607"
-  - username: "nypost"
+    hashtags: "#nfl, #billsmafia, #nyc, #607"
+  - username: "sports_memers"
     fullname: >-
-      New York Post
+      Sports Memers
     bio: >-
-      Your source for breaking news, gossip, sports, opinion, entertainment, and more.
+      Follow for high school highlights
     location: "United States"
-    followers: 22100
-    engagement: 825
-    commentsToLikes: 0.036016
-    id: ckan4zo82clj60i78shg7wodm
+    followers: 2622
+    engagement: 1612
+    commentsToLikes: 0.172628
+    id: cka84a7drsq0p0i783qrehfbx
+    verified: false
+    hashtags: "#touchdown, #football, #sports, #athletic"
+  - username: "brotherhq"
+    fullname: >-
+      Brother
+    bio: >-
+      The only sibling you really need IG: @BrotherHQ
+    location: "United States"
+    followers: 1600000
+    engagement: 1040
+    commentsToLikes: 0.011296
+    id: ck8oti78klaf90j789g5hgrzb
     verified: true
-    hashtags: "#fyp, #newyork, #ny, #update"
-  - username: "tay_nic_fit"
+    hashtags: "#lol, #bro, #talent, #athlete"
+  - username: "imjustrelaxing"
     fullname: >-
-      Taylor Nicole
+      Imjustrelaxing
     bio: >-
-      B.S. in Kinesiology and Health Ex D1 🏐player ⭐️positivity over everything⭐️
+      Been Skating For 10 Yrs 🔥Follow for the Best Sk8 Clips 24/7🔥
     location: "United States"
-    followers: 11400
-    engagement: 1264
-    commentsToLikes: 0.029339
-    id: ckcpt5i2dnqgf0j2303pqodpw
+    followers: 36300
+    engagement: 1066
+    commentsToLikes: 0.009676
+    id: ckbf7x455y1g90j23b0lhw3oe
     verified: false
-    hashtags: "#volleyball, #foryoupage, #fitgirl, #girlswholift"
-  - username: "doctor.justin"
-    fullname: >-
-      Doctor Justin
-    bio: >-
-      LA | NYC
-    location: "United States"
-    followers: 34600
-    engagement: 1043
-    commentsToLikes: 0.037275
-    id: ckbfaciwk1s670j23nno31ibq
-    verified: false
-    hashtags: "#doctor, #newyork, #medicine, #wewintogether"
-  - username: "nicolekonsta"
-    fullname: >-
-      Nicole Konsta
-    bio: >-
-      From mother Russia 🇷🇺 IG @nicolekonsta
-    location: "United States"
-    followers: 3083
-    engagement: 463
-    commentsToLikes: 0.020718
-    id: ck8qj4o0obu2l0j78dpr754bz
-    verified: false
-    hashtags: "#athlete, #foryoupage, #friends, #fyp"
+    hashtags: "#cobrakaichop, #spin, #fyp, #bridgerton"
   - username: "josh24barry24"
     fullname: >-
       Josh
     bio: >-
-      Sports Pittsburgh Twitter: Josh24barry Insta: Josh24barry Snap:josh_isawesome2
+      Baseball Pittsburgh Twitter: Josh24barry Insta: Josh24barry
     location: "United States"
-    followers: 2390
-    engagement: 1029
-    commentsToLikes: 0.015544
+    followers: 2540
+    engagement: 940
+    commentsToLikes: 0.015949
     id: ckdms7i4ma3sb0j23w8ej19k1
     verified: false
-    hashtags: "#oof, #dinger, #baseballszn, #baseball"
+    hashtags: "#usa, #meme, #xyzbca, #sidemen"
+  - username: "stephen__gaon"
+    fullname: >-
+      Stephen__Gaon
+    bio: >-
+      Spread positivity
+    location: "United States"
+    followers: 3166
+    engagement: 556
+    commentsToLikes: 0.134388
+    id: ckblgeopma3400j23kimbjelp
+    verified: false
+    hashtags: "#jiujitsu, #music, #foryou, #foryoupage"
+  - username: "mshaa.rules"
+    fullname: >-
+      🌟🌟🌟🌟🌟
+    bio: >-
+      Missouri high school football 🏈 Only account the rest are FAKE!!
+    location: "United States"
+    followers: 4876
+    engagement: 597
+    commentsToLikes: 0.178589
+    id: ckahvedfpm8hp0i78j10wgsd3
+    verified: false
+    hashtags: "#fypage, #learnontiktok, #axefingersdown, #fun"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters Instagram Influencers In Russia in 2023
+title: Top 10 Painters Instagram Influencers In Russia In 2023
 description: >-
-  Find top painters Instagram influencers in Russia in 2023. Most popular hashtags: #art #instaart #fineart.
+  Find top painters Instagram influencers in Russia in 2023. Most popular hashtags: #art #instaart #painting.
 platform: Instagram
 hits: 148
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 148 Instagram influencers like this in Russia for you to pitch.
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 148 Instagram influencers like this in Russia for you to connect with.
 profiles:
-  - username: "alessandro_miniatures"
+  - username: "_________yanchik_________"
     fullname: >-
-      Alexander Kataurov
+      Yana Shevchenko
     bio: >-
-      Miniatures painter. Commissions open. Russia, Moscow. You can buy all the works presented on this page in my store, the link below 👇
+      📍Moscow 🇷🇺 - Kiev 🇺🇦 VIP flight attendant ✈️ Art painter 👩🏼‍🎨 Food expert ,nutritionist🔬
     location: "Russia"
-    followers: 6506
-    engagement: 1642
-    commentsToLikes: 0.022487
-    id: ckaoxnnp3e0x50i78s5vx7x6u
+    followers: 55422
+    engagement: 266
+    commentsToLikes: 0.016997
+    id: ckap39ll824ni0i78xszp1ok4
     verified: false
-    hashtags: "#toysoldiers, #kingdomdeath, #theminiaturesvault, #history"
+    hashtags: "#young, #instabeautiful, #girls, #likeme"
   - username: "onna_skai"
     fullname: >-
       ONNA 空の女
     bio: >-
       💥DJ💥#onnadj 💥Model, actress , sometimes painter 💥For booking onna.skai@gmail.com
     location: "Russia"
-    followers: 27981
-    engagement: 334
-    commentsToLikes: 0.017484
+    followers: 27250
+    engagement: 248
+    commentsToLikes: 0.011227
     id: ck5zz0rs0av7g0i14km59lzub
     verified: false
-    hashtags: ""
-  - username: "mary_dav"
+    hashtags: "#ps5, #onnadj"
+  - username: "margo.storozhenko"
     fullname: >-
-      Maria Davydova
+      Margo Storozhenko / Model
     bio: >-
-      Face&body painter ⠀ My works - #marydavmakeup My tits art project - @redavart ( • )( • )
+      Milano 📍 @ww_mgmt ✨ Athens @ace_models_athens Painter and interior designer💫
     location: "Russia"
-    followers: 63107
-    engagement: 299
-    commentsToLikes: 0.043420
-    id: ck0u1sy2yxt0d0i19yizixfo8
+    followers: 115889
+    engagement: 161
+    commentsToLikes: 0.009833
+    id: ckaozhlu6lxb20i781sa6z4an
     verified: false
-    hashtags: "#videomarydav, #marydavmakeup, #muarebel, #makeupfootchallenge"
-  - username: "marina_art_picture"
-    fullname: >-
-      SEASCAPE . PAINTINGS FOR SALE
-    bio: >-
-      MARINA KUSRAEVA 🖼️ Oil PAINTER ♥️ Skype painting lessons ♦️ Занятия по Скайпу 🎨 Учу рисовать в удовольствие ✈️ Shipping🌎 💰My shop⬇️
-    location: "Russia"
-    followers: 110425
-    engagement: 613
-    commentsToLikes: 0.018909
-    id: ck0u8a1p36xkj0i19s191hkqc
-    verified: false
-    hashtags: ""
-  - username: "sinn_cosplay"
-    fullname: >-
-      Sinn Sinnka
-    bio: >-
-      🔘 Nickname Sinn 🇺🇦 😉🏳️‍🌈 🔘#Cosplayer 🔘#Makeup_artist 🔘#Painter Bday: 14th december 🔷 @mrs_ansin - вторая страница с работами по гриму @saiph_studio
-    location: "Russia"
-    followers: 7365
-    engagement: 573
-    commentsToLikes: 0.007695
-    id: ck9wfkgr8p8mz0j780ajg4s9j
-    verified: false
-    hashtags: "#evelynnlol, #bloodrayne, #bloodrayne2cosplay, #latexcosplay"
-  - username: "v.irk_kirillov"
-    fullname: >-
-      Владимир Кириллов
-    bio: >-
-      Vladimir Kirillov russian art . russian painter художник . живописец 🎨 жанр 🎨 натюрморт 🎨 пейзаж 🎨 портрет 📞 8(926) 037 8008
-    location: "Russia"
-    followers: 7672
-    engagement: 2321
-    commentsToLikes: 0.032820
-    id: ckaoyapojgpk70i783r7rzdg6
-    verified: false
-    hashtags: "#art, #mypaiting, #realism, #artist"
+    hashtags: "#natashaosadchaya, #harpersbazaarukraine, #nudemood"
   - username: "scaro1"
     fullname: >-
       [𝙎𝘾𝘼𝙍𝙊] Автомобили как холсты.
     bio: >-
       Designer, Painter Покраска ручной работы. Картины: @scaro_canvas Заказ услуг: @scaro_pj_order Команда: @111hata
     location: "Russia"
-    followers: 50322
-    engagement: 603
-    commentsToLikes: 0.032581
+    followers: 54027
+    engagement: 801
+    commentsToLikes: 0.028569
     id: ck5q2vhplhzxz0i11blbraqon
     verified: false
-    hashtags: "#jdm, #paintjob, #scaropaintjob, #art"
+    hashtags: "#jdm, #custompaint, #scaropaintjob, #paintjob"
+  - username: "sinn_cosplay"
+    fullname: >-
+      Sinn Sinnka
+    bio: >-
+      🔘 Nickname Sinn 🇺🇦 😉🏳️‍🌈 🔘#Cosplayer 🔘#Makeup_artist 🔘#Painter Bday: 14th december 🔷 @mrs_ansin - вторая страница с работами по гриму @saiph_studio
+    location: "Russia"
+    followers: 7472
+    engagement: 538
+    commentsToLikes: 0.008050
+    id: ck9wfkgr8p8mz0j780ajg4s9j
+    verified: false
+    hashtags: "#yennefer, #wildhunt, #tgcf, #connor"
+  - username: "v.irk_kirillov"
+    fullname: >-
+      Владимир Кириллов
+    bio: >-
+      Vladimir Kirillov russian art . russian painter художник . живописец 🎨 жанр 🎨 натюрморт 🎨 пейзаж 🎨 портрет 📞 8(926) 037 8008
+    location: "Russia"
+    followers: 8497
+    engagement: 2203
+    commentsToLikes: 0.034058
+    id: ckaoyapojgpk70i783r7rzdg6
+    verified: false
+    hashtags: "#artstagram, #painter, #stilllife, #mypaiting"
+  - username: "irr0ra"
+    fullname: >-
+      
+    bio: >-
+      🌸Student, 21 years old, Russia 🎨Painter 🇰🇷ARMY ❌PLEASE DO NOT REPOST MY ART WITHOUT PERMISSION❌
+    location: "Russia"
+    followers: 25962
+    engagement: 1915
+    commentsToLikes: 0.006697
+    id: ck5zkijt5jjfl0i144p2cex8q
+    verified: false
+    hashtags: "#digitalart, #armyfanart, #sketches, #sketch"
   - username: "asavvva"
     fullname: >-
       Алексей Савченко :О)
     bio: >-
       Alexey Savchenko Russian artist painter 🌍 worldwide shipping 📩 asavvva@yandex.ru живопись, картины
     location: "Russia"
-    followers: 29808
-    engagement: 1148
-    commentsToLikes: 0.017004
+    followers: 31694
+    engagement: 921
+    commentsToLikes: 0.015319
     id: ck13btaozx28a0i19xzod8qe1
     verified: false
-    hashtags: "#savcenko, #summer, #artstagram, #artforsale"
-  - username: "shchemelinskii_aleksandr"
+    hashtags: "#oilpainting, #landscape, #fineart, #artcollector"
+  - username: "marina_art_picture"
     fullname: >-
-      Александр Щемелинский
+      SEASCAPE . PAINTINGS FOR SALE
     bio: >-
-      Художник, преподаватель живописи и рисунка. Москва. Painter, teacher. Moscow shcemelinskii@gmail.com +79687306306 (WhatsApp, Viber)
+      MARINA KUSRAEVA 🖼️ Oil PAINTER ♥️ Skype painting lessons ♦️ Занятия по Скайпу 🎨 Учу рисовать в удовольствие ✈️ Shipping🌎 💰My shop⬇️
     location: "Russia"
-    followers: 9980
-    engagement: 1004
-    commentsToLikes: 0.026168
-    id: ckapcauap32lq0i78zyzu85dx
+    followers: 116464
+    engagement: 258
+    commentsToLikes: 0.020194
+    id: ck0u8a1p36xkj0i19s191hkqc
     verified: false
-    hashtags: "#artist, #oilart, #interesting, #art"
-  - username: "yulia__bas"
+    hashtags: "#reels"
+  - username: "mari.agarkova"
     fullname: >-
-      ⚫️ YULIA BAS ⚫️
+      AcrylicArtist▪️Mari Agarkova
     bio: >-
-      • I explore beauty of personal transformation • Russian girl in Barcelona • I quit yacht design to be a painter • Not perfect but genuine
+      ⬛️ Contemporary artist ⚫️ Royal Talens Ambassador ⬛️Buy my art 👇🏻 https://artisgallery.ru/painter/m.agarkova/ Онлайн-школа
     location: "Russia"
-    followers: 41746
-    engagement: 290
-    commentsToLikes: 0.019270
-    id: ck13cl27s0vxu0i19zswon10i
+    followers: 19325
+    engagement: 268
+    commentsToLikes: 0.061667
+    id: ckaovenfm4abm0i78dqadqw5x
     verified: false
     hashtags: ""
 ---

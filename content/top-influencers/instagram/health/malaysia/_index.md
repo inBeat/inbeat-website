@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Malaysia in 2023
+title: Top 10 Health Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top health Instagram influencers in Malaysia in 2023. Most popular hashtags: #healthylifestyle #malaysia #selflove.
+  Find top health Instagram influencers in Malaysia in 2023. Most popular hashtags: #healthylifestyle #healthy #healthyfood #fitnessmotivation.
 platform: Instagram
-hits: 112
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 112 Instagram influencers like this in Malaysia for you to pitch.
+hits: 81
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 81 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "isabelleman2"
-    fullname: >-
-      Isabelle Man
-    bio: >-
-      Travel•Lifestyle•Fashion•Positivity•Health❤️HomeChef @bellebellebite/BeautyQueen/Biotech/Model/Influencer❤️Sponsorship:isabelleman78@gmail.com
-    location: "Malaysia"
-    followers: 10481
-    engagement: 235
-    commentsToLikes: 0.075642
-    id: ck0tyggo2mpog0i191owr96k3
-    verified: false
-    hashtags: "#babe, #selfie, #positivevibesonly, #malaysia"
-  - username: "ismailroslyy"
-    fullname: >-
-      TOP LEADER SNOVVHITE KL 🔥
-    bio: >-
-      stay lowkey My baby @skinbyir Healthy skin 🥰👇🏻
-    location: "Malaysia"
-    followers: 64642
-    engagement: 348
-    commentsToLikes: 0.034485
-    id: ck5hd8vjpm4r10i11zggibbmo
-    verified: false
-    hashtags: "#garminmalaysia, #beatyesterdaymy, #garminvenusq, #smellynomore"
   - username: "may8572fit"
     fullname: >-
       May Liu
     bio: >-
-      Taipei/ Food & Fitness Lover 熱愛健身&料理的吃貨女孩💖 Founder of @may_u_fit Healthy recipes #mayfitbowl Youtube 🔍May Fit ✉️mayfit8572@gmail.com . May力居家八週課表⬇️
+      Taipei/ Food & Fitness/ NSCA-cpt 熱愛健身&料理的吃貨💖 Founder of @may_u_fit Healthy recipes #mayfitbowl YT🔍May Fit ✉️mayfit8572@gmail.com . 加入女力健身app⬇️
     location: "Malaysia"
-    followers: 259788
-    engagement: 241
-    commentsToLikes: 0.013062
+    followers: 318312
+    engagement: 269
+    commentsToLikes: 0.022310
     id: ck5pzlzzo1mw90i113hejzlsc
     verified: false
-    hashtags: "#healthyrecipes, #mayfitbowl, #healthyfood, #healthylifestyle"
+    hashtags: "#athomeworkouts, #fitnessmeal, #fitnesslifestyle, #healthyeating"
   - username: "__aaamie"
     fullname: >-
       AMIE 🇲🇾
     bio: >-
-      Healthy food & fitness enthusiasts Powered by @chocnut_ "Remain calm,because peace equals power” 📩 DM/Email for collab/review As_zffqh08@yahoo.com
+      Healthy food & fitness enthusiasts `He knows what is in every heart - Surah Mulk [67:13]’ 📩 DM for collab/review
     location: "Malaysia"
-    followers: 23022
-    engagement: 182
-    commentsToLikes: 0.062182
+    followers: 24304
+    engagement: 134
+    commentsToLikes: 0.065752
     id: ck8t3rcrf47bh0j78q6rn8gk0
     verified: false
-    hashtags: "#loveyourself, #eatcleanmalaysia, #bentobox, #ramadhantiba"
+    hashtags: "#loveyourself, #positiveenergy, #organicfood, #healthy"
   - username: "femislay"
     fullname: >-
       Femislay (she/her)
     bio: >-
       Social Worker. Feminist. Unlearner. Self Care / Mental Health / Recovery @muslimwomenyoushouldknow Venmo: @femislay Vush Fam 💕| @vush_official
     location: "Malaysia"
-    followers: 158144
-    engagement: 259
-    commentsToLikes: 0.080269
+    followers: 158357
+    engagement: 226
+    commentsToLikes: 0.012368
     id: ck5zmhcatmkjc0i148vrpnp18
     verified: false
-    hashtags: "#boysmells, #naturalbeauty, #naturalskincare, #facemask"
-  - username: "say_shazril"
+    hashtags: "#maryoliver, #thegoodpatch, #affirmations, #harmreduction"
+  - username: "mejelyna"
     fullname: >-
-      Dr Shazril Shaharuddin
+      Call Me Mell
     bio: >-
-      • Medical Doctor • Daddy to Aezriel • Hubby to Dr Azura • Parenting, Fitness & Health
+      Hello! I post basically what i feels like and I do paid review for a living on this profile. I’m all about beauty, healthy foods & lifestyle.
     location: "Malaysia"
-    followers: 273509
-    engagement: 260
-    commentsToLikes: 0.015622
-    id: ck0w05qxycif70i19ljie6dya
+    followers: 72953
+    engagement: 107
+    commentsToLikes: 0.010211
+    id: ck5q0xpi189rm0i11c6pumy58
     verified: false
-    hashtags: "#amazingnanoe, #qualityairwithpanasonic, #finestprobiotic, #bifidobacterium"
-  - username: "drkaylateh"
+    hashtags: "#selfhelp, #bibliophile, #hashtagbecauseofferra, #selfcaresunday"
+  - username: "eleenwong120"
     fullname: >-
-      Dr. Kayla Teh
+      Eleen 💜
     bio: >-
-      The dentist you can ask anything!🤗 @thatdentalpage 🦷Dentist • BDS (UM) 👩‍⚕️TV Host • TV3 Helo Doktor 💪🏻 Health & Fitness More Dental videos here 🦷!🔽
+      @eleenwong120 网络直播经纪人🐡@fefe.126 🔥飨吃肉干🔥@xiangchi.my Broadcaster | Collab| °Lifestyle °Food °Beauty 🌟 Team @ib_malaysia 📩eleenwong120@gmail.com
     location: "Malaysia"
-    followers: 41429
-    engagement: 449
-    commentsToLikes: 0.015651
-    id: ck15t2goag0fj0i19vfi3ldr6
+    followers: 21229
+    engagement: 286
+    commentsToLikes: 0.081792
+    id: ckap05rddov3a0i78npeuutvo
     verified: false
-    hashtags: "#smilemakeover, #aesthetic, #aestheticdentistry, #compositeinjection"
-  - username: "debhasrilife"
+    hashtags: "#happybirthdaytome, #time, #012021, #style"
+  - username: "winniek_my"
     fullname: >-
-      DEBHASRI VISVANANDAM
+      Winnie K
     bio: >-
-      தமிழ் | Law (LL.B) | Blogger | Tutor Kuala Lumpur, MY 📍 Advocacy | Foodie | Mental Health | Lifestyle I do not influence, I hope to inspire. Real.
+      Recording artiste/Singer/Performer/Model Bachelor Degree in Business Admin 👩🏻‍🎓 ❤️Travel,Fashion,Food,Coffee🍫☕️ wkproduction@gmail.com
     location: "Malaysia"
-    followers: 17200
-    engagement: 651
-    commentsToLikes: 0.077243
-    id: ck0ue2iyikdu50i19fosopd9r
-    verified: false
-    hashtags: "#chennai, #dbotava, #indianfood, #tamil"
-  - username: "adelinetsen"
-    fullname: >-
-      Barbie Tsen
-    bio: >-
-      @mikogalere @atta.apparel @healthlandmy @julietevehq ♥️ Malaysian Actress & Singer 🎬🎤 Mix blood Sabahan Jobs (Adelinetsenbusiness@gmail.com)
-    location: "Malaysia"
-    followers: 820538
-    engagement: 98
-    commentsToLikes: 0.009369
-    id: ck5zu0xcl1h7b0i1400hepbm5
+    followers: 305977
+    engagement: 88
+    commentsToLikes: 0.104950
+    id: ck5zotkhyraxs0i14pe1m3368
     verified: true
-    hashtags: "#selflove, #icingsharetips2020, #icingraya2020, #selfie"
-  - username: "mr.jay.rosly"
+    hashtags: "#healthiswealth, #hydrogen, #healthylifestyle, #healthapp"
+  - username: "danielfongwc"
     fullname: >-
-      Kurus Dengan Makan Nasi 🇲🇾
+      Daniel Fong
     bio: >-
-      HEALTH ° FITNESS ° NUTRITION 🤳🏼Kurus Fit Online Coaching 🤿 #SDiDivers 🛵 #Biker 📲 #CoachJay KLIK LINK UNTUK JOIN CABARAN BUANG LEMAK 👇🏼⬇️👇🏼
+      Monash alumni 2016 📒 Singing 🎤 Acting 👨🏻 Fitness enthusiast 🦸‍♂️ NABBA-WFF Amateur Physique Top 6 2017 Email for collaborations Facebook page⬇️
     location: "Malaysia"
-    followers: 60671
-    engagement: 175
-    commentsToLikes: 0.012304
-    id: ckf5rcfr7c6fz0j23hs7obhow
+    followers: 49672
+    engagement: 316
+    commentsToLikes: 0.023739
+    id: ck6ttezj3a94j0j714dlje3r3
     verified: false
-    hashtags: "#alhamdulillah, #syukur, #malaysia, #borderbilabukakek"
+    hashtags: "#forallskintones, #cetaphilbhr, #healthyradiance, #forallskintypes"
+  - username: "andylinchichiu"
+    fullname: >-
+      AndyLin林子超
+    bio: >-
+      Shaw Brothers 邵氏兄弟 Job enquires: 📧:monica.lau@shawbrothers.hk 📞:+853 6486 0661/+852 2335 2118 Founder of @studio12hk Director of Andy’s Star Dance
+    location: "Malaysia"
+    followers: 23088
+    engagement: 238
+    commentsToLikes: 0.016512
+    id: ck5zqkk96urkz0i141f07s7ke
+    verified: false
+    hashtags: "#hkpersonaltrainer, #getshred, #grouptraining, #studio12hk"
+  - username: "foodreviewaustralia"
+    fullname: >-
+      FOOD REVIEW AUSTRALIA
+    bio: >-
+      Food Review Australia ✉️: foodreviewaustralia@gmail.com
+    location: "Malaysia"
+    followers: 65246
+    engagement: 60
+    commentsToLikes: 0.420782
+    id: ck6u3iu41y1ei0j71c0nyxv29
+    verified: false
+    hashtags: "#melbournefoodie, #foodblog, #broadsheetmelbourne, #dailyfoodfeed"
+  - username: "sweetannu"
+    fullname: >-
+      Anahita Irani ~ 𝕊𝕨𝕖𝕖𝕥𝕒𝕟𝕟𝕦🧿
+    bio: >-
+      Creating a life I love🦋💕 | Food | Lifestyle | Travel | Recipes | Fitness 📍Mumbai DM for events/promotion/review/collabs📩-anahitairani200@gmail.com
+    location: "Malaysia"
+    followers: 43592
+    engagement: 84
+    commentsToLikes: 0.312745
+    id: ckaor4pkvlpwe0i78n25pkpe5
+    verified: false
+    hashtags: "#bloggersofinstagram, #healthyfood, #explorepage, #mumbai"
 ---

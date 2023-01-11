@@ -1,36 +1,36 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Seattle in 2023
+title: Top 10 Vegan Instagram Influencers In Seattle In 2023
 description: >-
-  Find top vegan Instagram influencers in Seattle in 2023. Most popular hashtags: #vegan #seattle #love #plantbased.
+  Find top vegan Instagram influencers in Seattle in 2023. Most popular hashtags: #vegan #seattle #plantbased #vegetarian.
 platform: Instagram
-hits: 35
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 35 Instagram influencers like this in Seattle, United States for you to work with.
+hits: 29
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 29 Instagram influencers like this in Seattle, United States for you to pitch.
 profiles:
-  - username: "mysweetlilcakes"
+  - username: "tdteats"
     fullname: >-
-      Sweetcakes Catering
+      • TDTEATS • || Seattle Foodie
     bio: >-
-      Savory & Sweet. Baked-on-a-Stick. Made with 💗 #1 Seattle Caterer. #1 New American Food Item. As seen on Buzzfeed & Evening Magazine. "🥞🍏🍋🍓🍌🍒🍗🥓🌽🥕🍅🌶🧀🍯👗🥞
+      📍SEA, WA 🙋🏻‍♂️: Tony || #Mukbangs, Food Videos, Reels! 📧: tdteats@gmail.com 💡: @basarestaurant @tdtplants ✨: #StopAsianHate
     location: "United States"
-    followers: 16254
-    engagement: 475
-    commentsToLikes: 0.010546
-    id: ck55m1w972zxt0i111st2mj1l
+    followers: 7646
+    engagement: 577
+    commentsToLikes: 0.256181
+    id: ck0tw1rj8dngh0i19vvvtbxct
     verified: false
-    hashtags: "#catering, #seattlecatering, #mysweetlilcakes, #waffleonastick"
-  - username: "theallvegan"
+    hashtags: "#sponsored, #seattlewa, #foodstagram, #pnw"
+  - username: "vanishingseattle"
     fullname: >-
-      🌿 The All Vegan
+      Vanishing Seattle
     bio: >-
-      Vegan Memes, questions, and activism. 🐐🐮🐣🐶🌎 Remember to follow👇👇👇
+      Documenting/celebrating disappearing & displaced small biz, communities & cultures of Seattle. Venmo: @vanishing_seattle Cashapp: $VanishingSeattle
     location: "United States"
-    followers: 35435
-    engagement: 225
-    commentsToLikes: 0.027008
-    id: ck136ir976oqj0i19dpmu6crx
+    followers: 51326
+    engagement: 220
+    commentsToLikes: 0.037370
+    id: ck14gfq6x4zu60i19spc769nq
     verified: false
-    hashtags: "#meatmonday, #vegangifts, #vegansofmanila, #meatards"
+    hashtags: "#seattleculture, #seattlesoul, #seattlecommunity, #capitolhill"
   - username: "naturalveganguy"
     fullname: >-
       NATURAL VEGAN GUY
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.035274
     id: ck135f8s314dk0i19wrv9y7om
     verified: false
-    hashtags: "#vegansofig, #veganfood, #vegan, #nicecream"
-  - username: "kaleintheclouds"
+    hashtags: "#vegansofig, #smoothiebowls, #vegandessert, #naturalveganguy"
+  - username: "vegan_govegan"
     fullname: >-
-      Rosie Tran
+      Vegan Food Recipes
     bio: >-
-      seattle based flight attendant, plant based (ish) human health, wellness, & sustainable livin’ at 33,000 ft. 🌿☁️
+      Use #vegan_veganfood 📗 85 Vegan Recipes eBook ✏ Created by registered ® Holistic Nutritionist 🤤 Detailed recipes for you and your family 👇 BUY NOW👇
     location: "United States"
-    followers: 24272
-    engagement: 305
-    commentsToLikes: 0.148882
-    id: ck0w6d5j680kk0i19r44dy21u
+    followers: 499203
+    engagement: 39
+    commentsToLikes: 0.010976
+    id: ck0vv37ypnbxd0i194kp36dp1
     verified: false
-    hashtags: "#bonappetitmag, #shoplocal, #baking, #healthyfood"
-  - username: "refaubrey"
+    hashtags: "#vegansnacks, #vegangains, #veganrecipe, #vegetarian"
+  - username: "sabrazaraa"
     fullname: >-
-      Aubrey Edwards
+      Seattle Lifestyle & Travel | PharmD, MPH, PhC
     bio: >-
-      Referee at @allelitewrestling 💛🖤 Co-host of the #AEWUnrestricted podcast 🍆 Gearl Hebner ✌️😻 Feed me all the burritos 🌯
+      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
     location: "United States"
-    followers: 78787
-    engagement: 570
-    commentsToLikes: 0.016619
-    id: ck0ucvx5rhvhi0i19ybug34e5
+    followers: 77441
+    engagement: 726
+    commentsToLikes: 0.023415
+    id: ck14lbl7wtu3i0i191qq4vdxr
     verified: false
-    hashtags: "#doubleornothing, #stayathome, #tntchampion, #aewdynamite"
-  - username: "sedonachristina"
+    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
+  - username: "lauramakfitness"
     fullname: >-
-      CHRISTIE 🦋 intentional living
+      𝐋𝐚𝐮𝐫𝐚 𝐌𝐚𝐤, 𝐌𝐒, 𝐌𝐚𝐬𝐭𝐞𝐫 𝐓𝐫𝐚𝐢𝐧𝐞𝐫
     bio: >-
-      vegan wellness | slow fashion | imperfectly low waste —— a youtubing (& podcasting) human ⁘ watch dog @tinykanga ☏ hello@sedonachristina.com 𖤥 seattle
+      Help 40+ women ditch brain fog & muffin top with 𝘱𝘳𝘰𝘷𝘦𝘯 𝐌𝐚𝐤𝐀𝐭𝐭𝐚𝐜𝐤𝐅𝐢𝐭𝐋𝐢𝐟𝐞 method. It’s a fun lifestyle, not a fad! 🧘🏼‍♀️Yoga 💪Strength 🥬Food 🎤NOWFoods
     location: "United States"
-    followers: 46010
-    engagement: 819
-    commentsToLikes: 0.017120
-    id: ck9hchg84leu10j78oenfn1ro
+    followers: 17106
+    engagement: 579
+    commentsToLikes: 0.032847
+    id: ck5hqgm9ht2ua0i11goaocwa8
     verified: false
-    hashtags: "#amplifymelanatedvoices, #amplifymelanatedvoiceschallenge"
-  - username: "seattlefoodieadventure"
+    hashtags: "#fitat40, #mindfulnesspractice, #healthymindsets, #selflovetips"
+  - username: "mysweetlilcakes"
     fullname: >-
-      Seattle Food 🍔🍲🍕 | Dumplings 🥟
+      Sweetcakes Catering
     bio: >-
-      Steven Ducky🍝| Seattle Food, Travel, & Beyond! 📺📻📰 Featured: @beardfoundation @seahawks I ❤ Food More Than People. 🏙💧Seattleite 25+ Years. 🍔🍕🥞🍣🍦🍩🥡
+      Savory & Sweet. Baked-on-a-Stick. Made with 💗 #1 Seattle Caterer. As seen on Evening Magazine. "🥞👗🍒🍓🍋
     location: "United States"
-    followers: 97154
-    engagement: 575
-    commentsToLikes: 0.050065
-    id: ck14glyy15vih0i19nxwspfqr
+    followers: 14901
+    engagement: 473
+    commentsToLikes: 0.011694
+    id: ck55m1w972zxt0i111st2mj1l
     verified: false
-    hashtags: "#seattleliving, #dinner, #love, #thrillist"
-  - username: "hungrycleo"
+    hashtags: "#holidayparty, #cherrychocolate, #bananacinnamon, #cakeonastick"
+  - username: "foodooboos"
     fullname: >-
-      CLEO | MINDSET | MENTOR
+      Soondoo Boo
     bio: >-
-      222 Cincy 〰️ Seattle Change your mindset, change your life Your vegan hair&skin care junkie Evolving into my higher self Be present #exjw
+      📍DMV x ✈️ | @jpanphotographyx 📸 #dmvfoodiecrew | @zipkick | Yelp Elite19’-🎁 ❗️$10off FantuanApp Code: Judy #fujixseries 📷 DM for collabs 📬 いただきま!
     location: "United States"
-    followers: 2731
-    engagement: 993
-    commentsToLikes: 0.077254
-    id: ck0vy9jsl2wbb0i19cd3pc9bq
+    followers: 12110
+    engagement: 545
+    commentsToLikes: 0.292552
+    id: ck5hqu203tq2k0i11plgxseab
     verified: false
-    hashtags: "#healthyhair, #travel, #model, #nature"
-  - username: "cameliakatoozian"
+    hashtags: "#fantuandelivery, #dessert, #dcfood, #ilovebubbletea"
+  - username: "iammarkbautista"
     fullname: >-
-      Camelia Katoozian
+      Mark Bautista
     bio: >-
-      📍Seattle, WA Founder: @kateliabeauty Personal Account: @cameliakatz 💌Inquiries: info@cameliakatoozian.com
+      Philippines & Beyond 📩 VIVA Artist Agency Singer/Actor🇵🇭 Author of “Beyond The Mark”
     location: "United States"
-    followers: 690847
-    engagement: 272
-    commentsToLikes: 0.120331
-    id: ck135dfks0wez0i19whher5wv
+    followers: 144692
+    engagement: 91
+    commentsToLikes: 0.024175
+    id: ck6ubww20c68l0j71pcopegvt
     verified: true
-    hashtags: "#crueltyfree, #reelsfeature, #instagramreels, #halloweenmakeup"
-  - username: "realandvibrant"
+    hashtags: "#gabayguro2020, #byredosmellmemory, #manilabay, #basketofhope"
+  - username: "lordego1"
     fullname: >-
-      Sapana / Real + Vibrant ™
+      Ego
     bio: >-
-      Simple, everyday, vegetarian food 🥑 📖 Author of Plant Power Bowls cookbook 📍 Living in Seattle, WA
+      Reclusive Seattle art dude. Easily flattered. Misanthropic Vegan.
     location: "United States"
-    followers: 147540
-    engagement: 100
-    commentsToLikes: 0.040957
-    id: ck0u89shq6we10i19tsmfewvz
+    followers: 9666
+    engagement: 724
+    commentsToLikes: 0.031297
+    id: ck9wdiimvfs0r0j7847b161qh
     verified: false
-    hashtags: "#sponsored, #ad, #avocado, #freezermeals"
+    hashtags: "#darkartandcraft, #lordego1, #acrylic, #hifructose"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In France in 2023
+title: Top 10 Wellness Instagram Influencers In France In 2023
 description: >-
-  Find top wellness Instagram influencers in France in 2023. Most popular hashtags: #southoffrance #justdoit #fitnessmotivation.
+  Find top wellness Instagram influencers in France in 2023. Most popular hashtags: #fitness #workout #motivation.
 platform: Instagram
-hits: 121
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 121 Instagram influencers like this in France for you to contact.
+hits: 157
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 157 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "amie_wiley"
+  - username: "_elodypetit"
     fullname: >-
-      Amie Wiley
+      Elody P
     bio: >-
-      A happy, active, grateful soul ✨ Wellness | Fitness | Positivity 🎓 BA Psychology & French PT, Online Coach & Sports Nutritionist @bboldtan: AMIE20
+      19 | French Canadian 🇨🇦🌞 all things wellness, beauty, live passionately ↯ shop my favs
     location: "France"
-    followers: 19514
-    engagement: 458
-    commentsToLikes: 0.057295
-    id: ck9weepxqjx8q0j78dts5lr48
+    followers: 119298
+    engagement: 635
+    commentsToLikes: 0.012700
+    id: ck5zzii1ebsap0i147zq0cwmc
     verified: false
-    hashtags: "#bbold, #gifted, #reel, #fitfam"
-  - username: "instakikagram"
+    hashtags: "#countrysidelife, #hellofreshpartner, #ad, #partner"
+  - username: "elylemieux"
     fullname: >-
-      Christelle Fourzali AJ
+      e l y  ✿  l e m i e u x
     bio: >-
-      KIKA Beirut/Dubaï team@kikafourzali.com Wellness, fashion and fitness
+      𝖒𝖆𝔎𝖊 𝖙𝖍𝖎𝖓𝖌𝖘 𝖍𝖆𝖕𝖕𝖊𝖓 lifestyle — wellness — créativité — passion 🪴 + @agence.elylemieux
     location: "France"
-    followers: 92289
-    engagement: 122
-    commentsToLikes: 0.042434
-    id: ck6u4u8tn5ti80j71fqegw2ms
+    followers: 42059
+    engagement: 427
+    commentsToLikes: 0.298187
+    id: ck5cakff4dktk0i112gh1l5x9
     verified: false
-    hashtags: "#sundaywithalek, #7months, #newcollection"
+    hashtags: "#ginungava, #2021, #itschristmassssss, #robertmondavipscan"
   - username: "racheloveee"
     fullname: >-
       Rachel Love
     bio: >-
       beauty | fashion | wellness | + a side of french fries Signed with @elitemiami @stormmodels @directionsusa @linkmodels_international @qmodels
     location: "France"
-    followers: 25521
-    engagement: 440
-    commentsToLikes: 0.030328
+    followers: 33949
+    engagement: 371
+    commentsToLikes: 0.070113
     id: ck0vw0h5nrk0j0i19ox400o6i
-    verified: false
-    hashtags: "#srynotsry"
-  - username: "camicottani"
-    fullname: >-
-      ☽ Cami | Daily Yoga ☆
-    bio: >-
-      🌱 • yogi végane ☽ wellness 🎥 • Blog www.camicottani.com ॐ • Chaîne YouTube . Je partage des conseils pour tous les niveaux 👍🏻
-    location: "France"
-    followers: 8254
-    engagement: 701
-    commentsToLikes: 0.083974
-    id: ck5cglknvp36h0i11igvhyy2u
     verified: false
     hashtags: ""
   - username: "karoline.ro"
     fullname: >-
       Karoline
     bio: >-
-      Fitness - Science - Wellness ➔ Youtube : 𝙆𝘼𝙍𝙊𝙇𝙄𝙉𝙀.𝙍𝙊 342k ➔ Founder app @bestrong_app 🌵💪🏼 Mon app bestrong ⬇️
+      Fitness - Science - Wellness ➔ Youtube : 𝙆𝘼𝙍𝙊𝙇𝙄𝙉𝙀.𝙍𝙊 343k ➔ Founder app @bestrong_app 🌵💪🏼 Les Band bestrong ⬇️
     location: "France"
-    followers: 142476
-    engagement: 209
-    commentsToLikes: 0.025099
+    followers: 138563
+    engagement: 234
+    commentsToLikes: 0.060318
     id: ck8t9tlzupbb30j781tqxnzqy
     verified: false
-    hashtags: "#begrateful, #bestrongapp, #benourished, #beactive"
-  - username: "cess_befitandwell"
+    hashtags: "#bestrong, #begrateful, #bestrongapp, #beactive"
+  - username: "yesmissy"
     fullname: >-
-      Cess Be FIT&WELL 🌴☉🌴🤸‍♀️🇫🇷
+      Eileen Lazazzera
     bio: >-
-      Coach Holistique / Wellness Coach Technicien PNL, Praticien loading.. Naturopathe processing...🌱 Yoga Teacher RYT 200
+      🌐 yesmissy.com 💍 wifey & doggy mama 💖 beauty • wellness • decor • style 💌 hello@yesmissy.com
     location: "France"
-    followers: 10218
-    engagement: 530
-    commentsToLikes: 0.068612
-    id: ck55ls28s2a6t0i114vklcq1d
+    followers: 29924
+    engagement: 161
+    commentsToLikes: 0.225568
+    id: ck0tzy706rymy0i1904xmoqg5
     verified: false
-    hashtags: "#pnlcoaching, #naturopathie, #nlp, #coachholistique"
+    hashtags: "#canadianlife, #canadianmama, #yegmoms, #canadianmom"
+  - username: "amie_wiley"
+    fullname: >-
+      Amie Wiley
+    bio: >-
+      A happy, active, grateful soul ✨ Wellness | Fitness | Positivity 🎓 BA Psychology & French PT, Online Coach & Sports Nutritionist
+    location: "France"
+    followers: 20297
+    engagement: 315
+    commentsToLikes: 0.139481
+    id: ck9weepxqjx8q0j78dts5lr48
+    verified: false
+    hashtags: "#positivity, #gymshark, #personaltrainer, #onlinecoach"
   - username: "christellejavelier"
     fullname: >-
       CHRISTELLE JAVELIER
     bio: >-
       💪🏼 Personal trainer & Wellness Coach 🌈 Founder of @activreguide Studio 🌏 Globe-trotter ⬇️ My Blog ⬇️
     location: "France"
-    followers: 33733
-    engagement: 215
-    commentsToLikes: 0.069037
+    followers: 33174
+    engagement: 172
+    commentsToLikes: 0.044125
     id: ck14ky62lrwvd0i19005noapy
     verified: false
-    hashtags: "#activre, #challenge, #teamactivre, #riseandshine"
-  - username: "dcopperman"
+    hashtags: "#teamactivre, #activre15, #activre, #parisjetaime"
+  - username: "sfennous"
     fullname: >-
-      ☼ Danielle Copperman ☾
+      SANDRA FENNOU
     bio: >-
-      Natural living, wellness, travel, sustainability & self Founder @qnolauk | Author Well Being Cookbook Model @wilhelminamodels @modelactivist
+      🧿 issa vibe between beauty, lifestyle and wellness. 📩 sandrafennou@gmail.com 📧 management: sandra@go-talents.com
     location: "France"
-    followers: 58732
-    engagement: 119
-    commentsToLikes: 0.046448
-    id: ck13aolsjrewx0i19omerueq9
+    followers: 108130
+    engagement: 219
+    commentsToLikes: 0.013359
+    id: ck55kqci2zva90i11y3tlhwm3
     verified: false
-    hashtags: "#collaboration, #fpyourway, #closely, #closelyofficial"
-  - username: "maximegruson_"
+    hashtags: "#summertime, #summervibes, #sea, #holidays"
+  - username: "queengotham"
     fullname: >-
-      MG Personal trainer 🇫🇷🇮🇩
+      Jillian Sage
     bio: >-
-      Cannes - Nice - Monaco 📍 ๏ International 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘁𝗿𝗮𝗶𝗻𝗲𝗿 | Wellness 𝗠𝗮𝘀𝘀𝗲𝘂𝗿 ๏ Athlete & Nutritionist @foodspring_fr | -15% MAXIMEFSG
+      Dancer•Yoga Therapy•Thai Yoga Healer• I ❤️ Ragdoll Cats, Wellness🧘🏻‍♀️, Beauty💋Being Pampered: Massages, Skin Care, Travel, Dining & Entertainment💃🏻
     location: "France"
-    followers: 21268
-    engagement: 295
-    commentsToLikes: 0.050925
-    id: ck6ty5sju1uh90j7110pwp7fd
+    followers: 50888
+    engagement: 373
+    commentsToLikes: 0.046634
+    id: ck6tut5abi9hy0j715bzc2ywb
     verified: false
-    hashtags: "#antibes, #foodspring, #fitfrenchies, #nicefrance"
-  - username: "viveka_b"
+    hashtags: "#published, #restalynekysse, #ad, #coola"
+  - username: "isapereiranunes"
     fullname: >-
-      The_blond_matcha 🍵
+      IFBB PRO - ISA PEREIRA
     bio: >-
-      Viveka B Holistic Life only ✨ Pilates Romana 🤸🏼‍♀️ Yoga du visage🧖🏼‍♀️ Wellness / Lifestyle / Beauty 👩🏼‍💻 vivekabrnd@gmail.com
+      🇧🇷 WELLNESS PRO 🇺🇸 💪🏻 Coach @gnteam_usa 🐲 @dragonpharmabrasil ISA10 🛍 @violatethedresscode ISA10 👙 @sycompetitionsuits ISA15 🔥 Personal Trainer
     location: "France"
-    followers: 44527
-    engagement: 195
-    commentsToLikes: 0.014096
-    id: ck5zodibxqbgx0i14unqta2pt
+    followers: 347346
+    engagement: 148
+    commentsToLikes: 0.014395
+    id: ck60019hccrxw0i144pmcibgj
     verified: false
-    hashtags: "#2020, #southoffrance, #ootd, #mecfs"
+    hashtags: "#bodybuilding, #ifbbpro, #fitness, #workout"
 ---

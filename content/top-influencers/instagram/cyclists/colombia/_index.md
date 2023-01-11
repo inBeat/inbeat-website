@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Colombia in 2023
+title: Top 10 Cyclists Instagram Influencers In Colombia In 2023
 description: >-
-  Find top cyclists Instagram influencers in Colombia in 2023. Most popular hashtags: #cycling #cyclinglife #cyclingphotos #ciclismo.
+  Find top cyclists Instagram influencers in Colombia in 2023. Most popular hashtags: #cycling #cyclinglife #ciclismo #cyclist.
 platform: Instagram
-hits: 20
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 20 Instagram influencers like this in Colombia for you to contact.
+hits: 16
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 16 Instagram influencers like this in Colombia for you to contact.
 profiles:
   - username: "carolinafrancov"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
     location: "Colombia"
-    followers: 60698
-    engagement: 462
-    commentsToLikes: 0.046698
+    followers: 64316
+    engagement: 540
+    commentsToLikes: 0.058125
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#espnbiketeam, #gorigogo, #ciclismo, #cycling"
+    hashtags: "#cyclinglife, #ciclismo, #gorigogooficial, #cycling"
   - username: "caroamayac"
     fullname: >-
       C A R O L I N A  A M A Y A
     bio: >-
-      Amateur cyclist 🚲 🇨🇴 Ruta ⛰Mtb Fashion designer 👚✂️ @carolinaamayac 😎 @tifosioptics
+      Amateur cyclist 🚲 🇨🇴 Ruta ⛰Mtb Fashion designer 👚✂️ @carolinaamayac
     location: "Colombia"
-    followers: 54566
-    engagement: 231
-    commentsToLikes: 0.041679
+    followers: 57879
+    engagement: 227
+    commentsToLikes: 0.030542
     id: ck14hx0ntck8t0i191jawclxe
     verified: false
-    hashtags: "#womenstyle, #bikegirl, #womenonbike, #roadbikes"
-  - username: "nataliafrancov"
-    fullname: >-
-      Natalia Franco Villegas
-    bio: >-
-      Medellín, Colombia 🇨🇴 Cyclist for @teamtwenty24 @gozwift 🚲 Soon 2B Mental Performance Consultant!🧠 naty-franco95@hotmail.com
-    location: "Colombia"
-    followers: 15350
-    engagement: 452
-    commentsToLikes: 0.024797
-    id: ck5cfv7nlnog70i11pvi71ey4
-    verified: false
-    hashtags: "#athlos, #colombianpower, #outsideisfree, #weareamplified"
+    hashtags: "#cyclingwomen, #wearetifosi, #colombiabike, #bestcyclingkits"
   - username: "verona92"
     fullname: >-
       Carlos Verona
     bio: >-
-      🔹Pro-cyclist for @movistar_team 🚲 🔹 No DM, email please! 😊 📧 🔹 Nuevo #veronaVlog👇🏼
+      🔹Pro-cyclist for @movistar_team 🚲 👧🏼 Berta👦🏼 Leo 👶🏻 Nina ❤️ @estherfcasasola
     location: "Colombia"
-    followers: 73145
-    engagement: 528
-    commentsToLikes: 0.011388
+    followers: 81811
+    engagement: 655
+    commentsToLikes: 0.012933
     id: ck6tmdibf7n570j7184bpdd8l
     verified: true
-    hashtags: "#itstimetoreflect, #seguimosconectados, #veronavlog, #consumeproximidad"
-  - username: "michi_barsi"
+    hashtags: "#rodamosjuntos, #veronavlog, #feedyourdreams, #lavuelta20"
+  - username: "taty8a"
     fullname: >-
-      Javier BarSi 🇨🇴
+      𝗧𝗮𝘁𝗶𝗮𝗻𝗮 𝗦á𝗻𝗰𝗵𝗲𝘇
     bio: >-
-      @suarezclothing Team : @mobelteam 🚴🏼‍♂️ Marketing & MBA 🇵🇪🇪🇸 Sales Manager 👨🏻‍💻
+      🇨🇴 Colombiana @kafitt.oficial 🥇𝘊𝘙𝘐 𝘔𝘢𝘴𝘵𝘦𝘳 2015 🥇ℓ'єтαρє 2018 🥇𝘎𝘳𝘢𝘯 𝘍𝘰𝘯𝘥𝘰 𝘊𝘪𝘶𝘥𝘢𝘥 𝘔𝘶𝘴𝘪𝘤𝘢𝘭 👩🏼‍💻 Matemática y Estadística ❤️ Felicidad 🚲
     location: "Colombia"
-    followers: 50922
-    engagement: 577
-    commentsToLikes: 0.036844
-    id: ck5hmy2szmuei0i11u9dub8el
+    followers: 37935
+    engagement: 225
+    commentsToLikes: 0.034279
+    id: ckaoxz179fctj0i78nms5y3dy
     verified: false
-    hashtags: "#swimbikerun, #roadbike, #biker, #gymmotivation"
-  - username: "juantobon1"
-    fullname: >-
-      Juan Tobon
-    bio: >-
-      • Ciclista Aficionado. • Strava: Juan Tobon. • Ingeniero Civil. • @bicistore_co • @bicistore_medellin •📍 Medellín, Antioquia.
-    location: "Colombia"
-    followers: 10311
-    engagement: 2023
-    commentsToLikes: 0.023371
-    id: ck5zs17thxmpe0i14zx3hzfcx
-    verified: false
-    hashtags: "#sport, #cyclingphotos, #cyclingpics, #picoftheday"
-  - username: "enahernandezh"
-    fullname: >-
-      Ena Hernandez
-    bio: >-
-      Buenos diasx3!! NI FIT NI FAT Entre la 🚲 bici y la cocina 👩🏼‍🍳 Vida en equilibrio Tips comida, eventos, viajes Caribe soy! @surprise_barranquilla
-    location: "Colombia"
-    followers: 64545
-    engagement: 232
-    commentsToLikes: 0.034895
-    id: ck5zkvmufk8st0i14qng0jxcl
-    verified: false
-    hashtags: "#bioracerfamily, #ciclismofemenino, #bike, #bikelife"
+    hashtags: "#bicicleta, #cyclinglife, #mtb, #bikelife"
   - username: "anngelicamol"
     fullname: >-
       Angelica Maria Ocampo Lopez
     bio: >-
       Ciclista aficionada Sunglasses @gfny_world Oval Chainring @absoluteblack.cc Ing Industrial PMP Certified Green Belt Lean Service
     location: "Colombia"
-    followers: 44421
-    engagement: 258
-    commentsToLikes: 0.031330
+    followers: 45146
+    engagement: 231
+    commentsToLikes: 0.021694
     id: ck8tcbxbkyzfc0j78jo2gledp
     verified: false
-    hashtags: "#happiness, #pedal, #cyclingshots, #cyclist"
-  - username: "taty8a"
+    hashtags: "#happyday, #bikelife, #monday, #bici"
+  - username: "juantobon1"
     fullname: >-
-      𝗧𝗮𝘁𝗶𝗮𝗻𝗮 𝗦á𝗻𝗰𝗵𝗲𝘇
+      Juan Tobon
     bio: >-
-      🇨🇴 @𝘬𝘢𝘧𝘪𝘵𝘵.𝘰𝘧𝘪𝘤𝘪𝘢𝘭 𝘚𝘵𝘳𝘢𝘷𝘢: 𝘛𝘢𝘵𝘺 8𝘢 🥇𝘊𝘙𝘐 𝘔𝘢𝘴𝘵𝘦𝘳 2015 🥇ℓ'єтαρє 2018 🥇𝘎𝘳𝘢𝘯 𝘍𝘰𝘯𝘥𝘰 𝘊𝘪𝘶𝘥𝘢𝘥 𝘔𝘶𝘴𝘪𝘤𝘢𝘭
+      • Strava: Juan Tobon. • Ingeniero Civil. • @bicistore_co @bicistore_medellin
     location: "Colombia"
-    followers: 37220
-    engagement: 244
-    commentsToLikes: 0.021980
-    id: ckaoxz179fctj0i78nms5y3dy
+    followers: 14233
+    engagement: 910
+    commentsToLikes: 0.024590
+    id: ck5zs17thxmpe0i14zx3hzfcx
     verified: false
-    hashtags: "#bikeporn, #road, #mujeresciclistas, #roadbikes"
-  - username: "marigomezp"
+    hashtags: "#ride, #bicycle, #cyclingshots, #bicicleta"
+  - username: "juancho0313"
     fullname: >-
-      Mariana Gómez P
+      Juan Vanegas
     bio: >-
-      Ciclismo • Deporte • Lifestyle ➠ ➠ ➠ 📍 Colombia 👩🏼‍🎓 Ingeniera 🐶 Mi vida •strava: Mariana Gomez P
+      Ciclista Aficionado 🚴‍♂️ Administrador de Empresas 👨‍💻 Medellín 🇨🇴 @ciclista_scalatore
     location: "Colombia"
-    followers: 74596
-    engagement: 357
-    commentsToLikes: 0.017434
-    id: ck5zpo1not0h00i142550week
+    followers: 11983
+    engagement: 836
+    commentsToLikes: 0.019206
+    id: ckaozjr8mm6yg0i7891cmkcpp
     verified: false
-    hashtags: "#marigomezp, #cycling, #cyclingstyle, #cyclist"
+    hashtags: "#roadbike, #cyclistlife, #ciclismo, #wahooroam"
+  - username: "jserpa01"
+    fullname: >-
+      Jose Serpa
+    bio: >-
+      Ciclista profesional #joseserpa
+    location: "Colombia"
+    followers: 23663
+    engagement: 239
+    commentsToLikes: 0.045416
+    id: ck6ue49r8oqx60j71bxgo5yxa
+    verified: true
+    hashtags: "#repost, #ciclismo, #morelifecycling, #cyclist"
+  - username: "alexa.kstro"
+    fullname: >-
+      Alexa Castro
+    bio: >-
+      Cycling Lover🇨🇴 Ciclista Amateur Ruta/MTB 🔺embajadora oficial®️ @gorigogooficial Team🔥 Adm Neg/E.Finanz/E.Comex👩🏼‍💻 CM @edgar.mateo1
+    location: "Colombia"
+    followers: 42132
+    engagement: 818
+    commentsToLikes: 0.033558
+    id: ck5hmy0semuar0i113wby51al
+    verified: false
+    hashtags: "#cyclinggirls, #ruteros, #roadbike, #bikequeens"
+  - username: "xiomy.guerrero"
+    fullname: >-
+      Xiomy Guerrero
+    bio: >-
+      Un pedacito de mi vida en fotos 📸
+    location: "Colombia"
+    followers: 86130
+    engagement: 517
+    commentsToLikes: 0.010793
+    id: ck5hmy1scmuc00i114g6conxg
+    verified: true
+    hashtags: "#biciwoman, #bikelife, #womenriders, #pedaleando"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Sydney in 2023
+title: Top 10 Beauty TikTok Influencers In Sydney In 2023
 description: >-
-  Find top beauty TikTok influencers in Sydney in 2023. Most popular hashtags: #foryoupage #fyp #beauty #sydney.
+  Find top beauty TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #beauty #sydney #foryou.
 platform: TikTok
-hits: 15
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 15 TikTok influencers like this in Sydney, Australia for you to pitch.
+hits: 21
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 21 TikTok influencers like this in Sydney, Australia for you to work with.
 profiles:
-  - username: "danmeet.singh"
+  - username: "apreldiana"
     fullname: >-
-      Meet singh
+      Diana Kostenko 
     bio: >-
-      Faith in God love sydney 🇦🇺 follow me on instagram 👆🏻👆🏻😇
+      IG ; diana.kostenko.official Snapchat ; dkostenko88 Sydney, Australia
     location: "Australia"
-    followers: 22500
-    engagement: 481
-    commentsToLikes: 0.000000
-    id: ckbkpcyfojomi0j23b6hbeilk
+    followers: 11400
+    engagement: 239
+    commentsToLikes: 0.031872
+    id: ckbffu4i5aq5q0j236gty6bbu
     verified: false
-    hashtags: "#love, #perth, #blacktownsydney, #foryou"
-  - username: "sandhyapoudel4"
+    hashtags: "#exersize, #beautifulbody, #fitness, #mysexymoves"
+  - username: "thatgirlfaf"
     fullname: >-
-      Sandhya Poudel
+      Thatgirlfaf
     bio: >-
       
     location: "Australia"
-    followers: 44100
-    engagement: 538
-    commentsToLikes: 0.045654
-    id: ck84mbyz4n37w0j78y5fctedx
+    followers: 2890
+    engagement: 223
+    commentsToLikes: 0.031255
+    id: cka0vl5iuyzno0i78jpctlwhg
     verified: false
-    hashtags: "#nepalisong, #bollywood, #coronatime, #foryoupage"
+    hashtags: "#foryourpage, #quarantine, #fyp, #versace"
+  - username: "lazzlelaz"
+    fullname: >-
+      Laz
+    bio: >-
+      just for the bants lazzlelaztt@gmail.com 📩 SYD
+    location: "Australia"
+    followers: 52300
+    engagement: 724
+    commentsToLikes: 0.019208
+    id: ck8hk4diyc7tb0j78pflur7wo
+    verified: false
+    hashtags: "#greek, #wholesome, #fyp, #learnwithme"
+  - username: "makeupbydrew_"
+    fullname: >-
+      Makeup By Drew 
+    bio: >-
+      All things Glam 💄 SYDNEY MAKEUP ARTIST 🦋 Instagram - @makeupbydrew_
+    location: "Australia"
+    followers: 7117
+    engagement: 568
+    commentsToLikes: 0.030314
+    id: ckc90hki6pwpv0j23axjpxgr1
+    verified: false
+    hashtags: "#makeup, #makeupartist, #fyp, #foryourpage"
   - username: "dino.serrao"
     fullname: >-
       Dino Serrao™
     bio: >-
       📸 No matter what, somehow Ordinary People are Extraordinary! ♥️
     location: "Australia"
-    followers: 805300
-    engagement: 1199
-    commentsToLikes: 0.011497
+    followers: 1300000
+    engagement: 1361
+    commentsToLikes: 0.011138
     id: ckcdyio2wgovi0j23ogmx7n6v
-    verified: false
-    hashtags: "#portrait, #fyp, #skate, #sony"
-  - username: "envybyjosie"
-    fullname: >-
-      Envybyjosie
-    bio: >-
-      Hair salon in Sydney 🇦🇺 Follow our insta 🤩
-    location: "Australia"
-    followers: 3237
-    engagement: 281
-    commentsToLikes: 0.015183
-    id: ckdn5fqxregem0j23dudwkvcp
-    verified: false
-    hashtags: "#blonde, #tiktokartists, #hairstyles, #sydneyhair"
+    verified: true
+    hashtags: "#photographyeveryday, #style, #passion, #photo"
   - username: "nicolekennedy24"
     fullname: >-
       Nicole Kennedy 🇦🇺
     bio: >-
       IG: everygirlsdreammini SYDNEY, AUSTRALIA
     location: "Australia"
-    followers: 144700
-    engagement: 1080
-    commentsToLikes: 0.016594
+    followers: 143200
+    engagement: 1149
+    commentsToLikes: 0.015531
     id: ckb0x1a9am6ir0j23ztlvrbu2
     verified: false
-    hashtags: "#pony, #hair, #hoof, #satisfying"
-  - username: "stephhodges1994"
+    hashtags: "#clean, #equestrian, #fyp, #pony"
+  - username: "chelsrandall"
     fullname: >-
-      Steph Hodges
+      Chels Randall
     bio: >-
-      Wife & Mum of 2 boys! 👨‍👩‍👦‍👦 2 dogs 🐶🐕 Sydney, Australia 🇦🇺
+      Australian Beauty YouTuber
     location: "Australia"
-    followers: 12200
-    engagement: 783
-    commentsToLikes: 0.024527
-    id: cka0p1gbn692d0i7868891c0n
+    followers: 3902
+    engagement: 696
+    commentsToLikes: 0.058457
+    id: ck8adem8s5mi60j78v8peh2dh
     verified: false
-    hashtags: "#butterfly, #trending, #food, #foryoupage"
+    hashtags: "#makeup, #fyp, #sephora, #makeuptutorial"
+  - username: "envybyjosie"
+    fullname: >-
+      Envybyjosie
+    bio: >-
+      Hair salon in Sydney 🇦🇺 Follow our insta 🤩
+    location: "Australia"
+    followers: 89100
+    engagement: 331
+    commentsToLikes: 0.005226
+    id: ckdn5fqxregem0j23dudwkvcp
+    verified: false
+    hashtags: "#foryou, #envybyjosie, #fyp, #blonde"
   - username: "parbellabeauty"
     fullname: >-
       Par Bella Beauty
     bio: >-
-      💅 10 Century Circuit, Norwest SYDNEY 📞8850 7834 🌐 www.parbellabeauty.com.au
+      10 Century Circuit, Norwest SYDNEY 📞8850 7834
     location: "Australia"
-    followers: 139000
-    engagement: 715
-    commentsToLikes: 0.004130
+    followers: 179900
+    engagement: 977
+    commentsToLikes: 0.004139
     id: ck84mbvmfn2670j78aq7hi1f7
     verified: false
-    hashtags: "#hennabrows, #eyebrows, #love, #trend"
-  - username: "kayywuerf"
+    hashtags: "#foryoupage, #parbellabeauty, #viral, #hennabrows"
+  - username: "danmeet.singh"
     fullname: >-
-      Kaymie Wuerfel
+      Meet singh
     bio: >-
-      American in Syd🇦🇺 Be Kind 🌸 Get Your PJs👇🏻
+      Faith in God love sydney 🇦🇺 follow me on instagram 👆🏻👆🏻😇
     location: "Australia"
-    followers: 108800
-    engagement: 1578
-    commentsToLikes: 0.029163
-    id: cka0haxnz8drw0i78fudcrv75
-    verified: true
-    hashtags: "#america, #aussie, #sydney, #foryou"
-  - username: "nikeshshres"
-    fullname: >-
-      NikeshShrestha
-    bio: >-
-      r33 , rb gt86 bagged 🇳🇵 🇦🇺 Ig@whoismikelarry
-    location: "Australia"
-    followers: 9708
-    engagement: 1423
-    commentsToLikes: 0.020107
-    id: ckb9pqhzll56t0j23ha7cr49w
+    followers: 22300
+    engagement: 472
+    commentsToLikes: 0.000000
+    id: ckbkpcyfojomi0j23b6hbeilk
     verified: false
-    hashtags: "#foryoupage, #fyp, #rocketbunny, #4wd"
-  - username: "neharamtasunshine"
-    fullname: >-
-      Sunshine🌞 ♥️
-    bio: >-
-      Insta Id : Sunshinerockx007 ♥️👸♀️Pahadan❤ 🇮🇳 IN 🇦🇺
-    location: "Australia"
-    followers: 33600
-    engagement: 896
-    commentsToLikes: 0.030202
-    id: ckb9s69s7p48x0j23v4zqv1tf
-    verified: false
-    hashtags: "#tiktoksydney, #duet, #viralvideo, #tiktokindia"
+    hashtags: "#love, #brisbane, #classof2020, #canada"
 ---

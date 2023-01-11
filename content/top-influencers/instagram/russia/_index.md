@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Russia in 2023
+title: Top 10 Instagram Influencers In Russia In 2023
 description: >-
-  Find top Instagram influencers in Russia in 2023. Most popular hashtags: #cosplayfun #disneyprincesscosplay #cosplaylife.
+  Find top Instagram influencers in Russia in 2023. Most popular hashtags: #generativedesign #new #vj.
 platform: Instagram
-hits: 30383
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 30383 Instagram influencers like this in Russia for you to connect with.
+hits: 32664
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 32664 Instagram influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "seyanyr"
+  - username: "anna__shcherbakova_"
     fullname: >-
-      С̲э̲я̲н̲и̲р̲
+      Анна Щербакова
     bio: >-
-      •ᴺᵒᵗ ᵃ ᶜᵒˢᵖˡᵃʸᵉʳ/ᵖʰᵒᵗᵒᵍʳᵃᵖʰᵉʳ/ʰᵘᵐᵃⁿ😂✌ • ᵂⁱᵗᶜʰ 😏🍄
+      🔹𝐎𝐥𝐲𝐦𝐩𝐢𝐜 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧🥇 🔹𝐖𝐨𝐫𝐥𝐝 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧🥇 🔹𝐄𝐮𝐫𝐨𝐩𝐞🥈🥈 🇷🇺𝐑𝐮𝐬𝐬𝐢𝐚𝐧 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧🥇🥇🥇 @nike @sberbank @omoda.russia 𝐚𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 📩AS@LMMedia.ru 📞+79299830252 Levan Matua
     location: "Russia"
-    followers: 2484
-    engagement: 6275
-    commentsToLikes: 0.156021
-    id: ck8t66qh1cfuv0j78zmskjuru
-    verified: false
-    hashtags: "#usagitsukino, #sailormooncosplay, #sailorchibimoon, #cosplaycommunity"
-  - username: "skripka_show"
+    followers: 811148
+    engagement: 821
+    commentsToLikes: 0.007448
+    id: ck6twzb4uuyi30j7184thafpy
+    verified: true
+    hashtags: "#oart, #otech, #nike, #ancientchinesemyths"
+  - username: "avtrusova"
     fullname: >-
-      Арина Дукмасова Скрипка Челны
+      Sasha Trusova
     bio: >-
-      От классики до современной🎵 🍒Мурашки гарантированы😘 📞+79179048118 кликай⤵️
+      🇷🇺⛸ Olympics🥈World🥉European🥉🥉Junior World🥇🥇 Невозможное возможно. #ImpossibleIsNothing @adidas 📧secsec7591@gmail.com
     location: "Russia"
-    followers: 4006
-    engagement: 3268
-    commentsToLikes: 0.228159
-    id: ck5ccour9hqs50i11ij96bp78
-    verified: false
-    hashtags: "#violinist, #violist, #violin, #pink"
-  - username: "elvira_1_"
+    followers: 1074224
+    engagement: 1063
+    commentsToLikes: 0.005417
+    id: ck5q5q05yu0xe0i119bpeooqh
+    verified: true
+    hashtags: "#avtrusova, #tru20va"
+  - username: "kamilavalieva26"
     fullname: >-
-      Эльвира Шигапова
+      Камила Валиева
     bio: >-
-      📺 журналист 1 Канала /journalist 1TV Channel Russia 📝пишу/writing 🌎путешествую/traveling 🎨рисую/drawing
+      ♦️European 2022🥇 ♦️Junior World 2020🥇 ♦️Russian 2022🥇 Сотрудничество: info@valievakamila.ru Амбассадор PUMA и @ozonru
     location: "Russia"
-    followers: 5525
-    engagement: 2732
-    commentsToLikes: 0.144124
-    id: ckap6v4iehh440i78wepuv4fz
+    followers: 1227458
+    engagement: 686
+    commentsToLikes: 0.007688
+    id: ck0vz6btt7iwi0i1991b26e2a
     verified: false
-    hashtags: "#tv, #family, #fam, #lady"
-  - username: "ung.2002"
+    hashtags: "#figureskating, #beauty, #kamilavalieva, #moon"
+  - username: "sasha_spelaya"
     fullname: >-
-      Y o u n g •+2
+      ХОРОШИЙ НУТРИЦИОЛОГ | САША ХАЗИЕВА
     bio: >-
-      MM entertainment. •MAD MEN• Producer : Khvan Ruslan Hikaya
+      ЕСЛИ -носишь XL,а хочешь M -качаешь пресс,а живот как шарик -вот бы выкинуть тональник -волос мало -сил нет всё решим👌 СО МНОЙ ХОРОШО >850 кейсов
     location: "Russia"
-    followers: 74471
-    engagement: 2486
-    commentsToLikes: 0.061419
-    id: ck6u7dyhyky850j71x64qzaqa
+    followers: 9065
+    engagement: 927
+    commentsToLikes: 0.098301
+    id: ck6u7eqmrl2sx0j710kfy7n3o
     verified: false
-    hashtags: "#madwave, #madmen, #manolo, #dance"
-  - username: "rem.instoqiga"
+    hashtags: ""
+  - username: "dvabona"
     fullname: >-
-      •#kxkx•
+      2Bona
     bio: >-
-      MM entertainment. •MAD MEN• Producer : Khvan Ruslan. New B/B: HIKAYA
+      Artists @bontoni_ @kun808_ @gorillatvmk Booking : 070340499 - Darko Booking Europe: +41 76 347 29 10 Официјален Инстаграм на 2Bona ⬇️ ZEUS ⬇️
     location: "Russia"
-    followers: 118894
-    engagement: 2172
-    commentsToLikes: 0.078926
-    id: ck6u7dxewky220j715sh1aqn3
+    followers: 50005
+    engagement: 908
+    commentsToLikes: 0.071712
+    id: ck5hfqh1qystw0i11m6c7du14
     verified: false
-    hashtags: "#kinali, #kimkim, #babyboy, #kim"
-  - username: "zahar_sma_help"
+    hashtags: "#refreshreplay, #vapeinstagram, #party, #fresh"
+  - username: "unishkov"
     fullname: >-
-      🆘Захар Катков СМА 1
+      Denis Unishkov
     bio: >-
-      💛❗Сбор на ежедневную реабилитацию 💜Сбер 5469 4000 4022 0332 💛Первым получил лечение ZOLGENSMA в Москве 🇷🇺 💜Инстаграм ведёт мама @katkova__olga
+      3D Motion Artist
     location: "Russia"
-    followers: 4714
-    engagement: 2158
-    commentsToLikes: 0.227393
-    id: ck6tzr02nbc8j0j71ohldq4ac
+    followers: 11999
+    engagement: 706
+    commentsToLikes: 0.030536
+    id: ck5c185r1umv90i11gfo294ri
     verified: false
-    hashtags: "#savezahar"
-  - username: "maria.n.art"
+    hashtags: "#sidefx, #houdinifx, #vj, #vjing"
+  - username: "aminaxo26"
     fullname: >-
-      Portrait Art ▫️Oil Painting
+      Амина Нуртаза
     bio: >-
-      Maria Novikova Уголь, масло, карандаш ✍🏻 ⠀ YouTube | Etsy shop 👇🏻
+      💄 𝐌𝐚𝐤𝐞-𝐮𝐩 𝐚𝐫𝐭𝐢𝐬𝐭|𝐅𝐨𝐨𝐝 𝐛𝐥𝐨𝐠𝐠𝐞𝐫 👩🏻‍🍳 ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ❤️ @justking31 👼🏻 @maliqueen_life ⠀⠀⠀⠀⠀⠀⠀⠀⠀ Сотрудничество: +𝟕 𝟕𝟎𝟕 𝟗𝟎𝟒 𝟓𝟕𝟕𝟔 Яна
     location: "Russia"
-    followers: 7857
-    engagement: 2044
-    commentsToLikes: 0.078194
-    id: ck0w382v2s1zx0i19yqm2utuo
+    followers: 4512923
+    engagement: 460
+    commentsToLikes: 0.017012
+    id: ck5qe8ts3z9hk0i11r21do3z6
     verified: false
-    hashtags: "#tolkien"
-  - username: "alsu__damirovna"
+    hashtags: ""
+  - username: "orkhanaslanov"
     fullname: >-
-      Алсу Дамировна
+      ORKHAN ASLANOV
     bio: >-
-      🌹🌸Самая Счастливая🌸🌺🌹 Хочу обнять весь Мир!
+      PHOTOGRAPHER & TRAVELER . INFLUENCER . Phone & whatsapp +994 502422242 Email: aslanovstudio@gmail.com
     location: "Russia"
-    followers: 5392
-    engagement: 2023
-    commentsToLikes: 0.124221
-    id: ck8tclethzthq0j781e4dvpuw
+    followers: 69535
+    engagement: 378
+    commentsToLikes: 0.029766
+    id: ck55n9dzy5qiu0i116c12jfsv
     verified: false
-    hashtags: "#90"
-  - username: "stefandariana"
+    hashtags: "#icelandwithjohnnie, #nomakeup, #noretouch, #samsung"
+  - username: "leyluwa"
     fullname: >-
-      
+      Лейла 🌸 Исмаилзаде
     bio: >-
-      traveling with dogs inspiration project @ph.stefandariana Moscow | Izmir
+      🍃Открыла эко-магазин @baby.qarishqa 🏡Сделаю тебе ремонт @nil.archistudio 👨‍👩‍👧Прививаю семейные ценности 📩ссылка для предзаписи на тг канал тут👇🏻
     location: "Russia"
-    followers: 6726
-    engagement: 1873
-    commentsToLikes: 0.113332
-    id: ck14k9d56oeki0i194uf79z4m
+    followers: 15963
+    engagement: 338
+    commentsToLikes: 0.036586
+    id: ckaorx1flp5660i78gwfku7e6
     verified: false
-    hashtags: "#ankara, #travelblog, #husky, #huskylove"
-  - username: "galinapolozhiy"
+    hashtags: ""
+  - username: "juraj_sebalj"
     fullname: >-
-      Galina Polozhiy / МОДЕЛЬ СПБ
+      Juraj Šebalj
     bio: >-
-      Возрастная модель 59 лет Премия🏆 TOP MODEL от журнала GENERATION 📸Фотомодель 👗Модель для рекламы 💃Подиумная модель Открыта к сотрудничеству
+      Race driver, TV host, Fake exhaust hater @inahrvatska @toyota_hr @continental_tire @huaweimobilehrv @ferratumbank_hr @best_drive_bih @autohrvatska.hr
     location: "Russia"
-    followers: 7635
-    engagement: 1820
-    commentsToLikes: 0.136246
-    id: ck5hqt7wytoqf0i11rni3x6g5
-    verified: false
-    hashtags: "#spbgram"
+    followers: 188283
+    engagement: 294
+    commentsToLikes: 0.027612
+    id: ck5q6gxlxxcpv0i11x7mssww6
+    verified: true
+    hashtags: "#huaweimate50pro, #madeonmate, #jurasefura, #gryaris"
 ---

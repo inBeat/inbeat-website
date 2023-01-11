@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In France in 2023
+title: Top 10 Food Instagram Influencers In France In 2023
 description: >-
-  Find top food Instagram influencers in France in 2023. Most popular hashtags: #concours #parisienne #lookdujour.
+  Find top food Instagram influencers in France in 2023. Most popular hashtags: #photography #ootd #homedecor #summer.
 platform: Instagram
-hits: 1873
+hits: 2022
 text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 1873 Instagram influencers like this in France for you to connect with.
+text_bottom: Our search engine aggregates 2022 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "inessiadream"
-    fullname: >-
-      𝙄𝙉𝙀𝙎𝙎𝙄𝘼 ♦ 𝕊𝕚𝕟𝕘𝕖𝕣 𝕞𝕒𝕜𝕖𝕦𝕡 𝕒𝕕𝕕𝕚𝕔𝕥
-    bio: >-
-      💙 Music ♦ Beauty ♦ Food ♦ Lifestyle 💌 inessiapro@gmail.com 💄 Conseils, avis, test, fun, concours et blabla 🎤 Je chante clique👇🏼 pour voir ma cover
-    location: "France"
-    followers: 18460
-    engagement: 1407
-    commentsToLikes: 0.454689
-    id: ck6u56g6m7v8e0j718uyyvz0f
-    verified: false
-    hashtags: "#frenchfashion, #frenchinfluencer, #frenchmodel, #champselysees"
-  - username: "coco_life18"
-    fullname: >-
-      Coralie 🌸
-    bio: >-
-      ♡ Happy Mum♡ Clara & Calvin ♡ In love ♡ ☆ Lifestyle, Look, Food, Déco, Travel ☆
-    location: "France"
-    followers: 6458
-    engagement: 1362
-    commentsToLikes: 0.394079
-    id: ckf5r3xhebc290j23x86qrar4
-    verified: false
-    hashtags: "#dailylook, #outfit, #fashion, #ootdshare"
-  - username: "mysweetcactus"
-    fullname: >-
-      Léa-Marie 🌵 Blogueuse
-    bio: >-
-      📍Strasbourg 🔁 Paris 🛍 Gagnante Les Reines du shopping M6 🧳 Voyageuse compulsive ✨ Distribution de good vibes ❤️ Mode • Beauté • Déco • Food • Voyage
-    location: "France"
-    followers: 75693
-    engagement: 964
-    commentsToLikes: 0.192436
-    id: ck0u28yskz9200i19dm1p53wg
-    verified: false
-    hashtags: "#sheisnotlost, #stylediaries, #ootdinspiration, #alsace"
-  - username: "rebecca.monacelli"
-    fullname: >-
-      ♛ Jɪʟʟ ♛
-    bio: >-
-      • Aᴄᴛʀᴇss 🎬 • Mᴏᴅᴇʟ 📸 • 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜 𝙳𝙼 💌 • @giorgiavitalemanagement • @dsmodelmanagement #actress #model #foodblogger
-    location: "France"
-    followers: 15726
-    engagement: 1016
-    commentsToLikes: 0.073634
-    id: ck8t1vhnzx7460j78x52feyem
-    verified: false
-    hashtags: "#felicita, #modelling, #actress, #mfw"
-  - username: "laeti_mtls"
-    fullname: >-
-      Laetitia Mtls🚒
-    bio: >-
-      🚒 Sapeur Pompier Paris ⚓️ plongée 💦 🔜 ironman 70.3 les sables 💪Tour de Corse à vélo 🚲 🥜@foodspring_fr laetiFSG (-15%) 👨‍👩‍👧‍👦@grouss_est_la ❤️
-    location: "France"
-    followers: 65181
-    engagement: 697
-    commentsToLikes: 0.054076
-    id: ck6tkfsbc4m5z0j71vnizd5vz
-    verified: false
-    hashtags: "#femmepompier, #fitgirl, #jsp, #brandweer"
-  - username: "mariedanede"
-    fullname: >-
-      MARIE DANEDE
-    bio: >-
-      ✖️ Fashion | Beauty | Food ◾️ Créatrice de contenu 📍 Bordeaux 📩 Collab : Mariedanede.pro@gmail.com
-    location: "France"
-    followers: 74246
-    engagement: 600
-    commentsToLikes: 0.744821
-    id: ck5zj50i5gyct0i14tom4ouev
-    verified: false
-    hashtags: "#yslbeautychristmastree, #looksdujour, #cashbackaumax, #ysl"
-  - username: "andee_a_table"
-    fullname: >-
-      Andréa - Food&Wine
-    bio: >-
-      📍Paris 🇫🇷🇬🇧🇮🇹 🔞 Food & Wine lover 📝Serial-testeuse de bonnes adresses! 🌍 Oenotouriste 🍹 Cocktail sipper Pics by @narathino 📧andeeatable.ig@gmail.com
-    location: "France"
-    followers: 6438
-    engagement: 1140
-    commentsToLikes: 0.214474
-    id: ck5zwlzx96czh0i149ogwsw1m
-    verified: false
-    hashtags: "#speakeasy"
   - username: "alix.grousset"
     fullname: >-
       Alix Grousset
     bio: >-
-      Alix, 23 yo 🥑 @foodalix / 👩🏻‍🌾 @pelleourateau 🎥YouTube: Alix Grousset 🎙Podcast: @lesvoisinespodcast 📝leblogdalix.com 💌grousset.alix@gmail.com
+      Alix, aka Grousset 25 yo 🥑 @foodalix @encuisineavecgrousset 🎥🎙: Alix Grousset 📝 alixgrousset.com 💌grousset.alix@gmail.com
     location: "France"
-    followers: 38994
-    engagement: 717
-    commentsToLikes: 0.042713
+    followers: 115081
+    engagement: 449
+    commentsToLikes: 0.017404
     id: ck5pwzosdpe0a0i11r73fb0pg
     verified: false
-    hashtags: "#oceansapart, #concours, #marionnaudlovesshiseido, #synchroskin"
-  - username: "amsdiary"
+    hashtags: "#leclicdalix, #staracademy, #vlogdegrousset, #groutest"
+  - username: "nadia_dnmk"
     fullname: >-
-      Amandine | Happy Girl ✨
+      Nadia Dnmk
     bio: >-
-      Fashion, Healthy lifestyle & Beauty tips 🖤 🍽 Food lover, good adresses in highlights ⚡️Prozis: « AMSDIARY » for 10% discount & gifts
+      Lifestyle - food - et bcp d’humour ! 📩 Nadia.dnmk@gmail.com 📍 Rouen - Paris 👯‍♀️ @lesrouennaises 🍔 🎥 YouTube ⬇️
     location: "France"
-    followers: 24821
-    engagement: 637
-    commentsToLikes: 0.282154
-    id: ck0tu3jwj5h340i19wgbdark7
+    followers: 41155
+    engagement: 3515
+    commentsToLikes: 0.028020
+    id: claetsv0ltida0i23vxcxbhip
     verified: false
-    hashtags: "#concoursinstagram, #concours, #partenariat, #blogger"
-  - username: "lolwla"
+    hashtags: "#reelsinstagram, #couple, #rouen, #degustation"
+  - username: "le_petit_marius"
     fullname: >-
-      LOLA🍋 Food & Lifestyle
+      ✿ 𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒓𝒂 ✿
     bio: >-
-      📍Perpignan / Agen 🥞Mapstr : lolacg (toutes mes adresses food) 👻 snap : lola.cg
+      𝑪𝒓𝒆𝒂𝒕𝒓𝒊𝒄𝒆 𝒅𝒆 𝒄𝒐𝒏𝒕𝒆𝒏𝒖𝒔 Famille ✽ Voyage ✽ Deco ✽ Food 𝑴𝒂𝒓𝒊𝒖𝒔 / 𝑺𝒐𝒍𝒊𝒏𝒆 / 𝑩𝒂𝒃𝒚 𝑮𝒂𝒕𝒊𝒆𝒏 ♥ Un petit bout de notre vie✨ 𝑫𝒓𝒐𝒎𝒆 🌿 📩 alexpetitmarius@gmail.com
     location: "France"
-    followers: 62658
-    engagement: 522
-    commentsToLikes: 0.052465
-    id: ck15tej1qhou80i19k6zsw0ch
+    followers: 66507
+    engagement: 367
+    commentsToLikes: 0.240017
+    id: ckap8rgd6pjka0i78znw034dh
     verified: false
-    hashtags: "#recette, #naturalmojocode, #ideerecette, #peanutbutter"
+    hashtags: "#jouet, #jeux, #famille, #cadeaunoel"
+  - username: "yaelle.ab"
+    fullname: >-
+      Yaelle 🌵
+    bio: >-
+      Lifestyle, ,Travel , Food Mum of 👧🏼👧🏼👦👶 🌍 : Toulouse ✉️ : yaelle@josephine-agency.com
+    location: "France"
+    followers: 71708
+    engagement: 343
+    commentsToLikes: 0.090446
+    id: ck5hn8y1lnev30i11rnx42h69
+    verified: false
+    hashtags: "#humour, #postpartumbody, #homedecor, #fashion"
+  - username: "gossiproomoff"
+    fullname: >-
+      Gossip Room
+    bio: >-
+      Bienvenue 👋 Twitter et TikTok : GossipRoomOff ✉️ : gossiproom@marmeladz.com #news #travel #food #tv #cinema #media
+    location: "France"
+    followers: 2229913
+    engagement: 392
+    commentsToLikes: 0.005735
+    id: ck15puxoxzr560i19a5btshve
+    verified: true
+    hashtags: "#picoftheday, #cinema, #videooftheday, #avengers"
+  - username: "recueilgourmand"
+    fullname: >-
+      Mahmoud - Recueil Gourmand
+    bio: >-
+      🍰 Baker in soul 🍮 🍩Gourmand-love eating pastry 🎂 📑Moroccan Food Blogger✒ 📍Rabat ✉ recueilgourmand@gmail.com My blog:
+    location: "France"
+    followers: 26938
+    engagement: 143
+    commentsToLikes: 0.030061
+    id: ck8t5c6sd9lrz0j78a75vfzj2
+    verified: false
+    hashtags: "#dessertlover, #bakingfromscratch, #cakestagram, #icecreamlover"
+  - username: "myri_fit"
+    fullname: >-
+      Myri | 29
+    bio: >-
+      Let me inspire you ✨ Mom of ✌🏼 Fitness & Food 💪🏼🥦 💌:Myriam@wantmoreagency.de
+    location: "France"
+    followers: 91593
+    engagement: 22
+    commentsToLikes: 0.004373
+    id: ckaoxo5fbe2zo0i78k2bbhp7g
+    verified: false
+    hashtags: "#instafashion, #styleinspo, #photography, #instagood"
+  - username: "christnxtn"
+    fullname: >-
+      Christine
+    bio: >-
+      📍Paris 🇨🇵 Travel & Food lover 🛩️🌍 A little geek in my spare time 🤓
+    location: "France"
+    followers: 15550
+    engagement: 812
+    commentsToLikes: 0.123821
+    id: ck5zsif4wyk0a0i14rjasoi4m
+    verified: false
+    hashtags: "#roamingwomen, #parismaville, #loirevalleycastles, #centrevaldeloire"
+  - username: "mathildee_mh"
+    fullname: >-
+      Mathilde 📲
+    bio: >-
+      ⠀⠀⠀🦌┋Mum alone of 𝓖𝓪𝓫𝓲𝓷 ⠀⠀⠀♥️┋Ꮩoyage Ꮪhopping Ꮇode & Food ⠀⠀⠀🐶┋Ꮛasy ⠀⠀⠀🎂┋30y ⠀⠀⠀👩🏼‍💻┋Entrepreneuse & 𝑒𝑛𝑐𝑜𝑟𝑒 𝑑𝑒𝑠 𝑡𝑎𝑠 𝑑𝑒 𝑝𝑟𝑜𝑗𝑒𝑡𝑠 𝑎̀ 𝑣𝑒𝑛𝑖𝑟 💭
+    location: "France"
+    followers: 6547
+    engagement: 1162
+    commentsToLikes: 0.107244
+    id: ck13colwq1e620i19jd2lidmz
+    verified: false
+    hashtags: "#babyboyfashion, #ootd, #babyboy, #easter"
+  - username: "myriamwardrobe"
+    fullname: >-
+      Myriam
+    bio: >-
+      Motivation 👊🏼 Food🍒🍫 Lifestyle✈️ ☀️ I make videos on YouTube 🎥 Paris, FR🇫🇷 myriamwpro@gmail.com
+    location: "France"
+    followers: 31193
+    engagement: 407
+    commentsToLikes: 0.072177
+    id: ck14lhvnbur750i19htggi3w6
+    verified: false
+    hashtags: "#amalficoast, #ramadan2021, #visititaly, #positano"
 ---

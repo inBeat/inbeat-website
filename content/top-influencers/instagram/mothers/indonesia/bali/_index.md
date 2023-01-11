@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Bali in 2023
+title: Top 10 Mothers Instagram Influencers In Bali In 2023
 description: >-
-  Find top mothers Instagram influencers in Bali in 2023. Most popular hashtags: #bali #dirumahaja #benatureal.
+  Find top mothers Instagram influencers in Bali in 2023. Most popular hashtags: #bali #love #kalimantan #bandung.
 platform: Instagram
-hits: 23
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 23 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 17
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in Bali, Indonesia for you to pitch.
 profiles:
-  - username: "gusyuda"
-    fullname: >-
-      Ida Bagus Adi Dharma Yuda
-    bio: >-
-      @balibarong_official Click Link : NEW SINGLE SEJUJURNE
-    location: "Indonesia"
-    followers: 57386
-    engagement: 218
-    commentsToLikes: 0.024573
-    id: ckaoxa6zxcgm10i78k5vohe8e
-    verified: false
-    hashtags: "#mewali, #lagubali2020, #ibu, #surprisinglybata"
-  - username: "tanialitadevi"
-    fullname: >-
-      TANIA LITA DEVI | Bali
-    bio: >-
-      /sīˈkäləjist/ - mother - content creator 📍Bali, Indonesia
-    location: "Indonesia"
-    followers: 59266
-    engagement: 137
-    commentsToLikes: 0.010115
-    id: ck0vy73oe2jro0i1934djc7ni
-    verified: false
-    hashtags: "#nataliakiantoro, #bgwomen, #weshopatvelvet, #myvaia"
-  - username: "oliastepanenco"
-    fullname: >-
-      Olia Stepanenco
-    bio: >-
-      📍🄱🄰🄻🄸 🌕🌖🌗🌘🌑 MOTHER OF👉@style_retreat_bali_shop 🅢🅣🅨🅛🅘🅢🅣 🅟🅔🅡🅢🅞🅝🅐🅛 🅢🅗🅞🅟🅟🅔🅡 🅒🅞🅝🅣🅔🅝🅣 🅜🅐🅝🅐🅖🅔🅡
-    location: "Indonesia"
-    followers: 32387
-    engagement: 206
-    commentsToLikes: 0.051865
-    id: ck6tv2kzujtba0j71qzwqcl2v
-    verified: false
-    hashtags: ""
   - username: "dominiquediyose"
     fullname: >-
       Dominique Diyose
     bio: >-
       "Beware, Lion Roars" Mother. Wife. Nature Enthusiast🌿 @mahametaskin - @supermodelsproject - @baliswap for #sustainability 📍 Bali
     location: "Indonesia"
-    followers: 176069
-    engagement: 66
-    commentsToLikes: 0.010226
+    followers: 175335
+    engagement: 56
+    commentsToLikes: 0.013054
     id: ck8sws7njf2190j780aisvkth
     verified: true
-    hashtags: "#benatureal, #sakajannunggala, #dirumahaja, #throwbackthursday"
+    hashtags: "#pedulilaut, #benatureal, #sumatra, #queenofthenight"
   - username: "stephbaier"
     fullname: >-
-      Steph Baier | Bali Model
+      Stephanie Baier | Bali Model
     bio: >-
       🇵🇭🇩🇪 ॐ Model and Yoga Teacher ❥ Mother to Joy Ophelia ☽ Protect your peace, Get rid of toxicity, Cleanse your space, Cultivate love. @m4models
     location: "Indonesia"
-    followers: 6001
-    engagement: 642
-    commentsToLikes: 0.045244
+    followers: 6077
+    engagement: 641
+    commentsToLikes: 0.039596
     id: ck8syl5qql5jw0j781h8foqv1
     verified: false
-    hashtags: ""
-  - username: "dewimarlon"
+    hashtags: "#fam, #tropicalchristmas, #mindsetiseverything, #familytime"
+  - username: "shayoon_"
     fullname: >-
-      Dewi Marlon
+      Shayoon Mendeluk
     bio: >-
-      🔹Tidak punya akun lain 👨‍👩‍👧‍👦Wife & Mother 📩Endorse DM
+      𓁖 Mother 𓂀 Wife 𓋹 Trauma Specialist + Purpose Alignment @thelightforcecenter 𓆃 Partnered @childrescuecoalition 𓅋
     location: "Indonesia"
-    followers: 199295
-    engagement: 122
-    commentsToLikes: 0.026315
-    id: ck13alfwuqydm0i19pnozexic
-    verified: false
-    hashtags: "#beach, #bali, #nusadua, #kembalikebali"
-  - username: "agathasahell"
+    followers: 126066
+    engagement: 280
+    commentsToLikes: 0.062543
+    id: ck136tqcv87pd0i199ld3egwr
+    verified: true
+    hashtags: "#consciousness, #selflove, #racism, #bali"
+  - username: "vanessaangelofficial"
     fullname: >-
-      Ａｇａｔｈａ☽
+      Vanessa AngeL 🍌
     bio: >-
-      Mother ♡ Freelance model | Social media manager @minicubs__ @mauloabali Inquiries: agatha@balimodelagency.com Bali based
+      A mother and a wife. Boleh endorse : 081385886836 😁 @kebabngidam BA of : @beningsclinic_jakarta @applesolution.id @madu_amil
     location: "Indonesia"
-    followers: 20082
-    engagement: 349
-    commentsToLikes: 0.017949
-    id: ck6uca1hfedrv0j71wwi2biq3
-    verified: false
-    hashtags: "#eidmubarak, #happybdaytome"
-  - username: "traveltoescapes"
+    followers: 2528394
+    engagement: 191
+    commentsToLikes: 0.012589
+    id: ck137q51vct9j0i19lm7je9ys
+    verified: true
+    hashtags: "#beningsekarang, #sahabatbening, #golf, #keluargala"
+  - username: "ladydelaura"
     fullname: >-
-      ~travel
+      Lady De Laura
     bio: >-
-      LOVE MOTHER NATURE BE FIERCE , BE YOU ~ Traveling since January 2019 📧: toescapescontacttravel@gmail.com
+      𝓘 𝓮𝓪𝓽, 𝓘 𝓵𝓮𝓪𝓻𝓷, 𝓘 𝓬𝓸𝓸𝓴. Jkt - East Nusa Tenggara 📍 Recipes : @tiarapot.official Mother of : @lazoza.id 💅 @lavishamooncrystal 💫
     location: "Indonesia"
-    followers: 22394
-    engagement: 160
-    commentsToLikes: 0.028492
-    id: ck5zu2ibg1k5f0i14id81i7c8
+    followers: 29157
+    engagement: 146
+    commentsToLikes: 0.041859
+    id: ck8t0fjxyrwgm0j78yc8ht1b6
     verified: false
-    hashtags: "#bathflower, #wheretogonext, #placestogo, #tropicalisland"
-  - username: "subamircea"
+    hashtags: "#balinese, #potd, #baby, #babygirl"
+  - username: "fansdjkatty"
     fullname: >-
-      Mircea Alin Suba
+      dj katty butterfly fansbase
     bio: >-
-      Actor. Model. MA/Mother Agency: @mint_mgmt_nyc Model Inquiries: Nigel@mintmanagement.us PLACE - GER INDEPENDENT - ITA
+      Mau video kalian kita upload di youtube channel kita? Langsung DM aja guys, gratis... Jangan lupa subscribe channel youtube aku yah link di bawah ini
     location: "Indonesia"
-    followers: 2695
-    engagement: 1198
-    commentsToLikes: 0.040069
-    id: ckap81qt5mg3n0i78lbw0lulv
+    followers: 10376
+    engagement: 112
+    commentsToLikes: 0.108367
+    id: ck8t8qjdyle9a0j78qqahnk7b
     verified: false
-    hashtags: "#portraitphotography, #damanstyle, #mirceasuba, #portraitphoto"
-  - username: "nudegem.official"
+    hashtags: "#cintaindonesiafood, #chumnanmaunghong, #repost, #happy"
+  - username: "nagita_slavinaaa1717"
     fullname: >-
-      PhotoProject by Sammy Galinsky
+      PP MURAH 👉DM 💌
     bio: >-
-      📸We capture stories of 1001 female souls like Scheherazade's Arabian Nights 💃Backstage in @sammygalinsky 📚Order the Book NUDEGEM. MOTHER ROCKS📖
+      Nagita Slavina 📹 : @rans.entertainment (RANSVLOG) 🍁Always Support 👉👉@raffinagita1717 🍁OPEN PAID PROMOTE= DM / WA 👇👇👇
     location: "Indonesia"
-    followers: 145260
-    engagement: 321
-    commentsToLikes: 0.034775
-    id: ck5cb5pkses7x0i11t8bychsg
+    followers: 191332
+    engagement: 33
+    commentsToLikes: 0.030620
+    id: ck15rxezla6jp0i19d30ndzwu
     verified: false
-    hashtags: "#baliparadise, #sammygalinskyphoto, #sammygalinskyphotography, #bali"
+    hashtags: "#rafigigi1717, #nagitaslavina1717, #likeforfollow, #raffiahmaddaily"
+  - username: "dapoersikoko"
+    fullname: >-
+      Thea Utomo Semiawan
+    bio: >-
+      🏠 Mojokerto, Jawa Timur, Indonesia 🍜 Penulis Buku Masak GRAMEDIA ♨️ Jual Produk SIGNORA ➡️ WA 0895341342294
+    location: "Indonesia"
+    followers: 71160
+    engagement: 44
+    commentsToLikes: 0.146673
+    id: ck9wflliipee70j78tdq8q196
+    verified: false
+    hashtags: "#ovensignora, #loyangsignora, #signora, #jualoven"
+  - username: "sandradewiiii88"
+    fullname: >-
+      Sandra Dewi
+    bio: >-
+      Fanbase of @sandradewi88 ‘s family 💗 . . 💌PAID PROMOTE MURAH = DM💌
+    location: "Indonesia"
+    followers: 29225
+    engagement: 178
+    commentsToLikes: 0.007684
+    id: ckap45s465yue0i78bd3095wm
+    verified: false
+    hashtags: "#dirumahaja, #gempitarafathar, #jakarta, #raphaelmoeis"
+  - username: "yulichia88"
+    fullname: >-
+      Helena Yuli
+    bio: >-
+      💙Cooking and Baking💙 🍃Simple Cuisine🍃 🏡Indonesia🏡 🤍Thanks for like, comment & follow🤍
+    location: "Indonesia"
+    followers: 79620
+    engagement: 134
+    commentsToLikes: 0.199544
+    id: ck135zlym40vv0i19be6ul7v2
+    verified: false
+    hashtags: "#doyanmasak, #love, #reseproemahan, #guniezzt"
 ---

@@ -1,132 +1,132 @@
 ---
-title: Top 10 TikTok Influencers In Canada in 2023
+title: Top 10 TikTok Influencers In Canada In 2023
 description: >-
-  Find top TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #mycostume #duet.
+  Find top TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #greenscreen #stitch #duet.
 platform: TikTok
-hits: 9329
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 9329 TikTok influencers like this in Canada for you to collaborate.
+hits: 9580
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 9580 TikTok influencers like this in Canada for you to connect with.
 profiles:
-  - username: "damukindathicc"
-    fullname: >-
-      ustillkindathicc
-    bio: >-
-      He/him 18 blm 🏳️‍🌈 petitions/other ⬇️
-    location: "Canada"
-    followers: 968100
-    engagement: 3610
-    commentsToLikes: 0.020805
-    id: ck8hrjnu0930d0j78e1z0wnkp
-    verified: false
-    hashtags: "#duet"
-  - username: "gingerbread.mel.222"
-    fullname: >-
-      ✨Dom and Mel✨
-    bio: >-
-      2642 gingerbread angels!!👼💕 She/her Crybaby/BHC BLM Bi
-    location: "Canada"
-    followers: 2643
-    engagement: 3162
-    commentsToLikes: 0.085053
-    id: ckcvhjcimublt0j235zj4jbhl
-    verified: false
-    hashtags: "#melaniemartinez, #fyp, #yungblud, #bidenwon"
-  - username: "rhysdawkins"
-    fullname: >-
-      Rhys Dawkins
-    bio: >-
-      👑DAWKGANG👑 👻: rhysdawkins ⬇️ NEW MERCH ⬇️
-    location: "Canada"
-    followers: 2200000
-    engagement: 2772
-    commentsToLikes: 0.016020
-    id: ck8sdgwc2fizu0j782gxcj410
-    verified: true
-    hashtags: "#timewarpscan, #stitch, #featured"
   - username: "_zacharyali"
     fullname: >-
       zachary ali
     bio: >-
-      🇸🇴 thank u use code “mfs20” for 20% off (damps.ca) 📧: zacharyali53@gmail.com
+      🇸🇴 19 Instagram&YouTube⬆️ 📧: zacharyali53@gmail.com Boost Me! ⬇️
     location: "Canada"
-    followers: 227300
-    engagement: 2589
-    commentsToLikes: 0.081015
+    followers: 606600
+    engagement: 2320
+    commentsToLikes: 0.050092
     id: ckb9gohbr60930j23hkaf22x6
     verified: false
-    hashtags: ""
-  - username: "lilcloudy"
+    hashtags: "#fyp, #foryou"
+  - username: "caryscuttlefish"
     fullname: >-
-      simøn
+      Carys Cuttlefish
     bio: >-
-      who the fück is clairo simon#0008
+      🌈Creepy Cute Art 🌸Worry Warts ⬇️ shop link below⬇️
     location: "Canada"
-    followers: 65100
-    engagement: 2433
-    commentsToLikes: 0.054831
-    id: ck900x181av420j78gf068h47
+    followers: 1200000
+    engagement: 2234
+    commentsToLikes: 0.010236
+    id: ck8oswdi1ipvx0j78m4oukf1f
     verified: false
-    hashtags: "#fyp, #aesthetic, #comedy, #weeb"
-  - username: "_brickowski_"
+    hashtags: "#fyp, #art, #worrywarts, #artfail"
+  - username: "offbeatoutlaw"
     fullname: >-
-      Emmett Campbell
+      Offbeat Outlaw
     bio: >-
-      Pure Of Heart, Dumb Of ass He/Him Business only-m.tinning.113@gmail.com
+      I sunk your battleship Email:offbeatoutlaw@gmail.com I support BLM Peep the Tube
     location: "Canada"
-    followers: 282800
-    engagement: 2203
-    commentsToLikes: 0.029213
-    id: ck806xdavmsj00j78x5bb5p5b
+    followers: 386500
+    engagement: 2145
+    commentsToLikes: 0.023682
+    id: ckbffmdjzagnf0j2373sde8yt
     verified: false
-    hashtags: "#elsa, #fyp, #duet, #greenscreen"
-  - username: "yabooktok"
+    hashtags: "#foreverdm, #dndmeme, #dnd, #dndstorytime"
+  - username: "rhysdawkins"
     fullname: >-
-      𝑓𝑎𝑖𝑡ℎ
+      Rhys Dawkins
     bio: >-
-      🇨🇦 | 🇮🇷 she/her 💌: faithdehghan@gmail.com ☟︎wishlist & important links☟︎
+      👑DAWKGANG👑 Send beef jerky to my PO box 🥓 rhysdawkinsbusiness@gmail.com
     location: "Canada"
-    followers: 8069
-    engagement: 2170
-    commentsToLikes: 0.084723
-    id: ckbez2dw6jwfc0j23a3fpkniv
-    verified: false
-    hashtags: "#wishlist, #yabooks, #books, #booktok"
+    followers: 2200000
+    engagement: 2070
+    commentsToLikes: 0.030047
+    id: ck8sdgwc2fizu0j782gxcj410
+    verified: true
+    hashtags: "#cliffhangerhigh, #stitch"
   - username: "theoreocat"
     fullname: >-
       The Oreo Cat®
     bio: >-
-      🇨🇦 CEO of Fluff 🇨🇦 Check out our new Calendar and MERCH! ⬇️
+      Meet Oreo, Onyx & Pudding! We post wholesome CAT content to make you smile! 🇨🇦
     location: "Canada"
-    followers: 2000000
-    engagement: 2133
-    commentsToLikes: 0.020729
+    followers: 2200000
+    engagement: 2045
+    commentsToLikes: 0.020733
     id: ck806zqx9nexq0j781rljq5ge
     verified: true
-    hashtags: "#mypet, #cats, #mycostume, #halloweenishere"
+    hashtags: "#tuxedocatsoftiktok, #crazycat, #catsoftiktok, #tiktokcats"
+  - username: "chezaidan"
+    fullname: >-
+      Aidan Wachter
+    bio: >-
+      aidan@henrytalents.com PO Box 24070 Market Square Ro. Windsor On. N8Y4Y9 Canada
+    location: "Canada"
+    followers: 3900000
+    engagement: 2006
+    commentsToLikes: 0.008084
+    id: ck8ufld9p26dx0j78f8yclcwq
+    verified: true
+    hashtags: "#chezcowboy, #3secondgames, #beeb, #relationship"
+  - username: "sydthedisnerd"
+    fullname: >-
+      Sydney ✨
+    bio: >-
+      (she/her) Just another weirdo who plays dress up. ✨ IG: sydthedisnerd 📸
+    location: "Canada"
+    followers: 523200
+    engagement: 1875
+    commentsToLikes: 0.021206
+    id: ck83ys8rpv99n0j788vnl95f6
+    verified: false
+    hashtags: "#genderbend, #frozen, #snowwhitecosplay, #duet"
+  - username: "luketrepp"
+    fullname: >-
+      LukeTrepp
+    bio: >-
+      Youtube: LukeTrepp Instagram: Luke_Trepp Twitch: LukeTreppOfficial I’m 18
+    location: "Canada"
+    followers: 916800
+    engagement: 1780
+    commentsToLikes: 0.018809
+    id: ck8qqbedf74ig0j78jatuzctw
+    verified: false
+    hashtags: "#song, #original, #originalsound, #guitar"
   - username: "glitterxponyy"
     fullname: >-
       Glitterxpony
     bio: >-
-      @glitterxpony on the gram She/Her Business = ttolmie@gmail.com
+      @glitterxpony on the gram She/Her
     location: "Canada"
-    followers: 15700
-    engagement: 2071
-    commentsToLikes: 0.086218
+    followers: 17400
+    engagement: 1764
+    commentsToLikes: 0.122767
     id: ckbqebn2t081g0j23y9agzxyw
     verified: false
-    hashtags: "#makeuptransformation, #fyp, #halloweenmakeup, #halloween2020"
-  - username: "balldontlienation"
+    hashtags: "#creativemakeup, #sephora, #greenscreen, #cultmakeup"
+  - username: "yabooktok"
     fullname: >-
-      BDLN
+      faith:)
     bio: >-
-      🔥| Where the Ball don't Lie! 🏀| Home for anything basketball-related content!
+      she/her | 19 pfp: @h00djabi_ faithdehghan@gmail.com 🇨🇦🇮🇷
     location: "Canada"
-    followers: 2401
-    engagement: 1912
-    commentsToLikes: 0.077844
-    id: ckbqvwl63g4600j23fqmxf9tc
+    followers: 11900
+    engagement: 1700
+    commentsToLikes: 0.044119
+    id: ckbez2dw6jwfc0j23a3fpkniv
     verified: false
-    hashtags: "#wethenorth, #dunks, #nba, #basketball"
+    hashtags: "#readinglist, #shadowandbone, #booktok, #reading"
 cities:
   - name: Toronto
     link: /tiktok/canada/toronto

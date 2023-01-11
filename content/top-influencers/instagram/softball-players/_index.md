@@ -1,11 +1,11 @@
 ---
-title: Top 10 Softball-Players Instagram Influencers in 2023
+title: Top 10 Softball-Players Instagram Influencers In 2023
 description: >-
-  Find top softball-players Instagram influencers in 2023. Most popular hashtags: #softball #tiktok #softballplayer.
+  Find top softball-players Instagram influencers in 2023. Most popular hashtags: #softball #softballgirls #softballplayer.
 platform: Instagram
-hits: 27
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 27 Instagram influencers like this for you to collaborate.
+hits: 21
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 21 Instagram influencers like this for you to pitch.
 profiles:
   - username: "deviedev"
     fullname: >-
@@ -13,48 +13,12 @@ profiles:
     bio: >-
       ▪️Boy mom to Onyx ▪️Former @husker_softball player ▪️Boss ✨ ▪️Owner of @shopdevieco ▪️Fitness Enthusiast 💎Young Queen on her hustle 💎 Los Angeles, CA
     location: "United States"
-    followers: 5390
-    engagement: 707
-    commentsToLikes: 0.105591
+    followers: 5365
+    engagement: 678
+    commentsToLikes: 0.116780
     id: ckaotg02yvrts0i78vfjiin9p
     verified: false
-    hashtags: "#bossbabes, #girlbosses, #fruitsnackchallenge, #womeninbusiness"
-  - username: "nikki_____p"
-    fullname: >-
-      Nicole Pendley
-    bio: >-
-      New Mexico/Oklahoma/Mississippi OU Softball Alumni 2X National Champion Graduate assistant @hailstatesb Professional softball player @auprosports
-    location: "United States"
-    followers: 15409
-    engagement: 571
-    commentsToLikes: 0.012913
-    id: ck5c9jcn3bjao0i11tfan6s68
-    verified: false
-    hashtags: "#womensupportingwomen"
-  - username: "shelbypendley"
-    fullname: >-
-      shelby (pendley) McCranie
-    bio: >-
-      Professional softball player USSSA Pride & @auprosports New Mexico/Oklahoma/Florida/Japan Boomer Sooner ❤️Ethan McCranie❤️
-    location: "United States"
-    followers: 13683
-    engagement: 557
-    commentsToLikes: 0.012356
-    id: ck5hhetus7umu0i11ypy4oe5f
-    verified: false
-    hashtags: "#firstyathlete, #firstyfastpitch"
-  - username: "aj_andrews_"
-    fullname: >-
-      A.J. Andrews
-    bio: >-
-      💫Yoncé of Softball ⚡️LSU softball Alum ⚡️Professional softball player @auprosports ⚡️Tv Hostess ⚡️Motivational Speaker 📧 aj@a3ventures.net
-    location: "United States"
-    followers: 39923
-    engagement: 414
-    commentsToLikes: 0.028485
-    id: ck1386wyfes4i0i19lng8xdzl
-    verified: true
-    hashtags: "#athlete, #outfield, #training, #motivation"
+    hashtags: ""
   - username: "ivaanagram"
     fullname: >-
       Ivy 🇧🇬 🇺🇸
@@ -66,19 +30,19 @@ profiles:
     commentsToLikes: 0.005562
     id: ck8wgbxk9h2ql0j78txtbriqx
     verified: false
-    hashtags: "#tiktok, #video, #quarantine, #stayhome"
-  - username: "khollataylor"
+    hashtags: "#video, #quarantine, #home, #tiktok"
+  - username: "nikki_____p"
     fullname: >-
-      🅚🅗🅐🅛🅐
+      Nicole Pendley
     bio: >-
-      ArTist: KhMarTay 🎤 Professional Softball Player 17’🇨🇭18’ 🇳🇿 19’ 🇺🇸 @calsb and @caltfxc Alumni🐻💛💙 Remember this Viral Vid ⤵️
+      New Mexico/Oklahoma/Mississippi OU Softball Alumni 2X National Champion Graduate Assistant @hailstatesb Professional Softball Player @auprosports
     location: "United States"
-    followers: 6120
-    engagement: 586
-    commentsToLikes: 0.135515
-    id: ck5hh1uq65yas0i11pd3et87q
+    followers: 15103
+    engagement: 498
+    commentsToLikes: 0.013017
+    id: ck5c9jcn3bjao0i11tfan6s68
     verified: false
-    hashtags: "#2020"
+    hashtags: "#womensupportingwomen"
   - username: "meganwiggins25"
     fullname: >-
       Megan Wiggins
@@ -90,7 +54,19 @@ profiles:
     commentsToLikes: 0.025616
     id: ck1386ukserrw0i19eoq58z3o
     verified: false
-    hashtags: "#127longestyardsale, #beunlimited, #pride, #lgbtq"
+    hashtags: "#team13, #teamwagner, #goldengirls, #beunlimited"
+  - username: "khollataylor"
+    fullname: >-
+      🅚🅗🅐🅛🅐
+    bio: >-
+      Professional Softball Player 17’🇨🇭18’ 🇳🇿 19’ 🇺🇸 @calsb and @caltfxc Alumni🐻💛
+    location: "United States"
+    followers: 6011
+    engagement: 607
+    commentsToLikes: 0.131998
+    id: ck5hh1uq65yas0i11pd3et87q
+    verified: false
+    hashtags: "#2020"
   - username: "ua2112"
     fullname: >-
       Kelly Kretschman OLY
@@ -103,28 +79,52 @@ profiles:
     id: ck5c9j983bj240i119rlfirwe
     verified: false
     hashtags: ""
+  - username: "softballtiktoks"
+    fullname: >-
+      #1 Softball Tik Tok Account
+    bio: >-
+      Posting fun & creative SoftballTikToks DM for business inquiries #softballtiktoks Page ran by @av_softball_ former OU D1 + pro 🥎 player
+    location: "United States"
+    followers: 25787
+    engagement: 3413
+    commentsToLikes: 0.006857
+    id: ck8szf1kio6si0j78l3hzlhh0
+    verified: false
+    hashtags: "#fastpitchsoftball, #softballready, #tiktokhot, #softballdad"
+  - username: "nutritionforsoftball"
+    fullname: >-
+      Nutrition For Softball
+    bio: >-
+      🔥Former Athletes—Now Coaches   🍎Daily Nutrition Tips and Facts 🙏Here to Help You with Your Nutrition 👇Articles, Coaching, and Free Downloads
+    location: "United States"
+    followers: 17532
+    engagement: 701
+    commentsToLikes: 0.007972
+    id: ck8szf0veo6or0j78p1jg55gx
+    verified: false
+    hashtags: "#softballgirls, #softballlove, #softballtraining, #softballtourney"
   - username: "loloevans13"
     fullname: >-
       Lauren “Lolo” Evans
     bio: >-
       •University of South Florida Softball Alum🐂 •Great Britain Softball🇬🇧
     location: "United States"
-    followers: 5934
-    engagement: 1271
-    commentsToLikes: 0.040880
+    followers: 5721
+    engagement: 877
+    commentsToLikes: 0.046976
     id: ck15ra9p66xnj0i19o73dhqfm
     verified: false
-    hashtags: "#dog, #beautiful, #cute, #ocean"
-  - username: "softballtiktoks"
+    hashtags: "#happy, #puravidabracelets, #swimming, #florida"
+  - username: "breezystyle"
     fullname: >-
-      #1 Softball Tik Tok Account
+      Trisha
     bio: >-
-      Posting fun & creative SoftballTikToks DM + Tag to be featured FOLLOW @logankellyofficial (feature of the week) #softballtiktoks
-    location: ""
-    followers: 18012
-    engagement: 1644
-    commentsToLikes: 0.006058
-    id: ck8szf1kio6si0j78l3hzlhh0
+      Nikon D750 📸 RIP. 10/16/2020
+    location: "United States"
+    followers: 19170
+    engagement: 48
+    commentsToLikes: 0.102987
+    id: ck13cd3ukzrjz0i19ico8nejz
     verified: false
-    hashtags: "#softballstrong, #tiktok, #tiktokgirls, #tiktokstars"
+    hashtags: "#pursuepretty, #familyfirst, #happycolors, #lifestyleblogger"
 ---

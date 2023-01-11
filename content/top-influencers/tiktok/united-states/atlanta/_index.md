@@ -1,84 +1,108 @@
 ---
-title: Top 10 TikTok Influencers In Atlanta in 2023
+title: Top 10 TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #duet #ohno.
+  Find top TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #foryou #funny #atlanta.
 platform: TikTok
-hits: 540
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 540 TikTok influencers like this in Atlanta, United States for you to connect with.
+hits: 535
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 535 TikTok influencers like this in Atlanta, United States for you to connect with.
 profiles:
+  - username: "forevaleo_"
+    fullname: >-
+      Add Name Here
+    bio: >-
+      Atlanta 🇯🇲
+    location: "United States"
+    followers: 20400
+    engagement: 152
+    commentsToLikes: 0.028302
+    id: ckbkdl6813l8c0j23duqrqrp3
+    verified: false
+    hashtags: "#fyp, #lol, #newyork, #jamaicans"
+  - username: "sksimms"
+    fullname: >-
+      Siobhan
+    bio: >-
+      Simms 🤙🏽She/Her 23 🏳️‍🌈 🌌 P0 B0X 94631 794 Marietta St NW Atlanta, GA 30318
+    location: "United States"
+    followers: 28900
+    engagement: 2554
+    commentsToLikes: 0.095669
+    id: ckd6z0e6ixl8m0j23m5q9oxol
+    verified: false
+    hashtags: "#duet, #pov, #lgbt, #fyp"
   - username: "whiteboy_12233"
     fullname: >-
-      Dylan Easterly
+      CEO of Atlanta Falcons
     bio: >-
-      👑CEO of Atlanta Falcons content👑 YEAH I’M THE GUY THE ATLANTA FALCONS FOLLOW
+      👑CEO of Atlanta Falcons👑 10K People are GOATs Thank y’all for 10K
     location: "United States"
-    followers: 6234
-    engagement: 1889
-    commentsToLikes: 0.088092
+    followers: 10000
+    engagement: 1398
+    commentsToLikes: 0.086902
     id: ckdcjk5exlh100j23vrf7tu5l
     verified: false
-    hashtags: "#neonshadow, #unwrapthedeals, #fanedit, #xyzbca"
+    hashtags: "#wtf, #ultaskintok, #warzone, #ceoofatlantafalcons"
   - username: "atlantafalcons"
     fullname: >-
       Atlanta Falcons
     bio: >-
       The official TikTok of the Atlanta Falcons.
     location: "United States"
-    followers: 383200
-    engagement: 1725
-    commentsToLikes: 0.026530
+    followers: 604600
+    engagement: 1336
+    commentsToLikes: 0.028327
     id: ck8nbu2mvbgge0j78d71dcg68
     verified: true
-    hashtags: "#droneshot, #funny, #morph, #jetjones"
+    hashtags: "#fyp, #nfl, #sowholesome, #xyzbca"
+  - username: "bodittle"
+    fullname: >-
+      bo
+    bio: >-
+      Was banned again follow @basedbo SAVE ATLANTA. SIGN HERE 👇
+    location: "United States"
+    followers: 783700
+    engagement: 1440
+    commentsToLikes: 0.081470
+    id: cka666lcmfydd0i78q7jccg1h
+    verified: false
+    hashtags: "#2024, #quickerpickerrapper, #fyp, #fishing"
+  - username: "the_jimk"
+    fullname: >-
+      Jim Kelley
+    bio: >-
+      Actor, voice actor and action performer from Atlanta. Next goal: 25k 😈
+    location: "United States"
+    followers: 11600
+    engagement: 2069
+    commentsToLikes: 0.104330
+    id: ck9e18m3d9kf30j78s2laxmvu
+    verified: false
+    hashtags: "#fyp, #retro, #comedy, #love"
   - username: "atlutd"
     fullname: >-
       Atlanta United FC
     bio: >-
       Official TikTok Account of Atlanta United FC
     location: "United States"
-    followers: 12500
-    engagement: 1885
-    commentsToLikes: 0.059558
+    followers: 46200
+    engagement: 1279
+    commentsToLikes: 0.056654
     id: cka6i8dm0pp7y0i78tbsjbzb9
     verified: true
-    hashtags: "#soccer, #goal, #atlutd, #flash"
-  - username: "lil_ajjjj"
+    hashtags: "#futbol, #atlanta, #josefmartinez, #blvckkit"
+  - username: "anye_44"
     fullname: >-
-      LiL ricky
+      Anyeuri Castillo
     bio: >-
-      East Atlanta Playboi insta: a.j.rosario snap: ajrosario5
+      AC🇩🇴 23 ATLANTA 6’7 hooper
     location: "United States"
-    followers: 115100
-    engagement: 1290
-    commentsToLikes: 0.039876
-    id: ck83yqg7musd50j78rudtrsq9
+    followers: 8759
+    engagement: 1309
+    commentsToLikes: 0.055505
+    id: ck8vw2e8hn6790j786frrxyj4
     verified: false
-    hashtags: "#rap, #fyp, #duet, #kanye"
-  - username: "kavasiea_"
-    fullname: >-
-      kavasiea_
-    bio: >-
-      IG: kavasiea_ Atlanta raised FL made☀️ MAN PLEASE FOLLOW MY YOUTUBE 300k?
-    location: "United States"
-    followers: 240100
-    engagement: 1685
-    commentsToLikes: 0.023635
-    id: ckaig92c30e4o0i78lvivb8ze
-    verified: false
-    hashtags: "#202, #770, #206, #kingvon"
-  - username: "kycvex"
-    fullname: >-
-      kycvex
-    bio: >-
-      Atlanta, Georgia📍 •Positive vibes only😎• 11 or older I follow back on insta🥰
-    location: "United States"
-    followers: 930500
-    engagement: 3088
-    commentsToLikes: 0.007990
-    id: ck9m0obm2anid0j78r9po9hxy
-    verified: false
-    hashtags: "#duet, #provewhatspossible"
+    hashtags: "#foryoupage, #dominican, #atlanta, #playwithlife"
   - username: "anthonyythorp"
     fullname: >-
       Anthony ✰
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.039548
     id: ck8hrchky875s0j782a4ksljm
     verified: false
-    hashtags: "#redbulldanceyourstyle, #fyp, #happyhalloween, #4u"
-  - username: "iam.deputyb"
+    hashtags: "#happyhalloween, #showupshowoff, #unwrapthedeals, #4u"
+  - username: "incantalexa"
     fullname: >-
-      DB
+      lex
     bio: >-
-      Trying to make a difference through smiles, laughs, and dance‼️ 📍Atlanta, GA
+      18 // cherokee // yale // atlanta gamer girl in the making they/she
     location: "United States"
-    followers: 246700
-    engagement: 1592
-    commentsToLikes: 0.056546
-    id: ck9c4zuggqa9f0j78cy5kcnfr
+    followers: 4205
+    engagement: 1301
+    commentsToLikes: 0.061274
+    id: ck999tkl1eb0z0j78upo79rb3
     verified: false
-    hashtags: "#deputyb, #funny, #copsoftiktok, #comedy"
-  - username: "the_jimk"
-    fullname: >-
-      Jim Kelley
-    bio: >-
-      Actor, voice actor and action performer from Atlanta. Next goal: 25k 😈
-    location: "United States"
-    followers: 11500
-    engagement: 1908
-    commentsToLikes: 0.059822
-    id: ck9e18m3d9kf30j78s2laxmvu
-    verified: false
-    hashtags: "#duet, #collegegotmelike, #longboard, #comedy"
-  - username: "extendobans"
-    fullname: >-
-      Austin
-    bio: >-
-      20 | Atlanta 40 ball connoisseur💵 IG: @stendo Twitter: @ExtendoBans
-    location: "United States"
-    followers: 67100
-    engagement: 1805
-    commentsToLikes: 0.017801
-    id: ckb1bd0e7zx570j23pfon1nnn
-    verified: false
-    hashtags: "#wipeitdown, #duet, #lecheminduroi"
+    hashtags: "#indigenous, #foryou, #fyp, #leftist"
 ---

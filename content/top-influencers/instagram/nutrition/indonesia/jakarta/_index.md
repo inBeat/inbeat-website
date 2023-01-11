@@ -1,48 +1,60 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Jakarta in 2023
+title: Top 10 Nutrition Instagram Influencers In Jakarta In 2023
 description: >-
-  Find top nutrition Instagram influencers in Jakarta in 2023. Most popular hashtags: #jakarta #bandung #herbalife #herbalifeindonesia.
+  Find top nutrition Instagram influencers in Jakarta in 2023. Most popular hashtags: #jakarta #nutrition #herbalife #herbalifeindonesia.
 platform: Instagram
-hits: 38
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 38 Instagram influencers like this in Jakarta, Indonesia for you to work with.
+hits: 31
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 31 Instagram influencers like this in Jakarta, Indonesia for you to collaborate.
 profiles:
-  - username: "cutratumeiyriska"
+  - username: "joko.widodo_"
     fullname: >-
-      CHIKA & ROGER (FANBASE)
+      Joko Widodo
     bio: >-
-      ♥️ACCOUNT FANBASE♥️ Chika & Roger updates here! ____ Info PaidPromote👇🏻
+      Fansbase Presiden Jokowi dan Keluarga| Berbagi Sisi Lain Joko Widodo | Follow @joko.widodo_ | #bersamaindonesiamaju | #sdmunggulindonesiamaju🇲🇨 |
     location: "Indonesia"
-    followers: 431511
-    engagement: 62
-    commentsToLikes: 0.008030
-    id: ck14j3buaif5y0i198jc6zg82
+    followers: 81530
+    engagement: 203
+    commentsToLikes: 0.028907
+    id: ckf5md7lwta750j23tzhhbg3t
     verified: false
-    hashtags: "#herbalife, #dirumahaja, #herbalifeindonesia, #maskerkorea"
-  - username: "sulekersss"
+    hashtags: "#tkwarab, #tkwkorea, #tkwbrunei, #tkwthailand"
+  - username: "sarwendah29_bensu"
     fullname: >-
-      FANS Sule Prikitiw  🇮🇩
+      sarwendah
     bio: >-
-      🎉 Sulekers anniv 12 Desember 📹 Gallery Foto & video @ferdinan_sule 📌 Mau promo!! DM
+      Fanbase All About Sarwendah Artis
     location: "Indonesia"
-    followers: 293836
-    engagement: 155
-    commentsToLikes: 0.024579
-    id: ck14go6ae67dp0i19ka3di4ks
+    followers: 119912
+    engagement: 127
+    commentsToLikes: 0.004563
+    id: ck8t82w8piwrk0j78ub1ubsmm
     verified: false
-    hashtags: "#temaindonesia, #lucu, #initalkshow, #partopatrio"
-  - username: "nagita_slavinaaa1717"
+    hashtags: "#shakeherbalife, #bandung, #taiwan, #herbalifejakarta"
+  - username: "alfonzheng"
     fullname: >-
-      PP MURAH ➡️ DM 📩
+      Alfon Zheng アルフォン
     bio: >-
-      Nagita Slavina MT Akun fansbase 📹 : @rans.entertainment (RANSVLOG) Always Support 👉👉👉 @raffinagita1717 #nagitaslavina #raffiahmad #rafatharmalikahmad
+      📷 🎥 @alfonphotographie & @kalyanastudio 🎹 🎼 Song Writer, Pianist, Composer 📩 DM or email for business! #jakarta #jambi ⬇️ DHAMMA WAY - Official MV
     location: "Indonesia"
-    followers: 127593
-    engagement: 81
-    commentsToLikes: 0.023646
-    id: ck15rxezla6jp0i19d30ndzwu
+    followers: 7505
+    engagement: 1090
+    commentsToLikes: 0.054675
+    id: ck9whb0ajx3m10j78zg0ij2qr
     verified: false
-    hashtags: "#jedaricho, #nagitaslavina, #lambeturah, #likelike"
+    hashtags: "#qotd, #muscle, #studio, #flash"
+  - username: "venila.grosir"
+    fullname: >-
+      venila.grosir
+    bio: >-
+      KONVEKSI BAJU TERBESAR GROSIR & ECER & PARTAI 📍JAKARTA ORDER BY WA: 📲 GROSIR 085717889776 📲 PARTAI 089509332225 ATAU ORDER ECER KLIK LINK INI ⤵️⤵️⤵️
+    location: "Indonesia"
+    followers: 336274
+    engagement: 50
+    commentsToLikes: 0.014945
+    id: ck13as1q5rw7k0i194tfbuxgr
+    verified: false
+    hashtags: "#bajumurmer, #sarwendah, #thaliaonsu, #thania"
   - username: "makankenyang56"
     fullname: >-
       Makan Kenyang
@@ -54,55 +66,19 @@ profiles:
     commentsToLikes: 0.017944
     id: ck8t9w9vhpkok0j78jx8390de
     verified: false
-    hashtags: "#mukbangseafood, #diet, #kulinerjogja, #mukbangshow"
-  - username: "fansdjkatty"
+    hashtags: "#resepudang, #makankenyang56, #lapartengahmalam, #mukbangseafood"
+  - username: "letakbercakap"
     fullname: >-
-      dj katty butterfly fansbase
+      Bercakap
     bio: >-
-      Tentang video dan foto keseharian kak dj katty butterfly
+      🎬 Kumpulan Video BAPER 👤Admin @robby.syn 💌 Klik PP / endrose
     location: "Indonesia"
-    followers: 10103
-    engagement: 92
-    commentsToLikes: 0.027580
-    id: ck8t8qjdyle9a0j78qqahnk7b
+    followers: 152505
+    engagement: 517
+    commentsToLikes: 0.013013
+    id: ckf5vd7wso6qw0j23fowtb3az
     verified: false
-    hashtags: "#fansclub, #jepang, #resepkuebolu, #depok"
-  - username: "janethes.galeri"
-    fullname: >-
-      Jan Ethes Galeri
-    bio: >-
-      Mau tau keseruan mas Ethes? Info kerjasama klik link dibawah
-    location: "Indonesia"
-    followers: 32531
-    engagement: 212
-    commentsToLikes: 0.012689
-    id: ck0u8y1d38isd0i193p2u1ptc
-    verified: false
-    hashtags: "#indonesia, #jokowidodo, #irianajokowi, #jokowibersamacucu"
-  - username: "natasha.wiloona"
-    fullname: >-
-      NATASHA WILONA
-    bio: >-
-      FANBASE . KUMPULAN FANS @natashawilona12
-    location: "Indonesia"
-    followers: 82135
-    engagement: 201
-    commentsToLikes: 0.008692
-    id: ckapa0ekeu7ln0i787ne8p5bm
-    verified: false
-    hashtags: "#janjisucittv, #raffigigi, #nutrisibaik, #raffiahmad"
-  - username: "ruang.pensil"
-    fullname: >-
-      Baper? klik tombol ikuti ✨
-    bio: >-
-      Di follow ya jangan stalk aja 💌 Qoutes, musik, zodiak, lockscreen & template ❤ Cek Story Now ✨ . ⤵𝙋𝙖𝙞𝙙 𝙋𝙧𝙤𝙢𝙤𝙩𝙚 / 𝙂𝙞𝙫𝙚 𝘼𝙬𝙖𝙮? (𝟭𝟬 𝙆 ) ⤵
-    location: "Indonesia"
-    followers: 11264
-    engagement: 514
-    commentsToLikes: 0.088249
-    id: ck15pwvsm01dc0i19rhpvj2ek
-    verified: false
-    hashtags: "#tentanghati, #tentangrasa, #sajakkata, #katasenja"
+    hashtags: "#zodiak, #katakatabucin, #lagucover, #medan"
   - username: "infopintar.id"
     fullname: >-
       info pintar
@@ -114,7 +90,7 @@ profiles:
     commentsToLikes: 0.012279
     id: ck8t8cchyjwqn0j78zmyozy6c
     verified: false
-    hashtags: "#gokilbanget, #semenitvidgram, #videokeren, #viralkak"
+    hashtags: "#yafakta, #viralkak, #videoheboh, #kekinian"
   - username: "mrsveronicatan"
     fullname: >-
       VeronicaTan
@@ -126,5 +102,29 @@ profiles:
     commentsToLikes: 0.037377
     id: ck0u8y1u48itm0i192qw2ms3t
     verified: false
-    hashtags: "#distributorherbalife, #herbalife, #pelangsingbadan, #selebrita17"
+    hashtags: "#nutrition, #healthyeating, #shakeherbalife, #fansnikita"
+  - username: "niikiitamirzanimawardi_17"
+    fullname: >-
+      akun fans💞
+    bio: >-
+      🚻akun fans bebs,. akun nyai yang asli 👇👇👇👇👇👇👇👇👇 @nikitamirzanimawardi_17 @nikitamirzanimawardi_172 📌Fans nyai niki follow ya
+    location: "Indonesia"
+    followers: 83252
+    engagement: 60
+    commentsToLikes: 0.014669
+    id: ckap1gq6cuiv90i78qe68fyzt
+    verified: false
+    hashtags: "#herbalifejakarta, #faktanutrisi, #nikitamirzani, #bandung"
+  - username: "janethes.galeri"
+    fullname: >-
+      Jan Ethes Galeri
+    bio: >-
+      Mau tau keseruan mas Ethes? Info kerjasama klik link dibawah
+    location: "Indonesia"
+    followers: 33666
+    engagement: 211
+    commentsToLikes: 0.011777
+    id: ck0u8y1d38isd0i193p2u1ptc
+    verified: false
+    hashtags: "#janethes, #cucujokowi, #kaesangpangarep, #presidenjokowi"
 ---

@@ -1,60 +1,36 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Chicago in 2023
+title: Top 10 Yoga TikTok Influencers In Chicago In 2023
 description: >-
-  Find top yoga TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #duet #foryoupage #yoga.
+  Find top yoga TikTok influencers in Chicago in 2023. Most popular hashtags: #yoga #fyp #duet #foryoupage.
 platform: TikTok
-hits: 7
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 7 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 5
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 5 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "shannon_favia"
+  - username: "yulibooli"
     fullname: >-
-      Shannon Favia
+      yulibooli
     bio: >-
-      Makin’ art in Chicago.
+      my tiktoks are random CPA From Texas Live in Chicago
     location: "United States"
-    followers: 75900
-    engagement: 619
-    commentsToLikes: 0.035735
-    id: ck9euit62drp00j780cwmzicc
+    followers: 24500
+    engagement: 1451
+    commentsToLikes: 0.024428
+    id: ckb9dh1v90t2j0j236uboevgm
     verified: false
-    hashtags: "#sports, #boxinggloves, #fila, #art"
+    hashtags: "#beautyreview, #fyp, #dog, #accounting"
   - username: "madisonhut"
     fullname: >-
       Madison
     bio: >-
       Chicago 📍 25 Ⓥ 🌱 🏋🏻
     location: "United States"
-    followers: 3929
-    engagement: 463
-    commentsToLikes: 0.035395
+    followers: 3903
+    engagement: 460
+    commentsToLikes: 0.039180
     id: ck9eulbaced8u0j78uy0kz9sq
     verified: false
-    hashtags: "#foryoupage, #bakery, #indiana, #fyp"
-  - username: "yulibooli"
-    fullname: >-
-      yulibooli
-    bio: >-
-      idk how I even got here CPA Big 4 Chicago
-    location: "United States"
-    followers: 25200
-    engagement: 1622
-    commentsToLikes: 0.024692
-    id: ckb9dh1v90t2j0j236uboevgm
-    verified: false
-    hashtags: "#checkmeoutchallenge, #snoozzzapalooza, #accounting, #fyp"
-  - username: "dwhite_1906"
-    fullname: >-
-      dwhite_1906
-    bio: >-
-      15K? Shop HSTL DFFRNT Apparel On 2 The Next Podcast On All Platforms
-    location: "United States"
-    followers: 10400
-    engagement: 1057
-    commentsToLikes: 0.076595
-    id: ckbb1ehnursgc0j233e7mut2g
-    verified: false
-    hashtags: "#foryoupage, #trend, #viral, #foryou"
+    hashtags: "#foryoupage, #indiana, #fyp, #bakery"
   - username: "simonpulman"
     fullname: >-
       simonpulman
@@ -66,65 +42,89 @@ profiles:
     commentsToLikes: 0.119650
     id: ck9ro60yoazc00j7883tyb06n
     verified: false
-    hashtags: "#fyp, #duet, #taylorswift, #music"
-  - username: "mbillman9"
-    fullname: >-
-      Matthew Billman
-    bio: >-
-      Let's make videos together! I'm all about collaborating NYC/LA🤸🏼‍♂️ IG @mbillm
-    location: "United States"
-    followers: 3211
-    engagement: 585
-    commentsToLikes: 0.060683
-    id: ck8ja6izhqtw70j78l4g7xrri
-    verified: false
-    hashtags: "#love, #dogs, #boys, #almondwalk"
+    hashtags: "#duet, #taylorswift, #transformers, #siege"
   - username: "subwrestler"
     fullname: >-
       sub wrestler
     bio: >-
       
     location: "United States"
-    followers: 4575
-    engagement: 356
-    commentsToLikes: 0.007686
+    followers: 4582
+    engagement: 449
+    commentsToLikes: 0.049735
     id: ckb981wzcr4if0j23zzrh1mwh
     verified: false
-    hashtags: "#dance, #fitness, #distancedance, #warriorscholar"
+    hashtags: "#quarantine, #mma, #warriorscholar, #boxing"
+  - username: "mexico.indigena.podcast"
+    fullname: >-
+      Mexico Indigena Podcast
+    bio: >-
+      👇🏽🔴P🔴O🔴D🔴C🔴A🔴S🔴T🔴👇🏽
+    location: "United States"
+    followers: 14300
+    engagement: 1111
+    commentsToLikes: 0.000000
+    id: ckdhppuvj1gin0j23jzqxkn9p
+    verified: false
+    hashtags: "#comunidadindigena, #aboriginal, #nativepride, #mexican"
+  - username: "beatsbywaynetaylor"
+    fullname: >-
+      Andrew Halfacre
+    bio: >-
+      Been gone for a few years. Producer/Yoga Teacher @milktoastboys for funnies
+    location: "United States"
+    followers: 231900
+    engagement: 853
+    commentsToLikes: 0.115327
+    id: ckbweqypy1rdb0j23muilxbnb
+    verified: true
+    hashtags: "#duetwithme, #beat, #creator, #comedy"
   - username: "embermusic452"
     fullname: >-
       Emily Rose
     bio: >-
       Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
     location: "United States"
-    followers: 17600
-    engagement: 1520
-    commentsToLikes: 0.182399
+    followers: 20900
+    engagement: 1212
+    commentsToLikes: 0.146499
     id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
-  - username: "katiecapecod"
+    hashtags: "#cat, #catmom, #musician, #duet"
+  - username: "keelsmontana"
     fullname: >-
-      katiecapecod🧜🏻‍♀️
+      Kendall Meiller
     bio: >-
-      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
+      Intuitive Health Coach ✨ Energy Healer ✨ 200hr Cert. Yoga Teacher 🧘🏾‍♀️
     location: "United States"
-    followers: 7738
-    engagement: 1623
-    commentsToLikes: 0.129260
-    id: ck87u29o14tty0j78453egpae
+    followers: 21700
+    engagement: 1226
+    commentsToLikes: 0.066041
+    id: cka6nb8ybapcj0i78yg3klfvl
     verified: false
-    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
-  - username: "codiemarie86"
+    hashtags: "#justaddbriskzero, #selflove, #emotions, #zithappens"
+  - username: "mamasolaris"
     fullname: >-
-      Coddie Adams
+      Sia Natara
     bio: >-
-      Wife Boy mom Autism mom Yoga teacher Music lover: it moves me & speaks to me
+      Yoga & Meditation Teacher she/her 🏳️‍🌈
     location: "United States"
-    followers: 11600
-    engagement: 1454
-    commentsToLikes: 0.095631
-    id: ckb9alh4avtva0j23iv10d3o7
+    followers: 221700
+    engagement: 1620
+    commentsToLikes: 0.029132
+    id: ckbb6hrk5wlro0j231r61ifnl
     verified: false
-    hashtags: "#xyzbca, #thatwitch, #musiclover, #foryou"
+    hashtags: "#bigchop, #astrology, #locs, #healing"
+  - username: "yogi_bryan"
+    fullname: >-
+      Yogi Bryan
+    bio: >-
+      🌟 Meditation, Yoga, and Comedy 🌟
+    location: "United States"
+    followers: 36000
+    engagement: 1219
+    commentsToLikes: 0.052850
+    id: cka0zzn44hon50i7827tgar4a
+    verified: false
+    hashtags: "#meditation, #affirmations2021, #ifeelweightless, #yogaflow"
 ---

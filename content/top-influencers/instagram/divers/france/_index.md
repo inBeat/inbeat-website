@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In France in 2023
+title: Top 10 Divers Instagram Influencers In France In 2023
 description: >-
-  Find top divers Instagram influencers in France in 2023. Most popular hashtags: #love #fall #automne #flowerphotography.
+  Find top divers Instagram influencers in France in 2023. Most popular hashtags: #automne #frenchmodel #love.
 platform: Instagram
-hits: 238
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 238 Instagram influencers like this in France for you to contact.
+hits: 259
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 259 Instagram influencers like this in France for you to contact.
 profiles:
   - username: "downsyndrome_queen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       👸🏼 A girl with Downsyndrome - diversity & inclusion 🦋 🌸 Sharing my life - with help from my sister 👭🏼 🇳🇱 Netherlands #DSQUEEN
     location: "France"
-    followers: 18257
-    engagement: 949
-    commentsToLikes: 0.055337
+    followers: 36485
+    engagement: 939
+    commentsToLikes: 0.040072
     id: ck8ta9xrmqy2s0j78i2xwrx07
     verified: false
-    hashtags: "#yeshm, #hmxme, #hm, #nationalsisterday"
+    hashtags: "#myjewellery, #myjewellerygirl"
   - username: "enzoweyne"
     fullname: >-
       ENZO WEYNE | Magician
     bio: >-
       Daddy of Twins 👶👶 and 👧 🌏The Illusionists (World tour) 🇫🇷Best Magic Show 2017 📺Diversion TF1 🏆France Got Talent
     location: "France"
-    followers: 22706
-    engagement: 757
-    commentsToLikes: 0.043797
+    followers: 22507
+    engagement: 793
+    commentsToLikes: 0.046268
     id: ck6u3z7s60qun0j718f1i2zct
     verified: true
-    hashtags: "#enzoweyne, #love, #theillusionists, #pictureoftheday"
+    hashtags: "#enzoweyne, #nantes, #pictureoftheday, #twins"
+  - username: "annick.lemay"
+    fullname: >-
+      Annick
+    bio: >-
+      french canadian ✨ traveler • blogger • diver • hiker • clubhouse 🗣 @annicklemay 🗺 32 countries, 5 continents
+    location: "France"
+    followers: 9485
+    engagement: 922
+    commentsToLikes: 0.048912
+    id: ck9wek6f1kmpb0j784u42h5px
+    verified: false
+    hashtags: "#blackouttuesday"
+  - username: "violainefrederique"
+    fullname: >-
+      Violaine Frédérique
+    bio: >-
+      FEMINITY DIVERSITY HUMANITY 🏳️‍🌈 5'8 Model & Actress #personalshopper in 🇫🇷🌎 Founder of 90 Suits Paris
+    location: "France"
+    followers: 10805
+    engagement: 600
+    commentsToLikes: 0.213524
+    id: ck6u9iqpdxszj0j71lxh63p9o
+    verified: false
+    hashtags: "#parisblogger, #parisfashionista, #modelparis, #parisactress"
   - username: "ladeessdiane"
     fullname: >-
       Diane 🌈
     bio: >-
       Globe-trotter Nutritionniste ~ épicurienne Rescue Diver Genève
     location: "France"
-    followers: 11703
-    engagement: 365
-    commentsToLikes: 0.096032
+    followers: 11847
+    engagement: 367
+    commentsToLikes: 0.126478
     id: ck8sy8ntok4680j78qt1hx84f
     verified: false
-    hashtags: "#sezane, #automne, #moorea, #polynesiefrancaise"
-  - username: "flowers_are_coming"
+    hashtags: "#nutritioncoach, #chanel, #automne, #sezanelovers"
+  - username: "katerinesavard"
     fullname: >-
-      Yann Lelièvre
+      Katerine Savard
     bio: >-
-      France 🇫🇷 Capturing the diversity of flowers and colors All photos were taken by me.
+      Actrice dans un🎬à Cannes •Olympic medalist🥉 •World champion🥇 •Commonwealth Gold🥇 •Pan American Gold🥇 •World university Gold🥇 Teacher🍎 Diver🤿🐠 📷👠
     location: "France"
-    followers: 10030
-    engagement: 2389
-    commentsToLikes: 0.085183
-    id: ck0w5w93r5qfj0i199k319l63
+    followers: 15238
+    engagement: 834
+    commentsToLikes: 0.024244
+    id: ck6til1900x4r0j71y9i3gf2g
+    verified: true
+    hashtags: "#womeninsport"
+  - username: "jaybrans"
+    fullname: >-
+      Jay Brans | Photographer + MUA
+    bio: >-
+      📸 Photographer @ophelia.portraits 🌈 Makeup Artist ☁️ Female Creator #DiversifyTheLens 📩 info@jaybrans.com 🐱 @ophelia.britishshorthair’s Mom
+    location: "France"
+    followers: 4028
+    engagement: 992
+    commentsToLikes: 0.155057
+    id: ck5hg72pk19bt0i113waycmro
     verified: false
-    hashtags: "#instaflower, #flower, #botanical, #photographer"
+    hashtags: "#jewelryshoot, #campaignshoot, #makeupcampaign, #itspink"
   - username: "floraline_angers"
     fullname: >-
       Isabelle Courtois
     bio: >-
       J'aime me promener dans la nature et la photographier dans sa diversité; partageons nos photos avec plaisir. Toutes les photos sont prises par moi.
     location: "France"
-    followers: 2211
-    engagement: 3410
-    commentsToLikes: 0.167673
+    followers: 2202
+    engagement: 3060
+    commentsToLikes: 0.161495
     id: ck8t5s7l2b26q0j78he5pr7s2
     verified: false
-    hashtags: "#sassy, #topangersphoto, #123flowerscolors, #jaimelanjou"
-  - username: "jennabel91"
+    hashtags: "#aigrettes, #flowerandmacro, #oiseau, #sassy"
+  - username: "blackbeautybag"
     fullname: >-
-      Jennifer Abel || Olympic diver
+      Fatou N'DIAYE
     bio: >-
-      3xOlympic diver--->Tokyo 202ONE 10X 🌎medalist Commonwealth & Panams games🥇 FB: Jennifer Abel Twitter: Jennabel91 📍MONTRÉAL,🇨🇦 @adidasca @rbc
+      • Beauty Blogger & Content creator since 2007 • Beauty • Travel • Fashion • Lifestyle • Advocacy for inclusion & diversity
     location: "France"
-    followers: 40870
-    engagement: 291
-    commentsToLikes: 0.017655
-    id: ck5zuuzeu339a0i14o3ukftdb
+    followers: 151952
+    engagement: 177
+    commentsToLikes: 0.011613
+    id: ck6ug66et151w0j7178sr7ud8
     verified: true
-    hashtags: "#olympics, #naturalhair, #athleteslife, #sun"
-  - username: "stefani_missfit"
+    hashtags: "#claudiepierlot, #liveinlevis, #claudieholiday, #johannaortizxhm"
+  - username: "nahojah"
     fullname: >-
-      Stefanie Derome
+      𝑵 𝑨 𝑯 𝑶 𝑱 𝑨 𝑯
     bio: >-
-      Québécoise au📍Nica 🏄🏼‍♀️ 🌊 Je brise les stéréotypes féminin💓 • Body diversity👊🏽 • Fondatrice👩🏼‍💻 @missfitsgym (11) Coach en ligne - Ebook👇🏽
+      Fashion, Art &. Design | French girl | Unity in diversity inquiries: nahojahpro@gmail.com
     location: "France"
-    followers: 36958
-    engagement: 166
-    commentsToLikes: 0.066748
-    id: ck134yrm7yukw0i199r1pdto8
+    followers: 14730
+    engagement: 408
+    commentsToLikes: 0.261998
+    id: ck5cjschovegt0i119cdeyyhx
     verified: false
-    hashtags: "#selflove, #nicaragua, #nicasurf, #surf"
-  - username: "albylo"
-    fullname: >-
-      💫 Alby Lo 💫
-    bio: >-
-      President of Rotary Club of KT ⚙️💞 Past National Director of JCIHK 🌍🕊 HKU Master of Laws 🎓📚🇭🇰 Hypnotherapist ⏰💤 Band Vocalist 🎤🎹 AOW Diver 🤿🪂⛷ INFJ ♍️
-    location: "France"
-    followers: 26044
-    engagement: 421
-    commentsToLikes: 0.006577
-    id: ckap38r6e20wo0i78qu8yv6vq
-    verified: false
-    hashtags: "#homeless, #inkasia, #rotary, #love"
-  - username: "elodieuniverse"
-    fullname: >-
-      L'univers livresque d'Elodie
-    bio: >-
-      🌹Élodie/mariée/3Loups 📖Serial lectrice et blogueuse littéraire 📖Lectrice Charleston 2019 📖Chroniqueuse pour diverses maisons d'édition BLOG⬇
-    location: "France"
-    followers: 35152
-    engagement: 372
-    commentsToLikes: 0.147392
-    id: ck14kt63qr6wk0i19c0g85aqb
-    verified: false
-    hashtags: "#deco, #autumn, #lecture, #bookshelf"
-  - username: "dhanu.paran"
-    fullname: >-
-      Dhanu Paran
-    bio: >-
-      Wildlife photographer & filmmaker NHM young wildlife photographer 2017(runner up) | Natgeo travel photographer 2017 | Scuba diver | cyclist
-    location: "France"
-    followers: 6615
-    engagement: 1364
-    commentsToLikes: 0.015012
-    id: ck6tzje4xa1r80j71qxdiy5jj
-    verified: false
-    hashtags: "#dhanuparanphotography, #wildlifephotography, #natgeowild, #bbcearth"
+    hashtags: "#apmmonaco, #influenceuse, #bloggeuse, #influenceusemode"
 ---

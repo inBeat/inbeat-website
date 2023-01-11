@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Switzerland in 2023
+title: Top 10 Health Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top health Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #zurich #healthylifestyle.
+  Find top health Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #summervibes #travel.
 platform: Instagram
-hits: 165
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 165 Instagram influencers like this in Switzerland for you to connect with.
+hits: 83
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 83 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "i_am_birebaumli"
     fullname: >-
       
     bio: >-
-      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts & fitness, photography, nature, lostplaces, healthy v. food
+      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts 🥊 & fitness, photography, nature, healthy v. food
     location: "Switzerland"
-    followers: 5800
-    engagement: 2017
-    commentsToLikes: 0.118826
+    followers: 6750
+    engagement: 1985
+    commentsToLikes: 0.126511
     id: ck13d3pg53irf0i190hd1hu57
     verified: false
-    hashtags: "#italianmodel, #swissphotographer, #bodylanguage, #uster"
+    hashtags: "#swissphotographer, #urbexlovers, #lookslikefilm, #thun"
+  - username: "_tamayoga"
+    fullname: >-
+      Tam | Wellness and Yoga
+    bio: >-
+      📍GENEVA Sharing my yoga journey to motivate myself and others 🦋 Co-founder of @flowspaceofficial a project to promote health of body and mind ✨
+    location: "Switzerland"
+    followers: 23289
+    engagement: 260
+    commentsToLikes: 0.060606
+    id: ck9wewvnmm7gp0j78g4k2bokx
+    verified: false
+    hashtags: "#alobouthealth, #alosalutethesun"
+  - username: "friedahodel"
+    fullname: >-
+      F R I E D A   H O D E L
+    bio: >-
+      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹 • Mama & Content Creator • ❤️ @fabiozerzuben
+    location: "Switzerland"
+    followers: 37313
+    engagement: 587
+    commentsToLikes: 0.024418
+    id: ckap0qb07rejq0i78ud5qp3yk
+    verified: true
+    hashtags: "#switzerland, #happiness, #travel, #vacation"
   - username: "massixda"
     fullname: >-
       Massimo
     bio: >-
       Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
     location: "Switzerland"
-    followers: 30809
-    engagement: 390
-    commentsToLikes: 0.097360
+    followers: 34356
+    engagement: 350
+    commentsToLikes: 0.075341
     id: ck6u3kk6tybjm0j71mr7mpp06
     verified: false
-    hashtags: "#ad, #huaweifreebudspro, #sonicescapes, #radicalskincare"
-  - username: "friedahodel"
+    hashtags: ""
+  - username: "nicoceps"
     fullname: >-
-      F R I E D A   H O D E L
+      Nicolas „Nico“ Sandmeier
     bio: >-
-      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹TV • Influencer
+      fitness, natural bodybuilding & healthy lifestyle zurich, switzerland YT VIDEO ⬇️
     location: "Switzerland"
-    followers: 35906
-    engagement: 293
-    commentsToLikes: 0.059642
-    id: ckap0qb07rejq0i78ud5qp3yk
-    verified: true
-    hashtags: "#matterhorn, #swissalps, #travelgram, #travelblogger"
-  - username: "angiemilano"
-    fullname: >-
-      
-    bio: >-
-      serbian blood, swiss made 💛health IG: @guidedbyangie @amanagementde "never a failure, always a lesson!"
-    location: "Switzerland"
-    followers: 40840
-    engagement: 733
-    commentsToLikes: 0.022698
-    id: ck6u4hi8i3r2n0j718254bruh
+    followers: 47275
+    engagement: 857
+    commentsToLikes: 0.011184
+    id: ck9haymr3em1v0j78kjmpd8xl
     verified: false
-    hashtags: "#precovid"
-  - username: "ewaszabatin"
+    hashtags: "#sun, #bodybuilder, #spain, #hollywood"
+  - username: "queen_isabelle8"
     fullname: >-
-      Ewa Szabatin | FitFashionFreak
+      👑 Hanna Isabelle 👑
     bio: >-
-      @iboost.lab 💃7 x Polish Dance Champion ☀️ Summer/travel girl 🤸‍♂️Fit & healthy 🌱 🍓KUP EBOOKA ⬇️
+      Bag lover ✨ Follow my health journey via my stories😃 Based in Switzerland 🇨🇭 @queen_isabelle8closet Curator of @swiss_streetstyle #queen_isabelle8
     location: "Switzerland"
-    followers: 62100
-    engagement: 106
-    commentsToLikes: 0.075237
-    id: ck5c35fgvymva0i11e9p6muyf
-    verified: true
-    hashtags: "#wolno, #switzerland, #strajkkobiet, #tojestwojna"
+    followers: 146182
+    engagement: 99
+    commentsToLikes: 0.036536
+    id: ck5q64yjvvyrv0i11qirwmt5w
+    verified: false
+    hashtags: "#healthjourney, #joyeuxnoel, #merrychristmas, #myhealth"
   - username: "melissa_ts_fitness"
     fullname: >-
       MELISSA
     bio: >-
       📍Zurich | Backup @melissa_ts_fit PERSONAL TRAINER | TransGirl🏳️‍🌈 Fitness | Nutrition | Healthy 100% natural body real stuff👇
     location: "Switzerland"
-    followers: 25312
-    engagement: 668
-    commentsToLikes: 0.078364
+    followers: 24998
+    engagement: 531
+    commentsToLikes: 0.075246
     id: ckaos0lhupm630i78m43ahae8
     verified: false
-    hashtags: "#transbeauty, #transandproud, #transisbeautiful, #boytogirl"
-  - username: "maria_bruggner"
+    hashtags: "#transgenderwoman, #transwoman, #m2f, #mtf"
+  - username: "djallyssonluis"
     fullname: >-
-      Maria Bruggner
+      DjAllyssonLuis
     bio: >-
-      🏃🏻‍♀️ #running 🌱 #healthyfood @nu3_de 15% sparen Rabattcode: 🇩🇪MARIA15DE 🇨🇭MARIA15CH 🇦🇹MARIA15AT
+      DJ Allysson Luis Music is my soul 🎵🎶🎧 Gym 💪🏽 Healthy food 🥦Sports 🥊Travel ✈️ Fight for what you love ! 👊🏾 Soundcloud- Allysson Luis
     location: "Switzerland"
-    followers: 27225
-    engagement: 156
-    commentsToLikes: 0.084989
-    id: ck14jq9hmlni80i19r2hho9z8
+    followers: 80543
+    engagement: 482
+    commentsToLikes: 0.015726
+    id: ck6u341xgvkw30j71gjshii8h
     verified: false
-    hashtags: "#foodporn, #fitnessmodel, #love, #healthyfood"
-  - username: "cbezerraphotos"
+    hashtags: "#summervibes, #happy, #sol, #summer"
+  - username: "chopsueylee"
     fullname: >-
-      Claudio Bezerra - 🇧🇷🇺🇸
+      Ai Lee Syarief | Health Coach
     bio: >-
-      🌍World Travel Photographer 🏡 Stay happy, stay healthy, stay safe 📍Currently- South Florida 📩cbezerraphotos@gmail.com
+      Lead Master Trainer @wearestrongnation ⁣ Swiss 🇨🇭/ Malaysian 🇲🇾 Workouts @ace.movrs Health Program @healthness.by.ailee ZES @zumba
     location: "Switzerland"
-    followers: 408957
-    engagement: 307
-    commentsToLikes: 0.043500
-    id: ck0tuyl9x98so0i196meqcwh1
-    verified: false
-    hashtags: "#jungfrauregion, #grindelwald, #inlovewithswitzerland, #interlaken"
-  - username: "bymelaniec"
+    followers: 151034
+    engagement: 204
+    commentsToLikes: 0.024348
+    id: ck14ky1norwa00i196e2iko1o
+    verified: true
+    hashtags: "#nutrition, #instafit, #flexibility, #fightingelements"
+  - username: "lisamarilynh"
     fullname: >-
-      Fashion • Lifestyle • Geneva
+      LISA
     bio: >-
-      🦷 | Health student 📍 | Geneva 📩 | Pro: cotovio.melanie@gmail.com ⬇️ | Mon blog + Shop mes looks
+      👱🏽‍♀️ Swiss girl 🎓 Student 💪🏽 Certified Trainer 🍑 TFIF-Athlete @shapesbysteffy | Discount code : MARILYN10 ｆｉｎｄ ｙｏｕｒ ｆｉｒｅ⚡️
     location: "Switzerland"
-    followers: 5186
-    engagement: 882
-    commentsToLikes: 0.022689
-    id: ck0w1heiejcxl0i198yz31zku
+    followers: 7765
+    engagement: 1474
+    commentsToLikes: 0.081058
+    id: ckapbsp9h17a20i78knwkytik
     verified: false
-    hashtags: "#wanderlust, #covid2019, #stayathome, #restezchezvous"
-  - username: "mowgli_travels"
-    fullname: >-
-      Andrea Martens | De 🇵🇪pal 🌎
-    bio: >-
-      Travelling since 2015 ✈️🚌🚊⛵️ 🌱 Vegan: Animals 🐄 + Planet 🌍 + Health 💕 🎬IKIGAI: Tu Razón de Ser
-    location: "Switzerland"
-    followers: 21813
-    engagement: 233
-    commentsToLikes: 0.082768
-    id: ck6uapeoo4vp20j71vwjw725t
-    verified: false
-    hashtags: "#swiss, #vegan, #switzerland, #cuarentena"
+    hashtags: "#fitnessjourney, #fitnesslifestyle, #benakd, #summervibes"
 ---

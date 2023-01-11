@@ -1,132 +1,132 @@
 ---
-title: Top 10 TikTok Influencers In Indonesia in 2023
+title: Top 10 TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #duet #lazada1111 #foryoupage.
+  Find top TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #duet #sahabatenergiku #mulaidari100.
 platform: TikTok
-hits: 1753
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 1753 TikTok influencers like this in Indonesia for you to collaborate.
+hits: 1791
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 1791 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "hendrysaputra82"
     fullname: >-
       Hendry Saputra
     bio: >-
-      Semoga bisa menghibur anda semua sobat daringku
+      Suka joged tp bukan dancer, suka nyanyi tp bukan penyanyi, smg terhibur 😁
     location: "Indonesia"
-    followers: 13600
-    engagement: 2080
-    commentsToLikes: 0.119082
+    followers: 38400
+    engagement: 1239
+    commentsToLikes: 0.149588
     id: ckai6q5qqx63i0i7894h7f9co
     verified: false
-    hashtags: "#duet"
-  - username: "wiwikhandayani21"
+    hashtags: "#sapasuruhlewatmulu, #salamsehatsalamsukses, #duet"
+  - username: "nengrizmaaa27"
+    fullname: >-
+      EFCTI🦅OWNER-RIZMAPRAJA_G'THOR
+    bio: >-
+      Bollywood Mania🔥 Lipsinc ❤ IG ME:@nengrizmaaa27 EFCTI Berdiri "18-01-2020"
+    location: "Indonesia"
+    followers: 7007
+    engagement: 8270
+    commentsToLikes: 0.222437
+    id: ckdtjzsrdxi3s0j2382q7d13g
+    verified: false
+    hashtags: "#efcti, #klsi, #kasi, #fyp"
+  - username: "maewiwik"
     fullname: >-
       @WAKIL OWNER.KTRI.WIWIK21
     bio: >-
       Cikarang Bekasi 👉Bagi yg minat gabung group dm ya🙏🙏🙏🤗🤗🤗😘😘
     location: "Indonesia"
-    followers: 3542
-    engagement: 7187
-    commentsToLikes: 0.304021
+    followers: 4126
+    engagement: 7117
+    commentsToLikes: 0.310188
     id: ckcelq5advoku0j237n9box54
     verified: false
-    hashtags: "#ktrifamily2020, #bersuamidanberanaksatu, #tiktokcikarang2020, #fyp"
-  - username: "asgar10782"
+    hashtags: "#duet, #ktrifamily2021, #fyp, #aksienergimu"
+  - username: "nuraini10782"
     fullname: >-
-      CSTI 1 💋PESEK💋ASGAR💋
+      💋DAUN💋SAMPEU💋
     bio: >-
-      watt kwan" qu smuah yg blum terbalas like nya pasti d blz tnggu giliran ok😉😘
+      BISMIKA ALLOHUMMA AH YAAA WABISMIKA AMUUTT 🤲 PINIS JAM 21 😅😅
     location: "Indonesia"
-    followers: 8470
-    engagement: 6901
-    commentsToLikes: 0.167999
+    followers: 8943
+    engagement: 6163
+    commentsToLikes: 0.151627
     id: ckb90tmqtgqek0j239d6qtz86
     verified: false
-    hashtags: "#sumpahakanberubah, #lazada1111, #tiktokgarsel, #lailanuraini10782"
-  - username: "tatasundanis"
-    fullname: >-
-      tata sundhanis
-    bio: >-
-      Menjalin silaturahmi. Like aq bls like. Comen aq bls comen🤝🤝🙏🏻🙏🏻
-    location: "Indonesia"
-    followers: 3628
-    engagement: 6834
-    commentsToLikes: 0.259889
-    id: ckd6xcwaau3530j23w4h9rbkb
-    verified: false
-    hashtags: "#duet, #titokindonesia, #lazada1111, #foryoupage"
-  - username: "bunga_syabrina12"
-    fullname: >-
-      🤝STMS LEADER🌹Bunga_syabrina
-    bio: >-
-      
-    location: "Indonesia"
-    followers: 3629
-    engagement: 6315
-    commentsToLikes: 0.161886
-    id: ckb90tpk4gqyr0j230dpz77l2
-    verified: false
-    hashtags: "#wanita"
+    hashtags: "#ayodancepuzzles, #lailanuraini10782, #robogurugratis, #sahabatenergiku"
   - username: "lailatulhikmah74"
     fullname: >-
       LSB_Miss LaLa🐊JATIM
     bio: >-
       Dunia Halluu Sekedar hiburan Be Yourself👌
     location: "Indonesia"
-    followers: 5362
-    engagement: 6265
-    commentsToLikes: 0.362905
+    followers: 5777
+    engagement: 6146
+    commentsToLikes: 0.388666
     id: ckbb546qlvchu0j239fqj68jd
     verified: false
-    hashtags: "#foryoupage, #tiktokjatim2020, #fyp, #lsi"
-  - username: "aquarius_0189"
+    hashtags: "#fyp, #lsb, #family, #duet"
+  - username: "myhulkk"
     fullname: >-
-      Vee♒👑
+      GOKIL TF1K OFC HULK🗡️
     bio: >-
-      No DM☺️🙏🏻 No baper✌️ hiburan semata
+      😎
     location: "Indonesia"
-    followers: 5380
-    engagement: 6013
-    commentsToLikes: 0.130510
-    id: ckcptpsysojrk0j23urxduofz
+    followers: 2594
+    engagement: 6055
+    commentsToLikes: 0.078584
+    id: ckbqlojgc6t5g0j233rdtr2xa
     verified: false
-    hashtags: "#bacapikiran, #foryoupage, #fyp, #xyzbca"
+    hashtags: "#duet, #gokilgrop, #sarimibikingoyang, #pastiawesome"
   - username: "bagas_oktaviano11"
     fullname: >-
-      ⚔️DRTI OWN⚔️DUDA_SOLO84🐊Plat
+      ⚔️RDS_DRTI OWN DUDASOLO⚔️
     bio: >-
       ⚔️TEAM RDS⚔️ ⚔️OWNER DRTI⚔️
     location: "Indonesia"
-    followers: 5542
-    engagement: 5882
-    commentsToLikes: 0.250662
+    followers: 6997
+    engagement: 5706
+    commentsToLikes: 0.315143
     id: ck9exynujtgwg0j78ai0ramnh
     verified: false
-    hashtags: "#rds, #bagas84, #magiccoolingmagicnowid, #fyp"
-  - username: "alfianz91"
+    hashtags: "#bagas84, #rdsbersatu, #warga62, #fyp"
+  - username: "1802_21"
     fullname: >-
-      BFTG_GFTC_P.A.T.C_OffiCial💀
+      👑Neng_vee_Eddo 🗝️
+    bio: >-
+      tinggalkan👣 dikolom komentar pasti aku balas like🤗🙏🏻 unfol auto block
+    location: "Indonesia"
+    followers: 9314
+    engagement: 5659
+    commentsToLikes: 0.233733
+    id: ckcptpsysojrk0j23urxduofz
+    verified: false
+    hashtags: ""
+  - username: "shantyjuliyani07"
+    fullname: >-
+      TTCS/THC/T'HIS-founder shanty
+    bio: >-
+      founder ttcs-thc-this salkomsel🙏
+    location: "Indonesia"
+    followers: 7913
+    engagement: 5510
+    commentsToLikes: 0.266691
+    id: ckcpukc4fpqjf0j2377hnvw6z
+    verified: false
+    hashtags: "#kasi, #btc, #jagoutbk, #thc"
+  - username: "alfianz_91"
+    fullname: >-
+      BFTG_GFTC_PATC💀C.E.O💀Alfianz
     bio: >-
       ahli gigi behel dan juga diamond asli Bondowoso
     location: "Indonesia"
-    followers: 3973
-    engagement: 5785
-    commentsToLikes: 0.321556
+    followers: 5400
+    engagement: 5473
+    commentsToLikes: 0.321681
     id: ckbb0m4chqzzb0j232i5opyeh
     verified: false
-    hashtags: "#bollywood, #gftc, #fyp, #duet"
-  - username: "trichoser87"
-    fullname: >-
-      PEMBINA K.T.R.I
-    bio: >-
-      Pandeglang Banten. Cari talislatuhmai Mejalin persaudaraan🤝🤝🤝🙏
-    location: "Indonesia"
-    followers: 4130
-    engagement: 5745
-    commentsToLikes: 0.225916
-    id: ckcej6wsyrtoe0j23y9m320ip
-    verified: false
-    hashtags: "#tiktokanindonesia2020, #fyp, #sehebohgoyangokky, #fouryou"
+    hashtags: ""
 cities:
   - name: Jakarta
     link: /tiktok/indonesia/jakarta

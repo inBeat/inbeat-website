@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Brazil in 2023
+title: Top 10 Beauty TikTok Influencers In Brazil In 2023
 description: >-
-  Find top beauty TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #makeup #fy.
+  Find top beauty TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #fy #viral #foryou.
 platform: TikTok
-hits: 127
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database holds 127 TikTok influencers like this in Brazil for you to connect with.
+hits: 122
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 122 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "janataffarel"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Beauty • Makeup INSTA: @janataffarel
     location: "Brazil"
-    followers: 216500
-    engagement: 2027
-    commentsToLikes: 0.016187
+    followers: 351400
+    engagement: 1722
+    commentsToLikes: 0.012760
     id: ck9aa7cocje4e0j78dxyx5vpg
     verified: true
-    hashtags: "#foryou, #beauty, #makeup, #fakenails"
-  - username: "victorg_j"
-    fullname: >-
-      go¡s
-    bio: >-
-      ✨black beauty✨ 19y 🖤ig: @victtorjg🖤 ñ curtam + de 3 vídeos seguidos pfvzin 🤍
-    location: "Brazil"
-    followers: 157600
-    engagement: 2097
-    commentsToLikes: 0.024481
-    id: ckb1bygui0nfp0j235i3eo8k7
-    verified: false
-    hashtags: "#fyp, #makeup, #viral, #fly"
+    hashtags: "#quandoogravebateforte, #moleca, #beauty, #eyeliner"
   - username: "wandrumont"
     fullname: >-
       Wanderson Drumont
     bio: >-
       Beauty artist 👩‍🎨 Lipsync 🎙 Comedy 🤣
     location: "Brazil"
-    followers: 15200
+    followers: 15100
     engagement: 1478
-    commentsToLikes: 0.121259
+    commentsToLikes: 0.101117
     id: ck9ng9mv5f2r00j78mi1hee7v
     verified: false
-    hashtags: "#halloween, #makeupartist, #makeup, #foryou"
+    hashtags: "#pravoc, #foryou, #makeup, #maquiagem"
+  - username: "heygabsf"
+    fullname: >-
+      Gabs Floquet
+    bio: >-
+      ✨Midsize | Beauty | Self care✨
+    location: "Brazil"
+    followers: 109300
+    engagement: 1212
+    commentsToLikes: 0.039660
+    id: ck8p07zbafjwy0j78k2l5mf3b
+    verified: false
+    hashtags: "#midsize, #bodypositivity, #midsizequeen, #2000s"
+  - username: "rosiane.zyy"
+    fullname: >-
+      rosiane Zy
+    bio: >-
+      Mãe da @meltiemy ❤️ Cabeleireira (Rosiane Hair and Beauty) Atibaia-SP
+    location: "Brazil"
+    followers: 80200
+    engagement: 1220
+    commentsToLikes: 0.029391
+    id: ckbkixbm3bhk90j23xixy4gex
+    verified: false
+    hashtags: "#dicaspronatal, #fy, #fyp, #telaverdecongelante"
+  - username: "victorg_j"
+    fullname: >-
+      go¡s
+    bio: >-
+      ✨black beauty✨ 20y 🖤ig: @victtorjg🖤 🤍rumo aos 200k🤍
+    location: "Brazil"
+    followers: 199200
+    engagement: 1893
+    commentsToLikes: 0.013747
+    id: ckb1bygui0nfp0j235i3eo8k7
+    verified: false
+    hashtags: "#viral, #fy, #fyp, #ablackhousebr"
   - username: "renatasantti"
     fullname: >-
       Renata Santti
     bio: >-
-      beauty • makeup renatasantti em todas as redes, te espero por lá 😍
+      makeup | beauty ✨ me segue no inst4 @renatasantti ✨
     location: "Brazil"
-    followers: 397200
-    engagement: 2175
-    commentsToLikes: 0.009758
+    followers: 538600
+    engagement: 2043
+    commentsToLikes: 0.019271
     id: ck9jx0qafyr8a0j78drmv1hyr
     verified: true
-    hashtags: "#fy, #fyp, #foryou, #nickelodeon"
-  - username: "feeee2020"
-    fullname: >-
-      Penelope
-    bio: >-
-      The beauty 👩‍🦳and the Beast🦁✌️🇧🇷 Snap fefepenelope
-    location: "Brazil"
-    followers: 21300
-    engagement: 1378
-    commentsToLikes: 0.032562
-    id: ck9ej8di31d7a0j78wflyss8n
-    verified: false
-    hashtags: "#fyp, #funkbrasil, #foryoupage, #parati"
+    hashtags: "#clown, #fyp, #kaguyaootsutsuki, #makeup"
   - username: "kenyaborgess"
     fullname: >-
       Kenya Borges
     bio: >-
       beauty | makeup dark skin ig @kenyaborgess
     location: "Brazil"
-    followers: 111100
-    engagement: 1791
-    commentsToLikes: 0.010279
+    followers: 189200
+    engagement: 1709
+    commentsToLikes: 0.019317
     id: ck9kegoseytqu0j787qo2uzps
     verified: false
-    hashtags: "#ad, #embelleze, #tiktokfashion, #natucor"
-  - username: "eduardaborgs"
+    hashtags: "#beauty, #fy, #fyp, #publi"
+  - username: "feeee2020"
     fullname: >-
-      Eduarda Borges
+      Penelope
     bio: >-
-      🇧🇷 beauty and lifestyle creator natural skincare✨ INSTA: @eduardaborgs_
+      The beauty 👩‍🦳and the Beast🦁✌️🇧🇷 Snap fefepenelope
     location: "Brazil"
-    followers: 193700
-    engagement: 1002
-    commentsToLikes: 0.017610
-    id: ckb931fdojhx70j234cm48np9
+    followers: 28600
+    engagement: 1054
+    commentsToLikes: 0.027443
+    id: ck9ej8di31d7a0j78wflyss8n
     verified: false
-    hashtags: "#fyp, #acneskin, #foryoupage, #fy"
-  - username: "brunaayra"
-    fullname: >-
-      Bruna Ayra 
-    bio: >-
-      Beauty & makeup
-    location: "Brazil"
-    followers: 356900
-    engagement: 1481
-    commentsToLikes: 0.008657
-    id: ckdi8kwf9b5lv0j23wf8y0152
-    verified: false
-    hashtags: "#maquiagem, #viral, #foryoupage, #humor"
+    hashtags: "#fyp, #foryoupage, #foryou, #romania"
   - username: "vandressarib"
     fullname: >-
       Vandressa Ribeiro
     bio: >-
       Beauty and Lifestyle 💖 INSTAGRAM: @vandressarib www.youtube.com/vandressarib
     location: "Brazil"
-    followers: 103500
-    engagement: 1526
-    commentsToLikes: 0.008830
+    followers: 179400
+    engagement: 1547
+    commentsToLikes: 0.008592
     id: ck9kcnz9eqcnp0j78yza4idg9
     verified: false
-    hashtags: "#cabelocacheado, #ootd, #gera, #curlyhair"
-  - username: "mnovais_"
+    hashtags: "#foryou, #foryoupage, #casaltiktok6, #outfits"
+  - username: "eduardaborgs"
     fullname: >-
-      Mariana Novais
+      Eduarda Borges
     bio: >-
-      TRAVEL | BEAUTY | SPORTS 🎥 3,3M 🔥
+      🇧🇷 beauty and lifestyle creator natural skincare✨ INSTA: @eduardaborgs_
     location: "Brazil"
-    followers: 33200
-    engagement: 541
-    commentsToLikes: 0.018354
-    id: ck9gmhbecsgj50j78rzsx601m
+    followers: 281400
+    engagement: 1161
+    commentsToLikes: 0.014144
+    id: ckb931fdojhx70j234cm48np9
     verified: false
-    hashtags: "#travelthrowback, #tiktokviagem, #viral, #traveldiaries"
+    hashtags: "#hair, #vaiprofy, #acne, #foryou"
 ---

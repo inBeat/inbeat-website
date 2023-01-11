@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Colombia in 2023
+title: Top 10 Architecture Instagram Influencers In Colombia In 2023
 description: >-
-  Find top architecture Instagram influencers in Colombia in 2023. Most popular hashtags: #architecture #nature #colombia #city.
+  Find top architecture Instagram influencers in Colombia in 2023. Most popular hashtags: #architecture #nature #travel #city.
 platform: Instagram
 hits: 23
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 23 Instagram influencers like this in Colombia for you to work with.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 23 Instagram influencers like this in Colombia for you to connect with.
 profiles:
   - username: "js.archidrawing"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Architect - Artist Colombian 🇨🇴 | Art and architecture are the universal language | Commission for Dm or email ✉
     location: "Colombia"
-    followers: 10886
-    engagement: 655
-    commentsToLikes: 0.015452
+    followers: 25843
+    engagement: 948
+    commentsToLikes: 0.010794
     id: ck9wdlklsg8130j78fcuj4okq
     verified: false
-    hashtags: "#pencil, #igblackandwhite, #architecturesketch, #nycarchitecture"
-  - username: "omar_portela"
+    hashtags: "#fineliner, #archi, #inkdrawing, #pencil"
+  - username: "40chasingfreedom"
     fullname: >-
-      Omar Portela
+      
     bio: >-
-      ● Architecture, Rooftops and Photography. ● National University of Colombia. ● Contact: +57 3163264646 ● From Aruba. ●In Medellín.
+      🇪🇨 Colombian traveller of 58 countries and 5 continents I 🏋🏻‍♂️ and I 🚴‍♀️ and I play 🏐 Architecture, art and food enthusiastic
     location: "Colombia"
-    followers: 7289
-    engagement: 502
-    commentsToLikes: 0.011066
-    id: ck0ubk42demb80i19bhfdtv1p
+    followers: 8907
+    engagement: 477
+    commentsToLikes: 0.042863
+    id: ckap5376j9zuo0i786btfdgqt
     verified: false
-    hashtags: "#love, #mountains, #artoftheday, #train"
+    hashtags: "#holiday, #takayama, #montenegro, #adriaticsea"
   - username: "yessenxaa"
     fullname: >-
       Yessenia Andrade
     bio: >-
       ‘97 | Colombian & Cape Verdean BIG animal lover 🌱 📍: Rhode Island 📧: andradey10@yahoo.com God is good all the time. All the time God is good.
     location: "Colombia"
-    followers: 69977
-    engagement: 164
-    commentsToLikes: 0.090122
+    followers: 63156
+    engagement: 184
+    commentsToLikes: 0.090517
     id: ckaova9cd3pg30i785lpflyn0
     verified: false
-    hashtags: "#life, #selfie, #clearskin, #theme"
+    hashtags: "#clearskin, #theme, #love, #curlsfordays"
+  - username: "ricardofrance9"
+    fullname: >-
+      Mr. R Í C A R D O   O C H O A
+    bio: >-
+      📍Paris Proud to be Colombian 🇨🇴 📚 Clinical Research Associate I never smile on the photos but all time in Real Life
+    location: "Colombia"
+    followers: 24983
+    engagement: 323
+    commentsToLikes: 0.021185
+    id: ckap3qcy343p40i78gk6n1mqg
+    verified: false
+    hashtags: "#igersparis, #france, #french, #parisian"
   - username: "alex_betancure"
     fullname: >-
-      🇨🇴 La Colombia de Alex 📸 Fotos
+      La Colombia 🇨🇴 de Alex 📸 Fotos
     bio: >-
-      Conoce la bella Colombia 🇨🇴 foto a foto 📸 🧭 Viajes 📸 fotografía Y 🤠 🅟🅤🅑🅛🅘🅒🅘🅓🅐🅓 por DM 👩‍🌾 Tradición 🧙Experiencias 📍Medellín Antioquia
+      La Hermosa Colombia 🇨🇴 foto a foto 📸 📸 Fotografía📸 ⬇️🆈🅾🆄 🆃🆄🅱🅴⬇️
     location: "Colombia"
-    followers: 15916
-    engagement: 709
-    commentsToLikes: 0.033616
+    followers: 17012
+    engagement: 544
+    commentsToLikes: 0.027749
     id: ck14je4uxjve80i19d4ba64q6
     verified: false
-    hashtags: "#montain, #cafe, #green, #yovoy"
-  - username: "traveloving_colombia"
-    fullname: >-
-      TRAVELOVING_COLOMBIA
-    bio: >-
-      Presione el link, hablamos y creamos algo realmente interesante Videos y Fotografías aéreas🎥🚁 #traveloving_colombia Youtube : @traveloving_colombia
-    location: "Colombia"
-    followers: 10482
-    engagement: 457
-    commentsToLikes: 0.310670
-    id: ck0w0n3rnf1jg0i19co3mz5m1
-    verified: false
-    hashtags: "#videocomercial, #valledelcauca, #creadordecontenido, #lasucursaldelcielo"
+    hashtags: "#sky, #huila, #nature, #photooftheday"
   - username: "purpurall"
     fullname: >-
       A N D R E
     bio: >-
-      💜 Mercadóloga y Publicista 🌳 Sembremos árboles @1000enundia 🔻 Mod en @city_captures @drones_captures @color_captures @night_captures
+      💜 Mercadóloga y Publicista 🤘🏻Rockanrolera 🥡 Foodie 🌳 Sembremos árboles @1000enundia
     location: "Colombia"
-    followers: 21168
-    engagement: 840
-    commentsToLikes: 0.019215
+    followers: 20963
+    engagement: 698
+    commentsToLikes: 0.037584
     id: ck0w0n1fzf1aq0i19admo5yvn
     verified: false
-    hashtags: "#ig, #night, #bogot, #artofvisuals"
+    hashtags: "#world, #citygrammers, #onlyinsouthamerica, #colombiahd"
   - username: "tripshooting"
     fullname: >-
       Laura Olejua Viajes y fotos
     bio: >-
       📷 Artista viajera. Entonces, ¿Nos vamos de viaje? 💡 Creadora de: @villadeleyvafestiva 👇
     location: "Colombia"
-    followers: 8696
-    engagement: 394
-    commentsToLikes: 0.084850
+    followers: 8752
+    engagement: 388
+    commentsToLikes: 0.098652
     id: ck139x03unjig0i196vh9t03z
     verified: false
-    hashtags: "#cityview, #ourcolombia, #travelbucketlist, #igersbogota"
+    hashtags: "#bogotart, #colombianotcolumbia, #wondermore, #citylandscape"
   - username: "romanafilipkova"
     fullname: >-
       Romana Filipkova
     bio: >-
       Make-up & Fashion & travel | mum of @rebekafilipkovaballerina | Mary Kay Sales Director |🌏🎨👠💄 zakladatelka Nadačního fondu @krasnasrdcepomahaji
     location: "Colombia"
-    followers: 15748
-    engagement: 1308
-    commentsToLikes: 0.000898
+    followers: 17964
+    engagement: 1134
+    commentsToLikes: 0.000826
     id: ck6uetwigt2lp0j71n06dikz8
     verified: false
-    hashtags: "#city, #memories, #firework, #hollywood"
-  - username: "arquitecturamixta"
-    fullname: >-
-      Arquitectura Mixta
-    bio: >-
-      Bioconstrucción inspirada en la geometría universal Arquitectura biomimética y parametria #youtube 🎋
-    location: "Colombia"
-    followers: 11995
-    engagement: 373
-    commentsToLikes: 0.063375
-    id: ck6u8t40etics0j71vjk99his
-    verified: false
-    hashtags: "#architecture, #youtube, #design, #brasil"
+    hashtags: "#la, #topview, #beautiful, #nature"
   - username: "entre.estilos"
     fullname: >-
       Entre Estilos™ Arquitectura
     bio: >-
-      Plataforma de Arquitectura Creadores: @jpalvarezll @raquelhoyosl Pautas de Publicidad al DM 📩entre.estilos1@gmail.com Colaboradores @aydrevista
+      Plataforma de Arquitectura Creadores: @jpalvarezll @raquelhoyosl Pautas de Publicidad al DM 📩entre.estilos1@gmail.com
     location: "Colombia"
-    followers: 77310
-    engagement: 217
-    commentsToLikes: 0.004930
+    followers: 88007
+    engagement: 180
+    commentsToLikes: 0.003981
     id: ckaoudt3fzub10i78eckt7k9y
     verified: false
-    hashtags: "#follow, #sketches, #art, #archidaily"
+    hashtags: "#archphotography, #art, #follow, #wisearchi"
+  - username: "carolynordonez"
+    fullname: >-
+      Carolyn Ordoñez
+    bio: >-
+      Psalm 27:13-14 🙏🏽 Colombian-American Actress sprinkling love, kindness, & inspiration around the world 💫 In the fight for justice ✊🏽 Los Angeles📍
+    location: "Colombia"
+    followers: 27024
+    engagement: 289
+    commentsToLikes: 0.075721
+    id: ckapac3wfvi5z0i78m6qdxudz
+    verified: false
+    hashtags: "#nofilter, #actress, #oliveskin, #tbt"
 ---

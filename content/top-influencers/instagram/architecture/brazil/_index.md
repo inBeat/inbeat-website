@@ -1,81 +1,57 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Brazil in 2023
+title: Top 10 Architecture Instagram Influencers In Brazil In 2023
 description: >-
-  Find top architecture Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #longexpoelite #kings.
+  Find top architecture Instagram influencers in Brazil in 2023. Most popular hashtags: #ig #bnw #raw.
 platform: Instagram
-hits: 348
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 348 Instagram influencers like this in Brazil for you to pitch.
+hits: 341
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 341 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "mfernandaa"
-    fullname: >-
-      MARIA FERNANDA LINHARES
-    bio: >-
-      Arquiteta e Urbanista. Fashion | Travel | Beauty | Architecture | Lifestyle Give this world good energy 🦋.
-    location: "Brazil"
-    followers: 61038
-    engagement: 434
-    commentsToLikes: 0.290916
-    id: ck6ugv2mi5c3d0j71k1611ak2
-    verified: false
-    hashtags: "#inspiracaodelook, #nailsdesign, #tbt, #nailart"
-  - username: "romullo.castro"
-    fullname: >-
-      Rômullo Castro™
-    bio: >-
-      Pode entrar, só não repara a bagunça! 📚 Student architecture 🐦 Twitter: ofromullo 📩 Parcerias Via: Direct/Email. ¹⁰♚Łƒ'ร♚
-    location: "Brazil"
-    followers: 26421
-    engagement: 391
-    commentsToLikes: 0.202870
-    id: ck8t92dhpmppw0j784j7gbdq7
-    verified: false
-    hashtags: "#architecture, #reelsinsta, #reelsbrasil, #reelsvideo"
   - username: "renan_souto"
     fullname: >-
       R E N A N    S O U T O
     bio: >-
-      @casanobrejp 📐 INTERIOR DESIGN 📋 ARCHITECTURE 🏋🏽 CROSSFITTER 🇧🇷 NORDESTINO/PB 🐶 Pai de Frida, Aurora e Maya ♍️ virginiano
+      @casanobrejp 📐 INTERIOR DESIGN 📋 ARCHITECTURE 🏋🏽 CROSSFITTER 🇧🇷 NORDESTINO/PB 🐶 Pai de Frida, Aurora e Maya ♍️ virginiano ❤ PARAÍBA SIM SINHÔ
     location: "Brazil"
-    followers: 25338
-    engagement: 259
-    commentsToLikes: 0.075328
+    followers: 25028
+    engagement: 229
+    commentsToLikes: 0.072412
     id: ck14hdr199t6k0i19tpcj2bpq
     verified: false
-    hashtags: "#tbt, #fernandopessoa, #sempreparasempre, #festaocean"
+    hashtags: "#festaocean, #tbt, #reveillonnoronha, #turmafoda"
   - username: "ze_vedovato"
     fullname: >-
       VEDOVATO
     bio: >-
-      👽 A Mammal Animal 🖋Architecture student 📍Brazil MA @epmodelsbrasil 🇧🇷 🇮🇹 @independent_mgmt 🇨🇵 @the88mgmt 🇯🇵 @wizardmodels
+      👽 A Mammal Animal 🖋Architecture student 📍Brazil 🇧🇷 @epmodelsbrasil
     location: "Brazil"
-    followers: 2122
-    engagement: 1723
-    commentsToLikes: 0.087825
+    followers: 2080
+    engagement: 1679
+    commentsToLikes: 0.081377
     id: ck5hi8klnc7k10i11ybiy26my
     verified: false
-    hashtags: "#malestyle, #fashion, #model, #cold"
-  - username: "kauan_aguiar"
+    hashtags: "#model, #cold, #winter, #quarentine"
+  - username: "natbarpp"
     fullname: >-
-      
+      Natalia
     bio: >-
-      𝕂𝕒𝕦𝕒𝕟 𝔸𝕘𝕦𝕚𝕒𝕣 Surfing the waves of life ———————————— Architecture • Design 👷🏼‍♂️💡✏️ Business @gilenocortinas ———————————— 🇸🇺🇷🇫 🌊🏄🏻‍♂️
+      Architecture and Urbanism / @etta__music
     location: "Brazil"
-    followers: 3496
-    engagement: 1628
-    commentsToLikes: 0.042914
-    id: ckap5h5lobnzh0i78qs964uty
+    followers: 14709
+    engagement: 724
+    commentsToLikes: 0.018739
+    id: ck9wfqtq7q3yc0j786ka73on9
     verified: false
-    hashtags: "#nostress, #ny, #chovechuva, #pipaquepariu"
+    hashtags: ""
   - username: "isadoramonteirom"
     fullname: >-
       Isadora Machado
     bio: >-
-      🇧🇷 | 🇩🇪 Architecture student “Deus é amor. Todo aquele que permanece no amor permanece em Deus, e Deus nele.” ‭‭1 João‬ ‭4:16‬ ❤️
+      🇧🇷 | 🇩🇪 “God is love” ‭‭1 John‬ ‭4:16‬ Architecture student
     location: "Brazil"
-    followers: 2535
-    engagement: 1254
-    commentsToLikes: 0.043951
+    followers: 2575
+    engagement: 1332
+    commentsToLikes: 0.040040
     id: ck6u6oewygsb60j71d4ddkobx
     verified: false
     hashtags: ""
@@ -85,46 +61,70 @@ profiles:
     bio: >-
       📷Nature and architecture photography . 🔵Mod: @world_bestsky @globalfotografia_skies @globalfotografia_architecture @sunset_only @ig_brazil_
     location: "Brazil"
-    followers: 12486
-    engagement: 1807
-    commentsToLikes: 0.173283
+    followers: 12385
+    engagement: 1879
+    commentsToLikes: 0.172298
     id: ck15rqds7965g0i19vx64wgg0
     verified: false
-    hashtags: "#brasilnature, #examenoinsta, #bns, #cloudzdelight"
+    hashtags: "#nisi, #sky, #shotzdeligth, #brasilclique"
+  - username: "ipohboygoesplaces"
+    fullname: >-
+      Ken  |  Singapore 🇸🇬
+    bio: >-
+      •• Architecture •• Ⓜ️br ▫️tv_leadinglines▫️tv_pointofview▫️tv_buildings ▫️tv_retro ▫️ig_ometry▫️1_unlimited▫️sfe 🅿️latinum Ⓜ️br ▫️raw_architecture
+    location: "Brazil"
+    followers: 33005
+    engagement: 196
+    commentsToLikes: 0.141530
+    id: ck5q4b7axoftf0i11cndxe33f
+    verified: false
+    hashtags: ""
+  - username: "frederico60"
+    fullname: >-
+      Frederico de Souza🇧🇷&🇺🇸
+    bio: >-
+      Fnd/mod: • @structure_bestshots @worldstaircases_bestshots • Ⓜ️br @raw_architecture_ @total_geometric_forms @architectural_ornamentation @think_splash
+    location: "Brazil"
+    followers: 2770
+    engagement: 1393
+    commentsToLikes: 0.329611
+    id: ck5znsw7ip3av0i14u0xmwyn6
+    verified: false
+    hashtags: "#architecturevision, #buildingswow, #bnw, #parametricarechitecture"
   - username: "favarojrfotografia"
     fullname: >-
       Favaro JR
     bio: >-
       Architecture Photographer #architecturephotographer
     location: "Brazil"
-    followers: 45209
-    engagement: 171
-    commentsToLikes: 0.024927
+    followers: 47915
+    engagement: 143
+    commentsToLikes: 0.037419
     id: ck8t07vgdr4gh0j78h94702kl
     verified: false
-    hashtags: "#imoveisdeluxo, #casadecampo, #archtecture, #architecturephotography"
+    hashtags: "#reelsbrasil, #instareels, #casavogueexperience, #casavogue"
+  - username: "chaanviid"
+    fullname: >-
+      CC
+    bio: >-
+      ❤ Architecture • Minimal • Creative 📷 Samsung GalaxyNote20 & GalaxyS21+ 🇹🇭 Made in Bangkok
+    location: "Brazil"
+    followers: 28097
+    engagement: 129
+    commentsToLikes: 0.043494
+    id: ck5hhj3sn8hql0i11ual2bcue
+    verified: false
+    hashtags: "#singletake, #galaxynote20th, #seeyourworlddifferrently, #galaxynote20"
   - username: "isayweinfeld"
     fullname: >-
       isayweinfeld
     bio: >-
       @isayweinfeld_architecture
     location: "Brazil"
-    followers: 87540
-    engagement: 170
-    commentsToLikes: 0.019938
+    followers: 88013
+    engagement: 171
+    commentsToLikes: 0.019940
     id: ck5bue7oxhmax0i11nn2bfbn8
     verified: false
     hashtags: ""
-  - username: "bonsrapazes"
-    fullname: >-
-      Bons Rapazes
-    bio: >-
-      • Boys like, Men love • #oportugalincrivel #cars #motorcycles #menswear #architecture #design #adventure @pedroteixeiraoficial 🍻@tfroufe @thisisluvin
-    location: "Brazil"
-    followers: 58548
-    engagement: 111
-    commentsToLikes: 0.089756
-    id: ck5zklo4ljpem0i143jgcircp
-    verified: false
-    hashtags: "#getthelook, #menswear, #oportugalincrivel, #ferrarif40"
 ---

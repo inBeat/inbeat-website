@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Miami in 2023
+title: Top 10 Nutrition TikTok Influencers In Miami In 2023
 description: >-
   Find top nutrition TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #foryou #health.
 platform: TikTok
-hits: 9
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 9 TikTok influencers like this in Miami, United States for you to pitch.
+hits: 7
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 7 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "ayyyy__taytay"
+  - username: "jpark_fit"
     fullname: >-
-      Ayyyy__taytay
+      Jeremy Park
     bio: >-
-      NEW FRESH CONTENT COMING YOUR WAY🤘🏻 Instagram: @tayandrews__
+      🇺🇸 x 🇰🇷 ⚡️Workouts Everyday⚡️ Natty 🌱 SONIC SHREDDER CHALLENGE👇🏽
     location: "United States"
-    followers: 117600
-    engagement: 479
-    commentsToLikes: 0.066367
-    id: ckal66cca9ksx0i78emezxe9u
-    verified: false
-    hashtags: "#food, #health, #foodie, #dinner"
+    followers: 1900000
+    engagement: 960
+    commentsToLikes: 0.008190
+    id: ck85cpw8e2waf0j78buzx5qh1
+    verified: true
+    hashtags: "#jparkfit, #workout, #gains, #fyp"
   - username: "doctor.jarrett"
     fullname: >-
       Dr. Jarrett Schanzer
     bio: >-
-      Instagram (150k) ⤴️ 📍Miami / NYC Health💉Humor💉Inspiration Anesthesia😷
+      Anesthesiologist Aesthetic Medicine (Botox/Fillers/IVs) 📍Miami
     location: "United States"
-    followers: 150900
-    engagement: 846
-    commentsToLikes: 0.030527
+    followers: 166000
+    engagement: 660
+    commentsToLikes: 0.027740
     id: ckdbs9wzgcgxv0j23tvaoyutk
     verified: false
-    hashtags: "#adhd, #foryoupage, #comedy, #fyp"
-  - username: "drthierryjacquemin"
+    hashtags: "#anesthesia, #nurses, #fyp, #miami"
+  - username: "coachjeremy305"
     fullname: >-
-      DrThierryJacquemin
+      Jeremy Abramson
     bio: >-
-      Physician dedicated to Beauty, Wellness, and Performance 💪💪💪 (305) 667-1511
+      Miami 🌞 Spreading Love ❤️ Tik Tok’s Health Coach 🥑 FREE LIVE TRAINING👇🏼
     location: "United States"
-    followers: 65600
-    engagement: 694
-    commentsToLikes: 0.085145
-    id: ck9fx9k895jc70j78c92r6sun
+    followers: 669100
+    engagement: 853
+    commentsToLikes: 0.061208
+    id: ckbqfrpfi1ed40j23wzp0fu72
     verified: false
-    hashtags: "#health, #miami, #amazing, #medicine"
+    hashtags: "#getfit, #healthyliving, #staywoke, #wellnesstips"
+  - username: "jonbezrouch"
+    fullname: >-
+      JonBezrouch
+    bio: >-
+      Green Beret Doctor of Chiropractic School Fitness & Nutrition IG JonBezrouch
+    location: "United States"
+    followers: 1800000
+    engagement: 852
+    commentsToLikes: 0.014435
+    id: cka0i86nrclhb0i78y1ptkgsq
+    verified: false
+    hashtags: "#greenberet, #women, #psa, #army"
   - username: "andrespres"
     fullname: >-
       andrespres
     bio: >-
       Follow me on Instagram to harness the power of Physiological Awareness 🧠🤯👆🏽
     location: "United States"
-    followers: 69200
-    engagement: 547
-    commentsToLikes: 0.028691
+    followers: 68600
+    engagement: 546
+    commentsToLikes: 0.030703
     id: ck8j6ltb2ajrr0j78kos7uqa7
     verified: false
-    hashtags: "#freediving, #eatemup, #spearfishing, #fyp"
-  - username: "jpark_fit"
+    hashtags: "#fishing, #eatemup, #miami, #apnea"
+  - username: "austinchiangmd"
     fullname: >-
-      Jeremy Park
+      Dr. Austin, MD MPH
     bio: >-
-      🇺🇸 x 🇰🇷 ⚡️Workouts Everyday⚡️ Natty 🌱 #AlopeciaGang 🌹 New YouTube Video!
+      Medical Mythbuster Professor, GI Doctor 🎓Duke/Columbia/Harvard Latest YT vid👇
     location: "United States"
-    followers: 1200000
-    engagement: 765
-    commentsToLikes: 0.007610
-    id: ck85cpw8e2waf0j78buzx5qh1
+    followers: 412900
+    engagement: 1514
+    commentsToLikes: 0.020437
+    id: ck8w4v3sz94z50j78e6ixg8nn
     verified: true
-    hashtags: "#sweat, #edutok, #challenge, #workout"
-  - username: "eatmoverest"
+    hashtags: "#lgbtq, #acidreflux, #medicine, #stopasianhate"
+  - username: "jennaharwoodofficial"
     fullname: >-
-      Erin, Dusty & Max
+      it’s me jenna
     bio: >-
-      @ErinStanczyk @DBStanczyk on Instagram @EatMoveRest on YouTube
+      ⭐️it’s me Jenna⭐️ Instagram: @jennaharwoodofficial
     location: "United States"
-    followers: 3499
-    engagement: 438
-    commentsToLikes: 0.038916
-    id: ckbfc0uxs4kuk0j23o2n1bi39
+    followers: 64000
+    engagement: 681
+    commentsToLikes: 0.067840
+    id: ckdswvvanqixu0j23jxjorb9b
     verified: false
-    hashtags: "#veganrecipes, #yummy, #veganfoodie, #yum"
-  - username: "wendybesadarodrig"
+    hashtags: "#luxury, #bridgerton, #dothescottsslide, #trending"
+  - username: "askdebbieabouthair"
     fullname: >-
-      Wendy Besada Rodrigu
+      askdebbieabouthair
     bio: >-
-      IG @wendybesada ENJOY THE RIDE Cuba🇨🇺 Miami 🇺🇸
+      📍Board Certified Nutritionist 📍Hair Loss specialist www.askdebbieabouthair.com
     location: "United States"
-    followers: 56200
-    engagement: 1010
-    commentsToLikes: 0.122604
-    id: ckd172g6co6ox0j23b2um6711
-    verified: false
-    hashtags: "#latinas, #fyp, #parati, #funnyvideos"
-  - username: "solitness_"
+    followers: 751200
+    engagement: 877
+    commentsToLikes: 0.026892
+    id: ckb0o6l8rebv50j237xfj1vm5
+    verified: true
+    hashtags: "#health, #foryoupage, #learnontiktok, #diabetes"
+  - username: "kingsapron"
     fullname: >-
-      Solitness
+      Chef Zu
     bio: >-
-      Nutritionist & PT 18K IG🖤: @solitness Miami Foodie Amazon ⬇️
+      Certified Holistic Nutritionist | Certified Herbalist | Plant Medicine Maker
     location: "United States"
-    followers: 35200
-    engagement: 409
-    commentsToLikes: 0.028373
-    id: ckbkzavd4vr2o0j23ix4m4w1d
+    followers: 201600
+    engagement: 932
+    commentsToLikes: 0.051868
+    id: ckbfj8sqafg5j0j23q057jchq
     verified: false
-    hashtags: "#fail, #fyp, #greenscreenvideo, #dietaketo"
-  - username: "odjoseferrer"
+    hashtags: "#foryou, #garden, #lit, #fy"
+  - username: "the.muscle"
     fullname: >-
-      odjoseferrer
+      The Muscle 
     bio: >-
-      🇻🇪 Carismático. "the laugh is the best medicine" la risa es la mejor medicina
+      DIESEL BROTHERS and owner of 1MISSION NUTRITION
     location: "United States"
-    followers: 7181
-    engagement: 1015
-    commentsToLikes: 0.047461
-    id: ckcpaeyxnerfc0j234xmgjtiu
-    verified: false
-    hashtags: "#home, #smile, #foryoupage, #parati"
-  - username: "beyondthetats"
-    fullname: >-
-      Chris Holt
-    bio: >-
-      Follow me on IG! 👆🏼 Online Fitness/Nutritional Coach Identical Triplet KAD
-    location: "United States"
-    followers: 195000
-    engagement: 1988
-    commentsToLikes: 0.033545
-    id: ck8kdjg36647z0j780t9wnwy0
-    verified: false
-    hashtags: "#coffee, #over30, #history, #lipsync"
+    followers: 951700
+    engagement: 970
+    commentsToLikes: 0.025751
+    id: ck977v75k5jy20j78g9ni2mm8
+    verified: true
+    hashtags: "#db, #dothedew"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Turkey in 2023
+title: Top 10 Chefs TikTok Influencers In Turkey In 2023
 description: >-
-  Find top chefs TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #tiktok #chef #food.
+  Find top chefs TikTok influencers in Turkey in 2023. Most popular hashtags: #tiktok #ke #ankara #chef.
 platform: TikTok
-hits: 15
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 15 TikTok influencers like this in Turkey for you to connect with.
+hits: 10
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 10 TikTok influencers like this in Turkey for you to work with.
 profiles:
   - username: "turkangokkaya27"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       CHEF 👩‍🍳😋 GAZİANTEP
     location: "Turkey"
-    followers: 28800
-    engagement: 707
-    commentsToLikes: 0.079705
+    followers: 33100
+    engagement: 695
+    commentsToLikes: 0.102236
     id: ckbq6a51qsnmq0j23y1ncokag
     verified: false
-    hashtags: "#instag, #mutfak, #15kiloboya, #tiktokindia"
+    hashtags: "#mutfakvideolar, #ke, #mutfak, #mutfaktay"
   - username: "chef_turgutcakioglu"
     fullname: >-
       Chef Turgut Çakıoğlu
     bio: >-
       Konya Patisserie chef👨‍🍳 🥞🍞🥯🥮🍧🍨🍩🍪🎂🍰🧁🥧
     location: "Turkey"
-    followers: 194600
-    engagement: 652
-    commentsToLikes: 0.003127
+    followers: 193000
+    engagement: 649
+    commentsToLikes: 0.003128
     id: ck9k4yjm2ulh90j78l8xsy23x
     verified: false
-    hashtags: "#konya42, #yemekk, #profiterol, #pasta"
+    hashtags: "#profiterol, #baklava, #cikolata, #tiktok"
   - username: "seyfichef"
     fullname: >-
       Seyfi Chef
     bio: >-
       İnstagram Hesabım @seyfi_chef
     location: "Turkey"
-    followers: 220400
+    followers: 218100
     engagement: 296
-    commentsToLikes: 0.006672
+    commentsToLikes: 0.006546
     id: ck999turjedse0j78fnius84f
     verified: false
-    hashtags: "#steaklove, #seyfichef, #tiktokt, #bbqfood"
-  - username: "tv8hd0"
-    fullname: >-
-      Survivor
-    bio: >-
-      @acunilicali
-    location: "Turkey"
-    followers: 7864
-    engagement: 593
-    commentsToLikes: 0.009564
-    id: ckcudwgome2x80j231lu9ml6k
-    verified: false
-    hashtags: "#food, #tanya, #tv8acunmedya, #danilozanna"
+    hashtags: "#tiktokt, #steakhouse, #vide, #tiktoknew"
   - username: "gokhanbagirdakci"
     fullname: >-
       Gokhan.34
     bio: >-
       🧁🧁İNCE DOKUNUŞLAR 🍰🍰
     location: "Turkey"
-    followers: 5762
-    engagement: 310
-    commentsToLikes: 0.015390
+    followers: 14200
+    engagement: 292
+    commentsToLikes: 0.012915
     id: cka6bl8k40p0h0i78xpvsz0yn
     verified: false
-    hashtags: "#tiktokileoyunday, #patiserrie, #mutfaka, #pastry"
+    hashtags: "#tiktokchef, #ya, #herg, #chef"
   - username: "kaymak1982"
     fullname: >-
       Kaymak künefe 
     bio: >-
       Kaymak künefe ortaköy
     location: "Turkey"
-    followers: 10100
-    engagement: 161
-    commentsToLikes: 0.012587
+    followers: 10000
+    engagement: 160
+    commentsToLikes: 0.012515
     id: cka65z2c7f6ez0i78ee6ws4sr
     verified: false
-    hashtags: "#cznburak, #kuwait, #cheer, #be"
+    hashtags: "#sevgi, #ortak, #tranding, #party"
   - username: "eneskrzll"
     fullname: >-
       Enes Kirazlı
     bio: >-
       İnstagram da daha aktifim
     location: "Turkey"
-    followers: 8823
-    engagement: 364
-    commentsToLikes: 0.016282
+    followers: 8695
+    engagement: 330
+    commentsToLikes: 0.020205
     id: cka0hs6i9akbj0i78s78whbi6
     verified: false
-    hashtags: "#beni, #cake, #chef, #benionecikar"
-  - username: "aytenyildizz"
+    hashtags: "#fyp, #ke, #eneskirazl, #opposelfie"
+  - username: "canavar"
     fullname: >-
-      Ayten Yıldız
+      CAN
     bio: >-
-      instagram; @aytenyildizz Reklam & işbirlikleri📩 aytnyildiz07@gmail.com
+      Şuradan instagramı takip ⬆️ edin Mesajlara dönüş yapıyorum #CCFC 🐍 500K ?
     location: "Turkey"
-    followers: 139700
-    engagement: 490
-    commentsToLikes: 0.025003
-    id: cka0ou3rw5ga40i78vraay1r2
+    followers: 426100
+    engagement: 776
+    commentsToLikes: 0.019211
+    id: ckav30koz9b0u0j23c6nsrdzr
     verified: false
-    hashtags: "#ke, #aytenyildizz, #antalya, #bug"
-  - username: "mr.taster"
+    hashtags: "#ccfc, #masterchef, #chef, #canavar"
+  - username: "pastrychef_harun"
     fullname: >-
-      mr.taster
+      pastrychef_harun
     bio: >-
-      Foodcritic loving food and travel😍❤️🕺🏾👌
+      çankırı 1981 gs
     location: "Turkey"
-    followers: 101800
-    engagement: 363
-    commentsToLikes: 0.010392
-    id: cka63t2ov5tz80i78dlb8v54n
+    followers: 16500
+    engagement: 894
+    commentsToLikes: 0.009217
+    id: ckbqd02nqz0g70j23b6u69f7c
     verified: false
-    hashtags: "#iran, #food, #foodlover, #kebab"
-  - username: "mini_food_chef"
+    hashtags: "#turkey, #chefharun, #tiktokt, #ankara"
+  - username: "_ishakkaynak06"
     fullname: >-
-      Dytnin Mini Mutfagi
+      Geleceğin Chef'i 🔪
     bio: >-
-      Instagram: Diyetisyenin Mini Mutfagi
+      , Ankara 👇İnstagram Hesabıma kesinlikle bakmalısın ❤️
     location: "Turkey"
-    followers: 102269
-    engagement: 1277
-    commentsToLikes: 0.004261
-    id: ck9k4ykaiulq30j7873xfxqaf
+    followers: 316500
+    engagement: 757
+    commentsToLikes: 0.018961
+    id: ck8kcvpy533tu0j78oo3le1c6
     verified: false
-    hashtags: "#minifood, #food, #mini, #tinyfood"
+    hashtags: "#ishakchef, #ankara"
+  - username: "bekir_bayram"
+    fullname: >-
+      📍Chef Bekir Bayram
+    bio: >-
+      Gaziantep Kebap Aşığı Bir Adam 👋 Takip Edip Destek Verenlere Teşekkür Ederim.
+    location: "Turkey"
+    followers: 8935
+    engagement: 263
+    commentsToLikes: 0.037495
+    id: ckc7ooodeujri0j238p90nayp
+    verified: false
+    hashtags: "#kefset, #ankara, #midekurdu, #etdoner"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Dallas in 2023
+title: Top 10 Athletes TikTok Influencers In Dallas In 2023
 description: >-
-  Find top athletes TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #funny #basketball #athlete.
+  Find top athletes TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #viral #greenscreen #foryou.
 platform: TikTok
-hits: 8
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 8 TikTok influencers like this in Dallas, United States for you to collaborate.
+hits: 10
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 10 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "temdbritt"
-    fullname: >-
-      Malcolm (AgentZer0)
-    bio: >-
-      IG: the_mdbritt LB @ Old Dominion University 🦍
-    location: "United States"
-    followers: 44600
-    engagement: 1825
-    commentsToLikes: 0.079420
-    id: ckd0jm0eqff340j23o9cbbq0u
-    verified: false
-    hashtags: "#eagles, #dallascowboys, #titans, #fup"
   - username: "itscap10morgan"
     fullname: >-
       Captain Morgan
     bio: >-
       Gamer Athlete Future Hokage ⬇️ I’ll twitch eventually⬇️
     location: "United States"
-    followers: 28300
-    engagement: 980
-    commentsToLikes: 0.062417
+    followers: 31100
+    engagement: 999
+    commentsToLikes: 0.067230
     id: ckck4ac71onjs0j23mjp1cxuh
     verified: false
-    hashtags: "#fyp, #cod, #modernwarfare, #warzone"
+    hashtags: "#fyp, #modernwarfare, #pain, #foryou"
+  - username: "auprosports"
+    fullname: >-
+      Athletes Unlimited
+    bio: >-
+      New leagues for the world’s best athletes. 🥎🏐🥍 🏐: February 27-March 29
+    location: "United States"
+    followers: 45700
+    engagement: 1158
+    commentsToLikes: 0.011377
+    id: ckdhwln1z471m0j23ruzfmejs
+    verified: true
+    hashtags: "#proathlete, #athletesunlimited, #vball, #softball"
   - username: "dxddycm"
     fullname: >-
       Cm🖤🎒
     bio: >-
       Yooo 🤣🖤 .... Dallas Tx 📍 👻: DxddyCm
     location: "United States"
-    followers: 3492
-    engagement: 880
-    commentsToLikes: 0.041447
+    followers: 3498
+    engagement: 902
+    commentsToLikes: 0.044560
     id: ckal7zeo0hdha0i789bzc88t1
     verified: false
-    hashtags: "#funny, #comedy, #thisisquitting, #xyzbca"
-  - username: "alexander_york"
+    hashtags: "#greenscreen, #fyp, #xyzbca, #thisisquitting"
+  - username: "jackgipson01"
     fullname: >-
-      Alexander_york
+      Jack Gipson
     bio: >-
-      
+      Tx 20 All of my videos are jokes
     location: "United States"
-    followers: 48200
-    engagement: 635
-    commentsToLikes: 0.047786
-    id: cka6ni2xfbgyf0i786wvx8ls9
+    followers: 18800
+    engagement: 1179
+    commentsToLikes: 0.028336
+    id: ck8hqbyet3gpd0j78057c5v7b
     verified: false
-    hashtags: "#shredded, #powerlifting, #staypeaked, #athlete"
-  - username: "billythebodybuilder_"
+    hashtags: "#snow, #fyp, #xc, #4you"
+  - username: "josh24barry24"
     fullname: >-
-      Billy Morehead
+      Josh
     bio: >-
-      👀 Road To 13k Fitness/Sports Business/Collaboration positivevibesFL@yahoo.com
+      Baseball Pittsburgh Twitter: Josh24barry Insta: Josh24barry
     location: "United States"
-    followers: 12400
-    engagement: 1118
-    commentsToLikes: 0.082753
-    id: ckbwhzbqs311u0j238um7cj28
+    followers: 2540
+    engagement: 940
+    commentsToLikes: 0.015949
+    id: ckdms7i4ma3sb0j23w8ej19k1
     verified: false
-    hashtags: "#greenscreen, #horrortok, #yougotthis, #wewintogether"
-  - username: "sugeneshin_"
+    hashtags: "#usa, #meme, #xyzbca, #sidemen"
+  - username: "saucyy.legend"
     fullname: >-
-      SUGENE ✨🦋
+      318 Nate 🥶🤝💔
     bio: >-
-      CEA DMV 💙 MRHS 📣 Cheer Coach 📍Skits + tips IG: sugeneshin Follow for more ⬆️
+      318 Nate ⚜️🐊❤️. Louisiana Made 📍 VP of Blizzard Gang 🌨❤️
     location: "United States"
-    followers: 213500
-    engagement: 1799
-    commentsToLikes: 0.013652
-    id: ckbezbf1ukcka0j23wtfqu4vy
+    followers: 20900
+    engagement: 953
+    commentsToLikes: 0.116399
+    id: ckcoj1cae4g750j23dxtlup4z
     verified: false
-    hashtags: "#dixie, #cheer, #jojosiwa, #maddieziegler"
-  - username: "gracecuratolo"
+    hashtags: "#louisiana, #225, #foryoupage, #fyp"
+  - username: "alaniss.o"
     fullname: >-
-      Grace Curatolo
+      alanis ✰
     bio: >-
-      💜Sports & Comedy 💜 IG: gracecuratolo Podcast: She’s Got Balls
+      don’t be shy.. follow my YouTube
     location: "United States"
-    followers: 215200
-    engagement: 1016
-    commentsToLikes: 0.016881
-    id: ck9vaxuhskwip0j782krdy8qr
+    followers: 50600
+    engagement: 1388
+    commentsToLikes: 0.038607
+    id: ckaup8nrjublq0j23aaphkofr
     verified: false
-    hashtags: "#podcast, #adventure, #sedona, #redrocks"
+    hashtags: "#greenscreen, #friends, #dog, #fyp"
+  - username: "sports.illustrated"
+    fullname: >-
+      Sports Illustrated
+    bio: >-
+      Official TikTok of Sports Illustrated
+    location: "United States"
+    followers: 1000000
+    engagement: 1084
+    commentsToLikes: 0.013057
+    id: ckavs9lms4lsm0j23emeduntp
+    verified: true
+    hashtags: "#funny, #hoops, #football, #nba"
   - username: "dalalaakash"
     fullname: >-
       @Aakashdalal
     bio: >-
       Athlete at wrestling Works in (itbp) 👮
     location: "United States"
-    followers: 2936
+    followers: 2933
     engagement: 811
-    commentsToLikes: 0.014172
+    commentsToLikes: 0.014169
     id: ckbf53q4utv4j0j23ghkcyrr7
     verified: false
-    hashtags: "#lifebuoykarona, #handwashchallenge, #tiktokindia, #gharbaithoindia"
-  - username: "sadikfitness"
+    hashtags: "#tiktokindia, #gharbaithoindia, #fyp, #handwashchallenge"
+  - username: "someonefindjayho0ps"
     fullname: >-
-      Sadik Hadzovic
+      jayyho0ps😏
     bio: >-
-      Athlete
+      @jayho0ps follow me onna gram🙃 I dress☔️👾
     location: "United States"
-    followers: 36600
-    engagement: 640
-    commentsToLikes: 0.020144
-    id: ck9kegkrwysvx0j78zzeuzoaf
+    followers: 114400
+    engagement: 1024
+    commentsToLikes: 0.043824
+    id: ckbqauiquwt0v0j23jjtlnw0p
     verified: false
-    hashtags: "#fitness, #bodybuilding, #sadikhadzovic, #motivation"
-  - username: "nasandino"
-    fullname: >-
-      nasandino
-    bio: >-
-      Athlete
-    location: "United States"
-    followers: 7302
-    engagement: 868
-    commentsToLikes: 0.034122
-    id: ckcejgzats9sp0j23f7uqraaa
-    verified: false
-    hashtags: "#fyp, #foryou, #basketball, #viral"
+    hashtags: "#ayekilledit, #fypusa, #fypsounds, #fyp"
 ---

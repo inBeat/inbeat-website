@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In South Africa in 2023
+title: Top 10 Food TikTok Influencers In South Africa In 2023
 description: >-
-  Find top food TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #viral #food #foryoupage.
+  Find top food TikTok influencers in South Africa in 2023. Most popular hashtags: #food #viral #fyp #foryoupage.
 platform: TikTok
-hits: 56
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 56 TikTok influencers like this in South Africa for you to work with.
+hits: 46
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 46 TikTok influencers like this in South Africa for you to contact.
 profiles:
   - username: "veeran.com"
     fullname: >-
@@ -13,48 +13,84 @@ profiles:
     bio: >-
       CEO of VIBEZZZZ🔥😜 Food lover🤤😩 Transitioner😍😍 Don't be shy I follow back😘
     location: "South Africa"
-    followers: 14500
-    engagement: 1416
-    commentsToLikes: 0.037112
+    followers: 15400
+    engagement: 1661
+    commentsToLikes: 0.035866
     id: ck9slqs2efesp0j7805i5jpzb
     verified: false
-    hashtags: "#veeranators, #trending, #foryoupage, #viral"
+    hashtags: "#trending, #ayyyoveezowhatspoppin, #issafancyarmy, #nerders"
   - username: "ourhealthylifestyle"
     fullname: >-
       eden  + bella <3
     bio: >-
-      ☆ follow us to see more food inspo ! ☆ ig: ourhealthlifestyle🦋
+      lifestyle+food🤍
     location: "South Africa"
-    followers: 28900
-    engagement: 1625
-    commentsToLikes: 0.016780
+    followers: 27300
+    engagement: 1492
+    commentsToLikes: 0.017582
     id: ckbkxhs2ite520j23ku4gx8e6
     verified: false
-    hashtags: "#foryoupage, #corona, #viral, #food"
+    hashtags: "#fyp, #bling, #foryoupage, #morningroutine"
   - username: "jotaytay94"
     fullname: >-
       jotaytay94
     bio: >-
       Teacher 👩‍🏫 SA 🇿🇦 Family, friends & food❤️ Disney 🌹 Live at 10K 🎉
     location: "South Africa"
-    followers: 7566
-    engagement: 1209
-    commentsToLikes: 0.030185
+    followers: 7983
+    engagement: 879
+    commentsToLikes: 0.035232
     id: ckb15qzo4t1tq0j233bwts9g9
     verified: false
-    hashtags: "#futurehome, #danceup, #fyp, #foryou"
+    hashtags: "#tiktoksouthafrica, #diy, #xmas, #trousseau"
+  - username: "danielsblossom"
+    fullname: >-
+      Daniel
+    bio: >-
+      Thank you to all the TikTokers showing me love ❤ website👇
+    location: "South Africa"
+    followers: 324500
+    engagement: 1706
+    commentsToLikes: 0.032139
+    id: ck9dxgjwct86d0j78m70bfti9
+    verified: false
+    hashtags: "#tiktok, #food, #funny, #weekend"
   - username: "life_with_lerato"
     fullname: >-
       Life_with_Lerato
     bio: >-
-      Easy recipes. Vlogs 🇿🇦 YouTube/IG: wholesome_lerato leratompha@gmail.co.za
+      🇿🇦Easy recipes. Healthy Lifestyle. Travel YouTube/IG: wholesome_lerato
     location: "South Africa"
-    followers: 71700
-    engagement: 1081
-    commentsToLikes: 0.014893
+    followers: 95600
+    engagement: 857
+    commentsToLikes: 0.021883
     id: ckav9fwxigs230j23nwshz012
     verified: false
-    hashtags: "#tiktoksa, #foodtiktok, #tiktokfood, #southafrica"
+    hashtags: "#africanfood, #stitch, #tiktokfoodie, #foodtiktokfood"
+  - username: "zakirahshah"
+    fullname: >-
+      Zakirah shah
+    bio: >-
+      🇿🇦 Revert ☪️ SHOP Islamic Lifestyle Gifting⬇️
+    location: "South Africa"
+    followers: 17200
+    engagement: 854
+    commentsToLikes: 0.048787
+    id: ck9f1u70ba3c10j78ix34gwoi
+    verified: false
+    hashtags: "#tiktoksa, #skincare, #muslimrevert, #muslimtiktok"
+  - username: "kaylaroodt8"
+    fullname: >-
+      Kayla 🌸🌟
+    bio: >-
+      
+    location: "South Africa"
+    followers: 47300
+    engagement: 1139
+    commentsToLikes: 0.025178
+    id: ck9c8ig50t07j0j780buq9fzg
+    verified: false
+    hashtags: "#tiktok, #acnh, #food, #4you"
   - username: "raydawg11"
     fullname: >-
       Rynhardt Schoeman
@@ -66,65 +102,29 @@ profiles:
     commentsToLikes: 0.045439
     id: ckafu35938l130i78kt1oz2rs
     verified: false
-    hashtags: "#tiktok, #afrikaans, #dance, #tiktoksouthafrica"
-  - username: "kaylaroodt8"
+    hashtags: "#dance, #afrikaans, #fyp, #viral"
+  - username: "qwabetwins"
     fullname: >-
-      Kayla 🌸🌟
+      Official.qwabetwins
     bio: >-
-      Use code : Kayla30 for 30% off your purchase ☺️ https://yuzulia-shop.com
+      Official.qwabetwins | Album Out Now | Get it #TheGiftoflove | #QtwinsAlbum |
     location: "South Africa"
-    followers: 48000
-    engagement: 774
-    commentsToLikes: 0.026495
-    id: ck9c8ig50t07j0j780buq9fzg
+    followers: 191600
+    engagement: 619
+    commentsToLikes: 0.011663
+    id: ckac5siqsdizk0i78vj2sfahl
     verified: false
-    hashtags: "#viral, #foryoypag, #xyzabc, #4you"
+    hashtags: "#pov, #viral, #qtwins, #tiktok"
   - username: "laylacreator"
     fullname: >-
       Layla
     bio: >-
-      Heel Crusher/Random Creator Thank you for all the ❤
+      Heel Crusher/Random Creator Thank you for all the ❤ 🇿🇦
     location: "South Africa"
-    followers: 1100000
-    engagement: 908
-    commentsToLikes: 0.003080
+    followers: 1200000
+    engagement: 798
+    commentsToLikes: 0.002978
     id: ck8knvou8ewrz0j78fhwnsa3b
     verified: false
-    hashtags: "#happiness, #satisfy, #dessert, #cake"
-  - username: "dcz_henz"
-    fullname: >-
-      Cherie Henderson
-    bio: >-
-      Life is to short to waste time stressing... #WifeMamaFriend
-    location: "South Africa"
-    followers: 6576
-    engagement: 2327
-    commentsToLikes: 0.248486
-    id: ckck67d5hrd8x0j23dsrcq8kd
-    verified: false
-    hashtags: "#support, #momsoftiktok, #2020, #tiktoknz"
-  - username: "tegan.marais"
-    fullname: >-
-      🌻tegan marais🌻
-    bio: >-
-      🌻Goal 50k🌻 🌼Following peeps who follow my Instagram 👇🏻New YouTube video👇?
-    location: "South Africa"
-    followers: 40300
-    engagement: 1527
-    commentsToLikes: 0.056239
-    id: ckblnyps7fvzf0j237j95rzr1
-    verified: false
-    hashtags: "#reaction, #seemeontrace, #meme, #bestmzansimemer"
-  - username: "kamoblackskits"
-    fullname: >-
-      KamoBlackSkits👻
-    bio: >-
-      🐩I don't care if you don't follow me🤦‍♂️ 15🇿🇦 🧔Father of 14.2K children👱‍
-    location: "South Africa"
-    followers: 14300
-    engagement: 2222
-    commentsToLikes: 0.022023
-    id: ckbf6r9g6wffi0j23e3u76upp
-    verified: false
-    hashtags: "#liketoseemore, #kamoblackskits, #stay, #kamoskits"
+    hashtags: "#happiness, #fy, #dessert, #shoeasmr"
 ---

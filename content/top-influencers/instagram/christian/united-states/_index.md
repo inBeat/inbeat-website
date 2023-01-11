@@ -1,60 +1,84 @@
 ---
-title: Top 10 Christian Instagram Influencers In United States in 2023
+title: Top 10 Christian Instagram Influencers In United States In 2023
 description: >-
-  Find top christian Instagram influencers in United States in 2023. Most popular hashtags: #halloween #jeepwrangler #photography.
+  Find top christian Instagram influencers in United States in 2023. Most popular hashtags: #quarantine #photography #love.
 platform: Instagram
-hits: 3807
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 3807 Instagram influencers like this in United States for you to work with.
+hits: 4598
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 4598 Instagram influencers like this in United States for you to contact.
 profiles:
+  - username: "christianaaron"
+    fullname: >-
+      christian
+    bio: >-
+      @fluentlust @damagedsinner twitter | tiktok | christiantaaron snapchat | christianaaronx onlyfans and more ⤵️
+    location: "United States"
+    followers: 237289
+    engagement: 155
+    commentsToLikes: 0.024260
+    id: ckapbxeyh1nmh0i78c3mhwta0
+    verified: true
+    hashtags: "#emsculpt, #therosenburg"
   - username: "christiancarnation"
     fullname: >-
       Christian
     bio: >-
       Bagged 2015 Mustang GT Premium PP manual NC 🌍 RT(R) ☢ Sphynx cat mum @smeagolandluna @limitlesscarcare : CHRISTIAN15
     location: "United States"
-    followers: 35698
-    engagement: 408
-    commentsToLikes: 0.021231
+    followers: 35119
+    engagement: 364
+    commentsToLikes: 0.021001
     id: ck601qypfg0d90i14hhy2r8m0
     verified: false
-    hashtags: "#murdered, #carsofinstagram, #ford, #mustanggt"
-  - username: "christianaaron"
-    fullname: >-
-      christian
-    bio: >-
-      call it a curse or just call me blessed @fluentlust @iusedtoberelevant snapchat | twitter | tiktok | christiantaaron
-    location: "United States"
-    followers: 230025
-    engagement: 143
-    commentsToLikes: 0.027107
-    id: ckapbxeyh1nmh0i78c3mhwta0
-    verified: true
-    hashtags: "#emsculpt, #therosenburg"
+    hashtags: "#cargirl, #baggedcars, #lowandslow, #photography"
   - username: "cmpulisic"
     fullname: >-
       Christian
     bio: >-
       Hershey, PA 🇺🇸 Twitter: cpulisic_10 Facebook: cmpulisic Tik Tok: christianmpulisic
     location: "United States"
-    followers: 3305745
-    engagement: 737
-    commentsToLikes: 0.007216
+    followers: 3509389
+    engagement: 748
+    commentsToLikes: 0.006012
     id: ck0tuohdw80cw0i19xi6r6lqt
     verified: true
-    hashtags: "#tbt, #itsachelseathing, #traineatrepeat"
-  - username: "laurengadoury"
+    hashtags: "#scoremorewithxbox, #traineatrepeat, #sponsored"
+  - username: "wavesandlilacs"
     fullname: >-
-      Lauren👑Gadoury
+      Bethany Rose | Christian marriage & motherhood
     bio: >-
-      •USF🐮 •Waylon the Jeep Wrangler🤠 •FL🌴 •BA: @valkyrie.4x4 @christianramirezdesigns 🤘🏽 Dc: lauren4x4 for 20%✨ Page model: @dirtnglam🦌 @4x4bombshells🇺🇸
+      Podcaster | Content Creator 🎙@whateveristrueco Wife and mother to 5 Christian motherhood + marriage + current events 👋 Catch me in my stories!
     location: "United States"
-    followers: 18612
-    engagement: 959
-    commentsToLikes: 0.111618
-    id: ckap8xyomqdgc0i78wplqeuau
+    followers: 41992
+    engagement: 557
+    commentsToLikes: 0.066097
+    id: ck5hn7vhjnd9d0i11bcxwi4bx
     verified: false
-    hashtags: "#laureng, #scout, #jeepwrangler, #tampamodel"
+    hashtags: "#jesussaves, #bumpdated, #whattoexpect, #beating50percent"
+  - username: "_kendalljones_"
+    fullname: >-
+      Kendall Jones
+    bio: >-
+      ✨Hunter | Christian | Outdoors | Family | Texan✨ TPUSA Contributor🇺🇸 Support kids getting outdoors with my “Pass It On” Campaign ⬇️
+    location: "United States"
+    followers: 261549
+    engagement: 56
+    commentsToLikes: 0.007273
+    id: ck14hiki7ahky0i192jmx225f
+    verified: true
+    hashtags: "#tpusa, #findahunt, #whatgetsyououtdoors, #openingday"
+  - username: "wantingw"
+    fullname: >-
+      W A N T I N G
+    bio: >-
+      Dreamer, Banker, Wife, Mum, Ambassador @chucollagen @ceradan311 Mum to @christianlim.fk @julianlimfj
+    location: "United States"
+    followers: 28448
+    engagement: 153
+    commentsToLikes: 0.016727
+    id: ck55vgf3vetlg0i11xuq2f9zj
+    verified: false
+    hashtags: "#haircurl, #haircut, #ndwtcj, #wt35th"
   - username: "chrix.riot"
     fullname: >-
       Christian Colorado
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.062463
     id: ck5hjmj8sgvxp0i11pvsrwaek
     verified: false
-    hashtags: "#orgulloso, #strongqueers, #voguechallenge, #f21xme"
+    hashtags: "#voguechallenge, #f21xme, #tbt, #pride"
   - username: "thatjeepsc"
     fullname: >-
       🅙🅞🅛🅔🅝🅔
     bio: >-
       Stay Sweet! 🤙🏼 B/A @valkyrie.4x4 & @christianramirezdesigns ‘18 JLU Rubicon •📍SC
     location: "United States"
-    followers: 49443
-    engagement: 1129
-    commentsToLikes: 0.032926
+    followers: 52243
+    engagement: 1184
+    commentsToLikes: 0.042031
     id: ck9hawvr6ehef0j78wo1f56zj
     verified: false
-    hashtags: "#countrygirl, #harleyquinn, #jeepher, #dance"
-  - username: "xtianelauria"
+    hashtags: "#offroad, #modified, #jeepstagram, #4x4offroad"
+  - username: "mishamakeupartist"
     fullname: >-
-      Christian Elauria
+      M I S H A 👑
     bio: >-
-      Normalize boys in make up 📧 christianroyelauria@gmail.com 📍Philippines 🇵🇭
+      ☆ Winner of Best Makeup Artist in Guatemala #anastasiabeverlyhills ☆ Professional Makeup Artist ☆ Christian ☆ Beauty blogger
     location: "United States"
-    followers: 7006
-    engagement: 962
-    commentsToLikes: 0.125406
-    id: ck9haz26xenzm0j78zjktpxm2
+    followers: 41582
+    engagement: 262
+    commentsToLikes: 0.031660
+    id: ck5c7951972ma0i1191bxm7uj
     verified: false
-    hashtags: "#muasfeature, #colorful, #artist, #morphebabe"
-  - username: "christiana.burkhalter"
+    hashtags: "#makeupartist, #makeuplover, #viral, #mishamakeup"
+  - username: "nataliebennettvlogs"
     fullname: >-
-      Christiana
+      Natalie Bennett 🪴
     bio: >-
-      khs dulcinea tiktok ~ christiana.b4 youtube ~ christiana burkhalter
+      ➕Minimalist Mama of 3 who enjoys sharing the coziness in the chaos. 🖤 #christian #youtuber #minimalmom #hygge #minimalism #twinmom links are affiliate
     location: "United States"
-    followers: 17473
-    engagement: 2724
-    commentsToLikes: 0.034404
-    id: ck9ha0bikaoja0j781i33knhv
+    followers: 46948
+    engagement: 360
+    commentsToLikes: 0.055935
+    id: ck6tvt60uo4wi0j71mvd8zkjy
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "emmakkusk"
-    fullname: >-
-      Emma Kusk - YourStylistBlonde
-    bio: >-
-      A Mix Between Feminine and Trendy Style 💐 Wife In Michigan 📍 Mom To Be 🤰🏼 Always Baking Something 🧁 Christian 💕
-    location: "United States"
-    followers: 5633
-    engagement: 967
-    commentsToLikes: 0.270691
-    id: ck9h9m0rh90os0j78fclezly8
-    verified: false
-    hashtags: "#ltkbump, #michiganblogger, #ltkshoecrush, #affordablefashion"
-  - username: "christian_seavey"
-    fullname: >-
-      Christian Seavey
-    bio: >-
-      Represented by Esprit Talent Agency Inquiries: seavey.christian@gmail.com He/him/his
-    location: "United States"
-    followers: 264365
-    engagement: 1476
-    commentsToLikes: 0.028737
-    id: ck1373i2g9l3i0i19gddo0u9v
-    verified: false
-    hashtags: "#ad, #gooduncommonscents"
+    hashtags: "#shopsmall, #jesuslovesyou, #ad, #joytotheworld"
 ---

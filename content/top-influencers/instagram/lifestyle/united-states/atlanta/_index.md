@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Atlanta in 2023
+title: Top 10 Lifestyle Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #lifestyle #atl.
+  Find top lifestyle Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #lifestyle #model.
 platform: Instagram
-hits: 211
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 211 Instagram influencers like this in Atlanta, United States for you to collaborate.
+hits: 271
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 271 Instagram influencers like this in Atlanta, United States for you to connect with.
 profiles:
-  - username: "fitlaurenelizabeth"
-    fullname: >-
-      LAUREN JOHNSON
-    bio: >-
-      health + fitness + lifestyle atlanta, ga @laurenelizzz / @peak_barbell
-    location: "United States"
-    followers: 3152
-    engagement: 1012
-    commentsToLikes: 0.069622
-    id: ckf5ox8t145550j23kd990qay
-    verified: false
-    hashtags: ""
-  - username: "iyamcurlz"
-    fullname: >-
-      Maura,🌻
-    bio: >-
-      CA ✈ A T L 🇮🇹 📸: @lsfotography1
-    location: "United States"
-    followers: 4559
-    engagement: 739
-    commentsToLikes: 0.060962
-    id: ck6uhzfl8c5js0j7121ymd1k6
-    verified: false
-    hashtags: "#longhair, #italian, #lifestyle, #atlanta"
-  - username: "aylaelizabeth"
-    fullname: >-
-      Ayla
-    bio: >-
-      The University of Alabama Graduate FL —-> Atlanta Lifestyle Blogger @revolve ambassador For all collaboration inquiries, please email me.
-    location: "United States"
-    followers: 24220
-    engagement: 439
-    commentsToLikes: 0.191176
-    id: ck0u1c9svwj830i19k0bqkiet
-    verified: false
-    hashtags: "#ltkstyletip, #revolveme, #revolveambassador, #liketkit"
-  - username: "laurenlefevre"
-    fullname: >-
-      Lauren Lefevre/Edit by Lauren
-    bio: >-
-      👗👠💄🏠 Fashion, Clean Beauty, Home Decor & Lifestyle 📍Atlanta 🍑 👫 Mama of boy/girl twins 💻 Blog :: www.editbylauren.com SHOP MY OUTFITS ⬇️
-    location: "United States"
-    followers: 118514
-    engagement: 68
-    commentsToLikes: 0.048270
-    id: ck15ruwtd9u1w0i19ublnncme
-    verified: false
-    hashtags: "#founditonamazon, #liketkit, #amazonfashion, #walmartfashion"
-  - username: "mcmbrownfield"
-    fullname: >-
-      Mary Catherine Brownfield
-    bio: >-
-      Atlanta Lifestyle Photographer Black & Whites: @mcb.bw
-    location: "United States"
-    followers: 7363
-    engagement: 517
-    commentsToLikes: 0.085184
-    id: ck0ubyszufo1h0i19d8ikfkbz
-    verified: false
-    hashtags: ""
-  - username: "kingfuselit"
-    fullname: >-
-      EL-Fuser
-    bio: >-
-      https://youtu.be/CQkoW3S8BK8
-    location: "United States"
-    followers: 22993
-    engagement: 191
-    commentsToLikes: 0.060984
-    id: ck6uhze5ic58u0j71fzx45bas
-    verified: false
-    hashtags: "#fashion, #lifestyle, #paris, #atlanta"
-  - username: "notbasicblonde_"
-    fullname: >-
-      Olyasha~NotBasicBlonde
-    bio: >-
-      Entrepreneur, blogger, traveler, model& influencer! 📍Atlanta 🎙@nbbpodcast 💖@notbasicblonde_community Partnerships💵📩notbasicblonde.collab@gmail.com
-    location: "United States"
-    followers: 527963
-    engagement: 15
-    commentsToLikes: 0.716975
-    id: ck55m28hw30pf0i11eaifuoy6
-    verified: false
-    hashtags: "#podcaster, #instagood, #selfcare, #podcasts"
-  - username: "thelifebynate"
-    fullname: >-
-      Nate • Entertainment Lifestyle
-    bio: >-
-      🎥Movies🎬 🌎Travel 😎Life 🤙🏽Fun People Change, Pictures Don't • No matter what, believe in yourself, Tremendously • ⬇️Order your mask here⬇️
-    location: "United States"
-    followers: 8639
-    engagement: 328
-    commentsToLikes: 0.059876
-    id: ckf5smz3efv1k0j23bf46un6e
-    verified: false
-    hashtags: "#atl, #mask, #iamlife, #atlanta"
   - username: "chrisandregtravel"
     fullname: >-
       Chris and Reg Travel - Atlanta
     bio: >-
-      HOSPITALITY | WINE/SPIRITS | LIFESTYLE CONTENT CREATORS #atlantablogger TikTok: @adventuresofchrisandreg Mixed🙋🏼‍♀️🙋🏿‍♂️Married🥂Making Memories✈
+      TRAVEL| WINE/SPIRITS | LIFESTYLE #atlantablogger #contentcreator Promoting #Diversity and #Inclusion in Travel and Lifestyle! ⬇️VIEW MEDIA KIT HERE⬇️
     location: "United States"
-    followers: 61916
-    engagement: 680
-    commentsToLikes: 0.051732
+    followers: 59522
+    engagement: 683
+    commentsToLikes: 0.028177
     id: ckf5m5m1lscu60j230bu14xjm
     verified: false
-    hashtags: "#travelcouples, #canont6i, #bmww, #lifestylecouple"
-  - username: "zoegowen"
+    hashtags: "#atlantaphotographer, #savannahgeorgia, #travelingislife, #canonusa"
+  - username: "jaelenmitchell"
     fullname: >-
-      Zoë Gowen
+      NaturalReign
     bio: >-
-      Curious House Hunter | Atlanta Homes & Lifestyles Editor
+      Natural Hair/ Lifestyle Atlanta Email: Jaelen@preferencepr.com YouTube 256K+ 👇🏽Travel With Me👇🏽
     location: "United States"
-    followers: 4022
-    engagement: 986
-    commentsToLikes: 0.077080
-    id: ck6u11ja7j0ak0j7194d9tyfn
+    followers: 127451
+    engagement: 1343
+    commentsToLikes: 0.009708
+    id: ck0ua7h36bnzw0i19woeqezvt
     verified: false
-    hashtags: "#alwaystrespassingsomewhere, #atlantahomesandlifestyles, #atlantahomes, #detailsmatter"
+    hashtags: "#teamipartner, #splitendmender, #ad, #reel"
+  - username: "jyoungmdk"
+    fullname: >-
+      🆈🅾🆄🅽🅶
+    bio: >-
+      𝐁𝐨𝐨𝐤𝐢𝐧𝐠𝐬@𝐉𝐲𝐨𝐮𝐧𝐠𝐌𝐃𝐊.𝐜𝐨𝐦 50 🆂🅾🅽🅶🆂 50 🆆🅴🅴🅺🆂 3 🅰🅻🅱🆄🅼🆂 AQUA | BLACK | WHITE “The App That Stole Christmas” On Netflix @beforeigohollywood
+    location: "United States"
+    followers: 407096
+    engagement: 396
+    commentsToLikes: 0.016388
+    id: ck15tq0j2jbtz0i192e2lx2ck
+    verified: true
+    hashtags: "#repost, #3albums3months, #lasvegas, #happyvalentinesday"
+  - username: "austin.d.samuel"
+    fullname: >-
+      Austin D.H Samuel
+    bio: >-
+      A wise man once said nothing🤫#moveinsilence Gods Will🏗🏚
+    location: "United States"
+    followers: 3006
+    engagement: 1730
+    commentsToLikes: 0.071109
+    id: ck6u45k8t1tc00j71e01uz3cf
+    verified: false
+    hashtags: "#columbia, #realestate, #hamiltonhomes, #morelife"
+  - username: "laurenlefevre"
+    fullname: >-
+      Lauren Lefevre•Edit by Lauren
+    bio: >-
+      👗👠💄🏠 Fashion, Clean Beauty, Home Decor & Lifestyle 📍Atlanta 🍑 👫 Mama of boy/girl twins 💻 Blog :: www.editbylauren.com SHOP MY OUTFITS ⬇️
+    location: "United States"
+    followers: 117500
+    engagement: 56
+    commentsToLikes: 0.058784
+    id: ck15ruwtd9u1w0i19ublnncme
+    verified: false
+    hashtags: "#spring2021, #atlantaopen, #ad, #nsale"
+  - username: "mcmbrownfield"
+    fullname: >-
+      Mary Catherine Brownfield
+    bio: >-
+      Atlanta Lifestyle Photographer Black & Whites🤍@mcb.bw
+    location: "United States"
+    followers: 9046
+    engagement: 466
+    commentsToLikes: 0.068670
+    id: ck0ubyszufo1h0i19d8ikfkbz
+    verified: false
+    hashtags: "#hydrangeaheaven"
+  - username: "reelrodman"
+    fullname: >-
+      Rodman Randolph
+    bio: >-
+      SAG Email for Bookings 👇🏽 ‘Brock’ from @cwlegacies Actor @landrumartsla Model @ngmmodeling
+    location: "United States"
+    followers: 6117
+    engagement: 340
+    commentsToLikes: 0.131510
+    id: ck8tdrj8p4iia0j78oalebhat
+    verified: false
+    hashtags: "#atlantamodel, #lifestyleblogger, #atlantafashion, #fashionweek"
+  - username: "fashionado"
+    fullname: >-
+      Fashionado
+    bio: >-
+      Host & Anchor of the @art_institutes AILIVE and creator of FASHIONADO.net -a fashion & lifestyle brand. Founder: DOTC Foundation @doggiesonthecatwalk
+    location: "United States"
+    followers: 8189
+    engagement: 192
+    commentsToLikes: 0.026186
+    id: ck5c55fmu2ro20i11x8gpfuaj
+    verified: false
+    hashtags: "#nyfw, #linkinbio, #model, #artinstitute"
+  - username: "malaysiafari"
+    fullname: >-
+      M A L A Y S I A
+    bio: >-
+      ◾️Bermudian ◾️#GSU ‘21 #collegegirl 🎓AABA 🔜 BBA ❕you weren’t made to please everybody Subscribe👇🏽
+    location: "United States"
+    followers: 2755
+    engagement: 2306
+    commentsToLikes: 0.030403
+    id: ck5q6ez2hx4fn0i118fkn8lad
+    verified: false
+    hashtags: "#malaysiafari, #noactright, #21andhavingfun, #blackouttuesday"
+  - username: "candyrichards__"
+    fullname: >-
+      Candy Richards
+    bio: >-
+      🎬 i act & sometimes i act a fool😜 VH1 Reality TV Veteran 📺 📍 NC 🚘 ATL 🇱🇷 Liberian Girl CEO: @crichcollection_ ❤️ WSSU Alum • MBA🎓 MGNT: @ludiamonds
+    location: "United States"
+    followers: 20488
+    engagement: 257
+    commentsToLikes: 0.091752
+    id: ck5hrkhwkv0mv0i11infjvvw6
+    verified: false
+    hashtags: "#explorepage, #contentcreator, #model, #atlphotography"
 ---

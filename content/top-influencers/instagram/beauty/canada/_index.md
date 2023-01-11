@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Canada in 2023
+title: Top 10 Beauty Instagram Influencers In Canada In 2023
 description: >-
-  Find top beauty Instagram influencers in Canada in 2023. Most popular hashtags: #makeup #fashion #mua.
+  Find top beauty Instagram influencers in Canada in 2023. Most popular hashtags: #ad #skincareproducts #skincareroutine.
 platform: Instagram
-hits: 1680
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database holds 1680 Instagram influencers like this in Canada for you to connect with.
+hits: 800
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 800 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "sofsenisi"
+  - username: "enigivensunday"
     fullname: >-
-      Sof senisi👑💖✨
+      Eni Popoola | NYC Blogger
     bio: >-
-      📚UofGH | Business ✨Affordable Fashion + Beauty + Lifestyle 💌Collab Inquiries: sofiasenisi@gmail.com 📍Canada ￼⬇️Join FB Group #StuntinWithSof
+      ⚖️Columbia Law alumna 💄beauty lover ✨ trying to live my best blessed & balanced life 🎥 #SephoraSquad ‘22 📧 enipopoola@enigivensunday.com
     location: "Canada"
-    followers: 5984
-    engagement: 1955
-    commentsToLikes: 0.268103
-    id: ckap0fxu8q3qd0i781qxasrxq
+    followers: 120230
+    engagement: 663
+    commentsToLikes: 0.011475
+    id: ck5hi7xnuc41l0i11lv2p1q6j
     verified: false
-    hashtags: "#urbanplanet, #makeup, #glammakeup, #loungeunderwear"
-  - username: "nouhaila_ytb"
+    hashtags: "#makeupforblackwomen, #melaninmakeupdaily, #nycblogger, #makeuptutorial"
+  - username: "skin.and.scrubs"
     fullname: >-
-      Nouhaïla 💕
+      Stefanie
     bio: >-
-      Founder & ceo @noha_cosmetics ✨ Content creator & beauty expert 🌸 My Youtube Channel (400k of beauties) 📽
+      med student | skincare & beauty | self-care queen | 🇨🇦 reviews, recos, routines 💌skinandscrubs18@gmail.com 👇discounts, support, shop my faves
     location: "Canada"
-    followers: 327958
-    engagement: 993
-    commentsToLikes: 0.030531
-    id: ck6uc606cdq5f0j712nt83wz7
+    followers: 7875
+    engagement: 465
+    commentsToLikes: 0.274806
+    id: cl45xxt82jicz0i23w3as78e0
     verified: false
-    hashtags: ""
-  - username: "harleens3khon"
+    hashtags: "#skincaretips, #skinfluencer, #creamblush, #makeuptips"
+  - username: "mel77wa"
     fullname: >-
-      Harleen Sekhon
+      Melanie Roy
     bio: >-
-      Toronto | @artbyharleensekhon Beauty • Fashion • Art Collab/PR 📧 harleensekhonofficial@gmail.com
+      Part-time wanderer | full-time mommy<3 Mel77wa@gmail.com • Made in *•🇨🇦•* • Family Travel | clean beauty | ethical + sustainable living | slow fashion
     location: "Canada"
-    followers: 2652
-    engagement: 2026
-    commentsToLikes: 0.135663
-    id: ckf5o291c0m3d0j232y4q9oxq
+    followers: 20412
+    engagement: 284
+    commentsToLikes: 0.235919
+    id: cksa05djdjbis0j23qso5olea
     verified: false
-    hashtags: "#revolveme, #outfitideas, #fashionblogger, #mirrorselfie"
+    hashtags: "#jackandjillkids, #loveverybaby, #receiptjar, #trainingpants"
+  - username: "emmaleger"
+    fullname: >-
+      Emma Rose
+    bio: >-
+      lifestyle, fashion & beauty co-founder @justscoutit 🎙 @thatssosabotage shop + youtube:
+    location: "Canada"
+    followers: 616423
+    engagement: 230
+    commentsToLikes: 0.007082
+    id: ck0u9okoraduk0i19air3hp4u
+    verified: false
+    hashtags: "#doubles, #mkxellesse, #mkpartner, #tiffanypartner"
+  - username: "coraliescloset"
+    fullname: >-
+      Coralie
+    bio: >-
+      Fashion + a splash of beauty! Ottawa 🇨🇦🇭🇹 For collaboration: coraliescloset1@gmail.com Watch my latest YT video & shop my looks👇🏽
+    location: "Canada"
+    followers: 9923
+    engagement: 202
+    commentsToLikes: 0.189346
+    id: cktgpaq2w9uck0j23bmor3phs
+    verified: false
+    hashtags: "#minimalstyle, #golddetails, #longsleevedress, #newyearsoutfit"
+  - username: "megscoastallife"
+    fullname: >-
+      Meg || Cat lady status || Canadian content creator
+    bio: >-
+      🇨🇦 Eco home | Clean beauty | Shop local 🐈‍⬛ #mainecoonlife 4Ocean and Necessaire ambassador
+    location: "Canada"
+    followers: 38961
+    engagement: 192
+    commentsToLikes: 0.368051
+    id: ckt8qtag068rb0j23y4meke3o
+    verified: false
+    hashtags: "#burlont, #canadianblog, #ad, #wanderlusting"
+  - username: "jessundecided"
+    fullname: >-
+      JESS
+    bio: >-
+      ➕ fashion + beauty … & a little bit of everyday life ➕helping you build your forever wardrobe ➕#Guelph & #Toronto 📹 DEC VLOG …
+    location: "Canada"
+    followers: 63336
+    engagement: 138
+    commentsToLikes: 0.043414
+    id: ck0u8kd1k7iej0i19hlwflg0p
+    verified: false
+    hashtags: "#kitchenaidlove, #falloutits, #fallshoes, #teammcds"
   - username: "kgmtl"
     fullname: >-
       Katherine Garbarino
     bio: >-
       Founder @girlslivingwell ✨ 👩🏽‍🤝‍👩🏻 Your virtual BFF 🍋 Health & Wellness 💅🏽 Beauty & Skincare 🎞 Daily Tips & Tricks 💌 emma@kg-mtl.com
     location: "Canada"
-    followers: 72129
-    engagement: 520
-    commentsToLikes: 0.124757
+    followers: 89793
+    engagement: 379
+    commentsToLikes: 0.009993
     id: ck55ke17yz3wj0i11cnnamu23
     verified: false
-    hashtags: "#crueltyfree, #sustainablefashion, #kgmtlxardene, #glossup"
-  - username: "rachelsavaunnah"
+    hashtags: "#protectyoface, #kgmtlxardene, #welcometothelowerlevel, #dondala"
+  - username: "pinklablonde"
     fullname: >-
-      RAE SAVAUNNAH • T.O BLOGGER
+      PINKLABLONDE
     bio: >-
-      Lifestyle • Beauty • Fashion 📍🇨🇦 Let’s Collab👉🏿 💌 savaunnah.rachel@gmail.com @hautelash.xyz • ✝️🛍💄👶🏻 #beauty #fashion #lifestyle #boymom ⇣✨👇🏿👀👇🏿✨⇣
+      👱🏻‍♀️ Marie-Anne Labrie 🎨 HAIR EDUCATOR 👸🏼 Beauty & Fashion ADDICT 💻 Currently working on @pinklablondeclub
     location: "Canada"
-    followers: 6256
-    engagement: 1151
-    commentsToLikes: 0.574121
-    id: ck5zz5d5vb4450i140detajo0
+    followers: 27866
+    engagement: 318
+    commentsToLikes: 0.034537
+    id: ckf5qq8c4a79j0j23w6w2ve3z
     verified: false
-    hashtags: "#prettylittlething, #faith, #plt, #pltstyle"
-  - username: "mimis_signature"
+    hashtags: "#grateful, #styleandcolourtrophy, #shameonme"
+  - username: "harleens3khon"
     fullname: >-
-      Mimi’s Signature | Makeup
+      Harleen Sekhon
     bio: >-
-      Beauty Content Creator 🇨🇦/🇫🇷 90k Youtube Découvre le nouveau site Marcelle cosmetis👇🏼 #makeup #beauty #youtube 💌 mimisbusinessdev@gmail.com
+      Toronto | @designbyharleen fashion • beauty • art Collab/PR 📧 harleensekhonofficial@gmail.com
     location: "Canada"
-    followers: 25821
-    engagement: 549
-    commentsToLikes: 0.062869
-    id: ck5zp2vtorvsy0i14c63wht3o
+    followers: 3271
+    engagement: 966
+    commentsToLikes: 0.169015
+    id: ckf5o291c0m3d0j232y4q9oxq
     verified: false
-    hashtags: "#makeup, #mindfulness, #travelphotography, #voyage"
-  - username: "cherieleexo"
-    fullname: >-
-      Chérie | Vancouver | NYC | LA
-    bio: >-
-      📍currently in: Vancouver, BC Beauty in simplicity ♡ - donut fanatic - 📩 Say hello ♥ Cheriewslee98@gmail.com
-    location: "Canada"
-    followers: 21038
-    engagement: 588
-    commentsToLikes: 0.100670
-    id: ck14gyvqv7pbf0i19rih1bdkc
-    verified: false
-    hashtags: "#vancouver, #explorecanada, #vancouvertrails, #foryou"
-  - username: "samhz"
-    fullname: >-
-      SAM HOSHIZAKI
-    bio: >-
-      ☀️Model by day, ER Nurse By Night🌙 Fashion Beauty Lifestyle @samhzdesigns 🐯 Youtube: SAMHZ 💌Email or DM to COLLAB ⬇️Click to shop my clothing line⬇️
-    location: "Canada"
-    followers: 17015
-    engagement: 1728
-    commentsToLikes: 0.040606
-    id: ck5q1x1uld76n0i11nycgzmfr
-    verified: false
-    hashtags: "#pixiepartner, #mypixiemood, #giveaway"
-  - username: "thestylishwordsmith"
-    fullname: >-
-      𝐝𝐞𝐛𝐛𝐢𝐞 𝐩𝐨𝐡
-    bio: >-
-      〰 𝕒 𝕝𝕠𝕧𝕖𝕣 𝕠𝕗 𝕨𝕠𝕣𝕕𝕤 + 𝕤𝕥𝕪𝕝𝕖 conscious fashion ➕ beauty ➕ travel ✞ follower 💌: thestylishwordsmith@gmail.com ✨ @olay_canada partner✖️#faceanything
-    location: "Canada"
-    followers: 18950
-    engagement: 1003
-    commentsToLikes: 0.541592
-    id: ck14itmkxh4140i19bnzl0j3q
-    verified: false
-    hashtags: "#dailyhivestyle, #reweardontcare, #vancouverblogger, #hemlockandoak"
-  - username: "rebeccarkassab"
-    fullname: >-
-      Rebecca R. Kassab
-    bio: >-
-      Seek your inner peace🕊 † لتكن مشيئتك ✨𝐸𝓍𝓉𝑒𝓇𝒾𝑜𝓇 𝒢𝓁𝒶𝓂✨ ▫️Masters in Telecom Engineering ▫️Political science ▫️Fx Trading #Fashion#Beauty#LifeStyle
-    location: "Canada"
-    followers: 74065
-    engagement: 388
-    commentsToLikes: 0.049541
-    id: ck5cfoqmmncwz0i11vy9hgawb
-    verified: false
-    hashtags: "#family, #fiance, #italian, #closeup"
+    hashtags: "#aesthetic, #zarawoman, #longhairgoals, #neutralfashion"
 ---

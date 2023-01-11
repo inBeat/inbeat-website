@@ -1,48 +1,48 @@
 ---
-title: Top 10 Christian TikTok Influencers In Germany in 2023
+title: Top 10 Christian TikTok Influencers In Germany In 2023
 description: >-
-  Find top christian TikTok influencers in Germany in 2023. Most popular hashtags: #duett #foryou #germany #fyp.
+  Find top christian TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fy #foryoupage #viral.
 platform: TikTok
-hits: 51
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 51 TikTok influencers like this in Germany for you to work with.
+hits: 43
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 43 TikTok influencers like this in Germany for you to connect with.
 profiles:
-  - username: "bmwvany"
-    fullname: >-
-      Bmw_vany
-    bio: >-
-      🔐❤️ @christianmaximilian 📍Lev @_beauty_and_the_beast_ #vany_und_chris
-    location: "Germany"
-    followers: 4147
-    engagement: 1866
-    commentsToLikes: 0.045324
-    id: ck9er9z3t0wbk0j78z42wecgh
-    verified: false
-    hashtags: "#mylevismyvibe, #eswirdbunt, #gl, #seatsounds"
   - username: "lisbeth_lissi_chris"
     fullname: >-
       Heterochromia_chris
     bio: >-
-      👵🏼lisbeth_lissi 👦🏻christian_kroemer ——————— ☕️ Kaffee jetzt bestellen:
+      👵🏼lisbeth_lissi 👦🏻christian_kroemer ——————— 💥 HIER ZUM YOUTUBE WORKOUT ❤️
     location: "Germany"
-    followers: 453000
-    engagement: 850
-    commentsToLikes: 0.017705
+    followers: 532000
+    engagement: 868
+    commentsToLikes: 0.024604
     id: ckafts0c46n2s0i782otshf8k
+    verified: true
+    hashtags: "#oma, #familie, #fy, #grandma"
+  - username: "its.alisha1"
+    fullname: >-
+      Alisha
+    bio: >-
+      ✨Alisha J❤️
+    location: "Germany"
+    followers: 2022
+    engagement: 1111
+    commentsToLikes: 0.043555
+    id: ckcpu5jv8p3nl0j23n380rsig
     verified: false
-    hashtags: "#oma, #ninjawarrior, #fyp, #duett"
+    hashtags: "#newborn, #babysoftiktok, #fyp, #viral"
   - username: "mia_partait"
     fullname: >-
       Mrs.Snape🖤
     bio: >-
       ⚡HP-Content only🐍 💎Mrs. Snape💍 ✝️ 💚17🖤 ✊🏼✊🏽✊🏾✊🏿
     location: "Germany"
-    followers: 17000
-    engagement: 2141
-    commentsToLikes: 0.044528
+    followers: 16800
+    engagement: 2075
+    commentsToLikes: 0.041701
     id: cka9ltku733g30i788c0qts2k
     verified: false
-    hashtags: "#snapetok, #severussnape, #harrypotter, #marauders"
+    hashtags: "#severussnape, #potterhead, #fyp, #duett"
   - username: "misterchaotic"
     fullname: >-
       Joschi
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.084990
     id: cka8i9vzbefdi0i78xo5sen59
     verified: false
-    hashtags: "#deutschesongs, #foryoupage, #lipsync, #acting"
-  - username: "ruths1217"
-    fullname: >-
-      Ruth Mefodong
-    bio: >-
-      
-    location: "Germany"
-    followers: 25100
-    engagement: 885
-    commentsToLikes: 0.069881
-    id: cka8eepntx1v20i78z6qc9f04
-    verified: false
-    hashtags: "#fallyipupa001, #music, #fingontralala, #fallyipupa"
-  - username: "seemelih"
-    fullname: >-
-      See Melih ✨
-    bio: >-
-      Melih Shen-Hao Heidelberg/Stuttgart Asian Guy 🇹🇷🇨🇳🇺🇿 #uyghur
-    location: "Germany"
-    followers: 69100
-    engagement: 1219
-    commentsToLikes: 0.036078
-    id: ckbqw4e7bgakv0j236ketwd85
-    verified: false
-    hashtags: "#heidelberg, #stuttgart, #german, #fyp"
+    hashtags: "#funnyvideos, #supersong, #lieblingsmensch, #crewlove"
   - username: "elinagerlach1"
     fullname: >-
       Elina Gerlach
     bio: >-
-      Jesus❤️✝️19 y.o🇺🇦 folgt mir für mehr in Instagram :gerlachelina ❤️
+      Cooperationen - - > gerlachelina4@gmail.com 19 y.o.
     location: "Germany"
-    followers: 270500
-    engagement: 1407
-    commentsToLikes: 0.018393
+    followers: 453300
+    engagement: 1468
+    commentsToLikes: 0.019877
     id: ckfpm16pd19r50j23trpgg50d
     verified: false
-    hashtags: "#pregnant, #jesus, #foryoupage, #foryou"
-  - username: "yaten82"
+    hashtags: "#youngmama, #baby, #bibel, #foryou"
+  - username: "jolinasew"
     fullname: >-
-      yaten
+      Jolina
     bio: >-
-      ❤⚓Mein TT-Anker @seusell_juli ❤⚓ 📍Berlin 😂 viele lustige Videos 😂
+      • 𝐼’𝓁𝓁 𝒷𝑒 𝓅𝓇𝒶𝓎𝒾𝓃𝑔 𝒻𝑜𝓇 𝓉𝒽𝑒 𝒻𝒶𝒾𝓉𝒽𝓁𝑒𝓈𝓈✞ • 2520💍 • queer
     location: "Germany"
-    followers: 12600
-    engagement: 1211
-    commentsToLikes: 0.139246
-    id: cka863tci0w9r0i78frhnol80
+    followers: 9616
+    engagement: 1288
+    commentsToLikes: 0.083036
+    id: cka8ey0x9zy900i78ep8r7mpt
     verified: false
-    hashtags: "#tomboy, #zuckerhut, #sound, #duett"
+    hashtags: "#queer, #slowmo, #tiktok, #lipsync"
+  - username: "fero72_"
+    fullname: >-
+      Fero72
+    bio: >-
+      72 GANG 👻Kurdo.72
+    location: "Germany"
+    followers: 3162
+    engagement: 1732
+    commentsToLikes: 0.043941
+    id: ckb8z6knueg460j23flygyvpe
+    verified: false
+    hashtags: "#corona, #72gang, #foryou, #mero"
   - username: "peskeloglou"
     fullname: >-
       Fafa💕
     bio: >-
       No you don’t know me 17
     location: "Germany"
-    followers: 8648
-    engagement: 1123
-    commentsToLikes: 0.075957
+    followers: 8417
+    engagement: 1630
+    commentsToLikes: 0.033880
     id: ckcdxugjogb530j23rtomo7vy
     verified: false
-    hashtags: "#weeb, #viral, #xyzbca, #fyp"
-  - username: "weirtsdafpvf"
+    hashtags: "#foryou, #viral, #fyp, #fy"
+  - username: "jovana_097"
     fullname: >-
-      Luv Reyn's
+      Jovana
     bio: >-
-      Dey Lie Reall Live Comedy ❤️ Luv Rein ❤️ ICH SPIELE EINE ROLLE ❣️
+      ig: jovana_097 🇲🇰/ 🇩🇪 Volleyball 🏐 ✝️
     location: "Germany"
-    followers: 4445
-    engagement: 182
-    commentsToLikes: 0.320357
-    id: ckbwfmc1x22qr0j23lvr70bgu
+    followers: 8576
+    engagement: 1652
+    commentsToLikes: 0.029476
+    id: ckcdw2r1nfdx10j23bxj0jz53
     verified: false
-    hashtags: "#luv, #outsider, #live, #sch"
+    hashtags: "#foryou, #fyp, #foryoupage, #lilpeep"
+  - username: "lisschenandsasa"
+    fullname: >-
+      Lisa💗 & Sarah💗
+    bio: >-
+      Instagram •Sarah: sarah__1510🙋🏽‍♀️ •Lisa. : lisq.mck🙋🏼‍♀️
+    location: "Germany"
+    followers: 6376
+    engagement: 1407
+    commentsToLikes: 0.040354
+    id: ck9eja60n1rvn0j78wmfqxu5y
+    verified: false
+    hashtags: "#2021, #foryou, #corona, #foryoupage"
 ---

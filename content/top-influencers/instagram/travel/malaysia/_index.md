@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Malaysia in 2023
+title: Top 10 Travel Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top travel Instagram influencers in Malaysia in 2023. Most popular hashtags: #holiday #sudiomoments #style #fashion.
+  Find top travel Instagram influencers in Malaysia in 2023. Most popular hashtags: #cuticutimalaysia #travel #travelphotography #tanned.
 platform: Instagram
-hits: 197
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 197 Instagram influencers like this in Malaysia for you to pitch.
+hits: 125
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 125 Instagram influencers like this in Malaysia for you to work with.
 profiles:
-  - username: "dearkiki"
+  - username: "dududedoodle"
     fullname: >-
-      DearKiki
+      DuDu Kent
     bio: >-
-      Dreamer ✨ Traveller ✨ Designer 🇲🇾 Penang, Malaysia ✉️ Dearkikitravel@gmail.com
+      Art, Coffee, Food and Travel #DuDuXplores #DuDuCoffeeArt ✉️dududedoodle@gmail.com
     location: "Malaysia"
-    followers: 16071
-    engagement: 1255
-    commentsToLikes: 0.060291
-    id: ckf5us823m3zl0j234bkncs06
+    followers: 60959
+    engagement: 153
+    commentsToLikes: 0.005005
+    id: ck136puxd7ocb0i19eu71b4fl
     verified: false
-    hashtags: "#vietnamdestinations, #danangtrip, #vietnam, #vietnamnow"
-  - username: "fishyfished"
+    hashtags: "#dududedoodle, #igfeedsmenarik, #coffeepainting, #my"
+  - username: "yixuenn_travellife"
     fullname: >-
-      F I S H Y | MIR ⚜️ 創辦人
+      Y I X U E N
     bio: >-
-      TRAVEL / LIFESTYLE / FASHION 🌸💖 : 💍👰🏻 to @iamzeanlim #zeanfishytravels : 🍰 @keikeu.studio | ⚜️ @miracle.group_official : 💌 fishyfished@gmail.com
+      Travel & Lifestyle 🤿 SCUBA DIVER | FREEDIVER | MERMAID🧜🏻‍♀️ 🌍 @yixuenn_freedive 📕小红书: yixuenn_travellife DM for sponsorship/events/collab
     location: "Malaysia"
-    followers: 7155
-    engagement: 836
-    commentsToLikes: 0.110737
-    id: ck0w0bgq0dcxi0i19xlwjcp38
+    followers: 34052
+    engagement: 70
+    commentsToLikes: 0.029388
+    id: ck9haaripbtpg0j78xe6xqf99
     verified: false
-    hashtags: "#sudiomoments, #sudio, #zeanfishytravels, #hylt"
-  - username: "a.helmiy"
+    hashtags: "#travelphotography, #scubadiver, #bikini, #christmas"
+  - username: "sueannekang"
     fullname: >-
-      Helmiy
+      Sueanne 施格
     bio: >-
-      ⦿ Lifestyle | Fitness | Travel ⦿ Email or DM for Collab | Photoshoot 📸 . ↓ Sudio 🇸🇪 ↓
+      努力洗版丢回照片中⚠️ TRAVEL ADDICT ✈️✨ FOODIE 🍣 👩‍👦 Penang 🇲🇾 🔗 小红书： sueannekang Food page @sueanneeats #sueanneeats #sueannetravel #sueannestaycation ♥️
     location: "Malaysia"
-    followers: 16876
-    engagement: 802
-    commentsToLikes: 0.033709
-    id: ck0w5h7td3muv0i19xmzsjf0d
+    followers: 211331
+    engagement: 65
+    commentsToLikes: 0.016611
+    id: ck5px66voqb0s0i114cja9a4o
     verified: false
-    hashtags: "#smile, #fashion, #foodporn, #happy"
-  - username: "ohmykaylagirl_k"
+    hashtags: "#sueannetravel, #sueanneinlangkawi, #sueanneeats, #cuticutimalaysia"
+  - username: "sellysherwin"
     fullname: >-
-      K A Y L A💋
+      Selly Sherwin
     bio: >-
-      ✈️ Airasia Brand Ambassador 🎥 TV Host channel 5 Influencer Travel | Lifestyle | Beauty | Fashion 📩 DM > For Work
+      #TravellyDiary #OutfitLly Woman Lifestyle •Tiktok [170k] & Youtube [42k]:sellysherwin •📍SBY Inquiries 📩DM/Sherwinselly@gmail.com ⤹ Link Product & New🎥
     location: "Malaysia"
-    followers: 38068
-    engagement: 355
-    commentsToLikes: 0.039907
-    id: ck9ha754wbfqe0j781ij27o2e
+    followers: 81600
+    engagement: 44
+    commentsToLikes: 0.063610
+    id: ck5chnw8sr4qg0i11jvod24bm
     verified: false
-    hashtags: "#flightattendantlife, #lifestyle, #aviationlovers, #style"
+    hashtags: "#racunlly, #charisceleb, #promogopay, #wondelfullindonesia"
+  - username: "feniasworld"
+    fullname: >-
+      Fenia
+    bio: >-
+      Model | Traveller | Influencer | Artist 📸 My pics: 44 countries Manager : @photravel_iphone 📩 feniasworld@gmail.com 📌Malaysia @sazzito
+    location: "Malaysia"
+    followers: 53301
+    engagement: 349
+    commentsToLikes: 0.044948
+    id: ck60029k1ctu60i14dgo1jhth
+    verified: false
+    hashtags: "#girl, #beach, #valentineday, #smile"
   - username: "ritanassiri"
     fullname: >-
       RITA NASSIRI ✨ Traveling Soul
     bio: >-
       🌏 Travel • Learn • Grow 🌴 #NatureAddict ❤️ Self-Love & Positive Thinking 💫 📍 Cosmopolitan “Nationalism is an infantile disease” A.Einstein
     location: "Malaysia"
-    followers: 27857
-    engagement: 1030
-    commentsToLikes: 0.012217
+    followers: 31686
+    engagement: 770
+    commentsToLikes: 0.014109
     id: ck55jfqrnwxqs0i11c5cvf3ig
     verified: false
-    hashtags: "#asmr"
-  - username: "dearcristina"
+    hashtags: "#chefchaouen, #reels, #morocco, #travelphotography"
+  - username: "ohmykaylagirl_k"
     fullname: >-
-      CRISTINA CHEW | Modest Fashion
+      K A Y L A💋
     bio: >-
-      ✈️Next:Nepal🇳🇵 🌎Solo Traveller 💄Beauty Junkie 🎥Content Creator 🤲🏻Muslim Baby 🐱@fluffy.cutie.cat | Fb: Dearcristina | Youtube & Tiktok: CristinaChew
+      ✈️ Airasia Brand Ambassador 💸 Entrepreneur Travel | Lifestyle | Business **Living my best everyday life😉🇨🇭**
     location: "Malaysia"
-    followers: 62705
-    engagement: 151
-    commentsToLikes: 0.050313
-    id: ck6tqd611qrtu0j71yyygsy5i
+    followers: 40502
+    engagement: 361
+    commentsToLikes: 0.027983
+    id: ck9ha754wbfqe0j781ij27o2e
     verified: false
-    hashtags: "#asianskincare, #exploreborneo, #kuchingsarawak, #malaysianig"
-  - username: "deakenw"
+    hashtags: "#airasia, #flightattendant, #bangkoklife, #beauty"
+  - username: "kayeepo"
     fullname: >-
-      Ken Dea Wardani
+      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
     bio: >-
-      Can't live without traveling, food, culture @saturasabydea / @travelwithmamba / @bukaan.moment 💌 : wardani.deak@gmail.com
+      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella 💻Office : 2335 2305 ☎️ Email : ella.heung@tvb.com.hk 🎥My Latest MV
     location: "Malaysia"
-    followers: 32287
-    engagement: 108
-    commentsToLikes: 0.077093
-    id: ck5bza7hoqqvo0i11sj2dtx1b
-    verified: false
-    hashtags: "#exoticntt, #rindulabuanbajo, #wonderfullindonesia, #exploreflorata"
-  - username: "andreayingg"
+    followers: 170188
+    engagement: 250
+    commentsToLikes: 0.015586
+    id: ck5c5ipe33jpk0i1117y74mln
+    verified: true
+    hashtags: "#happysunday, #love, #youtubechannel, #kayeetam"
+  - username: "rdnwan_"
     fullname: >-
-      Andrea Tan
+      One
     bio: >-
-      🇲🇾🇸🇬 Lifestyle • Travel I do lashes @byandreayingg 🌼 DM/💌 for collab: andreayingg@gmail.com #andreayinggtravels ☁️
+      👨🏻‍💻 Engr ✈️ Millennial Traveler 📱DM for Collab/Review 📩 riduanwahab@icloud.com Get your amazing vaseline men face wash here 🔽
     location: "Malaysia"
-    followers: 31679
-    engagement: 332
-    commentsToLikes: 0.027310
-    id: ckf5n9h01x9wp0j23qmtrsw6h
+    followers: 17432
+    engagement: 435
+    commentsToLikes: 0.021949
+    id: ck0w5h7yk3mw40i1936y3we96
     verified: false
-    hashtags: "#ocglowsquad, #ocmoisturemiracle, #onecarefamily, #youthbeautyhealth"
-  - username: "quetzalcoatl_st"
+    hashtags: "#instagood, #mensfashion, #duitnowqr, #igers"
+  - username: "alfredchia"
     fullname: >-
-      Sebastián | Photography
+      Alfred chia
     bio: >-
-      ❌ Travel and Portrait Photographer 🏋 @quetzalcoatl_7
+      •KUL / PEN •MY 📍 •Travel || Lifestyle || Food || Gym
     location: "Malaysia"
-    followers: 2561
-    engagement: 1274
-    commentsToLikes: 0.190432
-    id: ck6tmhdd67umk0j71ny4k5qn0
+    followers: 22660
+    engagement: 361
+    commentsToLikes: 0.020491
+    id: ck5hk1g5nhmf20i11gwfyg5px
     verified: false
-    hashtags: "#ccbtravels, #girly, #ccbports, #photo"
-  - username: "tachichosz"
-    fullname: >-
-      Atasha A.
-    bio: >-
-      @facetheory DISC 20% (BBTACHICHOSZ) Constantly hungry. TRAVEL • LIFESTYLE • FOOD •🐈 📍KL, Malaysia 🇲🇾
-    location: "Malaysia"
-    followers: 40163
-    engagement: 538
-    commentsToLikes: 0.067594
-    id: ckf5ofhp021w30j23rzue25qx
-    verified: false
-    hashtags: "#timeoutlisbon, #inspo, #agameoftones, #sheisnotlost"
+    hashtags: "#throwback, #workout, #stayathome"
 ---

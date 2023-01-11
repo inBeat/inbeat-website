@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Medellín in 2023
+title: Top 10 Fashion Instagram Influencers In Medellín In 2023
 description: >-
-  Find top fashion Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #fashion #makeup.
+  Find top fashion Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #fashion #medellin #photography.
 platform: Instagram
-hits: 42
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 42 Instagram influencers like this in Medellín, Colombia for you to work with.
+hits: 40
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 40 Instagram influencers like this in Medellín, Colombia for you to work with.
 profiles:
-  - username: "paudazzle"
-    fullname: >-
-      🇵 🇦 🇺 🇩 🇦 🇿 🇿 🇱 🇪
-    bio: >-
-      👩🏼‍💻ʟɪғᴇsᴛʏʟᴇ/ᴛᴇᴄʜ & ᴠɪᴅᴇᴏɢᴀᴍᴇs 🎮 ɢᴀᴍᴇʀ ᴘʀᴏғᴇsɪᴏɴᴀʟ 👾 ʜᴏsᴛ ᴇɴ @lageekweb 🎙️sᴛʀᴇᴀᴍᴇʀ FB.GG/PauDazzle 🚀sᴘᴏɴsᴏʀ: @speedlogiccomputadores 💚ᴘᴜʙʟɪᴄɪᴅᴀᴅ/ᴅᴍ
-    location: "Colombia"
-    followers: 53857
-    engagement: 114
-    commentsToLikes: 0.094028
-    id: ck8t93d4smtm30j785mznfiht
-    verified: false
-    hashtags: "#paudazzle, #cartagena, #photo, #fitness"
-  - username: "adrianabolivars"
-    fullname: >-
-      𝐀𝐃𝐑𝐈𝐀𝐍𝐀 𝐁𝐎𝐋𝐈́𝐕𝐀𝐑 𝐒𝐈𝐌𝐀𝐍𝐂𝐀𝐒
-    bio: >-
-      𝐕𝐈𝐒𝐈𝐓𝐀 𝐌𝐈 𝐓𝐈𝐄𝐍𝐃𝐀 @dreamsgaiaa |𝗦𝗥𝗜𝗧𝗔 𝗚𝗔𝗩𝗜𝗢𝗧𝗔𝗦 𝟮𝟬𝟭𝟵~𝟮𝟬𝟮𝟬| |𝗥𝗘𝗜𝗡𝗔 𝗗𝗘𝗟 𝗗𝗔𝗧𝗧 𝟮𝟬𝟭𝟵~𝟮𝟬𝟮𝟬| |𝗘𝗦𝗧𝗨𝗗𝗜𝗔𝗡𝗧𝗘 𝗗𝗘 𝗙𝗜𝗡𝗔𝗡𝗭𝗔𝗦 𝗬 𝗡𝗘𝗚𝗢𝗖𝗜𝗢𝗦 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟𝗘𝗦| 🇨🇴
-    location: "Colombia"
-    followers: 13172
-    engagement: 1118
-    commentsToLikes: 0.806961
-    id: ck6tyzmpf6seb0j71n7ulzmwa
-    verified: false
-    hashtags: "#colombia, #mexico, #usa, #europe"
   - username: "isabelvesga"
     fullname: >-
-      Isabel Vesga
+      Isa • Designer | Styling
     bio: >-
-      Fashion Designer | Content creator @elementumdesign @itsmariavesga Colombiana
+      Colombian babe 🌈 Lifestyle | Travel | Outfits ⚡️ Founder @itsmariavesga @elementumdesign Links 👇🏽✨
     location: "Colombia"
-    followers: 9419
-    engagement: 363
-    commentsToLikes: 0.034217
+    followers: 9917
+    engagement: 453
+    commentsToLikes: 0.042405
     id: ck8tcsh2n0i9l0j78rd38d8tm
     verified: false
-    hashtags: "#travelphotography, #travel, #fashion, #colombians"
-  - username: "dahyana_ospina26"
+    hashtags: "#blondebalayage, #sheingals, #travel, #makeuplooks"
+  - username: "claudiaariasoficial"
     fullname: >-
-      Dahyana
+      Claudia Arias
     bio: >-
-      📍Medellin 🇨🇴 - Boston 🇺🇸 📚Negocios internacionales UdeM 📈Publicidad al DM 📥 ✈️Mi pasión 🌎
+      #communitymanager #productora #audiovisual #presentadora #locutor De @siguemetv Lcda. #administraciondeempresas #venezolana #colombiana y #casada
     location: "Colombia"
-    followers: 41156
-    engagement: 374
-    commentsToLikes: 0.050503
-    id: ckap73egbigs80i786l4anqws
+    followers: 7537
+    engagement: 488
+    commentsToLikes: 0.134297
+    id: ck9wey9bymeeq0j78xcue3ftv
     verified: false
-    hashtags: "#party, #viral, #reel, #lol"
-  - username: "david_artpe"
+    hashtags: "#productora, #chile, #love, #photo"
+  - username: "vane_eslava"
     fullname: >-
-      David Peñalver Art
+      Vane Eslava
     bio: >-
-      Studygram/ Letras Bonitas “Que todo lo que respire alabe a Dios" Usa mi hashtag #David_artp Suscríbete a mi canal de YouTube:💖
+      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
     location: "Colombia"
-    followers: 25229
-    engagement: 1006
-    commentsToLikes: 0.375321
-    id: ck6tny43sb1al0j712gnsb9rm
+    followers: 43834
+    engagement: 236
+    commentsToLikes: 0.026712
+    id: ckf5su7thg7ru0j23e5gwo5dq
     verified: false
-    hashtags: "#apunteslindos, #studynotes, #brushlettering, #letteringnewbie"
-  - username: "malejagarciagarcia"
+    hashtags: "#model, #portrait, #love, #instagram"
+  - username: "giannimichielin"
     fullname: >-
-      🌎✈️ ᗰᗩᒪᗴᒎᗩ ★·.·´¯
+      Giannina Michielin Roa
     bio: >-
-      ᗰᗴᗪᎥᑕᎥᑎᗩ ᗰᎥ ᑭᖇᗝᖴᗴᔕᎥóᑎ, ᑕᗝᗰᗴᖇ ᗴᔕ ᗰᎥ ᑭᗩᔕᎥóᑎ🥩🍔🍱😻 cση нαмвяε ∂ε мυη∂σ, vιvαη ℓσs vιαנεs!!! 🚀🌎 #CosaRicaCosaBuenaCosaBienHecha 📍Medellin, Colombia 🇨🇴
+      Personal Shopper 💌giannimichielin@hotmail.com 💡Co-Founder #brunchofideas 💌 brunchofideas@gmail.com Cali, Colombia 🇨🇴 || Italy 🇮🇹
     location: "Colombia"
-    followers: 146797
-    engagement: 275
-    commentsToLikes: 0.079250
-    id: ckap5ykkgdpi10i78wxampujs
+    followers: 38253
+    engagement: 88
+    commentsToLikes: 0.102980
+    id: ck0w3n7rnu9n80i19d99jvcmt
     verified: false
-    hashtags: "#picofthedays, #domiciliosmedellin, #colombianas, #picoftheday"
-  - username: "soylatatag"
+    hashtags: "#gianninamichielin, #colombianblogger, #fashionlover, #spotify"
+  - username: "andeezeta"
     fullname: >-
-      Tatiana Gómez♈
+      Andee Zeta
     bio: >-
-      MODELO /CURVY 🇨🇴 Med/ fashion 2019 #bodypositive AMA VIVE Y GOZA🏖️🌍
+      Artist ⚡️ Producer ⚡️Song Writer 2 x Grammy winner Medellín📍 Welcome to my life 🎶🐶😸🍺🎵 Escucha: LO BONITO ES SIMPLE👇👇👇
     location: "Colombia"
-    followers: 11853
-    engagement: 429
-    commentsToLikes: 0.077408
-    id: ck6ub52rj7igi0j71bu2x6lo5
-    verified: false
-    hashtags: "#tendencia, #santamarta, #fotoarte, #curvy"
-  - username: "manueladuque1"
+    followers: 44605
+    engagement: 172
+    commentsToLikes: 0.091510
+    id: ck5he8j3yrlyk0i11jqo3ndsu
+    verified: true
+    hashtags: "#bogota, #newmusic, #newsingalert, #fashionphotography"
+  - username: "tatii_agb"
     fullname: >-
-      🌞MANUELA
+      Tatiana Agudelo B.
     bio: >-
-      •Founder @euphoria.mde •Family @technoclub_ •manueladuquem1@gmail.com •Medellín, Colombia
+      🚫 No tengo más cuentas en IG Mamá de dos, Administradora, Esposa ❤️, Líder equipo de trabajo @fajitex 🇨🇴 #colombia #medellin 👇🏻5% de mi vida 📸
     location: "Colombia"
-    followers: 89829
-    engagement: 371
-    commentsToLikes: 0.016042
-    id: ckap23z4rx9p00i78g9xmyrhg
+    followers: 60239
+    engagement: 259
+    commentsToLikes: 0.042090
+    id: ckap3lyqp3k1b0i78v6bkisr9
     verified: false
-    hashtags: "#fashion, #reels, #instareel, #sunset"
-  - username: "brigituks"
+    hashtags: "#look, #sensuality, #love, #instamoment"
+  - username: "felipebohorquez"
     fullname: >-
-      ☆ Brigita Maldutytė ☆ ♊️
+      Felipe Bohorquez
     bio: >-
-      ѕтυ∂єит / ℓιтнυαиιαимσ∂єℓ _ #supermodels.lt 👠 📍 Medellín, Colombia 🇨🇴 with @iamincover
+      ⬇️ ⬇️ WhatsApp ⬇️ ⬇️ - Medellín Colombia
     location: "Colombia"
-    followers: 10814
-    engagement: 357
-    commentsToLikes: 0.039354
-    id: ck0ude8giiy7a0i19zhg7dm27
+    followers: 64215
+    engagement: 117
+    commentsToLikes: 0.013511
+    id: ck0w71qr2bbvc0i19gyj7q3os
     verified: false
-    hashtags: "#sabaneta, #friday, #nature, #happy"
+    hashtags: "#sexy, #portraits, #colombia, #portrait"
+  - username: "tatianaariasnaranjo"
+    fullname: >-
+      Tatiana Arias Naranjo
+    bio: >-
+      🤍YouTube, tiktok :Tatianaariasnaranjo 🤍 fitness🏋️‍♀️ y estilo de vida🛫 📍Medellín,Colombia Contacto publicidad: 💌contactotatianaarias@gmail.com
+    location: "Colombia"
+    followers: 225470
+    engagement: 255
+    commentsToLikes: 0.028319
+    id: ckapbnkd80l5z0i78x8y2gh2j
+    verified: false
+    hashtags: "#commingsoon, #desiertodelatatacoa, #colombia, #amigasparasiempre"
   - username: "photography_jed"
     fullname: >-
       Juan Esteban Echeverri
     bio: >-
       °Fotografo 📷📷📸 °Juan Esteban Echeverri Medellin🇨🇴Colombia #fotógrafo #medellin #Modelos #moda #mujeresvalientes
     location: "Colombia"
-    followers: 30419
-    engagement: 100
-    commentsToLikes: 0.006196
+    followers: 30233
+    engagement: 102
+    commentsToLikes: 0.012483
     id: ck55onr8b8qoq0i11yupjkp2x
     verified: false
     hashtags: ""
+  - username: "hechoenturquia"
+    fullname: >-
+      Hecho en Turquía
+    bio: >-
+      Todo sobre Turquía Artesanía turca - cultura - comida - viajes 🇹🇷🌷🏺 📍Bogotá - Medellín - Barranquilla 📱3004442472
+    location: "Colombia"
+    followers: 64356
+    engagement: 114
+    commentsToLikes: 0.065796
+    id: ckaouqr3u1epv0i789ux5731w
+    verified: false
+    hashtags: "#model, #hechoenturquia, #productodeldiahet, #hechoamano"
 ---

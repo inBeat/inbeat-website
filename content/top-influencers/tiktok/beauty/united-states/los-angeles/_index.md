@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Los Angeles in 2023
+title: Top 10 Beauty TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top beauty TikTok influencers in Los Angeles in 2023. Most popular hashtags: #beauty #fyp #losangeles #hair.
+  Find top beauty TikTok influencers in Los Angeles in 2023. Most popular hashtags: #beauty #fyp #losangeles #foryoupage.
 platform: TikTok
-hits: 49
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 49 TikTok influencers like this in Los Angeles, United States for you to contact.
+hits: 44
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 44 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "michellegimagestudio"
+  - username: "patriziavilaa"
     fullname: >-
-      MichelleG
+      Patrizia Vila
     bio: >-
-      License esthetician & Cosmetologist certifies makeup artist
+      Follow me on insta <33333 Instagram: @patriziavila
     location: "United States"
-    followers: 779900
-    engagement: 699
-    commentsToLikes: 0.005580
-    id: ck7znzbu4gbn40j78pytevezy
+    followers: 22100
+    engagement: 693
+    commentsToLikes: 0.032982
+    id: ckan4e8dk9o460i78x8qvqu7s
     verified: false
-    hashtags: "#hair, #salon, #satisfying, #spa"
-  - username: "cutafaca"
+    hashtags: "#isthisavailable, #foryoupage, #greenscreen, #dailyvlog"
+  - username: "v.galeno_arts"
     fullname: >-
-      SONCHOSS
+      v.galeno_arts
     bio: >-
-      My life is a thriller. Follow me on IG: @sonchoss
+      Victor A. Galeno Just doing what I love ✏️ Follow me on my other platforms!
     location: "United States"
-    followers: 262300
-    engagement: 613
-    commentsToLikes: 0.007649
-    id: ckdnd8rqpguh30j23vj07e29d
+    followers: 32400
+    engagement: 566
+    commentsToLikes: 0.019469
+    id: ck8trb6wlqxck0j78uajhycl7
     verified: false
-    hashtags: "#scary, #beauty, #funnyvideo, #losangeles"
+    hashtags: "#love, #tattoo, #artist, #art"
   - username: "sonagasparian_"
     fullname: >-
       SonaGasparian
     bio: >-
       Beauty Obsessed living in Los Angeles
     location: "United States"
-    followers: 164400
-    engagement: 576
-    commentsToLikes: 0.014230
+    followers: 163100
+    engagement: 585
+    commentsToLikes: 0.017859
     id: ck7znzfn1gcnz0j78g6c0voll
     verified: true
-    hashtags: "#makeuptutorial, #beauty, #howto, #makeup"
-  - username: "joseph.maine"
+    hashtags: "#makeuptutorial, #beauty, #skincare, #makeup"
+  - username: "mariaaluisabb"
     fullname: >-
-      Joseph Maine
+      MariaLuisa
     bio: >-
-      Hairstylist - Brother - Dog Dad @josephmaine on Insta
+      IG: @mariaaluisabb Lifestyle | Fashion | Skincare Thelulubenavides@gmail.com
     location: "United States"
-    followers: 34900
-    engagement: 675
-    commentsToLikes: 0.022010
-    id: cka0wotyu3njs0i780okcf7m3
-    verified: true
-    hashtags: "#hairstyle, #acupgrade, #wap, #updo"
-  - username: "savannasievers"
-    fullname: >-
-      Sav
-    bio: >-
-      Just here for fun Savanna@musetheagency.com
-    location: "United States"
-    followers: 207600
-    engagement: 894
-    commentsToLikes: 0.009937
-    id: ckbq8ldsbuxcq0j23b3cjomfq
+    followers: 16300
+    engagement: 460
+    commentsToLikes: 0.040134
+    id: ckb9q730xlspj0j23xo0p4snq
     verified: false
-    hashtags: "#forfun, #lol, #selflove, #tiktokfashion"
-  - username: "laurenyakima"
+    hashtags: "#california, #lifestyle, #beauty, #style"
+  - username: "lauraodegard"
     fullname: >-
-      Lauren Yakima
+      Laura Odegard
     bio: >-
-      19 NBC’s World of Dance Los Angeles insta: @laurenyakima snap: @laurenyakima
+      Los Angeles 📍 Food, Beauty and Style 🌶 hello@lauraodegard.com
     location: "United States"
-    followers: 131100
-    engagement: 1004
-    commentsToLikes: 0.013303
-    id: ckb1cjh9818sk0j237o0t18d4
+    followers: 63400
+    engagement: 442
+    commentsToLikes: 0.033471
+    id: ck8or69beash70j7851384jqu
     verified: false
-    hashtags: "#foryou, #readysetgo, #dancechallenge, #dancer"
+    hashtags: "#beauty, #makeup, #traderjoes, #hair"
+  - username: "oliviapossino"
+    fullname: >-
+      oliviapossino
+    bio: >-
+      LA 🌈
+    location: "United States"
+    followers: 12600
+    engagement: 636
+    commentsToLikes: 0.038973
+    id: ck9642uqzx4ex0j78jv4kef1q
+    verified: false
+    hashtags: "#foryourpage, #lesbian, #wlw, #foryoupage"
+  - username: "marccolcer"
+    fullname: >-
+      Marc Colcer
+    bio: >-
+      Behind The Scenes of my photoshoots 📸 Check my Instagram for more photos/videos
+    location: "United States"
+    followers: 43400
+    engagement: 637
+    commentsToLikes: 0.020614
+    id: ckbeyufd2jiua0j23fnnszccw
+    verified: false
+    hashtags: "#foryoupage, #modeling, #bikini, #photoshoot"
   - username: "thehairygodmotherr"
     fullname: >-
       Amanda Lyberger
     bio: >-
-      Los Angeles color specialist 27 🏳️‍🌈
+      Los Angeles color specialist 🌈LGBT+ safe space🌈
     location: "United States"
-    followers: 30300
-    engagement: 1850
-    commentsToLikes: 0.007862
+    followers: 36900
+    engagement: 1432
+    commentsToLikes: 0.012289
     id: cka0qsi0ldy9k0i78ku56x8sg
     verified: false
-    hashtags: "#losangeles, #fyp, #snickersfixtheworld, #thatswhatilike"
-  - username: "karen_qtip1"
+    hashtags: "#hair, #christmas, #cashappinbio, #rainbow"
+  - username: "michellegimagestudio"
     fullname: >-
-      karen_qtip
+      MichelleG
     bio: >-
-      Licensed Esthetician. IG: @lashlove_bykq 😎💜 LOS ANGELES, Cali. ☀️🌴
+      CA. City of Angeles License Esti & Cosmetologists certified Makeup Artists
     location: "United States"
-    followers: 6675
-    engagement: 717
-    commentsToLikes: 0.033123
-    id: ckbfis7x5es8m0j231sp4m7xq
+    followers: 844200
+    engagement: 726
+    commentsToLikes: 0.022704
+    id: ck7znzbu4gbn40j78pytevezy
     verified: false
-    hashtags: "#tiktok, #eyelashextensions, #viral, #eyelashes"
-  - username: "dtmodelmgmt"
+    hashtags: "#thevillage, #viral, #losangeles, #woodlandhills"
+  - username: "lovemicorazon"
     fullname: >-
-      DT Model Management
+      Cora
     bio: >-
-      Los Angeles based Modeling Agency Send us your submission #dtscoutme
+      Cora 💛 📍Los Angeles
     location: "United States"
-    followers: 27300
-    engagement: 528
-    commentsToLikes: 0.009662
-    id: ckba6xbl8023l0j2376m8npwn
+    followers: 31900
+    engagement: 950
+    commentsToLikes: 0.063231
+    id: ck9rnrrwq912c0j783dzleove
     verified: false
-    hashtags: "#mua, #gym, #dtmodelmanagement, #fy"
-  - username: "rissarecharged"
-    fullname: >-
-      Nerissa Stewart
-    bio: >-
-      #Beauty #Fitness #VSG How to lose 💯 pounds Grab my FREE cookbook ⤵️⤵️
-    location: "United States"
-    followers: 43700
-    engagement: 957
-    commentsToLikes: 0.059877
-    id: ck8qj4vldbvux0j78jrba0j4t
-    verified: false
-    hashtags: "#over30, #tulum, #blacklove, #vote2020"
+    hashtags: "#foryou, #foryoupage, #fyp, #revolveinbloom"
 ---

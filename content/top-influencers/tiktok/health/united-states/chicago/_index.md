@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Chicago in 2023
+title: Top 10 Health TikTok Influencers In Chicago In 2023
 description: >-
-  Find top health TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #comedy #duet.
+  Find top health TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #health #chicago #comedy.
 platform: TikTok
-hits: 38
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 38 TikTok influencers like this in Chicago, United States for you to contact.
+hits: 31
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 31 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "iam.rizzo"
+  - username: "dr.allison.rodgers"
     fullname: >-
-      Raymond
+      Dr. Allison Rodgers
     bio: >-
-      CEO Of Vibes Insta: Iamraymond___ P.O. Box 295 Ingleside, IL 👽
+      Fertility & Ob/Gyn Doctor TeenTalk Mom Chicago Beat Infertility Podcast
     location: "United States"
-    followers: 34200
-    engagement: 1554
-    commentsToLikes: 0.129312
-    id: ckceitjthra780j23eja25ssh
-    verified: false
-    hashtags: "#foryou, #duet, #funny, #lol"
-  - username: "hannibalburess"
-    fullname: >-
-      Hannibal buress
-    bio: >-
-      Isola Man Media
-    location: "United States"
-    followers: 93700
-    engagement: 1369
-    commentsToLikes: 0.019722
-    id: ck9gq4tjm81we0j78oz8sw9jz
+    followers: 663700
+    engagement: 781
+    commentsToLikes: 0.014698
+    id: ck8hrjovq939n0j78pw31djgo
     verified: true
-    hashtags: "#fyp, #foryou, #music, #newmusic"
-  - username: "alaia.alaia"
-    fullname: >-
-      Lai lai 🦋
-    bio: >-
-      24. Chicago. 🍒Interior. Life Style. 🦋Beauty. DIY.Family.Dance✨
-    location: "United States"
-    followers: 19600
-    engagement: 597
-    commentsToLikes: 0.029383
-    id: ck90tz47runq10j7890aatttc
-    verified: false
-    hashtags: "#chicago, #summer, #health, #fitness"
-  - username: "a.e.barkii"
-    fullname: >-
-      Ashley Elizabeth
-    bio: >-
-      I kinda do some duets 🖤 Mom. Wife. Mental Health Advocate. ▪️Links in BIO▪️
-    location: "United States"
-    followers: 274000
-    engagement: 1687
-    commentsToLikes: 0.022186
-    id: ckc8wf2bbjtfj0j23m7720r04
-    verified: false
-    hashtags: "#foryou, #duet, #xyzbca, #fallfashion"
+    hashtags: "#learnontiktok, #fertility, #worththewait, #tiktokpartner"
   - username: "itsashleyteresa"
     fullname: >-
       Ash
     bio: >-
       Gamer girl🕹 Mental Health Advocate Recovery💗 CEO of Unsolicited Advice
     location: "United States"
-    followers: 7183
-    engagement: 1178
-    commentsToLikes: 0.027832
+    followers: 7247
+    engagement: 1104
+    commentsToLikes: 0.041236
     id: ckc7kwhchrs0d0j23erdzkze9
     verified: false
-    hashtags: "#catperson, #thisisbliss, #favoritememory, #indigenousday"
-  - username: "dr.kojosarfo"
+    hashtags: "#catperson, #duet, #thisisbliss, #favoritememory"
+  - username: "mamabeyou"
     fullname: >-
-      Kojo Sarfo
+      Dee
     bio: >-
-      Psych DNP Forensic Psychiatry Mental Health “You Already Won” 🏆
+      ☪️🇧🇦 Refugee Ph.D. In Progress🎓 Mental Health Advocate🤜🏻🤛🏿 Educator 📚
     location: "United States"
-    followers: 386600
-    engagement: 1346
-    commentsToLikes: 0.023492
-    id: ck8zasq912umf0j781i90x0v7
+    followers: 13100
+    engagement: 1437
+    commentsToLikes: 0.090705
+    id: ckdh9svv7v6kf0j23w5pohiy5
     verified: false
-    hashtags: "#mentalhealth, #mentalhealthmatters, #blacktiktok, #hospital"
-  - username: "deanaladreh"
+    hashtags: "#lowcarboption, #sundayaccountabilitypost, #illinoischeckin, #activism"
+  - username: "haroldisfasting"
     fullname: >-
-      Deana Ladreh Gordon
+      Harold DeFrieze 🍔
     bio: >-
-      IG MsDeanaLadreh ♒️ 30 Chicago Dream true Enjoy my brain and soul 🧠 🧝🏽‍♀️
+      This page is not to promote fasting but simply to document my own personal fast
     location: "United States"
-    followers: 64400
-    engagement: 815
-    commentsToLikes: 0.029846
-    id: ckd6m8qdvg9sl0j23k3k3hryr
+    followers: 14200
+    engagement: 342
+    commentsToLikes: 0.069516
+    id: ckcj9ghmb7vr40j23798u52th
     verified: false
-    hashtags: "#itbelikethat, #foryoupage, #covid, #blackwitchtok"
+    hashtags: "#fasting, #waterfasting, #motivation, #fyp"
+  - username: "lorenazurc"
+    fullname: >-
+      Lovena
+    bio: >-
+      Latina/ Nurse/ Houston Texas
+    location: "United States"
+    followers: 2104
+    engagement: 712
+    commentsToLikes: 0.041309
+    id: ck9nie2epgu1r0j78dhvgzwje
+    verified: false
+    hashtags: "#fyp, #tiktok, #travel, #houston"
+  - username: "lacexnelson_"
+    fullname: >-
+      Lace
+    bio: >-
+      Wake up, pray, & slay💋 Insta: @lacexnelson_
+    location: "United States"
+    followers: 22200
+    engagement: 809
+    commentsToLikes: 0.063431
+    id: ck9r99ycffrr90j78bhttlqi7
+    verified: false
+    hashtags: "#makeup, #bffs, #birthday, #lol"
+  - username: "girl_firemedic76"
+    fullname: >-
+      Firefighter Girl
+    bio: >-
+      
+    location: "United States"
+    followers: 28300
+    engagement: 872
+    commentsToLikes: 0.021524
+    id: ckb94hzooluhr0j23g0nhvh7y
+    verified: false
+    hashtags: "#cutebaby, #comedy, #omg, #baby"
+  - username: "tylerregan"
+    fullname: >-
+      Tyler Regan
+    bio: >-
+      Ask a question!! 👇👇
+    location: "United States"
+    followers: 733900
+    engagement: 2757
+    commentsToLikes: 0.008346
+    id: ckaiif41ba74e0i784jc3xkpv
+    verified: true
+    hashtags: "#blm, #karen, #harrypotter, #2020"
+  - username: "hannibalburess"
+    fullname: >-
+      Hannibal buress
+    bio: >-
+      Isola Man Media
+    location: "United States"
+    followers: 166100
+    engagement: 1262
+    commentsToLikes: 0.030933
+    id: ck9gq4tjm81we0j78oz8sw9jz
+    verified: true
+    hashtags: "#stitch, #newmusic, #fyp, #artwork"
   - username: "anotherjudy"
     fullname: >-
       anotherjudy
     bio: >-
-      📍Chicago Comedy | Politics | 🙋🏿‍♀️BLM Bookings: judy@anotherjudy.com
+      📍NYC Comedy | Politics | 🙋🏿‍♀️BLM Bookings: judy@anotherjudy.com
     location: "United States"
-    followers: 8688
-    engagement: 1345
-    commentsToLikes: 0.023226
+    followers: 8512
+    engagement: 1473
+    commentsToLikes: 0.022315
     id: ckbf3hf65rao80j239rb8jnzz
     verified: false
-    hashtags: "#liberal, #fyp, #normalpeople, #workdistractions"
-  - username: "ietsnormaals"
-    fullname: >-
-      Ietsnormaals
-    bio: >-
-      It’s embarrassing... IG: Ron_Chicago qmilated@gmail.com Twitch: ietsnormaals
-    location: "United States"
-    followers: 29600
-    engagement: 832
-    commentsToLikes: 0.025643
-    id: ck8qhcc014fsv0j78hnece3as
-    verified: false
-    hashtags: "#duet, #xyzbca, #foryoupage, #fyp"
-  - username: "thani_kaatu_raaja"
-    fullname: >-
-      💫☄️ PandiaN🔥💗
-    bio: >-
-      TN 72 ➡️ Chicago #TamilRivals #usatiktokfamily
-    location: "United States"
-    followers: 5019
-    engagement: 1286
-    commentsToLikes: 0.000000
-    id: ck8qm5goeoknk0j78c87ax07q
-    verified: false
-    hashtags: "#tiktoktrending, #comedy, #tamilcomedy, #song"
+    hashtags: "#comedy, #quarantine, #workdistractions, #politics"
 ---

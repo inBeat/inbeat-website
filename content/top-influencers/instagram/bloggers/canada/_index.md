@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Canada in 2023
+title: Top 10 Bloggers Instagram Influencers In Canada In 2023
 description: >-
-  Find top bloggers Instagram influencers in Canada in 2023. Most popular hashtags: #ad #calgary #love.
+  Find top bloggers Instagram influencers in Canada in 2023. Most popular hashtags: #happy #ad #love #canada.
 platform: Instagram
-hits: 389
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 389 Instagram influencers like this in Canada for you to connect with.
+hits: 146
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 146 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "aslam_azzi"
+  - username: "simplysuppa"
     fullname: >-
-      R ⭕ W D Y
+      Julia Suppa
     bio: >-
-      . ALHAMDULLILAAH 💯 . FASHION BLOGGER . KEEP SMILING 🥀 . ."𝖠𝗅𝗅 𝗆𝗒 𝗁𝖺𝗍𝖾𝗋𝗌 , 𝖠𝗌𝗌𝖾𝗆𝖻𝗅𝖾 𝗁𝖾𝗋𝖾 "🚀 🍃..
+      📹 Storyteller | Content Creator @suppamedia 📹 Host | Blogger 💫Inspire, Work Hard, Be Kind, Give Back. Repeat. 📍#Vaughan #Toronto #Canada 🇨🇦
     location: "Canada"
-    followers: 6794
-    engagement: 1897
-    commentsToLikes: 0.198088
-    id: ck9wi95sx19bv0j78s3u61tjk
+    followers: 7593
+    engagement: 417
+    commentsToLikes: 0.101940
+    id: ck8tbwm6jxgan0j78y4he4wod
     verified: false
-    hashtags: "#instagram, #thrissur, #mallugram, #instagoodl"
-  - username: "outfitsbyalexa"
+    hashtags: "#ad, #simplysuppa, #homereno, #yyzmoms"
+  - username: "love.from.steph"
     fullname: >-
-      𝐃𝐀𝐈𝐋𝐘 𝐎𝐔𝐓𝐅𝐈𝐓𝐒 | 𝐅𝐀𝐒𝐇𝐈𝐎𝐍
+      Steph | Travel & Photography
     bio: >-
-      ➳ Petite, 5ft & I love clothes ✨ ➳ Sharing my daily outfits with you! ➳ Canadian Fashion Blogger ➳ ✉️: outfitsbyalexa@hotmail.com ➳ shop my looks ↓
+      ↠ Travel Blogger in Vancouver, BC ⩕ Sharing travel inspo and tips for Canada & US 💌 info@lovefromsteph.com ↡ Travel, Road Trips & Hiking Guides
     location: "Canada"
-    followers: 7357
-    engagement: 961
-    commentsToLikes: 0.718387
-    id: ck6tizqsb1qpn0j710cpq32ko
+    followers: 10264
+    engagement: 415
+    commentsToLikes: 0.180454
+    id: cky7uz2b5kbee0j23q93nqs2e
     verified: false
-    hashtags: "#urbanplanet, #upbabe, #gifted, #strongersweden"
+    hashtags: "#vancouvercanada, #vancouverviews, #thingstodoinvancouver, #beautifulbritishcolumbia"
+  - username: "yakeandmarie"
+    fullname: >-
+      JAKE & MARIE 🇨🇦
+    bio: >-
+      Photographers & travel bloggers from Vancouver, BC ↓ hiking, camping, & road-tripping tips 🏔 ↓ check out the blog & new reels yakeandmarie@gmail.com
+    location: "Canada"
+    followers: 50132
+    engagement: 383
+    commentsToLikes: 0.080729
+    id: ckpn0txlc3n1z0j231bpbkko6
+    verified: false
+    hashtags: "#hikingtheglobe, #luxurytravel, #tourcanada, #optoutside"
   - username: "teachme_style"
     fullname: >-
-      Holly Horvath
+      Holly Forsberg
     bio: >-
-      1st + 2nd Grade Teacher📚 | Lifestyle Blogger💻 | Mother to Sunny 🐶. |🇨🇦| Inquiries 💌 holly@infagency.com
+      Dane’s Mom 👶🏼 💙 @lee_forsberg 💍 Sunny + Witt’s Fur Mama 🐶🐶 Teacher📚 | Lifestyle Blogger💻 Inquiries 💌 holly@infagency.com
     location: "Canada"
-    followers: 63749
-    engagement: 392
-    commentsToLikes: 0.198984
+    followers: 65995
+    engagement: 232
+    commentsToLikes: 0.025825
     id: ck5c8ew099bv80i11x8ny5s63
     verified: false
-    hashtags: "#mineral89, #overholl, #gifted, #ad"
-  - username: "beyondthelittleblackdress"
+    hashtags: "#ad, #shopteach, #christmas, #weddingdecor"
+  - username: "unstoppable.mama"
     fullname: >-
-      J A C K I E || Everyday Style
+      Sara ♡ Ottawa Lifestyle Blogger
     bio: >-
-      📍Toronto | Warsaw | Amsterdam Style Expert & Style Blogger Just for Fun • Tall Girl • Mommy Tag your style ideas #btlbdstyle
+      DAILY FASHION INSPO Blogger | Designer | Author 🎥4M+Reels ♡ @unstoppableprints.co ♡ REEL Mom-Kids 15m apart ♡ Ottawa🇨🇦 ♡ FREE Colouring & Play Ideas↓
     location: "Canada"
-    followers: 6328
-    engagement: 759
-    commentsToLikes: 0.351938
-    id: ck8tbk3jdvy7x0j78uclp8vq9
+    followers: 14716
+    engagement: 231
+    commentsToLikes: 0.400085
+    id: ckrvnl3vxktsw0j23g13q0bah
     verified: false
-    hashtags: "#slowfashionblogger, #torontogirl, #supportsmallbusiness, #torontoblogger"
-  - username: "jkozuki"
+    hashtags: "#613mom, #amazonfashionfinds, #food4thought, #fashionreels"
+  - username: "sidafz"
     fullname: >-
-      Jkozuki 🇨🇦
+      Sidrah | Toronto Blogger
     bio: >-
-      Salon owner & life style blogger, my story through pictures. International #FASHIONWEEK backstage coordinator #ESTHETICAN #EDUCATOR #Housewives Lover
+      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
     location: "Canada"
-    followers: 35042
-    engagement: 742
-    commentsToLikes: 0.023391
-    id: ck5hq63roskfk0i11ebgpo663
+    followers: 13878
+    engagement: 115
+    commentsToLikes: 0.669998
+    id: cks8aqhhiupz50j23q90dq3w1
     verified: false
-    hashtags: "#tbthursday, #nationalcomingoutday"
-  - username: "pinklablonde"
+    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+  - username: "petitelittleseveryday"
     fullname: >-
-      PINKLABLONDE
+      Melissa Philipchalk
     bio: >-
-      Welcome to my world 🍋✨💛 👱🏻‍♀️ Marie-Anne Labrie 📍 Based in Montreal 🎨 HAIR EDUCATOR ✏️ Blogger 📊 Social media LOVER
+      Top 30 Vancouver Mom Blogger Mama of 4 sharing our adventures! Motherhood and everyday life. DM for collaborations Email petitelittles@gmail.com
     location: "Canada"
-    followers: 23893
-    engagement: 354
-    commentsToLikes: 0.066055
-    id: ckf5qq8c4a79j0j23w6w2ve3z
+    followers: 10868
+    engagement: 109
+    commentsToLikes: 0.391781
+    id: ckmw1u11x8mpg0j23xikgaffc
     verified: false
-    hashtags: "#hairstyle, #blondehair, #healthyhair, #hairtips"
-  - username: "jennadouce"
+    hashtags: "#shelfies, #cbxriflepaperco, #shelfieinspo, #autumndecor"
+  - username: "mh_alexandra"
     fullname: >-
-      J E N N A | Travel & Lifestyle
+      𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒓𝒂
     bio: >-
-      ✈ adventures┊well-being┊realness ⌕ Ottawa based blogger ✉︎ rates / pitches: doucet.jenna@gmail.com ⤑ @lululemon ambassador 🍋 ↓ ✨discounts & links
+      Family, Food, Fashion, but first.. Wine! 🇨🇦Wine Instructor/Enthusiast/Blogger 🍷 on my dipWSET journey 👩🏻‍💻 Blackdogbold@outlook.com I also LOVE dogs.
     location: "Canada"
-    followers: 28166
-    engagement: 244
-    commentsToLikes: 0.231945
-    id: ck9hcnncwm79l0j78nl97omfr
+    followers: 8614
+    engagement: 518
+    commentsToLikes: 0.207967
+    id: ck9wozpkw76ir0j78vqeli40r
     verified: false
-    hashtags: "#sponsored, #ad, #thanksgiving, #autumn"
-  - username: "jr_reporteryyc"
-    fullname: >-
-      A l e x i a   S a b a u 🎤
-    bio: >-
-      ⭐️ Broadway Mega Fan ⭐️ 🎙 Reporter @cbckidsnews 👩🏻‍💻 Blogger @tourismcalgary 🌟 @canadassmartest @cbc GEM ▶️OVER THE MOON @netflix interview
-    location: "Canada"
-    followers: 9397
-    engagement: 539
-    commentsToLikes: 0.127474
-    id: ck6titm2n1ejt0j71yji866f7
-    verified: false
-    hashtags: "#calgarybuzz, #harrypotterforlife, #driveins, #yycnow"
-  - username: "taylorelizabethstyle"
-    fullname: >-
-      ✰ T A Y L O R ✰
-    bio: >-
-      ★ Tbh I’d rather be at Target 🎯 ★ Sephora Beauty Advisor ✨ ★ IG blogger & YouTuber 💻 ★ Toronto, Canada 🇨🇦 ★ taylorkingdon@live.ca 💌
-    location: "Canada"
-    followers: 10631
-    engagement: 534
-    commentsToLikes: 0.093411
-    id: ck6ugcp4e28l40j715lqcrafu
-    verified: false
-    hashtags: "#ootdinspiration, #beautyblog, #aritziastyle, #fashionblog"
+    hashtags: "#sparklingwine, #girl, #wines, #champagne"
   - username: "immrfabulous"
     fullname: >-
       Mr. Fab
     bio: >-
       Blogger, Writer, Actor, Model & On-Air Media Personality. 🤓 Let's chat: ryan@immrfabulous.com
     location: "Canada"
-    followers: 5577
-    engagement: 581
-    commentsToLikes: 0.230343
+    followers: 6451
+    engagement: 647
+    commentsToLikes: 0.301822
     id: ck6tq007somtz0j719wx6jhcw
     verified: false
-    hashtags: "#westernheritage, #ad, #mysmallbizreco, #gay"
+    hashtags: "#calgary, #gay, #cowboy, #partner"
+  - username: "yourdappergoals"
+    fullname: >-
+      Midhvan Gulati
+    bio: >-
+      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
+    location: "Canada"
+    followers: 47354
+    engagement: 266
+    commentsToLikes: 0.031125
+    id: ck5hqblkfsu3o0i11qym0xxbb
+    verified: false
+    hashtags: "#reelsindia, #happy, #beautiful, #black"
 ---

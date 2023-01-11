@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In San Diego in 2023
+title: Top 10 Models TikTok Influencers In San Diego In 2023
 description: >-
-  Find top models TikTok influencers in San Diego in 2023. Most popular hashtags: #sandiego #fyp #model #foryoupage.
+  Find top models TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #sandiego #foryoupage #beach.
 platform: TikTok
 hits: 21
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 21 TikTok influencers like this in San Diego, United States for you to connect with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 21 TikTok influencers like this in San Diego, United States for you to pitch.
 profiles:
-  - username: "jovanifashion"
+  - username: "alianzaefectiva"
     fullname: >-
-      JOVANI
+      alianzaefectiva
     bio: >-
-      The Official #JOVANI TikTok page. Your dress destination for Prom and Beyond ✨
+      #CPMusic IG: @ALIANZAEFECTIVA BAY AREA, CA
     location: "United States"
-    followers: 3106
-    engagement: 624
-    commentsToLikes: 0.028848
-    id: ck9acle3ntfc10j78klkf0lr3
+    followers: 24500
+    engagement: 1187
+    commentsToLikes: 0.011754
+    id: ck8tkunwm9ajh0j78auwuv588
     verified: false
-    hashtags: "#curvy, #socal, #jovanifashion, #pageant"
-  - username: "skysugaring"
+    hashtags: "#relax, #latino, #camera, #oakland"
+  - username: "dontaecatlett"
     fullname: >-
-      skysugaring
+      dontaecatlett
     bio: >-
-      SugaringArtist🎭Youtuber 😇ASMR 🤪Comedy👄Beauty🍌Gaysian🌈Funny Esthetician😝😜
+      🎤 Beatboxer 🎥 Director & Photographer 🚨 New Videos Everyday 🚨
     location: "United States"
-    followers: 49000
-    engagement: 270
-    commentsToLikes: 0.048689
-    id: ckb9rqfiyojlv0j23vm8uu8gg
+    followers: 6694
+    engagement: 972
+    commentsToLikes: 0.084214
+    id: ck9kengo3zlqb0j78r01pokxj
     verified: false
-    hashtags: "#fun, #pride, #pridemonth, #massage"
+    hashtags: "#artsy, #drone, #art, #albumcover"
+  - username: "skylar.akate"
+    fullname: >-
+      skylarkate
+    bio: >-
+      Skate :) snap: skylarakate San Diego Lost In The Raunch
+    location: "United States"
+    followers: 267800
+    engagement: 1766
+    commentsToLikes: 0.013280
+    id: ck8132zshzix80j78hrv4kn2y
+    verified: false
+    hashtags: "#fyp, #boy, #greenscreenvideo, #party"
   - username: "harimarjon"
     fullname: >-
       Harim Arjon
     bio: >-
       San Diego I’m cooler on Instagram, I promise
     location: "United States"
-    followers: 37100
-    engagement: 1543
-    commentsToLikes: 0.011322
+    followers: 39600
+    engagement: 1530
+    commentsToLikes: 0.012260
     id: ckbfbzlhy4dwm0j234j141zs0
     verified: false
-    hashtags: "#photoshop, #photography, #photograhy, #photomagic"
-  - username: "alexzonce"
+    hashtags: "#photography, #artistoftiktok, #photoshop, #photomagic"
+  - username: "hussansial"
     fullname: >-
-      ✨ Qween Shit ✨
+      Hussan Sial
     bio: >-
-      San Diego, Ca - London, U.K. just crackhead tings ✨ 💗
+      2020 Mclaren 570s spider 23 San Diego Check my YouTube! @revolutionautodesign
     location: "United States"
-    followers: 152800
-    engagement: 1596
-    commentsToLikes: 0.018171
-    id: ck9jv81t2r3fr0j78heo1p0g9
+    followers: 399600
+    engagement: 653
+    commentsToLikes: 0.014008
+    id: ck80no58gdksq0j7828bwosqa
     verified: false
-    hashtags: "#trending, #viral, #fyp, #comedy"
-  - username: "luxrosaporvida"
+    hashtags: "#sandiego, #wrap, #mclaren, #wrapshop"
+  - username: "sheltercatmell"
     fullname: >-
-      LuxRosaPorVida
+      Michelle Pierce
     bio: >-
-      Westcoast lifestyle brand. Circa ‘11
+      Nonbionary💜💛, Full Time Parent, Makeup Artist 🎨, Musician🎶 and Model!
     location: "United States"
-    followers: 39600
-    engagement: 1598
-    commentsToLikes: 0.039532
-    id: ckae0wh29ltwi0i786vgld6qj
+    followers: 67300
+    engagement: 1983
+    commentsToLikes: 0.115869
+    id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#fyp, #sd, #2000s, #starshots"
-  - username: "cocoabriel"
+    hashtags: "#funny, #mentalhealth, #nonbionary, #kidsoftiktok"
+  - username: "brookelynn.19xx"
     fullname: >-
-      CocoaBriel
+      BrookeLynn
     bio: >-
-      Racially ambiguous enough to be the best friend in a Netflix show //CA🌴🌊
+      XX Inked Mag Model IG - Brookelynn.XX
     location: "United States"
-    followers: 38000
-    engagement: 1605
-    commentsToLikes: 0.036402
-    id: ckav5dq8kbvu80j23z2pwnxqt
+    followers: 92200
+    engagement: 1793
+    commentsToLikes: 0.026321
+    id: ckbkviodfr2bg0j23c8bn4r81
     verified: false
-    hashtags: "#desigirl, #lifehack, #ad, #nyc"
-  - username: "sarenamezzacappa"
+    hashtags: "#duetme, #tattoos, #xyzbca, #dermalpiercing"
+  - username: "therealstassibabii"
     fullname: >-
-      Sarena Mezzacappa
+      Nastassia
     bio: >-
-      traveling around 🌍 🛩 & doing some pranks along the way
+      Your fav🖤 | Model 📸 | YouTuber 🎥 $orikho Check out my YouTube ⬇️
     location: "United States"
-    followers: 28200
-    engagement: 427
-    commentsToLikes: 0.031747
-    id: ckbqu64pgeoq90j23xfexc7g1
+    followers: 22700
+    engagement: 1382
+    commentsToLikes: 0.086745
+    id: ck92wasketsfh0j784csrlskv
     verified: false
-    hashtags: "#fyp, #foryoupage, #mycity, #sandiego"
-  - username: "summer.marshall"
+    hashtags: "#momsoftiktok, #foryoupage, #whatthoughtreallypushesmywigback, #funny"
+  - username: "peterfouaad"
     fullname: >-
-      summer marshall
+      Peter Fouad
     bio: >-
-      🤍 Wilhelmina LA insta: @summermarshall
+      Fashion model | Photographer 📸 | Egyptian actor Los Angeles 🌴
     location: "United States"
-    followers: 138700
-    engagement: 1081
-    commentsToLikes: 0.010673
-    id: ckacfmu3erjv90i78xpm4zjqh
+    followers: 17500
+    engagement: 969
+    commentsToLikes: 0.012993
+    id: ckb9kziupda1c0j23nhx9ptux
     verified: false
-    hashtags: "#ad, #sandiego, #foryou, #fyp"
-  - username: "danoruiseco"
-    fullname: >-
-      Daniel Ruiseco
-    bio: >-
-      
-    location: "United States"
-    followers: 4051
-    engagement: 609
-    commentsToLikes: 0.027865
-    id: ckbfhf3kwcvu00j23rrll8vzo
-    verified: false
-    hashtags: "#sexy, #model, #losangelescalifornia, #venicebeach"
+    hashtags: "#mclaren, #foryou, #lamborghini, #cars"
   - username: "pilot_eyes"
     fullname: >-
       Pilot_eyes
     bio: >-
       Follow my YouTube channel for more videos . Follow my insta . IG : go.guerra
     location: "United States"
-    followers: 5013
-    engagement: 603
-    commentsToLikes: 0.028076
+    followers: 5824
+    engagement: 649
+    commentsToLikes: 0.051086
     id: ckdnlvseqjk2f0j23krtzk0v7
     verified: false
-    hashtags: "#sunset, #flying, #california, #fyp"
+    hashtags: "#flying, #downtown, #coast, #piper"
 ---

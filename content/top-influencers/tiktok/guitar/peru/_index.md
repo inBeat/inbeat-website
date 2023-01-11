@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Peru in 2023
+title: Top 10 Guitar TikTok Influencers In Peru In 2023
 description: >-
-  Find top guitar TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #peru #guitar #foryou.
+  Find top guitar TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #foryou #parati #peru.
 platform: TikTok
-hits: 15
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 15 TikTok influencers like this in Peru for you to connect with.
+hits: 12
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Peru for you to connect with.
 profiles:
   - username: "classicrockandpop"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ⭐Classic Rock & Pop⭐
     location: "Peru"
-    followers: 15800
-    engagement: 1762
-    commentsToLikes: 0.200786
+    followers: 15600
+    engagement: 1442
+    commentsToLikes: 0.151526
     id: ckbewm4dvg85l0j231kekggu3
     verified: false
-    hashtags: "#musicrock, #slash, #amywinehouse, #rocklive"
+    hashtags: "#musicrock, #doloresoriordan, #amywinehouse, #80srock"
   - username: "rock_psychedelic"
     fullname: >-
       Psychedelic Rock
     bio: >-
       LA California
     location: "Peru"
-    followers: 8761
-    engagement: 1077
-    commentsToLikes: 0.010575
+    followers: 8987
+    engagement: 1054
+    commentsToLikes: 0.010160
     id: ckbewmtskgceg0j2304le3zrz
     verified: false
-    hashtags: "#guitar, #70s, #80srock, #bass"
-  - username: "richardtakemusic"
-    fullname: >-
-      Richard Take
-    bio: >-
-      🔥50K y Lanzó mi álbum🔥 Pásate por mi Instagram Escucha mi música aquí 👇
-    location: "Peru"
-    followers: 13200
-    engagement: 785
-    commentsToLikes: 0.080724
-    id: ckbr8amdmn9l40j234ig59v20
-    verified: false
-    hashtags: "#cantando, #richardtakemusic, #duo, #singing"
-  - username: "joaquinzoom"
-    fullname: >-
-      joaquinzoom
-    bio: >-
-      Vine solo por un rato y me quedé.
-    location: "Peru"
-    followers: 43700
-    engagement: 1009
-    commentsToLikes: 0.028048
-    id: ckb1dc08m27ai0j23kru3jqc1
-    verified: false
-    hashtags: "#legend, #music, #animals, #fyp"
-  - username: "charami_dogs"
-    fullname: >-
-      𝐶𝒉𝑎𝑟𝑎𝑑𝑎 𝑦 𝑀𝑖𝑎
-    bio: >-
-      Mestizas amorosas 🇵🇪 LI- Charada/Mia Instagram ⬆️
-    location: "Peru"
-    followers: 10100
-    engagement: 3170
-    commentsToLikes: 0.017366
-    id: cka0yog3pc6eq0i78uz3h0kg3
-    verified: false
-    hashtags: "#foryou, #tiktokperu, #mia, #fyp"
-  - username: "flaviaflaviamusic"
-    fullname: >-
-      Flavia Martínez ☀️
-    bio: >-
-      Meta: 100K ❤😎 Cuenta secundaria: @flaloca🌈
-    location: "Peru"
-    followers: 83200
-    engagement: 1223
-    commentsToLikes: 0.040348
-    id: cka84svd0vflm0i78f7gk564e
-    verified: false
-    hashtags: "#mexico, #navidad, #feliznavidad, #wap"
+    hashtags: "#70s, #80srock, #60s, #blues"
   - username: "ronald.sanchez"
     fullname: >-
       R O N A L D 😎
     bio: >-
       Solo gente cool ❤
     location: "Peru"
-    followers: 10500
-    engagement: 940
-    commentsToLikes: 0.057064
+    followers: 10400
+    engagement: 929
+    commentsToLikes: 0.062144
     id: cka0qsezvdxm70i78u012jlcu
     verified: false
-    hashtags: "#comedia, #trend, #chiclayo, #sigueme"
-  - username: "nicole.guev"
+    hashtags: "#humor, #chiclayo, #peru, #tiktokmemes"
+  - username: "mariely_fc"
     fullname: >-
-      Nicole Guevara 🌻
+      Mariely Flores Choco
     bio: >-
-      ❤️ I love dance 💃
+      
     location: "Peru"
-    followers: 2284
-    engagement: 711
-    commentsToLikes: 0.033491
-    id: ckc8wzpwxkm370j23a6e9xdtw
+    followers: 23600
+    engagement: 587
+    commentsToLikes: 0.053859
+    id: ck83zayhdz9so0j782mn8n8u1
     verified: false
-    hashtags: "#correportuvida, #challenge, #tiktok, #challange"
-  - username: "tonybarrantesfit"
-    fullname: >-
-      😎Tony Barrantes 💪
-    bio: >-
-      💪🔥cuerpo Fitness 🏋️‍♂️ 😊😎 Divertido,Amigable y muy Sexy 😜
-    location: "Peru"
-    followers: 21707
-    engagement: 476
-    commentsToLikes: 0.032572
-    id: ck9ej9vt41pln0j78vnm8l9gy
-    verified: false
-    hashtags: "#parati, #xyzbca, #1000razones, #foryou"
+    hashtags: "#tiktok, #peruviantiktoker, #foryoupage, #foryou"
   - username: "clauzp19"
     fullname: >-
       Clau Zarate 
     bio: >-
       Peruanita 🇵🇪 I ❤ ⚽️ Si te da miedo... ¡Hazlo con Miedo!💪
     location: "Peru"
-    followers: 3539
-    engagement: 790
-    commentsToLikes: 0.017456
+    followers: 3654
+    engagement: 843
+    commentsToLikes: 0.021689
     id: ckbl1305lxvdi0j23qok29649
     verified: false
-    hashtags: "#parati, #comedy, #comedia, #famous"
+    hashtags: "#comedia, #duo, #funny, #famous"
+  - username: "dxysx_leonor_cabrera"
+    fullname: >-
+      Dayse Leonor Cabrera 🌴🌞
+    bio: >-
+      SOLO POR DIVERSIÓN! Un poco de todo✌🏻🪤🦆
+    location: "Peru"
+    followers: 3930
+    engagement: 500
+    commentsToLikes: 0.034498
+    id: ckacg20bvtekt0i78ixp0ygll
+    verified: false
+    hashtags: "#fyp, #viral, #xyzbca, #comedy"
+  - username: "lucuma17"
+    fullname: >-
+      Lúcuma
+    bio: >-
+      De todo un poco 😁
+    location: "Peru"
+    followers: 254800
+    engagement: 706
+    commentsToLikes: 0.007350
+    id: ckdt4c4e3srjf0j23rclvajvc
+    verified: false
+    hashtags: "#parati, #viral, #viralizame, #sorprendente"
+  - username: "rogerhg09"
+    fullname: >-
+      RogerHG
+    bio: >-
+      Videos Entretenidos / Entertaining Videos Sígueme para más videos🎥
+    location: "Peru"
+    followers: 23600
+    engagement: 495
+    commentsToLikes: 0.013611
+    id: ckb9thb97rkjk0j23lfnr0w4u
+    verified: false
+    hashtags: "#xyzabc, #funny, #parati, #quientegusta"
+  - username: "micaelacirilo"
+    fullname: >-
+      Micaela
+    bio: >-
+      goodvibes🦋💎🎞🎥🎤 PRESETS --> insta 📩 10k y saco más❤️
+    location: "Peru"
+    followers: 7705
+    engagement: 580
+    commentsToLikes: 0.012644
+    id: ckcp5e9ijcq6l0j23rrm1p426
+    verified: false
+    hashtags: "#vsco, #duet, #fyp, #instagramfilters"
+  - username: "apoyo_a_kelin"
+    fullname: >-
+      Apoyo a Reinas 🇵🇪
+    bio: >-
+      Apoyo a reinas 🇵🇪 1000k? 🔥 ¿De que reina te gustaria que publicara 🔥🤫?
+    location: "Peru"
+    followers: 9627
+    engagement: 724
+    commentsToLikes: 0.105821
+    id: ck9fmbkg8sd4y0j78zgrwnun0
+    verified: false
+    hashtags: "#missuniverse, #missuniverso, #peruanas, #peru"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In South Africa in 2023
+title: Top 10 Health TikTok Influencers In South Africa In 2023
 description: >-
-  Find top health TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #viral #foryoupage #trending.
+  Find top health TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #foryou #foryoupage #tiktoksa.
 platform: TikTok
 hits: 25
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 25 TikTok influencers like this in South Africa for you to collaborate.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 25 TikTok influencers like this in South Africa for you to pitch.
 profiles:
   - username: "vintage_doll"
     fullname: >-
       Yusrah Tayob :)
     bio: >-
-      🇿🇦🇲🇿 She/her just here to spread some love - 🌻 Mental health awareness 💛
+      🇿🇦🇲🇿 She/her All vibes are welcome here - 🌻 Mental health awareness 💛
     location: "South Africa"
-    followers: 6679
-    engagement: 2724
-    commentsToLikes: 0.053012
+    followers: 6735
+    engagement: 1898
+    commentsToLikes: 0.054896
     id: ck9emc3xheht40j785ikus8dg
     verified: false
-    hashtags: "#spreadlove, #trending, #dance, #tiktoksa"
+    hashtags: "#foryou, #fyp, #transition, #tiktoksa"
+  - username: "bella_monsoon"
+    fullname: >-
+      bella_monsoon
+    bio: >-
+      A literal shapeshifter. Makeup💄Mental Health🧠 Mystery🕵🏽‍♀️ Rising Voices🇿🇦
+    location: "South Africa"
+    followers: 155400
+    engagement: 1447
+    commentsToLikes: 0.059912
+    id: ckbkxz3f3u4to0j23q35zvek1
+    verified: true
+    hashtags: "#lilnasx, #fyp, #bellamonsoon, #risingvoices"
+  - username: "life_with_lerato"
+    fullname: >-
+      Life_with_Lerato
+    bio: >-
+      🇿🇦Easy recipes. Healthy Lifestyle. Travel YouTube/IG: wholesome_lerato
+    location: "South Africa"
+    followers: 95600
+    engagement: 857
+    commentsToLikes: 0.021883
+    id: ckav9fwxigs230j23nwshz012
+    verified: false
+    hashtags: "#africanfood, #stitch, #tiktokfoodie, #foodtiktokfood"
+  - username: "tessietoots"
+    fullname: >-
+      Tessa
+    bio: >-
+      Enjoying life.. #warriorrogue #thementalcrew Mom of 3👩‍👩‍👧‍👧Taken
+    location: "South Africa"
+    followers: 6965
+    engagement: 3005
+    commentsToLikes: 0.203809
+    id: ckb9if1ow8u580j2309arbi02
+    verified: false
+    hashtags: "#itsmetessa, #healthyheart, #anotherdraftday, #thementalcrew"
   - username: "ourhealthylifestyle"
     fullname: >-
       eden  + bella <3
     bio: >-
-      ☆ follow us to see more food inspo ! ☆ ig: ourhealthlifestyle🦋
+      lifestyle+food🤍
     location: "South Africa"
-    followers: 28900
-    engagement: 1625
-    commentsToLikes: 0.016780
+    followers: 27300
+    engagement: 1492
+    commentsToLikes: 0.017582
     id: ckbkxhs2ite520j23ku4gx8e6
     verified: false
-    hashtags: "#foryoupage, #corona, #viral, #food"
+    hashtags: "#fyp, #bling, #foryoupage, #morningroutine"
+  - username: "kakkerra"
+    fullname: >-
+      Kerra Harper 🦋
+    bio: >-
+      use code “Kerra” for 10% off romwe 19 | positivity ✨🦋 SUBSCRIBE to my channel
+    location: "South Africa"
+    followers: 38700
+    engagement: 1390
+    commentsToLikes: 0.009339
+    id: cka0p2eff6h7r0i78iqgb3roz
+    verified: false
+    hashtags: "#summer2021, #krispykreme, #foryoupage, #nespresso"
+  - username: "chellanfit"
+    fullname: >-
+      Aidan Chellan
+    bio: >-
+      Follow me on IG 👆🏽 for home workouts & easy recipes On the road to 16k🔥
+    location: "South Africa"
+    followers: 15200
+    engagement: 627
+    commentsToLikes: 0.020013
+    id: ckbkxakk7t95k0j23ii6mpqm9
+    verified: false
+    hashtags: "#fitness, #fyp, #fitnesschallenge, #motivation"
   - username: "nourishdbowls"
     fullname: >-
       Nourish’d Bowls
     bio: >-
       Stay Nourish’d with out Smoothie Bowls Create your own Masterpiece Smoothie 👇🏼
     location: "South Africa"
-    followers: 19400
-    engagement: 591
-    commentsToLikes: 0.011475
+    followers: 20400
+    engagement: 585
+    commentsToLikes: 0.011172
     id: ckbqvx7qwg67h0j23v1j0qbpl
     verified: false
-    hashtags: "#trending, #fyi, #healthy, #plantbasedrecipes"
-  - username: "angela.sa"
-    fullname: >-
-      Angela 💛
-    bio: >-
-      TG🎁: @nabilmolai @...skittles..char @andrepepler kerneelsjoubert @byron_preto
-    location: "South Africa"
-    followers: 223500
-    engagement: 1439
-    commentsToLikes: 0.061822
-    id: ck8tu71dfsd9r0j78aaeblcos
-    verified: true
-    hashtags: "#angesquad, #duet, #seemeontrace, #comedy"
-  - username: "lemiez_h"
-    fullname: >-
-      Lemiez
-    bio: >-
-      The craziest, funniest, funcky 32 yr old WifeyMom, proudly SOUTH AFRICAN 🇿🇦
-    location: "South Africa"
-    followers: 9987
-    engagement: 1309
-    commentsToLikes: 0.150459
-    id: ckdc8vkisi8850j23nnyuw0dk
-    verified: false
-    hashtags: "#tiktoksouthafrica, #fyp, #viral, #comedy"
+    hashtags: "#plantbased, #foryourpage, #trending, #healthyfood"
   - username: "christinacrysalis"
     fullname: >-
       Christina Crysalis
     bio: >-
       Create your own reality and transform your life ✨
     location: "South Africa"
-    followers: 8029
-    engagement: 835
-    commentsToLikes: 0.060615
+    followers: 7866
+    engagement: 823
+    commentsToLikes: 0.058064
     id: ckbqpqjnjaj0g0j23muv9ryfa
     verified: false
-    hashtags: "#advice, #spiritual, #fyp, #consciousness"
-  - username: "jamibouwer"
+    hashtags: "#dreams, #foryoupage, #motivation, #tips"
+  - username: "angelikabuhrow"
     fullname: >-
-      Jami-Lee Bouwer
+      Angelika Buhrow
     bio: >-
-      hey ;) ✨ insta: @jamibouwer ✨
+      Living a grateful life 🙏🏼 🇿🇦 ✝️ Psalm 91:11 ✝️
     location: "South Africa"
-    followers: 36600
-    engagement: 1304
-    commentsToLikes: 0.044147
-    id: ck9slj4ise7jv0j78ri1b2o3y
+    followers: 23800
+    engagement: 900
+    commentsToLikes: 0.091228
+    id: ck9slc8l3d8oz0j7800ccajts
     verified: false
-    hashtags: "#foryou, #tiktoksa, #waterfasting, #trending"
-  - username: "syedmuktasid"
-    fullname: >-
-      Syed Muktasid
-    bio: >-
-      🙃
-    location: "South Africa"
-    followers: 21100
-    engagement: 705
-    commentsToLikes: 0.063434
-    id: ck9k8b3qc8ary0j78zbi02xqq
-    verified: false
-    hashtags: "#foryoupage, #athomewithme, #fyp, #xyzbca"
-  - username: "drraedesai"
-    fullname: >-
-      Raeesa Desai
-    bio: >-
-      Ig handle: @Homeomedix Fertility|Weightloss|Aesthetics WhereMyPersonalityMeetsmy
-    location: "South Africa"
-    followers: 23400
-    engagement: 273
-    commentsToLikes: 0.040965
-    id: ckdhh1n2hxwye0j23vivswgq1
-    verified: false
-    hashtags: "#naturalinterventions, #doctorsoftiktok, #guthealth, #functionalmedicine"
-  - username: "chadhaupt_"
-    fullname: >-
-      Chad Haupt
-    bio: >-
-      F O R G I N G G E N T L E M E N 🐺 Menswear Style Tips Build a timeless wardrobe
-    location: "South Africa"
-    followers: 55600
-    engagement: 441
-    commentsToLikes: 0.045717
-    id: ckck3asvwn4bj0j23hjalbtjd
-    verified: false
-    hashtags: "#autumnfashion, #mensfashion, #mensstyleguide, #dating"
+    hashtags: "#southafrica, #funny, #duet, #fail"
 ---

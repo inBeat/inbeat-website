@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Poland in 2023
+title: Top 10 Chefs Instagram Influencers In Poland In 2023
 description: >-
-  Find top chefs Instagram influencers in Poland in 2023. Most popular hashtags: #food #foodporn #chef #foodie.
+  Find top chefs Instagram influencers in Poland in 2023. Most popular hashtags: #warszawa #masterchef #love #food.
 platform: Instagram
-hits: 40
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 40 Instagram influencers like this in Poland for you to pitch.
+hits: 35
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 35 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "ewawachowicz"
+  - username: "afrykanskifoodblog"
     fullname: >-
-      Ewa Wachowicz
+      ꧁Zuza Afrykañska꧂ || 𝙼𝚘𝚍𝚎𝚕𝚔𝚊
     bio: >-
-      tv producer// chef & mother// autor of culinary books// fit & climbing owner of @zalipiankiewawachowiczofficial 📩 Management: ada@ginal-zwolinska.pl
+      Flexi Chef🧇 ☞ Fearless food Challenge @zuzaafrykanska🇵🇱|| Psychology🇬🇧👩🏼‍🎓 Umami+Miso+Kombucha💖 ☞︎afrykanskifoodblog@gmail.com☜︎ 👇🏼EBOOK || Podcast👇🏼
     location: "Poland"
-    followers: 152008
-    engagement: 140
-    commentsToLikes: 0.028847
-    id: ck5bzpwj1rmdi0i11399k12yr
+    followers: 8725
+    engagement: 830
+    commentsToLikes: 0.127589
+    id: ckaovl1f850qy0i787cxupgok
     verified: false
-    hashtags: "#dom, #poranek, #fit, #dbajosiebie"
+    hashtags: "#wegetarianskie, #jedzonko, #przepisik, #babaganoush"
   - username: "lukaszurbanskihair"
     fullname: >-
       Łukasz Urbański Poland
     bio: >-
       💇Hair Team Łukasz Urbański 📺Top Model, You Can Dance, Master Chef 🎬Mam Talent i in. 📆+48 500 044 303 ul. Krzyżówki 1B, Warsaw, Poland 03-193
     location: "Poland"
-    followers: 30817
-    engagement: 157
-    commentsToLikes: 0.033369
+    followers: 31868
+    engagement: 158
+    commentsToLikes: 0.057453
     id: ck5cesxvplnb60i110egwbfvm
     verified: false
-    hashtags: "#krzy, #newsalon, #fryzjergwiazd, #newplace"
-  - username: "wegannerdblog"
-    fullname: >-
-      🍇🍅 Alicja Rokicka 🍆🍉🐈
-    bio: >-
-      Vegan Chef🍴 Współpraca: 📩 vegannerd.blog@gmail.com Nowy przepis ⬇️⬇️
-    location: "Poland"
-    followers: 42128
-    engagement: 347
-    commentsToLikes: 0.026111
-    id: ck5cbt8dkg49d0i113y40l6zt
-    verified: false
-    hashtags: "#food, #plantbaseddiet, #bread, #levitomadre"
-  - username: "maciek.hotelparadise"
-    fullname: >-
-      Maciej Kindler (Kindrelka)
-    bio: >-
-      🌴 HOTEL PARADISE 🥇 Sport 🍴 Chef 😂 Memes 🎶 Festivals 🎨 Art ..... ⬇️ WSPÓŁPRACA 📬 maciek.hotelparadise@gmail.com ..... #hotelparadise
-    location: "Poland"
-    followers: 169075
-    engagement: 971
-    commentsToLikes: 0.004016
-    id: ck9wgaa51sj1c0j787tf2x4xq
-    verified: false
-    hashtags: "#rajskierozdanie, #dieta, #photooftheday, #tv"
+    hashtags: "#metamorfose, #makeup, #hairteamlukaszurbanski, #birthdaywishes"
   - username: "michelmoran_official"
     fullname: >-
       Michel Moran
     bio: >-
       Chef👨‍🍳Kucharz🇫🇷🇪🇸 Restaurator w Bistro de Paris🦞 Juror w Masterchef @tvn.pl @discoverychannelpolska@discovery
     location: "Poland"
-    followers: 62569
-    engagement: 283
-    commentsToLikes: 0.011285
+    followers: 66432
+    engagement: 275
+    commentsToLikes: 0.013065
     id: ck0w3c0yysmzf0i19pngv2yi9
     verified: false
-    hashtags: "#tvshow, #konkurs, #espa, #ogr"
-  - username: "beatasniechowska"
+    hashtags: "#gotowanie, #konkurs, #tvshow, #work"
+  - username: "dgshowtv"
     fullname: >-
-      Beata Śniechowska
+      DG | Dariusz Gutkowski
     bio: >-
-      🏆WINNER of Master Chef Poland 💪Head Chef @mlodapolskabistro 📚Author of culinary books 🍴Ambasador @ambitionpolska 📩mail kontakt@beatasniechowska.pl
+      🔪 Chef ✖️ @sklep.stylizacjetv @shopunfollow.pl 🎥 YT: DGshowtv 💲dgshowtv@hotmail.com
     location: "Poland"
-    followers: 29236
-    engagement: 246
-    commentsToLikes: 0.047732
-    id: ck5hseffbwgjn0i112ve1d406
+    followers: 329411
+    engagement: 181
+    commentsToLikes: 0.006492
+    id: ck0w6ua7gabtx0i19znw7m6i2
     verified: false
-    hashtags: "#winnerofmasterchef, #odchudzanie, #breakfastideas, #healthyfood"
-  - username: "headcheff_artystasmaku"
+    hashtags: ""
+  - username: "tomekwrosole"
     fullname: >-
-      Arkadiusz Płoński
+      Tomasz Borecki
     bio: >-
-      🔪Head Chef @endorfinafoksal 🔪Culinary Critic 🔪Autor dwóch ebooków kulinarnych ✍️Cooperation: arekplonski@gmail.com YouTube 🎥
+      🏆MasterChef Poland VII 👨‍🍳Owner @kultura_pichcenia 🍴Ambasador @thermomixpl 📩Kontakt/współpraca: tomekwrosole@wp.pl 🥑🥞🍲🍳 Food Blogger
     location: "Poland"
-    followers: 75156
-    engagement: 87
-    commentsToLikes: 0.063392
-    id: ck6ues6ttss630j71o1vg34hg
+    followers: 16169
+    engagement: 351
+    commentsToLikes: 0.030124
+    id: ckaoyafflgoad0i787i5op8wt
     verified: false
-    hashtags: "#love, #restaurant, #food, #chef"
-  - username: "lorek.zediu"
+    hashtags: "#boy, #friends, #food, #cracow"
+  - username: "grzesiek_zawierucha_masterchef"
     fullname: >-
-      Chef Lorek
+      Grzesiek Zawierucha MasterChef
     bio: >-
-      Vice Masterchef PL 2018 Romanian/Balkan food Juror #śpiewamyrazem FB: Chef Lorek Współpraca: chef.lorek@protonmail.com
+      🪙Zwycięzca 8 edycji @masterchef_tvn 📺 Zawieruchy przepis na kino 📚 Zawierucha w kuchni 📞Olga Kraszewska 507 693 052 📧agent@zawieruchawkuchni.pl
     location: "Poland"
-    followers: 18673
-    engagement: 219
-    commentsToLikes: 0.052991
-    id: ck5cet3g7lnl00i11cahtq109
+    followers: 13236
+    engagement: 337
+    commentsToLikes: 0.055212
+    id: ck5hij7xxdsm60i11z0giv4n6
     verified: false
-    hashtags: "#pomidor, #pycha, #kapusta, #mi"
-  - username: "iifym_chef"
+    hashtags: "#gourmet, #foodie, #cheflife, #culinaryarts"
+  - username: "pastry_hard"
     fullname: >-
-      Fit recipes | Fit przepisy
+      Michał
     bio: >-
-      🍕 Flexible diet 🏥 Physiotherapist 💪 Gym freak 🎥 Youtube 📷 @wiaraliczacamakro WASZE FOTY 📩Cooperation ➡ iifymchef@gmail.com ⬇ZOBACZ LINKI⬇
+      ⓅⒶⓈⓉⓇⓎ ⒽⒶⓇⒹ pastry freak🐷🐷🐷🐷 Warsaw, Poland 🇵🇱 pastryhard@gmail.com ⬇️⬇️⬇️
     location: "Poland"
-    followers: 49771
-    engagement: 533
-    commentsToLikes: 0.009364
-    id: ckf5nc5a5xmx40j23ai0jazkz
+    followers: 21521
+    engagement: 392
+    commentsToLikes: 0.016044
+    id: ck14lierruu2i0i19p2lyugbt
     verified: false
-    hashtags: "#pakujeniemarnuje"
-  - username: "facet_w_kuchni_przy_kieliszku"
+    hashtags: "#warszawa, #polska, #foodart, #pastrylove"
+  - username: "majastrojek"
     fullname: >-
-      Bartosz Kopica
+      Maja Strojek Model Actress
     bio: >-
-      Fan dobrego jedzenia i samozwańczy kucharz 😉 Przepis pod prawie każdym zdjęciem, bo czasem mi się nie chce pisać 😜 #gotowanie Zapraszamy na grupę FB⏬⏬
+      📍 Warsaw TikTok: majastrojek_ 📸 photoshoot 🎥 video 🎬 movies, series ❤️ Food Love music, dance, video games, memes and more 📩 majastrojek@gmail.com
     location: "Poland"
-    followers: 84403
-    engagement: 236
-    commentsToLikes: 0.036870
-    id: ckapc7d212rmm0i78wf9gs5k5
+    followers: 576756
+    engagement: 192
+    commentsToLikes: 12.465804
+    id: ck5bxb0kwndin0i119qbbxato
     verified: false
-    hashtags: "#yummy, #przepis, #pomidory, #pysznie"
+    hashtags: "#photoshoot, #photooftheday, #women, #naturallight"
+  - username: "martyna.chomacka"
+    fullname: >-
+      Martyna Chomacka MasterChef
+    bio: >-
+      ✧ | FINALIST MASTERCHEF POLAND 7 ✈︎ | TRAVELER ♡ | FOODLOVER ➵ | ADVENTURE SEEKER ⇣ | MAIL: martyna.chomacka@gmail.com
+    location: "Poland"
+    followers: 27320
+    engagement: 386
+    commentsToLikes: 0.034022
+    id: ck0u642yd10ed0i19u6j5yys1
+    verified: false
+    hashtags: "#winterwonderland, #italy, #bohochic, #bieszczady"
+  - username: "nikol_koszek"
+    fullname: >-
+      Nikoletta Koszek
+    bio: >-
+      •🔝10 MasterChef Polska 6 edycja •#koszekgotuje •#koszektestuje •Food&Book Lover •współpraca: nikol.koszek@gmail.com
+    location: "Poland"
+    followers: 17411
+    engagement: 822
+    commentsToLikes: 0.012774
+    id: ckap7e52kjoi30i7837fh1qn0
+    verified: false
+    hashtags: "#koszektestuje, #perfect, #cookinggirl, #purehappiness"
 ---

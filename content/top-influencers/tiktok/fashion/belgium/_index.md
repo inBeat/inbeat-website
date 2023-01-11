@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Belgium in 2023
+title: Top 10 Fashion TikTok Influencers In Belgium In 2023
 description: >-
-  Find top fashion TikTok influencers in Belgium in 2023. Most popular hashtags: #fashion #foryou #viral #fyp.
+  Find top fashion TikTok influencers in Belgium in 2023. Most popular hashtags: #fashion #foryou #fyp #outfit.
 platform: TikTok
-hits: 32
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database has 32 TikTok influencers like this in Belgium for you to connect with.
+hits: 38
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 38 TikTok influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "itsblossomtea"
     fullname: >-
       Itsblossomtea
     bio: >-
-      Liège, Belgium 🇧🇪 Lifestyle • Fashion • Creativity Retrouvez-moi sur Insta⤵
+      Liège, Belgium 🇧🇪 Creativity • Fashion • Lifestyle Instagram ⤵
     location: "Belgium"
-    followers: 19800
-    engagement: 965
-    commentsToLikes: 0.081136
+    followers: 36400
+    engagement: 963
+    commentsToLikes: 0.055478
     id: ckcdrpg51cwtn0j23wuy2bdlz
     verified: false
-    hashtags: "#mode, #magie, #halloween, #trend"
-  - username: "foryoubella.com"
+    hashtags: "#tiktokacademie, #lemoisfashion, #dueldeslooks, #trend"
+  - username: "yusufmakk"
     fullname: >-
-      Irish Anne Tello
+      YUSUF MAK  👑
     bio: >-
-      👆🏼Goal 50k before December ✨ I make beautiful jewellery. Online Fashion Shop
+      ✨ Instagram : Yusufmakk ✨ Fashion / Travelling 😍
     location: "Belgium"
-    followers: 39300
-    engagement: 530
-    commentsToLikes: 0.026708
-    id: ckbfganthbdy40j23ot8ud2w1
+    followers: 21900
+    engagement: 485
+    commentsToLikes: 0.042637
+    id: ckb0pxdcvfrvv0j235u1mr189
     verified: false
-    hashtags: "#tiktokacademie, #distorsiontemporelle, #lumieresur, #onlinestores"
+    hashtags: "#yusufmak, #dubai, #yusufmakk, #fero"
+  - username: "wolfvanvlasselaer"
+    fullname: >-
+      Wolf Vanvlasselaer
+    bio: >-
+      Hi 💁🏻‍♂️ Follow my IG : wolf_vanvlasselaer
+    location: "Belgium"
+    followers: 19000
+    engagement: 1563
+    commentsToLikes: 0.012848
+    id: ckdbtcph5ctpb0j23w2ls48c1
+    verified: false
+    hashtags: "#vibe, #fyp, #fashion, #vlog"
   - username: "donabr_dqnn_officiel"
     fullname: >-
       donabr_dqnn_officiel
     bio: >-
-      𝕭𝖊𝖑𝖌𝖊🇧🇪 1̴7̴ 𝚢𝚎𝚊𝚛𝚜 ꙆƮᙅᖴ 5Ʈᙖ🥳💪🥳 𝟙Ƽ~𝟙ϩ~𝟙९ 👫💍❤💑🥰
+      𝕭𝖊𝖑𝖌𝖊🇧🇪 𝟙𝟠 𝚢𝚎𝚊𝚛𝚜 ꙆƮᙅᖴ 5Ʈᙖ🥳💪🥳 𝟙Ƽ~𝟙ϩ~𝟙९ 👫💍❤💑🥰
     location: "Belgium"
-    followers: 3586
-    engagement: 1344
-    commentsToLikes: 0.029062
+    followers: 3654
+    engagement: 1650
+    commentsToLikes: 0.028470
     id: cka0phz4e8cmu0i78sk9rgsv1
     verified: false
-    hashtags: "#music, #musically, #frenchhumour, #humour"
-  - username: "ayoubbabyy"
-    fullname: >-
-      Ayoub Ben Ammar
-    bio: >-
-      modèle et chanteur 📀 30 K ? Insta : ayoubbabyy Snap : ayoubbabyy 👇
-    location: "Belgium"
-    followers: 29800
-    engagement: 1123
-    commentsToLikes: 0.032370
-    id: ckbfedphs8aep0j23njoflng5
-    verified: false
-    hashtags: "#fypp, #storytime, #fyp, #pourtoi"
-  - username: "potverdekke"
-    fullname: >-
-      Arthur Van der Lindn
-    bio: >-
-      we try to be aesthetically pleasing :) +32/🇧🇪
-    location: "Belgium"
-    followers: 144000
-    engagement: 1735
-    commentsToLikes: 0.011758
-    id: ckb9p5ztsjybu0j23cr6mbrlt
-    verified: false
-    hashtags: "#aesthetic, #antwerp, #pintrest, #fashion"
-  - username: "majalex_"
-    fullname: >-
-      MAJA LEX 
-    bio: >-
-      Belgian model 18 Insta : @majalex
-    location: "Belgium"
-    followers: 25200
-    engagement: 1176
-    commentsToLikes: 0.010859
-    id: cka0rviilioiy0i78pc2d683t
-    verified: false
-    hashtags: "#model, #modeling, #modellife, #foryou"
+    hashtags: "#photography, #tag, #belgium, #model"
   - username: "iamstefanny"
     fullname: >-
       iamstefanny 
     bio: >-
-      Instagram: iamstefanny ✨🌈🦋🧃 3яα¢нα
+      Instagram: iamstefanny She/her 🦋
     location: "Belgium"
-    followers: 66600
-    engagement: 1723
-    commentsToLikes: 0.011090
+    followers: 67700
+    engagement: 1771
+    commentsToLikes: 0.010130
     id: ck9em4wpvdldd0j78qbir2fet
     verified: false
-    hashtags: "#fashion, #jennie, #kpop, #blackpink"
+    hashtags: "#rose, #jisoo, #jennie, #blackpink"
+  - username: "majalex_"
+    fullname: >-
+      MAJA LEX 
+    bio: >-
+      Belgian model / model tok 🤍 18 @majalex_
+    location: "Belgium"
+    followers: 48100
+    engagement: 1003
+    commentsToLikes: 0.010302
+    id: cka0rviilioiy0i78pc2d683t
+    verified: false
+    hashtags: "#tallgirl, #modellife, #majalex, #models"
+  - username: "aurelaskandaj"
+    fullname: >-
+      Aurela Skandaj
+    bio: >-
+      Insta: @aurelaskandaj Follow me 💞 From 🇦🇱 living in 🇧🇪 https://bit.ly/3mjb
+    location: "Belgium"
+    followers: 567200
+    engagement: 1123
+    commentsToLikes: 0.011073
+    id: cka0ujw96unop0i78rix38c1o
+    verified: true
+    hashtags: "#pourtoi, #fyp, #foryou, #viral"
+  - username: "potverdekke"
+    fullname: >-
+      Arthur Van der Lindn
+    bio: >-
+      we try to be aesthetically pleasing :) +32/🇧🇪 He/him
+    location: "Belgium"
+    followers: 141300
+    engagement: 1215
+    commentsToLikes: 0.010812
+    id: ckb9p5ztsjybu0j23cr6mbrlt
+    verified: false
+    hashtags: "#vlog, #haul, #fit, #fashion"
   - username: "mocean__"
     fullname: >-
       Natacha & Melanie
     bio: >-
       Yes we’re the girls from Pinterest Instagram: @mocean__ Mocean@musetheagency.com
     location: "Belgium"
-    followers: 49600
-    engagement: 1181
-    commentsToLikes: 0.010444
+    followers: 50900
+    engagement: 1153
+    commentsToLikes: 0.012326
     id: ckcuz6tobmnq90j23ocbdaiad
     verified: false
-    hashtags: "#fyp, #foryoupage, #clothes, #subdued"
-  - username: "tulipa_dias"
+    hashtags: "#foruyou, #outfits, #viral, #closet"
+  - username: "lolitaoliveri"
     fullname: >-
-      tulipa_dias
+      Lolita Oliveri
     bio: >-
-      Brazilian living in Belgium and in the sky 🇧🇷✈️📸 Instagram: tulipa_dias
+      Model & Bikini designer CEO of @loolita_swimwear 👙 I SEW & SELL CUSTOM BIKINI
     location: "Belgium"
-    followers: 24400
-    engagement: 451
-    commentsToLikes: 0.014922
-    id: cka0s3shqjsao0i78krs6v3os
+    followers: 43200
+    engagement: 1128
+    commentsToLikes: 0.046217
+    id: ck9flmorloqr70j78bnfjydvl
     verified: false
-    hashtags: "#antwerpen, #flightattendant, #tiktokbelgium, #belgi"
-  - username: "limaswardrobe"
-    fullname: >-
-      Lima Ché
-    bio: >-
-      Follow me on Instagram @limaswardrobe 💋
-    location: "Belgium"
-    followers: 80000
-    engagement: 484
-    commentsToLikes: 0.009183
-    id: ckbb542jzvbqo0j23yd917akg
-    verified: false
-    hashtags: "#viral, #sisters, #foryoupage, #pourtoi"
+    hashtags: "#foryou, #handmade, #smallbusiness, #fyp"
 ---

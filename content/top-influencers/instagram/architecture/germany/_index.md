@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Germany in 2023
+title: Top 10 Architecture Instagram Influencers In Germany In 2023
 description: >-
-  Find top architecture Instagram influencers in Germany in 2023. Most popular hashtags: #berlin #gramslayers #germany.
+  Find top architecture Instagram influencers in Germany in 2023. Most popular hashtags: #nature #berlin #moodygrams #naturelovers.
 platform: Instagram
-hits: 646
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 646 Instagram influencers like this in Germany for you to pitch.
+hits: 450
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 450 Instagram influencers like this in Germany for you to contact.
 profiles:
+  - username: "alexanderpaar"
+    fullname: >-
+      Alexander Paar
+    bio: >-
+      Creative mind w/ a passion for #interior #design #architecture #travel 🤍 Feel free to explore my world 🌍 ✉️ via DM📍based in Germany Impressum
+    location: "Germany"
+    followers: 137602
+    engagement: 125
+    commentsToLikes: 0.110677
+    id: ck5c4ju3v1i7n0i11jfbj42lc
+    verified: false
+    hashtags: "#homedecoration, #nordiskdesign, #monochromehome, #altbauliebe"
   - username: "laracvic"
     fullname: >-
       𝐋.𝐂.
     bio: >-
       germany | hrvatska architecture student 𝐸𝒱
     location: "Germany"
-    followers: 3468
-    engagement: 3776
-    commentsToLikes: 0.105297
+    followers: 3870
+    engagement: 1938
+    commentsToLikes: 0.088203
     id: ck0tt8l061m780i199mz7v2cc
     verified: false
     hashtags: ""
-  - username: "niklaskamp_"
+  - username: "alinaebner96"
     fullname: >-
-      NIKLAS ©
+      Alina Ebner
     bio: >-
-      ✖️Photographer, Berlin ✖️Portrait, Architecture ✖️DM for Collaborations
+      📸 | #Lifestyle #mentalhealth #cats 📍 | Düsseldorf, Germany 🎓 | Interior Architecture 💛 | happily taken
     location: "Germany"
-    followers: 3781
-    engagement: 2648
-    commentsToLikes: 0.070410
-    id: ck13bp6h2why60i1972swdjbc
+    followers: 17092
+    engagement: 550
+    commentsToLikes: 0.059020
+    id: ckaous58s1kxy0i78pqcyyrij
     verified: false
-    hashtags: "#heatercentral, #unknownperspectives, #mirrorlessgeeks, #thecreativeshots"
-  - username: "steph.ernst"
+    hashtags: "#blackandwhite, #fashioninspo, #berlin, #berlingirl"
+  - username: "charlinesofie"
     fullname: >-
-      𝑺𝒕𝒆𝒑𝒉𝒂𝒏𝒊𝒆 𝑬𝒓𝒏𝒔𝒕
+      Charline
     bio: >-
-      journalist @ G+J fashion, architecture, lifestyle Germany / HH & DUS 🇩🇪🇮🇹
+      twenty one | T 🖇 | near dus | @kodakroom ☁️ architecture & interior design ☁️
     location: "Germany"
-    followers: 10135
-    engagement: 562
-    commentsToLikes: 0.083321
-    id: ck14h3yj78fl40i19triqin3i
+    followers: 4368
+    engagement: 1928
+    commentsToLikes: 0.065743
+    id: ck9whv2hkzlsb0j786xoayyrw
     verified: false
-    hashtags: "#germanblogger, #bloggermode, #trendylook, #minimalista"
-  - username: "madskarlsson84"
-    fullname: >-
-      Robert H.
-    bio: >-
-      architecture, dog, friends & me /// Berlin.
-    location: "Germany"
-    followers: 41202
-    engagement: 594
-    commentsToLikes: 0.026415
-    id: ck0tyirm3n0210i19mkdayuvx
-    verified: false
-    hashtags: "#happy, #weekend, #fall, #trees"
-  - username: "johana_majewsky"
-    fullname: >-
-      Jo.M 💋
-    bio: >-
-      Travel, books, architecture, food, art & whatever makes life amusing 61 countries visited + 14 cruise tours
-    location: "Germany"
-    followers: 24949
-    engagement: 261
-    commentsToLikes: 0.090152
-    id: ckapc5piq2krw0i78dcqqx7xd
-    verified: false
-    hashtags: "#travelphotography, #reisen, #wakacje2020, #italien"
-  - username: "pssthannah"
-    fullname: >-
-      Hannah Schepmann
-    bio: >-
-      📍 cologne | siegen 🎧 voice actress 👩🏼 24 | 📐✂️📚architecture student 🌸 flowers | ☀️ summer | 🥑 avocado
-    location: "Germany"
-    followers: 6326
-    engagement: 971
-    commentsToLikes: 0.111315
-    id: ck8tas5ussuej0j784tyxxobw
-    verified: false
-    hashtags: "#aesthetic, #vintageaesthetic, #sheisnotlost, #femmetravel"
-  - username: "julia.kammerer"
-    fullname: >-
-      Julia Kammerer
-    bio: >-
-      twenty3 | german | architecture | with @eastwestmodels |ma| @zone_models @damodelmanagement
-    location: "Germany"
-    followers: 20475
-    engagement: 667
-    commentsToLikes: 0.024476
-    id: ck6tnq0xraca50j713c7uruno
-    verified: false
-    hashtags: ""
-  - username: "wohl.photography"
+    hashtags: "#loftstudio, #bravopost, #portraitgermany, #indoorshooting"
+  - username: "sun_pitt"
     fullname: >-
       
     bio: >-
-      French Photographer and digital artist. Between dance, architecture, conceptual and fine art photography. Based in Berlin.
+      Germany Hobbyfotograf of nature, seasons, landscapes, flowers, animals, architecture... all fotos taken with a samsung galaxy s7 edge
     location: "Germany"
-    followers: 4752
-    engagement: 1657
-    commentsToLikes: 0.080390
-    id: ck8t3qhnh43xp0j781yq0h9qx
+    followers: 7601
+    engagement: 1707
+    commentsToLikes: 0.124171
+    id: ck0uaq4q7cv6b0i19tc837ojv
     verified: false
-    hashtags: "#professionaldancer, #geometry, #pointshoes, #perspective"
-  - username: "maronmr"
+    hashtags: "#parsonterrier, #schneezauber, #parsonrussellterrier, #blumengruss"
+  - username: "allabout.ness"
     fullname: >-
-      Maro 💄
+      NESRIN
     bio: >-
-      27 | 📍Berlin 🇩🇪 | 🇱🇧🇵🇸 | 🎓 architecture ✉ PR = makeupbydobreva@outlook.com 💸% use "GLAMFAM840" at @morphebrushes & "Breva" at @ttd_eye
+      Nesrin Yildiz studying architecture
     location: "Germany"
-    followers: 5834
-    engagement: 647
-    commentsToLikes: 0.323964
-    id: ck6uf3xucuqx40j71npmhgih6
+    followers: 2240
+    engagement: 749
+    commentsToLikes: 0.032633
+    id: ckap8jpigom800i78ugua0qtr
     verified: false
-    hashtags: "#aestheticmakeup, #makeupdollz, #morphehalloween, #maquillajedeojos"
-  - username: "charlinesofie"
+    hashtags: "#hamburg, #holiday, #carmushkabielefeld, #santacruz"
+  - username: "manuela.zita.b"
     fullname: >-
-      Charline Sofie
+      manuela
     bio: >-
-      ⚡️dus | 🖇 T | 🪐 twenty ☁️ architecture & interior design ☁️
+      ➴ germany - france interested in travel, food, culture, architecture/design & whatever makes life amusing. all pictures are taken by myself ©
     location: "Germany"
-    followers: 2879
-    engagement: 3206
-    commentsToLikes: 0.045015
-    id: ck9whv2hkzlsb0j786xoayyrw
+    followers: 6269
+    engagement: 2573
+    commentsToLikes: 0.069413
+    id: ck0tzcsw0pu9d0i19fmm8y8fl
     verified: false
-    hashtags: "#moodygrams, #moodyports, #greatshot, #portraitsmadeingermany"
+    hashtags: "#instagram, #naturephotography, #bnw, #lacdannecy"
+  - username: "janbreckwoldt_photography"
+    fullname: >-
+      Jan Breckwoldt
+    bio: >-
+      Sydney based photographer. Originally from Hamburg, Germany. Loves travelling, landscape & architecture See link for Vivid with a View
+    location: "Germany"
+    followers: 11588
+    engagement: 632
+    commentsToLikes: 0.061834
+    id: ck5cc62vhgsbm0i113kjfjb6w
+    verified: false
+    hashtags: "#seeaustralia, #sydneyharbour, #transportfornsw, #mint"
+  - username: "moodfella"
+    fullname: >-
+      Mood | Nature | Architecture
+    bio: >-
+      May the mood be with u! My passion: Landscape combined with architecture.
+    location: "Germany"
+    followers: 19026
+    engagement: 655
+    commentsToLikes: 0.152761
+    id: ck0w5v6ym5kzt0i19gfpvw4k2
+    verified: false
+    hashtags: "#agameoftones, #rsa, #hellofrom, #castlemypassion"
+  - username: "scwilder"
+    fullname: >-
+      𝚂𝚊𝚟𝚒𝚝𝚛𝚒 𝚆𝚒𝚕𝚍𝚎𝚛
+    bio: >-
+      🌿 American in Germany 📧 hello@savitriwilder.com to collab ✈️ travel, architecture and storytelling 🔻 A Nikon #ZCreators
+    location: "Germany"
+    followers: 49187
+    engagement: 676
+    commentsToLikes: 0.025052
+    id: ck6ui561ud4oe0j71tl6y0t6y
+    verified: false
+    hashtags: "#nikon, #zcreators, #z50, #nikkor"
 ---

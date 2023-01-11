@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Colombia in 2023
+title: Top 10 Guitar Instagram Influencers In Colombia In 2023
 description: >-
-  Find top guitar Instagram influencers in Colombia in 2023. Most popular hashtags: #guitar #guitarist #music.
+  Find top guitar Instagram influencers in Colombia in 2023. Most popular hashtags: #guitar #music #tbt #photography.
 platform: Instagram
-hits: 39
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 39 Instagram influencers like this in Colombia for you to connect with.
+hits: 28
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 28 Instagram influencers like this in Colombia for you to connect with.
 profiles:
   - username: "tobytobon"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Productor,Compositor Guitarrista, Latin Grammy Award Winner
     location: "Colombia"
-    followers: 36313
-    engagement: 443
-    commentsToLikes: 0.044025
+    followers: 37636
+    engagement: 440
+    commentsToLikes: 0.045699
     id: ck6u9983mw7fm0j71cvpetyxl
     verified: false
-    hashtags: "#love, #babeldiscos, #truthdontdie, #ceremonial"
+    hashtags: "#desdecasaestudio, #nuevotalento, #musicaurbana, #shaman"
   - username: "wills_music"
     fullname: >-
       Wills ⚡
     bio: >-
       Modelo, Guitarrista y creativo.
     location: "Colombia"
-    followers: 7216
-    engagement: 986
-    commentsToLikes: 0.035087
+    followers: 7094
+    engagement: 1030
+    commentsToLikes: 0.033674
     id: ck139x63unkfl0i19cnzv9ebn
     verified: false
-    hashtags: "#estilo, #pasarelas, #model, #modellife"
-  - username: "camilagarciaurr"
-    fullname: >-
-      Camila García
-    bio: >-
-      vzla 🇻🇪 Ukelele, algo de guitarra y canto un poco también ❤️🎵 | Canal de YT 🎥 la buena vibra se contagia 🤘🏻⭐️ Sigueme en TikTok 👉🏻 @camilagarciaurr
-    location: "Colombia"
-    followers: 12753
-    engagement: 551
-    commentsToLikes: 0.043982
-    id: ck6ubvudlc03e0j71g2kxgjxb
-    verified: false
-    hashtags: "#cover, #venezuela, #ukelelecover, #newlight"
-  - username: "sergioflecken"
-    fullname: >-
-      Sergio Martín Flecken
-    bio: >-
-      Músico-Freelance musician 🎸 Guitarrista en: • musical @lallamada_ | • @nerearoficial 🇪🇸💔🇺🇸 📍 Madrid 📩 sergioflecken@hotmail.com
-    location: "Colombia"
-    followers: 6063
-    engagement: 605
-    commentsToLikes: 0.035877
-    id: ck8sykxh2l4ug0j78ryk5nvzg
-    verified: false
-    hashtags: "#coronavirus, #plenitud, #estoyregalao, #nomearrebusquesquemereconejo"
+    hashtags: "#phoshoot, #tbt, #portrait, #photooftheday"
   - username: "genogamez"
     fullname: >-
       Geño Gamez
     bio: >-
       Guitarrista y Productor Musical🙏🏻🎸👌🏻 Jesucristo Es El Camino La Verdad y La Vida🙏🏻
     location: "Colombia"
-    followers: 75049
-    engagement: 152
-    commentsToLikes: 0.052753
+    followers: 79290
+    engagement: 130
+    commentsToLikes: 0.038409
     id: ck5qd7qqju8aj0i11q4kbbw7y
     verified: false
-    hashtags: "#patriciateran, #tiktok, #alejoduran"
-  - username: "zak_ospina"
-    fullname: >-
-      
-    bio: >-
-      Inspiración, bboy lil g El baile es una expresión de sentimientos Si amás algo, no lo dejes ir 🦂🦂 IM L Guitarra, BAILAR Futuro bboy, o ya lo soy??
-    location: "Colombia"
-    followers: 3037
-    engagement: 1033
-    commentsToLikes: 0.078826
-    id: ck5zjixbshodp0i14o0cd2jeb
-    verified: false
-    hashtags: "#bailar, #coreography, #freestyle, #shuffle"
+    hashtags: "#valledupar, #repost, #laslocurasmias, #socorrosantander"
   - username: "grtchandres"
     fullname: >-
       Andres Castro
     bio: >-
       JESUS ES MI TODO🔺Gretsch artist🔺g7th capo artist🔺jhs y humboldt pedals artist🔺Luthier oficial @taylorguitars @acgluthier🔺guitarrista de @generacion_12
     location: "Colombia"
-    followers: 9156
-    engagement: 860
-    commentsToLikes: 0.017579
+    followers: 9754
+    engagement: 638
+    commentsToLikes: 0.025404
     id: ckaorqve3ockc0i7886ozovv8
     verified: false
-    hashtags: "#gottone, #guitarist, #pray, #ambientguitar"
-  - username: "geogymills"
+    hashtags: "#monocreators, #guitar, #ambientguitar, #tonefordays"
+  - username: "alfalonxo"
     fullname: >-
-      Geogy Mills
+      Alfredo Alonso
     bio: >-
-      Productor musical ▪️Guitarrista de Sebastián Yatra▪️The Mills ▪️Artista Gibson ▪️Nuevo Album en vivo de The Mills🇨🇴
+      @alesteoficial @bizarrolivecl #lunaticos #tvcondoro #drspot #promoter #producer #manager #guitarrista #garagemusic #publicista #happydad #lovemyfamily
     location: "Colombia"
-    followers: 31389
-    engagement: 587
-    commentsToLikes: 0.116492
-    id: ck6u99adaw7vd0j71ke0h4f02
+    followers: 31614
+    engagement: 167
+    commentsToLikes: 0.094389
+    id: ck5hise8cf4v90i11gh7gxd4m
     verified: false
-    hashtags: "#kingofbeers, #gibson, #guitar, #lennon"
+    hashtags: "#vamoscontodo, #music, #rodespinoza, #aleste"
   - username: "davidpache.co"
     fullname: >-
       David Pacheco
     bio: >-
       
     location: "Colombia"
-    followers: 5885
-    engagement: 690
-    commentsToLikes: 0.061439
+    followers: 6171
+    engagement: 671
+    commentsToLikes: 0.060129
     id: ck5qd7pmlu83m0i11wdrsrizp
     verified: false
-    hashtags: "#guitarrasxclusivas, #touringmusician, #godisgood, #guitar"
-  - username: "luisanichollsv"
+    hashtags: "#lespaul, #eastmanguitars, #lollarpickups, #silvestredangond"
+  - username: "vicente_siriany"
     fullname: >-
-      Luisa Nicholls
+      Vicente Siriany
     bio: >-
-      Cantante | Compositora | Productora Musical Escucha mi Nuevo sencillo “ A un segundo de Tu boca”
+      hombreimaginario🎹🎸🎶🎈 Músico de @villacarino Escucha lo nuevo de Villa cariño a partir del las 00hrs!!! dale click al link ⬇️⬇️👇🔥
     location: "Colombia"
-    followers: 35277
-    engagement: 151
-    commentsToLikes: 0.040116
-    id: ck8szwt4lq07f0j78sf14t8yc
+    followers: 6056
+    engagement: 416
+    commentsToLikes: 0.068192
+    id: ck8sz2xfimyy00j785cjb2cwf
+    verified: false
+    hashtags: "#guitar, #cuarentena, #musicachilena, #music"
+  - username: "stefschreier"
+    fullname: >-
+      Stefan Schreier
+    bio: >-
+      💡 Digital Content- & 📈 Social-Media Manager @radioregenbogen 🎙 Host @nffspodcast 📸 Landscapes / Lifestyle / Portraits 📍 Mannheim/Heidelberg
+    location: "Colombia"
+    followers: 4405
+    engagement: 458
+    commentsToLikes: 0.018032
+    id: ck5hq855zso9w0i111m6wbqco
+    verified: false
+    hashtags: "#stage, #nature, #snow, #guitar"
+  - username: "andeezeta"
+    fullname: >-
+      Andee Zeta
+    bio: >-
+      Artist ⚡️ Producer ⚡️Song Writer 2 x Grammy winner Medellín📍 Welcome to my life 🎶🐶😸🍺🎵 Escucha: LO BONITO ES SIMPLE👇👇👇
+    location: "Colombia"
+    followers: 44605
+    engagement: 172
+    commentsToLikes: 0.091510
+    id: ck5he8j3yrlyk0i11jqo3ndsu
     verified: true
-    hashtags: "#musica, #dreamy, #latinqueens, #cantante"
+    hashtags: "#bogota, #newmusic, #newsingalert, #fashionphotography"
+  - username: "astriid.oficial1"
+    fullname: >-
+      A S T R I I D
+    bio: >-
+      Cantante / compositora 👁‍🗨.👁‍🗨 BAILA REGGAETÓN Escúchalo aqui👇
+    location: "Colombia"
+    followers: 6181
+    engagement: 93
+    commentsToLikes: 0.082740
+    id: ck9hc311yjj5h0j78p694m7x9
+    verified: false
+    hashtags: "#instagood, #photography, #flow, #reggaeton"
 ---

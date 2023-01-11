@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Houston in 2023
+title: Top 10 Fitness TikTok Influencers In Houston In 2023
 description: >-
-  Find top fitness TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #foryoupage #houston #fitness.
+  Find top fitness TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #fitness #texas.
 platform: TikTok
-hits: 32
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 32 TikTok influencers like this in Houston, United States for you to pitch.
+hits: 29
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 29 TikTok influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "emmietanner25"
+  - username: "9mayraalejandra"
     fullname: >-
-      Emily Tanner
+      Beauty_by_Mayra
     bio: >-
-      Fitness, flips & pups with a dash of dance
+      
     location: "United States"
-    followers: 16400
-    engagement: 651
-    commentsToLikes: 0.016553
-    id: ckbkf1gb15x5h0j236odumf62
+    followers: 3369
+    engagement: 639
+    commentsToLikes: 0.067866
+    id: cka0kfe7pmebm0i78ye4t7ocm
     verified: false
-    hashtags: "#fyp, #witnessmyfitness, #crossfit, #inyourface"
-  - username: "farhan_siddiqui3"
-    fullname: >-
-      farhan_siddiqui
-    bio: >-
-      YouTube: Neanderthals (Farhan Siddiqui) Snap: Farhan_Siddiqui
-    location: "United States"
-    followers: 39800
-    engagement: 1034
-    commentsToLikes: 0.452273
-    id: ckactrz69fiy60i78izn3nuek
-    verified: false
-    hashtags: "#shoeart, #foryoupage, #xyzbca, #anime"
-  - username: "samcando"
-    fullname: >-
-      Sam Jordan Hernandez
-    bio: >-
-      The glowforge lady from youtube SAM CAN DO Venmo - @Samcando
-    location: "United States"
-    followers: 32600
-    engagement: 1408
-    commentsToLikes: 0.040417
-    id: ck9fdjyz4owcj0j7867g051de
-    verified: false
-    hashtags: "#viral, #foryou, #fyp, #momsoftiktok"
-  - username: "emantheegyptian"
-    fullname: >-
-      Eman
-    bio: >-
-      professional hype woman always smiling ig: thedailyeman cash app: $ehass14
-    location: "United States"
-    followers: 6482
-    engagement: 768
-    commentsToLikes: 0.012623
-    id: ckb9bhm9vxrwf0j235up6r0b3
-    verified: false
-    hashtags: "#glowup, #everydayscience, #fyp, #weightloss"
-  - username: "houstontips"
-    fullname: >-
-      houstontips
-    bio: >-
-      HOUSTON BLOG food | fitness | lifestyle | events | travel | giveaways
-    location: "United States"
-    followers: 5484
-    engagement: 389
-    commentsToLikes: 0.032403
-    id: cka0ouref5lfr0i7873cnwl9y
-    verified: false
-    hashtags: "#houstonfood, #houston, #houstontx, #car"
-  - username: "kiddkrazy77"
-    fullname: >-
-      Kiddkrazy77
-    bio: >-
-      30 yrs old 👨🏾‍🦳 Made a wrong turn looking for IG 🤷🏾‍♂️ HTX🤘🏾
-    location: "United States"
-    followers: 27400
-    engagement: 563
-    commentsToLikes: 0.039214
-    id: ckbw5pku8y2lf0j23v2nj1i1i
-    verified: false
-    hashtags: "#blacklivesmatter, #fyp, #foryoupage, #funny"
-  - username: "fitwnickolee"
-    fullname: >-
-      Nicole ❣️
-    bio: >-
-      WELCOME TO MY FITNESS PAGE Mom of Mace ❤️ HOUSTON TX 🚀 Personal T .
-    location: "United States"
-    followers: 27100
-    engagement: 751
-    commentsToLikes: 0.009364
-    id: ckbf7nxfhxm1o0j23atzndbpq
-    verified: false
-    hashtags: "#workout, #gym, #foryoupage, #fyp"
+    hashtags: "#25, #mexico, #norte, #burpees"
   - username: "schlittesboxing"
     fullname: >-
       Schlitte’s Boxing
     bio: >-
       Houston, TX. Boxing is Life. Follow us on IG and FB @schlittesboxingandfitness
     location: "United States"
-    followers: 23200
-    engagement: 703
-    commentsToLikes: 0.014926
+    followers: 24600
+    engagement: 669
+    commentsToLikes: 0.015468
     id: ckcujfjotgfzg0j23jre9gr5f
     verified: false
-    hashtags: "#sports, #sparringhighlights, #viral, #sparring"
-  - username: "yoncetv"
+    hashtags: "#fyp, #viral, #texas, #boxingtraining"
+  - username: "nfl"
     fullname: >-
-      Yoncé Tv
+      NFL
     bio: >-
-      ✨Biggest Beyoncé Platform on Instagram 🎞HD video source @yoncelive Instagram
+      CEO of football
     location: "United States"
-    followers: 30400
-    engagement: 496
-    commentsToLikes: 0.005810
-    id: ckbfdgk8j6wvt0j23r1ate11r
-    verified: false
-    hashtags: "#tiktok, #viral, #otr2, #tiktokkosova"
-  - username: "j_raw17"
+    followers: 6100000
+    engagement: 1495
+    commentsToLikes: 0.011993
+    id: ck80ontdnilx10j78idw1x87q
+    verified: true
+    hashtags: "#jjwatt, #micdup, #nfldraft, #mattbosher"
+  - username: "houstontips"
     fullname: >-
-      J_Raw17
+      houstontips
     bio: >-
-      Follow me 💓 Twitter: @jonaemalbrough Insta : J_raw17 Snap : J_Malbrough17
+      HOUSTON BLOG food | fitness | lifestyle | events | travel | giveaways
     location: "United States"
-    followers: 8931
-    engagement: 1066
-    commentsToLikes: 0.062319
-    id: ckbbbq9rw0sjz0j23hgxdc7f0
+    followers: 5501
+    engagement: 405
+    commentsToLikes: 0.032570
+    id: cka0ouref5lfr0i7873cnwl9y
     verified: false
-    hashtags: "#fyp, #foryoupage, #xyzbca, #foruyou"
+    hashtags: "#houston, #houstontexas, #houstonfood, #houstontx"
+  - username: "bluebonnetsinthesummer"
+    fullname: >-
+      Edna A
+    bio: >-
+      OlllllllO 35 East Texas 18+ Try Jesus, not me
+    location: "United States"
+    followers: 40900
+    engagement: 1131
+    commentsToLikes: 0.099531
+    id: ckcps0ipem3a20j231sfaeofi
+    verified: false
+    hashtags: "#fyp, #texas, #single, #stitch"
+  - username: "warrior_jessica"
+    fullname: >-
+      warrior_jessica
+    bio: >-
+      Warrior Jessica Weight Loss Journey ⬇️ 192 LBS IG @warrior_jessica_slashes_fat
+    location: "United States"
+    followers: 61400
+    engagement: 766
+    commentsToLikes: 0.096899
+    id: ckce6l2qlknr40j23128jx46z
+    verified: false
+    hashtags: "#motivation, #fyp, #mondaymotivation, #morph"
+  - username: "fitwnickolee"
+    fullname: >-
+      Nicole ❣️
+    bio: >-
+      WELCOME TO MY FITNESS PAGE Mom of Mace ❤️ HOUSTON TX 🚀 💍 👨‍👩‍👦❤️
+    location: "United States"
+    followers: 26100
+    engagement: 1016
+    commentsToLikes: 0.010897
+    id: ckbf7nxfhxm1o0j23atzndbpq
+    verified: false
+    hashtags: "#workout, #foryourpage, #gym, #fyp"
+  - username: "yogijaz"
+    fullname: >-
+      Yogi Jaz Porter
+    bio: >-
+      Instagram @ yogijazporter Houston Based International Yoga Entrepreneur
+    location: "United States"
+    followers: 12600
+    engagement: 909
+    commentsToLikes: 0.018132
+    id: ck9v5ssknznbe0j789p5m9qx1
+    verified: false
+    hashtags: "#naturalhair, #comedy, #yogachallenge, #fyp"
+  - username: "spencer_sedillo"
+    fullname: >-
+      Spencer_sedillo
+    bio: >-
+      New here 🌈 Houston, TX 🤘🏻 For those asking: He/Him
+    location: "United States"
+    followers: 4434
+    engagement: 814
+    commentsToLikes: 0.038363
+    id: ckbf5tmtpv1tq0j23ivvnps4m
+    verified: false
+    hashtags: "#aftermycoffee, #texas, #houston, #loveme"
+  - username: "bdaddyo_"
+    fullname: >-
+      Brendan Orlando
+    bio: >-
+      Houston, TX I take pre workout...
+    location: "United States"
+    followers: 17000
+    engagement: 970
+    commentsToLikes: 0.024356
+    id: ckan20echy5jr0i78dfh9gbri
+    verified: false
+    hashtags: "#tiktoktrends, #preworkout, #top3, #fitness"
 ---

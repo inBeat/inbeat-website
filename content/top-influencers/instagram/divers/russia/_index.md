@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Russia in 2023
+title: Top 10 Divers Instagram Influencers In Russia In 2023
 description: >-
-  Find top divers Instagram influencers in Russia in 2023. Most popular hashtags: #russia #life #travel #nature.
+  Find top divers Instagram influencers in Russia in 2023. Most popular hashtags: #c63amgcoupe #stregishotel #underwater.
 platform: Instagram
-hits: 21
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 21 Instagram influencers like this in Russia for you to collaborate.
+hits: 26
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 26 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "ilonaveresk"
+  - username: "roudakova.anna"
     fullname: >-
-      ILONA VERESK 2.0
+      Anna Roudakova
     bio: >-
-      🍒Photographer | Writer | Fairy 🍒 Teacher @bhsad Ambassador @broncolor Inner-self diver
+      Создала империю @womanwm.ru ❤️Женственная и волевая 🥇Победитель EY «Деловые женщины 2020» 🥬ЗОЖ с мужем @noon_love_moon ☮️ Лидер Diversity&Inclusion
     location: "Russia"
-    followers: 17527
-    engagement: 264
-    commentsToLikes: 0.018690
-    id: ck0w0hgi7e7yu0i19j565o7kd
+    followers: 36862
+    engagement: 152
+    commentsToLikes: 0.057104
+    id: ck6tu4ebpe8r60j71q3dd88se
     verified: false
-    hashtags: "#fashionphotographer, #photographermilano, #beautyphotographer, #photographermoscow"
-  - username: "russiabeyond"
+    hashtags: "#youaremyido, #lovetolive"
+  - username: "anton_maznyi"
     fullname: >-
-      Russia Beyond
+      Anton Maznyi
     bio: >-
-      Discover our beautiful country in all its diversity; discover our country beyond the usual headlines #russiabeyond
+      Healer, Surfer, Skier, Businessman, Investor, Producer, Yogi, Captain, Diver, Skydiver ALOHA 🤙🏽 Co-founder/Owner @owntown_apart_hotel
     location: "Russia"
-    followers: 49726
-    engagement: 141
-    commentsToLikes: 0.011026
-    id: ck0w4cfh2xw460i19uxf119ge
+    followers: 8744
+    engagement: 220
+    commentsToLikes: 0.066629
+    id: ck5hceh45hn9k0i11agvc28cj
     verified: false
-    hashtags: "#travelpassion, #travelrussia, #sochi, #travelgram"
-  - username: "captainthomas_official"
+    hashtags: ""
+  - username: "diveeasy"
     fullname: >-
-      Thomas Lindegaard Madsen
+      Andriy Khvetkevych 🔱 Хветкевич
     bio: >-
-      🇩🇰Captain and More ⚓️ Linking Sea and Shore. Member of the Board of Directors in @maersk_official (see link). Gay🏳️‍🌈 and happily married, Google me.
+      🏆 Freediver, 7xNational Record Holder for 🇺🇸🇺🇦 🔱 My Gear @diveeasy.gear 🏷 Tag for a shoutout 🙌 Founder of @nic_ua & @freedivefest 🔗 More ⬇️
     location: "Russia"
-    followers: 53786
-    engagement: 312
-    commentsToLikes: 0.071586
-    id: ck6twpll4td8n0j71oz47q4eo
+    followers: 1322797
+    engagement: 210
+    commentsToLikes: 0.022066
+    id: ck0txhzyxj7mc0i19wfidab5m
     verified: false
-    hashtags: "#solnedgang, #transport, #teamventa, #worldcareers"
-  - username: "elladjbalde"
+    hashtags: "#ps, #underwaterphotography, #underwater, #freediving"
+  - username: "hisashasmith"
     fullname: >-
-      E L L A D J  B A L D É
+      Sasha Smith
     bio: >-
-      :Figure Skater 🇨🇦 Team Canada :Russian/African :Contact: balde.elladj@gmail.com :Spread love and be a light in the world ✨
+      
     location: "Russia"
-    followers: 27401
-    engagement: 716
-    commentsToLikes: 0.024048
-    id: ck5cg0elqnxhm0i11u0bsu1v0
+    followers: 69137
+    engagement: 327
+    commentsToLikes: 0.034122
+    id: ck13b1e4nt7ow0i19jlls3dbu
     verified: false
-    hashtags: "#blacklivesmatter, #georgefloyd, #blm, #battleoftheblades"
-  - username: "olegmks"
-    fullname: >-
-      Oleg Artemyev
-    bio: >-
-      Лётчик-космонавт @roscosmosofficial Бортинженер МКС (Test Cosmonaut Roscosmos, Russia. Flight Engineer ISS) #Exp39/40 #Exp55/56 Twitter, VK: @OlegMKS
-    location: "Russia"
-    followers: 225069
-    engagement: 208
-    commentsToLikes: 0.011528
-    id: ck5c1xoshw4oa0i11cotybw83
-    verified: true
-    hashtags: "#forever, #stars, #beautiful, #sky"
-  - username: "linavanila"
-    fullname: >-
-      ФОТОГРАФ |МОСКВА | TENERIFE
-    bio: >-
-      ＬＩＮＡ 📌NOW Mᴏsᴄᴏᴡ our dog @magic_lelik ɢᴀʟʟᴇʀʏ @ph.linavanila @ph.withlove
-    location: "Russia"
-    followers: 41324
-    engagement: 203
-    commentsToLikes: 0.019552
-    id: ck55ob7il80dy0i11wp53lcas
-    verified: false
-    hashtags: "#backstage"
+    hashtags: ""
   - username: "kris_mezhenskaya"
     fullname: >-
       ТА САМАЯ БЛОНДИНКА В МАКАО!🎰🇲🇴
     bio: >-
-      🎲Всё, что тебе нужно знать про азиатский Вегас #life_in_macau Качаю 🌰, скучая по ✈️ ⠀ Мои🌍 - советы #межиквещает ⠀ 👍По выходным играем в сторис
+      🎲Всё, что тебе нужно знать про азиатский Вегас #life_in_macau 🌎Бесплатные travel - советы, 25 стран #межиквещает ⠀ 👍По выходным играем в сторис
     location: "Russia"
-    followers: 3292
-    engagement: 916
-    commentsToLikes: 0.199334
+    followers: 3606
+    engagement: 745
+    commentsToLikes: 0.213635
     id: ck5pzep4z0ls70i1138lj1uve
     verified: false
-    hashtags: "#macaulifestyle, #macau, #macao, #china"
-  - username: "polianskii"
+    hashtags: "#stregishotel, #wowmacao, #macao, #stregishotels"
+  - username: "linavanila"
     fullname: >-
-      Vladimir Polianskii 👽
+      ФОТОГРАФ |МОСКВА | TENERIFE
     bio: >-
-      Divergent movement , artist , alien !
+      ＬＩＮＡ Based in Moscow Fashion|Art|AD|LookBook
     location: "Russia"
-    followers: 358897
-    engagement: 1301
-    commentsToLikes: 0.010035
-    id: ck5hiiix8dohy0i11jm7as1uy
+    followers: 41530
+    engagement: 218
+    commentsToLikes: 0.016261
+    id: ck55ob7il80dy0i11wp53lcas
     verified: false
-    hashtags: "#tricking, #car, #polianskii, #stunt"
-  - username: "eastynn"
+    hashtags: "#backstage"
+  - username: "kk.ph"
     fullname: >-
-      sepronuncia.ísten. 🌙
+      Любитель приключений, 💃🏻💃🏼и 🍪
     bio: >-
-      stick around for a while🤷‍♀️
+      🧑🏻‍💻 @2k.forged & @bleach.moscow founder 🌝🌚 C63S Coupe project “Harvey Dent” ⤵️ Контент в качестве и бортжурнал авто
     location: "Russia"
-    followers: 5182
-    engagement: 590
-    commentsToLikes: 0.019403
-    id: ck5zueyiq28fy0i14v120v172
+    followers: 37546
+    engagement: 406
+    commentsToLikes: 0.042757
+    id: ckf5nm110yqus0j23pmlk4w4m
     verified: false
-    hashtags: "#pucca, #quiereagaru, #divertidoamor, #comefideos"
-  - username: "horsvarka"
+    hashtags: "#amg63, #amgpower, #c63scoupe, #c63coupe"
+  - username: "angelsavagemkoon"
     fullname: >-
-      𝕄𝕚𝕤𝕙𝕚𝕟 𝔸𝕟𝕥𝕠𝕟 ✖️®
+      maine coon AngelSavage
     bio: >-
-      Traveler, creator! I like riding and sliding 🏍 🚘💨 Horvashka😄👍🏽 VIS-2345🔵pickup￼ YAMAHA YFM700R street🟥quad
+      THE BIGGEST CATS 14 YEARS TOGETHER Ищите Гигантского кота? - ☎️&📧 @catcoonwow Perfluence
     location: "Russia"
-    followers: 6417
-    engagement: 720
-    commentsToLikes: 0.020233
-    id: ck0w6pcyq9o2q0i19h7gqt5ul
+    followers: 42753
+    engagement: 254
+    commentsToLikes: 0.032192
+    id: ck8t94v8emwhc0j78mo3nh3pb
     verified: false
-    hashtags: "#driftpickup, #zhiguli, #turbo, #horsvarka"
+    hashtags: "#statisticsangelsavage, #angelsavage, #mainecoonlove, #bestmeow"
+  - username: "kremets_serhii"
+    fullname: >-
+      Kremets Serhii
+    bio: >-
+      ✖️#NOMOTORS RACE Corp.- Альтернативный дрифт-проект ✖️ Drivers: S. Kremets. 🏆 Чемпион Украины 2017 🏆Бронзовый призер Беларуси 2017 Видео 👇🏻
+    location: "Russia"
+    followers: 8361
+    engagement: 421
+    commentsToLikes: 0.018126
+    id: ck5zne6froag30i1491vyyvpk
+    verified: false
+    hashtags: "#nomotorsdriftbase, #nmdg2020, #drift, #nomotors"
+  - username: "karina.ignatyan"
+    fullname: >-
+      Ignatyan Karina
+    bio: >-
+      Junior Eurovision 2019 🇦🇲 The Voice Kids 4✌🏻 New Wave Junior 2019, 4th place🌊 “Khaghtem”out now!
+    location: "Russia"
+    followers: 27276
+    engagement: 693
+    commentsToLikes: 0.039068
+    id: ck5c9bxnnb5qx0i11lt8e1glb
+    verified: false
+    hashtags: "#karinaignatyan, #2021, #coverbykarina, #karina"
 ---

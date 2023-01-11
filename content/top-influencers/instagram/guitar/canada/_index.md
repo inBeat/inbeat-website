@@ -1,130 +1,130 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Canada in 2023
+title: Top 10 Guitar Instagram Influencers In Canada In 2023
 description: >-
-  Find top guitar Instagram influencers in Canada in 2023. Most popular hashtags: #guitar #guitarist #music #guitarplayer.
+  Find top guitar Instagram influencers in Canada in 2023. Most popular hashtags: #guitar #rock #guitarsdaily #country.
 platform: Instagram
-hits: 86
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 86 Instagram influencers like this in Canada for you to contact.
+hits: 37
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 37 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "anna.katarina_"
+  - username: "iamcinde"
     fullname: >-
-      Anna Katarina
+      𝖈 𝖎 𝖓 𝖉 ë
     bio: >-
-      ‘Only Love’ out now!! 😘 ⬇️ Musician & Model vocals | songwriter | piano | guitar My band: @rumourmill.music
+      singin about shit u don’t wanna say out loud songwriter | guitar & bass | f🎚ck around n find out click below to stream ‘pu$$ë’ & watch the live video!
     location: "Canada"
-    followers: 17570
-    engagement: 180
-    commentsToLikes: 0.036061
-    id: ck5qbjqunly0e0i11dza78dt8
+    followers: 17480
+    engagement: 176
+    commentsToLikes: 0.122868
+    id: ck8szv464ptqr0j78m0kgfjkw
     verified: false
-    hashtags: "#vancouverbc, #dallastexas, #newmusic, #vancouvermodel"
-  - username: "owenreynolds"
+    hashtags: "#femaleproducer, #fyp, #coversong, #internationalwomensday"
+  - username: "izzynobre"
     fullname: >-
-      Owen Reynolds
+      izzynobre
     bio: >-
-      I like playing guitar
+      Videogames, virtual reality, guitars, and retro stuff! 🎬IzzyNobre/TheIzzyNobreShow Born in Brazil. Living in Calgary, AB🇨🇦
     location: "Canada"
-    followers: 5034
-    engagement: 813
-    commentsToLikes: 0.041646
-    id: ck14julrxm9p20i19a589w26y
-    verified: false
-    hashtags: "#playlistlive"
-  - username: "joshtombranmusic"
-    fullname: >-
-      Josh Tombran
-    bio: >-
-      Guitarist🎸 Singer🎙Composer🎼 Producer💻 Sounds make sense 🤘🏽 Spotify & Youtube @JoshTombranMusic
-    location: "Canada"
-    followers: 11641
-    engagement: 119
-    commentsToLikes: 0.123277
-    id: ck6ud1r1rim4j0j71uub84vw4
-    verified: false
-    hashtags: "#yamahathr, #producer, #guitarcover, #yamahaguitars"
-  - username: "babakaminiofficial"
-    fullname: >-
-      Babak Amini
-    bio: >-
-      Composer, Band leader, Guitar player and Guitar instructor. لطفا اشعار و ترانه هـايتان را به اين ايميل ارسال كنيد babakaminiconcerts@gmail.com
-    location: "Canada"
-    followers: 215938
-    engagement: 702
-    commentsToLikes: 0.027347
-    id: ck0txailiihj90i19nqnlozxf
+    followers: 94588
+    engagement: 104
+    commentsToLikes: 0.027593
+    id: ck0tzxromrwl60i19ye838nmr
     verified: true
-    hashtags: "#siamak, #eshgheman, #navahang, #siamakshirazi"
-  - username: "manelijamal"
+    hashtags: "#retroaesthetic, #retrogaming, #retrogames, #nintendo"
+  - username: "colinjcripps"
     fullname: >-
-      Maneli Jamal
+      Colin Cripps
     bio: >-
-      🎸 Guitarist. Autodidact. Solopreneur. 🎧 40 million Spotify Streams 📚 Guitar Educator 👇🏼 Lessons, TABs, CDs, Music, Patreon
+      Blue Rodeo member, Jim Cuddy Band, C&C Surf Factory, Record producer, Vintage guitar junkie, Denim King...
     location: "Canada"
-    followers: 41930
-    engagement: 139
-    commentsToLikes: 0.052126
-    id: ck137ymrfdnql0i191d95sbah
+    followers: 6235
+    engagement: 852
+    commentsToLikes: 0.091992
+    id: ck5zxdkrc7tb80i146krlcfwo
     verified: false
-    hashtags: "#jam, #musicallyminded, #pickup, #lickwars"
-  - username: "colerolland"
-    fullname: >-
-      Cole Rolland
-    bio: >-
-      🎶 Guitarist // Music Producer 🎬 youtube.com/colerolland 🌙 CR ‘Midnight’ Guitar OUT NOW
-    location: "Canada"
-    followers: 128499
-    engagement: 506
-    commentsToLikes: 0.019944
-    id: ck0w4ecwty5z70i196tbfqc5g
-    verified: true
-    hashtags: "#newgearday"
-  - username: "scottkelby"
-    fullname: >-
-      Scott Kelby
-    bio: >-
-      Travel Photographer, Book Author, Host of "The Grid"; Editor Photoshop User magazine; Lightroom Guy; KelbyOne CEO; struggling guitarist.
-    location: "Canada"
-    followers: 143095
-    engagement: 228
-    commentsToLikes: 0.012835
-    id: ck13dbug74nsy0i19qv3nhgjx
-    verified: false
-    hashtags: "#netherlands, #longexposure, #dawn, #landscapephotography"
+    hashtags: "#fendertelecaster, #fender, #guitar, #ccripps"
   - username: "thebroslandreth"
     fullname: >-
       The Bros. Landreth
     bio: >-
-      Blood harmony, slide guitar, and heart-on-your-sleeve songwriting. _ Flash Bandcamp sale - get our whole catalogue for not so much money!
+      Sincere song writing, slide guitar, blood harmonies, and refined musicianship. @joeylandreth / @davidlandreth Check out our new Spotify playlist:
     location: "Canada"
-    followers: 18190
-    engagement: 615
-    commentsToLikes: 0.030557
+    followers: 20748
+    engagement: 467
+    commentsToLikes: 0.032600
     id: ck0vyo3wd4yfp0i19ij6yp1i3
     verified: false
-    hashtags: "#guitarists, #guitarsdaily, #guitars, #tbl87"
-  - username: "brandondeonmusic"
+    hashtags: "#guitarists, #bass, #gearybusey, #knowyourtone"
+  - username: "joeylandreth"
     fullname: >-
-      Brandon D'Eon Guitarist
+      Joey Landreth
     bio: >-
-      🎥 YouTuber 🎸 #Guitar Chefs 🍽 🇨🇦 Halifax, Canada 😏 Sarcasm 📊 Entrepreneur ⬇️ Don't click this
+      Singer-songwriter-guitar-player-person. 50% of @thebroslandreth
     location: "Canada"
-    followers: 120938
-    engagement: 408
-    commentsToLikes: 0.018515
-    id: ck137oa3acjfj0i19ilmyuzby
+    followers: 34651
+    engagement: 318
+    commentsToLikes: 0.046451
+    id: ck0vyo2up4ybj0i19b6ww8sr7
     verified: false
-    hashtags: "#guitarsarebetter, #guitarist, #musician, #guitarlesson"
-  - username: "jeffstinco"
+    hashtags: "#gearybusey, #tworockamplification, #joeylandreth, #krisulrich"
+  - username: "jaredfalkdrummer"
     fullname: >-
-      Jeff Stinco
+      Jared Falk
     bio: >-
-      I play guitar with SP
+      Taught drums online since 2003, founded Drumeo, Pianote, & Guitareo. On a mission to get more people to START and STAY playing music #DrumeoCoach
     location: "Canada"
-    followers: 81727
-    engagement: 475
-    commentsToLikes: 0.016476
-    id: ck14hs1ofbuad0i1916wfwddx
+    followers: 167418
+    engagement: 149
+    commentsToLikes: 0.018865
+    id: ck0w6phf49oqi0i19yfsil2q6
+    verified: false
+    hashtags: "#drumming, #drumeofestival, #evansdrumheads, #drumeo"
+  - username: "billyduffyofficial"
+    fullname: >-
+      𝕭𝖎𝖑𝖑𝖞 𝕯𝖚𝖋𝖋𝖞 ✠
+    bio: >-
+      Official Instagram page for Billy Duffy, musician and guitarist with The Cult #billyduffy
+    location: "Canada"
+    followers: 45602
+    engagement: 449
+    commentsToLikes: 0.032205
+    id: ck15rccqr77uz0i1922nmfdv0
+    verified: false
+    hashtags: "#falconfriday, #live, #billyduffy, #marshallamps"
+  - username: "brentfitz"
+    fullname: >-
+      𝔹𝕣𝕖𝕟𝕥 𝔽𝕚𝕥𝕫
+    bio: >-
+      Drums🥁for @slash🎩and #SMKC Bass guitar for @toquerocks Coffee ☕️ Hockey🏒🥅 #Winnipeg born! Love my @nhljets!
+    location: "Canada"
+    followers: 40383
+    engagement: 409
+    commentsToLikes: 0.034556
+    id: ck5c5fm753dvu0i11f9oost4c
     verified: true
-    hashtags: "#blacklivesmatter, #guitarist, #blackouttuesday, #spontour"
+    hashtags: "#repost, #rock, #winnipeg, #brentfitz"
+  - username: "avagati"
+    fullname: >-
+      Adam Agati
+    bio: >-
+      Guitar Player, Song Crafter, Life-Liver
+    location: "Canada"
+    followers: 6624
+    engagement: 664
+    commentsToLikes: 0.037369
+    id: ck5q3ho6oksna0i11shcknkqq
+    verified: false
+    hashtags: "#guitar, #coryhenryandthefunkapostles, #thefunkapostles, #liveinlovetour2019"
+  - username: "thatsmehaileyb"
+    fullname: >-
+      Hailey Benedict
+    bio: >-
+      ✶ Singer/Songwriter 🎸 ✶ Sang original song for @keithurban at @rogersplace ! ✶ 2019 EMA Rising Star 💫 ✶ Over 200K on TikTok! ✶ New Spotify Playlist!👇
+    location: "Canada"
+    followers: 9561
+    engagement: 1175
+    commentsToLikes: 0.099254
+    id: ck5zyqpi0acrp0i146dghhswg
+    verified: false
+    hashtags: "#rock, #acdc, #countrymusic, #musician"
 ---

@@ -1,21 +1,45 @@
 ---
-title: Top 10 Food Instagram Influencers In Boston in 2023
+title: Top 10 Food Instagram Influencers In Boston In 2023
 description: >-
-  Find top food Instagram influencers in Boston in 2023. Most popular hashtags: #bostoneats #foodporn #boston.
+  Find top food Instagram influencers in Boston in 2023. Most popular hashtags: #boston #food #eatlocal.
 platform: Instagram
-hits: 112
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database has 112 Instagram influencers like this in Boston, United States for you to pitch.
+hits: 134
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 134 Instagram influencers like this in Boston, United States for you to connect with.
 profiles:
+  - username: "mrplay"
+    fullname: >-
+      MR PLAY 💎
+    bio: >-
+      🇬🇧🇯🇲🇸🇱 • The Connect • DJ/Producer/Promoter • Manager [@TonyDouglasVIP] @rnbxlondon @thedayfeast @theblackcabaret @dauniondjs @playent Click link⤵️
+    location: "United States"
+    followers: 26755
+    engagement: 63
+    commentsToLikes: 0.074656
+    id: ck5zuqpnq2vgf0i14aa8099j7
+    verified: false
+    hashtags: "#cocktails, #rnbx, #whatstheplay, #music"
+  - username: "cityofboston"
+    fullname: >-
+      City of Boston
+    bio: >-
+      Welcome to the City of Boston's official Instagram account. For COVID-19 resources and links for our latest posts, visit:
+    location: "United States"
+    followers: 95653
+    engagement: 54
+    commentsToLikes: 0.014769
+    id: ck0uesib3m3ji0i19vt9xnvvz
+    verified: true
+    hashtags: "#photooftheday, #picoftheday, #covid, #covid19"
   - username: "beantownbitez"
     fullname: >-
       Boston Food
     bio: >-
       💁🏽‍♂️ Student @northeastern 📍 Food from Boston & beyond 📸 All pictures taken by me 🗳 DM or email👇🏽for collaborations 💌 beantownbitez@gmail.com
     location: "United States"
-    followers: 4789
-    engagement: 1735
-    commentsToLikes: 0.103982
+    followers: 5736
+    engagement: 891
+    commentsToLikes: 0.113822
     id: ck6uebqx2pznn0j71hgb3f5gv
     verified: false
     hashtags: ""
@@ -23,108 +47,84 @@ profiles:
     fullname: >-
       Heather 👩‍🍳 Happy Kids Kitchen
     bio: >-
-      Mama. Cooking instructor. Make healthy food FUN! Boston 🇺🇸 📚Free Ebook and Links👇
+      Mama. Cooking instructor. Recipe Developer. Make healthy food FUN! Boston 🇺🇸 📚Free Ebook and Links👇
     location: "United States"
-    followers: 40107
-    engagement: 93
-    commentsToLikes: 0.085780
+    followers: 45727
+    engagement: 129
+    commentsToLikes: 0.077387
     id: ck13bhjbrvfic0i19wc641alo
     verified: false
-    hashtags: "#kidsfood, #eattherainbow, #funfoodforkids, #toddlerfood"
+    hashtags: "#blw, #cookingwithtoddlers, #kidsfood, #kidslunchbox"
+  - username: "thecravingscurator"
+    fullname: >-
+      Travel Photography & Content
+    bio: >-
+      📱content creator + curator Travel•Food - NY•Boston
+    location: "United States"
+    followers: 24875
+    engagement: 125
+    commentsToLikes: 0.038973
+    id: ck14hla8aavvi0i192ff9ymm1
+    verified: false
+    hashtags: "#nycfood, #nyceats, #nycfoodies, #nyc"
   - username: "chefchriscoombs"
     fullname: >-
       Chris Coombs
     bio: >-
-      Chef / Owner @Deuxave , @dbarboston, @bostonchops, @bostonchopsdowntown •Food is Wonderful!
+      Chef • Owner @deuxave • @bostonchops • @bostonchopsdowntown • @dbarboston • Advocate For The Survival Of Restaurants, Small Business, & It’s Employees
     location: "United States"
-    followers: 26559
-    engagement: 324
-    commentsToLikes: 0.100786
+    followers: 27036
+    engagement: 313
+    commentsToLikes: 0.064155
     id: ck15uswbjoeox0i19if947w64
     verified: false
-    hashtags: "#igfood, #eathealthy, #eatlocal, #chefstalk"
-  - username: "provisionsbypaige"
+    hashtags: "#chefsofinstagram, #foodgasm, #food, #f52grams"
+  - username: "andrewmolen"
     fullname: >-
-      PAIGE HEMMEN
+      Andrew Molen
     bio: >-
-      22 📍stl, boulder, boston food | fitness | all the things that make me :)
+      🍴🍷#Food & #Beverage 🏠NewYork,NY|Boston,MA
     location: "United States"
-    followers: 4349
-    engagement: 913
-    commentsToLikes: 0.139488
-    id: ckaorrruiogfs0i784ukczyv9
+    followers: 40835
+    engagement: 377
+    commentsToLikes: 0.032136
+    id: ck5cfy6fsnt5r0i1132qbzjea
     verified: false
-    hashtags: "#provisionsplates, #spring, #sorrynotsorry"
-  - username: "chowdownusa"
-    fullname: >-
-      Chelsea🌴Food & Fashion
-    bio: >-
-      🌴 From corporate life to business owner 👩🏼‍💻 Influencer agency @royalhorizonmedia ✈️ @traveltomarrs 🥑 Colorful Boston Food 💌 chowdownusa@gmail.com
-    location: "United States"
-    followers: 27105
-    engagement: 79
-    commentsToLikes: 0.171439
-    id: ck0vy5svh2dgv0i19rqiaged1
-    verified: false
-    hashtags: "#igfood, #uniquefood, #dessert, #newengland"
-  - username: "paivabaracat"
-    fullname: >-
-      Baracat “Bala” Paiva
-    bio: >-
-      “Every man dies, not every man really lives”. •Director of Quality Excellence at @wulfsfish . 🇺🇸💪🏽🇧🇷 @dexter_outdoors 🐟🔪 👉🏼 code: BALA20 GIVEAWAY👇🏼
-    location: "United States"
-    followers: 81040
-    engagement: 172
-    commentsToLikes: 0.071989
-    id: ck14jenbfjy4b0i19lmnfmg66
-    verified: false
-    hashtags: "#photography, #tbt, #love, #canadian"
-  - username: "teaseats"
-    fullname: >-
-      Tea’s Eats: NJ/NYC/Boston Food
-    bio: >-
-      🤤 picky eater turned foodie ✉️ dm to collab 📍 NJ/NY | BOS (currently) 🤪 my name and the word eat have the same letters 👀 📢 @zipkick @bestfoodfeed
-    location: "United States"
-    followers: 7303
-    engagement: 868
-    commentsToLikes: 0.529312
-    id: ck5px9pfuqrd00i11qxjky8ig
-    verified: false
-    hashtags: ""
-  - username: "twotastebuddiez"
-    fullname: >-
-      Boston Food
-    bio: >-
-      by: @maddie_gatto & @racheleeng @northeastern x @bostoncollege 📬 twotastebuddiez@gmail.com BOS ✈️ NJ 🚘 NYC original 📸 only
-    location: "United States"
-    followers: 21601
-    engagement: 436
-    commentsToLikes: 0.110948
-    id: ck55pzowibr030i11e6mqck3x
-    verified: false
-    hashtags: "#foodporn, #bestfoodboston, #collegeeats, #quarantineeats"
+    hashtags: "#covid19, #chefsofinstagram, #lol, #fun"
   - username: "caught.in.a.taste"
     fullname: >-
       Sandi | Boston Food + Travel📌
     bio: >-
-      Food 🍝 | Travel 🌏 Greatest sin: Ex-gluten free monster 😈 now eating it all #caughtinataste
+      Food 🍝 | Travel 🌏 | Behind The Scenes 🎥 Greatest sin: Ex-gluten free monster 😈 now eating it all #caughtinataste
     location: "United States"
-    followers: 19559
-    engagement: 682
-    commentsToLikes: 0.053429
+    followers: 21348
+    engagement: 614
+    commentsToLikes: 0.052342
     id: ck5zq9x3wu7lz0i14c1b094n5
     verified: false
-    hashtags: "#bostonfoodies, #igboston617, #bestfoodboston, #beefkebab"
+    hashtags: "#ad, #caughtinataste, #bostoneats, #eggfast"
+  - username: "toomanybites"
+    fullname: >-
+      boston food | brianna
+    bio: >-
+      💌 toomanybites@gmail.com dm or email for partnership inquiries
+    location: "United States"
+    followers: 6622
+    engagement: 410
+    commentsToLikes: 0.185140
+    id: ck13cdjdyztsg0i19096hwmcs
+    verified: false
+    hashtags: "#ad, #summerwithebeggwhites, #sponsored, #invite"
   - username: "bostonfoodgram"
     fullname: >-
       Boston Food & Travel | Emily
     bio: >-
-      Good food, good mood ✨ 💁🏻‍♀️ @emmchan_ is me 💫 Share your pics #bostonfoodgram 📧 bostonfoodgram@gmail.com 🐶 @lacymaltese — FAVE breakfast sandwich⤵️
+      Good food, good mood ✨ 💁🏻‍♀️ @emmchan_ is me 💫 Share your pics #bostonfoodgram 📧 bostonfoodgram@gmail.com 🐶 @lacymaltese — DD Perks ⤵️
     location: "United States"
-    followers: 47194
-    engagement: 223
-    commentsToLikes: 0.127282
+    followers: 60495
+    engagement: 172
+    commentsToLikes: 0.155538
     id: ck0u06chpsru20i19okndfh03
     verified: false
-    hashtags: "#getmorefromlife, #bostonfoodies, #dessertgoals, #dessert"
+    hashtags: "#partner, #grassfedbeef, #uruguayanbeef, #90pluscellars"
 ---

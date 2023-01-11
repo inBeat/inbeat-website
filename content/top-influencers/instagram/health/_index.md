@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers in 2023
+title: Top 10 Health Instagram Influencers In 2023
 description: >-
-  Find top health Instagram influencers in 2023. Most popular hashtags: #streetstyle #fitnessgirl #lifestyle.
+  Find top health Instagram influencers in 2023. Most popular hashtags: #ad #skincareroutine #fitnessmotivation #giftguide.
 platform: Instagram
-hits: 33232
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 33232 Instagram influencers like this for you to connect with.
+hits: 30335
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 30335 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "joeyloomans"
+  - username: "thehalliescene"
     fullname: >-
-      Joey Loomans🇳🇱
+      Hallie | Nashville Blogger
     bio: >-
-      📍The Netherlands 🥼Back-up Assistent at Scotch&Soda 🥑Healthy Lifestyle 🔝Fashion & Lifestyle 📨 Collab: Joeyloomans@outlook.com
-    location: "Netherlands"
-    followers: 3022
-    engagement: 3057
-    commentsToLikes: 0.350511
-    id: ckap5lrzrc8kn0i78q6jhmeo1
-    verified: false
-    hashtags: "#lifestyle, #fashionblogger, #holzkernwatches, #mensstreetstyle"
-  - username: "juh_almoaya"
-    fullname: >-
-      JULIA ALMOAYA
-    bio: >-
-      •Cristã ➕ •Barrel Racer 🐎 •Futura Bacharel em Direito ⚖️ •Health Life - Musculação ✨ •Apaixonada por todos os animais.
-    location: "Brazil"
-    followers: 5970
-    engagement: 2357
-    commentsToLikes: 0.134399
-    id: ckf5o2p9i0nl50j23ykkq4p8l
-    verified: false
-    hashtags: "#healthylifestyle, #treinopesado, #bloggerstyle, #loiras"
-  - username: "nescp"
-    fullname: >-
-      Inês Costa Pereira
-    bio: >-
-      🌱 Vegetarian, Health & Lifestyle 🌟 📍 Lisboa, Portugal 🛍 Compra a minha roupa @nescpcloset 🎥 YouTube +23k 🎓 Gestão de Marketing
-    location: "Portugal"
-    followers: 13731
-    engagement: 2018
-    commentsToLikes: 0.105267
-    id: ck6012z18eqtz0i14zh0znn8z
-    verified: false
-    hashtags: "#sorteio, #giveaway, #pub, #girlsgoneloavies"
-  - username: "i_am_birebaumli"
-    fullname: >-
-      
-    bio: >-
-      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts & fitness, photography, nature, lostplaces, healthy v. food
-    location: "Switzerland"
-    followers: 5800
-    engagement: 2017
-    commentsToLikes: 0.118826
-    id: ck13d3pg53irf0i190hd1hu57
-    verified: false
-    hashtags: "#italianmodel, #swissphotographer, #bodylanguage, #uster"
-  - username: "alannahlewks"
-    fullname: >-
-      ALANNAH
-    bio: >-
-      [inactive] will return soon, idk?? ig is weird. take care 💙 ⁣ 👽 alannahmarief@gmail.com • she/her⁣⁣ ⤹ Looking After Your Mental Health Online
+      hi, i’m Hallie, like Halle Berry! everyday style + home reno | new mom 💕 normalizing life + mental health 🤍🌿 hannaht@shinetalentgroup.com
     location: "United States"
-    followers: 6266
-    engagement: 2015
-    commentsToLikes: 0.231168
-    id: ck5c29sv2wto60i11r1wyeoyp
+    followers: 52689
+    engagement: 414
+    commentsToLikes: 0.115509
+    id: ckn9ayfvumbl20j23lt41y6yv
     verified: false
-    hashtags: "#beccacosmetics, #urbandecay, #morphe, #collabmakeup"
-  - username: "anajuliach"
+    hashtags: "#nursery, #expectingmom, #firsttimemom, #girlnursery"
+  - username: "savannah_joyyy"
     fullname: >-
-      🧿 Ana Júlia M. Chiamolera
+      Savannah Joy
     bio: >-
-      Lifestyle | Healthy 👩🏻‍💻Gerente Wave Centro @academiawave| @maju_healthyfood ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀ Balneário Camboriú - SC
-    location: "Brazil"
-    followers: 8483
-    engagement: 1448
-    commentsToLikes: 0.083971
-    id: ckaos38wppyp40i78spyfavhi
+      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
+    location: "United States"
+    followers: 132122
+    engagement: 417
+    commentsToLikes: 0.012208
+    id: ck5q33lorj2160i11tlfrq9s1
     verified: false
-    hashtags: "#bomdia, #sc, #sunnyday, #onlygoodvibes"
-  - username: "luzarenna"
+    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
+  - username: "nataliekennedyblog"
     fullname: >-
-      𝕝𝕦𝕫
+      Natalie Kennedy
     bio: >-
-      💖 Free soul Healthy-conscious living 🧘🏽‍♀️ ✈️ Traveller Plant-based recipes🌱 🐶 lover Actually, you can 💪🏼 📍Argentina luz.varena@gmail.com
-    location: "Argentina"
-    followers: 26754
-    engagement: 982
-    commentsToLikes: 0.438962
-    id: ck5c4hehy1cxm0i118cuu3stb
+      Nashville • fashion • home • healthy recipes Poppy’s mom 🤍 + baby girl #2 on the way 💍 @patrickkennedy1223 Shop my outfits & presets ⬇️
+    location: "United States"
+    followers: 573501
+    engagement: 452
+    commentsToLikes: 0.056414
+    id: ck15pk4joy9z30i19xg53dw1e
     verified: false
-    hashtags: ""
-  - username: "marisa.hofmeister"
+    hashtags: "#walmartpartner, #liketkit, #bumpstyle, #walmartfashion"
+  - username: "rrayyme"
     fullname: >-
-      Marisa Hofmeister
+      Remi Ishizuka
     bio: >-
-      🌱Certified Holistic Health Coach 💌 Collabs: marisa@lehmann-mgmt.de 🎙Podcast: M&Ms sind schon geil 📍BERLIN I 🇩🇪
+      Health | Wellness | Easy recipes | Lifestyle Co-Founder @clubhomebodies Join our 21 day challenge👇🏼
+    location: "United States"
+    followers: 377687
+    engagement: 414
+    commentsToLikes: 0.013939
+    id: ck0tztrryrlv90i19i3yavym2
+    verified: true
+    hashtags: "#targetfinds, #shopwithme, #hmxme, #skincare"
+  - username: "kirra.mov"
+    fullname: >-
+      Kirra Dickinson
+    bio: >-
+      🇺🇸🇯🇵⁣ ♡ Mgmt: @nextmodels ⁣ ♡ Lifestyle, Wellness, Mental Health⁣ ♡ Dickinsonkirra@gmail.com⁣⁣⁣⁣ / luis@nextmanagement.com
+    location: "United States"
+    followers: 101836
+    engagement: 1026
+    commentsToLikes: 0.009725
+    id: cl3u8mp8matcs0i238u8gj4gj
+    verified: false
+    hashtags: "#wellnessjourney, #morningvibes, #inspirationalreels, #minivlog"
+  - username: "itstheskinyourein"
+    fullname: >-
+      Serena✨beauty content creator - UGC
+    bio: >-
+      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
+    location: "Italy"
+    followers: 36489
+    engagement: 1556
+    commentsToLikes: 0.159760
+    id: ck8tdo5fr44kc0j78ws6cotly
+    verified: false
+    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
+  - username: "zarrine_beautyjunkie"
+    fullname: >-
+      Zarrine | London Beautyjunkie
+    bio: >-
+      Pharmacist 💊 Health | Skincare | Haircare | Sunset Lover
+    location: "United States"
+    followers: 7097
+    engagement: 852
+    commentsToLikes: 0.268348
+    id: ck5zm1qadlqtg0i14gakgeiz9
+    verified: false
+    hashtags: "#travelvlog, #dermalogicaskincare, #skincarecommunity, #travelgram"
+  - username: "kbfitusa"
+    fullname: >-
+      KATIE🥊
+    bio: >-
+      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
+    location: "United States"
+    followers: 74597
+    engagement: 2547
+    commentsToLikes: 0.009460
+    id: cl4ipwlnnsa1u0i23nwgkjc0b
+    verified: false
+    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
+  - username: "sabrazaraa"
+    fullname: >-
+      Seattle Lifestyle & Travel | PharmD, MPH, PhC
+    bio: >-
+      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
+    location: "United States"
+    followers: 77441
+    engagement: 726
+    commentsToLikes: 0.023415
+    id: ck14lbl7wtu3i0i191qq4vdxr
+    verified: false
+    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
+  - username: "nicolas_aesthetics"
+    fullname: >-
+      Nicolas Enache | Fitness, Cooking & Health
+    bio: >-
+      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
     location: "Germany"
-    followers: 42502
-    engagement: 949
-    commentsToLikes: 0.054830
-    id: ck0txg2zcizdk0i19ulv1zs53
+    followers: 107721
+    engagement: 431
+    commentsToLikes: 0.007534
+    id: ck5hdm6dio6r40i11vzge88qv
     verified: false
-    hashtags: "#nikeairforce1, #berlincity, #homesweethome, #activewearstyle"
-  - username: "shayzahavi"
-    fullname: >-
-      ✨ Shay Zahavi ✨
-    bio: >-
-      FOUNDER AND DIRECTOR OF @___ruze___ Health lifestyle 🥑🥥fitness coach Mom of Roy Dor and Gil. My hubby @eranzahavi ❤️
-    location: "China"
-    followers: 74519
-    engagement: 893
-    commentsToLikes: 0.153499
-    id: ck5zpbg2fscw80i144d2gvv9f
-    verified: false
-    hashtags: "#shabbatshalom, #icetight, #icetank, #8years"
-  - username: "petrakorpi"
-    fullname: >-
-      P E T R A  W
-    bio: >-
-      🍋HEALTH COACH 👯‍♀️yes girl co-founder: @yesgirlofficial 🤓 positive psychology student 🍟 Food podcaster: @bella.table 💌 hello@petrakorpi.com
-    location: "United States"
-    followers: 22422
-    engagement: 863
-    commentsToLikes: 0.062321
-    id: ck13cwag72h8p0i19yuspamka
-    verified: false
-    hashtags: "#kirjavinkit, #itcosmetics, #24hpositivity, #surprise"
+    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
 ---

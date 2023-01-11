@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Rome in 2023
+title: Top 10 Health Instagram Influencers In Rome In 2023
 description: >-
-  Find top health Instagram influencers in Rome in 2023. Most popular hashtags: #italy #beauty #rome #health.
+  Find top health Instagram influencers in Rome in 2023. Most popular hashtags: #health #rome #italy #nature.
 platform: Instagram
 hits: 33
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 33 Instagram influencers like this in Rome, Italy for you to work with.
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 33 Instagram influencers like this in Rome, Italy for you to connect with.
 profiles:
-  - username: "alessia_tries"
+  - username: "omar.fiore"
     fullname: >-
-      Alessia Alb🦋🛫
+      Omar Fiorentini
     bio: >-
-      #flightattendant ✈️ #vegetarian ♏️ #animalrights 📍Rome - And more... follow me, also, on my private account : ❤️ @alessia.wingly ❤️
+      💏 In Love - @saretta_tosi_ 🇮🇹 Milan
     location: "Italy"
-    followers: 29447
-    engagement: 383
-    commentsToLikes: 0.061033
-    id: ck9whhxtaxxqj0j78p0mio0sc
+    followers: 15662
+    engagement: 298
+    commentsToLikes: 0.010570
+    id: ck5hdydwgq16j0i119717g0nn
     verified: false
-    hashtags: "#blonde, #classy, #aircrew, #hostess"
+    hashtags: "#puntoabarth, #abarth, #500abarth, #ozracing"
+  - username: "madeleinemajdal"
+    fullname: >-
+      Madeleine
+    bio: >-
+      Beauty canons change feminity stays. Eco-friendly Brandbassador 🦢 Follow me also here @maddiemajdal Based in Roma
+    location: "Italy"
+    followers: 101095
+    engagement: 714
+    commentsToLikes: 0.025308
+    id: ck6uav7a85uuz0j713111dnv0
+    verified: false
+    hashtags: "#lingerie, #nomakeup, #vintage, #photography"
   - username: "vanessacesari"
     fullname: >-
       Vanessa Cesari🦋
     bio: >-
       📍Rome 👩🏻‍🎓Graduated in Business Administration 💌For collaboration: direct or cesarivanessa@gmail.com
     location: "Italy"
-    followers: 41907
-    engagement: 192
-    commentsToLikes: 0.120741
+    followers: 43011
+    engagement: 175
+    commentsToLikes: 0.110784
     id: ck135ub7l39uz0i19c3c6k7i2
     verified: false
-    hashtags: "#skincareroutine, #wellness, #agebalance, #skincare"
+    hashtags: "#health, #adv, #blackfriday, #agebalance"
   - username: "sabrina.sc_"
     fullname: >-
       Sabrina🌸
     bio: >-
-      🏡#Roma ♥️#Abruzzo 💧@equa_italy | CODICE PROMO “SABRINA” 🍔 Follow my page @foodsaga_rome ✈️🌍🚂 “Ho visto un posto, che mi piace, si chiama #mondo.”
+      🏡 Living in #Rome ♥️ Loving #Abruzzo 🍔 Follow my page @foodsaga_rome 📩 Collab in DM ✈️🌍🚂 “Ho visto un posto, che mi piace, si chiama #mondo.”
     location: "Italy"
-    followers: 5248
-    engagement: 2617
-    commentsToLikes: 0.040727
+    followers: 6110
+    engagement: 1563
+    commentsToLikes: 0.023895
     id: ckf5ne5ycxvgu0j236kzk9bxg
     verified: false
-    hashtags: "#italy, #healthy, #fotografia, #altopianodellerocche"
-  - username: "victor_a_c"
+    hashtags: "#cornopiccolo, #laquila, #yesabruzzo, #spring"
+  - username: "camillafalsini"
     fullname: >-
-      VICTOR 🇩🇴ELITE PRO🇮🇹
+      C A M I L L A F A L S I N I
     bio: >-
-      🙏🏾God first🙏🏾 @_bombafit_ ➡️ Victor10 @nebbia_italia_official ➡️Victor10 PT 💯🏋🏾‍♂️ 📍Rome
+      〰ROME〰
     location: "Italy"
-    followers: 15017
-    engagement: 478
-    commentsToLikes: 0.209132
-    id: ck8sx96bwgkk10j780wn3mjwz
+    followers: 21662
+    engagement: 328
+    commentsToLikes: 0.011639
+    id: ck0w0hwchea7c0i19tutwwcc5
     verified: false
-    hashtags: "#athomeworkouts, #workout, #bodybuilder, #homeworkout"
+    hashtags: "#zodiac, #zodiaco, #illustratorsofinstagram, #editorial"
   - username: "cami_delai"
     fullname: >-
       Camilla Delai 🌹
     bio: >-
-      Made in Trento -living in Rome 🇮🇹 Current job : MYWAY autostrade per l’Italia
+      Made in Trento -living in Rome 🇮🇹 Current job at : MYWAY autostrade per l’Italia
     location: "Italy"
-    followers: 26688
-    engagement: 191
-    commentsToLikes: 0.029836
+    followers: 27240
+    engagement: 200
+    commentsToLikes: 0.027202
     id: ck600sf29e6ir0i14avcrvrji
     verified: false
-    hashtags: "#couture, #flower, #couturedress, #fashiondesigner"
-  - username: "fuksas_architects"
-    fullname: >-
-      Massimiliano e Doriana Fuksas
-    bio: >-
-      Studio Fuksas, an international architectural firm based in Rome|Paris|Shenzhen. #fuksas
-    location: "Italy"
-    followers: 57400
-    engagement: 73
-    commentsToLikes: 0.011322
-    id: ck6toxftngn100j71gbx8kd2h
-    verified: false
-    hashtags: "#housing, #underconstruction, #architecturephotography, #brescia"
-  - username: "angelicaceci95"
-    fullname: >-
-      Angelica 💙
-    bio: >-
-      Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
-    location: "Italy"
-    followers: 3777
-    engagement: 1923
-    commentsToLikes: 0.142160
-    id: ck8t5wrudbi500j78diegkd83
-    verified: false
-    hashtags: "#italy, #gym, #girly, #me"
+    hashtags: "#madeinitaly, #flower, #model, #fitness"
   - username: "alessandragiubilato"
     fullname: >-
       Alessandra Giubilato - blog🎤🎶📸
     bio: >-
-      sɪɴɢᴇʀ/sᴏɴɢᴡʀɪᴛᴇʀ, ᴛᴠ ᴘʀᴇsᴇɴᴛᴇʀ ᴀɴᴅ sᴘᴏʀᴛʏ ɢɪʀʟ 📸 ➡️➡️ @alessandragiubilato_music 🎵🎤 ᭙​ꫀ​᥇​𝘴​𝓲​𝓽​ꫀ​:
+      sɪɴɢᴇʀ/sᴏɴɢᴡʀɪᴛᴇʀ, ᴛᴠ ᴘʀᴇsᴇɴᴛᴇʀ ᴀɴᴅ sᴘᴏʀᴛʏ ɢɪʀʟ 📸 ➡️ @alessandragiubilato_music 🎵🎤⬅️ ➡️ @drakeparlaitaliano per una risata 😁 ⬅️ ᭙​ꫀ​᥇​𝘴​𝓲​𝓽​ꫀ​:
     location: "Italy"
-    followers: 39856
-    engagement: 221
-    commentsToLikes: 0.066386
+    followers: 38434
+    engagement: 214
+    commentsToLikes: 0.087956
     id: ck9wfvm89qot60j786za0nr8l
     verified: false
-    hashtags: "#singersongwriter, #summer2020, #fitgirl, #fitness"
+    hashtags: "#mgroupmilano, #model, #italy, #storytelling"
+  - username: "l_a_design_photographer"
+    fullname: >-
+      ♛Luca Alfieri Photographer♛©📸
+    bio: >-
+      🔱@l.a.design_factory owner 🔱@yamamotonutrition Art Director 🔱IMAGE CONTRACT 2021 con: GUARDA STORIE IN EVIDENZA👇🏻👇🏻👇🏻
+    location: "Italy"
+    followers: 21204
+    engagement: 132
+    commentsToLikes: 0.026872
+    id: ck137c1gmasir0i19l01qyrq1
+    verified: false
+    hashtags: "#exercise, #olympia, #supplement, #lastyle"
+  - username: "rowen024"
+    fullname: >-
+      Rowen Muscat
+    bio: >-
+      Footballer
+    location: "Italy"
+    followers: 16337
+    engagement: 302
+    commentsToLikes: 0.006087
+    id: ck5zpdgv6sh7s0i147thgepsm
+    verified: false
+    hashtags: "#energy, #league, #hudson, #valletta"
   - username: "viaggiandoindue"
     fullname: >-
-      Giorgio & Veronica in viaggio
+      a Family Trip | travelers
     bio: >-
-      Content creators💡 Travel bloggers🧳 we share our travel life and our best places Founders of Yallers community: 🇮🇹 @yallersitalia
+      👫 Follow us in our trip adventures Now in 🇮🇹 . @monticelli.giorgio @viaggiandoinfamiglia
     location: "Italy"
-    followers: 50511
-    engagement: 189
+    followers: 593
+    engagement: 16178
     commentsToLikes: 0.065869
     id: ck0u9n4tna7920i19sin7mb6z
     verified: false
-    hashtags: "#unitedkingdom, #trips, #scottish, #travel"
-  - username: "drmichelepascali"
-    fullname: >-
-      Dr Michele Pascali
-    bio: >-
-      American Board Plastic Surgery certified Expert in #RevisionSurgery #Rhinoplasty👃🏻 #FaceLift 👩‍🦰 #Mastoplasty👙 Founder @plasticsurgeryacademy📍Roma🇮🇹
-    location: "Italy"
-    followers: 22486
-    engagement: 580
-    commentsToLikes: 0.082197
-    id: ck15svh6vf05z0i19hr02h64l
-    verified: false
-    hashtags: "#nose, #revisionrhinoplasty, #nosereconstruction, #covid19"
+    hashtags: "#trip, #ilikeitaly, #island, #italian"
 ---

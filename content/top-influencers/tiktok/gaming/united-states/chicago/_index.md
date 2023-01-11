@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Chicago in 2023
+title: Top 10 Gaming TikTok Influencers In Chicago In 2023
 description: >-
-  Find top gaming TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #gaming #foryou #funny.
+  Find top gaming TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #gaming #foryou #chicago.
 platform: TikTok
-hits: 19
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 19 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 24
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 24 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "playboibleachy"
+  - username: "carhuff7"
     fullname: >-
-      Ｈａｎｚｅｌ💔
+      Carson Huffman
     bio: >-
-      17 | Chicago 🌃 Get me famous off Tik Tok 🔥
+      Carson Huffman. 17 It eez what it eeez
     location: "United States"
-    followers: 11500
-    engagement: 1637
-    commentsToLikes: 0.045214
-    id: ckdsr12baovqt0j23ayvlz4ws
+    followers: 2291
+    engagement: 894
+    commentsToLikes: 0.060337
+    id: ck8schfhcb1ls0j78fu1knuqi
     verified: false
-    hashtags: "#election, #relatable, #fyp, #comedy"
-  - username: "tcurt17"
+    hashtags: "#nfl, #school, #foryoupage, #football"
+  - username: "uriel_kings"
     fullname: >-
-      TCurt17
+      Uriel R'm
     bio: >-
-      Tyler, 30 👬🌈 Gay 💍 Married CHICAGO 🔥😃
+      Aka: Mexican Dobrik Where the beans at?
     location: "United States"
-    followers: 10300
-    engagement: 476
-    commentsToLikes: 0.056863
-    id: ckb9ew1dg2skr0j23fuwfzjgp
+    followers: 86100
+    engagement: 1345
+    commentsToLikes: 0.024131
+    id: ckav4egv0attm0j23tw5ba0vy
     verified: false
-    hashtags: "#dogsoftiktok, #4u, #coronavirus, #foryou"
-  - username: "rombednarczyk"
+    hashtags: "#pc, #twitch, #boys, #foryou"
+  - username: "realvies"
     fullname: >-
-      Roman Bednarczyk
+      Brian Contreras
     bio: >-
-      CEO OF CHICAGO SPORTS🤝 Business Email: rombedbusiness@gmail.com
+      24 Chicago Catch me on Facebook gaming ⬇️
     location: "United States"
-    followers: 2875
-    engagement: 1208
-    commentsToLikes: 0.044644
-    id: cka8e6lyjw0d00i78wopderto
+    followers: 50400
+    engagement: 551
+    commentsToLikes: 0.092439
+    id: ckbkx20qkswhb0j2316y5fet9
     verified: false
-    hashtags: "#nba, #4u, #sports, #foryoupage"
+    hashtags: "#warzoneclips, #warzone, #viral, #warzonefunnyclips"
+  - username: "mowithafro"
+    fullname: >-
+      Massimo
+    bio: >-
+      Chicago Aspiring Dilf Venmo: massimoA 20 and immature
+    location: "United States"
+    followers: 4590
+    engagement: 1346
+    commentsToLikes: 0.061982
+    id: cka0rgmhdh10t0i78qzl1dlb6
+    verified: false
+    hashtags: "#fyp, #greenscreen, #stitch, #duet"
   - username: "itshoneykat"
     fullname: >-
       Kat ( ͡° ͜ʖ ͡°)
     bio: >-
       Chicago Next con: Acen Your favorite Epic Gamer Sc-katharina101 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ
     location: "United States"
-    followers: 32400
-    engagement: 1130
-    commentsToLikes: 0.014242
+    followers: 32600
+    engagement: 1447
+    commentsToLikes: 0.017656
     id: ckceiftccqp7e0j235bk5x1lf
     verified: false
-    hashtags: "#foryou, #makeup, #ember, #meme"
-  - username: "liastewy"
+    hashtags: "#makeup, #xyzbca, #dva, #foryoupage"
+  - username: "rombednarczyk"
     fullname: >-
-      LIA
+      Roman Bednarczyk
     bio: >-
-      ✰ Chicago ✰ jusss joking around
+      CEO OF CHICAGO SPORTS🤝 Business Email: rombedbusiness@gmail.com
     location: "United States"
-    followers: 159200
-    engagement: 1157
-    commentsToLikes: 0.013352
-    id: ck7zp8lt3nvcm0j787o11muiq
+    followers: 2787
+    engagement: 1410
+    commentsToLikes: 0.038397
+    id: cka8e6lyjw0d00i78wopderto
     verified: false
-    hashtags: "#couples, #bf, #foryou, #fyp"
-  - username: "honestabegaming"
+    hashtags: "#basketball, #2k, #chicago, #xbox"
+  - username: "juli_1110"
     fullname: >-
-      Honest Abe Gaming
+      Julian Carrillo
     bio: >-
-      best call of duty/warzone clips on tiktok!! FB GAMING stream: Fb.gg/honestabetv
+      Snapchat: Juli_1110 Chicago📍
     location: "United States"
-    followers: 12600
-    engagement: 1052
-    commentsToLikes: 0.025308
-    id: ckb9b6scwx5u90j23a0gz6e4o
+    followers: 2602
+    engagement: 2187
+    commentsToLikes: 0.003640
+    id: ck8f6fvqo2m140j78lugtocxk
     verified: false
-    hashtags: "#comedy, #win, #pro, #fyp"
-  - username: "dalegacy23"
-    fullname: >-
-      Trevor Allen
-    bio: >-
-      Twitch.tv/DaLegacy23 Gaming, Wrestling, and Entertaining you! 10K Goal👑
-    location: "United States"
-    followers: 4639
-    engagement: 602
-    commentsToLikes: 0.104896
-    id: ckd5u2janz0200j23yol11hp8
-    verified: false
-    hashtags: "#fyp, #wwe, #gamer, #twitchaffiliate"
+    hashtags: "#chicago, #fyp, #zxycba, #meme"
   - username: "playboierik22"
     fullname: >-
       playboierik22
     bio: >-
-      Hey
+      16 Add me on Discord! @NotProudMexican#5182
     location: "United States"
-    followers: 14900
-    engagement: 1963
-    commentsToLikes: 0.049656
+    followers: 15000
+    engagement: 1680
+    commentsToLikes: 0.063934
     id: ckblf1yx090ng0j23p586s9uk
     verified: false
-    hashtags: "#amongusvideo, #narutouzumaki, #itachi, #anime"
-  - username: "jpearson04"
+    hashtags: "#funny, #rocketleague, #foryou, #twitch"
+  - username: "reallyviral"
     fullname: >-
-      Josh Pearson
+      Viral
     bio: >-
-      
+      satire discord 👇🏾
     location: "United States"
-    followers: 9534
-    engagement: 1574
-    commentsToLikes: 0.073093
-    id: ck976w2rs1my60j78phxl19f0
+    followers: 210700
+    engagement: 2566
+    commentsToLikes: 0.029190
+    id: ck9pmqvf5azzl0j78dgjgnj2c
     verified: false
-    hashtags: "#fortnite, #og, #olddays, #fy"
+    hashtags: "#tiktokgaming, #trump2020, #downbad, #funny"
   - username: "legendaryb1rd"
     fullname: >-
       Shane Dodson
     bio: >-
-      follow my twitch.tv/legendary b1rd 😎😎🤬🤬
+      Join my Discord https://discord.gg/bGvPDpfxvt Merch https://streamlabs.com/thekr
     location: "United States"
-    followers: 58100
-    engagement: 1336
-    commentsToLikes: 0.095455
+    followers: 60700
+    engagement: 1640
+    commentsToLikes: 0.163912
     id: ck8ophu7637e00j78fmw9lx69
     verified: false
-    hashtags: "#funny, #weeb, #ps5, #halloweenlook"
+    hashtags: "#laugh, #callofdutyclips, #cod, #codclips"
 ---

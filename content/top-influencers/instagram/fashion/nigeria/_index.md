@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Nigeria in 2023
+title: Top 10 Fashion Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top fashion Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #endsars #explorepage.
+  Find top fashion Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #exploremore #explorepage.
 platform: Instagram
-hits: 211
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 211 Instagram influencers like this in Nigeria for you to connect with.
+hits: 97
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 97 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
-  - username: "tas.sy_"
-    fullname: >-
-      Tas
-    bio: >-
-      📣 Influencer Twin @kenie.x @thekaytwinss Fashion designer DM me for promotions and collaboration
-    location: "Nigeria"
-    followers: 8043
-    engagement: 1023
-    commentsToLikes: 0.079598
-    id: ckf5mg8h7tni90j23ald3ihdr
-    verified: false
-    hashtags: "#twins, #exploremore, #explorepage, #explore"
-  - username: "itstomiwa"
-    fullname: >-
-      Tomiwa Talabi
-    bio: >-
-      media. fashion. lifestyle.
-    location: "Nigeria"
-    followers: 28286
-    engagement: 1077
-    commentsToLikes: 0.068323
-    id: ck135zpyj41i10i19myizgh40
-    verified: false
-    hashtags: "#singletonplustwo, #ad, #amowambe, #thesocialmap"
-  - username: "thetosintoge"
-    fullname: >-
-      Tosin Toge||Fashion||Blogger
-    bio: >-
-      Fashion|Travel|Lifestyle|Food Content Strategist||Pharmacist ||Social Media Manager 📩: info.thetosintoge@gmail.com
-    location: "Nigeria"
-    followers: 6640
-    engagement: 839
-    commentsToLikes: 0.176589
-    id: ckf5t3jp2gula0j23ej9i7x5i
-    verified: false
-    hashtags: "#ad, #blackbloggersclub, #explore, #nigerianfashionbloggers"
-  - username: "lateefwahbson"
-    fullname: >-
-      Wahab Lateef
-    bio: >-
-      🇳🇬⚽️ ▪ Winger/Striker ▪ Model ▪ Brand | Fitness | Lifestyle | Fashion ▪ COLLABS | PROMOTIONS (DM/EMAIL) Watch my highlight video⚽👇
-    location: "Nigeria"
-    followers: 9541
-    engagement: 823
-    commentsToLikes: 0.119459
-    id: ck0tze8pyq0zm0i19kaytuda3
-    verified: false
-    hashtags: "#cleatworld, #mercurical, #vamesuhype, #cleatnation"
   - username: "thefrenchman__"
     fullname: >-
       DAVOU PWAJOK
     bio: >-
-      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08089667871
+      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08143894285
     location: "Nigeria"
-    followers: 10444
-    engagement: 1145
-    commentsToLikes: 0.095972
+    followers: 11468
+    engagement: 1438
+    commentsToLikes: 0.114227
     id: ck13avsjmsfpc0i19s7pwt5bs
     verified: false
-    hashtags: "#fashion, #influencer, #explorepage, #davoupwajok"
-  - username: "glam_jayny"
+    hashtags: "#thefrenchman, #model, #fashion, #fitnessmodel"
+  - username: "tas.sy_"
     fullname: >-
-      Jayny Pha
+      Tas
     bio: >-
-      This is my only account I don’t have any backup page except my business account @glamjayny_empire BRAND INFLUENCER Fashionista
+      📣 Influencer Twin @kenie.x @infinityculture_ Fashion designer DM me for promotions and collaboration
     location: "Nigeria"
-    followers: 23786
-    engagement: 1434
-    commentsToLikes: 0.018594
-    id: ckapbevl6znz80i78iaq9jp9h
+    followers: 9424
+    engagement: 863
+    commentsToLikes: 0.058063
+    id: ckf5mg8h7tni90j23ald3ihdr
     verified: false
-    hashtags: "#halfcastcream, #organicskincareproduct, #reels, #affordableskincareproducts"
+    hashtags: "#thekaytwins, #explorepage, #exploremore, #explore"
   - username: "jamie_ikiah"
     fullname: >-
       AMARACHI
     bio: >-
-      God Fearing😊 My brand❤️ @jamies_fashionworld Brand ambassador❤️ @mag_hairs @pabs_collections
+      God Fearing😊 My brand❤️ @jamies_fashionworld Brand ambassador❤️ @mag_hairs @pabs_collections @reel_glass @hectrence.logistics
     location: "Nigeria"
-    followers: 52591
-    engagement: 436
-    commentsToLikes: 0.033982
+    followers: 57136
+    engagement: 479
+    commentsToLikes: 0.029608
     id: ckap0kwtuqr7b0i78znoye4j6
     verified: false
-    hashtags: "#endsars, #endpolicebrutality, #endswat"
-  - username: "hameedah_xx"
+    hashtags: ""
+  - username: "vickajiboye"
     fullname: >-
-      Hammed Hamidat Oyindamola
+      Your Mummy's mummy💖💖
     bio: >-
-      Fashion model video model commercial model Creative director/promotion manager Dm for bookings
+      Jesus💙 Fashion designer📍 Ambassador 📍 Digital marketer📍 Captions💣
     location: "Nigeria"
-    followers: 7301
-    engagement: 1764
-    commentsToLikes: 0.056266
-    id: ck5q769s9057p0i116byq3ebi
+    followers: 12106
+    engagement: 721
+    commentsToLikes: 0.062695
+    id: ck5hdnkaioe970i11hbby1io2
     verified: false
-    hashtags: "#africa, #blackbeautyqueens, #explrepage, #lacream"
-  - username: "thetailorblogger"
+    hashtags: "#vickajiboye, #explorepage, #exploremore, #explore"
+  - username: "nicole_riziki"
     fullname: >-
-      FETUGA MOSOPE ITEOLUWAKIISHI
+      Ziki Cole
     bio: >-
-      I make outfits look good ☺️ ————————————- FASHION, FASHION AND FASHION MOBILE PHOTOGRAHER/VIDEOGRAPHER COMMERCIAL MODEL TRAVEL ENTHUSIAST Lagos.
+      Creative Designer 🎓Fashion and Interior design 📍Nairobi 🇰🇪 Illustrator @zikicole 🌿natural hair enthusiast God's child 🙏 ✉nikkyefex@gmail.com
     location: "Nigeria"
-    followers: 9859
-    engagement: 760
-    commentsToLikes: 0.118275
-    id: ck6tvfq9alza90j7131rxt44n
+    followers: 7606
+    engagement: 1408
+    commentsToLikes: 0.011250
+    id: ckap9061bqng80i78grdtofus
     verified: false
-    hashtags: "#buydba, #dafribank, #dafrigroup, #nails"
-  - username: "ifedayo.x"
+    hashtags: "#happymood, #melaninafrica, #beautifulsmiles, #muse"
+  - username: "leemarh_"
     fullname: >-
-      Ifedayo | Lagos Photographer
+      Bamidele Halima
     bio: >-
-      Magazine-style Photos for ‘Everyday’ People. Portrait, Fashion & Events. Weddings/Events - @ifedayo.weddings 📩 - bookings@ifedayophotography.com
+      🔶Muslimah 🔸Proud Chemist 🔸Pro Makeup Artist 🎨 @ara__grande 🔸Fashion Designer💃🏼💃🏼💃🏼 🔸Face Model 😎😎
     location: "Nigeria"
-    followers: 9436
-    engagement: 725
-    commentsToLikes: 0.046256
-    id: ck13456upurc60i199oezjdbt
+    followers: 13263
+    engagement: 1111
+    commentsToLikes: 0.051417
+    id: ck15qtox14lcu0i1957ru7sx4
     verified: false
-    hashtags: "#lagosevent, #yorubaweddings, #bellanaijafashion, #lagosnigeria"
+    hashtags: "#makeupbrushchallenge, #thebsaffairs21, #dontrushchallenge"
+  - username: "omollara"
+    fullname: >-
+      ⓄⓂⓄⓁⒶⓇⒶ Obafemi || Entrepren”
+    bio: >-
+      GOD💖 ▫️YOUTUBER || FASHION DESIGNER || MAKEUP ARTIST || FOODIE ▫️PSYCHOLOGIST🎓 ▫️BUSINESS ACC @marbsplace ▫️TWITTER- @omollara_ 📍Visit my YT channel👇🏽
+    location: "Nigeria"
+    followers: 2770
+    engagement: 794
+    commentsToLikes: 0.122348
+    id: ck5q9p0quc8ze0i11eifkgehh
+    verified: false
+    hashtags: "#indomie, #stayhome, #staysafe, #endsars"
+  - username: "the_florentyna"
+    fullname: >-
+      Love
+    bio: >-
+      Brands|Events|Strategy. Aspiring fashion Icon. Open to meaningful and interesting collaborations.
+    location: "Nigeria"
+    followers: 11209
+    engagement: 615
+    commentsToLikes: 0.099608
+    id: ck5hosbiqq54c0i11jfitgfmo
+    verified: false
+    hashtags: "#hertunbawoman, #catsofinstagram, #catlovers, #cat"
+  - username: "tumi_esther"
+    fullname: >-
+      Esther Tumi Oluwagbemi.
+    bio: >-
+      Fashion And Commercial Model Bookings /Collaboration DM/📩📩esteetumi@gmail.com I want to see the world, and explore different versions of myself 🥳
+    location: "Nigeria"
+    followers: 22078
+    engagement: 346
+    commentsToLikes: 0.051897
+    id: ck0tt4qdb15d40i195xwpw5dr
+    verified: false
+    hashtags: "#melanin, #exploremore, #explore, #african"
+  - username: "toosweetannangh"
+    fullname: >-
+      Toosweet Annan
+    bio: >-
+      I'm A wOrK oF aRt fAsHiOn SuPrEmO AcToR ✖️ MoDeL ✖ ArTiSt sTyLe gOd || bRaNd InFlUeNcEr || StAr MoDeL 👻: @toosweetannan
+    location: "Nigeria"
+    followers: 187855
+    engagement: 418
+    commentsToLikes: 0.017481
+    id: ck0w4pahpzq1v0i193k45hlnn
+    verified: true
+    hashtags: "#menwear, #fashion, #menstyle, #menfashion"
 ---

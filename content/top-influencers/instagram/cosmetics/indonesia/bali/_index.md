@@ -1,48 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Bali in 2023
+title: Top 10 Cosmetics Instagram Influencers In Bali In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Bali in 2023. Most popular hashtags: #bali #love #travel #makeup.
+  Find top cosmetics Instagram influencers in Bali in 2023. Most popular hashtags: #bali #skincare #cosmetics #makeup.
 platform: Instagram
-hits: 16
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 16 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 12
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 12 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "andadenayu"
-    fullname: >-
-      Anda Denayu
-    bio: >-
-      💊Dokter Gigi Muda💉 Dimas Diajeng Kota Yogyakarta ✨Clozette Ambassador 🌟#Charisceleb Contact: DM #collabwithanda Jog | Bali
-    location: "Indonesia"
-    followers: 16860
-    engagement: 391
-    commentsToLikes: 0.124512
-    id: ck5hnmytno1qm0i11qr7jwi4c
-    verified: false
-    hashtags: "#jbgramproject, #sariayubeautyrebornmakeupchallenge, #lipcrushmatte, #jbgram"
-  - username: "danellailene"
-    fullname: >-
-      ILENE | BALI MODEL | MUA BALI
-    bio: >-
-      @roselen_makeupartist 🌹 @fancybeautystudio 💜 Bali , Indonesia Business inquires 📩 DM
-    location: "Indonesia"
-    followers: 18596
-    engagement: 284
-    commentsToLikes: 0.023846
-    id: ck5hkl5ihimdu0i11injipbmy
-    verified: false
-    hashtags: "#makeuptutorial, #makeupartist, #makeupinspiration, #mulaigila"
   - username: "megassilvie"
     fullname: >-
-      
+      MS✨🐝
     bio: >-
-      Bali - Kuta 🌴 endorse / pp : ADD LINE @megasilviee (use @) 📲 WA : ‪+62 821‑4445‑7115‬ ( Carolina )
+      Kuta - Bali 🌴 Contact Person Manager🎬 Endorses / PP 📲 WA : ‪+62 821‑4445‑7115‬ ( Carolina )
     location: "Indonesia"
-    followers: 538645
-    engagement: 109
-    commentsToLikes: 0.011636
+    followers: 488901
+    engagement: 21
+    commentsToLikes: 0.013781
     id: ck0tyzjkioj8c0i19bs9xfel3
     verified: false
-    hashtags: "#serumjerawat, #serumpemutih, #serummuka, #cosmetics"
+    hashtags: "#tiktokers, #viral, #fyp, #tiktokhits"
   - username: "pipitdjatma"
     fullname: >-
       Pipit Djatma 🤍🖤
@@ -54,31 +30,19 @@ profiles:
     commentsToLikes: 0.010095
     id: ck5qa03epdvri0i11jg3gwd6a
     verified: false
-    hashtags: "#jagajarak, #dukungdalamjarak, #gerakanmaskerkain, #musthave"
-  - username: "e11a.02"
+    hashtags: "#dukungdalamjarak, #gerakanmaskerkain, #jagajarak, #killthegermsnotthevibe"
+  - username: "salmafinasunan"
     fullname: >-
-      ella
+      Salmafina
     bio: >-
-      18 || snap: e11a_richards brissy, aus joseph 💗 @tamblynmodels
+      Paid Promotion: @prabmanagement Contact Person: 081212457576 Founder of @baliincairo.eg @bunnylemonbysalmasunan Mommy to @kitkatncookie
     location: "Indonesia"
-    followers: 2718
-    engagement: 1921
-    commentsToLikes: 0.121325
-    id: ck6uaq9ei50f60j717e5ztv6t
-    verified: false
-    hashtags: "#extraordinary, #fun, #funny, #runway"
-  - username: "potspotting"
-    fullname: >-
-      potspotting 🗺|travel&eating 🍔
-    bio: >-
-      Paulina Sierra | Mexican Looking for the best hotspots around the world 🌎 ✈️ Travel |🍕 Food 📍 Tulum | Mexico City
-    location: "Indonesia"
-    followers: 4734
-    engagement: 827
-    commentsToLikes: 0.063258
-    id: ck14i23bld99w0i19hsqkymp2
-    verified: false
-    hashtags: "#sunrise, #potspottingcanada, #backpack, #travelling"
+    followers: 967944
+    engagement: 138
+    commentsToLikes: 0.016798
+    id: ckf5n84aux3ig0j23eixhwgg6
+    verified: true
+    hashtags: "#msglow, #moisturizer, #promocosmetic, #makeup"
   - username: "mrsveronicatan"
     fullname: >-
       VeronicaTan
@@ -90,41 +54,77 @@ profiles:
     commentsToLikes: 0.037377
     id: ck0u8y1u48itm0i192qw2ms3t
     verified: false
-    hashtags: "#distributorherbalife, #herbalife, #pelangsingbadan, #selebrita17"
-  - username: "leoafandi_makeup"
+    hashtags: "#nutrition, #healthyeating, #shakeherbalife, #fansnikita"
+  - username: "elmaaa_e"
     fullname: >-
-      Makeup Artist Jakarta
+      Elma Agustin
     bio: >-
-      📍JAKARTA 📍Batam @dermalovebatam @dapurmamaleo 🏅WINNER @makeoverid MUAHUNT2019 📱 +6281372410673 📧 leoafandi9@gmail.com
+      Bentuk Management/Public Figure ☎️Cp Riri Bentuk Management +62 813-8097-2675 ✉️ elmaa_e@yahoo.com 🍋@byefat_official owner Https://linktr.ee/byefat
     location: "Indonesia"
-    followers: 15781
-    engagement: 171
-    commentsToLikes: 0.072306
-    id: ck8sxxf1qj0v70j78mu4geux1
-    verified: false
-    hashtags: "#jakartamakeupartist, #makeupartistjakarta, #instamakeup, #jakartamua"
-  - username: "thanitmua_"
+    followers: 389271
+    engagement: 188
+    commentsToLikes: 0.004635
+    id: ck6tnt16saim60j714n2vsb4w
+    verified: true
+    hashtags: "#menurunkanberatbadan, #diet, #bali, #maukurus"
+  - username: "christin_bun"
     fullname: >-
-      𝓣𝓱𝓪𝓷𝓲𝓽 𝓟𝓪𝓷𝓲𝓬𝓱𝓪𝔂𝓪𝓼𝓪𝔀𝓪𝓽
+      ｃｈｒｉｓｔｉｎ | BEAUTY CREATOR
     bio: >-
-      🇲🇨🇹🇭 𝓶𝓪𝓴𝓮𝓾𝓹 & 𝓯𝓪𝓼𝓱𝓲𝓸𝓷 𝐂.𝐄.𝐎 𝐨𝐟 @bewtysociety_ 𝖕𝖆𝖗𝖙 𝖔𝖋 @indobeautysquad @teen_management 𝔟𝔲𝔰𝔦𝔫𝔢𝔰𝔰/𝔦𝔫𝔮𝔲𝔦𝔯𝔶 : 𝔢𝔪𝔞𝔦𝔩📩 ขอบคุณที่ติดตามฉัน
+      BLOGGER // MUA // #makeupinspo 💄: @beautywith_tin 👶🏻: @tinthingstudio @sociolla : SBN043ABD #bunapproved #clozetteambassador
     location: "Indonesia"
-    followers: 11977
-    engagement: 337
-    commentsToLikes: 0.101515
-    id: ck9wd71mbectq0j78rvvgxqij
+    followers: 9021
+    engagement: 229
+    commentsToLikes: 0.228543
+    id: ck5cb3b88enfc0i11v7ro40ws
     verified: false
-    hashtags: "#makeup, #artmakeup, #ootdmen, #ootdmenindo"
-  - username: "rinandinii"
+    hashtags: "#makeuplook, #eyemakeup, #christinbun, #makeupinspo"
+  - username: "nathalie__ale"
     fullname: >-
-      R. Andini S.M
+      Nathalie | Petite Style 💕
     bio: >-
-      🌻🌻🌻 Business account : @latopiastuff | @deerwave.id . Pre order : @ulau.id
+      👩🏻 Petite 5’ (153 cm) Eurasian 🇳🇱🇮🇩 👄 Polyglot: 🇺🇸 🇫🇷 🇮🇩 🇳🇱 📍 Jakarta, ID 🎥 WHAT'S INSIDE MY BAG👇🏼
     location: "Indonesia"
-    followers: 3696
-    engagement: 836
-    commentsToLikes: 0.034793
-    id: ck14jb2fsjfry0i19gkgk4a7u
+    followers: 4313
+    engagement: 970
+    commentsToLikes: 0.268556
+    id: ckap8ny24p6jb0i78egfweale
     verified: false
-    hashtags: "#lifestyle, #happy, #outfitoftheday, #instalike"
+    hashtags: "#beigemood, #lookofday, #hmxme, #lookdujour"
+  - username: "fei_chen1"
+    fullname: >-
+      fei
+    bio: >-
+      BA @noeraskincare 💛Real acount💛 18y
+    location: "Indonesia"
+    followers: 318999
+    engagement: 73
+    commentsToLikes: 0.014523
+    id: ck5q0s76p7hxu0i11nwlley0m
+    verified: false
+    hashtags: "#selegram, #likeforlikeback, #followers, #ffff"
+  - username: "djwizznu"
+    fullname: >-
+      DJ WIZZNU
+    bio: >-
+      DJ | Actor | Presenter | MC TV Host : Nightlife/Colorbar/Takjil Hunter/Halal Zone #MNCChannels #MNCfoodtravel . Link Youtube channel :
+    location: "Indonesia"
+    followers: 37538
+    engagement: 227
+    commentsToLikes: 0.022862
+    id: ck6u8skl7tf1k0j71m0omyav5
+    verified: false
+    hashtags: "#mncvision, #mncchannels, #hangout, #party"
+  - username: "coretanmalang"
+    fullname: >-
+      PP 3 akun murah
+    bio: >-
+      pp 3 akun silahkan klik link dibawah⤵ Insight ada disorotan😙
+    location: "Indonesia"
+    followers: 24536
+    engagement: 411
+    commentsToLikes: 0.008501
+    id: ck8t5or5laq7d0j78ogeqr8op
+    verified: false
+    hashtags: "#quotejowo, #katakatabijak, #galau, #storywa"
 ---

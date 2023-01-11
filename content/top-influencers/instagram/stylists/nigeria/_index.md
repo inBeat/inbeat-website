@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Nigeria in 2023
+title: Top 10 Stylists Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top stylists Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #endpolicebrutality #endsars.
+  Find top stylists Instagram influencers in Nigeria in 2023. Most popular hashtags: #fashion #fashionphotography #explore.
 platform: Instagram
-hits: 31
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 31 Instagram influencers like this in Nigeria for you to contact.
+hits: 15
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 15 Instagram influencers like this in Nigeria for you to work with.
 profiles:
-  - username: "official_thuggergirl"
-    fullname: >-
-      Beautiful_thuggergirl🔺
-    bio: >-
-      •Model •Stylist/Designer Business page : @boe_luxury @apparels_designs 🛍💰 Brand ambassador: @skin_byshay
-    location: "Nigeria"
-    followers: 5534
-    engagement: 1388
-    commentsToLikes: 0.079798
-    id: ck8swwn2kfhx40j78gjg66b20
-    verified: false
-    hashtags: "#explorepage, #staysafe, #explore"
-  - username: "therealzamaniprynx"
-    fullname: >-
-      The real Zamani Prynx
-    bio: >-
-      Fashion addict Fashion Stylist 🇳🇬🇹🇬🇬🇭 @pauseshots YOU CAN CALL ME THE COLOR MANNEQUIN 🌈 ———————————————— TURN ON POST NOTIFICATION
-    location: "Nigeria"
-    followers: 26218
-    engagement: 321
-    commentsToLikes: 0.103698
-    id: ck0u69xnx1fgt0i194vgw40mu
-    verified: false
-    hashtags: "#durban, #kenyamemes, #pretoria, #johannesburg"
-  - username: "ruqayyah_dp"
-    fullname: >-
-      #ENDSARS
-    bio: >-
-      Fashion Enthusiast Food || Lifestyle Founder @dreamwearsonline Stylist @stylebyruqayyah
-    location: "Nigeria"
-    followers: 43809
-    engagement: 185
-    commentsToLikes: 0.029836
-    id: ck8t08bw7r64k0j78k8w1ater
-    verified: false
-    hashtags: "#styleinfluencer, #modeststyleinfluencer, #styleinspiration, #modestbrandinflencer"
-  - username: "toosweetannangh"
-    fullname: >-
-      Toosweet Annan
-    bio: >-
-      I'm A wOrK oF aRt fAsHiOn SuPrEmO AcToR ✖️ MoDeL ✖ ArTiSt sTyLe gOd || fAsHiOn InFlUeNcEr || StAr STyLiSt 👻: @toosweetannan
-    location: "Nigeria"
-    followers: 180636
-    engagement: 369
-    commentsToLikes: 0.022565
-    id: ck0w4pahpzq1v0i193k45hlnn
-    verified: true
-    hashtags: "#godseye, #fashionsupremo, #stylegod, #sabali"
   - username: "nosco_pearl"
     fullname: >-
       Onochie joy
     bio: >-
       Business page @nosco.p.culture Wardrobe Stylist🎀.
     location: "Nigeria"
-    followers: 31427
-    engagement: 320
-    commentsToLikes: 0.036913
+    followers: 32246
+    engagement: 317
+    commentsToLikes: 0.036073
     id: ck5bxf5conlt20i1118pqzovl
     verified: false
-    hashtags: "#explorepage, #exploremore, #explore, #happyweekend"
-  - username: "wear.it.like.ozic"
-    fullname: >-
-      Chief Ozic
-    bio: >-
-      L.L.B Hons 👨🏻‍⚖️| PUBLSHED STYLE EDITOR @vogueitalia @bellanaijastyle | Award Wining Fashion Stylist | ART DIRECTOR | CH @w.i.l.o__ @ozicsworkshop
-    location: "Nigeria"
-    followers: 7616
-    engagement: 607
-    commentsToLikes: 0.060733
-    id: ck5hm58xuldu50i11adqm6w98
-    verified: false
-    hashtags: "#styleconnoisseur, #styleseries, #mensfashion, #menstyle"
+    hashtags: "#happyweekend, #happydecember, #exploremore, #explore"
   - username: "momo.mho"
     fullname: >-
       MOMO
     bio: >-
       Creative Director & Stylist based in Lagos 📍Morinsola Hassan-Odukale Creative page @momo.lagos
     location: "Nigeria"
-    followers: 3586
-    engagement: 1989
-    commentsToLikes: 0.051796
+    followers: 3757
+    engagement: 1888
+    commentsToLikes: 0.056388
     id: ck55nxi5n774s0i11udgeambb
     verified: false
     hashtags: ""
-  - username: "chef_muse"
+  - username: "1efrank"
     fullname: >-
-      Chef Muse
+      Erica Franklin-Edmond
     bio: >-
-      Cuisine Addict | Private Chef|Food Stylist| Consultant. Chef Instructor @Reddishchronicles #RDCAlumni | thechefmuse@gmail.com FCT Abuja, Nigeria
+      Etfrank89@gmail.com. @1efrank on ClubHouse 📍Chicago Lily's Talent/Planet Earth-CHI 💇🏽‍♀️hair stylist 📷Model 🎭Actor 🎤Singer 👞Tapdancer
     location: "Nigeria"
-    followers: 16079
-    engagement: 392
-    commentsToLikes: 0.074865
-    id: ckap6y1d3huaa0i78ytftxqy9
+    followers: 4535
+    engagement: 989
+    commentsToLikes: 0.079038
+    id: ck5pzwnv9342q0i1116d2o4ia
     verified: false
-    hashtags: "#killerchef, #wearerdc, #abuja, #nigeriamustbegreatagain"
-  - username: "calliethebaker"
+    hashtags: "#pandemicwedding, #blacklove, #naturalhairbride, #blacknewlyweds"
+  - username: "david.eyo"
     fullname: >-
-      Callie the baker™️
+      𝕊 𝕌 ℙ 𝔼 ℝ 𝕊 𝕋 𝔸 ℝ
     bio: >-
-      🍰Scratch Baker & Mini Dessert Stylist 👩🏽‍🍳Not Accepting Dessert Orders until 2023 🎉@calliethebaker_supplyco coming soon! 🎥 YouTube:
+      The Next Big Thing Actor | Singer | Stylist Bookings: Lacavemusik@gmail.com
     location: "Nigeria"
-    followers: 68080
-    engagement: 498
-    commentsToLikes: 0.056210
-    id: ck6u1rlbdngwe0j71bwoudf8n
+    followers: 16814
+    engagement: 351
+    commentsToLikes: 0.043723
+    id: ck602j9xahjb00i14j2tt6iuu
     verified: false
-    hashtags: "#calliethebaker, #dessertlovers, #sugarcookies, #cakedecorating"
-  - username: "kie_kie__"
+    hashtags: "#fashiongram, #fashionaddict, #fashiondiaries, #exploremore"
+  - username: "itschristopherhorne"
     fullname: >-
-      Bukunmi Adeaga-Ilori
+      Christopher Paul Horne
     bio: >-
-      Content producer & Host (@kie_kie_tv) Fashion stylist and Enthusiast Creative Director: @AccostCollection Brand influencer Brand Ambassador PREstate
+      God's Vessel. Actor | Fashion Photographer | Filmmaker | Stylist Curator of @ChristopherHornePhoto Director of @MagnoliaModels NYC | NOLA
     location: "Nigeria"
-    followers: 168653
-    engagement: 492
-    commentsToLikes: 0.061304
-    id: ck0w4y4pp0zdn0i19raq3qj3t
+    followers: 7396
+    engagement: 521
+    commentsToLikes: 0.067354
+    id: ck0u1t7ndxu9d0i19zrfnp13z
     verified: false
-    hashtags: "#kiekie, #nigerianweddings, #nigerianeesdingchronicles, #weddingafterparty"
+    hashtags: "#christopherbychristopher, #idmagazine, #christopherhorne, #pillowchallenge"
+  - username: "deangelictouchstylist"
+    fullname: >-
+      John J. Angel
+    bio: >-
+      Multiple Award Winning Stylist #MyOwnIsEasyIJN #thebillionairestylist👑
+    location: "Nigeria"
+    followers: 41025
+    engagement: 87
+    commentsToLikes: 0.034985
+    id: ck6u3h7h0xrm10j71godtf2ex
+    verified: false
+    hashtags: "#thebillionairestylist, #tb, #mercyandikeshow, #pronto"
+  - username: "giancardinale"
+    fullname: >-
+      Gianni Cardinale
+    bio: >-
+      |God first 🙏🏼🙏🏼|Disciple| . Hair is my passion , Stylist/Educator @menspiresalon https://menspire.co.uk/education/ukcourses/1to1/
+    location: "Nigeria"
+    followers: 34399
+    engagement: 208
+    commentsToLikes: 0.012706
+    id: ck55kcmh7yznc0i11m7lsl52a
+    verified: false
+    hashtags: ""
+  - username: "glamprince"
+    fullname: >-
+      snap/skype/twitter @glamprince
+    bio: >-
+      Personal Fashion Stylist,Chef And Dance Instructor
+    location: "Nigeria"
+    followers: 2211
+    engagement: 1006
+    commentsToLikes: 0.159281
+    id: ck6tvg0z5m10k0j719qlnie68
+    verified: false
+    hashtags: "#happychild, #positivevibes, #happymoments, #happynewmonth"
+  - username: "ovia_reflex"
+    fullname: >-
+      Nigeria Based Photographer
+    bio: >-
+      Creative Director/ Photographer / Retoucher Bookings: Oviareflex3112@gmail.com WhatsApp: +2347055930290 Published Photographer Lightroom presets 🔗
+    location: "Nigeria"
+    followers: 15859
+    engagement: 556
+    commentsToLikes: 0.025037
+    id: ck0w0uiuag3n90i197bxelsvm
+    verified: false
+    hashtags: "#stylist, #blue, #beautyphotographer, #birthday"
+  - username: "belove_falana"
+    fullname: >-
+      Ayanfe Falana
+    bio: >-
+      THIS IS MY ONLY ACCOUNT 👌 Beauty Queen 👸🏿(MBGE2016/2017) Political Scientist👩‍🎓 Brand Ambassador @bismidcosmetics💄 @gpennyfoods Sc:👻belovefalana
+    location: "Nigeria"
+    followers: 8785
+    engagement: 653
+    commentsToLikes: 0.082173
+    id: ck5zwe33a5yw30i14zhlrnku5
+    verified: false
+    hashtags: "#glow, #explorepage, #explore, #exploremore"
 ---

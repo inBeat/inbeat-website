@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Italy in 2023
+title: Top 10 Cyclists Instagram Influencers In Italy In 2023
 description: >-
-  Find top cyclists Instagram influencers in Italy in 2023. Most popular hashtags: #cyclinglife #cyclist #cycling.
+  Find top cyclists Instagram influencers in Italy in 2023. Most popular hashtags: #bike #bikegirl #cycling.
 platform: Instagram
-hits: 98
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 98 Instagram influencers like this in Italy for you to collaborate.
+hits: 72
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 72 Instagram influencers like this in Italy for you to pitch.
 profiles:
-  - username: "stefanoellea"
+  - username: "maximilian_schachmann"
     fullname: >-
-      Stefano LA
+      Maximilian Schachmann
     bio: >-
-      Adventure Cyclist 🌍 Mountain Lover 🏔 Athlete: @albaoptics @lookcycle @prologo.official CO-FOUNDER @assaultofreedom
+      Pro cyclist for Team Bora Hansgrohe 🟡 Paris-Nice 2020 🇩🇪 Former German national champion 🇮🇹 Giro d'Italia stage winner Ambassador for RightToPlay
     location: "Italy"
-    followers: 22303
-    engagement: 726
-    commentsToLikes: 0.044025
-    id: ck0vx12hnwlrl0i19zqu8qjap
+    followers: 42846
+    engagement: 1246
+    commentsToLikes: 0.048020
+    id: ck5hnfi02noze0i11s5zit6me
     verified: false
-    hashtags: ""
-  - username: "leti_galva"
+    hashtags: "#letour, #tdf, #bandofbrothers, #tdf2020"
+  - username: "cyclingmagic"
     fullname: >-
-      Letizia Galvani
+      Kamila Panasiuk Cycling Photo
     bio: >-
-      🎓 Academy of fine Arts @aba.verona 🚴 Professional cyclist @asdborntowin 🚴🏻‍♀️Fixed rider @ird_squadra_corse #staygalva Age 24 Ravenna
+      Photographer | Marketing spec | 🧠HSP 📍Warsaw 🇵🇱🚴#Cyclist showing women can #ridesolo @thule @voidcycling ambassador 👉Książka Bikefitting ZRÓB TO SAM👇
     location: "Italy"
-    followers: 10947
-    engagement: 1154
-    commentsToLikes: 0.029969
-    id: ck14k1z5pnbow0i194oav6afx
+    followers: 21804
+    engagement: 484
+    commentsToLikes: 0.030269
+    id: ck15q64s51aj50i19qkmzr63o
     verified: false
-    hashtags: "#mountaincycling, #fixie, #travelbike, #sportwoman"
+    hashtags: "#photographerlife, #instacycle, #instacycling, #outsideisfree"
   - username: "t.dumoulin"
     fullname: >-
       Tom Dumoulin
     bio: >-
       Professional cyclist for @jumbovisma_road🚴🏻‍♂️ World TT gold🥇 Olympic TT silver🥈 and 2017 Giro d'Italia winner🇮🇹
     location: "Italy"
-    followers: 98171
-    engagement: 1149
-    commentsToLikes: 0.009943
+    followers: 105420
+    engagement: 1218
+    commentsToLikes: 0.011938
     id: ck6ue4eeforr90j71cmpvau96
     verified: false
-    hashtags: "#samenwinnen, #tdf2020, #everydayriding, #bbetterbreak"
-  - username: "emidioland"
+    hashtags: "#contintuetheride, #samenwinnen, #tourdekans, #tdf2020"
+  - username: "sandralovisco"
     fullname: >-
-      Emidio Terra
+      Sandra Lovisco Kildevæld
     bio: >-
-      🚴🏻 Italian Cyclist 🇮🇹 Ride for: @brytonsport @gorouvy @rhthelookofsport @sellesanmarco Abruzzo Smart Ambassador
+      Beauty✦Sport Content Creator Digital Influencer Ride for 🚲 @trekbikes_italia Ambassador @naliniciclo @garminitaly #cyclist #triathlete #trail
     location: "Italy"
-    followers: 13548
-    engagement: 473
-    commentsToLikes: 0.077807
-    id: ck602tlakj2l90i14jr2gvbc7
+    followers: 85331
+    engagement: 148
+    commentsToLikes: 0.153521
+    id: ckf5x2y0eu5o40j235ldwm8w0
     verified: false
-    hashtags: "#cyclingshot, #cyclingday, #senzabicinonsostare, #sellesanmarco"
+    hashtags: "#trekbikes, #bikelife, #trekmadone, #cyclinglife"
+  - username: "nicole_dagostin99"
+    fullname: >-
+      Nicole D’Agostin 🇮🇹 VENETO 💥
+    bio: >-
+      Collaboration ▶️ management@martinifantisport.com Cyclist 🚴🏼‍♀️ Tiktok : dagostinnicole 🔥
+    location: "Italy"
+    followers: 21799
+    engagement: 947
+    commentsToLikes: 0.012324
+    id: ckap49xey6ew50i786y2q0azc
+    verified: false
+    hashtags: "#view, #champoluc, #valledaosta, #mountainview"
   - username: "chiara_consonnii"
     fullname: >-
       ⭐️Chiara Consonni⭐️
     bio: >-
-      🌈 3x World Champion 🇪🇺6x European Champion 📧 chiaraconsonni99@gmail.com 🚴‍♀️ Pro cyclist by @valcar_ts 🇮🇹 Italy 📍 Bergamo #CC #veryverysuper 🤪
+      Contact me⤵️ 📬@chiaraconsonni99@gmail.com 🌈3x World Champion 🇪🇺6x European Champion 🚴‍♀️Pro cyclist by @valcar_ts 🇮🇹Italy 📍BG #CC #veryverysuper
     location: "Italy"
-    followers: 25944
-    engagement: 1264
-    commentsToLikes: 0.008217
+    followers: 28379
+    engagement: 1208
+    commentsToLikes: 0.006478
     id: ck6tynrs24t5j0j71v0ybolqe
     verified: false
-    hashtags: "#blonde, #cc, #veryverysuper, #plouay"
+    hashtags: "#cc, #veryverysuper, #bored, #sundaylunch"
   - username: "jarnoiotti"
     fullname: >-
       Jarno Iotti
     bio: >-
       Fotografo e Factotum di @ligabue_official dal 1999 Music lover 🎵 Motocyclist 🏍 Cyclist 🚴🏻 Nature lover 🏕 Based in Italy/Correggio
     location: "Italy"
-    followers: 7435
-    engagement: 1021
-    commentsToLikes: 0.032111
+    followers: 7659
+    engagement: 1202
+    commentsToLikes: 0.024583
     id: ck0vxf9ccylyr0i19z86pfbkg
     verified: false
-    hashtags: "#mondadori, #gravelworld, #liga, #massimocotto"
-  - username: "sandralovisco"
+    hashtags: "#mondadori, #backstage, #liga, #ligabue"
+  - username: "fabioaru1"
     fullname: >-
-      Sandra Lovisco Kildevæld
+      Fabio Aru
     bio: >-
-      Beauty✦Sport Content Creator Digital Influencer Ambassador @trekbikes_italia @garminitaly @rhthelookofsport @altrarunning #cyclist #triathlete #trail
+      Cyclist at Team Qhubeka Assos🇿🇦 👶 Born in San Gavino Monreale 👦 Grown up in Villacidro 🏡 Living in Lugano Passions: sports 🚴 nature 🏔 travel ✈️
     location: "Italy"
-    followers: 85894
-    engagement: 104
-    commentsToLikes: 0.147973
-    id: ckf5x2y0eu5o40j235ldwm8w0
-    verified: false
-    hashtags: "#womanbike, #hairstyle, #trekitalia, #sandralovisco"
-  - username: "driesdevenyns"
-    fullname: >-
-      Dries Devenyns
-    bio: >-
-      Pro cyclist @deceuninck_quickstepteam
-    location: "Italy"
-    followers: 12588
-    engagement: 1340
-    commentsToLikes: 0.007727
-    id: ck6tnn82qa6hp0j71d9v6hmfi
-    verified: false
-    hashtags: "#family, #lightattheendofthetunnel, #sevi, #jongewolf"
-  - username: "gianni_vermeersch"
-    fullname: >-
-      Gianni Vermeersch
-    bio: >-
-      Pro Cyclist @alpecinfenix ❤️ @shaunyvandekerckhove https://www.zwift.com/events/view/1171246
-    location: "Italy"
-    followers: 9758
-    engagement: 1063
-    commentsToLikes: 0.021871
-    id: ck6u3wfj809w40j71z1evq8ji
-    verified: false
-    hashtags: "#alpecinfenix, #stradebianche, #canyon, #tuscany"
-  - username: "fausto_masnada"
-    fullname: >-
-      Fausto Masnada
-    bio: >-
-      Pro Italian cyclist 🇮🇹 🚴🏻 @deceuninck_quickstepteam 🐺 📍🇮🇩 Smash like👇🏻
-    location: "Italy"
-    followers: 44464
-    engagement: 1031
-    commentsToLikes: 0.018202
-    id: ck5hcxhx4kfvq0i112d22ptra
+    followers: 172087
+    engagement: 575
+    commentsToLikes: 0.011889
+    id: ck5qa82gzf15a0i11a7oa11bg
     verified: true
-    hashtags: ""
+    hashtags: "#qhubeka, #ubuntu, #ginevra, #lamiavita"
+  - username: "virginiacancellieri"
+    fullname: >-
+      Virginia Cancellieri
+    bio: >-
+      Cyclist • Finale Ligure 🇮🇹 Riding for @orbeafactoryteam • @orbea Media&Business: virginiacancellieri@dmtc.it 👇🏼
+    location: "Italy"
+    followers: 46087
+    engagement: 653
+    commentsToLikes: 0.012553
+    id: ck6txd02lx55g0j71vxgukn6k
+    verified: false
+    hashtags: "#orbearise, #mtb, #smithoptics, #raawmadonna"
+  - username: "rebigariboldi"
+    fullname: >-
+      Rebecca Gariboldi
+    bio: >-
+      Happiness & family first 🇮🇹 Cyclist for Team Cingolani @iamspecialized | @oakleybike Marketing student | Unimib, Milano Davide ♡
+    location: "Italy"
+    followers: 16848
+    engagement: 1015
+    commentsToLikes: 0.023664
+    id: ck0w4tng30d1p0i1994iksuks
+    verified: false
+    hashtags: "#bestteam, #gozwift, #cxlover, #norainnorainbow"
 ---

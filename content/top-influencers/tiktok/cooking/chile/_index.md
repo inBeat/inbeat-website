@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Chile in 2023
+title: Top 10 Cooking TikTok Influencers In Chile In 2023
 description: >-
-  Find top cooking TikTok influencers in Chile in 2023. Most popular hashtags: #chile #parati #fyp #foryou.
+  Find top cooking TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #cooking #parati.
 platform: TikTok
-hits: 12
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 12 TikTok influencers like this in Chile for you to connect with.
+hits: 9
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Chile for you to pitch.
 profiles:
   - username: "vegana_con_castanas"
     fullname: >-
@@ -13,118 +13,106 @@ profiles:
     bio: >-
       Mi cuenta de dibujos otaku es @romimcam Ig: vegana_con_castanas
     location: "Chile"
-    followers: 5820
-    engagement: 892
-    commentsToLikes: 0.012328
+    followers: 5951
+    engagement: 1070
+    commentsToLikes: 0.016673
     id: ckc36qjl7vm8l0j230l970aei
     verified: false
-    hashtags: "#vegan, #food, #foodlover, #tutorial"
-  - username: "healthydelight"
+    hashtags: "#veganismo, #recetas, #loquecomoenundiavegano, #foodie"
+  - username: "unas_loquillas"
     fullname: >-
-      🍎🍓🥥🍊🥝🍒🍌🍑🥭🍇
+      Maite y vane 
     bio: >-
-      QUÉ COMO EN UN DÍA🍒
+      Chile📍 Punta Arenas ❄️ IG: _maaite_ // vane07cg
     location: "Chile"
-    followers: 12900
-    engagement: 1082
-    commentsToLikes: 0.013896
-    id: ckdc6lua1hg330j2323po4xte
+    followers: 83200
+    engagement: 1072
+    commentsToLikes: 0.014752
+    id: ckb9c1fbnypfs0j23cs9yvcac
     verified: false
-    hashtags: "#healthy, #recetasaludable, #receta, #saludable"
+    hashtags: "#zxcvb, #trend, #parati, #fail"
   - username: "andrealatorre45"
     fullname: >-
       Andrea Latorre
     bio: >-
       Mood cuarentena
     location: "Chile"
-    followers: 8990
-    engagement: 357
-    commentsToLikes: 0.006080
+    followers: 8801
+    engagement: 355
+    commentsToLikes: 0.006002
     id: ckbfc9bpb4xk20j23zgs5bmkr
     verified: false
-    hashtags: "#cooking, #cuarentena, #cocinando, #viral"
-  - username: "basti_goldner"
+    hashtags: "#cocinando, #viral, #quarantine, #cooking"
+  - username: "girasolesdemipais"
     fullname: >-
-      Bastian Goldner
+      Sabri 💛
     bio: >-
-      🥵☕️ IG: basti_goldner 2. Cuenta: bastime_
+      TUTORIALES costura•jardinería•manualidades•recetas 🦋🌻
     location: "Chile"
-    followers: 659900
-    engagement: 2005
-    commentsToLikes: 0.010345
-    id: ckc7ovkrgup160j238pa9ptl6
+    followers: 3978
+    engagement: 921
+    commentsToLikes: 0.077373
+    id: ckbf07pdrlnjq0j2371lr7w3p
     verified: false
-    hashtags: "#humor, #colombia, #parati, #longdistancerelationship"
-  - username: "carlaaaaac"
-    fullname: >-
-      carla
-    bio: >-
-      
-    location: "Chile"
-    followers: 1051
-    engagement: 2422
-    commentsToLikes: 0.006527
-    id: ckb97k1pcqc6w0j23o5xkanzn
-    verified: false
-    hashtags: "#foryou, #chile, #paratiii, #fyp"
-  - username: "marcoarayar"
-    fullname: >-
-      Marco Antonio Araya 
-    bio: >-
-      De Chile pal mundo 🇨🇱
-    location: "Chile"
-    followers: 2687
-    engagement: 637
-    commentsToLikes: 0.039648
-    id: cka0om4z44gkl0i78f4bzjdjo
-    verified: false
-    hashtags: "#marcoravello, #dise, #cuarentena, #designer"
-  - username: "jfranciscoucarras"
-    fullname: >-
-      J Francisco U Carras
-    bio: >-
-      Sencillez, simplicidad,🌹🌹👈😘
-    location: "Chile"
-    followers: 10500
-    engagement: 771
-    commentsToLikes: 0.033029
-    id: ck8rovu4xjexv0j78z9fectuq
-    verified: false
-    hashtags: "#kisschallenge, #viralchallenge, #cuarentenachallenge, #tic"
+    hashtags: "#atrasoshein, #outfits, #diyclothing, #moda"
   - username: "franramirezc"
     fullname: >-
       Francisca Ramírez
     bio: >-
       
     location: "Chile"
-    followers: 2864
-    engagement: 673
-    commentsToLikes: 0.011021
+    followers: 2847
+    engagement: 632
+    commentsToLikes: 0.009548
     id: ckbf8nde8z80l0j238lzc8xtk
     verified: false
-    hashtags: "#parati, #tiktok, #cuarentena, #foryou"
-  - username: "milkyred"
+    hashtags: "#fyp, #foryou, #parati, #tiktok"
+  - username: "jfranciscoucarras"
     fullname: >-
-      Dani Tolosa 🍄
+      J Francisco U Carras
     bio: >-
-      Día 40: Recuperé mi Instagram 📸: @danitolosav 📥 Contactomilkyred@gmail.com
+      Sencillez, simplicidad,🌹🌹👈😘
     location: "Chile"
-    followers: 333200
-    engagement: 1304
-    commentsToLikes: 0.007475
-    id: ckbf0hw12ma130j23vsgu39n1
+    followers: 10600
+    engagement: 754
+    commentsToLikes: 0.027715
+    id: ck8rovu4xjexv0j78z9fectuq
     verified: false
-    hashtags: "#maquillaje, #foryou, #hairstyle, #viral"
+    hashtags: "#vireal, #loveyou, #love, #lovely"
   - username: "ro_bless_"
     fullname: >-
       ro_bless_
     bio: >-
       Estudiante de Odontología- 20 años 😅 Recetas y humor 🙌🏻🍕
     location: "Chile"
-    followers: 43000
-    engagement: 641
-    commentsToLikes: 0.018115
+    followers: 51100
+    engagement: 806
+    commentsToLikes: 0.017289
     id: cka6d74x16vi10i785b2x56dz
     verified: false
-    hashtags: "#parati, #chile, #blessed, #recetafacil"
+    hashtags: "#foryou, #food, #chile, #recetafacil"
+  - username: "joshewoodz"
+    fullname: >-
+      Chico Bestia 🦁
+    bio: >-
+      Bad Boy... 🦁🇨🇱 Ig: Bestia_Kliao📸 Prisionero 228 🕺
+    location: "Chile"
+    followers: 26300
+    engagement: 1698
+    commentsToLikes: 0.037244
+    id: ckbl50kd22ja00j23sofpo7sh
+    verified: false
+    hashtags: "#respondiendocomentarios, #storytime, #pov, #greenscreen"
+  - username: "paulihormazabal"
+    fullname: >-
+      Pauli Hormazabal
+    bio: >-
+      Chile 🇨🇱 Spanglish 18+ I WILL DUET YOU
+    location: "Chile"
+    followers: 4538
+    engagement: 1245
+    commentsToLikes: 0.049919
+    id: ckcpshdwmmsbf0j23dvdwtyu4
+    verified: false
+    hashtags: "#cute, #fun, #chile, #parati"
 ---

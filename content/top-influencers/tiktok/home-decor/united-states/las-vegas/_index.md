@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Las Vegas in 2023
+title: Top 10 Home Decor TikTok Influencers In Las Vegas In 2023
 description: >-
   Find top home decor TikTok influencers in Las Vegas in 2023. Most popular hashtags: #homedecor #lasvegas #fyp #foryou.
 platform: TikTok
-hits: 11
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 11 TikTok influencers like this in Las Vegas, United States for you to connect with.
+hits: 10
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 10 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "anastasiacro"
-    fullname: >-
-      Anastasia Strizhanova
-    bio: >-
-      Handbalancer🤸Circus child🎪📍Las Vegas, NV📍 Business: anastasiastrij@gmail.com
-    location: "United States"
-    followers: 747000
-    engagement: 1508
-    commentsToLikes: 0.014074
-    id: ck81s8e99qsc50j78exn7o8xx
-    verified: true
-    hashtags: "#dance, #foryou, #feature, #recommendations"
-  - username: "jessiethomasdesigns"
-    fullname: >-
-      DIY & Design
-    bio: >-
-      🌷Everything Home🌷 DIY’s•HomeDecor•Garden To shop my home clink the link below
-    location: "United States"
-    followers: 26900
-    engagement: 459
-    commentsToLikes: 0.045099
-    id: ckb9j7spiacq80j23qrxld8wr
-    verified: false
-    hashtags: "#beforeandafter, #halloweendecorations, #halloween2020, #halloweencountdown"
   - username: "michiventures"
     fullname: >-
       michiventures
     bio: >-
-      Traveler, comedian, hiker, the whole package
+      Traveler, hiker, home decorator, the whole package
     location: "United States"
-    followers: 16400
-    engagement: 1405
-    commentsToLikes: 0.029858
+    followers: 16000
+    engagement: 1215
+    commentsToLikes: 0.071277
     id: ck8w3021b6w5j0j78navygw2h
     verified: false
-    hashtags: "#foryou, #fyp, #lasvegas, #vegas"
-  - username: "dongkyuverymuch"
-    fullname: >-
-      dongkyuverymuch
-    bio: >-
-      🦷DS2 at UNLV School of Dental Medicine Follow me on IG: @dongkyuverymuch
-    location: "United States"
-    followers: 17800
-    engagement: 637
-    commentsToLikes: 0.016818
-    id: cka0n9mc8yq4n0i784nef2n0t
-    verified: false
-    hashtags: "#foodie, #vegasfood, #kingcrab, #lasvegas"
-  - username: "mollyannhouston"
-    fullname: >-
-      mollyannhouston
-    bio: >-
-      Just a mom , escaping facebook & instagram
-    location: "United States"
-    followers: 7709
-    engagement: 948
-    commentsToLikes: 0.061556
-    id: ckb9hdpq26zsp0j23gtvmrvm1
-    verified: false
-    hashtags: "#doitbold, #inspo, #lol, #decor"
-  - username: "suhenna_creations"
-    fullname: >-
-      suhenna_creations
-    bio: >-
-      weekly ig giveaways just for following @suhenna_creations // suhenna.com shop ⬇️
-    location: "United States"
-    followers: 282000
-    engagement: 2294
-    commentsToLikes: 0.011285
-    id: ckbw3nxaux85a0j235kvsvmbu
-    verified: false
-    hashtags: "#bartender, #draw, #yum, #fresh"
-  - username: "itsagracebigworld"
-    fullname: >-
-      Grace Zantua
-    bio: >-
-      Filipina California B.S. Hospitality Management DIY Enthusiast
-    location: "United States"
-    followers: 12600
-    engagement: 1000
-    commentsToLikes: 0.038925
-    id: ckbfgr4luc1ja0j23rdvi34bs
-    verified: false
-    hashtags: "#filipino, #diyproject, #fyp, #tiktokartist"
+    hashtags: "#homeimprovement, #shoppinghaul, #homedecor, #fyp"
   - username: "rolitacouture"
     fullname: >-
       Rolita Couture
     bio: >-
-      SEXY HAS NO SIZE 💃🏽 ✂️Rave Fashion & body positivity 🛍 Shop⬇️
+      Swimsuits, Rave & Street Fashion, Accessories, Home Decor ✋🏽made 🎲 Las Vegas
     location: "United States"
-    followers: 46800
-    engagement: 1482
-    commentsToLikes: 0.030948
+    followers: 71200
+    engagement: 1293
+    commentsToLikes: 0.035309
     id: ck8qnxy4fwk480j78h5eek76h
     verified: false
-    hashtags: "#streetwear, #ravewear, #sewing, #streetfashion"
-  - username: "dawsonwilldoit"
+    hashtags: "#lasvegas, #edmtiktok, #edcoutfit, #ravewear"
+  - username: "andreaeppolito"
     fullname: >-
-      Dawson Featherstone
+      andreaeppolito
     bio: >-
-      Originally knows as CovidBoys Venmo - DawsonFeather
+      Las Vegas Wedding Planner. Event Designer. Author. Coach.
     location: "United States"
-    followers: 3584
-    engagement: 1044
-    commentsToLikes: 0.050019
-    id: ckbezsujtl5qm0j235xnmkwel
+    followers: 25000
+    engagement: 639
+    commentsToLikes: 0.076920
+    id: ck920ix3xeba90j789c72i0z5
     verified: false
-    hashtags: "#tubing, #covid19, #cliffjumping, #trump2020"
+    hashtags: "#lasvegasweddingplanner, #weddingplanner, #vegas, #weddingplanning"
+  - username: "lamamaglamorosaa"
+    fullname: >-
+      Elizabeth Flores
+    bio: >-
+      🍂decoración-organización-diys - belleza 📍Las Vegas rutvilleda289@gmail.com 😀
+    location: "United States"
+    followers: 107900
+    engagement: 685
+    commentsToLikes: 0.018629
+    id: ckbf46w5zsj670j23le2rd8mn
+    verified: false
+    hashtags: "#decorideas, #targetfinds, #target, #amazonfinds"
+  - username: "recyclingrandy"
+    fullname: >-
+      Randy James
+    bio: >-
+      Guess who’s back!? Account was hacked/banned for 3 weeks! Back with more content
+    location: "United States"
+    followers: 79200
+    engagement: 1784
+    commentsToLikes: 0.078674
+    id: ck81qyg6fky730j78kx9ipiqh
+    verified: false
+    hashtags: "#dapper, #teacher, #bowtie, #recycle"
+  - username: "mrslaurenelms"
+    fullname: >-
+      MrsLaurenElms
+    bio: >-
+      Just an ER nurse tryin’ to keep things clean but also live a lil
+    location: "United States"
+    followers: 72300
+    engagement: 782
+    commentsToLikes: 0.011655
+    id: ck9k2trfjlrug0j78wc9d86zq
+    verified: false
+    hashtags: "#plantmom, #planttiktok, #alltheplants, #iloveplants"
+  - username: "turquoisedarlin"
+    fullname: >-
+      TurquoiseDarlin
+    bio: >-
+      🌵 insta- @turquoisedarlin Western Fashion Model
+    location: "United States"
+    followers: 8793
+    engagement: 1202
+    commentsToLikes: 0.020003
+    id: ckbfedepk88n20j23l5stcfae
+    verified: false
+    hashtags: "#western, #outfit, #fashion, #boots"
+  - username: "devanie.at.home"
+    fullname: >-
+      devanie.at.home
+    bio: >-
+      Decor Designer & Co Founder of A&C w/ my partner in everything, @dj.adams.co 🖤
+    location: "United States"
+    followers: 32200
+    engagement: 610
+    commentsToLikes: 0.058222
+    id: ck9a6peuz44ev0j78w318ex9i
+    verified: false
+    hashtags: "#spring, #mackenziechilds, #desert, #springflowers"
   - username: "tictoclikeaclock"
     fullname: >-
       Michael 
     bio: >-
       can we get to 40K? Leave a comment, I’ll reply:)
     location: "United States"
-    followers: 35700
-    engagement: 700
-    commentsToLikes: 0.024949
+    followers: 35300
+    engagement: 626
+    commentsToLikes: 0.023946
     id: cka89q4xyg0060i78bbotaurp
     verified: false
-    hashtags: "#f150, #makemoney, #foryou, #money"
+    hashtags: "#money, #fire, #f150, #fyp"
+  - username: "itsbetttygood"
+    fullname: >-
+      user6600795070643
+    bio: >-
+      Subscribe to my Youtube channel 😉👍🏻
+    location: "United States"
+    followers: 19000
+    engagement: 557
+    commentsToLikes: 0.016002
+    id: ckb0ugoprjs9c0j23hxts7eez
+    verified: false
+    hashtags: "#estilojalisco, #mexicantradition, #viral, #foryou"
 ---

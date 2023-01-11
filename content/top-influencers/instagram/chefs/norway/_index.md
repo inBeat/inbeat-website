@@ -1,118 +1,118 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Norway in 2023
+title: Top 10 Chefs Instagram Influencers In Norway In 2023
 description: >-
-  Find top chefs Instagram influencers in Norway in 2023. Most popular hashtags: #norway #michelinguide #oslo #michelin.
+  Find top chefs Instagram influencers in Norway in 2023. Most popular hashtags: #norway #michelin #matglede.
 platform: Instagram
 hits: 9
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 9 Instagram influencers like this in Norway for you to connect with.
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 9 Instagram influencers like this in Norway for you to work with.
 profiles:
   - username: "christerrodseth"
     fullname: >-
       Christer Rødseth
     bio: >-
-      🍴Head chef @vaaghals_restaurant 🍴Co owner @code_restaurant 🍴Host for Matsjokket @nrk Booking og kontakt: post@christerrodseth.no
+      🍴Head chef @vaaghals_restaurant 🍴Co owner @code_restaurant 🍴Host for Matsjokket @nrk 🍴En bit av Norge, TV2 - 2021 Kontakt: post@christerrodseth.no
     location: "Norway"
-    followers: 10142
-    engagement: 903
-    commentsToLikes: 0.020593
+    followers: 11977
+    engagement: 857
+    commentsToLikes: 0.027024
     id: ck8t4mu617cep0j78jult353j
     verified: false
-    hashtags: "#coderestaurant, #norge, #newscandinaviancooking, #norway"
+    hashtags: "#godmorgennorge, #reinsdyr, #newscandinaviancooking, #norskmat"
   - username: "n0rdavinden"
     fullname: >-
       FREDRIK HAGEN
     bio: >-
       🎬 Norwegian Gaming Youtuber 🍔 Educated Chéf in Norway 👇 Link to YOUTUBE channel in bio 💙 Team NOCCO Norway 🎮 Playstation ambassador 💕G
     location: "Norway"
-    followers: 9155
-    engagement: 798
-    commentsToLikes: 0.022784
+    followers: 9017
+    engagement: 817
+    commentsToLikes: 0.022416
     id: ck5ccst4uhy650i115lo7dqkg
     verified: false
-    hashtags: "#gamingharskylda, #annonse"
+    hashtags: "#annonse, #stormenstemning"
   - username: "kontrast_mikael"
     fullname: >-
       Mikael Svensson
     bio: >-
       Restaurant Kontrast 1 michelin ⭐️ Modern Nordic restaurant. Proud owner and chef
     location: "Norway"
-    followers: 8186
-    engagement: 530
-    commentsToLikes: 0.044788
+    followers: 8507
+    engagement: 496
+    commentsToLikes: 0.045404
     id: ckaorg838n2nj0i78lr801jap
     verified: false
-    hashtags: "#michelinguide, #visitoslo, #organic, #kontrast"
+    hashtags: "#sustainability, #staysafe, #michelin, #2017"
+  - username: "capnorway"
+    fullname: >-
+      Christian André Pettersen
+    bio: >-
+      Norwegian candidate Bocuse d’Or 🥇2020 Bocuse d’Or 🥇2019 Chef of the year 🥉2019 Bocuse d’Or 🥇2018 Bocuse d’Or Forbes 30under30 #LiveYourDream
+    location: "Norway"
+    followers: 7829
+    engagement: 588
+    commentsToLikes: 0.022738
+    id: ck5bw2q2rkvxf0i116d3trklt
+    verified: false
+    hashtags: "#arctic, #liveyourdream, #beyond, #polar"
   - username: "ellitsgaard_under"
     fullname: >-
       Nicolai Ellitsgaard
     bio: >-
       Chef @UNDERlindesnes ❉ Michelin Guide 2020
     location: "Norway"
-    followers: 17489
-    engagement: 275
-    commentsToLikes: 0.022756
+    followers: 18442
+    engagement: 273
+    commentsToLikes: 0.018090
     id: ck0vwxdg0w1ty0i1986ijoge3
     verified: false
-    hashtags: "#underlindesnes, #michelinguide, #michelinstar, #homecooking"
+    hashtags: "#underlindesnes, #whiteguide, #underwater, #michelinstar"
   - username: "sidraomarr"
     fullname: >-
-      Sidra -Hijabstyles|Recipes|Mom
+      
     bio: >-
-      🇵🇰 | 🇳🇴 📍Oslo Hijab tutorials • Food recipes • Lifestyle talk A little bit of everything i love ❤ Mirror-selfie addict 🤳 Millennial desi mom 💁🏻‍♀️
+      
     location: "Norway"
-    followers: 7970
-    engagement: 499
+    followers: 21
+    engagement: 189649
     commentsToLikes: 0.240447
     id: ck9wgfv4yt8iu0j78cqctl671
     verified: false
-    hashtags: "#hijabtutorial, #scarfstyles, #indianfoodrecipes, #hijabifashion"
-  - username: "nikolaimeling"
+    hashtags: "#myramzanposts, #vegrecipesofindia, #gharkakhana, #ramzanrecipes"
+  - username: "interiormerete"
     fullname: >-
-      Nikolai Meling
+      Merete Jæger
     bio: >-
-      Nothing to see here unless you like bread🍞🥐 🇧🇻Stavanger
+      ▪️Interior with a touch of nature ▪️Sunsets ▪️Maura, Norway🇳🇴
     location: "Norway"
-    followers: 14888
-    engagement: 686
-    commentsToLikes: 0.011278
-    id: ck5zohxtrqlsa0i14y8da92lz
+    followers: 71425
+    engagement: 848
+    commentsToLikes: 0.048202
+    id: ck5cc55sbgqp40i11ppxx5cv2
     verified: false
-    hashtags: "#surdeig, #godtno, #bakerylife, #fermented"
-  - username: "casachicks"
+    hashtags: "#color, #table, #window, #terrace"
+  - username: "inamariehagen"
     fullname: >-
-      CC-styling
+      Ina Marie Hagen
     bio: >-
-      •Stylist •SoMe Manager ✨Årets Gullfjær 2020✨ Mail: Info@ccstyling.no @moccamasternorge @kidinterior Ambassadør @plantasjen
+      «Matbordet er det eneste stedet der man aldri kjeder seg den første timen.» @inamariehagen
     location: "Norway"
-    followers: 275276
-    engagement: 111
-    commentsToLikes: 0.105326
-    id: ck55q9rbmclb80i11222jlrc0
+    followers: 5033
+    engagement: 829
+    commentsToLikes: 0.094825
+    id: ckf5n3tzpwmpi0j23d3kc63h2
     verified: false
-    hashtags: "#hyttekroken, #outdoorfurniture, #fireplace, #interiorismo"
-  - username: "oleedvardantonsen"
+    hashtags: "#pescetarian, #instafood, #buzzfeedfood, #eatyourveggies"
+  - username: "omerzuri"
     fullname: >-
-      Ole Edvard Antonsen
+      Omer Zuri עומר צורי
     bio: >-
-      International trumpet soloist, conductor, composer, recording artist
+      ​ ​ FREE CORONA WORKOUTS​ In highlights 🤸🏻‍♀️ ​ ​ Personal trainer​ CrossFit athlete🥉in 🇮🇱​ ​ Ⓜ️ MyProtein Ambassador​ code OMER ⬇️
     location: "Norway"
-    followers: 8936
-    engagement: 658
-    commentsToLikes: 0.021056
-    id: ck5hczm83kqg30i11lpzujjbk
+    followers: 21605
+    engagement: 411
+    commentsToLikes: 0.089299
+    id: ck13cvvwj2f9g0i19fc593ngo
     verified: false
-    hashtags: "#jul, #trumpet, #norway, #konsert"
-  - username: "capnorway"
-    fullname: >-
-      Christian André Pettersen
-    bio: >-
-      Norwegian candidate Bocuse d’or 2019-2023 🇳🇴 Bocuse d’Or Bronze 2019 Forbes 30under30 Live Your Dream www.bycap.no
-    location: "Norway"
-    followers: 5856
-    engagement: 615
-    commentsToLikes: 0.021722
-    id: ck5bw2q2rkvxf0i116d3trklt
-    verified: false
-    hashtags: "#arctic, #beyond, #food, #repost"
+    hashtags: "#teamzuri, #arganeveryday"
 ---

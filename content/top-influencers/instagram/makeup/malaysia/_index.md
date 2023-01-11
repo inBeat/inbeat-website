@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Malaysia in 2023
+title: Top 10 Makeup Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top makeup Instagram influencers in Malaysia in 2023. Most popular hashtags: #hudabeauty #makeup #stayathome.
+  Find top makeup Instagram influencers in Malaysia in 2023. Most popular hashtags: #makeupartist #makeuptutorial #makeup #muamalaysia.
 platform: Instagram
-hits: 108
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 108 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 91
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 91 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
-  - username: "eatzzz7"
+  - username: "miisa_mhc"
     fullname: >-
-      !           🍒紀卜心
+      💙Miisa MHC💙
     bio: >-
-      🌵ꉓꂦ꒒ꂦꋪŦꀎ꒒ ฅ•ω•ฅ ꒒ꀤŦꍟ🌵 🖥 Facebook 🔍紀卜心 🎨 Makeup trainee#Kimismakeupportfolio 📩📩📩🔜ellaine1779@gmail.com New✨ 牙齒矯正成果
+      ❀˖˚𝕄𝕒𝕝𝕒𝕪𝕤𝕚𝕒𝕟 ℍ𝕚𝕛𝕒𝕓 ℂ𝕠𝕤𝕡𝕝𝕒𝕪𝕖𝕣 ❀˖˚ 🍑Cosplay🍑Makeup🍑Lolita DM for Paid Review email : miisamhc@gmail.com
     location: "Malaysia"
-    followers: 814843
-    engagement: 298
-    commentsToLikes: 0.011782
-    id: ck15suceaeuag0i19c5n98gtx
-    verified: true
-    hashtags: "#gracegift, #alittlemore, #10, #outfits"
-  - username: "aishaliyana"
-    fullname: >-
-      Aisha Liyana
-    bio: >-
-      Part time YouTuber. Full time makeup enthusiast. 10% off FV with code NOVAISHA ✨ for business enquiries: aishaliyanakf@gmail.com [NO DM]
-    location: "Malaysia"
-    followers: 206933
-    engagement: 169
-    commentsToLikes: 0.023463
-    id: ck5pyqizjxayz0i113wlvbdd7
+    followers: 13141
+    engagement: 674
+    commentsToLikes: 0.023658
+    id: ck136540a4sio0i19o5a4p8l3
     verified: false
-    hashtags: "#toofacedbornthisway, #myantiageingjourney, #myjomalonelondon, #watsonsmy"
-  - username: "maymichelle"
-    fullname: >-
-      Michelle Yong 🇲🇾
-    bio: >-
-      Founder of @haleskin.care 🍃 💄Freelance Professional Makeup Artist 📍Kota Kinabalu 👩🏼‍💻20
-    location: "Malaysia"
-    followers: 34674
-    engagement: 388
-    commentsToLikes: 0.010143
-    id: ckap6rwcah67x0i78cx7g3qsi
-    verified: false
-    hashtags: "#misspetiteuniverseinternationalsabah, #staysafe, #stayhome, #pageantwithdignity"
+    hashtags: "#rukasarashina, #kimetsunoyaiba, #cosplayer, #hijabcosplay"
   - username: "minghui.psd"
     fullname: >-
       李明慧// kl 🇲🇾
     bio: >-
-      hi im ming hui! graphic design student who luvs art n makeup 🖍 :@minghui.ai @_rojakmalaysia ⁣ 💌 : leemh133@gmail.com⁣ (pr/collabs)
+      hi im ming hui! graphic design student who luvs art n makeup 🖍 :@minghui.ai ⁣ 💌 : leemh133@gmail.com⁣ (pr/collabs)
     location: "Malaysia"
-    followers: 10258
-    engagement: 978
-    commentsToLikes: 0.131154
+    followers: 10672
+    engagement: 730
+    commentsToLikes: 0.086830
     id: ckaoyhxhwhloz0i78sb87c47l
     verified: false
-    hashtags: "#svinfluencersbeautycrush, #stylevana, #positionsarianagrande, #positions"
-  - username: "bellefleurmakeup"
+    hashtags: "#shapingsound, #sudiomoments, #01, #befabulash"
+  - username: "eatzzz7"
     fullname: >-
-      𝐁𝐄𝐋𝐋𝐄𝐅𝐋𝐄𝐔𝐑 𝐌𝐀𝐊𝐄𝐔𝐏®️
+      !           🍒紀卜心
     bio: >-
-      𝐀𝐥𝐛𝐚𝐧𝐢𝐚𝐧 𝐖𝐢𝐟𝐞𝐲 & 𝐌𝐨𝐦 🇦🇱💍👼🏽📧.Business:bellefleur-makeup@hotmail.com
+      🌵ꉓꂦ꒒ꂦꋪŦꀎ꒒ ฅ•ω•ฅ ꒒ꀤŦꍟ🌵 🎨 Makeup trainee#Kimismakeupportfolio 📩📩📩🔜ellaine1779@gmail.com New✨ 一日工作vlog
     location: "Malaysia"
-    followers: 63118
-    engagement: 973
-    commentsToLikes: 0.010398
-    id: ck5c1992xup8i0i11jvqjpifq
+    followers: 838596
+    engagement: 312
+    commentsToLikes: 0.005164
+    id: ck15suceaeuag0i19c5n98gtx
+    verified: true
+    hashtags: "#b5, #c10, #outfits, #osim"
+  - username: "joejaprin"
+    fullname: >-
+      JoeJaprin
+    bio: >-
+      ✨ Professional Makeup Artist based in Sabah✨ Actor. Model. Performer For my makeup-work follow @ohjoemakeup Taken ❤️ A
+    location: "Malaysia"
+    followers: 21307
+    engagement: 137
+    commentsToLikes: 0.034347
+    id: ck5q3jofhl2180i11miqz60dt
     verified: false
-    hashtags: "#babymama, #archiv, #ad"
+    hashtags: "#snekviral, #doryskincheezysaltedegg, #doryskin, #makeup"
+  - username: "maymichelle"
+    fullname: >-
+      Michelle Yong 🇲🇾
+    bio: >-
+      @mayymichelleee Founder of @haleskin.care 🍃 Cookies lover🍪 @sweetconfection.kk 💄Freelance Professional Makeup Artist 📍Kota Kinabalu 👩🏼‍💻
+    location: "Malaysia"
+    followers: 35564
+    engagement: 434
+    commentsToLikes: 0.011902
+    id: ckap6rwcah67x0i78cx7g3qsi
+    verified: false
+    hashtags: "#danielwellington, #pictureoftheday, #dwinmy, #dwmalaysia"
   - username: "xtinaling_makeup"
     fullname: >-
       𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐧𝐚 𝐋𝐢𝐧𝐠
     bio: >-
       𝙁𝙤𝙪𝙣𝙙𝙚𝙧 𝙤𝙛 @xtina_imagestudio_makeup 𝙈𝙤𝙩𝙝𝙚𝙧 𝙤𝙛 @xtinamummy
     location: "Malaysia"
-    followers: 45760
-    engagement: 495
-    commentsToLikes: 0.004816
+    followers: 46970
+    engagement: 508
+    commentsToLikes: 0.003358
     id: ck5q7qg2u2ocq0i117ozbk07o
     verified: false
-    hashtags: "#f4f, #19weeks, #malaysia, #nanalingmakeup"
-  - username: "nneve"
+    hashtags: "#asian, #like4like, #asiangirl, #xismakeupteam"
+  - username: "chris_tan_mua"
     fullname: >-
-      Eve
+      ℂ𝕙𝕣𝕚𝕤 𝕋𝕒𝕟 𝕄𝕦𝕒
     bio: >-
-      💋 Makeup Enthusiast 🇲🇾🇵🇭
+      💇🏻Hairstylist | 👄Makeup Artist | 🎥Youtuber: Chris Tan Mua | ✍🏻Blogger Pixstyler Top10 | 📩Dm or email: chris_peopleegg@hotmail.com ⏰Latest videos⬇️⬇️⬇️
     location: "Malaysia"
-    followers: 6648
-    engagement: 523
-    commentsToLikes: 0.029335
-    id: ck0w20eaam11p0i194kj69ye9
+    followers: 17833
+    engagement: 204
+    commentsToLikes: 0.010597
+    id: ck5hlun8vkw550i11m1sib014
     verified: false
-    hashtags: "#facepaint, #sfxmakeup, #mylancomeexperience, #clarifiquemy"
-  - username: "lilybrahim"
+    hashtags: "#photographer, #malaysiaplussize, #outofbox, #ongmari"
+  - username: "anusreemua"
     fullname: >-
-      @somethinkcycleworks
+      ANUSREE PAL
     bio: >-
-      🇲🇾 Content Creator/ Youtuber 💄 Full time Makeup Artist @jiwakopidanbingsu ❤️ @bajulilylawa
+      👩‍💻 PERSONAL BLOG I love makeup 🥰🥰🥰 just like you 💗 Other acc👉 @anusreepal1 🐼 PR / business etc. ➡️ dm or email
     location: "Malaysia"
-    followers: 110672
-    engagement: 285
-    commentsToLikes: 0.027808
-    id: ck14l1a8gsd6j0i19vu5f4qeh
+    followers: 79059
+    engagement: 39
+    commentsToLikes: 0.057612
+    id: ck0u7vsx15tqr0i19dn2sydqe
     verified: false
-    hashtags: "#coveid, #raya2020, #rayapkp, #coveid2020"
-  - username: "artistrybyfarah"
+    hashtags: "#hairstylesforgirls, #nikkietutorials, #pixibeauty, #foundationhacks"
+  - username: "yuszulkifli"
     fullname: >-
-      𝑭𝒂𝒓𝒂𝒉 𝑵𝒂𝒔𝒊𝒓
+      Yus Zulkifli 🇲🇾
     bio: >-
-      Makeup & Fashion enthusiast Self taught MUA|Interior designer🎓 Hyderabad 🇵🇰 For Review/PR/Collaboration DM/Email
+      Content Creator • Makeup Artist • Photographer/Videographer/Editor • Paid Review • contact/bookings: ⤵️
     location: "Malaysia"
-    followers: 13347
-    engagement: 371
-    commentsToLikes: 0.772564
-    id: ckaotqsfbx2xl0i781jlhkxzp
+    followers: 21896
+    engagement: 558
+    commentsToLikes: 0.086172
+    id: ck13a30pzodsi0i19ip6oqeom
     verified: false
-    hashtags: "#beautifybyamna, #glamgirlzbymahwish, #makeupideas, #jamescharlespalette"
-  - username: "flackitsman"
+    hashtags: "#profiltrpowderfoundation, #kendallxkylie, #sophiathefirst, #melastikkehatimu"
+  - username: "fie.ramat"
     fullname: >-
-      Aiman Shahiran
+      ᗰᗩKEᑌᑭ ᗷY ᖴIE ᖇᗩᗰᗩT
     bio: >-
-      ⤹ NEW VIDEO ALERT 🚨 subscribe now! I love the confidence that makeup gives me!
+      🇲🇾 Makeup Artist #makeupbyfieramat #tiktokfie 💁🏻‍♀️ @fie.ramat.beauty (beauty sharing) 👇🏻👇🏻Review / Makeup Booking (NO DM)
     location: "Malaysia"
-    followers: 89840
-    engagement: 331
-    commentsToLikes: 0.007531
-    id: ck5chx30jrmcx0i11a1ho2zww
+    followers: 38590
+    engagement: 150
+    commentsToLikes: 0.035426
+    id: ck5zkb0hgj59w0i14poxv502x
     verified: false
-    hashtags: "#sephoramy, #gonudebutbetter, #rinduteruk, #rayapkp"
+    hashtags: "#makeupartist, #relaxingmakeupmelter, #fieramat, #makeupartistmalaysia"
 ---

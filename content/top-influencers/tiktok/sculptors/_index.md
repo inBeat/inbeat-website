@@ -1,11 +1,11 @@
 ---
-title: Top 10 Sculptors TikTok Influencers in 2023
+title: Top 10 Sculptors TikTok Influencers In 2023
 description: >-
-  Find top sculptors TikTok influencers in 2023. Most popular hashtags: #sculpture #art #sculpting #painting.
+  Find top sculptors TikTok influencers in 2023. Most popular hashtags: #sculpture #art #polymerclay #artist.
 platform: TikTok
-hits: 245
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 245 TikTok influencers like this for you to contact.
+hits: 251
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 251 TikTok influencers like this for you to contact.
 profiles:
   - username: "onni_crafts"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Self-taught sculptor from Finland 🇫🇮
     location: "Finland"
-    followers: 67600
-    engagement: 1887
-    commentsToLikes: 0.026134
+    followers: 71300
+    engagement: 1863
+    commentsToLikes: 0.030157
     id: ckd09miwabmkm0j23brem595o
     verified: false
-    hashtags: "#alruuna, #mandrake, #sculpting, #herbologyclass"
+    hashtags: "#createx, #supersculpey, #sculpting, #artok"
   - username: "ravncotino"
     fullname: >-
       ravncotino
     bio: >-
       I'm a sculptor who designs unique silicone moulds for crafters! He/Him.
     location: "United Kingdom"
-    followers: 236900
-    engagement: 2496
-    commentsToLikes: 0.009328
+    followers: 244000
+    engagement: 2430
+    commentsToLikes: 0.009556
     id: ck81s2auiphhk0j78aeqsb23s
     verified: false
-    hashtags: "#resin, #ouija, #moldmaking, #siliconemold"
+    hashtags: "#moldmaking, #siliconemold, #resincasting, #ravncotino"
+  - username: "artistcolette"
+    fullname: >-
+      Colette Bernard
+    bio: >-
+      🖼 Art history tea, stories and info ☕️ 🎨Sculptor/illustrator 👇🏼Art shop link
+    location: "United States"
+    followers: 151100
+    engagement: 2257
+    commentsToLikes: 0.022608
+    id: ckb98arikrhv70j23v8ldpdrb
+    verified: false
+    hashtags: "#pepsihalftimechallenge, #sculpture, #doritosflatlife, #stitch"
+  - username: "barbiethewelder"
+    fullname: >-
+      barbiethewelder
+    bio: >-
+      Sculptor 👇🏻Gallery/Commission👇🏻 BarbieTheWelder.com 👇🏻AVAILABLE ART👇🏻
+    location: "United States"
+    followers: 102300
+    engagement: 752
+    commentsToLikes: 0.059702
+    id: ck9env4tml1bh0j78dn8w25u5
+    verified: false
+    hashtags: "#sculptureart, #weldedart, #welds, #weldergirl"
   - username: "mystic_earth"
     fullname: >-
       Annabell Larsh
     bio: >-
       sculptor + painter • 22 • AR, USA 🖌🏳️‍🌈 new release Nov. 9th 8pm CST
     location: "United States"
-    followers: 10200
-    engagement: 2441
-    commentsToLikes: 0.013867
+    followers: 10100
+    engagement: 2352
+    commentsToLikes: 0.015814
     id: ck83z7113y9zr0j782pw7598u
     verified: false
-    hashtags: "#cottagecore, #greenscreenvideo, #artist, #woodland"
+    hashtags: "#woodland, #greenscreenvideo, #artist, #sculpture"
   - username: "heretherebesculptures"
     fullname: >-
       HTBSculptures
     bio: >-
       Artist, Sculptor, Toy Photographer, & Pets Follow my insta for shop updates!
     location: "United States"
-    followers: 55500
-    engagement: 1353
-    commentsToLikes: 0.029561
+    followers: 55900
+    engagement: 1202
+    commentsToLikes: 0.032294
     id: ckd0fd66udonm0j23hr1yg82u
     verified: false
-    hashtags: "#monstro, #polymerclay, #sculpture, #rescue"
-  - username: "cupp_creations"
-    fullname: >-
-      Patrick Cupp
-    bio: >-
-      Sculptor, molder, caster type person trying to keep myself entertained
-    location: "United States"
-    followers: 130500
-    engagement: 1335
-    commentsToLikes: 0.034904
-    id: ckcv2eyj7o3t60j23likohw2e
-    verified: false
-    hashtags: "#sculpture, #mothman, #cryptid, #brony"
+    hashtags: "#sculpture, #dragon, #goldfish, #miniature"
   - username: "caroline.brodberick"
     fullname: >-
       Caroline Brodberick
     bio: >-
-      🌈 sculptor / illustrator/ photo & video maker ⚡️YouTube: Caroline Brodberick
+      sculptor / illustrator/ photo & video maker 📩 hello@brodberick.com
     location: "Ukraine"
-    followers: 66500
-    engagement: 2312
-    commentsToLikes: 0.005008
+    followers: 79800
+    engagement: 2301
+    commentsToLikes: 0.004790
     id: ckbqrrpfacovi0j23np3nj5rl
     verified: false
-    hashtags: "#diy, #customteeshirt, #foryou, #fyp"
-  - username: "frank.wilder"
-    fullname: >-
-      FRANK WILDER
-    bio: >-
-      CEO OF THE HEIST 💰 Sculptor of the Future 🛸
-    location: "United States"
-    followers: 83700
-    engagement: 1139
-    commentsToLikes: 0.028555
-    id: ck920yt55ga5f0j78szoecqz9
-    verified: false
-    hashtags: "#frankwilder, #scavengerhunt, #franksy, #streetart"
-  - username: "madprincedesigns"
-    fullname: >-
-      Malcolm Hofmann
-    bio: >-
-      •Malcolm Hofmann• I’m a sculptor who makes Creatures, Cosplays & Masks
-    location: "United States"
-    followers: 601200
-    engagement: 1735
-    commentsToLikes: 0.009549
-    id: ckb9pnhldkpt90j23pyt9op67
-    verified: false
-    hashtags: "#avatar, #art, #halloween, #painting"
+    hashtags: "#fyp, #foryou, #customteeshirt, #diy"
   - username: "lucasdookus8"
     fullname: >-
-      Luke Mays
+      lucasdookus
     bio: >-
       snap:lucas-dookus12 I'm a sculptor I love everyone (panman)🌈 24 thank u for 11k
     location: "United States"
-    followers: 11000
-    engagement: 1182
-    commentsToLikes: 0.042286
+    followers: 11100
+    engagement: 1235
+    commentsToLikes: 0.050647
     id: ck9c744n3rlro0j78f2pvhh6f
     verified: false
-    hashtags: "#sharkweek, #foryoupage, #tiktok, #love"
+    hashtags: "#love, #foryoupage, #sharkweek, #fyp"
   - username: "michael_zajkov"
     fullname: >-
       Michael_Zajkov
     bio: >-
       Mikhail Zajkov sculptor, dollmaker
     location: "Russia"
-    followers: 232200
-    engagement: 1108
-    commentsToLikes: 0.009240
+    followers: 351600
+    engagement: 902
+    commentsToLikes: 0.015421
     id: cka0odshw3buu0i78oyqitqlm
     verified: true
-    hashtags: "#michaelzajkov, #handmade, #art, #workinprogress"
+    hashtags: "#michaelzajkov, #doll, #sculpture, #resindoll"
+  - username: "v.sculptor"
+    fullname: >-
+      Victor Mikhailov
+    bio: >-
+      🗿Sculptor🗿 Artist UK 🇬🇧 Russia 🇷🇺 ⬇️price ⬇️
+    location: "Russia"
+    followers: 16200
+    engagement: 641
+    commentsToLikes: 0.026505
+    id: cka0kfqlumh4m0i78vor04q3h
+    verified: false
+    hashtags: "#animalart, #art, #artwork, #victorsculptor"
 ---

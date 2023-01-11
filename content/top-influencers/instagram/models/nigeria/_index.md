@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Nigeria in 2023
+title: Top 10 Models Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top models Instagram influencers in Nigeria in 2023. Most popular hashtags: #explorepage #explore #exploremore.
+  Find top models Instagram influencers in Nigeria in 2023. Most popular hashtags: #fashion #explore #black.
 platform: Instagram
-hits: 131
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 131 Instagram influencers like this in Nigeria for you to pitch.
+hits: 64
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 64 Instagram influencers like this in Nigeria for you to work with.
 profiles:
-  - username: "assumptanwaz"
+  - username: "maliyaofficial"
     fullname: >-
-      Assumpta
+      Maliya Michael
     bio: >-
-      🇫🇷 🇳🇬 Finance 👩🏻‍🏫 Face model @steph__claire God’s little favorite
+      Model | Influencer Bookings: Maliyamgt@gmail.com
     location: "Nigeria"
-    followers: 2307
-    engagement: 2287
-    commentsToLikes: 0.190475
-    id: ck5zzdvmhbjx00i1449xva9b0
+    followers: 340279
+    engagement: 565
+    commentsToLikes: 0.024631
+    id: ck135nhdj2aeb0i19u8z1kr7u
     verified: false
-    hashtags: "#ireade19"
-  - username: "the_life.of.seyi"
+    hashtags: "#funnyfails, #airbnblagos, #dubaitour, #lagosbabes"
+  - username: "hameedah_xx"
     fullname: >-
-      OLUWASEYIFUNMI 🥵
+      Hammed Hamidat Oyindamola
     bio: >-
-      Bsc Acct🎓 model Heliophilic to the core! 🌞
+      MODEL beauty & brand influencer Content creator/promotion manager Dm for bookings
     location: "Nigeria"
-    followers: 5758
-    engagement: 2025
-    commentsToLikes: 0.150600
-    id: ck0tvv3i5cx460i19p9p70qo6
+    followers: 11437
+    engagement: 1361
+    commentsToLikes: 0.050829
+    id: ck5q769s9057p0i116byq3ebi
     verified: false
-    hashtags: "#exploremore, #nigerian, #lagos, #madeinnigeria"
-  - username: "darkskin_tosin"
+    hashtags: "#selflove, #happyvalentinesday"
+  - username: "ronke_pekun"
     fullname: >-
-      TOSIN IYANUOLUWA OLAJIRE
+      Ronk$$$ Pek$
     bio: >-
-      🌻 🌻🌻 @selectmodellondon @musemodelsnyc @premium_models @fabbrica.milano @fifthmodels @bossmodelsa I am a living Miracle of God’s Grace Be a warrior
+      Influencing/collaboration/model/brand promotion. @beanierio
     location: "Nigeria"
-    followers: 7658
-    engagement: 1998
-    commentsToLikes: 0.087280
-    id: ck0vyk4so4ehm0i19fptvpbjt
+    followers: 28428
+    engagement: 739
+    commentsToLikes: 0.039541
+    id: ckap0kwymqr8k0i787wf0lwkg
     verified: false
-    hashtags: "#explorepage, #blackgirlmagic, #exploremore, #explore"
-  - username: "rebeccafabunmi_"
-    fullname: >-
-      Dark Horse
-    bio: >-
-      Few Models 🇳🇬 @fewmodels Bookings - Dolapo.yusuf@fewmodels.com
-    location: "Nigeria"
-    followers: 13073
-    engagement: 2059
-    commentsToLikes: 0.038315
-    id: ck5bv9e2sj82h0i110ndg95f1
-    verified: false
-    hashtags: ""
-  - username: "official_thuggergirl"
-    fullname: >-
-      Beautiful_thuggergirl🔺
-    bio: >-
-      •Model •Stylist/Designer Business page : @boe_luxury @apparels_designs 🛍💰 Brand ambassador: @skin_byshay
-    location: "Nigeria"
-    followers: 5534
-    engagement: 1388
-    commentsToLikes: 0.079798
-    id: ck8swwn2kfhx40j78gjg66b20
-    verified: false
-    hashtags: "#explorepage, #staysafe, #explore"
-  - username: "lateefwahbson"
-    fullname: >-
-      Wahab Lateef
-    bio: >-
-      🇳🇬⚽️ ▪ Winger/Striker ▪ Model ▪ Brand | Fitness | Lifestyle | Fashion ▪ COLLABS | PROMOTIONS (DM/EMAIL) Watch my highlight video⚽👇
-    location: "Nigeria"
-    followers: 9541
-    engagement: 823
-    commentsToLikes: 0.119459
-    id: ck0tze8pyq0zm0i19kaytuda3
-    verified: false
-    hashtags: "#cleatworld, #mercurical, #vamesuhype, #cleatnation"
+    hashtags: "#explorepage, #explore"
   - username: "thefrenchman__"
     fullname: >-
       DAVOU PWAJOK
     bio: >-
-      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08089667871
+      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08143894285
     location: "Nigeria"
-    followers: 10444
-    engagement: 1145
-    commentsToLikes: 0.095972
+    followers: 11468
+    engagement: 1438
+    commentsToLikes: 0.114227
     id: ck13avsjmsfpc0i19s7pwt5bs
     verified: false
-    hashtags: "#fashion, #influencer, #explorepage, #davoupwajok"
-  - username: "africanglow"
+    hashtags: "#thefrenchman, #model, #fashion, #fitnessmodel"
+  - username: "rebeccafabunmi_"
     fullname: >-
-      Gloria🦋
+      Dark Horse
     bio: >-
-      Angel on Earth Nigerian• Model• Creative ART #ENDSARS
+      Few Models 🇳🇬 @fewmodels Bookings - Info@fewmodels.com
     location: "Nigeria"
-    followers: 21156
-    engagement: 758
-    commentsToLikes: 0.083835
-    id: ck9wfe2dgogfv0j78o8lawpq6
+    followers: 13821
+    engagement: 1421
+    commentsToLikes: 0.031724
+    id: ck5bv9e2sj82h0i110ndg95f1
     verified: false
-    hashtags: "#endsars, #lekkimassacre, #sarsmustend, #buharihasbeenabadboy"
+    hashtags: ""
+  - username: "precious.mumy"
+    fullname: >-
+      Ani Ogochukwu Maureen
+    bio: >-
+      👩‍🦰Enterpreneur | Model No Facebook❌❌❌ No Twitter❌❌❌ ✌🏽Black & Slim thick 📩preciousmumy81@gmail.com
+    location: "Nigeria"
+    followers: 414228
+    engagement: 409
+    commentsToLikes: 0.016604
+    id: ck0vw03lcri9p0i19m7rr73g4
+    verified: false
+    hashtags: "#ex, #sarsmustend, #endpolicebrutality"
+  - username: "khrayyy"
+    fullname: >-
+      Khersie☁️
+    bio: >-
+      •Model •Brand Ambassador •Brand Influencer •Forex trader📈 Twitter :khrayyy 📍Italy🇮🇹/Nigeria🇳🇬
+    location: "Nigeria"
+    followers: 25419
+    engagement: 847
+    commentsToLikes: 0.034597
+    id: ckf5m4z53s9mo0j23u8hj3w1p
+    verified: false
+    hashtags: "#naturalbody, #healthyfoodie, #waisttrainers, #exerciseathome"
   - username: "ay.grace"
     fullname: >-
       Ayodele Arowojobe 🦄
     bio: >-
-      Singer|Songwriter Model|Designer CEO @graceempireofficial
+      Singer|Songwriter Model|Designer CEO @graceempireofficial @gracerepublic_
     location: "Nigeria"
-    followers: 18755
-    engagement: 337
-    commentsToLikes: 0.187997
+    followers: 18828
+    engagement: 444
+    commentsToLikes: 0.149409
     id: ck55nh2a5678r0i115u93szke
     verified: false
-    hashtags: "#climaxchallenge, #shirts, #black, #endsars"
-  - username: "kiera_coulibaly"
+    hashtags: "#madeinnigeria, #black, #endsars, #endpolicebrutality"
+  - username: "dammy_adesh"
     fullname: >-
-      kiyara
+      Dammy Adesh
     bio: >-
-      Model I paint🎨 @kiera_arts ℐ𝓉 𝓀𝑒𝑒𝓅𝓈 𝑔𝑒𝓉𝓉𝒾𝓃𝑔 𝒷𝑒𝓉𝓉𝑒𝓇.. DM for bookings
+      Nigerian 🇳🇬 Ex Beauty Queen👸🏽 Model 💄 Activist 💪🏾 Interview with Vanguard 👇 Snapchat:Dharmiz Business page : @thedammy_adesh
     location: "Nigeria"
-    followers: 4689
-    engagement: 2180
-    commentsToLikes: 0.090220
-    id: ckap2we2g0ly60i78p7lpcrve
+    followers: 15944
+    engagement: 376
+    commentsToLikes: 0.059257
+    id: ck8swldxdehbj0j78v827guy6
     verified: false
-    hashtags: "#bellanaijaweddings, #bellaweddingnaija, #explorepage, #bellaweddings"
+    hashtags: ""
+  - username: "leemarh_"
+    fullname: >-
+      Bamidele Halima
+    bio: >-
+      🔶Muslimah 🔸Proud Chemist 🔸Pro Makeup Artist 🎨 @ara__grande 🔸Fashion Designer💃🏼💃🏼💃🏼 🔸Face Model 😎😎
+    location: "Nigeria"
+    followers: 13263
+    engagement: 1111
+    commentsToLikes: 0.051417
+    id: ck15qtox14lcu0i1957ru7sx4
+    verified: false
+    hashtags: "#makeupbrushchallenge, #thebsaffairs21, #dontrushchallenge"
 ---

@@ -1,60 +1,24 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Morocco in 2023
+title: Top 10 Skincare Instagram Influencers In Morocco In 2023
 description: >-
-  Find top skincare Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #skincare #fashion #casablanca.
+  Find top skincare Instagram influencers in Morocco in 2023. Most popular hashtags: #fashion #skincare #maroc #love.
 platform: Instagram
-hits: 29
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database has 29 Instagram influencers like this in Morocco for you to contact.
+hits: 18
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 18 Instagram influencers like this in Morocco for you to work with.
 profiles:
-  - username: "proud_oof_beauty"
+  - username: "mahaalmarush"
     fullname: >-
-      MAHA       مهـــى 🎀
+      Maha Al Marush مها المروش
     bio: >-
-      🎓ingénieur en informatique 👗Model |SkinCare |Makeup |LifeStyle 📥Collab: Insta Direct 📩contact.proudoofbeauty@gmail.com
+      Perfume and Oud Expert👌🏻 Skin Love Coach 🧖🏻‍♀️💕 Digital Eng & Marketing -Paris Public Diplomacy & Comm -UN contact@mahaalmarush.com Boutiqaat:
     location: "Morocco"
-    followers: 72494
-    engagement: 253
-    commentsToLikes: 0.034120
-    id: ck14gu7p171w70i19azzy15n9
+    followers: 259081
+    engagement: 34
+    commentsToLikes: 0.044736
+    id: ck14gv6dt76up0i19xd1vjymw
     verified: false
-    hashtags: "#jellaba, #happy, #morocco, #likeforfollow"
-  - username: "salwaanlouff"
-    fullname: >-
-      SALWA ANLOUF ✨ سلوى أنلوف
-    bio: >-
-      • Lifestyle, fashion and lots of Fun. • Finalist on X factor Arabia 2013. • Business inquiries📩Anloufcontact@gmail.com • Good vibes only✨💃 #bepositive
-    location: "Morocco"
-    followers: 616701
-    engagement: 790
-    commentsToLikes: 0.009443
-    id: ck139ax93keda0i1975y3574a
-    verified: false
-    hashtags: "#skincare, #lessence, #haircare, #boost"
-  - username: "mouradsedki"
-    fullname: >-
-      MOURAD SEDKI 🌺  مراد صدقي
-    bio: >-
-      Ceo : @mscosmetica Mister Arab maghreb Born 31 dec 🇲🇦 🇨🇵 naturalist🏔 animal lover🐕 📸Model👊MMA fighter 🎬Cannes🏄Casablanca🌞Marrakech
-    location: "Morocco"
-    followers: 38619
-    engagement: 142
-    commentsToLikes: 0.016742
-    id: ck5cibrv2sd330i11lj1jqdjs
-    verified: false
-    hashtags: "#maroc, #stayathome, #covid19, #coronavirus"
-  - username: "ingyelengbawy"
-    fullname: >-
-      IngyElengbawy انچي الانجباوى
-    bio: >-
-      Fashion blogger , certified celebrity stylist , personal stylist and shopper, Fashion Blogger Lifestyle TV Presenter TV Show ساعة موضة
-    location: "Morocco"
-    followers: 456169
-    engagement: 325
-    commentsToLikes: 0.017777
-    id: ck5c4e07r15id0i11orq74i78
-    verified: false
-    hashtags: "#styleblogger, #fashionista, #love, #outfitinspiration"
+    hashtags: "#beautycare, #organicbeauty, #skincare, #greenskincare"
   - username: "iman.elgouch"
     fullname: >-
       imane EL GOUCH
@@ -66,65 +30,101 @@ profiles:
     commentsToLikes: 0.065148
     id: ck5ccflqjh9ju0i11wp34afh1
     verified: false
-    hashtags: "#makeupartist, #secret, #dreamer, #art"
-  - username: "filledelalune1"
+    hashtags: "#girl, #history, #followme, #makeup"
+  - username: "manalbenchlikha"
     fullname: >-
-      𝑭𝒂𝒕𝒊𝒎𝒂 𝒆𝒛𝒛𝒂𝒉𝒓𝒂 𝒈𝒉𝒂𝒛𝒂𝒐𝒖𝒊🌚
+      M a n a l   منال ✨🌙⚡️
     bio: >-
-      #𝘹𝘦𝘳𝘰𝘥𝘦𝘳𝘮𝘢𝘱𝘪𝘨𝘮𝘦𝘯𝘵𝘰𝘴𝘶𝘮 28 🎂𝘞𝘪𝘵𝘩 𝘳𝘢𝘳𝘦 𝘨𝘦𝘯𝘦𝘵𝘪𝘤 𝘥𝘪𝘴𝘦𝘢𝘴𝘦|𝘔𝘰𝘵𝘪𝘷𝘢𝘵𝘪𝘰𝘯𝘢𝘭 𝘴𝘱𝘦𝘢𝘬𝘦𝘳 🎤🌚| 📩 𝘍𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘪𝘯𝘲𝘶𝘪𝘳𝘪𝘦𝘴 : 𝘧𝘪𝘭𝘭𝘦𝘥𝘦𝘭𝘢𝘭𝘶𝘯𝘦11@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 📍𝘔𝘰𝘩𝘢𝘮𝘮𝘦𝘥𝘪𝘢,𝘔𝘰𝘳𝘰𝘤𝘤𝘰
+      Loading 🔮
     location: "Morocco"
-    followers: 36589
-    engagement: 411
-    commentsToLikes: 0.040481
-    id: ck9wfpk5ppxnz0j78zru68j25
-    verified: false
-    hashtags: "#beach, #loveyourself, #enjoy, #summertime"
-  - username: "happylittlefrenchie"
+    followers: 3769014
+    engagement: 312
+    commentsToLikes: 0.007020
+    id: ck135o29o2dd70i19b2gxojmb
+    verified: true
+    hashtags: "#skinconfidence, #manalforetam, #foreo, #luna3"
+  - username: "ezzaidi.faty"
     fullname: >-
-      Ouiame 💫
+      🦋Fatima Zahra Ezzaidi 🦋
     bio: >-
-      Fashion • Beauty • Kids Happy Mom of Mia & Léna 📍Paris 🇫🇷 💌 happylittlefrenchie@gmail.com
+      🍂 FZE🍂 🍂Follow your heart ❤️but take your brain 🧠with you 📍Casablanca,maroc 🇲🇦 🇲🇦 📧 fatimazahraezzaidi5@gmail.com
     location: "Morocco"
-    followers: 10401
-    engagement: 467
-    commentsToLikes: 0.101167
-    id: ck5hmgq2ylx710i111jf5gxxd
+    followers: 58946
+    engagement: 648
+    commentsToLikes: 0.019090
+    id: ck5hmoeqpmbu60i117jjgz519
     verified: false
-    hashtags: "#lvbag, #womenwithstyle, #lookdujour, #sofitelmarrakech"
+    hashtags: "#hijabmurah, #hijaber, #likeforlikes, #ootd"
+  - username: "basmaelbachyry"
+    fullname: >-
+      Basma El Bachyry
+    bio: >-
+      Soul of an artist🖤 Moroccan MODEL 🇲🇦 Branding l Content creator l Storyteller
+    location: "Morocco"
+    followers: 7022
+    engagement: 647
+    commentsToLikes: 0.091586
+    id: ck14hgx96a9w10i197ogczvn0
+    verified: false
+    hashtags: "#morocco, #marrakech, #maroc, #naturelmakeup"
+  - username: "meryemzaoumi"
+    fullname: >-
+      
+    bio: >-
+      
+    location: "Morocco"
+    followers: 119264
+    engagement: 130
+    commentsToLikes: 0.036088
+    id: ckap5kejbc2ra0i78klkd2vpk
+    verified: false
+    hashtags: "#maroc, #hijab, #morocco, #tanger"
   - username: "safae.ntifi.benchrif"
     fullname: >-
       🎀 Safae / صفاء 🎀
     bio: >-
       إهتمِي بنفسِك وكُوني أقوى مما يظنونْ، فكيُدك عظيّم 👸 ❤ Influencer ❤ Blogueur ❤ beauty ❤lifestyle
     location: "Morocco"
-    followers: 261767
-    engagement: 59
-    commentsToLikes: 0.061557
+    followers: 257391
+    engagement: 64
+    commentsToLikes: 0.032900
     id: ck134hn56wgqz0i19hkp8umfn
     verified: false
-    hashtags: "#djelaba, #safae, #beldistyle, #casablanca"
-  - username: "oumaymataleb_"
+    hashtags: "#outfitoftheday, #fashionaddict, #fashionmodel, #blogger"
+  - username: "feda_mak"
     fullname: >-
-      Oumayma Taleb
+      FEDA MAHMOUD  |  فداء محمود
     bio: >-
-      https://youtu.be/4ha1EIK-7jw 🇲🇦 Influencer Co-owner @luxshopbysisters 📩oumaymataleb.contact@gmail.com 📍Casablanca 💍 Taken ♑️15.01
+      Interior Architect 📐 Beauty-Fashion-lifestyle 📍living in Jerusalem -القدس Jordanian 🇯🇴 🇵🇸married💍 Snapchat: Feda_mak Working at @JACCO_autism
     location: "Morocco"
-    followers: 339720
-    engagement: 43
-    commentsToLikes: 0.055314
-    id: ckf5m7vttso300j23secac64q
+    followers: 84024
+    engagement: 198
+    commentsToLikes: 0.195604
+    id: ck13655vr4sss0i19cn2wpfmj
     verified: false
-    hashtags: "#ootdfashion, #sheincurve, #lunamini2, #smartphone"
-  - username: "afaf.boucetta"
+    hashtags: "#qatar, #explore, #instagood, #ootd"
+  - username: "nounoua_selma"
     fullname: >-
-      𝗔𝗙𝗔𝗙 𝗕𝗢𝗨𝗖𝗘𝗧𝗧𝗔
+      Fashion designer 🇩🇿
     bio: >-
-      HR Student 👩‍💻 📩 Afafboucettaa@gmail.com 📍 Oujda Chaine youtube 👇
+      Propriétaire de : @nns_dz 🔸 Modeliste ✂️ Styliste. 🔸 Dermo-conseillère. 🔸 Fashionista. 🔸 Animatrice. 🔸 Self development.
     location: "Morocco"
-    followers: 71660
-    engagement: 411
-    commentsToLikes: 0.031378
-    id: ck9hb02z3esy50j785wq6ngnk
+    followers: 26990
+    engagement: 456
+    commentsToLikes: 0.048854
+    id: ck6ufvz8pzgb20j71ansox9z3
     verified: false
-    hashtags: "#plage, #maroc, #love, #taza"
+    hashtags: "#nns, #bienetre, #revue, #hijabinspiration"
+  - username: "zineb.snihji"
+    fullname: >-
+      Zineb.Snihji
+    bio: >-
+      📍Fes,Morocco 🇲🇦 Makeup addict💄✨ ♥️🇲🇦✨🌸 My YouTube channel 👇🏼
+    location: "Morocco"
+    followers: 79440
+    engagement: 574
+    commentsToLikes: 0.015347
+    id: ckaowbrlt883e0i78zll6amqi
+    verified: false
+    hashtags: "#likeforlikes, #moroccan, #happy, #loveislove"
 ---

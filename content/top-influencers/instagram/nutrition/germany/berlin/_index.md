@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Berlin in 2023
+title: Top 10 Nutrition Instagram Influencers In Berlin In 2023
 description: >-
-  Find top nutrition Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #fitness #workout #smile.
+  Find top nutrition Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #fitness #motivation #bodybuilding.
 platform: Instagram
-hits: 51
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 51 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 26
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 26 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
+  - username: "yul_oeltze"
+    fullname: >-
+      ⓎⓊⓁ ⓄⒺⓁⓉⓏⒺ
+    bio: >-
+      2x European Champion 🥇🥇 2x World Champion 🥇🥇 @foodspring -15% —> yulFSG @gymshark link below ♥️Magdeburg💚
+    location: "Germany"
+    followers: 32776
+    engagement: 738
+    commentsToLikes: 0.007734
+    id: ck5chndxar3o80i113smsylgm
+    verified: false
+    hashtags: "#sport, #couplegoals, #training, #foodspring"
   - username: "rickhett"
     fullname: >-
       Ricco Ratajczyk
     bio: >-
       Hockey 🏒 | #13 Fitness Coach 🏋🏼‍♂️ Nutrition Science 🎓 Berlin 📍
     location: "Germany"
-    followers: 2077
-    engagement: 1474
-    commentsToLikes: 0.041063
+    followers: 1985
+    engagement: 1533
+    commentsToLikes: 0.040920
     id: ck8t70zdrfa830j782tev5jib
     verified: false
-    hashtags: "#functionaltraining, #fitness, #bodybuilding, #movesmart"
-  - username: "nathalie.vegan"
+    hashtags: "#movesmart, #hockey, #health, #strengthtraining"
+  - username: "janadeters_"
     fullname: >-
-      Vegan Nutrition🌻 |📍Berlin
+      Jana | On Run Crew
     bio: >-
-      🥦 Plant-Based Diet = Disease Killer ✨All the Know-How for a simple, delicious #vegan diet 🧘🏼‍♀Let me inspire YOU to nourish your body with plants
+      Running Motivation | 🏃‍♀️| 🚴🏼‍♂️ 📍 Stuttgart | VEC 🇩🇪 📬 info@janadeters.com
     location: "Germany"
-    followers: 10203
-    engagement: 545
-    commentsToLikes: 0.104971
-    id: ck9h9t2e49upu0j78wjfmefq4
+    followers: 14638
+    engagement: 1640
+    commentsToLikes: 0.025902
+    id: ck8t68nwaco3z0j78jjyozrri
     verified: false
-    hashtags: ""
-  - username: "malena.elisa"
+    hashtags: "#marathon, #sports, #runninginspo, #worlderunners"
+  - username: "alena_halv"
     fullname: >-
-      Malena Elisá
+      𝐀𝐥𝐞𝐧𝐚 𝐇.
     bio: >-
-      ✨ 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐓𝐫𝐚𝐢𝐧𝐞𝐫 ✨ 𝐋𝐞𝐭’𝐬 𝐛𝐫𝐢𝐧𝐠 𝐥𝐢𝐠𝐡𝐭 𝐢𝐧𝐭𝐨 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞 ✨ 𝐂𝐡𝐚𝐧𝐠𝐞𝐬 𝐨𝐧𝐥𝐲 𝐛𝐞𝐠𝐢𝐧𝐬 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐦𝐢𝐧𝐝
+      Das Leben ist zu kurz, um nicht zu lächeln! ツ Soldat & Physiotherapeutin CrossFit @better_training Militaryfitness privat Account
     location: "Germany"
-    followers: 4851
-    engagement: 1292
-    commentsToLikes: 0.237315
-    id: ckaowf5wd8o360i789pmsf9ci
+    followers: 24658
+    engagement: 937
+    commentsToLikes: 0.021496
+    id: ckap8bgjunnue0i78v32icaxg
     verified: false
-    hashtags: "#wochenende, #germany, #dienstag, #comfyoutfit"
-  - username: "siobhan_mueller"
+    hashtags: "#fitfamgermany, #protein, #bremen, #berlin"
+  - username: "the.miraclebear"
     fullname: >-
-      Siobhán
+      Urs Kalecinski | 🌐 IFBB PRO
     bio: >-
-      📍Berlin // John Reed Fitness ❤️// ♎️ Try to be the best version of yourself ❤️
+      𝗿𝗲𝗮𝗰𝗵 𝗺𝗮𝘅𝗶𝗺𝘂𝗺 𝗮𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰 🇩🇪 🇵🇱 ⭕️lympian @np_nutrition urs10 ONLINE SHOP & COACHING 🔽🔽🔽
     location: "Germany"
-    followers: 2929
-    engagement: 2011
-    commentsToLikes: 0.059473
-    id: ck8t1xuy2xh950j78blou1tks
+    followers: 37205
+    engagement: 955
+    commentsToLikes: 0.030442
+    id: ck5hn9f8snfkj0i11gaf0vwg5
     verified: false
-    hashtags: "#fitgirl, #fitgirls, #lifestyle, #fitfam"
+    hashtags: "#ifbbpro, #dreamchaser, #gekienzlt, #newgeneration"
   - username: "jessi.a"
     fullname: >-
       Jessica Bloß
     bio: >-
       Freelance model B.Sc. nutrition & food supply mgmt @jessi.a.food 🥑🌿 healthy lifestyle 🇩🇪 near #nuremberg
     location: "Germany"
-    followers: 39676
-    engagement: 371
-    commentsToLikes: 0.044207
+    followers: 39629
+    engagement: 365
+    commentsToLikes: 0.040757
     id: ck6tw3l7eptix0j717savuzrj
     verified: false
-    hashtags: "#nu, #erlangen, #dermalanchor, #berlin"
-  - username: "janine_berger96"
+    hashtags: "#ludwigsburg, #erlangen, #homeshooting, #hamburg"
+  - username: "holababz"
     fullname: >-
-      Olympic gymnast 🇩🇪
+      H O L A B A B Z
     bio: >-
-      Olympic Gymnast 4 th place🏅 📍 Ulm 🥉 1st Bundesliga 🍍 Healthy eating/nutrition 🤸‍♂️ Gymnastics tips 🏋️‍♂️ Fitness tutorials More information ⤵️
+      📍 Berlin | 28 💫 she who dares, wins. #puravida 🌴 💕 @bumbum @rockanutrition 🔍werbung/ Impressum 🛒 ⤵️
     location: "Germany"
-    followers: 42892
-    engagement: 342
-    commentsToLikes: 0.043666
-    id: ck8szih9aokmn0j781umj8jjk
-    verified: true
-    hashtags: "#wochenende, #friday, #ulm, #sixpack"
-  - username: "franziflott"
-    fullname: >-
-      Franziska Jürgensen
-    bio: >-
-      Bikini Champ Nc. 🇩🇪🏆🥇 Bikini Champ Berlin 🏆 🥈 Bikini Champ Juniors 🏆🥉 ▪️Bodybuilding 📍Hamburg 🇲🇽 México
-    location: "Germany"
-    followers: 2657
-    engagement: 1596
-    commentsToLikes: 0.052247
-    id: ck5bz8fwpqnaz0i1191l9l8do
+    followers: 65022
+    engagement: 142
+    commentsToLikes: 0.052957
+    id: ck0vuytvxmro20i19asdlftnq
     verified: false
-    hashtags: "#travelling, #goodvibes, #bikinifitness, #workhard"
-  - username: "vanessa.leoness"
+    hashtags: "#snow, #berlin, #carmushka, #mehrlieben"
+  - username: "ann_fitness_love"
     fullname: >-
-      Vanessa Lu 🦁☀️
+      𝒜𝒩𝒯𝒥𝐸
     bio: >-
-      it's V 🌱 Plantbased vegan 🌱 Fashion | Nutrition | Fitness
+      𝔖𝔱𝔯𝔬𝔫𝔤 𝔦𝔰 𝔟𝔢𝔞𝔲𝔱𝔦𝔣𝔲𝔩🦋 fitness model👉🏼dm for shooting 📣ICIW Athlet 📣Gold’sGym Nutrition ATHLETIN *ANTJE10* for 10% ⬇️👇🏼
     location: "Germany"
-    followers: 9218
-    engagement: 514
-    commentsToLikes: 0.093369
-    id: ckap9cfwcs3eq0i78ejbqnu2g
+    followers: 12948
+    engagement: 248
+    commentsToLikes: 0.162419
+    id: ck8t1phjowjm20j78602egao5
     verified: false
-    hashtags: "#model, #berlinmodel, #modelcouple, #modelsgermany"
-  - username: "mayxovy"
+    hashtags: "#tattoomodel, #gymbabes, #annfitnesslove, #mcfit"
+  - username: "mcello_"
     fullname: >-
-      ➖MARI O.➖
+      Marcel
     bio: >-
-      BERLIN (UA roots) | random stuff 🍦 M.Sc. FACTS | 🖤 @nu3_de | @loewenanteil ⭐️ Interior⤵️
+      💊@gigas_nutrition - Mcello10 - 10% Rabatt 💊 @bodybuilding_depot - Mcello5 - 5% Rabatt 110 Fitnessrezepte in meinen eBooks⬇️
     location: "Germany"
-    followers: 18347
-    engagement: 693
-    commentsToLikes: 0.058837
-    id: ck8t8q66olcno0j78m4noqrlx
+    followers: 32077
+    engagement: 532
+    commentsToLikes: 0.008525
+    id: ck0vuxc5tml750i19yaicu234
     verified: false
-    hashtags: "#hairstyle, #bodypositivity, #healthyfood, #fitnessmotivation"
-  - username: "angelo.carlucci"
+    hashtags: "#fitnessfood, #tattooinspiration, #pizza, #trainer"
+  - username: "michelle5186"
     fullname: >-
-      Angelo Carlucci
+      michelle5186
     bio: >-
-      Berlin | NYC | LA Menswear | Lifestyle | Travel Content Creator | Photographer Contact - Business inquiries : carlucci@Schwerte.de Impressum:
+      Latina 👧🏻 currently GERMANY📍FITNESS / NUTRITION Peruvian 💯 business inquiries 👉🏽 DM 📩
     location: "Germany"
-    followers: 615987
-    engagement: 262
-    commentsToLikes: 0.012211
-    id: ck0u63hjv0xos0i19pm1jnjc1
-    verified: true
-    hashtags: "#huaweip40pro, #lifestyleblogger, #workout, #monday"
+    followers: 15859
+    engagement: 396
+    commentsToLikes: 0.059582
+    id: ck5q8ie3f6by20i11p09xtf48
+    verified: false
+    hashtags: "#periods, #peruvian, #icygirl, #fitchick"
 ---

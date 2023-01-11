@@ -1,60 +1,60 @@
 ---
-title: Top 10 Golfers Instagram Influencers In South Korea in 2023
+title: Top 10 Golfers Instagram Influencers In South Korea In 2023
 description: >-
-  Find top golfers Instagram influencers in South Korea in 2023. Most popular hashtags: #golf #golfswing #golfer #wideangle.
+  Find top golfers Instagram influencers in South Korea in 2023. Most popular hashtags: #golf #golfswing #golfer.
 platform: Instagram
 hits: 10
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 10 Instagram influencers like this in South Korea for you to connect with.
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 10 Instagram influencers like this in South Korea for you to contact.
 profiles:
   - username: "hyang2golf"
     fullname: >-
       이미향 Mi Hyang Lee 🏌️‍♀️ 가온누리
     bio: >-
-      •@lpga_tour professional Golfer •@volvik_korea @musports.official @sky72golf ☆'일희일비'하지않길 ♧꽃다운 '청춘'
+      @lpga_tour professional Golfer @volvik_korea @musports.official @sky72golf •'일희일비'하지않길 •꽃다운 '청춘' •생각이 현실이 된다
     location: "South Korea"
-    followers: 15065
-    engagement: 729
-    commentsToLikes: 0.039006
+    followers: 15762
+    engagement: 763
+    commentsToLikes: 0.042264
     id: ck5c4llgd1ln00i11wzmk5g7z
     verified: true
-    hashtags: "#lpgatour, #diy, #plzgoawaycorona19, #2020"
+    hashtags: "#withchallenge, #nwachampionship, #worldclass, #ootd"
+  - username: "amyyanglpga"
+    fullname: >-
+      Amy Yang
+    bio: >-
+      ᴴᴱᴱᵞᴼᵁᴺᴳ ᴾᴿᴼᶠᴱˢˢᴵᴼᴺᴬᴸ ᴳᴼᴸᶠᴱᴿ🏌🏻‍♀️ 2021 ᴸᴾᴳᴬ ᵀᴼᵁᴿ⛳️ 안녕하세요 프로골퍼 양희영 입니다🥰
+    location: "South Korea"
+    followers: 10259
+    engagement: 828
+    commentsToLikes: 0.048425
+    id: ck5c4lnzc1lst0i118z06t404
+    verified: true
+    hashtags: "#thankyou, #worldclass, #busan, #diamondlpga"
+  - username: "leehyoju_"
+    fullname: >-
+      이효주 Pro Golfer/ Ella
+    bio: >-
+      Hyoju Lee Professional Golfer🇰🇷🇺🇸 • • 📌#골프 #golfstagram
+    location: "South Korea"
+    followers: 29096
+    engagement: 173
+    commentsToLikes: 0.022918
+    id: ck6uidpxpehgg0j716fhq5mnl
+    verified: false
+    hashtags: "#travel, #manchestergram, #golf, #gle2"
   - username: "thedrewcave"
     fullname: >-
-      THE DREW | Packers Fan Cave
+      Andrew Lomeli
     bio: >-
-      •Packer Fan Cave/EST. 2011•Wife @thriftyaf_ •CBD @gdz_cbd•Air Force Retired •Amateur-Pro Golfer•IE 909 Raised/SoCal •Hispanic/Korean•{{Go Pack Go!📱}}
+      •Packers Fan Cave•Established 2011 •Wife @thriftyaf_ •Ohio based/Cali raised •Retired Air Force•Amateur-Pro Golfer •@gdzcbd•@socalpackerbackers 🟢🟡
     location: "South Korea"
-    followers: 12243
-    engagement: 570
-    commentsToLikes: 0.052466
+    followers: 13292
+    engagement: 471
+    commentsToLikes: 0.046194
     id: ck0w4mrh2zd1e0i190usv4ksg
     verified: false
-    hashtags: "#mancaves, #packersfans, #packers, #fancave"
-  - username: "a_yeonkim"
-    fullname: >-
-      김아이언
-    bio: >-
-      Klpga Pro Golfer ⛳️ ▫️WIDE.ANGLE ▫️TEAM BALDO ▫️웅빈이엔에스
-    location: "South Korea"
-    followers: 10352
-    engagement: 509
-    commentsToLikes: 0.016283
-    id: ck6uid8wdeekj0j715v0amsyb
-    verified: false
-    hashtags: "#klpga, #wice, #golfer, #golfswing"
-  - username: "her8105"
-    fullname: >-
-      허은지  eun.ji.Her
-    bio: >-
-      #pro golfer KLPGA #Renomagolf wear Model @renomagolf #크리션 crew 1기 @crision___ 부산시 금정구 수림로 26 파디글스 골프 연습장 🤟간지나게 치고싶다면 ~🤟 1:1개인레슨문의👇
-    location: "South Korea"
-    followers: 70192
-    engagement: 174
-    commentsToLikes: 0.020555
-    id: ck8t7i5tigw700j788hl62rnk
-    verified: false
-    hashtags: "#workout, #renomagolf, #golfswag, #golflife"
+    hashtags: "#mancaves, #packersfootball, #mancave, #packers"
   - username: "nadinenet"
     fullname: >-
       Nádine
@@ -78,53 +78,53 @@ profiles:
     commentsToLikes: 0.016105
     id: ck6uid9eeeemp0j71kkr51jok
     verified: false
-    hashtags: "#golflessons, #golf, #golfwang, #pinggolf"
+    hashtags: "#wideangle, #golfwang, #golffashion, #pinggolf"
   - username: "ssun.___.b"
     fullname: >-
       안선주프로 KLPGA Pro
     bio: >-
       🌹와이드앵글 @wide.angle @w.angler 🌹 🏌🏻‍♀️골프연습용품 👉@thunder_golf 🌟광명비키니모델 top2🥈 🌟시흥비키니모델top5 ⭐️ 🌷#레슨문의🌷#필드레슨🌷#다이어트🌷
     location: "South Korea"
-    followers: 24168
-    engagement: 359
-    commentsToLikes: 0.011804
+    followers: 25308
+    engagement: 331
+    commentsToLikes: 0.010414
     id: ck9hbn9oqhlp80j78lnq7ttii
     verified: false
-    hashtags: "#wideangle, #golf, #golfer, #ootd"
+    hashtags: "#golfswing, #golf, #ootd, #golfer"
+  - username: "a_yeonkim"
+    fullname: >-
+      김아이언
+    bio: >-
+      KLPGA ⛳ ▪️SBS GOLF ▪️W.ANGLE ▪️BALDO ▪️VOICE CADDDIE
+    location: "South Korea"
+    followers: 16641
+    engagement: 355
+    commentsToLikes: 0.017577
+    id: ck6uid8wdeekj0j715v0amsyb
+    verified: false
+    hashtags: "#sbs, #golf, #mercedesbenz, #cabriolet"
   - username: "hyeyoni_yu"
     fullname: >-
       ᴴᵞᴱᵞᴱᴼᴺ🌟
     bio: >-
       
     location: "South Korea"
-    followers: 6420
-    engagement: 509
-    commentsToLikes: 0.042643
+    followers: 6311
+    engagement: 438
+    commentsToLikes: 0.041986
     id: ckaoqqic9jwa70i78tuhcq50d
     verified: false
-    hashtags: "#selfie, #daily, #golf, #ootd"
+    hashtags: "#golf, #golfstagram, #golfswing, #selfie"
   - username: "1soyeonryu"
     fullname: >-
       유소연,골퍼 /Soyeon Ryu, Golfer
     bio: >-
       시편/Psalms 62:7🙏🏻 . Youtube💙 유소연,유티쳐
     location: "South Korea"
-    followers: 69540
-    engagement: 348
-    commentsToLikes: 0.024849
+    followers: 71210
+    engagement: 378
+    commentsToLikes: 0.023825
     id: ck5c4ln0x1lr40i111jqr3zxc
     verified: true
-    hashtags: "#golfswing, #09, #klpga, #torbist"
-  - username: "solgolf"
-    fullname: >-
-      마소라 Klpga Pro Golfer
-    bio: >-
-      📌KLPGA 정회원 회원번호 777 📌대한교과서 체육 골프스윙모델 📌국가대표 상비군🇰🇷 📌와이드앵글 📌스릭슨 - - ◽️예쁜스윙 만들기 💕Easy swing Jtbc골프 "레슨팔로우"
-    location: "South Korea"
-    followers: 64461
-    engagement: 350
-    commentsToLikes: 0.011039
-    id: ck6uid7b7ee9l0j71av817n40
-    verified: false
-    hashtags: "#wice, #klpga, #zstar, #585"
+    hashtags: "#klpga, #golf, #swingfaster, #hbd"
 ---

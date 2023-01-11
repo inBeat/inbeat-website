@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Italy in 2023
+title: Top 10 Cooking TikTok Influencers In Italy In 2023
 description: >-
-  Find top cooking TikTok influencers in Italy in 2023. Most popular hashtags: #cooking #perte #food #viral.
+  Find top cooking TikTok influencers in Italy in 2023. Most popular hashtags: #cooking #foryou #food #foodie.
 platform: TikTok
-hits: 69
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 69 TikTok influencers like this in Italy for you to connect with.
+hits: 61
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 61 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "fdepaolis"
-    fullname: >-
-      Francesca
-    bio: >-
-      INSTAGRAM: ➡️ FDEPAOLIS ⬅️ ❓Q&A + COOKING 🇮🇹 👇🏻
-    location: "Italy"
-    followers: 36400
-    engagement: 753
-    commentsToLikes: 0.117091
-    id: ckblf1qth8zgv0j23dy6puk9b
-    verified: false
-    hashtags: "#education, #viral, #imparacontiktok, #learn"
-  - username: "zerobudgetgardener"
-    fullname: >-
-      Zero Budget Gardener
-    bio: >-
-      Indian Woman, Story Teller, Growing veggies, Cooking Indian&Italian food
-    location: "Italy"
-    followers: 2317
-    engagement: 214
-    commentsToLikes: 0.055124
-    id: ckbf0h0iom65p0j23ejml35f3
-    verified: false
-    hashtags: "#troll, #zerobudgetgardener, #ancyan, #youtuber"
   - username: "roccobuffone"
     fullname: >-
       Rocco Buffone
     bio: >-
       MasterChef Italia 7 FoodBlogger Love Cooking Follow me on Instagram My Blog: www.roccobuffone.it
     location: "Italy"
-    followers: 31900
-    engagement: 1061
-    commentsToLikes: 0.008150
+    followers: 31600
+    engagement: 752
+    commentsToLikes: 0.009841
     id: ck92xosu1zjd70j78jp5i3r6t
     verified: false
-    hashtags: "#masterchef, #it, #tiktok, #tasty"
+    hashtags: "#like, #italia, #delicious, #ita"
+  - username: "fra.mess"
+    fullname: >-
+      Fra.mess
+    bio: >-
+      Amo realizzare ❤️TUTORIAL❤️ di Cucito🧵 Cucina🍳 Creazioni artigianali💍
+    location: "Italy"
+    followers: 173700
+    engagement: 1084
+    commentsToLikes: 0.024554
+    id: ckcdvgilbf0on0j23d89i2tfj
+    verified: false
+    hashtags: "#anni80, #retro, #valentine, #tutorials"
   - username: "icookhowiwant"
     fullname: >-
       ICookHowIWant 
     bio: >-
       IG📸 ICookHowIwant Pinterest: ICookHowIWant 📧ICookHowIWant@gmail.com You got it
     location: "Italy"
-    followers: 2685
-    engagement: 604
-    commentsToLikes: 0.038369
+    followers: 2657
+    engagement: 711
+    commentsToLikes: 0.026976
     id: ck9k5y1q1ymx40j78k010rfya
     verified: false
-    hashtags: "#vegetarian, #risotto, #cookigvideo, #homemadepasta"
-  - username: "ele_sini93"
+    hashtags: "#italianfood, #cookigvideo, #tastyfood, #risotto"
+  - username: "itz_bikram85"
     fullname: >-
-      Elena Sinigaglia
+      Bikramjit 
     bio: >-
-      Cucino cose e faccio esperimenti 🔮😛 tutte le ricette su Instagram. ⬇️⬇️⬇️
+      Waheguru g🙏🏻 Puglia Italy 🇮🇹 Punjab
     location: "Italy"
-    followers: 21800
-    engagement: 833
-    commentsToLikes: 0.018592
-    id: ckacig8h63aqr0i7818tk57gu
+    followers: 945300
+    engagement: 674
+    commentsToLikes: 0.020162
+    id: ckbkquj0ylafv0j23va5wgznk
     verified: false
-    hashtags: "#try, #cook, #tiktokfoodie, #sweet"
-  - username: "federicaa_melli"
+    hashtags: "#cooking, #couplelove, #loveyou, #foryou"
+  - username: "a.t.c.mela"
     fullname: >-
-      Fede♡Melli 
+      Mela
     bio: >-
-      ♡
+      CANALE YOUTUBE ➡️ https://www.youtube.com/channel/UCnURQcMljrXR1YYYrqCM_FA
     location: "Italy"
-    followers: 11100
-    engagement: 1543
-    commentsToLikes: 0.014965
-    id: ck9re3chw0maf0j787pdkl8qh
+    followers: 28400
+    engagement: 275
+    commentsToLikes: 0.037861
+    id: ck8j4funn20ly0j781xrktpak
     verified: false
-    hashtags: "#greenscreen, #cooking, #gel, #iorestoacasa"
+    hashtags: "#good, #cream, #cooking, #youtuber"
+  - username: "eleonora_pasquini0"
+    fullname: >-
+      eleonora_pasquini
+    bio: >-
+      un po’ di tutto ma principalmente amore per la cucina
+    location: "Italy"
+    followers: 9147
+    engagement: 883
+    commentsToLikes: 0.018278
+    id: cka0l212gp36y0i78apo1ebdl
+    verified: false
+    hashtags: "#chocolate, #cooking, #food, #candle"
   - username: "chefincamicia"
     fullname: >-
       chefincamicia
     bio: >-
       Benvenuti nel canale TikTok degli Chef in Camicia!
     location: "Italy"
-    followers: 141600
-    engagement: 896
-    commentsToLikes: 0.008663
+    followers: 300700
+    engagement: 772
+    commentsToLikes: 0.008626
     id: ck9du530iezqq0j78clvjkl0p
-    verified: false
-    hashtags: "#cooking, #aperitivotime, #chef, #sicily"
-  - username: "nancyfontana"
-    fullname: >-
-      Nancy Fontana
-    bio: >-
-      Su Instagram sono normale Su TikTok sono scema 😂
-    location: "Italy"
-    followers: 5865
-    engagement: 767
-    commentsToLikes: 0.006870
-    id: ckbfdnm3m727s0j2361p7rb9d
-    verified: false
-    hashtags: "#bellafigura, #viral, #funny, #cooking"
+    verified: true
+    hashtags: "#imparacontiktok, #recipe, #tricks, #cooking"
   - username: "fionashealth"
     fullname: >-
       Fiona Gray
     bio: >-
-      🇬🇧🇮🇹 Fiona Gray Balanced Recipes & Nutrition 🍓
+      Balanced Diet WIEIADs Instagram @Fionashealth
     location: "Italy"
-    followers: 3950
-    engagement: 571
-    commentsToLikes: 0.008430
+    followers: 4151
+    engagement: 636
+    commentsToLikes: 0.012314
     id: ckcuyuo5xmjaf0j236oqyr2c0
     verified: false
-    hashtags: "#foryou, #intermittentfasting, #colazione, #dieta"
-  - username: "nonnola"
+    hashtags: "#recipe, #dieta, #student, #oatmeal"
+  - username: "nancyfontana"
     fullname: >-
-      Nonnola
+      Nancy Fontana
     bio: >-
-      I love food Every time someone cook for me I record it
+      Ti faccio fare bella figura con gli amici 😉 Ricette super easy 💖
     location: "Italy"
-    followers: 7473
-    engagement: 550
-    commentsToLikes: 0.004450
-    id: ckbqivwcd41ty0j2301w3bmfh
+    followers: 6240
+    engagement: 588
+    commentsToLikes: 0.006938
+    id: ckbfdnm3m727s0j2361p7rb9d
     verified: false
-    hashtags: "#foruyou, #featureme, #perte, #fyp"
+    hashtags: "#cooking, #fyp, #ricetta, #dance"
+  - username: "cookistwow"
+    fullname: >-
+      Cookist Wow
+    bio: >-
+      Simple, fast and fun recipes, every day
+    location: "Italy"
+    followers: 983000
+    engagement: 579
+    commentsToLikes: 0.004215
+    id: ck8j4fsm11zz50j78wci4hk3f
+    verified: true
+    hashtags: "#fyp, #dinner, #easyrecipe, #yummy"
 ---

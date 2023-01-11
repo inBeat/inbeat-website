@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hair Dressers TikTok Influencers in 2023
+title: Top 10 Hair Dressers TikTok Influencers In 2023
 description: >-
-  Find top hair dressers TikTok influencers in 2023. Most popular hashtags: #hairdressers #fyp #hair #haircut.
+  Find top hair dressers TikTok influencers in 2023. Most popular hashtags: #fyp #hairdressers #funny #hair.
 platform: TikTok
-hits: 47
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 47 TikTok influencers like this for you to collaborate.
+hits: 48
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 48 TikTok influencers like this for you to connect with.
 profiles:
+  - username: "shabaazpb08"
+    fullname: >-
+      shabaaz salmani
+    bio: >-
+      Hair dresser
+    location: "India"
+    followers: 185900
+    engagement: 1236
+    commentsToLikes: 0.007712
+    id: ck9nr21b36lnb0j78h0c5wamh
+    verified: false
+    hashtags: "#tidelagaodaaghatao, #sharethecare, #swagstepchallenge, #shabaazpb08"
   - username: "rocknrosehair"
     fullname: >-
       Rock n Rose Hair
     bio: >-
       🖤Alternative hairdressers based in Edinburgh, Scotland🖤
     location: "United Kingdom"
-    followers: 10400
-    engagement: 652
-    commentsToLikes: 0.006720
+    followers: 10300
+    engagement: 647
+    commentsToLikes: 0.006423
     id: ck9euz825fv4i0j784swcoacg
     verified: false
-    hashtags: "#hairvideo, #balayage, #hairgoals, #haircolor"
-  - username: "jaymz.marsters"
-    fullname: >-
-      Jaymz Marsters
-    bio: >-
-      Hairdresser Norfolk UK Rainbow hair & Random tiktoks Follow Insta for afters
-    location: "United Kingdom"
-    followers: 54600
-    engagement: 444
-    commentsToLikes: 0.014543
-    id: ck8kl0frs1u4k0j787am9c4m0
-    verified: false
-    hashtags: "#diyhair, #kawaii, #fyp, #silverhair"
+    hashtags: "#hairgoals, #hairchange, #hairvideo, #balayage"
   - username: "invidual0"
     fullname: >-
       Individual
     bio: >-
       
     location: "Viet Nam"
-    followers: 58100
-    engagement: 798
-    commentsToLikes: 0.015168
+    followers: 56900
+    engagement: 776
+    commentsToLikes: 0.014755
     id: ckdi8ox2zbbeg0j237v5gksyf
     verified: false
-    hashtags: "#cattoc, #haircut, #hairdressers, #fyp"
-  - username: "darklingmoon"
+    hashtags: "#haircut, #hairdressers, #fyp, #cattoc"
+  - username: "scottmohawk"
     fullname: >-
-      Serena Diane
+      Skott Mohawk 🤟🖤☠️
     bio: >-
-      Find me on FB @ Chimera Vibes. 18+ only
-    location: "United States"
-    followers: 34800
-    engagement: 2135
-    commentsToLikes: 0.076439
-    id: ckbf76sj8wxgv0j230usdhy9n
-    verified: false
-    hashtags: "#skulls, #iloveyou, #loveyourself, #etsy"
-  - username: "_soggy_nugget_"
-    fullname: >-
-      Soggy_nugget
-    bio: >-
-      🍿Welcome to the sogg-zone🍿 🍬twitch.tv/that_soggy_nugget🍬 👕Merch below!👕
+      Father // Metal Head // Nerd
     location: "United Kingdom"
-    followers: 2600000
-    engagement: 1819
-    commentsToLikes: 0.016411
-    id: ck8oyzk5f9p360j78ae5iqwwm
+    followers: 37200
+    engagement: 1979
+    commentsToLikes: 0.156015
+    id: ck8adf35w5qib0j7814mi1end
     verified: false
-    hashtags: "#meme, #halloween, #spooky, #pepsiman"
-  - username: "aliciawithac"
-    fullname: >-
-      𝒜𝓁𝒾𝒸𝒾𝒶
-    bio: >-
-      ❤️LiamEmmenis❤️
-    location: "South Africa"
-    followers: 9328
-    engagement: 884
-    commentsToLikes: 0.062154
-    id: ck9e2n94xfr950j7829n7p4ho
-    verified: false
-    hashtags: "#btsarmy, #fyp, #duet, #2020"
+    hashtags: "#duet, #mohawk, #mohawkviking, #beard"
   - username: "laurenaleahbradshaw"
     fullname: >-
       lauren💗
     bio: >-
-      Slim & Shady 👽 A bad BLEEP
+      Slim & Shady 👽
     location: "United Kingdom"
-    followers: 3828
-    engagement: 1240
-    commentsToLikes: 0.011201
+    followers: 3770
+    engagement: 957
+    commentsToLikes: 0.044285
     id: ckdc0zud1fk6a0j23tk585di3
     verified: false
-    hashtags: "#fyp, #foryoupage, #duet, #boyfriend"
-  - username: "ahmedpallo"
+    hashtags: "#duet, #girls, #foryoupage, #fyp"
+  - username: "jennieburdett7"
     fullname: >-
-      Ahmed 👑
+      Jennie Burdett
     bio: >-
-      No bio yet
-    location: "Egypt"
-    followers: 93200
-    engagement: 454
-    commentsToLikes: 0.015659
-    id: ckbr7ppt0mv2f0j23fs53jwsk
+      Laughs at inappropriate things at inappropriate times..
+    location: "United Kingdom"
+    followers: 4610
+    engagement: 845
+    commentsToLikes: 0.261228
+    id: ckb9au3xbw72c0j23y1v3qboc
     verified: false
-    hashtags: "#hair, #hairstyle, #trind, #barber"
-  - username: "charlissecroninn"
+    hashtags: "#fyp, #covid, #gc, #jokes"
+  - username: "maddyspencer5"
+    fullname: >-
+      Maddy Spencer
+    bio: >-
+      🌼 That dandelion chic 🌼 Biz Enquires: talent@neuralle.com
+    location: "Australia"
+    followers: 406900
+    engagement: 974
+    commentsToLikes: 0.032209
+    id: ckdhxqch84md70j23bw56ffip
+    verified: false
+    hashtags: "#transformation, #funny, #makeup, #aussie"
+  - username: "charlissee"
     fullname: >-
       Charlisse Cronin
     bio: >-
       Hey, missed you Australia Check insta
     location: "Australia"
-    followers: 46000
-    engagement: 530
-    commentsToLikes: 0.027200
+    followers: 46400
+    engagement: 540
+    commentsToLikes: 0.025931
     id: ckc7zmimg1bar0j23g3e5f441
     verified: false
-    hashtags: "#fyp, #foryou, #perth, #skills"
+    hashtags: "#cats, #fyp, #foryou, #perth"
   - username: "epichairdesigns"
     fullname: >-
       epichairdesigns
     bio: >-
       EPIC HAIR DESIGNS 💫15 Brisbane salon locations https://epichairdesigns.com.au
     location: "Australia"
-    followers: 2451
-    engagement: 751
-    commentsToLikes: 0.018260
+    followers: 2407
+    engagement: 666
+    commentsToLikes: 0.015667
     id: ckd6yhl1yweu50j23oh95v0eo
     verified: false
-    hashtags: "#epichairdesigns, #trending, #freezeframe, #trend"
+    hashtags: "#epichair, #hairdresserreacts, #freezeframe, #brisbanehair"
+  - username: "over40placi"
+    fullname: >-
+      Placi Espejo
+    bio: >-
+      Positive Single Mum 😉 Mental Health Advocate 💙 Supporting #the3peaks4sands 🥰
+    location: "United Kingdom"
+    followers: 61800
+    engagement: 930
+    commentsToLikes: 0.176314
+    id: ckdtao21aulnm0j23dx7c0ztz
+    verified: false
+    hashtags: "#spanishqueen, #momsoftiktok, #the3peaks4sands, #britsmover"
 ---

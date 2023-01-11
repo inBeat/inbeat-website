@@ -1,72 +1,36 @@
 ---
-title: Top 10 Comedians Instagram Influencers In New York in 2023
+title: Top 10 Comedians Instagram Influencers In New York In 2023
 description: >-
-  Find top comedians Instagram influencers in New York in 2023. Most popular hashtags: #comedy #comedian #quarantinelife.
+  Find top comedians Instagram influencers in New York in 2023. Most popular hashtags: #comedian #comedy #newyork #standup.
 platform: Instagram
-hits: 65
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 65 Instagram influencers like this in New York, United States for you to work with.
+hits: 53
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 53 Instagram influencers like this in New York, United States for you to contact.
 profiles:
   - username: "evolvingoutloud"
     fullname: >-
       Kyle Cease
     bio: >-
-      Transformation Comedian, New York Times Bestselling Author.
+      Father 🧒🏼 Transformation Comedian 🎙 New York Times Bestselling Author 📖 kylecease.com
     location: "United States"
-    followers: 24138
-    engagement: 386
-    commentsToLikes: 0.064670
+    followers: 27821
+    engagement: 202
+    commentsToLikes: 0.057554
     id: ck5hnep6pnnga0i11f00toc3p
     verified: false
-    hashtags: "#nowrising"
-  - username: "williemacc"
+    hashtags: "#nowrising, #endofeffort, #itstotallypossible"
+  - username: "danlamorte"
     fullname: >-
-      WILLIE MACC | Comedian / Actor
+      Dan LaMorte
     bio: >-
-      That's Mr Commercial 2U 🎥ABCs The Goldbergs 🎥 #CollegeHill VI 🎬truTv LaffMobb LaffTrack 🎤Revolt Funny AF 2020 BOOK ME bookwilliemacc@gmail.com
+      NYC Comedian, Runner and Stoner. Often a stoned runner. I have 2 albums, a few TV appearances and countless stretch marks
     location: "United States"
-    followers: 28454
-    engagement: 256
-    commentsToLikes: 0.035917
-    id: ck15q433k0zza0i19f4vc5ihm
+    followers: 17796
+    engagement: 293
+    commentsToLikes: 0.042363
+    id: ck14i8wkge7hd0i19zptdgwok
     verified: false
-    hashtags: "#comedy, #losangelescomedy, #acting, #iusedtobefamous"
-  - username: "davyruffin"
-    fullname: >-
-      Its “MARVELOUS”
-    bio: >-
-      📍MD |📍DC It’s MARVELOUS‼️🙌🏾 MGT TEAM: @ceosofast Click The Link In My BIO ... For All Bookings Email : Marvelousenterprises301@gmail.com
-    location: "United States"
-    followers: 174691
-    engagement: 164
-    commentsToLikes: 0.050315
-    id: ck6ub5h1f7kzg0j71z3o2jt11
-    verified: false
-    hashtags: "#viral, #philly, #dc, #comedy"
-  - username: "curlyhairmag"
-    fullname: >-
-      Magazine made for women
-    bio: >-
-      Providing curly hair inspiration and dashing some humour along the way. 👩🏾‍🦱@boseonaboye 👩🏾‍🦱@wearetheasamoahs 👶🏾:@curlyhairmagkids Info@hellochm.com
-    location: "United States"
-    followers: 153041
-    engagement: 110
-    commentsToLikes: 0.022967
-    id: ck5hn6mtinazo0i11dgmeblni
-    verified: false
-    hashtags: "#hairgoals, #naturalhairstyling, #curlyhairstyles, #protectivestyles"
-  - username: "jacqthestripper"
-    fullname: >-
-      JACQ THE STRIPPER
-    bio: >-
-      Jacqueline Frances Comedian / Artist / Enterprising Slut New York City
-    location: "United States"
-    followers: 186450
-    engagement: 220
-    commentsToLikes: 0.011383
-    id: ck0u88wfz6se70i19in849ui3
-    verified: false
-    hashtags: "#happymothersday, #paymyrent, #wetforchrist, #wost"
+    hashtags: "#twittermemes, #runnersofinstagram, #memes, #standup"
   - username: "steven_markow"
     fullname: >-
       Steven Markow
@@ -78,53 +42,89 @@ profiles:
     commentsToLikes: 0.040069
     id: ck8sypfablhsb0j78l98i3lnn
     verified: false
-    hashtags: "#comedians, #wig, #comedy, #parody"
-  - username: "jiggycomedy"
+    hashtags: "#comedians, #characters, #wig, #theater"
+  - username: "hazelhoneysuckle"
     fullname: >-
-      MARK JIGARJIAN | COMEDIAN
+      Hazel Honeysuckle
     bio: >-
-      🎤 Stand Up / @impracticaljokersofficial Tour 🎧 Heard on @tesdtown @girlsgottaeatpodcast 🎬 Seen on @trutv @foodnetwork 📥 BOOKING @ejbentertainment
+      Burlesque Starlet Las Vegas - she/her Friend of "The Green Fairy" in Absinthe 🎪🧚‍♂️ "The Delicate Flower" 🥀 Costumer ✂ Singer 🎶 Nerd 👓 Model💃 Actress
     location: "United States"
-    followers: 23576
-    engagement: 210
-    commentsToLikes: 0.064165
-    id: ck55l40de0pc60i11nggw0irr
+    followers: 26827
+    engagement: 320
+    commentsToLikes: 0.027270
+    id: ck0w2wgckqi7d0i19hgjngfk4
     verified: false
-    hashtags: "#standup, #comedy, #funnyvideos, #breaktheboxoffice"
+    hashtags: "#costume, #lasvegas, #hazelhoneysuckle, #boldlystripped"
   - username: "madmamanyc"
     fullname: >-
       Alexandra Kohan
     bio: >-
       #NewYorker #Fashionista #Stylist #Comedian #Psychologist DM for commercial inquiries & reviews💌 madmamanyc@gmail.com📩 Instagram pro👩🏼‍💻
     location: "United States"
-    followers: 80881
-    engagement: 169
-    commentsToLikes: 0.060455
+    followers: 79732
+    engagement: 172
+    commentsToLikes: 0.060289
     id: ck5zsgnidygnk0i142lmam9ow
     verified: false
-    hashtags: "#mindfulness, #mindfulliving, #selflove, #consciousliving"
-  - username: "anthony.anderson.drums"
+    hashtags: "#mindfulliving, #selflove, #mindfulness, #internationalwomensday"
+  - username: "reneewillett"
     fullname: >-
-      Anthony M. Anderson | Drummer
+      Renée Willett
     bio: >-
-      🇯🇲🇵🇷LET ME SET 🎶🏡 #QuaranTONE 🥁NYC Musician, Session/Touring #Drummer 🖤 1 of 19 siblings #RIPMom 📩 anthonyandersondrums24@gmail.com
+      Comedian Will Ferrell ...with [bigger] boobies New Yorker|LA|LON|MIA|TLV 🎾✡️ USC • MBA 🎓❤️💛✌🏼 @titsandchocolatechips
     location: "United States"
-    followers: 31098
-    engagement: 103
-    commentsToLikes: 0.078073
-    id: ckaotdbnvvfdo0i78vwmniwu1
-    verified: false
-    hashtags: "#thisisamerica, #makeithappen, #election, #potd"
-  - username: "ronnychieng"
-    fullname: >-
-      Ronny Chieng
-    bio: >-
-      Standup comic | @netflix Asian Comedian Destroys America! | Correspondent on @TheDailyShow | New York via 🇦🇺🇸🇬🇲🇾
-    location: "United States"
-    followers: 248705
-    engagement: 241
-    commentsToLikes: 0.016165
-    id: ck0ude7eziy3j0i19zxr3jabq
+    followers: 413811
+    engagement: 142
+    commentsToLikes: 0.015897
+    id: ck5cj6bo3u2hk0i11riieh0wb
     verified: true
-    hashtags: "#banana006, #jflfestival2020"
+    hashtags: "#finally, #nofilter, #selfiesunday, #itslit"
+  - username: "meishmoe"
+    fullname: >-
+      Moe
+    bio: >-
+      YT: 260k TikTok: 3.2M
+    location: "United States"
+    followers: 281864
+    engagement: 699
+    commentsToLikes: 0.015977
+    id: ck8t43lhc5e030j7870ich3fi
+    verified: false
+    hashtags: ""
+  - username: "joemakemelaugh"
+    fullname: >-
+      Comedian JosePh Naimoli
+    bio: >-
+      Stand-Up Comedian Adult Swim, Quibi-Dishmantled Actor Writer NY 🌃Follow @joemakemecook for a food and a chuckle:)
+    location: "United States"
+    followers: 5445
+    engagement: 748
+    commentsToLikes: 0.140673
+    id: ck8sx0j8uft760j78y03wffh6
+    verified: false
+    hashtags: "#comedian, #nytough, #cuomobriefing, #alpacino"
+  - username: "thejfharris"
+    fullname: >-
+      J.F. Harris
+    bio: >-
+      @latelateshow Bill Burr’s Ringers @comedycentral ✍🏼 @netflix M.F.H. Comedy ☕️ 👖 📷 & vinyl. Jokes could be described as NP(rated)R.
+    location: "United States"
+    followers: 6552
+    engagement: 247
+    commentsToLikes: 0.082287
+    id: ck6012tq1eqjh0i14c6ldrf91
+    verified: false
+    hashtags: "#coffeeshop, #denimstyle, #lcking, #livecomedy"
+  - username: "tschillingfs"
+    fullname: >-
+      Taylor Schilling Fansite
+    bio: >-
+      Website dedicated to actress @tayjschilling - OITNB, Mercy, Family, Monsterland, The Titan, Take Me, The Bite and more
+    location: "United States"
+    followers: 11080
+    engagement: 369
+    commentsToLikes: 0.026585
+    id: ck136bv2n5q0e0i19sw5cgxsn
+    verified: false
+    hashtags: "#photoshoot, #orangefamily, #repost, #oitnb"
 ---

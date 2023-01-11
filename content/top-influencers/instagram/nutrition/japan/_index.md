@@ -1,60 +1,60 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Japan in 2023
+title: Top 10 Nutrition Instagram Influencers In Japan In 2023
 description: >-
-  Find top nutrition Instagram influencers in Japan in 2023. Most popular hashtags: #fitness #japan #yoga.
+  Find top nutrition Instagram influencers in Japan in 2023. Most popular hashtags: #nutrition #love #eatclean.
 platform: Instagram
-hits: 12
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 12 Instagram influencers like this in Japan for you to contact.
+hits: 13
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 13 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "josiahkhong"
+  - username: "miawatanabe_yoga"
     fullname: >-
-      Josiah Khong 👑
+      Mia
     bio: >-
-      ♕ Success young and enjoy life! 🏖 💼 Young Entrepreneur 📖 Monash Uni 🏋🏻 Fitness Coach 🌱Nutrition Expert 👫 Fiona's 📨 josiahkhong@hotmail.com
+      ERYT500+ YACEP, Yoga&Pilates Teacher, Sports Nutrition Coach 身体の柔軟性と体幹エクササイズ 必要栄養素推奨と生涯健康体作りのコーチ 🌁Live in USA🇺🇸 お仕事ご依頼はDMにてご連絡ください Day1Stretch/Founder
     location: "Japan"
-    followers: 18271
-    engagement: 408
-    commentsToLikes: 0.013638
-    id: ck8sy1fvcjef00j785sax5769
+    followers: 28155
+    engagement: 421
+    commentsToLikes: 0.087569
+    id: ck14l4qmzsuh90i19pq2tx3ir
     verified: false
-    hashtags: "#foxit, #entrepreneur, #projectmi100, #quenchyourcuriosity"
+    hashtags: "#agepositive, #love, #selfy, #stanford"
   - username: "iamkouka"
     fullname: >-
       KOUKA WEBB 香華
     bio: >-
-      🇯🇵🇬🇧(She/her) A #sociallydistant 6 foot tall 👩🏻‍🎓Masters student, Clinical Nutrition @NYU #rd2b Currently in Tokyo @nline_management
+      🇬🇧🇯🇵Japanese Brit living in NY (she/her) Masters student, Clinical Nutrition at @nyuniversity #rd2b @nline_management
     location: "Japan"
-    followers: 26614
-    engagement: 301
-    commentsToLikes: 0.016822
+    followers: 26324
+    engagement: 281
+    commentsToLikes: 0.016942
     id: ck6torqwvfq9n0j71valvsm2u
     verified: false
-    hashtags: "#tokyo, #sockswithsandals, #ultrarunning, #trailrunning"
+    hashtags: "#spur12, #kyoto, #masters, #matcha"
   - username: "saayaai"
     fullname: >-
       Saaya
     bio: >-
-      *△＿＿Outdoor life＿＿△* camping… mountain… Natural energybar🍫『#S5BAR』 #nutritionist ………………Live in Nagano∮
+      *△＿＿Outdoor life＿＿△* camping… mountain… Natural energybar🍫『@S5BAR 』 #nutritionist ………………Live in Nagano∮
     location: "Japan"
-    followers: 7874
-    engagement: 1661
-    commentsToLikes: 0.015711
+    followers: 8336
+    engagement: 1674
+    commentsToLikes: 0.015902
     id: ck9wf6t2qnfsl0j78qo8pyz7l
     verified: false
-    hashtags: "#mountainlove, #mountainstories, #mountaineer, #outdoorlife"
+    hashtags: "#outdoorfun, #mountainlovers, #outdoorstyle, #mountainlove"
   - username: "ayamefitness"
     fullname: >-
-      Ayame van Beusekom 🇯🇵/🇱🇺
+      Ayame van Beusekom
     bio: >-
-      🏋🏼‍♀️Certified PT at City Fitness Albany 📚Studying Exercise Science & Nutrition at AUT 🍏 @optimumnutrition.ausnz 👚 @oxyfitco
+      🏋🏼‍♀️PT at City Fitness Albany 🌏Online Coach 📚AUT Exercise science & Nutrition 🍏@optimumnutrition.ausnz 👚@oxyfitco ⤵️Sign up below
     location: "Japan"
-    followers: 3626
-    engagement: 1039
-    commentsToLikes: 0.096679
+    followers: 3750
+    engagement: 974
+    commentsToLikes: 0.064645
     id: ck5hn5z1mn9qg0i11h8c7okfi
     verified: false
-    hashtags: "#stayfit, #proteintreats, #healthytreats, #proteinwaffles"
+    hashtags: "#goldstandardwhey, #proteinwaffles, #healthyeating, #onambassador"
   - username: "erica.angyal"
     fullname: >-
       Erica Angyal / エリカ・アンギャル
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.033280
     id: ck6udlohflsp00j71384pto8z
     verified: false
-    hashtags: "#healthy, #ericaloves, #inspiration, #glutenfree"
-  - username: "cynthiaahayek"
+    hashtags: "#healthy, #motivational, #eatclean, #eatwell"
+  - username: "ifbbpro_jordanplantiko"
     fullname: >-
-      Cynthia Hayek
+      Jordan Plantiko “Classic Kid”
     bio: >-
-      👩🏻‍ #Osteopath #paris @anatomik.paris 🧘🏻‍♀️ #Yoga teacher #vinyasa 🚴🏻‍♀️ Coach @dynamocycling ⚖️ Certified in #Thaimassage & #Nutrition
+      2x IFBB Classic Physique Champion🥇 #Y3T Athlete Hypertrophy Trainer & Nutrition Coach 💻 “I Help Experienced Lifters Put on 10-15 Lbs of Lean Muscle”
     location: "Japan"
-    followers: 2893
-    engagement: 888
-    commentsToLikes: 0.096378
-    id: ck5hrd38kuo3e0i11hywqztu5
+    followers: 6640
+    engagement: 352
+    commentsToLikes: 0.037989
+    id: ck13597sx0c110i192adf33pj
     verified: false
-    hashtags: "#yoga, #paris, #yogateacher, #movement"
-  - username: "miawatanabe_yoga"
-    fullname: >-
-      Mia
-    bio: >-
-      ERYT-500+•YACEP🕉 Pilates ヨガ&ピラティスインストラクター 🏠USA🇺🇸 🌸シリコンバレーの🇺🇸アメリカ大企業でヨガ教導 🌸Day1Stretch/Founder(オフィスヨガ) •英語でヨガ •Vinyasa Yoga •ヒーリングタッチ •骨盤底 •オフィスヨガ
-    location: "Japan"
-    followers: 21686
-    engagement: 457
-    commentsToLikes: 0.061414
-    id: ck14l4qmzsuh90i19pq2tx3ir
-    verified: false
-    hashtags: "#stanford, #split, #yogapractice, #sf"
+    hashtags: "#classickid, #jednorthbodybuilding, #supplementwarehouse, #coach"
   - username: "moristagram0511"
     fullname: >-
       佐藤花香/管理栄養士 morimori🇯🇵
     bio: >-
-      ▷28歳、管理栄養士🤗 ▷0511生まれ/宮城出身/165cm ▷料理監修/調理プロデュース受けてます🍱 ▷元ソフトボール部/元アカペラサークル ▷テレビやYouTube出てます🥰 フォロー、いいね、コメントありがとうございます🌸
+      ▷28歳・宮城出身・165cm🥰 ▶︎フリーランス管理栄養士🤗 ▷メニュー開発、栄養指導多数⭐️ ▶︎Mrs.Earth Japan食部門トレーナー・講師👗 ▷元ソフトボール部、元アカペラサークル💪 ▶︎野球女子⚾️ お仕事はDMにお願い致します✨ コメント、フォロー、いいねありがとうございます😍
     location: "Japan"
-    followers: 7845
-    engagement: 1465
-    commentsToLikes: 0.073164
+    followers: 12039
+    engagement: 1068
+    commentsToLikes: 0.070101
     id: ckaos2lptpvpi0i781ha8xym5
     verified: false
-    hashtags: "#nutrition, #registereddietitian, #dietitian, #toranomonhills"
-  - username: "alishbahannjum"
+    hashtags: "#registereddietitian, #diettian, #nurtrition, #nutrition"
+  - username: "edenthecollection"
     fullname: >-
-      ALISHBAH ANJUM
+      Fashion | Beauty Photographer
     bio: >-
-      Faisalabad 🇵🇰 👿 @lishipishi
+      Louise A | 📍TOKYO ✯ Fashion Photographer | Magazine Editorial | Fashion Week | Streetstyle Trends| Headshots | Designer ✯Bookings:DM or Website ⬇️
     location: "Japan"
-    followers: 1025975
-    engagement: 891
-    commentsToLikes: 0.020744
-    id: ck9wp13iq7c900j78gfc6bbm0
+    followers: 16507
+    engagement: 204
+    commentsToLikes: 0.024542
+    id: ck14h7tp08yzf0i19rhahc2o1
     verified: false
-    hashtags: "#yooulpakistan, #lifestyle, #blogging, #life"
-  - username: "lin_sun_"
+    hashtags: "#traveldeeper, #fashioneditorial, #editorialphotography, #sequindress"
+  - username: "teppeitajima"
     fullname: >-
-      林太陽🏅 Archer
+      Teppei Tajima
     bio: >-
-      🇹🇼Taiwan Taipei 💪🏼178cm 82kg 🔸《自由教練》私人教練課程 💡相關問題歡迎私訊詢問
+      Pro Surfer PersonalTrainer/ NASM-CPT （米国公認パーソナルトレーナー） サーフツアー+レッスン/ パーソナルトレーニングの受付は⬇︎⬇︎
     location: "Japan"
-    followers: 11472
-    engagement: 672
-    commentsToLikes: 0.014642
-    id: ck5zrp18cwzus0i148d2zvfwk
+    followers: 18853
+    engagement: 500
+    commentsToLikes: 0.012136
+    id: ck6ugl3do3nxl0j71l8rehupv
     verified: false
-    hashtags: "#fitness, #gym, #up, #motion"
+    hashtags: "#nasmcertifiedpersonaltrainer, #nasmcpt, #personaltrainer, #coacht"
+  - username: "satisforest"
+    fullname: >-
+      Stefan Gerbl 🌿 Vegan Coach
+    bio: >-
+      I help Vegans lose weight, build lean muscle & reclaim their Health/Performance (BODY&MINDSET) 🌱💪🏻🧠⚡️📈 . ↘️BECOME A FIT VEGAN↙️
+    location: "Japan"
+    followers: 41636
+    engagement: 276
+    commentsToLikes: 0.032615
+    id: ck136is8n6oua0i19uhbinil3
+    verified: false
+    hashtags: "#vegansofig, #vegantips, #veganpump, #plantbased"
 ---

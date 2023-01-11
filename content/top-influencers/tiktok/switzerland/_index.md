@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Switzerland in 2023
+title: Top 10 TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #fy #pourtoi.
+  Find top TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #fy #foryou.
 platform: TikTok
-hits: 790
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 790 TikTok influencers like this in Switzerland for you to connect with.
+hits: 810
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 810 TikTok influencers like this in Switzerland for you to contact.
 profiles:
-  - username: "serenastravel"
-    fullname: >-
-      @serenastravel
-    bio: >-
-      Come say hi 🤍
-    location: "Switzerland"
-    followers: 7310
-    engagement: 897
-    commentsToLikes: 0.021558
-    id: ckb9t8b3hr5530j23vjlbwy23
-    verified: false
-    hashtags: "#apulia, #summerlove, #postcovidtravel, #puglia"
-  - username: "kris8an"
-    fullname: >-
-      Kris
-    bio: >-
-      just a weird boy from🇨🇭 I can‘t go Live check my insta^^ @kris8an
-    location: "Switzerland"
-    followers: 1200000
-    engagement: 2492
-    commentsToLikes: 0.022980
-    id: ckb9qil6imlmg0j23w9qkx6ly
-    verified: false
-    hashtags: "#trend, #hair, #vibes, #ad"
-  - username: "leosplxnet"
-    fullname: >-
-      Leonid
-    bio: >-
-      Managed by my parent’s 150K???? User: Leospookyplxnet
-    location: "Switzerland"
-    followers: 142700
-    engagement: 3228
-    commentsToLikes: 0.233704
-    id: ckb16r0rcuad30j23ev3jmkrg
-    verified: false
-    hashtags: "#adoptmegiveaway, #leosplxnet, #foryoupage, #adoptmegiveaways"
-  - username: "ovasimonreyli"
-    fullname: >-
-      Epic: Ghost_issai_
-    bio: >-
-      Simon (17) 🇩🇪/🇨🇭 Road to 20K? Beste Community
-    location: "Switzerland"
-    followers: 15800
-    engagement: 3059
-    commentsToLikes: 0.103539
-    id: ckbkf1qzr5yt60j23ebiho7sd
-    verified: false
-    hashtags: "#keinbock, #sagneinzumobbing, #roadto1klikes, #beleidigen"
-  - username: "___alert_._spirit___"
-    fullname: >-
-      Alertspirit
-    bio: >-
-      Was ich mache? Einatmen&Ausatmen. Manchmal ändere ich spontan die Reihenfolge 😎
-    location: "Switzerland"
-    followers: 7604
-    engagement: 2567
-    commentsToLikes: 0.314074
-    id: ckbrctbbiqjo20j23kwyxddkc
-    verified: false
-    hashtags: "#rebellinmitherz, #duett, #funny, #verspielt"
-  - username: "itzz_noix_de_coco"
+  - username: "itzz._.ambre0o0o"
     fullname: >-
       abonne toi je rend en 3 sec😱
     bio: >-
-      drôle 🤣🤡☻ 13 ans je suis une 2007 fortnite 🎮 suisse 🇨🇭 timide🥺 go 5000 ☺️
+      7000k-------------->8000k 🙏
     location: "Switzerland"
-    followers: 4978
-    engagement: 2435
-    commentsToLikes: 0.226409
+    followers: 7079
+    engagement: 3043
+    commentsToLikes: 0.196967
     id: cka9l0wa61eya0i7821wsgqjo
     verified: false
-    hashtags: "#pourtoi, #vexon60fps, #abonnetoijerend, #merci"
-  - username: "offical_edit_shit"
+    hashtags: "#pourtoi, #redifusionfortnite, #desactifssvp, #desactif"
+  - username: "x.ahmxd"
     fullname: >-
-      ꧁༒☬☠Ƚ︎ÙçҜყ☠︎☬༒꧂
+      أحمد
     bio: >-
-      If you love me, let me know. If you don't, please let me go.
+      Acc von Diego und Julian
     location: "Switzerland"
-    followers: 14200
-    engagement: 2374
-    commentsToLikes: 0.175819
-    id: ckbblu9g1a14s0j23ty0chxz9
+    followers: 93500
+    engagement: 2907
+    commentsToLikes: 0.152207
+    id: ck95v90g8x8880j78neuukyer
     verified: false
-    hashtags: "#foryoupagee, #foryoupage, #anime, #fy"
+    hashtags: "#fyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfy, #foryou, #fyp, #fy"
+  - username: "sprifty"
+    fullname: >-
+      🖤⛓ ꌗp̴𝕣ᴵf͞͞т𝓎 ⛓📓✍️
+    bio: >-
+      🇩🇪/🇬🇧 🖤Bruh-Gurl U<U👌 ✨Illustrator✨ 🔥⛓✨Weeb✨⛓💦
+    location: "Switzerland"
+    followers: 142300
+    engagement: 2448
+    commentsToLikes: 0.053887
+    id: ckbkixa2obhcb0j233a4cra9b
+    verified: false
+    hashtags: "#animecharacters, #expressionmeme, #mha, #haikyuu"
   - username: "swiss_trains"
     fullname: >-
       Swiss
     bio: >-
       Männlich Hobbys sind Züge Schüler Modellbahn basteln
     location: "Switzerland"
-    followers: 3095
-    engagement: 2346
-    commentsToLikes: 0.118973
+    followers: 3121
+    engagement: 2232
+    commentsToLikes: 0.127086
     id: ckc914lw0qy7t0j23zptz2tfx
     verified: false
-    hashtags: "#fyp, #game, #fy, #funn"
-  - username: "_vlogs_180"
-    fullname: >-
-      🧊
-    bio: >-
-      :)
-    location: "Switzerland"
-    followers: 2035
-    engagement: 2296
-    commentsToLikes: 0.083630
-    id: ckcztxmw75bnc0j23oc23j2d9
-    verified: false
-    hashtags: "#fy, #fyp, #foryou, #productive"
+    hashtags: "#lost, #foryoupage, #modelbahn, #fy"
   - username: "nina_eilish_"
     fullname: >-
-      je rends
+      💅🏻
     bio: >-
-      🥰ꪀ𝓲ꪀꪖ🥰 💚ᠻꪖꪀ ᦔꫀ ᥇𝓲ꪶꪶ𝓲ꫀ ꫀ𝓲ꪶ𝓲𝘴ꫝ🕷 ❤️🥺𝓽ꪊ ꫀ𝘴 ꪑꪖᧁꪀ𝓲ᠻ𝓲𝘲ꪊꫀ🥺❤️
+      ❤️
     location: "Switzerland"
-    followers: 9227
-    engagement: 2223
-    commentsToLikes: 0.107769
+    followers: 8836
+    engagement: 2050
+    commentsToLikes: 0.073672
     id: cka0tvchprlau0i78untd45qu
     verified: false
-    hashtags: "#duo, #fyp, #pourtoi, #tuprefere"
+    hashtags: "#duo, #fyp, #collage, #pourtoii"
+  - username: "kris8an.ch"
+    fullname: >-
+      Kris
+    bio: >-
+      NEW ACCOUNT: @kris8an
+    location: "Switzerland"
+    followers: 1200000
+    engagement: 1810
+    commentsToLikes: 0.017305
+    id: ckb9qil6imlmg0j23w9qkx6ly
+    verified: false
+    hashtags: "#voiceover, #outfit"
+  - username: "lucagmagic"
+    fullname: >-
+      Luca G
+    bio: >-
+      🎩 Magician (17) 📩 lucagmagic@gmx.ch 💚 just a kid with a dream... Links⬇️
+    location: "Switzerland"
+    followers: 474800
+    engagement: 1412
+    commentsToLikes: 0.127589
+    id: cka0wwzpu4o830i78gex1jzuu
+    verified: false
+    hashtags: "#gedankenlesen, #interaktiv, #illusion, #magie"
+  - username: "._.gxcha._.potato._"
+    fullname: >-
+      🤎🌻🥜ꪖꪑ ꪗꪮꪊ𝘳 ꪑꪮ𝓽ꫝꫀ𝘳 🥜🌻🤎
+    bio: >-
+      𝙼𝚢 𝚍𝚛𝚎𝚊𝚖 𝚒𝚜: 𝚃𝚘 𝚑𝚊𝚟𝚎 𝟷𝟶𝟶𝙺 ✨🍪
+    location: "Switzerland"
+    followers: 41800
+    engagement: 2464
+    commentsToLikes: 0.049876
+    id: ckcpslozhmxst0j23s326wlzv
+    verified: false
+    hashtags: "#foryou, #isupprtlgbtq, #trend, #capcut"
+  - username: "carpediem2407"
+    fullname: >-
+      Qırayisu Bé_Veng
+    bio: >-
+      ✌Kırmancki✌ 🕊İNSAN🕊 👉💍❤👶👈 EMPATİ İLE İNSAN;İNSANİ AYRICALIK TAŞIR
+    location: "Switzerland"
+    followers: 5049
+    engagement: 1859
+    commentsToLikes: 0.128570
+    id: ckahu99z3hkyv0i78b2qxmjaz
+    verified: false
+    hashtags: "#kitap, #aylins, #zazaca, #schweiz"
+  - username: "noadorian"
+    fullname: >-
+      Noa Dorian
+    bio: >-
+      🇨🇭YouTube:Noa. Instagram:Noa_Dorian pronoahirt@gmail.com ⬇️OFFRE CANAL+⬇️
+    location: "Switzerland"
+    followers: 1900000
+    engagement: 1782
+    commentsToLikes: 0.024476
+    id: ckamm4pl7z0600i78ed57zjdt
+    verified: true
+    hashtags: ""
 ---

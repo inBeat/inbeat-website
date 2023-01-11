@@ -1,130 +1,118 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Switzerland in 2023
+title: Top 10 Gymnasts TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top gymnasts TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #gymnastics #fyp #viral.
+  Find top gymnasts TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #fyp #viral #gymnastics.
 platform: TikTok
-hits: 12
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 12 TikTok influencers like this in Switzerland for you to pitch.
+hits: 9
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "hnrmchlgr"
     fullname: >-
       HMG
     bio: >-
-      🇨🇭 Gymnast 18
+      🇨🇭 Gymnast I love photography and filmmaking 18
     location: "Switzerland"
-    followers: 11100
-    engagement: 1182
-    commentsToLikes: 0.034379
+    followers: 11000
+    engagement: 1063
+    commentsToLikes: 0.043310
     id: ckcv18918nkuw0j23u9yapoen
     verified: false
-    hashtags: "#watch, #pain, #destruction, #handstand"
+    hashtags: "#sunset, #filmmaker, #xyzbca, #foryou"
   - username: "janina_koch"
     fullname: >-
       Janina💗💜💙
     bio: >-
-      🌈getumaitli🌈 ❤️switzerland-TG🏡 💛19y/o💚2oo1 kind💫 💙insta: ja7ni💜
+      🌈getumaitli🌈 ❤️switzerland-TG🏡 💛19y/o💚she/her💫 💙insta: ja7ni💜
     location: "Switzerland"
-    followers: 63400
-    engagement: 2086
-    commentsToLikes: 0.022144
+    followers: 80900
+    engagement: 1433
+    commentsToLikes: 0.029225
     id: ck80cq71cahfx0j78c1kg9p4w
     verified: false
-    hashtags: "#corona, #aerialhoop, #gymnastics, #school"
-  - username: "sportyme7"
-    fullname: >-
-      Aleeh🐢
-    bio: >-
-      Follow for more🤪💪🏽🤸🏽‍♀️ CEO of Hellouu🐢 #scoliosis I am Titanium🔩 M.💞💍
-    location: "Switzerland"
-    followers: 201200
-    engagement: 1092
-    commentsToLikes: 0.021844
-    id: ckb9g4y9z4xxd0j23yxj1314x
-    verified: true
-    hashtags: "#joke, #gymnastics, #scoliosis, #fun"
-  - username: "douncepack"
-    fullname: >-
-      douncepack
-    bio: >-
-      Just a flipping dude🤸🏻‍♂️🇨🇭 Feel free to follow Better flips on IG☝🏻
-    location: "Switzerland"
-    followers: 64500
-    engagement: 721
-    commentsToLikes: 0.033220
-    id: ckbwa8e0l01su0j233xeu5q5a
-    verified: false
-    hashtags: "#rip, #gymnastics, #duet, #foryou"
+    hashtags: "#swiss, #love, #gymnastics, #foryou"
   - username: "christelleacro"
     fullname: >-
       Christelleheitz
     bio: >-
       Force • Souplesse • Équilibre 🇨🇭SWITZERLAND YouTube : CHRISTELLE HEITZ
     location: "Switzerland"
-    followers: 385500
-    engagement: 1855
-    commentsToLikes: 0.003978
+    followers: 381100
+    engagement: 1814
+    commentsToLikes: 0.004024
     id: ck80nsesgedth0j78r13da9pr
     verified: false
-    hashtags: "#nature, #flexible, #pourtoi, #dance"
+    hashtags: "#nature, #gymnastik, #flexible, #gymnastick"
+  - username: "douncepack"
+    fullname: >-
+      douncepack
+    bio: >-
+      Feel free to follow
+    location: "Switzerland"
+    followers: 64300
+    engagement: 702
+    commentsToLikes: 0.024729
+    id: ckbwa8e0l01su0j233xeu5q5a
+    verified: false
+    hashtags: "#flip, #duet, #fail, #humor"
   - username: "lovelygirlaesthetic"
     fullname: >-
       ツ
     bio: >-
       aeѕтнeтιc🥰
     location: "Switzerland"
-    followers: 2340
-    engagement: 3824
-    commentsToLikes: 0.015438
+    followers: 2259
+    engagement: 3741
+    commentsToLikes: 0.014381
     id: ckbkxiw9ktl5m0j23smcs44di
     verified: false
-    hashtags: "#reality, #of, #aesthetic, #viral"
+    hashtags: "#viral, #foryoupage, #feauture, #reality"
   - username: "officalkatsuki"
     fullname: >-
       🍒🍒
     bio: >-
       Hey there 🤝 •ahestetic •edits
     location: "Switzerland"
-    followers: 9131
-    engagement: 1584
-    commentsToLikes: 0.006660
+    followers: 8835
+    engagement: 1552
+    commentsToLikes: 0.006689
     id: ck9n4t9yv5f3d0j78p88oyxxg
     verified: false
-    hashtags: "#foryou, #classof98, #vibecheck, #foryoupage"
-  - username: "iam.mister"
-    fullname: >-
-      Ivan Miguel
-    bio: >-
-      follow me for more😉 IG: iam.mister90 YouTube: Mister90 Snapchat: ivan_mi07
-    location: "Switzerland"
-    followers: 2135
-    engagement: 316
-    commentsToLikes: 0.028646
-    id: ckamst30jrpdi0i78bw7cr2lj
-    verified: false
-    hashtags: "#challenge, #game, #brasil, #tv"
+    hashtags: "#ahestic, #foryou, #foryoupage, #98"
   - username: "blendimustafa04"
     fullname: >-
       Blendi
     bio: >-
       🇨🇭🇦🇱🇽🇰 VD Montreux Snap : blendi.m Insta : blendii_m Dancer 🕺🏻
     location: "Switzerland"
-    followers: 3495
-    engagement: 294
-    commentsToLikes: 0.026388
+    followers: 4107
+    engagement: 342
+    commentsToLikes: 0.025265
     id: ckc1zf0tm37oi0j23vaorj6t3
     verified: false
-    hashtags: "#viral, #video, #challenge, #workout"
-  - username: "aleyna_191919"
+    hashtags: "#shqip, #shqiptar, #gym, #albanian"
+  - username: "karimheritier14"
     fullname: >-
-      🍟Aleyna🍟
+      Karim.Héritier
     bio: >-
-      17 ‼️Support eachother‼️
+      Just fun Scootering 🇨🇭Switzerland🇨🇭 Follow me on Instagram karimheritier14
     location: "Switzerland"
-    followers: 18500
-    engagement: 1668
-    commentsToLikes: 0.038216
-    id: ckb8zwwmifmfi0j23p1f3zjjf
+    followers: 2422
+    engagement: 1117
+    commentsToLikes: 0.071504
+    id: ckdncj1w8gmw70j23h9n2p7yo
     verified: false
-    hashtags: "#deutscht, #geschichte, #deutschland, #pommesgang"
+    hashtags: "#skatepark, #abc, #fyp, #foryou"
+  - username: "sendunion"
+    fullname: >-
+      Sendunion
+    bio: >-
+      Send it or get sent🚀 Use #sendunion to get featured! IG: sendunion
+    location: "Switzerland"
+    followers: 3291
+    engagement: 1065
+    commentsToLikes: 0.007231
+    id: ckbqlnvdm6q180j23zfbc1qtu
+    verified: false
+    hashtags: "#sendit, #fullsend, #fyp, #snowmobile"
 ---

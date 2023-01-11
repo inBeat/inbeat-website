@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Saudi Arabia in 2023
+title: Top 10 Instagram Influencers In Saudi Arabia In 2023
 description: >-
-  Find top Instagram influencers in Saudi Arabia in 2023. Most popular hashtags: #photography #riyadh #drawings.
+  Find top Instagram influencers in Saudi Arabia in 2023. Most popular hashtags: #ksa #draw #saudiarabia.
 platform: Instagram
-hits: 30
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 30 Instagram influencers like this in Saudi Arabia for you to contact.
+hits: 24
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 24 Instagram influencers like this in Saudi Arabia for you to pitch.
 profiles:
-  - username: "ak720"
-    fullname: >-
-      Ahmad Almalki
-    bio: >-
-      - Director / Editor / Photographer - akak702@hotmail.com - Saudi Arabia 🇸🇦
-    location: "Saudi Arabia"
-    followers: 157309
-    engagement: 191
-    commentsToLikes: 0.047000
-    id: ck15qoqxe3wl80i191c0gba0f
-    verified: false
-    hashtags: ""
-  - username: "dhay.xx"
-    fullname: >-
-      ضي | Dhay
-    bio: >-
-      #actress in #Riyadh ممثل# Business inquires: 📩 dhay.xxxx@gmail.com
-    location: "Saudi Arabia"
-    followers: 131879
-    engagement: 481
-    commentsToLikes: 0.020742
-    id: ck0u948n58xl50i19yxt0cu36
-    verified: false
-    hashtags: "#bbq, #mbc"
   - username: "nesmaelgoharyofficial"
     fullname: >-
       Nesma Elgohary نسمه الجوهرى
     bio: >-
-      Fashion Blogger TV presenter writer Scriptwriter
+      Fashion | Stylist | Travel | life style Your vision ترخيص اعلامى : 84947
     location: "Saudi Arabia"
-    followers: 539523
-    engagement: 28
-    commentsToLikes: 0.094319
+    followers: 4770149
+    engagement: 130
+    commentsToLikes: 0.012098
     id: ck0w4skli07cw0i1951n4i8a4
     verified: false
-    hashtags: "#outfits, #modanisa, #modanin, #nesmaelgohary"
-  - username: "yasiralsaggaf"
+    hashtags: "#pink, #dresses, #dress, #collage"
+  - username: "dhay.xx"
     fullname: >-
-      ياسر السقاف
+      ضي الهلالي | Dhay
     bio: >-
-      🇸🇦🇸🇦🇸🇦🇸🇦 مذيع برنامج "ذا فويس" على MBC
+      #ممثل #جيمر #صانعة_محتوى اول فيلم سينمائي #المرشحة_المثالية حكمتي في الحياة: اعيش يومي كأنه اخر يوم بحياتي CC: @galaxyracerdxb 🇸🇦معلومات اكثر عني👇
     location: "Saudi Arabia"
-    followers: 404315
-    engagement: 61
-    commentsToLikes: 0.031525
-    id: ck0w0e2qjdq7o0i192qedb9e7
-    verified: true
-    hashtags: "#redseacruise, #silverspiritcruise, #mbcthevoicesenior, #g20"
-  - username: "l.att1996"
-    fullname: >-
-      لُ ؤ ي | Luay
-    bio: >-
-      JIZ/KSA 🇸🇦 ‏ لطلبات التصوير دايركت 📥‏‏ ‏‏‏ iPhone photographer, By: iPhone X ‏ ‎‏ I’m Trying to capture the best moments
-    location: "Saudi Arabia"
-    followers: 6751
-    engagement: 2126
-    commentsToLikes: 0.342128
-    id: ck138iymlgg4e0i19xxnchxv3
+    followers: 119840
+    engagement: 231
+    commentsToLikes: 0.020794
+    id: ck0u948n58xl50i19yxt0cu36
     verified: false
-    hashtags: "#jizan, #goodmorning, #photography, #apple"
-  - username: "irashedz"
+    hashtags: "#dhay, #outfits, #fashion, #stayle"
+  - username: "ak720"
     fullname: >-
-      راشد | Rashed
+      Ahmad
     bio: >-
-      🇸🇦 Saudi Arabia 📷 iPhone 11 Pro 📷 iPhone 12 Pro #️⃣ #ShotoniPhone
+      - Director / Editor / Photographer - akak702@hotmail.com - Saudi Arabia 🇸🇦
     location: "Saudi Arabia"
-    followers: 18629
-    engagement: 1306
-    commentsToLikes: 0.064052
-    id: ck14hstwwbygd0i19hig25t7l
+    followers: 155176
+    engagement: 172
+    commentsToLikes: 0.038687
+    id: ck15qoqxe3wl80i191c0gba0f
     verified: false
-    hashtags: "#shotoniphone11pro, #iphone11pro, #everydaysaudi, #instagood"
+    hashtags: ""
   - username: "ad_nans"
     fullname: >-
       عدنان الروقي 🍂| Adnan alrougi
     bio: >-
-      -1999 -🇸🇦 ‏"كمن يحاول التوازن على أيام تترنح" كود ستايلي S51
+      -1999 -🇸🇦 - متجر رسم @artist_shop1 . كود الخصم AD5
     location: "Saudi Arabia"
-    followers: 50831
-    engagement: 1088
-    commentsToLikes: 0.084567
+    followers: 63250
+    engagement: 1055
+    commentsToLikes: 0.069377
     id: ck0w3jedjtpw80i19saw1fvz4
     verified: false
-    hashtags: "#eyedrawing, #drawing, #photography, #pencildrawing"
-  - username: "artist.ola"
+    hashtags: "#eyedrawing, #eyeofdrawing, #portrait, #draw"
+  - username: "yasiralsaggaf"
     fullname: >-
-      𝕃𝕆𝕃𝕆 🌸🎨
+      ياسر السقاف
     bio: >-
-      Drawing is another way to write notes..🕊 ﮼رَسّـــآَمـــةٰ ♡ ﮼الرسم،ليس،فن،فقط،بل،تفسير،ما،بداخلي ..🌈 17 year بداياتي بـ 2017 ما أستقبل طلبات رسم ‏🇸🇦
+      TV host @mbcthevoiceinsta
     location: "Saudi Arabia"
-    followers: 18643
-    engagement: 679
-    commentsToLikes: 0.066584
-    id: ck0w21oxsm7hu0i19c0fp59z1
+    followers: 406934
+    engagement: 53
+    commentsToLikes: 0.026851
+    id: ck0w0e2qjdq7o0i192qedb9e7
+    verified: true
+    hashtags: "#themaskedsinger, #mbcthevoicesenior, #thevoicesenior, #styledbyced"
+  - username: "irashedz"
+    fullname: >-
+      راشد | Rashed
+    bio: >-
+      🇸🇦 Saudi Arabia 📍 Riyadh 📷 iPhone #️⃣ #ShotoniPhone
+    location: "Saudi Arabia"
+    followers: 20699
+    engagement: 1011
+    commentsToLikes: 0.048199
+    id: ck14hstwwbygd0i19hig25t7l
     verified: false
-    hashtags: "#dailyart, #mydrawings, #artistola, #your"
+    hashtags: "#ramadanmubarak, #shotoniphone12promax, #dakarinsaudi, #saudi"
   - username: "ay111d"
     fullname: >-
       Aedh Yousef | عايض يوسف
     bio: >-
       فنان 🎤🇸🇦 ‏🐦: Ay12dy ‏👻: Ay11d ‏Management & Booking ( WhatsApp ): +966 55 873 8009 ‏#LuxuryKSA
     location: "Saudi Arabia"
-    followers: 1189278
-    engagement: 396
-    commentsToLikes: 0.058086
+    followers: 1156736
+    engagement: 192
+    commentsToLikes: 0.027365
     id: ck0w377oqrxjv0i19uwe9bkgb
     verified: true
-    hashtags: "#luxuryksa"
-  - username: "binzarah"
+    hashtags: ""
+  - username: "_sarathagafi"
     fullname: >-
-      Faisal Bin Zarah  فيصل بن زرعه
+      Sara Thagafi 📷♌️ سارة الثقفي
     bio: >-
-      أرى الجمال في كل مكان ☻ I see the beauty everywhere I go! ☻ 📩 faisal@fbinzarah.com 🇸🇦 Riyadh, Saudi Arabia #FBZdrone
+      Owner of @satagency 🤍 Portrait & Beauty Photographer Jeddah, KSA🇸🇦 • ‎للحجوزات : Whatsapp 🔹0544558518
     location: "Saudi Arabia"
-    followers: 44034
-    engagement: 387
-    commentsToLikes: 0.051054
-    id: ck15t0pjsfrgf0i19ullscazk
+    followers: 64645
+    engagement: 157
+    commentsToLikes: 0.029598
+    id: ck0u7wwhx5z100i198ch2w31r
+    verified: false
+    hashtags: ""
+  - username: "artist.ola"
+    fullname: >-
+      𝕃𝕆𝕃𝕆 🌸🎨
+    bio: >-
+      Drawing is another way to write notes..🕊 ﮼رَسّـــآَمـــةٰ ♡ ﮼الرسم،ليس،فن،فقط،بل،تفسير،ما،بداخلي 🌈 17 year بداياتي بـ 2017 ما أستقبل طلبات رسم ‏🇸🇦
+    location: "Saudi Arabia"
+    followers: 18650
+    engagement: 525
+    commentsToLikes: 0.061941
+    id: ck0w21oxsm7hu0i19c0fp59z1
+    verified: false
+    hashtags: "#artistola, #my, #your, #draw"
+  - username: "laaggi"
+    fullname: >-
+      Lina Alahmari - لينا الأحمري
+    bio: >-
+      Al Khobar 🇸🇦 Snapchat : laaggismakeup 📩 : Linalbfa1@hotmail.com 📞: 053 891 9447
+    location: "Saudi Arabia"
+    followers: 154863
+    engagement: 104
+    commentsToLikes: 0.082033
+    id: ck0u1vhjxy4ym0i19sfoztsw4
     verified: false
     hashtags: ""
 ---

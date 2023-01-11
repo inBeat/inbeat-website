@@ -1,108 +1,60 @@
 ---
-title: Top 10 Christian Instagram Influencers In Austria in 2023
+title: Top 10 Christian Instagram Influencers In Austria In 2023
 description: >-
-  Find top christian Instagram influencers in Austria in 2023. Most popular hashtags: #nature #austria #vienna #love.
+  Find top christian Instagram influencers in Austria in 2023. Most popular hashtags: #austria #feelaustria #vienna #love.
 platform: Instagram
-hits: 69
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 69 Instagram influencers like this in Austria for you to pitch.
+hits: 28
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 28 Instagram influencers like this in Austria for you to work with.
 profiles:
   - username: "christianschartner.at"
     fullname: >-
       Christian Schartner
     bio: >-
-      Captures experiences in Nature, mostly in Austria 🇦🇹 📷: Nikon Z 6 + D850 + Mavic 2 info@christian-schartner.at Ambassador 🥾 @merrelleu ⛷ @skiamade
+      Captures experiences in Nature, mostly in Austria 🇦🇹 📷: Nikon Z 7 II + Mavic 2 info@christian-schartner.at ⛷ @atomicski 🚠 @skiamade 🥾 @merrelleu
     location: "Austria"
-    followers: 22133
-    engagement: 226
-    commentsToLikes: 0.018930
+    followers: 22121
+    engagement: 181
+    commentsToLikes: 0.019586
     id: ck5c8qaava0nw0i11uxi6rc29
     verified: false
-    hashtags: "#nature, #autumn, #visitaustria, #crodadalago"
-  - username: "christiancarphunter83"
+    hashtags: "#snow, #mountains, #obertauern, #austria"
+  - username: "christianpipal"
     fullname: >-
-      ChristianCarphunter83
+      Christian Pipal
     bio: >-
-      Austria🇦🇹 Carplife Life is better at the bank♥️ Austrian Carphunter Catch&Release
+      📍 VIE | AMS, and all ⛰️ inbetween 😎 current mission: bringing back that hiking emoji
     location: "Austria"
-    followers: 6802
-    engagement: 1401
-    commentsToLikes: 0.048383
-    id: ckaou087gy7p30i78k80feivd
+    followers: 19811
+    engagement: 733
+    commentsToLikes: 0.024597
+    id: ckap5o58ycinq0i78m7v35bqj
     verified: false
-    hashtags: "#carpy, #carphunter, #thatscarpy, #selfmade"
-  - username: "christianhirschbuehl"
-    fullname: >-
-      Christian Hirschbühl
-    bio: >-
-      🇦🇹 alpine skier
-    location: "Austria"
-    followers: 18454
-    engagement: 1125
-    commentsToLikes: 0.004520
-    id: ck5hj8bdtg6st0i11wvjmeow2
-    verified: false
-    hashtags: "#polizeisport, #anotherbestday, #coldamaris, #bandofheroes"
-  - username: "christian___berger"
-    fullname: >-
-      Christian Berger
-    bio: >-
-      ☄️ Writer • Lecturer • Feminist Serious about radical social change
-    location: "Austria"
-    followers: 7866
-    engagement: 782
-    commentsToLikes: 0.033641
-    id: ck0txpllnk1f40i19103at780
-    verified: false
-    hashtags: "#truefruits, #omxkonferenz, #friendswithalotoftalent, #revolution"
-  - username: "christian.majcen"
-    fullname: >-
-      Christian Majcen
-    bio: >-
-      Nationalpark Gesäuse Fotograf 2020 I'm with pleasure in the nature 🌲. Austria 🇦🇹 , doglover 🐕, sunlover 🌞 Our earth is wonderful 🌱
-    location: "Austria"
-    followers: 23912
-    engagement: 1181
-    commentsToLikes: 0.063386
-    id: ck0u7wijl5x800i19ix87dagh
-    verified: false
-    hashtags: "#folknature, #loves, #landschaftsfotografie, #nationalgeographic"
-  - username: "christiananderl"
-    fullname: >-
-      Christian Anderl
-    bio: >-
-      🎈 Dad 📷 Photography & Film 👨🏻‍🎓@shootcamp.at founder ⬇️ Kostenlos starten ⬇️
-    location: "Austria"
-    followers: 19492
-    engagement: 561
-    commentsToLikes: 0.052614
-    id: ck6tlu5b76n7k0j71nmeioz2n
-    verified: true
-    hashtags: "#portrait, #familyfirst, #shootcamp, #inspiration"
-  - username: "christianbruggertv"
-    fullname: >-
-      CHRISTIAN BRUGGER
-    bio: >-
-      TV host @servustv 🤵📺 Sports presenter 🕺🎥 Sports commentator 🎤🎧 Sports aficionado 👻🤙 I am from Austria 🇦🇹🏔 • • • @motogp
-    location: "Austria"
-    followers: 7176
-    engagement: 906
-    commentsToLikes: 0.019415
-    id: ckaozx4h4nspg0i78crbrytyb
-    verified: false
-    hashtags: "#motogp, #austriangp, #aragon, #spain"
+    hashtags: "#natureonly, #mountainstories, #weroamaustria, #hiking"
   - username: "christian_kremser"
     fullname: >-
       Christian Kremser
     bio: >-
       🏠 Vienna, Austria 🇦🇹 Official creator for @visitaustria 📸 Member of @igersaustria.at 🎥 Working at @filmspektakel 📱 #withgalaxy
     location: "Austria"
-    followers: 15368
-    engagement: 879
-    commentsToLikes: 0.057619
+    followers: 16411
+    engagement: 1014
+    commentsToLikes: 0.046035
     id: ck8tdkcnx3nwk0j78tx9jruzh
     verified: false
-    hashtags: "#igersvienna, #love, #sunset, #viennanow"
+    hashtags: "#bestplacestogo, #awesome, #welivetoexplore, #igersvienna"
+  - username: "christianbruggertv"
+    fullname: >-
+      CHRISTIAN BRUGGER
+    bio: >-
+      TV host @servustv 🤵📺 Sports presenter 🕺🎥 Sports commentator 🎤🎧 Sports aficionado 👻🤙 I am from Austria 🇦🇹🏔 • • • @motogp
+    location: "Austria"
+    followers: 7464
+    engagement: 839
+    commentsToLikes: 0.016661
+    id: ckaozx4h4nspg0i78crbrytyb
+    verified: false
+    hashtags: "#powder, #winter, #friends, #skitouring"
   - username: "christian_binder_"
     fullname: >-
       Christian Binder Photography
@@ -114,17 +66,65 @@ profiles:
     commentsToLikes: 0.042898
     id: ck9wfwdw3qsox0j789xdmsfpi
     verified: false
-    hashtags: "#nikonphotos, #christianbinderphotography, #createyourlight, #photolovers"
-  - username: "bellagialla"
+    hashtags: "#hobbyfotografieren, #nikonphoto, #wasserspiele, #biene"
+  - username: "univienna"
     fullname: >-
-      VERONIKA RIEDL 🎤
+      Universität Wien
     bio: >-
-      Musical Actress / Singer based in 🇦🇹 𝖶𝗁𝖺𝗍𝗌𝖾𝗋𝗇𝖺𝗆𝖾 @𝖺𝗆𝖾𝗋𝗂𝖼𝖺𝗇𝗂𝖽𝗂𝗈𝗍𝗆𝗎𝗌𝗂𝖼𝖺𝗅 𝖲𝖺𝗇𝖽𝗒 @ #𝖦𝖱𝖤𝖠𝖲𝖤 𝖽𝖺𝗌 𝖬𝗎𝗌𝗂𝖼𝖺𝗅 @𝖻𝗋𝗈𝖺𝖽𝗐𝖺𝗒.𝗇𝗂𝗀𝗁𝗍𝗌
+      Offizieller Instagram-Account der Universität Wien/Official Instagram account for the University of Vienna.
     location: "Austria"
-    followers: 4670
-    engagement: 1612
-    commentsToLikes: 0.083217
-    id: ck8t3cflr2qpz0j783o6t7u00
+    followers: 34133
+    engagement: 312
+    commentsToLikes: 0.008589
+    id: ck5hp9p6oqzmr0i11xs7doyln
     verified: false
-    hashtags: "#stage, #photography, #loa, #quarant"
+    hashtags: "#homelearning, #univienna, #wirkstoffentwicklung, #takeover"
+  - username: "liensberger.katharina"
+    fullname: >-
+      Katharina Liensberger
+    bio: >-
+      Alpine Ski Racer ⛷🇦🇹 Ski fast, do what you love, let dreams come true- and you‘ll see that everything is possible.😍
+    location: "Austria"
+    followers: 70058
+    engagement: 1783
+    commentsToLikes: 0.008473
+    id: ck0w04mjiccw90i1955u529a8
+    verified: false
+    hashtags: "#believe, #letdreamscometrue, #achieve, #makeyourdayahappyday"
+  - username: "dominikagrnova"
+    fullname: >-
+      Dominika Grnova
+    bio: >-
+      Content Creator 👇🏼 👉🏼 @dominika_rides 🏍🏁 Host of the @redbullrookiescup 🎤🎬 Creator of @ladiesfirstintro 📚 Model Agencies @vnmodels 🇬🇷 @nextmodels 🇬🇧🇺🇸
+    location: "Austria"
+    followers: 37284
+    engagement: 143
+    commentsToLikes: 0.020174
+    id: ck5zo8whdq0vg0i14wk350yiy
+    verified: false
+    hashtags: "#redbull, #goodtimes, #austria, #enduro"
+  - username: "maryamzeb_"
+    fullname: >-
+      • Beauty • Fashion • Travel
+    bio: >-
+      Welcome to my world ✨ Chocoholic | Sucker for handbags | Lawyer 📍Vienna
+    location: "Austria"
+    followers: 7141
+    engagement: 1128
+    commentsToLikes: 0.117757
+    id: ckaoy48pgfzq90i78nzj3d5bv
+    verified: false
+    hashtags: "#outfitinspiration, #fashionblogger, #ootd, #veromoda"
+  - username: "alexandragorsche"
+    fullname: >-
+      ALEXANDRA GORSCHE
+    bio: >-
+      📓 Publisher of @falstaff.profi 💻 Owner of Genusspunkt 🗝 Specialist in hotel & tourism #madebygorsche #falstaffprofi #jegolifestyle #genusspunkt
+    location: "Austria"
+    followers: 24854
+    engagement: 222
+    commentsToLikes: 0.064146
+    id: ck8svtcxpcmag0j78uxrhd1at
+    verified: false
+    hashtags: "#water, #rezept, #jegolifestyle, #falstaffprofiatwork"
 ---

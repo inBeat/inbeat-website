@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In France in 2023
+title: Top 10 Nutrition Instagram Influencers In France In 2023
 description: >-
-  Find top nutrition Instagram influencers in France in 2023. Most popular hashtags: #picoftheday #fitness #workout #motivation.
+  Find top nutrition Instagram influencers in France in 2023. Most popular hashtags: #fitfrenchies #fitnessmotivation #nutrition #gymmotivation.
 platform: Instagram
-hits: 280
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 280 Instagram influencers like this in France for you to contact.
+hits: 334
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database has 334 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "antonella_seco"
+  - username: "karenmattar"
     fullname: >-
-      
+      Karen Mattar  كارن مطر
     bio: >-
-      ✧ Lille ✧ Photographie • Santé • Nutrition • Fitness ✧ 2ème année de Naturopathie ✉ : Antonellaseco12@gmail.com
+      I empower you to be the BEST version of yourself. Personalized training & nutrition via MotivNation or DM for 1:1 online coaching. Athlete womensBest
     location: "France"
-    followers: 2276
-    engagement: 3967
-    commentsToLikes: 0.090406
-    id: ckap5yvx0dqwl0i781tt8ey21
+    followers: 156212
+    engagement: 151
+    commentsToLikes: 0.017906
+    id: ck14lk6eev3mt0i19ux5okwka
+    verified: true
+    hashtags: "#vacation, #health, #flexibility, #yoga"
+  - username: "tiboinshape"
+    fullname: >-
+      Tiboinshape
+    bio: >-
+      🇫🇷 #TeamShape 👕T-shirt & matériel sport @teamshape 🥞 Complément alimentaire @inshapenutrition 📱Application Sport-Nutrition @shapeyou ⤵️
+    location: "France"
+    followers: 5052934
+    engagement: 135
+    commentsToLikes: 0.011487
+    id: ck139riftms8u0i192lg4qfjo
+    verified: true
+    hashtags: "#teamshape"
+  - username: "mitenkakaiya"
+    fullname: >-
+      Miten Says Fitness (MSF)
+    bio: >-
+      Come learn Everyday Nutrition and Fitness with me.✨ Coached 8000+ Clients ❌Boring Diets! ❌Burnouts! #MSF #MitenSays Early Bird Offer ⬇️
+    location: "France"
+    followers: 60354
+    engagement: 64
+    commentsToLikes: 0.016652
+    id: ck602nw17i7el0i14hh6g6euy
     verified: false
-    hashtags: "#canonportrait, #pursuitofportraits, #photographersandmodels, #lillemaville"
+    hashtags: "#msf, #mitensays, #mitensaysfitness, #miten"
+  - username: "aromazone_officiel"
+    fullname: >-
+      AROMA-ZONE
+    bio: >-
+      🌿 Bien-être : Huiles essentielles & nutrition 🌿 Beauté & Maison : produits 100% naturels Des producteurs jusqu’à vous 🇫🇷 Vaucluse, France
+    location: "France"
+    followers: 360328
+    engagement: 46
+    commentsToLikes: 0.074056
+    id: ck9h9mlzl92v40j78pybi9ygh
+    verified: false
+    hashtags: "#diy, #aromazone, #huilesessentielles, #aromatherapie"
   - username: "kilianhagen"
     fullname: >-
       Kilian Hagen
     bio: >-
-      YouTube: Kilian Hagen (100K abonnés) ⬇ Pour les coachings personnalisés kilianhagen.be Diététicien-nutritionniste diplômé et coach sportif Team SP
+      YT: Kilian Hagen (115K abonnés) Diététicien-nutritionniste diplômé et coach sportif Suivis 100% personnalisés Mes compléments @nutrimuscle Team SP
     location: "France"
-    followers: 18727
-    engagement: 916
-    commentsToLikes: 0.031466
+    followers: 19501
+    engagement: 879
+    commentsToLikes: 0.041777
     id: ck6u6mupkgj4w0j71p47jkofg
     verified: false
-    hashtags: "#teamhagen"
-  - username: "leo.cressant"
+    hashtags: "#teamhagen, #christmas, #xmas"
+  - username: "priscilla.toussaint"
     fullname: >-
-      Léo | Travel ~ Fitness
+      Priscilla
     bio: >-
-      🌎 French | Content Creator | Model 🎗 Certified Fitness Coach 📍 Nice, France 📩 contact@leocressant.com 👇🏻 Fitness & Nutrition Coaching
+      Perte -27 kg 🍰Recette healthy @team.nutrition.france : priss10 ♥️Musculation & Lifestyle 💑 @jrmy_fat_killer 💵 @liam_conceptstore : PRISCILLA10 (-10%)
     location: "France"
-    followers: 159905
-    engagement: 764
-    commentsToLikes: 0.018916
-    id: ck0ttkiiu34si0i1920lxgbsx
+    followers: 7961
+    engagement: 941
+    commentsToLikes: 0.123530
+    id: ck8tcqnxm0b2b0j783md2b4au
     verified: false
-    hashtags: "#menstyle, #fitnessgoals, #outfitstyle, #menwithstyle"
+    hashtags: "#fitfood, #fitnessmodel, #fitnessgirl, #petitdejeuner"
   - username: "val_fitmood"
     fullname: >-
       Valérie
     bio: >-
-      Mariée 3enfants Bordeaux/France 👉 Fitness 🏋️‍♀️ Yoga 🧘‍♀️🙆‍♀️ Cardio 🏃‍♀️ Nature 🍃 Nutrition 🥗 Musique 🎶 Bienveillance 💜, Only good feelings please !
+      Mariée 3enfants Bordeaux/France 👉 Fitness 🏋️‍♀️ Running/Cardio 🏃‍♀️ Nature 🍃 Nutrition 🥗 Musique 🎶 Bienveillance 💜, Only good feelings please !
     location: "France"
-    followers: 12581
-    engagement: 748
-    commentsToLikes: 0.075271
+    followers: 13274
+    engagement: 713
+    commentsToLikes: 0.124730
     id: ck8t60cnbbt3t0j78ng1qwgmk
     verified: false
-    hashtags: "#mangermieux, #runningmotivation, #shape, #yoga"
-  - username: "maggy_allmusculation"
+    hashtags: "#sport, #musculation, #naturelovers, #positivevibes"
+  - username: "leo.cressant"
     fullname: >-
-      Maggy Allmusculation 🇫🇷🇺🇸🇦🇺
+      Léo Cressant
     bio: >-
-      Préparation compétition bodybuilding bikini ⁣ ▪️Online coach⁣ 🍏⁣ ▪️Musculation, nutrition, santé ⁣ 🏋🏼‍♂️⁣ ▪️@maggys.heart⁣ 🎨⁣ YouTube‼️@allmusculation
+      🌎 Photography | Model 📍 France 🎗 Athlete @bodyandfit_fr | LEO10 👇🏻 Certified Fitness & Nutrition Coach
     location: "France"
-    followers: 8578
-    engagement: 1393
-    commentsToLikes: 0.034028
+    followers: 190347
+    engagement: 445
+    commentsToLikes: 0.024026
+    id: ck0ttkiiu34si0i1920lxgbsx
+    verified: false
+    hashtags: "#mensphysique, #ibizastyle, #boattrip, #boatlife"
+  - username: "kailacw_"
+    fullname: >-
+      ⓚⓐⓘⓛⓐ ⓒⓛⓐⓨⓟⓞⓞⓛ-ⓦⓞⓞⓓ 🌻
+    bio: >-
+      CrossFit Addict🏋️‍♀️ B.S. in Health Fitness & Recreation 📜 Minor in nutrition🥑 Personal trainer certified 💪🏼 Substitute teacher K-12 🍎 Neko & nala 🐾🦴
+    location: "France"
+    followers: 8468
+    engagement: 995
+    commentsToLikes: 0.057199
+    id: ck55n6a7s5koh0i11mwtyi0xl
+    verified: false
+    hashtags: "#bowmargiveaway, #livelife, #gympost, #gymbeast"
+  - username: "maggy_letsbikini"
+    fullname: >-
+      Coach sportif en ligne l Maggy
+    bio: >-
+      🏋🏻 Programme sportif ⁣⁣ 🍳 Plan nutritionnelle ⁣⁣ 👩🏼‍💻 Suivi personnalisé ⁣⁣ Contacte moi pour + d’infos
+    location: "France"
+    followers: 9323
+    engagement: 628
+    commentsToLikes: 0.042965
     id: ck5q7vxhz3asq0i1187h94axf
     verified: false
-    hashtags: "#teamallmusculation, #musculation, #fitwoman, #gymlife"
-  - username: "kayla_nevius"
-    fullname: >-
-      Ｋａｙｌａ
-    bio: >-
-      ᖴIᔕᕼIᑎG🎣 ᕼᑌᑎTIᑎG🏹 ᖴITᑎEᔕᔕ💪🏻 @RealtreeOutdoors @DsgHunt @DsgFish @Backcountryfuel @accubow @Bowmar_Nutrition | Code: KAYLA Links/Codes ⇩ ⇩ ⇩
-    location: "France"
-    followers: 36525
-    engagement: 249
-    commentsToLikes: 0.063882
-    id: ck14k2yqfnh2g0i192z2z4h3e
-    verified: false
-    hashtags: "#happy, #flexfriday, #photooftheday, #fitfam"
-  - username: "patrycjaslaby_"
-    fullname: >-
-      Patrycja Słaby
-    bio: >-
-      WORLD CHAMPION 18🥇19🥈ARNOLD CLASSIC 19🥇 🧝🏼‍♀️OLIMP TEAM @olimp_sport_nutrition CODE:pslaby 💋 @carpatree CODE:patrycjaslaby 📨patrycja.slabyy@gmail.com
-    location: "France"
-    followers: 52438
-    engagement: 756
-    commentsToLikes: 0.014209
-    id: ck0vy1e491rdw0i19oe9inlbg
-    verified: false
-    hashtags: "#quality, #carpatreewomen, #olimpteam, #gym"
-  - username: "lauriedouceur"
-    fullname: >-
-      Laurie Côté
-    bio: >-
-      Qc | 📷 Enthusiastic Food Blogger and rituals | Cozy vibes only ☁️ Recettes ici : www.lauriedouceur.com 🍶 Nutritionniste anti-diète ⚖️
-    location: "France"
-    followers: 26025
-    engagement: 255
-    commentsToLikes: 0.065267
-    id: ck5zq2s7gttvc0i147whkoj23
-    verified: false
-    hashtags: "#croustadeauxpommes, #kamrette, #rituals, #canadareels"
-  - username: "andresriospt"
-    fullname: >-
-      Andres Felipe
-    bio: >-
-      Amsterdam 📍🌎 Personal Trainer Lifestyle Coach | Nutrition Advice 🇳🇱🇨🇴🇺🇸
-    location: "France"
-    followers: 245298
-    engagement: 1042
-    commentsToLikes: 0.010805
-    id: ck0ttpyj63sow0i192ja2imbi
-    verified: false
-    hashtags: "#luxurytravel, #fitlife, #motivation, #labrador"
-  - username: "lexie.fit"
-    fullname: >-
-      Lexie ||  Coach  & Athlète.
-    bio: >-
-      ▪️ PROZIS -> -10% code LEXIE (@prozis) ▪️Coach en Nutrition & diététicienne diplômée. ▪️ Athlète bikini. Demande de coaching & consultations ⬇️
-    location: "France"
-    followers: 19661
-    engagement: 280
-    commentsToLikes: 0.077492
-    id: ck9hb4x22feur0j78vzk1sjgn
-    verified: false
-    hashtags: "#roadto2023, #fit, #fitnessaddict, #motivation"
+    hashtags: "#competition, #life, #musculation, #confinement"
 ---

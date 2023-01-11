@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Poland in 2023
+title: Top 10 Cinema Instagram Influencers In Poland In 2023
 description: >-
-  Find top cinema Instagram influencers in Poland in 2023. Most popular hashtags: #cinematography #illustration #cinema4d #realismag.
+  Find top cinema Instagram influencers in Poland in 2023. Most popular hashtags: #cinematography #portrait #cinematic #photographer.
 platform: Instagram
-hits: 82
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 82 Instagram influencers like this in Poland for you to collaborate.
+hits: 66
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 66 Instagram influencers like this in Poland for you to work with.
 profiles:
   - username: "benedict_spence_dop"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       Cinematographer. Londoner. Mumbler. Represented by @vision.artists U.S. drama @innovativeartists
     location: "Poland"
-    followers: 38045
-    engagement: 754
-    commentsToLikes: 0.021608
+    followers: 38694
+    engagement: 729
+    commentsToLikes: 0.021251
     id: ck5c0z0i0u4ft0i11ztekc224
     verified: false
     hashtags: "#inmyskin"
@@ -25,36 +25,36 @@ profiles:
     bio: >-
       Photographer | Cinematographer | Based in Warsaw, Poland | Contact: zrodlowskiszymon@gmail.com |
     location: "Poland"
-    followers: 14003
-    engagement: 774
-    commentsToLikes: 0.014742
+    followers: 13506
+    engagement: 798
+    commentsToLikes: 0.013761
     id: ck5bzemg0qzpf0i1157qpcxdo
     verified: false
-    hashtags: "#kwiatkowski, #gmaster, #a7riv, #sonyalpha"
+    hashtags: "#gmaster, #sony, #poland, #warsaw"
   - username: "pawelzalejski"
     fullname: >-
       P A W E Ł  Z A L E J S K I
     bio: >-
-      Cinematographer and Photographer Ambasador Zhiyun Voigtlander Support Focus Nordic F-stop Lexar Peakdesign 🏠 Podhale
+      Cinematographer and Photographer Ambasador Zhiyun And Voigtlander 🏠 Kościelisko
     location: "Poland"
-    followers: 23241
-    engagement: 597
-    commentsToLikes: 0.020353
+    followers: 23101
+    engagement: 561
+    commentsToLikes: 0.019885
     id: ck8swkhdbee3n0j78435klnw6
     verified: false
-    hashtags: "#tatrymountains, #podr, #tatrasadventures, #podrozemaleiduze"
+    hashtags: "#tatrymountains, #tatry360, #tatrywysokie, #tatrasadventures"
   - username: "giepetv"
     fullname: >-
       GRZEGORZ PΛJΛK
     bio: >-
-      Cinematographer / Photographer @szczyrkaido @beerduro www.giepe.tv
+      Cinematographer / Photographer @szczyrkaido @beerduro www.giepe.tv Link:
     location: "Poland"
-    followers: 5775
-    engagement: 806
-    commentsToLikes: 0.036915
+    followers: 6845
+    engagement: 573
+    commentsToLikes: 0.036941
     id: ck6u9c3yqwoq90j711oplwywi
     verified: false
-    hashtags: "#ourcamplife, #roamtheplanet, #shooting, #lifeofadventure"
+    hashtags: "#exploremore, #nepal, #roamtheplanet, #spain"
   - username: "stashek_horodecki"
     fullname: >-
       Stanisław Horodecki
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.008759
     id: ck0w5w12o5p6s0i192itx2jmc
     verified: false
-    hashtags: "#onbooooooom, #verybusymag, #ifyouleave, #weltraumzine"
+    hashtags: "#imaginarymagnitude, #gominimalmag, #verybusymag, #takemagazine"
   - username: "kiszka.ziemniaczana"
     fullname: >-
       Ewelina co robi super krupnik
     bio: >-
       Gotuj ze mną na story, zanim ci zwiędną kalafiory! ✨100 zapisanych przepisów w wyróżnionych relacjach ✨ i cała masa zwariowanych obrazków poniżej 🎥
     location: "Poland"
-    followers: 12722
-    engagement: 918
-    commentsToLikes: 0.075311
+    followers: 13321
+    engagement: 823
+    commentsToLikes: 0.065663
     id: ck9wddti2f6xz0j782p75wplw
     verified: false
-    hashtags: "#coreczkimamusi, #napla, #discoveredit, #creativevideo"
-  - username: "danielremian"
+    hashtags: "#inspiracje, #launchdsigns, #wsypialni, #apricotmagazine"
+  - username: "arcadiusmauritzofficial"
     fullname: >-
-      DANIEL REMIAN
+      Arcadius Mauritz
     bio: >-
-      Nocturnal animal. ⚡
+      Commercial + Art 📸🎥 Education 👨🏻‍🏫 PL/ENG/FR 🌍 #staycinematic 👁#coffeelover ☕️ 📩 hello@arcadius.co Ambassador @olympus_polska @peakdesignpl WORKSHOP
     location: "Poland"
-    followers: 8908
-    engagement: 1229
-    commentsToLikes: 0.031260
-    id: ck0w1d8yzis780i193pkccut1
+    followers: 15260
+    engagement: 239
+    commentsToLikes: 0.064536
+    id: ck0ueetzvl4t40i19j46izoar
     verified: false
-    hashtags: "#n8zine, #apricotmagazine, #onearthmagazine, #espritmag"
-  - username: "wes_cream"
+    hashtags: "#portraitshooterz, #polskifotograf, #womeninframe, #staycinematic"
+  - username: "krol.jpg"
     fullname: >-
-      Wes L Cockx
+      Mateusz Król
     bio: >-
-      ▪️Illustration, Typography & Motion ▪️Brooklyn, NYC 🇺🇸/🇧🇪 ▪️Inquiries on wes@cream3d.com ▪️NO DM please ▪️Image licensing @avant_form ▪️Prints on:
+      3d artist based in 🇵🇱 Warsaw available for freelance 🌎 contact: 📩 me@mateuszkrol.com
     location: "Poland"
-    followers: 20771
-    engagement: 399
-    commentsToLikes: 0.018578
-    id: ck8t3a2h92hs30j786kyc1z3a
+    followers: 7358
+    engagement: 538
+    commentsToLikes: 0.038327
+    id: ck0u74grr3pn00i19iaw6pz9p
     verified: false
-    hashtags: "#magicfabricblog, #supersequential, #redshift, #c4d"
+    hashtags: "#3d, #colors, #instaart, #art"
+  - username: "nil_powar_96"
+    fullname: >-
+      ColouredLensStudio
+    bio: >-
+      ɪɴᴅɪᴀ | ᴍᴀʜᴀʀᴀsʜᴛʀᴀ कोल्हापुरी🍃 ɪᴛ'ꜱ ᴀʟʟ ᴀʙᴏᴜᴛ ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ📸 ▪ᴋɪᴅs👶🏻 ▪ᴘᴏʀᴛʀᴀɪᴛs😎 ▪ᴘʀᴇ ᴡᴇᴅᴅɪɴɢs ▪ғᴏᴏᴅs🍽️ ▪ᴀʀᴛs🎨 #nileshpowarphotography @nilesh_powar_09
+    location: "Poland"
+    followers: 34281
+    engagement: 321
+    commentsToLikes: 0.021355
+    id: ck5bxm7wynzi00i11ih0frl5p
+    verified: false
+    hashtags: "#kids, #babybunny, #babyprops, #weddingcinematography"
   - username: "motionhead"
     fullname: >-
       Charlie Rizek
     bio: >-
-      TRINITY|Steadicam|Camera Op ARRI CSS specialist 🇬🇧UK based - works globally 🌍
+      TRINITY|Steadicam|Camera Op ARRI CSS specialist Trinity operator @1917 🇬🇧UK based - works globally 🌍
     location: "Poland"
-    followers: 3604
-    engagement: 1199
-    commentsToLikes: 0.050026
+    followers: 5814
+    engagement: 967
+    commentsToLikes: 0.040181
     id: ck5hpm1bxrky90i1134xgwqwt
     verified: false
-    hashtags: "#cameraoperator, #arritrinityoperator, #trinity, #arriminilf"
-  - username: "krol.jpg"
-    fullname: >-
-      Mateusz Król
-    bio: >-
-      3d artist based in 🇵🇱 Warsaw available for freelance 🌎 contact: 📩 me@mateuszkrol.com
-    location: "Poland"
-    followers: 7322
-    engagement: 535
-    commentsToLikes: 0.039131
-    id: ck0u74grr3pn00i19iaw6pz9p
-    verified: false
-    hashtags: "#abstract, #cgi, #octane, #3dart"
+    hashtags: "#oneshot, #georgemackay, #trinityoperator, #filmmaking"
 ---

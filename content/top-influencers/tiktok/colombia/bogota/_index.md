@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Bogotá in 2023
+title: Top 10 TikTok Influencers In Bogotá In 2023
 description: >-
-  Find top TikTok influencers in Bogotá in 2023. Most popular hashtags: #colombia #fyp #parati.
+  Find top TikTok influencers in Bogotá in 2023. Most popular hashtags: #parati #colombia #foryoupage.
 platform: TikTok
-hits: 92
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 92 TikTok influencers like this in Bogotá, Colombia for you to contact.
+hits: 93
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 93 TikTok influencers like this in Bogotá, Colombia for you to collaborate.
 profiles:
   - username: "angelavela100"
     fullname: >-
@@ -18,91 +18,79 @@ profiles:
     commentsToLikes: 0.090453
     id: ckbamapl5d7wv0j23ebo3d1p8
     verified: false
-    hashtags: "#caragraciosa, #tuneldeltiempo"
-  - username: "youjuand"
+    hashtags: "#tuneldeltiempo, #caragraciosa"
+  - username: "youjuandita"
     fullname: >-
       ✨Youjuand✨
     bio: >-
       📍Bogotá, Colombia Instagram: YouJuand🤍
     location: "Colombia"
-    followers: 262400
-    engagement: 2453
-    commentsToLikes: 0.020725
+    followers: 268700
+    engagement: 2192
+    commentsToLikes: 0.020943
     id: ck9fppc5e8h0d0j78r8adxgb5
     verified: false
-    hashtags: "#fyp, #foryou, #colombia, #omegle"
-  - username: "juanka_suarez"
-    fullname: >-
-      Juan Suárez Rivas
-    bio: >-
-      Me gusta bailar 😬🕺🏼🏳️‍🌈 Hablemos por Instagram 📸 Bogotá, Colombia 🇨🇴👋🏼
-    location: "Colombia"
-    followers: 80400
-    engagement: 1219
-    commentsToLikes: 0.050770
-    id: ckbwcl3kx0ygb0j23y9qi2e8n
-    verified: false
-    hashtags: "#fyp, #foryou, #dance, #jeans"
+    hashtags: ""
   - username: "gersonsarmientooficial"
     fullname: >-
       Gerson Leonardo Sarm
     bio: >-
       Preparador de Modelos Director Creativo Wo&men agency Bogotá-Colombia 3208939025
     location: "Colombia"
-    followers: 4615
-    engagement: 723
-    commentsToLikes: 0.124522
+    followers: 4577
+    engagement: 710
+    commentsToLikes: 0.114541
     id: ckb9lgg16dz680j23a0zju0th
     verified: false
-    hashtags: "#venezuela, #viral, #parati, #ecuador"
+    hashtags: "#argentina, #puertorico, #viral, #ecuador"
+  - username: "ortodonciadianaburbano"
+    fullname: >-
+      ORTODONCIA DIANA BURBANO
+    bio: >-
+      Odontóloga-Ortodoncista 🇨🇴 Bogota 📍 Instagram @ortodonciadianaburbano❤️
+    location: "Colombia"
+    followers: 434500
+    engagement: 1166
+    commentsToLikes: 0.011423
+    id: ckan4sbqbbkep0i7803jl6xsd
+    verified: false
+    hashtags: "#bogota, #brackets, #ortodoncistabogota, #colombia"
+  - username: "juanka_suarez"
+    fullname: >-
+      Juan Suárez Rivas
+    bio: >-
+      Me gusta bailar 😬🕺🏼🏳️‍🌈 Hablemos por Instagram 📸 Bogotá, Colombia 🇨🇴👋🏼
+    location: "Colombia"
+    followers: 88500
+    engagement: 1406
+    commentsToLikes: 0.027613
+    id: ckbwcl3kx0ygb0j23y9qi2e8n
+    verified: false
+    hashtags: "#trend, #foryoupage, #fyp, #parati"
   - username: "mikesandovaloficial"
     fullname: >-
       Mike Sandoval
     bio: >-
       📍 Bogotá - Colombia 🇨🇴 Hey Sígueme en mi Instagram @MikeSandovaloOficial
     location: "Colombia"
-    followers: 25300
-    engagement: 1578
-    commentsToLikes: 0.029287
+    followers: 27900
+    engagement: 1550
+    commentsToLikes: 0.021773
     id: ckb9i5bc38atq0j23ka8h6mn5
     verified: false
-    hashtags: "#parati, #loserschallenge, #tiktok, #impresionado"
-  - username: "jorgerunza"
+    hashtags: "#foryou, #lentejas, #imitaelemoji, #love"
+  - username: "soyleocuellar"
     fullname: >-
-      Jorge David Runza Gualdron
+      Leonardo Cuéllar
     bio: >-
-      Mi vida en micro-momentos 🎞️ 🇨🇴 Bogotá, Colombia IG: Jorgerunza
+      SIGUEME EN 📸 IG: @leocuellarfit Fitness life 🏋️🏋️🏋️ 📍 Bogotá - Colombia
     location: "Colombia"
-    followers: 8500
-    engagement: 1661
-    commentsToLikes: 0.025021
-    id: ckb9ix50r9pnn0j230aqvrg8z
+    followers: 99500
+    engagement: 1162
+    commentsToLikes: 0.027957
+    id: ckbb9kkrqyn4q0j23f5srom3g
     verified: false
-    hashtags: "#gatostiktok, #cat, #catoftiktok, #catsoftiktok"
-  - username: "kevingranados60"
-    fullname: >-
-      Kevin Granados
-    bio: >-
-      Bogotá - Colombia Follow me IG @granadoskevin
-    location: "Colombia"
-    followers: 87700
-    engagement: 874
-    commentsToLikes: 0.018141
-    id: ckb9pyowmlgla0j238ffn5qol
-    verified: false
-    hashtags: "#poderlatinosalsashow, #dad, #salsadance, #salsa"
-  - username: "camilo.gamba"
-    fullname: >-
-      camilo.gamba
-    bio: >-
-      Model-publicist Instagram: @camilo.gamba 📍Bogota-Colombia 🇨🇴
-    location: "Colombia"
-    followers: 1000000
-    engagement: 1312
-    commentsToLikes: 0.010164
-    id: ck9eockzynkiv0j78aq92nr2q
-    verified: false
-    hashtags: "#greenscreen, #police, #loserschallenge, #duo"
+    hashtags: "#tiktokcolombiaoficial, #tiktokcolombia, #parati, #foryoupage"
   - username: "luisaesguerra.daza"
     fullname: >-
       𝙻𝚞𝚒𝚜𝚊 𝙳𝚊𝚣𝚊 𓆉
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.011186
     id: ckdi66poi7hai0j23qayifnbt
     verified: false
-    hashtags: "#nosoy, #yoenlafiesta, #tuneldeltiempo, #greenscreen"
-  - username: "nicolcotacio"
+    hashtags: "#greenscreen, #nosoy, #yoenlafiesta, #tuneldeltiempo"
+  - username: "jonathaa20"
     fullname: >-
-      Nicol Cotacio
+      Jonathan Cardozo
     bio: >-
-      17📍Bogota,Colombia instagram: nicolvanessacc Parezco de 14 pero tengo 17
+      VENEZUELA💛💙❤ in Bogotá Modelo✨
     location: "Colombia"
-    followers: 24600
-    engagement: 1039
-    commentsToLikes: 0.022381
-    id: ckamgiv9vc19d0i78wsrt8vr9
+    followers: 6266
+    engagement: 1182
+    commentsToLikes: 0.031215
+    id: ckan6dnijjdep0i783jwd12k6
     verified: false
-    hashtags: "#dance, #fyp, #baile, #tuneldeltiempo"
+    hashtags: "#sigueme, #models, #foryoupage, #missuniverso"
+  - username: "kevingranados60"
+    fullname: >-
+      Kevin Granados
+    bio: >-
+      Bogotá - Colombia Follow me IG @granadoskevin
+    location: "Colombia"
+    followers: 89100
+    engagement: 770
+    commentsToLikes: 0.015428
+    id: ckb9pyowmlgla0j238ffn5qol
+    verified: false
+    hashtags: "#salsachoke, #dad, #pap, #padre"
 ---

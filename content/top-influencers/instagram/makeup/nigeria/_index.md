@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Nigeria in 2023
+title: Top 10 Makeup Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top makeup Instagram influencers in Nigeria in 2023. Most popular hashtags: #makeup #explorepage #endsars #melanin.
+  Find top makeup Instagram influencers in Nigeria in 2023. Most popular hashtags: #explorepage #beauty #makeup.
 platform: Instagram
-hits: 117
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 117 Instagram influencers like this in Nigeria for you to connect with.
+hits: 68
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 68 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
   - username: "feyisoge"
     fullname: >-
       LAGOS MAKEUP ARTIST
     bio: >-
-      CONTENT CREATOR | BEAUTY INFLUENCER I DO MAKEUP COMMERCIALLY💕 PR/Paid Promo📥 thefeyisoge@gmail.com I DON’T MAKE REFUNDS🙂 T&C APPLY #makeupartist
+      CONTENT CREATOR | BEAUTY INFLUENCER COMMERCIAL MUA| TV/MOVIE MAKEUP ARTIST SISTER BRAND: @nailsbyfeyisoge 💅🏽💕 PR/Paid AD📥 thefeyisoge@gmail.com
     location: "Nigeria"
-    followers: 9334
-    engagement: 768
-    commentsToLikes: 0.123766
+    followers: 9894
+    engagement: 533
+    commentsToLikes: 0.115717
     id: ckaovei4549hz0i78ekofwlkz
     verified: false
-    hashtags: "#weddingdress, #birthdaygirl, #bellanaijaweddings, #entrepreneur"
-  - username: "omollara"
+    hashtags: "#makeupforwoc, #bridalglam, #muainlagos, #asoebibella"
+  - username: "__joiee_"
     fullname: >-
-      ⓄⓂⓄⓁⒶⓇⒶ Obafemi || Entrepren”
+      •chide•
     bio: >-
-      GOD💖 ▫️YOUTUBER || FASHION DESIGNER || MAKEUP ARTIST || FOODIE ▫️PSYCHOLOGIST🎓 ▫️BUSINESS ACC @marbsplace ▫️TWITTER- @omollara_ 📍Visit my YT channel👇🏽
+      09/29🎊 🇳🇬 MAKEUP Artist Business page @joieeslook "Be humble. Be kind. Be grateful"
     location: "Nigeria"
-    followers: 2779
-    engagement: 840
-    commentsToLikes: 0.126749
-    id: ck5q9p0quc8ze0i11eifkgehh
+    followers: 1921
+    engagement: 1636
+    commentsToLikes: 0.118066
+    id: ck8szwm0jpzi10j781wfv2pw5
     verified: false
-    hashtags: "#endswat, #endpolicebrutality, #stayhome, #endsars"
+    hashtags: "#africa, #voguechallenge, #gratefulheart, #endsars"
   - username: "leemarh_"
     fullname: >-
       Bamidele Halima
     bio: >-
       🔶Muslimah 🔸Proud Chemist 🔸Pro Makeup Artist 🎨 @ara__grande 🔸Fashion Designer💃🏼💃🏼💃🏼 🔸Face Model 😎😎
     location: "Nigeria"
-    followers: 13019
-    engagement: 1147
-    commentsToLikes: 0.047110
+    followers: 13263
+    engagement: 1111
+    commentsToLikes: 0.051417
     id: ck15qtox14lcu0i1957ru7sx4
     verified: false
-    hashtags: "#dontrushchallenge, #makeupbrushchallenge"
-  - username: "bhenee_benita"
+    hashtags: "#makeupbrushchallenge, #thebsaffairs21, #dontrushchallenge"
+  - username: "omollara"
     fullname: >-
-      Samuel-chukwudi Benita
+      ⓄⓂⓄⓁⒶⓇⒶ Obafemi || Entrepren”
     bio: >-
-      🧸Cruise Mistress👑☺️ 🧸Check my reels 🧸01-06 🤍Professional makeup artist @bglowofficial 🤍Business lady ❤️ To work with me send a dm
+      GOD💖 ▫️YOUTUBER || FASHION DESIGNER || MAKEUP ARTIST || FOODIE ▫️PSYCHOLOGIST🎓 ▫️BUSINESS ACC @marbsplace ▫️TWITTER- @omollara_ 📍Visit my YT channel👇🏽
     location: "Nigeria"
-    followers: 4174
-    engagement: 1418
-    commentsToLikes: 0.087913
-    id: ckf5sl1njfqzg0j23x5hqiqy0
+    followers: 2770
+    engagement: 794
+    commentsToLikes: 0.122348
+    id: ck5q9p0quc8ze0i11eifkgehh
     verified: false
-    hashtags: "#beautyinfluencer, #fashioninfluencer, #reels, #exploring"
+    hashtags: "#indomie, #stayhome, #staysafe, #endsars"
+  - username: "artistrybyzee"
+    fullname: >-
+      ARTISTRYBYZEE
+    bio: >-
+      •Award Winning MUA🇳🇬 •@abz_luxe My Baby #1 •Abuja Bridal Makeup Artist •MAKEUP TRAINING @abzmakeupstudio •Ambassador @ryamblushes
+    location: "Nigeria"
+    followers: 12550
+    engagement: 450
+    commentsToLikes: 0.098445
+    id: ck134jwr5wslw0i19l109nf0q
+    verified: false
+    hashtags: "#shimycatsmua, #africantribes, #whenarafatmetrukky, #makeupartistry"
+  - username: "getdivastouch"
+    fullname: >-
+      Dymond💎
+    bio: >-
+      JMGMT/DYMOND MGMT🏆 Artist: @iamjehkai @richboydomo @ricandamenace @anisathereal Owner of :@divastouchboutique Celeb hair/wardrobe/makeup
+    location: "Nigeria"
+    followers: 525535
+    engagement: 289
+    commentsToLikes: 0.007688
+    id: ckap7o3e8ktpl0i786pgvxikw
+    verified: false
+    hashtags: "#atlmansion, #majorkey, #smokeandmirrors, #bk"
+  - username: "gng_makeupartistry"
+    fullname: >-
+      Glam and Glow Makeupartistry
+    bio: >-
+      BEAUTY INFLUENCER/MAKEUP ARTIST STUDIO ( BY APPOINTMENT ONLY ) NO REFUND ❌ For bookings pls call 08056050580
+    location: "Nigeria"
+    followers: 69334
+    engagement: 672
+    commentsToLikes: 0.015003
+    id: ck0w0w090gawu0i199mk1sqjz
+    verified: false
+    hashtags: "#explorepage, #melaninmakeupdaily, #makeupartistinnigeria, #lovegraphic"
   - username: "lhidhiastanley"
     fullname: >-
       LYDIA STANLEY 🦋
     bio: >-
-      CIVIL ENGINEER | BEAUTY INFLUENCER | DIGITAL CONTENT CREATOR. 📩 LHIDHIASTANLEY@GMAIL.COM 📍NIGERIA 🇳🇬 GET YOUR MAKEUP DONE @lhidhiastanley_studio
+      BEAUTY INFLUENCER | DIGITAL CONTENT CREATOR | CIVIL ENGINEER 📩 LHIDHIASTANLEY@GMAIL.COM 📍NIGERIA 🇳🇬 GET YOUR MAKEUP DONE @lhidhiastanley_studio
     location: "Nigeria"
-    followers: 67643
-    engagement: 593
-    commentsToLikes: 0.093869
+    followers: 68463
+    engagement: 575
+    commentsToLikes: 0.051065
     id: ck15ptj6rzjut0i19mt8joqe2
     verified: false
-    hashtags: "#nigerianinfluencer, #makeupformelaningirls, #melaninmakeup, #bretmansvanity"
+    hashtags: "#nigerian, #wakeupandmakeup, #lhidhiastanley, #bellanaijaweddings"
   - username: "the.kohh"
     fullname: >-
       K O H H✨
     bio: >-
-      | Makeup Artist| Beauty Influencer💄🎬| Youtuber🧧( The Kohh) PR And PROMOTIONS : DM @ENERGYTHALABEL #endsarsnow . Checkout my YouTube Channel⬇️
+      Makeup Artist ( @_makeupbykohh) Beauty Influencer💋 Mad Content Creator✨ PR And PROMOTIONS : Send a Dm @ENERGYTHALABEL . Check my YouTube Channel⬇️
     location: "Nigeria"
-    followers: 7625
-    engagement: 875
-    commentsToLikes: 0.140741
+    followers: 9535
+    engagement: 1030
+    commentsToLikes: 0.106520
     id: ck6u5sp64bi920j7150cfssgc
     verified: false
-    hashtags: "#makeupartist, #makeuplife, #makeupoftheday, #eyeshadowtutorial"
-  - username: "amehhaa"
-    fullname: >-
-      Ameha Gurung
-    bio: >-
-      Hi, I do makeup, hair and make videos . Watch my latest YouTube videos
-    location: "Nigeria"
-    followers: 5694
-    engagement: 792
-    commentsToLikes: 0.015632
-    id: ck1347zmmv5yb0i19andwfzxv
-    verified: false
-    hashtags: ""
+    hashtags: "#eyeshadowtutorial, #explore, #beautybloggers, #beautyinfluencer"
   - username: "tdollsmakeovers"
     fullname: >-
       Tdollsmakeovers
     bio: >-
-      🔸Makeup Artist and Educator . 🔸Global makeup artist 🌎 🔸The vision: EMPOWER , EDUCATE , EQUIP 🔸+2348051091245
+      🔸Makeup Artist and Educator . 🔸Global makeup artist 🌎 🔸The vision: EMPOWER , EDUCATE , EQUIP 🔸+2348051091245 🚫norefund
     location: "Nigeria"
-    followers: 122594
-    engagement: 41
-    commentsToLikes: 0.018859
+    followers: 128136
+    engagement: 87
+    commentsToLikes: 0.024642
     id: ck14kkmk4pz4d0i1904jlxroi
     verified: false
-    hashtags: "#weddingdigestnaija, #itwillendinpraise, #nolimitforever, #traditionalbeads"
-  - username: "beautebyliz"
-    fullname: >-
-      Elizabeth Aliyu
-    bio: >-
-      •Beauty influencer 🇳🇬🇨🇦 •Makeup Artist •Content Creator •Personal @elizaliyu •Mom to @zayaaliyu •Business/PR-> elizaliyu@gmail.com •#beautebyliz
-    location: "Nigeria"
-    followers: 23500
-    engagement: 814
-    commentsToLikes: 0.151797
-    id: ck6u804v7ontu0j714yusm5ob
-    verified: false
-    hashtags: "#makeupfanatic1, #foryoupage, #makeup, #makeupslaves"
-  - username: "bybronx"
-    fullname: >-
-      𝐑𝐎𝐍𝐊𝐄 𝐁𝐎𝐃𝐀𝐌𝐈𝐒𝐈 | 𝐈𝐍𝐅𝐋𝐔𝐄𝐍𝐂𝐄𝐑
-    bio: >-
-      👑 Brand Influencer | Content Creator 🇳🇬 💄Makeup • Hair • Lifestyle 🏋️‍♀️Weightloss Expert @bybronxweightlossclass ⬇️My YouTube | Weightloss Guide 👇
-    location: "Nigeria"
-    followers: 93817
-    engagement: 149
-    commentsToLikes: 0.047232
-    id: ck13ay86qsrrn0i196jdc2b7e
-    verified: false
-    hashtags: "#makeupvideo, #makeovergeek, #makeupartist, #bybronx"
+    hashtags: "#makeup, #itwillendinpraise, #accolades, #bellanaijaweddings"
 ---

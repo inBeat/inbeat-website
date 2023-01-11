@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs TikTok Influencers In United Kingdom in 2023
+title: Top 10 Chefs TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top chefs TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #recipe #learnontiktok #food.
+  Find top chefs TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #chef #learnontiktok.
 platform: TikTok
-hits: 83
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 83 TikTok influencers like this in United Kingdom for you to contact.
+hits: 81
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 81 TikTok influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "dillow24"
+  - username: "andipandi2410"
     fullname: >-
-      Dree
+      Andi
     bio: >-
       🏴󠁧󠁢󠁳󠁣󠁴󠁿 FIFER, SINGER, CHEF, MASSAGE THERAPIST PROUD MUM! 💙❤️💙
     location: "United Kingdom"
-    followers: 9104
-    engagement: 2068
-    commentsToLikes: 0.105086
+    followers: 11400
+    engagement: 1922
+    commentsToLikes: 0.129430
     id: ckacs8glt8ykj0i78ch3tavlk
     verified: false
-    hashtags: "#30s, #funny, #fyp, #scottish"
-  - username: "18keeno82"
+    hashtags: "#lol, #homemade, #foodtiktok, #fyp"
+  - username: "bubba_ice"
     fullname: >-
-      Keeno
+      BUBBA ICE
     bio: >-
-      Thrusting chef 🕺 Don't take me seriously 🤡 #MentalHealthMatters
+      ENTREPRENEUR | CHEF | SCORPIO Will@84world.com
     location: "United Kingdom"
-    followers: 106200
-    engagement: 972
-    commentsToLikes: 0.077732
-    id: ckcehppispm120j23tkcwwkle
-    verified: false
-    hashtags: "#lockdown2, #justforfun, #stalker, #athrustadaykeepsthebadvibesaway"
+    followers: 1300000
+    engagement: 1079
+    commentsToLikes: 0.024767
+    id: ck8ores73bxlr0j78fxdb0gc5
+    verified: true
+    hashtags: "#fyp, #streetstyle, #sugarcrash, #skills"
   - username: "deanstirling"
     fullname: >-
       deanstirling
     bio: >-
       Snapchat; deanstirling139 Ex chef🔥
     location: "United Kingdom"
-    followers: 29400
-    engagement: 1567
-    commentsToLikes: 0.022782
+    followers: 29300
+    engagement: 1421
+    commentsToLikes: 0.022524
     id: ckck2axo6lnpe0j23vdt9ponr
     verified: false
     hashtags: "#foryou"
-  - username: "temp_tation"
-    fullname: >-
-      David Templer
-    bio: >-
-      “Shirtless Chef Boiii” Full recipes on Instagram CEO of loops #TheShirtlessChef
-    location: "United Kingdom"
-    followers: 372500
-    engagement: 845
-    commentsToLikes: 0.020432
-    id: ck81s3qx4prv40j78hsbaomp6
-    verified: true
-    hashtags: "#ukfood, #recipe, #theshirtlesschef, #tempstips"
   - username: "missmpillow"
     fullname: >-
       missMpillow
     bio: >-
       🌈 7 personalities by choice Food and Hair #PillowCakes <- bake off Chef
     location: "United Kingdom"
-    followers: 85900
-    engagement: 1624
-    commentsToLikes: 0.009933
+    followers: 85700
+    engagement: 1457
+    commentsToLikes: 0.008863
     id: ck7zofzwcjp6w0j78yop51ye9
     verified: false
-    hashtags: "#foryoupage, #art, #lgbt, #foryou"
+    hashtags: "#scrapdress, #flowers, #handmadedress, #foryou"
+  - username: "jmearcher23"
+    fullname: >-
+      Jamie Archer
+    bio: >-
+      Using this account for live cook alongs until @the_hip_hop_chef reaches 1k
+    location: "United Kingdom"
+    followers: 45300
+    engagement: 705
+    commentsToLikes: 0.075661
+    id: ck9sm56twhjrg0j78fvj5wd2h
+    verified: false
+    hashtags: "#duet"
+  - username: "poppycooks"
+    fullname: >-
+      Poppy O’Toole
+    bio: >-
+      Michelin-trained chef making food EASY FRICKIN PEASY 🤤 📩Email + recipes on IG
+    location: "United Kingdom"
+    followers: 1400000
+    engagement: 1220
+    commentsToLikes: 0.011516
+    id: ckcj5ajwr5luj0j23ng6ie7zi
+    verified: true
+    hashtags: "#masterclass, #potatoes, #learnontiktok, #80potatoes"
+  - username: "mrnigelng"
+    fullname: >-
+      Nigel Ng (Uncle Roger)
+    bio: >-
+      Comedian. Full videos on my YouTube ⬆️ ⬇️ ⬇️Review Chef Wang’s egg fried rice
+    location: "United Kingdom"
+    followers: 1900000
+    engagement: 1485
+    commentsToLikes: 0.007780
+    id: ck8ndrfn0kbal0j78sjc5yfpd
+    verified: true
+    hashtags: "#uncleroger, #unclerodger, #eggfriedrice, #duet"
   - username: "thomashinds"
     fullname: >-
       Thomas Hinds
     bio: >-
       Positing mainly Xbox game clips 🎮 Biker 🏍 Chef 🥘 Guitar & Lyrics 🎸🎶
     location: "United Kingdom"
-    followers: 3356
-    engagement: 558
-    commentsToLikes: 0.027308
+    followers: 3345
+    engagement: 646
+    commentsToLikes: 0.019179
     id: ckc3964b3xtw70j23f72ogr7n
     verified: false
-    hashtags: "#gta5online, #gta5, #hiinds, #fy"
-  - username: "oneminutemeals"
+    hashtags: "#codclips, #cod, #blopscw, #codmw"
+  - username: "thaifoodqueen"
     fullname: >-
-      OneMinuteMeals
+      Kc 
     bio: >-
-      Pretty much what it says on the tin. Not an actual chef😅 Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+      Thai Chef & Business owner 🇹🇭 👩🏻‍🍳 Follow for recipes 🥢
     location: "United Kingdom"
-    followers: 52600
-    engagement: 552
-    commentsToLikes: 0.017221
-    id: ck8adicxu6g6m0j7822lwb6i0
+    followers: 4991
+    engagement: 474
+    commentsToLikes: 0.054875
+    id: cka0nii5szx2b0i78onjb3kwx
     verified: false
-    hashtags: "#cooking, #veggie, #asmrsounds, #tiktokuniversity"
-  - username: "poppy_cooks"
-    fullname: >-
-      poppy_cooks
-    bio: >-
-      Michelin-trained chef making cooking EASY FRICKIN’ PEASY 🤤❤️ 📩DM on Instagram
-    location: "United Kingdom"
-    followers: 58600
-    engagement: 821
-    commentsToLikes: 0.018288
-    id: ckcj5ajwr5luj0j23ng6ie7zi
-    verified: false
-    hashtags: "#fyp, #foodie, #chocolate, #whatieatinaday"
+    hashtags: "#thaifood, #foodtiktok, #nature, #cooking"
   - username: "chef_pillai"
     fullname: >-
       Chef_pillai
     bio: >-
       Corporate Chef, Raviz Hotels | BBC MasterChef UK ഇൻസ്റ്റയിൽ ഒന്ന് നോക്കൂട്ടോ..
     location: "United Kingdom"
-    followers: 205000
-    engagement: 656
-    commentsToLikes: 0.005612
+    followers: 205100
+    engagement: 654
+    commentsToLikes: 0.005565
     id: ckaieuwr1tznb0i78vxwdgkpd
     verified: true
-    hashtags: "#tiktokindia, #tiktokchef, #chef, #tiktokfoodie"
-  - username: "theocooks"
-    fullname: >-
-      theomichaels
-    bio: >-
-      Theo Michaels Chef | Dad Instagram @theocooks More vids on YouTube ⬆️ #theocooks
-    location: "United Kingdom"
-    followers: 3335
-    engagement: 435
-    commentsToLikes: 0.027054
-    id: ck9dpizxvw48f0j78mmcblkgc
-    verified: false
-    hashtags: "#theocooks, #foryou, #viral, #fyp"
+    hashtags: "#tiktokindia, #chef, #keralafood, #tiktokfoodie"
 ---

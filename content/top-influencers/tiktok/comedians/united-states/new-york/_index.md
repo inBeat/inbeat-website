@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians TikTok Influencers In New York in 2023
+title: Top 10 Comedians TikTok Influencers In New York In 2023
 description: >-
-  Find top comedians TikTok influencers in New York in 2023. Most popular hashtags: #fyp #nyc #newyork #duet.
+  Find top comedians TikTok influencers in New York in 2023. Most popular hashtags: #comedy #comedian #fyp #stitch.
 platform: TikTok
-hits: 42
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 42 TikTok influencers like this in New York, United States for you to connect with.
+hits: 36
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 36 TikTok influencers like this in New York, United States for you to work with.
 profiles:
   - username: "constantlygus"
     fullname: >-
       Gus Constantellis
     bio: >-
-      Stand up comedian in NYC! Greek, gay, New Yorker! Book me on Cameo!
+      Greek, gay, native New Yorker comedian! Link to purchase merch below:
     location: "United States"
-    followers: 21900
-    engagement: 1420
-    commentsToLikes: 0.044306
+    followers: 81900
+    engagement: 1283
+    commentsToLikes: 0.034712
     id: ckahwlq65rger0i78olml03mp
     verified: false
-    hashtags: "#longnameproblems, #greekamerican, #greektiktok, #greekcomedy"
+    hashtags: "#greek, #storytimevideos, #greekamerican, #recipesoftiktok"
+  - username: "toripiskin"
+    fullname: >-
+      toripiskin
+    bio: >-
+      Comedian and everyday life vlogs
+    location: "United States"
+    followers: 52400
+    engagement: 989
+    commentsToLikes: 0.024905
+    id: ckauwu8ej27a60j23d4mkoa60
+    verified: false
+    hashtags: "#datingstories, #autoimmunedisease, #autoimmune, #healthvlog"
   - username: "montygeer"
     fullname: >-
       Monty Geer
     bio: >-
       Actor 👉🏻 IG: MontyGeer
     location: "United States"
-    followers: 213200
-    engagement: 1452
-    commentsToLikes: 0.081253
+    followers: 211600
+    engagement: 1312
+    commentsToLikes: 0.067347
     id: ckbw98g66znrl0j2377zx59xe
     verified: true
-    hashtags: "#montygeer, #losangeles, #standup, #standupcomedian"
-  - username: "darkskindrizzy"
+    hashtags: "#skipthedishes, #standupcomedian, #vancouver, #toronto"
+  - username: "jazzyj100"
     fullname: >-
-      JAMÀLY
+      Jasmine Robinson165
     bio: >-
-      ARTIST/COMEDIAN 😂 LATINO ✊🏿✊🏾✊🏽✊🏼✊🏻 IG @JAMALYBELLO 🇵🇦🇨🇷 PANAMEÑO
+      NEW YORK🗽 18|🏳️‍🌈 www.youtube.com/HoodKidzProject
     location: "United States"
-    followers: 25200
-    engagement: 1665
-    commentsToLikes: 0.122673
-    id: ckahun5s9j53l0i78wdcs4en8
+    followers: 10100
+    engagement: 2371
+    commentsToLikes: 0.039356
+    id: ckceiwhqjref60j23s4abevto
     verified: false
-    hashtags: "#puertorican, #black, #dominican, #afrolatino"
-  - username: "rufatcamp"
+    hashtags: "#loki, #viral, #fyp, #marvelstudios"
+  - username: "edward_eop18"
     fullname: >-
-      Rufat Agayev
+      L🚨T🚨N🇺🇸🇵🇷🇵🇷🇵🇷🇭🇳💰
     bio: >-
-      Stand Up Comedian - Rufat Agayev Co-Host of Worst of Both Worlds on YouTube
+      🙌New York City 🗽 followme 🙌travel 🧭 never stop your dreams 💪✅❤️💯
     location: "United States"
-    followers: 26700
-    engagement: 1343
-    commentsToLikes: 0.038782
-    id: ckb9jgc5oaobt0j23g0rv8ffn
+    followers: 25900
+    engagement: 795
+    commentsToLikes: 0.065957
+    id: ck982lod8gmdh0j78tfd7czlj
     verified: false
-    hashtags: "#biden2020, #worstofbothworlds, #comedy, #bathhouseboris"
-  - username: "seanbarryparsons"
+    hashtags: "#tiktok, #texas, #puertorico, #love"
+  - username: "heyitscaitlincook"
     fullname: >-
-      Sean Barry Parsons
+      Caitlin Cook
     bio: >-
-      Sean with an E Comedian/Performer I never said I was a role model...
+      Musician / Comedian / Artist Also @candidbanditmusic More on IG & YT 👇 Merch 👇
     location: "United States"
-    followers: 79500
-    engagement: 1790
-    commentsToLikes: 0.021638
-    id: ck9fb39ridn8p0j78h4vvkgu9
+    followers: 84500
+    engagement: 2317
+    commentsToLikes: 0.023801
+    id: ckbf5bqviu5vm0j23gowe8grh
     verified: false
-    hashtags: "#accents, #socialites, #satire, #brooklyn"
-  - username: "getbuckets_et"
+    hashtags: "#lgbt, #song, #pride, #livemusic"
+  - username: "thatdaneshguy"
     fullname: >-
-      ET
+      Danesh
     bio: >-
-      NYC 🗽💫 KING OF QUEENS 👑 💯 HOOPER | COMEDIAN | LIVING GOAT GET ME TO 50K‼️📈
+      -Comedian- He/him Follow for Daily Content! Links and Resources 👇🏾
     location: "United States"
-    followers: 43200
-    engagement: 1100
-    commentsToLikes: 0.038656
-    id: ckcdsx0ngdka30j23jl6kvrzl
+    followers: 114700
+    engagement: 1792
+    commentsToLikes: 0.083443
+    id: ckd654qyu2pcx0j235kbp51a8
     verified: false
-    hashtags: "#bronx, #tiktok, #mlb, #nyc"
-  - username: "jack4747"
+    hashtags: "#lgbtqia, #stitch, #trump, #cancelcultureisnotreal"
+  - username: "gbrillon80"
     fullname: >-
-      jack
+      Gina Brillon 
     bio: >-
-      Stand-up Comedian long form comedy and stand up on instagram He him
+      Comedian, writer, actress
     location: "United States"
-    followers: 8303
-    engagement: 1175
-    commentsToLikes: 0.033782
-    id: ckcje2f4saa7p0j23cm8bro1j
-    verified: false
-    hashtags: "#duet, #brooklyn, #sharktank, #talltok"
-  - username: "donnmagicjuan"
+    followers: 165000
+    engagement: 1239
+    commentsToLikes: 0.049765
+    id: ckc3dxr4iz6sf0j23fal0zfog
+    verified: true
+    hashtags: "#comedy, #babyboy, #mom, #ginabrillon"
+  - username: "jennyzigrino"
     fullname: >-
-      donnmagicjuan
+      JennyZigrino
     bio: >-
-      thanks for 100k 🤩 comedian consistently inconsistent
+      Stand up Comedian Super star Add me on Instagram! Jennyzigrino.com
     location: "United States"
-    followers: 108400
-    engagement: 1710
-    commentsToLikes: 0.024045
-    id: ckan2lqbv116l0i781k67j168
+    followers: 61000
+    engagement: 1351
+    commentsToLikes: 0.025902
+    id: ck8zazs7s3m670j78b28a88u7
     verified: false
-    hashtags: "#greenscreen, #perspective, #burrata, #existentialcrisis"
-  - username: "mattduckettcomedy"
+    hashtags: "#comedians, #comedian, #standupcomedy, #comedy"
+  - username: "alingonmitra"
     fullname: >-
-      Matt Duckett
+      comic Alingon Mitra
     bio: >-
-      26 Half Black Comedian. BLM. Thanks for 40K!
+      The World’s Most Famous Comedian. Also, host of The Daily Too podcast. ⬇️MORE⬇️
     location: "United States"
-    followers: 40300
-    engagement: 1764
-    commentsToLikes: 0.010716
-    id: ckcv8ys9vqlzo0j23fd7nt5hb
+    followers: 69400
+    engagement: 1857
+    commentsToLikes: 0.014433
+    id: ckbfewnta9aet0j23kpiw8q85
     verified: false
-    hashtags: "#maga, #lol, #fyp, #college"
-  - username: "flyjae"
-    fullname: >-
-      FLYJaE
-    bio: >-
-      Dominican 🇩🇴 Actor/’ Comedian/Rapper..Uptown NYC-LA✈️ ‘ 🙏🏽
-    location: "United States"
-    followers: 9269
-    engagement: 664
-    commentsToLikes: 0.110544
-    id: ckbfatvha2iqg0j23x8x2o3c3
-    verified: false
-    hashtags: "#dominicano, #parati, #fyp, #dominicantiktok"
+    hashtags: "#jokes, #thedaily, #comedian, #michaelbarbaro"
 ---

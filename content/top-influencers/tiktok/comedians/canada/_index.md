@@ -1,84 +1,60 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Canada in 2023
+title: Top 10 Comedians TikTok Influencers In Canada In 2023
 description: >-
-  Find top comedians TikTok influencers in Canada in 2023. Most popular hashtags: #comedy #duet #funny #fyp.
+  Find top comedians TikTok influencers in Canada in 2023. Most popular hashtags: #comedy #fyp #duet #stitch.
 platform: TikTok
-hits: 60
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 60 TikTok influencers like this in Canada for you to work with.
+hits: 50
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 50 TikTok influencers like this in Canada for you to connect with.
 profiles:
-  - username: "shitzophreniaa"
-    fullname: >-
-       kenzie
-    bio: >-
-      Comedian
-    location: "Canada"
-    followers: 306600
-    engagement: 2580
-    commentsToLikes: 0.010911
-    id: ckcei8fb9qd780j23nep2jjd7
-    verified: false
-    hashtags: "#duet, #greenscreen, #halloweenlook, #fanedit"
-  - username: "thegrimmworkshop"
-    fullname: >-
-      TheGrimmWorkshop
-    bio: >-
-      Artist, terrible comedian If your under 13 don’t interact Discord server below:
-    location: "Canada"
-    followers: 64700
-    engagement: 2782
-    commentsToLikes: 0.059500
-    id: ck90zeef2dlyd0j78yuvpugct
-    verified: false
-    hashtags: "#nerfgun, #lol, #anyways, #alternative"
-  - username: "dalescomedy"
-    fullname: >-
-      Dale Ward
-    bio: >-
-      Comedian + Artist insta: @dalethward ⬆️
-    location: "Canada"
-    followers: 190700
-    engagement: 1590
-    commentsToLikes: 0.034481
-    id: ckahyj8plzkhj0i7833fnclib
-    verified: false
-    hashtags: "#halloween, #storytime, #joke, #funny"
-  - username: "joelvanvliet"
-    fullname: >-
-      Joel van Vliet
-    bio: >-
-      Singer/songwriter/comedian/podcaster/multi-hyphenate/photographer/plant-guy/etc.
-    location: "Canada"
-    followers: 2471
-    engagement: 926
-    commentsToLikes: 0.120372
-    id: ckbqq63saay2x0j23ue0gqjoa
-    verified: false
-    hashtags: "#chipmunks, #fypage, #fyp, #xyzbca"
   - username: "blindguycomedy"
     fullname: >-
       Blind guy comedy
     bio: >-
       Visually Challenged Canadian Comedian. Positivity rules!
     location: "Canada"
-    followers: 31500
-    engagement: 963
-    commentsToLikes: 0.061155
+    followers: 43800
+    engagement: 1273
+    commentsToLikes: 0.066693
     id: ckajk9xvcp9y20i78hlghjrpz
     verified: false
-    hashtags: "#storys, #standupcomedy, #alberta, #hollowed"
+    hashtags: "#beingblind, #pets, #catlife, #cat"
   - username: "sicko2005"
     fullname: >-
       Sicko
     bio: >-
       Actor | Dancer | Comedian | Parkour | Dwayne Wilson | Toronto, CA 🇨🇦
     location: "Canada"
-    followers: 244700
-    engagement: 1612
-    commentsToLikes: 0.122148
+    followers: 258700
+    engagement: 1940
+    commentsToLikes: 0.244670
     id: ck8fa2xv43zpq0j78kx3cdwrb
     verified: true
-    hashtags: "#actor, #duet, #tutting, #canada"
+    hashtags: "#comedy, #duet, #toronto, #canada"
+  - username: "dalescomedy"
+    fullname: >-
+      Dale Ward
+    bio: >-
+      Comedian + Artist insta: @dalethward ⬆️
+    location: "Canada"
+    followers: 208600
+    engagement: 1458
+    commentsToLikes: 0.044238
+    id: ckahyj8plzkhj0i7833fnclib
+    verified: false
+    hashtags: "#comedy, #joke, #goofy, #funny"
+  - username: "joelvanvliet"
+    fullname: >-
+      Joel van Vliet
+    bio: >-
+      Singer/songwriter/comedian/podcaster/multi-hyphenate/photographer/plant-guy/etc.
+    location: "Canada"
+    followers: 2453
+    engagement: 913
+    commentsToLikes: 0.116482
+    id: ckbqq63saay2x0j23ue0gqjoa
+    verified: false
+    hashtags: "#chipmunks, #keepingitcute, #chipmunk, #fyp"
   - username: "cringekev"
     fullname: >-
       Cringe Kev
@@ -90,41 +66,65 @@ profiles:
     commentsToLikes: 0.036334
     id: ck90r2c2kktgx0j78fv2tcwgq
     verified: false
-    hashtags: "#news, #podcast, #comedian, #lol"
-  - username: "izzykayeh"
+    hashtags: "#america, #toronto, #republican, #fyp"
+  - username: "everydayalex"
     fullname: >-
-      Izzy Kaye
+      Alex Biron
     bio: >-
-      🇨🇦🇵🇭🇪🇸🇱🇧🏳️‍🌈 Actor/Comedian/Writer by day IG: @izzykayeh Acting Tips✌️
+      🌎 Comedian Mean Streak Podcast
     location: "Canada"
-    followers: 120400
-    engagement: 2583
-    commentsToLikes: 0.014252
+    followers: 544000
+    engagement: 1828
+    commentsToLikes: 0.016379
+    id: ckb9edsfi1z1z0j23p3kap5s8
+    verified: false
+    hashtags: "#story, #joke, #fyp, #dating"
+  - username: "isabelkanaan"
+    fullname: >-
+      Isabel Kanaan
+    bio: >-
+      Actor/Comedian/Writer Acting Tips! ✌️ New on YouTube please subscribe 🥰
+    location: "Canada"
+    followers: 187900
+    engagement: 1900
+    commentsToLikes: 0.013846
     id: ck8tprgtdqksm0j78lv452jos
     verified: false
-    hashtags: "#tips, #comedy, #acting, #trend"
-  - username: "squirtyleflow"
+    hashtags: "#comedy, #philippines, #tagalog, #actor"
+  - username: "astral.shieldmaiden"
     fullname: >-
-      squirtyleflow
+      Quartz 
     bio: >-
-      Music Producer Composer Comedian Voiceover Artist Video/Sound Editor
+      ❕18+❕ 🇨🇦🇭🇺Comedian/Weirdo/Artist/Aspiring Tattooist✨ Follow my insta
     location: "Canada"
-    followers: 5933
-    engagement: 840
-    commentsToLikes: 0.102399
-    id: ckbqj3dn648zt0j23dup88dho
+    followers: 7995
+    engagement: 875
+    commentsToLikes: 0.079825
+    id: ck9bxqjommqc00j78bagzqa59
     verified: false
-    hashtags: "#humourqc, #humourquebec, #fyp, #tiktokquebec"
+    hashtags: "#conspiracy, #stepbystep, #health, #truth"
   - username: "paulloduca"
     fullname: >-
       Paul Loduca
     bio: >-
-      The Handsome Ugly Face Maker. Comedian-ish/Actor Comedy Duo @paulstellacomedy
+      The Handsome Ugly Face Maker. Comedian/Actor @paulstellacomedy @neverestmusic
     location: "Canada"
-    followers: 121300
-    engagement: 932
-    commentsToLikes: 0.068896
+    followers: 122300
+    engagement: 869
+    commentsToLikes: 0.139575
     id: ck8ttlwvms2aa0j78f6l4wd7j
     verified: false
-    hashtags: "#funnyfacts, #belike, #halloweenishere, #funnyvoice"
+    hashtags: "#couplegoals, #physicalcomedy, #comedy, #italiancomedy"
+  - username: "rorygardinermusic"
+    fullname: >-
+      Rory Gardiner
+    bio: >-
+      Comedian😂/Musician🤘/Dad-Joker👨 🇨🇦 Follow me on Instagram 👇
+    location: "Canada"
+    followers: 58200
+    engagement: 862
+    commentsToLikes: 0.122957
+    id: ckbbo0379c1gf0j237li1tp03
+    verified: false
+    hashtags: "#stitch, #fyp, #tiktokdad, #momsoftiktok"
 ---

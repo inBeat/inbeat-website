@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Russia in 2023
+title: Top 10 Guitar TikTok Influencers In Russia In 2023
 description: >-
-  Find top guitar TikTok influencers in Russia in 2023. Most popular hashtags: #guitar #cover #fingerstyle #guitarcover.
+  Find top guitar TikTok influencers in Russia in 2023. Most popular hashtags: #guitar #cover #music.
 platform: TikTok
 hits: 13
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in Russia for you to work with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform has 13 TikTok influencers like this in Russia for you to collaborate.
 profiles:
   - username: "_alexander_s_"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Guitar! 🎸
     location: "Russia"
-    followers: 1500000
-    engagement: 476
-    commentsToLikes: 0.009891
+    followers: 1600000
+    engagement: 473
+    commentsToLikes: 0.010114
     id: ck8qfb431w2ke0j78wcpuo4b5
     verified: true
-    hashtags: "#rock, #music, #guitar, #rammstein"
+    hashtags: "#music, #song, #guitar, #rock"
   - username: "rock_star2222"
     fullname: >-
       userlooser
     bio: >-
-      🤟😈🔥🎸
+      Даты стримов будут здесь 🤟😈🔥🎸
     location: "Russia"
-    followers: 7943
-    engagement: 1635
-    commentsToLikes: 0.118342
+    followers: 13600
+    engagement: 1722
+    commentsToLikes: 0.086774
     id: ckc7wizlmzni50j232i1tpkiv
     verified: false
-    hashtags: "#punk, #guitar, #cover, #rockandrollbaby"
+    hashtags: "#whereismymind, #pixies, #asmr, #guitar"
   - username: "queerbeer"
     fullname: >-
       queer beer
     bio: >-
-      прокоп из томбоевска 😳 covers & my songs👇
+      "Karina McLeen" on all platforms 🎸🔥 covers & my songs👇
     location: "Russia"
-    followers: 19800
-    engagement: 968
-    commentsToLikes: 0.030603
+    followers: 23900
+    engagement: 1051
+    commentsToLikes: 0.027635
     id: ck9tv73k2p9ka0j78wg7dx5k3
     verified: false
-    hashtags: "#postpunk, #acoustic, #fyp, #cover"
-  - username: "sweetgoblin"
-    fullname: >-
-      Bella
-    bio: >-
-      Goal: 20K
-    location: "Russia"
-    followers: 12800
-    engagement: 876
-    commentsToLikes: 0.037625
-    id: ckbwa1nr500oj0j23gouo08ck
-    verified: false
-    hashtags: "#foryoupage, #foryou, #guitar, #duet"
-  - username: "itsragim"
-    fullname: >-
-      Ragim
-    bio: >-
-      🎶🎶🎶
-    location: "Russia"
-    followers: 51300
-    engagement: 984
-    commentsToLikes: 0.022855
-    id: ckd5wegkmztbv0j23mqvg98vx
-    verified: false
-    hashtags: "#acousticguitar, #guitar, #acousticcovers, #guitarcover"
+    hashtags: "#fyp, #solo, #wlw, #guitar"
   - username: "artur_zolotov"
     fullname: >-
       Artur Zolotov
     bio: >-
       творчество, музыка, полные версии на Youtube
     location: "Russia"
-    followers: 5967
-    engagement: 625
-    commentsToLikes: 0.033550
+    followers: 6291
+    engagement: 607
+    commentsToLikes: 0.031318
     id: ckbqceylcyocj0j238nfm3l35
     verified: false
-    hashtags: "#guitar, #guitarsolo, #music, #fingerstyle"
+    hashtags: "#acousticguitar, #music, #cover, #fingerstyle"
+  - username: "sweetgoblin"
+    fullname: >-
+      Bella
+    bio: >-
+      Goal: 20K
+    location: "Russia"
+    followers: 12600
+    engagement: 708
+    commentsToLikes: 0.020578
+    id: ckbwa1nr500oj0j23gouo08ck
+    verified: false
+    hashtags: "#foryou, #guitar, #foryoupage, #duet"
+  - username: "itsragim"
+    fullname: >-
+      Ragim
+    bio: >-
+      🎶🎶🎶
+    location: "Russia"
+    followers: 58000
+    engagement: 953
+    commentsToLikes: 0.024626
+    id: ckd5wegkmztbv0j23mqvg98vx
+    verified: false
+    hashtags: "#acoustic, #fyp, #duet, #waterfall"
   - username: "nstsever"
     fullname: >-
       𝕹𝖆𝖘𝖙𝖞𝖆𓂉
     bio: >-
       𝔖𝔬𝔫𝔤𝔰 𝔞𝔫𝔡 𝔞𝔫𝔦𝔪𝔢 Новое видео каждый день давай сделаем 3000 ⬆️💜
     location: "Russia"
-    followers: 2735
-    engagement: 1564
-    commentsToLikes: 0.084281
+    followers: 2763
+    engagement: 1602
+    commentsToLikes: 0.071859
     id: ckd5lyo2rw0vv0j23cs7hbhvj
     verified: false
-    hashtags: "#jonyemin, #tokioghoul, #gangster, #2007"
+    hashtags: "#jony, #voice, #covergirl, #cover"
   - username: "akstar.music"
     fullname: >-
       AKSTAR
     bio: >-
       🔥🔥🔥 Inst : akstar.music Youtube : AkStar 🔥🔥🔥
     location: "Russia"
-    followers: 246200
-    engagement: 1254
-    commentsToLikes: 0.030571
+    followers: 322600
+    engagement: 1294
+    commentsToLikes: 0.024183
     id: ckcjbm2g3925x0j23ch3oewov
     verified: true
-    hashtags: "#guitar, #beatbox, #coronavirus, #covid19"
-  - username: "kalabalatv"
-    fullname: >-
-      Vitalik_Boroda
-    bio: >-
-      Веселится и танцует весь народ😂🤘✌️
-    location: "Russia"
-    followers: 7366
-    engagement: 927
-    commentsToLikes: 0.054801
-    id: cka0inajweck60i78f0yurvqs
-    verified: false
-    hashtags: "#funny, #humor, #recommendations, #poison"
+    hashtags: "#beatbox, #500, #guitar"
   - username: "instguitar"
     fullname: >-
       ✅INSTGUITAR✅
     bio: >-
       🎶Табы в телеграм канале🎶
     location: "Russia"
-    followers: 99500
-    engagement: 1574
-    commentsToLikes: 0.014809
+    followers: 95700
+    engagement: 1213
+    commentsToLikes: 0.020067
     id: ckc7paqpxv1960j235t70ifst
     verified: false
-    hashtags: "#kalimba, #fingerstyle, #kalimbacover, #savethatshit"
+    hashtags: "#kalimbat, #avatar, #playdate, #playdateintro"
+  - username: "guitarme"
+    fullname: >-
+      Илья
+    bio: >-
+      Канал все О гитаре🎼 Подпишись➕ Если ты ещё Не подписан✔️
+    location: "Russia"
+    followers: 26900
+    engagement: 741
+    commentsToLikes: 0.026401
+    id: ckbf4wmuxtofc0j23gakl4wdb
+    verified: false
+    hashtags: "#guitar, #guitarrachallenge"
 ---

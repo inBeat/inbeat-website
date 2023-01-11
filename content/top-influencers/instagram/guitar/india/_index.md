@@ -1,130 +1,130 @@
 ---
-title: Top 10 Guitar Instagram Influencers In India in 2023
+title: Top 10 Guitar Instagram Influencers In India In 2023
 description: >-
-  Find top guitar Instagram influencers in India in 2023. Most popular hashtags: #guitar #love #picoftheday.
+  Find top guitar Instagram influencers in India in 2023. Most popular hashtags: #love #guitarsolo #photooftheday #guitar.
 platform: Instagram
-hits: 228
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 228 Instagram influencers like this in India for you to work with.
+hits: 120
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 120 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "nickhipa"
+  - username: "codylinley"
     fullname: >-
-      Nick Hipa
+      Cody Linley
     bio: >-
-      Pretty Deece Dude Guitarist Motion Designer
+      Actor 🎭| Film-Maker🎥 | Acting Coach 🎬| Singer song writer 🎼 | Guitar player 🎸 | I ❤️ life!🌎 Vegan 🌱| Activist ☮️❤️🙏
     location: "India"
-    followers: 30101
-    engagement: 1152
-    commentsToLikes: 0.048752
-    id: ck0w37lmyrzhe0i193inphxxk
-    verified: false
-    hashtags: ""
-  - username: "nar_atoyannn"
+    followers: 96876
+    engagement: 698
+    commentsToLikes: 0.018566
+    id: ck14jceyajmvi0i19ldjhoxce
+    verified: true
+    hashtags: "#actor, #codylinley, #instadaily, #codylinleylove"
+  - username: "moseskoul"
     fullname: >-
-      𝐍𝐚𝐫𝐢𝐤🌞
+      Moses Koul
     bio: >-
-      𝐍𝐚𝐫𝐢𝐧𝐞 𝐀𝐭𝐨𝐲𝐚𝐧☁️ .......... 👀𝐈’𝐦 18👀 🎬𝐕𝐢𝐝𝐞𝐨𝐛𝐥𝐨𝐠𝐠𝐞𝐫 🤪𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 👻𝐘𝐨𝐮𝐭𝐮𝐛𝐞: 𝟐5𝐤+ .......... Sk8 and guitar🆗 Es Naren chem
+      guitarist & producer #heavengang
     location: "India"
-    followers: 5606
-    engagement: 2972
-    commentsToLikes: 0.036873
-    id: ck6ud1wstin4p0j71l0g46lk3
+    followers: 6074
+    engagement: 1663
+    commentsToLikes: 0.032404
+    id: ck6ufiuyrxbcy0j71rqrxebfz
     verified: false
-    hashtags: "#recognizeartsakh"
+    hashtags: "#guitar, #producer, #music, #rg"
   - username: "stringkingz"
     fullname: >-
       Guitar Videos Daily 🤘
     bio: >-
       🎸Global Guitar Media Platform 🏆Guitar Legends Throughout History 🌎Fastest Growing Music Community ⬇️Check it out🤘
     location: "India"
-    followers: 40681
-    engagement: 751
-    commentsToLikes: 0.019440
+    followers: 40034
+    engagement: 502
+    commentsToLikes: 0.019850
     id: ck8tbmrdhw9zp0j78qw68x8h3
     verified: false
-    hashtags: "#guitareffects, #rockguitar, #bluesguitar, #guitarposts"
-  - username: "_devan_vava_"
-    fullname: >-
-      Baphomet
-    bio: >-
-      🔪 When life gives you lemons. Worship Satan.. ⸸ • Kochi • Artist • Ukulelist • Guitarist - @_thy_artist_ @aura_photography___ @c19_patient
-    location: "India"
-    followers: 2052
-    engagement: 2830
-    commentsToLikes: 0.149516
-    id: ck9hb272df2g20j78fbzcz7pw
-    verified: false
-    hashtags: "#twostroke, #darkthrone, #blackmetaltv, #keralavibes"
+    hashtags: "#bluesguitarist, #musiclifestyle, #guitargods, #bluesmusic"
   - username: "siddharthdesai09"
     fullname: >-
       Siddharth Desai
     bio: >-
       Pro Kabaddi Player U mumba 6️⃣ Telugu titans 7️⃣ Fitness lover 🏋️‍♂️ Guitar lover🎸 Zoophilist 🐢🐘🐈🐇🐿
     location: "India"
-    followers: 91258
-    engagement: 973
-    commentsToLikes: 0.007608
+    followers: 92111
+    engagement: 1152
+    commentsToLikes: 0.009567
     id: ckaox0x6qba2t0i78emiklkyu
     verified: true
-    hashtags: "#beyondthemat, #gt650"
-  - username: "moseskoul"
+    hashtags: "#hdr, #instagood, #hdrstyles, #photooftheday"
+  - username: "viking.fox_"
     fullname: >-
-      Moses
+      ᴀᴅɪᴛʏᴀ † 🏔️
     bio: >-
-      guitarist & producer #heavengang
+      Beard | Tattoo | Travel | Music Guitar | Kickboxing 🏔️⚒️ Funk, Soul, Blues, Jazz, Rock, Metal Bangalore✌️ Open for Collabs Follow if you find me hot😛
     location: "India"
-    followers: 5316
-    engagement: 1565
-    commentsToLikes: 0.027718
-    id: ck6ufiuyrxbcy0j71rqrxebfz
+    followers: 17686
+    engagement: 187
+    commentsToLikes: 0.008733
+    id: ckap57fa8aif20i78rd2nnx2h
     verified: false
-    hashtags: "#producer, #guitar, #music, #animeost"
-  - username: "that.wayfaring.spirit"
-    fullname: >-
-      Kriti Aggarwal
-    bio: >-
-      Travel | Fashion | Guitarist | Artist | 🇮🇳 Jaipurite by birth...Delhite by ♥
-    location: "India"
-    followers: 3207
-    engagement: 2258
-    commentsToLikes: 0.134938
-    id: ck9hbexfxgiyq0j7832gifyb0
-    verified: false
-    hashtags: "#storiesofindia, #travelgram, #throwback, #igers"
-  - username: "arjunaravind_"
-    fullname: >-
-      Arjun Aravind
-    bio: >-
-      Guitarist🎸 Classical lover 🎶 Subscribe my Youtube channel👇
-    location: "India"
-    followers: 3335
-    engagement: 2408
-    commentsToLikes: 0.133815
-    id: ck9wg8o7rsbge0j78g9mg4yzg
-    verified: false
-    hashtags: "#guitarcover, #versatilemedia, #tamilcover, #keralatalents"
+    hashtags: "#sonsofanarchy, #positivevibesonly, #beardmen, #lifestyle"
   - username: "vaibhav_y10"
     fullname: >-
       V A I B H A V • Y A D A V  🔥
     bio: >-
-      📧 Dm / Email for collaboration 💥 4.2M family on TIKTOK || guitarist 🎸 || • Footballer ⚽️ || • LM10 🇦🇷 • 🇪🇸 Barça 🙏🏻
+      📧 Dm / Email for collaboration || guitarist 🎸 || • Footballer ⚽️ || • LM10 🇦🇷 • 🇪🇸 Barça 🙏🏻
     location: "India"
-    followers: 43009
-    engagement: 1032
-    commentsToLikes: 0.066659
+    followers: 86734
+    engagement: 558
+    commentsToLikes: 0.061997
     id: ck8wf5c6hf5gi0j78apu01d25
     verified: false
-    hashtags: "#insta, #instadaily, #photography, #songs"
-  - username: "ezra_helios_official"
+    hashtags: "#foryou, #nature, #explorer, #instaphoto"
+  - username: "borjacatanesi"
     fullname: >-
-      ezra helios
+      Borja Catanesi
     bio: >-
-      Vocalist, Guitarist, Bassist @ezra_helios_official Bassist @undyingincofficial
+      Guitarist | Traveller | Street performer | Valencia, Spain
     location: "India"
-    followers: 13982
-    engagement: 439
-    commentsToLikes: 0.028467
-    id: ck5hloj8pkkch0i11wm8gc2uo
+    followers: 250280
+    engagement: 895
+    commentsToLikes: 0.018690
+    id: ck139er66kyh50i19gmz7rv9j
     verified: false
-    hashtags: "#newmusic, #ezrahelios, #musiclife, #vocalist"
+    hashtags: "#tbt, #vicovang"
+  - username: "elvisgab"
+    fullname: >-
+      Elvis Gabriel
+    bio: >-
+      Guitarist/Bassist | Indian film industry | Pentatonics 💍 Coffee |
+    location: "India"
+    followers: 3105
+    engagement: 2019
+    commentsToLikes: 0.049658
+    id: ck14ji64ckh020i19osbhk878
+    verified: false
+    hashtags: "#seymourduncanpickups, #guitarist, #guitaristsofinstagram, #guitarsolo"
+  - username: "guitar_artz"
+    fullname: >-
+      Guitar Artz
+    bio: >-
+      🎸 Best guitar posts 🎸 📣 DM for a paid promotion 📣 ⬇️ Express Guitar ⬇️
+    location: "India"
+    followers: 63098
+    engagement: 367
+    commentsToLikes: 0.019363
+    id: ck5zx42vd7axb0i148ox6axpx
+    verified: false
+    hashtags: ""
+  - username: "arjunaravind_"
+    fullname: >-
+      Arjun Aravind
+    bio: >-
+      Guitarist🎸 DM me for Programming,Guitar track/Collab Subscribe my YouTube channel👇
+    location: "India"
+    followers: 4313
+    engagement: 3546
+    commentsToLikes: 0.050008
+    id: ck9wg8o7rsbge0j78g9mg4yzg
+    verified: false
+    hashtags: "#wayanadan, #wayanad, #900kandi, #tamilcover"
 ---

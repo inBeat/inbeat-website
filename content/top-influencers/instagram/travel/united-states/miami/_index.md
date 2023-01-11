@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Miami in 2023
+title: Top 10 Travel Instagram Influencers In Miami In 2023
 description: >-
   Find top travel Instagram influencers in Miami in 2023. Most popular hashtags: #miami #travel #florida #beach.
 platform: Instagram
-hits: 661
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 661 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 858
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 858 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "kimmilori"
+  - username: "lizmarcinek_"
     fullname: >-
-      Kimmi Lori
+      Liz Marcinek
     bio: >-
-      🇲🇽ℝ𝕖𝕘𝕚𝕒-𝔸𝕞𝕖𝕣𝕚𝕔𝕒𝕟🇺🇸 Houston, Tx Founder: Lori Moto @thebikerlook
+      𝙳𝚘𝚗'𝚝 𝚠𝚊𝚒𝚝 𝚏𝚘𝚛 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚢, 𝚌𝚛𝚎𝚊𝚝𝚎 𝚒𝚝.☻ 𝑨𝒕𝒉𝒍𝒆𝒕𝒆 & 𝑰𝒏𝒇𝒍𝒖𝒆𝒏𝒄𝒆𝒓 𝑹𝒆𝒍𝒂𝒕𝒊𝒐𝒏𝒔 ‣ ᴍᴀʀᴋᴇᴛɪɴɢ ‣ ꜰɪᴛɴᴇꜱꜱ ‣ ᴄʀᴇᴀᴛᴏʀ⁣ 💌 ᴇᴍᴀɪʟ ꜰᴏʀ ʙᴜꜱɪɴᴇꜱꜱ ɪɴQᴜɪʀɪᴇꜱ ⁣
     location: "United States"
-    followers: 2423
-    engagement: 729
-    commentsToLikes: 0.073860
-    id: ckaoyrakkiq5o0i78psrwh6o8
+    followers: 20510
+    engagement: 605
+    commentsToLikes: 0.028913
+    id: ck5pyruh6xhnb0i11xsufovnq
     verified: false
-    hashtags: "#travel, #miamibeach, #houston, #htown"
-  - username: "activitymonster"
+    hashtags: "#beach, #mexico, #ocean, #fitness"
+  - username: "joblessgarrett"
     fullname: >-
-      Beril ♥️ Travel & Fashion
+      Garrett
     bio: >-
-      📍Miami 🦩 🤩 Featured in @earthpix , @travelandleisure, @forbestravelguide 🏖 My feature account: @roamflorida 📩 activitymonster@yahoo.com
+      Your Favorite Youtuber & Streamer. 🔥 Miami🔥 Business: JoblessGamers@gmail.com All my Links and Socials:
     location: "United States"
-    followers: 229221
-    engagement: 340
-    commentsToLikes: 0.062706
-    id: ck0u7pqny5evt0i199qwvreo9
+    followers: 290601
+    engagement: 162
+    commentsToLikes: 0.015719
+    id: ck9hcuetrn0q00j789qeori81
     verified: false
-    hashtags: "#hotels, #visitflorida, #lovefl, #roamflorida"
-  - username: "gladyscarredeguas"
+    hashtags: "#family, #gaming, #happy, #goals"
+  - username: "victoria_castilla"
     fullname: >-
-      Gladys Carredeguas
+      ✩ 𝚅 𝙸 𝙲 𝚃 𝙾 𝚁 𝙸 𝙰  ✩
     bio: >-
-      Law Student 1Ls ⚖️ Follow my other account @the_lawtina Cuban 🇨🇺 Miss Grand Cuba 2018 👑 Communications Major 🖋🎙 To Collab Email me 📧
+      LIFE HAPPENS ☾ COFFEE HELPS
     location: "United States"
-    followers: 28966
-    engagement: 254
-    commentsToLikes: 0.049645
-    id: ck5cbawhif2ju0i115dg6ve8f
+    followers: 23306
+    engagement: 645
+    commentsToLikes: 0.036776
+    id: ck13ckmge0tme0i19qfw0fyxs
     verified: false
-    hashtags: "#ootd, #beach, #koalachallenge, #travel"
-  - username: "remrodphotography"
+    hashtags: "#bikinilife, #travel, #miami, #ny"
+  - username: "anyela_damas"
     fullname: >-
-      Remrod
+      Anyela Mariam Damas
     bio: >-
-      Positive💡Thinking #CAMERAMAN 📸🎬 #CRYPTOINVESTOR 💱 #LOA 💎 #entrepreneur #fintech
+      #soscuba 🇨🇺Cuban 📍Miami ↔️LA Professional Actress• Model•Entrepreneur @sheinofficial discount code D2Anyela TikTok anyela_damas CEO @damas_agency
     location: "United States"
-    followers: 39594
-    engagement: 130
-    commentsToLikes: 0.054449
-    id: ck5c0xevxu19c0i11mbs8hb7t
+    followers: 192260
+    engagement: 32
+    commentsToLikes: 0.037412
+    id: ck8szq89gpbce0j78lk5tts1o
     verified: false
-    hashtags: "#remrod, #instagood, #beach, #travelphotography"
-  - username: "captmattbudd"
+    hashtags: "#spring, #fashion, #beach, #dress"
+  - username: "m_seelika"
     fullname: >-
-      Capt. Matt Budd
+      Malika See
     bio: >-
-      2nd Generation Master Captain & Fishing Guide. www.jupiterfishingacademy.com
+      ATL📍 Worldwide 🗺 Signed Model/ Actress & Intellectual 🌱 . Create What You See (Artist) . @lusttmodels_
     location: "United States"
-    followers: 21959
-    engagement: 323
-    commentsToLikes: 0.025506
-    id: ck0txn7bbjq0p0i19muyip726
+    followers: 21172
+    engagement: 377
+    commentsToLikes: 0.038753
+    id: ck5cea26bkn130i11bbiuxx3x
     verified: false
-    hashtags: "#fish, #robalo, #commercialfishing, #westpalmbeach"
-  - username: "michellroxana"
+    hashtags: "#atl, #model, #love, #atlanta"
+  - username: "cmahecha32"
     fullname: >-
-      Michell💛Roxana
+      Cesar MMedina
     bio: >-
-      ⚜️Mejor Rostro ⚜️Miss Social Media ⚜️Miss Earth 🇻🇪 ‘19 👑🌍
+      SAP Business Analyst 👨🏻‍💻📊📈⚜️Living in 💫Downtown Miami ⚜️
     location: "United States"
-    followers: 345345
-    engagement: 328
-    commentsToLikes: 0.012977
-    id: ck5c6nerh5sy10i11h57upv65
+    followers: 2319
+    engagement: 1084
+    commentsToLikes: 0.067940
+    id: ckap3muse3o6j0i78sl0e4z32
     verified: false
-    hashtags: "#travelmexico, #travelmiami, #mexico, #miamilifestyle"
-  - username: "farenaimee"
-    fullname: >-
-      Faren Aimeé
-    bio: >-
-      Int’l Published Model | Pageant Queen Miss Bikini US ‘17-‘18 | Miss NW DC For America ‘20| Scholar | Multi-Sport Athlete| Philanthropist | FAMU🐍
-    location: "United States"
-    followers: 9642
-    engagement: 406
-    commentsToLikes: 0.053925
-    id: ck0vxabsdxxzj0i197b5tlkbk
-    verified: false
-    hashtags: "#model, #published, #skin, #skincare"
+    hashtags: "#beach, #southflorida, #nature, #colombianpower"
   - username: "visuals.by.luis"
     fullname: >-
       MIAMI Visuals
     bio: >-
-      🌎 #MIAMI 📷 #SonyA7III | #iPhoneXR 🎥 #DJIMavicPro2 #Cityscapes | #Architecture | #Travel
+      🌎 #MIAMI 📷 #SonyA7III | #iPhone12Pro 🎥 #DJIMavicPro2 #Cityscapes | #Architecture | #Travel
     location: "United States"
-    followers: 15523
-    engagement: 795
-    commentsToLikes: 0.033360
+    followers: 18000
+    engagement: 833
+    commentsToLikes: 0.032493
     id: ck0tznomar1zb0i19158b80wk
     verified: false
-    hashtags: "#foundinmiami, #miamilove, #downtownmiami, #miamifun"
-  - username: "irene__diaz"
+    hashtags: "#miami, #thisismiami, #tlpicks, #brickelllife"
+  - username: "petermillerfishing"
     fullname: >-
-      I r e n e   D í a z
+      Peter Miller
     bio: >-
-      🎓 Periodismo & Co.Audiovisual 🏆 Emmy nomination / AP winner 💼 Americatevé 🎥 reportera 📍Miami 🐉+🦂
+      👨‍👧‍👦Proud Dad 🏆Emmy Nominated TV Host 🏅7X Telly Award Winner 🎤 Host of Uncharted Waters 🐟3 Time World Sailfish Champ 🎬 Direct-Produce #travel
     location: "United States"
-    followers: 45519
-    engagement: 211
-    commentsToLikes: 0.051568
-    id: ck6u1c88jkvh70j71zqcqgg2y
-    verified: false
-    hashtags: "#musicnews, #entrevista, #miamilife, #atodocolor"
-  - username: "lifemiamibeach"
+    followers: 67472
+    engagement: 166
+    commentsToLikes: 0.041494
+    id: ck55jv21bxt1f0i11hrk3ehtn
+    verified: true
+    hashtags: "#travel, #miami, #eat, #bass"
+  - username: "southbeachhelicopters"
     fullname: >-
-      Miami Beach Life
+      South Beach Helicopters® (SBH)
     bio: >-
-      The official Instagram of Life Miami Beach. Global community page for Miami Beach, and the greater Miami area. #LifeMiamiBeach
+      The official Instagram of South Beach Helicopters. | Tours | Charters | Aerial Photography | "The sky is not the limit, it's just the view"™✨🚁✨
     location: "United States"
-    followers: 107823
-    engagement: 426
-    commentsToLikes: 0.028109
-    id: ck0uak2xvcgvn0i19np2s9rvs
+    followers: 123006
+    engagement: 173
+    commentsToLikes: 0.043948
+    id: ck0u7atu6467z0i191y50strc
     verified: false
-    hashtags: "#miamiweather, #lifemiamibeach, #blueskies, #northmiamibeach"
+    hashtags: "#florida, #sbhapproved, #adventure, #mansion"
+  - username: "klassikfresco"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀Klassik Frescobar
+    bio: >-
+      • Recording Artiste⠀⠀ • Songwriter⠀⠀ • Performer⠀ Bookings: klassikfrescoprteam[at]gmail.com⠀⠀ 🏴‍☠️Black is de code🖤 👇🏾[New Music]
+    location: "United States"
+    followers: 30326
+    engagement: 194
+    commentsToLikes: 0.037759
+    id: ck6u4jfeb42bw0j71gxzqytfn
+    verified: false
+    hashtags: "#dancehall, #trend, #jamaica, #travel"
 ---

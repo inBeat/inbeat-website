@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers TikTok Influencers In United States in 2023
+title: Top 10 Bakers TikTok Influencers In United States In 2023
 description: >-
-  Find top bakers TikTok influencers in United States in 2023. Most popular hashtags: #duet #foryou #greenscreen #fyp.
+  Find top bakers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #duet #greenscreen.
 platform: TikTok
-hits: 1013
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 1013 TikTok influencers like this in United States for you to work with.
+hits: 841
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database holds 841 TikTok influencers like this in United States for you to work with.
 profiles:
+  - username: "tkraindrop"
+    fullname: >-
+      Bread baking knight
+    bio: >-
+      ✨This journey is ending now but the story never ends✨ Bake on my fellow bakers
+    location: "United States"
+    followers: 55300
+    engagement: 2292
+    commentsToLikes: 0.064209
+    id: ckdbomf5sb44i0j23utedcyr7
+    verified: false
+    hashtags: "#buhurt, #larp, #hema, #fyp"
   - username: "itz_emfc"
     fullname: >-
       Erica
     bio: >-
-      Nerd 🕹 Baker🎂 Bookworm📚 Wildflower🌷 MOD for GoalHitters📶
+      Nerd 🕹 Baker🎂 Bookworm📚 Wildflower🌷 she/her 🏳️‍🌈
     location: "United States"
-    followers: 6089
-    engagement: 1983
-    commentsToLikes: 0.194257
+    followers: 5934
+    engagement: 1006
+    commentsToLikes: 0.227453
     id: ckavl0racu4oa0j23pa7g4z1c
     verified: false
-    hashtags: "#positivity, #duet, #goalhitters, #momsoftiktok"
-  - username: "elijah.garcia661"
+    hashtags: "#welcomeback, #dontspillchallenge, #fyp, #watchmenow"
+  - username: "msongbird91"
     fullname: >-
-      Elijah G. 
+      MSongbird91
     bio: >-
-      Follow my insta Imma visual learner Bakersfield California 🇲🇽🔥 Jalisco 🇲🇽
+      Somewhat funny. Cats. Tennis. Anime. Married. Amateur baker. Artist. Musician.
     location: "United States"
-    followers: 93400
-    engagement: 2752
-    commentsToLikes: 0.037500
-    id: ckb9gmuqu5rr70j23wtck7551
+    followers: 88000
+    engagement: 2126
+    commentsToLikes: 0.040523
+    id: ckcu5bsh2asyu0j23pgkuo3an
     verified: false
-    hashtags: "#baile, #greenscreenvideo, #mexican, #razrfit"
-  - username: "krazybeautiful2"
+    hashtags: "#thisorthatsblv, #getreadywitholdspice, #fyp, #geicolipsync"
+  - username: "zmbioutlaw"
+    fullname: >-
+      zmbioutlaw
+    bio: >-
+      Duets welcome (18+)! 🖤🖤🖤 Baker at #theveil
+    location: "United States"
+    followers: 5753
+    engagement: 2186
+    commentsToLikes: 0.083144
+    id: ckbafbhaw7g2x0j23tukm5em0
+    verified: false
+    hashtags: "#neonfang, #overwatch, #roadhog, #deadbydaylight"
+  - username: "krazybeautiful.2"
     fullname: >-
       krazybeautiful
     bio: >-
       P.O Box 3182 Bakersfield Ca 93385 BFF@goshdangitjenne cash app Krazybeautiful2
     location: "United States"
-    followers: 604600
-    engagement: 1707
-    commentsToLikes: 0.025889
+    followers: 639200
+    engagement: 1286
+    commentsToLikes: 0.037007
     id: ck9eulavped4f0j782a5uqktj
     verified: false
-    hashtags: "#family, #spreadsmiles, #duet, #spread"
-  - username: "iizzyy.rios"
+    hashtags: "#queensofallages, #kingsofallages, #spreadlovepositivitysmileskindness, #loveurelders"
+  - username: "elijah.garcia661"
     fullname: >-
-      izzy
+      Elijah G. 
     bio: >-
-      bakersfield, ca snap : princesss_izzy follow my insta ! 💞
+      Follow my insta Bakersfield California 🇲🇽🔥 Jalisco
     location: "United States"
-    followers: 60800
-    engagement: 2333
-    commentsToLikes: 0.026511
-    id: ckcjcjts39klx0j23gl7ypgrx
+    followers: 94700
+    engagement: 2390
+    commentsToLikes: 0.015091
+    id: ckb9gmuqu5rr70j23wtck7551
     verified: false
-    hashtags: "#foryou, #fyp, #freezeframephoto, #greenscreen"
-  - username: "ms.mel_cee"
+    hashtags: "#troquita, #fyp, #mullet, #foryou"
+  - username: "juliebean62"
     fullname: >-
-      ms.mel_cee
+      JulieBean62
     bio: >-
-      🇵🇷 🇭🇳 $onelovemc PO Box 11283 Bakersfield, CA 93389 Positive vibes 🙏🏼
+      Bartender Baker Cook ~Hi ~ 🦧
     location: "United States"
-    followers: 85600
-    engagement: 1399
-    commentsToLikes: 0.087440
-    id: cka0kui0ao6zf0i78vkk5rt5t
+    followers: 70000
+    engagement: 1824
+    commentsToLikes: 0.037223
+    id: ck81q377sfk810j78ac4wl924
     verified: false
-    hashtags: "#yougotthis, #acrylicpour, #joke, #showupshowoff"
-  - username: "sillywillymiaa"
+    hashtags: "#duet, #stitch, #fyp, #greekgods"
+  - username: "thebestsugarfix"
     fullname: >-
-      Mia
+      Sugar Fix
     bio: >-
-      bakersfield ca
+      Bakers in SLC, Utah! 👨🏻‍🤝‍👨🏾 Next cookie drop is on 2/21/21 SUGAR FIX
     location: "United States"
-    followers: 43300
-    engagement: 2485
-    commentsToLikes: 0.023678
-    id: cka6iga5uqn1g0i78a9qoha65
+    followers: 631300
+    engagement: 2748
+    commentsToLikes: 0.008188
+    id: ckfplytmm15iq0j23vwrgqb28
     verified: false
-    hashtags: "#duet, #greenscreen, #colorcustomizer, #greenscreenvideo"
+    hashtags: "#utah, #cookie, #baker, #fyp"
   - username: "thebaileybakery"
     fullname: >-
       The Bailey Bakery 
     bio: >-
       Baker and cookie decorator.
     location: "United States"
-    followers: 5400000
-    engagement: 2284
-    commentsToLikes: 0.006015
+    followers: 5300000
+    engagement: 2107
+    commentsToLikes: 0.006127
     id: ck83zpkmh1vxv0j78sv3n9k8v
     verified: true
-    hashtags: "#foryou, #decoratedcookies, #halloween2020, #fashionnova"
-  - username: "slimeslat"
+    hashtags: "#cookiedecorating, #decoratedcookies, #foryou, #ad"
+  - username: "ms.mel_cee"
     fullname: >-
-      andrew
+      ms.mel_cee
     bio: >-
-      😀Hannah baker fan account😀😀😀.
+      🇵🇷 🇭🇳 $onelovemc 💌 PO Box 11283 Bakersfield, CA 93389 Positive vibes 🙏🏼
     location: "United States"
-    followers: 9428
-    engagement: 1550
-    commentsToLikes: 0.089843
-    id: ck9tu7j1yjtvf0j78o02hokt1
+    followers: 103700
+    engagement: 1328
+    commentsToLikes: 0.079780
+    id: cka0kui0ao6zf0i78vkk5rt5t
     verified: false
-    hashtags: "#raceday, #foryou, #crosscountry, #uber"
-  - username: "zmbioutlaw"
-    fullname: >-
-      zmbioutlaw
-    bio: >-
-      Duets welcome (18+)! 🖤🖤🖤 Baker at #theveil Spam likes = blocked
-    location: "United States"
-    followers: 5343
-    engagement: 1633
-    commentsToLikes: 0.035417
-    id: ckbafbhaw7g2x0j23tukm5em0
-    verified: false
-    hashtags: "#funny, #openduet, #duet, #thomassandersaudio"
-  - username: "kevintulud"
-    fullname: >-
-      kevintulud
-    bio: >-
-      > That Yellow Integra < President: BakoImportz 🇵🇭 661 • Bakersfield, CA 📍
-    location: "United States"
-    followers: 30900
-    engagement: 1425
-    commentsToLikes: 0.030213
-    id: ck9a6pojt45ws0j789x0iplok
-    verified: false
-    hashtags: "#builtnotbought, #teggygang, #acura, #dc2"
+    hashtags: "#throwback, #dontbesurprised, #tiktokggt, #busythinkingabout"
 ---

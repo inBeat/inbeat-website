@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters Instagram Influencers In Australia in 2023
+title: Top 10 Painters Instagram Influencers In Australia In 2023
 description: >-
-  Find top painters Instagram influencers in Australia in 2023. Most popular hashtags: #exhibition #colour #nature.
+  Find top painters Instagram influencers in Australia in 2023. Most popular hashtags: #oilpainting #painting #contemporaryart.
 platform: Instagram
-hits: 108
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 108 Instagram influencers like this in Australia for you to connect with.
+hits: 81
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 81 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "kristencook1"
+  - username: "timdraxl"
     fullname: >-
-      Kristen Cook | Photographer
+      Tim Draxl
     bio: >-
-      ✖️Love chaser • Light painter • Storyteller ✖️Newborns • Babies • Weddings ✖️Est. 2008 Click below to contact me ↓
+      Actor/Singer/Painter (a representation but by no means the definition)
     location: "Australia"
-    followers: 26569
-    engagement: 143
-    commentsToLikes: 0.034195
-    id: ck139nbbym5wu0i199mntqbdj
+    followers: 30640
+    engagement: 718
+    commentsToLikes: 0.015052
+    id: ck6uer6m8sm880j71d7o3b9fj
     verified: false
-    hashtags: "#candidchildhood, #canon, #melbournephotography, #thebloomforum"
+    hashtags: "#muscle, #naked, #ink, #photoshoot"
+  - username: "_etellan_"
+    fullname: >-
+      etellan art
+    bio: >-
+      🖌️ Painter | Doll Maker | Misspeller 📽️ Creator on YouTube 👩🏻‍🦰 Alt @_kid_phoebe_ 🙇🏻‍♀️ Commissions not open 🚫 Don't repost without credit
+    location: "Australia"
+    followers: 26852
+    engagement: 701
+    commentsToLikes: 0.008150
+    id: ck8t6eupadcge0j786dmvjo5z
+    verified: false
+    hashtags: "#ooakdolls, #ooakdoll, #doll, #repaint"
+  - username: "tessamackayart"
+    fullname: >-
+      Tessa MacKay
+    bio: >-
+      Official Instagram of Australian painter Tessa MacKay. 2019 Archibald Finalist and Packing Room Prize Winner. Facebook.com/tessamackayart
+    location: "Australia"
+    followers: 4254
+    engagement: 447
+    commentsToLikes: 0.051275
+    id: ck0vykomf4hac0i19aijtw7et
+    verified: false
+    hashtags: "#mtmagnet, #fremantle, #portraitpainting, #cameleers"
   - username: "artoflisaking"
     fullname: >-
       Lisa King
     bio: >-
-      🌹Australian figurative Painter practicing in the Public Arts 📸 select work & life below. 📧 for folio 📍 Melb / Adel 🇫🇷 GraffitiArt feat #52👇🏽
+      Painter / Illustrator practicing in Urban Contemporary Art 📍 Eora country ☕️ 🤍 Select work & life outtakes 🎬 📰 New York Times T mag👇🏽
     location: "Australia"
-    followers: 21734
-    engagement: 149
-    commentsToLikes: 0.047889
+    followers: 21691
+    engagement: 154
+    commentsToLikes: 0.055228
     id: ck6tj0f5r1s1s0j71viqeicrn
     verified: false
-    hashtags: "#52"
+    hashtags: "#anotherpostanotheropportunitygone"
   - username: "margaret_heenan_glass"
     fullname: >-
       Margaret Heenan Glass
     bio: >-
       Perth | Western Australia and Margaret River 🇦🇺 BFA. Geometric pattern, abstraction & landscape. Linear & Painterly. 😊
     location: "Australia"
-    followers: 2848
-    engagement: 1455
-    commentsToLikes: 0.146015
+    followers: 3214
+    engagement: 1325
+    commentsToLikes: 0.176131
     id: ckaoz7hmdkpqs0i783ill7nue
     verified: false
-    hashtags: "#circles, #glassart, #artglass, #gallery"
+    hashtags: "#inlays, #artglass, #contemporary, #fauna"
   - username: "celia.gullett"
     fullname: >-
       Celia Gullett
     bio: >-
-      Australian Painter, Represented by Jan Murphy Gallery.
+      Australian Painter, Represented by Jan Murphy Gallery and Sophie Gannon Gallery
     location: "Australia"
-    followers: 2417
-    engagement: 1385
-    commentsToLikes: 0.130082
+    followers: 2521
+    engagement: 1445
+    commentsToLikes: 0.149429
     id: ck5hp5cdlqs1b0i11y3qg8cpp
     verified: false
-    hashtags: "#colourfieldpainting, #celiagullett, #janmurphygallery, #geometricabstraction"
+    hashtags: "#janmurphygallery, #celiagullett, #colourfieldpainting, #geometricabstraction"
   - username: "itsjanehall"
     fullname: >-
       Jane Hall🍾🎭🎨
     bio: >-
       Actor. Mum. Sporadic Painter. Champagne drinker. Eschewer of Facebook and Twitter. Absolutely no pics of meals I cook. RGM ARTISTS rgm.com.au
     location: "Australia"
-    followers: 34397
-    engagement: 450
-    commentsToLikes: 0.038267
+    followers: 36203
+    engagement: 574
+    commentsToLikes: 0.026220
     id: ck13b3q6atit70i19rmxeylf2
     verified: false
-    hashtags: "#annreynolds, #wentwoth, #sorrynotsorry, #wentworth"
-  - username: "jannplansthings"
-    fullname: >-
-      Jann
-    bio: >-
-      Professional Person™ by day, moonlights as a Cat-crazy planner painter lady... also by day. At night I watch Kdramas.
-    location: "Australia"
-    followers: 108721
-    engagement: 367
-    commentsToLikes: 0.046020
-    id: ck15tfwc8hvqa0i19up5omoej
-    verified: false
-    hashtags: "#bulletjournal, #watercolorpainting, #procreate, #pixiteapps"
-  - username: "_etellan_"
-    fullname: >-
-      etellan art
-    bio: >-
-      🖌️ Painter | Doll Maker | Misspeller 📽️ Creator on YouTube 🙇🏻‍♀️ Commissions not open 🚫 Don't repost without credit
-    location: "Australia"
-    followers: 23734
-    engagement: 973
-    commentsToLikes: 0.007841
-    id: ck8t6eupadcge0j786dmvjo5z
-    verified: false
-    hashtags: "#custom, #ooakmonsterhigh, #monsterhighdoll, #monsterhighdolls"
+    hashtags: "#wentworth, #itsinthebag, #sharethedignity"
   - username: "sallystokespainter"
     fullname: >-
       Sally Stokes
     bio: >-
-      Australian painter.For sales enquiries please contact tony.scotland@live.com.au
+      Australian painter.For sales enquiries please contact tony.scotland@live.com.au or enquiries@rochfortgallery.com 0438 700 712
     location: "Australia"
-    followers: 7084
-    engagement: 632
-    commentsToLikes: 0.065414
+    followers: 9691
+    engagement: 670
+    commentsToLikes: 0.034838
     id: ckaou3dnrym8q0i78gphqrx2w
     verified: false
-    hashtags: "#contemporaryart, #artistsoninstagram, #nature, #marra"
-  - username: "jacwithlove"
+    hashtags: "#interiordesign, #exhibition, #rock, #contemporaryart"
+  - username: "alexlouisa_"
     fullname: >-
-      Jacqui Stewart ✧ Artist
+      Alex Louisa
     bio: >-
-      * a place of calm 〰️ * australian painter & visual creator. . . * works, commissions, prints▽
+      Brisbane, AU⁣ Painter of birds + nature + still life. ⁣ See my landscapes at: @alexlouisa_landscapes.⁣ Find originals, prints and classes at:
     location: "Australia"
-    followers: 3526
-    engagement: 2198
-    commentsToLikes: 0.036912
-    id: ckaotf7ryvoap0i78dgjk6ln2
+    followers: 79175
+    engagement: 154
+    commentsToLikes: 0.023868
+    id: ck0u1gfydwsj70i19ucy0urkt
     verified: false
-    hashtags: ""
-  - username: "helenmccullagh"
+    hashtags: "#australiannativebirds, #abstractart, #acrylicpainting, #limitededitionprint"
+  - username: "robert_malherbe"
     fullname: >-
-      Helen McCullagh
+      Robert Malherbe
     bio: >-
-      Australian painter “There are always flowers for those who want to see them” Henri Matisse ☀️ Find my latest work here👇
+      Australian contemporary figurative painter. Represented by Jan Murphy Brisbane, James Makin Melbourne,Michael Reid Sydney, BDDW NYC.
     location: "Australia"
-    followers: 33507
-    engagement: 159
-    commentsToLikes: 0.034268
-    id: ck8tbe3thvak80j785zlrrb8d
+    followers: 10379
+    engagement: 530
+    commentsToLikes: 0.038230
+    id: ckaorgm18n4kr0i788lrxu903
     verified: false
-    hashtags: "#shadowframe, #forflowerlovers, #stilllifeartist, #fineartflowers"
+    hashtags: "#figurativepainting, #woman, #oilpainting, #contemporarypainting"
 ---

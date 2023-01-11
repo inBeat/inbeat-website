@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Malaysia in 2023
+title: Top 10 Yoga Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top yoga Instagram influencers in Malaysia in 2023. Most popular hashtags: #positivevibes #love #yoga.
+  Find top yoga Instagram influencers in Malaysia in 2023. Most popular hashtags: #mindfulness #positivevibes #healthylifestyle.
 platform: Instagram
-hits: 19
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 19 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 15
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 15 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "dianaohy"
-    fullname: >-
-      𝔻𝕀𝔸ℕ𝔸 | 𝐭𝐫𝐚𝐯𝐞𝐥 & 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 🌼
-    bio: >-
-      🕊 my | sg 🍒 adventures at #dohyxjb🇲🇾 🌸 preloved at @daintydolce 🧚🏻‍♀️ aerial yoga at @aerialwithdianaohy 🍃 read about my travels here —
-    location: "Malaysia"
-    followers: 38865
-    engagement: 253
-    commentsToLikes: 0.024564
-    id: ck5q811fq3zbd0i11p1y7ld5k
-    verified: false
-    hashtags: "#dohyxjb, #dohyintcl, #dohyinroom8008, #dohyinmgp"
   - username: "chromaticcharms"
     fullname: >-
       ⒼⒾⓃⒸⒽⒺⓃ | Travel X Lifestyle
     bio: >-
       🌈 ￼Serving you a feast of vibrant grids ✈️ Traveler 🧘🏻‍♀️ Yoga practitioner 🍬 Junk food lover 🍦🍡🍫🍿🍭🍩 📸 Sony 7r Mark III
     location: "Malaysia"
-    followers: 13018
-    engagement: 530
-    commentsToLikes: 0.024030
+    followers: 12835
+    engagement: 578
+    commentsToLikes: 0.024393
     id: ckap7on5wkw6e0i78h2thmxp0
     verified: false
     hashtags: ""
-  - username: "pashini_"
+  - username: "sandytooooo"
     fullname: >-
-      𝓟𝓪𝓼𝓱𝓲𝓷𝓲 💋
+      Sandy To 杜穎珊
     bio: >-
-      📍 🇲🇾 👱🏼‍♀️ தமிழ் பெண் 💊 Pharmacy 🎭 Actor 🇲🇾 🇸🇬 🏋️‍♀️ Weight Training 🧘🏻‍♀️ Yoga - RYT 200 🏆 Champion-Vallavar S3'16
+      ▫Nike Yoga Trainer | @sandytoyoga ▫️TV Host & Actress ▫Job Enquiry : joe.yeung@tvb.com.hk ▫️Youtube: Sandy To Yoga ⬇️
     location: "Malaysia"
-    followers: 158599
-    engagement: 684
-    commentsToLikes: 0.004947
-    id: ck15sqk2deboa0i195tt2vm0c
+    followers: 29614
+    engagement: 543
+    commentsToLikes: 0.027247
+    id: ckf5vgi6voikt0j23njxu6gk9
     verified: false
-    hashtags: "#kalyaanam2kaathal, #positiveenergy, #live, #happy"
-  - username: "calcaseryn"
-    fullname: >-
-      Caleen🧘🏻‍♀️𝕐𝕠𝕘𝕒 𝕖𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
-    bio: >-
-      ❤️✨Be Love & Light⠀⠀ ⥥ Sharing my 30 Min Postnatal Yoga routine
-    location: "Malaysia"
-    followers: 19123
-    engagement: 287
-    commentsToLikes: 0.023888
-    id: ck8tdoo2546no0j78avt2r4po
-    verified: false
-    hashtags: "#stayhome, #mcoreflections, #stayhomestaysafe, #chooselove"
-  - username: "sarimahibrahim"
-    fullname: >-
-      CP Sarimah Ibrahim❤️
-    bio: >-
-      Malaysian & Irish🇮🇪🇲🇾Tunku Sofia’s Mummy,TV Host,EMCEE.Student of Psychology.Pilates.Yoga.Tunku Nadzimuddin’s Wifey❤️ #sarimahibrahim #nadzimuddinclan
-    location: "Malaysia"
-    followers: 406309
-    engagement: 51
-    commentsToLikes: 0.019392
-    id: ckf5ucfzckdlb0j23qojzy367
-    verified: true
-    hashtags: "#tunkusofianajihah, #ng9, #redang, #thetaraasbeachandsparesort"
+    hashtags: "#linkinbio, #thankfulst, #jk, #thankful"
   - username: "yogakylie"
     fullname: >-
       Kylie Denis
     bio: >-
-      Yogi RYT 500 Entrepreneur Owner / Founder @omologyyoga Join me on the mat 👇🏼
+      🇨🇦 📍 based in Kuala Lumpur 🇲🇾 Yoga teacher & student, RYT 500 Owner / Founder @omologyyoga Join me on the mat 👇🏼
     location: "Malaysia"
-    followers: 5967
-    engagement: 407
-    commentsToLikes: 0.038139
+    followers: 6064
+    engagement: 318
+    commentsToLikes: 0.037443
     id: ckap52m239ws30i78vryy0ptv
     verified: false
-    hashtags: "#thesweatlife, #nohighlighterneeded, #universesendingmeamessage, #yogateachertrainingbegins"
+    hashtags: "#wakingupwiththesun, #yogateachertrainingbegins, #notsorry"
+  - username: "thewildfeminine"
+    fullname: >-
+      Danielle Warford
+    bio: >-
+      •Yoga Teacher (RYT500) YouTube link below🌿 •Sharing my journey with OCD & depression •Taurus •PHX AZ🌵 •Poet •Friend🥰
+    location: "Malaysia"
+    followers: 472232
+    engagement: 135
+    commentsToLikes: 0.011857
+    id: ck0w1667xhr9k0i19vsegxk8r
+    verified: false
+    hashtags: ""
+  - username: "calcaseryn"
+    fullname: >-
+      Caleen🧘🏻‍♀️ 𝕐𝕠𝕘𝕒 𝕞𝕒𝕞𝕒
+    bio: >-
+      RYT 200 + Founder of Postnatal HIIT Yoga™ Empowering Mums @yogaformums Join our yoga journey ⇩
+    location: "Malaysia"
+    followers: 22435
+    engagement: 198
+    commentsToLikes: 0.021804
+    id: ck8tdoo2546no0j78avt2r4po
+    verified: false
+    hashtags: ""
+  - username: "vireema"
+    fullname: >-
+      Reema
+    bio: >-
+      Free soul #Nutritionist & #Yoga instructor Moj Id @vireema
+    location: "Malaysia"
+    followers: 476408
+    engagement: 438
+    commentsToLikes: 0.016385
+    id: ck0ua71hsbm2h0i19yohlwtn9
+    verified: false
+    hashtags: "#reels, #stayhappy, #goodvibes, #nofilter"
+  - username: "mariannnela"
+    fullname: >-
+      MARIANNELA CATAÑO
+    bio: >-
+      🎭Actress & Tv host 🎬 🧘🏻‍♀️Joyoga® founder @joyogamx 💻Youtube Content Creator #mexicanactress #dancer #yogini
+    location: "Malaysia"
+    followers: 17341
+    engagement: 574
+    commentsToLikes: 0.059426
+    id: ck5pvnw09isl90i11eydxy2uh
+    verified: false
+    hashtags: "#deliberatecreator, #mariannelacatan, #myyogajourney, #campechemexico"
   - username: "andylinchichiu"
     fullname: >-
       AndyLin林子超
     bio: >-
       Shaw Brothers 邵氏兄弟 Job enquires: 📧:monica.lau@shawbrothers.hk 📞:+853 6486 0661/+852 2335 2118 Founder of @studio12hk Director of Andy’s Star Dance
     location: "Malaysia"
-    followers: 22967
-    engagement: 241
-    commentsToLikes: 0.017436
+    followers: 23088
+    engagement: 238
+    commentsToLikes: 0.016512
     id: ck5zqkk96urkz0i141f07s7ke
     verified: false
-    hashtags: "#fitspo, #fitnesslifestyle, #hkpersonaltrainer, #fitnessgoals"
-  - username: "jojostruys"
+    hashtags: "#hkpersonaltrainer, #getshred, #grouptraining, #studio12hk"
+  - username: "dianwithlove"
     fullname: >-
-      Jojo Struys
+      D I A N  L E E ⋆ 静霖
     bio: >-
-      An Aspiring Yogi, Healer, Speaker & Perpetual Intern @ohanajostudio just following my heart! 💜♥️💚💙
+      𝙱𝚎𝚒𝚗𝚐 & 𝙱𝚎𝚌𝚘𝚖𝚒𝚗𝚐 “Yesterday we obeyed kings & bent our necks before emperors. But today we kneel only to truth, follow only beauty & obey only love” ♡
     location: "Malaysia"
-    followers: 33554
-    engagement: 66
-    commentsToLikes: 0.060245
-    id: ck15tl3hiiluy0i19cinektuu
+    followers: 39024
+    engagement: 158
+    commentsToLikes: 0.025442
+    id: ck6ty65i31wm90j7130sdds4r
     verified: false
-    hashtags: "#strength, #calm, #home, #dance"
-  - username: "levyli"
+    hashtags: "#awakening, #healing, #alchemysingingbowls, #spiritual"
+  - username: "bonnieloo94"
     fullname: >-
-      Levy Li Su Lin
+      Bonnie罗美仪
     bio: >-
-      👑Miss Universe Malaysia 2008 🇲🇾🇹🇭🇰🇷🇺🇸 Masterchef of @goodcompany 🌱 Vegetarian GEOskincare Founder 💻 levypublic@gmail.com
+      演员//歌手 唱歌🎤跳舞💃🏻 摄影📸拍戏 🎬 瑜伽🧘‍♀️运动🏊🏻‍♀️ @mediacorp Artiste #新加坡新传媒艺人 managed by @the_celebrityagency 工作联系For Work : yizhenngoh@mediacorp.com.sg Youtube
     location: "Malaysia"
-    followers: 117125
-    engagement: 206
-    commentsToLikes: 0.002538
-    id: ck6ttba7y9n3g0j71nflt3vht
-    verified: false
-    hashtags: "#levyfitlife, #travelgram, #2020, #mask"
-  - username: "hanlibubu"
-    fullname: >-
-      Hanlibubu 汉梨 | 🇲🇾
-    bio: >-
-      💛 Model • KOL • Host ✈️ Founder of @soinmediaenterprise 📥workwithme@hanlibubu.com 👇🏻分享我日常生活 📍KL, Malaysia 🇲🇾
-    location: "Malaysia"
-    followers: 61314
-    engagement: 266
-    commentsToLikes: 0.055161
-    id: ck0vy58c32am90i192780f20n
-    verified: false
-    hashtags: "#hanlibubu, #clg, #uspresident, #uspresidents"
+    followers: 161822
+    engagement: 218
+    commentsToLikes: 0.013796
+    id: ck8sxez4bh5lv0j78cjnyxl3s
+    verified: true
+    hashtags: "#yogatime, #bonniestepsvlog, #aibifitness, #happy"
 ---

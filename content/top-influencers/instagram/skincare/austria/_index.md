@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Austria in 2023
+title: Top 10 Skincare Instagram Influencers In Austria In 2023
 description: >-
-  Find top skincare Instagram influencers in Austria in 2023. Most popular hashtags: #skincare #vienna #wien #makeup.
+  Find top skincare Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #fashion #fashionblogger #ootd.
 platform: Instagram
-hits: 31
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 31 Instagram influencers like this in Austria for you to connect with.
+hits: 14
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 14 Instagram influencers like this in Austria for you to collaborate.
 profiles:
-  - username: "zoekarapetyan"
+  - username: "simply_lenny"
     fullname: >-
-      Zoé Karapetyan
+      LENNY💋✌🏼
     bio: >-
-      all about Fashion, Skincare & Beauty Interior Design lover 🌾 proud plant mom 🌱 ✉️ office@zoekarapetyan.com
+      Lenny‘s Little World of 🧘🏻‍♀️#yoga 🤸🏼‍♀️#fashion 💄 #traval ✈️ & #foodlover🍜
     location: "Austria"
-    followers: 20626
-    engagement: 199
-    commentsToLikes: 0.077470
-    id: ckaozti7lnbzv0i78iriwkd0k
+    followers: 1406
+    engagement: 4049
+    commentsToLikes: 0.510271
+    id: ckap52mut9wvu0i78iu0g9589
     verified: false
-    hashtags: "#getsyossed, #summerchild, #lovemybangs, #vegan"
-  - username: "meanwhileinawesometown"
-    fullname: >-
-      manuel
-    bio: >-
-      People who take themselves too seriously, should not be taken too seriously! 🤓 🌍 Vienna | Europe 🇪🇺 📸 menswear, lifestyle, travel, food & politics
-    location: "Austria"
-    followers: 32475
-    engagement: 158
-    commentsToLikes: 0.074894
-    id: ck0ua7ukbbpqe0i19200400ij
-    verified: false
-    hashtags: "#topeuropephoto, #skincareroutine, #forbestravelguide, #autumnvibes"
-  - username: "caroline.lena"
-    fullname: >-
-      Lena Caroline | Vienna
-    bio: >-
-      📍 #vienna 📷 #behindthescenes 🍴 #foodstories 🇦🇹 #contentcreator ✉️ lenacaroline.lc@gmail.com
-    location: "Austria"
-    followers: 10574
-    engagement: 326
-    commentsToLikes: 0.170100
-    id: ck0w4tdkd0bjo0i19ho2fzyd7
-    verified: false
-    hashtags: "#portraitgames, #freachlyvienna, #freddywear, #777luckyfish"
-  - username: "gernot_und_seref"
-    fullname: >-
-      Gernot & Seref 👨🏽‍🤝‍👨🏻
-    bio: >-
-      life | skin | beauty | food | travel 📍Vienna ❤️🌈 BE KIND 𝗔𝗯𝗼𝘂𝘁 𝘂𝘀 | 𝗢𝗻𝗹𝗶𝗻𝗲𝘀𝗵𝗼𝗽
-    location: "Austria"
-    followers: 6279
-    engagement: 998
-    commentsToLikes: 0.107962
-    id: ckap1267lssqm0i78anhwk37w
-    verified: false
-    hashtags: "#summervibes, #skincare, #gaytravelers, #gaywedding"
-  - username: "paulawwolf"
-    fullname: >-
-      Paula Wolf
-    bio: >-
-      ♡ #lessnegativitymorecreativity ☆ 21 ∘ Vienna ✎ Collabs/PR: paulawwolf@allimpact.net
-    location: "Austria"
-    followers: 327622
-    engagement: 255
-    commentsToLikes: 0.022802
-    id: ck0u8fa0h78cz0i19uo94sr4u
-    verified: false
-    hashtags: "#farsali, #anastasiabeverlyhills, #whatspoppinessence, #mascara"
-  - username: "vesna.jugovic"
-    fullname: >-
-      PhiAcademy Vienna
-    bio: >-
-      Founder of #phishading Grand Master PhiAcademy Vienna Gartengasse8/8 1050 Wien 📩vesna@phibrows.com📩 #vesnajugovic #vesnajugovicstudent
-    location: "Austria"
-    followers: 57637
-    engagement: 62
-    commentsToLikes: 0.111434
-    id: ck15qi9gd2z1x0i194spxtgim
-    verified: false
-    hashtags: "#schulung, #microbladingtraining, #bussiness, #pigmentation"
-  - username: "julia.eberl"
-    fullname: >-
-      𝘀𝗵𝗼𝗿𝘁𝗵𝗮𝗶𝗿 ▪️𝗺𝗮𝗸𝗲𝘂𝗽▪️𝘀𝗸𝗶𝗻𝗰𝗮𝗿𝗲
-    bio: >-
-      𝙼𝚊𝚖𝚊 𝚟𝚘𝚗 👧 ❤️ @berndsmode 𝙲𝚘𝚊𝚌𝚑 🅾🅽🅻🅸🅽🅴🆂🅷🅾🅿 + all about me
-    location: "Austria"
-    followers: 32707
-    engagement: 590
-    commentsToLikes: 0.052557
-    id: ck5bwj00flsp70i114fxghpe3
-    verified: false
-    hashtags: "#shorthairrocks, #shorthairdontcare, #frisuren, #cabellocorto"
+    hashtags: "#modeblogger, #potd, #reminder, #travelgoals"
   - username: "sheri_show"
     fullname: >-
-      🤍SHERI🤍
+      Shqlawa
     bio: >-
-      Beauty | Fashion | Lifestyle | Travel —————————————————— 📍 V I E N N A 📩 sheri.show.01@gmail.com
+      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
     location: "Austria"
-    followers: 61341
-    engagement: 259
-    commentsToLikes: 0.069202
+    followers: 61326
+    engagement: 244
+    commentsToLikes: 0.055980
     id: ck8ta6eejqlzf0j78zskkwc4n
     verified: false
-    hashtags: "#girls, #vienna, #makeupartist, #makeup"
-  - username: "lauralucaci_"
-    fullname: >-
-      𝐋 𝐀 𝐔 𝐑 𝐀
-    bio: >-
-      ➳ 𝖺𝖻𝗈𝗎𝗍 𝗅𝗂𝖿𝖾, 𝖻𝖾𝖺𝗎𝗍𝗒 & 𝖾𝗏𝖾𝗋𝗒𝗍𝗁𝗂𝗇𝗀 𝗂𝗇 𝖻𝖾𝗍𝗐𝖾𝖾𝗇 𝖿𝗋𝗈𝗆 𝖺𝗎𝗌𝗍𝗋𝗂𝖺 | 𝐑 ♡ ⇣ 𝐤𝐨𝐬𝐭𝐞𝐧𝐥𝐨𝐬𝐞 𝐡𝐚𝐮𝐭𝐛𝐞𝐫𝐚𝐭𝐮𝐧𝐠 ⇣
-    location: "Austria"
-    followers: 3702
-    engagement: 1625
-    commentsToLikes: 0.124816
-    id: ck6u4akk22na00j71s2vbfect
-    verified: false
-    hashtags: "#igersvienna, #picbedreamteam, #minimalstyle, #vienna"
+    hashtags: "#vienna, #fashion, #styleblogger, #shein"
   - username: "terezabudkova"
     fullname: >-
       Tereza Budková
     bio: >-
       Czech model 📸💄 Simply Model Management - Prague; Louisa Models- Hamburg, Munchen; Born Models- Denmark; AMT- Vienna ☺️
     location: "Austria"
-    followers: 103240
-    engagement: 464
-    commentsToLikes: 0.025014
+    followers: 110131
+    engagement: 473
+    commentsToLikes: 0.016313
     id: ck6tpthc4mrf00j717n7qvztb
     verified: true
-    hashtags: "#fashiondesigner, #praha, #backstage, #saturday"
+    hashtags: "#lovemyjob, #muah, #germany, #makeup"
+  - username: "suepergurl"
+    fullname: >-
+      Susanna Vierthaler | SKINCOACH
+    bio: >-
+      with a passion for slow fashion.♻️ GLOWY SKIN • ECOFASHIONISTA • MY OWN BOSS Graz📍 💌dm for skincoaching Collabs: suepergurrl@gmail.com YT-Kanal🎥 ⇩
+    location: "Austria"
+    followers: 6816
+    engagement: 800
+    commentsToLikes: 0.059099
+    id: ck5hp7gvrqvrn0i11hojsnla8
+    verified: false
+    hashtags: "#graz, #ecofashion, #shorthairlover, #vintagefashionforsale"
+  - username: "pilot.girl.alexandra"
+    fullname: >-
+      Alexandra
+    bio: >-
+      Airbus Pilot 👩🏼‍✈️ based in 📍Vienna ✈️
+    location: "Austria"
+    followers: 23683
+    engagement: 256
+    commentsToLikes: 0.027831
+    id: ck0ubxk8nfi9z0i192bypcwru
+    verified: false
+    hashtags: "#fly, #airbus, #laudamotion, #crew"
+  - username: "caroline.lena"
+    fullname: >-
+      Lena
+    bio: >-
+      📍 #vienna 📷 #behindthescenes 🍴 #foodstories 🇦🇹 #contentcreator ✉️ lenacaroline.lc@gmail.com
+    location: "Austria"
+    followers: 11291
+    engagement: 223
+    commentsToLikes: 0.218527
+    id: ck0w4tdkd0bjo0i19ho2fzyd7
+    verified: false
+    hashtags: "#bts, #lightroom, #sustainable, #rabattcode"
+  - username: "gernot_und_seref"
+    fullname: >-
+      Gernot & Seref 👨🏽‍🤝‍👨🏻
+    bio: >-
+      life | skin | beauty | food | travel 📍Vienna ❤️🌈 🔜 🇪🇸 BE KIND 𝗔𝗯𝗼𝘂𝘁 𝘂𝘀
+    location: "Austria"
+    followers: 7728
+    engagement: 468
+    commentsToLikes: 0.083522
+    id: ckap1267lssqm0i78anhwk37w
+    verified: false
+    hashtags: "#travellife, #beachday, #mallorca, #gaytraveler"
+  - username: "meanwhileinawesometown"
+    fullname: >-
+      manuel
+    bio: >-
+      People who take themselves too seriously, should not be taken too seriously! 🤓 🌍 Vienna | Europe 🇪🇺 📸 menswear, lifestyle, travel, food & politics
+    location: "Austria"
+    followers: 32856
+    engagement: 163
+    commentsToLikes: 0.045530
+    id: ck0ua7ukbbpqe0i19200400ij
+    verified: false
+    hashtags: "#outfitideasforyou, #pauseshots, #nclgallery, #classyvision"
+  - username: "beatravelgirl"
+    fullname: >-
+      Beate
+    bio: >-
+      from 📍Vienna all around the 🌍 90's 👶 • law life 💻 • 💏 taken • 🇵🇱 roots fitness 🏋🏼‍♀️• foodie🍝 • beach girl 🌊
+    location: "Austria"
+    followers: 11158
+    engagement: 512
+    commentsToLikes: 0.152852
+    id: ck0w5tgn25czz0i19733mgypr
+    verified: false
+    hashtags: "#vienna, #girlsborntravel, #urlaubin, #traveller"
+  - username: "rieberermelanie"
+    fullname: >-
+      RIEBERER Hair & Make Up
+    bio: >-
+      📍Vienna/berlin🏙️ 📍Bavaria/tyrol 🏔️
+    location: "Austria"
+    followers: 7367
+    engagement: 500
+    commentsToLikes: 0.036341
+    id: ck0u0wewjv2950i19tzk632lw
+    verified: false
+    hashtags: "#colour, #photosphotoshoot, #editorialshoots, #hairstylist"
 ---

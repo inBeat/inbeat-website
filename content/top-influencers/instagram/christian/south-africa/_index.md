@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In South Africa in 2023
+title: Top 10 Christian Instagram Influencers In South Africa In 2023
 description: >-
-  Find top christian Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #capetown #save.
+  Find top christian Instagram influencers in South Africa in 2023. Most popular hashtags: #love #blessed #faith.
 platform: Instagram
-hits: 17
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat has 17 Instagram influencers like this in South Africa for you to collaborate.
+hits: 19
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 19 Instagram influencers like this in South Africa for you to pitch.
 profiles:
+  - username: "karlobaker"
+    fullname: >-
+      Karlo Baker
+    bio: >-
+      🔥Chat @ CAMEO👇 📕 Men's Lifestyle, Fashion & Travel Blog 💻 Entrepreneur|PublicSpeaker|Advocate 🗣 Face of #Nero in #devilmaycry5 ✝️ Christian 📍Cape Town
+    location: "South Africa"
+    followers: 45284
+    engagement: 286
+    commentsToLikes: 0.049609
+    id: ck6tpfsiyjmb60j71epp6drpu
+    verified: false
+    hashtags: "#truewisdom, #behindthescenes, #nofilter, #pain"
+  - username: "nikuslourens"
+    fullname: >-
+      Nikus Lourens
+    bio: >-
+      God > Your problems I make videos 🎥⬇️⬇️ Christian✝️ South African🇿🇦 ❤️ @chanelle_maritz
+    location: "South Africa"
+    followers: 44523
+    engagement: 1067
+    commentsToLikes: 0.006367
+    id: ck9wd7wkneh360j78b9u4fahf
+    verified: false
+    hashtags: "#gymmemes, #homeworkout, #photoideas, #natureposes"
   - username: "heartofhorton"
     fullname: >-
       Cassie Horton
     bio: >-
       Christian ⛪️ Wifey to @jugglinjosh 💖 South-African Living in LA 🇿🇦 All-Around Family Girl 👨‍👩‍👧‍👧 World Traveler 🌍 New YouTube video! 👇🏼
     location: "South Africa"
-    followers: 4169
-    engagement: 1185
-    commentsToLikes: 0.025989
+    followers: 4148
+    engagement: 1223
+    commentsToLikes: 0.026264
     id: ck0vvm3axpq0g0i19nx2og7sz
     verified: false
-    hashtags: "#easterbunny, #namethatlyric, #travel, #heisrisen"
+    hashtags: "#batucaves, #healthyhabits, #namethatlyric, #merryandbright"
+  - username: "jesseleepeterson"
+    fullname: >-
+      Rev. Jesse Lee Peterson
+    bio: >-
+      Founder of BOND @Rebuildingtheman Radio/TV Host, Pastor, Counselor, Author & Activist Not "African-American" I’m 💯🇺🇸 JLP Show Mon-Fri 6-9am PT
+    location: "South Africa"
+    followers: 62044
+    engagement: 170
+    commentsToLikes: 0.103850
+    id: ck0w414mfw9rv0i19as7suven
+    verified: true
+    hashtags: "#jesseleepeterson, #faith, #instadaily, #bible"
   - username: "reformedbychrist"
     fullname: >-
       Marnus & Jacques Stadler
     bio: >-
       💪GOAL: To REFORM the world through CHRIST🔥 📖Driven by a passion for Christ👑 ❤️Spreading the Gospel to the world!✝️ 🗣Pastors: @reformedbychristchurch ⛪
     location: "South Africa"
-    followers: 243287
-    engagement: 394
-    commentsToLikes: 0.022782
+    followers: 310757
+    engagement: 137
+    commentsToLikes: 0.016348
     id: ck0vwotrluusl0i19kw5ccgp7
     verified: false
-    hashtags: ""
-  - username: "olivermatthieu"
+    hashtags: "#catholic, #gospel, #faith, #amen"
+  - username: "innosadiki"
     fullname: >-
-      Oliver Matthieu
+      Innocent Sadiki
     bio: >-
-      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
+      💎Preacher/Motivational Speaker 💎Reality Star on #PastorsWives 💎Actress ‘Sthoko’ on @skeemsaam8 💎Film “The Throne” on NETFLIX
     location: "South Africa"
-    followers: 5268
-    engagement: 1453
-    commentsToLikes: 0.096049
-    id: ck15pkwu6ye0b0i19o3n9yx4s
-    verified: false
-    hashtags: "#friends, #happy, #childactor, #mixedindonesian"
-  - username: "marcellebosman"
+    followers: 666066
+    engagement: 89
+    commentsToLikes: 0.014328
+    id: ck6uc9gesea4e0j71y6zdkmi1
+    verified: true
+    hashtags: "#innocentsadikiquotes, #sthoko, #quotes, #skeemsaam"
+  - username: "makgofe"
     fullname: >-
-      Marcelle Bosman
+      Makgofe Moagi
     bio: >-
-      @diewildberries 🎤 @mcbhandmade 👐 Luke 8:17 ✝️ RSA🇿🇦 •••••••••••••• Sponsored by: GBS👮‍♂️ Oasis Water💧 @fabulous_10 💅 @butterflies_soneike 💇‍♀️
+      👑🇿🇦 #entrepreneur #actress #speaker #MC🚫#GBV🚫#disability #abuse🚫#childtrafficking #skincare #mentalhealth #LGBTQIA+ Bookings@makgofe.com #twins bearer
     location: "South Africa"
-    followers: 6587
-    engagement: 1541
-    commentsToLikes: 0.002553
-    id: ck6u39j6xwij20j71w1ba8dxr
+    followers: 102125
+    engagement: 218
+    commentsToLikes: 0.016629
+    id: ck0w1ztwvly4m0i19zmdc6p2o
     verified: false
-    hashtags: "#instatags, #hashtags, #capetown, #southafrica"
-  - username: "travelwithmila_"
+    hashtags: "#love, #new, #blessed, #wisdom"
+  - username: "lionelloueke"
     fullname: >-
-      Милица
+      Lionel Loueke
     bio: >-
-      𝒯𝓇𝒶𝓋𝑒𝓁. 𝐸𝓍𝓅𝓁𝑜𝓇𝑒. 𝐿𝒾𝓋𝑒. 🧿 Serbian | Croatian | South African ✈️ 59 countries 📍Dubai
+      'West African improvising ninja on guitar' - NY Times
     location: "South Africa"
-    followers: 3705
-    engagement: 1025
-    commentsToLikes: 0.123465
-    id: ck8t3vgwg4n4q0j78wjnqep7t
-    verified: false
-    hashtags: "#fashionlooks, #fashiongrammer, #stylelookbook, #personalstyleblog"
-  - username: "simonitesirch"
-    fullname: >-
-      SIMONIT&SIRCH
-    bio: >-
-      VINE MASTER PRUNERS
-    location: "South Africa"
-    followers: 7894
-    engagement: 507
-    commentsToLikes: 0.007901
-    id: ck5bw3urpky720i1170x8psir
-    verified: false
-    hashtags: "#greenseason, #traveldestination, #wines, #vinolovers"
+    followers: 27824
+    engagement: 581
+    commentsToLikes: 0.034432
+    id: ck0u28s3qz8490i19pi91buww
+    verified: true
+    hashtags: "#guitar, #musician, #guitarist, #repost"
   - username: "armandfourie133"
     fullname: >-
       Armand Fourie™️
     bio: >-
       Jesus Christ ⚜️ Hard Enduro ⚔️ SA🇿🇦
     location: "South Africa"
-    followers: 3412
-    engagement: 1029
-    commentsToLikes: 0.050423
+    followers: 3398
+    engagement: 1091
+    commentsToLikes: 0.057074
     id: ckap3j64f37tc0i78py49n68x
     verified: false
-    hashtags: "#ktmracing, #extremeenduro, #enduro, #tough"
-  - username: "carmen.solomons"
-    fullname: >-
-      Carmen Lee Solomons
-    bio: >-
-      God 1st 💖 Photogenics LA 📍 Boss Models Cape Town Nevs London South African 🇿🇦🌟
-    location: "South Africa"
-    followers: 103309
-    engagement: 275
-    commentsToLikes: 0.014533
-    id: ck15q3osz0xzx0i192apwudiv
-    verified: true
-    hashtags: "#digitals, #bts, #humantrafficking, #nomakeup"
-  - username: "melissabrownza"
-    fullname: >-
-      Melissa Brown
-    bio: >-
-      🍃 Luxury Travel & Adventure 📸 Filmmaker | Photographer @shotbymelissa 🌍 Founder @adventurebabyonline 🇿🇦 Cape Town 📩: hello@melissabrown.online
-    location: "South Africa"
-    followers: 13265
-    engagement: 559
-    commentsToLikes: 0.060933
-    id: ck135sn0q313k0i19s8wn0tay
-    verified: false
-    hashtags: "#femalefilmmakers, #chasingafrica, #skatergirl, #longboard"
+    hashtags: "#nature, #enduro, #hardenduro, #tough"
   - username: "ginger_trill"
     fullname: >-
       Ginger Trill
     bio: >-
-      For Booking Inquiries - bookings@gingertrill.com
+      • Rapper/Record producer • Award Winning Artist ( SAHHA & VOTY ) • CEO of VIKINGS • All-round creative
     location: "South Africa"
-    followers: 20034
-    engagement: 370
-    commentsToLikes: 0.057108
+    followers: 20190
+    engagement: 449
+    commentsToLikes: 0.047352
     id: ck5c3xq4q08zm0i11lns8s1al
     verified: false
-    hashtags: "#chainsreup, #frompotchwithlove, #alotmusicvideo, #miniconcert"
+    hashtags: "#frompotchwithlove, #alotmusicvideo, #chainsreup, #igniumep"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Germany in 2023
+title: Top 10 Nutrition Instagram Influencers In Germany In 2023
 description: >-
-  Find top nutrition Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #fitnessmotivation #ootd.
+  Find top nutrition Instagram influencers in Germany in 2023. Most popular hashtags: #gesunderezepte #bodybuilding #blogger #fashionblogger.
 platform: Instagram
-hits: 265
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 265 Instagram influencers like this in Germany for you to contact.
+hits: 186
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 186 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "m_onika_k"
+  - username: "nicolas_aesthetics"
     fullname: >-
-      MONIKA ⚜️ KUREK
+      Nicolas Enache | Fitness, Cooking & Health
     bio: >-
-      🕊cooperation🕊: mkurek1308@web.de 🔹-20% @real_pharm_nutrition kod rabatowy: monika20
+      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
     location: "Germany"
-    followers: 87145
-    engagement: 769
-    commentsToLikes: 0.063052
-    id: ck14icxfjesif0i196uoxpnd3
+    followers: 107721
+    engagement: 431
+    commentsToLikes: 0.007534
+    id: ck5hdm6dio6r40i11vzge88qv
     verified: false
-    hashtags: "#preciosa, #polishgirl, #sexylegs, #womanfashion"
-  - username: "emiromeragic"
+    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
+  - username: "danielamonida"
     fullname: >-
-      EMIR OMERAGIC
+      DANIELA MONIDA
     bio: >-
-      Sponsored by @np_nutrition @powerstage.germany @smilodox @climaqx_ -10% Code: Emir10 YouTube: Emir Omeragic
+      Your body is a temple 🦋 founder of @monida.bags 👜 @mammut_nutrition „monida15“ 🔐 @manu.frnk Amazon finds in stories and ⬇️
     location: "Germany"
-    followers: 21437
-    engagement: 1136
-    commentsToLikes: 0.063709
-    id: ck6u6txvkhpie0j71bgk0n8sy
+    followers: 188865
+    engagement: 32
+    commentsToLikes: 0.704258
+    id: ck6tn1d518xv90j71gdkohaqb
     verified: false
-    hashtags: "#teamtuor, #talkischeap, #talksischeap, #fatandhappy"
-  - username: "mirashurbaji"
+    hashtags: "#sheinforall, #france, #outfitinspiration, #eiffeltower"
+  - username: "marisa.hofmeister"
     fullname: >-
-      Mيra🧿🇱🇧
+      Marisa Hofmeister
     bio: >-
-      Bau'23 nutrition&dietetics🍏 ﷽ 🇯🇴 🔁🇹🇷 Blog:- @istanbulmeetshealth 📧 shurbajimira@gmail.com
+      🌱Certified Holistic Health & Nutrition Coach 🌈 TÄGLICHE Food & Lifestyle Inspo 💌 mgmt@marisahofmeister.com 🎙Podcast: M&Mpowerment 📍BER🇩🇪
     location: "Germany"
-    followers: 3163
-    engagement: 2198
-    commentsToLikes: 0.165222
-    id: ckf5u2zwbjedt0j239evfr28d
+    followers: 67112
+    engagement: 435
+    commentsToLikes: 0.041615
+    id: ck0txg2zcizdk0i19ulv1zs53
     verified: false
-    hashtags: ""
-  - username: "giuljana.wolf"
+    hashtags: "#mindset, #gesunderezepte, #tuscanywedding, #vollgem"
+  - username: "sophieklex"
     fullname: >-
-      GIULJANA 🌸
+      s o p h i e k l e x
     bio: >-
-      •20|German|Augsburg •Fitness & Nutrition 🏃🏽‍♀️🍎 •I want to make memories all over the world•
+      📍KO | Germany 💌 sophieklex@gmail.com 💛 LIFESTYLE • TRAVEL ✈️ Flight Attendant 🎓 Health- and Nutrition Science ⏰ Post at 20pm
     location: "Germany"
-    followers: 6519
-    engagement: 1240
-    commentsToLikes: 0.090501
-    id: ckaoycklggxwq0i78x5l695ni
+    followers: 51228
+    engagement: 374
+    commentsToLikes: 0.156021
+    id: ck0tvfydjb6lo0i19t6d5a0zu
     verified: false
-    hashtags: "#loveyourself"
-  - username: "misslaram"
+    hashtags: "#wearthisnext, #alm, #berge, #styledomino"
+  - username: "the.miraclebear"
     fullname: >-
-      𝓛𝓪𝓻𝓪
+      Urs Kalecinski | 🌐 IFBB PRO
     bio: >-
-      ♡ 𝚏𝚊𝚜𝚑𝚒𝚘𝚗𝚒𝚜𝚝𝚊 | 𝚏𝚒𝚝𝚗𝚎𝚜𝚜𝚕𝚘𝚟𝚎𝚛 ✉️ 𝚌𝚘𝚘𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜 - 𝚖𝚊𝚒𝚕 ♡ 🔐 ♡ @ironmaxx_nutrition 𝚏𝚊𝚖 „𝚖𝚒𝚜𝚜𝚕𝚊𝚛𝚊𝚖𝟷𝟶“ @bodyengineers „2UA2GGP6MH“
+      𝗿𝗲𝗮𝗰𝗵 𝗺𝗮𝘅𝗶𝗺𝘂𝗺 𝗮𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰 🇩🇪 🇵🇱 ⭕️lympian @np_nutrition urs10 ONLINE SHOP & COACHING 🔽🔽🔽
     location: "Germany"
-    followers: 18328
-    engagement: 776
-    commentsToLikes: 0.077800
-    id: ck8tch2p1zg8m0j78xsaehfm7
+    followers: 37205
+    engagement: 955
+    commentsToLikes: 0.030442
+    id: ck5hn9f8snfkj0i11gaf0vwg5
     verified: false
-    hashtags: "#gymmotivation, #autumn, #fashionstyle, #fashionstatement"
-  - username: "ro.maan"
+    hashtags: "#ifbbpro, #dreamchaser, #gekienzlt, #newgeneration"
+  - username: "denisebobe"
     fullname: >-
-      Roman Schmid 🇩🇪
+      DENISE BOBE
     bio: >-
-      🔸Be happy🔸 ▪️ @srs_nutrition ➡️ Roman10 /-10% ▪️ ⏬PLAYLIST⏬
+      germany, cgn | 25, 𝘱𝘪𝘴𝘤𝘦𝘴 ♓︎ denise@studioone-mgmt.de @denisebobepreset | @denise.nutrition MY PRESETS 👇🏼
     location: "Germany"
-    followers: 13865
-    engagement: 1958
-    commentsToLikes: 0.055901
-    id: ck6tn0j6b8w4f0j71hbdr3cqn
+    followers: 360785
+    engagement: 518
+    commentsToLikes: 0.021141
+    id: ck55jq0fnxjcr0i112810le7z
     verified: false
-    hashtags: "#positivesdenken, #johnreedfitness, #portraits, #fitfamdeutschland"
-  - username: "k.a.z.a.k.o.v.a"
+    hashtags: "#ootd, #greece, #inspo, #summer"
+  - username: "lisa.frank93"
     fullname: >-
-      ANASTASIYA KAZAKOVA
+      Lisa
     bio: >-
-      PRAGUE🔥Influencer Ambassador for @boxeurdesruesofficial,@tummytox.cz,@vigor_nutritioncz Collab💌:collabanastasija@gmail.com Born on 14th of February❤️
+      „Be you. Believe in yourself.“ Law I Athlete I Fitfood I Team @olimp_sport_nutrition Code: „LISA10“ 🏅4. Platz @gnbf_ev ‘19 🏅5. Platz @nac_germany ‘19
     location: "Germany"
-    followers: 19793
-    engagement: 480
-    commentsToLikes: 0.125623
-    id: ckaot985cuvbn0i785b566wl2
+    followers: 4929
+    engagement: 961
+    commentsToLikes: 0.196921
+    id: ck0w04cadcbfh0i196lrwvzmi
     verified: false
-    hashtags: "#picofday, #bloggersre, #fitnessgirl, #dresden"
-  - username: "anne__kat"
+    hashtags: "#gesunderezepte, #cleaneating, #gesundeern, #fridaymood"
+  - username: "bahar_ifbb_figure_pro"
     fullname: >-
-      Anne Kat || MindBodySoul
+      Bahar_Ayra
     bio: >-
-      𝙴𝚗𝚘𝚞𝚐𝚑 𝚒𝚗 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚠𝚎 𝚊𝚛𝚎♡ ∘ Health ∘ Awareness ∘ Spirituality ∘ Nutrition ∘ Fitness 𝙸𝚝’𝚜 𝚊𝚕𝚕 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍 ✎ annekat@mail.de Rabatte: ➳ Highlights
+      🇺🇸 🐺 IFBB FIGURE PRO 💫POSING Skype DM Me ▪️Team @jb_personal_fitness 👙 @verena_alice_ek ▪️ @np_nutrition BAHAR10 -10% OFF ▪️ @protan_europe BAHARA10
     location: "Germany"
-    followers: 39619
-    engagement: 309
-    commentsToLikes: 0.062793
-    id: ck6trg3cuys9i0j710ylpssy3
+    followers: 5230
+    engagement: 1876
+    commentsToLikes: 0.099935
+    id: ckf5rghjmckyu0j23xmr09v0d
     verified: false
-    hashtags: "#notetoyourself, #trustthetimingofyourlife, #dieangstvordemscheiternverfolgtunsalle, #grateful"
-  - username: "stefaniegold_ifbbpro"
+    hashtags: "#strongwoman, #bodybuilder, #throwbacktuesday, #power"
+  - username: "veronika.haaf"
     fullname: >-
-      𝑺𝒕𝒆𝒇𝒂𝒏𝒊𝒆 𝑮𝒐𝒍𝒅 𝑰𝑭𝑩𝑩 𝑷𝑹𝑶 🇩🇪
+      Veronika Haaf
     bio: >-
-      @np_nutrition 10% steffi10 @noccogermany @gethuge.de 10% Steffi10 ▪ 🌱𝑽𝒆𝒈𝒈𝒊𝒆 ▪ coach: @simonstetter ▪️ #0711 ▪️ @benlukas_ifbbpro
+      Coach | dogmom 🐶 | #wildchild ⛰ from bavaria Fitness• Nutrition •Mindset spreading positive vibes🌞 & balance 🧘‍♀️ Blog & Impressum👇
     location: "Germany"
-    followers: 59616
-    engagement: 470
-    commentsToLikes: 0.039683
-    id: ck6trg3j1ysb70j71ugzu507j
+    followers: 14481
+    engagement: 552
+    commentsToLikes: 0.146461
+    id: ck0w3384mrdq90i19ttp1kuyd
     verified: false
-    hashtags: "#muscles, #selfie, #fitstagram, #bikini"
-  - username: "martinmichelius"
+    hashtags: "#selbstliebe, #blogger, #vegetarian, #happygirlsaretheprettiest"
+  - username: "lu_coaching"
     fullname: >-
-      Martin Michelius
+      Die Luisa aus Göttingen
     bio: >-
-      Sport |Fashion |Lifestyle @mcfitmodels @energycake_ Team @ironmaxx_nutrition 10%=MartinM10 Athlete @suprfitde Fashion @laboutiqueofficielle
+      Mobility | Fitness | Nutrition Coach 💭 From Dream To Success 🌍 www.lu-coaching.de 📩 collaboration@lu-coaching.de 🎥 YouTube: Lu-Coaching
     location: "Germany"
-    followers: 37149
-    engagement: 293
-    commentsToLikes: 0.199396
-    id: ck6toa7vrcysh0j71llotzzvg
+    followers: 147899
+    engagement: 190
+    commentsToLikes: 0.042025
+    id: ck8t0zjkntwv00j78l6o1ty8f
     verified: false
-    hashtags: "#fashion, #fashionpartner, #instagood, #training"
+    hashtags: "#fitnesstransformation, #beintraining, #abnehmen, #unperfektperfekt"
 ---

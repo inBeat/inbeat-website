@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in 2023. Most popular hashtags: #tattoogirl #tattooartist #fashion.
+  Find top tattoo-artists Instagram influencers in 2023. Most popular hashtags: #tattoo #tattooart #tattoos #tattooed.
 platform: Instagram
-hits: 4175
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 4175 Instagram influencers like this for you to collaborate.
+hits: 4087
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 4087 Instagram influencers like this for you to contact.
 profiles:
+  - username: "thomascarlijarlier"
+    fullname: >-
+      Thomas Carli jarlier
+    bio: >-
+      Tattoo artist, owner of @noireinkfrance - CLERMONT-FERRAND 🇫🇷 @noireinklondon - LONDON Realism/Abstract Realism
+    location: "United Kingdom"
+    followers: 448028
+    engagement: 140
+    commentsToLikes: 0.014065
+    id: ck15puamyznrx0i19z5bqwza4
+    verified: false
+    hashtags: "#blackandgrey, #sunskinthomascarlijarliersignature, #realistictattoo, #carligallery"
+  - username: "horror_tattoo"
+    fullname: >-
+      Anna Chernova
+    bio: >-
+      •Dark…beautiful •Professional Tattoo Artist from LA,SF •Email: Fedorhorror94@gmail.com •Pro Team @hustlebutterdeluxe •Official partnership @tattoodo
+    location: "United States"
+    followers: 32921
+    engagement: 131
+    commentsToLikes: 0.014705
+    id: ck5bub9f4hh850i11l8fezm3z
+    verified: false
+    hashtags: "#hustlerbutter, #hustlerbutterdeluxe, #wjxcartridges, #hustelbutterdeluxe"
+  - username: "elmirakruger"
+    fullname: >-
+      Elmira Kruger
+    bio: >-
+      Hamburg- November 🗓 Designer of your body✍️ TELEGRAM- https://t.me/ElmiraKrugertattoo Tattoo artist
+    location: "United States"
+    followers: 123343
+    engagement: 111
+    commentsToLikes: 0.008961
+    id: ck8svyxj4d7tf0j789kbsvi5w
+    verified: false
+    hashtags: "#rap, #rock, #style, #realism"
+  - username: "maya_gat"
+    fullname: >-
+      Maya Gat Tattoos 🌿 מיה גת
+    bio: >-
+      Tattoo artist & painter • Tel Aviv •Working at @rom_studio Booking will open again soon 🧡 •Bookings via email only-mayagat.tattoos@gmail.com
+    location: "United Kingdom"
+    followers: 20207
+    engagement: 772
+    commentsToLikes: 0.069048
+    id: ckf5mm1zkufzc0j23pzpw6z21
+    verified: false
+    hashtags: "#tattoos, #tatts, #tattooideas, #tattooed"
   - username: "pau.armstrong"
     fullname: >-
       Pau Armstrong - Calalini
     bio: >-
-      #GirlBoss at @mf.bondstreet Check my music💔 @pau.armstrong.piercer #tarotist #tattoo #artist 22 Backup @lil.shypau pau.ladymaiden@gmail.com
+      #GirlBoss at @mf.bondstreet Check my music💔 Backup @lil.shypau 23 #tvhost #tarotist #tattoo #artist #piercer pau.ladymaiden@gmail.com
     location: "Argentina"
-    followers: 39637
-    engagement: 715
-    commentsToLikes: 0.078548
+    followers: 41216
+    engagement: 693
+    commentsToLikes: 0.014648
     id: ck5qbqxydmz000i11fl1khwv5
     verified: false
-    hashtags: "#punkgirl, #egirl, #goth, #gothgirl"
-  - username: "zaira.oraison"
+    hashtags: "#manga, #cute, #inked, #anime"
+  - username: "lobotattooart"
     fullname: >-
-      Zaira Oraison
+      Pedro Lobo 🌈
     bio: >-
-      ❤️~Level 24 🧡~Virgo♍ 💛~Italy󾓩 💚~Tattoo artist➡️ @zaira.tattoo 💙~Cosplayer 💜~Comic artist ➡️ @half_of_the_poisoned_apple 🖤~Gamer🎮 🌈love is love🌈 🦄YAOI🦄
-    location: ""
-    followers: 8598
-    engagement: 1830
-    commentsToLikes: 0.035416
-    id: ckapahiruw4qm0i7877ll35ou
+      Tattoo artist São Paulo | Mantra Tattoo | Pinheiros Marque aqui um orçamento: (11) 977396227
+    location: "Brazil"
+    followers: 33322
+    engagement: 540
+    commentsToLikes: 0.009229
+    id: ck5zue3i626sa0i1495jc89xy
     verified: false
-    hashtags: "#bakugoukatsukicosplay, #eren, #levi, #boy"
+    hashtags: ""
+  - username: "kraseczka"
+    fullname: >-
+      Klaudia Kraska
+    bio: >-
+      make up & tattoo artist from Lublin contact : 👉🏼 kraskaklaudia1@gmail.com 👈🏼📩 work account : @kraseczkatattoo 👩🏼‍🎨🎨 my dog kennel : @chichihousefci 🐶
+    location: "Poland"
+    followers: 48462
+    engagement: 427
+    commentsToLikes: 0.010667
+    id: ck5bvzkyzkpil0i113w8jpsp4
+    verified: false
+    hashtags: "#dominicanrepublic"
+  - username: "_aaroncarey"
+    fullname: >-
+      Aaron Carey
+    bio: >-
+      Tattoo artist Black & grey Owner @desireinklab DM for inquiries 2310 Commercial St SE Salem, Oregon 97302
+    location: "Sweden"
+    followers: 18238
+    engagement: 632
+    commentsToLikes: 0.200404
+    id: ck139n330m4ov0i191urmgsrb
+    verified: false
+    hashtags: "#tattoorevuemag, #floraltattoo, #tattoosalday, #girlswithtattoos"
   - username: "aidualkylno"
     fullname: >-
       Klaudia Jóźwiak
     bio: >-
       🎤@mamtalent_tvn 12 💃Dancer/Choreographer 💪Fitness Instructor 💀Tattoo Artist 🍕Dietician 📩 aidualkylno@wp.pl
     location: "Poland"
-    followers: 16102
-    engagement: 1114
-    commentsToLikes: 0.031379
+    followers: 16717
+    engagement: 958
+    commentsToLikes: 0.035935
     id: ck8t6yr61f3xl0j78p4y19drf
     verified: false
-    hashtags: "#soft, #nails, #black, #love"
-  - username: "maya_gat"
+    hashtags: "#time, #positive, #girl, #nature"
+  - username: "fabitattoo"
     fullname: >-
-      Maya Gat Tattoos 🌿 מיה גת
+      Fabi Ventura - Geek Tattoo
     bio: >-
-      Tattoo artist & painter • Tel Aviv •Working at @rom_studio •Bookings via email only -mayagat.tattoos@gmail.com Make tea not war 🍵✨
-    location: "United Kingdom"
-    followers: 11799
-    engagement: 1089
-    commentsToLikes: 0.069054
-    id: ckf5mm1zkufzc0j23pzpw6z21
+      Tattoo Artist 💕🦄 Orçamentos: Whats: (11)94325-5174 Atendendo no @nineinktattoo 🔥 🖤Black e fineline: @fabiventuratattoo 🖌Ilustrações: @fabiventuraart
+    location: "Brazil"
+    followers: 23223
+    engagement: 465
+    commentsToLikes: 0.074679
+    id: ck8t8wfg4m3lo0j781seyif2p
     verified: false
-    hashtags: "#requiemforadream"
-  - username: "andrea_kroki"
-    fullname: >-
-      Andrea Kroki
-    bio: >-
-      On the road Tattoo Artist🎨 Based in Catania🇮🇹 Regular guest Spain🇪🇸 France🇫🇷 •3891060663 andreaenigma1@gmail.com Personal page @andrea_lombardo.k
-    location: "Italy"
-    followers: 10318
-    engagement: 720
-    commentsToLikes: 0.136193
-    id: ck5qeaoi9zj9k0i11m5nt70ii
-    verified: false
-    hashtags: "#tattoomagazine, #inksubmission, #catania, #abstracttattoo"
-  - username: "shiratwig"
-    fullname: >-
-      Shira Twig🧚🏼‍♀️
-    bio: >-
-      19 y/o, tattoo artist. 🤹🏻‍♀️ Booking is closed🦋
-    location: ""
-    followers: 18173
-    engagement: 1074
-    commentsToLikes: 0.029379
-    id: ck134zvdkz0eo0i19cwednx9k
-    verified: false
-    hashtags: "#dumbo, #disney, #buzzlightyear, #toystory"
-  - username: "flucsy13"
-    fullname: >-
-      Flucsy flu 🖤☠️
-    bio: >-
-      💉Tattoo Artist💉: en @flucsy.tattoo ⬅️🐰 ☾ 🖤Alt Model: Canjes o Produs al MD💌
-    location: "Argentina"
-    followers: 23824
-    engagement: 581
-    commentsToLikes: 0.060950
-    id: ck6ugnbn540aj0j71s1t8c8o1
-    verified: false
-    hashtags: "#nugoth, #gothgirl, #alternativemodel, #gothmodel"
-  - username: "blackmermaiid_"
-    fullname: >-
-      𝕭𝖑𝖆𝖈𝕶 • 𝕸𝖊𝖗𝖒𝖆𝖎𝖉
-    bio: >-
-      Barcelona 🧜🏻‍♀️🔮 Cats😻Fashion👗Tattoos😷💉 Makeup💄 Travels✈️ Food 🍣 Team @pullandbear 👗 Tattoo Artist @sevenseas_tattoo 😷 Owner @sabbathcultclo 🔮
-    location: "Spain"
-    followers: 31497
-    engagement: 1131
-    commentsToLikes: 0.020346
-    id: ck8tb53cfub9n0j78ejzsqrkh
-    verified: false
-    hashtags: "#blonde, #havefun, #tattoed, #goodvibes"
-  - username: "brandochiesa"
-    fullname: >-
-      Brando Chiesa
-    bio: >-
-      💖pastel gore💖X🔥Animetal🔥 @tattoodo ambassador @fkirons @eternalink Tattoo artist and illustrator based in Florence Italy 📩brandochiesa01@gmail.com📩
-    location: "United States"
-    followers: 881052
-    engagement: 856
-    commentsToLikes: 0.010038
-    id: ck55pdbauabl20i11jqqhap9a
-    verified: true
-    hashtags: "#thering, #hunterxhunter, #sailormoon, #evangelion"
-  - username: "vendlertattoo"
-    fullname: >-
-      Kristian Vendler
-    bio: >-
-      ✦ International Tattoo Artist ✦ DECEMBER 2020 NYC 🇺🇸 BOOKINGS OPEN
-    location: "Germany"
-    followers: 110668
-    engagement: 579
-    commentsToLikes: 0.015133
-    id: ck0vz3zzb76qa0i194hpgkuti
-    verified: false
-    hashtags: "#vendlertattoo, #kristianvendler, #germany, #stuttgart"
+    hashtags: "#blackworktattoo, #pratodosverem, #geekink, #piticas"
 ---

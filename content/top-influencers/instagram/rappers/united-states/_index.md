@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In United States in 2023
+title: Top 10 Rappers Instagram Influencers In United States In 2023
 description: >-
-  Find top rappers Instagram influencers in United States in 2023. Most popular hashtags: #blackouttuesday #may29 #unitedwestand.
+  Find top rappers Instagram influencers in United States in 2023. Most popular hashtags: #explore #tattoorealistic #killerinktattoosupplies.
 platform: Instagram
-hits: 1041
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 1041 Instagram influencers like this in United States for you to connect with.
+hits: 1239
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 1239 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "avisamuelangel"
+  - username: "lilkloroxxx"
     fullname: >-
-      𝔸𝕧𝕚 𝕒𝕟𝕘𝕖𝕝
+      Lil Kloroxxx
     bio: >-
-      🔒P.O.box 10810 N. Tatum Blvd #102908 Phoenix Az 85028 United States. Actor,model,rapper,singer Tiktok:aviangel14 (156k)
+      Rapper // Lifestyle Artist 🙏🏻 Yea I’m giving away a Wraith 💪🏻 LATEST VISUAL 👇🏻👇🏻
     location: "United States"
-    followers: 275044
-    engagement: 996
-    commentsToLikes: 0.214969
-    id: ckap1d4kgu2td0i7887pd9m5d
+    followers: 35382
+    engagement: 1528
+    commentsToLikes: 0.049377
+    id: ck8weho4oe2e60j78aczwh872
     verified: false
-    hashtags: ""
-  - username: "brandzo1"
+    hashtags: "#platinum, #traptothefuture, #promqueen, #halloween"
+  - username: "teeferrari"
     fullname: >-
-      Brandz FW
+      Tee Ferrari
     bio: >-
-      energiesarereal 👨🏽‍🔬 aka John Papi. #FWMG 💔 BIG WAVER. Cobain Brazy. HENDRIXX II. Singer 💔 Rapper 🌠 3WAVEMG
+      The rapper that bouta be the Leukemia back to back champ.🏆 CEO of Trash Rap Entertainment Inc Oceanside CA
     location: "United States"
-    followers: 61911
-    engagement: 555
-    commentsToLikes: 0.052218
-    id: ck5c6vuqo6b0o0i11qhavdn03
-    verified: true
-    hashtags: "#putthisonyourstory"
-  - username: "trossthegiant"
-    fullname: >-
-      T. ROSS.
-    bio: >-
-      Ugly Boy the Trash Rapper (just beat leukemia too🙏🏼, so stay away if you aint got no mask bro)
-    location: "United States"
-    followers: 6003
-    engagement: 2222
-    commentsToLikes: 0.061573
+    followers: 5773
+    engagement: 2050
+    commentsToLikes: 0.059394
     id: ck136ile16nu00i19gafflw2f
     verified: false
     hashtags: ""
-  - username: "kflum"
+  - username: "leamotion"
     fullname: >-
-      kevin flum
+      Lea Sabban 🎥
     bio: >-
-      songwriter/rapper guy aka @itsdrinkurwater Bookings/Inquires: justin@motionprojects.io - NEW MUSIC OUT NOW
+      📽 Digital Content Creator📍NYC📍🇫🇷 in 🇺🇸 🎬 Clients : Will Smith, Jada Pinkett Smith, Chance the Rapper, Jessica Chastain, FootLocker, Hamilton, Adobe...
     location: "United States"
-    followers: 28851
-    engagement: 468
-    commentsToLikes: 0.065572
-    id: ck0uahmxyc5ep0i19jp68ijug
+    followers: 93572
+    engagement: 232
+    commentsToLikes: 0.041553
+    id: ck0vv4hk3nia80i19u6kk547q
+    verified: false
+    hashtags: "#madewithrush, #adobepartner, #editedbyme, #stayhome"
+  - username: "calebslife"
+    fullname: >-
+      Caleb
+    bio: >-
+      God 1st! Introvert with extrovert ambitions! Professional napper, Rapper, Dog Whisperer, Papercut survivor, Spotify bathroom DJ.
+    location: "United States"
+    followers: 71737
+    engagement: 247
+    commentsToLikes: 0.079172
+    id: ck5ck3xgcw3260i11x9neq3yr
+    verified: false
+    hashtags: "#quarantinebirthday, #blacklivesmatter, #justiceforgeorgefloyd, #idontknowwhatimdoing"
+  - username: "salmaslims"
+    fullname: >-
+      SALMA S
+    bio: >-
+      Not Friendly & Aka Salma Banks Out Now Runway Rapper Shit 🇬🇲
+    location: "United States"
+    followers: 208139
+    engagement: 409
+    commentsToLikes: 0.026711
+    id: ck5ckcpvzwlqk0i11igm7ubxa
     verified: true
-    hashtags: ""
-  - username: "nushymusic"
+    hashtags: "#notfriendly"
+  - username: "louisantoniotattoo"
     fullname: >-
-      NuShY
+      Louis Antonio
     bio: >-
-      Rapper, RnB singer from 📍Slovenia, Europe! Just released new music video. Watch at link below👇🏻👇🏻 #femalerapper #rnbsinger #womeninmusic
+      Resident at: 🇨🇭Rapperswil @ornoirtattoogallery Check out my other account 👉🏻@louisantoniosgr👈🏻
     location: "United States"
-    followers: 9174
-    engagement: 668
-    commentsToLikes: 0.225073
-    id: ck6udvfeznd6h0j71aqwn1ged
+    followers: 8198
+    engagement: 1127
+    commentsToLikes: 0.049736
+    id: ck5c10snau86n0i110sbmlcdr
     verified: false
-    hashtags: "#ftmedd, #wheretofindme, #photohunted, #suicideawarness"
-  - username: "realparisprice"
-    fullname: >-
-      Paris Price
-    bio: >-
-      Your rappers favorite rapper. D(M)V 👇🏾Stream “Jungle”
-    location: "United States"
-    followers: 20152
-    engagement: 567
-    commentsToLikes: 0.053658
-    id: ck0w2rgb1ptjj0i19y1mv3h0c
-    verified: false
-    hashtags: "#jungle"
+    hashtags: "#ornoirtattoogallery, #alexdepase, #dlizepro, #inkedmagitaly"
   - username: "jhypeofficial"
     fullname: >-
       JHype
     bio: >-
       18 producer rapper beatboxer Lie To Me out now on all platforms🖤
     location: "United States"
-    followers: 45199
-    engagement: 461
-    commentsToLikes: 0.038684
+    followers: 43267
+    engagement: 481
+    commentsToLikes: 0.041024
     id: ck5bttc27gkfv0i11kiavuy9x
     verified: false
     hashtags: "#loveme"
-  - username: "ieminem"
+  - username: "samibrielle"
     fullname: >-
-      Marshall Mathers
+      sami brielle
     bio: >-
-      Dedicated to the best rapper in history and also to his fans. Since March 19th, 2016. HD photos. Thank you for your support!
+      rapper/singer/songwriter snap: sami.brielle my first music video ⬇️
     location: "United States"
-    followers: 56324
-    engagement: 758
-    commentsToLikes: 0.013114
-    id: ck8t2d7ynz15y0j780xikh09q
+    followers: 138957
+    engagement: 460
+    commentsToLikes: 0.013682
+    id: ck8wg8oxsgx060j78kxg43t84
     verified: false
-    hashtags: "#tbt, #memories"
-  - username: "nataliekailey"
+    hashtags: "#rapper, #transition, #explore, #femalerapper"
+  - username: "777villain"
     fullname: >-
-      NMK®
+      wckd🧛🏿
     bio: >-
-      💎 I am not a rapper. 📍 Los Angeles
+      @verywckd MGMT: @wochowocho FL Turn on my post notifications!! not just a SoundCloud rapper
     location: "United States"
-    followers: 37584
-    engagement: 212
-    commentsToLikes: 0.070174
-    id: ck5hp5jvxqsfu0i110257u6fg
+    followers: 7980
+    engagement: 595
+    commentsToLikes: 0.102802
+    id: ck5ckgq6twu3s0i11f3v2q7o3
     verified: false
-    hashtags: "#may29, #beautyhacks, #hollywood, #unitedwestand"
-  - username: "fellgfromanotherkawkab"
+    hashtags: "#wckd2021"
+  - username: "jumpmanjuice"
     fullname: >-
-      FELL'G 🇲🇦🪐
+      Julian Blackmon
     bio: >-
-      Rapper / Songwriter 🛸 Management and booking : ghassanefellah@gmail.com "DIMENSION'' Available on my YouTube channel :
+      1/…. Zella L🤍ve , Julian👋🏾 UT🛬IND📍Aspiring Stay At Home Rapper
     location: "United States"
-    followers: 28276
-    engagement: 812
-    commentsToLikes: 0.014271
-    id: ck0vv0w8fn0yp0i1977e1co2k
+    followers: 34653
+    engagement: 1379
+    commentsToLikes: 0.007666
+    id: ck55j2957w35g0i11hfh3omq7
     verified: false
-    hashtags: "#blackouttuesday"
+    hashtags: "#gameday, #year2, #longsleevebandit, #jerseyswap"
 ---

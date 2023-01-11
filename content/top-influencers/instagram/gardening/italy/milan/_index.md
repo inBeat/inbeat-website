@@ -1,60 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Milan in 2023
+title: Top 10 Gardening Instagram Influencers In Milan In 2023
 description: >-
-  Find top gardening Instagram influencers in Milan in 2023. Most popular hashtags: #gardening #milano #love #interiordesign.
+  Find top gardening Instagram influencers in Milan in 2023. Most popular hashtags: #gardening #garden #nature #decor.
 platform: Instagram
-hits: 7
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 7 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 4
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 4 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
-  - username: "gardenia_magazine"
-    fullname: >-
-      Gardenia
-    bio: >-
-      Spunti e racconti dalla redazione di Gardenia: cultura botanica, novità dai vivai, mostre. Per condividere la passione del giardinaggio. 🌱🇮🇹🌺🌷
-    location: "Italy"
-    followers: 12538
-    engagement: 435
-    commentsToLikes: 0.010329
-    id: ck6u7tia0nkw00j714q3e7rnz
-    verified: false
-    hashtags: "#fioritura, #giardinaggiochepassione, #parcomilano, #uptownmilano"
-  - username: "clara_bona"
-    fullname: >-
-      Clara Bona
-    bio: >-
-      Architect and Journalist
-    location: "Italy"
-    followers: 28205
-    engagement: 581
-    commentsToLikes: 0.074042
-    id: ck5hi0086axty0i11mh8o9r44
-    verified: false
-    hashtags: "#mystyle, #home, #decor, #interiordesign"
-  - username: "giulia_peroni"
-    fullname: >-
-      Giulia Peroni
-    bio: >-
-      📍 Milan, Italy 📚 Biotecnologie 📲 Collaborations in DM 🍕 Ambassador @beatotemilano 🍔 Ambassador @mamma_milano
-    location: "Italy"
-    followers: 10499
-    engagement: 1523
-    commentsToLikes: 0.020501
-    id: ck8t1re9mwqh40j78khs4tgix
-    verified: false
-    hashtags: "#followme, #amazing, #life, #moda"
   - username: "raw_milano"
     fullname: >-
       
     bio: >-
       RAW&co Cabinet de curiosités ~ c.so Magenta 10 ~ via Palermo 1 MILANO #RawMilano
     location: "Italy"
-    followers: 39782
-    engagement: 254
-    commentsToLikes: 0.021824
+    followers: 46291
+    engagement: 252
+    commentsToLikes: 0.024167
     id: ck5zszd84zgnt0i14g2py5ozv
     verified: false
-    hashtags: "#gardening, #rawandco, #patina, #vintagefurniture"
+    hashtags: "#porcelain, #gardentools, #moodoftheday, #rawbrera"
   - username: "_dotpigeon"
     fullname: >-
       DotPigeon
@@ -66,65 +30,101 @@ profiles:
     commentsToLikes: 0.034082
     id: ck5zsvbr9z91w0i14ce2yn0lj
     verified: false
-    hashtags: "#love, #artsy, #dotpigeon, #artporn"
-  - username: "matteobersotti"
+    hashtags: "#quarantine, #artporn, #digitalpainting, #surreal"
+  - username: "clara_bona"
     fullname: >-
-      Matteo Bersotti
+      Clara Bona
     bio: >-
-      Italian, 1989. Ex libris and ornament designer. Contact for commissons: matteobersotti@yahoo.it
+      Architect and Journalist
     location: "Italy"
-    followers: 2947
-    engagement: 1691
-    commentsToLikes: 0.045086
-    id: ckf5v19w9mz4n0j237j3bcqlr
+    followers: 30905
+    engagement: 631
+    commentsToLikes: 0.067701
+    id: ck5hi0086axty0i11mh8o9r44
     verified: false
-    hashtags: "#arabesk, #art, #pencildrawing, #barocco"
-  - username: "francescabelussitv"
+    hashtags: "#ristrutturarecasa, #interiorstyle, #interiortips, #interiorideas"
+  - username: "cami_delai"
     fullname: >-
-      francesca belussi
+      Camilla Delai 🌹
     bio: >-
-      presento,recito,canto,ballo e doppio e i miei ex concittadini di Bg:"si ma che lavoro fai?" Mitici! 😁 tvhoster, actress, influencer
+      Made in Trento -living in Rome 🇮🇹 Current job at : MYWAY autostrade per l’Italia
     location: "Italy"
-    followers: 73946
-    engagement: 206
-    commentsToLikes: 0.073011
-    id: ck6ualfql47qi0j71mtlbt5na
+    followers: 27240
+    engagement: 200
+    commentsToLikes: 0.027202
+    id: ck600sf29e6ir0i14avcrvrji
     verified: false
-    hashtags: "#brunette, #girl, #curlygirl, #noi"
-  - username: "ville_e_casali"
+    hashtags: "#madeinitaly, #flower, #model, #fitness"
+  - username: "gomiero__farm"
     fullname: >-
-      Ville&Casali
+      Gomiero Farm
     bio: >-
-      Ogni mese, sulle nostre pagine, un ampio ventaglio di idee di architettura, di interior design, gardening e una vetrina immobiliare di prestigio.
+      ITALIAN FARM 🇮🇹 NO farmers NO food ☠️ Stories and posts from a (crazy) farm 🎵🎉
     location: "Italy"
-    followers: 20202
-    engagement: 318
-    commentsToLikes: 0.011045
-    id: ck6u77ex7jwmp0j71vixklf5q
+    followers: 107306
+    engagement: 598
+    commentsToLikes: 0.001875
+    id: ck6ttmxwvbhm60j714o5yrx5s
     verified: false
-    hashtags: "#ambiente, #houseofinstagram, #arredamento, #progettistainterni"
-  - username: "conlemaninpasta"
-    fullname: >-
-      Manuela Conti
-    bio: >-
-      Food writer | Home grower | Mom Cookbook author ▪️ Con Le Mani In Pasta 👩‍🍳 @agriturismolacosta ✉ info@conlemaninpasta.com ★ I T A L Y ★
-    location: "Italy"
-    followers: 21560
-    engagement: 318
-    commentsToLikes: 0.059422
-    id: ck6tjh8kc2pnt0j711n71lzxu
-    verified: false
-    hashtags: "#green, #homecooking, #organic, #breadbosses"
+    hashtags: "#farmingsimulator, #homegrown, #global, #countryandwestern"
   - username: "francescarchibugi"
     fullname: >-
       Francesca Archibugi
     bio: >-
       Sto marcendo con un certo stile
     location: "Italy"
-    followers: 5954
-    engagement: 768
-    commentsToLikes: 0.026122
+    followers: 5993
+    engagement: 971
+    commentsToLikes: 0.023435
     id: ck5c0te2ltt6n0i11xqicduz7
     verified: false
-    hashtags: "#quarantine, #pofaulle, #gardening, #tuscanygram"
+    hashtags: "#gardering, #pofaulle, #tuscanigram, #gardening"
+  - username: "iovoglioilluminaretutto"
+    fullname: >-
+      Giulia 🌙
+    bio: >-
+      🌻 𝟏𝟗𝟗𝟐 ♈︎ 𝐑𝐨𝐦𝐚 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛‘𝚜 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝙿𝚘𝚕𝚒𝚝𝚒𝚌𝚊𝚕 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙼𝚊𝚜𝚝𝚎𝚛‘𝚜 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝙿𝚞𝚋𝚕𝚒𝚌 𝙿𝚘𝚕𝚒𝚌𝚒𝚎𝚜 🎓𝚂𝚊𝚙𝚒𝚎𝚗𝚣𝚊 . 🌿@italianhennecommunity
+    location: "Italy"
+    followers: 4724
+    engagement: 108
+    commentsToLikes: 0.031946
+    id: ck6tt1whc84fs0j71o01iyqk5
+    verified: false
+    hashtags: "#sunsetlovers, #webstagram, #volgoroma, #skyphotography"
+  - username: "raw_milano"
+    fullname: >-
+      
+    bio: >-
+      RAW&co Cabinet de curiosités ~ c.so Magenta 10 ~ via Palermo 1 MILANO #RawMilano
+    location: "Italy"
+    followers: 46291
+    engagement: 252
+    commentsToLikes: 0.024167
+    id: ck5zszd84zgnt0i14g2py5ozv
+    verified: false
+    hashtags: "#porcelain, #gardentools, #moodoftheday, #rawbrera"
+  - username: "gardenia_magazine"
+    fullname: >-
+      Gardenia
+    bio: >-
+      Spunti e racconti dalla redazione di Gardenia: cultura botanica, novità dai vivai, mostre. Per condividere la passione del giardinaggio. 🌱🇮🇹🌷🪴🌳
+    location: "Italy"
+    followers: 68300
+    engagement: 130
+    commentsToLikes: 0.013355
+    id: ck6u7tia0nkw00j714q3e7rnz
+    verified: false
+    hashtags: "#ilmiogiardino, #gardeningtips, #gardeniamagazine, #daffodil"
+  - username: "husqvarna_italy"
+    fullname: >-
+      Husqvarna Italy
+    bio: >-
+      👋 Benvenuto! Non perderti neanche un aggiornamento 📸 Canale Ufficiale Instagram Husqvarna Bosco e Giardino 🇮🇹
+    location: "Italy"
+    followers: 20869
+    engagement: 158
+    commentsToLikes: 0.002141
+    id: ck5zovfejrf7b0i14157fiu37
+    verified: false
+    hashtags: "#madewithhusqvarna, #outdoorpowerequipment, #ecologia, #giardinaggiochepassione"
 ---

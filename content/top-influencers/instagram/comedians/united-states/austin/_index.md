@@ -1,24 +1,24 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Austin in 2023
+title: Top 10 Comedians Instagram Influencers In Austin In 2023
 description: >-
-  Find top comedians Instagram influencers in Austin in 2023. Most popular hashtags: #comedian #comedy #quarantine #podcast.
+  Find top comedians Instagram influencers in Austin in 2023. Most popular hashtags: #comedy #comedian #funny #repost.
 platform: Instagram
-hits: 22
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 22 Instagram influencers like this in Austin, United States for you to contact.
+hits: 20
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in Austin, United States for you to contact.
 profiles:
-  - username: "johnnyy_2.1"
+  - username: "impaulsiveshow"
     fullname: >-
-      John Rutherford Jr
+      Impaulsive
     bio: >-
-      St. Edwards Alum, CJ major • Personal trainer @ Equinox |Tier 2 Coach🏋🏽‍♂️ • ¥ Comedian 🤡🥴 • Johnnylift21@gmail.com📚 • Austin, Texas🥑
+      The #1 podcast in the WORLD 👇 New Episode 👇 (Chantel Jeffries LOST Logan Paul $2,500,000💰)
     location: "United States"
-    followers: 3745
-    engagement: 1567
-    commentsToLikes: 0.064419
-    id: ck6tv588hk93t0j71xb4s4i3c
+    followers: 475066
+    engagement: 835
+    commentsToLikes: 0.008775
+    id: ck0u6g1ul1wj80i19220wbxvg
     verified: false
-    hashtags: "#mommasboy, #mambaout"
+    hashtags: "#conormcgregor, #ksi, #floydmayweather, #onlyfans"
   - username: "ronwhiteofficial"
     fullname: >-
       Ron White
@@ -30,31 +30,55 @@ profiles:
     commentsToLikes: 0.015481
     id: ck0u6m67t2dc60i1947pam7a5
     verified: true
-    hashtags: "#numberjuantequila, #quarantineconcert, #livemusic, #tuesday"
-  - username: "mphooseitutu"
+    hashtags: "#stayhome, #saturday, #numberjuantequila, #thursday"
+  - username: "raine.moz"
     fullname: >-
-      Mpho Osei-Tutu
+      Raine Moz
     bio: >-
-      World Citizen 🌍 • Son • Hubby • Dad • Actor • Comedian • Writer • Producer • CONTENT NOT TO BE USED WITHOUT MY CONSENT
+      I Love Making Ppl Smile! 😊 Nail Tech @royal__nailz 💅🏽 Comedian🤣 God Is My Light💡 #weightlossjourney SUBSCRIBE TO MY YOUTUBE LINK BELOW!
     location: "United States"
-    followers: 30857
-    engagement: 121
-    commentsToLikes: 0.031861
-    id: ckapbo88n0obm0i78kqaql0m0
+    followers: 107450
+    engagement: 252
+    commentsToLikes: 0.067351
+    id: ck8t9s2ubp58i0j789dmyt9jz
     verified: false
-    hashtags: "#sponsored, #wcw, #seriouslysingle, #repost"
-  - username: "iamrenaewithana"
+    hashtags: "#vsgcommunity, #rainemoz, #weightlossjourney, #stankabutt"
+  - username: "iamsantwon"
     fullname: >-
-      Renae Smith Trevino
+      Santwon McCray
     bio: >-
-      The Real #captainevil Sharing Motherhood on tour w/ comedian @texastrevino Travel, toddler shenanigans, everyday adventures & humor in little squares
+      #MTV #VH1 #WildNOut SZN 14|15|16 5X W🌎RLD CHAMPI💍N! Actor-Comedian-Stuntman-Host/MC-Champ Ring Designer-Voice Actor-Cheerleader-Singer 🖤📼🤍
     location: "United States"
-    followers: 14034
-    engagement: 850
-    commentsToLikes: 0.058123
-    id: ck0w3gmjntaxy0i193h8lijac
+    followers: 56281
+    engagement: 183
+    commentsToLikes: 0.025730
+    id: ck5hojelrpoah0i11giahpv8l
     verified: false
-    hashtags: "#captainevil, #husbandandwifeteam, #comedian, #motherhood"
+    hashtags: "#wildnout, #iely, #wno16, #iamsantwon"
+  - username: "tyrussmash"
+    fullname: >-
+      Tyrus
+    bio: >-
+      Wrestler FoxNews Contributor, @ingridrinck Husband and Father, Actor, Comedian, landowner, Monster aka WWE's Brodus Clay Funkasaurus #Nuffsaid
+    location: "United States"
+    followers: 146377
+    engagement: 98
+    commentsToLikes: 0.031381
+    id: ck6ucf890f9220j710y406qnh
+    verified: true
+    hashtags: "#repost, #nwaworldtelevisionchampion, #tyrussmash, #nuffsaid"
+  - username: "louieanderson"
+    fullname: >-
+      Louie Anderson
+    bio: >-
+      Comedian.
+    location: "United States"
+    followers: 46185
+    engagement: 235
+    commentsToLikes: 0.032032
+    id: ck55my8fz53330i110hi03oon
+    verified: true
+    hashtags: "#christmastree, #love, #jimmycarter, #coming2america"
   - username: "toddmccomas"
     fullname: >-
       Todd McComas
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.013862
     id: ck0ueklv4lhro0i1974ip923y
     verified: false
-    hashtags: "#coasttocoastroast, #linkinbio, #tigerking, #defendingthekingdom"
+    hashtags: "#linkinbio, #tigerking, #defendingthekingdom, #coasttocoastroast"
   - username: "richardsarvate"
     fullname: >-
       Richard Sarvate
     bio: >-
-      ◦ TikTok 1.6M @richardsarvate ◦ Comedy Special @drybarcomedy
+      ◦ TikTok 1.5M @richardsarvate ◦ Comedy Special @drybarcomedy Support Night of the Living Karens Season TWO ⬇️
     location: "United States"
-    followers: 43506
-    engagement: 4449
-    commentsToLikes: 0.022355
+    followers: 37705
+    engagement: 8012
+    commentsToLikes: 0.018993
     id: ck8tawr5qte5l0j781oluqozv
     verified: false
-    hashtags: "#dating, #indiefilm, #comedyhorror, #awkward"
-  - username: "heyfrase"
+    hashtags: "#dadjokes, #fantasyfootball, #standupcomedy, #magicthegathering"
+  - username: "baffmasta"
     fullname: >-
-      Sarah Fraser
+      Baff
     bio: >-
-      🎤Host of Hey Frase Podcast w/ @andrealopezcomedy 🎧3 Mill Pod Downloads 📩sales and booking: sarah@heyfrase.com
+      Actor | Entertainer | Dancer
     location: "United States"
-    followers: 22592
-    engagement: 188
-    commentsToLikes: 0.138270
-    id: ck5c4fd2m18ht0i11q6w3x3e8
+    followers: 168537
+    engagement: 308
+    commentsToLikes: 0.034479
+    id: ck1399866k5fj0i19x27xf8va
     verified: false
-    hashtags: "#sarahfraser, #podcast, #howardstern, #andrealopez"
-  - username: "noelashman"
+    hashtags: "#ghana, #baffmasta, #clarence, #comedy"
+  - username: "gerrybrooksprin"
     fullname: >-
-      noel ashman
+      Gerry Brooks
     bio: >-
-      Multi-Award winning Film Producer..Gotti..Clinton Road ..Never Again..The Row..etc../Club Owner..Veruka..NA..Studio 54..The Plumm..Leonora etc
+      Principal, husband, dad, educator
     location: "United States"
-    followers: 203416
-    engagement: 186
-    commentsToLikes: 0.018277
-    id: ck5pwr0dyo5yt0i11y8f1npkf
+    followers: 528122
+    engagement: 293
+    commentsToLikes: 0.060629
+    id: ck6twssfbtvue0j71tnxi3vea
     verified: true
-    hashtags: "#filmmakers, #film, #damedash, #noelashmanprojects"
-  - username: "jessedittmar"
-    fullname: >-
-      Jesse Dittmar
-    bio: >-
-      Photographer Jesse Dittmar | Portraits of Accomplished Figures👇🏻
-    location: "United States"
-    followers: 14253
-    engagement: 501
-    commentsToLikes: 0.043928
-    id: ck0ttf1y42fpo0i19th1ud0yg
-    verified: false
-    hashtags: "#photooftheday, #photographer, #actor, #whitemuslin"
-  - username: "justinug_"
-    fullname: >-
-      Ug.
-    bio: >-
-      God first| Multidisciplinary Artiste | Comedian | Actor | Writer | My Ep, Vibes With Ug is out now
-    location: "United States"
-    followers: 131698
-    engagement: 1008
-    commentsToLikes: 0.026745
-    id: ck15swztzf86z0i197j6vz2dx
-    verified: false
-    hashtags: "#justinug, #endsars, #sarsmustend, #tb"
+    hashtags: "#teachersofinstagram, #2ndgrade, #highschoolteacher, #schoollife"
 ---

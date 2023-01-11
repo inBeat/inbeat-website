@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Capetown in 2023
+title: Top 10 Instagram Influencers In Capetown In 2023
 description: >-
-  Find top Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #model #love.
+  Find top Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #capetownmag #westerncape.
 platform: Instagram
-hits: 255
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 255 Instagram influencers like this in Capetown, South Africa for you to collaborate.
+hits: 150
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 150 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
   - username: "capetown"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       #️⃣cptmx | @capetown |
     location: "South Africa"
-    followers: 23440
-    engagement: 230
-    commentsToLikes: 0.012114
+    followers: 23436
+    engagement: 223
+    commentsToLikes: 0.011137
     id: ck5hn5mrxn8yu0i11u1sibgrn
     verified: false
-    hashtags: "#amazingcapetown, #ig, #southafricaza, #instagramcapetown"
-  - username: "audrey_lunda"
-    fullname: >-
-      MENS STYLE DESTINATION
-    bio: >-
-      Inspiring guys to dress better Freelance Model | Menswear | Photographer 📩 : audreylunda1@gmail.com 📍 :CapeTown 🇿🇦 New Day New Wave ...
-    location: "South Africa"
-    followers: 117689
-    engagement: 831
-    commentsToLikes: 0.026527
-    id: ck5caa309d0du0i11f2eppcjt
-    verified: false
-    hashtags: "#menfashionreview, #ootdmen, #capetownblogger, #manfashionpost"
+    hashtags: "#capetown, #capetownmag, #cityofcapetown, #seecapetown"
   - username: "carissaswart"
     fullname: >-
-      Rissa
+      Carissa💋
     bio: >-
-      Model based in Capetown📍📍 MA:@syncmodels_
+      Model based in Capetown📍📍 Mother agency : @syncmodels_
     location: "South Africa"
-    followers: 4907
-    engagement: 1490
+    followers: 5173
+    engagement: 1413
     commentsToLikes: 0.073638
     id: ckf5o137d0ih40j23h5hkt3vo
     verified: false
-    hashtags: "#music, #photooftheday, #instagram, #photography"
-  - username: "marcbuckner"
-    fullname: >-
-      Marc Buckner
-    bio: >-
-      Collaboration ▶️ marcbbuckner@yahoo.com 🐺Father to @lunaluludog 🏘Rental properties @capetownaccommodations
-    location: "South Africa"
-    followers: 105527
-    engagement: 464
-    commentsToLikes: 0.031676
-    id: ck5qeisvd0p580i11yvigwyqx
-    verified: true
-    hashtags: "#motivation, #chest, #work, #arms"
-  - username: "travspringer"
-    fullname: >-
-      TRAV SPRINGER | Tropical
-    bio: >-
-      ATTACHED TO @kinseygolden ♡ #videographer / #photographer @thetropicaltaste #Smoothiebowl #capetown @tropicalglamping #Bali #glamping Big dreamer
-    location: "South Africa"
-    followers: 78373
-    engagement: 381
-    commentsToLikes: 0.010531
-    id: ck5c1igfcv8o80i11fibfaca0
-    verified: false
-    hashtags: "#maldivesislands, #capetown, #maldives, #smoothies"
+    hashtags: "#follow, #photooftheday, #portrait, #music"
   - username: "aubreyngoma"
     fullname: >-
       Aubrey Ngoma
     bio: >-
       Professional Footballer Player of @capetowncityfc #10🇿🇦 Nike Ambassador “The future belongs to those who believe in the beauty of their dreams”
     location: "South Africa"
-    followers: 34245
-    engagement: 319
-    commentsToLikes: 0.018456
+    followers: 34904
+    engagement: 345
+    commentsToLikes: 0.014829
     id: ck0vyfw7i3s6h0i19nle0iqxc
     verified: false
-    hashtags: "#premiersoccerleague, #southafrica, #football, #athlete"
+    hashtags: "#southafrica, #athlete, #abn, #aubreyngoma"
+  - username: "marcbermanphotography"
+    fullname: >-
+      Marc Berman | Photographer
+    bio: >-
+      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
+    location: "South Africa"
+    followers: 16600
+    engagement: 187
+    commentsToLikes: 0.023634
+    id: ck5cdtxbzjrsk0i114cjcvvst
+    verified: false
+    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
   - username: "amber_brits"
     fullname: >-
       A M B E R. BRITS. OFFICIAL 💥
     bio: >-
       Stay Golden ✨ CapeTown South Africa 🇿🇦 ☀️ Freelance Model Content creator Fashion♡Beauty♡Food♡Art♡Design♡Weed ● ○ -Email/dm for rates or collab 🦋
     location: "South Africa"
-    followers: 17269
-    engagement: 335
-    commentsToLikes: 0.061279
+    followers: 18841
+    engagement: 478
+    commentsToLikes: 0.041060
     id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#summer, #photooftheday, #stayhome, #lockdown"
-  - username: "yannickbandora"
+    hashtags: "#shop, #fashioninspo, #babe, #cute"
+  - username: "capetowninfo"
     fullname: >-
-      Yannick Bandora
+      Tourism | South Africa
     bio: >-
-      For bookings: hugo@immbruxelles.com D1 Models London🇬🇧 IMM Brussel🇧🇪 Why not models milan🇮🇹 Boss models Capetown🇿🇦
+      ♻️| Packaging-Free Shopping @jarajar.co.za 🙏🏻| Share the love @capetowninfo 🌴| Feature #capetowninfo
     location: "South Africa"
-    followers: 12782
-    engagement: 712
-    commentsToLikes: 0.025488
-    id: ck6u9au89wh1t0j71y1xvfgyb
+    followers: 25901
+    engagement: 213
+    commentsToLikes: 0.037511
+    id: ck5qd7hrgu6uj0i119tt7atno
     verified: false
-    hashtags: "#zalandoman, #editorial, #blacklivesmatter, #capetown"
-  - username: "marcbermanphotography"
+    hashtags: "#campsbay, #jarajar, #southafrica, #capetowninfo"
+  - username: "capetownetc"
     fullname: >-
-      Marc Berman | Photographer
+      Cape {Town} Etc
     bio: >-
-      #photographer 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
+      The Cape's favourite source of news, lifestyle news, reviews and entertainment. Hashtag #capetownetc
     location: "South Africa"
-    followers: 15887
-    engagement: 256
-    commentsToLikes: 0.022283
-    id: ck5cdtxbzjrsk0i114cjcvvst
+    followers: 99831
+    engagement: 105
+    commentsToLikes: 0.013644
+    id: ck6tjp8n335ng0j71vxxivfq0
     verified: false
-    hashtags: "#canonphotography, #fitgirls, #dailypost, #brazil"
-  - username: "agichristine"
+    hashtags: ""
+  - username: "capetown.southafrica"
     fullname: >-
-      𝐀𝐆𝑵𝐄𝑺
+      CAPE TOWN 🇿🇦
     bio: >-
-      Model 💙 Mountains MA @icemodelscpt 📍CapeTown 🇿🇦 SportySpice @swissalpinegirls 👯‍♀️ #StrongKneesWithAgi
+      The most beautiful city in the world Cape Town Tourism @capetown.southafrica #capetownsouthafrica
     location: "South Africa"
-    followers: 17460
-    engagement: 203
-    commentsToLikes: 0.049942
-    id: ck5busxzhidu30i1148g98kmn
+    followers: 52774
+    engagement: 504
+    commentsToLikes: 0.038487
+    id: ck5qc8a91pbsq0i11zobtzzu2
     verified: false
-    hashtags: "#zara, #hiking, #scarborough, #westerncape"
+    hashtags: ""
+  - username: "capetowncityfc"
+    fullname: >-
+      Cape Town City FC
+    bio: >-
+      The official Instagram account of Cape Town City Football Club #iamCityFC Online Store ⤵️
+    location: "South Africa"
+    followers: 137238
+    engagement: 109
+    commentsToLikes: 0.011145
+    id: ck0vyfuu93s0n0i192wvi47vj
+    verified: true
+    hashtags: "#iamcityfc, #tbt, #fansaretheteam, #throwbackthursday"
+  - username: "capetownmag"
+    fullname: >-
+      CapeTownMagazine.com
+    bio: >-
+      What you want to know today - and some moments of joy.👇
+    location: "South Africa"
+    followers: 130037
+    engagement: 52
+    commentsToLikes: 0.018768
+    id: ck9wd1vnadow80j787i0atfri
+    verified: false
+    hashtags: "#lockdown2020, #weekendtakeover, #westerncape, #amazing"
 ---

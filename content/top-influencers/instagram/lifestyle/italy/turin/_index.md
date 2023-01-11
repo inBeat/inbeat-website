@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Turin in 2023
+title: Top 10 Lifestyle Instagram Influencers In Turin In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Turin in 2023. Most popular hashtags: #torino #instagood #makeup #style.
+  Find top lifestyle Instagram influencers in Turin in 2023. Most popular hashtags: #italy #torino #turin #instagood.
 platform: Instagram
-hits: 22
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 22 Instagram influencers like this in Turin, Italy for you to contact.
+hits: 15
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in Turin, Italy for you to contact.
 profiles:
-  - username: "dave_cfto"
+  - username: "iampellegri"
     fullname: >-
-      Davide Dave Gioia
+      ¥  Nicolas Pellegri  ®
     bio: >-
-      🇮🇹 Coach & PT CrossFit Torino 🏋🏽‍♂ CrossFit Level 2 Trainer Competitor & Weightlifting Trainer 👐🏽Osteopath ——————— 📩davigio91@hotmail.com
+      ♐️ • 🌍 Turin, Italy 🇮🇹 • 🌟 Don’t Give Up 🌟 • ✈️ Traveler • 🏋️‍♂️ Gym • 📩 Collaborazioni DM 📩
     location: "Italy"
-    followers: 6011
-    engagement: 478
-    commentsToLikes: 0.030395
-    id: ck6txdv3dx9lj0j7153kjm1a3
-    verified: false
-    hashtags: "#gym, #personaltrainer, #kettlebelltraining, #fitnessmotivation"
-  - username: "ely_2"
-    fullname: >-
-      Elisa Chiara♡
-    bio: >-
-      Italian girl 🇮🇹 Live in Turin @juventus ♡Fashion ♡Supporter #juventus ♡Travel 📩 ely.chiara2@gmail.com
-    location: "Italy"
-    followers: 22624
-    engagement: 789
-    commentsToLikes: 0.201556
-    id: ck9hb01teesqn0j78wigu0eq5
-    verified: false
-    hashtags: "#bestjuvefan, #liveahead, #brunettegirl, #ronaldo"
-  - username: "mappola_"
-    fullname: >-
-      Martina | Freelance creative
-    bio: >-
-      📍 Turin based | 👗@mappola_shop TRAVEL ◦ FASHION ◦ LIFESTYLE Member of @theturincrew ⠀ 🎓 SAA - Management and communication ✒️ Storyteller
-    location: "Italy"
-    followers: 6331
-    engagement: 755
-    commentsToLikes: 0.153428
-    id: ck13brp6awuj40i19uxzhcfg4
-    verified: false
-    hashtags: "#couplegoals, #darlingescapes, #todaysgoodthing, #storyofmytable"
-  - username: "nasario_giubergia"
-    fullname: >-
-      Nasario Giubergia
-    bio: >-
-      👔Menswear and Lifestyle ✒️Men's Fashion Editor for @d_art.it 📸Photographer 📍Turin 🇮🇹 Info and collabs: nany.jbg@gmail.com #nasariogiubergia
-    location: "Italy"
-    followers: 85637
-    engagement: 204
-    commentsToLikes: 0.068947
-    id: ck8tb07qctteo0j78q8bz879f
-    verified: false
-    hashtags: "#nasariogiubergia, #summer, #igers, #adventuretime"
-  - username: "floraiones"
-    fullname: >-
-      Flora Iones
-    bio: >-
-      📍Italy 🇮🇹 /Turin /Bologna ✨Start in 26 NOV 2019 🔛Work hard to improve yourself and then just follow your instinct. And take lots of photos. Love wins.
-    location: "Italy"
-    followers: 152401
-    engagement: 238
-    commentsToLikes: 0.070803
-    id: ck8tcby0wyzgl0j78xlcnxvwd
-    verified: false
-    hashtags: "#vibes, #italiangirl, #fashionblogger, #switzerland"
+    followers: 30065
+    engagement: 1229
+    commentsToLikes: 0.000652
+    id: ck0u1ixu2x36x0i19hzpcipz6
+    verified: true
+    hashtags: "#see, #mood, #italy, #instagram"
   - username: "rodvaveloce"
     fullname: >-
       Rodolfo B
     bio: >-
       📍Turin, Italy 🔎World explorer 📷iPhone only 👤Local Manager @igerstorino
     location: "Italy"
-    followers: 3522
-    engagement: 2426
-    commentsToLikes: 0.105761
+    followers: 3432
+    engagement: 2491
+    commentsToLikes: 0.105897
     id: ck5hfshs6z3je0i11tux3uo6z
     verified: false
-    hashtags: "#kings, #igerstorino, #italymagazine, #citybestpics"
-  - username: "marco_canepa_"
-    fullname: >-
-      Marco Canepa
-    bio: >-
-      📍Turin,Italy🇮🇹 📚 High School Teatro Nuovo Torino 🎬 Actor 🎤Singer 📬DM for collaboration
-    location: "Italy"
-    followers: 6140
-    engagement: 611
-    commentsToLikes: 0.017675
-    id: ckap59kq1arxl0i78l6gtcfbi
-    verified: false
-    hashtags: "#instagood, #turin, #instagram, #likeforlikes"
+    hashtags: "#moodygrams, #discoverglobe, #living, #citypicz"
   - username: "serena_filomena"
     fullname: >-
       SERENA FILOMENA ✨
     bio: >-
       📍Turin, Italy🇮🇹 • Beautician 💆🏻‍♀️ • Beauty & Lifestyle • Travel 🧳 •🔜Cosmoprof Worldwide 💌serenafilomena9@gmail.com
     location: "Italy"
-    followers: 17266
-    engagement: 89
-    commentsToLikes: 0.017991
+    followers: 17142
+    engagement: 95
+    commentsToLikes: 0.044497
     id: ck6u6fiztfb4i0j71uwtevple
     verified: false
-    hashtags: "#design, #classy, #styles, #style"
+    hashtags: "#clothing, #hot, #glam, #cosmetics"
   - username: "nicole_pinkbow"
     fullname: >-
       Nicole Lifestyle Lover
     bio: >-
-      📍Turin Una normale commessa con la passione per la moda, il beauty e ciò che è #aesthetic✨
+      📍Turin Una normale commessa con la passione per la moda, il beauty e ciò che è #aesthetic✨ Armadioverde⤵️
     location: "Italy"
-    followers: 4250
-    engagement: 871
-    commentsToLikes: 0.116810
+    followers: 4401
+    engagement: 900
+    commentsToLikes: 0.121478
     id: ck9hat96ie1el0j785128sc9e
     verified: false
-    hashtags: "#thepinkbow, #gifted, #nicole, #mapifulfamily"
+    hashtags: "#liketime, #thepinkbow, #nicole, #blackfriday"
   - username: "pininfarina_official"
     fullname: >-
       Pininfarina
     bio: >-
-      Official Instagram account of Italian design house Pininfarina. Design & engineering, bespoke projects, architecture Turin | Munich | Shanghai | Miami
+      Official Instagram account of Italian design house Pininfarina. Design, architecture, bespoke projects Turin | Munich | Shanghai | Miami
     location: "Italy"
-    followers: 87825
-    engagement: 164
-    commentsToLikes: 0.010383
+    followers: 106852
+    engagement: 91
+    commentsToLikes: 0.011332
     id: ck0w4oynhzob90i1905u9nhzg
     verified: false
-    hashtags: "#instacar, #conceptcar, #heritage, #designer"
+    hashtags: "#heritage, #performance, #car, #mauto"
+  - username: "bcoolguide"
+    fullname: >-
+      bcool guide
+    bio: >-
+      International lifestyle guide, travel, restaurants, events, hotels, mixology, shopping
+    location: "Italy"
+    followers: 66673
+    engagement: 51
+    commentsToLikes: 0.004732
+    id: ck0tuyre999gf0i19m9b4h8qj
+    verified: false
+    hashtags: "#torinofood, #torino, #igerstorino, #mangiareatorino"
+  - username: "kawtar.meziat"
+    fullname: >-
+      Kawtar
+    bio: >-
+      📍somewhere
+    location: "Italy"
+    followers: 5098
+    engagement: 1179
+    commentsToLikes: 0.029477
+    id: ckaozlsjimfis0i78webuu4ax
+    verified: false
+    hashtags: "#europe, #beachlife, #lifeisbeautiful, #family"
+  - username: "_ilaria_quaranta_"
+    fullname: >-
+      Ilaria Quaranta
+    bio: >-
+      Potrà capitarti di bere, ma non annegherai. 🌸Live, Love, Laugh ✈️Traveller 🇮🇹 🇫🇷 🇪🇸 🇲🇦 🇭🇺 🇳🇱 🇨🇭 💄Girl 🍭16/12/1994 📍Saluzzo
+    location: "Italy"
+    followers: 2893
+    engagement: 1881
+    commentsToLikes: 0.033438
+    id: ckap8dqatnvpq0i78e21d902e
+    verified: false
+    hashtags: "#travel, #italiangirl, #instalike, #portrait"
+  - username: "marco_canepa_"
+    fullname: >-
+      Marco Canepa
+    bio: >-
+      𝐓𝐮𝐫𝐢𝐧, 𝐈𝐭𝐚𝐥𝐲
+    location: "Italy"
+    followers: 6436
+    engagement: 577
+    commentsToLikes: 0.018145
+    id: ckap59kq1arxl0i78l6gtcfbi
+    verified: false
+    hashtags: "#likeforlikes, #instagood, #instagram, #turin"
+  - username: "n2r_outdoor_"
+    fullname: >-
+      N2R outdoor Lifestyle
+    bio: >-
+      Me. Nature, Design & Outerwear. Italian & European 🇪🇺All pics are mine / Fujifilm XT20 & Iphone
+    location: "Italy"
+    followers: 10395
+    engagement: 864
+    commentsToLikes: 0.012648
+    id: ckap4avnd6j7u0i78vaips46p
+    verified: false
+    hashtags: "#bnwitalia, #mirrorless, #visitumbria, #igpiemonte"
 ---

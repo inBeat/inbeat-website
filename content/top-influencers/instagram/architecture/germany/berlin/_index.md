@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Berlin in 2023
+title: Top 10 Architecture Instagram Influencers In Berlin In 2023
 description: >-
-  Find top architecture Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #architecture #ig #photooftheday.
+  Find top architecture Instagram influencers in Berlin in 2023. Most popular hashtags: #architecture #berlin #ig #citykillerz.
 platform: Instagram
-hits: 169
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 169 Instagram influencers like this in Berlin, Germany for you to work with.
+hits: 118
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 118 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
-  - username: "mike_travels84"
+  - username: "designberlin"
     fullname: >-
-      Michael
+      Arda Karasu
     bio: >-
-      🏠 Berlin based 🌎 25/196 📷 Huawei P30 Pro Interested in traveling, fitness, photography, good food, coffee and good books😄.
+      Built environment through my eyes 📌#berlin 📷 #Sonyalpha7 #huaweip20pro
     location: "Germany"
-    followers: 6459
-    engagement: 1251
-    commentsToLikes: 0.147048
-    id: ckaor0sp9l8100i78otj3jx77
+    followers: 9431
+    engagement: 940
+    commentsToLikes: 0.018971
+    id: ck5q15tb89f4e0i11jf7hp2t7
     verified: false
-    hashtags: "#igersgermany, #smartphonephotography, #huaweip30pro, #travel"
-  - username: "goerss.de"
-    fullname: >-
-      Andreas Görß
-    bio: >-
-      | mobilephone photography only | | blackandwhitephotography | architecture | | P40PRO | HFK | | andreas@goerss.de |
-    location: "Germany"
-    followers: 37144
-    engagement: 290
-    commentsToLikes: 0.132823
-    id: ck14hskl8bx2d0i19yisnayea
-    verified: false
-    hashtags: "#happy, #huaweinextimage, #munich, #instagood"
-  - username: "highflyingchronicles"
-    fullname: >-
-      Lucas von Flingern
-    bio: >-
-      📍BERLIN portrait and fashion photography. 🎞️ i like the sound of water. for business inquiries: highflyingchronicles@gmail.com
-    location: "Germany"
-    followers: 7434
-    engagement: 392
-    commentsToLikes: 0.009654
-    id: ck14j8q4hj45u0i19gvn02e94
-    verified: false
-    hashtags: "#thefilmcommunity, #analoguepeople, #thisaintartschool, #nothinglessmag"
+    hashtags: "#verybusymag, #broadmag, #berlin, #discover"
   - username: "asek.berlin"
     fullname: >-
       Alex
     bio: >-
-      Architect | based in Berlin architecture | design | travel | urban | lifestyle ✉️asek@berlin.de Founder of #berlin_minimal | @berlin_minimal_
+      Architect | based in Berlin architecture | design | travel ✉️asek@berlin.de 📷NIKON Z5 | ad asekberlin.com Founder of #berlin_minimal @berlin_minimal_
     location: "Germany"
-    followers: 23580
-    engagement: 319
-    commentsToLikes: 0.068047
+    followers: 26846
+    engagement: 393
+    commentsToLikes: 0.049383
     id: ck6u4aa2v2lgj0j71dh755i00
     verified: false
-    hashtags: "#architectureporn, #berlin, #streetmagazines, #azimuthotelseurope"
+    hashtags: "#minimalism, #vienna, #lookingup, #zcreators"
   - username: "haggardphotography"
     fullname: >-
       ~Ronny Behnert~
     bio: >-
       My photos tell me who I am Co-Photographer for @haidafilter Ambassador for @samyanglensgermany 📷: #Landscapes #architecture #FineArt #Berlin #germany
     location: "Germany"
-    followers: 13512
-    engagement: 463
-    commentsToLikes: 0.055792
+    followers: 13875
+    engagement: 567
+    commentsToLikes: 0.052111
     id: ck6uc0011con60j71u7q4s6us
     verified: false
-    hashtags: "#veneziano, #berlin, #haidafilter, #pr0ject"
-  - username: "olafheinestudio"
+    hashtags: "#longexposure, #scharmu, #veniceart, #bnwminimalismmag"
+  - username: "ronny_behrndt"
     fullname: >-
-      OLAF HEINE
+      Ronny Behrndt
     bio: >-
-      
+      📍Stralsund/ Germany Passionate photographer I primarily concerned with:#longexposures #landscapes #seascapes #cityscapes Check also:@ronny_behrndt_bnw
     location: "Germany"
-    followers: 21638
-    engagement: 468
-    commentsToLikes: 0.014388
-    id: ck5qbj7l4lvmi0i119il6803n
+    followers: 2652
+    engagement: 2570
+    commentsToLikes: 0.060796
+    id: ck9wewp5im6k00j78802ki6q4
     verified: false
-    hashtags: "#aufwachen, #klitm, #olafheine, #alarmstuferot"
-  - username: "bossthilo"
-    fullname: >-
-      Thilo Boss
-    bio: >-
-      Eine Reise ist ein Trunk aus der Quelle des Lebens. Nur aufs Ziel zu sehen, verdirbt die Lust am Reisen.
-    location: "Germany"
-    followers: 5475
-    engagement: 1676
-    commentsToLikes: 0.013542
-    id: ck1365h264u7k0i19l5lirr10
-    verified: false
-    hashtags: "#sunsetlover, #cloudy, #summerinthecity, #cityscapes"
-  - username: "123tinamartina"
-    fullname: >-
-      Tina Martina
-    bio: >-
-      This is the page for all Berlin friends. I'm always looking for interisting and special features of Berlin. I love all facets of the big city.
-    location: "Germany"
-    followers: 3107
-    engagement: 1321
-    commentsToLikes: 0.109699
-    id: ck6u1vz8so7tj0j711ue8ikkl
-    verified: false
-    hashtags: "#weloveberlin, #officialfanofberlin, #srs, #loves"
-  - username: "cardinal_tonico"
-    fullname: >-
-      ᴛᴏʙɪᴀs ɴɪᴋᴏʟᴀᴊᴇᴡ📸🇩🇪
-    bio: >-
-      💥Pʜᴏᴛᴏɢʀᴀᴘʜᴇʀ 💥 ᴬᴿᶜᴴᴵᵀᴱᶜᵀᵁᴿᴱ & ˢᵀᴿᴱᴱᵀ ♦️ᴾᴱᴼᴾᴸᴱ & ᴵᴺˢᴾᴵᴿᴬᵀᴵᴼᴺ ᴬᴿᴱ ᴱᵛᴱᴿᵞᵂᴴᴱᴿᴱ ♦️ᴮᴱ ᴱˣᶜᴱᴸᴸᴱᴺᵀ ᵀᴼ ᵞᴼᵁᴿˢᴱᴸᶠ! ɴᴇxᴛsᴛᴏᴘ⬇️⬇️⬇️ ᴾᴱᴼᴾᴸᴱˢ 📍@this.is.tobias.n
-    location: "Germany"
-    followers: 11594
-    engagement: 814
-    commentsToLikes: 0.016534
-    id: ck0vyxmi86a8c0i190uwgknwr
-    verified: false
-    hashtags: "#mitte, #berlin, #architecture, #reflection"
+    hashtags: "#piersaroundtheword, #ig, #vorpommernr, #water"
   - username: "matthiasheiderich"
     fullname: >-
       Matthias Heiderich
     bio: >-
-      Random picture generator / 📍Berlin behance.net/massju
+      variations on a theme freelance photographer & artist📍Berlin
     location: "Germany"
-    followers: 78692
-    engagement: 191
-    commentsToLikes: 0.011895
+    followers: 79483
+    engagement: 166
+    commentsToLikes: 0.012804
     id: ck6u1j5qnm1qi0j71rx1hr0eq
     verified: true
-    hashtags: "#bauhausdessau, #documentingspace, #berlin, #architecture"
+    hashtags: "#architecturalphotography, #architecture, #italy, #berlin"
+  - username: "jolandoo"
+    fullname: >-
+      Marcel Jolando
+    bio: >-
+      📍 Berlin 📷 Sony Alpha 6000 📥 marceljolando@yahoo.de
+    location: "Germany"
+    followers: 5492
+    engagement: 470
+    commentsToLikes: 0.055931
+    id: ck5c41y1y0h850i11mosevi5l
+    verified: false
+    hashtags: "#berlingram, #agameoftones, #architecture, #travellovers"
+  - username: "zentralbild"
+    fullname: >-
+      peter ottinger
+    bio: >-
+      pattern&recognition/proudcitizen of BRUTOPOLIS Num.:89V265 [iphoneXII pro max ~ fuji xpro I] #berlinnosubwaypeople
+    location: "Germany"
+    followers: 25189
+    engagement: 272
+    commentsToLikes: 0.020631
+    id: ckaow1wjd71wr0i782psslb71
+    verified: false
+    hashtags: "#industrialarchitecture, #brutal, #traffic, #brutalist"
+  - username: "marikafranz"
+    fullname: >-
+      marikafranz ©️  |  CEO
+    bio: >-
+      📍 Berlin 🇩🇪 ☆ Los Angeles 🇺🇸 ❤ Travel ~ Lifestyle 🤝 Collaborations 》 DM 📩
+    location: "Germany"
+    followers: 153107
+    engagement: 304
+    commentsToLikes: 0.073389
+    id: ck6uhgw5b92cm0j71nis662ze
+    verified: false
+    hashtags: "#colombia, #hairstyle, #like4likes, #appleverlosung"
+  - username: "robertrieger"
+    fullname: >-
+      Robert Rieger
+    bio: >-
+      Berlin-based photographer Represented by @emeisdeubel in Germany and @common_era_agency in the UK
+    location: "Germany"
+    followers: 7984
+    engagement: 721
+    commentsToLikes: 0.050706
+    id: ck6ubh2qx9j5c0j71jqpqlaj0
+    verified: false
+    hashtags: "#design, #portrait, #interiordesign, #reportage"
+  - username: "fabianstuertz"
+    fullname: >-
+      Fabian Stürtz
+    bio: >-
+      
+    location: "Germany"
+    followers: 5348
+    engagement: 376
+    commentsToLikes: 0.012455
+    id: ck5cbmxkmfro70i116bupk8lx
+    verified: false
+    hashtags: "#travel, #50mm, #leicam240, #potd"
 ---

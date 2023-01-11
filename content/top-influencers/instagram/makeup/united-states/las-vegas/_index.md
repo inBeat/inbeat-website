@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Las Vegas in 2023
+title: Top 10 Makeup Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top makeup Instagram influencers in Las Vegas in 2023. Most popular hashtags: #makeup #lasvegas #fashion #model.
+  Find top makeup Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #makeup #lashes #makeuplooks.
 platform: Instagram
 hits: 172
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 172 Instagram influencers like this in Las Vegas, United States for you to connect with.
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 172 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "oscarpicazophotographer"
-    fullname: >-
-      Las Vegas Photographer
-    bio: >-
-      Oscar Picazo Appointments 702-375-3424 Las Vegas “NO TRADES OR COLLABS” Only serious inquires please #oscarpicazo #lasvegasphotographer #lasvegas
-    location: "United States"
-    followers: 25218
-    engagement: 190
-    commentsToLikes: 0.053192
-    id: ck5q6rn3pyksc0i11fx5m9xre
-    verified: false
-    hashtags: "#bigboobs, #bodypositivity, #naked, #oscarpicazo"
-  - username: "mermaidinheels"
-    fullname: >-
-      Cielo Fronteras
-    bio: >-
-      SHOP SHEIN SALE Now & use my code Q3mermaidin get discounts on your purchase! ⬇️ http://shein.top/10paiue5 . PRETTYPARTY Hair Ponytail ⬇️
-    location: "United States"
-    followers: 90862
-    engagement: 165
-    commentsToLikes: 0.035170
-    id: ck13c1hwxy5uf0i19co3fbycs
-    verified: false
-    hashtags: "#sheinofficial, #dessert, #makeup, #lasvegasstrip"
-  - username: "adolfobarreto_r"
-    fullname: >-
-      Ꭺɗ௦ﺍf௦ 𝐵ᵅ┏┏ᵉ✝௦  🇵🇷
-    bio: >-
-      MUA / Dancer/ choreographer / Actor. 🎪Cirque du Soleil, son, brother, uncle and more!! Love to dream and laugh.. you should try it🙏🏽
-    location: "United States"
-    followers: 6170
-    engagement: 551
-    commentsToLikes: 0.058658
-    id: ck6ug9hib1pb60j71v2kj7ddp
-    verified: false
-    hashtags: "#makeuptutorial, #red, #malemakeupartist, #makeup"
-  - username: "miss_jennifermarie"
-    fullname: >-
-      Miss_Jennifermarie🦋
-    bio: >-
-      𝚝𝚛𝚊𝚟𝚎𝚕 • 𝚏𝚒𝚝𝚗𝚎𝚜𝚜 • 𝚏𝚊𝚜𝚑𝚒𝚘𝚗 𝙵𝚕𝚒𝚐𝚑𝚝 𝚊𝚝𝚝𝚎𝚗𝚍𝚊𝚗𝚝 💗🛩 𝘑𝘦𝘳𝘢𝘮𝘪𝘢𝘩 29:11 ♡
-    location: "United States"
-    followers: 5664
-    engagement: 862
-    commentsToLikes: 0.063065
-    id: ck8t9353xmsp60j78i9kuat2z
-    verified: false
-    hashtags: "#love, #angelsairways, #travel, #uniform"
   - username: "film_krue"
     fullname: >-
-      Film_Krue
+      Krue Monroe
     bio: >-
-      ♠️Photo ♥️Cinema ♣️Chicago ♦️3M0 Podcast
+      Published!!! Follow my vlog @krue_monroe
     location: "United States"
-    followers: 5223
-    engagement: 651
-    commentsToLikes: 0.101356
+    followers: 1147
+    engagement: 2034
+    commentsToLikes: 0.086046
     id: ck5zr3kb3vtvy0i14p7gqqgmq
     verified: false
-    hashtags: "#chicagophotographer, #chicagobuisness, #chicagovlogger, #chicagoyoutubers"
+    hashtags: "#chicagofilmmaker, #guyswithtattoos, #chicagofilm, #chicagovlogger"
+  - username: "glowinriss"
+    fullname: >-
+      Marissa
+    bio: >-
+      ✨Glowinriss Makeup & Things Las Vegas 💌Email only for collaboration
+    location: "United States"
+    followers: 50723
+    engagement: 198
+    commentsToLikes: 0.031843
+    id: ck0u8nfi17wpa0i19jcib3vhx
+    verified: false
+    hashtags: "#lasvegas, #benefit, #ultabeauty, #ulta"
+  - username: "taylormatas"
+    fullname: >-
+      Taylor Matas | TITI
+    bio: >-
+      Mentor | Model | Showgirl | Dancer Hilo, HI | Las Vegas 📍 ♥twitter: @yourcupoftiti ♥youtube: taylor matas ♥cashapp/venmo: $taylormatas
+    location: "United States"
+    followers: 8166
+    engagement: 414
+    commentsToLikes: 0.034996
+    id: ckaowcndr8cbk0i785bw5yuhk
+    verified: false
+    hashtags: "#whathappensinvegasstaysinvegas, #hawaiitomiami, #lasvegas, #blessed"
+  - username: "ashleymborrome"
+    fullname: >-
+      𝐀𝐬𝐡𝐥𝐞𝐲 𝐌𝐚𝐫𝐢𝐞𝐥 𝐁𝐨𝐫𝐫𝐨𝐦𝐞
+    bio: >-
+      A Gemini. Under maintenance. Deleting everyone and their mother.
+    location: "United States"
+    followers: 13348
+    engagement: 298
+    commentsToLikes: 0.052760
+    id: ck15ricrb82yx0i19uxipnci2
+    verified: false
+    hashtags: "#tiktok, #quarantine, #explorepage, #makeup"
   - username: "andrewsaintandrew"
     fullname: >-
       Andrew Saint Andrew 👑
     bio: >-
       Las Vegas Makeup Artist✨ Celebrity / PRO MUA Booking or Inquiries Link below Published | Traveling | Freelance Artist 💫 #MAKEUPBYSAINTANDREW ✨
     location: "United States"
-    followers: 32610
-    engagement: 136
-    commentsToLikes: 0.075413
+    followers: 34237
+    engagement: 140
+    commentsToLikes: 0.088703
     id: ck5q52o1zr4rz0i112x5e82kq
     verified: false
-    hashtags: "#lasvegasmakeupartist, #lasveagsmakeupartist, #makeupbysaintandrew, #lasvegasmakupartist"
-  - username: "danielllestrada"
+    hashtags: "#lasvegasmakeupartist, #makeupbysaintandrew, #lasveasmakeupartist"
+  - username: "lakleo21"
     fullname: >-
-      Danielle Estrada
+      Elizabeth
     bio: >-
-      UT Las Vegas Makeup Artist @daniellemakeup.co
+      💕Content creator 👑Latina Mommy and wife 💄Pro Makeup Artist 📍Las Vegas 📩Zalie21@hotmail.com
     location: "United States"
-    followers: 2837
-    engagement: 1402
-    commentsToLikes: 0.064803
-    id: ck5q1ro2acg0t0i11sbh1l8yr
+    followers: 8475
+    engagement: 824
+    commentsToLikes: 0.048657
+    id: ck8szotucp6g30j781b1ua5mr
     verified: false
-    hashtags: "#makeupartist, #lasvegasmakeupartist, #mua, #24"
-  - username: "londonadour"
+    hashtags: "#muamexicana, #undiscoveredmuas, #makeupfollowpage, #muasupport"
+  - username: "kafloxbeauty"
     fullname: >-
-      LONDON ADOUR
+      Las Vegas Makeup Artist
     bio: >-
-      📍 Texas ✈️ Las Vegas 💋 8 years in the biz’ 💃🏽 Show hostess at @piranhavegas 📲 DM for bookings/PR/Collabs 🎨 Look Queen @costumesbylondonadour
+      Professional Mobile Makeup Artist 💄 Las Vegas 📍 Enhancing natural beauty is my passion ✨ Business Page - @glamnglowy Dm for booking & availability 💕
     location: "United States"
-    followers: 53137
-    engagement: 172
-    commentsToLikes: 0.019998
-    id: ck5zuk9tk2iun0i140t8xziy3
+    followers: 5235
+    engagement: 296
+    commentsToLikes: 0.157513
+    id: ck6twgmcwrvhe0j71cofkrdh7
     verified: false
-    hashtags: "#nightlife, #lovewins, #love, #gayvegas"
-  - username: "samy.nails"
+    hashtags: "#vegasmodels, #photography, #lasvegasphotographer, #explore"
+  - username: "heidi_dangerouslychicbrows"
     fullname: >-
-      samy.nails
+      Heidi Lynne
     bio: >-
-      Las Vegas nail art 💅🏼💅🏼 Mi deber :crear e inspirarlos 💎✨💎🇨🇺🇺🇸. only appointment 👇👇👇 Shop 💰⬇️⬇️
+      -Owner of Dangerously Chic Brows -Licensed TATTOO/ARTIST👩‍🎨. Microblading, and ombré courses!! -Licensed Esti 💄Stl & Las Vegas Location
     location: "United States"
-    followers: 103749
-    engagement: 131
-    commentsToLikes: 0.017201
-    id: ck5hh7h2p6s110i11a1igumda
+    followers: 26430
+    engagement: 38
+    commentsToLikes: 0.047644
+    id: ck136pg3c7m6p0i19oge4fa2x
     verified: false
-    hashtags: "#nailsaddict, #makupnails, #repost, #makup"
-  - username: "georginavaughanphotography"
+    hashtags: "#browsonfleek, #beauty, #lashlift, #micropigmentacion"
+  - username: "beautytreats_mua"
     fullname: >-
-      Georgina Vaughan Photography
+      Beauty Treats By Cookie
     bio: >-
-      📸LAS VEGAS based photographer email GeorginaVphoto@yahoo.com to book📸 🛩🛩🛩next stops Boise, ID Nov 14-15
+      🎂Welcome to the Bakery 🎂 📍@6789beautybar 9151 S Las Vegas Blvd Las Vegas, NV 89123
     location: "United States"
-    followers: 21383
-    engagement: 339
-    commentsToLikes: 0.021916
-    id: ck5hngf21nqi70i11pzyxvg5u
+    followers: 15625
+    engagement: 162
+    commentsToLikes: 0.074241
+    id: ck0tv49vg9vaq0i19bofgane5
     verified: false
-    hashtags: "#pageantheadshot, #modelheadshot, #lasvegasphotographer, #model"
+    hashtags: "#lasvegas, #houstonmakeupartist, #makeupartist, #makeupjunkie"
+  - username: "mermaidinheels"
+    fullname: >-
+      Cielo Fronteras
+    bio: >-
+      SHOP SHEIN SALE Now & use my code Q3mermaidin get discounts on your purchase! ⬇️ http://shein.top/10paiue5
+    location: "United States"
+    followers: 85723
+    engagement: 216
+    commentsToLikes: 0.021556
+    id: ck13c1hwxy5uf0i19co3fbycs
+    verified: false
+    hashtags: "#jadore, #sheingals, #lasvegasfoodie, #sponsored"
 ---

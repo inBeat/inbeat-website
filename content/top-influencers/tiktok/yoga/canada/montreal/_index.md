@@ -1,60 +1,60 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Montreal in 2023
+title: Top 10 Yoga TikTok Influencers In Montreal In 2023
 description: >-
-  Find top yoga TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #foryoupage #foryou #yoga.
+  Find top yoga TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #yoga #foryoupage #foryou.
 platform: TikTok
 hits: 4
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 4 TikTok influencers like this in Montreal, Canada for you to work with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 4 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
+  - username: "craig_major"
+    fullname: >-
+      craigmajor
+    bio: >-
+      Im a Fashion stylist and model based in Montreal! Enjoy life! 👖👟IG @craigmajor
+    location: "Canada"
+    followers: 76600
+    engagement: 1055
+    commentsToLikes: 0.025861
+    id: cka67s8pnm5nm0i78cboyvn7n
+    verified: false
+    hashtags: "#fashion, #muscle, #boy, #menstyle"
+  - username: "bourgeoisehoma"
+    fullname: >-
+      Alexandra Piette
+    bio: >-
+      Alexandra⚡️ J’aime faire des petites blagues Montréal 📍 IG:@bourgeoiseho
+    location: "Canada"
+    followers: 7320
+    engagement: 658
+    commentsToLikes: 0.017498
+    id: ckamqmmcvi0000i78p0iv8alj
+    verified: false
+    hashtags: "#foryoupage, #montreal, #fun, #joke"
+  - username: "thefitfatale"
+    fullname: >-
+      Samantha Cutler
+    bio: >-
+      What I eat, wear & do to chill TFO😏 Founder, Pro-Creator & Meditation Guide
+    location: "Canada"
+    followers: 19100
+    engagement: 463
+    commentsToLikes: 0.035877
+    id: ckbeym7goj4a40j238zex4lon
+    verified: false
+    hashtags: "#ootd, #selflove, #mindset, #canada"
   - username: "claudiapoulin2"
     fullname: >-
       Claudia Poulin
     bio: >-
       Cofounder @evivesmoothie 🍌🍒 PROMO CODE 2 FREE SMOOTHIES 👉🏻 smoothies2
     location: "Canada"
-    followers: 17600
-    engagement: 543
-    commentsToLikes: 0.017534
+    followers: 18000
+    engagement: 527
+    commentsToLikes: 0.015723
     id: ck8qhqag261my0j78k67ehie4
     verified: false
-    hashtags: "#smoothie, #vegan, #natural, #quebec"
-  - username: "bourgeoisehoma"
-    fullname: >-
-      Alexandra Piette
-    bio: >-
-      Alexandra⚡️ Gênante mais Attachante Montréal 📍 IG:@bourgeoisehom
-    location: "Canada"
-    followers: 6452
-    engagement: 648
-    commentsToLikes: 0.015889
-    id: ckamqmmcvi0000i78p0iv8alj
-    verified: false
-    hashtags: "#foryoupage, #quebecoise, #foryou, #fyp"
-  - username: "hadjmamadou"
-    fullname: >-
-      HaadjMamadou
-    bio: >-
-      live in Canada🇨🇦 from guinea🇬🇳 +1(514)561-5756
-    location: "Canada"
-    followers: 6153
-    engagement: 1821
-    commentsToLikes: 0.025858
-    id: ckbf4eh8mssfm0j23ip9nlewe
-    verified: false
-    hashtags: "#pageforyou, #fyp, #toronto, #yes"
-  - username: "yannkd0"
-    fullname: >-
-      🔴🟠🟡🟢🔵🟣
-    bio: >-
-      🇨🇦#jacmelien🇭🇹 Follow me 10k🙏👇🏾 IG @Yann_model_03 Snap:👻xolove93👻 FB:Ya
-    location: "Canada"
-    followers: 3094
-    engagement: 398
-    commentsToLikes: 0.037396
-    id: ckbeu5j0ldfug0j2314m2cjlq
-    verified: false
-    hashtags: "#savage, #fyp, #quarantine, #foryoupage"
+    hashtags: "#smoothie, #plantbased, #frozen, #quebec"
   - username: "lynnettemermaid"
     fullname: >-
       Lynnette Mermaid
@@ -66,43 +66,31 @@ profiles:
     commentsToLikes: 0.078295
     id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
-    hashtags: "#baywatch, #dancingchallenge, #goviral, #throwback"
+    hashtags: "#poem, #flexible, #swimsuit, #swimsuitmodel"
   - username: "jeanne.athleticyogi"
     fullname: >-
       jeanne dube
     bio: >-
       Fitness instructor 🔥 Yoga teacher 🙏 Instagram: jeanne.athleticyogi
     location: "Canada"
-    followers: 32100
-    engagement: 668
-    commentsToLikes: 0.007166
+    followers: 33000
+    engagement: 622
+    commentsToLikes: 0.007332
     id: ckcjk7zsqds6n0j23goq3o0h4
     verified: false
-    hashtags: "#trainer, #homegym, #summerworkout, #workout"
-  - username: "pow3rd"
+    hashtags: "#workout, #foryourpage, #homegym, #fitness"
+  - username: "lumira_"
     fullname: >-
-      POW3RD
+      Lumirä🧚🏻
     bio: >-
-      BACK AT TIKTOK 🥳 Goal:200k lets get it! GOAL REACHED!! 🥳🥰
+      -Healing sound offerings- 🌻Helping you to relax🌻 ✌🏻Peace only ☮️🇨🇦
     location: "Canada"
-    followers: 100200
-    engagement: 1271
-    commentsToLikes: 0.038031
-    id: cka0o5rz329yd0i78p3yuubjz
+    followers: 1500000
+    engagement: 1310
+    commentsToLikes: 0.035534
+    id: ck8kg0dltgco90j78wny8fczu
     verified: false
-    hashtags: "#rainforestfacts, #fortnite, #follow, #fyp"
-  - username: "livlaughlove514"
-    fullname: >-
-      Liv
-    bio: >-
-      Montreal, Canada 🇨🇦
-    location: "Canada"
-    followers: 4849
-    engagement: 1001
-    commentsToLikes: 0.144265
-    id: ck8z6r3ion6x10j78b2vi1h4g
-    verified: false
-    hashtags: "#foryoupage, #rainforestfacts, #wholenewgame, #fyp"
+    hashtags: "#fyp, #soundhealing, #didyouknow, #friendlyfuture"
   - username: "joanna.a.s"
     fullname: >-
       J.oanna
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.011660
     id: ckbqv8ec6fgcv0j23pgsxputp
     verified: false
-    hashtags: "#skillbuilding, #summer2020, #rollerskating, #obsessedwithit"
+    hashtags: "#obsessedwithit, #dadsoftiktok, #summer2020, #rollerskating"
+  - username: "pow3rd"
+    fullname: >-
+      POW3RD
+    bio: >-
+      BACK AT TIKTOK 🥳 Goal:200k lets get it! GOAL REACHED!! 🥳🥰
+    location: "Canada"
+    followers: 98400
+    engagement: 1234
+    commentsToLikes: 0.035242
+    id: cka0o5rz329yd0i78p3yuubjz
+    verified: false
+    hashtags: "#dontleaveme, #dadsoftiktok, #fyp, #foryou"
   - username: "jon_thevegan"
     fullname: >-
       Jonathan_Shopik
     bio: >-
-      DM me on Instagram for online 1 on 1 coaching (all fitness levels welcome)
+      Living with AS, here to help you Certified Nutrition Coach DM me on insta
     location: "Canada"
-    followers: 30100
-    engagement: 729
-    commentsToLikes: 0.053305
+    followers: 45600
+    engagement: 1185
+    commentsToLikes: 0.079804
     id: ck8074594ok6p0j78bktsw0lx
     verified: false
-    hashtags: "#ankylosingspondylitis, #stretching, #stretch, #arthritis"
+    hashtags: "#movement, #legday, #hiphealth, #veganfitnessjourney"
 ---

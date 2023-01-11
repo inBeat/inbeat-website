@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Italy in 2023
+title: Top 10 Bodybuilding TikTok Influencers In Italy In 2023
 description: >-
-  Find top bodybuilding TikTok influencers in Italy in 2023. Most popular hashtags: #fitness #bodybuilding #workout #motivation.
+  Find top bodybuilding TikTok influencers in Italy in 2023. Most popular hashtags: #bodybuilding #gym #fitness #viral.
 platform: TikTok
-hits: 14
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 14 TikTok influencers like this in Italy for you to work with.
+hits: 15
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "lorenzorotatori"
-    fullname: >-
-      Lorenzo Rotatori
-    bio: >-
-      🏆athlete🏆 🥋martial artist🥋 🧨🧨stuntman🧨🧨 manphysique european champion🏅
-    location: "Italy"
-    followers: 40500
-    engagement: 834
-    commentsToLikes: 0.070637
-    id: ckc86m5ty5mdh0j23s57f7ao7
-    verified: false
-    hashtags: "#bodybuilder, #nature, #lorenzorotatori, #crazy"
   - username: "salvospera"
     fullname: >-
       Salvo Spera
     bio: >-
-      Athlete /C. P. /ifbb PLATINUM MUSCLE 24y.o. ♐ Sicilia 🇮🇹 Coaching online
+      Atleta ifbb Coaching online
     location: "Italy"
-    followers: 10800
-    engagement: 888
-    commentsToLikes: 0.021133
+    followers: 13600
+    engagement: 1006
+    commentsToLikes: 0.032960
     id: ckbf0064nldlu0j236l533whl
     verified: false
-    hashtags: "#classicphysique, #lifestyle, #gym, #bodybuilding"
+    hashtags: "#bodybuilding, #salvospera, #fitness, #foryou"
+  - username: "lorenzorotatori"
+    fullname: >-
+      Lorenzo Rotatori
+    bio: >-
+      tiktok.com/@lorenzofit2 🥋martial artist🥋 🧨🧨stuntman🧨🧨 MP champion
+    location: "Italy"
+    followers: 44700
+    engagement: 790
+    commentsToLikes: 0.056990
+    id: ckc86m5ty5mdh0j23s57f7ao7
+    verified: false
+    hashtags: "#martialarts, #fight, #muscle, #tutorial"
+  - username: "francesca.pezzano"
+    fullname: >-
+      𝐅𝐑𝐀𝐍𝐂𝐄𝐒𝐂𝐀
+    bio: >-
+      Fitness lifestyle 𝗢𝗻𝗹𝗶𝗻𝗲 & 𝗟𝗶𝘃𝗲 𝗖𝗼𝗮𝗰𝗵𝗶𝗻𝗴 📍Milano
+    location: "Italy"
+    followers: 57500
+    engagement: 872
+    commentsToLikes: 0.012343
+    id: ck8vsi512doq90j78h4cdonym
+    verified: false
+    hashtags: "#fitness, #bikinifitness, #bodybuilding, #fit"
+  - username: "matteo_battazza"
+    fullname: >-
+      Matteo_battazza
+    bio: >-
+      60k?❤️❤️ Seguitemi su insta!! 😉🥵
+    location: "Italy"
+    followers: 58600
+    engagement: 706
+    commentsToLikes: 0.035041
+    id: ck8vshspldmie0j78wmn3kzl1
+    verified: false
+    hashtags: "#makemefamous, #tiktok, #omg, #motivation"
   - username: "chiara.gggg"
     fullname: >-
       chiara.ggg
     bio: >-
-      Italian girl 🇮🇹 Personal Trainer🏋🏻 24 years 🌸
+      🏆IFBB Elite Bikini 🏆 🏋🏻‍♀️ Personal Trainer e Online Coach 🏋🏻‍♀️
     location: "Italy"
-    followers: 15300
-    engagement: 457
-    commentsToLikes: 0.027796
+    followers: 15400
+    engagement: 499
+    commentsToLikes: 0.023945
     id: ckace8z1xlovo0i78geum7u90
     verified: false
-    hashtags: "#bikini, #doubleyourimpact, #addominali, #panciapiatta"
+    hashtags: "#doubleyourimpact, #panciapiatta, #fitcouple, #leggings"
+  - username: "francescofit93"
+    fullname: >-
+      Francesco
+    bio: >-
+      📍Palermo, Italy Instagram: francescofit93
+    location: "Italy"
+    followers: 41900
+    engagement: 613
+    commentsToLikes: 0.023900
+    id: cka6bt1vn1m4w0i78ocpy35tv
+    verified: false
+    hashtags: "#fitness, #menphisique, #biceps, #body"
   - username: "eddy_kood"
     fullname: >-
       eddy 
     bio: >-
-      📍🇮🇹 🇦🇱 ( Instagram eddykood)
+      📍 Milan 🇦🇱
     location: "Italy"
-    followers: 2908
-    engagement: 464
-    commentsToLikes: 0.013690
+    followers: 2870
+    engagement: 528
+    commentsToLikes: 0.013272
     id: ckbqudcy2eshv0j23pfj5chxr
     verified: false
-    hashtags: "#tiktokitaly, #video, #beach, #milan"
-  - username: "calis_mata"
+    hashtags: "#song, #italy, #milan, #viral"
+  - username: "andreasgroi_"
     fullname: >-
-      Tommaso Mata
+      Andrea Sgroi
     bio: >-
-      SEGUIMI📍Milano Atleta Calisthenics Street Gorilla🤸🏼‍♂ Instagram: tommi__cali
+      Torino, Italy🇮🇹 Faccio video. Road to 100 k❤
     location: "Italy"
-    followers: 7206
-    engagement: 434
-    commentsToLikes: 0.040553
-    id: ckb99ipiuts600j233snevw8j
+    followers: 27100
+    engagement: 1158
+    commentsToLikes: 0.036329
+    id: ckcdws593fui10j230on1g1mi
     verified: false
-    hashtags: "#trend, #fitness, #viral, #neiperte"
-  - username: "francescofit93"
+    hashtags: "#perte, #bff, #comedy, #palestra"
+  - username: "kg999_"
     fullname: >-
-      Francesco Fontana
+      KG999
     bio: >-
-      Palermo Italy 🇮🇹 Instagram: francescofit93
+      Intstagram : kg999__
     location: "Italy"
-    followers: 7735
-    engagement: 445
-    commentsToLikes: 0.013646
-    id: cka6bt1vn1m4w0i78ocpy35tv
+    followers: 20300
+    engagement: 506
+    commentsToLikes: 0.103448
+    id: ckacw74x6r8qt0i788n2mthvo
     verified: false
-    hashtags: "#fit, #photooftheday, #instagood, #lifestyle"
-  - username: "tiafisioaesthetic"
-    fullname: >-
-      Tiafisio_aesthetic_
-    bio: >-
-      ROAD TO 200K🤷🏼‍♂️ Seguimi su IG @tiafisio_aesthetic_ per scoprire più di me.
-    location: "Italy"
-    followers: 184300
-    engagement: 1000
-    commentsToLikes: 0.029500
-    id: ck9si09liwbof0j78kabkdcf0
-    verified: false
-    hashtags: "#magia, #mammaefiglio, #famiglia, #mamma"
-  - username: "amazing_fit.people"
-    fullname: >-
-      Amazing People 💪🔥
-    bio: >-
-      instagram: @amazing_fit.people TARGET: 20k🔥🎯
-    location: "Italy"
-    followers: 16900
-    engagement: 1362
-    commentsToLikes: 0.016047
-    id: ckc1xipkr1ei00j23pznc5ocv
-    verified: false
-    hashtags: "#athlete, #tricks, #gym, #fit"
-  - username: "matteo_diamante_official"
-    fullname: >-
-      Matteo Diamante
-    bio: >-
-      #ildiamantone Pov, film voice e cose divertenti. Fatti un giro 💎
-    location: "Italy"
-    followers: 172500
-    engagement: 1087
-    commentsToLikes: 0.011704
-    id: ck8semk2tkbpc0j78ueo21yvo
-    verified: false
-    hashtags: "#ildiamantone, #attore, #xte, #sport"
+    hashtags: "#foryou, #foryourpage, #perte, #fyp"
   - username: "luis53550"
     fullname: >-
       Luis Calisthenics
     bio: >-
       Non dimenticatevi di seguirmi anche su instagram😘
     location: "Italy"
-    followers: 13100
-    engagement: 1794
-    commentsToLikes: 0.018008
+    followers: 12900
+    engagement: 1771
+    commentsToLikes: 0.015672
     id: ck9v7ht0962im0j78n0i5onve
     verified: false
-    hashtags: "#calisthenics, #foryou, #viral, #foryoupage"
+    hashtags: "#handstand, #viral, #foryou, #fun"
 ---

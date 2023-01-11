@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In South Africa in 2023
+title: Top 10 Models Instagram Influencers In South Africa In 2023
 description: >-
-  Find top models Instagram influencers in South Africa in 2023. Most popular hashtags: #capetown #model #happy.
+  Find top models Instagram influencers in South Africa in 2023. Most popular hashtags: #capetown #model #southafrica #fashion.
 platform: Instagram
-hits: 189
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database holds 189 Instagram influencers like this in South Africa for you to pitch.
+hits: 139
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 139 Instagram influencers like this in South Africa for you to work with.
 profiles:
   - username: "ciara_tay_kruger"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
     location: "South Africa"
-    followers: 5379
-    engagement: 1460
-    commentsToLikes: 0.142204
+    followers: 5624
+    engagement: 1387
+    commentsToLikes: 0.111456
     id: ckapbizlf021z0i78vsf48vsh
     verified: false
-    hashtags: "#outfitoftheday, #fashionphotoshoot, #mothercity, #girlsswimwear"
-  - username: "jamie_domburg"
+    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
+  - username: "magaramirezz"
     fullname: >-
-      Jamie-Lee Domburg
+      Maria Gabriela Ramirez ⚓️
     bio: >-
-      God Fearing | Mom to Luca David 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Curvy Model @my_booker_models | TV presenter on @expressoshow on @sabc3
+      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
     location: "South Africa"
-    followers: 8213
-    engagement: 1410
-    commentsToLikes: 0.069008
-    id: ck5c946w3ar020i11t2sy41yu
+    followers: 6782
+    engagement: 1415
+    commentsToLikes: 0.065761
+    id: ckap0qc7qrepz0i78yrvmaxt0
     verified: false
-    hashtags: "#comebacktotown, #bodypositivity, #mombod, #effyourbeautystandards"
-  - username: "olivermatthieu"
+    hashtags: "#losangeles, #beach, #milan, #shooting"
+  - username: "yassahlake14"
     fullname: >-
-      Oliver Matthieu
+      Yassah Lake Pierce
     bio: >-
-      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
+      25💕 @anthemsales Fitness model💪🏾 West African🇱🇷 Hubby @bradpierce32 💍
     location: "South Africa"
-    followers: 5268
-    engagement: 1453
-    commentsToLikes: 0.096049
-    id: ck15pkwu6ye0b0i19o3n9yx4s
+    followers: 19476
+    engagement: 675
+    commentsToLikes: 0.118077
+    id: ck6u32vmfvdu90j71ixp591ck
     verified: false
-    hashtags: "#friends, #happy, #childactor, #mixedindonesian"
-  - username: "vvbrownskin"
-    fullname: >-
-      Vanessa Vanderpuye
-    bio: >-
-      Actress & International Model 🇬🇧 🇬🇭 Arjana Pike in Bulletproof S2 on @skytv @thecw 📧: info@vanessavanderpuye.com Hair Page @vvhairlondon 💇🏾‍♀️
-    location: "South Africa"
-    followers: 35092
-    engagement: 491
-    commentsToLikes: 0.062154
-    id: ck15qtmbu4kym0i19rnxcpnkk
-    verified: false
-    hashtags: "#vvbrownskin, #vanessavanderpuye, #melanin, #african"
+    hashtags: "#selflove, #confidence, #atlanta, #fitfam"
   - username: "footmistressza"
     fullname: >-
       Foot Mistress
     bio: >-
       South African foot model 👣 🇿🇦 UK 4.5/ US 6.5 A woman with pretty feet who ❤️’s spoils Backup: @footsiemistress
     location: "South Africa"
-    followers: 35850
-    engagement: 1589
-    commentsToLikes: 0.028238
+    followers: 35182
+    engagement: 1614
+    commentsToLikes: 0.028277
     id: ck8td7vy929co0j78g0rxef98
     verified: false
-    hashtags: "#bluenails, #mondaymood, #wickedwednesday, #staysafe"
+    hashtags: "#staysafe, #pinknails, #mondaymood, #bluenails"
+  - username: "kevinlutolf"
+    fullname: >-
+      Kevin Lütolf
+    bio: >-
+      🌍 🇨🇭Zurich 🎬 Model, Entrepreneur, ContentCreator 🖤 Brand Ambassador @breitling, @mini_switzerland & @nespresso.ch 🎥 Co-Founder @kompleazy
+    location: "South Africa"
+    followers: 909219
+    engagement: 505
+    commentsToLikes: 0.018946
+    id: ck5bzxktzs13r0i11vh8beq2d
+    verified: false
+    hashtags: "#surfing, #italien, #summer, #nature"
+  - username: "olivermatthieu"
+    fullname: >-
+      Oliver Matthieu
+    bio: >-
+      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
+    location: "South Africa"
+    followers: 5393
+    engagement: 1299
+    commentsToLikes: 0.091890
+    id: ck15pkwu6ye0b0i19o3n9yx4s
+    verified: false
+    hashtags: "#childmodel, #friendship, #boy, #schoolboy"
+  - username: "carissaswart"
+    fullname: >-
+      Carissa💋
+    bio: >-
+      Model based in Capetown📍📍 Mother agency : @syncmodels_
+    location: "South Africa"
+    followers: 5173
+    engagement: 1413
+    commentsToLikes: 0.073638
+    id: ckf5o137d0ih40j23h5hkt3vo
+    verified: false
+    hashtags: "#follow, #photooftheday, #portrait, #music"
+  - username: "frema.mensah"
+    fullname: >-
+      🇬🇭Frema Mensah🇬🇭
+    bio: >-
+      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
+    location: "South Africa"
+    followers: 7981
+    engagement: 721
+    commentsToLikes: 0.085715
+    id: ck55mwkjc4zg40i11b4gc4y7d
+    verified: false
+    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
+  - username: "katrynkruger"
+    fullname: >-
+      Katryn Kruger
+    bio: >-
+      Model @imgmodels 🌸 KOFFIE MET KATRYN 🌸 + motiveringspreker, hondemamma, koffie drinker, boekwurm, kyk herhaaldelik Friends 📍Kaapstad Links:
+    location: "South Africa"
+    followers: 16934
+    engagement: 370
+    commentsToLikes: 0.141230
+    id: ckaor8w80m86z0i78j1fsawhm
+    verified: false
+    hashtags: "#vrouebemagtiging, #vakansie, #mode, #kmk"
   - username: "young_stilo_"
     fullname: >-
-      YS
+      BLOODY YS
     bio: >-
       Creative director | Model FOR BOOKINGS: INKEDPHOTOGRAPHY51@GMAIL.COM
     location: "South Africa"
-    followers: 77686
-    engagement: 881
-    commentsToLikes: 0.019715
+    followers: 122636
+    engagement: 1039
+    commentsToLikes: 0.011869
     id: ck14k22zunca50i190v391cby
     verified: false
-    hashtags: "#breezerwildfruit, #tasteitfirst, #yslevel, #livelifeincolour"
-  - username: "tracymcgregor"
-    fullname: >-
-      Tracy McGregor
-    bio: >-
-      * DM for collabs * Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @
-    location: "South Africa"
-    followers: 27278
-    engagement: 355
-    commentsToLikes: 0.162121
-    id: ck6ue97chpjuk0j71p6xoc0mx
-    verified: false
-    hashtags: "#capetown, #mom, #bornthree, #lifeisgood"
-  - username: "jessismerk"
-    fullname: >-
-      Jessica Anne Smerkovitz
-    bio: >-
-      Iconic duo with @jaysmerk 👯‍♀️ model | DJ | digital marketer Onwards & Upwards👽 South African 🇩🇪🇱🇹 📧 JessiSmerkMGT@gmail.com
-    location: "South Africa"
-    followers: 25485
-    engagement: 817
-    commentsToLikes: 0.025445
-    id: ck9ham6yyd2bg0j786b5lw2ou
-    verified: false
-    hashtags: "#monbonkini, #monbon"
-  - username: "itszaraleahsmith"
-    fullname: >-
-      ℤ𝕒𝕣𝕒-𝕃𝕖𝕒𝕙 𝕤𝕞𝕚𝕥𝕙 🌵
-    bio: >-
-      Durban. Model , Dj & producer 🎧🎹 DM for collabs 🐚 22.7K on tiktok ⬇️
-    location: "South Africa"
-    followers: 8360
-    engagement: 1190
-    commentsToLikes: 0.062930
-    id: ckap01eimoaho0i784gn2nybn
-    verified: false
-    hashtags: ""
-  - username: "nicola_duplessis"
-    fullname: >-
-      Nicola Tila Du Plessis
-    bio: >-
-      Director: @acemodels_atlanticseaboard SA| MODEL | Face of @sandybclub @thebayhotel | Foodpage: @nicolascreation BRAND AMBASSADOR: @amazinghairsa
-    location: "South Africa"
-    followers: 26236
-    engagement: 313
-    commentsToLikes: 0.059777
-    id: ck14gy3zw7l6g0i19peitarc2
-    verified: false
-    hashtags: "#must, #luxury, #giveaway, #acemodelsatlanticseaboard"
+    hashtags: "#insidelife, #majorleaguexmoziak"
 ---

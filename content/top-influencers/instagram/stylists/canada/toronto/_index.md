@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Toronto in 2023
+title: Top 10 Stylists Instagram Influencers In Toronto In 2023
 description: >-
-  Find top stylists Instagram influencers in Toronto in 2023. Most popular hashtags: #fashion #toronto #style #stylist.
+  Find top stylists Instagram influencers in Toronto in 2023. Most popular hashtags: #photography #toronto #love #fashion.
 platform: Instagram
-hits: 45
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 45 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 11
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 11 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "themammadiaries"
-    fullname: >-
-      M A R I A M   S H A H I D
-    bio: >-
-      🎥 200K+ YouTube Mom👦🏻👦🏻👧🏻 Content Creator | Stylist 📍#TORONTO Lifestyle | Beauty | Fashion 🇨🇦🇦🇪🇵🇰 Collabs DM/Email 👇🏼NEW VIDEO👇🏼
-    location: "Canada"
-    followers: 23509
-    engagement: 235
-    commentsToLikes: 0.202683
-    id: ckf5rmn5rd7x80j23ycfh10sj
-    verified: false
-    hashtags: "#discoverontario, #youtubekids, #torontoblogger, #toronto"
-  - username: "__marlyn.mary__"
-    fullname: >-
-      💍 𝑀𝒶𝓇𝓎 💍✧⋆
-    bio: >-
-      🇷🇺🇦🇫🇨🇦 ᴀᴄᴛᴏʀ/ᴍᴏᴅᴇʟ ᴡɪᴛʜ ᴘᴜɴᴊᴀʙ sᴛᴀʀ ⭐️| ʀᴀᴅɪᴏ ʜᴏsᴛ ᴡɪᴛʜ ᴄɪɴᴀ ʀᴀᴅɪᴏ | ᴀssᴏᴄɪᴀᴛᴇᴅ ᴡɪᴛʜ @jg_immiconsultant ᴛɪᴋᴛᴏᴋ:mαrlчn.mαrч snαpchαt:mαrlчn.mαrч
-    location: "Canada"
-    followers: 2539
-    engagement: 1168
-    commentsToLikes: 0.122604
-    id: ck8weq5xlefx90j782190ye0b
-    verified: false
-    hashtags: "#loveyourself, #style, #selfcare, #positivevibes"
-  - username: "artemis.muse"
-    fullname: >-
-      𝓐𝓻𝓽𝓮𝓶𝓲𝓼 𝓜𝓾𝓼𝓮 🏹
-    bio: >-
-      𝕊𝕥𝕪𝕝𝕖 | 𝔽𝕒𝕤𝕙𝕚𝕠𝕟 | 𝕋𝕣𝕒𝕧𝕖𝕝 TORONTO 📍 Stylist - Creative Director For collaborations/inquiries DM or Email: 👇🏽👇🏽👇🏽
-    location: "Canada"
-    followers: 25691
-    engagement: 345
-    commentsToLikes: 0.031185
-    id: ck5zlt7rblc7c0i14u9fv9dua
-    verified: false
-    hashtags: "#tb, #sante, #skincare, #glowingskin"
   - username: "minaj.mp"
     fullname: >-
       ♏️inajmp💮
     bio: >-
-      Stylist~Model~Beauty pro~Vlogger I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨 🔒@pouria_roozitalab Model @unik.models
+      Fashion Stylist~Model~Beauty pro~ Miss face of humanity 2021👑 I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨🇨🇦 @unik.models
     location: "Canada"
-    followers: 59018
-    engagement: 273
-    commentsToLikes: 0.095481
+    followers: 81514
+    engagement: 267
+    commentsToLikes: 0.055639
     id: ckaotndqcwn0x0i78myma80eh
     verified: false
-    hashtags: "#modeling, #fashionphotography, #love, #fashion"
-  - username: "iamsinaamirii"
+    hashtags: "#fashionshow, #beautiful, #artoftheday, #outfitinspiration"
+  - username: "aliciasmcn"
     fullname: >-
-      sina amiri
+      Alicia S Mcnamara
     bio: >-
-      𝑊ℎ𝑒𝑟𝑒 𝑓𝑜𝑐𝑢𝑠 𝑔𝑜𝑒𝑠 𝐸𝑛𝑒𝑟𝑔𝑦 𝑓𝑙𝑜𝑤𝑠. 📍toronto 𝑊𝑒 𝑎𝑟𝑒 𝑤𝑖𝑛𝑛𝑒𝑟𝑠.
+      @etcanada 💕 Be Kind & Hustle 💕
     location: "Canada"
-    followers: 27215
-    engagement: 671
-    commentsToLikes: 0.045928
-    id: ck602gm06hcn60i14kurkmaub
+    followers: 13478
+    engagement: 536
+    commentsToLikes: 0.277124
+    id: ck138v2jui69c0i19purjhp67
     verified: false
-    hashtags: "#sinaamiri, #streetstyle, #barber, #fashion"
-  - username: "blondehanes"
+    hashtags: "#toronto, #ootd, #wardrobestylist, #love"
+  - username: "terianncarty"
     fullname: >-
-      sara wells • toronto blogger
+      Food Photographer + Stylist
     bio: >-
-      Effortless & Affordable Style ✨ Wife 💞 Mama to Poppy🤱🏼Rescue Dogs 🐾 E-comm Stylist👗 @urbanplanet 📍Toronto ⬇️ My GAD Story ⬇️ #whatsarawears
+      👩🏻‍🍳Vegan Recipe Developer & Food Photographer 📝Contributor @bestofvegan 📷Food stylist 🧘🏻‍♀️Yoga Teacher📍Toronto
     location: "Canada"
-    followers: 6423
-    engagement: 788
-    commentsToLikes: 0.202421
-    id: ck14hujp9c7nx0i19asz7qr08
+    followers: 27667
+    engagement: 268
+    commentsToLikes: 0.272545
+    id: ck5zzcswubhtr0i14rz5mp0un
     verified: false
-    hashtags: "#poppyjoywells, #whatsarawears, #gifted, #loveyourstretchmarks"
-  - username: "rightmood"
+    hashtags: "#vegansofig, #easyvegan, #glutenfreevegan, #foodphotography"
+  - username: "balloonsbydina"
     fullname: >-
-      biba
+      Balloons By Dina
     bio: >-
-      toronto artist, model, stylist 🎾 art @cyborgcamp
+      Leading Balloon Stylist in the GTA Based in Toronto 🇨🇦 ⬇️ ENTER MASTERCLASS ⬇️
     location: "Canada"
-    followers: 2314
-    engagement: 940
-    commentsToLikes: 0.061836
-    id: ck6tvl83hmu8h0j718fezbb2s
+    followers: 128238
+    engagement: 153
+    commentsToLikes: 0.016851
+    id: ck13bkejpvu6h0i19hy2en9i2
+    verified: false
+    hashtags: "#icecreamtheme, #birthdaybackdrop, #icecreamparty, #icecreamcake"
+  - username: "tynomibanks"
+    fullname: >-
+      Tynomi Banks
+    bio: >-
+      I'm the queen I'm Miss Tynomi 👑 when I'm on stage I know you know me 😘 https://linktr.ee/TynomiBanks
+    location: "Canada"
+    followers: 86120
+    engagement: 576
+    commentsToLikes: 0.044278
+    id: ck0w4kfcgz0gx0i193nyi3hy5
+    verified: false
+    hashtags: "#gay, #dragrace, #transformation, #lgbtq"
+  - username: "hairbyestylez"
+    fullname: >-
+      HairByEstylez
+    bio: >-
+      Hair Stylist : Esther Tutu 😘 WE ONLY BOOK MONTHLY ✨ Hair Orders: Estylezcollection@gmail.com 📆 Book Your Appointment Online ⬇️ NO DMS🚫 Toronto 📍
+    location: "Canada"
+    followers: 37043
+    engagement: 542
+    commentsToLikes: 0.039512
+    id: ck0u7ugdv5ny90i19do2kzrbf
     verified: false
     hashtags: ""
-  - username: "jilljiujiuliu"
+  - username: "timelessbyvinay"
     fullname: >-
-      Jill Liu 劉
+      Timeless By Vinay 🇨🇦
     bio: >-
-      📍 Toronto, Ontario ▫️ Stylist｜Marketer｜Digital Creator ◾️ Contact：hello@jillliu.com ◻️ 微博Weibo/小红书：Jill啾啾刘
+      Certified MUAH based inToronto, Canada Bridal | Makeup | Hair | Saree stylist 📧 timelessbyvinay@gmail.com 🚫NO DMs
     location: "Canada"
-    followers: 30594
-    engagement: 115
-    commentsToLikes: 0.054180
-    id: ck8szwy7oq0uj0j78p60kvpcr
+    followers: 32416
+    engagement: 221
+    commentsToLikes: 0.024980
+    id: ck0vvr4b1qe3v0i1944i2vt7f
     verified: false
-    hashtags: ""
-  - username: "zaheee22"
+    hashtags: "#sareegoals, #makeuplife, #tamilgirl, #weddingidea"
+  - username: "capricestylist"
     fullname: >-
-      ظهيرة Zaheera Mohammed
+      CAPRICE CONNERS
     bio: >-
-      Personal Blog&Fashion Mom&Stylist Eat~Pray~Love 🕋🧕🏼🍝🇨🇦🇹🇹 Wife of 19 years,Mom of 3 Zayn 17,Tas 16,A’ishah 7.
+      Creative Director | Fashion Stylist Editorial | TV & Film 🎞 Mama to Everly Blue 🦋 For Inquiries & Partnerships 📧 anna@sinclaircreativeagency.com
     location: "Canada"
-    followers: 141595
-    engagement: 159
-    commentsToLikes: 0.038138
-    id: ck14l0023s6fd0i19xhp8dibi
+    followers: 9961
+    engagement: 353
+    commentsToLikes: 0.087705
+    id: ck5c6l8jg5o6t0i11vqijxo04
     verified: false
-    hashtags: "#fashionblogger, #beoakandfort, #oakandfort, #toronto"
-  - username: "marcandrewsmith"
+    hashtags: "#canadafashion, #fashionedit, #streetwearculture, #fashionstylists"
+  - username: "gabrielabellydancer"
     fullname: >-
-      Marc Andrew Smith
+      Gabriela Carnovale
     bio: >-
-      Creative Style Director, Wardrobe Stylist and Image Consultant in Toronto, NYC & LA. Email for inquiries. Too late to die young. 🖤
+      💜 Belly dancer 💃🏼 Director @abundancebellydance 🌎 Blessed 📨For bookings: DM or e-mail
     location: "Canada"
-    followers: 29674
-    engagement: 169
-    commentsToLikes: 0.077498
-    id: ck0tzpxdhr4fl0i19ijaqbtbe
+    followers: 26848
+    engagement: 77
+    commentsToLikes: 0.134148
+    id: ck8tax2ogtfl20j78wsc5xugc
     verified: false
-    hashtags: "#drag, #ootd, #lgbt, #editorialphotography"
+    hashtags: "#monday, #model, #torontomodel, #creative"
+  - username: "model_lavin"
+    fullname: >-
+      Lavin 👑
+    bio: >-
+      Runway Model#tkfw Account active by mom Tiktok 👉🏻 model.lavin New video on YouTube ⤵️
+    location: "Canada"
+    followers: 317682
+    engagement: 269
+    commentsToLikes: 0.019038
+    id: ck6tkxeq45lbl0j71ebqey78f
+    verified: false
+    hashtags: "#patpatshopping, #accessories, #winter, #canada"
 ---

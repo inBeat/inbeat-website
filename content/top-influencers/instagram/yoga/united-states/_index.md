@@ -1,24 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United States in 2023
+title: Top 10 Yoga Instagram Influencers In United States In 2023
 description: >-
-  Find top yoga Instagram influencers in United States in 2023. Most popular hashtags: #yoga #yogaeveryday #yogavideo.
+  Find top yoga Instagram influencers in United States in 2023. Most popular hashtags: #yogapractice #yoga #yogateacher #yogachallenge.
 platform: Instagram
-hits: 2778
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 2778 Instagram influencers like this in United States for you to collaborate.
+hits: 3377
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 3377 Instagram influencers like this in United States for you to connect with.
 profiles:
-  - username: "lauramadelain"
+  - username: "pigeatsfish"
     fullname: >-
-      Laura Madelain
+      
     bio: >-
-      🌙 @wilhelminamodels NY yoga teacher Love is always the answer 🌊
+      Yoga 🇸🇬
     location: "United States"
-    followers: 8415
-    engagement: 863
-    commentsToLikes: 0.083191
-    id: ck5cftwfpnm150i11jkuis4hi
+    followers: 35681
+    engagement: 55
+    commentsToLikes: 0.234435
+    id: ckaorrgr0of140i78ccytx5s4
     verified: false
-    hashtags: "#yoga"
+    hashtags: "#alofourdirections, #fleximarchintospring, #alocarefortheocean, #alowomenscircle"
+  - username: "flou_yoga"
+    fullname: >-
+      🅕🅐🅣🅘🅜🅐 | Yoga
+    bio: >-
+      𝘠𝘰𝘨𝘢 | 𝘓𝘪𝘷𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘦 𝘱𝘳𝘦𝘴𝘦𝘯𝘵 𝘮𝘰𝘮𝘦𝘯𝘵 🧘🏼‍♀️Yogi and 😷Dentist 💙Sharing my yoga journey and happy thoughts to hopefully inspire someone 🐚Galicia, Spain
+    location: "United States"
+    followers: 51255
+    engagement: 101
+    commentsToLikes: 0.188806
+    id: ck13bfe32v5w20i19pkdhwrqv
+    verified: false
+    hashtags: "#sportygirl, #yogafitness, #yogainspiration, #yogareel"
   - username: "yoga"
     fullname: >-
       Yoga
@@ -30,101 +42,89 @@ profiles:
     commentsToLikes: 0.019284
     id: ck0tvu6omcsz20i19guq45v3p
     verified: true
-    hashtags: "#yogaposes, #yogaasana, #yogaposture, #yogavideo"
+    hashtags: "#yogapractice, #yogaposes, #yogaeverydamnday, #yogainspiration"
   - username: "best.yoga"
     fullname: >-
       YOGA
     bio: >-
-      ⁣⁣⁣⁣⁣⁣Follow us if you love Yoga! 💌Direct for shoutout
+      ⁣⁣⁣⁣⁣⁣Follow us if you love Yoga! 💌Direct for shoutout ⬇️
     location: "United States"
-    followers: 185698
-    engagement: 135
-    commentsToLikes: 0.009566
+    followers: 200410
+    engagement: 51
+    commentsToLikes: 0.011024
     id: ck0u88i936ql80i19hmna0zb9
     verified: false
-    hashtags: "#yogalife, #yogajourney, #yogapose, #yogastrong"
-  - username: "willowpixie"
+    hashtags: "#yogapractice, #yogachallenge, #yogatutorial, #splits"
+  - username: "simply__radishing"
     fullname: >-
-      WILLOW ⋒ Content Creator
+      caroline 💫🌿
     bio: >-
-      💍Silly in love with @benkonation 🌸dreamy pink vibes always LIFESTYLE ✖️ TRAVEL ✖️ YOGA ( RYT200) 📍#PNW 💌 willowpixieblog@gmail.com MY PRESETS+BLOG👇🏼
+      health | fitness | travel | lifestyle ☀️ Miami yoga teacher, trainer & law student
     location: "United States"
-    followers: 7999
-    engagement: 1493
-    commentsToLikes: 0.091581
-    id: ck55mmf8549wb0i1167sozhej
+    followers: 14099
+    engagement: 231
+    commentsToLikes: 0.125041
+    id: ckmw1chbq6awp0j23mf1tl2w3
     verified: false
-    hashtags: "#bts, #covidwedding"
-  - username: "babysmokes_"
+    hashtags: "#coldest, #ad, #giveaway, #sponsored"
+  - username: "yogawithbrittney"
     fullname: >-
-      | B A B Y |
+      Brittney | Movement & Wellness
     bio: >-
-      NO H8🚫❤️ YogaDabber🧘🏼‍♀️😽💨 Cannabis Consumption ; Edibles🌱 Open 🧠| Creative 💭| Big ♥️|➰ Cannabis x Makeup🥀 TWT👇🏼
+      Lots of yoga and handstands 🤸🏼‍♀️ Wellness tips 🥰 YOU CAN HEAL My yoga program ➡️ #strongandflexi 🧘‍♀️
     location: "United States"
-    followers: 5778
-    engagement: 1771
-    commentsToLikes: 0.183972
-    id: ck6uh0fxu69bs0j712opan5fr
+    followers: 10140
+    engagement: 193
+    commentsToLikes: 0.172954
+    id: ckrzelrpul3ts0j23r6xodqmc
     verified: false
-    hashtags: "#cannababes, #girlswhosmoke, #michiganmeds, #beyourownhappy"
-  - username: "gratefulandgray"
+    hashtags: "#chronicwellness, #tsw, #wolvenatheart, #moldillness"
+  - username: "followthebuti"
     fullname: >-
-      Karen |gray hair transition|
+      S H A N N O N | M A R C O N I
     bio: >-
-      Positive Aging Growth Mindset Healthy Living Skincare & Fitness Fanatic Yoga Teacher Mama to 4 sweeties and wife to Ben
+      Your go-to fun fit yoga/massage girl Lover of life 4’9” I help you feel good energetically 😍 Founder of @vivastrah Click link to book a sesh w/ me👇🏽
     location: "United States"
-    followers: 28681
-    engagement: 812
-    commentsToLikes: 0.077049
-    id: ck14kyf8grya60i19rhhj4nkk
+    followers: 100463
+    engagement: 160
+    commentsToLikes: 0.034898
+    id: ckq8ukx3hjxv00j23qwe1imxa
     verified: false
-    hashtags: "#silversisters, #agepositive, #artinaging, #encouragequarantinesilversisters"
-  - username: "kundaliniyoginiprasiddha"
+    hashtags: "#meditate, #fitness, #life, #yogapractice"
+  - username: "teesuperfly"
     fullname: >-
-      PRASIDDHA🌿Health&Spirit Coach
+      Teena Singh
     bio: >-
-      Here to share authentic Yoga, Ayurveda & Hindu spirituality🧡💫 Certified Ayurvedic Wellness Counselor🌱 India 🕌 & LA 🌊 For free resources and booking👇🏻
+      Not an influencer Not an advice taker Nescafe girl Akira/Kabir Singh Naturopath Unfiltered Caffeine driven Yoga is life : Less is more
     location: "United States"
-    followers: 8814
-    engagement: 1122
-    commentsToLikes: 0.084211
-    id: ck9ha2pmsaw7d0j783nn2j00v
-    verified: false
-    hashtags: "#soul, #reflection, #cosmos, #heal"
-  - username: "jus_vera"
+    followers: 360249
+    engagement: 77
+    commentsToLikes: 0.032642
+    id: ck14lbbhxtsmw0i19euvyt2ja
+    verified: true
+    hashtags: "#bombaysbesttiramisu, #kavalan, #dolcemi"
+  - username: "olgaurbanovich_"
     fullname: >-
-      Vera Wu
+      #YogaMama 🌸 RYT
     bio: >-
-      Be you, be wild 🐅 USC EE grad ✌🏼 📮@photogenicsla 🗓Zoom Yoga: Tue, Thur, Sat (time👇🏼) One half of @wedriphard💧
+      🌱 International yoga teacher 🌷 Nutrition specialist 🌞 Morher
     location: "United States"
-    followers: 32529
-    engagement: 755
-    commentsToLikes: 0.042640
-    id: ck5c2vat6y27h0i11y1eqcsnx
+    followers: 117745
+    engagement: 48
+    commentsToLikes: 0.018885
+    id: ck14hsr2gby230i194saiy2dt
     verified: false
-    hashtags: "#stoked, #currentmood, #dailyessentials, #mood"
-  - username: "annagreenberg"
+    hashtags: "#yogagirl, #yogateacher, #yogalove, #yogapractice"
+  - username: "charleeatkins"
     fullname: >-
-      Anna Greenberg
+      Charlee Atkins
     bio: >-
-      Yoga🤸🏼‍♀️& 🧘🏼‍♀️ Meditation Instructor @onepeloton Dog Mom to Mia & Loki 🐕💕🐕 @koreank9rescue
+      Creator of @lesweat 🏆 Voted Top At-Home Workout App HIIT • Strength • Cardio • Stretch • Yoga More info & 7-days FREE ⤵️
     location: "United States"
-    followers: 27454
-    engagement: 543
-    commentsToLikes: 0.090144
-    id: ck0udqz56jrf80i19aevfc3hz
-    verified: false
-    hashtags: "#tbt, #mentalhealthawareness, #mentalhealth, #stigmafree"
-  - username: "justsay_aileen"
-    fullname: >-
-      Aileen Day 🇵🇦
-    bio: >-
-      -Dentist|Yoga Teacher -Content creator -Bussiness inquires: 🌎 seattlepecan@gmail.com I eat more Avocado than you!! 📍Seattle YouTube 👇🏼
-    location: "United States"
-    followers: 13937
-    engagement: 2671
-    commentsToLikes: 0.070888
-    id: ck55pebg7adng0i112xlbc2d2
-    verified: false
-    hashtags: "#twentytwenty, #thegeniusbrand, #knowyourworth, #iamdeserving"
+    followers: 153544
+    engagement: 52
+    commentsToLikes: 0.046256
+    id: ck0vyp7cq541w0i19apid92ik
+    verified: true
+    hashtags: "#nycfitnesstrainer, #nycfitness, #fitnesstips, #exercisetips"
 ---

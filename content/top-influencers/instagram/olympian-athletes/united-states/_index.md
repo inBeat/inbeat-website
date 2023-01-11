@@ -1,130 +1,130 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In United States in 2023
+title: Top 10 Olympian Athletes Instagram Influencers In United States In 2023
 description: >-
-  Find top olympian athletes Instagram influencers in United States in 2023. Most popular hashtags: #fitness #homeworkouts #motivation.
+  Find top olympian athletes Instagram influencers in United States in 2023. Most popular hashtags: #olympics #track #tokyo2020 #athletics.
 platform: Instagram
-hits: 141
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 141 Instagram influencers like this in United States for you to connect with.
+hits: 223
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 223 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "morganmitch"
+  - username: "lalahurdles2"
     fullname: >-
-      Morgan Mitchell
+      LaVonne Idlette
     bio: >-
-      🌱• olympian @adidas athlete @livesoulara @imgtalent
+      Olympian MBA JD #TheAmazingRace32 RealEstateInvestor #iFinanceRealEstate I help athletes and UHNWI invest in Biz & RE M&A Advisor @athletetechgroup
     location: "United States"
-    followers: 98416
-    engagement: 609
-    commentsToLikes: 0.010065
-    id: ck0w0c3u8dfuc0i19qhpnyps2
-    verified: true
-    hashtags: "#larocheposay, #inandoutofthesun, #day3, #above3protectfromuv"
-  - username: "xavisus_gayden"
-    fullname: >-
-      Xavisus Gayden IFBB Pro 🌐
-    bio: >-
-      The Governor- Husband, Father, U.S. Marine (Retired Veteran), IFBB Pro Athlete, Olympian, and Coach. . Visit my Mon Ethos Profile for links below!
-    location: "United States"
-    followers: 48539
-    engagement: 206
-    commentsToLikes: 0.025854
-    id: ck5hdz8d7q66v0i11zcei2v5f
-    verified: true
-    hashtags: "#bodybyo, #hightsupps, #jednorth, #ifbbpro"
-  - username: "sagewatson"
-    fullname: >-
-      Sage Watson
-    bio: >-
-      Olympian ⁣⁣ @nike Athlete⁣⁣⁣,@lorealparis partner Canadian Record Holder⁣⁣ Pan American Champion ⁣⁣⁣⁣ NCAA Champion for Arizona⁣⁣⁣ 💌 sage@dulcedo.com
-    location: "United States"
-    followers: 59011
-    engagement: 504
-    commentsToLikes: 0.018110
-    id: ck0u9m9r5a3bk0i19qw7p3r3x
-    verified: true
-    hashtags: "#recovery, #running, #track, #training"
-  - username: "abbyerceg"
-    fullname: >-
-      Abby Erceg
-    bio: >-
-      🇳🇿 Olympian /// @adidas Athlete ⚽️ NC Courage 🏃🏽‍♀️ Constantly pursuing #afitterexistence #you2.0
-    location: "United States"
-    followers: 24799
-    engagement: 413
-    commentsToLikes: 0.014432
-    id: ckap8yje3qg4j0i785y8jab1k
-    verified: true
-    hashtags: "#weightloss, #upperbody, #girlswholift, #homeworkout"
-  - username: "bdecker1814"
-    fullname: >-
-      Brianna Decker
-    bio: >-
-      2x Olympian 🇺🇸| CCM Athlete | Adidas Hockey Athlete
-    location: "United States"
-    followers: 29681
-    engagement: 465
-    commentsToLikes: 0.006490
-    id: ck5c6ei8d59uj0i11hyr9stl8
-    verified: true
-    hashtags: "#hockeyneverstops, #hometeam, #growthegame, #blackouttuesday"
-  - username: "camile_periat"
-    fullname: >-
-      Camile Periat IFBB
-    bio: >-
-      VP / co-owner of: @santacruzpowerfitness @santacruzsportsnutrition @team_pulse 6 x Pro Bikini Champion 3 X Olympian @evogennutrition Athlete
-    location: "United States"
-    followers: 94466
-    engagement: 63
-    commentsToLikes: 0.044803
-    id: ck0vx1pu0wpe30i19jwwlqc77
+    followers: 71292
+    engagement: 109
+    commentsToLikes: 0.043035
+    id: ck5pz3yn6z3tx0i1186rjj3os
     verified: false
-    hashtags: "#teamevogen, #norcalmecca, #calilove, #quarentine"
-  - username: "boditurner747"
+    hashtags: "#travellife, #realestateinvesting, #duediligence, #happynewyear"
+  - username: "devonallen13"
     fullname: >-
-      B O D I  T U R N E R
+      Devon Allen
     bio: >-
-      26 | Olympian | BMX athlete | Melbourne | 👻: bodiboii | 🎥 YouTube
+      Olympian. NIKE athlete. 3x US/NCAA champ 110HH. Twitter-DevonAllen13
     location: "United States"
-    followers: 20712
-    engagement: 240
-    commentsToLikes: 0.021934
-    id: ck6tp5rnmhzty0j71y0y4ohgs
-    verified: false
-    hashtags: "#bmx, #throwbackthursday, #tbt, #beonyourgrind"
-  - username: "raphamilagres"
-    fullname: >-
-      Raphaela Milagres 🇧🇷
-    bio: >-
-      Bikini Olympian @bombshellsportswear athlete @evogennutrition use ‘EVOGENELITE’ for 15% off @bodybyo
-    location: "United States"
-    followers: 89791
-    engagement: 765
-    commentsToLikes: 0.015832
-    id: ck5hlbr0ljxq90i11n5yb7899
-    verified: false
-    hashtags: "#bomshellsportswear, #bombshellsportswear, #fitgirl, #olympia2020"
-  - username: "race_imboden"
-    fullname: >-
-      Race Imboden
-    bio: >-
-      𝒩𝑒𝓌 𝒴𝑜𝓇𝓀 Olympian @everytown athlete council
-    location: "United States"
-    followers: 51922
-    engagement: 267
-    commentsToLikes: 0.008097
-    id: ck0tyfrkimmnp0i19o8qkxo4h
+    followers: 69576
+    engagement: 573
+    commentsToLikes: 0.007803
+    id: ck6tpfr94jm3n0j71i0impjy0
     verified: true
-    hashtags: "#belstaffmeatpacking"
-  - username: "gabbyfrancots4"
+    hashtags: "#haywardfield, #sonya6400, #usatf, #track"
+  - username: "nooralotta"
     fullname: >-
-      GabbyFranco.com ⭐
+      NOORALOTTA NEZIRI
     bio: >-
-      ⭐️ Army wife & Mom ⭐️ Olympian ⭐️ Athlete ⭐️ Entrepreneur ⭐️ Top Shot Alumni ⭐️ Instructor ⭐️ Author Sponsors @thenssf and @waltherarms
+      🇫🇮🇦🇱 @puma ATHLETE. @foodin & @fitnessfirstfi ATHLETE. OLYMPIAN. PB 12.81 & 7.91 (NR). Master of Economic Sciences.👩🏽‍🎓
     location: "United States"
-    followers: 24743
-    engagement: 206
-    commentsToLikes: 0.032622
-    id: ck0tvda34axw70i19864rr0nc
+    followers: 49672
+    engagement: 710
+    commentsToLikes: 0.022803
+    id: ck5q08yuw4tz90i11lm8d1uxm
+    verified: true
+    hashtags: "#puma, #heloglobal, #pumawomen, #femmegang"
+  - username: "anderson_peters1"
+    fullname: >-
+      Anderson Peters
+    bio: >-
+      Tokyo 2021 Olympian 🇬🇩 Pro athlete @adidasrunning 2019 Javelin World Champion 🥇 2019 Pan am games champion & record holder 2x NCAA Champ🥇🏆 Believer🙏🏿
+    location: "United States"
+    followers: 12874
+    engagement: 1097
+    commentsToLikes: 0.020054
+    id: ck55n3p4d5eh60i11lrbkgz29
     verified: false
-    hashtags: "#2a, #shooting, #armscor, #caldwell"
+    hashtags: "#trackandfield, #sport, #javelinthrower, #strength"
+  - username: "marinarosauce1"
+    fullname: >-
+      Michael Marinaro
+    bio: >-
+      2018 Olympian 🇨🇦 @canfund Athlete
+    location: "United States"
+    followers: 8798
+    engagement: 1235
+    commentsToLikes: 0.020436
+    id: ck5c9wgobc98h0i11nc546tms
+    verified: true
+    hashtags: "#teamcanada, #skating, #creatinghistory, #figureskating"
+  - username: "typicalpen"
+    fullname: >-
+      penny oleksiak
+    bio: >-
+      team CAN swimmer four time olympic medalist rbc olympian asics athlete vichy lover
+    location: "United States"
+    followers: 91822
+    engagement: 689
+    commentsToLikes: 0.009515
+    id: ck55o0s2w7e830i11kj8h78gr
+    verified: true
+    hashtags: "#ad, #marathonofsport, #nogoodway, #runtofeel"
+  - username: "lauradewitte"
+    fullname: >-
+      Laura de Witte
+    bio: >-
+      🙌🏼 400m @newbalance Athlete 🇳🇱 Olympian 2016 & 2020ne 🥑 Nutritionist 👇🏼 #ZusjesDeWitte's Youtube Channel🔥
+    location: "United States"
+    followers: 92132
+    engagement: 1387
+    commentsToLikes: 0.015359
+    id: ck13aezj3q2kb0i19g5f8m60k
+    verified: true
+    hashtags: "#newbalance, #tokyo2020, #zusjesdewitte, #olympics"
+  - username: "cbrown90kg__"
+    fullname: >-
+      Colton Brown
+    bio: >-
+      NJ. 2X U.S. Olympian. NYAC Athlete. SJSU Alumni. More moves, less announcements. Jeremiah 29:11
+    location: "United States"
+    followers: 3947
+    engagement: 1357
+    commentsToLikes: 0.071089
+    id: ck138s8hghrps0i19d674da66
+    verified: true
+    hashtags: "#blackouttuesday, #nextchapter, #imnotdoneyet"
+  - username: "corymcgeeruns"
+    fullname: >-
+      Cory Ann McGee
+    bio: >-
+      Olympian. Track athlete repping New Balance. Southern girl training in Boulder, CO. #TeamUSA #FloridaGator #TeamBoss 🇺🇸
+    location: "United States"
+    followers: 151174
+    engagement: 1030
+    commentsToLikes: 0.007750
+    id: ck0u1mh7px9aa0i19b3n2l6a7
+    verified: true
+    hashtags: "#tokyo2020, #athletics, #olympics, #teamusa"
+  - username: "anoukvetter"
+    fullname: >-
+      ANOUK.
+    bio: >-
+      Olympian 🇳🇱 ASICS Athlete •European Champion 🥇 •Bronze medalist World Champs 🥉 •National Record holder @aadrinksport @ctsgroupnl @asicseurope
+    location: "United States"
+    followers: 27745
+    engagement: 505
+    commentsToLikes: 0.010234
+    id: ck0w2c6dlnmf10i1936ua7cnp
+    verified: false
+    hashtags: "#ctsgroup, #sunrisemind, #training, #asics"
 ---

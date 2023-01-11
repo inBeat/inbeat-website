@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Turkey in 2023
+title: Top 10 Dancers Instagram Influencers In Turkey In 2023
 description: >-
-  Find top dancers Instagram influencers in Turkey in 2023. Most popular hashtags: #turkey #photo #photography #summer.
+  Find top dancers Instagram influencers in Turkey in 2023. Most popular hashtags: #naturephotography #instagram #instagood #shooting.
 platform: Instagram
-hits: 85
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database holds 85 Instagram influencers like this in Turkey for you to pitch.
+hits: 77
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 77 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "caglaralmendi"
     fullname: >-
       Çağlar Almendi
     bio: >-
-      kurdish belly dancer with an attitude💅🏻 🥀📿🚬
+      kurdish belly dancer with an attitude💅🏻 🥀📿🚬@almendiatelier
     location: "Turkey"
-    followers: 27673
-    engagement: 2744
-    commentsToLikes: 0.025811
+    followers: 27637
+    engagement: 2846
+    commentsToLikes: 0.067889
     id: ck5q04nm648690i113ilap7ik
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "kyraalewis"
+    hashtags: "#blackouttuesday, #bo"
+  - username: "turuncuprenses"
     fullname: >-
-      𝐊𝐘𝐑𝐀𝐀 𝐌𝐀𝐃𝐎𝐍𝐍𝐀 𝐋𝐄𝐖𝐈𝐒
+      Tuğba&Melis Şeremet🧡
     bio: >-
-      model / dancer 1/2 of @thelewissisterss . ✉️promos/colabs direct message me. YouTube: The Lewis Sisters
+      Model | Actress | Gymnast | Dancer 🌈Account managed by family @tubaseremet 💌tugbamelis@gmail.com
     location: "Turkey"
-    followers: 13075
-    engagement: 729
-    commentsToLikes: 0.055835
-    id: ck8svvgjfcue20j78a5z94w8z
+    followers: 82649
+    engagement: 316
+    commentsToLikes: 0.066028
+    id: ck5hp6usoqupl0i11sksibbi1
     verified: false
-    hashtags: "#ad, #missygirl, #novababe, #fashionnova"
-  - username: "margo__dancer"
-    fullname: >-
-      Margosha
-    bio: >-
-      Belly dancer 💃🏼 from Ukraine 🇺🇦 Based in Dubai 🇦🇪
-    location: "Turkey"
-    followers: 8378
-    engagement: 687
-    commentsToLikes: 0.094058
-    id: ck6u3e8zmxbgf0j71k4ccc8vp
-    verified: false
-    hashtags: "#wonderful, #moscow, #uk, #italy"
+    hashtags: "#me, #rabbit, #summertime, #happy"
   - username: "fatmagunduzofficial"
     fullname: >-
       Fatma Gündüz
     bio: >-
       Director🎬 Scriptwriter📝 Latin Dancer💃🏼 Artistik&Ritmik jimnastik🤸🏻‍♀️ jewelry design💎 Taekwondo🥋 @filmmaker.fg
     location: "Turkey"
-    followers: 20924
-    engagement: 654
-    commentsToLikes: 0.055764
+    followers: 30160
+    engagement: 480
+    commentsToLikes: 0.055571
     id: ckaos6b6sqac50i78x40dhak2
     verified: false
-    hashtags: "#bwphoto, #shooting, #photoedit, #focus"
+    hashtags: "#photoshoot, #blackandwhite, #backstage, #staysafe"
   - username: "sweettravelersemos"
     fullname: >-
       Sema🧜🏻‍♀️🎼✈️🏕📚📝💜
     bio: >-
       Pianist🎹 (HR)Recruiter✏️ & Training Manager👩🏻‍🏫 Traveler✈️ Camper🏕 Sirtaki dancer💃🏻 Mother👩‍👧😻 (All) photos are taken by me📸❣️
     location: "Turkey"
-    followers: 11120
-    engagement: 2126
-    commentsToLikes: 0.103664
+    followers: 12437
+    engagement: 1789
+    commentsToLikes: 0.098316
     id: ckf5xiqrlvtp30j23auw1nz5j
     verified: false
-    hashtags: "#loveforever, #iganatolia, #roamersclub, #istanbuldayasam"
-  - username: "aysubegumbas"
+    hashtags: "#gezginlerbirarada, #turklikeben, #the, #roamersclub"
+  - username: "_the_narcoticster_"
     fullname: >-
-      Aysu Begüm Baş
+      Chris Mathew|_mr_apocalypse_
     bio: >-
-      Ballet Dancer
+      ⚠️________________ __🔰KL_06_BOY🔰 _UK_UNITED_KATTAPPANA_❎ _ Explore_thé-🌍 _ Vibe_moods _keep_smile __✌🏻💟🎶__ _DANCER_ @db_ninety_six ________________⚠️
     location: "Turkey"
-    followers: 12676
-    engagement: 941
-    commentsToLikes: 0.007750
-    id: ck0vws0bfvbce0i194frflckf
+    followers: 4375
+    engagement: 1290
+    commentsToLikes: 0.093032
+    id: ckaoywtttjdem0i788e23mzm0
     verified: false
-    hashtags: "#tb, #lovemylife, #thankfulformylife, #sunday"
-  - username: "yasdancer"
-    fullname: >-
-      Yasmim Pinheiro
-    bio: >-
-      🇧🇷🇮🇹🇸🇲 🇸🇮🇹🇷 📍Made in Brazil - #Dancer, #instructor and #choreographer 🙏 "Think good thoughts"🍃♎ 📩 yasmimpinheiro.dance@outlook.com
-    location: "Turkey"
-    followers: 6033
-    engagement: 866
-    commentsToLikes: 0.101419
-    id: ckf5me0aytdpr0j23ua1h287b
-    verified: false
-    hashtags: "#cachosbr, #beach, #dancer, #turkey"
-  - username: "turuncuprenses"
-    fullname: >-
-      Melis Şeremet🧡
-    bio: >-
-      Model | Actress | Gymnast | Dancer 🌈Account managed by family 💌tugbamelis@gmail.com
-    location: "Turkey"
-    followers: 70405
-    engagement: 117
-    commentsToLikes: 0.110707
-    id: ck5hp6usoqupl0i11sksibbi1
-    verified: false
-    hashtags: "#stylish, #lifestyle, #colorful, #influencer"
+    hashtags: "#instalike, #naturephotography, #photographs, #picture"
   - username: "melisakiran1"
     fullname: >-
       Melisa Kıran | DANSFABRİKA
     bio: >-
-      • Boğaziçi Üniversitesi • DANSFABRIKA Dancer - Instructor @dansfabrika Contact: melisakrn97@gmail.com
+      • Boğaziçi Üniversitesi • DANSFABRIKA Dancer - Instructor @dansfabrika
     location: "Turkey"
-    followers: 13157
-    engagement: 819
-    commentsToLikes: 0.020868
+    followers: 18076
+    engagement: 639
+    commentsToLikes: 0.016743
     id: ckf5medjftfmh0j23etdp7dcj
     verified: false
-    hashtags: "#afro, #dansfabrika, #bounce, #iconclashcollection"
-  - username: "sam_bajelan"
+    hashtags: "#dansfabrika, #hiphop, #exxen, #melisak"
+  - username: "nurayalpaslanofficial"
     fullname: >-
-      Sami_Percussionist🥁🎶
+      ✌️🤍 NURAY ALPASLAN OFFICIAL
     bio: >-
-      📍İstanbul 🇹🇷 Percussionist 🎶 Drummer 🥁 Dancer & ⚽️ Account Run by mom🧚🏼 Conga,drums,cajon,djimbei,darbuka,piano,ukulele xylophone🎹🎼🎸 👇
+      🤍 💛 Always Be Happy ⓁⒺⓉ’Ⓢ ⒹⒶⓃⒸⒺ ⓉⓄⒼⒺⓉⒽⒺⓇ 💛 🤍 Professional Dancer💃 Choreographer 👯‍♀️ Model 📷 Dance shoes sponsered 👠 @pivaccisocialdance
     location: "Turkey"
-    followers: 6086
-    engagement: 1110
-    commentsToLikes: 0.114430
-    id: ck13cus1l29nb0i19h8m0vj9p
+    followers: 10589
+    engagement: 344
+    commentsToLikes: 0.052490
+    id: ck5c9wdiwc93g0i11zxjqcn7r
     verified: false
-    hashtags: "#family, #cajondrum, #artist, #kids"
+    hashtags: "#ig, #dancevideo, #motivationmonday, #positivevibes"
+  - username: "duygusirkinti"
+    fullname: >-
+      Duygu Sırkıntı
+    bio: >-
+      Travel&fashion lover✈👗👠💄👜 Social latin&tango dancer💃 Collaborations👉🏻Dm or 📩duygu_srknt@hotmail.com Adana-İstanbul📍 #travel #lifestyle
+    location: "Turkey"
+    followers: 12309
+    engagement: 481
+    commentsToLikes: 0.027771
+    id: ckap6ntsdgomq0i78eai70fnp
+    verified: false
+    hashtags: "#reels, #chef, #2021, #redhair"
+  - username: "melisask"
+    fullname: >-
+      Melisa Sahra Katılmış
+    bio: >-
+      💌 mellysask@gmail.com ✨ National Professional Dancer / Choreographer 💫 World Championships 1.🧚🏻 4 Times Turkey Champions 🏆 🎪 @abdadancers & @grjdans
+    location: "Turkey"
+    followers: 28439
+    engagement: 842
+    commentsToLikes: 0.056562
+    id: ck13bjzl0vs310i191yk4g62p
+    verified: false
+    hashtags: "#dancers, #mira, #papijuancho, #turkey"
+  - username: "jennieoloji"
+    fullname: >-
+      JENNIE TURKEY (김제니)
+    bio: >-
+      ─Rapper, vocalist, dancer, song writer, producer, fashionista, designer, model A.K.A Ace JNK @jennierubyjane from BLACKPINK STREAM VLOG👇🏻
+    location: "Turkey"
+    followers: 24087
+    engagement: 1038
+    commentsToLikes: 0.203898
+    id: ckaou0dj2y8fo0i78j2h69up5
+    verified: false
+    hashtags: "#mandu, #wewantmainrapperjennie, #jenniefancam, #chaennie"
 ---

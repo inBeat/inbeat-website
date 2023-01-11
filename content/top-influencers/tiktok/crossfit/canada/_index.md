@@ -1,24 +1,48 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Canada in 2023
+title: Top 10 Crossfit TikTok Influencers In Canada In 2023
 description: >-
-  Find top crossfit TikTok influencers in Canada in 2023. Most popular hashtags: #crossfit #foryou #fitness #fyp.
+  Find top crossfit TikTok influencers in Canada in 2023. Most popular hashtags: #crossfit #fyp #foryou #fitness.
 platform: TikTok
-hits: 12
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 12 TikTok influencers like this in Canada for you to contact.
+hits: 13
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "alexxmont"
     fullname: >-
       Alexx
     bio: >-
-      I'm crossfitter 🏋🏼♂️ ig: Alexanderjmm_ 👻: alexcf_19
+      I'm crossfitter 🏋🏼♂️ ig: Alexmontt_ 👻: alexcf_19
     location: "Canada"
-    followers: 3002
-    engagement: 1139
-    commentsToLikes: 0.048313
+    followers: 2970
+    engagement: 1203
+    commentsToLikes: 0.050441
     id: ck9nczmcecbza0j789zyhwn8f
     verified: false
-    hashtags: "#foryou, #perfectasiam, #latino, #latinoamerica"
+    hashtags: "#parati, #canada, #nhlfaceoff, #christmas2020"
+  - username: "ericthibault6"
+    fullname: >-
+      Eric Thibault
+    bio: >-
+      Snap👻 thunderbutt666 Email 2fastthibault@gmail.com 18🇨🇦
+    location: "Canada"
+    followers: 26700
+    engagement: 1261
+    commentsToLikes: 0.024951
+    id: ckcpubrx3pdqr0j234nj2myia
+    verified: false
+    hashtags: "#xyzbca, #crossfit, #fyp, #duet"
+  - username: "natalieallport"
+    fullname: >-
+      Natalie Allport
+    bio: >-
+      Former Team 🇨🇦 Athlete 🏂 Empowering you to go #ALLIN 🧠💪 More on IG 👇
+    location: "Canada"
+    followers: 48600
+    engagement: 1248
+    commentsToLikes: 0.015540
+    id: ck8qe3whcqx7a0j787aanljr4
+    verified: false
+    hashtags: "#proathlete, #homeworkout, #gymmotivation, #motivation"
   - username: "izzy42hotmom"
     fullname: >-
       Isabelle O’Brien
@@ -30,101 +54,77 @@ profiles:
     commentsToLikes: 0.053048
     id: ckcpu43wnp1010j23k8qt2ymf
     verified: false
-    hashtags: "#summer2020, #mmodels, #body, #love"
-  - username: "natalieallport"
-    fullname: >-
-      Natalie Allport
-    bio: >-
-      Former Team 🇨🇦 Athlete 🏂 Host: All In w. Natalie Allport podcast 🏋🏻‍♀️🧠💛
-    location: "Canada"
-    followers: 36200
-    engagement: 1078
-    commentsToLikes: 0.017769
-    id: ck8qe3whcqx7a0j787aanljr4
-    verified: false
-    hashtags: "#athletetraining, #workoutroutine, #athlete, #crossfit"
+    hashtags: "#summer2020, #crossfit, #body, #balance"
   - username: "supersingh1crossfitter"
     fullname: >-
       Super Singh 
     bio: >-
       Certified Fitness Trainer and nutritionist
     location: "Canada"
-    followers: 133100
-    engagement: 436
-    commentsToLikes: 0.022879
+    followers: 152500
+    engagement: 624
+    commentsToLikes: 0.043893
     id: ck8qe3x02qxdo0j7868r8y6kh
     verified: false
-    hashtags: "#crossfitter, #viral, #mumbai, #supersinghfitness"
+    hashtags: "#punjab, #supersingh1crossfitter, #foryou, #tiktok"
   - username: "pulsephysioptbo"
     fullname: >-
       Pulse Physiotherapy
     bio: >-
-      Thanks for 100K 💯 Your fave Canadian physio 🇨🇦
+      Real fun is on the Gram 👆 Thanks for 140K ❤️ Your fave Canadian physio 🇨🇦
     location: "Canada"
-    followers: 109700
-    engagement: 402
-    commentsToLikes: 0.005964
+    followers: 142400
+    engagement: 460
+    commentsToLikes: 0.017367
     id: ck806y1jamyt00j782diosnb2
     verified: false
-    hashtags: "#fit, #yoga, #barbell, #fypchallenge"
-  - username: "opinionhated"
-    fullname: >-
-      Richard Brayshaw
-    bio: >-
-      @flippin4alivin on YouTube / Insta Edutainment at its best If you feel it say it
-    location: "Canada"
-    followers: 17800
-    engagement: 1117
-    commentsToLikes: 0.143265
-    id: ck9k4yhrpul1v0j78d5wsqn4u
-    verified: false
-    hashtags: "#biden2020, #xyzbca, #biden, #arizona"
+    hashtags: "#challenge, #fyp, #homegym, #viral"
   - username: "aleporte"
     fullname: >-
       Alejandro Portela
     bio: >-
       43K on IG! Been traveling non-stop for over 7 years. Smash that☝️𝗳𝗼𝗹𝗹𝗼𝘄
     location: "Canada"
-    followers: 3139
-    engagement: 653
-    commentsToLikes: 0.084134
+    followers: 3120
+    engagement: 620
+    commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#yoga, #foryou, #travel, #foryoupage"
-  - username: "kingofthelifts"
+    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+  - username: "struckbyluck"
     fullname: >-
-      King Of The Lifts
+      Luc H.
     bio: >-
-      The Voice Of Powerlifting Powerlifting Videos Daily! Podcast on all platforms!
+      Fitness,gym&calisthenics Follow&DM on ig for a free beginner cali plan Mtl🇨🇦
     location: "Canada"
-    followers: 22100
-    engagement: 727
-    commentsToLikes: 0.026920
-    id: ck8tq5lmpqphc0j782qtlwc2m
+    followers: 137500
+    engagement: 1268
+    commentsToLikes: 0.010718
+    id: ckbaz1rrhpfqv0j23ppdof48g
     verified: false
-    hashtags: "#squats, #deadlift, #kotl, #squatchallange"
-  - username: "chantellebeez"
+    hashtags: "#bodyweightworkout, #muscleup, #gettingfit, #coreworkout"
+  - username: "littletfitness"
     fullname: >-
-      Chantelle Beez
+      T | IFBB FITNESS PRO
     bio: >-
-      Just a business owner with no business during Covid-19. What else am I gonna do?
+      Sometimes I flip sometimes I flop Gymshark athlete 🦈
     location: "Canada"
-    followers: 3263
-    engagement: 497
-    commentsToLikes: 0.043247
-    id: ckbf2k89fpnus0j233dfnd3bk
+    followers: 361400
+    engagement: 1278
+    commentsToLikes: 0.011312
+    id: ck8tps2a5qnqm0j78irtjlmsu
     verified: false
-    hashtags: "#thicc, #foryoupage, #fyp, #crossfit"
-  - username: "joey_hornyak"
+    hashtags: "#handstand, #calisthenics, #fyp, #gymshark"
+  - username: "savage_mickey"
     fullname: >-
-      Joey Hornyak
+      Savage Mickey
     bio: >-
-      MONTREAL, 🇨🇦 IG: @J_HORNYAK ATHLETE @doyouevenofficial 15+ Million Views 👀🎥
+      If your here, its because i upset you Karen :) Thanks for helping my algorithm!
     location: "Canada"
-    followers: 146700
-    engagement: 745
-    commentsToLikes: 0.006348
-    id: ck8qh5j843ow30j781kgp93vo
+    followers: 68100
+    engagement: 920
+    commentsToLikes: 0.016759
+    id: ckbfga5vibbhy0j23upeuugfc
     verified: false
-    hashtags: "#burnfat, #sixpackabs, #training, #workout"
+    hashtags: "#haha, #alberta, #stitch, #wtf"
 ---

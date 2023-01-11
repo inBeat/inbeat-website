@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Singapore in 2023
+title: Top 10 Skincare Instagram Influencers In Singapore In 2023
 description: >-
-  Find top skincare Instagram influencers in Singapore in 2023. Most popular hashtags: #skincare #beauty #singapore #igsg.
+  Find top skincare Instagram influencers in Singapore in 2023. Most popular hashtags: #skincare #beauty #sp.
 platform: Instagram
-hits: 23
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 23 Instagram influencers like this in Singapore for you to connect with.
+hits: 18
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 18 Instagram influencers like this in Singapore for you to work with.
 profiles:
-  - username: "_jxxi"
+  - username: "sugar73"
     fullname: >-
-      𝓙𝓮𝓶𝓲 💎
+      ELAINE🦄 Sugar73 // SG Mum of 2
     bio: >-
-      Some days bare, some days dolled 💄 🐸👑❤️:@kevindamnshit 💄makeup & skincare: @jemi.marykaysg 🍵: @quickdiamondsg 📌: @favesofficial
+      🦄Only one account🔝Colourful vibes🌈✨ 👦🏻Elroy & 👶🏻 Elric ❤️ 🥂Bubbly💋Skincare🏋️‍♀️Spin #Sugar73Bento 🍕 ✨We are all made of stardust✨// LeicaQ2 📸
     location: "Singapore"
-    followers: 18043
-    engagement: 354
-    commentsToLikes: 0.063605
-    id: ck55nallp5t0s0i11c27sjcxl
+    followers: 21488
+    engagement: 265
+    commentsToLikes: 0.768648
+    id: ck5hivwhffk4c0i11ezduhnrk
     verified: false
-    hashtags: "#dwsingapore, #igsg, #dwinsg, #danielwellington"
-  - username: "rachelwongggg"
+    hashtags: "#sp, #truestory, #swipe, #pawpatrol"
+  - username: "moana.indonesia"
     fullname: >-
-      Rachel Wong
+      MOANA Skin Indonesia
     bio: >-
-      Managed by @facestm 💜 FITNESS & SKINCARE 🎥 Bookings: jovina@facestm.com 〰️ Bilingual Actress | Host | Livestream ✉️ rachelwongg@hotmail.com
+      Skincare & artisan Candles ✨ 100% natural, non-toxic, pure essential oils 🌿 Made in Bali, Indonesia 🇮🇩 @moana.skin for our SG friends 🇸🇬
     location: "Singapore"
-    followers: 35052
-    engagement: 297
-    commentsToLikes: 0.014453
-    id: ck5zvedfd42qt0i140vr1e7tp
-    verified: false
-    hashtags: "#hoolahcrew, #justhoolah, #hoolah, #toryburchbags"
-  - username: "ivannavich"
-    fullname: >-
-      Ivan L
-    bio: >-
-      🌟ʟɪꜰᴇꜱᴛʏʟᴇ ᴀᴅᴠᴇɴᴛᴜʀᴇʀ ᴊᴏɪɴ ᴍᴇ ᴏɴ ᴍʏ ᴀᴅᴠᴇɴᴛᴜʀᴇꜱ ᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ 📩Ivannavich@gmail.com ⬇ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ꜱɪᴛᴇ
-    location: "Singapore"
-    followers: 30011
-    engagement: 287
-    commentsToLikes: 0.016145
-    id: ck0w5dn3w34lj0i19xh284gj7
-    verified: false
-    hashtags: "#instagood, #ootd, #asian, #hungrygowhere"
-  - username: "wanleng_"
-    fullname: >-
-      𝑬𝒗𝒆𝒍𝒚𝒏𝒏 罗婉翎 🦄
-    bio: >-
-      ʙᴇᴀᴜᴛʏ | ғᴀsʜɪᴏɴ | ʟɪғᴇsᴛʏʟᴇ | ᴛʀᴀᴠᴇʟ 📍 🇸🇬 | 🇲🇾 📮 wanleng0113@gmail.com 📩 ᴅᴍ : ᴄᴏʟʟᴀʙ | ᴇᴠᴇɴᴛ | sᴘᴏɴsᴏʀsʜɪᴘ #wanlengxads
-    location: "Singapore"
-    followers: 25697
-    engagement: 148
-    commentsToLikes: 0.025449
-    id: ck8t6dhkxd7i80j78i54kuvla
-    verified: false
-    hashtags: "#chinatown, #travelphotography, #femmetravel, #peopleparkcomplex"
-  - username: "shavonne.wong"
-    fullname: >-
-      Shavonne Wong | Photographer
-    bio: >-
-      🇸🇬📸 Singapore based fashion and celebrity photographer 👩 Founder of @genv.agency AsNTM Cycle 5 & 6 Guest Photographer Forbes 30 under 30 Asia 2020
-    location: "Singapore"
-    followers: 21358
-    engagement: 183
-    commentsToLikes: 0.020233
-    id: ck14ihwyofhg30i19gzusp79h
+    followers: 59264
+    engagement: 3
+    commentsToLikes: 0.074706
+    id: ck8tbvnxfxbud0j780k3twih7
     verified: false
     hashtags: ""
-  - username: "notveron"
+  - username: "adlinaanis"
     fullname: >-
-      ♡ veronica ♡
+      Adlina Anis
     bio: >-
-      ☀️🏖🥂🎉
+      Designer, Skincare Addict Be kind, stay humble. SG base 🇸🇬 Official acct @adlinaanisofficial FB: Adlina Anis � youtube.com/adlinaanis #adlinaanis
     location: "Singapore"
-    followers: 12960
-    engagement: 454
-    commentsToLikes: 0.022581
-    id: ck5py4mqeual70i11t3ma7vxt
+    followers: 40872
+    engagement: 60
+    commentsToLikes: 0.013344
+    id: ck5qap49nhjp40i11izi0ar1p
     verified: false
-    hashtags: "#healthylifestyle, #asiangirls, #sponsored, #ad"
-  - username: "xclarieacaciateo"
+    hashtags: "#fit, #korangok, #hpbsg, #shesmytrueinstragamhusbandphotographer"
+  - username: "jwanting"
     fullname: >-
-      CLARIE ACACIA TEO
+      Joyce Ng 黄琬婷 | Artiste
     bio: >-
-      ✞=♡ Managed by 🎥 TJHT @titandigitalmedia 💌 xclarieacaciateo@gmail.com
+      🎞 Actor | Emcee #JwantingReel Notable Works: #Pich5 #Togglesilo ✨Creatives l @j.origins 🌻Boss | @blushhousebridal @asianfoodnetwork SG ♥️Phil 4:13
     location: "Singapore"
-    followers: 28267
-    engagement: 288
-    commentsToLikes: 0.023071
-    id: ck6tyneqa4qz20j71gkh0a3sn
+    followers: 17817
+    engagement: 358
+    commentsToLikes: 0.034931
+    id: ck5cgzvgdpuhs0i1109nrjrc9
     verified: false
-    hashtags: "#acne, #beauty, #endorsed, #lumispa"
+    hashtags: "#skincareroutine, #asianskinsolutions, #asianskinsolution, #skinroutine"
   - username: "beautifulbuns_sg"
     fullname: >-
       Cheryl 세린 🙋🏻
     bio: >-
       Editor, Ex-journalist, Multi-award-winning beauty blogger HerWorld Beauty Awards Judge HerWorldPlus SMA Beauty Winner ‘16 Most Popular Beauty Blog ‘15
     location: "Singapore"
-    followers: 35746
-    engagement: 144
-    commentsToLikes: 0.100739
+    followers: 35044
+    engagement: 103
+    commentsToLikes: 0.083201
     id: ck5cb6rp1euka0i11zuuwh70y
     verified: false
-    hashtags: "#liptint, #redlipstick, #guerlain, #instabeauty"
-  - username: "get.outcho.feelings.hoe_"
+    hashtags: "#pink, #beauty, #makeup, #cosmeticos"
+  - username: "jmeteo"
     fullname: >-
-      •☁️•
+      Jaime Teo
     bio: >-
-      •Life quotes siss ....🌩• ••sg💕🌥•• •••| @0nlysh0nta | ~ main⛈•••
+      Digital Content Creator Fitness/Arts Enthusiast Entrepreneur For enquiries pls email thisisjmeteo@gmail.com
     location: "Singapore"
-    followers: 44705
-    engagement: 242
-    commentsToLikes: 0.018771
-    id: ck8tbga1xvjn40j78y8tfe1gm
-    verified: false
-    hashtags: ""
-  - username: "sarawongg"
+    followers: 117482
+    engagement: 120
+    commentsToLikes: 0.023081
+    id: ck8wgf87dh8on0j78z4hexpjv
+    verified: true
+    hashtags: "#schoolhols, #tokyo, #fun, #feelingblessed"
+  - username: "fivefootten"
     fullname: >-
-      s a r a🍒♡°~•
+      𝕵𝖎𝖆 𝖍𝖆𝖔
     bio: >-
-      안녕👋🏻 shop @dazzlewithsara 🛍 ~ • ◇ ♡ ~ • ◇ ♡ ~ • ◇ ♡ i post pics to clear my gallery🥵
+      Chief Boomer 🧜🏻‍♂️ at @lucidsocial
     location: "Singapore"
-    followers: 3743
-    engagement: 1340
-    commentsToLikes: 0.200765
-    id: ckf5oib3r2ctv0j231r9s9h3g
+    followers: 13425
+    engagement: 819
+    commentsToLikes: 0.038968
+    id: ckap4o207841u0i78xyr2cmrl
     verified: false
-    hashtags: "#sggiveaway, #giveaway, #singapore, #saraxsp"
+    hashtags: "#greatsingaporesale, #refasg, #bepartofxtra, #synagiekol"
+  - username: "sherbabes"
+    fullname: >-
+      Sheryl🌻
+    bio: >-
+      ✉️ sherbabes@hotmail.com
+    location: "Singapore"
+    followers: 16149
+    engagement: 189
+    commentsToLikes: 0.135895
+    id: ck6u2qex3tbuw0j71geskhi5c
+    verified: false
+    hashtags: "#watsonssg, #sofitelsingaporesentosa, #sp, #danielwellington"
+  - username: "921karenl"
+    fullname: >-
+      Karen Law 羅堃尉
+    bio: >-
+      📺 <美少女日本民宿> <美女廚房> 美女學徒 . Home Kong +852 HK : DM please 📍 SG : @basicmodels . Starbucks collector | 2nd Feb 2015 #茄雲愛夢遊 #karenstarbuckscollection
+    location: "Singapore"
+    followers: 32825
+    engagement: 253
+    commentsToLikes: 0.027645
+    id: ck5hdr1fiox7k0i11sz8hr6lx
+    verified: false
+    hashtags: "#themills, #instadaily, #leegarden3, #instahk"
+  - username: "aaronlin_monroe"
+    fullname: >-
+      a a r o n  | 凌
+    bio: >-
+      co-founder & md of @headquartors brand ambassador of @virginactivesg
+    location: "Singapore"
+    followers: 49145
+    engagement: 415
+    commentsToLikes: 0.008521
+    id: ck5zvf68r44bm0i14hnl35ocd
+    verified: false
+    hashtags: "#hmsingapore, #bluebellsg, #hm, #asicskltwintowers"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Austin in 2023
+title: Top 10 Home Decor TikTok Influencers In Austin In 2023
 description: >-
-  Find top home decor TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #foryou #homedecor #foryoupage.
+  Find top home decor TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #homedecor #austin #texas.
 platform: TikTok
-hits: 27
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 27 TikTok influencers like this in Austin, United States for you to collaborate.
+hits: 24
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 24 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "swiftwellness"
+    fullname: >-
+      swiftwellness
+    bio: >-
+      Affordable outfits in Austin TX. Shop my looks + more outfit ideas here 👇🏻
+    location: "United States"
+    followers: 201600
+    engagement: 508
+    commentsToLikes: 0.035984
+    id: ck81q0y7qf2fw0j7865fjsj3q
+    verified: false
+    hashtags: "#casualoutfits, #amazonfinds2021, #affordableoutfits, #swimsuithaul"
+  - username: "marianaxvalencia"
+    fullname: >-
+      Mariana
+    bio: >-
+      follow for fashion & diy things 🖤 austinnnnnn tx
+    location: "United States"
+    followers: 18900
+    engagement: 635
+    commentsToLikes: 0.024463
+    id: ckce7riuyl7gv0j235z8mmy4r
+    verified: false
+    hashtags: "#ootd, #fyp, #diy, #fashioninspo"
+  - username: "lisaguzmangroup"
+    fullname: >-
+      Lisa Marie Guzman
+    bio: >-
+      Add me on IG ⬆️ TX Real Estate Sell | Buy | Invest | eXp Realty 🏠📲
+    location: "United States"
+    followers: 25400
+    engagement: 898
+    commentsToLikes: 0.029894
+    id: ckbfdo61w74rh0j237hdl905g
+    verified: false
+    hashtags: "#texas, #sanantonio, #realtor, #newhome"
+  - username: "texasluxuryliving"
+    fullname: >-
+      DianaRealtor
+    bio: >-
+      Let me find your next home 🏡 at the best rate! Fill out link for more info 📲
+    location: "United States"
+    followers: 106000
+    engagement: 1116
+    commentsToLikes: 0.017731
+    id: ckcjcs62d9p6n0j23vqqxom0i
+    verified: false
+    hashtags: "#ny, #houston, #moneytok, #chicago"
+  - username: "gonikiko"
+    fullname: >-
+      Nikiko E
+    bio: >-
+      Just happy to be a germ on this rock ball 🌎🤸🏻‍♀️ Follow me on Insta @gonikiko
+    location: "United States"
+    followers: 60500
+    engagement: 919
+    commentsToLikes: 0.016332
+    id: ckdbx08p4e69u0j230a0zntw4
+    verified: false
+    hashtags: "#travel, #fyp, #diy, #homedecor"
+  - username: "hannnahhmae"
+    fullname: >-
+      hannah hampton
+    bio: >-
+      outfit inspo + vlogs + bride to be 🤍 Let’s be besties!
+    location: "United States"
+    followers: 384500
+    engagement: 1507
+    commentsToLikes: 0.015182
+    id: ck90vq57b10nj0j78x5iie1t8
+    verified: false
+    hashtags: "#weddingtiktok, #homedecor, #fyp, #costarica"
   - username: "nicolevictoriagomez"
     fullname: >-
       Nicole Victoria Gomez
     bio: >-
-      28♍️🧿 Follow me on insta! ⬆️
+      28♍️🧿 Follow me on insta⬆️
     location: "United States"
-    followers: 33700
-    engagement: 650
-    commentsToLikes: 0.035785
+    followers: 48000
+    engagement: 558
+    commentsToLikes: 0.028025
     id: ck8nexq8kpbqj0j786lnsozjy
     verified: false
-    hashtags: "#funny, #fyp, #grandpa, #southpadre"
-  - username: "courtners123"
+    hashtags: "#funny, #southpadre, #oldpeople, #grandpa"
+  - username: "mariana.zarag"
     fullname: >-
-      Courtknee
+      Mariana Zaragoza
     bio: >-
-      I got peas on my head but don’t call me a pea head
+      Fashion. Beauty. Home. Oh, and baby! 👶🏻 IG @marianazarag
     location: "United States"
-    followers: 7143
-    engagement: 1547
-    commentsToLikes: 0.035772
-    id: ck92srw92ev3u0j78jzk7kxe8
+    followers: 8842
+    engagement: 464
+    commentsToLikes: 0.020990
+    id: cka6czpu362630i78a6or5cw4
     verified: false
-    hashtags: "#jokes, #fyp, #foryoupage, #starbucks"
-  - username: "ninaberenato"
+    hashtags: "#starbucks, #easyrecipe, #toddlermom, #recipe"
+  - username: "sarahadamhafez"
     fullname: >-
-      Nina Berenato
+      sarahadamhafez
     bio: >-
-      I own an all-girl jewelry studio in Austin 🛠 Handmade • Custom • One of a Kind
+      IG + Youtube ☝🏼 Shop Clarins Gentle Renewing Cleaning Mousse 👇🏼
     location: "United States"
-    followers: 116400
-    engagement: 1422
-    commentsToLikes: 0.016162
-    id: ck81s9n0nr1y10j785ei5mkqu
+    followers: 414500
+    engagement: 1331
+    commentsToLikes: 0.029069
+    id: ck9v17oyhftsz0j78zt9qgyyk
     verified: false
-    hashtags: "#fashion, #ootd, #smallbusiness, #smallbusinesscheck"
-  - username: "ashleythenoble"
+    hashtags: "#interiordesign, #hometour, #husbandandwife, #texas"
+  - username: "zacharycoutu"
     fullname: >-
-      Ashy
+      Zachary :)
     bio: >-
-      Venmo: ashleythenoble
+      Every donation gets noticed and is appreciated
     location: "United States"
-    followers: 541500
-    engagement: 680
-    commentsToLikes: 0.039477
-    id: ckdhxf37p4hum0j23szk95k20
+    followers: 43300
+    engagement: 1630
+    commentsToLikes: 0.010130
+    id: ckbl26lnzz62r0j23hkkc8p0i
     verified: false
-    hashtags: "#over30, #womenover30, #provewhatspossible, #spooktember"
-  - username: "ubaidy100"
-    fullname: >-
-      Ubaidy
-    bio: >-
-      HTX🚀 👇CEO OF DONTSIMP © 👇
-    location: "United States"
-    followers: 35900
-    engagement: 1601
-    commentsToLikes: 0.014688
-    id: ckavd0ch7kyq30j23ex3vwdal
-    verified: false
-    hashtags: "#readinglist, #snoozzzapalooza, #lit, #viral"
-  - username: "kateaustin_"
-    fullname: >-
-      Kate Austin
-    bio: >-
-      she/her another vegan lesbian i’m better on instagram instagram: @kateaustinn
-    location: "United States"
-    followers: 144000
-    engagement: 954
-    commentsToLikes: 0.008597
-    id: ckd0kvsfag2nh0j23vk53dkhz
-    verified: false
-    hashtags: "#provewhatspossible, #ghostphotoshoot, #fyp, #femme"
-  - username: "mslee34"
-    fullname: >-
-      Dopamine
-    bio: >-
-      This account has turned into shower thoughts and I’m not mad about it
-    location: "United States"
-    followers: 15600
-    engagement: 1844
-    commentsToLikes: 0.022206
-    id: ckcpe8cdrga0d0j2363cvvsjj
-    verified: false
-    hashtags: "#provewhatspossible, #fyp, #school, #xyzbca"
-  - username: "candis.bak"
-    fullname: >-
-      Candisbak
-    bio: >-
-      Subscribe to my YouTube channel👍🏽 Twitter: candisbak05 SC: candis19 BDW🔐❤️
-    location: "United States"
-    followers: 13000
-    engagement: 1467
-    commentsToLikes: 0.018230
-    id: ck8z7pqopr3c90j7813vray6w
-    verified: false
-    hashtags: "#duet, #magicmoment, #theoldguard, #soccer4life"
-  - username: "designbuildla"
-    fullname: >-
-      DESIGNBUILDLA
-    bio: >-
-      INTERIOR + ARCHITECTURAL DESIGN 📍LOS ANGELES www.designbuild.LA
-    location: "United States"
-    followers: 12000
-    engagement: 681
-    commentsToLikes: 0.012560
-    id: ckcp0ro2sawss0j231czyzz47
-    verified: false
-    hashtags: "#fashiontiktok, #kendalljenner, #interiordesigner, #interiordesign"
-  - username: "canned.gravy"
-    fullname: >-
-      canned.gravy
-    bio: >-
-      check the gram ^ dilf lover abstinence af
-    location: "United States"
-    followers: 14700
-    engagement: 2190
-    commentsToLikes: 0.024707
-    id: ckavht5o3ptd50j23vtv09fnm
-    verified: false
-    hashtags: "#fyp, #thehighnote, #foryou, #yum"
+    hashtags: "#foryourpage, #freestyle, #motox, #checkyourvibe"
 ---

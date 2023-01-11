@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Belgium in 2023
+title: Top 10 Instagram Influencers In Belgium In 2023
 description: >-
-  Find top Instagram influencers in Belgium in 2023. Most popular hashtags: #collab #mamablogger #outdoorphotography.
+  Find top Instagram influencers in Belgium in 2023. Most popular hashtags: #girlsgoneloavies #antwerp #loavies #photography.
 platform: Instagram
-hits: 1232
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 1232 Instagram influencers like this in Belgium for you to collaborate.
+hits: 593
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 593 Instagram influencers like this in Belgium for you to work with.
 profiles:
-  - username: "kaneki_touvor"
+  - username: "laura.oliveiragranja"
     fullname: >-
-      
+      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
     bio: >-
-      The true wealth of a man in this world is measured by the good he does . email: touvorkaneki@gmail.com @collection_4000 Met @pausetrembling
+      Freelance Model ∣ Content Creator ♊️ Gemini @gofitwithlaura @qntsportnutrition 20 % off | CREWLAURA 𝗠𝗶𝘀𝘀 𝗦𝗽𝗼𝗿𝘁 2019 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗤𝘂𝗲𝗲𝗻𝘀 2018
     location: "Belgium"
-    followers: 6758
-    engagement: 1937
-    commentsToLikes: 0.099353
-    id: ckap8w9xxq62w0i784q2g8ndh
+    followers: 18602
+    engagement: 420
+    commentsToLikes: 0.054751
+    id: ck6txv5tn019a0j71dktpndhx
     verified: false
-    hashtags: ""
-  - username: "valtonyc"
+    hashtags: "#pinkoofficial, #styleblogger, #outfitinspiration, #ysl"
+  - username: "re.becc.a"
     fullname: >-
-      Josep Valtonyc
+      REBECCA DE WEERDT  🤍
     bio: >-
-      Bruxelles
+      Belgium | Fashion & lifestyle Bookings & social media inquiries - mail me ✉️ rebeccadw@skynet.be BE 0787.592.191
     location: "Belgium"
-    followers: 44499
-    engagement: 1553
-    commentsToLikes: 0.138868
-    id: ck0w6m2t998ha0i19lfpzx8ni
-    verified: true
-    hashtags: "#shamespain"
-  - username: "keyshla.journal"
-    fullname: >-
-      𝕂𝕖𝕪𝕤𝕙𝕝𝕒 𝕄𝕒𝕣𝕚𝕖 🌙
-    bio: >-
-      🌍 Lifestyle |🍃 Montessori |✨ Minimalist From🇵🇷 to 🇰🇷, and now in 🇧🇪 💌 keyshla.matos@gmail.com #keyshlajournal #compartiendomistruquitos
-    location: "Belgium"
-    followers: 7282
-    engagement: 1447
-    commentsToLikes: 0.250391
-    id: ckap4okbe86ek0i78wklwhx15
+    followers: 11026
+    engagement: 1129
+    commentsToLikes: 0.392103
+    id: ck9haydsnekwm0j783ghxdhlu
     verified: false
-    hashtags: "#momblogger, #boricua, #puertorico, #belgica"
-  - username: "lunalissens"
+    hashtags: "#discoverunder10k, #ootdfashion, #instaootd, #summeraesthetic"
+  - username: "kayamaes"
     fullname: >-
-      Luna Lissens
+      Kaya
     bio: >-
-      🎃 Twenty | Belgium 🍁 Freelance model 🧡 Luna.lissens@hotmail.com 🍂 Crown card Miss Belgium 2020 | 3th finalist BOBO FACE 2020 🧥 Soon: Nerja
+      Come with me on my happy moments 🎞 ✉️ Kayamaesss@hotmail.com Fashion, beauty & travel | Not your typical ultra skinny freelance model BE 0788.246.447
     location: "Belgium"
-    followers: 9841
-    engagement: 1327
-    commentsToLikes: 0.229241
-    id: ck8tct1ke0kcw0j788ddfr7w0
+    followers: 19196
+    engagement: 311
+    commentsToLikes: 0.146594
+    id: ck9wflb14pczt0j78u9wwvcjc
     verified: false
-    hashtags: "#daretobeinsolito, #girlsgoneloavies, #collab, #gustgusto"
-  - username: "maudevandervorst"
+    hashtags: "#advertising, #loavies, #girlsgoneloavies, #sochickenspiesjes"
+  - username: "lunavissers"
     fullname: >-
-      Maud_vdv
+      Luna Vissers
     bio: >-
-      🌸 23 Y/O 🌸 460K on @tiktok 💌 Contact: peter@absolutep.com
+      Belgian harpist living in Switzerland 💃🏻 Tea lover in my freetime🍵 Secondhand fashion🍃
     location: "Belgium"
-    followers: 54615
-    engagement: 1209
-    commentsToLikes: 0.071642
-    id: ck0vx3x7ex0n90i190vk3xgh6
+    followers: 2946
+    engagement: 1605
+    commentsToLikes: 0.242260
+    id: ckf5ojnzb2ixq0j23ut9e0jwk
     verified: false
-    hashtags: "#freegiveaway, #theboomingsquad, #starsky, #yulaenergy"
-  - username: "anouklein"
-    fullname: >-
-      𝔸 ℕ 𝕆 𝕌 𝕂
-    bio: >-
-      𝐹𝑖𝑛𝑎𝑙𝑖𝑠𝑡𝑒 𝑑𝑒 𝑇ℎ𝑒 𝑉𝑜𝑖𝑐𝑒 𝐾𝑖𝑑𝑠✨ 𝑇𝑖𝑘 𝑡𝑜𝑘: anouk.tvk
-    location: "Belgium"
-    followers: 7905
-    engagement: 5797
-    commentsToLikes: 0.077611
-    id: ckap5h5rmbo1u0i78kc55rvhm
-    verified: false
-    hashtags: ""
+    hashtags: "#idealofsweden, #classicalmusician, #gifted, #harp"
   - username: "maartenvda"
     fullname: >-
       Maarten Van der Auwera
     bio: >-
-      📍Antwerp, Belgium 📚UA Master of Physiotherapy& Rehabilitation Sciences 🏝Bringing the Sea to the Streets 👻Maartenvda1 🔜 France
+      📍Antwerp, Belgium 🏔Belgian (travel) photographer 📸 Photographing my way through life ✏️Collab/shoot: DM or Mail 📚UAntwerp Master of Physiotherapy
     location: "Belgium"
-    followers: 8734
-    engagement: 1440
-    commentsToLikes: 0.174286
+    followers: 9412
+    engagement: 1235
+    commentsToLikes: 0.150845
     id: ck55ll4yg1tsz0i113p90q0ik
     verified: false
-    hashtags: "#fallphotography, #musiclovers, #portraitphotography, #zalandostyle"
-  - username: "assya.grs"
+    hashtags: "#sonyphotography, #sunsetlover, #travelblogging, #dronephotography"
+  - username: "lunalissens"
     fullname: >-
-      MOTIVATION|FITNESS|LIFESTYLE
+      Luna Lissens
     bio: >-
-      • 𝟣𝟫 𝒶𝓃𝓈 🌹 • 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 💪 • 𝒢𝒶𝓂𝒾𝓃𝑔 🎮 • 🇧🇪 👉 @healthnutritionbelgium -30% 💥 👉 𝒞𝑜𝒹𝑒 𝓅𝓇𝑜𝓂𝑜 : 𝐀𝐒𝐒𝐘𝐀𝟑𝟎 💥 𝒴𝑜𝓊𝒯𝓊𝒷𝑒 : 𝒮𝓊𝓅𝑒𝓇𝓅𝒶𝒸𝑜 𝟔🍿
+      🌾 Freelance model & Content Creator ✉️ Luna.lissens@hotmail.com 🌻 Twenty one | Belgium 🍋 Food & nutrition
     location: "Belgium"
-    followers: 37126
-    engagement: 902
-    commentsToLikes: 0.054771
-    id: ck9hb93x3fv9q0j78ykmv4qoi
+    followers: 12189
+    engagement: 370
+    commentsToLikes: 0.142057
+    id: ck8tct1ke0kcw0j788ddfr7w0
     verified: false
-    hashtags: "#zyzz, #twitchgirl, #musculation, #shredded"
-  - username: "pinklollypops"
+    hashtags: "#loavies, #girlsgoneloavies, #offlineshoppen, #waaslandshopping"
+  - username: "gianni_salace_"
     fullname: >-
-      Joyce, 𝐌𝐨𝐦𝐦𝐲 𝐨𝐟 𝐋𝐞𝐱 & 𝐉𝐞𝐚𝐧𝐞 🍭
+      Model Streetwear By Salace G
     bio: >-
-      Puur en eerlijk moederschap, zonder fabeltjes, besprenkeld met een goede dosis roze lekstok humor. 🇧🇪🌱 Plant etende superheld 💌Joyce@pinklollypops.be
+      📍Belgium,Brussels 🇧🇪 🦍 Streetfashion / Sneakerhead 📩 : salaciusss@hotmail.com
     location: "Belgium"
-    followers: 8769
-    engagement: 1203
-    commentsToLikes: 0.674934
-    id: ck6tuvziniqgs0j71ayu7cg9g
-    verified: false
-    hashtags: "#derozelekstok, #jeanemachine, #mamablogger, #dezekanjewinnen"
-  - username: "alessioetzi"
-    fullname: >-
-      
-    bio: >-
-      𝓖𝓸𝓭 𝓲𝓼 𝓰𝓻𝓮𝓪𝓽 🙏🏾 « For Every Dark Night There’s a Brighter Day » Streetwear lover Inspired by the Culture
-    location: "Belgium"
-    followers: 17688
-    engagement: 829
-    commentsToLikes: 0.137050
-    id: ck138kygngqpg0i19az7u2oow
+    followers: 6620
+    engagement: 959
+    commentsToLikes: 0.323021
+    id: ck138kxougqmy0i19cqt0syx0
     verified: false
     hashtags: ""
+  - username: "justintouvor"
+    fullname: >-
+      Gagno_ TOUVOR
+    bio: >-
+      🇹🇬 🇧🇯 🇧🇪 ⏳Fashion: my daily outfits, contact , DM or Email : touvorjustin87@gmail.com @boohoomanofficial
+    location: "Belgium"
+    followers: 54915
+    engagement: 539
+    commentsToLikes: 0.040082
+    id: ck5c08g0csn1w0i116ktt1lhg
+    verified: false
+    hashtags: "#summertrends, #reelsfashion, #ootd, #menstyle"
+  - username: "statiana.model"
+    fullname: >-
+      Tatiana🎀
+    bio: >-
+      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 23 Years 📍 Brussels
+    location: "Belgium"
+    followers: 46012
+    engagement: 682
+    commentsToLikes: 0.041315
+    id: ck8sxaggdgot90j78p5x5ww8u
+    verified: false
+    hashtags: "#sun, #sexy, #peach, #tuesday"
+  - username: "mr.ianic"
+    fullname: >-
+      • I A N I C •
+    bio: >-
+      Based in 🇧🇪and🇨🇳 Sign up with the following link to get €30 off on Airbnb👌🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
+    location: "Belgium"
+    followers: 13759
+    engagement: 955
+    commentsToLikes: 0.087351
+    id: ckf5sn7nnfvrq0j23sbxuhxvz
+    verified: false
+    hashtags: "#folkscenery, #beautifuldestinations, #vacation, #instago"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Las Vegas in 2023
+title: Top 10 Nutrition Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top nutrition Instagram influencers in Las Vegas in 2023. Most popular hashtags: #fitness #nutrition #vegas #lasvegas.
+  Find top nutrition Instagram influencers in Las Vegas in 2023. Most popular hashtags: #love #health #lasvegas #motivation.
 platform: Instagram
-hits: 45
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 45 Instagram influencers like this in Las Vegas, United States for you to contact.
+hits: 37
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 37 Instagram influencers like this in Las Vegas, United States for you to connect with.
 profiles:
+  - username: "robert_killian"
+    fullname: >-
+      Robert Killian
+    bio: >-
+      '16 Best Ranger Team, 2x Spartan World Champ, '09 IM Military WC. @bravosierra_usa & @ascent_protein Athlete 👊 Lock Laces 50% code 'killianit' 🙌
+    location: "United States"
+    followers: 43206
+    engagement: 272
+    commentsToLikes: 0.019680
+    id: ck138s1schqpf0i19agix79iq
+    verified: true
+    hashtags: "#pewpew, #wheyprotein, #tailwindnutrition, #tacticathlete"
   - username: "hurricaneshane_"
     fullname: >-
       Shane Burgos
     bio: >-
       Father, husband, son, fighter. Chasing that world title. Blessed ✝️ @teamtigerschulmanns
     location: "United States"
-    followers: 26124
-    engagement: 746
-    commentsToLikes: 0.039699
+    followers: 26895
+    engagement: 837
+    commentsToLikes: 0.036063
     id: ck5q1lye8bmk20i111tgl9i1i
     verified: true
-    hashtags: "#ready, #ufc, #hungry, #outworkeveryone"
-  - username: "chris_algieri"
+    hashtags: "#stayready, #mma, #blessed, #ufc"
+  - username: "earthlove777"
     fullname: >-
-      Chris Algieri
+      L💙VE EARTH
     bio: >-
-      Former WBO World Boxing Champion and ISKA+WKA World Kickboxing Champion Author of The Fighter’s Kitchen #ChampionLifestyle Puchase my book 📚 👇🏼👇🏼
+      🛑🛑STOP KILLING ANIMALS🛑🛑
     location: "United States"
-    followers: 74068
-    engagement: 146
-    commentsToLikes: 0.020034
-    id: ck14k5z8znwa50i190iks7rzd
-    verified: true
-    hashtags: "#quarantine, #motivation, #throwbackthursday, #ny"
-  - username: "taradise._"
-    fullname: >-
-      Tara Nicole Morales
-    bio: >-
-      🦋My Personal Scrapbook📸 💌booktaranicole@gmail.com 👩🏻‍🍳 @tastefullytoned recipes+health tips 👙 @swimsuitusa Int’l finalist | @taranicoletv
-    location: "United States"
-    followers: 16853
-    engagement: 266
-    commentsToLikes: 0.098468
-    id: ck8sxcjgkgw8e0j789zegb03o
+    followers: 31395
+    engagement: 96
+    commentsToLikes: 0.082419
+    id: ck6tiz1rj1pbj0j71jac2x2sz
     verified: false
-    hashtags: "#food, #fitness, #instagood, #model"
-  - username: "shainasavoy"
+    hashtags: "#babypig, #carnivorediet, #pigs, #misspiggy"
+  - username: "alannabaker"
     fullname: >-
-      Shaina Savoy
+      Alanna Baker
     bio: >-
-      Las Vegas Plant based/vegan climber & nutrition therapist master in training @trainingbeta @goclimbon
+      📍Las Vegas Artist at @cirquedusoleil NASM certified PT PN certified nutrition coach @wbff_official Pro, @teamtbc Sports Acro European Champion 2011
     location: "United States"
-    followers: 14931
-    engagement: 546
-    commentsToLikes: 0.021300
-    id: ck55jtmmgxpt10i11pitxl7nu
+    followers: 24686
+    engagement: 499
+    commentsToLikes: 0.036134
+    id: ck55li8sm1mvq0i110dj00lfm
     verified: false
-    hashtags: "#ahmaudarbery, #hashtagged, #challengeaccepted, #womensupportingwomen"
+    hashtags: "#bodybuilding, #gym, #workout, #artist"
   - username: "_ronaldguzman"
     fullname: >-
       Ronald Guzman
     bio: >-
       #blessed #Diosestaconmigo. 🇩🇴 •Profesional Baseball player for the Texas Rangers @rangers •Dallas Tx📍 •La Vega DR •👻 Ronaldguzman11
     location: "United States"
-    followers: 44319
-    engagement: 635
-    commentsToLikes: 0.021733
+    followers: 69538
+    engagement: 891
+    commentsToLikes: 0.029171
     id: ck55jsgpixna20i11nr3g6g6d
     verified: true
-    hashtags: "#partner, #nutrition, #st2020, #weareback"
+    hashtags: "#healthyfood, #sdc2021, #blessed, #sfm"
   - username: "lady_physique"
     fullname: >-
       IFBB Pro Victoria Flores
     bio: >-
       Health Coach 🥑 Body sculpting/ contouring ♦️ Wood therapy ♦️ Vacuum Butt Lift ♦️ Hyaluron Pen 👄 DM for appointment 📍Las Vegas/ Henderson
     location: "United States"
-    followers: 23664
-    engagement: 117
-    commentsToLikes: 0.044658
+    followers: 23526
+    engagement: 110
+    commentsToLikes: 0.037703
     id: ck8sx1rezfx6l0j78s08k0zs2
     verified: false
-    hashtags: "#athlete, #fbb, #lasvegas, #fit"
-  - username: "aaronlesue"
+    hashtags: "#fitnessgoals, #flex, #fitness, #bodysculpting"
+  - username: "overthemoonmom"
     fullname: >-
-      Aaron Lesué
+      C H R I S T I A N
     bio: >-
-      📍Las Vegas 🏈 Undersized kid to D1 & pro. Football (AFL), USA Bobsled, & 7’s Rugby Development 👇🏼Carb Solution Challenge
+      ↠mommy to hudson & hayes ↠i’m a cool boy mom ✌🏼 ↠ traveler↠teacher ↠dreamer☼ ↠desert dweller 🌵 ↠las vegas☼
     location: "United States"
-    followers: 704781
-    engagement: 282
-    commentsToLikes: 0.007950
-    id: ckap8zpt4qljb0i78ih1jhdn0
+    followers: 21878
+    engagement: 285
+    commentsToLikes: 0.112190
+    id: ck0tvcidhau3e0i19897z480f
     verified: false
-    hashtags: "#longlivetheathlete, #athomeworkouts, #athomefitness, #strong"
-  - username: "bodybybreakfast"
+    hashtags: "#ad, #letthembelittle, #boymom, #vegasmom"
+  - username: "flexyalexya"
     fullname: >-
-      Erin Christ
+      Aleksandra Kiedrowicz
     bio: >-
-      🎲Las Vegas 💪🏼ED warrior 😀Pun QUEEN 🌱Future Dietitian 💌Bodybybreakfast@gmail.com
+      Artist, performer, aerialist🎪 Winner of Poland’s Got Talent⭐️ Engaged to @deadly_games 💍 Living in Las Vegas 🤩
     location: "United States"
-    followers: 45909
-    engagement: 327
-    commentsToLikes: 0.143826
-    id: ck0tvea3pb2j50i1933gnkret
+    followers: 57164
+    engagement: 432
+    commentsToLikes: 0.019874
+    id: ckapccfw4392g0i7830ed7obk
     verified: false
-    hashtags: "#deats, #glutenfree, #plantbased, #ad"
-  - username: "derekperdue8"
+    hashtags: "#acrobat, #teacrine, #split, #flexible"
+  - username: "raddyherich"
     fullname: >-
-      Las Vegas Celebrity Trainer
+      Radovan Herich
     bio: >-
-      Derek Perdue 🏆 VOTED BEST TRAINER IN VEGAS 🥗 NUTRITION SPECIALIST 👇🏼👇🏼👇🏼👇🏼
+      Helping others live better and healthier life 🎥 YouTube: Raddy Herich | @vitaminwelluae 🥙 Nutrition: @matternutrition.xyz
     location: "United States"
-    followers: 22516
-    engagement: 183
-    commentsToLikes: 0.069015
-    id: ck5c4tliv22rd0i11byntj2p2
+    followers: 75589
+    engagement: 82
+    commentsToLikes: 0.033977
+    id: ck5cjj89kuu190i11i6imrg4u
     verified: false
-    hashtags: "#dpgirls, #special, #caring, #savage"
-  - username: "tammy_bellabae_fitness"
+    hashtags: "#trending, #outdoorworkout, #downtowndubai, #workout"
+  - username: "katiechunghua"
     fullname: >-
-      Tammy 🎀🌴👙💪
+      KATIE CHUNG HUA
     bio: >-
-      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
+      📍Las Vegas Health & Fitness Coach Ex #Hockey Player Host of @builtpodcast 🎙 Get my👇🏼 NUTRITION GUIDE & WORKOUTS
     location: "United States"
-    followers: 11354
-    engagement: 1451
-    commentsToLikes: 0.087957
-    id: ckf5pez4b5ukz0j2385upfgyk
-    verified: false
-    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
+    followers: 65064
+    engagement: 88
+    commentsToLikes: 0.034918
+    id: ck0vuxlulmmig0i1959d6gpbb
+    verified: true
+    hashtags: "#gluteworkout, #hiitworkout, #beyourbestyou, #healthtip"
 ---

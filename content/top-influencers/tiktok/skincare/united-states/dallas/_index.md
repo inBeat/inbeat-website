@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Dallas in 2023
+title: Top 10 Skincare TikTok Influencers In Dallas In 2023
 description: >-
-  Find top skincare TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #skincare #dallas #foryou.
+  Find top skincare TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #skincare #viral #dallas.
 platform: TikTok
-hits: 19
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 19 TikTok influencers like this in Dallas, United States for you to connect with.
+hits: 17
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 17 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "alyandjulia"
+  - username: "daytran12"
     fullname: >-
-      aly & julia
+      Andy Taru
     bio: >-
-      your fav besties miami spread positivity!⚡️🌸🧚‍♀️
+      check out my music :)
     location: "United States"
-    followers: 21800
-    engagement: 1338
-    commentsToLikes: 0.061649
-    id: ckbkn6jlmh68j0j238v1lb9pu
+    followers: 2946
+    engagement: 1005
+    commentsToLikes: 0.106685
+    id: ckc83pxrz45zm0j23mylhqf1h
     verified: false
-    hashtags: "#fyp, #iamlost, #skatelife, #letsfaceit"
-  - username: "christianvibin"
+    hashtags: "#mopar, #socal, #jdm, #bayarea"
+  - username: "sarahadamhafez"
     fullname: >-
-      Christian 🌊
+      sarahadamhafez
     bio: >-
-      ⚽️#5 16🌊 📍Dallas🏙
+      IG + Youtube ☝🏼 Shop Clarins Gentle Renewing Cleaning Mousse 👇🏼
     location: "United States"
-    followers: 47800
-    engagement: 1472
-    commentsToLikes: 0.039987
-    id: ckbw7kj58yui90j238lzbyfd0
+    followers: 414500
+    engagement: 1331
+    commentsToLikes: 0.029069
+    id: ck9v17oyhftsz0j78zt9qgyyk
     verified: false
-    hashtags: "#meme, #fyp, #christianvibindoe, #foryou"
-  - username: "jordanblakelyw"
+    hashtags: "#interiordesign, #hometour, #husbandandwife, #texas"
+  - username: "alyssanicole.official"
     fullname: >-
-       jordan
+      Alyssa Nicole✨
     bio: >-
-      dallas, texas univ. of arkansas ‘24
+      👻: alyssareed0012 SUB TO MY CHANNEL🌹 Join the Luxe Family✨ Dallas, TX | 18
     location: "United States"
-    followers: 68800
-    engagement: 2044
-    commentsToLikes: 0.014198
-    id: ck9k1uvvxhu8s0j78b8slawsn
+    followers: 51900
+    engagement: 1958
+    commentsToLikes: 0.053089
+    id: ck9glefgdo0110j783y897lfs
     verified: false
-    hashtags: "#duet, #foryou, #happyhalloween, #wewintogether"
-  - username: "jeanineamapola"
+    hashtags: "#fyp, #viral, #stitch, #greenscreenvideo"
+  - username: "thecurlybeviie"
     fullname: >-
-      JeanineAmapola
+      Auntie Bev
     bio: >-
-      All glory to God 🙏🏼 LA & Dallas 📍 26 yrs old IG & YouTube - JeanineAmapola
+      Auntie Bev 🍷♎️ Founder of NeoCurly Dallas, Tx I’m 25 lol Afro Lady
     location: "United States"
-    followers: 19700
-    engagement: 932
-    commentsToLikes: 0.024189
-    id: ck8070i3onn080j78jrgz5fh8
-    verified: true
-    hashtags: "#fyp, #sing, #christian, #christiantiktok"
+    followers: 173600
+    engagement: 1848
+    commentsToLikes: 0.013839
+    id: cka0sk1ivlusq0i78dfut0k6k
+    verified: false
+    hashtags: "#naturalhair, #fyp, #makeup, #skincare"
   - username: "klaudiavnssa"
     fullname: >-
       VNSSA
     bio: >-
-      IG: KLAUDIAVNSSA Dallas Texas🌵
+      Dallas TX📍
     location: "United States"
-    followers: 16500
-    engagement: 849
-    commentsToLikes: 0.010437
+    followers: 17200
+    engagement: 1166
+    commentsToLikes: 0.011633
     id: ckdsvhk8dq5fd0j23bnldoo7z
     verified: false
-    hashtags: "#foryoupage, #fivebelow, #idea, #cute"
-  - username: "sneikothediva"
+    hashtags: "#diy, #pink, #idea, #fivebelow"
+  - username: "ms_carterr93"
     fullname: >-
-      Sneiko
+      ms_carterr
     bio: >-
-      The cool savy makeup lover , sneaker head ,discount diva YT &IG @ sneikothediva
+      4282, Health/Wellness, Travel, & Me. WeirdHoney Podcast host, go listen
     location: "United States"
-    followers: 94600
-    engagement: 1154
-    commentsToLikes: 0.029857
-    id: ck9nidltugrin0j78sav3r8r5
+    followers: 3296
+    engagement: 773
+    commentsToLikes: 0.100120
+    id: ckbqh05mr2e100j23m4hgt3h9
     verified: false
-    hashtags: "#843, #freebies, #helping, #thatwitch"
-  - username: "andytarutran"
-    fullname: >-
-      Andy Taru
-    bio: >-
-      I WILL TRY TO RESPOND TO COMMENTS UNLESS U UGLY JK BUT NOT JK JK HEHE NOT JK, JK
-    location: "United States"
-    followers: 2529
-    engagement: 668
-    commentsToLikes: 0.050416
-    id: ckc83pxrz45zm0j23mylhqf1h
-    verified: false
-    hashtags: "#civic, #california, #supra, #houston"
+    hashtags: "#fyp, #skincare, #texas, #houston"
   - username: "frutalocadfw"
     fullname: >-
       frutalocadfw
     bio: >-
       212 N. Main St Duncanville, TX 75116 3859 Irving Mall Irving, TX 75061
     location: "United States"
-    followers: 36600
-    engagement: 1922
-    commentsToLikes: 0.006909
+    followers: 36500
+    engagement: 1842
+    commentsToLikes: 0.006153
     id: ckauzs5p15co90j23j8iz6cem
     verified: false
-    hashtags: "#irving, #chamoy, #dallas, #duncanville"
-  - username: "madeleine.taylor"
+    hashtags: "#irving, #viral, #tajin, #fyp"
+  - username: "joyfullyso"
     fullname: >-
-      madeleine taylor
+      joyfullyso
     bio: >-
-      18
+      Fashion | Home Wellness @wellnesstalk Outfits: LIKETOKNOW.it app
     location: "United States"
-    followers: 5921
-    engagement: 1014
-    commentsToLikes: 0.092778
-    id: ckbqgkhay1ygc0j234u1cwzsa
+    followers: 20700
+    engagement: 627
+    commentsToLikes: 0.012258
+    id: ckb9do1wq0yfw0j23bldswhs6
     verified: false
-    hashtags: "#blacklivesmatter, #1312, #blm, #fyp"
-  - username: "brazilianbarbiejay"
+    hashtags: "#beautyhacks, #makeover, #fyp, #home"
+  - username: "joehannisburg"
     fullname: >-
-      Jay🦋💞
+      Daniel Oh
     bio: >-
-      IG: Brazilianbarbiej🦋 shop my brand👇🏾
+      live life to the fullest
     location: "United States"
-    followers: 476900
-    engagement: 2078
-    commentsToLikes: 0.010497
-    id: ck8hmz90dokld0j78rq22wt7z
+    followers: 25300
+    engagement: 1072
+    commentsToLikes: 0.075335
+    id: ck8nfcsyorblh0j78q63d143w
     verified: false
-    hashtags: "#lash, #handmade, #asmr, #makeup"
+    hashtags: "#foryoupage, #skincare, #xyzbca, #asian"
+  - username: "andrewkwon_official"
+    fullname: >-
+      Andrew Kwon 엔드류 권
+    bio: >-
+      Fashion Designer ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
+    location: "United States"
+    followers: 9403
+    engagement: 1620
+    commentsToLikes: 0.067943
+    id: ckce3zwyhjcwm0j237bod4grp
+    verified: false
+    hashtags: "#france, #kpop, #nyc, #andrewkwon"
 ---

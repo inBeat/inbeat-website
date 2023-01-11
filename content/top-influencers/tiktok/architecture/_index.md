@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers in 2023
+title: Top 10 Architecture TikTok Influencers In 2023
 description: >-
-  Find top architecture TikTok influencers in 2023. Most popular hashtags: #architecture #fyp #design #foryou.
+  Find top architecture TikTok influencers in 2023. Most popular hashtags: #art #architect #duet #architecture.
 platform: TikTok
-hits: 253
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 253 TikTok influencers like this for you to pitch.
+hits: 232
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 232 TikTok influencers like this for you to work with.
 profiles:
   - username: "shoonya_8007"
     fullname: >-
@@ -14,117 +14,117 @@ profiles:
       Nikeeta Tamta Architecture student Devotee of Salman Khan ❤❤❤
     location: "India"
     followers: 39300
-    engagement: 1980
-    commentsToLikes: 0.058890
+    engagement: 2017
+    commentsToLikes: 0.057627
     id: ckb8z6a4geeij0j238rhd7lb3
     verified: false
-    hashtags: "#retrogaana, #valentinesday2020, #blooper"
+    hashtags: "#blooper, #retrogaana, #valentinesday2020"
+  - username: "debbie.perez"
+    fullname: >-
+      Debbie Perez
+    bio: >-
+      cubana art/architecture historian harvard // miami Sith Lord
+    location: "United States"
+    followers: 30700
+    engagement: 1828
+    commentsToLikes: 0.013352
+    id: ckbqq83l8b5n50j23xytitdt0
+    verified: false
+    hashtags: "#leonardodavinci, #davinci, #renaissanceart, #arthistory"
   - username: "chawky.art"
     fullname: >-
       Chawky
     bio: >-
       Architecture student here I draw | 20 y.o. Check my IG
     location: "Lebanon"
-    followers: 41100
-    engagement: 1918
-    commentsToLikes: 0.052555
+    followers: 48900
+    engagement: 1777
+    commentsToLikes: 0.049180
     id: cka6cslb35blk0i78ld1mujxc
     verified: false
-    hashtags: "#amongus, #drawingmyfollowers, #viral, #tiktokart"
+    hashtags: "#fyp, #artist, #tiktokartists, #2020"
   - username: "aki_anyway"
     fullname: >-
       Erika ✏️
     bio: >-
-      🇪🇺|🇮🇹 Italian Artist | Social Media | Architecture Tiny houses obsessed 🏠
+      🇪🇺|🇮🇹 Italian Artist | Social Media | Architecture
     location: "Germany"
-    followers: 26800
-    engagement: 1891
-    commentsToLikes: 0.010713
+    followers: 26900
+    engagement: 1879
+    commentsToLikes: 0.010174
     id: ck8rod5zvgeeu0j78yd6kw8bd
     verified: false
-    hashtags: "#beforeandafter, #loki, #noob, #womensday"
+    hashtags: "#fyp, #loki, #beforeandafter, #howtodraw"
   - username: "nicksaremi"
     fullname: >-
       Nick Saremi
     bio: >-
       Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
     location: "United States"
-    followers: 81700
-    engagement: 795
-    commentsToLikes: 0.028410
+    followers: 107800
+    engagement: 857
+    commentsToLikes: 0.049946
     id: ck9k9al5tcfbq0j784mvcqybp
     verified: false
-    hashtags: "#architecturetiktok, #modern, #realtorsoftiktok, #secretroom"
+    hashtags: "#ca, #realtorsoftiktok, #architecturetiktok, #la"
+  - username: "adventurousarchitect"
+    fullname: >-
+      AdventurousArchitect
+    bio: >-
+      Dream | travel Daily inspo Travel, Quotes and Architecture Thanks for 49k 😍
+    location: "United States"
+    followers: 49700
+    engagement: 893
+    commentsToLikes: 0.053150
+    id: cka6dzxfk9uaj0i78q1fgfyq8
+    verified: false
+    hashtags: "#stitch, #greenscreen, #adventurousarchitect, #greenscreenvideo"
   - username: "rionwillard"
     fullname: >-
       Rion Willard
     bio: >-
-      ‘What they don’t tell you at architecture school’ 🎙 Podcaster - BoA 📐Architect
+      ‘What they don’t tell you at architecture school’ 🎙 Podcaster 📐Architect
     location: "United Kingdom"
-    followers: 27600
-    engagement: 381
-    commentsToLikes: 0.044591
+    followers: 31200
+    engagement: 599
+    commentsToLikes: 0.042514
     id: ck81rzng6oxh30j78vkmasiux
     verified: false
-    hashtags: "#architectlife, #architecture, #londonarchitecture, #travelarchitecture"
-  - username: "emilyrayna"
-    fullname: >-
-      Emily Shaw
-    bio: >-
-      Interior Design/Architecture emilyrayna@select.co Check out my YouTube and IG!
-    location: "United States"
-    followers: 3400000
-    engagement: 1177
-    commentsToLikes: 0.005788
-    id: ckbkvhpq2qyqb0j23um0ytaq8
-    verified: true
-    hashtags: "#artober, #ios14, #dayinmylife, #myart"
-  - username: "antonyduo"
-    fullname: >-
-      Tony D
-    bio: >-
-      Architecture thing Contacto@antonioduo.com
-    location: "Mexico"
-    followers: 251100
-    engagement: 1123
-    commentsToLikes: 0.019382
-    id: ck8oshcz6gw7v0j786hbhnmg7
-    verified: false
-    hashtags: "#arquitectura, #transformarte, #design, #iphone12"
+    hashtags: "#travelarchitecture, #architectlife, #architect, #architecture"
   - username: "architectrussell"
     fullname: >-
       Architect Russell
     bio: >-
-      Chartered Architect “Open your mind” Architecture & Travel
+      RIBA Architect Architecture & Travel “Open your mind” Behind scenes on Instagram
     location: "Tanzania, United Republic of"
-    followers: 180400
-    engagement: 890
-    commentsToLikes: 0.026038
+    followers: 246300
+    engagement: 954
+    commentsToLikes: 0.023208
     id: ck9gm0r7qqgta0j78ltdnaaun
     verified: false
-    hashtags: "#architect, #architecturestudent, #architecturetiktok, #carpark"
+    hashtags: "#architects, #architect, #learnontiktok, #wearblack"
+  - username: "lorenzo.h"
+    fullname: >-
+      Lorenzo ℍ
+    bio: >-
+      Architecture - Travel - Food 📍Tijuana B,C Instagram
+    location: "Mexico"
+    followers: 20200
+    engagement: 727
+    commentsToLikes: 0.061843
+    id: ck83z4581xjrk0j782g36eb0j
+    verified: false
+    hashtags: "#ensenada, #chevrolet, #tijuana, #tijuanaaaa"
   - username: "londonviewpoints"
     fullname: >-
       londonviewpoints
     bio: >-
-      Michael Tomas 🇬🇧📸 Timelapse,architecture & travel IG: LondonViewpoints (137k)
+      Michael Tomas 🇬🇧📸 Timelapse,architecture & travel IG: LondonViewpoints (136k)
     location: "United Kingdom"
     followers: 23500
-    engagement: 677
-    commentsToLikes: 0.019429
+    engagement: 687
+    commentsToLikes: 0.020672
     id: ck8f7f6f82xm80j78ybsz57eg
     verified: false
-    hashtags: "#timelapse, #targetpractice, #londonskyline, #london"
-  - username: "architectissimo"
-    fullname: >-
-      Architectissimo
-    bio: >-
-      The home of finest architecture.
-    location: "Italy"
-    followers: 8953
-    engagement: 957
-    commentsToLikes: 0.009216
-    id: ckb9i5o558ctc0j23pc9shx16
-    verified: false
-    hashtags: "#architecturephotography, #architect, #architecture, #interiordesign"
+    hashtags: "#londonskyline, #london, #towerbridge, #londontimelapse"
 ---

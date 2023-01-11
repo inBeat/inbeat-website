@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Austria in 2023
+title: Top 10 Instagram Influencers In Austria In 2023
 description: >-
-  Find top Instagram influencers in Austria in 2023. Most popular hashtags: #austria #ootd #love.
+  Find top Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #girl #ootd.
 platform: Instagram
-hits: 1811
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 1811 Instagram influencers like this in Austria for you to contact.
+hits: 864
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 864 Instagram influencers like this in Austria for you to work with.
 profiles:
-  - username: "julija.zp"
+  - username: "retegan.denisa"
     fullname: >-
-      𝗝𝗨𝗟𝗜𝗝𝗔 🌹
+      Denisa
     bio: >-
-      📸 𝗼𝘂𝘁𝗳𝗶𝘁 • 𝘁𝗿𝗮𝘃𝗲𝗹 • 𝗹𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 ‎ 📍 Brčko 🇧🇦 25 🎓 Osijek 🇭🇷 dept. of Physics 5th 💍 𝘁𝗮𝗸𝗲𝗻 𝗯𝘆 𝗮𝗻 𝗮𝗻𝗴𝗲𝗹
+      Stay pretty, be educated, dress well. based in Vienna inquiries: retegandenisa@gmail.com
     location: "Austria"
-    followers: 3038
-    engagement: 4358
-    commentsToLikes: 0.361573
-    id: ckapc0lxo20ag0i78mmqyv6ym
+    followers: 110633
+    engagement: 879
+    commentsToLikes: 0.030749
+    id: ck13bwlevxhn40i190ehwdmbw
     verified: false
-    hashtags: "#sandzak, #bosniaandherzegovina, #podgorica, #love"
+    hashtags: "#womanslook, #spain, #streetstyle, #bigcitylife"
+  - username: "katharinaannamaria"
+    fullname: >-
+      katharina ☼☾
+    bio: >-
+      📍tirol | 28 | part time sportsmodel currently biking, running or hiking ✌🏻🏔 bookings: info@katharinaannamaria.at find my photo editing guide here:
+    location: "Austria"
+    followers: 101930
+    engagement: 1478
+    commentsToLikes: 0.003403
+    id: cl5l32vs392ou0i23e24a1jfz
+    verified: false
+    hashtags: "#mallorca, #curls, #cupratribe, #myviu"
+  - username: "katereplay"
+    fullname: >-
+      🏳️‍🌈◼️Kate ◼️🏳️‍🌈
+    bio: >-
+      a gentle rebel pain is temporary, drip is forever gothic & divine ✨ ▫️𝕿𝖆𝖙𝖙𝖔𝖔𝖘 / 𝕷𝖎𝖋𝖊𝖘𝖙𝖞𝖑𝖊 / 𝕬𝖉𝖛𝖊𝖓𝖙𝖚𝖗𝖊▫️ VIENNA | 22 ☠️❤️‍🔥⛓
+    location: "Austria"
+    followers: 106691
+    engagement: 1913
+    commentsToLikes: 0.013962
+    id: ck5q7vugm3ad90i11b9uw3i3i
+    verified: false
+    hashtags: "#tattoodesign, #tattoostyle, #angel, #tattoogirl"
+  - username: "paul_unterleitner"
+    fullname: >-
+      PAUL UNTERLEITNER | 🇦🇹 OAK 2.0
+    bio: >-
+      Berlin/Vienna, 23 y/o 🔹Natural Pro Bodybuilder - Vegan 🌱 🔸#TEAMROCKA (Code: PAUL) 🔹Road to IFBB PRO🔥 🔸Training since 2015 🔹Youtuber 🔸192cm, 108kg
+    location: "Austria"
+    followers: 453370
+    engagement: 414
+    commentsToLikes: 0.005670
+    id: ck0vyg7xx3tuz0i19oon15579
+    verified: false
+    hashtags: "#teamrocka, #tabacwildride, #tabacfragrances"
+  - username: "beamsareeda"
+    fullname: >-
+      
+    bio: >-
+      ✨@BEDABEAUTY✨ Ekamai int♡ | Muic608♡ 💌 for work: LINE @beamsareeda or line:noofah3 // line: pongcasting YOUTUBE CHANNEL: Beamsareeda
+    location: "Austria"
+    followers: 156232
+    engagement: 267
+    commentsToLikes: 0.001658
+    id: ck0w62c6e6l4n0i19cvpm130v
+    verified: false
+    hashtags: "#lazadath, #brandsonpomelo, #pomelogirls, #freshxlazmall"
+  - username: "laurakarasinski"
+    fullname: >-
+      Laura Karasinski
+    bio: >-
+      Vienna based art director, interior designer & speaker. Founder of @atelierkarasinski Hostess of @hotelkarasinski Forbes 30 under 30 ✨
+    location: "Austria"
+    followers: 21847
+    engagement: 194
+    commentsToLikes: 0.013795
+    id: ck14hq0iabjys0i19rkv6yd0n
+    verified: false
+    hashtags: "#523, #architecture, #caferitter, #laundromat"
+  - username: "marieyou__"
+    fullname: >-
+      Lisa Marie Bicker
+    bio: >-
+      momlife•inspo•home wifey of @dooobi_81 mom to lio matteo 🤍 mom to clea ylvie 🤍 realtalk @marieyouofficial nordrhein-westfalen 📍
+    location: "Austria"
+    followers: 88106
+    engagement: 93
+    commentsToLikes: 1.068207
+    id: ck0w4kp88z1yx0i19imz8qtt1
+    verified: false
+    hashtags: "#viral, #wellness, #toddler, #schwanger2022"
+  - username: "ebruerkut"
+    fullname: >-
+      Ebru Erkut, MA
+    bio: >-
+      — based in vienna, heart in nyc. fashion, beauty & interior tips. consultancy @ebruerkutcom founder @raysofmarch
+    location: "Austria"
+    followers: 233806
+    engagement: 62
+    commentsToLikes: 0.014323
+    id: ck0u9i99p9yss0i19bwl9mf7s
+    verified: false
+    hashtags: "#vienna, #neutralstyle, #reels, #winteroutfit"
   - username: "simply_lenny"
     fullname: >-
       LENNY💋✌🏼
     bio: >-
-      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
+      Lenny‘s Little World of 🧘🏻‍♀️#yoga 🤸🏼‍♀️#fashion 💄 #traval ✈️ & #foodlover🍜
     location: "Austria"
-    followers: 2474
-    engagement: 2945
-    commentsToLikes: 0.473416
+    followers: 1406
+    engagement: 4049
+    commentsToLikes: 0.510271
     id: ckap52mut9wvu0i78iu0g9589
     verified: false
-    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
-  - username: "hellinrojda"
+    hashtags: "#modeblogger, #potd, #reminder, #travelgoals"
+  - username: "aworldofdestinations_"
     fullname: >-
-      H E L L I N  R O J D A
+      MARIA | Travel Blog
     bio: >-
-      
+      ⛰ Outdoor active ✈️ Off the beaten track travel ✨ Spreading positivity
     location: "Austria"
-    followers: 13429
-    engagement: 2945
-    commentsToLikes: 0.087757
-    id: ck9wdkanzg1f50j78zx2huuhl
+    followers: 4871
+    engagement: 1376
+    commentsToLikes: 0.144016
+    id: ck9hayzy3enod0j78lobgwmlq
     verified: false
-    hashtags: "#vienna, #ootd, #kosova, #zarawoman"
-  - username: "ppprosi"
-    fullname: >-
-      Verena Prosenik 🌸
-    bio: >-
-      • based in Vienna 📍 • Volleyballplayer by ❤️ • Sports & Psychologie 📝📚
-    location: "Austria"
-    followers: 6185
-    engagement: 2772
-    commentsToLikes: 0.185280
-    id: ck6u1ozbxn0pq0j71idobhimo
-    verified: false
-    hashtags: "#styleinspiration, #discoverunder5k, #portrait, #bikini"
-  - username: "melamed_matan"
-    fullname: >-
-      MATAN MELAMED 🦍🌏
-    bio: >-
-      🤸🏾‍♂️ CALISTENICS ATHLETE 🎥 Photographer 🏅 18th Place SWWC2019 🇷🇺 🥈 2nd place in the Israel 🇮🇱 championship 🏆 Kevad Battles19 🇪🇪 1ST
-    location: "Austria"
-    followers: 2720
-    engagement: 2619
-    commentsToLikes: 0.133169
-    id: ck8wdepc7dqbq0j78ei7iqntg
-    verified: false
-    hashtags: "#fitness, #fitnessmodel, #airplanemode, #motivation"
-  - username: "linda.shr"
-    fullname: >-
-      Linda Seher
-    bio: >-
-      📍 AT | twenty-something | sunlover 🌺 | Live a life you will remember 💭 | Think Big
-    location: "Austria"
-    followers: 4530
-    engagement: 2562
-    commentsToLikes: 0.124435
-    id: ck9hbr7jli4r00j78ahowjuzz
-    verified: false
-    hashtags: "#sleevetattoo, #tattoolove, #inkedgirl, #dc"
-  - username: "tamaralukovics"
-    fullname: >-
-      Tamara Lukovics
-    bio: >-
-      🖤 @basicbytamaralukovics ✉️ contact@tamaralukovics.com 🎥 youtube.com/tamaralukovics
-    location: "Austria"
-    followers: 70655
-    engagement: 1700
-    commentsToLikes: 0.092136
-    id: ck6ud9jorjtok0j71c8azepc9
-    verified: false
-    hashtags: "#rekl, #rekla, #cottontouch, #johnsonsbaby"
-  - username: "annaprut"
-    fullname: >-
-      Anna 🦋
-    bio: >-
-      Simple like quantum physics
-    location: "Austria"
-    followers: 9845
-    engagement: 1284
-    commentsToLikes: 0.098351
-    id: ckf5r6un1bmzm0j23z07bcdsf
-    verified: false
-    hashtags: "#girl, #quad, #fittness, #realtalk"
-  - username: "florianmacek"
-    fullname: >-
-      Florian Maček
-    bio: >-
-      Black lives matter. Co-founder @hostilecalifornia @talentmodelmgmt 🌐 Tiktok: florianmacek @florianmacekbackup 📧: fmacek@chello.at 📍 Vienna 🇦🇹
-    location: "Austria"
-    followers: 804121
-    engagement: 812
-    commentsToLikes: 0.045892
-    id: ck14iuf6vh7vr0i19j8i99sgn
-    verified: false
-    hashtags: "#photos, #autumn, #london, #bts"
-  - username: "natalie___2017"
-    fullname: >-
-      𝓝𝓪𝓽𝓪𝓵𝓲𝓮 | ناتالی
-    bio: >-
-      Iranian babygirl🕊دختر بچه ایرانی Lives in Austria 🇦🇹 ساکن اتریش تبلیغات نداریم❌ Mom @leila__sch
-    location: "Austria"
-    followers: 66285
-    engagement: 738
-    commentsToLikes: 0.055458
-    id: ck13d7i2942fm0i19fo7gl5eo
-    verified: false
-    hashtags: "#love, #nice, #kidsfashion, #pretty"
+    hashtags: "#estoesmexico, #hotspring, #grutasdetolantongo, #greecetrip"
 ---

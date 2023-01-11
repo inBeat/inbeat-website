@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Austria in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Austria In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Austria in 2023. Most popular hashtags: #tattoo #ink #art #artist.
+  Find top tattoo-artists Instagram influencers in Austria in 2023. Most popular hashtags: #tattoo #vienna #tattooartist #tattooart.
 platform: Instagram
-hits: 12
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 12 Instagram influencers like this in Austria for you to collaborate.
+hits: 13
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 13 Instagram influencers like this in Austria for you to work with.
 profiles:
   - username: "julesboho.tattoo"
     fullname: >-
       Jules Boho
     bio: >-
-      tattoo artist • illustrator • painter • globetrotter • co-owner of Linzer Tattooatelier • based in Linz, AT 🇦🇹🌎 ☀️🤙🏼
+      tattoo artist • illustrator • painter • globetrotter(usually)• co-owner of Linzer Tattooatelier • based in Linz, AT 🇦🇹🌎 ☀️🤙🏼
     location: "Austria"
-    followers: 49776
-    engagement: 152
-    commentsToLikes: 0.014036
+    followers: 49531
+    engagement: 154
+    commentsToLikes: 0.022893
     id: ck0u83d8h6g4a0i196353gfnx
     verified: false
-    hashtags: "#avantgardetattoo, #naturetattoo, #contemporarytattooing, #art"
-  - username: "kisakisenka"
-    fullname: >-
-      Vladimir Arhipkin
-    bio: >-
-      Tattoo artist/illustrator/designer Graz. Austria. @WorldFamousInk - proteam hello@create-tattoo.com
-    location: "Austria"
-    followers: 29446
-    engagement: 165
-    commentsToLikes: 0.014854
-    id: ckaoucgwozov40i78vdeh4erf
-    verified: false
-    hashtags: "#tattoocolor, #neotraditionalflash, #neotraditionaleurope, #worldfamoustattooink"
+    hashtags: "#toptattooartist, #artistsoninstagram, #sketchtattoo, #naturetattoo"
   - username: "ninasphynx"
     fullname: >-
       Nina
     bio: >-
-      🇩🇪Rottweil - 🇦🇹Vienna Tattooartist Dog lover🐶 ❤️ 🔒 For cooperations 📩 theninasphynx@gmail.com
+      🇩🇪Rottweil - 🇦🇹Vienna Tattooartist R Tattoo&Barber 🤞🏻 Dog lover🐶 ❤️🔒 Tattoo appointment
     location: "Austria"
-    followers: 123015
-    engagement: 593
-    commentsToLikes: 0.008553
+    followers: 116475
+    engagement: 181
+    commentsToLikes: 0.035081
     id: ck5q7wr3t3eoj0i11c81qgfmg
     verified: false
-    hashtags: "#wien, #ootd, #blackandwhitephotography, #realistictattoo"
-  - username: "carola_deutsch"
+    hashtags: "#wien, #ibiza, #tattoo, #ink"
+  - username: "katereplay"
     fullname: >-
-      Carola Deutsch
+      🏳️‍🌈◼️Kate ◼️🏳️‍🌈
     bio: >-
-      ART I TATTOO I DESIGN Co-owner of @decasa_creative_studio Check out our website for an overview of my work
+      a gentle rebel pain is temporary, drip is forever gothic & divine ✨ ▫️𝕿𝖆𝖙𝖙𝖔𝖔𝖘 / 𝕷𝖎𝖋𝖊𝖘𝖙𝖞𝖑𝖊 / 𝕬𝖉𝖛𝖊𝖓𝖙𝖚𝖗𝖊▫️ VIENNA | 22 ☠️❤️‍🔥⛓
     location: "Austria"
-    followers: 15103
-    engagement: 202
-    commentsToLikes: 0.036901
-    id: ck55ocpah83uc0i1114gyr3x7
+    followers: 106691
+    engagement: 1913
+    commentsToLikes: 0.013962
+    id: ck5q7vugm3ad90i11b9uw3i3i
     verified: false
-    hashtags: "#streetart, #artlovers, #graphicart, #austrianartist"
+    hashtags: "#tattoodesign, #tattoostyle, #angel, #tattoogirl"
   - username: "tattooed.girlz_2"
     fullname: >-
       Hottest Premium Inked Girls
     bio: >-
       📩 DM me if you're interested in shoutout 4 shoutout 🆓 Follow me for more daily pictures 📲 All credits goes to models and photographers 🇸🇰 Slovakia, PE
     location: "Austria"
-    followers: 68193
-    engagement: 335
-    commentsToLikes: 0.015124
+    followers: 68801
+    engagement: 377
+    commentsToLikes: 0.013057
     id: ck9ha514fb6ig0j78binhze42
     verified: false
     hashtags: ""
+  - username: "violeta.arus"
+    fullname: >-
+      Violeta Arús
+    bio: >-
+      GUEST: Madrid: 8 - 13 March Vienna @truecanvas 12 - 16 April
+    location: "Austria"
+    followers: 122252
+    engagement: 125
+    commentsToLikes: 0.014937
+    id: ck5zuy684390x0i14bk0g75xz
+    verified: false
+    hashtags: "#stuttgart, #blackworkers, #tattrx, #btattooing"
+  - username: "_._a_n_i_k_a_._"
+    fullname: >-
+      Anika Bankhofer
+    bio: >-
+      Vienna-Austria 🇦🇹 (NOOO kangaroos🦘 in austria) 🏍️ 🏋️💃🤿⛸️✈️🌍⛷️ ❤️ @dainesewien ❤️ 🤍 @sena_deutschland 🤍
+    location: "Austria"
+    followers: 75596
+    engagement: 547
+    commentsToLikes: 0.027839
+    id: ck8ta8kqyqueb0j787do1y126
+    verified: false
+    hashtags: "#love, #agv, #soback, #tflers"
   - username: "xchrisschmalzlockex"
     fullname: >-
       ⚡️xchrisschmalzlockex⚡️
     bio: >-
       •california dreamin • ⚡️choppers⚡️ • owner electric custom tattoos • • no crying • no sissy stuff • • vienna • 🦷
     location: "Austria"
-    followers: 14617
-    engagement: 317
-    commentsToLikes: 0.011750
+    followers: 14532
+    engagement: 319
+    commentsToLikes: 0.012452
     id: ck5cacngmd6dd0i11x2ab32gk
     verified: false
-    hashtags: "#neotradsub, #wien, #vienna, #iamink"
-  - username: "nina_glaser"
+    hashtags: "#forevertwowheels, #electriccustomtattoos, #boldlines, #finestquality"
+  - username: "nicolaasura"
     fullname: >-
-      Nina Glaser
+      Creatures & Surrealism
     bio: >-
-      Vienna 🇦🇹 TikTok: nina_glaser
+      Based in Graz, Austria tattoo@nicolaasura.com
     location: "Austria"
-    followers: 51238
-    engagement: 416
-    commentsToLikes: 0.089841
-    id: ck6ued5qvq86c0j71rkp1l8me
+    followers: 8176
+    engagement: 665
+    commentsToLikes: 0.018455
+    id: ck5qcx5xssrdo0i11iwhxihkt
     verified: false
-    hashtags: "#style, #goodmorning, #motivation, #photooftheday"
-  - username: "anatolknotek"
+    hashtags: ""
+  - username: "ninadelianin"
     fullname: >-
-      anatol knotek | artist & poet
+      Nina de Lianin
     bio: >-
-      artist and visual poet from vienna 🇦🇹 ➡️ @typewriterartist
+      Performing Artist - Singer - Awarded Actress- ‚Ambassadrice’ of M.T.Mugler. Muse for AURA. 🐣Belgrade,🏘Vienna&Berlin,✈️worldwide & beyond🌈#ninadelianin
     location: "Austria"
-    followers: 36592
-    engagement: 533
-    commentsToLikes: 0.013410
-    id: ck0u89k8y6vdx0i19btanlhzr
+    followers: 20258
+    engagement: 264
+    commentsToLikes: 0.045620
+    id: ck5q88rrs4zof0i11tps6w42j
     verified: false
-    hashtags: "#visuallanguage, #modernpoetry, #art, #artoftheday"
-  - username: "florianhausdorfer"
+    hashtags: "#portrait, #stylebible, #performer, #elegantstyle"
+  - username: "realdeethane"
     fullname: >-
-      ғʟᴏʀɪᴀɴ ʜᴀᴜsᴅᴏʀғᴇʀ
+      Damien Dante
     bio: >-
-      ~𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫𝐞𝐭𝐭𝐞 - 𝟐𝟎𝟏𝟗 🌹 ~ 📺 TV ~ ⚽️ Soccerplayer~ ~ 📸 #model DM~ ~🌏 #travel : -> #home ~📩 New Homepage 👈🏻 𝐃𝐢𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞𝐦𝐨𝐫𝐢𝐞𝐬, 𝐧𝐨𝐭 𝐝𝐫𝐞𝐚𝐦𝐬.
+      Artist 🎤|Caster🗣️|Streamer🎮| Album RESPAWN here 🔽
     location: "Austria"
-    followers: 29625
-    engagement: 582
-    commentsToLikes: 0.058479
-    id: ck0twvz0tgzhi0i19c2048t9n
+    followers: 45957
+    engagement: 1163
+    commentsToLikes: 0.005993
+    id: ck5zmejytmf970i140gjwslbt
     verified: false
-    hashtags: "#instagood, #germany, #together, #travel"
-  - username: "_yxssix"
-    fullname: >-
-      yasmin 🌻ॐ
-    bio: >-
-      ↠ free spirit ↞ do more of what lights your soul on fire🔥 🌱create • inspire • explore • be 🕉
-    location: "Austria"
-    followers: 49285
-    engagement: 142
-    commentsToLikes: 0.012472
-    id: ck55on2328p310i11b3q97nbh
-    verified: false
-    hashtags: "#loveyourself, #goodmorning, #livefit, #skinnylegs"
+    hashtags: "#tlupa, #letsgo, #music, #dog"
 ---

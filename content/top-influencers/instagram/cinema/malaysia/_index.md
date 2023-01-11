@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Malaysia in 2023
+title: Top 10 Cinema Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top cinema Instagram influencers in Malaysia in 2023. Most popular hashtags: #portrait #throwback #fashion #life.
+  Find top cinema Instagram influencers in Malaysia in 2023. Most popular hashtags: #cinema #love #stayhome.
 platform: Instagram
-hits: 19
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 19 Instagram influencers like this in Malaysia for you to connect with.
+hits: 11
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 11 Instagram influencers like this in Malaysia for you to contact.
 profiles:
-  - username: "khadim8657"
-    fullname: >-
-      Khadim Gaye
-    bio: >-
-      SENEGAL 🇸🇳🇸🇳/Dakar Khadim Gaye model Shooting/Défilé/Pub/Cinema Facebook / khadim gaye E-mail:Gkhadim440@gmail.com Whatshap +221///////
-    location: "Malaysia"
-    followers: 9232
-    engagement: 693
-    commentsToLikes: 0.041050
-    id: ck6txz0bk0oi90j71ihypp0h2
-    verified: false
-    hashtags: "#shooter, #black, #shooting, #passion"
   - username: "doniaabdelmaboud"
     fullname: >-
       D O N I A  ع M A B O U D
     bio: >-
       Egyptian cinema costume Designer،Stylist ،Look consultant, www.facebook/donia abd elmaboud
     location: "Malaysia"
-    followers: 58366
-    engagement: 182
-    commentsToLikes: 0.018757
+    followers: 58263
+    engagement: 155
+    commentsToLikes: 0.016823
     id: ck5hcghh1hycf0i11vmb5r5j3
     verified: false
-    hashtags: "#superstar, #photoshoot, #ramadan2020, #photoghrapher"
-  - username: "malluz_cinema"
-    fullname: >-
-      Mollywood Cinema Official Page
-    bio: >-
-      Dm for Paid Promotions & Collaborations Latest Malayalam Movie Review, Upcoming Films Releases/Trailers 🎬 Dm your Art Works/Talents! ❤ All Mallu's 📖
-    location: "Malaysia"
-    followers: 49819
-    engagement: 346
-    commentsToLikes: 0.003113
-    id: ck6uciblzfrte0j71fter0way
-    verified: false
-    hashtags: "#mohanlal, #tiktok, #arjun, #shanenigam"
-  - username: "travelwithpatrick"
-    fullname: >-
-      Patrick Watkins
-    bio: >-
-      Freelance Filmmaker | Traveller | FPV Pilot Let's work together 🙌 Business enquiries: info@patrickwatkins.com CLICK ME!👇
-    location: "Malaysia"
-    followers: 11129
-    engagement: 459
-    commentsToLikes: 0.168953
-    id: ck6u0scethh1f0j71ue62821x
-    verified: false
-    hashtags: "#wanderlust, #kwadlife, #staycreative, #dronevideo"
-  - username: "ryan.t9"
-    fullname: >-
-      Rʏᴀɴ.T
-    bio: >-
-      𝙏𝙖𝙞𝙬𝙖𝙣 𝙗𝙖𝙨𝙚𝙙 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧 / 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 DM for Cooperation．合作歡迎私訊或電郵 🇲🇾 ✈ 🇹🇼 @rt9.rt9
-    location: "Malaysia"
-    followers: 3080
-    engagement: 2380
-    commentsToLikes: 0.036691
-    id: ckaos4bl2q0mf0i78dndailpe
-    verified: false
-    hashtags: "#streetmobs, #citylife, #earthfocus, #cinematic"
+    hashtags: ""
   - username: "maniratnam_frames"
     fullname: >-
       Mani Ratnam frames
     bio: >-
-      Maniratnam Movies❤️ Facebook: maniratnam.frames Admin: @arunfacts YouTube Channel Name: Reply To Review YouTube Channel link is available below👇
+      Maniratnam Movies ❤️ Maniratnam Fans Page Admin: @arunfacts
     location: "Malaysia"
-    followers: 55756
-    engagement: 673
-    commentsToLikes: 0.004289
+    followers: 91959
+    engagement: 522
+    commentsToLikes: 0.003521
     id: ck8t8ge3rkdgu0j78qcyyr90k
     verified: false
-    hashtags: "#dulquersalmaan, #tamillovestatus, #kollycinema, #tamilsongs"
-  - username: "quetzalcoatl_st"
+    hashtags: "#kollywood, #indiancinema, #tamillovesongs, #maniratnam"
+  - username: "hana_xinyi"
     fullname: >-
-      Sebastián | Photography
+      Hana張心怡
     bio: >-
-      ❌ Travel and Portrait Photographer 🏋 @quetzalcoatl_7
+      #YOLO 🤍생존以上생활以下 @8fm881 #NA么十在 10AM-4PM On Air #announcer #radiodj #emcee #voiceover #talent YouTube: Hana心怡 Podcast/spotify : 聽說有讀 🎤📻🤿🧗‍♀️📒💜🍞🍳🍖🥘🍰☕️
     location: "Malaysia"
-    followers: 2561
-    engagement: 1274
-    commentsToLikes: 0.190432
-    id: ck6tmhdd67umk0j71ny4k5qn0
+    followers: 23642
+    engagement: 268
+    commentsToLikes: 0.047831
+    id: ckaordsxumrnb0i78d2bfdawr
     verified: false
-    hashtags: "#ccbtravels, #girly, #ccbports, #photo"
-  - username: "gladishchan"
+    hashtags: "#cafehopping, #onefm881, #stayhome, #ootd"
+  - username: "jasonvmedia"
     fullname: >-
-      Gladish Chan祤琹
+      Jason Vong
     bio: >-
-      🇲🇾Influencer |Youtuber| Lifestyle | Beauty | 🐶：@potatopoodle @steadydogdog 💼For job enquiry : gladishchan@gmail.com YouTube 祤琹Gladish YuQin
+      📸 Sony Alpha Hybrid Shooter 💁🏻 Traveling Camera YouTuber 👇 My Latest Videos Linked Here!
     location: "Malaysia"
-    followers: 309889
-    engagement: 531
-    commentsToLikes: 0.004931
-    id: ck6twwl8duijd0j71yu53142i
+    followers: 57331
+    engagement: 624
+    commentsToLikes: 0.022440
+    id: ck0ttnobt3ido0i192z8uuyzg
     verified: false
-    hashtags: "#klpjweddingfair, #shopeebrandsfestival, #hadalabo10thanniversary, #shopeemy"
-  - username: "mariannnela"
+    hashtags: "#sonya1, #tech, #camera, #videography"
+  - username: "samguw_bts"
     fullname: >-
-      MARIANNELA CATAÑO
+      Samguw_bts | Camera Gear
     bio: >-
-      🎭Actress & Tv host 📿Bikram, Ashtanga & Vinyasa lover 🧘🏻‍♀️Joyoga® founder @joyogamx 💻Youtube Content Creator #mexicanactress #dancer #yogini
+      Gear account of @samguw @canonmalaysia EOS Youth Ambassador @vaxisglobal ambassador Trying TikTok Poses for Portrait Photography 👇
     location: "Malaysia"
-    followers: 17292
-    engagement: 2058
-    commentsToLikes: 0.069782
-    id: ck5pvnw09isl90i11eydxy2uh
+    followers: 61921
+    engagement: 558
+    commentsToLikes: 0.008966
+    id: ck0w2896qn2zn0i19h0anb6hj
     verified: false
-    hashtags: "#cdmxlife, #mariannelacata, #reelsinstagram, #igersmexico"
-  - username: "yyongezz"
+    hashtags: "#canon1dxmarkiii, #eosyouthambassador, #canon5dmarkiv, #canonmalaysia"
+  - username: "rassamfeali"
+    fullname: >-
+      Rassam Feali ™️
+    bio: >-
+      Award winner #photographer & #filmmaker #visualartist Co-founder 👉@un1que.leather👈 👇🏼My recent video project "Momentary"
+    location: "Malaysia"
+    followers: 38290
+    engagement: 62
+    commentsToLikes: 0.032332
+    id: ck5zu83291v1i0i140zdklmu9
+    verified: false
+    hashtags: "#anniversary, #life, #love, #nowruz"
+  - username: "winniesquare"
+    fullname: >-
+      鄭 婕彤 square
+    bio: >-
+      粉絲團搜尋： 正方形鄭婕彤 工作邀約信箱：winnie52315@hotmail.com 我的穿搭點這裡❤️： @mini__square
+    location: "Malaysia"
+    followers: 121608
+    engagement: 185
+    commentsToLikes: 0.005976
+    id: ck55mlgrj48970i11evnc12fa
+    verified: false
+    hashtags: "#vemarootd, #charleskeith, #imwithcharleskeith, #vemartw"
+  - username: "pangestu5410"
+    fullname: >-
+      Eko Budi Pangestu
+    bio: >-
+      Assalammualaikum 😝 tim review newbie:v FOLLBACK? DM . . Wa 0895321245214 Footage ngoyod malam KUPU KUPU AYU BEKASI @official_shadowemperor
+    location: "Malaysia"
+    followers: 14277
+    engagement: 662
+    commentsToLikes: 0.018370
+    id: ck6u8ucy6tqg60j71h54bgc32
+    verified: false
+    hashtags: "#kupukupuayu, #20thneko, #lfl, #sudirotunggajayafans"
+  - username: "soff.eaa"
     fullname: >-
       
     bio: >-
-      22 | Degree In Business Administration | BKI son of @zkdlin 🐻 @twicetagram 🍭 DM FOR STORY / GIFT REVIEW 📩
+      
     location: "Malaysia"
-    followers: 28071
-    engagement: 483
-    commentsToLikes: 0.022933
-    id: ck14jo0xelbjx0i19xnnow2gj
+    followers: 464
+    engagement: 89687
+    commentsToLikes: 0.013645
+    id: ck8t67zw0clj00j78oa11ckos
     verified: false
-    hashtags: "#dynamite, #dontforgetmask, #blackpink, #ootd"
+    hashtags: "#jiwangkarat, #kinemasteredits, #jiwangsedih, #jiwangvideo"
+  - username: "yuszulkifli"
+    fullname: >-
+      Yus Zulkifli 🇲🇾
+    bio: >-
+      Content Creator • Makeup Artist • Photographer/Videographer/Editor • Paid Review • contact/bookings: ⤵️
+    location: "Malaysia"
+    followers: 21896
+    engagement: 558
+    commentsToLikes: 0.086172
+    id: ck13a30pzodsi0i19ip6oqeom
+    verified: false
+    hashtags: "#profiltrpowderfoundation, #kendallxkylie, #sophiathefirst, #melastikkehatimu"
 ---

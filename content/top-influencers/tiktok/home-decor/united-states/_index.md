@@ -1,36 +1,36 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In United States in 2023
+title: Top 10 Home Decor TikTok Influencers In United States In 2023
 description: >-
-  Find top home decor TikTok influencers in United States in 2023. Most popular hashtags: #homedecor #fyp #keepingitcute #greenscreen.
+  Find top home decor TikTok influencers in United States in 2023. Most popular hashtags: #homedecor #fyp #kolors #tiktokartists.
 platform: TikTok
-hits: 1473
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 1473 TikTok influencers like this in United States for you to work with.
+hits: 1070
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 1070 TikTok influencers like this in United States for you to work with.
 profiles:
+  - username: "jessiethomasdesigns"
+    fullname: >-
+      DIY & Design
+    bio: >-
+      🌷Everything Home🌷 DIY’s•HomeDecor•Garden Shop my TikTok videos below ⬇️
+    location: "United States"
+    followers: 40200
+    engagement: 317
+    commentsToLikes: 0.107724
+    id: ckb9j7spiacq80j23qrxld8wr
+    verified: false
+    hashtags: "#designedtobestuckup, #kitchendesign, #over30, #yesdaychallenge"
   - username: "naztazia"
     fullname: >-
       Naztazia
     bio: >-
       Donna & Sarah from Naztazia #DIY #crafts #homedecor #recipes #beauty #tutorials
     location: "United States"
-    followers: 7964
-    engagement: 962
-    commentsToLikes: 0.020113
+    followers: 8354
+    engagement: 963
+    commentsToLikes: 0.021178
     id: ckd0fri5ydugq0j23pak1935n
     verified: false
-    hashtags: "#diy, #tiktokpartner, #crafty, #summerdiy"
-  - username: "jessiethomasdesigns"
-    fullname: >-
-      DIY & Design
-    bio: >-
-      🌷Everything Home🌷 DIY’s•HomeDecor•Garden To shop my home clink the link below
-    location: "United States"
-    followers: 26900
-    engagement: 459
-    commentsToLikes: 0.045099
-    id: ckb9j7spiacq80j23qrxld8wr
-    verified: false
-    hashtags: "#beforeandafter, #halloweendecorations, #halloween2020, #halloweencountdown"
+    hashtags: "#crafty, #yarn, #summerdiy, #learnontiktok"
   - username: "summerx._.cloudy"
     fullname: >-
       25k Loading.........
@@ -42,79 +42,43 @@ profiles:
     commentsToLikes: 0.419208
     id: ckbqkkx6y5n990j23hw4tlvs5
     verified: false
-    hashtags: "#kolors, #upcycling, #plantlover, #safeguardsplash"
-  - username: "gingabreadman"
-    fullname: >-
-      Alex McBeath
-    bio: >-
-      Level 27. I Love making people laugh and sharing the love. CEO of Personality!!!
-    location: "United States"
-    followers: 6370
-    engagement: 2836
-    commentsToLikes: 0.149362
-    id: ckbazfwinpt4i0j23y2n27tpo
-    verified: false
-    hashtags: "#snoozzzapalooza, #workoutplan, #rags2riches, #miraclecurlschallenge"
-  - username: "ssilvershadess"
-    fullname: >-
-      🧸
-    bio: >-
-      yes.
-    location: "United States"
-    followers: 16400
-    engagement: 2571
-    commentsToLikes: 0.069189
-    id: cka7rfv8veqov0i78qf33ct3p
-    verified: false
-    hashtags: "#timewarpscan, #xyzbca, #homedecor, #doitbold"
+    hashtags: "#xyzbca, #fyp, #zoe, #healthyliving"
   - username: "laminar.art"
     fullname: >-
       Laminar Art
     bio: >-
       Underrated paint waster. 10k? Venmo: laminar-art
     location: "United States"
-    followers: 10700
-    engagement: 2856
-    commentsToLikes: 0.056771
+    followers: 10400
+    engagement: 2482
+    commentsToLikes: 0.048613
     id: ckb0m22t5cm560j23ax7hof68
     verified: false
-    hashtags: "#artforsale, #myart, #springdiy, #tiktokartists"
-  - username: "diesel_micah"
+    hashtags: "#artforsale, #trevorproject, #rainbow, #artist"
+  - username: "recyclingrandy"
     fullname: >-
-      𓀐DIESEL MICAH𓂸
+      Randy James
     bio: >-
-      @kylesimps4.0 & @bricknermon biggest fan h😃😃 snap: briarthompson93
+      Guess who’s back!? Account was hacked/banned for 3 weeks! Back with more content
     location: "United States"
-    followers: 9697
-    engagement: 1748
-    commentsToLikes: 0.131985
-    id: ckbwinr6o3csx0j23m6vby1tx
+    followers: 79200
+    engagement: 1784
+    commentsToLikes: 0.078674
+    id: ck81qyg6fky730j78kx9ipiqh
     verified: false
-    hashtags: "#summerofgaming, #artskills, #walmart2hrexpress, #foryou"
-  - username: "mattamations"
+    hashtags: "#dapper, #teacher, #bowtie, #recycle"
+  - username: "andycodispoti1"
     fullname: >-
-      Matt
+      Andy Codispoti
     bio: >-
-      main @mattm20 I have a server now https://discord.gg/J9veHnV Commissions open✅
+      19 📍NY/CT Venmo: @Andy-Codispoti🙏🏻
     location: "United States"
-    followers: 46100
-    engagement: 1621
-    commentsToLikes: 0.315072
-    id: ckbqk64zq5bxw0j23jnhmqsp8
+    followers: 56600
+    engagement: 1877
+    commentsToLikes: 0.065899
+    id: ck9nquk0g5hia0j780s3bti6b
     verified: false
-    hashtags: "#fun, #foryou, #procreateart, #boredinthehouse"
-  - username: "spikemuthpunk"
-    fullname: >-
-      Vic
-    bio: >-
-      formally HoosierMic ⚠️16+⚠️ Vic - They/Them - 26
-    location: "United States"
-    followers: 7133
-    engagement: 2418
-    commentsToLikes: 0.039383
-    id: ckbbdo83k2jci0j23yxod1kdk
-    verified: false
-    hashtags: "#allmight, #endeavor, #bnha, #keepingitcute"
+    hashtags: "#fyp, #tiktokartists, #homedecor, #xyzbca"
   - username: "ur.spookygf"
     fullname: >-
       waifu
@@ -126,5 +90,41 @@ profiles:
     commentsToLikes: 0.027238
     id: ck9kbh4xyl4wx0j78szpuawsm
     verified: false
-    hashtags: "#duet, #greenscreen, #tiktokbrushes, #fyp"
+    hashtags: "#tiktokbrushes, #duet, #greenscreen, #safeguardsplash"
+  - username: "hoohome"
+    fullname: >-
+      hoohome
+    bio: >-
+      👉👉Follow me iNknyp ✉️fxhhkioy@gmail.com ins:hoohome2
+    location: "United States"
+    followers: 593900
+    engagement: 1379
+    commentsToLikes: 0.047266
+    id: ckcjcgmpc9gyb0j237ao7mqzi
+    verified: false
+    hashtags: "#girls, #interiordesign, #home, #tiktok"
+  - username: "hoosiermic"
+    fullname: >-
+      Vic
+    bio: >-
+      I'll make content again someday ⚠️16+⚠️ Vic - They/Them - 26
+    location: "United States"
+    followers: 7109
+    engagement: 2347
+    commentsToLikes: 0.054714
+    id: ckbbdo83k2jci0j23yxod1kdk
+    verified: false
+    hashtags: "#keepingitcute, #fyp, #bnha, #allmight"
+  - username: "mr.hollywood77"
+    fullname: >-
+      RichiebeingRitchie
+    bio: >-
+      MrHollyWood 🕶🤩🎬📽🎆 #entertainer #comic #18andolder #lovableguy #jusmebeingme
+    location: "United States"
+    followers: 7298
+    engagement: 1138
+    commentsToLikes: 0.178961
+    id: ckae7c54ygh8w0i786ddtpbwc
+    verified: false
+    hashtags: "#curlscheck, #workoutplan, #findyoursexy, #notatiktokdancer"
 ---

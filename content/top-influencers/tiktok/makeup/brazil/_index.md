@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Brazil in 2023
+title: Top 10 Makeup TikTok Influencers In Brazil In 2023
 description: >-
-  Find top makeup TikTok influencers in Brazil in 2023. Most popular hashtags: #makeup #maquiagem #halloween #fyp.
+  Find top makeup TikTok influencers in Brazil in 2023. Most popular hashtags: #makeup #fyp #dueto.
 platform: TikTok
-hits: 439
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database has 439 TikTok influencers like this in Brazil for you to work with.
+hits: 383
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 383 TikTok influencers like this in Brazil for you to connect with.
 profiles:
   - username: "laura_satake"
     fullname: >-
-      >Lah<
+      Laura♡Fleur♡Atena
     bio: >-
-      Olá!!》ela/dela 📚Bookstan📚 💄Makeup💄 ✨SPAM DE LIKE=BLOCK✨ Obrigada pelos 10k🥰
+      Olá!!》ela/dela 📚Bookstan📚 💄Makeup💄 ✨SPAM DE LIKE=BLOCK✨ Obrigada pelos 13k🥰
     location: "Brazil"
-    followers: 10100
-    engagement: 2941
-    commentsToLikes: 0.121356
+    followers: 13100
+    engagement: 2226
+    commentsToLikes: 0.078531
     id: ckc1u643zyews0j23b6yt8o1r
     verified: false
-    hashtags: "#makeup, #jatp, #maquiagem, #pov"
-  - username: "canassavictor"
+    hashtags: "#atena, #pjo, #laurasatake, #chale6"
+  - username: "lexisz.h"
     fullname: >-
-      Victor Canassa
+      Lexisz
     bio: >-
-      Makeup artist/ Singer Insta: @canassavictor Contato: vicanassa09@gmail.com
+      Me segue no insta ⬆️ Tentando voltar para plataforma Makeup | cosplay | cosmaker
     location: "Brazil"
-    followers: 82800
-    engagement: 2615
-    commentsToLikes: 0.026098
-    id: ckcps74rjmbpf0j23946vmcb1
+    followers: 52800
+    engagement: 2263
+    commentsToLikes: 0.037507
+    id: ck9rnyk009w800j789q38zy5a
     verified: false
-    hashtags: "#makeup, #maquiagem, #maquiagemartistica, #make"
+    hashtags: "#dueto, #onepiececosplay, #ymircosplay, #shingekinokyojin"
   - username: "janataffarel"
     fullname: >-
       Janaina Taffarel
     bio: >-
       Beauty • Makeup INSTA: @janataffarel
     location: "Brazil"
-    followers: 216500
-    engagement: 2027
-    commentsToLikes: 0.016187
+    followers: 351400
+    engagement: 1722
+    commentsToLikes: 0.012760
     id: ck9aa7cocje4e0j78dxyx5vpg
     verified: true
-    hashtags: "#foryou, #beauty, #makeup, #fakenails"
-  - username: "bertamakes"
-    fullname: >-
-      O BERTA
-    bio: >-
-      FREE FIRE COSPLAY - MAKEUP ARTIST - GAMER - - SÓ BALA NA CAÇAPA - MUSER 💓
-    location: "Brazil"
-    followers: 2200000
-    engagement: 1595
-    commentsToLikes: 0.023282
-    id: ckbwfdm4s1yuy0j23ttzilegg
-    verified: true
-    hashtags: "#freefire, #ads, #fusioninfluencers, #paid"
-  - username: "wiilliamfurtado"
-    fullname: >-
-      William Furtado
-    bio: >-
-      Makeup artist ✨ Brasil IG: @wiilliamfurtado
-    location: "Brazil"
-    followers: 63600
-    engagement: 1949
-    commentsToLikes: 0.037758
-    id: ckbf45s0ysctw0j23gzman7zb
-    verified: false
-    hashtags: "#maquiagem, #makeup, #halloween, #makeupchallenge"
+    hashtags: "#quandoogravebateforte, #moleca, #beauty, #eyeliner"
   - username: "celia_ding"
     fullname: >-
       Célia Ding
     bio: >-
       {Dancer}•{Makeup Artist} Kpop💜 Intagram: @celia_ding 🇧🇷🇨🇳
     location: "Brazil"
-    followers: 10300
-    engagement: 1675
-    commentsToLikes: 0.034841
+    followers: 11600
+    engagement: 1827
+    commentsToLikes: 0.047765
     id: ckan56k14dh8u0i788miohvt4
     verified: false
-    hashtags: "#blackpink, #icecream, #dance, #lovesickgirls"
+    hashtags: "#dancechallenge, #kpop, #dance, #fyp"
+  - username: "letixiamaria"
+    fullname: >-
+      letixia
+    bio: >-
+      23 • ela/her • spam de like = block ✨ povs | makeup | cosplay’s ✨ 💖💜💙
+    location: "Brazil"
+    followers: 484800
+    engagement: 2447
+    commentsToLikes: 0.019469
+    id: ck8w1qemi2sb20j784dd1hjle
+    verified: false
+    hashtags: "#fyp, #paravoc, #fy, #makeup"
   - username: "jahdeborg"
     fullname: >-
       Jahde Borg
     bio: >-
       🤡Cosplay 💄MakeUp ✈️Vlogg 🇧🇷Brazilian 📸 insta: jahde.borg
     location: "Brazil"
-    followers: 762400
-    engagement: 1687
-    commentsToLikes: 0.010964
+    followers: 1500000
+    engagement: 1497
+    commentsToLikes: 0.011438
     id: ck8sf16o7m9xz0j78sv7tzf67
     verified: true
-    hashtags: "#halloween, #blackwidow, #maquiagem, #makeupartist"
+    hashtags: "#tutorial, #wizzplace, #comedia, #danca"
   - username: "leticiafgomes"
     fullname: >-
       Letícia Gomes
     bio: >-
       💋 Makeup Artist 📷 IG: @leticiafgomes 💌 leticiafgomes@viralnation.com
     location: "Brazil"
-    followers: 5800000
-    engagement: 1826
-    commentsToLikes: 0.006788
+    followers: 6500000
+    engagement: 1420
+    commentsToLikes: 0.010002
     id: ck80cry2oavmj0j78xhd58r4s
     verified: true
-    hashtags: "#dueto, #devilsnoutv, #euusoeico, #madatdisney"
+    hashtags: "#house, #ad, #hidratecomclinique, #juliettefreire"
   - username: "anarema4"
     fullname: >-
       ANA REMA
     bio: >-
       📲CRIADORA DE CONTEÚDO 💄MAKEUP ARTIST: @anarema4
     location: "Brazil"
-    followers: 70400
-    engagement: 2145
-    commentsToLikes: 0.018623
+    followers: 69800
+    engagement: 1854
+    commentsToLikes: 0.017435
     id: ck8qm5a4xoir70j78nqb6rt0m
     verified: false
-    hashtags: "#pregui, #fy, #seguidores, #live"
-  - username: "carolgruman"
+    hashtags: "#efeitosdevoz, #bomdia, #foodporn, #italianfood"
+  - username: "renatasantti"
     fullname: >-
-      Caroline Gruman
+      Renata Santti
     bio: >-
-      São Paulo, SP, Brazil 🇧🇷 makeup lover❤️ meta: 15k
+      makeup | beauty ✨ me segue no inst4 @renatasantti ✨
     location: "Brazil"
-    followers: 13800
-    engagement: 1725
-    commentsToLikes: 0.047964
-    id: ck9nh7yk6frss0j780pqisenq
+    followers: 538600
+    engagement: 2043
+    commentsToLikes: 0.019271
+    id: ck9jx0qafyr8a0j78drmv1hyr
+    verified: true
+    hashtags: "#clown, #fyp, #kaguyaootsutsuki, #makeup"
+  - username: "aninha_makeuppp"
+    fullname: >-
+      Aninha 💖
+    bio: >-
+      Maquiadora teen Um pouco de mim 💞 Instagram: @aninha_makeuppp
+    location: "Brazil"
+    followers: 13400
+    engagement: 1479
+    commentsToLikes: 0.011873
+    id: ck8w25syy4ac20j78dmro9qrl
     verified: false
-    hashtags: "#wonder, #makeup, #comedy, #fyp"
+    hashtags: "#foryou, #fy, #fyp, #makeup"
 ---

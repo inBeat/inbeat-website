@@ -1,48 +1,36 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Ireland in 2023
+title: Top 10 Beauty TikTok Influencers In Ireland In 2023
 description: >-
-  Find top beauty TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryou #foryoupage #beauty.
+  Find top beauty TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryou #viral #ireland.
 platform: TikTok
-hits: 32
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 32 TikTok influencers like this in Ireland for you to work with.
+hits: 29
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 29 TikTok influencers like this in Ireland for you to connect with.
 profiles:
+  - username: "keilidhmua"
+    fullname: >-
+      KeilidhMua
+    bio: >-
+      Oh hello there Follow my insta for more makeup stuff ✌🏼☘️
+    location: "Ireland"
+    followers: 2800000
+    engagement: 1899
+    commentsToLikes: 0.005798
+    id: ck8aebrekbmvr0j78gxh6a0ew
+    verified: true
+    hashtags: "#beautyroutine, #makeup, #stitch, #transformation"
   - username: "slickprotect"
     fullname: >-
       Slickprotect 
     bio: >-
       The best phone case money can buy ✅🔥 Shop at Slickprotect.com
     location: "Ireland"
-    followers: 25600
-    engagement: 1321
-    commentsToLikes: 0.042313
+    followers: 25300
+    engagement: 1078
+    commentsToLikes: 0.029343
     id: ck921wo9ajzg30j78almmtlhq
     verified: false
-    hashtags: "#fyp, #phonecase, #lighting, #makeup"
-  - username: "makeupbyjade_1"
-    fullname: >-
-      Jade Foley
-    bio: >-
-      THANK YOU GUYS SM FOR 40K!! 💌: jadefoley10253@gmail.com
-    location: "Ireland"
-    followers: 40100
-    engagement: 1829
-    commentsToLikes: 0.019212
-    id: ckb0n0rxoddtd0j23lh4b6uv9
-    verified: false
-    hashtags: "#beauty, #mua, #makeupartist, #transformation"
-  - username: "wolfieroe34"
-    fullname: >-
-      Luke Roe 💙💙
-    bio: >-
-      21 Irish boi 🇮🇪 Just a goofball 🤪 I have Aspergers 💚 18+ only, NO SPAMMING!
-    location: "Ireland"
-    followers: 197400
-    engagement: 2465
-    commentsToLikes: 0.059280
-    id: ck9flloafoipg0j78ffe4x53j
-    verified: false
-    hashtags: "#himbo, #tkn, #fyp, #bass"
+    hashtags: "#fyp, #ringlight, #explore, #makeup"
   - username: "yodatheberneseking"
     fullname: >-
       YODATHEBERNESEKING
@@ -54,31 +42,31 @@ profiles:
     commentsToLikes: 0.156274
     id: ckc3epg6o0g220j23eci79e1t
     verified: false
-    hashtags: "#bernesemountaindog, #bmd, #besties, #viral"
-  - username: "wish"
+    hashtags: "#bernesemountaindog, #petsoftiktok, #fyp, #timefortenet"
+  - username: "deanoke"
     fullname: >-
-      Wish
+      Dean Oke
     bio: >-
-      🛍️ Shopping made safe! 🛍 #GiveThanksWithWish & You Could Win 1K in Wish Cash
+      Love Jesus, Irish, Positivity ❤️❤️✝️ Road to 20k 22
     location: "Ireland"
-    followers: 347800
-    engagement: 1504
-    commentsToLikes: 0.036402
-    id: ckb0z66hnnx680j23e03f0s0y
-    verified: true
-    hashtags: "#retailtherapy, #mycostume, #hellofall, #halloween"
-  - username: "jlee_x"
-    fullname: >-
-      Jennifer Lee
-    bio: >-
-      🦋irish | bi🦋 ✨dm me on insta- JL3ee✨ 🎥NEW YOUTUBE VID LINKED🎥
-    location: "Ireland"
-    followers: 23000
-    engagement: 1173
-    commentsToLikes: 0.062254
-    id: ck9fllfmuogjl0j78f3f5z1hq
+    followers: 21900
+    engagement: 1408
+    commentsToLikes: 0.143406
+    id: ckdhpluyt1efr0j23gmjte3ld
     verified: false
-    hashtags: "#ratethings, #comedy, #morethanwords, #instagram"
+    hashtags: "#ireland, #bringtheaction, #fyp, #pictureday"
+  - username: "_thomaslennon"
+    fullname: >-
+      Thomas Lennon
+    bio: >-
+      Check my website for all my photography and produced music / videos 🎧🎶📷🎥
+    location: "Ireland"
+    followers: 50800
+    engagement: 1275
+    commentsToLikes: 0.079892
+    id: ck8f8virg3mfi0j78m473e3uu
+    verified: false
+    hashtags: "#space, #funny, #art, #fyp"
   - username: "darrenglynn"
     fullname: >-
       Darren Glynn
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.074031
     id: cka6mwmvk91ja0i7888hcbh0u
     verified: false
-    hashtags: "#igetupagain, #positiveenergychallenge, #duet, #eurotiktoks"
+    hashtags: "#heapsofhappy, #igetupagagain, #fyp, #duet"
+  - username: "makeupbyjade_1"
+    fullname: >-
+      Jade Foley
+    bio: >-
+      a MUA/Model who’s a bit of a gomie 🤌🏽 💌: hello@collabagency.com
+    location: "Ireland"
+    followers: 61900
+    engagement: 1766
+    commentsToLikes: 0.016814
+    id: ckb0n0rxoddtd0j23lh4b6uv9
+    verified: false
+    hashtags: "#foryou, #haul, #mua, #fyp"
+  - username: "sr_official_12"
+    fullname: >-
+      👑🇵🇰sr🇮🇪👑
+    bio: >-
+      🦋𝓕𝓸𝓵𝓵𝓸𝔀 𝔂𝓸𝓾𝓻 𝓭𝓻𝓮𝓪𝓶𝓼 👑 🖤🤍
+    location: "Ireland"
+    followers: 46100
+    engagement: 866
+    commentsToLikes: 0.054466
+    id: ck83z8guiyml70j78dhmhz3lc
+    verified: false
+    hashtags: "#viral, #snow, #2021, #khudaaurmohabbat"
   - username: "thegorillabiker"
     fullname: >-
       thegorillabiker
     bio: >-
       Full videos on YouTube and pictures on instagram. All clips are old. V4 is life
     location: "Ireland"
-    followers: 2486
-    engagement: 779
-    commentsToLikes: 0.080709
+    followers: 2452
+    engagement: 794
+    commentsToLikes: 0.071966
     id: ckcj75oir6j8r0j23bqp2ummg
     verified: false
-    hashtags: "#education, #america, #irish, #history"
-  - username: "maurahiggins"
+    hashtags: "#honda, #speed, #motorcycle, #fyp"
+  - username: "itscook.ie"
     fullname: >-
-      MauraHiggins
+      Jordan Brown
     bio: >-
-      Management @off_limits_ent Contact: rossella@offlimitsentertainment.com
+      ✨Depressed and stressed✨ Jay 21 🏳️‍🌈🇮🇪 CEO of ADHD Live on cookiebeebae
     location: "Ireland"
-    followers: 671100
-    engagement: 1038
-    commentsToLikes: 0.007796
-    id: ckb16ci5wtry20j23agqcil08
-    verified: true
-    hashtags: "#foryoupage, #fyp, #lockdown, #foryou"
-  - username: "fkv.ie"
-    fullname: >-
-      FKV
-    bio: >-
-      SUBSCRIBE TO US ON YOUTUBE https://www.youtube.com/channel/
-    location: "Ireland"
-    followers: 44600
-    engagement: 802
-    commentsToLikes: 0.008951
-    id: ckcelbx8kv3st0j23q6brxb90
+    followers: 200100
+    engagement: 1173
+    commentsToLikes: 0.011813
+    id: ck9fpaluu6eda0j78gsk9rler
     verified: false
-    hashtags: "#trynottolaugh, #peppapig, #fyp, #frozen2"
+    hashtags: "#disney, #duet, #deathnote, #anime"
 ---

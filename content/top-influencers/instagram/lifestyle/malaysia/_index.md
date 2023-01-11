@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Malaysia in 2023
+title: Top 10 Lifestyle Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Malaysia in 2023. Most popular hashtags: #ootd #holiday #sudio.
+  Find top lifestyle Instagram influencers in Malaysia in 2023. Most popular hashtags: #airspacemalaysia #beauty #tanned.
 platform: Instagram
-hits: 111
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 111 Instagram influencers like this in Malaysia for you to work with.
+hits: 74
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 74 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
-  - username: "fishyfished"
+  - username: "yixuenn_travellife"
     fullname: >-
-      F I S H Y | MIR ⚜️ 創辦人
+      Y I X U E N
     bio: >-
-      TRAVEL / LIFESTYLE / FASHION 🌸💖 : 💍👰🏻 to @iamzeanlim #zeanfishytravels : 🍰 @keikeu.studio | ⚜️ @miracle.group_official : 💌 fishyfished@gmail.com
+      Travel & Lifestyle 🤿 SCUBA DIVER | FREEDIVER | MERMAID🧜🏻‍♀️ 🌍 @yixuenn_freedive 📕小红书: yixuenn_travellife DM for sponsorship/events/collab
     location: "Malaysia"
-    followers: 7155
-    engagement: 836
-    commentsToLikes: 0.110737
-    id: ck0w0bgq0dcxi0i19xlwjcp38
+    followers: 34052
+    engagement: 70
+    commentsToLikes: 0.029388
+    id: ck9haaripbtpg0j78xe6xqf99
     verified: false
-    hashtags: "#sudiomoments, #sudio, #zeanfishytravels, #hylt"
-  - username: "a.helmiy"
+    hashtags: "#travelphotography, #scubadiver, #bikini, #christmas"
+  - username: "sellysherwin"
     fullname: >-
-      Helmiy
+      Selly Sherwin
     bio: >-
-      ⦿ Lifestyle | Fitness | Travel ⦿ Email or DM for Collab | Photoshoot 📸 . ↓ Sudio 🇸🇪 ↓
+      #TravellyDiary #OutfitLly Woman Lifestyle •Tiktok [170k] & Youtube [42k]:sellysherwin •📍SBY Inquiries 📩DM/Sherwinselly@gmail.com ⤹ Link Product & New🎥
     location: "Malaysia"
-    followers: 16876
-    engagement: 802
-    commentsToLikes: 0.033709
-    id: ck0w5h7td3muv0i19xmzsjf0d
+    followers: 81600
+    engagement: 44
+    commentsToLikes: 0.063610
+    id: ck5chnw8sr4qg0i11jvod24bm
     verified: false
-    hashtags: "#smile, #fashion, #foodporn, #happy"
-  - username: "rafzantomomi"
-    fullname: >-
-      MOMI
-    bio: >-
-      Rafzan Tomomi Malaysia's Lifestyle Blogger / Content Creator Ads or review, please DM 🌼 new hobby : 📸 #momisawitbefore Blog : www.rafzantomomi.com
-    location: "Malaysia"
-    followers: 22175
-    engagement: 281
-    commentsToLikes: 0.091210
-    id: ck5q81fvm412g0i1113002yxr
-    verified: false
-    hashtags: "#bringbackmemories, #makansamasama, #momisawitbefore, #ayamasroasters"
+    hashtags: "#racunlly, #charisceleb, #promogopay, #wondelfullindonesia"
   - username: "ohmykaylagirl_k"
     fullname: >-
       K A Y L A💋
     bio: >-
-      ✈️ Airasia Brand Ambassador 🎥 TV Host channel 5 Influencer Travel | Lifestyle | Beauty | Fashion 📩 DM > For Work
+      ✈️ Airasia Brand Ambassador 💸 Entrepreneur Travel | Lifestyle | Business **Living my best everyday life😉🇨🇭**
     location: "Malaysia"
-    followers: 38068
-    engagement: 355
-    commentsToLikes: 0.039907
+    followers: 40502
+    engagement: 361
+    commentsToLikes: 0.027983
     id: ck9ha754wbfqe0j781ij27o2e
     verified: false
-    hashtags: "#flightattendantlife, #lifestyle, #aviationlovers, #style"
+    hashtags: "#airasia, #flightattendant, #bangkoklife, #beauty"
   - username: "kirtanraj"
     fullname: >-
       Kirtanraj 💀
     bio: >-
-      Creating Something ⚡️ @myproteinmy athlete // fitness & lifestyle // kindness TikTok : kirtanrajfitness New VLOG! Meet my assistant 👀👇🏽
+      Creating Something ⚡️ @myproteinmy athlete // fitness & lifestyle // kindness TikTok : kirtanrajfitness Online coaching / YouTube / MyProtein 👇🏽
     location: "Malaysia"
-    followers: 23346
-    engagement: 1322
-    commentsToLikes: 0.014284
+    followers: 29648
+    engagement: 921
+    commentsToLikes: 0.012064
     id: ck6u83d2kp76j0j71cpuan8ab
     verified: false
-    hashtags: "#teamnocalves, #km4l, #fitness, #myprotein"
-  - username: "lucaseelau"
-    fullname: >-
-      𝐋𝐔𝐂𝐀𝐒 𝐋𝐀𝐔 💎
-    bio: >-
-      FASHION | BEAUTY | LIFESTYLE 📍Malaysia 📩woon_kiet@hotmail.com
-    location: "Malaysia"
-    followers: 73108
-    engagement: 302
-    commentsToLikes: 0.032591
-    id: ck0vx427zx1ip0i19drfybimk
-    verified: false
-    hashtags: "#karllagerfeld, #powerposechallenge, #marvelmy, #archiluxurygroup"
-  - username: "icebabby"
-    fullname: >-
-      Angel Tee (Yun Xun) 郑筠薰
-    bio: >-
-      🇲🇾Lifestyle #socialmedia Sharing Crowdfunding Entrepreneur 📩xiiaoice0515@hotmail.com
-    location: "Malaysia"
-    followers: 127408
-    engagement: 83
-    commentsToLikes: 0.061711
-    id: ck9wejrhbkkuc0j7895iuzwcd
-    verified: false
-    hashtags: "#12, #kol, #as, #airspace"
-  - username: "andreayingg"
-    fullname: >-
-      Andrea Tan
-    bio: >-
-      🇲🇾🇸🇬 Lifestyle • Travel I do lashes @byandreayingg 🌼 DM/💌 for collab: andreayingg@gmail.com #andreayinggtravels ☁️
-    location: "Malaysia"
-    followers: 31679
-    engagement: 332
-    commentsToLikes: 0.027310
-    id: ckf5n9h01x9wp0j23qmtrsw6h
-    verified: false
-    hashtags: "#ocglowsquad, #ocmoisturemiracle, #onecarefamily, #youthbeautyhealth"
-  - username: "tachichosz"
-    fullname: >-
-      Atasha A.
-    bio: >-
-      @facetheory DISC 20% (BBTACHICHOSZ) Constantly hungry. TRAVEL • LIFESTYLE • FOOD •🐈 📍KL, Malaysia 🇲🇾
-    location: "Malaysia"
-    followers: 40163
-    engagement: 538
-    commentsToLikes: 0.067594
-    id: ckf5ofhp021w30j23rzue25qx
-    verified: false
-    hashtags: "#timeoutlisbon, #inspo, #agameoftones, #sheisnotlost"
+    hashtags: "#tiktok, #km4l, #fitness, #fatloss"
   - username: "blogitwithaqsa_"
     fullname: >-
       ✨ AQSA ALI ✨
     bio: >-
       🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
     location: "Malaysia"
-    followers: 25742
-    engagement: 166
-    commentsToLikes: 0.059595
+    followers: 25338
+    engagement: 185
+    commentsToLikes: 0.078883
     id: ck0vxl3nmzfk80i19bvk8axkb
     verified: false
-    hashtags: "#muharram1442"
+    hashtags: ""
+  - username: "jeschuhan"
+    fullname: >-
+      Jes楚涵🍀
+    bio: >-
+      Slashie 斜杠族 👉lifestyle | fitness | beauty | fashion 👉@jes_room 👉电商 @mayandzymes core partner | Jes Team. Leader | 👉ACCA certified | Igcse tutor
+    location: "Malaysia"
+    followers: 26783
+    engagement: 328
+    commentsToLikes: 0.039495
+    id: ckap2834axs9o0i78q5pv2mze
+    verified: false
+    hashtags: "#sp, #bepositive, #mco2021, #cnyootd2021"
+  - username: "icebabby"
+    fullname: >-
+      icebabby
+    bio: >-
+      🇲🇾Lifestyle #socialmedia Sharing 💡Crowdfunding Entrepreneur 📕Social media marketing 📝Digital marketing (SEO services) 📩xiiaoice0515@hotmail.com
+    location: "Malaysia"
+    followers: 131041
+    engagement: 67
+    commentsToLikes: 0.052158
+    id: ck9wejrhbkkuc0j7895iuzwcd
+    verified: false
+    hashtags: "#promocode, #ootd, #as, #airspace"
+  - username: "brittanyjohnson_xoxo"
+    fullname: >-
+      B R I T T A N Y J O H N S O N
+    bio: >-
+      Sharing my life: raw motherhood + lifestyle 🌸 Owner: 🖤 @thehandeboutique TIKTOK/YT: 175K BESTIES ✨ Balance + WW GREEN 💚 -35lbs IN 🦋 BUT GOD 🙌🏼
+    location: "Malaysia"
+    followers: 18820
+    engagement: 260
+    commentsToLikes: 0.049212
+    id: ck9we4084ihev0j78i49eomg7
+    verified: false
+    hashtags: "#boutiquefashion, #mondaymotivation, #weightlosstransformation, #sahm"
+  - username: "alfredchia"
+    fullname: >-
+      Alfred chia
+    bio: >-
+      •KUL / PEN •MY 📍 •Travel || Lifestyle || Food || Gym
+    location: "Malaysia"
+    followers: 22660
+    engagement: 361
+    commentsToLikes: 0.020491
+    id: ck5hk1g5nhmf20i11gwfyg5px
+    verified: false
+    hashtags: "#throwback, #workout, #stayathome"
+  - username: "_geying"
+    fullname: >-
+      _geying
+    bio: >-
+      Miss Astro 2018 Top 5 Miss Tourism World Msia 2017 Top 8 Lifestyle/ Fashion/ Beauty 🌼 job: geyinglee@hotmail.com
+    location: "Malaysia"
+    followers: 23359
+    engagement: 605
+    commentsToLikes: 0.009827
+    id: ck5c5jv1q3lze0i11zy6ot1sy
+    verified: false
+    hashtags: "#moreisevenmore, #mcobirthday, #dwgiftsoflove, #dwinmy"
 ---

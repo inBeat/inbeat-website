@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners TikTok Influencers In United Kingdom in 2023
+title: Top 10 Runners TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top runners TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #runner #duet.
+  Find top runners TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #runner #foryou #duet.
 platform: TikTok
-hits: 20
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 20 TikTok influencers like this in United Kingdom for you to pitch.
+hits: 19
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 19 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "signalongwithus"
+  - username: "dianakilduff"
     fullname: >-
-      signalongwithus
+      Diana kilduff
     bio: >-
-      BGT 2020 Runner up Page ran by Jade Collab&Enquiries - Signalongwithus@yahoo.com
+      Mum to 5 beautiful kids BGT runner up sign along with us n.kilduff@icloud.com
     location: "United Kingdom"
-    followers: 60400
-    engagement: 1923
-    commentsToLikes: 0.013976
-    id: ckb1bqw3j0cdz0j23yrqm2wep
+    followers: 167800
+    engagement: 1075
+    commentsToLikes: 0.020201
+    id: ckb1ayewmzd7j0j23sjzl8m7s
     verified: false
-    hashtags: "#share, #halloween, #sse, #duet"
-  - username: "candice_farrar4"
+    hashtags: "#bgt, #duet, #mum, #sse"
+  - username: "claire_training"
     fullname: >-
-      Candice Farrar
+      Claire_Training
     bio: >-
-      BGT runners up 🎉 Inclusive family SAWU ❤️ @themadhouseee
+      Lesbian Mum, 3 Blackbelts, Runner, Feminist 🏳️‍🌈 Collab429@gmail.com 🏳️‍🌈
     location: "United Kingdom"
-    followers: 161600
-    engagement: 1446
-    commentsToLikes: 0.012353
-    id: ckb1akezlyyos0j23ewllnyqx
+    followers: 284100
+    engagement: 1587
+    commentsToLikes: 0.000000
+    id: ck9si8h97xjd40j788zr8vkqr
     verified: false
-    hashtags: "#dollhousechallenge, #fyp, #sisters, #duet"
-  - username: "lauratyers83"
+    hashtags: "#equality, #gay, #lesbian, #lgbtq"
+  - username: "theduddlefamily"
     fullname: >-
-      Laura Tyers Rowney
+      TheDuddleFamily
     bio: >-
-      Mum of 3 boys having a laugh 😜 Insta Lashy_Laus Cambridgeshire 🇬🇧
+      ⬇️Click the link to subscribe to YouTube channel⬇️ #duddlearmy #aggianofam
     location: "United Kingdom"
-    followers: 6386
-    engagement: 914
-    commentsToLikes: 0.069485
-    id: ckc7vu3exz7rb0j236s25u0o8
+    followers: 30600
+    engagement: 1240
+    commentsToLikes: 0.123416
+    id: ckbamoil6dldh0j233sw2nx1f
     verified: false
-    hashtags: "#asosdaytofright, #life, #mumsontiktok, #fact"
+    hashtags: "#jarlsarmy, #duddlefam, #tiktok, #thankyou"
   - username: "princesspaiger1"
     fullname: >-
       Paige Rawson
     bio: >-
       Managed by Paige’s PayPal details for our fundraiser c_la_cock@hotmail.com
     location: "United Kingdom"
-    followers: 66300
-    engagement: 1908
-    commentsToLikes: 0.031067
+    followers: 64900
+    engagement: 1884
+    commentsToLikes: 0.025700
     id: ckb9bejd8xe5x0j23pqywr1uj
     verified: false
-    hashtags: "#childhoodcancer, #hero, #cancer, #leukemiawarrior"
-  - username: "adjustings_"
+    hashtags: "#leukemia, #childhoodcancer, #cancerawareness, #chemo"
+  - username: "bek.mo"
+    fullname: >-
+      Beckie
+    bio: >-
+      plant-based PT and fitness cats and music more content on IG @bek.mo she/her
+    location: "United Kingdom"
+    followers: 4000
+    engagement: 490
+    commentsToLikes: 0.102781
+    id: ck97ww3ngsuaj0j7829gvajim
+    verified: false
+    hashtags: "#fitness, #fyp, #fitnesstiktok, #foryou"
+  - username: "mimilouj"
+    fullname: >-
+      mimilouj
+    bio: >-
+      📍LDN 🏋🏼‍♀️ Fitness blogger & level 3 PT ♥️ Insta @mimilouj (20k) ✨
+    location: "United Kingdom"
+    followers: 3920
+    engagement: 550
+    commentsToLikes: 0.091608
+    id: ckcuqp74pjdbb0j23lj2wt0b8
+    verified: false
+    hashtags: "#healthy, #diet, #workout, #health"
+  - username: "32.9k"
     fullname: >-
       TikTok Shtuff
     bio: >-
-      Join the discord below for giveaways + looking for editors ⬇️⬇️⬇️⬇️
+      Blocked from posting I dunno how
     location: "United Kingdom"
-    followers: 26200
-    engagement: 840
-    commentsToLikes: 0.068012
+    followers: 33200
+    engagement: 811
+    commentsToLikes: 0.046470
     id: ckcjesaz6ao860j233tgui0oh
     verified: false
-    hashtags: "#gaming, #fortnite, #fyp, #wtf"
-  - username: "mystorymytravel"
+    hashtags: "#respect, #football, #crash, #iker"
+  - username: "michaeldapaah_"
     fullname: >-
-      Маша, живу в Англии 🇬🇧
+      Michael Dapaah
     bio: >-
-      Переехала в Англию, Manchester 🍁 Russian girl 🇷🇺 Расскажу все секреты 🤫
+      Let’s have some fun!
     location: "United Kingdom"
-    followers: 152000
-    engagement: 408
-    commentsToLikes: 0.019259
-    id: ckc7wa5kvzhw10j238fewdp8y
-    verified: false
-    hashtags: "#lithuania, #fast9, #kos, #manchester"
-  - username: "laurensamuels23"
-    fullname: >-
-      laurensamuels
-    bio: >-
-      I genuinely think I’m hysterical. IG: @laurensamuels88
-    location: "United Kingdom"
-    followers: 134100
-    engagement: 1252
-    commentsToLikes: 0.015250
-    id: ckava17lkhi2l0j235588nrms
-    verified: false
-    hashtags: "#teamfabletics, #fyp, #lipsync, #singer"
-  - username: "millypickles1"
-    fullname: >-
-      Milly Pickles
-    bio: >-
-      23 | England Gymshark 🦈🦈 DM me on Insta ❤️
-    location: "United Kingdom"
-    followers: 127900
-    engagement: 927
-    commentsToLikes: 0.007308
-    id: ckdhtp6ji34ii0j23rkzemnds
-    verified: false
-    hashtags: "#prostheticleg, #fitness, #amputee, #happiness"
-  - username: "warner__"
-    fullname: >-
-      Warner
-    bio: >-
-      Model ^ Follow my insta @warner_ ^
-    location: "United Kingdom"
-    followers: 58800
-    engagement: 801
-    commentsToLikes: 0.023374
-    id: ck9n714be7inx0j788ikyddgs
-    verified: false
-    hashtags: "#fyp, #mirrortrick, #foryoupage, #mirror"
+    followers: 722700
+    engagement: 1274
+    commentsToLikes: 0.007582
+    id: ck97ww3c0su8q0j78xuxx29pe
+    verified: true
+    hashtags: "#funny, #foryou, #bmg, #fyp"
   - username: "independent"
     fullname: >-
       The Independent
     bio: >-
       The world’s most free thinking digital news brand is on TikTok 🎶🕺
     location: "United Kingdom"
-    followers: 12400
-    engagement: 426
-    commentsToLikes: 0.014527
+    followers: 12600
+    engagement: 425
+    commentsToLikes: 0.018353
     id: cka0kfzcymj5l0i78ycql1528
     verified: true
-    hashtags: "#foryou, #covid19, #foryoupage, #fyp"
+    hashtags: "#foryou, #fyp, #covid19, #foryoupage"
+  - username: "alastairmarshall6"
+    fullname: >-
+      Alastair Marshall
+    bio: >-
+      
+    location: "United Kingdom"
+    followers: 2549
+    engagement: 565
+    commentsToLikes: 0.006313
+    id: ckdh87yzuujji0j23bj41t38x
+    verified: false
+    hashtags: "#crosscountry, #foryoupage, #athlete, #fyp"
 ---

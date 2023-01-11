@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Poland in 2023
+title: Top 10 Health Instagram Influencers In Poland In 2023
 description: >-
-  Find top health Instagram influencers in Poland in 2023. Most popular hashtags: #polskadziewczyna #photooftheday #warsaw #makeup.
+  Find top health Instagram influencers in Poland in 2023. Most popular hashtags: #polskadziewczyna #style #smile #polishgirl.
 platform: Instagram
-hits: 781
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 781 Instagram influencers like this in Poland for you to contact.
+hits: 635
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 635 Instagram influencers like this in Poland for you to collaborate.
 profiles:
+  - username: "tati_tastes"
+    fullname: >-
+      Tati
+    bio: >-
+      Life & Food Stories Good things take time @healthlabs_pl „TATI10” -10% tatiyesayan@gmail.com
+    location: "Poland"
+    followers: 19741
+    engagement: 1175
+    commentsToLikes: 0.046339
+    id: ck5q6g5tkx9p40i11j90fuzzb
+    verified: false
+    hashtags: "#dzi, #zdrowystylzycia, #odpolskiegodostawcy, #kochammojelumene"
   - username: "wolna.jagoda"
     fullname: >-
       Jagoda
     bio: >-
-      @malowane.kadrem 📷 My photo diary Healthylifestyle Poznań
+      @malowane.kadrem 📷 My photo diary Healthylifestyle 🏃🚴🖤 Poznań
     location: "Poland"
-    followers: 6146
-    engagement: 1091
-    commentsToLikes: 0.110799
+    followers: 6367
+    engagement: 1080
+    commentsToLikes: 0.110710
     id: ck6ugsqom4y700j71lfstdqww
     verified: false
-    hashtags: "#wygraj, #selfie, #smile, #instagood"
-  - username: "weroviko"
-    fullname: >-
-      Viko
-    bio: >-
-      Ultrarunner who loves a healthy lifestyle, mountains and black coffee. 🔓 110 km 🔓 50+ km 🔓 42,195 km*7 #SeeYouLaterTeam ---------- 📩 weroviko(at)op.pl
-    location: "Poland"
-    followers: 3786
-    engagement: 3197
-    commentsToLikes: 0.085362
-    id: ckap4qhso8f0a0i782vs00mf7
-    verified: false
-    hashtags: "#bieganie, #ultratrailrunner, #biegamwkiecce, #polishmountains"
-  - username: "mrs.luks"
-    fullname: >-
-      s y l w i a   l u k s
-    bio: >-
-      • Founder of @looks_by_luks 👳‍♀️ • Mom to Teo 🧒🏼, Mia 👧🏼 & Zoe 👶🏼 • Healthy food, less-waste & natural healing 🌱 • Life w. #hashimotos
-    location: "Poland"
-    followers: 19102
-    engagement: 525
-    commentsToLikes: 0.076634
-    id: ck0w6brot7tq20i19kd8a68zt
-    verified: false
-    hashtags: "#instamatki, #7miesiecy, #coreczkatatusia, #newmom"
-  - username: "agnieszkadziekan"
-    fullname: >-
-      Agnieszka Dziekan
-    bio: >-
-      T V Presenter • Pytanie na Śniadanie TVP2 Tik tok: agadziekan 🎤 #sport #healthylifestyle #selfcare 📍Warsaw ￼📫adziekan@vp.pl
-    location: "Poland"
-    followers: 13556
-    engagement: 1255
-    commentsToLikes: 0.034344
-    id: ck5hqpawnthgw0i11na3zcc1a
-    verified: false
-    hashtags: "#pytanienasniadanie, #calm, #selfcare, #beauty"
+    hashtags: "#rozdanie, #wygraj, #prezent, #miedzyzdroje"
   - username: "kaaaro_wu"
     fullname: >-
       Karolina Walawko
     bio: >-
       📍Warsaw 🇵🇱 . •Fitness • Health • Fashion • Skin Care . 💌 kaaaro.wu@gmail.com
     location: "Poland"
-    followers: 15941
-    engagement: 588
-    commentsToLikes: 0.084803
+    followers: 20684
+    engagement: 454
+    commentsToLikes: 0.078143
     id: ck15qb5cc1zsm0i19nwb10g5b
     verified: false
-    hashtags: "#luxstyle, #warszawa, #fryzurydamskie, #monaco"
+    hashtags: "#beauty, #stylefashion, #polskadziewczyna, #motywacja"
+  - username: "weroviko"
+    fullname: >-
+      Viko
+    bio: >-
+      🧶 @wiko_handmade Ultra and marathon runner 🏃‍♀️ 110km⛰ 50+km⛰ 42,195km *7 Healthy lifestyle🤸‍♀️ Mountains #SeeYouLaterTeam 📩 weroviko(at)op.pl
+    location: "Poland"
+    followers: 3940
+    engagement: 3226
+    commentsToLikes: 0.077378
+    id: ckap4qhso8f0a0i782vs00mf7
+    verified: false
+    hashtags: "#polkasport, #run, #moments, #runandfun"
   - username: "bozenaskarbek"
     fullname: >-
       Bożena Skarbek
     bio: >-
-      Nie zadawalaj innych kosztem siebie! Nigdy nie mów o sobie źle! Fashion,beauty,healthy food,positive energy lover🥰 Cancer survivor💪🏻 Współpraca PRIV📩
+      Nie zadawalaj innych kosztem siebie! Nigdy nie mów o sobie źle! Fashion,beauty,healthy food,positive energy lover🥰 Cancer survivor💪🏻 📩bena3@o2.pl priv
     location: "Poland"
-    followers: 13514
-    engagement: 738
-    commentsToLikes: 0.138863
+    followers: 16660
+    engagement: 469
+    commentsToLikes: 0.130150
     id: ckap1f2d2ubon0i78jlzqejtd
     verified: false
-    hashtags: "#glasses, #outfitinspiration, #photooftheday, #fashion"
+    hashtags: "#jewerly, #stylizacjadnia, #zainspirujsie, #neon"
+  - username: "colovista"
+    fullname: >-
+      Anna Pichl
+    bio: >-
+      Fashion&Beauty&Lifestyle Live healthy and colorful Anna/46+ Master of hairdressing✂️ Makeup artist 🍃 Dog Maltese-Indi🐾 🍃 Email: anna-pichl@t-online.de
+    location: "Poland"
+    followers: 6103
+    engagement: 591
+    commentsToLikes: 0.394088
+    id: ck6trx1xn1k8e0j71k0xn8qqg
+    verified: false
+    hashtags: "#instabeauty, #face, #twarz, #girl"
   - username: "fit_malosci"
     fullname: >-
       
     bio: >-
-      🍃🍉Healthylifestyle🍉🍃 🍃🏋🏻‍♀️Gym lover🏋🏻‍♀️🍃💪🏻Fit&Jump lover💪🏻 🍃 🍃|Łódź| 🍃
+      🌿Amelia🍃🌿Łódź, Poland🌿 🍃🍉Healthylifestyle🍉🍃 🍃🏋🏻‍♀️Gym lover🏋🏻‍♀️🍃
     location: "Poland"
-    followers: 10000
-    engagement: 1222
-    commentsToLikes: 0.058613
+    followers: 11558
+    engagement: 999
+    commentsToLikes: 0.062969
     id: ck9hai33ncmty0j78nenusg02
     verified: false
-    hashtags: "#sylwetka, #warsaw, #zdrowejedzenie, #redukcja"
-  - username: "paulinarubaszka"
+    hashtags: "#healthyfood, #fit, #yummy, #zdroweprzepisy"
+  - username: "dagawu"
     fullname: >-
-      Paulina Rubaszka ✨
+      Dagmara Wawrzyniak
     bio: >-
-      🤷🏼‍♀️ 22 🥑 healthy tips 💻 business online 🍎 Ambasadorka marki
+      @underarmour Ambassador @endorfina.shop ⚡️ #CARDIOMASAKRA ® training program 🔥 🦌 Healthy mind & body #TEAMSARENKI 📖 MOJE-BOOKI ⬇️
     location: "Poland"
-    followers: 5360
-    engagement: 909
-    commentsToLikes: 0.144457
-    id: ck9hadmd1c5fi0j78wlempxwr
+    followers: 107739
+    engagement: 386
+    commentsToLikes: 0.025719
+    id: ck8t0y9e5tryr0j78s37ww1zg
     verified: false
-    hashtags: "#mirrorselfie, #piatek, #motywacja, #polskadziewczyna"
-  - username: "tati_yesayan"
+    hashtags: "#teamsarenki, #cardiomasakra, #dagawu, #theonlywayisthrough"
+  - username: "kasiaharmony"
     fullname: >-
-      Tatevik Yesayan Gąsińska
+      Kasia Harmony
     bio: >-
-      🌴travelholic 👩🏽‍🍳foodlover 🧚🏽HealthLabs -10% KOD:TATI10 👯‍♀️#leniwefitbaby Facebook 👩🏻‍🎓psycholog biznesu
+      • healthyfood • natural medicine • vegetarian lifestyle 🌱 #doterra wellness advocate, join me 👉 9448371 📍 Warszawa/ Poland 📮Kasia@harmonylife.style
     location: "Poland"
-    followers: 10808
-    engagement: 1067
-    commentsToLikes: 0.061020
-    id: ck5q6g5tkx9p40i11j90fuzzb
+    followers: 46761
+    engagement: 371
+    commentsToLikes: 0.040780
+    id: ck5zx2fe577tv0i1434us37ir
     verified: false
-    hashtags: "#piek, #savicki, #savickibizuteria, #bizuteria"
-  - username: "la.milenna"
+    hashtags: "#wsp, #podk, #ksi, #coreczkamamusi"
+  - username: "roverova_girl"
     fullname: >-
-      FITNESS | FASHION | TRAVEL
+      Justyna 🇵🇱
     bio: >-
-      ✧ 5’4” full of happiness & veggies🌞🌿 ✧ Dentistry student passionate about healthy lifestyle 👩🏽‍⚕️🏋🏽‍♀️ ✧ Be the best version of yourself ♡ 𖤥 Milan 🇮🇹
+      #bikegirl 🚴🏻‍♀️ #mtbgirl 🤙🏻 #onealriderspl 😎 #healthylifestyle 🥦 My ❤️ @pa3k_dirtybikes
     location: "Poland"
-    followers: 220861
-    engagement: 575
-    commentsToLikes: 0.023383
-    id: ck0w15ponhox70i19pl6hhzwl
+    followers: 8436
+    engagement: 1400
+    commentsToLikes: 0.035408
+    id: ckap584p4als00i78ufngwstf
     verified: false
-    hashtags: "#fashiondaily, #instafit, #visitbarcelona, #getfit"
+    hashtags: "#spring, #toru, #girlride, #instabike"
 ---

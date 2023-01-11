@@ -1,36 +1,84 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Los Angeles in 2023
+title: Top 10 Cosmetics Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #beauty #cosmetics #makeup.
+  Find top cosmetics Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #cosmetics #dentist #beverlyhills.
 platform: Instagram
-hits: 102
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 102 Instagram influencers like this in Los Angeles, United States for you to pitch.
+hits: 93
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 93 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
+  - username: "facesbyrob"
+    fullname: >-
+      Rob Sargsyan
+    bio: >-
+      Makeup Artist Face Designer Founder of Faces by Rob Cosmetics Los Angeles based
+    location: "United States"
+    followers: 305301
+    engagement: 120
+    commentsToLikes: 0.024558
+    id: ck1396uyajtue0i19wpwy0j7m
+    verified: false
+    hashtags: "#facesbyrob, #robglow, #therobglowbook, #guess"
+  - username: "chaneltemple"
+    fullname: >-
+      Chanel Temple
+    bio: >-
+      Global Makeup Artist | Hourglass Cosmetics Los Angeles | Palm Springs
+    location: "United States"
+    followers: 20465
+    engagement: 106
+    commentsToLikes: 0.069283
+    id: ck14jhhqakdec0i196ituob1m
+    verified: false
+    hashtags: "#equilibriumskin, #makeupbyme, #curator, #curatedby"
   - username: "zakhordental"
     fullname: >-
       DR. MANSOUR ZAKHOR & CO.
     bio: >-
-      🦷 LOS ANGELES COSMETIC DENTIST 🦷 PORCELAIN VENEERS & INVISALIGN 🦷 FULL MOUTH SMILE MAKEOVER 🦷 IMPLANT & ROOT CANAL SPECIALISTS ☎️ (310)208-0811
+      🦷 LOS ANGELES COSMETIC DENTIST 🦷 SMILE REHABILITATION CLINIC 🦷 PORCELAIN VENEERS & INVISALIGN 🦷 IMPLANT & ROOT CANAL SPECIALISTS ☎️ (310)208-0811
     location: "United States"
-    followers: 26914
-    engagement: 344
-    commentsToLikes: 0.041011
+    followers: 26647
+    engagement: 330
+    commentsToLikes: 0.030472
     id: ck8t8gpifkezu0j78wi8xppim
     verified: false
-    hashtags: "#cosmeticdentistry, #porcelainveneers, #losangeles, #veneers"
-  - username: "drchrisgojdz"
+    hashtags: "#2020, #losangeles, #ladentist, #zakhordental"
+  - username: "officialgabija"
     fullname: >-
-      Krzysztof Gojdź MD, PHD
+      Gabija Guzauskaite
     bio: >-
-      🎓Board Certified/Faculty American Academy Aesthetic Medicine 📍Miami Beach 👩‍💻@reviveclinic_official 📺Host Discovery TV Shows ⭐️Celebrity/Philantropist
+      Model, actress, content creator ✨ REMOTE SHOOTS -> @thegabijaagency MA: @suprisemodelmanagement
     location: "United States"
-    followers: 82335
-    engagement: 129
-    commentsToLikes: 0.040994
-    id: ck8t89jpzjkvj0j78hlmxg5se
+    followers: 20079
+    engagement: 271
+    commentsToLikes: 0.137281
+    id: ck14hpzjlbjts0i19bjcmwpet
+    verified: false
+    hashtags: "#photooftheday, #losangeles, #cosmetics, #chicagomodel"
+  - username: "annaguanchemd"
+    fullname: >-
+      𝗗𝗥. 𝗔𝗡𝗡𝗔 𝗚𝗨𝗔𝗡𝗖𝗛𝗘
+    bio: >-
+      𝐁𝐨𝐚𝐫𝐝 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐃𝐞𝐫𝐦𝐚𝐭𝐨𝐥𝐨𝐠𝐢𝐬𝐭 Founder @bellaskininstitute Author @sevendaystosexy Creator @bellamiraclecream 📍Calabasas | Beverly Hills
+    location: "United States"
+    followers: 110792
+    engagement: 224
+    commentsToLikes: 0.051558
+    id: ckap2k8otz7710i78iidlj71b
     verified: true
-    hashtags: "#beautyexpert, #aestheticmedicine, #massageclinic, #drgojdz"
+    hashtags: "#bellaskin, #dermdreamteam, #goodvibes, #botox"
+  - username: "hollywoodsmilelv"
+    fullname: >-
+      HOLLYWOOD SMILE DENTAL
+    bio: >-
+      Dr. Steve Kim 🔹 Implant & Cosmetic Dentist 🎓 Tufts School of Dental Medicine #lasvegasdentist #lasvegasdentistry #MMA #MMADOC
+    location: "United States"
+    followers: 144688
+    engagement: 378
+    commentsToLikes: 0.002130
+    id: ck15sh283cyod0i19gfb47r8j
+    verified: false
+    hashtags: "#implant, #mmadoc, #implantsurgery, #pflmma"
   - username: "drmattasaro"
     fullname: >-
       Los Angeles Cosmetic Dentist
@@ -42,89 +90,41 @@ profiles:
     commentsToLikes: 0.046921
     id: ck8svzl7sdacj0j781ohulpk7
     verified: false
-    hashtags: "#porcelainveneers, #smile, #dentist, #smilemakeover"
-  - username: "tatevik.terteryan"
+    hashtags: "#porcelainveneers, #dentist, #smile, #smiles"
+  - username: "drandrewordon"
     fullname: >-
-      TATEVIK, RN, MSN
+      Dr. Andrew Ordon
     bio: >-
-      •FNP-S •MSN •Advanced Cosmetic Injector •Injections follow @nareandtatevik •Los Angeles
+      💉Board Certified Plastic Surgeon ✨Emmy® Nominated TV Host. 📍Practicing in Rancho Mirage and Beverly Hills, California 📞310-248-6250 or 760-568-2211
     location: "United States"
-    followers: 30882
-    engagement: 252
-    commentsToLikes: 0.033053
-    id: ck5ckxwshxu3x0i11t6wooocb
-    verified: false
-    hashtags: "#skincare, #nurseinjector, #quarantinelife, #pillowdresschallenge"
-  - username: "mariagjieli"
-    fullname: >-
-      ᴍᴀʀɪᴀ ɢᴊɪᴇʟɪ
-    bio: >-
-      🇦🇱 🔺22 | NYC | Miami 📍 🔺Model | Foodie 🔺Brands/promos: mariagjielimgmt@gmail.com 🔺Backup: @mariagjielixo 🔺Twitter: @ mariagjielixo
-    location: "United States"
-    followers: 1064029
-    engagement: 395
-    commentsToLikes: 0.020973
-    id: ckap4oi4a864k0i78h9xfuq4y
-    verified: false
-    hashtags: "#boutiquemodel, #style, #viral, #fashion"
-  - username: "slokeone"
-    fullname: >-
-      
-    bio: >-
-      ATX Native...NBK,CBS,OTM,LAWS,LORDS,CREATURES CREWS. Stylizing letters and surfaces since 1990. DM for commissions. 👉🏼You can now shop for my art at
-    location: "United States"
-    followers: 19942
-    engagement: 239
-    commentsToLikes: 0.037022
-    id: ck13cxgxv2n8y0i19oiv40oeh
-    verified: false
-    hashtags: "#sloke, #abstract, #fuckcorona, #atxgraff"
-  - username: "torylynnbrows"
-    fullname: >-
-      TORY-LYNN WILLIAMS
-    bio: >-
-      Celebrity Brow Stylist || Los Angeles, CA ✉️Training: info.torylynnbrows@gmail.com •(310)-877-4090• #torylynnbrows Book Your Appointment!⤵️
-    location: "United States"
-    followers: 59294
-    engagement: 168
-    commentsToLikes: 0.025046
-    id: ck15ugiwsn2oq0i192g6u5jl3
-    verified: false
-    hashtags: "#postmalone, #browshaping, #makeup, #mua"
-  - username: "rebelfaces_"
-    fullname: >-
-      Traveling Celebrity MUA 🛩
-    bio: >-
-      ▪️Ta’Juan ♠️ Rebel ▫️Beauty Influencer ▫️LA/NYC/ATL/OH 📍 📋 Email- RebelFaces1@gmail.com
-    location: "United States"
-    followers: 71486
-    engagement: 135
-    commentsToLikes: 0.118889
-    id: ck6tisie21c7v0j71p395lgy5
-    verified: false
-    hashtags: "#celebrity, #makeupaddict, #celebritymakeupartist, #kyliecosmetics"
-  - username: "thebeautyjunkee"
-    fullname: >-
-      Martha Sta.Barbara- Villarama
-    bio: >-
-      💄🏋🏽‍♀️✈️🍔 Use my code MARTHA and get 10% disc at sephora.ph 📧 martha.stabarbara@gmail.com Youtube: therealbeautyjunkee 🔵 Facebook.com/TheBeautyJunkee
-    location: "United States"
-    followers: 32495
+    followers: 31212
     engagement: 103
-    commentsToLikes: 0.086196
-    id: ck6ubw0j0c12d0j71un0xj4fn
-    verified: false
-    hashtags: "#makeup, #thebeautyjunkee, #coronavirus, #covid19ph"
-  - username: "shamelesslydia"
+    commentsToLikes: 0.056375
+    id: ck15ud4vhmkqe0i19udwdtet2
+    verified: true
+    hashtags: "#breastimplants, #beauty, #botox, #aesthetics"
+  - username: "bestofprosth"
     fullname: >-
-      Lydia Moreno 👽
+      The Best Of Prosth
     bio: >-
-      Los Angeles 📍| Libra ♎️ | Content Creator 💄 PR/ Collabs email 💌 : morenolydia22@yahoo.com
+      Created by @dr_miguel_ortiz 🇦🇷 #bestofprosth
     location: "United States"
-    followers: 126333
-    engagement: 480
-    commentsToLikes: 0.033715
-    id: ck15rs9a59fwf0i19gyjkozt8
+    followers: 89366
+    engagement: 132
+    commentsToLikes: 0.009583
+    id: ck0tvpx17cc7z0i190m3dm1kh
     verified: false
-    hashtags: "#anastasiabeverlyhills, #maybelline, #halloween, #theartistedit"
+    hashtags: "#dentalcare, #dentalstudent, #odontologia, #restorativedentistry"
+  - username: "michellemoniquephoto"
+    fullname: >-
+      Michelle Monique
+    bio: >-
+      B E A U T É | P H O T O G R A P H E R | L A | N Y
+    location: "United States"
+    followers: 103110
+    engagement: 148
+    commentsToLikes: 0.020417
+    id: ck15qlayy3e120i19kmfwkte2
+    verified: false
+    hashtags: "#cosmeticsphotographer, #laphotographer, #losangelesphotographer, #newyorkphotographer"
 ---

@@ -1,48 +1,36 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Italy in 2023
+title: Top 10 Comedians TikTok Influencers In Italy In 2023
 description: >-
-  Find top comedians TikTok influencers in Italy in 2023. Most popular hashtags: #perte #comedia #foryou #duetto.
+  Find top comedians TikTok influencers in Italy in 2023. Most popular hashtags: #comedia #comedy #duetto #perte.
 platform: TikTok
-hits: 32
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database holds 32 TikTok influencers like this in Italy for you to connect with.
+hits: 27
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 27 TikTok influencers like this in Italy for you to pitch.
 profiles:
-  - username: "naikeorilio"
+  - username: "madtrinity"
     fullname: >-
-      naike
+      Madtrinity
     bio: >-
-      Coreografa💃🏽 Influencer🤳 Pilates T.🧘🏻‍♀️ Mamma👩‍👧‍👦 Moglie Gigi e Ross😂
+      Collab:anthonatydj93@gmail.com 🤡gemelli🤡 COMEDIAN
     location: "Italy"
-    followers: 44500
-    engagement: 550
-    commentsToLikes: 0.020430
-    id: ckbf2ror4pxe90j23nf0rp3ke
+    followers: 6900000
+    engagement: 639
+    commentsToLikes: 0.006261
+    id: ck9nr20126l9g0j78m4fvp7ka
     verified: false
-    hashtags: "#gigieross, #fyp, #comedians, #parati"
-  - username: "sebastiangayicon"
+    hashtags: "#jokerface, #jokerchallenge, #funny, #brother"
+  - username: "paris_andrea_"
     fullname: >-
-      Gabriele Cantando Pascali
+      Andrea Paris
     bio: >-
-      Attore, coreografo, NO OMOFOBIA 🌈 🌈 🌈🌈🌈 Instagram @gabrielecantandopas
+      Magia.... tanti sorrisi! E ANCHE UN PO’ DI LONFO ⬇️Seguitemi anche su YouTube⬇️
     location: "Italy"
-    followers: 17500
-    engagement: 1920
-    commentsToLikes: 0.064601
-    id: ck9du54r6f06l0j78jnpgc6sp
+    followers: 372000
+    engagement: 772
+    commentsToLikes: 0.015455
+    id: ck9nnob2yq3q20j78c0o3gndk
     verified: false
-    hashtags: "#lgbtcommunity, #scemenzatime, #discriminazione, #perte"
-  - username: "meriamamarir"
-    fullname: >-
-      Meriam Amarir
-    bio: >-
-      Certe volte sono simpatica🙁 📍Rome,Italy 9000? 🇲🇦🇮🇹🇩🇿 IG:meriam.amarir
-    location: "Italy"
-    followers: 8720
-    engagement: 1947
-    commentsToLikes: 0.036124
-    id: ckd193k3bqp9f0j238j2tscba
-    verified: false
-    hashtags: "#funny, #fun, #funnyvideos, #series"
+    hashtags: "#talent, #grazie, #magic, #bambini"
   - username: "yamadayoko"
     fullname: >-
       Yoko Yamada
@@ -50,23 +38,23 @@ profiles:
       provo a farti ridere 😁 standup comedy follow me on Ig 😎 if you want 🥺🌈
     location: "Italy"
     followers: 10600
-    engagement: 1133
-    commentsToLikes: 0.010248
+    engagement: 1127
+    commentsToLikes: 0.010260
     id: ckb10jscdp3h40j232twgvhno
     verified: false
-    hashtags: "#comingout, #standupcomedy, #giapponese, #quarantena"
-  - username: "treviso"
+    hashtags: "#comingout, #standup, #giapponese, #standupcomedy"
+  - username: "nymo_"
     fullname: >-
-      André Custodio
+      🐼 𝓝𝓲𝓬𝓸𝓵𝓸’ 🐼
     bio: >-
-      Diversão, comédia, entretenimento confira nossos vídeos
+      “Naimo”, non “Nimo”❗️ 👉🏼Instagram: mo_nico99👈🏼 GHESBORO🇮🇹 nymo@dreamerz.it
     location: "Italy"
-    followers: 1
-    engagement: 1166
-    commentsToLikes: 0.004822
-    id: ckc7q3mkyvnkc0j23j1nefeo8
+    followers: 148300
+    engagement: 1890
+    commentsToLikes: 0.021768
+    id: ckbl1zikqz0670j23n11ep1ty
     verified: false
-    hashtags: "#lush, #lushitalia, #bathbomb, #lushtreviso"
+    hashtags: "#foryou, #perte, #ghesboro, #rainbowsixsiege"
   - username: "jhonnyhuamani84"
     fullname: >-
       Jhonny Huamani
@@ -78,53 +66,65 @@ profiles:
     commentsToLikes: 0.098849
     id: ckacifucj387v0i7812d0aqhd
     verified: false
-    hashtags: "#duetto, #duos, #tiktokitaly, #humor"
+    hashtags: "#humor, #duetto, #parati, #comedia"
   - username: "maanuelo"
     fullname: >-
       Manuelo
     bio: >-
-      Half🇪🇸 and half🇮🇹 Venezia 🌊 19 yrs CEO of OH MY GOD😎 Instagram: maanuelo ✅
+      Seguimi anche su Instagram ☝️ Half 🇪🇸 and half 🇮🇹 CEO of OH MY GOD😎
     location: "Italy"
-    followers: 132400
-    engagement: 2389
-    commentsToLikes: 0.015110
+    followers: 172400
+    engagement: 2308
+    commentsToLikes: 0.014668
     id: ckdmql0av9ip20j23mxv3j6mv
     verified: false
-    hashtags: "#school, #crush, #nnn, #girl"
-  - username: "azzullaaa"
-    fullname: >-
-      Azzulla
-    bio: >-
-      🙇‍♀️🇮🇹 Raga seguitemi su: @canzionicinesi Vi amo😘
-    location: "Italy"
-    followers: 53800
-    engagement: 1001
-    commentsToLikes: 0.030957
-    id: ckb94rq99mdgj0j23t77c364f
-    verified: false
-    hashtags: "#fyp, #perte, #cinese, #stovolando"
+    hashtags: "#meme, #dankmemes, #comedia, #sugarcrush"
   - username: "jnthanprra"
     fullname: >-
       Jonathan Parra
     bio: >-
       Venezolano en Italia Lipsync Humor y Drama Sígueme en Instagram☝🏻 @jonathanprra
     location: "Italy"
-    followers: 68900
-    engagement: 1251
-    commentsToLikes: 0.018338
+    followers: 68700
+    engagement: 1242
+    commentsToLikes: 0.023255
     id: ckbb5p702vv840j23xzsq5fg9
     verified: false
-    hashtags: "#makeup, #volver, #enotraclave, #piroberta"
-  - username: "eicharly1983"
+    hashtags: "#humor, #lipsync, #tiktoker, #gay"
+  - username: "lucreziabramati"
     fullname: >-
-      Ei Charly 🇵🇪🇮🇪
+      Lucreziabramati
     bio: >-
-      RICORDATE che essere DIVERSI non vuol di essere STRANI MA UNICI🍭 🌟BRILLA💯PRE☆
+      my dog is fat.🤪 Lucrezia Bramati Insta: @lucribrema
     location: "Italy"
-    followers: 5229
-    engagement: 630
-    commentsToLikes: 0.053735
-    id: ckcovwvlg9aqq0j23km5kzibf
+    followers: 2754
+    engagement: 1000
+    commentsToLikes: 0.013695
+    id: ckc842b2u4d7y0j2331elm15c
     verified: false
-    hashtags: "#latinoamerica, #crispychallenge, #respondiendocomentarios, #foryou"
+    hashtags: "#lesbian, #quarantine, #xyzcba, #love"
+  - username: "sthaisyvasquez"
+    fullname: >-
+      Sthaisy Vasquez
+    bio: >-
+      Dominican girl🇩🇴 📍Perugia 🇮🇹 𝐈𝐆: 𝐒𝐓𝐇𝐘_𝐕𝐒𝐐𝟏𝟗
+    location: "Italy"
+    followers: 3353
+    engagement: 715
+    commentsToLikes: 0.013253
+    id: ckachnabs01270i78i99dh5c5
+    verified: false
+    hashtags: "#italia, #destacame, #perte, #viral"
+  - username: "siciliabedda94"
+    fullname: >-
+      #Siciliabedda94
+    bio: >-
+      ⛱️☀️ Siciliana 🍊🔥🏴‍☠️ Studentessa 📝 Segno Zodiacale ♋💣 Amo Napoli 🍕✈️💙
+    location: "Italy"
+    followers: 5151
+    engagement: 1081
+    commentsToLikes: 0.290555
+    id: ckdsjdt5lmt4l0j23ppvyu22g
+    verified: false
+    hashtags: "#neomelodico, #ironia, #greenscreen, #duetto"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters Instagram Influencers In Chile in 2023
+title: Top 10 Painters Instagram Influencers In Chile In 2023
 description: >-
-  Find top painters Instagram influencers in Chile in 2023. Most popular hashtags: #pazinterior #amor #chile #artist.
+  Find top painters Instagram influencers in Chile in 2023. Most popular hashtags: #amor #pazinterior #vida #chile.
 platform: Instagram
-hits: 16
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 16 Instagram influencers like this in Chile for you to pitch.
+hits: 17
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 17 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "amandakurtmusic"
+  - username: "rogger.arts"
     fullname: >-
-      AMANDA KURT
+      яοggєя ℓορєz я
     bio: >-
-      singer- songwriter “90s Covers” ⬇️
+      •🇵 🇪 🇷 🇻  💯🇵🇪 • Se hacen comisiones, consultas al DM👍 • Activa las notificaciones🔥
     location: "Chile"
-    followers: 9963
-    engagement: 499
-    commentsToLikes: 0.060285
-    id: ck0w2bjh5nj7e0i197zdj2jne
+    followers: 3544
+    engagement: 434
+    commentsToLikes: 0.018205
+    id: ck9wfoazypqy50j78gz6ehl1r
     verified: false
-    hashtags: "#contemporaryart, #painting, #handmade, #amandakurt"
-  - username: "nativa_cl"
+    hashtags: "#portraitdrawing, #mangadrawing, #artshare, #duende"
+  - username: "soulfia_"
     fullname: >-
-      Vania Hermosilla
+      SOULFIA
     bio: >-
-      Arte inspirado en la naturaleza, los viajes y los sueños❤️⚡ 25 de 194 📍🌎 🐶 @nativapintatumascota 🦋 @myaerialyoga 🤸🏽‍♀️ @yogasemillas . 💌 Tienda:
+      mgmt @javiweldt_______ @welovemodels._ soulfiamusic@gmail.com 🌑 PANTERA ya disponible 🌑
     location: "Chile"
-    followers: 2713
-    engagement: 847
-    commentsToLikes: 0.056816
-    id: ck5zlo38vl30f0i14rl2rezsx
+    followers: 41786
+    engagement: 2104
+    commentsToLikes: 0.011808
+    id: ck5qcyhd2sy1o0i11t6nktnb4
     verified: false
-    hashtags: "#womanart, #natureart, #art, #artist"
-  - username: "_brahox"
+    hashtags: "#panterachallenge"
+  - username: "andonicanela"
     fullname: >-
-      Braho
+      Andoni Canela
     bio: >-
-      illustrator & Tattooartist - 🌑 ✍🏻✍🏻 Open for guestpot in 2020 🌎🇪🇺 📩 Agenda abierta 📩📩📩 brahimjadur.artproject@gmail.com #brahimjadur #ilustration
+      Fotógrafo, periodista y realizador de documentales de Naturaleza 💚 #LibrosByAC 🌱Mi último trabajo PANTERAS 🐆
     location: "Chile"
-    followers: 5503
-    engagement: 891
-    commentsToLikes: 0.079821
-    id: ckap9owtot1s60i78ybmededv
+    followers: 10400
+    engagement: 805
+    commentsToLikes: 0.026196
+    id: ck6tlt4e96lam0j71vpoou58t
     verified: false
-    hashtags: "#artwork, #blackwork, #illustration, #conceptart"
-  - username: "pliegue"
+    hashtags: "#librosbyac, #durmiendoconlobos, #azulbyac, #buitresbyac"
+  - username: "lasplayers"
     fullname: >-
-      Pliegue
+      ⛓𝐋𝐀𝐒 𝐏𝐋𝐀𝐘𝐄𝐑𝐒⛓
     bio: >-
-      💥 PARA VER CAPÍTULO 5: HIPOCRESÍA Y CINISMO 💥 📍Cursos: @seriespliegue
+      𝙋𝙍𝙊𝙁𝙀𝙎𝙎𝙄𝙊𝙉𝘼𝙇 𝘿𝘼𝙉𝘾𝙀𝙍𝙎 🔥 𝕮𝖍𝖎𝖑𝖊 / 𝕷𝖆𝖙𝖎𝖓𝖆𝖘 🇨🇱 ✉️ Cotizaciones: cesar@lovac.cl Mira nuestra entrevista 👇🏾
     location: "Chile"
-    followers: 27450
-    engagement: 355
-    commentsToLikes: 0.089239
-    id: ck55q3d09bzro0i112egssnn5
+    followers: 14650
+    engagement: 948
+    commentsToLikes: 0.030912
+    id: ck5q542dnrahe0i11xajnd1zr
     verified: false
-    hashtags: "#nihilismo, #contemporaryart, #artfido, #pliegue"
-  - username: "cesar_urrutia"
+    hashtags: "#lasplayers, #latinas, #pantera, #cazzu"
+  - username: "carlos.7202"
     fullname: >-
-      César Urrutia
+      avanza paso a paso
     bio: >-
-      Ingeniero en Automatización 👷🏼‍♂️ Viviendo con Locura y Pasión 📌 30 Dulces Primaveras 💫 Made in 🇨🇱
+      Blog personal. 📚 aprende 👍 Motivate 💯 Supérate Motivación y autoayuda
     location: "Chile"
-    followers: 10190
-    engagement: 715
-    commentsToLikes: 0.029241
-    id: ckap5vqaaddgs0i78jzv2bios
+    followers: 2817
+    engagement: 274
+    commentsToLikes: 0.058606
+    id: ckaovww8q6g3k0i7809byguxp
     verified: false
-    hashtags: "#nodesistir, #pazinterior, #resiliencia, #tiemposadversos"
-  - username: "danielapazcq"
+    hashtags: "#gracias, #leydeatraccion, #consciencia, #fe"
+  - username: "daniellapazz"
     fullname: >-
       𝑫𝒂𝒏𝒊𝒆𝒍𝒂 💎
     bio: >-
       good girl 🧚‍♂️
     location: "Chile"
-    followers: 24946
-    engagement: 1169
+    followers: 24249
+    engagement: 1203
     commentsToLikes: 0.052717
     id: ck8t5plikaszb0j78r1yog2il
     verified: false
-    hashtags: "#amor, #positivevibes, #paz, #instagood"
-  - username: "chiosotoo"
-    fullname: >-
-      Rocío Soto
-    bio: >-
-      💛En la sencillez está la calma 😄✨🌱 💚#vidasanayfeliz ⚽️Jugadora @santiagomorningfem @laroja 📍Santiago, 🇨🇱
-    location: "Chile"
-    followers: 71826
-    engagement: 417
-    commentsToLikes: 0.013630
-    id: ck5qb44k8jpw00i111smzx5j2
-    verified: true
-    hashtags: "#vidasanayfeliz, #ad, #vidasanayactiva, #equilibrio"
+    hashtags: "#paz, #encasa, #amor, #buenasnoches"
   - username: "darwin_ruz"
     fullname: >-
       Darwin Ruz
     bio: >-
-      Coreógrafo Bailarín Profesional Director y coreógrafo de @chilefolclor Con humildad y tranquilidad siempre. Nunca dejen de soñar 🙏🙌
+      🔸Coreógrafo 🔸Bailarín Profesional 🔸Coreógrafo @mega.tv 🔸Director @chilefolclor
     location: "Chile"
-    followers: 25752
-    engagement: 268
-    commentsToLikes: 0.032771
+    followers: 25603
+    engagement: 234
+    commentsToLikes: 0.029843
     id: ck0tt3eya0zjh0i19tc01ztj4
     verified: false
-    hashtags: "#chile, #balletdarwinruz, #2020, #free"
+    hashtags: "#amor, #dancers, #dancer, #arte"
   - username: "jaelphotography"
     fullname: >-
       Jael Torres Photography S.R.L.
     bio: >-
-      Jael Torres Fotografo Talento 829-213-0000
+      Jael Torres Fotógrafo Oficina WhatsApp 829-213-0000 # Local WhatsApp 809-724-1400 👇🏻👇🏻👇🏻PARA CITAS Escríbenos directamente 👇🏻👇🏻👇🏻👇🏻
     location: "Chile"
-    followers: 46090
-    engagement: 155
-    commentsToLikes: 0.014794
+    followers: 47823
+    engagement: 195
+    commentsToLikes: 0.020665
     id: ck6tuagsbf87d0j713ig8rdt5
     verified: false
-    hashtags: "#destinationwedding, #jaeltorresstudios, #jaelphotography, #jaeltorresphotography"
-  - username: "gabrielacabello.s"
+    hashtags: "#photography, #xv, #mis, #misquincea"
+  - username: "cristianaguirrephoto"
     fullname: >-
-      𝓐𝓶𝓮𝓻𝓲𝓬𝓪  𝓛𝓲𝓫𝓮𝓻𝓽𝓪𝓭.💎
+      Cristián Aguirre Photography®
     bio: >-
-      ➵𝓘 𝓵𝓸𝓿𝓮 𝓡𝓸𝓬í𝓸 ❣ ➵𝓜𝓮 𝓭𝓮𝓬𝓵𝓪𝓻𝓸 𝓾𝓷𝓪 #𝓜𝓪𝓶𝓲𝓛𝓸𝓿𝓮𝓻 ➵𝓣.𝓞𝓭𝓸𝓷𝓽𝓸𝓵𝓸𝓰𝓲𝓪. ➵𝓒𝓱𝓲𝓵𝓮𝓷𝓪 🇨🇱 ➵𝓢𝓪𝓰𝓲𝓽𝓪𝓻𝓲𝓸♐ ➵𝓠𝓾𝓮 𝓽𝓸𝓭𝓸 𝓕𝓵𝓾𝔂𝓪, 𝓝𝓪𝓭𝓪 𝓲𝓷𝓯𝓵𝓾𝔂𝓪 🍃
+      Artista del alma que fotografía la geometría del universo y los ritmos del tiempo inspirando naturaleza. 👇Fotografías para cuidar el planeta ♻️🌎
     location: "Chile"
-    followers: 5578
-    engagement: 891
-    commentsToLikes: 0.017560
-    id: ckap5kaifc2bm0i78xfiou1u4
+    followers: 18710
+    engagement: 788
+    commentsToLikes: 0.072139
+    id: ck6tq6cljpn4w0j71khtifltc
     verified: false
-    hashtags: "#liketime, #likeforfollow, #amor, #likeforlikes"
+    hashtags: "#volcan, #bbc, #wildlifechile, #chilegram"
+  - username: "velenporella"
+    fullname: >-
+      Belén Flores Núñez
+    bio: >-
+      Artista Visual/Manicurista -❤️✈️🌏- Swarovski®Authorized Instructor @crystalstore_cl /@seducete.cl Santiago, Chile Citas 👇🏻
+    location: "Chile"
+    followers: 59247
+    engagement: 254
+    commentsToLikes: 0.007595
+    id: ck5cc36brgmmd0i11wo11infn
+    verified: false
+    hashtags: "#un, #rednails, #nailsbarcelona, #nails"
 ---

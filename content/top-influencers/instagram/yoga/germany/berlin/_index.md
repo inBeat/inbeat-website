@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Berlin in 2023
+title: Top 10 Yoga Instagram Influencers In Berlin In 2023
 description: >-
-  Find top yoga Instagram influencers in Berlin in 2023. Most popular hashtags: #yoga #yogaberlin #yogainspiration #berlin.
+  Find top yoga Instagram influencers in Berlin in 2023. Most popular hashtags: #yogateacher #berlin #yoga #achtsamkeit.
 platform: Instagram
-hits: 109
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 109 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 49
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 49 Instagram influencers like this in Berlin, Germany for you to pitch.
 profiles:
   - username: "kasiaaa_ko"
     fullname: >-
       EverythingHappensForAReason💫
     bio: >-
-      🏡🇵🇱 📍Berlin ❤Yoga teacher🧘🏼‍♀ ❤Mama ❤Crossfit  ❤OEB🐶 ❤Cooking  ❤️ 10% of @yogajunkies code kasia10 🎊🎊 ❤10% of @aloyoga First Order 🎊🎉
+      🏡🇵🇱 📍Berlin ❤Yoga teacher🧘🏼‍♀ ❤Mama ❤Crossfit  ❤OEB🐶 ❤Cooking  ❤️ 10% of @yogajunkies code kasia10 🎊🎊
     location: "Germany"
-    followers: 6348
-    engagement: 692
-    commentsToLikes: 0.071045
+    followers: 6061
+    engagement: 381
+    commentsToLikes: 0.058040
     id: ck5hqp4lith5j0i11dez78zhd
     verified: false
-    hashtags: "#yogapicture, #aloyoga, #handstand, #fammely"
+    hashtags: "#handstandeveryday, #yogapose, #yogainspiration, #italytravel"
   - username: "caro__corazon"
     fullname: >-
       FEEL FREE YOGA
     bio: >-
-      ☾ Hippie at heart ☽ Vinyasa & Yin Yoga Teacher I Berlin ☼ Founder of FEEL FREE YOGA △ Retreats & Yoga Events Ξ DIY project: Tiny house
+      ☾ Vinyasa & Yin Yoga Teacher I Berlin ☼ Retreats & Yoga Events △ Owner of the FOR🌲REST - Yoga Retreat Location in den Woods
     location: "Germany"
-    followers: 4175
-    engagement: 691
-    commentsToLikes: 0.072958
+    followers: 4848
+    engagement: 761
+    commentsToLikes: 0.078580
     id: ck8t7xvt4icue0j78mhz1ju36
     verified: false
-    hashtags: "#diyhome, #yogaretreats, #mindfulness, #igyogafriends"
-  - username: "scorpionmind"
-    fullname: >-
-      Tanja I Food & Lifestyle
-    bio: >-
-      ❊ Vegan in Berlin ◎ Photographer ◉ Pole/Silks ◎ Acrobat @scorpionshape ◉ @vegandogkiwi ☞ Newest YT video
-    location: "Germany"
-    followers: 39849
-    engagement: 247
-    commentsToLikes: 0.032096
-    id: ck0ttg5yu2kmi0i19houjjcc4
-    verified: false
-    hashtags: "#splits, #handstand, #porridge, #eatplantsnotfriends"
-  - username: "charmed_by_yoga"
-    fullname: >-
-      BINA - Yoga Coach Köln
-    bio: >-
-      *reconnect to your body & soul* 🧘‍♀️1:1 yoga | womencircles
-    location: "Germany"
-    followers: 14986
-    engagement: 690
-    commentsToLikes: 0.302061
-    id: ck6tu7hb9eqvv0j710okd7z1x
-    verified: false
-    hashtags: "#aloholdeachother, #yoga, #heartsalove, #softness"
+    hashtags: "#achtsamkeits, #spiritualit, #selbstf, #cabininthewoods"
   - username: "fvckluckygohappy"
     fullname: >-
       Fuck Lucky Go Happy
     bio: >-
-      Yoga • Spirit • Astro • Food • Reise • Style • Tarot 🧘‍♀️ 🙏🏼 🌒 🍲 🏝 💅🏼 💫 ✖️ Founded by @rebeccarandak ✖️ Podcast @heiligerbimbampodcast Mehr👇
+      Online Magazin für Yoga und Spiritualität Yoga • Spirit • Astro • Tarot • Gesellschaft 🧘‍♀️✊🌏 🙏 🌔 🪐 🏳️‍🌈 Founded 2013 by @rebeccarandak Mehr👇
     location: "Germany"
-    followers: 23015
-    engagement: 116
-    commentsToLikes: 0.018966
+    followers: 28809
+    engagement: 88
+    commentsToLikes: 0.049408
     id: ck6tyn2bd4phs0j71muts47cn
     verified: false
-    hashtags: "#horoskop, #greenhome, #greenyourlife, #spirit"
-  - username: "rebeccanmyr"
+    hashtags: "#spirituell, #yoga, #quotesofinstagram, #motivationalquote"
+  - username: "weronika.salach"
     fullname: >-
-      ↠ ☼  Rebecca Nmyr 🇳🇬
+      Weronika Salach
     bio: >-
-      Model • Activist 🌱• Yogi 🇩🇪 @izaio.modelmanagement 🇬🇧Milk 🇿🇦Topco 🇦🇹Stellamodels 🤸🏾‍♀️Ambassador @vitaminwelldeutschland
+      🎨 Art With Magic | Skillshare Top Teacher 💜 Mom | Yoga Teacher |📍Berlin 🌖 @moonbrush.art ⬇️ LINKS ⬇️
     location: "Germany"
-    followers: 13536
-    engagement: 444
-    commentsToLikes: 0.031434
-    id: ck5hjhx4ngnu20i11z53dfgqx
+    followers: 33965
+    engagement: 81
+    commentsToLikes: 0.049860
+    id: ck6u3xe030fmw0j71jqi7sdst
     verified: false
-    hashtags: "#crueltyfreefood, #berlingirl, #modelsofcolor, #yogagirl"
-  - username: "annasworldofwonder"
+    hashtags: "#childrensbookillustration, #procreatedrawing, #whimsicalillustration, #mysticsunweek2021"
+  - username: "mrs.beatricemaria"
     fullname: >-
-      Anna
+      BEATRICE MARIA
     bio: >-
-      Let the dogs bark, the lion is still king 🦁. Yoga. Basic Fashion. Motivation. Healthy Lifestyle. Sustainable. & good stuff. Soon: RYT 200 🧘🏼
+      Berlin born&raised Food, yoga, sustainability Beatricemaria@mail.de
     location: "Germany"
-    followers: 6371
-    engagement: 440
-    commentsToLikes: 0.045137
-    id: ck5zz2ubaaz6s0i142a9mxu9w
+    followers: 42241
+    engagement: 111
+    commentsToLikes: 0.018169
+    id: ck6tu2ze5e0f70j71n6kyhbpe
     verified: false
-    hashtags: "#posterbild, #berlinsummermoment, #neukeolln, #sommer2020"
-  - username: "palinski"
+    hashtags: "#vacation, #beatricemaria, #france, #wedding"
+  - username: "plantastybites"
     fullname: >-
-      Palina Rojinski
+      Jacky ✨
     bio: >-
-      „Sing On! Germany“ @netflixde 🍾„PODKINSKI“ @spotifyde Neue Folge mit @nicosantosofficial 🎤„Nightlife“ der Film auf iTunes/AmazonPrime etc. 📍IMPRESSUM🧿
+      📍Berlin Eat more plants, do more yoga. 🌱 Nourishing mind, body and soul. ✨
     location: "Germany"
-    followers: 1937455
-    engagement: 244
-    commentsToLikes: 0.011682
-    id: ck0tylhsfn56w0i199wojjgja
-    verified: true
-    hashtags: "#growstrong, #teampantene, #podkinski, #anzeige"
-  - username: "thiabrownsugar"
-    fullname: >-
-      Thia Brownsugar
-    bio: >-
-      🍀Green blogger- Berlin thiabrownsugar.fr/rhumettalonaiguilles.com Podcast @mapausecafeavecthia Business Email: thia@thiabrownsugar.fr Mes réseaux👇🏽
-    location: "Germany"
-    followers: 20068
-    engagement: 514
-    commentsToLikes: 0.060206
-    id: ck5zq8051u42c0i1470tdxxhv
+    followers: 20420
+    engagement: 130
+    commentsToLikes: 0.189835
+    id: ck14i1h79d7070i19zqnfp7tl
     verified: false
-    hashtags: "#thiabrownsugar, #mieuxconsommer, #shooting, #travelblogger"
-  - username: "ginii__binii"
+    hashtags: "#feelyourjoy, #helloscorpio"
+  - username: "fitbydamian"
     fullname: >-
-      Gina Heinrich
+      I am D A M I A N
     bio: >-
-      FITNESS | ACHTSAMKEIT | LEBEN 👩🏻‍💻🌏 love what you do & make a difference ✨positive vibes 📍Stuttgart
+      #Berlin - #Germany | #entertainer 1,74 klein 89,7 kg leicht ☲☲☲☲☲ Kontakt: 📧 DM me My Facebook 👇👇👇👇
     location: "Germany"
-    followers: 2971
-    engagement: 2097
-    commentsToLikes: 0.061717
-    id: ck8tdpau849eo0j78sztwjnxh
+    followers: 24541
+    engagement: 191
+    commentsToLikes: 0.283284
+    id: ckaoviojq4psz0i78sdsf8s3x
     verified: false
-    hashtags: "#wochenende, #potd, #nebenjob, #abnehmen"
+    hashtags: "#myprotein, #gymnastics, #mcfit, #fitnessforlife"
+  - username: "christophkoestlin"
+    fullname: >-
+      Christoph
+    bio: >-
+      Christoph Köstlin photographer / based in Berlin (send memes)
+    location: "Germany"
+    followers: 15190
+    engagement: 764
+    commentsToLikes: 0.030670
+    id: ck0txxcp0kuzj0i19zq7qros6
+    verified: false
+    hashtags: "#bigfm, #powerwoman, #fritzkalkbrenner, #clueso"
+  - username: "aannkathrinn"
+    fullname: >-
+      Ann-Kathrin 🇪🇺
+    bio: >-
+      ➽ model 🇩🇪 🇩🇰 🇿🇦 ➽ civilengineer👷‍♀️ for💧 💩 ∼ crossfit . fitness . running . yoga ∼ kitesurfing . wakeboarding . sup . surf
+    location: "Germany"
+    followers: 20300
+    engagement: 507
+    commentsToLikes: 0.019513
+    id: ck0tvqa2ycdyh0i19uq6al46j
+    verified: false
+    hashtags: "#water, #fabletics, #berlin, #fableticseu"
+  - username: "danielgoihl"
+    fullname: >-
+      Dan Goihl
+    bio: >-
+      📍 Cologne & Berlin / GER 🧑‍💻 Founder @tacsyagency, @ikarusyoga & @einstiftundpapier 🎤 #Moderator 👇 Contact 📧
+    location: "Germany"
+    followers: 17432
+    engagement: 879
+    commentsToLikes: 0.032484
+    id: ck139ie3xlgki0i19k4fw95z6
+    verified: false
+    hashtags: "#stressmanagement, #shapingnewtomorrow, #cologne, #menshair"
 ---

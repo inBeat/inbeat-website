@@ -1,24 +1,12 @@
 ---
-title: Top 10 Christian TikTok Influencers In Portugal in 2023
+title: Top 10 Christian TikTok Influencers In Portugal In 2023
 description: >-
-  Find top christian TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #portugal #foryou #cristianoronaldo.
+  Find top christian TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #comedia #fy #portugal.
 platform: TikTok
-hits: 11
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 11 TikTok influencers like this in Portugal for you to contact.
+hits: 8
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "hillsongchurch"
-    fullname: >-
-      Hillsong
-    bio: >-
-      The official account of Hillsong Church. Love God. Love people. Love life.
-    location: "Portugal"
-    followers: 93200
-    engagement: 989
-    commentsToLikes: 0.016950
-    id: ckdcjl44klict0j237d2m95ts
-    verified: false
-    hashtags: "#christian, #hillsong, #preaching, #jesus"
   - username: "tiagoafferreira"
     fullname: >-
       Tiago Ferreira
@@ -26,105 +14,93 @@ profiles:
       My Instagram ☝🏻 Porque rir, é o melhor remédio 🎭
     location: "Portugal"
     followers: 12000
-    engagement: 717
-    commentsToLikes: 0.039913
+    engagement: 699
+    commentsToLikes: 0.038088
     id: ckbfbs86e46oo0j23dgq6kye7
     verified: false
-    hashtags: "#erica, #lia, #tvi, #rtp"
-  - username: "vieira.r"
+    hashtags: "#cristiana, #joanalongoria, #joaquimmonchique, #erica"
+  - username: "wayndior"
     fullname: >-
-      Vieira 🇵🇹
+      Dior ❄️
     bio: >-
-      Barça 🔴🔵 Dm for Collabs 📸 Pareçe que a minha turma descobriu o tik tok 😥😥
+      Canal de Youtube 🚨⤴️ Artista 🎵 “O Que Eu Sinto” OUT NOW🙏🏼⤵️
     location: "Portugal"
-    followers: 18100
-    engagement: 1232
-    commentsToLikes: 0.074008
-    id: ckahthb0fedhy0i78qqnd07a0
+    followers: 158000
+    engagement: 1281
+    commentsToLikes: 0.064659
+    id: ckcprw7ztlxb30j23onjnz6ix
     verified: false
-    hashtags: "#fy, #soccer, #foryoupage, #fyp"
-  - username: "nuno1706"
-    fullname: >-
-      Nuno Miguel
-    bio: >-
-      Apago esta conta quando o Sporting for campeão
-    location: "Portugal"
-    followers: 34900
-    engagement: 1195
-    commentsToLikes: 0.034003
-    id: cka0uivp2ufwd0i78um9ps6du
-    verified: false
-    hashtags: "#futebol, #foryou, #fyp, #portugal"
-  - username: "cidade.fm"
-    fullname: >-
-      CIDADEFM
-    bio: >-
-      A Rádio Jovem N°1 em Portugal 🎙💛 #sósequiseres
-    location: "Portugal"
-    followers: 87600
-    engagement: 1535
-    commentsToLikes: 0.015589
-    id: ck9eycss3v7d90j782kpbqwm1
-    verified: false
-    hashtags: "#scary, #radio, #fyp, #pantenechallenge"
+    hashtags: "#oioioi, #cantor, #fyp, #fa"
   - username: "brunoalvesfcporto"
     fullname: >-
       Bruno Alves
     bio: >-
       Gostas de futebol? Gostas de comédia? Então, de que esperas para me seguir? ⚽
     location: "Portugal"
-    followers: 34000
-    engagement: 1449
-    commentsToLikes: 0.030007
+    followers: 47200
+    engagement: 1595
+    commentsToLikes: 0.042479
     id: ckbqq7z1pb5ce0j23ev6v9qup
     verified: false
-    hashtags: "#futebolportugues, #parati, #pt, #viral"
-  - username: "raquelcastanheiraa"
+    hashtags: "#comediaportugal, #futebol, #liganos, #comedia"
+  - username: "stupid_memes69"
     fullname: >-
-      𝑅𝒶𝓆𝓊𝑒𝓁  ~  🦋
+      Gonçalo Fernandes
     bio: >-
-      ᴀᴘᴇɴᴀs ᴜᴍᴀ ᴍᴇɴɪɴᴀ ᴘᴇʀᴅɪᴅᴀ à ᴘʀᴏᴄᴜʀᴀ ᴅᴀ ᴛᴇʀʀᴀ ᴅᴏ ɴᴜɴᴄᴀ ✨🧚🏼‍♀️🌈
+      100k?✨ Memes, football and funny videos
     location: "Portugal"
-    followers: 65000
-    engagement: 1381
-    commentsToLikes: 0.020311
-    id: ckb94jfv8m1u20j236245v5mw
+    followers: 83900
+    engagement: 1132
+    commentsToLikes: 0.026029
+    id: ckd0qys12iccg0j239ek77cuo
     verified: false
-    hashtags: "#portugal, #tuga, #mammamia, #fyp"
-  - username: "beck.s.mendes"
+    hashtags: "#stupidmemes69, #fyp, #meme, #fy"
+  - username: "rifasricardo"
     fullname: >-
-      Beck Mendes
+      R I F Λ S
     bio: >-
-      Hii, follow for more postssss No, im not American
+      💠 Official Account ☑️ 🔘 CEO RG Prod 🎥 〽️ Redes Sociais ⤵️
     location: "Portugal"
-    followers: 43400
-    engagement: 1554
-    commentsToLikes: 0.013554
-    id: ck9gln9p0p41s0j78asytvnb5
+    followers: 59100
+    engagement: 773
+    commentsToLikes: 0.053422
+    id: ckbktxo0ap1sc0j2397n4yt5t
     verified: false
-    hashtags: "#tvd, #guessthecelebrity, #celebrities, #movies"
-  - username: "millionaire_process"
-    fullname: >-
-      MILLIONAIRE PROCESS 
-    bio: >-
-      You Look Lost, Follow Us ❤️ IG:@millionaire_process 🚀 Get our FREE E-book 👇
-    location: "Portugal"
-    followers: 551800
-    engagement: 1390
-    commentsToLikes: 0.006028
-    id: ckcpu83zsp6tw0j231dmro5v1
-    verified: false
-    hashtags: "#motivational, #motivationalvideo, #inspirational, #motivation"
+    hashtags: "#trend, #tinoderans, #fyp, #michaeljackson"
   - username: "globesoccer"
     fullname: >-
       Globe Soccer
     bio: >-
-      Dubai Globe Soccer Awards 🇦🇪🌏⚽🏆 11th Edition | 29 December 2019
+      Where Legends Are Honoured ⚽🏆
     location: "Portugal"
-    followers: 73200
-    engagement: 312
-    commentsToLikes: 0.011708
+    followers: 168800
+    engagement: 704
+    commentsToLikes: 0.023251
     id: ck9gkmqk4k4k90j789esucki3
     verified: true
-    hashtags: "#juventus, #globesoccer, #liverpool, #pjanic"
+    hashtags: "#bvlgari, #lewandowski, #cr7, #globesoccer"
+  - username: "cidade.fm"
+    fullname: >-
+      CIDADEFM
+    bio: >-
+      A Rádio Jovem N°1 em Portugal 🎙💛 #sósequiseres
+    location: "Portugal"
+    followers: 94100
+    engagement: 1530
+    commentsToLikes: 0.018495
+    id: ck9eycss3v7d90j782kpbqwm1
+    verified: false
+    hashtags: "#cabelopantene, #fyp, #nowunited, #pantenechallenge"
+  - username: "hbkmuller"
+    fullname: >-
+      Hbkfam22
+    bio: >-
+      Just for fun goal: 30k followers I love you all❤
+    location: "Portugal"
+    followers: 27800
+    engagement: 1020
+    commentsToLikes: 0.024222
+    id: cka9kzd6018o20i78f0kj0v88
+    verified: false
+    hashtags: "#viral, #hbkduet, #exams, #comedy"
 ---

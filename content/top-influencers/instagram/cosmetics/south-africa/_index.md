@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In South Africa in 2023
+title: Top 10 Cosmetics Instagram Influencers In South Africa In 2023
 description: >-
-  Find top cosmetics Instagram influencers in South Africa in 2023. Most popular hashtags: #makeup #eyeshadow #fashion.
+  Find top cosmetics Instagram influencers in South Africa in 2023. Most popular hashtags: #makeup #beauty #skincare #ootd.
 platform: Instagram
-hits: 30
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 30 Instagram influencers like this in South Africa for you to connect with.
+hits: 21
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 21 Instagram influencers like this in South Africa for you to pitch.
 profiles:
-  - username: "pinky_.girl"
-    fullname: >-
-      Pinkygirl 🇿🇦
-    bio: >-
-      🎬 Reality Tv Star 🎧 Dj Lover of music 🤓 IT specialist 💄 Lover of beauty cosmetics 🛍 Email for collaborations
-    location: "South Africa"
-    followers: 282117
-    engagement: 388
-    commentsToLikes: 0.007643
-    id: ck5qdmaufw9zb0i11aqk0gm76
-    verified: false
-    hashtags: "#tbt, #nude, #dj, #heritagemonth"
   - username: "dramiraogunleye"
     fullname: >-
-      Dr. Amira Ogunleye 🇪🇬
+      Doctor Amira
     bio: >-
-      AKA ➡️"Dr. A” • Mom of 👧🏽👶🏽 Cosmetic Dentist to the 💫💫 North African ❤️ • 📍MIA • Howard U Alum 📧Inquiries@dramiraogunleye.com
+      "Dr. A” | Mom of 👧🏽👶🏽 Howard University Alumna Cosmetic Dentist to the 💫💫 North African ❤️ Egyptian 📍MIA NO DM 🚫Tap Contact Female Empowerment
     location: "South Africa"
-    followers: 52858
-    engagement: 292
-    commentsToLikes: 0.055698
+    followers: 82725
+    engagement: 229
+    commentsToLikes: 0.090478
     id: ck5zlo71nl36w0i14elk4rlg3
     verified: false
-    hashtags: "#maskoff, #cosmeticdentistry, #maskoffdonate, #mochadocs"
-  - username: "vuyovaroy"
+    hashtags: "#blessedbeyondmeasure, #keepgoing, #strongertogether, #supportblackbusiness"
+  - username: "beautymarkedandco"
     fullname: >-
-      Vuyo Varoy
+      BeautyMarked & Co.
     bio: >-
-      Entrepreneur Founder & Creative Director of @sirvaroy @thelifestyleemporium_ @vuyovaroyonbeauty For booking please mail: info@vuyovaroy.co.za
+      ♦️ African Inspired Cosmetics Brand ♦️ Founder @doc_mcserwaa ♦️ SERWAA Collection Available NOW! ♦️🇺🇸 WORLDWIDE 🌍SHIPPING ♦️SHOP & SUBSCRIBE 📧⤵️
     location: "South Africa"
-    followers: 28214
-    engagement: 70
-    commentsToLikes: 0.059964
-    id: ck14ijvgxfrz00i19tswbe6vq
+    followers: 19699
+    engagement: 68
+    commentsToLikes: 0.036835
+    id: ck0tx4e6ohv2t0i19ze7vedx4
     verified: false
-    hashtags: "#makeupartist, #polo, #jacket, #boys"
-  - username: "yowlee"
+    hashtags: "#melaninmakeupdaily, #makeupforwoc, #melaninqueen, #eyeshadowlooks"
+  - username: "nicole.gibbons"
     fullname: >-
-      Siyolo Tembo 🇿🇦
+      NICOLE | Beauty & Lifestyle
     bio: >-
-      Law Student Business Woman Travels | Fashion 1irn7m
+      Lifestyle & Beauty creator 🦋 Pr/Collabs : Nicolegibbonsbusiness@gmail.com⠀ LLB LAW 👩‍🎓 @tiaan10_stander 🤍⠀ ⠀ ⠀
     location: "South Africa"
-    followers: 29919
-    engagement: 152
-    commentsToLikes: 0.032951
-    id: ck6tn9b2v9dzx0j71gyn42q97
+    followers: 12949
+    engagement: 865
+    commentsToLikes: 0.358580
+    id: ck9wfav3fo0v00j782q0ik9xq
     verified: false
-    hashtags: "#outfit, #gucci, #instagram, #cute"
-  - username: "jamielee_king"
+    hashtags: "#instadaily, #beauty, #quotes, #lookbook"
+  - username: "bridge5m"
     fullname: >-
-      Model, Stylist, YouTuber
+      Bridget Marshall
     bio: >-
-      Paid Promo. NEW YOUTUBE VIDEO WATCH NOW👇🏼🚨
+      Travel | Lifestyle | Foodie | Fashion 🌍 The World is My Backyard ✉️ bridgemarshall@gmail.com 👩🏼‍💻 Owner - @travelb_comeflywithme
     location: "South Africa"
-    followers: 26260
-    engagement: 613
-    commentsToLikes: 0.051318
-    id: ck55oulwy95zh0i11y2ztqrpc
+    followers: 40798
+    engagement: 348
+    commentsToLikes: 0.018808
+    id: ckapa21m1uebh0i78996apdj4
     verified: false
-    hashtags: "#fashionblogger, #curlygirls, #curlyhair, #makeupartist"
-  - username: "bk.ramalho"
+    hashtags: "#food, #holiday, #photooftheday, #smile"
+  - username: "katlego_tefu"
     fullname: >-
-      B I A N C A   R A M A L H O
+      Katlego Tefu
     bio: >-
-      Entrepreneur: @bk5modelling @youbelong_apparel Model @fabulousdotcom_models BCom Fashion 🤍 Btw, even though I don’t know you I’m proud of you okay?!
+      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
     location: "South Africa"
-    followers: 3977
-    engagement: 1404
-    commentsToLikes: 0.086315
-    id: ck6tuzrthjcyl0j71ncs4d7ko
+    followers: 16874
+    engagement: 394
+    commentsToLikes: 0.033650
+    id: ck6u4o0ti4tlh0j716qfc7snm
     verified: false
-    hashtags: "#keeptheenergy, #sayhername, #endrapeculture, #youthdayshutdown"
-  - username: "lebohang.02"
+    hashtags: "#thespot, #styleinspiration, #brunchoutfit, #rotd"
+  - username: "charlixboi"
     fullname: >-
-      Lebohang Mangwane
+      Charli X Boi
     bio: >-
-      🎥| YouTuber (1M+ Views) 📧| mangwanelebohang02@gmail.com 🇿🇦| South African
+      Hello, Hi 👋 I’m Charli and this is my journal filled with #beauty #grooming & #selfcare 🦄 @clicks_sa #clicksbeautysquad 🎬 Director @nimblemediaza
     location: "South Africa"
-    followers: 40585
-    engagement: 727
-    commentsToLikes: 0.008445
-    id: ck5zt83srzwwl0i14g3uypgfs
+    followers: 17123
+    engagement: 63
+    commentsToLikes: 0.170458
+    id: ck5c261ajwlr00i11zda4ydsm
     verified: false
-    hashtags: "#wig, #lacewigs, #makeup, #ratecard"
-  - username: "sayladean"
+    hashtags: "#makeuplover, #makeuplovers, #face, #sunprotection"
+  - username: "mspaulabee"
     fullname: >-
-      S A Y L A 🇿🇦
+      Ms Paula Bee
     bio: >-
-      Pro Makeup Artist, Beauty Content Creator & Youtuber sayladean77@gmail.com @blaze_thompson98 ❤️ NEW WEEKLY VLOG⤵️
+      Curly-Headed Brown Girl 🦋🇿🇦 Daughter of the King 🕊 Married to @lowdl 👰🏽🤵🏽 TikTok: @mspaulabeee
     location: "South Africa"
-    followers: 38996
-    engagement: 569
-    commentsToLikes: 0.050090
-    id: ck0u21mp5ylih0i19wt4gk04m
+    followers: 51674
+    engagement: 479
+    commentsToLikes: 0.021501
+    id: ck5hkoywvit0w0i11ghe3b4ww
     verified: false
-    hashtags: "#prosanahair, #realgirlsofbody, #mycottonon, #loccitaneimmortelle"
+    hashtags: "#countryroadstyle, #hmsouthafrica, #hmxme, #valentinesday"
   - username: "merandapillay"
     fullname: >-
       Meranda Pillay
     bio: >-
-      Welcome to a glimpse of my creations 📎 life, style, beauty, creative 📍 Cape Town 🇿🇦 🎬 YouTube: Latest video ⬇️
+      Welcome to a glimpse of my creations 📎 DIY, plant loving, beauty, creative 📍 Cape Town 🇿🇦 🎬 YouTube: Latest video ⬇️
     location: "South Africa"
-    followers: 8195
-    engagement: 418
-    commentsToLikes: 0.095342
+    followers: 8506
+    engagement: 433
+    commentsToLikes: 0.238992
     id: ck6to4q7pc2yq0j718rh58n8p
     verified: false
-    hashtags: "#crueltyfree, #motd, #thebodyshopsouthafrica, #hairstyles"
+    hashtags: "#nails, #blondes, #tones, #neutrals"
+  - username: "sayladean"
+    fullname: >-
+      S A Y L A 🇿🇦
+    bio: >-
+      Pro Makeup Artist, Beauty Content Creator & Youtuber sayladean77@gmail.com @blaze_thompson98 💍
+    location: "South Africa"
+    followers: 47453
+    engagement: 400
+    commentsToLikes: 0.036568
+    id: ck0u21mp5ylih0i19wt4gk04m
+    verified: false
+    hashtags: "#superlustrousglassshine, #ghdunplugged, #kissmyglass, #toni"
   - username: "gillian_seetso"
     fullname: >-
-      Gillian With A G | Lifestyle
+      Gillian | Hair and Beauty
     bio: >-
-      •Top 4: #thebachelorsa S2 •Ambassador: @vision_works_dainfern •Model @modelhqsa •PR @donline.co.za | seetso.gillian@gmail.com YOUTUBE👇🏾
+      •Top 4: #thebachelorsa S2 •Ambassador: @vision_works_dainfern •Model @modelhqsa • @livetalentagency •PR: seetso.gillian@gmail.com YouTube/Tiktok 👇🏾
     location: "South Africa"
-    followers: 6985
-    engagement: 218
-    commentsToLikes: 0.198578
+    followers: 6827
+    engagement: 225
+    commentsToLikes: 0.203074
     id: ckaor0ry1l7ye0i78r6didvp4
     verified: false
-    hashtags: "#thebachelorsa, #tablemountain, #beautybulletin, #gillianwithag"
+    hashtags: "#southafricanbeautyblogger, #gillianwithag, #skininfluencer, #southafricanyoutuber"
 ---

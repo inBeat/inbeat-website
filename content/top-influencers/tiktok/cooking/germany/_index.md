@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Germany in 2023
+title: Top 10 Cooking TikTok Influencers In Germany In 2023
 description: >-
-  Find top cooking TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #cooking #lecker #yummy.
+  Find top cooking TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #lecker #cooking #food.
 platform: TikTok
-hits: 72
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database has 72 TikTok influencers like this in Germany for you to work with.
+hits: 66
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 66 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "umihito"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🍳 Cooking-Vlogs jeden Sonntag 🍳 ✉️ hi@umihito.de ✉️ Blog und Impressum:
     location: "Germany"
-    followers: 541300
-    engagement: 896
-    commentsToLikes: 0.011595
+    followers: 1100000
+    engagement: 679
+    commentsToLikes: 0.026526
     id: ck9aarn24lrvq0j78lemu92lm
     verified: true
-    hashtags: "#food, #cake, #dumplings, #grill"
+    hashtags: "#cake, #kochen, #backen, #dessert"
   - username: "bbqcuxhaven"
     fullname: >-
       BBQ Cuxhaven
     bio: >-
       BBQ, Grillen und Outdoor Cooking aus Überzeugung. Folge mir für leckeres Essen
     location: "Germany"
-    followers: 43700
-    engagement: 578
-    commentsToLikes: 0.017897
+    followers: 48100
+    engagement: 291
+    commentsToLikes: 0.031222
     id: ckafu2bi48cni0i781l2wxr40
     verified: false
-    hashtags: "#abendessen, #german, #pizzatime, #beef"
+    hashtags: "#steak, #crust, #foodie, #pork"
   - username: "jacktowersjack"
     fullname: >-
       jack towers
     bio: >-
       17 🇺🇸🇩🇪 :)) 1m?
     location: "Germany"
-    followers: 3294
-    engagement: 1323
-    commentsToLikes: 0.063261
+    followers: 3284
+    engagement: 1193
+    commentsToLikes: 0.060632
     id: ckc1vacrszdxv0j23erh46vm1
     verified: false
-    hashtags: "#foryou, #quarantine, #fyp, #cookingwithjack"
-  - username: "maro140habibi"
+    hashtags: "#xyzbca, #cookingwithjack, #quarantine, #fyp"
+  - username: "waffle_brothers"
     fullname: >-
-      Maro00
+      Waffle Brothers
     bio: >-
-      WILLKOMMEN bei ( maro.140 ) #Oben finden sie mein Instagram 👆account
+      s.ylcnkya31@gmail.com
     location: "Germany"
-    followers: 101900
-    engagement: 760
-    commentsToLikes: 0.041337
-    id: ckan2zu1z2ua90i78lb6bnrry
+    followers: 267600
+    engagement: 1488
+    commentsToLikes: 0.022752
+    id: ckamvrby154400i7813g5c880
     verified: false
-    hashtags: "#fu, #danceforfuture, #instagram, #foryou"
-  - username: "alamancininkarisi"
-    fullname: >-
-      Alamancinin Karisi
-    bio: >-
-      
-    location: "Germany"
-    followers: 2833
-    engagement: 532
-    commentsToLikes: 0.103947
-    id: ckdbsq17rcm1d0j23hkiv7t2p
-    verified: false
-    hashtags: "#fotogen, #urlaub, #berlintagundnacht, #gala"
+    hashtags: "#tt, #spass, #cooking, #tiktok"
   - username: "siciliancupcake"
     fullname: >-
       Giusy
     bio: >-
       🇮🇲🧁ALL ABOUT FOOD AND COMEDY🍔🇮🇹
     location: "Germany"
-    followers: 41700
-    engagement: 1223
-    commentsToLikes: 0.022985
+    followers: 41400
+    engagement: 1104
+    commentsToLikes: 0.026279
     id: ck9k21tz3io0s0j78en7ljski
     verified: false
-    hashtags: "#essen, #funny, #babylove, #japanesefood"
-  - username: "melina.hindelang"
+    hashtags: "#germany, #funny, #diy, #fyp"
+  - username: "maro140habibi"
     fullname: >-
-      Melina Hindelang
+      Maro00
     bio: >-
-      Insta: melina_hindelang_food😋
+      WILLKOMMEN bei ( maro.140 ) #Oben finden sie mein Instagram 👆account
     location: "Germany"
-    followers: 18900
-    engagement: 867
-    commentsToLikes: 0.018188
-    id: ckb9nwtxbhvae0j237m08b5dx
+    followers: 99100
+    engagement: 704
+    commentsToLikes: 0.032018
+    id: ckan2zu1z2ua90i78lb6bnrry
     verified: false
-    hashtags: "#chihuahua, #foryou, #cookingchallenge, #cooking"
-  - username: "w_watchers"
+    hashtags: "#foryou, #followme, #instagram, #danceforfuture"
+  - username: "linas_kitchen98"
     fullname: >-
-      NextStep
+      Lina🌹لينا
     bio: >-
-      18.🤷🏽
+      Clubhouse : Lina98 #prayforlebanon 🇱🇧47 #Freepalestine 🇵🇸 📍HD
     location: "Germany"
-    followers: 26100
-    engagement: 760
-    commentsToLikes: 0.017938
+    followers: 16400
+    engagement: 651
+    commentsToLikes: 0.051542
+    id: cka0phs358awy0i786nloff58
+    verified: false
+    hashtags: "#chicken, #food, #arabfood, #schokolade"
+  - username: "laurajane861"
+    fullname: >-
+      Laura💫
+    bio: >-
+      19🤪
+    location: "Germany"
+    followers: 24400
+    engagement: 873
+    commentsToLikes: 0.023276
     id: cka6d73q66v8p0i78ympmsoz1
     verified: false
-    hashtags: "#foryou, #viral, #vira, #foryourpage"
-  - username: "vitality.performance"
+    hashtags: "#lecker, #viral, #cooking, #foryou"
+  - username: "ruya.ari"
     fullname: >-
-      Sueno.Bee
+      Ruya
     bio: >-
-      🍋 Rezepte zum Abnehmen ________ 🍃schnell 🍃einfach 🍃lecker
+      Beauty Nutrition Coach
     location: "Germany"
-    followers: 5390
-    engagement: 472
-    commentsToLikes: 0.028403
+    followers: 5353
+    engagement: 464
+    commentsToLikes: 0.031350
     id: ckc7s5u8gx3o00j23wtl4qri8
     verified: false
-    hashtags: "#tiktokcooking, #foryoupage, #schnellesrezept, #breakfast"
-  - username: "firekitchen"
+    hashtags: "#foryou, #weightloss, #fy, #tiktok"
+  - username: "tracytsen1989"
     fullname: >-
-      FireKitchen
+      tracytsen1989
     bio: >-
-      Hi I’m Fabian and this is my FIRE KITCHEN 🔥
+      Sweet Cake🍰 Sweet Life❤️
     location: "Germany"
-    followers: 110700
-    engagement: 799
-    commentsToLikes: 0.011217
-    id: cka0qze1teqa70i78hxuxy6jo
+    followers: 621000
+    engagement: 1059
+    commentsToLikes: 0.003597
+    id: ckbf3xd87ryx90j233q27l0v5
     verified: false
-    hashtags: "#nice, #bbqszn, #bbqfood, #yummy"
+    hashtags: "#cakelover, #flowers, #cake, #birthdaycake"
 ---

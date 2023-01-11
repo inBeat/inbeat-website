@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Toronto in 2023
+title: Top 10 Yoga Instagram Influencers In Toronto In 2023
 description: >-
-  Find top yoga Instagram influencers in Toronto in 2023. Most popular hashtags: #yoga #toronto #yogaeverydamnday #beautifuldestinations.
+  Find top yoga Instagram influencers in Toronto in 2023. Most popular hashtags: #yoga #toronto #strength #photography.
 platform: Instagram
-hits: 33
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 33 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 11
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 11 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
-  - username: "mdoutofoffice"
+  - username: "sidafz"
     fullname: >-
-      Mani/Darsh 👫Travel & Lifestyle
+      Sidrah | Toronto Blogger
     bio: >-
-      👋 Toronto, Canada 🇨🇦 📍Toronto 🔜 TBA @mdoutofoffice
+      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
     location: "Canada"
-    followers: 30727
-    engagement: 232
-    commentsToLikes: 0.083587
-    id: ck6tq1u7koxs40j71w5tx16nv
+    followers: 13878
+    engagement: 115
+    commentsToLikes: 0.669998
+    id: cks8aqhhiupz50j23q90dq3w1
     verified: false
-    hashtags: "#thebarcelonist, #spain, #barcelonasecreta, #travel"
-  - username: "karinaveee"
+    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+  - username: "optimize.physiotherapy"
     fullname: >-
-      KARINA VEE Fitness Coach
+      Optimize Physiotherapy
     bio: >-
-      ⚡️ At home workouts daily! 💪🏼 Founding Trainer @barryscanada ✈️ Co-founder @fit.escapes 🌸 Yoga Teacher 📍Toronto
+      Clinic • Virtual Physiotherapy • Education 🤸‍♂️Movement + Strength + Health 🇨🇦 Ottawa (2 locations) 🏃‍♂️ Physiotherapy & Sport Medicine 🌎 Workshops
     location: "Canada"
-    followers: 28478
-    engagement: 281
-    commentsToLikes: 0.117963
-    id: ckaorfvj8n11l0i786m0y5gam
+    followers: 122343
+    engagement: 68
+    commentsToLikes: 0.014260
+    id: ck0u2ehwfzo740i191mmr2y3b
     verified: false
-    hashtags: "#strongertogether, #ultracalforcal, #barryscanada, #stayhome"
-  - username: "allyandnicholas"
+    hashtags: "#physiotherapy, #movement, #toronto, #yoga"
+  - username: "asanavanessa"
     fullname: >-
-      Wedding Photographers
+      • vanessa •
     bio: >-
-      •storytellers of human connection •compassionate living •creators of @weddinglegends •presets @allyandnicholaspresets •yoga @practiceloveeveryday
+      🇨🇦🇱🇧 500 RYT | Body Positivity | Active Flexibility FTW 💁🏻‍♀️ 90's child 📍Toronto
     location: "Canada"
-    followers: 16219
-    engagement: 284
-    commentsToLikes: 0.123870
-    id: ck0w5wx5k5u180i19i07d0sfh
+    followers: 161094
+    engagement: 226
+    commentsToLikes: 0.038722
+    id: ck0u7h3pv4nlj0i19aa55avic
     verified: false
-    hashtags: "#lightandlovepresets, #engaged, #connection, #healing"
-  - username: "bchanwarrior"
+    hashtags: "#backbends, #aloonyou, #flexibility, #aloyoga"
+  - username: "curtmontgomerytattoos"
     fullname: >-
-      Brian
+      Curt Montgomery
     bio: >-
-      Yoga nerd. Warrior. Dude. 🙏 Toronto | bchanwarrior@gmail.com
+      Tattoo Artist = Honey Badger Hero He who dares wins yo Inside Out Toronto curtmontgomerytattoos@gmail.com
     location: "Canada"
-    followers: 28849
-    engagement: 288
-    commentsToLikes: 0.018681
-    id: ck8szhhabogpz0j78zqultghj
-    verified: false
-    hashtags: "#yogi, #practiceandalliscoming, #namaste, #torontoyogi"
-  - username: "lori_dawnolyn"
+    followers: 430661
+    engagement: 252
+    commentsToLikes: 0.003392
+    id: ck136mgxd77s10i19q23xulh4
+    verified: true
+    hashtags: "#tattoos, #tattooartist, #safestsex, #toronto"
+  - username: "vancouversveryown"
     fullname: >-
-      Lori Dawnolyn-Lifestyle Model
+      Brandon Nair | DJ Nizzy 🇫🇯🌺
     bio: >-
-      Agency Represented | Yoga Enthusiast | Age Positive Advocate 📍Toronto - @modeelle Inquiries: lori.dawnolyn@gmail.com
+      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
     location: "Canada"
-    followers: 7588
-    engagement: 1235
-    commentsToLikes: 0.242348
-    id: ck14kjbrnpscf0i195amwqp8c
+    followers: 7165
+    engagement: 736
+    commentsToLikes: 0.068972
+    id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#canadaday, #challengeaccepted, #womensupportingwomen"
-  - username: "emanidil"
+    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
+  - username: "gabrielabellydancer"
     fullname: >-
-      EmanIdil
+      Gabriela Carnovale
     bio: >-
-      📍 Toronto/NYC | Law student | Journalist | Yoga teacher | Designer| & sometimes PR| 💌 hello@emanidil.com 🦕✨💕
+      💜 Belly dancer 💃🏼 Director @abundancebellydance 🌎 Blessed 📨For bookings: DM or e-mail
     location: "Canada"
-    followers: 19903
-    engagement: 388
-    commentsToLikes: 0.043243
-    id: ck1384p1aehii0i19ohavnw77
+    followers: 26848
+    engagement: 77
+    commentsToLikes: 0.134148
+    id: ck8tax2ogtfl20j78wsc5xugc
     verified: false
-    hashtags: "#blackwriters, #blackcreators, #blackwriter, #blackwomenwriters"
-  - username: "soulmatesbroadcast"
+    hashtags: "#monday, #model, #torontomodel, #creative"
+  - username: "alissesfitness"
     fullname: >-
-      Claudia & Abbey | Travel
+      Alisse | Health & Fitness
     bio: >-
-      ⎈ Best Friend Travel YouTubers 💕 ⎈ Currently separated by the Atlantic 🌍 📍YEG 🇨🇦 / ALC 🇪🇸 Subscribe to our YouTube Channel👇
+      
     location: "Canada"
-    followers: 6516
-    engagement: 450
-    commentsToLikes: 0.133784
-    id: ckaorh6s5n77o0i78bywz4px0
+    followers: 4484
+    engagement: 1007
+    commentsToLikes: 0.354554
+    id: ck8t4fmvv6m7d0j783a7wisfe
     verified: false
-    hashtags: "#travelvloggers, #visitmexico, #yegdt, #travelblogger"
-  - username: "andreitalevin"
+    hashtags: "#gainsville, #chestworkout, #eattogrow, #plantpowered"
+  - username: "vampx13"
     fullname: >-
-      Andreita Levin
+      Amanda McKnight
     bio: >-
-      Based in Canada | From Mexico ♡ 🤸🏻‍♀️Yoga/Pilates Teacher☼Dance Artist ➵ Wanderluster ✈️ 📍Toronto 🇨🇦
+      YouTuber @top10nerdofficial . Renegade Games Enthusiast. Avid RPGr. Actress. Cosplay model. Writer. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
     location: "Canada"
-    followers: 21558
-    engagement: 602
-    commentsToLikes: 0.062108
-    id: ck0u7h3mp4njc0i19m5nnh9yv
+    followers: 16200
+    engagement: 1149
+    commentsToLikes: 0.034217
+    id: ck135cy580ug20i19ij2x33dw
     verified: false
-    hashtags: "#igyoga, #yoga, #yogaeverydamnday, #igyogafam"
-  - username: "dee_sik"
+    hashtags: "#torontocosplayer, #redhair, #cosplay, #photography"
+  - username: "kiana_ng"
     fullname: >-
-      Ildiko
+      KIANA NG | Yoga + Handstands
     bio: >-
-      Travel. Photography. Yoga. Wellness. Sharing life’s adventures ✈️ 50+ countries 📍Toronto 📸 @sikphotograph
+      ✨Yoga Teacher & Handstand Coach✨ • creator @bodytosoulmovement • dm for 1:1 sessions • handstand workshops • online classes ⭣ practice w/ me ⤵️
     location: "Canada"
-    followers: 4748
-    engagement: 1048
-    commentsToLikes: 0.343086
-    id: ck8t0oyzzsrc20j78d6a7lnor
+    followers: 47188
+    engagement: 306
+    commentsToLikes: 0.041026
+    id: ckaorab4mmedq0i78tall95aa
     verified: false
-    hashtags: "#wanderlust, #latergram, #photooftheday, #justgoshoot"
-  - username: "pickeringfitness"
+    hashtags: "#photoshoot, #innerthighs, #yogapose, #yogalove"
+  - username: "maxwithme"
     fullname: >-
-      Christopher Pickering 🍍
+      Max
     bio: >-
-      fitness travel toronto 🇨🇦 support the dream ⤵️
+      2021 July ♾Taipei Summer 預約中 Director at @maxwithmestudio hairstylist/storyteller based in Taipei🇹🇼. Traveler🇬🇧🇫🇷🇬🇷🇨🇦🇵🇹🇭🇰🇺🇸🇯🇵🇸🇬🇦🇺🇪🇸🇳🇱🇮🇹🇨🇳🇲🇾🇲🇴
     location: "Canada"
-    followers: 25865
-    engagement: 185
-    commentsToLikes: 0.112529
-    id: ckaozztbpo5fv0i78iqghlmda
+    followers: 30796
+    engagement: 778
+    commentsToLikes: 0.001423
+    id: ck5hs0hz2vsco0i11qwrerut8
     verified: false
-    hashtags: "#selfdevelopment, #prfashion, #torontofit, #sixpackabs"
+    hashtags: "#travelgram, #canada, #taiwan, #lategram"
 ---

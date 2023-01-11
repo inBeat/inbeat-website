@@ -1,84 +1,72 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Japan in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Japan In 2023
 description: >-
   Find top tattoo-artists Instagram influencers in Japan in 2023. Most popular hashtags: #tattoo #art #tattooartist #tattooart.
 platform: Instagram
-hits: 28
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 28 Instagram influencers like this in Japan for you to work with.
+hits: 38
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 38 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "chapi_pi_pi"
     fullname: >-
-      CHAPI
+      CHAPIちゃぴ
     bio: >-
-      ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️ . tattoo artist 彫師 @chapi1225 . 💎 @chapi1225 💎 Japan Osaka 💎 リーダー🐈2020.0630 . インスタメッセージ見てません . ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
+      💎tattoo artist 彫師 @chapi1225 . 💎 Japan Osaka 💎 🐈 リーダー and ノア 💎 🐈猫垢 @leadernoa . インスタメッセージ見てません
     location: "Japan"
-    followers: 38653
-    engagement: 669
-    commentsToLikes: 0.002198
+    followers: 41738
+    engagement: 657
+    commentsToLikes: 0.002017
     id: ck134wxj8ylcr0i19in88dm5b
     verified: false
-    hashtags: "#pivotdoor, #pivot, #pvdcode"
-  - username: "horiren1st"
+    hashtags: ""
+  - username: "gdc_tattoo"
     fullname: >-
-      初代 彫蓮
+      Gianluca Di Cristofaro
     bio: >-
-      Japanese tattoo artist Photo book is on sale For any questions regarding the international order please contact us at 1rentakusho@gmail.com
+      Tattoo artist based in Torino, Italy at Franco Roggia Japanese Tattoo art - Guest every month at @milanocityink - Facebook: Gianluca Di Cristofaro
     location: "Japan"
-    followers: 10584
-    engagement: 718
-    commentsToLikes: 0.010854
-    id: ck0w6phqq9oty0i19pxyfjcau
+    followers: 40813
+    engagement: 329
+    commentsToLikes: 0.005956
+    id: ckaoyfgc3hat50i78k7lp8eac
     verified: false
-    hashtags: "#tattoo, #art, #maori, #japanese"
+    hashtags: "#tatuaggio, #dragontattoo, #tattoo, #torino"
   - username: "horibenny"
     fullname: >-
       彫紅 Hori Benny
     bio: >-
       🌸 Osaka Tattoo Artist 👽 Invasion Club Owner @invasionclubJP 🦾 #Otattoo ⛩️ Author: Japanese Tattoos 👯‍♀️ Sponsor: @cheyenne_tattooequipment Booking↓
     location: "Japan"
-    followers: 124736
-    engagement: 610
-    commentsToLikes: 0.011821
+    followers: 132270
+    engagement: 597
+    commentsToLikes: 0.011550
     id: ck134wx41yla90i19ol82zkrg
     verified: false
-    hashtags: "#animetattoo, #otattoo, #cheyennetattooequipment, #blacklivesmatter"
-  - username: "thedeadpigeon"
-    fullname: >-
-      Magnus Jansson
-    bio: >-
-      I'm a Swedish illustrator & tattoo artist living in Tokyo. Youtube: Sketches & Coffee
-    location: "Japan"
-    followers: 19896
-    engagement: 613
-    commentsToLikes: 0.015385
-    id: ck9wdttwah8fz0j78filugesy
-    verified: false
-    hashtags: "#japan, #artwork, #sketchbook, #drawing"
+    hashtags: "#animetattoo, #originalcharacter, #otattoo, #animemasterink"
   - username: "keanu_illu"
     fullname: >-
       Mitchell Keanu | Blackbear Ink
     bio: >-
       • Tattoo Artist | Illustrator • keanu@blackbear.ink • Bookings OPEN • No DM please
     location: "Japan"
-    followers: 17792
-    engagement: 305
-    commentsToLikes: 0.023953
+    followers: 18342
+    engagement: 312
+    commentsToLikes: 0.028912
     id: ck5hoqu0sq25j0i11hymsppkl
     verified: false
-    hashtags: "#linework, #blackworkerssubmission, #blackworknow, #blacktattoo"
-  - username: "gdc_tattoo"
+    hashtags: "#blackworkerssubmission, #skulltattoos, #blacktattooart, #deathtattoo"
+  - username: "horiren1st"
     fullname: >-
-      Gianluca Di Cristofaro
+      初代 彫蓮
     bio: >-
-      Tattoo artist based in Torino, Italy at Franco Roggia Japanese Tattoo art - Facebook: Gianluca Di Cristofaro
+      Japanese tattoo artist Photo book is on sale For any questions regarding the international order please contact us at 1rentakusho@gmail.com
     location: "Japan"
-    followers: 35821
-    engagement: 175
-    commentsToLikes: 0.011586
-    id: ckaoyfgc3hat50i78k7lp8eac
+    followers: 10932
+    engagement: 716
+    commentsToLikes: 0.010914
+    id: ck0w6phqq9oty0i19pxyfjcau
     verified: false
-    hashtags: "#irezumi, #japanesetattoos, #tatuaggio, #tattooink"
+    hashtags: "#traditionalculture, #tattoo, #tattooartist, #japan"
   - username: "horitatsu_tattoo"
     fullname: >-
       彫たつ 刺青師
@@ -91,6 +79,18 @@ profiles:
     id: ck5hn0n9smzgx0i11se8y59nt
     verified: false
     hashtags: "#tattoo"
+  - username: "breno.u"
+    fullname: >-
+      Brenou ブレノ
+    bio: >-
+      南無妙法蓮華経 YouTube 🔽
+    location: "Japan"
+    followers: 24715
+    engagement: 1382
+    commentsToLikes: 0.020080
+    id: ck9weon5xl7mp0j78mucqykop
+    verified: false
+    hashtags: "#tattoo, #artist, #futuristic, #japan"
   - username: "loganaguilarart"
     fullname: >-
       Logan Aguilar
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.024335
     id: ck5q2x391i7c00i11dhe5e9td
     verified: false
-    hashtags: "#coverup, #nycartist, #lion, #coveruptattoo"
+    hashtags: "#fingerwaves, #tattoosleeve, #protectyourheart, #liontattoo"
   - username: "bizentattoo"
     fullname: >-
       彫師 美漸 - tattooist  Bizen
     bio: >-
-      BIZEN ART-TattooStudio🇯🇵 TOKYO Nakameguro&Kanagawa 👥所属彫師 @roja_tattooist @tattoo_mayu BIZENアパレル販売DM📩
+      BIZEN ART-TattooStudio🇯🇵 TOKYO Nakameguro&Kanagawa 👥所属彫師 @roja_tattooist @tattoo_mayu @dk_tattoo_omn BIZENアパレル販売DM📩
     location: "Japan"
-    followers: 32309
-    engagement: 303
-    commentsToLikes: 0.002416
+    followers: 38776
+    engagement: 287
+    commentsToLikes: 0.001874
     id: ckap8hkbxoc1h0i78tqqw272b
     verified: false
-    hashtags: "#tokyo, #bizenart, #bizentattoo, #fashion"
+    hashtags: "#bizentattoo, #tattooartist, #japanesetattoo, #tokyo"
   - username: "ccccdddd_"
     fullname: >-
       CCCCDDDD_
     bio: >-
       ANIME/PINKSTYLE/GAMER/TATTOOS
     location: "Japan"
-    followers: 29876
-    engagement: 649
-    commentsToLikes: 0.012846
+    followers: 33136
+    engagement: 663
+    commentsToLikes: 0.011953
     id: ck5bz8oqkqnqc0i11z5dnpumc
     verified: false
-    hashtags: "#lilpeep, #animetattoo, #mymelody, #newschooltattoo"
+    hashtags: "#tattooartistmagazine, #gamerink, #epicgamerink, #tattooed"
 ---

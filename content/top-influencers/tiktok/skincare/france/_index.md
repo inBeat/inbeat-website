@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In France in 2023
+title: Top 10 Skincare TikTok Influencers In France In 2023
 description: >-
-  Find top skincare TikTok influencers in France in 2023. Most popular hashtags: #skincare #makeup #foryou #pourtoi.
+  Find top skincare TikTok influencers in France in 2023. Most popular hashtags: #skincare #makeup #pourtoi #foryou.
 platform: TikTok
-hits: 56
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 56 TikTok influencers like this in France for you to pitch.
+hits: 60
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 60 TikTok influencers like this in France for you to work with.
 profiles:
-  - username: "afrodisiakgyalie"
+  - username: "roselucyy"
     fullname: >-
-      Ornella 🕊
+      𝑅𝑜𝑠𝑒𝐿𝑢𝑐𝑦🧖🏽‍♀️
     bio: >-
-      Road to 50K ❤️😍🕊 Skincare, Playlist suis moi sur Instagram et YouTube⬇️ 🦋
+      🥖𝐼’𝑚 𝑓𝑟𝑒𝑛𝑐ℎ 🪞beauty, skincare routine💆🏻‍♀️🫐 🍵lucie@influcrew.fr
     location: "France"
-    followers: 42000
-    engagement: 1141
-    commentsToLikes: 0.020717
-    id: cka0pq3hw9eim0i78tpgs3d87
+    followers: 1500000
+    engagement: 2332
+    commentsToLikes: 0.006639
+    id: ckb18k088wgl00j23n9dqzlwk
+    verified: true
+    hashtags: "#beauty, #duo, #asmr, #skincare"
+  - username: "act.st.ing1"
+    fullname: >-
+      💕Act.st.ing1 💕danse/actings
+    bio: >-
+      💜Florence reposted X1 💜 ✨!Abonne toi ! ✨
+    location: "France"
+    followers: 27300
+    engagement: 2820
+    commentsToLikes: 0.025024
+    id: ckamnwtk06l6o0i78nabapiqb
     verified: false
-    hashtags: "#haircare, #fun, #makeup, #dancechallenge"
+    hashtags: "#pov, #tendance, #foryou, #dance"
   - username: "clocloartist"
     fullname: >-
       Clocloartist
     bio: >-
       Insta : clocloartist
     location: "France"
-    followers: 23000
-    engagement: 2309
-    commentsToLikes: 0.028798
+    followers: 22500
+    engagement: 2317
+    commentsToLikes: 0.026538
     id: ckdt3oym0skqw0j23thmvvv4w
     verified: false
-    hashtags: "#makeup, #viral, #france, #skincare"
-  - username: "aesthetics.clr"
+    hashtags: "#foryou, #skincare, #makeuptransformation, #nightroutine"
+  - username: "dreamygeek"
     fullname: >-
-      ♡︎𝕒𝕖𝕤𝕥𝕙𝕖𝕥𝕚c ♡︎
+      Dreamy Giirl
     bio: >-
-      ꧁𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌꧂ 𝚃𝚑𝚒𝚗𝚔𝚜 𝚏𝚘𝚛 𝟷𝟽𝚔 𝚂𝚘𝚘𝚗 𝟷𝟾𝚔 ?? 🦋✨🌻
+      ~ 84k 🥳✨ ... 90k 🍀 💋💄Insta :dreamygiirl 💄 💋 ❄️ Beauty - Bath Bombs ❄️
     location: "France"
-    followers: 17200
-    engagement: 3163
-    commentsToLikes: 0.018862
-    id: ckdn53awcebt40j23s6qngdjw
+    followers: 84900
+    engagement: 2222
+    commentsToLikes: 0.007945
+    id: ckbkmxhbfgrmv0j23jgpg3pci
     verified: false
-    hashtags: "#like, #grwm, #shopping, #percer"
-  - username: "raphaelsay"
-    fullname: >-
-      Raphael Say
-    bio: >-
-      • International model - Based in Paris 🇫🇷 • French 🤴🏻 • IG : @raphael_say
-    location: "France"
-    followers: 342400
-    engagement: 1341
-    commentsToLikes: 0.007073
-    id: ck9fc83o9iodv0j78m0ocddxm
-    verified: false
-    hashtags: "#model, #skincare, #pov, #halloween"
+    hashtags: "#nocibe, #haultiktok, #hauls, #bath"
   - username: "amanda_lifehacks"
     fullname: >-
       🤓⭐🦋Amanda biz❤️💡🌍
     bio: >-
       IG: Amandabizfit (200k) 🇫🇷🇺🇸 Be smarter than your friends😇 I ❤️ u
     location: "France"
-    followers: 142300
-    engagement: 917
-    commentsToLikes: 0.025818
+    followers: 138900
+    engagement: 941
+    commentsToLikes: 0.049231
     id: ckbqsup8mdox30j23ho9lfk1y
     verified: false
-    hashtags: "#astuces, #viral, #hair, #mylevismyvibe"
-  - username: "outfits__by.me"
+    hashtags: "#skincare, #clean, #mylevismyvibe, #hacks"
+  - username: "sephoracollection"
     fullname: >-
-      Tyty ✨
+      Sephora Collection
     bio: >-
-      Merci pour tout 🤍 insta : testeusebyme_ 📥 contact_testeusebeaute@yahoo.com
+      Sephora Collection official TikTok account ❤️🧡💛💚💙💜
     location: "France"
-    followers: 11000
-    engagement: 1637
-    commentsToLikes: 0.011791
-    id: ckaiev072u0nq0i78uyatm5q7
-    verified: false
-    hashtags: "#tattoo, #bonplan, #skincare, #foryou"
-  - username: "julinebazl"
+    followers: 24500
+    engagement: 1801
+    commentsToLikes: 0.013061
+    id: ck8nhskes2fat0j78gpg624pl
+    verified: true
+    hashtags: "#sizeup, #fyp, #pourtoi, #pocketpalette"
+  - username: "grainedemagie"
     fullname: >-
-      Juline Bazl
+      Mélaine
     bio: >-
-      💄Esthéticienne 💄 •ongles •maquillage •soins •astuces•mode• Insta: Juline_bazl
+      Mélaine - Paris✨ Des astuces et du fun 💛 (Bon plan/ lifestyle/ beauty)
     location: "France"
-    followers: 17300
-    engagement: 833
-    commentsToLikes: 0.011518
-    id: cka0ppkgl9a4y0i78mt9opw9p
+    followers: 28800
+    engagement: 617
+    commentsToLikes: 0.049353
+    id: ck961e0lhm67n0j783fi7b78q
     verified: false
-    hashtags: "#ongles, #nails, #foryou, #tiktok"
-  - username: "fzaty23"
+    hashtags: "#vintedfr, #vinted, #recettesimple, #bonneadresse"
+  - username: "iameden_"
     fullname: >-
-      Fzaty.23
+      Eden
     bio: >-
-      « Mon histoire, je l'écris moi-même »🇲🇦|🇪🇸 📍🇫🇷 Follow me on Instagram 🥰
+      for laugh 🤪 IG : @iameden__
     location: "France"
-    followers: 21300
-    engagement: 683
-    commentsToLikes: 0.017478
-    id: ck9shsk38v6ao0j78q62qkzb2
+    followers: 45300
+    engagement: 670
+    commentsToLikes: 0.015152
+    id: ckdtl4hwbz2qs0j23zthvkcc3
     verified: false
-    hashtags: "#houseoftiktok, #foryou, #cuisine, #patisserie"
+    hashtags: "#skincare, #pourtoi, #makeup, #foryou"
   - username: "anaispicquet"
     fullname: >-
       Anais Picquet
     bio: >-
       Instagram : @anais.picquet
     location: "France"
-    followers: 42500
-    engagement: 910
-    commentsToLikes: 0.017870
+    followers: 45200
+    engagement: 1035
+    commentsToLikes: 0.019100
     id: ck9r70gkk66lb0j787zhfweoc
     verified: false
-    hashtags: "#skincare, #glow, #moisturizer, #blush"
-  - username: "fionab07"
+    hashtags: "#closeup, #lipstick, #primer, #yesstyle"
+  - username: "tylana.fmn"
     fullname: >-
-      Fiona Betton
+      Tyty ✨
     bio: >-
-      💄fiofiobetton@icloud.com💄 ✨fiona_betton✨
+      🤍beauty • fashion Ig : tylana.fmn 🕊 Contact.tylanafmn@yahoo.com
     location: "France"
-    followers: 12300
-    engagement: 878
-    commentsToLikes: 0.016044
-    id: cka84sdcivawn0i78l31iu6p0
+    followers: 12200
+    engagement: 1164
+    commentsToLikes: 0.011813
+    id: ckaiev072u0nq0i78uyatm5q7
     verified: false
-    hashtags: "#beauty, #hair, #takethefirststep, #palet"
+    hashtags: "#skincare, #ootd, #outfitideas, #pourtoi"
 ---

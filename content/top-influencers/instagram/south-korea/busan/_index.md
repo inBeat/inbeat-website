@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Busan in 2023
+title: Top 10 Instagram Influencers In Busan In 2023
 description: >-
-  Find top Instagram influencers in Busan in 2023. Most popular hashtags: #btsarmy #jimin #parkjimin.
+  Find top Instagram influencers in Busan in 2023. Most popular hashtags: #activeuser2020 #jhope #kimseokjin.
 platform: Instagram
-hits: 60
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 60 Instagram influencers like this in Busan, South Korea for you to pitch.
+hits: 59
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat has 59 Instagram influencers like this in Busan, South Korea for you to collaborate.
 profiles:
   - username: "bom_vvely"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       Busan
     location: "South Korea"
-    followers: 2033
-    engagement: 2072
-    commentsToLikes: 0.039419
+    followers: 2025
+    engagement: 2030
+    commentsToLikes: 0.044317
     id: ckf5xbnnfv3c60j23mcg979p1
     verified: false
     hashtags: ""
@@ -23,35 +23,23 @@ profiles:
     fullname: >-
       Khloe Lee 🌵 클라탕 세계여행
     bio: >-
-      12년 간 해외에서 떠돌며 살다가 그 질병 때문에 한국에 갇힌 떠돌이. 어린왕자, 선인장, 마라탕❤️ 📍295 cities, 48 countries 📍 Busan, 🇰🇷 밀쿵이, 신화, 10cm, 뉴이스트, 윤종신
+      12년 간 해외에서 떠돌며 살다가🇨🇦🇯🇵🇬🇹 그 질병 때문에 한국에 갇힌 떠돌이. 어린왕자, 선인장, 마라탕❤️ 📍295 cities, 48 countries 📍 Busan, 🇰🇷 밀쿵이, 신화, 10cm, 뉴이스트, 윤종신
     location: "South Korea"
-    followers: 7038
-    engagement: 870
-    commentsToLikes: 0.047268
+    followers: 7066
+    engagement: 807
+    commentsToLikes: 0.053285
     id: ckf5tjb7lhyme0j23skb3nqnw
     verified: false
-    hashtags: "#princessbelle, #lionking, #beautyandthebeast, #beforecorona"
-  - username: "jimiinbighit"
-    fullname: >-
-      PARK JIMIN  박지민  BTS
-    bio: >-
-      BTS JIMIN 박지민 of 방탄소년단 ♡ • #박지민 #방탄소년단 #지민 • 13 || October || 1995 • Busan , Seoul, South Korea • Vocalist , Dancer > Mochi Universe ♡ < @jimin
-    location: "South Korea"
-    followers: 10218
-    engagement: 2310
-    commentsToLikes: 0.003828
-    id: ck9ha92hlbmhz0j78my9j6589
-    verified: false
-    hashtags: "#map, #jiminie, #jiminbts, #btsjhope"
+    hashtags: "#princessbelle, #1209, #beautyandthebeast, #explorekorea"
   - username: "bleu_the_k"
     fullname: >-
       BLEU THE K
     bio: >-
       Busan, Korea. photographer. 문의는 DM only 📩
     location: "South Korea"
-    followers: 58646
-    engagement: 398
-    commentsToLikes: 0.004884
+    followers: 62001
+    engagement: 427
+    commentsToLikes: 0.004595
     id: ck5q24we1ea670i11oq1laf1y
     verified: false
     hashtags: ""
@@ -59,72 +47,84 @@ profiles:
     fullname: >-
       Alicefilm
     bio: >-
-      ㅤ @soonsoo.alice ㅤ •Photographer,Traveler• ㅤ<<Seoul, Busan , Ulsan>> ㅤ 💕Princess maker💕ㅤㅤ 상업촬영/일반인 유료촬영 -DM or kalaotalk👇🏻
+      ㅤ @soonsoo.alice ㅤ •Photographer,Traveler• ㅤ<<Seoul, Busan , Ulsan>> 💕Princess maker💕ㅤㅤ 상업촬영/일반인 유료촬영 -DM or kalaotalk: ㅤ👇🏻 ㅤ
     location: "South Korea"
-    followers: 62342
-    engagement: 210
-    commentsToLikes: 0.012238
+    followers: 64521
+    engagement: 249
+    commentsToLikes: 0.010388
     id: ck9wdov53gl0o0j789s7sugmo
-    verified: false
-    hashtags: "#naturekind, #alwaysarden, #56, #rate"
-  - username: "checkinbusan"
-    fullname: >-
-      부산을 담아요📮BUSAN 釜山
-    bio: >-
-      › Sharing the beauty of BUSAN › Busan postcards › 🇰🇷me 🇹🇼wife
-    location: "South Korea"
-    followers: 9569
-    engagement: 1003
-    commentsToLikes: 0.044046
-    id: ck6tzs1axbite0j7180e0tkg2
-    verified: false
-    hashtags: ""
-  - username: "lighthouse_professional_tattoo"
-    fullname: >-
-      ⚓️Lighthouse Tattoo Studio
-    bio: >-
-      • Based in Republic of Korea 🇰🇷 • Nampodong, Busan • Itaewon, Seoul • Check individual artists and contact directly ⬇️
-    location: "South Korea"
-    followers: 50716
-    engagement: 257
-    commentsToLikes: 0.003554
-    id: ck5qebx8vzpxx0i1141dpfof7
     verified: false
     hashtags: ""
   - username: "vasak__"
     fullname: >-
       Vasak Tattoo
     bio: >-
-      ⚓️ @lighthouse_professional_tattoo 🇰🇷 Busan ,Nampo 🔁 Seoul ,Itaewon 🍒 @_vasakvasak_ ⬇️ Open kakao 👁
+      ⚓️ @lighthouse_professional_tattoo 🇰🇷 Busan ,Nampo 🔁 Seoul ,Itaewon 🍒 @_cheap_price__ ⬇️ Open kakao 👁
     location: "South Korea"
-    followers: 33628
-    engagement: 463
-    commentsToLikes: 0.005443
+    followers: 51900
+    engagement: 370
+    commentsToLikes: 0.004546
     id: ck5zqy01tvipc0i14vcxnp5hy
     verified: false
     hashtags: ""
-  - username: "lushjimin"
+  - username: "kyujin_kim"
     fullname: >-
-      BTS JIMIN 지민
+      Kyujin Kim
     bio: >-
-      지민; busan, 1995
+      스틸맨의 사진이야기 Busan Korea 비공개 계정및 업체 홍보 계정은 팔로잉하지 않습니다
     location: "South Korea"
-    followers: 88071
-    engagement: 2132
-    commentsToLikes: 0.003513
-    id: ck15seg1jclgg0i19dcn2jomo
+    followers: 7704
+    engagement: 1211
+    commentsToLikes: 0.008576
+    id: ckaow9g5s7xpa0i78iisrrebk
     verified: false
-    hashtags: "#btsmemes, #junghoseok, #namjoon, #taehyung"
-  - username: "rohatattoo"
+    hashtags: "#nikond850, #snap, #sunrise, #ig"
+  - username: "jiminize.d"
     fullname: >-
-      Rohatattoo
+      BTS JIMIN🐣🇵🇰
     bio: >-
-      @lighthouse_professional_tattoo 현재부산입니다 디엠문의주세용 Busan now Seoul : 11월22-29일 제주도 : 12월중순 •💌rohatattoo@gmail.com
+      •October-13-1995 •Busan - South Korea •vocalist, dancer, song writer, choreographer •fan page 🇵🇰
     location: "South Korea"
-    followers: 21496
-    engagement: 301
-    commentsToLikes: 0.017299
-    id: ck5qec21nzqci0i117hmi3ffv
+    followers: 466917
+    engagement: 415
+    commentsToLikes: 0.016925
+    id: ck8swp8w6esbj0j78622z3ca7
+    verified: false
+    hashtags: "#bangtan, #jungkook, #junghoseok, #kpop"
+  - username: "busantravel"
+    fullname: >-
+      부산핫플 부산맛집 부산카페 핫플레이스소개
+    bio: >-
+      부산의 재밌고 맛있는 모든것 부산여행정보 구독하세요⛵ #부산맛집 #부산카페 #부산여행 . 부산핫플 페이스북&인스타그램과 제휴를 원하시는분은 👉050-7977-7977 @busantravel
+    location: "South Korea"
+    followers: 87260
+    engagement: 131
+    commentsToLikes: 0.163308
+    id: ck0vw9wscsra90i19tfv5bbx6
+    verified: false
+    hashtags: "#209st"
+  - username: "lapoetique_"
+    fullname: >-
+      라 포에티크 Flower Studio
+    bio: >-
+      La poétique - 시처럼 아름다운, 라 포에티크 is based in Busan, South Korea. For flower lesson/ Wedding/ event/ gift flowers ⬇️ DM or
+    location: "South Korea"
+    followers: 58633
+    engagement: 162
+    commentsToLikes: 0.008555
+    id: ck15ub85lmboi0i19k15u25um
+    verified: false
+    hashtags: "#lapoetiqueflower, #lapoetiqueflowerstudio, #florist, #lapoetiqueflowerclass"
+  - username: "lighthouse_professional_tattoo"
+    fullname: >-
+      ⚓️Lighthouse Tattoo Studio
+    bio: >-
+      • Based in Republic of Korea 🇰🇷 • Nampodong, Busan • Itaewon, Seoul • Check individual artists and contact directly ⬇️
+    location: "South Korea"
+    followers: 73672
+    engagement: 423
+    commentsToLikes: 0.002636
+    id: ck5qebx8vzpxx0i1141dpfof7
     verified: false
     hashtags: ""
 ---

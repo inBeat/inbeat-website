@@ -1,72 +1,48 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Atlanta in 2023
+title: Top 10 Fitness TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top fitness TikTok influencers in Atlanta in 2023. Most popular hashtags: #fitness #workout #atlanta #fyp.
+  Find top fitness TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #workout #fitness #atlanta.
 platform: TikTok
-hits: 24
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database holds 24 TikTok influencers like this in Atlanta, United States for you to pitch.
+hits: 23
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 23 TikTok influencers like this in Atlanta, United States for you to connect with.
 profiles:
-  - username: "babybreeezzzzyyy"
+  - username: "blakedittle"
     fullname: >-
-      yessuh
+      Blake Kresses
     bio: >-
-      the number one page on tik tok for playlist recommendations and hot takes 🖤
+      🐘RHH Member🐘 🇺🇸TodayIsAmerica🇺🇸 Use coupon code “KRESSES” for 10% off! ⬇️
     location: "United States"
-    followers: 5092
-    engagement: 1415
-    commentsToLikes: 0.049073
-    id: ckb9iomtl9cqz0j23f6o7ojxb
+    followers: 33400
+    engagement: 1895
+    commentsToLikes: 0.043312
+    id: ck8kdbxz558or0j78ufix6xjh
     verified: false
-    hashtags: "#music, #carti, #uzi, #liluzi"
-  - username: "thejeremystrong"
+    hashtags: "#conservative, #republican, #gop, #usa"
+  - username: "healthyassets"
     fullname: >-
-      Jeremy Strong
+      HealthyAssets
     bio: >-
-      Go search for all my music under “Jeremy Kenyel”
+      🇬🇷🇺🇸 Woman Owned Athletic Wear Company SHOP US NOW ⬇️
     location: "United States"
-    followers: 1000000
-    engagement: 1232
-    commentsToLikes: 0.016965
-    id: ck8knvveheylg0j78a044tml2
-    verified: true
-    hashtags: "#fyp, #trend, #affirmations, #viral"
-  - username: "rocsi_thefitrealtor"
-    fullname: >-
-      RocsiTheFitREALTOR®️
-    bio: >-
-      ✨🖤 300K 🖤✨ To Join My Team 👇🏾 BUSINESS INQUIRES
-    location: "United States"
-    followers: 230000
-    engagement: 703
-    commentsToLikes: 0.017370
-    id: ck8kd2q113wyq0j7872scbdvc
+    followers: 3247
+    engagement: 555
+    commentsToLikes: 0.052268
+    id: ckdi7lqf59l2h0j23zcnfmgbz
     verified: false
-    hashtags: "#dontletthisflop, #quarantine, #realtorhumor, #foryou"
-  - username: "lousay"
+    hashtags: "#girlboss, #leggings, #workout, #fitgirls"
+  - username: "maxalbertsonn"
     fullname: >-
-      lousay
+      Max Albertson
     bio: >-
-      why does tiktok hate me so much? 🙄
+      insta: maxalbertsonn snap: thedupes51
     location: "United States"
-    followers: 6440
-    engagement: 613
-    commentsToLikes: 0.024780
-    id: ckb9m8c8cfb7z0j23shr3lof9
+    followers: 7975
+    engagement: 1002
+    commentsToLikes: 0.036508
+    id: ckc8vyb4sj4nw0j232ocjew7q
     verified: false
-    hashtags: "#healthheroes, #leavingmybody, #neverfitin, #scrublife"
-  - username: "mattmastro"
-    fullname: >-
-      mattmastro
-    bio: >-
-      The Muscle Blueprint Fitness Trainer Songwriter 1/2 Way Funny ⬇️Join My Team ⬇️
-    location: "United States"
-    followers: 46100
-    engagement: 1163
-    commentsToLikes: 0.070363
-    id: ckcomoi8i60t10j237kgwfv5m
-    verified: false
-    hashtags: "#lol, #morganwallen, #funny, #countryboy"
+    hashtags: "#fyp, #funny, #xyzbca, #timewarpscan"
   - username: "darksonofkrypton"
     fullname: >-
       DarkSonofKrypton 
@@ -78,53 +54,77 @@ profiles:
     commentsToLikes: 0.032317
     id: ck9glmo5vozkm0j78z4yaqcmn
     verified: false
-    hashtags: "#duet, #foryoupage, #copsoftiktok, #fitness"
+    hashtags: "#fyp, #foryou, #copsoftiktok, #workouts"
+  - username: "karlmac2021"
+    fullname: >-
+      Karlmac2021
+    bio: >-
+      Living Life In Atlanta 📍 Free Audiobook With Link Below 🙏
+    location: "United States"
+    followers: 18900
+    engagement: 1506
+    commentsToLikes: 0.060320
+    id: cka0n9zdsysti0i78fej5yzaf
+    verified: false
+    hashtags: "#milliondollarhabits, #millionairemindset, #entrepreneur, #gratitude"
+  - username: "beautyofaboymom"
+    fullname: >-
+      BeautyofBoyMom
+    bio: >-
+      Lover of affordable style, fitness and beauty. Follow me on IG. Shop links 👇🏼
+    location: "United States"
+    followers: 59200
+    engagement: 359
+    commentsToLikes: 0.049192
+    id: ck982kodkgdgg0j78053yide1
+    verified: false
+    hashtags: "#targetstyling, #charlottenc, #over40, #over40mom"
   - username: "kyle_muller"
     fullname: >-
       Kyle Muller
     bio: >-
       Pitcher with the Atlanta Braves Go check out my Instagram🙌🏼 @kylemuller10
     location: "United States"
-    followers: 28800
-    engagement: 1061
-    commentsToLikes: 0.014402
+    followers: 39000
+    engagement: 1237
+    commentsToLikes: 0.015813
     id: ckafvc583e1gb0i78in6etwhk
     verified: true
-    hashtags: "#hunting, #foryou, #fyp, #4u"
-  - username: "gainsbypat"
+    hashtags: "#goforthehandful, #foryoupage, #baseballszn, #baseball"
+  - username: "avedarave"
     fullname: >-
-      Patrick Wilson
+      Avery Bartlett
     bio: >-
-      Fun Foods For Life 😛🍦🍕🍷 💪🏽 Coaching/YouTube/FREE Fitness Course ⤵️
+      Podcast link below
     location: "United States"
-    followers: 157000
-    engagement: 1000
-    commentsToLikes: 0.020002
-    id: ck8f77whm2vjn0j78n4n8g7ve
+    followers: 109400
+    engagement: 2008
+    commentsToLikes: 0.006015
+    id: ck9fowg9b4my10j78ups4xozo
     verified: false
-    hashtags: "#fatloss, #workout, #gains, #lifting"
-  - username: "tsl_highlights"
+    hashtags: "#fitness, #training, #run, #workout"
+  - username: "triplejayspizzaatl"
     fullname: >-
-      TSL highlights
+      Triple Jays Pizza🍕
     bio: >-
-      Hi
+      III J’s 🍕the Biggest, Most Blessed, Family owned Foodtruck/ Pizzeria in America
     location: "United States"
-    followers: 2471
-    engagement: 1755
-    commentsToLikes: 0.072804
-    id: cka84a7drsq0p0i783qrehfbx
+    followers: 23900
+    engagement: 694
+    commentsToLikes: 0.049913
+    id: ck9jvlxzmsr2w0j78yiw0herd
     verified: false
-    hashtags: "#baseball, #nfl, #funny, #memes"
-  - username: "purrrentice"
+    hashtags: "#foodporn, #detroitpizza, #atl, #atlanta"
+  - username: "rocsi_thefitrealtor"
     fullname: >-
-      purrrentice
+      RocsiTheFitREALTOR®️
     bio: >-
-      I'm a voice actor livin' large w/ my 😽 entourage & Bae! Visit my Instagram, Yo!
+      ✨🖤 300K 🖤✨ To Join My Team 👇🏾 BUSINESS INQUIRES
     location: "United States"
-    followers: 64300
-    engagement: 944
-    commentsToLikes: 0.048798
-    id: ckbkr9ao5lp1d0j23q99sz85d
+    followers: 255900
+    engagement: 947
+    commentsToLikes: 0.014001
+    id: ck8kd2q113wyq0j7872scbdvc
     verified: false
-    hashtags: "#horrortok, #atlanta, #diy, #dinnerwithme"
+    hashtags: "#realtorlife, #atlanta, #watchtillend, #dontletthisflop"
 ---

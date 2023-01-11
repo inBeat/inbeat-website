@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Austin in 2023
+title: Top 10 Food TikTok Influencers In Austin In 2023
 description: >-
-  Find top food TikTok influencers in Austin in 2023. Most popular hashtags: #austin #texas #fyp #atx.
+  Find top food TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #texas #austin #foryou.
 platform: TikTok
-hits: 132
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 132 TikTok influencers like this in Austin, United States for you to contact.
+hits: 123
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 123 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "fiftyshadesofgruyere"
+    fullname: >-
+      alden
+    bio: >-
+      hi welcome to cheesetok
+    location: "United States"
+    followers: 311100
+    engagement: 1373
+    commentsToLikes: 0.006207
+    id: ckd60xe081bmc0j23i9nv8r1u
+    verified: false
+    hashtags: "#wrappinggifts, #fyp, #charcuterie, #cooking"
+  - username: "thatoneguyginger"
+    fullname: >-
+      That One Guy Ginger
+    bio: >-
+      “If it doesn’t challenge You, It won’t Change you!” •812.IN•Motivated•EST.1979•
+    location: "United States"
+    followers: 52500
+    engagement: 1120
+    commentsToLikes: 0.067700
+    id: ckcoj0ce24f4k0j23f0tm74kx
+    verified: false
+    hashtags: "#ffging, #follow, #betternow, #812"
+  - username: "feedmi"
+    fullname: >-
+      Mimi | Austin Food & Travel
+    bio: >-
+      🍜✈️🌎 just a girl trying to decide what to eat willyoufeedmi@gmail.com
+    location: "United States"
+    followers: 98300
+    engagement: 838
+    commentsToLikes: 0.022060
+    id: ckb13n3gyrnij0j234wj5d1bz
+    verified: false
+    hashtags: "#lovefood, #texas, #houstoncheck, #atx"
+  - username: "juan_and_nicks_life"
+    fullname: >-
+      juan and nick
+    bio: >-
+      Queer couple living in Austin,tx 🏳️‍🌈
+    location: "United States"
+    followers: 20400
+    engagement: 1472
+    commentsToLikes: 0.039965
+    id: ckcdtva5le4ol0j23rsq63cuy
+    verified: false
+    hashtags: "#lgbt, #vegan, #fyp, #atx"
+  - username: "jmojesid2"
+    fullname: >-
+      Jessica
+    bio: >-
+      Your TikTok BFF Austin,TX IG:Jessica0289 Wanna make you smile!
+    location: "United States"
+    followers: 191200
+    engagement: 1254
+    commentsToLikes: 0.053410
+    id: ckberl7op9wn10j235zjwltbb
+    verified: false
+    hashtags: "#texas, #moms, #daughter, #latina"
+  - username: "kaydrauhl"
+    fullname: >-
+      Kaylee Baker
+    bio: >-
+      My boyfriend is my only personality trait
+    location: "United States"
+    followers: 11200
+    engagement: 925
+    commentsToLikes: 0.030511
+    id: ckd6iv544bs5j0j230dabvdj5
+    verified: false
+    hashtags: "#texas, #austin, #couple, #fyp"
+  - username: "francescabourdier"
+    fullname: >-
+      Francesca Bourdier
+    bio: >-
+      CEO of BOURDIER (bore•gee•ay) Follow IG: bourdierfashion for updates! 💞
+    location: "United States"
+    followers: 3617
+    engagement: 588
+    commentsToLikes: 0.035982
+    id: ck9jw79ovv8fq0j7899vzrqc2
+    verified: false
+    hashtags: "#artistsoftiktok, #xyzbca, #diy, #viral"
   - username: "staarlite"
     fullname: >-
       Staarlite
     bio: >-
       Food + Travel + Doberman = My Life ❤️ Austin/Houston Eats & Fun IG: staarlite
     location: "United States"
-    followers: 54800
-    engagement: 637
-    commentsToLikes: 0.028015
+    followers: 62100
+    engagement: 903
+    commentsToLikes: 0.046232
     id: ckb9doied10bl0j23pxaeuu0m
     verified: false
-    hashtags: "#travel, #halloween, #fyp, #over30"
-  - username: "austinfoodadventures"
-    fullname: >-
-      austinfoodadventures
-    bio: >-
-      My experiences as a foodie and more📍Austin, TX Insta: @austinfoodadventures
-    location: "United States"
-    followers: 3271
-    engagement: 663
-    commentsToLikes: 0.016093
-    id: ckd6ae9p04e2s0j23se1inc0u
-    verified: false
-    hashtags: "#noodles, #foodstagram, #cooking, #pasta"
-  - username: "feedmi"
-    fullname: >-
-      Mimi | Austin Food & Travel
-    bio: >-
-      just a girl trying to decide what to eat follow me on IG @feedmi_ 🍜🌎✈️
-    location: "United States"
-    followers: 51100
-    engagement: 887
-    commentsToLikes: 0.025995
-    id: ckb13n3gyrnij0j234wj5d1bz
-    verified: false
-    hashtags: "#texasfoodie, #austin, #utaustin, #austinfood"
-  - username: "xmeredithx5"
-    fullname: >-
-      𝓂𝑒𝓇𝑒𝒹𝒾𝓉𝒽 ✨
-    bio: >-
-      snap: meredith 1030 || fort worth tx
-    location: "United States"
-    followers: 2070
-    engagement: 1875
-    commentsToLikes: 0.009125
-    id: ckc7pcuquv31z0j23bk81ib9q
-    verified: false
-    hashtags: "#christmas, #foryou, #disney, #foryoupage"
-  - username: "kaylachance_"
-    fullname: >-
-      Kayla Chance
-    bio: >-
-      Food, Travel & Country stuff 🤠 Austin, Texas 🇺🇸 Roll Tide ♥️
-    location: "United States"
-    followers: 11800
-    engagement: 416
-    commentsToLikes: 0.028097
-    id: ckamhilpgg7680i78unlsoypo
-    verified: false
-    hashtags: "#austin, #country, #texas, #alanjackson"
-  - username: "aubzallday"
-    fullname: >-
-      Aubrey Ann
-    bio: >-
-      I like drinking, cooking & boys. Texas State University Venmo: AAAubrey 21
-    location: "United States"
-    followers: 49400
-    engagement: 1362
-    commentsToLikes: 0.009745
-    id: ck9r4pp20w3kz0j78pozrr993
-    verified: false
-    hashtags: "#makeadrink, #texas, #cooking, #atx"
+    hashtags: "#texas, #dogsoftiktok, #dogsoftikitok, #destinationdepop"
   - username: "chudsbbq"
     fullname: >-
       Chuds bbq
     bio: >-
       Austin Tx based Pitmaster building smokers and cooking meats
     location: "United States"
-    followers: 34000
-    engagement: 1199
-    commentsToLikes: 0.010940
+    followers: 34100
+    engagement: 1152
+    commentsToLikes: 0.010694
     id: ckce0ooazhvft0j234qjnwtaw
     verified: false
-    hashtags: "#bbq, #texas, #barbecue, #smoke"
-  - username: "thebrokitchenguy"
+    hashtags: "#fyp, #foryourpage, #barbecue, #bbq"
+  - username: "sebastian_arellano_"
     fullname: >-
-      Michael Harris
+      Sebas✨
     bio: >-
-      Living in Texas and I cook dope food for my friends. #veteran #thebrokitchen
+      El Paso TX 18🥂
     location: "United States"
-    followers: 16200
-    engagement: 1431
-    commentsToLikes: 0.070748
-    id: ckcpibh7ohucd0j23a77ns4o4
+    followers: 42400
+    engagement: 1661
+    commentsToLikes: 0.111455
+    id: ck963njatvmmo0j78oje2oajb
     verified: false
-    hashtags: "#love, #havefun, #veteranmusic, #xyzbca"
-  - username: "austinmart"
-    fullname: >-
-      Austin Martin
-    bio: >-
-      Michigan ♓️ Thank you for 30k 🙏🏻 Snap: austinrmartin1
-    location: "United States"
-    followers: 34800
-    engagement: 1383
-    commentsToLikes: 0.046545
-    id: ckcv8oufeqhtn0j23h11yxg3z
-    verified: false
-    hashtags: "#viral, #greenscreenvideo, #fyp, #foryou"
-  - username: "ketosnackz"
-    fullname: >-
-      iRick
-    bio: >-
-      Keto enthusiast located in Austin, TX!
-    location: "United States"
-    followers: 50600
-    engagement: 480
-    commentsToLikes: 0.034595
-    id: ckb9bp23yxyr20j23zdexbpii
-    verified: false
-    hashtags: "#ketosis, #type2diabetes, #ketodiet, #lowcarbdiet"
+    hashtags: "#elpaso, #foryoupage, #frenchie, #texas"
 ---

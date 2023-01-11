@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Lisbon in 2023
+title: Top 10 Lifestyle Instagram Influencers In Lisbon In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Lisbon in 2023. Most popular hashtags: #ootd #outfitoftheday #lifestyle #outfitinspiration.
+  Find top lifestyle Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #lisbon #fashion #algarve.
 platform: Instagram
-hits: 73
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 73 Instagram influencers like this in Lisbon, Portugal for you to connect with.
+hits: 22
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 22 Instagram influencers like this in Lisbon, Portugal for you to connect with.
 profiles:
-  - username: "brunolexim"
+  - username: "be_happy_in_lisbon"
     fullname: >-
-      BRUNO LEXIM
+      Lisboa Properties by BMG
     bio: >-
-      • Menswear | Fashion Creator | Lifestyle • Lisbon, Portugal 🇵🇹 • Contact: E-mail 📩 www.trendhim.com 15% discount! trnd.hm/trendhim.brunolexim
+      Real Estate experts in Portugal. • Sales & Lets • New Developments • Investments Email: pedro.silva@bmg-realestate.com
     location: "Portugal"
-    followers: 5702
-    engagement: 1486
-    commentsToLikes: 0.175327
-    id: ck8t4nlcl7fh60j78xtp7cxlv
+    followers: 23785
+    engagement: 209
+    commentsToLikes: 0.030113
+    id: ck5higiygde510i11jeijq1d0
     verified: false
-    hashtags: "#mensfashionstyle, #bestofmenstyle, #waymenfashion, #classydapper"
-  - username: "fabiosengo"
-    fullname: >-
-      Fábio Sengo Oliveira ®
-    bio: >-
-      Menswear & Lifestyle Lisbon, Portugal 🛒 SHOP MY LIGHTROOM PRESETS: @fabiosengopresets
-    location: "Portugal"
-    followers: 26467
-    engagement: 292
-    commentsToLikes: 0.098873
-    id: ck14k1soznapw0i19w6h4840d
-    verified: false
-    hashtags: "#menclothing, #retrostyles, #bestfitsdaily, #houseofstreetwear"
-  - username: "lilianasantos"
-    fullname: >-
-      Liliana Santos ♍︎
-    bio: >-
-      LUVIN 📩 tiago.froufe@thisisluvin.com 🎭 sr.actor@outlook.pt Embaixadora @fundacaooseculo Código Prozis ❤️ LILIANA
-    location: "Portugal"
-    followers: 295725
-    engagement: 275
-    commentsToLikes: 0.015423
-    id: ck5zzgtj3bpoe0i14zwqs2f4y
-    verified: true
-    hashtags: "#pub, #mypet, #catlover, #ootd"
-  - username: "veralspereira"
-    fullname: >-
-      Vera Pereira
-    bio: >-
-      Enjoy the life ✈️
-    location: "Portugal"
-    followers: 41413
-    engagement: 431
-    commentsToLikes: 0.013916
-    id: ck8tbo5iqwfm80j78v3lh5qld
-    verified: false
-    hashtags: "#white, #girlpower, #picoftheday, #lingerie"
-  - username: "nanci__vieira"
-    fullname: >-
-      N â n c i   V i e i r a
-    bio: >-
-      My closet : @nanci__vieiracloset Lisbon, Portugal Lifestyle Youtuber ✨ 🎓 Iscte-iul GIL 💌 nancivieirapessoal@gmail.com
-    location: "Portugal"
-    followers: 6710
-    engagement: 685
-    commentsToLikes: 0.012658
-    id: ckf5pqykc701v0j23u144uzrk
-    verified: false
-    hashtags: "#ferias2020, #verao2020, #blogger, #lookoftheday"
-  - username: "thepinkelephantshoe"
-    fullname: >-
-      Cátia Rodrigues
-    bio: >-
-      Beauty & Lifestyle Blogger 🌸 Lisbon 📍 I truly believe that our skin should glow as much as our soul ✨ 💌 thepinkelephantshoe@gmail.com NOVO POST👩🏼‍💻👇🏻
-    location: "Portugal"
-    followers: 19572
-    engagement: 619
-    commentsToLikes: 0.671275
-    id: ck0vv7ejrnvfu0i19lj715hn8
-    verified: false
-    hashtags: "#skincare, #giveaway, #passatempo, #skinpt"
-  - username: "heyandiehey"
-    fullname: >-
-      Andreia
-    bio: >-
-      Travel, Food and Lifestyle Based in Lisbon, Portugal _
-    location: "Portugal"
-    followers: 28493
-    engagement: 670
-    commentsToLikes: 0.052547
-    id: ck134whrxyj250i190hpg9hst
-    verified: false
-    hashtags: "#heyandieheyvalencia, #heyandieheycopenhagen, #earthday, #25deabril"
+    hashtags: "#assetmanagement, #expatlife, #portuguese, #dreamhome"
   - username: "catarina.fernandees"
     fullname: >-
       Catarina Fernandes
     bio: >-
-      • Content Creator • Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • PROZIS: CATARINAFERNANDES ; BOLT: CATE PRESETS ⤵️
+      • Content Creator • Lagos/Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • Founder: @caetanashop 🤍
     location: "Portugal"
-    followers: 89978
-    engagement: 616
-    commentsToLikes: 0.132250
+    followers: 97960
+    engagement: 391
+    commentsToLikes: 0.065325
     id: ck1374d9y9pu80i19hpf69j8k
     verified: false
-    hashtags: "#bloggerstyle, #ootd, #fashion, #lookdacate"
-  - username: "rubenrpvaz"
+    hashtags: "#lookdacate, #grwm, #fashion, #ootd"
+  - username: "r.odrigomarques"
     fullname: >-
-      MENS FASHION BY RUBEN
+      Rodrigo Marques
     bio: >-
-      📍Lisbon, Portugal ▪️Mensfashion | lifestyle | ▪️Just believe in your dreams! @myproteinpt discount code: MPRUBEN 📩: rubenrpvaz@gmail.com or DM
+      24y | Portugal | Graphic & Ui Designer
     location: "Portugal"
-    followers: 11643
-    engagement: 836
-    commentsToLikes: 0.126549
-    id: ck6ti80us07rt0j719wtmkxt0
+    followers: 9144
+    engagement: 702
+    commentsToLikes: 0.012659
+    id: ck8t3idkl3esj0j78imvnxtle
     verified: false
-    hashtags: "#lisbon, #style, #menwithstyle, #casual"
-  - username: "saralopeeees"
+    hashtags: "#portugal, #lisbon, #instadaily, #menwithbeard"
+  - username: "alexmoraisoff"
     fullname: >-
-      SARA | moda & lifestyle
+      Alexandre Morais
     bio: >-
-      Content creator • Fashion • Lifestyle 📍Model in Lisbon ✉️ geral.saralopes@gmail.com 10% - SARALOPES @bzr.streetstyle
+      @centralmodels 🇵🇹 Ambassador of @cabelopantene Shanti 🕊
     location: "Portugal"
-    followers: 12116
-    engagement: 622
-    commentsToLikes: 0.257562
-    id: ck8szqih6pccn0j78hojrkqe7
+    followers: 5775
+    engagement: 1406
+    commentsToLikes: 0.026825
+    id: ck5pxx48stakv0i11ihxacllg
     verified: false
-    hashtags: "#girlsgoneloavies, #inspiration, #loavies, #fashionlover"
+    hashtags: "#outfit, #liveinlevis, #fashionstyle, #outfitinspiration"
+  - username: "brunagaliano_"
+    fullname: >-
+      Bruna Galiano
+    bio: >-
+      Lifestyle, beauty and fashion 📍Lisbon 🇵🇹🇦🇴 Real estate agent/ Remax 📧 brunagaliano@hotmail.com
+    location: "Portugal"
+    followers: 9157
+    engagement: 939
+    commentsToLikes: 0.024331
+    id: ck8tb4ctxu7ub0j78jl5614zn
+    verified: false
+    hashtags: "#praiadosalem, #melanina, #stayhome, #summer"
+  - username: "rafaelaalexandra0"
+    fullname: >-
+      Rafaela Duarte | Healthy 💫
+    bio: >-
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
+    location: "Portugal"
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
+    verified: false
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
+  - username: "inestakestheworld"
+    fullname: >-
+      INÊS | TRAVEL & PHOTOGRAPHY
+    bio: >-
+      ✈️ Travel Blogger ✈️ @ilovemychocolatebox code: INESTAKESTHEWORLD10 📍Portuguese girl based in Lisbon ⬇️ CHECK MY BLOG FOR MORE TRAVEL TIPS
+    location: "Portugal"
+    followers: 9620
+    engagement: 485
+    commentsToLikes: 0.085845
+    id: ck0vyou0h529o0i19ka8kor50
+    verified: false
+    hashtags: "#dametraveler, #portugaltravel, #sheisnotlost, #roamingwomen"
+  - username: "fp_cunha"
+    fullname: >-
+      Filipe Cunha
+    bio: >-
+      Lifestyle | Menswear | Dance | Skin Care ULHT 🎓 marketing & advertising Lisbon 🔛 Lamego, pt 📩 filipecunha.wk@gmail.com
+    location: "Portugal"
+    followers: 11304
+    engagement: 442
+    commentsToLikes: 0.046163
+    id: ck9ha5yl3bai20j781k523wmp
+    verified: false
+    hashtags: "#menstyle, #mensfashion, #streetstyle, #dance"
+  - username: "mariocravinho"
+    fullname: >-
+      M a r i o C r a v i n h o
+    bio: >-
+      📍South, Portugal • Photography & Lifestyle • My pictures have a filter, my personality doesn’t.
+    location: "Portugal"
+    followers: 12122
+    engagement: 698
+    commentsToLikes: 0.021249
+    id: ck8t2gkqszf2r0j78ollw4ruo
+    verified: false
+    hashtags: "#disney, #lisbon, #merrychristmas, #filippoloreti"
+  - username: "dvfots"
+    fullname: >-
+      David Velez Fotografia
+    bio: >-
+      FREELANCE PHOTOGRAPHER Seixal, Lisboa, Portugal📍 📸 Portrait/body/fashion/lifestyle Available for work www.top4fans.com/dvfots
+    location: "Portugal"
+    followers: 21178
+    engagement: 313
+    commentsToLikes: 0.007770
+    id: ck0vzoy4ca6ew0i19iqm9bsjn
+    verified: false
+    hashtags: "#testshoot, #model, #story, #sixpack"
 ---

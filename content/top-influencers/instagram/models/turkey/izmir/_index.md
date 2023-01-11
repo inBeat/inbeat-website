@@ -1,48 +1,72 @@
 ---
-title: Top 10 Models Instagram Influencers In Izmir in 2023
+title: Top 10 Models Instagram Influencers In Izmir In 2023
 description: >-
   Find top models Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #model #istanbul #photo.
 platform: Instagram
-hits: 59
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 59 Instagram influencers like this in Izmir, Turkey for you to connect with.
+hits: 56
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 56 Instagram influencers like this in Izmir, Turkey for you to contact.
 profiles:
-  - username: "simgesiofficial"
+  - username: "umuttozcan"
     fullname: >-
-      simge şahin
+      Umut Özcan
     bio: >-
-      🍓 🍓 🍓 🎤solist🎤 🎶 Müzik Öğretmeni🎶 YouTube kanalımı çookkça gezebilirsiniz ⤵️⤵️
+      SPONSORLUK İÇİN DM ✌️👣👣🌏🇹🇷 #kesfet #doga #kamp #seyahat #sunset
     location: "Turkey"
-    followers: 8456
-    engagement: 1497
-    commentsToLikes: 0.033611
-    id: ck14irfqqguqm0i19p7ra3vsd
+    followers: 201695
+    engagement: 125
+    commentsToLikes: 0.090914
+    id: ck8t8hypikjqd0j78supvkvyy
     verified: false
-    hashtags: "#naturephotography, #photography, #photooftheday, #turkey"
+    hashtags: "#instalike, #sunset, #photooftheday, #day"
+  - username: "hoz.fashion"
+    fullname: >-
+      HOZ FASHION
+    bio: >-
+      📍 BURSA/YILDIRIM 👉 Toptan satışlarımız mevcuttur. 📦 Şeffaf kargo 💵 Kapıda nakit veya kredi kartı 💳 ♻️ İade yok değişim var ⬇️Whatsapp link
+    location: "Turkey"
+    followers: 38390
+    engagement: 44
+    commentsToLikes: 0.028840
+    id: ck14k97vlodr60i19ewd4lvgy
+    verified: false
+    hashtags: "#tarz, #toptan, #style, #turkey"
+  - username: "makeupbymahsima"
+    fullname: >-
+      Mahsima
+    bio: >-
+      📍istanbul/ levent - umraniye 💄 saç ve makyaj @mahsiiiiima
+    location: "Turkey"
+    followers: 10420
+    engagement: 93
+    commentsToLikes: 0.080357
+    id: ck0vyxftu697s0i194xxfx4w0
+    verified: false
+    hashtags: "#beauty, #model, #dugun, #hair"
   - username: "vlknbrt"
     fullname: >-
       ᴠᴏʟᴋᴀɴ ʙᴀʀᴜᴛ | 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢
     bio: >-
-      ɪ ᴀᴍ ɪɴ ʟᴏs ᴀɴɢᴇʟᴇs ɴᴏᴡ 📍 ᴅᴍ ᴛᴏ ʙᴏᴏᴋ ғᴏʀ sʜᴏᴏᴛɪɴɢ 📸 - 𝑝𝑜𝑟𝑡𝑟𝑎𝑖𝑡 -𝑓𝑎𝑠ℎ𝑖𝑜𝑛 -𝑠𝑝𝑜𝑟𝑡
+      ɪᴢᴍɪʀ & ʟᴏs ᴀɴɢᴇʟᴇs📍 ᴅᴍ ᴛᴏ ʙᴏᴏᴋ ғᴏʀ sʜᴏᴏᴛɪɴɢ 📸 •𝚙𝚘𝚛𝚝𝚛𝚊𝚒𝚝 •𝚏𝚊𝚜𝚑𝚒𝚘𝚗 •𝚜𝚎𝚗𝚜𝚞𝚊𝚕 •𝚜𝚙𝚘𝚛𝚝 @flyforart 🚁
     location: "Turkey"
-    followers: 6895
-    engagement: 647
-    commentsToLikes: 0.030472
+    followers: 6719
+    engagement: 371
+    commentsToLikes: 0.051416
     id: ckapb6kejyr5h0i78v3qx8bvh
     verified: false
-    hashtags: "#photography, #modelling, #photooftheday, #russian"
-  - username: "afrodizyakliaskparfumu"
+    hashtags: "#bikini, #yoga, #losangelesphotographer, #portrait"
+  - username: "hakikicemarslan"
     fullname: >-
-      Afrodizyaklı Aşk Parfümü
+      Cem Arslan
     bio: >-
-      ⚜️Horus Nefertem🌴 ⚜️Afrodizyaklı Aşk Parfümü ⚜️Etkili Kalıcılık, Teninize Sinecek . ⚜️Kokunla Partnerini Etkile .. 📲Sipariş WP 0538 433 3062 veya DM 👈
+      🎧 Ne Sağcı, Ne Solcu, Radyocu🎙 @superfm @karnavalcom Menajer: @ebrukaracamanagement
     location: "Turkey"
-    followers: 96470
-    engagement: 98
-    commentsToLikes: 0.003341
-    id: ck5hlaaxajuxr0i11mhgaaiuo
-    verified: false
-    hashtags: "#kal, #antalya, #voguebrasil, #vogue"
+    followers: 129961
+    engagement: 196
+    commentsToLikes: 0.024695
+    id: ck5c8dgow992u0i11x7hbnojs
+    verified: true
+    hashtags: "#sonbahar, #monochorome, #hollywood, #spring"
   - username: "naturelpretty"
     fullname: >-
       Naturel Pretty🌹
@@ -54,77 +78,53 @@ profiles:
     commentsToLikes: 0.113013
     id: ckap5l2jbc5os0i784cdd67tz
     verified: false
-    hashtags: "#kadrajt, #igs, #yourshotphotographer, #anilarisakla"
-  - username: "makeupbymahsima"
+    hashtags: "#fotografdukkanim, #kadrajimdan, #naturephotography, #fotografliyorum"
+  - username: "officialsadafch"
     fullname: >-
-      Mahsima
+      Sadaf kantik
     bio: >-
-      uwcee company certified 📍istanbul🇹🇷 💄Freelance makeup artist @mahsiiiiima
+      Fashion model & Actress Snapchat:sadafch3
     location: "Turkey"
-    followers: 10502
-    engagement: 92
-    commentsToLikes: 0.048454
-    id: ck0vyxftu697s0i194xxfx4w0
+    followers: 6742
+    engagement: 615
+    commentsToLikes: 0.185662
+    id: ck5hsjkwewp8d0i1124imq8j5
     verified: false
-    hashtags: "#photooftheday, #makeup, #sa, #makyaj"
-  - username: "nurayalpaslanofficial"
-    fullname: >-
-      🍀✌️🤍 NURAY ALPASLAN OFFICIAL
-    bio: >-
-      🍀🤍 💚 Always Be Happy ⓁⒺⓉ’Ⓢ ⒹⒶⓃⒸⒺ ⓉⓄⒼⒺⓉⒽⒺⓇ 💚 🤍 🍀 Professional Dancer💃 Choreographer 👯‍♀️ Model 📷 🔻Officials Sponsor🔻 @pivaccisocialdance
-    location: "Turkey"
-    followers: 9864
-    engagement: 325
-    commentsToLikes: 0.064770
-    id: ck5c9wdiwc93g0i11zxjqcn7r
-    verified: false
-    hashtags: "#blonde, #dancevideo, #repost, #bachatatime"
-  - username: "sabirliebeveynler_pedagoganne"
-    fullname: >-
-      Pedagog/Aile dan. Gül ÖZTÜRK
-    bio: >-
-      👨‍👩‍👧Evli ve anne Seminer ve söyleşi daveti için DM lütfen. 🎀ERÜ PDR lisans/master 🎀Hacettepe Üni. Aile danışmanlığı. 🎀Başkent üni.Oyun terapis
-    location: "Turkey"
-    followers: 22026
-    engagement: 288
-    commentsToLikes: 0.018508
-    id: ck13c5jxhypws0i19sormwuz4
-    verified: false
-    hashtags: "#erkek, #destek, #pedagog, #lohusaanneler"
-  - username: "hakikicemarslan"
-    fullname: >-
-      Cem Arslan
-    bio: >-
-      🎧 Ne Sağcı, Ne Solcu, Radyocu🎙Best FM📻 🎙07:00-09:00 GAZOZ AĞACI 🎵18:00-20:00 GAZOR Menajer: ebru@ebrukaraca.com.tr Youtube: hakikicemarslan
-    location: "Turkey"
-    followers: 123223
-    engagement: 218
-    commentsToLikes: 0.029907
-    id: ck5c8dgow992u0i11x7hbnojs
-    verified: true
-    hashtags: "#camera, #retro, #shooting, #blackandwhitephotography"
+    hashtags: "#shoot, #pakistan, #couplegoals, #turkey"
   - username: "nurdan_civici"
     fullname: >-
-      🌱💦🌞🌲
+      Nurdan Çivici Besen
     bio: >-
       Mutluluk tohumu ekmek için geç değil. Dental Asistan 📸Nikon D5100 Admin 👉@yourshot_turkey Bütün fotoğraflar bana aittir. İzmir
     location: "Turkey"
-    followers: 4815
-    engagement: 1341
-    commentsToLikes: 0.063111
+    followers: 4783
+    engagement: 1328
+    commentsToLikes: 0.068465
     id: ck8t96yf3n3200j783hfcwltv
     verified: false
-    hashtags: "#objektifimden, #bnw, #bns, #turklikeben"
+    hashtags: "#turklikeben, #anadoluyuz, #anadolumm, #bnw"
   - username: "sudesudemirelofficial"
     fullname: >-
       sudesu demirel
     bio: >-
-      Model&koreograf&oyuncu:03haziran: ikizler ::: https://youtu.be sudesudemirel reklam&işbirliği&DM
+      Model&koreograf&oyuncu:03haziran: ikizler : ikizler @sudesudemirel reklam&işbirliği&DM
     location: "Turkey"
-    followers: 31618
-    engagement: 301
-    commentsToLikes: 0.085808
+    followers: 31600
+    engagement: 300
+    commentsToLikes: 0.082012
     id: ck5ca2qshcl140i11atatabbq
     verified: false
-    hashtags: "#instagramers, #istanbul, #manken, #bodrum"
+    hashtags: "#mardin, #foto, #fashionweek, #podyum"
+  - username: "nurayalpaslanofficial"
+    fullname: >-
+      ✌️🤍 NURAY ALPASLAN OFFICIAL
+    bio: >-
+      🤍 💛 Always Be Happy ⓁⒺⓉ’Ⓢ ⒹⒶⓃⒸⒺ ⓉⓄⒼⒺⓉⒽⒺⓇ 💛 🤍 Professional Dancer💃 Choreographer 👯‍♀️ Model 📷 Dance shoes sponsered 👠 @pivaccisocialdance
+    location: "Turkey"
+    followers: 10589
+    engagement: 344
+    commentsToLikes: 0.052490
+    id: ck5c9wdiwc93g0i11zxjqcn7r
+    verified: false
+    hashtags: "#ig, #dancevideo, #motivationmonday, #positivevibes"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Porto in 2023
+title: Top 10 Fashion Instagram Influencers In Porto In 2023
 description: >-
-  Find top fashion Instagram influencers in Porto in 2023. Most popular hashtags: #porto #fashion #portugal #ootd.
+  Find top fashion Instagram influencers in Porto in 2023. Most popular hashtags: #fashion #ootd #fashionblogger #photooftheday.
 platform: Instagram
-hits: 60
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 60 Instagram influencers like this in Porto, Portugal for you to collaborate.
+hits: 18
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 18 Instagram influencers like this in Porto, Portugal for you to contact.
 profiles:
-  - username: "sarahmaggioli"
+  - username: "alicefcnunes"
     fullname: >-
-      Sarah Maggioli ✨
+      Alice Nunes ✨
     bio: >-
-      📍 Porto, Portugal 🎓 Master in Psychology Buy my presets here 👇 @friospresets
+      💄Fashion Enthusiast from Porto 🎓 Social Education Student ✉️ Brands: alicenunes_123@hotmail.com
     location: "Portugal"
-    followers: 39222
-    engagement: 397
-    commentsToLikes: 0.018820
-    id: ck6tx838kwcv10j71u8xta4rm
+    followers: 7231
+    engagement: 604
+    commentsToLikes: 0.081193
+    id: ck9hc85qyk6z00j78p5eawpc1
     verified: false
-    hashtags: "#style, #styleblogger, #streetstyle, #lookstyle"
-  - username: "mrdheo"
+    hashtags: "#portuguesegirl, #porto, #portugal, #igers"
+  - username: "gabrielaxsantos"
     fullname: >-
-      𝘎𝘳𝘢𝘧𝘧𝘪𝘵𝘪 𝘐 𝘚𝘵𝘳𝘦𝘦𝘵 𝘈𝘳𝘵 𝘐 𝘈𝘳𝘵
+      GABRIELA SANTOS
     bio: >-
-      𝘗𝘰𝘳𝘵𝘰, 𝘗𝘰𝘳𝘵𝘶𝘨𝘢𝘭 🇵🇹 𝘌𝘯𝘲𝘶𝘪𝘳𝘪𝘦𝘴: 𝘪𝘯𝘧𝘰@𝘮𝘳𝘥𝘩𝘦𝘰.𝘤𝘰𝘮
+      My life + style in squares ♡ 23 portugal 💌 gabriela.santos97@outlook.pt
     location: "Portugal"
-    followers: 54127
-    engagement: 248
-    commentsToLikes: 0.040919
-    id: ck6txeqbfxezh0j71zyzl6vw3
-    verified: true
-    hashtags: "#sketch, #streetart, #cute, #painting"
-  - username: "mercheromero.oficial"
-    fullname: >-
-      Merche Romero
-    bio: >-
-      #everythingispossible #withlove❤ #sport #music #dj #tv #fashion
-    location: "Portugal"
-    followers: 57968
-    engagement: 165
-    commentsToLikes: 0.035697
-    id: ck5q4fow7ovrq0i117oi8rngz
+    followers: 13465
+    engagement: 1473
+    commentsToLikes: 0.059922
+    id: ck8tbun49x7wk0j78ufnfzww2
     verified: false
-    hashtags: "#sport, #fimdesemana, #fe, #feelings"
+    hashtags: "#blackdress, #blonde, #coimbra, #porto"
+  - username: "sara_nata"
+    fullname: >-
+      Sara Nata | Fashion•Lifestyle
+    bio: >-
+      📍Porto • Portugal Stylist • Image Consultant • Fashion Adviser 📥 DM
+    location: "Portugal"
+    followers: 7595
+    engagement: 736
+    commentsToLikes: 0.125359
+    id: ck8t4c6ru68o50j784zjtiz1f
+    verified: false
+    hashtags: "#fashionista, #sunglasses, #instagood, #styleinspiraton"
+  - username: "joanacbcosta"
+    fullname: >-
+      Joana Costa
+    bio: >-
+      lifestyle, fashion and travel 16/10📍 Porto ➝ if you stand for nothing you'll fall for anything 🐘 ➝ collabs via e-mail or dm LAST VIDEO HERE 👇🏽❤️
+    location: "Portugal"
+    followers: 61870
+    engagement: 353
+    commentsToLikes: 0.539473
+    id: ckap6c2m9f9gv0i786k2ulw9p
+    verified: false
+    hashtags: "#falloutfit, #fashion, #outono, #casuallook"
+  - username: "aluisalopes"
+    fullname: >-
+      ＬＵÍＳΛ   ＬＯＰΞＳ
+    bio: >-
+      Trust me I have no idea what I’m doing too ♡ FASHION || COLLEGE || LIFESTYLE 📍Based in Porto, PT 📩 luisamlopes23@gmail.com
+    location: "Portugal"
+    followers: 18509
+    engagement: 304
+    commentsToLikes: 0.015890
+    id: ck9hbax8tg2qo0j78we79olaj
+    verified: false
+    hashtags: "#zaraoutfit, #outfitoftheday, #ootdshare, #lookdodiabrasil"
   - username: "joanavaz_"
     fullname: >-
       JOANA VAZ
     bio: >-
-      • Portuguese • Arch • Blogger • 📍 Porto 📩 info@joanavaz.pt
+      • Portuguese • Arch • Blogger • 📍 Porto 📩 info@joanavaz.pt SHOP MY SUNGLASSES COLLECTION HERE 👇
     location: "Portugal"
-    followers: 275270
-    engagement: 520
-    commentsToLikes: 0.240055
+    followers: 351000
+    engagement: 411
+    commentsToLikes: 0.011860
     id: ck0vvzzinrhpl0i19s7rkfmrz
     verified: true
-    hashtags: "#fashionista, #pub, #fashionblogger, #fashion"
-  - username: "raaquelmatoss"
+    hashtags: "#positano, #fashionstyle, #summer, #travel"
+  - username: "ajoanamaiaa"
     fullname: >-
-      Raquel Matos
+      TRAVEL✨| FASHION✨|LIFESTYLE ✨
     bio: >-
-      📍Porto/ 🏠 Setúbal Fashion, Lifestyle, Healthy Living RAQUELMATOS15 @eunutrition_pt 15% desconto RAQUELM 15% @tummytox_pt ✉️ anarsmatos9@gmail.com
+      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost ✨Joana - 18% @soulmia_store Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
     location: "Portugal"
-    followers: 12702
-    engagement: 620
-    commentsToLikes: 0.044531
-    id: ckap1o61jvdsj0i78njw9k4qr
+    followers: 9479
+    engagement: 659
+    commentsToLikes: 0.128359
+    id: ck14hflt0a2vq0i19iwbux8so
     verified: false
-    hashtags: "#today, #portugal, #fashionblogger, #fitnessmotivation"
-  - username: "leticiasatierf"
+    hashtags: "#poolview, #outfitinspo, #traveltheworld, #visitportugal"
+  - username: "rubendaniiel"
     fullname: >-
-      lê satierf 🇧🇷
+      Rúben Daniel 🇵🇹 🏄🏽‍♂️
     bio: >-
-      🐚@makai_co Porto, Portugal 🌎 Fashion design student [ESAD] • contactoleticiasatierf@gmail.com •
+      20|Porto📍| 18💛 CEO @desportolowcost._ TIPSTER APOSTAS DESPORTIVAS @tips4real._ 📊 ⬇️ GRUPO APOSTAS GRATUITO ⬇️
     location: "Portugal"
-    followers: 21614
-    engagement: 259
-    commentsToLikes: 0.042014
-    id: ck8t0zhiitwoj0j782aws3urr
+    followers: 60048
+    engagement: 239
+    commentsToLikes: 0.298307
+    id: ckap6k8kag7960i78ny2fsi99
     verified: false
-    hashtags: "#lsoutfits"
-  - username: "studiobros_official"
+    hashtags: ""
+  - username: "im.susanasilva"
     fullname: >-
-      SABANAXUA
+      SUSANA SILVA ♡
     bio: >-
-      “SABANAXUA” OUT NOW 🌐 IN DIGITAL PLATFORMS
+      Based in Porto, Portugal Embaixadora @fitnessup_portugal • Code UP-SUSANASILVA 5€ Desconto Hawk da @hawkerscrew • Code HC-SUSANASILVA 20% Desconto
     location: "Portugal"
-    followers: 11003
-    engagement: 635
-    commentsToLikes: 0.034661
-    id: ck55l9tz513fw0i11bulc8cnb
+    followers: 14331
+    engagement: 306
+    commentsToLikes: 0.080679
+    id: ckaovkl9a4ys60i787iawknf3
     verified: false
-    hashtags: "#hiphop, #sonymusicportugal, #fashion, #caboverde"
-  - username: "barbara.marques"
+    hashtags: "#womanpower, #woman, #photoshoot, #womanfashion"
+  - username: "akeilaamorim"
     fullname: >-
-      Bárbara Marques
+      Keila Amorim 🌸
     bio: >-
-      Jurist. Fashion & lifestyle content creator. 📍Porto, Portugal 💌 barbara@mykindofjoy.com
+      📍Porto/Portugal ✨ 90’s 👨‍👩‍👧‍👦 Mãe de 2 pimpolhos. 👧🏻👦🏻 👄 @keilabeauty 📩 akeilaamorim@outlook.pt
     location: "Portugal"
-    followers: 61617
-    engagement: 609
-    commentsToLikes: 0.217552
-    id: ck5pzd0tc0dfn0i113djdxzjd
+    followers: 17900
+    engagement: 203
+    commentsToLikes: 0.144125
+    id: ck0txfdzaiwel0i19vkfveac1
     verified: false
-    hashtags: "#madeinportugal, #ootd, #pub, #mariafrederica"
-  - username: "inestorrespereira"
-    fullname: >-
-      Inês Torres Pereira
-    bio: >-
-      Porto, Portugal Law student | Fashion & Lifestyle Ambassador of @theofficialsafira 💌: inespereira99@outlook.com
-    location: "Portugal"
-    followers: 3249
-    engagement: 1271
-    commentsToLikes: 0.261031
-    id: ck8tdfwgu37la0j781c7leiqq
-    verified: false
-    hashtags: "#lookbook, #sorteiosportugal, #facetheoryskincare, #skincare"
-  - username: "rubenruscello"
-    fullname: >-
-      Rúben Ruscello
-    bio: >-
-      ▪️Made in Porto, Portugal📍 ▪️Menswear | Fashion | Lifestyle 📸 ▪️@zumub “RUSCELLO10” ▪️Rubenruscello05@gmail.com 📥
-    location: "Portugal"
-    followers: 8063
-    engagement: 1034
-    commentsToLikes: 0.123781
-    id: ck15sv9j1ez2x0i19d03afjib
-    verified: false
-    hashtags: "#classydapper, #travelphotography, #tbt, #mensfashionreview"
+    hashtags: "#apelevivemaisforte, #maedemenino, #5meses, #pub"
 ---

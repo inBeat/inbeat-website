@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Los Angeles in 2023
+title: Top 10 Food Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top food Instagram influencers in Los Angeles in 2023. Most popular hashtags: #food #losangeles #lafoodie.
+  Find top food Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #food #foodporn #foodie.
 platform: Instagram
-hits: 352
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 352 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 357
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database holds 357 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
-  - username: "addalittlelemon"
+  - username: "bby.bruh"
     fullname: >-
-      Sara | add a little lemon 🇮🇶🍽🍋
+      morgan
     bio: >-
-      iraqi american: food stories from the diaspora ✨saveur blog award finalist✨ #thepersonalispolitical | iraqi food | los angeles
+      clothes & food. los angeles. youtube. email for business inquires
     location: "United States"
-    followers: 6514
-    engagement: 485
-    commentsToLikes: 0.110150
-    id: ck0tvzezldgl70i198w0cazjf
+    followers: 113813
+    engagement: 571
+    commentsToLikes: 0.009667
+    id: ck6ugqxir4n0u0j713gjm7ie4
     verified: false
-    hashtags: "#aprilisforarabfood, #quarantinelife, #needsgemar, #noraisins"
-  - username: "lvnthelife"
+    hashtags: "#ad"
+  - username: "imhungry"
     fullname: >-
-      LVnTheLife | Real Influencers
+      imhungry
     bio: >-
-      📍: Los Angeles 💸: 10% donated to @epilepsyfdn for every paid post. DM for info. 🤝: We’re a Public Benefits Corp sponsored by @austincreativea
+      i just really like eating good food los angeles, ca collabs: imhungryla@gmail.com 🍩 #imhungryla
     location: "United States"
-    followers: 122081
-    engagement: 5
-    commentsToLikes: 0.037266
-    id: ck0w1nn64k8590i19fvzxzse7
+    followers: 204888
+    engagement: 90
+    commentsToLikes: 0.016117
+    id: ck55lwt412mnq0i11zz7b7g4y
     verified: false
-    hashtags: "#specialolympics, #downtownhouston, #austinfoodtruck, #makeachange"
-  - username: "__the_catalyst__"
+    hashtags: "#la, #dessert, #losangeles, #food"
+  - username: "roscoesofficial"
     fullname: >-
-      Abhimanyu Reen
+      Roscoe's Chicken & Waffles™️
     bio: >-
-      📸motographer @reens_picsography @heavens.choice.media . Not like the rest of them❌️ . . In a world of average, I’m savage💢
+      “PUT THE CHICKEN 🍗 🍗 IN THE BAG” -2021
     location: "United States"
-    followers: 2295
-    engagement: 2285
-    commentsToLikes: 0.158334
-    id: ckaovej3v49o80i78fweirbba
-    verified: false
-    hashtags: "#naturephotography, #duke390, #thahseem, #bikes"
+    followers: 65954
+    engagement: 173
+    commentsToLikes: 0.032375
+    id: ck0uajq2dcf550i19rn2owajo
+    verified: true
+    hashtags: "#lafood, #delivery, #yummy, #vscofood"
   - username: "hungryempire"
     fullname: >-
-      Hungry Empire | Food + Travel
+      Pratik Bhakta | HungryEmpire
     bio: >-
-      🙋🏽‍♂️: @pratikbhakta 🍴 LA | OC | IE | & Beyond! 📧 iefoodieinfo@gmail.com
+      🎥: Tiktok (hungryempire) 📩: iefoodieinfo@gmail.com 🍽: Theme of the week: Red curry paste 📍 LA
     location: "United States"
-    followers: 34107
-    engagement: 242
-    commentsToLikes: 0.074509
+    followers: 51300
+    engagement: 1665
+    commentsToLikes: 0.040578
     id: ck14gzmhu7t630i19ung01mo8
     verified: false
-    hashtags: "#blackownedbusiness, #ad, #driveupfoodbank, #wellsfargofoodbank"
-  - username: "hairbysarmad"
+    hashtags: "#vegan, #eat, #vegetarian, #foodnetwork"
+  - username: "kfashion__s"
     fullname: >-
-      S A R M A D  N A J E M
+      📩 FOR PROMOTION
     bio: >-
-      HAIR Artist/Educator WINNER BTC AWARDS⭐️BTC TEAM⭐️ Schwarzkopf Professional Artistic Team Olaplex Advocate
+      Asian Fashion Inspo: 🍒 Everyday Effortless Style 🍒 Daily Videos And Polls
     location: "United States"
-    followers: 486634
-    engagement: 106
-    commentsToLikes: 0.033195
-    id: ck0w342t1ri6z0i19htjphd42
+    followers: 173573
+    engagement: 164
+    commentsToLikes: 0.010711
+    id: ck14jz9humx5o0i190tdvyojw
     verified: false
-    hashtags: "#colourmelt, #morevibrance, #americansalon, #hairtrends"
-  - username: "jordyns_journey"
+    hashtags: "#bhfyp, #koreanfashion, #ulzzangboy, #ulzzang"
+  - username: "emhail_"
     fullname: >-
-      Jordyn Lorene
+      EmHail
     bio: >-
-      Fashion • Food • Travel Los Angeles, CA📍 Let’s collab 💌 jordynlorene@gmail.com Shop my outfits ⬇️
+      Emma 🦄Gamer/Fitness Streamer (263K FansLM) 🦄Baby Hailey💙 🦄twitch.tv/emhail & Mixer.com/emhail 🦄TechniSportUSA VerifiedLM
     location: "United States"
-    followers: 5291
-    engagement: 650
-    commentsToLikes: 0.230770
-    id: ck14glgww5svr0i193085j8nk
+    followers: 23807
+    engagement: 456
+    commentsToLikes: 0.036984
+    id: ck6tx7xd1wbxl0j717nxz6guc
     verified: false
-    hashtags: "#ltkspring, #fall2020, #liketkit, #ltkunder50"
+    hashtags: "#gym, #anime, #workout, #tattoo"
+  - username: "jo.jerusalem"
+    fullname: >-
+      Jo
+    bio: >-
+      👨🏻‍🎨🎨 West🔚 Warriors™ NYC follow @jojo.uncensored
+    location: "United States"
+    followers: 28144
+    engagement: 322
+    commentsToLikes: 0.035529
+    id: ck5zvwybb528f0i14m45diys1
+    verified: false
+    hashtags: "#paintingoftheday, #artist, #artistsoninstagram, #explorepage"
   - username: "boldaslauren"
     fullname: >-
       lauren trenkle
     bio: >-
       yoga sculpt instructor 🤘🏼 health enthusiast | real food | fitness | los angeles boldaslauren@gmail.com
     location: "United States"
-    followers: 5151
-    engagement: 763
-    commentsToLikes: 0.053040
+    followers: 4949
+    engagement: 794
+    commentsToLikes: 0.053321
     id: ck0tztsakrlwi0i193u5cczp4
     verified: false
-    hashtags: "#sponsored, #ad, #vitalinfluencer, #blackouttuesday"
-  - username: "rocknrollfoodie"
-    fullname: >-
-      Rocknrollfoodie
-    bio: >-
-      Food Enthusiast with a little bit of rock n roll 🤟🏼 Best food in Los Angeles 🌴 Food is the way to my 🖤 📧/DM for collab
-    location: "United States"
-    followers: 13849
-    engagement: 554
-    commentsToLikes: 0.112873
-    id: ck8t5taweb66e0j78dolj4utz
-    verified: false
-    hashtags: "#food, #foodgasm, #foodielife, #delish"
-  - username: "munchiebunchie"
-    fullname: >-
-      Munchie Bunchie
-    bio: >-
-      🍭Your source to all things snack, candy, & food 📍Los Angeles based 🌟Follow & be a munchie #munchiefinds ✉️ Hellomunchiebunchie@gmail.com
-    location: "United States"
-    followers: 28641
-    engagement: 98
-    commentsToLikes: 0.023934
-    id: ckap6fhgffogr0i789k8wy799
-    verified: false
-    hashtags: "#ultimatesaturdaymorning"
+    hashtags: "#sponsored, #ad, #vitalinfluencer, #stayvital"
   - username: "lafoodjunkie"
     fullname: >-
       LA Food Junkie 🍕🌭🍟🌯🍔🍺🍸
     bio: >-
       Best Food In Los Angeles #️⃣ #lafoodjunkie 🇺🇸 🇦🇲🙅🏻‍♂️ @foodjunkie 🗣📬 DM or Email Me Business Inquiries 📩LAFOODJUNKIE@gmail.com 📩 🍔🍕🍟🍖🍛🍦🍝
     location: "United States"
-    followers: 356580
-    engagement: 81
-    commentsToLikes: 0.045379
+    followers: 355034
+    engagement: 70
+    commentsToLikes: 0.019465
     id: ck15tpz68jbnq0i19vgkw457f
     verified: false
-    hashtags: "#lafoodie, #armenia, #lafoodjunkie, #artsakh"
+    hashtags: "#lafoodie, #foodie, #burger, #pizza"
+  - username: "rocknrollfoodie"
+    fullname: >-
+      Rocknrollfoodie 🤘🏼
+    bio: >-
+      Food Enthusiast with a little bit of rock n roll 🤘🏼 Best food in Los Angeles & beyond 🗺 Food is the way to my 🖤 Email/DM for business inquires.
+    location: "United States"
+    followers: 17351
+    engagement: 196
+    commentsToLikes: 0.035981
+    id: ck8t5taweb66e0j78dolj4utz
+    verified: false
+    hashtags: "#crepes, #foodvibes, #foodgasm, #feedthefeed"
 ---

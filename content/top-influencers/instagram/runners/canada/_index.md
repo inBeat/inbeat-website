@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Canada in 2023
+title: Top 10 Runners Instagram Influencers In Canada In 2023
 description: >-
-  Find top runners Instagram influencers in Canada in 2023. Most popular hashtags: #running #runnersofinstagram #hikingadventures.
+  Find top runners Instagram influencers in Canada in 2023. Most popular hashtags: #toronto #thesweatlife #bayarea.
 platform: Instagram
-hits: 65
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 65 Instagram influencers like this in Canada for you to pitch.
+hits: 30
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 30 Instagram influencers like this in Canada for you to work with.
 profiles:
+  - username: "tashawodak"
+    fullname: >-
+      Natasha Wodak
+    bio: >-
+      Professional Distance Runner 2 X 🇨🇦 Olympian - 2016 & 2021 18 X 🇨🇦 team @lululemon @nuuncanada @smithoptics @aftershokz Volunteer @vokra
+    location: "Canada"
+    followers: 13026
+    engagement: 960
+    commentsToLikes: 0.032292
+    id: ck0u6xdft35cz0i19a64stoqp
+    verified: false
+    hashtags: "#olympicmarathon, #lululemon, #olympics, #teamcanada"
   - username: "serenityroselawlor"
     fullname: >-
       𝐒𝐄𝐑𝐄𝐍𝐈𝐓𝐘-𝐑𝐎𝐒𝐄
     bio: >-
-      ᴏᴋᴀɴᴀɢᴀɴ ʀᴇɢɪᴏɴ BC hiker | Trail runner | Outdoor Enthusiast🏔🏕 25 | Nurse ≪ Hike.Explore.Inspire. Website ↴
+      ᴏᴋᴀɴᴀɢᴀɴ ʀᴇɢɪᴏɴ BC hiker | Trail runner | Outdoor Enthusiast🏔🏕 26 | Surgical Nurse ≪ Hike.Explore.Inspire. Website ↴
     location: "Canada"
-    followers: 30370
-    engagement: 676
-    commentsToLikes: 0.022202
+    followers: 30922
+    engagement: 588
+    commentsToLikes: 0.020887
     id: ck5higjmyde7d0i11mm7fwsr8
     verified: false
-    hashtags: "#thompsonokanagan, #roamtheplanet, #photography, #explorecanada"
+    hashtags: ""
   - username: "kittsen"
     fullname: >-
       Laura McGuire
     bio: >-
       Flight Attendant ✈️ Dog mom 🐶 Marathon runner 🏃‍♀️ #teamrunr #runr @runr_uk Lash Addict: use KITTSEN15 for discount on lashes @sillygeorgestore
     location: "Canada"
-    followers: 58070
-    engagement: 233
-    commentsToLikes: 0.042548
+    followers: 57391
+    engagement: 206
+    commentsToLikes: 0.045173
     id: ck0w5f56b3cek0i19mm6ek3xc
     verified: false
-    hashtags: "#flightattendant, #germanshepherd, #teamflyswoop, #flyswoop"
-  - username: "runthesix"
+    hashtags: "#teamflyswoop, #flightattendant, #canadian, #travel"
+  - username: "thefoxandfern"
     fullname: >-
-      Jonathan
+      Jocelyn / Thefoxandfern
     bio: >-
-      Husband. Dad. Ultramarathoner 📍: Toronto 🎙: @thelongeststride 🖤: @runnersofthesix 👟: @sauconycanada ⌚️: @garminfitness 🏃🏻: @unleashedrunning
+      Calgary AB / Fashion Enthusiast / Runner / Book Lover / Snack Connoisseur / 🖤@TyrellThibeault Contact:thefoxandfern@gmail.com
     location: "Canada"
-    followers: 14833
-    engagement: 552
-    commentsToLikes: 0.049782
-    id: ck6ua0bbo0qjh0j71fkiszdjm
+    followers: 23623
+    engagement: 61
+    commentsToLikes: 0.202437
+    id: ck8taslydsw440j78fxmfzr8x
     verified: false
-    hashtags: "#runwithsix, #sponsored, #ad, #newgearday"
-  - username: "warfest_trailrunner"
+    hashtags: "#fpme, #ootd, #styleinspo, #fashion"
+  - username: "briceferre"
     fullname: >-
-      Marie-Eve Trottier
+      Brice
     bio: >-
-      Ultra trail runner MSc. 🤓 Social science geek 🤓 Next race 125km Supporting my runs 💚 @gringosrunningclub @iamrunbox @endurapparel 🇨🇦 Ville de Québec
+      📍: Vancouver 🖤: Running Mountains / Traveling the Planet. @salomonvancouver runner. ✉️ :Studio@briceferre.com 🏔: Half of @catchingthefog
     location: "Canada"
-    followers: 10497
-    engagement: 820
-    commentsToLikes: 0.034921
-    id: ck9worx426clf0j78p7pctidp
+    followers: 24750
+    engagement: 172
+    commentsToLikes: 0.019626
+    id: ck0tuein46upa0i191wamel85
     verified: false
-    hashtags: "#repost, #courseapied, #courircourir, #24hgringos"
-  - username: "twofeetwillrun"
+    hashtags: "#preseasonstoke, #puravida, #timetoplay"
+  - username: "mgwconnor"
     fullname: >-
-      San • da 🌘🧿| YVR 🌲🌊🏔
+      Michael Connor
     bio: >-
-      #Runner | Hiking | Strength Training Half Marathons x 11 | PR: 01:52:45 @teamtiux ambassador 👉🏽 Discount code TWOFEET20 for 20% off Team @OasisCanada
+      Toronto based: Photographer, Sea Kayaker, Nordic Skier, runner, coffee lover.
     location: "Canada"
-    followers: 3379
-    engagement: 1831
-    commentsToLikes: 0.043021
-    id: ck8t578k9919k0j78bld2wdmd
+    followers: 6844
+    engagement: 815
+    commentsToLikes: 0.106883
+    id: ck5c2vr12y3430i11wb0cm5l8
     verified: false
-    hashtags: "#fbf, #tgif, #runnersofinstagram, #instatravel"
-  - username: "jeph.runs.wincity"
+    hashtags: ""
+  - username: "jillian.maclaughlin"
     fullname: >-
-      Jeph Maags
+      Jillian MacLaughlin
     bio: >-
-      Runner and Coach Garmin Ambassador Aftershokz Shokzstar M/M Alpha Next 42.2 ➡️ 🤷🏻‍♂️ Next Race ➡️ 🤷🏻‍♂️🤷🏻‍♂️
+      Mommy to Lauchlin James👶🏻. Elementary School Teacher. Health & Fitness. Yoga Obsessed. Big Brother Canada Winner(S1) Amazing Race Canada Runner Up(S4)
     location: "Canada"
-    followers: 4302
-    engagement: 717
-    commentsToLikes: 0.116709
-    id: ck1351582z62o0i19iuy0ld3h
+    followers: 19538
+    engagement: 325
+    commentsToLikes: 0.031488
+    id: ck14kuno9retj0i199dzyxwwl
     verified: false
-    hashtags: "#saucony, #marathon, #shokzsquadcan, #runplanet"
-  - username: "luciastafford7"
+    hashtags: "#movingon, #momlife, #happyweekend, #bestbigbrother"
+  - username: "knexofthemoon"
     fullname: >-
-      Lucia Stafford 🍫
+      Knex
     bio: >-
-      Everything's funner with a runner 🍩🏃💨👋 New Balance Canada U of T TF&XC - Civil Engineering
+      The Moon Runners Dance Crew Mudwaterproject Unity Charity Toronto #imoonrunn
     location: "Canada"
-    followers: 2202
-    engagement: 2377
-    commentsToLikes: 0.023747
-    id: ck6u9ytnx0h050j7190n2ii17
+    followers: 2471
+    engagement: 931
+    commentsToLikes: 0.072170
+    id: ck6u9iu86xtb70j71rkptqx9z
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "mr.rodfitness"
+    hashtags: "#turfin, #newzealand, #imoonrunn, #streetdance"
+  - username: "alexbaldaccini"
     fullname: >-
-      Mr. RodFitness
+      Alex Baldaccini
     bio: >-
-      Runner | Adventurer | Traveller 2020⬇️ Berlin Virtual Run London Virtual Marathon Live a life you’ll remember...
+      🏃 Mountain Runner . 🔵 18 caps for Team Italy 🏆 2017 World Cup Winner 🌎 2x Team World Champion 🎖 2x Euro Champs medalist . Physio&Coach @ab.fisio
     location: "Canada"
-    followers: 4015
-    engagement: 1217
-    commentsToLikes: 0.043677
-    id: ck8tdad8z2jod0j78euufxsdm
+    followers: 10068
+    engagement: 431
+    commentsToLikes: 0.037202
+    id: ck5qaumluibxc0i11t8e8aoz6
     verified: false
-    hashtags: "#runday, #paddleboarder, #wearetravelgays, #cyclistlife"
-  - username: "maddison.noel"
+    hashtags: "#timetofly, #redelkoutdoor, #findyourredelk, #abfisio"
+  - username: "brandandukethedj"
     fullname: >-
-      MADDISON | Adventure & Fitness
+      𝗕𝗥𝗔𝗡𝗗𝗔𝗡 𝗗𝗨𝗞𝗘. ⚡️
     bio: >-
-      Mountains | Squats | & Snacks ↟ Wannabe runner ↟ Expert coffee drinker Travel with Me ↓
+      🇨🇦 | 14 year old dj/producer | actor in @disneychannel SPIN | 2018 @goldieawards runner-up 🥈 | former @guinnessworldrecords holder 🏆
     location: "Canada"
-    followers: 112498
-    engagement: 541
-    commentsToLikes: 0.015390
-    id: ck15pveawztko0i19qnk287xo
+    followers: 12617
+    engagement: 388
+    commentsToLikes: 0.057118
+    id: ck5calyuudny20i11a0w8i7vo
     verified: false
-    hashtags: "#running, #normalizenormalbodies, #bodypositive, #trailrunning"
-  - username: "jacqueline_p_chapman"
-    fullname: >-
-      Jacqueline Chapman
-    bio: >-
-      Sharing what moves me Mom 👦🏻👧🏻👧🏻 💪🏼 @Lagreeyyc Instructor ➰ @rush_athletics athlete JAC10 🚴🏻‍♀️ @onepeloton addict 🏃🏻‍♀️ #runner HM 1:31, 10k 41min
-    location: "Canada"
-    followers: 5812
-    engagement: 833
-    commentsToLikes: 0.174912
-    id: ck9wdjwrefzda0j78kc11xmmw
-    verified: false
-    hashtags: "#lowimpactworkout, #groupfitnessclasses, #corestabilitytraining, #lagreemethod"
+    hashtags: "#openformatsessions, #brandanduke, #turnitupthursday, #bd"
 ---

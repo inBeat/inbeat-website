@@ -1,36 +1,60 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Malaysia in 2023
+title: Top 10 Chefs Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top chefs Instagram influencers in Malaysia in 2023. Most popular hashtags: #foodie #foodporn #dessert #sweet.
+  Find top chefs Instagram influencers in Malaysia in 2023. Most popular hashtags: #foodporn #foodie #delhifoodie #indianfood.
 platform: Instagram
-hits: 9
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 9 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 11
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
-  - username: "zortan"
+  - username: "wannaeat16"
     fullname: >-
-      Zor Tan 陳茳誔
+      Shifa Shiwangi|Food&Lifestyle
     bio: >-
-      🇲🇾Malaysian Chinese Executive Chef (Sichuan Moon, Wynn palace) Former Executive chef (Restaurant Andre), (RAW Taipei)
+      Home Chef|Passionate for cooking 👩‍🍳 Foodie for life 🤤♥️ DM or email for invite/promotion/collab/product review
     location: "Malaysia"
-    followers: 2900
-    engagement: 826
-    commentsToLikes: 0.040303
-    id: ck133vboyu8vy0i19yg7l4ez2
+    followers: 11487
+    engagement: 639
+    commentsToLikes: 0.407158
+    id: ck8tdq10m4cn00j7852e2zfhs
     verified: false
-    hashtags: "#3rdimportantladiesinmylife, #wynnpalace, #sichuanmoon, #princesszelda"
+    hashtags: "#deliciousplatter, #foodphotographyworkshop, #foodmaniacindia, #goodfoodindia"
   - username: "shersonlian"
     fullname: >-
       Sherson Lian
     bio: >-
       Asia-based, Worldwide Taste TV Host, Chef & Entrepreneur #5R5R #FamilyKitchenwithSherson @makhanbykitchenmafia ☎ Sarah +60164439194 📧 sarah@svltan.com
     location: "Malaysia"
-    followers: 62420
-    engagement: 148
-    commentsToLikes: 0.035436
+    followers: 69140
+    engagement: 127
+    commentsToLikes: 0.036221
     id: ck6udgxojl1fg0j716gcbzp51
     verified: true
-    hashtags: "#5rencah5rasa, #rm10plates, #emsculpt, #shopeelivemy"
+    hashtags: "#rm10plates, #rencahbysherson, #perangperiuk, #airasiafresh"
+  - username: "therealtamikascott"
+    fullname: >-
+      Tamika Scott
+    bio: >-
+      Accomplished Singer (Xscape), Phenomenal Actor, TV Host, Author, Singing Home Chef😜 Tamikascottmusic@gmail.com
+    location: "Malaysia"
+    followers: 321374
+    engagement: 124
+    commentsToLikes: 0.045146
+    id: ck14gscac6s3s0i19cwhowt79
+    verified: true
+    hashtags: "#kandi, #cookingwithtamikascott, #singer, #trinabraxton"
+  - username: "blogbywafa"
+    fullname: >-
+      Wafa Rehman
+    bio: >-
+      Content Creator 👩‍💼 Home Chef 👩‍🍳 Beauty/Fashion/Lifestyle/Food Blogger DM me for Product Review & Collaboration Twitter @wafarehman12
+    location: "Malaysia"
+    followers: 34099
+    engagement: 307
+    commentsToLikes: 0.104983
+    id: ck5bxs0deob9m0i11awzcsyo0
+    verified: false
+    hashtags: "#blogbywafa, #sale, #blogbywafaxpaidpartnership, #boring"
   - username: "wangpix"
     fullname: >-
       Phil Wang
@@ -42,77 +66,65 @@ profiles:
     commentsToLikes: 0.017222
     id: ck0tyafsom5ml0i199gnn0mtk
     verified: true
-    hashtags: "#snakes, #disgustinghippiemedicine, #rosietriestohelp, #kevinsroughguidetothefuture"
-  - username: "jeffrey__tan"
-    fullname: >-
-      Jeffrey Tan
-    bio: >-
-      Pastry consultant 🇲🇾🇫🇷🇹🇼 @jt_patisserie Chef Pâtissire Master Class Work shop @sensorystudio56
-    location: "Malaysia"
-    followers: 50114
-    engagement: 183
-    commentsToLikes: 0.005650
-    id: ck5zm91lqm4g20i148fe9l90q
-    verified: false
-    hashtags: "#techniqe, #delivery, #pastry, #green"
-  - username: "ridhwaniqbal98"
-    fullname: >-
-      Mohamed Ridhwan
-    bio: >-
-      Part-time “ shef “ 👨‍🍳 | 📍 Kuching, Malaysia 🇲🇾 Follow my Socials:- • Facebook : Mohamed Ridhwan • Twitter : @m_ridhwan98 • Snapchat : nawhdir98
-    location: "Malaysia"
-    followers: 15854
-    engagement: 1184
-    commentsToLikes: 0.009123
-    id: ck9wf45zin4lk0j78aafmaahm
-    verified: false
-    hashtags: "#bhfyp, #eidmubarak, #chef, #foodgasm"
-  - username: "hello_tothe_necessities_blog"
-    fullname: >-
-      kanwal usman
-    bio: >-
-      Lifestyle,fashion,food influencer/blogger DM for Tasting,review ,PR & MUCH more .
-    location: "Malaysia"
-    followers: 12952
-    engagement: 315
-    commentsToLikes: 0.288936
-    id: ck9wgp9dcudmu0j78gscy2bhd
-    verified: false
-    hashtags: "#trending, #iamtbt, #foodmagazine, #sweetooth"
+    hashtags: "#rosietriestohelp, #kevinsroughguidetothefuture, #datingtwitter, #ad"
   - username: "flyingfoodie.ff"
     fullname: >-
       Flying Foodie | FF
     bio: >-
       📍🇭🇰 #ff_homekong #ff_💛 😋From street food🥡to fine dining🍷 📝Genuine rating🌝 Random review🤪 💌DM for collaboration💡
     location: "Malaysia"
-    followers: 3954
-    engagement: 1292
-    commentsToLikes: 0.041850
+    followers: 3984
+    engagement: 1229
+    commentsToLikes: 0.024510
     id: ckaoxs8qyeigv0i78mst3s7rn
     verified: false
-    hashtags: "#tst, #foodporn, #topcitybiteshk, #ssp"
-  - username: "coyarcocina"
+    hashtags: "#hkisland, #hkfood, #causewaybay, #foodporn"
+  - username: "bhukkadboyz"
     fullname: >-
-      Chef Alejandro Cuellar
+      Odisha Foodie || Tapan Sethi
     bio: >-
-      Creador de 5 Sentidos CATERING, Huerta Santa Beatriz, asesoría de emplatado, eventos y Canasto Picnic Bistró. CoyarCocina@gmail.com #ShotOnIphone
+      📍BHUBANESWAR "अच्छा खाये स्वस्थ रहे" 🔸FOOD REVIEW🍔 🔸TRAVEL 🏍️🚴🚕✈️ 🔸 BRAND INFLUENCER DM 📩 Collabs/Invites/Promotion Use #bhukkadboyz to get featured
     location: "Malaysia"
-    followers: 43897
-    engagement: 234
-    commentsToLikes: 0.056236
-    id: ck5c26je0wmvt0i11acy6650i
-    verified: true
-    hashtags: "#shotoniphone, #asia, #nuevacocinacolombiana, #colombia"
-  - username: "azirahalyanie"
-    fullname: >-
-      not a professional chef 👩🏽‍🍳
-    bio: >-
-      📱 review / collab dm me @fashionstailistaaa @foodielista.hq @secretstailista @bajuepong 🧕🏼 26 | MOMPRENUER | WIFE
-    location: "Malaysia"
-    followers: 145342
-    engagement: 193
-    commentsToLikes: 0.009352
-    id: ck14irp6cgw240i19ctfsrlc2
+    followers: 6994
+    engagement: 535
+    commentsToLikes: 0.186160
+    id: ckaowdrdw8hmf0i78mmon3c0x
     verified: false
-    hashtags: "#malaysia, #shoshedapteam, #localproduct, #shoshedap"
+    hashtags: "#foodtalkindia, #foodporn, #kolkatablogger, #foodbuzz"
+  - username: "ranjitharprabhu"
+    fullname: >-
+      Ranjitha R Prabhu
+    bio: >-
+      ❤️Keralite with Dilli wala dil 👩🏻‍🍳Desi 🇮🇳 homecook in Videsh 🇺🇸 📍Seattle, Washington 🤝DM for #collaboration/#product review
+    location: "Malaysia"
+    followers: 3372
+    engagement: 904
+    commentsToLikes: 0.172949
+    id: ck8t7sfh7hu7a0j78536q0igm
+    verified: false
+    hashtags: "#dessertlover, #desi, #foodiesofinstagram, #malayali"
+  - username: "mariajjcm"
+    fullname: >-
+      Maria Tunku Sabri
+    bio: >-
+      TV Presenter,Professional Emcee,Professional Speaker,Actress, VO Talent email for enquiries mariajjcm@yahoo.com or watsapp 019-2177267 IG got hacked
+    location: "Malaysia"
+    followers: 133966
+    engagement: 89
+    commentsToLikes: 0.076727
+    id: ck0w5s3c7560q0i19k034o5l1
+    verified: false
+    hashtags: "#mariajjcmcooks, #letscatchhackers, #ratulatepost, #ihatehackers"
+  - username: "ginyuudai"
+    fullname: >-
+      GINYUUDAI - กินอยู่ได้
+    bio: >-
+      🔻CONTACT US🔻 📥 : DM 📲 : faeiii (LINE) 📩 : ginyuudai@gmail.com . EAT🍴| COOK 🍳 | REVIEW📝 | INSPIRE💡 🍔🍟🍕🌯🥟🍣🍜🍡🧁🍧🍰🍫🍵🍹🍾 🙏 : Share Your Food with #GINYUUDAI
+    location: "Malaysia"
+    followers: 343474
+    engagement: 74
+    commentsToLikes: 0.003194
+    id: ck0u891bq6t1y0i19y8w76oh4
+    verified: false
+    hashtags: "#ginyuudaixsukhumvit, #ginyuudai, #ginyuudaixomakase, #ginyuudaixprompong"
 ---

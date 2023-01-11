@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Cali in 2023
+title: Top 10 Instagram Influencers In Cali In 2023
 description: >-
-  Find top Instagram influencers in Cali in 2023. Most popular hashtags: #tbt #cali #medellin.
+  Find top Instagram influencers in Cali in 2023. Most popular hashtags: #medellin #cali #bogota.
 platform: Instagram
-hits: 436
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 436 Instagram influencers like this in Cali, Colombia for you to work with.
+hits: 372
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 372 Instagram influencers like this in Cali, Colombia for you to work with.
 profiles:
-  - username: "colyn_gabanna"
+  - username: "giannimichielin"
     fullname: >-
-      •COLYN•
+      Giannina Michielin Roa
     bio: >-
-      •🕉. . Cali-Colombia. • ™️
+      Personal Shopper 💌giannimichielin@hotmail.com 💡Co-Founder #brunchofideas 💌 brunchofideas@gmail.com Cali, Colombia 🇨🇴 || Italy 🇮🇹
     location: "Colombia"
-    followers: 26154
-    engagement: 1101
-    commentsToLikes: 0.045647
-    id: ck0vwu8tkvmjc0i19aconayw4
+    followers: 38253
+    engagement: 88
+    commentsToLikes: 0.102980
+    id: ck0w3n7rnu9n80i19d99jvcmt
     verified: false
-    hashtags: "#cali, #fresh, #calico"
+    hashtags: "#gianninamichielin, #colombianblogger, #fashionlover, #spotify"
+  - username: "alemizzle"
+    fullname: >-
+      Alexandra Villanueva
+    bio: >-
+      🌎📍Cali | Colombia Bailarina con flow caleño💃🏻 Tik Tok: soyalemizzle (700K) Publicidad 📲rep: +573043540170 (NO ES MI NUMERO)
+    location: "Colombia"
+    followers: 1046389
+    engagement: 810
+    commentsToLikes: 0.018204
+    id: ckf5nv5r5zt1x0j231xh977d4
+    verified: false
+    hashtags: "#problema, #problemachallenge, #daddyyankee"
+  - username: "sofiazamolo"
+    fullname: >-
+      Sofia Zamolo
+    bio: >-
+      • Mamá de Cali 👶🏼 • Model • Tv Host • @multitalentoficial contacto—> @ls_loly • Shop my looks ⤵️
+    location: "Colombia"
+    followers: 1050479
+    engagement: 331
+    commentsToLikes: 0.058256
+    id: ck5hpj9bergak0i11xlq0p2z7
+    verified: true
+    hashtags: "#candiceaxn, #comunidadpampers, #39semanas, #39weekspregnant"
+  - username: "chicogirasol"
+    fullname: >-
+      J O H A N 🌻
+    bio: >-
+      V I D E ON U E V O 🌻 Cali 📍 Soychicogirasol@gmail.com REP: @Trendsetters.Ok
+    location: "Colombia"
+    followers: 104845
+    engagement: 1561
+    commentsToLikes: 0.023897
+    id: ck9hcpcpsmgda0j787sf9mufp
+    verified: false
+    hashtags: ""
   - username: "travel_jcr"
     fullname: >-
       Jhonathan ✈️🌎🇨🇴
     bio: >-
       📍 De Cali 🇨🇴🕺🏽viviendo en Medellín 🌎 Viajero - Travel blog 📷 Fotógrafo y filmmaker aficionado 👇🏾Aqui solo vas a ver cosas chéveres
     location: "Colombia"
-    followers: 7500
-    engagement: 1195
-    commentsToLikes: 0.061158
+    followers: 11556
+    engagement: 745
+    commentsToLikes: 0.186508
     id: ckf5wgw05rzv80j239j3eb0gf
     verified: false
-    hashtags: "#instatravel, #gaytravel, #travelpic, #santorini"
-  - username: "jgraterol1"
-    fullname: >-
-      Joel David Graterol Nader
-    bio: >-
-      Futbolista Profesional América de Cali 🇦🇹 @gobig.agency 🔝 Vinotinto 🇻🇪⚽ #YoJuegoParaCRISTO 🙏🏽
-    location: "Colombia"
-    followers: 34412
-    engagement: 871
-    commentsToLikes: 0.022467
-    id: ck5c03cjfsd6q0i11t3dszpei
-    verified: false
-    hashtags: "#somosdecristo, #happymotherday, #yojuegoparacristo, #vinotinto"
-  - username: "alemizzle"
-    fullname: >-
-      Alexandra Villanueva
-    bio: >-
-      📍Cali Colombia 🇨🇴 Publicidad 📩 representante: +573043540170 (NO ES MI NUMERO❌)
-    location: "Colombia"
-    followers: 737996
-    engagement: 745
-    commentsToLikes: 0.011104
-    id: ckf5nv5r5zt1x0j231xh977d4
-    verified: false
-    hashtags: "#billetesazules, #baile, #patrocinado, #botellachallenge"
+    hashtags: "#riodejaneirotrip, #reelsinstagram, #visitbrazil, #damefotismo"
   - username: "teclafarias80"
     fullname: >-
-      Ernesto Farías
+      Ernesto Farías
     bio: >-
       Jugador de Fútbol Profesional ex Estudiantes L.P 🇦🇷 Palermo 🇮🇹 River Plate 🇦🇷 FCPorto 🇵🇹 Cruzeiro 🇧🇷 Independiente 🇦🇷 America de Cali 🇨🇴
     location: "Colombia"
-    followers: 96429
-    engagement: 501
-    commentsToLikes: 0.025190
+    followers: 100242
+    engagement: 579
+    commentsToLikes: 0.018633
     id: ck55ltjca2e8i0i111h2whmlz
     verified: false
-    hashtags: "#championsleague, #cali, #sudamericanosub20, #argentinacampeon"
-  - username: "cristianarangoo"
-    fullname: >-
-      Cristian Arango
-    bio: >-
-      Contador 🎓 Especialista en finanzas 🎓 Cali - Colombia 🇨🇴
-    location: "Colombia"
-    followers: 55704
-    engagement: 473
-    commentsToLikes: 0.028478
-    id: ck8tc6vqoyhzc0j78e599429f
-    verified: false
-    hashtags: "#workout, #guy, #progreso, #men"
-  - username: "estefaniamariutti"
-    fullname: >-
-      STEFANIA MARIUTTI
-    bio: >-
-      @itmjoserivera De Cali ve !
-    location: "Colombia"
-    followers: 25495
-    engagement: 546
-    commentsToLikes: 0.039992
-    id: ck5cg7w06ob5k0i113tejxinj
-    verified: false
-    hashtags: "#tbt, #challengeaccepted"
-  - username: "hanygg16"
-    fullname: >-
-      🌟Hany🌟👑
-    bio: >-
-      🧿💕Única Cuenta Dios siempre ❤ Ing. Mecánico👷🔧 MSc. Sistemas de la Calidad 📍🇻🇪 - Caracas Emprendedora
-    location: "Colombia"
-    followers: 66504
-    engagement: 487
-    commentsToLikes: 0.026364
-    id: ck6ti4ec900lo0j71hkdonle5
-    verified: false
-    hashtags: "#tbt"
+    hashtags: ""
   - username: "yanjanemg"
     fullname: >-
       Yanjane Meneses G.
     bio: >-
       Periodista deportiva/TV Host Latinoamérica/@elvbarcaracol /⏩ @espn @scespn @canalcapital @noticiasrcn Rock&Sports!⚽🚲🎾🏊🏃 Twitter @YanjaneMG De Cali!
     location: "Colombia"
-    followers: 36490
-    engagement: 474
-    commentsToLikes: 0.036355
+    followers: 38824
+    engagement: 511
+    commentsToLikes: 0.040776
     id: ck14ird6fgucv0i19yeauekj7
     verified: false
-    hashtags: "#elvbarcaracol, #yoescuchoelvbarcaracol, #thailand, #bangkok"
+    hashtags: "#velitas, #10, #maradona, #d10s"
+  - username: "jhonier_largo"
+    fullname: >-
+      jhonier🎩
+    bio: >-
+      Cali,colombia 🇨🇴
+    location: "Colombia"
+    followers: 4636
+    engagement: 2033
+    commentsToLikes: 0.087439
+    id: ck5qc4h5fot810i11mptnlils
+    verified: false
+    hashtags: "#viral, #meme, #novia, #amigos"
   - username: "jorge.ivan.ospina"
     fullname: >-
       Jorge Iván Ospina
     bio: >-
       Médico Cirujano Alcalde de Cali 20-23 Senador 2014-18 Pte @PartidoVerdeCol 2017-18 Comprometido con la paz y la Vida
     location: "Colombia"
-    followers: 38863
-    engagement: 202
-    commentsToLikes: 0.096097
+    followers: 42842
+    engagement: 197
+    commentsToLikes: 0.111484
     id: ck55p6q689xf10i111ce5xfd1
     verified: false
-    hashtags: "#covid19, #aguaelulo, #petronioenelcorazon, #calisereactiva"
+    hashtags: "#petronioenelcorazon, #calisereactiva, #cali, #feriadecaliporlavida"
+  - username: "cristianarangoo"
+    fullname: >-
+      Cristian Arango
+    bio: >-
+      Contador 🎓 Especialista en finanzas 🎓 Cali - Colombia 🇨🇴
+    location: "Colombia"
+    followers: 54931
+    engagement: 419
+    commentsToLikes: 0.023899
+    id: ck8tc6vqoyhzc0j78e599429f
+    verified: false
+    hashtags: "#instagram, #men, #guystyle, #fitnessboy"
 ---

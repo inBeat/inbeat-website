@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Bodybuilding Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #bodybuilding #dubai #fitness #lifestyle.
+  Find top bodybuilding Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #bodybuilding #gym #dubai #fitness.
 platform: Instagram
-hits: 27
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 27 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 21
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 21 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
   - username: "arshad54153"
     fullname: >-
@@ -18,67 +18,55 @@ profiles:
     commentsToLikes: 0.020369
     id: ck9wpcthv8q1c0j78pb9vntwv
     verified: false
-    hashtags: "#mustangroush, #stage3tuned, #family, #candid"
-  - username: "gaby.daye"
+    hashtags: "#stage3tuned, #cute, #kitten, #mustang"
+  - username: "aeebeh"
     fullname: >-
-      Gaby | Dubai Personal Trainer
+      Ali Omar 🇮🇶 | علي عمر
     bio: >-
-      🏋🏼‍♀️Certified Personal Trainer 🤾🏼Physical Preparation For Sports Performance 📍Dubai 🇦🇪 | +971 Contact info: DM or 👇🏽👇🏽
+      Life Coach I exist to inspire you Athlete with 🏆 25x | Marketer 🧑‍🎓 DXB | London 📍 @zerofatae | @expinapp | @almaskoof_
     location: "United Arab Emirates"
-    followers: 8112
-    engagement: 1852
-    commentsToLikes: 0.048945
-    id: ck55o5m1p7oao0i115gy319i1
+    followers: 176421
+    engagement: 48
+    commentsToLikes: 0.262171
+    id: ck13ceb8yzxpq0i19vdq74msa
     verified: false
-    hashtags: "#dubaipersonaltrainer, #whatiwore, #fashionable, #bodybuilding"
+    hashtags: "#bodybuilding, #bodybuilder, #gym, #uae"
   - username: "nasser.omayer"
     fullname: >-
       Nass Omayer
     bio: >-
-      N7 Homs- Dubai
+      N7 NB 💍 Homs- Dubai
     location: "United Arab Emirates"
-    followers: 4937
-    engagement: 1676
-    commentsToLikes: 0.071658
+    followers: 5349
+    engagement: 1237
+    commentsToLikes: 0.067661
     id: ckf5rgo7kclnr0j23qscu7myo
     verified: false
-    hashtags: "#sunshine, #arabmen, #gymlife, #musclebuilding"
-  - username: "sinaa.z"
+    hashtags: "#fitnessmotivation, #family, #dubailife, #workout"
+  - username: "kamran_nateghiii"
     fullname: >-
-      𝕻𝖊𝖗𝖘𝖔𝖓𝖆𝖑 𝕿𝖗𝖆𝖎𝖓𝖊𝖗 𝕯𝖚𝖇𝖆𝖎
+      Kamran Nateghi
     bio: >-
-      .𝕋𝕣𝕒𝕚𝕟 𝕨𝕚𝕥𝕙 𝕞𝕖 🤙🏽 .ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕖𝕕 𝕡𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕥𝕣𝕒𝕚𝕟𝕖𝕣 .ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕖𝕕 𝔹𝕒𝕤𝕜𝕖𝕥𝕓𝕒𝕝𝕝/𝔽𝕚𝕥𝕟𝕖𝕤𝕤 𝕔𝕠𝕒𝕔𝕙 🏀 .𝔼𝕒𝕤𝕪𝕄𝕠𝕥𝕚𝕠𝕟𝕊𝕜𝕚𝕟 𝕄𝕒𝕤𝕥𝕖𝕣 𝕋𝕣𝕒𝕚𝕟𝕖𝕣 #szfitsquad ™️ . 📍Dubai
+      🇮🇷🇸🇪 Model | Bodybuilder | Boxer | Father | Grandfather 🥈IFBB Championships Dubai 2016 Silver 🥇WFF Ireland 2016 Honorary Gold
     location: "United Arab Emirates"
-    followers: 15848
-    engagement: 921
-    commentsToLikes: 0.031867
-    id: ck6tkovvm54no0j71rtjda2i6
+    followers: 50213
+    engagement: 584
+    commentsToLikes: 0.054377
+    id: ck9wii7lo2dtv0j78joaqhfce
     verified: false
-    hashtags: "#dubaipersonaltrainer, #mydubai, #szfitsquad, #dubaifit"
-  - username: "hosseinkarimi.iran"
-    fullname: >-
-      حسین کریمی | hossein karimi
-    bio: >-
-      🥇IFBB World Champion PHYSIQUE2019 COACH&THERAPIST #تیم_ملی 🥇قهرمان فیزیک جهان SPONSOR qimia uaefitacademy scitecnutrition matador_sports 📍DUBAI
-    location: "United Arab Emirates"
-    followers: 23565
-    engagement: 558
-    commentsToLikes: 0.074963
-    id: ck6u5w0idc2oj0j71hlpllt25
-    verified: false
-    hashtags: "#physique, #bodybuilding, #sport, #today"
+    hashtags: "#gang, #fitnes, #modeling, #portrait"
   - username: "fouad_sharifian"
     fullname: >-
       Fouad.sharifian  🧿
     bio: >-
       19/December /1982 🇦🇪Lives in DUBAI Supply parts and send to Iran,تامين قطعات و ارسال به ايران @sharifian.yadak
     location: "United Arab Emirates"
-    followers: 14324
-    engagement: 868
-    commentsToLikes: 0.058338
+    followers: 17458
+    engagement: 636
+    commentsToLikes: 0.046403
     id: ck6ueovoms8730j71onfictqz
     verified: false
-    hashtags: "#gym, #instamood, #short, #good"
+    hashtags: "#life, #likesforlike, #perfect, #lifestyle"
   - username: "bayan.dxb"
     fullname: >-
       ❋❁ ฿ Ẵ ¥ Ẵ ₦ ❃❋
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.030925
     id: ck8wd0wezd9gf0j781o2rpt4w
     verified: false
-    hashtags: "#uae, #dubai, #fitnessaddict, #dubaifitness"
+    hashtags: "#explore, #workoutfromhome, #explorepage, #fit"
+  - username: "daly_fit"
+    fullname: >-
+      • ᎠᎪᏞᎥᏞᎪ ᎾᏒᏆᎬᎶᎪ💎 🇮🇨 ⒾⒻⒷⒷ
+    bio: >-
+      ғɪᴛɴᴇss ᴄᴏᴀᴄʜ Exsoldier 🧑🏻‍✈️ 🇪🇸🇺🇸📍MIAMI / Now DUBAI 🇦🇪 💪🏼 @gymkillerofficial 🐉 @dragonpharma_llc 💃🏻 @zumba ZIN 🏃🏻‍♀️ @wearestrongnation SYNC
+    location: "United Arab Emirates"
+    followers: 126892
+    engagement: 467
+    commentsToLikes: 0.007190
+    id: ck5q0rg697e720i11nf77u1ua
+    verified: false
+    hashtags: "#beauty, #sunset, #fitnesslife, #muscle"
+  - username: "ferdubai"
+    fullname: >-
+      Fernando 🇪🇸 | Dubai 🇦🇪
+    bio: >-
+      💪🏼Getting ambitious people in shape in 90days. Check the results of my last clients after the lock down 🦠 12weeks plan👉🏼 @yourtransformationchallenge
+    location: "United Arab Emirates"
+    followers: 53606
+    engagement: 245
+    commentsToLikes: 0.026516
+    id: ck5zvkxyv4ffr0i142x0u7ckz
+    verified: false
+    hashtags: "#quote, #mindset, #training, #quotes"
+  - username: "yasir_khan_official"
+    fullname: >-
+      Yasir Khan
+    bio: >-
+      •Founder/CEO of world-renowned transformation program TYB @transform_yb •Transformation guru •Celebrity trainer •Professional fitness model
+    location: "United Arab Emirates"
+    followers: 48040
+    engagement: 200
+    commentsToLikes: 0.032723
+    id: ckap1ru06vuoi0i78xitdfl1d
+    verified: false
+    hashtags: "#transformationindubai, #fitdubai, #beforeafter, #uaefitness"
   - username: "bo_raiysh"
     fullname: >-
       Faisal_alzaabi
     bio: >-
       🥇1st Dubai Physique 2014 🏋🏻Personal Trainer & Online Coach 👇For business services click on the link below or DM 📥 https://linktr.ee/Bo_raiysh
     location: "United Arab Emirates"
-    followers: 17297
-    engagement: 310
-    commentsToLikes: 0.089971
+    followers: 21446
+    engagement: 658
+    commentsToLikes: 0.042055
     id: ck5btbo1ffocc0i11jx5084u0
     verified: false
-    hashtags: "#soprt, #ifbbpro, #happy, #fatloss"
-  - username: "ferdubai"
-    fullname: >-
-      Fernando 🇪🇸 | Dubai 🇦🇪
-    bio: >-
-      💪🏼Getting ambitious people in shape in 90days. Check the results of my last clients after the lock down 🦠 12weeks plan👉🏼 @fernando_transformations
-    location: "United Arab Emirates"
-    followers: 51929
-    engagement: 244
-    commentsToLikes: 0.027895
-    id: ck5zvkxyv4ffr0i142x0u7ckz
-    verified: false
-    hashtags: "#jumeirah, #motivationalquotes, #fitlife, #training"
-  - username: "rishikanthactor"
-    fullname: >-
-      rishikanth
-    bio: >-
-      Rishi here wanna know about me ? Then send a dm i m gna reply ❤️ Actor Men’s physique athelete 28 competitions 14 medals Cricketer Fitnessfreak
-    location: "United Arab Emirates"
-    followers: 18074
-    engagement: 453
-    commentsToLikes: 0.028269
-    id: ck9wg58n4rybw0j78ez7pn81v
-    verified: false
-    hashtags: "#weekend, #2019, #featureme, #trending"
+    hashtags: "#shuwaikh, #summer, #training, #lifestyle"
 ---

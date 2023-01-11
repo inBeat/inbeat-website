@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Toronto in 2023
+title: Top 10 Photographers TikTok Influencers In Toronto In 2023
 description: >-
-  Find top photographers TikTok influencers in Toronto in 2023. Most popular hashtags: #photographer #toronto #fyp #photography.
+  Find top photographers TikTok influencers in Toronto in 2023. Most popular hashtags: #toronto #fyp #photographer #canada.
 platform: TikTok
-hits: 20
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 20 TikTok influencers like this in Toronto, Canada for you to collaborate.
+hits: 19
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 19 TikTok influencers like this in Toronto, Canada for you to contact.
 profiles:
   - username: "dillon.kydd"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Photographer Toronto 🇨🇦 To book a shoot, message me through my website! ⬇️
     location: "Canada"
-    followers: 10800
-    engagement: 1153
-    commentsToLikes: 0.022745
+    followers: 10500
+    engagement: 929
+    commentsToLikes: 0.027513
     id: ck8kg0jx5ge3w0j78himdm2ky
     verified: false
-    hashtags: "#car, #model, #ontario, #xyzbca"
-  - username: "mke11y"
+    hashtags: "#photoshoot, #photographer, #howto, #trending"
+  - username: "nikiivictoria"
     fullname: >-
-      Michael Kelly
+      niki
     bio: >-
-      Toronto Say hi on insta! Anyone can be a photographer; let me show you how.
+      model + photographer ig: @nikiivictoria // TO🇨🇦 nikivictoriacontact@gmail.com
     location: "Canada"
-    followers: 95000
-    engagement: 977
-    commentsToLikes: 0.020258
-    id: ck80or3w6jfgz0j780rp68gw0
+    followers: 86500
+    engagement: 912
+    commentsToLikes: 0.026151
+    id: ck8tprmbcqlja0j78bj045pzy
     verified: false
-    hashtags: "#canada, #foryoupage, #photography, #tiktokuniversity"
+    hashtags: "#foryou, #photographer, #toronto, #tallgirl"
+  - username: "visualslxyer"
+    fullname: >-
+      Basit sultani 
+    bio: >-
+      Just a photographer trynna make it
+    location: "Canada"
+    followers: 8718
+    engagement: 667
+    commentsToLikes: 0.074229
+    id: ck8j8zavrl1f90j78no9lmptc
+    verified: false
+    hashtags: "#canada, #4u, #portrait, #photoshoot"
   - username: "hoggerandco"
     fullname: >-
       Smita
     bio: >-
       Instagram @hoggerandco ⤴️ 📩 smita@hoggerandco.com Photographer📍Toronto
     location: "Canada"
-    followers: 42200
-    engagement: 980
-    commentsToLikes: 0.063247
+    followers: 42000
+    engagement: 1130
+    commentsToLikes: 0.084453
     id: ckcpt3hqcnnmh0j23b8yzv2ob
     verified: false
-    hashtags: "#tiktokanonymous, #tiktokcanada, #fyp, #tiktoksupportgroup"
-  - username: "mandervillephotography"
-    fullname: >-
-      James Manderville
-    bio: >-
-      Photographer - in galleries in Toronto and Los Angeles
-    location: "Canada"
-    followers: 4234
-    engagement: 649
-    commentsToLikes: 0.042743
-    id: cka0yvs5icxue0i78w4etbobx
-    verified: false
-    hashtags: "#scary, #losangeles, #filmlocation, #80s"
+    hashtags: "#alexis, #90saesthetic, #whenwomenwin, #comedy"
   - username: "aaronlugassy"
     fullname: >-
       Aaron Lugassy
     bio: >-
       Photographer Adventure lover Toronto, Canada 🇨🇦 Get my IG to 10k!
     location: "Canada"
-    followers: 31900
-    engagement: 791
-    commentsToLikes: 0.020393
+    followers: 31500
+    engagement: 885
+    commentsToLikes: 0.023096
     id: ck80ofw85hn7t0j78804wau0i
     verified: false
-    hashtags: "#freeride, #bccanada, #canadabelike, #shred"
-  - username: "stfphen"
+    hashtags: "#britishcolumbia, #canada, #powder, #travelbucketlist"
+  - username: "mandervillegallery"
     fullname: >-
-      Stephen Prokopich
+      James Manderville
     bio: >-
-      Photographer📸 Follow my Instagram!
+      Photographer - in galleries in Toronto and Los Angeles
     location: "Canada"
-    followers: 50300
-    engagement: 1079
-    commentsToLikes: 0.030344
-    id: ck8vyxcmfva030j785y6p1rw9
+    followers: 4191
+    engagement: 692
+    commentsToLikes: 0.040098
+    id: cka0yvs5icxue0i78w4etbobx
     verified: false
-    hashtags: "#skateboarding, #ontario, #canada, #toronto"
-  - username: "lost.lens"
+    hashtags: "#fyp, #shopping, #scary, #decor"
+  - username: "keatonharaga"
     fullname: >-
-      lost.lens
+      Keaton
     bio: >-
-      Creative Photographer Instagram: @Lost.Lens 📍Toronto, Canada
+      Filmmaker Vancouver 🇨🇦
     location: "Canada"
-    followers: 64100
-    engagement: 774
-    commentsToLikes: 0.053864
-    id: ck92uzai4oe8q0j78juxog2fx
+    followers: 21000
+    engagement: 996
+    commentsToLikes: 0.028365
+    id: ck9ad5y2jvryg0j78h8e0kt27
     verified: false
-    hashtags: "#behindthescenes, #productphotography, #fyp, #cool"
-  - username: "brockwunder"
+    hashtags: "#filmmaker, #photographer, #lexus, #friends"
+  - username: "hemantkalia27"
     fullname: >-
-      Brock Wunder
+      Hemant Kalia
     bio: >-
-      Photos and Videos on my Insta! @Brockwunder! 😁
+      Engineer & Photographer Meher Productions
     location: "Canada"
-    followers: 102300
-    engagement: 821
-    commentsToLikes: 0.011102
-    id: ckac5t5jodmc20i782th4pea4
+    followers: 4506
+    engagement: 579
+    commentsToLikes: 0.029423
+    id: ck90r205ikprc0j78q36k1x2m
     verified: false
-    hashtags: "#millennialsoftiktok, #photographer, #photoshoot, #minitutorials"
-  - username: "3.katja"
-    fullname: >-
-      K A T J A
-    bio: >-
-      Just having some fun! #over50club #🇨🇦 Check out my photography IG acct! ⬆️
-    location: "Canada"
-    followers: 15200
-    engagement: 558
-    commentsToLikes: 0.035127
-    id: cka68rkkaptk70i78y4xvpf63
-    verified: false
-    hashtags: "#momover50, #canadagirl, #over50women, #womenover50"
+    hashtags: "#happyfamily, #rabdimeher, #fyp, #bestmomentsinlife"
   - username: "sidraandco"
     fullname: >-
       sidraandco
     bio: >-
-      Photographer, Mom + Fashion Lover ❣️ 📍Toronto IG : sidraandco
+      Photographer + Fashion Lover ❣️ 📍Toronto IG : sidraandco
     location: "Canada"
-    followers: 46900
-    engagement: 272
-    commentsToLikes: 0.012175
+    followers: 57700
+    engagement: 362
+    commentsToLikes: 0.011407
     id: ck9go10pkz5990j78wldmex2t
     verified: false
-    hashtags: "#photographer, #posetips, #instagramhacks, #photography101"
+    hashtags: "#poseidea, #posingtips, #howtopose, #eid2021"
+  - username: "argenel"
+    fullname: >-
+      Argen Elezi
+    bio: >-
+      Photographer based in Canada IG: @argenel
+    location: "Canada"
+    followers: 50500
+    engagement: 1211
+    commentsToLikes: 0.062883
+    id: cka0ml3zrvo8f0i78nsxqfof8
+    verified: false
+    hashtags: "#photography101, #toronto, #fyp, #travelbucketlist"
 ---

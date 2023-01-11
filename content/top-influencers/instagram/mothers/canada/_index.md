@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Canada in 2023
+title: Top 10 Mothers Instagram Influencers In Canada In 2023
 description: >-
-  Find top mothers Instagram influencers in Canada in 2023. Most popular hashtags: #honestmotherhood #fallvibes #motherhood.
+  Find top mothers Instagram influencers in Canada in 2023. Most popular hashtags: #momlife #canadianmom #christmas2022 #motherhood.
 platform: Instagram
-hits: 827
+hits: 316
 text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 827 Instagram influencers like this in Canada for you to pitch.
+text_bottom: inBeat has 316 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "lizzerd"
-    fullname: >-
-      liz gress
-    bio: >-
-      Wife to Daren, mother to Mavis. Doing all we can to hear the words mom and dad, while finding joy along the way. #rainbowformavis #weheartmavis
-    location: "Canada"
-    followers: 7440
-    engagement: 2026
-    commentsToLikes: 0.116595
-    id: ck6u04urhdmhx0j71uxepfzu3
-    verified: false
-    hashtags: "#rainbowformavis, #twoweekwait, #deivf, #weheartmavis"
-  - username: "thebirdspapaya"
-    fullname: >-
-      Sarah Nicole Landry
-    bio: >-
-      A journal of life & love after massive change. She/Her | Mother | Writer | Creator | Speaker 🇨🇦 🎙@thepapayapodcast! 📩hello@thebirdspapaya.com Blog👇
-    location: "Canada"
-    followers: 1745426
-    engagement: 559
-    commentsToLikes: 0.040592
-    id: ck55kt5pe01h50i11b1tavcl7
-    verified: true
-    hashtags: "#bpxst, #rompsohard, #everywear, #smashtessgirl"
-  - username: "teachme_style"
-    fullname: >-
-      Holly Horvath
-    bio: >-
-      1st + 2nd Grade Teacher📚 | Lifestyle Blogger💻 | Mother to Sunny 🐶. |🇨🇦| Inquiries 💌 holly@infagency.com
-    location: "Canada"
-    followers: 63749
-    engagement: 392
-    commentsToLikes: 0.198984
-    id: ck5c8ew099bv80i11x8ny5s63
-    verified: false
-    hashtags: "#mineral89, #overholl, #gifted, #ad"
   - username: "mommas_gang"
     fullname: >-
-      Sammy Barcelos
+      SAMMY
     bio: >-
-      Married & Raising 4 kids ✨✨✨☕️ Canadian • Life style • Autism advocate/Autism Mom• Fitness • Motherhood • 📩 sammymariag@hotmail.ca
+      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
     location: "Canada"
-    followers: 9096
-    engagement: 806
-    commentsToLikes: 0.258701
+    followers: 30491
+    engagement: 1265
+    commentsToLikes: 0.020403
     id: ck5zijlgfftz90i14vjkufxsl
     verified: false
-    hashtags: "#blessed, #nopainnogain, #moderation, #9monthsold"
-  - username: "pizza.and.peonies"
+    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
+  - username: "mombossofboys"
     fullname: >-
-      SANDRA | Motherhood
+      Allison | Motherhood Self-love Content Creator
     bio: >-
-      SAH boymom 🧒🏼 + 🤰🏼Nov.2020 Wife to my best friend Tackling motherhood one day at a time & sharing my journey 🇨🇦Toronto Collab: DM/email ENDY Partner⤵️
+      ✨ FT Working Mom ✨ Sharing my motherhood experiences ✨ Supporting mothers’ #selflovejourney ✨ Email for collaboration
     location: "Canada"
-    followers: 26140
-    engagement: 403
-    commentsToLikes: 0.070055
-    id: ck5q1zbx4di6n0i11ax5d49km
+    followers: 21018
+    engagement: 414
+    commentsToLikes: 0.100389
+    id: ckrvnl3ozktlt0j2393izfzb4
     verified: false
-    hashtags: "#motherhood, #motherhoodinspired, #letthembelittle, #pregnant"
-  - username: "christeladnana"
+    hashtags: "#merrychristmas, #thermeawinnipeg, #winnipeglocal, #winnipegmom"
+  - username: "ownitbabe"
     fullname: >-
-      C H R I S T E L   K H A L I L
+      Rini Frey
     bio: >-
-      Mother. Storyteller. Traveler.
+      self love, life + motherhood 🫶🏼 💍 @ownitdad and zoe’s mom 💌 rini@ownitbabe.ca 📍Calgary AB 🇨🇦
     location: "Canada"
-    followers: 106266
-    engagement: 545
-    commentsToLikes: 0.035406
-    id: ck15q41x60zt10i19uwz5sdaq
+    followers: 303251
+    engagement: 387
+    commentsToLikes: 0.017636
+    id: ck5pxdi35r9jc0i1186hp3wt2
     verified: true
-    hashtags: "#santahatsdontfitmybighead, #sweatandtonicchallenge, #theonlygunsyoushouldown, #yr"
-  - username: "alongcamelogan"
+    hashtags: "#mccaf, #itsthelittlethings, #ad, #trysleepout"
+  - username: "bonjour.jasmine"
     fullname: >-
-      ｖ ｙ   ｇ ｒ ａ ｎ ｔ
+      Jasmine |  East Coast Lawyer
     bio: >-
-      This is my visual journal lifestyle • motherhood • home alongcamelogie@gmail.com v a n c o u v e r 〰️
+      Empowering Women • Adventure • Lifestyle 🇨🇦 ⤷Balancing motherhood + hustle, while I try to remain (sorta)sane Creator @kuppajoespressobar
     location: "Canada"
-    followers: 16382
-    engagement: 436
-    commentsToLikes: 0.105222
-    id: ck6tw5glfq41t0j7162qxhzyt
+    followers: 17216
+    engagement: 384
+    commentsToLikes: 0.432251
+    id: ckxhnsjiw67az0j23b4qekky9
     verified: false
-    hashtags: "#ad, #artifact, #stokkepartner, #beflorahealthy"
-  - username: "topknotanddoubleshot"
+    hashtags: "#womeninlaw, #princeedwardisland, #pei, #eastcoast"
+  - username: "startswithasmilehum"
     fullname: >-
-      Kristen Gottwald
+      Hamnah | 🇨🇦 Motherhood Made Easy
     bio: >-
-      📍Toronto - Ontario Sharing the honest truths about motherhood through humor and relatability. Advocate for #selflove ✌🏻 Content creator ✨ Shop now 👇🏼
+      . A space for busy moms 👨‍👩‍👧‍👧 . Sharing motherhood through faith and positivity . Family fun | Home Organization | Selfcare 💛😀☀️
     location: "Canada"
-    followers: 34588
-    engagement: 248
-    commentsToLikes: 0.067729
-    id: ck5zu9s3j1y9v0i1439kshdrq
+    followers: 10007
+    engagement: 355
+    commentsToLikes: 0.494224
+    id: cl87d5n4v1xa90i2374xox1u0
     verified: false
-    hashtags: "#momlife, #loveyourself, #humor, #honestmotherhood"
-  - username: "thefairlylocalvegan"
+    hashtags: "#ad, #canadianmominfluencer, #canadianmommyblogger, #positivevibesalways"
+  - username: "bethanyfontaine"
     fullname: >-
-      A M B E R    A L L E N
+      Bethany Fontaine | SAHM life
     bio: >-
-      🍃 Living consciously & imperfectly ♻️ Zero Waste Plant Based Family 🏡 Mother | Author | Creator | Speaker
+      • The ups + downs of motherhood with you ✨ ⋒ Home: schooling + making - Join the YouTube community!(96k+) ↓
     location: "Canada"
-    followers: 66000
-    engagement: 457
-    commentsToLikes: 0.031128
-    id: ck0w2rwc5pw200i19si8n2rmj
+    followers: 30135
+    engagement: 304
+    commentsToLikes: 0.119329
+    id: ck0w3295gr9ft0i19aybd8x9n
     verified: false
-    hashtags: "#greenliving, #wastefree, #nowaste, #childhoodeveryday"
-  - username: "themckeens"
+    hashtags: "#canadianmom, #momlife, #motherhood, #newborn"
+  - username: "nnekaelliott"
     fullname: >-
-      L Y N D A  ⋒  M C K E E N
+      Nneka Elliott
     bio: >-
-      ✩ home | style | motherhood ✩ wife + mama to three boys ✩ ontario, canada contact » lyndamckeen@hotmail.com
+      Lifestyle | Motherhood |📺 Segments @themarilyndenisshow expert 🇨🇦🇻🇨 Partnerships: olivias@doubleshotagency.com Also @nnekaonscreen More 👇🏾
     location: "Canada"
-    followers: 53849
-    engagement: 178
-    commentsToLikes: 0.134541
-    id: ck5pwkx7tnb4c0i11ptbc00pn
+    followers: 14998
+    engagement: 278
+    commentsToLikes: 0.089605
+    id: ckrxec5ybpgxt0j23vtjukamh
     verified: false
-    hashtags: "#38weekspregnant, #babyboy, #rainbowbaby, #startwithfresh"
+    hashtags: "#christmas2022, #ad, #toddlermom, #tiff22"
+  - username: "confidentiallykatie"
+    fullname: >-
+      Katie
+    bio: >-
+      📍🇨🇦 Motherhood | Body Confidence | Self Worth 145k+ on TikTok Co-Founder of @kinworthco
+    location: "Canada"
+    followers: 29924
+    engagement: 127
+    commentsToLikes: 0.035966
+    id: ck5hjzpinhj7z0i11omfa4scl
+    verified: false
+    hashtags: "#workingmom, #toddlermom, #bodyconfidence, #2022recap"
+  - username: "kat.vorobiev"
+    fullname: >-
+      Kat ✨ Positive Motherhood | Amazon | Wellness
+    bio: >-
+      ✨Positive Motherhood ✨Real life Amazon Finds ✨Family meals and activities ✨ Wellness Come for the stories & shop my looks ⬇️
+    location: "Canada"
+    followers: 13536
+    engagement: 124
+    commentsToLikes: 0.178125
+    id: ckt8qrrss68kq0j236s4x1djc
+    verified: false
+    hashtags: "#instamom, #zara, #stylediary, #ootd"
+  - username: "millennial.motherhood"
+    fullname: >-
+      • Tan • Millennial Motherhood | Canadian Creator 🇨🇦YYJ
+    bio: >-
+      • #Motherhood + #SustainableLifestyle👩🏼‍💻 • Comfy reels & your online cheerleader.🤍 • #Plantbased 🌱 Gardener 🧑🏼‍🌾 Info@millennialmotherhood.ca
+    location: "Canada"
+    followers: 44289
+    engagement: 115
+    commentsToLikes: 0.360087
+    id: ck9hbvht1imt10j78rs36fjzj
+    verified: false
+    hashtags: "#kingofchristmas, #christmaslove, #yyjinfluencer, #christmasstyle"
 ---

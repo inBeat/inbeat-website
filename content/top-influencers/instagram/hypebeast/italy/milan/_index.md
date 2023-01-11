@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Milan in 2023
+title: Top 10 Hypebeast Instagram Influencers In Milan In 2023
 description: >-
-  Find top hypebeast Instagram influencers in Milan in 2023. Most popular hashtags: #hypebeast #milan #ig #highsnobiety.
+  Find top hypebeast Instagram influencers in Milan in 2023. Most popular hashtags: #hypebeast #fashion #hype #photography.
 platform: Instagram
 hits: 21
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform has 21 Instagram influencers like this in Milan, Italy for you to connect with.
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 21 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
-  - username: "giulia.debernardi"
-    fullname: >-
-      JULIET
-    bio: >-
-      𝘿𝙄𝙑𝙀𝙍𝙎𝘼 𝘿𝘼 𝙏𝙀 ▫️ @studenti.unimi | veterinary ▫️ @modelmanagement | model 📩 | dm me for collaboration
-    location: "Italy"
-    followers: 19839
-    engagement: 461
-    commentsToLikes: 0.059547
-    id: ckap6pcikgv370i78h58yv69q
-    verified: false
-    hashtags: "#style, #fashion, #white, #photomodel"
-  - username: "massimogurnari"
-    fullname: >-
-      𝙈𝙀𝙈𝙀𝙉𝙏𝙊 𝙈𝙊𝙉𝙀𝙔 ®
-    bio: >-
-      𝙋𝘼𝙄𝙉𝙏𝙄𝙉𝙂 • Follow @massimo_gurnari / Link in bio 𝘾𝙇𝙊𝙏𝙃𝙄𝙉𝙂 • @facelessbrand® / @unico_faceless® 𝙏𝘼𝙏𝙏𝙊𝙊𝙎 • @doatattoofactory MAIL / NO DM
-    location: "Italy"
-    followers: 96796
-    engagement: 73
-    commentsToLikes: 0.023292
-    id: ck5pznw9z1wmm0i11gcpkrpag
-    verified: true
-    hashtags: "#watercolor, #illustrations, #milano, #italy"
-  - username: "francintokyo"
-    fullname: >-
-      
-    bio: >-
-      Tokyo based architect from Milan, Italy. Discoverer of the city during the night. Shot with Iphone.
-    location: "Italy"
-    followers: 6376
-    engagement: 881
-    commentsToLikes: 0.010705
-    id: ckf5mkw37uagp0j235j2gtpxy
-    verified: false
-    hashtags: "#street, #tokyolife, #francintokyo, #instagramjapan"
   - username: "rickoschwartz"
     fullname: >-
       Ricko Schwartz
     bio: >-
       RICKO Federico Schwartz massimiliano@donermusic.it
     location: "Italy"
-    followers: 144978
-    engagement: 175
-    commentsToLikes: 0.780757
+    followers: 139942
+    engagement: 163
+    commentsToLikes: 0.722251
     id: ck1357k0g03dd0i19vltad5to
     verified: false
-    hashtags: "#complexstyle, #modernnotoriety, #highsnobiety, #outfit"
-  - username: "floriatascione"
+    hashtags: "#outfit, #modernnotoriety, #hypebeaststyle, #outfitoftheday"
+  - username: "gianluca_ala"
     fullname: >-
-      Floria Tascione
+      GIANLUCA ALA
     bio: >-
-      Sixteen 🍒 Milan, Italy Collab: ad@hedmedia.com
+      𝗕𝗥𝗔𝗡𝗗 𝗔𝗠𝗕𝗔𝗦𝗦𝗔𝗗𝗢𝗥 🇮🇹 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀: 𝗴𝗶𝗮𝗻𝗴𝗶𝟵𝟭.𝗮𝗹𝗮@𝗵𝗼𝘁𝗺𝗮𝗶𝗹.𝗶𝘁 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: 𝘄𝘄𝘄.𝗴𝗶𝗮𝗻𝗹𝘂𝗰𝗮𝗮𝗹𝗮.𝗰𝗼𝗺 𝟮𝟭𝗕𝘂𝘁𝘁𝗼𝗻𝘀: 𝗴𝗶𝗮𝗻𝗹𝘂𝗰𝗮_𝗮𝗹𝗮
     location: "Italy"
-    followers: 22783
-    engagement: 1373
-    commentsToLikes: 0.010147
-    id: ck5hq09bqs9tl0i11hn7t03w4
+    followers: 201716
+    engagement: 123
+    commentsToLikes: 0.090912
+    id: ck0u6ysgq3bxz0i19vz7ozdaq
     verified: false
-    hashtags: "#adv, #pullandbearsicko19, #pullandbearcommunity"
-  - username: "a.carolanne"
+    hashtags: "#blogging, #dapper, #italianfashion, #malemodel"
+  - username: "francintokyo"
     fullname: >-
-      Carol Anne 🦋 | #Sneakerhead
+      
     bio: >-
-      캐롤 안 | G ♡ | 👟 US 6 | TikTok a.carolanne 🐼 Just living the Swoosh life 📍Milan, Italy - BTS stan 🔐 private acc: @a.carolanne2
+      Tokyo based architect from Milan, Italy. Discoverer of the city during the night. Shot with Iphone.
     location: "Italy"
-    followers: 17093
-    engagement: 760
-    commentsToLikes: 0.170836
-    id: ck8t3fx5k33qt0j78sa5bnw8l
+    followers: 6144
+    engagement: 554
+    commentsToLikes: 0.006462
+    id: ckf5mkw37uagp0j235j2gtpxy
     verified: false
-    hashtags: "#klekttakeover, #praisethegirls, #airjordan, #chicago1"
-  - username: "dariospada"
+    hashtags: "#goexplore, #camerapixels, #gameoftones, #citygrammers"
+  - username: "giulia.debernardi"
     fullname: >-
-      🌈DARIO SPADA🌈
+      JULIET
     bio: >-
-      Radio is my life, music is my passion, photography is my love. You can listen to me on @radio105 Currently: Milano 🇮🇹
+      𝘿𝙄𝙑𝙀𝙍𝙎𝘼 𝘿𝘼 𝙏𝙀 ▫️ @studenti.unimi | veterinary ▫️ @modelmanagement | model 📍 Milan, 1999
     location: "Italy"
-    followers: 44904
-    engagement: 359
-    commentsToLikes: 0.028930
-    id: ck0vvaofboak40i197qy7o5sy
-    verified: true
-    hashtags: "#radio, #radio105, #ig, #105musicandcars"
-  - username: "mxrlsricky"
-    fullname: >-
-      R I C C A R D O  R U G G E R I
-    bio: >-
-      📸//Photographer-Content Creator 🇮🇹//Milan-Voghera ⬇️//Questo sono io 🙋🏻‍♂️//🏄‍♂️⛷📈📸🏔✈️🏍👟 📩//Collab: Dm/Rirugg001@gmail.com
-    location: "Italy"
-    followers: 18625
-    engagement: 783
-    commentsToLikes: 2.245387
-    id: ck1357ljm03lh0i19dpa23b34
+    followers: 20124
+    engagement: 429
+    commentsToLikes: 0.066036
+    id: ckap6pcikgv370i78h58yv69q
     verified: false
-    hashtags: "#motard, #goprohero, #giveawayalert, #125cc"
-  - username: "lucat10"
+    hashtags: "#vintage, #milan, #ootd, #instagood"
+  - username: "lucamonte89"
     fullname: >-
-      Gianluca  Tosques ↟ SONY|GoPro
+      🇮🇹 Luca Montevecchi - Milano
     bio: >-
-      ↠ CONTENT • CREATOR ↟ Adventure | Outdoor | Travel ↟ ITALY | MILAN ↟ @dopesnow @sector_nolimits ambassador ↟ @gopro awards winner
+      📍Based in Milan Urban - Street photography💭 © All photos in this gallery are mine!
     location: "Italy"
-    followers: 12602
-    engagement: 462
-    commentsToLikes: 0.048639
-    id: ck5hljoydkcbb0i11et6j3dkr
+    followers: 22011
+    engagement: 195
+    commentsToLikes: 0.016946
+    id: ckaor8lfem6ws0i78niuzxzr3
     verified: false
-    hashtags: "#goworldwide, #wildernessculture, #bevisuallyinspired, #createexplore"
+    hashtags: "#ig, #streetgrammers, #visualambassadors, #visualsmovement"
+  - username: "irene_ncl"
+    fullname: >-
+      Irene Nicolao
+    bio: >-
+      📍Vicenza/Milano 👩‍🏫Unicatt 🤳🏻 Tik tok: irenencl 👠@selectmodelmilano 👗@giulianatiagency 📽@ciaodarwinreal 8 (web vs TV) 📪 ire.nicolao@gmail.com
+    location: "Italy"
+    followers: 31736
+    engagement: 222
+    commentsToLikes: 0.139640
+    id: ck0w65dlf6z4f0i19ny3380s3
+    verified: false
+    hashtags: "#fashion, #supreme, #modernnoteriety, #newcollection"
+  - username: "nick_asphodel"
+    fullname: >-
+      Nick Asphodel | Photoshop
+    bio: >-
+      📍 Milano 💭 Magic Realism ⚡️ #Photomanipulation 👇🏻 𝗣𝗿𝗲𝘀𝗲𝘁𝘀 | 𝗣𝗿𝗶𝗻𝘁𝘀 | 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀
+    location: "Italy"
+    followers: 39457
+    engagement: 502
+    commentsToLikes: 0.026204
+    id: ck600aoq6d8vc0i14prs53mda
+    verified: false
+    hashtags: "#beautifulartvisuals, #createyourstory, #launchdsigns, #designarf"
+  - username: "q_tto"
+    fullname: >-
+      Giuseppe Cuttone. RABBIT. 🐰
+    bio: >-
+      TEAM @klekt ⚡️ Fam @aj1squad 🇮🇹MILANO🔴⚫️ 🔥SNEAKERS PSYCHO FUCKIN' DRAMA 👟 10.5 US
+    location: "Italy"
+    followers: 21208
+    engagement: 439
+    commentsToLikes: 0.014374
+    id: ck55lkkrd1s6n0i111va33nl6
+    verified: false
+    hashtags: "#kicksoutthebox, #solewatch, #gentlemengrid, #todayskicks"
   - username: "camera60studio"
     fullname: >-
       New stuff on bags game
     bio: >-
       Focused on upcycle 🔬♻️®️ Fully made by @matteobastiani & @chiararivituso Milano 🇮🇹
     location: "Italy"
-    followers: 27757
-    engagement: 437
-    commentsToLikes: 0.032902
+    followers: 27875
+    engagement: 259
+    commentsToLikes: 0.011268
     id: ckaosxli5th7a0i78kib667t8
     verified: false
-    hashtags: "#bags, #upcycle, #recycle, #remade"
+    hashtags: "#hypebae, #design, #ikea, #home"
+  - username: "rich_kids_milano"
+    fullname: >-
+      Rich_kids_milano
+    bio: >-
+      -RICH | MILANO | LIFE | STYLE | CARS| 👻snap :Richkidsmilano 📥DM for promo follow richkidsmilano follow Follower by Richkidsmilano
+    location: "Italy"
+    followers: 35794
+    engagement: 840
+    commentsToLikes: 0.015110
+    id: ck8t46u1d5pc30j780ycks9q4
+    verified: false
+    hashtags: "#tirana, #dollar, #view, #dollars"
 ---

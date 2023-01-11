@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Colombia in 2023
+title: Top 10 Food Instagram Influencers In Colombia In 2023
 description: >-
-  Find top food Instagram influencers in Colombia in 2023. Most popular hashtags: #publicidad #foodporn #colombia.
+  Find top food Instagram influencers in Colombia in 2023. Most popular hashtags: #tbt #food #foodporn.
 platform: Instagram
 hits: 109
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 109 Instagram influencers like this in Colombia for you to work with.
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 109 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "cristinavivesj"
-    fullname: >-
-      Makeup • Beauty • Lifestyle
-    bio: >-
-      Make-up artist & Beauty Vlogger 💄Citas de maquillaje @makeupbycristinavives 💌 Cristinavives04@gmail.com 🍕FOOD
-    location: "Colombia"
-    followers: 33725
-    engagement: 180
-    commentsToLikes: 0.055478
-    id: ck0tx48ijhubb0i19y9rokavw
-    verified: false
-    hashtags: "#makeuptutorial, #tutorialmaquillaje, #muasfeaturing, #makeupartist"
   - username: "giulioiannelli"
     fullname: >-
       Giulio Iannelli
     bio: >-
       Foodlover 🇮🇹🇬🇧🇵🇦🇨🇴🍴. Mantieniti pulito !
     location: "Colombia"
-    followers: 24036
-    engagement: 834
-    commentsToLikes: 0.017496
+    followers: 32266
+    engagement: 917
+    commentsToLikes: 0.015144
     id: ck5qbbludkry10i11pevsb0ia
     verified: false
-    hashtags: "#familia, #saturno, #casadolcecasa, #amordemisamores"
+    hashtags: "#amordemisamores, #casadolcecasa, #familia, #amaloquehaces"
+  - username: "cristinavivesj"
+    fullname: >-
+      Makeup • Beauty • Lifestyle
+    bio: >-
+      Make-up artist & Beauty Vlogger 💄Citas de maquillaje @makeupbycristinavives 💌 Cristinavives04@gmail.com 🍕FOOD
+    location: "Colombia"
+    followers: 33278
+    engagement: 180
+    commentsToLikes: 0.053116
+    id: ck0tx48ijhubb0i19y9rokavw
+    verified: false
+    hashtags: "#muasfeaturing, #makeupartist, #tucomovives, #morphe"
   - username: "danielabohor"
     fullname: >-
       Daniela Bohórquez
     bio: >-
-      ✨Fashion |Travel | Food Makeup lover💄💖 #ootdanibohor Owner @bohor_ Embajadora @natura.colombia
+      ✨Fashion |Travel | Food Makeup lover💄💖 #ootdanibohor Owner @bohor_ Filipenses 4:13 🙏🏼❣️
     location: "Colombia"
-    followers: 65067
-    engagement: 411
-    commentsToLikes: 0.017105
+    followers: 73533
+    engagement: 547
+    commentsToLikes: 0.011570
     id: ck5q540fgra840i11cnw458ni
     verified: false
-    hashtags: "#hairstyle, #swimwear, #sonyaudio, #ootdanibohor"
-  - username: "ossy_lion"
-    fullname: >-
-      O S S
-    bio: >-
-      Feminist 💚 Body positive Stylist @michelleforbadgirls ✨ Foodie wannabe 🍝
-    location: "Colombia"
-    followers: 6319
-    engagement: 720
-    commentsToLikes: 0.046023
-    id: ck5qd8roludd50i11r69qsa2n
-    verified: false
-    hashtags: "#beauty, #makeup, #ojalaalgundia, #feminist"
-  - username: "ssanint"
-    fullname: >-
-      Sebastian Sanint
-    bio: >-
-      Coffee, Sneakers, Trips, Food n Beer 📸 Photographer Available Worldwide ✈️ @ssanintphoto #sspresets 📲 Booking - Info ⤵️
-    location: "Colombia"
-    followers: 18897
-    engagement: 305
-    commentsToLikes: 0.041342
-    id: ck6tk6chx433d0j71t0dx5roo
-    verified: false
-    hashtags: "#portraitmode, #portraiture, #aryatheheeler, #analogfilm"
-  - username: "mj.araque"
-    fullname: >-
-      M J A
-    bio: >-
-      Caleña|🇨🇴 GIC + fashion marketing Foodie👩🏻‍🍳 @mjaraquefoodcoma @lcibogota
-    location: "Colombia"
-    followers: 19121
-    engagement: 367
-    commentsToLikes: 0.025432
-    id: ckap1ckzhu0c50i78dnaradav
-    verified: false
-    hashtags: "#brunchtime, #mariajose, #seattle, #restaurant"
-  - username: "juanpatetrae"
-    fullname: >-
-      Juanpatetrae 🔪
-    bio: >-
-      My history time = My daily life 😏🔥 Chef /Creador y buscador gastronómico 👨🏻‍🍳👀 Tiktok (+80K): Juanpatetrae Foodlover 🤤 I Love animals 🐾❤️ Cali 🇨🇴📍
-    location: "Colombia"
-    followers: 7568
-    engagement: 439
-    commentsToLikes: 0.082879
-    id: ck9wd786vedof0j78c7w5bgia
-    verified: false
-    hashtags: "#hombre, #tattoo, #colombia, #foodporn"
-  - username: "mariairagorri"
-    fullname: >-
-      Maria Iragorri
-    bio: >-
-      Luck is an attitude💖 @mariairagorricollection @mariairagorriconcepthouse GlobeTrotter|Foodie|Lifestyle mariairagorri@gmail.com
-    location: "Colombia"
-    followers: 80644
-    engagement: 95
-    commentsToLikes: 0.026012
-    id: ck5zwz7d4719y0i14cp2933i6
-    verified: false
-    hashtags: "#revolucio, #yoelijoe, #publicidad"
+    hashtags: "#ootdanibohor, #ootd, #tbt, #diorcafe"
   - username: "mikevsfood_oficial"
     fullname: >-
       MikeVsFood
     bio: >-
-      Eating Without Limits Food Challenges Brand ambassador #93victories #1defeats
+      Eating Without Limits Food Challenges Brand ambassador #106victories #1defeats
     location: "Colombia"
-    followers: 23709
-    engagement: 245
-    commentsToLikes: 0.049697
+    followers: 24617
+    engagement: 172
+    commentsToLikes: 0.056104
     id: ck0w4u3pm0ffj0i19xnl72mes
     verified: false
-    hashtags: "#eating, #chicken, #bloggerstyle, #eat"
-  - username: "jorgequinteroca"
+    hashtags: "#publicidad, #cocinerosautenticosmiller, #colaboracion, #foodporn"
+  - username: "carogene"
     fullname: >-
-      Jorge Quintero
+      Carolina Gene
     bio: >-
-      Share good vibes! Diseñador Visual / food / design / travel •@saborenlamesa •@parce.col • @share2trip • @kitki.co
+      @saha.foods •Politóloga + op en Políticas públicas •Chef Aficionada & Artista Twt carolinagene •Srta Norte de Santander 2015
     location: "Colombia"
-    followers: 19689
-    engagement: 325
-    commentsToLikes: 0.007275
-    id: ckap421365hx20i7810jzdsq9
+    followers: 32784
+    engagement: 237
+    commentsToLikes: 0.024106
+    id: ck5qcr5v3rxuu0i11ypgwmqkl
     verified: false
-    hashtags: "#saborenlamesa, #share2trip, #publicidad, #escapadasconsabor"
+    hashtags: ""
+  - username: "juanpatetrae"
+    fullname: >-
+      Juanpatetrae 🔪
+    bio: >-
+      ⬆️ Mira mis historias diarias ⬆️ ⚠️ #fooddaily ⚠️ Quédate y antójate todos los días🤤 Creador y buscador gastronómico 🔥 ✨ #foodlover ✨
+    location: "Colombia"
+    followers: 7934
+    engagement: 277
+    commentsToLikes: 0.118383
+    id: ck9wd786vedof0j78c7w5bgia
+    verified: false
+    hashtags: "#reels, #streetfood, #burgerlover, #cali"
+  - username: "foodiehub_baq"
+    fullname: >-
+      Foodiehub_baq | Food blog
+    bio: >-
+      #LosDelFoodPorn X rated food reviews/Reseñas gastronómicas XXX | RECETAS🔥 🇨🇴BAQ #AyHptaQueRico #foodporn Publicidad al DM
+    location: "Colombia"
+    followers: 8532
+    engagement: 603
+    commentsToLikes: 0.326293
+    id: ck8tae96crejy0j78nosmvr0e
+    verified: false
+    hashtags: "#delivery, #losdelfoodporn, #recipe, #sweettooth"
+  - username: "purpurall"
+    fullname: >-
+      A N D R E
+    bio: >-
+      💜 Mercadóloga y Publicista 🤘🏻Rockanrolera 🥡 Foodie 🌳 Sembremos árboles @1000enundia
+    location: "Colombia"
+    followers: 20963
+    engagement: 698
+    commentsToLikes: 0.037584
+    id: ck0w0n1fzf1aq0i19admo5yvn
+    verified: false
+    hashtags: "#world, #citygrammers, #onlyinsouthamerica, #colombiahd"
+  - username: "soydavidrc"
+    fullname: >-
+      David 🎧
+    bio: >-
+      🎤Radio host, Podcaster, 🎧 @vibra.co @candelaestereo.com #music #travel #food
+    location: "Colombia"
+    followers: 38564
+    engagement: 170
+    commentsToLikes: 0.032016
+    id: ck6ubkk9la4ir0j71expiqoco
+    verified: false
+    hashtags: "#shihtzu, #colombiafood, #streetfood, #seafood"
+  - username: "calicolfit"
+    fullname: >-
+      LUZ MARINA GARCIA A 🐼🦄
+    bio: >-
+      FITNNES Lifestyle 🏋️‍♀️ FOOD👩‍🍳 Abogada 🧑‍⚖️ Mom👩‍👦 Ceo @level_upsport @fitnesspointcali ambassador Distribuidora @bodyrock_fitness
+    location: "Colombia"
+    followers: 43808
+    engagement: 85
+    commentsToLikes: 0.048433
+    id: ck5zufszw2a0r0i14z8wpyi8c
+    verified: false
+    hashtags: "#home, #workout, #cale, #legs"
 ---

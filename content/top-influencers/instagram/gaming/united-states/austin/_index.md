@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Austin in 2023
+title: Top 10 Gaming Instagram Influencers In Austin In 2023
 description: >-
-  Find top gaming Instagram influencers in Austin in 2023. Most popular hashtags: #gaming #art #halloween #videogames.
+  Find top gaming Instagram influencers in Austin in 2023. Most popular hashtags: #gaming #gamer #pcgaming #playstation.
 platform: Instagram
-hits: 27
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 27 Instagram influencers like this in Austin, United States for you to contact.
+hits: 25
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 25 Instagram influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "austin_st_john"
+  - username: "widowontwitch"
     fullname: >-
-      Austin St. John -Power Rangers
+      widow
     bio: >-
-      “Jason” The Red Ranger from MMPR! -Supplying your Power Ranger needs at www.austinstjohn.biz -Check out my new VLOG’s below!
+      I do the 🎮 for a living. @Twitch Partner. Content Creator for @gengesports 📧 widow@clovertalent.gg Austin, TX 📍
     location: "United States"
-    followers: 194625
-    engagement: 119
-    commentsToLikes: 0.021439
-    id: ck0w5jugk3zsj0i198j9ieiiy
-    verified: true
-    hashtags: "#goldranger, #sentai, #fanward, #mmpr"
-  - username: "ram3dda"
-    fullname: >-
-      Ross A. Morris
-    bio: >-
-      3D DESIGN & ANIMATION | AUSTIN TX rossmorris1400@gmail.com
-    location: "United States"
-    followers: 9729
-    engagement: 497
-    commentsToLikes: 0.013354
-    id: ck138wfipichx0i19isldlt13
+    followers: 9976
+    engagement: 233
+    commentsToLikes: 0.046961
+    id: ckrzf012qlltp0j23jel4lp82
     verified: false
-    hashtags: "#everyday, #abstract, #c4d, #kitbash3d"
+    hashtags: "#rocketleaguestreamer, #gamer, #rocketleagueclips, #rocketleaguebrasil"
+  - username: "missbotez"
+    fullname: >-
+      Alexandra Botez
+    bio: >-
+      📍Austin, Texas 🌲 B.A. Stanford ‘17 ♟ Chess Content Creator @teamenvy
+    location: "United States"
+    followers: 460789
+    engagement: 1451
+    commentsToLikes: 0.009580
+    id: ckaovknlf4z2i0i78osbh5llm
+    verified: false
+    hashtags: "#cozy, #comfortable, #selfcare, #loveyourself"
   - username: "kenbolido"
     fullname: >-
       Ken
     bio: >-
-      🎬 Production lead for @austinnotduncan 🎮 Twitch Streamer Business/ad inquiries: ken@litolmedia.com
+      🎬 Production lead for @austinnotduncan ----- 🏎 Toyota 21' GR Supra B48 📸 iPhone 12 Pro Max + Sony Alpha A7SII ----- 📧 Business: ken@litolmedia.com
     location: "United States"
-    followers: 17097
-    engagement: 1373
-    commentsToLikes: 0.016869
+    followers: 20158
+    engagement: 1158
+    commentsToLikes: 0.017604
     id: ckf5kzeoxns6b0j23tk7qm2e7
     verified: false
-    hashtags: "#android, #portraitphotography, #newtech, #technology"
+    hashtags: "#videogames, #gamer, #jdmlife, #pc"
   - username: "austingaming123"
     fullname: >-
       Austin Davert
     bio: >-
       🎮 Gamer 🚗 ✈️ Car/Aviation Fan 🏥 Health Information Management Student ♿️ Osteogenesis Imperfecta Type III 💪 Hoping to Empower Others 🇺🇸 Proud Patriot
     location: "United States"
-    followers: 8970
-    engagement: 1272
-    commentsToLikes: 0.032248
+    followers: 8711
+    engagement: 1146
+    commentsToLikes: 0.040184
     id: ck55plp5fatvp0i11f9qqmtvd
     verified: false
-    hashtags: "#tech, #computer, #handcontrols, #aviation"
-  - username: "roundbyroundboxing"
+    hashtags: "#driving, #dodge, #braunability, #wheelchairaccessible"
+  - username: "austin_st_john"
     fullname: >-
-      Round By Round Boxing
+      Austin St. John -Power Rangers
     bio: >-
-      "Complete boxing coverage--round by round!" 📝 #Boxing News & Opinions 📹 Highlights 🎨 Photo Edits 📷 Award-Winning Photos 📱Download the #RBRBoxing App
+      “Jason” The Red Ranger from MMPR! Shop here:
     location: "United States"
-    followers: 27538
-    engagement: 120
-    commentsToLikes: 0.039268
-    id: ckaoz0hc0jubu0i78fdpeiqgy
-    verified: false
-    hashtags: "#espn, #toprank, #fightnightchampions, #whoyougot"
-  - username: "venxmexe"
-    fullname: >-
-      Mikayla 🐾 ミケーラ
-    bio: >-
-      Your Friendly Neighborhood Youtuber YT: captainmikayla 10.9k TikTok 279k Twitch: 1.5k 23//Cosplayer venmo: venxmexe tiktok:venxmexe
-    location: "United States"
-    followers: 12574
-    engagement: 441
-    commentsToLikes: 0.010861
-    id: ck9wdci62f18r0j78kb5b01q5
-    verified: false
-    hashtags: "#satx, #tanjiro, #anime, #gaming"
-  - username: "spidagrfx"
-    fullname: >-
-      "MICAH" 🕷 // Road to 20K⚡️
-    bio: >-
-      20 • Aspiring Nike Designer Content Creator @teamdiverge • #BoltUp Art Portfolio: Logos • Graphics Jersey Swaps • Uniform Design ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
-    location: "United States"
-    followers: 12065
-    engagement: 2711
-    commentsToLikes: 0.037782
-    id: ckap0e728pw0q0i784sxvno26
-    verified: false
-    hashtags: "#hype, #hypebeast, #football, #jukes"
-  - username: "angelabermudeza"
-    fullname: >-
-      Angela Bermúdez Art
-    bio: >-
-      🇨🇷 Costa Rican in LA | Self-taught Painter 📸 Modeling & Cosplay at @angelabermudezb 🎨 Creating at @brushesandkeys w/@a.wintory
-    location: "United States"
-    followers: 38979
-    engagement: 441
-    commentsToLikes: 0.020423
-    id: ck15r92h86rdn0i19gpfc81fh
-    verified: false
-    hashtags: "#stayhome, #quarantine, #musicandpainting, #cosplay"
+    followers: 211133
+    engagement: 96
+    commentsToLikes: 0.027297
+    id: ck0w5jugk3zsj0i198j9ieiiy
+    verified: true
+    hashtags: "#autographs, #cosplay, #teamgalactic, #redranger"
   - username: "ava.gg"
     fullname: >-
-      Ava || Austin Influencer
+      Ava || Austin TX Influencer
     bio: >-
-      My IG is a mess of plants, travel, and video games. Please email for business opportunities Twitter: AvaGG Twitch/Yt: AvaGG
+      My IG is a mess of plants, travel, and video games. Please email for business opportunities Twitter: AvaGG Yt: AvaGG Fanhouse : AvaGG Queen @queensgg
     location: "United States"
-    followers: 80194
-    engagement: 486
-    commentsToLikes: 0.009558
+    followers: 84062
+    engagement: 261
+    commentsToLikes: 0.014986
     id: ck0tuax3f6dsv0i195a4dukhl
     verified: false
-    hashtags: "#plantsmakepeoplehappy, #bohodecor, #animalcrossing, #acnhdesigns"
-  - username: "ruinednismo"
+    hashtags: "#apex, #apexlegends, #gaming, #apexlegendscommunity"
+  - username: "subie.tay"
     fullname: >-
-      Christian
+      Tay
     bio: >-
-      ▪️Nissan 370z Nismo🖤 ▪️KTM 1290 Super Duke R🧡 ▪️Tattoos💉 ▪️Gym🏋️‍♂️ ▪️Photography📸
+      Not fast, just furious. Twitch.tv/Subietay
     location: "United States"
-    followers: 17678
-    engagement: 859
-    commentsToLikes: 0.018069
-    id: ck0tyc4l6mdex0i19eq2m73dn
+    followers: 6056
+    engagement: 492
+    commentsToLikes: 0.054598
+    id: ckap4fmgx75z50i78o4zoka1s
     verified: false
-    hashtags: "#slammedenuff, #forgedwheels, #modifiedsociety, #hypernaked"
+    hashtags: "#twitch, #egirl, #codmobile, #onlyfanz"
+  - username: "spidagrfx"
+    fullname: >-
+      Micah Sheets  //  12K
+    bio: >-
+      21 • Long Beach, CA Content Creator @teamdiverge Clients within @NFL @NBA @MLB #BoltUp ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
+    location: "United States"
+    followers: 12463
+    engagement: 2166
+    commentsToLikes: 0.025832
+    id: ckap0e728pw0q0i784sxvno26
+    verified: false
+    hashtags: "#jukes, #jerseyswap, #espn, #titans"
+  - username: "byrdmena"
+    fullname: >-
+      SharpFade 🇻🇪
+    bio: >-
+      🚀Founder @Sharpfade | Retired 💈 💈Co-Founder @Riseofhair | 🌎 25+ Countries 🧠Global Creative Consultant @wahlpro 📱@BooksyBIZ Partner 🎙 INTL Host
+    location: "United States"
+    followers: 71554
+    engagement: 200
+    commentsToLikes: 0.080107
+    id: ck0w55fgj1zih0i19h3iwjsra
+    verified: false
+    hashtags: "#moda, #style, #barber, #wahl"
+  - username: "melisaclementdesigns"
+    fullname: >-
+      Melisa Clement Designs
+    bio: >-
+      High-end house flipping, home remodeling, happy dancing❣️ Stay at our Airbnb & find me at www.melisaclementdesigns.com Use #remodellove to be featured
+    location: "United States"
+    followers: 79250
+    engagement: 114
+    commentsToLikes: 0.070978
+    id: ck0ubt8mdfckp0i19rhp6n1cp
+    verified: false
+    hashtags: "#fixerupperinspired, #lonnyliving, #currentdesignsituation, #beforeandafterinteriors"
 ---

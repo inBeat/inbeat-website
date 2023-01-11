@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In New York in 2023
+title: Top 10 Hypebeast TikTok Influencers In New York In 2023
 description: >-
-  Find top hypebeast TikTok influencers in New York in 2023. Most popular hashtags: #foryou #fyp #hypebeast #foryoupage.
+  Find top hypebeast TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #hypebeast #viral.
 platform: TikTok
-hits: 14
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 14 TikTok influencers like this in New York, United States for you to contact.
+hits: 10
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 10 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "jahstyen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Check out my fits on IG! 👆🏻 📍NY 🗽
     location: "United States"
-    followers: 8436
-    engagement: 843
-    commentsToLikes: 0.034952
+    followers: 8332
+    engagement: 840
+    commentsToLikes: 0.034488
     id: ckb9lh87ge3b80j23631158sk
     verified: false
-    hashtags: "#nikesb, #sneakers, #newyork, #famous"
-  - username: "youngmarcuss"
+    hashtags: "#offwhite, #nikesb, #foryoupage, #4you"
+  - username: "snkrgurl617"
     fullname: >-
-      Young Marcu$
+      ALOE
     bio: >-
-      Fashion and skate Hopping turnstiles n shit check the gram for 🔥
+      I’m joking 21 NYC ig: 617aloe
     location: "United States"
-    followers: 25800
-    engagement: 964
-    commentsToLikes: 0.035407
-    id: ckb0wttj3lyit0j23ysh5ku9w
+    followers: 51800
+    engagement: 853
+    commentsToLikes: 0.056740
+    id: ckc227s8g5q1y0j23r338lbc5
     verified: false
-    hashtags: "#fyp, #style, #trending, #skateboard"
-  - username: "nogood.io"
+    hashtags: "#fyp, #college, #nyc, #italian"
+  - username: "shirtlessguynyc"
     fullname: >-
-      NoGood
+      Hot chocolate 🍫
     bio: >-
-      New York’s Nerdiest Growth Marketers | Follow us on IG for more
+      Follow my insta 🍫 @moc_nyc For your entertainment CEO of snow bunnies ❄️👱‍♀️
     location: "United States"
-    followers: 66300
-    engagement: 846
-    commentsToLikes: 0.010640
-    id: ckacc3jnjhxbb0i78j19xtdgh
+    followers: 103200
+    engagement: 585
+    commentsToLikes: 0.089002
+    id: ck8khivlymwoq0j78oytawa7d
     verified: false
-    hashtags: "#fyp, #marketing, #rating, #foryou"
-  - username: "justinpereiraa"
-    fullname: >-
-      Justin Pereira
-    bio: >-
-      IG: Justinpereiraa Do what you lov 📍NJ 🌊
-    location: "United States"
-    followers: 11000
-    engagement: 1026
-    commentsToLikes: 0.043671
-    id: ckbqhv64p37fn0j23awhknorq
-    verified: false
-    hashtags: "#justinpereira, #cactusjack, #oceancity, #travisscottmcdonalds"
-  - username: "paul.soles"
-    fullname: >-
-      Paul Soles
-    bio: >-
-      NYC📍 Youtube: Paul Soles Instagram: Paul.soles Snap: paul_albano
-    location: "United States"
-    followers: 52000
-    engagement: 1913
-    commentsToLikes: 0.014085
-    id: ckavau850ifpo0j23jq64xoip
-    verified: false
-    hashtags: "#foryou, #viral, #trending, #sneakers"
+    hashtags: "#whitegirls, #blackman, #kingofnewyork, #snowbunnies"
   - username: "joemigraine"
     fullname: >-
       Joe Migraine
     bio: >-
       🌎 World’s #1 Supreme Collector 🤝 @EricWhiteback’s Brother 📸: IG @joemigraine
     location: "United States"
-    followers: 70900
-    engagement: 1194
-    commentsToLikes: 0.010921
+    followers: 69800
+    engagement: 1177
+    commentsToLikes: 0.010507
     id: ck8nf5iy6qda20j781zffnb5j
     verified: false
-    hashtags: "#hypebeast, #viral, #foryou, #hype"
-  - username: "thesneakcity"
+    hashtags: "#nyc, #fyp, #supreme, #foryou"
+  - username: "marinosmihalatos"
     fullname: >-
-      Tia Hall 💁🏽‍♀️
-    bio: >-
-      Owner of Sneak City in Seattle Instagram @supfed Yes, a girl who resells 👟
-    location: "United States"
-    followers: 31158
-    engagement: 884
-    commentsToLikes: 0.018304
-    id: ck9a3tuj3rypw0j78k6mh8ds4
-    verified: false
-    hashtags: "#sidehustle, #for, #comment, #money"
-  - username: "im_clayton"
-    fullname: >-
-      ✨clayton✨
+      Marinos Mihalatos
     bio: >-
       
     location: "United States"
-    followers: 40700
-    engagement: 2096
-    commentsToLikes: 0.131685
+    followers: 19200
+    engagement: 580
+    commentsToLikes: 0.066539
+    id: ck81qvormk9n50j78gvsk4k6r
+    verified: false
+    hashtags: "#newyork, #fyp, #nyc, #collegelife"
+  - username: "im_clayton"
+    fullname: >-
+      clayton
+    bio: >-
+      i make edits
+    location: "United States"
+    followers: 41100
+    engagement: 1945
+    commentsToLikes: 0.114150
     id: ckbqwclzngkxm0j23dxb93ch2
     verified: false
-    hashtags: "#fyp, #memes, #viral, #foryou"
-  - username: "matt_toledo"
+    hashtags: "#meme, #riot, #juicewrld, #protest"
+  - username: "ithinkmylifeisadream"
     fullname: >-
-      Matt Toledo
+      mim1018
     bio: >-
-      21 Quinnipiac NJ/CT
+      Instagram: @mim1018 I move around a lot
     location: "United States"
-    followers: 62000
-    engagement: 1526
-    commentsToLikes: 0.038974
-    id: ck8kda8pa4ukk0j789xrnwcoo
+    followers: 4246
+    engagement: 1095
+    commentsToLikes: 0.054833
+    id: ck9804aea65ak0j78o3xysv40
     verified: false
-    hashtags: "#architecture, #xbox, #humor, #xyzbca"
+    hashtags: "#outdoors, #la, #gooutside, #dtla"
+  - username: "homicidalsperm"
+    fullname: >-
+      JELLO
+    bio: >-
+      Wassup tho? 18 // Michigan
+    location: "United States"
+    followers: 9411
+    engagement: 1262
+    commentsToLikes: 0.049931
+    id: cka0p9hhj77sq0i78ghakyvft
+    verified: false
+    hashtags: "#cod, #callofdutywarzone, #fyp, #foryoupage"
   - username: "pattygotnocake"
     fullname: >-
-      patty 𝖈𝖔𝖗𝖊⁷ ✧
+      pattycore
     bio: >-
       IG @patriciahwang NYC apt tour + fashion buyer vids👇
     location: "United States"
-    followers: 116300
-    engagement: 815
-    commentsToLikes: 0.009842
+    followers: 123300
+    engagement: 1094
+    commentsToLikes: 0.013931
     id: ck9c2iy0ep78t0j78skyd95if
     verified: false
-    hashtags: "#foryou, #fashion, #asian, #bts"
+    hashtags: "#highfashion, #korean, #kpop, #style"
+  - username: "shugzaddy"
+    fullname: >-
+      Edgar Rodriguez
+    bio: >-
+      Army Vet 🇺🇸 🇲🇽 Feel Free To Show Some Love ❤️☑️ Don’t be shy 🤫👻👇🏽👇🏽
+    location: "United States"
+    followers: 49400
+    engagement: 378
+    commentsToLikes: 0.044171
+    id: ckahyja4czksg0i788ckn9t3p
+    verified: false
+    hashtags: "#viral, #sunday, #money, #bored"
 ---

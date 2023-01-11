@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers TikTok Influencers In New York in 2023
+title: Top 10 Rappers TikTok Influencers In New York In 2023
 description: >-
-  Find top rappers TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #newyork #nyc.
+  Find top rappers TikTok influencers in New York in 2023. Most popular hashtags: #foryou #fyp #newyork #foryoupage.
 platform: TikTok
-hits: 29
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 29 TikTok influencers like this in New York, United States for you to collaborate.
+hits: 25
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 25 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "thedonmikey"
+  - username: "ianconnorslawyer"
     fullname: >-
-      Mikey 🌒
+      Ian Connors Lawyer
     bio: >-
-      Follow my INSTA- thedonmikeyy ‼️🖤
+      🌙 🌍 Ian Connor’s Lawyer Retired 🕊
     location: "United States"
-    followers: 36800
-    engagement: 1574
-    commentsToLikes: 0.111629
-    id: ckceix2sprfq60j23n4rck4dh
+    followers: 4656
+    engagement: 1589
+    commentsToLikes: 0.224406
+    id: ckb9in7w795b70j23yqzywbrq
     verified: false
-    hashtags: "#blowthisup, #trending, #2ktiktok, #nba2k21"
-  - username: "jbobbyandrios"
+    hashtags: "#tylerthecreator, #asapmob, #rnb, #rap"
+  - username: "mr.ott"
     fullname: >-
-      JbobbyandRios
+      Poppa👁👄👁
+    bio: >-
+      Ryan CT
+    location: "United States"
+    followers: 23900
+    engagement: 1297
+    commentsToLikes: 0.036252
+    id: ckauzl2in53g00j23mdbwdrgx
+    verified: false
+    hashtags: "#foryou, #memes, #greenscreensticker, #wallpapers"
+  - username: "tiktoksecurityguard0"
+    fullname: >-
+      Tik Toker
+    bio: >-
+      I am BACK!
+    location: "United States"
+    followers: 339000
+    engagement: 932
+    commentsToLikes: 0.085715
+    id: ckc7wqx8zzslw0j23u8btma58
+    verified: false
+    hashtags: "#blacklivesmatter, #foryou, #foryoupage, #blm"
+  - username: "quickvic"
+    fullname: >-
+      Quick
+    bio: >-
+      Manager Instagram: @quickvic $Mainevent002
+    location: "United States"
+    followers: 32200
+    engagement: 1225
+    commentsToLikes: 0.146111
+    id: cka9kqriq0wm80i78uso2lhyg
+    verified: false
+    hashtags: "#foryourpage, #viral, #sport, #girl"
+  - username: "yuhcarrot"
+    fullname: >-
+      29
+    bio: >-
+      18 | LI, New York🖤 testicuzzi guy🤯 uTampa USE CODE “CARROT29” FOR $5 OFF🐐
+    location: "United States"
+    followers: 13900
+    engagement: 1048
+    commentsToLikes: 0.048893
+    id: ckcekriylua1z0j23x4w53qrl
+    verified: false
+    hashtags: "#rap, #fyp, #boyfriend, #cat"
+  - username: "jaymargielaa"
+    fullname: >-
+      jaymargielaa🍇
+    bio: >-
+      check out my music lol ig: jaymargielaa ⤴️ KayUpNext is my favorite rapper
+    location: "United States"
+    followers: 123200
+    engagement: 1478
+    commentsToLikes: 0.122139
+    id: ckadc9w1hqo6o0i786ovk2n0v
+    verified: false
+    hashtags: "#fyp, #popsmoke, #stitch, #xyzbca"
+  - username: "theadela"
+    fullname: >-
+      adelamusic
+    bio: >-
+      Singer, Rapper, Certified Gold Song Writer Follow me on IG @adelamusic
+    location: "United States"
+    followers: 234800
+    engagement: 1381
+    commentsToLikes: 0.117758
+    id: cka9nt7n250wy0i78vb3cqzuf
+    verified: true
+    hashtags: "#adelamygreen, #replytocomments, #verified, #spotify"
+  - username: "savannahhannah_"
+    fullname: >-
+      $avannah Hannah
+    bio: >-
+      🌸 Rapper, Queen of Looks, Icon 🌸 IG @malibuhannah 💕 My music is here ⬇️
+    location: "United States"
+    followers: 376700
+    engagement: 2048
+    commentsToLikes: 0.019656
+    id: ckb1arv2hz8rq0j23vxqshac1
+    verified: false
+    hashtags: "#newyork, #lgbt, #onmefreestyle, #godisgood"
+  - username: "mydripdifferent"
+    fullname: >-
+      Maccaveli 🖤
+    bio: >-
+      6’4 LA 🌴
+    location: "United States"
+    followers: 7513
+    engagement: 1423
+    commentsToLikes: 0.080133
+    id: ckb9b632wx2c10j23x2v4wu9y
+    verified: false
+    hashtags: "#raptiktok, #wordsofwisdom, #blacktiktok, #jokes"
+  - username: "officialks11"
+    fullname: >-
+      Therapist〽️
     bio: >-
       
     location: "United States"
-    followers: 30100
-    engagement: 805
-    commentsToLikes: 0.016241
-    id: ck8s54925e9nz0j78fzr9bdw8
+    followers: 266600
+    engagement: 1575
+    commentsToLikes: 0.149923
+    id: ckb9v5ju6u4w10j23g77t0vim
     verified: false
-    hashtags: "#newyork, #nyc, #overtime, #nba"
-  - username: "supervevos"
-    fullname: >-
-      SM
-    bio: >-
-      Video Creator✔️ Editor📸🎥 ⬇️subscribe👇👇Suscríbete⬇️
-    location: "United States"
-    followers: 7989
-    engagement: 379
-    commentsToLikes: 0.026528
-    id: ckb98w607sq420j23oyjun8a7
-    verified: false
-    hashtags: "#trending, #mexico, #funny, #supervevos"
-  - username: "justscottrocks"
-    fullname: >-
-      Scott Feierstein
-    bio: >-
-      Photographer by night, Super Hero, Musician, Paddle Boarder Dad by day.
-    location: "United States"
-    followers: 11700
-    engagement: 546
-    commentsToLikes: 0.041099
-    id: ckbkpr8ecjzzp0j23hmxahubz
-    verified: false
-    hashtags: "#eating, #halloween, #ferry, #dadsoftiktok"
-  - username: "bobbysanchezmusic"
-    fullname: >-
-      Manco Capac
-    bio: >-
-      25 YR OLD NEW YORK POET & ASPIRING MODEL HERE TO SUPPORT 2 SPIRIT & TRANS PEOPLE
-    location: "United States"
-    followers: 12000
-    engagement: 1997
-    commentsToLikes: 0.079145
-    id: ck9fx7xj854ig0j78h8sxv4kq
-    verified: false
-    hashtags: "#duet, #hiphop, #rapper, #nyc"
-  - username: "mikehitemup"
-    fullname: >-
-      Mikehitemup
-    bio: >-
-      Instagram: Mikehitemup_ FOLLOW MY INSTA PLZ ☝🏿 FUNNIEST NEW YORKER. BONNET BOY
-    location: "United States"
-    followers: 54200
-    engagement: 2018
-    commentsToLikes: 0.060091
-    id: ckcdgh37073vd0j23i5kmmo36
-    verified: false
-    hashtags: "#peppapig, #nyc, #nyccheck, #newyorkcity"
-  - username: "flyjae"
-    fullname: >-
-      FLYJaE
-    bio: >-
-      Dominican 🇩🇴 Actor/’ Comedian/Rapper..Uptown NYC-LA✈️ ‘ 🙏🏽
-    location: "United States"
-    followers: 9269
-    engagement: 664
-    commentsToLikes: 0.110544
-    id: ckbfatvha2iqg0j23x8x2o3c3
-    verified: false
-    hashtags: "#dominicano, #parati, #fyp, #dominicantiktok"
-  - username: "pyrexkidd"
-    fullname: >-
-      HOODBABBY
-    bio: >-
-      JA✈️NYC✈️ ATL No, Im not gonna take off my Yardie🇯🇲🇯🇲
-    location: "United States"
-    followers: 128100
-    engagement: 2240
-    commentsToLikes: 0.068130
-    id: ck8j6cwfm95h80j78ht3af71t
-    verified: false
-    hashtags: "#miami, #caribbean, #fyp, #unitedkingdom"
-  - username: "wavy_jose30"
-    fullname: >-
-      Jose Alberto
-    bio: >-
-      CEO OF RANKS 🤓 Go follow that IG !! Nyc 🗽🏙 ✈️ NJ 25k?
-    location: "United States"
-    followers: 20100
-    engagement: 1949
-    commentsToLikes: 0.045399
-    id: ckbfacjem1s9b0j23hb7fvhl9
-    verified: false
-    hashtags: "#fypage, #4u, #foryoupage, #trending"
-  - username: "loverboyleem"
-    fullname: >-
-      LoverBoyLeem 💕
-    bio: >-
-      BLM ✊🏾 Can I hit 5k!?? 👀 19 | Cali ⭐️
-    location: "United States"
-    followers: 3025
-    engagement: 1346
-    commentsToLikes: 0.052010
-    id: ckd5u7p7ez28b0j23origxp3e
-    verified: false
-    hashtags: "#basketball, #viral, #snoozzzapalooza, #todayyearsold"
+    hashtags: "#6ix9ine, #rapperstoknow, #chicago, #texas"
 ---

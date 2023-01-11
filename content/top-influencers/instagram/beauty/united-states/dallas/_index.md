@@ -1,60 +1,84 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Dallas in 2023
+title: Top 10 Beauty Instagram Influencers In Dallas In 2023
 description: >-
-  Find top beauty Instagram influencers in Dallas in 2023. Most popular hashtags: #fashion #beauty #photoshoot #dallas.
+  Find top beauty Instagram influencers in Dallas in 2023. Most popular hashtags: #beauty #model #dallas #photoshoot.
 platform: Instagram
 hits: 249
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 249 Instagram influencers like this in Dallas, United States for you to pitch.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 249 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "thecheydawn"
+  - username: "carmenvanelly"
     fullname: >-
-      Chey Dawn
+      
     bio: >-
-      • Model, photographer, & co owner of @lunadawncreative (DM TO BOOK) • • BLM 🖤 North TX 🌈 • •photos : @cheydawnphotog
+      To buy my published feature click on the link 🤍
     location: "United States"
-    followers: 9719
-    engagement: 627
-    commentsToLikes: 0.167812
-    id: ck5qdqa7rwt3e0i11bltc53rf
+    followers: 9796
+    engagement: 131
+    commentsToLikes: 0.006617
+    id: ckmw1a63i5gvt0j23m35vd1av
     verified: false
-    hashtags: "#likeforfollow, #photoshoot, #fortworthphotographer, #abandonedtexas"
-  - username: "forte.fitography"
+    hashtags: "#photography, #modeling, #blackandwhitephotography, #sheinbikini"
+  - username: "tacticalgirlrobinraider"
     fullname: >-
-      Terrance Forté
+      Robin Banks
     bio: >-
-      🔘Published Male Photographer, Videographer, Youtuber.🔘 Arkansas ✈️ D.C., Maryland, Virginia .
+      Dallas. Published Model. Contact me for the 2021 Tactical Girl Calendar & signed prints! 🤗Facebook-> Tactical Girl Robin Raider
     location: "United States"
-    followers: 5006
-    engagement: 695
-    commentsToLikes: 0.093018
-    id: ck5hpq272rs6u0i118erkcn0e
+    followers: 67148
+    engagement: 549
+    commentsToLikes: 0.029568
+    id: ckap35mv11nmp0i78hwaxcc7x
     verified: false
-    hashtags: "#houstonphotographer, #sigma85mmart, #arkansasphotographer, #dmvmodel"
-  - username: "baltaberdugo"
+    hashtags: "#tacticalgirls, #model, #sexy, #calendargirl"
+  - username: "amyachanel"
     fullname: >-
-      BALTAZAR BERDUGO  🇮🇱 / 🇸🇻
+      AMYACHANEL🦋
     bio: >-
-      📍Florida 🇺🇸 🥇Family👨‍👩‍👦‍👦 🇮🇱 ✡️God 📺TV Host 🎬Producer 🎥 Filmmaker 👤 Image consultant 📰Publicist. 📊Marketing 🤝RRPP
+      Entertainer/choreographer💜 Freelance Model Email for collaborations and partnerships✨ SUBSCRIBE to my channel‼️
     location: "United States"
-    followers: 42374
-    engagement: 253
-    commentsToLikes: 0.013508
-    id: ck0w1520phlgp0i19jilx9mou
+    followers: 12304
+    engagement: 740
+    commentsToLikes: 0.074924
+    id: ck8swjyv9ecco0j78n5epipc9
     verified: false
-    hashtags: "#bhfyp, #lifestyle, #surf, #sand"
-  - username: "breeebomb"
+    hashtags: "#explore, #beauty, #dallasdancers, #heelsdance"
+  - username: "fashionablylateboymom"
     fullname: >-
-      BreeeBand$
+      Letty | DFW Influencer
     bio: >-
-      👑 || 💕 Southern Bell Raising Hell DTX ✈️ HTX || Pretty Paid ENT 🎀 PVCHEER 💜 💛 #PVAMU . Follow my music page @prettypaid.ent #Model #Rapper #Music
+      Fashion + Fitness + Food Obsessed with Tacos&Spicy Margaritas & Working Out 💌 Fashionablylateboymom@gmail.com 📍Dallas Tx
     location: "United States"
-    followers: 6670
-    engagement: 500
-    commentsToLikes: 0.067856
-    id: ckap1efy7u8q10i78p10cs349
+    followers: 17993
+    engagement: 70
+    commentsToLikes: 0.320487
+    id: ck5qaykpxixhm0i11xg3o2xkk
     verified: false
-    hashtags: "#blackgirl, #houstonbeauty, #heels, #houstonlashextensions"
+    hashtags: "#dallas, #dallasblogger, #ootn, #dallasfitnessambassadors"
+  - username: "sandiego.city"
+    fullname: >-
+      Official San Diego Page
+    bio: >-
+      ♦️Tᴀɢ Us: @sandiego.city ♦️Hᴀsʜᴛᴀɢ Us: #sandiegocity ♦️Gᴏᴀʟ: #500 #500kfollowers ♦️Sʜᴀʀᴇ ᴀɴᴅ Rᴇᴘᴏsᴛ:🔁🔄 ♦️Nᴇᴡ Pᴏsᴛ Eᴠᴇʀʏ Dᴀʏ:📲📸 🔺SAN DIEGO CITY
+    location: "United States"
+    followers: 141622
+    engagement: 224
+    commentsToLikes: 0.011488
+    id: ck5pvukg1jpio0i11o1rgzzx5
+    verified: false
+    hashtags: "#cali, #instagood, #visitcalifornia, #sunriseoftheday"
+  - username: "shotsbystoney"
+    fullname: >-
+      Shots by Stoney
+    bio: >-
+      📸 Beauty & Fashion Photographer 📩 stoney@shotsbystoney.com 📍Aspen, CO
+    location: "United States"
+    followers: 2820
+    engagement: 1080
+    commentsToLikes: 0.076417
+    id: ck14j9ipfj8il0i192q4opkfr
+    verified: false
+    hashtags: "#dallasphotographer, #atxphotographer, #atxmodel, #mensbeauty"
   - username: "voorheesstudios"
     fullname: >-
       Voorhees Studios
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.013901
     id: ck0w1iteajk3y0i197urrv18t
     verified: false
-    hashtags: "#honupacificsurf, #dallascowboyscheerleaders, #michaelvoorhees, #photoshoot"
-  - username: "bren_correia"
+    hashtags: "#honupacificsurf, #dallascowboyscheerleaders, #photoshoot, #michaelvoorhees"
+  - username: "katie_pro_"
     fullname: >-
-      B R E N N A  C O R R E I A
+      🦋Екатерина🦋
     bio: >-
-      🤠 hi, welcome to my online crib! 💗 fashion• lifestyle • beauty 💫 dallas, TX | 💌 allthebswax@gmail.com 👇🏻 shop my looks
+      
     location: "United States"
-    followers: 3380
-    engagement: 682
-    commentsToLikes: 0.107650
-    id: ckf5rwixye30l0j23vmxyaalc
+    followers: 3112
+    engagement: 2053
+    commentsToLikes: 0.175158
+    id: ck6ug94oj1n4y0j712ml0sk2z
     verified: false
-    hashtags: "#braceletstacks, #gjmaui, #greshamjewelry, #taylorswiftyear"
-  - username: "sidesmilestyle"
+    hashtags: "#ootdfashion, #fitnessgoals, #portrait, #dfwmodel"
+  - username: "kanyasesser"
     fullname: >-
-      by ASHLEY BUTTERFIELD
+      𝔎𝔞𝔫𝔶𝔞 𝔖𝔢𝔰𝔰𝔢𝔯 🖤🌹👁🌙🌊
     bio: >-
-      ➖ fashion • travel • lifestyle • beauty ➖ dallas • miami • #ssxtravels ➖ mrs. @c_butterfield ❤️ ➖ Charleston travel guide:
+      Skater/Surfer Actress/Stunt Model Speaker/Women Advocate @sagaftra @dragonflyagency @dfatalent @prestigiousmodels 🖤 @jeffantonsphotography
     location: "United States"
-    followers: 160221
-    engagement: 149
-    commentsToLikes: 0.013802
-    id: ck6tq4t4zpe4z0j718rnfx03w
-    verified: false
-    hashtags: "#ltkshoecrush, #visitcharleston, #ltktravel, #ssxtravels"
-  - username: "msnaturallymary_"
+    followers: 79444
+    engagement: 230
+    commentsToLikes: 0.022063
+    id: ck6u9d4bhwv4b0j71gupwgb9w
+    verified: true
+    hashtags: "#skate, #happiness, #beauty, #texas"
+  - username: "shellybenson"
     fullname: >-
-      Msnaturally Mary
+      Shelly Benson
     bio: >-
-      🚨Original page (Msnaturallymary) Hacked at 80.5k on Oct.24th 2019😢 📍Dallas Beauty & Lifestyle Influencer Isaiah 61:7-8
+      𝕳𝖆𝖎𝖗𝖘𝖙𝖞𝖑𝖎𝖘𝖙. 𝕻𝖊𝖗𝖘𝖔𝖓𝖆𝖑𝕿𝖗𝖆𝖎𝖓𝖊𝖗. ᶜᵃⁿᶜᵉʳ☀️ᴳᵉᵐⁱⁿⁱ⬆️ᴾⁱˢᶜᵉˢ🌙 𝕸𝖔𝖔𝖓𝖈𝖍𝖎𝖑𝖉.𝕸𝖊𝖗𝖒𝖆𝖎𝖉.𝖜𝖎𝖙𝖈𝖍🧿.
     location: "United States"
-    followers: 49697
-    engagement: 549
-    commentsToLikes: 0.023103
-    id: ck55nylg979o70i11gb7liqgn
+    followers: 21456
+    engagement: 492
+    commentsToLikes: 0.026856
+    id: ck8t2jr5dzrf70j780dkb5951
     verified: false
-    hashtags: "#ad, #easy, #makeuptutorial, #makeupreels"
-  - username: "alteregoartistry_"
-    fullname: >-
-      Patrice M Marshall
-    bio: >-
-      #dallasmua Beauty Influencer/ Content Creator Promo & Collab’s ⬇️ Www.Patricemarshall34@gmail.com CEO- @alterego_artis
-    location: "United States"
-    followers: 10297
-    engagement: 229
-    commentsToLikes: 0.097908
-    id: ck6tx9o13wm7x0j71jmnlschf
-    verified: false
-    hashtags: "#melaninpoppin, #blackmelaninmakeup, #makeupforbeginners, #makingbeautyabusiness"
-  - username: "tacticalgirlrobinraider"
-    fullname: >-
-      Robin
-    bio: >-
-      Dallas. Published Model.Premium Snapchat is PayPal donation based. Amazon Wish List ❤️ Facebook-> Tactical Girl Robin Raider
-    location: "United States"
-    followers: 64410
-    engagement: 424
-    commentsToLikes: 0.032160
-    id: ckap35mv11nmp0i78hwaxcc7x
-    verified: false
-    hashtags: "#dallasmodel, #tacticalgirls, #2a, #beauty"
+    hashtags: "#mermaid, #vintagestyle, #travelgram, #styleinspo"
 ---

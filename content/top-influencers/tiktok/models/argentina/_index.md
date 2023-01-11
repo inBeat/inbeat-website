@@ -1,72 +1,84 @@
 ---
-title: Top 10 Models TikTok Influencers In Argentina in 2023
+title: Top 10 Models TikTok Influencers In Argentina In 2023
 description: >-
-  Find top models TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #model #foryou.
+  Find top models TikTok influencers in Argentina in 2023. Most popular hashtags: #fyp #parati #model #argentina.
 platform: TikTok
-hits: 54
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 54 TikTok influencers like this in Argentina for you to work with.
+hits: 55
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 55 TikTok influencers like this in Argentina for you to contact.
 profiles:
-  - username: "leofurio"
-    fullname: >-
-      Leo Furió
-    bio: >-
-      Fotógrafo de Mza - Argentina 🇦🇷 🔥 15K? 🔥 Visita mi tienda online 👇🏼
-    location: "Argentina"
-    followers: 12400
-    engagement: 1312
-    commentsToLikes: 0.032637
-    id: ck9f1ppzp981w0j782uu75r30
-    verified: false
-    hashtags: "#sesion, #phototips, #instagram, #photographer"
-  - username: "thiago_doldan"
-    fullname: >-
-      thiago 🐾
-    bio: >-
-      🇦🇷 ig: thiago_doldan vamos por 70k?
-    location: "Argentina"
-    followers: 60700
-    engagement: 992
-    commentsToLikes: 0.035847
-    id: ckbatbtb6jwrr0j23e93kmn1i
-    verified: false
-    hashtags: "#argentina, #viral, #fifa20, #model"
   - username: "odetokillme"
     fullname: >-
       odetokillme
     bio: >-
       karen con k de kagadas, porque vivo mandándomelas ⬇️mas makeups en mi ig⬇️
     location: "Argentina"
-    followers: 59200
-    engagement: 1897
-    commentsToLikes: 0.011433
+    followers: 110300
+    engagement: 1622
+    commentsToLikes: 0.011609
     id: ckcdzuae1hesm0j23z9mh64j7
     verified: false
-    hashtags: "#foryou, #ahs, #halloween, #makeuptutorial"
+    hashtags: "#tutorial, #fyp, #foryou, #goth"
+  - username: "leofurio"
+    fullname: >-
+      Leo Furió
+    bio: >-
+      Fotógrafo de Mendoza - Argentina 🇦🇷
+    location: "Argentina"
+    followers: 12200
+    engagement: 1221
+    commentsToLikes: 0.032859
+    id: ck9f1ppzp981w0j782uu75r30
+    verified: false
+    hashtags: "#sesion, #fyp, #photography, #tiktokphoto"
+  - username: "lunimaay"
+    fullname: >-
+      luna may
+    bio: >-
+      (✿◠‿◠) Instagram: @lunimay
+    location: "Argentina"
+    followers: 99000
+    engagement: 881
+    commentsToLikes: 0.014399
+    id: ckceggeqbnqzp0j239ec6v48l
+    verified: false
+    hashtags: "#fyp, #moda, #model, #dangerous"
+  - username: "anita_gasparinii1"
+    fullname: >-
+      anita_gasparinii
+    bio: >-
+      🇦🇷 •Aca pierdo la dignidad, en ig me hago la linda nomas👇🏻•
+    location: "Argentina"
+    followers: 163200
+    engagement: 1805
+    commentsToLikes: 0.008546
+    id: ckavjfzmts4qb0j238rrzcx2v
+    verified: false
+    hashtags: "#trend, #model, #mandalay, #fyp"
   - username: "carmelacastroruiz"
     fullname: >-
       🦋 CARMU 💥
     bio: >-
-      Te comparto todos mis tips 😉 MÁS en Instagram 💕 @carmelacastroruiz
+      te comparto mi universo y todos mis tips 👠🔥 +contenido IG @carmelacastroruiz
     location: "Argentina"
-    followers: 171600
-    engagement: 1423
-    commentsToLikes: 0.008645
+    followers: 346400
+    engagement: 1372
+    commentsToLikes: 0.013899
     id: ckdhq13gv1lgz0j231ubt98sn
     verified: false
-    hashtags: "#desfile, #deco, #model, #modelo"
-  - username: "roseaessthetic"
+    hashtags: "#modeloprofesional, #trip, #fashionweek, #pasarela"
+  - username: "thiago_doldan"
     fullname: >-
-      Ana 💖
+      thiago 🐾
     bio: >-
-      ꒱࿐♡ ˚.*ೃ𝖠𝖾𝗌𝗍𝗁𝖾𝗍𝗂𝖼 𝗏𝗂𝖽𝖾𝗈𝗌 ꒱࿐♡ ˚.*ೃ
+      🇦🇷 ig: thiago_doldan vamos por 70k?
     location: "Argentina"
-    followers: 20500
-    engagement: 1417
-    commentsToLikes: 0.005525
-    id: ckcdu6yejedjb0j23ym50m3mv
+    followers: 61400
+    engagement: 941
+    commentsToLikes: 0.025486
+    id: ckbatbtb6jwrr0j23e93kmn1i
     verified: false
-    hashtags: "#jenner, #foryoupage, #fyp, #barbarapalvin"
+    hashtags: "#foryou, #fyp, #parati, #model"
   - username: "dr.mem8"
     fullname: >-
       DrMemo
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.005655
     id: ckdi8cd64ar8d0j23lwb5kcd3
     verified: false
-    hashtags: "#gym, #bella, #foryou, #parati"
-  - username: "franhen"
+    hashtags: "#amazing, #bikini, #foryou, #coronatime"
+  - username: "aguscontieri"
     fullname: >-
-      ✖️FranHen✖️
+      Agustin Contieri
     bio: >-
-      IG: MrfranHen YouTube: FranHen
+      contieriagustin@gmail.com 📨 🇦🇷 YouTube ⬇️🤗
     location: "Argentina"
-    followers: 14600
-    engagement: 2195
-    commentsToLikes: 0.023107
-    id: ckc7us57aykd10j23lppf7cof
+    followers: 230100
+    engagement: 1486
+    commentsToLikes: 0.054093
+    id: ckcvhj66kubd20j23e025d7zu
     verified: false
-    hashtags: "#dancecover, #parati, #cuarentena, #argentina"
+    hashtags: "#fy, #viral, #parati, #foryou"
+  - username: "blue._2"
+    fullname: >-
+      Sugabú
+    bio: >-
+      🌈📽ARGENTINA✌🏼🇦🇷 / 👸SDC / MULTIFANDOM❤ / 33.4K🥺❤ / Spam de Likes = BLOQUEO
+    location: "Argentina"
+    followers: 33500
+    engagement: 2328
+    commentsToLikes: 0.015038
+    id: ckdst5zftpfjq0j2346wn119j
+    verified: false
+    hashtags: "#fypage, #funny, #shipp, #skz"
   - username: "mica.moon"
     fullname: >-
       micaa 💓
     bio: >-
       
     location: "Argentina"
-    followers: 23000
-    engagement: 2441
-    commentsToLikes: 0.013474
+    followers: 22400
+    engagement: 2140
+    commentsToLikes: 0.014584
     id: ckcux7m9olyef0j236ssm6aq9
     verified: false
-    hashtags: "#blacklivesmatter, #parati, #lgbt, #jenner"
-  - username: "aixnah.queen"
-    fullname: >-
-      Aixa Nahir
-    bio: >-
-      Salta-Argentina🇦🇷 SEGUIME PERRI😊❣
-    location: "Argentina"
-    followers: 3433
-    engagement: 1427
-    commentsToLikes: 0.033280
-    id: ckd6yxyg2xeyo0j23wx6mwlv0
-    verified: false
-    hashtags: "#quedatencasa, #parati, #dance, #quedateencasa"
-  - username: "gabrielboetto"
-    fullname: >-
-      gabrielboetto
-    bio: >-
-      Seguime en instagram👉 @gabrielboetto
-    location: "Argentina"
-    followers: 13500
-    engagement: 1226
-    commentsToLikes: 0.075004
-    id: ckbeq8jaw7s910j23ltxsdbv3
-    verified: false
-    hashtags: "#argentina, #comedia, #lol, #friki"
+    hashtags: "#foryou, #fyp, #lgbt, #parati"
 ---

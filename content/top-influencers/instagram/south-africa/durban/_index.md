@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Durban in 2023
+title: Top 10 Instagram Influencers In Durban In 2023
 description: >-
-  Find top Instagram influencers in Durban in 2023. Most popular hashtags: #durban #throwback #southafrica.
+  Find top Instagram influencers in Durban in 2023. Most popular hashtags: #durbansouthafrica #durban #southafricanfashion.
 platform: Instagram
-hits: 60
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 60 Instagram influencers like this in Durban, South Africa for you to work with.
+hits: 35
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 35 Instagram influencers like this in Durban, South Africa for you to contact.
 profiles:
   - username: "txshriq"
     fullname: >-
       tashriq 🧿
     bio: >-
-      he/him fashion student 18 | durban, south africa
+      he/him fashion student 18 | durban, south africa dm/email for promos/collabs
     location: "South Africa"
-    followers: 5151
-    engagement: 2919
-    commentsToLikes: 0.199956
+    followers: 7242
+    engagement: 3287
+    commentsToLikes: 0.201601
     id: ckap8rm6spkdg0i78v6ljb65s
     verified: false
-    hashtags: "#quarantine, #lockdown, #valentinesday, #superbman"
+    hashtags: "#lockdown, #18, #diwali2020, #explore"
   - username: "itszaraleahsmith"
     fullname: >-
-      ℤ𝕒𝕣𝕒-𝕃𝕖𝕒𝕙 𝕤𝕞𝕚𝕥𝕙 🌵
+      𝐙 𝐀 𝐑 𝐀  🦋⚡️🖤
     bio: >-
-      Durban. Model , Dj & producer 🎧🎹 DM for collabs 🐚 22.7K on tiktok ⬇️
+      • Durban / SA 📍 • Faith or fear ✞ • BTS of BTZ > @zar_finsta_ ↳ tiktok acc ↴
     location: "South Africa"
-    followers: 8360
-    engagement: 1190
-    commentsToLikes: 0.062930
+    followers: 8405
+    engagement: 1076
+    commentsToLikes: 0.065974
     id: ckap01eimoaho0i784gn2nybn
     verified: false
+    hashtags: "#nevertoolate, #support, #victimofrapeandsexualabuse"
+  - username: "yaleofficial_"
+    fullname: >-
+      Y Δ L E
+    bio: >-
+      🎧 Club & Festival DJ 🎹 Electronic Music Producer 🎉 Owner @deepstatepro 📍 Durban, South Africa ✖️ ‘Star Sign’ available to stream/buy 👇🏻
+    location: "South Africa"
+    followers: 2573
+    engagement: 1109
+    commentsToLikes: 0.095246
+    id: ckf5mazsvt0dy0j23xlzias79
+    verified: false
     hashtags: ""
+  - username: "treven_moodley"
+    fullname: >-
+      Your indian Boy 🏄🏽‍♂️  Durban
+    bio: >-
+      I am cool but global warming made me HOT 🥵 -Architect 🏄🏽‍♂️ Durban | Cape Town 📩 tmoodley103@gmail.com
+    location: "South Africa"
+    followers: 18800
+    engagement: 319
+    commentsToLikes: 0.035679
+    id: ck6u0k2klg5gz0j7150u2jdzy
+    verified: false
+    hashtags: "#durban, #umhlangarocks, #durbansouthafrica, #symphonyoftheseas"
   - username: "tanika_hoffman"
     fullname: >-
       Tanika Hoffman
     bio: >-
       South African Surfer 💕 A day in Durban x @billabongwomens 🌊👇🏽
     location: "South Africa"
-    followers: 48393
-    engagement: 509
-    commentsToLikes: 0.010543
+    followers: 47620
+    engagement: 433
+    commentsToLikes: 0.010277
     id: ck0tvyzyfdelg0i19ck16i9fj
     verified: true
     hashtags: ""
-  - username: "treven_moodley"
+  - username: "_lee_who_"
     fullname: >-
-      Your indian Boy 🏄🏽‍♂️  Durban
+      Leeaquadth Khan
     bio: >-
-      I am cool but global warming made me HOT 🥵 Architect 🏄🏽‍♂️ Durban | Cape Town 📩 tmoodley103@gmail.com
+      🏎Shell & BP(SA) 💿Lee Who (DJ) 👁 The Eye Prod. ⚔The Secret Groomers Beard oil 🎙Durban2.0 🗣Social Media Marketing 🎥 Videographer ___ 📩 DM for bookings
     location: "South Africa"
-    followers: 18083
-    engagement: 249
-    commentsToLikes: 0.034706
-    id: ck6u0k2klg5gz0j7150u2jdzy
+    followers: 18278
+    engagement: 410
+    commentsToLikes: 0.049695
+    id: ck15t91rmgxct0i19mxpt1jxw
     verified: false
-    hashtags: "#oysterbox, #capetownsouthafrica, #ethekwini, #umhlanga"
-  - username: "amandajingela"
+    hashtags: "#durbanphotographer, #beardofinstagram, #durbansouthafrica, #cityofdurban"
+  - username: "innographer"
     fullname: >-
-      Belinda
+      Innographer
     bio: >-
-      📍Durban | 🎓Environmentalist | Beauty Enthusiast | Brand Influencer |
+      Fashion / Events / Weddings/ Commercial Photographer 📷 Bookings : Innographer@gmail.com Personal Account :@nkanyisokhumalo_ 📍Durban, 🇿🇦
     location: "South Africa"
-    followers: 176808
-    engagement: 178
-    commentsToLikes: 0.011771
-    id: ck14ik1lgfst40i19ze5nyz1l
+    followers: 22818
+    engagement: 248
+    commentsToLikes: 0.023584
+    id: ck5zu2r2e1km00i14450k4dm8
     verified: false
-    hashtags: "#justineisproyou, #justinetissueoil, #sotd, #lockdownwithdt"
-  - username: "hurricane.liya"
+    hashtags: "#blackwomen, #potrait, #culture, #bantuknot"
+  - username: "shaaista_kathree"
     fullname: >-
-      𝕷𝖎𝖞𝖆 🐉
+      Shaa'ista Kathree
     bio: >-
-      🇿🇦🇮🇳 19 𝐨𝐩𝐫𝐚𝐡 𝐰𝐢𝐧𝐟𝐫𝐞𝐲 𝐥𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐚𝐜𝐚𝐝𝐞𝐦𝐲 𝐟𝐨𝐫 𝐠𝐢𝐫𝐥𝐬 ‘𝟏𝟗 👩🏽‍🎓⁣⁣ 𝓾𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂 𝓸𝓯 𝓹𝓻𝓮𝓽𝓸𝓻𝓲𝓪 👩🏽‍💻 📍durban / pretoria
+      • Kale munching modest dresser • Inspiring and being inspired • Gateway Ambassador ‘19/‘20 • 💍 @pupu15 , 👦🏻👧🏻🐕🦛 • Durban, South Africa
     location: "South Africa"
-    followers: 16800
-    engagement: 2063
-    commentsToLikes: 0.057272
-    id: ckaowots49sav0i78bl3h4vef
+    followers: 9576
+    engagement: 451
+    commentsToLikes: 0.032706
+    id: ck136ii0q6ncj0i19hotk0q93
     verified: false
-    hashtags: ""
-  - username: "ofentse.kgomo"
+    hashtags: "#futurelifebeautifood, #ad, #mygateway"
+  - username: "the_foodpassionista"
     fullname: >-
-      
+      нαѕєєηα
     bio: >-
-      💫ENJOY YOURSELF💫 🇿🇦Durban🇿🇦 02’
+      A glimpse of what is served on MY TABLE.. Simple, Easy & Everyday Meals Welcome to MY KITCHEN.. Durban, South Africa 🇿🇦
     location: "South Africa"
-    followers: 3041
-    engagement: 3238
-    commentsToLikes: 0.091372
-    id: ckf5ouii63wba0j23oaf9ulpg
+    followers: 33194
+    engagement: 175
+    commentsToLikes: 0.029729
+    id: ck0w5b5782sf20i19qci0jlqt
     verified: false
-    hashtags: "#redblackwhite"
-  - username: "daveyvanzyl"
+    hashtags: "#buzzfeast, #instaeats, #foodblogfeed, #photography"
+  - username: "nelisiwe_faith_sibiya"
     fullname: >-
-      〰Davey van Zyl〰
+      Nelisiwe Sibiya
     bio: >-
-      Surf // Durban // South Africa •
+      Dr Mbali Mthethwa on @durbangen_etv 🎬 Cultural Advocate🎤| iBhinca 👑| Maskandi 🇿🇦| Musician🎶 Musical Theater Graduate👩🏽‍🎓 The Voice behind Lockdown 📺
     location: "South Africa"
-    followers: 8768
-    engagement: 1247
-    commentsToLikes: 0.055327
-    id: ck5q5hdeesvsy0i111hdrz2ei
-    verified: false
-    hashtags: ""
-  - username: "littlejaneflorals"
-    fullname: >-
-      Amy-Jane (Little Jane)
-    bio: >-
-      Watercolour Designs & Florals🌷 Commissions CLOSED; DM for a future booking🌼 Prints available on Etsy🔻 Durban, South Africa✨
-    location: "South Africa"
-    followers: 10374
-    engagement: 405
-    commentsToLikes: 0.081720
-    id: ck8t7a3ldg32v0j789uibk8cf
-    verified: false
-    hashtags: "#pets, #arroftheday, #inktoberdaylove, #womensmonth"
-  - username: "the_9_tiny_gs"
-    fullname: >-
-      9tinygs|Daschund  Family 🐾🌏
-    bio: >-
-      Join our crazy weenie fam😜 📍 Durban, South Africa 🇿🇦 🌭@beangoods - TINYGS10 👾@geeksterpets - 9TINYGS ⬇️Links to other socials and pages below
-    location: "South Africa"
-    followers: 12142
-    engagement: 292
-    commentsToLikes: 0.092146
-    id: ckaortx6ioqdn0i78g6xls8qc
-    verified: false
-    hashtags: "#weeniedog, #furendly, #lovedachshund, #starwarsdog"
+    followers: 1036999
+    engagement: 258
+    commentsToLikes: 0.020419
+    id: ck8syix6akye60j7880vawr81
+    verified: true
+    hashtags: "#durbangen, #nelisiwesibiya, #ndlunkulu, #african"
 ---

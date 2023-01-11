@@ -1,48 +1,48 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Konya in 2023
+title: Top 10 Beauty Instagram Influencers In Konya In 2023
 description: >-
-  Find top beauty Instagram influencers in Konya in 2023. Most popular hashtags: #instagram #istanbul #instagood #travel.
+  Find top beauty Instagram influencers in Konya in 2023. Most popular hashtags: #fashion #instalike #travel #beauty.
 platform: Instagram
-hits: 10
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 10 Instagram influencers like this in Konya, Turkey for you to connect with.
+hits: 13
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 13 Instagram influencers like this in Konya, Turkey for you to work with.
 profiles:
-  - username: "cokdeliminikaile"
+  - username: "mimarca_makyaj"
     fullname: >-
-      Ali Elif Köylü
+      Işıl
     bio: >-
-      🦄 Veteriner Hekim 🌈 Özel Eğitim Öğretmeni 📍 KONYA - HATAY 🎈 elifbahcekoylu@gmail.com ~ Reklam ve işbirliği icin DM ~
+      - 𝙱 𝚕 𝚘 𝚐 𝚐 𝚎 𝚛 / 𝙻 𝚒 𝚏 𝚎 𝚂 𝚝 𝚢 𝚕 𝚎 💄👗 - 𝙰 𝚛 𝚌 𝚑 𝚒 𝚝 𝚎 𝚌 𝚝 📐 𝗣 𝗿 / 𝗥 𝗲 𝗸 𝗹 𝗮 𝗺 : 𝚖𝚒𝚖𝚊𝚛𝚗𝚐𝚣𝚗𝚍𝚎𝚗𝚖𝚊𝚔𝚢𝚊𝚓@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖/𝙳𝙼
     location: "Turkey"
-    followers: 13706
-    engagement: 875
-    commentsToLikes: 0.041588
-    id: ckaowe5048ja80i78k8422dvv
+    followers: 26989
+    engagement: 205
+    commentsToLikes: 0.021184
+    id: ck8tcea3cz6d50j78s6b1tek5
     verified: false
-    hashtags: "#instaturkey, #mybaby, #baby, #annesibebisi"
-  - username: "xphalitxp"
+    hashtags: "#avontu, #makyaj, #avonkatalog, #avon"
+  - username: "iplerin_gunlugu"
     fullname: >-
-      Temizkan_halidd
+      Ayşe Afşar
     bio: >-
-      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥İŞ BİRLİĞİ İÇİN DM ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
+      Konya🏡 Sipariş ve bilgi için Dm 📌 Reklam ve iş birliği için DM 💌 Kapıda ödeme yok ❌ Ödeme havale/eft Kargo alıcıya ait
     location: "Turkey"
-    followers: 10140
-    engagement: 406
-    commentsToLikes: 0.098382
-    id: ckapb2imgybv80i789vnokj18
+    followers: 30652
+    engagement: 468
+    commentsToLikes: 0.225630
+    id: ckf5o9kbf1fw30j23ni5wf00j
     verified: false
-    hashtags: "#dog, #kids, #instalike, #bestoftheday"
+    hashtags: "#kanvas, #knitting, #handmade, #suplamodelleri"
   - username: "dszgn"
     fullname: >-
       Deniz SEZGİN
     bio: >-
       🏕 | Kendine has numunelik biri 🌎 |👣 🚙 🥗 |founder of @gezegendiyeti 📸 |Gezi fotoğraflarınızı etiketlemeyi unutmayın 👉🏻@dszgn 📥deniz1sezgin@gmail.com
     location: "Turkey"
-    followers: 7455
-    engagement: 1091
-    commentsToLikes: 0.121481
+    followers: 7673
+    engagement: 1059
+    commentsToLikes: 0.121106
     id: ck9hbt3usibwo0j78r1etvy9n
     verified: false
-    hashtags: "#yalova, #izmit, #seyahat, #influencers"
+    hashtags: "#turkey, #friends, #traveleurope, #rize"
   - username: "_ozi_can_"
     fullname: >-
       Ozi Can  📸Fotoğraf Sayfası
@@ -54,31 +54,55 @@ profiles:
     commentsToLikes: 0.149318
     id: ck8t82dpfiv0m0j78n6i7c3tr
     verified: false
-    hashtags: "#hayateves, #vizorturkbest, #flower, #deklans"
-  - username: "ozgeeeunal"
+    hashtags: "#flowerstagram, #fotog, #siir, #foto"
+  - username: "gezengec_anne"
     fullname: >-
-      Özge Ünal ♥
+      Pınar  💎
     bio: >-
-      26🎂 ANKARA📍 Hacettepe Üniversitesi Tıp Fakültesi Hastanesi / Araştırma Görevlisi 🏨 💉 PR 📨: unalozge94@gmail.com
+      ☀️ ‘Full time mother Part time traveller’🌺 📥 Pr & İletişim : Dm & Mail 📍 Antalya Ankaralı 📌 #antalya #antalyablogger #travel #blogger
     location: "Turkey"
-    followers: 12324
-    engagement: 967
-    commentsToLikes: 0.004211
-    id: ck13a3ke0ogfy0i19fo5jidml
+    followers: 72087
+    engagement: 157
+    commentsToLikes: 0.263305
+    id: ckap2tf8p08rh0i78zn9e1hk3
     verified: false
-    hashtags: "#ankara, #instafollow, #aniyakala, #like4like"
+    hashtags: "#mylove, #antalyablogger, #kas, #ciltbak"
+  - username: "xphalitxp"
+    fullname: >-
+      Temizkan_halidd
+    bio: >-
+      ♥ GÜMÜŞHANE ÜNİVERSİTESİ ♥ PROFİLİME HOŞ GELDİN / ♥ HATAY'IN EFSANESİ ♥ HATAY/ANTAKYA ♥️
+    location: "Turkey"
+    followers: 10669
+    engagement: 384
+    commentsToLikes: 0.080603
+    id: ckapb2imgybv80i789vnokj18
+    verified: false
+    hashtags: "#healthyfood, #vscocam, #foodporn, #fit"
   - username: "1uqba_"
     fullname: >-
-      📍Bremen
+      Bremen📍
     bio: >-
-      Hiçbir zaman çıktığın kapıyı hızlı çarpma. Geri dönmek isteyebilirsin. 🍂
+      Sizin hasta olduklarinizi, biz taburcu ettik.. 03/42🇹🇷
     location: "Turkey"
-    followers: 14391
-    engagement: 1067
-    commentsToLikes: 0.206184
+    followers: 14044
+    engagement: 1018
+    commentsToLikes: 0.175696
     id: ckap6m237gg860i78199nj2va
     verified: false
-    hashtags: "#turkishgirl, #likeforlikes, #istanbul, #instapic"
+    hashtags: "#quarantine, #fashion, #likesforlike, #fashioninspo"
+  - username: "furkankumkaya"
+    fullname: >-
+      Furkan Kumkaya 🌎 Traveller
+    bio: >-
+      Nasıl Tak Diye Buradayım👇 📚Kitabımdan alıp Güney Amerika hayalime destek olmak için Dm👈🏿 🎥YouTube
+    location: "Turkey"
+    followers: 17316
+    engagement: 1671
+    commentsToLikes: 0.216221
+    id: ck6uaeene336b0j71v4u2aw24
+    verified: false
+    hashtags: "#antalya, #outdoor, #do, #kampyeri"
   - username: "alyagram_2017"
     fullname: >-
       Alya' nın dünyası
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.025893
     id: ckaovdxx146q40i78j8ailxye
     verified: false
-    hashtags: "#bhfyp, #beautiful, #photo, #flowers"
-  - username: "eseseda98"
+    hashtags: "#love, #instagram, #photo, #canon"
+  - username: "songulayhasan"
     fullname: >-
-      Edanur Yıldız 🇹🇷
+      🇸​🇴​🇳​🇬​🇺​̈🇱​🇦​🇾​🇭​🇦​🇸​🇦​🇳​
     bio: >-
-      Kâinattan hâlıkını soran bir seyyah... 🇹🇷 Activist | Volunteer | Student 🌀
+      MARKA VE TANITIM İÇİN DM 💌 #urfa #viranşehir li #aşıret #kizi . . .link tıkla alış verişin tadini çıkarın👎
     location: "Turkey"
-    followers: 22090
-    engagement: 447
-    commentsToLikes: 0.024740
-    id: ck15qo9lz3u200i19eto77yi4
+    followers: 221016
+    engagement: 109
+    commentsToLikes: 0.079962
+    id: ck8t8w9ccm2wg0j783b92exqt
     verified: false
-    hashtags: "#jakarta, #dirgahayurepublikindonesia, #harikaendonezya, #mercusuarwilliamtorrent"
-  - username: "yemelerdeyizcom"
-    fullname: >-
-      Yemelerdeyiz
-    bio: >-
-      👑 Efsane geri döndü 🎥🎥 🥘 Yemek 🧳 Seyahat 🧭 Gezi 🔥🔥 Yaşasın Yemek yemek.
-    location: "Turkey"
-    followers: 155599
-    engagement: 145
-    commentsToLikes: 0.008900
-    id: ck6u9gjq4xfjg0j71z5pdicjy
-    verified: false
-    hashtags: "#bursa, #amazonas, #yemek, #hataymedeniyetlersofrasi"
-  - username: "unescoturkiye"
-    fullname: >-
-      UNESCO Türkiye®️
-    bio: >-
-      Türkiye Kültür ve Dünya Mirası Tanıtma Topluluğu
-    location: "Turkey"
-    followers: 7744
-    engagement: 366
-    commentsToLikes: 0.011651
-    id: ck5bvjgsdjrip0i11yxk8chen
-    verified: false
-    hashtags: "#gu, #bart, #unescot, #unesco"
+    hashtags: "#tbt, #happy, #evlat, #anlaml"
 ---

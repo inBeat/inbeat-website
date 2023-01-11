@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Japan in 2023
+title: Top 10 Fitness TikTok Influencers In Japan In 2023
 description: >-
-  Find top fitness TikTok influencers in Japan in 2023. Most popular hashtags: #fyp #foryoupage #foryou #tiktok.
+  Find top fitness TikTok influencers in Japan in 2023. Most popular hashtags: #fitness #fyp #tiktok.
 platform: TikTok
-hits: 9
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 9 TikTok influencers like this in Japan for you to pitch.
+hits: 11
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in Japan for you to pitch.
 profiles:
   - username: "koshi072323123"
     fullname: >-
@@ -13,106 +13,118 @@ profiles:
     bio: >-
       インスタフォローしてくれるとはねて喜びます😊 koushi_0723_fitness
     location: "Japan"
-    followers: 11700
-    engagement: 223
-    commentsToLikes: 0.054290
+    followers: 11500
+    engagement: 216
+    commentsToLikes: 0.043131
     id: ck9fycnvba56g0j7835mq85qj
     verified: false
     hashtags: "#tiktok, #facemagic, #savagelove, #jasonderulo"
+  - username: "natsuki56612"
+    fullname: >-
+      NATSUKI
+    bio: >-
+      MARVELOUS所属 脳科学ストレッチ開発者🤗 ストレッチを受けたい方はお店に来てね👍 ⬇️⬇️⬇️
+    location: "Japan"
+    followers: 283800
+    engagement: 293
+    commentsToLikes: 0.036278
+    id: ck9f1pt2l98oi0j78gqdzush5
+    verified: true
+    hashtags: "#capcut, #workout, #stretch, #mask"
   - username: "lobonoazoro"
     fullname: >-
       lobonoa
     bio: >-
       #Tipsygoblin here for laughs 18+ please dont spam like
     location: "Japan"
-    followers: 61200
-    engagement: 1694
-    commentsToLikes: 0.052726
+    followers: 63200
+    engagement: 1784
+    commentsToLikes: 0.059690
     id: ckbl26i62z5k50j23nyvatx7t
     verified: false
-    hashtags: "#sparxfam, #lobonoa, #duet, #upgrades"
-  - username: "oddlysatisfying"
+    hashtags: "#fireteamhorizon, #lobonoa, #rvb, #cosplay"
+  - username: "yanpechi92"
     fullname: >-
-      Oddly Satisfying
+      😈やんぺ😈92
     bio: >-
-      Follow us on Twitter, YouTube & Facebook! 💕 📧: contact@oddlysatisfying.club
+      ✨✨✨🥳❤おめでとうございます❤🥳✨✨✨ 🙋‍♂️このプロフィール開いた君は変態です🙋‍♂️ TikTokのギリギリセーフゾーンのエロさで投稿
     location: "Japan"
-    followers: 1000000
-    engagement: 1620
-    commentsToLikes: 0.011594
-    id: ckdtkr2erymc70j23pifj9cbu
-    verified: true
-    hashtags: "#foryoupage, #fyp, #satisfying, #asmr"
-  - username: "yanpechi"
-    fullname: >-
-      😈やんぺち😈
-    bio: >-
-      Tokyo🗼ごく普通の悪魔ですよ😈集え非リア共🙋‍♂️thanks for likes
-    location: "Japan"
-    followers: 21500
-    engagement: 1007
-    commentsToLikes: 0.056595
+    followers: 22000
+    engagement: 903
+    commentsToLikes: 0.074489
     id: ckad7g87i41kn0i78xgvgso2u
     verified: false
-    hashtags: "#jap, #fitnessboys, #hiphop"
+    hashtags: "#fitnessboys, #hiphop, #jap, #vhs"
+  - username: "amymoore_"
+    fullname: >-
+      💜 amymoore 💜
+    bio: >-
+      ♡ Features: 184 ♡ Instagram : amymoore_jp
+    location: "Japan"
+    followers: 964600
+    engagement: 1378
+    commentsToLikes: 0.018083
+    id: ck8kghvc1ijd50j78m5chv07s
+    verified: true
+    hashtags: "#transition, #duetchain, #ogtransitioner, #fitness"
+  - username: "ryuryu12345"
+    fullname: >-
+      りゅー/ Ryu
+    bio: >-
+      Instagram→ryusei_085 Tokyo🇯🇵20歳 膝を怪我しちゃいました🦵
+    location: "Japan"
+    followers: 119700
+    engagement: 589
+    commentsToLikes: 0.059737
+    id: ckbvugcgvt25x0j23tf05kip7
+    verified: false
+    hashtags: "#muscle, #fitnessboys, #japanese, #fyp"
+  - username: "bboynao"
+    fullname: >-
+      🔥NAO🔥
+    bio: >-
+      Dリーガー FULLCASTRAISERZ所属 Breakdance/Tricking/Streetworkout
+    location: "Japan"
+    followers: 40100
+    engagement: 521
+    commentsToLikes: 0.062921
+    id: ckbkkgmutde6b0j235047jsvb
+    verified: false
+    hashtags: "#bboy, #foryourpage, #foryoupage, #acrobatics"
   - username: "shotabsprunger"
     fullname: >-
       Shotaaaa-san
     bio: >-
       Tryna bring more positivity and happiness into the world😇
     location: "Japan"
-    followers: 164100
-    engagement: 2059
-    commentsToLikes: 0.012679
+    followers: 161800
+    engagement: 1973
+    commentsToLikes: 0.013748
     id: ckc7q34d4vn890j23k0gjdqj9
     verified: false
-    hashtags: "#japan, #foryourpage, #livinginjapan, #halfjapanese"
+    hashtags: "#halfjapanese, #livinginjapan, #japan, #fyp"
   - username: "dancer_zin"
     fullname: >-
       ZIN 
     bio: >-
       
     location: "Japan"
-    followers: 3551
-    engagement: 752
-    commentsToLikes: 0.031625
+    followers: 3566
+    engagement: 735
+    commentsToLikes: 0.029846
     id: ck9tu9ntokg730j78ouyn4zfo
     verified: false
-    hashtags: "#kendama, #dance, #ayu, #ken5"
-  - username: "hardware_tool_1"
+    hashtags: "#ayu, #kendama, #dance, #ayu22ndanniversary"
+  - username: "pearls010"
     fullname: >-
-      Hardware Tools
+      Pearly
     bio: >-
-      Daily useful tools～🛠🔨🔧🔩⛏ Updated daily。❤️
+      👇click below link for shopping 👇
     location: "Japan"
-    followers: 61801
-    engagement: 684
-    commentsToLikes: 0.003516
-    id: ck8hjpt3uajvn0j78eepd2z26
-    verified: true
-    hashtags: "#handy, #repair, #satisfying, #tiktok"
-  - username: "rana_mohsin999"
-    fullname: >-
-      Rana Mohsin Riasat
-    bio: >-
-      I always respect people who respect me.. Thanks to Allah for all blessings MA 🤲
-    location: "Japan"
-    followers: 14400
-    engagement: 173
-    commentsToLikes: 0.000000
-    id: ck8s7ctjmoppv0j78fxb7ivjb
+    followers: 18700
+    engagement: 299
+    commentsToLikes: 0.038017
+    id: ckfplzxtf17iq0j23mbz8c0dx
     verified: false
-    hashtags: "#pakistan, #business, #travel, #lc500"
-  - username: "atsukama0504"
-    fullname: >-
-      あつ釜💙
-    bio: >-
-      やかましいオカマだよーって！ 物申したり！化粧品紹介したりよく分からんおかまです！
-    location: "Japan"
-    followers: 38900
-    engagement: 669
-    commentsToLikes: 0.055955
-    id: ckadbpbk3o5sd0i78joemd8iv
-    verified: false
-    hashtags: "#foryoupage, #lgbt, #duet, #foryou"
+    hashtags: "#fashion, #jewelrybusiness, #seafood, #mussel"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters TikTok Influencers in 2023
+title: Top 10 Painters TikTok Influencers In 2023
 description: >-
-  Find top painters TikTok influencers in 2023. Most popular hashtags: #fyp #oilpainting #painting.
+  Find top painters TikTok influencers in 2023. Most popular hashtags: #fyp #painting #arttiktok #art.
 platform: TikTok
-hits: 1484
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 1484 TikTok influencers like this for you to work with.
+hits: 1934
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 1934 TikTok influencers like this for you to collaborate.
 profiles:
-  - username: "bluebeard.the.dad"
+  - username: "ibisprocreatestar"
     fullname: >-
-      Bluebeard the Dad
+      🎨artis🎨
     bio: >-
-      they/them | gray/omni goblin dad, pagan, writer, painter 🏳️‍🌈 🧙‍♂️🤘🍺
-    location: "United States"
-    followers: 83800
-    engagement: 2681
-    commentsToLikes: 0.048429
-    id: ckdtjnsmowylk0j23rdrxtnuk
+      🤍ibis paint x y procreate🤍 😍100k painters😍 🧡cuenta 2: ibisprocreatestar2 🧡
+    location: "Spain"
+    followers: 107200
+    engagement: 1880
+    commentsToLikes: 0.040151
+    id: ckc7e7norne630j23hfzbm4t1
     verified: false
-    hashtags: "#votehimout, #pagan, #alttiktok, #showupshowoff"
-  - username: "vanessahorabuena"
+    hashtags: "#ibispaint, #procreate, #parati, #paratii"
+  - username: "bumbunniii"
     fullname: >-
-      Vanessa Horabuena
+      bum bunniii
     bio: >-
-      Worship Artist & 🇺🇸 Conservative Speed painter VanessaHorabuena.com
+      Painter I’m more active on Twitter & IG (@bumbunniii)
     location: "United States"
-    followers: 148400
-    engagement: 1730
-    commentsToLikes: 0.044654
-    id: ckbknura2i1u30j23kyfmhog4
+    followers: 17000
+    engagement: 1785
+    commentsToLikes: 0.088750
+    id: cka0ynf8nbyeq0i78muopgtjc
     verified: false
-    hashtags: "#artist, #christianart, #jesus, #art"
+    hashtags: "#painter, #zodiacseries, #fantasyart, #tiktokartists"
   - username: "ajalper"
     fullname: >-
       A.J. Alper
     bio: >-
       I’m an Alla Prima Portrait Painter. Commission me
     location: "United States"
-    followers: 10900
-    engagement: 1942
-    commentsToLikes: 0.059150
+    followers: 11000
+    engagement: 1695
+    commentsToLikes: 0.065396
     id: ck7zoz8hjmma80j78y8qws3x7
     verified: false
-    hashtags: "#wip, #allaprimaportrait, #allaprimapainting, #oilportrait"
-  - username: "basicpainter01"
+    hashtags: "#danganronpa, #toko, #anime, #cosplay"
+  - username: "vanessahorabuena"
     fullname: >-
-      ☄️💫R.a.n.d.o.m.💫☄️
+      Vanessa Horabuena
     bio: >-
-      Yeah, I am kinda dead. Just a painter on TikTok She/Her
+      Worship Artist & 🇺🇸 Conservative Speed painter VanessaHorabuena.com
     location: "United States"
-    followers: 13900
-    engagement: 3524
-    commentsToLikes: 0.032360
-    id: ck9euknlee7tn0j78x0tmra2u
+    followers: 144900
+    engagement: 1631
+    commentsToLikes: 0.054187
+    id: ckbknura2i1u30j23kyfmhog4
     verified: false
-    hashtags: "#fyp, #beach, #wolf, #sunset"
-  - username: "ibisprocreatestar"
+    hashtags: "#conservative, #christian, #christianart, #artist"
+  - username: "jjennamakeup"
     fullname: >-
-      🎨artis🎨
+      jjennamakeup 
     bio: >-
-      🤍ibis paint x y procreate🤍 😍90k painters😍 🧡cuenta 2: ibisprocreatestar2 🧡
-    location: "Spain"
-    followers: 92200
-    engagement: 1909
-    commentsToLikes: 0.031701
-    id: ckc7e7norne630j23hfzbm4t1
+      21 Face Painter 20k Goal Backup @jenjenna8 IG: @jjennamakeup
+    location: "United Kingdom"
+    followers: 16200
+    engagement: 3554
+    commentsToLikes: 0.082143
+    id: ckb0ta600iqjq0j23x909u3hh
     verified: false
-    hashtags: "#procreate, #vueltaalcole2020, #ibispaintx, #difuminar"
+    hashtags: "#creator, #learnontiktok, #emojimakeup, #creativemakeup"
+  - username: "melwizeart"
+    fullname: >-
+      𝑀𝑒𝓁𝒲𝒾𝓏𝑒𝒜𝓇𝓉
+    bio: >-
+      Painter of Candy Coated Landscapes & Questionable Pop Art
+    location: "United States"
+    followers: 67600
+    engagement: 2147
+    commentsToLikes: 0.028353
+    id: ck9ve7tcsxw7r0j78quleh388
+    verified: false
+    hashtags: "#paintingart, #fyp, #sailormoon, #paintchipart"
+  - username: "foksynes"
+    fullname: >-
+      Foksynes
+    bio: >-
+      🌙 She/her🌿Oil painter ✨ foksynes.com 🦋 foksynes@studio.com Behind scenes👇
+    location: "Netherlands"
+    followers: 5956
+    engagement: 1942
+    commentsToLikes: 0.041158
+    id: ck80ons2fillg0j78jvpl4q96
+    verified: false
+    hashtags: "#artwip, #fantasyoilpainting, #oilpaintingontiktok, #goldleaf"
   - username: "kristenlynnart"
     fullname: >-
       Kristen  Lynn Art
     bio: >-
-      Los Angeles oil painter Tutorials IGTV YouTube ⬇️ HOLIDAY SALE ⬇️
+      Los Angeles oil painter ✨☁️ Dreamy dreamscapes ☁️✨ ⬇️ Shop & more ⬇️
     location: "United States"
-    followers: 10200
-    engagement: 1772
-    commentsToLikes: 0.051250
+    followers: 14100
+    engagement: 1698
+    commentsToLikes: 0.046729
     id: ckcekqws1u9180j231anphsw7
     verified: false
-    hashtags: "#oilpainting, #artstudio, #paintingtutorial, #cloudpainting"
-  - username: "librarianly"
+    hashtags: "#skypainting, #paintmixing, #oilpaintingsoftiktok, #oilpainter"
+  - username: "basicpainter01"
     fullname: >-
-      sarah
+      ℙ𝕒𝕚𝕟𝕥𝕖𝕣--•☾
     bio: >-
-      Autism Mom. Watercolor painter. Twitch Streamer. Nerd
+      Hopefully I will be more active soon. Just a painter on TikTok She/Her
     location: "United States"
-    followers: 19300
-    engagement: 1131
-    commentsToLikes: 0.064557
-    id: ck9r4i3tbv3v80j7814ctmrji
+    followers: 13700
+    engagement: 3449
+    commentsToLikes: 0.029672
+    id: ck9euknlee7tn0j78x0tmra2u
     verified: false
-    hashtags: "#watercolor, #autism, #moxirollerskates, #autismawareness"
-  - username: "schmeemee"
+    hashtags: "#fyp, #painting, #tutorial, #sunset"
+  - username: "nicolas.abtan"
     fullname: >-
-      Eli
+      Nicolas Abtan
     bio: >-
-      Eli. 23. Trans. Bi. Psych major. Barista. Animal lover. Painter. INFP. Andi💙🔒
-    location: "United States"
-    followers: 331500
-    engagement: 1491
-    commentsToLikes: 0.025252
-    id: ckae7xdtkj5br0i789lo4k6u1
+      19 year old acrylic painter from Toronto 🇨🇦 Trying to inspire through art
+    location: "Canada"
+    followers: 18300
+    engagement: 1480
+    commentsToLikes: 0.049917
+    id: ckdc0mvdmfejp0j233r86djcf
     verified: false
-    hashtags: "#timewarpscan, #transphobia, #amongus, #transguys"
-  - username: "nenado_paniki"
-    fullname: >-
-      Гульзия
-    bio: >-
-      Painter from KZ🇰🇿 Instagram : kartinakz Цель : 10к😱🎉
-    location: "Kazakhstan"
-    followers: 9475
-    engagement: 1425
-    commentsToLikes: 0.056929
-    id: ckbf9vnu415st0j233f5y23q6
-    verified: false
-    hashtags: "#art, #myartwork, #pencildrawing, #portrait"
-  - username: "mamacharmusic"
-    fullname: >-
-      mamacharmusic
-    bio: >-
-      🎤 Singer Rebel Records PH & sometimes a painter 🎨 Instagram/funimeart002
-    location: "United States"
-    followers: 9304
-    engagement: 1701
-    commentsToLikes: 0.034873
-    id: ckajb49xkm0g20i78bmbs910x
-    verified: false
-    hashtags: "#anime, #funimeartgu, #weeb, #guam"
+    hashtags: "#art, #satisfying, #bye2020, #christmas2020"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Basketball Players Instagram Influencers in 2023
+title: Top 10 Basketball Players Instagram Influencers In 2023
 description: >-
-  Find top basketball players Instagram influencers in 2023. Most popular hashtags: #basketball #repost #bball.
+  Find top basketball players Instagram influencers in 2023. Most popular hashtags: #honeymoon #shooting #15yearold.
 platform: Instagram
-hits: 521
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 521 Instagram influencers like this for you to work with.
+hits: 487
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 487 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "notfurkan"
-    fullname: >-
-      𝔽𝕦𝕣𝕜𝕒𝕟 𝕌𝕤𝕥𝕦𝕟𝕤𝕠𝕪
-    bio: >-
-      17 Leicester📍 Basketball player 🇹🇷 🇬🇧
-    location: "United Kingdom"
-    followers: 3733
-    engagement: 2743
-    commentsToLikes: 0.105564
-    id: ckapc33ct2a330i78zwr1pyiw
-    verified: false
-    hashtags: "#mugshotchallenge, #gossipgang"
   - username: "otaldo_daniel"
     fullname: >-
       Daniel costa
     bio: >-
       021 ... Veja os storyes ❤✊🏾 basketball player 🏀 Physical education student 💪😎 40 graus models Tt: Otaldo_daniel
     location: "Brazil"
-    followers: 21690
-    engagement: 773
-    commentsToLikes: 0.089139
+    followers: 21578
+    engagement: 733
+    commentsToLikes: 0.091851
     id: ck5qd1fsrtczw0i11mzokl4qs
     verified: false
-    hashtags: "#dontrushchallenge, #24anos"
+    hashtags: "#24anos"
+  - username: "notfurkan"
+    fullname: >-
+      𝔽𝕦𝕣𝕜𝕒𝕟
+    bio: >-
+      17 Leicester📍 Basketball player 🇹🇷 🇬🇧 Stay postive test negative
+    location: "United Kingdom"
+    followers: 4750
+    engagement: 2674
+    commentsToLikes: 0.086503
+    id: ckapc33ct2a330i78zwr1pyiw
+    verified: false
+    hashtags: "#mugshotchallenge, #gossipgang"
   - username: "sertacsanli"
     fullname: >-
       Sertaç Şanlı
     bio: >-
       Basketball Player / @anadoluefessk Business and communication: @sagatise
     location: ""
-    followers: 10669
-    engagement: 1379
-    commentsToLikes: 0.058691
+    followers: 10464
+    engagement: 1296
+    commentsToLikes: 0.049263
     id: ck5zmcuxlmc6g0i148id7d7ej
     verified: true
-    hashtags: "#kobebryant, #socialdistance, #benimyerimburasi, #benimyerimburas"
+    hashtags: "#benimyerimburasi, #23nisan, #customshoes, #benimyerimburas"
   - username: "tcwaldo"
     fullname: >-
       Corey Walden
     bio: >-
-      📍Florida 🏀Professional Basketball Player🇷🇸 ☝🏾John 3:16 😇R.I.P Grandma
+      📍Florida 🏀Professional Basketball Player🇷🇸 ☝🏾John 3:16 😇R.I.P Grandma, R.I.P Uncle B
     location: ""
-    followers: 16007
-    engagement: 3851
-    commentsToLikes: 0.053313
+    followers: 17281
+    engagement: 3827
+    commentsToLikes: 0.042338
     id: ck5bye9x5ozgh0i11gezxi9ed
     verified: true
     hashtags: "#top8, #blackouttuesday"
-  - username: "rob_lowery8"
-    fullname: >-
-      Rob Lowery
-    bio: >-
-      Professional basketball player for BC Tsmoki-Minsk 🇧🇾
-    location: "Canada"
-    followers: 8451
-    engagement: 1099
-    commentsToLikes: 0.081713
-    id: ck5qel5xu10hu0i11chh4qjh1
-    verified: false
-    hashtags: "#magicyear, #10, #tbt"
-  - username: "194_jw"
-    fullname: >-
-      오정헌(吴定轩)
-    bio: >-
-      기술자 (Engineer)/ 농구 선수 (Basketball player) 🏀 194 cm🕴 Tik-Tok: 194_jw
-    location: ""
-    followers: 359418
-    engagement: 815
-    commentsToLikes: 0.022319
-    id: ck0vyr8655e9q0i19hxxb0zrx
-    verified: false
-    hashtags: ""
   - username: "dimitricastro"
     fullname: >-
       Dimitri
     bio: >-
       Brazilian Basketball Player Sociedade Thalia Combo Guard 1.80 m / 5'11 ft 61 kg / 134 lbs 15 y / 10th grade Paraná / Curitiba CLASS OF 2023
     location: "Brazil"
-    followers: 2718
-    engagement: 2509
-    commentsToLikes: 0.135792
+    followers: 2581
+    engagement: 2662
+    commentsToLikes: 0.131045
     id: ckap77i13iyem0i787kep0j6k
     verified: false
     hashtags: ""
-  - username: "penkaaguirre"
+  - username: "194_jw"
     fullname: >-
-      Nicolas Penka Aguirre
+      오정헌(吴定轩)
     bio: >-
-      🏀 Jugador profesional de basquet de San Lorenzo de Almagro. Professional Basketball player for San Lorenzo de Almagro
-    location: "Spain"
-    followers: 26510
-    engagement: 798
-    commentsToLikes: 0.025396
-    id: ck6tlq8ap6fve0j71d6o5lpnb
-    verified: true
-    hashtags: "#regresamosconma, #112, #desafi, #calidadesahorro"
-  - username: "kamilla_cardoso"
-    fullname: >-
-      Kamilla Cardoso
-    bio: >-
-      🇧🇷 ✈️ 🇺🇸 SYRACUSE WBB COMMIT 🍊Basketball player @hhcaladyhawks ⛹️‍♀️
-    location: "United States"
-    followers: 5713
-    engagement: 1752
-    commentsToLikes: 0.033818
-    id: ck5q743gdzwzn0i110w92zpom
+      전기 엔지니어 (Electrical Engineer) 농구 선수 (Basketball player) 🏀 194 cm🕴 Tik-Tok: 194_jw
+    location: ""
+    followers: 437753
+    engagement: 719
+    commentsToLikes: 0.016758
+    id: ck0vyr8655e9q0i19hxxb0zrx
     verified: false
-    hashtags: "#cusewbb, #notcomitted, #allstargiveaway, #blackouttuesday"
+    hashtags: "#hugoboss, #soju"
+  - username: "belickaitee"
+    fullname: >-
+      Dalia Belickaitė
+    bio: >-
+      •Former Basketball Player🇱🇹🇵🇱 •#TimeoutŽalgiris & @2tv.lt TV host🎤 •Nike ambassador •Apple ambassador •Sports/ Fashion/ Food
+    location: "Philippines"
+    followers: 122043
+    engagement: 961
+    commentsToLikes: 0.002302
+    id: ck14kmsboqaf80i1987s8pggs
+    verified: false
+    hashtags: "#honeymoon, #ladigue, #reklama, #seychelles"
+  - username: "ingridvasconcelos1"
+    fullname: >-
+      Ingrid Vasconcelos
+    bio: >-
+      💪🏼 PERSONAL TRAINER•(CREF 010136-G/PE)• 🏀 #Basketball Player🇧🇷 👙 Fitness Model 🤱🏼 Mom 💍 married ✨ Digital inspirer 🛬 Recife-PE🛫
+    location: "Brazil"
+    followers: 59904
+    engagement: 322
+    commentsToLikes: 0.125968
+    id: ck5zyvbcwalj20i140mc2ksf5
+    verified: false
+    hashtags: "#goldenhou, #redbulltedaasas, #casal, #powercouple"
   - username: "dcash_11"
     fullname: >-
       David Holston
     bio: >-
       🏀 Basketball player for @jdadijonbasket. 🇺🇸 From Pontiac, Michigan. 📲 @hskagency
-    location: "France"
-    followers: 8653
-    engagement: 1399
-    commentsToLikes: 0.025484
+    location: "United States"
+    followers: 11428
+    engagement: 1407
+    commentsToLikes: 0.024524
     id: ck6u8ddttqx2c0j714wcqgup3
     verified: true
-    hashtags: "#blessed, #trustgod, #staydown, #blm"
+    hashtags: "#blessed, #hardwork, #dijon, #thankful"
+  - username: "dinoradja_official"
+    fullname: >-
+      Dino Rađa
+    bio: >-
+      Basketball player. Hall of Fame 2018. ❤️ Kiki and my boys
+    location: "Germany"
+    followers: 15385
+    engagement: 1503
+    commentsToLikes: 0.028849
+    id: ck5c0irnmt7v10i11ia9tlxg9
+    verified: false
+    hashtags: "#nba, #celtics, #greece, #boston"
 ---

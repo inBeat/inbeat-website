@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Berlin in 2023
+title: Top 10 Food Instagram Influencers In Berlin In 2023
 description: >-
-  Find top food Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #berlinfood #berlinfoodie #food.
+  Find top food Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #foodporn #foodphotography #vegan.
 platform: Instagram
-hits: 237
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 237 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 154
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 154 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
-  - username: "lila_largo"
-    fullname: >-
-      
-    bio: >-
-      📍030-an der Spree 💫Serendipität ❤️Skincare|Food|Berlin|Creativity 💼Professional Dog Stalker 🩺Post-Covid and migraine fighter 💌lilalipstick@yahoo.com
-    location: "Germany"
-    followers: 14213
-    engagement: 380
-    commentsToLikes: 0.092317
-    id: ckap4yrn39eto0i78jq0gp46c
-    verified: false
-    hashtags: "#berlin, #naturally, #marykaydeutschland, #mithocha"
-  - username: "healthymealsberlin"
-    fullname: >-
-      Healthy Meals Berlin
-    bio: >-
-      Healthy Meals with Calorie Count. Cleaneating / Fitnessfood / Mealplans Healthy Restaurants Berlin Healthy Meals Berlin Healthy Food Berlin
-    location: "Germany"
-    followers: 79211
-    engagement: 303
-    commentsToLikes: 0.017671
-    id: ck0tvwbp3d2kr0i19io5gmwvb
-    verified: false
-    hashtags: ""
-  - username: "foodistisch"
-    fullname: >-
-      Berlin Foodie 🇩🇪🇻🇳
-    bio: >-
-      🍔 Berlin food 💸 6€ WOLT app discount code: FOODISTISCH ©️ Photos by me 🥘My Recipe Blog:
-    location: "Germany"
-    followers: 7311
-    engagement: 530
-    commentsToLikes: 0.205822
-    id: ck5ch7rmgq99x0i11thtdnstq
-    verified: false
-    hashtags: "#calorista, #berlin, #milktea, #berlinfoodie"
-  - username: "foodtasterberlin"
-    fullname: >-
-      FOODTASTER
-    bio: >-
-      Posting only DELICIOUS food! 📍Berlin & around the world 🌍 📸©️Pictures by us 📲 Email for collab. 💻 Social Media, Photography & Content Creation #food
-    location: "Germany"
-    followers: 9553
-    engagement: 438
-    commentsToLikes: 0.254929
-    id: ck5hkxddhj75e0i11tnuilzi6
-    verified: false
-    hashtags: "#asian, #fitnessfood, #berlinfood, #berlinfoodguide"
-  - username: "daniel_fehlow"
-    fullname: >-
-      Daniel Fehlow
-    bio: >-
-      🎥 Schauspieler 📍 Berlin 📧 Kontakt: ben.niemann@danielfehlow.de
-    location: "Germany"
-    followers: 141747
-    engagement: 336
-    commentsToLikes: 0.016648
-    id: ck5zpmky2sxhk0i14i8fzbyd7
-    verified: true
-    hashtags: "#berlin, #gastronomie, #danielfehlow, #herz10"
-  - username: "sarahshithappens"
-    fullname: >-
-      SarahShitHappens
-    bio: >-
-      26 𝐲.𝐨. 𝐀𝐧𝐢𝐦𝐚𝐥 𝐥𝐨𝐯𝐞𝐫 🦊🐣 𝐢𝐧 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐦𝐞 𝐟𝐨𝐫 𝐒𝐡𝐨𝐨𝐭𝐢𝐧𝐠𝐬 𝐨𝐫 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧𝐬📥
-    location: "Germany"
-    followers: 43648
-    engagement: 361
-    commentsToLikes: 0.013786
-    id: ck8tdae5u2js30j785leevarc
-    verified: false
-    hashtags: "#lashes, #girlwithtattoos, #nudelips, #scenegirl"
-  - username: "lisakueppers"
-    fullname: >-
-      Lisa Küppers 👸🏼
-    bio: >-
-      I act, I sing🎭🎤🎥 ⚽️ 📍 Köln ✨ 21 📧 lisa.kueppers@vybebrothers.com . Impressum:
-    location: "Germany"
-    followers: 802084
-    engagement: 414
-    commentsToLikes: 0.004837
-    id: ck15uxkqrozc00i19gas3nois
-    verified: false
-    hashtags: "#oldone, #missit, #throwback, #happy"
   - username: "lars_likes_food"
     fullname: >-
       Lars
     bio: >-
       🔅Dortmund - Germany 🍔 foodblog 🐟 pescetarian; 🧀 vegetarian; 🥬 vegan 💰 non profit - just cooking 👨🏼 a bit of my life . #foodblogger
     location: "Germany"
-    followers: 4307
-    engagement: 763
-    commentsToLikes: 0.126159
+    followers: 4605
+    engagement: 689
+    commentsToLikes: 0.134766
     id: ck0vuyibemq8p0i19il4pqyhr
     verified: false
-    hashtags: "#tomate, #healthyfood, #nudeln, #veggiefood"
-  - username: "gastroberlin"
+    hashtags: "#restaurant, #essen, #hunger, #abnehmen"
+  - username: "foodistisch"
     fullname: >-
-      Food In Berlin
+      Berlin Food Explorer 🇩🇪🇻🇳
     bio: >-
-      🔹Love and hunger rule the world ❗️ 🔸Restaurant reviews in Berlin 🇩🇪 🔹Only personal opinion 💬 📸: DM for Social Media Management & Photography
+      ⫸ #berlinfood • food diary • berlin recs ⫸ 2 x 6€ Wolt: Foodistisch ⫸ cultural appreciation
     location: "Germany"
-    followers: 19470
-    engagement: 246
-    commentsToLikes: 0.136592
-    id: ck55nhghr684v0i11vn4i1p3b
+    followers: 9415
+    engagement: 403
+    commentsToLikes: 0.164204
+    id: ck5ch7rmgq99x0i11thtdnstq
     verified: false
-    hashtags: "#organic, #foodist, #berlinmitte, #foodblogger"
-  - username: "itzeline"
+    hashtags: "#ig, #berlinfood, #berlinrestaurant, #friedrichshain"
+  - username: "daniel_fehlow"
     fullname: >-
-      FASHION | INSPO | LIFESTYLE
+      Daniel Fehlow
     bio: >-
-      ✲ Hi! Denise, 25 | Host, Fernstudentin & Content Creator ⌲ Fashion, Beauty, Food & Motivations -Tipps ◎ Berlin | ✉︎ditzeline@web.de ↡ shop my presets
+      🎬 Schauspieler 🌍 Berlin ☕ Kaffeeliebhaber 📨 ben.niemann@danielfehlow.de Schon unseren eigenen Kaffee probiert? 🔽 Link: Direkt, fair, nachhaltig!
     location: "Germany"
-    followers: 19447
-    engagement: 213
-    commentsToLikes: 0.130299
-    id: ck6tr15byw7ne0j7188pk7jal
+    followers: 138937
+    engagement: 264
+    commentsToLikes: 0.015642
+    id: ck5zpmky2sxhk0i14i8fzbyd7
+    verified: true
+    hashtags: "#jessicaginkel, #werbung, #supportyourlocal, #outdoor"
+  - username: "foodtasterberlin"
+    fullname: >-
+      FOODTASTER
+    bio: >-
+      2 Foodies Posting only delicious food! 📍Berlin &around🌍 📸©️Pictures by us 📲Email for collab 💻Book us for Content Creation, Photography, Social Media
+    location: "Germany"
+    followers: 13203
+    engagement: 378
+    commentsToLikes: 0.255728
+    id: ck5hkxddhj75e0i11tnuilzi6
     verified: false
-    hashtags: "#torismicommunity, #motivationalquotes, #hairsandstyles, #love"
+    hashtags: "#vegan, #foodie, #berlinfoodie, #foodstagram"
+  - username: "mrsflury"
+    fullname: >-
+      D o r i s  F l u r y 🇨🇭
+    bio: >-
+      Gesund Essen & Leben ✨ #eatgoodfood Mama 🍃Ernährungswissenschaftlerin #mrsflury Meine Produkte🌻 @mrsflury_favorites BLOG | YOUTUBE | SHOP & mehr👇🏻
+    location: "Germany"
+    followers: 92976
+    engagement: 265
+    commentsToLikes: 0.080354
+    id: ck13ae21xpxlj0i19a90z746m
+    verified: false
+    hashtags: "#backen, #rezeptideen, #gesund, #xmas"
+  - username: "schlowi"
+    fullname: >-
+      Deine Grinsebacke ☺️
+    bio: >-
+      👑: YouTube: Wer Will Beef (44.000+) 🎥: Foto- & Videograf 📍: Berlin 👦🏻: i’m 20 🥫: Unser NEUES VIDEO! ⤵️
+    location: "Germany"
+    followers: 17894
+    engagement: 451
+    commentsToLikes: 0.034728
+    id: ck13a2kakobdf0i19m7c2b6pc
+    verified: false
+    hashtags: "#colorgrading, #smileeveryday, #biervorvier, #foodgermany"
+  - username: "jennifer_prokopenkova"
+    fullname: >-
+      📍Rostock | Working from 🌎
+    bio: >-
+      Foodlover | Gymlife | Health is wealth 🙏🏼 Frauenpower & Unabhängigkeit Zeit für mehr MUTausbrüche! 💛
+    location: "Germany"
+    followers: 26960
+    engagement: 117
+    commentsToLikes: 0.085475
+    id: ckap38pjt20pi0i789l7zj0m6
+    verified: false
+    hashtags: "#klugek, #veromoda, #rostocker, #pistehamburg"
+  - username: "_m_von_w"
+    fullname: >-
+      m_von_w
+    bio: >-
+      𝐵𝐸𝑅𝐿𝐼𝒩 📍 ɴᴜʀsᴇ ♡ ᴅᴏɢs 🐕 ғᴏᴏd 🍳 ᴛʀᴀᴠᴇʟ 🛫
+    location: "Germany"
+    followers: 14693
+    engagement: 486
+    commentsToLikes: 0.144326
+    id: ckf5tu0pkirrh0j233pff61a0
+    verified: false
+    hashtags: "#foodporn, #love, #berlin, #chocolate"
+  - username: "polly.pommes"
+    fullname: >-
+      P O L L Y - Sport,Running,Food
+    bio: >-
+      📍Hello Berlin Sport | Food | Lifestyle #mommy 🤰🏼 📧 Info@pollypommes.de
+    location: "Germany"
+    followers: 24396
+    engagement: 206
+    commentsToLikes: 0.096092
+    id: ck0tx7smyi57f0i19e9yn6uum
+    verified: false
+    hashtags: "#amsee, #mamaleben, #mamablogger, #naturliebe"
+  - username: "anywayani"
+    fullname: >-
+      Ani | Food | Rezepte
+    bio: >-
+      📍Berlin 🍴Food Fotografie | #anywayani ___________________________
+    location: "Germany"
+    followers: 2348
+    engagement: 956
+    commentsToLikes: 0.316170
+    id: ck5c75o5j6v5n0i11bl2b7bn0
+    verified: false
+    hashtags: "#gesundessen, #barebells, #barebellsde, #backen"
 ---

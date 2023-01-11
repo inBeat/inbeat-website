@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In San Francisco in 2023
+title: Top 10 Makeup TikTok Influencers In San Francisco In 2023
 description: >-
-  Find top makeup TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #makeup #sanfrancisco #foryou.
+  Find top makeup TikTok influencers in San Francisco in 2023. Most popular hashtags: #makeup #fyp #sanfrancisco #foryou.
 platform: TikTok
-hits: 28
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 28 TikTok influencers like this in San Francisco, United States for you to contact.
+hits: 16
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform has 16 TikTok influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "mexicoindigenapodcast"
+  - username: "yogirl_14"
     fullname: >-
-      Mexico Indigena Podcast
+      Annabel 💗.
     bio: >-
-      🔴Nuko Mexico indigena podcast en todas las plataformas musicales y en YOUTUBE ?
+      Just for fun😁
     location: "United States"
-    followers: 3153
-    engagement: 515
-    commentsToLikes: 0.122368
-    id: ckdhppuvj1gin0j23jzqxkn9p
+    followers: 16000
+    engagement: 1407
+    commentsToLikes: 0.056586
+    id: ck80oqc3kj8le0j78ybfid4t2
     verified: false
-    hashtags: "#losangeles, #aztec, #canada, #tenochtitlan"
-  - username: "juliasinch23"
+    hashtags: "#foryourpage, #fyp, #foryoupage, #foryou"
+  - username: "jahnadinh"
     fullname: >-
-      Julia❤️
+      JAHNA DINH
     bio: >-
-      San Francisco, California Professional traveler 👣🧳🦅
+      i like clothes n stuff
     location: "United States"
-    followers: 48900
-    engagement: 816
-    commentsToLikes: 0.057163
-    id: ck8fb1mhj52v40j78lohbfsaq
+    followers: 31700
+    engagement: 1281
+    commentsToLikes: 0.025176
+    id: ck9857ob2rfvd0j7859vsfbn9
     verified: false
-    hashtags: "#travelblogger, #disney, #california, #halloween"
-  - username: "wongatong"
+    hashtags: "#foryou, #diy, #style, #fashion"
+  - username: "stylisto"
     fullname: >-
-      Amanda Wong
+      Kyle Candler
     bio: >-
-      Insta: amanda_wongs 🎃
+      On the road to 20k! Are you entertained? San Jose, CA 🌈 and *gasp* over 35!!!
     location: "United States"
-    followers: 63400
-    engagement: 3298
-    commentsToLikes: 0.031655
-    id: ck9fx8ao957w80j78kn0slr6f
+    followers: 14500
+    engagement: 997
+    commentsToLikes: 0.038497
+    id: ck90t6997s0jg0j78n4zvmx0l
     verified: false
-    hashtags: "#boba, #halloween, #fyp, #sfxmakeup"
-  - username: "lifestylebabe"
+    hashtags: "#fyp, #tiktokover30, #duet, #blackout"
+  - username: "doflamingoslegs"
     fullname: >-
-      m & s
+      Doflamingoslegs
     bio: >-
-      ☆ lifestyle ☆ 💌: lifestylebabe@yahoo.com BLM
+      They/He Engaged💞 STAY SAFE!DON’T BACK DOWN FOR WHAT YOU BELIEVE IN! ✊🏿✊🏾✊🏽
     location: "United States"
-    followers: 154100
-    engagement: 1644
-    commentsToLikes: 0.015016
-    id: ck7zo7n0zikh70j7843v581vp
+    followers: 53500
+    engagement: 1630
+    commentsToLikes: 0.037132
+    id: ckba7pbmu0qpi0j234rzf8tw8
     verified: false
-    hashtags: "#aesthetic, #spaceforcewalk, #foryou, #aesthetics"
-  - username: "ven.ny"
+    hashtags: "#nighttrip, #ooc, #mikan, #crafts"
+  - username: "imhannahcho"
     fullname: >-
-      Venny G
+      hannah
     bio: >-
-      19 y/o ( follow my insta^ ) From LA 🌴
+      ig: imhannahcho ✨🪴🍦
     location: "United States"
-    followers: 7559
-    engagement: 900
-    commentsToLikes: 0.026956
-    id: ck83k2n528u160j782m6ks4w0
+    followers: 83400
+    engagement: 1558
+    commentsToLikes: 0.022579
+    id: ck83ysozvvdhq0j784bxq4ekq
     verified: false
-    hashtags: "#quarantine, #storytime, #food, #fyp"
+    hashtags: "#koreanmakeup, #aesthetic, #makeup, #lipgloss"
+  - username: "mariasgoldenmakeup"
+    fullname: >-
+      mariasgoldenmakeup
+    bio: >-
+      Contact Email: Maria45434m@gmail.com HOUSTON, TX
+    location: "United States"
+    followers: 265400
+    engagement: 1232
+    commentsToLikes: 0.025899
+    id: ck8vwbpxbnyws0j78fqiy90dc
+    verified: false
+    hashtags: "#fyp, #goldenhour, #makeuptutorial, #makeup"
   - username: "shanberries"
     fullname: >-
       Shan Berries
     bio: >-
       Founder of @shadesbyshan cosmetics & The #MamaBerries Nonprofit Foundation! ⠀
     location: "United States"
-    followers: 2427
-    engagement: 483
-    commentsToLikes: 0.045291
+    followers: 2436
+    engagement: 496
+    commentsToLikes: 0.054632
     id: ck9dwochnpuyu0j78kfzjezg9
     verified: false
-    hashtags: "#fyp, #cooking, #foryoupage, #makeup"
-  - username: "aye.jessiee"
-    fullname: >-
-      jessie chen
-    bio: >-
-      SF | NYC 💌 jessiechen2601@gmail.com
-    location: "United States"
-    followers: 29700
-    engagement: 982
-    commentsToLikes: 0.023358
-    id: ckce7rh0fl7d70j233hpksv98
-    verified: false
-    hashtags: "#blackpink, #asian, #ootd, #asianmom"
+    hashtags: "#makeup, #foryou, #fyp, #cooking"
   - username: "ericsin07"
     fullname: >-
       Eric Fuentes
     bio: >-
       Bay Area Drag Content creator. Baby Drag Queen @micheladamix_
     location: "United States"
-    followers: 13800
-    engagement: 601
-    commentsToLikes: 0.007430
+    followers: 13700
+    engagement: 579
+    commentsToLikes: 0.005882
     id: ck9fmcoe9snl50j78ec649oc0
     verified: false
-    hashtags: "#lipsync, #queer, #dragqueensoftiktok, #fyp"
-  - username: "stylisto"
+    hashtags: "#dragqueensoftiktok, #rupaulsdragrace, #makeup, #viral"
+  - username: "melikins.x"
     fullname: >-
-      Kyle Candler
+      Melissa Estrada
     bio: >-
-      On the road 2 10k! Are you entertained? San Jose, CA 🌈 and *gasp* over 35!!!
+      Check out my IG for my photography journey! | 23 yrs young | Bayarea | Dog mom ❤
     location: "United States"
-    followers: 8873
-    engagement: 1215
-    commentsToLikes: 0.037290
-    id: ck90t6997s0jg0j78n4zvmx0l
+    followers: 25700
+    engagement: 1920
+    commentsToLikes: 0.025601
+    id: ckb9mhl4lfscs0j238imcj0x7
     verified: false
-    hashtags: "#gay, #heymrpostman, #blackout, #fyp"
-  - username: "jazmynjw"
+    hashtags: "#dogs, #photography, #meetmypet, #doggy"
+  - username: "canyousignmyyearbook"
     fullname: >-
-      Jazmyn W
+      Kayla Freitas
     bio: >-
-      Comedian - Podcast - Youtube - IG - Vote
+      ❤️ Please join me on inst & Youtube❤️ want to help support our content? ✨👇🏻✨
     location: "United States"
-    followers: 333700
-    engagement: 2249
-    commentsToLikes: 0.042476
-    id: ckcuykisdmf630j23091pe3oh
-    verified: true
-    hashtags: "#influencerjaz, #comedy, #viral, #takis"
+    followers: 124200
+    engagement: 1485
+    commentsToLikes: 0.019627
+    id: ckbqwjn91gp070j23frmv0ccx
+    verified: false
+    hashtags: "#1940s, #morningcheer, #family, #oldyearbooks"
 ---

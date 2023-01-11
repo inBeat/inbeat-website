@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Belgium in 2023
+title: Top 10 Makeup TikTok Influencers In Belgium In 2023
 description: >-
-  Find top makeup TikTok influencers in Belgium in 2023. Most popular hashtags: #makeup #foryou #fyp #pourtoi.
+  Find top makeup TikTok influencers in Belgium in 2023. Most popular hashtags: #makeup #foryou #pourtoi #fyp.
 platform: TikTok
-hits: 53
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 53 TikTok influencers like this in Belgium for you to connect with.
+hits: 46
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 46 TikTok influencers like this in Belgium for you to work with.
 profiles:
-  - username: "macchrii"
+  - username: "elisabruart"
     fullname: >-
-      ✨MACCHRI✨
+      Eli🐸
     bio: >-
-      19 | België Volg mij als je into makeup bent ✨❤️ Contact: maccchri@gmail.com
+      Instagram⤴️ 🇧🇪 simon.gerardvandiest@gmail.com📨 Compte makeup: @elisartist_🦋
     location: "Belgium"
-    followers: 67400
-    engagement: 881
-    commentsToLikes: 0.027272
-    id: ck8ade41d5ibl0j78pchdml9t
-    verified: false
-    hashtags: "#voorjou, #foryou, #belgie, #gayboy"
-  - username: "alissatomme"
-    fullname: >-
-      Alissa Tomme
-    bio: >-
-      Contact : alissatomme@hotmail.com
-    location: "Belgium"
-    followers: 170700
-    engagement: 2120
-    commentsToLikes: 0.046047
-    id: ckba73y81067z0j23bvo7e0no
-    verified: false
-    hashtags: "#fyp, #makeup, #viral, #trend"
-  - username: "kayleemoonkitty"
-    fullname: >-
-      Kaylee
-    bio: >-
-      🇧🇪 1-ste Eredame Miss Vlaams - Brabant 2023 🇧🇪 Kandidate Miss Belgium 2023
-    location: "Belgium"
-    followers: 170900
-    engagement: 2062
-    commentsToLikes: 0.030145
-    id: ck8ade3fu5i6a0j78bvdxks6q
+    followers: 490200
+    engagement: 1646
+    commentsToLikes: 0.015827
+    id: ck9fyk6fvb61y0j78xruuv3d0
     verified: true
-    hashtags: "#makeup, #foryoupage, #trending, #fy"
-  - username: "anouchka_lm"
-    fullname: >-
-      Anouchka
-    bio: >-
-      21y/o ☁️ I do make up 💄 (I am not an artist ;))
-    location: "Belgium"
-    followers: 5769
-    engagement: 1292
-    commentsToLikes: 0.052748
-    id: ck8ae51l09vi60j78z3yizhkp
-    verified: false
-    hashtags: "#dance, #voorjou, #halloween, #makeup"
-  - username: "cathy22107"
-    fullname: >-
-      Cathy / Fallon
-    bio: >-
-      passion : animaux musique théâtre #bonjourjesuistitouan 😁 😂
-    location: "Belgium"
-    followers: 4343
-    engagement: 1634
-    commentsToLikes: 0.036020
-    id: ckbfedqky8alc0j23ujljfu3v
-    verified: false
-    hashtags: "#sad, #pov, #noiretblanc, #anglais"
-  - username: "nikkewit"
-    fullname: >-
-      ❤️Nikkewit❤️
-    bio: >-
-      ❤️disneycosplay❤️ ❤️occosplay❤️ 🥰🥰🥰
-    location: "Belgium"
-    followers: 4322
-    engagement: 1640
-    commentsToLikes: 0.034292
-    id: ck9c6wxc4reyh0j78c36gqsln
-    verified: false
-    hashtags: "#cosplay, #witchcosplay, #halloweencosplay, #oc"
-  - username: "itschayenneee"
-    fullname: >-
-      ✨Chayenne✨
-    bio: >-
-      Ga een kijkje nemen op mijn wishlist! (NIET VERPLICHT)❤️ Adres —> dm
-    location: "Belgium"
-    followers: 34700
-    engagement: 1205
-    commentsToLikes: 0.016338
-    id: ckafuddt69ywk0i78onm1ul1p
-    verified: false
-    hashtags: "#thebluecrew, #omguhaar, #actionhaul, #belgium"
+    hashtags: "#pov, #vampire, #dance, #foryou"
   - username: "niastyy"
     fullname: >-
       Niastyy
     bio: >-
-      🎬 Acting / 🃏 Comédie Belgique 🇧🇪
+      Humour 🎭 / Acting 🎬 / Makeup Artistique 🎨 ▪️Instagram : Niastyy 🇧🇪
     location: "Belgium"
-    followers: 17600
-    engagement: 1077
-    commentsToLikes: 0.053183
+    followers: 21900
+    engagement: 949
+    commentsToLikes: 0.144153
     id: ckc8z7tgqo26q0j23brfum7ti
     verified: false
-    hashtags: "#duo, #halloweenmakeup, #humour, #makeup"
-  - username: "jessycnd"
+    hashtags: "#surgery, #belgium, #acting, #foryoupage"
+  - username: "anouchka_lm"
     fullname: >-
-      Jessy 🔥
+      Anouchka
     bio: >-
-      Jesspy2345 👻 📩Jesscndtiktok@yahoo.com 📩 Jessmodelplussizes 📸insta📸
+      21y/o ☁️ I do make up 💄 (I am not an artist ;)) The Vampire Diaries 🩸
     location: "Belgium"
-    followers: 55100
-    engagement: 851
-    commentsToLikes: 0.022575
-    id: ck9enwk79ld4s0j78p05fiyu7
+    followers: 6049
+    engagement: 1133
+    commentsToLikes: 0.050819
+    id: ck8ae51l09vi60j78z3yizhkp
     verified: false
-    hashtags: "#makeup, #pourtoi, #chubycheeks, #curvy"
+    hashtags: "#makeup, #foryou, #dance, #thevampirediaries"
   - username: "simple.symphony"
     fullname: >-
       Simple Symphony 
     bio: >-
       Ophélie 🦇 ➡️ Instagram : simple.symphony ⬅️
     location: "Belgium"
-    followers: 236700
-    engagement: 1533
-    commentsToLikes: 0.014208
+    followers: 230000
+    engagement: 1492
+    commentsToLikes: 0.014448
     id: ckbqqf9f0ba7w0j23o79zaa4i
     verified: false
-    hashtags: "#hallomeme, #foryou, #pourtoi, #makeup"
+    hashtags: "#pourtoi, #viral, #hallomeme, #halloween"
+  - username: "cathy22107"
+    fullname: >-
+      Cathy / Fallon
+    bio: >-
+      passion : animaux musique théâtre #bonjourjesuistitouan 😁 😂
+    location: "Belgium"
+    followers: 4464
+    engagement: 1670
+    commentsToLikes: 0.022348
+    id: ckbfedqky8alc0j23ujljfu3v
+    verified: false
+    hashtags: "#pov, #triste, #demon, #viral"
+  - username: "venus_mayamia"
+    fullname: >-
+      Venus Maya
+    bio: >-
+      Youtuber 👻@adelinavev @venusmayastyle 🛍 www.venusmayastyle.co
+    location: "Belgium"
+    followers: 2924
+    engagement: 763
+    commentsToLikes: 0.090879
+    id: ckbw2orzqwtmt0j233i3f8kr8
+    verified: false
+    hashtags: "#makeuptipstiktok, #togo, #belgique, #belgiumgirlzzzz"
+  - username: "arazytikmua"
+    fullname: >-
+      Sarah
+    bio: >-
+      Follow me on Instagram for more content 🤍✨
+    location: "Belgium"
+    followers: 36200
+    engagement: 1067
+    commentsToLikes: 0.018649
+    id: ck87u1dbi4o8e0j789y9ttwwy
+    verified: false
+    hashtags: "#makeupartist, #makeuplook, #mua, #foryou"
+  - username: "straffy8"
+    fullname: >-
+      Straffy
+    bio: >-
+      
+    location: "Belgium"
+    followers: 3945
+    engagement: 549
+    commentsToLikes: 0.022497
+    id: cka0w10di0ukn0i789ltq4zsl
+    verified: false
+    hashtags: "#pourtoi, #urbandecay, #4u, #makeup"
+  - username: "europain"
+    fullname: >-
+      stellaaa :)
+    bio: >-
+      20 shrek 2 is my favorite indie film she/her
+    location: "Belgium"
+    followers: 5028
+    engagement: 1857
+    commentsToLikes: 0.047792
+    id: ckb9eniqz2h080j234k275a34
+    verified: false
+    hashtags: "#fy, #fyp, #thoughts, #beauty"
+  - username: "kayleemoonkitty"
+    fullname: >-
+      KayleeMoonKitty🌙
+    bio: >-
+      FOLLOW ME ON INSTAGRAM 🙈 🇧🇪 MISS SOCIAL MEDIA 2021 for Miss Belgium
+    location: "Belgium"
+    followers: 180100
+    engagement: 1589
+    commentsToLikes: 0.082060
+    id: ck8ade3fu5i6a0j78bvdxks6q
+    verified: true
+    hashtags: "#foryou, #foryoupage, #dance, #trending"
 ---

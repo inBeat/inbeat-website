@@ -1,84 +1,108 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Chile in 2023
+title: Top 10 Barbers Instagram Influencers In Chile In 2023
 description: >-
-  Find top barbers Instagram influencers in Chile in 2023. Most popular hashtags: #chile #cuarentena #happy #instagood.
+  Find top barbers Instagram influencers in Chile in 2023. Most popular hashtags: #instagood #barbershop #love #chile.
 platform: Instagram
-hits: 20
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 20 Instagram influencers like this in Chile for you to work with.
+hits: 19
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 19 Instagram influencers like this in Chile for you to contact.
 profiles:
-  - username: "pipematus_cracks"
-    fullname: >-
-      Felipe Matus 🇨🇱
-    bio: >-
-      Fundador de @cracksbarberoficial 💈🇨🇱 Conductor de Barber Cracks 🎥 🔥 Barbero @gatsby_chile ✂️ Amante del fútbol ⚽️ Canal de YouTube ⬇️⬇️
-    location: "Chile"
-    followers: 58558
-    engagement: 285
-    commentsToLikes: 0.076073
-    id: ck5zkfv8xjejp0i14o51b8ubp
-    verified: false
-    hashtags: "#chile, #happybirthday, #cuarentena, #colocolo"
-  - username: "patriota.king.barber"
-    fullname: >-
-      Patriota | Chile 🇨🇱
-    bio: >-
-      •Director of CMP Academy 📝 Sponsored by: @babylisspro_barberology @denmanbrush https://patriotaking.setmore.com
-    location: "Chile"
-    followers: 31147
-    engagement: 67
-    commentsToLikes: 0.033891
-    id: ck5q1yfnkde3z0i11uagedqlw
-    verified: false
-    hashtags: ""
   - username: "hksbarber"
     fullname: >-
-      HKSTRANCAO
+      HKS
     bio: >-
-      “Hay lío” 🏀
+      CEO @fadetrancao
     location: "Chile"
-    followers: 11952
-    engagement: 335
-    commentsToLikes: 0.041036
+    followers: 12164
+    engagement: 314
+    commentsToLikes: 0.039635
     id: ck5zyn1l3a63k0i14pqygjm17
     verified: false
-    hashtags: "#barberia, #trancao, #live, #skinfade"
+    hashtags: "#barbersoul, #barber, #sharpfade, #national"
+  - username: "iaamfab"
+    fullname: >-
+      F A B I A N  A L E J A N D R O
+    bio: >-
+      📍SCL-Chile ♑️ Capricornio 🌍🇨🇱🇩🇪🇮🇹🇻🇦🇦🇹🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇳🇱🇲🇦🇫🇷🇪🇸🇩🇴🇵🇪🇧🇴🇯🇲🇦🇷🇺🇾🇲🇽🇵🇾🇧🇷🇨🇴🇨🇷🇵🇦🇨🇺🇨🇦🇺🇸🇦🇪🇹🇭🇲🇾🇸🇬🇻🇳🇰🇭🇱🇦🇳🇵🇮🇳🇱🇰🇵🇹 Cuenta Secundaria @faabian90 😉
+    location: "Chile"
+    followers: 16786
+    engagement: 1600
+    commentsToLikes: 0.015876
+    id: ckap0wf22s4020i78tvdp37bo
+    verified: false
+    hashtags: "#gaymexico, #gaylatino, #spring, #homematualizado"
   - username: "gonz.avi"
     fullname: >-
-      Gonzalo⚡✨
+      Gonzalo⚡👶🏻✨
     bio: >-
       "Haz como si lo fueras hasta que lo seas" 🍃🐾
     location: "Chile"
-    followers: 2047
-    engagement: 4356
-    commentsToLikes: 0.023470
+    followers: 1921
+    engagement: 4174
+    commentsToLikes: 0.028402
     id: ck9hb9wcmfyut0j78b2wflert
     verified: false
-    hashtags: "#trueno, #red, #calle, #likeforlikes"
-  - username: "pipe.maturanainfante.cf"
+    hashtags: "#darkiel, #flow, #trueno, #likeforlikes"
+  - username: "sergiovisor_ph"
     fullname: >-
-      Felipe Maturana Infante
+      Sergio Carabajal 📸
     bio: >-
-      Atleta 🔥 @reebokchile @samsungchile 🧑‍💻Preparador Físico -📈Asesoría Online 🏋️‍♂️ Crossfit -🤖Kids- ♿️ Adapatative 🥋Taekwondo 1r Dan 📍Stgo-chile🇨🇱
+      Fotógrafo en Damn Hip Hop
     location: "Chile"
-    followers: 19303
-    engagement: 424
-    commentsToLikes: 0.015462
-    id: ck5c4dn4q14pa0i11wv2jec4s
+    followers: 6027
+    engagement: 185
+    commentsToLikes: 0.037859
+    id: ck602xbd8jtu70i14qz3bcmjp
     verified: false
-    hashtags: "#yesreebok, #stgo, #live, #crossfitter"
+    hashtags: "#tattoolife, #artist, #blackmoody, #tata"
   - username: "memo_andres28"
     fullname: >-
-      ᗰᗴᗰO 
+      MEMO 🇨🇱
     bio: >-
-      Chile 🇨🇱 Ed. Física Body Combat 🥊 Pancha-León 🐶 Trainner @o2fitchile #Ambassador @zafa2fiesta @blaxxbox @oasispartycl @selvafestival @damage_party
+      Profesor de Educación Física y salud🏋️‍♀️ Licenciado en Educación📚 Staff @o2fitchile Entrenador @fast_chile Body Combat🥊 ProCycling🚲 Pancha-León🐶
     location: "Chile"
-    followers: 25643
-    engagement: 532
-    commentsToLikes: 0.020018
+    followers: 28230
+    engagement: 414
+    commentsToLikes: 0.027403
     id: ck8tbl5d0w2s60j78te3pfkjk
     verified: false
-    hashtags: "#gayfitness, #motivation, #happy, #gaylove"
+    hashtags: "#gaymen, #beardedgay, #love, #gayman"
+  - username: "dxmp.1621"
+    fullname: >-
+      Xiomara Marty👩🏼‍🦱✨🌸
+    bio: >-
+      •Un día voy a volar dijo el gusano todos se rieron menos las mariposas•🦋 📲DM para publicidad Honduras🇭🇳|📍Dallastx Tik Tok= 180k @martybarber1621 💈
+    location: "Chile"
+    followers: 58336
+    engagement: 1374
+    commentsToLikes: 0.018402
+    id: ckap4jv027p0z0i78i3svouvz
+    verified: false
+    hashtags: "#fyp, #parati, #reelsinstagram, #dallastexas"
+  - username: "r.madrid21"
+    fullname: >-
+      Rodolfo Madrid
+    bio: >-
+      @r.madrid21 Giving my best! Ex Futbolista profesional D.T. Colo-colo (2015-2017), Cobreloa (2017), Rodelindo Roman (2018-2019-2020-2021)
+    location: "Chile"
+    followers: 15528
+    engagement: 401
+    commentsToLikes: 0.017590
+    id: ck55q4ho3c22d0i11yviffbit
+    verified: false
+    hashtags: "#pictureoftheday, #instachile, #colocoloeschile, #thebest"
+  - username: "lyrics_rosuel"
+    fullname: >-
+      REFLEXIONES Y MUSICA😴🎶
+    bio: >-
+      👥|DUEÑO: @rosuel_x17 📤|PIDE TU VIDEO AL DM O VIA WHATSAAP 🙏🏾|GOD BLESS TO ME 🔥|EL MEJOR CONTENIDO 🎥|TE INVITO A SUSCRIBIRTE A MI CANAL⬇️
+    location: "Chile"
+    followers: 40122
+    engagement: 1493
+    commentsToLikes: 0.009214
+    id: ckaotoo1owt6u0i78ql7c6lgi
+    verified: false
+    hashtags: "#urban, #explore, #bryanttmyers, #king"
   - username: "luisitobarber_ofm"
     fullname: >-
       Luisito Barber
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.051370
     id: ck5q8p42v7ad90i111rz7y285
     verified: false
-    hashtags: "#repost, #chile, #mesientobien, #cmnevents"
-  - username: "dr_diegomartin"
+    hashtags: "#darkiel, #chile, #mesientobien, #cmnevents"
+  - username: "aquienchile"
     fullname: >-
-      Diego Martin 🇨🇱
+      AQUI EN CHILE
     bio: >-
-      @amigues.en.cuarentena WEBSERIE
+      PORQUE SEGUIMOS SIENDO LOS MISMOS 😊 ESTAMOS AQUÍ EN CHILE 🇨🇱 ¿NOS UBICAS? Nosotros a Ustedes También ❤ DIVERSIÓN, INFORMACIÓN, Y MUCHO MÁS LGBTIQ+🌈
     location: "Chile"
-    followers: 71944
-    engagement: 481
-    commentsToLikes: 0.016167
-    id: ck15uwju7ounq0i19797hg0q7
+    followers: 110
+    engagement: 213962
+    commentsToLikes: 0.568146
+    id: ck6u9mogpyeqw0j71iqzdviug
     verified: false
-    hashtags: "#dentista, #chile, #dentist, #webserie"
-  - username: "policortez"
-    fullname: >-
-      ✨Poli✨MENTALIDAD │ LOOKS y +
-    bio: >-
-      👊🏻 Mujer │ mamá │ bossmom │ 😷🦷 👩‍👦Ayudo mamis a tener más TIEMPO con sus niños (mientras el mío me lo permite😅🌪) 📥 Envíame DM y te ayudo 👭
-    location: "Chile"
-    followers: 39805
-    engagement: 196
-    commentsToLikes: 0.043068
-    id: ck8t6vpa9eumw0j78dyhfiytz
-    verified: false
-    hashtags: "#consistencia, #ferragamo, #fashion, #tupuedes"
-  - username: "emafunnk"
-    fullname: >-
-      Ｅｍａ👊🏼💥
-    bio: >-
-      ⚡️⚡️ 𝐓𝐄 𝐂𝐔𝐄𝐍𝐓𝐎 𝐋𝐀𝐒 𝐂𝐎𝐒𝐀𝐒 𝐐𝐔𝐄 𝐌𝐄 𝐇𝐔𝐁𝐈𝐄𝐑𝐀 𝐆𝐔𝐒𝐓𝐀𝐃𝐎 𝐒𝐀𝐁𝐄𝐑 𝐀𝐍𝐓𝐄𝐒 𝐒𝐎𝐁𝐑𝐄 𝐄𝐋 𝐅𝐈𝐓 ⚡️⚡️ @groupfitstore 📍|ʟᴀꜱᴇʀᴇɴᴀ👲🏻|ᴅɪᴏꜱᴇꜱʙᴜᴇɴᴏ 🍩|ғʟᴇx 🧑🏻‍💻| ᴛᴇᴄ/ɪɴɢ ᴀᴅᴍ
-    location: "Chile"
-    followers: 59668
-    engagement: 141
-    commentsToLikes: 0.058607
-    id: ckap6i0mbfx7q0i78so9i9yfv
-    verified: false
-    hashtags: "#laserena, #instagood, #sunsets, #felicidad"
+    hashtags: "#love, #gaymiami, #instagay, #gaymexico"
 ---

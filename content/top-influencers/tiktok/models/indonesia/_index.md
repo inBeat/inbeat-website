@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Indonesia in 2023
+title: Top 10 Models TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top models TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #model #fashion #style.
+  Find top models TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #model #foryoupage #duet.
 platform: TikTok
-hits: 23
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform has 23 TikTok influencers like this in Indonesia for you to connect with.
+hits: 15
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 15 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "ss_mhian"
-    fullname: >-
-      Queen_MHIAN 👑
-    bio: >-
-      since 2017 Model 👑 Owner @maskerwajahbymhian ▪️ENDORSE & PP (DM)
-    location: "Indonesia"
-    followers: 1100000
-    engagement: 435
-    commentsToLikes: 0.017380
-    id: ckan570mbdmem0i78lsmdbgpl
-    verified: false
-    hashtags: ""
-  - username: "mathwang.kie"
-    fullname: >-
-      Mathwang Kie
-    bio: >-
-      Fashion Model, Businessman, CEO and Founder - MATHWANG KIE SKINCARE
-    location: "Indonesia"
-    followers: 40900
-    engagement: 421
-    commentsToLikes: 0.035091
-    id: ckail07c0lyx00i78wuwl72p7
-    verified: false
-    hashtags: "#inibeneranlive, #tiktokindonesia, #tiktok, #foryoupage"
   - username: "pmanagement"
     fullname: >-
       P Management
     bio: >-
       Model Management Model avaible for photoshoot, endorse and commercials
     location: "Indonesia"
-    followers: 2918
-    engagement: 366
-    commentsToLikes: 0.025557
+    followers: 7358
+    engagement: 575
+    commentsToLikes: 0.052396
     id: ckd0p4uq4hmoy0j232hpl5lit
     verified: false
-    hashtags: "#fyp, #pmanagement, #newnormalnewyou, #beranda"
+    hashtags: "#pastiawesome, #itsokaytobelebay, #sumpahakanberubah, #temukan2021mu"
+  - username: "ss_mhian"
+    fullname: >-
+      Queen_MHIAN 👑
+    bio: >-
+      since 2017 -PEKANBARU📍 Model 👑 “ARIES + SIREGAR “ 🔥
+    location: "Indonesia"
+    followers: 1200000
+    engagement: 600
+    commentsToLikes: 0.015905
+    id: ckan570mbdmem0i78lsmdbgpl
+    verified: false
+    hashtags: "#bbcream, #nofoundation, #facemist, #facemistglowing"
+  - username: "mathwang.kie"
+    fullname: >-
+      Mathwang Kie
+    bio: >-
+      Fashion Model, Businessman, CEO and Founder - MATHWANG KIE SKINCARE
+    location: "Indonesia"
+    followers: 49500
+    engagement: 492
+    commentsToLikes: 0.036244
+    id: ckail07c0lyx00i78wuwl72p7
+    verified: false
+    hashtags: "#fyp, #foryourpage, #foryoupage, #tiktokindonesia"
   - username: "aditya_iskandar"
     fullname: >-
-      𝐀𝐝𝐢𝐭𝐲𝐚 𝐈𝐬𝐤𝐚𝐧𝐝𝐚𝐫
+      𝐀𝐝𝐢𝐭𝐲𝐚 i𝐬𝐤𝐚𝐧𝐝𝐚𝐫🔹
     bio: >-
-      Di follow yah IG Saya🤗🙏 :@Adityaiskandar_v3 asli:BEKASI TIMUR MENIKAH:icha🥰😘
+      𝐀𝐬𝐥𝐢: 𝓑𝓮𝓽𝓪𝔀𝓲🔹𝘽𝙚𝙠𝙖𝙨𝙞 𝙏𝙞𝙢𝙪𝙧 ❤wiwin iskandar
     location: "Indonesia"
-    followers: 130000
-    engagement: 1094
-    commentsToLikes: 0.064406
+    followers: 142000
+    engagement: 823
+    commentsToLikes: 0.137023
     id: ckc8xwc76m3pe0j23utu6kj1b
     verified: false
-    hashtags: "#stlye, #fyp, #tiktoker, #model"
-  - username: "dayatt_photography"
+    hashtags: "#model, #stlye, #fyp, #valentine2021"
+  - username: "taraleesun"
     fullname: >-
-      Dayatt Photography
+      Tara Lee
     bio: >-
-      foto sama aku, yuk cek igku dayattphotography
+      follow Instagram : Taraleesun11 Indonesia ( Medan - Kisaran )
     location: "Indonesia"
-    followers: 3941
-    engagement: 693
-    commentsToLikes: 0.088934
-    id: ckbqktmmf5yck0j23wa14ildl
+    followers: 124800
+    engagement: 611
+    commentsToLikes: 0.042273
+    id: ck9e2ugrfgnn80j785vxe78xa
     verified: false
-    hashtags: "#follow4follow, #likes, #musically, #instapic"
-  - username: "bilyniagarawann"
+    hashtags: "#viral, #dance, #makeup, #fyp"
+  - username: "masongkek"
     fullname: >-
-      Bily Niagarawan
+      Mas Ongkek
     bio: >-
-      Follow me on Instagram : Bilyniagarawan 🥀
+      TBW Squad Random - Content BANYUWANGI - JAWA TIMUR 🐼
     location: "Indonesia"
-    followers: 92500
-    engagement: 608
-    commentsToLikes: 0.025622
-    id: ck83k438f96040j78la34c9xh
+    followers: 210800
+    engagement: 553
+    commentsToLikes: 0.053132
+    id: ck9f23bggbe2w0j78282x6k74
     verified: false
-    hashtags: "#model, #fitness, #morning, #bareface"
-  - username: "furryvid"
+    hashtags: "#tiktokindonesia, #banyuwangi, #tbwsquad, #fyp"
+  - username: "mamakpascol"
     fullname: >-
-      furryvid
+      lalak
     bio: >-
-      Instagam : furryvid Facebook FP : furryvid Youtube : Furry Vid
+      saatnya kalian glow uuuuuppppp
     location: "Indonesia"
-    followers: 22900
-    engagement: 461
-    commentsToLikes: 0.003995
-    id: ck83x2u8snskf0j783qqnks7m
+    followers: 7103
+    engagement: 706
+    commentsToLikes: 0.052802
+    id: ckbwmcmiz447b0j233f8a705z
     verified: false
-    hashtags: "#followme, #pink, #picoftheday, #yummy"
-  - username: "deni.basoeki"
+    hashtags: "#fypdong, #foryoupage, #fyp, #foryou"
+  - username: "charlietaylor"
     fullname: >-
-      Deni Basoeki
+      Charlietaylor 
     bio: >-
-      Do something today that your future self will thank you for
+      🇦🇺 Athlete 🎥 Actor 🎤 Singer IG: charlietaylor SNAPCHAT: chowdytaylor
     location: "Indonesia"
-    followers: 71500
-    engagement: 284
-    commentsToLikes: 0.000000
-    id: ckcp2e4p9bl2v0j23g177yujk
-    verified: false
-    hashtags: "#fyp, #kulinerindonesia, #model, #interview"
-  - username: "nunik254"
+    followers: 328400
+    engagement: 652
+    commentsToLikes: 0.023483
+    id: ck977b8ju3hrg0j780c92em3z
+    verified: true
+    hashtags: "#ftb, #fyp, #challenge, #fitness"
+  - username: "ardial7_"
     fullname: >-
-      Nunik Harianti
+      Ardial🎨
     bio: >-
-      lhttps://m.youtube.com/channel/UCVL2xhJRM-UixK-qVeZmCgw
+      🇮🇩
     location: "Indonesia"
-    followers: 2208
-    engagement: 1572
-    commentsToLikes: 0.011905
-    id: ckcp4dtkdccc70j231is75kjl
+    followers: 29500
+    engagement: 757
+    commentsToLikes: 0.019779
+    id: ckbkw6griruov0j23s4k7sbj3
     verified: false
-    hashtags: "#kpopedit, #amazingsaturday, #jungsister, #cenimagraph"
-  - username: "littletalker_"
+    hashtags: "#picoftheday, #nofilter, #beach, #makeup"
+  - username: "kristinprl"
     fullname: >-
-      heylouie_
+      Kristin Aprillia
     bio: >-
-      Instagram : heylouie_ Drama hidup lebih dari sinetron & suka ngeracunin orang 🌼
+      ordinary IG: kristinprl
     location: "Indonesia"
-    followers: 227100
-    engagement: 846
-    commentsToLikes: 0.048051
-    id: ckbl6jz4m4d9p0j2332zm183p
+    followers: 49900
+    engagement: 420
+    commentsToLikes: 0.043067
+    id: ckavq9dz91osh0j23bpmip772
     verified: false
-    hashtags: "#kisahku, #racuntiktok, #aneh, #gila"
+    hashtags: "#foryourpage, #fyp, #foryoupage, #foryou"
 ---

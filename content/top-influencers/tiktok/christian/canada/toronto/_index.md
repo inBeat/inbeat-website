@@ -1,48 +1,24 @@
 ---
-title: Top 10 Christian TikTok Influencers In Toronto in 2023
+title: Top 10 Christian TikTok Influencers In Toronto In 2023
 description: >-
-  Find top christian TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryou #toronto #christian.
+  Find top christian TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #duet #toronto #foryou.
 platform: TikTok
-hits: 14
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 14 TikTok influencers like this in Toronto, Canada for you to work with.
+hits: 9
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 9 TikTok influencers like this in Toronto, Canada for you to contact.
 profiles:
-  - username: "nour.shahrour"
+  - username: "anutbus"
     fullname: >-
-      Nour
+      anutbus
     bio: >-
-      🇱🇧|🇨🇦 ٣١٣ 👻nourshahrour14 toronto
+      Let’s get to 45k!! Follow my Instagram⬆️
     location: "Canada"
-    followers: 23500
-    engagement: 1384
-    commentsToLikes: 0.145792
-    id: ckbkhcqj39aha0j23ncvg8vre
+    followers: 43000
+    engagement: 1186
+    commentsToLikes: 0.062794
+    id: ck92u67obkux50j7814ng3wg0
     verified: false
-    hashtags: "#foru, #lebanon, #313, #yaali"
-  - username: "djkellyart"
-    fullname: >-
-      David Kelly 
-    bio: >-
-      Toronto based artist!
-    location: "Canada"
-    followers: 3615
-    engagement: 528
-    commentsToLikes: 0.220084
-    id: cka7vvf49xyy50i78pbyml7tl
-    verified: false
-    hashtags: "#abstractart, #foryoupage, #art, #artist"
-  - username: "miguelthemuslim"
-    fullname: >-
-      MigueltheMuslim
-    bio: >-
-      🇨🇦 🇵🇹 | Muslim Revert الحمد لله 📍Toronto, ON
-    location: "Canada"
-    followers: 14700
-    engagement: 1145
-    commentsToLikes: 0.088770
-    id: ckb9hbhqa6p2t0j237urvmezs
-    verified: false
-    hashtags: "#revertproblems, #girl, #arabtiktok, #islam"
+    hashtags: "#theboys, #fyp, #foryou, #workout"
   - username: "stlkurdi"
     fullname: >-
       Stlkurdi
@@ -54,77 +30,101 @@ profiles:
     commentsToLikes: 0.074959
     id: ck9nu7xc6lvtz0j78jo2gt2tw
     verified: false
-    hashtags: "#foryou, #viral, #morningboost, #comedy"
+    hashtags: "#fyp, #foryou, #comedy, #viral"
   - username: "calebaitken"
     fullname: >-
       Caleb Aitken
     bio: >-
-      17 from Canada
+      18 from Canada
     location: "Canada"
-    followers: 15100
-    engagement: 1935
-    commentsToLikes: 0.048362
+    followers: 14600
+    engagement: 1774
+    commentsToLikes: 0.046310
     id: ck9rl6qvswhma0j78ia50vd4a
     verified: false
-    hashtags: "#jesus, #christian, #duet, #god"
+    hashtags: "#jesus, #church, #christian, #fyp"
   - username: "shadorachambers"
     fullname: >-
       chi 
     bio: >-
-      22/🇯🇲in 🇨🇦 Check out my vlogs on YouTube:) jst another avatar stan 🌊🔥🌬
+      🇯🇲in 🇨🇦 Check out my vlogs on YouTube:) Solo De Gloria Taika Waititi stan
     location: "Canada"
-    followers: 3923
-    engagement: 897
-    commentsToLikes: 0.027575
+    followers: 3836
+    engagement: 830
+    commentsToLikes: 0.026769
     id: ckbkq6sllkhyl0j237ora3xv2
     verified: false
-    hashtags: "#foryou, #foryoupage, #fyp, #4u"
+    hashtags: "#fyp, #foryoupage, #toronto, #4u"
   - username: "babyimrich"
     fullname: >-
       Christian
     bio: >-
       
     location: "Canada"
-    followers: 2752
-    engagement: 1340
-    commentsToLikes: 0.023485
+    followers: 2717
+    engagement: 550
+    commentsToLikes: 0.012590
     id: ckcdhn0gp7t7o0j23mikg68zu
     verified: false
-    hashtags: "#ontario, #fyp, #readyforhockey, #toronto"
-  - username: "momo_mehdi1"
+    hashtags: "#toronto, #fyp, #ontario, #readyforhockey"
+  - username: "bigblizz"
     fullname: >-
-      Momo Mehdi
+      🤙🏼DJ Blizzard aka BigBlizz🌻
     bio: >-
-      Snapchat :almehbd 🇨🇦🇱🇧 CEO OF LEBANON 🇱🇧🇱🇧
+      🤙🏼#BigBlizzSqwad🌻 🔥PO Box 45042, Langley Crossing🔥 Langley, BC V2Y 0C9 🇨🇦
     location: "Canada"
-    followers: 13600
-    engagement: 1265
-    commentsToLikes: 0.080254
-    id: ckcp508urcl290j23je0wwr5o
+    followers: 370100
+    engagement: 1622
+    commentsToLikes: 0.113462
+    id: ckailsr0fplqy0i78oowj3esb
     verified: false
-    hashtags: "#greenscreensticker, #iraq, #arab, #usa"
-  - username: "opinionhated"
+    hashtags: "#happymothersday, #friendlyfuture, #positivevibes, #funny"
+  - username: "christian.cal"
     fullname: >-
-      Richard Brayshaw
+      christian
     bio: >-
-      @flippin4alivin on YouTube / Insta Edutainment at its best If you feel it say it
+      🇨🇦🇵🇭
     location: "Canada"
-    followers: 17800
-    engagement: 1117
-    commentsToLikes: 0.143265
-    id: ck9k4yhrpul1v0j78d5wsqn4u
+    followers: 3114
+    engagement: 877
+    commentsToLikes: 0.055254
+    id: ck92uxqh6o1s60j78birfbj2b
     verified: false
-    hashtags: "#biden2020, #xyzbca, #biden, #arizona"
-  - username: "ruth_arul"
+    hashtags: "#basketball, #transitions, #filipino, #greenscreen"
+  - username: "imelevated__"
     fullname: >-
-      ruth_arul
+      imelevated
     bio: >-
-      My alter ego to my insta 🤪 Insta: @ruth_arul
+      40k? follow for the funniest videos on tiktok 👇🖖
     location: "Canada"
-    followers: 35500
-    engagement: 951
-    commentsToLikes: 0.012337
-    id: ckafucyaw9v1b0i782jvwrhzy
+    followers: 31800
+    engagement: 1225
+    commentsToLikes: 0.015331
+    id: ck92uxyz3o3o00j78lok6wo66
     verified: false
-    hashtags: "#tamil, #southasian, #fyp, #browngirl"
+    hashtags: "#prank, #fyp, #share, #laugh"
+  - username: "crazy.plant.guy"
+    fullname: >-
+      Christian
+    bio: >-
+      IG For Daily Vlogs: crazyplantguy YouTube For Plant Videos: Crazy Plant Guy 👇🏼
+    location: "Canada"
+    followers: 27300
+    engagement: 1012
+    commentsToLikes: 0.028429
+    id: ckfplbix9000x0j23ue7m8ll5
+    verified: false
+    hashtags: "#plantsoftiktok, #planttiktok, #plantdaddy, #catsoftiktok"
+  - username: "ready4anarchy"
+    fullname: >-
+      Charlie Franko
+    bio: >-
+      💖Ezekiel 23:20💖 26/💍\any pronouns Christian\Libertarian 🔞my DMs🔞
+    location: "Canada"
+    followers: 59000
+    engagement: 1180
+    commentsToLikes: 0.079358
+    id: ckb98lyxrs72z0j23cyw8yzto
+    verified: false
+    hashtags: "#airpodsjump, #stitch, #duet, #fidoboostchallenge"
 ---

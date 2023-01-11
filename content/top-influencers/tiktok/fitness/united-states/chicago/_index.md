@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Chicago in 2023
+title: Top 10 Fitness TikTok Influencers In Chicago In 2023
 description: >-
-  Find top fitness TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #fitness #duet #chicago.
+  Find top fitness TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #fitness #chicago #foryou.
 platform: TikTok
-hits: 40
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat has 40 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 39
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 39 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "stronger.vlad"
+  - username: "dr_kyleross"
     fullname: >-
-      Vlad
+      Dr. Kyle Ross
     bio: >-
-      📍Chicago | Fitness model 🔥Workouts/advice🔥 Follow for helpful fitness
+      🤘🏻Thanks for stopping by 📍Chicago
     location: "United States"
-    followers: 46500
-    engagement: 548
-    commentsToLikes: 0.118416
-    id: ck8vw3furnd4o0j78k0pe6f25
+    followers: 706300
+    engagement: 504
+    commentsToLikes: 0.006445
+    id: ckc7tibnxxw2y0j23xph5yw88
     verified: false
-    hashtags: "#familyimpression, #fallfashion, #shred, #vanquish"
-  - username: "alaia.alaia"
+    hashtags: "#hijama, #china, #drkyleross, #foryou"
+  - username: "kalobgossett"
     fullname: >-
-      Lai lai 🦋
+      Kalob Gossett
     bio: >-
-      24. Chicago. 🍒Interior. Life Style. 🦋Beauty. DIY.Family.Dance✨
+      ✨all pronouns are welcome✨ just trying to brighten up the world; watch me shine
     location: "United States"
-    followers: 19600
-    engagement: 597
-    commentsToLikes: 0.029383
-    id: ck90tz47runq10j7890aatttc
+    followers: 54400
+    engagement: 1599
+    commentsToLikes: 0.024072
+    id: ckbbl2hj39cni0j23owz4kosf
     verified: false
-    hashtags: "#chicago, #summer, #health, #fitness"
-  - username: "seny_acro_"
+    hashtags: "#stitch, #arianagrande, #gay, #work"
+  - username: "kiddkrazy77"
     fullname: >-
-      seny_acro_
+      Kiddkrazy77
     bio: >-
-      https://beasttribe.com/workout-programs/ Follow my IG 👉 @senyacro🤸🏾‍♂️
+      30 yrs old 👨🏾‍🦳 Made a wrong turn looking for IG 🤷🏾‍♂️ HTX🤘🏾
     location: "United States"
-    followers: 19600
-    engagement: 1413
-    commentsToLikes: 0.028823
-    id: ckceibj3lqhh70j230vxhf6dn
+    followers: 27300
+    engagement: 556
+    commentsToLikes: 0.038586
+    id: ckbw5pku8y2lf0j23v2nj1i1i
     verified: false
-    hashtags: "#circus, #healthyliving, #motivation, #fashionessentials"
-  - username: "iamtravieaustin"
+    hashtags: "#fyp, #blacklivesmatter, #funny, #foryoupage"
+  - username: "monii.prusak"
     fullname: >-
-      Travis Austin Wright
+      Monika Prusak
     bio: >-
-      Chicago 🏠 🌈 🤙🏾 Actor. 🎭 Songwriter. 🎶 Producer. Stream my album 👇🏾
+      CHICAGO • RN, BSN 🩺 • FITNESS IG: monii.prusak
     location: "United States"
-    followers: 27200
-    engagement: 1936
-    commentsToLikes: 0.041787
-    id: ckbw64tqwyb0i0j237jvr9of5
+    followers: 46900
+    engagement: 650
+    commentsToLikes: 0.028638
+    id: ckbqmpxgw7nnf0j23qf1xg8sy
     verified: false
-    hashtags: "#greenscreen, #comedy, #funny, #fyp"
-  - username: "enashaolivia"
-    fullname: >-
-      ena
-    bio: >-
-      ✧･ﾟ chi - 19 afro-latina 🇲🇽 fitness insta: fitwithena business inquires ↓
-    location: "United States"
-    followers: 96000
-    engagement: 1544
-    commentsToLikes: 0.017330
-    id: ckdhindl8ymxv0j2349mcdxhd
-    verified: false
-    hashtags: "#chicago, #cleaning, #fyp, #apartment"
+    hashtags: "#nurse, #ibiza, #dancer, #fyp"
   - username: "iamginaaa"
     fullname: >-
       Gina !
     bio: >-
-      Just a grown kid living life. fit and funny.cash app $ginadiane -chicago
+      Just a grown kid living life. fit and funny.cash app $ginafitlife -chicago 4K?
     location: "United States"
-    followers: 3222
-    engagement: 610
-    commentsToLikes: 0.038263
+    followers: 3961
+    engagement: 1165
+    commentsToLikes: 0.068774
     id: ckbwin9bk3asl0j239p5xm56q
     verified: false
-    hashtags: "#foryoupage, #foryou, #yourpage, #yp"
-  - username: "dvaughn__"
+    hashtags: "#foryou, #foryoupage, #chicago, #fyp"
+  - username: "haroldisfasting"
     fullname: >-
-      dvaughn__
+      Harold DeFrieze 🍔
     bio: >-
-      23 l Chicago I’m a little bit of everything Snap: itsdvn Insta: dvaughn__
+      This page is not to promote fasting but simply to document my own personal fast
     location: "United States"
-    followers: 13600
-    engagement: 1175
-    commentsToLikes: 0.039922
-    id: ck9a7ioob7tir0j78rzb51exw
+    followers: 14200
+    engagement: 342
+    commentsToLikes: 0.069516
+    id: ckcj9ghmb7vr40j23798u52th
     verified: false
-    hashtags: "#hamilton, #timefortenet, #fyp, #like"
+    hashtags: "#fasting, #waterfasting, #motivation, #fyp"
   - username: "victoria.elliot"
     fullname: >-
       Victoria Elliot
     bio: >-
       📍 Chicago Venmo: @Victoria-Elliot Want to see more of me? Click link below!😘
     location: "United States"
-    followers: 187900
-    engagement: 478
-    commentsToLikes: 0.028534
+    followers: 185300
+    engagement: 495
+    commentsToLikes: 0.034044
     id: ck976vf561gx00j78w3phce61
     verified: false
-    hashtags: "#pitbull, #fyp, #chicago, #merica"
-  - username: "ietsnormaals"
+    hashtags: "#painandgain, #usa, #math, #birthday"
+  - username: "mj_gasik"
     fullname: >-
-      Ietsnormaals
+      MJ Gasik
     bio: >-
-      It’s embarrassing... IG: Ron_Chicago qmilated@gmail.com Twitch: ietsnormaals
+      Master Triathlon Coach🏊🚴🏃 USAT & Ironman U Certified🎖 #beabetterathlete
     location: "United States"
-    followers: 29600
-    engagement: 832
-    commentsToLikes: 0.025643
-    id: ck8qhcc014fsv0j78hnece3as
+    followers: 2972
+    engagement: 343
+    commentsToLikes: 0.070797
+    id: ckdhp4rfh175x0j23amwqf3xi
     verified: false
-    hashtags: "#duet, #xyzbca, #foryoupage, #fyp"
-  - username: "jojo_the_trucker_dog"
+    hashtags: "#triathlon, #triathlontraining, #ironmantri, #swimbikerun"
+  - username: "charltonharley"
     fullname: >-
-      Monster
+      Charlton Harley 
     bio: >-
-      SC: cowboy_monster USN Veteran Wannabe Professional Trucker Chicago
+      Dad with a side job
     location: "United States"
-    followers: 8329
-    engagement: 1410
-    commentsToLikes: 0.000000
-    id: ckb0ghl468d8z0j23m6t5h181
+    followers: 1100000
+    engagement: 1020
+    commentsToLikes: 0.034901
+    id: ck83yu58ivr930j78odxgb6fq
     verified: false
-    hashtags: "#rags2riches, #checkmeoutchallenge, #fyp, #dirtyhandscleanmoney"
+    hashtags: "#navy, #585, #dayandnight, #lifestyle"
+  - username: "halfcultureddesi"
+    fullname: >-
+      nurayn 
+    bio: >-
+      chicago snap: nuraynawesome11 shop my non profit 🪐
+    location: "United States"
+    followers: 13200
+    engagement: 1838
+    commentsToLikes: 0.045786
+    id: ckc34l34xtwzh0j23ohkrcjbq
+    verified: false
+    hashtags: "#fitness, #colorcustomizer, #homeworkout, #weightlifting"
 ---

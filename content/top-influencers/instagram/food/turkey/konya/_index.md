@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Konya in 2023
+title: Top 10 Food Instagram Influencers In Konya In 2023
 description: >-
-  Find top food Instagram influencers in Konya in 2023. Most popular hashtags: #food #konya #yemek #tatl.
+  Find top food Instagram influencers in Konya in 2023. Most popular hashtags: #food #instalike #konya #instagood.
 platform: Instagram
 hits: 24
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 24 Instagram influencers like this in Konya, Turkey for you to contact.
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 24 Instagram influencers like this in Konya, Turkey for you to contact.
 profiles:
+  - username: "zevkliblog"
+    fullname: >-
+      Burcu'nun Dünyası 🌼
+    bio: >-
+      Konya 🌾 🔹Bitki Bakımı 🌱 🔹Ev dekorasyonu / DİY fikirleri 🌱 🔹Aktüel ürün ve indirim haberleri 🌱 🔹Anne/bebek alışverişi öneri🌱 REKLAM ve ÜRÜN TANITIM DM
+    location: "Turkey"
+    followers: 31473
+    engagement: 345
+    commentsToLikes: 0.176633
+    id: ckap4wfh296t80i78f7v4ztak
+    verified: false
+    hashtags: "#flowerstagram, #kalanchoe, #saks, #follow"
   - username: "ayk__photo"
     fullname: >-
       AYK PHOTO
     bio: >-
       🏠KONYA Fotoğrafcı bir genç...📸 🇹🇷AYK🇹🇷
     location: "Turkey"
-    followers: 9651
-    engagement: 1435
-    commentsToLikes: 0.029009
+    followers: 13118
+    engagement: 735
+    commentsToLikes: 0.010899
     id: ckap17e9ptdef0i78ftd5kpo2
     verified: false
-    hashtags: "#good, #konya, #goodmorning, #hobimphoto"
-  - username: "rabiasultansuna"
+    hashtags: "#igers, #igdaily, #day, #photography"
+  - username: "sahanegurme"
     fullname: >-
-      Rabia Sultan SUNA
+      Şahanegurme / Muhammed
     bio: >-
-      1993 #konya Ne kadar zengin olursan ol,gökten bir damla su satın alamazsın. Unutma ki;Sen ALLAH’ın sana verdiği rızık kadarsın! Videolar👇🏻
+      👤 @muhammed.ylmz 🌴 Food & Travel 🔹 Yer , İçer ve Gezer 📩 Sosyal Medya Danışmanlığı
     location: "Turkey"
-    followers: 82778
-    engagement: 87
-    commentsToLikes: 0.080110
-    id: ck8t8sbz4llzx0j78e16vddxj
+    followers: 476741
+    engagement: 118
+    commentsToLikes: 0.008516
+    id: ck134i8xdwjz80i19d1m3kwg2
     verified: false
-    hashtags: "#yemekrium, #anayemek, #yemek, #tatl"
-  - username: "selmabakar"
+    hashtags: "#drink, #lezzet, #binevler, #meat"
+  - username: "neyesekcom"
     fullname: >-
-      Şifalı Mutfak 🍴
+      Yemek İçmek Gezmek Lazım❗️
     bio: >-
-      Food Blogger🍽 🇦🇱🇹🇷 Glutensiz tarifler peşinde. Yöresel lezzetler Osmanlı Şerbetleri Saray Mutfağı @serbetci_teyze
+      📍Mekan Önerileri 🍽 Yöresel Lezzetler 🌍 Dünya Mutfağı 🎥Food Blogger🥩🍹🍗🧁🍔
     location: "Turkey"
-    followers: 64440
-    engagement: 130
-    commentsToLikes: 0.116891
-    id: ck8tbqhb7wprr0j782ikgmj16
+    followers: 47768
+    engagement: 122
+    commentsToLikes: 0.012097
+    id: ck15pjdily6ay0i19zyxz0sz1
     verified: false
-    hashtags: "#kes, #albania, #ramazan, #nan"
-  - username: "z.e.e.i"
+    hashtags: "#istanbul, #gaziantep, #dubai, #instafood"
+  - username: "esmadan_mutfaga"
     fullname: >-
-      Emine Doğan / Elmaağaç
+      🌸Esma Yetiş Aydogdu🌸
     bio: >-
-      ....Yiyin, için fakat israf etmeyin; çünkü Allah israf edenleri asla sevmez.! (Arâf Süresi) 🏡ROTTERDAM ~KONYA
+      #Sunum #Yemek #diyet #tatlı tarifleri☕️🍛🍩🥮🎂🥗 #konya #mardin #balıkesir İletişim için dm 🌸
     location: "Turkey"
-    followers: 95553
-    engagement: 114
-    commentsToLikes: 0.042664
-    id: ck5zux4gp372d0i14v2n8uzu2
+    followers: 16255
+    engagement: 30
+    commentsToLikes: 0.030619
+    id: ck8tap6tbskfd0j78vsh26y53
     verified: false
-    hashtags: "#ramadan, #sunumo, #sunum, #iftar"
-  - username: "nurlamutfakta"
-    fullname: >-
-      Nur'un Mutfağı
-    bio: >-
-      Gazeteci Perception is reality Yemek hakkında her şey | All about food🍴🥞🍕🍜 Sunum | Presentation🍹 Food lover Türkiye | Turkey📍🇹🇷
-    location: "Turkey"
-    followers: 2540
-    engagement: 1027
-    commentsToLikes: 0.126237
-    id: ck9hchljelfmj0j783qpjldis
-    verified: false
-    hashtags: "#nefisyemektarifleri, #likeforphoto, #likeforlikes, #healthylifestyle"
+    hashtags: "#yemek, #mardin, #instagood, #kahvalt"
   - username: "chefzekikara"
     fullname: >-
       Zeki KARA
     bio: >-
-      |Şef|Aşçı|Matbah |Gastro|Menü|Keeper consulting Aş|Eğitim|Event|Danışman|OwnerChef| Kompetan|MultiFunction |
+      𝙼𝚎𝚗𝚞̈ | 𝙼𝚞𝚝𝚏𝚊𝚔 𝙺𝚘𝚗𝚜𝚎𝚙𝚝 𝙳𝚊𝚗𝚒𝚜̧𝚖𝚊𝚗 | 𝙼𝚞𝚕𝚝𝚒𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗 𝚂̧𝚎𝚏|𝙰𝚜̧𝚌̧𝚒|𝙼𝚊𝚝𝚋𝚊𝚑 | 𝙴𝚐̆𝚒𝚝𝚒𝚖 |𝙴𝚟𝚎𝚗𝚝 |𝙶𝚊𝚜𝚝𝚛𝚘|𝙼𝚎𝚗𝚞̈|𝙺𝚎𝚎𝚙𝚎𝚛 𝚌𝚘𝚗𝚜𝚞𝚕𝚝𝚒𝚗𝚐 𝚃𝙰𝙵𝙴𝙳 𝚋𝚊𝚜̧𝚔. 𝚢𝚛𝚍𝚌.
     location: "Turkey"
-    followers: 39991
-    engagement: 190
-    commentsToLikes: 0.227002
+    followers: 38825
+    engagement: 284
+    commentsToLikes: 0.266212
     id: ck5c5yn0p4dyb0i11h3vhr3d4
     verified: false
-    hashtags: "#chefstable, #kara, #chefsplateform, #foodartchefs"
-  - username: "hatice.gks__"
+    hashtags: "#instafood, #photooftheday, #dinner, #smile"
+  - username: "yunusemreakkor"
     fullname: >-
-      katre_i_huzurr
+      Sertabbah
     bio: >-
-      Hayata gülümseyen...🎈 Acemi bir fotoğraf aşığı 📸 Fotoğraflar bana aittir.
+      Ayla’nın babası 💕 TRT 2 ‘de belgeselci,Skylife yazarı,Kültür araştırmacısı, World cookbook awards 2020’de dünyanın en iyisi ödüllü, Zanaatkar aşçıbaşı
     location: "Turkey"
-    followers: 19328
-    engagement: 467
-    commentsToLikes: 0.044877
+    followers: 180643
+    engagement: 240
+    commentsToLikes: 0.031251
+    id: ck5zo3lkvpov80i1467ijxhnx
+    verified: true
+    hashtags: "#yemek, #dinner, #instagood, #dekahvalt"
+  - username: "meshuryemek"
+    fullname: >-
+      Meşhuryemek
+    bio: >-
+      👉Gurmelik ne haddimize bizimki yemek 'AŞK'ı
+    location: "Turkey"
+    followers: 202785
+    engagement: 105
+    commentsToLikes: 0.019319
+    id: ck1393ph4jd2a0i193ahbgvhc
+    verified: false
+    hashtags: "#lezzet, #evdetarifler, #sweet, #yemek"
+  - username: "katreninguzellikleri"
+    fullname: >-
+      hatice gks
+    bio: >-
+      Bir çay☕ doldur, bir kitap📚 seç ve dünyayı🎧 sessize al. Sadece deklanşör📸 sesi duyulsun. Acemi bir fotoğraf aşığı 📸
+    location: "Turkey"
+    followers: 47469
+    engagement: 246
+    commentsToLikes: 0.034769
     id: ckf5uomqclp6y0j233ohnwusq
     verified: false
-    hashtags: "#infinity, #altinkare, #konyagram, #20likes"
-  - username: "sevimligurme"
+    hashtags: "#igt, #nofilter, #etkilesimpostu, #anadalugram"
+  - username: "antalyagurmesimurat"
     fullname: >-
-      Sevimligurme🥝🍕🍗🍒
+      Antalya Gurmesi Murat Atay
     bio: >-
-      Seyahat&Yemek🎈 Hem Reklamcı hem Gurme ve Gezenti🤠 Tv Programmer 📺Beyaz TV🤩 İst.Kültür Üni: Reklam 📍 GTD üyesi🎈💥 22 countries✈️🥰 sevimtekin@hotmail.com
+      👉 @atayname 🇹🇷 ANTALYA Sevdam ➡️ Gurme; Lezzeti keşfetmiş, damak tadına sahip kişi demek. 🎥 Youtuber 👇Abone Ol👇 📲 İletişim için - Mail Lütfen
     location: "Turkey"
-    followers: 90902
-    engagement: 63
-    commentsToLikes: 0.130949
-    id: ck14khehzpj090i19tduc0bg5
+    followers: 228348
+    engagement: 95
+    commentsToLikes: 0.017229
+    id: ck0uettwjm9n20i19h4a6dn0j
     verified: false
-    hashtags: "#lezzet, #istanbul, #sweet, #food"
-  - username: "murat_gozal"
-    fullname: >-
-      Gurme Sef
-    bio: >-
-      Reklam ve işbirliği için Dm sayfalarımız @yesenecom @yemekailesi
-    location: "Turkey"
-    followers: 62029
-    engagement: 45
-    commentsToLikes: 0.168225
-    id: ck5zo3k8gpot90i14l6skz02p
-    verified: false
-    hashtags: "#gaziantep, #biryemekiste, #lahmacun, #foodporn"
-  - username: "tadimnotlari"
-    fullname: >-
-      tadimnotlari
-    bio: >-
-      📌Adanalı 📝Yemek ve Seyahat Aşığı 🏊Otel ve Yemek Önerileri 👇Youtube kanalım 👇
-    location: "Turkey"
-    followers: 305861
-    engagement: 128
-    commentsToLikes: 0.020946
-    id: ck0vzy3pvbg950i19mw48lh9j
-    verified: false
-    hashtags: "#turkey, #istanbul, #denizli, #sucukd"
+    hashtags: "#restaurant, #tahin, #antalyagurmesi, #muratatay"
 ---

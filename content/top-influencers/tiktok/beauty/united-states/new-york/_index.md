@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In New York in 2023
+title: Top 10 Beauty TikTok Influencers In New York In 2023
 description: >-
-  Find top beauty TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #beauty #foryou.
+  Find top beauty TikTok influencers in New York in 2023. Most popular hashtags: #fyp #beauty #greenscreen #newyork.
 platform: TikTok
-hits: 79
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 79 TikTok influencers like this in New York, United States for you to pitch.
+hits: 82
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 82 TikTok influencers like this in New York, United States for you to contact.
 profiles:
+  - username: "zinkronized"
+    fullname: >-
+      Zink
+    bio: >-
+      #1 Call of Duty Sniper in New York #YouShallObey Twitter @Zinkronized
+    location: "United States"
+    followers: 30800
+    engagement: 1564
+    commentsToLikes: 0.028660
+    id: ckauy7n0y3oqg0j235k6e7pzf
+    verified: false
+    hashtags: "#callofduty, #youshallobey, #foryoupage, #twitch"
+  - username: "itsagracebigworld"
+    fullname: >-
+      Grace Zantua
+    bio: >-
+      California ☼ Miami, FL Passionately curious. 🇵🇭
+    location: "United States"
+    followers: 15400
+    engagement: 1135
+    commentsToLikes: 0.028533
+    id: ckbfgr4luc1ja0j23rdvi34bs
+    verified: false
+    hashtags: "#travel, #destinationdepop, #millionactsoflove, #diy"
+  - username: "mari_aguirre_"
+    fullname: >-
+      mari
+    bio: >-
+      email: makeupbymariquita@gmail.com she/her
+    location: "United States"
+    followers: 155800
+    engagement: 1033
+    commentsToLikes: 0.019832
+    id: ck7zosnmglrdn0j78puhwhvd6
+    verified: false
+    hashtags: "#fyp, #ulta, #shein, #foryou"
+  - username: "argentinianking"
+    fullname: >-
+      Nico Z
+    bio: >-
+      Miami / New York / Buenos Aires 20 Insta @nicozeliks
+    location: "United States"
+    followers: 13700
+    engagement: 1332
+    commentsToLikes: 0.047059
+    id: ck8ttln67s0q00j78o7y7pini
+    verified: false
+    hashtags: "#lgbt, #miami, #viral, #fyp"
   - username: "lower48"
     fullname: >-
       lower48
     bio: >-
       PNW Hiker 🌲Blue State Conservative 🇺🇸 LEOW 🚨 ❤️ Trumpublican ❤️
     location: "United States"
-    followers: 56400
-    engagement: 2886
-    commentsToLikes: 0.072238
+    followers: 55900
+    engagement: 2735
+    commentsToLikes: 0.068521
     id: ckdc0quhmfh6m0j23ya5hnx7a
     verified: false
-    hashtags: "#thoughts, #redpill, #opinion, #red"
-  - username: "the_blumencranz"
+    hashtags: "#red, #debate, #thoughts, #redpill"
+  - username: "danielbooter"
     fullname: >-
-      Luke Blumencranz
+      Daniel Booter
     bio: >-
-      Long Island NY 🌈 CEO of bad spelling
+      📍NYC
     location: "United States"
-    followers: 37800
-    engagement: 423
-    commentsToLikes: 0.032197
-    id: ckc8d2or78tve0j234m6sws1e
+    followers: 34700
+    engagement: 599
+    commentsToLikes: 0.055905
+    id: ckbkg63sb7euc0j23qourftld
     verified: false
-    hashtags: "#fyp, #tiktok, #product, #foryoupage"
-  - username: "kayleighskloset"
+    hashtags: "#views, #la, #lux, #nj"
+  - username: "greyzhagan"
     fullname: >-
-      kayleighskloset
+      grace
     bio: >-
-      26 | New York | Beauty Publicist Unfiltered version of @kayleighskloset
+      📍NYC IG: gracehagan 💫
+    location: "United States"
+    followers: 31900
+    engagement: 720
+    commentsToLikes: 0.030084
+    id: ck8z40xwpbvn80j78d9bww00w
+    verified: false
+    hashtags: "#nyc, #fyp, #newyorkcity, #foryoupage"
+  - username: "ash.fromnyc"
+    fullname: >-
+      Ash💋🍭💥
+    bio: >-
+      NYC🗽 Beauty, hauls and more✨ Follow me on IG ash.fromnyc🍭 SC: Kath.erinex9 🍬
+    location: "United States"
+    followers: 4755
+    engagement: 263
+    commentsToLikes: 0.000000
+    id: ckbf22vp1orwy0j236ywe9rel
+    verified: false
+    hashtags: "#foryou, #dollartree, #fyp, #target"
+  - username: "thatgirlthatdidyourhair"
+    fullname: >-
+      TGTDYH
+    bio: >-
+      HAIR SHOP MERCH SERVICES TEL: 1-800-BLOWME™
+    location: "United States"
+    followers: 15700
+    engagement: 639
+    commentsToLikes: 0.009959
+    id: ckb99s6zuua1g0j23ee2ookod
+    verified: false
+    hashtags: "#beautyhacks, #nyc, #beautytips, #fyp"
+  - username: "itshuyennguyen"
+    fullname: >-
+      Huyen Nguyen | NYC
+    bio: >-
+      📍New York City Fashion • Beauty • Self Love 📩 : itshuyennguyen@gmail.com
     location: "United States"
     followers: 14700
-    engagement: 493
-    commentsToLikes: 0.017452
-    id: ckcv2ovnwo6tk0j23x7o8nuc8
+    engagement: 689
+    commentsToLikes: 0.045216
+    id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#dating, #nyceats, #dialitforward, #nycspots"
-  - username: "daniellemareka"
-    fullname: >-
-      Danielle Mareka
-    bio: >-
-      🧚🏾‍♀️🤍✌🏾😗 IG: @daniellemareka muse 🧝🏽‍♀️ artist supermodel in the making
-    location: "United States"
-    followers: 66100
-    engagement: 2195
-    commentsToLikes: 0.011089
-    id: ckbwjn2u03nsv0j23iu2a27o7
-    verified: false
-    hashtags: "#learnontiktok, #fashion, #pose, #trending"
-  - username: "jansportnyc12"
-    fullname: >-
-      Jan Sport
-    bio: >-
-      Jan from RuPaul’s Drag Race Season 12! 💜The girl next door plus so much more💜
-    location: "United States"
-    followers: 137700
-    engagement: 1701
-    commentsToLikes: 0.015384
-    id: ck9ve0uh3x4wi0j78mfx5a8yv
-    verified: true
-    hashtags: "#drag, #dragmakeup, #dragrace, #fyp"
-  - username: "heyitsamyjay"
-    fullname: >-
-      heyitsamyjay
-    bio: >-
-      25 and queer she/her
-    location: "United States"
-    followers: 6221
-    engagement: 1339
-    commentsToLikes: 0.027544
-    id: ckb10jkk7p2os0j23monney7t
-    verified: false
-    hashtags: "#foryou, #fyp, #greenscreen, #harrystyles"
-  - username: "superawesomefriends"
-    fullname: >-
-      Jim Glaub
-    bio: >-
-      🦄 Jim Glaub 🌈 Nostalgia 🎭 Broadway Magic 🎅 Miracles & more
-    location: "United States"
-    followers: 11900
-    engagement: 810
-    commentsToLikes: 0.049677
-    id: cka0jbzw8hgl70i78nc6452yc
-    verified: false
-    hashtags: "#vintage, #90s, #oldschool, #80s"
-  - username: "minamicheal78"
-    fullname: >-
-      Mina Micheal
-    bio: >-
-      Fitness💪🏼 | Photography 📸 | Engineer 🛠 Travel 🌎 🇪🇬 مصري | Boston📍
-    location: "United States"
-    followers: 3089
-    engagement: 732
-    commentsToLikes: 0.042580
-    id: ckdbjcify965m0j23uo2slipm
-    verified: false
-    hashtags: "#boston, #views, #mass, #travel"
-  - username: "tay_nic_fit"
-    fullname: >-
-      Taylor Nicole
-    bio: >-
-      B.S. in Kinesiology and Health Ex D1 🏐player ⭐️positivity over everything⭐️
-    location: "United States"
-    followers: 11400
-    engagement: 1264
-    commentsToLikes: 0.029339
-    id: ckcpt5i2dnqgf0j2303pqodpw
-    verified: false
-    hashtags: "#volleyball, #foryoupage, #fitgirl, #girlswholift"
-  - username: "ialfarog_"
-    fullname: >-
-      Inés Alfaro
-    bio: >-
-      Skincare | Makeup | review Latina viviendo en NY ✨
-    location: "United States"
-    followers: 21100
-    engagement: 514
-    commentsToLikes: 0.052641
-    id: ckbfat1nq2ecs0j23v8xned1n
-    verified: false
-    hashtags: "#beauty, #tips, #fyp, #boxycharm"
+    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
 ---

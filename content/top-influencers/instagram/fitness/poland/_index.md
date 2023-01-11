@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Poland in 2023
+title: Top 10 Fitness Instagram Influencers In Poland In 2023
 description: >-
-  Find top fitness Instagram influencers in Poland in 2023. Most popular hashtags: #body #girl #polskadziewczyna #fitness.
+  Find top fitness Instagram influencers in Poland in 2023. Most popular hashtags: #polishgirl #polskadziewczyna #love #instagood.
 platform: Instagram
-hits: 684
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 684 Instagram influencers like this in Poland for you to pitch.
+hits: 581
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 581 Instagram influencers like this in Poland for you to pitch.
 profiles:
   - username: "ela_fab_"
     fullname: >-
-      Ela
+      Ela🇵🇱
     bio: >-
       💪20%https://olimpsport.com/pl/ kod rabat „Elafab” 💪Team @xtreme_fitness_gyms 💪15% Sklep Furia Kod rabat „elafab” www. sklepfuria.pl/
     location: "Poland"
-    followers: 8586
-    engagement: 1510
-    commentsToLikes: 0.137020
+    followers: 9191
+    engagement: 1401
+    commentsToLikes: 0.122452
     id: ck9hbtw96iff10j78lo7v1r3a
     verified: false
-    hashtags: "#mylife, #olimp, #strongwomen, #motivation"
-  - username: "lindadavies_1202"
+    hashtags: "#mylife, #motywacja, #muscle, #olimpsportnutrition"
+  - username: "adrianna.kalisz"
     fullname: >-
-      Linda Davies
+      Adrianna Kalisz
     bio: >-
-      👉 🎓🧠MBA masters 📜 👉 Fitness Woman 👉 @rodmen__store 10% off use LINDA10
+      🗞Redaktor 🏃🏼‍♀️Branża Fitness 🌆 Warsaw, Poland🇵🇱 📞 Contact: adakalisz93@wp.pl
     location: "Poland"
-    followers: 12226
-    engagement: 1382
-    commentsToLikes: 0.080573
-    id: ckapavxg0xnxz0i78p8kc8m5c
+    followers: 17027
+    engagement: 622
+    commentsToLikes: 0.088578
+    id: ckaoze6ynlhep0i78breboukg
     verified: false
-    hashtags: "#health, #polskadziewczyna, #fitnessgirl, #summertime"
-  - username: "loutese"
-    fullname: >-
-      
-    bio: >-
-      Ambasadorka @bestbirpiwo 🍻 💻 IT 🤟festivals 💃dance 🤸fitness 💌 loutese.ig@gmail.com
-    location: "Poland"
-    followers: 3652
-    engagement: 4886
-    commentsToLikes: 0.120741
-    id: ckapbfnrdzr4p0i78wmi7g3sm
-    verified: false
-    hashtags: "#wakacjewpolsce, #piwopolskie, #beer, #beerstagram"
-  - username: "siostry_adihd"
-    fullname: >-
-      SIOSTRY ADiHD Milena i Ilona
-    bio: >-
-      👭🏼 Siostry nie bliźniaczki ✨ #fitness #travelgirls #parenting #makeup 👗Ambasadorki @born2be_pl 💌 kontakt@siostryadihd.pl 📍 Łódź, Polska
-    location: "Poland"
-    followers: 205094
-    engagement: 753
-    commentsToLikes: 0.025742
-    id: ck0u0xampv6360i19rgjvx070
-    verified: false
-    hashtags: "#born2be, #ponikla, #mamuska, #sesja"
-  - username: "kasiula.fit"
-    fullname: >-
-      Kasia Dzierżanowska
-    bio: >-
-      TRENER PERSONALNY 📩prowadzenie online ⭐️ @carpatree -20% „KASIULA.FIT” ⭐️ @sklep.sfd-10% „KASIA10” ⭐️ @gipara_fitness -30% „KASIA30”
-    location: "Poland"
-    followers: 10321
-    engagement: 1339
-    commentsToLikes: 0.044562
-    id: ck8t3q16w41zv0j78akzvxrfv
-    verified: false
-    hashtags: "#body, #si, #fitgirl, #fitslodycze"
-  - username: "monia_poznan"
-    fullname: >-
-      Monika Majchrzak
-    bio: >-
-      Team @xtreme_fitness_gyms 🔥💪 Link do rejestracji @xtremego.pl 💚 Piękno, pielęgnacja 💅 @solange_beautyspa_literacka131
-    location: "Poland"
-    followers: 49870
-    engagement: 1189
-    commentsToLikes: 0.029409
-    id: ckaotsqvyxcg20i78f66cxt2u
-    verified: false
-    hashtags: "#autumn, #legs, #style, #happy"
-  - username: "ewalubert"
-    fullname: >-
-      FitMama Ewa Lubert
-    bio: >-
-      Fitness Model 🤸🏼‍♂️ Personal trainer 💪 @lubertypomagaja ❤️ 📩lubertewa@gmail.com
-    location: "Poland"
-    followers: 29450
-    engagement: 426
-    commentsToLikes: 0.145165
-    id: ck0u7uyjd5q190i19o1q7rnkm
-    verified: false
-    hashtags: "#makeup, #fit, #body, #shoes"
+    hashtags: "#adatakniewypada, #humanforhuman, #dzienszpilek"
   - username: "kaaaro_wu"
     fullname: >-
       Karolina Walawko
     bio: >-
       📍Warsaw 🇵🇱 . •Fitness • Health • Fashion • Skin Care . 💌 kaaaro.wu@gmail.com
     location: "Poland"
-    followers: 15941
-    engagement: 588
-    commentsToLikes: 0.084803
+    followers: 20684
+    engagement: 454
+    commentsToLikes: 0.078143
     id: ck15qb5cc1zsm0i19nwb10g5b
     verified: false
-    hashtags: "#luxstyle, #warszawa, #fryzurydamskie, #monaco"
+    hashtags: "#beauty, #stylefashion, #polskadziewczyna, #motywacja"
+  - username: "mammy.mon"
+    fullname: >-
+      Monika
+    bio: >-
+      DANCE • FITNESS • ZUMBA INSTRUCTOR 🇵🇱in ➡️📍Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland TikTok: mammy.mon
+    location: "Poland"
+    followers: 9007
+    engagement: 674
+    commentsToLikes: 0.090671
+    id: ck8t3qc1z43820j78ino2x3z1
+    verified: false
+    hashtags: "#usmiech, #instagirls, #fitnessgirl, #longlegs"
   - username: "aidualkylno"
     fullname: >-
       Klaudia Jóźwiak
     bio: >-
       🎤@mamtalent_tvn 12 💃Dancer/Choreographer 💪Fitness Instructor 💀Tattoo Artist 🍕Dietician 📩 aidualkylno@wp.pl
     location: "Poland"
-    followers: 16102
-    engagement: 1114
-    commentsToLikes: 0.031379
+    followers: 16717
+    engagement: 958
+    commentsToLikes: 0.035935
     id: ck8t6yr61f3xl0j78p4y19drf
     verified: false
-    hashtags: "#soft, #nails, #black, #love"
+    hashtags: "#time, #positive, #girl, #nature"
+  - username: "summerszysz"
+    fullname: >-
+      Aneta
+    bio: >-
+      🇵🇱 🇬🇷 Wszystko możesz nic nie musisz 😊 Fitness💪 Motivation 👌 Mama 👦👧 44 🎂 Love🌞🐈🏃‍♀️🏋️‍♀️🍫⚽ -10% z kodem summerszysz na sfd.pl/sklep 📩oliviaviko@wp.pl
+    location: "Poland"
+    followers: 128139
+    engagement: 541
+    commentsToLikes: 0.042412
+    id: ck8tds92n4l4p0j78vkzkldjk
+    verified: false
+    hashtags: "#picoftheday, #si, #shape, #bez"
+  - username: "a_ania6"
+    fullname: >-
+      Bikini IFBB
+    bio: >-
+      ➡️ KRAKÓW 🔥 TRENINGI PERSONALNE 🏋️‍♀️ 🥗 PLANY DIETETYCZNE 🥞 💎 Bikini fitness IFBB 🏅 📩 DM
+    location: "Poland"
+    followers: 51687
+    engagement: 244
+    commentsToLikes: 0.078385
+    id: ckf5vifkroq0b0j23bofffajq
+    verified: false
+    hashtags: "#fitissexy, #motywacja, #kochamsiebie, #selfie"
+  - username: "babcia.w.adidasach"
+    fullname: >-
+      Kasia🇵🇱🇩🇪
+    bio: >-
+      Kobieta 40 + Zumba & fitness freak 💪 Collab/DM 📤/E-Mail📧
+    location: "Poland"
+    followers: 127370
+    engagement: 206
+    commentsToLikes: 0.046031
+    id: ck6trwzmz1jx20j71kyfzfd8h
+    verified: false
+    hashtags: "#polskadziewczyna, #dobrywiecz, #love, #goodvibes"
   - username: "sev_ita"
     fullname: >-
-      sevita® 🖤
+      sevita® ⚡️
     bio: >-
-      •content creator - passion🤍 •dentist + aesthetic med👩🏼‍⚕️ •D.👩‍❤️‍💋‍👨👩🏼‍🤝‍👨🏻 •fashion lover👡 •fitness 💚🤸🏼‍♀️ •TVseriesPotterheadQueenLadyGagaSamSmith
+      •content creator - passion🤍 •dentist + ae.med👩🏼‍⚕️ •esthete ✨ •D.👩‍❤️‍💋‍👨 •fashion lover👡 •fitness🤸🏼‍♀️ •TVseriesPotterheadQueenLadyGagaSamSmith
     location: "Poland"
-    followers: 23723
-    engagement: 394
-    commentsToLikes: 0.078293
+    followers: 24132
+    engagement: 286
+    commentsToLikes: 0.082196
     id: ck9hcai8nkifv0j78yeg6w8rp
     verified: false
-    hashtags: "#zaraeurope, #outfitoftheday, #astilllifestyle, #minimalstreetstyle"
+    hashtags: "#zaraoutfit, #fashionstyles2you, #look2021, #krakowplaces"
+  - username: "gabikuczynskaa"
+    fullname: >-
+      Gabriela Kuczyńska
+    bio: >-
+      🎮YouTube: Gabi, Mano i Gabi 👫 🎶TikTok: gabikuczynska ❤️ Fitness freak💪 Food lover 🍜 @manoyek 👫❤️
+    location: "Poland"
+    followers: 40405
+    engagement: 1111
+    commentsToLikes: 0.015765
+    id: ck8t6lx9qe2hm0j78g3e45z8t
+    verified: false
+    hashtags: "#winter, #december, #wibo, #gymmotivation"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Lisbon in 2023
+title: Top 10 Instagram Influencers In Lisbon In 2023
 description: >-
-  Find top Instagram influencers in Lisbon in 2023. Most popular hashtags: #fashion #travel #outfitoftheday #love.
+  Find top Instagram influencers in Lisbon in 2023. Most popular hashtags: #pub #staysafe #creative.
 platform: Instagram
-hits: 410
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 410 Instagram influencers like this in Lisbon, Portugal for you to work with.
+hits: 147
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 147 Instagram influencers like this in Lisbon, Portugal for you to pitch.
 profiles:
-  - username: "brunolexim"
-    fullname: >-
-      BRUNO LEXIM
-    bio: >-
-      • Menswear | Fashion Creator | Lifestyle • Lisbon, Portugal 🇵🇹 • Contact: E-mail 📩 www.trendhim.com 15% discount! trnd.hm/trendhim.brunolexim
-    location: "Portugal"
-    followers: 5702
-    engagement: 1486
-    commentsToLikes: 0.175327
-    id: ck8t4nlcl7fh60j78xtp7cxlv
-    verified: false
-    hashtags: "#mensfashionstyle, #bestofmenstyle, #waymenfashion, #classydapper"
-  - username: "vera_fferreira"
-    fullname: >-
-      Vera Ferreira
-    bio: >-
-      26 ◦ Lisbon, Portugal 🇵🇹 Lived in 🇺🇸
-    location: "Portugal"
-    followers: 3961
-    engagement: 2666
-    commentsToLikes: 0.136201
-    id: ck135h9a81erw0i19ocgiof5m
-    verified: false
-    hashtags: "#mytinyatlas, #wearetravelgirls, #beautifuldestinations, #bucketlisters"
-  - username: "caro.lina.gil"
-    fullname: >-
-      Cäro
-    bio: >-
-      ☼ Happy just because ⇢ Professional dancer & Teacher ✯ Pilates Instructor • Lisbon
-    location: "Portugal"
-    followers: 9004
-    engagement: 1544
-    commentsToLikes: 0.083427
-    id: ck0u0x6rzv5ow0i19vvpq2udd
-    verified: false
-    hashtags: "#cancerfighter, #diary, #love, #sunlight"
-  - username: "catarina.fernandees"
-    fullname: >-
-      Catarina Fernandes
-    bio: >-
-      • Content Creator • Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • PROZIS: CATARINAFERNANDES ; BOLT: CATE PRESETS ⤵️
-    location: "Portugal"
-    followers: 89978
-    engagement: 616
-    commentsToLikes: 0.132250
-    id: ck1374d9y9pu80i19hpf69j8k
-    verified: false
-    hashtags: "#bloggerstyle, #ootd, #fashion, #lookdacate"
-  - username: "misscasimiro"
-    fullname: >-
-      Mädchen
-    bio: >-
-      Daniela Casimiro Direito/Law 🎓 📍Lisbon 90’s kid beauty | aesthetic | photography |everything
-    location: "Portugal"
-    followers: 9604
-    engagement: 1786
-    commentsToLikes: 0.066591
-    id: ck9hb1xoaf15l0j789k7x4783
-    verified: false
-    hashtags: "#eyes, #aesthetically, #quarantine, #quarentena"
-  - username: "rosalimaloureiro"
-    fullname: >-
-      Rosa Lima Loureiro
-    bio: >-
-      • From Lisbon 🌊🌊🐚 • Studying in London 📍
-    location: "Portugal"
-    followers: 36535
-    engagement: 1194
-    commentsToLikes: 0.039185
-    id: ck8t4jx1q70xx0j78kofberj1
-    verified: false
-    hashtags: "#love, #tbt, #styleblogger, #nature"
-  - username: "whatever.joana"
-    fullname: >-
-      Joana Dias
-    bio: >-
-      Based in Lisbon, Portugal Collaborations/shoot inquiries: 💌 joanadiasngd@gmail.com
-    location: "Portugal"
-    followers: 7747
-    engagement: 1034
-    commentsToLikes: 0.203523
-    id: ck0u12aejvj8w0i19k9pnujgn
-    verified: false
-    hashtags: "#outfit, #love, #style, #fashion"
   - username: "sharonpannen"
     fullname: >-
       Sharon Pannen
     bio: >-
-      photographer/ creative direction between Lisbon and Amsterdam sharonpannen@hotmail.com
+      Queer photographer currently in Lisbon, Portugal. 23 Working on my upcoming photo series + book on sexuality and gender identity worldwide
     location: "Portugal"
-    followers: 8727
-    engagement: 998
-    commentsToLikes: 0.100812
+    followers: 11610
+    engagement: 924
+    commentsToLikes: 0.077828
     id: ck6tor064fm660j714e8yax87
     verified: false
-    hashtags: "#theanalogclub, #analogvibes, #35mm, #analog"
-  - username: "martinhagomez"
+    hashtags: "#35mm, #kodak"
+  - username: "marianacardia"
     fullname: >-
-      Martinha Gomez
+      Mαяιαηα 🌹
     bio: >-
-      💄Portuguese Blogger & Youtuber 💄 🖌️Graphic Designer |📍Lisbon ▪️Mother of 🐈🐈🐕 . Collabs ✉️ Insta.martinhagomez@gmail.com .
+      📍Lisbon 🇵🇹 👩🏼‍🎓:ciências da comunicação 💖: Beauty - Fashion - Travel 💓 📩: prettyinpinkgeral@gmail.com 🖥: www.prettyinpink.pt⠀ ⠀⠀⠀🛍⠀@dailypinkootd
     location: "Portugal"
-    followers: 28732
-    engagement: 573
-    commentsToLikes: 0.265003
-    id: ck0tybj33marc0i19b7w37ha9
+    followers: 16563
+    engagement: 540
+    commentsToLikes: 0.089691
+    id: ck8t6uh2eeqch0j78kg2sj6w0
     verified: false
-    hashtags: "#fridayloveday, #novidade, #playa, #verao2020"
-  - username: "eyes.of.rita"
+    hashtags: "#dresslily, #dresses, #dresslilyfashion, #newdresses"
+  - username: "pedromartins_insta"
     fullname: >-
-      Rita Neves
+      MENS FASHION STYLE
     bio: >-
-      Photography . Sometimes about everything. . Lisbon, Portugal. ritacruzneves@gmail.com . Misbehaved alter ego: @raw.eyes.of.rita . _rsa_minimal member
+      Follow for Styling Tips Fashion 🌍 - Citizen of the world 📍 - Lisbon based ✉️ - Collaborations
     location: "Portugal"
-    followers: 11175
-    engagement: 844
-    commentsToLikes: 0.085536
-    id: ck5qa50yoekqn0i11wudn2v9c
+    followers: 74193
+    engagement: 260
+    commentsToLikes: 0.179368
+    id: ck9hb1jjnezmj0j78ofy1vzmi
     verified: false
-    hashtags: "#ghostwork, #turismodocentro, #turismocentrodeportugal, #chegouotempo"
+    hashtags: ""
+  - username: "rodrigcnoronha"
+    fullname: >-
+      Rodrigo de Noronha
+    bio: >-
+      •Lisbon •Design, Communication & Marketing
+    location: "Portugal"
+    followers: 2498
+    engagement: 2104
+    commentsToLikes: 0.089851
+    id: ck9hcc28ikpeu0j78zgzzugdk
+    verified: false
+    hashtags: "#stayhome, #staysafe, #brunchalldayeveryday, #asos"
+  - username: "carlotasardinhaa"
+    fullname: >-
+      Carlota Sardinha
+    bio: >-
+      Lisbon Marketing & Digital Manager of @nyxcosmeticspt
+    location: "Portugal"
+    followers: 50327
+    engagement: 179
+    commentsToLikes: 0.085966
+    id: ck5ztf2km0abf0i14o6a8tsme
+    verified: false
+    hashtags: "#pub, #beecofriendly, #gogreen, #ethicalfashion"
+  - username: "inestakestheworld"
+    fullname: >-
+      INÊS | TRAVEL & PHOTOGRAPHY
+    bio: >-
+      ✈️ Travel Blogger ✈️ @ilovemychocolatebox code: INESTAKESTHEWORLD10 📍Portuguese girl based in Lisbon ⬇️ CHECK MY BLOG FOR MORE TRAVEL TIPS
+    location: "Portugal"
+    followers: 9620
+    engagement: 485
+    commentsToLikes: 0.085845
+    id: ck0vyou0h529o0i19ka8kor50
+    verified: false
+    hashtags: "#dametraveler, #portugaltravel, #sheisnotlost, #roamingwomen"
+  - username: "josempsousa"
+    fullname: >-
+      José Sousa
+    bio: >-
+      28 y.o | 173cm | 104kg From The Azores Islands 🌎 📌Lisbon, Portugal 🇵🇹 Medical Doctor💊💉🤓 Gym 💪🐻
+    location: "Portugal"
+    followers: 29642
+    engagement: 847
+    commentsToLikes: 0.013098
+    id: ckap8mhv4ozon0i787nefbvgy
+    verified: false
+    hashtags: ""
+  - username: "luispires2b"
+    fullname: >-
+      Luís Pires
+    bio: >-
+      •Benfica fanatic•Music addicted• •Based in Lisbon,Portugal📍 •Studio, Indoor and Outdoor photography for brands or regular customers
+    location: "Portugal"
+    followers: 11135
+    engagement: 409
+    commentsToLikes: 0.092677
+    id: ck0w452k0wun10i19s2xiq98s
+    verified: false
+    hashtags: ""
+  - username: "alicetrewinnard"
+    fullname: >-
+      Alice Trewinnard
+    bio: >-
+      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
+    location: "Portugal"
+    followers: 269425
+    engagement: 1129
+    commentsToLikes: 0.006114
+    id: ck134v13sybqz0i19a00owtxx
+    verified: true
+    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
+  - username: "pipa_sgomes"
+    fullname: >-
+      filipa gomes ❀
+    bio: >-
+      • portuguese girl • from Lisbon
+    location: "Portugal"
+    followers: 5703
+    engagement: 1070
+    commentsToLikes: 0.041176
+    id: ck8tba0amuvda0j78l9zojfus
+    verified: false
+    hashtags: ""
 ---

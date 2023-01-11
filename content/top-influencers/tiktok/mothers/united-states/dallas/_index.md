@@ -1,96 +1,72 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Dallas in 2023
+title: Top 10 Mothers TikTok Influencers In Dallas In 2023
 description: >-
-  Find top mothers TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #duet #funny #trump.
+  Find top mothers TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #duet #greenscreen.
 platform: TikTok
-hits: 7
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 7 TikTok influencers like this in Dallas, United States for you to pitch.
+hits: 4
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 4 TikTok influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "maddiepolansky19"
-    fullname: >-
-      Maddie 
-    bio: >-
-      snap: madison38711 happy vibes ;)
-    location: "United States"
-    followers: 8289
-    engagement: 1793
-    commentsToLikes: 0.027300
-    id: ckfo47aqo15wh0j23ezd90bfp
-    verified: false
-    hashtags: "#behappy, #smile, #chickfila, #foryou"
-  - username: "reneelwilliams3"
-    fullname: >-
-      Renee L Williams
-    bio: >-
-      Loving Daughter,Mother of 3 and Nurse no time for games, fake people or drama.
-    location: "United States"
-    followers: 16100
-    engagement: 2438
-    commentsToLikes: 0.087030
-    id: ckb93cgxrk7k10j239bk2l016
-    verified: false
-    hashtags: "#fyppage, #fypchallenge, #fyp, #pennsylvania"
   - username: "reddiele"
     fullname: >-
       reddiele
     bio: >-
       Good Vibes Only 💛 Burst Ambassador 🦷 Promo Code: HESK7D
     location: "United States"
-    followers: 74500
-    engagement: 1082
-    commentsToLikes: 0.036840
+    followers: 73900
+    engagement: 1134
+    commentsToLikes: 0.035683
     id: ck9n4bvdq4ald0j78xcie1cd2
     verified: false
-    hashtags: "#trump, #trump2020, #houston, #xyzbca"
-  - username: "briannahuckaby"
+    hashtags: "#houston, #fyi, #somebodysproblem, #trump2020"
+  - username: "soaringgoldens"
     fullname: >-
-      Brianna Huckaby
+      Soaring Golden‘s
     bio: >-
-      𝖇𝖗𝖎 🌻 • 𝕒𝕫 ☀️ • ②④ ♎️ • 𝓂𝒶𝓂𝓂𝒶 𝓉𝑜 𝓂𝒾𝒶 ❣️
+      A family with a lot of golden retrievers and 2 horses!
     location: "United States"
-    followers: 4820
-    engagement: 988
-    commentsToLikes: 0.019464
-    id: ckb9s7qkcpcx90j23nibqtm56
+    followers: 4607
+    engagement: 1233
+    commentsToLikes: 0.018329
+    id: cka0indo2ed4b0i78r4llc46n
     verified: false
-    hashtags: "#kid, #fyp, #xyzbca, #daughter"
-  - username: "mamak2_14"
-    fullname: >-
-      MamaK
-    bio: >-
-      Certified Recovery Coach Autistic❤️❤️ 5 yrs clean thecleancrew01@gmail.com
-    location: "United States"
-    followers: 262900
-    engagement: 1731
-    commentsToLikes: 0.036011
-    id: cka627tsuyq0y0i788sgu5kld
-    verified: false
-    hashtags: "#love, #duet, #addiction, #recovery"
+    hashtags: "#foryoupage, #golden, #viral, #love"
   - username: "jsbuilders_"
     fullname: >-
       Tony Suarez
     bio: >-
       DALLAS, TX. I build stuff out of wood and other projects. Follow me on IG
     location: "United States"
-    followers: 158800
-    engagement: 499
-    commentsToLikes: 0.019278
+    followers: 188300
+    engagement: 544
+    commentsToLikes: 0.024460
     id: ck81sb33frd580j7830kndxyz
     verified: false
-    hashtags: "#howto, #carpentry, #construction, #satisfying"
-  - username: "its_lil_lil"
+    hashtags: "#maternity, #homeprojects, #carpentry, #painting"
+  - username: "sunnyrayxo"
     fullname: >-
-      Lilia Chairez Rios
+      Sunny
     bio: >-
-      Austin, TX ❤️Tequila & Travels❤️ "I drink to make other people more interesting”
+      Shadowbanned..🥴 Cosplay n stuff Follow me on all my other social accounts⬇️
     location: "United States"
-    followers: 110900
-    engagement: 748
-    commentsToLikes: 0.026982
-    id: ckculwzrhhf990j23cn07xxce
+    followers: 1000000
+    engagement: 621
+    commentsToLikes: 0.016523
+    id: ck9pnndakffqx0j78qzji0ujv
+    verified: true
+    hashtags: "#cosplay, #newyearnewmio, #anime, #fyp"
+  - username: "kagonineko"
+    fullname: >-
+      Shavette Washington
+    bio: >-
+      DON'T SPAM LIKE level 27 mother blackcosplayerhere 18+ OR 21+ duets
+    location: "United States"
+    followers: 199800
+    engagement: 2451
+    commentsToLikes: 0.060815
+    id: ckail7094msgt0i78zholii6r
     verified: false
-    hashtags: "#mexico, #bartender, #didyouknow, #fyp"
+    hashtags: "#caincosplay, #quickbooksvictorypose, #cleargenius, #demonoc"
   - username: "jaymyst"
     fullname: >-
       JayMyst
@@ -102,29 +78,53 @@ profiles:
     commentsToLikes: 0.560262
     id: ckck5esowqb8l0j23sjrlaa7d
     verified: false
-    hashtags: "#duet, #dadsoftiktok, #tiktokfriends, #silly"
+    hashtags: "#sillyduets, #disney, #funnyduets, #funny"
   - username: "rnete"
     fullname: >-
       Renee
     bio: >-
       Wife and mother of two girls
     location: "United States"
-    followers: 7143
-    engagement: 3923
-    commentsToLikes: 0.232036
+    followers: 10400
+    engagement: 3862
+    commentsToLikes: 0.320502
     id: ckd1840uypkb50j23ixhnr14o
     verified: false
-    hashtags: "#fyp, #headcases, #tiktok, #comedy"
-  - username: "sammykk"
+    hashtags: "#funn, #tiktoker, #comedy, #fypsounds"
+  - username: "kissialot"
     fullname: >-
-      sammyk
+      Jasmond P. Kisses
     bio: >-
-      I’m your gay god-mother 🤙🏼 | 26 TikTok pls unshadowban me Follow @sammykklive
+      #TictokMama $Jazmondclemons Sagittarius gang Mother of four or 5 plus #Smoki
     location: "United States"
-    followers: 270600
-    engagement: 3225
-    commentsToLikes: 0.029807
-    id: ckamgxv43duom0i781dqo7mni
+    followers: 70600
+    engagement: 2514
+    commentsToLikes: 0.076222
+    id: ckan3ll1g5vg20i78amvycrq8
     verified: false
-    hashtags: "#biden2020, #story, #politics, #election"
+    hashtags: "#stitch, #80babies, #fyp, #greenscreen"
+  - username: "evelyn07060"
+    fullname: >-
+      EvelynF
+    bio: >-
+      I am a mother of 2. And the grandmother 2 beautiful women. I am #over70club.
+    location: "United States"
+    followers: 27800
+    engagement: 2331
+    commentsToLikes: 0.309366
+    id: ckbwg12b82aio0j232givmc97
+    verified: false
+    hashtags: "#iwannafeelwhatloveis, #mypride, #thestaplessingers, #fyp"
+  - username: "me_my_mental_self"
+    fullname: >-
+      Me̮̟͈̣̖̰̩̹͈̾ͨ̑͑n͉̠̙͉̗̺̋̋̔ͧ̊t̉̈́
+    bio: >-
+      mother of 3409 weebs ⚠️not taking requests⚠️ 🚫pls dont spam like🚫 her/she
+    location: "United States"
+    followers: 3406
+    engagement: 2312
+    commentsToLikes: 0.086705
+    id: ckd6wzujdtcyw0j23mjy04ehx
+    verified: false
+    hashtags: "#haikyuu, #weeb, #duet, #4upage"
 ---

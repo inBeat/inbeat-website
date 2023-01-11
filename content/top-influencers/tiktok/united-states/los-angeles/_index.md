@@ -1,96 +1,84 @@
 ---
-title: Top 10 TikTok Influencers In Los Angeles in 2023
+title: Top 10 TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #duet #foryou.
+  Find top TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #foryou #stitch #duet.
 platform: TikTok
-hits: 1198
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 1198 TikTok influencers like this in Los Angeles, United States for you to work with.
+hits: 1206
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 1206 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "eatitkatie"
-    fullname: >-
-      Eat It Katie!
-    bio: >-
-      DMs on IG! 💌⬆️ PO BOX 27024 Los Angeles, CA 90027 That lettuce girl 🥬
-    location: "United States"
-    followers: 1000000
-    engagement: 2172
-    commentsToLikes: 0.018603
-    id: ckd17pkm4p1yn0j2384ifc8mp
-    verified: true
-    hashtags: "#lettucegang, #tiktokpartner, #eatitkatie, #fyp"
-  - username: "aeraeubanks"
-    fullname: >-
-      AERA
-    bio: >-
-      Following back if you follow my insta!!👆 📍Los Angeles Makeup•Music•Dance🤍
-    location: "United States"
-    followers: 83800
-    engagement: 2437
-    commentsToLikes: 0.046740
-    id: ckbb268iisje30j23c19147g6
-    verified: false
-    hashtags: "#cloudydiffuser, #hoodbaby, #fyp, #foryou"
-  - username: "waltzb7"
-    fullname: >-
-      Walter Barrera
-    bio: >-
-      #Heartbeatz Los Angeles, CA International Choreographer Inst: Waltzb7 🏳️‍🌈 21+
-    location: "United States"
-    followers: 16700
-    engagement: 1949
-    commentsToLikes: 0.125651
-    id: ckbr93e2antvo0j23qz0cc0jj
-    verified: false
-    hashtags: "#duet, #lgbt, #fyp, #vote2020"
-  - username: "wasiclothing"
-    fullname: >-
-      Wasi Clothing
-    bio: >-
-      🇧🇴 Small biz based in Los Angeles! Click link to check out shop!
-    location: "United States"
-    followers: 75400
-    engagement: 2071
-    commentsToLikes: 0.038919
-    id: ckbf4mgp0t46m0j232lcn5438
-    verified: false
-    hashtags: "#familialatina, #fyp, #goodvibes, #dayinmylife"
-  - username: "tommydriscollofficial"
-    fullname: >-
-      Tommy Driscoll
-    bio: >-
-      •Los Angeles• #BLM Follow me I’ll spam your page! 🙏 @TommyDriscollOfficial
-    location: "United States"
-    followers: 128100
-    engagement: 2051
-    commentsToLikes: 0.028705
-    id: ck9m14bm2dt840j78v2g17wc7
-    verified: false
-    hashtags: "#fyp, #piano, #songwriting, #srat"
-  - username: "stuberryblue"
-    fullname: >-
-      stuberryblue
-    bio: >-
-      why’s that button still red? 🔼 Los Angeles 🏝 Welcome to the fam😁 👻: sturup1
-    location: "United States"
-    followers: 228400
-    engagement: 2696
-    commentsToLikes: 0.024653
-    id: ckdnae8gxg2ya0j23y85gsrvo
-    verified: false
-    hashtags: "#fyp, #dance, #duet, #welldone"
   - username: "fairyjew"
     fullname: >-
       celine !!! <3333 ♐️🌈
     bio: >-
-      sagittarius dyk e XDDD she/her los angeles / germany 🧚🏻🍭🌟🌈🔯
+      sagittarius autistic dyk e XDDD she/her los angeles / germany 🧚🏻🍭🌟🌈🔯
     location: "United States"
-    followers: 6413
-    engagement: 1754
-    commentsToLikes: 0.148099
+    followers: 6647
+    engagement: 1961
+    commentsToLikes: 0.180833
     id: ckdn2sl3gdlz40j23gsq4j7p9
     verified: false
-    hashtags: "#wlw, #foryou, #duet, #fyp"
+    hashtags: "#duet, #foryou, #alt, #fyp"
+  - username: "waltzb7"
+    fullname: >-
+      Waltz B.
+    bio: >-
+      SC: Waltzb7 Los Angeles, CA International Choreographer Inst: Waltzb7 🏳️‍🌈 31
+    location: "United States"
+    followers: 20300
+    engagement: 1871
+    commentsToLikes: 0.109629
+    id: ckbr93e2antvo0j23qz0cc0jj
+    verified: false
+    hashtags: "#latine, #fyp, #latino, #mexican"
+  - username: "nathanhurdcomedy"
+    fullname: >-
+      Nathan Hurd
+    bio: >-
+      Actor/Comedian P.O Box: 4470 W Sunset Blvd #372 Los Angeles CA 90027
+    location: "United States"
+    followers: 1700000
+    engagement: 1451
+    commentsToLikes: 0.022426
+    id: ck9e0flve5u4m0j78hflwv6xu
+    verified: false
+    hashtags: "#laugh, #fyp, #comedy, #jokes"
+  - username: "rowanxrice"
+    fullname: >-
+      Rowan X Rice
+    bio: >-
+      23 CEO of Commenting FIRST Twitter: @rowanxrice Los Angeles 🌈 She/Her
+    location: "United States"
+    followers: 438000
+    engagement: 1879
+    commentsToLikes: 0.025759
+    id: ckbf7oma6xpbv0j2358a1vtdq
+    verified: false
+    hashtags: "#duet, #foryou, #fyp, #snowstorm"
+  - username: "danielgothits"
+    fullname: >-
+      ⚽️ Daniel Got Hits
+    bio: >-
+      SOCCER GANGGG⚽️ we ugly af!! 😍 📍Los Angeles
+    location: "United States"
+    followers: 322300
+    engagement: 1634
+    commentsToLikes: 0.051513
+    id: ckbqq869qb5st0j23riiw0pyq
+    verified: true
+    hashtags: "#soccergirl, #fyp, #soccer, #fifa21"
+  - username: "jonathangio"
+    fullname: >-
+      Jonathan Gio 
+    bio: >-
+      social media personality and journalist in los angeles all socials: jonathangioo
+    location: "United States"
+    followers: 229300
+    engagement: 1575
+    commentsToLikes: 0.079888
+    id: ck933w0crpy8y0j789zq9dvey
+    verified: false
+    hashtags: "#foryoupage, #foryou, #tiktok, #love"
   - username: "dakotarescuedog"
     fullname: >-
       JDog Rescue
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.027420
     id: ck9kb9s3tk9wq0j78734p3uh7
     verified: false
-    hashtags: "#shelterpuppies, #rescuepitbull, #dogadoption, #shelterdog"
-  - username: "nathanhurdcomedy"
+    hashtags: "#shelterpuppies, #shelterdog, #doglover, #rescuepitbull"
+  - username: "hekinhenry"
     fullname: >-
-      Nathan Hurd
+      Henry the Aussie
     bio: >-
-      Actor/Comedian P.O. Box 29013 Los Angeles CA 90029 $nathanhurdcomedy
+      👋 g’day mate, I’m Henry! 🐶 🎂 2/17/19 📍 Los Angeles, CA
     location: "United States"
-    followers: 631100
-    engagement: 1832
-    commentsToLikes: 0.028473
-    id: ck9e0flve5u4m0j78hflwv6xu
+    followers: 96200
+    engagement: 2746
+    commentsToLikes: 0.055568
+    id: ck92t5ijvgdau0j789gch9gr7
     verified: false
-    hashtags: "#funny, #comedian, #comedy, #laugh"
-  - username: "matthewnichols02"
+    hashtags: "#hekinhenry, #animalsoftiktok, #viral, #puppycheck"
+  - username: "stuberryblue"
     fullname: >-
-      Matthew Nichols 
+      stuberryblue
     bio: >-
-      5’5 KING 👑 18🇺🇸 Los Angeles📍 Good Vibes🕺🏻 matthewnichols025@gmail.com
+      Los Angeles snap-sturup1
     location: "United States"
-    followers: 1100000
-    engagement: 2262
-    commentsToLikes: 0.013806
-    id: ck83wwxlommxn0j78ej1fyic7
+    followers: 279500
+    engagement: 2407
+    commentsToLikes: 0.019976
+    id: ckdnae8gxg2ya0j23y85gsrvo
     verified: false
-    hashtags: ""
+    hashtags: "#fyp, #xyzabc, #duet, #xyzbca"
+  - username: "theleewithnoname"
+    fullname: >-
+      TheLeeWithNoName
+    bio: >-
+      He/Him Lee @ PO BOX 29187 Los Angeles ca, 90029
+    location: "United States"
+    followers: 317700
+    engagement: 2224
+    commentsToLikes: 0.073884
+    id: ckavsa12d4oi40j23wy8jqbmy
+    verified: false
+    hashtags: "#trump, #foryou, #stitch, #politics"
 ---

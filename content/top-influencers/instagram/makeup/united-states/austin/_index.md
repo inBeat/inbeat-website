@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Austin in 2023
+title: Top 10 Makeup Instagram Influencers In Austin In 2023
 description: >-
-  Find top makeup Instagram influencers in Austin in 2023. Most popular hashtags: #makeup #beauty #austin #picoftheday.
+  Find top makeup Instagram influencers in Austin in 2023. Most popular hashtags: #makeup #beauty #fashion #halloween.
 platform: Instagram
-hits: 158
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 158 Instagram influencers like this in Austin, United States for you to work with.
+hits: 90
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 90 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "lovelyysamantha"
+    fullname: >-
+      Samantha Nguyen
+    bio: >-
+      Austin, Tx Don’t be the reason you don’t reach your goals ✨ Family 💕
+    location: "United States"
+    followers: 8354
+    engagement: 524
+    commentsToLikes: 0.051323
+    id: ck5pzv63a2wlv0i119dagil0g
+    verified: false
+    hashtags: "#makeuptutorial, #makeup, #makeuplooks, #austinmakeupartist"
   - username: "__hailey.m"
     fullname: >-
       HAILEY
     bio: >-
-      ★ OK ⇢ CO ★ cling to what is good // romans 12:9🌻🌟💛🌞 ★ @glo.and.co
+      ★ Stillwater, OK ★ cling to what is good // romans 12:9🌻🌟💛🌞 ★ @glo.and.co
     location: "United States"
-    followers: 5068
-    engagement: 1810
-    commentsToLikes: 0.017915
+    followers: 4948
+    engagement: 1740
+    commentsToLikes: 0.015181
     id: ck6tkxy1a5mes0j71kx9m7u1q
     verified: false
     hashtags: ""
-  - username: "josieortegon"
-    fullname: >-
-      Josie Ortegon
-    bio: >-
-      Storyteller | Content Creator 🎥🎬📱 📍 Austin, Texas 📩 josieortegon09@gmail.com
-    location: "United States"
-    followers: 2608
-    engagement: 1137
-    commentsToLikes: 0.056231
-    id: ckaozpgsamtqz0i784mnqnbfo
-    verified: false
-    hashtags: "#elpaso, #fitness, #austin, #complimentary"
-  - username: "mithmagazine"
-    fullname: >-
-      Fashion & Entertainment
-    bio: >-
-      Modest Is The Hottest 💼Print & Digital 💄EIC: @hollyglasser 💌Submit@mithmagazine.com 📍LA-based, Worldwide Coverage
-    location: "United States"
-    followers: 16316
-    engagement: 353
-    commentsToLikes: 0.159540
-    id: ck14i64wbdtxg0i19u3s99lyc
-    verified: false
-    hashtags: "#fashionmagazine, #editorial, #fashionmodel, #nyc"
-  - username: "shotsbystoney"
-    fullname: >-
-      Shots by Stoney
-    bio: >-
-      📸 Beauty & Fashion Photographer 📩 stoney@shotsbystoney.com 📍Texas
-    location: "United States"
-    followers: 2522
-    engagement: 1065
-    commentsToLikes: 0.085313
-    id: ck14j9ipfj8il0i192q4opkfr
-    verified: false
-    hashtags: "#laphotographers, #beautyphoto, #houstonphotographer, #atxphotographer"
   - username: "john_rozco"
     fullname: >-
       John Rozco
     bio: >-
-      I crash Pampered Chef parties😭 . Alegre Media Group . Sony FS7 II / A7R IV . Commercial / Film on Vimeo
+      
     location: "United States"
-    followers: 6999
-    engagement: 800
-    commentsToLikes: 0.113993
+    followers: 6542
+    engagement: 858
+    commentsToLikes: 0.112356
     id: ck55jy586y1hy0i11g1t7njjo
     verified: false
-    hashtags: "#texasphotographer, #ourportraitsdays, #sonyimages, #fashion"
-  - username: "kaitnicholexo"
+    hashtags: "#theportraitpr0ject, #sanantoniomodel, #sonya7riv, #portraitvisuals"
+  - username: "edelinfalcon"
     fullname: >-
-      Kait Nichole
+      Edelin Y Falcon
     bio: >-
-      ☁️ YOUTUBER ✨ 300k+ ☁️ PR/Business: TheHighLite@gmail.com ☁️ Follow my Family IG: @kaitnicholexolife ☁️ Watch my newest YouTube Video👇🏼
+      TAMUK’24 ✞ Pr/Collab’s - email or DM 💌
     location: "United States"
-    followers: 75298
-    engagement: 267
-    commentsToLikes: 0.043327
-    id: ck15si6h8d4pp0i1981pfjuod
+    followers: 4421
+    engagement: 1118
+    commentsToLikes: 0.084855
+    id: ck5zpeizysj2a0i14piotuf8t
     verified: false
-    hashtags: "#benefitbrows, #halloween2020, #halloweenmakeupideas, #halloweenmakeup"
-  - username: "elevatehair"
+    hashtags: "#love, #texas, #likeforlikes, #austinblogger"
+  - username: "bribri.tx"
     fullname: >-
-      Hair Party / Tools / Media
+      BRI🦋BRI
     bio: >-
-      Elevate TV Episode 1 November 6th 10 pm EST 📺🔊‼️ Go to elevatehair.com DJ starts at 8:30pm Only 500 spots first to login, first to party🔊
+      HI, YOU ARE BEAUTIFUL:) Virgo • Makeup • Aspiring model • Content creator Austin, Tx / @brithesweetie business: bri.business512@gmail.com
     location: "United States"
-    followers: 120768
-    engagement: 123
-    commentsToLikes: 0.006844
-    id: ck8t5cfcz9mtv0j78kfpqs485
+    followers: 68819
+    engagement: 2320
+    commentsToLikes: 0.004500
+    id: ck6u66rgoduia0j71l3vezz2w
     verified: false
-    hashtags: "#mullets, #mulletsofinstagram, #pixiecut, #mulletlife"
+    hashtags: "#euphoriamakeup, #suvabeauty, #revlon, #aestheticmakeup"
+  - username: "breluxe"
+    fullname: >-
+      BreLuxe Beauty - Hair & Makeup
+    bio: >-
+      Award Winning🏆Beauty Pros! We Create Seamless Beauty Experiences for Luxury Weddings/Events!👰🤵🌈 @weddingbeautybar @weddingdapperbar CA,TX,FL,NY+beyond
+    location: "United States"
+    followers: 49935
+    engagement: 118
+    commentsToLikes: 0.013768
+    id: ck0w5yr7p62xd0i19gu2o1af5
+    verified: false
+    hashtags: "#beauty, #cleanmakeup, #instamood, #brentwoodmakeupartist"
+  - username: "mithmagazine"
+    fullname: >-
+      Fashion & Entertainment
+    bio: >-
+      Modest Is The Hottest 💼Print & Digital 💄EIC: @hollyglasser 💌submit@mithmagazine.com 📍LA/NYC-based, Worldwide Coverage
+    location: "United States"
+    followers: 16027
+    engagement: 227
+    commentsToLikes: 0.179856
+    id: ck14i64wbdtxg0i19u3s99lyc
+    verified: false
+    hashtags: "#fashionmodel, #editorial, #fashioneditorial, #fashionmagazine"
+  - username: "mr.fabulous"
+    fullname: >-
+      
+    bio: >-
+      BEAUTY • STYLE & BEING FABULOUS✨ ❤️YouTube | Mr.fabulous 🔻Watch my latest video!
+    location: "United States"
+    followers: 15647
+    engagement: 304
+    commentsToLikes: 0.060247
+    id: ck6tx7vy9wbp10j71twlkytse
+    verified: false
+    hashtags: "#halloween, #louisvuitton, #influencer, #fentybeauty"
   - username: "bat.barbie"
     fullname: >-
       Britt Gorman
     bio: >-
-      Look like a Slytherin, love like a Hufflepuff.🦇💖 Temp tattoo princess @seventhskin in Austin, TX | Mermaids | Illustration | Disney | Makeup
+      Look like a Slytherin, love like a Hufflepuff.🦇💖 Austin, TX | Mermaids | Illustration | Paintings | Disney | Makeup
     location: "United States"
-    followers: 14245
-    engagement: 745
-    commentsToLikes: 0.025479
+    followers: 14502
+    engagement: 784
+    commentsToLikes: 0.026081
     id: ck5bvsamtkb420i11gxx478eo
     verified: false
-    hashtags: "#painting, #acrylic, #art, #originalart"
-  - username: "jennamasar"
+    hashtags: "#batbarbie, #disneyedit, #halloween, #instaart"
+  - username: "douginglish"
     fullname: >-
-      j e n n a m a s a r
+      Doug Inglish
     bio: >-
-      Detroit—>📍Scottsdale Follower ✞ Healthy Hair & Skin Advocate ♥ Wanderer ✈ #detroit #scottsdale #beauty #vegan #skincare #wellness ❥what I do ↓
+      Photographer @douginglish #douginglish
     location: "United States"
-    followers: 7512
-    engagement: 973
-    commentsToLikes: 0.113646
-    id: ckaozs50jn5xc0i7844bpf7zw
+    followers: 26955
+    engagement: 367
+    commentsToLikes: 0.027602
+    id: ck0tyblh4mb1c0i190uswmru5
     verified: false
-    hashtags: "#tempe, #nature, #oldtownscottsdale, #austintexas"
-  - username: "damaris.c.stark"
-    fullname: >-
-      damaris
-    bio: >-
-      •lover of all things health + beauty •pr/collabs: starkdamaris@gmail.com
-    location: "United States"
-    followers: 3140
-    engagement: 1007
-    commentsToLikes: 0.141632
-    id: ck5hi7zdec4cp0i11mv05bz15
-    verified: false
-    hashtags: "#makeuptutorial, #livelovelayer, #brunette, #gorjanagirl"
+    hashtags: "#pentax67, #film, #fb, #genv"
 ---

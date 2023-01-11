@@ -1,84 +1,60 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Toronto in 2023
+title: Top 10 Architecture Instagram Influencers In Toronto In 2023
 description: >-
-  Find top architecture Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #architecture #canada #interiordesign.
+  Find top architecture Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #architecture #canada #explorecanada.
 platform: Instagram
-hits: 55
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 55 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 22
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "peccapeccapecca"
+  - username: "wadoodbhatti"
     fullname: >-
-      Chubgirl
+      Wadood Bhatti
     bio: >-
-      Hi, I'm Pecca. I draw things. I make things. Webcomic. @hubman.chubgirl Masters of Architecture. Toronto, ON ♥️ @chrischantor
+      All photos are mine. Repost with credit only. 📸 XT2 & 📱Google Pixel 4XL Hubby: @hameedbhatti62 Son @moezb Checkout our car channel on YouTube.
     location: "Canada"
-    followers: 147210
-    engagement: 2581
-    commentsToLikes: 0.005989
-    id: ckaozb83ul3qg0i788zukjgwg
+    followers: 4861
+    engagement: 1548
+    commentsToLikes: 0.199192
+    id: ck0u9ij7ca05j0i19jocaj5s4
     verified: false
-    hashtags: "#blackouttuesday, #sibling, #happysiblingday, #birthdaypost"
-  - username: "jtfhomes"
+    hashtags: "#themoon, #streetgrammers, #torontoison, #fatalframes"
+  - username: "richardwengle"
     fullname: >-
-      JTF Homes
+      Richard Wengle
     bio: >-
-      "Making Your Dream Home A Reality" Building Custom Homes Across Toronto and the GTA since 1985 🇨🇦
+      Architect based in Toronto
     location: "Canada"
-    followers: 7562
-    engagement: 539
-    commentsToLikes: 0.033050
-    id: ck5q341rxj46y0i11kd44wsub
+    followers: 13044
+    engagement: 580
+    commentsToLikes: 0.037264
+    id: ck15tenl2hpg50i19yyentqdf
     verified: false
-    hashtags: "#jtfhomes, #renovation, #interiordesign, #architecture"
-  - username: "torontojourney416"
+    hashtags: "#lifestyle, #architecturephotography, #design, #modern"
+  - username: "westbankcorp"
     fullname: >-
-      Toronto Journey 416
+      Westbank
     bio: >-
-      Past and present theatres, hotels, storefronts, churches, restaurants, taverns, attractions, buildings, parks & murals. They all have history.
+      Dedicated to the creation of beauty, integration of art and architecture #buildingartistry #fightforbeauty #tokyo #vancouver #toronto #seattle
     location: "Canada"
-    followers: 15250
-    engagement: 629
-    commentsToLikes: 0.047631
-    id: ckap2hgmhyuk00i788u84kwok
+    followers: 30880
+    engagement: 77
+    commentsToLikes: 0.016027
+    id: ck6tph9exjuxy0j719bg2fr55
     verified: false
-    hashtags: "#6ixwalks, #historictoronto, #torontobuildings, #toronto"
-  - username: "rahuul_s"
+    hashtags: "#design, #vancouver, #architecture, #vancouverhouse"
+  - username: "kyleandcodesign"
     fullname: >-
-      
+      Kyle & Co. Design Studio
     bio: >-
-      Toronto Chasing light
+      Servicing Edmonton,AB 📍 Full Service Design Studio www.kyleandcodesign.com
     location: "Canada"
-    followers: 5635
-    engagement: 1616
-    commentsToLikes: 0.117419
-    id: ckaoqu3fdkehw0i78j1vgraho
+    followers: 6323
+    engagement: 683
+    commentsToLikes: 0.057964
+    id: ckap8xwhsqd530i78cdwiorsp
     verified: false
-    hashtags: "#dailyhivetoronto, #lovetdot, #canadaparadise, #imagesofcanada"
-  - username: "vishakha_sodha"
-    fullname: >-
-      Vishakha Sodha Khakhar
-    bio: >-
-      📍Canada 5ft short, I create blogs & podcasts! Shop @vishakha_closet Founding member @thenextgenartists Partnerships: connect@vishakhasodha.com
-    location: "Canada"
-    followers: 45477
-    engagement: 173
-    commentsToLikes: 0.340166
-    id: ck5q4xd6uqlz90i11knuentpj
-    verified: false
-    hashtags: "#livingroom, #travelwithus, #canadagiveaway, #couplegoals"
-  - username: "roderikopop"
-    fullname: >-
-      Roderiko Pop
-    bio: >-
-      #Traveler #Boy 🎠⛵✈🚀 Wanderlust, relentlessly craving. 😜 Pictures by me without flash 📸
-    location: "Canada"
-    followers: 22616
-    engagement: 452
-    commentsToLikes: 0.030100
-    id: ckap2r4o8zyh40i78kd9g0zv6
-    verified: false
-    hashtags: "#male, #architecture, #unique, #toronto"
+    hashtags: "#decoration, #designinspo, #yegrealestate, #yeggers"
   - username: "gtahouses4sale"
     fullname: >-
       Toronto & GTA Listings
@@ -90,41 +66,65 @@ profiles:
     commentsToLikes: 0.009099
     id: ck0uefbo4l72d0i1932ljomzp
     verified: false
-    hashtags: "#vaughanrealestate, #luxuryliving, #gtahouses4sale, #investment"
-  - username: "stallonemedia"
+    hashtags: "#luxurylifestyle, #interiordesign, #homeinspo, #broker"
+  - username: "marc_koegel"
     fullname: >-
-      Stallone Media Group
+      Marc Koegel
     bio: >-
-      Matthew Stallone 🇨🇦 📸 Photos 🎥 Videos 🏡 iGUIDE 💫 DRONE Real Estate Marketing Vaughan - Toronto - GTA 905-326-3300 x 1 ONE CALL WE DO, IT ALL
+      B+W Photographer using a Phase One Achromatic. I teach online photo courses and run workshops and photo tours. To find me online, start here:
     location: "Canada"
-    followers: 71921
-    engagement: 91
-    commentsToLikes: 0.036483
-    id: ck5heontmu04f0i113belgvr5
+    followers: 24883
+    engagement: 359
+    commentsToLikes: 0.038286
+    id: ck5hfzd1503oe0i11n8a0hcfv
     verified: false
-    hashtags: "#propertyforsale, #vaughanrealestate, #stallonemedia, #property"
+    hashtags: "#phaseonephoto, #blackandwhite, #harmonyoflight, #mediumformatmag"
   - username: "creativemaazk"
     fullname: >-
       Maaz Khan
     bio: >-
-      26|Filmmaker|Photographer|Content Creator| Wedding Photographer & Videographer 🎥📸 📍Toronto
+      26|Filmmaker|Photographer|Cinematographer| 🎥📸 TIFF & IFFSA Screened Films 📍Toronto
     location: "Canada"
-    followers: 5965
-    engagement: 649
-    commentsToLikes: 0.120947
+    followers: 6096
+    engagement: 812
+    commentsToLikes: 0.121100
     id: ck6u9usmtzsgq0j71sc5a6hl8
     verified: false
-    hashtags: "#fujifilm, #canada, #explorecanada, #ourplanetdaily"
-  - username: "adel.farid3"
+    hashtags: "#travelblogger, #canada, #lovetoronto, #fujifilm"
+  - username: "theopenworkshop"
     fullname: >-
-      Adel Farid
+      THE OPEN WORKSHOP
     bio: >-
-      Toronto. An environmental scientist with a camera 📷. Travel Addict 🚕✈️. My own photos ©. Contact: adelfaridk@gmail.com
+      Architecture x Territorial Environment San Francisco + Toronto Registered Architect in California 🇺🇸 & Ontario 🇨🇦 📖 👇🏽
     location: "Canada"
-    followers: 2753
-    engagement: 1377
-    commentsToLikes: 0.093556
-    id: ckaowa18q80ct0i781uep48ck
+    followers: 28091
+    engagement: 155
+    commentsToLikes: 0.008311
+    id: ckaov30re2wrr0i78193umh8i
     verified: false
-    hashtags: "#algonquinprovincialpark, #travelphotography, #citykillerz, #visuals"
+    hashtags: "#ccarts, #commoning, #ccaarchitecture, #biennalearchitettura2021"
+  - username: "sidafz"
+    fullname: >-
+      Sidrah | Toronto Blogger
+    bio: >-
+      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
+    location: "Canada"
+    followers: 13878
+    engagement: 115
+    commentsToLikes: 0.669998
+    id: cks8aqhhiupz50j23q90dq3w1
+    verified: false
+    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+  - username: "irisy_8"
+    fullname: >-
+      Iris | Toronto Photographer
+    bio: >-
+      Exploring Toronto through my lens. @torontopixel @city__features #exploretoronto #shotbymi Live. Laugh. Love. 📷🐰 DM for inquiries.
+    location: "Canada"
+    followers: 9148
+    engagement: 3761
+    commentsToLikes: 0.148099
+    id: ck13976vqjvm60i19us2bl17s
+    verified: false
+    hashtags: "#streetleaks, #torontoclx, #creatingfromhome, #city"
 ---

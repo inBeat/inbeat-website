@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In United States in 2023
+title: Top 10 Skincare TikTok Influencers In United States In 2023
 description: >-
-  Find top skincare TikTok influencers in United States in 2023. Most popular hashtags: #skincare #fyp #aesthetic #grwm.
+  Find top skincare TikTok influencers in United States in 2023. Most popular hashtags: #duet #skincare #makeup #ootd.
 platform: TikTok
-hits: 2682
+hits: 3615
 text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 2682 TikTok influencers like this in United States for you to connect with.
+text_bottom: Our platform has 3615 TikTok influencers like this in United States for you to connect with.
 profiles:
-  - username: "skinkick"
-    fullname: >-
-      SkinKick
-    bio: >-
-      Clean + Natural Skincare @target @macys @ulta
-    location: "United States"
-    followers: 17400
-    engagement: 2792
-    commentsToLikes: 0.103643
-    id: ckbbvssj9j3cp0j23bd8px10x
-    verified: false
-    hashtags: "#skinkicklove, #asthetics, #vsco, #skincare"
-  - username: "laynes.life"
-    fullname: >-
-      ✰ layne ✰
-    bio: >-
-      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
-    location: "United States"
-    followers: 42400
-    engagement: 2550
-    commentsToLikes: 0.071745
-    id: ckfplcec901cu0j23yd02dkww
-    verified: false
-    hashtags: "#closeup, #xyzbca, #fall, #fyp"
-  - username: "jc.dombrowski"
-    fullname: >-
-      J.C. Dombrowski
-    bio: >-
-      💦Cornell23 MarineBio Student🧬 🇵🇭Honest Skincare🏳️‍🌈 FakeNews-phobic 💅🏼
-    location: "United States"
-    followers: 2900000
-    engagement: 2574
-    commentsToLikes: 0.013173
-    id: ck80obynrgodq0j786z4nwcq0
-    verified: true
-    hashtags: "#skincareroutine, #tiktokpartner, #edutok, #election"
-  - username: "bliss"
-    fullname: >-
-      Bliss
-    bio: >-
-      ✨Clean, Cruelty-Free Skincare Shop: @target @walmart @ultabeauty @cvs @walgreens
-    location: "United States"
-    followers: 85400
-    engagement: 2014
-    commentsToLikes: 0.030622
-    id: ck8zb72ow4e090j78e2bos8cg
-    verified: true
-    hashtags: "#oddlysatisfying, #skincare, #aesthetic, #thisisbliss"
   - username: "allthingscloseup"
     fullname: >-
       <33
     bio: >-
       closeups + skincare biz: allthingscloseup@gmail.com backup @.allthingscloseup :)
     location: "United States"
-    followers: 2874
-    engagement: 3020
-    commentsToLikes: 0.158353
+    followers: 2802
+    engagement: 2970
+    commentsToLikes: 0.151081
     id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#skincare, #upclose, #routine, #aesthetic"
-  - username: "kidskinusa"
+    hashtags: "#grwm, #upclose, #closeups, #aesthetic"
+  - username: "jc.dombrowski"
     fullname: >-
-      Kidskin
+      J.C. Dombrowski
     bio: >-
-      Skincare line for pre-teens and teens Official account 💙🤍
+      Cornell Marine Bio Science + Skincare 🇵🇭🏳️‍🌈 Follow my insta ❤️
     location: "United States"
-    followers: 14900
-    engagement: 2791
-    commentsToLikes: 0.156769
-    id: ck933afl0n66k0j78usl1zbsj
-    verified: false
-    hashtags: "#kidskin, #hyram, #skincare, #grwm"
-  - username: "vicas.lifestyle"
+    followers: 2800000
+    engagement: 2151
+    commentsToLikes: 0.010895
+    id: ck80obynrgodq0j786z4nwcq0
+    verified: true
+    hashtags: "#fyp, #scary, #ocean, #edutok"
+  - username: "avecnou"
     fullname: >-
-      V i c a
+      Minou
     bio: >-
-      🌱skincare Finatticz🏹 📧PR/business email⬇️
+      Fashion • Skincare • Lifestyle Follow me on Instagram for more content
     location: "United States"
-    followers: 85600
-    engagement: 2197
-    commentsToLikes: 0.047920
-    id: ckcj5siym5wai0j23ftwpnzbc
+    followers: 2587
+    engagement: 1396
+    commentsToLikes: 0.151162
+    id: ckbfflxyvae6l0j23v9fyz53x
     verified: false
-    hashtags: "#roommakeover, #indie, #expressieyourself, #brandymelville"
-  - username: "realtortodd"
+    hashtags: "#skincareroutine, #ootd, #makeuptutorial, #makeuptips"
+  - username: "seechelleflow"
     fullname: >-
-      @realtortodd
+      Lynn
     bio: >-
-      Mildly psychotic, somewhat enjoyable. 🏳️‍🌈 👇🏻 Makeup and skincare 👇🏻
+      #Auntie #BusinessOwner #Conversationalist #SkincareExpert #Herbalist #Entrepre
     location: "United States"
-    followers: 157300
-    engagement: 1312
-    commentsToLikes: 0.077319
-    id: ckafudggn9zkr0i78xk3scoxi
+    followers: 21500
+    engagement: 1528
+    commentsToLikes: 0.083258
+    id: ckbktjkn4orfp0j23nly8j53s
     verified: false
-    hashtags: "#dorothy, #tiktok, #fyp, #lipsync"
+    hashtags: "#menandwomen, #thingswomennevertellmen, #anxiety, #relationships"
+  - username: "twinmomplusone26"
+    fullname: >-
+      Catherine Wade
+    bio: >-
+      26, Wife, Mom of 3, Seint Beauty, Pomifera skincare
+    location: "United States"
+    followers: 18800
+    engagement: 1013
+    commentsToLikes: 0.050151
+    id: ckcdwfcsbfn0n0j2360724tmg
+    verified: false
+    hashtags: "#beforeandafter, #seint, #hubby, #hotmessmom"
+  - username: "taylercmone"
+    fullname: >-
+      I’m BlackQueenC
+    bio: >-
+      Fashion • Hair • Skincare DMV💕
+    location: "United States"
+    followers: 60200
+    engagement: 1581
+    commentsToLikes: 0.076720
+    id: ck92xai6sxwye0j787t00wjw0
+    verified: false
+    hashtags: "#headbandwig, #naturalhair, #naturalhairstyles, #foryou"
   - username: "idewcare"
     fullname: >-
       I Dew Care
     bio: >-
-      CEO of Seriously Fun Skincare! 😜 Available @amazon + @ultabeauty + @target.com✨
+      CEO of Seriously Fun Skincare! 😜 Available @amazon + @ultabeauty + @target.com
     location: "United States"
-    followers: 411700
-    engagement: 2346
-    commentsToLikes: 0.011462
+    followers: 433900
+    engagement: 2053
+    commentsToLikes: 0.011121
     id: ck8hp39u4xu430j78n2c207u3
     verified: true
-    hashtags: "#ulta, #skincare, #idewcare, #kbeauty"
-  - username: "skincarebyjoshua"
+    hashtags: "#skincare101, #asmr, #closeup, #ulta"
+  - username: "morgan__jane"
     fullname: >-
-      joshua dinh : )
+      MJ
     bio: >-
-      🧴 skincare junkie 🧼 ⬇️ Business/PR Email: ⬇️ skincarebyjoshua@gmail.com 📧
+      19 | Living in So Cal Probably talking about Jesus or skincare 💚
     location: "United States"
-    followers: 12400
-    engagement: 2456
-    commentsToLikes: 0.059118
-    id: ckcva67asr5120j23tjili7v1
+    followers: 15500
+    engagement: 1566
+    commentsToLikes: 0.044240
+    id: ckc3fjtrv1ogi0j23k2ku35t7
     verified: false
-    hashtags: "#xyzbca, #pr, #skincaretiktok, #treatyourself"
+    hashtags: "#duet, #fyp, #marriage, #foryoupage"
+  - username: "lipstickittty"
+    fullname: >-
+      chica picante
+    bio: >-
+      cruelty-free skincare 🤝 random 💩 🔮♎️🇲🇽🌱 🌴LA🌴 lipstickittty@outlook.com
+    location: "United States"
+    followers: 49600
+    engagement: 1058
+    commentsToLikes: 0.038757
+    id: ckbf1csw4nf6p0j23ih0cto3m
+    verified: false
+    hashtags: "#spfeveryday, #tiktokggt, #skiptherinse, #doritosduetroulette"
+  - username: "joshpusateri"
+    fullname: >-
+      Josh Pusateri
+    bio: >-
+      Just Being Me & Skincare ✨ Clear Start Code: JOSHUAP10 Socials Below⬇️
+    location: "United States"
+    followers: 283300
+    engagement: 1615
+    commentsToLikes: 0.020075
+    id: ck9pn1oq4cds00j788y70qerv
+    verified: false
+    hashtags: "#duet, #colorcustomizer, #greenscreen, #sponsored"
 ---

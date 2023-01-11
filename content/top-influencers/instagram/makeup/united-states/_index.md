@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In United States in 2023
+title: Top 10 Makeup Instagram Influencers In United States In 2023
 description: >-
-  Find top makeup Instagram influencers in United States in 2023. Most popular hashtags: #makeup #wakeupandmakeup #makeuptutorial #tiktok.
+  Find top makeup Instagram influencers in United States in 2023. Most popular hashtags: #transformation #trending #viral.
 platform: Instagram
-hits: 13024
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 13024 Instagram influencers like this in United States for you to connect with.
+hits: 18385
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 18385 Instagram influencers like this in United States for you to connect with.
 profiles:
-  - username: "yanakatori"
+  - username: "baileysarian"
     fullname: >-
-      
+      Bailey Sarian  🥀
     bio: >-
-      makeup
+      Ms. Murder, Mystery, & Makeup • Dark History • 👇🏼 * New Video * & My Social Links :
     location: "United States"
-    followers: 17294
-    engagement: 1517
-    commentsToLikes: 0.021405
-    id: ck15skyffdj6r0i19f0tqz5ht
+    followers: 2984315
+    engagement: 663
+    commentsToLikes: 0.007988
+    id: ck0tu62zw5sxv0i19qevjyufa
     verified: false
-    hashtags: "#healthy, #naturalhairdreams, #explore, #pictorial"
-  - username: "viqsv_"
+    hashtags: ""
+  - username: "vanessa_gyimah"
     fullname: >-
-      Wiktoria Biernacka💄MAKEUP
+      Vanessa | Beauty Influencer 🇬🇭🇺🇸
     bio: >-
-      💄 makeup lover 👩🏻‍🎓 sociology student 🇵🇱 19🎂 📥 collab&pr: DM/📩 wiktoria-biernacka@o2.pl
+      💄 Published Pro Makeup Artist 📧 : vanessagyimah@a3artistsagency.com
     location: "United States"
-    followers: 4025
-    engagement: 2232
-    commentsToLikes: 0.261518
-    id: ck5zo0qw2piu20i14tr81zkmb
+    followers: 456301
+    engagement: 975
+    commentsToLikes: 0.010222
+    id: ck0tzwjz8rqss0i19txvjjzwi
     verified: false
-    hashtags: "#muasfeaturing, #glow, #qualitynewbies, #perfectbrows"
-  - username: "keoshanikkya"
+    hashtags: "#fallmakeup, #igreels, #makeuplooks, #juviasplacepartner"
+  - username: "frishtag_"
     fullname: >-
-      Keosha Parks🌻🖍
+      Frishta G
     bio: >-
-      🖍#CrayonCutie ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💄Makeup 💇🏽‍♀️Natural Hair⠀⠀⠀ 📍North Carolina Clients @beatby_kp Paid Promo/PR/Collabs 📧 keoshaparks@aol.com
+      The girl that does the makeup transitions🤳 @frishtaxx on tiktok Contact: frishta@thebloggeragent.co.uk
     location: "United States"
-    followers: 11498
-    engagement: 1553
-    commentsToLikes: 0.119148
-    id: ck6toguqle0aq0j71wd2wel3q
+    followers: 107704
+    engagement: 1768
+    commentsToLikes: -0.794181
+    id: cl7mks3m7vsx60i23f57ty9u7
     verified: false
-    hashtags: "#womenwithtattoos, #thecrayoncase, #lashingoutglam, #melaninmakeupdaily"
-  - username: "mybeauty_dna"
+    hashtags: "#fashion, #macchilicrew, #winter, #maccrew"
+  - username: "joanna.james"
     fullname: >-
-      Diena
+      Jo
     bio: >-
-      Beautyblogger Skincarejunkie Mom Makeup addict For collabs or ✉ #mybeautydna
+      Somewhere in a bikini 👙 @makeupbymiraclej Tiktok 130k+
     location: "United States"
-    followers: 7061
-    engagement: 1435
-    commentsToLikes: 0.134696
-    id: ck5ci9acls8gb0i11lj42n76g
+    followers: 28261
+    engagement: 957
+    commentsToLikes: 0.028582
+    id: ck5q57sxarppp0i11n653tucp
     verified: false
-    hashtags: "#makeup, #strikeapose, #love, #bblogger"
-  - username: "makeupbyfabi_"
+    hashtags: "#floridaphotographer, #christmasphotoshoot, #christmasoutfitideas, #merrychristmas"
+  - username: "stateofkait"
     fullname: >-
-      FABIOLA
+      Kait Gardner | beauty youtuber & vlogger
     bio: >-
-      ✨ latin content creator 📦 pr/ inquiries: makeupbyfabi.info@gmail.com 💕 tag #teamakeupbyfabi 👁 use my code “makeupbyfabi_” for 10% on @ttdeyeofficial
+      Honest reviews, easy makeup, daily IG stories, & life with hEDS, Dysautonomia, & POTS 💌me@stateofkait.com YouTube channel and discount codes 👇🏻
     location: "United States"
-    followers: 8370
-    engagement: 1338
-    commentsToLikes: 0.081739
-    id: ck8tcdzkuz5co0j7862p3f2i4
-    verified: false
-    hashtags: "#featuremuas, #tatcha, #wakeupandmakeup, #maryandpalettes"
-  - username: "andreeaxdoru"
-    fullname: >-
-      Andreea DORU
-    bio: >-
-      🇷🇴 🇪🇸 🇬🇧 💌 andreeaxdoru@gmail.com @plouise_makeup_academy brand ambassador & ex student👩🏼‍🎨
-    location: "United States"
-    followers: 22731
-    engagement: 1279
-    commentsToLikes: 0.743067
-    id: ck5hkedeli9ye0i11k73doni6
-    verified: false
-    hashtags: "#anastasiabeverlyhills, #nyxcosmetics, #abhxnorvina, #norvinanavy"
-  - username: "paradisedapree"
-    fullname: >-
-      Paradise Dapree
-    bio: >-
-      Makeup Artist | NC ♡ business/bookings: paradisedapree@gmail.com
-    location: "United States"
-    followers: 13784
-    engagement: 1217
-    commentsToLikes: 0.429664
-    id: ck9hadynic6tu0j78xt018iuo
+    followers: 12972
+    engagement: 443
+    commentsToLikes: 0.139214
+    id: ckvb784ol5ymb0j23zlk89mj0
     verified: false
     hashtags: "#ad"
-  - username: "paula4beauty"
+  - username: "roedaxacmas_makeup"
     fullname: >-
-      Paula4Beauty ◾Makeup
+      Makeup & skincare roedaxacmas
     bio: >-
-      MAKEUP◾YOUTUBE◾SELFTAUGHT 🇬🇧 🇩🇪 🇵🇱Feel free to recreate one of my looks and tag me in it❤️#paula4beauty YOUTUBE 📽Paula4Beauty⬇️
+      •makeup lover •Makeup , Skin care ✨ •USA🇺🇸-🇲🇽 •latina 💖💍 •36 78714
     location: "United States"
-    followers: 9515
-    engagement: 1858
-    commentsToLikes: 0.091361
-    id: ckap4ldpz7t4y0i7826zcdz79
+    followers: 12608
+    engagement: 660
+    commentsToLikes: 0.019636
+    id: ck6u0czcteyup0j71lw6unjg2
     verified: false
-    hashtags: "#undiscovered, #makeupforbabesx, #makeupfeatures, #makeupinspo"
-  - username: "babysmokes_"
+    hashtags: "#skeepersfamily, #giftme, #reelsinstagram, #mua"
+  - username: "moalla_khouloud"
     fullname: >-
-      | B A B Y |
+      Moalla Khouloud
     bio: >-
-      NO H8🚫❤️ YogaDabber🧘🏼‍♀️😽💨 Cannabis Consumption ; Edibles🌱 Open 🧠| Creative 💭| Big ♥️|➰ Cannabis x Makeup🥀 TWT👇🏼
+      Responsable MKG à @makeupforever TUNISIE / @aquacoif / @kryolan.tunisia 💌 khouloudmoalla.pro@gmail.com💌
     location: "United States"
-    followers: 5778
-    engagement: 1771
-    commentsToLikes: 0.183972
-    id: ck6uh0fxu69bs0j712opan5fr
+    followers: 632564
+    engagement: 575
+    commentsToLikes: 0.009890
+    id: ck8tcgp3qzew50j78uxciu2r0
     verified: false
-    hashtags: "#cannababes, #girlswhosmoke, #michiganmeds, #beyourownhappy"
-  - username: "lj_makeupworld"
+    hashtags: "#naturelovers, #grenouille, #montagne, #camping"
+  - username: "michelleyarimakeup"
     fullname: >-
-      Lucija Jelić | Beauty
+      M I C H E L L E 🪬
     bio: >-
-      Široki Brijeg 🇧🇦 Narudžbe - 063/141-824 ‼️ •Makeup, Lash lift, Classic & Henna Brows, Solarij
+      makeup tutorials + beauty tips & tricks 👌🏼 #orlandomakeupartist AD/PR: michelleyarimakeup@gmail.com
     location: "United States"
-    followers: 17631
-    engagement: 1698
-    commentsToLikes: 0.667921
-    id: ckaoxn4kkdyv20i78jn1mdfgl
+    followers: 12726
+    engagement: 360
+    commentsToLikes: 0.079621
+    id: ckaoz30i4k5he0i78nr67r911
     verified: false
-    hashtags: "#shophudabeauty, #lauramercier, #morphe, #gerardcosmetics"
+    hashtags: "#tipsdemaquillaje, #holidaymakeup, #tendencia, #tendencias2023"
+  - username: "cyndymariela"
+    fullname: >-
+      Cyndy | Beauty + Fitness
+    bio: >-
+      Beauty + Fitness 💄💪🏽 Makeup | Tutorials, Tips, Inspo Home workouts | ACE Certified Trainer Click link for more ⬇️
+    location: "United States"
+    followers: 1478
+    engagement: 300
+    commentsToLikes: 0.043848
+    id: ck135d71v0va60i19ldae8401
+    verified: false
+    hashtags: "#homeworkout, #makeup, #fitness, #momlife"
+  - username: "sikelela_siki"
+    fullname: >-
+      S I K I
+    bio: >-
+      Image Curator | Creative Director @makeupby_siki
+    location: "United States"
+    followers: 34033
+    engagement: 325
+    commentsToLikes: 0.027759
+    id: ck6togxvpe0uh0j71a6yg8o81
+    verified: false
+    hashtags: "#myshademystory, #ad, #24, #youdosummer"
 ---

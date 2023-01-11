@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Venezuela in 2023
+title: Top 10 Guitar Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top guitar Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #guitar #musica #music.
+  Find top guitar Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #guitar #music #musica.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 11 Instagram influencers like this in Venezuela for you to contact.
+hits: 9
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Venezuela for you to collaborate.
 profiles:
   - username: "lerihenriquez"
     fullname: >-
@@ -13,108 +13,96 @@ profiles:
     bio: >-
       •Medicina📚 •Fisioterapia📚 •Guitarrista/H6 Venezolana/Portuguesa🇻🇪🇵🇹 @ttwinsstore @ttwinsmakeup @byttwins
     location: "Venezuela"
-    followers: 2879
-    engagement: 1585
-    commentsToLikes: 0.082816
+    followers: 2935
+    engagement: 1583
+    commentsToLikes: 0.079051
     id: ckaoz0vkdjw6j0i783wl9eqe0
     verified: false
     hashtags: ""
-  - username: "mariadlamusic"
-    fullname: >-
-      𝕄𝕒𝕣𝕚𝕒 𝕕𝕖 𝕝𝕠𝕤 𝔸𝕟𝕘𝕖𝕝𝕖𝕤
-    bio: >-
-      ▪︎Cantante de Musica Llanera 🎤 y Musico en Formación (Maracas, Guitarra y Cuatro) ▪︎Tengo 8 años 🤠 ▪︎Venezolana 💛💙❤ en 🇺🇸 #mariadlamusic #mdla_musica
-    location: "Venezuela"
-    followers: 21544
-    engagement: 230
-    commentsToLikes: 0.038714
-    id: ck5bx0uwimsj50i11muqtjoax
-    verified: false
-    hashtags: "#jhcarneenvaraalallanera, #tbt, #cowgirl, #mdla"
   - username: "hectorcuatrista"
     fullname: >-
-      Héctor Molina
+      Héctor Molina
     bio: >-
-      Cuatrista, guitarrista y compositor venezolano @c4trio @lossinverguenzas @pepperlandve @nexusduo
+      Cuatrista, guitarrista y compositor venezolano @c4trio @lossinverguenzas @pepperlandve @nexusduo - Hablemos del cuatro - Calgary ⤵️
     location: "Venezuela"
-    followers: 24247
-    engagement: 136
-    commentsToLikes: 0.055586
+    followers: 27243
+    engagement: 180
+    commentsToLikes: 0.054838
     id: ck6tygo9n3m8s0j71h692ei9k
     verified: false
-    hashtags: "#vdmradio, #tbt, #los10dec4, #repost"
-  - username: "musicbymauro"
-    fullname: >-
-      Mauro
-    bio: >-
-      Siendo 2 👇🏼 (completa en YouTube)
-    location: "Venezuela"
-    followers: 24585
-    engagement: 1087
-    commentsToLikes: 0.069006
-    id: ck8t8txqylt320j78nqze988d
-    verified: false
-    hashtags: "#singer, #latinoamerica, #guitarra, #caracas"
+    hashtags: "#repost, #tbt, #cuatrovenezolano, #tanbonitoqueeraunoyenloquesevuelve"
   - username: "mahomenos"
     fullname: >-
       ᴍᴀʜᴏ ᴍᴏɴʀᴏʏ
     bio: >-
       🍍Diario de locuritas ✨ 𝕸𝖆𝖍𝖔 𝖒𝖊𝖆𝖓𝖘 𝖒𝖆𝖌𝖎𝖈
     location: "Venezuela"
-    followers: 2051
-    engagement: 1159
-    commentsToLikes: 0.423689
+    followers: 1970
+    engagement: 1122
+    commentsToLikes: 0.376098
     id: ck6uhlqu99umf0j71mx9jgpzx
     verified: false
-    hashtags: "#quedateencasa, #maho, #altamira, #caracas"
+    hashtags: "#pop, #streetstyle, #popmusic, #caracas"
   - username: "davidloboj"
     fullname: >-
       David Lobo
     bio: >-
-      Venezolano Aliento Music Group @alientomg @secuencias_ @ministerioeldespertar #alientolobo Programación de Synth Visita mi Fan Page en Facebook:
+      Venezolano Aliento Music Group @alientomg @secuencias_ @ministerioeldespertar #alientolobo Programación de Synth
     location: "Venezuela"
-    followers: 23205
-    engagement: 161
-    commentsToLikes: 0.033353
+    followers: 23082
+    engagement: 146
+    commentsToLikes: 0.023474
     id: ck5cix13mtjmi0i11hi0ijbce
     verified: false
-    hashtags: "#worshipmusicians, #worshipkeys, #worshipmusic, #musician"
+    hashtags: "#worshipkeys, #keys, #midi, #worshipmusic"
   - username: "billybillon"
     fullname: >-
       brandon🔪
     bio: >-
       eu todo bien en casa?
     location: "Venezuela"
-    followers: 14080
-    engagement: 1955
-    commentsToLikes: 0.036822
+    followers: 15142
+    engagement: 1936
+    commentsToLikes: 0.033452
     id: ck6tisc971bu40j71waosolfw
     verified: false
-    hashtags: "#grungeboy, #meme, #grungemakeup, #aestheticposts"
+    hashtags: "#tiktokmemes, #videosrandom, #momo, #grunge"
   - username: "jennifer_armand"
     fullname: >-
       Ꭻennιғer Ꭺrмand
     bio: >-
-      •🇻🇪 •🇨🇳 •🇺🇸 ••🎤🎶☆🤟🏻 📍Mérida, VNZLA ———————————————
+      •🇻🇪 •🇨🇳 •🇺🇸 ••🎤🎶☆🤟🏻 📍Mérida, VNZLA ——————————————— @arconubemerida
     location: "Venezuela"
-    followers: 2556
-    engagement: 2453
-    commentsToLikes: 0.063838
+    followers: 2819
+    engagement: 2407
+    commentsToLikes: 0.057858
     id: ckap665g2ek880i785yi3vza2
     verified: false
-    hashtags: "#cover, #voz, #venezuela, #musica"
+    hashtags: "#coveracustic, #voz, #cover, #music"
+  - username: "nardellaphoto"
+    fullname: >-
+      Gregorio Nardella • Fotógrafo
+    bio: >-
+      [ Marcas | Portrait | Boudoir ] Servicio de edición 🖥 📍Puerto La Cruz Venezuela #nardellaph Sesiones para niños por @gnardellafotos 📱04120817419
+    location: "Venezuela"
+    followers: 10120
+    engagement: 350
+    commentsToLikes: 0.044379
+    id: ck0ub86j4dxzl0i19r0p1lpk3
+    verified: false
+    hashtags: "#venezuela, #fit, #swimwear, #art"
   - username: "soymiguelsiso"
     fullname: >-
       Miguel Siso
     bio: >-
-      Venezuelan Cuatro Player - Composer - Producer Latin Grammy Winner 2018 🇻🇪 🇮🇪
+      Latin Grammy Winner Producer, Composer and Cuatro Player 🇻🇪🇪🇺
     location: "Venezuela"
-    followers: 19507
-    engagement: 224
-    commentsToLikes: 0.054503
+    followers: 19706
+    engagement: 253
+    commentsToLikes: 0.065960
     id: ck5q36h3yjg490i1101dqtrf6
     verified: false
-    hashtags: "#musicavenezolana, #miguelsiso, #identidad, #repost"
+    hashtags: "#cuatrovenezolano, #identidad, #ma, #cuatro"
   - username: "huascarbarradas"
     fullname: >-
       Huáscar Barradas
@@ -126,5 +114,5 @@ profiles:
     commentsToLikes: 0.043697
     id: ck55lh9lq1k6v0i11y9veer8s
     verified: true
-    hashtags: "#flute, #compartiendo, #masterclass, #reflexionando"
+    hashtags: "#flute, #flauta, #musica, #evolucionando"
 ---

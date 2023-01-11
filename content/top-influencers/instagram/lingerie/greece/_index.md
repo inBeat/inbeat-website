@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Greece in 2023
+title: Top 10 Lingerie Instagram Influencers In Greece In 2023
 description: >-
-  Find top lingerie Instagram influencers in Greece in 2023. Most popular hashtags: #lingerie #greece #fashion #style.
+  Find top lingerie Instagram influencers in Greece in 2023. Most popular hashtags: #fashion #lingerie #greece #photography.
 platform: Instagram
-hits: 26
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 26 Instagram influencers like this in Greece for you to work with.
+hits: 21
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 21 Instagram influencers like this in Greece for you to contact.
 profiles:
-  - username: "_desertrose__"
+  - username: "titi.valencia"
     fullname: >-
-      🌵SARA BENAMARA🌹
+      ¢αяσ ναℓєи¢ια ∂υqυє 🍬
     bio: >-
-      • Founder of @sospicee • German Playmate • TRAVEL/TATTOO’S/LINGERIE 📍 Madeira Island 🏝
+      📍 ¢σℓσмвια 🧵¢яєα∂σяα ∂є @fiora_lingerie мαмá ∂є ʝυαи, ωαи∂α у вιαи¢α
     location: "Greece"
-    followers: 26535
-    engagement: 733
-    commentsToLikes: 0.007895
-    id: ck15s5dj3bb420i19aboz453f
+    followers: 30024
+    engagement: 441
+    commentsToLikes: 0.157255
+    id: ckf5qr5b3aaud0j232lrowa3f
     verified: false
-    hashtags: "#minimalarchivetattoo, #convertingculturetattoo, #inkpration, #ignoranttattoo"
+    hashtags: "#amoryamistad2020, #ibague, #fioralingerie, #fioracolombia"
   - username: "ele_xtz"
     fullname: >-
       𝑬𝑳𝑬𝑭𝑻𝑯𝑬𝑹𝑰𝑨 🍍 𝑪𝑯𝑨𝑱𝑰𝑫𝑰𝑴𝑰𝑻𝑹𝑰𝑶𝑼
     bio: >-
       𝗚𝗿𝗲𝗲𝗰𝗲🌎 • 𝗹𝗲𝗳𝗶𝟭@𝘄𝗶𝗻𝗱𝗼𝘄𝘀𝗹𝗶𝘃𝗲.𝗰𝗼𝗺📩 • 𝗝𝘂𝗻𝗲, 𝟭𝟳🎂
     location: "Greece"
-    followers: 7994
-    engagement: 830
-    commentsToLikes: 0.511467
+    followers: 8754
+    engagement: 771
+    commentsToLikes: 0.548143
     id: ckf5nf0lkxzfx0j2313dqx41d
     verified: false
-    hashtags: "#nails, #giveaway, #fashion, #jewellery"
-  - username: "ira_pgr_"
+    hashtags: "#instadaily, #giveawaygr, #lingerie, #blacklingerie"
+  - username: "lucastoma"
     fullname: >-
-      •ɪ ʀ ᴀ ᴘ ɢ ʀ•
+      Lucas Toma
     bio: >-
-      ° 90𝑠 𝘤𝘪𝘯𝘯𝘢𝘮𝘰𝘯 𝘨𝘪𝘳𝘭 𝑓𝑟𝑜𝑚 𝐺𝑟𝑒𝑒𝑐𝑒 °🌊 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 sign language | 𝑙𝑒𝑔𝑎𝑙 @univ_sorbonneparisnord 𝘭𝘢𝘳𝘮𝘦𝘴 𝘦𝘵 𝘱𝘰𝘪𝘯𝘨𝘴 𝘴𝘶𝘳 𝘭𝘦𝘴 𝘮𝘶𝘳𝘴🥀
+      #PHOTOGRAPHY #warsaw #paris #athens #rome #commercial #priv and #individual #workshops
     location: "Greece"
-    followers: 49765
-    engagement: 279
-    commentsToLikes: 0.091893
-    id: ck5hrvfdcvjoj0i110fxd9bep
+    followers: 32450
+    engagement: 171
+    commentsToLikes: 0.020581
+    id: ck0w1x3eklkh70i19p8vdplyk
     verified: false
-    hashtags: "#writer, #poetrycommunity, #love, #life"
-  - username: "elenamadness"
+    hashtags: "#lingerieseksi, #glamourgirls, #italianmodel, #playboycarti"
+  - username: "maradarmousli"
     fullname: >-
-      Έ Λ Ė N Α * Ξ Ύ Τ Σ A 🧿
+      Mara Darmousli
     bio: >-
-      🎙Social Media Manager @cdm.gr Journalist||Τv Hostess 〰️#knowcrunch Professional Diploma in Social&Digital Media📩elena_vrl@yahoo.com New video here 👇🏾
+      •Actress •Model •Acrobat...Wife •Mother •Zookeeper
     location: "Greece"
-    followers: 20563
-    engagement: 308
-    commentsToLikes: 0.436801
-    id: ck9wotd856j1l0j78hxxnz54n
+    followers: 26189
+    engagement: 558
+    commentsToLikes: 0.054941
+    id: ck8t0aqdorf8f0j78oacl8z1s
     verified: false
-    hashtags: "#greek, #fashion, #shoponline, #styleoftheday"
-  - username: "anna_amanatidou"
+    hashtags: "#quarantinedays, #glyfadabeach, #mara, #maradarmousli"
+  - username: "evelina_nikoliza"
     fullname: >-
-      Anna Amanatidou
+      𝔼𝕧𝕖𝕝𝕚𝕟𝕒 ℕ𝕚𝕜𝕠𝕝𝕚𝕫𝕒
     bio: >-
-      Model Ⅰ Influencer | Youtuber GNTM GIRL - Final 4-❤️ 💌Collaborations :annasfashionworld@hotmail.com Youtube : Anna Amanatidou ! 🎥🎥⤵️
+      🅂🄸🄽🄶🄴🅁, 🄰🄲🅃🅁🄴🅂🅂, 🅅🄻🄾🄶🄶🄴🅁, ψυχαναγκαστική. Και αν με ψάχνετε τα Σαββατοκύριακα @kalyteradeginetai 😉 Proud co-founder @entoama ❤️
     location: "Greece"
-    followers: 205799
-    engagement: 1317
-    commentsToLikes: 0.067449
-    id: ck5pvimm2i1zd0i11zf8dm1rh
-    verified: true
-    hashtags: "#instaphoto, #instagood, #ootd, #styleinspiration"
-  - username: "medicinallyblonde"
-    fullname: >-
-      Melina Baltogianni
-    bio: >-
-      I am 𝓜𝓮𝓭𝓲𝓬𝓲𝓷𝓪𝓵𝓵𝔂 𝓑𝓵𝓸𝓷𝓭𝓮 I am a Model 💁🏼‍♀️ I am a Blogger 👑 I am a Med student 💉 I am a feminist 🏳️‍🌈 Ath-Skg 🇬🇷 & Rome 🇮🇹 @nolimitsmodelsagency
-    location: "Greece"
-    followers: 5923
-    engagement: 2209
-    commentsToLikes: 0.106042
-    id: ck5zkfyzfjerb0i14efdmms4w
+    followers: 80766
+    engagement: 1327
+    commentsToLikes: 0.071544
+    id: ck55n9jng5qx20i11bflektzm
     verified: false
-    hashtags: "#sun, #hot, #photoshoot, #capri"
-  - username: "oannapopa_"
+    hashtags: "#backstage, #kalytera, #lookoftheday, #streetstyle"
+  - username: "marianna_painesi"
     fullname: >-
-      Oanna Travel Fashion Lifestyle
+      Marianna Painesi
     bio: >-
-      Welcome to my daily life 👑fashion 🌎traveler ♐️lifestyle 📍Greece Oanna300@gmail.com
+      Hellene 🇬🇷 3rd finalist of GNTM Beauty editor @dot_weekend I am with #teambatiste marianna.painesi1@gmail.com
     location: "Greece"
-    followers: 47823
-    engagement: 416
-    commentsToLikes: 0.372776
-    id: ck55p8unwa2290i11tbfvp2ab
+    followers: 69248
+    engagement: 1015
+    commentsToLikes: 0.040383
+    id: ck5hkepw0ialc0i1124dpsg2g
     verified: false
-    hashtags: "#travelinfluencer, #autumnmood, #ootdinspo, #beautyblogger"
-  - username: "toniaskou"
+    hashtags: "#batistebabes, #dryshampoo, #teambatiste, #rethinkdryshampoo"
+  - username: "dimitrabesiri"
     fullname: >-
-      🌴Tonia Skourtanioti 🌴
+      Besiri Dimitra💜
     bio: >-
-      Digital Influencer , Travel Blogger ! Email : toniaskourtanioti@gmail.com
+      𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙘𝙨 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜-𝙆𝙖𝙨𝙩𝙤𝙧𝙞𝙖 🎓 • 𝙢𝙪𝙢 𝙤𝙛 𝙩𝙝𝙚 𝙘𝙪𝙩𝙚𝙨𝙩 𝙨𝙝𝙖𝙧𝙥𝙚𝙞 🐾 • @𝙫𝙤𝙚.𝙖𝙩𝙝𝙚𝙣𝙨 🔆 • @𝙫𝙤𝙞𝙙𝙢𝙮𝙠𝙤𝙣𝙤𝙨 ⚜️ 📍𝘼𝙩𝙝𝙚𝙣𝙨
     location: "Greece"
-    followers: 131625
-    engagement: 220
-    commentsToLikes: 0.201198
-    id: ck55p8snwa1zr0i11yxd2aq1p
+    followers: 14437
+    engagement: 1240
+    commentsToLikes: 0.171845
+    id: ckapbja55039r0i78q48xlost
     verified: false
-    hashtags: "#goodluck, #araxova, #lingerie, #arahova"
+    hashtags: "#girl, #photooftheday, #winter, #woman"
+  - username: "rittageha"
+    fullname: >-
+      𝐓𝐫α𝐯є𝐥 𝐂σ𝐮𝐩𝐥є 👫🌏 Rita Geha
+    bio: >-
+      🇱🇧 📍🇸🇪 #thecoupleonboard 📧 ritageha@gmail.com 💍@christohabib 🍔@eatzworld @heyharpershop code: HEYRITTAGEHA @soulmia_store code: Ritta
+    location: "Greece"
+    followers: 22450
+    engagement: 507
+    commentsToLikes: 0.049008
+    id: ck8t3comw2rlp0j78zx5o7jq2
+    verified: false
+    hashtags: "#girl, #accessories, #birds, #outdoors"
   - username: "chrisakont"
     fullname: >-
       Της γνωστής οικογενείας
     bio: >-
       "Αυτή τη στιγμή απουσιάζω. Παρακαλώ αφήστε το μήνυμά σας μετά το χαρακτηριστικό μπιπ"
     location: "Greece"
-    followers: 4234
-    engagement: 2103
-    commentsToLikes: 0.069662
+    followers: 4420
+    engagement: 2137
+    commentsToLikes: 0.070313
     id: ckapavxz9xo0h0i78g9te9x7g
     verified: false
-    hashtags: "#aovportraits, #knowthismind, #boudoirphotos, #weshoothumans"
-  - username: "kaffesphotography"
+    hashtags: "#instablackandwhite, #worldviewmag, #supremeshutter, #bnw"
+  - username: "elion_ang"
     fullname: >-
-      Nikos Kaffes Photography
+      Elizabeth Ainatzoglou Official
     bio: >-
-      👤 Portrait - Fashion 🇬🇷🇩🇪🇳🇱 Based in Europe 📨 DM me for inquiries I don't know how to create art, but i do know how to capture it.
+      "Life is an adventure take risks” • Journalism / Economics and Law • Model / Actress • Survivor Girl 2017
     location: "Greece"
-    followers: 6089
-    engagement: 1038
-    commentsToLikes: 0.044090
-    id: ck15thewpi38t0i19eeqb474j
+    followers: 90987
+    engagement: 285
+    commentsToLikes: 0.045936
+    id: ck6tv1jkzjn3q0j71czyuj0pa
     verified: false
-    hashtags: "#portraits, #swimwear, #portrait, #instameetgreece"
+    hashtags: "#womensfashion, #instalifo, #winter, #love"
 ---

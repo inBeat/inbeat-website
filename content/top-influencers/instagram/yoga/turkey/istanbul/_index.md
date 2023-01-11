@@ -1,84 +1,60 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Istanbul in 2023
+title: Top 10 Yoga Instagram Influencers In Istanbul In 2023
 description: >-
-  Find top yoga Instagram influencers in Istanbul in 2023. Most popular hashtags: #yoga #istanbul #love #instagram.
+  Find top yoga Instagram influencers in Istanbul in 2023. Most popular hashtags: #yoga #love #istanbul #evdekal.
 platform: Instagram
-hits: 54
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 54 Instagram influencers like this in Istanbul, Turkey for you to pitch.
+hits: 35
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 35 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
 profiles:
-  - username: "ceydasaltadal"
+  - username: "wingchunkungfuclub"
     fullname: >-
-      Ceyda Saltadal
+      Wing Chun Kung-Fu Club
     bio: >-
-      Nimet Atasoy Management Actress ⭐️ Voice artist ⭐️ Yoga Teacher #ShinyQueen
+      💥This page is dedicated to all Wing Chun lovers ~ @eneskoch 📍Istanbul 👉 Contact DM
     location: "Turkey"
-    followers: 8234
-    engagement: 771
-    commentsToLikes: 0.093529
-    id: ck0u871cn6jwk0i19e14opr13
+    followers: 262408
+    engagement: 163
+    commentsToLikes: 0.012875
+    id: ck0txgcjqj0ku0i19vl21kter
     verified: false
-    hashtags: "#evdeyoga, #corona, #evdekal, #covid19"
-  - username: "galatagunlugumuz"
-    fullname: >-
-      GALATA  KULESİ
-    bio: >-
-      🩸 Sayfamıza Hoşgeldiniz 🎉 🩸 En Kaliteli Postlar Sayfamızda 📸 🏆 Bu İşi En İyi Bizim Yapabileceğimizi Takip Ettiğinizde Anlayabilirsiniz 👌#galata
-    location: "Turkey"
-    followers: 6975
-    engagement: 976
-    commentsToLikes: 0.080565
-    id: ck9hbpbr7hvni0j78moral427
-    verified: false
-    hashtags: "#turkobjektif, #happy, #huzur, #architecturephotography"
+    hashtags: "#wingchunkungfu, #ipman, #kungfu, #martialarts"
   - username: "zeynaum"
     fullname: >-
       Zeynep Tokuş Yılmaztürk
     bio: >-
-      Always a student... Yoga❣️Acro yoga❣️Kids yoga teacher İstanbul
+      ZeynAum 🕉 online classes @tapasbarre Always a student... Yoga💜Acro yoga💜Kids yoga teacher İstanbul
     location: "Turkey"
-    followers: 66593
-    engagement: 325
-    commentsToLikes: 0.021517
+    followers: 83623
+    engagement: 395
+    commentsToLikes: 0.017412
     id: ck0w6fr2q8crw0i19n8e4ixuv
     verified: false
-    hashtags: "#handstand, #believe, #homemadefeetup, #instagramvsreality"
-  - username: "zumbasedef"
+    hashtags: "#lovemywall, #sevgililergu, #kundinyasana2, #neyaparsanyapsevgiyleyap"
+  - username: "easy13"
     fullname: >-
-      DJ Sedef Kültekin
+      İzzet🕴🏽🖤🦅
     bio: >-
-      Çukurova Üniversitesi 👩🏻‍🎓 Licenced Zumba® Instructor 🇹🇷 Fitness Trainer 🏋🏻‍♀️ DJ 80’s 90’s 🎧
+      Photographer🎥 “Kimsin Sen? @mekanvemimarifotografcilik @birkasmasali
     location: "Turkey"
-    followers: 17367
-    engagement: 332
-    commentsToLikes: 0.035637
-    id: ck135ztyy42570i19yv49jh6v
+    followers: 14117
+    engagement: 286
+    commentsToLikes: 0.021091
+    id: ck14jynkxmtwn0i192iog3hal
     verified: false
-    hashtags: "#turkey, #yoga, #antigravity, #istanbul"
-  - username: "vlknbrt"
-    fullname: >-
-      ᴠᴏʟᴋᴀɴ ʙᴀʀᴜᴛ | 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢
-    bio: >-
-      ɪ ᴀᴍ ɪɴ ʟᴏs ᴀɴɢᴇʟᴇs ɴᴏᴡ 📍 ᴅᴍ ᴛᴏ ʙᴏᴏᴋ ғᴏʀ sʜᴏᴏᴛɪɴɢ 📸 - 𝑝𝑜𝑟𝑡𝑟𝑎𝑖𝑡 -𝑓𝑎𝑠ℎ𝑖𝑜𝑛 -𝑠𝑝𝑜𝑟𝑡
-    location: "Turkey"
-    followers: 6895
-    engagement: 647
-    commentsToLikes: 0.030472
-    id: ckapb6kejyr5h0i78v3qx8bvh
-    verified: false
-    hashtags: "#photography, #modelling, #photooftheday, #russian"
+    hashtags: "#turkey, #ka, #canon, #canoneosr"
   - username: "elizeoncel"
     fullname: >-
       DJ ELize
     bio: >-
-      
+      Dijital Projeler 📩 : firat@digitaltalkup.com
     location: "Turkey"
-    followers: 9335
-    engagement: 462
-    commentsToLikes: 0.029334
+    followers: 9277
+    engagement: 455
+    commentsToLikes: 0.033977
     id: ck5zp3crrrwqc0i14dgu7xc7w
     verified: false
-    hashtags: "#instalike, #dj, #new, #revolve"
+    hashtags: "#evdekal, #merk, #djlifestyle, #deephouse"
   - username: "aysenilsamlioglu"
     fullname: >-
       Aysenil Samlioglu
@@ -90,41 +66,65 @@ profiles:
     commentsToLikes: 0.024678
     id: ck0vz0qaw6prr0i198k1m8scy
     verified: false
-    hashtags: "#23nisan, #celebration, #sanat, #karde"
-  - username: "yoganikoo"
+    hashtags: "#bayram, #karde, #repost, #ay"
+  - username: "mislingoksoy"
     fullname: >-
-      Nihan Yönel
+      Mişlin
     bio: >-
-      Yoga Instructor and learner 🧘🏽‍♂️🧘🏻‍♀️ RYT 280 🤸🏼‍♂️ Ege University Faculty of Sport Science 🎓 High Jumper🏅
+      ॐ || 👁 📍Istanbul learning, living & sharing yoga 🌞 Yoga instructor 🏄‍♀️ Jr. Production designer @adcolony ✨ Access bar& facelift 🌀 Bioenergy healer
     location: "Turkey"
-    followers: 2902
-    engagement: 2257
-    commentsToLikes: 0.018051
-    id: ckapc3ywb2ddl0i780qh9katr
+    followers: 5117
+    engagement: 561
+    commentsToLikes: 0.032703
+    id: ck9habl8ebx6z0j78fzhdtv8s
     verified: false
-    hashtags: "#asana, #yogaeverywhere, #yogalover, #vacation"
-  - username: "bohomania.hediye"
+    hashtags: "#yogini, #yoga, #love, #yogi"
+  - username: "fitixm"
     fullname: >-
-      
+      ❗️Sağlıklı Yaşa FİT Kal❗️
     bio: >-
-      Modern Bohemian style blogger In love❤️ founder of @alish_onlineshop tik tok account
+      🌿 Sağlıklıbeslenme ve spor günlüğüm 🌿 Fittarifler ve Fittabaklar 💫#fitixm Daha az ye,daha çok su iç daha çok hareket et!
     location: "Turkey"
-    followers: 48186
-    engagement: 255
-    commentsToLikes: 0.052038
-    id: ck9wiiylh2gol0j787rk96v2e
+    followers: 14646
+    engagement: 545
+    commentsToLikes: 0.107329
+    id: ck8t6nrrxe8la0j780gdobyba
     verified: false
-    hashtags: "#stil, #bohemianstyle, #sokakstili, #bohochic"
-  - username: "buketcelikpilatesstudio"
+    hashtags: "#healthyfood, #nefisyemektarifleri, #antrenman, #evdesporyap"
+  - username: "gezgincift"
     fullname: >-
-      BuketCelikPilatesStudio
+      Orkun Özkaya-Neslihan Özkaya
     bio: >-
-      Tatlisu Mahallesi Akif İnan Sokak Merkur Palace No:8 Atasehir / Serifali 0533 621 16 43 0216 909 59 94 .Pilates .Kickboks .Fonksiyonel Egzersiz
+      🇹🇷 Now: TR 🌎 Travel, through our eyes 📧 info@gezgincift.com 🎥 Youtube: gezgincift
     location: "Turkey"
-    followers: 6627
-    engagement: 613
-    commentsToLikes: 0.006452
-    id: ck8t9sdxwp6iv0j78rgtzkzdq
+    followers: 100870
+    engagement: 207
+    commentsToLikes: 0.016155
+    id: ck6ue71hjp6si0j71x5ae8jtc
     verified: false
-    hashtags: "#energy, #fit, #onlineko, #evdekaltu"
+    hashtags: "#tatil, #thailand, #karadeniz, #yaz"
+  - username: "pinars0ylu"
+    fullname: >-
+      Pınar
+    bio: >-
+      Kocaeli - İstanbul📍 Derin'in annesi👧🏻 Türkçe Öğretmeni🎓 Pilates - Fitness Eğitmeni 🌬 📩pinarsoylu@gmail.com Somnio ergo sum..〰
+    location: "Turkey"
+    followers: 30161
+    engagement: 452
+    commentsToLikes: 0.047462
+    id: ck9wfhzbqowah0j78mguj73sn
+    verified: false
+    hashtags: "#throwback, #likeforlikes, #instalike, #tbt"
+  - username: "chrischavezyoga"
+    fullname: >-
+      Chris Chavez
+    bio: >-
+      Global yoga teacher, musician, co-owner of @cihangiryoga creator of The CY Method #liveyourtruth LIVE STREAM CLASS TUES & WED 1830 Istanbul time👇
+    location: "Turkey"
+    followers: 19809
+    engagement: 399
+    commentsToLikes: 0.051423
+    id: ck14hs24fbucv0i1936c7z32v
+    verified: false
+    hashtags: "#gratitude, #yoga, #nike, #loveyou"
 ---

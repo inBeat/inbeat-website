@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Belgium in 2023
+title: Top 10 Beauty Instagram Influencers In Belgium In 2023
 description: >-
-  Find top beauty Instagram influencers in Belgium in 2023. Most popular hashtags: #fashionblogger #ootd #outfitinspiration #fashion.
+  Find top beauty Instagram influencers in Belgium in 2023. Most popular hashtags: #love #beauty #antwerp #ootd.
 platform: Instagram
-hits: 176
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 176 Instagram influencers like this in Belgium for you to pitch.
+hits: 75
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 75 Instagram influencers like this in Belgium for you to connect with.
 profiles:
+  - username: "kayamaes"
+    fullname: >-
+      Kaya
+    bio: >-
+      Come with me on my happy moments 🎞 ✉️ Kayamaesss@hotmail.com Fashion, beauty & travel | Not your typical ultra skinny freelance model BE 0788.246.447
+    location: "Belgium"
+    followers: 19196
+    engagement: 311
+    commentsToLikes: 0.146594
+    id: ck9wflb14pczt0j78u9wwvcjc
+    verified: false
+    hashtags: "#advertising, #loavies, #girlsgoneloavies, #sochickenspiesjes"
   - username: "statiana.model"
     fullname: >-
       Tatiana🎀
     bio: >-
-      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 22 Years 📍 Brussels
+      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 23 Years 📍 Brussels
     location: "Belgium"
-    followers: 44330
-    engagement: 730
-    commentsToLikes: 0.052326
+    followers: 46012
+    engagement: 682
+    commentsToLikes: 0.041315
     id: ck8sxaggdgot90j78p5x5ww8u
     verified: false
-    hashtags: "#autoportrait, #redhair, #blackandwhite, #video"
+    hashtags: "#sun, #sexy, #peach, #tuesday"
+  - username: "hi.itsjolienn"
+    fullname: >-
+      JOLIEN ✌🏻
+    bio: >-
+      💗 fashion - beauty - lifestyle content 🙋🏻‍♀️ psychology student @ugent 📍 Gent - Wevelgem 💬 itsjolienn@gmail.com
+    location: "Belgium"
+    followers: 10179
+    engagement: 722
+    commentsToLikes: 0.132551
+    id: ck5hhlx278wrn0i11oms8mi5w
+    verified: false
+    hashtags: "#ad, #letsgreentheplanet, #myjewellerybelgium, #myjewellery"
   - username: "angelskysofficiel"
     fullname: >-
       Sarah Sky ☁️
     bio: >-
-      Natural Beauty 🪐Model🦋 Singer-Songwriter 🎙 Queen’s Birthday 👸🏻 23 November 💁🏻‍♀️ Sarahskyspro@hotmail.com ( for business)📧 Good vibes only 💁🏻
+      Singer-Songwriter 🎙 Natural Beauty 🪐 Love Is in the Air 💘 Good vibes only 🥂🧚🏼‍♀️ Manager @act_like_a_lady14 📧 Collab FlyWithUs-KS@outlook.com
     location: "Belgium"
-    followers: 20642
-    engagement: 655
-    commentsToLikes: 0.093232
+    followers: 23803
+    engagement: 182
+    commentsToLikes: 0.199623
     id: ckf5vp7ibpejv0j23jlpmz9g6
     verified: false
-    hashtags: "#badassedit, #curlygirlmethod, #classyoutfit, #modelpose"
-  - username: "hi.itsjolienn"
-    fullname: >-
-      JOLIEN ✌🏻 CONTENT CREATOR
-    bio: >-
-      MY WORLD IN PICTURES ✨| GHENT 📍 🙋🏻‍♀️ Psychology student 🎀 Positive vibes with a hint of Fashion & Beauty 💬 itsjolienn@gmail.com
-    location: "Belgium"
-    followers: 8844
-    engagement: 822
-    commentsToLikes: 0.112964
-    id: ck5hhlx278wrn0i11oms8mi5w
-    verified: false
-    hashtags: "#whatiweartoday, #outfitdujour, #fashionmagazine, #outfitinspirations"
-  - username: "miss_k_510"
-    fullname: >-
-      🎀 The World Of Miss K 🎀
-    bio: >-
-      💝 Kristina 💝 📸 Life-Moments:fashion • beauty • lifestyle 📩 collab: info.missk510@gmail.com / dm 💖 Proud mom of two ⠀
-    location: "Belgium"
-    followers: 19970
-    engagement: 452
-    commentsToLikes: 0.139177
-    id: ck136f5sx66x20i195e46bvsv
-    verified: false
-    hashtags: "#ootd, #autumnstyle, #lifestyle, #outfitideas"
-  - username: "brittboeckx"
-    fullname: >-
-      BRITT BOECKX
-    bio: >-
-      👝Fashion|Beauty|Lifestyle 🌞Spread positivity. 👼🏼Say hi: brittboeckx2000@gmail.com
-    location: "Belgium"
-    followers: 2845
-    engagement: 1477
-    commentsToLikes: 0.163489
-    id: ckaox6pupc0vc0i787o7p293l
-    verified: false
-    hashtags: "#royalglamcollection, #safirashine, #girlsgoneloavies, #ixxxijewelry"
-  - username: "kim.dejonghe"
-    fullname: >-
-      K I M
-    bio: >-
-      📸 #contentcreator 📍 Belgium based ⚡️ 24 y/o ✏️ Teacher 💄 I love #fashion & #beauty 💌 kim-de-jonghe@hotmail.com 💅🏽 @belleallurebeautybar
-    location: "Belgium"
-    followers: 9500
-    engagement: 686
-    commentsToLikes: 0.131836
-    id: ck8t3xnjg4v5q0j781imadgqg
-    verified: false
-    hashtags: "#girlsgoneloavies, #loavies, #gifted, #totowebshop"
-  - username: "kiaramintiens"
-    fullname: >-
-      🤍Kiara Mintiens🤍
-    bio: >-
-      ♥ 22 y/o ♥ Belgium based 📍 ♥ Dancer/Fashion/Beauty/Mode.. 💕 ♥ Contact: kiara-10s@hotmail.be 📩 ♥ Julie in #LikeMe 💄 @likemeketnet ⬇️Vergeet de tijd⬇️
-    location: "Belgium"
-    followers: 11593
-    engagement: 1257
-    commentsToLikes: 0.055576
-    id: ckf5oln1s2s0t0j239p90yhzk
-    verified: false
-    hashtags: "#reels, #zalandostyle, #happy, #pink"
+    hashtags: "#postbadgirl, #modell, #singerofinstagram, #safarilife"
   - username: "eliengrosemans"
     fullname: >-
       Elien Grosemans
     bio: >-
-      #ContentCreator 📸 💄 Fashion, Beauty & Lifestyle 💌 Collab? Hit the e-mail button 👁 Optician @optiekguidohuygen 🐶 @balou_thepom_
+      📸 Belgian Content Creator 💄 Fashion, Beauty & Lifestyle 💌 Collab? Hit the e-mail button
     location: "Belgium"
-    followers: 26313
-    engagement: 271
-    commentsToLikes: 0.245949
+    followers: 26678
+    engagement: 192
+    commentsToLikes: 0.037558
     id: ck136f5l466vt0i19gu5wjctb
     verified: false
-    hashtags: "#zacobenelux, #nakdfashion, #ad, #dweilrobot"
-  - username: "lauraxdams"
-    fullname: >-
-      𝐋𝐚𝐮𝐫𝐚 𝐃𝐚𝐦𝐬🕊
-    bio: >-
-      🦋Perfectly imperfect 💍Hendric 💅🏼Owner @beautyxbylau Collabs💌lauraxdams@gmail.com
-    location: "Belgium"
-    followers: 3857
-    engagement: 1949
-    commentsToLikes: 0.705637
-    id: ck9wfa60bnxdp0j78msxoqktr
-    verified: false
-    hashtags: "#microinfluencer, #bloggerscommunity, #styleblogger, #blondie"
+    hashtags: "#anno1892, #virtualreception, #spashower, #noreception"
   - username: "just.ngocb"
     fullname: >-
       NGOC | FASHION & LIFESTYLE
     bio: >-
-      📍 Antwerp, Belgium 💭 fashion / beauty / nailarts 💌 dm or email me for collabs Check out my nails lash page @just.cutenails 💖
+      📍 Antwerp, Belgium 💭 fashion / beauty / nailarts 💌 dm or email me for collabs
     location: "Belgium"
-    followers: 5962
-    engagement: 1070
-    commentsToLikes: 0.053628
+    followers: 5397
+    engagement: 958
+    commentsToLikes: 0.036638
     id: ckaot3vkgu9qj0i78tf52vn6j
     verified: false
-    hashtags: "#dutchblogger, #belgianblogger, #outfitoftheday, #asian"
+    hashtags: "#vacationmode, #brussels, #goodlife, #antwerp"
+  - username: "ronpaologilman"
+    fullname: >-
+      Ron Gilman
+    bio: >-
+      Published male Photographer/Antwerp based🇧🇪Canon Explorer. Hope you enjoy my work and passion for beauty. Please be respectful to the muses.
+    location: "Belgium"
+    followers: 29273
+    engagement: 268
+    commentsToLikes: 0.021728
+    id: ck5zwln7e6c940i14ea8speou
+    verified: false
+    hashtags: "#muse, #blackandwhitephotography, #friendshipgoals, #liveforthestory"
+  - username: "aurelia.msj"
+    fullname: >-
+      Aurélia M.
+    bio: >-
+      Brussels Fashion, beauty & travel 🖤 Communication & PR @loreal
+    location: "Belgium"
+    followers: 2142
+    engagement: 1099
+    commentsToLikes: 0.067207
+    id: ckaow0zoz6y0m0i785cnjiv9m
+    verified: false
+    hashtags: "#summer, #love, #southoffrance, #ibiza"
+  - username: "lisawyllinck"
+    fullname: >-
+      Lisa Wyllinck
+    bio: >-
+      • Wife and mom Schilde, belgium 🧖🏼‍♀️owner of @beautyroomlisa | @lisamarie.shop 👶🏻🦮 Family stories on @thefamilypact
+    location: "Belgium"
+    followers: 28160
+    engagement: 394
+    commentsToLikes: 0.011962
+    id: ck15qmdyd3jtx0i1937zg6bpo
+    verified: false
+    hashtags: "#beautician, #happyfamily, #newborn, #blondegirls"
+  - username: "xazulyaa"
+    fullname: >-
+      ХАЗУЛЯ
+    bio: >-
+      💄MakeUp|Beauty 💌PR: xazulyaa@gmail.com 📍Belgium🇧🇪|Ингушетия🇷🇺
+    location: "Belgium"
+    followers: 81076
+    engagement: 31
+    commentsToLikes: 0.039914
+    id: ck15sx9o3f9np0i19bmuh27wg
+    verified: false
+    hashtags: "#benefit, #gerardcosmetics, #iconicbae, #kyliecosmetics"
 ---

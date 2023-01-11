@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Italy in 2023
+title: Top 10 Travel Instagram Influencers In Italy In 2023
 description: >-
-  Find top travel Instagram influencers in Italy in 2023. Most popular hashtags: #italy #italia #italytrip.
+  Find top travel Instagram influencers in Italy in 2023. Most popular hashtags: #italy #italygram #travelinspiration.
 platform: Instagram
-hits: 4123
+hits: 3107
 text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 4123 Instagram influencers like this in Italy for you to connect with.
+text_bottom: inBeat has 3107 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "tannaz_gy"
+  - username: "rebidragomir"
     fullname: >-
-      TANNAZ
+      Rebeca Dragomir | Parisian aesthetic
     bio: >-
-      A girl in love with travel🌍, fashion 💃and beauty 💄 Speaks :Italian, Persian, English and Turkish Based in Catania, Sicily 🍋🍋🌋 #sicily#catania
+      🥐 living in Romania but my heart is in Paris ✉️ : rebiidragomir@yahoo.com University of Medicine #paris #outfitinspo #travel #lifestyle
     location: "Italy"
-    followers: 5160
-    engagement: 4557
-    commentsToLikes: 0.094115
-    id: ckaot5gpuugot0i78y4e8udmt
+    followers: 76244
+    engagement: 1621
+    commentsToLikes: 0.022376
+    id: ckxr7wq4nba550j234pt4txe7
     verified: false
-    hashtags: "#trieste, #salerno, #taorminasicily, #agrigento"
-  - username: "athinaaki"
+    hashtags: "#parisianvibes, #explorepage, #parisianlifestyle, #minimalfashion"
+  - username: "teresacasamonti"
     fullname: >-
-      * A T H I N A *
+      INTERIOR | FASHION | FAMILY
     bio: >-
-      Lover of the Sun ☀️ Creature of the sea 🧜🏻‍♀️ Part time traveller 🌍 21 countries 🎯 I'm not a stop along the way. I'm a destination. 🗺
+      Teresa Casamonti Mom of 3 Kids Interior, Travel & Fashion Lover
     location: "Italy"
-    followers: 5980
-    engagement: 2199
-    commentsToLikes: 0.156186
-    id: ck8t7icltgwzz0j78q4x5t7fr
+    followers: 197654
+    engagement: 350
+    commentsToLikes: 0.020955
+    id: ck0vv7bn9nv3c0i19y648rh4q
     verified: false
-    hashtags: "#beautifuldestinations, #greecelover, #cyclades, #sardegnaofficial"
-  - username: "vivianereinhardt"
+    hashtags: "#hochzeit, #herbst, #makeover, #italianwedding"
+  - username: "blank_amarillo"
     fullname: >-
-      TRAVEL & HEALTHY LIFESTYLE
+      Susana | Travel Photography
     bio: >-
-      Traveling the world 🗺 Mexico City | 🌱 based 💛 travel buddy: @john__zimmer ↓ e-book 📚 presets & shootings ↓
+      From: Lisbon, Portugal 🇵🇹 🌍 Travel 📷 Photography🌲 Nature
     location: "Italy"
-    followers: 29166
-    engagement: 1566
-    commentsToLikes: 0.073603
-    id: ck0vxqmbf07qu0i19aakhr9g9
+    followers: 12274
+    engagement: 329
+    commentsToLikes: 0.088607
+    id: ck5c2wh4jy4lt0i11vzlw9qo3
     verified: false
-    hashtags: "#travelcouple, #italytrip, #couples, #beautifuldestinations"
-  - username: "livewithoutshoes"
+    hashtags: "#turquoisewater, #italy, #egyptology, #egyptphotography"
+  - username: "whensailing"
     fullname: >-
-      Deborah&Ceghez | Travel Couple
+      Greta and Michael ⛵️ Boatlife
     bio: >-
-      Souls on fleek 🌙 ϟ Based in #Italy 🌍 Discovering beautiful places Dream - travel - repeat
+      👫 🇮🇹 living on our #sailboat ForTuna ⛵️ spreading love for #ecofriendly #travels 🌍 Miles sailed: 14.250 since: April 2019 🌊 ⬇️ Boatlife Tips ⬇️
     location: "Italy"
-    followers: 30186
-    engagement: 1485
-    commentsToLikes: 0.061186
-    id: ck5zw154g5a2d0i14j1br6hmn
+    followers: 60911
+    engagement: 311
+    commentsToLikes: 0.024513
+    id: ck8tc35d8y49p0j78x4oww9on
     verified: false
-    hashtags: "#travelcouples, #italy, #creativetravelcouples, #beautifulhotels"
-  - username: "daniele.gaiti"
+    hashtags: "#ycass, #sailingday, #sailingboats, #saltylife"
+  - username: "kristine_virsnite"
     fullname: >-
-      Daniele Gaiti
+      Kristine Virsnite
     bio: >-
-      Turin, Italy Fashion - Fitness - Travel Danielegaiti@gmail.com
+      📺: Content creator and traveller from Latvia 🏔: founder of @balticoverlanders ⬇️ “IZGLĀBT KEMPERI” - piedzīvojumu seriāls!
     location: "Italy"
-    followers: 7404
-    engagement: 1412
-    commentsToLikes: 0.167291
-    id: ck8t50bq08fhu0j78ttv20nhq
+    followers: 49980
+    engagement: 239
+    commentsToLikes: 0.078224
+    id: ck0w2g6epo74d0i19l5mg3ac6
     verified: false
-    hashtags: "#men, #menfashion, #guywithstyle, #fashionforman"
-  - username: "imlostinwanderlust"
+    hashtags: "#travelitaly, #manssamsung, #virsn, #visititaly"
+  - username: "selvaggialucarelli"
     fullname: >-
-      V A L É R I E 🌴
+      Selvaggia Lucarelli
     bio: >-
-      Traveling as much as I can 🌎 📍 The Netherlands 📷 @jeffkrouwel
+      Italian journalist and gattara. Books. Tv. Podcast. Travels. I take pictures. J'aime la querelle. Milan. selvaggialucarelli@gmail.com
     location: "Italy"
-    followers: 12300
-    engagement: 1382
-    commentsToLikes: 0.105804
-    id: ck13c9winzbcn0i19yzlnbuuc
+    followers: 1260383
+    engagement: 149
+    commentsToLikes: 0.063002
+    id: ck55mn9554brk0i11mq1t83rm
+    verified: true
+    hashtags: "#nepal, #seoul, #palermo, #corea"
+  - username: "gretastravels"
+    fullname: >-
+      GRETA OMOBONI | Travel Blogger
+    bio: >-
+      Escaped the 9-5 to chase sunsets, hike mountains and catch waves ☀️✈️ 👇My travel tips
+    location: "Italy"
+    followers: 87692
+    engagement: 66
+    commentsToLikes: 0.075422
+    id: ck15pltwfyiwe0i190fkcppg7
+    verified: false
+    hashtags: "#realaustria, #stantonamarlberg, #tenerife, #visittrentino"
+  - username: "pamelaalexandra"
+    fullname: >-
+      Pamela Alexandra
+    bio: >-
+      When I'm not in the office, I'm either eating, trying to get my curls under control or traveling the🌎|🇨🇭🇧🇷 📧info@pamelaalexandra.com for brand collabs
+    location: "Italy"
+    followers: 5564162
+    engagement: 63
+    commentsToLikes: 0.021727
+    id: cks6rhtr9dvf70j23a93rb9j9
     verified: false
     hashtags: ""
-  - username: "thetraveltrouble"
+  - username: "fabiana_russo"
     fullname: >-
-      TRAVEL TROUBLE
+      Fabiana Russo
     bio: >-
-      Francesca & Stefano|TravelBloggers Due amici in viaggio 🌈 📸 Use #traveltrouble in your pics 🐒 Travel advisor for: @wanderoo_it 📍BG(IT) 📩collab ➡️ DM
+      Fashion tips, shopping, travel and real life on my stories 👆🏻💕 ⠀ Siciliana 🍋 ⠀ Based in Milan📍 ⠀ Work @fabianarusso_microblading
     location: "Italy"
-    followers: 9348
-    engagement: 1366
-    commentsToLikes: 0.082958
-    id: ck6uhio9x9cdq0j71il5atsa0
+    followers: 104734
+    engagement: 52
+    commentsToLikes: 0.011199
+    id: ckf5krdu2n0co0j23o4lie327
     verified: false
-    hashtags: "#italia, #italytravel, #yallersitalia, #toscanagram"
-  - username: "gaiabegnis"
+    hashtags: "#madonnadicampiglio, #suppliedby, #home, #missyou"
+  - username: "belladally"
     fullname: >-
-      Gaia Begnis
+      B e  l l a   D a l l y 🕊
     bio: >-
-      Family • Lifestyle • Travel 👱🏼‍♀️ Mamma single di 20 anni 🎀 Vittoria, 4 anni 📚 Paleocapa, informatica 📩 Collab: begnis.gaia@gmail.com 📍 Bergamo
+      — my work & creative space — Wife to Arif Iz❣️ KL, Malaysia Actor | Modest Fashion | Fitness | Traveler Ambassador of @galeriariani
     location: "Italy"
-    followers: 26639
-    engagement: 1068
-    commentsToLikes: 0.098120
-    id: ck0ty02inl0z30i19abgqhd4r
-    verified: false
-    hashtags: "#scotchtape, #ad, #huawei, #huaweip30pro"
-  - username: "pedrofcarreira"
-    fullname: >-
-      PEDRO CARREIRA | TRAVEL
-    bio: >-
-      ✈️ Wanderer & certified Nomadologist 📸 Travel Photography 🇵🇹 From Lisbon, Portugal
-    location: "Italy"
-    followers: 15858
-    engagement: 1560
-    commentsToLikes: 0.088926
-    id: ck5zw5jg45iwf0i14g9jjsezt
-    verified: false
-    hashtags: "#srilankatravel, #travelpassion, #thetravellingnomads, #stillatraveler"
-  - username: "ezio.vsl"
-    fullname: >-
-      Ezio Vasile
-    bio: >-
-      Founder & CEO at @yultyfoods. I like to eat and travel.
-    location: "Italy"
-    followers: 18599
-    engagement: 1307
-    commentsToLikes: 0.066842
-    id: ck6uejs23rc590j71l5tvs58n
-    verified: false
-    hashtags: "#truestory, #steak, #matrix, #goulash"
+    followers: 2353642
+    engagement: 19
+    commentsToLikes: 0.008925
+    id: ck0w5s6lg56hg0i19v9j0zt9r
+    verified: true
+    hashtags: "#garniergreenbeauty, #garniermalaysia, #greenerneverstops, #bellaforariani"
 ---

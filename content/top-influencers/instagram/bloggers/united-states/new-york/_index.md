@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In New York in 2023
+title: Top 10 Bloggers Instagram Influencers In New York In 2023
 description: >-
-  Find top bloggers Instagram influencers in New York in 2023. Most popular hashtags: #blogger #newyork #influencer #newyorkcity.
+  Find top bloggers Instagram influencers in New York in 2023. Most popular hashtags: #newyork #blogger #nyc #newyorkcity.
 platform: Instagram
-hits: 271
+hits: 291
 text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 271 Instagram influencers like this in New York, United States for you to pitch.
+text_bottom: Our search engine holds 291 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
+  - username: "blindfoxart"
+    fullname: >-
+      Ҍӏíղժ Ƒօ×
+    bio: >-
+      ⱭɾԵÍՏԵ • 𝔐𝔲𝔰𝔢 • Nefelibata ✖️ 𝙰𝚕𝚕 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐𝚜 𝚊𝚗𝚍 𝚙𝚛𝚒𝚗𝚝𝚜✖️ BOSTON based, NYC and LA rooted ✖️ ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴀʀᴛɪsᴛ ✖️Sales@BlindFoxArt.com
+    location: "United States"
+    followers: 18194
+    engagement: 524
+    commentsToLikes: 0.023564
+    id: ck5ztx91z1adr0i14rm2ji6dq
+    verified: false
+    hashtags: "#mural, #design, #bostonigers, #art"
+  - username: "emmy_milan"
+    fullname: >-
+      Emmy Milan ⋆ᴛʀᴀᴠᴇʟ⋆ʟɪꜰᴇꜱᴛʏʟᴇ⋆
+    bio: >-
+      -🙏🏾God is Within Her,She Will Not Fail! -🌎Travel:Lifestyle:Visionary -🧘🏽‍♀️Visualize your highest self -📸 Creator
+    location: "United States"
+    followers: 16732
+    engagement: 506
+    commentsToLikes: 0.061293
+    id: ck14lev6bub340i199hl0lh9a
+    verified: false
+    hashtags: "#positivevibes, #blacktravelclub, #brooklyn, #prosperity"
+  - username: "keytherestevez_"
+    fullname: >-
+      KEYTHER ESTÉVEZ 🇩🇴
+    bio: >-
+      FASHION STYLIST / DOMINICAN FASHION DESIGNER ◽️CREATIVE DIRECTOR @keytherestevezstudio ◽️FOUNDER @dominicanafashionawards
+    location: "United States"
+    followers: 48837
+    engagement: 76
+    commentsToLikes: 0.022392
+    id: ck5ccbvweh2wx0i11fqmujlbd
+    verified: true
+    hashtags: "#keytherestevezstudio, #menwithclass, #premiojuventud2021, #filmmaker"
+  - username: "fitbeep"
+    fullname: >-
+      blair | fitness coach
+    bio: >-
+      NYC ✩ 𝗂 𝗁𝖾𝗅𝗉 𝗉𝖾𝗈𝗉𝗅𝖾 𝖼𝗋𝗎𝗌𝗁 𝗍𝗁𝖾𝗂𝗋 𝗀𝗈𝖺𝗅𝗌 & 𝗀𝖺𝗂𝗇 𝖻𝗈𝖽𝗒 𝖼𝗈𝗇𝖿𝗂𝖽𝖾𝗇𝖼𝖾 ✩ ᴄᴏ-ғᴏᴜɴᴅᴇʀ @shapesinthecity_ 𝟣:𝟣 online fitness coach☟︎ NASM CPT
+    location: "United States"
+    followers: 111727
+    engagement: 224
+    commentsToLikes: 0.030343
+    id: ck5hk4y9xhsp00i113a0h2qh1
+    verified: false
+    hashtags: "#footwork, #coach, #shuffledance, #festival"
+  - username: "qpmag"
+    fullname: >-
+      QP FASHION MAGAZINE
+    bio: >-
+      📍Los Angeles based fashion magazine. 📲www.qpmag.com | Online and Print 💥New issue out - Cover girl @aika_iskak ❤️
+    location: "United States"
+    followers: 21317
+    engagement: 110
+    commentsToLikes: 0.065094
+    id: ck0tzxlnsrvrv0i19gfr6g7xm
+    verified: false
+    hashtags: "#lamakeupartist, #photoshoot, #editorial, #pretty"
+  - username: "urszulala"
+    fullname: >-
+      Urszula Makowska
+    bio: >-
+      Native New Yorker 🇵🇱 Blogger & Actress 📍San Diego | NYC | LA 🔜 NYC Tiktok: urszulala Mommy @bropompoms 🐶 💌 murszulaa@gmail.com
+    location: "United States"
+    followers: 257032
+    engagement: 120
+    commentsToLikes: 0.024720
+    id: ck5hg52zc0ymg0i11htdz42kh
+    verified: true
+    hashtags: "#sdblogger, #nycstyleblogger, #nyc, #ad"
+  - username: "thegirlwithapassport"
+    fullname: >-
+      A v a n t i k a
+    bio: >-
+      Curating and Creating my love for: 🍟✈️🐶🍷 — Programmatic + Social Media Expert — 📌 New York, NY PA: @avantikasood
+    location: "United States"
+    followers: 23099
+    engagement: 628
+    commentsToLikes: 0.027627
+    id: ckap4g4gf789g0i780tt6qwt7
+    verified: false
+    hashtags: "#foodblogger, #wineoclock, #goodfood, #foodlover"
   - username: "anchorslife"
     fullname: >-
-      Gabriel Antonio
+      
     bio: >-
-      ↠ a positive mind = a positive life. ↠ pop // feel good tunes. ↠ ceo of @theneoagency
+      
     location: "United States"
-    followers: 103575
-    engagement: 884
-    commentsToLikes: 0.040354
+    followers: 4
+    engagement: 23615500
+    commentsToLikes: 0.038434
     id: ck136dt8a5zy30i19wjwu673y
     verified: true
-    hashtags: "#influencers, #nycphotographer, #lasvegas, #lgbtblogger"
-  - username: "_queen.sav_"
+    hashtags: "#fallfashion, #sponsored, #loveislove, #nycphotographer"
+  - username: "ricaamoo"
     fullname: >-
-      SAVANNAH VINSON
+      Erica
     bio: >-
-      •📍NYC •CEO @queencastings •TikTok 42.0k🎉 • Management/ @nymmg @longislandmodels.inc @ikonmodelmanagement @modamgmt @toolsfortalent @48entertainment_
+      Living ✨ She/Her/Hers
     location: "United States"
-    followers: 19816
-    engagement: 732
-    commentsToLikes: 0.113451
-    id: ck6tiqhjn186u0j71gx0lqu5q
+    followers: 2608
+    engagement: 3587
+    commentsToLikes: 0.084410
+    id: ckaowg6kg8sei0i78dirz2msy
     verified: false
-    hashtags: "#selflove, #nyc, #healthylifestyle, #fashion"
-  - username: "veggiecurean"
+    hashtags: "#miami, #wynwoodwalls, #wynwoodmiami, #newyork"
+  - username: "my.love.for.photography"
     fullname: >-
-      Veggiecurean (Shikha)
+      New York Photography ❤🗽
     bio: >-
-      🌿 Plant-based recipes 🖋 Food blogger 🏡 New York, NY 👇🏽 My latest recipe
+      New York🗽 From architecture and street photography to nature and sunsets, always the best of New York 🔴All photos taken by and belong to me #newyork
     location: "United States"
-    followers: 11744
-    engagement: 576
-    commentsToLikes: 0.058242
-    id: ck8tdu4n04ry70j78nob71nrd
+    followers: 4194
+    engagement: 1955
+    commentsToLikes: 0.043257
+    id: ckaot0y1vtvws0i78x5nxbl1q
     verified: false
-    hashtags: "#fresh, #healthyeating, #pizza, #veganfoodporn"
-  - username: "gavyntaylor"
-    fullname: >-
-      𝐆𝐚𝐯𝐲𝐧 𝐓𝐚𝐲𝐥𝐨𝐫
-    bio: >-
-      Fashion | Beauty | Shenanigans YouTuber • Blogger⁣ 📍#newyorkcity + #losangeles ⁣ 📧 gavyn@gavyntaylor.com⁣
-    location: "United States"
-    followers: 42496
-    engagement: 275
-    commentsToLikes: 0.056638
-    id: ck6tpsz1bmlnc0j7108ajlh4e
-    verified: false
-    hashtags: "#plussizefashion, #isolationcreation, #youtuber, #nycblogger"
-  - username: "meredithduxbury"
-    fullname: >-
-      Meredith Duxbury
-    bio: >-
-      manifestation vegan collabs ✉️ meredithduxbury.8@gmail.com
-    location: "United States"
-    followers: 36947
-    engagement: 599
-    commentsToLikes: 0.031057
-    id: ck8sxgxr8hcr80j785cfwdazf
-    verified: false
-    hashtags: "#discoverunder10k, #blogger, #blondehair, #newyorkcity"
-  - username: "irinanyc13"
-    fullname: >-
-      Irina Parker
-    bio: >-
-      Dating, relationship, life coach, blogger, fashion and fitness lover. 📍Youtube: Blunt blonde, 📩 irina@parkeri.company
-    location: "United States"
-    followers: 38006
-    engagement: 103
-    commentsToLikes: 0.227695
-    id: ck5zluc5wledy0i14l429lhg2
-    verified: false
-    hashtags: "#bluntblonde, #lifecoach, #nyinfluencer, #photoshoot"
-  - username: "simplyaggie"
-    fullname: >-
-      aggie | nyc | lifestyle
-    bio: >-
-      day-to-day moments seen through photo influencer | new yorker | coffee addict | social media manager
-    location: "United States"
-    followers: 60435
-    engagement: 149
-    commentsToLikes: 0.040376
-    id: ck0ubtqi4ff070i1926wdj0so
-    verified: false
-    hashtags: "#newyork, #officially31, #newyorkcity, #newyorkgram"
-  - username: "swirlofchic"
-    fullname: >-
-      Hima H Patel
-    bio: >-
-      Corporate PharmD 💊 | Amateur Stylist ✨| Content Creator and Strategist 🇮🇳x🇺🇸 📍NJ | NYC 📧 swirlofchic@gmail.com
-    location: "United States"
-    followers: 6742
-    engagement: 1383
-    commentsToLikes: 0.294869
-    id: ck6tr0xhdw5pb0j71q0wayrk0
-    verified: false
-    hashtags: "#fashionist, #fashionblog, #dressinspo, #currenttrend"
-  - username: "yummyspies"
-    fullname: >-
-      Yummy Spies
-    bio: >-
-      “On a Yummy Mission” @m.germanou & @ylambrou •Full-Time Eaters Based in 🇨🇾🇬🇷 •Best Insights of Where to Eat •Email or DM for Promotions
-    location: "United States"
-    followers: 16722
-    engagement: 429
-    commentsToLikes: 0.024305
-    id: ck13a82gkp35t0i19cz9vw067
-    verified: false
-    hashtags: "#foodporn, #vanilla, #yummyspiesontour, #dessert"
-  - username: "mahsa.jani"
-    fullname: >-
-      Mahsa مَـه☽سـٰا
-    bio: >-
-      Fashion • Beauty • Food 📮@blogmahsa 🎬 Content Creator • Blogger 📍 New Jersey➰New York Influencer ✉️ Collaborations: Unboxwithmahsa@gmail.com
-    location: "United States"
-    followers: 79582
-    engagement: 308
-    commentsToLikes: 0.077322
-    id: ckaov9rvg3n7s0i78igq7e9ak
-    verified: false
-    hashtags: "#fit, #styleinspo, #nycblog, #glam"
+    hashtags: "#traveling, #natgeo, #natur, #wonderfulplaces"
 ---

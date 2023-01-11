@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Chicago in 2023
+title: Top 10 Gaming Instagram Influencers In Chicago In 2023
 description: >-
-  Find top gaming Instagram influencers in Chicago in 2023. Most popular hashtags: #gaming #chicago #chicagobulls #espn.
+  Find top gaming Instagram influencers in Chicago in 2023. Most popular hashtags: #gaming #chicago #gamer #fashion.
 platform: Instagram
-hits: 19
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 19 Instagram influencers like this in Chicago, United States for you to collaborate.
+hits: 23
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 23 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
-  - username: "mrhuluhaslivesports"
+  - username: "monyettc"
     fullname: >-
-      Mr. Hulu Has Live Sports
+      Monyett Crump
     bio: >-
-      🏈Todd Gurley’s Cat (@tg4hunnid) 💵Getting that Hulu Meowney 🐱Catfluencer Extraordinaire 💰Hulu Has Live Sports . Inquiries MrHuluHasLiveSports@gmail.com
+      sometimes i’m still crumpitize_me Organizer of @revealdancechicago Gaming: @crumpitized ~CHICAGO Creative~
     location: "United States"
-    followers: 17021
-    engagement: 947
-    commentsToLikes: 0.037613
-    id: ck0vw02lxri4p0i19nwnm7ldp
-    verified: true
-    hashtags: "#yards, #rams, #quarterback, #cutecats"
-  - username: "r4speed"
-    fullname: >-
-      | Official Page of R4SPEED |
-    bio: >-
-      #R4SPEED 21 / 🇺🇸, Louisiana #1 Host Virtual Car Meets/Events Self Taught Photographer 📷 🏁 Automotive Gaming 👇🏻Discord 💻
-    location: "United States"
-    followers: 17206
-    engagement: 317
-    commentsToLikes: 0.016385
-    id: ck0u7xkv3620i0i192oygj8w6
+    followers: 15674
+    engagement: 723
+    commentsToLikes: 0.036682
+    id: ck9wi0f980a320j78d8nh4233
     verified: false
-    hashtags: "#makeforzalookreal, #fh4, #dodgeviper, #formuladrift"
-  - username: "shannonmaer"
+    hashtags: "#makethefirstmove, #bumblepartner"
+  - username: "annjelife"
     fullname: >-
-      Shannon Maer - Artist
+      Annjela
     bio: >-
-      Cover Artist and Gaming Designer
+      Call me Annj 💚 Cosplay | Fashion | Travel 📍Las Vegas, NV 📨 business@eminencemanagement.co ⬇️PO Box + Social Medias
     location: "United States"
-    followers: 14400
-    engagement: 704
-    commentsToLikes: 0.017522
-    id: ck135oyig2i950i19mgjnl61x
+    followers: 75081
+    engagement: 486
+    commentsToLikes: 0.018997
+    id: ck6u2uqb0u1120j711fjhr3jy
     verified: false
-    hashtags: "#harleyquinn, #dc, #comics, #marvelcomics"
-  - username: "nba2k_thecobra26"
+    hashtags: "#california, #cali, #asian, #blondegirl"
+  - username: "byrdmena"
     fullname: >-
-      THE COBRA GAMING
+      SharpFade 🇻🇪
     bio: >-
-      Posting&Reposting Gaming Highlights,Edits&Mods🎮🎬 Ft PS/PC Gamer LaFay Brown aka“The Cobra” on NBA2K etc. Twitter:@TheCobraGaming_ Cash App:$2MrBrown6
+      🚀Founder @Sharpfade | Retired 💈 💈Co-Founder @Riseofhair | 🌎 25+ Countries 🧠Global Creative Consultant @wahlpro 📱@BooksyBIZ Partner 🎙 INTL Host
     location: "United States"
-    followers: 16480
-    engagement: 933
-    commentsToLikes: 0.016247
-    id: ck9hbhi6dgutm0j78d28wdj96
+    followers: 71554
+    engagement: 200
+    commentsToLikes: 0.080107
+    id: ck0w55fgj1zih0i19h3iwjsra
     verified: false
-    hashtags: "#ripkobe, #2kmod, #moddingcommunity, #2kigcommunity"
-  - username: "duaneshootstoys"
+    hashtags: "#moda, #style, #barber, #wahl"
+  - username: "ddklineking"
     fullname: >-
-      Duane Shoots Toys
+      Marlon Grennan 🇯🇲🇺🇸
     bio: >-
-      I create art with action figures! 👟 Nostalgia, Pop Culture, Sneakers, Gaming 📸 #ToyPhotography 👤@Duane_Perera 🇨🇦 ⬇️ Order Prints / Other Links Below
+      Just a human blessed to live on this beautiful planet 🙏🏾 or im “that guy with all the dogs” 🤝
     location: "United States"
-    followers: 72776
-    engagement: 961
-    commentsToLikes: 0.036178
-    id: ck0tzdye4pzo40i199fnguluu
+    followers: 164541
+    engagement: 137
+    commentsToLikes: 0.012487
+    id: ck14kbl2kopln0i19fwghbq4r
     verified: false
-    hashtags: "#toyphotographer, #90skid, #diorama, #dailysole"
+    hashtags: "#ddklinenation, #protectthefamily, #dontwantnosmoke, #snipergamestrong"
+  - username: "engineeringinheels"
+    fullname: >-
+      Mara Winter
+    bio: >-
+      Engineer with a passion for fashion and high heels. Other interests include turbos, PC gaming, and cats! Contact: mara@engineeringinheels.com
+    location: "United States"
+    followers: 69293
+    engagement: 277
+    commentsToLikes: 0.025449
+    id: ck134kajjwunb0i19x1nki30h
+    verified: false
+    hashtags: "#maisonernest, #boots, #mules, #redbottoms"
   - username: "cinemaloversclubxi"
     fullname: >-
       Cinema Lovers Club
     bio: >-
       Welcome to Cinema Lovers Club, An Official Critic Review Site Discussing Your Favorite Movies, TV, & Gaming! 🎬 ———————————————
     location: "United States"
-    followers: 52437
-    engagement: 1645
-    commentsToLikes: 0.006572
+    followers: 74303
+    engagement: 1039
+    commentsToLikes: 0.006774
     id: ckap3riur48yr0i78qnsevdbx
     verified: false
-    hashtags: "#batman, #cinema, #filmreview, #tv"
-  - username: "jacquieandryan"
+    hashtags: "#legend, #moviereview, #seanconnery, #dc"
+  - username: "nba2k_thecobra26"
     fullname: >-
-      Jacquie + Ryan | Chicago
+      THE COBRA GAMING
     bio: >-
-      Mindfully navigating marriage & Prioritizing FUN Inspiring you to do the same Lifestyle | Date Nights | Adventure 💌 ryanandjacquie@gmail.com
+      Posting/Reposting Gaming Highlights,Edits&Mods🎮🎬 Ft PC/PS Gamer LaFay Brown aka“The Cobra” on NBA2K etc. Twitter:@TheCobraGaming_ Cash App:$2MrBrown6
     location: "United States"
-    followers: 17115
-    engagement: 779
-    commentsToLikes: 0.092927
-    id: ck5zs8175y01s0i14u05qu9db
+    followers: 20660
+    engagement: 448
+    commentsToLikes: 0.009790
+    id: ck9hbhi6dgutm0j78d28wdj96
     verified: false
-    hashtags: "#couplegoals, #mixedcouples, #wmbw, #interraciallove"
-  - username: "_alexqian"
+    hashtags: "#2kshoes, #la, #moddingcommunity, #lakergang"
+  - username: "spidagrfx"
     fullname: >-
-      Alex Qian | Creator
+      Micah Sheets  //  12K
     bio: >-
-      • creative director | filmmaker • helping creatives succeed • curation: @chi.shooters | @world.shooters biz 📩 alex.qian@wayfaringprofessional.com
+      21 • Long Beach, CA Content Creator @teamdiverge Clients within @NFL @NBA @MLB #BoltUp ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
     location: "United States"
-    followers: 36802
-    engagement: 586
-    commentsToLikes: 0.057434
-    id: ck0tv6rpda6kw0i195uoc2tvr
+    followers: 12463
+    engagement: 2166
+    commentsToLikes: 0.025832
+    id: ckap0e728pw0q0i784sxvno26
     verified: false
-    hashtags: "#usaprimeshot, #hbouthere, #travelfromhome, #hsdailyfeature"
-  - username: "rackone"
+    hashtags: "#jukes, #jerseyswap, #espn, #titans"
+  - username: "real_dave_brown"
     fullname: >-
-      rack one|Las Vegas
+      
     bio: >-
-      💫Thank you for appreciating the pictures. It was fun capturing and sharing each and every photo.📸.💉.👩‍⚕️
+      🇦🇺
     location: "United States"
-    followers: 3835
-    engagement: 825
-    commentsToLikes: 0.102848
-    id: ckap7k3dskeqa0i78n34qc1yc
+    followers: 6890
+    engagement: 665
+    commentsToLikes: 0.125320
+    id: ck5znxbx7pbsu0i14b47izg80
     verified: false
-    hashtags: "#desertvibes, #lasvegasblvd, #newyork, #nyc"
-  - username: "darthamin"
+    hashtags: "#retrogaming, #game, #videogames, #collection"
+  - username: "chefcharleswebb"
     fullname: >-
-      Amin Elhassan
+      CHARLES WEBB
     bio: >-
-      Critical to the development of a superweapon.
+      🎥#CHEFONTOUR 🧿Lifestyle 👨🏼‍🍳Culinary ✈️Travel ♻️Sustainability 🖼Street Art 🦋Social/ Nonprofit 🏳️‍🌈LGBTQ 🍁Cannabis
     location: "United States"
-    followers: 21092
-    engagement: 278
-    commentsToLikes: 0.065384
-    id: ck5hs4spivzng0i115mgafh64
-    verified: true
-    hashtags: "#quarantine, #corona, #lebron, #nba"
+    followers: 46945
+    engagement: 360
+    commentsToLikes: 0.011757
+    id: ck14kdtjop1bu0i19gxq733nz
+    verified: false
+    hashtags: "#lgbtq, #chefontour, #tech, #sustainability"
 ---

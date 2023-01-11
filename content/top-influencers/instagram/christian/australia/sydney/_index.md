@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Sydney in 2023
+title: Top 10 Christian Instagram Influencers In Sydney In 2023
 description: >-
-  Find top christian Instagram influencers in Sydney in 2023. Most popular hashtags: #love #australia #photoshoot.
+  Find top christian Instagram influencers in Sydney in 2023. Most popular hashtags: #explantjourney #model #ad.
 platform: Instagram
-hits: 6
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 6 Instagram influencers like this in Sydney, Australia for you to collaborate.
+hits: 5
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 5 Instagram influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "johnemmanuelfloralevents"
+  - username: "krystalhipwell"
     fullname: >-
-      John Emmanuel Floral Events
+      Krystal
     bio: >-
-      For our 30% off #inthistogether promotion please visit www.inthistogether.sydney @luxurysilksbyjohnemmanuel
+      SUNNY• NAKODA • HUSKY | Blogger | Fitness Trainer | living in Sydney| Christian | For collabs ✉️ grace@22.com.au
     location: "Australia"
-    followers: 83257
-    engagement: 63
-    commentsToLikes: 0.044572
-    id: ck0w774lxc3hh0i19d3fo27i1
-    verified: false
-    hashtags: "#sydney, #luxuryweddings, #weddingdecor, #bride"
+    followers: 178011
+    engagement: 276
+    commentsToLikes: 0.038745
+    id: ck0u7ht4d4qv70i197bu3aypa
+    verified: true
+    hashtags: "#explantjourney, #mygirl, #ad, #huskyboy"
   - username: "rhiannonkate__"
     fullname: >-
       Rhiannon Greenaway
     bio: >-
-      21 y/o in Sydney, AU | Christian Freelance illustrator + design student Food and travels: @find_rhi ♡ ꈍᴗꈍ
+      22 y/o in Sydney, AU | Christian Freelance illustrator + design student Food and travels: @find_rhi ♡ ꈍᴗꈍ
     location: "Australia"
-    followers: 24202
-    engagement: 990
-    commentsToLikes: 0.028423
+    followers: 27652
+    engagement: 905
+    commentsToLikes: 0.027431
     id: ck5ceqnfqlinm0i1185q09kg0
     verified: false
-    hashtags: "#sixfanarts"
-  - username: "silvernomads_"
+    hashtags: ""
+  - username: "rprtalent"
     fullname: >-
-      TRAVEL & PHOTOGRAPHY
+      RPR Talent Management
     bio: >-
-      Dan & Rhonda Bannister😀 📍🇦🇺Australia🏡•Travel 🛫•Nature🏕•Animal🐘💕 •📸Credit given🌝 📧dan@silvernomads.travel Affiliated to @holidaysforcouples
+      |▪️Film, TV & Commercial Talent Agency - AUS 🇦🇺🎬 |▪️Proud sponsors @vidcon @castingguildaust |▪️Owned and operated by @roslynrpr |▪️Apply ⬇️
     location: "Australia"
-    followers: 63814
-    engagement: 63
-    commentsToLikes: 0.039950
-    id: ck15t2k7ag0ya0i199n3dhvy8
+    followers: 24271
+    engagement: 42
+    commentsToLikes: 0.028233
+    id: ck13cxxke2pjp0i19t3i1xda2
     verified: false
-    hashtags: "#instaphotos, #theimaged, #earthpix, #australian"
-  - username: "madeformadison"
+    hashtags: "#extras, #vidcon, #actor, #openday"
+  - username: "chrisstinaxa"
     fullname: >-
-      Christina- Lifestyle/Mum Blog
+      CHRISTINA PINCEVIC
     bio: >-
-      Sydney🇦🇺•Mum of 2 👭•Wifey•Contributor @bumpintomums •FAMILY•TOYS•FOOD•FUN•TRAVEL•STYLE•DIY •Reviews/PR/Events/Collabs 📧madeformadison11@gmail.com
+      REAL ESTATE 🔑 | DIRECTOR @bokarealestate 💌 DM for bookings/collabs 🇭🇷| Sydney based
     location: "Australia"
-    followers: 24622
-    engagement: 185
-    commentsToLikes: 0.392603
-    id: ck5zsa9ejy42d0i149gg99y70
+    followers: 3459
+    engagement: 967
+    commentsToLikes: 0.102388
+    id: ck6ugskxe4x600j71jekc16n4
     verified: false
-    hashtags: "#snackideas, #mumsofinsta, #kidsathome, #familyfuntime"
+    hashtags: "#bokarealestate, #dreamteam, #catwalkinstyle"
   - username: "christinaplay"
     fullname: >-
       CHRISTINA
     bio: >-
       Sydney, Australia 🇦🇺🇲🇰 Wife & Mummy
     location: "Australia"
-    followers: 59736
-    engagement: 109
-    commentsToLikes: 0.091417
+    followers: 59066
+    engagement: 104
+    commentsToLikes: 0.078887
     id: ck6tt4uzh8m0b0j716j3egmpo
     verified: false
-    hashtags: "#glam, #hair, #selfie, #halloween2020"
-  - username: "chrisstinaxa"
+    hashtags: "#glam, #photoshoot, #sunshine, #summer"
+  - username: "krystalhipwell"
     fullname: >-
-      CHRISTINA PINCEVIC
+      Krystal
     bio: >-
-      🏠 REALESTATE | DIRECTOR @bokarealestate_ 💌 DM for bookings/collabs 📸 @royallemodelling 🇭🇷 Croatian | Sydney based 📍
+      SUNNY• NAKODA • HUSKY | Blogger | Fitness Trainer | living in Sydney| Christian | For collabs ✉️ grace@22.com.au
     location: "Australia"
-    followers: 2948
-    engagement: 977
-    commentsToLikes: 0.107170
-    id: ck6ugskxe4x600j71jekc16n4
-    verified: false
-    hashtags: "#bokarealestate, #dreamteam, #catwalkinstyle"
-  - username: "jennybeeen"
-    fullname: >-
-      Jenny Blenk | Content Creator
-    bio: >-
-      German living in Brisbane 🤍 God is love |progressive Christianity| empowerment 💌jenny.em.blenk@gmail.com New video👇🏼
-    location: "Australia"
-    followers: 7040
-    engagement: 1114
-    commentsToLikes: 0.223159
-    id: ck5honakipv940i114q4oggvy
-    verified: false
-    hashtags: "#smallinfluencer, #favouriteoutfit, #brisbaneblogger, #blogger"
-  - username: "bizzzaa_"
-    fullname: >-
-      BIZZZAAA 🉐
-    bio: >-
-      • Glory2God ✞ • ChristianAthlete☝🏽✨ • Born&Raised_Mounty🇼🇸🇨🇳 • Salaamí💍 + A & C🦋💗
-    location: "Australia"
-    followers: 57086
-    engagement: 1855
-    commentsToLikes: 0.006165
-    id: ck13d1huw36v00i19t83sxjg4
-    verified: false
-    hashtags: "#g2gmentality, #rip, #embraace, #4u"
-  - username: "theprincewilkins"
-    fullname: >-
-      CHRISTIAN WILKINS
-    bio: >-
-      CHADWICK MANAGEMENT martin@chadwickmodels.com⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ christianwilkins@hotmail.com ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ conceived at the Logie Awards after party
-    location: "Australia"
-    followers: 27538
-    engagement: 711
-    commentsToLikes: 0.041911
-    id: ck5zyassw9jhy0i149xbw43ir
+    followers: 178011
+    engagement: 276
+    commentsToLikes: 0.038745
+    id: ck0u7ht4d4qv70i197bu3aypa
     verified: true
-    hashtags: "#edenonstan, #starwarsxpandora, #shotforpandora, #escapesnaps"
+    hashtags: "#explantjourney, #mygirl, #ad, #huskyboy"
   - username: "rhiannonkate__"
     fullname: >-
       Rhiannon Greenaway
     bio: >-
-      21 y/o in Sydney, AU | Christian Freelance illustrator + design student Food and travels: @find_rhi ♡ ꈍᴗꈍ
+      22 y/o in Sydney, AU | Christian Freelance illustrator + design student Food and travels: @find_rhi ♡ ꈍᴗꈍ
     location: "Australia"
-    followers: 24202
-    engagement: 990
-    commentsToLikes: 0.028423
+    followers: 27652
+    engagement: 905
+    commentsToLikes: 0.027431
     id: ck5ceqnfqlinm0i1185q09kg0
     verified: false
-    hashtags: "#sixfanarts"
+    hashtags: ""
+  - username: "christianpillirone"
+    fullname: >-
+      Christian Pillirone
+    bio: >-
+      "𝑻𝒉𝒆 𝑺𝒊𝒍𝒗𝒆𝒓 𝑺𝒑𝒊𝒅𝒆𝒚" 🇦🇺 Melb, AUS 🖥 Artist 🦸🏻‍♂️ Cosplayer 📧 christian.pillirone@gmail.com #mentalhealthawareness Advocate
+    location: "Australia"
+    followers: 15005
+    engagement: 727
+    commentsToLikes: 0.028687
+    id: ck6u3rnbrzhh90j71w488skwv
+    verified: false
+    hashtags: "#spidermanedit, #intothespiderverse, #spiderverse, #spidergwen"
+  - username: "christianspencerphoto"
+    fullname: >-
+      Christian Spencer
+    bio: >-
+      Christian Spencer is an Australian born award winning artist, photographer and filmmaker. Prints via website To see paintings: @christianspencer_art
+    location: "Australia"
+    followers: 27367
+    engagement: 594
+    commentsToLikes: 0.017839
+    id: ck0u06qwzstrb0i19h6y4awb7
+    verified: false
+    hashtags: "#christianspencer, #swpaopen2021, #avesdobrazil, #yourshotphotographer"
+  - username: "trinitywestern"
+    fullname: >-
+      Trinity Western University
+    bio: >-
+      Trinity Western is Canada's premier global Christian liberal arts university — committed to inspiring hearts & minds. 🇨🇦 #TWUlife
+    location: "Australia"
+    followers: 10309
+    engagement: 309
+    commentsToLikes: 0.010559
+    id: ck5zpbdyescr40i14ccwurej1
+    verified: false
+    hashtags: "#agenerationready, #trinitywesternuniversity, #twulife, #inspiringheartsandminds"
 ---

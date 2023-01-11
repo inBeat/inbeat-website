@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Pakistan in 2023
+title: Top 10 TikTok Influencers In Pakistan In 2023
 description: >-
-  Find top TikTok influencers in Pakistan in 2023. Most popular hashtags: #foryou #duet #voocitup #fyp.
+  Find top TikTok influencers in Pakistan in 2023. Most popular hashtags: #foryou #foryoupage #fyp #powerkapunch.
 platform: TikTok
-hits: 3766
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 3766 TikTok influencers like this in Pakistan for you to contact.
+hits: 3847
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 3847 TikTok influencers like this in Pakistan for you to connect with.
 profiles:
-  - username: "rehankhan21738"
+  - username: "maslam5006"
     fullname: >-
-      Rehan Khan
+      M aslam 500
     bio: >-
       
     location: "Pakistan"
-    followers: 7972
-    engagement: 8998
-    commentsToLikes: 0.342083
-    id: ckbq3n8p2q71w0j2310asw4rr
-    verified: false
-    hashtags: "#expresions, #love, #forryou, #new"
-  - username: "mallikasad2"
-    fullname: >-
-      Malik ALLA DITTA
-    bio: >-
-      Malik Asad❤🌹❤👍
-    location: "Pakistan"
-    followers: 4103
-    engagement: 7329
-    commentsToLikes: 0.079269
-    id: ckbvu9nzvt16a0j23v53lw0s6
-    verified: false
-    hashtags: "#duet, #voiceeffects"
-  - username: "imran_ali36"
-    fullname: >-
-      Imran_Ali🇵🇰🇵🇰
-    bio: >-
-      80 تے 11 دے یار ہاں
-    location: "Pakistan"
-    followers: 7852
-    engagement: 7297
-    commentsToLikes: 0.256252
-    id: ckcei02tvpzqf0j23v9mugr63
-    verified: false
-    hashtags: "#viralvideos, #burhantv, #100klikes, #bhrantv"
-  - username: "sohailali377"
-    fullname: >-
-      @sohail ali 377
-    bio: >-
-      🌹 Khan 🌹 faisalabad 🌹 group🌹 Sohail Ali 🌹Ajay 🌹SS🌹RR🌹
-    location: "Pakistan"
-    followers: 2957
-    engagement: 7252
-    commentsToLikes: 0.437838
-    id: ckdmu5ngdarws0j23fftgryr9
-    verified: false
-    hashtags: "#duet, #foryou, #bahut, #sohail"
-  - username: "kami__441"
-    fullname: >-
-      Kamran
-    bio: >-
-      follow me on Instagram handsome_786 👉IAM not soldier but interesting in sold
-    location: "Pakistan"
-    followers: 4196
-    engagement: 7054
-    commentsToLikes: 0.377072
-    id: ckb0kpiw2bhj10j233nc7ggqi
-    verified: false
-    hashtags: "#foryou, #foryoupage, #duet, #voocitup"
-  - username: "maslam557"
-    fullname: >-
-      M aslam Ali
-    bio: >-
-      
-    location: "Pakistan"
-    followers: 11400
-    engagement: 7049
-    commentsToLikes: 0.083309
+    followers: 16200
+    engagement: 8813
+    commentsToLikes: 0.156985
     id: ckdh7l4opubck0j23tcft0sa2
     verified: false
-    hashtags: "#foryou, #duet, #fyp, #voocitup"
+    hashtags: "#1million, #standwithkashmir, #fyp, #foryou"
   - username: "allahrakha516"
     fullname: >-
       Allah Rakha
     bio: >-
       itx_Allah Rakha 😉
     location: "Pakistan"
-    followers: 7245
-    engagement: 6996
-    commentsToLikes: 0.107728
+    followers: 8025
+    engagement: 8089
+    commentsToLikes: 0.277193
     id: ckbethxbrchqf0j23wdq4def4
     verified: false
-    hashtags: "#shapeshift"
-  - username: "touqeer144"
+    hashtags: "#duet"
+  - username: "sohailali377"
     fullname: >-
-      TauqeerHassnain
+      @sohail ali 377
+    bio: >-
+      So sweet I love you too😘SR😘faisalabad 🤲 🤗🤗@sohailali377♥️🤗👈
+    location: "Pakistan"
+    followers: 3537
+    engagement: 7922
+    commentsToLikes: 0.618642
+    id: ckdmu5ngdarws0j23fftgryr9
+    verified: false
+    hashtags: "#ajaydevgan, #foryou, #foryoupage, #sohailali377"
+  - username: "imran_aliofficial0"
+    fullname: >-
+      Imran_Ali🇵🇰🇵🇰
+    bio: >-
+      وَتُعِزُمَن تَشَاءُوَتُذِلُمَن Thanks my all lovely friend 🤟باواجی چینوٹ 🇵?
+    location: "Pakistan"
+    followers: 7733
+    engagement: 7440
+    commentsToLikes: 0.421437
+    id: ckcei02tvpzqf0j23v9mugr63
+    verified: false
+    hashtags: ""
+  - username: "eyesqueen17"
+    fullname: >-
+      eyes queen...😍.
+    bio: >-
+      my eyes video.....
+    location: "Pakistan"
+    followers: 2857
+    engagement: 7126
+    commentsToLikes: 0.158652
+    id: ckc91z7hys9c50j232zilxtrm
+    verified: false
+    hashtags: "#fyp, #tiktokpakistan, #fortnite, #eyesqueen17"
+  - username: "shokatkhokhar33333"
+    fullname: >-
+      Shokat khokhar 33333
+    bio: >-
+      Shokat khokhar 33333
+    location: "Pakistan"
+    followers: 5243
+    engagement: 7013
+    commentsToLikes: 0.117470
+    id: ckb96bszkohsr0j23174i59y4
+    verified: false
+    hashtags: "#foryou, #foruyoupage, #stundwithkashmir, #hahaha"
+  - username: "rehankhan21738"
+    fullname: >-
+      Rehan Khan
     bio: >-
       
     location: "Pakistan"
-    followers: 21300
-    engagement: 6727
-    commentsToLikes: 0.154537
-    id: ckae1ezlmokyd0i78neli3kie
+    followers: 9229
+    engagement: 6421
+    commentsToLikes: 0.460871
+    id: ckbq3n8p2q71w0j2310asw4rr
     verified: false
-    hashtags: "#touqeer144, #faryou, #iul, #vip"
-  - username: "oshakawan184"
+    hashtags: "#foryouuuu, #exprissions, #100k, #tiktokforyoupage"
+  - username: "chfarman2"
     fullname: >-
-      Oshak 184
+      Ch Farman
+    bio: >-
+      👆👆 انشاء اللہ insta & utube ❤️❤️❤️❤️
+    location: "Pakistan"
+    followers: 18400
+    engagement: 6169
+    commentsToLikes: 0.124556
+    id: cka0g3r3t2fwy0i78xxtpp572
+    verified: false
+    hashtags: "#sadshairi, #foryoupage, #100m, #burhan"
+  - username: "tipucompany"
+    fullname: >-
+      Tipu Sultan
+    bio: >-
+      Vintage Black & White Actor 🎥 Like for Like Follow for Follow #Tipu_Company
+    location: "Pakistan"
+    followers: 3902
+    engagement: 5739
+    commentsToLikes: 0.302907
+    id: ckc799uzcj5k10j23dkpyoc6p
+    verified: false
+    hashtags: ""
+  - username: "saimaansari37"
+    fullname: >-
+      Saima Ansari
     bio: >-
       
     location: "Pakistan"
-    followers: 7327
-    engagement: 6561
-    commentsToLikes: 0.072285
-    id: ckcekmjdbu2aa0j23nyncxocp
+    followers: 6427
+    engagement: 5713
+    commentsToLikes: 0.139376
+    id: cka8hgtirat560i785dj9vbq8
     verified: false
-    hashtags: "#oshak, #awan, #ali"
-  - username: "munawarbuledi"
-    fullname: >-
-      Munawar Ali
-    bio: >-
-      🌹جیئے سندہ🌹 🌹منور بلیدی کلفٹن والا🌹
-    location: "Pakistan"
-    followers: 11700
-    engagement: 6519
-    commentsToLikes: 0.075610
-    id: ckdso8hobo3qo0j23hpfpe9i1
-    verified: false
-    hashtags: "#voiceeffects, #shapeshift, #tiktok, #foryoupage"
+    hashtags: "#fouryoupage, #foryou, #funny, #tiktokindia"
 ---

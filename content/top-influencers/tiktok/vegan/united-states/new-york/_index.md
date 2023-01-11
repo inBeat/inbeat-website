@@ -1,84 +1,84 @@
 ---
-title: Top 10 Vegan TikTok Influencers In New York in 2023
+title: Top 10 Vegan TikTok Influencers In New York In 2023
 description: >-
-  Find top vegan TikTok influencers in New York in 2023. Most popular hashtags: #fyp #vegan #foryou #newyork.
+  Find top vegan TikTok influencers in New York in 2023. Most popular hashtags: #vegan #fyp #greenscreen #newyork.
 platform: TikTok
-hits: 41
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 41 TikTok influencers like this in New York, United States for you to connect with.
+hits: 33
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat has 33 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "lee.hurst"
+  - username: "ctbnyc"
     fullname: >-
-      Lee Hurst
+      Caity Begg
     bio: >-
-      IG: @lee.hurst
+      💬 AuthSocial Founder 🤧 Harvard 🍎 Life in NYC ⬇️ NYC Hotspots Map
     location: "United States"
-    followers: 7080
-    engagement: 819
-    commentsToLikes: 0.062174
-    id: cka6f8k7aeotu0i780kex0mby
+    followers: 14500
+    engagement: 688
+    commentsToLikes: 0.061143
+    id: ck9dwo9cypubj0j78n22mqy39
     verified: false
-    hashtags: "#comedy, #truth, #nycapartmenttour, #momsoftiktok"
-  - username: "logangood_"
+    hashtags: "#nyceats, #nyccheck, #bestburger, #burger"
+  - username: "laurenzray"
     fullname: >-
-      Logan Good
+      Lauren Z Ray
     bio: >-
-      🌎 Travel the Globe & #DoSomeGood 👆 Want to change the world? Follow Me!
+      My Mini Travel 🌎 Vlogs + other stuff
     location: "United States"
-    followers: 310200
-    engagement: 2392
-    commentsToLikes: 0.057415
-    id: ck87tx8bf3x530j78nq5563bx
+    followers: 89400
+    engagement: 783
+    commentsToLikes: 0.055163
+    id: ckbqdfsjgzfws0j23m92pvvxq
     verified: false
-    hashtags: "#plastic, #beimir, #foryou, #tiktalk"
-  - username: "shaylynn.edwards"
+    hashtags: "#christmas, #washingtondc, #xmas, #newyork"
+  - username: "diego.j.rivas"
     fullname: >-
-      Shay
+      Diego Rivas
     bio: >-
-      24 | Queer | Vegan Philadelphia if ur a potential employer, no ur not
+      CEO of Gibberish 🗣 Interesting things you’ve never heard of 🌎
     location: "United States"
-    followers: 25200
-    engagement: 700
-    commentsToLikes: 0.013932
-    id: ck8vy2fzpswmo0j78jcvanm6v
+    followers: 153700
+    engagement: 1085
+    commentsToLikes: 0.033592
+    id: ck8qj596fbz3f0j78uqgujo6l
     verified: false
-    hashtags: "#lgbt, #thisisus, #couplegoals, #foryoupage"
-  - username: "johnphilp3"
+    hashtags: "#hispanic, #learn, #espa, #tiktokpartner"
+  - username: "tonimariechiavola"
     fullname: >-
-      johnphilp3
+      Tonimarie
     bio: >-
-      the craziest thing we can do is nothing ⚡️ Texan in NYC IG: @johnphilp3
+      Instagram: @tonimariechiavola
     location: "United States"
-    followers: 38400
-    engagement: 552
-    commentsToLikes: 0.017847
-    id: ck9nidthwgsi70j785bus7p8o
+    followers: 2202
+    engagement: 348
+    commentsToLikes: 0.044792
+    id: ckc37zcu7wt6n0j23ha6k9b5b
     verified: false
-    hashtags: "#dairyfree, #fyp, #mealprep, #quickrecipes"
-  - username: "cherrymandering"
+    hashtags: "#foryou, #fitness, #fyp, #foryoupage"
+  - username: "happyhikerr"
     fullname: >-
-      cherry mandering
+      olivia leonard
     bio: >-
-      18+ only https://discord.gg/neHQKYr pringles can guy @acronach6 for not politics
+      amateur running vlogger // God is GOOD ♡
     location: "United States"
-    followers: 3841
-    engagement: 720
-    commentsToLikes: 0.126056
-    id: ck9fg7uni0lci0j78i6fxoap4
+    followers: 21300
+    engagement: 973
+    commentsToLikes: 0.018396
+    id: ckb9kqjm5cvah0j23z04y784p
     verified: false
-    hashtags: "#trump, #socialism, #eattherich, #9axes"
-  - username: "calbal12345"
+    hashtags: "#mentalhealthmatters, #dog, #fyp, #ocd"
+  - username: "itshuyennguyen"
     fullname: >-
-      Cal
+      Huyen Nguyen | NYC
     bio: >-
-      20, California//New York
+      📍New York City Fashion • Beauty • Self Love 📩 : itshuyennguyen@gmail.com
     location: "United States"
-    followers: 6637
-    engagement: 901
-    commentsToLikes: 0.066081
-    id: ck81q7mxlgleb0j78522u17z5
+    followers: 14700
+    engagement: 689
+    commentsToLikes: 0.045216
+    id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#fashion, #britneyspears, #ohno, #halloween"
+    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
   - username: "giuliasabatinoo"
     fullname: >-
       giulia
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.306454
     id: ckbevm1ivf82w0j239aiiq4na
     verified: false
-    hashtags: "#duet, #fyp, #vegan, #greenscreen"
-  - username: "laurenzray"
+    hashtags: "#fyp, #duet, #greenscreen, #veganteacher"
+  - username: "verifiedbluecheckmarc"
     fullname: >-
-      Lauren Z Ray
+      Marc ✅
     bio: >-
-      My Mini Travel 🌎 Vlogs + vegan food
+      POV IT MADE YOU L👀K VEGAN JEWISH DAD 📍NY FOLLOW MY BIZ: @twenty_four_store
     location: "United States"
-    followers: 91000
-    engagement: 1037
-    commentsToLikes: 0.084531
-    id: ckbqdfsjgzfws0j23m92pvvxq
+    followers: 24100
+    engagement: 722
+    commentsToLikes: 0.078931
+    id: ckacmk4wak0250i78wufumxym
     verified: false
-    hashtags: "#newyorkcity, #fall, #newyork, #tiktoktravel"
-  - username: "jasonspiratos"
-    fullname: >-
-      Jason Spiratos
-    bio: >-
-      I’m a Vegan Gemini who loves Miley Cyrus. K Follow my Instagram @jasonspiratos_
-    location: "United States"
-    followers: 45300
-    engagement: 898
-    commentsToLikes: 0.127864
-    id: ck8s7q59yq8w40j78zt1joku2
-    verified: false
-    hashtags: "#foryou, #hannahmontana, #disney, #nyc"
+    hashtags: "#greenscreen, #millennial, #withouttellingme, #stitch"
   - username: "vegan8ooty"
     fullname: >-
       Vegan Body
     bio: >-
       Vegan Lifestyle Clothing Brand
     location: "United States"
-    followers: 2966
-    engagement: 396
-    commentsToLikes: 0.247120
+    followers: 2934
+    engagement: 312
+    commentsToLikes: 0.271371
     id: ck9evvj1wk8bx0j78f4q9c8cv
     verified: false
-    hashtags: "#veganfashion, #veganlife, #vegana, #govegan"
+    hashtags: "#vegana, #veganbody, #vegan, #veganfitness"
+  - username: "motdcosmetics"
+    fullname: >-
+      Chantal • CEO MOTD Cosmetics
+    bio: >-
+      Owner of @MOTD_Cosmetics Cruelty Free Vegan Beauty Brand Shop Here👇🏼
+    location: "United States"
+    followers: 27100
+    engagement: 918
+    commentsToLikes: 0.036716
+    id: ckahzp8lq49oh0i7838z1e0fr
+    verified: false
+    hashtags: "#veganmakeup, #packingorders, #makeupbrushes, #vegan"
 ---

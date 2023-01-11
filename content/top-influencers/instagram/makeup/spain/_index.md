@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Spain in 2023
+title: Top 10 Makeup Instagram Influencers In Spain In 2023
 description: >-
-  Find top makeup Instagram influencers in Spain in 2023. Most popular hashtags: #makeupartist #makeup #halloweenmakeup #maquillalia.
+  Find top makeup Instagram influencers in Spain in 2023. Most popular hashtags: #nyxcosmetics #editorialmakeup #ttdeye.
 platform: Instagram
-hits: 899
+hits: 703
 text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 899 Instagram influencers like this in Spain for you to work with.
+text_bottom: Our database aggregates 703 Instagram influencers like this in Spain for you to work with.
 profiles:
-  - username: "la_sussi_"
+  - username: "shannademorgan"
     fullname: >-
-      Gonzalo Gervilla Limon
+      Shannade Morgan
     bio: >-
-      🔥MakeUp Artist🔥
+      PRO MAKEUP ARTIST 📍Madrid 🇪🇸 ✉️ shannademorgan01@gmail.com
     location: "Spain"
-    followers: 3254
-    engagement: 3140
-    commentsToLikes: 0.141739
-    id: ck6tqxe2pv7yo0j711l48gtma
+    followers: 41893
+    engagement: 1390
+    commentsToLikes: 0.032200
+    id: ck602xmnzjvns0i14mz1rxvpj
     verified: false
-    hashtags: ""
-  - username: "sbenayas"
-    fullname: >-
-      Sara Benayas
-    bio: >-
-      Pro Makeup Artist sarabenayas1@gmail.com 📍Madrid
-    location: "Spain"
-    followers: 12268
-    engagement: 2128
-    commentsToLikes: 0.085906
-    id: ck5hj6usxg40z0i112p7exbb0
-    verified: false
-    hashtags: "#holidaychallenge, #charlottetilbury, #maquizombie2020, #yesiamfabulous"
+    hashtags: "#entraenescena, #ardellspain, #ardellsquad"
   - username: "yoviyellow"
     fullname: >-
       Makeup Artist
     bio: >-
       ♡Arte♡ TOP 20 NYX PROFESSIONAL MAKEUP FACE AWARDS 2019 Perfil de uñas: @yellownailart
     location: "Spain"
-    followers: 6098
-    engagement: 1908
-    commentsToLikes: 0.100599
+    followers: 16380
+    engagement: 1965
+    commentsToLikes: 0.079642
     id: ck8swg5lgdzvd0j78ywdi48vr
     verified: false
-    hashtags: "#myartistcommunity, #mehron2020, #makeuplooks, #makeupartist"
+    hashtags: "#bodypaint, #bodypainting, #piratasdelcaribe, #muasfam"
+  - username: "la_sussi_"
+    fullname: >-
+      Gonzalo Gervilla Limon
+    bio: >-
+      🔥MakeUp Artist🔥
+    location: "Spain"
+    followers: 3877
+    engagement: 2860
+    commentsToLikes: 0.139045
+    id: ck6tqxe2pv7yo0j711l48gtma
+    verified: false
+    hashtags: ""
   - username: "srta_raquel28"
     fullname: >-
       Raquel 💄 Srta_raquel28 ✨
     bio: >-
       💄 Makeup & lifestyle Peoople: https://peoople.app/srta_raquel28 Contacto: alvarojorgemartin@outlook.com
     location: "Spain"
-    followers: 67285
-    engagement: 1683
-    commentsToLikes: 0.114049
+    followers: 72281
+    engagement: 1249
+    commentsToLikes: 0.114554
     id: ck0vw6t2msd8v0i19vu68964q
     verified: false
-    hashtags: "#sheingals, #essencecosmetics, #ad, #sheinspain"
-  - username: "eirebrush"
+    hashtags: "#pinkandproud, #essencecosmetics, #essencecares, #essencespain"
+  - username: "jani_vdv"
     fullname: >-
-      𝐼𝓇𝑒𝓃𝑒 𝓂𝑜𝓃𝓉𝑒𝓈
+      Jana
     bio: >-
-      ...𝑾𝒂𝒌𝒆 𝒖𝒑 𝒂𝒏𝒅 𝒎𝒂𝒌𝒆 𝒖𝒑... 📍BARCELONA ⚡️ARTISTIC MAKEUP⚡️ 📩 eiremontes@gmail.com 💌Collab’s DM 💌 ⬇️CÓDIGO 10% EIREBRUSH⬇️
+      💄Makeup lover 📍Zaragoza 💬janivdv.makeup@gmail.com
     location: "Spain"
-    followers: 11546
-    engagement: 1667
-    commentsToLikes: 0.109773
-    id: ck6u3iftixz0t0j714yh7nlkd
+    followers: 5923
+    engagement: 772
+    commentsToLikes: 0.185308
+    id: ck6ttg3zbafhf0j71lshd3bik
     verified: false
-    hashtags: "#halloweenmakeup, #artisticmakeup, #darkmakeup, #muasfeaturing"
-  - username: "la.chamaa"
-    fullname: >-
-      Chama ~ SelfLove
-    bio: >-
-      𝑪𝒖𝒓𝒗𝒚 𝒎𝒐𝒅𝒆𝒍 💌infolachama@gmail.com 💋Makeup artist @la.chamamua 💕𝙿𝚛𝚘𝚖𝚘𝚟𝚒𝚎𝚗𝚍𝚘 𝚎𝚕 𝚊𝚖𝚘𝚛 𝚙𝚛𝚘𝚙𝚒𝚘 RESPECT & LOVE🌈💕 #valgomasqueunatalla
-    location: "Spain"
-    followers: 26336
-    engagement: 1103
-    commentsToLikes: 0.042604
-    id: ck13bzngsxxix0i19csjfc9ie
-    verified: false
-    hashtags: "#lifeisbeautiful, #motivation, #valgomasqueunatalla, #selflove"
+    hashtags: "#harrypotter, #zgz, #fantasymakeup, #ttdeye"
   - username: "cattharsix"
     fullname: >-
       Cattharsix
     bio: >-
       📍Asturias @carmengranda_makeupstudio 15% @sheinofficial Code: Carmen115 📩 carmengranda91@gmail.com
     location: "Spain"
-    followers: 9056
-    engagement: 933
-    commentsToLikes: 0.107181
+    followers: 9675
+    engagement: 1240
+    commentsToLikes: 0.126982
     id: ck5hnq48fo7440i11xcpjhigm
     verified: false
-    hashtags: "#makeupinspiration, #makeuprevolution, #orgypalette, #suvabeauty"
-  - username: "miligritoss"
-    fullname: >-
-      MILI
-    bio: >-
-      🤘🏾Soy más totna de lo que parezco, que ya es. ⚡️Social Media + PR @3inaspain @3ina 👐🏽Content creator 🥀Makeup and beauty freak
-    location: "Spain"
-    followers: 8332
-    engagement: 1015
-    commentsToLikes: 0.109111
-    id: ck9hafvxrcds60j78vn4pdhop
-    verified: false
-    hashtags: "#hunkemoller, #unik, #iamunik, #nike"
-  - username: "teresa_g.zman"
-    fullname: >-
-      Teresa Guzman
-    bio: >-
-      #fashion 👗🛍💄📸 Colaboraciones DM y teresa_g.zman@hotmail.com @roarathleticsapparel @tere_makeup6
-    location: "Spain"
-    followers: 24753
-    engagement: 496
-    commentsToLikes: 0.272414
-    id: ck5zm41lgluwd0i14uoahtfo0
-    verified: false
-    hashtags: "#oton, #oto, #oufits, #shein"
+    hashtags: "#mondaysbymitchell, #makeup, #sephoraspain, #undiscovered"
   - username: "themakeupstatement"
     fullname: >-
       R e y e s  P i z a r r o
     bio: >-
       | BEAUTY & MAKEUP LOVER | LIFESTYLE Gaditana en BCN 🌍 Blog 💄TheMakeupStatement.com 🎥 Mi canal de YouTube👇🏻
     location: "Spain"
-    followers: 44744
-    engagement: 412
-    commentsToLikes: 0.144257
+    followers: 47471
+    engagement: 411
+    commentsToLikes: 0.084371
     id: ck0tzlfueqrkh0i196naqct54
     verified: false
-    hashtags: "#sephoralovesyou, #zarawoman, #clubfentybeauty, #udspain"
+    hashtags: "#maquillalia, #benefitspain, #zarawoman, #nyxcosmetics"
+  - username: "teresa_g.zman"
+    fullname: >-
+      Teresa Guzman
+    bio: >-
+      #fashion 👗🛍💄📸 Colaboraciones DM y teresa_g.zman@hotmail.com @tere_makeup6
+    location: "Spain"
+    followers: 24798
+    engagement: 367
+    commentsToLikes: 0.243198
+    id: ck5zm41lgluwd0i14uoahtfo0
+    verified: false
+    hashtags: "#valenciaspain, #fashionstyle, #valencia, #blogger"
+  - username: "belbeauuty"
+    fullname: >-
+      •𝑩𝒆𝒍𝒆𝒏•
+    bio: >-
+      🌵makeup • photography • art ⚡️ 📩 Business / inquires: belenizquierdoyt@gmail.com 💜 10% @maquillalia "BELEN10" 💕 10% @krashkosmetics "BELEN" 🇪🇸 Spain.
+    location: "Spain"
+    followers: 8788
+    engagement: 1619
+    commentsToLikes: 0.421711
+    id: ck5zqz4kivl460i14u9e9cpn7
+    verified: false
+    hashtags: "#editorialmakeup, #nablacosmetics, #ttdeye, #lashes"
+  - username: "maryamsalmiegea"
+    fullname: >-
+      Maryam Salmi Egea
+    bio: >-
+      Makeup artist 💄
+    location: "Spain"
+    followers: 9991
+    engagement: 778
+    commentsToLikes: 0.167483
+    id: ck5qaswmoi34c0i11ks4hvl89
+    verified: false
+    hashtags: "#sublime1031"
 ---

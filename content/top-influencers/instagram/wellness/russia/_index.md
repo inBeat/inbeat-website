@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Russia in 2023
+title: Top 10 Wellness Instagram Influencers In Russia In 2023
 description: >-
-  Find top wellness Instagram influencers in Russia in 2023. Most popular hashtags: #wellness #love #bodybuilding.
+  Find top wellness Instagram influencers in Russia in 2023. Most popular hashtags: #love #gifted #kbeauty.
 platform: Instagram
-hits: 62
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 62 Instagram influencers like this in Russia for you to pitch.
+hits: 61
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 61 Instagram influencers like this in Russia for you to connect with.
 profiles:
-  - username: "valentinazelyaeva"
+  - username: "chichinaalina"
     fullname: >-
-      Valentina Zelyaeva
+      Alina Chichina
     bio: >-
-      Certified health coach • Wellness columnist for ELLE Russia • #wellnestbyval •bookings 😊👇
+      • Wellness entrepreneur @refeel__me, mom and healthful living expert • Co-founder @setters.me @setters_education 📩: chichina.alina@gmail.com Podcast:
     location: "Russia"
-    followers: 152196
-    engagement: 61
-    commentsToLikes: 0.029796
-    id: ck5q8s1nq7ps80i11lboftq00
-    verified: true
-    hashtags: "#beauty, #health, #plantbased, #mindfulness"
-  - username: "anastasia_tobolova"
-    fullname: >-
-      🔥 Настасья Тоболова
-    bio: >-
-      🔘Самые красивые кубики в инстаграмме 🔘Жизнь с самым известным #яжебать в сториз 😈 🔘Мирошка 4 года💙 📲+79111010555 Siberian Wellness❄️👇🏻
-    location: "Russia"
-    followers: 413032
-    engagement: 222
-    commentsToLikes: 0.072089
-    id: ck6tmbcdn7iz80j71vxe274tq
+    followers: 129035
+    engagement: 618
+    commentsToLikes: 0.005189
+    id: ck5bwfzzmlmsp0i11vjghza30
     verified: false
-    hashtags: "#tobolova, #tobolovatobolator, #pillowchallenge, #fliptheswitchchallenge"
+    hashtags: "#dailiestotal1, #trustyourmamanature"
+  - username: "_amorefit_"
+    fullname: >-
+      Natalia 🎇
+    bio: >-
+      Тренер по фитнесу тела и лица🧘🏼‍♀️💆‍♀️ Нутрициолог 🍏 Программы питания и тренировок для дома/спортзала 🧾 Wellness Coach 🌱 Сотруд/Collab📩
+    location: "Russia"
+    followers: 208636
+    engagement: 186
+    commentsToLikes: 0.029180
+    id: ck8t8qfyildu60j7834sy7748
+    verified: false
+    hashtags: "#goodvibes, #haveaniceweekend, #ilbuongiornosivededalmattino, #buonaserata"
+  - username: "behappywithkarina"
+    fullname: >-
+      
+    bio: >-
+      🇬🇧London 🎤Motivational wellness trainer/live transformation 🧬Cognitive Addiction/MindsetMentor Life makeover to restart your life Never too late
+    location: "Russia"
+    followers: 26153
+    engagement: 114
+    commentsToLikes: 0.088574
+    id: ckf5luljdr2yq0j23ie0tjocv
+    verified: false
+    hashtags: "#youcandothis, #setgoalsnotlimits, #ageisjustanumber, #mentoringworks"
+  - username: "veronika_chic"
+    fullname: >-
+      Нутрициолог🌱Эксперт по питанию
+    bio: >-
+      Вероника Селюнина ⠀ YOGA&NUTRITION🌱 ⠀ WELLNESS •Персональные тренировки •Китайская медицина •Аюрведа ⠀ Консультации👇🏻
+    location: "Russia"
+    followers: 54673
+    engagement: 21
+    commentsToLikes: 0.279340
+    id: ck15pljdbyhde0i1985i26sn5
+    verified: false
+    hashtags: ""
+  - username: "olesyabulletka"
+    fullname: >-
+      OlesyaBulletka
+    bio: >-
+      Pole Dancer - Olesya Tyurkina Stream Travel Wellness Sport Art
+    location: "Russia"
+    followers: 27371
+    engagement: 313
+    commentsToLikes: 0.027615
+    id: ck15rz0anaer50i19xjik4xax
+    verified: false
+    hashtags: "#poledance, #heels, #poleexotic, #polefun"
+  - username: "mary.yakhonova"
+    fullname: >-
+      ☆  𝖬𝖺𝗋𝗒 𝖿𝗅𝖺𝗍𝗅𝖺𝗒 & 𝗅𝗂𝖿𝖾𝗌𝗍𝗒𝗅𝖾 ☆
+    bio: >-
+      ★ Не умею сидеть на попе ровно - слишком много мыслей ★ Иногда с пользой ⁂ SIBERIAN WELLNESS - эко продукция, бесплатная регистрация по ссылке ⬇️
+    location: "Russia"
+    followers: 637
+    engagement: 4886
+    commentsToLikes: 0.172919
+    id: ck5q2ryd3hika0i11lywann3g
+    verified: false
+    hashtags: "#siberianwellnes, #siberianwellness"
+  - username: "nadiadamkovskaya"
+    fullname: >-
+      Женственность без taboo 🖤
+    bio: >-
+      International продюсер эмоциональных и немного инновационных проектов, #WELLNESS мотиватор, эстет, креатор, визионер эмоционального бизнеса.
+    location: "Russia"
+    followers: 23956
+    engagement: 148
+    commentsToLikes: 0.026746
+    id: ck5ccn1dihnpu0i11s0c3w7ie
+    verified: false
+    hashtags: "#management, #happy2021, #ihaveafeelingweshouldkiss, #detox"
+  - username: "thatgirlsophy"
+    fullname: >-
+      Sophie • self-care & marketing
+    bio: >-
+      🧋живу в Нью-Йорке 〰️ пишу о ментальном здоровье, self-care и саморазвитии ☁️ wellness • маркетинг • матча ↧ обо мне и проекты
+    location: "Russia"
+    followers: 36195
+    engagement: 971
+    commentsToLikes: 0.016514
+    id: ck9hc32utjjcz0j78gk5ys99s
+    verified: false
+    hashtags: ""
   - username: "glamorable"
     fullname: >-
       Anastasia • Blogger (35+)
     bio: >-
-      Sharing passion for skincare and wellness since 2011 • #BeGlamorable 💌 anastasia@glamorable.com
+      Sharing passion for skincare and wellness since 2011 • #BeGlamorable 👩‍🔬 Pro-science 💌 anastasia@glamorable.com
     location: "Russia"
-    followers: 47783
-    engagement: 92
-    commentsToLikes: 0.044136
+    followers: 45274
+    engagement: 70
+    commentsToLikes: 0.061583
     id: ck9wd29drdquv0j786735tuso
     verified: false
-    hashtags: "#octolyfamily, #beglamorable, #sephora, #tonymolynme"
-  - username: "welps"
+    hashtags: "#kbeauty, #texturetuesday, #octolyfamily, #gifted"
+  - username: "anna_life_journey"
     fullname: >-
-      Welps
+      Anna Abramova / Moro
     bio: >-
-      #welps 🔥 Персональный wellness-ассистент от @tetyamotya 🏋🏼‍♀ Адаптивные тренировки 🥦 Сбалансированное питание ⏳ Поддержка 24/7 📧 bogdana@welps.app
+      🧘🏽‍♀️ Yoga Instructor & wellness expert 📩 DM for collaboration 📍 Kiev Check my yoga promo 👇
     location: "Russia"
-    followers: 79221
-    engagement: 88
-    commentsToLikes: 0.079190
-    id: ck8syh3vgkt590j78gwof37sk
+    followers: 18886
+    engagement: 121
+    commentsToLikes: 0.138971
+    id: ck6ttdnp1a1cz0j71n3t3ffmy
     verified: false
-    hashtags: "#welps"
-  - username: "anywellmag"
-    fullname: >-
-      Anywell
-    bio: >-
-      🌱 Главный wellness-гид 🧘🏻‍♀️ Стиль жизни, который меняет мир 👊🏻 Telegram – anywell 🧴 @anywell.shop 🥑 #beanywell
-    location: "Russia"
-    followers: 23801
-    engagement: 446
-    commentsToLikes: 0.004547
-    id: ck5cawzliealh0i1181c9ggkq
-    verified: false
-    hashtags: ""
-  - username: "andrey.skala"
-    fullname: >-
-      Andrey
-    bio: >-
-      🔝Топ-тренер по фитнесу🔝 🔺Ambassador Reebok🔺 👨🏻‍🎓IFBB Weider College👨🏻‍🎓 🏆Фитнес менеджер🏆 @sportclub.champion По воросам сотрудничества в Direct.
-    location: "Russia"
-    followers: 4151
-    engagement: 1313
-    commentsToLikes: 0.160661
-    id: ck6u4lua34gaj0j71407tq010
-    verified: false
-    hashtags: "#superclub, #gymstudio, #fitnessmotivation, #worldclass"
-  - username: "alenaplatoon"
-    fullname: >-
-      Bikini Body 🌟
-    bio: >-
-      #ifbb вице - чемпионка МО🏆 Автор 📚 Курс ФИТНЕС ПОПА🍑 Старт 2 ноября🏋️‍♂️ Реклама Настя Pr: 7 938 471-59-06 Записаться на марафон 👇👇👇
-    location: "Russia"
-    followers: 451048
-    engagement: 100
-    commentsToLikes: 0.037370
-    id: ck14joayald2c0i19xubs1bw0
-    verified: false
-    hashtags: "#fitnessmodel, #wellness, #fitnessmotivation, #fitnessbikini"
-  - username: "visit_to_korea"
-    fullname: >-
-      Корея Сеул  Гид
-    bio: >-
-      Немного Южнее Северной Кореи 👩‍🦰 Татьяна - 15 лет в Корее, гид и переводчик ⠀ Сотрудничество DM ⠀ 제품협찬 /뷰티 ⠀ #visit_korea_навигация
-    location: "Russia"
-    followers: 33920
-    engagement: 389
-    commentsToLikes: 0.018611
-    id: ckaote407vj8o0i782806b12y
-    verified: false
-    hashtags: "#wellnesskorea, #wellnesstourismsupporters, #jeju, #lavalsehotel"
-  - username: "violettasekler"
-    fullname: >-
-      Certified Personal coach
-    bio: >-
-      💠Happiness Сoach 💠Relationship Expert 💠Empowering you to create the life of your dreams 💠and all your wishes to come true 🌐Wordwide 💠English, Russian
-    location: "Russia"
-    followers: 138436
-    engagement: 111
-    commentsToLikes: 0.003767
-    id: ckapc5c7u2j7j0i78nf1obwvo
-    verified: false
-    hashtags: "#lovemylife, #wellness, #brisben, #lifecoach"
-  - username: "isashaice"
-    fullname: >-
-      🧊САША АЙС🧊
-    bio: >-
-      📸YouTube - 2,2m 🎶TikTok - 1,4m ⛸Фигуристка 🎀общий - @kuper.ice 📩sashaice@didenok.com
-    location: "Russia"
-    followers: 1105323
-    engagement: 600
-    commentsToLikes: 0.023512
-    id: ck6tqyy3avnfq0j71qx7262tz
-    verified: false
-    hashtags: "#siberianwellness, #wellnessgeneration"
+    hashtags: "#love, #weddingdress, #yoga, #couplegoals"
 ---

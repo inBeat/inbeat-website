@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Peru in 2023
+title: Top 10 Cinema Instagram Influencers In Peru In 2023
 description: >-
-  Find top cinema Instagram influencers in Peru in 2023. Most popular hashtags: #photography #peru #portrait #love.
+  Find top cinema Instagram influencers in Peru in 2023. Most popular hashtags: #art #photography #girl #music.
 platform: Instagram
 hits: 15
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 15 Instagram influencers like this in Peru for you to work with.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 15 Instagram influencers like this in Peru for you to collaborate.
 profiles:
-  - username: "yeyophotos"
+  - username: "danieladarlin"
     fullname: >-
-      📸 Yeyoph 🎥
+      🎷🎤💃DANIELA DARLIN💃🎤🎷
     bio: >-
-      Youtube: yeyoph 📍 Madrid - Spain NUEVO VÍDEO EN YOUTUBE 👇🏽
+      🎷Saxofonista / Bailarina💃 👩‍💻CEO @evolutioneventscorp @dcevnts🎉 🎓Produccion/Cinematografía🎬 🎤Cantante @danidyfranky🎙
     location: "Peru"
-    followers: 160867
-    engagement: 291
-    commentsToLikes: 0.056165
-    id: ck5cas82xe0wp0i115daayg49
+    followers: 93047
+    engagement: 139
+    commentsToLikes: 0.029135
+    id: ck13db9sb4l560i19utmxywbr
     verified: false
-    hashtags: "#yeyophotos, #portrait, #photography, #creativephotography"
+    hashtags: "#work, #danieladarlin, #happy, #amor"
   - username: "taddtm"
     fullname: >-
       Taddtm
     bio: >-
-      🇵🇪 Illustrator and Character Designer Hago tutoriales en Tiktok ✨ Wallpapers en mis Highlights 👇
+      🇵🇪 Illustrator, Character Designer and NFT artist Hago tutoriales en Tiktok ✨ Adorable Underground Series👇 #nft #nftcrypto
     location: "Peru"
-    followers: 21169
-    engagement: 997
-    commentsToLikes: 0.010852
+    followers: 19406
+    engagement: 1152
+    commentsToLikes: 0.014286
     id: ck139734kjv290i19y9kim7wd
     verified: false
-    hashtags: "#octane, #c4d, #illustration, #maxon"
-  - username: "renzovegafoto"
+    hashtags: "#aesthetic, #adobe, #videogames, #nft"
+  - username: "grancuriosidad"
     fullname: >-
-      Renzo Vega Portrait
+      Gran Curiosidad
     bio: >-
-      Boudoir: @renzovegafoto.boudoir Personal @renzovega.pe Portafolio: @renzovegafoto.empresa Usa #renzovegafoto Lima, Perú 📷 🇵🇪
+      Todo para incentivar tu espíritu curioso ⁉️ 💡Datos, Curiosidad y mucho ASOMBRO 🤙 Nuevo CANAL DE TELEGRAM ⬇️
     location: "Peru"
-    followers: 8490
-    engagement: 899
-    commentsToLikes: 0.743623
-    id: ck134l3iawybx0i19i4wehsrj
+    followers: 87612
+    engagement: 1077
+    commentsToLikes: 0.013073
+    id: ck8t3bsla2o400j784rirzbru
     verified: false
-    hashtags: "#ourportraitsdays, #777luckyfish, #theportraitpr0ject, #of2humans"
+    hashtags: "#cin, #capitulo, #curioso, #cinefilo"
   - username: "chrishonninger"
     fullname: >-
       Chris
     bio: >-
       lima - berlin mind over matter. FX TD @rise_fx @izaio.modelmanagement
     location: "Peru"
-    followers: 13160
-    engagement: 731
-    commentsToLikes: 0.044561
+    followers: 14560
+    engagement: 525
+    commentsToLikes: 0.053627
     id: ck5cg172fnzao0i11tld4gm4c
     verified: false
-    hashtags: "#leadinglines, #photography, #35mmfilm, #gallery"
-  - username: "_jeanpierrediaz"
+    hashtags: "#reflection, #analogueportraits, #goldenratio, #dreamermagazine"
+  - username: "alvaroportillato"
     fullname: >-
-      Jean Pierre Díaz
+      Alvaro Portilla
     bio: >-
-      Actor, Photographer and Filmmaker 📷@jeanpierrediazphoto 🎬 @enlalunafilms
+      🎥 Filmmaker | Editor 🈴 @letsgetbrnd 📍 Lima, Perú.
     location: "Peru"
-    followers: 29072
-    engagement: 121
-    commentsToLikes: 0.032876
-    id: ckap65qw3eihs0i78j14qxrl2
+    followers: 4203
+    engagement: 1143
+    commentsToLikes: 0.079619
+    id: ck5hfs5g2z1s80i11lltnst35
     verified: false
-    hashtags: "#alphabysony, #jeanpierrediaz, #filmmaker, #sonylatin"
-  - username: "oom.peru"
+    hashtags: "#sonyalpha, #killaexpeditions, #beach, #earthpix"
+  - username: "silviamarso"
     fullname: >-
-      C E S A R V
+      Silvia Marsó oficial
     bio: >-
-      Experiential Creative & Art Director Photo & Film 📷 Todos tenemos una historia que contar🔥 - 📍Lima, Perú OUT OF MIND[ oom.peru@gmail.com
+      Actriz, cantante y productora @lamarsoproduce #24horasenlavidadeunamujer 🎬 #merlísapereaude #elsecretodepuenteviejo
     location: "Peru"
-    followers: 9213
-    engagement: 981
-    commentsToLikes: 0.099562
-    id: ckaorxytqp9sx0i78spz9m5oj
+    followers: 27873
+    engagement: 346
+    commentsToLikes: 0.058018
+    id: ck5zxz2498xmo0i14ogn1niq9
     verified: false
-    hashtags: "#viajandoporelmundo, #dronestagram, #sonyalpha, #natgeoadventure"
+    hashtags: "#germa, #actriz, #xavieralbert, #felipeansola"
   - username: "jimbo.pe"
     fullname: >-
       J I M B O
     bio: >-
-      🧃 contacto: jimbocorreo@gmail.com
+      🧃 contacto: jimbocorreo@gmail.com つづく
     location: "Peru"
-    followers: 17711
-    engagement: 362
-    commentsToLikes: 0.045227
+    followers: 17906
+    engagement: 351
+    commentsToLikes: 0.047391
     id: ck5hpip5hrfpj0i11b2yfe8am
     verified: false
-    hashtags: "#pandemia, #psicodelic, #cat, #sailormoonredraw"
+    hashtags: "#ilustracion, #art, #anime, #drawing"
   - username: "anypuello"
     fullname: >-
       Any Puello
     bio: >-
       🇩🇴 Cantante, influencer, compositora, actriz, #noticiasde1minuto #verdaderasnoticias @arisvaldezjr 🔒❤️ Invitaciones 201.779.8172 AAA 💖
     location: "Peru"
-    followers: 166306
-    engagement: 157
-    commentsToLikes: 0.054192
+    followers: 169396
+    engagement: 163
+    commentsToLikes: 0.054816
     id: ck15t9atrgyns0i19hwhrhvgg
     verified: false
-    hashtags: "#jesus, #tbt, #metocaami, #noticiasde1minuto"
+    hashtags: "#metocaami, #jesus, #noticiasde1minuto, #sabiduria"
   - username: "rpadillarequena"
     fullname: >-
       Rolando Padilla
     bio: >-
       Actor, cantante, compositor, productor, albañil, plomero, electricista (+/-). Amante del derecho y la política
     location: "Peru"
-    followers: 108493
-    engagement: 48
-    commentsToLikes: 0.058348
+    followers: 117264
+    engagement: 46
+    commentsToLikes: 0.039819
     id: ck5hd19yukzkx0i11gove4cur
     verified: false
-    hashtags: "#cuerposanosexosano, #magichoney, #fuerza, #repost"
-  - username: "catrina.catstyle"
+    hashtags: "#magichoney, #100, #vigor, #cuerposanosexosano"
+  - username: "suco_xd"
     fullname: >-
-      𝕱𝖆𝖇𝖎𝕮𝖆𝖙𝖗𝖎𝖓𝖆💙
+      ⚡️ Anthony Herrera ⚡️
     bio: >-
-      DONT STOP DREAMING 💕 ☄️22% 📌𝙿𝚎𝚛𝚞́🇵🇪 📍𝙰𝚛𝚎𝚚𝚞𝚒𝚙𝚊 @seb9.9 🖤 Pᴀʀᴀ ᴄᴀᴅᴀ ʟᴏᴄᴏ ʜᴀʏ ᴜɴ ᴄᴏᴄᴏ🥥 ✨𝙳𝚒𝚜𝚎𝚗̃𝚊𝚍𝚘𝚛𝚊 ✨𝙵𝚒𝚝𝚗𝚎𝚜𝚜 Embajadora @meridianbet.pe Regístrate⬇️
+      •Cantante 😎🎤 •Ecuatoriano 🇪🇨🔥 •Contratos: contactosuco12@gmail.com / 0962792430 •Escucha mi nueva canción “Tra Tra”👇🏻
     location: "Peru"
-    followers: 22192
-    engagement: 528
-    commentsToLikes: 0.295767
-    id: ck0w1gfctj7vm0i196s2nzml5
+    followers: 16238
+    engagement: 617
+    commentsToLikes: 0.238933
+    id: ck8tbyajmxnnl0j781sphptyg
     verified: false
-    hashtags: "#loveyourself, #photography, #arequipa, #love"
+    hashtags: "#travel, #cute, #amazing, #instalike"
 ---

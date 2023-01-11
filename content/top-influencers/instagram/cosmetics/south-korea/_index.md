@@ -1,96 +1,60 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In South Korea in 2023
+title: Top 10 Cosmetics Instagram Influencers In South Korea In 2023
 description: >-
-  Find top cosmetics Instagram influencers in South Korea in 2023. Most popular hashtags: #cosmetics #beauty #kbeauty #makeup.
+  Find top cosmetics Instagram influencers in South Korea in 2023. Most popular hashtags: #cosmetics #kbeauty #makeup #beauty.
 platform: Instagram
-hits: 77
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 77 Instagram influencers like this in South Korea for you to contact.
+hits: 65
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 65 Instagram influencers like this in South Korea for you to contact.
 profiles:
-  - username: "ariarisom"
-    fullname: >-
-      아리솜의 짜릿한 뷰티 / ARISOM
-    bio: >-
-      💄Korean beauty Creator & blogger 👑 네이버 뷰스타 TOP 10 💋뷰티 블로거/ 크리에이터/유튜버 ❤️Beauty / Cosmetic / Makeup /Travel 여행 계정 @hyunshin_lee
-    location: "South Korea"
-    followers: 101125
-    engagement: 171
-    commentsToLikes: 0.033159
-    id: ck15s5uglbdgt0i19cnaaef8f
-    verified: false
-    hashtags: "#dyson, #lookfantastickr, #exomage, #leadcycle"
   - username: "drtoledoph"
     fullname: >-
       Librado Toledo Jr MD
     bio: >-
       🧏🏼 @toledomedph (CEO) Secretary General: KCCS Philippine Chapter Board Diplomate/Fellow Korean College of Cosmetic Surgery (KCCS). PAAS. PAPSHPI
     location: "South Korea"
-    followers: 15407
-    engagement: 46
-    commentsToLikes: 0.027326
+    followers: 16180
+    engagement: 47
+    commentsToLikes: 0.029186
     id: ck0w0b2xzdazg0i196bte9820
     verified: false
-    hashtags: "#instagram, #bhfyp, #travel, #picoftheday"
-  - username: "leah_miso"
-    fullname: >-
-      LEAH 리아
-    bio: >-
-      항상 짝꿍과 함께해요!✨ @leah_cosmeticskr 작약팔레트, 스타티스 팔레트 준비중🕺🏻 vmffpdl133@naver.com
-    location: "South Korea"
-    followers: 211271
-    engagement: 91
-    commentsToLikes: 0.008097
-    id: ck5pwe65xmen30i11pwumyy8c
-    verified: false
-    hashtags: "#beauty, #eyemakeup, #ad, #makeup"
-  - username: "artistrykorea"
-    fullname: >-
-      아티스트리 코리아 (ARTISTRY Official)
-    bio: >-
-      자연의 순수하고 강력한 힘에 혁신적인 사이언스 테크놀로지를 더해 세상 하나뿐인 오직 당신만의 아름다움을 만들어 갑니다. #Artistry #Beauty #Travel #city #Cosmetic #Art ▼홈페이지 바로가기 ▼
-    location: "South Korea"
-    followers: 47695
-    engagement: 324
-    commentsToLikes: 0.006022
-    id: ck15sbpzhc7dh0i19cm8pa91p
-    verified: true
-    hashtags: "#14, #artistry, #skincare, #porecare"
+    hashtags: "#bhfyp, #photography, #fashion, #flowers"
   - username: "o2____y"
     fullname: >-
       박선영(🕊)
     bio: >-
       @chanho_lee_barber 🚀🛸 𝐌𝐞𝐫𝐜𝐮𝐫𝐲'𝐬 𝐃𝐚𝐲 ↳ 𝐑𝐨𝐦𝐚𝐧𝐞𝐬𝐪𝐮𝐞 ♛ ❞ 👇🏿추천인( psy15 )입력시 5000원 할인🤗
     location: "South Korea"
-    followers: 3101
-    engagement: 1737
-    commentsToLikes: 0.031441
+    followers: 3001
+    engagement: 1789
+    commentsToLikes: 0.031452
     id: ckaovfifv4eak0i78bn0y7tbw
     verified: false
-    hashtags: "#cosmetics, #beauty, #health, #instadaily"
+    hashtags: "#daily, #followforfollowback, #cosmetics, #beauty"
   - username: "mona_monanim"
     fullname: >-
       Mona 모나
     bio: >-
-      @h_ji_water_ - Youtube 유튜브 링크 ! ❛˓◞˂̵✧
+      @h_ji_water_ @blueorange_______ - Youtube 유튜브 링크 ! ❛˓◞˂̵✧
     location: "South Korea"
-    followers: 196243
-    engagement: 204
-    commentsToLikes: 0.008526
+    followers: 187721
+    engagement: 211
+    commentsToLikes: 0.006643
     id: ck0u7qi705ij20i19cqr9yoyo
     verified: false
-    hashtags: "#gloss, #forencos, #makeup, #beauty"
+    hashtags: "#lip, #beauty, #cosmetics, #lips"
   - username: "fugi_bu"
     fullname: >-
       보거
     bio: >-
-      김지연 📩 cosmi126@naver.com
+      김지연 📩 cosmi126@naver.com
     location: "South Korea"
-    followers: 97482
-    engagement: 104
-    commentsToLikes: 0.009236
+    followers: 121796
+    engagement: 90
+    commentsToLikes: 0.002670
     id: ck0tynjldneoh0i19wklqdtj8
     verified: false
-    hashtags: "#beauty, #kbeauty, #mlb, #lotd"
+    hashtags: "#motd, #kbeauty, #lotd, #10"
   - username: "parkshinhye_bubble"
     fullname: >-
       bubble_bubble.2015
@@ -102,7 +66,7 @@ profiles:
     commentsToLikes: 0.008569
     id: ck8t48kxq5vca0j78243k51wj
     verified: false
-    hashtags: "#psh, #kpop, #ssinz7, #youarebeautiful"
+    hashtags: "#youarebeautiful, #heartstrings, #shinhye, #asia"
   - username: "blackrouge_kr"
     fullname: >-
       블랙루즈
@@ -114,7 +78,7 @@ profiles:
     commentsToLikes: 0.007088
     id: ck0ttkc1t33vb0i19abdkotw1
     verified: false
-    hashtags: "#lotd, #cosmetic, #kbeauty, #trangdiem"
+    hashtags: "#kbeauty, #trangdiem, #makeup, #koreabeauty"
   - username: "celefit_official"
     fullname: >-
       셀레피트
@@ -126,5 +90,41 @@ profiles:
     commentsToLikes: 0.006001
     id: ck0tv45en9uuh0i193v4a1qvi
     verified: false
-    hashtags: "#celefit, #koreabeauty, #kbeauty, #cosmetics"
+    hashtags: "#cosmetics, #makeuptutorialvideo, #celefit, #koreabeauty"
+  - username: "lalakanoha"
+    fullname: >-
+      𝐋𝐚𝐥𝐚 𝐋𝐚𝐧𝐝 라라 랜드 🪐💜
+    bio: >-
+      🔗서울에 사는 프리랜서 모델 & 배우. 협력 DM 𝙇𝙞𝙫𝙚 𝙞𝙣 𝙆𝙤𝙧𝙚𝙖 🇰🇷🇺🇦 🔗 Все о жизни в Корее 🇰🇷 💛реклама в лс / 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙙𝙞𝙧𝙚𝙘𝙩 💛
+    location: "South Korea"
+    followers: 16648
+    engagement: 603
+    commentsToLikes: 0.042266
+    id: ck9wecq92jpp80j780zp6c5hq
+    verified: false
+    hashtags: "#koreanmodel, #koreancouple, #koreanfashion, #koreanstreetstyle"
+  - username: "iam.fleur"
+    fullname: >-
+      플뢰르
+    bio: >-
+      ɪᴀᴍ.ғʟᴇᴜʀ • 플뢰르 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 📩 ғʟᴇᴜʀʜᴡᴀ@ɴᴀᴠᴇʀ.ᴄᴏᴍ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🖥 ʙʟᴏɢ
+    location: "South Korea"
+    followers: 80877
+    engagement: 255
+    commentsToLikes: 0.022624
+    id: ck0tyniuvnekq0i19kqbfkaml
+    verified: false
+    hashtags: "#eyewish, #16, #skincare, #kbeauty"
+  - username: "ooi_uoo"
+    fullname: >-
+      뉴미
+    bio: >-
+      
+    location: "South Korea"
+    followers: 30376
+    engagement: 220
+    commentsToLikes: 0.021780
+    id: ck8t1ho6jvt5z0j78czzqtu57
+    verified: false
+    hashtags: "#ootd, #dailylook, #selfie, #photooftheday"
 ---

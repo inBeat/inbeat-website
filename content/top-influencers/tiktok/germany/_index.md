@@ -1,132 +1,132 @@
 ---
-title: Top 10 TikTok Influencers In Germany in 2023
+title: Top 10 TikTok Influencers In Germany In 2023
 description: >-
-  Find top TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fyp #foryoupage.
+  Find top TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #foryoupage #duett.
 platform: TikTok
-hits: 5136
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 5136 TikTok influencers like this in Germany for you to pitch.
+hits: 5272
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 5272 TikTok influencers like this in Germany for you to collaborate.
 profiles:
+  - username: "tobi.you"
+    fullname: >-
+      Tobi:)
+    bio: >-
+      hi I’m tobi:) 📸 tobi.you treat people with kindness<3 luv u • business⤵️
+    location: "Germany"
+    followers: 2300000
+    engagement: 2390
+    commentsToLikes: 0.018164
+    id: ckaike45eiz4a0i78lk821u86
+    verified: false
+    hashtags: "#nylongermany, #adidasforum, #ad, #pumamiragesport"
   - username: "marina.sig"
     fullname: >-
       Marina
     bio: >-
-      CEO OF STERNZEICHEN😎 Täglich neue TikToks💪🏽 Ich bin Wassermann ♒️
+      CEO of Sternzeichen 🤏🏽Comedy
     location: "Germany"
-    followers: 626200
-    engagement: 2575
-    commentsToLikes: 0.039898
+    followers: 638400
+    engagement: 2052
+    commentsToLikes: 0.032020
     id: ck8qi578g7sr30j78ugtlnn5m
     verified: false
-    hashtags: "#hubbabubba, #single, #sternzeichen, #humor"
-  - username: "skill.any"
+    hashtags: "#strassenumfrage, #bockaufsommer, #sommervibes, #sternzeichen"
+  - username: "jasi_xx3"
     fullname: >-
-      Kevin🤍
+      𝓙𝓪𝓼𝓶𝓲𝓷 ღ
     bio: >-
-      ❤️Folgt auf Insta für Kontakt 🦅Insta: skill_too 🤝Collab: kholas04@gmail.com
+      Insta: jasi_xx3 & YouTube: Jasi Snap: Jasmin00299 ❥ danke für 1,3 Millionen
     location: "Germany"
-    followers: 516900
-    engagement: 2356
-    commentsToLikes: 0.023235
-    id: ckbljp5xqcokt0j23nfnml217
+    followers: 1400000
+    engagement: 2022
+    commentsToLikes: 0.008420
+    id: ck9c7b8tbrs9a0j78t1vxcisq
     verified: false
-    hashtags: "#fy, #foryou, #foryoupage, #nutellabrot"
+    hashtags: "#couplegoals, #happybirthday, #foryou, #whatalie"
   - username: "adrian.double.u"
     fullname: >-
       Adrian.double.u
     bio: >-
-      📧adoubleu.de@gmail.com Grafiker/Illustrator 🤓✌🏼 ⬇️zu meinen Shop&Bilder⬇️
+      Grafiker/Illustrator 🤓✍🏼 ⬇️HIER GEHT ES ZU MEINEM SHOP⬇️
     location: "Germany"
-    followers: 385200
-    engagement: 2311
-    commentsToLikes: 0.084984
+    followers: 538800
+    engagement: 1881
+    commentsToLikes: 0.053574
     id: cka65knq8dfpb0i78lt70cbqp
     verified: false
-    hashtags: "#boxing, #cartoon, #halloween, #zeichnen"
+    hashtags: "#malenmitadrian, #acryl, #cartoon, #leinwand"
+  - username: "electra_pain"
+    fullname: >-
+      Electra Pain
+    bio: >-
+      👑 DRAG QUEEN 🔥 Showgirl 🌈 Diversity 📍 Frankfurt am Main
+    location: "Germany"
+    followers: 355100
+    engagement: 1809
+    commentsToLikes: 0.029721
+    id: ck9gsqjycjjqz0j78dx7bnbo8
+    verified: true
+    hashtags: "#pridewalk, #lgbt, #hamburg, #dragqueen"
+  - username: "jaaeel3026"
+    fullname: >-
+      💜dieNiaaa💜
+    bio: >-
+      💜 🌸🌸happyanni🌸🌸 💜
+    location: "Germany"
+    followers: 5435
+    engagement: 4669
+    commentsToLikes: 0.584589
+    id: ckc302ghkqtox0j234zmn1qcd
+    verified: false
+    hashtags: "#herzmensch, #ilovethis, #wir, #duett"
   - username: "miti.gymnastics"
     fullname: >-
       𝕄𝕚𝕥𝕚
     bio: >-
       Mia 15y/o gymnastics @miti.gymnastix (insta)
     location: "Germany"
-    followers: 3186
-    engagement: 4676
-    commentsToLikes: 0.140649
+    followers: 3450
+    engagement: 4428
+    commentsToLikes: 0.086094
     id: ckbb6voxswx780j230d768hvs
     verified: false
-    hashtags: "#duett, #coupleontourreaktion"
-  - username: "jaaeel3026"
-    fullname: >-
-      💜dieNiaaa💜
-    bio: >-
-      💝vertraue nicht jedem🥰 UND immer noch vergeben, egal wer fragt
-    location: "Germany"
-    followers: 3419
-    engagement: 4604
-    commentsToLikes: 0.431308
-    id: ckc302ghkqtox0j234zmn1qcd
-    verified: false
-    hashtags: "#tiktokdeutschland, #everybodymakesmistakes, #lovethis, #redbulldanceyourstyle"
-  - username: "favourite_horse"
-    fullname: >-
-      Sophie💗
-    bio: >-
-      Thx für 12,4K🥺💗
-    location: "Germany"
-    followers: 12400
-    engagement: 4311
-    commentsToLikes: 0.129830
-    id: ckcvgi08kswaz0j23hbx6zado
-    verified: false
-    hashtags: "#ponyliebeeee, #fyp, #favourite, #foryoupage"
-  - username: "thataussiebenji"
-    fullname: >-
-      ZOOMA🥺💓
-    bio: >-
-      #LENJI🥺💓 💚💚I miss you mommas💚💚 🥺7 months old Aussie🥺
-    location: "Germany"
-    followers: 5265
-    engagement: 3846
-    commentsToLikes: 0.178735
-    id: ckcvispuaw00q0j23aqasmd28
-    verified: false
-    hashtags: "#duet, #lenji"
+    hashtags: ""
   - username: "junuu12"
     fullname: >-
       junu
     bio: >-
       ❤❤❤🇳🇵🇳🇵🇳🇵🇩🇪🇩🇪🇩🇪🙏🙏🙏🙏
     location: "Germany"
-    followers: 3869
-    engagement: 3633
-    commentsToLikes: 0.172860
+    followers: 4137
+    engagement: 4238
+    commentsToLikes: 0.270014
     id: ck9kd9okzta9c0j78lo0jk55v
     verified: false
-    hashtags: "#hairholiday, #germany, #tiktokdance, #jrstha"
-  - username: ".lqvlymills"
+    hashtags: "#foryoupage, #jrstha, #2021tiktok, #expressieyourself"
+  - username: "sophiee.schx"
     fullname: >-
-      😼😼😼😼😼😼😼
+      Sophie🖤✨
     bio: >-
-      3k😺💖 NO CODES🥺💖 Love you all🐳💜 I was _svt.edits_ 2 fp💖
+      Thx für 12,1K🖤✨
     location: "Germany"
-    followers: 3096
-    engagement: 3532
-    commentsToLikes: 0.102990
-    id: ckd6z2k2hxpfr0j23wu814gp2
+    followers: 12100
+    engagement: 3884
+    commentsToLikes: 0.077113
+    id: ckcvgi08kswaz0j23hbx6zado
     verified: false
-    hashtags: "#kakashi, #edit, #mills, #anime"
-  - username: "flamingoprincess"
+    hashtags: "#schulpferd, #fyp, #favourite, #foryoupage"
+  - username: "1._jenny_.8"
     fullname: >-
-      flamingolove
+      ♡︎𝕛𝕖𝕟𝕟𝕪♡︎
     bio: >-
-      ❤️Glücklichvergeben❤️@roman.17.09#dancemonkeys🐒#teamjustfriends #teamlebensfroh
+      
     location: "Germany"
-    followers: 3354
-    engagement: 3405
-    commentsToLikes: 0.305747
-    id: ckan306vg2xtn0i78zos0icse
+    followers: 5525
+    engagement: 3853
+    commentsToLikes: 0.203125
+    id: ck8qlcnjpl2080j783rcldkew
     verified: false
-    hashtags: "#dancemonkeys, #hel, #teamjustfriends, #teamlebensfroh"
+    hashtags: "#tiktokgallerie, #duett, #foryou, #funny"
 cities:
   - name: Berlin
     link: /tiktok/germany/berlin

@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Birmingham in 2023
+title: Top 10 TikTok Influencers In Birmingham In 2023
 description: >-
-  Find top TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #foryoupage #duet #foryou.
+  Find top TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
-hits: 98
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 98 TikTok influencers like this in Birmingham, United Kingdom for you to work with.
+hits: 90
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 90 TikTok influencers like this in Birmingham, United Kingdom for you to collaborate.
 profiles:
-  - username: "brownin_tee"
-    fullname: >-
-      Brownin_Tee
-    bio: >-
-      😎 mama❤ Comedy & dance💃 Birmingham UK💯❤ 💥The Vibe Queen👸🏽43🍭 Come vibe😜
-    location: "United Kingdom"
-    followers: 11300
-    engagement: 3289
-    commentsToLikes: 0.617370
-    id: ckdnv1dppo1m70j23ynxy3afj
-    verified: false
-    hashtags: "#shadowbanned, #houseoftiktok, #duet, #dancemom"
   - username: "ashvalmont"
     fullname: >-
       Ash Valmont
     bio: >-
       Birmingham, UK (Occasionally 18+) You look lost, follow me. - Socials here:
     location: "United Kingdom"
-    followers: 114000
-    engagement: 2152
-    commentsToLikes: 0.020066
+    followers: 316300
+    engagement: 2361
+    commentsToLikes: 0.021921
     id: ckck2ciz1lpow0j23397rgd26
     verified: false
-    hashtags: "#duet"
-  - username: "88paddy"
+    hashtags: "#duet, #stitch"
+  - username: "mesharajputofficial"
     fullname: >-
-      Patrick Joseph O'Sul
+      MESHARAJPUT
     bio: >-
-      single dad of 3 i’m from Birmingham 💚☘️🇮🇪🟢⚪️🟠🇮🇪☘️💚
+      BAWA JEE PINDI BAWA JEE BIRMINGHAM
     location: "United Kingdom"
-    followers: 5339
-    engagement: 886
-    commentsToLikes: 0.096517
-    id: ckacwzfxduvlw0i78t09r18s4
+    followers: 36200
+    engagement: 2478
+    commentsToLikes: 0.326511
+    id: ckbl06nvkws0z0j23sj94o8in
     verified: false
-    hashtags: "#foryoupage, #fyp, #over30, #over18only"
-  - username: "kobtv"
+    hashtags: "#rawalpindi, #foryou, #pakistan, #teammeshmash"
+  - username: "wavyashhh"
     fullname: >-
-      KOB TV 👑
+      sza mutuals anyone<3?
     bio: >-
-      Follow my ig 👆🏾❤️ Let’s get 30k ❤️ Goal: 100k King Of Birmingham Tv 🗣🤴🏾
+      IM FOLLOWING BACK BESTIES!!!🤍 follow my instagram💌 birmingham📍
     location: "United Kingdom"
-    followers: 28800
-    engagement: 1588
-    commentsToLikes: 0.075020
-    id: ck8ad9x4v4jox0j78nph1c4zk
+    followers: 61000
+    engagement: 2166
+    commentsToLikes: 0.104371
+    id: ckbfh6g8ecj1o0j23l502fuq9
     verified: false
-    hashtags: "#snapchat, #violation, #viral, #nextstop30k"
+    hashtags: "#somalitiktok, #british, #birmingham, #foryou"
   - username: "mi5anthr0pe"
     fullname: >-
       Mi5anthr0pe
     bio: >-
-      Birmingham UK Gothboi. Sc/ Gazghull. No under 16, pls.
+      Birmingham Goth they/them 🖤✨ I don’t post regularly 🤧 No under 16s.
     location: "United Kingdom"
-    followers: 37300
-    engagement: 1485
-    commentsToLikes: 0.030510
+    followers: 51300
+    engagement: 1595
+    commentsToLikes: 0.038907
     id: ckbb9kyjvypkf0j23kkrt2z5y
     verified: false
-    hashtags: "#support, #edgy, #expression, #alt"
-  - username: "javairia_riyaz"
+    hashtags: "#mi5anthr0py, #goth, #stitch, #alt"
+  - username: "mrcourt90"
     fullname: >-
-      instagram - @itsyagirlj_xo 💕
+      Jay Court 🚑💙
     bio: >-
-      18 Birmingham 📍 HATERS GET BLOCKED 🚫 DONATE 👇
+      💙NHS worker🚑💚 🇬🇧Birmingham📍 👻MrCourt90👻 Road to... Amarillo 🔞
     location: "United Kingdom"
-    followers: 187600
-    engagement: 1430
-    commentsToLikes: 0.034397
-    id: ck900ai79a8kx0j78gcbhwni1
+    followers: 6153
+    engagement: 940
+    commentsToLikes: 0.145807
+    id: ckcp9jjmmedjk0j23p2b8r13m
     verified: false
-    hashtags: "#xzybca, #pak, #afghantiktok, #afghan"
-  - username: "lushspabirmingham"
-    fullname: >-
-      Lush Spa Birmingham
-    bio: >-
-      All your favourite videos from Lush Spa Birmingham!
-    location: "United Kingdom"
-    followers: 74300
-    engagement: 2195
-    commentsToLikes: 0.007444
-    id: ck83z4c98xlqb0j78xhg6317x
-    verified: false
-    hashtags: "#fyp, #lush, #bathbomb, #bath"
-  - username: "saskiafield"
-    fullname: >-
-      saskia
-    bio: >-
-      Birmingham, UK IG: @saskiafield
-    location: "United Kingdom"
-    followers: 60200
-    engagement: 1793
-    commentsToLikes: 0.016718
-    id: ckb18r0tvwofp0j23xwu33ser
-    verified: false
-    hashtags: "#mua, #foryoupage, #fyp, #makeup"
+    hashtags: "#nhsworker, #foryoupage, #4y, #thirsttrap"
   - username: "tokyotoys.com"
     fullname: >-
       TokyoToys.com
     bio: >-
       -TokyoToys.com (UK)- -WORLDWIDE SHIPPING- -Birmingham B2 4LS- -Glasgow G1 3RB-
     location: "United Kingdom"
-    followers: 13800
-    engagement: 1612
-    commentsToLikes: 0.025347
+    followers: 14300
+    engagement: 1431
+    commentsToLikes: 0.053228
     id: ck8p1n8ijm4pf0j78rh40up8j
     verified: false
-    hashtags: "#banpresto, #animegirl, #japan, #pokemon"
-  - username: "lilleyrosegreen"
+    hashtags: "#foryou, #gaming, #foryoupage, #manga"
+  - username: "fredweasleys.wifey_xo"
     fullname: >-
-      Lilley Rose Green
+      𝓚𝓲𝓮𝓻𝓪 𝓕𝓻𝓪𝓷𝓬𝔂
     bio: >-
-      23🎂 Birmingham 🤪 Engaged 💍
+      18 ♐️ 🏳️‍⚧️🇬🇧 Birmingham ✨ Fred Weasley’s Wife ✨ 👑👑👑
     location: "United Kingdom"
-    followers: 7138
-    engagement: 1392
-    commentsToLikes: 0.029991
-    id: ckdnedonsh7b30j23kkhfl3bf
+    followers: 4580
+    engagement: 1737
+    commentsToLikes: 0.031282
+    id: cka0ub5v5tik30i78yjy4237c
     verified: false
-    hashtags: "#fyp, #trend, #aerialhoop, #dance"
+    hashtags: "#fredweasley, #acting, #orderofthephoenix, #hptiktok"
+  - username: "88paddy"
+    fullname: >-
+      Patrick Joseph O'Sul
+    bio: >-
+      single dad of 3 i’m from Birmingham 💚☘️🇮🇪🟢⚪️🟠🇮🇪☘️💚
+    location: "United Kingdom"
+    followers: 5262
+    engagement: 807
+    commentsToLikes: 0.077077
+    id: ckacwzfxduvlw0i78t09r18s4
+    verified: false
+    hashtags: "#smile, #over18only, #over30, #duet"
+  - username: "dean10987"
+    fullname: >-
+      Dean
+    bio: >-
+      Age 32 Lives Birmingham🏳️‍🌈 🔞
+    location: "United Kingdom"
+    followers: 4829
+    engagement: 1343
+    commentsToLikes: 0.060353
+    id: ckb16r4bcub1e0j23twewv390
+    verified: false
+    hashtags: "#foryourpage, #gay, #over30club, #fyp"
+  - username: "7omari"
+    fullname: >-
+      Omari!💜
+    bio: >-
+      Birmingham 100k🦈?
+    location: "United Kingdom"
+    followers: 42300
+    engagement: 1719
+    commentsToLikes: 0.050128
+    id: ckcps6y4ambbj0j23ie1x50jm
+    verified: false
+    hashtags: "#fyp, #girls, #crush, #friends"
 ---

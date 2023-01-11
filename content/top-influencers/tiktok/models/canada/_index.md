@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Canada in 2023
+title: Top 10 Models TikTok Influencers In Canada In 2023
 description: >-
-  Find top models TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top models TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #model #foryou.
 platform: TikTok
-hits: 207
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 207 TikTok influencers like this in Canada for you to collaborate.
+hits: 204
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 204 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "nehchalb"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       model
     location: "Canada"
-    followers: 30100
-    engagement: 875
-    commentsToLikes: 0.022786
+    followers: 30400
+    engagement: 934
+    commentsToLikes: 0.022342
     id: ck8kg0kgfge5v0j78pxquufxj
     verified: false
-    hashtags: "#pubjabi, #foryou, #model, #baddie"
+    hashtags: "#foryou, #tiktok, #punjabi, #pourtoi"
   - username: "modelsforyou"
     fullname: >-
       Models
     bio: >-
       TikToks #1 Model Page! 🍑🍒 Dm for Business and Promotional Deals! 👍📈
     location: "Canada"
-    followers: 197500
-    engagement: 478
-    commentsToLikes: 0.007527
+    followers: 201300
+    engagement: 468
+    commentsToLikes: 0.006502
     id: ck9flmlmhopzz0j78yjgykhx9
     verified: false
-    hashtags: "#models, #modeling, #beauty, #fashion"
-  - username: "nicoleleblond"
+    hashtags: "#model, #bikinimodel, #modelgirl, #fyp"
+  - username: "mikemains"
     fullname: >-
-      nicoleleblond
+      Mike Mains
     bio: >-
-      28 female model fighting chronic illnesses 19+🏳️‍🌈 pan insta @nicoleleblond
+      🇨🇦 Model in 🇨🇴 🔜...🇹🇭 🇬🇧 🇺🇸✈️ IG: @mikeymains 👇Exclusive content
     location: "Canada"
-    followers: 29600
-    engagement: 1180
-    commentsToLikes: 0.070198
-    id: ckb9m6iglf1910j23qcyh2sjy
+    followers: 95400
+    engagement: 1242
+    commentsToLikes: 0.156575
+    id: ckahx79ccu1kz0i78wtwx13ul
     verified: false
-    hashtags: "#outdoors, #dance, #canadian, #tattoos"
-  - username: "shelbyymaynard"
+    hashtags: "#playagrande, #foryoupage, #santamarta, #bogota"
+  - username: "jjjjoni_"
     fullname: >-
-      Shelby
+      joni
     bio: >-
-      canadian model 🇨🇦|🇧🇷 modelo canadense email: shelbyjean1919@yahoo.com
+      ‼STOP ASIAN HATE‼ 🤣tiktok = therapy🥲 😍model & contact on ig @jjjjoni_😏
     location: "Canada"
-    followers: 94900
-    engagement: 2326
-    commentsToLikes: 0.012640
-    id: ckd6d2qem583i0j23fkgxguo0
+    followers: 146800
+    engagement: 1970
+    commentsToLikes: 0.048602
+    id: ck80oneh3iiog0j78khvo35w0
     verified: false
-    hashtags: "#pravoc, #gringos, #brasil, #gringa"
+    hashtags: "#straykids, #kdrama, #bts, #twice"
   - username: "_maya44"
     fullname: >-
       M&M🍝
     bio: >-
       Actress | Singer | Model 🇨🇦 21
     location: "Canada"
-    followers: 29500
-    engagement: 1675
-    commentsToLikes: 0.030706
+    followers: 29000
+    engagement: 1414
+    commentsToLikes: 0.069157
     id: ckbqgd7011sfy0j239mg2hop4
     verified: false
-    hashtags: "#pov, #problemsolved, #didyouknow, #rareaesthetic"
-  - username: "downthealiway"
+    hashtags: "#actress, #duet, #canada, #canadian"
+  - username: "shelbyymaynard"
     fullname: >-
-      Allison (Ali)😽
+      Shelby
     bio: >-
-      18👏🏼 Model💋 Canadian🇨🇦 Check my Insta and YouTube!?🤯🔥
+      canadian model 🇨🇦|🇧🇷 modelo canadense siga meu IG e seja meu amigo!!!
     location: "Canada"
-    followers: 2971
-    engagement: 1204
-    commentsToLikes: 0.062134
-    id: ckceknhbtu4b60j233b5j1en2
+    followers: 114800
+    engagement: 1957
+    commentsToLikes: 0.013872
+    id: ckd6d2qem583i0j23fkgxguo0
     verified: false
-    hashtags: "#fyp, #inthegarden, #shareyourplaylist, #bunny"
-  - username: "mikemains"
-    fullname: >-
-      Mike Mains
-    bio: >-
-      🇨🇦 Canadian Model in 🇨🇦 🔜...🇹🇭 🇺🇸✈️ More content 👇
-    location: "Canada"
-    followers: 89500
-    engagement: 630
-    commentsToLikes: 0.120246
-    id: ckahx79ccu1kz0i78wtwx13ul
-    verified: false
-    hashtags: "#missisauga, #lightsabers, #ineedagopro, #qewhighway"
+    hashtags: "#eusougringa, #brasil, #gringa, #gringas"
   - username: "shaquoneblake"
     fullname: >-
       𝐒𝐡𝐚𝐪¹
     bio: >-
-      FOLLOWING ON IG: @onceaking__ Published Model🦋 Downloading 200K 46%👋🏾♥️
+      🇨🇦 IG: @onceaking__ ⇧ Published Model🦋 CEO of Tarquin 😳📚
     location: "Canada"
-    followers: 150400
-    engagement: 1284
-    commentsToLikes: 0.057948
+    followers: 232500
+    engagement: 1529
+    commentsToLikes: 0.063308
     id: cka6j90wtttl10i78f49cq7e3
     verified: false
-    hashtags: "#lgbtq, #shaquoneblake, #trend, #fyp"
+    hashtags: "#xyzbca, #duet, #bisexual, #lgbt"
   - username: "hunnyhigh"
     fullname: >-
       Hunny
     bio: >-
-      Insta : @emxtive - if you know me irl no you don’t ❤️ Part time model/clown
+      model/artist based in mtl !! Managed by Folio Montreal - insta: @emxtive 🪐
     location: "Canada"
-    followers: 6326
-    engagement: 915
-    commentsToLikes: 0.053778
+    followers: 8738
+    engagement: 1205
+    commentsToLikes: 0.041706
     id: ck806vqz3me7r0j78bxtikj1s
     verified: false
-    hashtags: "#fyp, #putafingerdown, #duet, #artistsoftiktok"
-  - username: "mina.lateef"
+    hashtags: "#greenscreenvideo, #blackcat, #kitten, #model"
+  - username: "nicoleleblond"
     fullname: >-
-      MINA LATEEF
+      nicoleleblond
     bio: >-
-      🇮🇶🇨🇦 professional model Snapchat:mina.lateef Instagram:mina_lateef_model
+      28 female model fighting chronic illnesses 19+?️‍? pan insta @nicoleleblond
     location: "Canada"
-    followers: 319800
-    engagement: 1058
-    commentsToLikes: 0.033941
-    id: ckdntmohilswk0j236ilelcte
+    followers: 28400
+    engagement: 991
+    commentsToLikes: 0.040883
+    id: ckb9m6iglf1910j23qcyh2sjy
     verified: false
-    hashtags: "#foryoupage, #funny, #foryou, #explore"
+    hashtags: "#thickthighssavelives, #fyp, #bbq, #swimsuit"
+  - username: "ehlaa666"
+    fullname: >-
+      LaLaa
+    bio: >-
+      🇨🇦 Heavy Equipment Op Ink Obsessed Tattoo Model Check Out My Link
+    location: "Canada"
+    followers: 2845
+    engagement: 991
+    commentsToLikes: 0.052523
+    id: ckcue7q8ce6v50j23r4m3mw7i
+    verified: false
+    hashtags: "#2021, #moneytok, #dirtporn, #heavyequipmentoperator"
 ---

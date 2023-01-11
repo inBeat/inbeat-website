@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Canada in 2023
+title: Top 10 Gaming Instagram Influencers In Canada In 2023
 description: >-
-  Find top gaming Instagram influencers in Canada in 2023. Most popular hashtags: #gaming #gamer #pc #gamingcommunity.
+  Find top gaming Instagram influencers in Canada in 2023. Most popular hashtags: #gaming #gamergirl #gamer #pc.
 platform: Instagram
-hits: 44
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 44 Instagram influencers like this in Canada for you to work with.
+hits: 20
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "vampx13"
-    fullname: >-
-      Amanda McKnight
-    bio: >-
-      Host at Top 10 Nerd / Gaming. Renegade Games Enthusiast. Avid RPGr. Actress. Cosplay model. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
-    location: "Canada"
-    followers: 13309
-    engagement: 1048
-    commentsToLikes: 0.027489
-    id: ck135cy580ug20i19ij2x33dw
-    verified: false
-    hashtags: "#dork, #catan, #staynerdy, #wearyourmask"
   - username: "gakuspace"
     fullname: >-
       Gaku Space
     bio: >-
-      #genji in #overwatch @playoverwatch #gouki in #streetfighterassassinsfist ↓ Youtube Gaming Channel www.youtube.com/c/gggakuspace ↓ Signed Merch Store
+      #genji in #overwatch @playoverwatch #gouki in #streetfighterassassinsfist ↓ Signed Merch Store www.gakuspace.com/store/ ↓ Youtube Gaming Channel
     location: "Canada"
-    followers: 91287
-    engagement: 1067
-    commentsToLikes: 0.019416
+    followers: 90674
+    engagement: 1045
+    commentsToLikes: 0.020580
     id: ck1349ph6vdts0i19q29nyl2j
     verified: true
-    hashtags: "#overwatch2, #genji, #japan, #blizzard"
+    hashtags: "#gakuspace, #streetfighterassassinsfist, #gouki, #overwatch2"
   - username: "setup_shortcut"
     fullname: >-
       Setup Shortcut | Gaming Setups
     bio: >-
       🌀 | Awesome #gamingsetups 📐 | PC Builder #pcbuilding 💎 | Goal 30K followers 👇 | Azza Pyramid Video
     location: "Canada"
-    followers: 23018
-    engagement: 431
-    commentsToLikes: 0.030502
+    followers: 20516
+    engagement: 484
+    commentsToLikes: 0.030632
     id: ck8t63qdfc5g60j78krx3d2rr
     verified: false
-    hashtags: "#desktop, #pcgaming101, #casemodding, #gaming"
-  - username: "wakey5.2"
+    hashtags: "#setupsforgaming, #setuptour, #setups, #gamingsetup"
+  - username: "salernorealestate"
     fullname: >-
-      Christian
+      Mark Salerno Real Estate
     bio: >-
-      WAKEY Built 5.2 Manual-Twin Turbo-Wide Mustang Speed, gaming, food, White Claw. Sponsors in Highlights Merch Store link ->
+      Top 50 Ontario🇨🇦 R.E Broker Owner @SalernoRealtyInc Blogger & Podcaster 🏡 Husband & Father 🙎🏻‍♀️👧🏻👧🏻 Gaming & Sports 🎮 💯 #FirmFriday™️
     location: "Canada"
-    followers: 23019
-    engagement: 678
-    commentsToLikes: 0.027050
-    id: ck6u58muo86x90j7168v0c82y
+    followers: 152508
+    engagement: 192
+    commentsToLikes: 0.086331
+    id: ck0uefbhol7140i19z1v9hawp
     verified: false
-    hashtags: "#fordperformance, #allthingsmustang, #shelbygt350, #musclecar"
-  - username: "fvdrs"
+    hashtags: "#realestate, #luxury, #forsale, #toronto"
+  - username: "hai_yun2"
     fullname: >-
-      Ryan
+      ané 💫
     bio: >-
-      ↠ capturing light on a sensor ↠ apex legends addict Gaming Account: @mindsala_ttv
+      🍳 I love making people happy 😊 🌱 streamer + cosplayer 🌼 twitch.tv/hai_yun 👋 business inquiries: email ⬇️
     location: "Canada"
-    followers: 2263
-    engagement: 1131
-    commentsToLikes: 0.043464
-    id: ck0tvhx65bfg80i19japty15g
+    followers: 2747
+    engagement: 674
+    commentsToLikes: 0.032943
+    id: ckap0953xpas10i78j8rg9wn7
     verified: false
-    hashtags: "#blacksandbeach, #explorecalgary, #yyc, #inspiredbyiceland"
-  - username: "anthonycioffi31"
+    hashtags: "#catgirl, #pcgaming, #noellegenshinimpact, #ffxivcosplay"
+  - username: "saven.art"
     fullname: >-
-      Anthony Cioffi
+      🌙 A Dreamy Soul ⭐️
     bio: >-
-      🏈NFL DB✈️ 🐦 Twitter: ACioffi06 🎮Gaming account: @ChopBoy24 👇🏼Highlight Video 👇🏼
+      ✨Commissions : OPEN ✨SHOP: FEB 23 Update ✦ Catalog @savenartstudio ✦ Vancouver, 🇨🇦 ✧ Please DO NOT repost/ redraw without permission!
     location: "Canada"
-    followers: 9531
-    engagement: 971
-    commentsToLikes: 0.039824
-    id: ck0tw321sdt4e0i19j93ytv1m
-    verified: true
-    hashtags: "#takeflight"
-  - username: "jamesdiato"
-    fullname: >-
-      🐍
-    bio: >-
-      WPG, MB • Digital Illustrator Wrestling | Gaming | Comics | Anime COMMISSION CLOSED (Booked up to NOV) Pricing
-    location: "Canada"
-    followers: 11006
-    engagement: 867
-    commentsToLikes: 0.011593
-    id: ck5c8imgu9keh0i118e95d8l7
+    followers: 38775
+    engagement: 1406
+    commentsToLikes: 0.022763
+    id: ckaoz0ju3juoc0i783ism4lyv
     verified: false
-    hashtags: "#cloud, #wweraw, #drawing, #artwork"
-  - username: "magnetr6"
-    fullname: >-
-      Mag
-    bio: >-
-      Etienne ‘Mag’ Rousseau - 22 🇦🇺 Pro gamer Captain of the @FNATIC R6S team. Twitter @MagnetR6
-    location: "Canada"
-    followers: 15110
-    engagement: 1412
-    commentsToLikes: 0.011308
-    id: ck1386o1eeqst0i1920k5s4i9
-    verified: false
-    hashtags: "#rainbowsix, #gamer, #shibuya, #r6"
-  - username: "hivequeen_"
-    fullname: >-
-      HiveQueen
-    bio: >-
-      Sponsored by @alienware 👽 #alienwarehive @Twitch Partner 🐝|| @teamkittytv 💙 || @discordapp partner || sponsored by @corsair || 🎮 Twitch.tv/HiveQueen
-    location: "Canada"
-    followers: 16218
-    engagement: 189
-    commentsToLikes: 0.047691
-    id: ck0vv2whwnakm0i19jc2zajyv
-    verified: false
-    hashtags: "#alienwarepartner, #mua, #goinglive, #rdr2"
+    hashtags: "#dailyart, #originalartworks, #foodillustration, #japanesefood"
   - username: "sikvsski"
     fullname: >-
       Tia || テイア
     bio: >-
-      ɢᴀᴍᴇʀ | ᴄᴀʀs | ᴀᴍʙɪᴀɴᴄᴇ ǫᴜᴇᴇɴ | ᴄᴀᴛ ᴍᴏᴍ | ᴍᴇʟᴏᴍᴀɴɪᴀᴄ 📍Calgary, Alberta 🇨🇦
+      ɢɢ | ɢᴀᴍᴇʀ | ᴄᴀʀs | ᴀᴍʙɪᴀɴᴄᴇ ǫᴜᴇᴇɴ | ᴄᴀᴛ ᴍᴏᴍ | ᴍᴇʟᴏᴍᴀɴɪᴀᴄ 📍Calgary, Alberta🇨🇦
     location: "Canada"
-    followers: 10337
-    engagement: 640
-    commentsToLikes: 0.071231
+    followers: 10407
+    engagement: 329
+    commentsToLikes: 0.066849
     id: ckap2ixmqz1480i78tu1fxbjp
     verified: false
-    hashtags: "#gamergirl, #nerdrage, #video, #gamingnews"
+    hashtags: "#gamer, #gamin, #gamingaddict, #happy"
+  - username: "dansomewojagaming"
+    fullname: >-
+      Variety Youtuber & Streamer
+    bio: >-
+      Personal: @itsdansomewoja 🇨🇦 Twitch.tv/DansomeWoja 💼 Business - TheDansomeWoja@hotmail.com Halo ⏰
+    location: "Canada"
+    followers: 52935
+    engagement: 267
+    commentsToLikes: 0.018112
+    id: ck15pk9beyapc0i19ehje8w8e
+    verified: false
+    hashtags: "#roguereplay, #paladin, #left4dead, #gamertag"
+  - username: "midnababy"
+    fullname: >-
+      Midna🦋🗡 | FFXIV Streamer
+    bio: >-
+      👾 TWITCH PARTNER 🎮 FFXIV/VARIETY 💇🏻‍♀️ HAIRSTYLIST
+    location: "Canada"
+    followers: 7381
+    engagement: 1499
+    commentsToLikes: 0.042390
+    id: ck13cdzzjzw770i19zsdb0ppi
+    verified: false
+    hashtags: "#animefans, #otaku, #manga, #neutral"
+  - username: "yandjii"
+    fullname: >-
+      YANDJI💋 (yan-gee)
+    bio: >-
+      ‘WAVY’ out on ALL platforms 💎 Your favourite trouble maker 😈 If not me, then who? Click below!
+    location: "Canada"
+    followers: 12450
+    engagement: 1608
+    commentsToLikes: 0.069798
+    id: ckap5p95ocl1t0i78oxtkk7dh
+    verified: false
+    hashtags: "#music, #explorepage, #blackwoman, #exploremore"
+  - username: "onigamer"
+    fullname: >-
+      ☆ magikazam ☆
+    bio: >-
+      🌸 kayla 🌸 lvl 24 🌸 Canadian 🌸 Cosplayer 🌸 Figure collector 🌸 Dm for business collab
+    location: "Canada"
+    followers: 24341
+    engagement: 825
+    commentsToLikes: 0.010701
+    id: ck138flbtg04d0i19jemqme7c
+    verified: false
+    hashtags: "#figurecollection, #nintendo, #cosplay, #kawaiiroom"
 ---

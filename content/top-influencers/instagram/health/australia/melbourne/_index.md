@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Melbourne in 2023
+title: Top 10 Health Instagram Influencers In Melbourne In 2023
 description: >-
-  Find top health Instagram influencers in Melbourne in 2023. Most popular hashtags: #health #melbourne #fashion #style.
+  Find top health Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #australia #health #love.
 platform: Instagram
-hits: 82
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 82 Instagram influencers like this in Melbourne, Australia for you to connect with.
+hits: 29
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 29 Instagram influencers like this in Melbourne, Australia for you to contact.
 profiles:
+  - username: "janinacorsi"
+    fullname: >-
+      ✨ 𝕵𝖆𝖓𝖎𝖓𝖆 𝖈𝖔𝖗𝖘𝖎 🌹🦋
+    bio: >-
+      Melbourne 📍 Fitness • Health • Lifestyle Team @doyoueven - JANINA10 🏆 I’m funnier on TikTok (140k+) yagirljanina Collaboration 📩 jcorsi@outlook.com.au
+    location: "Australia"
+    followers: 14067
+    engagement: 402
+    commentsToLikes: 0.032121
+    id: ckap90tueqq8n0i78yengt8y3
+    verified: false
+    hashtags: "#dye, #dyebreeze, #dyeexcel, #doyoueven"
   - username: "ivan_krslovic"
     fullname: >-
-      Ivan Krslovic 🌹
+      Ivan Krslovic
     bio: >-
-      🇦🇺 > LA🇺🇸 McMahon mgmt Dancer-@immabeastco Spreader of happiness😁 @aussiedancetours 💃 @dreamtodance.charity @imma.apparel 199cm..missed out by 1!😞😜
+      Melbourne 🇦🇺 DANCER / ACTOR 6’6 Acting enquires: @mcmahon_management Founder - @aussiedancetours
     location: "Australia"
-    followers: 25253
-    engagement: 114
-    commentsToLikes: 0.229017
+    followers: 23312
+    engagement: 79
+    commentsToLikes: 0.184016
     id: ck0tvihwrbi5r0i19vhu60xzb
     verified: false
-    hashtags: "#dancers, #aussie, #happy, #hiphop"
-  - username: "marinetanyan"
+    hashtags: "#grateful, #happy, #fit, #health"
+  - username: "angelius_wings"
     fullname: >-
-      Marine Tan Yan
+      ANGELIUS WINGS/ ADVENTURER
     bio: >-
-      1 Corinthians 13 ✞ Melbourne 📍🇦🇺 🇲🇺 22 Health/Faith/Fitness @_mtyphotography Collabs:marinetanyan@gmail.com Youtube⤵️
+      MY ADVENTURES AROUND THE 🌏 📍Melbourne,Australia🇦🇺 GOOD VIBES...ONLY MENTAL HEALTH ADVOCATE 👂🏽 ITA - SPA -ENG -FREN
     location: "Australia"
-    followers: 4343
-    engagement: 821
-    commentsToLikes: 0.229871
-    id: ck6u3rpemzhuf0j711xzt6prp
+    followers: 49787
+    engagement: 276
+    commentsToLikes: 0.368757
+    id: ck8wfd7eyfjz70j78ylwed4s8
     verified: false
-    hashtags: "#livesoulara, #soulara, #ad, #fitnessblogger"
-  - username: "sarasidari"
-    fullname: >-
-      SARA SIDARI  ILLUSTRATOR
-    bio: >-
-      International Illustrator. Seen in The Block Shop, Elle, Vogue, West Elm ... Shop New Prints here 👇
-    location: "Australia"
-    followers: 21076
-    engagement: 59
-    commentsToLikes: 0.043370
-    id: ck5hgtxs84qgi0i11hfz8zl5w
-    verified: false
-    hashtags: "#isolation, #amalficoast, #australianlabradoodlesofinstagram, #line"
-  - username: "emiliacheergirl"
-    fullname: >-
-      EMILIA DANIELLE
-    bio: >-
-      Having Fun : Being Me 📸 Model 🎬 Actor 💯% Parent Owned/Ran Acct
-    location: "Australia"
-    followers: 194153
-    engagement: 209
-    commentsToLikes: 0.056282
-    id: ck0w6xtufarz50i19ijhpsk8u
-    verified: false
-    hashtags: "#allstarcheer, #picoftheday, #motivationalquotes, #sportsbra"
-  - username: "flash.jordy"
-    fullname: >-
-      Jordan Hocking
-    bio: >-
-      @legomastersau sent me on a running Journey now they call me the flash￼. Film and Television student at Deakin
-    location: "Australia"
-    followers: 8090
-    engagement: 980
-    commentsToLikes: 0.019373
-    id: ckap8wn4oq7ou0i78us44zpmc
-    verified: false
-    hashtags: "#melbourne, #tv, #lego, #legomastersau"
-  - username: "emilywardyo"
-    fullname: >-
-      EMILY JANE WARD 🦋
-    bio: >-
-      ✽ Melbourne, Aus📍 ✽ TikTok: emilywardyo (205k+) ✽ Email for business inquiries 📩
-    location: "Australia"
-    followers: 29161
-    engagement: 1363
-    commentsToLikes: 0.026594
-    id: ckapbc2lszcna0i78n02fc2co
-    verified: false
-    hashtags: "#reels, #australia, #transition, #discover"
-  - username: "sarahjaneroza"
-    fullname: >-
-      SARAH ROZA
-    bio: >-
-      👇🏻COLLAB/MEDIA ENQUIRES📨 SarahRoza.Bookings@gmail.com #Hair #Beauty #Fashion #Makeup #Health TV + Radio Host 🌟 Influencer/Ambassador 📺YouTube Channel
-    location: "Australia"
-    followers: 363287
-    engagement: 158
-    commentsToLikes: 0.043110
-    id: ck5cl1ocoy2jm0i112ylzgnqh
-    verified: true
-    hashtags: "#face, #marriedatfirstsightaustralia, #health, #iloveyou"
-  - username: "blakewheller"
-    fullname: >-
-      Blake Wheller
-    bio: >-
-      Melbourne | Australia 🇦🇺 ⚡️Chasing aesthetics 🏆 Bodybuilding lifestyle 📲 Celebrity promo and giveaways DM me for details 👈🏼
-    location: "Australia"
-    followers: 29585
-    engagement: 92
-    commentsToLikes: 0.064078
-    id: ck135twve37vq0i19q4nn0u6u
-    verified: false
-    hashtags: "#gymlife, #powerlifting, #physique, #fitnessmotivation"
-  - username: "curvyamelia"
-    fullname: >-
-      Amelia Stubbs
-    bio: >-
-      • C U R V Y A M E L I A • 🇦🇺 Melbourne, Australia 🌸 @fullbloomlingerie 📧 contact@ameliastubbs.com.au ✉️ Agent @brazenmodels
-    location: "Australia"
-    followers: 162057
-    engagement: 66
-    commentsToLikes: 0.040290
-    id: ck5hpk1sdrhja0i11ruwku1h1
-    verified: false
-    hashtags: "#summer, #naughty, #beyou, #curvyamelia"
+    hashtags: "#adventure, #hike, #beautifulplaces, #destinations"
   - username: "kiara.paige"
     fullname: >-
       ＫＩＡＲＡ ＰＡＩＧＥ 🕊𝑀𝑜𝒹𝑒𝓁
     bio: >-
       ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🤍 | Passion for Fashion, Fitness & Beauty 🖤 | Melbourne ~ Australia 🤍 | Agent Danielle @ikonickids
     location: "Australia"
-    followers: 11869
-    engagement: 616
-    commentsToLikes: 0.156493
+    followers: 11891
+    engagement: 558
+    commentsToLikes: 0.195636
     id: ck13chikg0dfi0i19k7otgu8m
     verified: false
-    hashtags: "#naturalmakeup, #melbournemodel, #activewear, #beautifulgirl"
+    hashtags: "#melbournemodel, #goldenhour, #australianmodel, #blondemodel"
+  - username: "sarahjaneroza"
+    fullname: >-
+      SARAH ROZA
+    bio: >-
+      🎥TV+Radio 🎤Host 🌟Brand Ambassador #Hair #Beauty #Fashion #Makeup #Health #Mafs 📍Melb, AUS 🇦🇺 📧For Collaborations please email below⬇️ 📺YouTube Channel
+    location: "Australia"
+    followers: 371172
+    engagement: 168
+    commentsToLikes: 0.032323
+    id: ck5cl1ocoy2jm0i112ylzgnqh
+    verified: true
+    hashtags: "#fun, #cosmetics, #queen, #curvy"
+  - username: "sincerelynursejen"
+    fullname: >-
+      Jen, B.N, RN, MACN👩‍⚕️
+    bio: >-
+      📍| melbourne, australia || she/her 🩺| grad registered nurse || #healthcareteammate 🫀| 1st rotation: cardiology 🌟| @bodybuddiesau ambassador
+    location: "Australia"
+    followers: 30850
+    engagement: 188
+    commentsToLikes: 0.034546
+    id: ck8t1itrfvxs40j78gja7l3f0
+    verified: false
+    hashtags: "#inspiration, #womeninmedicine, #studyblr, #studycommunity"
+  - username: "julianaandrea_m"
+    fullname: >-
+      Juliana Mendoza Australia
+    bio: >-
+      #Mum | #Travel Joy, fun & Nature addict. #Health lover. Come laugh with me Let’s talk 👇🏽 📧 julianamonline@gmail.com 🇦🇺🇨🇴
+    location: "Australia"
+    followers: 92253
+    engagement: 41
+    commentsToLikes: 0.090387
+    id: ck5qa6fxsesdp0i1117dfro1o
+    verified: false
+    hashtags: "#australiatrip, #dametraveler, #sydneyblogger, #nt"
+  - username: "farhanamuna"
+    fullname: >-
+      Munatic
+    bio: >-
+      Mental health advocate & conscious comedian who talks about hard things I influence women to fuck the patriarchy ❤️Love, light & badass-ery 🎥 2M+Views
+    location: "Australia"
+    followers: 36576
+    engagement: 269
+    commentsToLikes: 0.021122
+    id: ck8t7hw00gv3d0j784ulpwaam
+    verified: false
+    hashtags: "#lovereading, #bookstagram, #grateful, #food"
+  - username: "jennybeeen"
+    fullname: >-
+      Jenny Blenk | Content Creator
+    bio: >-
+      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
+    location: "Australia"
+    followers: 8147
+    engagement: 644
+    commentsToLikes: 0.205182
+    id: ck5honakipv940i114q4oggvy
+    verified: false
+    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
+  - username: "eatoutwithjo"
+    fullname: >-
+      Jo | Melbourne Foodie |
+    bio: >-
+      💌 DM/Email for Collabs/Invites 📷 Photos/videos by @some.wisdom & myself Happy to f4f just DM me 💞 will unfollow if you unfollow 😆
+    location: "Australia"
+    followers: 8265
+    engagement: 622
+    commentsToLikes: 0.262668
+    id: ck5zsfy6pyf7g0i14jsqqyod4
+    verified: false
+    hashtags: "#delish, #melbournefoodblogger, #melbournefood, #melbournecafe"
 ---

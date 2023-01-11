@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In San Francisco in 2023
+title: Top 10 Makeup Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top makeup Instagram influencers in San Francisco in 2023. Most popular hashtags: #makeup #sanfrancisco #fashion #beauty.
+  Find top makeup Instagram influencers in San Francisco in 2023. Most popular hashtags: #makeup #mua #fashion #sanfrancisco.
 platform: Instagram
-hits: 54
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 54 Instagram influencers like this in San Francisco, United States for you to connect with.
+hits: 58
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 58 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "nikohlspearman"
+  - username: "baka_pml"
     fullname: >-
-      𝕹𝖎𝖐𝖔𝖍𝖑
+      Bakhshish Singh | BAKA
     bio: >-
-      Repped by @slaymodelsla 🦋Live life to the fullest🦋 Actress/model
+      🔻@prismmedialab 🎥 Cinematographer/Editor 👔 Entrepreneur 📽 Check Our Work ⬇
     location: "United States"
-    followers: 6109
-    engagement: 1142
-    commentsToLikes: 0.041875
-    id: ck6u47fla24ft0j71wwe35ap3
+    followers: 5356
+    engagement: 981
+    commentsToLikes: 0.080188
+    id: ck6tte67ba4di0j713lrfszbb
     verified: false
-    hashtags: "#justiceforgeorgefloyd, #redhead, #hair, #athleticgrunge"
-  - username: "vicensfornsphotography"
+    hashtags: "#cinematographer, #pml, #pmltravels, #travel"
+  - username: "staticboston"
     fullname: >-
-      Miami Photographer
+      STATIC
     bio: >-
-      #fineartweddingphotographer #miami #miami photographer #weddings #destinationsweddings #miamiweddings #familyphotos #engagement #maternity
+      Organizer: @gaybashdboston @privatelifeboston They/them 🖤🦇
     location: "United States"
-    followers: 9008
-    engagement: 194
-    commentsToLikes: 0.067851
-    id: ck9wh0fqwvogv0j78u7f8jrab
+    followers: 7910
+    engagement: 431
+    commentsToLikes: 0.156297
+    id: ck5cd36jyighb0i1137e4hiib
     verified: false
-    hashtags: "#miamidestinationweddingphotographer, #miamiphotographer, #miamiweddingvenue, #bridemiami"
+    hashtags: "#dragqueen, #freak, #queerart, #lgbtq"
+  - username: "rainbowchatman"
+    fullname: >-
+      Rainbow
+    bio: >-
+      🏳️‍🌈 non-binary ⛓ makeup artist + creator 📍San Francisco
+    location: "United States"
+    followers: 14985
+    engagement: 347
+    commentsToLikes: 0.068452
+    id: ck15pieagy1cz0i19iiytoyig
+    verified: false
+    hashtags: "#visiblyplussize, #asos, #gifted, #psfashion"
+  - username: "jazlmao"
+    fullname: >-
+      Jazzi 🌻 Manalo Sullivan
+    bio: >-
+      makeup + real skin!! :) friendsta: @allthatjazzi15 📍San Francisco Filipina 🇵🇭
+    location: "United States"
+    followers: 18655
+    engagement: 360
+    commentsToLikes: 0.029684
+    id: ck6tq4pgipdja0j71ch1q3vus
+    verified: false
+    hashtags: "#nyxcosmetics, #skinpositivity, #colourpopme, #makeupdolls"
   - username: "the_skinedit"
     fullname: >-
       Lindsey
     bio: >-
-      🙂 skin care, self care, and minimal makeup are my jam 🦢 san francisco ✉️ pr/collabs | LCtheskinedit@gmail.com
+      🎞 skincare and minimal makeup 👋🏼 Lctheskinedit@gmail.com San Francisco
     location: "United States"
-    followers: 2854
-    engagement: 1301
-    commentsToLikes: 0.220066
+    followers: 3367
+    engagement: 916
+    commentsToLikes: 0.189815
     id: ckf5tx0a5iyqp0j235uaslwr9
     verified: false
-    hashtags: "#careforyourplanet, #texturetuesday, #typeapartner, #farmacyskincare"
-  - username: "justine_vivian"
-    fullname: >-
-      Justine
-    bio: >-
-      📍SF EMG Models | NYLO Model + Talent | Ravage Management Model | Actress | Stylist ✨ DM For Rates.
-    location: "United States"
-    followers: 4116
-    engagement: 882
-    commentsToLikes: 0.094636
-    id: ck14jyadamrw10i19107pn6bf
-    verified: false
-    hashtags: "#scoutme, #sfcreate, #dalystudioseries, #audreyhepburn"
+    hashtags: "#arrivebeauty, #arrivebeautyskinboost, #arrivebeautybronzer"
   - username: "alleyesonmax"
     fullname: >-
       Max Showalter • Makeup Artist
     bio: >-
       📍 San Francisco,CA🌉 💄 Makeup Artist 🌳 Tree Hugger 🌌 Universe Lover ✌🏻 Positive Energy and Good Vibes 📧 : maxshowalter@yahoo.com 🎞 YouTube👇🏻
     location: "United States"
-    followers: 6389
-    engagement: 468
-    commentsToLikes: 0.104049
+    followers: 6128
+    engagement: 506
+    commentsToLikes: 0.113078
     id: ck14iq1zrgnr10i195eyvrknp
     verified: false
-    hashtags: "#tatchaskincare, #31daysofhalloween, #specialfxmakeup, #morphebrushes"
-  - username: "fredericaspiras"
+    hashtags: "#jeffreestarcosmetics, #makeup, #plouisebase, #morpheboy"
+  - username: "cristinaviseu"
     fullname: >-
-      FREDERIC ASPIRAS
+      Cristina 💕 San Francisco
     bio: >-
-      HAIRSTYLIST & WIG ART DESIGNER #FredericAspirasHair HAÜS OF GAGA The Only Agency / (212)924-4046 @joico Ambassador
+      💕 Ghibli film vibes 🌸 tiktok 200k!! @cristinaviseu 😌 📍San Francisco ✨ video @fentybeauty 🌸 my art shop @maisonpeaches 💌viseu.c@gmail.com
     location: "United States"
-    followers: 107278
-    engagement: 457
-    commentsToLikes: 0.024443
-    id: ck0vw2t19ruj90i19p5sp4bs7
-    verified: true
-    hashtags: "#pinkhair, #hauslabs, #joicodefydamage, #rainonme"
-  - username: "prasilassi"
-    fullname: >-
-      Prasiddha
-    bio: >-
-      You only see what I choose to show 🙃 📍San Francisco 🇺🇸
-    location: "United States"
-    followers: 5740
-    engagement: 2023
-    commentsToLikes: 0.004500
-    id: ck5qc95vcpfrp0i11crby36bp
+    followers: 20442
+    engagement: 4185
+    commentsToLikes: 0.011248
+    id: ckaorswleolz40i78clw0wbry
     verified: false
-    hashtags: "#weddingdiaries, #pellikuthuru, #teampixel, #roamtheplanet"
-  - username: "rainbowchatman"
+    hashtags: "#softaesthetic, #cottagecoreaesthetic, #soft, #picnicdate"
+  - username: "sagaj"
     fullname: >-
-      RAINBOW
+      sagaj 🔫
     bio: >-
-      🏳️‍🌈 Queer (They/She) ⠀ Serving Lewks | +Size Style ⠀⠀ @Effyourbeautystandards Admin⠀⠀ 📍San Francisco, CA
+      🇵🇱🇪🇺🇺🇸🇨🇦🇦🇺🌐📷 for shoots and workshops DM me. Los Angeles📍 Feb 19-21 San Francisco, CA Mar 2-7 Atlanta, GA Mar 9-14 Miami, FL
     location: "United States"
-    followers: 15611
-    engagement: 412
-    commentsToLikes: 0.056724
-    id: ck15pieagy1cz0i19iiytoyig
+    followers: 207648
+    engagement: 234
+    commentsToLikes: 0.012576
+    id: ck0w08omjcxzv0i19e074fkav
     verified: false
-    hashtags: "#gifted, #psblogger, #plussize, #psfashion"
+    hashtags: "#portrait, #malibu, #gorgeous, #poland"
   - username: "amare_media"
     fullname: >-
       Amāre Media
     bio: >-
       Fashion and Lifestyle Media Producer based out of San Francisco. Thanks for looking🙏🏼
     location: "United States"
-    followers: 4365
-    engagement: 1144
-    commentsToLikes: 0.094709
+    followers: 4281
+    engagement: 1003
+    commentsToLikes: 0.081202
     id: ckaozupsnnhbm0i7812jlstbe
     verified: false
-    hashtags: "#agameoftones, #silhouette, #abstract, #ig"
-  - username: "petitetammie"
+    hashtags: "#digitalcollage, #photographyislifee, #silhouette, #global"
+  - username: "tanyuanyuansf"
     fullname: >-
-      Tammie | petite style & beauty
+      Yuan Yuan Tan 谭元元
     bio: >-
-      5'1 | San Francisco PR / Collab via email 📩 DM @versed skin team / 20%off @lilahbeauty tammie20 🛍 more code in below link 🐶 @poodlekiwi420sf
+      Prima Ballerina, Principal — San Francisco Ballet Following my passion, limitless !!!
     location: "United States"
-    followers: 12947
-    engagement: 603
-    commentsToLikes: 0.254876
-    id: ck5c5ur1d46mf0i111fea4grc
+    followers: 26444
+    engagement: 390
+    commentsToLikes: 0.019060
+    id: ck5qe1mc7yacn0i117lewzfj8
     verified: false
-    hashtags: "#skincare, #beautygiveaway, #liketkit, #skincarecommunity"
+    hashtags: "#dance, #special, #balletdancer, #dancer"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In South Africa in 2023
+title: Top 10 Fashion Instagram Influencers In South Africa In 2023
 description: >-
-  Find top fashion Instagram influencers in South Africa in 2023. Most popular hashtags: #sponsored #mrpmystyle #menstreetstyle.
+  Find top fashion Instagram influencers in South Africa in 2023. Most popular hashtags: #fashion #mrpmystyle #reels.
 platform: Instagram
-hits: 245
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 245 Instagram influencers like this in South Africa for you to connect with.
+hits: 170
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 170 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "ismaeelbagus"
+  - username: "katlego_tefu"
     fullname: >-
-      Ismaeel Bagus
+      Katlego Tefu
     bio: >-
-      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📸 @flashmeishi 📨 ismaeelbagus@gmail.com ...🧵 Be part of the change ⤵️
+      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
     location: "South Africa"
-    followers: 3847
-    engagement: 2504
-    commentsToLikes: 0.114857
-    id: ck136233x4dks0i19e0kr7qsm
+    followers: 16874
+    engagement: 394
+    commentsToLikes: 0.033650
+    id: ck6u4o0ti4tlh0j716qfc7snm
     verified: false
-    hashtags: "#celebratemzansi, #bts, #supportlocalbusiness, #iykyk"
-  - username: "siya_hashe"
+    hashtags: "#thespot, #styleinspiration, #brunchoutfit, #rotd"
+  - username: "fashionbreed"
     fullname: >-
-      Siyamthanda Hashe 🤍
+      Aqeelah Harron Ally
     bio: >-
-      Beauty, Fashion & Lifestyle 📍Cape Town 📚👩🏽‍🎓 Chair: @amaqhawekazi_ec 💎
+      Co-Founder of @WorthyCo_ | Ziya’s Mom For brand bookings, email info@fashionbreed.co.za
     location: "South Africa"
-    followers: 6126
-    engagement: 1791
-    commentsToLikes: 0.083913
-    id: ckaoziugtm2q40i78y3toxzf0
-    verified: false
-    hashtags: "#blackouttuesday"
-  - username: "zeenatkh_"
+    followers: 75080
+    engagement: 288
+    commentsToLikes: 0.029926
+    id: ck6u4nqzg4s110j713ik5e211
+    verified: true
+    hashtags: "#sunglasshutsa, #bealpha, #fbstyletip, #multitaskerconcealer"
+  - username: "keneilwe_mothoa"
     fullname: >-
-      Zeenat Khan
+      Keneilwe Nei
     bio: >-
-      • Email : info@curativeconcepts.com • Stylist @rogue_styling •@damodelmanagement •Fashion|Fitness|Food •UCT Bcom graduate
+      Fashion | interiors | textiles 📍🇿🇦
     location: "South Africa"
-    followers: 9452
-    engagement: 1046
-    commentsToLikes: 0.202621
-    id: ck5zt80vuzwqc0i140ooagtz6
+    followers: 35324
+    engagement: 109
+    commentsToLikes: 0.016327
+    id: ck14ln0wbvhes0i19dfhc7b05
     verified: false
-    hashtags: "#rocolove, #rocofamous, #strangerthings, #iconixza"
+    hashtags: "#woolworthschristmas, #woolworthsfashion, #ad, #tedbaker"
+  - username: "diariesofanislandergirl"
+    fullname: >-
+      ZAINAH | LIFESTYLE BLOGGER
+    bio: >-
+      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
+    location: "South Africa"
+    followers: 10575
+    engagement: 612
+    commentsToLikes: 0.018917
+    id: ck5hqose9tghk0i11u4gxah0n
+    verified: false
+    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
   - username: "txshriq"
     fullname: >-
       tashriq 🧿
     bio: >-
-      he/him fashion student 18 | durban, south africa
+      he/him fashion student 18 | durban, south africa dm/email for promos/collabs
     location: "South Africa"
-    followers: 5151
-    engagement: 2919
-    commentsToLikes: 0.199956
+    followers: 7242
+    engagement: 3287
+    commentsToLikes: 0.201601
     id: ckap8rm6spkdg0i78v6ljb65s
     verified: false
-    hashtags: "#quarantine, #lockdown, #valentinesday, #superbman"
-  - username: "mattejacobs"
+    hashtags: "#lockdown, #18, #diwali2020, #explore"
+  - username: "ismaeelbagus"
     fullname: >-
-      Matte Jacobs
+      Ismaeel Bagus
     bio: >-
-      Cape Town @20modelmanagement Johannesburg @syncmodels_ • Make Up⠀ • Fashion ⠀ • Face of @houseoflecap • Creative 🇿🇦 ✊🏽✊🏿✊🏾🏳️‍🌈⠀
+      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📨 ismaeelbagus@gmail.com 👫🏽 @pastthebag Shop the look & more ⤵️
     location: "South Africa"
-    followers: 9111
-    engagement: 1110
-    commentsToLikes: 0.081498
-    id: ck5zy5rny9a3r0i14dbfi53e1
+    followers: 4451
+    engagement: 1441
+    commentsToLikes: 0.098271
+    id: ck136233x4dks0i19e0kr7qsm
     verified: false
-    hashtags: "#minimalism, #boymua, #makeup, #blacklivesmatter"
-  - username: "jessica_vanheerden"
+    hashtags: "#hmxme, #hm, #letspush, #mrpmystyle"
+  - username: "jadezammitstevens"
     fullname: >-
-      Jessica van Heerden
+      As told by Jade
     bio: >-
-      Award Winning Content Creator 🇿🇦 Beauty, Fashion, Lifestyle & YouTube vheerdenjessica@gmail.com
+      𝐹𝑎𝑠ℎ𝑖𝑜𝑛 & 𝐵𝑒𝑎𝑢𝑡𝑦 🥰 Maltese 🇲🇹 Handmade Hair Accessories : @jadewithlove_x 💕 Award Winning Fashion Blogger 2017 💖 AI Graduate 🎓 Full Stack Developer 🤓
     location: "South Africa"
-    followers: 41896
-    engagement: 677
-    commentsToLikes: 0.029140
-    id: ck135ukud3bat0i199i7ol35t
+    followers: 25728
+    engagement: 570
+    commentsToLikes: 0.008004
+    id: ck6tm66s8790d0j71tnq2jwhr
     verified: false
-    hashtags: "#selfcaresunday, #cottonon, #capetown, #spritzersaturday"
-  - username: "ruthjoseph_"
+    hashtags: "#malta, #style, #blonde, #summer"
+  - username: "majestic_mey"
     fullname: >-
-      Ruth Chrystal Joseph
+      Razaan Meyer-Khan 🖤
     bio: >-
-      ✂️ Fedisa Fashion Student 📧 ruthchrystaljoseph@gmail.com 🌴 Cape Town, South Africa
+      Fashion, Beauty & Lifestyle Content Creator Promos & PR: info@majesticza.co.za | NO DMs ↘️ shop @majesticza_
     location: "South Africa"
-    followers: 5626
-    engagement: 1505
-    commentsToLikes: 0.067349
-    id: ck5zoeyf9qev70i1464xtsr7i
+    followers: 232492
+    engagement: 893
+    commentsToLikes: 0.149581
+    id: ck6u4o8l84uvj0j71pe28pxwj
     verified: false
-    hashtags: ""
-  - username: "hayleykathoke"
+    hashtags: "#beautyathomewithu, #forgirlsbygirls, #youdosummer"
+  - username: "frema.mensah"
     fullname: >-
-      Hayley Kathoke
+      🇬🇭Frema Mensah🇬🇭
     bio: >-
-      JHB 🇿🇦 Fashion Student 👩🏽‍🎓 Model @icegenetics @icemodelsjhb Exclusive content ⬇️
+      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
     location: "South Africa"
-    followers: 22534
-    engagement: 502
-    commentsToLikes: 0.051120
-    id: ckap2h7a5ytcz0i783pc5it20
+    followers: 7981
+    engagement: 721
+    commentsToLikes: 0.085715
+    id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
-    hashtags: ""
-  - username: "mspaulabee"
+    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
+  - username: "michelle_vanessaa_"
     fullname: >-
-      Ms Paula Bee
+      Michelle Vanessa
     bio: >-
-      Curly-Headed Brown Girl 🦋 Daughter of the King ✨🇿🇦 Married to @lowdl 👰🏽🤵🏽 I create fashion, beauty & lifestyle content! #CWSquad @canalwalk
+      Miami🏝TV Host🎤Food & Travel Critic🍴✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
     location: "South Africa"
-    followers: 50164
-    engagement: 419
-    commentsToLikes: 0.034196
-    id: ck5hkoywvit0w0i11ghe3b4ww
+    followers: 30778
+    engagement: 465
+    commentsToLikes: 0.120945
+    id: ck6tqe91vqy2q0j71tv5jm53n
     verified: false
-    hashtags: "#foschiniallwoman, #labello111years, #cwsquad, #sponsored"
-  - username: "datcuteud"
-    fullname: >-
-      CUTE UD’s Fashion 🤎
-    bio: >-
-      Star in the making 📧 datcuteud77@gmail.com or dm 📍:cape Town 🇿🇦/ 🇳🇬 Fashion | influencer | model
-    location: "South Africa"
-    followers: 13106
-    engagement: 848
-    commentsToLikes: 0.152251
-    id: ck5zs2lfnxpf50i14g8whux1f
-    verified: false
-    hashtags: "#mrpmystyle, #zaramenmag, #menstreetstyle, #kidsfashioninfluencer"
+    hashtags: "#miami, #heels, #travel, #wanderlust"
 ---

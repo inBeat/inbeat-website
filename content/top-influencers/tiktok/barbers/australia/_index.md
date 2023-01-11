@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Australia in 2023
+title: Top 10 Barbers TikTok Influencers In Australia In 2023
 description: >-
-  Find top barbers TikTok influencers in Australia in 2023. Most popular hashtags: #barber #fyp #foryoupage #foryou.
+  Find top barbers TikTok influencers in Australia in 2023. Most popular hashtags: #barber #duet #haircut #fyp.
 platform: TikTok
-hits: 17
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 17 TikTok influencers like this in Australia for you to connect with.
+hits: 19
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 19 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "jyotibajaj1"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Model and lady barber Insta-jyoti.barber PB08🇮🇳 Adelaide, Australia🇦🇺
     location: "Australia"
-    followers: 271000
-    engagement: 428
-    commentsToLikes: 0.038923
+    followers: 275700
+    engagement: 409
+    commentsToLikes: 0.043882
     id: ck81t0dluuham0j78phc6rxfr
     verified: false
-    hashtags: "#tiktokpakistan, #pakistan, #timechakda, #adelaide"
+    hashtags: "#punjabicomedy, #jyotibajaj1, #pakistanitiktok, #siraehou"
+  - username: "barber_garvei"
+    fullname: >-
+      Barber_GarVei
+    bio: >-
+      Barber, Hairdresser garvei5860@gmail.com 🇦🇺 Perth
+    location: "Australia"
+    followers: 525600
+    engagement: 351
+    commentsToLikes: 0.008442
+    id: ck9a9trz2hpp10j78nfqwdfmk
+    verified: false
+    hashtags: "#skincare101, #groupchat, #zodiacsign, #savemebudgetdirect"
   - username: "top.kuts"
     fullname: >-
       top.kuts
     bio: >-
       barber shop located Hassall grove ,Bidwill squares and st johns park 👻top.kuts
     location: "Australia"
-    followers: 228500
-    engagement: 522
-    commentsToLikes: 0.015958
+    followers: 358500
+    engagement: 535
+    commentsToLikes: 0.009369
     id: ckdcjvqoqlvey0j23ojid3997
     verified: false
-    hashtags: "#music, #jokes, #people, #boys"
-  - username: "garvei"
-    fullname: >-
-      Gar  Vei
-    bio: >-
-      Barber hairdresser artwork artist Perth
-    location: "Australia"
-    followers: 237528
-    engagement: 290
-    commentsToLikes: 0.005710
-    id: ck9a9trz2hpp10j78nfqwdfmk
-    verified: false
-    hashtags: "#earthhour, #thedrop, #progamer, #happyeaster"
+    hashtags: "#bestie, #wow, #cutebaby, #fyp"
   - username: "williambabylon"
     fullname: >-
       William Mikha
     bio: >-
       Barber💈Sydney Top kuts bidwill square Hassall grove St. John’s Park
     location: "Australia"
-    followers: 77000
-    engagement: 355
-    commentsToLikes: 0.014872
+    followers: 86300
+    engagement: 321
+    commentsToLikes: 0.013294
     id: ckdcal8xfit0o0j23mtwwnws9
     verified: false
-    hashtags: "#mcspicymoves, #interiordesign, #sydney, #hair"
+    hashtags: "#fyp, #beard, #satisfying, #hairstyle"
   - username: "fadi.bato"
     fullname: >-
-      Fadibato
+      FadiBato
     bio: >-
-      Instagram: @fadibato 📍 Melbourne 🇦🇺
+      
     location: "Australia"
-    followers: 23000
-    engagement: 315
-    commentsToLikes: 0.010386
+    followers: 31100
+    engagement: 319
+    commentsToLikes: 0.011746
     id: ckav66gp7cuoj0j23owmb2rk8
     verified: false
-    hashtags: "#barber, #barbershop, #foryou, #hairtutorial"
+    hashtags: "#transformation, #fade, #hairtransformation, #haircut"
+  - username: "asaptuppy"
+    fullname: >-
+      Tups
+    bio: >-
+      🇼🇸🇳🇿 📍Sydney Taken ❤🔐 L.D.N Check my IG for the Cultural Duets
+    location: "Australia"
+    followers: 389200
+    engagement: 1049
+    commentsToLikes: 0.023249
+    id: cka3viip6yefv0i78jpk6lsct
+    verified: false
+    hashtags: "#gym, #duet, #maori, #nohommo"
+  - username: "callaa_music"
+    fullname: >-
+      Callaa
+    bio: >-
+      “My Life Be Like” 🤘 Aussie 🇦🇺
+    location: "Australia"
+    followers: 70500
+    engagement: 773
+    commentsToLikes: 0.110943
+    id: ck9ejkz5f369w0j78dac84xik
+    verified: false
+    hashtags: "#cover, #mashup, #singlelife, #vibes"
   - username: "marcusmoxie"
     fullname: >-
       Marcus Mx
     bio: >-
-      Aussie YouTuber 🇦🇺 Join the Moxie Mafia on Insta! 🔥 ⬇️ NEWEST YouTube vid ⬇️
+      Aussie YouTuber 🇦🇺 Join the Moxie Mafia on Insta! 🔥 ⬇️ Support the Cause! ⬇️
     location: "Australia"
-    followers: 34000
-    engagement: 1494
-    commentsToLikes: 0.009664
+    followers: 34400
+    engagement: 1502
+    commentsToLikes: 0.009587
     id: ckb9ie80s8pv00j2315xf09ic
     verified: false
-    hashtags: "#publichallenge, #southaustralia, #nelk, #sendit"
+    hashtags: "#nelk, #publichallenge, #straya, #rundlemall"
   - username: "macpiper1"
     fullname: >-
       Macpiper
     bio: >-
       
     location: "Australia"
-    followers: 91000
-    engagement: 1268
-    commentsToLikes: 0.012127
+    followers: 90400
+    engagement: 1270
+    commentsToLikes: 0.011308
     id: ck9kcv5odr91p0j78mjbgt5ir
     verified: false
-    hashtags: "#shovelknight, #oc, #aussietok, #duet"
-  - username: "itsyaboyjayyh"
+    hashtags: "#oc, #aussietok, #shovelknight, #duet"
+  - username: "justinleo.x"
     fullname: >-
-      JadenHarris
+      justinleo.x
     bio: >-
-      18. Insta: @its_jayyh 🙌🏽 🇳🇿🇨🇰
+      🇦🇺 AUS 📌 Tallinn, EST 📸 Insta: justinleo.x 💌 justinleo.x@outlook.com
     location: "Australia"
-    followers: 5602
-    engagement: 1871
-    commentsToLikes: 0.022413
-    id: ckae1n2stpnov0i78oodaaus3
+    followers: 1000000
+    engagement: 841
+    commentsToLikes: 0.020720
+    id: ckcel146tun2b0j23xkvh79mb
     verified: false
-    hashtags: "#fyp, #laugh, #jay, #foryou"
-  - username: "leightonelchapo"
-    fullname: >-
-      Leightonelchapo
-    bio: >-
-      😈🖕 Melbourne | Maori 🇳🇿
-    location: "Australia"
-    followers: 43800
-    engagement: 1051
-    commentsToLikes: 0.041383
-    id: ckavb842qiul50j23v4e89kh3
-    verified: false
-    hashtags: "#starwars, #foryoupage, #marvel, #duet"
-  - username: "siennakeera"
-    fullname: >-
-      SiennaKeera
-    bio: >-
-      Sienna Keera & George Keywood 💖💍 PayPal: siennakeera@hotmail.com
-    location: "Australia"
-    followers: 4274
-    engagement: 213
-    commentsToLikes: 0.081415
-    id: ckbfati3l2gpo0j23zl02ntzg
-    verified: false
-    hashtags: "#fyp, #adorable, #funnyvideos, #babiesoftiktok"
+    hashtags: "#tallinn, #barber, #police, #copsoftiktok"
 ---

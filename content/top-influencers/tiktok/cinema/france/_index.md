@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In France in 2023
+title: Top 10 Cinema TikTok Influencers In France In 2023
 description: >-
-  Find top cinema TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #cinema #humour.
+  Find top cinema TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #fyp #cinema.
 platform: TikTok
-hits: 46
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat has 46 TikTok influencers like this in France for you to connect with.
+hits: 35
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 35 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "souleymanesurtiktok"
     fullname: >-
@@ -25,106 +25,106 @@ profiles:
     bio: >-
       La chaîne de la musique, des séries et du cinéma, disponible sur myCANAL
     location: "France"
-    followers: 182300
-    engagement: 1072
-    commentsToLikes: 0.013676
+    followers: 188400
+    engagement: 1245
+    commentsToLikes: 0.012221
     id: ckac85tr2f8zu0i785upvpg2i
     verified: true
-    hashtags: "#cstar, #interview, #pourtoi, #eurockeennes"
+    hashtags: "#fyp, #pourtoi, #cstar, #duochallenge"
+  - username: "zgary.93"
+    fullname: >-
+      Zgary93 
+    bio: >-
+      Comédien le 3mars au cinéma dans « mon fils Malik. » Humoriste JCC9
+    location: "France"
+    followers: 9658
+    engagement: 407
+    commentsToLikes: 0.097213
+    id: ckacmczk5j73r0i78io7vwmni
+    verified: false
+    hashtags: "#followparty, #drole, #foryou, #zgary93"
   - username: "allocine"
     fullname: >-
       AlloCiné
     bio: >-
       Ne restez pas simple spectateur. 🍿 #horaires #trailers #cinema #serie
     location: "France"
-    followers: 528700
-    engagement: 1465
-    commentsToLikes: 0.006567
+    followers: 744700
+    engagement: 513
+    commentsToLikes: 0.004627
     id: ck999tza7ef2f0j78go481vsk
     verified: true
-    hashtags: "#fauxraccord, #micheletmichel, #cinema, #pierreniney"
+    hashtags: "#fauxraccord, #cinema, #effetspeciaux, #topfilms"
   - username: "fais_interessant_tiktok"
     fullname: >-
       Fais intéressent
     bio: >-
       Si vous êtes fans de cinéma cette chaîne est conçu pour vous 🤩
     location: "France"
-    followers: 5368
+    followers: 5257
     engagement: 946
-    commentsToLikes: 0.003412
+    commentsToLikes: 0.003411
     id: ckdtk2ukyxn430j23o0iz5pgc
     verified: false
-    hashtags: "#duo, #pourtoi, #fyp, #foryou"
-  - username: "apuissance2"
+    hashtags: "#pourtoi, #duo, #fyp, #foryou"
+  - username: "emmagilson"
     fullname: >-
-      A puissance 2
+      Emma
     bio: >-
-      Abonnez-vous sur youtube : A puissance 2 Insta/ fb : a_puissance_2
+      🇧🇪 💪 19yo 📍paris
     location: "France"
-    followers: 31300
-    engagement: 1748
-    commentsToLikes: 0.017353
-    id: ck9shjf8ntqwn0j78pkxw8qhd
+    followers: 82200
+    engagement: 2044
+    commentsToLikes: 0.014561
+    id: cka0rgssnh2et0i78hx8h9tcy
     verified: false
-    hashtags: "#actors, #prank, #drunk, #music"
+    hashtags: "#foryou, #serie, #cc, #fyp"
   - username: "yoannroucaud"
     fullname: >-
       Yoann Roucaud
     bio: >-
       Cascadeur / Freerunner professionnel 🇫🇷 Suivez moi sur Instagram ! ⬆️
     location: "France"
-    followers: 17200
-    engagement: 1072
-    commentsToLikes: 0.017126
+    followers: 17100
+    engagement: 1065
+    commentsToLikes: 0.016577
     id: ckb9imrx093d80j23hu9b17if
     verified: false
-    hashtags: "#stunt, #parkour, #viral, #foryou"
+    hashtags: "#cascadeur, #foryou, #tiktok, #stunt"
+  - username: "monsieur.laffaille"
+    fullname: >-
+      Nicolas Laffaille
+    bio: >-
+      Photos & Vidéos Créatives 📸 Tutos photo/vidéo et Vlogs sur YouTube
+    location: "France"
+    followers: 619400
+    engagement: 759
+    commentsToLikes: 0.016250
+    id: cka0phtrx8bbg0i78xxvqzt0v
+    verified: true
+    hashtags: "#sunset, #vanlifeconversion, #cinematicvideo, #creativevideo"
   - username: "kenji.isidor"
     fullname: >-
       Kenji Isidor
     bio: >-
       Étrange humain issu des 90s | Créateur de la série Joshua Parker sur Youtube. 🎥
     location: "France"
-    followers: 5539
-    engagement: 498
+    followers: 5443
+    engagement: 575
     commentsToLikes: 0.000000
     id: cka6kv92n0me70i78r1e98xlq
     verified: false
-    hashtags: "#fyp, #pourtoipage, #strange, #foryoupage"
-  - username: "adam.ouchem"
+    hashtags: "#foryoupage, #gothique, #film, #pourtoiii"
+  - username: "jonathangijo"
     fullname: >-
-      Adam Ouchem
+      jonathangijo
     bio: >-
-      Being crazy isn't enough! FOLLOW MY INSTA- ADAMOUCHEM Brother account-AnisOuchem
+      #DisneylandParis #Disney #MadeInEurope #VillagesNature #France
     location: "France"
-    followers: 53700
-    engagement: 2310
-    commentsToLikes: 0.053015
-    id: ckcdpaadwbo9s0j23vvwv5m20
+    followers: 23800
+    engagement: 497
+    commentsToLikes: 0.003269
+    id: ckb9k7xzhbyvm0j237vu8umok
     verified: false
-    hashtags: "#dr, #gumball, #pourtoii, #ecole"
-  - username: "gagawellemarie"
-    fullname: >-
-      Gaëlle MARIE - Off
-    bio: >-
-      #blacklivesmatter #justicepouradama #lgbtq+ #feminism et ts les autres bails!✊🏾
-    location: "France"
-    followers: 83300
-    engagement: 1908
-    commentsToLikes: 0.066402
-    id: ckcvgq41it87z0j23qrjsne27
-    verified: false
-    hashtags: "#gaellemarie, #971, #humour, #tiktokfrance"
-  - username: "smillez.tok"
-    fullname: >-
-      ѕмιℓℓєz
-    bio: >-
-      Bienvenue 🤡 La Folie s'installe Je suis un Renoii SOKALII Insta:Youzy.gms
-    location: "France"
-    followers: 128100
-    engagement: 2703
-    commentsToLikes: 0.028126
-    id: ck9eo3wrom76z0j78ly1h80ba
-    verified: false
-    hashtags: "#fyp, #twitterday, #foryou, #dessinanim"
+    hashtags: "#film, #wd, #remember, #pourtoi"
 ---

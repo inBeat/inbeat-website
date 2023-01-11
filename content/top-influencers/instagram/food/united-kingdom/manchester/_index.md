@@ -1,36 +1,36 @@
 ---
-title: Top 10 Food Instagram Influencers In Manchester in 2023
+title: Top 10 Food Instagram Influencers In Manchester In 2023
 description: >-
-  Find top food Instagram influencers in Manchester in 2023. Most popular hashtags: #food #foodporn #manchester.
+  Find top food Instagram influencers in Manchester in 2023. Most popular hashtags: #food #foodporn #burger.
 platform: Instagram
-hits: 55
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 55 Instagram influencers like this in Manchester, United Kingdom for you to work with.
+hits: 44
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 44 Instagram influencers like this in Manchester, United Kingdom for you to pitch.
 profiles:
-  - username: "lovegreatbritain"
+  - username: "theburgerreviews"
     fullname: >-
-      Love Great Britain 🇬🇧
+      The Burger Reviews
     bio: >-
-      Official British Tourist Board 🇬🇧 Sharing beautiful Britain through your pics and stories! Tag #LoveGreatBritain to allow us to share on our channels.
+      🍔Full Time Burger Fiend 🥩Converting Vegans to Meat Eaters •••••••• 📸DM for Photography & Social Media Management Services
     location: "United Kingdom"
-    followers: 397215
-    engagement: 182
-    commentsToLikes: 0.007910
-    id: ck0u0y0pvv9fw0i19vyapagpj
-    verified: true
-    hashtags: "#lovegreatbritain, #holiday, #explore, #scenicbritain"
+    followers: 28659
+    engagement: 550
+    commentsToLikes: 0.021901
+    id: ckaouunor1w8g0i784sh4qt50
+    verified: false
+    hashtags: ""
   - username: "foodshak"
     fullname: >-
       Manchester Food Photographer
     bio: >-
       Manchester Food Photographer, Videographer and Food Stylist 📩 foodshakreviews@gmail.com
     location: "United Kingdom"
-    followers: 23010
-    engagement: 200
-    commentsToLikes: 0.071910
+    followers: 26532
+    engagement: 236
+    commentsToLikes: 0.031077
     id: ck0w73pqvblox0i19p6gqevvw
     verified: false
-    hashtags: "#foodstagram, #foodie, #manchester, #manchestereats"
+    hashtags: "#food, #foodie, #foodgasm, #burger"
   - username: "mcrfoodboy"
     fullname: >-
       Mcrfoodboy
@@ -43,88 +43,88 @@ profiles:
     id: ck0u1q4xdxq3c0i19sgigthll
     verified: false
     hashtags: ""
-  - username: "lucy_may_ireland"
+  - username: "akeemojuko"
     fullname: >-
-      
+      Akeem Ojuko
     bio: >-
-      Vintage @redandblueumbrella She/Her, Intersectional Feminist Baby-led parent Eating animals isn't very punk rock of you Do no harm, take no shit 👊 🇬🇧
+      founder @wildpeanutfoods - 2 million units sold - 3,500+ stores currently building @getscript.tv - decentralised film + tv (I produce content too)
     location: "United Kingdom"
-    followers: 7062
-    engagement: 380
-    commentsToLikes: 0.029783
-    id: ckaowrg0ra48m0i78lj1fepi2
+    followers: 20346
+    engagement: 462
+    commentsToLikes: 0.025869
+    id: ck6turtwli1hp0j71m6ho28cs
     verified: false
-    hashtags: "#foodpics, #veganfood, #vegans, #plantpowered"
+    hashtags: "#cheekysport, #superrep, #niketraining, #hackneymoves"
   - username: "poweredplantfully"
     fullname: >-
       Rebecca ☾
     bio: >-
       🥑Vegan Food Blogger 🐝 Manchester, UK 👩🏻‍🌾 Personal: @baileyandmee 💌poweredplantfully@outlook.com
     location: "United Kingdom"
-    followers: 15688
-    engagement: 218
-    commentsToLikes: 0.035947
+    followers: 15295
+    engagement: 219
+    commentsToLikes: 0.039829
     id: ck8t0oj7jspp20j78n5fybz4d
     verified: false
-    hashtags: "#eatclean, #foodismedicine, #veganuk, #food"
+    hashtags: "#antiinflammatorydiet, #stokevegan, #food, #plantbaseddiet"
   - username: "mcrfinest"
     fullname: >-
       Manchester's Finest
     bio: >-
       Discover the best of Manchester // independent food, drink, arts & culture, theatre, music and more. Contribute using #mcrfinest
     location: "United Kingdom"
-    followers: 72687
-    engagement: 97
-    commentsToLikes: 0.025790
+    followers: 107716
+    engagement: 85
+    commentsToLikes: 0.029573
     id: ck6ubnpjoanld0j71eqoihokj
     verified: false
-    hashtags: "#mcrfinest, #feedourheroesmcr, #chicken, #recipes"
-  - username: "liliana__anaya"
+    hashtags: "#mcrfinest, #chicken, #recipes"
+  - username: "foodvibesbymaz"
     fullname: >-
-      LILIANA⚡️
+      Food Vibes by Maz
     bio: >-
-      📍Birmingham, U.K
+      A journey of food discovery 🙇‍♂️ Food Blog 🍔🍕🥞 Run By @mazzz93 💫 📍London, UK, Europe & Beyond 🇬🇧🌍✈ DM/Email for collabs/invites/enquiries 💌
     location: "United Kingdom"
-    followers: 4925
-    engagement: 917
-    commentsToLikes: 0.242183
-    id: ckap6rfcph4400i78kanuxqvp
+    followers: 13672
+    engagement: 412
+    commentsToLikes: 0.054333
+    id: ckaor4c41lo3o0i783whxcyt1
     verified: false
-    hashtags: "#cgmethod, #motd, #zarawomen, #makeup"
-  - username: "hetaljpandit"
+    hashtags: "#foodvibesbymaz, #influencer, #foodinfluencer, #burger"
+  - username: "charlieemathews"
     fullname: >-
-      Hetal Pandit
+      Charlie Mathews
     bio: >-
-      ✈ Travel diary ✿ Vegetarian & plant based food ★ Health & wellbeing 𖤥 Manchester, UK ➳ Sharing my favourite trips to my Stories ⇣
+      👸🏼Digital Marketer ☁️ Bristol ~ Manchester 🤍 Fitness | Food | Fun ✨@pwrpeach_ CHARLIE10 | 🌟@el.obsession Charliee10 🤩 @beaybl support link:
     location: "United Kingdom"
-    followers: 7732
-    engagement: 706
-    commentsToLikes: 0.064516
-    id: ck8tcan39yv4w0j783nl2o3w8
+    followers: 7197
+    engagement: 445
+    commentsToLikes: 0.166525
+    id: ckf5s2x7qelui0j23lb0ih6cw
     verified: false
-    hashtags: "#travelgram, #beautiful, #instatravel, #wander"
-  - username: "cupofteaplusme"
+    hashtags: "#blondebabes, #lifestyleblog, #bodykindness, #positivemindset"
+  - username: "rifka.bjm"
     fullname: >-
-      Mental Health Chronic Illness
+      RIFKA 🇩🇿
     bio: >-
-      | Soph | Join me for a cup of tea & a discussion about positivity, mental health, chronic illness recovery and food allergies ☕️ 📍 Manchester, UK
+      الحمد الله ❤️ Tik tok : rifkaofficiel
     location: "United Kingdom"
-    followers: 4630
-    engagement: 1221
-    commentsToLikes: 0.155264
-    id: ck9wexa7hm9fd0j785t70qlii
+    followers: 4653585
+    engagement: 792
+    commentsToLikes: 0.007793
+    id: ck6ufvw3yzfrg0j71axo7mc4w
     verified: false
-    hashtags: "#mebeforemetookme"
-  - username: "allday.cake"
+    hashtags: "#puma, #capro"
+  - username: "eatmcr"
     fullname: >-
-      Sophie Bamford
+      EATMCR 🍜
     bio: >-
-      Manchester, UK. Making and eating cake, all day, every day. RACA young pastry chef of the year 2018.
+      Supporting food, drink and culture in Manchester. @gooeyco // @eatmcrvegan Message us for recommendations 💭
     location: "United Kingdom"
-    followers: 12146
-    engagement: 762
-    commentsToLikes: 0.019214
-    id: ck5q44xbtns2d0i115o2g6cz9
+    followers: 145325
+    engagement: 175
+    commentsToLikes: 0.057736
+    id: ck0ucbfhuggo30i19t1tkbfwi
     verified: false
-    hashtags: "#biscuitbox, #chocchipcookie, #cheesecake, #manchesterfood"
+    hashtags: "#eatmcr"
 ---

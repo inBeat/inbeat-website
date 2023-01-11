@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Germany in 2023
+title: Top 10 Lingerie Instagram Influencers In Germany In 2023
 description: >-
-  Find top lingerie Instagram influencers in Germany in 2023. Most popular hashtags: #lingerie #portrait #sensual #portraitphotography.
+  Find top lingerie Instagram influencers in Germany in 2023. Most popular hashtags: #lingerie #portrait #portraitphotography #photography.
 platform: Instagram
-hits: 211
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 211 Instagram influencers like this in Germany for you to collaborate.
+hits: 184
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 184 Instagram influencers like this in Germany for you to work with.
 profiles:
-  - username: "kissenundkarma"
+  - username: "svetlana_fedorkevich"
     fullname: >-
-      Corinna
+      Светлана Федоркевич
     bio: >-
-      a more sustainable lifestyle ♡ Gründerin von @coco_malou_ethical_lingerie #fairfashionblogger #plantbased KEINE NEUEN KOOPS 🌱 aus Stuttgart
+      • Erotic model😈 • Love latex, lingerie and high heels👠👙 • Fitness girl 💪 👇my links here👇
     location: "Germany"
-    followers: 59726
-    engagement: 624
-    commentsToLikes: 0.022889
-    id: ck5bzcdp0qv9m0i117u6ee6ag
+    followers: 32139
+    engagement: 732
+    commentsToLikes: 0.025952
+    id: ckapalc0pwkiz0i784av0n2e2
     verified: false
-    hashtags: "#fairfashion, #ecofashion, #slowfashioninspo, #secondhandootd"
+    hashtags: "#sportlife, #workout, #leatherjacket, #leatheroutfit"
   - username: "pheroticasa"
     fullname: >-
       Pheroticasa
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.063107
     id: ck5bvd0knjevc0i11y7nj4e17
     verified: false
-    hashtags: "#aktfotography, #hannovershooting, #aktportr, #pictureoftheday"
-  - username: "michaelkruegerphotography"
-    fullname: >-
-      Michael Krueger
-    bio: >-
-      ᴘᴏʀᴛʀᴀɪᴛ / ᴇᴅɪᴛᴏʀɪᴀʟ / ᴀʀᴛ 🏠 #Nagold I near #Stuttgart 🇩🇪 Lingerie/Nude -> @mkshootme_sensual Couple/Wedding-> @kathiundmichael
-    location: "Germany"
-    followers: 4987
-    engagement: 1541
-    commentsToLikes: 0.037275
-    id: ck5hlcfs6jyz60i119fteuwrh
-    verified: false
-    hashtags: "#pursuitofportraits, #ig, #portraitfestival, #bnwportrait"
+    hashtags: "#forestshooting, #asianmix, #aktportr, #inkedbabes"
   - username: "yasminxmorgan"
     fullname: >-
       Yasmin
@@ -54,77 +42,89 @@ profiles:
     commentsToLikes: 0.036060
     id: ck8t4h7bs6t2k0j78ehazs53l
     verified: false
-    hashtags: "#metalgirl, #fitinkedgirls, #girlswithpiercings, #summertime"
+    hashtags: "#bikinibabe, #summervibes, #inkstagram, #inkedmag"
   - username: "dominik_lange_photography"
     fullname: >-
       Dominik Lange Photography
     bio: >-
       👋🏻 Welcome to our portfolio, enjoy! 📷 #Portrait | #Beauty | #Lingerie | #Swimsuit 📍 Bremen 📬 DM for bookings 👫Dominik & Anika
     location: "Germany"
-    followers: 15803
-    engagement: 510
-    commentsToLikes: 0.014264
+    followers: 15429
+    engagement: 438
+    commentsToLikes: 0.017097
     id: ck5zpabuzsaj80i146zfll7gp
     verified: false
-    hashtags: "#theportraitpr0ject, #sensuality, #dynamicportraits, #lingerie"
+    hashtags: "#closeupphotography, #cleanbeauty, #editorialbeauty, #makeuplooks"
+  - username: "shesnocrush"
+    fullname: >-
+      Viktoria S.
+    bio: >-
+      taller than you ❤️‍🔥 FASHION | BEAUTY | SWIMWEAR | LINGERIE | TV currently: Munich #german
+    location: "Germany"
+    followers: 12850
+    engagement: 595
+    commentsToLikes: 0.033181
+    id: ck6tpk3e5kbed0j71m2jmuuk0
+    verified: false
+    hashtags: "#makeuplook, #hochkonzentriert, #lifeisaparty, #look"
   - username: "bignylonlove"
     fullname: >-
       Nylon Girl
     bio: >-
-      German girl 🇩🇪 🔥Nylon, Dresses, High heels, Lingerie 🔥 📨 DM/Mail for cooperation
+      📍Germany 🔥Nylon, Dresses, High heels, Lingerie 🔥 📨 DM/Mail for cooperation
     location: "Germany"
-    followers: 71000
-    engagement: 327
-    commentsToLikes: 0.037265
+    followers: 72027
+    engagement: 349
+    commentsToLikes: 0.036679
     id: ck8t63fg0c4400j78n1ucxlhr
     verified: false
     hashtags: "#touchablefridayfavourites"
-  - username: "drgrafikdealerphotografie"
+  - username: "ma_delina_"
     fullname: >-
-      Daniel Rettig (Struppi)
+      Madeline Flierler | Fitness
     bio: >-
-      Covergirl 🤫 #photography of SexyFun/Tattoo/Streetstyle/CloseUp/Lingerie/Sensual/Boudoir 🖤 📍Erfurt/ Thuringia /Germany Thanks to all my #followers 😊
+      📍 Magdeburg ♡ 🏋️‍♀️ Cheerleading | Fitness ❌ NO FAKE FOLLOWER THX 📩 for collab: anfrage@ma-delina.de 🙌
     location: "Germany"
-    followers: 7549
-    engagement: 560
-    commentsToLikes: 0.006829
-    id: ck6tjfsj12mun0j717rvmuwlp
+    followers: 6993
+    engagement: 889
+    commentsToLikes: 0.079567
+    id: ck5c3akacywxz0i11jnw6f6a9
     verified: false
-    hashtags: "#photo, #instalove, #instalike, #girl"
-  - username: "frauleinkink"
+    hashtags: "#hannovergirl, #cretegreece, #vacaymode, #lookbook"
+  - username: "celine_e46"
     fullname: >-
-      Fräulein Kink
+      CELINE PUTMAN OFFICIAL🇧🇪
     bio: >-
-      Luxury Accessories & Lingerie Handmade in Berlin
+      ✖️ 24Y #E46 owner ✖️ Founder @slammedsunday.belgium ✖️ Discount @detailed_be use “celine_e46” ❣️ @dekleinenoo ❌ Only on this IG,Fb,Snap,TikTok ❌
     location: "Germany"
-    followers: 35703
-    engagement: 130
-    commentsToLikes: 0.019761
-    id: ck5bvh5jljmvq0i11rair3hn4
+    followers: 18748
+    engagement: 830
+    commentsToLikes: 0.060012
+    id: ck0u1ugbgxzx40i19p5z7a4k7
     verified: false
-    hashtags: "#leatherharness, #luxurylifestyle, #leatherlingerie, #patentleather"
-  - username: "model_dg_"
+    hashtags: "#sedan, #streetphotography, #garage, #e36coupe"
+  - username: "sunnysworld72"
     fullname: >-
-      FASHION | BEAUTY | PORTRAIT
+      Sunny
     bio: >-
-      📸 @facesmodels_ 📍 St. Gallen | Zürich | München 💻 daniela.graf.model@gmail.com
+      ● 👶1972 ● my life-my rules ●📍cologne/🇩🇪 ● Fitness 🏋️‍♀️ ● inked 🎨 ● be the wolfe🐺 in a group of 🐑sheep ● TECHNO🎧 ● @tagesraver ● Fans PM for more
     location: "Germany"
-    followers: 17876
-    engagement: 482
-    commentsToLikes: 0.131708
-    id: ck13c1wyky7zh0i190aek2hfv
+    followers: 72473
+    engagement: 251
+    commentsToLikes: 0.091254
+    id: ck9wftp11qi030j78tbktnaq8
     verified: false
-    hashtags: "#passion, #portraiture, #shootingday, #spain"
-  - username: "tinboom.official"
+    hashtags: "#cologne, #girlpower, #streetstyleinspo, #germangirl"
+  - username: "mrs_lovelyink"
     fullname: >-
-      Christin
+      Nadine
     bio: >-
-      Welcome ❣️ 🇩🇪 from Germany 🌾 my presets & stickers are coming soon 📩 t.i.n.s@web.de 📸 daily Storys / Post 💍 wifey
+      Germany, NRW📍 Nerd🎮 🐱🐱🐶🦎 🔒❤ ✉️ Dm for Cooperations/Bookings @tm_agentur
     location: "Germany"
-    followers: 42835
-    engagement: 306
-    commentsToLikes: 0.222562
-    id: ckap6mzchgkqk0i78opb76rdq
+    followers: 26997
+    engagement: 421
+    commentsToLikes: 0.066038
+    id: ck0vzn2d79wwh0i19p4155itq
     verified: false
-    hashtags: "#style, #americanstyle, #woman, #beautygirl"
+    hashtags: "#passion, #photography, #bumday, #beautiful"
 ---

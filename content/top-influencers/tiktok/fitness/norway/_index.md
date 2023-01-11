@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Norway in 2023
+title: Top 10 Fitness TikTok Influencers In Norway In 2023
 description: >-
-  Find top fitness TikTok influencers in Norway in 2023. Most popular hashtags: #foryou #fyp #fitness #foryoupage.
+  Find top fitness TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
 platform: TikTok
-hits: 10
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 10 TikTok influencers like this in Norway for you to collaborate.
+hits: 12
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Norway for you to pitch.
 profiles:
   - username: "arielandreassen"
     fullname: >-
       Ariel Andreassen
     bio: >-
-      Hey I post workout videos, fitness and food<33 IG: arielandreassen
+      Fitness and food<33 IG: arielandreassen Famme discount: Arielandreassen-20 💛
     location: "Norway"
-    followers: 106100
-    engagement: 553
-    commentsToLikes: 0.017470
+    followers: 114400
+    engagement: 596
+    commentsToLikes: 0.015492
     id: ck8vusq9zjxl70j78t547igcq
     verified: false
-    hashtags: "#pushups, #fatloss, #glutes, #chestday"
-  - username: "yasminsliebi"
+    hashtags: "#gymtok, #stitch, #fitness, #gymgirls"
+  - username: "shinwarisal"
     fullname: >-
-      Yasmin Sliebi
+      Gymlover
     bio: >-
-      24 🌸🌙 From Syria 🇸🇾 live in Norway 🇳🇴 😦 تابعوني على الانستغرام ويوتيوب
+      ❤️🏋️❤️ Inst:@salmanprincee Dm:5k
     location: "Norway"
-    followers: 61400
-    engagement: 384
-    commentsToLikes: 0.069065
-    id: ck9gmup5hu2v10j78p5gz0inm
+    followers: 406500
+    engagement: 386
+    commentsToLikes: 0.001131
+    id: cka0g3vhd2h6c0i78rznjzhv5
     verified: false
-    hashtags: "#tiltak, #saifshawaf, #gym, #oslo"
-  - username: "koomskytter68"
+    hashtags: "#foryoupage, #gym, #youtube, #fyf"
+  - username: "h.w.n.w"
     fullname: >-
-      Jon her
+      Mulli
     bio: >-
-      ⬇️
+      Remember that someone loves you😄 not me, but someone❤ 👻Mavenxi
     location: "Norway"
-    followers: 37600
-    engagement: 938
-    commentsToLikes: 0.023410
-    id: ck8ortjjmdqp10j783g0lo0k3
+    followers: 21000
+    engagement: 693
+    commentsToLikes: 0.124165
+    id: ckce62l1pkdce0j23q9ox5rzg
     verified: false
-    hashtags: "#duet, #farlig, #veldigfarlig, #fitness"
+    hashtags: "#popsmoke, #stitch, #socialist, #duet"
+  - username: "l.a.babi"
+    fullname: >-
+      L .A. babi
+    bio: >-
+      
+    location: "Norway"
+    followers: 3757
+    engagement: 252
+    commentsToLikes: 0.079716
+    id: ckcdtiohudwdx0j23gnhbuu86
+    verified: false
+    hashtags: "#afghanitiktok, #fit, #oslo, #afgboy"
+  - username: "baby5lack"
+    fullname: >-
+      Baby Bl∆ck ☥
+    bio: >-
+      BABY BL∆CK ☥ Lightskin mixed race🇺🇸🇸🇱 20 something♐️ ⛩ 🌍Bay Area/LA📍Norway
+    location: "Norway"
+    followers: 9028
+    engagement: 435
+    commentsToLikes: 0.056862
+    id: ck9gmuop6u2px0j78n0qsr4xs
+    verified: false
+    hashtags: "#oslo, #4u, #foryoupage, #xmas"
   - username: "5unn7"
     fullname: >-
       Sunny
     bio: >-
       Unoriginal original 🤷🏼‍♀️ 23 year old Norwegian 🇳🇴🌹🏳️‍🌈
     location: "Norway"
-    followers: 4179
-    engagement: 787
-    commentsToLikes: 0.040884
+    followers: 4230
+    engagement: 752
+    commentsToLikes: 0.038996
     id: ckc921y0nsdqy0j23vnhy8twz
     verified: false
-    hashtags: "#norway, #fyp, #foryou, #lgbt"
+    hashtags: "#foryou, #foryoupage, #norway, #fyp"
   - username: "jockolife"
     fullname: >-
       Jocko
     bio: >-
-      
+      👻jockertherocker 📷jockolife
     location: "Norway"
-    followers: 12600
-    engagement: 700
-    commentsToLikes: 0.009307
+    followers: 12700
+    engagement: 713
+    commentsToLikes: 0.008746
     id: cka0xllhv7o7u0i78ropvgmc8
     verified: false
-    hashtags: "#skole, #fyp, #corona, #norsk"
+    hashtags: "#elever, #foryou, #fyp, #tiktokfriday"
   - username: "brandhaug"
     fullname: >-
       Raymond Brandhaug
     bio: >-
       IG: raymond.brandhaug 🇳🇴 Just for fuun
     location: "Norway"
-    followers: 21200
-    engagement: 368
-    commentsToLikes: 0.040635
+    followers: 21100
+    engagement: 366
+    commentsToLikes: 0.040232
     id: ckbfh5mlccf280j23b2xq2235
     verified: false
-    hashtags: "#xyzbca, #staffordshirebullterrier, #norway, #foryou"
-  - username: "humortoget_"
-    fullname: >-
-      humortoget_
-    bio: >-
-      Lager alle memes selv Følg for mer ⚜️humortoget_ på Instagram
-    location: "Norway"
-    followers: 8298
-    engagement: 493
-    commentsToLikes: 0.035907
-    id: cka7oka6e2z2i0i783me5tmrk
-    verified: false
-    hashtags: "#korona, #mittnorge, #sinna, #tiktoknorge"
-  - username: "domjumps"
-    fullname: >-
-      Dominik Cieszyński
-    bio: >-
-      I jump things for a living. Parkour. Team Exeo.
-    location: "Norway"
-    followers: 6845
-    engagement: 469
-    commentsToLikes: 0.030726
-    id: ck9eodbobnt0x0j788gmb92te
-    verified: false
-    hashtags: "#teamexeo, #almostfail, #parkour, #fyp"
-  - username: "thefunnypost"
-    fullname: >-
-      Funny post
-    bio: >-
-      Funny and fun video
-    location: "Norway"
-    followers: 3929
-    engagement: 368
-    commentsToLikes: 0.020019
-    id: ckacajartgzda0i78g73fgry2
-    verified: false
-    hashtags: "#lol, #foryou, #likes, #funny"
+    hashtags: "#xyzbca, #4u, #staffordshirebullterrier, #mountain"
   - username: "boxingmindset"
     fullname: >-
       BoxingMindset
     bio: >-
-      BOXING CLIPS AND MORE💥🥊 Thanks for 16K🙌
+      BOXING & MMA CLIPS💥🥊 IG and YouTube⬆️ Dm Me ON IG for Credit/Advertisement📩
     location: "Norway"
-    followers: 16969
-    engagement: 521
-    commentsToLikes: 0.007440
+    followers: 52000
+    engagement: 1141
+    commentsToLikes: 0.012843
     id: cka66zdt4iyyb0i785vnwxkcw
     verified: false
-    hashtags: "#boxing, #fight, #foryou, #legend"
+    hashtags: "#uppercut, #sports, #bodyshot, #boxingmindset"
+  - username: "humortoget_"
+    fullname: >-
+      humortoget_
+    bio: >-
+      Lager alle memes selv Følg for mer 📩 humortoget@outlook.com
+    location: "Norway"
+    followers: 9698
+    engagement: 476
+    commentsToLikes: 0.031958
+    id: cka7oka6e2z2i0i783me5tmrk
+    verified: false
+    hashtags: "#mittnorge, #17mai, #meme, #covid19"
 ---

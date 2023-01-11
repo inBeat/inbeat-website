@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers in 2023
+title: Top 10 Gaming Instagram Influencers In 2023
 description: >-
-  Find top gaming Instagram influencers in 2023. Most popular hashtags: #ad #switchgames #setupgoals.
+  Find top gaming Instagram influencers in 2023. Most popular hashtags: #christmas #christmastime #christmastree.
 platform: Instagram
-hits: 4320
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 4320 Instagram influencers like this for you to pitch.
+hits: 4374
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 4374 Instagram influencers like this for you to pitch.
 profiles:
   - username: "videogamesmedia"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       🌎 Uniting Gamers Around The Globe 🗓 Posting Daily Gaming Content 🎮 Gaming News, Media & More!
     location: ""
-    followers: 44682
-    engagement: 688
-    commentsToLikes: 0.021569
+    followers: 40816
+    engagement: 750
+    commentsToLikes: 0.021619
     id: ck6tlryut6j5q0j716aur4h2z
     verified: false
     hashtags: ""
@@ -25,106 +25,106 @@ profiles:
     bio: >-
       من بوظبي و العين🇦🇪 From #ABUDHABI The Capital of United Arab Emirates✨,Animal Lover🐙🐯🐊 ,#Gaming 🎮, #Taurus is My Sign♉️
     location: "United States"
-    followers: 7882
-    engagement: 1467
-    commentsToLikes: 0.032468
+    followers: 8183
+    engagement: 2563
+    commentsToLikes: 0.031465
     id: ckap8424gmqnb0i78t8oje54g
     verified: false
     hashtags: "#gaming"
-  - username: "daizerpt"
+  - username: "israel_bidur"
     fullname: >-
-      Daizer / Diogo Francisco
+      𝗜𝗦𝗥𝗔𝗘𝗟 𝗕𝗜𝗗𝗨𝗥 ★ ישראל בידור
     bio: >-
-      Criador de conteúdos de Gaming e Futebol Negócios: Daizerpt@hotmail.com Twitter: DaizerPT
-    location: "Brazil"
-    followers: 68929
-    engagement: 947
-    commentsToLikes: 0.050875
-    id: ck5c7sb5m83hh0i11ih49s60m
+      @israel_bidur 😍 @israel.bishul 🧑‍🍳 @israel_bidur_gaming 🕹 @push.il 📺
+    location: ""
+    followers: 1377774
+    engagement: 547
+    commentsToLikes: 0.037169
+    id: ck0ubxlihfig80i19h3d4kzhe
     verified: false
-    hashtags: "#noroomforracism, #blacklivesmatter, #playstationfcfinal, #lioncereais"
-  - username: "cafajesteh"
+    hashtags: ""
+  - username: "dielenka"
     fullname: >-
-      Carlos Andrade
+      LENKA 🇸🇰🇦🇹 | Software Engineer
     bio: >-
-      👨🏻 CAFA Youtuber/Streamer #2M 📩 cafa@redbutton.com.br 🎮 Gaming 📸 Influencer 👨🏽‍🎨thumbmaker: @lipan_designer
-    location: "Brazil"
-    followers: 220867
-    engagement: 812
-    commentsToLikes: 0.264545
-    id: ck9wfrb61q6eg0j78x7q5in5w
+      ✨I write code and love tech Collab: dielenka@gmail.com @travelwithageek ✈️ F1 🏎️ Gaming 👾 Gym 🏋️‍♀️ 🎓 PhD. student 👩🏻‍🔬 Working in cybersec 🔐
+    location: "United States"
+    followers: 99416
+    engagement: 216
+    commentsToLikes: 0.033877
+    id: ck8t1rehjwqid0j78v901qvua
     verified: false
-    hashtags: "#ff, #garenafreefire, #freefire, #cafa"
+    hashtags: "#codinglife, #programmerlife, #fitness, #programmerslife"
+  - username: "cherbarnacha"
+    fullname: >-
+      Cherizawa
+    bio: >-
+      📩 inquiries@cherizawa.com 🎮 FB Gaming: cherizawa 🐥 Twitter: cherbarnacha
+    location: "Philippines"
+    followers: 545342
+    engagement: 192
+    commentsToLikes: 0.010890
+    id: ckap1wu9fwf3p0i78wnkf9kd7
+    verified: false
+    hashtags: "#infinixnote12pro5g, #5gsmoothgameplay, #pubgmobile, #noonatngayonwifistories"
+  - username: "qqchana"
+    fullname: >-
+      Chana Chiang QQ阿醬
+    bio: >-
+      𝐋𝐞𝐚𝐫𝐧 𝐟𝐫𝐨𝐦 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐰𝐢𝐭𝐡 𝐧𝐨𝐭𝐡𝐢𝐧𝐠 ©本人 Photography 攝影號➜ @chanachiang 𝙲𝙷🇹🇼｜𝙴𝙽🇺🇸｜𝙴𝚂🇵🇪 模特x攝影師x電玩宅x旅遊控 #travel #gaming #food
+    location: "United States"
+    followers: 32564
+    engagement: 192
+    commentsToLikes: 0.036219
+    id: ck0ty4j7mllio0i19hf3shu4m
+    verified: false
+    hashtags: "#fifa22, #fifa, #bikinimodel, #merrychristmas"
+  - username: "prpitaloka"
+    fullname: >-
+      プリンセスピタルカ
+    bio: >-
+      your curious bae🧚🏻 🎀Gaming-Cosplay-Travel-Beauty🎀 Business Inq ✉ Dm/wa:+62 896-9241-7449 (Kai) 2nd acc @heypitaloka @croffleloka_
+    location: "France"
+    followers: 246291
+    engagement: 115
+    commentsToLikes: 0.010188
+    id: ckapbczcizgif0i786hm9v3jk
+    verified: false
+    hashtags: "#nikkeid, #toweroffantasy, #kobenicosplay, #freefire"
+  - username: "lucyflight"
+    fullname: >-
+      Lucy Flight
+    bio: >-
+      makeup, fashion, food, fitness, gaming ⚡️ paul@optimustalent.co.uk 📧 A FESTIVE VLOG🎄👇🏼
+    location: "United Kingdom"
+    followers: 141895
+    engagement: 99
+    commentsToLikes: 0.031390
+    id: ck13bwbngxg700i19uws2yq7w
+    verified: false
+    hashtags: "#smilemovie, #teslamodely, #teslamotors, #ad"
+  - username: "myrtlegail"
+    fullname: >-
+      Myrtle Sarrosa
+    bio: >-
+      🇵🇭 Actress. Otaku. Cosplayer. Gamer. 🎮 Playing Games & NFT on FB 3.7M Followers 📩 contact.myrtle@gmail.com 🎥 GMA Network 🏆 Tiktok Awardee for Gaming
+    location: ""
+    followers: 1017734
+    engagement: 70
+    commentsToLikes: 0.016715
+    id: ck136bmo45oto0i196tr4r7jr
+    verified: true
+    hashtags: "#lgultragear, #codmtayo, #togetherwefight, #codmmunity"
   - username: "carolzinhasg.pb"
     fullname: >-
       CarolzinhaSG
     bio: >-
-      🖱 Streamer do Facebook Gaming 🎙 Apresentadora de TV e Eventos 📽 Youtuber | Influencer 💌 contato@carolzinhasg.com
+      🖱 Streamer do Facebook Gaming 🎙 Apresentadora Gamer (TV e Eventos) 📽 Youtuber | Influencer ♥️ Mãe da @yaya.sg
     location: "Brazil"
-    followers: 467131
-    engagement: 805
-    commentsToLikes: 0.069192
+    followers: 470329
+    engagement: 782
+    commentsToLikes: 0.010996
     id: ck13afukpq7300i19p46h9elj
     verified: false
-    hashtags: "#bgsday, #cbcs, #blackouttuesday, #oldspicegamearena2"
-  - username: "mery_soldier"
-    fullname: >-
-      Maria Soldado
-    bio: >-
-      Puedes encontrarme a diario haciendo streams en @twitch 🎮💜 Embajadora de @newskill_es 💙 Hago entrevistas para @redbullesp gaming MixTape 😈
-    location: "Spain"
-    followers: 69285
-    engagement: 1355
-    commentsToLikes: 0.055721
-    id: ck6ugqjkd4kjx0j71o3op38dd
-    verified: false
-    hashtags: "#lpp, #sorteo, #leagueoflegends, #giveaway"
-  - username: "kygozztv"
-    fullname: >-
-      𝖘𝖎𝖒𝖔𝖓𝖊🐉
-    bio: >-
-      ☾ 𝙲𝙾𝙳𝙴 𝙺𝚈𝙶𝙾𝚉𝚉 @macheteprod @machete.gaming ➪𝚝𝚠𝚒𝚝𝚌𝚑 - 𝚢𝚘𝚞𝚝𝚞𝚋𝚎: 𝙺𝚢𝙶𝚘𝚉𝚣 f͎o͎r͎ s͎p͎o͎n͎s͎o͎r͎ d͎m͎ o͎r͎ e͎m͎a͎i͎l͎
-    location: "Netherlands"
-    followers: 61068
-    engagement: 962
-    commentsToLikes: 0.170754
-    id: ck6u3l80ayfcz0j71p12jsnln
-    verified: false
-    hashtags: "#huaweimobile, #adv, #huaweiappgallery, #huawei"
-  - username: "purple.gaming"
-    fullname: >-
-      
-    bio: >-
-      Gaming Account of @purple.lena Student 🎓 / Germany 🇩🇪 💌purple.gaming@protonmail.com 🎶TikTok: purple.gaming
-    location: "Germany"
-    followers: 51148
-    engagement: 574
-    commentsToLikes: 0.051170
-    id: ck8td9nnc2gsg0j78dojzabgy
-    verified: false
-    hashtags: "#zockergirl, #nerdstuff, #zockerin, #retrogaming"
-  - username: "donlou_life"
-    fullname: >-
-      Streetstyle💯Sneakershead💯Food
-    bio: >-
-      Make #pictures, make #fun A good life 😉 born🇵🇹📍 🇩🇪 DM or Email 4 Collaboration 📨 FOLLOW ME ON TWITCH👇 #fashion 💯 #sneaker 👟 #gaming 🎮 #fitness 🏋
-    location: "Germany"
-    followers: 5806
-    engagement: 1280
-    commentsToLikes: 0.096137
-    id: ck8tbs4ilwwx00j78ngjl8do6
-    verified: false
-    hashtags: "#nike, #styleoftheday, #fashiondaily, #ootdfashion"
-  - username: "brunoplayhard"
-    fullname: >-
-      Bruno PH
-    bio: >-
-      🗺 SP 🕹 Gaming 🏙 Trips 🧔🏻 Life. 📊 CEO @loudgg 🏆 Forbes Under 30
-    location: "Brazil"
-    followers: 5883216
-    engagement: 545
-    commentsToLikes: 0.069552
-    id: ck0w4ukvx0he50i19kr24levd
-    verified: true
-    hashtags: "#chegadearrependidos, #fam, #theboys"
+    hashtags: "#publi, #emguerracomovovo, #oifibramudatudo, #hbomax"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In San Francisco in 2023
+title: Top 10 Cosmetics Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top cosmetics Instagram influencers in San Francisco in 2023. Most popular hashtags: #ootd #travel #skincare #healthyskin.
+  Find top cosmetics Instagram influencers in San Francisco in 2023. Most popular hashtags: #lashes #ootd #lash #eyelashextensions.
 platform: Instagram
 hits: 9
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 9 Instagram influencers like this in San Francisco, United States for you to connect with.
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
+  - username: "jennyclise_"
+    fullname: >-
+      Jenny Clise (She, Her)
+    bio: >-
+      New York based Yoga Teacher #blockasanas Check out my E-book @blockasanas 👇🏼 E-BOOK 📖 & RETREAT 🏝 🤸🏼‍♀️
+    location: "United States"
+    followers: 37568
+    engagement: 300
+    commentsToLikes: 0.069037
+    id: ck5cbx4o0gbr70i11zexbfmd0
+    verified: false
+    hashtags: "#backbend, #yogalove, #alobackbendlovers, #yoga"
   - username: "sarahjeangirl"
     fullname: >-
       Sarahjeangirl
     bio: >-
-      💄Beauty blogger from San Francisco! 💌 email for collab requests 💖 check out my codes to save $$$!
+      💄Beauty blogger from San Francisco 💌 email me for PR requests 💖 check out my codes to save $$$!
     location: "United States"
-    followers: 17847
-    engagement: 330
-    commentsToLikes: 0.264661
+    followers: 17761
+    engagement: 196
+    commentsToLikes: 0.390241
     id: ck13c6zd4yww10i19grm8jaba
     verified: false
-    hashtags: "#gifted, #greenfriday, #purcosmetics, #pinkwednesdaywithtania"
-  - username: "shanberries"
+    hashtags: "#gifted, #giftedbyipsy, #octolyfamily, #estatemakeup"
+  - username: "francesvc_"
     fullname: >-
-      Shan Berries
+      Frances CasLla
     bio: >-
-      Founder & CEO @shadesbyshan @mamaberriesfoundation⠀ ⠀ On Air Personality & CAL HI SPORTS TV Host 🌉San Francisco Native 💌 info@shanberries.com
+      • 📍Bay Area • BSN Student + MAMA to be + 💍 @rllanda • Fashion + Lifestyle Content Creator • ⬇️ Kolorete Cosmetics
     location: "United States"
-    followers: 26435
-    engagement: 457
-    commentsToLikes: 0.065386
-    id: ck55n2ywl5d1i0i11jie0du71
-    verified: true
-    hashtags: "#preggo, #momblogger, #firstbaby, #pregnancydiary"
-  - username: "dr_kavi_derm"
-    fullname: >-
-      Dr. Kaveri Karhade • MD • FAAD
-    bio: >-
-      •DOCTOR• 💓Bay Area’s board-certified dermatologist 💉Specializing in laser, cosmetic, and medical skincare 👇🏼Appts, product recs, terms of use
-    location: "United States"
-    followers: 10980
-    engagement: 553
-    commentsToLikes: 0.106244
-    id: ck8t2q4yk0bpr0j78cgjgf3p3
+    followers: 10424
+    engagement: 237
+    commentsToLikes: 0.326920
+    id: ck8t5d63v9pu50j780bc8hcv4
     verified: false
-    hashtags: "#neutrogenasuncare, #neutrogenapartner, #glowup, #skincare"
-  - username: "anna.sauce"
-    fullname: >-
-      🌸 Anna Nguyen 🌸
-    bio: >-
-      Join me on my journey 🧳 Travel 🍤 Food 🧘🏻‍♀️ Self Discovery 📧 For serious inquiries: annanguyeny@gmail.com
-    location: "United States"
-    followers: 12001
-    engagement: 1398
-    commentsToLikes: 0.023549
-    id: ck14h4yi28jx30i19oye3rns2
-    verified: false
-    hashtags: "#asiangirl, #traveler, #vacation, #california"
+    hashtags: "#expresspartner, #highheels, #marriagegoals, #redbottoms"
   - username: "lashedbylynelle"
     fullname: >-
-      TRAINER | 3x LASH ARTIST
+      LASH EDUCATOR | 5x LASH ARTIST
     bio: >-
-      @lynellemuuuhrie OCTOBER BOOKED! 🔜 esthetician 📍bay area - daly city, ca ↓ APPTS | TRAINING | LASH TRAYS ↓
+      @lynellemuuuhrie 🔜 esthetician 📍bay area - daly city, ca ↓ APPTS | TRAINING | LASH TRAYS | BECOME A BRAND AMBASSADOR✨ ↓
     location: "United States"
-    followers: 20535
-    engagement: 530
-    commentsToLikes: 0.262846
+    followers: 24031
+    engagement: 266
+    commentsToLikes: 0.066079
     id: ckaoyevsph8760i78gjdgwmp2
     verified: false
-    hashtags: "#lynelleslashes, #lashboxla, #lashedbylynelle, #sflashes"
-  - username: "abby_villaruel"
+    hashtags: ""
+  - username: "carol_kaledzera"
     fullname: >-
-      Abby Villaruel
+      Carol Kaledzera🇲🇼
     bio: >-
-      Creator @SireneLaVie @ABYVcosmetics 📸#FHM Covergirl 👩🏻‍⚕️💉Board Certified Master Injector & Director of Aesthetics BEclinical 🌍Angel Rising Magazine
+      Malawian 🇲🇼 Sacramento🌴 Makeup Artist💄🎨| self-taught MUA| for inquiries DM or 📩📩 carolkaledzera58@yahoo.com CEO of @vitaalicelashes
     location: "United States"
-    followers: 166788
-    engagement: 422
-    commentsToLikes: 0.009036
-    id: ckaow1ouq70y10i78qlx5qr78
+    followers: 20852
+    engagement: 275
+    commentsToLikes: 0.124257
+    id: ck13a5aspopcw0i19vipvzx2s
     verified: false
-    hashtags: "#theminimalists, #healthymakeup, #womensupportingwomen, #instaswim"
-  - username: "melu103"
+    hashtags: "#sacramentomodel, #sacramentoartist, #makeupartistsworldwide, #stocktonmakeupartist"
+  - username: "sorinabrumariu"
     fullname: >-
-      𝘔𝘦𝘭𝘪𝘯𝘢 ❥
+      Sorina
     bio: >-
-      📍❘ 𝙻𝚘𝚜 𝙰𝚗𝚐𝚎𝚕𝚎𝚜⁣ 🌎❘ 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊 🇦🇷⁣ 📧❘ @foreverfitnessla DM for rates ⁣ 💻❘ Social Media Content Creator
+      Makeup Artist, Beautician , Beauty Blogger Co-owner @myplace.salon sorina.brumariu@yahoo.com
     location: "United States"
-    followers: 9772
-    engagement: 546
-    commentsToLikes: 0.164962
-    id: ck6ua4ehe1f2h0j719d0ie3wx
+    followers: 45719
+    engagement: 512
+    commentsToLikes: 0.007984
+    id: ck6ty13np12cy0j71rue1n0ak
     verified: false
-    hashtags: "#beauty, #skincare, #fashionnova, #instafashion"
-  - username: "j2woo"
+    hashtags: "#ceraveromania, #paidprojectbycerave, #cleanselikeaderm, #skinchat"
+  - username: "itslitliz420"
     fullname: >-
-      간종우
+      Lit Liz 🦋🦋
     bio: >-
-      🎙 K-pop Singer & Lyricist 🦦 Sr. Web Designer @esteelauder 📸 Instahusband and Traveler 📧 J2woo.ny@gmail.com
+      Your favorite stoner makeup girl💄🌱💨 Bay Area, California 🌉 Tyler ❤️💍 10/08/11🥰 Email/DM for collaboration inquiries Check out my links for more✨🦋
     location: "United States"
-    followers: 44394
-    engagement: 239
-    commentsToLikes: 0.039571
-    id: ck15tyx8bkl8p0i198hpearqj
+    followers: 13771
+    engagement: 330
+    commentsToLikes: 0.059288
+    id: ck6ugysgh5z770j71pw2ugst7
     verified: false
-    hashtags: "#photography, #mood, #quarantine, #newyorkcity"
-  - username: "schaebreezy_"
+    hashtags: "#makeupartist, #cbdwellness, #smallbusiness, #420"
+  - username: "anisamakhoul"
     fullname: >-
-      Schae B
+      Anisa Makhoul
     bio: >-
-      Social Media Content Manager @mayvennhair All things beauty | Getting dressed up 🤍 💄📩: grahamschae@gmail.com 📍SF
+      Author, Activist, Waffle Weave Enthusiast anisamakhoul@gmail.com 🇺🇸🇱🇧Portland, OR 🧿
     location: "United States"
-    followers: 2505
-    engagement: 1334
-    commentsToLikes: 0.133986
-    id: ck5pyl6xywjwv0i119cdpnaou
+    followers: 46984
+    engagement: 155
+    commentsToLikes: 0.013927
+    id: ck6u12j4tj6hs0j71tjcq4f78
     verified: false
-    hashtags: "#makeuptutorial, #makeup, #swipeleft, #lipgloss"
-  - username: "jenndancing"
+    hashtags: "#foodillustration, #sketchbook, #handprinted, #travelillustration"
+  - username: "my_lashing"
     fullname: >-
-      Jenn Dancer
+      For lashmakers
     bio: >-
-      Business owner: Qtown Fitness Non For Profit: Dancer Love Foundation 🧡 Jesus Lover Wife to @samdancing Codes 💧Sweat Cosmetics:JENN
+      Best group for lash artists💥 Everything for eyelash extensions we buy here 👇🏼
     location: "United States"
-    followers: 54142
-    engagement: 380
-    commentsToLikes: 0.063374
-    id: ck5q3rcskm2oy0i11hh9xh5kk
+    followers: 112021
+    engagement: 59
+    commentsToLikes: 0.012046
+    id: ck9we1egwi5bx0j78pf4wx53h
     verified: false
-    hashtags: "#fundraiser, #babystar, #qtownfitness, #birthfit"
+    hashtags: "#lashstylist, #volumelashes, #lashtrainer, #lashtech"
+  - username: "selam_romantesfaye"
+    fullname: >-
+      𝐬𝐞𝐥𝐚𝐦 𝐭𝐞𝐬𝐟𝐚𝐲𝐞
+    bio: >-
+      🦋 @st__cosmeticss loading… Ethiopian 🇪🇹
+    location: "United States"
+    followers: 879120
+    engagement: 256
+    commentsToLikes: 0.011436
+    id: ck5zqcj7uucu80i14zmaxwnmr
+    verified: false
+    hashtags: "#earlybirthdaydress"
 ---

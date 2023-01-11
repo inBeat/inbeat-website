@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Spain in 2023
+title: Top 10 Gardening Instagram Influencers In Spain In 2023
 description: >-
-  Find top gardening Instagram influencers in Spain in 2023. Most popular hashtags: #nature #gardening #love #plants.
+  Find top gardening Instagram influencers in Spain in 2023. Most popular hashtags: #gardeninspiration #gardendesign #plantlover #nature.
 platform: Instagram
-hits: 10
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 10 Instagram influencers like this in Spain for you to collaborate.
+hits: 8
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 8 Instagram influencers like this in Spain for you to connect with.
 profiles:
   - username: "a.casas.r"
     fullname: >-
@@ -18,113 +18,89 @@ profiles:
     commentsToLikes: 0.033532
     id: ckaos9zowqs6j0i78ks6irly8
     verified: false
-    hashtags: "#houseplantclub, #plantlife, #nature, #art"
-  - username: "maritorreblanca"
+    hashtags: "#houseplantsofinstagram, #urbanjungle, #houseplantclub, #plant"
+  - username: "dannyprague"
     fullname: >-
-      Marina Torreblanca
+      Danny
     bio: >-
-      Creadora de contenidos 🧶 ✨Sabiendo poco, puedes hacer mucho! Ingresa a mi blog! encontrarás tutoriales, patrones y tejido para principiantes
+      Life begins after 40, continues after 45 🤣 LIFE | LOVE | LIVE dogs - English pointer & Labrador 🇨🇿 & 🇪🇺 Living in Prague - Traveling the World
     location: "Spain"
-    followers: 53639
-    engagement: 173
-    commentsToLikes: 0.048129
-    id: ck135vke53g220i190at52ynu
+    followers: 14722
+    engagement: 728
+    commentsToLikes: 0.021691
+    id: ckf5s6ukrew3a0j233oe6f8un
     verified: false
-    hashtags: "#knittersgonnaknit, #knitknitknit, #knittingaddict, #knitspiration"
-  - username: "isanlozano"
+    hashtags: "#lycramen, #gaymodel, #menfashionblogger, #thebeardedway"
+  - username: "atipicassuculentas"
     fullname: >-
-      I. Sanchez-lozano
+      Atípicas Suculentas
     bio: >-
-      Fashion, Beauty&Lifestyle. Strategic Consultant, expert in CEX & Digital Transformation.Style consultant ✉️ isanlozano@gmail.com
+      💚Cuidados y reproducción de suculentas. 🌐Asturias, España. ⠀⠀⠀⠀⠀⠀⠀⠀⠀
     location: "Spain"
-    followers: 14121
-    engagement: 536
-    commentsToLikes: 0.203566
-    id: ck5zuzlsw3bk50i14z4zenc6p
+    followers: 49004
+    engagement: 182
+    commentsToLikes: 0.080873
+    id: ckap5ekftbbbz0i78ckoygixm
     verified: false
-    hashtags: "#slowfashion, #fashion, #style, #diorortegaygasset"
-  - username: "soulinprocess"
-    fullname: >-
-      Soul In Process 🕊💜
-    bio: >-
-      🙋🏻‍♀️ ~Nancy~ My 📸 ©️ ▫️ ✝️ #love above all ▫️ ☮️ 🙏🏼 🐶🌳🌸 🏔 ♈️ ✈️ 📖🧘‍♀️🥾 🚴‍♀️
-    location: "Spain"
-    followers: 4152
-    engagement: 2392
-    commentsToLikes: 0.142518
-    id: ck0vviqxjpbo00i19unjomp6g
-    verified: false
-    hashtags: "#moodygrams, #monta, #turismoargentina, #faith"
-  - username: "daniel.zrom"
-    fullname: >-
-      Daniel Zrom
-    bio: >-
-      Fantasy artist & illustrator danielzrom@hotmail.com
-    location: "Spain"
-    followers: 16898
-    engagement: 1254
-    commentsToLikes: 0.023900
-    id: ck9wfoiiwps170j78qgpd7cog
-    verified: false
-    hashtags: "#tabletopgames, #arte, #digitalart, #oilpainting"
-  - username: "micaelbindefeld"
-    fullname: >-
-      Micael Bindefeld
-    bio: >-
-      For business inquires patrik@digidigimedia.com
-    location: "Spain"
-    followers: 84311
-    engagement: 234
-    commentsToLikes: 0.034547
-    id: ck138ehhwfuh70i19liahj213
-    verified: true
-    hashtags: "#nordiskakompaniet, #aspvik, #sj, #nkgalan"
-  - username: "paula_silvagni_interiors"
-    fullname: >-
-      P A U L A   S I L V A G N I
-    bio: >-
-      H O M E • I n t e r i o r s 🌵 📍 Seville, | S P A I N | . Una casa llena de luz, colores suaves y con un #estilo muy mío. ✨ . Proyectos: ➡️📩 e-Shop:👇🏼
-    location: "Spain"
-    followers: 126197
-    engagement: 293
-    commentsToLikes: 0.072001
-    id: ck0u1fvkcwq0p0i199ao2lrm6
-    verified: false
-    hashtags: "#decoracioninteriores, #nurseryroom, #salones, #livingroomdesign"
-  - username: "motherofcrasas"
-    fullname: >-
-      Ente•◡•botánico®
-    bio: >-
-      ☞η αт ï Fotógrafa infinita ∞ ↳Galicia-Spain ↳Mi jardin🌵
-    location: "Spain"
-    followers: 94034
-    engagement: 141
-    commentsToLikes: 0.023859
-    id: ck0vw6po9sctv0i1990q6lgxt
-    verified: false
-    hashtags: "#patio, #cactus, #jardin, #botanicalpickmeup"
+    hashtags: "#plantasdeinterior, #propagation, #cactus, #succulove"
   - username: "bonsaicuidados"
     fullname: >-
       bonsaicuidados
     bio: >-
       El bonsái no es tan difícil, descubre más 👇
     location: "Spain"
-    followers: 10298
-    engagement: 437
-    commentsToLikes: 0.008833
+    followers: 10235
+    engagement: 413
+    commentsToLikes: 0.008231
     id: ckf5vhomron6y0j23jh9pdoro
     verified: false
-    hashtags: "#homedecorideas, #oto, #bonsaicare, #gardensbythebay"
-  - username: "sergio_terrible"
+    hashtags: "#bonsaistyle, #brazilbonsai, #treestand, #bonsaibrasil"
+  - username: "amparo_lasnubes"
     fullname: >-
-      Sergio
+      amparo_lasnubes
     bio: >-
-      ✨Only beauty can save us✨ All photos 📷 are mine 👓 Art🖼& Architecture🏛& Cats🐱 Spanish 🇪🇸 in Paris 🇫🇷 #Toiturophile 🌇
+      Deco▪️kids ▪️ LifeStyle Mamá de Isidro👦🏼 y Thor🐶 Maestra de 24 Sevilla 🌍 Spain Visita mi @picker.me ⬇️
     location: "Spain"
-    followers: 2473
-    engagement: 945
-    commentsToLikes: 0.039841
-    id: ckap75vvoir930i78htedg979
+    followers: 80183
+    engagement: 159
+    commentsToLikes: 0.021297
+    id: ck5ca5qm6cqxi0i11pq74rxlc
     verified: false
-    hashtags: "#paris, #ihavethisthingwithdoors, #cat, #doorsofinstagram"
+    hashtags: "#decommunity, #homewithrue, #piscinas, #livinginspiring"
+  - username: "kiaritahome"
+    fullname: >-
+      Kiara
+    bio: >-
+      MY HOME 🏡 DECO 🌺 MATERNITY🍼 🌸Decoración romántica🌸 🍼Mamá de Daniel 💖Inmensamente feliz💖 🌴Islas Canarias 🌴 ⬇️Recomendaciones deco⬇️
+    location: "Spain"
+    followers: 41672
+    engagement: 186
+    commentsToLikes: 0.092955
+    id: ck5pvp6hwiyxd0i11e31vgn3o
+    verified: false
+    hashtags: "#romanticdecor, #compartemiestilowestwing, #whitedecor, #casasreales"
+  - username: "motherofcrasas"
+    fullname: >-
+      Ente•◡•botánico®
+    bio: >-
+      - ☞η αт ï Fotógrafa botánica ⋒ ↳Galicia-Spain ⋒
+    location: "Spain"
+    followers: 93646
+    engagement: 168
+    commentsToLikes: 0.025259
+    id: ck0vw6po9sctv0i1990q6lgxt
+    verified: false
+    hashtags: "#urbanjunglebloggers, #gardeninspiration, #terracota, #terrazas"
+  - username: "karen_around_the_world"
+    fullname: >-
+      Karen Baumgarte
+    bio: >-
+      Pharmacist. Left my heart in NYC and love to travel. 40% discount code: KAREN40 @ewelyniofficial
+    location: "Spain"
+    followers: 9610
+    engagement: 650
+    commentsToLikes: 0.119551
+    id: ck9hc6loqjzk20j78uorm8fbe
+    verified: false
+    hashtags: "#greece, #holidaymood, #labellevue, #travelpic"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Birmingham in 2023
+title: Top 10 Food Instagram Influencers In Birmingham In 2023
 description: >-
-  Find top food Instagram influencers in Birmingham in 2023. Most popular hashtags: #foodie #fashion #foodblogger #birmingham.
+  Find top food Instagram influencers in Birmingham in 2023. Most popular hashtags: #vegan #food #birmingham.
 platform: Instagram
-hits: 29
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat has 29 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
+hits: 26
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 26 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
 profiles:
-  - username: "samiya.styles"
-    fullname: >-
-      • S A M I Y A •
-    bio: >-
-      FASHION 👜• BEAUTY 💄• FOOD 🍔 📍BIRMINGHAM PR & Collabs 💌 samiya.styles@hotmail.com A walk in my wardrobe ❤️ tiktok samiyastyles
-    location: "United Kingdom"
-    followers: 20945
-    engagement: 808
-    commentsToLikes: 0.121615
-    id: ck6u2tdzmttul0j71ee09xysh
-    verified: false
-    hashtags: "#pakistanidresses, #desiblogger, #pakistanistreetstyle, #muslimahchamber"
-  - username: "sw_meganbl"
+  - username: "healthymeganbl"
     fullname: >-
       𝐌𝐄𝐆𝐀𝐍 🕊
     bio: >-
-      📍Birmingham 🍑 Food, Fashion and Lifestyle ⚡️ Sausage dog mama @mabelthedachshund_ 💌 meganlowe2@googlemail.com 🎥 Youtube: Megan Lowe
+      📍birmingham ☁️ food fashion life home ⚡️ sausage dog mama @mabelthedachshund_ 🏡 @_megsmaison 💌 meganlowe2@googlemail.com 🎥 Tiktok: meganbl (30k)
     location: "United Kingdom"
-    followers: 29434
-    engagement: 296
-    commentsToLikes: 0.040312
+    followers: 31208
+    engagement: 354
+    commentsToLikes: 0.024289
     id: ck13c6znnywyh0i19hsly6i75
     verified: false
-    hashtags: "#youtuber, #foodie, #dinnertime, #vlogger"
-  - username: "idz_athletics"
+    hashtags: "#pupupcafe, #zarabag, #zara, #zarawoman"
+  - username: "omega.eats"
     fullname: >-
-      
+      Omar
     bio: >-
-      💉 Year 5 - Student Doctor - UEA 🍏 Level 4 - Nutritionist 🏋🏽‍♂️ Level 3 - PT 📖 MRes - Masters in Nutritional Research DM - for PT sessions / Diet plans
+      Me, myself & food 🥘 Living my life like it’s golden🌟 Honest thoughts and reviews 🧐 Recipes & inspiration💡 Food porn 💦 Birmingham ➡️ London 🌍 Blog 💻👇🏾
     location: "United Kingdom"
-    followers: 5586
-    engagement: 982
-    commentsToLikes: 0.010116
-    id: ck9ha9ia7boet0j78v0fkqzs9
+    followers: 6951
+    engagement: 182
+    commentsToLikes: 0.081826
+    id: ckaoqnw6ojjsr0i78v1trija3
     verified: false
-    hashtags: "#tricep, #circuittraining, #nofilter, #summer"
-  - username: "nqtaeats"
+    hashtags: ""
+  - username: "vegangirlboss"
     fullname: >-
-      NQTA 🍒 | London Food Blogger
+      Adina / vegan influencer
     bio: >-
-      🍝 step by step recipes 📝 food reviews 🔹 dm for collabs 📍 london
+      ambitious vegan gal looking to change the world one meal at a time ✌🏼 made in Kazakhstan! >> vegan food and lifestyle 📍 Birmingham, UK
     location: "United Kingdom"
-    followers: 3061
-    engagement: 1122
-    commentsToLikes: 0.229674
-    id: ck5c5h9hi3h140i11vwsjo7uw
+    followers: 18572
+    engagement: 428
+    commentsToLikes: 0.331851
+    id: ck55jt4dyxorw0i11bzuauype
     verified: false
-    hashtags: "#pizzaunion, #foodphotography, #foodtruck, #londonfoodguide"
-  - username: "liliana__anaya"
+    hashtags: "#veganrecipe, #mallowworld, #veganfood, #veganuk"
+  - username: "lippers01"
     fullname: >-
-      LILIANA⚡️
+      𝐑𝐨𝐬𝐢𝐞 𝐋𝐢𝐩𝐩𝐦𝐚𝐧𝐧 🇬🇧
     bio: >-
-      📍Birmingham, U.K
+      Qualified PT 🥊 🏋🏼‍♀️ #HITCHIN (Herts) JOEY 👦🏼💙 My kitten - @cat_binx01 DM/ 📧 for collaboration (Discount in HL’s)
     location: "United Kingdom"
-    followers: 4925
-    engagement: 917
-    commentsToLikes: 0.242183
-    id: ckap6rfcph4400i78kanuxqvp
+    followers: 15916
+    engagement: 605
+    commentsToLikes: 0.430240
+    id: ck6tlsytd6l160j71fswhqfjb
     verified: false
-    hashtags: "#cgmethod, #motd, #zarawomen, #makeup"
+    hashtags: "#spa, #fashionista, #mumsthatlift, #healthylifestyle"
+  - username: "shutkeverofficial"
+    fullname: >-
+      Leah Shutkever | PRO. EATER
+    bio: >-
+      ⭐ 21x Official World Records 🇬🇧 UK#1 Female Competitive Eater 🥨 The REAL GirlVFood 📺 #C4 'Battle of the Super Eaters' 📍 #birmingham | #london
+    location: "United Kingdom"
+    followers: 111941
+    engagement: 577
+    commentsToLikes: 0.035382
+    id: ck55izwbrvwk90i11fj6a53xz
+    verified: false
+    hashtags: "#festivemenu, #thanksgiving, #steaknight, #tomahawksteak"
+  - username: "jasellejanee"
+    fullname: >-
+      Jaselle🧚🏽‍♀️
+    bio: >-
+      UAB alumna | Activist | Birmingham Safety Task Force Member | Model | #blacklivesmatter Food page: @foodbyjassss
+    location: "United Kingdom"
+    followers: 6904
+    engagement: 897
+    commentsToLikes: 0.057243
+    id: ck5zkfkoxje1f0i147ekts6dj
+    verified: false
+    hashtags: "#letsshoot, #fashionmodel, #elitemodel, #glossier"
   - username: "avegansplate"
     fullname: >-
       imi 🧜🏻‍♀️
     bio: >-
       she/her🥑🥨🍰🍓🍒🍌🥖🥯🌽🥕🍫 literally just pics of what i eat 🍰 DM/ email speaktoimi@gmail.com ——-> Manchester/ Birmingham 📌
     location: "United Kingdom"
-    followers: 3255
-    engagement: 2052
-    commentsToLikes: 0.174642
+    followers: 3757
+    engagement: 1680
+    commentsToLikes: 0.223367
     id: ckap4188b5e940i78oheqvfuv
     verified: false
-    hashtags: "#eatouttohelpout, #vegancurrywednesday, #veganinstaclub"
-  - username: "gr.eat.food"
+    hashtags: "#veganchristmascreation, #kfcveganburger, #ad, #calculations"
+  - username: "marko_bakes"
     fullname: >-
-      Graham l GR. Eat. Food
+      Marko Josipović
     bio: >-
-      🍔 : Love food, probably a little too much 📸 : All pictures taken by me 🌍 : Weymouth, Dorset Personal Instagram: @graham_rowee
+      🍪Bakery & Patisserie student 🍪Foodie 🍪Donut enthusiast 🍪Birmingham, 21 🍪mail: markoj3233@gmail.com 🍪private: @marko_avokado
     location: "United Kingdom"
-    followers: 14002
-    engagement: 775
-    commentsToLikes: 0.072929
-    id: ck6u6cwsrev1y0j71f1wt8cwa
+    followers: 7959
+    engagement: 749
+    commentsToLikes: 0.046357
+    id: ck8t3zfwt51kh0j78elyk0fe6
     verified: false
-    hashtags: "#london, #hangoverfood, #foodporn, #bristolfood"
-  - username: "emi.eats"
-    fullname: >-
-      EmiEats | Recipes&Restaurants
-    bio: >-
-      #EmiEats🇯🇵🇬🇧 📍: NW London Giving you all the food inspo ~ from restaurants to recipes! 🥗🍣🍝🍳 💌: emi.eats@hotmail.com Find my recipes on @cooklybooklyhq
-    location: "United Kingdom"
-    followers: 4298
-    engagement: 726
-    commentsToLikes: 0.235054
-    id: ck9wd29v3dqwr0j78pgh9edmn
-    verified: false
-    hashtags: "#londonfoodscene, #foodblogger, #foodiesofinstagram, #bestofbritish"
-  - username: "healing.with.houmous"
-    fullname: >-
-      Jess 🌱 Vegan Nurse 💉
-    bio: >-
-      📍#Birmingham 📧 healing.with.houmous@hotmail.com 🌱 Peace & plants ✌🏻 Restaurant reviews 😋 New products 😍 Food I love ✌🏻 💪🏻 @myvegan ➡️ JESS35
-    location: "United Kingdom"
-    followers: 13799
-    engagement: 353
-    commentsToLikes: 0.056169
-    id: ck6uhevrz8pqe0j71apc0aino
-    verified: false
-    hashtags: "#veganroast, #veganfoodhaul, #birmingham, #veganfoodlover"
+    hashtags: "#jam, #instafood, #thefeedfeed, #goodfood"
   - username: "birmingham__eats"
     fullname: >-
       🇬🇧BIRMINGHAM RESTAURANTS
     bio: >-
       🍜 Street Food to Afternoon Tea⠀ 🍷 All photos & experiences are our own⠀ 🎏 Contact us for collaborations⠀ ⠀ 🍒Founders: @galinathomas & @gareththomas79
     location: "United Kingdom"
-    followers: 24001
-    engagement: 230
-    commentsToLikes: 0.035920
+    followers: 25063
+    engagement: 259
+    commentsToLikes: 0.033867
     id: ck6timgml0zy20j7160tf8xqc
     verified: false
-    hashtags: "#gifted"
+    hashtags: ""
+  - username: "healing.with.houmous"
+    fullname: >-
+      Jess 🌱 Vegan Nurse 💉
+    bio: >-
+      📍#Birmingham 📧 healing.with.houmous@hotmail.com 🌱 Peace & plants ✌🏻 Restaurant reviews 😋 New products 😍 Food I love ✌🏻 💪🏻 @myvegan ➡️ JESS35
+    location: "United Kingdom"
+    followers: 13192
+    engagement: 372
+    commentsToLikes: 0.055893
+    id: ck6uhevrz8pqe0j71apc0aino
+    verified: false
+    hashtags: "#veganfood, #veganfoodlover, #birminghamvegans, #veganfoodhaul"
 ---

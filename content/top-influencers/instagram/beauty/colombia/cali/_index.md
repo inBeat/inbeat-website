@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Cali in 2023
+title: Top 10 Beauty Instagram Influencers In Cali In 2023
 description: >-
-  Find top beauty Instagram influencers in Cali in 2023. Most popular hashtags: #beauty #makeup #colombia.
+  Find top beauty Instagram influencers in Cali in 2023. Most popular hashtags: #cali #colombia #beauty #pereira.
 platform: Instagram
-hits: 34
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 34 Instagram influencers like this in Cali, Colombia for you to work with.
+hits: 23
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 23 Instagram influencers like this in Cali, Colombia for you to connect with.
 profiles:
-  - username: "jefry.moreno06"
-    fullname: >-
-       𝓙𝓮𝓯𝓻𝔂 𝓶𝓸𝓻𝓮𝓷𝓸 
-    bio: >-
-      🔮 𝓠𝓾𝓲𝓮𝓷 𝓽𝓲𝓮𝓷𝓮 𝓶𝓪𝓰𝓲𝓪 𝓷𝓸 𝓷𝓮𝓬𝓮𝓼𝓲𝓽𝓪 𝓽𝓻𝓾𝓬𝓸𝓼... 🧞‍♂️ 🤴🏽estilista integral y maquillador 📍#cali - #valle 👇WHATSAPP👇
-    location: "Colombia"
-    followers: 52217
-    engagement: 109
-    commentsToLikes: 0.007010
-    id: ck8sx0gkuft0p0j785iwq7ulx
-    verified: false
-    hashtags: "#cabello, #woman, #glam, #color"
   - username: "mcamilarodriguezf"
     fullname: >-
-      Camila Rodríguez
+      María Camila Rodríguez
     bio: >-
-      Mzl, Colombia📍🇨🇴 Odontología💉🦷UAM⚕️ Crossfit 🏋🏽‍♀️💪🏽
+      Manizales, Col📍🇨🇴 Odontología🦷 UAM⚕️ Crossfit 🏋🏽‍♀️
     location: "Colombia"
-    followers: 10943
-    engagement: 828
-    commentsToLikes: 0.009943
+    followers: 11388
+    engagement: 843
+    commentsToLikes: 0.031715
     id: ck600tv4he9dz0i14ajb0997s
     verified: false
-    hashtags: "#sunsetphotography, #colombia, #photography, #beauty"
-  - username: "macamilaquesada"
+    hashtags: "#girl, #colombia, #beauty, #lifestyle"
+  - username: "franciny_bautista"
     fullname: >-
-      C A M I
+      ╰☆☆ FRANCINY ☆☆╮
     bio: >-
-      Creating my world🌈⚡️ #ElaGirl YOUTUBE VIDEOS 🎬
+      🙏🏼 | ᴅ ɪ ᴏ s 💒 🎊 | 20 años 💃🏻 | Modelo 💰| Negocios 📲 🏋🏻‍♀️| Pasión ,deporte 🥰 👑 | Colombiana 🇨🇴 👇🏻🇨 🇴 🇳 🇹 🇦 🇨 🇹 🇴 ☎️ 📲
     location: "Colombia"
-    followers: 6816
-    engagement: 388
-    commentsToLikes: 0.093242
-    id: ckaortrpeoppg0i78tvtpigrp
+    followers: 326315
+    engagement: 352
+    commentsToLikes: 0.021686
+    id: ckap1chnntzuz0i7855vdbflp
     verified: false
-    hashtags: "#estheticaccount, #lookoftheday, #ootdfashion, #tezzaapp"
-  - username: "saracalderonmakeup"
+    hashtags: "#pereira, #yoinscollection, #explorer, #feed"
+  - username: "nicollediez"
     fullname: >-
-      Maquillaje Cartagena
+      NICOLLE DIEZ
     bio: >-
-      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
+      My life 📷 Mamá de Maite 🤍 #Fashion #beauty and #lifestyle inspiration @bynicollediez
     location: "Colombia"
-    followers: 6466
-    engagement: 868
-    commentsToLikes: 0.118183
-    id: ckaoydrcxh39n0i78g1yu92pf
+    followers: 97440
+    engagement: 106
+    commentsToLikes: 0.020316
+    id: ck5c27kdbwp4s0i11kuccrvnh
     verified: false
-    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
-  - username: "estefaniamariutti"
+    hashtags: "#colombia, #ootd, #fashionstyle, #fashion"
+  - username: "auraoro"
     fullname: >-
-      STEFANIA MARIUTTI
+      Aura Maria Orozco
     bio: >-
-      @itmjoserivera De Cali ve !
+      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketv.co 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
     location: "Colombia"
-    followers: 25495
-    engagement: 546
-    commentsToLikes: 0.039992
-    id: ck5cg7w06ob5k0i113tejxinj
+    followers: 27098
+    engagement: 98
+    commentsToLikes: 0.365928
+    id: ckap7vyvwlszz0i7805o7f2u5
     verified: false
-    hashtags: "#tbt, #challengeaccepted"
+    hashtags: "#pielsensible, #salud, #cute, #reelsinstagram"
   - username: "tatiana_romero11"
     fullname: >-
       Tatiana Romero
     bio: >-
       😍🌸 @taked_storee @laagenciabatallademodelos #2019 🇨🇴 M O D E L O Bogota @grupo4co Cali @elmolinoagencia 22 Arquitectura 😍 🔨🔧🏢
     location: "Colombia"
-    followers: 21152
-    engagement: 370
-    commentsToLikes: 0.047657
+    followers: 20696
+    engagement: 386
+    commentsToLikes: 0.047095
     id: ck5zzyi59cmwl0i14c11dq376
     verified: false
-    hashtags: "#misstopontheworld, #mode, #girl, #vida"
+    hashtags: "#misstopontheworld, #mode, #vibrapatprimo, #se"
+  - username: "hernanboterostudio"
+    fullname: >-
+      Hernán Botero
+    bio: >-
+      BEAUTY / FETICH / BOUDOIR / Medellín - Colombia Contacto
+    location: "Colombia"
+    followers: 107200
+    engagement: 86
+    commentsToLikes: 0.018041
+    id: ck5hgzj7y5m5g0i11a8ilenlg
+    verified: false
+    hashtags: "#sexydress, #azarandolaplaza, #bodypositive, #feet"
   - username: "auracrivera"
     fullname: >-
-      Aura Rivera
+      Carolina Rivera
     bio: >-
       Made in Cali Colombia 🇨🇴 Ibiza✈️ mi hogar Estoy aquí para reírme, amo los memes y las bromas.
     location: "Colombia"
-    followers: 3465
-    engagement: 1277
-    commentsToLikes: 0.105690
+    followers: 3922
+    engagement: 1446
+    commentsToLikes: 0.104292
     id: ckaozeaaolhsk0i78j6t8nydf
     verified: false
-    hashtags: "#funny, #mujeresreales, #bikini, #colombiana"
-  - username: "juliatatireyes"
+    hashtags: "#ibiza, #funny, #sunday, #colombiana"
+  - username: "marialejamirandap"
     fullname: >-
-      JuliaReyes⏺️
+      -M A R I A  A L E J A N D R A-
     bio: >-
-      B I E N V E N I D O S 🌴 🇨🇴 • Bailarina Urbana • Modelo Cali - Colombia🇨🇴
+      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
     location: "Colombia"
-    followers: 17860
-    engagement: 874
-    commentsToLikes: 0.480770
-    id: ck5qc4k37otp50i111s8kr3l7
+    followers: 8470
+    engagement: 510
+    commentsToLikes: 0.041288
+    id: ckaouqrjw1esd0i78decx4wuk
     verified: false
-    hashtags: "#fyp, #fotografia, #trenzasafricanas, #perreo"
-  - username: "auraoro"
+    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
+  - username: "jeff_506"
     fullname: >-
-      Aura Maria Orozco
+      Jefferson Gutiérrez Romero
     bio: >-
-      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketvcali 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
+      Fotografía, Cocina, Viajes y Mercadeo. #Nikon #Huawei #JeffCo #Travelier ... Dirigiendo a @agenciapro . 📍 Tuluá - Cali Co🇨🇴
     location: "Colombia"
-    followers: 27422
-    engagement: 196
-    commentsToLikes: 0.496485
-    id: ckap7vyvwlszz0i7805o7f2u5
+    followers: 12378
+    engagement: 940
+    commentsToLikes: 0.019375
+    id: ck8t2yq1f17rs0j78sgcg99nw
     verified: false
-    hashtags: "#rojo, #skincare, #sun, #pretty"
-  - username: "criszuluaga.mua"
+    hashtags: "#bienvenido2021, #yovoy, #bogot, #travel"
+  - username: "urban.mua"
     fullname: >-
-      Miami Makeup Cris Zuluaga
+      Yuri Urbano/ Makeup Artist
     bio: >-
-      📍 MIAMI, FL 🇺🇸 From CALI, COL 🇨🇴 PRO Makeup Artist 👩🏼‍🎨 Social Makeup Bridal makeup Instructor Makeup CURSOS ONLINE DISPONIBLES
+      Desarrollo Tecnico en Maquillaje Pro Directora en @tmakeupartist.school En Cali 🌈 Conoce las reglas y aprende como romperlas Mas información👇🏽
     location: "Colombia"
-    followers: 7927
-    engagement: 353
-    commentsToLikes: 0.059841
-    id: ck6uelllyrnmc0j71mpx76bbo
+    followers: 28254
+    engagement: 170
+    commentsToLikes: 0.047671
+    id: ck5c3akc7ywz40i11kgbntj86
     verified: false
-    hashtags: "#xlcarnivalpalette, #doral, #maybelline, #bperfectcosmetics"
+    hashtags: "#clasesdemaquillajeprofesional, #makeupartist, #maquillajeprofesional, #limpiezadebrochas"
 ---

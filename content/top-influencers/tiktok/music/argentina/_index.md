@@ -1,36 +1,36 @@
 ---
-title: Top 10 Music TikTok Influencers In Argentina in 2023
+title: Top 10 Music TikTok Influencers In Argentina In 2023
 description: >-
-  Find top music TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #viral #argentina.
+  Find top music TikTok influencers in Argentina in 2023. Most popular hashtags: #fyp #humor #parati #argentina.
 platform: TikTok
-hits: 160
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat has 160 TikTok influencers like this in Argentina for you to work with.
+hits: 154
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 154 TikTok influencers like this in Argentina for you to contact.
 profiles:
-  - username: "gabrielnespoli_ok"
+  - username: "ernesambiela"
     fullname: >-
-      Gabriel alfredo Nesp
+      Ernes Ambiela
     bio: >-
-      ig: gabrielnespoli2 Racing Club LIVE (MAR-MIER-JUE) 22hs Musica y buena onda
+      me gusta escribir canciones y hacer como que mi vida es un musical 🐘🏹💞
     location: "Argentina"
-    followers: 7571
-    engagement: 3190
-    commentsToLikes: 0.448632
-    id: ckdcjnyiwlmci0j23efkj4x1l
+    followers: 1400000
+    engagement: 2381
+    commentsToLikes: 0.011668
+    id: ck8s83za0rwu60j78li3guw22
     verified: false
-    hashtags: "#ohpordios, #caragraciosa, #consejos, #parati"
-  - username: "nikoevansmusic"
+    hashtags: "#signos, #fyp, #humor, #musica"
+  - username: "im.crash"
     fullname: >-
-      Niko Evans
+      Crash
     bio: >-
-      😂 Un poco de humor y música 🎵
+      Amo la música ⚡️Escucha mis canciones en todas las plataformas 🎶
     location: "Argentina"
-    followers: 307600
-    engagement: 1321
-    commentsToLikes: 0.062064
-    id: ckbrf9wvor4am0j23225bow4e
-    verified: false
-    hashtags: "#meme, #amigas, #whatsapp, #election"
+    followers: 54800
+    engagement: 1374
+    commentsToLikes: 0.104999
+    id: ckbkz16wpv7uy0j23g0nc1agl
+    verified: true
+    hashtags: "#dance, #artist, #fyp, #foryou"
   - username: "leitomarchiori"
     fullname: >-
       Leonardo Marchiori
@@ -38,93 +38,93 @@ profiles:
       🔴 IG: @leitomarchiori CrossFit Coach +Music +Drawing +Martial Arts +Boludeces
     location: "Argentina"
     followers: 16300
-    engagement: 1049
-    commentsToLikes: 0.066964
+    engagement: 1023
+    commentsToLikes: 0.061292
     id: ckbf85nskyfou0j23wfez7vpw
     verified: false
-    hashtags: "#humor, #consejosutiles, #cuarentena, #consejos"
-  - username: "noizsyboy"
+    hashtags: "#argentina, #cuarentena, #consejosutiles, #consejos"
+  - username: "lulaalizer"
     fullname: >-
-      •}{• NB •][•
+      lulalizer
     bio: >-
-      •}{• NB •][• Subo cosas de música y hago covers
+      hago videos de músicaaaaa🥳 síganme en spotify:lulalizer
     location: "Argentina"
-    followers: 125300
-    engagement: 2104
-    commentsToLikes: 0.022052
-    id: ckc1vaa0rzdhn0j232y2q6do4
+    followers: 102900
+    engagement: 1924
+    commentsToLikes: 0.019998
+    id: ck9rjzwf5qjst0j78hugy9sl2
     verified: false
-    hashtags: "#bateria, #saludmental, #parati, #ti"
+    hashtags: ""
   - username: "sebadentisok"
     fullname: >-
       Seba Dentis
     bio: >-
       🇦🇷 Mi vida es la música🎶 IG: @sebadentis 👇Canto tu canción👇
     location: "Argentina"
-    followers: 88800
-    engagement: 1056
-    commentsToLikes: 0.131457
+    followers: 89000
+    engagement: 1066
+    commentsToLikes: 0.143204
     id: ckae5plpm8ksm0i78zlmdhfnb
     verified: false
-    hashtags: "#fyp, #xyzbca, #viral, #cover"
-  - username: "mariabecerra_22"
+    hashtags: "#challenge, #viral, #trend, #cover"
+  - username: "muneki77a"
     fullname: >-
-      Maria Becerra
+      MUÑEKI77A
     bio: >-
-      Cuenta Oficial IG: @maria_becerra22 YT: Maria Becerra Music Rep: @josemlevy
+      soy Naomi Preizler Toda mi música en Spotify y YouTube ig @muneki77a_
     location: "Argentina"
-    followers: 1300000
-    engagement: 1573
-    commentsToLikes: 0.005473
-    id: ck9slj93ge91f0j78bdxmcn1n
+    followers: 293300
+    engagement: 1063
+    commentsToLikes: 0.012801
+    id: ckce62aj0kcqd0j23ckd1934p
     verified: true
-    hashtags: "#maquinadeltiempo, #high, #tmlhfchallenge, #highremix"
-  - username: "davidlon4"
-    fullname: >-
-      David Tik Tok
-    bio: >-
-      curiosidades, electrónica, chistes, artes marciales, gimnasio, música, 80s
-    location: "Argentina"
-    followers: 25300
-    engagement: 540
-    commentsToLikes: 0.058887
-    id: cka6ar8w0xfwf0i78ykh5rkyu
-    verified: false
-    hashtags: "#divertido, #ti, #sipalki, #datoscuriosos"
-  - username: "alexispey"
-    fullname: >-
-      alexispey
-    bio: >-
-      Músico suk it 🌩
-    location: "Argentina"
-    followers: 148000
-    engagement: 1543
-    commentsToLikes: 0.013632
-    id: ckb9qihr4ml3v0j2387eq4c3j
-    verified: false
-    hashtags: "#parati, #viral, #fyp, #foryou"
+    hashtags: "#tokyo, #modellife, #vintage, #style"
   - username: "lagacetadelfutbol"
     fullname: >-
       La Gaceta del Fútbol ⚽️
     bio: >-
       • Fútbol, música, política y cine • Youtube e Instagram: La Gaceta del Fútbol
     location: "Argentina"
-    followers: 41900
-    engagement: 925
-    commentsToLikes: 0.011074
+    followers: 45600
+    engagement: 1202
+    commentsToLikes: 0.016510
     id: ckd5m54wxw56z0j232mmm0jkr
     verified: false
-    hashtags: "#futbolargentino, #curiosidades, #resumen, #foryoupage"
-  - username: "sound_musictiktok"
+    hashtags: "#seleccionargentina, #argentina, #menem, #fyp"
+  - username: "sistarsoficial"
     fullname: >-
-      music_sound
+      THE SISTARS
     bio: >-
-      •Sonidos, Musica y Audios•
+      Valen & Maxi Cantamos y hacemos música propiaaa🤍🤍🤍
     location: "Argentina"
-    followers: 2410
-    engagement: 1588
-    commentsToLikes: 0.009951
-    id: ckbkhk32c9ho40j23h1foyrfh
+    followers: 253500
+    engagement: 1124
+    commentsToLikes: 0.014799
+    id: ckbf9v4zi137u0j23n98kfz8l
+    verified: true
+    hashtags: "#astrology, #ellatieneunlook, #ropacara, #alineadoresinvisibles"
+  - username: "davidlon4"
+    fullname: >-
+      David Tik Tok
+    bio: >-
+      curiosidades, electrónica, chistes, artes marciales, gimnasio, música, 80s
+    location: "Argentina"
+    followers: 29700
+    engagement: 622
+    commentsToLikes: 0.065632
+    id: cka6ar8w0xfwf0i78ykh5rkyu
     verified: false
-    hashtags: "#vintage, #pfy, #likeen, #cuarentena"
+    hashtags: "#humorviral, #innovation, #parati, #humor"
+  - username: "alexispey"
+    fullname: >-
+      alexispey
+    bio: >-
+      Músico 👇🏻 MIRA CONVENCIDA 👇🏻
+    location: "Argentina"
+    followers: 167900
+    engagement: 1554
+    commentsToLikes: 0.016957
+    id: ckb9qihr4ml3v0j2387eq4c3j
+    verified: false
+    hashtags: "#humor, #xyzbca, #zorra, #parati"
 ---

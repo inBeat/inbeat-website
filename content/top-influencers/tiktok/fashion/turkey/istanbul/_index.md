@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Istanbul in 2023
+title: Top 10 Fashion TikTok Influencers In Istanbul In 2023
 description: >-
-  Find top fashion TikTok influencers in Istanbul in 2023. Most popular hashtags: #fashion #fyp #istanbul #ke.
+  Find top fashion TikTok influencers in Istanbul in 2023. Most popular hashtags: #fashion #fyp #ke #istanbul.
 platform: TikTok
-hits: 10
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 10 TikTok influencers like this in Istanbul, Turkey for you to pitch.
+hits: 7
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform has 7 TikTok influencers like this in Istanbul, Turkey for you to connect with.
 profiles:
-  - username: "moondellaa"
-    fullname: >-
-      Mahfam
-    bio: >-
-      Real happiness is in small things.🤍 🐶 lover ☕️ addicted Based in Istanbul
-    location: "Turkey"
-    followers: 206700
-    engagement: 436
-    commentsToLikes: 0.016493
-    id: ck9r8i9o1cel50j783ykaic9r
-    verified: false
-    hashtags: "#istanbul, #love, #couplecomedy, #comedy"
-  - username: "nurishtheabstract"
-    fullname: >-
-      Volkan Binici
-    bio: >-
-      Giyinmeyi seviyorum 20 | Istanbul
-    location: "Turkey"
-    followers: 24600
-    engagement: 951
-    commentsToLikes: 0.037414
-    id: ckc3fmrc41tva0j230b40p9f8
-    verified: false
-    hashtags: "#fashion, #foryoupage, #sneakers, #xyzbca"
-  - username: "linakalinina"
-    fullname: >-
-      Lina Kalinina
-    bio: >-
-      Equestrian diary Start 🏇🏼 09.19 Live in Istanbul 🇹🇷 Married 👩🏼‍🤝‍👨🏻
-    location: "Turkey"
-    followers: 64100
-    engagement: 2890
-    commentsToLikes: 0.009168
-    id: ckcuzx5admyar0j23lgx5pp7j
-    verified: false
-    hashtags: "#equestriangirl, #foryou, #horseriding, #horsegirlvibes"
-  - username: "soremoh"
-    fullname: >-
-      Homeros
-    bio: >-
-      Eda İstanbul | 18 #krnsquad @krnsquad
-    location: "Turkey"
-    followers: 5444
-    engagement: 628
-    commentsToLikes: 0.023202
-    id: ckb9ixokb9s7t0j230zbsbwvg
-    verified: false
-    hashtags: "#ke, #evdekal, #fyp, #turkey"
-  - username: "onurollstyle"
-    fullname: >-
-      Onur Erol
-    bio: >-
-      💫 Hayat güzeldir. ✉️ info@onurollstyle.co 🌎 Istanbul INSTAGRAM : Onurollstyle
-    location: "Turkey"
-    followers: 18200
-    engagement: 124
-    commentsToLikes: 0.027630
-    id: ckcp6vm7rd9o90j232a22y4ii
-    verified: false
-    hashtags: "#menstyle, #moda, #pose, #style"
-  - username: "kyrenian"
-    fullname: >-
-      Altug Galip
-    bio: >-
-      Altug Galip More on Instagram @KyreniaN
-    location: "Turkey"
-    followers: 18500
-    engagement: 562
-    commentsToLikes: 0.050218
-    id: ck8qp522n1yn70j7875gm38pe
-    verified: true
-    hashtags: "#seyahat, #istanbul, #tiktoktravel, #greece"
   - username: "putkatheuntuck"
     fullname: >-
       Muscle Queen
     bio: >-
       Turkish Muscle Queen
     location: "Turkey"
-    followers: 16400
-    engagement: 688
-    commentsToLikes: 0.026028
+    followers: 16000
+    engagement: 666
+    commentsToLikes: 0.024149
     id: ckdbmbvs4a7mj0j23hexybvbe
     verified: false
-    hashtags: "#wap, #tiktok, #foryourpage, #anasayfa"
+    hashtags: "#tiktok, #benike, #viral, #ankara"
+  - username: "nurishtheabstract"
+    fullname: >-
+      Volkan Binici
+    bio: >-
+      20 | Istanbul
+    location: "Turkey"
+    followers: 28600
+    engagement: 748
+    commentsToLikes: 0.025439
+    id: ckc3fmrc41tva0j230b40p9f8
+    verified: false
+    hashtags: "#taehyung, #kpop, #sneakers, #fashion"
+  - username: "soremoh"
+    fullname: >-
+      Homeros
+    bio: >-
+      Eda İstanbul | 18
+    location: "Turkey"
+    followers: 5221
+    engagement: 678
+    commentsToLikes: 0.029436
+    id: ckb9ixokb9s7t0j230zbsbwvg
+    verified: false
+    hashtags: "#oilpainting, #fpg, #evdekal, #foryp"
+  - username: "moondellaa"
+    fullname: >-
+      Mahfam
+    bio: >-
+      Real happiness is in small things.🤍 🐶 lover ☕️ addicted Based in Istanbul
+    location: "Turkey"
+    followers: 205700
+    engagement: 480
+    commentsToLikes: 0.017671
+    id: ck9r8i9o1cel50j783ykaic9r
+    verified: false
+    hashtags: "#amore, #style, #istanbul, #fashionista"
+  - username: "vegastories"
+    fullname: >-
+      vegastories
+    bio: >-
+      My name is Vegas Istanbul / Turkey 🇹🇷 Will you follow me? ⬇️ IG: @vegastories
+    location: "Turkey"
+    followers: 1600000
+    engagement: 903
+    commentsToLikes: 0.012202
+    id: cka0u3jobsl670i78xt9m99ej
+    verified: true
+    hashtags: "#dog, #pomeranian, #dogsoftiktok, #petlife"
+  - username: "kyrenian"
+    fullname: >-
+      Altug Galip
+    bio: >-
+      Altug Galip More on Instagram @KyreniaN
+    location: "Turkey"
+    followers: 18200
+    engagement: 694
+    commentsToLikes: 0.066364
+    id: ck8qp522n1yn70j7875gm38pe
+    verified: true
+    hashtags: "#turkey, #seyahat, #greek, #tiktoktravel"
   - username: "katmercibey"
     fullname: >-
       Katmercibey
     bio: >-
       İnstagram : katmercibey
     location: "Turkey"
-    followers: 32300
-    engagement: 443
-    commentsToLikes: 0.015312
+    followers: 31100
+    engagement: 455
+    commentsToLikes: 0.015485
     id: ck8kcvvu235n20j78tjmx6spd
     verified: false
-    hashtags: "#katmercibey, #food, #turkiye, #like"
-  - username: "celebioktay"
+    hashtags: "#tiktoksea, #tiktokgallery, #newyear2020, #tiktok"
+  - username: "helinserdar"
     fullname: >-
-      Oktay Çelebi
+      Helîn
     bio: >-
-      İnstg; celebiioktay
+      Kendine sanatçı Instagram: heliinserdar
     location: "Turkey"
-    followers: 7803
-    engagement: 305
-    commentsToLikes: 0.010405
-    id: cka9luz5a3bie0i78gpi8mlzh
+    followers: 1908
+    engagement: 1441
+    commentsToLikes: 0.087235
+    id: ck81qqshoj27v0j78qfplrvjn
     verified: false
-    hashtags: "#follow, #photooftheday, #istanbul, #turkey"
-  - username: "beratincin01"
+    hashtags: "#sketch, #birdahadeneyeyim, #art, #2021"
+  - username: "nnursema"
     fullname: >-
-      Ben BEROO
+      nursema
     bio: >-
-      
+      🦋 Collabs : nursemaart@gmail.com
     location: "Turkey"
-    followers: 2216
-    engagement: 1031
-    commentsToLikes: 0.032077
-    id: ck8j419ii0izy0j789iluchlk
+    followers: 14100000
+    engagement: 1394
+    commentsToLikes: 0.052746
+    id: ck7zo4x67htzw0j78gez04ji2
+    verified: true
+    hashtags: "#tutorial, #creative, #fashion, #outfit"
+  - username: "lexe.ahmetr"
+    fullname: >-
+      Léxé丨AhmetR
+    bio: >-
+      ✌️✌️🍀Léxé丨AhmetR✌️🍀 ✌️✌️🍀klan lider klana alım var✌️🍀 ✌️✌️🍀Kürt klanı ✌🍀✌
+    location: "Turkey"
+    followers: 25100
+    engagement: 667
+    commentsToLikes: 0.095432
+    id: ckbkx1ygosw7w0j23rzkpz5vy
     verified: false
-    hashtags: "#tiktoktreanding, #kesfettv, #instantbollywood, #tiktoktrends"
+    hashtags: "#instagood, #happy, #turkiyepubg, #follow"
 ---

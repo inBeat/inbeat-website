@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Italy in 2023
+title: Top 10 Models TikTok Influencers In Italy In 2023
 description: >-
-  Find top models TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #fyp.
+  Find top models TikTok influencers in Italy in 2023. Most popular hashtags: #foryou #perte #neiperte #model.
 platform: TikTok
-hits: 120
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 120 TikTok influencers like this in Italy for you to contact.
+hits: 101
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 101 TikTok influencers like this in Italy for you to connect with.
 profiles:
-  - username: "stepoggio_"
+  - username: "stepoggio"
     fullname: >-
       stepoggio
     bio: >-
       Model
     location: "Italy"
-    followers: 7672
-    engagement: 1983
-    commentsToLikes: 0.002563
+    followers: 7130
+    engagement: 1978
+    commentsToLikes: 0.002291
     id: ck8w2kqop5n1b0j78rvvbsfaa
     verified: false
-    hashtags: "#perte, #fyp, #viral, #italianboy"
+    hashtags: "#viral, #perte, #fyp, #italy"
   - username: "elenaanthony_bd"
     fullname: >-
       Elena Travaini
     bio: >-
       🥇Founders of Blindly Dancing 💃 Dancers 👗 Model 👩‍👧 Mom 👨‍👧 Tato
     location: "Italy"
-    followers: 2586
-    engagement: 1827
-    commentsToLikes: 0.061393
+    followers: 2525
+    engagement: 1742
+    commentsToLikes: 0.054185
     id: cka63lqno4w2b0i788dw0ar27
     verified: false
-    hashtags: "#cat, #elenatravaini, #lago, #perte"
-  - username: "falonvr"
+    hashtags: "#elenatravaini, #foryou, #lago, #perte"
+  - username: "annaandelisa_"
     fullname: >-
-      Falon Vargas
+      ♡anna e elisa♡
     bio: >-
-      🇨🇷 in 🇮🇹 Vice Campionessa IFBB Italia Fitness Model Instagram: Falonvargar
+      Italy identical twins models 1,5 M ♡
     location: "Italy"
-    followers: 63300
-    engagement: 1314
-    commentsToLikes: 0.029596
-    id: ckbkgv7kc8hgb0j23st9hrz2v
+    followers: 1500000
+    engagement: 2025
+    commentsToLikes: 0.009011
+    id: ck9eyyfu1xyj20j78meg2ky64
     verified: false
-    hashtags: "#dance, #perte, #tiktokitalia, #puravida"
+    hashtags: "#mirrorchallenge, #perte, #foryou, #twins"
+  - username: "curvysissi"
+    fullname: >-
+      🖤 CurvySissi 🖤
+    bio: >-
+      Verona | 21 IG: @curvysissi Bodypositive influencer Curvy model Road to 25K 💕
+    location: "Italy"
+    followers: 24500
+    engagement: 1077
+    commentsToLikes: 0.027924
+    id: ckcumdecuhl620j23g01n5ahl
+    verified: false
+    hashtags: "#italiancurvy, #dominochallenge, #bodypositive, #kiss"
   - username: "leonardo.mercuri"
     fullname: >-
       Leonardo Mercuri
     bio: >-
       Instagram : leonardo.mercuri model for : Lawley 2002 , Florence
     location: "Italy"
-    followers: 270300
-    engagement: 1450
-    commentsToLikes: 0.014449
+    followers: 312000
+    engagement: 1284
+    commentsToLikes: 0.011558
     id: ckbw97hk5zj6z0j23ixsbjfmp
     verified: false
-    hashtags: "#bodytrasformation, #gym, #duetto, #perte"
+    hashtags: "#florence, #foryou, #perte, #football"
+  - username: "marcodelia"
+    fullname: >-
+      Marco D'Elia
+    bio: >-
+      🇮🇹 Mister World Italy 🇮🇹 Model / Actor YouTuber Self-Development / Self Care
+    location: "Italy"
+    followers: 211600
+    engagement: 855
+    commentsToLikes: 0.050271
+    id: ck9fmcyirsqgw0j782dagw1ji
+    verified: false
+    hashtags: "#duet, #yoga, #foryou, #nature"
+  - username: "francydeltoro"
+    fullname: >-
+      Francesca del toro
+    bio: >-
+      Dancer 🌹 Model ☘️ Youtuber “Deltoro sisters” 👩‍❤️‍👩
+    location: "Italy"
+    followers: 35900
+    engagement: 1839
+    commentsToLikes: 0.005295
+    id: ckc7zlb2p1aba0j23zw8m1sgb
+    verified: false
+    hashtags: "#perte, #lovedisoloqua, #tiktok, #babymama"
+  - username: "fancydobro"
+    fullname: >-
+      Francesca🦋Dobrovich
+    bio: >-
+      🇮🇹 • 🇺🇸 📍Roma 📸 Model IG: francescadobrovich
+    location: "Italy"
+    followers: 49800
+    engagement: 976
+    commentsToLikes: 0.051356
+    id: cka0qse4qdxe80i78hzi2nriz
+    verified: false
+    hashtags: "#outfitinspo, #neiperte, #perte, #viral"
+  - username: "valentina_galassi"
+    fullname: >-
+      valentina_galassi
+    bio: >-
+      •model •based in Milan 📍 •only positive vibes🌈and a healthy life 🌱🧘🏼‍♀️
+    location: "Italy"
+    followers: 45600
+    engagement: 1278
+    commentsToLikes: 0.010491
+    id: ckbf9cmr707cj0j23glh8972f
+    verified: false
+    hashtags: "#photo, #model, #shooting, #modellife"
   - username: "danielelarosa"
     fullname: >-
       Demon jey ✔
     bio: >-
       #Modello #model #dancer #instagram Daniele_La_Rosa
     location: "Italy"
-    followers: 220200
-    engagement: 1247
-    commentsToLikes: 0.044643
+    followers: 330900
+    engagement: 1100
+    commentsToLikes: 0.023675
     id: ckad8vqz8avxk0i78f7gpjxwy
     verified: false
-    hashtags: "#tantaroba, #tiktok, #lovestattoos, #tattoo"
-  - username: "elisabarranu"
-    fullname: >-
-      Elisa Barranu
-    bio: >-
-      Elisa Barranu Model 🇮🇹 18y/o 📩 elisabarranu@theakkademia.com
-    location: "Italy"
-    followers: 167400
-    engagement: 1629
-    commentsToLikes: 0.008583
-    id: ck933b26vnbsi0j7896xnkk02
-    verified: false
-    hashtags: "#galerachallenge, #nonhasenso, #soliujosneakers, #liujo"
-  - username: "nicolangelozzi"
-    fullname: >-
-      Nicol Angelozzi
-    bio: >-
-      Model Showgirl 19 y.o Instagram: nicolangelozzi 💕💖💕
-    location: "Italy"
-    followers: 72800
-    engagement: 1228
-    commentsToLikes: 0.018409
-    id: ck8w2kgd35kyo0j78yezhaeyn
-    verified: false
-    hashtags: "#fashion, #euphoria, #instanbul, #sea"
-  - username: "marcodelia97"
-    fullname: >-
-      Marco D'Elia
-    bio: >-
-      🇮🇹 Mister World Italy 🇮🇹 Italian Model YouTuber / Blogger Journey to Succes
-    location: "Italy"
-    followers: 180800
-    engagement: 891
-    commentsToLikes: 0.036194
-    id: ck9fmcyirsqgw0j782dagw1ji
-    verified: false
-    hashtags: "#routine, #beautycare, #chupalloween, #menvsboys"
-  - username: "therock_c15"
-    fullname: >-
-      Ciro La Rocca
-    bio: >-
-      Seguimi su insta 👆🏻 Model 🇮🇹 190 cm 📏 Instagram: Therock_c15
-    location: "Italy"
-    followers: 48500
-    engagement: 848
-    commentsToLikes: 0.030167
-    id: ckdtkteb8yoxk0j23ptvwmpfv
-    verified: false
-    hashtags: "#cute, #foryou, #perte, #change"
-  - username: "elenasecondulfo_"
-    fullname: >-
-      elenasecondulfo_
-    bio: >-
-      Model/dancer💖 NA💙 MissOndinaSport2k19👸🏽
-    location: "Italy"
-    followers: 20400
-    engagement: 1088
-    commentsToLikes: 0.058159
-    id: ck8vsi5m4dous0j78zawz72h2
-    verified: false
-    hashtags: "#perte, #funny, #greenscreen, #foryoupage"
+    hashtags: "#taketime, #blackandwite, #taketimeee, #what"
 ---

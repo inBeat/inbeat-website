@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Dallas in 2023
+title: Top 10 Lifestyle Instagram Influencers In Dallas In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Dallas in 2023. Most popular hashtags: #lifestyle #dallasblogger #ootd #dallas.
+  Find top lifestyle Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #lifestyle #ootd.
 platform: Instagram
 hits: 223
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 223 Instagram influencers like this in Dallas, United States for you to contact.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 223 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "dallasfoodwanderer"
+  - username: "kxosborne"
     fullname: >-
-      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
+      Katy Osborne
     bio: >-
-      I came🚶🏼‍♀️I saw 🤳 I ate 👅 📍 | dallas & travels 🔜 | only covid19 knows 👯‍♀️ | let’s collaborate! 📧 | dallasfoodwanderer@gmail.com 💁🏼‍♀️ | @saria16
+      📍 Dallas 💌 team@kxosborne.com
     location: "United States"
-    followers: 12632
-    engagement: 334
-    commentsToLikes: 0.143952
-    id: ck0w3er8vt17z0i19w116309e
+    followers: 8675
+    engagement: 290
+    commentsToLikes: 0.008764
+    id: ckapbis7v01750i78ihq1q5nn
     verified: false
-    hashtags: "#igfood, #dallas, #quarantinelife, #stayhome"
+    hashtags: "#explore, #ootd, #lifestyle, #dallas"
+  - username: "theclassictx"
+    fullname: >-
+      Dallas Exotic Car Rentals
+    bio: >-
+      Aftermarket Customization @TheClassicAS Marketing & Promotions @TCLTX Call or Text (469)-677-8002
+    location: "United States"
+    followers: 8659
+    engagement: 173
+    commentsToLikes: 0.026419
+    id: ck13a7g3bozu80i19l7ts6wg2
+    verified: false
+    hashtags: "#dallas, #theclassicway, #exoticrentals, #theclassic"
   - username: "jojotruperez"
     fullname: >-
       Lifestyle Dallas - Fort Worth
     bio: >-
-      We’re in this together!🤝 Founder @shebelongsfortworth Fitness 🏃🏻‍♀️ @dallasfitnessambassadors @albion maven
+      Hiiii I’m Jojo! Welcome to snippets of life + style | fitness| dfw foodie| new mom 👧🏻 the party is on stories 🥳
     location: "United States"
-    followers: 9496
-    engagement: 493
-    commentsToLikes: 0.177836
+    followers: 9679
+    engagement: 463
+    commentsToLikes: 0.169570
     id: ck6u0o6kegts50j71huv2soze
     verified: false
-    hashtags: "#fableticspartner, #winedownwednesday, #ad, #traveler"
+    hashtags: "#lowcarb, #fableticspartner, #sponsored, #unwashpartner"
+  - username: "evelynfarr_"
+    fullname: >-
+      Lifestyle Dallas - Fort Worth
+    bio: >-
+      Hey friend! 👋🏼 Wifey | Believer | Creator | Motherhood | Lifestyle | Foodie collabs + inquiries ⇣ 📧:evelynfarr4@gmail.com
+    location: "United States"
+    followers: 13989
+    engagement: 856
+    commentsToLikes: 0.035949
+    id: ck0w0h7tpe6k80i19s5q027j9
+    verified: false
+    hashtags: "#hosted"
+  - username: "karolamramirez"
+    fullname: >-
+      Lifestyle Dallas - Fort Worth
+    bio: >-
+      ⇻ Hi hi! 𓇸 sharing all things Texas, food, fitness + lifestyle 𓍰 The fun is in the stories 😜 𓇸 1/2 of @GoodThingMarketing
+    location: "United States"
+    followers: 11883
+    engagement: 421
+    commentsToLikes: 0.065187
+    id: ck15rpb8e91ao0i19xr21csk6
+    verified: false
+    hashtags: "#weshoplc, #partner, #nationalwellnessmonth, #deliveringjoy"
   - username: "_vejadu"
     fullname: >-
       Deja
     bio: >-
       Beauty | Fashion | Lifestyle • 📍Dallas, Tx • 🎥YT: Veja Du • 👻SC: Vejadu • 💌Email: dejajohnson7015@gmail.com C.O.Z.Y #DiorFridays LATEST VIDEO: ⬇️
     location: "United States"
-    followers: 10606
-    engagement: 930
-    commentsToLikes: 0.035788
+    followers: 11488
+    engagement: 799
+    commentsToLikes: 0.038766
     id: ck6uhz20bc33v0j71lj02bm07
     verified: false
-    hashtags: ""
-  - username: "laurynlately"
-    fullname: >-
-      Lauryn Henry Maynard
-    bio: >-
-      PETITE FASHION | LIFESTYLE | 📍DALLAS JUST PURCHASED OUR FIRST HOME 🏡 📩: lauryn@laurynlately.com
-    location: "United States"
-    followers: 17382
-    engagement: 381
-    commentsToLikes: 0.322116
-    id: ck5zxuutd8pgk0i14b89ayddp
-    verified: false
-    hashtags: "#casualstyle, #style, #fashioninspo, #dallasinfluencer"
+    hashtags: "#photodump"
   - username: "sosageblog"
     fullname: >-
       Sage Coralli Wilson
     bio: >-
       | Fashion • Travel • Lifestyle | 📍: Dallas, TX 🌎 : Next up // TBD 💌 : kora@jabberhaus.com
     location: "United States"
-    followers: 105441
-    engagement: 235
-    commentsToLikes: 0.012671
+    followers: 111064
+    engagement: 190
+    commentsToLikes: 0.005320
     id: ck5zu32dg1l8i0i143fi9hbot
     verified: false
-    hashtags: "#ltkunder100, #liketkit, #happilyeveralber, #electionday"
-  - username: "itsjessicaacy"
+    hashtags: "#24weeks, #sosagetravels, #husbandandwife, #bumpstyle"
+  - username: "parkerjjames"
     fullname: >-
-      Jessica Acy
+      Parker James
     bio: >-
-      Your Fav Online Sis ✨ Millennial Mama + Beauty + Lifestyle 📍Dallas, TX 💌 hello@jessicaacy.com 🎥 Vlog Series ⬇️
+      StEvEn is CEO of Dino Club TikTok ~ parker_james parkerjames@outshinetalent.com P.O. Box 64 Lillian,Texas 76061
     location: "United States"
-    followers: 10407
-    engagement: 1704
-    commentsToLikes: 0.047926
-    id: ck0uavdfyd4pm0i198imw6xgh
+    followers: 588422
+    engagement: 469
+    commentsToLikes: 0.004656
+    id: ck0txcwkgis7x0i19eq6chce7
     verified: false
-    hashtags: "#dirty30, #motherhood, #postpartum, #curlyhair"
-  - username: "ketogoddessmama"
+    hashtags: "#reels, #dallas, #lifestyle, #music"
+  - username: "jackiee__lopez"
     fullname: >-
-      Ciara Martinez✨
+      J a c k i e  L o p e z • Dallas Blogger
     bio: >-
-      Elite Fitness, Keto & Lifestyle Coach Let’s Get To Work👇🏼 sculptandshinefit@gmail.com DM for Model Rates💜
+      💌DM/EMAIL for Collaborations 📍DFW, TX #Lifestyle + #Fashion + #Motherhood #DallasBlogger+ #ContentCreator #fortworthblogger 🧿
     location: "United States"
-    followers: 21862
-    engagement: 311
-    commentsToLikes: 0.066265
-    id: ck5q6jhdnxn6v0i110g2lz2wb
+    followers: 17856
+    engagement: 279
+    commentsToLikes: 0.136309
+    id: ck0tznhp4r10b0i19wekrdxra
     verified: false
-    hashtags: "#mompreneur, #weekend, #weekendvibes, #momof2"
-  - username: "jalladproductions"
+    hashtags: "#influencer, #dfwblogger, #datenight, #ad"
+  - username: "neoaffinity"
     fullname: >-
-      AJ | Videographer/Photographer
+      
     bio: >-
-      📍Dallas, Texas 📸Content Marketing 📈DM For Business Inquiries
+      Dallas, TX. Lifestyle/Wedding: @neomomento 🚨40% off my editing workflow below!🚨
     location: "United States"
-    followers: 2035
-    engagement: 1295
-    commentsToLikes: 0.137856
-    id: ck5zxy0y58ve90i14ceq9nha4
+    followers: 26629
+    engagement: 857
+    commentsToLikes: 0.065353
+    id: ck136xvmp8sp30i19env7afh5
     verified: false
-    hashtags: "#adventurephotography, #inspiration, #beautiful, #dailyinspiration"
-  - username: "darleneshares"
-    fullname: >-
-      darlene chairez
-    bio: >-
-      jw E♡
-    location: "United States"
-    followers: 3589
-    engagement: 1095
-    commentsToLikes: 0.094023
-    id: ck5hlapb8jvq40i11fvjwkfv4
-    verified: false
-    hashtags: "#dallasblog, #ootd, #gymsharkwomen, #discoverunder10k"
-  - username: "sunalid"
-    fullname: >-
-      Sonali
-    bio: >-
-      🇺🇸🇮🇳 Dallas TX📍 Model • Actor • Influencer Represented by ⬇️ @leftfieldmanagement @manikinagency @kalikwest @promodeltalentmgmt #IMTAAlumni 🗽 📚🎓MPA
-    location: "United States"
-    followers: 38659
-    engagement: 499
-    commentsToLikes: 0.041008
-    id: ck138d0safn6n0i1930b5w738
-    verified: false
-    hashtags: "#punjabimodel, #musicislife, #love, #dallastexas"
+    hashtags: "#feature, #dallasphotographer, #xelfies, #777luckyfish"
 ---

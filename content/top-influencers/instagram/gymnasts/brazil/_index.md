@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Brazil in 2023
+title: Top 10 Gymnasts Instagram Influencers In Brazil In 2023
 description: >-
-  Find top gymnasts Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #timebrasil #caixa #ninjakids.
+  Find top gymnasts Instagram influencers in Brazil in 2023. Most popular hashtags: #ninjakidztv #ninjakids #love #gymnastics.
 platform: Instagram
-hits: 86
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 86 Instagram influencers like this in Brazil for you to connect with.
+hits: 85
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 85 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "dudacarvalho25"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Rhythmic Gymnastic 🇧🇷🇪🇸🇮🇹
     location: "Brazil"
-    followers: 3443
-    engagement: 1947
-    commentsToLikes: 0.127431
+    followers: 3445
+    engagement: 2010
+    commentsToLikes: 0.127525
     id: ckaow0oqd6wqf0i78xsbtc53m
     verified: false
-    hashtags: "#vita, #rhytmicgymnastic, #teamduda, #sports"
-  - username: "ashton_myler"
-    fullname: >-
-      Ashton Myler
-    bio: >-
-      Hi I’m Ashton! 3rd Degree Black Belt & Level 9 Gymnast 💪 14 years old & I love reading 📖 Ninja on @ninjakidztv
-    location: "Brazil"
-    followers: 39030
-    engagement: 546
-    commentsToLikes: 0.031571
-    id: ck5cc0x7lgioa0i1199vwa1yq
-    verified: false
-    hashtags: "#ashtonmyler, #ninjakidztv, #ninjakids, #sofun"
-  - username: "barbaraurquizag"
-    fullname: >-
-      Bárbara Galvão
-    bio: >-
-      Brazilian national team🇧🇷✨ Rhythmic gymnastics❤️
-    location: "Brazil"
-    followers: 5768
-    engagement: 1030
-    commentsToLikes: 0.056535
-    id: ck6u3gt5oxp8s0j71rhlxllrl
-    verified: false
-    hashtags: "#tbt, #cbginastica, #caixa, #cob"
-  - username: "dudaarakaki"
-    fullname: >-
-      Duda Arakaki
-    bio: >-
-      Brazilian national team 🇧🇷 Rhythmic Gymnastics Youth Olympic Games 2018✨ 17yo
-    location: "Brazil"
-    followers: 7179
-    engagement: 988
-    commentsToLikes: 0.048627
-    id: ck6u3guc2xpgk0j717h8bbqmw
-    verified: false
-    hashtags: "#tbt, #cbg, #caixa, #cbginastica"
+    hashtags: "#rhytmicgymnastic, #teamduda, #brasil, #rg"
   - username: "natigaudio"
     fullname: >-
       Natália Gaudio
     bio: >-
       🛍 @gaudiofitness.com.br 🇧🇷 Olympian Gymnast of Brazilian team! 🏆 6 x Brazilian Champion and 7 x South American Champion! 📩 natalia.gaudio@hotmail.com
     location: "Brazil"
-    followers: 48103
-    engagement: 329
-    commentsToLikes: 0.043886
+    followers: 47729
+    engagement: 369
+    commentsToLikes: 0.038048
     id: ck8tb42uzu6kb0j78u6n332zy
     verified: true
-    hashtags: "#missingthosedays, #farm, #grateful, #sangalhos"
+    hashtags: "#sunnyday, #love, #rhythmicgymnastics, #peace"
   - username: "paxton_myler"
     fullname: >-
       Paxton Myler
     bio: >-
-      Hi I’m Paxton! 1st Degree Black Belt & Level 6 Gymnast💪 11 years old & I love biking!💁🚴‍♂️ @payton_delu twin brother Ninja on @ninjakidztv
+      Hi I’m Paxton 1st Degree Black Belt Level 6 Gymnast 12 years old & I love biking! @payton_delu twin Ninja on @ninjakidztv Parent Run Account
     location: "Brazil"
-    followers: 35587
-    engagement: 539
-    commentsToLikes: 0.028932
+    followers: 39841
+    engagement: 488
+    commentsToLikes: 0.031167
     id: ck5cc0xhtgipj0i116sbxfsn5
     verified: false
-    hashtags: "#ninjakids, #ninjakidztv, #paxtonmyler, #crazyride"
-  - username: "maiaracandido_"
+    hashtags: "#ninjakidztv, #ninjakids, #paxtonmyler, #christmas"
+  - username: "ashton_myler"
     fullname: >-
-      ᴍᴀɪᴀʀᴀ ᴄᴀɴᴅɪᴅᴏ 🌼
+      Ashton Myler
     bio: >-
-      2000 ✞ 𝐼 𝒷𝑒𝓁𝑜𝓃𝑔 𝓉𝑜 𝒥𝑒𝓈𝓊𝓈 Rhythmic gymnastics 🇧🇷
+      Hi I’m Ashton! 3rd Degree Black Belt & Level 9 Gymnast 💪 15 years old & I love reading 📖 Ninja on @ninjakidztv
     location: "Brazil"
-    followers: 2321
-    engagement: 1184
-    commentsToLikes: 0.089815
-    id: ck6u3gu9txpfb0j710u4kb7br
+    followers: 43551
+    engagement: 478
+    commentsToLikes: 0.031872
+    id: ck5cc0x7lgioa0i1199vwa1yq
     verified: false
-    hashtags: "#nature, #sunrise, #beach, #sunshine"
-  - username: "lucas_emelo"
+    hashtags: "#ninjakidztv, #ashtonmyler, #ashton, #ninjakids"
+  - username: "barbaraurquizag"
     fullname: >-
-      Lucas De Melo
+      Bárbara Galvão
     bio: >-
-      🎪 Acrobat, aerialist and gymnast 🤸🏻‍♂️ Brazilian
+      Brazilian national team🇧🇷✨ Rhythmic gymnastics❤️
     location: "Brazil"
-    followers: 8156
-    engagement: 708
-    commentsToLikes: 0.028284
-    id: ckap35yqp1p6f0i782z43m3ca
+    followers: 5960
+    engagement: 1017
+    commentsToLikes: 0.047356
+    id: ck6u3gt5oxp8s0j71rhlxllrl
     verified: false
-    hashtags: "#tbt"
+    hashtags: "#cbginastica, #caixa, #timebrasil, #caixaesportes"
   - username: "jade_barbosa"
     fullname: >-
       Jade Barbosa
     bio: >-
       Flamengo/ Brazilian Gymnast All-around World Medalist Vault World Medalist 📩 jadebarbosacontato@gmail.com
     location: "Brazil"
-    followers: 693711
-    engagement: 143
-    commentsToLikes: 0.010768
+    followers: 681269
+    engagement: 174
+    commentsToLikes: 0.010486
     id: ck5zu5pgk1qa00i14yjet8hn2
     verified: true
-    hashtags: "#chalkgirl, #gym, #publi, #gymnastics"
+    hashtags: "#chalkgirl, #gymlife, #gymnastics, #2010"
+  - username: "axel_augis"
+    fullname: >-
+      Axl 🙈🙉🙊
+    bio: >-
+      📍 Montréal 🗼 Raised in the parisian jungle 🤸🏾‍♂️ Olympian gymnast in Rio de Janeiro 2016 🎪 Artist at Cirque du soleil
+    location: "Brazil"
+    followers: 6621
+    engagement: 675
+    commentsToLikes: 0.014402
+    id: ck6ui331dcrzc0j71bnp40331
+    verified: false
+    hashtags: "#cirquedusoleil, #cirquefam, #sunset, #smile"
+  - username: "dudaarakaki"
+    fullname: >-
+      Duda Arakaki
+    bio: >-
+      Brazilian national team 🇧🇷 Rhythmic Gymnastics Youth Olympic Games 2018✨ 17yo
+    location: "Brazil"
+    followers: 7257
+    engagement: 906
+    commentsToLikes: 0.044125
+    id: ck6u3guc2xpgk0j717h8bbqmw
+    verified: false
+    hashtags: "#tbt, #grbrasil"
+  - username: "danielopitt"
+    fullname: >-
+      Dani
+    bio: >-
+      🌍 Tarragona, Spain •CrossFit L-1 •Crossfit Gymnastics 🦍Owner/coach @jungleprogram_ • PROZIS código dto.👉🏽 DANIELO
+    location: "Brazil"
+    followers: 8416
+    engagement: 1036
+    commentsToLikes: 0.020964
+    id: ck0tvwa51d2c60i190r1zlsn7
+    verified: false
+    hashtags: "#love, #followme, #trainwild, #crossfitaddict"
   - username: "payton_delu"
     fullname: >-
       Payton Delu Myler
     bio: >-
-      Payton Delu Myler is a 1st Degree Black Belt, level 8 gymnast, and @Paxton_myler’s twin sister. She’s 10 years old & an awesome ninja on @ninjakidztv
+      Hi I'm Payton! Black Belt & Level 8 Gymnast💪🤸‍♂️ 11 years old & I love Dolphins🐬 💁‍♀️ Ninja on @ninjakidztv Managed by Mom!
     location: "Brazil"
-    followers: 33170
-    engagement: 636
-    commentsToLikes: 0.032048
+    followers: 46934
+    engagement: 598
+    commentsToLikes: 0.032874
     id: ck5cc0whvgims0i11wjfmdmli
     verified: false
-    hashtags: "#ad, #ninjakids, #paytondelu, #ninjakidztv"
+    hashtags: "#paytonmyler, #ad, #ninjakidz, #ninjakidztv"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Russia in 2023
+title: Top 10 Cinema TikTok Influencers In Russia In 2023
 description: >-
-  Find top cinema TikTok influencers in Russia in 2023. Most popular hashtags: #cinema #cinema4d #animals.
+  Find top cinema TikTok influencers in Russia in 2023. Most popular hashtags: #cinema #challenge #magic.
 platform: TikTok
-hits: 12
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 12 TikTok influencers like this in Russia for you to connect with.
+hits: 15
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 15 TikTok influencers like this in Russia for you to work with.
 profiles:
   - username: "6kformat"
     fullname: >-
@@ -18,16 +18,16 @@ profiles:
     commentsToLikes: 0.009800
     id: ck9ux0vz6y6bf0j78qr6cu228
     verified: false
-    hashtags: "#tiktok, #marvel, #cinema, #kino"
+    hashtags: "#cinema, #fantastic, #tiktok, #super"
   - username: "film_serial_moment"
     fullname: >-
       film_serial_moment
     bio: >-
       
     location: "Russia"
-    followers: 2932
-    engagement: 634
-    commentsToLikes: 0.006676
+    followers: 2880
+    engagement: 627
+    commentsToLikes: 0.006649
     id: ckbepqsug6wel0j23pdqj6lvg
     verified: false
     hashtags: ""
@@ -37,94 +37,94 @@ profiles:
     bio: >-
       3d artist
     location: "Russia"
-    followers: 2657
-    engagement: 1156
-    commentsToLikes: 0.097319
+    followers: 4363
+    engagement: 236
+    commentsToLikes: 0.030942
     id: cka5xts6ufde10i78fkpzap1s
     verified: false
-    hashtags: "#cinema4dart, #motiondesign, #3dart, #cinema4d"
-  - username: "loudrender"
-    fullname: >-
-      Peter
-    bio: >-
-      3D designer
-    location: "Russia"
-    followers: 17900
-    engagement: 520
-    commentsToLikes: 0.028776
-    id: cka0hbq9c8keb0i78xa99d767
-    verified: false
-    hashtags: "#artist, #cinema4d, #render, #3d"
-  - username: "daennii"
-    fullname: >-
-      dæn
-    bio: >-
-      photographer inst: daennii 📹
-    location: "Russia"
-    followers: 7111
-    engagement: 1604
-    commentsToLikes: 0.039230
-    id: ckb9lq3rdefv80j23nhkn0zff
-    verified: false
-    hashtags: "#pov, #fyp, #netflix, #cinema"
-  - username: "design_shavstruk"
-    fullname: >-
-      Мария Шавструк
-    bio: >-
-      🧑‍🎨Про дизайн и маркетинг👩🏼‍💻 Больше пользы в Инст: design_shavstruk
-    location: "Russia"
-    followers: 13500
-    engagement: 728
-    commentsToLikes: 0.135541
-    id: ck80osrp7jrps0j785ldk2awu
-    verified: false
-    hashtags: "#ux, #photoshop, #webdesigner, #ui"
+    hashtags: "#cinema4d, #cinema4dart, #3dart, #motiondesign"
   - username: "ladyginmisha"
     fullname: >-
       Ладыгин Миша
     bio: >-
       ✔ Moscow, Russia🇷🇺 ✔ Young blogger ✔ Stand-Up comedian 🙏Подписывайся на инсту
     location: "Russia"
-    followers: 6980
-    engagement: 561
-    commentsToLikes: 0.260241
+    followers: 6838
+    engagement: 564
+    commentsToLikes: 0.255884
     id: ckb0u2o63jg380j23uvc2vz9s
     verified: false
-    hashtags: "#summer, #moscow, #cinema, #2020"
-  - username: "inspired_natalie"
+    hashtags: "#movie, #belorussia, #attack, #blacklivesmatter"
+  - username: "sofiakrigan"
     fullname: >-
-      inspired_natalie🌈
+      sofiakrigan
     bio: >-
-      Art, Aesthetics, Moodboards, Entertainment, Traveling, Fandoms, Inspiration 🌈
+      Photographer (Moscow, Saint-Petersburg), контент-фотограф
     location: "Russia"
-    followers: 6131
-    engagement: 1137
-    commentsToLikes: 0.020555
-    id: ckbf39inhqxt30j235h3afein
+    followers: 15200
+    engagement: 808
+    commentsToLikes: 0.054012
+    id: ckbfbjf323qts0j23osqez633
     verified: false
-    hashtags: "#fashion, #summer, #art, #tiktoktravel"
+    hashtags: "#moscow, #christmas, #lego, #magic"
   - username: "krik73"
     fullname: >-
       krik73
     bio: >-
       Занимаюсь спортом , здоровый образ жизни , проживаю в городе Ульяновск
     location: "Russia"
-    followers: 7135
-    engagement: 687
-    commentsToLikes: 0.026802
+    followers: 7056
+    engagement: 593
+    commentsToLikes: 0.022119
     id: ckb9nonzuhk760j23p83obs5d
     verified: false
-    hashtags: "#el, #racaille, #chav, #ars"
-  - username: "valerussia69"
+    hashtags: "#challenge, #stayhome, #magic, #chain"
+  - username: "inspired_natalie"
     fullname: >-
-      user3804341589770
+      inspired_natalie🌈
     bio: >-
-      ВСПОМНИМ ВМЕСТЕ!!! Всем, доброго времени суток! 👁️👏🗨️💗🎧🎤
+      Art, Aesthetics, Moodboards, Entertainment, Traveling, Fandoms, Inspiration 🌈
     location: "Russia"
-    followers: 32100
-    engagement: 512
-    commentsToLikes: 0.015237
-    id: ckdbb193564ku0j2391dx3uke
+    followers: 6499
+    engagement: 1043
+    commentsToLikes: 0.014320
+    id: ckbf39inhqxt30j235h3afein
     verified: false
-    hashtags: "#disco, #band, #scotch, #245"
+    hashtags: "#neon, #wanderlust, #urban, #aesthetic"
+  - username: "binarycharm"
+    fullname: >-
+      Binarycharm
+    bio: >-
+      Satisfying sound for motiondesign Music & SFX for media 🎧 More works👇
+    location: "Russia"
+    followers: 20400
+    engagement: 965
+    commentsToLikes: 0.040826
+    id: ckdt4z5tysyay0j23i53ocm59
+    verified: false
+    hashtags: "#motiondesign, #binarycharm, #b3d, #sounddesign"
+  - username: "loudrender"
+    fullname: >-
+      Peter
+    bio: >-
+      3D designer
+    location: "Russia"
+    followers: 19400
+    engagement: 654
+    commentsToLikes: 0.030240
+    id: cka0hbq9c8keb0i78xa99d767
+    verified: false
+    hashtags: "#octane, #3d, #artist, #vibe"
+  - username: "movie_cinema09"
+    fullname: >-
+      Сёма
+    bio: >-
+      5000❎
+    location: "Russia"
+    followers: 4405
+    engagement: 1714
+    commentsToLikes: 0.000651
+    id: ckad3cs6uk1sc0i78tlgrsch4
+    verified: false
+    hashtags: "#sonicthehedgehog, #scottadkins, #foryoupage, #tomhardy"
 ---

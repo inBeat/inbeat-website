@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Sao Paulo in 2023
+title: Top 10 Yoga Instagram Influencers In Sao Paulo In 2023
 description: >-
-  Find top yoga Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #yoga #fitness #saopaulo #tbt.
+  Find top yoga Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #yoga #saopaulo #praia #brasil.
 platform: Instagram
-hits: 36
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 36 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
+hits: 25
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 25 Instagram influencers like this in Sao Paulo, Brazil for you to work with.
 profiles:
-  - username: "memeriadoyoga"
+  - username: "tamysilva.ofc"
     fullname: >-
-      Memeria do Yoga
+      Tamy 🌸
     bio: >-
-      𝙍𝙞𝙧 é 𝙤 𝙢𝙚𝙡𝙝𝙤𝙧 𝙧𝙚𝙢é𝙙𝙞𝙤 ⠀ ⠀ ⠀ 𝘜𝘮 𝘱𝘰𝘶𝘤𝘰 𝘥𝘦 𝘺𝘰𝘨𝘢 𝘦 𝘶𝘮 𝘱𝘰𝘶𝘤𝘰 𝘥𝘦 𝘮𝘦𝘮𝘦 . 📧: memeriadoyoga@gmail.com . @hanumannyogi
+      Parcerias via direct 📱 Proprietaria @macarraodatamy 🍝 Proprietária @studiobelezaft Maquiadora 💋💄 Dancer 👯‍♀️ Assistam os story 🤳🏼🌸❤️ Aracaju ✨
     location: "Brazil"
-    followers: 22781
-    engagement: 794
-    commentsToLikes: 0.052869
-    id: ckap49dag6c6c0i78kml5erka
+    followers: 66159
+    engagement: 566
+    commentsToLikes: 0.943471
+    id: ck6u7yb1hodvd0j71fo0e39qw
     verified: false
-    hashtags: ""
+    hashtags: "#cinelandia, #foto, #mar, #feed"
+  - username: "rotaveg"
+    fullname: >-
+      RotaVEG | Victor
+    bio: >-
+      O RotaVEG é onde compartilho minhas veganices por aí! 🌱 (São Paulo/SP) 🧘‍♂️ Yoga on-line comigo de terças e quintas, às 19h pelo Zoom. Manda direct!
+    location: "Brazil"
+    followers: 61666
+    engagement: 222
+    commentsToLikes: 0.072458
+    id: ck602bgiqh2li0i14kbsilqek
+    verified: false
+    hashtags: "#rotaveg, #chocolife, #germinouoficial, #vegan"
+  - username: "_lilipersonal"
+    fullname: >-
+      Lili Pessoa 🌻
+    bio: >-
+      ▫️ Personal Trainer 🏋🏻‍♀️ ▫️Consultoria Online ▫️fitnesscomlili@gmail.com 📩 ▫️”Chegai ao corpo através da mente ,e a mente através do corpo”. 💭
+    location: "Brazil"
+    followers: 3647
+    engagement: 738
+    commentsToLikes: 0.058813
+    id: ck8t69i25crh90j78gyisjuvz
+    verified: false
+    hashtags: "#core, #treinodepernas, #treino, #treinolivre"
+  - username: "lucianapaesviva"
+    fullname: >-
+      Luciana Paes
+    bio: >-
+      Um milagre no audiovisual contato@caicodequeiroz.com.br Atriz da cia Hiato de SP @cia.hiato Apresentação sesc ao vivo https://youtu.be/LNHmnrOxKSg
+    location: "Brazil"
+    followers: 66452
+    engagement: 436
+    commentsToLikes: 0.050067
+    id: ck5hfq7ctyrdv0i11e0a0wano
+    verified: true
+    hashtags: "#pao, #kennygdeixatudosofisticado, #vida, #justagigolo"
   - username: "saritalazzarini"
     fullname: >-
       Sarita Lazzarini
     bio: >-
       📍São Paulo ✨Healthy Lifestyle 🌸 Welcome 🌸
     location: "Brazil"
-    followers: 41980
-    engagement: 244
-    commentsToLikes: 0.040007
+    followers: 41257
+    engagement: 248
+    commentsToLikes: 0.039874
     id: ckap77eqpixza0i780ph5iy60
     verified: false
-    hashtags: "#vidasaudavel, #doglovers, #dogsofinstagram, #publi"
-  - username: "vanessa.personal"
+    hashtags: "#doglovers, #publi, #dogsofinstagram, #americanbully"
+  - username: "mariscando_"
     fullname: >-
-      Van Chinellato 💪❤
+      Mari Vetrone | Mariscando.com
     bio: >-
-      🔴Personal Trainer 🟢Cheerleader do PALMEIRAS 🔴Pós.Biomecânica, Aval fisica, Psicomotric. 🟢CREF 087514-G/SP ❤Se inscreva no canal !👇😘 #fitness
+      Architect, Traveler & Foodie Inspiração mundo afora ✈ 📍São Paulo, Brasil 📝 Blog & links 👇🏻
     location: "Brazil"
-    followers: 20048
-    engagement: 372
-    commentsToLikes: 0.090800
-    id: ck8t3l4kb3m5k0j78fjwh1608
+    followers: 2988
+    engagement: 487
+    commentsToLikes: 0.064804
+    id: ck138j4qtgh0w0i19pllcapy3
     verified: false
-    hashtags: "#mancha, #allianzparque, #qualidadedevida, #palestrinas"
-  - username: "flaviomonteiro___"
+    hashtags: "#travelcouple, #travelgirlsgo, #beachlovers, #travelwithpurpose"
+  - username: "rafadeieno"
     fullname: >-
-      Flavio Monteiro
+      Nutrição | Rafaella Deieno
     bio: >-
-      @flashstarrj ⚡️ Faça o que é certo, não o que é fácil Escorpiano e surfista de alma 🦂🌊 Espirito de luz ✨
+      🍍Nutrição sem modismo 🍴Receitas 🎓Estudante de Nutrição 8/8 📖@liga_maternoinfantil 📍São Paulo 👇🏻LINKS 👇🏻
     location: "Brazil"
-    followers: 15020
-    engagement: 329
-    commentsToLikes: 0.112611
-    id: ckaortnajop6h0i78sdw95trl
+    followers: 8444
+    engagement: 1084
+    commentsToLikes: 0.375167
+    id: ckaox6gm3bzu30i78zc0bcgl3
     verified: false
-    hashtags: "#flashstarrj, #surf, #gratid, #tbt"
-  - username: "dorisrng"
+    hashtags: "#nutri, #academia, #dieta, #emagrecerdicas"
+  - username: "edi_aysha"
     fullname: >-
-      Dóris Rangel
+      ☀️ Edi Aysha 🌙
     bio: >-
-      Curitiba • São Paulo 🇧🇷 Miss Curitiba 2018 👑 espiritualidade • lifestyle Grupo Zoom Projeto Batom Vermelho
+      🚔 PC/SP ⚖️ Bacharel em Direito 🕉️ YOGA teacher 🧘🏽‍♀️ Aulas individuais, grupos e on-line ♎ Libriana regada a dendê ✨ Espiritualista 🌵 DA MATA 🍃💚🏹
     location: "Brazil"
-    followers: 18703
-    engagement: 441
-    commentsToLikes: 0.542289
-    id: ck5qdg7wmvf5q0i11r0ttflhw
+    followers: 65468
+    engagement: 252
+    commentsToLikes: 0.155807
+    id: ck8td9cmh2fgh0j78u7avjrqo
     verified: false
-    hashtags: "#geckoshostelsorteio, #adote, #curitiba, #ado"
-  - username: "luadovalle"
+    hashtags: "#yogasp, #mulherdemiss, #energia, #ancestralidade"
+  - username: "juniorloborj"
     fullname: >-
-      LUÃ DO VALLE
+      Júnior Lobo
     bio: >-
-      • Ator | Modelo 🎭 • ADM/MKT | ESPM • T|kT0k (130k+) • Eterno aprendiz • São Paulo📍 • Canal no YouTube LV ®
+      📍Rio de Janeiro - Brasil 🇧🇷 ♌🦁 Carioca Fé 🙏🏼 Yoga 🕉 Natureza🌿🌳🏝 Praia / Cachu 🌊🏝⛱🏄🤙 Alimentação🥑🥕🌽🍎🍠🥦 Positividade 🙏🏼✌️ Viagens ✈ Netflix 📺
     location: "Brazil"
-    followers: 45885
-    engagement: 264
-    commentsToLikes: 0.079335
-    id: ck9hbzoxvj4q80j78tf8br63q
+    followers: 55613
+    engagement: 126
+    commentsToLikes: 0.618409
+    id: ck55pbc3ta7lk0i113um6iqk9
     verified: false
-    hashtags: "#ouseuse, #turistando, #brazil, #tendencia"
-  - username: "juliopeixotto"
+    hashtags: "#poa, #positividade, #visiteportoalegre, #serragaucha"
+  - username: "nicolaslibrais"
     fullname: >-
-      Julio Peixoto
+      𝐍𝐢𝐜𝐨𝐥𝐚𝐬 𝐋𝐢𝐛𝐫𝐚𝐢𝐬 💫💫
     bio: >-
-      São Paulo - SP 🔸 All about Pole Dance Instrutor residente @studiometropole Videoaulas/tutoriais⤵️
+      🔹️Bailarino - 7 anos @balletkarinarezende 🔹️Brasil-PR 🇧🇷 🔹️Ballet clássico e contemporâneo ⏰Monitorado 24hrs pela mamãe @fernandalaitanolibrais
     location: "Brazil"
-    followers: 22689
-    engagement: 516
-    commentsToLikes: 0.050218
-    id: ck5zsrbxiz1qy0i14xvknq8c1
+    followers: 13316
+    engagement: 1221
+    commentsToLikes: 0.057383
+    id: ckf5mcjset7d80j23f6yks5sx
     verified: false
-    hashtags: "#poledancerbr, #wegonthepole, #gymnastics, #poledance"
-  - username: "camilakaram"
-    fullname: >-
-      Camila Karam
-    bio: >-
-      Médica, 27 anos, São Paulo 📩 contatocamilakaram@gmail.com 📬 Caixa Postal: 74416 CEP: 01531-970 São Paulo-SP
-    location: "Brazil"
-    followers: 277740
-    engagement: 538
-    commentsToLikes: 0.010182
-    id: ck5cguq5xpl0c0i11t1lo82f3
-    verified: true
-    hashtags: "#modeladores, #tbt, #zzmall, #zzinfluencer"
-  - username: "deborapagnoncelli"
-    fullname: >-
-      🥥  D  É  B  O  R  A  🌴
-    bio: >-
-      Gaúcha em Morro de São Paulo - Bahia Alugo Casa e Pousada. Chama no direct 🤙🏽 🌿@primeira_praia_suites 🌴@voltailhamorro 🌴@tirolesamorrodesaopaulo
-    location: "Brazil"
-    followers: 39668
-    engagement: 119
-    commentsToLikes: 0.025239
-    id: ck5q281h5epdf0i11vlhfnzs6
-    verified: false
-    hashtags: "#gratidao, #morrodesaopaulobahia, #morrodesaopaulo, #bahia"
-  - username: "rotaveg"
-    fullname: >-
-      RotaVEG | Victor
-    bio: >-
-      Não deixe para amanhã o que vc pode comer hoje! O RotaVEG é onde compartilho minhas veganices por aí! 🌱 (São Paulo/SP)
-    location: "Brazil"
-    followers: 61700
-    engagement: 172
-    commentsToLikes: 0.033112
-    id: ck602bgiqh2li0i14kbsilqek
-    verified: false
-    hashtags: "#rotaveg, #vegan, #govegan, #bolovegano"
+    hashtags: "#dance, #dan, #boysdancemagazine, #sissone"
 ---

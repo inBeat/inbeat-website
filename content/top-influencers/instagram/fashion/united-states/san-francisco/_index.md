@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Francisco in 2023
+title: Top 10 Fashion Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top fashion Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #fashion #zaraoutfit.
+  Find top fashion Instagram influencers in San Francisco in 2023. Most popular hashtags: #fashion #sanfrancisco #love #style.
 platform: Instagram
-hits: 182
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 182 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 157
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 157 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
+  - username: "berenabas"
+    fullname: >-
+      Berenabas 🇪🇹
+    bio: >-
+      God over EVERYTHING 🙏🏾 6’1 | Model | Entrepreneur Pronounced: [bar-na-bis] 🗣 Tiktok: 300K+ 👥 15M+ ❤️ Email/DM business inquiry 📧: berenabas@gmail.com
+    location: "United States"
+    followers: 12187
+    engagement: 412
+    commentsToLikes: 0.061809
+    id: ck8wgd2j8h4oh0j78mmmpmrgx
+    verified: false
+    hashtags: "#photography, #california, #melanin, #bayarea"
+  - username: "perrymdoig"
+    fullname: >-
+      Perry M Doig -💎- BVLA
+    bio: >-
+      Fiat Lux Fillmore Crack climbing, trad climbing @arcteryxnorcal APP Member
+    location: "United States"
+    followers: 22601
+    engagement: 157
+    commentsToLikes: 0.032623
+    id: ck0vzljrh9p2i0i19xi2bg3at
+    verified: false
+    hashtags: "#climbing, #bvla, #earpiercing, #gold"
+  - username: "fantvglobal"
+    fullname: >-
+      FAN TV Global Network
+    bio: >-
+      Dean Arcillas President /CEO
+    location: "United States"
+    followers: 19549
+    engagement: 446
+    commentsToLikes: 1.705125
+    id: ck5c92os7ao020i11mroht66p
+    verified: false
+    hashtags: "#fantvglobalnetwork, #fan, #unity, #global"
+  - username: "atulaanjna"
+    fullname: >-
+      Atul's Dance & Fitness Studio
+    bio: >-
+      MUMBAI 📍 INDORE Director - @atuldancestudio . For shoots , privates and choreography mail me at atulaanjna55@gmail.com #atuldance
+    location: "United States"
+    followers: 5763
+    engagement: 1061
+    commentsToLikes: 0.097034
+    id: ck5zy3n49961y0i147omkut15
+    verified: false
+    hashtags: "#instagood, #dance, #reelitfeelit, #reelsvideo"
   - username: "trendenvy"
     fullname: >-
-      Christine Yun | San Francisco
+      Christine Yun
     bio: >-
-      Everyday, effortless chic fashion San Francisco, CA TikTok @trendenvy hello@trendenvy.com
+      Effortless chic fashion & home decor San Francisco, CA 🌎 www.trendenvy.com 🏠 #trendenvyhome & @studiodesignenvy
     location: "United States"
-    followers: 16340
-    engagement: 189
-    commentsToLikes: 0.125679
+    followers: 17149
+    engagement: 153
+    commentsToLikes: 0.094569
     id: ck8t8q47ilcex0j78p3kpqw6a
     verified: false
-    hashtags: "#cardigan, #ad21, #hbdtome, #flowersonflowers"
-  - username: "fearlesshairdresser"
-    fullname: >-
-      Justin Thomas
-    bio: >-
-      
-    location: "United States"
-    followers: 45352
-    engagement: 149
-    commentsToLikes: 0.045833
-    id: ck6tqzhsrvswr0j711to94uoq
-    verified: false
-    hashtags: "#hotheadshairextensions, #fearlesshairdresser, #streetwear, #hypebeast"
-  - username: "marina.rough"
-    fullname: >-
-      Marina Rough
-    bio: >-
-      lifestyle fashion & beauty San Francisco | HI📍 ✉️ roughing.m@gmail.com
-    location: "United States"
-    followers: 11022
-    engagement: 516
-    commentsToLikes: 0.051827
-    id: ckapa05n8u6jf0i78c6398f5o
-    verified: false
-    hashtags: "#lavibes, #ootdgals, #fashioninspo, #stylegoals"
-  - username: "tum_dra"
-    fullname: >-
-      TumDra /タンドラ トリッキング
-    bio: >-
-      Kobe_city Japan Tricking studio TBJXWOT🔥 👇 #tricking #tbjxwot #kobe #kobetricking #acrobat #トリッキング #バク転 #神戸 #バク転教室 #アクロバット #バク宙 👇🙏🇯🇵Access🙏🇯🇵👇
-    location: "United States"
-    followers: 7899
-    engagement: 1666
-    commentsToLikes: 0.010155
-    id: ck14gq6dz6hrz0i1991jdaalg
-    verified: false
-    hashtags: "#acrobat, #sessions, #repost, #train"
-  - username: "nehaltenany"
-    fullname: >-
-      Nehal Tenany
-    bio: >-
-      📍San Francisco Fashion | Travel | Lifestyle 💄✈️🥂 🎧 Co-host @thewokedesi ✍🏽 Blog: Wardrobe Essentials👇🏽
-    location: "United States"
-    followers: 11047
-    engagement: 1075
-    commentsToLikes: 0.091750
-    id: ck5zih6f1fp060i14t0tos3b1
-    verified: false
-    hashtags: "#wedding, #desicouture, #indianbridal, #bayareablogger"
+    hashtags: "#toyotapartner, #winetasting, #beachsunset, #sezaneaddict"
   - username: "arianalauren"
     fullname: >-
       Ariana Lauren
     bio: >-
       ≫ sharing everyday style + petite fashion • romi’s mama ≫ san francisco based ≫ send me a email: arianalaurenblog@gmail.com
     location: "United States"
-    followers: 108948
-    engagement: 91
-    commentsToLikes: 0.057322
+    followers: 106068
+    engagement: 78
+    commentsToLikes: 0.059084
     id: ck0u68sot1a5b0i19qxvhjre9
     verified: false
-    hashtags: "#halloween, #ltkunder100, #pumpkinpatch, #liketkit"
+    hashtags: "#ltkunder100, #liketkit, #romirose, #fallstyle"
   - username: "irinabarol"
     fullname: >-
       Irina Barol | SF Bay Area 🌉
     bio: >-
       | Photographer & Content Creator | Lifestyle • Beauty • Fashion | Based in San Francisco ✉️ getirinahere@gmail.com
     location: "United States"
-    followers: 32950
-    engagement: 303
-    commentsToLikes: 0.020032
+    followers: 40299
+    engagement: 380
+    commentsToLikes: 0.004730
     id: ck6tp90zbii780j71l3v6elmi
     verified: false
-    hashtags: "#ad, #withyou4life, #eucerinus, #lorealparis"
-  - username: "ivanduranphoto"
+    hashtags: "#eatbobos, #dermalogicagiftedme, #smartypartner, #spagirlcocktails"
+  - username: "kate_tova"
     fullname: >-
-      Ivan Duran
+      Artist • San Francisco
     bio: >-
-      Wedding/ Fashion Photographer MagMod Ambassador⚡️ Light and Motion Ambassador Master of WPE 🥇🥇🥇🥇🥉🥉 WPPI 🥇🥇🥈🥈🥉 ASIAWPA 🥇🥈🥈🥉 Portrait Masters 🥇 🥇🥈🥈
+      Kate Tova 💖 Full-time Artist🎨 📍🌺San Francisco For inquiries, please email 💌ArtistKateTova@gmail.com
     location: "United States"
-    followers: 24402
-    engagement: 108
-    commentsToLikes: 0.027114
-    id: ck0vw6xtwsdwm0i19464dfsl3
+    followers: 61076
+    engagement: 475
+    commentsToLikes: 0.051901
+    id: ck5bzhxl0r6h10i11dz9o885l
     verified: false
-    hashtags: "#instalike, #photography, #studiophotography, #stayhome"
-  - username: "j.rachmansf"
+    hashtags: "#stopasianhate, #siliconvalley, #streetart, #facemask"
+  - username: "timurdc"
     fullname: >-
-      Jonathan Rachman
+      Timur Tuğberk
     bio: >-
-      JONATHAN RACHMAN DESIGN, interior designer | Publisher & Ed. in Chief for Di Sini Di Sana | Travel Addict - oh and wysiwyg I’m #honestaf
+      👨‍💻Creative Consultant @designingthedistrict 📍#MIAMI ✈️Travel 🍱Eat 🤹‍♂️Play 🛍Shop 🇺🇸🏳️‍🌈🇹🇷 VOTED 2019 BEST LOCAL INFLUENCER #BestOfGayDC
     location: "United States"
-    followers: 60011
-    engagement: 442
-    commentsToLikes: 0.008666
-    id: ck55nlvi26hiq0i11x1lp2toj
+    followers: 13661
+    engagement: 878
+    commentsToLikes: 0.026552
+    id: ck0w1j2w0jlbr0i1974x3cshd
     verified: false
-    hashtags: "#blastfromthepast, #mom, #jrachman, #paris"
-  - username: "jasmin_soroush"
+    hashtags: "#gay, #dcblogger, #gayboy, #fashioninfluencer"
+  - username: "carol_kaledzera"
     fullname: >-
-      Jasmin Soroush
+      Carol Kaledzera🇲🇼
     bio: >-
-      san francisco based fashion blogger ✉️ jasminwearsblog@gmail.com
+      Malawian 🇲🇼 Sacramento🌴 Makeup Artist💄🎨| self-taught MUA| for inquiries DM or 📩📩 carolkaledzera58@yahoo.com CEO of @vitaalicelashes
     location: "United States"
-    followers: 20042
-    engagement: 142
-    commentsToLikes: 0.094274
-    id: ck0w0n60kf1wk0i198t4hkf2h
+    followers: 20852
+    engagement: 275
+    commentsToLikes: 0.124257
+    id: ck13a5aspopcw0i19vipvzx2s
     verified: false
-    hashtags: "#autumnvibes, #zarastyle, #fallstyle, #parisianchic"
+    hashtags: "#sacramentomodel, #sacramentoartist, #makeupartistsworldwide, #stocktonmakeupartist"
 ---

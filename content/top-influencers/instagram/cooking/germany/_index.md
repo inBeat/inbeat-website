@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Germany in 2023
+title: Top 10 Cooking Instagram Influencers In Germany In 2023
 description: >-
-  Find top cooking Instagram influencers in Germany in 2023. Most popular hashtags: #vegan #healthy #nature.
+  Find top cooking Instagram influencers in Germany in 2023. Most popular hashtags: #munich #menstyle #mensfashion.
 platform: Instagram
-hits: 1027
+hits: 734
 text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 1027 Instagram influencers like this in Germany for you to pitch.
+text_bottom: Our database holds 734 Instagram influencers like this in Germany for you to work with.
 profiles:
+  - username: "nicolas_aesthetics"
+    fullname: >-
+      Nicolas Enache | Fitness, Cooking & Health
+    bio: >-
+      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
+    location: "Germany"
+    followers: 107721
+    engagement: 431
+    commentsToLikes: 0.007534
+    id: ck5hdm6dio6r40i11vzge88qv
+    verified: false
+    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
   - username: "jonas.vonier"
     fullname: >-
       Jonas Vonier
     bio: >-
       🇩🇪Top 5 Mister Germany 🌹19 👨🏼‍🍳cooking is my passion 🏋️‍♀️Gym addicted 🐕Animal lover 📸Model 📍Freudenstadt | Stuttgart
     location: "Germany"
-    followers: 10858
-    engagement: 598
-    commentsToLikes: 0.110773
+    followers: 10519
+    engagement: 626
+    commentsToLikes: 0.109889
     id: ck134z0d7yvuh0i19v13k93jr
     verified: false
-    hashtags: "#menwithlonghair, #longhairmen, #longhairman, #stuttgart"
-  - username: "laurinkrausz"
+    hashtags: "#menwithlonghair, #hamburg, #menstyle, #stuttgart"
+  - username: "nitis.mum.life"
     fullname: >-
-      Laurin Krausz 🌱
+      𝐀 𝐍 𝐈 𝐓 𝐀 || 𝐌𝐎𝐌𝐅𝐋𝐔𝐄𝐍𝐂𝐄𝐑
     bio: >-
-      Model | Cooking | BA Finance UZH🇨🇭 @spinmodelmanagement (MA) @urbanfarmerbowls 🚛
+      𝖬𝖮𝖬𝖫𝖨𝖥𝖤 | 𝖪𝖨𝖣𝖲 | 𝖥𝖮𝖮𝖣 𝖬𝗈𝗆 𝗈𝖿 ✌🏼| 𝖶𝗂𝖿𝖾 𝗍𝗈 @deejaydino 𝖣𝗈𝗇‘𝗍 𝖿𝗈𝗅𝗅𝗈𝗐 𝗍𝗁𝖾 𝗁𝗒𝗉𝖾 - 𝖻𝖾 𝖽𝗂𝖿𝖿𝖾𝗋𝖾𝗇𝗍 🖤 𝖬𝖺𝗂𝗅𝗌: 𝗇𝗂𝗍𝗂𝗌.𝗆𝗎𝗆.𝗅𝗂𝖿𝖾@𝗀𝗆𝗑.𝖽𝖾 #cookingwithniti
     location: "Germany"
-    followers: 26489
-    engagement: 270
-    commentsToLikes: 0.018571
-    id: ck0w1xy05loml0i19tl2xo9nz
+    followers: 11714
+    engagement: 144
+    commentsToLikes: 0.154200
+    id: ck8t2x5n9117z0j780lcv6thl
+    verified: false
+    hashtags: "#daughter, #birthdaygirl, #happymonday, #munich"
+  - username: "giuliasiegel"
+    fullname: >-
+      Giulia Siegel
+    bio: >-
+      𝕄𝔼ℕ𝕊ℂℍ 𝕄𝔸𝕄𝔸 𝕃𝕀𝔼𝔹𝔼 𝕃𝔸ℂℍ𝔼ℕ Meine Seite,meine Regeln,habt Spaß & bleibt Fair♥️ @greenbill 💚 @cookingmamagiulia 👩‍🍳
+    location: "Germany"
+    followers: 219433
+    engagement: 162
+    commentsToLikes: 0.048568
+    id: ck13cdtf5zv7j0i19cobquy40
     verified: true
-    hashtags: "#friendsnotfood"
-  - username: "_mk_cooks"
+    hashtags: "#tapehairextentions, #womensupportingwomen, #maledives, #sexyhairstyle"
+  - username: "bella_isadora_official"
     fullname: >-
-      MK-cooks
+      Isi
     bio: >-
-      Just a blog about my cooking&baking passion❤️ My Recipes 📝 „People who love to eat, are always the best people“-Julia Child
+      🔪 @isicorpsepaintertattoo 🥘 @isi_cooking_ 📸@isadora_photography 💍🖤@julian.siebert ⚫️Germany / Munich
     location: "Germany"
-    followers: 9196
-    engagement: 960
-    commentsToLikes: 0.085999
-    id: ck9hb3g82f8jc0j78npj3fype
+    followers: 156954
+    engagement: 242
+    commentsToLikes: 0.023100
+    id: ck0ty7ylhluer0i19np8hoibu
     verified: false
-    hashtags: "#tu, #selfmade, #plantbased, #foodie"
-  - username: "kuestenglut"
+    hashtags: "#tattoo, #tattooed, #bellaisadora, #munichinked"
+  - username: "isabellafabercastell"
     fullname: >-
-      Sascha (Küstenglut)
+      Isabella Maria Faber-Castell
     bio: >-
-      🔥 Outdoor Cooking Stories 🇩🇪Sascha grillt einfach gerne 🤓 🔥 Turn on notifications ↗️ 📧 Kontakt: sascha@kuestenglut.de #grillverrückt #firesquad
+      🇧🇬 🇭🇷 🇩🇪 based in Berlin @cookingwithfabercastell
     location: "Germany"
-    followers: 98998
-    engagement: 290
-    commentsToLikes: 0.073115
-    id: ck0txr6qek8bv0i19t217w0zf
+    followers: 5930
+    engagement: 1303
+    commentsToLikes: 0.053727
+    id: ck5q89eax52k60i11s3ihsont
     verified: false
-    hashtags: "#bestseller, #asado, #steaklovers, #grillverr"
+    hashtags: "#bulgaria"
   - username: "umihito.vlog"
     fullname: >-
       Ümit Memisoglu
     bio: >-
       Original Cooking-Vlogs jeden Sonntag 😋 Every sunday | Her pazar 🍳 Blog und Impressum:
     location: "Germany"
-    followers: 469980
-    engagement: 922
-    commentsToLikes: 0.014082
+    followers: 558296
+    engagement: 994
+    commentsToLikes: 0.011418
     id: ck0vv0vj0n0uy0i19cuv0owxk
     verified: false
-    hashtags: "#oonified"
-  - username: "nordstrand_nf"
+    hashtags: "#mydinnerforone, #1000flavorsofgermany, #kenwood"
+  - username: "kuestenglut"
     fullname: >-
-      Feluca
+      Sascha (Küstenglut)
     bio: >-
-      #Nordstrand🌴Island Life 🌊 🌅Sunsets ✍️ Poetry My stories are about my life at the coast☀️gardening👩🏻‍🌾 cooking 🍳 baking 🍰 and my dogs 🐶 !
+      🔥 Outdoor Cooking Stories 🇩🇪Sascha grillt einfach gerne 🤓 🔔 an und nichts verpassen ↗️ 📧 Kontakt: sascha@kuestenglut.de #grillverrückt #firesquad
     location: "Germany"
-    followers: 8241
-    engagement: 1457
-    commentsToLikes: 0.094587
-    id: ck15ttauejset0i1900xex1de
+    followers: 118314
+    engagement: 138
+    commentsToLikes: 0.036393
+    id: ck0txr6qek8bv0i19t217w0zf
     verified: false
-    hashtags: "#naturephotography, #sonnenuntergang, #skyphotography, #nordseeliebe"
+    hashtags: "#ribeye, #bbq, #steak, #barbecue"
   - username: "eatsleepgreen"
     fullname: >-
       Susanna Bingemer
     bio: >-
       🌱Food writer, book author and blogger 🌱Plantbased cooking. Urbangardening. 🌱Green lifestyle for body and planet. Latest book:“Fette Helden“, GU Verlag
     location: "Germany"
-    followers: 35164
-    engagement: 174
-    commentsToLikes: 0.208384
+    followers: 35093
+    engagement: 200
+    commentsToLikes: 0.209340
     id: ck5bzyd3ms2r10i11elv0gwk9
     verified: false
-    hashtags: "#mehrrealita"
-  - username: "pattikocht"
+    hashtags: "#gesundundlecker, #veganerezepte, #foodspiration, #bonappetit"
+  - username: "donlou_life"
     fullname: >-
-      Patti 🙋‍♀️ vegan foodie 🌱✌🏻
+      Streetstyle ☆ Sneakershead ☆
     bio: >-
-      germany/munich/27 cooking/baking/eating homecooked healthy stuff - vegan 🌱 🍓🍅🍋🍏🍌🍒🍇🍐🍍🍓 daily foodpics 🍽
+      Fashion and Sneaker's Inspiration Inquiries Only Email 📧 Content Creator 📸 Sneaker Seller Born in 🇵🇹, 📍in 🇩🇪 Cooking site ➡️ @cooking.by.donlou
     location: "Germany"
-    followers: 7331
-    engagement: 495
-    commentsToLikes: 0.131725
-    id: ck8t6dh85d7gz0j78vfd5hhop
+    followers: 7359
+    engagement: 686
+    commentsToLikes: 0.213146
+    id: ck8tbs4ilwwx00j78ngjl8do6
     verified: false
-    hashtags: "#lunchbox, #pumpkin, #veganfoodie, #minga"
-  - username: "neleburgemstr"
-    fullname: >-
-      Nele
-    bio: >-
-      📍Germany - Frankfurt/Wi Model: East West Models 📚Psychology 🏃🏼‍♀️Sport 💚Nature ✈️Travelling 🍳Cooking 🎨Painting ☕️Coffee 💌neleburgemeister@outlook.de
-    location: "Germany"
-    followers: 36641
-    engagement: 314
-    commentsToLikes: 0.040572
-    id: ck15tcq8lhgch0i19sousuqyt
-    verified: false
-    hashtags: "#modeling, #blau, #girls, #skin"
-  - username: "lars_likes_food"
-    fullname: >-
-      Lars
-    bio: >-
-      🔅Dortmund - Germany 🍔 foodblog 🐟 pescetarian; 🧀 vegetarian; 🥬 vegan 💰 non profit - just cooking 👨🏼 a bit of my life . #foodblogger
-    location: "Germany"
-    followers: 4307
-    engagement: 763
-    commentsToLikes: 0.126159
-    id: ck0vuyibemq8p0i19il4pqyhr
-    verified: false
-    hashtags: "#tomate, #healthyfood, #nudeln, #veggiefood"
+    hashtags: "#berlin, #sneakerfreak, #sneakerhead, #ootdfashion"
 ---

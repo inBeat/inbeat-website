@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Brazil in 2023
+title: Top 10 Beauty Instagram Influencers In Brazil In 2023
 description: >-
-  Find top beauty Instagram influencers in Brazil in 2023. Most popular hashtags: #publi #challenge #instagood.
+  Find top beauty Instagram influencers in Brazil in 2023. Most popular hashtags: #ootd #makeup #moda.
 platform: Instagram
-hits: 3681
+hits: 3433
 text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 3681 Instagram influencers like this in Brazil for you to pitch.
+text_bottom: inBeat has 3433 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "thamyscoelho_"
+  - username: "markitocosta"
     fullname: >-
-      Thamyres Coelho
+      Markito Costa
     bio: >-
-      •Não pare até se orgulhar!✨ @pfelipemotta❤️ fashion| beauty and makeup💄 🤝parceria via direct 🎥vídeo/ #challenge toda semana✨
+      BEAUTY
     location: "Brazil"
-    followers: 4305
-    engagement: 2204
-    commentsToLikes: 0.137660
-    id: ck8t8gailkd0h0j789c98fhqb
+    followers: 64740
+    engagement: 116
+    commentsToLikes: 0.045736
+    id: ck15pizpuy4hq0i193ogzz27i
     verified: false
-    hashtags: "#uauchallenge, #megustachallenge, #festaemipanemachallenge, #euphoriachallenge"
+    hashtags: "#markitocostamakeup"
+  - username: "sydsugoi.cosplay"
+    fullname: >-
+      S Y D S U G O I
+    bio: >-
+      Cosplayer • Digital Creator • ⁣Nostalgia Queen 📰Feat: DC Comics, Adult Swim, Rare Beauty If Sydsugoi posts it, she produced it.
+    location: "Brazil"
+    followers: 8176
+    engagement: 709
+    commentsToLikes: 0.040517
+    id: cl34yk06l0kwi0i23j89oie1b
+    verified: false
+    hashtags: "#blackcosplayersrock, #blackwomenincostume, #sidebysidecosplay, #blackgirlcosplay"
+  - username: "beautydaduda"
+    fullname: >-
+      Duda
+    bio: >-
+      +19M curtidas +546K seguidores no TikTok Contato: beautydaduda@imgx.expert Owner: @beautyprati 👇🏻CLICA NO LINK E GARANTE A TUA ARGILA👇🏻
+    location: "Brazil"
+    followers: 103412
+    engagement: 614
+    commentsToLikes: 0.018485
+    id: ckf5n4dyfwoyx0j23ai7wt0ie
+    verified: false
+    hashtags: "#pele, #bffgarnier, #publi, #solarexpertiseantioleosidade"
+  - username: "petit_sophia"
+    fullname: >-
+      sophia d’avila 💋
+    bio: >-
+      🇧🇷| RS fashion content • beauty • lifestyle• trips • assista os stories ✨| focused on me
+    location: "Brazil"
+    followers: 54430
+    engagement: 252
+    commentsToLikes: 0.145205
+    id: ck15qxf2i546v0i19rlo9iv32
+    verified: false
+    hashtags: "#maquiagem, #lookinspira, #outfitoftheday, #look"
+  - username: "larissatomasia"
+    fullname: >-
+      Larissa Tomásia
+    bio: >-
+      BBB22 🍋 | Model | Beauty | Lifestyle 📫 Cx postal 37 CEP: 55700-000 Assessoria: 📧 larissatomasia@vox.plus 📲 (11) 96615-4180
+    location: "Brazil"
+    followers: 1058112
+    engagement: 110
+    commentsToLikes: 0.011703
+    id: ckap7r7kml7hk0i7833sy38oq
+    verified: false
+    hashtags: "#modera, #jeans, #mood, #publi"
+  - username: "_feamorim"
+    fullname: >-
+      Fernanda Amorim
+    bio: >-
+      26, Beauty and fashion 👗💄 •Moda, Beleza, Makes, Lifestyle• Batalha de looks 👚👙👠 Contato: Fernanda.amorim96@yahoo.com.br 📩📬
+    location: "Brazil"
+    followers: 61073
+    engagement: 106
+    commentsToLikes: 0.201346
+    id: ck9ha92efbmg50j78iuttzoo5
+    verified: false
+    hashtags: "#ootd, #littleblackdress, #saopaulo, #lookjantar"
+  - username: "sofsenisi"
+    fullname: >-
+      SOF | FASHION INSPO + IG TIPS
+    bio: >-
+      📚 UofGH | Business ✨Diary of my life: Fashion, Beauty, Eats & Coffee 💌Collab: sofiasenisi@gmail.com 📍Canada ￼Ossesso Brand Ambassador: SOFIA10
+    location: "Brazil"
+    followers: 6147
+    engagement: 1291
+    commentsToLikes: 0.199967
+    id: ckap0fxu8q3qd0i781qxasrxq
+    verified: false
+    hashtags: "#microinfluencer, #andsave, #fashionblogger, #detailsoftheday"
+  - username: "olaju_"
+    fullname: >-
+      julia gimenez
+    bio: >-
+      🔗 22 | SP alternative style content, beauty and lifestyle ✉ julia99gimenez@gmail.com or dm #olajulook
+    location: "Brazil"
+    followers: 32111
+    engagement: 438
+    commentsToLikes: 0.077611
+    id: ck9hcj61flnwb0j7834ibf8bg
+    verified: false
+    hashtags: "#sheingals, #alternativegirl, #shein, #alternativefashion"
   - username: "euosol"
     fullname: >-
       ⠀⠀⠀S O L ☀️
     bio: >-
-      SSA 🌴 FASHION • BEAUTY • LIFESTYLE • EDITION  PACOTE 5 FILTROS 👇🏾
+      🔅FASHION • BEAUTY • LIFESTYLE • PHOTOGRAPHY  📍SF | Salvador, BA 💌junioormatarazzo@gmail.com 👇🏾 PACK COM 5 FILTROS
     location: "Brazil"
-    followers: 22411
-    engagement: 1190
-    commentsToLikes: 0.193451
+    followers: 22711
+    engagement: 838
+    commentsToLikes: 0.148992
     id: ck8t5ckqu9ngl0j7824nwj8lj
     verified: false
-    hashtags: "#aloecachos, #duetto, #tbt, #blackisking"
-  - username: "liberdadecrespa"
+    hashtags: "#comvcnoenem, #ad, #publicidade, #uigafas"
+  - username: "giovannasilk"
     fullname: >-
-      GISELE MARTINS 🌸
+      Giovanna Silk
     bio: >-
-      Beauty Hair & Makeup 🤩 Crespa 3C 4A ✊🏾💕 TOP MIGS @salonlinebrasil 👸🏾❤ 💌contato: giselemartins@pgbagency.com USE #liberdadecrespa 💕
+      fashion. lifestyle. beauty ✨ 📬contato: giovanna.silk@my.com Store: @silksbrand Brasília | Brazil
     location: "Brazil"
-    followers: 29189
-    engagement: 914
-    commentsToLikes: 0.062019
-    id: ck8t3y3i34wwb0j784gqu002s
+    followers: 22431
+    engagement: 972
+    commentsToLikes: 1.116961
+    id: ckaoui3im0d7z0i78pj3iqhrp
     verified: false
-    hashtags: "#rizos, #btredrose, #makeuppelenegra, #todecacho"
-  - username: "sabriinareiis"
-    fullname: >-
-      SABRINA REIS ✨
-    bio: >-
-      🇧🇷🇺🇸 ▫️Lifestyle • Beauty • Dreamer 🌵Embaixadora @caqtoscosmeticos ✉️ Contact | Direct
-    location: "Brazil"
-    followers: 48004
-    engagement: 823
-    commentsToLikes: 0.066465
-    id: ckap7xv4hm1rz0i78to9p1zgz
-    verified: false
-    hashtags: "#capixabando, #soulcapixaba, #vitoriaes, #vistacapixaba"
-  - username: "thaylacalazans"
-    fullname: >-
-      Thayla Calazans
-    bio: >-
-      - modelo fotográfica e influencer - lifestyle - beauty - looks ✨ - nova friburgo, RJ 📍 - contato via direct
-    location: "Brazil"
-    followers: 88530
-    engagement: 725
-    commentsToLikes: 0.529733
-    id: ck6tr4y9iwygl0j71a0va76gp
-    verified: false
-    hashtags: ""
-  - username: "_eugabialmeida"
-    fullname: >-
-      G A B I
-    bio: >-
-      🇧🇷 SP 👄 beauty influencer 🎨 Maquiadora @gabriellealmeidamakeup 💇🏾‍♀️ Embaixadora de cabelos @eudora 💌 contatogabriellealmeida@gmail.com
-    location: "Brazil"
-    followers: 70696
-    engagement: 694
-    commentsToLikes: 0.047955
-    id: ckaosz305tniu0i78inrnrnz2
-    verified: false
-    hashtags: "#curls, #afrohair, #cacheadas, #maquiagempelenegras"
-  - username: "assisbea"
-    fullname: >-
-      Beatriz Assis
-    bio: >-
-      Beauty | Fashion | Lifestyle Rio 📍 assessoria.assisbea@outlook.com 📩 Follow T!kT*k👇🏼
-    location: "Brazil"
-    followers: 73210
-    engagement: 673
-    commentsToLikes: 0.438669
-    id: ck6u5ti5obne90j71cwp5sgt1
-    verified: false
-    hashtags: "#tbt"
-  - username: "maysaregio"
-    fullname: >-
-      +a
-    bio: >-
-      18, Estudante de Direito • JACUPIRANGA/SP fashion&beauty | dicas | mamãe da @pitchulalinda ✨ 📲 Parcerias | Permutas pelo link 👇🏻
-    location: "Brazil"
-    followers: 10742
-    engagement: 2087
-    commentsToLikes: 0.788094
-    id: ck8t3x3vs4t1s0j785xqvftki
-    verified: false
-    hashtags: "#lookinspiracao, #1peca3look, #amor, #challenge"
-  - username: "tustephaniy_"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀TUANE STEPHANIY ✨
-    bio: >-
-      ⇡ ASSISTA OS STORIES ⇡ Hair • Fashion • Beauty • Lifestyle 📍Guarulhos - Sp Contato Via e-mail ou direct 📥 Cupons ↓
-    location: "Brazil"
-    followers: 20961
-    engagement: 1408
-    commentsToLikes: 2.046570
-    id: ck9wfl9xvpcu30j78yt6m0eg1
-    verified: false
-    hashtags: "#glamboxcleanbeauty, #estuproculposonaoexiste, #justic, #halloweenchallenge"
-  - username: "irisleiasantos"
-    fullname: >-
-      Irisléia Santos
-    bio: >-
-      seja luz! ✨🌻 061 📍 22 anos, graduanda e criadora de conteúdo | ▫️Projeto DIA DE PRINCESA 👑 ▫️ @twins.tshirts ▫️parcerias no direct #LifeStyle #Beauty
-    location: "Brazil"
-    followers: 18127
-    engagement: 1390
-    commentsToLikes: 1.951506
-    id: ckf5oyt0s4c1d0j230m7thv18
-    verified: false
-    hashtags: "#piripiri, #blogueirando, #pirinopolis, #pirineus"
+    hashtags: "#reels, #reelsinstagram, #makeup, #explorepage"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers in 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in 2023. Most popular hashtags: #duet #fyp #tattooartist #tattoo.
+  Find top tattoo-artists TikTok influencers in 2023. Most popular hashtags: #tattooartist #tattoo #fyp #tattoos.
 platform: TikTok
-hits: 533
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 533 TikTok influencers like this for you to pitch.
+hits: 513
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 513 TikTok influencers like this for you to contact.
 profiles:
-  - username: "alimarie.art.lady"
-    fullname: >-
-      AliMarie
-    bio: >-
-      lady tattoo artist 🍉Level 28🍉 https://www.redbubble.com/people/SkinFlixTattoo
-    location: "United States"
-    followers: 94300
-    engagement: 2384
-    commentsToLikes: 0.037701
-    id: ck9c01pwio0rs0j78l3br6yxf
-    verified: false
-    hashtags: "#tattoosartist, #tattooartist, #tattoo, #coveruptattoo"
-  - username: "foxy_boots"
-    fullname: >-
-      Foxyboots
-    bio: >-
-      🇨🇦 Tattoo artist / Liberal / Atheist 🏳️‍🌈 Ally / BLM. Trolls deleted.
-    location: "Canada"
-    followers: 10500
-    engagement: 1730
-    commentsToLikes: 0.102798
-    id: ck9skix0v8z0r0j788n9r3406
-    verified: false
-    hashtags: "#femaletattooartist, #tattooeducation, #biden2020, #dumptrump2020"
-  - username: "brandon_draws"
-    fullname: >-
-      Brandon✏️
-    bio: >-
-      27. London🇬🇧Tattoo artist Colour pencil drawings✏️ 🔻I sell my art on prints🔻
-    location: "United Kingdom"
-    followers: 28300
-    engagement: 2688
-    commentsToLikes: 0.118927
-    id: ckd0w55vbkf6x0j236x8cafra
-    verified: false
-    hashtags: "#create, #pencil, #colourpencil, #tiger"
-  - username: "poppyrose783"
-    fullname: >-
-      poppyrose783
-    bio: >-
-      Tattoo artist, photographer. Iceg0dess-(GF/TTwife) 🏳️‍🌈 (L)gbt 🏳️‍🌈
-    location: "United States"
-    followers: 5457
-    engagement: 2624
-    commentsToLikes: 0.113685
-    id: cka68dhzmodjh0i78a4v7pinx
-    verified: false
-    hashtags: "#us, #home, #stemlife, #lesbianlife"
-  - username: "yahyajohnny.yj"
-    fullname: >-
-      ♥️Yahya Johnny♥️
-    bio: >-
-      🐰 I❤NY Fashion Model🕴🏻📷📺 7-Jan🎂🎁🎈🎉🍷 Tattoo Artist😎
-    location: "Pakistan"
-    followers: 40500
-    engagement: 2046
-    commentsToLikes: 0.065375
-    id: ck83jzmc0865e0j78qs9ck61a
-    verified: false
-    hashtags: "#foryou, #yahyajohnnyfam, #yahyajohnny, #funnyvideos"
-  - username: "gabby_gh0ul"
-    fullname: >-
-      Gabby Gh0ul
-    bio: >-
-      Dead Meme Queen Tattoo Artist. Cosplayer. No spam likes #blacklivesmatter 🇵🇷
-    location: "United States"
-    followers: 9135
-    engagement: 2867
-    commentsToLikes: 0.039269
-    id: cka6lvfjn4pbv0i7816mezidx
-    verified: false
-    hashtags: "#junkoenoshima, #fyp, #junkochallenge, #anime"
-  - username: "artofjondump"
-    fullname: >-
-      Jonathan Dump
-    bio: >-
-      North Carolina tattoo artist Shop-Best Ink of Fayetteville 🗺 IG: @artofjondump
-    location: "United States"
-    followers: 441700
-    engagement: 1514
-    commentsToLikes: 0.026855
-    id: ckbb0mbv4r15u0j23k28pm7x2
-    verified: false
-    hashtags: "#stitch, #duet"
   - username: "bluerosetattoo"
     fullname: >-
       LilBlueRose
     bio: >-
       ✒️Professional Tattoo Artist 🖋 🌬Louisville, KY💨 Witchy 💀 Woman ⚰️ Lvl28⚰️
     location: "United States"
-    followers: 69700
-    engagement: 2261
-    commentsToLikes: 0.022784
+    followers: 72100
+    engagement: 1861
+    commentsToLikes: 0.043531
     id: ckd5ljrnqvu7n0j23z4jclhy9
     verified: false
-    hashtags: "#happyhalloween, #tattooartist, #tattooedpeopleoftiktok, #myhobby"
-  - username: "chicagospacelll"
+    hashtags: "#stitch, #tattooartist, #tattooartistsoftiktok, #tattoos"
+  - username: "daddyj24"
     fullname: >-
-      Brian Space
+      daddyjpanlilio
     bio: >-
-      Chicago Tattoo Artist,Fashion Designer@_chicagospace_ chicago_bigbankhank InstaG
-    location: ""
-    followers: 2136
-    engagement: 1180
-    commentsToLikes: 0.074587
-    id: ckcv46tznoqqz0j23mnddzenj
+      Stay negative sa covid. Stay positive sa buhay. 🙏🙏🙏 Biker/Tattoo Artist
+    location: "Philippines"
+    followers: 74200
+    engagement: 1824
+    commentsToLikes: 0.377966
+    id: ckb9elqez27vo0j230zi4wzf6
     verified: false
-    hashtags: "#foryourpage, #for, #chicago, #foryour"
+    hashtags: "#vitoriatrail, #imus, #duet, #xup"
+  - username: "foxy_boots"
+    fullname: >-
+      Foxyboots
+    bio: >-
+      🇨🇦 tattoo artist / Atheist / 🏳️‍🌈 Ally / BLM - link to buy shirts below vvvv
+    location: "Canada"
+    followers: 23800
+    engagement: 1458
+    commentsToLikes: 0.162153
+    id: ck9skix0v8z0r0j788n9r3406
+    verified: false
+    hashtags: "#duet, #greenscreen, #tattoos, #stitch"
+  - username: "chelctattoos"
+    fullname: >-
+      ChelC
+    bio: >-
+      MN Tattoo Artist 🏳️‍🌈💍 @space_case Pan/Polyam💖 She/her $ChelCtattoos
+    location: "United States"
+    followers: 14800
+    engagement: 1743
+    commentsToLikes: 0.058130
+    id: ckd6xl5tguj3l0j23b4xeypuj
+    verified: false
+    hashtags: "#greenscreenvideo, #inverted, #studioghibli, #fyp"
+  - username: "brandon_draws"
+    fullname: >-
+      Brandon Also Tattoos
+    bio: >-
+      27. London🇬🇧Tattoo artist Colour pencil drawings✏️ 🔻I sell my art on prints🔻
+    location: "United Kingdom"
+    followers: 36200
+    engagement: 2383
+    commentsToLikes: 0.093326
+    id: ckd0w55vbkf6x0j236x8cafra
+    verified: false
+    hashtags: "#halloween, #pen, #flower, #inktober"
+  - username: "mr.koo"
+    fullname: >-
+      Mr.koo
+    bio: >-
+      MR.KOO TORONTO TATTOO ARTIST IG: @release852
+    location: "Canada"
+    followers: 5375
+    engagement: 1325
+    commentsToLikes: 0.193304
+    id: cka0l394npdzo0i78e23fbh2z
+    verified: false
+    hashtags: "#tattoolover, #money, #hustle, #handtattoo"
+  - username: "mr.tattooguy1"
+    fullname: >-
+      Everett
+    bio: >-
+      goofy tattoo artist CEO of tiktoker tattoo SC: Mrtattooguy1
+    location: "United States"
+    followers: 310900
+    engagement: 1323
+    commentsToLikes: 0.039121
+    id: ckcprmig6lhv80j23pzl0pzrh
+    verified: false
+    hashtags: "#lmao, #stitch, #skiptherinse, #funnyvideos"
   - username: "eli_jorgensen"
     fullname: >-
       eli_jorgensen
     bio: >-
       33 | Tattoo artist, illustrator, emotional about everything. They/Them
     location: "United States"
-    followers: 12500
-    engagement: 1189
-    commentsToLikes: 0.092186
+    followers: 20600
+    engagement: 1286
+    commentsToLikes: 0.069516
     id: ckcjibry2cq620j23eicft11r
     verified: false
-    hashtags: "#seattle, #pnw, #movies, #spooky"
+    hashtags: "#elijorgensen, #drawing, #seattletattooartist, #queertattooartist"
+  - username: "lucegrey"
+    fullname: >-
+      Luce
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Tattoo Artist lucegrey.bigcartel.com
+    location: "United Kingdom"
+    followers: 413200
+    engagement: 1217
+    commentsToLikes: 0.030095
+    id: ckcjnrpshfkkn0j23tnnkcluw
+    verified: false
+    hashtags: "#fyp, #drawing, #inked, #tattooartist"
+  - username: "ceciliamarietattoos"
+    fullname: >-
+      Cecilia Marie
+    bio: >-
+      🌙Tattoo Artist 🌌Future Tattoo Therapist ✨Army Combat Veteran 💕Kindness🕸Witch
+    location: "United States"
+    followers: 14900
+    engagement: 1369
+    commentsToLikes: 0.053516
+    id: ckd6wvwcjt4x60j23lbbo8d09
+    verified: false
+    hashtags: "#757, #fyp, #ceciliamarietattoos, #witchesoftiktok"
 ---

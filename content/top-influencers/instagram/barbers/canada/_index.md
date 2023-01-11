@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Canada in 2023
+title: Top 10 Barbers Instagram Influencers In Canada In 2023
 description: >-
-  Find top barbers Instagram influencers in Canada in 2023. Most popular hashtags: #barber #barberlife #haircut #quarantine.
+  Find top barbers Instagram influencers in Canada in 2023. Most popular hashtags: #menshair #canada #haircut.
 platform: Instagram
-hits: 38
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 38 Instagram influencers like this in Canada for you to connect with.
+hits: 18
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 18 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "imvelvetbones"
+  - username: "marcoprinceton"
     fullname: >-
-      ♥ 𝓥𝓮𝓵𝓿𝓮𝓽 𝓑𝓸𝓷𝓮𝓼 ♥
+      Princeton // Toronto Barber 👑
     bio: >-
-      MONTRÉAL DM for business inquiries💌 Barber apprentice at @lamaisonprivee💈 Follow @velvetthebarber ✂️
+      🏆 HALL OF FADES STUDIO COMING SOON! 🏆 ✪ Award Winning Barber ⬇️ LINK TO BOOK // YOUTUBE ⬇️
     location: "Canada"
-    followers: 16700
-    engagement: 506
-    commentsToLikes: 0.060269
-    id: ck5pzvs7y2zq20i11oi0du2mr
+    followers: 6805
+    engagement: 657
+    commentsToLikes: 0.071743
+    id: ck5bw3mmzkxnv0i11r25qxkpd
     verified: false
-    hashtags: "#bluehair, #metal, #tattooedgirls, #aesthetic"
+    hashtags: "#thebarberprince, #royalvseveryone, #halloffadesstudio"
   - username: "farzadthehappybarber"
     fullname: >-
       Farzad Salehi
     bio: >-
       Barber, motorcycle rider, whisky lover, lover of life......born in Iran, proud Canadian and Vancouverite since 1994 🇨🇦💈🏍♥️ @farzadsbarbershop
     location: "Canada"
-    followers: 83166
-    engagement: 164
-    commentsToLikes: 0.045911
+    followers: 86372
+    engagement: 165
+    commentsToLikes: 0.039857
     id: ck5hffyfuxaev0i11otorm50m
     verified: false
-    hashtags: "#thehappybarber, #realworld, #barbering, #menshair"
-  - username: "marcoprinceton"
+    hashtags: "#barbering, #thehappybarber, #shave, #keepitsimple"
+  - username: "aztroo"
     fullname: >-
-      Toronto Barber • Princeton
+      Enrique Tapia
     bio: >-
-      ✪ Award Winning Barber ⬇️ Link Down Below To Book ⬇️
+      🔪🏰 Barber / Visual artist Endurance running YouTube: 3versince (5M+) Creative director @3versince 23
     location: "Canada"
-    followers: 7010
-    engagement: 752
-    commentsToLikes: 0.054994
-    id: ck5bw3mmzkxnv0i11r25qxkpd
+    followers: 52537
+    engagement: 556
+    commentsToLikes: 0.009989
+    id: ck5pzj2x5182s0i114zr3uddz
     verified: false
     hashtags: ""
-  - username: "the_barbers_son"
-    fullname: >-
-      💈THE_BARBERS_SON💈
-    bio: >-
-      SPONSORED BARBER/ FUNNY GUY /@CUTNLINE MERCH 🔥CLICK THE LINK BELOW👇👇💈
-    location: "Canada"
-    followers: 18840
-    engagement: 202
-    commentsToLikes: 0.044301
-    id: ck5hrwtpavm4l0i1178rgdj29
-    verified: false
-    hashtags: "#beard, #barbershopconnect, #barbersinctv, #haircut"
-  - username: "theniteowlbarbershop"
-    fullname: >-
-      ○ THE NITE OWL BARBER SHOP ○
-    bio: >-
-      #barbershop #mensstyle #vintage #toronto 🖤Closed For Now! // LONG BRANCH // BROCKTON SHAVE • CUT • BEARD TRIM ⤵ Book in ⤵
-    location: "Canada"
-    followers: 21272
-    engagement: 172
-    commentsToLikes: 0.019597
-    id: ck5cf9abamide0i119ywauaht
-    verified: false
-    hashtags: "#barber, #toronto, #barbershop, #covid"
-  - username: "iamsinaamirii"
-    fullname: >-
-      sina amiri
-    bio: >-
-      𝑊ℎ𝑒𝑟𝑒 𝑓𝑜𝑐𝑢𝑠 𝑔𝑜𝑒𝑠 𝐸𝑛𝑒𝑟𝑔𝑦 𝑓𝑙𝑜𝑤𝑠. 📍toronto 𝑊𝑒 𝑎𝑟𝑒 𝑤𝑖𝑛𝑛𝑒𝑟𝑠.
-    location: "Canada"
-    followers: 27215
-    engagement: 671
-    commentsToLikes: 0.045928
-    id: ck602gm06hcn60i14kurkmaub
-    verified: false
-    hashtags: "#sinaamiri, #streetstyle, #barber, #fashion"
-  - username: "janis.irwin"
-    fullname: >-
-      Janis Irwin
-    bio: >-
-      Teacher, aunt, feminist, and proud MLA for Edmonton-Highlands-Norwood. She/her. 🙋‍♂️
-    location: "Canada"
-    followers: 6907
-    engagement: 932
-    commentsToLikes: 0.044734
-    id: ck6twnktit16y0j71343xid6e
-    verified: false
-    hashtags: "#yyc, #trans, #coronavirus, #barberlife"
   - username: "shawn_barbz"
     fullname: >-
       SHAWN BARBZ🏆10xAward Winning ✪
     bio: >-
       TORONTO CANADA 🇨🇦 Owner: ColdKutzBarberShop 📍Malton Coldkutz Salon & Spa📍Toronto 🏆CANADIAN NATIONAL CHAMPION🏆 •WAHL Educator and Brand Ambassador
     location: "Canada"
-    followers: 25966
-    engagement: 64
-    commentsToLikes: 0.125036
+    followers: 25138
+    engagement: 72
+    commentsToLikes: 0.105390
     id: ck8swu8yqf9bv0j78w9stmizb
     verified: false
-    hashtags: "#vancouver, #barbershopconnect, #wahlprocanada, #barbers"
-  - username: "meddexx"
+    hashtags: "#faded, #wahl, #malton, #surrey"
+  - username: "waseemyouans"
     fullname: >-
-      Dr Meddexx 🇨🇬
+      Waseem Youans
     bio: >-
-      Youtuber 75k+ subs | 130k+ on tiktok Snapchat | Tiktok : MEDDEXX Ma page pour les waves @wavolution Page barbiers: @barbiersfrancophones
+      Founder/CEO @wy.signaturebrand 🎬As featured by @insider and @insiderbeauty
     location: "Canada"
-    followers: 26228
-    engagement: 180
-    commentsToLikes: 0.049369
-    id: ck5zrbqeawa7o0i14cistpjsh
+    followers: 182570
+    engagement: 308
+    commentsToLikes: 0.008030
+    id: ck5hk4s5dhsdj0i11zul9cms7
     verified: false
-    hashtags: "#meddexx, #montrealbarbers, #torontobarber, #torontobarbers"
-  - username: "yoannfolquet"
+    hashtags: "#hairclay, #inspire, #hairstyle, #menshair"
+  - username: "erichsaide"
     fullname: >-
-      YAYO 🌊🏀✂️
+      Erich Saide Photography
     bio: >-
-      🇨🇮 💈| @yayocuts 📍| Montreal 🌊| - SO WAVY -
+      Award Winning Commercial, Fitness & Lifestyle, Celebrity Portrait Photographer. HUMANS OF SUPPORT - Founder
     location: "Canada"
-    followers: 2753
-    engagement: 1159
-    commentsToLikes: 0.071349
-    id: ck5hr39teu6w20i112nqp6pd8
+    followers: 17729
+    engagement: 238
+    commentsToLikes: 0.079245
+    id: ck5cabibld3n20i11z1qc8lna
     verified: false
-    hashtags: "#melaninking, #beardgang, #mtl, #wavecheck"
+    hashtags: "#tethertoolspro, #fitnessphotographer, #iso1200, #nikonphotographer"
+  - username: "cbcottawa"
+    fullname: >-
+      CBC Ottawa Community
+    bio: >-
+      Celebrating the city we love. CBC Ottawa’s community Instagram account curated by Communications. For breaking local news, follow @cbcottawanews.
+    location: "Canada"
+    followers: 35395
+    engagement: 60
+    commentsToLikes: 0.041080
+    id: ck5zzbw27bgd50i14tnikq7xp
+    verified: true
+    hashtags: "#strongwomen, #613, #empowerment, #community"
+  - username: "dolino.real"
+    fullname: >-
+      Dolino
+    bio: >-
+      
+    location: "Canada"
+    followers: 3066
+    engagement: 693
+    commentsToLikes: 0.203815
+    id: ck601t273g4fl0i14vmxhmmr3
+    verified: false
+    hashtags: "#canada, #montreal, #coronavirus, #rires"
+  - username: "creatrnick"
+    fullname: >-
+      NC
+    bio: >-
+      creatr • creative direction 📧: nick@creatr.ca photo | video | branding #creatrway
+    location: "Canada"
+    followers: 10850
+    engagement: 244
+    commentsToLikes: 0.076533
+    id: ck0tvz5thdfea0i1904bk7neg
+    verified: false
+    hashtags: "#hamont, #creatr, #creatrway, #notanad"
+  - username: "cbcthenational"
+    fullname: >-
+      CBC News: The National
+    bio: >-
+      Watch The National live at 9 p.m. ET and see more of our stories here ⬇️
+    location: "Canada"
+    followers: 84139
+    engagement: 97
+    commentsToLikes: 0.068170
+    id: ck5q7gbc71f7b0i115c4j7ie7
+    verified: true
+    hashtags: "#covid19, #themoment, #covid, #cbcnews"
 ---

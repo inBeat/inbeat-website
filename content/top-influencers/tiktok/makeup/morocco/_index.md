@@ -1,60 +1,84 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Morocco in 2023
+title: Top 10 Makeup TikTok Influencers In Morocco In 2023
 description: >-
-  Find top makeup TikTok influencers in Morocco in 2023. Most popular hashtags: #makeup #foryou #foryoupage #makeuptutorial.
+  Find top makeup TikTok influencers in Morocco in 2023. Most popular hashtags: #makeup #makeupartist #foryou #explore.
 platform: TikTok
-hits: 22
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 22 TikTok influencers like this in Morocco for you to pitch.
+hits: 21
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 21 TikTok influencers like this in Morocco for you to work with.
 profiles:
   - username: "bouchra_officiel"
     fullname: >-
       👑Bouchra Bouzyani👑
     bio: >-
-      💄Makeup artiste 💄 ريفية ⵣ فاسية😜🇲🇦 متواضعة بدون ضعف،و قوية بلا غرور Nador
+      💄Makeup artiste 💄 ريفية ⵣ فاسية
     location: "Morocco"
-    followers: 443600
-    engagement: 1037
-    commentsToLikes: 0.011780
+    followers: 515300
+    engagement: 978
+    commentsToLikes: 0.013588
     id: ck9rmrxyq49l80j7803wjps8f
     verified: false
-    hashtags: "#rif, #youtube, #morroco, #pourtoi"
-  - username: "hananvip"
+    hashtags: "#pourtoi, #maroc, #iksplore, #rif"
+  - username: "sarah.fakhfakhy"
     fullname: >-
-      Hanan Coudai
+      user3222891542864
     bio: >-
-      
+      Makeup Artist 💄
     location: "Morocco"
-    followers: 58900
-    engagement: 1232
-    commentsToLikes: 0.047393
-    id: ckbf39n30qyov0j23w7u6k54b
+    followers: 40400
+    engagement: 671
+    commentsToLikes: 0.035914
+    id: ckb9lphwkecv30j236qsr5cwd
     verified: false
-    hashtags: "#makeupartist, #makemefamous, #fans, #fashion"
+    hashtags: "#actingchallenge, #tiktok, #tiktokviral, #morocco"
   - username: "kelthoum8"
     fullname: >-
       With.kelthoum
     bio: >-
       follow me on instagram ⬇️⬇️⬇️⬇️❤
     location: "Morocco"
-    followers: 23600
-    engagement: 1061
-    commentsToLikes: 0.109844
+    followers: 24100
+    engagement: 860
+    commentsToLikes: 0.103116
     id: ckbayngzup2lw0j237flqtqaj
     verified: false
-    hashtags: "#algerie, #halloween, #maroc, #foryou"
-  - username: "yesdaddy_._.2"
+    hashtags: "#algerie, #challenge, #pourtoi, #foryoupage"
+  - username: "hananvip"
     fullname: >-
-      Yesdaddy❤️❤️
+      Hanan Coudai
     bio: >-
-      16yo❤️ 🥺👉👈🥺
+      
     location: "Morocco"
-    followers: 5133
-    engagement: 711
-    commentsToLikes: 0.027060
-    id: ck9ekxe3u87ws0j782rzjb7w6
+    followers: 58300
+    engagement: 1206
+    commentsToLikes: 0.046870
+    id: ckbf39n30qyov0j23w7u6k54b
     verified: false
-    hashtags: "#foryou, #fyp, #imbored, #foryoupage"
+    hashtags: "#fashion, #fashionista, #makeupartist, #makemefamous"
+  - username: "misslamoy"
+    fullname: >-
+      🎀𝓵𝓪𝓶𝓸𝔂🎀
+    bio: >-
+      For fun 😜
+    location: "Morocco"
+    followers: 105000
+    engagement: 350
+    commentsToLikes: 0.074411
+    id: ckbqi2g6q3d510j232gugn7zc
+    verified: false
+    hashtags: "#makeup, #moroccanprincess, #fashion, #hairstyle"
+  - username: "makeuptutos"
+    fullname: >-
+      Makeup Tutos
+    bio: >-
+      
+    location: "Morocco"
+    followers: 22100
+    engagement: 751
+    commentsToLikes: 0.009462
+    id: ck8far4ge4jjm0j78ftheq610
+    verified: false
+    hashtags: "#amordequenga, #lexa, #pegandofogo, #carnavalchegando"
   - username: "itsimanuuu"
     fullname: >-
       Iamimen
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.005215
     id: ck9eykl4mwazh0j78nty9ypx2
     verified: false
-    hashtags: "#egypt, #foryoupage, #love, #makeup"
-  - username: "makeuptutos"
-    fullname: >-
-      Makeup Tutos
-    bio: >-
-      
-    location: "Morocco"
-    followers: 22100
-    engagement: 755
-    commentsToLikes: 0.010209
-    id: ck8far4ge4jjm0j78ftheq610
-    verified: false
-    hashtags: "#lexa, #carnavalchegando, #pegandofogochallenge, #aquecimentodalexa"
+    hashtags: "#foryourpage, #follow, #foryou, #love"
   - username: "emybeauty123"
     fullname: >-
       Màzoùz Imane
     bio: >-
       GOOOD VIBES ONLY!!! ❤️❤️❤️❤️ Are you following me on Instagram @emybeauty123 ?
     location: "Morocco"
-    followers: 2493
-    engagement: 312
-    commentsToLikes: 0.035144
+    followers: 2462
+    engagement: 306
+    commentsToLikes: 0.027789
     id: ckai1ukmed9jl0i78jonrnag4
     verified: false
-    hashtags: "#love, #followme, #xoxo, #makeup"
-  - username: "noursantos82"
-    fullname: >-
-      Nour Santos
-    bio: >-
-      Follow my Instagramme for mor pic and story : @noursantos
-    location: "Morocco"
-    followers: 47400
-    engagement: 307
-    commentsToLikes: 0.003456
-    id: ckbkyfh0gupwf0j23j1sc1z01
-    verified: false
-    hashtags: "#men, #mens, #love, #stylemen"
-  - username: "isleym.b"
-    fullname: >-
-      Isleymbtr 
-    bio: >-
-      FOLLOW IG 👆🏻 Skin ,Nails & Beauty tips Biz: isleymbitari@gmail.com 👨‍👩‍👦🧿
-    location: "Morocco"
-    followers: 176300
-    engagement: 665
-    commentsToLikes: 0.011188
-    id: ck7zoyuuwmj0f0j789labv47u
-    verified: false
-    hashtags: "#hudabeauty, #foryoupage, #skincare, #fyp"
+    hashtags: "#tiktok, #followme, #likeforlike, #funny"
   - username: "luxenail"
     fullname: >-
       Ladies Style
     bio: >-
       
     location: "Morocco"
-    followers: 42200
-    engagement: 705
-    commentsToLikes: 0.013318
+    followers: 41700
+    engagement: 703
+    commentsToLikes: 0.013124
     id: ckbwmclpq443w0j234qiglr1h
     verified: false
-    hashtags: "#eyes, #makemefamous, #makeuptutorial, #hairstyle"
+    hashtags: "#makemefamous, #makeuphacks, #viral, #hair"
+  - username: "maay__aa"
+    fullname: >-
+      Maaya 🍑
+    bio: >-
+      Snapchat : umaima.peace Instagram : maay__aa
+    location: "Morocco"
+    followers: 7190
+    engagement: 527
+    commentsToLikes: 0.017650
+    id: ckbexdcrqhpk40j23s62oahyi
+    verified: false
+    hashtags: "#followparty, #love, #lovely, #viewgoal"
 ---

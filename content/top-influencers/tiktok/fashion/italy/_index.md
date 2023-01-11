@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Italy in 2023
+title: Top 10 Fashion TikTok Influencers In Italy In 2023
 description: >-
-  Find top fashion TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #outfitideas #outfit.
+  Find top fashion TikTok influencers in Italy in 2023. Most popular hashtags: #imparacontiktok #curiosit #foryou.
 platform: TikTok
-hits: 160
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 160 TikTok influencers like this in Italy for you to work with.
+hits: 152
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 152 TikTok influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "nalaknzeyni"
+  - username: "fashionweekbologna"
     fullname: >-
-      🎀ZEYNI🎀
+      M.sheikh
     bio: >-
-      🌸fashion lover 👗👖👠👟🎒👜. 🌼 always happy mood 😂😍🇮🇹
+      Fashion week Bologna
     location: "Italy"
-    followers: 26800
-    engagement: 1457
-    commentsToLikes: 0.068323
-    id: ckbkgmx7o84l30j23j22x5orz
+    followers: 436900
+    engagement: 931
+    commentsToLikes: 0.090967
+    id: ckd19nkwfrer60j23b7uv8edz
     verified: false
-    hashtags: "#tredingvideo, #fyp, #treding, #newtrendingtiktokviralvideo"
+    hashtags: "#my, #facebookpage, #msheikh2021, #bologna"
   - username: "oksdane"
     fullname: >-
       oks dane 
     bio: >-
-      more fashion—-> Instagram :@oksdane ✨ YouTube:oksdane
+      fashion is my obsession
     location: "Italy"
-    followers: 590100
-    engagement: 2247
-    commentsToLikes: 0.003126
+    followers: 722100
+    engagement: 2082
+    commentsToLikes: 0.005312
     id: ck8ja6zwoqy0p0j78302x2zpv
     verified: true
-    hashtags: ""
+    hashtags: "#wonderwater, #wonderwaterwhip, #ad, #letuecigliafinoalcielo"
   - username: "arte.modernaa"
     fullname: >-
       Fatjon
     bio: >-
       💖FAT & SIL💖 FASHION! SEGUITEMI SU INSTAGRAM ☝🏻
     location: "Italy"
-    followers: 230100
-    engagement: 1428
-    commentsToLikes: 0.010710
+    followers: 440000
+    engagement: 1708
+    commentsToLikes: 0.009843
     id: ckc8xsxpblyfv0j23ybbp55ay
     verified: false
-    hashtags: "#divertente, #ragazze, #italia, #girlfriend"
-  - username: "tbhnoemi"
+    hashtags: "#ironia, #girlfriend, #attenzione, #fidanzati"
+  - username: "nalaknzeyni"
     fullname: >-
-      Noemi Mirra
+      🎀ZEYNI🎀
     bio: >-
-      sneakers, streetwear & fashion🦋 insta : tbhnoemi
+      🌸fashion lover 👗👖👠👟🎒👜. 🌼 always happy mood 😂😍🇮🇹
     location: "Italy"
-    followers: 97700
-    engagement: 1472
-    commentsToLikes: 0.009336
-    id: ckcpffcnngrfb0j2387pbzlgh
+    followers: 26600
+    engagement: 1447
+    commentsToLikes: 0.051318
+    id: ckbkgmx7o84l30j23j22x5orz
     verified: false
-    hashtags: "#streetstyle, #foryou, #streetwear, #fy"
-  - username: "fashionel"
+    hashtags: "#foryoupage, #newtrendingtiktokviralvideo, #foryou, #viaral"
+  - username: "coraclarissa"
     fullname: >-
-      elena davanzo
+      Cora Clarissa 
     bio: >-
-      🔆Tips per costruire la tua carriera nel Fashion&Luxury 🦄 YouTube: FashionEl ⬇️
+      ✨ Un mix di Cina, fashion e lifestyle ✨ IG/YouTube: @coraclarissa
     location: "Italy"
-    followers: 10300
-    engagement: 512
-    commentsToLikes: 0.046793
-    id: ckcoup46o8vrr0j23p7y8yym4
+    followers: 147400
+    engagement: 1201
+    commentsToLikes: 0.022091
+    id: ck8j492jo1cjy0j78bwgnvi28
     verified: false
-    hashtags: "#fashionuniversity, #fashioncareeradvisor, #fashioncareeradvice, #fashioninternship"
+    hashtags: "#gettoknowme, #storytime, #perteeee, #curiosity"
+  - username: "claudiapotycki"
+    fullname: >-
+      Claudia Potycki
+    bio: >-
+      Fashion Design Graduated Inside the Fashion World She/Her
+    location: "Italy"
+    followers: 20200
+    engagement: 1344
+    commentsToLikes: 0.034082
+    id: ckbkz9oh8vkvk0j235hnrq84q
+    verified: false
+    hashtags: "#lovedisoloqua, #fashion, #scandalsinthefashionworld, #tiktokfashion"
   - username: "lilianacastriotta"
     fullname: >-
       lilianacastriotta
     bio: >-
       Fashion Blogger Www.lilianacastriotta.com Instagram: lilianacastriotta
     location: "Italy"
-    followers: 2966
-    engagement: 981
-    commentsToLikes: 0.066495
+    followers: 2957
+    engagement: 906
+    commentsToLikes: 0.062928
     id: cka0p2ik76i9f0i78d30izds0
     verified: false
-    hashtags: "#bridalstylist, #quarantena, #italiangirl, #consulentedimmagine"
-  - username: "giulslively"
+    hashtags: "#quarantena, #impararediverte, #bridalstylist, #imparacontiktok"
+  - username: "dj_eva_fiesta"
     fullname: >-
-      Giulia Piras 💜
+      Dj_eva_fiesta
     bio: >-
-      Ma ciao ✨ MAKEUP, FASHION & TANTO ALTRO 💖 Seguimi su instagram : @giulslively
+      DJ from Milan🖤🇮🇹 Fun, Trend, Fashion
     location: "Italy"
-    followers: 18900
-    engagement: 720
-    commentsToLikes: 0.027491
-    id: ckbqhuqmi35g20j23n5xz53kx
+    followers: 11300
+    engagement: 546
+    commentsToLikes: 0.192833
+    id: ck9du4xezeyo80j7845ilgxyo
     verified: false
-    hashtags: "#sephora, #outfitideas, #makeuptutorial, #shein"
-  - username: "alexandragraziano"
+    hashtags: "#italianfoodporn, #tiktokmilano, #milanomoda, #russiinitalia"
+  - username: "laura.ruetta"
     fullname: >-
-      Alexalovej
+      🎀Laura Ruetta🎀
     bio: >-
-      •Fashion•Beauty•Lifestyle IG @alexalovej 💗
+      🇮🇹✨CEO of Myself 🎀Fashion Designer 🌸Writer on Wattpad 💖Make video for fun
     location: "Italy"
-    followers: 6720
-    engagement: 392
-    commentsToLikes: 0.032003
-    id: ck9r7e0d67rit0j78mk4r0wx5
+    followers: 19400
+    engagement: 1707
+    commentsToLikes: 0.007724
+    id: ck8s5qyi4h4qo0j78efs7j6pt
     verified: false
-    hashtags: "#look, #halloweenmakeup, #halloween2020, #harleyquinn"
-  - username: "dedofiore"
+    hashtags: "#netflix, #power, #serienetflix, #books"
+  - username: "fuser.martina"
     fullname: >-
-      Edoardofioretti
+      Martina Fuser
     bio: >-
-      HEY)) DANCER,ACTOR,FASHION🍑 TOP OVER THE TOP 🍒 (INSTAGRAM)🥥
+      18 Just fashion and positivity here😍 More fashion on my Insta👠👆🏻
     location: "Italy"
-    followers: 20600
-    engagement: 1023
-    commentsToLikes: 0.009139
-    id: ckb0oriq9et2p0j23q46uisno
+    followers: 37300
+    engagement: 1378
+    commentsToLikes: 0.026291
+    id: ck97ym1t903bx0j78ei41gx0a
     verified: false
-    hashtags: "#perte, #dance, #scuola, #school"
-  - username: "fabrizio_sina"
-    fullname: >-
-      fabrizio_sina
-    bio: >-
-      Italian 🇮🇹 Dance 🤟🏻 Food 🍕 Fashion 😎
-    location: "Italy"
-    followers: 10200
-    engagement: 674
-    commentsToLikes: 0.057070
-    id: ck8tulwywsova0j7880zdze76
-    verified: false
-    hashtags: "#neiperte, #divertente, #challenge, #bambini"
+    hashtags: "#hairhacks, #hairtok, #hairstyle, #hairtransformation"
 ---

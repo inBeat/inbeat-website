@@ -1,120 +1,96 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Los Angeles in 2023
+title: Top 10 Athletes TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top athletes TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #duet #dance.
+  Find top athletes TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #foryou #athlete #losangeles.
 platform: TikTok
-hits: 26
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 26 TikTok influencers like this in Los Angeles, United States for you to collaborate.
+hits: 17
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 17 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "saramaew"
+  - username: "takeachancemccoy"
     fullname: >-
-      Sara Mae
+      Chance McCoy
     bio: >-
-      I spend a lot of my time upside down 🙃
+      Follow me on Instagram ↖️
     location: "United States"
-    followers: 37900
-    engagement: 938
-    commentsToLikes: 0.013931
-    id: ck8qcy0qbm9220j78p7br257q
+    followers: 85600
+    engagement: 1656
+    commentsToLikes: 0.017915
+    id: ckbesvlhibqjr0j23izim0ex1
     verified: false
-    hashtags: "#dance, #trapeze, #doublestar, #silks"
-  - username: "steviothememeio"
+    hashtags: "#nfl, #foryou, #fitness, #greenscreen"
+  - username: "lifeofmadison"
     fullname: >-
-      user846347574608
+      Madison
     bio: >-
-      Spiderman: Into the Spider-Verse 15:23
+      Welcome to my life 📍Los Angeles
     location: "United States"
-    followers: 10700
-    engagement: 1442
-    commentsToLikes: 0.164774
-    id: ckd1a7g6ns5xi0j23gb73hm1r
+    followers: 26300
+    engagement: 1925
+    commentsToLikes: 0.025897
+    id: ckbf85v4kygpy0j23kb6p4dvo
     verified: false
-    hashtags: "#dontletthisflop, #fyp, #duet, #christmas"
+    hashtags: "#selflove, #mentalhealthmatters, #chronicillness, #lymedisease"
   - username: "kys9000"
     fullname: >-
       🍃
     bio: >-
-      Los Angeles Depop: skylerjc Bigballerclaire’s #1 fan
+      Los Angeles Depop: skylerjc
     location: "United States"
-    followers: 45700
-    engagement: 2276
-    commentsToLikes: 0.023102
+    followers: 44200
+    engagement: 2283
+    commentsToLikes: 0.013749
     id: cka0pag4y7goh0i78whk2zq2s
     verified: false
-    hashtags: "#gymnastics, #foryou, #dormlife, #foryoupage"
-  - username: "kimmymichellee"
+    hashtags: "#foryou, #fyp, #rockincollege, #duet"
+  - username: "keepingupwkendz"
     fullname: >-
-      Kimberly
+      Kendall Thompson
     bio: >-
-      Los Angeles BLACK LIVES MATTER Insta @kim.perl Swimwear line: @kimmyskinis
+      Los Angeles ig: @kendallthompsonn Black Lives Matter
     location: "United States"
-    followers: 10200
-    engagement: 527
-    commentsToLikes: 0.061517
-    id: ckamiaooojes70i787fk5231e
+    followers: 9062
+    engagement: 1170
+    commentsToLikes: 0.037997
+    id: ck8hp2tl8xpv60j78i901m5nu
     verified: false
-    hashtags: "#fashionessentials, #barb, #duet, #planttips"
-  - username: "novaakan3"
-    fullname: >-
-      Novian Cherry
-    bio: >-
-      🏀Pro Athlete ♦️NUPE 🏠 San Diego, CA Follow me on IG —> @Novaakan3 BLM ✊🏿
-    location: "United States"
-    followers: 349100
-    engagement: 1739
-    commentsToLikes: 0.098973
-    id: ckb0zdez3o43y0j23zi0dkijf
-    verified: true
-    hashtags: "#biden2020, #blm, #fyp, #trump"
-  - username: "jon_koury"
-    fullname: >-
-      Jon Koury
-    bio: >-
-      ⚡️Calisthenics Athlete / Physicist 🔥 IG - @jon_koury Thanks for 65k! 🙏🏼
-    location: "United States"
-    followers: 66000
-    engagement: 2025
-    commentsToLikes: 0.025074
-    id: ck8khiw4lmwts0j78lreffo7e
-    verified: false
-    hashtags: "#venicebeach, #handstand, #backflip, #handstandpushup"
+    hashtags: "#happynewyear, #fypsounds, #cancelthenoise, #4u"
   - username: "fatitpm"
     fullname: >-
       Fatima Martinez
     bio: >-
       athlete & college student ✨ follow me on insta @fatimatpm 🥰
     location: "United States"
-    followers: 2587
-    engagement: 1160
-    commentsToLikes: 0.044780
+    followers: 2573
+    engagement: 1216
+    commentsToLikes: 0.043384
     id: ckb9i3h1v81v20j23mcgkvi3s
     verified: false
-    hashtags: "#parati, #hedgehog, #fyp, #levitating"
-  - username: "derektpratt"
-    fullname: >-
-      derektpratt
-    bio: >-
-      📍LA Kano from Mortal Kombat 11 🎮 Actor/Model/Athlete ⬇️ SUBSCRIBE ⬇️
-    location: "United States"
-    followers: 23900
-    engagement: 936
-    commentsToLikes: 0.065814
-    id: ckb97tezzqthn0j23sq4231l5
-    verified: false
-    hashtags: "#abs, #foryou, #linkinbio, #talkshow"
+    hashtags: "#mexicocheck, #fypppppppp, #fypp, #parati"
   - username: "poplikecorn_"
     fullname: >-
       Andrew Friedman
     bio: >-
       📍LA 📍 🔥 Flipping athlete 🔥 📧 Andrew@poplikecorn.com 📧 📸 IG-poplikecorn 📸
     location: "United States"
-    followers: 47800
-    engagement: 1765
-    commentsToLikes: 0.016189
+    followers: 62200
+    engagement: 1704
+    commentsToLikes: 0.025351
     id: ck8rpyzronwln0j78j6km1222
     verified: false
-    hashtags: "#trick, #fyp, #bergtoys, #view"
+    hashtags: "#bergtoys, #parkour, #foryou, #funny"
+  - username: "derektpratt"
+    fullname: >-
+      derektpratt
+    bio: >-
+      Fitness Friday: Gym Talk on YouTube & IMDb Entrepreneur & C4 Energy Athlete
+    location: "United States"
+    followers: 36000
+    engagement: 775
+    commentsToLikes: 0.090735
+    id: ckb97tezzqthn0j23sq4231l5
+    verified: false
+    hashtags: "#fyp, #losangeles, #mood, #fitfam"
   - username: "zyrken"
     fullname: >-
       zyrken
@@ -122,9 +98,33 @@ profiles:
       Pro parkour athlete and cinematographer. IG for photo & video content @zyrken
     location: "United States"
     followers: 39300
-    engagement: 615
-    commentsToLikes: 0.019136
+    engagement: 612
+    commentsToLikes: 0.022539
     id: ck7zoheqck2lb0j78bb9c4alp
     verified: true
-    hashtags: "#crazy, #fyp, #parkour, #tiktok"
+    hashtags: "#parkour, #tiktok, #fyp, #adventure"
+  - username: "fidelpittss"
+    fullname: >-
+      Fidelpittss
+    bio: >-
+      FOLLOW/INSTAGRAM ⬆️ Blessed by 300,000‼️🖤 CALI🌴🏈🪐BARBER💈 👻@sniper.del
+    location: "United States"
+    followers: 305700
+    engagement: 1569
+    commentsToLikes: 0.018745
+    id: ckac3lagfbml40i780iuj0xaa
+    verified: false
+    hashtags: "#barber, #athlete, #studentathlete, #football"
+  - username: "deadlocksports"
+    fullname: >-
+      Deadlock Sports ⚾️
+    bio: >-
+      Jeshua Hennerty • I Play Sports God✝️Family👨‍👩‍👦‍👦Sports⚾️🏈🤼‍♂️ Goal 20k
+    location: "United States"
+    followers: 18700
+    engagement: 1158
+    commentsToLikes: 0.052776
+    id: ckbqsm1fkderk0j23qg8vnm68
+    verified: false
+    hashtags: "#fyp, #athlete, #viral, #foryou"
 ---

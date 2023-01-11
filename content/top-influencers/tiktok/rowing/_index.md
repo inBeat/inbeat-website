@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rowing TikTok Influencers in 2023
+title: Top 10 Rowing TikTok Influencers In 2023
 description: >-
-  Find top rowing TikTok influencers in 2023. Most popular hashtags: #fyp #rowing #foryoupage #foryou.
+  Find top rowing TikTok influencers in 2023. Most popular hashtags: #rowing #fyp #duet #foryoupage.
 platform: TikTok
-hits: 931
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database has 931 TikTok influencers like this for you to connect with.
+hits: 1019
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 1019 TikTok influencers like this for you to connect with.
 profiles:
   - username: "litrowingmemes"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Welcome to rowing TikTok
     location: "United Kingdom"
-    followers: 4100
-    engagement: 1676
-    commentsToLikes: 0.035541
+    followers: 4481
+    engagement: 1672
+    commentsToLikes: 0.037282
     id: ck9c3uyj8pumn0j78a3joocs2
     verified: false
-    hashtags: "#rowinglife, #xyzbca, #foryoupage, #rowing"
+    hashtags: "#fyp, #foryoupage, #rowingtiktok, #row"
   - username: "carterlaw7"
     fullname: >-
       Carter
@@ -26,105 +26,105 @@ profiles:
       Just your average, everyday 6’5” laidback goofball 🤓 -Rowing coach- 📍CT 🏳️‍🌈
     location: "United States"
     followers: 14300
-    engagement: 844
-    commentsToLikes: 0.043488
+    engagement: 836
+    commentsToLikes: 0.041594
     id: cka3vggvpy42m0i782f3cziyw
     verified: false
-    hashtags: "#gayboy, #gay, #gonnabefriends, #lgbt"
+    hashtags: "#lgbt, #duet, #gonnabefriends, #gaytiktok"
   - username: "haleyuliasz"
     fullname: >-
       haley
     bio: >-
-      follow my insta 🤩 Syracuse rowing
+      syracuse rowing
     location: "United States"
-    followers: 3863
-    engagement: 908
-    commentsToLikes: 0.027936
+    followers: 3968
+    engagement: 853
+    commentsToLikes: 0.034618
     id: ck9nh11nrfm8w0j78apexlw1v
     verified: false
-    hashtags: "#xyzbca, #rowing, #fyp, #athlete"
-  - username: "paigepittlerrrrr"
-    fullname: >-
-      paigepittlerrrrr
-    bio: >-
-      20 ✰𝕊𝕒𝕟 𝔽𝕣𝕒𝕟𝕔𝕚𝕤𝕔𝕠 ✰Washington State Rowing
-    location: "United States"
-    followers: 4567
-    engagement: 662
-    commentsToLikes: 0.046374
-    id: ck8j7dg2odwi80j78jae3cy1b
-    verified: false
-    hashtags: "#duet, #foryoupage, #fypage, #summer2020"
+    hashtags: "#rowing, #sports, #giftofgame, #d1"
   - username: "dukemensrowing"
     fullname: >-
       dukemensrowing
     bio: >-
       Founded in 1978. The Official TikTok of the Duke University Men’s Rowing Team.
     location: "United States"
-    followers: 2572
-    engagement: 874
-    commentsToLikes: 0.008246
+    followers: 2564
+    engagement: 860
+    commentsToLikes: 0.008748
     id: ck977335n2feh0j78b9f4ho05
     verified: false
-    hashtags: "#foryoupage, #fatergos, #herecomesduke, #dmr"
-  - username: "everythingisgonnabok"
+    hashtags: "#fyp, #dmr, #rowing, #goduke"
+  - username: "ariana.ventiiii"
     fullname: >-
-      🅱️🆗 on 🔝
+      Ariana
     bio: >-
-      Aw shiiiii welcome to ma crib Harvard ‘23 Bay Area
+      📍Boston university of alabama rowing alum
     location: "United States"
-    followers: 2955
-    engagement: 971
-    commentsToLikes: 0.084223
-    id: ckc2zsrntqmjx0j230xcx84du
+    followers: 3551
+    engagement: 788
+    commentsToLikes: 0.039786
+    id: ck97735nd2g3e0j780rb2k0jr
     verified: false
-    hashtags: "#foryoupage, #fyp, #college, #boys"
-  - username: "kennychase25"
-    fullname: >-
-      KENDALL
-    bio: >-
-      US National Team Rower • Certified w3iRd0 🏳️‍🌈🤘🏼🇺🇸 ✨she/her/tra$h✨
-    location: "United States"
-    followers: 27700
-    engagement: 1700
-    commentsToLikes: 0.024041
-    id: ckbwi6ddn32gr0j23eehg2hj9
-    verified: false
-    hashtags: "#foryou, #foryoupage, #fyp, #lesbian"
+    hashtags: "#foryou, #rowers, #fyp, #rowing"
   - username: "micthedick"
     fullname: >-
       hi
     bio: >-
       i’m just vibing :) spotify: micakesnew
     location: "United States"
-    followers: 43100
-    engagement: 1461
-    commentsToLikes: 0.007770
+    followers: 42800
+    engagement: 1867
+    commentsToLikes: 0.024991
     id: ckcv1oi8mns2y0j238kn1wi0v
     verified: false
-    hashtags: "#fyp, #lgbt, #workouttips, #gayng"
-  - username: "ballisticperformance"
+    hashtags: "#gayngels, #foryou, #lgbt, #lesbian"
+  - username: "everythingisgonnabok"
     fullname: >-
-      BP
+      🅱️🆗 on 🔝
     bio: >-
-      📚12yr Exp, MS, CSCS, CF-L3, Pn1 💪🏻Training Programs + 🥗Nutrition Coaching ⬇️
+      Aw shiiiii welcome to ma crib Harvard ‘23 Bay Area
     location: "United States"
-    followers: 691400
-    engagement: 432
-    commentsToLikes: 0.030125
-    id: ck8z3geht9gye0j78ku93xw5r
+    followers: 2947
+    engagement: 1103
+    commentsToLikes: 0.060794
+    id: ckc2zsrntqmjx0j230xcx84du
     verified: false
-    hashtags: "#sixpackabs, #gymlover, #coaching, #pushups"
-  - username: "scottycockle"
+    hashtags: "#college, #harvard, #democrat, #sports"
+  - username: "scaredofbeanss"
     fullname: >-
-      Scott Cockle
+      Isabelle
     bio: >-
-      Below average content | Oxford 📍
-    location: "United Kingdom"
-    followers: 3935
-    engagement: 561
-    commentsToLikes: 0.006233
-    id: ck97738gf2gq60j789l02n8qn
+      use join code rorbuwbey4798 to join my “tik tok be shittin 😤😤” league :)
+    location: "United States"
+    followers: 23400
+    engagement: 911
+    commentsToLikes: 0.040587
+    id: ck977365c2g6r0j78quvge63c
     verified: false
-    hashtags: "#obubc, #crew, #fyp, #brookes"
+    hashtags: "#beans, #covid, #dothescottsslide, #tallgirl"
+  - username: "lottie_whitehouse_"
+    fullname: >-
+      Lottie bro
+    bio: >-
+      pisstake cuties👀 sc - l0ttieb00
+    location: "New Zealand"
+    followers: 2879
+    engagement: 1487
+    commentsToLikes: 0.007551
+    id: cka6a5pq3v5dw0i781axkyv6w
+    verified: false
+    hashtags: "#schooltrip, #malbroughsounds, #rowing, #fyp"
+  - username: "a_presley"
+    fullname: >-
+      apresley1
+    bio: >-
+      
+    location: "United States"
+    followers: 4508
+    engagement: 522
+    commentsToLikes: 0.052792
+    id: ckb0zcz9ho2g80j23amxe6a12
+    verified: false
+    hashtags: "#otf, #orangetheorythings, #orangetheorycoach, #orangetheoryfitness"
 ---

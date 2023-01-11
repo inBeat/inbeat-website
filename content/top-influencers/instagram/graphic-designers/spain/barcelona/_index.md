@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Barcelona in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #instagood #illustration #graphicdesign.
+  Find top graphic-designers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #summer #graphicdesign #love.
 platform: Instagram
-hits: 10
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 10 Instagram influencers like this in Barcelona, Spain for you to contact.
+hits: 13
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 13 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
   - username: "paucarrera"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       📍Argentina en Barcelona ••••••••••••• 📮 carrerapaulad@gmail.com 🇦🇷 | Graphic designer👩🏽‍💻| Fashion lover 💁🏽‍♀️
     location: "Spain"
-    followers: 48073
-    engagement: 307
-    commentsToLikes: 0.013427
+    followers: 49206
+    engagement: 331
+    commentsToLikes: 0.017145
     id: ck14hd6z19qcb0i19b8bsdse8
     verified: false
-    hashtags: "#outfits, #inspofashion, #zara, #sheingals"
+    hashtags: "#lookoftoday, #myoutfit, #lookoftheday, #sheingals"
   - username: "samm.o"
     fullname: >-
       Oscar Molero
@@ -30,67 +30,19 @@ profiles:
     commentsToLikes: 0.024796
     id: ck9h9mwma946m0j7861cc7cct
     verified: false
-    hashtags: "#v10, #gt3rs, #amazingcars247, #ferrari"
+    hashtags: "#carinstagram, #autogespotusa, #speedsuspects, #carlifestyle"
   - username: "michalppz"
     fullname: >-
       Michal Kozelský
     bio: >-
-      I make videos sometimes. Graphic designer, traveler, marketing, social media. Snapchat: michalppz ► Zvolen, for now xd 🇸🇰🇺🇸🇬🇷
+      🎬 Video creator 🎨 Graphic designer ✈️ Traveler @michalkozelsky_graphic 👻 Snapchat: michalppz 🇸🇰🇬🇷
     location: "Spain"
-    followers: 9325
-    engagement: 965
-    commentsToLikes: 0.036411
+    followers: 10293
+    engagement: 1048
+    commentsToLikes: 0.007974
     id: ck8wf02rrewc50j78wbljxgnm
     verified: false
-    hashtags: "#youtuber, #photo, #barcelona, #sunny"
-  - username: "marcpallares"
-    fullname: >-
-      Marc Pallarès
-    bio: >-
-      Art Direction | Graphic designer | illustration
-    location: "Spain"
-    followers: 11262
-    engagement: 539
-    commentsToLikes: 0.030067
-    id: ck8sx5i3sg87m0j7864248dhz
-    verified: false
-    hashtags: "#dibujos, #dissenygrafic, #draw, #inspiracion"
-  - username: "saizagus"
-    fullname: >-
-      Agustina Saiz
-    bio: >-
-      🌐 Interpreter / Translator 💻 Graphic Designer 📸 Model ®️ Since 1994 🇦🇷 Argentina en 🇪🇦 Barcelona
-    location: "Spain"
-    followers: 3056
-    engagement: 1039
-    commentsToLikes: 0.046844
-    id: ck6tib47c0dr60j718aqm1lzk
-    verified: false
-    hashtags: "#followme, #amazing, #tflers, #instagood"
-  - username: "focusnflow"
-    fullname: >-
-      ~ Lettering & Graphic Design ~
-    bio: >-
-      🎨 Lettering lover, graphic designer and stationery addict 🙏 Creative Mindfulness 📩 Info.focusnflow@gmail.com 📍 Mataró, Barcelona (Spain)
-    location: "Spain"
-    followers: 4786
-    engagement: 919
-    commentsToLikes: 0.110356
-    id: ck5ci6sxas4rz0i11pgs5y149
-    verified: false
-    hashtags: "#letteringinspiration, #focusandflow, #retodelettering, #letteringoftheday"
-  - username: "chriswapo"
-    fullname: >-
-      C H R I S T O P H E R ⭐️
-    bio: >-
-      🎓Graphic Designer ✨Makeup Artist 📸Photographer 📍Venezuelan in Madrid 📨soychriswapo@gmail.com
-    location: "Spain"
-    followers: 69157
-    engagement: 155
-    commentsToLikes: 0.029807
-    id: ck5q5x8ftuzbb0i11cnfmsfqv
-    verified: false
-    hashtags: "#perfect, #cool, #youngboy, #photoshoot"
+    hashtags: "#travel, #traveller, #travelling, #traveltheworld"
   - username: "martamullor"
     fullname: >-
       Marta Mullor
@@ -102,29 +54,77 @@ profiles:
     commentsToLikes: 0.008548
     id: ck0vv0picn05l0i19hpbw37w6
     verified: false
-    hashtags: "#1990, #summermemories, #cumplea, #birthday"
+    hashtags: "#weekend, #brother, #missyou, #locelebramospronto"
   - username: "asdfmariely"
     fullname: >-
       Mariely | Belleza Y Arte 🖤
     bio: >-
-      🇩🇴📍Madrid Diseñadora gráfica obsesionada con los productos de belleza que a veces dibuja que comparte cosas chulitas🖤✨• 👇🏽|Amazon List
+      🇩🇴📍Madrid Diseñadora gráfica obsesionada con los productos de belleza que a veces dibuja que comparte cosas chulitas🖤✨• 👇🏽| Vlogmas todos los días
     location: "Spain"
-    followers: 10918
-    engagement: 369
-    commentsToLikes: 0.038117
+    followers: 10809
+    engagement: 391
+    commentsToLikes: 0.045679
     id: ck6to8rsvcqpp0j71tgqm8y7e
     verified: false
-    hashtags: "#hairstyles, #spain, #follow, #happy"
-  - username: "errordesign"
+    hashtags: "#travel, #digitalillustration, #cute, #beautiful"
+  - username: "laura.gardom"
     fullname: >-
-      ERROR! DESIGN
+      Laura Garcia Dominguez
     bio: >-
-      🔥 Barcelona, Spain 🔥 ⚡Posters & Music Art • Since 2000 ⚡ 🍺 Beer label art for @naparbier 🍺 💀 Plays music at @ulmus_folk & @wearemalammar
+      💜Influencer Acquisition for @fancentro 🇫🇷🇪🇸🇬🇧 👗 #fashion #imageconsultant 📷 #graphicdesign 📍 #Barcelona 💃🏽 #kizomba
     location: "Spain"
-    followers: 21508
-    engagement: 177
-    commentsToLikes: 0.018671
-    id: ck0w36irhrtw60i19gdhcg7e7
+    followers: 12216
+    engagement: 373
+    commentsToLikes: 0.062585
+    id: ck14iry78gwxd0i197ldnspxd
     verified: false
-    hashtags: "#spreadthelight, #vinylcollection, #rockposter, #merch"
+    hashtags: "#passion, #model, #spain, #love"
+  - username: "havsurfboards"
+    fullname: >-
+      HAV Surfboards
+    bio: >-
+      ⚫️⚫️ Handmade | Custom Surfboards Atendemos bajo cita Envíos a Toda Europa CT FANTASY HAV SURFING
+    location: "Spain"
+    followers: 14967
+    engagement: 358
+    commentsToLikes: 0.042029
+    id: ckaorz9r3pfsw0i78qvibaxmq
+    verified: false
+    hashtags: "#themine, #details, #rideforthefuture, #barcelona"
+  - username: "joan_alturo"
+    fullname: >-
+      Joan Alturo
+    bio: >-
+      Illustrator from Barcelona 📩 info@joanalturo.com
+    location: "Spain"
+    followers: 12452
+    engagement: 434
+    commentsToLikes: 0.025304
+    id: ck8tag3p0rlzm0j78w2rb90st
+    verified: false
+    hashtags: "#joanalturo, #perfume, #editorialillustration, #creative"
+  - username: "carolsitges26"
+    fullname: >-
+      Sweet Caroline
+    bio: >-
+      ▪️Cada tic-tac es un segundo de la vida que pasa, y no se repite. ▪️Olympus E-M10 Mark II ▪️Team @capturacolor 📍Barcelona
+    location: "Spain"
+    followers: 3091
+    engagement: 1316
+    commentsToLikes: 0.105510
+    id: ck14jkp5oktn20i19antunrd2
+    verified: false
+    hashtags: "#moodygrams, #pictureoftheday, #barcelonicious, #sunsetlover"
+  - username: "kiwibravo"
+    fullname: >-
+      🥝 Kiwi Bravo 🥝
+    bio: >-
+      We thrill people through objects, images and experiences. Barcelona, Madrid, anywhere.
+    location: "Spain"
+    followers: 18379
+    engagement: 172
+    commentsToLikes: 0.032110
+    id: ck15q4hmf121q0i19bji7er5q
+    verified: false
+    hashtags: "#artdirection, #graphicdesign, #princess, #premislaus2020"
 ---

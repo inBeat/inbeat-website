@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In France in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In France In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in France in 2023. Most popular hashtags: #portrait #style #fashion.
+  Find top graphic-designers Instagram influencers in France in 2023. Most popular hashtags: #style #portrait #photographer #model.
 platform: Instagram
-hits: 85
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 85 Instagram influencers like this in France for you to pitch.
+hits: 170
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 170 Instagram influencers like this in France for you to work with.
 profiles:
   - username: "shootquality"
     fullname: >-
@@ -13,84 +13,60 @@ profiles:
     bio: >-
       𝐈𝐕𝐀𝐍 ⚡️⚡️ 𝕱𝖎𝖑𝖒𝖒𝖆𝖐𝖊𝖗 📽 Graphic Designer 🖥 work 📥 & 📩 @ivann_sevilla #shootquality apps edits ⬇️
     location: "France"
-    followers: 132511
-    engagement: 1969
-    commentsToLikes: 0.030400
+    followers: 133020
+    engagement: 1864
+    commentsToLikes: 0.025423
     id: ck6trap7gxwad0j71xh60gszb
     verified: false
-    hashtags: "#bleachmyfilm, #kdpeoplegallery, #moodyports, #portrait"
+    hashtags: "#moodygrams, #influencercollective, #fashionphotography, #moodyports"
   - username: "manon_duma"
     fullname: >-
       Manon
     bio: >-
       French model, graphic designer & mood lover 📍 @marcollectif __
     location: "France"
-    followers: 16501
-    engagement: 1079
-    commentsToLikes: 0.035947
+    followers: 19015
+    engagement: 944
+    commentsToLikes: 0.029146
     id: ck5pwxs6gp4p00i11gefiryye
     verified: false
-    hashtags: "#intimissimi, #princessdress, #weddingdress, #montpellier"
+    hashtags: "#photocinematica, #autoportrait, #apricotmagazine, #grainisgood"
   - username: "khosrowart"
     fullname: >-
       👑 KHOSRO PHOTOGRAPHY
     bio: >-
       📸 Photographer & Graphic Designer 🎭 Art School of Broadcasting Cinema & Animation 🏡 Faculty of Art & Architecture 🛠 Industrial Designer 📬 DM For Work
     location: "France"
-    followers: 12620
-    engagement: 772
-    commentsToLikes: 0.033947
+    followers: 12241
+    engagement: 769
+    commentsToLikes: 0.035758
     id: ck5zjpqupi0t70i14487e84xh
     verified: false
-    hashtags: "#vscocam, #zhest, #artgraphy, #retouch"
-  - username: "michaelamani"
+    hashtags: "#retouch, #tehrantimes, #vatani, #retouching"
+  - username: "laurablue__"
     fullname: >-
-      MICHAEL AMANI
+      L A U R A  B L U E
     bio: >-
-      DEEJAY content creator graphic designer @thesocialjasper.jpg music – youtube and more ⤵
+      🇫🇷 PRO : @laurablue_photos ☼ Twenty something ☼ Photographer / Graphic designer / Video ☼ Creative . Entrepreneur . Traveler Savoyarde 🧀
     location: "France"
-    followers: 15263
-    engagement: 652
-    commentsToLikes: 0.022639
-    id: ck5qb6mf2k2oj0i114i74p9pc
+    followers: 3182
+    engagement: 1541
+    commentsToLikes: 0.082343
+    id: ck0tvy4wpdard0i195007lwdu
     verified: false
-    hashtags: ""
+    hashtags: "#summer21, #instapic, #inspiration, #instadaily"
   - username: "croquejuju"
     fullname: >-
       croquejuju
     bio: >-
-      📸 YouTuber 49K 📍Paris 💼 MAKEUPARTIST / GRAPHIC DESIGNER TikTok : croqjuju ✉ croquejuju@soeuretteproductions.com ⬇ DERNIÈRE VIDÉO ⬇
+      📸 YouTuber 53K📍Paris 💼 MAKEUPARTIST / GRAPHIC DESIGNER TikTok : croqjuju ✉ croquejuju@soeuretteproductions.com ⬇ DERNIÈRE VIDÉO ⬇
     location: "France"
-    followers: 42706
-    engagement: 626
-    commentsToLikes: 0.011851
+    followers: 41059
+    engagement: 608
+    commentsToLikes: 0.017771
     id: ck5bxdaoani4j0i11v7gcm75i
     verified: false
-    hashtags: "#halloweenmakeup, #31daysofhalloween, #horrormakeup, #makeupart"
-  - username: "fabricefayal"
-    fullname: >-
-      Fabrice Fayal
-    bio: >-
-      Acteur • Model • Égérie • Graphic Designer 🇨🇻 🇸🇳 fabricefayal@gmail.com
-    location: "France"
-    followers: 7356
-    engagement: 1380
-    commentsToLikes: 0.026259
-    id: ckap31cjq17aa0i78zyi683ib
-    verified: false
-    hashtags: "#allblack, #modelife, #blue, #fashion"
-  - username: "gaelle_lamoureux"
-    fullname: >-
-      Maman|entrepreneur|famille
-    bio: >-
-      •Graphicdesigner• créative, good vibes, voyage 📍RENNES, France 📩gaelle.lamoureux@gmail.com 👇🏻 BLOG
-    location: "France"
-    followers: 41115
-    engagement: 437
-    commentsToLikes: 0.078932
-    id: ckf5oifz82dbu0j23e8yqpxcp
-    verified: false
-    hashtags: "#reels, #illustration, #love, #rennescity"
+    hashtags: "#31daysofhalloween, #halloweenmakeup, #halloweencostume, #facepaint"
   - username: "abiparmenter"
     fullname: >-
       Abi
@@ -103,28 +79,52 @@ profiles:
     id: ck6tni2409vvj0j714h6rh592
     verified: false
     hashtags: ""
-  - username: "_stormae"
+  - username: "fghodrat_artwork"
     fullname: >-
-      🌻 stormy mae nesbit 🌻
+      F A T E M E  | ARTWORK
     bio: >-
-      Represented by - Jesus Christ ⋒ graphic designer by day + illustrator by night ⋒ french fry lover • MN - AZ ⋒ shop • services • inquiries ↓
+      Photographer Student📷 at aui Graphic designer Committed❤️ Portrait photography | Ahwaz
     location: "France"
-    followers: 39519
-    engagement: 718
-    commentsToLikes: 0.033854
-    id: ck5zy0pk990nu0i1482ymz7eq
+    followers: 2364
+    engagement: 3181
+    commentsToLikes: 0.065871
+    id: ck0u9cawt9l5l0i19vk8ma26m
     verified: false
-    hashtags: "#electionday, #papercrafts, #adobefresco, #recordstoreday"
-  - username: "laperleocre"
+    hashtags: "#photomodel, #boxing, #photograph, #blackandwhite"
+  - username: "fabricefayal"
     fullname: >-
-      T A N I A
+      Fabrice Fayal
     bio: >-
-      𝘽𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙠𝙞𝙣𝙙 𝙤𝙛 𝙖𝙢𝙖𝙯𝙞𝙣𝙜 ✨ BLACK LIVES MATTER 🇧🇯🇫🇷 | Creative Director | Graphic Designer |Content creator | Youtuber 📍Paris 💌 : taniatev@gmail.com
+      Acteur • Modèle • Égérie • Graphic Designer 🇨🇻 🇸🇳 fabricefayal@gmail.com
     location: "France"
-    followers: 15003
-    engagement: 350
-    commentsToLikes: 0.027431
-    id: ck6tm6fjf79fp0j7165pzgi6r
+    followers: 7767
+    engagement: 1240
+    commentsToLikes: 0.028721
+    id: ckap31cjq17aa0i78zyi683ib
     verified: false
-    hashtags: "#inspire, #look, #plt, #fashionista"
+    hashtags: "#senegal, #pub, #allblack, #style"
+  - username: "lea_binda"
+    fullname: >-
+      Leabidu 🪐✨
+    bio: >-
+      💫 french illustrator & graphic designer 🛸 contact@leabinda.com ✨👇🏻 etsy shop 👇🏻✨
+    location: "France"
+    followers: 9272
+    engagement: 978
+    commentsToLikes: 0.066565
+    id: ck5q1hg4bb06f0i11f6l3z41k
+    verified: false
+    hashtags: ""
+  - username: "kriboute"
+    fullname: >-
+      Kriboute • Illustrations ⭐️
+    bio: >-
+      • Illustratrice • DIY • Scénographie • Graphic Designer • Content Creator • 📍Annecy ⭐️ 💌 marionpisibon@gmail.com
+    location: "France"
+    followers: 20866
+    engagement: 331
+    commentsToLikes: 0.038055
+    id: ck0w1s16ykuh30i19meihcvuc
+    verified: false
+    hashtags: "#sponsoris, #ibisstyles, #culturajubile, #pentel"
 ---

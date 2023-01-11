@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In India in 2023
+title: Top 10 Divers TikTok Influencers In India In 2023
 description: >-
-  Find top divers TikTok influencers in India in 2023. Most popular hashtags: #fyp #tiktok #foryou #tiktokindia.
+  Find top divers TikTok influencers in India in 2023. Most popular hashtags: #foryou #kerala #drivers #tiktokindia.
 platform: TikTok
 hits: 30
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 30 TikTok influencers like this in India for you to contact.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 30 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "gaurav_r_1995"
     fullname: >-
@@ -14,11 +14,11 @@ profiles:
       National medalist Indian diver Deputy chief ticket inspector (W. R) 
     location: "India"
     followers: 13900
-    engagement: 505
-    commentsToLikes: 0.011365
+    engagement: 489
+    commentsToLikes: 0.012192
     id: ckbkth4unog7q0j23g48tlw64
     verified: false
-    hashtags: "#gymnastics, #somersaultchallenge, #acrobatics, #indiandivers"
+    hashtags: "#somersaultchallenge, #diverslife, #acrobatics, #indiandivers"
   - username: "trulynomadly"
     fullname: >-
       Sharanya Iyer
@@ -26,11 +26,11 @@ profiles:
       Solo Traveler. Here for all things travel & pop culture! Instagram @trulynomadly
     location: "India"
     followers: 42800
-    engagement: 495
-    commentsToLikes: 0.038447
+    engagement: 494
+    commentsToLikes: 0.037732
     id: ck9dwvkxzqqyx0j78k5ragb0q
     verified: false
-    hashtags: "#fyp, #tiktokkerala, #indiatiktok, #india"
+    hashtags: "#tiktokkerala, #tiktokindia, #travel, #travellife"
   - username: "akash__nagare"
     fullname: >-
       brand is brand👑491
@@ -38,11 +38,11 @@ profiles:
       देवा ग्रुप ड्रायव्हर संघटना महा,राज्य. only drivers491 brand is brand👑vanjari👑
     location: "India"
     followers: 489900
-    engagement: 1319
-    commentsToLikes: 0.011027
+    engagement: 1367
+    commentsToLikes: 0.011039
     id: cka7r2a9ad9b10i782p1mzr94
     verified: false
-    hashtags: "#foyou, #dosti, #maxx, #brand"
+    hashtags: "#akash, #maxx, #tiktok, #brand"
   - username: "anjali.raghav"
     fullname: >-
       anjali raghav
@@ -50,11 +50,11 @@ profiles:
       Official Account - Anjali Raghav Follow me in insta @anjaliraghavonline
     location: "India"
     followers: 1900000
-    engagement: 959
-    commentsToLikes: 0.005310
+    engagement: 936
+    commentsToLikes: 0.005433
     id: cka87pkzd7urf0i782ugq9fig
     verified: false
-    hashtags: "#mharatv, #anjaliraghav, #dilersinghkharakiya, #lovemarraigesong"
+    hashtags: "#anjaliraghav, #dilersinghkharakiya, #mharatv, #lovemarraigesong"
   - username: "ramshidhshaz"
     fullname: >-
       RAmshidh ShAz
@@ -62,23 +62,23 @@ profiles:
       A D H O G Z Jai Guru Holidays 🐈 Cat Lover 🐈
     location: "India"
     followers: 38800
-    engagement: 1633
-    commentsToLikes: 0.006721
+    engagement: 1571
+    commentsToLikes: 0.005959
     id: cka7vgmsfw4df0i78t3mbguz7
     verified: false
-    hashtags: "#buskerala, #driver, #lockdown, #traveller"
+    hashtags: "#lockdown, #tiktokhot, #tiktoklover, #mallumemes"
   - username: "mr.kanaiya9918"
     fullname: >-
       Mr.kanaiya
     bio: >-
       કનૈયા ટૂર & ટ્રાવેલ્સ kanaiya tour & travels
     location: "India"
-    followers: 3416
-    engagement: 1502
+    followers: 3412
+    engagement: 1499
     commentsToLikes: 0.004885
     id: ckae1deouo7og0i786n67bz9l
     verified: false
-    hashtags: "#dwarka, #jaymurlidhar, #drivers, #mungfali"
+    hashtags: "#khedutputra, #lamba, #jaymurlidhar, #buslovers"
   - username: "speedlinetravelsofficial"
     fullname: >-
       SPEEDLINE Travels
@@ -86,45 +86,45 @@ profiles:
       Travels, Garage, workshop മ്മടെ support എല്ലാര്‍ക്കും ഉണ്ട്ട്ടാ
     location: "India"
     followers: 11600
-    engagement: 1207
-    commentsToLikes: 0.005455
+    engagement: 1195
+    commentsToLikes: 0.005232
     id: ckb0kbnotb7ao0j23kob7oito
     verified: false
-    hashtags: "#trending, #tiktok2020, #tiktok, #foryou"
-  - username: "villanlava"
+    hashtags: "#monsoonvibes, #thrissur, #64, #fyp"
+  - username: "idukkigold68"
     fullname: >-
-      Vinod
+      VillanLava😎
     bio: >-
-      Pulser220♥️Lover 
+      [vandipranthan]
     location: "India"
-    followers: 8369
-    engagement: 1198
-    commentsToLikes: 0.002521
+    followers: 9885
+    engagement: 1186
+    commentsToLikes: 0.004470
     id: cka84sxexvg820i78pswuxtjm
     verified: false
-    hashtags: "#bolerolove, #savemodification, #drivers, #bikelovers"
-  - username: "sachusingh_"
-    fullname: >-
-      Sachu singh 
-    bio: >-
-      Halke me le raa dikhe 🔥💪🏻 Instagram:- thesachusingh ❤️ #sachusingh #teamsachu
-    location: "India"
-    followers: 314600
-    engagement: 876
-    commentsToLikes: 0.007090
-    id: ckbblgdfk9oo90j23i9nmtxgo
-    verified: false
-    hashtags: "#viral, #haryanvi, #swagstepchallenge, #goa"
+    hashtags: "#drivers, #bajajfamily, #vandipranthan, #idukkikaran"
   - username: "royaladda11"
     fullname: >-
       divesh💎
     bio: >-
-      subscribe YouTube for gorw your account
+      
     location: "India"
-    followers: 124026
-    engagement: 703
-    commentsToLikes: 0.004170
+    followers: 128500
+    engagement: 567
+    commentsToLikes: 0.001112
     id: cka0urae2viza0i78xe045evq
     verified: false
-    hashtags: "#india, #moment, #action, #proud"
+    hashtags: "#fyp, #divesh, #fight, #ring"
+  - username: "_t_h_e_volley_k_i_d_21_"
+    fullname: >-
+      T_H_E_VOLLEY_K_!_D21
+    bio: >-
+      Mask mukkyam bigileeeeee...😷😉
+    location: "India"
+    followers: 6323
+    engagement: 2472
+    commentsToLikes: 0.033974
+    id: ckbqt94zadykj0j234gway8wx
+    verified: false
+    hashtags: "#1millionaudition, #champibeats, #queen, #doubleexposure"
 ---

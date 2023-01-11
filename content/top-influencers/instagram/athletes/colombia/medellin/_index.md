@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Medellín in 2023
+title: Top 10 Athletes Instagram Influencers In Medellín In 2023
 description: >-
-  Find top athletes Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #fitness #colombia #love.
+  Find top athletes Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #envigado.
 platform: Instagram
-hits: 8
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat has 8 Instagram influencers like this in Medellín, Colombia for you to connect with.
+hits: 5
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 5 Instagram influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
   - username: "orianavalenti89"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ▫️ENDODONCISTA ▫️Medellín - Colombia ▫️Citas (318) 2900517 ▫️@illumidentsas ▫️Pole Athlete
     location: "Colombia"
-    followers: 31551
-    engagement: 268
-    commentsToLikes: 0.051947
+    followers: 31252
+    engagement: 253
+    commentsToLikes: 0.054905
     id: ckapb0xwdy7t60i78vz5s4wf7
     verified: false
-    hashtags: "#poledance, #cuarentena, #itagui, #girls"
-  - username: "nataliafrancov"
+    hashtags: "#girls, #odontologia, #polefitness, #envigado"
+  - username: "mulatafit"
     fullname: >-
-      Natalia Franco Villegas
+      Sunny Dova WBFF PRO
     bio: >-
-      Medellín, Colombia 🇨🇴 Cyclist for @teamtwenty24 @gozwift 🚲 Soon 2B Mental Performance Consultant!🧠 naty-franco95@hotmail.com
+      @wbffentertainment champion usa 1st colombian to be crowned diva PRO @megaplexstars athlete elite Team @sportfitness.shop.latam Entrena aquí ⤵️
     location: "Colombia"
-    followers: 15350
-    engagement: 452
-    commentsToLikes: 0.024797
-    id: ck5cfv7nlnog70i11pvi71ey4
+    followers: 618588
+    engagement: 199
+    commentsToLikes: 0.034961
+    id: ck5q5bhkks4yj0i11prd3sjk9
     verified: false
-    hashtags: "#athlos, #colombianpower, #outsideisfree, #weareamplified"
+    hashtags: "#megaplex, #burnerchallenge, #happy, #medellin"
   - username: "mariaclaraceballos89"
     fullname: >-
       Maria Clara Ceballos
     bio: >-
-      Mamá de Vicente CrossFit Athlete 💼 @Soyhakuna 🔥@healthysportscolombia 🏋️‍♂️ @lycanfitnesscol 📧 mariaclaraceballos@gmail.com
+      Mamá de Vicente CrossFit Athlete 💼 @Soyhakuna 📱@comunidadnow 🔥@healthysportscolombia 🏋️‍♂️ @lycanfitnesscol 📧 mariaclaraceballos@gmail.com
     location: "Colombia"
-    followers: 457574
-    engagement: 153
-    commentsToLikes: 0.012825
+    followers: 453318
+    engagement: 138
+    commentsToLikes: 0.019026
     id: ck8sxh8y1hdyg0j78njfdve7w
     verified: true
-    hashtags: "#cuarentena, #familiahakuna, #mariaclaraceballos, #vicentepalacioceballos"
-  - username: "davidgonzalez"
+    hashtags: "#maternidad, #mariaclaraceballos, #babyboy, #guerrerahakuna"
+  - username: "boykaortiz"
     fullname: >-
-      David Gonzalez
+      BOYKA ORTIZ®
     bio: >-
-      SKATEBOARDER Athlete 🇨🇴 -> 🇺🇸 @rockstarenergy @globebrand @flipskateboards @independenttrucks
+      ⚽️ Freestyler | Coach | World Champion 🌎 🟡 Athlete @dymatize 🔵 @adidasco | @action.fitness 🔴x26 country 📲 Manager @carolinacorreaunica
     location: "Colombia"
-    followers: 605604
-    engagement: 162
-    commentsToLikes: 0.013668
-    id: ck0u93lz98uke0i19khys47hj
+    followers: 72868
+    engagement: 151
+    commentsToLikes: 0.026824
+    id: ck55prkpcb7jh0i11lmkmku91
     verified: true
-    hashtags: "#globeshoes, #ridethebest, #rockstarenergy, #rockstarenergydrink"
-  - username: "yota_restrepo"
+    hashtags: "#reels, #boykaortiz, #freestyle, #colombia"
+  - username: "guffy.ramirez"
     fullname: >-
-      Yonatan Restrepo
+      Juan Camilo Ramirez
     bio: >-
-      Co-owner and Head Coach en @NIFTYBOX Olympic weightlifter and Crossfitter 🏋3x CF regional athlete Coach Crossfit L1 Prof. en deporte Personal trainer
+      🇨🇴Colombiano 🏁Bicicrosista Élite 🥉Bronce Olímpico Juvenil 🇦🇷 🥈Plata Mundial Junior 🇦🇿 🥇Campeón Mundial 🇺🇸
     location: "Colombia"
-    followers: 27905
-    engagement: 284
-    commentsToLikes: 0.015865
-    id: ck5znmtm1ore70i14b763p9gk
+    followers: 6845
+    engagement: 833
+    commentsToLikes: 0.025057
+    id: ck6ue4aymor5k0j71bn8ieo5h
     verified: false
-    hashtags: "#training, #enjoy, #yoentrenoencasa, #baby"
-  - username: "bigjoseifbbpro"
-    fullname: >-
-      JOSE LUIS RODRIGUEZ OYOLA
-    bio: >-
-      🌍IFBB PRO @ifbb_pro_league 💪Menace team Athlete 💪🏾@bigdjames 🏆South American Champion 🇧🇷A.Classic Brasil 2014 Overall 🔬LANDERLAN @landerlanparaguay
-    location: "Colombia"
-    followers: 41026
-    engagement: 165
-    commentsToLikes: 0.029427
-    id: ck5hrztlmvre90i11aj2tsice
-    verified: false
-    hashtags: "#jotapro, #sololosmejores, #tbt, #argimixpro"
-  - username: "danielrestrepogarcia"
-    fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
-    bio: >-
-      Quiero transmitir mi filosofía olímpica 🇨🇴. Porque no solo se trata de ganar medallas, sino amistad, comprensión, y esfuerzo 🔜@tokyo2020 🎌
-    location: "Colombia"
-    followers: 10512
-    engagement: 1195
-    commentsToLikes: 0.012534
-    id: ck8sxy4w6j33z0j78bo5e1iqo
-    verified: false
-    hashtags: "#me, #champion, #workout, #motivation"
-  - username: "miguelsquash"
-    fullname: >-
-      𝙈𝙄𝙂𝙐𝙀𝙇 𝘼𝙉𝙂𝙀𝙇 𝙍𝙊𝘿𝙍𝙄𝙂𝙐𝙀𝙕
-    bio: >-
-      📍 Colombian 🇨🇴 ⚫️ Professional Squash Player 🌎 World Top 10 🏆 British Open 2018 @sporadecolombia @tecnifibre @eyeracketsint @rowemotoroilofficial
-    location: "Colombia"
-    followers: 23732
-    engagement: 540
-    commentsToLikes: 0.013023
-    id: ck0w4iqi7yrg80i190ewn9hgk
-    verified: false
-    hashtags: "#911, #cairo, #miguelsquash, #bogota"
-  - username: "taneth.fit"
-    fullname: >-
-      Taneth Gimenez
-    bio: >-
-      DIOS todo ✝️ 🧩Proud Autism mom of 2 👧🏻👦🏻 🗣🇪🇸🇺🇸🇧🇷 🌟@bangenergy Elite 🐲@dragonpharma_llc Athlete 💟@jednorthwomen 👗@fashionnova AD
-    location: "Colombia"
-    followers: 1739559
-    engagement: 249
-    commentsToLikes: 0.022407
-    id: ck5c1098xu7230i11ee9zbtbu
-    verified: false
-    hashtags: "#workout, #bangrevolution, #motivation, #lovemybang"
+    hashtags: "#racing, #colombia, #extremo, #tap"
   - username: "orianavalenti89"
     fullname: >-
       Oriana Valenti | Dentist
     bio: >-
       ▫️ENDODONCISTA ▫️Medellín - Colombia ▫️Citas (318) 2900517 ▫️@illumidentsas ▫️Pole Athlete
     location: "Colombia"
-    followers: 31551
-    engagement: 268
-    commentsToLikes: 0.051947
+    followers: 31252
+    engagement: 253
+    commentsToLikes: 0.054905
     id: ckapb0xwdy7t60i78vz5s4wf7
     verified: false
-    hashtags: "#poledance, #cuarentena, #itagui, #girls"
+    hashtags: "#girls, #odontologia, #polefitness, #envigado"
+  - username: "caro_toro"
+    fullname: >-
+      Carolina Toro Raigosa
+    bio: >-
+      𝒢𝑜𝒹 𝒾𝓈 𝓁𝑜𝓋𝑒 Comunicadora Social Periodista Athlete SMART PRO @dimareswimw
+    location: "Colombia"
+    followers: 193401
+    engagement: 258
+    commentsToLikes: 0.011661
+    id: ck0w3tqyxv87p0i19cy9ozkrz
+    verified: false
+    hashtags: ""
+  - username: "laura_manrique13"
+    fullname: >-
+      Laura Manrique
+    bio: >-
+      Athlete Bikini Fitness👙 🄲🄾🄰🄲🄷 🄸🄽🅃🄴🅁🄽🄰🄲🄸🄾🄽🄰🄻 🏋🏻‍♂️ 𝔽𝕚𝕥𝕟𝕖𝕤𝕤+𝕙𝕖𝕒𝕝𝕥𝕙𝕪+𝕟𝕦𝕥𝕣𝕚𝕥𝕚𝕠𝕟 𝕔𝕠𝕒𝕔𝕙💚 Colombiana 🇨🇴 @abcfitnesspanama 🛍🛒
+    location: "Colombia"
+    followers: 39690
+    engagement: 186
+    commentsToLikes: 0.023365
+    id: ck6tmt8738hn60j71nllvp2a8
+    verified: false
+    hashtags: "#powerwoman, #business, #trabajoenequipo, #sanvalentineday"
+  - username: "suevygramer"
+    fullname: >-
+      sᴜᴇᴠʏ
+    bio: >-
+      🏃🏼‍♀️Nike Athlete ⚡️ @homeathlete_method 🥑No meat athlete 🌱Plant mami 🐱Cat mom AF @bakerandblair
+    location: "Colombia"
+    followers: 58030
+    engagement: 103
+    commentsToLikes: 0.015653
+    id: ck6u879q9pudr0j71zonz7f7s
+    verified: false
+    hashtags: "#trailrunner, #panama, #trailrun, #nikerunning"
+  - username: "dilian_jurado"
+    fullname: >-
+      Dilian Jurado
+    bio: >-
+      🇵🇦Panamá Hija del Rey #God @bpi_sports athlete @fitnessgamepty athlete Lucas 1:37 ♥️
+    location: "Colombia"
+    followers: 47568
+    engagement: 200
+    commentsToLikes: 0.025363
+    id: ck14gkaeo5nkb0i19z2hym60m
+    verified: false
+    hashtags: "#lovewhatyoudo, #fitnesslifestyle, #focus, #panama"
 ---

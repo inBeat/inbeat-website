@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Canada in 2023
+title: Top 10 Gaming TikTok Influencers In Canada In 2023
 description: >-
-  Find top gaming TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
+  Find top gaming TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #gaming #foryoupage.
 platform: TikTok
-hits: 607
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 607 TikTok influencers like this in Canada for you to collaborate.
+hits: 966
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 966 TikTok influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "ob1canoebee"
+  - username: "mrob29"
     fullname: >-
-      stephanie
+      Marissa Roberto
     bio: >-
-      22 | MTL | 🇨🇦 General Steve Kenobi Watch my gaming stream ⬇️
+      MRob29 on insta 🇮🇹🇨🇦 Work in sports+gaming, but this is personal. [she/her]
     location: "Canada"
-    followers: 141100
-    engagement: 1878
-    commentsToLikes: 0.021906
-    id: ckacaxg56h8nw0i78lssdbcn7
+    followers: 37600
+    engagement: 983
+    commentsToLikes: 0.143995
+    id: ck8njn82eb58f0j7815ul8nz8
     verified: false
-    hashtags: "#coronavirus, #quarantine, #mirror, #montreal"
-  - username: "edgemonk"
-    fullname: >-
-      Edwin Joseph
-    bio: >-
-      Just Me The Real Me Sports-Gaming Mixer: Edjemonk
-    location: "Canada"
-    followers: 2674
-    engagement: 1255
-    commentsToLikes: 0.058997
-    id: ckb9ppa93kz840j2327cxnwxm
-    verified: false
-    hashtags: "#greenscreen, #ripgigi, #nba2k, #ripkobe"
+    hashtags: "#leafsforever, #hockeytok, #toronto, #italiancheck"
   - username: "mtcosplay"
     fullname: >-
       RBTZful
     bio: >-
-      ROAD TO 5K 25🇨🇦 cosplay, memes, weightlifting, gaming, tatted trash goblin
+      ROAD TO 10K 25🇨🇦 cosplay, memes, weightlifting, gaming, tatted trash goblin
     location: "Canada"
-    followers: 5129
-    engagement: 1246
-    commentsToLikes: 0.042701
+    followers: 5112
+    engagement: 1319
+    commentsToLikes: 0.052439
     id: ck9gm0ph4qgbr0j78xdlm13c1
     verified: false
-    hashtags: "#foryou, #qualitycontent, #funny, #fyp"
+    hashtags: "#comedy, #foryou, #funny, #qualitycontent"
+  - username: "edgemonk"
+    fullname: >-
+      Edwin Joseph
+    bio: >-
+      Just Me The Real Me Sports-Gaming
+    location: "Canada"
+    followers: 2737
+    engagement: 1016
+    commentsToLikes: 0.068476
+    id: ckb9ppa93kz840j2327cxnwxm
+    verified: false
+    hashtags: "#allstarmoment, #greenscreen, #femaleathelte, #ripkobe"
   - username: "sugarpawse"
     fullname: >-
       sugar pawse
     bio: >-
       •Cute gaming accessories• Ships from 🇨🇦 FREE Shipping in Canada
     location: "Canada"
-    followers: 6467
-    engagement: 1393
-    commentsToLikes: 0.033573
+    followers: 6373
+    engagement: 1374
+    commentsToLikes: 0.033086
     id: ckc1t1k29xcc00j23058darwz
     verified: false
-    hashtags: "#ecommerce, #smallbusinesstips, #smallbusinessadvice, #smallbusiness"
+    hashtags: "#smallbusinesstips, #smallbusinessadvice, #smallbusiness, #ecommerce"
   - username: "nicobbq_tiktok"
     fullname: >-
       nicobbq
     bio: >-
       I'm Nico and I'm gonna show you gaming tricks. I also make YouTube vids.
     location: "Canada"
-    followers: 57700
-    engagement: 1800
-    commentsToLikes: 0.011595
+    followers: 59300
+    engagement: 1798
+    commentsToLikes: 0.017819
     id: ck8oswvhcit2f0j789lnjzj45
     verified: false
-    hashtags: "#nintendo, #foryoupage, #fyp, #crazy"
-  - username: "maguirepcs"
+    hashtags: "#epic, #gamer, #crazy, #fyp"
+  - username: "maxamiliyt"
     fullname: >-
-      Maguire
+      Maxamili
     bio: >-
-      Pc/gaming related content LINKS
+      Subscribe to my YouTube above☝🏼 for more funny gaming and Omegle videos!
     location: "Canada"
-    followers: 86000
-    engagement: 999
-    commentsToLikes: 0.060944
-    id: ckdhosejt13920j23osfqbz09
+    followers: 85400
+    engagement: 1086
+    commentsToLikes: 0.009971
+    id: ck9c5rb2mqolf0j78c864iz6s
     verified: false
-    hashtags: "#fortnite, #gamer, #pc, #gaming"
-  - username: "vootz"
-    fullname: >-
-      Vootz
-    bio: >-
-      Funny Gaming Videos! Subscribe to Vootz on YouTube👇
-    location: "Canada"
-    followers: 217400
-    engagement: 2050
-    commentsToLikes: 0.007141
-    id: ckc8vt3bgix6o0j23zdxqgr0c
-    verified: false
-    hashtags: "#foryou, #r6siege, #r6, #fortnite"
-  - username: "coreytonge"
-    fullname: >-
-      coreytonge
-    bio: >-
-      🇨🇦Montréal 📷Insta: @CoreyTonge 💪🏼Comedy + Gaming 🤩70k?🤷🏻‍♂️
-    location: "Canada"
-    followers: 68300
-    engagement: 1127
-    commentsToLikes: 0.033670
-    id: ckbf53t13tvnk0j23spclrfak
-    verified: false
-    hashtags: "#cosplay, #gamer, #mtl, #comedygaming"
-  - username: "nayrui"
-    fullname: >-
-      Nay
-    bio: >-
-      More gaming clips at:
-    location: "Canada"
-    followers: 9438
-    engagement: 843
-    commentsToLikes: 0.023861
-    id: ckbfga3hqbb1f0j23ite40p3p
-    verified: false
-    hashtags: "#filmstudent, #604, #fyp, #shecandoit"
+    hashtags: "#fyp, #kermitontiktok, #foryoupage, #kermit"
   - username: "epginformatique"
     fullname: >-
       EPG Informatique
     bio: >-
       EPG Computers / EPG Informatique Gaming PCs
     location: "Canada"
-    followers: 18500
-    engagement: 791
-    commentsToLikes: 0.021857
+    followers: 20900
+    engagement: 764
+    commentsToLikes: 0.035707
     id: ck9k4ynr2umu00j787t7mi7qm
     verified: false
-    hashtags: "#pc, #pcsetup, #fyp, #pourtoi"
+    hashtags: "#foryou, #epg, #rgb, #setup"
+  - username: "e11gaming"
+    fullname: >-
+      Eleven Gaming
+    bio: >-
+      Official TikTok Account of Eleven Gaming 👾 Professional Esports Organization 🖥
+    location: "Canada"
+    followers: 4814
+    engagement: 470
+    commentsToLikes: 0.167990
+    id: ckb17rf54vh930j230mv61ud5
+    verified: false
+    hashtags: "#fortnitedance, #fortnite, #tiktok, #gaming"
+  - username: "mrbeastgaming_"
+    fullname: >-
+      MrBeast Gaming
+    bio: >-
+      Sharing Our Gaming Highlights on Tiktok 🎉 Click on Link👇🏻🍪Download The Apps
+    location: "Canada"
+    followers: 286300
+    engagement: 1040
+    commentsToLikes: 0.022024
+    id: ckd6wia0zsc920j23bwsb2qfk
+    verified: false
+    hashtags: ""
+  - username: "itstheggfamily"
+    fullname: >-
+      The GG Family
+    bio: >-
+      Proprios de Sunday Studios, Monolith, Mainland Gaming et Les Nettoyeurs White’s
+    location: "Canada"
+    followers: 64500
+    engagement: 1244
+    commentsToLikes: 0.007341
+    id: ckcduf2igej790j2333yvg6mx
+    verified: false
+    hashtags: "#entrepreneur, #montrealcanada, #montrealtiktok, #quebectiktok"
 ---

@@ -1,108 +1,120 @@
 ---
-title: Top 10 Health Instagram Influencers In Izmir in 2023
+title: Top 10 Health Instagram Influencers In Izmir In 2023
 description: >-
-  Find top health Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #health #istanbul #instalike.
+  Find top health Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #health #sa #instagram.
 platform: Instagram
 hits: 28
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 28 Instagram influencers like this in Izmir, Turkey for you to contact.
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 28 Instagram influencers like this in Izmir, Turkey for you to pitch.
 profiles:
-  - username: "basakbybeauty"
+  - username: "arzuyanardag"
     fullname: >-
-      Başak By Beauty Blog
+      Arzu Yanardağ
     bio: >-
-      İzmir/Turkey🇹🇷 Başak Makes You a Princess💋 Purple Love💜 PR&İş Birliği ve Özel gün makyajları İçin DM📩
+      Actress
     location: "Turkey"
-    followers: 8341
-    engagement: 329
-    commentsToLikes: 0.139380
-    id: ckf5xk2pxvxk10j235bxu72uh
+    followers: 53283
+    engagement: 201
+    commentsToLikes: 0.024476
+    id: ck5q7s0z82utv0i11vsrraqko
     verified: false
-    hashtags: "#basakbybeauty, #eye, #makeupartist, #eyemakeup"
-  - username: "gokhanbensiz"
+    hashtags: "#sa, #instagood, #konuk, #moderat"
+  - username: "ecemercimekci"
     fullname: >-
-      Gökhan Bensiz
+      Ece Mercimekçi
     bio: >-
-      Avrasya Consult & Survey Engineer BSc.
+      Beslenme ve Diyetetik-BVU📚
     location: "Turkey"
-    followers: 70732
-    engagement: 516
-    commentsToLikes: 0.008736
-    id: ck5hsjrrhwpju0i117sbtozpi
+    followers: 20809
+    engagement: 1416
+    commentsToLikes: 0.223334
+    id: ck9wf5iornadm0j7867hui3me
     verified: false
-    hashtags: "#mensstreetstyle, #mensoutfit, #sunnyday, #mensfashionpost"
-  - username: "ssemaakbulut"
+    hashtags: "#reelsinstagram, #foodhacks, #ke, #calories"
+  - username: "dyt.oguzhantepe"
     fullname: >-
-      Sema akbulut
+      Oğuzhan Tepe
     bio: >-
-      📺CNNTURK🎤🎤Vicdanı olan bir insan, sonra haberci.🎥 Bir garip gezgin 🏃🏼‍♀️🏃🏼‍♀️🏃🏼‍♀️ 📣Kurumsal organizasyonlarda sunum 📲(DM)sema.akbulut@cnnturk.com.tr
+      📍 İzmir 🏔 TEPE KLİNİK 🏔 ☎ Tel: 0505 999 77 37 💌 diyetisyentepe@gmail.com
     location: "Turkey"
-    followers: 10449
-    engagement: 727
-    commentsToLikes: 0.015037
-    id: ck8t5erco9wkq0j7871hkqo84
+    followers: 12893
+    engagement: 981
+    commentsToLikes: 0.364024
+    id: ck9hb9ru1fyd70j78bbefrroz
     verified: false
-    hashtags: "#tbt, #film, #izmir, #ilovemydog"
-  - username: "aslidogruu"
+    hashtags: "#go, #izmir, #diyetisyenizmir, #diyet"
+  - username: "tatli_tuzlu_eksi_lezzetler"
     fullname: >-
-      ASLI DOĞRU
+      Rabiyanin Dünyasi
     bio: >-
-      Traveller & Discovery Anestezi / İESU / KOÜ Sakarya
+      İzmir ❣️ Berlin Saglik🤲🏻 Yemek🍽 Doğa🍃 Evim🏡
     location: "Turkey"
-    followers: 38320
-    engagement: 548
-    commentsToLikes: 0.001706
-    id: ck0ttn38h3fn30i19kfeeljun
+    followers: 42825
+    engagement: 343
+    commentsToLikes: 0.137534
+    id: ckf5qpou0a56t0j23fj4bfpuv
     verified: false
-    hashtags: "#hijab, #yes, #hijabfashion, #manzara"
-  - username: "erkantopuzofficial"
+    hashtags: "#foodblogger, #su, #as, #enfestarifler"
+  - username: "chefgulhankara"
     fullname: >-
-      Prof.Dr.Erkan Topuz
+      Gülhan Kara
     bio: >-
-      🖋İç Hastalıkları ve Tıbbi Onkoloji Uzmanı 🏨Yeni Yüzyıl Unv. Gop Hastanesi ☎️Randevü: 0(530)-9616228 🖥www.drerkantopuz.com 📺Youtube Kanalım ⬇️
+      GastronomiYazarı&EğitmenŞef Danışman Foodeditor Yemek Kitapları #foodinfluencer @chefsistanbul MutfakAtölyesi®️ İletişim➡️DM #urla#izmir
     location: "Turkey"
-    followers: 355308
-    engagement: 369
-    commentsToLikes: 0.046262
-    id: ck8tclkm5zu6y0j789zo37af3
-    verified: true
-    hashtags: "#sa, #19may, #coronavirus, #annes"
-  - username: "seymatan_collection"
-    fullname: >-
-      Şeyma Tantalkaya Büyükkuşoğlu
-    bio: >-
-      🌟%100 El Yapımı,Kanevice Islemeli Vintage Canta 🌟Popart Clucth-Çanta 🌟Ödeme👉Havale&Eft 🌟Yurtiçi-Yurt Dışı Kargo 🌟Kargo👉Alıcı Ödemeli 🌟Bilgi-Fiyat👉DM
-    location: "Turkey"
-    followers: 12132
-    engagement: 779
-    commentsToLikes: 0.029987
-    id: ck15qpkgw40wk0i197f0lsby3
+    followers: 43130
+    engagement: 218
+    commentsToLikes: 0.040816
+    id: ck8t3fim632ap0j78319ognu9
     verified: false
-    hashtags: "#izmir, #bag, #paris, #crosstich"
-  - username: "boraguner35"
+    hashtags: "#sag, #urla, #chefgulhankara, #sa"
+  - username: "mia_kurtuldu"
     fullname: >-
-      Bora Guner
+      Mia KURTULDU
     bio: >-
-      MİLLİ SPORCU 7X🇹🇷🇹🇷🇹🇷 BİLEK GÜREŞİ TÜRKİYE 1.🥇 STRICT CURL GPA 1.🥇 BİLEK GÜREŞİ AVRUPA 3.🥉 STRONGMAN TÜRKIYE 2.🥈 BİLEK GÜREŞİ DÜNYA 6.
+      Mia Sma ile Savaşıyor 💪🏻 Kurtuldu soyadımızdır 🌟 Sma Tip 1 / Spinraza 💉/ Zolgensma Gene Therapy 🧬
     location: "Turkey"
-    followers: 18062
-    engagement: 749
-    commentsToLikes: 0.014408
-    id: ck6typfnq53e70j718mawmlet
+    followers: 34283
+    engagement: 606
+    commentsToLikes: 0.030835
+    id: ckap5r488ct330i78hjxs2qo7
     verified: false
-    hashtags: "#strongmantraining, #ripped, #6pack, #sweat"
-  - username: "dr.cemkaras"
+    hashtags: "#smatip1, #spinraza, #spinalmuscularatrophytype1, #poland"
+  - username: "inciozdemm"
     fullname: >-
-      Dr. Cem Karas
+      İnci Özdemm
     bio: >-
-      🔵 Rhinoplasty & ENT (KBB). 🧿 yüz plastik cerrahisi. 🏀 KSK basket
+      🧘‍♀️ “muhibbân-ı kütüb” 📚 Kesme nevanı; içine salsalar da keder. Kırılsa gönül medd ü cezr ile hepsi geçer, hepsi geçer.
     location: "Turkey"
-    followers: 89952
-    engagement: 363
-    commentsToLikes: 0.042984
-    id: ck8t6fehgdet20j78xngllr2z
+    followers: 9884
+    engagement: 1258
+    commentsToLikes: 0.076577
+    id: ck9wexe5xma1y0j787xmw17jf
     verified: false
-    hashtags: "#gl, #rhinoplasty, #fitnessmotivation, #familygoals"
+    hashtags: "#love, #kadrajimdan, #rkiye, #nature"
+  - username: "gocebey"
+    fullname: >-
+      Batın Özen
+    bio: >-
+      Göçebe bir yolculuk🚶🏻‍♂️ Travel 🌍 Nature 🌿 Photography 📸 Göçebe tişörtleri için 👇🏻👇🏻
+    location: "Turkey"
+    followers: 15230
+    engagement: 769
+    commentsToLikes: 0.052330
+    id: ck6uaeufn35u50j71my0iy42d
+    verified: false
+    hashtags: "#backpacker, #travel, #turkey, #mountains"
+  - username: "nezyagci"
+    fullname: >-
+      Nez Alin Yağcı
+    bio: >-
+      Online dersler için; 📩 yagci.nez.alin@gmail.com 📩 Dm’ den 💻Online coachıng ➕Pilates instructor ➕Mat Work /Reformer /Hamile Pilatesi ➕Plus Pilates
+    location: "Turkey"
+    followers: 92781
+    engagement: 91
+    commentsToLikes: 0.061616
+    id: ck15s8lksbrzn0i1932eip1a6
+    verified: false
+    hashtags: "#fitnessmotivation, #motivation, #workout, #exercise"
   - username: "dibaestetik"
     fullname: >-
       Diba Estetik&güzellik
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.001508
     id: ck9ha47wjb2oi0j786aycm7dh
     verified: false
-    hashtags: "#ipekkirpik, #vizonkirpik, #ka, #izmir"
-  - username: "dytcerennurturan"
-    fullname: >-
-      Diyetisyen Cerennur Turan
-    bio: >-
-      Akhisar Fen Lisesi’15 👩🏻‍🎓 Afyon Kocatepe Üniversitesi’19 👩🏻‍🎓 #diyetidiyetisyenyazar 🍒🍋Sağlıklı Beslen,Hafif Yaşa 🍒🍋
-    location: "Turkey"
-    followers: 8912
-    engagement: 829
-    commentsToLikes: 0.002380
-    id: ck9hcji56lpkf0j78tebsxy52
-    verified: false
-    hashtags: "#like4likes, #liker, #tbt, #likelike"
+    hashtags: "#ka, #alsancak, #epilasyon, #kal"
 ---

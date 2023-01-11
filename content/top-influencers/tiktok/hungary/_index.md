@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Hungary in 2023
+title: Top 10 TikTok Influencers In Hungary In 2023
 description: >-
-  Find top TikTok influencers in Hungary in 2023. Most popular hashtags: #foryou #foryoupage #fyp #fy.
+  Find top TikTok influencers in Hungary in 2023. Most popular hashtags: #foryou #fyp #fy #foryoupage.
 platform: TikTok
-hits: 448
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 448 TikTok influencers like this in Hungary for you to pitch.
+hits: 463
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 463 TikTok influencers like this in Hungary for you to collaborate.
 profiles:
   - username: "tinamakovics"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       📸 instagram: tinaa.sugi 📸 🎥 youtube: Tinaa 🎥
     location: "Hungary"
-    followers: 385700
-    engagement: 2006
-    commentsToLikes: 0.035446
+    followers: 456800
+    engagement: 1583
+    commentsToLikes: 0.022636
     id: ckck5o7x9qp2m0j23ug7rzfl6
     verified: true
-    hashtags: "#cinemacity, #mammutvip, #duett, #hirdetes"
-  - username: "alizacsodaorszagban"
-    fullname: >-
-      🌴•𝑨𝒍𝒊𝒛•🌴
-    bio: >-
-      👼🏻Ha már itt vagy akkor kövess be👼🏻 🦋Snap:csikiszaboaliz1🦋
-    location: "Hungary"
-    followers: 4457
-    engagement: 5377
-    commentsToLikes: 0.105094
-    id: ckbff5gp59q070j230z69ygem
-    verified: false
-    hashtags: "#rose, #foryou, #foryoupage, #aesthethic"
-  - username: "daisybubi"
-    fullname: >-
-      Bubi_Daisy
-    bio: >-
-      Bubi💙 és Daisy🧡 kövessetek🥺🥺🥺 3000omg ⚠️VAJON MEG LESZ? MI NAGYON REMÉLJÜK⚠
-    location: "Hungary"
-    followers: 2407
-    engagement: 2791
-    commentsToLikes: 0.113493
-    id: ckbki9dq9am6x0j23muradeuy
-    verified: false
-    hashtags: "#bubi, #hun, #csaknekedbe, #neked"
+    hashtags: "#fyp, #fy, #foryou, #batiste"
   - username: "balinttibike"
     fullname: >-
-      Tibi🐲
+      Tibi
     bio: >-
-      🐲🐲🐲🐲🐲🐲🐲🐲 📸instagram: @balinttibike 🎥youtube: @balinttibike 💧🗽👑
+      🐲🐲🐲🐲🐲🐲🐲🐲 📸instagram: @balinttibike 🎥youtube: @balinttibike
     location: "Hungary"
-    followers: 195300
-    engagement: 2343
-    commentsToLikes: 0.044408
+    followers: 204900
+    engagement: 2438
+    commentsToLikes: 0.049446
     id: ckc8vgz0uic8z0j23qr131a6b
     verified: false
-    hashtags: "#varga, #foryou, #foryoupage, #fyp"
-  - username: "nemvagyokember"
-    fullname: >-
-      Nem vok kicsi...te vagy zsiráf
-    bio: >-
-      Ne csak az álmaid kövesd, hanem engem is!❤❤ Nevetek:fekete oroszlánok🦁🖤
-    location: "Hungary"
-    followers: 2369
-    engagement: 2320
-    commentsToLikes: 0.076337
-    id: ckc8xj5izlj1r0j23dqljd8nd
-    verified: false
-    hashtags: "#duett, #foodwehate"
-  - username: "feketedemon01"
+    hashtags: ""
+  - username: "feketesicc"
     fullname: >-
       😈😈😈
     bio: >-
       
     location: "Hungary"
-    followers: 6111
-    engagement: 1933
-    commentsToLikes: 0.112729
+    followers: 7141
+    engagement: 1546
+    commentsToLikes: 0.136002
     id: ck8p18la3ka0y0j78gm8qw0ob
     verified: false
-    hashtags: "#duett, #nekedbe, #ez, #romantic"
-  - username: "vikuszowo"
+    hashtags: "#feketesicc, #joreggelt, #joejt, #legnagyobbboldogsagmikorottholvagyasz"
+  - username: "nemvagyokember"
     fullname: >-
-      Vikusz
+      Disc: ._.I'm a trash._.#2705
     bio: >-
-      💙🤺fencing🤺💙 💙🐣>:^🐣💙 roblox: nviki07 insta: nadi.viktoria 100k?🥺💙
+      I'm looking right at the other half of me...
     location: "Hungary"
-    followers: 92300
-    engagement: 1836
-    commentsToLikes: 0.043385
-    id: ckb8y1zbmd6yf0j23rf5pks4j
+    followers: 2525
+    engagement: 2007
+    commentsToLikes: 0.060671
+    id: ckc8xj5izlj1r0j23dqljd8nd
     verified: false
-    hashtags: "#cutecut, #foryou, #vikusz, #fouryou"
-  - username: "tomy_senpai69"
+    hashtags: ""
+  - username: "deakorsolya5"
     fullname: >-
-      💕Szeretlek Vivi💕
+      deako
     bio: >-
-      MY LIFE:💕💕 @balassavivien❤😍💏 BMW😎🚘❤ 16yrs instagram:kadar_tamas_
+      🦋17y🦋 ♊️
     location: "Hungary"
-    followers: 6298
-    engagement: 1549
-    commentsToLikes: 0.122358
-    id: ckan5e9oueojv0i78o05xv62e
+    followers: 9494
+    engagement: 1856
+    commentsToLikes: 0.064439
+    id: ckd6yj86jwji00j23mtrf5t2o
     verified: false
-    hashtags: "#foryou, #duett, #fyp, #fortnite"
-  - username: "vanisabalabalab"
+    hashtags: "#foryou, #boyfriend, #fact, #4you"
+  - username: "daisybubi"
     fullname: >-
-      ꪜꪖꪀ𝓲 𝘴ꪖ᥇ꪖ ꪶꪮꪜꫀ
+      Bubi_Daisy
     bio: >-
-      BF SL.JJ. BK. Sábalába✨🌈 Dámaláma✨🦙 Horsejumping🐎 ❌Closed❌
+      Bubi💙 és Daisy🧡 kövessetek🥺🥺🥺 6000omg NAGYON KÖSZÖNJÜK ❤️🥺
     location: "Hungary"
-    followers: 3543
-    engagement: 2371
-    commentsToLikes: 0.280014
-    id: ckb94sw35mjat0j239u3m5mne
+    followers: 6195
+    engagement: 2514
+    commentsToLikes: 0.064575
+    id: ckbki9dq9am6x0j23muradeuy
     verified: false
-    hashtags: "#foryoupag, #summerrecap, #fyp, #foryoupage"
-  - username: "_aesthetic_official_"
+    hashtags: "#dog, #csakneked, #daisybubi, #nekedbee"
+  - username: "twich.den1sz_"
     fullname: >-
-      _aesthetic_official_
+      💜😈DEN1SZ💜😈
     bio: >-
-      Gősi Niki •23yrs• Hungary Galaxy A70📱 ‼Videók felhasználása nem engedélyezett‼
+      💜30K💜 TWICH:den1sz_😈💜 💜NYEREMÉNY JÁTÉKOK 😈💜💜 SEASON3💜💜 CONTROLLER 💜
     location: "Hungary"
-    followers: 136400
-    engagement: 2364
-    commentsToLikes: 0.061629
-    id: ck9r3uydpry0m0j78of7lq3ni
+    followers: 23600
+    engagement: 1710
+    commentsToLikes: 0.104421
+    id: cka9p8lye6le10i78yt652n1w
     verified: false
-    hashtags: "#photography, #bunny, #aesthetic, #macro"
+    hashtags: "#foryourlike, #fory, #foryourepage, #foryou"
+  - username: "richblood999"
+    fullname: >-
+      richblood999™
+    bio: >-
+      🔥🔪🩸🔴❓💯💢❌🎈🔥 RICHBLOOD™999 999 ✖️✖️ ➖
+    location: "Hungary"
+    followers: 3795
+    engagement: 1599
+    commentsToLikes: 0.112215
+    id: cka9lksz32nr60i78cvhyzurn
+    verified: false
+    hashtags: "#jahseh, #foryoupageofficiall, #llj, #bad"
+  - username: "csorbaanita"
+    fullname: >-
+      Anita Csorba
+    bio: >-
+      Insta @csorbaanita Csorba Anita hivatalos oldala #merjalkotni
+    location: "Hungary"
+    followers: 56800
+    engagement: 1863
+    commentsToLikes: 0.036766
+    id: ckach2ekuxms20i78pthpfh1k
+    verified: false
+    hashtags: "#inspibox, #alomszobagyar, #merjalkotni, #foryou"
+  - username: "viktoria.marta"
+    fullname: >-
+      Márta Viktória
+    bio: >-
+      Instagram: marta_viktoria_ E-mail: marta.viktoriaa@gmail.com 19yrs
+    location: "Hungary"
+    followers: 266800
+    engagement: 1538
+    commentsToLikes: 0.054343
+    id: ck900axz5aare0j78nsixcckq
+    verified: false
+    hashtags: "#reklam, #foryou, #waxxme, #waxxmehungary"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Belgium in 2023
+title: Top 10 Health Instagram Influencers In Belgium In 2023
 description: >-
-  Find top health Instagram influencers in Belgium in 2023. Most popular hashtags: #workout #fitgirl #motivation #fitness.
+  Find top health Instagram influencers in Belgium in 2023. Most popular hashtags: #fitness #motivation #workout #fit.
 platform: Instagram
-hits: 77
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 77 Instagram influencers like this in Belgium for you to collaborate.
+hits: 40
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 40 Instagram influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "assya.grs"
+  - username: "harmonylu_"
     fullname: >-
-      MOTIVATION|FITNESS|LIFESTYLE
+      harmony lu
     bio: >-
-      • 𝟣𝟫 𝒶𝓃𝓈 🌹 • 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 💪 • 𝒢𝒶𝓂𝒾𝓃𝑔 🎮 • 🇧🇪 👉 @healthnutritionbelgium -30% 💥 👉 𝒞𝑜𝒹𝑒 𝓅𝓇𝑜𝓂𝑜 : 𝐀𝐒𝐒𝐘𝐀𝟑𝟎 💥 𝒴𝑜𝓊𝒯𝓊𝒷𝑒 : 𝒮𝓊𝓅𝑒𝓇𝓅𝒶𝒸𝑜 𝟔🍿
+      ◦ belgian expat in nyc 🇧🇪🛫🇺🇸 ◦ adam's mom 🐼 ◦ motherhood in all its glory 🥴 ◦ mental health advocate 🧘🏻‍♀️ ◦ she/her
     location: "Belgium"
-    followers: 37126
-    engagement: 902
-    commentsToLikes: 0.054771
-    id: ck9hb93x3fv9q0j78ykmv4qoi
+    followers: 11050
+    engagement: 661
+    commentsToLikes: 0.034026
+    id: ck9wdlge8g7fq0j782qg2p20h
     verified: false
-    hashtags: "#zyzz, #twitchgirl, #musculation, #shredded"
-  - username: "lauralynnsworld"
-    fullname: >-
-      LAURA ✌🏼 CONTENT CREATOR
-    bio: >-
-      MY WORLD IN PHOTOS 🎄| ANTWERP📍 🎅🏻Psychologist @your.health.coach |Engaged💍 ☃️Positive Vibes with a Hint of Travel & Health 💬lauralynnjoosten@yahoo.be
-    location: "Belgium"
-    followers: 35384
-    engagement: 267
-    commentsToLikes: 0.114041
-    id: ck5zsblasy6uy0i149dirvmoh
-    verified: false
-    hashtags: "#dametraveler, #ootdstyle, #exploremore, #fallishere"
-  - username: "yasminevandenmeersch"
-    fullname: >-
-      YASMINE | Lifestyle & mindset
-    bio: >-
-      22 | BE ✨🍂 📖 Bookworm & working @standaardgeraardsbergen 📖 Helping people achieve a healthier lifestyle and mindset. 🧡 @thehealthyenvelope 📨
-    location: "Belgium"
-    followers: 4462
-    engagement: 1983
-    commentsToLikes: 0.266881
-    id: ck5cdpth1jklb0i11zszmk5lx
-    verified: false
-    hashtags: "#belgianblogger, #outfitoftheday, #outfitinspiration, #ghent"
-  - username: "katiadellafaille"
-    fullname: >-
-      Katia della Faille
-    bio: >-
-      🚴‍♀️💥🏋️‍♀️FIT@50🏋️‍♀️💥🚴‍♀️ 🥑Healthy Happy Lifestyle 45+ 🔥Cycling 🥚Clean food ❤ visit sick and eldery : volunteering 📍www.park7.be
-    location: "Belgium"
-    followers: 7420
-    engagement: 888
-    commentsToLikes: 0.066300
-    id: ck5hde0gvmwvf0i11kruz2zq5
-    verified: false
-    hashtags: "#cyclinglife, #cyclinglove, #organicfarm, #realfood"
-  - username: "eliemudiayi"
-    fullname: >-
-      Elie Mudiayi B. כריסטיאן
-    bio: >-
-      Le bonheur est dans les choses simples 🔥 Healthy lifestyle Email for a collab 🙏🏽 #cokeambassador #ambassadorbasicfitbe #asosambassador 📍Bruxelles
-    location: "Belgium"
-    followers: 28462
-    engagement: 391
-    commentsToLikes: 0.052891
-    id: ck0txd9w9itsl0i19idjac8vj
-    verified: false
-    hashtags: "#belgianblogger, #asos, #brussels, #basicfitbe"
-  - username: "coleenaupresent"
-    fullname: >-
-      LIFESTYLE | HEALTH&MIND | SII✨
-    bio: >-
-      🙋🏼‍♀️Ex-naïve hyper crédule de toutes les tendances #healthy 🐑 🤰🏼#colopathe à la patate ! 💥 🙅🏼‍♀️Stop aux fausses théories,place à la vraie vie!💙
-    location: "Belgium"
-    followers: 9203
-    engagement: 519
-    commentsToLikes: 0.100666
-    id: ckaotohaawsbv0i78eba8dnm6
-    verified: false
-    hashtags: "#dejeuner, #recetterapide, #fodmap, #recettedigeste"
+    hashtags: "#streetsofnewyork, #motherhoodunplugged, #toddlermomlife, #boymom"
   - username: "magzzfit"
     fullname: >-
-      MAGALI 🌼
+      MAGALI🌺
     bio: >-
-      📍Belgium - 23 💪🏽 Fitness&mental health 💥 @idealofsweden : ID15-631830 (15%) ✈️ Next stop: .. 😺 @bono_the_british_shorthair 👩🏼‍🎓 Paralegal graduate
+      📍België 💪🏽 fitness&mental health 💥 @idealofsweden BBMAGZZFIT15 ✈️ next: 😺 @bono_the_british_shorthair 💁🏼‍♀️ privé acc @the_magzz_official
     location: "Belgium"
-    followers: 7033
-    engagement: 1092
-    commentsToLikes: 0.054898
+    followers: 6749
+    engagement: 825
+    commentsToLikes: 0.077780
     id: ck15t7ms7gq4z0i19nr9yidau
     verified: false
-    hashtags: "#fitdutchie, #fitnesslife, #famfriday, #gymlover"
-  - username: "catcaitlinn"
-    fullname: >-
-      Cato 𓂀
-    bio: >-
-      🌜 belgian model 🪐 astrologer @asabovesobelow.eu ✨ sacred women’s circles #wildwomenclub 🌿 macrobiotic food and holistic health
-    location: "Belgium"
-    followers: 22926
-    engagement: 270
-    commentsToLikes: 0.040915
-    id: ck6toqvexfleh0j71ecgsht2u
-    verified: false
-    hashtags: "#newmooningemini, #macrobiotics, #manifester, #spiritualretreat"
+    hashtags: "#strongereveryday, #train, #fitnesspage, #gymlife"
   - username: "elinea.fit"
     fullname: >-
       E L I N E
     bio: >-
       Here to inspire, help & motivate others. ✨Fitness. Food. Mental health.✨ BALANCED & FIT lifestyle 🍪🥑 ⬇️Personal training website💓
     location: "Belgium"
-    followers: 2108
-    engagement: 1227
-    commentsToLikes: 0.176251
+    followers: 2021
+    engagement: 1267
+    commentsToLikes: 0.160223
     id: ckap0ovu7r8fh0i78v9jrmoem
     verified: false
-    hashtags: "#gymlife, #fitlife, #fitbelgian, #fitspo"
-  - username: "lempereur.charlotte"
+    hashtags: "#quads, #proud, #gymwomen, #lockdown"
+  - username: "yanadaemss"
     fullname: >-
-      C h a r l o t t e 🌸
+      Yana D.
     bio: >-
-      📍Belgique 🤍 Ma petite famille • Healthy lifestyle • Voyages 💌 Collab’: DM / mail 🌿 -15% sur @teaven.co 🍵: CHARLOTTE15
+      Owner of @houseofyanaa Content creator on OF Happiness and health is our greatest wealth 🕊 JOIN MY VIP TEAM 💙
     location: "Belgium"
-    followers: 4510
-    engagement: 846
-    commentsToLikes: 0.201610
-    id: ckapaxz7rxw3v0i78xdwnus7m
+    followers: 42984
+    engagement: 250
+    commentsToLikes: 0.015163
+    id: ckap3fa9j2u690i7827dt7sib
+    verified: true
+    hashtags: "#knuffelpartner"
+  - username: "fit_with_kelly_"
+    fullname: >-
+      KELLY DEJAEGERE 🌻
+    bio: >-
+      FITNESS || MENTAL HEALTH 📍Based in Belgium @bootytools team 🍑 20 y/o
+    location: "Belgium"
+    followers: 2942
+    engagement: 709
+    commentsToLikes: 0.178688
+    id: ckf5qr4h8aao20j23kal0eayn
     verified: false
-    hashtags: "#thankful, #toujourscomplices"
+    hashtags: "#proud, #reign, #reignbodyfuel, #bootytoolsbe"
+  - username: "laura.oliveiragranja"
+    fullname: >-
+      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
+    bio: >-
+      Freelance Model ∣ Content Creator ♊️ Gemini @gofitwithlaura @qntsportnutrition 20 % off | CREWLAURA 𝗠𝗶𝘀𝘀 𝗦𝗽𝗼𝗿𝘁 2019 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗤𝘂𝗲𝗲𝗻𝘀 2018
+    location: "Belgium"
+    followers: 18602
+    engagement: 420
+    commentsToLikes: 0.054751
+    id: ck6txv5tn019a0j71dktpndhx
+    verified: false
+    hashtags: "#pinkoofficial, #styleblogger, #outfitinspiration, #ysl"
+  - username: "camillelaus"
+    fullname: >-
+      C a m i l l e    L a u s
+    bio: >-
+      400m @belgiancheetahs Road to @tokyo2020 Represented by @vitam_sport Powered by @belleroseofficial @oppobelgium @basicfit_be @hyundaibelgium
+    location: "Belgium"
+    followers: 23624
+    engagement: 1067
+    commentsToLikes: 0.028357
+    id: ck6tu06afdk4a0j71bjj4c97j
+    verified: false
+    hashtags: "#trackgirl, #healthylifestyle, #roadtotokyo, #trainingcamp"
+  - username: "glennverledens"
+    fullname: >-
+      G L E N N   V E R L E D E N S
+    bio: >-
+      Belgian Foodie(Ronse)🇧🇪. Only 2 or 3 pics of delicious homemade food a week😉📱📸iphone 💯% HOMEMADE FOOD‼️BenkokGlenn👨🏼‍🍳🙂
+    location: "Belgium"
+    followers: 5331
+    engagement: 2286
+    commentsToLikes: 0.176642
+    id: ckaozpct4mt6n0i78n3z42m0w
+    verified: false
+    hashtags: "#tomato, #mayo, #homemade, #chives"
+  - username: "hanne.claes"
+    fullname: >-
+      • H Λ N N E • C L Λ E S •
+    bio: >-
+      Olympian ✨ 400m hurdles 🏃🏼‍♀️ 4x400m @belgiancheetahs 🐆 Road to @tokyo2020 🎌 Ambassador @planbelgium 💙 @foodspring_be 🌱 @hyundaibelgium 🏎
+    location: "Belgium"
+    followers: 20357
+    engagement: 1338
+    commentsToLikes: 0.024520
+    id: ck6tu06w6dk5k0j71xykdvo4k
+    verified: false
+    hashtags: "#teambelgium, #tokyo2020, #foodspring, #foodspringfamily"
+  - username: "rgls.fitness"
+    fullname: >-
+      尺ロ乃モ尺イロ.  G乚ら
+    bio: >-
+      || 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑻𝒓𝒂𝒊𝒏𝒆𝒓 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑩𝒓𝒖𝒔𝒔𝒆𝒍𝒔 || 𝑭𝒊𝒕𝒏𝒆𝒔𝒔 𝑴𝒐𝒅𝒆𝒍 𝑫𝑴 𝒎𝒆 𝒇𝒐𝒓 𝒂 𝒄𝒐𝒏𝒔𝒖𝒍𝒕𝒂𝒕𝒊𝒐𝒏 📩 📍BE🇧🇪 🔒❣️ @saraks.fit || @animaleurope 💊 𝟏𝟎% 𝐑𝐆𝐋𝐒 ⤵️
+    location: "Belgium"
+    followers: 120935
+    engagement: 196
+    commentsToLikes: 0.004953
+    id: ck600jwtwdql20i149rv3xbiz
+    verified: false
+    hashtags: "#belgium, #gymlife, #training, #instafit"
 ---

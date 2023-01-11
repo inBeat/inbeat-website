@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Rome in 2023
+title: Top 10 Beauty TikTok Influencers In Rome In 2023
 description: >-
-  Find top beauty TikTok influencers in Rome in 2023. Most popular hashtags: #perte #fyp #comedy #funny.
+  Find top beauty TikTok influencers in Rome in 2023. Most popular hashtags: #perte #fyp #viral #beauty.
 platform: TikTok
-hits: 4
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 4 TikTok influencers like this in Rome, Italy for you to connect with.
+hits: 5
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 5 TikTok influencers like this in Rome, Italy for you to connect with.
 profiles:
+  - username: "_labruni"
+    fullname: >-
+      Francesca Bruni Ercole
+    bio: >-
+      18 years old / Italy, Rome 🇮🇹 Singer,actress,painter collab. in DM
+    location: "Italy"
+    followers: 81100
+    engagement: 1809
+    commentsToLikes: 0.019910
+    id: ck9ey5u17ueo80j781aqix4nu
+    verified: false
+    hashtags: "#hogwarts, #greenscreen, #piton, #duet"
   - username: "meriamamarir"
     fullname: >-
       Meriam Amarir
     bio: >-
-      Certe volte sono simpatica🙁 📍Rome,Italy 9000? 🇲🇦🇮🇹🇩🇿 IG:meriam.amarir
+      16y.o 📍Rome,Italy Su Instagram sono più carina, giuro🧚🏾 IG:meriam.amarir 11k?
     location: "Italy"
-    followers: 8720
-    engagement: 1947
-    commentsToLikes: 0.036124
+    followers: 10100
+    engagement: 1553
+    commentsToLikes: 0.068762
     id: ckd193k3bqp9f0j238j2tscba
     verified: false
-    hashtags: "#funny, #fun, #funnyvideos, #series"
-  - username: "alexandragraziano"
+    hashtags: "#song, #photo, #viral, #comedy"
+  - username: "_domizia"
     fullname: >-
-      Alexalovej
+      Domi
     bio: >-
-      •Fashion•Beauty•Lifestyle IG @alexalovej 💗
+      Make up artist made in Rome Parlo tanto ma non dico “pazzesco” INSTA: _DOMIZIA
     location: "Italy"
-    followers: 6720
-    engagement: 392
-    commentsToLikes: 0.032003
-    id: ck9r7e0d67rit0j78mk4r0wx5
+    followers: 176000
+    engagement: 979
+    commentsToLikes: 0.007250
+    id: cka67e1u2kpie0i78o5z7svqv
     verified: false
-    hashtags: "#look, #halloweenmakeup, #halloween2020, #harleyquinn"
+    hashtags: "#beauty, #skincare, #makeup, #makeuptutorial"
+  - username: "veradipietro3"
+    fullname: >-
+      veradipietro
+    bio: >-
+      MOM TO BE🤰🏻❤️ UNBOXING , BEAUTY🛍 veradipietro01@gmail.com per collaborazioni
+    location: "Italy"
+    followers: 34700
+    engagement: 725
+    commentsToLikes: 0.031969
+    id: ckcjfyx77bc980j23def3ws3g
+    verified: false
+    hashtags: "#curvymomsoftiktok, #plussizemom, #perte, #babymum"
   - username: "ciaomichiamonoran_eh_eh"
     fullname: >-
       Noran 
     bio: >-
       •mi chiamo Noran non Nora • 🇮🇹🇪🇬
     location: "Italy"
-    followers: 15800
-    engagement: 1118
-    commentsToLikes: 0.030182
+    followers: 15500
+    engagement: 1798
+    commentsToLikes: 0.136364
     id: ck9jzcxpc88n70j78ezxlwcmt
     verified: false
-    hashtags: "#tiktokitaly, #eid, #challenge, #xyzbca"
-  - username: "ivanapilkevich"
-    fullname: >-
-      Ivana Pilkevich
-    bio: >-
-      Consulente finanziario Vendo 💶💶💶
-    location: "Italy"
-    followers: 11500
-    engagement: 916
-    commentsToLikes: 0.003507
-    id: ckbqr30q9bvox0j23pmabzs73
-    verified: false
-    hashtags: "#duetto, #italy, #fyp, #sardegna"
+    hashtags: "#islam, #comedy, #viral, #tiktokitaly"
   - username: "terry.lozano"
     fullname: >-
       Terry Lozano
     bio: >-
-      💌 beautywithterry@outlook.it CEO of TESSORO ✨ UNISCITI ALLA TESSORO FAMILY🤩✨
+      💌 beautywithterry@outlook.com CEO of TESSORO ✨ UNISCITI ALLA TESSORO FAMILY🤩✨
     location: "Italy"
-    followers: 186700
-    engagement: 2738
-    commentsToLikes: 0.016047
+    followers: 194500
+    engagement: 2386
+    commentsToLikes: 0.015793
     id: ckc1xiwft1fjt0j23eunb6zn9
     verified: false
-    hashtags: "#perte, #tessorofamily, #funny, #celebrity"
-  - username: "martymassera_"
+    hashtags: "#unpopolaropinion, #perte, #funny, #girlythings"
+  - username: "francesco_beautycoach"
     fullname: >-
-      Marty 🎀
+      FrancescoBeautyCoach
     bio: >-
-      •👧🏼• 2008🖖🏼 Ig: _beautymarty_ 🥀
+      🤣 Commentiamo insieme i video più divertenti del Web LIVE: Beauty Coaching
     location: "Italy"
-    followers: 5383
-    engagement: 2322
-    commentsToLikes: 0.032389
-    id: ck8j9zchypu1z0j78b5c0dojr
+    followers: 29400
+    engagement: 1257
+    commentsToLikes: 0.130966
+    id: ckck5u04wqvuj0j23hqar0ei1
     verified: false
-    hashtags: "#virale, #fyp, #chupalloween, #andiamoneiperte"
+    hashtags: "#iomidiverto, #duetto, #francescobeautycoach, #viral"
   - username: "jessicadenic"
     fullname: >-
       Jessica De Nicola 🌹
     bio: >-
-      💅 Curiosità, trucchi e consigli sul mondo Beauty💄 💌 denicolajessica@gmail.com
+      💅Trucchi e consigli Beauty💄 💌 denicolajessica@gmail.com
     location: "Italy"
-    followers: 318000
-    engagement: 1599
-    commentsToLikes: 0.010534
+    followers: 357500
+    engagement: 1500
+    commentsToLikes: 0.015813
     id: ck8vshug6dmpg0j78bxaq31ie
     verified: false
-    hashtags: "#unghiefinte, #nails, #curiosity, #skincare"
-  - username: "silviavianix"
+    hashtags: "#imparacontiktok, #doppiepunte, #nails, #sheglam"
+  - username: "martymassera_"
     fullname: >-
-      Silvia Viani 
+      𝚊𝚛𝚒𝚊𝚗𝚊𝚝𝚘𝚛💘
     bio: >-
-      21 | ITALY Make Up Artist - Beauty Consultant check my instagram profile
+      Ig: _beautymarty_ 😺
     location: "Italy"
-    followers: 82600
-    engagement: 1733
-    commentsToLikes: 0.005812
-    id: ckd0t9yyyj8i80j23fa7bfrda
+    followers: 5381
+    engagement: 1901
+    commentsToLikes: 0.015775
+    id: ck8j9zchypu1z0j78b5c0dojr
     verified: false
-    hashtags: "#comedy, #foryou, #ringochallenge, #makeup"
-  - username: "cocolavieenrose"
+    hashtags: "#neiperte, #virale, #fyp, #perte"
+  - username: "giulslively"
     fullname: >-
-      Skincare con Valeria Arizzi
+      Giulia Piras
     bio: >-
-      Consigli BEAUTY e CURA DELLA PELLE🦄 Skinfluencer 👩🏼 Outfit Blogger 💖 Mamma
+      Consigli makeup & beauty 💞 INSTAGRAM: GIULSLIVELY 💌 info@giuliapiras.com
     location: "Italy"
-    followers: 15500
-    engagement: 557
-    commentsToLikes: 0.121476
-    id: ck8vsi6p5dp000j78dilpl6bu
+    followers: 36500
+    engagement: 686
+    commentsToLikes: 0.036048
+    id: ckbqhuqmi35g20j23n5xz53kx
     verified: false
-    hashtags: "#puntineri, #italia, #imparacontiktok, #skintok"
-  - username: "lucapalazzolo1"
-    fullname: >-
-      Luca Palazzolo
-    bio: >-
-      Men’s phisyque 💪🏽 Manager 🎯 Passion for Life and beauty 😎🚗🚤✈️
-    location: "Italy"
-    followers: 10400
-    engagement: 691
-    commentsToLikes: 0.029755
-    id: ckbl4kt6w229p0j23dyf6xqtp
-    verified: false
-    hashtags: "#happy, #gentleman, #perte, #neiperte"
+    hashtags: "#makeup, #lipstick, #beauty, #skincare"
 ---

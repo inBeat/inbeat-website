@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Phoenix in 2023
+title: Top 10 Vegan TikTok Influencers In Phoenix In 2023
 description: >-
-  Find top vegan TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #duet #vegan #foryou.
+  Find top vegan TikTok influencers in Phoenix in 2023. Most popular hashtags: #vegan #fyp #arizona #stitch.
 platform: TikTok
-hits: 4
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 4 TikTok influencers like this in Phoenix, United States for you to pitch.
+hits: 5
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 5 TikTok influencers like this in Phoenix, United States for you to work with.
 profiles:
   - username: "vinyasavegan"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.061744
     id: ckb9c074oyknf0j23xnm03x6c
     verified: false
-    hashtags: "#vegancookies, #veganbreakfast, #vegandessert, #veganrecipes"
+    hashtags: "#health, #dessert, #veganbreakfast, #veganrecipes"
+  - username: "phoenixherp"
+    fullname: >-
+      Reptile Sanctuary 🐊
+    bio: >-
+      USA’s largest reptile sanctuary! Katelyn 💜🦎 Address on IG Venmo @Phoenixherp
+    location: "United States"
+    followers: 960100
+    engagement: 1147
+    commentsToLikes: 0.012919
+    id: ck8z9scc8z6gw0j78i0zymq79
+    verified: true
+    hashtags: "#itwasntme, #getreadywitholdspice, #otter, #arizona"
   - username: "plantbasedvision"
     fullname: >-
       PlantBasedVision
     bio: >-
-      follow on IG!⇧ i eat plants 🌱 kombucha reviews ⇩
+      i eat plants 🌱
     location: "United States"
-    followers: 11300
-    engagement: 1125
-    commentsToLikes: 0.019358
+    followers: 14500
+    engagement: 1034
+    commentsToLikes: 0.033580
     id: ckbqvxa7ng6fo0j23m5q8lsi1
     verified: false
-    hashtags: "#arizona, #whatieatinaday, #fyp, #veganfoodie"
-  - username: "lauramrock"
+    hashtags: "#fyp, #local, #smallbusinesscheck, #steep"
+  - username: "tastesofaz"
     fullname: >-
-      ❤️Mama Rock❤️
+      TastesofAZ
     bio: >-
-      Never bored never boring💕mom, traveler✈️vegan🥑rule breaker😁always grateful🎉
+      Jenn 100k? Not Your Avg. Foodie PO in Insta Bio agent@jennbaluch.com
     location: "United States"
-    followers: 4875
-    engagement: 926
-    commentsToLikes: 0.298083
-    id: ckbfbakyz37gl0j23rziwkk4l
+    followers: 64800
+    engagement: 785
+    commentsToLikes: 0.080272
+    id: ckc7w6v9szg4d0j23kri8hzfd
     verified: false
-    hashtags: "#beautiful, #justdoit, #trend, #fitness"
-  - username: "asuntagaribay"
+    hashtags: "#healthyrecipes, #weightlossjourney, #az, #arizonacheck"
+  - username: "misssavannagrace"
     fullname: >-
-      Asunta Garibay
+      Savanna Grace
     bio: >-
-      I’m a chef with personality and opinions!! Enjoy!
+      🍒
     location: "United States"
-    followers: 9255
-    engagement: 472
-    commentsToLikes: 0.043255
-    id: ckcjbj1z48zo00j23yycwvf3k
+    followers: 10200
+    engagement: 923
+    commentsToLikes: 0.033765
+    id: ckdmr6igz9sh20j230u1b3wfd
     verified: false
-    hashtags: "#fyp, #foryoupage, #fitness, #foodie"
-  - username: "thevintagegoree"
-    fullname: >-
-      •Black Retro Babe•
-    bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
-    location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
-    verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
-  - username: "alaneatsfrogs"
-    fullname: >-
-      alan raskin :)
-    bio: >-
-      "i’m a vegan except for when i eat the rich" - noor wendy WHALEyums stan accoun
-    location: "United States"
-    followers: 49500
-    engagement: 2471
-    commentsToLikes: 0.046072
-    id: ckdn8veqjfihi0j23mwyza1it
-    verified: false
-    hashtags: "#biden2020, #voting, #gay, #electionday"
-  - username: "findingjayreace"
-    fullname: >-
-      🤴🏽Mr.Positivity 🌱
-    bio: >-
-      Author/Speaker Veganism | Health | Motivation | Legacy is available now👇🏾|
-    location: "United States"
-    followers: 9112
-    engagement: 2153
-    commentsToLikes: 0.429635
-    id: ck9skqa1ua13n0j78xb4nidzv
-    verified: false
-    hashtags: "#positivitytrain, #reacenation, #stitch, #strapback"
+    hashtags: "#chav, #hiking, #fyp, #xyzbca"
   - username: "veganlesbianrepublicans"
     fullname: >-
       Eve & Das
     bio: >-
       “The Avocado Toast Lesbians,” Vegan, Married, Republicans 🇺🇸 🏳️‍🌈
     location: "United States"
-    followers: 47500
-    engagement: 2110
-    commentsToLikes: 0.086643
+    followers: 46500
+    engagement: 2261
+    commentsToLikes: 0.100295
     id: ckdclovylnw2r0j23tvaevkjy
     verified: false
-    hashtags: "#democrat, #kag, #conservative, #liberal"
+    hashtags: "#walkaway, #maga, #lesbiansfortrump, #trump"
+  - username: "antheiamae"
+    fullname: >-
+      mae mae
+    bio: >-
+      intersectional vegan big sis🥰 comrade🧸 total liberationist she/? @eco_tok
+    location: "United States"
+    followers: 7125
+    engagement: 1746
+    commentsToLikes: 0.137265
+    id: ckdi698kc7kx40j23kfpcva2q
+    verified: false
+    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+  - username: "veganmumu"
+    fullname: >-
+      Shannon
+    bio: >-
+      your vegan mom 🐧 Florida 🍊
+    location: "United States"
+    followers: 6762
+    engagement: 1446
+    commentsToLikes: 0.401234
+    id: ckavlfj1duq540j237nx3htr9
+    verified: false
+    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
   - username: "kawaiikingb"
     fullname: >-
       MJ Cobra
     bio: >-
       (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
     location: "United States"
-    followers: 4375
-    engagement: 2868
-    commentsToLikes: 0.066832
+    followers: 4459
+    engagement: 2638
+    commentsToLikes: 0.068353
     id: ckav30jp99aym0j2355hwtnvy
     verified: false
-    hashtags: "#decorakei, #kawaii, #darkora, #altgirl"
-  - username: "antheiamae"
+    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
+  - username: "giuliasabatinoo"
     fullname: >-
-      mae mae
+      giulia
     bio: >-
-      your hippie vegan big sis 🥰 insta @antheiali she/her @eco_tok
+      vegan 🌱✨ (we’re not all like the vegan teacher i promise)
     location: "United States"
-    followers: 4789
-    engagement: 1931
-    commentsToLikes: 0.109926
-    id: ckdi698kc7kx40j23kfpcva2q
+    followers: 21800
+    engagement: 1629
+    commentsToLikes: 0.306454
+    id: ckbevm1ivf82w0j239aiiq4na
     verified: false
-    hashtags: "#climatechange, #plantbased, #vegan, #sustainable"
+    hashtags: "#fyp, #duet, #greenscreen, #veganteacher"
 ---

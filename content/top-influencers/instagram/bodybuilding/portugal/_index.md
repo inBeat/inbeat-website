@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Portugal in 2023
+title: Top 10 Bodybuilding Instagram Influencers In Portugal In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Portugal in 2023. Most popular hashtags: #bodybuilding #fitness #workout #fit.
+  Find top bodybuilding Instagram influencers in Portugal in 2023. Most popular hashtags: #workout #fitness #bodybuilding #fitnessmotivation.
 platform: Instagram
-hits: 16
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 16 Instagram influencers like this in Portugal for you to work with.
+hits: 10
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 10 Instagram influencers like this in Portugal for you to contact.
 profiles:
-  - username: "mrsaizen"
-    fullname: >-
-      Ricardo Rocha
-    bio: >-
-      @brubmay💍 Bodybuilding Coach-consultorias via direct @espfarma @adaptogenscience_br
-    location: "Portugal"
-    followers: 22460
-    engagement: 714
-    commentsToLikes: 0.026343
-    id: ck6tr6tnlx9ti0j71kp60iz1p
-    verified: false
-    hashtags: "#coronagainz, #offseason, #tbt"
-  - username: "luismiguelferreiraa"
-    fullname: >-
-      𝗟𝘂í𝘀 𝗠𝗶𝗴𝘂𝗲𝗹 | 𝗙𝗮𝘀𝗵𝗶𝗼𝗻•𝗙𝗶𝘁𝗻𝗲𝘀𝘀
-    bio: >-
-      ▫️Lisboa | Portugal ▫️Certified Personal Trainer ⚡️Parceiro Oficial @myproteinpt ⬇️ Cupão: “MPLUIS” = 37% OFF ⬇️
-    location: "Portugal"
-    followers: 54897
-    engagement: 402
-    commentsToLikes: 0.056763
-    id: ck6tiiamt0rrx0j71siov3t0m
-    verified: false
-    hashtags: "#modamasculina, #lookoftheday, #laboutiqueofficielle, #bestofstreetwear"
-  - username: "barbaratorres.ifbbpro"
-    fullname: >-
-      BÁRBARA TORRES
-    bio: >-
-      🇵🇹 IFBB BIKINI PRO . 💻 Online Coach 🏋🏻 Personal Trainer @blvckoutgym 👙 Posing Coach [online + presencial] . 👇🏼 Discount codes
-    location: "Portugal"
-    followers: 37483
-    engagement: 316
-    commentsToLikes: 0.071178
-    id: ck15sx8jef9hg0i19kccj3qc3
-    verified: false
-    hashtags: "#bikinifitness, #shoulders, #improvementseason, #gains"
-  - username: "allisontestu"
-    fullname: >-
-      𝐀𝐋𝐋𝐈𝐒𝐎𝐍 𝐓𝐄𝐒𝐓𝐔 - 𝐈𝐅𝐁𝐁 𝐏𝐑𝐎
-    bio: >-
-      🇨🇵🇵🇹 Coach @teammhd ◤𝐂𝐎𝐍𝐓𝐄𝐒𝐓𝐒 🥈ACE Pro 🥇PORTUGAL Pro 🥇EUROPE ◤𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒 @prozis @protan_europe @ryderwear ◤% 𝐂𝐎𝐃𝐄𝐒
-    location: "Portugal"
-    followers: 41613
-    engagement: 481
-    commentsToLikes: 0.018459
-    id: ck5pynzwnwy3g0i119sm8qzvh
-    verified: false
-    hashtags: ""
-  - username: "maurofialho"
-    fullname: >-
-      Mauro Fialho Jr.
-    bio: >-
-      Blessed by God 🙏🇧🇷🇵🇹🇪🇸 Λ @agon_gym / 🧬 @io.genix Asesorías, ropa, suplementación, YouTube, música ⤵️
-    location: "Portugal"
-    followers: 51120
-    engagement: 900
-    commentsToLikes: 0.050804
-    id: ck6tkqypy58gp0j71t9u83i4y
-    verified: false
-    hashtags: "#mensphysique, #believe, #fitness, #agongym"
   - username: "alannimal16"
     fullname: >-
       Ａｌａｎｎａ  M a r i a
     bio: >-
       OR 👩🏻‍⚕️💉 CF Games Team 17’ ⚒🖤 5x CF Regionals @xendurance @fitcoveraustralia : code ALANNA Inspiring others through an active & healthy lifestyle
     location: "Portugal"
-    followers: 11521
-    engagement: 525
-    commentsToLikes: 0.027913
+    followers: 11858
+    engagement: 482
+    commentsToLikes: 0.027615
     id: ck5hmt3xpmkpp0i119lcb9hy8
     verified: false
-    hashtags: "#womenofcrossfit, #crossfitbabes, #strongwomen, #beautifuldestinations"
+    hashtags: "#crossfitgames, #roamtheplanet, #workoutplans, #hiitworkout"
+  - username: "fit_with_lia"
+    fullname: >-
+      🇱​🇮​🇦
+    bio: >-
+      💉𝗡𝘂𝗿𝘀𝗲 💙𝗕𝗼𝗱𝘆𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 👖𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @catslegs.fitnesswear 🔹𝗖𝘂𝗽𝗮𝗼: 𝗘𝗟𝗜𝗔𝗡𝗔𝟭𝟬 @zumub.pt #fitnessgirl #gym #fitness
+    location: "Portugal"
+    followers: 12020
+    engagement: 940
+    commentsToLikes: 0.045804
+    id: ckap3nmgb3rj60i78yk8si2rv
+    verified: false
+    hashtags: "#academia, #fitnessmodel, #happy, #gym"
   - username: "zeblackturboofficial"
     fullname: >-
       Zé Preto
     bio: >-
-      ◾inhuman core strength😈 ◾born in 1971 natural strength💪 ◾60+ sec world record FL👽
+      🥇World records front lever🥇 🦍 inhumam power ▪️🇨🇻🇵🇹🇺🇲50 years old and still crazy af ◾100% natural strength💪 ◾the strongest core in the world 👽
     location: "Portugal"
-    followers: 48693
-    engagement: 491
-    commentsToLikes: 0.051767
+    followers: 76442
+    engagement: 442
+    commentsToLikes: 0.046478
     id: ck6tulw93h34k0j71i5ndwdae
     verified: false
-    hashtags: "#viralvideoschannel, #bodybuilding, #challengeyourself, #calisthenicsrevolution"
-  - username: "fit_with_lia"
+    hashtags: "#beast, #oldschool, #california, #crossfit"
+  - username: "sofia.pires.fitness"
     fullname: >-
-      🇱​🇮​🇦​
+      ♥️ Sofia Pires ♥️
     bio: >-
-      💉𝗡𝘂𝗿𝘀𝗲 💙𝗕𝗼𝗱𝘆𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 👖𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @catslegs.fitnesswear 🔹𝗖𝘂𝗽𝗮𝗼: 𝗘𝗟𝗜𝗔𝗡𝗔𝟭𝟬 @zumub.pt #fitnessgirl #gym #fitness
+      @bombshellsportswear Athlete ⬇️ FOLLOW LINK BELOW ⬇️ Portuguese 🔥 8 years Living In Australia 🇦🇺 World Traveller ✈️ ALESSANDRO 👫
     location: "Portugal"
-    followers: 11799
-    engagement: 784
-    commentsToLikes: 0.051686
-    id: ckap3nmgb3rj60i78yk8si2rv
+    followers: 10599
+    engagement: 337
+    commentsToLikes: 0.032931
+    id: ck5hlbuybjxxr0i116ikelk79
     verified: false
-    hashtags: "#bikinigirl, #agachaquecresce, #lifestyle, #beautiful"
+    hashtags: "#hustle, #instagood, #like, #vacay"
   - username: "sculptmovements"
     fullname: >-
       SculptMovements
     bio: >-
-      💚Shape Your Body 💚Fitspo For The Healthy Lifestyle 💚DM/Email For Credit
+      💚Shape Your Body 💚Fitspo For The Healthy Lifestyle 💚DM/Email For Credit 👇Click Link In Bio For A Feature👇
     location: "Portugal"
-    followers: 12999
-    engagement: 2517
-    commentsToLikes: 0.018913
+    followers: 154440
+    engagement: 121
+    commentsToLikes: 0.012154
     id: ck5cew5z6ltxs0i11pw1bmtwv
     verified: false
-    hashtags: "#fitfam, #abworkout, #gluteworkout, #workoutvideo"
+    hashtags: "#abworkout, #legworkout, #workoutvideo, #quadsworkout"
   - username: "inkartluis"
     fullname: >-
       LUÍS FIGUEIREDO ART
     bio: >-
-      Freelancer artist 🇵🇹 Available COMMISSIONS & ONLINE LESSONS TWITCH ACCOUNT:
+      Freelancer artist 🇵🇹 Available COMMISSIONS & ONLINE LESSONS Learn HOW TO DRAW with me! Link:
     location: "Portugal"
-    followers: 82495
-    engagement: 355
-    commentsToLikes: 0.015587
+    followers: 94341
+    engagement: 255
+    commentsToLikes: 0.011638
     id: ck137ndqvceks0i19qbxxr8zw
     verified: false
-    hashtags: "#panties, #artist, #animefanart, #art"
+    hashtags: "#moon, #portugal, #homeworkout, #bodybuilding"
+  - username: "fit.mom.eli"
+    fullname: >-
+      Elizabete Amaral Ganhão 🇨🇦🇵🇹🇪🇸
+    bio: >-
+      Membro Independente da Herbalife Nutrition Coach Changging people's life Nice Lifestyle WhatsApp PT 00351919393184 ganhaoelizabete@yahoo.com
+    location: "Portugal"
+    followers: 5548
+    engagement: 975
+    commentsToLikes: 0.116280
+    id: ckap6esq0flje0i783j1tpe3i
+    verified: false
+    hashtags: "#blessed, #myworld, #happyheart, #happylife"
+  - username: "maurofialho_pro"
+    fullname: >-
+      IFBB PRO Mauro Fialho
+    bio: >-
+      God willing ⭕️ #believe • Work: @team_mauro • YouTube: Mauro Fialho • Team manager: @agon_gym • Coach: @giusepperomanocoach Más ⤵️
+    location: "Portugal"
+    followers: 70484
+    engagement: 1018
+    commentsToLikes: 0.016018
+    id: ck6tkqypy58gp0j71t9u83i4y
+    verified: false
+    hashtags: "#olympia, #ifbbpro, #competition, #posing"
+  - username: "official_amanbilla"
+    fullname: >-
+      Aman Billa
+    bio: >-
+      🏆Mr Sher-e punjab 2019🏅🏆 🏆Mr Punjaab 16,17, 18, 19🥇 🥈Mr.india 2nd 60 🏆Mr.Doaba 🥇2k18 🏅20 times + mr punjab🥇🏅 #trustnone 🙏 👉Paid PT 💵 #wmk🙏
+    location: "Portugal"
+    followers: 48940
+    engagement: 242
+    commentsToLikes: 0.012445
+    id: ckaozcjzml9h90i78lpwdusg8
+    verified: false
+    hashtags: "#kde, #waheguru, #wmk, #life"
+  - username: "dave_mowe"
+    fullname: >-
+      Davide Dave Gioia
+    bio: >-
+      🏋🏽‍♂️Coach & PT 👐🏽Osteopath @mowe_lagrange www.mowelagrange.com CF L.2 Weightlifting Trainer ——————— 📩davigio91@hotmail.com
+    location: "Portugal"
+    followers: 5576
+    engagement: 284
+    commentsToLikes: 0.021869
+    id: ck6txdv3dx9lj0j7153kjm1a3
+    verified: false
+    hashtags: "#crossfit, #lbs, #torino, #primal"
 ---

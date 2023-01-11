@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music TikTok Influencers In Australia in 2023
+title: Top 10 Music TikTok Influencers In Australia In 2023
 description: >-
-  Find top music TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #duet #australia #foryou.
+  Find top music TikTok influencers in Australia in 2023. Most popular hashtags: #duet #music #fyp #stitch.
 platform: TikTok
-hits: 408
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 408 TikTok influencers like this in Australia for you to contact.
+hits: 352
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 352 TikTok influencers like this in Australia for you to work with.
 profiles:
+  - username: "wengie"
+    fullname: >-
+      Wengie
+    bio: >-
+      Apparently I raised u 🤷‍♀️ YouTuber/Music Artist 🎤Ugly Christmas Sweater
+    location: "Australia"
+    followers: 5300000
+    engagement: 1863
+    commentsToLikes: 0.025614
+    id: ckdtlmn07zwg80j23k067k3hk
+    verified: true
+    hashtags: "#angelanddemon, #stitch, #anotheryou, #duet"
   - username: "parsiqueen"
     fullname: >-
       parsiqueen ❣
     bio: >-
       Singer🎤 https://youtu.be/XWNlIw_xBtk Music Valley Productions +917696073513
     location: "Australia"
-    followers: 386600
-    engagement: 1767
-    commentsToLikes: 0.058286
+    followers: 385700
+    engagement: 1619
+    commentsToLikes: 0.057807
     id: ckb1djkb42imy0j23ilv3dnor
     verified: false
     hashtags: "#parsiqueen, #blooper, #babumaan, #wmkji"
-  - username: "wengie"
-    fullname: >-
-      Wengie
-    bio: >-
-      Aussie Chinese YouTuber/Music Artist 😛 My Song: 👸Empire👸
-    location: "Australia"
-    followers: 5100000
-    engagement: 1784
-    commentsToLikes: 0.033885
-    id: ckdtlmn07zwg80j23k067k3hk
-    verified: true
-    hashtags: "#learntomeowchallenge, #youtuber, #learntomeow, #dance"
-  - username: "natashafairbairn"
-    fullname: >-
-      NatashaFairbairn 
-    bio: >-
-      comedy & music... and rants 💙IG ☝🏼she/her Follow me on SPOTIFY👇🏼💙
-    location: "Australia"
-    followers: 10700
-    engagement: 1196
-    commentsToLikes: 0.180328
-    id: ck9np9pznxx1d0j78e0dmxs9d
-    verified: false
-    hashtags: "#relatable, #whocanrelate, #psa, #foryou"
-  - username: "yungteto"
-    fullname: >-
-      Obama
-    bio: >-
-      live, laugh, love 💕 digiTeto on spotify soundcloud apple music 👜
-    location: "Australia"
-    followers: 10300
-    engagement: 1593
-    commentsToLikes: 0.065572
-    id: ckb8zwc1sfjc10j2324zcaabg
-    verified: false
-    hashtags: "#greenscreen, #1738, #help, #digital"
   - username: "endzmeet"
     fullname: >-
       endzmeet
     bio: >-
-      follow my journey 18+ 🇦🇺🇦🇺🇦🇺Musician Insta: @endzmeetmusic
+      off pause ⏸ its 2021 18+ 🇦🇺🇦🇺🇦🇺Musician Insta: @endzmeetmusic
     location: "Australia"
-    followers: 44900
-    engagement: 1896
-    commentsToLikes: 0.287797
+    followers: 47700
+    engagement: 2226
+    commentsToLikes: 0.333484
     id: ckbqpakt3a3ol0j23m7w7kd5b
     verified: false
-    hashtags: "#fyp, #fyi, #melbourne, #australia"
+    hashtags: "#memories, #2020, #australia, #80smusic"
+  - username: "yungteto"
+    fullname: >-
+      Obama
+    bio: >-
+      #fortnite digiTeto on spotify soundcloud apple music 👜
+    location: "Australia"
+    followers: 10400
+    engagement: 1419
+    commentsToLikes: 0.112405
+    id: ckb8zwc1sfjc10j2324zcaabg
+    verified: false
+    hashtags: "#uzi, #playboicarti, #vote, #politics"
+  - username: "pacerandolph"
+    fullname: >-
+      Pace Randolph
+    bio: >-
+      ®️New singer coming for the charts 📈®️ ⬇️My Music Link⬇️ 💛DM on Insta💛
+    location: "Australia"
+    followers: 76400
+    engagement: 1388
+    commentsToLikes: 0.123133
+    id: ckcj15m513q2n0j23nfcd6n14
+    verified: false
+    hashtags: "#duet, #music, #singersongwriter, #originalsong"
+  - username: "pattyboomba"
+    fullname: >-
+      Pattyboomba
+    bio: >-
+      Make art. Film music composer. Guitar samples. vvvvvvvvvvvvv
+    location: "Australia"
+    followers: 38200
+    engagement: 1079
+    commentsToLikes: 0.083144
+    id: ck9pnmw0jfak40j78urahzvbb
+    verified: false
+    hashtags: "#producer, #music, #filmscore, #beats"
+  - username: "tay.aaa"
+    fullname: >-
+      taya
+    bio: >-
+      live with passion, live with musical.ly
+    location: "Australia"
+    followers: 116300
+    engagement: 1481
+    commentsToLikes: 0.037689
+    id: ckdcl70stnbjo0j23uxe7wojy
+    verified: false
+    hashtags: "#afl, #fyp, #aesthetic, #xzybca"
   - username: "khal_music"
     fullname: >-
       Karl
     bio: >-
-      Syd Aus🇦🇺 TY for 43K💛 👻 kaarlos 📸 Khal_music_ Listen to Sonder! ⬇️💛
+      Syd Aus🇦🇺 He/Him 😊 TY for 42K🌻 📸 Khal_music_ Bedtime podcast! ⬇️💛
     location: "Australia"
-    followers: 43100
-    engagement: 1739
-    commentsToLikes: 0.098648
+    followers: 42800
+    engagement: 1605
+    commentsToLikes: 0.116298
     id: ck9c6pomkr77l0j784tnkniu0
     verified: false
-    hashtags: "#lofi, #viralsounds, #fyp, #sydney"
-  - username: "fettuccinefettuqueen"
+    hashtags: "#deepvoice, #bedtimestories, #podcast, #soothing"
+  - username: "jetticus"
     fullname: >-
-      Gabbi
+      jetticus
     bio: >-
-      “Gabbi Bolt” on Spotify. Musician, Composer and silly person. 24yo She/Her
+      📍adelaide 20 y/o if u care I make music
     location: "Australia"
-    followers: 29200
-    engagement: 1435
-    commentsToLikes: 0.040018
-    id: ckbw2pdl6wudm0j235mxs0eak
+    followers: 20100
+    engagement: 1249
+    commentsToLikes: 0.059030
+    id: ckbajyfh2axk70j232tixumc4
     verified: false
-    hashtags: "#duet, #fyp, #musical, #ratatouille"
+    hashtags: "#imaghost, #timewarpscan, #duet, #dontdoitgirl"
   - username: "leonardo.sunshine"
     fullname: >-
       Leonardo Sunshine
     bio: >-
       musical pioneer of The Tin Knees HAS ANYBODY SEEN MY WILL TO LIVE? out now!👇
     location: "Australia"
-    followers: 222400
-    engagement: 2445
-    commentsToLikes: 0.009642
+    followers: 232400
+    engagement: 2457
+    commentsToLikes: 0.009573
     id: ckd6z4i0jxtme0j23ltkk8ref
     verified: false
-    hashtags: "#thetinknees, #aussietok, #talkingtomyself, #vibing"
-  - username: "jetticus"
-    fullname: >-
-      jetticus
-    bio: >-
-      📍adelaide 19 y/o check out my music on Spotify
-    location: "Australia"
-    followers: 20400
-    engagement: 1223
-    commentsToLikes: 0.054499
-    id: ckbajyfh2axk70j232tixumc4
-    verified: false
-    hashtags: "#tiktokaustralia, #duet, #nostalgia, #innerhealthplus"
-  - username: "nathanfoley_official"
-    fullname: >-
-      Nathan Foley
-    bio: >-
-      Singer, songwriter, musician, presenter
-    location: "Australia"
-    followers: 39900
-    engagement: 651
-    commentsToLikes: 0.050732
-    id: ckbr1i1atijfg0j23d2lxjy45
-    verified: false
-    hashtags: "#shedevil, #blindinglights, #acousticcover, #hiddentalents"
+    hashtags: "#lookinggood, #mentalhealthmatters, #aussietok, #vibing"
 ---

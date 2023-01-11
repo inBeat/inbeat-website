@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In New York in 2023
+title: Top 10 Lifestyle Instagram Influencers In New York In 2023
 description: >-
-  Find top lifestyle Instagram influencers in New York in 2023. Most popular hashtags: #newyork #fashion #halloween.
+  Find top lifestyle Instagram influencers in New York in 2023. Most popular hashtags: #fashion #newyork #love #lifestyle.
 platform: Instagram
-hits: 598
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 598 Instagram influencers like this in New York, United States for you to collaborate.
+hits: 712
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 712 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "kat_style_look"
+  - username: "daisyprofile"
     fullname: >-
-      Kat_style_look
+      Daisy
     bio: >-
-      New York City Fashion & Lifestyle #newyorkuniversity Master‘s in Digital Marketing All #photosbyme 💫
+      Anterior cuenta de modelo más de 100k💣💥 Y mi cuenta que NO es de modelaje: @daisydaixy TODO LO QUE DESEAMOS NOS DESEA 🔥😎
     location: "United States"
-    followers: 46648
-    engagement: 291
-    commentsToLikes: 0.152537
-    id: ck0w2l362owgk0i19763c690d
+    followers: 28406
+    engagement: 382
+    commentsToLikes: 0.024715
+    id: ck55lwsaj2mjz0i11h4sdv43d
     verified: false
-    hashtags: "#rarebeauty, #rarebeautybyselenagomez, #lulusambassador, #lulus"
-  - username: "hilltopliving"
+    hashtags: "#healthy, #vegan, #fitness, #fitspo"
+  - username: "ruben_stouth"
     fullname: >-
-      
+      IFBB PRO Ruben Stouth 🇵🇷
     bio: >-
-      Ashley Home | Lifestyle | New York 𝑺𝒉𝒐𝒑 𝒎𝒚 𝒑𝒐𝒔𝒕𝒔⤸
+      🙏Son of God 🏆Overall Classic Physique -Team U 📍 NYC 🏋🏾‍♂️Certified PT 💎Inquiries: stouthfitness@gmail.com 👇🏾 Train With Me
     location: "United States"
-    followers: 16862
-    engagement: 679
-    commentsToLikes: 0.070751
-    id: ck55mc6zq3n2b0i11bcxv5u5o
+    followers: 29965
+    engagement: 169
+    commentsToLikes: 0.044182
+    id: ckaoy2tunftri0i78gxn66z8d
     verified: false
-    hashtags: "#babyfashion, #farmhousedesign, #livingroomstyle, #babiesofinsta"
-  - username: "joynavon"
+    hashtags: "#powerlifting, #fit, #ifbb, #ifbbpro"
+  - username: "69.views"
     fullname: >-
-      JOY NAVON
+      Folajimi
     bio: >-
-      Old soul but, younger. Multifaceted 🍃 🟤 Afro-Bohemian 🟤 Beauty 🟤 Lifestyle New York City📍 💍 @true_artistry #BridgetoBerkeley 💌 joynavon.biz@gmail.com
+      Photographer | Content Creator | Retouching Enthusiast 📍New York 🗽 Click the link to 📖
     location: "United States"
-    followers: 32287
-    engagement: 196
-    commentsToLikes: 0.042447
-    id: ck6ud8iiijnn40j71il5yy1bc
+    followers: 26865
+    engagement: 519
+    commentsToLikes: 0.046476
+    id: ck0ueaokul08u0i19tsuxn5gz
     verified: false
-    hashtags: "#ad, #miraclerepairx, #tgin, #livefollain"
-  - username: "caitlin_eats_alot"
+    hashtags: "#nycmodel, #newjerseyphotographer, #beautyphotography, #maternityphotography"
+  - username: "everything_ravish"
     fullname: >-
-      Caitlin Eats The East Coast
+      Ravishing.ravish
     bio: >-
-      📍 Queens girl with a big appetite! 🗽 🍣 Feasting in NYC, Long Island & beyond 🍦🌮 📲 DM to Collab 📸 🌍 #Yelp Elite ‘18 ‘19, ‘20
+      Mrs.Pakistan World 2020 🌎 Pakistani-American lifestyle influencer. For all inquiries kindly DM me or email me 💌 ravishzahidthomas@gmail.com
     location: "United States"
-    followers: 14995
-    engagement: 883
-    commentsToLikes: 0.194558
-    id: ck5cbl3vqfng60i11ese4n0ub
+    followers: 87236
+    engagement: 413
+    commentsToLikes: 0.098707
+    id: ck13cieil0i200i19qxnhzinu
     verified: false
-    hashtags: "#foodporn, #steakhouse, #healthyfood, #nycfood"
+    hashtags: "#mrspakistanuniverse, #misspakistanocean, #pageantlife, #bloggers"
+  - username: "_patrician__"
+    fullname: >-
+      PATRICIAN
+    bio: >-
+      I sing, let me sing to you✨ Glory to the most high✝️ 📍Philadelphia 🇭🇹 @gorillapwr
+    location: "United States"
+    followers: 3647
+    engagement: 1358
+    commentsToLikes: 0.092103
+    id: ck6ttovv4bsrw0j71p2q5bpa2
+    verified: false
+    hashtags: "#guitar, #art, #rapper, #vocals"
+  - username: "barbiemintmaoo"
+    fullname: >-
+      Barbiemintmaoo (Aashika)
+    bio: >-
+      ❤ BLw canDLe on2⃣6⃣ AprL ❤ Being sexy is all about attitude, not body type. It's a state of mind ❤ Blogger & Influencer
+    location: "United States"
+    followers: 25921
+    engagement: 154
+    commentsToLikes: 0.117032
+    id: ck9wdcvb0f2y40j78ue40f3aw
+    verified: false
+    hashtags: "#likeforlikes, #followforfollowback, #fashion, #like"
   - username: "edenyoungstein"
     fullname: >-
       Eden Youngstein
     bio: >-
       🍂 Style | Motherhood | Travel | Lifestyle 🍃 New York City 🚕
     location: "United States"
-    followers: 34279
-    engagement: 412
-    commentsToLikes: 0.058346
+    followers: 34185
+    engagement: 396
+    commentsToLikes: 0.060798
     id: ck5c6wegs6c820i11b8g1v4mh
     verified: false
-    hashtags: "#galaxy, #smile, #ootd, #fashion"
-  - username: "walibel"
-    fullname: >-
-      Walibel
-    bio: >-
-      🌵Fashion + Travel + Lifestyle 📍:New York | New Jersey 💌: Walibeltorres@gmail.com⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀
-    location: "United States"
-    followers: 30483
-    engagement: 144
-    commentsToLikes: 0.160159
-    id: ck6tkf16l4kna0j71z92re3qy
-    verified: false
-    hashtags: "#maskupnj, #slowdownthespread, #socialcbdpartner, #monday"
-  - username: "madelineyanni"
-    fullname: >-
-      𝐌𝐀𝐃𝐄𝐋𝐈𝐍𝐄 𝐘𝐀𝐍𝐍𝐈
-    bio: >-
-      Fashion • Beauty • Lifestyle 📍New York City @10mgmt All Inquiries: Jaclyn@10mgmt.com
-    location: "United States"
-    followers: 87652
-    engagement: 113
-    commentsToLikes: 0.058003
-    id: ck15rm3y78l8m0i19238qlu8p
-    verified: false
-    hashtags: "#revolvepartner, #ad, #findyourretinol, #skinbyshani"
+    hashtags: "#fashionblogger, #falloutfits, #barbie, #fashion"
   - username: "joladys_art"
     fullname: >-
       Jolady Nunez
     bio: >-
       Makeup Artist • Content Creator Fashion | Hair | Lifestyle | Art New York City
     location: "United States"
-    followers: 5704
+    followers: 5273
     engagement: 1067
-    commentsToLikes: 0.099421
+    commentsToLikes: 0.061209
     id: ck0vz5qct7fw50i1932j5he86
     verified: false
-    hashtags: "#jamescharlespalette, #latina, #morphebrushes, #photoshoot"
-  - username: "escape_brooklyn"
+    hashtags: "#curlyhair, #fashion, #makeup, #like"
+  - username: "oleynikdmitri"
     fullname: >-
-      Escape Brooklyn
+      NEW YORK PHOTOGRAPHER
     bio: >-
-      Travel and lifestyle for New Yorkers. Inspiring spaces, places & experiences beyond city limits.
+      Photographer for Content Creators portrait | lifestyle | commercial New York + travel ✨portfolio @photographydmitri
     location: "United States"
-    followers: 82464
-    engagement: 174
-    commentsToLikes: 0.020018
-    id: ck0uawkxld9ya0i19lwgg4mjm
+    followers: 18327
+    engagement: 398
+    commentsToLikes: 0.026053
+    id: ck5hmzcromwyj0i11mmfcvwv0
     verified: false
-    hashtags: "#escapebrooklyn, #covid19safety"
-  - username: "chavdar__ivanov"
+    hashtags: "#topnewyorkphoto, #nikonz5, #nycphotographer, #nycphotography"
+  - username: "setias11"
     fullname: >-
-      Chavdar Ivanov
+      Ronan Setias
     bio: >-
-      CEO & Creative Director of Charlino Group, Influencer, #blogger #party lover #model #travel 🛩🌎 @charlinotravel @charlinoplaza @charlinofashion ⬇️
+      I ❤️ NY | lifestyle + travel New York
     location: "United States"
-    followers: 44499
-    engagement: 45
-    commentsToLikes: 0.040662
-    id: ck5cjrmzpvcrk0i11n2t2pbmx
+    followers: 21382
+    engagement: 344
+    commentsToLikes: 0.020638
+    id: ck13c8k8lz47i0i19j1tmcxyj
     verified: false
-    hashtags: "#sexy, #man, #food, #friends"
+    hashtags: "#brooklynheights, #nyc, #friday"
 ---

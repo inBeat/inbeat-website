@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Sydney in 2023
+title: Top 10 Vegan Instagram Influencers In Sydney In 2023
 description: >-
-  Find top vegan Instagram influencers in Sydney in 2023. Most popular hashtags: #vegan #sydney #veganfood.
+  Find top vegan Instagram influencers in Sydney in 2023. Most popular hashtags: #vegan #sydney #easyveganrecipes #veganprotein.
 platform: Instagram
-hits: 47
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 47 Instagram influencers like this in Sydney, Australia for you to connect with.
+hits: 22
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 22 Instagram influencers like this in Sydney, Australia for you to work with.
 profiles:
-  - username: "sydneyveganguide"
+  - username: "ryanjohnsonofoz"
     fullname: >-
-      Sydney Vegan Guide
+      ryanjohnsonofoz
     bio: >-
-      🌱Your official vegan guide in Sydney town 📸 Tag #sydneyveganguide 📩 Inquiries: renee@sydneyveganguide.com 🍴Follow @melbveganguide @newyorkveganguide
+      I’m insanely talented and humble. @9doctordoctor @scoutvoice @mckeonmyones_ent And United Managemt. 🌱🙏🌏 @aussaysnomore ambassador ✊
     location: "Australia"
-    followers: 37695
-    engagement: 97
-    commentsToLikes: 0.028130
-    id: ck15qcmr127l80i19golcmmp4
-    verified: false
-    hashtags: "#vegans, #sydneyveganguide, #sydneyvegan, #sydneyveganfood"
-  - username: "yukilicious_sydney"
+    followers: 10908
+    engagement: 453
+    commentsToLikes: 0.056765
+    id: ckap1phf0vjz20i78m81w4xnt
+    verified: true
+    hashtags: "#vegan, #sydney, #photographer, #wap"
+  - username: "veganonthegc"
     fullname: >-
-      🌸Sydney Foodie🌸 Yuki
+      Jane | vegan on the Gold Coast | vegan recipes
     bio: >-
-      🥘Foodie | Lifestyle | Content Creator 📮DM or email for Collab & Invites 💌Email: gelaine1128@hotmail.com 📍Syd 🇦🇺HK🇭🇰
+      Reels |Recipes |Reviews 📧 15% @froothie VeganontheGC15 10% @plantbasedhamperco VEGANONTHEGC 10% @candyqueensau VEGANONTHEGC
     location: "Australia"
-    followers: 18807
-    engagement: 695
-    commentsToLikes: 0.264582
-    id: ckap54g7fa5ol0i78ovr5lgfm
+    followers: 11469
+    engagement: 174
+    commentsToLikes: 0.230583
+    id: cl48q93z8m8mt0i23e4ed1q9s
     verified: false
-    hashtags: "#cheesecakelove, #plantbasedfoodie, #instafood, #veganfoodspot"
-  - username: "charlottecoquelin"
-    fullname: >-
-      CHARLOTTE COQUELIN 🦇🇫🇷
-    bio: >-
-      @imgmodels VEGAN 🌱 SYDNEY 📍 📝 @5elevenmag
-    location: "Australia"
-    followers: 30279
-    engagement: 266
-    commentsToLikes: 0.093135
-    id: ck5zr4lnlvw490i14c1p80i3w
-    verified: false
-    hashtags: "#ethicalfood, #freerange, #internationaldogday, #mbpartners"
+    hashtags: "#veganfoodporn, #vegano, #brisbanevegans, #burgerporn"
   - username: "ameliamarni"
     fullname: >-
       AMELIA MARNI
     bio: >-
-      🖤 Sydney | Vegan | Love Island S1 📧 CONTACT - amelia@maxconnectors.com.au Social - @maxconnectors Modelling - @scoopmanagement 🤍 VV EBOOK & YOUTUBE
+      🖤 Sydney | Vegan | Love Island S1 | ⚡️TIKTOK - AMELIAMARNI 📧 CONTACT - amelia@maxconnectors.com.au 🤍 VV YOUTUBE VV
     location: "Australia"
-    followers: 304381
-    engagement: 431
-    commentsToLikes: 0.006530
+    followers: 338636
+    engagement: 330
+    commentsToLikes: 0.007121
     id: ck5hhvdr7a9pg0i118e2bio6h
     verified: true
-    hashtags: "#vegan, #ad, #jeuneora, #jeuneorajourney"
-  - username: "emclarke12"
+    hashtags: "#brandedpartner, #spon, #glassons"
+  - username: "danielebarresi_artist"
     fullname: >-
-      E M I L Y
+      D A N I E L E B A R R E S I
     bio: >-
-      ◐ Living one life on two sides of the world ◑ ⟟ UK ✈︎ AUS 🌱 Vegan ↠ Currently: SYDNEY 🎥 YOUTUBE👇🏽
+      World Champion Carving Designer & Resin Artist My resin products @db_resinproducts 🐣 Avo-daddy of @anth_barresi 📨 E-mail for enquires Sydney, Au 🇦🇺
     location: "Australia"
-    followers: 17969
-    engagement: 206
-    commentsToLikes: 0.073475
-    id: ck13busc2x8mu0i19qdbnc10u
-    verified: false
-    hashtags: "#climateemergency, #beachsnob, #plantz, #worldmentalhealthday"
-  - username: "chriswilso29"
+    followers: 85471
+    engagement: 174
+    commentsToLikes: 0.026541
+    id: ck5zmj3b3mnt40i14pp60xo3n
+    verified: true
+    hashtags: "#art, #artistsoninstagram, #resincrystal, #arte"
+  - username: "melbournefoodbabies"
     fullname: >-
-      ᴛʜɪᴄᴄɴᴇʏ sᴘᴇᴀʀs
+      Nour ✿ Lily ✿ Melbourne Food
     bio: >-
-      Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |📍 Sydney 🇦🇺 | 🌱 Vegan 👨🏻He/him/his 👬🏻@dangram92 🐶 @rubydevayne
+      @nouralkurd ♥ @_lilybennett__ 🥞 two girls nibbling their way through 🌇 melbourne, aus 💌 melbournefoodbabies@gmail.com 📩 DM for collabs and promos
     location: "Australia"
-    followers: 26828
-    engagement: 417
-    commentsToLikes: 0.008204
-    id: ckapc3wb82d4i0i78lfgtg9cn
+    followers: 3573
+    engagement: 2459
+    commentsToLikes: 0.372196
+    id: ck14h0jjo7xnh0i19qv1p5soq
     verified: false
-    hashtags: "#tbt, #precovidbody, #mcm, #la"
-  - username: "alexander__glover"
+    hashtags: "#melbournebrunch, #foodstylist, #eatingout, #foodpic"
+  - username: "that_vegan_dad"
     fullname: >-
-      Vegan 🐐
+      Jack Rock ~ Vegan Recipes ~ Vegan Memes ~ Vegan Lunchbox
     bio: >-
-      🌱Vegan resources @21days2vegan @thebasic_vegan ❤️Co-founder @_goodtings 🌳Ambassador @4ocean @halfcutorg 🎙Podcast: 21days2vegan by Alexander Glover
+      🌱Making vegan more accessible w/ recipes, humour & more! MY FREE LUNCH BOX EBOOK ⬇️ • @macr0mike dc - AMB-JACKR
     location: "Australia"
-    followers: 72630
-    engagement: 555
-    commentsToLikes: 0.037917
-    id: ck6u6l1ehg7nx0j71psjg3plm
+    followers: 15267
+    engagement: 281
+    commentsToLikes: 0.189248
+    id: cl48q93pqm8ek0i23ggirim9w
     verified: false
-    hashtags: "#veganlife, #govegan, #vegans, #veganfood"
-  - username: "elleshungry"
+    hashtags: "#easyrecipes, #veganrecipes, #easyveganrecipes, #vegansofig"
+  - username: "kara_aus"
     fullname: >-
-      🌸 E𝗟𝗟𝗘 🌸 Sydney Photographer
+      KARA カラ Sydney Tattooed Model
     bio: >-
-      📸 𝐹𝑜𝑜𝒹 𝓅𝒽𝑜𝓉𝑜𝑔𝓇𝒶𝓅𝒽𝓎 👩🏻‍🍳 𝒞𝑜𝓃𝓉𝑒𝓃𝓉 𝒸𝓇𝑒𝒶𝓉𝒾𝑜𝓃 💌 𝒟𝑀 𝒻𝑜𝓇 𝒸𝑜𝓁𝓁𝒶𝒷𝓈/𝓇𝒶𝓉𝑒𝓈
+      DJ & Model 📍Sydney Australia Miss @hotimportnights.au Booking Kara_alcorn@hotmail.com ❤️ @zlrgram ❤️
     location: "Australia"
-    followers: 22765
-    engagement: 352
-    commentsToLikes: 0.212526
-    id: ck15tpc62j8bm0i19mvb6m4sq
+    followers: 18013
+    engagement: 937
+    commentsToLikes: 0.037129
+    id: ck14lmkqfvf4m0i19logfnzgc
     verified: false
-    hashtags: "#pancakes, #dessert, #cakesofinsta, #eatcake"
-  - username: "veganbyeden"
+    hashtags: "#australianmodel, #inkedbeauty, #jdmgirl, #girlswholikecars"
+  - username: "ilanacollins"
     fullname: >-
-      Veganbyeden
+      Actress
     bio: >-
-      Sydney, Australia📍 Fun & easy vegan living 🌱 📩veganbyeden@gmail.com
+      ACTRESS/STUNTWOMAN MEAA graded @actressilanacollins @stuntwomanilana Gold Coast massage therapist @kahuna_bliss VEGAN 🍃 @pranaon athlete
     location: "Australia"
-    followers: 34748
-    engagement: 255
-    commentsToLikes: 0.179416
-    id: ck5q3arvnk0yb0i11ly5yjapk
-    verified: false
-    hashtags: "#sp, #botanikablends, #flexiblefoodsau, #flexitarian"
-  - username: "katya_supernova"
+    followers: 61318
+    engagement: 123
+    commentsToLikes: 0.095479
+    id: ck0tvyzlsdek70i190d16io3f
+    verified: true
+    hashtags: "#bikinis, #mma, #makethechange, #adventures"
+  - username: "clairemoretti"
     fullname: >-
-      Ekaterina
+      Claire Moretti
     bio: >-
-      📍 🇦🇺 Model Food blog @katyas_foodblog Travel blog @ekaterina_travelblog
+      🌱 I love vegan food and keeping fit • Healthy body & Healthy mind 🌱 Published Model 💗💗 📧 claire moretti model@gmail.com
     location: "Australia"
-    followers: 218437
-    engagement: 248
-    commentsToLikes: 0.025952
-    id: ck13chibs0dd90i19cmt3vs2b
+    followers: 73933
+    engagement: 56
+    commentsToLikes: 0.046511
+    id: ck6ubq92pb2f00j71oav3sion
     verified: false
-    hashtags: "#jewelry, #jewelrycollection, #natural, #hypebeast"
+    hashtags: "#happythursday, #monday, #sydney, #feels"
+  - username: "hannah.banana182"
+    fullname: >-
+      H A N N A H // vegan foodie 🌱
+    bio: >-
+      📍Cronulla, Sydney 🦋 Anti-diet 💛 Mental Health Advocate 💌 contact@vivemanagement.com.au ❤️ @macr0mike amb-han
+    location: "Australia"
+    followers: 30808
+    engagement: 296
+    commentsToLikes: 0.113506
+    id: ck8ta008lpypk0j783602ryw5
+    verified: false
+    hashtags: "#biscoffspread, #veganmugcake, #edwarrior, #easyveganrecipes"
 ---

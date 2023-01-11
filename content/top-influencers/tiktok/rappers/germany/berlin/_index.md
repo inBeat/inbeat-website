@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Berlin in 2023
+title: Top 10 Rappers TikTok Influencers In Berlin In 2023
 description: >-
-  Find top rappers TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #viral #rapper #berlin.
+  Find top rappers TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #fyp #viral #berlin.
 platform: TikTok
-hits: 13
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 13 TikTok influencers like this in Berlin, Germany for you to pitch.
+hits: 8
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 8 TikTok influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "kingkaan545"
+  - username: "pavilionsexit"
     fullname: >-
-      kingkaan545
+      pavilions exit
     bio: >-
-      🎤Spotify: Kingkaan545🎤 LEBEN
+      YA65a2
     location: "Germany"
-    followers: 16600
-    engagement: 409
-    commentsToLikes: 0.024381
-    id: ckamfe1eq7kxi0i78tgyhnnmm
+    followers: 68000
+    engagement: 1572
+    commentsToLikes: 0.026973
+    id: ckb0edvjj6t010j23m8bm5ztl
     verified: false
-    hashtags: "#goviral, #touchthis, #viral, #foryoupage"
-  - username: "janinarosee"
+    hashtags: "#deutschrapp, #viral, #music, #fu"
+  - username: "monkeymoritz"
     fullname: >-
-      Janina Rose
+      Moritz
     bio: >-
-      mein insta: @janinarosee 🥰 schaffen wir 10k auf insta?🙏🏽 Bestellungen per DM
+      🖤Schwarzer Humor🖤 🤡Teilzeit Rapper🤡 🦥Costa Rica Reisefotos ➡️ Instagram 🦜
     location: "Germany"
-    followers: 16600
-    engagement: 1528
-    commentsToLikes: 0.027645
-    id: cka84rfeuv2ri0i78efg99jhl
+    followers: 381100
+    engagement: 629
+    commentsToLikes: 0.011206
+    id: ckdc99wj8id1b0j2326zrta0f
     verified: false
-    hashtags: "#love, #trending, #germany, #smallbusiness"
-  - username: "jonathan.schoeck"
-    fullname: >-
-      jonathan.schoeck
-    bio: >-
-      Fakten & Comedy 💯 Berlin 🐻 Antworte jedem auf Insta der folgt 😱
-    location: "Germany"
-    followers: 501000
-    engagement: 1647
-    commentsToLikes: 0.018347
-    id: ck9ke2a9twz2d0j78dypqmqow
-    verified: false
-    hashtags: "#viralvideo, #fakten, #fy, #fakt"
-  - username: "nataliabobrich"
-    fullname: >-
-      Naty
-    bio: >-
-      ❤️ LIVE ❤️ aus Berlin Games mo-do 19uhr
-    location: "Germany"
-    followers: 2763
-    engagement: 1574
-    commentsToLikes: 0.043551
-    id: ckcosq7tn82ss0j2318ji3r2d
-    verified: false
-    hashtags: "#challenge, #foryoupage, #fun, #foryou"
+    hashtags: "#duett, #ironie, #bratee, #flachwitz"
   - username: "fero72_"
     fullname: >-
       Fero72
     bio: >-
       72 GANG 👻Kurdo.72
     location: "Germany"
-    followers: 3261
-    engagement: 1752
-    commentsToLikes: 0.044510
+    followers: 3162
+    engagement: 1732
+    commentsToLikes: 0.043941
     id: ckb8z6knueg460j23flygyvpe
     verified: false
-    hashtags: "#qdhfamily, #funny, #coronavirus, #mermiflow"
-  - username: "pavilionsexit"
+    hashtags: "#corona, #72gang, #foryou, #mero"
+  - username: "vintageena"
     fullname: >-
-      pavilions exit
+      vintageena
     bio: >-
-      Folgt mir auf Insta 🙏🏽 Und hört in meine Musik rein 🎶
+      Your big cool sistah that sings and knows shit 💫🌝 follow my insta 📸
     location: "Germany"
-    followers: 71400
-    engagement: 1590
-    commentsToLikes: 0.030039
-    id: ckb0edvjj6t010j23m8bm5ztl
+    followers: 2484
+    engagement: 1861
+    commentsToLikes: 0.024828
+    id: ckbf9bu8c03yj0j23wqe9d6zf
     verified: false
-    hashtags: "#deutschrapp, #cartoon, #youtube, #kunst"
-  - username: "zekikafras"
+    hashtags: "#trending, #berlin, #spiritual, #thirdeye"
+  - username: "deutschraplinez1"
     fullname: >-
-      Zeki Kafraś
+      Deutschraplinez
     bio: >-
-      Folgt mir auf Instagram 👉@Zekikafraş 👌👍
+      📱| #memes | #zitate | #deutschrap ⤵️Checkt meine Playlist
     location: "Germany"
-    followers: 6461
-    engagement: 456
-    commentsToLikes: 0.089948
-    id: ck9gkvvaelfno0j782d3h4i8h
-    verified: false
-    hashtags: "#berlin, #foryou, #foryoupage, #kurdi"
-  - username: "kurdo18790"
-    fullname: >-
-      kurdo190
-    bio: >-
-      
-    location: "Germany"
-    followers: 9500
-    engagement: 498
-    commentsToLikes: 0.048572
-    id: ckc7byg9hlon30j23uc7vrfa2
-    verified: false
-    hashtags: "#follw, #like, #berlin, #2020"
-  - username: "markiermal"
-    fullname: >-
-      Markieren ❤️
-    bio: >-
-      Spotify Playlist: HYPED! https://sptfy.com/95MZ
-    location: "Germany"
-    followers: 4055
-    engagement: 619
-    commentsToLikes: 0.021874
+    followers: 4111
+    engagement: 607
+    commentsToLikes: 0.018990
     id: ckbki111ua9io0j230j3kvop4
     verified: false
-    hashtags: "#deutschrapmemes, #foryou, #deutschrap, #fyp"
-  - username: "thesisart"
+    hashtags: "#deutschrapmemes, #deutschrap, #fyp, #foryou"
+  - username: "janinarosee"
     fullname: >-
-      𝑻𝒉𝒆𝒓𝒆𝒔𝒂
+      Janina Rose
     bio: >-
-      Grias di🙋🏽‍♀️ 20.000 Spotzn🐥 Meace❤️ 📧: originalhabedere@gmx.de
+      instagram: @janinarosee 🥰 schaffen wir 10k auf insta?🙏🏽 Bestellungen per DM
     location: "Germany"
-    followers: 20500
-    engagement: 1213
-    commentsToLikes: 0.054977
-    id: ckdtkufonyqr50j23p1snoinb
+    followers: 16500
+    engagement: 1302
+    commentsToLikes: 0.026456
+    id: cka84rfeuv2ri0i78efg99jhl
     verified: false
-    hashtags: "#niederbayern, #dialekt, #bayern, #bayerisch"
+    hashtags: "#drake, #bestellung, #order, #fyfyfyfyfy"
+  - username: "serien.zitate"
+    fullname: >-
+      Serien.zitate
+    bio: >-
+      Lebe und denke nicht an morgen 🦋🤛❤️ 2 acc Louisa_Nadar❤️
+    location: "Germany"
+    followers: 3884
+    engagement: 1043
+    commentsToLikes: 0.026340
+    id: ckd5p9djoxc0g0j23wruh59b0
+    verified: false
+    hashtags: "#fyseite, #mero, #foryou, #liebe"
+  - username: "fun_tv7"
+    fullname: >-
+      fun_tv
+    bio: >-
+      ★᭄ꦿ᭄ꦿFUN TV★᭄ꦿ᭄ꦿ
+    location: "Germany"
+    followers: 2115
+    engagement: 636
+    commentsToLikes: 0.038185
+    id: ckahth7k7ed0a0i78h874po33
+    verified: false
+    hashtags: "#rap, #foryou, #deutschrap, #gang"
+  - username: "fero47"
+    fullname: >-
+      Fero47
+    bio: >-
+      #Rapper from Germany #47
+    location: "Germany"
+    followers: 403800
+    engagement: 1286
+    commentsToLikes: 0.018538
+    id: cka86wwro4ftk0i78s8gcaom4
+    verified: true
+    hashtags: "#schaumichan, #dubistanders, #fero47, #challange"
+  - username: "kayefofficial"
+    fullname: >-
+      kayefofficial
+    bio: >-
+      Sänger/Rapper, 26, Düsseldorf 🔥 SEIT DU WEG BIST - OUT NOW 🔥
+    location: "Germany"
+    followers: 226400
+    engagement: 1271
+    commentsToLikes: 0.017040
+    id: ck9m4hrrkkc8v0j78put74nmu
+    verified: true
+    hashtags: "#nono, #seitduwegbist, #2uhrnachts, #kayef"
 ---

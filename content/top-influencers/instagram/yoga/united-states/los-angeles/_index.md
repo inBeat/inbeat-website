@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Los Angeles in 2023
+title: Top 10 Yoga Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top yoga Instagram influencers in Los Angeles in 2023. Most popular hashtags: #yoga #losangeles #dance.
+  Find top yoga Instagram influencers in Los Angeles in 2023. Most popular hashtags: #yoga #losangeles #fitness #photography.
 platform: Instagram
-hits: 142
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 142 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+hits: 109
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 109 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
+  - username: "ziggylisowski"
+    fullname: >-
+      Ziggy Lisowski
+    bio: >-
+      Don't make me shoot you 📸 | LA 🇺🇸
+    location: "United States"
+    followers: 39173
+    engagement: 343
+    commentsToLikes: 0.046517
+    id: ck6tobl9td5cf0j7112mfubkb
+    verified: false
+    hashtags: "#australia, #sydney, #explore, #ocean"
+  - username: "efi_fitness_"
+    fullname: >-
+      Fit & Firm
+    bio: >-
+      Yoga & Pilates Teacher🔥 Personal trainer 💪🏻 🎭Art 4 life🎨 ☇Music Rule My World...☇ 👇🏻Start your journey👇🏻
+    location: "United States"
+    followers: 24389
+    engagement: 83
+    commentsToLikes: 0.133678
+    id: ck8ta6u5zqo020j788wi63pab
+    verified: false
+    hashtags: "#tulum, #lifestyle, #photooftheday, #yogaoutside"
   - username: "cdenice"
     fullname: >-
       Christian Denice
     bio: >-
       Choreographer | Dancer Yoga Instructor Los Angeles
     location: "United States"
-    followers: 21599
-    engagement: 754
-    commentsToLikes: 0.013838
+    followers: 21863
+    engagement: 398
+    commentsToLikes: 0.017747
     id: ck8syxi5umebu0j78sd1u37ir
     verified: false
-    hashtags: "#choreographer, #artist, #contemporarydance, #creation"
-  - username: "littlejewlia"
-    fullname: >-
-      Julia Galloway
-    bio: >-
-      NBA Dancer for the Miami Heat Dream big; smile bigger. ⬇️VOTING INFO⬇️ #blacklivesmatter
-    location: "United States"
-    followers: 4256
-    engagement: 857
-    commentsToLikes: 0.093777
-    id: ck5q0ritf7el40i11vet1d8bh
-    verified: false
-    hashtags: "#basketball, #winning, #nba, #nbadancers"
-  - username: "trauma.informed.yoga"
-    fullname: >-
-      Laura Mohai, teacher, advocate
-    bio: >-
-      ✨ New account! ✨ For survivors, students & teachers of yoga ✨ Discussions on trauma, healing, yoga and justice ✨ Los Angeles
-    location: "United States"
-    followers: 12831
-    engagement: 1662
-    commentsToLikes: 0.056448
-    id: ckapbb8pbz9ju0i781p6rsagn
-    verified: false
-    hashtags: "#aspd"
+    hashtags: "#dancersofinstagram, #choreographer, #choreography, #dance"
   - username: "natalie_aley"
     fullname: >-
       natalie_aley
     bio: >-
       🏡 Los Angeles 🎹 #music 🤸🏼‍♂️ #yoga 🥗 #plantpoweredliving ✈️ #travel
     location: "United States"
-    followers: 182009
-    engagement: 101
-    commentsToLikes: 0.036870
+    followers: 168965
+    engagement: 89
+    commentsToLikes: 0.043056
     id: ck55m16ds2xw70i11thewkwy2
     verified: false
-    hashtags: "#plantbased, #yogawear, #veganlosangeles, #yogainspiration"
-  - username: "ashbydrake"
+    hashtags: "#wellnessjourney, #losangelesblogger, #yogainspiration, #yoga"
+  - username: "fanya.qa"
     fullname: >-
-      ashby
+      F🔺NY🔺
     bio: >-
-      DJ & Dog mama Promoter of love, light and equal rights Yoga instructor @ashbyyoga NTA models • Los Angeles 🐾🎧🎨🧘‍♀️👽🌈
+      👉🏼Personal trainer 👉🏼Full time believer 📍Qatar. 🇶🇦 ‎مدربه رياضه
     location: "United States"
-    followers: 16563
-    engagement: 721
-    commentsToLikes: 0.053379
-    id: ck5hmc06ulom20i11grhqpfkh
+    followers: 12962
+    engagement: 344
+    commentsToLikes: 0.039899
+    id: ck9wdu2uah9pr0j78e0pma7do
     verified: false
-    hashtags: "#babyboy, #louisville, #princetonlane, #merrychristmas"
-  - username: "air_recka"
+    hashtags: "#fit, #igfit, #yogalove, #fitnessmotivation"
+  - username: "leoramadelain"
     fullname: >-
-      Erika
+      Leora Madelain
     bio: >-
-      ✌🏼️ be the journey My spirit runs 🆓 🖤 > fear Yoga Instructor 🙏🏼 📍 Los Angeles
+      Welcome to my yoga life @wilhelminamodels Los Angeles
     location: "United States"
-    followers: 2232
-    engagement: 1083
-    commentsToLikes: 0.067710
-    id: ck15qcg3126nd0i19udhjf4qy
+    followers: 9105
+    engagement: 940
+    commentsToLikes: 0.074677
+    id: ck5cftwfpnm150i11jkuis4hi
     verified: false
-    hashtags: "#yachtweekcroatia, #yachtweek2019, #askfor, #poppyfields"
-  - username: "lindanyvltova"
+    hashtags: ""
+  - username: "hannahmermaid"
     fullname: >-
-      Linda Nyvltova
+      Hannah Fraser 🧜‍♀️
     bio: >-
-      🤸‍♀️ YOGA TEACHER | E-RYT 800 Los Angeles 🧘‍♀️ Bratislava Get @mandukaeurope yoga mat -10% with code LINDANYOGA
+      Real Life Mermaid underwater model conservationist swims with sharks, whales, dolphins, mantas to save the Ocean. Contact for: Events, shoots, films.
     location: "United States"
-    followers: 18004
-    engagement: 175
-    commentsToLikes: 0.048732
-    id: ck5zugn5g2bn10i14bdvwp7zb
+    followers: 127590
+    engagement: 92
+    commentsToLikes: 0.023147
+    id: ck0ttrni640xw0i19bkq2odxj
     verified: false
-    hashtags: "#yogapractice, #strong, #travel, #yogateacher"
-  - username: "agracefulson"
+    hashtags: "#underwaterfashion, #hollywood, #retro, #flamingo"
+  - username: "missgladieva"
     fullname: >-
-      Grayson Gilbert
+      KitKat | Professional Dancer
     bio: >-
-      yoga | personal training | healing music Los Angeles
+      🇨🇦|🇧🇬 😄| Katerina 📌| Montreal 😎| ENFJ • Ars longa, vita brevis.
     location: "United States"
-    followers: 23424
-    engagement: 331
-    commentsToLikes: 0.016502
-    id: ck6tm0hih6yya0j712haoswdx
+    followers: 3378
+    engagement: 858
+    commentsToLikes: 0.090159
+    id: ckaorruz2ogtr0i788od3l8oo
     verified: false
-    hashtags: "#yogateacher, #meditate, #meditation, #personaltrainer"
-  - username: "kinyaclaiborne"
+    hashtags: "#afrobeat, #montreal, #organic, #beauty"
+  - username: "trauma.informed.yoga"
     fullname: >-
-      STYLE & SOCIETY Magazine
+      Laura Mohai, teacher, advocate
     bio: >-
-      Style Influencer & Content Creator Fashion•Foodie•Travel•Lifestyle•Editor-in-Chief 🙋🏾‍♀️Founder @STYLEANDSOCIETY 💌 bookings@styleandsociety.com
+      ✨ New account! ✨ For survivors, students & teachers of yoga ✨ Discussions on trauma, healing, yoga and justice ✨ Los Angeles
     location: "United States"
-    followers: 97411
-    engagement: 244
-    commentsToLikes: 0.102767
-    id: ck0ubm5pjevw20i19mtdav4nr
+    followers: 12856
+    engagement: 1585
+    commentsToLikes: 0.057845
+    id: ckapbb8pbz9ju0i781p6rsagn
     verified: false
-    hashtags: "#luxuryhotel, #restaurant, #culinary, #fallfeels"
-  - username: "shiobannamisial"
+    hashtags: "#aspd"
+  - username: "909_jc"
     fullname: >-
-      aka LaBlueRouge
+      Joel Cullinane
     bio: >-
-      NJ🛫FL🛩 LA Collector on ETN😈 Actor @danielhoffagency Model 👯‍♀️@bigdreamstalent Dancer💃🏾 Most importantly I’m an Artist N I'm sensitive bout my $h*🎨
+      Fitness - BPI Sports Ambassador 📑 Lawyer BPI 20% discount code: JOELC 🔗 http://bit.ly/JoelBPI Your ATTITUDE determines your ALTITUDE!
     location: "United States"
-    followers: 6045
-    engagement: 400
-    commentsToLikes: 0.145205
-    id: ck13csi1z1xqz0i1935aqibgo
+    followers: 2859
+    engagement: 1719
+    commentsToLikes: 0.052782
+    id: ck0w48qsaxcpy0i191dnjj8sj
     verified: false
-    hashtags: "#corona, #newhair, #linkinbio, #jewelry"
+    hashtags: "#australia, #fitness, #smile, #travel"
 ---

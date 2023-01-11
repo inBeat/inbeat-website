@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Milan in 2023
+title: Top 10 Fashion Instagram Influencers In Milan In 2023
 description: >-
-  Find top fashion Instagram influencers in Milan in 2023. Most popular hashtags: #fashion #milan #italy #outfit.
+  Find top fashion Instagram influencers in Milan in 2023. Most popular hashtags: #fashion #italy #beauty #style.
 platform: Instagram
-hits: 650
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 650 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 527
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 527 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "yuliya_paul"
+  - username: "angelica_scaglione"
     fullname: >-
-      Yuliya Paul
+      Angelica Scaglione 🌍
     bio: >-
-      From Belarus✨ Fashion Milan, Identity NYC, Premium Paris, M+P London, Core Hamburg, Seeds Berlin, IMM Brussels, Mad Spain, MC2 Miami✨
+      📍Milan 📍Paris 🌺Fashion & Travel 🌟Web Influencer @beatotemilano ambassador Collaboration 📩 DIRECT
     location: "Italy"
-    followers: 32202
-    engagement: 85
-    commentsToLikes: 0.171914
-    id: ck55oqhcg8wnx0i11wf6k2rix
+    followers: 499248
+    engagement: 317
+    commentsToLikes: 0.056094
+    id: ck8t3myy63rzc0j78kt45slxy
     verified: false
-    hashtags: "#momlife, #quarantine, #fall, #belarussianlivesmatter"
-  - username: "paulferrari89"
+    hashtags: "#fashion, #milano, #ad, #sunday"
+  - username: "_danielarosatiofficial_"
     fullname: >-
-      Paul Ferrari
+      𝐃𝐚𝐧𝐢𝐞𝐥𝐚 𝐑𝐨𝐬𝐚𝐭𝐢 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
     bio: >-
-      📍Mi -Fashion@Milan-Next@London -Sight@Barcelona-Premium@Paris
+      
     location: "Italy"
-    followers: 26349
-    engagement: 527
-    commentsToLikes: 0.033656
-    id: ckaouqaft1chk0i78r2xgte9x
+    followers: 243768
+    engagement: 251
+    commentsToLikes: 0.016431
+    id: ck8wgi54fhew30j78n958apee
     verified: false
-    hashtags: "#adv, #art, #september, #adaywithyamamay"
-  - username: "krsikapamarija"
+    hashtags: "#post, #sexy, #beautiful, #lagodicarezza"
+  - username: "franci_chelli"
     fullname: >-
-      Marija Krsikapa
+      Francesca Chelli
     bio: >-
-      🇮🇹Based in MILAN, ITALY 👠FASHION | TRAVEL | LIFESTYLE 💌Let’s get in touch: marijakrsikapa@yahoo.co.uk 🎥Check out my new YouTube Channel
+      It’s all about Style Brand Advisor & Ambassador Writer ‘Metti che Vivo’ Blog owner mystylenotebook.com @fidenzavillage Ambassador @laprairie VVP
     location: "Italy"
-    followers: 238730
-    engagement: 466
-    commentsToLikes: 0.014846
-    id: ck5zlqc3rl6tf0i14xj06as9s
+    followers: 102115
+    engagement: 431
+    commentsToLikes: 0.026183
+    id: ck8t9vif9phtp0j78bodzt1dj
     verified: false
-    hashtags: "#ootd, #fun, #italy, #sunset"
-  - username: "francescoanglanifp"
+    hashtags: "#photooftheday, #fashiontrends, #oodt, #chicstyle"
+  - username: "dariomonfort"
     fullname: >-
-      Francesco Anglani
+      Dario Monforté
     bio: >-
-      Photographer Milano francescoanglanifp@gmail.com
+      ‎اتبع أسلوبي، اتبع حياتي! 跟着我，跟着我的生活 SICILIANO DOC Libero di sognare, libero di vivere! Globe trotter 🌍 since 2012 Web/TV 📍Milan/NYC/Palermo
     location: "Italy"
-    followers: 46308
-    engagement: 310
-    commentsToLikes: 0.018085
-    id: ck6ug6mzc17yc0j7132tofo0a
+    followers: 104720
+    engagement: 133
+    commentsToLikes: 0.016460
+    id: ckf5ofk2b22c30j230d4hef6g
     verified: false
-    hashtags: "#model, #fashion, #milan, #styling"
-  - username: "dami_riz"
+    hashtags: "#happy, #photoshoot, #beauty, #nature"
+  - username: "flaviabarone_real"
     fullname: >-
-      Damiano Rizzeri 🔥
+      𝔽 𝕃 𝔸 𝕍 𝕀 𝔸
     bio: >-
-      Damy•♑️🌑🧠 25yo• Rome📍•🇮🇹 ShootingModel 📸 Figurante🎥@amiciufficiale Lover•tatto🎨travel🌍food🍝sport🏆fashion✨animals🐲luxury💰car🏎 Info & collaborazione 📩
+      𝑰'𝒎 𝑪𝒓𝒂𝒛𝒚, 𝒔𝒐𝒓𝒓𝒚 ⇙ 𝑻𝒊𝒌 𝑻𝒐𝒌 (30𝒌) ⇘
     location: "Italy"
-    followers: 4291
-    engagement: 877
-    commentsToLikes: 0.057873
-    id: ck8t1e1aoverl0j78ok3bswrw
+    followers: 3075
+    engagement: 869
+    commentsToLikes: 0.039768
+    id: ckaouqxg21fic0i788vktmp6i
     verified: false
-    hashtags: "#photooftheday, #shooting, #lovers, #mood"
-  - username: "liakemendi"
+    hashtags: "#instagram, #estetica, #sea, #follow"
+  - username: "dasha.kina"
     fullname: >-
-      Lia Kemendi
+      Daria Dereviankina🖤
     bio: >-
-      #ballerina #model #choreographer #gyrokinesis #gyrotonic 📍Paris-Berlin @thefashioncomposersagency 🇳🇱 @d1models 🇬🇧 @vivamodelsberlin 🇩🇪
+      📍Italy. Como 🎞Model/personal blog 📞Сотрудничество (съёмки, реклама) Collaboration, booking 🖋@iamdasha.kina@gmail.com
     location: "Italy"
-    followers: 10056
-    engagement: 355
-    commentsToLikes: 0.070229
-    id: ck6ttb8ai9mt50j71f450v4ga
+    followers: 592781
+    engagement: 172
+    commentsToLikes: 0.011734
+    id: ck5cfolzxncmz0i11hxlujlu0
     verified: false
-    hashtags: "#lightworker, #portraitart, #danceinspiration, #ballerinasofig"
-  - username: "rickoschwartz"
+    hashtags: "#womanstyle, #brunette, #shooting, #blueeyes"
+  - username: "annarita1607"
     fullname: >-
-      Ricko Schwartz
+      🦄Annarita Liegi
     bio: >-
-      RICKO Federico Schwartz massimiliano@donermusic.it
+      📍25, Italy (Bari) Degree in Building engineering Admin: @volgobari @apulianadvisor ISCRIVITI AD AMAZON PRIME ⬇️⬇️⬇️⬇️
     location: "Italy"
-    followers: 144978
-    engagement: 175
-    commentsToLikes: 0.780757
-    id: ck1357k0g03dd0i19vltad5to
+    followers: 8964
+    engagement: 338
+    commentsToLikes: 0.065273
+    id: ck8t3ybea4xpc0j78qgwi3v3x
     verified: false
-    hashtags: "#complexstyle, #modernnotoriety, #highsnobiety, #outfit"
-  - username: "ohmyfred"
+    hashtags: "#christmas, #volgoitalia, #italy, #lavitainunoscatto"
+  - username: "chriswavedj"
     fullname: >-
-      Federico P.
+      CHRIS WAVE
     bio: >-
-      I didn’t like this world, so I created mine. This is my ONLY account. 26📍Milan Contact: ohmyfred@outlook.com •Digital influencer & Nurse 👨🏻‍⚕️
+      🇮🇹 Made in Italy, since 1987 📬 Bookings: Direct 🎶 #MusicLover 🎹 #MusicProducer
     location: "Italy"
-    followers: 263268
-    engagement: 861
-    commentsToLikes: 0.017051
-    id: ck8t2cjchyyr70j7829xtnd24
+    followers: 32879
+    engagement: 448
+    commentsToLikes: 0.006856
+    id: ck0w7876mc8zt0i19hwfa64ag
     verified: false
-    hashtags: "#sundayfunday, #tattoo, #guyswithtattoos, #throwbackthursday"
-  - username: "chiarapiaurora"
+    hashtags: "#studio, #djlife, #deephouse, #pioneerdjs"
+  - username: "fely_felicia__"
     fullname: >-
-      Chiara Pia Aurora
+      Fely Felicia
     bio: >-
-      ▪️𝑴𝑼𝑺𝑰𝑪𝑰𝑨𝑵🎻🎹 ▪️𝑨𝑪𝑻𝑹𝑬𝑺𝑺🎬 🔻𝑰𝒏𝒅𝒊𝒈𝒐 𝑭𝒊𝒍𝒎🔻𝑹𝒂𝒊 𝑭𝒊𝒄𝒕𝒊𝒐𝒏 #𝑳𝒂𝑪𝒐𝒎𝒑𝒂𝒈𝒏𝒊𝒂𝑫𝒆𝒍𝑪𝒊𝒈𝒏𝒐 📍𝑩𝒂𝒔𝒆𝒅 𝒊𝒏
+      You don’t need a hero darling ...become one of them!! 😘👸#girlpower 📍Based in #milan Fashion lover ❤️👗💄💎 Personal shopper 👠👗👜😘 🗣🇲🇩 🇬🇧 🇷🇴 🇮🇹 📖 -> 🇫🇷🇷🇺
     location: "Italy"
-    followers: 15809
-    engagement: 1109
-    commentsToLikes: 0.014180
-    id: ckf5weuthru7x0j23atg8b6dn
+    followers: 7292
+    engagement: 1345
+    commentsToLikes: 0.043194
+    id: ck8t1jio6w0ht0j787a5hwo40
     verified: false
-    hashtags: "#shooting, #sea, #actress, #follow"
-  - username: "myglamourattitude"
+    hashtags: "#pitbullpuppies, #doglover, #vogue, #relax"
+  - username: "dshock14"
     fullname: >-
-      Maria Giovanna Abagnale
+      Davide | Dshock
     bio: >-
-      💻 ᴏɴʟɪɴᴇ sɪɴᴄᴇ 2012 👩🏻‍💻 ғᴏᴜɴᴅᴇʀ @mgamedialab 🌍 ᴍɪʟᴀɴ, ɪᴛᴀʟʏ 📍ᴍɪʟᴀɴ, ɪᴛᴀʟʏ
+      CLUB KID • JEWEL FACE • VIRGO 3D Makeup Artist Since 2009 @mks_milano_fashion_school 📍Milan
     location: "Italy"
-    followers: 94153
-    engagement: 142
-    commentsToLikes: 0.039783
-    id: ck14hrpfabsl40i19by6kxs2v
+    followers: 43758
+    engagement: 656
+    commentsToLikes: 0.009435
+    id: ck5hpct44r56g0i11j0n5d4qd
     verified: false
-    hashtags: "#myglamourattitude, #sicilia, #outfit, #siracusa"
+    hashtags: "#metal, #gold, #jewelface, #manuelalbarran"
 ---

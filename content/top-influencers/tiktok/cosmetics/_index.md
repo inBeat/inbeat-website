@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers in 2023
+title: Top 10 Cosmetics TikTok Influencers In 2023
 description: >-
-  Find top cosmetics TikTok influencers in 2023. Most popular hashtags: #fyp #duet #skincare #lipgloss.
+  Find top cosmetics TikTok influencers in 2023. Most popular hashtags: #fyp #duet #makeup #smallbusiness.
 platform: TikTok
-hits: 373
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 373 TikTok influencers like this for you to contact.
+hits: 379
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 379 TikTok influencers like this for you to work with.
 profiles:
   - username: "lipfix_cosmetics"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ✊🏻✊🏼✊🏽✊🏾✊🏿 Giveaway at 150k💖 Insta⬆️ YouTube: Lipfix Cosmetics
     location: "United States"
-    followers: 123400
-    engagement: 2121
-    commentsToLikes: 0.028002
+    followers: 118600
+    engagement: 2031
+    commentsToLikes: 0.033189
     id: ck9pm9m3k88ze0j784ceyaswn
     verified: false
-    hashtags: "#fun, #smallbusiness, #lipgloss, #lipfix"
+    hashtags: "#fun, #fyp, #lipfix, #smallbusiness"
+  - username: "queermeetsworld"
+    fullname: >-
+      Other Noah
+    bio: >-
+      🧿✡️💅 Spam/Political Account All pronouns Random crap main: cosmeticswithnoah
+    location: "United States"
+    followers: 17300
+    engagement: 1316
+    commentsToLikes: 0.232368
+    id: ckcur7bdfjle60j2367mlirhx
+    verified: false
+    hashtags: "#stitch, #israel, #freepalestine, #jewish"
   - username: "shaniii888"
     fullname: >-
       shaniii 888
     bio: >-
       Lhr yatem khana markit khalid and fazi cosmetics
     location: "Pakistan"
-    followers: 141500
-    engagement: 1368
-    commentsToLikes: 0.036301
+    followers: 133600
+    engagement: 2200
+    commentsToLikes: 0.021228
     id: ckbepj07j6lvc0j23zi14p1qo
     verified: false
-    hashtags: "#millionveiws, #whatanimalareyou"
+    hashtags: ""
   - username: "joycetse"
     fullname: >-
       Joyce Tse
     bio: >-
-      Cosmetic chemist/formulator I think I've been shadowbanned 😳🥺😢
+      Cosmetic chemist/formulator
     location: "Canada"
-    followers: 16500
-    engagement: 1617
-    commentsToLikes: 0.049558
+    followers: 16300
+    engagement: 1583
+    commentsToLikes: 0.045483
     id: ckbw5pi11y2ik0j23t223aukp
     verified: false
-    hashtags: "#acne, #skincare, #sunburn, #kbeauty"
-  - username: "marieclaire.popernik"
-    fullname: >-
-      Marieclaire Popernik
-    bio: >-
-      shop the link below! go follow my business page @marieclaire.cosmetics
-    location: "United States"
-    followers: 88600
-    engagement: 2192
-    commentsToLikes: 0.013943
-    id: ck8z8ny64uwv30j78aal4fkes
-    verified: false
-    hashtags: "#tiktoktaughtme, #foryoupage, #theoldguard, #fyp"
+    hashtags: "#acnetips, #skintips, #hairstyle, #skincare"
   - username: "ofracosmetics"
     fullname: >-
       Ofra Cosmetics
     bio: >-
       OFRA Cosmetics 🇺🇸Made in the USA 🐰Cruelty-Free Cosmetics 💗Makeup & Skincare
     location: "United States"
-    followers: 20300
-    engagement: 1563
-    commentsToLikes: 0.076807
+    followers: 21000
+    engagement: 1368
+    commentsToLikes: 0.116997
     id: ck9c4m8lnq4t60j78g00u940a
     verified: false
-    hashtags: "#lipstick, #ghostphotoshoot, #amazonprime, #dayinmylife"
-  - username: "nina.ceo"
+    hashtags: "#duet, #makeuptransition, #makeuptransformation, #outcome"
+  - username: "marieclaire.popernik"
     fullname: >-
-      Nina 💄Ceo
+      Marieclaire Popernik
     bio: >-
-      CEO Colourette Cosmetics 💄 Fresh Formula 🧴 IG @theninaellaine
-    location: "Philippines"
-    followers: 887800
-    engagement: 985
-    commentsToLikes: 0.021120
-    id: ckbqns2b68mav0j238zdjttji
-    verified: false
-    hashtags: ""
-  - username: "olgaavezbakiev"
-    fullname: >-
-      Olga Avezbakiev
-    bio: >-
-      Thank You all for love and support! Check out my daughter's cosmetic business!
+      shop the link below! go follow my business page @marieclaire.cosmetics
     location: "United States"
-    followers: 2662
-    engagement: 1232
-    commentsToLikes: 0.084778
-    id: ckcdf7ezy6hix0j23fjpaow61
+    followers: 87100
+    engagement: 2132
+    commentsToLikes: 0.013815
+    id: ck8z8ny64uwv30j78aal4fkes
     verified: false
-    hashtags: "#holidayseason, #viral, #lipscrub, #happyhalloween"
-  - username: "waykint"
+    hashtags: "#theoldguard, #fyp, #tiktoktaughtme, #beatsdaisychallenge"
+  - username: "theheauxmentorofficial"
     fullname: >-
-      kayla
+      Lydia Dupra 
     bio: >-
-      24 | OH | waykintcustoms on Etsy | waykint cosmetics on facebook 🥰
+      CEO Heaux Cosmetics Love Potions, Penthouse Life & Lambo content
     location: "United States"
-    followers: 5566
-    engagement: 1170
-    commentsToLikes: 0.053336
-    id: ckc7wx75azvsc0j23igkzuus3
+    followers: 399800
+    engagement: 1199
+    commentsToLikes: 0.019890
+    id: ckbexbn9khg270j238zagxpcu
     verified: false
-    hashtags: "#unitedwedance, #browneyes, #fyp, #hi"
+    hashtags: "#pheromones, #heauxcosmeticsreview, #lambo, #lamborghiniurus"
+  - username: "tristacosmetics"
+    fullname: >-
+      Trista ✨
+    bio: >-
+      NL, CANADA 🇨🇦 CEO of TRISTA Cosmetics 21 🦋
+    location: "Canada"
+    followers: 3072
+    engagement: 1176
+    commentsToLikes: 0.081369
+    id: ckcv204e0nwee0j23lj5xymhv
+    verified: false
+    hashtags: "#tiktok, #fyp, #getreadywitholdspice, #makeup"
+  - username: "eco.amical"
+    fullname: >-
+      Christine Lan
+    bio: >-
+      zero waste cosmetics 🌏💄 DIY for 🌏 Actress 🎭 Eco Tok 🌏 christinelan1@gmail
+    location: "Canada"
+    followers: 77000
+    engagement: 983
+    commentsToLikes: 0.023134
+    id: ck8nc232rcmw80j788vzg6hil
+    verified: false
+    hashtags: "#learnontiktok, #healthyliving, #diy, #learnsomething"
   - username: "stryx_official"
     fullname: >-
       Stryx
     bio: >-
-      CEO of Handsome Men’s Cosmetics & Skincare USE CODE ‘TIKTOK’ for 15% off! ⬇️ ⬇️
+      Men’s Cosmetics & Skincare Use Code ‘TIKTOK’ for 15% OFF orders $40+
     location: "United States"
-    followers: 41400
-    engagement: 658
-    commentsToLikes: 0.053284
+    followers: 49600
+    engagement: 649
+    commentsToLikes: 0.071135
     id: ck8khqmk3nx490j78dbyiza1t
     verified: false
-    hashtags: "#menwhowearmakeup, #mensskincare, #realmenwearmakeup, #duet"
-  - username: "askdrjason"
-    fullname: >-
-      askdrjason
-    bio: >-
-      Cosmetic/Medical Board Certified Derm Be kind!!! @askdrjason NJ
-    location: "United States"
-    followers: 72300
-    engagement: 564
-    commentsToLikes: 0.050149
-    id: ckcdtc8c8dtcz0j23cjgc6877
-    verified: false
-    hashtags: "#skin, #duet, #dermatology, #nyc"
+    hashtags: "#stryx, #stitch, #makeup, #shavetok"
 ---

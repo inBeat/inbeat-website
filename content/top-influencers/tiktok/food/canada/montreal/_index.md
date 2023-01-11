@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Montreal in 2023
+title: Top 10 Food TikTok Influencers In Montreal In 2023
 description: >-
-  Find top food TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #food #quebec.
+  Find top food TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #food #montreal #quebec.
 platform: TikTok
-hits: 26
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 26 TikTok influencers like this in Montreal, Canada for you to pitch.
+hits: 28
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 28 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "yannkd0"
+  - username: "gen_laforce"
     fullname: >-
-      🔴🟠🟡🟢🔵🟣
+      Geneviève✨
     bio: >-
-      🇨🇦#jacmelien🇭🇹 Follow me 10k🙏👇🏾 IG @Yann_model_03 Snap:👻xolove93👻 FB:Ya
+      🏳️‍🌈lil french femme girl 🌙 insta: gen_laforce 💌genevieve@dulcedo.com 📍mtl
     location: "Canada"
-    followers: 3094
-    engagement: 398
-    commentsToLikes: 0.037396
-    id: ckbeu5j0ldfug0j2314m2cjlq
+    followers: 239300
+    engagement: 1807
+    commentsToLikes: 0.012994
+    id: ck9fi3qc88vsn0j7857j3ybgk
     verified: false
-    hashtags: "#savage, #fyp, #quarantine, #foryoupage"
+    hashtags: "#foryoupage, #airpodsjump, #lgbt, #lgbtq"
+  - username: "evemartel_alimentation"
+    fullname: >-
+      Eve Martel
+    bio: >-
+      Journées dans mon assiette, resto, et épicerie J'te garde la 1ière bouchée 😋
+    location: "Canada"
+    followers: 55200
+    engagement: 619
+    commentsToLikes: 0.053256
+    id: ck9ae5yj90fhd0j78bsb0beds
+    verified: false
+    hashtags: "#canadiancreators, #whatieatinaday, #tiktokmontreal, #magiefondvert"
+  - username: "gongshowgear"
+    fullname: >-
+      GONGSHOW HOCKEY
+    bio: >-
+      The Original Lifestyle Hockey Apparel Brand Tag #GONGSHOW 🛒 GONGSHOW.COM👇
+    location: "Canada"
+    followers: 12400
+    engagement: 1264
+    commentsToLikes: 0.021906
+    id: ck9tu9q2lkgs40j78b6xwzag1
+    verified: false
+    hashtags: "#hockeyplayer, #gongshow, #hockeytiktoks, #hockeyplayers"
+  - username: "iamstevedaniels"
+    fullname: >-
+      Iamstevedaniel
+    bio: >-
+      Montreal 🇭🇹
+    location: "Canada"
+    followers: 6047
+    engagement: 842
+    commentsToLikes: 0.056506
+    id: ck7zo5c14hxx10j78dpaxoczr
+    verified: false
+    hashtags: "#foodie, #fyp, #quarantine, #iphone"
   - username: "_annamarier"
     fullname: >-
       annamarier
     bio: >-
-      📍MONTREAL | 21 🇨🇦 WOMEN’S HEALTH COACH MY WEBSITE 🛒⬇️
+      📍MONTREAL |22🇨🇦 WELLNESS ADDICT ✉️ :contact@annamarier.com 🛒 MY OUTFITS👇🏼
     location: "Canada"
-    followers: 81100
-    engagement: 480
-    commentsToLikes: 0.032789
+    followers: 84600
+    engagement: 601
+    commentsToLikes: 0.093902
     id: ck90vwxt61pq80j78e3qosq12
     verified: false
-    hashtags: "#fit, #workout, #fitgirl, #babe"
-  - username: "stephfoodie"
-    fullname: >-
-      Stéph 🥭
-    bio: >-
-      Recettes santé & lifestyle 🥰🥑 Péninsule acadienne, NB 🇨🇦 IG Stephfoodie.1
-    location: "Canada"
-    followers: 33800
-    engagement: 1307
-    commentsToLikes: 0.007033
-    id: ckc808wjq1pbt0j23v7prqli3
-    verified: false
-    hashtags: "#nouveaubrunswick, #newbrunswick, #easyrecipes, #minivlog"
-  - username: "freshdailyca"
-    fullname: >-
-      Freshdaily
-    bio: >-
-      CEO of Canada 🇨🇦 Canada’s source for news, culture, food and travel
-    location: "Canada"
-    followers: 92100
-    engagement: 1684
-    commentsToLikes: 0.026666
-    id: ck9f9jj9z70kg0j78behujol9
-    verified: false
-    hashtags: "#sask, #foryoupage, #ontario, #canadalife"
-  - username: "papacharless"
-    fullname: >-
-      Papa
-    bio: >-
-      IG: @papacharless 🏀tiktok: @asap24hoops Montreal 🇨🇦 20😴
-    location: "Canada"
-    followers: 5341
-    engagement: 763
-    commentsToLikes: 0.060384
-    id: ckc7iyi4gqnqj0j23yzvat4zt
-    verified: false
-    hashtags: "#foryou, #babies, #fail, #eboy"
-  - username: "alyssafontainerd"
-    fullname: >-
-      Alyssa Fontaine RD
-    bio: >-
-      Registered Dietitian RD🤙🇨🇦 Plant-Based🌱 All Recipes ✍️ on IG Food Freedom✌️
-    location: "Canada"
-    followers: 62300
-    engagement: 841
-    commentsToLikes: 0.035584
-    id: ckdi7lrxy9l840j23yas7vbmy
-    verified: false
-    hashtags: "#easyvegan, #dietitiansoftiktok, #dietitian, #easyveganrecipe"
-  - username: "jayciedy"
-    fullname: >-
-      Jayciedy
-    bio: >-
-      Montréal📍🏳️‍🌈 Ig: Jayciedy J’me demande encore ce que je fais ici
-    location: "Canada"
-    followers: 5134
-    engagement: 881
-    commentsToLikes: 0.045675
-    id: ckcpgvzosh9wm0j23v8nfuiyg
-    verified: false
-    hashtags: "#pov, #xyzbca, #lgbt, #gay"
+    hashtags: "#fyp, #outfit, #matchalatte, #outfitinspiration"
   - username: "benwillingdorf"
     fullname: >-
       Ben Willingdorf
     bio: >-
       I like to make projects! Montreal, Canada 🇨🇦 IG: @BenWillingdorf
     location: "Canada"
-    followers: 544300
-    engagement: 1842
-    commentsToLikes: 0.006019
+    followers: 543200
+    engagement: 1844
+    commentsToLikes: 0.007328
     id: ck806yq03n5cn0j78y08sgrc9
     verified: false
-    hashtags: "#fyp, #food, #howto, #foodhacks"
+    hashtags: "#art, #youtuber, #food, #easter"
   - username: "_pifou"
     fullname: >-
       Alexis Pifou
     bio: >-
       French Photographer & Filmmaker 🇫🇷 📍Montréal, Canada 🇨🇦 INSTA: @_pifou
     location: "Canada"
-    followers: 96700
-    engagement: 678
-    commentsToLikes: 0.012081
+    followers: 95200
+    engagement: 779
+    commentsToLikes: 0.018220
     id: ck83z40iyxiok0j787a6cc0w8
     verified: false
-    hashtags: "#fyp, #vietnam, #drone, #explore"
-  - username: "joey_hornyak"
+    hashtags: "#vietnam, #quebec, #tiktokfrance, #canada"
+  - username: "taylinboisvertt"
     fullname: >-
-      Joey Hornyak
+      Taylin Boisvert
     bio: >-
-      MONTREAL, 🇨🇦 IG: @J_HORNYAK ATHLETE @doyouevenofficial 15+ Million Views 👀🎥
+      instagram: taylinboisvert | i’m 21 | montréal, canada, collaboration ✨👇🏽
     location: "Canada"
-    followers: 146700
-    engagement: 745
-    commentsToLikes: 0.006348
-    id: ck8qh5j843ow30j781kgp93vo
+    followers: 56200
+    engagement: 944
+    commentsToLikes: 0.009534
+    id: ck90ykxu1apwu0j78viump7k7
     verified: false
-    hashtags: "#burnfat, #sixpackabs, #training, #workout"
+    hashtags: "#qc, #unboxing, #quebec, #rip"
+  - username: "jayciedy"
+    fullname: >-
+      Jessiedit
+    bio: >-
+      Montréal📍🏳️‍🌈 Ig: Jayciedy Rien de ben ben sérieux
+    location: "Canada"
+    followers: 6912
+    engagement: 693
+    commentsToLikes: 0.039725
+    id: ckcpgvzosh9wm0j23v8nfuiyg
+    verified: false
+    hashtags: "#xyzbca, #trend, #lesbiantiktok, #foryoupage"
+  - username: "kennylamoureux"
+    fullname: >-
+      Kenny Lamoureux
+    bio: >-
+      abonne-toi et je vais m'abonner et like follow me and ill follow you and like
+    location: "Canada"
+    followers: 3638
+    engagement: 1568
+    commentsToLikes: 0.076868
+    id: cka686gwinmej0i783dd1fds9
+    verified: false
+    hashtags: "#funny, #duo, #fouryourepage, #nohair"
 ---

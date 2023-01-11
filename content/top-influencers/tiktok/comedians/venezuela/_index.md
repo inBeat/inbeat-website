@@ -1,84 +1,48 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Venezuela in 2023
+title: Top 10 Comedians TikTok Influencers In Venezuela In 2023
 description: >-
-  Find top comedians TikTok influencers in Venezuela in 2023. Most popular hashtags: #parati #comedia #fyp #foryou.
+  Find top comedians TikTok influencers in Venezuela in 2023. Most popular hashtags: #parati #fyp #comedia #venezuela.
 platform: TikTok
-hits: 71
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 71 TikTok influencers like this in Venezuela for you to contact.
+hits: 55
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 55 TikTok influencers like this in Venezuela for you to pitch.
 profiles:
-  - username: "samtiniacos"
-    fullname: >-
-      Sαɱ Tιɳιαƈσʂ🐺
-    bio: >-
-      De todo un poco⚡ Mí único objetivo es hacerte reír♥️‼️
-    location: "Venezuela"
-    followers: 3729
-    engagement: 800
-    commentsToLikes: 0.125625
-    id: ckb9b3vukwq560j23fluhj0x8
-    verified: false
-    hashtags: "#venezuela, #comedia, #humor, #maracay"
-  - username: "elder_simoes22"
-    fullname: >-
-      Elder
-    bio: >-
-      Síganme en Instagram: 🔥 15k? ‼️‼️
-    location: "Venezuela"
-    followers: 13873
-    engagement: 1206
-    commentsToLikes: 0.019352
-    id: ckb0f5hji7duo0j23bla9g8uc
-    verified: false
-    hashtags: "#comedia, #correportuvida, #viral, #simpsons"
   - username: "lorepereda7"
     fullname: >-
-      💙L💚
+      MortyMOON🌙
     bio: >-
-      🇻🇪 ⚠️Contest +18⚠️ Occosplay / Maquillaje / Fantasía / Gothic / Comedia
+      🇻🇪 ⚠️Contest +18⚠️ 🚫SpamLike=Block ✨ 20K! ✨ Occosplay / Comedia / Cosplay /
     location: "Venezuela"
-    followers: 12800
-    engagement: 2255
-    commentsToLikes: 0.052939
+    followers: 20400
+    engagement: 1968
+    commentsToLikes: 0.060961
     id: ckbffupahasy50j23ffx96j7r
     verified: false
-    hashtags: "#challenge, #laordendelterror, #timburton, #tiktoklatino"
+    hashtags: "#fyp, #madison, #wolf, #foryou"
   - username: "kheniavtb03"
     fullname: >-
       Khenia Tavera
     bio: >-
       Con mi toque de locura Amante de la actuación y comedia♡ INSTA: @kheniavtb
     location: "Venezuela"
-    followers: 17200
-    engagement: 1538
-    commentsToLikes: 0.027406
+    followers: 17500
+    engagement: 1395
+    commentsToLikes: 0.034569
     id: ckc8xqv8wlw1i0j23aovgvb0m
     verified: false
-    hashtags: "#humor, #foryou, #fyp, #foryoupage"
-  - username: "elmochito_"
+    hashtags: "#foryou, #parati, #fyp, #foryoupage"
+  - username: "ariasmoro10"
     fullname: >-
-      El mochito
+      🌟Andrea Arias Moro🌟
     bio: >-
-      Cuenta principal de comedia esta . Cuenta secundaria de juegos @mocho_clips
+      Comunicadora Social. Comedia, Cocina, Beagles 🐶, Salud, Siembra y Belleza
     location: "Venezuela"
-    followers: 19751
-    engagement: 767
-    commentsToLikes: 0.009141
-    id: ck9k93i2hblwr0j78gvk16q0y
+    followers: 103900
+    engagement: 346
+    commentsToLikes: 0.062342
+    id: ckc36suq2vowr0j23eu09n15m
     verified: false
-    hashtags: "#xyzbca, #foryoupage, #fy, #venezuela"
-  - username: "anavallee"
-    fullname: >-
-      Ana Vallee
-    bio: >-
-      Venezolana🇻🇪 800k?🔥 Instagram: @anavallee Youtube: Ana Vallee +27k subs😍 ⬇
-    location: "Venezuela"
-    followers: 777700
-    engagement: 2417
-    commentsToLikes: 0.020336
-    id: ckc7der9imvj90j232vsxdbf2
-    verified: false
-    hashtags: "#comedia, #casosmisteriosos, #amongus, #terror"
+    hashtags: "#pegar, #parati, #arauz, #ecuador"
   - username: "ej.rblx"
     fullname: >-
       𓃰𓃰roblox𓃰𓃰
@@ -90,41 +54,77 @@ profiles:
     commentsToLikes: 0.165679
     id: ckck65n8qrae70j23ycsc68b4
     verified: false
-    hashtags: "#foryoupage, #fyp, #greenscreen, #voiceeffects"
-  - username: "karigoz"
+    hashtags: "#foryoupage, #destacame, #inverted, #voiceeffects"
+  - username: "baddest_bi"
     fullname: >-
-      Karina🦋
+      Ori🌈
     bio: >-
-      Vҽɳҽȥσʅαɳα🇻🇪Cυαɾҽɳƚσɳα🤩 Aƈυαɾιαɳα♒️Lα ʋιԃα ҽʂ υɳα💖
+      18 🌈🖤⛓🧚‍♀️✨💕⚔️ Sígueme en Ig: orianatoubia_ She/Her
     location: "Venezuela"
-    followers: 6105
-    engagement: 2843
-    commentsToLikes: 0.405662
-    id: ckb0i7gwf9nnk0j23qb6ymocw
+    followers: 50100
+    engagement: 1975
+    commentsToLikes: 0.023198
+    id: ckaci1tu61nn10i78b91to6pu
     verified: false
-    hashtags: "#karigoz, #comediahumor, #enfermxs, #parati"
-  - username: "elmeco1212"
+    hashtags: "#trend, #makeup, #lesbian, #comedia"
+  - username: "viregnavegas"
     fullname: >-
-      El Meco 
+      Viregna Vegas
     bio: >-
-      
+      🇻🇪Madre de Tres♥️
     location: "Venezuela"
-    followers: 10500
-    engagement: 1347
-    commentsToLikes: 0.108448
-    id: cka6i8w1nptmo0i781qeotn23
+    followers: 9999
+    engagement: 1740
+    commentsToLikes: 0.097798
+    id: ckbaecbmk6kht0j23mretzakf
     verified: false
-    hashtags: "#comedia, #sigueme, #elmeco1212, #te"
+    hashtags: "#coffee, #jajajaja, #venezuela, #comedia"
   - username: "husky.bae"
     fullname: >-
       Husky bae
     bio: >-
-      Sígueme en mis redes sociales para más contenido🤩
+      Vive y deja vivir🪐✨ IG: husky.ce
     location: "Venezuela"
-    followers: 111000
-    engagement: 2270
-    commentsToLikes: 0.032694
+    followers: 127500
+    engagement: 1896
+    commentsToLikes: 0.028570
     id: cka0yvjglcvuv0i783mfzzgv6
     verified: false
-    hashtags: "#parati, #comediaenespa, #venezuela, #rap"
+    hashtags: "#comediaenespa, #fyp, #mexico, #parati"
+  - username: "allbriel_"
+    fullname: >-
+      A ʟ ʟ ʙ ʀ ɪ ᴇ ʟ
+    bio: >-
+      💥Hombre Shadow ban 💥 CEO del "xd" Soy simple 🧃Critico todo lo que se mueva🧃
+    location: "Venezuela"
+    followers: 4847
+    engagement: 1863
+    commentsToLikes: 0.064244
+    id: ckdcl9ir0nfex0j23hiybznkz
+    verified: false
+    hashtags: "#fyp, #comedia, #feminismo, #humor"
+  - username: "lionmdina"
+    fullname: >-
+      LioN M'dina⚡️
+    bio: >-
+      📍V E N E Z U E L A🇻🇪 ig: @lionmdina Deja de stalkearme y sígueme ;) 🏁50k?🏁
+    location: "Venezuela"
+    followers: 58000
+    engagement: 1767
+    commentsToLikes: 0.043420
+    id: ckdte495svlaq0j23p1ljii3z
+    verified: false
+    hashtags: "#venezuela, #foryou, #fyp, #comedia"
+  - username: "leniart"
+    fullname: >-
+      Leniart
+    bio: >-
+      "La risa es el alimento del alma". 🇻🇪🇻🇪🇻🇪 ig: @soyleniart
+    location: "Venezuela"
+    followers: 29400
+    engagement: 1438
+    commentsToLikes: 0.025780
+    id: ckce5gqynk2aq0j237mqbft8c
+    verified: false
+    hashtags: "#parati, #venezuela, #humor, #risa"
 ---

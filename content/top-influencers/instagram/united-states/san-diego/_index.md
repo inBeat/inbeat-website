@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In San Diego in 2023
+title: Top 10 Instagram Influencers In San Diego In 2023
 description: >-
-  Find top Instagram influencers in San Diego in 2023. Most popular hashtags: #ad #thecassaraexperience #visitcarlsbad.
+  Find top Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiegoblogger #sponsored #homedecor.
 platform: Instagram
-hits: 2063
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 2063 Instagram influencers like this in San Diego, United States for you to contact.
+hits: 2059
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 2059 Instagram influencers like this in San Diego, United States for you to contact.
 profiles:
-  - username: "_esilanna"
+  - username: "tingmystyle"
     fullname: >-
-      Annalise ♡
+      Ting Ma
     bio: >-
-      🇻🇳 just a kinder teacher trying my best 🍎 M.A. ED. x San Francisco 💌 collabwithannalise@gmail.com 🍒 esilanna is annalise backwards 📍 San Diego
+      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
     location: "United States"
-    followers: 6646
-    engagement: 2114
-    commentsToLikes: 0.108790
-    id: ckap29iu5xyzz0i78d481j9to
+    followers: 137144
+    engagement: 613
+    commentsToLikes: 0.084561
+    id: ck0w49r7mxhxq0i198zn6sfa8
     verified: false
-    hashtags: "#twodegreeshotter, #stayhome, #90sexperience, #brilliantearth"
-  - username: "aashleykramer"
+    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
+  - username: "emiliavictoria01"
     fullname: >-
-      ASHZIZ 🐆🌟🥥🔆🧚🏻‍♂️
+      Emilia-Content Creator- Photographer 📸
     bio: >-
-      san diego, ca ✰ sdsu cheer
+      Home Decor🤍Travel 🤍Motherhood🤍 Lifestyle🤍📍San Diego, CA . For partnership DM or email Kesiagalianycollabs@gmail.com
     location: "United States"
-    followers: 2206
-    engagement: 2860
-    commentsToLikes: 0.138007
-    id: ck9wdbtgqey2d0j78a5e6bc8i
+    followers: 14073
+    engagement: 422
+    commentsToLikes: 0.047490
+    id: cl7i0lqtftqzj0i23ulxjbv25
     verified: false
-    hashtags: "#sdsu24, #blackouttuesday"
-  - username: "bbellawoodruff"
+    hashtags: "#homedecor, #ad, #contentcreator, #decorideas"
+  - username: "xocarlarenee"
     fullname: >-
-      B ♡
+      Carla Snuggs ❤
     bio: >-
-      san diego 🕊 chico state dance team
+      📍San Diego Lifestyle Blogger ❤ Food & Wine | Travel | Lifestyle Inquiries: carla@poshbeautyblog.com Coffee Addict loving life come what may.
     location: "United States"
-    followers: 2399
-    engagement: 2521
-    commentsToLikes: 0.153383
-    id: ck9wdhnkafo9d0j78komlcwev
+    followers: 20838
+    engagement: 250
+    commentsToLikes: 0.014403
+    id: ck8swq5mdeuqd0j782s6w9kas
     verified: false
-    hashtags: "#rolldons"
-  - username: "brawadis"
+    hashtags: "#ad, #manukahoneyhack, #worldofpinotnoir, #1000milesofpinot"
+  - username: "seanii"
     fullname: >-
-      Brandon Awadis
+      Sean Arca | fashion inspo
     bio: >-
-      🙏🏼 Blessed 🏀 Ball is life ☀️ San Diego 💜 5 million YouTube subs ⤵️
+      filipino 🇵🇭 l📍san diego, california #fashion • #lifestyle • #travel dream as if you'll live forever. live as if you'll die today.
     location: "United States"
-    followers: 1857181
-    engagement: 1428
-    commentsToLikes: 0.022409
-    id: ck1359wau0foe0i190nt67uv1
+    followers: 20821
+    engagement: 190
+    commentsToLikes: 0.087625
+    id: ckzygfiey4bun0i23mkv3rahv
+    verified: false
+    hashtags: "#streetstyle, #mensoutfit, #mydailystreet, #streetfashion"
+  - username: "palmtreesandpellegrino"
+    fullname: >-
+      Giulia 🌴 San Diego | Travel & Style Blogger
+    bio: >-
+      ☀️Your Destination for hidden gems, trendy finds & everyday outfits 🏡 #SanDiego | 🇮🇹🇺🇸 |💍 2023 Bride 💌 mgmt@palmtreesandpellegrino.com
+    location: "United States"
+    followers: 70726
+    engagement: 176
+    commentsToLikes: 0.042077
+    id: ck1391fd6j2010i19sa7qxj0c
+    verified: false
+    hashtags: "#sandiegoeats, #sandiegofoodies, #downtownsandiego, #sandiegoblogger"
+  - username: "madewithhappy"
+    fullname: >-
+      Alli | Made With HAPPY
+    bio: >-
+      🌈 Colorful HAPPY DIY Inspired Family thru ✂️ Making @madewithhappy_crafts 🎉 Entertaining ✈️ Travel San Diego #madewithhappy alli@madewithhappy.com
+    location: "United States"
+    followers: 10098
+    engagement: 62
+    commentsToLikes: 0.066021
+    id: cktkw129wcqvm0j23lcvjn7mc
+    verified: false
+    hashtags: "#madewithhappybirthday, #mwhgirl, #madewithhappy, #madewithhappysummer"
+  - username: "personalfinanceclub"
+    fullname: >-
+      Jeremy Schneider
+    bio: >-
+      😄 Retired at 36‎ 💰 Transparent millionaire 💵 Daily money and investing tips‎ 🌴 San Diego, CA
+    location: "United States"
+    followers: 445033
+    engagement: 146
+    commentsToLikes: 0.048449
+    id: ck1343zgrul5d0i192b5kttp4
+    verified: false
+    hashtags: "#investingtips, #investing, #stockmarket, #indexfunds"
+  - username: "nikkiblackketter"
+    fullname: >-
+      Nikki Blackketter
+    bio: >-
+      🎥 <nikkiblackketter> on YouTube, TT, & Twitch! 🍑 Alani Nu 🌻@unfilterednikkib 🎮 @nikkibplays 📍 San Diego
+    location: "United States"
+    followers: 1605069
+    engagement: 41
+    commentsToLikes: 8.270889
+    id: ck0tsrx900c5w0i19sbd2my8b
     verified: true
-    hashtags: "#25"
-  - username: "meganmarieee_"
+    hashtags: "#tb, #legday, #homedecor, #gymshark"
+  - username: "smexaminer"
     fullname: >-
-      Megan Allen
+      Social Media Examiner
     bio: >-
-      MY ONLY ACCOUNT @boutinela babe✖️ Fitness Addict 💪🏽 San Diego, CA📍 co-founder @mxkathletic 🤩✨
+      🌴 Discover the Best Social Media Marketing Strategies From the World’s Top Experts | #SMMW23 | Mar 13-15 | San Diego, CA 🌴 Follow our CEO @stelzner
     location: "United States"
-    followers: 229327
-    engagement: 682
-    commentsToLikes: 0.031380
-    id: ck0vzwf11b7vi0i198mm3vcxc
+    followers: 141344
+    engagement: 6
+    commentsToLikes: 0.057477
+    id: cl4f68iuhpms80i23zf7hiqmo
     verified: false
-    hashtags: "#happyhalloween, #itsbritneybitch"
-  - username: "bekah.valdez"
+    hashtags: "#socialmediaexaminer, #web3bizpodcast, #instagrammarketing, #youtubemarketing"
+  - username: "hanwestby"
     fullname: >-
-      Rebekah Valdez
+      Hannah Westby
     bio: >-
-      university of san diego soccer
+      ￼Mom to Mabel 👶🏻 Wife to Skyler 👩🏼‍🤝‍👨🏻 Slow minimal living in our Cottage in the ￼Country￼￼🏡￼ 📍San Diego HannahWestby@gmail.com
     location: "United States"
-    followers: 2162
-    engagement: 3159
-    commentsToLikes: 0.099299
-    id: ckap29d4mxya20i7831tgnn3u
+    followers: 54474
+    engagement: 664
+    commentsToLikes: 0.017417
+    id: ck135l57i1y7t0i19muvpwj2g
     verified: false
-    hashtags: "#blackouttuesday, #almostbirthdaytwin"
-  - username: "alex.floyd"
-    fullname: >-
-      Alexandra | Lifestyle & Travel
-    bio: >-
-      📍San Diego ✈️ Maui ❥ Travel+Fashion ❥ #AlexFloydTravels #alexfloydcloset #travelcouple @jesse_j_ibarra 💌 Alex.floydinstagram@gmail.com
-    location: "United States"
-    followers: 10719
-    engagement: 1053
-    commentsToLikes: 0.081537
-    id: ck0u1c9mbwj5l0i19vr1totwb
-    verified: false
-    hashtags: "#alexfloydtravels, #shopimpressions, #holidayatimpressions, #alexfloydcloset"
-  - username: "erica_shawty"
-    fullname: >-
-      erica shutty
-    bio: >-
-      Food ﹒Travel ﹒Fashion ﹒Beauty San Diego, CA﹒ Fohr Verified shawtyerica@gmail.com
-    location: "United States"
-    followers: 15236
-    engagement: 841
-    commentsToLikes: 0.128748
-    id: ck9hc8fb1k89h0j78pvrujhbh
-    verified: false
-    hashtags: "#ad, #thecassaraexperience, #visitcarlsbad, #nerdscandyatkroger"
-  - username: "hunterrittgers"
-    fullname: >-
-      Hunter Rittgers
-    bio: >-
-      📍San Diego, CA Fitness | Food | Real Estate New Venture Escrow Clemson University Soccer Alumni
-    location: "United States"
-    followers: 19632
-    engagement: 723
-    commentsToLikes: 0.064446
-    id: ck6u6jyjcg0yr0j71aj3af11a
-    verified: false
-    hashtags: "#dare2venture, #itshappening, #happilyeverafter, #newventureescrow"
-  - username: "lyndsay.sutherland"
-    fullname: >-
-      ♡L Y N D S A Y♡
-    bio: >-
-      👸🏼 san diego, california🌴☀️ psychology student🧠📚 workin on me, for me 🏋🏼‍♀️💪🏼
-    location: "United States"
-    followers: 4192
-    engagement: 2210
-    commentsToLikes: 0.103279
-    id: ckap2gd3gyphf0i780trfcrnk
-    verified: false
-    hashtags: "#19"
+    hashtags: "#mydearfoams, #dearfoams, #dfpartner, #ad"
 ---

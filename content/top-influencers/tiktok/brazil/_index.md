@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Brazil in 2023
+title: Top 10 TikTok Influencers In Brazil In 2023
 description: >-
-  Find top TikTok influencers in Brazil in 2023. Most popular hashtags: #dueto #foryou #fyp.
+  Find top TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
-hits: 7207
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 7207 TikTok influencers like this in Brazil for you to contact.
+hits: 7346
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat has 7346 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "marcosmonteirr"
     fullname: >-
@@ -13,120 +13,120 @@ profiles:
     bio: >-
       neste perfil eu me auto saboto
     location: "Brazil"
-    followers: 10300
-    engagement: 1431
-    commentsToLikes: 0.060358
+    followers: 11100
+    engagement: 1383
+    commentsToLikes: 0.072968
     id: ckd0pt9ddhvdh0j23u57symuk
     verified: false
-    hashtags: "#fyp, #foryou, #com, #humor"
+    hashtags: "#viral, #foryou, #foryoupage, #humor"
   - username: "itabunacorreria"
     fullname: >-
       Itabuna
     bio: >-
       Isaías 39 anos salvador Bahia Brasil isaiaslemosisa@gmail.com, 🦈🆁🅾🆃🅰 🅳🅾🆂
     location: "Brazil"
-    followers: 6138
-    engagement: 3508
-    commentsToLikes: 0.450216
+    followers: 5986
+    engagement: 3365
+    commentsToLikes: 0.449629
     id: ckb0qp7aqgdzx0j23t18hk77m
     verified: false
     hashtags: ""
+  - username: "._.noah._.my._.life"
+    fullname: >-
+      ._.noah._.my._.life
+    bio: >-
+      eu faria tudo por um
+    location: "Brazil"
+    followers: 4326
+    engagement: 2607
+    commentsToLikes: 0.075769
+    id: ckbfdwbbg7hky0j237niu3fly
+    verified: false
+    hashtags: "#durantemeutempoemcasa, #tiktok, #fyp, #foryoupage"
+  - username: "fabifonsecaff"
+    fullname: >-
+      Fabi Fonseca
+    bio: >-
+      mãe da @luara
+    location: "Brazil"
+    followers: 443400
+    engagement: 2489
+    commentsToLikes: 0.024606
+    id: ck8p0etajgel10j780f5z4u74
+    verified: false
+    hashtags: "#neverfitin"
+  - username: "soundslikemari"
+    fullname: >-
+      mari 🏅
+    bio: >-
+      Vote SIM no link abaixo pra eu entrar na @nicehousebr
+    location: "Brazil"
+    followers: 366200
+    engagement: 2199
+    commentsToLikes: 0.059798
+    id: ck9nqfyzn3itx0j78xy36m4xt
+    verified: false
+    hashtags: "#olimpinados, #fyp, #paravoce, #foryou"
   - username: "otaviogeraldo"
     fullname: >-
       Otavio Geraldo
     bio: >-
       • Me segue no insta ^ • SP - 14yo 🇧🇷/🇮🇹
     location: "Brazil"
-    followers: 3356
-    engagement: 3162
-    commentsToLikes: 0.140847
+    followers: 3547
+    engagement: 2182
+    commentsToLikes: 0.070773
     id: ck9nqnscr4mzh0j78k7n0cd8m
     verified: false
-    hashtags: "#fuuny, #fypage, #paravoce, #funny"
-  - username: "ferskys"
+    hashtags: ""
+  - username: "eunh02"
     fullname: >-
-      fer do grau
+      Grace Kim
     bio: >-
-      (ele/dele) stupid, ugly and dumb 17yo ig: ferforeal
+      🇺🇸🇧🇷🇰🇷 Insta: eun_h02 YouTube: EunH 💌haeungrace2@gmail.com
     location: "Brazil"
-    followers: 76900
-    engagement: 2705
-    commentsToLikes: 0.043924
-    id: ck9eqv7fryxxo0j78ruiqpab3
+    followers: 1100000
+    engagement: 2027
+    commentsToLikes: 0.030876
+    id: cka0q5yjubdq10i78z3og42z1
     verified: false
-    hashtags: "#dueto, #pov, #duet"
+    hashtags: "#foryoupage, #fyp, #foryou, #kpop"
+  - username: "esdrascomedy"
+    fullname: >-
+      Esdras Comedy
+    bio: >-
+      Rumo a 3M 💼: edsaturninocontato@gmail.com 👇🏿Link pro meu canal na Twitch👇🏿
+    location: "Brazil"
+    followers: 2200000
+    engagement: 1955
+    commentsToLikes: 0.021310
+    id: ck9gtc4efm4sf0j781odk9zye
+    verified: true
+    hashtags: "#com, #onepiece, #publi, #manh"
   - username: "brendodrawings"
     fullname: >-
       Brendo Dias
     bio: >-
-      CEO em desenhos BSB🏳️‍🌈 Contato: breendodias@gmail.com YouTube ⤵️
+      CEO em desenhos Contato: breendodias@gmail.com BSB🏳️‍🌈 IG ⤵️
     location: "Brazil"
-    followers: 126900
-    engagement: 2493
-    commentsToLikes: 0.041255
+    followers: 174500
+    engagement: 1890
+    commentsToLikes: 0.057814
     id: ck9ng9dp5f19a0j78ltejm9sy
     verified: false
-    hashtags: "#icantstopme, #desenho, #dueto, #nowunited"
-  - username: "pedrobennington"
+    hashtags: "#desenhodigital, #desenho, #anime, #disney"
+  - username: "regyannesouza1"
     fullname: >-
-      Pedro Bennington
+      Regyanne Souza
     bio: >-
-      🇨🇦 Influencer Social Media 🇧🇷 . ME SIGAM NO INSTAGRAM 😍 : Pedro_Bennyn
+      YouTube +769k "Regyanne Souza" Facebook +612k ❤️ Instagram 52k @Regyannesouzaaaa
     location: "Brazil"
-    followers: 262000
-    engagement: 2491
-    commentsToLikes: 0.055967
-    id: ck9gtbj58lz920j78brvdw3ff
+    followers: 4286
+    engagement: 1844
+    commentsToLikes: 0.070226
+    id: ckcptk5n1ob4j0j23sdjwbwb6
     verified: false
-    hashtags: "#foryou, #fy, #likethatchallenge, #fashionweekemcasa"
-  - username: "hmagal"
-    fullname: >-
-      Henrique
-    bio: >-
-      Comédia e música🎭 Postei e saí correndo Publis: anticomediante@gmail.com insta:
-    location: "Brazil"
-    followers: 345900
-    engagement: 2472
-    commentsToLikes: 0.030956
-    id: ckb9r7c42nj9v0j23dk6dzoye
-    verified: false
-    hashtags: "#gift, #vocesabia, #salvearmonca, #comedia"
-  - username: "lhommestatue"
-    fullname: >-
-      Loïc Koutana
-    bio: >-
-      INSTA+ YOUTUBE: @lhommestatue lhommestatue@gmail.com 👨🏿‍🎨💓 FR🇫🇷 BR🇧🇷
-    location: "Brazil"
-    followers: 836300
-    engagement: 2454
-    commentsToLikes: 0.022412
-    id: ck9a652m01q9m0j782e9lodd0
-    verified: true
-    hashtags: "#orisha, #frances, #brasil, #praia"
-  - username: "coutinhonc"
-    fullname: >-
-      Nicholas Coutinho
-    bio: >-
-      18yo 🇧🇷 twitter: @ttdocouto🐥
-    location: "Brazil"
-    followers: 1300000
-    engagement: 2394
-    commentsToLikes: 0.026960
-    id: ckc8zds76obgb0j23tvq2lidm
-    verified: false
-    hashtags: "#dueto, #linhacongelante"
-  - username: "vick.ama"
-    fullname: >-
-      gotica.rabud4
-    bio: >-
-      vcs são tudo pra mim!🖤 rp📍 não faço conteúdo pra criança🔞
-    location: "Brazil"
-    followers: 252400
-    engagement: 2349
-    commentsToLikes: 0.045088
-    id: ck8sf140om96k0j78poe4dmdo
-    verified: false
-    hashtags: "#fy, #foryou, #fyp, #theumbrellaacademy"
+    hashtags: "#regyanne, #amo, #feliz, #like"
 cities:
   - name: Rio de Janeiro
     link: /tiktok/brazil/rio-de-janeiro

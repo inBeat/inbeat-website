@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chiang Mai in 2023
+title: Top 10 Travel TikTok Influencers In Chiang Mai In 2023
 description: >-
-  Find top travel TikTok influencers in Chiang Mai in 2023. Most popular hashtags: #travel #thailand #chiangmai.
+  Find top travel TikTok influencers in Chiang Mai in 2023. Most popular hashtags: #thailand #travel #chiangmai #fyp.
 platform: TikTok
 hits: 5
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 5 TikTok influencers like this in Chiang mai, Thailand for you to collaborate.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 5 TikTok influencers like this in Chiang mai, Thailand for you to contact.
 profiles:
-  - username: "chillpainai.com"
+  - username: "seelautravel"
     fullname: >-
-      Chillpainai
+      seelautravel
     bio: >-
-      Chillpainai.com เว็บไซต์ท่องเที่ยว คัดสรรเพื่อคนรักความชิล
+      Based in Bangkok / Full Time Traveler 🛩 IG: @seelautravel YT: Christopher Lau
     location: "Thailand"
-    followers: 151600
-    engagement: 777
-    commentsToLikes: 0.004797
-    id: ckbkx278lsxal0j23rbd8cxv0
+    followers: 13900
+    engagement: 470
+    commentsToLikes: 0.068001
+    id: ck8qncm2du17e0j786xa1vfzn
     verified: false
-    hashtags: "#nature, #thailandtravel, #thailandsea, #temple"
+    hashtags: "#luxury, #phuket, #tiktokthailand, #foryoupage"
   - username: "30428171873joey"
     fullname: >-
       JoeySeksan
     bio: >-
       
     location: "Thailand"
-    followers: 5270
-    engagement: 817
-    commentsToLikes: 0.026615
+    followers: 5238
+    engagement: 561
+    commentsToLikes: 0.024776
     id: ck8nbex6r9kqn0j78954reroa
     verified: false
-    hashtags: "#fyp, #travel, #thailand, #gardenbytheponds"
-  - username: "bmkrnn."
+    hashtags: "#gardenbytheponds, #travel, #fyp, #thailand"
+  - username: "patty_u98"
     fullname: >-
-      Bmkrnn
+      Travel with Patty ❤️
     bio: >-
-      IG : bmkrnn Youtube : This is Mild
+      ขอบคุณสำหรับ❤️และติดตามนะคะ Thank you for like and follow ❤️ IG: pp_patchara98
     location: "Thailand"
-    followers: 91800
-    engagement: 387
-    commentsToLikes: 0.006153
-    id: ckcdp9rsubo0e0j23bdd0o409
+    followers: 46900
+    engagement: 706
+    commentsToLikes: 0.009115
+    id: ckb9bz8fkyg4y0j238wy879k2
     verified: false
-    hashtags: "#travel, #apple, #thaiairways, #singapore"
+    hashtags: "#tiktoktravel, #switzerland, #chiangmai, #thailand"
   - username: "sara_anusara"
     fullname: >-
       SRA
     bio: >-
       ขอบคุณที่ติดตาม ยินดีที่ได้เป็นเพื่อนกันค่ะ❤️Lifestyle ❤️Foodie❤️Travel❤️Workout
     location: "Thailand"
-    followers: 9811
-    engagement: 1568
-    commentsToLikes: 0.047515
+    followers: 10300
+    engagement: 1779
+    commentsToLikes: 0.031409
     id: ckbqfjsxf15t90j23g7qvzapw
     verified: false
-    hashtags: "#foryourpage, #tiktok, #amazingthailand, #amazing"
-  - username: "patty_u98"
+    hashtags: "#viral, #amazing, #tiktok, #fyp"
+  - username: "bmkrnn."
     fullname: >-
-      Travel with Patty ❤️
+      Bmkrnn
     bio: >-
-      ขอบคุณสำหรับ❤️และติดตามนะคะ Thank you for like and follow ❤️ Pls follow my IG
+      IG : bmkrnn Youtube : This is Mild
     location: "Thailand"
-    followers: 47700
-    engagement: 970
-    commentsToLikes: 0.009112
-    id: ckb9bz8fkyg4y0j238wy879k2
+    followers: 90300
+    engagement: 381
+    commentsToLikes: 0.006671
+    id: ckcdp9rsubo0e0j23bdd0o409
     verified: false
-    hashtags: "#switzerland, #chiangmai, #thailand, #tiktoktravel"
+    hashtags: "#thaiairways, #bangkok, #thailand, #foryou"
   - username: "trashbagtraveller"
     fullname: >-
       Liam🗑
     bio: >-
       👆🏻Instagram + YT 🤦‍♂️Over 30 club 🌍Travel Stuff 📍 🏴󠁧󠁢󠁥󠁮󠁧󠁿
     location: "Thailand"
-    followers: 70600
-    engagement: 1007
-    commentsToLikes: 0.119544
+    followers: 74200
+    engagement: 1058
+    commentsToLikes: 0.112083
     id: ckcjji694dels0j23anjynmdk
     verified: false
-    hashtags: "#travel, #traveltheworld, #travelindonesia, #travelasia"
+    hashtags: "#travelbucketlist, #travelindonesia, #travel, #bali"
   - username: "colombiantravel"
     fullname: >-
       COLOMBIANTRAVEL☑️
     bio: >-
       TRAVEL WORLD 🌍 FASHION PHOTOGRAPHY 🧿 World BASED LA 🇺🇸 From 🇨🇴 COLOMBIA✅
     location: "Thailand"
-    followers: 15100
-    engagement: 864
-    commentsToLikes: 0.029016
+    followers: 17800
+    engagement: 755
+    commentsToLikes: 0.059101
     id: ckbqdms9zzj550j23lwgd1jbb
     verified: false
-    hashtags: "#thailand2020, #worldtraveller, #worldwide, #bangkok"
-  - username: "buddy_1988"
+    hashtags: "#tiktoktraveling, #latinos, #colombian, #dubai"
+  - username: "teememongkol"
     fullname: >-
-      Buddy
+      Tee
     bio: >-
-      I Love Travel ♥️
+      สวัสดีครับ IG : teememongkol I love Travel in Thailand 🇹🇭
+    location: "Thailand"
+    followers: 6248
+    engagement: 742
+    commentsToLikes: 0.023417
+    id: ckbqfjqf815ej0j23qk3y60es
+    verified: false
+    hashtags: "#dayoff, #ilovethailand"
+  - username: "seelautravel"
+    fullname: >-
+      seelautravel
+    bio: >-
+      Based in Bangkok / Full Time Traveler 🛩 IG: @seelautravel YT: Christopher Lau
     location: "Thailand"
     followers: 13900
-    engagement: 401
-    commentsToLikes: 0.013604
-    id: ckbqfjj5r148l0j23rmuzjd48
+    engagement: 470
+    commentsToLikes: 0.068001
+    id: ck8qncm2du17e0j786xa1vfzn
     verified: false
-    hashtags: "#foryou, #gashapon, #osaka, #japan"
-  - username: "praew_wanassana"
+    hashtags: "#luxury, #phuket, #tiktokthailand, #foryoupage"
+  - username: "newzysan"
     fullname: >-
-      Praew
+      NewZy San
     bio: >-
-      🧜🏻travel ar🌎und the world ฉันรักการท่องเที่ยว IG praew_wanassana
+      #CorporateWoman 👩🏽💻l #Model 💃🏻l #FitGirl 🏋🏼 l #Traveller 🌎 10+countries
     location: "Thailand"
-    followers: 9415
-    engagement: 418
-    commentsToLikes: 0.012440
-    id: ckbwc7st60wxj0j237qoeizxn
+    followers: 14200
+    engagement: 847
+    commentsToLikes: 0.047130
+    id: ck9rlkun5yeso0j78qqablyr4
     verified: false
-    hashtags: "#phuket, #icsi, #inverness, #volendam"
-  - username: "nina_thai"
-    fullname: >-
-      Nina Fang🇹🇭❤️🇨🇳
-    bio: >-
-      I like travel
-    location: "Thailand"
-    followers: 14800
-    engagement: 639
-    commentsToLikes: 0.002366
-    id: ckbl39p460nkv0j23mhkqjx0n
-    verified: false
-    hashtags: ""
+    hashtags: "#fitgirl, #dress, #swimwear, #beachwear"
 ---

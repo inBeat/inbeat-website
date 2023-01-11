@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Montreal in 2023
+title: Top 10 Vegan Instagram Influencers In Montreal In 2023
 description: >-
-  Find top vegan Instagram influencers in Montreal in 2023. Most popular hashtags: #vegan #montreal #instafood #feedfeed.
+  Find top vegan Instagram influencers in Montreal in 2023. Most popular hashtags: #vegan #montreal #fitness #summer.
 platform: Instagram
-hits: 30
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database has 30 Instagram influencers like this in Montreal, Canada for you to work with.
+hits: 10
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "ehvegan"
+  - username: "saadia.ammad"
     fullname: >-
-      Vic and Chris
+      Saadia ~ Lifestyle, food, travel, inspiration
     bio: >-
-      ✌️ foodies & travelers ❤️ vegan for the animals 🌱 let's work together ↠ vicandchris@ehvegan.com 🔰 new on the blog:
+      Mom of two 👦🏻👧🏻, caffiene addict, struggling to adult and taking it one day at a time! Ottawa, Canada 🇨🇦🇵🇰 DM/Email for PR/Collabs
     location: "Canada"
-    followers: 39914
-    engagement: 166
-    commentsToLikes: 0.052379
-    id: ck0w2oggcpejw0i19gbu2hfsd
+    followers: 33519
+    engagement: 134
+    commentsToLikes: 0.222591
+    id: cksgajqe05y6t0j2354t46eqb
     verified: false
-    hashtags: "#feedfeed, #mtlvegan, #veganquebec, #veganbaking"
-  - username: "jellybeaneats"
+    hashtags: "#canadiangiveaway, #canadianpakistani, #canadiancreator, #613"
+  - username: "christopher_the_pig"
     fullname: >-
-      Jellybeaneats (Alex) 🇨🇦🇵🇹🇮🇹
+      
     bio: >-
-      🏡 Home Cook 🐟 Pescatarian 💚 Eat well to live well 💭Follow for meal inspiration/recipes 🍽 Montreal restaurants 📸 Sonny a6000 +iPhone XR
+      👍🏻شوف الاىىىـ/ـتوري وتفهم كل شي سبحانك ربي ان كنت من الضالمين @instagram @christopher_the_pig
     location: "Canada"
-    followers: 8749
-    engagement: 434
-    commentsToLikes: 0.284207
-    id: ck8tb7ei0uldr0j78xsmsmyc3
-    verified: false
-    hashtags: "#mtlblog, #plantbasedrecipe, #food52, #foodphotographer"
-  - username: "phcantin"
-    fullname: >-
-      PH Cantin
-    bio: >-
-      29 ans, Montréal 🌱 @sansfiltrepodcast @veganemaispasplate Podcast avec @leaclermontdion ⬇️ ph@kovalmarketing.com
-    location: "Canada"
-    followers: 118849
-    engagement: 141
-    commentsToLikes: 0.074159
-    id: ck6uidzr1ej5h0j71wflwbdur
+    followers: 103558
+    engagement: 273
+    commentsToLikes: 0.016314
+    id: ck135rz2d2xiy0i19q8sd5mum
     verified: true
-    hashtags: "#vmpp, #podcast, #sansfiltre, #balado"
-  - username: "fulltimefoooodie"
+    hashtags: "#fun, #instagood, #instagram, #funtimes"
+  - username: "ayats94"
     fullname: >-
-      Nath | Montreal Food Blogger
+      A Y A T | آيــات
     bio: >-
-      🍽Eat with me all over Montreal 📸Food Photographer⁣ ✨Content Creator 💌DM/email for collabs⁣/invites 😋Always hungry
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Environmental Scientist ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | 〽️ find me outside 〽️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | 25 countries ↟ 22 states ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Colorado . Alberta . بغداد⁣
     location: "Canada"
-    followers: 14997
-    engagement: 623
-    commentsToLikes: 0.497647
-    id: ck0u68j5b18vz0i19tdk9l14t
+    followers: 5374
+    engagement: 882
+    commentsToLikes: 0.136377
+    id: ck15qtiy64kid0i19rcvxn3dw
     verified: false
-    hashtags: "#mtlresto, #montrealer, #sweets, #mtlfoodblog"
-  - username: "sugaredcoconut"
-    fullname: >-
-      Steph ✻  Sugared Coconut
-    bio: >-
-      ✻ sharing allergy-friendly vegan recipes ✻ always gluten-free and nut-free ✻ 80% food | 20% sustainable + clean living ✻ based in Montreal go↧
-    location: "Canada"
-    followers: 34877
-    engagement: 135
-    commentsToLikes: 0.138223
-    id: ck0u0uxejuvmt0i19ys5qt2mt
-    verified: false
-    hashtags: "#grainfree, #nutfree, #glutenfree, #oilfree"
-  - username: "tamara.kb"
-    fullname: >-
-      Tamara Kristen Balazsovits
-    bio: >-
-      Owner - @urthbrand Content creator - @streetsoftoronto ⠀⠀⠀⠀ Model 📸✈🌏 🔹️Toronto - Sutherland 🔹️Miami - CGM 🔹️Montreal - Folio ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    location: "Canada"
-    followers: 42437
-    engagement: 247
-    commentsToLikes: 0.055447
-    id: ck139hfpslbg40i19m43xt0as
-    verified: false
-    hashtags: "#nothingnew, #supportlocal, #toronto, #toreats"
-  - username: "zakatuche"
-    fullname: >-
-      兎 EL CONEJO REY 🐇
-    bio: >-
-      Zacatuche. del náhuat "zacatl",zacate, y "tochtli", conejo. Especie única encontrada en México. Diseñador Web | Yoga | Geek | Pokémon Trainer | Vegan
-    location: "Canada"
-    followers: 17948
-    engagement: 549
-    commentsToLikes: 0.004846
-    id: ckap27w8dxrdv0i783phl10kl
-    verified: false
-    hashtags: "#geek, #travel, #rabbit, #foot"
-  - username: "lu.cha.biao"
-    fullname: >-
-      JADE 🇿🇦/🇨🇳
-    bio: >-
-      MGMT: • @foliosociety_ @foliomontreal 💌booking: marine@foliomontreal.com 📍Montreal DISCOUNT @yesstyle : LUCHA17
-    location: "Canada"
-    followers: 2646
-    engagement: 1287
-    commentsToLikes: 0.044354
-    id: ck5zpbr4psdkd0i14zqrnz4v1
-    verified: false
-    hashtags: "#style, #sunny, #like4follow, #fashion"
+    hashtags: "#outdoorbella, #wyominglife, #coloradohikes, #coloradoinstagram"
   - username: "sherbatov"
     fullname: >-
       Eliezer Sherbatov
     bio: >-
-      Professional Hockey Player - (Polska) 🇨🇦From Montreal 🇮🇱Born in Israël 🇷🇺Русский говорящий 🎹Pianist 🌱Vegan lover @sherbatovgym @sherbatovfit
+      Professional Hockey Player (Mariupol, UA) 🇨🇦From Montreal 🇮🇱Born in Israël 🇷🇺Русский говорящий 🎹Pianist 🌱Vegan lover @sherbatovgym @sherbatovfit
     location: "Canada"
-    followers: 28665
-    engagement: 408
-    commentsToLikes: 0.044338
+    followers: 26483
+    engagement: 342
+    commentsToLikes: 0.031349
     id: ck5cgfgqyoqgj0i113j7go62b
     verified: false
-    hashtags: "#covid19, #poland, #coronavirus, #ootd"
-  - username: "justgreen_904"
+    hashtags: "#jewish, #mma, #poland, #dad"
+  - username: "bylauragdiaz"
     fullname: >-
-      💚Justin Vachon💚
+      Laura - Conscious Lifestyle
     bio: >-
-      🌱Passion for plants,green living 🦋Animals and Nature 🎨Arts and Design 📸All pictures are my own (iPhone7) 👬@john.oue 🇨🇦 From Montreal, Quebec
+      📸 Visual storytelling for ethical, sustainable & vegan-friendly brands ⋗ product • fashion • lifestyle ♡ green beauty ☼ body positivity 📍 Montreal
     location: "Canada"
-    followers: 2356
-    engagement: 1294
-    commentsToLikes: 0.048188
-    id: ckaoydz6gh4360i78cq5w3gtc
+    followers: 2513
+    engagement: 1204
+    commentsToLikes: 0.244004
+    id: ck13bok3gwepl0i19265dty97
     verified: false
-    hashtags: "#plantcollection, #aroidsofinstagram, #plantdecor, #plants"
+    hashtags: "#travelandleisure, #mtlblogger, #travelinladies, #womenwhotravel"
+  - username: "alexduquettetattoos"
+    fullname: >-
+      Alex Duquette
+    bio: >-
+      Co Owner of @taketothegrave Alexduquettetattoos@gmail.com Email Only 🙏🏻 Vegan 🌱
+    location: "Canada"
+    followers: 29282
+    engagement: 233
+    commentsToLikes: 0.008374
+    id: ckapbk1qk065n0i784wzomky2
+    verified: false
+    hashtags: "#bluebloodcustomtattoos, #montrealtattoo, #skinarttraditional, #drawnontattoo"
+  - username: "fernandolandinofficial"
+    fullname: >-
+      Fernando Landin
+    bio: >-
+      #Photographer #Fotógrafo #Photographe 📸 DM me for Prints / Rates / Info 📩 Available Worldwide ✈
+    location: "Canada"
+    followers: 25784
+    engagement: 269
+    commentsToLikes: 0.038658
+    id: ck15pv3kzzrza0i19b2vdvlnu
+    verified: false
+    hashtags: "#blackandwhitepics, #blackandwhiteforever, #blackandwhiteportrait, #mycalvins"
+  - username: "rodneybowers"
+    fullname: >-
+      Rodney Bowers
+    bio: >-
+      Sometimes I’m Santa!
+    location: "Canada"
+    followers: 37428
+    engagement: 369
+    commentsToLikes: 0.048246
+    id: ck5bzokrark0i0i11j9mcne5y
+    verified: false
+    hashtags: "#malemodel, #braun, #daddy, #vegan"
+  - username: "thatecobitch"
+    fullname: >-
+      shelby 🌿
+    bio: >-
+      Low impact low waste 🌿 A modern day hippy on a mission to save mama earth 🌎 I make videos too! ↓↓↓↓↓
+    location: "Canada"
+    followers: 4798
+    engagement: 746
+    commentsToLikes: 0.093680
+    id: ckaowor119rvr0i784n94cejx
+    verified: false
+    hashtags: "#lowimpactmovement, #zerowastekitchen, #zerowaste, #zerowastejourney"
+  - username: "monikachxpra"
+    fullname: >-
+      monika chopra
+    bio: >-
+      featured on hypebae 🥐 🤍this is a sign to dress up for no reason 🥂british girl living in toronto 🕊style | travel | skincare | window shopper
+    location: "Canada"
+    followers: 21366
+    engagement: 328
+    commentsToLikes: 0.100626
+    id: ck6u7w08qnyuj0j71yvbzxmbu
+    verified: false
+    hashtags: "#canadianblogger, #summeroutfits, #ootdsubmit, #dazzlehaven"
 ---

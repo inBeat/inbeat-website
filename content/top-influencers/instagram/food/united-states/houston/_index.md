@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Houston in 2023
+title: Top 10 Food Instagram Influencers In Houston In 2023
 description: >-
-  Find top food Instagram influencers in Houston in 2023. Most popular hashtags: #houstonfood #houston #houstoneats.
+  Find top food Instagram influencers in Houston in 2023. Most popular hashtags: #houstonfood #sushi #dessert.
 platform: Instagram
-hits: 106
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 106 Instagram influencers like this in Houston, United States for you to collaborate.
+hits: 105
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 105 Instagram influencers like this in Houston, United States for you to collaborate.
 profiles:
   - username: "heyitshuyen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       LIFESTYLE | TRAVEL | FOOD houston • accountant 🍜 @onehungryasiangirl
     location: "United States"
-    followers: 3326
-    engagement: 2567
-    commentsToLikes: 0.278175
+    followers: 3863
+    engagement: 1482
+    commentsToLikes: 0.235152
     id: ck14grjti6o040i191rgmvsfu
     verified: false
-    hashtags: "#happyhalloween"
+    hashtags: "#kamalaharris, #femaleempowerment, #internationalwomensday, #masterpieceme"
+  - username: "hungerhouston"
+    fullname: >-
+      A Houston Foodstagram
+    bio: >-
+      Phone Food Houston and Beyond. #HoustonFood 📧HungerHouston@gmail.com
+    location: "United States"
+    followers: 26125
+    engagement: 81
+    commentsToLikes: 0.038957
+    id: ck136mr71799p0i19x6yn2ny1
+    verified: false
+    hashtags: "#foodstagram, #visithouston, #northside, #foodpics"
   - username: "hangryhoustonian"
     fullname: >-
-      Danielle | Houston Foodie ✨
+      Danielle Dubois | Houston ✨
     bio: >-
-      📍Houston Food + Lifestyle ⚜️Louisiana Roots | LSU🐯 📧Hangryhoustonian@gmail.com 🎙“I’m Sorry For What I Said When I Was Hangry” CBS RADIO 650 & Podcast
+      📍Houston Food + Lifestyle ✨ “Explore HOU with me!” 💌 Hangryhoustonian@gmail.com 🎙“I’m Sorry For What I Said When I Was Hangry” CBS RADIO 650 & Podcast
     location: "United States"
-    followers: 51851
-    engagement: 344
-    commentsToLikes: 0.414700
+    followers: 74045
+    engagement: 231
+    commentsToLikes: 0.197822
     id: ck0txaxzvijjr0i196ozzy6rb
     verified: false
-    hashtags: "#seltzerszn, #ad, #21, #hardseltzer"
-  - username: "ericeatshtx"
+    hashtags: "#heb, #ad, #sweetencovefilmfestival, #sweetencove"
+  - username: "thehungrypetite"
     fullname: >-
-      Eric
+      Houston Food+Travel NYC • Iris
     bio: >-
-      Houston Food Blogger 🤘🏽 DM for Inquiries/Promotions Seafood Addict 🦞🦀🦐 Main page: @6fteric
+      🍽 Houston food scene 👩🏻 I eat everything I post 🍣 On a quest to try every omakase in Houston 👶🏻 Mom of 2yo twins 💌 thehungrypetite@gmail.com
     location: "United States"
-    followers: 24836
-    engagement: 594
-    commentsToLikes: 0.023499
-    id: ck5zigr2ifo6v0i149pxvnn0n
+    followers: 36752
+    engagement: 189
+    commentsToLikes: 0.395611
+    id: ck0tx4viyhxck0i198dozmraf
     verified: false
-    hashtags: "#foodiesofinstagram, #houstonfood, #texasfood, #houstonfoodie"
-  - username: "cshepherd13"
+    hashtags: "#takeouttuesday, #tryitordiet, #houstonfood, #bestfoodfeed"
+  - username: "skooo._"
     fullname: >-
-      Chris Shepherd
+      DJ Old Skoo 🎶
     bio: >-
-      Houston Chef, cookbook author #TakingCareOfOurOwn
+      sᴀᴠᴇᴅ ✟✨ • ᴅᴀʟ | ʜᴏᴜ • ᴀʀᴄʜɪᴛᴇᴄᴛ • sʜᴏᴇ ᴍᴀᴋᴇʀ
     location: "United States"
-    followers: 29048
-    engagement: 191
-    commentsToLikes: 0.029830
-    id: ck5c47f1e0r8w0i11lxhck6ds
+    followers: 7752
+    engagement: 583
+    commentsToLikes: 0.057200
+    id: ck6u44q0h1o900j71m6dh7sbo
     verified: false
-    hashtags: "#curbside, #staysafe, #stayhealthy, #coronavirusoutbreak"
-  - username: "diningwithdestiny"
-    fullname: >-
-      Destiny • Houston Food
-    bio: >-
-      📍Houston, Tx 💥 @zipkick influencer 📲Diningwithdestiny@yahoo.com
-    location: "United States"
-    followers: 4030
-    engagement: 1719
-    commentsToLikes: 0.223970
-    id: ck6tusw7hi7zy0j71lribhgl6
-    verified: false
-    hashtags: "#checkershouston, #crazygoodfood, #fastfoodie, #fajitafriday"
+    hashtags: "#htx, #rosegold, #heistfridays, #hiestfridays"
   - username: "fooodeelicious"
     fullname: >-
-      Duc 🐥 | Houston Food Devourer
+      Duc | Houston Food & Travel
     bio: >-
-      📍 Houston, Texas 🔑 Founder @grubclubhtx 📮 Fooodeelicious@gmail.com 👉🏼 Follow me on Tiktok @fooodeelicious 🔥 @zagat Top 101 Food Acccounts
+      Ultimate Goal: Finding the best eats in Houston 📍 houston, texas & beyond! 🍜 tiktok @fooodeelicious 📬 fooodeelicious@gmail.com 🌟 founder @grubclubhtx
     location: "United States"
-    followers: 50348
-    engagement: 524
-    commentsToLikes: 0.286672
+    followers: 68362
+    engagement: 414
+    commentsToLikes: 0.104042
     id: ck5pyhjqnw1vt0i11yc2um1l0
     verified: false
-    hashtags: "#stellasolstice, #stellaartois, #ad"
+    hashtags: "#ad, #johnnieblonde, #fortheloveofbreakfast, #29"
   - username: "for.twoplease"
     fullname: >-
       Joeli l Houston Food Couple
     bio: >-
       📍#Houston,TX Just 2 fatties eating around the 🌎, 1 🍽 at a time! 🇰🇷🇵🇭🇦🇪🇺🇸 @zipkick @bestfoodhouston Shot on📲 DM for collabs #fortwoplease EST. April’19
     location: "United States"
-    followers: 2708
-    engagement: 1287
-    commentsToLikes: 0.256159
+    followers: 2583
+    engagement: 1359
+    commentsToLikes: 0.254173
     id: ck139sv4jmy9j0i1995y7mgy7
     verified: false
-    hashtags: "#curbsidepickup, #socialdistancing, #takeoutorders, #supportchinatown"
-  - username: "foodwithtory.htx"
+    hashtags: "#curbsidepickup, #takeoutorders, #socialdistancing, #respect"
+  - username: "diningwithdestiny"
     fullname: >-
-      Houston Food Blog ♡Torylicious
+      Destiny • Houston Food
     bio: >-
-      📸 If It Looks Good, Eat It! But 1st, Let Me Take A Photo 🙋🏻‍♀️ 🌎 #traveleats 💁🏻‍♀️ #toryeats 📲 Let’s collaborate! DM/email me! 💌thyminee@icloud.com
+      📍Houston, Tx 💥 @zipkick influencer 📲Diningwithdestiny@yahoo.com
     location: "United States"
-    followers: 12649
-    engagement: 849
-    commentsToLikes: 0.441792
-    id: ck5q8sl0e7sp20i117f49k17a
+    followers: 4909
+    engagement: 786
+    commentsToLikes: 0.295568
+    id: ck6tusw7hi7zy0j71lribhgl6
     verified: false
-    hashtags: "#htxeats, #bestfoodfeed, #htowneats, #bestfoodhouston"
-  - username: "houstonfoodiess"
+    hashtags: "#nationaltequiladay, #therealdeal, #jaranatequila"
+  - username: "whatayishaeats"
     fullname: >-
-      Houston Food
+      𝐀𝐘𝐈𝐒𝐇𝐀 | Houston Food Blogger
     bio: >-
-      👩🏻‍💻Restaurant Marketer 👥 @grubclubhtx 💌 houstonfoodiess@gmail.com Check out my TikTok!👇
+      🍴19 yr old foodie who ALWAYS takes pics of my food 📱social media manager 🍔food influencer collabs? DM/email me👇🏾 📩whatayishaeats@gmail.com
     location: "United States"
-    followers: 60181
-    engagement: 392
-    commentsToLikes: 0.295528
-    id: ck5q8sh3g7s230i116ttijkp6
+    followers: 4680
+    engagement: 544
+    commentsToLikes: 0.125081
+    id: ck9weodr9l6730j78h8c0olsm
     verified: false
-    hashtags: "#houstontexas, #houstonfoodie, #eatfamous, #yougottaeatthis"
+    hashtags: "#htxeats, #houstonfood, #foodisbae, #chickensandwich"
   - username: "eatingwithcatherine"
     fullname: >-
       Catherine | Houston Food Blog
     bio: >-
-      🍔 The only thing I like better than talking about food is eating food 😋 🖊Yelp Elite Gold| GrubClubHTX | Foodie Tribe 👗@livingwithcatherine
+      📍 Houston Blogger 🍔 The only thing I like better than talking about food is eating food 😋 📸 Restaurant Social Media Manager 👗@livingwithcatherine
     location: "United States"
-    followers: 30900
-    engagement: 333
-    commentsToLikes: 0.425925
+    followers: 40389
+    engagement: 297
+    commentsToLikes: 0.349163
     id: ck0u2g037zuwd0i19goxckz5k
     verified: false
-    hashtags: "#htx, #steak, #houston, #tryitordiet"
+    hashtags: "#tacosarelife, #houstonfoodblogger, #tacotuesday, #houstonfoodies"
 ---

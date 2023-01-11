@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Austin in 2023
+title: Top 10 Home Decor Instagram Influencers In Austin In 2023
 description: >-
-  Find top home decor Instagram influencers in Austin in 2023. Most popular hashtags: #homedecor #liketkit #ltksalealert #ltkunder50.
+  Find top home decor Instagram influencers in Austin in 2023. Most popular hashtags: #homedecor #austintexas #austin #interiordesign.
 platform: Instagram
-hits: 55
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 55 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 61
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 61 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "shelbsswigart"
+  - username: "josieortegon"
     fullname: >-
-      shelby swigart
+      Josie Ortegon
     bio: >-
-      ☆ curlsandpearls.net ☆ fashion/lifestyle #blogger ☆ houston ΔΓ ☆ @deegthepug ☆ always be joyful and never stop praying ☆ blog + outfits + links👇🏻
+      Storyteller | Content Creator 🎥🎬📱 📍 Austin, Texas 📩 josieortegon09@gmail.com
     location: "United States"
-    followers: 6047
-    engagement: 1264
-    commentsToLikes: 0.066335
-    id: ck8sz4rthn5oj0j78co5w8ina
+    followers: 2673
+    engagement: 965
+    commentsToLikes: 0.060599
+    id: ckaozpgsamtqz0i784mnqnbfo
     verified: false
-    hashtags: "#liketkit, #ltkunder50, #ltksalealert, #houston"
-  - username: "angelchiassonart"
+    hashtags: "#austin, #elpaso, #atx, #austintexas"
+  - username: "realestate"
     fullname: >-
-      Angel Chiasson
+      @RealEstate
     bio: >-
-      Happy paintings and lots of dancing! 💃 All works©️ Available paintings at :
+      A Global Real Estate Community 🌎 Buy | Sell | Rent | Promote 🤍 Tag @RealEstate 🏦 @houses partner🔑 Want to Be Featured? 📸 Visit us below!
     location: "United States"
-    followers: 29042
-    engagement: 209
-    commentsToLikes: 0.040227
-    id: ck0u0kupmu5iv0i19u6qryeb1
+    followers: 210004
+    engagement: 69
+    commentsToLikes: 0.041221
+    id: ck13b75i4u0ju0i19q6edh4b0
     verified: false
-    hashtags: "#abstractfloral, #angelchiassonart, #texasartist, #desertbloom"
-  - username: "mandiekaii_fit"
+    hashtags: "#listed, #modernhome, #design, #mansion"
+  - username: "theblondespaniard"
     fullname: >-
-      MANDIE KAII 🌈
+      𝗖𝗵𝗲𝗹𝘀𝗲𝗮 H
     bio: >-
-      » Fitness + Business Mentor » Cali girl livin it up in ATX @livindandie WORK WITH ME👇🏼
+      Lifestyle | ✈️ Travel | 🏠 Home Decor | 🔨 DIY 📍Spokane WA Collab 💌: TheBlondeSpaniardCo@gmail.com
     location: "United States"
-    followers: 55407
-    engagement: 309
-    commentsToLikes: 0.031042
-    id: ck5hkch9ui6ka0i11rmhboxm0
+    followers: 28508
+    engagement: 325
+    commentsToLikes: 0.062926
+    id: ck5zwkrby6an30i14dkd6unst
     verified: false
-    hashtags: "#lovewins, #lgbtq, #fitnessmotivation, #fitness"
-  - username: "stacie.lamothe"
-    fullname: >-
-      Stacie
-    bio: >-
-      ✌🏻 affordable style // casual chic 👧🏼Toddler mom 💉RN 📍Austin, TX 〰️ ALL THE THINGS 👇🏻〰️
-    location: "United States"
-    followers: 122759
-    engagement: 122
-    commentsToLikes: 0.053998
-    id: ck0w08xcsczau0i19394lh2v2
-    verified: false
-    hashtags: "#ltkfall, #nordstrom, #targetstyle, #falloutfits"
-  - username: "creatinghomewithwhit"
-    fullname: >-
-      Whitney
-    bio: >-
-      Momma to ✌🏻, Married to my BFF,Home Reno and DIY is my passion. Featured in apartmenttherapy & austinwoman. POCEOW
-    location: "United States"
-    followers: 35946
-    engagement: 256
-    commentsToLikes: 0.137011
-    id: ck14kqs1aqug70i19rdi0fjme
-    verified: false
-    hashtags: "#darlinghome, #betterhomesandgardens, #homestyling, #mybhg"
-  - username: "casskendell"
-    fullname: >-
-      Cassidee Wengert Kendell
-    bio: >-
-      wife to austin rv living🤘🏼 maskcara artist maskcara account: @casskendell.maskcara
-    location: "United States"
-    followers: 2027
-    engagement: 1536
-    commentsToLikes: 0.097783
-    id: ckap7e2i8jo330i78yqj8qzfn
-    verified: false
-    hashtags: "#maskcarabeauty, #tinyliving, #rvinspiration, #rvrenovation"
-  - username: "nvzion"
-    fullname: >-
-      ᴍᴀᴛᴛ
-    bio: >-
-      📍 austin 📸 photographer 📧 nvzionn@gmail.com
-    location: "United States"
-    followers: 38560
-    engagement: 662
-    commentsToLikes: 0.033607
-    id: ck5cifa9dsjlv0i119pyvtxmb
-    verified: false
-    hashtags: "#officespace, #magickeyboard, #applewatchseries5, #satechi"
+    hashtags: "#ruggable, #ls080321dreamingdad, #dienstagsaugust, #happyaugustauo"
   - username: "livvylandblog"
     fullname: >-
       Olivia • LivvyLand
     bio: >-
       📍austin, tx | down to 🌏 style | mama of two boys🥰 Contact💌👉🏼olivia@livvyland.com
     location: "United States"
-    followers: 302274
-    engagement: 90
-    commentsToLikes: 0.011423
+    followers: 286278
+    engagement: 48
+    commentsToLikes: 0.015035
     id: ck0w6pkli9p8l0i19nterddgx
     verified: false
-    hashtags: "#goatworthy, #liketkit, #sponsored, #patagonia"
-  - username: "swiftwellness"
+    hashtags: "#liketkit, #sponsored, #flatlay, #madewell"
+  - username: "natedanielward"
     fullname: >-
-      Ashley | Wellness Blogger 🌱
+      NATE WARD 🇺🇸🏳️‍🌈
     bio: >-
-      Travel lovin’ cat mama helping YOU become your BEST self Health | fashion | self-care | wellness | travel 📍 Austin 👇🏻Blog & shop (Tiktok finds below)
+      Your guide to Austin real estate - Devora Realty Fashion/Design/Fitness/Real Estate
     location: "United States"
-    followers: 48212
-    engagement: 228
-    commentsToLikes: 0.041874
-    id: ck13aefwvpzo30i19wk2hd7jb
+    followers: 41421
+    engagement: 486
+    commentsToLikes: 0.028002
+    id: ckap181wmtg4u0i783d9z07b5
     verified: false
-    hashtags: "#ltkfit, #ltkhome, #swiftwellness, #mindbodygram"
-  - username: "studioseiders"
+    hashtags: "#realestate, #austintexas, #movetoaustin, #mensstyle"
+  - username: "amandakwaltman"
     fullname: >-
-      Studio Seiders
+      Amanda | TX Blogger
     bio: >-
-      Austin-based interior design firm specializing in warm, organic-modern interiors
+      Austin, TX Mom Life + Home, Lifestyle & Travel Boy mom x2 Making #thewaltmanfam home our own 🔨🏠 💌 amandakwaltman@gmail.com
     location: "United States"
-    followers: 6685
-    engagement: 524
-    commentsToLikes: 0.051110
-    id: ck5c1dleiuynu0i114b7wc6tb
+    followers: 64496
+    engagement: 61
+    commentsToLikes: 0.024650
+    id: ck0vyzy346lys0i19xrj9uif8
     verified: false
-    hashtags: "#organicmodern, #interiordesign, #interiorarchitecture, #matthewsproject"
+    hashtags: "#boymom, #sponsored, #texasblogger, #austinblogger"
+  - username: "creatinghomewithwhit"
+    fullname: >-
+      Whitney
+    bio: >-
+      Momma to ✌🏻, Married to my BFF,Home Reno and DIY is my passion. Featured in apartmenttherapy & austinwoman. POCEOW
+    location: "United States"
+    followers: 33409
+    engagement: 274
+    commentsToLikes: 0.137042
+    id: ck14kqs1aqug70i19rdi0fjme
+    verified: false
+    hashtags: "#heyhomehey, #showmeyourstyled, #brightspaceswelove, #currenthomeview"
+  - username: "casskendell"
+    fullname: >-
+      Cassidee Wengert Kendell
+    bio: >-
+      wife to austin small town living🤘🏼 seint artist beauty account: @casskendell.beauty
+    location: "United States"
+    followers: 1978
+    engagement: 1462
+    commentsToLikes: 0.093397
+    id: ckap7e2i8jo330i78yqj8qzfn
+    verified: false
+    hashtags: "#tinyliving, #homeiswhereyouparkit, #homeonwheels, #rvreno"
+  - username: "nvzion"
+    fullname: >-
+      ᴍᴀᴛᴛ
+    bio: >-
+      📍 austin 📸 tech lifestyle 📧 nvzionn@gmail.com
+    location: "United States"
+    followers: 68348
+    engagement: 226
+    commentsToLikes: 0.051898
+    id: ck5cifa9dsjlv0i119pyvtxmb
+    verified: false
+    hashtags: "#gridstudio, #applewatch, #appleaccessories, #macrophotography"
+  - username: "ink.and.alma"
+    fullname: >-
+      aline forastieri | ink + alma
+    bio: >-
+      Passionate #mandala #artist living a bright life in #Austin, TX! Life, love & photography: @alineforastieri Shop: ⬇️
+    location: "United States"
+    followers: 29947
+    engagement: 111
+    commentsToLikes: 0.017360
+    id: ckf5ufssnkqv10j23xp0eretl
+    verified: false
+    hashtags: "#handmade, #giftideas, #mandalaartist, #acrylicpainting"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Indonesia in 2023
+title: Top 10 Cosmetics Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Indonesia in 2023. Most popular hashtags: #dirumahaja #mualumajang #muajogja.
+  Find top cosmetics Instagram influencers in Indonesia in 2023. Most popular hashtags: #nghienmakeup #helwaaestheticcenter #thrshopeedarikayla.
 platform: Instagram
-hits: 167
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 167 Instagram influencers like this in Indonesia for you to connect with.
+hits: 143
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 143 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
-  - username: "wirda_mansur"
+  - username: "khadijahazzahra_owner"
     fullname: >-
-      𝐖 𝐢 𝐫 𝐝 𝐚 𝐌 𝐚 𝐧 𝐬 𝐮 𝐫
+      Khadijah Azzahra
     bio: >-
-      President of @millennialantibokek a Girlboss behind @wirdamaeofficial @wakeupmakeup.cosmetics @wisatahatitravel ✨
+      Happy wife ♥️ @alifozan_halabia Founder of @khadijahazzahra_Makeup @thanabeauty @kokha_cosmetic @khaira_decoration
     location: "Indonesia"
-    followers: 2631549
-    engagement: 660
-    commentsToLikes: 0.023690
-    id: ck0twciutevv20i19polyszmw
-    verified: true
-    hashtags: "#dirumahaja, #fightcovid19"
+    followers: 190966
+    engagement: 383
+    commentsToLikes: 0.010768
+    id: ck0tz6olwp8vp0i19vv1z2xsu
+    verified: false
+    hashtags: "#pejuangkehidupan"
   - username: "yessikanandya"
     fullname: >-
       Yessika Nandya
     bio: >-
       The women behind PT Sukses Karya Yessika | SKY CLINIC @skyclinic.id @beautyskyaesthetic | SKYLA cosmetics,Skyderm Expert,SkyCreative,YessikaTrans.
     location: "Indonesia"
-    followers: 63784
-    engagement: 380
-    commentsToLikes: 0.025150
+    followers: 61009
+    engagement: 415
+    commentsToLikes: 0.006192
     id: ck5c7z9448gsr0i11q7tumbr5
     verified: false
-    hashtags: "#corona, #stayhome, #covid19, #dirumahaja"
-  - username: "khadijahazzahra_owner"
-    fullname: >-
-      Khadijah Azzahra
-    bio: >-
-      Founder of @khadijahazzahra_Makeup @thanabeauty @kokha_cosmetic @khaira_decoration @halabislim.co
-    location: "Indonesia"
-    followers: 188066
-    engagement: 384
-    commentsToLikes: 0.010750
-    id: ck0tz6olwp8vp0i19vv1z2xsu
-    verified: false
-    hashtags: "#pejuangkehidupan"
+    hashtags: "#dirumahaja, #stayhome, #stayathome, #adek"
   - username: "evelynmarietta"
     fullname: >-
       Evelyn Marieta (not Marietta)
     bio: >-
-      I'm a #WUNDERWOMAN Founder of @wunderbath.co Cosmetic Formulator 👩🏻‍🔬 Bsc. Nutrition & Food Science (@ualberta)🍋 Model + Emcee 👠 Creative Advocate 💡
+      I'm a #WUNDERWOMAN Founder of @wunderbath.co Cosmetic Formulator 👩🏻‍🔬 Bsc. Nutrition & Food Science (@ualberta)🍋 Creative Advocate 💡 @emma_marieta 👼🏻
     location: "Indonesia"
-    followers: 28213
-    engagement: 267
-    commentsToLikes: 0.019368
+    followers: 31583
+    engagement: 231
+    commentsToLikes: 0.016704
     id: ck5ce9eu6klqp0i11shp12u76
     verified: false
-    hashtags: "#lifeinheattech, #lenovomy, #thinkbook, #bmfmy"
-  - username: "evanurlitaa"
-    fullname: >-
-      Eva nurlita
-    bio: >-
-      #Say ما شاء الله @evabeauty.clinic @evabeauty.studio @eva.pastrybakery @evaboutique11 @msglow_temanggung @evabeauty.cosmetics
-    location: "Indonesia"
-    followers: 53984
-    engagement: 196
-    commentsToLikes: 0.016654
-    id: ck8t4kqa173se0j78lwvu6lf6
-    verified: false
-    hashtags: "#fashionhijab, #lebaran, #lebaran1441h, #jawabsendiri"
+    hashtags: "#davinesenjoythesmallthings, #uniqlomy, #mylifewear, #10yearsofuniqlo"
   - username: "yenjiivu"
     fullname: >-
       𝒴𝑒𝓃𝒥𝒾𝒾
     bio: >-
-      1m71 🔫 📥 ᴍᴀɪʟ : ʙᴏᴏᴋɪɴɢʏᴇɴᴊɪɪᴠᴜ@ɢᴍᴀɪʟ.ᴄᴏᴍ @pineapple.cosmetics.y Tiktok ID : yenjiivu 🦋 ʟɪɴᴋ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ :
+      1m71 🦋 📥 ᴍᴀɪʟ : ʙᴏᴏᴋɪɴɢʏᴇɴᴊɪɪᴠᴜ@ɢᴍᴀɪʟ.ᴄᴏᴍ @facechartbyyenjii @pineapple.cosmetics.y Tiktok ID : yenjiivu 🦋 ʟɪɴᴋ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ :
     location: "Indonesia"
-    followers: 92244
-    engagement: 632
-    commentsToLikes: 0.003651
+    followers: 106387
+    engagement: 936
+    commentsToLikes: 0.003147
     id: ck6u4urjp5wpa0j71vobbqucy
     verified: false
-    hashtags: "#makeuphalloween, #makeupconcept, #yenjiimakeup, #nghienmakeup"
-  - username: "hafizatulatikah"
+    hashtags: "#ahegao, #makeuplook, #makeupconcept, #makeupjunkie"
+  - username: "azrilradzi"
     fullname: >-
-      Founder Obsess Cosmetics
+      azrilradzi
     bio: >-
-      Millionaires in the making Jom buat income dan cantik dengan @obsess.cosmetics Dm Me your whatsapp number and follow my journey 👇🏻
+      V’Asia Cosmetic Positive vibes @vasia.official Father to @sarraayesha & @ummarmateen
     location: "Indonesia"
-    followers: 129433
-    engagement: 86
-    commentsToLikes: 0.039941
-    id: ck14l1icrsdkb0i19eddgmxih
-    verified: false
-    hashtags: "#tiktok, #localbrandmalaysia, #firstsyawal, #raya2020"
-  - username: "khadijahazzahra_makeup"
-    fullname: >-
-      MUA MALANG KOKHA WEDDING
-    bio: >-
-      @kokha_cosmetic @khaira_decoration 💚WA 081515318119 booking 📍Perum IJEN NIRWANA D3-17 MALANG ❌NO DM! ❤️LINE @piq2713x ☎️CALL 0341-354588 ⏰09.00-17.00
-    location: "Indonesia"
-    followers: 1478120
-    engagement: 184
-    commentsToLikes: 0.011251
-    id: ck0tz6nowp8rz0i19qf9eltws
-    verified: false
-    hashtags: "#muatrenggalek, #muagresik, #muablitar, #muakediri"
-  - username: "feeyaiskandar"
-    fullname: >-
-      feeyaiskandar
-    bio: >-
-      CIK PIAH 📻 SURIA FM 👉🏻 FOUNDER @urban_cosmetic_hq 💜💜 Nurashid❤️Adam malique💑Nuh Aryyan. feeyaiskandar11@gmail.com
-    location: "Indonesia"
-    followers: 637573
-    engagement: 77
-    commentsToLikes: 0.013317
-    id: ck6u0dsd3f3os0j71t30bczsa
+    followers: 110912
+    engagement: 125
+    commentsToLikes: 0.026210
+    id: ck6u0e7cif65s0j71k3sks2tz
     verified: true
-    hashtags: ""
-  - username: "syakilla_eyla"
+    hashtags: "#cuticutimalaysia"
+  - username: "kayla.nadira"
     fullname: >-
-      S Y A K I L L A
+      Kayla Nadira Cut Almi
     bio: >-
-      💕Kelantanese 🚒 Akak bomba 💃Freelance model ♥️Agent Sah Wawa Cosmetics 💜Agent Sah Inas 🏢Ibu pejabat JBPM Kedah 🐍Squad King Cobra 😘 Unfollowed detected
+      @kazami_store @kyl.cosmetic @healthyskin_ofc @kazami_daily
     location: "Indonesia"
-    followers: 13248
-    engagement: 889
-    commentsToLikes: 0.009171
-    id: ckap06q0qozd30i78xxvscx0l
+    followers: 1127741
+    engagement: 1057
+    commentsToLikes: 0.004761
+    id: ck0w4zbz615ch0i19oyp01ezw
     verified: false
-    hashtags: "#segak, #segakberseragam, #friendsofbombamalaysia, #segakberuniform"
+    hashtags: "#shopeetanamthr10m, #thrshopeedarikayla, #shopeedarirumah, #giveaway"
+  - username: "nada_lohhh"
+    fullname: >-
+      Nada lohhh Cosmetics💄
+    bio: >-
+      💄Nada Lohhh cosmetics 📍bandar lampung Cp : 08999088881 🎬 Content heal wounds | voice over | singer | tell stories in writing 📍bandarLampung
+    location: "Indonesia"
+    followers: 21957
+    engagement: 129
+    commentsToLikes: 0.035140
+    id: ck0w6sqlza4ca0i19x6nx65ol
+    verified: false
+    hashtags: "#kumpulanpuisi, #puisi, #quotesindonesia, #nada"
+  - username: "alhaalfa"
+    fullname: >-
+      www.alhaalfa.com
+    bio: >-
+      👰 MAKEUP ARTIST 💄 FOUNDER : ALHAALFA COSMETICS 🔴 MAKEUP & REVIEW QUOTATION pls contact 👇🏻👇🏻 📲 ‭ 018 293 9167 - mell ▶️ PURCHASE AA COSMETICS👇🏻👇🏻
+    location: "Indonesia"
+    followers: 1006606
+    engagement: 78
+    commentsToLikes: 0.034486
+    id: ck15te4d0hmti0i1984e5zg1o
+    verified: false
+    hashtags: "#mrtxalhaalfa, #alhaalfaproduk, #mrtpasarseni, #mrtalhaalfacosmetics"
+  - username: "naabella.tamimm"
+    fullname: >-
+      HelwaBeautycare
+    bio: >-
+      @helwabeautycare @helwa.cosmetics @helwa_aestheticcenter @helwamoda.boutique #cantikituhelwa (handle by admin)
+    location: "Indonesia"
+    followers: 473991
+    engagement: 15
+    commentsToLikes: 0.004426
+    id: ck0w1qffikmh50i19ryuhfnn8
+    verified: false
+    hashtags: "#malanghits, #helwa, #helwabeautycare, #clinickecantikanmalang"
+  - username: "griya.rr"
+    fullname: >-
+      Griya Ridha Raharja Drg
+    bio: >-
+      Cosmetic & Esthetic Dentist Indonesia Griya Dental Care Jakarta Reservation : 021-75905068 WA : 085288016391 #restorationgdc #veneergdc
+    location: "Indonesia"
+    followers: 179586
+    engagement: 107
+    commentsToLikes: 0.019647
+    id: ck6tm7c3s7b770j71s2o8vywe
+    verified: false
+    hashtags: "#sharing, #dentist, #dentistry, #selfquarantine"
 ---

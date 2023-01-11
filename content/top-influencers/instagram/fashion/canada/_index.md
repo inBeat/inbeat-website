@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Canada in 2023
+title: Top 10 Fashion Instagram Influencers In Canada In 2023
 description: >-
-  Find top fashion Instagram influencers in Canada in 2023. Most popular hashtags: #fashionblogger #ootd #torontoblogger.
+  Find top fashion Instagram influencers in Canada in 2023. Most popular hashtags: #explorepage #explore #ootd.
 platform: Instagram
-hits: 1229
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 1229 Instagram influencers like this in Canada for you to collaborate.
+hits: 555
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 555 Instagram influencers like this in Canada for you to work with.
 profiles:
-  - username: "xox.loveandfashion"
+  - username: "virginiepilotte"
     fullname: >-
-      𝐆𝐥𝐞𝐧𝐧 & 𝐊𝐡𝐚𝐲 | Fashion 🇵🇭🇨🇦
+      VIRGINIE
     bio: >-
-      Mr. Hugs & Mrs. Kisses #love ▪︎ #fashion ▪︎ #lifestyle 18 Years & 10 months IN L❤VE #matchingcouple 𝒔𝒊𝒏𝒄𝒆 𝟐𝟎𝟎𝟏 We have a YouTube ⬇️ Channel!
+      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
     location: "Canada"
-    followers: 16394
-    engagement: 392
-    commentsToLikes: 0.082821
-    id: ck55ja79lwlq60i11r5nr177w
+    followers: 32541
+    engagement: 593
+    commentsToLikes: 0.059708
+    id: ck55ppopob3mx0i11k0dp0cdv
     verified: false
-    hashtags: "#vancouverbc, #vancouver, #dailyhivestyle, #xoxloveandfashion"
-  - username: "joeliegamatero"
+    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
+  - username: "mommas_gang"
     fullname: >-
-      Joelie Jane
+      SAMMY
     bio: >-
-      Fashion | Lifestyle | Travel Always searching for new adventures✨ ✉️ | janegamatero1@gmail.com
+      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
     location: "Canada"
-    followers: 7176
-    engagement: 2333
-    commentsToLikes: 0.272646
-    id: ckf5s50lfeqxv0j23s9pw9dxh
+    followers: 30491
+    engagement: 1265
+    commentsToLikes: 0.020403
+    id: ck5zijlgfftz90i14vjkufxsl
     verified: false
-    hashtags: "#mykindofsilk, #mykaseme"
-  - username: "beingjulia_"
+    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
+  - username: "ariloufournier"
     fullname: >-
-      Julia
+      Ari Fournier
     bio: >-
-      🎃 pre-teen teaching, hat wearing, fashion loving Canadian gal 💌 beingjuliablog@gmail.com 🤍 See my latest blog post below!
+      🦋🧚🏼‍♀️ @imgmodels @premiermodels Lorraine.Osp-Antonetti@img.com founder @fashion4humanity
     location: "Canada"
-    followers: 6885
-    engagement: 2180
-    commentsToLikes: 0.280734
-    id: ck0vw213arr0n0i19hh5r731e
+    followers: 260457
+    engagement: 1114
+    commentsToLikes: 0.016794
+    id: ck0w16da2hrqn0i19cq2bt5i4
     verified: false
-    hashtags: "#gigipip, #hmxme, #liketkit, #ltkunder100"
-  - username: "sofsenisi"
+    hashtags: "#rlcaliforniadreaming"
+  - username: "hh.hager"
     fullname: >-
-      Sof senisi👑💖✨
+      Hager Hanawy | Toronto creator
     bio: >-
-      📚UofGH | Business ✨Affordable Fashion + Beauty + Lifestyle 💌Collab Inquiries: sofiasenisi@gmail.com 📍Canada ￼⬇️Join FB Group #StuntinWithSof
+      Fashion / Makeup & lifestyle 💌 hagerhanawy@outlook.com 💌 hager@levenagency.co Tiktok: hagerhanawy (155k+)
     location: "Canada"
-    followers: 5984
-    engagement: 1955
-    commentsToLikes: 0.268103
-    id: ckap0fxu8q3qd0i781qxasrxq
+    followers: 37108
+    engagement: 777
+    commentsToLikes: 0.008507
+    id: cl13ex4h0z55j0i23b9m02d4x
     verified: false
-    hashtags: "#urbanplanet, #makeup, #glammakeup, #loungeunderwear"
-  - username: "aslam_azzi"
+    hashtags: "#fashionblogger, #explorepage, #pinterest, #torontoblogger"
+  - username: "taliana.noronha"
     fullname: >-
-      R ⭕ W D Y
+      𝔗𝔞𝔩𝔦𝔞𝔫𝔞 💿
     bio: >-
-      . ALHAMDULLILAAH 💯 . FASHION BLOGGER . KEEP SMILING 🥀 . ."𝖠𝗅𝗅 𝗆𝗒 𝗁𝖺𝗍𝖾𝗋𝗌 , 𝖠𝗌𝗌𝖾𝗆𝖻𝗅𝖾 𝗁𝖾𝗋𝖾 "🚀 🍃..
+      🇧🇷 fashion&dance @flip.officiall @dmnation_official @cirquedusoleil @agt @revolutiontva @nbcworldofdance
     location: "Canada"
-    followers: 6794
-    engagement: 1897
-    commentsToLikes: 0.198088
-    id: ck9wi95sx19bv0j78s3u61tjk
+    followers: 9760
+    engagement: 373
+    commentsToLikes: 0.016531
+    id: cl12gwcjay62r0i23q6p8h0pp
     verified: false
-    hashtags: "#instagram, #thrissur, #mallugram, #instagoodl"
-  - username: "melissalandry04"
+    hashtags: "#quebec, #quebeccity, #dancevideo, #reels"
+  - username: "william_iwokiri"
     fullname: >-
-      Mélissa Landry
+      GW
     bio: >-
-      📍 25 | Qc, CAN ✨ Travel, Fashion & Lifestyle 📚 Psychoeducatrice ✉️ : melissalandry04@hotmail.com
+      🇳🇬 ♡ Illustrator • Bioengineer ♡ Aspiring fashion designer ♡ Commissions: OPEN ✉ giw.inquiries@gmail.com Shop Wallpapers ↓
     location: "Canada"
-    followers: 5416
-    engagement: 1823
-    commentsToLikes: 0.151679
-    id: ck8talf48s8yo0j78f1l6fjr9
+    followers: 8588
+    engagement: 3722
+    commentsToLikes: 0.047553
+    id: ck5zr3nixvu2g0i14a0qnegdy
     verified: false
-    hashtags: "#smashboxprimer, #crueltyfree, #haloskin, #smashboxpartner"
-  - username: "harleens3khon"
+    hashtags: "#swipeleft, #illustration, #blackownedbusiness, #fashionillustration"
+  - username: "saralevs"
     fullname: >-
-      Harleen Sekhon
+      SARA LEVITT
     bio: >-
-      Toronto | @artbyharleensekhon Beauty • Fashion • Art Collab/PR 📧 harleensekhonofficial@gmail.com
+      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
     location: "Canada"
-    followers: 2652
-    engagement: 2026
-    commentsToLikes: 0.135663
-    id: ckf5o291c0m3d0j232y4q9oxq
+    followers: 5963
+    engagement: 295
+    commentsToLikes: 0.075173
+    id: ckaoszed3towd0i78ukl5z3y1
     verified: false
-    hashtags: "#revolveme, #outfitideas, #fashionblogger, #mirrorselfie"
-  - username: "megmedeiros"
+    hashtags: "#lacucina"
+  - username: "choudhurydib"
     fullname: >-
-      Megan Medeiros
+      Dibya | Fashion && Lifestyle
     bio: >-
-      Unapologetic Fashion Enthusiast | Montréal
+      Fashion && Mamma Lifestyle 📍Toronto, CA 🇨🇦 🇺🇸 🇮🇳 Collab: choudhurydibya@gmail.com Shoedazzle👇
     location: "Canada"
-    followers: 6478
-    engagement: 1149
-    commentsToLikes: 0.211934
-    id: ck9wfce55o8qs0j787h4x2c66
+    followers: 23419
+    engagement: 287
+    commentsToLikes: 0.415016
+    id: ck8tbjidovy1i0j78zwxaohqd
     verified: false
-    hashtags: "#ardenelove, #ardenebabe, #mejuri, #mejuripartner"
-  - username: "rachelsavaunnah"
+    hashtags: "#exploretoronto, #ad, #shoedazzlesquad, #sponsored"
+  - username: "mel77wa"
     fullname: >-
-      RAE SAVAUNNAH • T.O BLOGGER
+      Melanie Roy
     bio: >-
-      Lifestyle • Beauty • Fashion 📍🇨🇦 Let’s Collab👉🏿 💌 savaunnah.rachel@gmail.com @hautelash.xyz • ✝️🛍💄👶🏻 #beauty #fashion #lifestyle #boymom ⇣✨👇🏿👀👇🏿✨⇣
+      Part-time wanderer | full-time mommy<3 Mel77wa@gmail.com • Made in *•🇨🇦•* • Family Travel | clean beauty | ethical + sustainable living | slow fashion
     location: "Canada"
-    followers: 6256
-    engagement: 1151
-    commentsToLikes: 0.574121
-    id: ck5zz5d5vb4450i140detajo0
+    followers: 20412
+    engagement: 284
+    commentsToLikes: 0.235919
+    id: cksa05djdjbis0j23qso5olea
     verified: false
-    hashtags: "#prettylittlething, #faith, #plt, #pltstyle"
-  - username: "where.is.naomi"
+    hashtags: "#jackandjillkids, #loveverybaby, #receiptjar, #trainingpants"
+  - username: "emmaleger"
     fullname: >-
-      Naomi Montgomery
+      Emma Rose
     bio: >-
-      Snaps of my Loves & Life✨ Floral Designer + Fashion + Interior Design + Lover of Travel. Figuring out my next steps as I go along🌸
+      lifestyle, fashion & beauty co-founder @justscoutit 🎙 @thatssosabotage shop + youtube:
     location: "Canada"
-    followers: 6366
-    engagement: 1034
-    commentsToLikes: 0.231905
-    id: ck8t29jggyne00j781fsun3hq
+    followers: 616423
+    engagement: 230
+    commentsToLikes: 0.007082
+    id: ck0u9okoraduk0i19air3hp4u
     verified: false
-    hashtags: ""
+    hashtags: "#doubles, #mkxellesse, #mkpartner, #tiffanypartner"
 ---

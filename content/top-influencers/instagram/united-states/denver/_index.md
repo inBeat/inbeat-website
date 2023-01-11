@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Denver in 2023
+title: Top 10 Instagram Influencers In Denver In 2023
 description: >-
-  Find top Instagram influencers in Denver in 2023. Most popular hashtags: #motivation #denver #tattoo.
+  Find top Instagram influencers in Denver in 2023. Most popular hashtags: #denver #colorado #hiking.
 platform: Instagram
-hits: 1246
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 1246 Instagram influencers like this in Denver, United States for you to pitch.
+hits: 1277
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 1277 Instagram influencers like this in Denver, United States for you to contact.
 profiles:
-  - username: "elsadeherrrera"
+  - username: "adventuringeyes"
     fullname: >-
-      Elsa DeHerrera
+      Sarah and Myles // adventure travel creators
     bio: >-
-      denver
+      💛 husband & wife adventurers ✈️ trip itineraries 🥾national park & hiking guides 🌲sustainable travel 💌hello@adventuringeyes.com 📍Denver, CO
     location: "United States"
-    followers: 20680
-    engagement: 349
-    commentsToLikes: 0.016512
-    id: ckap006y4o78u0i78eabt7dns
+    followers: 88894
+    engagement: 1416
+    commentsToLikes: 0.055606
+    id: ckz4fx0oq74kx0j23v6wuwaq9
     verified: false
-    hashtags: "#noimnotimhawaiirn, #vegan"
-  - username: "durskeet"
+    hashtags: "#visitutah, #visitkauai, #visithawaii, #kauaihawaii"
+  - username: "kbfitusa"
     fullname: >-
-      Emily Durski
+      KATIE🥊
     bio: >-
-      Denver
+      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
     location: "United States"
-    followers: 7567
-    engagement: 516
-    commentsToLikes: 0.046894
-    id: ck6u3vnpx05ha0j714owqcnco
+    followers: 74597
+    engagement: 2547
+    commentsToLikes: 0.009460
+    id: cl4ipwlnnsa1u0i23nwgkjc0b
     verified: false
-    hashtags: "#nikesonmyfeet, #revolveme, #diffpartner, #hbtsociety6gifts"
-  - username: "joshdavistattoos"
+    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
+  - username: "danaoliivia"
     fullname: >-
-      Josh Davis
+      Dana Olivia
     bio: >-
-      By Appointment Denver City Tattoo Club Denver, CO. To book an Appointment Email 📩 JDavisTattoos@gmail.com F🔒
+      fashion, beauty, lifestyle Denver, CO🪐🖤💫🎲 💌danaoliivia@gmail.com
     location: "United States"
-    followers: 37965
-    engagement: 189
-    commentsToLikes: 0.010484
-    id: ck5zot8wlra970i14c117ovok
+    followers: 7496
+    engagement: 415
+    commentsToLikes: 0.154748
+    id: ckwbef71akzmq0j23297hxcgr
     verified: false
-    hashtags: "#denver"
+    hashtags: "#shesfarout, #discoverunder5k, #mypublicgoods, #fashionfury"
+  - username: "myrandainthemountains"
+    fullname: >-
+      Myranda • Solo Hiking + Travel • Colorado Content Creator
+    bio: >-
+      📍 Denver 🥾 Hiking, camping, + off-roading fan 🏔 Helping you plan your outdoor adventures 💌 MyrandaintheMountains@gmail.com
+    location: "United States"
+    followers: 17514
+    engagement: 233
+    commentsToLikes: 0.168168
+    id: cl7lda36evj280i23lenfb9xy
+    verified: false
+    hashtags: "#hikewithmike"
+  - username: "chlobellexx"
+    fullname: >-
+      Chloe | Creator
+    bio: >-
+      2023 Bride to be 💍 Places to see, what to wear and what to drink! ✈️💃🏼 💌chlobellexx@gmail.com 📍Denver Shop my looks + REVOLVE faves below!
+    location: "United States"
+    followers: 28263
+    engagement: 229
+    commentsToLikes: 0.099735
+    id: ck5zio1r5g2ik0i14vbdlrxg4
+    verified: false
+    hashtags: "#falloutfitinspo, #fallfashion, #winteroutfitideas, #winterootd"
+  - username: "raising_up_wild_things"
+    fullname: >-
+      Natalie
+    bio: >-
+      🌿 nature + art + books wonder-filled education ✨ family adventures 🏔 I make nature journals for kids👇 📍Denver, CO
+    location: "United States"
+    followers: 45419
+    engagement: 138
+    commentsToLikes: 0.057499
+    id: ckrqctzxmikua0j23j9i8cne5
+    verified: false
+    hashtags: "#ayearofoutdoors, #homeschoolroots"
+  - username: "sierraalongi"
+    fullname: >-
+      Sierra Alongi
+    bio: >-
+      Denver, CO 🍃 florida born & tried LA once content creator • skater • having fun ✉️sierramalongi@gmail.com
+    location: "United States"
+    followers: 21890
+    engagement: 90
+    commentsToLikes: 0.012068
+    id: ckap5nr4sch9n0i78vqqqk3ny
+    verified: false
+    hashtags: "#newyear, #mythirdlove, #learningtosnowboard, #tradewindscarmel"
   - username: "ami.redd"
     fullname: >-
       ☆AMI REDD☆
     bio: >-
-      oshs xc t&f 23’ snap//ami.redd denver ⇾ ocean springs
+      denver -> ocean springs
     location: "United States"
-    followers: 2514
-    engagement: 2770
-    commentsToLikes: 0.173596
+    followers: 2622
+    engagement: 2758
+    commentsToLikes: 0.171890
     id: ck6ua4fsy1fay0j71131dq90p
     verified: false
-    hashtags: "#lovemyteam, #girlswhoride, #2020, #crashtestdummy"
+    hashtags: "#girlswhoride, #vos2020, #2020, #hoco2k19"
   - username: "supdaily"
     fullname: >-
       Chris Thompson
     bio: >-
-      🐶 #DogDad 💪 #Motivator 💻 #twitchpartner 📍 #denver PO Box - 1766 West 46th Ave. #11284 Denver, CO 80211
+      🐶 #DogDad 💪 #Motivator 🎵 1+ million on Tiktok 📧 supdaily@thesocialstrategy.us PO Box - 1766 West 46th Ave. #11284 Denver, CO 80211
     location: "United States"
-    followers: 87246
-    engagement: 706
-    commentsToLikes: 0.032400
+    followers: 98223
+    engagement: 669
+    commentsToLikes: 0.033318
     id: ck14koscwqk5a0i19qfzwgj6f
     verified: true
-    hashtags: "#tiktoker, #zion, #denversbest, #twitch"
-  - username: "leisurely.layne"
+    hashtags: "#coloradohikes, #denverinfluencer, #selfcare, #motivation"
+  - username: "un.rooted"
     fullname: >-
-      Emily | Leisurely Layne
+      Emily Grangaard
     bio: >-
-      🌿 #ColorfulColorado Adventures 💐 Faith, Flowers, Fashion 📸 Inspo + Presets: #creatingcolorwithem 📍 Denver, CO 💌 emilylayne111@gmail.com
+      Dimensional Color | Education Airtouch Curly Hair 🔺 Client list Closed Denver CO 🌱 @secondnaturedenver
     location: "United States"
-    followers: 22420
-    engagement: 652
-    commentsToLikes: 0.215412
-    id: ck6tq7dnzpt960j71edvz2bk0
+    followers: 17500
+    engagement: 482
+    commentsToLikes: 0.057703
+    id: ck9wdp613gmko0j78ayr9a2it
     verified: false
-    hashtags: "#walmart, #neutrogenapartner, #neutrogena, #hydroboostbody"
-  - username: "myuglyacne"
-    fullname: >-
-      Hiiii I’m Hayley
-    bio: >-
-      Follow me on my journey to clear skin Acne positivity ✨ Mental Health 🧠 Body positivity 👙 Skin positivity 💛 Acne is ugly, you are not Denver, CO 😀
-    location: "United States"
-    followers: 7608
-    engagement: 999
-    commentsToLikes: 0.084927
-    id: ck5hrssk0vf4a0i1197lxzcxd
-    verified: false
-    hashtags: "#zitsticka, #zittycommitteee, #zittycommittee, #hyperfade"
-  - username: "foreign_laurennn"
-    fullname: >-
-      Lauren Pennington
-    bio: >-
-      LA ✈️📍denver •wifey & goal getter •axo alum + B.A. & M.S. 🎓 •living a 7 day weekend! ☆ let me teach you how ☆ ✟ 📸 ♓︎ 🐾🎶🇦🇷🇨🇺☕️🦋 quiz/shop/tiktok↓
-    location: "United States"
-    followers: 16203
-    engagement: 661
-    commentsToLikes: 0.072854
-    id: ck9hbhy3sgwo60j78rplr7xa7
-    verified: false
-    hashtags: ""
-  - username: "whitneycypert"
-    fullname: >-
-      Whitney
-    bio: >-
-      Hiii! 🥰 plus size fashion + daily life 👗 wife + mom 👨‍👩‍👦 coffee lover + @taylorswift fangirl 😍 📍Denver Shop my faves here:
-    location: "United States"
-    followers: 5913
-    engagement: 999
-    commentsToLikes: 0.086149
-    id: ck8t0uq05te2k0j78tnzzcpxs
-    verified: false
-    hashtags: "#liketkit, #justfabpartner, #gifted, #targetstyle"
-  - username: "emmygazaway"
-    fullname: >-
-      Emmy Gazaway
-    bio: >-
-      ✖️ Denver, CO📍 ✖️ NASM Personal trainer
-    location: "United States"
-    followers: 4222
-    engagement: 3473
-    commentsToLikes: 0.073635
-    id: ck14ib8hvejqu0i19a5k9ilft
-    verified: false
-    hashtags: "#fitgirls, #healthylifestyle, #motivated, #fitcollegestudent"
+    hashtags: "#dimensionalbalayage, #curlyhaircut, #k18hair, #denverbrunette"
 ---

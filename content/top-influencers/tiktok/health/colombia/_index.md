@@ -1,130 +1,118 @@
 ---
-title: Top 10 Health TikTok Influencers In Colombia in 2023
+title: Top 10 Health TikTok Influencers In Colombia In 2023
 description: >-
-  Find top health TikTok influencers in Colombia in 2023. Most popular hashtags: #fyp #colombia #parati #viral.
+  Find top health TikTok influencers in Colombia in 2023. Most popular hashtags: #colombia #fyp #parati #healthy.
 platform: TikTok
-hits: 10
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 10 TikTok influencers like this in Colombia for you to contact.
+hits: 9
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 9 TikTok influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "mariale.franco"
+  - username: "j.p.med"
     fullname: >-
-      Alejandra Franco
+      J.P.MED
     bio: >-
-      Mental health is first
+      MEDICINA 🩺 Acá aprendemos TODOS ⬇️Todas las preguntas importan⬇️
     location: "Colombia"
-    followers: 143600
-    engagement: 715
-    commentsToLikes: 0.018279
-    id: ckc1u60rvyej50j23r3425d3a
+    followers: 6075
+    engagement: 1044
+    commentsToLikes: 0.018327
+    id: ckdnv2hu1o3bp0j23s9w7l4d8
     verified: false
-    hashtags: "#fyp, #colombia, #xyzbca, #comedy"
-  - username: "camilabarbosa_s"
-    fullname: >-
-      Camila
-    bio: >-
-      Colombiana 🇨🇴 Instagram: @camilabarbosa_s 💁🏼‍♀️
-    location: "Colombia"
-    followers: 19200
-    engagement: 457
-    commentsToLikes: 0.029790
-    id: cka0t0v7ynxul0i78u9fydqkr
-    verified: false
-    hashtags: "#bronceado, #argentina, #healthy, #fyp"
+    hashtags: "#healthy, #doctor, #health, #dr"
   - username: "practicalfoodofficial"
     fullname: >-
       Practicalfood
     bio: >-
       No hay tiempo pero amamos la comida deliciosa y práctica. We love practical food
     location: "Colombia"
-    followers: 7981
-    engagement: 740
-    commentsToLikes: 0.022616
+    followers: 8041
+    engagement: 680
+    commentsToLikes: 0.018926
     id: ckbf7o9oaxnv60j234f8g8v0t
     verified: false
-    hashtags: "#easyrecipe, #recetas, #healthy, #trend"
+    hashtags: "#recipe, #omg, #healthy, #receta"
+  - username: "alvinmarquezortega"
+    fullname: >-
+      Alvin Márquez Ortega
+    bio: >-
+      Instagram: @alvinmarquezortega
+    location: "Colombia"
+    followers: 543200
+    engagement: 1174
+    commentsToLikes: 0.023036
+    id: ckbeye7eyitfu0j23n8uo3ex5
+    verified: false
+    hashtags: "#elrey, #colombia, #latinos, #parati"
+  - username: "camilabarbosa_s"
+    fullname: >-
+      Camila
+    bio: >-
+      Colombiana 🇨🇴 Instagram: @camilabarbosa_s 💁🏼‍♀️
+    location: "Colombia"
+    followers: 19000
+    engagement: 533
+    commentsToLikes: 0.025204
+    id: cka0t0v7ynxul0i78u9fydqkr
+    verified: false
+    hashtags: "#latam, #colombia, #fyp, #argentina"
+  - username: "silvyaraujo"
+    fullname: >-
+      Silvyaraujo 
+    bio: >-
+      Follow me on Instagram: @silvyaraujo Youtube: Silvy Araujo
+    location: "Colombia"
+    followers: 401200
+    engagement: 705
+    commentsToLikes: 0.010457
+    id: ckbfc08qe4ha80j239u6sgr6d
+    verified: true
+    hashtags: "#trending, #dance, #fyp, #parejas"
+  - username: "theflowwolf"
+    fullname: >-
+      Sam
+    bio: >-
+      CEO of Breathing. 🌬️🙏💪 Get the Fix Your Posture Program here 👇
+    location: "Colombia"
+    followers: 16600
+    engagement: 288
+    commentsToLikes: 0.028121
+    id: ckb996eput63h0j23tmvsm2he
+    verified: false
+    hashtags: "#taller, #stronger, #workout, #back"
   - username: "erikasepulveda_"
     fullname: >-
       Erika Sepulveda
     bio: >-
       Sígueme en Instagram 👉🏼@erikasepulveda_
     location: "Colombia"
-    followers: 28500
-    engagement: 561
-    commentsToLikes: 0.020838
+    followers: 28300
+    engagement: 472
+    commentsToLikes: 0.016417
     id: ckbfcqcol5p870j23vc96hcmn
     verified: false
-    hashtags: "#workout, #creoqueno, #dias, #mujeres"
-  - username: "laurareales11"
+    hashtags: "#happy, #comedy, #tiktok, #fit"
+  - username: "lividd1"
     fullname: >-
-      Laura Reales 🌱
+      LIVID
     bio: >-
-      El lado random de @vegappetizing IG🤪
+      Diversión
     location: "Colombia"
-    followers: 2277
-    engagement: 656
-    commentsToLikes: 0.009123
-    id: cka7wns3k16ic0i782rjddscy
+    followers: 5119
+    engagement: 1558
+    commentsToLikes: 0.126488
+    id: ckc1vaanmzdlm0j23wm2gk1f8
     verified: false
-    hashtags: "#foryou, #lettering, #backtoschool, #schoolhacks"
-  - username: "theflowwolf"
+    hashtags: "#comida, #voiceeffects, #cover, #parati"
+  - username: "yaigonzalezzz"
     fullname: >-
-      Sam
+      Yai Gonzalez
     bio: >-
-      CEO of Breathing. 🌬️🙏💪 MY FREE TALLER & STRONGER EBOOK & NEWSLETTER 👇
+      Ig: @yaigonzalezzz🇨🇴
     location: "Colombia"
-    followers: 9502
-    engagement: 277
-    commentsToLikes: 0.025165
-    id: ckb996eput63h0j23tmvsm2he
+    followers: 4028
+    engagement: 524
+    commentsToLikes: 0.010152
+    id: ckdhcesgow8db0j23z10g6l2l
     verified: false
-    hashtags: "#back, #scoliosis, #posture, #height"
-  - username: "issavasquez_"
-    fullname: >-
-      Issabela Vásquez
-    bio: >-
-      
-    location: "Colombia"
-    followers: 56200
-    engagement: 571
-    commentsToLikes: 0.003858
-    id: ckbff4qm29m1f0j23m2dqhhb3
-    verified: false
-    hashtags: "#trend, #fy, #fyp, #parati"
-  - username: "haruhi_0"
-    fullname: >-
-      Sheck_?
-    bio: >-
-      Alguien desocupada y con retraso mental.
-    location: "Colombia"
-    followers: 58300
-    engagement: 1950
-    commentsToLikes: 0.031289
-    id: ckdi7rq579tuk0j23mcr1nqdp
-    verified: false
-    hashtags: "#sasunaru, #itachiuchiha, #anime, #sasukeeeee"
-  - username: "1camilat"
-    fullname: >-
-      Emo clown🖤
-    bio: >-
-      Instagram: @cami.lipa🦋 10k ???✨🏳️‍🌈🤡 Q miras sígueme
-    location: "Colombia"
-    followers: 9346
-    engagement: 2530
-    commentsToLikes: 0.031911
-    id: ckdbop2jbb58x0j230fjtsbth
-    verified: false
-    hashtags: "#viral, #lgbt, #lesbians, #colombia"
-  - username: "erikalopez_9002"
-    fullname: >-
-      Erika López
-    bio: >-
-      Si nos cruzamos por la vida ,No me preguntes dónde voy, Mira mis ojos y adivina”
-    location: "Colombia"
-    followers: 23900
-    engagement: 644
-    commentsToLikes: 0.028518
-    id: ckdhf7p23x8hy0j23n07z8716
-    verified: false
-    hashtags: "#fyp, #comediantesdelanoche, #xyzbca, #comedia"
+    hashtags: "#fyp, #colombiana, #colombia, #barranquilla"
 ---

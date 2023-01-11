@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In France in 2023
+title: Top 10 Beauty TikTok Influencers In France In 2023
 description: >-
-  Find top beauty TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #makeup #love.
+  Find top beauty TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #beauty #makeup #skincare.
 platform: TikTok
-hits: 266
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 266 TikTok influencers like this in France for you to collaborate.
+hits: 234
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform has 234 TikTok influencers like this in France for you to work with.
 profiles:
+  - username: "roselucyy"
+    fullname: >-
+      𝑅𝑜𝑠𝑒𝐿𝑢𝑐𝑦🧖🏽‍♀️
+    bio: >-
+      🥖𝐼’𝑚 𝑓𝑟𝑒𝑛𝑐ℎ 🪞beauty, skincare routine💆🏻‍♀️🫐 🍵lucie@influcrew.fr
+    location: "France"
+    followers: 1500000
+    engagement: 2332
+    commentsToLikes: 0.006639
+    id: ckb18k088wgl00j23n9dqzlwk
+    verified: true
+    hashtags: "#beauty, #duo, #asmr, #skincare"
   - username: "dreamygeek"
     fullname: >-
       Dreamy Giirl
     bio: >-
-      ~ 67k 🥳✨ ... 70k 🍀 💋💄Insta :dreamygiirl 💄 💋 ❄️ Beauty - Bath Bombs ❄️
+      ~ 84k 🥳✨ ... 90k 🍀 💋💄Insta :dreamygiirl 💄 💋 ❄️ Beauty - Bath Bombs ❄️
     location: "France"
-    followers: 67600
-    engagement: 2130
-    commentsToLikes: 0.008601
+    followers: 84900
+    engagement: 2222
+    commentsToLikes: 0.007945
     id: ckbkmxhbfgrmv0j23jgpg3pci
     verified: false
-    hashtags: "#bathbombchallenge, #calendrierdelavent, #bathbombtime, #catoftiktok"
-  - username: "richaard2609"
+    hashtags: "#nocibe, #haultiktok, #hauls, #bath"
+  - username: "laura.beautyyy"
     fullname: >-
-      Richard ✨
+      Laura.beautyyy
     bio: >-
-      Beauty guru ✨ IG : Richaard2609 YT : Richaard
+      Instagram : fanti.laura 📷 Snapchat : Laura.beautyyy 👻
     location: "France"
-    followers: 93300
-    engagement: 1572
-    commentsToLikes: 0.014327
-    id: ck8p11rzxjevx0j78qvej3yeb
-    verified: true
-    hashtags: "#makeup, #toujoursplus"
-  - username: "zozoliina.insta"
-    fullname: >-
-      Zozoliina
-    bio: >-
-      Life Style, Beauty , Tutoriel, Enjoy my happy Life !
-    location: "France"
-    followers: 18600
-    engagement: 703
-    commentsToLikes: 0.042104
-    id: ckach9fl6ygny0i787ogxsms5
+    followers: 58100
+    engagement: 371
+    commentsToLikes: 0.021478
+    id: ckajjtpadmvuf0i788hpgjh69
     verified: false
-    hashtags: "#foryoupage, #marseille, #foryou, #pourtoi"
-  - username: "romi.vanila"
+    hashtags: "#challenge, #foryou, #tiktok, #pourtoi"
+  - username: "grainedemagie"
     fullname: >-
-      romi.vanila
+      Mélaine
     bio: >-
-      ✨✨✨ Dance - Beauty - Fun INSTAGRAM —> romi_vanila 📩: romi.vanila@gmail.com
+      Mélaine - Paris✨ Des astuces et du fun 💛 (Bon plan/ lifestyle/ beauty)
     location: "France"
-    followers: 81700
-    engagement: 733
-    commentsToLikes: 0.031160
-    id: ckbbeube03m3e0j23jpo7ocp8
+    followers: 28800
+    engagement: 617
+    commentsToLikes: 0.049353
+    id: ck961e0lhm67n0j783fi7b78q
     verified: false
-    hashtags: "#zoommyface, #parati, #fy, #pourtoi"
+    hashtags: "#vintedfr, #vinted, #recettesimple, #bonneadresse"
   - username: "leadjadja"
     fullname: >-
       Lea Djadja
     bio: >-
       Beauty Inspiration ✨ Fun time 💫 C’est que de l’amour ⭐️ Insta: @lianeanea
     location: "France"
-    followers: 98500
-    engagement: 894
-    commentsToLikes: 0.007069
+    followers: 124000
+    engagement: 941
+    commentsToLikes: 0.005360
     id: ckav70nz5dxvn0j237i88dnlj
     verified: false
-    hashtags: "#pourtoi, #makeuptutorial, #youtubechannel, #confinement"
+    hashtags: "#hairstyle, #dressupchallenge, #outfit, #loveyou"
+  - username: "romi.vanila"
+    fullname: >-
+      romi.vanila
+    bio: >-
+      ✨✨✨ Dance - Beauty - Fun INSTAGRAM —> romi_vanila 📩: romi.vanila@gmail.com
+    location: "France"
+    followers: 94500
+    engagement: 971
+    commentsToLikes: 0.016496
+    id: ckbbeube03m3e0j23jpo7ocp8
+    verified: false
+    hashtags: "#fyp, #pourtoi, #parati, #obsessed"
   - username: "mikhael444"
     fullname: >-
       Mikhael
     bio: >-
       Mikhael Insta m_beauty_fighter Youtube Mikhael Training MMApro Coach sportif
     location: "France"
-    followers: 8937
-    engagement: 1046
-    commentsToLikes: 0.018795
+    followers: 8628
+    engagement: 1071
+    commentsToLikes: 0.018794
     id: ckb9iyw0s9y8f0j23pptgcvv7
     verified: false
-    hashtags: "#security, #duet, #duo, #tuto"
-  - username: "belleputri"
+    hashtags: "#duo, #viral, #tutorial, #tuto"
+  - username: "tylana.fmn"
     fullname: >-
-      Putri Yulandari 🦋
+      Tyty ✨
     bio: >-
-      Travel & Fashion & Beauty 🌍👗 Indo 🇲🇨📍France 🇫🇷 Insta: @putriyulandariii
+      🤍beauty • fashion Ig : tylana.fmn 🕊 Contact.tylanafmn@yahoo.com
     location: "France"
-    followers: 5737
-    engagement: 437
-    commentsToLikes: 0.042471
-    id: ckb9t82ber3se0j239q6mgb9s
+    followers: 12200
+    engagement: 1164
+    commentsToLikes: 0.011813
+    id: ckaiev072u0nq0i78uyatm5q7
     verified: false
-    hashtags: "#travelbucketlist, #travel, #foryou, #france"
-  - username: "militza.yovanka"
-    fullname: >-
-      Militza Yovanka
-    bio: >-
-      Follow me on Instagram for daily content: Militzayovanka Fashion & beauty ✨
-    location: "France"
-    followers: 157500
-    engagement: 667
-    commentsToLikes: 0.010392
-    id: ckbqmx4tf7stm0j239l2w2dso
-    verified: false
-    hashtags: "#fyp, #transformation, #lorealparis, #bodypositivity"
+    hashtags: "#skincare, #ootd, #outfitideas, #pourtoi"
   - username: "yeya_beauty"
     fullname: >-
       Léa Sabatier
     bio: >-
       Passionné de make up et de mode 💅🏼✨ Insta: beauty_make09
     location: "France"
-    followers: 2559
-    engagement: 872
-    commentsToLikes: 0.013892
+    followers: 2607
+    engagement: 862
+    commentsToLikes: 0.005936
     id: ckcdy0ym4gegm0j23wgcu209c
     verified: false
-    hashtags: "#pourtoi, #foryou, #makeup, #make"
+    hashtags: "#foryou, #pourtoi, #makeup, #make"
   - username: "noem.musik"
     fullname: >-
       Noem Off
     bio: >-
       Artiste Chanteuse🎼🎶 Insta//Noem_officiel Snap//Noem_officiel Play on SPOTIFY
     location: "France"
-    followers: 125400
-    engagement: 1997
-    commentsToLikes: 0.057804
+    followers: 124300
+    engagement: 1770
+    commentsToLikes: 0.067932
     id: ckc7skrx9xcl80j23h6qzk876
     verified: true
-    hashtags: "#humour, #singing, #lumieresur, #frenchgirl"
+    hashtags: "#pourtoi, #talent, #chanteuse, #studio"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Madrid in 2023
+title: Top 10 Fitness Instagram Influencers In Madrid In 2023
 description: >-
-  Find top fitness Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #fitness #love #model.
+  Find top fitness Instagram influencers in Madrid in 2023. Most popular hashtags: #fitness #madrid #summer #style.
 platform: Instagram
-hits: 177
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 177 Instagram influencers like this in Madrid, Spain for you to collaborate.
+hits: 132
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 132 Instagram influencers like this in Madrid, Spain for you to work with.
 profiles:
-  - username: "lour_homedes"
+  - username: "daniegm27"
     fullname: >-
-      Lourdes Homedes Ibáñez
+      Dani Garcia
     bio: >-
-      🇪🇸SPANISH MODEL Home Madrid / From Zaragoza 🖥• Economist •Community manager •Web designer 🌈Founder of @mosscomunicacion
+      Murcia/Madrid📍 Versiones de recetas #saludables Cocinero profesional y futuro nutricionista ¡Comer sano y bien! 🍷
     location: "Spain"
-    followers: 61063
-    engagement: 294
-    commentsToLikes: 0.045445
-    id: ck5hoovdppydn0i11r3krg8ga
+    followers: 17082
+    engagement: 594
+    commentsToLikes: 0.050080
+    id: ck8t6t5e1elxa0j78opsz9sy8
     verified: false
-    hashtags: "#fitnessgirl, #modelosespan, #21buttons, #converse"
+    hashtags: "#healthy, #foodgram, #influencer, #lovefood"
+  - username: "marthaldc"
+    fullname: >-
+      Marta Lamamié De Clairac
+    bio: >-
+      📍 Madrid 🇪🇸 @pophouse @francinamodels 🇩🇪 @parsmanagement 🧚🏼 Tita, la eterna Peter Pan.
+    location: "Spain"
+    followers: 8262
+    engagement: 721
+    commentsToLikes: 0.068798
+    id: ckaorjiy4niiu0i78v84m4n7x
+    verified: false
+    hashtags: "#swimwear, #summer, #girl, #happy"
   - username: "pitomag8"
     fullname: >-
       MIGUEL GUEVARA
     bio: >-
       Model. Actor. Fitness. 📍Madrid. 🦚🦚🦚🦚🦚
     location: "Spain"
-    followers: 30357
-    engagement: 727
+    followers: 30179
+    engagement: 734
     commentsToLikes: 0.016665
     id: ck6u7518djivs0j71hva19wpc
     verified: false
-    hashtags: "#amanecer, #soledad, #miedo, #hermosa"
-  - username: "manusoyyo"
+    hashtags: "#happyday, #matrix, #andrewchristianintl, #piense"
+  - username: "deinworkout"
     fullname: >-
-      Manuel Garzón
+      Pedro Otero Talavera
     bio: >-
-      La vida pasa demasiado rápido 👑 el príncipe está aquí🌟👑 Granada-Madrid, la mejor combinación al éxito
+      ▶@underarmour athlete #IWILL ▶Organizador SWUB🏆 ▶ Street workout athlete ▶@teambioco ▶@noccospain athlete
     location: "Spain"
-    followers: 6050
-    engagement: 703
-    commentsToLikes: 0.028083
-    id: ckf5ufvufkr770j23ftu5yxwa
+    followers: 28213
+    engagement: 652
+    commentsToLikes: 0.007839
+    id: ck55ls0f82a0w0i11fpn2su2y
     verified: false
-    hashtags: "#sunny, #instaboy, #sunnyday, #instagood"
-  - username: "linda__8"
+    hashtags: ""
+  - username: "carito_csta"
     fullname: >-
-      Linda Zhu
+      𝓒𝓪𝓻𝓸𝓵𝓲𝓷𝓪 𝓒𝓪𝓼𝓽𝓪ñ𝓸 👑
     bio: >-
-      🌴 #INLINESKATING, #SPORT & #TRAVEL 🌴 📍Madrid, Spain 📧 linndaa8@gmail.com • 5th in Slides World Championship 2018 🏆 ⛸ @sliders.escuela @sebaskates
+      📍Medellín / Colombia💛💙❤ Si crees que mi orgullo es grande, es porque no has visto el tamaño de mi fe. Del corazón de Colombia☕ Manizales💕
     location: "Spain"
-    followers: 32871
-    engagement: 6062
-    commentsToLikes: 0.013388
-    id: ckap22iblx3kg0i78s3hwublq
+    followers: 40516
+    engagement: 1239
+    commentsToLikes: 0.026359
+    id: ck9hcbx8zkosc0j782yieob13
     verified: false
-    hashtags: "#girlsgoneskating, #inlineskating, #skatepark, #sebaskates"
-  - username: "nataliablancomathieu"
+    hashtags: "#blonde, #fitnesslife, #quindio, #ejecafetero"
+  - username: "alejandro__villamizar"
     fullname: >-
-      Nathalia
+      𝓐𝓥𝓖🐊
     bio: >-
-      MADRID 📍 Fitness | Vegetarian | Society Builder Miss Elite COLOMBIA @misseliteworld
+      🇪🇸/🇨🇴 💥 TIKTOK: Alejandro.villamizar +900k 😏 Subo contenido muy LOCO 📍 Madrid/Malaga 📥 avillagarcia262@gmail.com
     location: "Spain"
-    followers: 21128
-    engagement: 850
-    commentsToLikes: 0.019752
-    id: ck55ps8v1b9ot0i116c417lih
+    followers: 38610
+    engagement: 2676
+    commentsToLikes: 0.020044
+    id: ck8wgajlyh0d70j786ley7ceq
     verified: false
-    hashtags: "#felizindependencia, #11denoviembre, #putyourrecordson, #andthemasktoo"
-  - username: "zabdielnayz"
+    hashtags: "#liketime, #fitmodel, #photographyoftheday, #broma"
+  - username: "teambioco"
     fullname: >-
-      Z A B D I E L  N A Y Z
+      TB - TEAM BIOCO
     bio: >-
-      Mr. Gay Pride España 2019 🏳️‍🌈 "No necesito grandes condiciones físicas para hacer mi arte con el corazón" 🇻🇪/🇪🇸♋️ 🦄 contacto: Info@jnglobalproject.es
+      🌍 Stronger together 🤝 @underarmour 🎥 Charlando con Bioco Ep.2 FEDE AK47 (kick boxing)
     location: "Spain"
-    followers: 14549
-    engagement: 533
-    commentsToLikes: 0.032717
-    id: ck6ufkdwtxksn0j71fyijsb3j
+    followers: 19150
+    engagement: 514
+    commentsToLikes: 0.006761
+    id: ck55lrxju29tn0i11m2ju16nq
     verified: false
-    hashtags: "#fitnesslife, #outfit, #sexy, #photo"
-  - username: "yaxminayas"
+    hashtags: "#teambioco, #streetworkout, #theonlywayisthrougth, #calistenia"
+  - username: "veronica_romero_vero"
     fullname: >-
-      YASMINA
+      Veronica Romero - Vero
     bio: >-
-      MA Abogacía ✍🏼 URRAZA, MENDIETA & Asociados Criminal law - Drcho. penal, penitenciario y militar. From Alicante | 📍Madrid, Spain
+      Contratación España: 📩 contratacion@veronicaromero.es Internacional: 📩 davidjproducer@gmail.com ⬇️ Página web ⬇️
     location: "Spain"
-    followers: 4203
-    engagement: 1537
-    commentsToLikes: 0.026917
-    id: ck5ztpgma0vr70i14wcftvaq4
-    verified: false
-    hashtags: "#bikini, #beach, #strongwomen, #workout"
-  - username: "edu.llorente"
-    fullname: >-
-      Eduardo Llorente E.
-    bio: >-
-      🌍VALLADOLID✈️CORDOBA🛩️BAEZA🛸MADRID🌎 🏋️Fitness🏋️ 👊Artes Marciales👊
-    location: "Spain"
-    followers: 6284
-    engagement: 1458
-    commentsToLikes: 0.021021
-    id: ck14irmoigvod0i19v6t7r6lt
-    verified: false
-    hashtags: "#holiday, #sleep, #instalike, #fun"
-  - username: "jpastranabox"
-    fullname: >-
-      Joana Pastrana
-    bio: >-
-      🥇🥇🥇3x World Champion / Team: @guantesdelobo @___nicogp___ / Ambassador: @oysho & @pprimor & @laligasportstv & @capitanmanispain & @ssangyong_life
-    location: "Spain"
-    followers: 27364
-    engagement: 894
-    commentsToLikes: 0.032914
-    id: ck14lj6ujuydj0i19g07dfugt
+    followers: 66480
+    engagement: 119
+    commentsToLikes: 0.049585
+    id: ck5q6hj4bxewl0i119z3wa339
     verified: true
-    hashtags: "#boxing, #girl, #fighter, #fight"
-  - username: "javierbalboa"
+    hashtags: "#autoayuda, #books, #heslthylifestyle, #inspiracion"
+  - username: "salvagrc"
     fullname: >-
-      Balboa
+      𝕾𝖆𝖑𝖛𝖆𝖉𝖔𝖗 𝕲𝖆𝖗𝖈𝖎́𝖆
     bio: >-
-      Amante de mis tres hijos. 📍Madrid. 📺 @elchiringuitotv y @dazn_es 📻 @radio_marca ⚽️ @rsdalcala_oficial 👨🏾‍💼@footfeelsports Twitter: @javibalboa85
+      🎬| @wantedagency 📸| @thepremiumink 📩| salvagv31@gmail.com
     location: "Spain"
-    followers: 45871
-    engagement: 530
-    commentsToLikes: 0.016793
-    id: ck5zzloi6byzi0i14kfhy061r
-    verified: true
-    hashtags: "#football, #instagood, #goodvibes, #life"
+    followers: 27711
+    engagement: 504
+    commentsToLikes: 0.043816
+    id: ck5zzqxsvc9ei0i14j273kmo8
+    verified: false
+    hashtags: "#madrid, #style, #fitness, #model"
+  - username: "richarddicorsa"
+    fullname: >-
+      RICCARDO
+    bio: >-
+      📍ᴍᴀᴅʀɪᴅ, 🇪🇸 👮🏻‍♂️FCS / PMM ʜᴇ ᴅᴇsᴄᴜʙɪᴇʀᴛᴏ ʟᴏ ɪɴᴠᴇɴᴄɪʙʟᴇ ǫᴜᴇ ᴇs ᴇʟ ʜᴏᴍʙʀᴇ ǫᴜᴇ sᴏʟᴏ ᴛɪᴇɴᴇ sᴜ ᴀᴍᴏʀ ᴘᴀʀᴀ ʟᴜᴄʜᴀʀ ᴄᴏɴᴛʀᴀ ᴇʟ ᴍᴜɴᴅᴏ.
+    location: "Spain"
+    followers: 13131
+    engagement: 558
+    commentsToLikes: 0.031113
+    id: ck0u0i24htrzd0i19rmy1iyt9
+    verified: false
+    hashtags: "#policia, #blackandwhite, #me, #style"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Chile in 2023
+title: Top 10 Food TikTok Influencers In Chile In 2023
 description: >-
   Find top food TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #chile #parati #food.
 platform: TikTok
 hits: 19
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 19 TikTok influencers like this in Chile for you to work with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 19 TikTok influencers like this in Chile for you to work with.
 profiles:
   - username: "vegana_con_castanas"
     fullname: >-
@@ -13,24 +13,48 @@ profiles:
     bio: >-
       Mi cuenta de dibujos otaku es @romimcam Ig: vegana_con_castanas
     location: "Chile"
-    followers: 5820
-    engagement: 892
-    commentsToLikes: 0.012328
+    followers: 5951
+    engagement: 1070
+    commentsToLikes: 0.016673
     id: ckc36qjl7vm8l0j230l970aei
     verified: false
-    hashtags: "#vegan, #food, #foodlover, #tutorial"
-  - username: "healthydelight"
+    hashtags: "#veganismo, #recetas, #loquecomoenundiavegano, #foodie"
+  - username: "ro_bless_"
     fullname: >-
-      🍎🍓🥥🍊🥝🍒🍌🍑🥭🍇
+      ro_bless_
     bio: >-
-      QUÉ COMO EN UN DÍA🍒
+      Estudiante de Odontología- 20 años 😅 Recetas y humor 🙌🏻🍕
     location: "Chile"
-    followers: 12900
-    engagement: 1082
-    commentsToLikes: 0.013896
-    id: ckdc6lua1hg330j2323po4xte
+    followers: 51100
+    engagement: 806
+    commentsToLikes: 0.017289
+    id: cka6d74x16vi10i785b2x56dz
     verified: false
-    hashtags: "#healthy, #recetasaludable, #receta, #saludable"
+    hashtags: "#foryou, #food, #chile, #recetafacil"
+  - username: "dannceb"
+    fullname: >-
+      Dannceb
+    bio: >-
+      #quedateEncasa 📍Algún lugar del mundo Conoces 👉🏽 @idolopizza 🍕?
+    location: "Chile"
+    followers: 7939
+    engagement: 752
+    commentsToLikes: 0.021920
+    id: cka7nqd6iy7rv0i78cajepox6
+    verified: false
+    hashtags: "#foryou, #parati, #sigueme, #food"
+  - username: "fallenbaby"
+    fullname: >-
+      Jose Pablo Leizgold
+    bio: >-
+      META: 500K The best country of Chile 🇨🇱 Mail: josepabloleizgold@gmail.com
+    location: "Chile"
+    followers: 397600
+    engagement: 2263
+    commentsToLikes: 0.029380
+    id: ckcovjvd394t90j23ko4kziob
+    verified: false
+    hashtags: "#anime, #aot, #naruto, #humor"
   - username: "panconpaltax123"
     fullname: >-
       Flo Klein
@@ -42,89 +66,65 @@ profiles:
     commentsToLikes: 0.068268
     id: cka0kfno4mghs0i78il467vt9
     verified: false
-    hashtags: "#parati, #caradeshock, #yoenlafiesta, #clasesonline"
-  - username: "titan.cat"
+    hashtags: "#yoenlafiesta, #fyp, #chile, #caradeshock"
+  - username: "arlunatica"
     fullname: >-
-      Titan the Cat
+      camila poblete kroll
     bio: >-
-      Soy Titán, un siamés Seal Point glotón y juguetón 😸🇨🇱Instagram: titanthecat18
+      🐭Vegan🌱✨ ✨🏳️‍🌈✨
     location: "Chile"
-    followers: 353500
-    engagement: 2172
-    commentsToLikes: 0.011321
-    id: ckac6zkbhegmm0i78v863wb7p
+    followers: 4838
+    engagement: 1388
+    commentsToLikes: 0.028771
+    id: ckd05wq8da17n0j23f6dwjq3w
     verified: false
-    hashtags: "#funny, #siamese, #foryou, #chile"
+    hashtags: "#woman, #fyp, #feminista, #vegan"
+  - username: "yuuki.sweet"
+    fullname: >-
+      Yuuki Sweet
+    bio: >-
+      🎀 Cosplayer/Cositas Kawaii🌸 /Sanrio lover 💖/ 🇨🇱 Insta: @yuuki.sweet
+    location: "Chile"
+    followers: 14400
+    engagement: 1742
+    commentsToLikes: 0.023629
+    id: ckb9nwe77hsx00j23rfxlzajr
+    verified: false
+    hashtags: "#miku, #cosplay, #travel, #hellokitty"
   - username: "francisca_valenzuela01"
     fullname: >-
       Fran Valenzuela🌱
     bio: >-
-      Zoi vegan y embeces canto🌱🇨🇱 (60k?) 19 Instagram: francisca_valenzuela01
+      Zoi vegan y embeces canto🌱🇨🇱 (60k?) ella/she/her🌈 19
     location: "Chile"
-    followers: 58800
-    engagement: 1598
-    commentsToLikes: 0.029462
+    followers: 60900
+    engagement: 1539
+    commentsToLikes: 0.021720
     id: ckdsv058jpyq20j23iuaqwjwq
     verified: false
-    hashtags: "#tiktok, #humor, #viral, #chile"
+    hashtags: "#prueba, #chile, #tiktokchile, #foryou"
   - username: "m4rgarita"
     fullname: >-
       margarita naveillan
     bio: >-
-      Lil nav 17🇨🇱
+      Lil nav 18
     location: "Chile"
-    followers: 4585
-    engagement: 1003
-    commentsToLikes: 0.048940
+    followers: 4445
+    engagement: 1143
+    commentsToLikes: 0.048608
     id: ck9f1umboa67q0j78u7v1x0zk
     verified: false
-    hashtags: "#fyp, #chile, #fy, #foryoupage"
-  - username: "gustavocabrera_"
-    fullname: >-
-      Gustavo Ignacio
-    bio: >-
-      Periodista, a veces hago vídeos. Antofagasta, CL 🇨🇱🌅🤠🌱 ig: @gustavocabrera_
-    location: "Chile"
-    followers: 2734
-    engagement: 485
-    commentsToLikes: 0.040044
-    id: ckb9tgmvdrh8z0j23fo2hyy2w
-    verified: false
-    hashtags: "#tiktokchile, #cuarentena, #fyp, #covid19"
+    hashtags: "#argentina, #foryoupage, #foryou, #harrystyles"
   - username: "mati.channel_"
     fullname: >-
       ᴍᴀᴛɪ ✌🏻
     bio: >-
       MI PROPIO REALITY 😎 Cuento cosas de mi vida 😳 #storytime #Kpop #Friends
     location: "Chile"
-    followers: 71400
-    engagement: 1828
-    commentsToLikes: 0.011052
+    followers: 72800
+    engagement: 1681
+    commentsToLikes: 0.012105
     id: ckd6hlchpa2pw0j238hgubf5g
     verified: false
-    hashtags: "#top5, #docurreality, #chile, #dato"
-  - username: "jotapizarro"
-    fullname: >-
-      Jota Pizarro
-    bio: >-
-      🎬 Recetas fáciles pal’ hogar 🍹 27, 🇨🇱 📩 contacto@jotapizarro.com
-    location: "Chile"
-    followers: 367100
-    engagement: 1368
-    commentsToLikes: 0.010350
-    id: ckbeyn390j8l30j23jzm2fiwm
-    verified: false
-    hashtags: "#recetascheck, #sinalcohol, #foryoupage, #tutorial"
-  - username: "dimeleunam"
-    fullname: >-
-      Leunam Jerais
-    bio: >-
-      Para ir a mi Instagram ☝🏾 Descarga una app👇🏾
-    location: "Chile"
-    followers: 257100
-    engagement: 1442
-    commentsToLikes: 0.009452
-    id: ckc2z8lt7q74b0j2395mzyqon
-    verified: false
-    hashtags: "#chiste, #dinero, #chile, #marketing"
+    hashtags: "#docurreality, #storytime, #chile, #fyp"
 ---

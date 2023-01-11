@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Greece in 2023
+title: Top 10 Mothers Instagram Influencers In Greece In 2023
 description: >-
-  Find top mothers Instagram influencers in Greece in 2023. Most popular hashtags: #athens #tb #greece #greeksummer.
+  Find top mothers Instagram influencers in Greece in 2023. Most popular hashtags: #greece #giveawaygr #giveaway #giveawaysgreece.
 platform: Instagram
-hits: 131
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 131 Instagram influencers like this in Greece for you to pitch.
+hits: 81
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 81 Instagram influencers like this in Greece for you to contact.
 profiles:
   - username: "sissychristidou"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       • Mother of Dragons • Travel Addict • Digital Content Creator • TV hostess @ela_xamogela @opentvgr • Youtuber #Megalokanalo Latest Video👇🏻
     location: "Greece"
-    followers: 862140
-    engagement: 872
-    commentsToLikes: 0.399906
+    followers: 867709
+    engagement: 685
+    commentsToLikes: 0.315222
     id: ck0w1rw69ktop0i19hef4fpwj
     verified: true
-    hashtags: "#nameday, #youtube, #menoumespiti, #round2"
-  - username: "thisissivylla"
+    hashtags: "#christmasgifts, #efoodgr, #diplis, #giveaway"
+  - username: "themomdiary"
     fullname: >-
-      Sivylla
+      The Mom Diary - Greek Family
     bio: >-
-      Public Relations aficionado Beauty | Motherhood | Lifestyle Mama of #2under2 👧🏼👶🏼 Baby No3 on the way 🍼
+      Meggie Greek/Canadian Mom of 2 boys Raw motherhood🤱 Lifestyle 🕶 Wellness🌿 Selfcare💗 Mental health⚖️ Traveling ✈️ YouTube👇
     location: "Greece"
-    followers: 74779
-    engagement: 432
-    commentsToLikes: 0.910259
-    id: ck0w2zrg6qx2i0i19f2m2qke1
+    followers: 11576
+    engagement: 953
+    commentsToLikes: 0.122528
+    id: ck5q40ewhn6qm0i113xdjlzan
     verified: false
-    hashtags: "#round3, #preggo, #ariadne, #giveaway"
+    hashtags: "#greeklifestyle, #greeksummer, #greekfamily, #greekbeaches"
+  - username: "annie_pantazi"
+    fullname: >-
+      Annie Pantazi
+    bio: >-
+      • Olympic Champion in Rhythmic Gymnastics-Athens 2004 🇬🇷 • Special Olympics Global Ambassador RG • Mother 👩‍👧 • @filathlitikos_kallitheas 🤸🏼‍♀️
+    location: "Greece"
+    followers: 26531
+    engagement: 1351
+    commentsToLikes: 0.082056
+    id: ck0w1f88lj1jm0i196qqrcmuk
+    verified: false
+    hashtags: "#mygirl, #greece, #happymoments, #tartibeach"
   - username: "korina_koumantaki"
     fullname: >-
       Korina Koumantaki
     bio: >-
       Style addict In search for beautiful things,places,people. Wife&mother of 3 Contact me 📩 Do not waste any day of your life!🎀💖💝
     location: "Greece"
-    followers: 5475
-    engagement: 1596
-    commentsToLikes: 0.185103
+    followers: 5644
+    engagement: 993
+    commentsToLikes: 0.141864
     id: ck13b37v3tg910i192ek9jjid
     verified: false
-    hashtags: "#athens, #kkstyle, #myisland, #travelblogger"
-  - username: "fragakimaria"
-    fullname: >-
-      ᗰᗩᖇIᗩ ᖴᖇᗩGᗩKI ✨
-    bio: >-
-      ▪️𝐉𝐨𝐮𝐫𝐧𝐚𝐥𝐢𝐬𝐭 ▪️𝐓𝐯 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐞𝐫 ▪️𝐑𝐚𝐝𝐢𝐨 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐭𝐲 📻 @easy972gr 🌐 @thriveglobalgreece 📍Antenna Group Greece ⌨️ www.mother.gr 🇬🇷 Athens
-    location: "Greece"
-    followers: 34646
-    engagement: 362
-    commentsToLikes: 0.084007
-    id: ck0u8f76m77xf0i19u48xf18b
-    verified: false
-    hashtags: "#mylove, #easy972, #sundays, #summer2020"
-  - username: "themomdiary"
-    fullname: >-
-      The Mom Diary - Greek Family
-    bio: >-
-      Meggie Greek/Canadian 🇬🇷🇨🇦 Mom of two boys 👬 Co-founder of @katina.creations Motherhood🤱 Lifestyle 🕶 Mind-Body-Soul 💗 Travel lover ✈️ YouTube 👇
-    location: "Greece"
-    followers: 7789
-    engagement: 984
-    commentsToLikes: 0.138028
-    id: ck5q40ewhn6qm0i113xdjlzan
-    verified: false
-    hashtags: "#momoftwo, #greekbeaches, #momofboys, #greekfamily"
-  - username: "barolalia"
-    fullname: >-
-      Lia Barola️ ~𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿
-    bio: >-
-      𝗦𝘁𝘆𝗹𝗶𝘀𝘁 𝗱𝗶𝗿𝗲𝗰𝘁𝗼𝗿 🤍 Lifestyle/ travel/ fashion influencer Blogger @likewomangr Mother of two 👩🏽‍🤝‍👨🏾 📩 liamparola@yahoo.gr
-    location: "Greece"
-    followers: 34061
-    engagement: 383
-    commentsToLikes: 0.018589
-    id: ck55oumhu960q0i11hnm0ty5z
-    verified: false
-    hashtags: "#dress, #goodvibes, #staysafe, #tb"
-  - username: "nikolettaralli"
-    fullname: >-
-      Nikoletta Ralli
-    bio: >-
-      • Owner @nikolettascloud • Tv hostess • Lifestyle blogger @queengr • Mother 👶🏻🐶 #LoveLaughLivegr Athens
-    location: "Greece"
-    followers: 301177
-    engagement: 394
-    commentsToLikes: 0.060449
-    id: ck6tzs5vqbjj70j71njl9ms9u
-    verified: true
-    hashtags: "#throwback, #cybex, #becybex, #tbt"
-  - username: "jordan_genidogan"
-    fullname: >-
-      Jordan Genidogan
-    bio: >-
-      From Greece🇬🇷 Mother agency : @vnmodels/@vassovn 🇬🇧@stormmodels 🇮🇹@dmanagementgroup 🇨🇭 @metromodelagency 🇺🇸@musemennyc
-    location: "Greece"
-    followers: 6916
-    engagement: 1811
-    commentsToLikes: 0.009179
-    id: ck5hrlmpbv2k80i11c0gohb89
-    verified: false
-    hashtags: "#backstage, #s20, #tb, #faces"
-  - username: "lillamolnar99"
-    fullname: >-
-      Lilla Molnar
-    bio: >-
-      🇭🇺Highlight Models (mother agency) michaela@highlightmodels.hu
-    location: "Greece"
-    followers: 8833
-    engagement: 2187
-    commentsToLikes: 0.002440
-    id: ck0ue3qrhkjgk0i19lfswap6z
-    verified: false
-    hashtags: "#amazing, #greece, #shooting, #kerenyivirag"
+    hashtags: "#vacationmode, #greekislands, #holidaysingreece, #kythnos"
   - username: "ster_eleni"
     fullname: >-
       🎀Eleni Ster🎀
     bio: >-
-      | Mother 👶🏻 👶🏻| Alex`s Wife | Fitness | Friends | Fashion | Lifestyle | Makeup | Nails | UH |
+      | Mother 👶🏻 👶🏻| Alex`s Wife | Fitness | Friends | Fashion | Lifestyle | Makeup | Nails | UH | OWNER OF ‘KARMA BY ELENI STER’ limited collections
     location: "Greece"
-    followers: 68393
-    engagement: 1626
-    commentsToLikes: 0.073842
+    followers: 82902
+    engagement: 1745
+    commentsToLikes: 0.076681
     id: ck6tspc4s628n0j71mqeapn3a
     verified: false
-    hashtags: "#goldenhour, #akpnest, #ster, #mickaelkors"
+    hashtags: "#ster, #karmabyelenister, #myfrezyderm, #menswimwear"
+  - username: "nikolettaralli"
+    fullname: >-
+      Nikoletta Ralli
+    bio: >-
+      • Mother 👶🏻🐶 • Tv hostess 📺 • Sailor @karma_sailing ⛵️ • Lifestyle blogger @queengr 🧚🏻‍♀️ #LoveLaughLivegr Athens
+    location: "Greece"
+    followers: 306139
+    engagement: 276
+    commentsToLikes: 0.004718
+    id: ck6tzs5vqbjj70j71njl9ms9u
+    verified: true
+    hashtags: "#visitgreece, #alwaysgreece, #horse, #kiriakistoxorio"
+  - username: "littlethings.sweetlife"
+    fullname: >-
+      𝘓𝘪𝘵𝘵𝘭𝘦𝘛𝘩𝘪𝘯𝘨𝘴.𝘚𝘸𝘦𝘦𝘵𝘓𝘪𝘧𝘦
+    bio: >-
+      @avg.angel 🧸 #GirlMom to #AmiraAndAmelia✨ Motherhood | Holiday Magic | Fashion | Lifestyle #LittleThingsSweetLife #ItsTheLittleThings @newmodel_kids
+    location: "Greece"
+    followers: 16449
+    engagement: 1176
+    commentsToLikes: 0.625472
+    id: ck8t9e9xfnrsd0j78p1qa2xn5
+    verified: false
+    hashtags: "#mommylife, #giveawaysgr, #littlethingssweetlife, #momlife"
+  - username: "africaprz"
+    fullname: >-
+      África Pérez
+    bio: >-
+      Mother agency @viewmanagement 🇩🇪 @pma_models 🇮🇹 @whynotmodels 🇬🇷 @ace_models_athens 📍Athens
+    location: "Greece"
+    followers: 2509
+    engagement: 1332
+    commentsToLikes: 0.040361
+    id: ck6uaiowa3s4f0j71yistlt05
+    verified: false
+    hashtags: "#modelstyle, #blackandwhite, #photography, #photoshoot"
+  - username: "pi_hbp"
+    fullname: >-
+      Mother of Three
+    bio: >-
+      M i n i m a l i s m 🕊 Motherhood, Fashion & Beauty
+    location: "Greece"
+    followers: 10557
+    engagement: 849
+    commentsToLikes: 0.566344
+    id: ck5q403u1n5eq0i112ipr5mor
+    verified: false
+    hashtags: "#kidsfashion, #giveawaygr, #giveawayhellas, #sonandmom"
+  - username: "maradarmousli"
+    fullname: >-
+      Mara Darmousli
+    bio: >-
+      •Actress •Model •Acrobat...Wife •Mother •Zookeeper
+    location: "Greece"
+    followers: 26189
+    engagement: 558
+    commentsToLikes: 0.054941
+    id: ck8t0aqdorf8f0j78oacl8z1s
+    verified: false
+    hashtags: "#quarantinedays, #glyfadabeach, #mara, #maradarmousli"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United States in 2023
+title: Top 10 Beauty TikTok Influencers In United States In 2023
 description: >-
-  Find top beauty TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top beauty TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #foryou #disney.
 platform: TikTok
-hits: 8911
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 8911 TikTok influencers like this in United States for you to connect with.
+hits: 7068
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat has 7068 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "beauty"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Beauty 💄 Fashion 👗 Lifestyle 💁🏻‍♀️ Pop Culture 📰
     location: "United States"
-    followers: 138400
-    engagement: 933
-    commentsToLikes: 0.006315
+    followers: 136800
+    engagement: 1015
+    commentsToLikes: 0.005391
     id: ck9ewzh7sp3lc0j786j4zba38
     verified: false
-    hashtags: "#makeuphacks, #summer2020, #beautyhack, #beautytips"
-  - username: "foreverfosterr"
+    hashtags: "#beautyhack, #style, #makeuphacks, #skincare"
+  - username: "naturallycolorfulbabe"
     fullname: >-
-      Foster 🦋
+      Chicago Cosplayer
     bio: >-
-      I love all you beauties ❤️🖤🤍
+      🦄Welcome to my WORLD❤ Nerd Life/Beauty/Cosplay $Colorfuljazzy 💖New Podcast Ep⤵
     location: "United States"
-    followers: 521600
-    engagement: 2306
-    commentsToLikes: 0.025350
-    id: ckcejuba1svwo0j2305rp620j
+    followers: 23400
+    engagement: 2252
+    commentsToLikes: 0.052231
+    id: ckc91lm2fronk0j23uo0hgtbd
     verified: false
-    hashtags: "#blacklivesmatter, #foryoupage, #foryou"
-  - username: "laynes.life"
+    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+  - username: "lexisroc"
     fullname: >-
-      ✰ layne ✰
+      ✨Alexis✨
     bio: >-
-      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
+      To All Who Come To This Magical Place ✨Welcome✨ IG: lexisroc 70K beauties 💖
     location: "United States"
-    followers: 42400
-    engagement: 2550
-    commentsToLikes: 0.071745
-    id: ckfplcec901cu0j23yd02dkww
+    followers: 76800
+    engagement: 1523
+    commentsToLikes: 0.046760
+    id: ckbbdo6pn2izp0j2342epu47j
     verified: false
-    hashtags: "#closeup, #xyzbca, #fall, #fyp"
-  - username: "akiratalu"
-    fullname: >-
-      Akira
-    bio: >-
-      Truth & Love United God | Beauty | Shenanigans Cash App: $AkiraSW 234-262-0430
-    location: "United States"
-    followers: 49800
-    engagement: 2156
-    commentsToLikes: 0.062795
-    id: ck9nqug8t5gg90j78nu3mvfva
-    verified: false
-    hashtags: "#duet, #christian, #encouragement, #greenscreen"
+    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
   - username: "priyankapahari3"
     fullname: >-
       🔥Prîyàñká🔥
     bio: >-
       ❤️Állóws smîlè☺️ 🥰Sîmplè gîrl🌺🌺 ☺️Ñátûràl Bèàûty🌿 ❤️thàñk û àll Frèñd❤️
     location: "United States"
-    followers: 66400
-    engagement: 2135
-    commentsToLikes: 0.076668
+    followers: 66100
+    engagement: 2076
+    commentsToLikes: 0.080260
     id: ckb15qst8t0eq0j2352o68sgn
     verified: false
-    hashtags: "#tiktokindia, #duet, #tending, #tiktok"
-  - username: "isthatrach"
+    hashtags: "#tiktok, #foryou, #duet, #tidelagaodaaghatao"
+  - username: "missyonmadison"
     fullname: >-
-      Racheal
+      missyonmadison
     bio: >-
-      💃 Here for fun 💃 No DMs | Positivity l Humor l Beauty | Mom 🐎 Kentucky 🐎
+      ✨Blogger + CEO✨ 💍Engaged || LA ⭐️Disney, Fashion, Beauty 💖IG @missyonmadison
     location: "United States"
-    followers: 44000
-    engagement: 1877
-    commentsToLikes: 0.096628
-    id: ckacvsb13p7vv0i78ksxgpudc
+    followers: 55500
+    engagement: 1026
+    commentsToLikes: 0.034864
+    id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#happyhalloween, #oops, #nothankyou, #politics"
+    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
   - username: "cringytoddler"
     fullname: >-
       TiktokikItSaysToddlerButIm18
     bio: >-
       Level/age✨18 Duets👍 Any pronouns 🏳️‍🌈PANSEXUAL🏳️‍🌈 Beauty is in everyone💖
     location: "United States"
-    followers: 13600
-    engagement: 2556
-    commentsToLikes: 0.048809
+    followers: 14300
+    engagement: 2388
+    commentsToLikes: 0.067199
     id: ck9vf7xcu22ha0j78tck9rnuc
     verified: false
-    hashtags: "#voltron, #laith, #pan, #amonguscosplay"
+    hashtags: "#cos, #vld, #keithkogane, #laith"
   - username: "pocket.macro"
     fullname: >-
-      pocketmacro
+      Sam
     bio: >-
-      I love the little things in life, there is beauty all around us!
+      Fun wholesome content showing the beauty that exists all around us in nature 💖
     location: "United States"
-    followers: 54600
-    engagement: 1730
-    commentsToLikes: 0.090444
+    followers: 92900
+    engagement: 1778
+    commentsToLikes: 0.067371
     id: ckba6pqxszt780j2370vflt0h
     verified: false
-    hashtags: "#nature, #halloweenlook, #fixitfelix, #youwantmore"
-  - username: "beautygreene"
+    hashtags: "#sowholesome, #silkie, #nature, #flapjack"
+  - username: "tj87109"
     fullname: >-
-      Beauty Greene
+      tj
     bio: >-
-      Stan bts IM LEGAL LOL afro latina name:beauty
+      #LoveIsJust 💪Mike 🚗Raven 😎Megan 💌Mariah Beauty😍 Smiley CashApp: $TJ87109
     location: "United States"
-    followers: 206900
-    engagement: 2788
-    commentsToLikes: 0.020682
-    id: ckae6x8q9eel60i787eerfjhx
+    followers: 6222
+    engagement: 1650
+    commentsToLikes: 0.155809
+    id: ckc8v35bthph90j2305lzohjq
     verified: false
-    hashtags: "#pov, #timewarpscan"
+    hashtags: "#hmfc, #fyp, #accounttakeover, #mysweetz"
+  - username: "princessuwe"
+    fullname: >-
+      Uwe Westmeier
+    bio: >-
+      Burn Survivor 🙌🏾 ✨Confidence breeds beauty✨ Snap:princessuwe 400k?🥳
+    location: "United States"
+    followers: 385000
+    engagement: 1921
+    commentsToLikes: 0.027833
+    id: ck9v10vs4f0k70j78mujh0g28
+    verified: false
+    hashtags: "#foryou, #colorcustomizer, #xyzbca, #greenscreen"
   - username: "thedisneyland_dame"
     fullname: >-
       Mariel Moreno
     bio: >-
       Vintage , Disney ,beauty .just being myself . Venmo: mariel-Moreno
     location: "United States"
-    followers: 2681
-    engagement: 1380
-    commentsToLikes: 0.080577
+    followers: 2752
+    engagement: 1507
+    commentsToLikes: 0.088118
     id: ckdckqv5cmsaw0j237ofzhosr
     verified: false
-    hashtags: "#cottagecoreaesthetic, #cottagecore, #fashion, #fyp"
+    hashtags: "#makeuproutine, #fyp, #makeup, #transformation"
 ---

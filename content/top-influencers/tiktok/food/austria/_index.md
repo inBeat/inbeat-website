@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Austria in 2023
+title: Top 10 Food TikTok Influencers In Austria In 2023
 description: >-
-  Find top food TikTok influencers in Austria in 2023. Most popular hashtags: #food #foryou #fyp #vienna.
+  Find top food TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #wien #vienna #food.
 platform: TikTok
-hits: 44
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 44 TikTok influencers like this in Austria for you to contact.
+hits: 42
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 42 TikTok influencers like this in Austria for you to contact.
 profiles:
-  - username: "onobox"
-    fullname: >-
-      TheGreenGarden
-    bio: >-
-      Vegan 🌱 Veggie Food Follow us on Instagram ❤️
-    location: "Austria"
-    followers: 9092
-    engagement: 1031
-    commentsToLikes: 0.024640
-    id: ckb9pz75eljij0j23uyq819zg
-    verified: false
-    hashtags: "#foryou, #tiktok, #foodie, #summer"
   - username: "cookingnicky"
     fullname: >-
       nicoleschubert
     bio: >-
-      🇦🇹AUSTRIA|🇵🇪PERU Foodlover 🤓 🍓🍏🍌-Science📚 📝schubert_nicole@gmx.at
+      🇦🇹AUSTRIA|🇵🇪PERU Foodlover 🌶️ 📝schubert_nicole@gmx.at
     location: "Austria"
-    followers: 36800
-    engagement: 698
-    commentsToLikes: 0.012685
+    followers: 60900
+    engagement: 742
+    commentsToLikes: 0.015265
     id: ck9ekx6tw86bc0j78cc9i52iv
     verified: false
-    hashtags: "#stolzsein, #gesundundlecker, #gesunderezepte, #gesundeern"
+    hashtags: "#whatieatinaday, #teiledeinwissen, #abnehemen, #abnehmenmotivation"
   - username: "vic_tori_a19"
     fullname: >-
       Vic_Tori_a19
     bio: >-
-      Hi 👋 Foodblogger 🍦🧁🍪 😊😍
+      Hey Leute 👋🇦🇹 Foodblogger 🍦🧁🍪 Folgt mir auf 📸Insta:austrian__girl
     location: "Austria"
-    followers: 4385
-    engagement: 886
-    commentsToLikes: 0.025533
+    followers: 7594
+    engagement: 510
+    commentsToLikes: 0.047014
     id: ckb9s7i3hpbn30j23l8x98pxr
     verified: false
-    hashtags: "#fd, #fds, #vienna, #keinebezahltewerbung"
-  - username: "carinaberry"
+    hashtags: "#fy, #fiveguys, #produkttester, #fds"
+  - username: "sarahelsiee"
     fullname: >-
-      Carina Berry
+      sarah ⚡️
     bio: >-
-      CEO of flashy food 🍓🍑 From Vienna, Austria 🇦🇹 Follow my Insta! @carina_berry
+      💥🍿 trying food & products fy ✌🏽🔥 🇪🇬 mixed kid 🇦🇹 wien📍
     location: "Austria"
-    followers: 821100
-    engagement: 1319
-    commentsToLikes: 0.003586
-    id: ckavr2em32umc0j233pk2csi4
+    followers: 20400
+    engagement: 651
+    commentsToLikes: 0.023630
+    id: ckdnneoukjyon0j23fbj6s5sp
     verified: false
-    hashtags: "#diy, #foryou, #challenge, #lustig"
-  - username: "saomaile"
+    hashtags: "#makeuptutorial, #bipa, #lashes, #tutorials"
+  - username: "gerid_rux"
     fullname: >-
-      Saomai
+      geridrux
     bio: >-
-      Don't waste your life away!💛 📍 Currently farting in Vienna (Austria🇦🇹)
+      Fitness · Travel · Food Austrian Girl🇦🇹 Folgt mir auf Instagram👇🏼 @gerid_rux
     location: "Austria"
-    followers: 314400
-    engagement: 1736
-    commentsToLikes: 0.012726
-    id: ck8vuzts5kdoz0j781kilnzkc
+    followers: 490500
+    engagement: 596
+    commentsToLikes: 0.010451
+    id: ckb0uvsztk9p00j23sxw4sgft
     verified: false
-    hashtags: "#zatebe, #foryou, #whatieatinaday, #intuitiveeating"
-  - username: "ewatsiakmakis"
+    hashtags: "#wien, #beziehung, #austria, #vienna"
+  - username: "thegreengarden_salzburg"
     fullname: >-
-      ewa
+      TheGreenGarden
     bio: >-
-      fashion, beauty, lifestyle & fooood🤍 follow my IG: ewatsiakmakis vienna
+      Vegan 🌱 Veggie Food Follow us on Instagram ❤️ Our cookbook 📖 is out NOW
     location: "Austria"
-    followers: 26400
-    engagement: 712
-    commentsToLikes: 0.017989
-    id: ckai38ndaj02e0i783silu66w
+    followers: 13500
+    engagement: 530
+    commentsToLikes: 0.010703
+    id: ckb9pz75eljij0j23uyq819zg
     verified: false
-    hashtags: "#vienna, #vlog, #asiashophaul, #shopping"
+    hashtags: "#healthy, #tiktoker, #foodie, #foryourpage"
+  - username: "laurafalquez"
+    fullname: >-
+      Laura Falquez
+    bio: >-
+      ✨Inside a girl’s weird life ✨ This place is something else🔻
+    location: "Austria"
+    followers: 34200
+    engagement: 963
+    commentsToLikes: 0.058847
+    id: ckadb353el7oq0i78fc5gcfqw
+    verified: false
+    hashtags: "#wasserperlen, #viral, #orbeez, #foodtiktok"
+  - username: "sofiyaakb"
+    fullname: >-
+      𝘚𝘰𝘧𝘪𝘺𝘢 🦦
+    bio: >-
+      diary of my life!! 🌯⚡️🦧🥂🇷🇺🇺🇸🇦🇹
+    location: "Austria"
+    followers: 4702
+    engagement: 1119
+    commentsToLikes: 0.007389
+    id: ck9c08tp2o5zt0j78a2xp99mk
+    verified: false
+    hashtags: "#aesthetic, #health, #wien, #vienna"
+  - username: "vegaliciouslysimple"
+    fullname: >-
+      vegaliciouslyeva
+    bio: >-
+      ceo of veganizing 👉🏻 find all my recipes on IG 👈🏻
+    location: "Austria"
+    followers: 45300
+    engagement: 784
+    commentsToLikes: 0.017428
+    id: ck8fayzbb4pvb0j781aatu5db
+    verified: false
+    hashtags: "#veganuary2021, #veganuary, #veganrecipes, #fooddiary"
   - username: "wavysnips"
     fullname: >-
       WavySnips
     bio: >-
       Just posting random trash 25 Graz, Austria IG: moritz_bloder
     location: "Austria"
-    followers: 20200
-    engagement: 981
-    commentsToLikes: 0.020522
+    followers: 20000
+    engagement: 932
+    commentsToLikes: 0.020193
     id: ck9go8yzo079f0j78re81e3ds
     verified: false
-    hashtags: "#lifehack, #fyp, #koch, #food"
-  - username: "the.alchemist1999"
+    hashtags: "#fyp, #viral, #summer, #lifehack"
+  - username: "juliantallier"
     fullname: >-
       Julian (JT)
     bio: >-
       NYC born, Jersey raised 🇺🇸 Vienna, comedy and truth Just For Fun
     location: "Austria"
-    followers: 6181
-    engagement: 737
-    commentsToLikes: 0.024182
+    followers: 5986
+    engagement: 714
+    commentsToLikes: 0.023048
     id: ckcjnhll7ff160j23updw6i0h
     verified: false
-    hashtags: "#viennacity, #comedy, #austrian, #austrianboy"
-  - username: "dalilacooks95"
-    fullname: >-
-      daliila
-    bio: >-
-      🇩🇿| 📍🇦🇹 Recipes on my Instagrampage dalilacooks95✨☺️💖
-    location: "Austria"
-    followers: 2205
-    engagement: 383
-    commentsToLikes: 0.024907
-    id: ckbfj8q86ffr80j234sjjg8u0
-    verified: false
-    hashtags: "#yum, #kitchen, #ramadan, #yummyfood"
-  - username: "amr_hoda_777"
-    fullname: >-
-      HodaAmr
-    bio: >-
-      Travel ✈️ Cars 🏎! 🇦🇹❤️🇪🇬
-    location: "Austria"
-    followers: 3313
-    engagement: 236
-    commentsToLikes: 0.022377
-    id: ckb9i4r1l88aw0j23d82hohis
-    verified: false
-    hashtags: "#pulverdichauf, #tuning, #foodlover, #summer"
+    hashtags: "#viennacity, #review, #food, #comedy"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Los Angeles in 2023
+title: Top 10 Architecture Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top architecture Instagram influencers in Los Angeles in 2023. Most popular hashtags: #architecture #losangeles #california #design.
+  Find top architecture Instagram influencers in Los Angeles in 2023. Most popular hashtags: #architecture #losangeles #design #luxurylifestyle.
 platform: Instagram
-hits: 202
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 202 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 185
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 185 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "majestic_flights"
+  - username: "sarahkjelleren"
     fullname: >-
-      Majestic Flights
+      Sarah Lake Kjelleren
     bio: >-
-      Photography And Films From Around The World. Imagination is more important than knowledge. Please Subscribe on YouTube 4K Films:
+      Social entrepreneur and multimedia artist. 🌱🌳🌊 Do what you can, with what you have, where you are. Think global, act local! 🌻 Founder of GARDEN Studio
     location: "United States"
-    followers: 100916
-    engagement: 122
-    commentsToLikes: 0.079675
-    id: ck9hbqb0ji0j60j789549ir4j
+    followers: 17720
+    engagement: 237
+    commentsToLikes: 0.095201
+    id: ck6tjo5je33hz0j71d3lt3011
     verified: false
-    hashtags: "#astro, #galaxy, #cosmos, #newyork"
+    hashtags: "#vermont, #photography, #paris, #earth"
+  - username: "thecontaineryard"
+    fullname: >-
+      THE CONTAINER YARD
+    bio: >-
+      Gallery, event space, urbanspace, workspace, retail, design… wip
+    location: "United States"
+    followers: 45881
+    engagement: 82
+    commentsToLikes: 0.027040
+    id: ck5cfa9htmk8e0i1196h26vja
+    verified: false
+    hashtags: "#murals, #publicart, #littletokyo, #urbanart"
+  - username: "romandurta"
+    fullname: >-
+      Roman Durta 🇸🇰
+    bio: >-
+      Travel Photography infused with colors 🏠 San Diego 📧 roman.durta@gmail.com ⬇️ Prints | Portfolio | Contact ⬇️
+    location: "United States"
+    followers: 9685
+    engagement: 714
+    commentsToLikes: 0.070610
+    id: ckaosri4vsrzz0i78g9hmd1ii
+    verified: false
+    hashtags: "#earthpix, #visitcalifornia, #sayulita, #agameoftones"
   - username: "karamanndesign"
     fullname: >-
       Kara Mann
     bio: >-
-      Interior Design + Architecture Chicago + Los Angeles Maker @kept.home Text Me 312 847 2023
+      Interior Design + Architecture Chicago + Los Angeles Maker @kept.home Book a consultation with me on @theexpert
     location: "United States"
-    followers: 33947
-    engagement: 176
-    commentsToLikes: 0.052483
+    followers: 40668
+    engagement: 150
+    commentsToLikes: 0.027597
     id: ck5hog0bgphu90i11sjbpwd5n
     verified: true
-    hashtags: "#inspiration, #winnetkaestate, #karamanndesign, #monday"
+    hashtags: "#winnetkaestate, #karamannxcb2, #karamanndesign, #iwd2021"
   - username: "harrisondesign"
     fullname: >-
       Harrison Design
     bio: >-
-      Architecture | Interior Design | Landscape Architecture - Atlanta Los Angeles Naples New York St Simons Santa Barbara Shanghai Washington, DC
+      Architecture | Interior Design | Landscape Architecture Atlanta - Los Angeles - Naples - New York - St Simons - Santa Barbara - Washington, DC
     location: "United States"
-    followers: 35948
-    engagement: 211
-    commentsToLikes: 0.021494
+    followers: 64805
+    engagement: 133
+    commentsToLikes: 0.013758
     id: ck5c7qg6380bn0i11pyzwmix2
     verified: false
-    hashtags: "#photography, #harrisondesignatl, #residentialarchitecture, #interiorarchitecture"
-  - username: "productora_df"
-    fullname: >-
-      PRODUCTORA
-    bio: >-
-      ￼México City based architecture firm￼.
-    location: "United States"
-    followers: 18355
-    engagement: 256
-    commentsToLikes: 0.012047
-    id: ck6uezhs2ty9h0j71glf31duq
-    verified: false
-    hashtags: "#axo, #mexico, #pendrawing, #salonacme"
-  - username: "hecpardo"
-    fullname: >-
-      HecPardo
-    bio: >-
-      Louis Vuitton Communications and Client Relations Director, Mexico, Central America and Caribbean
-    location: "United States"
-    followers: 11005
-    engagement: 627
-    commentsToLikes: 0.064969
-    id: ck600ykneeioh0i14lbvnrfq4
-    verified: false
-    hashtags: "#travelmexico, #popularart, #louisvuitton, #savoirfaire"
-  - username: "deandelray"
-    fullname: >-
-      Dean Delray
-    bio: >-
-      Comedian Actor Podcaster LET THERE BE TALK
-    location: "United States"
-    followers: 47212
-    engagement: 145
-    commentsToLikes: 0.062709
-    id: ck5hjsqylh6t50i11lv05a8hb
-    verified: true
-    hashtags: "#candleslit, #mrbungle, #lettherebetalkpodcast, #handmade"
-  - username: "amandagnwn"
-    fullname: >-
-      Amanda Gunawan
-    bio: >-
-      architecture & design @owiudesign los angeles singapore contact amandagunwn@gmail.com
-    location: "United States"
-    followers: 134375
-    engagement: 148
-    commentsToLikes: 0.012972
-    id: ckap0vur9s1jv0i78tnm0h31d
-    verified: false
-    hashtags: "#keepingsaneinthemembrane, #nonewfriends"
+    hashtags: "#traditionalarchitecture, #renovation, #johnumberger, #architecture"
   - username: "landrydesigngroup"
     fullname: >-
       Landry Design Group
     bio: >-
-      We are a high-end custom residential architecture firm in Los Angeles with projects all over the world. Our new book Modern To Classic II is out now!
+      We are a high-end custom residential architecture firm in Los Angeles with projects all over the world.
     location: "United States"
-    followers: 29403
-    engagement: 134
-    commentsToLikes: 0.014921
+    followers: 29965
+    engagement: 89
+    commentsToLikes: 0.017867
     id: ck5hi8jjfc7eq0i114o40ianv
     verified: false
-    hashtags: "#design, #livingroom, #lighting, #fireplace"
-  - username: "george.townley"
+    hashtags: "#architecturelover, #architecture, #exterior, #inspired"
+  - username: "joshreef"
     fullname: >-
-      George Townley
+      Josh Reef
     bio: >-
-      Celebrating Los Angeles landmarks. Based in London.
+      ⭐️ Realtor @DouglasElliman 📍Los Angeles/Beverly Hills 📺 As Seen on “Extra TV” 🔑 Find/Sell Your Home 📲 (310) 728-9228
     location: "United States"
-    followers: 29399
-    engagement: 1014
-    commentsToLikes: 0.073111
-    id: ck6uetmrwt0wd0j71mdpgat0l
+    followers: 40303
+    engagement: 310
+    commentsToLikes: 0.051240
+    id: ckf5owj1m429z0j234zxw78m8
     verified: false
-    hashtags: "#california, #architecture, #midcentury, #midcenturymodern"
-  - username: "coreysmithsimulacrum"
+    hashtags: "#homedesign, #decorliving, #interiordesigner, #home"
+  - username: "dennischernov"
     fullname: >-
-      Corey Smith
+      Dennis Chernov
     bio: >-
-      Artist. Snowboard shaper. Amateur science fiction writer. @springbreaksnowboarding @donut_shoppe @letthehealingbegin
+      Proud Dad of 2 boys Vincent and Dylan, Married to the most beautiful woman in the world @yanachernov and huge lover of Real Estate. @chernovteam
     location: "United States"
-    followers: 17641
-    engagement: 406
-    commentsToLikes: 0.041281
-    id: ck5cdd26fiymd0i11crrxesfj
+    followers: 57871
+    engagement: 242
+    commentsToLikes: 0.011655
+    id: ck0u70aer3isf0i19dsau5nao
     verified: false
-    hashtags: "#summer, #bonnevillesaltflats, #sequoianationalpark, #sprinter4x4"
+    hashtags: "#modernarchitecture, #luxuryrealestate, #milliondollarlisting, #realestate"
+  - username: "lewildexplorer"
+    fullname: >-
+      Jeanine | Adventure Travel
+    bio: >-
+      ⋆LA based ⋆outdoor adventures ⋆roadtrips ⋆podcast host @ohmytravelpodcast ⋆helping you plan your next off-the-beaten-path adventure travel tips ⤵️
+    location: "United States"
+    followers: 23809
+    engagement: 284
+    commentsToLikes: 0.159102
+    id: ck9wf8qk0nppg0j7864t75duu
+    verified: false
+    hashtags: "#californialife, #californialiving, #californiablogger, #explorecalifornia"
+  - username: "anagavlak"
+    fullname: >-
+      Ana Flávia Gavlak
+    bio: >-
+      Founder of @thegavlaks 🇧🇷 @fordmodelssc 🇺🇸 Mavrick Artists
+    location: "United States"
+    followers: 53930
+    engagement: 147
+    commentsToLikes: 0.029968
+    id: ck0vvytnxrdnb0i19nmp74c8j
+    verified: false
+    hashtags: "#batizadomenina, #view, #latergram, #batizadomariavictoriagr"
 ---

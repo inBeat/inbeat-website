@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Singapore in 2023
+title: Top 10 Food TikTok Influencers In Singapore In 2023
 description: >-
-  Find top food TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #food #foryou #tiktoksg.
+  Find top food TikTok influencers in Singapore in 2023. Most popular hashtags: #sgfoodie #fyp #foryou #tiktoksg.
 platform: TikTok
-hits: 31
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database holds 31 TikTok influencers like this in Singapore for you to collaborate.
+hits: 28
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 28 TikTok influencers like this in Singapore for you to collaborate.
 profiles:
   - username: "douglasokj"
     fullname: >-
       Douglas Ong
     bio: >-
-      singaporean 🇸🇬 food / travel / comedy follow me on IG for a cookie ⬆️
+      🇸🇬 food / trends follow my gram: douglasses
     location: "Singapore"
-    followers: 46500
+    followers: 65300
     engagement: 690
-    commentsToLikes: 0.088738
+    commentsToLikes: 0.094451
     id: ckck2dlaklrt50j231l9bs6a7
     verified: false
-    hashtags: "#uniquirk, #fyp, #tiktoksg, #duet"
-  - username: "fitzpatrickphyllis"
+    hashtags: "#uniquirk, #tiktoksingapore, #douglasong, #fyp"
+  - username: "poptartianacooks"
     fullname: >-
-      Fitzpatrick Phyllis
+      Poptartiana
     bio: >-
-      Can I get 50K followers ? Food & Dessert 🍨
+      Food adventures, and more ✨💃🏻 IG: Poptartianacooks 👧🏻
     location: "Singapore"
-    followers: 55800
-    engagement: 912
-    commentsToLikes: 0.005472
-    id: ckbawb1lbms3r0j23pz4r4afv
+    followers: 9226
+    engagement: 483
+    commentsToLikes: 0.039892
+    id: ckbkthuxtojkq0j23xs7je1oa
     verified: false
-    hashtags: "#cake, #pink, #desifood, #chocolate"
-  - username: "chiouhuey"
-    fullname: >-
-      Chiou Huey
-    bio: >-
-      CEO of expired food
-    location: "Singapore"
-    followers: 13400
-    engagement: 361
-    commentsToLikes: 0.019475
-    id: ckbw5ww2qy4zv0j23khrl2ex9
-    verified: false
-    hashtags: "#fyp, #tiktoksg, #foryou, #foryoupage"
+    hashtags: "#sgfoodie, #udon, #nomnom, #foreo"
   - username: "eatsnapsg"
     fullname: >-
       EatSnapSG
     bio: >-
       Follow me @EatSnapSG on Instagram to follow my food journey.
     location: "Singapore"
-    followers: 12800
-    engagement: 314
-    commentsToLikes: 0.011968
+    followers: 13200
+    engagement: 309
+    commentsToLikes: 0.032277
     id: ckbqs764ad49t0j23xt7ojm17
     verified: false
-    hashtags: "#singapore, #sgfoodie, #hungry, #sgfood"
+    hashtags: "#yummy, #tiktokfoodie, #sgfood, #eatwithme"
+  - username: "fitzpatrickphyllis"
+    fullname: >-
+      Fitzpatrick Phyllis
+    bio: >-
+      Can I get 50K followers ? Food & Dessert 🍨
+    location: "Singapore"
+    followers: 56100
+    engagement: 905
+    commentsToLikes: 0.005187
+    id: ckbawb1lbms3r0j23pz4r4afv
+    verified: false
+    hashtags: "#pink, #foryou, #chocolate, #cakedecorating"
   - username: "zatayayummy"
     fullname: >-
       zatayayummy
     bio: >-
       Food | Recipe | Youtube | Singapore The boy that does baking videos. 😉🍰
     location: "Singapore"
-    followers: 3858
-    engagement: 380
-    commentsToLikes: 0.007504
+    followers: 4407
+    engagement: 361
+    commentsToLikes: 0.008069
     id: ck9jvmlzisw6e0j78d9w56js8
     verified: false
-    hashtags: "#sgfoodie, #recipe, #sgunited, #sgtiktok"
-  - username: "dearalyne"
+    hashtags: "#cake, #sgfoodie, #sgunited, #bakingrecipe"
+  - username: "emmskitchen"
     fullname: >-
-      Dear Alyne
+      emma :)
     bio: >-
-      Follow me on IG for a free unicorn 🦄 Sign up for our digital retreat👇🏼
+      baking! 👩🏻‍🍳 17 | singapore 💌: emmskitchen1@gmail.com
     location: "Singapore"
-    followers: 54800
-    engagement: 1634
-    commentsToLikes: 0.027953
-    id: ckb12op70qxxx0j23kq7gu0wl
-    verified: false
-    hashtags: "#travel, #muslim, #climatechange, #food"
-  - username: "thetouchy"
-    fullname: >-
-      We touch :)
-    bio: >-
-      We touch :)
-    location: "Singapore"
-    followers: 19800
-    engagement: 662
-    commentsToLikes: 0.116157
-    id: ckcujlcy6gjrk0j23xijwf76y
-    verified: false
-    hashtags: "#fyp, #food, #fun, #fingers"
-  - username: "upclosebaking"
-    fullname: >-
-      emma!
-    bio: >-
-      teen baker 👩🏻‍🍳 17 | singapore 💌: bakingcloseups@gmail.com
-    location: "Singapore"
-    followers: 52500
-    engagement: 2414
-    commentsToLikes: 0.014751
+    followers: 72900
+    engagement: 2135
+    commentsToLikes: 0.011368
     id: ckb9qz9q6n8720j23n7tb279o
     verified: false
-    hashtags: "#aesthetic, #breakfast, #baking, #viral"
-  - username: "mothershipsg"
-    fullname: >-
-      Mothership.sg
-    bio: >-
-      The even younger people run this account. 
-    location: "Singapore"
-    followers: 64300
-    engagement: 632
-    commentsToLikes: 0.030544
-    id: ckbqs759rd46u0j23h61yfc6t
-    verified: true
-    hashtags: "#meme, #singapore, #foodie, #foryoupage"
+    hashtags: "#cooking, #ramsayreacts, #aesthetic, #baking"
   - username: "valentwang"
     fullname: >-
       Valent Wang
     bio: >-
-      ⅓🇸🇬 ⅓🤴🏻⅓ ♋️ bit.ly/fcwrvalent
+      ⅓⌚️ ⅓ 🎶 ⅓ 🎥 🍽 🎬 Instagram: @valentwang 非诚勿扰新加坡专场男嘉宾
     location: "Singapore"
-    followers: 32000
-    engagement: 279
-    commentsToLikes: 0.055021
+    followers: 35400
+    engagement: 228
+    commentsToLikes: 0.088950
     id: ckd6gacf48gcn0j23v59bthqd
     verified: false
-    hashtags: "#food, #fyp, #singapore, #foryoupage"
+    hashtags: "#harrypotter, #sgfoodie, #singapore, #fyp"
+  - username: "kelkeltan_"
+    fullname: >-
+      Kelkeltan
+    bio: >-
+      Your internet bestie🍒Clearly cuter on IG & YT🥲 Biz: kelkeltansocial@gmail.com
+    location: "Singapore"
+    followers: 46700
+    engagement: 516
+    commentsToLikes: 0.075167
+    id: ckbqnzsi28ttk0j23saz46gsh
+    verified: false
+    hashtags: "#skin, #skincare101, #sgfoodtrend, #sgfoodie"
+  - username: "the_health_bites"
+    fullname: >-
+      The Health Bites
+    bio: >-
+      +65 🇸🇬 Healthy Tips and Recipes! 🍳 All Recipes Here 👇
+    location: "Singapore"
+    followers: 265200
+    engagement: 445
+    commentsToLikes: 0.004642
+    id: ckbl13yvxy13a0j23zxrntpp4
+    verified: false
+    hashtags: "#sgfoodie, #foodtiktok, #sgtiktok, #yakult"
+  - username: "vincentfoodstagram"
+    fullname: >-
+      VincentFoodStagram
+    bio: >-
+      📷 IG: VincentFoodStagram
+    location: "Singapore"
+    followers: 5663
+    engagement: 528
+    commentsToLikes: 0.025243
+    id: ck81q5ocqg5kx0j78k80rnfer
+    verified: false
+    hashtags: "#foodpandasg, #sgfoodie, #sgfooddelivery, #halalsg"
 ---

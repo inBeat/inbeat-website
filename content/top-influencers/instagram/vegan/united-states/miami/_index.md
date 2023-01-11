@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Miami in 2023
+title: Top 10 Vegan Instagram Influencers In Miami In 2023
 description: >-
-  Find top vegan Instagram influencers in Miami in 2023. Most popular hashtags: #vegan #miami #plantbased #fitness.
+  Find top vegan Instagram influencers in Miami in 2023. Most popular hashtags: #miami #veganmiami #vegan.
 platform: Instagram
-hits: 114
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 114 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 132
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 132 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "plantbasedcurves"
+  - username: "alaina_tsang"
     fullname: >-
-      Plant Based Fitness & Health
+      Alaina Tsang🇯🇲
     bio: >-
-      💃Fitness Girls Motivation💃 💪 🍑Inspiration🍑 Managed by @daedreams Tag us for a feature 🌱#PlantBasedCurves TikTok | Plant Based Curves
+      Life is to be lived, not regretted ❤️♓️ 📍@hiesteemagency 🇯🇲
     location: "United States"
-    followers: 46254
-    engagement: 88
-    commentsToLikes: 0.042160
-    id: ckap12ddjstop0i78e05yhwxg
+    followers: 232107
+    engagement: 231
+    commentsToLikes: 0.041068
+    id: ck5c6xdoq6eaa0i11ixuodghx
     verified: false
-    hashtags: "#vegan, #miami, #plantbasedcurves, #fitness"
-  - username: "biiancaalexx"
-    fullname: >-
-      Bianca Alex 🌱
-    bio: >-
-      📍Miami / 🇵🇷🇫🇷 🎥 YouTube Beauty✖️Fashion✖️Fitness @workouts_by_katya
-    location: "United States"
-    followers: 47819
-    engagement: 338
-    commentsToLikes: 0.050132
-    id: ck5zor1x8r5bk0i148q78lxf5
-    verified: false
-    hashtags: "#mia, #miami, #explore, #miamibeach"
+    hashtags: "#naomisgarden, #healthiswealth, #portal, #signedinfluencer"
   - username: "nataliaavegaa"
     fullname: >-
       NATALIA VEGA
     bio: >-
       Vegan is the new black Ⓥ⠀ Me gusta tomar fotos 📸⠀ 📍Dallas, Texas 🍂
     location: "United States"
-    followers: 7633
-    engagement: 587
-    commentsToLikes: 0.024104
+    followers: 6769
+    engagement: 662
+    commentsToLikes: 0.024373
     id: ck6uc7xdae0hh0j71x8mgeequ
     verified: false
-    hashtags: "#miamibeach, #vegantacos, #veganburger, #veganbreakfast"
+    hashtags: "#calm, #veganmiami, #keybiscane, #greennature"
+  - username: "kandidkinks"
+    fullname: >-
+      Alexia
+    bio: >-
+      Hair | Beauty | Lifestyle 🛍Shop @formykinks ✨Host @southfloridanaturals 💄2021 #ubcollective 📨contact@kandidkinks.com 📍Miami ↘️Latest YouTube Video
+    location: "United States"
+    followers: 25016
+    engagement: 228
+    commentsToLikes: 0.063900
+    id: ck0vwcqiht3zl0i19xdbxgcmz
+    verified: false
+    hashtags: "#4chair, #blackgirlswhotravel, #ubcollective, #blackgirlmagic"
+  - username: "exploramiami"
+    fullname: >-
+      Hi 👋🏻 I’m Eu
+    bio: >-
+      Mi nombre verdadero 👉🏻 Eugenia ¿Que hago? 👉🏻 Explorar #MIAMI 🇺🇸 auténticamente✨ Hi@exploramiami.com
+    location: "United States"
+    followers: 28619
+    engagement: 166
+    commentsToLikes: 0.078152
+    id: ck0w0g2t7e0jq0i19b59mcqq3
+    verified: false
+    hashtags: "#bloggermiami, #exploraflorida, #miamibloggers, #miami"
+  - username: "mrandmrseats"
+    fullname: >-
+      Mr. and Mrs. Eats
+    bio: >-
+      🌎 SOUTH FLORIDA and beyond We only eat the best so you don’t suffer at the rest #mrandmrseats
+    location: "United States"
+    followers: 21298
+    engagement: 175
+    commentsToLikes: 0.113847
+    id: ck15r8taf6q2i0i19oskqd6sz
+    verified: false
+    hashtags: "#eeeeeats, #miamilife, #miamirestaurant, #yummy"
+  - username: "natashaleeds"
+    fullname: >-
+      Natasha Lee-Duhaney
+    bio: >-
+      Digital journey of style, beauty & travel 📍 MIAMI 🇯🇲 💌 hello@natashaduhaney.com
+    location: "United States"
+    followers: 63779
+    engagement: 241
+    commentsToLikes: 0.032925
+    id: ck0u2k8qb030w0i19cx633txc
+    verified: false
+    hashtags: "#natashaleeds, #natashaduhaney, #miamifoodie, #miamifoodblogger"
   - username: "be_leaf_vegan"
     fullname: >-
       Be Leaf
     bio: >-
-      Be Leaf is a vegan wholesale/ retail company of delicious plant-based products that are made from natural Ingredients. P: 626-346-3359
+      Vegan wholesale company of delicious plant-based products made from natural Ingredients. 📸Tag us in your posts for daily features! #be_leaf_vegan
     location: "United States"
-    followers: 24793
-    engagement: 115
-    commentsToLikes: 0.020154
+    followers: 25577
+    engagement: 90
+    commentsToLikes: 0.021131
     id: ck5zjaegch8nq0i14ar7qwyc1
     verified: false
-    hashtags: "#veganbreakfast, #veganrecipes, #vegandinner, #vegansofig"
-  - username: "iamsage08"
+    hashtags: "#plantsofinstagram, #veganbaconcheeseburger, #eeeeeats, #veganfood"
+  - username: "tylerwisby"
     fullname: >-
-      Sage Mayer 🤸🏿‍♂️
+      Tyler Wisby | Model 🧿
     bio: >-
-      🏆Telling Stories. Dancing 🎬😄🎤🎸✈️ Adventurer. Traveler. Coder. RPG. Chess. Collector.
+      Vegan 🌱 Miami 🌴 💌 authenticbeautyyy@gmail.com Follow My Backup @juiceetv Exclusive Content 🔞⬇️
     location: "United States"
-    followers: 15751
-    engagement: 224
-    commentsToLikes: 0.039797
-    id: ckf5mup3zvhwt0j234t4p1etc
+    followers: 446702
+    engagement: 688
+    commentsToLikes: 0.025111
+    id: ckap6as85f3xy0i78rfpg40ty
     verified: false
-    hashtags: "#tbt, #truthplaymakers, #playmakers, #afternoonvibes"
-  - username: "roccothegoddess"
-    fullname: >-
-      𝘾𝙧𝙚𝙖𝙩𝙚 𝙒𝙚𝙖𝙡𝙩𝙝 & 𝘼𝙘𝙝𝙞𝙚𝙫𝙚 𝙈𝙤𝙧𝙚
-    bio: >-
-      Taken by @IcyunvDAGOD 👑 Disciplined Heathen 🖤 Powered by Plants🌱 Fitnessy🏋🏿‍♀️💅🏾 Serial Investor 📈 Funding The Mental📚 Toronto ✈️ Miami
-    location: "United States"
-    followers: 8788
-    engagement: 1879
-    commentsToLikes: 0.012214
-    id: ckf5qzls8awt60j23z8t6ovat
-    verified: false
-    hashtags: "#selfielove, #blackownedbusiness, #dallas, #curls"
-  - username: "loveulovelifeloveforever"
-    fullname: >-
-      M & C
-    bio: >-
-      Fashion | Beauty | lifestyle | Wellness | Sport | Travel Blog | Books & Movie & Music reviews 📍🇺🇸
-    location: "United States"
-    followers: 10162
-    engagement: 597
-    commentsToLikes: 0.051490
-    id: ckaoxm0fidts10i78ggn1yygo
-    verified: false
-    hashtags: "#diaperbagbackpack, #review, #celebrityblogger, #backpack"
-  - username: "y.lady1nonly"
+    hashtags: "#wcw"
+  - username: "selina.negron"
     fullname: >-
       
     bio: >-
-      ~ U R the Universe expressing itself as a Human for a little while ~ 🔆MIAMI 🌱Vegan 🔬Science is Real ✊🏽BLM 🌈Love is Love Mgmt: @bookedbykelvin
+      everything is perception nyc -> mia
     location: "United States"
-    followers: 3745
-    engagement: 991
-    commentsToLikes: 0.055512
-    id: ckap8ywh1qhxs0i78e5oxagv0
+    followers: 4270
+    engagement: 1011
+    commentsToLikes: 0.059658
+    id: ck5zwj94u67yr0i14alzwdfqo
     verified: false
-    hashtags: "#seventalent, #happynationalavocadoday, #bestbdaytripever, #laspaylas"
-  - username: "_bahamasgirl_"
+    hashtags: "#monathair, #miamiphotographer, #investinyourself, #picoftheday"
+  - username: "haiasichin"
     fullname: >-
-      Sacha Kalis
+      Haiasi Chinfloo
     bio: >-
-      Ambassador for the Bahamas National Trust 🇧🇸 📷 @elenakalis Business Inquires: 💌contact.sacha.kalis@gmail.com Vegan🌱 📍Miami
+      @lockemodels | 🇺🇸🇯🇲 Jinsa Essentials BA use code HC20 🥘Cooking Page: @haiasichin.eats 🎙Podcast Host & Creator of: The.Real.Appeal🤎
     location: "United States"
-    followers: 615255
-    engagement: 72
-    commentsToLikes: 0.011442
-    id: ck0tu7um65z7q0i191cqsjxyk
-    verified: true
-    hashtags: "#travel, #lakechatuge, #fashionblogger, #flowers"
-  - username: "nintendough84"
-    fullname: >-
-      Larone
-    bio: >-
-      📷Food Content Creator 💵Investor 🗺Los Angeles 🎧Hip Hop Culturalist 🥇Owner of 👇🏽 🍕@Tastethisnext 🦀@Surfnoturf 🍜@Noodleworship 💯Contact for biz 👇🏽Merch
-    location: "United States"
-    followers: 39440
-    engagement: 719
-    commentsToLikes: 0.010965
-    id: ck0u271ngyzk90i19k326qaz7
+    followers: 3664
+    engagement: 1791
+    commentsToLikes: 0.149923
+    id: ck5hhb37r7bn40i11mwlk6sps
     verified: false
-    hashtags: "#gengiskhan, #noodleworship, #9gag, #surfnoturf"
+    hashtags: "#swimwear, #tall, #blackmodels, #naturalhair"
 ---

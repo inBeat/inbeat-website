@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Vancouver in 2023
+title: Top 10 Beauty Instagram Influencers In Vancouver In 2023
 description: >-
-  Find top beauty Instagram influencers in Vancouver in 2023. Most popular hashtags: #vancouver #beauty #love.
+  Find top beauty Instagram influencers in Vancouver in 2023. Most popular hashtags: #beauty #vancouver #makeup #portraitphotography.
 platform: Instagram
-hits: 94
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 94 Instagram influencers like this in Vancouver, Canada for you to connect with.
+hits: 63
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 63 Instagram influencers like this in Vancouver, Canada for you to work with.
 profiles:
-  - username: "jhp_development_ltd_"
+  - username: "catherinebyrdy"
     fullname: >-
-      Jhp_Development Ltd_
+      Cat’s Meow 😽
     bio: >-
-      🙌Follow #jhp_development_ltd_ 👇🏻👁👁👁👁👁👁👁👁👁👇🏻 👉#jhp_development_ltd_ to be featured
+      𝕀 𝔸𝕞 𝔸 ℝ𝕖𝕗𝕝𝕖𝕔𝕥𝕚𝕠𝕟 𝕆𝕗 𝕐𝕆𝕌 Fraser Valley • Greater Vancouver A cat and a dog 💕 @kojipoji
     location: "Canada"
-    followers: 18436
-    engagement: 134
-    commentsToLikes: 0.178355
-    id: ck0ue3pxrkjbk0i19ear15lwr
+    followers: 15932
+    engagement: 229
+    commentsToLikes: 0.027469
+    id: ck6ui64ljdao70j71atkot49b
     verified: false
-    hashtags: "#relax, #interiordesign, #staircase, #new"
+    hashtags: "#vancouverisawesome, #vancouvercreatives, #darkspirit, #motion"
   - username: "theopenjournal"
     fullname: >-
       T A S H A
     bio: >-
-      𝓜𝔂 𝓣𝔀𝓸 𝓒𝓮𝓷𝓽𝓼 Lifestyle | Fashion | Beauty 📍Vancouver 🤍Authentic > perfect 👓Read my captions 💌Tasha@TheOpenJournal.Net ⬇️ Check out my blog:
+      𝓜𝔂 𝓣𝔀𝓸 𝓒𝓮𝓷𝓽𝓼 Lifestyle | Fashion | Beauty 📍Vancouver 🤍Authentic > perfect 👓Read my captions 💌Tasha@TheOpenJournal.Net ⬇️ Blog
     location: "Canada"
-    followers: 20005
-    engagement: 419
-    commentsToLikes: 0.045234
+    followers: 19559
+    engagement: 387
+    commentsToLikes: 0.045185
     id: ck5q95z1j9kcw0i118jfk13qa
     verified: false
-    hashtags: "#kits, #healthyskincarerevolution, #itskits, #thaiexpress"
-  - username: "iamkamantha"
+    hashtags: "#sheingals, #shein, #gifted, #ad"
+  - username: "katewhytephoto"
     fullname: >-
-      Kamantha Naidoo
+      𝕂𝕒𝕥𝕖 𝕎𝕙𝕪𝕥𝕖
     bio: >-
-      𝕍𝕒𝕟𝕔𝕠𝕦𝕧𝕖𝕣 ♎️ 𝒫𝓇𝑜𝓊𝒹𝓁𝓎 🇿🇦🇨🇦🇦🇺 ᴀᴄᴛᴏʀ 🎬 ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴍᴏᴅᴇʟ👠 ▪️ @enriquemodels_ ▪️ @alushimodels ℂ𝕠𝕟𝕗𝕚𝕕𝕖𝕟𝕔𝕖 ℂ𝕠𝕒𝕔𝕙 𝒞𝑜-𝒻𝑜𝓊𝓃𝒹𝑒𝓇 @hotshotzevents
+      Official Canon Ambassador Educator @ Portrait Masters 2020 Vancouver
     location: "Canada"
-    followers: 53179
-    engagement: 207
-    commentsToLikes: 0.072655
-    id: ckf5s1jriei0o0j23ugqfegb1
+    followers: 33097
+    engagement: 233
+    commentsToLikes: 0.039808
+    id: ck0tzccd1ps540i19z3gh3olz
     verified: false
-    hashtags: "#fitspo, #womenwholift, #babesofinsta, #mindset"
-  - username: "monasangha"
+    hashtags: "#beautyshoot, #freshmakeup, #vancouvermua, #retouchingstudio"
+  - username: "vancityplus"
     fullname: >-
-      Mona Sangha
+      Vancity+
     bio: >-
-      Makeup artist & part time foodie ☺️ #eatwithmona 📍Vancouver, BC Canada 📧Email: monasangha@hotmail.com
+      Vancouver BC 🇨🇦 We Repost 🔄 Use Hashtag #vancityplus to get your content reposted with us
     location: "Canada"
-    followers: 102421
-    engagement: 121
-    commentsToLikes: 0.009288
-    id: ck8sx5nb4g8qz0j78x8m3o7ju
+    followers: 100380
+    engagement: 16
+    commentsToLikes: 0.003226
+    id: ck9havcgyeap40j78izhimp1v
     verified: false
-    hashtags: "#wedding, #eatwithmona, #wedmegood, #esteelauderdoublewear"
-  - username: "timothyhungcom"
+    hashtags: "#vancouvervideographer, #vancouverweddingphotographer, #britishcolumbia, #vancouvertattooartist"
+  - username: "rubygillett"
     fullname: >-
-      Ｔｉｍｏｔｈｙ Ｈｕｎｇ 🇨🇦🇹🇼
+      RUBY GILLETT
     bio: >-
-      ᴾᴴᴼᵀᴼᴳᴿᴬᴾᴴᴱᴿ-ᴬᴿᵀ ᴰᴵᴿᴱᶜᵀᴼᴿ 「 𝙱𝚛𝚒𝚍𝚐𝚒𝚗𝚐 𝙼𝚊𝚔𝚎𝚞𝚙 𝚠𝚒𝚝𝚑 𝙵𝚊𝚜𝚑𝚒𝚘𝚗 」 Original contents for print and advertising ✉️info@timothyhung.com Vancouver, BC.📍
+      Fashion • Beauty • Lifestyle 📍Vancouver, BC 🇨🇦
     location: "Canada"
-    followers: 100209
-    engagement: 125
-    commentsToLikes: 0.035543
-    id: ck5hduznnpibg0i11utgxp3pg
+    followers: 10527
+    engagement: 278
+    commentsToLikes: 0.111067
+    id: ck5zk4ycdithz0i14mci6hlj1
     verified: false
-    hashtags: "#nyxcosmetics, #makeupartist, #beauty, #timothyhung"
-  - username: "jonniedanes"
+    hashtags: "#founditonamazon, #gifted, #amazonassociate, #ad"
+  - username: "jad.warde"
     fullname: >-
-      Jonnie Danes
+      JAD WARDE
     bio: >-
-      Caution may cause Great Dane addiction. Home to Story, Porter Levi, Lennon, Kennedy (DD) Smith & baby Jones “If it’s not a Great Dane, its just a dog"
+      📸 FASHION AND BEAUTY PHOTOGRAPHER ✈ Vancouver - Early September ✉ jad-warde@hotmail.com 📍 Kelowna BC 📞 +1 250 808 7298
     location: "Canada"
-    followers: 14588
-    engagement: 594
-    commentsToLikes: 0.054923
-    id: ck0vy6o2f2hn90i195uf71yr0
+    followers: 32471
+    engagement: 729
+    commentsToLikes: 0.033665
+    id: ck5q9q4amces60i11b26cblir
     verified: false
-    hashtags: "#greatdanesunlimited, #instadog, #greatdanes, #puppylife"
-  - username: "laura_avancity"
-    fullname: >-
-      Laura
-    bio: >-
-      Owner @thatfxbunny RN-Emerg/ICU cert💊💉 FX trader 🐃🐻🕰💰 Playboy Pictorial February 2020🚀 BFL Ring girl🔥 Bikini competitor👄 Vancouver🇨🇦
-    location: "Canada"
-    followers: 14252
-    engagement: 273
-    commentsToLikes: 0.048807
-    id: ck5q3seysm84x0i11x3rk676m
-    verified: false
-    hashtags: "#trader, #playboybunnies, #markets, #sexy"
-  - username: "cherieleexo"
-    fullname: >-
-      Chérie | Vancouver | NYC | LA
-    bio: >-
-      📍currently in: Vancouver, BC Beauty in simplicity ♡ - donut fanatic - 📩 Say hello ♥ Cheriewslee98@gmail.com
-    location: "Canada"
-    followers: 21038
-    engagement: 588
-    commentsToLikes: 0.100670
-    id: ck14gyvqv7pbf0i19rih1bdkc
-    verified: false
-    hashtags: "#vancouver, #explorecanada, #vancouvertrails, #foryou"
+    hashtags: "#nailstagram, #beauty, #swimsuit, #nailsoftheday"
   - username: "winnspiration"
     fullname: >-
       Winnie 〰️
     bio: >-
       lifestyle, fashion & beauty 📍 toronto / vancouver ✉️ winnspiration@gmail.com
     location: "Canada"
-    followers: 39444
-    engagement: 149
-    commentsToLikes: 0.073192
+    followers: 39057
+    engagement: 138
+    commentsToLikes: 0.081859
     id: ck0u7we575wk90i19jj9lkasq
     verified: false
-    hashtags: "#ios14, #ios14homescreen, #ios14tutorial, #pradareedition2005"
+    hashtags: "#detoxmode, #wearitwithpandora, #expressie, #pandorasignature"
   - username: "bethanygillatt"
     fullname: >-
       Beth Gillatt
     bio: >-
-      fashion, beauty & lifestyle 📍Vancouver Island, Canada ✉️ bethpgillatt@gmail.com 10% off your 1st @mejuri purchase👇🏼
+      fashion, beauty & lifestyle 📍Vancouver Island, Canada ✉️ bethpgillatt@gmail.com
     location: "Canada"
-    followers: 4680
-    engagement: 751
-    commentsToLikes: 0.097886
+    followers: 10970
+    engagement: 607
+    commentsToLikes: 0.102583
     id: ckap3j6nq37ul0i785qhyveeh
     verified: false
-    hashtags: "#mejuri, #getnastygal"
+    hashtags: "#princesspolly, #vitaeapparel, #vitaebabe, #vitaebabes"
+  - username: "monasangha"
+    fullname: >-
+      Mona Sangha
+    bio: >-
+      Makeup artist & part time foodie ☺️ #eatwithmona 📍Vancouver, BC Canada, available worldwide 🌎 📧Email: monasangha@hotmail.com
+    location: "Canada"
+    followers: 108504
+    engagement: 99
+    commentsToLikes: 0.008675
+    id: ck8sx5nb4g8qz0j78x8m3o7ju
+    verified: false
+    hashtags: "#indianwedding, #vancouver, #vancouvermakeupartist, #hudabeauty"
+  - username: "kane.a.roberts"
+    fullname: >-
+      Kane Roberts
+    bio: >-
+      @thewhoareyou MA: @lizbellagency Currently: Vancouver, Canada. 📞@lizbellagency, @newmadisonmodels, @whynotmodels, @pma_models
+    location: "Canada"
+    followers: 5058
+    engagement: 903
+    commentsToLikes: 0.021500
+    id: ck14hum06c81o0i196zr3n385
+    verified: false
+    hashtags: "#canada, #thewhoareyou, #theway, #kane"
 ---

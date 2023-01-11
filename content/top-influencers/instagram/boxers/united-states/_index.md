@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers In United States in 2023
+title: Top 10 Boxers Instagram Influencers In United States In 2023
 description: >-
-  Find top boxers Instagram influencers in United States in 2023. Most popular hashtags: #boxing #rgba #family.
+  Find top boxers Instagram influencers in United States in 2023. Most popular hashtags: #boxing #family #love.
 platform: Instagram
-hits: 647
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 647 Instagram influencers like this in United States for you to connect with.
+hits: 733
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 733 Instagram influencers like this in United States for you to pitch.
 profiles:
   - username: "boxers_lovely_bx"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🌟We 💖Boxers Dog || 👕 Uniquely Designed T-Shirts&more 🌟 Printed in the USA 🌟 💯Satisfaction guarantied❗ CLICK⤵to SHOP 👕 ⤵👇👇
     location: "United States"
-    followers: 28826
-    engagement: 599
-    commentsToLikes: 0.009064
+    followers: 30950
+    engagement: 612
+    commentsToLikes: 0.007281
     id: ck14jg4mfk6380i19pj2vva1a
     verified: false
-    hashtags: "#boxermurah, #beatboxer, #boxerbriefs, #boxerplanet"
-  - username: "overtflow"
+    hashtags: "#boxerbreed, #boxerlab, #boxerlover, #boxerpuppies"
+  - username: "tommyfury"
     fullname: >-
-      OVERT | PJ
+      Tommy TNT Fury
     bio: >-
-      yoyoyo Fortnite Creator: OVERT 2.5M+ Followers 🎮 Pro Gamer 🥊 Logan Paul vs KSI Boxer 🏀 NBA Playmakers 🏆 Game Awards ♾ FaZe Up 🥋 BJJ Brown Belt 🎰 Vegas
+      TNT💣 Contact✉️- jake@alphatalentgroup.co.uk Professional boxer🥊 YouTube⬇️
     location: "United States"
-    followers: 130860
-    engagement: 471
-    commentsToLikes: 0.138517
-    id: ck8wfyhlqggin0j78w1tplpg1
+    followers: 4320313
+    engagement: 755
+    commentsToLikes: 0.005771
+    id: cku8q8m6imgwp0j233sy1s9py
     verified: false
-    hashtags: "#fortnite, #fazeup, #vbucks"
+    hashtags: "#fableticsmeneu, #ad, #mayweatherdeji, #furybamba"
+  - username: "king_teej"
+    fullname: >-
+      The King 👑
+    bio: >-
+      📖 • minimalist • world traveler • cigarian • KING 🏡 • Miami, FL 🌎 • 6 Continents I 45+ Countries | 19 States 15% OFF KING Boxers promo code: KINGTEEJ
+    location: "United States"
+    followers: 21958
+    engagement: 464
+    commentsToLikes: 0.068809
+    id: ck6u6ovm6gv330j71jw4safxl
+    verified: false
+    hashtags: "#instadaily, #rockclimbing, #instatravel, #travelphotography"
   - username: "hector_tanajara"
     fullname: >-
       El Finito
     bio: >-
       Professional boxer signed with Golden Boy Promotions 👊 19-0 (5KO's) #TeamTanajara #RGBA #210 💯 Westside San Antonio, Texas Twitter: hector_tanajara
     location: "United States"
-    followers: 20480
-    engagement: 904
-    commentsToLikes: 0.028917
+    followers: 20594
+    engagement: 913
+    commentsToLikes: 0.030677
     id: ck5hisq1vf6qf0i11pyl00xj6
     verified: true
-    hashtags: "#rgba, #210, #teamtanajara, #237"
-  - username: "ivan_baranchyk"
+    hashtags: "#rgba, #teamtanajara, #210, #sanantonio"
+  - username: "dan_azeez"
     fullname: >-
-      Ivan Baranchyk
+      𝗗𝗔𝗡 𝗔𝗭𝗘𝗘𝗭
     bio: >-
-      📍Miami, FL 🌴 🥊Professional boxer 20-2-0 13KOs 🇧🇾🇺🇸 @yuliya_bogdanovich ❤️ DM for any questions and offers
+      Professional Light Heavyweight Boxer 13-0 Southern Area Champion English Champion 🏆🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sponsored by @romaxsolutions @algbra 📩 @connectforcecf
     location: "United States"
-    followers: 14150
-    engagement: 981
-    commentsToLikes: 0.040941
-    id: ck6u1s49gnk3n0j71vppd5awr
-    verified: true
-    hashtags: "#miami, #mundoboxing, #boxing, #hardwork"
+    followers: 11289
+    engagement: 1109
+    commentsToLikes: 0.072907
+    id: ck5byoo3npjph0i11wnro9oxy
+    verified: false
+    hashtags: "#speedballchallenge, #super, #2ndsept, #property"
+  - username: "findingmarcos"
+    fullname: >-
+      Marcos Guerrero
+    bio: >-
+      EA for the best boxer in the world
+    location: "United States"
+    followers: 15241
+    engagement: 1236
+    commentsToLikes: 0.038654
+    id: ck5q01iwt3s7j0i110q4auobh
+    verified: false
+    hashtags: ""
+  - username: "amadofvargas"
+    fullname: >-
+      Amado Fernando Vargas 🇲🇽
+    bio: >-
+      AFV 💫 “El Malvado” Las Vegas. Professional Boxer. Record 2-0 #TeamVargas🇲🇽
+    location: "United States"
+    followers: 67189
+    engagement: 878
+    commentsToLikes: 0.020237
+    id: ck6tpkl6fke4g0j71caz0xu4r
+    verified: false
+    hashtags: "#teamvargas, #elgeneral, #repost, #roadto2"
   - username: "jeison_banana_rosario"
     fullname: >-
       Aka Banana
     bio: >-
       Boxer 🥊 Unified World Champion WBA • IBF • IBO Super Welter 154 Son Of God Next fight September 26 And New Undisputed
     location: "United States"
-    followers: 14950
-    engagement: 713
-    commentsToLikes: 0.059672
+    followers: 14358
+    engagement: 737
+    commentsToLikes: 0.047643
     id: ck5qacajffnhm0i11xtog5fpg
     verified: false
-    hashtags: "#boxing, #showtime, #teambanana, #boxingtraining"
+    hashtags: "#godisgood, #godisgoodallthetime, #teambanana, #premierboxingchampions"
+  - username: "overtflow"
+    fullname: >-
+      OVERT | PJ
+    bio: >-
+      yoyoyo @fortnite: OVERT 🎮 Gamer @gfuelenergy 🥊 Logan Paul vs KSI Boxer 📊 @forbes 🏀 NBA PM 🏆 Game Awards ♾ FaZe Up 🥋 BJJ Brown Belt 🎰 Vegas 🥇@play.nacl
+    location: "United States"
+    followers: 127583
+    engagement: 208
+    commentsToLikes: 0.102963
+    id: ck8wfyhlqggin0j78w1tplpg1
+    verified: false
+    hashtags: "#fortnite, #vbucks"
   - username: "cannonnation"
     fullname: >-
       Brandon "The Cannon" Adams
     bio: >-
       Pro Boxer 🥊YouTube: @BATheCannon 🥊Facebook: @BrandonTheCannon
     location: "United States"
-    followers: 11339
-    engagement: 574
-    commentsToLikes: 0.081389
+    followers: 12767
+    engagement: 609
+    commentsToLikes: 0.074159
     id: ck8szhio5ogw90j78mce8occu
     verified: false
-    hashtags: "#family, #brothers, #love, #lifestyle"
-  - username: "_alexisespino"
-    fullname: >-
-      Alexis Espino
-    bio: >-
-      Las Vegas 6-0 4 ko’s Pro Boxer signed to @matchroomboxing
-    location: "United States"
-    followers: 11535
-    engagement: 1176
-    commentsToLikes: 0.030162
-    id: ck5c59uar31og0i11zxl3gdjy
-    verified: false
-    hashtags: "#rgba, #macizo, #dazn, #kumbiashotya"
-  - username: "miakillerbee1"
-    fullname: >-
-      Mia Ellis #20
-    bio: >-
-      Professional Boxer: 1-0 1KO #GTD #LTS PR:wtrichardson@preeminentpr.com
-    location: "United States"
-    followers: 6786
-    engagement: 929
-    commentsToLikes: 0.054115
-    id: ck6tyiaky3w2t0j71a1gt5q36
-    verified: false
-    hashtags: "#backinthelab, #prodebut, #respectthegame, #big20"
-  - username: "troubleralpho"
-    fullname: >-
-      Râlpho Igbokwë II
-    bio: >-
-      Professional Boxer👊 They don’t make em like ME no more💯🇳🇬 If They Dnt Know Me Today,They’ll Know Me Tomorrow 🇳🇬 TalkNice🗣🇳🇬.
-    location: "United States"
-    followers: 14784
-    engagement: 808
-    commentsToLikes: 0.087482
-    id: ck136e8dx622g0i19olhxvzg1
-    verified: false
-    hashtags: "#cantstopwontstop, #octoberbaby, #bodyarmorathlete, #boxingtraining"
-  - username: "officialmikelee"
-    fullname: >-
-      Mike Lee
-    bio: >-
-      👊🏼 Former Pro Boxer | 21-1 | 🌱 @mySoulCBD Co-Founder 🎙 Speaker Get knocked down 7 times get back up 8 ⤵️
-    location: "United States"
-    followers: 47448
-    engagement: 184
-    commentsToLikes: 0.065613
-    id: ck6u0kzimgb9t0j7111igycfn
-    verified: true
-    hashtags: "#merica, #blackouttuesday, #painisagift"
+    hashtags: "#brown, #losangeles, #health, #fun"
 ---

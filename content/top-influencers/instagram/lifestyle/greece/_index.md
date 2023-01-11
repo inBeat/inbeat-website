@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Greece in 2023
+title: Top 10 Lifestyle Instagram Influencers In Greece In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Greece in 2023. Most popular hashtags: #greece #photooftheday #travel #instapic.
+  Find top lifestyle Instagram influencers in Greece in 2023. Most popular hashtags: #greece #instadaily #instagood #greekislands.
 platform: Instagram
-hits: 153
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 153 Instagram influencers like this in Greece for you to connect with.
+hits: 120
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 120 Instagram influencers like this in Greece for you to work with.
 profiles:
+  - username: "nadiaboule"
+    fullname: >-
+      Nadia Boule
+    bio: >-
+      Life is what happens to you when you're busy making other plans. Wellness lifestyle lover @b_bynadiaboule
+    location: "Greece"
+    followers: 158914
+    engagement: 794
+    commentsToLikes: 0.008893
+    id: ck0vzvoqfb4gu0i19yceak34d
+    verified: false
+    hashtags: "#flowers, #modernparents, #9monthspregnant, #readytopop"
   - username: "kalli_albn"
     fullname: >-
       🎀 KᗩᒪᒪI  ᗩᒪᗷᗩᑎI 🎀
     bio: >-
-      • Don’t be like the rest of them! Stay in your magic •🧚🏻‍♀️ 💌 DM for Collabs 🎁 📌Fashion • Beauty • Lifestyle💄 🌎Welcome to my BlondeWorld🦄
+      🦄• Don’t be like the rest of them! Stay in your magic• 💌 Dm for Collabs 📌 Fashion•Beauty•Lifestyle 🌏 Welcome to my Blondeworld
     location: "Greece"
-    followers: 10022
-    engagement: 1892
-    commentsToLikes: 0.510966
+    followers: 16566
+    engagement: 1211
+    commentsToLikes: 0.432470
     id: ckap4zjlr9ijt0i78gbttbmz9
     verified: false
-    hashtags: "#travel, #fashion, #tbt, #girl"
-  - username: "marius.ad.libitum"
+    hashtags: "#sea, #jewelry, #ootd, #eyeshadow"
+  - username: "eleniintokou"
     fullname: >-
-      mαrios · greece
+      E L E N I   N T O K O U
     bio: >-
-      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • member of travelvibe
+      🤍Fashion | Beauty | Travel | Lifestyle 👗How to Style? Here’s the Answer! ✨Follow my Journey 👼🏻Mummy
     location: "Greece"
-    followers: 16415
-    engagement: 1122
-    commentsToLikes: 0.058088
-    id: ck6u8k7vss2kn0j71olij1n19
+    followers: 58573
+    engagement: 466
+    commentsToLikes: 0.345532
+    id: ck55p8vfza23m0i11qxi8jb4k
     verified: false
-    hashtags: "#expression, #discover, #thesoulofgreece, #streets"
-  - username: "thisissivylla"
+    hashtags: "#parosisland, #paros, #parosgreece, #greekislands"
+  - username: "marasamartzi"
     fullname: >-
-      Sivylla
+      MARA SAMARTZI
     bio: >-
-      Public Relations aficionado Beauty | Motherhood | Lifestyle Mama of #2under2 👧🏼👶🏼 Baby No3 on the way 🍼
+      BEAUTY & LIFESTYLE YOUTUBER Watch my latest video ▼
     location: "Greece"
-    followers: 74779
-    engagement: 432
-    commentsToLikes: 0.910259
-    id: ck0w2zrg6qx2i0i19f2m2qke1
+    followers: 125386
+    engagement: 746
+    commentsToLikes: 0.273541
+    id: ck8t0am4iretb0j78jlgv0qub
     verified: false
-    hashtags: "#round3, #preggo, #ariadne, #giveaway"
+    hashtags: "#myskinloveskorea, #climaxsafely, #narsissist, #neverfakeit"
   - username: "theclassysavage"
     fullname: >-
       Nicole Despotopoulou
     bio: >-
       ✨Everyday effortless style Shopping | Beauty | Lifestyle 📍Athens,Greece 💌Collab/Promo ➱ Dm
     location: "Greece"
-    followers: 82181
-    engagement: 407
-    commentsToLikes: 0.193630
+    followers: 83948
+    engagement: 507
+    commentsToLikes: 0.583418
     id: ck15pgd8oxqny0i19rpm2vnsw
     verified: false
-    hashtags: "#goodluck, #quarantine, #dieselunforgettabledenim"
+    hashtags: "#googluck, #goodluck"
   - username: "alexandra__panagiotarou"
     fullname: >-
       Αλεξάνδρα Παναγιώταρου
     bio: >-
-      📺TvPersonality 🛍Owner of @alexandras__boutique 🍸Lifestyle&Travelling 🌎 ✈️ 🎤MySong PAPI ft @kingsofficial 🎓Sociologist 🐶Mommy of Richie 🦋Since ‘93
+      📺TvPersonality 🛍Owner of @alexandras__boutique 🍸Lifestyle&Travelling 🌎 ✈️ 📍Athens 🎓Sociologist 🐶Mommy of Richie 🦋Since ‘93
     location: "Greece"
-    followers: 246973
-    engagement: 365
-    commentsToLikes: 0.087761
+    followers: 272830
+    engagement: 424
+    commentsToLikes: 0.020135
     id: ck5zl0awnkhuw0i14oikiiafk
     verified: false
-    hashtags: "#blondegirl, #nailart, #backtonature, #makeup"
-  - username: "katiakr_"
+    hashtags: "#laloocosmetics, #laloo, #laloonails, #greece"
+  - username: "marius.ad.libitum"
     fullname: >-
-      Katia Kr
+      Marios Mazaris
     bio: >-
-      🎠 Travel & Lifestyle 🎠 🧚my fairytale consists of travels, seaviews, style and chocolate 🍫 ☕coffee lover 💃passion for ballet 📍Thessaloniki, Greece 🇬🇷
+      My grεεk point of viεw | landscapes & lifestyle • 🏛 teAchεr | 📝 bloggεr | CrossFit lover 🏋🏻‍♀️ • the one behind @schoolmarius
     location: "Greece"
-    followers: 5713
-    engagement: 2629
-    commentsToLikes: 0.284048
-    id: ck9wfk4w9p6yr0j78uxzthcdv
+    followers: 16163
+    engagement: 1141
+    commentsToLikes: 0.053950
+    id: ck6u8k7vss2kn0j71olij1n19
     verified: false
-    hashtags: "#travelerlife, #outfitoftheday, #sunsetlover, #stradivarius"
-  - username: "monetasss"
-    fullname: >-
-      moneta zumba
-    bio: >-
-      I could be anywhere💙❤#lifestyle#woman#fashion#model #Photographer#Traveler#world#sports#plates#zumbainstructor#agricultural engineer#travelphotography
-    location: "Greece"
-    followers: 4414
-    engagement: 2231
-    commentsToLikes: 0.157875
-    id: ckap25faqxg9t0i78vz6cndj5
-    verified: false
-    hashtags: "#igers, #fashion, #fun, #photooftheday"
+    hashtags: "#instahomo, #beardedchallenge, #pecs, #across"
   - username: "gerganaiilieva"
     fullname: >-
       Gergana Ilieva 🌸
     bio: >-
-      •Travel, lifestyle & fashion content creator• Featured on billboards & city ads in #Denmark and #Sweden ❣️📸 🌸 With love, Gergana 🌸 📍SOF🇧🇬
+      •Travel, lifestyle & fashion content creator• Featured on billboards & city ads in #Denmark and #Sweden ❣️📸 🌸 With love, Gergana 🌸
     location: "Greece"
-    followers: 21203
-    engagement: 498
-    commentsToLikes: 0.059407
+    followers: 21797
+    engagement: 263
+    commentsToLikes: 0.040414
     id: ck13cpcri1i780i19a5xlczo8
     verified: false
-    hashtags: "#mykonosisland, #photooftheday, #fallvibes, #outfitinspiration"
-  - username: "simplynclassy"
+    hashtags: "#dubai, #travelgirl, #romeitaly, #passionpassport"
+  - username: "tzesika_mua"
     fullname: >-
-      Vassia Riga
+      Jessica Beauty 🧿
     bio: >-
-      Fashion |Travel |Beauty |Lifestyle Content Creator 📍Greece 🇬🇷 ♡@michail_rodax (📸) Collaborations 📧simplynclassy@gmail.com / DM 🖊 Rᴇᴀᴅ ᴍᴇ ⬇️
+      Youtuber ➡️ TzesikaBeauty ✨ Makeup & lifestyle ✨ Brand ambassador of @luigi_studio Pr & Promote Collaboration & Giveaways ➡️ tzesi522@gmail@com💌
     location: "Greece"
-    followers: 24293
-    engagement: 301
-    commentsToLikes: 0.175862
-    id: ckap4zu1a9jxg0i78o41jy7rv
+    followers: 10510
+    engagement: 1309
+    commentsToLikes: 0.269501
+    id: ckf5lkqqjpxfk0j23ab0jbqko
     verified: false
-    hashtags: "#greece, #giveawaysgreece"
-  - username: "themomdiary"
+    hashtags: "#instafashion, #tzesikabeauty, #instadaily, #giveawaygreece"
+  - username: "luizaguinaldosa"
     fullname: >-
-      The Mom Diary - Greek Family
+      • Luiz aguinado de sá pina
     bio: >-
-      Meggie Greek/Canadian 🇬🇷🇨🇦 Mom of two boys 👬 Co-founder of @katina.creations Motherhood🤱 Lifestyle 🕶 Mind-Body-Soul 💗 Travel lover ✈️ YouTube 👇
+      • Lifestyle • Pirenópolis • Consultor de moda • Alguns drinks reels
     location: "Greece"
-    followers: 7789
-    engagement: 984
-    commentsToLikes: 0.138028
-    id: ck5q40ewhn6qm0i113xdjlzan
+    followers: 5904
+    engagement: 1489
+    commentsToLikes: 0.937503
+    id: ck0w49pyvxhqa0i199h0km6qo
     verified: false
-    hashtags: "#momoftwo, #greekbeaches, #momofboys, #greekfamily"
+    hashtags: "#farmamo, #farmrio, #euamopiri, #adorofarm"
 ---

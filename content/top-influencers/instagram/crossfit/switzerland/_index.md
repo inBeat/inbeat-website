@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Switzerland in 2023
+title: Top 10 Crossfit Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top crossfit Instagram influencers in Switzerland in 2023. Most popular hashtags: #crossfit #workout #training #fitness.
+  Find top crossfit Instagram influencers in Switzerland in 2023. Most popular hashtags: #crossfit #fitness #workout #training.
 platform: Instagram
-hits: 23
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 23 Instagram influencers like this in Switzerland for you to connect with.
+hits: 16
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
-  - username: "janoschnietlispach"
-    fullname: >-
-      Janosch Nietlispach 🇨🇭
-    bio: >-
-      🏆 6 time Kickboxing 🌍-Champion 🌹 Bachelor 2016 🏋🏽 Owner of @crossfitzug 🏒 Athletic & Performance Coach 🎤 Sport moderator @teleclub.sport
-    location: "Switzerland"
-    followers: 29551
-    engagement: 272
-    commentsToLikes: 0.014352
-    id: ck0vznlsr9zre0i19fociq091
-    verified: true
-    hashtags: "#ad, #greece, #santorini, #assettocorsa"
-  - username: "jonnekoski"
-    fullname: >-
-      Jonne Koski
-    bio: >-
-      6 X CrossFit Games athlete 🇫🇮 7th fittest man on earth 2020 @niketraining @redbullsuomi @foodspring @esc_sounds
-    location: "Switzerland"
-    followers: 64015
-    engagement: 308
-    commentsToLikes: 0.005721
-    id: ck5hd308el8tg0i11sceleqfb
-    verified: true
-    hashtags: "#crossfitgames, #crossfitgames2020, #crossfit, #escsounds"
   - username: "rabina17"
     fullname: >-
       Peter Lewis
     bio: >-
       Swiss Aviation Photographer, Trail Runner, CrossFitter, Canadian Football League fan, Alpine Yeti & vegan
     location: "Switzerland"
-    followers: 8342
-    engagement: 1064
-    commentsToLikes: 0.013008
+    followers: 8968
+    engagement: 1732
+    commentsToLikes: 0.011752
     id: ck0u9g1me9obw0i197dl4ob56
     verified: false
     hashtags: ""
-  - username: "helen_giovanna"
+  - username: "adrianmundwiler"
     fullname: >-
-      Helen-Giovanna
+      Adrian Mundwiler
     bio: >-
-      Kitesurfer | Crossfitter 1x German Freestyle Vice Champion Sponsored by Ride Engine • Cabrinha
+      Pro Crossfit Athlete🇨🇭 "Laziest hardest worker in the pond" @nike @foodspring @fitaideurope @picsil_sport @esc_sounds @greenfitrecovery
     location: "Switzerland"
-    followers: 5313
-    engagement: 449
-    commentsToLikes: 0.023005
-    id: ck0w37vbes0y70i19akhzjzkm
-    verified: false
-    hashtags: "#cabrinhateam, #kitedose, #cabrinhaeurope, #letskitesurf"
+    followers: 66672
+    engagement: 387
+    commentsToLikes: 0.008789
+    id: ck5bw01nikqj10i11l9tfv5hu
+    verified: true
+    hashtags: "#niketraining, #games2019, #neweraiscomingup, #blackfridayweekend"
   - username: "nicolas_arnoux"
     fullname: >-
       Nicolas Arnoux
     bio: >-
-      Geneva📍🇨🇭 Fitness & Lifestyle 🏋🏽‍♂️ ➖ Ambassador @noccoswitzerland ➖ Athlete @tlfapparel & @prozis TLF Discount code: TLF-NICOLAS ⬇️
+      📍 Geneva🇨🇭 🏋🏽‍♂️ FITNESS & LIFESTYLE | MOTIVATION ➖ Ambassador @noccoswitzerland ➖ Athlete @tlfapparel & @prozis TLF Discount code: TLF-NICOLAS ⬇️
     location: "Switzerland"
-    followers: 16331
-    engagement: 413
-    commentsToLikes: 0.072104
+    followers: 16324
+    engagement: 309
+    commentsToLikes: 0.095410
     id: ck0w55vmp21hb0i19allpfrn1
     verified: false
-    hashtags: "#italy, #noccoswitzerland, #summer, #bodybuilding"
+    hashtags: "#takelifefurther, #noccoswitzerland, #crossfit, #winter"
   - username: "morganemeirebrand"
     fullname: >-
       𝑴𝒐𝒓𝒈𝒂𝒏𝒆 𝑴𝒆𝒊𝒓𝒆-𝑩𝒓𝒂𝒏𝒅  🇫🇷🇨🇭
     bio: >-
-      𝙼𝚘𝚝𝚑𝚎𝚛 𝚘f 👩🏻👼🏼👱🏼‍♀️👦🏼 @team_k_ingrid_celine 𝘈𝘮𝘣𝘢𝘴𝘴𝘢𝘥𝘰𝘳 : 🔹 @noccoswitzerland 🔹 @goprimal.eu 🔹 @nutribulle 🔹 @biobox.ch
+      𝐑𝐨𝐚𝐝 𝐭𝐨 𝟏𝐬𝐭 𝐁𝐈𝐊𝐈𝐍𝐈 𝐍𝐏𝐂 @team_k_ingrid_celine 𝙼𝚘𝚝𝚑𝚎𝚛 𝚘𝑓 👩🏻👼🏼👱🏼‍♀️👦🏼 𝘈𝘮𝘣𝘢𝘴𝘴𝘢𝘥𝘰𝘳 🔹 @noccoswitzerland 🔹 @lifepro_oficial 🔹 @nutribulle 🔹 @biobox.ch
     location: "Switzerland"
-    followers: 13168
-    engagement: 730
-    commentsToLikes: 0.019669
+    followers: 13390
+    engagement: 667
+    commentsToLikes: 0.017404
     id: ck9wembjxkw9d0j78wlq33n84
     verified: false
-    hashtags: "#gym, #weightlifting, #fitnessmodel, #amazing"
+    hashtags: "#noccoswitzerland, #fitness, #badass, #crossfitbody"
   - username: "fabiohayoz"
     fullname: >-
       Fabio Hayoz
     bio: >-
-      🥇SNBF 2018 Swiss-Champion 📍Based in Switzerland 🏢 @facedefender.ch 💪 @coach__bruno ❤️ @jasmine.gsell SPONSORED BY: @extrifitschweiz - Fabio10
+      🥇SNBF 2018 Swiss-Champion 📍CH🇨🇭 🏢 @hf.werbetechnik 💪 @coach__bruno ❤️ @jasmine.gsell ‼️SPONSORED BY‼️ @extrifitschweiz - Fabio10 @autocenterhalten
     location: "Switzerland"
-    followers: 10642
-    engagement: 328
-    commentsToLikes: 0.034576
+    followers: 10459
+    engagement: 290
+    commentsToLikes: 0.029399
     id: ck8svr3moce3r0j78a3lf79cp
     verified: false
-    hashtags: "#tan, #bodybuilding, #gym, #bhfyp"
-  - username: "michel_jarabito"
+    hashtags: "#yoga, #photooftheday, #fitnessathlete, #fitfam"
+  - username: "kevinxtm"
     fullname: >-
-      BIG MICH
+      Kevin Crupi  xtm
     bio: >-
-      LIFE IS GOOD. 🥗FITNESS BODY 🏋️‍♀️PERSONAL TRAINER 🏋️‍♀️COACHING ONLINE Code promo: Michel-jarabito
+      🇮🇹🇪🇸🇨🇭 📍Lausanne VD 🤸 Pro P.K athlete 👕@livers_fr 🧠@xtremmove Ceo 📍#xtmpark 🦁 @lionscreative.ch Coo 🎬@from_a2u world tour 🎩@ramdam.ch P.K athlete
     location: "Switzerland"
-    followers: 39635
-    engagement: 131
-    commentsToLikes: 0.025857
-    id: ck8wgj4ishg6i0j786gv5dhji
+    followers: 5458
+    engagement: 448
+    commentsToLikes: 0.057486
+    id: ck5hctkuyjwis0i118o9g71zy
     verified: false
-    hashtags: "#life, #healthy, #goals, #inspiration"
-  - username: "maxheinzer"
+    hashtags: "#legday, #climbing, #switzerland, #frontflip"
+  - username: "tarajeanpopowich"
     fullname: >-
-      Max Heinzer
+      Tara Jean Popowich
     bio: >-
-      Swiss Fencer 🇨🇭🤺 🌍
+      Creator- @human1dancer2🌎 “So you think you can dance”🇨🇦Winner “Dancing with the stars” 🇮🇳Top 6 “SYTYCD” Guest 🇺🇦 Pura Vida. x
     location: "Switzerland"
-    followers: 16203
-    engagement: 1062
-    commentsToLikes: 0.010641
-    id: ck5zx2x8t78s20i14mnngdn9x
-    verified: false
-    hashtags: "#playinside, #new, #training, #fencing"
-  - username: "lisa_eble"
+    followers: 53367
+    engagement: 369
+    commentsToLikes: 0.053244
+    id: ck55nxluk77dn0i11v844f5tk
+    verified: true
+    hashtags: "#alexwong, #bakerbleu, #70s, #superbowl"
+  - username: "lalacla_"
     fullname: >-
-      Lisa Eble
+      Claudia
     bio: >-
-      Games 2019 Fittest in Germany 2020 Regionals 2018 German WL 🥇'17 🥉'18 🥈'19 . @cerascreen.de LISSEB10 @compex.germany LE30 . #teameble 🇩🇪
+      Simplicity is the ultimate sophistication✨ Made in Italy📍Zurich 📚curious |🎢crazy | 🌍empatic |🧘🏻mindfull |🎭Arts |💫Aquarius
     location: "Switzerland"
-    followers: 7429
-    engagement: 524
-    commentsToLikes: 0.025915
-    id: ck6ttcuu39whk0j71d8szqvmk
+    followers: 5442
+    engagement: 2545
+    commentsToLikes: 0.034823
+    id: ck8t6drijd8il0j78i9zqzkcn
     verified: false
-    hashtags: "#teameble, #crossfitlife, #gymnastics, #crossfit"
+    hashtags: "#lago, #swissalps, #lake, #clouds"
+  - username: "marie__sw"
+    fullname: >-
+      Marie Pons🌚
+    bio: >-
+      21🌚Frenchgirl🇫🇷 🇨🇭LSN Street Workout🔥Calisthenics ☕️Coffee☕️ @gornation ATHLETE ❤️ MARIE10 🛍 Check this out ⤵️
+    location: "Switzerland"
+    followers: 4983
+    engagement: 1518
+    commentsToLikes: 0.036176
+    id: ck55lgh8q1ic70i11kzf61k4z
+    verified: false
+    hashtags: "#pullups, #sw, #skate, #stayhome"
+  - username: "fannysmith"
+    fullname: >-
+      Fanny Smith
+    bio: >-
+      🇨🇭Pro Skier Olympic🥉 World Champion🥇🥈🥈🥉 27x🥇World Cup 2x WorldCup overall🏆 Red Bull⭐Villars⭐Hôtel VIU⭐Schöffel⭐Stöckli⭐Schmutz opticiens
+    location: "Switzerland"
+    followers: 37191
+    engagement: 872
+    commentsToLikes: 0.013877
+    id: ck55pjrrrapki0i11cldr2meu
+    verified: false
+    hashtags: "#race, #winteriscoming, #mountain, #switzerland"
 ---

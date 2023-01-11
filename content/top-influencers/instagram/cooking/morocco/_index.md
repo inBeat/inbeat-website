@@ -1,130 +1,106 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Morocco in 2023
+title: Top 10 Cooking Instagram Influencers In Morocco In 2023
 description: >-
-  Find top cooking Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #ramadan #stayhome #staysafe.
+  Find top cooking Instagram influencers in Morocco in 2023. Most popular hashtags: #love #morocco #casablanca #maroc.
 platform: Instagram
-hits: 67
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 67 Instagram influencers like this in Morocco for you to work with.
+hits: 8
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 8 Instagram influencers like this in Morocco for you to contact.
 profiles:
-  - username: "cookingwithalia"
+  - username: "salwazarhane"
     fullname: >-
-      Alia Al Kasimi
+      Salwa Zarhane
     bio: >-
-      Flavors of Morocco & beyond نكهات مغربية وأكثر 🍽✈️ 👇👇FREE EID BOOK #5👇👇 🎬 YouTube & 🔹Facebook: CookingWithAlia ✉️ alia@CookingWithAlia.com
+      🎬
     location: "Morocco"
-    followers: 150372
-    engagement: 74
-    commentsToLikes: 0.017394
-    id: ck15u9zxwm5j50i19bgpvmxbe
+    followers: 274006
+    engagement: 399
+    commentsToLikes: 0.010357
+    id: ck5hmo9iombk60i11a1j7ohri
     verified: false
-    hashtags: "#morocco, #ramadan, #love, #easy"
-  - username: "zainaaguenaou"
-    fullname: >-
-      Zaïna Aguenaou 🦘
-    bio: >-
-      🌟 Love is the answer 🤸🏻‍♀️ Lifestyle ✈️ Travel and FUN 💃🏻 🎤 Radio Presenter @matinaledeksiyer 🎥 Youtube/ZainaAguenaou ✉️ zainaguenaou@gmail.com
-    location: "Morocco"
-    followers: 141624
-    engagement: 393
-    commentsToLikes: 0.014293
-    id: ck139bcwykgja0i19lospdgmn
-    verified: false
-    hashtags: "#corona, #oppomena, #oppo, #covid"
+    hashtags: "#comingsoon, #behindthescenes, #actors, #newproject"
   - username: "karima_said_officiel"
     fullname: >-
       ❤Karima & Said ❤
     bio: >-
       ❤ كريمة وسعيد ❤ - لالة لعروسة 2020 - قلعة سراغنة - Lala laroussa 2020 - 📩 karima.aissaoui@usmba.ac.ma - 📍Casablanca - Chaîne YouTube
     location: "Morocco"
-    followers: 117171
-    engagement: 665
-    commentsToLikes: 0.032833
+    followers: 112361
+    engagement: 631
+    commentsToLikes: 0.026159
     id: ck9hbs5zmi7i40j78gh8t4ops
     verified: false
-    hashtags: "#video, #casablanca, #amour, #maroc"
-  - username: "soniangadi"
+    hashtags: "#confinement, #marocaine, #instagood, #video"
+  - username: "hananibrahimiofficiel"
     fullname: >-
-      Sonia Ngadi
+      Hananeibrahimiofficiel
     bio: >-
-      MUA & Blogger •Influencer• 📞Tel • 0661973471 👻Snapchat• Sonia Ngadi 💌 Contact•soniangadi@hotmail.com 📹YouTube• sonia ngadi
+      Moroccan Actress🎬❤️Casablanca/Morocco🇲🇦Haverhill/Massachusetts 🇺🇸
     location: "Morocco"
-    followers: 575970
-    engagement: 195
-    commentsToLikes: 0.151208
-    id: ck5hr2xipu69c0i11pwcl4wir
+    followers: 397478
+    engagement: 256
+    commentsToLikes: 0.014304
+    id: ck5hmo7czmbgb0i11z5inau1f
+    verified: false
+    hashtags: "#casablanca, #momofgirls, #art, #love"
+  - username: "nisrineelkettani"
+    fullname: >-
+      Nisrine ElKettaniنسرين الكتاني
+    bio: >-
+      • Civil Engineer📍🇲🇦 •"GoodWill Ambassador"📍EU🇪🇺 • Miss Arab Veil & Africa📍🇪🇬 • Civic Activist | Volunteer |Supporting Women Cause • Content Creator 👇
+    location: "Morocco"
+    followers: 390689
+    engagement: 293
+    commentsToLikes: 0.009202
+    id: ck15utmrhoh7h0i19de4qrixz
     verified: true
-    hashtags: "#stayathome, #morocco, #staysafe, #bride"
-  - username: "proud_oof_beauty"
+    hashtags: "#morocco, #inlove, #goodwillambassador, #tetouan"
+  - username: "chekorsfamily"
     fullname: >-
-      MAHA       مهـــى 🎀
+      شقورز | CHEKORS
     bio: >-
-      🎓ingénieur en informatique 👗Model |SkinCare |Makeup |LifeStyle 📥Collab: Insta Direct 📩contact.proudoofbeauty@gmail.com
+      ❤️ Yasser & Rajae & Yanis 💍 For ladies only -> @rajaegarda 💼 Physical education teachers 📩 Chekorsfamily@gmail.com للتعرف علينا 👇🏻
     location: "Morocco"
-    followers: 72494
-    engagement: 253
-    commentsToLikes: 0.034120
-    id: ck14gu7p171w70i19azzy15n9
+    followers: 224189
+    engagement: 1655
+    commentsToLikes: 0.009058
+    id: ckaosije4rnb30i78ng41o9ee
     verified: false
-    hashtags: "#jellaba, #happy, #morocco, #likeforfollow"
-  - username: "amall.channel"
+    hashtags: "#hijab, #babymama, #tweegram, #casablanca"
+  - username: "itsemyhb"
     fullname: >-
-      Amal Channel 🌸
+      ✷  🎀  𝐼𝓂𝒶𝓃𝑒’𝓈𝓌🌺𝓇𝓁𝒹  🎀  ✷
     bio: >-
-      - Moroccan Youtubeur - Beauty💄,Lifestyle🎀 -Youtube 🎬 Amal Channel
+      (っ◔◡◔)っ ♥ Just be simple ♥
     location: "Morocco"
-    followers: 53878
-    engagement: 78
-    commentsToLikes: 0.073423
-    id: ck8t1qtmwwob50j7881n2tr8r
+    followers: 35294
+    engagement: 249
+    commentsToLikes: 0.025996
+    id: ckf5lpau9qfo40j23b92j0x39
     verified: false
-    hashtags: "#youtube, #ramadan, #blogger, #positivity"
-  - username: "rababazmani"
+    hashtags: "#follow4followback, #nature, #instagram, #sunset"
+  - username: "twins_that_travel"
     fullname: >-
-      Rabab Azmani
+      Claire
     bio: >-
-      TV Host 🖥 Youtuber+280k/Model Lifestyle⏰Mom's diaries👶 Farid Ghannam's wife🎸Samar's mom🍼 💌rabab.ghannam@gmail.com Pub @rababazmani_collaboration
+      Looking for Twins That Travel? Find us over on our new handle @twinperspectives
     location: "Morocco"
-    followers: 1354165
-    engagement: 89
-    commentsToLikes: 0.021544
-    id: ck6u2n528srqi0j713nzu5069
+    followers: 126
+    engagement: 55029
+    commentsToLikes: 0.231897
+    id: ck0tz2l0box9d0i190ogc5mhe
     verified: true
-    hashtags: "#followers, #chadatv, #ramadan, #boulangerie"
-  - username: "thesecretsouk"
+    hashtags: "#tttheroes, #keyworkers, #mulan, #alexmonroe"
+  - username: "rg_s.oukaina"
     fullname: >-
-      The Secret Souk
+      𝓢𝓸𝓾𝓴𝓪𝓲𝓷𝓪
     bio: >-
-      treasure hunters • eternal nomads • curated by @nicxxxdesign and @stylistjasmine - currently on IG for @riad42marrakech - hop over to explore 𓁿𓁿
+      • البساطة جمال ♡ • وداد الأمة🔴⚪ 📍𝒞𝒶𝓈𝒶𝒷𝓁𝒶𝓃𝒸𝒶 , ℳℴ𝓇ℴ𝒸𝒸ℴ 🇲🇦ⵣ
     location: "Morocco"
-    followers: 55907
-    engagement: 167
-    commentsToLikes: 0.008905
-    id: ck0vuzsj3mw1m0i1936r562tx
+    followers: 16110
+    engagement: 1631
+    commentsToLikes: 0.029101
+    id: ck9wfmh5ypi4t0j78i4t00zj5
     verified: false
-    hashtags: "#sanctuary, #livingmorewithless, #theartofslowliving, #souking"
-  - username: "mons.saroute"
-    fullname: >-
-      LE MON$ 🇲🇦
-    bio: >-
-      Moroccan Rapper 📀🎙 Management & booking : @gryisthenewblvc Groupe : @swaret_ 🗝 #naviguer out now 🎙🔥 👇👇 👇👇 👇👇
-    location: "Morocco"
-    followers: 317283
-    engagement: 617
-    commentsToLikes: 0.014205
-    id: ck5cia9zmsa3i0i11mdgkpnxj
-    verified: true
-    hashtags: "#saroute, #positivelife, #kass, #raja"
-  - username: "ayoubafricano1"
-    fullname: >-
-      Ayoub Africano
-    bio: >-
-      🔺 Official Instagram for Ayoub Africano 🇲🇦 🔺 Booking :+212607546050 /+212663646941 🔺 bilalazellal@gmail.com 🔺 ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ʟᴀᴛᴇsᴛ ᴡᴏʀᴋ  ⬇️
-    location: "Morocco"
-    followers: 183042
-    engagement: 507
-    commentsToLikes: 0.019394
-    id: ck0w2k01cor8c0i19vwrt2li9
-    verified: false
-    hashtags: "#ayoubafricano, #logic, #newsong, #africanobeats"
+    hashtags: "#fashionillustration, #hijabturkey, #fashion, #look"
 ---

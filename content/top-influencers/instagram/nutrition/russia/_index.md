@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Russia in 2023
+title: Top 10 Nutrition Instagram Influencers In Russia In 2023
 description: >-
-  Find top nutrition Instagram influencers in Russia in 2023. Most popular hashtags: #foodphotography #foodphoto #recipes.
+  Find top nutrition Instagram influencers in Russia in 2023. Most popular hashtags: #model #mood #lifestyle.
 platform: Instagram
-hits: 51
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 51 Instagram influencers like this in Russia for you to contact.
+hits: 65
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 65 Instagram influencers like this in Russia for you to collaborate.
 profiles:
+  - username: "yana_smith_kuznetsova"
+    fullname: >-
+      Автор курса ПОПА 360*🍑
+    bio: >-
+      🥇🥇ArnoldClassicProX2 🏆msOLYMPIAtop10 🥇17 times PROchamp 🏋🏽‍♀️SportLife 🎽BetterBodies ☀️JanTanaAthlete Olimp nutrition @yanasmithschool @yana_smith_ysk
+    location: "Russia"
+    followers: 503361
+    engagement: 291
+    commentsToLikes: 0.045759
+    id: ck5c6mqya5rfe0i113r4nm164
+    verified: false
+    hashtags: "#yanasmithkuznetsova, #motivation, #yanasmithschool, #arnoldclassic2020"
   - username: "romashkinasasha"
     fullname: >-
-      Блогер Алматы Похудение
+      Блогер Алматы Похудение Диета
     bio: >-
-      ⒶⓁⒺⓍⒶⓃⒹⓇⒶ 🌼Независимый Партнёр Herbalife Nutrition 🌼Делаю мир легче🥤 🌼Прошла все круги диет 🤪 🌼Вся инфа в актуальных
+      ⒶⓁⒺⓍⒶⓃⒹⓇⒶ 🌼НП Herbalife Nutrition 🌼А ведь зарекалась «никогдааа»☝️😂 🌼Совмещаю блогинг с сетевым 🌼Вся инфа в актуальных
     location: "Russia"
-    followers: 18589
-    engagement: 229
-    commentsToLikes: 0.097498
+    followers: 18402
+    engagement: 231
+    commentsToLikes: 0.075466
     id: ck6u7e0qbkyo40j71unl9m1kg
     verified: false
-    hashtags: "#worldteam, #herbalifenutrition"
+    hashtags: "#30, #20"
+  - username: "free_people_free"
+    fullname: >-
+      Надежда🍃
+    bio: >-
+      nutritionist
+    location: "Russia"
+    followers: 20694
+    engagement: 193
+    commentsToLikes: 0.085865
+    id: ck5zsm0b3yrae0i149igimvej
+    verified: false
+    hashtags: "#free, #lchf, #lchfdiet"
   - username: "mahtabagahi"
     fullname: >-
       Mahtab Agahi
     bio: >-
       Toronto RU Nutrition
     location: "Russia"
-    followers: 4323
-    engagement: 2005
+    followers: 4189
+    engagement: 2069
     commentsToLikes: 0.027709
     id: ckf5lhmegpkzq0j23manbam6e
     verified: false
     hashtags: ""
-  - username: "stephanpuetz"
-    fullname: >-
-      Stephan 'T-800' Pütz
-    bio: >-
-      🌱 Nutritionist @fightersfoodofficial 📬 DM für Dein individuelles Ernährungskonzept 🥊@topten_martial_arts "T-800" 10%off BI.:NIELS@MMASPIRIT.TV
-    location: "Russia"
-    followers: 23183
-    engagement: 530
-    commentsToLikes: 0.032117
-    id: ck6trg4enyseu0j71dntzovoo
-    verified: false
-    hashtags: "#wintermachtstark, #mmaspirit, #frankfurt, #t800"
-  - username: "sarychevaa.anna"
-    fullname: >-
-      𝐒𝐚𝐫𝐲𝐜𝐡𝐞𝐯𝐚𝐀𝐧𝐧𝐚
-    bio: >-
-      𝐅𝐢𝐧𝐚𝐥𝐢𝐬𝐭 𝐨𝐟 𝐌𝐢𝐬𝐬𝐑𝐮𝐬𝐬𝐢𝐚𝟐𝟎𝟏𝟔 Sports and nutrition #sarych_sport Beauty Model
-    location: "Russia"
-    followers: 37830
-    engagement: 443
-    commentsToLikes: 0.006260
-    id: ckf5nhlt6yb480j23t332ol2y
-    verified: false
-    hashtags: "#volley, #beachvolley, #love, #sport"
-  - username: "lina.avilova"
-    fullname: >-
-      L I N A
-    bio: >-
-      Model | Nutritionist | Yogi Pisces ♓︎ Ocean lover ☼ @avantmodelsagency
-    location: "Russia"
-    followers: 2252
-    engagement: 1012
-    commentsToLikes: 0.050533
-    id: ck601h34sfh620i145vycpqbl
-    verified: false
-    hashtags: ""
-  - username: "karamasik.food"
-    fullname: >-
-      Marina Yushina. Moscow.
-    bio: >-
-      Отпуск до 15.09/On vacation till 15.09. Еда в фотографиях. Canon 6D. It’s all about nutrition, healthy food and beautiful pictures.
-    location: "Russia"
-    followers: 24820
-    engagement: 418
-    commentsToLikes: 0.126228
-    id: ck15tx6dbkcuh0i19lt6b38iy
-    verified: false
-    hashtags: "#karamasik, #recipe, #foodphoto, #foodblog"
   - username: "veronika_chic"
     fullname: >-
-      ЗДОРОВЬЕ МОЛОДОСТЬ КРАСОТА
+      Нутрициолог🌱Эксперт по питанию
     bio: >-
-      Красота залог здоровья ⠀ YOGA & NUTRITION ⠀ Моя Галерея @art_by_vs ⠀
+      Вероника Селюнина ⠀ YOGA&NUTRITION🌱 ⠀ WELLNESS •Персональные тренировки •Китайская медицина •Аюрведа ⠀ Консультации👇🏻
     location: "Russia"
-    followers: 55243
-    engagement: 31
-    commentsToLikes: 0.312969
+    followers: 54673
+    engagement: 21
+    commentsToLikes: 0.279340
     id: ck15pljdbyhde0i1985i26sn5
     verified: false
     hashtags: ""
+  - username: "suzdalkina_olga"
+    fullname: >-
+      Olga Suzdalkina
+    bio: >-
+      SALT restaurant brand chef/ nutritionist/Meditation&Mindfulness teacher/The future is in connection between mind and food💓🌈
+    location: "Russia"
+    followers: 6234
+    engagement: 315
+    commentsToLikes: 0.059653
+    id: ck55mx3e350jn0i114tbhxr71
+    verified: false
+    hashtags: "#nocomments, #focus, #consciousconsumption, #addictive"
+  - username: "_________yanchik_________"
+    fullname: >-
+      Yana Shevchenko
+    bio: >-
+      📍Moscow 🇷🇺 - Kiev 🇺🇦 VIP flight attendant ✈️ Art painter 👩🏼‍🎨 Food expert ,nutritionist🔬
+    location: "Russia"
+    followers: 55422
+    engagement: 266
+    commentsToLikes: 0.016997
+    id: ckap39ll824ni0i78xszp1ok4
+    verified: false
+    hashtags: "#young, #instabeautiful, #girls, #likeme"
+  - username: "nomurushka"
+    fullname: >-
+      Veronika Nomura / モデル　Tokyo
+    bio: >-
+      MUSE Late bloomers ☺️ Architecture| Art | Books | Self develop | Nutrition
+    location: "Russia"
+    followers: 16401
+    engagement: 520
+    commentsToLikes: 0.027410
+    id: ck0vviw8zpc9b0i19gxyv1pej
+    verified: false
+    hashtags: "#expectation, #justdoit, #halloween, #nike"
+  - username: "zaytseva_tasha"
+    fullname: >-
+      Fitness Trainer & Model
+    bio: >-
+      🥩Apollon nutrition Athlete @apollonnutrition 💪🏾 🌍online training 📸 Fitness Model Moscow #FPA#VPFitness#xfitchistieprudi
+    location: "Russia"
+    followers: 34098
+    engagement: 407
+    commentsToLikes: 0.027983
+    id: ck5py9631uwew0i1171j1w0k9
+    verified: false
+    hashtags: "#womenstyle, #fitnessmodel, #moscowcity, #girlstyle"
   - username: "oksanabadina"
     fullname: >-
       oksanabadina
     bio: >-
       Sports nutritionist🍏🍌🍎🍒🍓 Food photographer 📸 Автор 4-х 📕📗📒📘кулинарных книг о здоровом питании Купить мои книги ⬇️⬇️⬇️
     location: "Russia"
-    followers: 16130
-    engagement: 817
-    commentsToLikes: 0.046700
+    followers: 16002
+    engagement: 832
+    commentsToLikes: 0.049339
     id: ck5hlwmknkzxq0i1110sioiep
     verified: false
-    hashtags: "#healthyfood, #veganrecipes, #glutenfree, #recipes"
-  - username: "mishka_bmx"
-    fullname: >-
-      OKATYEV MISHA
-    bio: >-
-      - Russia / KRD 🇷🇺 - Pro BMX-athlet - @adovskayadarsi ❤️ - Sponsors: @xsastore @skills_wear @geneticlab_nutrition @uor_1 - Мой YouTube Канал 👇🏻
-    location: "Russia"
-    followers: 12573
-    engagement: 889
-    commentsToLikes: 0.022146
-    id: ck6ueejo8qged0j715yh2uo7w
-    verified: false
-    hashtags: "#bmx, #xsa, #bmxlife, #skatepark"
-  - username: "ruslsuper"
-    fullname: >-
-      Руслан Халецкий
-    bio: >-
-      ⠀ ▪️Бизнесмен ▪️Тренер и атлет ▪️Нутрициолог ▪️Спикер ▪️Владелец @geneticlab_nutrition #geneticlab 💣💣💣ВИДЕО ТУТ ⤵️💣💣💣
-    location: "Russia"
-    followers: 80508
-    engagement: 526
-    commentsToLikes: 0.010476
-    id: ck5zlk3vjkxrx0i140g434yqo
-    verified: false
-    hashtags: "#bodybuilding, #fitness, #youtube, #geneticlab"
+    hashtags: "#fotobyoksanabadina, #glutenfree, #recipes, #healthyrecipes"
 ---

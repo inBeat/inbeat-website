@@ -1,10 +1,10 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Peru in 2023
+title: Top 10 Dancers TikTok Influencers In Peru In 2023
 description: >-
-  Find top dancers TikTok influencers in Peru in 2023. Most popular hashtags: #dance #fyp #parati #viral.
+  Find top dancers TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #parati #peru #dance.
 platform: TikTok
 hits: 19
-text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_top: Discover the best TikTok profiles on inBeat.
 text_bottom: inBeat has 19 TikTok influencers like this in Peru for you to work with.
 profiles:
   - username: "jhonmcg1"
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.073638
     id: ckbfbrng543q80j23tty46auu
     verified: false
-    hashtags: "#kpoper, #parati, #newtrend, #uwu"
-  - username: "jhonfresh18"
+    hashtags: "#humor, #atiny, #kpop, #newtrend"
+  - username: "jflowfr3sh"
     fullname: >-
       🔥 𝕵𝖍𝖔𝖓𝕱𝖗𝖊𝖘𝖍 🔥
     bio: >-
       JFlowFresh F*cking World IG: JhonFresh18 🔥👄🔥 emoji Dancer, Cree en ti Csm 😤
     location: "Peru"
-    followers: 300000
-    engagement: 1082
-    commentsToLikes: 0.025076
+    followers: 303300
+    engagement: 1198
+    commentsToLikes: 0.018814
     id: ckcvjlrwix2ac0j2355e9m46s
     verified: false
-    hashtags: "#slow, #slowmo, #fyp, #dance"
+    hashtags: "#trend, #parati, #peru, #fyp"
   - username: "_offo"
     fullname: >-
       Offo
     bio: >-
-      Amateur Dancer 🕺🏽🇵🇪 Meta: seguir bailando
+      Amateur Dancer 🕺🏽 Meta: seguir bailando
     location: "Peru"
-    followers: 29800
-    engagement: 740
-    commentsToLikes: 0.033981
+    followers: 30200
+    engagement: 724
+    commentsToLikes: 0.047213
     id: ckcel2tiouqxi0j237n2tqmhy
     verified: false
-    hashtags: "#parati, #peru, #mix, #fyp"
-  - username: "anghie.sanchez"
-    fullname: >-
-      Anghie Sanchez
-    bio: >-
-      Peruvian-Dancer-1999🔥❤️ Ig: @Anghie.s 21 años🥺 14/03🎂
-    location: "Peru"
-    followers: 35600
-    engagement: 1000
-    commentsToLikes: 0.022726
-    id: ckb9nxqvyhzfr0j236g2yim1s
-    verified: false
-    hashtags: "#trend, #loserschallenge, #peruanisima, #novios"
+    hashtags: "#dance, #peru, #fyp, #teenbeach"
   - username: "miguellatorre8"
     fullname: >-
       Miguel La Torre
     bio: >-
       ATHLETE - MODEL - DANCER
     location: "Peru"
-    followers: 57500
-    engagement: 805
-    commentsToLikes: 0.026323
+    followers: 74000
+    engagement: 802
+    commentsToLikes: 0.022238
     id: ck9ev9pfghhk00j78z75lnwlm
     verified: false
-    hashtags: "#man, #fit, #mood, #chiste"
+    hashtags: "#beautiful, #fitness, #man, #love"
   - username: "carlospazobada"
     fullname: >-
       Carlos Paz Obada
     bio: >-
-      Bailarín profesional de salsa 🇵🇪 carlosandrespazobada@gmail MN:@ale.calderons
+      Bailarín profesional de salsa 🇵🇪 Info para mis clases👇👇
     location: "Peru"
-    followers: 168300
-    engagement: 494
-    commentsToLikes: 0.020950
+    followers: 395100
+    engagement: 390
+    commentsToLikes: 0.015147
     id: ckc8b78bh7oig0j233bhuypwv
     verified: false
-    hashtags: "#latino, #professionaldancer, #tutoriales, #tipsdebaile"
-  - username: "ale.calderons"
+    hashtags: "#bachata, #clases, #parejas, #dancer"
+  - username: "angelmunozla"
     fullname: >-
-      Alexandra Calderon Sussoni
+      Lil Angello
     bio: >-
-      Administradora🇵🇪 Bailarina Aficionada💛 🌐DM:@carlospazobada
+      🇵🇪LLEGAMOS AL MILLON?🇵🇪 Spanish versión o remix? 👇🏻ADORO DRILL👇🏻
     location: "Peru"
-    followers: 46600
-    engagement: 485
-    commentsToLikes: 0.024160
-    id: ckc8v8u2bhzg70j23123shh9f
+    followers: 294500
+    engagement: 1115
+    commentsToLikes: 0.077349
+    id: ckd18d751pt6x0j23zcc86alu
     verified: false
-    hashtags: "#tipsdebaile, #ladiesstyle, #bachatadance, #dancers"
-  - username: "laredsentiktok"
-    fullname: >-
-      Kathie Reds
-    bio: >-
-      Síganme en Instagram ☝🏼 @kathiereds
-    location: "Peru"
-    followers: 7702
-    engagement: 337
-    commentsToLikes: 0.034734
-    id: ck9er9nk20t5n0j788hvq6qfd
-    verified: false
-    hashtags: "#greenscreen, #britneychallenge, #peru, #viral"
-  - username: "jorgevalcarcel"
-    fullname: >-
-      Jorge Valcarcel
-    bio: >-
-      Síganme en Instagram ⬆️⬆️IG ❤️😍
-    location: "Peru"
-    followers: 12929
-    engagement: 779
-    commentsToLikes: 0.014015
-    id: cka6dlln48cy80i78mzg25wbe
-    verified: false
-    hashtags: "#viralvideo, #dancerlife, #worldofdance, #videochallenge"
+    hashtags: "#singing, #espa, #foryou, #foryourpage"
   - username: "burbujadedoramas"
     fullname: >-
       Burbujadedoramas
     bio: >-
       Perú 💕💞 Instagram/Facebook: burbujadedoramas YouTube: Thalia Victorio Ramos
     location: "Peru"
-    followers: 155600
-    engagement: 1675
-    commentsToLikes: 0.021927
+    followers: 156200
+    engagement: 1672
+    commentsToLikes: 0.020971
     id: ckbffuaznaqtg0j23fkq8uzg8
     verified: false
-    hashtags: "#burbujadedoramas, #kdrama, #cdrama, #dorama"
+    hashtags: "#truebeautyofficial, #adictaaloskdramas, #fyp, #chinese"
+  - username: "unaufhaltsameslachen"
+    fullname: >-
+      Dumusstesnichtwi
+    bio: >-
+      Du musst es nicht wissen
+    location: "Peru"
+    followers: 22100
+    engagement: 1458
+    commentsToLikes: 0.022892
+    id: ckbksmb6oni4y0j23perk0n35
+    verified: false
+    hashtags: "#adogisforlife, #fun, #rescuedog, #christmas"
+  - username: "saramelitonportil"
+    fullname: >-
+      Paolaola🥰
+    bio: >-
+      La vida es una sola, sé feliz🥰 Mientras no hagas daño haz lo que quieras❤️🇵🇪
+    location: "Peru"
+    followers: 6681
+    engagement: 816
+    commentsToLikes: 0.079566
+    id: ckcp5ff87cqts0j2385bx4ho7
+    verified: false
+    hashtags: "#humor, #parati, #familia, #bella"
+  - username: "jeninred"
+    fullname: >-
+      ems
+    bio: >-
+      i love jisoo... ‘s singing
+    location: "Peru"
+    followers: 135600
+    engagement: 1977
+    commentsToLikes: 0.008299
+    id: ckav4lau4aztj0j236cef8dmx
+    verified: false
+    hashtags: "#jennieblackpink, #jisoo, #fyp, #blinks"
 ---

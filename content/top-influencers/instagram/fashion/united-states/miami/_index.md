@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Miami in 2023
+title: Top 10 Fashion Instagram Influencers In Miami In 2023
 description: >-
-  Find top fashion Instagram influencers in Miami in 2023. Most popular hashtags: #fashion #miami #miamibeach #love.
+  Find top fashion Instagram influencers in Miami in 2023. Most popular hashtags: #fashion #miami #model #miamibeach.
 platform: Instagram
-hits: 806
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 806 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 1001
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 1001 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
+  - username: "__noahjr__"
+    fullname: >-
+      
+    bio: >-
+      Online Coach Help You To Get The Body You Want 💪🏽 While You're Also Enjoying Your Life 🏝️ ONG @fondationfact
+    location: "United States"
+    followers: 69491
+    engagement: 281
+    commentsToLikes: 0.018486
+    id: ck6ubrovqbbat0j71xjevm645
+    verified: false
+    hashtags: "#coaching, #blackmen, #menswear, #commitment"
   - username: "melaniesanroman"
     fullname: >-
       Melanie San Roman WBFF PRO
     bio: >-
       WBFF Bikini Model Pro 🥇 Playboy May 2020 @playboymagsweden Big Heart, Bigger Dreams 💕 Dm me for booking rates: paid shoots only 🌟 Dallas, Texas
     location: "United States"
-    followers: 17158
-    engagement: 622
-    commentsToLikes: 0.058131
+    followers: 20103
+    engagement: 532
+    commentsToLikes: 0.065523
     id: ck5c3g3lrz9730i11v1bdgis4
     verified: false
-    hashtags: "#training, #lingerie, #valentines, #wbff"
-  - username: "mattpluz"
+    hashtags: "#lingeriemodel, #february, #valentines, #wbffpro"
+  - username: "sarah_walker7"
     fullname: >-
-      Matt Pluz™ Miami Photographer
+      SARAH WALKER
     bio: >-
-      📰 Internationally Published: Sport Illustrated, Forbes, Maxim, ELLE, L’Officiel, GRAZIA, InStyle, Ocean Drive, GQ, Billboard, NY Post 💵 Rates on site:
+      TX —> FL📍 @cgmmodels @nealhamilagency @campbellmodels
     location: "United States"
-    followers: 91534
-    engagement: 101
-    commentsToLikes: 0.035535
-    id: ck0w5zs8f683m0i19zmqtv3g6
+    followers: 28591
+    engagement: 277
+    commentsToLikes: 0.026929
+    id: ck6u79uiykaml0j71rtdmq4vo
     verified: false
-    hashtags: "#fashionmodel, #naturallight, #fashion, #miamiphotographer"
-  - username: "kikybou"
+    hashtags: "#fashion, #miamimodel, #model, #fashionmodel"
+  - username: "danilapao"
     fullname: >-
-      Kristelle  |  𝓚𝓲𝓴𝔂
+      Danila Bp
     bio: >-
-      Ottawa - Mtl - Miami 🌴🇨🇦🇺🇸 next 📍🔜: LA
+      Planes de entrenamiento online & presencial alimentación healthy Atleta WELLNESS 📍Miami Coach:@sergio_javier_diaz Patrocinador:@jose.bethapharma
     location: "United States"
-    followers: 16424
-    engagement: 910
-    commentsToLikes: 0.055188
-    id: ck6tzz6elcpko0j71sr559vqu
+    followers: 13081
+    engagement: 962
+    commentsToLikes: 0.031535
+    id: ck9hcjpi9lqbx0j78vhlm2sc9
     verified: false
-    hashtags: "#fashionnova, #glow, #brunette, #novababe"
-  - username: "irynamiami"
+    hashtags: "#training, #strong, #entrenamiento, #yotenetreno"
+  - username: "yascolmanp"
     fullname: >-
-      Iryna  🇺🇦🇷🇺🇺🇸
+      Yasmin Colman P
     bio: >-
-      📩DM for bookings 📸 💍Taken by @reefdiculous💞 🌟Living the Moment 💃🏼Internationally Published Model 🎭Actress 🧘🏼‍♀️Yoga
+      🙌🏼@ultraangels From 🇦🇷 📍Miami,Florida New project🦄 @_alteredegos
     location: "United States"
-    followers: 117581
-    engagement: 59
-    commentsToLikes: 0.058528
-    id: ck6tjewte2kz80j711o15tlum
+    followers: 16439
+    engagement: 289
+    commentsToLikes: 0.037627
+    id: ck15s5r9abd0t0i196g8yr7c5
     verified: false
-    hashtags: "#miami, #smile, #blonde, #fashion"
-  - username: "lifestyleguru_kd"
+    hashtags: "#redpassion, #studio, #thankful, #production"
+  - username: "prior.gz"
     fullname: >-
-      Kenny Daniels
+      SoleCity LLC - Media MGMT 🎬🌟
     bio: >-
-      Lifestyle Influencer Content Creator & Certified Fitness Trainer @corefitnessmiami Papa Johns Code: KENNYCYLVIA25
+      MEDIA PRODUCTION/MARKETING COMPANY📽 CEO - @solecityfilmz / @castedbydivas / @divacastings / @nyhomebase / Inquiries 📧: admin@solecity.info
     location: "United States"
-    followers: 14106
-    engagement: 505
-    commentsToLikes: 0.020349
-    id: ck0ttx9564ppl0i197dl4zukx
+    followers: 9099
+    engagement: 232
+    commentsToLikes: 0.128558
+    id: ck8swzmmffqn20j78rrllkc5h
     verified: false
-    hashtags: "#photoshoot, #fashionstyle, #mensshoes, #lululemon"
-  - username: "bianca_alexandraaa"
+    hashtags: "#explore, #nyc, #artist, #r5"
+  - username: "rafael_villa"
     fullname: >-
-      Baby Powder
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀VILLA STUDIO
     bio: >-
-      Be the change you want to see in the world Collab- biancaoficialalexandra@yahoo.com
+      Photography Studio Miami / Caracas 📲Whatsapp -🇺🇸+1(786)6229727 #RafaelVillaPhoto 📸 BOOKING: 👇🏻👇🏻👇🏻
     location: "United States"
-    followers: 75970
-    engagement: 251
-    commentsToLikes: 0.007781
-    id: ck6u8pof3sxnh0j715xpd483r
+    followers: 21405
+    engagement: 78
+    commentsToLikes: 0.175376
+    id: ck0ubynbofnb80i1963dpptk3
     verified: false
-    hashtags: "#pretty, #lincolnroad, #fashionstyle, #summervibes"
-  - username: "theresa.pichler"
+    hashtags: "#rafaelvillaphoto, #model, #canon, #portraitpage"
+  - username: "therealcortneyd"
     fullname: >-
-      Theresa Pichler
+      Cortney Davis 👑🚀
     bio: >-
-      FASHION DIRECTOR INSTYLE @instylegermany @instylemengermany CREATIVE DIRECTION & STYLING | co-founder | @thebaresea
+      God First 😇 Model 🧚🏼‍♀️ @fordrba @cashapp $therealcortneyd 🤑 5’9 AZ 🌞 Model Of The Year 2019 @phxfashionweek
     location: "United States"
-    followers: 32250
-    engagement: 296
-    commentsToLikes: 0.031793
-    id: ck0w6xqpvaris0i1978ijnx5u
+    followers: 8245
+    engagement: 627
+    commentsToLikes: 0.089334
+    id: ck138agz0fakn0i19xvff9hna
     verified: false
-    hashtags: "#stilllife, #instylegermany, #fashion, #miami"
-  - username: "claudialabianca"
+    hashtags: "#scottsdale, #fashion, #miamiswimweek2021, #beach"
+  - username: "dasity_official"
     fullname: >-
-      Claudia La Bianca
+      𝐃𝐀𝐒𝐈𝐓𝐘 | Model | Chicago
     bio: >-
-      Commissions & sales: info@claudialabianca.com
+      Life is too short to follow the rules. 📍 Chicago | Orlando 👸🏼 Published Model & Video Vixen Dasity.Official@gmail.com or DM to BOOK ME
     location: "United States"
-    followers: 23368
-    engagement: 186
-    commentsToLikes: 0.064192
-    id: ck5q2dk4dfh6f0i11l3w4ulmi
+    followers: 4299
+    engagement: 637
+    commentsToLikes: 0.148216
+    id: ckf5rkpgfd0ht0j23r1mhsszr
     verified: false
-    hashtags: "#graffitiart, #claudialabianca, #kimono, #streetart"
-  - username: "thebossmannmedia"
+    hashtags: "#loveislove, #dasityofficial, #fashion, #miamimodel"
+  - username: "samy.nails"
     fullname: >-
-      Johnny Elizalde
+      𝐒𝐚𝐦𝐲
     bio: >-
-      Award Winning Editor-In-Chief : The BossMann Magazine @thebossmannmagazine | Artist Manager | Venture Coinist | Film production | Photography
+      𝕹𝖆𝖎𝖑 𝖆𝖗𝖙𝖎𝖘𝖙 📍𝖑𝖆𝖘 𝖛𝖊𝖌𝖆𝖘 🇨🇺 📩inf: samynails0617@gmail.com 🆂🅷🅾🅿🛍⤵️
     location: "United States"
-    followers: 6474
-    engagement: 930
-    commentsToLikes: 0.010283
-    id: ck15u9w0ym4z50i1964go9iod
+    followers: 107962
+    engagement: 85
+    commentsToLikes: 0.028533
+    id: ck5hh7h2p6s110i11a1igumda
     verified: false
-    hashtags: "#fashionblogger, #family, #blessed, #followyourdreams"
-  - username: "irisddiaz"
-    fullname: >-
-      IRIS
-    bio: >-
-      📍Miami ✈ 🇨🇺 👻 Diaz-Iris
-    location: "United States"
-    followers: 103024
-    engagement: 195
-    commentsToLikes: 0.036363
-    id: ck5hcy0f0kift0i11644737u0
-    verified: false
-    hashtags: "#jeans, #ootd, #blogger, #quarantineandchill"
+    hashtags: "#nailsofinstagram, #valentines, #california, #reels"
 ---

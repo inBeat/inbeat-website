@@ -1,130 +1,130 @@
 ---
-title: Top 10 Djs Instagram Influencers In Poland in 2023
+title: Top 10 Djs Instagram Influencers In Poland In 2023
 description: >-
-  Find top djs Instagram influencers in Poland in 2023. Most popular hashtags: #dj #summer #polishgirl #beautiful.
+  Find top djs Instagram influencers in Poland in 2023. Most popular hashtags: #rap #mixtape #wsrh #hiphop.
 platform: Instagram
-hits: 24
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 24 Instagram influencers like this in Poland for you to work with.
+hits: 12
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Poland for you to work with.
 profiles:
   - username: "dj_damnlady"
     fullname: >-
       Female DJ 🎧 | Girl Traveler ✈
     bio: >-
-      🖤🤴🏼 @djsoundspace.pl 🎧🎷 @better_than_ex 👯‍♀️ ✈️🌍 #girltravel 🇳🇱🇬🇷🇪🇸🇴🇲🇮🇹🇹🇭🇪🇬 📍🇵🇱 Poland #djdamnlady ▼ M Y S O C I A L M E D I A ▼
+      🖤🤴🏼 @djsoundspace.pl 🎧🎷 @better_than_ex 🎧🎤 @girlsfirst.official ✈️🌍 #girltravel 🇳🇱🇬🇷🇪🇸🇴🇲🇮🇹🇹🇭🇪🇬 📍🇵🇱 #djdamnlady ▼ M Y S O C I A L M E D I A ▼
     location: "Poland"
-    followers: 7897
-    engagement: 644
-    commentsToLikes: 0.032470
+    followers: 8738
+    engagement: 688
+    commentsToLikes: 0.027946
     id: ck9wour7z6o7p0j785wz7i2vm
     verified: false
-    hashtags: "#warszawa"
+    hashtags: ""
   - username: "djsoina_kmv"
     fullname: >-
       DJ SOINA
     bio: >-
-      💿 CEO @kreci_mnie_vinyl 🚀 Rooftop @na_tarasie 🎧 Tour DJ: WSRH & donGURALesko 🔥 Ambasador @rapgrinder @allocacoc_polska ⬇️🧢👕✉️ Shop & Booking
+      @kreci_mnie_vinyl Tour DJ: WSRH & DGE ⬇️🛒👕🧢📀🎧
     location: "Poland"
-    followers: 26585
-    engagement: 163
-    commentsToLikes: 0.017879
+    followers: 27251
+    engagement: 150
+    commentsToLikes: 0.024503
     id: ck55ny1sl78et0i11le30ykdf
     verified: false
-    hashtags: "#mixtape, #krecimnievinyl, #kmv, #tour"
-  - username: "djanedelayna"
-    fullname: >-
-      De Layna
-    bio: >-
-      Hi, I am a djane which loves electronic music 🔊 ➡️ Facebook.com/djanedelayna 💵💰Patreon.com/delayna 🎵 Soundcloud.com/djdelayna 🔈MixCloud.com/djdelayna
-    location: "Poland"
-    followers: 8405
-    engagement: 1017
-    commentsToLikes: 0.036165
-    id: ck0u691sc1bd20i19jscy1kc1
-    verified: false
-    hashtags: "#polishdjs, #ukg, #summertime, #partymix"
-  - username: "dj.taek"
-    fullname: >-
-      Michał Taek
-    bio: >-
-      Business👇 marta.nizio@bashesh.com
-    location: "Poland"
-    followers: 18323
-    engagement: 782
-    commentsToLikes: 0.015849
-    id: ck139uvzxn8e00i19bwgej08j
-    verified: false
-    hashtags: "#dj, #paluch, #borcrew, #djslife"
-  - username: "malachrufuzofficial"
-    fullname: >-
-      Małach/Rufuz
-    bio: >-
-      BOOKING KONCERTÓW: 510 134 710-Oktawia e-mail: Lotty.white.events@gmail.com WSPÓŁPRACA: e-mail: malachrufuzofficial@gmail.com Zamów MR5 ⬇⬇⬇
-    location: "Poland"
-    followers: 83500
-    engagement: 193
-    commentsToLikes: 0.012172
-    id: ck6uhb7ga83rk0j71uu4oadx7
-    verified: false
-    hashtags: "#djshoodee, #ma, #hiphop, #mrcrew"
-  - username: "zieniuphoto"
-    fullname: >-
-      Tomasz Zienkiewicz 📷 zieniu
-    bio: >-
-      📷 Fotografuję: sensual i portrety 📸 Uczę: kursy i warsztaty fotograficzne 🎬Youtube dla fotografów 🔴zieniu napisz do mnie 📥
-    location: "Poland"
-    followers: 28292
-    engagement: 580
-    commentsToLikes: 0.030144
-    id: ck136oorn7ib80i199n7y4sgn
-    verified: false
-    hashtags: "#behindthescenes, #amazingeyes, #beautifulgirl, #platinumblonde"
-  - username: "djmaddson"
-    fullname: >-
-      DJ  M A D D S O N
-    bio: >-
-      🇵🇱 DJane from Poland 💌 booking: djmaddson@gmail.com
-    location: "Poland"
-    followers: 8974
-    engagement: 1620
-    commentsToLikes: 0.016621
-    id: ck8t33v3j1r230j785o7pi55k
-    verified: false
-    hashtags: "#blueeyes, #makeup, #brows, #djgirl"
-  - username: "melokidsmusic"
-    fullname: >-
-      MELO.KIDS
-    bio: >-
-      LISTEN “HOUSE DOWN ” on SPOTIFY 🙌🏻🌑🌑
-    location: "Poland"
-    followers: 20865
-    engagement: 462
-    commentsToLikes: 0.104541
-    id: ckap1fl78udyj0i78yr7ywlu1
-    verified: false
-    hashtags: "#edmaddict, #edmnation, #djlife, #polishdj"
+    hashtags: "#krecimnievinyl, #blend, #donguralesko, #video"
   - username: "polasobun"
     fullname: >-
       ᏢᎾᏞᎪ
     bio: >-
-      nudes&foods @warsawstreets collective
+      @spectomodels
     location: "Poland"
-    followers: 9513
-    engagement: 878
-    commentsToLikes: 0.020833
+    followers: 10138
+    engagement: 898
+    commentsToLikes: 0.022695
     id: ckap8k3hvoo5g0i78f99e95cs
     verified: false
-    hashtags: "#love, #test, #portugal, #portrait"
-  - username: "sunrisefestivalpl"
+    hashtags: "#ootd, #flowers, #sexy, #model"
+  - username: "nsinckler"
     fullname: >-
-      Sunrise Festival
+      Nick Sinckler
     bio: >-
-      🇵🇱Poland - Podczele 23-26 July 2023 Tickets:⤵️
+      Recording Artist💿/ Songwriter✒️ Management 🙋‍♂️ @agent_kubs 602 407 358 Email 👨‍💻 biuro@musicmindent.com ⬇️ AWAKEN ME ⬇️
     location: "Poland"
-    followers: 49299
-    engagement: 227
-    commentsToLikes: 0.015162
-    id: ck13blw9ew1tz0i191q8a8y4m
+    followers: 24363
+    engagement: 121
+    commentsToLikes: 0.049928
+    id: ck5cd5ekdikkw0i11pcz3hspa
     verified: false
-    hashtags: "#wearefamily, #dj, #artist, #live"
+    hashtags: "#dontbullymybreed, #christmasspirit, #janick, #dominicanrepublic"
+  - username: "tomforester"
+    fullname: >-
+      TOM FORESTER
+    bio: >-
+      • DJ / Producer / A&R • PACHA POZNAN Resident @poznanpacha 🍒 • Tiger / Enormous / Hed Kandi / Zulu / Mood Funk / WyldCard • ENJOY by Tom Forester ▼
+    location: "Poland"
+    followers: 3169
+    engagement: 261
+    commentsToLikes: 0.102715
+    id: ck133ys5mueoy0i198msqmm9m
+    verified: false
+    hashtags: "#enjoybytomforester, #itunes, #soundcloud, #enjoy"
+  - username: "cornelrithika_official"
+    fullname: >-
+      Cornel & Rithika Official
+    bio: >-
+      +91-9819878415
+    location: "Poland"
+    followers: 274003
+    engagement: 1515
+    commentsToLikes: 0.007505
+    id: ck15rham47xhc0i19fwapc39y
+    verified: false
+    hashtags: "#cornelandrithika, #bachatasensual, #kizombafusion, #bachatavideo"
+  - username: "dj.taek"
+    fullname: >-
+      Michał Taek
+    bio: >-
+      
+    location: "Poland"
+    followers: 18380
+    engagement: 671
+    commentsToLikes: 0.020637
+    id: ck139uvzxn8e00i19bwgej08j
+    verified: false
+    hashtags: "#mixtape, #chrom, #djtaek, #bor"
+  - username: "pejaslumsattack"
+    fullname: >-
+      Peja Slums Attack
+    bio: >-
+      Kup AR-15, BA i inne: https://baisel.pl/content/10-rps-enterteyment
+    location: "Poland"
+    followers: 238462
+    engagement: 191
+    commentsToLikes: 0.013951
+    id: ck55nxy8r78610i11as8hijww
+    verified: true
+    hashtags: "#magiera, #ar, #black, #peja"
+  - username: "braindeadslon"
+    fullname: >-
+      braindeadslon
+    bio: >-
+      Słoń 🐙👑 📞: MANAGEMENT: @bashesh_official 🛒 SHOP: @vulgaruspl 🎥: YouTube.com/braindeadslon Pub co-owner 🍻: @zlemiejsce Współtwórca gry 🕹: @meat_rpg
+    location: "Poland"
+    followers: 196809
+    engagement: 493
+    commentsToLikes: 0.010849
+    id: ck55nyu1g7a650i11yzceqzoe
+    verified: false
+    hashtags: "#vulgarus, #czerwonyrum, #meatrpg, #wsrh"
+  - username: "_rufuz_mr_crew"
+    fullname: >-
+      Rufuz MR CREW
+    bio: >-
+      ZAMÓW PREORDER RUFUZ DESIGN ⚡️⚡️⚡️ Preorder.pl/rufuz
+    location: "Poland"
+    followers: 41908
+    engagement: 152
+    commentsToLikes: 0.013318
+    id: ck6uhb8ki83x50j718pn36vm6
+    verified: false
+    hashtags: "#hiphop, #steprecords, #design, #360elo"
 ---

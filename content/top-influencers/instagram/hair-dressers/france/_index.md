@@ -1,108 +1,72 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In France in 2023
+title: Top 10 Hair Dressers Instagram Influencers In France In 2023
 description: >-
-  Find top hair dressers Instagram influencers in France in 2023. Most popular hashtags: #hairstyles #dresses #hairstyle #hair.
+  Find top hair dressers Instagram influencers in France in 2023. Most popular hashtags: #dresses #hair #dress #hairstyle.
 platform: Instagram
-hits: 18
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 18 Instagram influencers like this in France for you to work with.
+hits: 19
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 19 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "aalimhakim"
-    fullname: >-
-      Aalim Hakim
-    bio: >-
-      Director:Hakim's Aalim hair n' beauty lounge
-    location: "France"
-    followers: 350773
-    engagement: 331
-    commentsToLikes: 0.005457
-    id: ck0udcrpwirgv0i19k8a7yaax
-    verified: true
-    hashtags: "#aalimhakim, #bollywood, #repost, #live"
   - username: "lesalondenaelle"
     fullname: >-
-      Le Salon de Naëlle
+      Le Salon de Naëlle
     bio: >-
-      Professional Hair stylist 🇫🇷 👻lesalondenaelle ☎️+33 9 52 20 17 32 /+33 1 49 44 61 04 35 Boulevard de la République 93190 Livry Gargan ⬇️RÉSERVATION⬇️
+      Hair stylist 🇫🇷 👻lesalondenaelle 📍52 rue Boissière, Paris 16ème ☎️ 0142251507 📍Livry Gargan 93190 ☎️ 0149446104 / 0952201732 RÉSERVATION ⬇️
     location: "France"
-    followers: 101198
-    engagement: 102
-    commentsToLikes: 0.018320
+    followers: 106649
+    engagement: 60
+    commentsToLikes: 0.007234
     id: ck9hanpdrd9nk0j78qocm433z
     verified: false
-    hashtags: "#hairdresser, #11mai, #blondegirl, #deconfinement"
-  - username: "djema_paris"
+    hashtags: "#paris, #parisienne, #ombre, #blonde"
+  - username: "gjithqka_per_femrat"
     fullname: >-
-      Djéma
+      Gjithqka per Femrat 👗👄💅
     bio: >-
-      Coach 🔥 Contact📩 V.World Champion 🏆 European Champion 🏆 12 fois (times) Champion de France🏆 Life in Paris🇫🇷
+      • Makeup & Hairstyle💫 • Dresses 👗 INSPIRATION
     location: "France"
-    followers: 9414
-    engagement: 664
-    commentsToLikes: 0.018151
-    id: ck8sy5itcjrz80j782j9ca58l
-    verified: false
-    hashtags: "#personaltrainer, #spiritdojo, #musculation, #mode"
-  - username: "liz_amiach"
-    fullname: >-
-      LIZ     🌹
-    bio: >-
-      French babe traveling the world @trendmodelsmgmt 🇪🇸 @welovemodels._ 🇨🇱 @maygermodels 🇦🇷 @tree_models 🇧🇷 📍Paris / Barcelona
-    location: "France"
-    followers: 20990
-    engagement: 277
-    commentsToLikes: 0.022472
-    id: ckaov4w8m32am0i78nr4epwxb
-    verified: false
-    hashtags: "#couplegoals, #lifestyle, #paris, #desert"
-  - username: "ericmaurice57"
-    fullname: >-
-      Eric Maurice
-    bio: >-
-      Art Director @guytang_mydentity @bleulibelluleofficiel Ambassador @jacques_seban
-    location: "France"
-    followers: 49428
-    engagement: 303
-    commentsToLikes: 0.001311
-    id: ck6u5m0foaels0j71wl0l4vll
-    verified: false
-    hashtags: "#refairedanserlesfleurs, #voixtube, #toutestpluspop, #singer"
-  - username: "_angie_arellano_"
-    fullname: >-
-      🤍𝒜𝓃𝑔𝑒𝓁𝒾𝒸𝒶 𝒜𝓃𝒶𝒾𝓈 𝒜𝓇𝑒𝓁𝓁𝒶𝓃𝑜🤍
-    bio: >-
-      • @aaaoutfits •𝑀𝒶𝓃𝒶𝑔𝑒𝒹 𝒷𝓎 @hautecoutureagency •𝑀𝒾𝓈𝓈 𝒸𝑜𝓋𝑒𝓇 𝑔𝒾𝓇𝓁 𝟤𝟢𝟣𝟪 •𝑀𝒾𝓈𝓈 𝓉𝑒𝑒𝓃 𝑀𝓊𝓃𝒹𝒾𝒶𝓁 𝒜𝓇𝒾𝓏𝑜𝓃𝒶 𝟤𝟢𝟤𝟢
-    location: "France"
-    followers: 5617
-    engagement: 1523
-    commentsToLikes: 0.064780
-    id: ckap8ozjgpbfu0i78ao9e1rl8
-    verified: false
-    hashtags: "#dress, #photography, #modelsofinstagram, #photoshoot"
-  - username: "dresses_exclusive"
-    fullname: >-
-      Dresses Exclusive
-    bio: >-
-      Inspiration 👗
-    location: "France"
-    followers: 478828
-    engagement: 104
-    commentsToLikes: 0.004420
-    id: ck15pzatt0di70i19svpuq0ct
+    followers: 377205
+    engagement: 80
+    commentsToLikes: 0.006957
+    id: ckapaqfybx2w20i7867qgj55r
     verified: false
     hashtags: ""
-  - username: "kacilleshi"
+  - username: "mariegrippon"
     fullname: >-
-      Kaci Lleshi
+      Marie Grippon
     bio: >-
-      THE HAIR MAESTRO 💇🏻 📍Prishtine &Worldwide Contact nr. /+38344889889;+38349889889 Partner @sellmakasumoviq #hair#makeup
+      📍 Paris / Reims 🇫🇷 📩 Contact : mariegrippon2@gmail.com @enjoymodelsagency @whatelseagency 👩‍👦 Mommy single / Maman seule
     location: "France"
-    followers: 287318
-    engagement: 81
-    commentsToLikes: 0.007047
-    id: ck0tt9w3l1s6n0i19x27tj108
+    followers: 61192
+    engagement: 676
+    commentsToLikes: 0.031767
+    id: ck0w31cggr4tw0i1930vvch6n
     verified: false
-    hashtags: "#makeup, #hairstyle, #haircolor, #hairstyles"
+    hashtags: "#glamour, #makeup, #doux, #expression"
+  - username: "janessa.crosby"
+    fullname: >-
+      j a n e s s a
+    bio: >-
+      📍slc, ut 🤍former nba dancer ✨outfit ideas | hair inspo ⬇️fashion, home & daily sale finds linked below
+    location: "France"
+    followers: 21185
+    engagement: 691
+    commentsToLikes: 0.037885
+    id: ck5q1bm5xa7m80i11efmsh1lg
+    verified: false
+    hashtags: "#lookbook, #hairdo, #clipinhairextensions, #blonde"
+  - username: "kelleynan"
+    fullname: >-
+      Kelley Nan ™️
+    bio: >-
+      Creator | Nester | Hostess | Baby Paparazzo ▫️▫️▫️ Celebrating a life of bucket lists, casseroles, big hair, pretty place settings, & tiny outfits
+    location: "France"
+    followers: 184885
+    engagement: 113
+    commentsToLikes: 0.066967
+    id: ck0w4swjh094w0i19sdydz6cz
+    verified: false
+    hashtags: "#christmasdecorating, #christmastrees, #diningroomdecor, #livingroomdecor"
   - username: "wedding.pages"
     fullname: >-
       • Luxury Wedding Pages •
@@ -114,17 +78,53 @@ profiles:
     commentsToLikes: 0.007084
     id: ck0ty2lbglcl90i19flacwyif
     verified: false
-    hashtags: "#rings, #showmeyourrings, #bridal, #weddingdresses"
+    hashtags: "#ringbling, #destinationwedding, #weddinginspiration, #bride"
+  - username: "charlene_rso"
+    fullname: >-
+      Charlène Russo
+    bio: >-
+      💗 Mum of Neela & Lénéa 🧸 📍#Lyonnaise, fr ✉️ Contact: scarpinabeauty@gmail.com
+    location: "France"
+    followers: 30620
+    engagement: 247
+    commentsToLikes: 0.047035
+    id: ck5hn8pbyneeu0i11wbed0d98
+    verified: false
+    hashtags: "#mode, #ootd, #fashionstyle, #amour"
+  - username: "_mademoiselle_charliie_"
+    fullname: >-
+      CHARLENE ❥ | Lifestyle
+    bio: >-
+      + French Girl 🇫🇷 + Black & White Outfit + 💌Charlie_fuster@hotmail.fr No Men ⛔️ ( sinon bloqué )
+    location: "France"
+    followers: 31614
+    engagement: 120
+    commentsToLikes: 0.033735
+    id: ck15qx2zs52dr0i19im7c0d15
+    verified: false
+    hashtags: "#frenchgirl, #love, #allblackstyle, #xoxo"
+  - username: "domineckamarkova"
+    fullname: >-
+      👑MISS SLOVAK REPUBLIC T. '15👑
+    bio: >-
+      DOMINIKA MARKOVÁ® O F F I C I A L Collaboration📨 direct Make-up Artist @makeupstar_beautysalon
+    location: "France"
+    followers: 121064
+    engagement: 306
+    commentsToLikes: 0.014021
+    id: ck8t3ylkf4ynn0j78ht2n0c7l
+    verified: false
+    hashtags: "#model, #instagram, #stylish, #follow"
   - username: "zoelamariee"
     fullname: >-
       Zoé & Laurent
     bio: >-
-      💍 Fiançailles le 17 mars 2018 💒 Mariage reporté à avril 2023 - Prépa de notre mariage, inspi, bons plans, astuces... Blog ⬇️
+      💍 Fiançailles le 17 mars 2018 💒 Mariage reporté à avril 2021 - Prépa de notre mariage, inspi, bons plans, astuces... Blog ⬇️
     location: "France"
-    followers: 16028
-    engagement: 221
-    commentsToLikes: 0.019318
+    followers: 16038
+    engagement: 244
+    commentsToLikes: 0.016859
     id: ck6ub1vb36zeg0j717thmx5rl
     verified: false
-    hashtags: "#mariagechic, #frenchwedding, #weddingdecoration, #weddingdesign"
+    hashtags: "#robe, #decorationmariage, #bridetobe2022, #weddingdress"
 ---

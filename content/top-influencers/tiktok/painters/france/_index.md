@@ -1,120 +1,120 @@
 ---
-title: Top 10 Painters TikTok Influencers In France in 2023
+title: Top 10 Painters TikTok Influencers In France In 2023
 description: >-
-  Find top painters TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
+  Find top painters TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #foryou #art.
 platform: TikTok
-hits: 22
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 22 TikTok influencers like this in France for you to connect with.
+hits: 30
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 30 TikTok influencers like this in France for you to pitch.
 profiles:
   - username: "lisa.sltn"
     fullname: >-
       ☽☆𝕷𝖎𝖘𝖆☆☾
     bio: >-
-      mood: dark
+      Je fais un peu ce qui me chante 🖤 16.2k d’amour✨🪐
     location: "France"
-    followers: 16000
-    engagement: 2292
-    commentsToLikes: 0.041571
+    followers: 16200
+    engagement: 2104
+    commentsToLikes: 0.037176
     id: ckb98kv15s1kh0j2354zl9blk
     verified: false
-    hashtags: "#mangadraw, #animeart, #draw, #demonslayer"
-  - username: "laetitianavaro"
-    fullname: >-
-      Laetitia Navaro
-    bio: >-
-      ⬆️ Instagram juste la ⬆️
-    location: "France"
-    followers: 12100
-    engagement: 2055
-    commentsToLikes: 0.038561
-    id: ckajjtuulmxfy0i78t2py5p6l
-    verified: false
-    hashtags: "#pourtoi, #fyp, #foryoupage, #dance"
-  - username: "asiamdd555"
-    fullname: >-
-      Asia Marine
-    bio: >-
-      des trucs manga/anime et+ Juste pr le fun 😅 ⚠️Yaoi🔞 I Hope I'm interesting 4 u
-    location: "France"
-    followers: 8512
-    engagement: 1771
-    commentsToLikes: 0.029669
-    id: ckb9dfty00msn0j23c056hkm1
-    verified: false
-    hashtags: "#anime, #otaku, #hxh, #ghibli"
+    hashtags: "#manga, #artistoftiktok, #mangaart, #art"
   - username: "juliagrgn"
     fullname: >-
       Juuliaa
     bio: >-
-      Côte d’Azur
+      Art Nice / Nancy
     location: "France"
-    followers: 16600
-    engagement: 1844
-    commentsToLikes: 0.016865
+    followers: 16300
+    engagement: 1877
+    commentsToLikes: 0.019520
     id: ck963gpajusk10j78p0rcvmli
     verified: false
-    hashtags: "#pourtoi, #devinelapersonne, #foryou, #fyp"
+    hashtags: "#dance, #fyp, #viral, #painting"
+  - username: "maiakubu"
+    fullname: >-
+      måıå
+    bio: >-
+      on est la hein 🐉 Maïa l'abeille 🐝
+    location: "France"
+    followers: 6206
+    engagement: 635
+    commentsToLikes: 0.032637
+    id: ckb9f75n13iut0j23df5vxzuo
+    verified: false
+    hashtags: "#pourtoii, #pourtoi, #relationship, #couple"
+  - username: "roannaroe"
+    fullname: >-
+      harmlessalien 👽
+    bio: >-
+      🇫🇷🇩🇪🇵🇭 It's fine to be creative & artistic B your own , b different
+    location: "France"
+    followers: 3640
+    engagement: 281
+    commentsToLikes: 0.000000
+    id: ckacbwmquhtv10i78h6tx54he
+    verified: false
+    hashtags: "#travelswitzerland, #fyp, #noel, #lifegoeson"
   - username: "zapata_painter"
     fullname: >-
       zapata_painter
     bio: >-
       Rénald ZAPATA Tik-Tok officiel Artiste-peintre en scène depuis 1993
     location: "France"
-    followers: 45000
-    engagement: 1263
-    commentsToLikes: 0.028242
+    followers: 44200
+    engagement: 1215
+    commentsToLikes: 0.037161
     id: ckacld35of0df0i78majj5cgf
     verified: false
-    hashtags: "#tiktok, #art, #thepaintingpuppet, #tvshow"
+    hashtags: "#art, #artiste, #artist, #lfauit"
+  - username: "nnkvt"
+    fullname: >-
+      anouk🐉🌙🤍
+    bio: >-
+      pinterest : nnkvt insta : nnkvt / danceank french ballet dancer ♡
+    location: "France"
+    followers: 3303
+    engagement: 1682
+    commentsToLikes: 0.020519
+    id: ckblg0p4k9rq30j2377vt58k1
+    verified: false
+    hashtags: "#viral, #xyzbca, #inspo, #pourtoi"
   - username: "itsclown_n"
     fullname: >-
-      💛🧡
+      🫀🦋🤡
     bio: >-
       ✿𝐇𝐄𝐘✿ 𝚖𝚎𝚛𝚌𝚒 𝚙𝚘𝚞𝚛 𝚝𝚘𝚞𝚝
     location: "France"
-    followers: 3212
-    engagement: 1900
-    commentsToLikes: 0.044358
+    followers: 3501
+    engagement: 2101
+    commentsToLikes: 0.182701
     id: cka0gmdpf56bu0i78rvrb9m6v
     verified: false
-    hashtags: "#astrologie, #foryou, #pinterest, #aesthetic"
-  - username: "trouvaille_vinted"
+    hashtags: "#fyp, #astrology, #pinterest, #outifit"
+  - username: "paintroader"
     fullname: >-
-      Vinted = bae 💕
+      hkd prd
     bio: >-
-      Je poste un fois par semaine : ✨Mercredi ✨ Lache un p’tit like 💖
+      190k🙏🏽Si tu aimes ma page N’hésite pas à me rejoindre sur ⬇️ 🔥Instagram🔥 ⬇️
     location: "France"
-    followers: 14200
-    engagement: 1356
-    commentsToLikes: 0.014370
-    id: ckd0jk1g4fean0j2385itatew
+    followers: 189400
+    engagement: 618
+    commentsToLikes: 0.005770
+    id: ckc7byeojlog60j23ltujrfsx
     verified: false
-    hashtags: "#kenzosportchallenge, #pinterest, #aesthetic, #secondemain"
-  - username: "maximeee____"
+    hashtags: "#marquage, #miditracage, #paintroad, #paint"
+  - username: "thomas_hz"
     fullname: >-
-      🌚🌝
+      thomas_shz
     bio: >-
-      17 🤍 i luv y’all ig - maxime362__
+      Ig: thomas_shz._ Love you all ❤️ 52k MERCI C’EST ÉNORME 🤯
     location: "France"
-    followers: 18900
-    engagement: 2451
-    commentsToLikes: 0.079215
-    id: ckc8y6yipmkkx0j237qn892uj
+    followers: 52700
+    engagement: 1875
+    commentsToLikes: 0.117946
+    id: ckb9f74fg3ina0j23oqqipgvl
     verified: false
-    hashtags: "#fyp, #foryou, #foryoupage, #pourtoi"
-  - username: "marinebisson9"
-    fullname: >-
-      Marine Bisson
-    bio: >-
-      Maman 👧👦 Couple ♥️ Bordeaux Prothésiste Ongulaire Suivez-moi sur insta
-    location: "France"
-    followers: 8075
-    engagement: 1021
-    commentsToLikes: 0.076458
-    id: ck9gnsz5rxy2s0j78mnhx9xab
-    verified: false
-    hashtags: "#tik, #lesmec, #tiktok, #duo"
+    hashtags: "#me, #fyp, #photo, #newtrend"
   - username: "_edouard_b"
     fullname: >-
       Edouard🐍
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.088403
     id: ckb0u2nobjfzb0j23q33pxpjz
     verified: false
-    hashtags: "#aroufgangsta, #voguechallenge, #foryou, #humour"
+    hashtags: "#foryou, #humour, #bosh, #aroufgangsta"
 ---

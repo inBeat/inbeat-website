@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Finland in 2023
+title: Top 10 Makeup TikTok Influencers In Finland In 2023
 description: >-
-  Find top makeup TikTok influencers in Finland in 2023. Most popular hashtags: #makeup #foryou #fyp #finland.
+  Find top makeup TikTok influencers in Finland in 2023. Most popular hashtags: #foryou #makeup #fyp #suomi.
 platform: TikTok
-hits: 16
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 16 TikTok influencers like this in Finland for you to collaborate.
+hits: 22
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 22 TikTok influencers like this in Finland for you to work with.
 profiles:
-  - username: "vivcqq"
+  - username: "asoothesizzler"
     fullname: >-
-      viveca 🤷🏼‍♀️
+      asoo🌵
     bio: >-
-      I like to do makeup 21/99, Finland🇫🇮
+      I love makeup, anime and you💞 SC : asoothesizzler
     location: "Finland"
-    followers: 43700
-    engagement: 1190
-    commentsToLikes: 0.019770
-    id: ck9rm6x3m1iti0j78a6kpfp4g
+    followers: 3600000
+    engagement: 1198
+    commentsToLikes: 0.018570
+    id: ckav1mdu47oln0j233ye4vrxr
     verified: false
-    hashtags: "#haircolor, #foryoupage, #makeup, #foryou"
-  - username: "isok94_"
+    hashtags: "#suomi, #fyp, #foryou, #viral"
+  - username: "_mona_isa_"
     fullname: >-
-      IsoK
+      🕸️Isa🕸️
     bio: >-
       Gothic like makeup artist from Finland 🇫🇮 Just having fun in here.
     location: "Finland"
-    followers: 15400
-    engagement: 1222
-    commentsToLikes: 0.015443
+    followers: 19100
+    engagement: 994
+    commentsToLikes: 0.015798
     id: cka0nxx3u1b560i78kuy5mfp6
     verified: false
-    hashtags: "#headband, #clothing, #finnish, #gothic"
+    hashtags: "#gothstyle, #rock, #spooky, #funny"
   - username: "floweryghost"
     fullname: >-
       🌸 floweryghost 🌸
     bio: >-
-      💜 𝕻𝖚𝖗𝖕𝖑𝖊 𝖒𝖆𝖉𝖓𝖊𝖘𝖘 💜 | Ꮮιℓα | 20 |Finland| Aries♈️ | she/her 🍬♡
+      💜 𝕻𝖚𝖗𝖕𝖑𝖊 𝖒𝖆𝖉𝖓𝖊𝖘𝖘 💜 | Ꮮιℓα | 20 |Finland| Aries | she/her 🍬♡
     location: "Finland"
-    followers: 207200
-    engagement: 1734
-    commentsToLikes: 0.013612
+    followers: 217400
+    engagement: 1624
+    commentsToLikes: 0.020196
     id: ckbwf8luw1x1o0j23j4ludshj
     verified: true
-    hashtags: "#siamesecat, #makeup, #halloweenmakeup, #kuromi"
+    hashtags: "#hellokitty, #tattoo, #makeup, #lanadelrey"
+  - username: "vivcqq"
+    fullname: >-
+      viveca 🤷🏼‍♀️
+    bio: >-
+      21/99, Fin🇫🇮 She/her ♌️
+    location: "Finland"
+    followers: 43700
+    engagement: 1085
+    commentsToLikes: 0.064548
+    id: ck9rm6x3m1iti0j78a6kpfp4g
+    verified: false
+    hashtags: "#veetimoment, #foryou, #foryoupage, #makeup"
   - username: "jassuuus"
     fullname: >-
       Babygurl
     bio: >-
       20/-00 FIN🇫🇮 SC: jassukkaz IG: jassuuus
     location: "Finland"
-    followers: 28700
-    engagement: 1085
-    commentsToLikes: 0.045712
+    followers: 29200
+    engagement: 967
+    commentsToLikes: 0.051278
     id: ckbks69ubmwx10j23w0ejg6uk
     verified: false
-    hashtags: "#tiktoksuomi, #birthday, #trending, #makeup"
-  - username: "jennvmikkonen"
+    hashtags: "#fyp, #trending, #makeup, #tiktoker"
+  - username: "muncknea"
     fullname: >-
-      Jenna Mikkonen
+      Nea
     bio: >-
-      🇫🇮FIN 🌸 Instagram: jennvmikkonen 🌸 |23|
+      Moikkuu
     location: "Finland"
-    followers: 3942
-    engagement: 586
-    commentsToLikes: 0.159293
-    id: ckbf5dsrvuhqj0j23pc6y9bdx
+    followers: 54900
+    engagement: 680
+    commentsToLikes: 0.011917
+    id: cka6loqce41av0i789tkaqo7k
     verified: false
-    hashtags: "#foryoupage, #maldives, #tiktok, #foryou"
-  - username: "ttinjaa"
+    hashtags: "#foryou, #glam, #makeup, #timewrapscan"
+  - username: "hheyvilmaa"
     fullname: >-
-      Tinja Höglund
+      ♡ vilma ♡
     bio: >-
-      Collabs: tinja.hoglund@gmail.com Artisti🎤 16/03🏳️‍🌈🙏🏻 SOMET LINKISSÄ
+      🏳️‍🌈 18 | finland sc: hheyvilmaa 💛 hheyvilmaa@gmail.com 💛 💚seiskapositive💚
     location: "Finland"
-    followers: 54300
-    engagement: 1350
-    commentsToLikes: 0.020383
-    id: ckavonyukzjsl0j23ha67l4vy
+    followers: 75900
+    engagement: 1841
+    commentsToLikes: 0.041730
+    id: ck9r3mkekqkm00j78pyksfh4q
     verified: false
-    hashtags: "#foryou, #finland, #gay, #christmas"
-  - username: "saattowaki"
-    fullname: >-
-      saattowaki
-    bio: >-
-      🇫🇮 Ig: @saattowaki
-    location: "Finland"
-    followers: 19600
-    engagement: 916
-    commentsToLikes: 0.068244
-    id: ckad9h4uadm240i78lixn1ern
-    verified: false
-    hashtags: "#dance, #halloween, #clown, #jimcarrey"
-  - username: "marzia_j"
-    fullname: >-
-      Maris
-    bio: >-
-      Maris 🇪🇪🇫🇮 💜Follow me on instagram💜 @marisjors
-    location: "Finland"
-    followers: 251300
-    engagement: 1481
-    commentsToLikes: 0.010187
-    id: ck83z6fevy4uh0j783j9rlvpr
-    verified: false
-    hashtags: "#fry, #foryou, #foryoupage, #fyp"
+    hashtags: "#bi, #suomitiktok, #suomi, #foryou"
   - username: "mikaaneiolemahdotonta"
     fullname: >-
       🥰
     bio: >-
-      KIITTI 6K
+      KIITTI 6K 🤖kohta 7K🤖
     location: "Finland"
-    followers: 6336
-    engagement: 1253
-    commentsToLikes: 0.017635
+    followers: 6957
+    engagement: 1290
+    commentsToLikes: 0.081052
     id: cka86phgf3iyt0i78tgw5nuup
     verified: false
-    hashtags: "#fry, #finland, #foryoupage, #fyp"
-  - username: "missparaskeva"
+    hashtags: "#finland, #foryou, #fyp, #foryoupage"
+  - username: "jennvmikkonen"
     fullname: >-
-      Pasha Pozdniakova
+      Jenna Mikkonen
     bio: >-
-      Instagram @missparaskeva 🇫🇮 Finland / 21 y.o
+      🌸 Instagram: jennvmikkonen 🌸 👑💙Baby Boy 04.2021💙👑 🇫🇮FIN
     location: "Finland"
-    followers: 272500
-    engagement: 578
-    commentsToLikes: 0.017719
-    id: ck9eo4pbymev70j78hqajanzv
+    followers: 5344
+    engagement: 476
+    commentsToLikes: 0.110518
+    id: ckbf5dsrvuhqj0j23pc6y9bdx
     verified: false
-    hashtags: "#suomi, #helsinki, #dance, #finland"
+    hashtags: "#babyboy, #maldives, #baby2021, #pregnancy"
+  - username: "yourlocalabortionist"
+    fullname: >-
+      sofia
+    bio: >-
+      
+    location: "Finland"
+    followers: 8883
+    engagement: 465
+    commentsToLikes: 0.055816
+    id: ckbks65gcmw990j23necbqv5a
+    verified: false
+    hashtags: "#suomi, #fyp, #finland, #fry"
 ---

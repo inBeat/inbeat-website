@@ -1,36 +1,60 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Toronto in 2023
+title: Top 10 Rappers TikTok Influencers In Toronto In 2023
 description: >-
-  Find top rappers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryou #foryoupage #toronto.
+  Find top rappers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #foryou #duet.
 platform: TikTok
-hits: 10
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 10 TikTok influencers like this in Toronto, Canada for you to collaborate.
+hits: 14
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Toronto, Canada for you to collaborate.
 profiles:
+  - username: "christian.cal"
+    fullname: >-
+      christian
+    bio: >-
+      🇨🇦🇵🇭
+    location: "Canada"
+    followers: 3114
+    engagement: 877
+    commentsToLikes: 0.055254
+    id: ck92uxqh6o1s60j78birfbj2b
+    verified: false
+    hashtags: "#basketball, #transitions, #filipino, #greenscreen"
+  - username: "muffy_aida"
+    fullname: >-
+      Girl,inApinkSweater
+    bio: >-
+      150k? Toronto 🇨🇦 Sarcasm Queen👑 PinkSweaterGang🤟🏾
+    location: "Canada"
+    followers: 129800
+    engagement: 1998
+    commentsToLikes: 0.034174
+    id: ckbf30806qecd0j23j9cm8opf
+    verified: false
+    hashtags: "#duet, #toronto, #fyp, #stitch"
   - username: "josephfuoco"
     fullname: >-
       Joseph Fuoco
     bio: >-
       🇨🇦/🇮🇹 17 Toronto
     location: "Canada"
-    followers: 38300
-    engagement: 1729
-    commentsToLikes: 0.082572
+    followers: 37900
+    engagement: 1531
+    commentsToLikes: 0.070602
     id: cka0omybb4ne70i78b3m8h10g
     verified: false
-    hashtags: "#fyp, #emoji, #rap, #music"
-  - username: "aidan.weiss"
+    hashtags: "#hiphop, #flightreacts, #rap, #artist"
+  - username: "ogr_scintilla"
     fullname: >-
-      Aidan Weiss
+      OGR-Scintilla
     bio: >-
-      18 | Toronto 🇦🇫🇨🇦 Email: aidanweiss86@gmail.com
+      Join me on my journey to become 🇨🇦‘s Greatest Rapper 👇 JOIN THE HOSER GANG
     location: "Canada"
-    followers: 27800
-    engagement: 1068
-    commentsToLikes: 0.346142
-    id: ck9ndec10crli0j78k2jw127c
+    followers: 247700
+    engagement: 1557
+    commentsToLikes: 0.053776
+    id: ck8nb71ap8jc20j7858upwxls
     verified: false
-    hashtags: "#dominoes, #foryou, #greenscreenvideo, #series"
+    hashtags: "#drake, #duet, #greatestincanada, #troll"
   - username: "stlkurdi"
     fullname: >-
       Stlkurdi
@@ -42,43 +66,43 @@ profiles:
     commentsToLikes: 0.074959
     id: ck9nu7xc6lvtz0j78jo2gt2tw
     verified: false
-    hashtags: "#foryou, #viral, #morningboost, #comedy"
-  - username: "markiizzle"
+    hashtags: "#fyp, #foryou, #comedy, #viral"
+  - username: "livandsierra"
     fullname: >-
-      ✰ Markus ✰
+      Liv&Sierra&Sara🥰
     bio: >-
-      Toronto | 20 | 🇯🇲🇵🇹
+      toronto📍 5k? 02 get us famous🥺 @sierra.fiorido @saracarnovale @oliviauniacke
     location: "Canada"
-    followers: 90900
-    engagement: 1254
-    commentsToLikes: 0.023540
-    id: ck8vy3uost52f0j78gd6o3xnr
+    followers: 4247
+    engagement: 575
+    commentsToLikes: 0.038922
+    id: ckc37m6suwho70j23z27biaxy
     verified: false
-    hashtags: "#golfr, #fyp, #cargirl, #foryou"
-  - username: "lil.pz"
-    fullname: >-
-      Lil.pz
-    bio: >-
-      🌟 I Follow back on ig (@lil.pz)❤️🙏🏽
-    location: "Canada"
-    followers: 50100
-    engagement: 1143
-    commentsToLikes: 0.070628
-    id: ck9m0ywc0cj4v0j78kflxq8di
-    verified: false
-    hashtags: "#lightskin, #quandorondo, #curlyhead, #kingvon"
+    hashtags: "#foryou, #itbelikethat, #canada, #ontario"
   - username: "dylanhennessy"
     fullname: >-
       Dylan Hennessy
     bio: >-
       Rocker, skater, guitarist. Email for online lessons! dylanhennessymusic@gmailcom
     location: "Canada"
-    followers: 2993
-    engagement: 864
-    commentsToLikes: 0.051895
+    followers: 2989
+    engagement: 902
+    commentsToLikes: 0.059707
     id: ck900x3u7avii0j78el1l10wv
     verified: false
-    hashtags: "#metal, #cover, #guitarist, #coversong"
+    hashtags: "#cover, #foryourpage, #vibe, #lol"
+  - username: "thatlebtala"
+    fullname: >-
+      Tala
+    bio: >-
+      🇱🇧🇱🇧🇱🇧 Ceo of 👺 19 Carleton engineering
+    location: "Canada"
+    followers: 6447
+    engagement: 910
+    commentsToLikes: 0.076522
+    id: ckace8na2lma30i787vadv9vw
+    verified: false
+    hashtags: "#funny, #albania, #arab, #trend"
   - username: "domvallie"
     fullname: >-
       DOM VALLIE
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.019897
     id: cka8fno7o32fn0i78grk6si02
     verified: false
-    hashtags: "#foryou, #rapper, #duet, #splashfreestylechallenge"
-  - username: "sufyaanalii"
+    hashtags: "#splashfreestylechallenge, #splashchallenge, #freestyle, #fyp"
+  - username: "hypebio"
     fullname: >-
-      Sufyan Ali
+      Hypebio
     bio: >-
-      Dream big,work hard,be humble,stay focused. 🇨🇦🇵🇰
+      Follow our Instagram ☝🏼 CEO of Hype Email: hypebio@hotmail.com
     location: "Canada"
-    followers: 4226
-    engagement: 388
-    commentsToLikes: 0.112866
-    id: ckb9o50iii6hz0j23wxk2gp09
+    followers: 57500
+    engagement: 1136
+    commentsToLikes: 0.027503
+    id: ck8072w2fo98e0j78wh5rwvg7
     verified: false
-    hashtags: "#fyp, #systemicracism, #policebrutality, #blacklivesmatter"
-  - username: "lildrizzy"
-    fullname: >-
-      LilDrizzy
-    bio: >-
-      Everything’s a joke😈 15k?👀 Get Me To 5k On Insta: @rafayraja 💙
-    location: "Canada"
-    followers: 13900
-    engagement: 994
-    commentsToLikes: 0.037888
-    id: ckbwaflet04b90j23ixzbu2rj
-    verified: false
-    hashtags: "#comedy, #music, #nav, #viral"
-  - username: "waggy1"
-    fullname: >-
-      Waggy1
-    bio: >-
-      🇨🇦Wagwan🇨🇦 Trying to get to 100k follower ❤️CEO of liking comments❤️ 👁👄👁
-    location: "Canada"
-    followers: 22900
-    engagement: 428
-    commentsToLikes: 0.051352
-    id: ckc8hfm8abfz90j23jawcph1i
-    verified: false
-    hashtags: "#fyp, #tiktok, #shark, #foryou"
+    hashtags: "#lilbaby, #foryoupage, #rap, #foryou"
 ---

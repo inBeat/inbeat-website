@@ -1,130 +1,130 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Norway in 2023
+title: Top 10 Outdoors Instagram Influencers In Norway In 2023
 description: >-
-  Find top outdoors Instagram influencers in Norway in 2023. Most popular hashtags: #norway #norge #utno.
+  Find top outdoors Instagram influencers in Norway in 2023. Most popular hashtags: #norge #nature #liveterbestute.
 platform: Instagram
-hits: 195
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 195 Instagram influencers like this in Norway for you to contact.
+hits: 119
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat has 119 Instagram influencers like this in Norway for you to collaborate.
 profiles:
   - username: "marensolem"
     fullname: >-
-      MAREN SOLEM 🇳🇴 Norway
+      Maren Solem🇳🇴 Norway
     bio: >-
-      mountains, exploring, travel, gym & outdoors. Life is fun🌾 ✉️ solemmaren@gmail.com
+      mountains, exploring, travel, gym & outdoors. Life is fun🌾
     location: "Norway"
-    followers: 8127
-    engagement: 1797
-    commentsToLikes: 0.068003
+    followers: 11220
+    engagement: 1227
+    commentsToLikes: 0.155888
     id: ck14jdqjdjty60i194xbed60e
     verified: false
-    hashtags: "#hjelle, #mosekleivhornet, #sunnm, #norway"
-  - username: "vero9cah"
-    fullname: >-
-      PT VERONICA.H 🇳🇴 BERGEN
-    bio: >-
-      ⭐️PersonalTrainer #PT Bergen [ @afpt ] ⭐️NOCCO @nocconorge ⭐️TIGHTS.NO @tights_no #crossfit #bootcamp #outdoors
-    location: "Norway"
-    followers: 27512
-    engagement: 657
-    commentsToLikes: 0.148602
-    id: ck8t1wg5oxb5y0j78hwu0l4e7
-    verified: false
-    hashtags: ""
-  - username: "helenemoo"
-    fullname: >-
-      Helene Myhre
-    bio: >-
-      Norway 🌈⛰🏃🏽‍♀️🌱📸💧 Outdoors, road trips & photo tips Tutorials on my highlights Photo filters on the link ↓
-    location: "Norway"
-    followers: 62671
-    engagement: 786
-    commentsToLikes: 0.011025
-    id: ck5c4kbyb1j7e0i11qd3wl7qc
-    verified: false
-    hashtags: ""
-  - username: "frkannkristin"
-    fullname: >-
-      Ann-Kristin Bakkene
-    bio: >-
-      🇳🇴-Norway 🏕-Outdoors
-    location: "Norway"
-    followers: 7176
-    engagement: 947
-    commentsToLikes: 0.032030
-    id: ck8t6vzm6evh00j78bfdu0so7
-    verified: false
-    hashtags: "#jaktpr, #selfie, #strongersweden"
-  - username: "linevsverdrup"
-    fullname: >-
-      Line Victoria Sverdrup
-    bio: >-
-      Adventurer with passion for the outdoors♡ 🎿 @asnes1922 ❄️ @fjellpulken 🦊 @fjellrevenshop 🥾 @alfasko ⌚️ @suunto_norge 🐺 @royalcaninnorway
-    location: "Norway"
-    followers: 30710
-    engagement: 654
-    commentsToLikes: 0.032543
-    id: ck0w54ip71v0e0i19toa6rei2
-    verified: false
-    hashtags: "#fjelljenter, #trekkinglovers, #norwegiannature, #greenlanddog"
+    hashtags: "#giveaway, #trondheim, #geirangerfjorden, #happynewyear"
   - username: "maja_odden"
     fullname: >-
       🍁Maja Odden🍁
     bio: >-
-      22-year old Norwegian huntress who loves the outdoors! Follow my adventures!❄️🏕🦌🔥🌲
+      23-year old Norwegian huntress who loves the outdoors! Follow my adventures!❄️🏕🦌🔥🌲 Ambassadør for @jegerogfisk
     location: "Norway"
-    followers: 89599
-    engagement: 550
-    commentsToLikes: 0.019148
+    followers: 96208
+    engagement: 487
+    commentsToLikes: 0.009415
     id: ck14l0lazs9k40i19z2n577iz
     verified: false
-    hashtags: "#jakt, #jagd, #realtreecamo, #villmarksliv"
+    hashtags: "#friluftsliv, #tur, #canamoffroadlivin, #itsinmynature"
+  - username: "helenemoo"
+    fullname: >-
+      Helene Myhre
+    bio: >-
+      Norway 🌈🏔🏃🏽‍♀️🌱⛺️📸 Outdoors, road trips & photo tips Presets, Prints & Turbok ↓
+    location: "Norway"
+    followers: 149391
+    engagement: 792
+    commentsToLikes: 0.009845
+    id: ck5c4kbyb1j7e0i11qd3wl7qc
+    verified: false
+    hashtags: ""
   - username: "turkjellene"
     fullname: >-
       TURKJELLENE
     bio: >-
       Two Norwegian girls loving the outdoors 🏔🏕☀️ 🇳🇴Sykkylven/Bergen ✉️turkjellene@gmail.com 📸@henrikkeh|@marieloseth
     location: "Norway"
-    followers: 5274
-    engagement: 1547
-    commentsToLikes: 0.029743
+    followers: 5685
+    engagement: 1472
+    commentsToLikes: 0.034862
     id: ck6u9d7tbwvqw0j7159quzada
     verified: false
-    hashtags: "#norgeraw, #mynorway, #lonelyplanet, #thegreatoutdors"
+    hashtags: "#utno, #outnorth, #mustinorge, #sunnm"
+  - username: "isabellaeinarsen"
+    fullname: >-
+      Isabella | Lofoten | Adventure
+    bio: >-
+      ♡ Isabella from the Arctic Lofoten islands ♡ Doing fun stuff outdoors ⋯ 🦋Supported by @monsterenergy @swims.norway Working @👇🏼⛰
+    location: "Norway"
+    followers: 17585
+    engagement: 1004
+    commentsToLikes: 0.073069
+    id: ckaoqluh3jawt0i783bbxoqao
+    verified: false
+    hashtags: "#monsterhydrosport, #sheisnotlost, #darlingescapes, #mountaingirls"
+  - username: "linevsverdrup"
+    fullname: >-
+      Line Victoria Sverdrup
+    bio: >-
+      Adventurer with passion for the outdoors♡ 🎿 @asnes1922 ❄️ @fjellpulken 🐑 @brynjeofnorway 🦊 @fjellrevenshop 🥾 @alfasko ⌚️ @suunto_norge
+    location: "Norway"
+    followers: 30628
+    engagement: 569
+    commentsToLikes: 0.026523
+    id: ck0w54ip71v0e0i19toa6rei2
+    verified: false
+    hashtags: "#mittfriluftsliv, #fjelltur, #turjenter, #sj"
   - username: "iina_elisabeth"
     fullname: >-
       IINA SAARIKKO
     bio: >-
       Addicted to hunting and outdoors with two lapphunds and three norwegian elkhounds in Finland 🍁 🔸Härkila • Sauer Suomi 🔸Tracker • Non-Stop Dogwear
     location: "Norway"
-    followers: 10704
-    engagement: 1402
-    commentsToLikes: 0.005871
+    followers: 11003
+    engagement: 1396
+    commentsToLikes: 0.004746
     id: ck14hfhlsa2980i19kt1lp5ko
     verified: false
-    hashtags: "#autumn, #sunset, #huntingdog, #jakt"
-  - username: "joonaslinkola"
+    hashtags: "#moosehunting, #nature, #ja, #lapponianherder"
+  - username: "runedahl"
     fullname: >-
-      Joonas Linkola
+      Rune Dahl
     bio: >-
-      outdoors & cabin life photo | video | podcast @valokuvauspodcast hello@joonaslinkola.com
+      Professional photographer based in Narvik, Northern Norway.⁣⁣⁣ ⁣⁣Skiing, biking & outdoors ⁣🏔
     location: "Norway"
-    followers: 155187
-    engagement: 413
-    commentsToLikes: 0.012542
-    id: ck0u07p1ysy750i190dp13y7g
-    verified: false
-    hashtags: "#norway, #lofoten, #stayandwander, #finland"
-  - username: "rune.d"
-    fullname: >-
-      R u n e  D a l h e i m
-    bio: >-
-      outdoors and photo enthusiast-based above the arctic circle-bodø-northern norway
-    location: "Norway"
-    followers: 5843
+    followers: 5632
     engagement: 763
-    commentsToLikes: 0.049365
-    id: ck5q13284914l0i110de6fipm
+    commentsToLikes: 0.007653
+    id: ck13623b64dm10i19kgnilggu
     verified: false
-    hashtags: "#lake, #natureofnorway, #fjelltid, #nrknordland"
+    hashtags: "#norway, #beautiful, #dnt, #troyleedesigns"
+  - username: "idambt"
+    fullname: >-
+      Ida | Adventure time
+    bio: >-
+      Norwegian🇳🇴 Love being outdoors Work @turnaround.as @fjallaventyr
+    location: "Norway"
+    followers: 2515
+    engagement: 838
+    commentsToLikes: 0.032068
+    id: ck5zy8yqj9fx20i14nyfhrk7s
+    verified: false
+    hashtags: "#outdoorgirl, #vacation, #alaskanhusky, #alaskanhuskie"
+  - username: "bodildall"
+    fullname: >-
+      ↟ Bodil Dorothea Gilje ↟
+    bio: >-
+      👩🏼‍💻 Designer & outdoors 💫 Årets Turjente 2017 🌲 @RevirOslo 🔥 @Revirbushcraft 🏕 @turjenter.no
+    location: "Norway"
+    followers: 30791
+    engagement: 517
+    commentsToLikes: 0.011487
+    id: ck139fdi7l0v20i19b2gcchkr
+    verified: false
+    hashtags: "#socialdistancing, #tb, #allsang, #viliggerherenda"
 ---

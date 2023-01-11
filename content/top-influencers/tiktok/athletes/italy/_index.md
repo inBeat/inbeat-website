@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Italy in 2023
+title: Top 10 Athletes TikTok Influencers In Italy In 2023
 description: >-
-  Find top athletes TikTok influencers in Italy in 2023. Most popular hashtags: #perte #workout #fitness #foryoupage.
+  Find top athletes TikTok influencers in Italy in 2023. Most popular hashtags: #foryou #fyp #perte #viral.
 platform: TikTok
-hits: 21
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 21 TikTok influencers like this in Italy for you to work with.
+hits: 20
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 20 TikTok influencers like this in Italy for you to collaborate.
 profiles:
   - username: "brian_power01"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Pro Breakdancer and Tricker Athlete 👉 My IG @brian_power01 🇮🇹 Firenze, Italy
     location: "Italy"
-    followers: 11700
-    engagement: 1390
-    commentsToLikes: 0.085617
+    followers: 16300
+    engagement: 1179
+    commentsToLikes: 0.064002
     id: ckbqhm8od2wmp0j233804foms
     verified: false
-    hashtags: "#fly, #foru, #crazy, #neiperte"
+    hashtags: "#me, #omg, #foru, #tiktok"
   - username: "marko_noct"
     fullname: >-
       Marko Noctis
     bio: >-
-      Stunt performer🎬 - Spiderman🕸 Parkour & Freerunning Pro Athlete IG: marko_noct
+      Stuntman 🎬 - Spiderman🕸 Parkour & Freerunning Pro Athlete IG: marko_noct
     location: "Italy"
-    followers: 34600
-    engagement: 1475
-    commentsToLikes: 0.036101
+    followers: 37200
+    engagement: 1363
+    commentsToLikes: 0.030792
     id: ck8se1ilhhv2v0j78gafytg1m
     verified: false
-    hashtags: "#twinchange, #funnyvideos, #spidermancosplay, #spiderman"
-  - username: "lorenzorotatori"
+    hashtags: "#parkour, #marvelcosplay, #foryoupage, #fyp"
+  - username: "andrea_maranelli"
     fullname: >-
-      Lorenzo Rotatori
+      Andrea Maranelli
     bio: >-
-      🏆athlete🏆 🥋martial artist🥋 🧨🧨stuntman🧨🧨 manphysique european champion🏅
+      Professional MTB athlete from 🇮🇹 My new video, “Always Late”, is now out! ⬇️
     location: "Italy"
-    followers: 40500
-    engagement: 834
-    commentsToLikes: 0.070637
-    id: ckc86m5ty5mdh0j23s57f7ao7
+    followers: 24100
+    engagement: 2093
+    commentsToLikes: 0.008966
+    id: ckauon89ztp0k0j23qml9qj24
     verified: false
-    hashtags: "#bodybuilder, #nature, #lorenzorotatori, #crazy"
-  - username: "salvospera"
-    fullname: >-
-      Salvo Spera
-    bio: >-
-      Athlete /C. P. /ifbb PLATINUM MUSCLE 24y.o. ♐ Sicilia 🇮🇹 Coaching online
-    location: "Italy"
-    followers: 10800
-    engagement: 888
-    commentsToLikes: 0.021133
-    id: ckbf0064nldlu0j236l533whl
-    verified: false
-    hashtags: "#classicphysique, #lifestyle, #gym, #bodybuilding"
-  - username: "isma__sw"
-    fullname: >-
-      Isma🔥
-    bio: >-
-      Street workout&Calisthenics athlete🔥 Dynamic&Static🔥 Treviso 185×80 🔜25k
-    location: "Italy"
-    followers: 21400
-    engagement: 932
-    commentsToLikes: 0.043327
-    id: ckbffdbnfa0940j234d85mml2
-    verified: false
-    hashtags: "#streetworkout, #challenge, #fitness, #gymnastic"
+    hashtags: "#fun, #bike, #mtb, #enduro"
   - username: "matteo.paolini.88"
     fullname: >-
       Matteo Paolini
     bio: >-
-      Fitness & food lover 🇮🇹Italian athlete🇮🇹 ⬇️My Instagram for more⬇️
+      MY INSTAGRAM⬆️ 🇮🇹ITALIAN ATHLETE🇮🇹 Use code MATTEO25 @bangenergy
     location: "Italy"
-    followers: 427000
-    engagement: 1051
-    commentsToLikes: 0.006438
+    followers: 1100000
+    engagement: 904
+    commentsToLikes: 0.008119
     id: ckc30kog0r9g60j23d6ll9w6n
     verified: false
-    hashtags: "#perte, #foryoupage, #sport, #fitnessmotivation"
+    hashtags: "#foryou, #fyp, #calisthenics, #bangenergy"
+  - username: "isma__sw"
+    fullname: >-
+      Isma🔥
+    bio: >-
+      Street workout&Calisthenics athlete🔥 Dynamic&Static🔥 Treviso 186×80 🔜25k
+    location: "Italy"
+    followers: 21800
+    engagement: 761
+    commentsToLikes: 0.052977
+    id: ckbffdbnfa0940j234d85mml2
+    verified: false
+    hashtags: "#passion, #lifestyle, #swing360freestyle, #motivation"
   - username: "federicocorvi"
     fullname: >-
       Federico
     bio: >-
       PRO FREERIDE ATHLETE SPORT // FITNESS // TRAVEL Instagram: @federicocorvi 🙏🏻
     location: "Italy"
-    followers: 16400
-    engagement: 565
-    commentsToLikes: 0.020972
+    followers: 16500
+    engagement: 590
+    commentsToLikes: 0.019139
     id: ck9dx2ho7rjgu0j78qcy5v7p4
     verified: false
-    hashtags: "#ski, #mountain, #winter, #skifreeride"
-  - username: "erikbarsi_sw"
-    fullname: >-
-      erikbarsi_sw
-    bio: >-
-      Not an ordinary person •Calisthenics Pro-Athlete •Influencer Ig @erikbarsi_sw
-    location: "Italy"
-    followers: 100600
-    engagement: 1110
-    commentsToLikes: 0.010044
-    id: cka0wxn3z4slg0i780cwypdkd
-    verified: false
-    hashtags: "#viral, #mystyle, #foryoupage, #foryou"
+    hashtags: "#notviral, #ski, #skifreeride, #notforyou"
   - username: "ibradiakite"
     fullname: >-
       Ibra Diakite 🍫
     bio: >-
-      Athlète Street workout calisthenics 🦍 Insta @ibradiakite🍫
+      Athlète street workout calisthenics 🦍 Insta @ibradiakite🍫
     location: "Italy"
-    followers: 16200
-    engagement: 573
-    commentsToLikes: 0.023161
+    followers: 20200
+    engagement: 675
+    commentsToLikes: 0.027559
     id: ckdbugcm3d6vl0j23vo5nsbco
     verified: false
-    hashtags: "#motivation, #fyp, #gym, #workout"
+    hashtags: "#perte, #perfect, #challange, #italia"
   - username: "italiateam"
     fullname: >-
       italiateam
     bio: >-
       Be inspired by the #ItaliaTeam athletes!
     location: "Italy"
-    followers: 275900
-    engagement: 959
-    commentsToLikes: 0.004746
+    followers: 275500
+    engagement: 1014
+    commentsToLikes: 0.007006
     id: ck976u5rp15gw0j788icisrsv
     verified: true
-    hashtags: "#italiateam, #mondaymotivation, #allenamento, #tuffi"
+    hashtags: "#training, #cortina2021, #italiateam, #ilmiosport"
+  - username: "erikbarsi_sw"
+    fullname: >-
+      erikbarsi_sw
+    bio: >-
+      #barsimode 🤟🏼 Pro-Athlete/Content creator PROFILO INSTAGRAM👇🏼🔥
+    location: "Italy"
+    followers: 200300
+    engagement: 938
+    commentsToLikes: 0.009788
+    id: cka0wxn3z4slg0i780cwypdkd
+    verified: false
+    hashtags: "#perte, #calisthenics, #barsimode, #foryou"
+  - username: "jacopo_rocky_sw"
+    fullname: >-
+      Rocky_SW
+    bio: >-
+      Calisthenics athlete 🏆 18 y/o BARBROTHERS 🇮🇹
+    location: "Italy"
+    followers: 2698
+    engagement: 488
+    commentsToLikes: 0.012563
+    id: ckac6stneecrx0i78zqwl6on6
+    verified: false
+    hashtags: "#barbrothers, #muscleup, #foryou, #tiktok"
 ---

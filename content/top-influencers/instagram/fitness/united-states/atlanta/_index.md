@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Atlanta in 2023
+title: Top 10 Fitness Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top fitness Instagram influencers in Atlanta in 2023. Most popular hashtags: #fitness #atlanta #gym #workout.
+  Find top fitness Instagram influencers in Atlanta in 2023. Most popular hashtags: #fashion #fitness #ootd #atlanta.
 platform: Instagram
-hits: 229
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 229 Instagram influencers like this in Atlanta, United States for you to pitch.
+hits: 225
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 225 Instagram influencers like this in Atlanta, United States for you to collaborate.
 profiles:
   - username: "the_templebuilder"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🙏🏾HE>family>i 💪🏾Coaching & 🍎Nutrition 🦋Transformation Specialist 🛡Owner @gladiator_fitness_atlanta 💊 @gaspari MILES20 Click to get started 🔽🔽🔽🔽
     location: "United States"
-    followers: 18962
-    engagement: 158
-    commentsToLikes: 0.092063
+    followers: 19288
+    engagement: 169
+    commentsToLikes: 0.088210
     id: ckap1cqb8u12v0i788bg96jbb
     verified: false
-    hashtags: "#fitover50"
-  - username: "_stephanielaine"
+    hashtags: "#love, #blacklove, #family, #blessed"
+  - username: "andzelika_bobrova"
     fullname: >-
-      Stephanie Laine ⚡️
+      Andzelika
     bio: >-
-      Guided by Sublime Atlanta New music coming 🥁 Stream my latest mix below 😈
+      
     location: "United States"
-    followers: 32526
-    engagement: 110
-    commentsToLikes: 0.074599
-    id: ckf5n22ndwejb0j23flzdnwsx
+    followers: 31977
+    engagement: 369
+    commentsToLikes: 0.040896
+    id: ck8sxf0emh5s40j78hce8tuqa
     verified: false
-    hashtags: "#urban, #cycling, #dance, #musicpromotion"
-  - username: "traineverhard2.0"
+    hashtags: "#losangelesmodel, #atlantamua, #fashionphotographer, #actress"
+  - username: "anissa.mendez"
     fullname: >-
-      IFBB Pro Lorenzo Everhard
+      Anissa Mendez✨
     bio: >-
-      NASM Fitness Professional Weight Loss Specialist Physique Sculptor ⚒ Atlanta, Ga 🌎 Photographer @EverHardPhotos IFBB Men's Physique Pro
+      •Miss Texas Teen USA 2020👑 •@misstxteenusa 💛 •Model Management @nymmg •@sweetsweat Ambassador •%code: ANISSA10
     location: "United States"
-    followers: 23160
-    engagement: 175
-    commentsToLikes: 0.055223
-    id: ck55l7gu20x9q0i114q55m9i1
+    followers: 10876
+    engagement: 870
+    commentsToLikes: 0.022081
+    id: ck6u68e5de3sz0j71rbyke5df
     verified: false
-    hashtags: "#physique, #npc, #fitness, #atlantapersonaltraining"
-  - username: "elecsimon"
+    hashtags: "#spreadlove, #confidentlybeautiful, #2021, #happy"
+  - username: "mannequinbody_"
     fullname: >-
-      Elec Simon: Event Emcee/ Host
+      Mannequin Body Studio ✨
     bio: >-
-      •Percussionist/motivational speaker/emcee •STOMP-New York City & U.S tour •anti-bullying school assemblies •drummer/cleveland Cavaliers • ΦβΣ 🤘🏾
+      📍Atlanta, GA 🌟 Lipo Cavitation & Laser Lipo 🌟 Vacuum Therapy Butt & Breast Lift 🌟 Cellulite Treatment 🌟 Skin Tightening @miniactivewear MBODY20
     location: "United States"
-    followers: 23264
-    engagement: 257
-    commentsToLikes: 0.078879
-    id: ck5zusqfq2z1b0i14c1ijoes8
+    followers: 6075
+    engagement: 22
+    commentsToLikes: 0.163967
+    id: ck15t1nwcfwcl0i19wwhnc6qc
     verified: false
-    hashtags: "#emcee, #art, #love, #elecsimon"
-  - username: "k_manzanillo"
+    hashtags: "#drmiami, #laserlipo, #postpartum, #drdowback"
+  - username: "maiyamay_"
     fullname: >-
-      Keysi Manzanillo
+      Maiya May
     bio: >-
-      ——————————————————— 📍Atlanta | Fitness | REALTOR® 🗝 💌 km.businessacc@gmail.com
+      I like storms, pre-workout tingles, and goals that seem unattainable. - Kinda Influential. | @ghostlifestyle - Hella Insightful. | @pbs // Weathered
     location: "United States"
-    followers: 94608
-    engagement: 496
-    commentsToLikes: 0.038748
-    id: ck9hcer57l1dq0j782trk0dgw
+    followers: 18133
+    engagement: 712
+    commentsToLikes: 0.052559
+    id: ck0ttvpg34ioo0i19yly0mbhj
     verified: false
-    hashtags: "#healthylifesyle, #atlfitness, #gwinnettcounty, #humpday"
-  - username: "fitlaurenelizabeth"
-    fullname: >-
-      LAUREN JOHNSON
-    bio: >-
-      health + fitness + lifestyle atlanta, ga @laurenelizzz / @peak_barbell
-    location: "United States"
-    followers: 3152
-    engagement: 1012
-    commentsToLikes: 0.069622
-    id: ckf5ox8t145550j23kd990qay
-    verified: false
-    hashtags: ""
+    hashtags: "#climatecrisis, #gsfamilyfaces, #fitnessmotivation, #legworkout"
   - username: "chris_vxa"
     fullname: >-
       Chris Veliz-Arias
     bio: >-
-      🙏🏻 God First 💎 Family 🔱 VXA Fitness 🏙 Atlanta
+      🙏🏻 God First 💎 Family 🔱 VXA Fitness 🏙 Atlanta 🧪CODE CHRIS111
     location: "United States"
-    followers: 15380
-    engagement: 244
-    commentsToLikes: 0.086208
+    followers: 15524
+    engagement: 381
+    commentsToLikes: 0.056296
     id: ck6ucfswefcfz0j718pd3zioc
     verified: false
-    hashtags: "#physique, #strong, #npc, #squats"
-  - username: "iamheatherdenise"
+    hashtags: "#2xu, #motivation, #trails, #ironwars"
+  - username: "mayaprosser"
     fullname: >-
-      Heather Denise
+      Maya Prosser🇭🇹
     bio: >-
-      *INFLUENCER* *Your Southern Belle* MS Clothing Line www.lgtw.shop @lgtw_ FB: http://www.facebook.com/iamheatherdenise #MS
+      | God | YouTube | Fashion | mayaprosserpromo@gmail.com for promo inquiries. New video is out now:
     location: "United States"
-    followers: 259538
-    engagement: 491
-    commentsToLikes: 0.059281
-    id: ck8t2wmn30yy50j78goy7vwzp
+    followers: 35145
+    engagement: 1086
+    commentsToLikes: 0.013760
+    id: ck5q25f39ecva0i11aehuz9c8
     verified: false
-    hashtags: "#gym, #abs, #military, #armyfresh"
-  - username: "next_level_vis"
+    hashtags: "#ootd, #youtube, #styleblogger, #fyp"
+  - username: "king_bashel"
     fullname: >-
-      Next Level Visuals
+      B-Dolla 💵
     bio: >-
-      - ATL Photographers - ONLY FANS managent/content provider - EVERYDAY BAE Magazine
+      🎨 Magic World of Color & Fashion 🤴🏾 #BlackBoyJoy | 👨🏾‍💻 #LifestyleBlogger New blog post on Wednesday’s:⬇️
     location: "United States"
-    followers: 230827
-    engagement: 85
-    commentsToLikes: 0.018912
-    id: ck5hekrs6tf4t0i11gvvxmlzw
+    followers: 4550
+    engagement: 1640
+    commentsToLikes: 0.117538
+    id: ck6trywt11vkn0j7139nilrhn
     verified: false
-    hashtags: "#thickthighssavelives, #walkaway, #videooftheday, #atlanta"
-  - username: "mikebradshawsr"
+    hashtags: "#iginfluencer, #blackblogger, #lifestyleblogger, #blackbloggers"
+  - username: "ga_peach713"
     fullname: >-
-      MIKE BRADSHAW SR.
+      Abby and Sammi 🐾
     bio: >-
-      GOD-FamilyFirst 🎗Elite Military Inspired Fitness ▫️ @assaultseries_ BeTheBestYou ▪️ @TrainingMask Coach 🔸 @FitRadio Coach 👨🏽‍🎓 ExerciseScience ARMY
+      Tik-Tok: GaPeach713 Fitness: Ga_PeachFit #ATLantaReign
     location: "United States"
-    followers: 42533
-    engagement: 121
-    commentsToLikes: 0.055578
-    id: ckapcg4a13o3m0i78a4n2k3bd
+    followers: 9805
+    engagement: 886
+    commentsToLikes: 0.023994
+    id: ck9hcudzcn0ni0j78km1vyq4i
     verified: false
-    hashtags: "#assaultshred, #trainhard, #getfit, #newyorkfitness"
+    hashtags: ""
+  - username: "labellatl"
+    fullname: >-
+      🦋 LISA BELL
+    bio: >-
+      📍 Atlanta, GA⁣ Weightlifter, Occasional Powerlifter 63kg @avatarnutrition - ‘LISA’ 10% off! More of me 👇🏼
+    location: "United States"
+    followers: 290280
+    engagement: 410
+    commentsToLikes: 0.024085
+    id: ck6tjf98r2lqu0j71qvyv3h65
+    verified: false
+    hashtags: "#bornprimitive, #fashionblogger, #pltstyle, #fitnessgirl"
 ---

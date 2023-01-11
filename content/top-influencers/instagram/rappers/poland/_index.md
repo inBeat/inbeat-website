@@ -1,21 +1,21 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Poland in 2023
+title: Top 10 Rappers Instagram Influencers In Poland In 2023
 description: >-
-  Find top rappers Instagram influencers in Poland in 2023. Most popular hashtags: #rapper #music #trap.
+  Find top rappers Instagram influencers in Poland in 2023. Most popular hashtags: #poland #love #rapper.
 platform: Instagram
 hits: 10
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 10 Instagram influencers like this in Poland for you to pitch.
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in Poland for you to collaborate.
 profiles:
   - username: "shrek_kmg"
     fullname: >-
       שרק - ShrekDiMC
     bio: >-
-      Rapper&songwriter/video editor TACT RECORDS TEL AVIV 2020 קליפ חדש עכשיו ביוטיוב שרק וצוקוש - ראש טוב 😉
+      Rapper&songwriter/video editor TACT RECORDS TEL AVIV 2020 שרק וצוקוש💫💥💯 האלבום החדש שלנו "באנו לתקן" בחוץ! כנסו לשמוע😵👇
     location: "Poland"
-    followers: 4652
-    engagement: 1288
-    commentsToLikes: 0.055515
+    followers: 5009
+    engagement: 952
+    commentsToLikes: 0.047112
     id: ckap6vkkxhiz20i781h72ypn5
     verified: false
     hashtags: ""
@@ -37,48 +37,60 @@ profiles:
     bio: >-
       ➡ Singer🎵 🎤 ❤ Songwriter ✍🏻 ➡️ Aktor 🎬 Model🕴➡ Snap: marcin22338 👻 ➡️ Kontakt/Współpraca: marcin22338@gmail.com ➡️ Kanał YouTube Marcin Kłosowski👇📀🎞
     location: "Poland"
-    followers: 52429
-    engagement: 494
-    commentsToLikes: 0.028546
+    followers: 62355
+    engagement: 286
+    commentsToLikes: 0.029534
     id: ck13cnlci18op0i192di2e2ax
     verified: true
-    hashtags: "#songwriter, #sing, #photooftheday, #instaboy"
-  - username: "negahdarinia"
-    fullname: >-
-      Amir Hossein - Negahdari Nia
-    bio: >-
-      CBO at "Catchy-SoundZ" Production / Toronto 🇨🇦 - Follow me on #Spotify ⤵
-    location: "Poland"
-    followers: 25683
-    engagement: 187
-    commentsToLikes: 0.015287
-    id: ck6u9h318xiuw0j719g2mfefb
-    verified: false
-    hashtags: "#rapfreestyle, #nekfeu, #googleplaymusic, #tidal"
+    hashtags: "#musician, #sunset, #selfie, #fun"
   - username: "sebastianklawikowski"
     fullname: >-
       Sebastian Klawikowski
     bio: >-
       Rysuje... @klawikthecreator 👻 Snapchat: klawikowskikrul 📖 Facebook: Sklawikowski 📧 Email: sklawik1@gmail.com
     location: "Poland"
-    followers: 49529
-    engagement: 1255
-    commentsToLikes: 0.008992
+    followers: 50009
+    engagement: 1040
+    commentsToLikes: 0.009110
     id: ck8sxf55fh69t0j78u8wmad6x
     verified: false
-    hashtags: "#friz, #paint, #painting, #6style"
+    hashtags: "#digitalart, #wersow, #gugu, #marcysiaryskala"
+  - username: "karolgrygoruk"
+    fullname: >-
+      Karol Grygoruk
+    bio: >-
+      human rights and migration based between Warsaw and Middle East co-founder of @ratsagency ambassador for 🔴 Leica
+    location: "Poland"
+    followers: 12702
+    engagement: 787
+    commentsToLikes: 0.009523
+    id: ck5qbxl65nvcv0i11cey5yhbv
+    verified: false
+    hashtags: "#blackandwhite, #musician, #feminism, #prochoice"
   - username: "emergency_queen"
     fullname: >-
       Julia Piątek
     bio: >-
       Emergency Medicine Doctor 🚑👩🏻‍⚕️ Śpiewający lekarz rezydent z dużą dawką czarnego humoru i ironii Born in 🇩🇪 Living in 🇵🇱 Studied in 🇬🇧 language
     location: "Poland"
-    followers: 40781
-    engagement: 642
-    commentsToLikes: 0.033940
+    followers: 43324
+    engagement: 609
+    commentsToLikes: 0.034661
     id: ck8t563058wh20j78jmqzywbi
     verified: false
-    hashtags: "#lekarz, #warszawa, #doctor, #emergencymedicine"
+    hashtags: "#medicine, #emergencymedicine, #covid, #doctor"
+  - username: "noizzpl"
+    fullname: >-
+      NOIZZ.pl
+    bio: >-
+      Miasto. Moda. Muzyka. Jedzenie. Mocne opinie. We make some.
+    location: "Poland"
+    followers: 108809
+    engagement: 423
+    commentsToLikes: 0.012197
+    id: ck55j3epzw62o0i11jcbrsjnc
+    verified: true
+    hashtags: "#poland, #warszawa, #2021, #noizzpl"
   - username: "femin.official"
     fullname: >-
       Femin
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.040165
     id: ck0u7bq6o4afn0i197og62fm1
     verified: false
-    hashtags: "#love, #polishboy, #niceday, #walentynki"
-  - username: "aspermastter23"
+    hashtags: "#niceday, #polishboy, #love, #song"
+  - username: "martyna_famulska"
     fullname: >-
-      Un Papá Rapper ♥️
+      Martyna Famulska
     bio: >-
-      𝑀𝑧𝑎.||8’𝑘💓 - •(𝚄𝚗 𝟷𝟺/𝟻)✨ - •𝑯𝑶𝑴𝑬𝑹𝑼𝑵🏌🏻‍♂️ - •23/4 𝑑𝑖𝑎 𝑑𝑒 𝑙𝑜𝑠 𝑙𝑜𝑛𝑑𝑟𝑖𝑠𝑡𝑎𝑠 - ᴘᴀᴜʟᴏ: ᴍᴇ sᴜʙɪó ᴀ sᴜ ʜɪsᴛᴏʀɪᴀ x7📲,ᴍᴅ x3+history, ❤️x15,💬x4, x74👀,lo conocí📸
+      👧 30.05.2017 Natalia 🌸 👶 23.09.2020 Wiktoria 🌸 Nasza codzienność 🥰 Polecajki i recenzje 🙃 Ambasadorki @uszyte_z_freja
     location: "Poland"
-    followers: 8140
-    engagement: 1315
-    commentsToLikes: 0.145711
-    id: ckaowbs8p885w0i78grjt5czd
+    followers: 5577
+    engagement: 1448
+    commentsToLikes: 0.028159
+    id: ck8tc2j8by2030j78058xybfh
     verified: false
-    hashtags: "#homerun, #paulolondra, #liberenalleon, #skrr"
-  - username: "paancia"
+    hashtags: "#pogodnitvn, #dladzieci, #dziecko, #mamaic"
+  - username: "marta.idziak"
     fullname: >-
-      Karolina
+      Mama🤰🏽Praca💰Dzieci🧸Fotografia📸
     bio: >-
-      Dokonałam niemożliwego dla mnie samej. Schudłam 45kg :) Kontakt: deebilica@gmail.com
+      📸Kocham fotografować 👩‍💻Uczę kobiety budować biznes na instagramie 📬Napisz do mnie, a pokaże Ci jak zarabiać z telefonu 📲 💎Ambasador @tidiness.beauty
     location: "Poland"
-    followers: 15435
-    engagement: 1371
-    commentsToLikes: 0.031184
-    id: ck8t4nlth7fkx0j78m6xbk7fj
+    followers: 11635
+    engagement: 513
+    commentsToLikes: 0.025676
+    id: ck5zqt5ffv8xy0i14soqoypgu
     verified: false
-    hashtags: "#kot, #noworodek, #mamaicorka, #hm"
-  - username: "_amimami_"
-    fullname: >-
-      Aneta 🌿
-    bio: >-
-      • Wife ▪ 02.08.14 • Mom▪Igor 18.03.17 | Nina 16.04.20 🌿Dekorator wnętrz, grafik, ilustrator anejas002@ gmail.com
-    location: "Poland"
-    followers: 23685
-    engagement: 278
-    commentsToLikes: 0.081140
-    id: ck8tdaq1c2l9a0j78idlsr7la
-    verified: false
-    hashtags: "#rzeczydladzieci, #stillife, #fallvibes, #kocykdladzieci"
+    hashtags: "#canon, #niemowle, #macierzy, #lawenda"
 ---

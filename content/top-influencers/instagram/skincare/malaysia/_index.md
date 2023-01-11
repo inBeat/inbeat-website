@@ -1,96 +1,48 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Malaysia in 2023
+title: Top 10 Skincare Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top skincare Instagram influencers in Malaysia in 2023. Most popular hashtags: #skincare #ootd #throwback.
+  Find top skincare Instagram influencers in Malaysia in 2023. Most popular hashtags: #skincare #love #ootd #tiktok.
 platform: Instagram
-hits: 89
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 89 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 52
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 52 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "ishanorsham"
+  - username: "nsazmmm_"
     fullname: >-
-      𝗜𝘀𝗵𝗮 𝗡𝗼𝗿𝘀𝗵𝗮𝗺
+      | 𝐇𝐚𝐧𝐢𝐬 𝐀𝐳𝐦𝐚𝐧🕊
     bio: >-
-      🎥 Tv Host/Content Creator 🤍 Travel,Food,Tiktok,Emceeing,Fitness,Skincare 📩 Business/Collaboration/Review
+      Sec acc - @sazmnnn Dm for paid and gift review 📥 •skincare- @mylaraskincare ❤️ “𝒸𝒽𝒶𝓈𝑒 𝓎𝑜𝓊𝓇 𝓅𝓊𝓇𝓅𝑜𝓈𝑒 , 𝓈𝓊𝒸𝒸𝑒𝓈𝓈 𝓌𝒾𝓁𝓁 𝒻𝑜𝓁𝓁𝑜𝓌✨.
     location: "Malaysia"
-    followers: 38134
-    engagement: 324
-    commentsToLikes: 0.042789
-    id: ck5bwklj4lvu10i11rjmojut1
+    followers: 44482
+    engagement: 567
+    commentsToLikes: 0.005208
+    id: ckf5x5v0xuh9f0j23o23sj6u7
     verified: false
-    hashtags: "#dwinmy, #pomelofashion, #klairsmy, #sale"
-  - username: "yoyoyotang"
+    hashtags: "#tiensmalaysia, #ubattinggi, #ubattinggimalaysia, #heightup"
+  - username: "tysnasaputra"
     fullname: >-
-      𝒀𝒐𝒚𝒐 𝑻𝒂𝒏𝒈
+      TYSNA SAPUTRA
     bio: >-
-      Job enquiry: yoyoyotang@gmail.com #yoyotangstyle #yomamidiary @hailie.baebae Yᴏᴜᴛᴜʙᴇ ɴᴇᴡ ᴠɪᴅᴇᴏ: 我的日夜全方位護膚保養｜MY SKINCARE ROUTINE 2020
+      티스나 nice clothes & good skincare products make me happy . 📩 hallo.tysnasaputra@hotmail.com
     location: "Malaysia"
-    followers: 31094
-    engagement: 171
-    commentsToLikes: 0.020902
-    id: ck0u75axr3tj00i1985czgara
+    followers: 175182
+    engagement: 241
+    commentsToLikes: 0.016304
+    id: ck0uad0pvbyor0i19xo0jz8sy
     verified: false
-    hashtags: "#yomamidiary, #ootd, #snap, #yoyotangstyle"
-  - username: "_faizfarhaah"
+    hashtags: "#ootdreel, #style, #outfitreel, #fashionreels"
+  - username: "goo.roo.review"
     fullname: >-
-      Farhana Azad Jhimi  🇧🇩
+      audrey
     bio: >-
-      🛡To be Biochemist 💉 🛡Ex ISCian 🎓 🔹Fashion // Skincare // Review 🔹DM for Paid collaboration // PR // Shoot 💌
+      💫 skincare// beauty // travel 📈 inventor of games & polls 🌎 american in europe 💌 goo.roo.review@gmail.com
     location: "Malaysia"
-    followers: 10246
-    engagement: 531
-    commentsToLikes: 0.272426
-    id: ckf5wpwh9susy0j23jfcyhz23
+    followers: 13144
+    engagement: 346
+    commentsToLikes: 0.411651
+    id: ck5hgffi32hk80i11cbcelehj
     verified: false
-    hashtags: "#ad, #dhakagraam, #dhakagirls, #bdblogger"
-  - username: "skincareaddictmy"
-    fullname: >-
-      Faie
-    bio: >-
-      38 Skincare Diary Combination skin, PIH, Whiteheads 🇲🇾 👇 My code for 30% @frmadcos SKINCAREADDICTMY
-    location: "Malaysia"
-    followers: 26822
-    engagement: 245
-    commentsToLikes: 0.265998
-    id: ck14ipxbbgn3a0i197anao5pc
-    verified: false
-    hashtags: "#faiestash, #bluetok, #faieskincareroutine, #skincarereview"
-  - username: "putry_mohd"
-    fullname: >-
-      PUTERI NURUL FADHILA 🕊
-    bio: >-
-      ▫️DM for paid/gift review Founder of @swarovskiscarf_hq 💎 Fav perfume @pnp_perfume_hq 🍒 Pengguna setia @numi.skincare 🍏 Wssp for order tudung 👇🏻
-    location: "Malaysia"
-    followers: 283837
-    engagement: 592
-    commentsToLikes: 0.003796
-    id: ck6u2dr0pr8910j715huylkk0
-    verified: false
-    hashtags: "#bawalpapilis, #bawalputrymohd, #numigang, #babypf"
-  - username: "nabellaanuar"
-    fullname: >-
-      Belle.
-    bio: >-
-      👩🏻‍💻 Director of @kaymanbeautyhq 🐰 Amirrul Siddiq’s cheeky bunny 🐝 Skincare | Beauty | Clothes | Travel 📲 nasyitah@kaymanbeauty.com | 019-7722921 (PA)
-    location: "Malaysia"
-    followers: 29330
-    engagement: 663
-    commentsToLikes: 0.013224
-    id: ckap7jpl8kcyv0i78jsfhe1ip
-    verified: false
-    hashtags: "#sheetmaskraya, #ootd, #kaymantreasurehunt, #stayathome"
-  - username: "muniramdiwan"
-    fullname: >-
-      ͏putey
-    bio: >-
-      Strictly no paid or gift skincare / supplement review
-    location: "Malaysia"
-    followers: 148560
-    engagement: 174
-    commentsToLikes: 0.016780
-    id: ck6u10sosivmh0j71w8lujszt
-    verified: false
-    hashtags: "#anggunborneo, #ekstremwalaitokou, #rtm, #kudat"
+    hashtags: "#skincarereviews, #octolyfamily, #farmacybeauty, #farmacist"
   - username: "ken_doll_dubaiii"
     fullname: >-
       Adnan Zafar🧿
@@ -102,29 +54,77 @@ profiles:
     commentsToLikes: 0.371163
     id: ck9wgdlsxsyfu0j78x13l2lwd
     verified: false
-    hashtags: "#mydubai, #foodporn, #foodie, #lifeofkendoll"
-  - username: "dionbeautemalaysia"
+    hashtags: "#foodporn, #luxurylifestyle, #dubaiinfluencer, #skincare"
+  - username: "_faizfarhaah"
     fullname: >-
-      D I O N  B E A U T E ™
+      Farhana Azad Jhimi  🇧🇩
     bio: >-
-      M A L A Y S I A Skincare-Makeup Hybrid Brand. Vegan. Cruelty Free. Dermatologically Tested SHOP NOW ⤵
+      👑QUEEN of DESI Outfits 🔹To be Biochemist 💉 🔹Fashion // Skincare // Review 🔹DM for Paid collaboration // PR // Shoot 💌
     location: "Malaysia"
-    followers: 20524
-    engagement: 209
-    commentsToLikes: 0.006363
-    id: ck14ju5wam7c20i19wjzcfrb1
+    followers: 12209
+    engagement: 510
+    commentsToLikes: 0.132045
+    id: ckf5wpwh9susy0j23jfcyhz23
     verified: false
-    hashtags: "#bbdaretoshare, #makeupfanatic1, #muasarawak, #motd"
-  - username: "tiffanylengy"
+    hashtags: "#lafzskincare, #lafzserum, #lafzfoamingfacewash, #halalcertified"
+  - username: "naesanya"
     fullname: >-
-      Lengy | 링이
+      Naellita Sanya N.
     bio: >-
-      P̶E̶A̶C̶E̶M̶I̶N̶U̶S̶O̶N̶E̶ 📩 tiffanylengy89@gmail.com
+      𝑰𝒏 𝒕𝒉𝒆 𝒄𝒆𝒍𝒆𝒔𝒕𝒊𝒂𝒍 𝒔𝒑𝒉𝒆𝒓𝒆𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒃𝒓𝒂𝒊𝒏 ✨ 💌 Business Enquiries, DM/E-mail — "Beli dimana itu?" Click this link below 👇🏻
     location: "Malaysia"
-    followers: 32481
-    engagement: 383
-    commentsToLikes: 0.018426
-    id: ckaou37k4ylde0i78xpqa7899
+    followers: 7330
+    engagement: 200
+    commentsToLikes: 0.140278
+    id: ck15u2s1al55n0i19l236ggks
     verified: false
-    hashtags: "#drdouxi, #skincare, #staysafe, #drdouximalaysia"
+    hashtags: "#tiktokindonesia, #hijabstyle, #tiktoktrending, #bandungbeautyvlogger"
+  - username: "the_beauty_insideout"
+    fullname: >-
+      shub here
+    bio: >-
+      23 🦄Content Creator🌌 Aspiring MUA💄💋💋 💯Honest review's only! 📬Dm or E-mail for PR/collab thebeautyinsideout1218@gmail.com
+    location: "Malaysia"
+    followers: 3240
+    engagement: 3899
+    commentsToLikes: 0.261234
+    id: ck8t8hci9khfe0j7826jffwpq
+    verified: false
+    hashtags: "#makeupartist, #makeuplooks, #indianblogger, #indianbeautyblogger"
+  - username: "vanillaclio"
+    fullname: >-
+      ❁ ➵♡ 𝐂𝐥𝐢𝐨 𝐆𝐢𝐥. 𝐂 ✯☽
+    bio: >-
+      合作洽談請私訊或email💌
+    location: "Malaysia"
+    followers: 22132
+    engagement: 392
+    commentsToLikes: 0.009260
+    id: ck5znr3dsozys0i14f83ljujx
+    verified: false
+    hashtags: "#waveshine, #2021, #skincare, #yuyuactive"
+  - username: "scarlettmeganliew_95"
+    fullname: >-
+      Scarlett Megan Liew Zi Ling
+    bio: >-
+      Miss Intercontinental Malaysia 2018 👑
+    location: "Malaysia"
+    followers: 35101
+    engagement: 153
+    commentsToLikes: 0.012040
+    id: ck5zrvp1axcq30i14wvtjcwtl
+    verified: false
+    hashtags: "#thesatincream, #love, #skincare, #olumes"
+  - username: "elsatriutamii"
+    fullname: >-
+      Sasa
+    bio: >-
+      @andriirmdhnn_ ✨"Forbearing all need a Process"✨ 💌Bussines inq/Review ?DM or Email 📩elsatriutami2@gmail.com
+    location: "Malaysia"
+    followers: 10552
+    engagement: 345
+    commentsToLikes: 0.288157
+    id: ck9wh3z0fw50e0j78lmijgenm
+    verified: false
+    hashtags: "#skincare, #tiktok, #racunskincare, #racunshopee"
 ---

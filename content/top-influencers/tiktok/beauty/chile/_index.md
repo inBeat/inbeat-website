@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Chile in 2023
+title: Top 10 Beauty TikTok Influencers In Chile In 2023
 description: >-
-  Find top beauty TikTok influencers in Chile in 2023. Most popular hashtags: #chile #parati #fyp #foryou.
+  Find top beauty TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #foryou #greenscreen.
 platform: TikTok
-hits: 10
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat has 10 TikTok influencers like this in Chile for you to work with.
+hits: 15
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 15 TikTok influencers like this in Chile for you to contact.
 profiles:
-  - username: "amvillanuevao"
+  - username: "s_sams"
     fullname: >-
-      Ana María Villanueva
+      Sam Espejo
     bio: >-
-      Sub-34 aburrida en cuarentena. El día va entre #teletrabajo, #tips, #diy y #Moño
+      ¡Provoquemos un milagro hoy! Ig @s_sams | 2 Tim 1:7 | Sesión Vivo Dom 9:00 pm/mx
     location: "Chile"
-    followers: 2725
-    engagement: 514
-    commentsToLikes: 0.108522
-    id: ckbex4moyh9c90j23m717nhx8
+    followers: 495700
+    engagement: 2633
+    commentsToLikes: 0.029544
+    id: ckahz4b911x3e0i784lurqxj4
     verified: false
-    hashtags: "#puq, #chile, #xyzbca, #petcheck"
-  - username: "el.chequeteto"
+    hashtags: "#merida, #parati, #biblia, #oracion"
+  - username: "javi.makeup_art"
     fullname: >-
-      el.chequeteto
+      Javi.makeup_art
     bio: >-
-      Espero poder sacarles aún que sea una sonrisa 💕🌚💕 📸Ig: el.chequeteto
+      Sígueme en insta: @javi.makeup_art 🇨🇱 ✨Maquillaje y algo más✨ 10k🔒
     location: "Chile"
-    followers: 47700
-    engagement: 1535
-    commentsToLikes: 0.039959
-    id: ckahu9d42hlqh0i78bcpjw23u
+    followers: 4624
+    engagement: 1918
+    commentsToLikes: 0.061764
+    id: ckcvjsowqxbx10j23089fuyjc
     verified: false
-    hashtags: "#fome, #anime, #comedia, #fyp"
-  - username: "hotuititeao"
+    hashtags: "#makeup, #makeupartist, #clownmakeup, #makeupjavi"
+  - username: "gerardoybrown"
     fullname: >-
-      Rapa Nui
+      Gerardo Ulloa
     bio: >-
-      From Rapa Nui 🗿 Preguntas al Instagram
+      Brown 🐕y Gerardo 🙎🏻‍♂️ Meta 300K 🇨🇱 “Ríe cuando todos estén tristes
     location: "Chile"
-    followers: 25900
-    engagement: 765
-    commentsToLikes: 0.025885
-    id: ckdbnwp27au570j23wmqbc8k2
+    followers: 301100
+    engagement: 334
+    commentsToLikes: 0.083274
+    id: ck80onpd3il3l0j78uuu5x26k
     verified: false
-    hashtags: "#anakena, #playa, #foryoupage, #amor"
-  - username: ".camilapaz"
+    hashtags: "#per, #nice, #chile, #gerardoybrown"
+  - username: "titan.cat"
     fullname: >-
-      Camila Paz
+      Titan the Cat
     bio: >-
-      🏋️‍♀️🌎✈️
+      Soy Titán, un siamés Seal Point glotón y juguetón 😸🇨🇱Instagram: titanthecat18
     location: "Chile"
-    followers: 14600
-    engagement: 768
-    commentsToLikes: 0.023026
-    id: ckcjk35oydpsg0j231t8tqata
+    followers: 367200
+    engagement: 1956
+    commentsToLikes: 0.015463
+    id: ckac6zkbhegmm0i78v863wb7p
     verified: false
-    hashtags: "#parati, #haircut, #dancers, #humor"
+    hashtags: "#catsoftiktok, #chile, #funny, #cats"
+  - username: "sexualidadymatroneria"
+    fullname: >-
+      Matrona Marcia Otto
+    bio: >-
+      Matrona salud sexual y reproductiva + info: Instagram @sexualidadymatroneria
+    location: "Chile"
+    followers: 533700
+    engagement: 912
+    commentsToLikes: 0.010004
+    id: ckc1qr8f0v0rs0j23r7puc4tw
+    verified: false
+    hashtags: "#trend, #salud, #maternidad, #fyp"
+  - username: "mey.swaaan"
+    fullname: >-
+      Mey
+    bio: >-
+      Otaku que se baña 🤪👾 Ig: Limey_swaan follow me! 💖 Cosplayer Chilena 🇨🇱
+    location: "Chile"
+    followers: 152000
+    engagement: 838
+    commentsToLikes: 0.014364
+    id: ckdi6pbuv8a170j237zij2hwd
+    verified: false
+    hashtags: "#otaku, #trend, #anime, #waifu"
   - username: "juliafernandescl"
     fullname: >-
       julia fernandes
     bio: >-
       Brazuka
     location: "Chile"
-    followers: 74500
-    engagement: 793
-    commentsToLikes: 0.007022
+    followers: 78600
+    engagement: 694
+    commentsToLikes: 0.004559
     id: ckbez49dxk5iy0j2360qp4jm0
     verified: false
-    hashtags: "#tiktokchallenge, #crazy, #friends, #love"
-  - username: "minkiah"
+    hashtags: "#challenge, #friends, #love, #tiktokchallenge"
+  - username: "erikikikisss"
     fullname: >-
-      Steffi Teppola
+      Eri Urzúa 🤍
     bio: >-
-      stan mamamoo CL | FIN 💙
+      La eri 💕 Publicidad, menciones o canjes al DM de Instagram @erikikikisss👈🏼
     location: "Chile"
-    followers: 23500
-    engagement: 1565
-    commentsToLikes: 0.008503
-    id: ck9tubz5el3800j78hccl23ic
+    followers: 421100
+    engagement: 1199
+    commentsToLikes: 0.036496
+    id: ck903e6c0d9690j78p3ll6pv3
     verified: false
-    hashtags: "#idol, #foru, #kard, #fyp"
-  - username: "soynusa"
+    hashtags: "#belleza, #pesta, #greenscreen, #calvo"
+  - username: "lucecitachan"
     fullname: >-
-      Orlando nuñez
+      Lucecita💡
     bio: >-
-      Educador Internacional, experto en color y marketing para ESTILISTAS Mi página
+      💛muchas gracias por su apoyos mis lucecitas💡💛 💜💛AangelxLuz💛💜
     location: "Chile"
-    followers: 54700
-    engagement: 850
-    commentsToLikes: 0.032542
-    id: ckcoj9d6r4k1y0j236vl38oqe
+    followers: 56700
+    engagement: 2237
+    commentsToLikes: 0.011585
+    id: ck9r3mbigqh190j78uxs0kf9q
     verified: false
-    hashtags: "#cabello, #pelo, #hair, #genereacion"
+    hashtags: "#foryou, #ship, #espa, #oc"
   - username: "mitsukicristy"
     fullname: >-
       Mochii
     bio: >-
       Orgullosa de ser como soy una otaku dibujante y fujoshi 🎤🎨🎧🎵
     location: "Chile"
-    followers: 5802
-    engagement: 1868
-    commentsToLikes: 0.018359
+    followers: 6304
+    engagement: 1729
+    commentsToLikes: 0.023143
     id: ckc370y3uvxo20j23h87oamw0
     verified: false
-    hashtags: "#dee, #victoria, #heavy, #chess"
-  - username: "leonarjaspe"
-    fullname: >-
-      Leonar Jaspe
-    bio: >-
-      🇻🇪🌴Venezolano🌴🇻🇪 Luces💡🎞️ camara 🎥📸 acción 🎬🎙️
-    location: "Chile"
-    followers: 18600
-    engagement: 1007
-    commentsToLikes: 0.065614
-    id: ck901yd1xbyr70j78k90jda09
-    verified: false
-    hashtags: "#vi, #colombia, #mexico, #argentina"
-  - username: "sa_karina_stevia"
-    fullname: >-
-      Karii
-    bio: >-
-      Chilenita 🇨🇱 Me gusta mucho bailar🙈 Y me encanta reír 🤣🤭 Insta : mamii.kari
-    location: "Chile"
-    followers: 13200
-    engagement: 1220
-    commentsToLikes: 0.039690
-    id: ck900wmy1atit0j78x9r7tf37
-    verified: false
-    hashtags: "#crecerjuntos, #argentina, #xyzbca, #chile"
+    hashtags: "#victoria, #glam, #heavy, #dee"
 ---

@@ -1,129 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In France in 2023
+title: Top 10 Instagram Influencers In France In 2023
 description: >-
-  Find top Instagram influencers in France in 2023. Most popular hashtags: #fashion #ootd #teamfabletics.
+  Find top Instagram influencers in France in 2023. Most popular hashtags: #reels #reelsinstagram #collaboration.
 platform: Instagram
-hits: 27695
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 27695 Instagram influencers like this in France for you to collaborate.
+hits: 28356
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 28356 Instagram influencers like this in France for you to work with.
 profiles:
-  - username: "amoureuxdumonde"
+  - username: "claire_most"
     fullname: >-
-      Yann ♡ Aurélie - Blog Voyage
+      Claire Most
     bio: >-
-      ✧ Chasseurs de paysages ✧ On vit à #Lyon 🦁 ✧ Pro : amoureuxdumonde@gmail.com 💌 Blog Voyage & Bons Plans
+      📍Portland | From Paris 💌cmosteghanemi@gmail.com 🎨 Pinterest: @claire_most 🕊use your voice and take action 〰️ views are my own
     location: "France"
-    followers: 138232
-    engagement: 600
-    commentsToLikes: 0.054981
-    id: ck0tv1s609kcq0i19fj66fe0n
+    followers: 93288
+    engagement: 401
+    commentsToLikes: 0.008865
+    id: ck5q1k93ybeai0i11j6ka5a0b
     verified: false
-    hashtags: "#gre, #paysages, #spainstagram, #amoureux"
-  - username: "charlie.ma.vie"
+    hashtags: "#uefitsyou, #letitout, #wonderboom3, #ultimateears"
+  - username: "lenamahfouf"
     fullname: >-
-      Raphaëlle
+      Lena Situations
     bio: >-
-      Mum of two • Famille recomposée • ✨ Brune, Charlie & Milo ♡ Passionnée de photographie💫 Inspiration & instants de notre petite vie RECETTES en story🍴
+      @HOTELMAHFOUF i <3 making videos 🇫🇷
     location: "France"
-    followers: 50110
-    engagement: 677
-    commentsToLikes: 0.014703
-    id: ck0vzn1709wpv0i19kyvoss00
-    verified: false
-    hashtags: "#mumoftwo, #simplychildren, #momsofinstagram, #motherhoodunplugged"
-  - username: "bjornsenlouise"
+    followers: 4001665
+    engagement: 738
+    commentsToLikes: 0.027286
+    id: ck0ttyba34uic0i1954uwmrnu
+    verified: true
+    hashtags: "#gimmebrow, #romantismemoderne, #valentinobeauty, #guccivaligeria"
+  - username: "chloe_letellier"
     fullname: >-
-      LB
+      𝑪𝒉𝒍𝒐𝒆́ 𝑳𝒆𝒕𝒆𝒍𝒍𝒊𝒆𝒓
     bio: >-
-      Monaco
+      Mode, beauté, humour, lifestyle, humour, déco, et humour. Founder of @outfitbychloe 📍Paris Chloe.letellier@agencejb.fr
     location: "France"
-    followers: 2290
-    engagement: 3841
-    commentsToLikes: 0.168031
-    id: ckap46ex461oe0i78keij816r
+    followers: 277873
+    engagement: 499
+    commentsToLikes: 0.084693
+    id: ckap8s2umpmn00i7893j9h7tm
     verified: false
-    hashtags: ""
-  - username: "cemalcancanseven"
+    hashtags: "#miami, #momlook, #family, #paris"
+  - username: "tinakunakey"
     fullname: >-
-      Cemal Can Canseven
+      tina
     bio: >-
-      Contact 📩 erhanturgut@yahoo.com
+      Andrea.Cairo@img.com (IT) @cairoandrea Jeremyk@nextmodels.com (FR) @jeremykouyate
     location: "France"
-    followers: 3296949
-    engagement: 3702
-    commentsToLikes: 0.266107
-    id: ck5ckbdwnwiz60i11fp4a5icw
-    verified: false
-    hashtags: "#survivor2020"
-  - username: "maybeaxelle"
+    followers: 1426049
+    engagement: 445
+    commentsToLikes: 0.004044
+    id: ck0w0ji3beihf0i19i609rcow
+    verified: true
+    hashtags: "#labgrowndiamonds, #amazonluxurystores, #swarovski, #valentinothepartycollection"
+  - username: "cindypoum"
     fullname: >-
-      𝕞𝕖🐍sah what a pleasure
+      Cindy Poumeyrol
     bio: >-
-      † 18ans ♥ton capricorne favori
+      Bordeaux, mom of Alba&Victoire 🤰🏼 Fondatrice @maison_nicole.fr Rénovation @la_casa_de_lamour 📩partenariats.cindypoum@gmail.com
     location: "France"
-    followers: 2008
-    engagement: 3664
-    commentsToLikes: 0.246095
-    id: ckaoyvlfzja6d0i783fm4zwsv
+    followers: 479927
+    engagement: 467
+    commentsToLikes: 0.096497
+    id: ck0w5ov1b4psg0i19ihx5cg2j
     verified: false
-    hashtags: ""
-  - username: "lenyfalgoux"
+    hashtags: "#espaceplaisir, #safari, #concours, #collaboration"
+  - username: "ellieekellyy"
     fullname: >-
-      Leny Falgoux
+      ELLIEKELLY
     bio: >-
-      - Email : lenyfalgouxpro@gmail.com ⬇️ PREMIÈRE VIDÉO YOUTUBE ⬇️
+      fashion • makeup • lifestyle @iconmanagement.ie co-host of hold my drink podcast🎙✨ Shop EK Eyewear below⬇️
     location: "France"
-    followers: 286720
-    engagement: 3033
-    commentsToLikes: 0.111155
-    id: ckap8qnx6pg5e0i786pt8uvev
+    followers: 293521
+    engagement: 431
+    commentsToLikes: 0.030517
+    id: ck0w2y0dpqoho0i19uyvmvrcc
     verified: false
-    hashtags: "#blackouttuesday, #concours, #sneakers"
-  - username: "trevoski"
+    hashtags: "#ad, #ba, #makeupartist, #elliekelly"
+  - username: "capucine_cine"
     fullname: >-
-      Trevo
+      Capucine Cine
     bio: >-
-      @trevosbackroom @vaycated
+      💻 Chaine Youtube
     location: "France"
-    followers: 6076
-    engagement: 2675
-    commentsToLikes: 0.125987
-    id: ck9ha3wxwb1eh0j7852w8gcwa
+    followers: 144938
+    engagement: 539
+    commentsToLikes: 0.044987
+    id: ck5hn8wjknes20i11ubg6pu0f
     verified: false
-    hashtags: "#bebacksoon, #explorepage, #explore, #birthday"
-  - username: "louise_lbnx"
+    hashtags: "#chlorophylle, #lifestyle, #litenbois, #conifere"
+  - username: "sally"
     fullname: >-
-      𝐿𝑜𝓊𝒾𝓈𝑒 𝐿&𝐵 🕊
+      Crazy Sally 🐝
     bio: >-
-      ~ 𝐹𝒶𝓈𝒽𝒾𝑜𝓃 | 𝐿𝒾𝒻𝑒𝓈𝓉𝓎𝓁𝑒 | 𝒯𝓇𝒶𝓋𝑒𝓁 ~ ~ 𝑀𝒶 𝓋𝒾𝑒 𝒶̀ 𝒸𝑜𝑒𝓊𝓇 𝑜𝓊𝓋𝑒𝓇𝓉 ~ ~ 𝒜𝒾𝓍 𝑒𝓃 𝒫𝓇𝑜𝓋𝑒𝓃𝒸𝑒 📍
+      Fondatrice de @motherlandtheserie Fondatrice de @sally.academy 📧 salimajenkins@gmail.com | sally@sallymanagement.com ⤵️ Mon ITW avec Omar Sy
     location: "France"
-    followers: 3198
-    engagement: 2578
-    commentsToLikes: 0.136389
-    id: ck6tv7jvfkmed0j71594yeqjj
+    followers: 901620
+    engagement: 599
+    commentsToLikes: 0.015892
+    id: ckap28q4lxvcw0i78m5o9rbre
     verified: false
-    hashtags: "#bali, #happykiddo, #balidaily, #exploretheworld"
-  - username: "maellebcher"
+    hashtags: "#abidjan, #ivorycoast, #melaninpoppin, #reelsinstagram"
+  - username: "sosazerafa"
     fullname: >-
-      Rouch' ~ Maëlle
+      Sarah Zerafa - Fashion Inspo
     bio: >-
-      📍 Master 2 / Paris 𝙻𝚘𝚟𝚎 𝚜𝚞𝚖𝚖𝚎𝚛 𝚟𝚒𝚋𝚎𝚜 A ♥ 🦋 @fableticseu
+      #fashion - #malta - #lifestyle ✨ *Award Winning Fashion Influencer 🇲🇹 🏆SMA Best Overall Content Creator 2021 💌sarahzerafa23@gmail.com
     location: "France"
-    followers: 3489
-    engagement: 2536
-    commentsToLikes: 0.201102
-    id: ckf5m5x90sep60j23h1kvl2dq
+    followers: 272565
+    engagement: 473
+    commentsToLikes: 0.039730
+    id: ck0tyvc8co7qb0i19cv0cph9x
     verified: false
-    hashtags: "#vintagevibes, #outfitideas, #ad, #corsica"
-  - username: "ssandraa_st"
-    fullname: 
+    hashtags: "#outfitinspo, #editorial, #styleinspo, #explore"
+  - username: "aureliestory"
+    fullname: >-
+      Aurélie | travel fashion home
     bio: >-
-      📍Nantes, FR 🇫🇷 🕊In love @camisomc
+      Content creator from France 🇫🇷 Itineraries, road trips & luxury travel Ambassador for @hotel (1,1M+) TikTok : aureliestoryy (910k+)
     location: "France"
-    followers: 2452
-    engagement: 2491
-    commentsToLikes: 0.140519
-    id: ck6u08jdfe83n0j71ffn9otw5
+    followers: 282540
+    engagement: 560
+    commentsToLikes: 0.013870
+    id: ck5ho1x06os960i118pgxd358
     verified: false
-    hashtags: "#sunday, #fit, #fitnessgirl, #faro"
+    hashtags: "#newyorkerfashion, #allbeyondlimits, #fairmontmayakoba, #marriottbonvoy"
 ---

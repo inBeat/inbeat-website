@@ -1,130 +1,130 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Argentina in 2023
+title: Top 10 Illustrators Instagram Influencers In Argentina In 2023
 description: >-
-  Find top illustrators Instagram influencers in Argentina in 2023. Most popular hashtags: #illustration #instaart #digitalart #characterdesign.
+  Find top illustrators Instagram influencers in Argentina in 2023. Most popular hashtags: #art #illustration #procreate #artist.
 platform: Instagram
-hits: 29
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 29 Instagram influencers like this in Argentina for you to collaborate.
+hits: 37
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 37 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "taniidraw"
+  - username: "mariuriganti"
     fullname: >-
-      Taniidraw | Illustrator
+      ᴹ ᴬ ᴿ ᴵ ᵁ   ᴿ ᴵ ᴳ ᴬ ᴺ ᵀ ᴵ
     bio: >-
-      • Tradic / Digital ✍🏻 • Illustrator 👩🏻 • Characters desing & fanarts 💜 • Argentina 🇦🇷
+      _______________________ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⋆ Artist Soul 🏹 ⋆ Mother of @matizhaus ⋆ Visual Creator | Photographer | Illustrator ⋆ Based in Buenos Aires
     location: "Argentina"
-    followers: 58229
-    engagement: 513
-    commentsToLikes: 0.023976
-    id: ck5q97s419sir0i11s1kt8yl1
+    followers: 21396
+    engagement: 428
+    commentsToLikes: 0.189832
+    id: ck5zwxjiy6ydt0i14u3bzgsf9
     verified: false
-    hashtags: "#mangaartist, #artistsupport, #genshinimpact, #sketcheveryday"
-  - username: "eliszill"
+    hashtags: "#nature, #deco, #doityourself, #diyprojects"
+  - username: "dyru.jk"
     fullname: >-
-      Elisabeth Zill
+      Dyru | Julia Koerner
     bio: >-
-      🇦🇷Comic artist/Illustrator🎃I'm also on Twitter & Tiktok as eliszill/I🖤spooky artz,nature,coffee,halloween.Business:📩eliszill17@gmail.com/👇+Links/Shop👇
+      ✏️ Illustrator | Visual Development Artist | Character Designer ✉️ for hiring & freelance projects - mail@dyru.de ✨ looking for an illustrationagency
     location: "Argentina"
-    followers: 26426
-    engagement: 965
-    commentsToLikes: 0.010359
-    id: ck5q97pan9s4c0i119jls70in
+    followers: 52605
+    engagement: 2344
+    commentsToLikes: 0.014669
+    id: ckap4ftqi76wf0i78i580y8qu
     verified: false
-    hashtags: "#timburton, #timburtonmovies, #visiblewomen, #mabsdrawlloweenclub"
+    hashtags: "#illustration, #plantart, #childhoodweek2021, #childrenillustration"
   - username: "mariahesse"
     fullname: >-
       María Hesse
     bio: >-
       🎨Freelance illustrator/ dibujante🦄 💌soymariahesse@gmail.com 🍳🚀Cocinera en tiempo libre Agent: mcarmona@literagency.com
     location: "Argentina"
-    followers: 146497
-    engagement: 531
-    commentsToLikes: 0.013523
+    followers: 167557
+    engagement: 318
+    commentsToLikes: 0.036324
     id: ck0uczyw9hyfs0i19p8riy02n
     verified: true
-    hashtags: "#marilynmonroe, #marilyn, #marilynhesse, #normajeane"
-  - username: "dyru.jk"
+    hashtags: "#latarotista, #orgullolgbt, #pride, #orgullo"
+  - username: "mijoky"
     fullname: >-
-      Dyru | Julia Koerner
+      Ｍｉｊ𖦹
     bio: >-
-      ✏️ Illustrator | Character Designer | Visual Development Artist ✨www.dyru.de ✉️ for freelance & commissions - mail@dyru.de
+      Argentine illustrator 🇦🇷🏳️‍⚧️ [eng/esp] Commission: OPEN Tradicional/digital art Personal account @the.m0shi Random account @spoilers_mijo
     location: "Argentina"
-    followers: 4037
-    engagement: 1545
-    commentsToLikes: 0.043340
-    id: ckap4ftqi76wf0i78i580y8qu
+    followers: 154556
+    engagement: 1177
+    commentsToLikes: 0.004866
+    id: ck6tovwx1gedn0j719fx15rka
     verified: false
-    hashtags: "#ghost, #drawingoftheday, #illustration, #characterdesigner"
-  - username: "nicolasnmda"
+    hashtags: "#marker, #fyp, #style, #flower"
+  - username: "taniidraw"
     fullname: >-
-      Nicolas Medina
+      Tania Oksentiuk | Illustrator
     bio: >-
-      🔹 Multimedial Designer & Digital Illustrator 💻 🔹 Buenos Aires - Argentina 🇦🇷 ♂ 🔹 Freelance 📱 🔹 nicolasnmedina@hotmail.com 📧 🔽 Wallpapers 🔽
+      • Freelancer Illustrator ✍🏻 • Digital art & Traditional with markers ✨ • Argentina • Comission Closed 😪 • Porfolio | Online Couse | Others ⬇️
     location: "Argentina"
-    followers: 27154
-    engagement: 1185
-    commentsToLikes: 0.004465
-    id: ckaorlk0qnrio0i78i1f2lytg
+    followers: 64155
+    engagement: 511
+    commentsToLikes: 0.016900
+    id: ck5q97s419sir0i11s1kt8yl1
     verified: false
-    hashtags: "#illustration, #90sanime, #aesthetic, #kitsunegirl"
-  - username: "cari.bay"
+    hashtags: "#traditionalart, #animefeature, #animefanart, #maidcafe"
+  - username: "sadeyesclub_"
     fullname: >-
-      Caribay M. Benavides
+      Sad Eyes Club
     bio: >-
-      Freelance Illustrator based in Buenos Aires🇦🇷 Work: caridibuja@gmail.com Clases: caridaclases@gmail.com Showroom: @clubmerienda y @morrisdelpatio
+      Alejandra García P. ✦ ✦ ✦ Freelance illustrator AGENDA FEBRERO - CERRADA ☻
     location: "Argentina"
-    followers: 45455
-    engagement: 517
-    commentsToLikes: 0.012603
-    id: ck139pjn3mhyk0i19538b5ktd
+    followers: 13890
+    engagement: 809
+    commentsToLikes: 0.137555
+    id: ck5pwoqfwnubj0i11mvicz7sd
     verified: false
-    hashtags: "#gouache, #sketchbook, #moleskine, #illustration"
-  - username: "ivanmayorquin"
+    hashtags: "#illustration, #procreate, #illustrationartists, #digitalillustration"
+  - username: "krayolaplanet"
     fullname: >-
-      Iván Mayorquín
+      ⚡️🖍KRAYOLA PLANET🖍⚡️
     bio: >-
-      Let me draw that for you ✏️🔥 Illustrator @pictoline Comissions: 🍕👉 ivanmayorquin@gmail.com
+      VE🇻🇪 | COL 🇨🇴 Illustrator/Graphic Designer. Director Creativo en @highbeatsrecords_ 🎬
     location: "Argentina"
-    followers: 25182
-    engagement: 426
-    commentsToLikes: 0.015952
-    id: ck55jz1afy3oa0i11sp2w3nic
+    followers: 16327
+    engagement: 217
+    commentsToLikes: 0.094506
+    id: ck5butdc4iep20i11wf2oh91s
     verified: false
-    hashtags: "#characterdesign, #stayathome, #hihowareyouproject, #quedateencasa"
-  - username: "javirroyo"
+    hashtags: "#dise, #cartoon, #guaracha, #digitalartist"
+  - username: "meryzart"
     fullname: >-
-      javirroyo
+      m e r y
     bio: >-
-      Not an artist. Not an illustrator. Not a graphic designer. En @el_pais @xelmeteoritox @upperslife @cuartopoder_es @el.estafador @chispumchispum
+      ❄ Illustrator & Designer ✧ Online Print Store: open ✧ Inquiries: bymeryzajc@gmail.com ✧ Don't repost, use or edit my art. ✧ Commissions: closed
     location: "Argentina"
-    followers: 194885
-    engagement: 356
-    commentsToLikes: 0.006967
-    id: ck0tv88d6aabo0i19twpgyhth
+    followers: 39411
+    engagement: 495
+    commentsToLikes: 0.028820
+    id: ck0u1tromxwq40i19q44tpgss
     verified: false
-    hashtags: "#covid, #love, #javirroyo, #illustration"
-  - username: "lucianovecchioart"
+    hashtags: "#thelittlemermaid, #drawing, #disneyprincess, #disneycollector"
+  - username: "sanxtypo"
     fullname: >-
-      Luciano Vecchio
+      Santiago Colombo
     bio: >-
-      Artist on Marvel Comics’ New Warriors, Ironheart and more 🔥 Queer, Argentinian, freelance comic book artist and illustrator. 🇦🇷🏳️‍🌈 📍Buenos Aires
+      Lettering Artist, Graphic Designer (FADU) & Illustrator based in Buenos Aires, Argentina // @lamofleteria.co
     location: "Argentina"
-    followers: 8310
-    engagement: 702
-    commentsToLikes: 0.019754
-    id: ck135qrzf2ryr0i19r1ib22pn
+    followers: 41996
+    engagement: 410
+    commentsToLikes: 0.018078
+    id: ck0w527ss1jo00i193ff0gx81
     verified: false
-    hashtags: "#avengers, #xmen, #newwarriors, #legendsoftomorrow"
-  - username: "flavio.greco.paglia"
+    hashtags: "#typetopia, #calligraphy, #love, #quarantine"
+  - username: "molinetjuan"
     fullname: >-
-      Flavio Greco Paglia
+      Juan Molinet
     bio: >-
-      Illustrator, Poster & Cover Artist Buenos Aires - Argentina Contact: flavio.greco.paglia@gmail.com Portfolio (updating):
+      Freelance illustrator and character designer based in Berlin 🇦🇷🇩🇪 www.lebureau.tv 👉 https://everpress.com/mirror-punch
     location: "Argentina"
-    followers: 10643
-    engagement: 459
-    commentsToLikes: 0.030193
-    id: ck55oyt7d9fbp0i11f0h3qofs
+    followers: 8902
+    engagement: 566
+    commentsToLikes: 0.024847
+    id: ck138e80vft3m0i19vg8qs18u
     verified: false
-    hashtags: "#shortfilm, #3dar, #rojosangre, #filmfestival"
+    hashtags: "#juanmolinet, #illustration, #coronavirus, #socialawareness"
 ---

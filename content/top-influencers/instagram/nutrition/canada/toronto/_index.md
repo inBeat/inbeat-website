@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Toronto in 2023
+title: Top 10 Nutrition Instagram Influencers In Toronto In 2023
 description: >-
-  Find top nutrition Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #fitness #hardwork.
+  Find top nutrition Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #fitness #personaltrainer #motivation.
 platform: Instagram
-hits: 27
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 27 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 7
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 7 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "theathleisureteacher"
+  - username: "tovfitness"
     fullname: >-
-      LAUREN • Toronto Lifestyle
+      TOVA | fitness & positivity
     bio: >-
-      Mom | Teacher | Gymrat | Carbs & Coffee Food 〰️ Fashion 〰️ Lifestyle Please email for partnerships ↙️ 💌: theathleisureteacher@gmail.com
+      owner of @rebornclub.co 🇨🇦toronto | 23 ✨@myproteinus - ‘TOVAMYP’ for 45% off 🦋CPT, sports nutrition & BAASc psych ↓ MORE LINKS ↓
     location: "Canada"
-    followers: 14579
-    engagement: 594
-    commentsToLikes: 0.707768
-    id: ck0w3c9qzso930i19zj2j7ov0
+    followers: 11218
+    engagement: 411
+    commentsToLikes: 0.212369
+    id: ck6uil7k3fo5u0j71onk2dgkx
     verified: false
-    hashtags: "#torontofitfam, #torontofit, #torontomoms, #torontorestaurants"
-  - username: "dressinheels"
+    hashtags: "#fitness, #gymgains, #gymjokes, #stronggirls"
+  - username: "working_chix"
     fullname: >-
-      🕊 S H A D I 🕊
+      Anna Przezak
     bio: >-
-      🕊Style | Beauty | Lifestyle 📍Persian living in 🇨🇦 👻 dress-inheels 💌 Business inquiries: dressinheels@gmail.com
+      Fashion, Beauty, Lifestyle, Personal Finance CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
     location: "Canada"
-    followers: 244050
-    engagement: 302
-    commentsToLikes: 0.024073
-    id: ck0vyg3gi3t730i190t4k9zp7
+    followers: 33270
+    engagement: 127
+    commentsToLikes: 0.041714
+    id: ck9wh6amgwge60j782z3gl8jx
     verified: false
-    hashtags: "#style, #fashionista, #styleinspo, #outfitinspiration"
-  - username: "nourishedbynic"
+    hashtags: "#toronto, #homedecor, #torontoblogger, #luxyhair"
+  - username: "mandyfroudefitness"
     fullname: >-
-      Nicole | Real Food, Real Life
+      Mandy Froude
     bio: >-
-      ✨22 👩‍🎓 UofG BASc ‘19 🔜 RU MHSc ‘21 🌻 just me trying to live a lil more intuitively 🌱sharing food, nutrition, exercise & real life 📍Toronto
+      💪🏼Online Fitness & Nutrition Coach 🏆CPA Competitor 🔥@inside_fitness Hot & Fit 💯 👙@khcustoms 💙@believesupplements 💧@themammothmug ⬇️Discount codes
     location: "Canada"
-    followers: 2322
-    engagement: 1620
-    commentsToLikes: 0.298394
-    id: ckaowhizq8yuq0i782o612ddl
+    followers: 10210
+    engagement: 353
+    commentsToLikes: 0.033808
+    id: ckaordok3mr1c0i78ychdbuuv
     verified: false
-    hashtags: "#quarantinelife"
-  - username: "josieargento"
-    fullname: >-
-      Josie Argento
-    bio: >-
-      25 | Toronto 📍 @hammerfitness bikini athlete @tc.nutrition sponsored athlete | JOSIE10 @firsthealthapparel | @firsthealth_ | JOSIE @cabanapoolbar
-    location: "Canada"
-    followers: 6789
-    engagement: 1171
-    commentsToLikes: 0.033662
-    id: ck6009u6yd7cu0i1476shklqt
-    verified: false
-    hashtags: "#25"
-  - username: "pickeringfitness"
-    fullname: >-
-      Christopher Pickering 🍍
-    bio: >-
-      fitness travel toronto 🇨🇦 support the dream ⤵️
-    location: "Canada"
-    followers: 25865
-    engagement: 185
-    commentsToLikes: 0.112529
-    id: ckaozztbpo5fv0i78iqghlmda
-    verified: false
-    hashtags: "#selfdevelopment, #prfashion, #torontofit, #sixpackabs"
-  - username: "alizolfi.fitness"
-    fullname: >-
-      Alizolfi(AZfitness)
-    bio: >-
-      Toronto🇨🇦🇮🇷 Canadian National pro qualifier Health,Fitness,Nutrition Canadian diploma👨🏻‍🎓 Online Coaching 📝 مربى آنلاين
-    location: "Canada"
-    followers: 2803
-    engagement: 1547
-    commentsToLikes: 0.062888
-    id: ckf5nnrmyywli0j23gid2owm4
-    verified: false
-    hashtags: "#fitnessmodel, #gymmotivation, #trainer, #gymlife"
-  - username: "katitude_"
-    fullname: >-
-      Khadeejah Aamir
-    bio: >-
-      Personal Training. Online Coaching. Training & Nutrition Programs. @notsobasicfitness
-    location: "Canada"
-    followers: 30351
-    engagement: 215
-    commentsToLikes: 0.024936
-    id: ckf5nns5cywo00j232dtf8g3f
-    verified: false
-    hashtags: "#openthegyms, #logical, #smile, #grateful"
+    hashtags: "#yyz, #believe, #fitlife, #rest"
   - username: "ivan_koach"
     fullname: >-
       Personal Trainer
     bio: >-
       📍Toronto • C O A C H • C E R T I F I E D (Européen diploma & Canadian certificate) / Nutrition 📱Online coaching / One on one ➡️ DM
     location: "Canada"
-    followers: 2376
-    engagement: 940
-    commentsToLikes: 0.066814
+    followers: 2308
+    engagement: 976
+    commentsToLikes: 0.061546
     id: ckaowx12iau1y0i78ymxc25vy
     verified: false
-    hashtags: "#trainer, #oneonone, #personaltrainer, #motivation"
-  - username: "kikifitness_"
+    hashtags: "#workout, #arms, #personaltrainer, #niketraining"
+  - username: "toronto_food_lovers_"
     fullname: >-
-      KIKI FITNESS | Toronto📍
+      Julia - Toronto Food Lovers
     bio: >-
-      🌟DAILY WORKOUTS | NUTRITION | FASHION⁣ 🏋🏽‍♀️Certified Personal Trainer⁣ 📤For Business Inquiries: info@kikifitness.ca⁣ @movability / @teamallmax / @437
+      A page dedicated to all food lovers in Toronto & beyond❤️🌍🌈 📍 Toronto, ON. 📸 Original content 📩 DM/email me for collabs ✨Food brightens my mood✨
     location: "Canada"
-    followers: 26201
-    engagement: 405
-    commentsToLikes: 0.090464
-    id: ck8t6ki50dz6l0j786g8apqqb
+    followers: 8830
+    engagement: 582
+    commentsToLikes: 0.532288
+    id: ck9wdvhpihg7p0j78addb555t
     verified: false
-    hashtags: ""
-  - username: "julianaflores_c"
+    hashtags: "#foodphotography, #dailyhiveto, #torontopatio, #mashedfoodfeatures"
+  - username: "vancouversveryown"
     fullname: >-
-      Juliana Flores
+      Brandon Nair | DJ Nizzy 🇫🇯🌺
     bio: >-
-      👩🏽‍🎓Holistic Nutrition 👩🏾‍🍳 @caju754functionaleats • Te ensino a Comer Bem com sabor e Variedade • 🎥YouTube👇🏾
+      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
     location: "Canada"
-    followers: 18191
-    engagement: 224
-    commentsToLikes: 0.142217
-    id: ckaosvi77t72m0i783io8k2tf
+    followers: 7165
+    engagement: 736
+    commentsToLikes: 0.068972
+    id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#maquiagem, #blogueira, #viajante, #mua"
+    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
+  - username: "wakeupandsmelltherosay"
+    fullname: >-
+      Natalie Rose A🌹MPsy, RP
+    bio: >-
+      psychotherapist & wellness coach diet recovery • self-care • mind-body health 👇🏼body image & ED recovery resources👇🏼
+    location: "Canada"
+    followers: 81216
+    engagement: 211
+    commentsToLikes: 0.035175
+    id: ck0vv0bkwmyid0i19657gixxc
+    verified: false
+    hashtags: "#wakeupgoals, #intuitiveeatingjourney, #foodfreedomforever, #selfcare"
+  - username: "aabrunelle"
+    fullname: >-
+      Audrey-Ann — R/O/C Crew
+    bio: >-
+      Probably gone cooking, running or riding my bike. Honours BSc in Nutrition Sciences. Here is a safe place, feel welcomed. ♥️
+    location: "Canada"
+    followers: 15140
+    engagement: 199
+    commentsToLikes: 0.023493
+    id: ckrxec7enpi7u0j23cf4sx8a0
+    verified: false
+    hashtags: "#onroc, #roccrew, #onrunning, #trailrunning"
+  - username: "tovfitness"
+    fullname: >-
+      TOVA | fitness & positivity
+    bio: >-
+      owner of @rebornclub.co 🇨🇦toronto | 23 ✨@myproteinus - ‘TOVAMYP’ for 45% off 🦋CPT, sports nutrition & BAASc psych ↓ MORE LINKS ↓
+    location: "Canada"
+    followers: 11218
+    engagement: 411
+    commentsToLikes: 0.212369
+    id: ck6uil7k3fo5u0j71onk2dgkx
+    verified: false
+    hashtags: "#fitness, #gymgains, #gymjokes, #stronggirls"
+  - username: "spiritual.beefcake"
+    fullname: >-
+      Coach Derek
+    bio: >-
+      NO BAD DAYS 💫 💻 Online Coach Lifestyle Training & Nutrition Physically & Mentally Transforming Clients
+    location: "Canada"
+    followers: 32755
+    engagement: 119
+    commentsToLikes: 0.077501
+    id: ck5ck0nahvvse0i11tr8m3du5
+    verified: false
+    hashtags: "#2020, #classicphysique, #nobaddays, #fuckcovid19"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Italy in 2023
+title: Top 10 Nail Artists Instagram Influencers In Italy In 2023
 description: >-
-  Find top nail artists Instagram influencers in Italy in 2023. Most popular hashtags: #makeup #girl #nailart #nails.
+  Find top nail artists Instagram influencers in Italy in 2023. Most popular hashtags: #nailart #nails #nail #nailsofinstagram.
 platform: Instagram
-hits: 36
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 36 Instagram influencers like this in Italy for you to collaborate.
+hits: 32
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 32 Instagram influencers like this in Italy for you to collaborate.
 profiles:
   - username: "angelicaceci95"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
     location: "Italy"
-    followers: 3777
-    engagement: 1923
-    commentsToLikes: 0.142160
+    followers: 3701
+    engagement: 1356
+    commentsToLikes: 0.078475
     id: ck8t5wrudbi500j78diegkd83
     verified: false
-    hashtags: "#italy, #gym, #girly, #me"
-  - username: "o_oriana"
-    fullname: >-
-      🇮🇹Oriana Tubiolo🇺🇸
-    bio: >-
-      🏠 Palermo 📍Empoli Educatrice 👩🏼‍🏫 Nail artist/Beautician 💆🏼‍♀️💅🏽😍 @ori_love_nails
-    location: "Italy"
-    followers: 65903
-    engagement: 553
-    commentsToLikes: 0.029270
-    id: ckf5la1mwovqa0j23tbarn60b
-    verified: false
-    hashtags: "#bikini, #girl, #summer, #sea"
-  - username: "mybeautytips_mary"
-    fullname: >-
-      𝑴𝒚 𝑩𝒆𝒂𝒖𝒕𝒚 𝑻𝒊𝒑𝒔💄
-    bio: >-
-      💄Certified Mua 💋Beauty tester 💅🏻 Nail artist e Mua to @relaxand_beauty 📍Fondi , Italy 🇮🇹 📩 DM or e-mail for collabs
-    location: "Italy"
-    followers: 2940
-    engagement: 916
-    commentsToLikes: 0.083540
-    id: ck8t619wrbvw30j78vjij17dy
-    verified: false
-    hashtags: "#unghieestive, #makeupartist, #makeupaddict, #italiangirl"
+    hashtags: "#veneziagram, #viaggiare, #travelblog, #throwback"
   - username: "nailartbygiga"
     fullname: >-
       🔹 Nail art by Giga 🔹
     bio: >-
-      🌷 Giulia 🌹 Imma 🌻 Anna 💅🏻 Nail artists 💄 Beauty bloggers 💻 Influencers ➡️ MadamGlam collab #mgaddicted 📨 nailartbygiga@gmail.com 🔹Blog🔹YouTube 🔹Fb
+      🌷 Giulia 🌹 Imma 🌻 Anna 💅🏻 Nail artists 💄 Beauty bloggers 💻 Influencers 📨 nailartbygiga@gmail.com 🔹Blog🔹YouTube 🔹Fb
     location: "Italy"
-    followers: 10694
-    engagement: 566
-    commentsToLikes: 0.141723
+    followers: 10745
+    engagement: 198
+    commentsToLikes: 0.129107
     id: ckaoua14xzgpl0i78tie609ez
     verified: false
-    hashtags: "#mggels, #semipermanente, #cliomakeup, #mua"
+    hashtags: "#liquidlipstick, #beautyaddict, #summer2021, #lipsticklover"
   - username: "yuu_colorsnail"
     fullname: >-
-      Colors nail staff • yuu •
+      Colors nail yuu💫
     bio: >-
       Nail artist in Tokyo reservation▷03-6409-6515 . online seminar↓
     location: "Italy"
-    followers: 16006
-    engagement: 177
-    commentsToLikes: 0.001975
+    followers: 17226
+    engagement: 146
+    commentsToLikes: 0.002396
     id: ck0w1zu73ly640i19i0s4u0na
     verified: false
-    hashtags: "#hand, #foot, #privatenailsalon, #colorsnail"
-  - username: "louis__escape"
-    fullname: >-
-      Louis Luu
-    bio: >-
-      Nail artist💅/Nail educador/Art lover/Distributor Salon training available/private class/group/training 1 on 1
-    location: "Italy"
-    followers: 122089
-    engagement: 116
-    commentsToLikes: 0.038438
-    id: ck0tzeqzgq3bd0i19kp79q28g
-    verified: false
-    hashtags: "#tagthemanicurist, #pretty, #stylish, #nailsmagazine"
+    hashtags: "#yuu, #art, #ebisu, #hand"
   - username: "lanatyandrea"
     fullname: >-
       𝙉𝙖𝙩𝙖𝙡𝙞𝙖 𝘼𝙣𝙙𝙧𝙚𝙖 ⚡️
     bio: >-
-      Chilena🇨🇱 / 26💫 •𝗟𝗼 𝗾𝘂𝗲 𝘁𝘂́ 𝗺𝗲 𝗱𝗲𝘀𝗲𝗮𝘀 𝗾𝘂𝗲 𝗗𝗶𝗼𝘀 𝘁𝗲 𝗹𝗼 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗶𝗾𝘂𝗲• NailArtist💅🏻 @manosdeangel.studio 💎 🎶✝️💅🏼♐️🐾 💥UNICO INSTA💥
+      Chilena🇨🇱 •𝗟𝗼 𝗾𝘂𝗲 𝘁𝘂́ 𝗺𝗲 𝗱𝗲𝘀𝗲𝗮𝘀 𝗾𝘂𝗲 𝗗𝗶𝗼𝘀 𝘁𝗲 𝗹𝗼 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗶𝗾𝘂𝗲• NailArtist💅🏻 @manosdeangel.studio 💎 🎶✝️💅🏼♐️🐾 💥UNICO INSTA💥
     location: "Italy"
-    followers: 60719
-    engagement: 533
-    commentsToLikes: 0.019293
+    followers: 61476
+    engagement: 568
+    commentsToLikes: 0.019022
     id: ck5hfoas1ygmv0i118ayokdl8
     verified: false
-    hashtags: "#instasantiago, #instachile, #ootd, #outfit"
-  - username: "mynudelips"
+    hashtags: "#outfit, #chilena, #latina, #concon"
+  - username: "ericabarca_"
     fullname: >-
-      🔥 VALERIA 🦁
+      Erica Barca
     bio: >-
-      Beauty contents creator Certified MUA Founder @mnl.jewels ✨ Based in Rome, Italy 🇮🇹 | 22 🍍 📩 mynudelips.mua@gmail.com
+      Sangue Siculo infoericabarca@gmail.com Nipote preferita di @nonnapaolaaa ✨ Pesci ascendente pesci, na tragedia in pratica
     location: "Italy"
-    followers: 34333
-    engagement: 1029
-    commentsToLikes: 0.030699
-    id: ck5hj2w1nfwlr0i11a3d9vopy
+    followers: 97121
+    engagement: 95
+    commentsToLikes: 0.093307
+    id: ckap4v93091370i780vh251ev
     verified: false
-    hashtags: "#photooftheday, #instanails, #fashion, #makeuptutorial"
-  - username: "mariailioiu.official"
+    hashtags: "#nails, #nail, #nailsofinstagram, #sicily"
+  - username: "_alybi_"
     fullname: >-
-      👑 Ispita Maria 👑
+      Alice Balladelli
     bio: >-
-      Ispita la Insula Iubirii 🌴❤ Actress《TVshow《Model《Vlogger《Influencer《 Lifestyle 👉 collaborations 📩 Conter Creator Founder @ispitahainelor🩱 Vlog 👇
+      .Doctor .Pro diva fitness Wbff .Ambassadress @netintegratori
     location: "Italy"
-    followers: 127191
-    engagement: 108
-    commentsToLikes: 0.020278
-    id: ck5q9ppv4ccmn0i11swlxe65t
+    followers: 20629
+    engagement: 449
+    commentsToLikes: 0.057618
+    id: ck5buom5ri5e00i11f5z4onwl
     verified: false
-    hashtags: "#fashion, #dresstoimpress, #makeup, #latex"
-  - username: "erica_piamonte_real"
+    hashtags: "#fitnessmotivation, #bodytransformation, #inkedgirl, #fitnessgirl"
+  - username: "battleborn96"
     fullname: >-
-      𝕰𝖗𝖎𝖈𝖆 𝕻𝖎𝖆𝖒𝖔𝖓𝖙𝖊
+      𝓔𝓻𝓲𝓬𝓪🌼
     bio: >-
-      FINALISTA GF16 𝙾𝙻𝚃𝚁𝙴 𝙻'𝙰𝙿𝙿𝙰𝚁𝙴𝙽𝚉𝙰 😈❤️ Collaborazioni—> ericapiamonte88@gmail.com 📧erica@ddfinfluenceragency.com
+      𝓜𝓸𝓷𝓸𝓹𝓸𝓵𝓲 (𝓑𝓪) @derezzed94 ♥️
     location: "Italy"
-    followers: 360438
-    engagement: 329
-    commentsToLikes: 0.027198
-    id: ck8t8c66mjw0a0j78ybsau99z
-    verified: true
-    hashtags: "#influenceritalia, #blondehair, #bloggerstyle, #influencer"
+    followers: 21283
+    engagement: 369
+    commentsToLikes: 0.149393
+    id: ckaov9ius3m6n0i78g80w6d6h
+    verified: false
+    hashtags: "#giftedby, #skincareblogger, #ideabellezza, #octolyfamily"
+  - username: "desy_forato"
+    fullname: >-
+      Desy Forato
+    bio: >-
+      ⚜️ @nailartextreme_academy Founder 🇮🇹 @opaonicotecnici Ambassador ‼️Paladina dei LATERALI ⚔️Guerriera dei FERRI DA STIRO ⏱13 anni nel settore
+    location: "Italy"
+    followers: 41894
+    engagement: 334
+    commentsToLikes: 0.096639
+    id: ck5zrz74fxizo0i14e30wrsom
+    verified: false
+    hashtags: "#academy, #nailsofinstagram, #nailartextremeacademy, #corsinails"
+  - username: "carlambra"
+    fullname: >-
+      C A R L A  C A R N I C E L L A
+    bio: >-
+      BASED ON A TRUE STORY 🛍 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹 - 𝑴𝒊𝒔𝒔𝑪𝒂𝒓𝒍𝒂 💄 𝕊𝕙𝕠𝕡𝕡𝕚𝕟𝕘 𝕒𝕕𝕕𝕚𝕔𝕥𝕖𝕕 & 𝕓𝕖𝕒𝕦𝕥𝕪 𝕝𝕠𝕧𝕖𝕣 📚 Giurispridenza 👩🏼‍⚖️ ᴛᴏʀɪɴᴏ 🇮🇹 🎬 𝐈𝐥 𝐦𝐢𝐨 𝐮𝐥𝐭𝐢𝐦𝐨 𝐯𝐢𝐝𝐞𝐨:
+    location: "Italy"
+    followers: 43424
+    engagement: 357
+    commentsToLikes: 0.034512
+    id: ck0u1izgkx3ey0i19dvur64ot
+    verified: false
+    hashtags: "#autumnoutfit, #exploremore, #myaestheticroutine, #effortlessstyle"
+  - username: "louis__escape"
+    fullname: >-
+      Louis Luu
+    bio: >-
+      🌈TURN ON POST NOTIFICATION ✨Nail artist💅/Nail educator/Distributor 🌏Private training/group class/1 on 1 💫Premium Nail Art Supplies @nailikes ♥️
+    location: "Italy"
+    followers: 189079
+    engagement: 37
+    commentsToLikes: 0.039823
+    id: ck0tzeqzgq3bd0i19kp79q28g
+    verified: false
+    hashtags: "#nailart, #stylish, #photooftheday, #nails"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Turkey in 2023
+title: Top 10 Lifestyle Instagram Influencers In Turkey In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Turkey in 2023. Most popular hashtags: #gezilecekyerler #blogger #dog.
+  Find top lifestyle Instagram influencers in Turkey in 2023. Most popular hashtags: #travel #ig #outfitoftheday.
 platform: Instagram
-hits: 624
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 624 Instagram influencers like this in Turkey for you to collaborate.
+hits: 634
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 634 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "simlipullu"
+  - username: "monicaawidy"
     fullname: >-
-      Simay Çetinkaya Pullu
+      Monica Ayu W 📍 SIDOARJO
     bio: >-
-      🌏Traveller | ✍🏼Blogger | 💫Lifestyle 💌 Reklam ve işbirliği için: DM / simaycetinkaya@live.com 📦Makrome satış sayfam: @simlipullu_atelier
+      ✨ Beauty | Food | Lifestyle 📱 Tiktok : monicaayuww 🧑‍💻 @nyehatpol | @selerakini 📣 business inq? Dm or 👇🏻 📩 monicaayuwidyani08@gmail.com
     location: "Turkey"
-    followers: 12246
-    engagement: 1253
-    commentsToLikes: 0.110168
-    id: ck8t3cgo62qsy0j78b6gwj87u
+    followers: 4443
+    engagement: 864
+    commentsToLikes: 0.033954
+    id: ckf5mxv9rvuxm0j23k5swcw7u
     verified: false
-    hashtags: "#gezilecekyerler, #seyahat, #sonbahar, #kars"
+    hashtags: "#youngleaders, #matchamuhunters, #sepatucatscewek, #serumacne"
+  - username: "iamrxngh"
+    fullname: >-
+      R O X A N N A
+    bio: >-
+      Travel | Youtube | Lifestyle Mine💍 @sepy.ak Ad : @roxana.ads 📥
+    location: "Turkey"
+    followers: 2407735
+    engagement: 938
+    commentsToLikes: 0.013647
+    id: ck9wiyr0j4iob0j78bnmw90qi
+    verified: false
+    hashtags: "#fashion, #explore, #love, #style"
+  - username: "gzonemag"
+    fullname: >-
+      GZONE MAGAZINE
+    bio: >-
+      Türkiye'nin en sevilen gökkuşağı içerik ve eğlence markası.Turkey's favorite rainbow lifestyle/culture and entertainment brand
+    location: "Turkey"
+    followers: 62114
+    engagement: 209
+    commentsToLikes: 0.033682
+    id: ck5q04qee48nw0i1113wvaiqw
+    verified: false
+    hashtags: "#lgbti, #lgbt, #gzone, #ourpride"
   - username: "elvin"
     fullname: >-
       Elvin Levinler 🌈
     bio: >-
-      ⋒ elvin@thedigitalnomads.co ✈ IST & DATÇA #EvdeKal ✎ Hurriyet Seyahat ♡ #traveler #lifestyle #storyteller #nomad ⍟ new video ⇟
+      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
     location: "Turkey"
-    followers: 1044367
-    engagement: 975
-    commentsToLikes: 0.559015
+    followers: 1185764
+    engagement: 120
+    commentsToLikes: 0.016211
     id: ck15uwgu4ou830i19ej5guzkx
     verified: true
-    hashtags: "#10kas, #birdofparadise, #harikakarelerinpe, #nefesal"
-  - username: "pilotasoglu"
+    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
+  - username: "sebibebi"
     fullname: >-
-      Ahmet Asoğlu Official | Cadet
+      Sebile Ölmez ®
     bio: >-
-      ✈️ | Pilot Lifestyle - Travel 👨🏻‍✈️ | 23yo from Turkey 🇹🇷 📺 | Covid19’un havacılığa etkisi⬇️
+      Beauty Guru Lifestyle Mom Founder @soflycosmetics pr@sebibebi.com 🇹🇷Turkiye
     location: "Turkey"
-    followers: 57356
-    engagement: 844
-    commentsToLikes: 0.051264
-    id: ck5hh6x0e6oze0i11qh60msgv
-    verified: false
-    hashtags: "#23"
-  - username: "gizemuzel_"
+    followers: 603884
+    engagement: 89
+    commentsToLikes: 0.021709
+    id: ck139k7iqlpsm0i19j7cogmhv
+    verified: true
+    hashtags: "#birthdayparty, #reklama, #outfitcheck, #unboxing"
+  - username: "dilekstudzinski"
     fullname: >-
-      Gizem Üzel
+      Dilek Oluklu Studzinski
     bio: >-
-      Beauty • Fashion • Lifestyle gomlekterujizi@gmail.com
+      •lifestyle •ootd •trendyplaces Silicon Valley, CA 🌴🇺🇸 dilekstudzinski@gmail.com💌 Shop my IG outfits ✨👇
     location: "Turkey"
-    followers: 392534
-    engagement: 837
-    commentsToLikes: 0.129574
-    id: ck15r5qwm69ma0i197i2vtfss
+    followers: 108369
+    engagement: 195
+    commentsToLikes: 0.406161
+    id: ck15t35qog44s0i19hp31whxy
     verified: false
-    hashtags: ""
-  - username: "tiyatrolist"
+    hashtags: "#zarawoman, #snkrskickcheck, #liketoknowit, #bloggerstyle"
+  - username: "evrimertekin"
     fullname: >-
-      Gürkan Kaçmaz
+      Evrim Ertekin Ergün 🌿
     bio: >-
-      Aviator👨🏻‍✈️ Travel | LifeStyle | Fashion Personal Consultant Styling Reklam ve İş birlikleri için DM📥
+      Nature | Travel | Lifestyle Wanderlust ✈︎ Gezgin Gazetesi Köşe Yazarı ✍︎ Yuvacık köşe yazısı için⇩
     location: "Turkey"
-    followers: 13425
-    engagement: 1182
-    commentsToLikes: 0.080919
-    id: ckf5ttxg6irk50j237na50dj0
+    followers: 20739
+    engagement: 643
+    commentsToLikes: 0.286789
+    id: ckaow60vj7kj30i78yy87i76d
     verified: false
-    hashtags: "#americanstyle, #style, #fashion, #inspofashion"
-  - username: "nesemcelikkaya"
-    fullname: >-
-      Neşem Çelikkaya Bozdağ
-    bio: >-
-      a curious travel and lifestyle blog from Istanbul ➰not all those who wander are lost. • www.journavel.com • nesem@journavel.com
-    location: "Turkey"
-    followers: 59730
-    engagement: 595
-    commentsToLikes: 0.149193
-    id: ck0tuuux18rux0i1930nc68iv
-    verified: false
-    hashtags: "#travelturkey, #reels, #do, #dog"
-  - username: "tamershwaiter"
-    fullname: >-
-      Tamer Shwaiter|تامر شويطر
-    bio: >-
-      Moments of #fashion #lifestyle and #travel 🧭
-    location: "Turkey"
-    followers: 26572
-    engagement: 1017
-    commentsToLikes: 0.054148
-    id: ck5hrllznv2iz0i11wc3nrs7v
-    verified: false
-    hashtags: ""
-  - username: "orasiseninburasibenim"
-    fullname: >-
-      Gizem Yüksel
-    bio: >-
-      Milliyet Tatil Yazarı✍🏼 Travel | Lifestyle | Food Blog⬇️ California Road Trip yayında⬇️
-    location: "Turkey"
-    followers: 19505
-    engagement: 870
-    commentsToLikes: 0.457252
-    id: ck9wfvjrmqogg0j7814abqbqs
-    verified: false
-    hashtags: "#ig, #gezginlerbirarada, #geziyorum, #travelgram"
-  - username: "mayabasol"
-    fullname: >-
-      A S Y A & M A Y A  B A Ş O L
-    bio: >-
-      Influencer... Lifestyle | Trendsetter | Mom | Fashion Kids Account Managed By Parents @asyabasoll
-    location: "Turkey"
-    followers: 238620
-    engagement: 523
-    commentsToLikes: 0.071916
-    id: ck137l5f4c3fj0i19zcbknynz
-    verified: false
-    hashtags: "#purelove, #29ekimcumhuriyetbayram, #fashionista, #mustafakemalatat"
+    hashtags: "#photooftheday, #goturkey, #geziyoruz, #wanderlust"
   - username: "busrayurtgul"
     fullname: >-
       Büşra Yurtgül Neziroğluları
     bio: >-
       Lifestyle, Fashion, Beauty Contact: busrayurtgul@gmail.com Based in Istanbul, TR🖤
     location: "Turkey"
-    followers: 270101
-    engagement: 476
-    commentsToLikes: 0.052961
+    followers: 261837
+    engagement: 345
+    commentsToLikes: 0.010551
     id: ck139k5xplpjy0i19x6soai4b
     verified: false
-    hashtags: "#reelsinstagram, #couple, #couplereels, #ipekyoldenim"
+    hashtags: "#morewithless, #zentamtur, #zenp, #modernkad"
+  - username: "littlenomadic_girl"
+    fullname: >-
+      İpek Yalçın 🧿
+    bio: >-
+      📍Bulgaria🇧🇬 Turkey🇹🇷 ♾ Travel | LifeStyle | Gym >>Do small things with great love 💫 •Wanderlust 👣🎒🌎 #grateful #happy #free 🌻 H a p p y W i f e💍
+    location: "Turkey"
+    followers: 18051
+    engagement: 1005
+    commentsToLikes: 0.045473
+    id: ck13bwa9wxg090i19i24gzfax
+    verified: false
+    hashtags: "#tbt, #ig, #aniyakala, #igtravel"
+  - username: "damlakalaycik"
+    fullname: >-
+      Damla Kalaycık Dedeoğlu
+    bio: >-
+      Hamburg | İstanbul ITU Physics Engineering 👩🏼‍🎓 Fashion | Beauty | Lifestyle | Travel Business Inquiry: damlakalaycik@hotmail.com
+    location: "Turkey"
+    followers: 375132
+    engagement: 347
+    commentsToLikes: 0.065799
+    id: ck55oh3n78c8l0i11a5it2m81
+    verified: false
+    hashtags: "#winterwonderland, #matchalatte"
 ---

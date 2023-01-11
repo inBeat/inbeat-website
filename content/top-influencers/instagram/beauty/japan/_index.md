@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Japan in 2023
+title: Top 10 Beauty Instagram Influencers In Japan In 2023
 description: >-
-  Find top beauty Instagram influencers in Japan in 2023. Most popular hashtags: #pr #beauty #ootd #instafashion.
+  Find top beauty Instagram influencers in Japan in 2023. Most popular hashtags: #pr #ootd #model.
 platform: Instagram
-hits: 1024
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 1024 Instagram influencers like this in Japan for you to contact.
+hits: 918
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 918 Instagram influencers like this in Japan for you to pitch.
 profiles:
-  - username: "noeliajustiniano"
+  - username: "nadyamaudy"
     fullname: >-
-      Noelia🏠🇧🇴➡️🇺🇸➡️🇹🇿➡️🇯🇵Japan
+      Nadya Maudy
     bio: >-
-      ❀ Party of 3 👨‍👩‍👧+ 2🐈 ✿ Travel & Daily Life in Japan ❀ J-Beauty & K-Beauty fan 🙋🏻‍♀️ 🇧🇴Bolivian #YourDailyJapanDose 📍Tokyo 🖊info@noeliajustiniano.com
+      i'm only a happiness seeker #FitJourneyNadyamaudy #postootdnadyamaudy #beautyjournalbynadyamaudy ✉️nadyamaudy@icloud.com/ DM
     location: "Japan"
-    followers: 24339
-    engagement: 411
-    commentsToLikes: 0.125049
-    id: ck5zxhctj80h70i149cvyt4sv
+    followers: 153411
+    engagement: 171
+    commentsToLikes: 0.006086
+    id: ck14l7b1rt8000i192g0bpf2l
     verified: false
-    hashtags: "#amazingjapan, #yourdailyjapandose, #discoverjapan, #timeoutlovesjapan"
-  - username: "jinguwakana"
+    hashtags: "#beauty101, #neverthesamealwaysmyself, #mauditempuhhidupbaru, #doveindonesia"
+  - username: "taylor_lovee"
     fullname: >-
-      WAKANA JINGU💋💗
+      TAYLOR LOVE |Love Inside & Out
     bio: >-
-      Beauty's producer💄 メイクアドバイス・SNSコンサル . 【💗YouTube&プロデュースはこちらから💗】
+      👋🏻🤍sharing daily style, beauty, & wellness to inspire love from the inside-out! holistic health & living fully 💍@dyl.jp + Bozeman, MT🏔+ 🐶🐶💕 blog👇🏻
     location: "Japan"
-    followers: 44078
-    engagement: 293
-    commentsToLikes: 0.059640
-    id: ck135glnl1bay0i199fycicd6
+    followers: 117005
+    engagement: 204
+    commentsToLikes: 0.040832
+    id: ck0w2og84peih0i19iayfjkxx
     verified: false
-    hashtags: "#bodymake, #beauty, #youtube, #happyhalloween"
+    hashtags: "#ad, #montanasummer, #liketkit, #wedding"
   - username: "a.asuka.a"
     fullname: >-
       asuka | Freelance Model
     bio: >-
       Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
     location: "Japan"
-    followers: 35469
-    engagement: 222
-    commentsToLikes: 0.061966
+    followers: 39010
+    engagement: 287
+    commentsToLikes: 0.059405
     id: ck5hiace7cgwh0i11o7iuh993
     verified: false
-    hashtags: "#olympus, #fujimi, #goodmood, #pr"
-  - username: "eri_t28"
-    fullname: >-
-      Eri Takakura   高倉 絵理
-    bio: >-
-      TRAVEL / BEAUTY / FASHION 1977 / based in Tokyo, JAPAN BYRON @byron_t28 FiNCアンバサダー @finc_app
-    location: "Japan"
-    followers: 171133
-    engagement: 144
-    commentsToLikes: 0.042692
-    id: ck6ugl5kf3obs0j71ffwwh3t3
-    verified: false
-    hashtags: "#chihuahua, #chihuahualife, #chihuahuastagram, #hotelstay"
-  - username: "kuuu.kumiko"
-    fullname: >-
-      Kumiko Suzuki  鈴木久美子
-    bio: >-
-      #fashion#beauty#health #lifestyle#foods #naturalbeauty #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ☆Freelance model☆ 経歴…第8回美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
-    location: "Japan"
-    followers: 39244
-    engagement: 321
-    commentsToLikes: 0.044874
-    id: ckap4ky277r6y0i78yzmchql7
-    verified: false
-    hashtags: "#fashion, #happybirthday, #yummy, #recommend"
-  - username: "rinachesca"
-    fullname: >-
-      ちぇすか ❁ Rina Franchesca 関西モデル
-    bio: >-
-      90’ 兵庫在住 関西⇔関東 癒し系とよく言われます🌷 ▪️モデル ▪️SNSディレクター ▪️アットコスメBeauty Specialist #CHESCA服 #CHESCA美容 #CHESCAぐるめ 👇🏻YouTube, Fanclub, TikTok, Twitter
-    location: "Japan"
-    followers: 73422
-    engagement: 287
-    commentsToLikes: 0.034403
-    id: ck5q2gu43fy9j0i11lds0ysg6
-    verified: false
-    hashtags: "#30, #chesca, #nanalens, #551"
-  - username: "kiyomi_biyori"
-    fullname: >-
-      kiyomi
-    bio: >-
-      🏠FUKUOKA ・ cosme💄fashion👗beauty💋spot⛱ SPOT▶︎📖まとめ📖 ・ ☆Food→ @kiyomi_food 　福岡グルメ🥂 　福岡のお店を中心としたグルメ記録🍽 ☆Contact→DM✉️
-    location: "Japan"
-    followers: 10454
-    engagement: 1943
-    commentsToLikes: 0.013550
-    id: ck5zmqjbpn1g90i14m7bi3aqn
-    verified: false
-    hashtags: "#teamlab, #paypay, #hiltonfukuokaseahawk, #hiltonseahawk"
-  - username: "hana.nyanya"
-    fullname: >-
-      Hana
-    bio: >-
-      BIGO LIVE 💄HANA🍑 ID hana.nyanya イメージコンサルタント💫 インフルエンサー🌟 モデル✨ Mom🧑🏻🐈 167cm🌵Yokohama🛳 fashion👙 beauty🦋 Body make👯‍♀️ ★お仕事の依頼はDMまたはメールにお願いします📩
-    location: "Japan"
-    followers: 60752
-    engagement: 382
-    commentsToLikes: 0.025811
-    id: ck8sy22j4jgn90j789kks8ln6
-    verified: false
-    hashtags: "#ootd, #pr, #tdl, #beep"
+    hashtags: "#kuih, #kuihst, #locari, #ac"
   - username: "helitiiamaria"
     fullname: >-
       𝒯𝒾𝓃𝓀𝑒𝓇𝒷𝑒𝓁𝓁𝒶
     bio: >-
-      #momlife #kids #fashion #beauty #food #flower #flatlay 👶🏽❤️ Rosa 6/20 👶🏽💗 Jade 5/19 👦🏽💙 Lukas 9/12 💌 tinkerbellaheli@gmail.com 💕 Uusin video ⤵️
+      #momlife #kids #fashion #beauty #food #flower #flatlay 👶🏽💗 Rosa 6/20 👶🏽💗 Jade 5/19 👦🏽💗 Lukas 9/12 💌 tinkerbellaheli@gmail.com 💕 Uusin video ⤵️
     location: "Japan"
-    followers: 16352
-    engagement: 1595
-    commentsToLikes: 0.009078
+    followers: 16327
+    engagement: 1069
+    commentsToLikes: 0.013703
     id: ckap3dwfb2ntp0i78htwfh769
     verified: false
-    hashtags: "#autumnoutfit, #kes, #momofthree, #peikkotytt"
-  - username: "kiyomi_food"
+    hashtags: "#ootd, #makeistukku, #taffelpandashop, #fillerina"
+  - username: "eri_t28"
     fullname: >-
-      kiyomi
+      Eri Takakura   高倉 絵理
     bio: >-
-      福岡グルメ🥂 福岡のお店を中心としたグルメ記録🍽 テイクアウト✨お取り寄せ✨も紹介😋 ・ 飲食店情報▶︎📖まとめ📖 ・ ☆Every day → @kiyomi_biyori cosme💄fashion👗beauty💋spot⛱
+      TRAVEL / BEAUTY / FASHION / GOURMET 1977 / 北海道→東京 BYRON @byron_t28 FiNCアンバサダー @finc_app
     location: "Japan"
-    followers: 12616
-    engagement: 1283
-    commentsToLikes: 0.009252
-    id: ck14kabbfojn50i19gne59s9y
+    followers: 181412
+    engagement: 140
+    commentsToLikes: 0.038776
+    id: ck6ugl5kf3obs0j71ffwwh3t3
     verified: false
-    hashtags: "#shootingbar, #bbq, #lemonadebylemonica, #lazydogspastahouse"
+    hashtags: "#hermes, #40, #malibuhotel, #shoes"
+  - username: "hana.nyanya"
+    fullname: >-
+      Hana
+    bio: >-
+      BIGO LIVE 💄HANA🍑 ID hana.nyanya イメージコンサルタント💫 インフルエンサー🌟 モデル✨ 167cm🌵Yokohama🛳 fashion👙 beauty🦋 Body make👯‍♀️ ★お仕事の依頼はDMまたはメールにお願いします📩
+    location: "Japan"
+    followers: 60698
+    engagement: 396
+    commentsToLikes: 0.028968
+    id: ck8sy22j4jgn90j789kks8ln6
+    verified: false
+    hashtags: "#bigo, #pr, #fujimi, #bigolive"
+  - username: "kuuu.kumiko"
+    fullname: >-
+      Kumiko Suzuki  鈴木久美子
+    bio: >-
+      #beauty #fashion #health #foods #lifestyle #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ・Freelance model ・経歴…第8回国民的美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
+    location: "Japan"
+    followers: 41897
+    engagement: 316
+    commentsToLikes: 0.032118
+    id: ckap4ky277r6y0i78yzmchql7
+    verified: false
+    hashtags: "#lifestyle, #fashion, #beautiful, #health"
+  - username: "tazumin_raida"
+    fullname: >-
+      tazumi
+    bio: >-
+      🇯🇵From Japan🇯🇵 Okinawa🌺Philippines🇵🇭half🏠 🏍kawasaki🌟ninja250🏍💁Girl'sbiker💖fashoin👗beauty💄photo📸 /model👉@fabro_tazumi
+    location: "Japan"
+    followers: 6751
+    engagement: 1551
+    commentsToLikes: 0.006764
+    id: ck6tovb5vgawj0j71m25067nw
+    verified: false
+    hashtags: "#instagood, #kawasaki, #redbull, #dtracker"
+  - username: "bennetcoblinerphotography"
+    fullname: >-
+      Bennet Cobliner
+    bio: >-
+      *NO DMs* Beauty and Portrait Photographer, Cyclist, Traveler, Lover of Languages. NYC. 🇺🇸🇨🇭Japanese speaker/日本語
+    location: "Japan"
+    followers: 3459
+    engagement: 586
+    commentsToLikes: 0.122502
+    id: ck0w5rb6j51sy0i19zre7tjuk
+    verified: false
+    hashtags: "#beautyphotographer, #glittermakeup, #bennetcoblinerphotography, #bennetcobliner"
+  - username: "ryoko_kobayashi_ryoko"
+    fullname: >-
+      小林涼子/ Ryoko “Toko” Kobayashi
+    bio: >-
+      Japanese,Korean,English/ food,beauty,travel... お問い合わせは☞kobayashi.ryoko.info@gmail.com ☟活動こちらにまとめています☟
+    location: "Japan"
+    followers: 63403
+    engagement: 621
+    commentsToLikes: 0.011867
+    id: ck0vz9fbj7z6p0i19ln6fsjwd
+    verified: true
+    hashtags: "#2021, #family, #heart, #nomadis"
 ---

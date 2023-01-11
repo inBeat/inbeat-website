@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Russia in 2023
+title: Top 10 Cosmetics Instagram Influencers In Russia In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Russia in 2023. Most popular hashtags: #makeup #makeupbyme #matteffect.
+  Find top cosmetics Instagram influencers in Russia in 2023. Most popular hashtags: #lvmh #beautyblog #harrypotter.
 platform: Instagram
-hits: 525
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 525 Instagram influencers like this in Russia for you to contact.
+hits: 573
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 573 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "leemilaya"
+  - username: "daria_prybylova"
     fullname: >-
-      Mila Lee
+      🌏 Travel, Beauty & Lifestyle
     bio: >-
-      🏆Best Beauty Blogger 2019 Стилист «осознанной моды»👗 Амбасадор Eveline cosmetics ❥ᏚᏢᏴ ✎О макияже, стиле и красоте Ведущая #гранисовременности 🎙 New👇🏼
+      ✈Посетила более 17ти стран ❗Развила свой бизнес за границей 🔝Косметолог, ВЛАДЕЛЕЦ @cosmetic_studio_dp Telegram/WhatsApp ⤵️
     location: "Russia"
-    followers: 21788
-    engagement: 488
-    commentsToLikes: 0.186398
-    id: ck5hkylurj9d50i11nbi9a5h0
+    followers: 12971
+    engagement: 1241
+    commentsToLikes: 0.035645
+    id: ck55nipqd6aiw0i11nt9l3fak
     verified: false
-    hashtags: "#stopspots, #washoff, #thebeautific, #cleanout"
+    hashtags: "#coolpntngs, #giveaway"
   - username: "_inna_demchenko"
     fullname: >-
       INNA 🦂
     bio: >-
-      • travelholic • 20 countries... ★ • sport🤍 • founder : @keeplove_krd_ @cosmetic.love.krd @gate__17
+      • travelholic • 20 countries... ★ • sport🖤 • founder : @gate__17 @keeplove_krd_ @cosmetic.love.krd
     location: "Russia"
-    followers: 42188
-    engagement: 712
-    commentsToLikes: 0.025908
+    followers: 50856
+    engagement: 855
+    commentsToLikes: 0.025814
     id: ck6u4mtm24mdj0j71e2oh0i87
     verified: false
     hashtags: ""
-  - username: "baby.s.m"
+  - username: "leemilaya"
     fullname: >-
-      классная 𝕊𝕒𝕓𝕣𝕚𝕟𝕒
+      Mila Lee
     bio: >-
-      𝘿𝙂-𝙉𝙎𝙆 𝘽𝙖𝙧𝙗𝙞𝙚 𝙜𝙞𝙧𝙡 🥵 мой магазин: @girlstyle_cosmetic
+      🏆Best Beauty Blogger 2019 Стилист «осознанной моды»👗 Амбасадор Eveline cosmetics ❥ᏚᏢᏴ ✎О стиле и красоте Часто дарю подарки 🎁🥳 New👇🏼
     location: "Russia"
-    followers: 9313
-    engagement: 2419
-    commentsToLikes: 0.032796
-    id: ckapav9nkxln80i78nmer51pl
+    followers: 21096
+    engagement: 388
+    commentsToLikes: 0.108672
+    id: ck5hkylurj9d50i11nbi9a5h0
     verified: false
-    hashtags: ""
-  - username: "roxys_choice"
+    hashtags: "#beautyblog, #makeup, #faberlicinfluencer, #lvmh"
+  - username: "platinovaya_victoria"
     fullname: >-
-      ⭐RAXANA SAMOKHVALOVA ✨
+      Victoria |MakeupArtist&Fashion
     bio: >-
-      👑ДВАЖДЫ ЛУЧШИЙ BEAUTY BLOGGER 2019 по версии Невские Берега🏆 💄Амбассадор Eveline Cosmetics 👠FASHION GURU 🔥Худею:уже –50 кг 📩 Roxys_choice@mail.ru ⠀ 👇
+      👩‍🎨MUA @platinovaya_makeup 🛍Косметика @platinovaya_cosmetics_shop 👸Фотопроект @photosession_zp 🎉Организатор Бьюти вечеринок 👑Фешион Леди и Модель
     location: "Russia"
-    followers: 573429
-    engagement: 246
-    commentsToLikes: 0.031863
-    id: ck13cbadwzi890i191zv9px97
+    followers: 10041
+    engagement: 1282
+    commentsToLikes: 0.026984
+    id: ckap83tl7mpin0i78hngt0gon
     verified: false
-    hashtags: "#rc, #grazia, #halloween2020, #yvesrocherrussia"
+    hashtags: "#beautyparty, #backstage, #platinovaya"
   - username: "kristinasadova"
     fullname: >-
       Кристина Садова 💃🏻🥂✨
     bio: >-
-      ‼️Рекламу не делаю‼️ Тут про меня, семью, путешествия, еду и про винишко 💃🏻🎉 Организую @che_market и @vseprostofest❤️ Создаю @bellapro_cosmetics 💞
+      Тут про меня, семью, путешествия, еду и про винишко 💃🏻🎉 Организую @che_market и @vseprostofest❤️ Создаю @bellapro_cosmetics 💞
     location: "Russia"
-    followers: 68060
-    engagement: 448
-    commentsToLikes: 0.024427
+    followers: 63741
+    engagement: 491
+    commentsToLikes: 0.026167
     id: ck8t2102jxtn40j78rzp4ioud
     verified: false
-    hashtags: "#eccobts"
-  - username: "tehila_ushkats"
+    hashtags: "#universalstudios, #holidaysinorlando, #harrypotter, #nycity"
+  - username: "dr.nadraga"
     fullname: >-
-      🧿YᗩSᗩ🧿
+      VARYA NADRAGA
     bio: >-
-      @yasa_cosmetic 💅🏻
+      💉 BEAUTY DOCTOR UKRAINE ￼ эстетическая контурная пластика 📲+380677378401 @dr.nadraga_cosmetics @7room.ua
     location: "Russia"
-    followers: 25511
-    engagement: 302
-    commentsToLikes: 0.046958
-    id: ck6u1044virfy0j71qn4whzep
+    followers: 39479
+    engagement: 1033
+    commentsToLikes: 0.062692
+    id: ck13cncbh17al0i197by19lst
     verified: false
-    hashtags: "#dior, #forevermine"
-  - username: "meltedcoffee"
+    hashtags: ""
+  - username: "allabonya"
     fullname: >-
-      BEAUTYBOSS TANIA
+      Alla B.🕊
     bio: >-
-      Beauty Mentor • personal cosmetics shopper 🛍 📩 freelance Makeup Artist ™️INSPECTOR of quality coffee shops ☕️ 📸Broadcasting creativity in stories
+      вдохновляю и управляю: @clipse.kiev @clipse_lipki @clipse.cosmetics @clipse.beautybox 📲 благотворительный аукцион @save_life_by_alla
     location: "Russia"
-    followers: 16404
-    engagement: 50
-    commentsToLikes: 0.095419
-    id: ck5hjfn3pgjkv0i11ms29yuii
+    followers: 409611
+    engagement: 264
+    commentsToLikes: 0.023144
+    id: ck5c3cvqwz28b0i11835e8dzn
+    verified: true
+    hashtags: "#kerastase, #blondabsolu, #moments, #kerasraseblondabsolu"
+  - username: "tamunatsiklauri"
+    fullname: >-
+      Tamuna Tsiklauri
+    bio: >-
+      Ambassador @sensai_cosmetics_russia 🤍 Founder @__simplify ✉️ Tamuna-t@hotmail.com
+    location: "Russia"
+    followers: 357362
+    engagement: 325
+    commentsToLikes: 0.015612
+    id: ck5c4j5111gqc0i110xq1v23i
     verified: false
-    hashtags: "#dubaimakeupartist, #dubaibeautyvlogger, #makeupaddict, #ilovemakeup"
+    hashtags: "#uniqloplusj, #uniqlo"
   - username: "ekamaksi"
     fullname: >-
       🌟Екатерина Максимова
     bio: >-
       🏆Продюсер года 2019 🏆Бренд года 2020 🌟Agent models Основатель: @cmg.russia 140 ф-лов @cmg_cosmetics Кастинг директор: @alexander_syutkin_production
     location: "Russia"
-    followers: 303861
-    engagement: 38
-    commentsToLikes: 0.055834
+    followers: 223687
+    engagement: 20
+    commentsToLikes: 0.068966
     id: ck6u3zb6j0rex0j714t6osqfi
     verified: false
     hashtags: ""
-  - username: "akula.guzel"
+  - username: "tehila_ushkats"
     fullname: >-
-      Гузелия Хамитовна 💸
+      🧿YᗩSᗩ🧿
     bio: >-
-      🦈Будни леди-акулы в сторис 📚Бизнес-юрист по образованию ✨Эксперт по коже Косметология @bodyface_beauty Бутик @bodyface_cosmetics
+      @yasa_cosmetic 💅🏻/לק ג׳ל ידיים רגליים מניקור\ ראשון לציון .
     location: "Russia"
-    followers: 23489
-    engagement: 865
-    commentsToLikes: 0.040745
-    id: ck6tpdtb8jak80j71zlhex8r8
+    followers: 25145
+    engagement: 188
+    commentsToLikes: 0.054286
+    id: ck6u1044virfy0j71qn4whzep
     verified: false
-    hashtags: ""
-  - username: "ler_chek"
-    fullname: >-
-      Валерия Чекалина
-    bio: >-
-      Я Лерчик Создаю лучшую антицеллюлитную косметику @letique.cosmetics Реклама 89170388755 PR 89262666308 Денежный марафон «Новая жизнь» 👇🏼
-    location: "Russia"
-    followers: 8156951
-    engagement: 802
-    commentsToLikes: 0.027769
-    id: ck13b1hvvt88k0i19n6vycbnq
-    verified: false
-    hashtags: ""
+    hashtags: "#dior, #forevermine"
 ---

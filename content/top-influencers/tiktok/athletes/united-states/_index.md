@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes TikTok Influencers In United States in 2023
+title: Top 10 Athletes TikTok Influencers In United States In 2023
 description: >-
-  Find top athletes TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #viral #foryoupage.
+  Find top athletes TikTok influencers in United States in 2023. Most popular hashtags: #fyp #viral #duet #workout.
 platform: TikTok
-hits: 822
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 822 TikTok influencers like this in United States for you to work with.
+hits: 862
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 862 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "sadikfitness"
+  - username: "sadik_hadzovic"
     fullname: >-
       Sadik Hadzovic
     bio: >-
       Athlete
     location: "United States"
-    followers: 36600
-    engagement: 640
-    commentsToLikes: 0.020144
+    followers: 63300
+    engagement: 742
+    commentsToLikes: 0.018188
     id: ck9kegkrwysvx0j78zzeuzoaf
     verified: false
-    hashtags: "#fitness, #bodybuilding, #sadikhadzovic, #motivation"
-  - username: "nasandino"
-    fullname: >-
-      nasandino
-    bio: >-
-      Athlete
-    location: "United States"
-    followers: 7302
-    engagement: 868
-    commentsToLikes: 0.034122
-    id: ckcejgzats9sp0j23f7uqraaa
-    verified: false
-    hashtags: "#fyp, #foryou, #basketball, #viral"
-  - username: "tee_higgins5"
+    hashtags: "#exercise, #fitness, #bodybuilding, #workout"
+  - username: "teehiggins"
     fullname: >-
       Tee Higgins
     bio: >-
       Athlete
     location: "United States"
-    followers: 60200
-    engagement: 1170
-    commentsToLikes: 0.015078
+    followers: 83000
+    engagement: 1143
+    commentsToLikes: 0.014502
     id: ck94l48tmxpge0j7838if7uw2
     verified: true
-    hashtags: "#foryoupage, #fyp, #foryou, #viral"
+    hashtags: "#foryoupage, #foryou, #viral, #fyp"
   - username: "dylan_lambert"
     fullname: >-
       Dylanlambert
     bio: >-
       Athlete
     location: "United States"
-    followers: 17300
-    engagement: 763
-    commentsToLikes: 0.025142
+    followers: 17100
+    engagement: 758
+    commentsToLikes: 0.026258
     id: ckcpf2fk9gkln0j23kglvznrf
     verified: false
-    hashtags: "#trackandfield, #foryoupage, #running, #fyp"
-  - username: "mouseketeerjonathan"
+    hashtags: "#viral, #trackandfield, #running, #athlete"
+  - username: "aaronandarcher"
     fullname: >-
-      Jonathan
+      Aaron and Archer
     bio: >-
-      The official account of MouseketeerJonathan. Athlete, Zumba Instructor, Teacher
+      A guy and his dog @blackriflecoffee code “Archer” @valorfitness Athletes
     location: "United States"
-    followers: 294800
-    engagement: 1955
-    commentsToLikes: 0.028324
-    id: ckcpttx2lonxr0j23bwxwpowe
+    followers: 505200
+    engagement: 1478
+    commentsToLikes: 0.040380
+    id: ck8qkrbsnihvv0j7869cf62c0
     verified: false
-    hashtags: "#duet, #mouseketeerjonathan, #acting, #fyp"
-  - username: "neeekaa_"
+    hashtags: "#batdog, #lol, #dogsareawesome, #welcomeback"
+  - username: "isaiah.hudgens"
     fullname: >-
-      NEEK MILLY
+      Isaiah H
     bio: >-
-      T&F ATHLETE I make custom wigs [ IG @unitsbyneek ] Personal IG @neeekaa_ 💕
+      20 Child of God Athlete Professionally broke
     location: "United States"
-    followers: 29900
-    engagement: 1629
-    commentsToLikes: 0.075513
-    id: ckbeq6w8c7jgo0j23c3xmg9h7
+    followers: 113600
+    engagement: 2068
+    commentsToLikes: 0.033451
+    id: ck9nfb1yke9ej0j780gol8jdt
     verified: false
-    hashtags: "#motivationmonday, #fyp, #unitsbyneek, #xyzbca"
-  - username: "armon.figs"
-    fullname: >-
-      Randynyc💫
-    bio: >-
-      yung_obj13👻 Athlete 📍 nycthelabel 🗽
-    location: "United States"
-    followers: 2267
-    engagement: 2364
-    commentsToLikes: 0.134219
-    id: ckbw82wpoz1r90j23yost3ai2
-    verified: false
-    hashtags: "#gardenproject, #stemlife, #10secondsvs, #viral"
-  - username: "carli_baldwin"
-    fullname: >-
-      Carli Baldwin
-    bio: >-
-      just a D1 athlete who likes baseball my only flex is the MLB & TB follow me
-    location: "United States"
-    followers: 13300
-    engagement: 1262
-    commentsToLikes: 0.087821
-    id: ckbezscc4l3k60j23f247imh4
-    verified: false
-    hashtags: "#baseballgirls, #division1athlete, #swimmercheck, #collegeathlete"
-  - username: "nutrition.with.derek"
-    fullname: >-
-      Derek L.  MS RD CSSD
-    bio: >-
-      Board Certified Sports Dietitian Follow IG for more^ 🌟Become a better athlete⤵️
-    location: "United States"
-    followers: 64600
-    engagement: 1353
-    commentsToLikes: 0.045843
-    id: ckbf6z6h8wpau0j23521x7e6t
-    verified: false
-    hashtags: "#sports, #running, #nutrition, #athlete"
+    hashtags: "#valentinesday, #duet, #trackandfield, #polevault"
   - username: "oscarlynch25"
     fullname: >-
       oscarlynch™️
     bio: >-
       follower of Christ positive vibes athlete
     location: "United States"
-    followers: 24100
-    engagement: 2150
-    commentsToLikes: 0.024879
+    followers: 23900
+    engagement: 2103
+    commentsToLikes: 0.028063
     id: ckcdym9pggre20j23jhcj1lcg
     verified: false
-    hashtags: "#positivevibes, #sharecopylink, #jesus, #church"
+    hashtags: "#christisking, #love, #positivevibes, #jesus"
+  - username: "realsabroso"
+    fullname: >-
+      realsabroso
+    bio: >-
+      Co📍 Professional Athlete. 🇲🇽 The people’s champ 💪 Face Off episode 1 out 🎧
+    location: "United States"
+    followers: 23200
+    engagement: 1072
+    commentsToLikes: 0.071298
+    id: ckc7rhtmowplf0j23zv2qobie
+    verified: false
+    hashtags: "#fyp, #boxeo, #boxing, #mexico"
+  - username: "armon.figs"
+    fullname: >-
+      Randynyc💫
+    bio: >-
+      🔞 NJ📍 Athlete🏈
+    location: "United States"
+    followers: 2311
+    engagement: 2130
+    commentsToLikes: 0.142829
+    id: ckbw82wpoz1r90j23yost3ai2
+    verified: false
+    hashtags: "#homeimprovement, #fyp, #greenscreensticker, #greenscreen"
+  - username: "kevooo44"
+    fullname: >-
+      Kevin Ray
+    bio: >-
+      18-Nevada-Athlete🤙🏽🇳🇬 amos- kevin9996 cashapp-$ShmooveBabyK44
+    location: "United States"
+    followers: 3426
+    engagement: 1939
+    commentsToLikes: 0.026205
+    id: ckd19t12grlz30j23c62gv6j3
+    verified: false
+    hashtags: "#greenscreen, #greenscreenvideo, #duet, #colorcustomizer"
+  - username: "_deiondavis"
+    fullname: >-
+      _deiondavis
+    bio: >-
+      Christian Athlete🏈😇 WR @ University of Delaware💙💛 God Over Everything🙏🏾
+    location: "United States"
+    followers: 147100
+    engagement: 1733
+    commentsToLikes: 0.036961
+    id: ck9gmezz0rypw0j784te3hgyn
+    verified: false
+    hashtags: "#lawnmower, #sports, #lawnmowing, #landscpaing"
 ---

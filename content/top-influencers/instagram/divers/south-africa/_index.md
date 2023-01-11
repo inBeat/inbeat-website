@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In South Africa in 2023
+title: Top 10 Divers Instagram Influencers In South Africa In 2023
 description: >-
-  Find top divers Instagram influencers in South Africa in 2023. Most popular hashtags: #photography #southafrica #africa.
+  Find top divers Instagram influencers in South Africa in 2023. Most popular hashtags: #style #fashion #photography.
 platform: Instagram
-hits: 13
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 13 Instagram influencers like this in South Africa for you to pitch.
+hits: 14
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 14 Instagram influencers like this in South Africa for you to connect with.
 profiles:
   - username: "mark_fitzy"
     fullname: >-
@@ -13,60 +13,36 @@ profiles:
     bio: >-
       Yes I still make videos ♎ 26 🇿🇦 Cape Town 👨‍🔬 MSc Student - Marine Biology 🐧 Class 4 Commercial Diver 🎤 Presenter and MC
     location: "South Africa"
-    followers: 23548
-    engagement: 590
-    commentsToLikes: 0.035826
+    followers: 22828
+    engagement: 397
+    commentsToLikes: 0.016830
     id: ck0vxg8n2yqq00i19dgqty16n
     verified: false
-    hashtags: "#lockdown, #photoshop, #staywarm, #reels"
-  - username: "jeensnidvongs"
+    hashtags: "#smoooth, #tropika, #ad, #summer"
+  - username: "kudzichikumbu"
     fullname: >-
-      Jeen Snidvongs 🇹🇭
+      Kudzi Chikumbu
     bio: >-
-      Founder: @kaanibrand - Reef Safe Sunscreen Photographer, Tech Diver and Chocolate Chip Cookie Connoisseur
+      Speaker. Diversity Advocate. Creators. Gen-Z Expert Director of Creator Community @tiktok 🇿🇼🇿🇦🇺🇸🏳️‍🌈📍Los Angeles. African. Stanford MBA
     location: "South Africa"
-    followers: 18607
-    engagement: 245
-    commentsToLikes: 0.009331
-    id: ck0tzyuobs1we0i19dxfhnhfh
+    followers: 23122
+    engagement: 224
+    commentsToLikes: 0.085214
+    id: ck8wczcv1d7f70j788bu92ejo
     verified: false
-    hashtags: "#nature, #rajaampat, #indonesia, #nikonphotography"
+    hashtags: "#makeblackhistory, #career, #africadayfestival, #ownyourstory"
   - username: "afrostylemagz"
     fullname: >-
       AfroStyleMagz
     bio: >-
       African MultiCultural/Racial Fash Mag. Explores Diverse Complexities/Unique Styles of the Diaspora PROMOS/SUBS/ADS - INFO@AFROSTYLEMAG.COM
     location: "South Africa"
-    followers: 112596
-    engagement: 85
-    commentsToLikes: 0.012019
+    followers: 130530
+    engagement: 92
+    commentsToLikes: 0.009418
     id: ck15spqgue7ev0i19anr0ma2h
     verified: false
     hashtags: ""
-  - username: "moyoafrika"
-    fullname: >-
-      MoyoAfrika
-    bio: >-
-      “For Us, By Us” Showcasing African royalty,Culture, black excellence and lifestyle through our lense. Commited to Diversity & inclusion #MoyoAfrika
-    location: "South Africa"
-    followers: 27736
-    engagement: 262
-    commentsToLikes: 0.036701
-    id: ck5cl1souy2st0i11cbko2uhs
-    verified: false
-    hashtags: "#browngirlbloggers, #blackculture, #blackgirlstraveltoo, #africanwedding"
-  - username: "nkjewellery_"
-    fullname: >-
-      N A W A R  K A M A L
-    bio: >-
-      Sudanese jewellery line Handmade pieces inspired by the diversity of the African culture || Telephone: +249 960130345 #handmadejewellery
-    location: "South Africa"
-    followers: 25997
-    engagement: 149
-    commentsToLikes: 0.020323
-    id: ck13cqxhp1q9a0i19nx03jidj
-    verified: false
-    hashtags: "#photography, #beads, #nkjewellery, #handmade"
   - username: "mornehardenberg"
     fullname: >-
       SHARK EXPLORERS/AE FILMS
@@ -78,53 +54,77 @@ profiles:
     commentsToLikes: 0.014416
     id: ck55mg8c53w7u0i11ycvn5b6d
     verified: true
-    hashtags: "#lockdown, #bahamas"
-  - username: "justamamma"
+    hashtags: "#bahamas, #lockdown"
+  - username: "africanprintsinfashion"
     fullname: >-
-      Mari-Louise Candiotes
+      African Prints in Fashion
     bio: >-
-      Mom of 👧🏻👧🏻👧🏻 Wife to my Mr.Perfect Proudly🇿🇦 Learning to be #mindful Spreading joy like confetti and creating a life, well-lived🌻 More on our blog👇🏻
+      ✨ Modern African Fashion, Design & Art ✨ BLOG #apif 🛍 SHOP @africaboutik ✨ Creator #AfricanCityBag ✨ Advertise your Brand ✨ Read my blog here👇🏾
     location: "South Africa"
-    followers: 15286
-    engagement: 386
-    commentsToLikes: 0.163469
-    id: ckaoqsv71k8300i786etsopwd
+    followers: 167792
+    engagement: 105
+    commentsToLikes: 0.009618
+    id: ck15sq4y5e9hv0i19vcp1hw59
     verified: false
-    hashtags: "#madeinsouthafrica, #justamamma, #motherhoodthroughinstagram, #motherofdaughters"
+    hashtags: "#apifrocks, #printmix, #melanin, #africaboutik"
+  - username: "azitagram"
+    fullname: >-
+      Azita Ghanizada 🧿
+    bio: >-
+      Actress & Founder @menaadvocacy. I act & fight for fair & balanced portrayals of Middle Eastern North African #MENA & #South Asian performers 🇦🇫🇺🇸
+    location: "South Africa"
+    followers: 16377
+    engagement: 406
+    commentsToLikes: 0.112868
+    id: ck14jx0w0mm990i19wpp640vl
+    verified: true
+    hashtags: "#hollywood, #mena, #representationmatters, #afghanistan"
+  - username: "arietawho"
+    fullname: >-
+      Arieta etta etta
+    bio: >-
+      O.G.
+    location: "South Africa"
+    followers: 6384
+    engagement: 601
+    commentsToLikes: 0.225366
+    id: ck6txgttnxr9k0j7192keuywt
+    verified: false
+    hashtags: "#noirphotography, #documentary, #instalike, #instamood"
   - username: "ottowhitehead"
     fullname: >-
       Otto Whitehead
     bio: >-
       Ecologist | Storyteller | Cape Town 🇿🇦 Co-founder @fishwaterfilms Explorer @insidenatgeo Post-doc @mandelauniversity @sanbi_za
     location: "South Africa"
-    followers: 24479
-    engagement: 238
-    commentsToLikes: 0.025402
+    followers: 25271
+    engagement: 242
+    commentsToLikes: 0.023988
     id: ck137hjuibksp0i19qda1nbdt
     verified: false
-    hashtags: "#yanomaybehey, #savingsandfish, #worldalbatrossday, #worldoceansday"
-  - username: "wes_yachting"
+    hashtags: "#diversitymatters, #yanomaybehey, #savingsandfish, #worldalbatrossday"
+  - username: "lorraineloots"
     fullname: >-
-      𝙒𝙚𝙨_ 𝙔𝙖𝙘𝙝𝙩𝙞𝙣𝙜
+      lorraine loots | miniature art
     bio: >-
-      Chief Officer 3000🚢 Ocean Warrior . Proudly 🇿🇦 . 81 Countries Visited . PADI Freediver . Amazon Influencer store 👇 in link
+      miniaturist ✎ cape town ☼ south africa © 2012 - 2020 e-mail only please. ✉︎ admin@lorraineloots.com
     location: "South Africa"
-    followers: 49808
-    engagement: 119
-    commentsToLikes: 0.027213
-    id: ckf5rs59kdqa50j23jrpv5wg3
-    verified: false
-    hashtags: "#2020, #padi, #crewlife, #svalbard"
-  - username: "lebohangmasango"
+    followers: 283543
+    engagement: 160
+    commentsToLikes: 0.011886
+    id: ck5hfwr6azqmu0i112d6pao5s
+    verified: true
+    hashtags: "#paintingsforants, #novartis, #birdsforsofia, #1000loverseyes"
+  - username: "conversationswithartemis"
     fullname: >-
-      Lebohang Masango
+      Ashleigh
     bio: >-
-      Award-winning children's book: #MpumisMagicBeads| Anthropologist| @unicef_southafrica advocate 🇺🇳| Narrator: @kayafm95dot9 #WWWGroovin| Poet| Writer
+      •Literary Conversations •Journaling 📍Cape Town, South Africa 📚 The Fifth Season by NK Jemisin ✈️ @thetraveldome
     location: "South Africa"
-    followers: 10859
-    engagement: 578
-    commentsToLikes: 0.040894
-    id: ck5hkod4oishs0i11nhb7imds
+    followers: 33074
+    engagement: 456
+    commentsToLikes: 0.014173
+    id: ck8t5rdcaaz1g0j784ro7henw
     verified: false
-    hashtags: "#bookstagram, #southafrica, #mpumismagicbeads, #childrensbooks"
+    hashtags: "#beautifulbooks, #vscoreads, #bookish, #readingcommunity"
 ---

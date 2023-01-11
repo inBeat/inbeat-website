@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Italy in 2023
+title: Top 10 Hypebeast TikTok Influencers In Italy In 2023
 description: >-
-  Find top hypebeast TikTok influencers in Italy in 2023. Most popular hashtags: #perte #hypebeast #foryou #hype.
+  Find top hypebeast TikTok influencers in Italy in 2023. Most popular hashtags: #hypebeast #perte #neiperte #fyp.
 platform: TikTok
-hits: 14
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 14 TikTok influencers like this in Italy for you to pitch.
+hits: 12
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 12 TikTok influencers like this in Italy for you to pitch.
 profiles:
-  - username: "pizzaini"
-    fullname: >-
-      Pizzazini
-    bio: >-
-      🥰 Tiktok 200k followers?🥰 🔥🌵
-    location: "Italy"
-    followers: 197600
-    engagement: 1579
-    commentsToLikes: 0.190048
-    id: ck97ym51h04020j78bkl13n08
-    verified: false
-    hashtags: "#hypebeast, #duetto, #fyp, #perte"
-  - username: "angiewtf_"
-    fullname: >-
-      Angela Proto
-    bio: >-
-      Road to 170k 🥺🥺🥺 Ceo delle notizie sulle Jordan photographer
-    location: "Italy"
-    followers: 166700
-    engagement: 1737
-    commentsToLikes: 0.011524
-    id: ck8vv7kqgl09j0j78d34vjwcn
-    verified: false
-    hashtags: "#viral, #jordan, #perte, #hypebeast"
-  - username: "lucacino"
+  - username: "lucacinostreetwear"
     fullname: >-
       lucacino
     bio: >-
       Follow me on Instagram and Youtube🇮🇹↖️ 📬 Business: lucacino.info@gmail.com
     location: "Italy"
-    followers: 39400
-    engagement: 1282
-    commentsToLikes: 0.021979
+    followers: 47000
+    engagement: 1462
+    commentsToLikes: 0.019596
     id: ck8vv7nfjl0gs0j78pea06vx8
     verified: false
-    hashtags: "#foryou, #sneakers, #greenscreen, #neiperte"
+    hashtags: "#foryou, #fyp, #viral, #sneaker"
   - username: "il_cavazz"
     fullname: >-
       il_cavazz
     bio: >-
       NO 🧢
     location: "Italy"
-    followers: 21600
-    engagement: 1288
-    commentsToLikes: 0.017415
+    followers: 21200
+    engagement: 1323
+    commentsToLikes: 0.017022
     id: ck8vv7jxpl03t0j78d970a5e0
     verified: false
-    hashtags: "#4u, #fy, #hypebeast, #nonneiperte"
+    hashtags: "#gay, #hypebeast, #cringe, #fy"
+  - username: "nssmagazine"
+    fullname: >-
+      nss magazine
+    bio: >-
+      Streetwear, lifestyle, fashion, musica
+    location: "Italy"
+    followers: 44600
+    engagement: 1061
+    commentsToLikes: 0.010682
+    id: ck9eq9cwyw7e50j78px66yb8y
+    verified: true
+    hashtags: "#fyp, #streetwear, #fashion, #sneakers"
   - username: "alessiogiffi"
     fullname: >-
       Alessio Giffi
     bio: >-
       👟SEGUIMI SU INSTAGRAM⤴️ “artist” Il mio brand@alessiogifficollection® 👕SHOP⬇️
     location: "Italy"
-    followers: 9001
-    engagement: 909
-    commentsToLikes: 0.014734
+    followers: 9059
+    engagement: 1022
+    commentsToLikes: 0.022791
     id: ck8vv7kavl06b0j78lv7aetwf
     verified: false
-    hashtags: "#coronavirus, #neiperte, #sneakers, #hypebeast"
-  - username: "angelo.sabato"
+    hashtags: "#nikedunk, #hypebeast, #offwhite, #perte"
+  - username: "lorenzobelluccii"
     fullname: >-
-      STREETWEAR BY ASAB🔌
+      Lorenzo Bellucci
     bio: >-
-      video ogni giorno 🦋 Streetwear and Sneakers 👟 Se volete chiedermi qualcosa ⬇️
+      Road to 40k❤️😋 Torino, Italy 🤪🌍 Seguitemi tutti su Instagram 😍
     location: "Italy"
-    followers: 55600
-    engagement: 1265
-    commentsToLikes: 0.017228
-    id: ckb9rpg63oeg80j23me1fdbpn
+    followers: 32800
+    engagement: 1591
+    commentsToLikes: 0.386868
+    id: ckbbl9cxc9hxk0j23x0qq978y
     verified: false
-    hashtags: "#fashion, #jordan1, #hype, #streetwear"
-  - username: "stefanocappp"
+    hashtags: "#love, #perte, #neiperte, #followme"
+  - username: "francescopion3d"
     fullname: >-
-      Stefanoco
+      pion
     bio: >-
-      Naples🏳️‍🌈 Stefano Coppola Su insta penso di essere una persona più seria🤓
+      Graphic designer ..with a new passion for 3D printing 🇮🇹
     location: "Italy"
-    followers: 27600
-    engagement: 1230
-    commentsToLikes: 0.032005
-    id: ckbbpy8fmdqju0j2314ivpdnn
+    followers: 61200
+    engagement: 1920
+    commentsToLikes: 0.011370
+    id: ckb92tp11j9hu0j23qdr342f3
     verified: false
-    hashtags: "#gay, #foryou, #perte, #lgbt"
-  - username: "9ovaprince"
+    hashtags: "#wolverine, #stampa3d, #blackpanther, #ironman"
+  - username: "simonespinaa"
     fullname: >-
-      9ova
+      Simone Spina
     bio: >-
-      Artista 💙👑 SEGUIMI SU INSTA :9ovaprince MALASORTE FUORI OVUNQUE LINK QUI SOTTO
+      ➡️vieni anche su Instagram: @simonespinaa⬅️ 📍Trento, Italy 🇮🇹
     location: "Italy"
-    followers: 28600
-    engagement: 1714
-    commentsToLikes: 0.011186
-    id: ck9vdmtezvj150j78abe9v995
+    followers: 66000
+    engagement: 1125
+    commentsToLikes: 0.235527
+    id: ckbesv7wgboin0j23r9hojiif
     verified: false
-    hashtags: "#foryou, #trend, #9ova, #perte"
+    hashtags: "#foryou, #viral, #challenge, #real"
+  - username: "fortuthegamer"
+    fullname: >-
+      lucas
+    bio: >-
+      🔥 Youtuber & Gamer🔥 ⬇️ Guarda l'ultimo video ⬇️
+    location: "Italy"
+    followers: 153200
+    engagement: 1719
+    commentsToLikes: 0.011199
+    id: ck8w4vfwx96yu0j78n75g7wdd
+    verified: false
+    hashtags: "#amici, #scuola, #minecraftita, #fortnitefunnymoments"
   - username: "vinc_venditto"
     fullname: >-
       Vincenzo Venditto
     bio: >-
-      Italian self-taught artist✍🏼 17 y/o😜
+      Italian self-taught artist✍🏼 18 y/o😜
     location: "Italy"
     followers: 13600
-    engagement: 950
-    commentsToLikes: 0.012425
+    engagement: 944
+    commentsToLikes: 0.011305
     id: cka6dsnbr92so0i787dmt1skh
     verified: false
-    hashtags: "#anime, #ritratto, #trap, #rap"
-  - username: "keira_de_luca"
+    hashtags: "#lacasadicarta, #ursulacorbero, #manga, #rapitaliano"
+  - username: "giulee010"
     fullname: >-
-      kdl
+      GIULEE
     bio: >-
-      🇮🇹 🇫🇷 Always Spread Love ✨
+      POSARE , VESTIRE E CONSIGLI PER FUTURI UOMINI‼️ BENVENUTO NEL MIO PROFILO😁
     location: "Italy"
-    followers: 29800
-    engagement: 1119
-    commentsToLikes: 0.015233
-    id: cka0g5bfw2uia0i78aucbrno3
+    followers: 171300
+    engagement: 867
+    commentsToLikes: 0.009509
+    id: ckbkyficsuq5a0j237byqb7bt
     verified: false
-    hashtags: "#teamsimpatia, #nofriends, #napoli, #clothingbrand"
+    hashtags: "#lifehacks, #modauomo, #poseforinsta, #poses"
 ---

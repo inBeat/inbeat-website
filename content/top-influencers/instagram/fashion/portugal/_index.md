@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Portugal in 2023
+title: Top 10 Fashion Instagram Influencers In Portugal In 2023
 description: >-
-  Find top fashion Instagram influencers in Portugal in 2023. Most popular hashtags: #ootd #pub #outfit.
+  Find top fashion Instagram influencers in Portugal in 2023. Most popular hashtags: #outfitoftheday #ootd #fashion.
 platform: Instagram
-hits: 280
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 280 Instagram influencers like this in Portugal for you to contact.
+hits: 121
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 121 Instagram influencers like this in Portugal for you to work with.
 profiles:
-  - username: "hillarymedeiross"
+  - username: "daphnemoreau"
     fullname: >-
-      𝐇𝐢𝐥𝐥𝐚𝐫𝐲 𝐌𝐞𝐝𝐞𝐢𝐫𝐨𝐬 | fashion
+      Daphné Moreau (Mode&TheCity)
     bio: >-
-      fashion content ASSISTA OS REELS 🖤 Cearense em Portugal - Aveiro📍 Aquariana com ascendente em blogueira ✨ hillarymedeiros7@gmail.com 📩
+      ✨ Sharing everyday things that make me happy : wellness, conscious fashion, #cleanbeauty & home decor 🔑 @daphnesdreamhome 💌 daphne@modeandthecity.net
     location: "Portugal"
-    followers: 11974
-    engagement: 995
-    commentsToLikes: 0.116634
-    id: ck9wdogh0givp0j78prjctzeb
-    verified: false
-    hashtags: "#10k, #ruivas, #1peca3looks, #stylegirlbrasil"
-  - username: "constanca_moura"
-    fullname: >-
-      Constança Gomes Moura
-    bio: >-
-      📍Lisboa, Portugal ➳ Fashion & Lifestyle 🎓 IMRT student, ESSCVP 💌 for collabs
-    location: "Portugal"
-    followers: 6760
-    engagement: 2313
-    commentsToLikes: 0.229474
-    id: ck0ud62vficdz0i19zz0851bk
-    verified: false
-    hashtags: ""
-  - username: "miss_tet"
-    fullname: >-
-      Teresa Lemos
-    bio: >-
-      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
-    location: "Portugal"
-    followers: 27624
-    engagement: 2192
-    commentsToLikes: 0.114470
-    id: ck55oexap88090i11kxq4k55q
-    verified: false
-    hashtags: "#sunnyday, #summer, #smile, #alegria"
-  - username: "brunolexim"
-    fullname: >-
-      BRUNO LEXIM
-    bio: >-
-      • Menswear | Fashion Creator | Lifestyle • Lisbon, Portugal 🇵🇹 • Contact: E-mail 📩 www.trendhim.com 15% discount! trnd.hm/trendhim.brunolexim
-    location: "Portugal"
-    followers: 5702
-    engagement: 1486
-    commentsToLikes: 0.175327
-    id: ck8t4nlcl7fh60j78xtp7cxlv
-    verified: false
-    hashtags: "#mensfashionstyle, #bestofmenstyle, #waymenfashion, #classydapper"
-  - username: "sara_nata"
-    fullname: >-
-      Sara Nata | Fashion•Lifestyle
-    bio: >-
-      📍Porto • Portugal Stylist • Image Consultant • Fashion Adviser 📥 DM
-    location: "Portugal"
-    followers: 6097
-    engagement: 1375
-    commentsToLikes: 0.110565
-    id: ck8t4c6ru68o50j784zjtiz1f
-    verified: false
-    hashtags: "#today, #fashionstyle, #fashionblogger, #manfashionpost"
-  - username: "melyssapiinto"
-    fullname: >-
-      Melyssa Pinto
-    bio: >-
-      📍Costa Brava 💭Fashion Designer 💌 melyssapinto@tvtalentagency.com 📲 Tatiana: 649950297
-    location: "Portugal"
-    followers: 1063557
-    engagement: 1120
-    commentsToLikes: 0.058350
-    id: ck55kbmgiyxoa0i11mdze2k1z
-    verified: false
-    hashtags: "#apmfuncrazylove, #sheinblackfriday, #onemillionsheinbucks, #energydrink"
+    followers: 188900
+    engagement: 242
+    commentsToLikes: 1.439422
+    id: ck0tu50yq5o140i19dtvus4cs
+    verified: true
+    hashtags: "#preppyfashion, #parisianstyle, #gossipgirl, #homerenovation"
   - username: "tomigueis"
     fullname: >-
       Tó Miguéis
     bio: >-
       Men’s Fashion / Outfit ideas for men 📍Portugal 👷🏻‍♂️Civil Engineer
     location: "Portugal"
-    followers: 34077
-    engagement: 1011
-    commentsToLikes: 0.077252
+    followers: 32352
+    engagement: 1063
+    commentsToLikes: 0.074352
     id: ck8t37f9m26kw0j78oxgeschf
     verified: false
     hashtags: ""
-  - username: "catarina.fernandees"
+  - username: "mhelena__"
     fullname: >-
-      Catarina Fernandes
+      Maria Helena C.
     bio: >-
-      • Content Creator • Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • PROZIS: CATARINAFERNANDES ; BOLT: CATE PRESETS ⤵️
+      Angolan AO | PT | UK | ES BA (Hons) in Fashion Management with Marketing
     location: "Portugal"
-    followers: 89978
-    engagement: 616
-    commentsToLikes: 0.132250
-    id: ck1374d9y9pu80i19hpf69j8k
+    followers: 8772
+    engagement: 2020
+    commentsToLikes: 0.057956
+    id: ckap554i9a8lc0i784dnd17xz
     verified: false
-    hashtags: "#bloggerstyle, #ootd, #fashion, #lookdacate"
-  - username: "barbara.marques"
+    hashtags: "#spring"
+  - username: "sara_nata"
     fullname: >-
-      Bárbara Marques
+      Sara Nata | Fashion•Lifestyle
     bio: >-
-      Jurist. Fashion & lifestyle content creator. 📍Porto, Portugal 💌 barbara@mykindofjoy.com
+      📍Porto • Portugal Stylist • Image Consultant • Fashion Adviser 📥 DM
     location: "Portugal"
-    followers: 61617
-    engagement: 609
-    commentsToLikes: 0.217552
-    id: ck5pzd0tc0dfn0i113djdxzjd
+    followers: 7595
+    engagement: 736
+    commentsToLikes: 0.125359
+    id: ck8t4c6ru68o50j784zjtiz1f
     verified: false
-    hashtags: "#madeinportugal, #ootd, #pub, #mariafrederica"
-  - username: "martacyrnecarvalho"
+    hashtags: "#fashionista, #sunglasses, #instagood, #styleinspiraton"
+  - username: "joanacbcosta"
     fullname: >-
-      Marta Cyrne Carvalho
+      Joana Costa
     bio: >-
-      Family . Beauty . Fashion . Lifestyle Beauty Consultant Mother of Carminho 👧🏼 and Margarida 👶🏼 Porto, Portugal 🌈
+      lifestyle, fashion and travel 16/10📍 Porto ➝ if you stand for nothing you'll fall for anything 🐘 ➝ collabs via e-mail or dm LAST VIDEO HERE 👇🏽❤️
     location: "Portugal"
-    followers: 44868
-    engagement: 549
-    commentsToLikes: 0.145752
-    id: ck6u4knjk49al0j7148a8d9r3
+    followers: 61870
+    engagement: 353
+    commentsToLikes: 0.539473
+    id: ckap6c2m9f9gv0i786k2ulw9p
     verified: false
-    hashtags: "#pub, #cottonbrothers, #halloween, #todostemossuperpoderes"
+    hashtags: "#falloutfit, #fashion, #outono, #casuallook"
+  - username: "marianacardia"
+    fullname: >-
+      Mαяιαηα 🌹
+    bio: >-
+      📍Lisbon 🇵🇹 👩🏼‍🎓:ciências da comunicação 💖: Beauty - Fashion - Travel 💓 📩: prettyinpinkgeral@gmail.com 🖥: www.prettyinpink.pt⠀ ⠀⠀⠀🛍⠀@dailypinkootd
+    location: "Portugal"
+    followers: 16563
+    engagement: 540
+    commentsToLikes: 0.089691
+    id: ck8t6uh2eeqch0j78kg2sj6w0
+    verified: false
+    hashtags: "#dresslily, #dresses, #dresslilyfashion, #newdresses"
+  - username: "melyssapiinto"
+    fullname: >-
+      Melyssa Pinto
+    bio: >-
+      📍Costa Brava ☁️ Fashion Designer 📩 melyssapinto@inmanagement.agency @inmanagement
+    location: "Portugal"
+    followers: 1238689
+    engagement: 704
+    commentsToLikes: 0.030340
+    id: ck55kbmgiyxoa0i11mdze2k1z
+    verified: false
+    hashtags: "#svgala15, #tierradenadie, #teamrimmelscandaleyes"
+  - username: "ajoanamaiaa"
+    fullname: >-
+      TRAVEL✨| FASHION✨|LIFESTYLE ✨
+    bio: >-
+      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost ✨Joana - 18% @soulmia_store Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
+    location: "Portugal"
+    followers: 9479
+    engagement: 659
+    commentsToLikes: 0.128359
+    id: ck14hflt0a2vq0i19iwbux8so
+    verified: false
+    hashtags: "#poolview, #outfitinspo, #traveltheworld, #visitportugal"
+  - username: "pedromartins_insta"
+    fullname: >-
+      MENS FASHION STYLE
+    bio: >-
+      Follow for Styling Tips Fashion 🌍 - Citizen of the world 📍 - Lisbon based ✉️ - Collaborations
+    location: "Portugal"
+    followers: 74193
+    engagement: 260
+    commentsToLikes: 0.179368
+    id: ck9hb1jjnezmj0j78ofy1vzmi
+    verified: false
+    hashtags: ""
+  - username: "adanielarocha"
+    fullname: >-
+      DANIELA ROCHA
+    bio: >-
+      Sharing everything that I love ❤️ Content creator | Fashion | Lifestyle Blogger & @inspo.bydani
+    location: "Portugal"
+    followers: 13173
+    engagement: 689
+    commentsToLikes: 0.088238
+    id: ck8t22ia5xz9r0j78de0j2f4u
+    verified: false
+    hashtags: "#summer, #cooloutfits, #outfitinspiration, #lookstyle"
 ---

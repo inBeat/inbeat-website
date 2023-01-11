@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Colombia in 2023
+title: Top 10 Cinema Instagram Influencers In Colombia In 2023
 description: >-
-  Find top cinema Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #cine #photography.
+  Find top cinema Instagram influencers in Colombia in 2023. Most popular hashtags: #cinema #art #film #cine.
 platform: Instagram
-hits: 31
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 31 Instagram influencers like this in Colombia for you to contact.
+hits: 29
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 29 Instagram influencers like this in Colombia for you to contact.
 profiles:
   - username: "clara_segura_actriu"
     fullname: >-
       Clara Segura
     bio: >-
-      Actriu de cinema, teatre i televisió. #Cobertura a partir del 30/01 al @teatreromea 👇
+      Actriu de cinema, teatre i televisió. #CoberturaComedia a partir del 09/02 al @teatre_condal 👇
     location: "Colombia"
-    followers: 11112
-    engagement: 1236
-    commentsToLikes: 0.029683
+    followers: 12115
+    engagement: 1190
+    commentsToLikes: 0.026930
     id: ck6tp1hmahb230j71uh0rslbi
     verified: false
-    hashtags: "#coberturacomedia, #yomecorono, #santjustfever, #cobertura"
+    hashtags: "#laculturaessegura, #coberturacomedia, #cobertura, #perecasald"
+  - username: "by_andresaraujo"
+    fullname: >-
+      Andres Araujo | Filmmaker
+    bio: >-
+      ✈️ Travel Content Creator 🎬Filmmaker / FPV Pilot 🇨🇴 Colombia 🎥 Commercial work @andresaraujo.films 🔴 CINEMATIC FPV 🎡 ⏬
+    location: "Colombia"
+    followers: 7708
+    engagement: 616
+    commentsToLikes: 0.068751
+    id: ck15t7p51gqh10i19snmny1h8
+    verified: false
+    hashtags: "#cinematicfpv, #reelsteady, #visitcolombia, #fpvaddiction"
+  - username: "cinematicmultiversemcm"
+    fullname: >-
+      Cinematic Multiverse 🔴
+    bio: >-
+      🎁 Admin: @paoloyugi93 🎟️ El lugar donde verás contenido geek, héroes y freak. Marvel, DC, TODO. 💥 🎥 Contacto: paoloyugi93@gmail.com
+    location: "Colombia"
+    followers: 38020
+    engagement: 568
+    commentsToLikes: 0.012360
+    id: ck0w5s5zh56cg0i19yrpfzchn
+    verified: false
+    hashtags: "#wandavision, #marvel, #disneyplus, #wandamaximoff"
   - username: "brayanyalejandro"
     fullname: >-
-      Alejandro Sánchez (Lejo)
+      Lejo
     bio: >-
       Artist / Film / Creative Direction / Designer #HistoriasSalvajes • #BrayanyAlejandro
     location: "Colombia"
-    followers: 2847
-    engagement: 1025
-    commentsToLikes: 0.037727
+    followers: 3023
+    engagement: 991
+    commentsToLikes: 0.037080
     id: ck13aawduphq20i1943st8aht
     verified: false
-    hashtags: "#inspo, #brayanyalejandro, #art, #film"
+    hashtags: "#journal, #nature, #film, #life"
   - username: "elclubcinema"
     fullname: >-
       Club Cinema
     bio: >-
-      ¡Bienvenidos al Club! 🎬 Cine y más cine ♦️YT: Películas de TERROR BASADAS en HECHOS REALES 😱
+      ¡Bienvenidos al Club! 🎬 Cine y más cine... 🛡️Cuenta de respaldo: @elclubcinema2 🖱️Web.
     location: "Colombia"
-    followers: 75506
-    engagement: 216
-    commentsToLikes: 0.014005
+    followers: 88411
+    engagement: 294
+    commentsToLikes: 0.009109
     id: ckaowjk6x97gt0i78nd36t6kh
     verified: false
-    hashtags: "#clubcinema, #peliculas, #terror, #cinefilos"
-  - username: "gomezart3d"
+    hashtags: "#serie, #cine, #actores, #goldenglobes"
+  - username: "unjackalope"
     fullname: >-
-      ALEX GOMEZ 3D ARTIST
+      Jackalope
     bio: >-
-      Welcome to my mind's world my creatures are made of caffeine 100% pure Colombian It's all about the journey!!!
+      🎥
     location: "Colombia"
-    followers: 5567
-    engagement: 1000
-    commentsToLikes: 0.021900
-    id: ck9hcxlmbndu30j78z5pm466o
+    followers: 6930
+    engagement: 448
+    commentsToLikes: 0.046339
+    id: ckaorovfmo6680i78hwctzpw6
     verified: false
-    hashtags: "#maya, #zbrushtuts, #zbrush2020, #awesome"
-  - username: "la.negra.93"
+    hashtags: "#cine, #cinema, #cinematography, #nanpabasico"
+  - username: "wilches_photo"
     fullname: >-
-      Angela Cano
+      Sebastián.
     bio: >-
-      Actriz 🌙 Manager @mclmanager
+      Bogota 🇨🇴 Soy otro puente de un recuerdo.
     location: "Colombia"
-    followers: 19128
-    engagement: 724
-    commentsToLikes: 0.032802
-    id: ck0w39koes9p70i197ny61rkv
+    followers: 6496
+    engagement: 682
+    commentsToLikes: 0.021120
+    id: ck14lqa5wvy6z0i19bvyy6gef
     verified: false
-    hashtags: "#angelicaliddell, #medellin, #cine, #loveislove"
-  - username: "tavodirector"
-    fullname: >-
-      Gustavo Gallego
-    bio: >-
-      🎬💡 Director Audiovisual
-    location: "Colombia"
-    followers: 23616
-    engagement: 129
-    commentsToLikes: 0.188837
-    id: ck6uapcjj4vb70j71qdnqvl5j
-    verified: false
-    hashtags: "#videoclip, #aputure, #medellin, #photography"
-  - username: "mondodilaura"
-    fullname: >-
-      Laura Torres
-    bio: >-
-      Lucia, chamaca, mocosa unos años más grande! Actriz y fotógrafa🎬🎥 puntofocal.net Entra a mi canal de youtube!
-    location: "Colombia"
-    followers: 112823
-    engagement: 370
-    commentsToLikes: 0.011965
-    id: ck6txvfye02z60j71w5yrffxh
-    verified: false
-    hashtags: "#nycphotography, #photography, #blueangles, #selfportrait"
-  - username: "luis7lunes"
-    fullname: >-
-      Luis7Lunes
-    bio: >-
-      Pre-Save del próximo Single MAAT Bless 👇🏼👇🏼👇🏼
-    location: "Colombia"
-    followers: 13466
-    engagement: 771
-    commentsToLikes: 0.011163
-    id: ck6tremwyyjgd0j71l0tt38w0
-    verified: false
-    hashtags: "#viernes20denoviembre, #cinemamarginal, #hiphopenlacasa2, #soberano"
+    hashtags: "#bogota, #colombia, #girlportrait, #fotografoslatinoss"
   - username: "dani.labelle"
     fullname: >-
       𝕷𝖆𝖇𝖊𝖑𝖑𝖊.
     bio: >-
-      𝓦𝓱𝓲𝓽𝓮 𝓵𝓲𝓰𝓱𝓽 𝓯𝓻𝓸𝓶 𝓪𝓷𝓸𝓽𝓱𝓮𝓻 𝓰𝓪𝓵𝓪𝔁𝔂 ✨ 𝚃𝚁𝙰𝙽𝚂𝙼𝚄𝚃𝙰𝙽𝙳𝙾 𝙼𝚒𝚜𝚜𝚒𝚘𝚗: 𝚏𝚛𝚎𝚎𝚍𝚘𝚖, 𝚙𝚕𝚊𝚗𝚎𝚝 𝚎𝚊𝚛𝚝𝚑.🌎
+      Time/space traveller 🌗 𝓟𝓮𝓻𝓯𝓸𝓻𝓶𝓲𝓷𝓰 𝓪𝓷𝓭 𝓼𝓾𝓻𝓻𝓮𝓪𝓵 𝓪𝓻𝓽𝓲𝓼𝓽.
     location: "Colombia"
-    followers: 12335
-    engagement: 549
-    commentsToLikes: 0.047535
+    followers: 12001
+    engagement: 460
+    commentsToLikes: 0.057738
     id: ck5c5ieb13iyz0i11g7jc49ac
     verified: false
-    hashtags: "#cityportrait, #labelleinspira, #tattoos, #photocinematic"
-  - username: "oyejhonky"
+    hashtags: "#latina, #lingerie, #ectzine, #tattoos"
+  - username: "jesusbarrios12"
     fullname: >-
-      Jhon Narváez
+      Jesús Barrios
     bio: >-
-      Agitador cultural. Creador de @capitancartagenaerestu Productor de @tornadocartagena Moisés en @pajarosdeverano
+      🌎 Creado a propósito y con propósito ✨🌱 #runner #modelo #actor #humano 5🔓 21🔓 42🔓 🏃 IRONMAN 70.3 🔐 🇨🇴 @savantsmodel
     location: "Colombia"
-    followers: 3116
-    engagement: 635
-    commentsToLikes: 0.067900
-    id: ck5c2745bwo640i11tsg1w0g7
+    followers: 12250
+    engagement: 403
+    commentsToLikes: 0.027695
+    id: ck5zvrfhz4sbg0i14zg3iflq8
     verified: false
-    hashtags: "#cuarentenaeterna, #relatosregionales, #independencia, #actorportrait"
+    hashtags: "#favplace, #fotografia, #thecreativers, #launchdsigns"
+  - username: "ramsesphotographer"
+    fullname: >-
+      Ramses Larrotta️️️🔹
+    bio: >-
+      Escribo y Re Escribo el Mundo con Luces y Sombras. Photographer-Film Maker 🎥 Unit Still Photographer📷 Netflix ,Caracol Tv y Series Tv ,la Voz kids ✌🏻
+    location: "Colombia"
+    followers: 12417
+    engagement: 195
+    commentsToLikes: 0.021055
+    id: ck5bwqs3em87o0i11oiz4f7of
+    verified: false
+    hashtags: "#family, #smile, #fitness, #beach"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In France in 2023
+title: Top 10 Yoga Instagram Influencers In France In 2023
 description: >-
-  Find top yoga Instagram influencers in France in 2023. Most popular hashtags: #yoga #yogapractice #yogainspiration #yogapose.
+  Find top yoga Instagram influencers in France in 2023. Most popular hashtags: #love #yoga #happy.
 platform: Instagram
-hits: 382
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 382 Instagram influencers like this in France for you to collaborate.
+hits: 356
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 356 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "calimoralesofficiel"
-    fullname: >-
-      Cali Morales
-    bio: >-
-      ☀️ Journaliste Météo @m6officiel @w9lachaine @6ter 👨‍👩‍👧‍👧 Maman de deux beautés 💕 🧘🏽‍♀️ Yoga Lover - Sport Addict 🏃🏽‍♀️ 💃🏽 Épicurienne
-    location: "France"
-    followers: 13468
-    engagement: 1212
-    commentsToLikes: 0.055845
-    id: ck0u1ha1pwvl70i190lyon6uc
-    verified: false
-    hashtags: "#m6, #presentatrice, #lovemyjob, #weekend"
   - username: "kinzingertonya"
     fullname: >-
       Tonya KINZINGER
     bio: >-
       🎬 Actrice Franco-Américaine 🧘‍♀️ Diplômée de Yoga 💃 Passionnée de danse 📩tonyakinzinger.pro@yahoo.com
     location: "France"
-    followers: 47514
-    engagement: 443
-    commentsToLikes: 0.061106
+    followers: 50395
+    engagement: 449
+    commentsToLikes: 0.060180
     id: ck5c7o0l47vuq0i11l539xjdv
     verified: true
-    hashtags: "#tv, #france2, #fun, #summer"
-  - username: "syn_m0"
-    fullname: >-
-      SyN_m0   || YOGA ||
-    bio: >-
-      🇫🇷French 📍Toulouse 🙏Yoga 🎓 Coach sportif
-    location: "France"
-    followers: 8346
-    engagement: 946
-    commentsToLikes: 0.110845
-    id: ck9hc2ftnjghi0j78n83ul4gq
-    verified: false
-    hashtags: "#asana, #improveyourself, #yogisinvertedpose, #souplesse"
-  - username: "val_fitmood"
-    fullname: >-
-      Valérie
-    bio: >-
-      Mariée 3enfants Bordeaux/France 👉 Fitness 🏋️‍♀️ Yoga 🧘‍♀️🙆‍♀️ Cardio 🏃‍♀️ Nature 🍃 Nutrition 🥗 Musique 🎶 Bienveillance 💜, Only good feelings please !
-    location: "France"
-    followers: 12581
-    engagement: 748
-    commentsToLikes: 0.075271
-    id: ck8t60cnbbt3t0j78ng1qwgmk
-    verified: false
-    hashtags: "#mangermieux, #runningmotivation, #shape, #yoga"
-  - username: "mojmoj.fr"
-    fullname: >-
-      MOJMOJ|Yoga Teacher
-    bio: >-
-      Ashtanga and Vinyasa Flow (RYT200) @yogaalliance Private class👉🏻DM to book Meditation🧘🏻‍♀️Mantra chanting📿Pranayama 🌬Plant medicine 🍄 📍Paris 🇫🇷
-    location: "France"
-    followers: 32832
-    engagement: 750
-    commentsToLikes: 0.020874
-    id: ckaouml7r0xjo0i78mdp5o2o6
-    verified: false
-    hashtags: "#yogapractice, #skiholidays, #mydream, #france"
+    hashtags: "#happy, #loveit, #unsigrandsoleil, #grateful"
   - username: "happycoachbyaurelie"
     fullname: >-
       Aurélie EDMOND - Happy Coach
     bio: >-
       ⭐️ Coach diplômée: fitness 💪🏼🏋🏽 - yoga 🙏🏼 - pilates 🎽 🎥 Chaîne YT: Happy Coach 📩 Contact@happy-coach.fr 🚨 PROGRAMME 28JPS ⬇️⬇️⬇️
     location: "France"
-    followers: 16819
-    engagement: 678
-    commentsToLikes: 0.067444
+    followers: 22464
+    engagement: 634
+    commentsToLikes: 0.046626
     id: ckf5m1xiiry7n0j23p8s0anrk
     verified: false
-    hashtags: ""
-  - username: "iliarenon"
+    hashtags: "#yoga, #salutationausoleil, #bienetre, #sante"
+  - username: "xomerlissa"
     fullname: >-
-      Ilia Renon 🌿💛
+      Merlissa
     bio: >-
-      ~ Holistic & Green Lifestyle ॐ Professeure de yoga & méditation ☾ Programme CYCLES FÉMININS @pausesacree ♡ Ateliers & retraites au féminin ☆ Youtube
+      🐚 Mermaid | Blogger - 🧜🏻‍♀️ Beauty | Lifestyle | Travel | Vegan | Yoga 💕 Backup account: @merlissastyles 📍NYC | LA | CHI
     location: "France"
-    followers: 40376
-    engagement: 749
-    commentsToLikes: 0.044198
-    id: ck0w00ktzbsop0i19g7mmyg05
+    followers: 50653
+    engagement: 263
+    commentsToLikes: 0.129709
+    id: ck137t5dfd8rt0i194y9hxxvm
     verified: false
-    hashtags: "#grossesse, #lavie, #grossesse2020, #sisterhood"
-  - username: "thomas.holee"
+    hashtags: "#refreshmentspartner, #colourpop, #naturalskincareproducts, #ecofriendly"
+  - username: "santamila_"
     fullname: >-
-      𝗧𝗵𝗼𝗺𝗮𝘀 𝗛𝗼𝗹𝗲𝗲
+      SantaMila - Laure B.
     bio: >-
-      Stay positive every day 🧘🏽‍♂️ 🌞 𝗚.𝗢 𝗪𝗲𝗹𝗹𝗻𝗲𝘀𝘀 | 𝗬𝗼𝗴𝗮 𝗮𝘂 𝗖𝗹𝘂𝗯 𝗠𝗲𝗱 Coach Fitness | Yoga | Danseur | Photographie
+      ✨Happy & Salty Vibes✨ Girlboss - Ocean Lover - Yoga Teacher 🌊 My Ocean Retreats @myoceantherapy My book 📖Ocean Therapy 📍Pays Basque
     location: "France"
-    followers: 7212
-    engagement: 611
-    commentsToLikes: 0.086083
-    id: ck8t8r19klgj80j78vnoxld2e
+    followers: 18948
+    engagement: 424
+    commentsToLikes: 0.032189
+    id: ck5byntbfpi6u0i11a5ckzaxh
     verified: false
-    hashtags: "#beachvibes, #voyageursdumonde, #holeevibes, #ig"
-  - username: "unamouraunaturel"
+    hashtags: "#mumtobe, #happyandsaltyvibes, #myoceantherapy, #oceanlover"
+  - username: "fannyveyrac_huget"
     fullname: >-
-      Nadège ❀ Yoga enfant
+      Fanny 🖤 Holistic Health
     bio: >-
-      Puéricultrice ❈ Prof Yoga Enfant ⊙ Toulouse ☽ Autrice relaxations & méditations ❣ Vivre ses émotions ❅ Allaitement non écourté ↟ Massage & Portage BB
+      •Yoga Teacher for life, model for fun🤍 « I dream of making people happy » • Book your private Yoga session @rymastudioparis 📍Ibiza based
     location: "France"
-    followers: 22140
-    engagement: 883
-    commentsToLikes: 0.585835
-    id: ck6tkg1l94mou0j71z2eynxqo
+    followers: 67413
+    engagement: 185
+    commentsToLikes: 0.028856
+    id: ck55nr88n6tf50i11tkflchxs
     verified: false
-    hashtags: "#maternage, #parentalitepositive, #relaxation, #yogaenfant"
-  - username: "carolintuitive"
+    hashtags: "#yogapractice, #lifestyle, #swimwear, #viepositive"
+  - username: "calimoralesofficiel"
     fullname: >-
-      Caroline ❃ Intuitive yoga
+      Cali Morales
     bio: >-
-      ☽ Bdx 🇫🇷 ☽ Intuitive #yoga & #acroyoga ☽ Aerial hoop & pole dance ☽ Inspired by #ocean & adventures ☽ Become a @fableticseu VIP member & get -70% 👇🏻
+      ☀️ Journaliste Météo @m6officiel @w9lachaine @6ter 👨‍👩‍👧‍👧 Maman de deux beautés 💕 🧘🏽‍♀️ Yoga Lover - Sport Addict 🏃🏽‍♀️ 💃🏽 Épicurienne
     location: "France"
-    followers: 9193
-    engagement: 537
-    commentsToLikes: 0.274974
-    id: ckaoqwslbkrhp0i78scweq6uz
+    followers: 16799
+    engagement: 1096
+    commentsToLikes: 0.059959
+    id: ck0u1ha1pwvl70i190lyon6uc
     verified: false
-    hashtags: "#babybump, #yogagirl, #aloyoga, #yogainversion"
+    hashtags: "#weather, #soleil, #weekend, #m6"
+  - username: "annedubndidu"
+    fullname: >-
+      Anne&Dubndidu 🍍 #DubndiduCrew
+    bio: >-
+      🌈Founder of @dubndiduatelier 🏃🏼‍♀️Sports & Outdoor Enthusiast🌍 💦Personal trainer & Yoga teacher🧘🏼‍♀️ 📝Content creator 🤜🏼Active Feminist 🍃Veggie Woman
+    location: "France"
+    followers: 115213
+    engagement: 214
+    commentsToLikes: 0.029207
+    id: ck0w09cr5d1ph0i19tpjjgusi
+    verified: true
+    hashtags: "#runstoppable, #igrunneuses, #instarunfrance, #igrunners"
+  - username: "thebrunein"
+    fullname: >-
+      Christelle.
+    bio: >-
+      French Riviera girl, mum of two & yoga teacher. • Less is more • RYT 200h Yoga Teacher RYT 30h Mandala Vinyasa
+    location: "France"
+    followers: 27031
+    engagement: 197
+    commentsToLikes: 0.082840
+    id: ck5hgp3cd3zha0i11svlx0vbd
+    verified: false
+    hashtags: "#lessismore, #home, #molli1886, #homesweethome"
+  - username: "anickdumontet"
+    fullname: >-
+      Anick Dumontet
+    bio: >-
+      Tv host ⭐️ Anime la Roue de Fortune ✨💰 Hockey mom 💛 Beauty junky 🌼 Gym, course, yoga ☀️ Bouffe bio🍋 Toujours de plus en plus verte 🌻
+    location: "France"
+    followers: 35514
+    engagement: 349
+    commentsToLikes: 0.041332
+    id: ck5zxzjbf8yh80i14lfzk8os2
+    verified: false
+    hashtags: "#winterlandscape, #skiing, #comfyoutfit, #winterincanada"
+  - username: "jasmine_poletastix"
+    fullname: >-
+      ⭐Jasmine PoletastiX ⭐
+    bio: >-
+      Owner&Trainer @poletastix_dusseldorf 🇩🇪 Yoga💖Poledance💖Fitness💖 hello@poletastix.com
+    location: "France"
+    followers: 45341
+    engagement: 98
+    commentsToLikes: 0.221305
+    id: ck8t1xuhzxh5l0j78d6eb2t5m
+    verified: false
+    hashtags: "#motivation, #quotes, #tbt, #yoga"
 ---

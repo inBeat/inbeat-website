@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Izmir in 2023
+title: Top 10 Nutrition Instagram Influencers In Izmir In 2023
 description: >-
-  Find top nutrition Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #istanbul #diyetisyen.
+  Find top nutrition Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #challenge #istanbul.
 platform: Instagram
-hits: 5
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 5 Instagram influencers like this in Izmir, Turkey for you to pitch.
+hits: 4
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 4 Instagram influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
+  - username: "chefaydinoglu__official"
+    fullname: >-
+      Aydın Aydınoğlu
+    bio: >-
+      Eğitim ve danışmanlık için DM den ulaşabilirsiniz.🎂🇹🇷 AU PROCHAİN...AUX SOUVAİN... FIRST NEVER FOLLOW
+    location: "Turkey"
+    followers: 20382
+    engagement: 472
+    commentsToLikes: 0.026478
+    id: ck14irx7ngww40i19ka7fo192
+    verified: false
+    hashtags: "#vegansofinstagram, #sweetfood, #sweetdreams, #instachocolate"
   - username: "dytcerennurturan"
     fullname: >-
-      Diyetisyen Cerennur Turan
+      Diyetisyen Cerennur Turan 🥑
     bio: >-
-      Akhisar Fen Lisesi’15 👩🏻‍🎓 Afyon Kocatepe Üniversitesi’19 👩🏻‍🎓 #diyetidiyetisyenyazar 🍒🍋Sağlıklı Beslen,Hafif Yaşa 🍒🍋
+      🍒🍋Sağlıklı Beslen,Hafif Yaşa 🍒🍋 👩🏻‍🎓 Akhisar Fen Lisesi’15 👩🏻‍🎓 Afyon Kocatepe Üniversitesi’19 🌍 Online diyet için DM 📩
     location: "Turkey"
-    followers: 8912
-    engagement: 829
-    commentsToLikes: 0.002380
+    followers: 16257
+    engagement: 511
+    commentsToLikes: 0.033465
     id: ck9hcji56lpkf0j78tebsxy52
     verified: false
-    hashtags: "#like4likes, #liker, #tbt, #likelike"
-  - username: "nevallina"
+    hashtags: "#manisa, #healthylifestyle, #nutrition, #go"
+  - username: "metinturkcan"
     fullname: >-
-      Neval Gördük | Spor-Beslenme
+      Metin Turkcan
     bio: >-
-      ▪️@underarmour 🇹🇷 Athlete ▪️Master Personal Trainer ▪️Triathlon National Team Nutrition&Strength Coach 2014-2015 ▪️ @nevallinakitchen
+      
     location: "Turkey"
-    followers: 57672
-    engagement: 253
-    commentsToLikes: 0.029302
-    id: ck138bef5ffaz0i190scw8llf
-    verified: false
-    hashtags: "#underarmourathlete, #triatlon, #runnercoach, #underarmourshoes"
-  - username: "handiysdiet"
-    fullname: >-
-      Hande C.
-    bio: >-
-      👩🏼‍⚕️Bsc Nutrition&Dietetic Students •healthy lifestyle •food&recipes and more✨ • iş birlikleri için; DM, e-mail 📩 Öğrenci Diyetisyen, diyet yazmiyor😋
-    location: "Turkey"
-    followers: 18653
-    engagement: 468
-    commentsToLikes: 0.154218
-    id: ckaotf0zrvnjx0i78tupcfbqn
-    verified: false
-    hashtags: "#diyetyemeklerim, #diyetisyen, #fittarifler, #healthyrecipes"
-  - username: "dyt.seydagumus"
-    fullname: >-
-      Diyetisyen Şeyda Gümüş
-    bio: >-
-      •Beslenme ve Diyet Uzmanı •Uluslararası ICF Onaylı Yaşam Koçu 📲Bilgi,Randevu ve Online Diyet için; 0531 255 45 21
-    location: "Turkey"
-    followers: 43144
-    engagement: 301
-    commentsToLikes: 0.440875
-    id: ck8t1fbwavjtc0j78nuxxhp7x
-    verified: false
-    hashtags: "#ata, #diyetisyen, #izmir, #bloggerlife"
+    followers: 29772
+    engagement: 169
+    commentsToLikes: 0.023876
+    id: ck0udqle9jpoq0i19lepxj3z8
+    verified: true
+    hashtags: "#iklimkrizi, #19may, #climatechange, #repost"
   - username: "ucak_medikal"
     fullname: >-
-      Uçak Medikal Giyim
+      Uçak Medikal Giyim
     bio: >-
-      #EvdeKal 📣 Güvenli Alışveriş 🛒 Çeşitli Kampanya ve Fırsatlar🎉 👇🏻
+      #saglikkahramanlari nı giydiriyoruz📣 Hızlı Kargo 📌 Müşteri Memnuniyeti 📌 300₺ Üstü Kargo Ücretsiz 🎁
     location: "Turkey"
-    followers: 18346
-    engagement: 526
-    commentsToLikes: 0.573414
+    followers: 26357
+    engagement: 204
+    commentsToLikes: 0.290341
     id: ckaowosn79s3z0i78wvn0s8fs
     verified: false
-    hashtags: "#hastane, #hemsir, #nurse, #sa"
-  - username: "gulsahgorgulu"
-    fullname: >-
-      Gülşah Görgülü
-    bio: >-
-      @biogain.nutrition @organiksatinal “gulsah10” @waspsnacks “gulsah15” @lactonelife “GÜLSAH10” @lezizdiyet 💥Bikini Atlethe🏆 👑ONLINE COACHING👑
-    location: "Turkey"
-    followers: 29715
-    engagement: 623
-    commentsToLikes: 0.113060
-    id: ck6u8r2ijt6ak0j71fmnzmfxb
-    verified: false
-    hashtags: "#gluteworkout, #cutebabyface, #thinkpositive, #kahramanlarpelerintakmaz"
+    hashtags: "#paramedik, #indirim, #att, #cerrah"
   - username: "birkanpolatcom"
     fullname: >-
       Birkan Polat
     bio: >-
-      👑 2x Turkey Stunt CHAMPION 🏆 🔷️ Red Bull Athlete Sponsors: Spormoto KTM, Hardline Nutrition, LiquiMoly, Mitas, ImpacTec, Vecton, SparkAuto
+      👑 2x Turkey Stunt CHAMPION 🏆 📩 @unite_d.co Sponsors: Spormoto KTM, Hardline Nutrition, Mitas Tires
     location: "Turkey"
-    followers: 96702
-    engagement: 377
-    commentsToLikes: 0.030721
+    followers: 113302
+    engagement: 391
+    commentsToLikes: 0.026939
     id: ck6u6dyuvf1k70j710q9peoma
     verified: true
-    hashtags: "#sakarya2020, #sakarya, #bisikletvadisi, #atas"
-  - username: "snowfcker"
+    hashtags: "#dertedition"
+  - username: "gulsahgorgulu"
     fullname: >-
-      snowmaid
+      Gülşah Görgülü
     bio: >-
-      Nutrition and Dietetics 🥑
+      @biogain.nutrition @organiksatinal “gulsah10” @lezizdiyet “gulsah10” @lactonelife “GÜLSAH10” 💥Bikini Atlethe🏆 👑ONLINE COACHING👑
     location: "Turkey"
-    followers: 81204
-    engagement: 1815
-    commentsToLikes: 0.005032
-    id: ckap1v95mwas60i78j35c19v5
+    followers: 32338
+    engagement: 583
+    commentsToLikes: 0.016662
+    id: ck6u8r2ijt6ak0j71fmnzmfxb
     verified: false
-    hashtags: ""
-  - username: "nevallina"
+    hashtags: "#bikinifitnes, #loveyou, #sundaymornings, #reelsinstagram"
+  - username: "nazlimevsimler"
     fullname: >-
-      Neval Gördük | Spor-Beslenme
+      𝑵 𝑨 𝒁 𝑳 𝑰
     bio: >-
-      ▪️@underarmour 🇹🇷 Athlete ▪️Master Personal Trainer ▪️Triathlon National Team Nutrition&Strength Coach 2014-2015 ▪️ @nevallinakitchen
+      Cyprus🏝 Live Laugh Love "Nutrition & Dietetics" 4/4🍍
     location: "Turkey"
-    followers: 57672
-    engagement: 253
-    commentsToLikes: 0.029302
-    id: ck138bef5ffaz0i190scw8llf
+    followers: 7795
+    engagement: 812
+    commentsToLikes: 0.004868
+    id: ckap0igspqfmt0i78wbjgnxx8
     verified: false
-    hashtags: "#underarmourathlete, #triatlon, #runnercoach, #underarmourshoes"
-  - username: "liza.m.m"
+    hashtags: "#october, #nofilter, #rainbow, #happysunday"
+  - username: "neyranguneli"
     fullname: >-
-      Elizaveta Miniaeva
+      Neyran Güneli
     bio: >-
-      Elite Model Look Top15 Winner2019 Modeling, nutrition, sport, makeup, care 🤍Moscow 🤍SPB МА: @systemagency RF MA: @lookmodels.ru
+      Personal Trainer CF Games 2018/19 Fittest in Turkey🇹🇷 Crossfit Games'19 Athlete Nutritionist of Myself Psychologist @gnltraining @athletetrainingtr
     location: "Turkey"
-    followers: 61075
-    engagement: 618
-    commentsToLikes: 0.008083
-    id: ck5zpllgzsvkz0i14f9s0dtoq
+    followers: 6189
+    engagement: 489
+    commentsToLikes: 0.021327
+    id: ck15tu56ojwxf0i199rpmpg1n
     verified: false
+    hashtags: "#gnltraining, #athletetrainingtr, #ladiesfirst, #throwdownthursday"
+  - username: "m.y.hulk_"
+    fullname: >-
+      MUSTAFA YILDIZ
+    bio: >-
+      📲@begreen_app 👕@begreenwear 🛒@organiksatinal🔻HULK10 💊@biogain.nutrition 🏃‍♂️Benimle birlikte Çalışmak İçin Linke tıkla👇🏻
+    location: "Turkey"
+    followers: 394298
+    engagement: 206
+    commentsToLikes: 0.278376
+    id: ck6u8r01nt5ul0j71nvz6k9hz
+    verified: false
+    hashtags: "#bodybuilding, #motivation, #challenge, #superheavyweight"
+  - username: "dr.aysegulcoruhlu"
+    fullname: >-
+      AYSEGUL CORUHLU
+    bio: >-
+      Dr. CELL-BEING Cellular Well-being, Circadian Health Anti- Aging Longevity Alkaline Nutrition Upgrade Your Cells 💉💊 0212-2360898/0542-8366798
+    location: "Turkey"
+    followers: 491429
+    engagement: 195
+    commentsToLikes: 0.030960
+    id: ckf5n28lswfgl0j23itdkni5s
+    verified: true
     hashtags: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In United States in 2023
+title: Top 10 Athletes Instagram Influencers In United States In 2023
 description: >-
-  Find top athletes Instagram influencers in United States in 2023. Most popular hashtags: #fall #fitness #beach.
+  Find top athletes Instagram influencers in United States in 2023. Most popular hashtags: #fitness #gym #bodybuilding.
 platform: Instagram
-hits: 3168
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 3168 Instagram influencers like this in United States for you to contact.
+hits: 4214
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 4214 Instagram influencers like this in United States for you to contact.
 profiles:
   - username: "kuhubhosle"
     fullname: >-
@@ -13,12 +13,48 @@ profiles:
     bio: >-
       Athlete
     location: "United States"
-    followers: 7451
-    engagement: 957
-    commentsToLikes: 0.031580
+    followers: 12752
+    engagement: 641
+    commentsToLikes: 0.029407
     id: ck6tsfsdk4isj0j71yy3w18e5
     verified: false
-    hashtags: "#bodyholics, #ifbbbikini, #hardwork, #miihiersinghprep"
+    hashtags: "#gym, #repost, #hardwork, #miihiersinghprep"
+  - username: "elyologp8"
+    fullname: >-
+      Gerardo Parra
+    bio: >-
+      athlete
+    location: "United States"
+    followers: 152381
+    engagement: 262
+    commentsToLikes: 0.009631
+    id: ck5bvb2sbjbbg0i11lw6hqka1
+    verified: true
+    hashtags: "#halloffame, #franklinfamily, #onlyone, #world"
+  - username: "kedarjadhavofficial"
+    fullname: >-
+      Kedar Mahadev Jadhav
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 1517756
+    engagement: 627
+    commentsToLikes: 0.005191
+    id: ckf5tu0psirrz0j23ffljsbbh
+    verified: true
+    hashtags: "#positivevibes, #srh, #wakefit, #biobubble"
+  - username: "viharigh"
+    fullname: >-
+      Hanuma vihari
+    bio: >-
+      Athlete 🇮🇳
+    location: "United States"
+    followers: 474427
+    engagement: 695
+    commentsToLikes: 0.002843
+    id: ck6tqqtsitcae0j71s14hqdsz
+    verified: true
+    hashtags: "#uc, #safe, #home, #bighomerushsale"
   - username: "stanleynormansurfer"
     fullname: >-
       Stan Norman
@@ -30,101 +66,65 @@ profiles:
     commentsToLikes: 0.020955
     id: ck5znz0o6pfe20i14elkfn2e6
     verified: false
-    hashtags: "#ambassador, #sponsored, #heyletsgo, #hydroflask"
-  - username: "tylerlawrencegray"
+    hashtags: "#hydroflask, #onya, #onyamodel, #tbt"
+  - username: "michicampa93"
     fullname: >-
-      Tyler Gray
+      Michele Campagnaro
     bio: >-
-      Athlete+ Actor Protege Entertainment/Aka Talent Tik Tok- Tylerlawrencegray- 152k Snapchat- Viking_38
+      Athlete
     location: "United States"
-    followers: 15967
-    engagement: 2301
-    commentsToLikes: 0.108802
-    id: ckaoz5oalkhcf0i78gynrcz9q
-    verified: false
-    hashtags: "#acting, #capecod, #skate, #la"
-  - username: "daniellebredenhof"
-    fullname: >-
-      Danielle Bredenhof | Fitness
-    bio: >-
-      🦋 20 | Fitness & Nutrition 🤍 @foodspring athlete Founder @fit.andfeminine Train with me! 👇🏼 Booty building program
-    location: "United States"
-    followers: 22458
-    engagement: 1148
-    commentsToLikes: 0.077520
-    id: ck8t2wmkk0yww0j78l7t8y7i6
-    verified: false
-    hashtags: ""
-  - username: "steph_outside"
-    fullname: >-
-      Steph
-    bio: >-
-      Momma of 3 feisty girls. Wife to 1 superhuman endurance athlete. Sometimes I write things.
-    location: "United States"
-    followers: 68177
-    engagement: 2279
-    commentsToLikes: 0.051171
-    id: ck5zloaq0l3cc0i14b4viaocw
-    verified: false
-    hashtags: ""
-  - username: "samburns66"
-    fullname: >-
-      Sam Burns
-    bio: >-
-      Christ Follower | Professional golfer @callawaygolf @adidasgolf @mastercard @sentinelsec @netjets and @originbank athlete.
-    location: "United States"
-    followers: 10531
-    engagement: 1586
-    commentsToLikes: 0.224225
-    id: ck6tq6euppngv0j7147bxaoil
+    followers: 15980
+    engagement: 1307
+    commentsToLikes: 0.013085
+    id: ck6tpokvjl7nw0j71cbqvm36j
     verified: true
-    hashtags: "#primeblue, #createdwithadidas, #hometeam, #lehgeaux"
-  - username: "lottie.karate"
+    hashtags: "#nottinghill, #london, #iceland, #bianchi"
+  - username: "savannah_joyyy"
     fullname: >-
-      Charlotte Singleton🏕🏔
+      Savannah Joy
     bio: >-
-      🙏Philippians 4:13🙏 🥋🇺🇸Karate Athlete 2019 USA National Champion 🥇 Be humble. Be hungry. And always be the hardest worker in the room. Managed by Mom
+      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
     location: "United States"
-    followers: 17162
-    engagement: 1289
-    commentsToLikes: 0.091944
-    id: ckaoxby0qco3h0i78fgko15bq
+    followers: 132122
+    engagement: 417
+    commentsToLikes: 0.012208
+    id: ck5q33lorj2160i11tlfrq9s1
     verified: false
-    hashtags: "#lottiekarate, #martialartist, #karatedo, #karat"
-  - username: "kenleyjansen74"
+    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
+  - username: "alex_eubank15"
     fullname: >-
-      Kenley Jansen
+      Alex Eubank
     bio: >-
-      Husband and father, @dodgers closer 🇨🇼. @jumpman23 athlete. @kenleyjansenfdn.
+      🔱 Jesus 🙏 🔱 @rawgear | @alpha.lion Code Alex 🔱 @celsiusofficial Athlete 🔱 @fusionnutra @elysium.athletic 🔱 Youtube / App / Merch ⬇️
     location: "United States"
-    followers: 233741
-    engagement: 776
-    commentsToLikes: 0.035800
-    id: ck55krubpzybo0i11hsejo720
-    verified: true
-    hashtags: "#dodgers, #curacao, #worldseries, #cura"
-  - username: "itsmakmiller"
-    fullname: >-
-      Makenna Miller
-    bio: >-
-      🏡 Real Estate Agent #berkshirehathaway @gymmolly Athlete | Code: “makenna20” @restore_eastictks | Code: “Mak30”
-    location: "United States"
-    followers: 39144
-    engagement: 722
-    commentsToLikes: 0.083980
-    id: ck8t6od7eeakv0j78sv76w2j3
+    followers: 1687055
+    engagement: 1143
+    commentsToLikes: 0.003245
+    id: cknh9ia36t0n00j23tp7k6w1b
     verified: false
-    hashtags: "#ocean, #postworkout, #blonde, #vacation"
-  - username: "codyrigsby"
+    hashtags: "#arnold, #gym, #motivating, #couplegoals"
+  - username: "jesssims"
     fullname: >-
-      Cody Rigsby
+      JESS SIMS
     bio: >-
-      ➖He/ Him ➖Peloton Cycling Director ➖Mindful Athlete ➖Opinionated Homosexual
+      @onepeloton 🏋🏽‍♀️🚴🏽‍♀️🏃🏽‍♀️ @jumpman23 athlete @collegegameday @espn @nyliberty you don’t HAVE to. you GET to. 📧 teamsims@excelsm.com
     location: "United States"
-    followers: 414045
-    engagement: 786
-    commentsToLikes: 0.026186
-    id: ck55n4eku5gcs0i11idru49tq
-    verified: true
-    hashtags: "#wap, #vote"
+    followers: 467162
+    engagement: 479
+    commentsToLikes: 0.020603
+    id: cl7kdxk7wv88d0i23i2mhr2lx
+    verified: false
+    hashtags: "#saturday60, #peloton, #linkinbio, #startedfromdaytonohionowwehere"
+  - username: "6ourt"
+    fullname: >-
+      Courtney
+    bio: >-
+      sweating… @gymshark athlete @ehplabs code: 6ourt10 tiktok @6ourt2.0
+    location: "United States"
+    followers: 104992
+    engagement: 1274
+    commentsToLikes: 0.010903
+    id: cl7exgtg0qy0u0i2364nsa6lv
+    verified: false
+    hashtags: "#inpaidpartnership, #gymshark, #gymsharkwomen, #lgstanbyme"
 ---

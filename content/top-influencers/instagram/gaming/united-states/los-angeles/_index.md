@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Los Angeles in 2023
+title: Top 10 Gaming Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top gaming Instagram influencers in Los Angeles in 2023. Most popular hashtags: #gaming #losangeles #stayhome.
+  Find top gaming Instagram influencers in Los Angeles in 2023. Most popular hashtags: #gaming #losangeles #gamer #photography.
 platform: Instagram
-hits: 60
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 60 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 57
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 57 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "corey.saldana"
+  - username: "marios_gavrilis_official"
     fullname: >-
-      Corey Saldana
+      Marios Gavrilis
     bio: >-
-      📍 Los Angeles 🇵🇭🇺🇸 🎥 Director/Videographer 📷 Portrait Photographer 🎮 Twitch.TV/Fireshot206
+      ▪️Actor•Voice Actor•Comedian ▪️German voice of Denver in “La Casa De Papel“, Batman in “Gotham Knights“, Alexios in “AC:OD“ 🏅Voice Arts Awards Winner
     location: "United States"
-    followers: 21717
-    engagement: 202
-    commentsToLikes: 0.014256
-    id: ck135u0hw38eh0i19e7v9im9c
+    followers: 72807
+    engagement: 496
+    commentsToLikes: 0.024948
+    id: ck9whi84nxz320j7852rfvtz1
     verified: false
-    hashtags: "#gamingphotography, #portsinspired, #losangelesphotography, #laphotographer"
+    hashtags: "#actor, #deathstranding, #voiceactor, #award"
+  - username: "brettian_"
+    fullname: >-
+      Brett Ian
+    bio: >-
+      Professional Bullsh**ter ⚡️ Actor | Twitch Affiliate | 80’s Vibes Los Angeles, CA
+    location: "United States"
+    followers: 12607
+    engagement: 3501
+    commentsToLikes: 0.021519
+    id: ck9ha2r8mawe80j78bjlzc98k
+    verified: false
+    hashtags: "#80s, #gamer, #kyloren, #twitch"
+  - username: "ericanagashima"
+    fullname: >-
+      Erica Nagashima
+    bio: >-
+      🎙Vocalist, Twitch partner, gamer, model, #hapa and human Gudetama 🍳🎶🎮 Queen 👑 @queensgg Booking@ericanagashima.com
+    location: "United States"
+    followers: 162164
+    engagement: 214
+    commentsToLikes: 0.037465
+    id: ck0u20xjnyij20i19fu1hu5q1
+    verified: true
+    hashtags: "#savagexfenty, #swipeleft, #throwback, #itsanyonesgame"
   - username: "ladndsociety"
     fullname: >-
       L.A. Dungeons&Dragons Society
     bio: >-
       The L.A.D.D.S. — a Los Angeles based, global gaming society dedicated to the world’s greatest game, Dungeons & Dragons & its amazing fandom.
     location: "United States"
-    followers: 6778
-    engagement: 580
-    commentsToLikes: 0.044626
+    followers: 6721
+    engagement: 531
+    commentsToLikes: 0.037543
     id: ck6to6uj8cfcw0j71ouxm6n5v
     verified: false
-    hashtags: "#gaming, #artandarcana, #dungeonsanddragons, #rpg"
-  - username: "coughs"
+    hashtags: "#dungeonsanddragons, #minis, #dnd, #gaming"
+  - username: "unsealedgames"
     fullname: >-
-      COUGHS
+      The Dancing Gamer
     bio: >-
-      los angeles ☆ 🇲🇽 !! photos and gaming
+      • #Art 😎 • #Sega 🖤 • #Xbox 💚 • #Nintendo ❤ • #Playstation 💙 • #TheDancingGamer 🕺🏻 • #ToLiveandGameinLA 🎮 • @breadandbreakfastla 🍞🍳
     location: "United States"
-    followers: 44140
-    engagement: 972
-    commentsToLikes: 0.013714
-    id: ck0u9o43vabte0i19ar3bv9w6
+    followers: 2141
+    engagement: 1549
+    commentsToLikes: 0.378365
+    id: ck8t6ugb4eq9e0j78s1khybtd
     verified: false
-    hashtags: ""
-  - username: "tommydriscollofficial"
+    hashtags: "#dancinwithretros, #retropopthursday, #dancingwithgames, #maildancer"
+  - username: "cff_gta"
     fullname: >-
-      TOMMY DRISCOLL
+      CF_GTA
     bio: >-
-      23 • CT ➡️ L.A Songwriter / Producer TikTok: 127K
+      gamer tag iEnVy LAMBO member OF @bankroll_mobster XBOX ONLY CAR FANATIC FILMS
     location: "United States"
-    followers: 4482
-    engagement: 1218
-    commentsToLikes: 0.047959
-    id: ck9wh5g7rwc770j78bxdjbbyy
+    followers: 7643
+    engagement: 664
+    commentsToLikes: 0.021781
+    id: ck9wetnmzlrvk0j78srcterhm
     verified: false
-    hashtags: "#socialdistancing, #imagination, #afternoon, #musicproducer"
-  - username: "skyboundent"
+    hashtags: "#game, #customcarsofgta, #carguy, #gta5"
+  - username: "poly_tattoo"
     fullname: >-
-      Skybound Entertainment
+      TATTOO ARTIST PARIS 🇫🇷
     bio: >-
-      Skybound is an entertainment company founded by Robert Kirkman and David Alpert that specializes in comics, film, TV, games, and more! #skybound
+      @or_noir_tattoo ✨ Info, rdv uniquement par mail 💌poly.tatouage@gmail.com
     location: "United States"
-    followers: 27598
-    engagement: 88
-    commentsToLikes: 0.013389
-    id: ck0tw2xm9dsj50i1923r7a34j
+    followers: 70439
+    engagement: 266
+    commentsToLikes: 0.036941
+    id: ck15r07m15hjk0i19cdh2vtk3
     verified: false
-    hashtags: "#robertkirkman, #jeffreydeanmorgan, #amc, #negan"
-  - username: "sugarycarnivore"
+    hashtags: "#inkedgirl, #realistictattoo, #inkedmag, #blackandgreytattoo"
+  - username: "mrleozombie"
     fullname: >-
-      🎀 Larissa Lapin 🎀
+      Leo Camacho
     bio: >-
-      💖Welcome to my pastel dreamland 💛LIving in Los Angeles 💚Fashion and all things cute 💙Business : sugarycarnivore@gmail.com
+      🌆 Los Angeles ↔️ New York 🏙 🔹 Cuban 🇨🇺 🔸 Digital Artist 🔹 Nerd/Geek 🔸
     location: "United States"
-    followers: 21911
-    engagement: 752
-    commentsToLikes: 0.015962
-    id: ck14lpudxvvwy0i19j8oq8pmp
+    followers: 119817
+    engagement: 594
+    commentsToLikes: 0.018428
+    id: ck1384tk0ei850i19lgfgjg9k
+    verified: true
+    hashtags: "#photoshop, #scifi, #cyberpunk, #sponsoredbyhbomax"
+  - username: "nikki_trinidad_"
+    fullname: >-
+      Nikki Trinidad
+    bio: >-
+      📍DTLA , Los Angeles ▫️Filipina | Latina ▫️Travel • Fashion • Bikini LOVER ✨ ▫️M/A @leo.alderman @lsamanagement 📩NikkiTrinidadBookings@gmail.com
+    location: "United States"
+    followers: 99625
+    engagement: 183
+    commentsToLikes: 0.062052
+    id: ck5c31ejdyetf0i1104rbc0oc
     verified: false
-    hashtags: "#animalcrossing, #pinkhair, #kawaiiaesthetic, #taiwan"
+    hashtags: "#ad, #ohpollyswim, #ohpolly, #sportswear"
   - username: "moesph_oreo"
     fullname: >-
       Mohamed Ouedraogo
     bio: >-
       Los Angeles 📍 Leo ☉ Libra☽ Virgo ↑ Yogi 🧘🏿‍♂️
     location: "United States"
-    followers: 19363
-    engagement: 183
-    commentsToLikes: 0.063081
+    followers: 18967
+    engagement: 188
+    commentsToLikes: 0.067356
     id: ck13asghcryej0i197sbw30an
     verified: false
-    hashtags: "#asthetic, #designer, #digitals, #ohhhhellothere"
-  - username: "lamarrwilson"
-    fullname: >-
-      Lamarr Wilson
-    bio: >-
-      📸 I make fun videos about things I like 📍 Los Angeles, CA 📧 Biz: LamarrWilson@gmail.com
-    location: "United States"
-    followers: 188128
-    engagement: 339
-    commentsToLikes: 0.020157
-    id: ck5q4r646pzbh0i11np0730jl
-    verified: true
-    hashtags: "#xbox, #gaming, #lamarrwilson, #unboxing"
-  - username: "nikoriana"
-    fullname: >-
-      Nicole Iriana
-    bio: >-
-      〰️ los angeles, ca 👩🏼‍💻 product ux/ui •🖋 lettering • 📷 q2 🎧 edm • 📽 horror • 👁‍🗨 en/日本語/فارسی
-    location: "United States"
-    followers: 5442
-    engagement: 1052
-    commentsToLikes: 0.018173
-    id: ck5hjjzcigrhz0i1103pfmobg
-    verified: false
-    hashtags: "#visualsoflife, #travel, #inspiration, #artofvisuals"
-  - username: "thejaxmalcolm"
-    fullname: >-
-      Jax Malcolm
-    bio: >-
-      Los Angeles, CA Award Winning Actor/Director/Philanthropist CEO @kapprods TikTok thejaxmalcolm
-    location: "United States"
-    followers: 78115
-    engagement: 69
-    commentsToLikes: 0.102336
-    id: ck0vxvs7v0zdr0i19nf92jizn
-    verified: true
-    hashtags: "#stayhome, #quarantine, #tb, #nyc"
+    hashtags: "#lookbook, #fullmoon, #gaming, #mars"
 ---

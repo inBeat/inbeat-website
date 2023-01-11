@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Singapore in 2023
+title: Top 10 Yoga Instagram Influencers In Singapore In 2023
 description: >-
-  Find top yoga Instagram influencers in Singapore in 2023. Most popular hashtags: #yoga #yogaeverydamnday #yogagram.
+  Find top yoga Instagram influencers in Singapore in 2023. Most popular hashtags: #yoga #yogajourney #yogaeverydamnday #yogapractice.
 platform: Instagram
-hits: 14
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 14 Instagram influencers like this in Singapore for you to work with.
+hits: 11
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 11 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
-  - username: "jyanyoga"
-    fullname: >-
-      jiamin • jyan
-    bio: >-
-      🐒 acro • yoga • dance 🧘🏻‍♀️founder of @jyanyogastudio 💌 jyan.yoga@gmail.com
-    location: "Singapore"
-    followers: 19576
-    engagement: 304
-    commentsToLikes: 0.055314
-    id: ck0vvnusjpyco0i19dezc6waf
-    verified: false
-    hashtags: "#caringskinsg, #mooiconvert, #kfcbreakfast, #kfcam"
-  - username: "mallaikapatra"
-    fullname: >-
-      Mallaika Patra
-    bio: >-
-      🙏🏼 Yoga practitioner.
-    location: "Singapore"
-    followers: 10999
-    engagement: 507
-    commentsToLikes: 0.077885
-    id: ck5q39dtujuxo0i11frpazkz2
-    verified: false
-    hashtags: "#atmanirbhar, #vineyard, #sky, #dogsarethebest"
-  - username: "denisekellerofficial"
-    fullname: >-
-      Denise Keller
-    bio: >-
-      🇸🇬🇩🇪 Discovery Channel Travel Producer/Presenter MTV VJ & Celebrity Yoga Instructor Under Armour Athlete Manduka Ambassador wellness@denisekeller.com
-    location: "Singapore"
-    followers: 55327
-    engagement: 257
-    commentsToLikes: 0.030596
-    id: ck0w5so1j58yz0i190lkimec3
-    verified: true
-    hashtags: "#yogaeverydamnday, #sgfashion, #yogapose, #fashionsg"
-  - username: "1.228"
-    fullname: >-
-      Leong.Jerry
-    bio: >-
-      DM for private yoga class 🇸🇬 Yoga . Gym . Swim . Bowling
-    location: "Singapore"
-    followers: 7019
-    engagement: 647
-    commentsToLikes: 0.022958
-    id: ck6uc6pbmdu6g0j71tmpykdfw
-    verified: false
-    hashtags: "#yogaposes, #yogaaddict, #yogadudes, #yogainspiration"
   - username: "roxannegan_"
     fullname: >-
       ROXANNE GAN
     bio: >-
-      🇸🇬 SG Fitness & Yoga Icon 📍@zoiyoga__ 🧘🏻‍♀️ #foxyroxyyoga 📩 hello@roxannegan.com
+      🇸🇬 Certified Yoga Instructor & PT 📩 hello@roxannegan.com 🎥 YouTube: Roxanne Gan Purchase my Yoga eBook (60 tutorials) 👇🏻
     location: "Singapore"
-    followers: 126716
-    engagement: 130
-    commentsToLikes: 0.009089
+    followers: 126481
+    engagement: 131
+    commentsToLikes: 0.012749
     id: ck0vxnqw9zteb0i190sr9gudl
     verified: false
-    hashtags: "#practiceyogachangeyourworld, #yogagram, #foxyroxyyoga, #yoga"
-  - username: "naomi.huth"
+    hashtags: "#pregnancy, #yogajourney, #motherhood, #bumplife"
+  - username: "supermyca"
     fullname: >-
-      Naomi Huth ✩
+      SuperMyca
     bio: >-
-      𝗠𝗜𝗦𝗦 𝗦𝗨𝗣𝗥𝗔𝗡𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗦𝗜𝗡𝗚𝗔𝗣𝗢𝗥𝗘 𝟮𝟬𝟭𝟵 Achieve the impossible ∞ Travel | Adventure | Yoga Co-owner @filmpalette ⇩ 6 Things I Learned Before 20 #stayhome
+      Certified Yoga Teacher Certified Active Lifestyle Motivation Coach @camphealthstyle Discount Codes, Classes and Links👇🏼
     location: "Singapore"
-    followers: 10516
-    engagement: 423
-    commentsToLikes: 0.042000
-    id: ck0tt519d16pv0i19cjse8vrv
+    followers: 24016
+    engagement: 184
+    commentsToLikes: 0.077999
+    id: ck6tihorg0qjy0j71x6pj9bke
     verified: false
-    hashtags: "#havaianassingapore, #gardenbeats, #sp, #30dayshighvibe"
-  - username: "kyrapoh"
+    hashtags: "#yogaeverywhere, #thelunaryogis, #igyoga, #yogawithprops"
+  - username: "jyanyoga"
     fullname: >-
-      Kyra Poh
+      jyan • jiamin yang
     bio: >-
-      Indoor Skydiver 🇸🇬 🪂Red Bull Athlete
+      🐒 acro • yoga • dance 🧘🏻‍♀️founder of @jyanyogastudio 💌 jyan.yoga@gmail.com
     location: "Singapore"
-    followers: 10774
-    engagement: 964
-    commentsToLikes: 0.032787
-    id: ck55k9jxkysv60i11v24hax5f
+    followers: 20809
+    engagement: 361
+    commentsToLikes: 0.030261
+    id: ck0vvnusjpyco0i19dezc6waf
     verified: false
-    hashtags: "#weworeourmasksafter, #yoga, #wcis2018, #theend"
-  - username: "aishx"
+    hashtags: "#madeinjapan, #zeroleakage, #healthiswealth, #sp"
+  - username: "denisekellerofficial"
     fullname: >-
-      aish
+      SgLifestyle Fashion Wellness
     bio: >-
-      counting memories instead of calories | #aishxads come be hairless with me | @japaniplexpress
+      🇸🇬🇩🇪 Discovery Channel Travel Producer/Presenter MTV VJ & Celebrity Yoga Instructor Manduka Ambassador Polar Ambassador
     location: "Singapore"
-    followers: 10294
-    engagement: 836
-    commentsToLikes: 0.020671
-    id: ck6ub2tcd75320j71j2yv718i
-    verified: false
-    hashtags: "#igsg, #partipost, #sgig, #sp"
-  - username: "branstands"
+    followers: 64245
+    engagement: 283
+    commentsToLikes: 0.030840
+    id: ck0w5so1j58yz0i190lkimec3
+    verified: true
+    hashtags: "#singaporestyle, #yogaeverydamnday, #yogafam, #singaporeans"
+  - username: "dianaohy"
     fullname: >-
-      Brandon
+      𝔻𝕀𝔸ℕ𝔸 | 𝐭𝐫𝐚𝐯𝐞𝐥 & 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 🌼
     bio: >-
-      Simple Quality Living 🇸🇬 Movement Artist, Mindful Coach, Wanderlust 💌 hello@branstands.com Lululemon Ambassador
+      🕊 my | sg 🍒 adventures at #dohyxjb🇲🇾 🌸 preloved at @daintydolce 🧚🏻‍♀️ aerial yoga at @aerialwithdianaohy 🍃 read about my travels here —
     location: "Singapore"
-    followers: 57413
-    engagement: 138
-    commentsToLikes: 0.023162
-    id: ck5zmz57enh2p0i14e11i5eru
+    followers: 37847
+    engagement: 182
+    commentsToLikes: 0.017443
+    id: ck5q811fq3zbd0i11p1y7ld5k
     verified: false
-    hashtags: "#evisukuro, #evisu, #rawdenim, #stpatricksday"
-  - username: "chantalwindley"
+    hashtags: "#dohyintcl, #dohyinohvola, #dohyxjb, #dohyxtiffsnail"
+  - username: "1.228"
     fullname: >-
-      Chantal ♡
+      Leong.Jerry
     bio: >-
-      Rhythm Cycle @absolutecyclesingapore • Founder @mrsdeco_ • Swim with meeee 🏊🏼‍♀️ • Illustrator @c.llustrations
+      DM for private yoga class 🇸🇬 Yoga . Gym . Swim . Bowling . Tennis
     location: "Singapore"
-    followers: 6351
-    engagement: 492
-    commentsToLikes: 0.036458
-    id: ckap3zuhm58030i78fkxxq97n
+    followers: 7105
+    engagement: 493
+    commentsToLikes: 0.031389
+    id: ck6uc6pbmdu6g0j71tmpykdfw
     verified: false
-    hashtags: "#tiktok, #singapore, #tiktoksingapore, #spininstructor"
+    hashtags: "#yogadaily, #yogalover, #yogaeverywhere, #yogaphotography"
+  - username: "itsmecarlad"
+    fullname: >-
+      Carla Dunareanu
+    bio: >-
+      Ananya on #kinch5 🎬 HBO Asia 🎤 NIKE 🏃🏽‍♀️ SPECIALIZED 🚴🏽‍♀️ DVT⚡️ HABITAT 🏡 Represented by @flyentertains
+    location: "Singapore"
+    followers: 59075
+    engagement: 209
+    commentsToLikes: 0.011732
+    id: ck6u6fvskfdad0j713kyrlqud
+    verified: true
+    hashtags: "#yogamovement, #nike, #kinch5, #ymfam"
+  - username: "seowie"
+    fullname: >-
+      Shaun Michael Seow
+    bio: >-
+      🇸🇬🇳🇱🏃‍♂️🏋🏼‍♂️ Hybrid Athlete: Run, Lift, Jump 📈 Finance, Trader, DeFi, eComm 📸 Commercial Model 📚 BBA @sgsmu ⬇️ Website/Email for Business
+    location: "Singapore"
+    followers: 78971
+    engagement: 61
+    commentsToLikes: 0.009876
+    id: ck8tawy18texb0j783l3vrpsc
+    verified: false
+    hashtags: "#health, #gym, #fitness, #diet"
+  - username: "aylna"
+    fullname: >-
+      A Y L N A N E O
+    bio: >-
+      👋🏻안녕| (• ◡•)⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ✉️ Email: AYLNANEO@OUTLOOK.SG ⠀⠀⠀⠀⠀⠀ ⠀ 🌈My baby: @theayl.co ✨#MLBB COLLECTION AVAILABLE NOW👇🏻
+    location: "Singapore"
+    followers: 122119
+    engagement: 78
+    commentsToLikes: 0.018364
+    id: ck6uc32o5d7q50j711pxlnqp3
+    verified: false
+    hashtags: "#shopeesg1212, #shopeesgbirthdaysale, #sp, #koreabrand"
+  - username: "briebenfell"
+    fullname: >-
+      Brie
+    bio: >-
+      📍 🇸🇬 Mama & Wife • Actress • Model 💌 Bookings@19sixtyfive.com.sg 🎙 Host: @makingofmotherhood 🧘🏼‍♀️ Founder: @brie_fit 🤱🏼 Ambassador: @motherswork
+    location: "Singapore"
+    followers: 16000
+    engagement: 374
+    commentsToLikes: 0.033655
+    id: ck8sy96m0k5u20j78gm9bmlw4
+    verified: false
+    hashtags: "#playtogether, #fullertonmemories, #staycation, #shotoniphone12"
 ---

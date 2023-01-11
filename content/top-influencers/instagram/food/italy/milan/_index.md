@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Milan in 2023
+title: Top 10 Food Instagram Influencers In Milan In 2023
 description: >-
-  Find top food Instagram influencers in Milan in 2023. Most popular hashtags: #foodporn #milan #food #milano.
+  Find top food Instagram influencers in Milan in 2023. Most popular hashtags: #milano #milan #food #foodporn.
 platform: Instagram
-hits: 271
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 271 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 257
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 257 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
-  - username: "enzopolitelli"
-    fullname: >-
-      Terrazza Calabritto
-    bio: >-
-      Owner and founder @terrazzacalabritto
-    location: "Italy"
-    followers: 7598
-    engagement: 548
-    commentsToLikes: 0.042896
-    id: ck5zioxlvg4as0i14cjvjo4vq
-    verified: false
-    hashtags: "#instafood, #love, #foodporn, #india"
   - username: "tasty.mi"
     fullname: >-
       Tasty.Mi
     bio: >-
       𝙇𝙖 1ª 𝙜𝙪𝙞𝙙𝙖 𝙥𝙚𝙧 𝙞 𝙜𝙤𝙡𝙤𝙨𝙞 𝙙𝙞 𝙈𝙞𝙡𝙖𝙣𝙤 🍽 Ristoranti 🐷 Foodporn 🍳 Ricette Usa #tastymi o taggaci e... ingrassiamo insieme 😋 Vuoi lavorare con me 📩
     location: "Italy"
-    followers: 41008
-    engagement: 92
-    commentsToLikes: 0.012002
+    followers: 41074
+    engagement: 116
+    commentsToLikes: 0.011618
     id: ck8t2bcmdytw40j782kqkz0sa
     verified: false
-    hashtags: "#ristorante, #cuoco, #pastalover, #ristoranteitaliano"
-  - username: "la_gaia98"
+    hashtags: "#milan, #foodiesmilano, #piattitipici, #pastaporn"
+  - username: "italiandreamfood"
     fullname: >-
-      Giada Casartelli
+      Cristina Fiore
     bio: >-
-      📍Made in Como 🎓Student of communication ⚠️Content creator 🛍 Beauty | Fashion | Lifestyle ✉️ giads98c@gmail.com
+      #𝚏𝚘𝚘𝚍𝚙𝚘𝚛𝚗 𝚌𝚘𝚘𝚔𝚎𝚛👩🏼‍🍳 𝒫𝓇ℴ𝒻ℯ𝓈𝓈𝒾ℴ𝓃𝒶𝓁 ℯ𝒶𝓉ℯ𝓇😋 Miide ambassador 🇮🇹 ˩ɛσραя∂ ∂ɛρɛи∂ɛит🐆 𝘍𝘢𝘴𝘩𝘪𝘰𝘯 𝘪𝘴 𝘮𝘺 𝘰𝘳𝘪𝘨𝘪𝘯👗 #ɡίɾʆԹσϖεɾ ƒσɾεѵεɾ👯‍♀️ тoтally ιn love wιтн nyc🗽
     location: "Italy"
-    followers: 19182
-    engagement: 432
-    commentsToLikes: 0.193055
-    id: ckf5ux8o6mo6i0j233s9eh7iv
+    followers: 21298
+    engagement: 182
+    commentsToLikes: 0.216024
+    id: ckap6d8hnfemq0i782bxvxd4z
     verified: false
-    hashtags: "#travel, #summervibes, #igersmilano, #seaside"
+    hashtags: "#nycfoodblogger, #italianfoodblogger, #italianfoodporn, #fashion"
+  - username: "disciules"
+    fullname: >-
+      Tilde |Meneghini,Viaggi&Sapori
+    bio: >-
+      Nord IT e dintorni - 📷 Matilde Carminati 📍Milano / RivaDG Ui&Ux design • Travel Agent @my.trip.map @gowildescapes 🌲Dis'cioles, sbrigati🐺
+    location: "Italy"
+    followers: 29231
+    engagement: 139
+    commentsToLikes: 0.032774
+    id: ck5q05hye4clm0i11rgxnylg2
+    verified: false
+    hashtags: "#montagna, #trentinofood, #milanodavedere, #lombardia"
+  - username: "__meggola"
+    fullname: >-
+      Margherita
+    bio: >-
+      Nurse. Per collaborazioni, direct 🌞 I'm not a femminone, I'm piccerella. Non uso filtri, così mi riconoscete da vicino 😂 Ad maiora semper 🌈
+    location: "Italy"
+    followers: 4926
+    engagement: 554
+    commentsToLikes: 0.197470
+    id: ckaotw0mkxr500i78fw1rbqrr
+    verified: false
+    hashtags: "#girl, #lips, #adoro, #me"
+  - username: "mslipuma"
+    fullname: >-
+      𝐌𝐀𝐑𝐈𝐒𝐓𝐄𝐋𝐋𝐀 𝐋𝐈 𝐏𝐔𝐌𝐀
+    bio: >-
+      📷 | 🌍 | 🏋🏽 | 🥜 | 🍣⠀⠀ 📍 Italy ✉️ mslipuma16@gmail.com
+    location: "Italy"
+    followers: 39818
+    engagement: 567
+    commentsToLikes: 0.022705
+    id: ck6twlw1ksrg10j71r3nxwkpa
+    verified: false
+    hashtags: "#grazie, #palermo, #bellezza, #happy"
+  - username: "chiarasaffioti"
+    fullname: >-
+      Chiara Saffioti🌟
+    bio: >-
+      MA: @e2modelmgmt 🇮🇹 @nologowomen 🇺🇸Los Angeles🔛 Milan 👑Miss Milano 2018 @missitalia 🍕@beatotemilano @mamma_milano ✈️🎬
+    location: "Italy"
+    followers: 11542
+    engagement: 448
+    commentsToLikes: 0.046549
+    id: ckap0s0bjrjby0i788ojydjjf
+    verified: false
+    hashtags: "#visitfuerteventura, #bravogreatphoto, #bravogreatsensual, #ports"
+  - username: "hungry_franky"
+    fullname: >-
+      Franca Molluzzo
+    bio: >-
+      Live & Online PT|| Mangio di gusto, mi alleno di brutto 📚 Il metodo Fit&Eat @librimondadori Ambassador @myproteinit Links utili👇🏼
+    location: "Italy"
+    followers: 105050
+    engagement: 332
+    commentsToLikes: 0.054487
+    id: ck5pwspl7oel10i11i931n1nk
+    verified: false
+    hashtags: "#mangiaresano, #ricetta, #fitgirl, #bodybuilding"
+  - username: "enzoasuni"
+    fullname: >-
+      Fiorenzo 🌹 Filters Creator
+    bio: >-
+      👉🏻Follow me to unlock my filters 📍Sardinia/ Milan🇮🇹 BCN🇪🇸 📼TIK TOK: enzoasuni 🌍 IT, ES , EN, FR Discover and shop my outfits on 21buttons👇🏻
+    location: "Italy"
+    followers: 39683
+    engagement: 455
+    commentsToLikes: 0.377372
+    id: ck9wehy4hkco80j787o45t015
+    verified: false
+    hashtags: "#ootdmenswear, #fashionnovapartner, #classymen, #classymenstyle"
   - username: "wemilano"
     fullname: >-
       WE MILANO
     bio: >-
-      Ⓜ️ Milano ⁣Urban Explorer 🍽 Food🔝Location 🛏 Hotel ✨Luxury 👉Founder @andrebolognese 👇👇👇👇👇👇
+      Ⓜ️ Milano ⁣Urban Explorer 🚹 Milano Google Local Guide 👇👇👇👇👇👇👇
     location: "Italy"
-    followers: 31346
-    engagement: 274
-    commentsToLikes: 0.019328
+    followers: 31170
+    engagement: 343
+    commentsToLikes: 0.013510
     id: ck0tv9gu6afy80i19wm9k7ixo
     verified: false
-    hashtags: "#milanotoday, #urbanlife, #milanocity, #milanodaclick"
-  - username: "mauropadula"
+    hashtags: "#visititaly, #milano, #milanodaclick, #milanocity"
+  - username: "katerynagryniukh"
     fullname: >-
-      Mauro Padula
+      Kateryna Gryniukh
     bio: >-
-      Daily journey - This is not my Portfolio 😋🍕🌈🌊 Knows good Food * (*and isn't afraid to eat)🍝🍴 #Photographer + #FoodStylist + #Cookbook Author
+      Finalist #masterchefitalia Info e collaborazioni : ⬇️⬇️⬇️ katerynagryniukh@gmail.com
     location: "Italy"
-    followers: 10576
-    engagement: 530
-    commentsToLikes: 0.018820
-    id: ck55nt8qi6xck0i113l36vxck
-    verified: false
-    hashtags: "#beardedchallenge, #eroticcomag, #thebeardedhomo, #selfie"
-  - username: "2foodfitlovers"
-    fullname: >-
-      Raf & Cate | food & fitness
-    bio: >-
-      ❤️ Trasmettiamo serenità sul cibo & fitness 🥜 Cuciniamo, ci alleniamo, recensiamo 📲 Rispondiamo ai DM 🎓 Dietista, Statistico 🍔 @italyfoodprnmilano
-    location: "Italy"
-    followers: 70547
-    engagement: 377
-    commentsToLikes: 0.025962
-    id: ck5buoasqi4tx0i11tde30ybh
-    verified: false
-    hashtags: "#crepes, #cannolosiciliano, #mangiaresano, #senzazucchero"
-  - username: "illtake.youthere"
-    fullname: >-
-      Laura Odo — Milan Food Blogger
-    bio: >-
-      🇮🇹 Best Milano Foods 📩 laura.odorisio@outlook.com 🍝 Food is a journey through Emotions, Art and History... enhance it by traveling! @laura.odo
-    location: "Italy"
-    followers: 6683
-    engagement: 605
-    commentsToLikes: 0.052989
-    id: ckap2qqekzwol0i78fxgpqhw2
-    verified: false
-    hashtags: "#agriturismovalsirino, #pandispagna, #nofingerschallenge, #fonzies"
-  - username: "le_tuse"
-    fullname: >-
-      S&B - Restaurants advisors
-    bio: >-
-      👭 2 friends based in Milan 🍝 food and wine lovers 🔎 looking for the best restaurants 📩 DM or EMAIL for collaborations
-    location: "Italy"
-    followers: 2741
-    engagement: 1456
-    commentsToLikes: 0.055835
-    id: ck8t2bb8jytr40j78rrl2ieuv
-    verified: false
-    hashtags: "#italianfood, #foodblog, #lunch, #food"
-  - username: "martiii_"
-    fullname: >-
-      𝑴𝒂𝒓𝒕𝒊𝒏𝒂 𝑺𝒂𝒍𝒂𝒕𝒕𝒊 🎀
-    bio: >-
-      ℳy 1:1 life with my iPhne 📍 ᴍɪʟᴀɴᴏ 💍#bridetobe 💄 Travels•Food•Lifestyle Ambassador @beatotemilano @mamma_milano https://bit.ly/3hZlnNL - Marncy15
-    location: "Italy"
-    followers: 22159
-    engagement: 434
-    commentsToLikes: 0.048883
-    id: ck8t2wpfl0zan0j78lnlmh03n
-    verified: false
-    hashtags: "#follow, #toscana, #italiangirls, #summer"
-  - username: "seveasc"
-    fullname: >-
-      SeveAsc
-    bio: >-
-      🔘NAPLES,ITALY 🇮🇹.#naples
-    location: "Italy"
-    followers: 17931
-    engagement: 261
-    commentsToLikes: 0.064952
-    id: ck8t9lhm8oj880j78v604hpyn
-    verified: false
-    hashtags: "#milano, #gym, #out, #like4likes"
+    followers: 80571
+    engagement: 112
+    commentsToLikes: 0.046549
+    id: ck5c15lr7uieb0i11grd9iyyz
+    verified: true
+    hashtags: "#cibo, #art, #italy, #thebestchef"
 ---

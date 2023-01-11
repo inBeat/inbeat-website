@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Belgium in 2023
+title: Top 10 Lifestyle Instagram Influencers In Belgium In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Belgium in 2023. Most popular hashtags: #ootd #fashion #collab #belgianblogger.
+  Find top lifestyle Instagram influencers in Belgium in 2023. Most popular hashtags: #fashionblogger #fashion #ootdfashion.
 platform: Instagram
-hits: 99
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 99 Instagram influencers like this in Belgium for you to collaborate.
+hits: 43
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 43 Instagram influencers like this in Belgium for you to work with.
 profiles:
-  - username: "keyshla.journal"
+  - username: "re.becc.a"
     fullname: >-
-      𝕂𝕖𝕪𝕤𝕙𝕝𝕒 𝕄𝕒𝕣𝕚𝕖 🌙
+      REBECCA DE WEERDT  🤍
     bio: >-
-      🌍 Lifestyle |🍃 Montessori |✨ Minimalist From🇵🇷 to 🇰🇷, and now in 🇧🇪 💌 keyshla.matos@gmail.com #keyshlajournal #compartiendomistruquitos
+      Belgium | Fashion & lifestyle Bookings & social media inquiries - mail me ✉️ rebeccadw@skynet.be BE 0787.592.191
     location: "Belgium"
-    followers: 7282
-    engagement: 1447
-    commentsToLikes: 0.250391
-    id: ckap4okbe86ek0i78wklwhx15
+    followers: 11026
+    engagement: 1129
+    commentsToLikes: 0.392103
+    id: ck9haydsnekwm0j783ghxdhlu
     verified: false
-    hashtags: "#momblogger, #boricua, #puertorico, #belgica"
+    hashtags: "#discoverunder10k, #ootdfashion, #instaootd, #summeraesthetic"
   - username: "statiana.model"
     fullname: >-
       Tatiana🎀
     bio: >-
-      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 22 Years 📍 Brussels
+      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 23 Years 📍 Brussels
     location: "Belgium"
-    followers: 44330
-    engagement: 730
-    commentsToLikes: 0.052326
+    followers: 46012
+    engagement: 682
+    commentsToLikes: 0.041315
     id: ck8sxaggdgot90j78p5x5ww8u
     verified: false
-    hashtags: "#autoportrait, #redhair, #blackandwhite, #video"
-  - username: "julietteandrien"
+    hashtags: "#sun, #sexy, #peach, #tuesday"
+  - username: "hi.itsjolienn"
     fullname: >-
-      𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞, 𝐥𝐨𝐯𝐞, 𝐟𝐚𝐬𝐡𝐢𝐨𝐧
+      JOLIEN ✌🏻
     bio: >-
-      ⚡️Content creator - Lifestyle & Fasion ⚡️Located in Liege , Be ⚡️Community Manager ⚡️Collab julietteandrieninsta@gmail.com
+      💗 fashion - beauty - lifestyle content 🙋🏻‍♀️ psychology student @ugent 📍 Gent - Wevelgem 💬 itsjolienn@gmail.com
     location: "Belgium"
-    followers: 10923
-    engagement: 915
-    commentsToLikes: 0.265501
-    id: ckaovf8el4ctt0i78gdrydbpu
+    followers: 10179
+    engagement: 722
+    commentsToLikes: 0.132551
+    id: ck5hhlx278wrn0i11oms8mi5w
     verified: false
-    hashtags: "#pandoragift, #pandorastyle, #livia, #discoveryoursmile"
+    hashtags: "#ad, #letsgreentheplanet, #myjewellerybelgium, #myjewellery"
   - username: "celinemaufor"
     fullname: >-
       Céline Maufor
     bio: >-
-      •Brussels •Physiotherapist •Fashion, food and lifestyle •mauforceline@hotmail.com/DM
+      •Brussels •Fashion, food and lifestyle •Vinted:mauforceline •mauforceline@hotmail.com/DM
     location: "Belgium"
-    followers: 14387
-    engagement: 763
-    commentsToLikes: 0.223188
+    followers: 13541
+    engagement: 497
+    commentsToLikes: 0.209256
     id: ck14gsa5r6rv10i198hq8u1pl
     verified: false
-    hashtags: "#brussels, #fashion, #giveaway, #contest"
-  - username: "miss_k_510"
+    hashtags: "#ootd, #contest, #giveaway, #explore"
+  - username: "xzoelucas"
     fullname: >-
-      🎀 The World Of Miss K 🎀
+      Zoë Lucas
     bio: >-
-      💝 Kristina 💝 📸 Life-Moments:fashion • beauty • lifestyle 📩 collab: info.missk510@gmail.com / dm 💖 Proud mom of two ⠀
+      ♡ 24Y ♡ belgium ♡ fashion,lifestyle and more ♡ horeca @bistrobar_koninckshof ♡ for collabs DM or mail ♡ Zoe.lucas97@hotmail.com
     location: "Belgium"
-    followers: 19970
-    engagement: 452
-    commentsToLikes: 0.139177
-    id: ck136f5sx66x20i195e46bvsv
+    followers: 10908
+    engagement: 356
+    commentsToLikes: 0.068277
+    id: ck9hbe12ugett0j78lvofj2sg
     verified: false
-    hashtags: "#ootd, #autumnstyle, #lifestyle, #outfitideas"
-  - username: "brittboeckx"
+    hashtags: "#stylegram, #stylespo, #fashioninspo, #ootdmagazine"
+  - username: "eliengrosemans"
     fullname: >-
-      BRITT BOECKX
+      Elien Grosemans
     bio: >-
-      👝Fashion|Beauty|Lifestyle 🌞Spread positivity. 👼🏼Say hi: brittboeckx2000@gmail.com
+      📸 Belgian Content Creator 💄 Fashion, Beauty & Lifestyle 💌 Collab? Hit the e-mail button
     location: "Belgium"
-    followers: 2845
-    engagement: 1477
-    commentsToLikes: 0.163489
-    id: ckaox6pupc0vc0i787o7p293l
+    followers: 26678
+    engagement: 192
+    commentsToLikes: 0.037558
+    id: ck136f5l466vt0i19gu5wjctb
     verified: false
-    hashtags: "#royalglamcollection, #safirashine, #girlsgoneloavies, #ixxxijewelry"
-  - username: "jeremy.caira"
+    hashtags: "#anno1892, #virtualreception, #spashower, #noreception"
+  - username: "lafilleagateaux"
     fullname: >-
-      Jeremy Caira
+      Kristel - Travel Blogger
     bio: >-
-      👤 Digital Influencer 📷 Model 🌍 TRAVEL • LIFESTYLE • FASHION • DECO ✉ Business or Collaboration : DM or Jeremy.caira@live.be
+      Travel, lifestyle & food blogger 🌍 Content Creator | Story Teller | 📍Bxl but wanderlust spirit 🗺 Spending summer in #italy
     location: "Belgium"
-    followers: 42593
-    engagement: 291
-    commentsToLikes: 0.054902
-    id: ck55ppy3wb47l0i11kufwus8h
+    followers: 33641
+    engagement: 254
+    commentsToLikes: 0.035338
+    id: ck13anyz9rbif0i198idr8gqq
     verified: false
-    hashtags: "#male, #inspiration, #fashionstyle, #menstyle"
-  - username: "laura.oliveiragranja"
+    hashtags: "#shein, #food, #cotebelge, #brussels"
+  - username: "valentinbruneau"
     fullname: >-
-      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
+      Valentin bruneau
     bio: >-
-      ☆ 26 ∣ Antwerp ‣ Model ∣ Content Creator ♡ Fashion - Fitness - Lifestyle @qntsportnutrition 20 % off | LAURA20 𝗠𝗶𝘀𝘀 𝗦𝗽𝗼𝗿𝘁 2019 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗤𝘂𝗲𝗲𝗻𝘀 2018
+      🌍 Fashion for men | Lifestyle 📍 Brussels, Belgium 📬 valentin_bruneau@hotmail.com 📸 @vbr.pictures
     location: "Belgium"
-    followers: 17432
-    engagement: 458
-    commentsToLikes: 0.122512
-    id: ck6txv5tn019a0j71dktpndhx
+    followers: 39103
+    engagement: 281
+    commentsToLikes: 0.102925
+    id: ck0w6zn3mb0xk0i1935o5l4v1
     verified: false
-    hashtags: "#fashionist, #stevemaddeneu, #stevemaddenboots, #casual"
-  - username: "debruyker.celia"
+    hashtags: "#streetphotography, #laboutiqueofficielle, #outfitideas, #streetwear"
+  - username: "annabelpesant"
     fullname: >-
-      Célia DE BRUYKER
+      Annabel
     bio: >-
-      ◾️Creative Lifestyle Content Creator ◽️Positivity and awareness 💭Inspired posts: #makeitlikece
+      Fashion and lifestyle blogger/ content creator 💌 info@annabelpesant.com 📍Antwerp (Belgium) 📸 Founder @authentic__tales
     location: "Belgium"
-    followers: 24017
-    engagement: 358
-    commentsToLikes: 0.187244
-    id: ckaoypkujiie90i78hfigdh1p
+    followers: 131016
+    engagement: 108
+    commentsToLikes: 0.031808
+    id: ck14gwhy27dp10i19dzj95sy7
     verified: false
-    hashtags: "#sonicescapes, #queensofhalloween, #huaweifreebudspro, #ad"
-  - username: "yasminevandenmeersch"
+    hashtags: "#glamiradiamonds, #hutch, #engagement, #omoda"
+  - username: "ahmed44photography"
     fullname: >-
-      YASMINE | Lifestyle & mindset
+      Ahmed Al Maawali
     bio: >-
-      22 | BE ✨🍂 📖 Bookworm & working @standaardgeraardsbergen 📖 Helping people achieve a healthier lifestyle and mindset. 🧡 @thehealthyenvelope 📨
+      #Equestrian & #lifestyle #Photographer 📸 🌎 👻 : alm3wali.44 Rider 🐎 Personal account : @ahmed44phy
     location: "Belgium"
-    followers: 4462
-    engagement: 1983
-    commentsToLikes: 0.266881
-    id: ck5cdpth1jklb0i11zszmk5lx
+    followers: 14486
+    engagement: 1117
+    commentsToLikes: 0.008247
+    id: ck5bt6xcyffwv0i11vpp6fauw
     verified: false
-    hashtags: "#belgianblogger, #outfitoftheday, #outfitinspiration, #ghent"
+    hashtags: "#showjumpingphotography, #trot, #gallop, #showjumpingedit"
 ---

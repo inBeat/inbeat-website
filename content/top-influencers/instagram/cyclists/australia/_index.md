@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Australia in 2023
+title: Top 10 Cyclists Instagram Influencers In Australia In 2023
 description: >-
-  Find top cyclists Instagram influencers in Australia in 2023. Most popular hashtags: #offseason #cycling #foodie.
+  Find top cyclists Instagram influencers in Australia in 2023. Most popular hashtags: #cycling #cyclinglife #racing.
 platform: Instagram
-hits: 34
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 34 Instagram influencers like this in Australia for you to collaborate.
+hits: 20
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 20 Instagram influencers like this in Australia for you to connect with.
 profiles:
   - username: "pavel_sivakov"
     fullname: >-
       Pavel Sivakov
     bio: >-
-      Cyclist | @ineosgrenadiers
+      Cyclist | @ineosgrenadiers Represented by @squadrasportsmanagement
     location: "Australia"
-    followers: 33459
-    engagement: 1145
-    commentsToLikes: 0.009530
+    followers: 33533
+    engagement: 1258
+    commentsToLikes: 0.009257
     id: ck0w1fj6fj3550i19r26egy7z
     verified: false
     hashtags: ""
-  - username: "_michael.schwarzmann_"
+  - username: "calebewan"
     fullname: >-
-      Michael Schwarzmann
+      Caleb Ewan
     bio: >-
-      Professional Cyclist @BORAhansgrohe 🇩🇪 🇦🇹
+      Australian Professional cyclist for Lotto-Soudal Monaco Management: signaturesport.com.au
     location: "Australia"
-    followers: 7567
-    engagement: 1348
-    commentsToLikes: 0.006656
-    id: ck5qa7uacezzg0i11vnw7ah0h
+    followers: 137125
+    engagement: 633
+    commentsToLikes: 0.005029
+    id: ck0vwfldrtgcs0i19jz0fuofi
     verified: false
-    hashtags: "#bora, #hansgrohe, #autoeder, #sportful"
-  - username: "sammmyben"
-    fullname: >-
-      sam bennett
-    bio: >-
-      Professional Irish cyclist 30 Riding for @deceuninck_quickstepteam 📍Monaco
-    location: "Australia"
-    followers: 110192
-    engagement: 683
-    commentsToLikes: 0.005894
-    id: ck0tvggc6b8to0i193no7k5c2
-    verified: true
-    hashtags: "#flashbackfriday, #stayhome, #staysafe, #webeatthistogether"
+    hashtags: ""
   - username: "shannonmccurley_"
     fullname: >-
       Shannon McCurley             🦦
     bio: >-
-      Aussie made from Irish products☘️ Olympian🇮🇪 Melb|Track cyclist|Cookie connoisseur Bikes, beaches and a cheeky bit of banter
+      Aussie made from Irish products☘️ Olympian🇮🇪 Melb|Track cyclist|Sweetest tooth🍩 Bikes, beaches and a cheeky bit of banter
     location: "Australia"
-    followers: 27126
-    engagement: 476
-    commentsToLikes: 0.006591
+    followers: 27048
+    engagement: 583
+    commentsToLikes: 0.007596
     id: ck5c1qimsvpwv0i11pfzvb53t
     verified: true
-    hashtags: "#hbmolly, #isothings, #tanlinesarein, #getoffthebrakes"
-  - username: "fablienhard"
-    fullname: >-
-      Fabian Lienhard
-    bio: >-
-      🇨🇭cyclist for @equipegroupamafdj
-    location: "Australia"
-    followers: 2590
-    engagement: 1709
-    commentsToLikes: 0.020621
-    id: ck5zrxr41xg7f0i14uwejdctz
-    verified: false
-    hashtags: "#euroroad20, #happynewyear, #hungryformore, #chunntschoguet"
-  - username: "robbiemcewen"
-    fullname: >-
-      Robbie McEwen AM
-    bio: >-
-      Retired pro cyclist, commentator, event organiser, custom kit provider, MC, speaker, café owner. Just hobbies really
-    location: "Australia"
-    followers: 21150
-    engagement: 311
-    commentsToLikes: 0.033338
-    id: ck5c8oa4i9wjw0i11fd45zunx
-    verified: false
-    hashtags: "#repost, #majoreventsgoldcoast, #playgoldcoast, #hydration"
-  - username: "tiffanycromwell"
-    fullname: >-
-      Tiffany Cromwell
-    bio: >-
-      🇦🇺| Aussie Professional Cyclist @wmncycling // 🚴🏼‍♀️🌏 Managed by @bespoke_m 👩🏼‍💻 // Coffee + Brunch Connoisseur + World Traveller
-    location: "Australia"
-    followers: 105960
-    engagement: 487
-    commentsToLikes: 0.005687
-    id: ck135of7m2fa20i198ujnk2ei
-    verified: true
-    hashtags: "#belgiumclassics, #racing, #fromwhereiride, #springclassics"
+    hashtags: "#incomeprotectionforcyclists, #lovemeloveyou, #ridelikeagirl, #ride100percent"
   - username: "nettieedmo"
     fullname: >-
       Annette Edmondson
     bio: >-
       Aussie Cyclist 3xWorld Champion🌈 Olympic Medallist 2xCommonwealth Champ
     location: "Australia"
-    followers: 36180
-    engagement: 298
-    commentsToLikes: 0.009435
+    followers: 36265
+    engagement: 456
+    commentsToLikes: 0.009657
     id: ckap5vk1wdclo0i78m2iveqi6
     verified: true
-    hashtags: "#cervelos5, #sasuperseries, #virtualrideforsickkids, #superseries"
-  - username: "chefjasonroberts"
+    hashtags: "#mtbuffalo, #summer, #roadnats2021, #youbeauty"
+  - username: "georgiabaker_"
     fullname: >-
-      Jason Roberts
+      Georgia Baker
     bio: >-
-      Chef | Cyclist | Author USA Chef Cycle 2023 #NoKidHungry ♡ life + people ✨ @gdayneighbour 🚴🏼‍♂️ @novebikes
+      aussie cyclist olympian & world champ
     location: "Australia"
-    followers: 65889
-    engagement: 50
-    commentsToLikes: 0.120084
-    id: ck0tyaf4om5k30i19il0gzt77
+    followers: 5641
+    engagement: 775
+    commentsToLikes: 0.013794
+    id: ck15r4cgs630z0i19tqwt9m63
     verified: true
-    hashtags: "#igtv, #ceramics, #chef, #chefjasonroberts"
+    hashtags: "#5years, #isthisreallife, #challengeaccepted, #hbdnic"
   - username: "rohandennis"
     fullname: >-
       Rohan Dennis
     bio: >-
-      Adelaide born, Australian cyclist living in Andorra #buymymerch #jokesdonthaveanymerch #hitthatnotificationbell . . .
+      Adelaide born, Australian cyclist living in Andorra
     location: "Australia"
-    followers: 87430
-    engagement: 375
-    commentsToLikes: 0.015084
+    followers: 108116
+    engagement: 475
+    commentsToLikes: 0.010547
     id: ck55p0b1a9j8b0i11ugzoil5s
     verified: true
-    hashtags: "#quarantine, #covid, #covid19, #washyourbike"
+    hashtags: "#didnthit80, #minicooper, #blackmambaforever, #hesfine"
+  - username: "jambi_jambi"
+    fullname: >-
+      Big Drop Jambz
+    bio: >-
+      🔪 J͎O͎R͎J͎A 🔪 Adventure cyclist Big small business owner at @jambz_distribution Ride with 💀 @wtf.gravel.team Event - @superjambogrompre
+    location: "Australia"
+    followers: 15007
+    engagement: 491
+    commentsToLikes: 0.031587
+    id: ck0vzcwk08h4k0i19qt1lhvwg
+    verified: false
+    hashtags: "#newbikeweek, #shesnice, #ombraz, #vanlife"
+  - username: "bikebug2019"
+    fullname: >-
+      Lulu
+    bio: >-
+      My motto is “Rider’s Ride”. I’m a passionate cyclist from Adelaide, South Australia 🇦🇺 who travels the world to cycle 🚴🏻‍♂️ + a dedicated yogi. 🧘‍♂️
+    location: "Australia"
+    followers: 24500
+    engagement: 196
+    commentsToLikes: 0.016452
+    id: ck5zumr7s2ntg0i143lfdf2am
+    verified: false
+    hashtags: "#roadbike, #switchbacks, #travelbybike, #womenridebikes"
+  - username: "tiffanycromwell"
+    fullname: >-
+      Tiffany Cromwell
+    bio: >-
+      🇦🇺| Aussie Professional Cyclist @wmncycling // 🚴🏼‍♀️🌏 Managed by @bespoke_m 👩🏼‍💻 // Coffee + Brunch Connoisseur + World Traveller
+    location: "Australia"
+    followers: 109935
+    engagement: 506
+    commentsToLikes: 0.005702
+    id: ck135of7m2fa20i198ujnk2ei
+    verified: true
+    hashtags: "#trainingcamp, #fortheloveofsport, #finland, #offseason"
+  - username: "_leeturner"
+    fullname: >-
+      Lee “Hollywood” Turner 💥
+    bio: >-
+      💥MC / Host / Commentator 💥Giant Bicycles 💥Bicycle Aust Magazine 💥Shimano 💥Planex 💥BIcycle Network Ride Leader 💥Stitch & Dart 💥SKCC
+    location: "Australia"
+    followers: 27483
+    engagement: 474
+    commentsToLikes: 0.036396
+    id: ck15r48tk62i80i193img89ut
+    verified: false
+    hashtags: "#cadex, #fromwhereweride, #srm, #ridegiant"
 ---

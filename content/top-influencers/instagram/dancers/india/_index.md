@@ -1,72 +1,60 @@
 ---
-title: Top 10 Dancers Instagram Influencers In India in 2023
+title: Top 10 Dancers Instagram Influencers In India In 2023
 description: >-
-  Find top dancers Instagram influencers in India in 2023. Most popular hashtags: #dance #reels #love.
+  Find top dancers Instagram influencers in India in 2023. Most popular hashtags: #reels #reelitfeelit #reelkarofeelkaro.
 platform: Instagram
-hits: 1244
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 1244 Instagram influencers like this in India for you to connect with.
+hits: 1204
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database holds 1204 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "kiransolanki141"
+  - username: "gwendancer01"
     fullname: >-
-      Kiran Solanki
-    bio: >-
       Dancer
-    location: "India"
-    followers: 5411
-    engagement: 11641
-    commentsToLikes: 0.098547
-    id: ck15qjzxy37r10i19rpayvm1w
-    verified: false
-    hashtags: "#battle, #tutting, #staysafeeveryone, #explore"
-  - username: "tanurawat33"
-    fullname: >-
-      TANU RAWAT🔥
     bio: >-
-      📥 DM FOR PAID COLLABS & PROMOTIONS Actor ⚫️ Dancer 💃 Hip-Hop 🤙 31/12 🎂 👇Click Here👇
+      #crazyfordance #dancer💃 #dancelover
     location: "India"
-    followers: 90471
-    engagement: 975
-    commentsToLikes: 0.040257
-    id: ckap71v2hia330i78cjajxfpf
+    followers: 8312
+    engagement: 193
+    commentsToLikes: 0.064726
+    id: ck9wp3j8y7nbw0j78m30ryd3h
     verified: false
-    hashtags: "#tanurawat33, #tanurarat33, #tanurawat"
-  - username: "satakshibanerjee"
+    hashtags: "#reels, #reelitfeelit, #bhojpuriya, #reelkarofeelkaro"
+  - username: "sona_dey_official"
     fullname: >-
-      Satakshi Banerjee
+      Sona Dey
     bio: >-
-      Cinephile, writer, stray animal lover, dancer and a boring teacher! 🙄
+      Actor | Model | Dancer Work Hard Until Your Signature Turns to Autograph💫😊 - Any Queries - 6232770057
     location: "India"
-    followers: 16879
-    engagement: 1255
-    commentsToLikes: 0.062918
-    id: ck8tdr1pl4gmo0j7893pkdtlo
+    followers: 4450436
+    engagement: 446
+    commentsToLikes: 0.019763
+    id: ck9hcqspvmm3j0j78190rorkp
     verified: false
-    hashtags: ""
-  - username: "amardeep_sahani_official"
+    hashtags: "#viral, #trending, #reels, #padmavati"
+  - username: "becheekha"
     fullname: >-
-      A M A R D E E P 
+      Muhammad Diligent Blesslee
     bio: >-
-      Artist | Dancer
+      #SINGER 🎶 #DANCER 🕺 #ACTOR 🎭 #Youtube 840K🎬 #Biggboss Season 4 RunnerUp✌🏼 Manager : @_.am._nimya_.sn._ Business: @akhil_cj8
     location: "India"
-    followers: 5592
-    engagement: 2387
-    commentsToLikes: 0.074382
-    id: ck15precaza1z0i19hh0yl227
+    followers: 602602
+    engagement: 3922
+    commentsToLikes: 0.012958
+    id: ck6ugybcg5w2g0j713qomb4hz
     verified: false
-    hashtags: "#rr310, #bmw, #bike, #amardeep"
-  - username: "paridhiofficial"
+    hashtags: "#blesslee, #becheekha, #biggbossmalayalam, #cyberpunk"
+  - username: "norafatehi"
     fullname: >-
-      Paridhi Sharma
+      Nora Fatehi
     bio: >-
-      Actor, Dancer,Producer,Creator and a Dreamer.
+      Actress|Performer|Singer|Self taught dancer|Producer| mv director❤️🇨🇦🇲🇦🇮🇳
     location: "India"
-    followers: 367706
-    engagement: 1142
-    commentsToLikes: 0.024938
-    id: ck0w74ahybolq0i191ubhwx45
+    followers: 43717689
+    engagement: 156
+    commentsToLikes: 0.004918
+    id: ck0twqbkigeow0i193k3oz5ni
     verified: true
-    hashtags: "#life, #jeenekeliye, #music, #motivationalsong"
+    hashtags: "#cosmopolitanindia, #cosmoindiacoverstar, #dirtylittlesecret, #cosmoindiacover"
   - username: "shakibshajareh"
     fullname: >-
       Shakib Shajareh
@@ -74,57 +62,69 @@ profiles:
       Studied #performance at #Wollongong University "#Actor""Piano player" "singer" "salsa dancer" "#Actor_Researcher" "#EMIMTRA_Method"
     location: "India"
     followers: 36073
-    engagement: 1320
-    commentsToLikes: 0.041679
+    engagement: 1238
+    commentsToLikes: 0.057398
     id: ck6u4x0jd69rw0j71bm78gj3j
     verified: false
-    hashtags: "#fever, #moonlightsonata, #shakibshajareh, #starry"
-  - username: "karekarchirag_"
+    hashtags: "#shakibshajareh, #actor, #acting, #emimtra"
+  - username: "nickbencivengo"
     fullname: >-
-      ♠️CHIRAG KAREKAR♠️
+      nick
     bio: >-
-      OFFICAL ACCOUNT♠️ 17/ Mumbai|India •Dancer• Influencer• Creator |DM/ MAIL FOR PAID PROMOTIONS AND COLLAB| <Managed By: @mahgram_media_networks >
+      dancer/actor tiktok- 3.7m contact- nickybencivengo@yahoo.com ❤️‍🔥
     location: "India"
-    followers: 13239
-    engagement: 6762
-    commentsToLikes: 0.042649
-    id: ck9we74iiix3t0j78wzgalb20
+    followers: 455004
+    engagement: 2078
+    commentsToLikes: 0.020902
+    id: ck5pvg2d3hpjx0i11axuz1i0b
     verified: false
-    hashtags: "#casualstyle, #jeans, #jaw, #shirt"
-  - username: "aamir__arab99"
+    hashtags: "#reels, #dkspartner, #welcomeback, #ad"
+  - username: "salma__rais"
     fullname: >-
-      (BATMAN)
+      SART
     bio: >-
-      22 | Dancer | YouTuber | #arabspartan | ‘MEET ME ON YOUTUBE 👇🏻
+      سلمى رايس ♾ A ball of energy 🕊 • Med student 🩺 • Dancer | Performer • Little actress | Short film producer First member of @ichtah Agency
     location: "India"
-    followers: 2213446
-    engagement: 719
-    commentsToLikes: 0.015514
-    id: ck0ty0vzal4xl0i19hg2iv8ha
+    followers: 67196
+    engagement: 687
+    commentsToLikes: 0.050597
+    id: ck5q6c1buws7v0i11zh56smzg
     verified: false
-    hashtags: "#alhamdulillahforeverything, #fambruharmy, #onemanarmy, #loveme"
-  - username: "mariandknight"
+    hashtags: "#conceptvideo, #dance, #art, #yrmonrouge"
+  - username: "chhaviverg"
     fullname: >-
-      Marianna🌛 Doctor, Phdc +
+      Chhavi Verg
     bio: >-
-      * Poet, Actor, Dancer * hobbies: 🎹 🎸 🎨 🤺🥋 * anime lover cosplay * Metalhead🤘 🇬🇷 25
+      👑Miss NJ USA 2017 | Miss USA 2017 1st RU 🙏🏽Indian Classical Dancer 🗣Speaker 🤓Life-long Learner EMAIL FOR BUSINESS INQUIRIES
     location: "India"
-    followers: 13928
-    engagement: 1555
-    commentsToLikes: 0.114743
-    id: ck8t2hf7kzifq0j78let6ej8t
-    verified: false
-    hashtags: "#redheadgirl, #nicorobinonepiece, #nicorobincosplay, #redheadforlife"
-  - username: "theakashthapa"
-    fullname: >-
-      Akash Thapa (iamhiphopkid)⚡️
-    bio: >-
-      📧 Mail for paid collaborations 💌 thapaakash227@gmail.com 🤩Super dancer chapter 2 finalist🤩 🎥Recent YouTube video👇🏻
-    location: "India"
-    followers: 216974
-    engagement: 1802
-    commentsToLikes: 0.020044
-    id: ck8wf20siezt10j78szn7mgip
+    followers: 166436
+    engagement: 628
+    commentsToLikes: 0.018475
+    id: ck0u68pdr19nt0i19941l6hjl
     verified: true
-    hashtags: "#contestalert, #bestivaldancechallenge, #oziva, #biotin"
+    hashtags: "#simonsaid, #foundatsimon, #ad, #grwm"
+  - username: "nikkitachadha"
+    fullname: >-
+      𝐍𝐈𝐊𝐊𝐈𝐓𝐀 𝐂𝐇𝐀𝐃𝐇𝐀
+    bio: >-
+      Actress | Dancer | Model⠀⠀⠀⠀⠀⠀ 🇮🇳 British Indian 📍 London, UK
+    location: "India"
+    followers: 28810
+    engagement: 489
+    commentsToLikes: 0.062852
+    id: ckap1aywrtszo0i78g3vkumbb
+    verified: false
+    hashtags: "#ad, #loccitane, #sundayfunday, #hudabeauty"
+  - username: "ritiksharmaofficial_"
+    fullname: >-
+      RITIK SHARMA
+    bio: >-
+      Engineer🔹Singer🔹Model State Chess Champ Professional Salsa Dancer Digital Marketer Verified Amazon Influencer 5'10 DEL 😎 🕉️Brahmin DM/MAIL for Collab
+    location: "India"
+    followers: 46731
+    engagement: 833
+    commentsToLikes: 0.088347
+    id: ckf5u6zrdjslq0j23ziwjqc7d
+    verified: false
+    hashtags: "#reelkarofeelkaro, #reelsvideo, #reelit, #reelitfeelit"
 ---

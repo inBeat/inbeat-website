@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Capetown in 2023
+title: Top 10 Fitness Instagram Influencers In Capetown In 2023
 description: >-
   Find top fitness Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #fitness #love.
 platform: Instagram
-hits: 39
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 39 Instagram influencers like this in Capetown, South Africa for you to collaborate.
+hits: 20
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 20 Instagram influencers like this in Capetown, South Africa for you to connect with.
 profiles:
-  - username: "shaunchadsmit"
+  - username: "chloegarner_athlete_"
     fullname: >-
-      Shaun Chad Smit
+      Chloe Garner
     bio: >-
-      🎞 writer. Editor. actor. Cape Town 🇿🇦
+      🏆2019 Long Drive World Champion 🏌️‍♀️PB 400 yards 🏋️‍♀️CrossFit Athlete and coach 💪Fitness coach 🇿🇦🏳️‍🌈
     location: "South Africa"
-    followers: 16151
-    engagement: 343
-    commentsToLikes: 0.058164
-    id: ck6tmhkx07v1k0j71w5qoesuf
+    followers: 6593
+    engagement: 309
+    commentsToLikes: 0.045084
+    id: ck0uawjczd9s10i19r45sm58j
     verified: false
-    hashtags: "#videography, #video, #bts, #beauty"
-  - username: "georgiacurtis"
+    hashtags: "#southfricansport, #athletictraining, #sportsworld, #southafrica"
+  - username: "chanellesoncini"
     fullname: >-
-      Georgia Amodu Curtis
+      ⚡️CHANELLE SONCINI⚡️
     bio: >-
-      Actor and Performing Artist. Free spirit 🔮 🇳🇬 🇪🇸 🇬🇧
+      SA Model 📍PTA/JHB🇿🇦 ▪️JHB: @bossmodelsjhb ▫️CPT: @thecirclemodels 📚BBA & BPhil Honours
     location: "South Africa"
-    followers: 17688
-    engagement: 637
-    commentsToLikes: 0.040855
-    id: ck5zup6ta2sdd0i14ve81z4f4
+    followers: 32003
+    engagement: 433
+    commentsToLikes: 0.232299
+    id: ck6u1whp5ob1o0j71gdgns6sx
     verified: false
-    hashtags: "#bostafftraining, #blackisking, #martialarts, #bostaff"
-  - username: "42jordanking"
+    hashtags: "#happyfriday, #model, #style, #chanellesoncini"
+  - username: "neyney_dj"
     fullname: >-
-      Jordan King
+      ℂ𝕙𝕒𝕣𝕟é 𝕕𝕖 𝕁𝕒𝕘𝕖𝕣
     bio: >-
-      Racing Driver - @teamlntginetta Driver Development and Coaching - @officialmpmotorsport - @fewkes_sport_management Part Time Athlete - @unbownd
+      Owner & founder of @be.the.goddess 🤍 BSocSciHons (Psychology)@sacap_sa🇿🇦 Not interested in NuSkin/Herbalife🚫
     location: "South Africa"
-    followers: 5845
-    engagement: 427
-    commentsToLikes: 0.010683
-    id: ck0w2xyhdqo6g0i19vnxx426m
-    verified: true
-    hashtags: "#endurance, #2019, #southafrica, #ginetta"
-  - username: "ryan_botha"
-    fullname: >-
-      RYAN BOTHA
-    bio: >-
-      ◾️Ex Pro Footballer◾️Owner & fitness coach @pointbreakcapetown ◾️ @bossmodelsa ◾️Scottish UEFA C Coach (busy with B)◾️Natures Nutrition ◾️Raw Sport
-    location: "South Africa"
-    followers: 22755
-    engagement: 208
-    commentsToLikes: 0.098487
-    id: ckaou91qxzcog0i78elrnpz2r
+    followers: 4479
+    engagement: 1191
+    commentsToLikes: 0.006126
+    id: ck14k6wwao1d50i195q33m50g
     verified: false
-    hashtags: "#tattoo, #instagood, #ink, #dog"
-  - username: "mattsiebert_"
+    hashtags: "#instamood, #memories, #smile, #girl"
+  - username: "coach__kelly_"
     fullname: >-
-      matt ♎
+      KellyAinsworth_Trainer
     bio: >-
-      •Creative direction ☕ •dm me⚡ •I like lifting weights 💪
+      🇿🇦SA Protea Athlete 👊🏻Personal Trainer 🌐Online Coach ❤Happily @nicholasrodrigues67 babygirl 🥰 🖤 Cat Mom 🤘🏻
     location: "South Africa"
-    followers: 20926
-    engagement: 270
-    commentsToLikes: 0.029038
-    id: ck5c9ayn2b41f0i1121cg4xum
+    followers: 16621
+    engagement: 281
+    commentsToLikes: 0.042246
+    id: ck5hf942lwdyb0i11oj3g0t9o
     verified: false
-    hashtags: "#travelphotography, #photooftheday, #portrait, #lifestyle"
+    hashtags: "#bestmemories, #girlswholift, #boyfriend, #sweatymess"
+  - username: "justvon09"
+    fullname: >-
+      Jóvan du Plessis
+    bio: >-
+      Cape Town | Nature | Outdoors Photography | Collabs | Content Other account: @jdupie09 📸🏔🐘🌄🐐🌜🦉🇿🇦
+    location: "South Africa"
+    followers: 9327
+    engagement: 571
+    commentsToLikes: 0.110165
+    id: ck6trhztnz3pc0j717pumpd6d
+    verified: false
+    hashtags: "#awesome, #fitness, #throwback, #outdoor"
+  - username: "saskiatopp"
+    fullname: >-
+      Saskia Jordyn Topp
+    bio: >-
+      I smile for a living.🌸 Model ~ Health & Fitness ~ Travel South African📍Chicago 🇺🇸 Select 🇿🇦Boss 🇩🇪PARS 🇬🇧MOT
+    location: "South Africa"
+    followers: 30712
+    engagement: 204
+    commentsToLikes: 0.054259
+    id: ck6u2s7s2tmls0j71eprx8zjp
+    verified: false
+    hashtags: "#capetown, #valentinesday, #chicago, #sunday"
   - username: "tracymcgregor"
     fullname: >-
       Tracy McGregor
     bio: >-
-      * DM for collabs * Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @
+      *DM for collabs* Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @bornthree
     location: "South Africa"
-    followers: 27278
-    engagement: 355
-    commentsToLikes: 0.162121
+    followers: 29622
+    engagement: 301
+    commentsToLikes: 0.218129
     id: ck6ue97chpjuk0j71p6xoc0mx
     verified: false
-    hashtags: "#capetown, #mom, #bornthree, #lifeisgood"
-  - username: "marcbuckner"
+    hashtags: "#blogger, #photographer, #mom, #picoftheday"
+  - username: "ryan_botha"
     fullname: >-
-      Marc Buckner
+      RYAN BOTHA
     bio: >-
-      Collaboration ▶️ marcbbuckner@yahoo.com 🐺Father to @lunaluludog 🏘Rental properties @capetownaccommodations
+      ◾️Ex Pro Footballer◾️Owner & fitness coach @rydafitnessct ◾️ @bossmodelsa ◾️Scottish UEFA C Coach (busy with B) ◾️ www.movementempire.com
     location: "South Africa"
-    followers: 105527
-    engagement: 464
-    commentsToLikes: 0.031676
-    id: ck5qeisvd0p580i11yvigwyqx
-    verified: true
-    hashtags: "#motivation, #chest, #work, #arms"
-  - username: "shawnee_reid"
-    fullname: >-
-      Shawnee Reid
-    bio: >-
-      Fitness|Funster|Businesswoman|God ✝️ Sub to my YT,click link⏬ Model @icemodelsjhb 🔸 @metalabofficial 📧shawnee@sreid.co.za LVW♥️
-    location: "South Africa"
-    followers: 30066
-    engagement: 422
-    commentsToLikes: 0.058248
-    id: ck15tn2y6iwd90i198x1nvvko
+    followers: 22831
+    engagement: 199
+    commentsToLikes: 0.057685
+    id: ckaou91qxzcog0i78elrnpz2r
     verified: false
-    hashtags: "#love, #clouds, #style, #outfit"
-  - username: "zandrijoubert"
+    hashtags: "#picoftheday, #smile, #training, #life"
+  - username: "magaramirezz"
     fullname: >-
-      Z A N D R I  J O U B E R T 📍🇿🇦
+      Maria Gabriela Ramirez ⚓️
     bio: >-
-      For His glory! 💗 - Go find your adventure today 💫 - Nature-loving | adventure-seeking | goal-driven - FITNESS | FOOD | LIFESTYLE - Yes, I TikTok 👇🏼
+      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
     location: "South Africa"
-    followers: 24169
-    engagement: 580
-    commentsToLikes: 0.008497
-    id: ckap8egwxnyss0i783o12c6p4
+    followers: 6782
+    engagement: 1415
+    commentsToLikes: 0.065761
+    id: ckap0qc7qrepz0i78yrvmaxt0
     verified: false
-    hashtags: "#gofindyouradventure, #wegotthis, #lockdown, #shootingrange"
-  - username: "natsfaydherbe96"
+    hashtags: "#losangeles, #beach, #milan, #shooting"
+  - username: "frema.mensah"
     fullname: >-
-      Nathalie Faydherbe
+      🇬🇭Frema Mensah🇬🇭
     bio: >-
-      📍CT🇿🇦🇿🇼soon🇦🇺 Health•Fitness•Lifestyle @waterfronttheatreschool Dancer/Teacher🩰 @etacapetown 🎓 💗@mattyg_wp SocialMediaManager @lifehealthsa @laluciec
+      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
     location: "South Africa"
-    followers: 10126
-    engagement: 1015
-    commentsToLikes: 0.028759
-    id: ck8t6fcp4dekb0j78r10bn6di
+    followers: 7981
+    engagement: 721
+    commentsToLikes: 0.085715
+    id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
-    hashtags: "#danceteacher, #daneswimwear, #ballerina, #nutrition"
+    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Poland in 2023
+title: Top 10 Barbers Instagram Influencers In Poland In 2023
 description: >-
-  Find top barbers Instagram influencers in Poland in 2023. Most popular hashtags: #barber #happy #black #polska.
+  Find top barbers Instagram influencers in Poland in 2023. Most popular hashtags: #polishboy #barber #warszawa #weekend.
 platform: Instagram
-hits: 34
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 34 Instagram influencers like this in Poland for you to collaborate.
+hits: 30
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 30 Instagram influencers like this in Poland for you to collaborate.
 profiles:
   - username: "den_cutting"
     fullname: >-
-      🦂 𝙈𝙧. 𝘾𝙪𝙩𝙩𝙞𝙣𝙜 🦂
+      𝗗𝗘𝗡𝗜𝗦 𝗡𝗔𝗥𝗬𝗞𝗢𝗩 🦂
     bio: >-
-      • BARBER - EDUCATOR - OWNER @cutting_club_pl • ACTOR - MODEL • AMBASSADOR @captainfawcett • TEAM @mansi_london
+      BARBER/EDUCATOR @razurabarbershop WWA AMBASSADOR @captainfawcett DRAMATIC ACTOR 🎭 MODEL 📷 JEDI 🌱 BUSINESS denis@midnightissue.com 📩
     location: "Poland"
-    followers: 87068
-    engagement: 407
-    commentsToLikes: 0.006228
+    followers: 93197
+    engagement: 463
+    commentsToLikes: 0.005628
     id: ck134f5o8w5ex0i194ryi1y8x
     verified: false
-    hashtags: "#portrait, #oldschool, #fitness, #traditionaltattoo"
+    hashtags: "#mensworld, #model, #mensfashionpost, #tattooer"
+  - username: "olie_siiz"
+    fullname: >-
+      ❈ 𝗢𝗹𝗶𝗲 𝗦𝗶𝗶𝘇 ❈
+    bio: >-
+      ❈ Tattoo in Warsaw ❈ ❈ My Atelier @siiz.atelier ❈ ❈ oliesiiztattoo@gmail.com ❈ @eternalink @barber_dts @balm_tattoo ❈ Private account @oliesiiz ❈
+    location: "Poland"
+    followers: 184307
+    engagement: 411
+    commentsToLikes: 0.007736
+    id: ck5hk68ahhv2w0i11f5wa2oqs
+    verified: false
+    hashtags: ""
   - username: "niester_house"
     fullname: >-
       𝐃𝐀𝐖𝐈𝐃 𝐍𝐈𝐄𝐒𝐓𝐄𝐑
     bio: >-
-      ▪️Beardmodel 🧔🏻 ▪️ Gdansk, Poland 🇵🇱 ▪️🖤🐶 @goldieretrevier ▪️Travel | Lifestyle | Fashion ▪️ dawidniester@gmail.com
+      ▪️Beardmodel 🧔🏻 ▪️ 👷🏼Gdansk, Poland 🇵🇱 ▪️🐶 @goldieretrevier ▪️Travel | Lifestyle | Fashion ▪️ dawidniester@gmail.com
     location: "Poland"
-    followers: 28228
-    engagement: 549
-    commentsToLikes: 0.029859
+    followers: 27423
+    engagement: 492
+    commentsToLikes: 0.019317
     id: ck14hsr1iby1d0i19pyo5k9au
     verified: false
-    hashtags: "#polskiech, #black, #pies, #wygoda"
+    hashtags: "#zdrowywybor, #mensfashion, #beard, #3city"
+  - username: "dream_chaser1986"
+    fullname: >-
+      Przemysław Błędowski
+    bio: >-
+      ℙ𝕤𝕖𝕦𝕕o Colab: p.bledowski13@gmail.com #aktor 🎥 #menager 📈 #inwestor 💰 #podróżnik 🌍 #gymfreak 🦸‍♀️
+    location: "Poland"
+    followers: 14324
+    engagement: 934
+    commentsToLikes: 0.051677
+    id: ck5cbluw0fp8n0i1147wtwce7
+    verified: false
+    hashtags: "#facet, #brodaty, #niedziela, #brodacz"
+  - username: "glodnyswiata"
+    fullname: >-
+      Filip Turowski | GłodnyŚwiata
+    bio: >-
+      Najsmaczniejszy blog o podróżach i jedzeniu | warsztaty i wyjazdy kulinarne | podróż dookoła świata 📍 Madera | 🌎 57 #glodniswiata
+    location: "Poland"
+    followers: 20343
+    engagement: 491
+    commentsToLikes: 0.057798
+    id: ck0ubgfr6ekly0i19t4yyriph
+    verified: false
+    hashtags: "#podr, #podroze, #malefashion, #traveltheworld"
+  - username: "szymanskimma"
+    fullname: >-
+      Roman Szymański
+    bio: >-
+      @ksw_mma fighter Record 11:4 Czerwony Smok MACACO🐒 Gold Team 👊 BJJ black belt🤙@mariuszlinke 🙏 Co-owner 👉 @fame_tattoo_ Co-owner 👉 @fametattoobarber
+    location: "Poland"
+    followers: 46210
+    engagement: 526
+    commentsToLikes: 0.009756
+    id: ck0u29adgzair0i19geh8v9pa
+    verified: false
+    hashtags: "#ksw, #tattoo, #mylife, #mma"
+  - username: "twm_czerwin"
+    fullname: >-
+      twm_czerwin™
+    bio: >-
+      ▪️BOOKING: @maciejszulce +48 519 301 907 ▪️MANAGEMENT: +48 508 535 302
+    location: "Poland"
+    followers: 8428
+    engagement: 876
+    commentsToLikes: 0.011225
+    id: ck5hp4eq9qqix0i11e51wsj5f
+    verified: false
+    hashtags: "#parkour, #ciemnastrefamixtape, #bonusrpk, #czerwin"
+  - username: "kuba.kowalewski"
+    fullname: >-
+      Jakub Kowalewski
+    bio: >-
+      ▫️Szczecinek, Poland ▫️@sklep.sfd ➡️ -10% kod: kowalewski10 ᴛᴀᴋᴇ ᴛʜᴇ ʀɪꜱᴋ ᴏʀ ʟᴏꜱᴇ ᴛʜᴇ ᴄʜᴀɴᴄᴇ
+    location: "Poland"
+    followers: 13807
+    engagement: 986
+    commentsToLikes: 0.022411
+    id: ckap7cy35jiwp0i78bkowazis
+    verified: false
+    hashtags: "#polishboy, #photoshoot, #koszalin, #wroclaw"
+  - username: "ireneusz_pochwala"
+    fullname: >-
+      Ireneusz Pochwała
+    bio: >-
+      💻 OWNER https://catering-pochwala.com/ 🥇 World champion 2020 Fit-Model Ambasador SOUVRE 💜
+    location: "Poland"
+    followers: 15800
+    engagement: 710
+    commentsToLikes: 0.029167
+    id: ck6tybtey2tgs0j71z4pl36nx
+    verified: false
+    hashtags: "#hair, #nice, #rozw, #gym"
   - username: "esey_o_silowni"
     fullname: >-
       Mateusz Kozłowski
     bio: >-
       Kierownik budowy, który wymyślił sobie, że będzie fit! 📧 eseyosilowni@gmail.com - „esey15” na @deadlift.company - „esey_fitmark” na @fitmark_polska _
     location: "Poland"
-    followers: 17273
-    engagement: 425
-    commentsToLikes: 0.017227
+    followers: 16448
+    engagement: 249
+    commentsToLikes: 0.020361
     id: ck6tx8dk6welf0j71dvkp0fym
     verified: false
-    hashtags: "#adopciak, #legalcakes, #oraz, #dom"
-  - username: "patka_korczynska"
-    fullname: >-
-      ⚜️PATRYCJA KORCZYŃSKA⚜️
-    bio: >-
-      🏡 Gliwice, SilesianGirl 🙋🏻‍♀️ Freelance model 🔊 Influencer 💁🏻‍♀️ Actress 📥 collaboration: patkakorczynska@icloud.com
-    location: "Poland"
-    followers: 48483
-    engagement: 298
-    commentsToLikes: 0.020533
-    id: ck5zqcaxjucdv0i14n1pwf8cc
-    verified: false
-    hashtags: "#krak, #gliwice, #fitgirl, #zag"
-  - username: "ljaypl"
-    fullname: >-
-      Mateusz LJay Wałowski
-    bio: >-
-      ► 💟 @akiri_chann ► 🐶 @kiara_gwiazdka_ ► 📦 https://sklepljay.pl ► 🎥 https://youtube.com/ljaypl ► ✉️ ljay@gethero.pl
-    location: "Poland"
-    followers: 112735
-    engagement: 655
-    commentsToLikes: 0.006961
-    id: ckap89yx1ngv50i78lluk0edo
-    verified: false
-    hashtags: "#couple, #dreamcar, #influencer, #mustang"
-  - username: "danielsicheneder"
-    fullname: >-
-      DANIEL SICHENEDER 🇩🇪🇨🇺🇩🇴
-    bio: >-
-      🍽 @restaurantrollingstone 👨🏼‍✈️ |#FitPilot 🤵| #Model | #Actor 🎬 🏖#lifestyle 🏝 🛫BORN TO FLY ☁️
-    location: "Poland"
-    followers: 17937
-    engagement: 456
-    commentsToLikes: 0.039403
-    id: ck5hskrzwwr1g0i11ukx4wj19
-    verified: false
-    hashtags: "#paradise, #motivation, #playa, #fit"
-  - username: "ojciecredaktor"
-    fullname: >-
-      Damian Michałowski
-    bio: >-
-      Radio ZET - Uważam ZET Dzień Dobry TVN 📍booking management maria@prokopstudio.pl 📍instagram kontakt@damianmichalowski.pl
-    location: "Poland"
-    followers: 29334
-    engagement: 442
-    commentsToLikes: 0.025120
-    id: ck6ts8oyx3cyr0j7155k2o18a
-    verified: false
-    hashtags: "#dziendobrytvn, #weekend, #rodzina, #morningshow"
-  - username: "kapitanbladii"
-    fullname: >-
-      Paweł Diduszko
-    bio: >-
-      Współpraca: kapitanbladii@gmail.com
-    location: "Poland"
-    followers: 64015
-    engagement: 866
-    commentsToLikes: 0.002530
-    id: ck14jf88kk16v0i196ogjit29
-    verified: false
-    hashtags: "#ramen, #wgorachjestwszystkocokocham, #go, #polskazachwyca"
-  - username: "ireneusz_pochwala"
-    fullname: >-
-      Ireneusz Pochwała
-    bio: >-
-      💻 OWNER https://catering-pochwala.com/ 🥇 Fit-model 2020 World Champion in Riga Ambasador SOUVRE 💜
-    location: "Poland"
-    followers: 13179
-    engagement: 730
-    commentsToLikes: 0.031329
-    id: ck6tybtey2tgs0j71z4pl36nx
-    verified: false
-    hashtags: "#cia, #body, #photography, #me"
-  - username: "przemyslaw_farbotko"
-    fullname: >-
-      Przemysław Farbotko
-    bio: >-
-      🥈WiceMistrz Polski 2019 🥇Kamienna Rzeźba 🥈Diamond Cup Katowice 🏆Top 5 Arnold Classic Europę 📌@BioTechUsa Athlete
-    location: "Poland"
-    followers: 25556
-    engagement: 305
-    commentsToLikes: 0.014122
-    id: ck6tybnay2sez0j71f4d5su4h
-    verified: false
-    hashtags: "#getmore, #holiday, #lodz, #tatto"
+    hashtags: "#engineers, #remontdomu, #kierownikbudowy, #wiosna"
 ---

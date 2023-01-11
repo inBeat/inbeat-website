@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Toronto in 2023
+title: Top 10 Gaming Instagram Influencers In Toronto In 2023
 description: >-
-  Find top gaming Instagram influencers in Toronto in 2023. Most popular hashtags: #gaming #instagood #love #gamer.
+  Find top gaming Instagram influencers in Toronto in 2023. Most popular hashtags: #gaming #toronto #pc #gamergirl.
 platform: Instagram
-hits: 9
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database holds 9 Instagram influencers like this in Toronto, Canada for you to work with.
+hits: 4
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 4 Instagram influencers like this in Toronto, Canada for you to pitch.
 profiles:
-  - username: "ashmacgames"
+  - username: "salernorealestate"
     fullname: >-
-      Ash Mac
+      Mark Salerno Real Estate
     bio: >-
-      🎮 Me play video game 🇨🇦 Toronto, Canada 🤓 Fortnite Code: ash_macc
+      Top 50 Ontario🇨🇦 R.E Broker Owner @SalernoRealtyInc Blogger & Podcaster 🏡 Husband & Father 🙎🏻‍♀️👧🏻👧🏻 Gaming & Sports 🎮 💯 #FirmFriday™️
     location: "Canada"
-    followers: 3991
-    engagement: 1626
-    commentsToLikes: 0.141668
-    id: ckapatraexfkc0i78nttlp8sm
+    followers: 152508
+    engagement: 192
+    commentsToLikes: 0.086331
+    id: ck0uefbhol7140i19z1v9hawp
     verified: false
-    hashtags: "#gamer, #gamerlife, #gamergirl, #girlgamer"
-  - username: "greenskull"
+    hashtags: "#realestate, #luxury, #forsale, #toronto"
+  - username: "torontoarrows"
     fullname: >-
-      Greenskull
+      Toronto Arrows
     bio: >-
-      Full-time content creator and video game guy from #Toronto. Currently addicted to: 😇 #Halo ☠️ #SeaofThieves
+      The official IG of the Toronto Arrows Rugby Football Club, Canada’s first professional rugby union team. The Arrows compete in @usmlr. #ArrowsUp
     location: "Canada"
-    followers: 9242
-    engagement: 322
-    commentsToLikes: 0.042062
-    id: ck14i3ib9dgj40i19l87ivx0j
+    followers: 18142
+    engagement: 189
+    commentsToLikes: 0.017426
+    id: ck6tzm67saiul0j71qxql5oc7
     verified: false
-    hashtags: "#halo, #ad, #gaming, #samsunginfluencer"
-  - username: "alexotos"
-    fullname: >-
-      Alexander
-    bio: >-
-      🇨🇦 Toronto Tech Enthusiast 💡 CAN’T SAY x @spacecables
-    location: "Canada"
-    followers: 45524
-    engagement: 579
-    commentsToLikes: 0.066010
-    id: ck0vxxr4219h00i19bhehj49d
-    verified: false
-    hashtags: "#mechanicalkeyboard, #pcmr, #artisankeycaps, #flatlay"
-  - username: "yudoart"
-    fullname: >-
-      Justin
-    bio: >-
-      I like to design stickers! Climbing ❤️ Toronto 🇨🇦 ⬇️ Online Shop + Links ⬇️
-    location: "Canada"
-    followers: 23568
-    engagement: 914
-    commentsToLikes: 0.015253
-    id: ck0u6dn231lee0i19icd9te81
-    verified: false
-    hashtags: "#drawtober, #adorable, #cuteartstyle, #vinylstickers"
-  - username: "sparklingwinos"
-    fullname: >-
-      Sparkling Winos
-    bio: >-
-      We're Mike & Jeff! 👋 WSET 3🏅 Two 👬's blogging about all things bubbly! 🍾 Follow us to learn all about sparkling wine! 🥂 Latest Blog Post! ⬇️
-    location: "Canada"
-    followers: 32801
-    engagement: 280
-    commentsToLikes: 0.133262
-    id: ck0u2kf4n03t50i199yna5am1
-    verified: false
-    hashtags: "#stayhome, #winetasting, #positivevibes, #spanishwine"
-  - username: "canada_drew"
-    fullname: >-
-      DREW BARSNESS
-    bio: >-
-      LIVE ON TWITCH AT 6pm everyday! Hamilton 🏡 TikTok: Canada_Drew ➡️650k Biz Email: Drewbarsness@viralnation.com ⬇️LIVE ON TWITCH⬇️
-    location: "Canada"
-    followers: 18251
-    engagement: 5647
-    commentsToLikes: 0.041370
-    id: ck5hgkixr39300i11jjvvlb3j
-    verified: false
-    hashtags: "#comedy, #minecraft, #cat, #comedymemes"
-  - username: "pogoshinyhunter"
-    fullname: >-
-      POGOShinyHunter
-    bio: >-
-      Hunting for the shundo dex ✨💯😍 Yes I spoof, get over it 😅 No I don’t want to trade.. Visit link for Spoofing info 👻
-    location: "Canada"
-    followers: 13496
-    engagement: 571
-    commentsToLikes: 0.017183
-    id: ck9hblp78he370j7879a9t55a
-    verified: false
-    hashtags: "#tutorials, #shinydunsparce, #pogonews, #throwbackchallenge"
+    hashtags: "#mlr2021, #linkinbio, #rugbyvideo, #majorleaguerugby"
   - username: "yandjii"
     fullname: >-
       YANDJI💋 (yan-gee)
     bio: >-
       ‘WAVY’ out on ALL platforms 💎 Your favourite trouble maker 😈 If not me, then who? Click below!
     location: "Canada"
-    followers: 12867
-    engagement: 1537
-    commentsToLikes: 0.076818
+    followers: 12450
+    engagement: 1608
+    commentsToLikes: 0.069798
     id: ckap5p95ocl1t0i78oxtkk7dh
     verified: false
-    hashtags: "#exploremore, #youtuber, #youtubechannel, #artist"
-  - username: "thaohuynhyt"
+    hashtags: "#music, #explorepage, #blackwoman, #exploremore"
+  - username: "amanda_cosco"
     fullname: >-
-      Thao Huynh
+      STARTUP MARKETING ADVISOR
     bio: >-
-      YouTube Creator •Tech Enthusiast •Dance & Positivity
+      • I help startups with branding, messaging & marketing so they can operate from a place of clarity & purpose 🚀🙏🏼⁣ • Founder @electric_runway ⚡️🧵
     location: "Canada"
-    followers: 12665
-    engagement: 1135
-    commentsToLikes: 0.038880
-    id: ck13bpj0kwjrx0i196tjt3yvt
+    followers: 9295
+    engagement: 89
+    commentsToLikes: 0.081283
+    id: ck55nc4o45w6q0i11top8bbj5
     verified: false
-    hashtags: "#beautiful, #smile, #pixel5, #life"
-  - username: "vampx13"
+    hashtags: "#marketing, #startup, #tiktok, #augmentedreality"
+  - username: "gakuspace"
     fullname: >-
-      Amanda McKnight
+      Gaku Space
     bio: >-
-      Host at Top 10 Nerd / Gaming. Renegade Games Enthusiast. Avid RPGr. Actress. Cosplay model. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
+      #genji in #overwatch @playoverwatch #gouki in #streetfighterassassinsfist ↓ Signed Merch Store www.gakuspace.com/store/ ↓ Youtube Gaming Channel
     location: "Canada"
-    followers: 13309
-    engagement: 1048
-    commentsToLikes: 0.027489
-    id: ck135cy580ug20i19ij2x33dw
+    followers: 90674
+    engagement: 1045
+    commentsToLikes: 0.020580
+    id: ck1349ph6vdts0i19q29nyl2j
+    verified: true
+    hashtags: "#gakuspace, #streetfighterassassinsfist, #gouki, #overwatch2"
+  - username: "setup_shortcut"
+    fullname: >-
+      Setup Shortcut | Gaming Setups
+    bio: >-
+      🌀 | Awesome #gamingsetups 📐 | PC Builder #pcbuilding 💎 | Goal 30K followers 👇 | Azza Pyramid Video
+    location: "Canada"
+    followers: 20516
+    engagement: 484
+    commentsToLikes: 0.030632
+    id: ck8t63qdfc5g60j78krx3d2rr
     verified: false
-    hashtags: "#dork, #catan, #staynerdy, #wearyourmask"
+    hashtags: "#setupsforgaming, #setuptour, #setups, #gamingsetup"
+  - username: "salernorealestate"
+    fullname: >-
+      Mark Salerno Real Estate
+    bio: >-
+      Top 50 Ontario🇨🇦 R.E Broker Owner @SalernoRealtyInc Blogger & Podcaster 🏡 Husband & Father 🙎🏻‍♀️👧🏻👧🏻 Gaming & Sports 🎮 💯 #FirmFriday™️
+    location: "Canada"
+    followers: 152508
+    engagement: 192
+    commentsToLikes: 0.086331
+    id: ck0uefbhol7140i19z1v9hawp
+    verified: false
+    hashtags: "#realestate, #luxury, #forsale, #toronto"
+  - username: "hai_yun2"
+    fullname: >-
+      ané 💫
+    bio: >-
+      🍳 I love making people happy 😊 🌱 streamer + cosplayer 🌼 twitch.tv/hai_yun 👋 business inquiries: email ⬇️
+    location: "Canada"
+    followers: 2747
+    engagement: 674
+    commentsToLikes: 0.032943
+    id: ckap0953xpas10i78j8rg9wn7
+    verified: false
+    hashtags: "#catgirl, #pcgaming, #noellegenshinimpact, #ffxivcosplay"
+  - username: "saven.art"
+    fullname: >-
+      🌙 A Dreamy Soul ⭐️
+    bio: >-
+      ✨Commissions : OPEN ✨SHOP: FEB 23 Update ✦ Catalog @savenartstudio ✦ Vancouver, 🇨🇦 ✧ Please DO NOT repost/ redraw without permission!
+    location: "Canada"
+    followers: 38775
+    engagement: 1406
+    commentsToLikes: 0.022763
+    id: ckaoz0ju3juoc0i783ism4lyv
+    verified: false
+    hashtags: "#dailyart, #originalartworks, #foodillustration, #japanesefood"
+  - username: "sikvsski"
+    fullname: >-
+      Tia || テイア
+    bio: >-
+      ɢɢ | ɢᴀᴍᴇʀ | ᴄᴀʀs | ᴀᴍʙɪᴀɴᴄᴇ ǫᴜᴇᴇɴ | ᴄᴀᴛ ᴍᴏᴍ | ᴍᴇʟᴏᴍᴀɴɪᴀᴄ 📍Calgary, Alberta🇨🇦
+    location: "Canada"
+    followers: 10407
+    engagement: 329
+    commentsToLikes: 0.066849
+    id: ckap2ixmqz1480i78tu1fxbjp
+    verified: false
+    hashtags: "#gamer, #gamin, #gamingaddict, #happy"
 ---

@@ -1,48 +1,60 @@
 ---
-title: Top 10 Models TikTok Influencers In Greece in 2023
+title: Top 10 Models TikTok Influencers In Greece In 2023
 description: >-
-  Find top models TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #model #fyp #viral.
+  Find top models TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #foryoupage #fyp #viral.
 platform: TikTok
-hits: 13
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 13 TikTok influencers like this in Greece for you to work with.
+hits: 14
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 14 TikTok influencers like this in Greece for you to contact.
 profiles:
-  - username: "venomfoxx"
-    fullname: >-
-      nelly🐉
-    bio: >-
-      Venom Föx 🦊 Leaguetok✨ ♉ 22 / 🇬🇷 Artist / Model / Gamer
-    location: "Greece"
-    followers: 48700
-    engagement: 1001
-    commentsToLikes: 0.027745
-    id: ckb9atelaw3sh0j236tyb5ru1
-    verified: false
-    hashtags: "#gamergirls, #lol, #gamers, #viral"
-  - username: "annahadjii"
-    fullname: >-
-      Anna Hadji🦋
-    bio: >-
-      Greece’s Next Top Model 2✌🏻 My ig: anna.hadjii My 👻: annahadjii
-    location: "Greece"
-    followers: 21900
-    engagement: 728
-    commentsToLikes: 0.013313
-    id: ckdbdzkws7db90j23do7cplnw
-    verified: false
-    hashtags: "#foryoupage, #shooting, #fun, #model"
   - username: "pavlos_terzopoulos"
     fullname: >-
       Pavlos terzopoulos
     bio: >-
       ⬆️Get my instagram ⬆️ Fitness Presenter Personal Trainer Model
     location: "Greece"
-    followers: 9283
-    engagement: 375
-    commentsToLikes: 0.008118
+    followers: 8965
+    engagement: 467
+    commentsToLikes: 0.007330
     id: ckb9d79340b4q0j23kpj3v9ib
     verified: false
-    hashtags: "#houseoftiktok, #fitness, #fitnessmotivation, #foryou"
+    hashtags: "#fy, #tiktoktraditions, #foryoupage, #houseoftiktok"
+  - username: "dimitra_alexandraki"
+    fullname: >-
+      Dimitra Alexandraki
+    bio: >-
+      Miss Greece 2010 Greece Next Top Model Happy Drama Queen
+    location: "Greece"
+    followers: 90800
+    engagement: 422
+    commentsToLikes: 0.004610
+    id: ck9go0w2gz3eo0j7833x51g38
+    verified: false
+    hashtags: "#greekseries, #alexandraki, #video, #mega"
+  - username: "annahadjii"
+    fullname: >-
+      Anna Hadji🦋
+    bio: >-
+      Greece’s Next Top Model 2✌🏻 My ig: anna.hadjii My 👻: annahadjii
+    location: "Greece"
+    followers: 25400
+    engagement: 820
+    commentsToLikes: 0.011685
+    id: ckdbdzkws7db90j23do7cplnw
+    verified: false
+    hashtags: "#viral, #foryou, #foryoupage, #fyp"
+  - username: "stevemilatos"
+    fullname: >-
+      Steve Milatos 🇬🇷
+    bio: >-
+      Model/Actor/ Presenter
+    location: "Greece"
+    followers: 3088
+    engagement: 330
+    commentsToLikes: 0.008229
+    id: ckauouc8ptwaa0j232hder0l6
+    verified: false
+    hashtags: "#couple, #dance, #tattoos, #greece"
   - username: "maria_and_alexandra"
     fullname: >-
       Maria & Alexandra🦋
@@ -50,81 +62,69 @@ profiles:
       Identical twins👯‍♀️models MariaAlexandraTwins@gmail.com Ig: maria_and_alexandra
     location: "Greece"
     followers: 2000000
-    engagement: 1165
-    commentsToLikes: 0.011488
+    engagement: 1193
+    commentsToLikes: 0.012485
     id: ck80of4mlhg1r0j786iaxr50w
     verified: true
-    hashtags: "#fy, #models, #quarantine, #foryou"
-  - username: "stevemilatos"
+    hashtags: "#foryou, #comedy, #model, #boredvibes"
+  - username: "venom.fox"
     fullname: >-
-      Steve Milatos 🇬🇷
+      nelly🍰
     bio: >-
-      
+      🐇girl in a bunny suit🐇 yeah I'm greek lol 22 I like anime, video games & kpop
     location: "Greece"
-    followers: 2101
-    engagement: 497
-    commentsToLikes: 0.012491
-    id: ckauouc8ptwaa0j232hder0l6
+    followers: 68200
+    engagement: 1070
+    commentsToLikes: 0.028488
+    id: ckb9atelaw3sh0j236tyb5ru1
     verified: false
-    hashtags: "#model, #inked, #greece, #style"
-  - username: "everyday__things"
-    fullname: >-
-      Everyday Things
-    bio: >-
-      Delighting in the ordinary everyday
-    location: "Greece"
-    followers: 20300
-    engagement: 690
-    commentsToLikes: 0.113689
-    id: ckbkul9qrpqhc0j23p9r7iuj9
-    verified: false
-    hashtags: "#machines, #nature, #lol, #newsreporter"
+    hashtags: "#greektiktok, #gamers, #leaguememes, #leaguetok"
   - username: "penyagorastou"
     fullname: >-
       Peny Agorastou
     bio: >-
       Actress
     location: "Greece"
-    followers: 41900
-    engagement: 1143
-    commentsToLikes: 0.011494
+    followers: 42300
+    engagement: 1149
+    commentsToLikes: 0.009657
     id: ckbko1yxdi77f0j238147o4n7
     verified: false
-    hashtags: "#greece, #summer, #fry, #tiktok"
-  - username: "katerina_kritikou"
+    hashtags: "#greece, #fry, #tiktok, #summer"
+  - username: "likebarbie16"
     fullname: >-
-      Katerina Kritikou
+      Sia
     bio: >-
-      👶🏼20 And Hellene🧿 #φαλαινακια 🐋🐳💙 INSTAGRAM——> @whothefuck.is.kat
+      🔥 You say I'm crazy but I feel amazing.!! 🔥 🇬🇷 🇷🇺 🇺🇦
     location: "Greece"
-    followers: 18000
-    engagement: 1072
-    commentsToLikes: 0.035899
-    id: ckb0m8v48cr020j23w9u05v3z
+    followers: 9685
+    engagement: 1109
+    commentsToLikes: 0.000000
+    id: ckd68r5273vrg0j23pz31ng96
     verified: false
-    hashtags: "#tiktokgreece, #greece, #feminism, #athens"
-  - username: "munda.gujrati"
-    fullname: >-
-      محسن گجر اوف گجرات
-    bio: >-
-      وَتُعِزُّ من تشاء وَتُذِلُّ من تشاء blood pakistani🦁🇵🇰live in greece 🇬🇷🦁
-    location: "Greece"
-    followers: 10900
-    engagement: 578
-    commentsToLikes: 0.019078
-    id: ckc1ltphfqiqo0j23w3la8yod
-    verified: false
-    hashtags: "#my, #athens, #greece, #viral"
+    hashtags: "#foryou, #foryoupage, #viral, #fyp"
   - username: "julia_kollia"
     fullname: >-
       juliakollia
     bio: >-
       Instagram @juliakollia
     location: "Greece"
-    followers: 5388
-    engagement: 426
-    commentsToLikes: 0.022678
+    followers: 5196
+    engagement: 424
+    commentsToLikes: 0.022023
     id: cka0mn0vjw34c0i78sne4ikpo
     verified: true
-    hashtags: "#likeme, #trendingcomedy, #trendy, #popularvideo"
+    hashtags: "#quarantinelife, #trendingcomedy, #popular, #bestestvideo"
+  - username: "evelynkazantzoglou"
+    fullname: >-
+      Evelyn Kazantzoglou
+    bio: >-
+      • Modeling since forever • Lifestyle/travel/fashion blog @queengr • Traveling
+    location: "Greece"
+    followers: 19800
+    engagement: 571
+    commentsToLikes: 0.012971
+    id: ckbkqu2yyl80g0j23cw87olwr
+    verified: true
+    hashtags: "#foryoupage, #foruyou, #foryou, #savage"
 ---

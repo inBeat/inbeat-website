@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Bali in 2023
+title: Top 10 Bloggers Instagram Influencers In Bali In 2023
 description: >-
-  Find top bloggers Instagram influencers in Bali in 2023. Most popular hashtags: #bali #baliindonesia #travelphotography #travelblogger.
+  Find top bloggers Instagram influencers in Bali in 2023. Most popular hashtags: #bali #travelphotography #ootd #indonesia.
 platform: Instagram
-hits: 46
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database holds 46 Instagram influencers like this in Bali, Indonesia for you to contact.
+hits: 29
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 29 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
-  - username: "nilla_listya"
+  - username: "queendeeianna"
     fullname: >-
-      NILLA | BALI TOUR GUIDE
+      queendeeianna
     bio: >-
-      📍 BALI 🇮🇩 ▪ Bali driver & Tour Guide ▪ Travel photography ▪ @nilla.presets ▪ @goadventurebali @goadventurebalitrip DM for Bali Trip 💌
+      Happily ever after🍒 lifestyle, fashion, beauty💟 🏆1st winner IMAE beauty vlogger 2018 “ZLRQUEEN” -22% + 10% on zalora 🎬YOUTUBE CHANNEL : queen deeianna
     location: "Indonesia"
-    followers: 12428
-    engagement: 722
-    commentsToLikes: 0.033670
-    id: ck0w6fzis8dvn0i197agopsti
+    followers: 249253
+    engagement: 108
+    commentsToLikes: 0.015106
+    id: ck6ud2k23ir7c0j712yyo4a5b
     verified: false
-    hashtags: "#influencers, #influencer, #summer, #travel"
+    hashtags: "#ootd, #travelphotography, #paradiseisland, #ryoureadytoplay"
+  - username: "itsswetab"
+    fullname: >-
+      𝓢𝔀𝓮𝓽𝓪 ♥ 𝓽𝓻𝓪𝓿𝓮𝓵 & 𝓼𝓽𝔂𝓵𝓮
+    bio: >-
+      I keep my wardrobe as colorful as my life ✨ 𝘎𝘭𝘰𝘣𝘦𝘵𝘳𝘰𝘵𝘵𝘦𝘳 🇳🇵🇦🇪🇦🇪🇰🇼🇮🇳🇮🇩🇲🇾🇸🇬 ✨ 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 - @rupswe.closet For business/collab mail me 👇
+    location: "Indonesia"
+    followers: 17842
+    engagement: 462
+    commentsToLikes: 0.053450
+    id: ckaortlyioozg0i78yi090a03
+    verified: false
+    hashtags: "#outfitinspo, #influencer, #dubai, #indianfashion"
   - username: "latin.spirit"
     fullname: >-
       Erika | Travel Blogger | Bali
     bio: >-
-      #contentcreator @latin_spirit_design On the road with @mochilamonkeys ecalle.design@gmail.com Get my presets here:
+      God first. On the road with @mochilamonkeys ecalle.design@gmail.com Get my presets here:
     location: "Indonesia"
-    followers: 74399
-    engagement: 253
-    commentsToLikes: 0.120063
+    followers: 73654
+    engagement: 266
+    commentsToLikes: 0.106443
     id: ck0ttpaza3plj0i19215cpu4l
     verified: false
-    hashtags: "#balidaily, #sheisnotlost, #explorebali, #uluwatu"
-  - username: "dicksonnjj"
+    hashtags: "#baliindonesia, #portraitmood, #travelgirl, #bokeh"
+  - username: "ratihdhamma"
     fullname: >-
-      Dickson Jingga
+      A. A. A. RATIH DHAMMA • BALI
     bio: >-
-      JKT, ID 📌 Scorpio 🦂 Introverted Guy. 🎨📸
+      I LIVE THE LIFE I LOVE 📍Bali, Indonesia Mom of 3 • @ara.ata.aka Check this out! @reviewdibali @andarivillabali @aravillabali
     location: "Indonesia"
-    followers: 8873
-    engagement: 1260
-    commentsToLikes: 0.025413
-    id: ck0tz98s6pl5t0i19sbnq9ukl
+    followers: 18907
+    engagement: 229
+    commentsToLikes: 0.082883
+    id: ck5hpvvvcs2120i11swkxa4as
     verified: false
-    hashtags: "#menstyle, #acrylicpaint, #bali, #style"
-  - username: "peacelovenegin"
+    hashtags: "#mommyandme, #blessed, #wonderfulindonesia, #fashiongram"
+  - username: "mochilamonkeys"
     fullname: >-
-      Negin
+      Content Creator | BALI
     bio: >-
-      ✨Negin, A Girl Who Travels✨ 📩 peacelovenegin@gmail.com 5 languages 🔜📍Bali ->Thailand-> Singapore->Turkey->?
+      Marco & Erika 🇩🇪 #bali with @latin.spirit House project in Bali: @casanomadabali contact@mochilamonkeys.com Edit like us: Our Presets are on Sale! ↓
     location: "Indonesia"
-    followers: 127871
-    engagement: 153
-    commentsToLikes: 0.170499
-    id: ck6uarfnp57gv0j7153gqs3c0
+    followers: 91819
+    engagement: 168
+    commentsToLikes: 0.079319
+    id: ck0u0k2onu1vg0i19s0mz1tt4
     verified: false
-    hashtags: "#naturelovers, #gezilecekyerler, #iran, #travelblogger"
-  - username: "thisiseliasm"
-    fullname: >-
-      ELIAS MERCADO
-    bio: >-
-      𖤥 USA From New York City. ⚡️Edit like Me⚡️↡ ↡ @eliasandsofiapresets ✉︎ contact@joinmetraveling.com
-    location: "Indonesia"
-    followers: 3130
-    engagement: 1105
-    commentsToLikes: 0.041320
-    id: ck0vx2fiwwt220i19xct67gnx
-    verified: false
-    hashtags: "#traveler, #nusapenida, #spaintravel, #visittunisia"
-  - username: "antonio_fernandes25"
-    fullname: >-
-      MODEL 191 cm | PHOTOGRAPHER
-    bio: >-
-      🙋🏽‍♂️ I’m Vogue addicted 📸 Love photography 🧨 Fashion content creator 📍Kazakhstan 📨 Collabs: mfbgmanager@gmail.com ⬇️ Photoshop course⬇️
-    location: "Indonesia"
-    followers: 18010
-    engagement: 282
-    commentsToLikes: 0.057553
-    id: ck5hcmm5ziv0n0i11l0dhvuwp
-    verified: false
-    hashtags: "#maleinfluencer, #malemodeltrading, #photography, #fashionista"
-  - username: "akanksha_gupta"
-    fullname: >-
-      Akanksha gupta🌟
-    bio: >-
-      Content Creator Plus Size Influencer|Model Ms India Curvy 2020 1st Runner Up👑 Sub Title Winner Beautiful Hair Dm/📧 for collab #bohemiandrama
-    location: "Indonesia"
-    followers: 7444
-    engagement: 326
-    commentsToLikes: 0.114865
-    id: ck6txc7vsx0gn0j71d9ge3pix
-    verified: false
-    hashtags: "#lifestyleblogger, #festivevibes, #indianplussizeblogger, #indiandesigner"
+    hashtags: "#explorebali, #artofvisual, #reelsvideo, #reisen"
   - username: "bali_fm"
     fullname: >-
-      Travel Photographer📸 | Blogger
+      Influencer | Travel Blogger
     bio: >-
       👩🏻‍🤝‍👨🏼NATALY + ED 🥥Bali lovers and travel bloggers 🥥Stay with us #BaliFM 📩bali_fm@mail.ru
     location: "Indonesia"
-    followers: 26119
-    engagement: 87
-    commentsToLikes: 0.014366
+    followers: 62262
+    engagement: 66
+    commentsToLikes: 0.002910
     id: ck6tucjvofk0s0j71wwa82z7j
     verified: false
-    hashtags: "#baliindonesia, #baliholiday, #giliair, #travelgirl"
-  - username: "florenciagomezs"
+    hashtags: "#travelgirl, #balilife, #ubud, #baliphoto"
+  - username: "gracewohangara"
     fullname: >-
-      𝐹𝐿𝑂𝑅 ☘︎︎ | traveler & dreamer
+      Grace Wohangara
     bio: >-
-      ✨living my life the way I dreamt it ✈︎ travel, photography & ocean enthusiast 🪐36 countries and counting Uruguay born ☀︎︎ Currently in madrid
+      •NOTHING WITHOUT GOD• 👑 7ICONS 👑 Business inquiry : 0813-8944-5463 (Manager) Purchase our Beauty product @iconskin.id
     location: "Indonesia"
-    followers: 4876
-    engagement: 2484
-    commentsToLikes: 0.273880
-    id: ck0u8riq182lx0i19avaj1a3n
+    followers: 46626
+    engagement: 109
+    commentsToLikes: 0.082197
+    id: ck9wd3k33dww60j78cnsgmkft
     verified: false
-    hashtags: "#greece, #indonesia, #islandlife, #traveler"
-  - username: "dimassuryaps"
+    hashtags: "#casual, #grace7icons, #fashionblogger, #model"
+  - username: "satyawinnie"
     fullname: >-
-      Dιɱαʂ Sυɾყαps
+      Satya Winnie
     bio: >-
-      Bali.Bwx.Sby.Indonesia🇮🇩 Founder @kripikpakno
+      An adventurous Paraglider, Hiker, Diver + Travel Blogger from Indonesia 🇲🇨🌏🌊🌋 📍Bali, Indonesia 🎥: youtube.com/satyawinnie 📬: satyawinnie@gmail.com
     location: "Indonesia"
-    followers: 10746
-    engagement: 1110
-    commentsToLikes: 0.081637
-    id: ckaoxsweqelp70i78c3qhwmw3
+    followers: 35028
+    engagement: 429
+    commentsToLikes: 0.098660
+    id: ck138jc7ggi650i19vaskllcv
     verified: false
-    hashtags: "#ootd, #banyuwangi, #banyuwangihits, #banyuwangihitz"
+    hashtags: "#pesonaindonesia, #terbangaman, #wonderfulindonesia, #explorebali"
+  - username: "nat.germania"
+    fullname: >-
+      Natascha Germania Santana
+    bio: >-
+      🎥 TV Host|Sportscaster & MC ♓️ #Happysoul 📩 Contact: DM 👇🏻Informasi seru seputar sepakbola⚽️
+    location: "Indonesia"
+    followers: 10996
+    engagement: 462
+    commentsToLikes: 0.032385
+    id: ck0ub7n6fdvk30i195veq00me
+    verified: false
+    hashtags: "#photography, #explore, #photo, #presenterindonesia"
+  - username: "christina_chandraa"
+    fullname: >-
+      𝓒𝓱𝓻𝓲𝓼𝓽𝓲𝓷𝓪 𝓬𝓱𝓪𝓷𝓭𝓻𝓪
+    bio: >-
+      📍 Jakarta,Indonesia. Lifestyle blogger & full time mom #christinachandraareview ✨ business inquiries 💌 Tap here 🫶🏼 👇🏼
+    location: "Indonesia"
+    followers: 104042
+    engagement: 138
+    commentsToLikes: 0.085619
+    id: ck8t0gbe7rytw0j78yib1ck3c
+    verified: false
+    hashtags: "#momlife, #traveling, #lifestyleblogger, #skincare"
 ---

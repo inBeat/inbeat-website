@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers in 2023
+title: Top 10 Beauty Instagram Influencers In 2023
 description: >-
-  Find top beauty Instagram influencers in 2023. Most popular hashtags: #ootd #liketkit #ltkunder50.
+  Find top beauty Instagram influencers in 2023. Most popular hashtags: #sheinforall #mahsaamini #sheinpartner #fashionreel.
 platform: Instagram
-hits: 104251
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 104251 Instagram influencers like this for you to connect with.
+hits: 97708
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 97708 Instagram influencers like this for you to contact.
 profiles:
-  - username: "tannaz_gy"
+  - username: "enigivensunday"
     fullname: >-
-      TANNAZ
+      Eni Popoola | NYC Blogger
     bio: >-
-      A girl in love with travel🌍, fashion 💃and beauty 💄 Speaks :Italian, Persian, English and Turkish Based in Catania, Sicily 🍋🍋🌋 #sicily#catania
-    location: "Italy"
-    followers: 5160
-    engagement: 4557
-    commentsToLikes: 0.094115
-    id: ckaot5gpuugot0i78y4e8udmt
-    verified: false
-    hashtags: "#trieste, #salerno, #taorminasicily, #agrigento"
-  - username: "amir_sbeys"
-    fullname: >-
-      Amir Sbeys | امیر اِسبيس‌
-    bio: >-
-      beauty music company maneger @beauty_muzic #sari Persian Rap artist 👇 " download New music " Dige Nadaramet "
-    location: "Iran"
-    followers: 3674
-    engagement: 3580
-    commentsToLikes: 0.177325
-    id: ck9wiq2ao3fmt0j784113t6p6
-    verified: false
-    hashtags: "#rap, #rapmusic, #rapfarsi, #hiphop"
-  - username: "dad.sheeran"
-    fullname: >-
-      René 🏃‍♂️🏋️‍♂️👣👁🧠
-    bio: >-
-      •Germany 🇩🇪 •Sony Alpha 7 iii / Lumix 📸 •creativ Art 🙌 •My Child is my teacher 😍😁 •all pics are mine 🤘🖖 •Beauty is in the eye of the beholder
-    location: "Germany"
-    followers: 2456
-    engagement: 3300
-    commentsToLikes: 0.199747
-    id: ckapbh0cyztno0i78e4y94y3i
-    verified: false
-    hashtags: "#way2ill, #art, #citykillerz, #creativemobs"
-  - username: "storybookblonde"
-    fullname: >-
-      Tami 💖
-    bio: >-
-      Everyday Style 👜 Petite 5’1💄Beauty & Skincare @carbon38 Ambassador 🧘🏼‍♀️ Los Angeles 🌴 Mama to Bella & Lila 💞 Shop my favorites below 👇🏻
-    location: "United States"
-    followers: 3053
-    engagement: 2720
-    commentsToLikes: 0.430128
-    id: ckapa1tiwudeg0i785m77hceh
-    verified: false
-    hashtags: "#ootd, #fashionaddict, #outfitoftheday, #fashiongram"
-  - username: "giogiota"
-    fullname: >-
-      Gio Dreveli Giannou - PRO MUA💄
-    bio: >-
-      ATH🇬🇷📍 Founder @giodrevelilashes @giodrevelimakeupacademy PR:📧gio@giodreveli.gr Appt:📧beauty@giodreveli.gr YT 𝓒𝓱𝓪𝓷𝓷𝓮𝓵: 𝐆𝐢𝐨 𝐃𝐫𝐞𝐯𝐞𝐥𝐢
-    location: "Greece"
-    followers: 136036
-    engagement: 2587
-    commentsToLikes: 0.770786
-    id: ck13a5wlnorq30i19387c1an3
-    verified: false
-    hashtags: "#giodreveli, #giogiota, #misagreece, #misababygreece"
-  - username: "rachelcolinas"
-    fullname: >-
-      Raquel Fernandez Colinas
-    bio: >-
-      • FASHION • BEAUTY • LIFESTYLE Encargada de gestión en @clinica.valderrama Collabs: raquelfernandezcolinas@gmail.com 📍Ponferrada
-    location: "Spain"
-    followers: 5087
-    engagement: 2518
-    commentsToLikes: 0.540386
-    id: ck6u1jwjxm6j00j71vizk3ukf
-    verified: false
-    hashtags: "#inspiration, #model, #look, #me"
-  - username: "lauraserbanofficial"
-    fullname: >-
-      LAURA SERBAN
-    bio: >-
-      Pt colaborari/concursuri/promovare concurs-mesaj privat❤️Hai pe story🤗 🎤 Solista & 📷 Content Creator 👜 Fashion, Beauty & Fitness - postari zilnice
-    location: ""
-    followers: 116304
-    engagement: 2366
-    commentsToLikes: 2.524734
-    id: ck134lfq3x04g0i19xyen4b3o
-    verified: false
-    hashtags: "#simpleoutfit, #outfitoftheday, #letsdothis, #hustleharder"
-  - username: "thamyscoelho_"
-    fullname: >-
-      Thamyres Coelho
-    bio: >-
-      •Não pare até se orgulhar!✨ @pfelipemotta❤️ fashion| beauty and makeup💄 🤝parceria via direct 🎥vídeo/ #challenge toda semana✨
-    location: "Brazil"
-    followers: 4305
-    engagement: 2204
-    commentsToLikes: 0.137660
-    id: ck8t8gailkd0h0j789c98fhqb
-    verified: false
-    hashtags: "#uauchallenge, #megustachallenge, #festaemipanemachallenge, #euphoriachallenge"
-  - username: "youreastcoastgirl"
-    fullname: >-
-      Sarah Krous
-    bio: >-
-      Fashion, lifestyle & beauty Rhode Island girl in New York ⚡️ 💌 youreastcoastgirl@gmail.com SHOP my looks 👇🏼
-    location: "United States"
-    followers: 6639
-    engagement: 2155
-    commentsToLikes: 0.306302
-    id: ck137gzccbhoo0i19wjbyudx2
-    verified: false
-    hashtags: "#ootdfashion, #wiw, #ltkstyletip, #ltkshoecrush"
-  - username: "sofsenisi"
-    fullname: >-
-      Sof senisi👑💖✨
-    bio: >-
-      📚UofGH | Business ✨Affordable Fashion + Beauty + Lifestyle 💌Collab Inquiries: sofiasenisi@gmail.com 📍Canada ￼⬇️Join FB Group #StuntinWithSof
+      ⚖️Columbia Law alumna 💄beauty lover ✨ trying to live my best blessed & balanced life 🎥 #SephoraSquad ‘22 📧 enipopoola@enigivensunday.com
     location: "Canada"
-    followers: 5984
-    engagement: 1955
-    commentsToLikes: 0.268103
-    id: ckap0fxu8q3qd0i781qxasrxq
+    followers: 120230
+    engagement: 663
+    commentsToLikes: 0.011475
+    id: ck5hi7xnuc41l0i11lv2p1q6j
     verified: false
-    hashtags: "#urbanplanet, #makeup, #glammakeup, #loungeunderwear"
+    hashtags: "#makeupforblackwomen, #melaninmakeupdaily, #nycblogger, #makeuptutorial"
+  - username: "behamin"
+    fullname: >-
+      Behamin • بهامين
+    bio: >-
+      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
+    location: "United States"
+    followers: 487738
+    engagement: 571
+    commentsToLikes: 0.033819
+    id: ck0u741343nni0i1969xnaly0
+    verified: false
+    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
+  - username: "sadaf_beauty"
+    fullname: >-
+      Sadaf Beauty
+    bio: >-
+      📍San Francisco 👇🏼Follow my lifestyle/travel blog @sadaf_beauty_diary Email: contact@sadafbeauty.net
+    location: "United States"
+    followers: 3866821
+    engagement: 725
+    commentsToLikes: 0.021434
+    id: ck0u21ukoymhd0i19l8xovyot
+    verified: true
+    hashtags: "#sheinpartner, #sheinx, #sheinforall, #mahsaamini"
+  - username: "itschloe.n"
+    fullname: >-
+      CHLOE | FASHION BLOGGER
+    bio: >-
+      SF Bay Area | fashion, lifestyle and beauty🕊 fits straight from your Pinterest 🍸🖤 💌 email for collabs/PR: itschloe.nn@gmail.com
+    location: ""
+    followers: 40995
+    engagement: 560
+    commentsToLikes: 0.103547
+    id: ckprgrbny882y0j23mhlhv5cm
+    verified: false
+    hashtags: "#pacpartner, #pinterestoutfit, #fallootd, #pinterestgirl"
+  - username: "les.talk.skin"
+    fullname: >-
+      Lesly | NJ Beauty Content Creator
+    bio: >-
+      Skin, Hair, Beauty | Bride-to-be 🇩🇴 Esthetician @leslytheesty 💌 Leslygomez.Lts@gmail.com YouTube, Virtual Consultations + Links ⬇️
+    location: "United States"
+    followers: 53181
+    engagement: 724
+    commentsToLikes: 0.045886
+    id: ck603061kkaao0i14en68pdxj
+    verified: false
+    hashtags: "#everydaymakeuplook, #drugstoreskincare, #skinbarrierrepair, #spf50"
+  - username: "belinda.fashionista"
+    fullname: >-
+      Seoul travel fashion
+    bio: >-
+      Visual content creator 🧜‍♀️ Best fashion/beauty award winner @kachenmagazine Fashion stylist👠 Traveler🌏 Sharing fashion and travel tips
+    location: "India"
+    followers: 12994
+    engagement: 5050
+    commentsToLikes: 0.213421
+    id: ck5zxl8hh884e0i14gmlv01lm
+    verified: false
+    hashtags: "#koreanadventures, #bukchonhanokvillage, #seoulfashionweek, #blogger"
+  - username: "catherineleox"
+    fullname: >-
+      CATHERINE | Outfit Inspo
+    bio: >-
+      🌸Be your own kind of Beauty 🧚🏼 photos taken by me
+    location: "United States"
+    followers: 99854
+    engagement: 470
+    commentsToLikes: -24.505838
+    id: ck5ce7d5dkh650i11ckffyvgl
+    verified: false
+    hashtags: "#tiktoktransition, #diosafit, #shapewear, #sheingoodfinds"
+  - username: "tingmystyle"
+    fullname: >-
+      Ting Ma
+    bio: >-
+      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
+    location: "United States"
+    followers: 137144
+    engagement: 613
+    commentsToLikes: 0.084561
+    id: ck0w49r7mxhxq0i198zn6sfa8
+    verified: false
+    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
+  - username: "souzana"
+    fullname: >-
+      souzana
+    bio: >-
+      Beauty Lover 🫶🏼 Founder @heybeautygr •Awarded beauty influencer •Beauty Editor •Passionate Youtuber •Podcaster, The Beauty Talk
+    location: "Greece"
+    followers: 135858
+    engagement: 444
+    commentsToLikes: 0.098353
+    id: ck6tl00w85q8j0j71uxkrmodc
+    verified: false
+    hashtags: "#herrerabeauty, #heybeautygr, #skincare, #xmas"
+  - username: "amanda_strachan"
+    fullname: >-
+      AMANDA STRACHAN
+    bio: >-
+      Everything is more than what we see 👁 Clean Beauty | Rituals | Mindfulness 🧘🏼‍♀️ Ayurvedic Wisdom & Nutrition 🌱
+    location: "United Kingdom"
+    followers: 146707
+    engagement: 401
+    commentsToLikes: 0.014126
+    id: ck0vv2h8dn8kb0i199rg3n3qx
+    verified: false
+    hashtags: "#simplerecipes, #healthyrecipes, #nutrition, #mindfulness"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bakers Instagram Influencers In India in 2023
+title: Top 10 Bakers Instagram Influencers In India In 2023
 description: >-
-  Find top bakers Instagram influencers in India in 2023. Most popular hashtags: #instagram #love #chocolate #nagpuritadka.
+  Find top bakers Instagram influencers in India in 2023. Most popular hashtags: #dessert #baking #chocolate #recipe.
 platform: Instagram
-hits: 1375
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 1375 Instagram influencers like this in India for you to collaborate.
+hits: 776
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 776 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "_shireen_tabassum_"
+  - username: "passionateaboutbaking"
     fullname: >-
-      || TABU🦋🧿 ||
+      Deeba Rajpal
     bio: >-
-      A girl with culinary skills🍳 Baker by passion🧁Interior Designer by profession🎓 Check out @_tabus_bakery_ Dreamer🌈|Kolkata📍 Pisces♊|Birthdate:17dec🧁
+      Cookbook Author | Baker | Content Creator | Blogger | Eggless Desserts | Food Stylist | Food Photography Recipes on @pabrecipes India 🇮🇳
     location: "India"
-    followers: 8770
-    engagement: 536
-    commentsToLikes: 0.051447
-    id: ck6u8a9coqd3r0j71qyvh1v5c
-    verified: false
-    hashtags: "#beautiful, #exposure, #sexy, #pictures"
-  - username: "janakikrishnan21"
+    followers: 416171
+    engagement: 1005
+    commentsToLikes: 0.016130
+    id: ck0twjmsvfofn0i19ffoazlr7
+    verified: true
+    hashtags: "#ad, #strawberries, #pabrecipes, #biscofflotus"
+  - username: "funamentals"
     fullname: >-
-      Janaki Krishnan
+      Funa Maduka
     bio: >-
-      It all started with anna (black) - actor, lawyer, dancer, baker, youtubber, cosmoholic, foodie, dog person. Business id: thehazeleyedhippie@gmail.com
+      dms welcome but plssss direct all business queries to funa.assistant@gmail.com filmmaker 👩🏾‍🎨 & aspiring vegan baker👩🏾‍🍳 film @waitingforhassana
     location: "India"
-    followers: 12832
-    engagement: 571
-    commentsToLikes: 0.015905
-    id: ck14hatjc9eru0i19dwgnhr2n
+    followers: 10881
+    engagement: 446
+    commentsToLikes: 0.093641
+    id: ck8t00dozqexk0j78wk7x4dyg
     verified: false
-    hashtags: "#lovefmmovie, #odishameetskerela, #haldiceremony, #abhiwedsjan"
-  - username: "_ashwinikumar"
+    hashtags: "#blacklivesmatter, #celinesciamma, #pedroalmodovar, #bongjoonho"
+  - username: "stacie_bono"
     fullname: >-
-      Dolly
+      Stacie Bono
     bio: >-
-      Home baker @brown_chennai 👩🏻‍🍳 | Model 🌟 | Influencer | foodie 🍽 | Shopaholic 🛒
+      Actress • Singer • Dog Mother • Traveller • Baker • Follow my fur baby: @sunshinebono
     location: "India"
-    followers: 15473
-    engagement: 452
-    commentsToLikes: 0.016012
-    id: ck8t1twt9x0ng0j78ad0hlp3y
+    followers: 9255
+    engagement: 272
+    commentsToLikes: 0.059373
+    id: ck0w234htme6p0i19v971vig6
     verified: false
-    hashtags: "#chennaiinfluencer, #chennaimodel, #throwback, #mood"
+    hashtags: "#maltipomsofinstagram, #believeinbetter, #bidenharris2020, #petstagram"
   - username: "sanghati__banerjee"
     fullname: >-
       সংহতি🌹
     bio: >-
-      Baker•Model•Dancer•Digital Artist . Owner -@sweetlittlethings_kgp Digital Art account- @sanghartsy . Dm for paid collaborations📩
+      Baker•Model•Dancer . Owner -@sweetlittlethings_kgp Follow my furry baby @woof.with.zico . Dm for paid collaborations📩
     location: "India"
-    followers: 5201
-    engagement: 803
-    commentsToLikes: 0.011338
+    followers: 5181
+    engagement: 764
+    commentsToLikes: 0.010726
     id: ck9hccaoekqgg0j78ae15evqf
     verified: false
-    hashtags: "#dun, #partners, #saree, #photo"
+    hashtags: "#ootd, #hairstyle, #sareedraping, #floral"
   - username: "gouri_koushik"
     fullname: >-
       GK
     bio: >-
-      Vegan 🌱 Baker/owner of @plantbased.edibles 🧁 Bengaluru, India.
+      Ethical Vegan 🌱 Baker/owner of @plantbased.edibles 🧁 Bengaluru, India.
     location: "India"
-    followers: 2064
-    engagement: 1254
-    commentsToLikes: 0.025727
+    followers: 2109
+    engagement: 1227
+    commentsToLikes: 0.028940
     id: ckap0s1i8rjib0i78pseeox95
     verified: false
-    hashtags: "#fosteringsaveslives, #indies, #bangaloreadoption, #indiepuppies"
-  - username: "parthbajaj"
+    hashtags: "#indies, #fosteringsaveslives, #adoptdontshop, #butterbeankoushik"
+  - username: "vindiskitchen"
     fullname: >-
-      Parth Bajaj
+      Vindi
     bio: >-
-      23 Home bakery @platedbyparth Tv show host Self taught baker Food photographer and stylist Recipe Developer Workshop host #nagpuritadka YouTube 👇🏻
+      Baking is my calling! 👩‍💻 Software engineer turned baker 🍞 Sourdough obsessed 🥐 Workshops 👋 DM for collaborations 📍Seattle, Washington 🇦🇺🇱🇰
     location: "India"
-    followers: 121533
-    engagement: 803
-    commentsToLikes: 0.012166
-    id: ck138mcmngxpt0i19g5qfi4kj
-    verified: true
-    hashtags: "#nagpuritadka, #foodvideo, #cake, #feelkaroreelkaro"
+    followers: 47961
+    engagement: 286
+    commentsToLikes: 0.057343
+    id: ck6tkf5su4ky00j714ca5oxqh
+    verified: false
+    hashtags: "#instafood, #tgif, #droolworthy, #recipe"
   - username: "sugarcoated11"
     fullname: >-
       SugarCoated
     bio: >-
       Manisha Singh Stock Photographer - @shutterstock Avid Baker 🎂 Pune Maharashtra
     location: "India"
-    followers: 6240
-    engagement: 1263
-    commentsToLikes: 0.293425
+    followers: 7209
+    engagement: 1168
+    commentsToLikes: 0.281516
     id: ckf5qstk4ag6d0j23m1rq9hev
     verified: false
-    hashtags: "#photographers, #stilllife, #foodphotography, #sunflowerseeds"
+    hashtags: "#stilllife, #sunflowerseeds, #foodphotography, #photographers"
+  - username: "thegirlinphulkari"
+    fullname: >-
+      Swati Khosla|ChandigarhBlogger
+    bio: >-
+      Content Creator at Day, Baker at Night Email for Collab ⬇️ thegirlinphulkari@gmail.com Live|Love|Eat|Dance
+    location: "India"
+    followers: 28462
+    engagement: 99
+    commentsToLikes: 0.139615
+    id: ck0tzh1woqeg70i19g2v1z0s2
+    verified: false
+    hashtags: "#reelkarofeelkaro, #northindiancuisine, #chandigarhfoodies, #foodtalkindia"
   - username: "shivesh17"
     fullname: >-
       Shivesh Bhatia
     bio: >-
-      24 Delhi, India Self-taught baker, food blogger Author of Bake With Shivesh(2018) 📩shiveshbhatia96@gmail.com Bake with Shivesh on YouTube!
+      25 Delhi, India Self-taught baker, food blogger Author of two cookbooks Youtube- Bake With Shivesh 📩shiveshbhatia96@gmail.com
     location: "India"
-    followers: 376582
-    engagement: 299
-    commentsToLikes: 0.021671
+    followers: 656778
+    engagement: 339
+    commentsToLikes: 0.023993
     id: ck0tzh2rtqel70i19uytwc5sx
     verified: true
-    hashtags: "#bakewithshivesh, #dessert, #chocolate, #mango"
-  - username: "foodie._.doodie"
+    hashtags: "#feelitreelit, #recipe, #chocolate, #feature"
+  - username: "whatdillieats"
     fullname: >-
-      Taslim Memon|Ahmedabad Blogger
+      Parth & Vandana
     bio: >-
-      #FoodBlogger | #Baker | #Homechef | #FoodStylist #ContentWriter DM for Invites, Promos, Collabs, Suggestions & Baking/Food Styling Workshops!💕
+      #whatdillieats Baker @cakeemporiumbakers Why have abs when u can have kebabs😉 DM for Collaborations. Or Email - parthtandon7@gmail.com
     location: "India"
-    followers: 11504
-    engagement: 619
-    commentsToLikes: 0.064735
-    id: ck5bwq3oom6vv0i115tjdnlnx
+    followers: 125297
+    engagement: 85
+    commentsToLikes: 0.020354
+    id: ck13b1caot7fe0i198t8p8auj
     verified: false
-    hashtags: "#easyrecipes, #bloggergirl, #indianstreetfood, #summerdrinks"
-  - username: "sachinwilfred"
-    fullname: >-
-      Sachin wilfred
-    bio: >-
-      Pastry chef | Baker Pastry Mentor | Educator Chief of Academics @lavonneacademyindia Former chef @itcgardenia
-    location: "India"
-    followers: 12742
-    engagement: 498
-    commentsToLikes: 0.030942
-    id: ck0w79u3dch7s0i19wl68tygw
-    verified: false
-    hashtags: "#truecooks, #chefsatlavonne, #chefs, #gourmetcakes"
+    hashtags: "#southindianfood, #reelsofinstagram, #momos, #northindianfood"
 ---

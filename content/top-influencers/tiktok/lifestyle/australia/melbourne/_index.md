@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Melbourne in 2023
+title: Top 10 Lifestyle TikTok Influencers In Melbourne In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #foryou #foryoupage #melbourne.
+  Find top lifestyle TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #foryoupage #australia #foryou.
 platform: TikTok
-hits: 5
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 5 TikTok influencers like this in Melbourne, Australia for you to pitch.
+hits: 4
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 4 TikTok influencers like this in Melbourne, Australia for you to contact.
 profiles:
-  - username: "princesayed5"
+  - username: "harryaxx"
     fullname: >-
-      Princes 
+      Harry Ax
     bio: >-
-      🇦🇺🇦🇺🇦🇫🇦🇫✅ Melbourne✅
+      Wealth 🚀 Lifestyle 🏝 ✅ Sub to YouTube for more
     location: "Australia"
-    followers: 67000
-    engagement: 2002
-    commentsToLikes: 0.017510
+    followers: 255700
+    engagement: 222
+    commentsToLikes: 0.072527
+    id: ckc81qqhp2r560j23qrjzvydn
+    verified: false
+    hashtags: "#bitcoin, #dogecoin, #crypto, #matcha"
+  - username: "sayed9548"
+    fullname: >-
+      Sayed
+    bio: >-
+      🇦🇺🇦🇺🇦🇫🇦🇫✅ Melbourne✅ @Q&A
+    location: "Australia"
+    followers: 66900
+    engagement: 2016
+    commentsToLikes: 0.016192
     id: ckcdlm0ji9s8v0j23vo8zq0k9
     verified: false
-    hashtags: "#allah, #tik, #islamic, #follow"
-  - username: "jassturka4"
+    hashtags: "#allahuakbar, #sound, #follow, #fyp"
+  - username: "health.investments"
     fullname: >-
-      Jass Turka
+      Jas Turka
     bio: >-
-      Health & Fitness 💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
+      Personal Trainer💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
     location: "Australia"
-    followers: 75500
-    engagement: 336
-    commentsToLikes: 0.031642
+    followers: 75700
+    engagement: 325
+    commentsToLikes: 0.034664
     id: ckai3fp8wjp9s0i78tydhilnp
     verified: false
-    hashtags: "#beautytutorial, #proudpunjabi, #weightloss, #friends"
-  - username: "_kim_lawless_"
+    hashtags: "#weightloss, #melbourne, #stayhome, #supportfamers"
+  - username: "ryanjondunn"
     fullname: >-
-      Kim
+      Ryan Jon
     bio: >-
-      •Fitness•health lifestyle• Instagram- kimlawless_fitness
+      I don’t know why I’m verified either Aussie Radio & Podcast Host
     location: "Australia"
-    followers: 47700
-    engagement: 851
-    commentsToLikes: 0.044897
-    id: cka7o7mp10qyp0i78xk1mluw6
-    verified: false
-    hashtags: "#duet, #fyp, #hi, #lockdown"
-  - username: "karansandhu50"
-    fullname: >-
-      Karan Sandhu
-    bio: >-
-      👑"Melbourne"👑 👻 Karansandhu9
-    location: "Australia"
-    followers: 2694
-    engagement: 997
-    commentsToLikes: 0.024109
-    id: ck9fi47kk90lc0j78j04yfgqs
-    verified: false
-    hashtags: "#tiktok, #punjabi, #bpossitive, #fyp"
-  - username: "firewood.com.au"
-    fullname: >-
-      Firewood.com.au
-    bio: >-
-      Firewood.com.au is Melbourne's largest supplier of....you guessed it, firewood. 
-    location: "Australia"
-    followers: 18700
-    engagement: 316
-    commentsToLikes: 0.015449
-    id: ckbf5kvi6umzc0j230qppozex
-    verified: false
-    hashtags: "#dogs, #saturdaynight, #firewood, #hardwood"
-  - username: "almondlusk"
-    fullname: >-
-      a l m o n d l u s k
-    bio: >-
-      lifestyle videos
-    location: "Australia"
-    followers: 49200
-    engagement: 2469
-    commentsToLikes: 0.025960
-    id: ckaftkvgx5r7z0i78qmmri4rw
-    verified: false
-    hashtags: "#fyp, #morning, #christmas, #almondlusk"
+    followers: 47200
+    engagement: 1330
+    commentsToLikes: 0.019304
+    id: ckce6rl17ksm30j23w6jpi75t
+    verified: true
+    hashtags: "#australia, #kiis, #melbourne, #radio"
   - username: "oi.oiii"
     fullname: >-
       jael :)
     bio: >-
       BLACK LIVES MATTER covers/originals :)) (& me exposing my 1d lifestyle... oops)
     location: "Australia"
-    followers: 31500
-    engagement: 2608
-    commentsToLikes: 0.036866
+    followers: 32500
+    engagement: 2456
+    commentsToLikes: 0.032877
     id: ckbf76fbmwvmx0j23kkji392z
     verified: false
-    hashtags: "#tommo, #fineline, #1d, #cherry"
+    hashtags: "#onedirection, #fineline, #tpwk, #foryou"
+  - username: ".almond.lusk"
+    fullname: >-
+      ✰ almondlusk
+    bio: >-
+      Lifestyle videos ⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+    location: "Australia"
+    followers: 47500
+    engagement: 2115
+    commentsToLikes: 0.020363
+    id: ckaftkvgx5r7z0i78qmmri4rw
+    verified: false
+    hashtags: "#foryoupage, #aesthetic, #almondlusk, #fyp"
+  - username: "harryaxx"
+    fullname: >-
+      Harry Ax
+    bio: >-
+      Wealth 🚀 Lifestyle 🏝 ✅ Sub to YouTube for more
+    location: "Australia"
+    followers: 255700
+    engagement: 222
+    commentsToLikes: 0.072527
+    id: ckc81qqhp2r560j23qrjzvydn
+    verified: false
+    hashtags: "#bitcoin, #dogecoin, #crypto, #matcha"
   - username: "overpackedsuitcase"
     fullname: >-
       Raphaela
     bio: >-
-      🧳 travel + lifestyle 💖 🌙 Follow me on IG: @overpackedsuitcase
+      🧳 travel + lifestyle blogger 💖 🌙 Follow me on IG: @overpackedsuitcase
     location: "Australia"
-    followers: 2061
-    engagement: 1014
-    commentsToLikes: 0.236890
+    followers: 2048
+    engagement: 1064
+    commentsToLikes: 0.205499
     id: ck9dwvm4mqr8n0j782b3cz8fl
     verified: false
-    hashtags: "#fyp, #sydneyblogger, #sheisnotlost, #australia"
-  - username: "20thcenturyclips"
-    fullname: >-
-      Fan Guixin
-    bio: >-
-      A little peek at our past lifestyle 🎥 Occasionally plays some mediocre erhu 🎶
-    location: "Australia"
-    followers: 463400
-    engagement: 1384
-    commentsToLikes: 0.012333
-    id: ckcjdsn39a5zj0j23fk8buefk
-    verified: false
-    hashtags: "#1970s, #vintage, #commercial, #1960s"
+    hashtags: "#fyp, #travelblogger, #sydneyblogger, #viral"
   - username: "georgiebidesi"
     fullname: >-
       Georgie Bidesi
     bio: >-
       Entrepreneur Lifestyle blog: www.georgiebidesi.com SM ebook, link below📈
     location: "Australia"
-    followers: 78700
-    engagement: 2304
-    commentsToLikes: 0.013905
+    followers: 107600
+    engagement: 2478
+    commentsToLikes: 0.014853
     id: ck8kohukvhr2l0j783erw8mhk
     verified: false
-    hashtags: "#uk, #darkacademia, #aesthetic, #london"
+    hashtags: "#lifestyle, #uk, #fyp, #aesthetic"
+  - username: "horsepowerinc"
+    fullname: >-
+      Horsepower Inc
+    bio: >-
+      #Automotive Lifestyle Brand - FB@ hpinc #horsepowerinc #sendit #tiktokcars
+    location: "Australia"
+    followers: 44200
+    engagement: 690
+    commentsToLikes: 0.050735
+    id: ckb9av2sswbuj0j23l6nywasg
+    verified: false
+    hashtags: "#ford, #musclecar, #classiccar, #carshow"
 ---

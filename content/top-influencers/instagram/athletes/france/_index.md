@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In France in 2023
+title: Top 10 Athletes Instagram Influencers In France In 2023
 description: >-
-  Find top athletes Instagram influencers in France in 2023. Most popular hashtags: #training #lifestyle #armday.
+  Find top athletes Instagram influencers in France in 2023. Most popular hashtags: #calisthenics #healthy #fitfrenchies.
 platform: Instagram
-hits: 396
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 396 Instagram influencers like this in France for you to contact.
+hits: 388
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 388 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "houssem_aouar"
+  - username: "sayayassine"
     fullname: >-
-      Houssem Aouar
+      SAYA YASSINE
     bio: >-
-      Football player - HA🎱 @ol & @adidasfootball athlète Parrain de @asp_aider_son_prochain
+      Athlète
     location: "France"
-    followers: 566438
-    engagement: 1645
-    commentsToLikes: 0.041704
-    id: ck0w2fc89o2mc0i19slx0s6re
-    verified: true
-    hashtags: "#loscol, #olasm, #adidaszx, #fut"
-  - username: "mehran_beirami"
-    fullname: >-
-      MEHRAN BEIRAMI
-    bio: >-
-      IFBB Men's Physique Classic 🥇Tehran 2016 🥇Iran 2017 🥇Dubai Muscle Show 2017 and 2018 Athlete @phartak_supplements
-    location: "France"
-    followers: 84472
-    engagement: 1148
-    commentsToLikes: 0.033582
-    id: ck5znbp9yo5lq0i14qdgfdyec
+    followers: 332717
+    engagement: 101
+    commentsToLikes: 0.013847
+    id: ck0w2kw6lovib0i1910dseoih
     verified: false
-    hashtags: "#forbody"
-  - username: "jonathandavid450"
+    hashtags: "#withlove, #babyfashion, #princess, #anytimeanywhere"
+  - username: "majdoulinsr"
     fullname: >-
-      Jonathan David Jr.
+      PT & Nutritionist 🍑🇲🇦🇫🇷
     bio: >-
-      Canada Men’s National Team @canadasoccer Lille OSC @losclive Adidas Global Athlete @adidasfootball 📍Lille, France
+      Coaching & Transformations @team.happybodies 🍑 Sponsored @happybody.officiel Athlete @myproteinfr ( links )👇🏽
     location: "France"
-    followers: 43074
-    engagement: 1472
-    commentsToLikes: 0.032880
-    id: ck5hfn41tya1i0i11zyjodf9n
-    verified: true
-    hashtags: "#cobw, #uel, #canmnt, #cnl"
-  - username: "lexx.little"
-    fullname: >-
-      Lexx Little 🧬
-    bio: >-
-      ▪️ 19 Years Old ▪️ @gorilla_mind ▪️ @gymshark Athlete ▪️ Snapchat | lexx_doeee ▪️ YouTube | Lexx Little ▪️ Newest video & products ⬇️
-    location: "France"
-    followers: 170242
-    engagement: 1029
-    commentsToLikes: 0.021566
-    id: ck0ttvpsr4ipx0i19tk3qam8d
+    followers: 64535
+    engagement: 257
+    commentsToLikes: 0.025364
+    id: ck6u6kgl5g43p0j71w1wbla9g
     verified: false
-    hashtags: "#powerlifting, #6weeksout"
+    hashtags: "#leggings, #recipe, #lifestyle, #healthyfood"
+  - username: "karenmattar"
+    fullname: >-
+      Karen Mattar  كارن مطر
+    bio: >-
+      I empower you to be the BEST version of yourself. Personalized training & nutrition via MotivNation or DM for 1:1 online coaching. Athlete womensBest
+    location: "France"
+    followers: 156212
+    engagement: 151
+    commentsToLikes: 0.017906
+    id: ck14lk6eev3mt0i19ux5okwka
+    verified: true
+    hashtags: "#vacation, #health, #flexibility, #yoga"
+  - username: "cyril_guillemin"
+    fullname: >-
+      Cyril Guillemin
+    bio: >-
+      Celebrities stylist | CM | Former athlete Founder @cyca.agency cyril.inquiries@gmail.com
+    location: "France"
+    followers: 213403
+    engagement: 95
+    commentsToLikes: 0.035810
+    id: ck5zttwaj13yd0i145jyxgshc
+    verified: false
+    hashtags: "#pfw, #fashionweek, #paris, #dior"
+  - username: "samuelpiette"
+    fullname: >-
+      Samuel Piette
+    bio: >-
+      @clubdefootmtl #6 | Adidas Athlete ||| Proud ambassador of; • @videotron • @denisbretonchevroletbuickgmc
+    location: "France"
+    followers: 27041
+    engagement: 820
+    commentsToLikes: 0.046551
+    id: ck5c45lnv0nlx0i11wk3qsch2
+    verified: true
+    hashtags: "#mlsisback, #muralfestival, #festivalmural, #videotron"
+  - username: "lauriane_lamperim"
+    fullname: >-
+      Lauriane Lamperim
+    bio: >-
+      Surfer girl Kinésithérapeute Ex-team France tumbling Athlète @foodspring_fr 🌱 ↪️ -15% « LaurianeFSG » Mon livre : Renaissance Mon programme abdo ⬇️
+    location: "France"
+    followers: 175006
+    engagement: 619
+    commentsToLikes: 0.023254
+    id: ck13chvij0f9w0i199dwubasm
+    verified: false
+    hashtags: ""
+  - username: "saketgokhale"
+    fullname: >-
+      Saket Gokhale
+    bio: >-
+      20 | Transform Yourself 🏋🏻 Athlete @muscleblaze 💰Discount Code ‘SAKET30’ 🎥 YouTube: Saket Gokhale
+    location: "France"
+    followers: 211294
+    engagement: 2823
+    commentsToLikes: 0.012537
+    id: ck8t6pvbreebe0j78eukn84fh
+    verified: false
+    hashtags: "#shotoniphone, #streetphotography"
+  - username: "ilyas_workout"
+    fullname: >-
+      𝕴𝖑𝖎𝖆𝖘 𝖘𝖆𝖆𝖎𝖊𝖋
+    bio: >-
+      ʏᴇꜱ ɪᴛ’ꜱ ᴍᴇ ᴛʜᴇ ᴋɪᴅ ᴛʜᴀᴛ ʏᴏᴜ’ᴠᴇ ʜᴇᴀʀᴅ ᴀʙᴏᴜᴛ . Professionnel Street Workout Athlete 🏆 Tik tok : +116K 🥵
+    location: "France"
+    followers: 18952
+    engagement: 929
+    commentsToLikes: 0.041068
+    id: ck9hakcafcuzs0j78qrgj3e3e
+    verified: false
+    hashtags: "#baristiworkout, #dsworkout, #calisthenicstraining, #best"
   - username: "kalvinnsk"
     fullname: >-
-      L'HOMME NSK
+      L'HOMME NSK - BIG KALV’
     bio: >-
-      🌺 Founder & Creative Director @teascodrink 🦾 Hybrid Athlete & Fitness Consultant @nsk.fit 💼 Marketing & Branding Strategist
+      🌺 Mktg & Creative Director @teascodrink 🦾 Co-founder @savvymedias 💼 Marketing & Branding Strategist 🦾 Hybrid Athlete & Fitness Consultant @nsk.fit
     location: "France"
-    followers: 11190
-    engagement: 1334
-    commentsToLikes: 0.295121
+    followers: 10739
+    engagement: 1375
+    commentsToLikes: 0.286182
     id: ck5c8njdj9uxb0i11c8rs20wa
     verified: false
-    hashtags: "#portrait, #nskstudio, #blackman, #elegant"
-  - username: "scoot2street"
+    hashtags: "#blackmodels, #fitmodel, #elegance, #pittiuomo"
+  - username: "leo.cressant"
     fullname: >-
-      Antoine S2S
+      Léo Cressant
     bio: >-
-      Athlète & YouTuber (1,3Million❤️) 1er YouTuber Trottinette d’Europe! Ma marque S2S ➡️ @scoot2street_shop 👇RDV les dimanches à 11h11 !
+      🌎 Photography | Model 📍 France 🎗 Athlete @bodyandfit_fr | LEO10 👇🏻 Certified Fitness & Nutrition Coach
     location: "France"
-    followers: 492677
-    engagement: 718
-    commentsToLikes: 0.016860
-    id: ck14k32e5nhl00i19suvyicad
+    followers: 190347
+    engagement: 445
+    commentsToLikes: 0.024026
+    id: ck0ttkiiu34si0i1920lxgbsx
     verified: false
-    hashtags: "#sp, #bmx, #velo, #trick"
-  - username: "frangibar"
-    fullname: >-
-      Fran / Ultra Runner
-    bio: >-
-      IRun ultras around the world 🇨🇱 Inspiring woman 🤩 Never is too late @mujeresalcerro 📌 @spartantrail Ambassador @rockay_running Athlete @clinicameds
-    location: "France"
-    followers: 43091
-    engagement: 373
-    commentsToLikes: 0.073921
-    id: ck0vxa36mxwuk0i19humtavmp
-    verified: false
-    hashtags: "#mondaymotivation, #fitover50women, #girlpower, #blessed"
-  - username: "naomi_grc2"
-    fullname: >-
-      Naomi ❥ Diététicienne
-    bio: >-
-      ✨Coaching diététique sur mesure 🌚J’accompagne les femmes pour en finir avec l’alimentation culpabilité . @gymshark athlete 🇫🇷🇹🇼 . ❥ Formation & ebook
-    location: "France"
-    followers: 33038
-    engagement: 782
-    commentsToLikes: 0.025846
-    id: ck14ke1x3p2ic0i19e10qem3r
-    verified: false
-    hashtags: "#gymsharktrain, #women, #girlboss, #liftwithcass"
-  - username: "brisco_s3"
-    fullname: >-
-      𝘽𝙧𝙞𝙨𝙘𝙤 𝘽𝙖𝙨𝙠𝙚𝙩 𝙁𝙧𝙚𝙚𝙨𝙩𝙮𝙡𝙚 🏀
-    bio: >-
-      🏆𝘊𝘩𝘢𝘮𝘱𝘪𝘰𝘯 𝘥𝘶 𝘔𝘰𝘯𝘥𝘦 𝘍𝘳𝘦𝘦𝘴𝘵𝘺𝘭𝘦 𝘉𝘢𝘴𝘬𝘦𝘵 2013 ⚡Athlète @monsterenergy HydroSport 💪🏽Athlète @bodyandfit_fr 10% CODE: BRISCO10 📨briscofreestyle@hotmail.fr 🎬⬇
-    location: "France"
-    followers: 93248
-    engagement: 1083
-    commentsToLikes: 0.015901
-    id: ck5c9ilshbhqx0i11jhx781bp
-    verified: false
-    hashtags: "#stephcurry, #crossover, #sport, #basketballlovers"
-  - username: "joseph.delvaux"
-    fullname: >-
-      Joseph Delvaux
-    bio: >-
-      20⏰ 5’8” YT| Joseph Delvaux @myproteinus code: JOSEPHMYP @vqfit athlete 👇🏾
-    location: "France"
-    followers: 35726
-    engagement: 841
-    commentsToLikes: 0.020793
-    id: ck9wfo8uxpqln0j78q4lpcc8y
-    verified: false
-    hashtags: "#vqfit, #bodybuildingmotivation, #shreddedunion, #gym"
+    hashtags: "#mensphysique, #ibizastyle, #boattrip, #boatlife"
 ---

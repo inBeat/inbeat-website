@@ -1,130 +1,130 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Australia in 2023
+title: Top 10 Boxers Instagram Influencers In Australia In 2023
 description: >-
-  Find top boxers Instagram influencers in Australia in 2023. Most popular hashtags: #boxing #boxer #c60.
+  Find top boxers Instagram influencers in Australia in 2023. Most popular hashtags: #boxing #boxer #trainhardfighteasy.
 platform: Instagram
-hits: 35
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 35 Instagram influencers like this in Australia for you to work with.
+hits: 28
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 28 Instagram influencers like this in Australia for you to collaborate.
 profiles:
+  - username: "myfriendelias"
+    fullname: >-
+      Elias Chigros
+    bio: >-
+      surfer | boxer | strength trainer | model backed by giant mgmt // @kultaustralia CMO @rubysodagram social partnerships👇🏾 📠 hello@myfriendelias.com
+    location: "Australia"
+    followers: 119459
+    engagement: 409
+    commentsToLikes: 0.011436
+    id: ckap4dydx6xj90i789oc7yx92
+    verified: false
+    hashtags: "#energiseyourskin"
   - username: "avrilmathie"
     fullname: >-
       AVRIL
     bio: >-
-      management@avrilmathie.com @mathieathletic 🥊 Undefeated pro boxer 💃🏽 If you’re not having fun you’re doing it wrong 🇦🇺 Aussie, but 📍Miami / Ελλάδα
+      management@avrilmathie.com 🥊 Undefeated pro boxer 💃🏽 If you’re not having fun you’re doing it wrong 🇦🇺 Aussie, but 📍Miami / Ελλάδα
     location: "Australia"
-    followers: 238084
-    engagement: 283
-    commentsToLikes: 0.011093
+    followers: 283612
+    engagement: 309
+    commentsToLikes: 0.009081
     id: ck0vzvmijb4530i1957480lsa
     verified: true
-    hashtags: "#lifeisbetterinabikini, #trainhardfighteasy, #beachvolley, #thesweatlife"
-  - username: "moniquebovino"
-    fullname: >-
-      MONIQUE BOVINO
-    bio: >-
-      Boxer @barotillobombersboxingteam Based in Australia Twitter : @MoniqueBovino Collaborations ▼ 📧 moniquebovino@gmail.com
-    location: "Australia"
-    followers: 14302
-    engagement: 401
-    commentsToLikes: 0.021554
-    id: ckap83wd3mpvh0i78y5ingpzg
-    verified: false
-    hashtags: "#covid19, #beach, #fashion, #beachwear"
-  - username: "myfriendelias"
-    fullname: >-
-      Elias
-    bio: >-
-      surfer | boxer | strength trainer | model partnerships/enquires 👇🏾 📠 hello@myfriendelias.com
-    location: "Australia"
-    followers: 114399
-    engagement: 348
-    commentsToLikes: 0.013591
-    id: ckap4dydx6xj90i789oc7yx92
-    verified: false
-    hashtags: "#theiconicmen, #energiseyourskin, #tagheuercarrera, #tagheuer"
-  - username: "adambub"
-    fullname: >-
-      Adam Bub
-    bio: >-
-      👨🏻‍💻 Partnerships Editor @mamamiaaus | Former Entertainment/Travel, Nine. 👕 Sometimes I model stuff 🐶 Boxer buddy 🌈 Proud 🇦🇺 Sydney TikTok: adambub
-    location: "Australia"
-    followers: 23538
-    engagement: 546
-    commentsToLikes: 0.086249
-    id: ckap41k4x5fq00i78tc17xxfh
-    verified: false
-    hashtags: "#brandambassador, #tbt, #disco, #collab"
+    hashtags: "#justmove, #activeliving, #boxing, #athlete"
   - username: "danielkhan96"
     fullname: >-
       🇬🇧🇵🇰
     bio: >-
-      Professional boxer 10-0 🥊 Audi RS3 Snapchat - DanielKhan
+      Professional boxer 10-0 🥊 Snapchat - DanielKhan
     location: "Australia"
-    followers: 41647
-    engagement: 665
-    commentsToLikes: 0.016320
+    followers: 42207
+    engagement: 560
+    commentsToLikes: 0.016780
     id: ck6u6zh43ilfx0j7130bos3fd
     verified: false
-    hashtags: "#supercar, #audirs3, #mk5r32, #rs3"
-  - username: "sugar_neekz"
+    hashtags: "#golfr, #audis3, #s38l, #audis38l"
+  - username: "brockjarvis_"
     fullname: >-
-      Sugar Neekz Johnson
+      Brock Jarvis
     bio: >-
-      Professional Boxer | 13-0 #sweetsavage Team Labruna Boxing Rival Family
+      Professional Boxer Sydney, Australia 🇦🇺 Agency, @richdigital.au
     location: "Australia"
-    followers: 13733
-    engagement: 498
-    commentsToLikes: 0.031569
-    id: ck5zqwyxfvgi10i14i8sb8kvp
+    followers: 20659
+    engagement: 915
+    commentsToLikes: 0.029612
+    id: ck5px8zmbqo8f0i11t59qr1qf
     verified: false
-    hashtags: "#rivalfamily, #sweetsavage, #sugarneekz, #teamlabruna"
+    hashtags: "#tbt, #unleashingjarvis, #miketyson, #boxing"
+  - username: "timtszyu"
+    fullname: >-
+      Tim Tszyu
+    bio: >-
+      Russian / Australian Professional boxer with a record of 17 - 0. Тим Цзю Team @everlastaustralia
+    location: "Australia"
+    followers: 101573
+    engagement: 893
+    commentsToLikes: 0.014741
+    id: ck0u2mc8k0c7b0i19hz2krfxe
+    verified: false
+    hashtags: "#dec16, #teamtszyu, #nolimitboxing, #tszyuhogan"
   - username: "helloitsbuster"
     fullname: >-
       Buster The Boxer
     bio: >-
       HELLO ITS BUSTER!! 🐶Red & White Boxer 🎂15.09.18 🇦🇺Newcastle, NSW 💰Use ‘Team25’ for 25% off your purchase at @geopetricpets
     location: "Australia"
-    followers: 9509
-    engagement: 788
-    commentsToLikes: 0.014674
+    followers: 9162
+    engagement: 611
+    commentsToLikes: 0.014203
     id: ck14jg57vk65p0i196blbfn1v
     verified: false
-    hashtags: "#busterlove, #boxerlife, #boxerclub, #aussiedogs"
+    hashtags: "#boxerdaily, #aussiedogs, #aussiedogsofinstagram, #busterlove"
+  - username: "jasonmoloney"
+    fullname: >-
+      Jason Moloney
+    bio: >-
+      🥊 Professional boxer signed with @trboxing 🏆 Record: 21-2 (18KO) 📩 Sponsorship enquires please contact: paul.fitzgerald@barkingdog.com.au
+    location: "Australia"
+    followers: 25857
+    engagement: 304
+    commentsToLikes: 0.026237
+    id: ck5hccy3qheop0i11axm6yh54
+    verified: true
+    hashtags: "#teammoloney, #toprank, #repost, #davidgoggins"
   - username: "tayla_harris"
     fullname: >-
       Tayla ⚡️ Harris
     bio: >-
-      22 | Melbourne | @nike @carltonfc_w AFLW #7 Professional boxer 🥊 2 division Australian Champ 🏆 YouTube ⬇️
+      24 | Melbourne | @nike AFLW @melbourneaflw 🏉 Professional boxer 🥊 2 division Australian Champ 🏆
     location: "Australia"
-    followers: 118486
-    engagement: 373
-    commentsToLikes: 0.008776
+    followers: 117048
+    engagement: 307
+    commentsToLikes: 0.009733
     id: ck0tyg1agmnsy0i19atnv31bn
     verified: true
-    hashtags: "#backyardbigfreeze, #filltheg, #goawaycorona, #cap"
-  - username: "timtszyu"
+    hashtags: "#messfreechallenge, #ad, #podiumpose, #elaine"
+  - username: "sugar_neekz"
     fullname: >-
-      Tim Tszyu
+      Sugar Neekz Johnson
     bio: >-
-      Russian / Australian Professional boxer with a record of 16 - 0. Тим Цзю Team @everlastaustralia
+      Professional Boxer | 13-0 #sweetsavage Team Labruna Boxing Rival Family
     location: "Australia"
-    followers: 80003
-    engagement: 414
-    commentsToLikes: 0.016214
-    id: ck0u2mc8k0c7b0i19hz2krfxe
+    followers: 14030
+    engagement: 407
+    commentsToLikes: 0.024828
+    id: ck5zqwyxfvgi10i14i8sb8kvp
     verified: false
-    hashtags: "#trueathlete, #thenaturaledge, #ad, #trueprotein"
-  - username: "skyebnic"
+    hashtags: "#fightcamp, #teamlabruna, #sugarneekz, #sweetsavage"
+  - username: "ravengrace.brindleboxer"
     fullname: >-
-      Skye Nicolson
+      Raven Grace & Young Henry
     bio: >-
-      Australian Boxer🥊 World medalist • CommGames gold medalist • Tokyo 2020ne Olympian • Proudly sponsored by @grandprixmazdaaspley • @cmbtnutrition •
+      🐶 Boxers from South Coast NSW Aus 🇦🇺 ➕ Brand Ambassadors for @dkstainless 💦 💲 Use Code RAVENANDHENRY for 10% off Storewide
     location: "Australia"
-    followers: 20301
-    engagement: 255
-    commentsToLikes: 0.020939
-    id: ck5cl3hehy6bo0i11rd11j1ri
-    verified: true
-    hashtags: "#schoolsout, #spam, #boxing, #work"
+    followers: 8626
+    engagement: 765
+    commentsToLikes: 0.018627
+    id: ck136rc2h7vn90i19pe7bei5r
+    verified: false
+    hashtags: ""
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Boston in 2023
+title: Top 10 Fashion TikTok Influencers In Boston In 2023
 description: >-
-  Find top fashion TikTok influencers in Boston in 2023. Most popular hashtags: #fashion #fyp #boston #foryou.
+  Find top fashion TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #fashion #boston #foryou.
 platform: TikTok
-hits: 35
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 35 TikTok influencers like this in Boston, United States for you to connect with.
+hits: 29
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 29 TikTok influencers like this in Boston, United States for you to contact.
 profiles:
-  - username: "littlebadbitch"
-    fullname: >-
-      Lani
-    bio: >-
-      Probably up to no good somewhere Insta: xolanixo 21
-    location: "United States"
-    followers: 74400
-    engagement: 1501
-    commentsToLikes: 0.020071
-    id: ck8kgq2u0jngd0j780sq7szsm
-    verified: false
-    hashtags: "#outfit, #college, #fashion, #boston"
-  - username: "themanjuan"
-    fullname: >-
-      TheManJuan
-    bio: >-
-      FREE SHIPPING FOR ORDERS 35+ Love the tattoos? Shop Below👇🏽
-    location: "United States"
-    followers: 10900
-    engagement: 420
-    commentsToLikes: 0.006262
-    id: ckd09avpkbhxk0j23yolpqhyu
-    verified: false
-    hashtags: "#fyp, #boston, #temporarytattoos, #tattoo"
-  - username: "bgruning2499"
-    fullname: >-
-      Brendan Gruning
-    bio: >-
-      Twitch: bgruning99 Random Relatable content 3,000 followers let’s get there
-    location: "United States"
-    followers: 2632
-    engagement: 716
-    commentsToLikes: 0.056291
-    id: ckcosrdro83dq0j23nsr5zwz3
-    verified: false
-    hashtags: "#foruyou, #foryoupage, #foryou, #goviral"
-  - username: "olivialorenmarcus"
-    fullname: >-
-      Olivia Marcus
-    bio: >-
-      Insta: @oliviamarcus NYC | FASHION
-    location: "United States"
-    followers: 27700
-    engagement: 1174
-    commentsToLikes: 0.013693
-    id: ckdbpue1ybkbr0j23okmxi1va
-    verified: false
-    hashtags: "#vlog, #nyc, #shopping, #hotel"
   - username: "jessalltoohuman"
     fullname: >-
       Jessica Knez
     bio: >-
       Int’l fashion buyer, Owner of @alltoohumanboston (IG)
     location: "United States"
-    followers: 3764
-    engagement: 456
-    commentsToLikes: 0.036235
+    followers: 3747
+    engagement: 426
+    commentsToLikes: 0.031695
     id: ck8p00g2nekr60j78ooqz36rs
     verified: false
-    hashtags: "#nyfw, #ootd, #fashion, #sallylapointe"
+    hashtags: "#alltoohumanboston, #nyfw, #sallylapointe, #fashion"
+  - username: "themanjuan"
+    fullname: >-
+      TheManJuan
+    bio: >-
+      Hey, I make temporary tattoos that looks real and last 1-2 weeks. Check it out
+    location: "United States"
+    followers: 17000
+    engagement: 671
+    commentsToLikes: 0.016727
+    id: ckd09avpkbhxk0j23yolpqhyu
+    verified: false
+    hashtags: "#fyp, #tattoos, #boston, #temporarytattoos"
+  - username: "bgruning2499"
+    fullname: >-
+      Brendan Gruning
+    bio: >-
+      Twitch: bgruning99 Random 3,000 followers let’s get there
+    location: "United States"
+    followers: 2633
+    engagement: 738
+    commentsToLikes: 0.052358
+    id: ckcosrdro83dq0j23nsr5zwz3
+    verified: false
+    hashtags: "#foryoupage, #foryou, #virel, #trending"
+  - username: "princecollywolly"
+    fullname: >-
+      Colly Wolly
+    bio: >-
+      sickly cousin who gets sent to the seaside in an Austen novel 🌊📖 | she/her
+    location: "United States"
+    followers: 7991
+    engagement: 1538
+    commentsToLikes: 0.059095
+    id: ckdh11xqurobh0j23s3wr0o6k
+    verified: false
+    hashtags: "#englishmajor, #godzillavskongroar, #thebadbatch, #plussizeedition"
+  - username: "lisaxphan"
+    fullname: >-
+      Lisa Phan
+    bio: >-
+      🤠🤚
+    location: "United States"
+    followers: 17900
+    engagement: 835
+    commentsToLikes: 0.017250
+    id: ck9fxjk056vwb0j788humu0iv
+    verified: true
+    hashtags: "#ootd, #aritzia, #outfit, #dior"
+  - username: "t1mmy8"
+    fullname: >-
+      Tim
+    bio: >-
+      Follow my new insta^ 30k? Venmo-t1mmy8
+    location: "United States"
+    followers: 25700
+    engagement: 1660
+    commentsToLikes: 0.034039
+    id: ck9gn8ojovpl30j78zu09c9sg
+    verified: false
+    hashtags: "#cobrakaichop, #snowboard, #skateboarding, #skater"
+  - username: "lizziedubs"
+    fullname: >-
+      Lizzie W
+    bio: >-
+      🌈👭😻🤓🧬 Boston 26 Too old for this but oh well!
+    location: "United States"
+    followers: 3285
+    engagement: 930
+    commentsToLikes: 0.025612
+    id: ck9r4i5u2v4hn0j78p8eac4t6
+    verified: false
+    hashtags: "#foryou, #lesbian, #fyp, #xyzbca"
+  - username: "michaelakeat"
+    fullname: >-
+      michaela keating
+    bio: >-
+      she/her - 20 Boston
+    location: "United States"
+    followers: 64200
+    engagement: 1698
+    commentsToLikes: 0.020531
+    id: ck8ufv0uw37m90j78d12v27we
+    verified: false
+    hashtags: "#wlw, #fyp, #greenscreen, #foryou"
   - username: "kykybebeh"
     fullname: >-
       kykybebeh
     bio: >-
       follow your dreams, but also follow me IG: @kykybebeh Hawaii || Boston
     location: "United States"
-    followers: 2874
-    engagement: 555
-    commentsToLikes: 0.026572
+    followers: 2898
+    engagement: 545
+    commentsToLikes: 0.026148
     id: ckd09azygbi3q0j23sb78gprn
     verified: false
-    hashtags: "#baseball, #fyp, #college, #fashion"
-  - username: "danagoeswest"
+    hashtags: "#fashion, #sports, #baseball, #fyp"
+  - username: "ian.brownhill"
     fullname: >-
-      Dana West
+      Ian
     bio: >-
-      Venmo: @danagoeswest Instagram: reverend_west Boston
+      Actor 🎞 R.I⚓️ I Do A Bit Of Everything 👇🏼MerchStore | Contact | Socials👇🏼
     location: "United States"
-    followers: 24600
-    engagement: 1326
-    commentsToLikes: 0.053487
-    id: ckcvhjjxkubug0j23nt411t8r
-    verified: true
-    hashtags: "#soho, #egirl, #rock, #foryoupage"
-  - username: "sperothehero"
-    fullname: >-
-      Sophia
-    bio: >-
-      NYC singer/songwriter (she/her) insta original music & BLM resources below⬇️
-    location: "United States"
-    followers: 12500
-    engagement: 1631
-    commentsToLikes: 0.067698
-    id: ck9fln0odoti40j789zlffe68
+    followers: 560100
+    engagement: 1535
+    commentsToLikes: 0.063691
+    id: ck8ttlrljs1cu0j782fzzyz02
     verified: false
-    hashtags: "#greenscreen, #imjealous, #dialitforward, #singing"
-  - username: "maybe.its.mabeline"
-    fullname: >-
-      Mabel L’Ecuyer
-    bio: >-
-      NYC 5,044 people hate Kaitlyn Bennett Biden 2020 ly grandpa🥰😘
-    location: "United States"
-    followers: 5040
-    engagement: 1479
-    commentsToLikes: 0.082460
-    id: ckb1bjn5m038p0j23q7g1o5or
-    verified: false
-    hashtags: "#nyc, #viral, #fyp, #alt"
-  - username: "jimmypemberton"
-    fullname: >-
-      Jimmy Pemberton
-    bio: >-
-      📍Boston🥁endorsed Mapex/Vater 🎯 Founder of LessonSquad.com
-    location: "United States"
-    followers: 6029
-    engagement: 1473
-    commentsToLikes: 0.179489
-    id: ck9kdgouuu5y20j7878lmpc9k
-    verified: true
-    hashtags: "#workdistractions, #fashion, #drums, #agreeordisagree"
+    hashtags: "#maine, #relatable, #duetme, #actor"
 ---

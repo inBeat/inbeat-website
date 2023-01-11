@@ -1,130 +1,106 @@
 ---
-title: Top 10 Painters Instagram Influencers In Austria in 2023
+title: Top 10 Painters Instagram Influencers In Austria In 2023
 description: >-
-  Find top painters Instagram influencers in Austria in 2023. Most popular hashtags: #austria #art #artwork #contemporaryart.
+  Find top painters Instagram influencers in Austria in 2023. Most popular hashtags: #pinterest #vienna #aesthetic #weekend.
 platform: Instagram
-hits: 28
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 28 Instagram influencers like this in Austria for you to connect with.
+hits: 8
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 8 Instagram influencers like this in Austria for you to collaborate.
 profiles:
   - username: "julesboho.tattoo"
     fullname: >-
       Jules Boho
     bio: >-
-      tattoo artist • illustrator • painter • globetrotter • co-owner of Linzer Tattooatelier • based in Linz, AT 🇦🇹🌎 ☀️🤙🏼
+      tattoo artist • illustrator • painter • globetrotter(usually)• co-owner of Linzer Tattooatelier • based in Linz, AT 🇦🇹🌎 ☀️🤙🏼
     location: "Austria"
-    followers: 49776
-    engagement: 152
-    commentsToLikes: 0.014036
+    followers: 49531
+    engagement: 154
+    commentsToLikes: 0.022893
     id: ck0u83d8h6g4a0i196353gfnx
     verified: false
-    hashtags: "#avantgardetattoo, #naturetattoo, #contemporarytattooing, #art"
-  - username: "reem_majed55"
+    hashtags: "#toptattooartist, #artistsoninstagram, #sketchtattoo, #naturetattoo"
+  - username: "gohar.beauty"
     fullname: >-
-      Reem Majed ريـم
+      Gohar - Beauty | Fashion | Mom
     bio: >-
-      أكادُ أستفرغ قلبيـ 🤍 💍 Personal Trainer | Painter
+      🏆Award Winning Blogger 2018 ▪️Social Media Manager ▪️Content Creator ▪️mail: gohar@followaustria.management ▪️based in Vienna
     location: "Austria"
-    followers: 3543
+    followers: 39835
+    engagement: 117
+    commentsToLikes: 0.020536
+    id: ck15rsxyu9jjl0i19zaep5f62
+    verified: false
+    hashtags: "#discoverunder100k, #sealife, #viennablogger, #antalya"
+  - username: "alohaa_tina"
+    fullname: >-
+      Fashion | Lifestyle
+    bio: >-
+      T I N A Austria | Vienna | Carinthia Lost her heart in London cat mum
+    location: "Austria"
+    followers: 25169
+    engagement: 273
+    commentsToLikes: 0.079360
+    id: ck6tpudlbn1q60j71eu87uej8
+    verified: false
+    hashtags: "#inspojunkie, #austrianblogger, #christmasdecorating, #weekendmode"
+  - username: "aminaspassion"
+    fullname: >-
+      AMINASPASSION
+    bio: >-
+      HIJAB✨•FLATLAYS📸•EDITING📱 🏷owner of @resinartbyamina ✉️-aminag96@hotmail.com 📍Vie🇦🇹 - Alg🇩🇿 🌿-girls only
+    location: "Austria"
+    followers: 16384
+    engagement: 392
+    commentsToLikes: 0.056655
+    id: ck8tae4w1re3p0j78chvebifd
+    verified: false
+    hashtags: "#igers, #vienna, #contentcreator, #hijabi"
+  - username: "martinherak"
+    fullname: >-
+      𝕄𝕒𝕣𝕥𝕚𝕟
+    bio: >-
+      @blazerproscooters
+    location: "Austria"
+    followers: 11228
+    engagement: 714
+    commentsToLikes: 0.010611
+    id: ck5zw0n6x592c0i14cr2y6qf7
+    verified: false
+    hashtags: "#love, #smile, #bbswheels, #fabiars"
+  - username: "alisapekic"
+    fullname: >-
+      Alisa ♡
+    bio: >-
+      📐 DI, architect 🤍 fashion, bags and interior lover 📍 based in Vienna, Austria 💌 alisa.pekic@hotmail.com
+    location: "Austria"
+    followers: 10371
+    engagement: 450
+    commentsToLikes: 0.154204
+    id: ck55on5zp8pcn0i11di55we2b
+    verified: false
+    hashtags: "#mybeigelife, #aestheticfeed, #andsave, #simplebeyond"
+  - username: "sweetenzias"
+    fullname: >-
+      Sᴡᴇᴇᴛᴇɴᴢɪᴀꜱ | Mᴀᴋᴇᴜᴘ Aʀᴛɪꜱᴛ
+    bio: >-
+      🎨 | ᴄᴇʀᴛɪғɪᴇᴅ ᴍᴀᴋᴇᴜᴘ ᴀʀᴛɪsᴛ 🏆 | ᴀʀᴛ ʙᴀʙᴇ ᴀᴡᴀʀᴅꜱ ᴡɪɴɴᴇʀ 2020 👁 | %ᴅɪꜱᴄᴏᴜɴᴛ ᴄᴏᴅᴇ: @ttd_eye : ꜱᴡᴇᴇᴛᴇɴᴢɪᴀꜱ ⬇️ 📨 | ᴅᴍ/ ᴇᴍᴀɪʟ: ᴍᴜᴀ_sᴡᴇᴇᴛᴇɴᴢɪᴀs@ɢᴍx.ᴀᴛ
+    location: "Austria"
+    followers: 6631
+    engagement: 1055
+    commentsToLikes: 0.194898
+    id: ckap22w1xx5820i783b7th47f
+    verified: false
+    hashtags: "#editorialmakeup, #creativeart, #mehronhalloween, #faceproject2018"
+  - username: "murphy_best_dog_ever"
+    fullname: >-
+      Murphy
+    bio: >-
+      ~I’m looking right at the other half of me @_jaasmin_0311_ 💗 •🐶Havanese •🇺🇸/🇦🇹 Vienna, Austria
+    location: "Austria"
+    followers: 4728
     engagement: 968
-    commentsToLikes: 0.039678
-    id: ck8t0zjaatwtr0j78psklk4mw
+    commentsToLikes: 0.083643
+    id: ckap4dvgo6x3x0i7894omgrs4
     verified: false
-    hashtags: "#lifestyle, #girls, #travel, #makeup"
-  - username: "kateprinzesska"
-    fullname: >-
-      Kate Prinzesska
-    bio: >-
-      @automotive.girls ❤️ girl behind the gun 🎨 #coatingtechnician 😍 #carpainterchallenge 🚕 passat 32b 🚗 3 cats🐈🐈🐈 1 dog🐶 zoo keeper 🐎🐐
-    location: "Austria"
-    followers: 6094
-    engagement: 646
-    commentsToLikes: 0.035097
-    id: ckap9qsoeta080i78ahtocn0z
-    verified: false
-    hashtags: "#coatingtechnican, #paintjob, #automotivegirls, #refinishkulture"
-  - username: "carola_deutsch"
-    fullname: >-
-      Carola Deutsch
-    bio: >-
-      ART I TATTOO I DESIGN Co-owner of @decasa_creative_studio Check out our website for an overview of my work
-    location: "Austria"
-    followers: 15103
-    engagement: 202
-    commentsToLikes: 0.036901
-    id: ck55ocpah83uc0i1114gyr3x7
-    verified: false
-    hashtags: "#streetart, #artlovers, #graphicart, #austrianartist"
-  - username: "rucksi"
-    fullname: >-
-      Christian Ruckerbauer
-    bio: >-
-      "Surrender to that which is without words. Art can point to that space beyond thoughts and feelings" CR artist and curator art dealers: @ellegro.art
-    location: "Austria"
-    followers: 50502
-    engagement: 170
-    commentsToLikes: 0.019371
-    id: ckaoxgaffd4az0i783414q6yh
-    verified: false
-    hashtags: "#blue, #waveart, #igersvienna, #surfart"
-  - username: "aesthetical_symphonies"
-    fullname: >-
-      AESTHETICAL SYMPHONIES
-    bio: >-
-      Dedicated to the Celebration of Europe's Otherworldly Artistic and Architectural Magnificence and Majesty as seen through my photography. 🎼 Vienna
-    location: "Austria"
-    followers: 18235
-    engagement: 401
-    commentsToLikes: 0.007851
-    id: ck14j2fuiiaic0i19ssz3xr2l
-    verified: false
-    hashtags: "#classicism, #marble, #gothicarchitecture, #louvremuseum"
-  - username: "maddaliving"
-    fullname: >-
-      MaddaLiving
-    bio: >-
-      Blog: #living 🌸 #diy 🌸 #cook it yourself ➡️ für kleine Wohnungen 📍 Wien Pinterest: MaddaLiving Blog-Beitrag zu Schnittblumen:
-    location: "Austria"
-    followers: 10203
-    engagement: 697
-    commentsToLikes: 0.058796
-    id: ck13bpaeawii60i19mzlxhune
-    verified: false
-    hashtags: "#backenistliebe, #blumen, #happyme, #backenmachtspass"
-  - username: "1000thingsinvienna"
-    fullname: >-
-      1000things to do in Vienna
-    bio: >-
-      ✏️ Das 1000things-Team bloggt für euch aus VIE 📱 www.1000things.at 📍 www.pinterest.at/1000thingsat/ #1000thingsinvienna ❤️ Hier der aktuellste Link:
-    location: "Austria"
-    followers: 111881
-    engagement: 206
-    commentsToLikes: 0.070861
-    id: ck137qmmucvz90i198yxit2fk
-    verified: false
-    hashtags: "#1000things, #viennanow, #visitaustria, #feelaustria"
-  - username: "brenneisen"
-    fullname: >-
-      Malte Brenneisen
-    bio: >-
-      🎯: T2 Westy, English Pointer, Garden State 🖇️: @indiemags, @gentlerainmag, @oberhafen ⚡: #iaminmykotten #mückethepointer #gardenstate
-    location: "Austria"
-    followers: 5095
-    engagement: 630
-    commentsToLikes: 0.022402
-    id: ck14ickjoeqqm0i1924ebpzg4
-    verified: false
-    hashtags: "#iaminmykotten, #gardenstate, #stayathome, #highuptransporters"
-  - username: "1000thingsinaustria"
-    fullname: >-
-      1000things to do in Austria
-    bio: >-
-      ✏️ Das 1000things-Team bloggt für euch aus AUT 📱 www.1000things.at 📍 www.pinterest.at/1000thingsat/ #1000thingsinaustria ❤ Hier der Link zum Artikel:
-    location: "Austria"
-    followers: 78947
-    engagement: 255
-    commentsToLikes: 0.015579
-    id: ck0twulnqgt3i0i19mf9ulc0b
-    verified: false
-    hashtags: "#uppermoments, #wirsehenunsdrau, #igersaustria, #austriatoday"
+    hashtags: "#puppy, #picoftheday, #vienna, #todaypawsjuly"
 ---

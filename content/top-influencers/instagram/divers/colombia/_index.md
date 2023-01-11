@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Colombia in 2023
+title: Top 10 Divers Instagram Influencers In Colombia In 2023
 description: >-
-  Find top divers Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #diversion #quedateencasa #tbt.
+  Find top divers Instagram influencers in Colombia in 2023. Most popular hashtags: #tbt #colombia #peru.
 platform: Instagram
-hits: 62
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 62 Instagram influencers like this in Colombia for you to pitch.
+hits: 51
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 51 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
-  - username: "suheyncipriani"
-    fullname: >-
-      S U H E Y N 𓂀 C I P R I A N I
-    bio: >-
-      Sígueme para ser parte de esta linda familia ✨ Mamá de Alejandro. 🐥 PADI Diver. 🧜🏻‍♀️ @soulsuitesalon 🤎 Hija de dios. 🌻
-    location: "Colombia"
-    followers: 26135
-    engagement: 502
-    commentsToLikes: 0.039266
-    id: ck8tcvrv60vgm0j780ujrhjub
-    verified: false
-    hashtags: "#missecointernacional, #missecoperu2019, #missecointernational2019, #eco"
   - username: "donjuanarango"
     fullname: >-
       Juan Carlos Arango C.®️
     bio: >-
       💯🇨🇴🇦🇷🇧🇷🇹🇷🇦🇪💎👽🏐🐶🐮🐴🐝🐟🍋🌲💰🌽🚤🚘🏇🚴🎣🤾🏽‍♂️🏋🏃🎶✝️♈️ DIVERSIFICADOR PROFESIONAL ® Hago de todo Xq todo no me puede salir mal 😉"pepe"Mújica.Hijo de José y María 😄😇
     location: "Colombia"
-    followers: 11166
-    engagement: 949
-    commentsToLikes: 0.004169
+    followers: 11140
+    engagement: 954
+    commentsToLikes: 0.004242
     id: ckapcbrsz36i10i78cij8rchg
     verified: false
-    hashtags: "#pecuaria, #zootecnia, #agronegocio, #country"
+    hashtags: "#agrario, #ganado, #rustico, #caballos"
+  - username: "juliuribee8"
+    fullname: >-
+      JULI.U
+    bio: >-
+      @bettyblue_beauty ⚡️DIOS ES AMOR🤍 🔎Stalkea con confianza 💄Moda 🗣Chismes 😂Diversión 🙈Experiencias
+    location: "Colombia"
+    followers: 16993
+    engagement: 117
+    commentsToLikes: 0.110171
+    id: ckf5oo7t032zb0j23ipto6o4z
+    verified: false
+    hashtags: "#red, #detumano, #outfits, #medellin"
   - username: "karol_lucerov"
     fullname: >-
       Karol Jesús Lucero V.❗️
     bio: >-
-      Tv/Radio Host -Founder @AyudaAlProjimocl Sigan @FyKtravel @K_mindset21 Businessman Skydiver Diver #DjKä @KBmusicdj Trader📈CEO @Grupo_Luves⬇️✈️🌎
+      Tv/Radio Host -Founder @AyudaAlProjimocl Sigan➡️ @FyKtravel @K_mindset21 Businessman Skydiver Diver @KBmusicdj🎧 #Bitcoin Trader📈📕⬇️CEO @Grupo_Luves🚀
     location: "Colombia"
-    followers: 2564062
-    engagement: 52
-    commentsToLikes: 0.014828
+    followers: 2548295
+    engagement: 47
+    commentsToLikes: 0.013510
     id: ck5q5jp5nt7ev0i11ixzxpicf
     verified: true
-    hashtags: "#goodvibes, #photooftheday, #tbt, #vamoschile"
+    hashtags: "#sanvalentin, #finde, #goodvibes, #photooftheday"
+  - username: "alejandro_jama"
+    fullname: >-
+      alejandro Montañez🇨🇴
+    bio: >-
+      DonAlejandro📌 Solo diversión y risas 😂🤣 ⭐️PUBLICIDAD ⭐️⬇⬇ 📞 +57 3214043044
+    location: "Colombia"
+    followers: 200950
+    engagement: 476
+    commentsToLikes: 0.019080
+    id: ck6uci13tfq0b0j71bit7tz6n
+    verified: false
+    hashtags: ""
+  - username: "suheyncipriani"
+    fullname: >-
+      S U H E Y N 𓂀 C I P R I A N I
+    bio: >-
+      Sígueme para ser parte de esta linda familia ✨ Mamá de Alejandro. 🐥 PADI Diver. 🧜🏻‍♀️ Kurama 🦊
+    location: "Colombia"
+    followers: 25723
+    engagement: 485
+    commentsToLikes: 0.037715
+    id: ck8tcvrv60vgm0j780ujrhjub
+    verified: false
+    hashtags: "#worldenvironmentday, #peru, #nature, #suheyncipriani"
   - username: "orlandoduque"
     fullname: >-
       orlandoduque
     bio: >-
-      🇨🇴 Diver @redbull @wingsforlife @landrovercolombia @gloryfy @duques808 @on_running Fundación Malpelo👇🏾👇🏾
+      🇨🇴 Diver @redbull @wingsforlife @landrovercolombia @ride_bmc_col @duques808 @on_running Fundación Malpelo👇🏾👇🏾
     location: "Colombia"
-    followers: 130432
-    engagement: 212
-    commentsToLikes: 0.020576
+    followers: 130739
+    engagement: 188
+    commentsToLikes: 0.015410
     id: ck0w0083ebqvp0i19u6g3j25x
     verified: true
-    hashtags: "#hawaii, #quedateencasa, #sanandres, #tbt"
+    hashtags: "#tbt, #patrocinadoporskinceuticalsco, #rutinaskinceuticals, #hawaii"
   - username: "micolombiaoficial"
     fullname: >-
       Colombia
     bio: >-
       🧳 Viajes y Fotografías 📷 🔝Desde 2015 🔎 Descubre la diversidad Cultural, gastronómica y Natural de Colombia. 🇨🇴🇨🇴🇨🇴 🥘🏖⛰ Utiliza: #MicolombiaOficial
     location: "Colombia"
-    followers: 51765
-    engagement: 225
-    commentsToLikes: 0.009880
+    followers: 51913
+    engagement: 160
+    commentsToLikes: 0.008259
     id: ck8svrh47cfix0j78wjx3w2ls
     verified: false
-    hashtags: ""
-  - username: "ahora.un.momazo32"
+    hashtags: "#iphonemedellin"
+  - username: "hagase_su_voluntad"
     fullname: >-
-      Humor/Memes/Videos/Momos/Risas
+      Jossy, Toda tuya soy
     bio: >-
-      🕹️ |Diversion diaria garantizada 📸 |Dinamicas e historias divertidisimas 🏅 |¿Meta? Traerte los MEJORES MOMAZOS 🔴 |⏬OBTEN TU DESCUENTO⏬
+      Podrás encontrar oraciones, reflexiones, y diversas devociones, y palabras de aliento de parte de Dios. 💞🌎🇩🇴 Cuenta de respaldo @delamanodejesusymaria
     location: "Colombia"
-    followers: 40429
-    engagement: 1781
-    commentsToLikes: 0.007377
-    id: ckaoy9v1wglxj0i781mak46f1
+    followers: 1419
+    engagement: 4033
+    commentsToLikes: 0.025501
+    id: ck0w6egxn86m80i19ytvezjkf
     verified: false
-    hashtags: ""
-  - username: "viajandosinfrenos"
+    hashtags: "#fe, #dios, #enero, #graciasdios"
+  - username: "sofia_jaramillo5"
     fullname: >-
-      Nicolás Iriondo
+      Sofia Jaramillo
     bio: >-
-      Es hora de disfrutar viajando 🧳 🇨🇴🇪🇸 Viajero Colombo-Español recorriendo el 🌎 ✈️ @voyager.col 📍Colombia 🇨🇴🔛40 países 👇Destinos y consejos en el blog👇
+      Colombian-American Photographer & Filmmaker @natgeoadventure @natgeotravel @julianabicycles #diversifytheoutdoors #elevateBIPOCvoices
     location: "Colombia"
-    followers: 26255
-    engagement: 178
-    commentsToLikes: 0.153689
-    id: ck0vx2i2gwti00i191rv6auas
+    followers: 23395
+    engagement: 294
+    commentsToLikes: 0.018022
+    id: ck5zplqjgsvu50i14nt73m7ah
     verified: false
-    hashtags: "#explorer, #mylpguide, #mompox, #viajaporelmundo"
-  - username: "leojuansinmiedo"
+    hashtags: "#wintersports, #ninjasticking, #winteradventures, #skiing"
+  - username: "lavozdelhincha.peru"
     fullname: >-
-      Leonardo Cárdenas 🇨🇴
+      La Voz del Hincha Peruano 🇵🇪
     bio: >-
-      Seguir siguiendo al corazón y coquetear con la intuición seguir creciendo y esquivando las rutinas " (Soledad Pastorutti) (Envigado - Colombia)
+      Sean bienvenidos al blog con el contenido más diverso sobre el fútbol peruano.
     location: "Colombia"
-    followers: 209467
-    engagement: 78
-    commentsToLikes: 0.029351
-    id: ckaoqzt0gl3kb0i78ybskxkds
+    followers: 27086
+    engagement: 678
+    commentsToLikes: 0.026709
+    id: ck8tbxi4mxkj80j78cpluvs4r
     verified: false
-    hashtags: "#humor, #crecimientopersonal, #cosasdelavida, #risas"
-  - username: "nickelodeonesp"
-    fullname: >-
-      Nickelodeon España
-    bio: >-
-      Cuenta Oficial Nickelodeon España 📽 Vídeos 🕹 Juegos 📷 Celebs 🔝 y más cosas sobre tus series favoritas 🤩 Descarga el ebook de #BobEsponja 👇
-    location: "Colombia"
-    followers: 50773
-    engagement: 173
-    commentsToLikes: 0.066956
-    id: ck14l8hnutdbj0i19si26gbzu
-    verified: true
-    hashtags: "#kidstogether, #nickelodeon, #juego, #unacasadelocos"
-  - username: "darelystv"
-    fullname: >-
-      🎬DarelysTv📸
-    bio: >-
-      Hola,soy Arely🇲🇽 Mamá de 3 princesitas 👭💃 Ama de casa🛒 Esposa 💍👫 Vloger (YouTuber)📷 Entra al Link para formar parte de mi vida(mi canal de Youtube👇🏼)
-    location: "Colombia"
-    followers: 21833
-    engagement: 1332
-    commentsToLikes: 0.035403
-    id: ck8t77r2yfvdn0j78q61ho525
-    verified: false
-    hashtags: "#fall, #fallfestival, #vlogs, #youtuber"
+    hashtags: "#claudiopizarro, #jeffersonfarfan, #pericoleon, #per"
 ---

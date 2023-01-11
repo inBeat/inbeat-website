@@ -1,60 +1,36 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Austin in 2023
+title: Top 10 Barbers Instagram Influencers In Austin In 2023
 description: >-
-  Find top barbers Instagram influencers in Austin in 2023. Most popular hashtags: #barber #barbershopconnect #btconeshot2020 #hair.
+  Find top barbers Instagram influencers in Austin in 2023. Most popular hashtags: #hair #barber #haircut #barbershop.
 platform: Instagram
 hits: 11
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in Austin, United States for you to pitch.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 11 Instagram influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "queenofthesouth512"
     fullname: >-
-      Patricia Plymire
+      QueenOfTheSouth |Pati Plymire
     bio: >-
-      Queen of the South👑 LaReinaDelSur Austin, Texas @stylefactor_edge BTC OneShot Finalist '19 Braid Plug🔌 Barber💈 Appts Required Booking link⬇️
+      LaReinaDelSur👑 Austin,Texas @stylefactor_edge educator @schedulicity family @haircbc_pro BTC OneShotFinalist '19, 2x 2021 Barber💈🔌
     location: "United States"
-    followers: 38170
-    engagement: 245
-    commentsToLikes: 0.030514
+    followers: 84759
+    engagement: 193
+    commentsToLikes: 0.028212
     id: ck5chuczerhae0i11obepzebi
     verified: false
-    hashtags: "#austinbraider, #love, #vibratehigher, #austinbarber"
-  - username: "jessglazasaloncentric"
+    hashtags: "#travel, #paulmitchell, #art, #queenofthesouth"
+  - username: "kellykobayashi"
     fullname: >-
-      Jessica Glaza Saloncentric
+      Kobyfilms
     bio: >-
-      Saloncentric Sales Consultant #ittakesapro @saloncentric Salon Success Partner✨ Cosmetologist✂️ Beauty Insider💄 @jessglaza 💋 ✌️Tag me to be Featured
+      Philippians 4:13 ✨ // Newport Beach, CA BU’22 ❤️🦅 Tik tok: kellykoby 40k+ Videos for @biolaathletics Intern for @orangecountysoccer Austin Noland ❤️
     location: "United States"
-    followers: 33929
-    engagement: 65
-    commentsToLikes: 0.024298
-    id: ck0uetranm9ar0i19srvzo24b
+    followers: 2378
+    engagement: 830
+    commentsToLikes: 0.077408
+    id: ck9wgnocdu6580j78u4jq3thd
     verified: false
-    hashtags: "#hair, #beautylaunchpad, #livedinhair, #longhair"
-  - username: "elitebarberslounge"
-    fullname: >-
-      Joliet, Chicago
-    bio: >-
-      📍JOLIET, IL 30 miles SW of CHICAGO Walk ins welcome - Appointments preferred 💈Founder @jesse.elite87 @jesseelite Now Hiring Barber Apprentice
-    location: "United States"
-    followers: 243396
-    engagement: 48
-    commentsToLikes: 0.008074
-    id: ck5bw39qgkwxy0i119oy52wni
-    verified: false
-    hashtags: "#thebarber, #dopebarbers, #sharpfades, #babylisspro"
-  - username: "thestarsbarber"
-    fullname: >-
-      Barry Hairston /TheStarsBarber
-    bio: >-
-      🌟Exclusive🧳 #celebritybarber 🌟💪🏽 Junkie 🌟NBA🏀 /MLB⚾️ 💈 🌟@jetaime211 Wifey 👸 🌟 @schedulicity📲 Brand Ambassador 🌟 @gillette #BarberCouncil 📰Press👇🏽
-    location: "United States"
-    followers: 35176
-    engagement: 205
-    commentsToLikes: 0.006297
-    id: ck5q89pw353pb0i111ops9k9v
-    verified: false
-    hashtags: "#ringlight, #illuzien, #haircut, #gillettepartner"
+    hashtags: "#shoot, #contentcreator, #videooftheday, #prosoccer"
   - username: "detroitbarberco"
     fullname: >-
       Detroit Barbers 💈
@@ -66,65 +42,89 @@ profiles:
     commentsToLikes: 0.031299
     id: ck6tiy70l1no80j71ke57w10m
     verified: false
-    hashtags: "#repost, #michigan, #besafe, #lmfao"
+    hashtags: "#tipmybarber, #englishbulldog, #besafe, #michigan"
+  - username: "elitebarberslounge"
+    fullname: >-
+      Joliet, Chicago
+    bio: >-
+      📍JOLIET, IL 30 miles SW of CHICAGO Walk ins welcome - Appointments preferred 💈Founder @jesse.elite87 @jesseelite Now Hiring Barber Apprentice
+    location: "United States"
+    followers: 243396
+    engagement: 48
+    commentsToLikes: 0.008074
+    id: ck5bw39qgkwxy0i119oy52wni
+    verified: false
+    hashtags: "#barberhustle, #skinfade, #famousbarber, #ohiobarber"
+  - username: "byrdmena"
+    fullname: >-
+      SharpFade 🇻🇪
+    bio: >-
+      🚀Founder @Sharpfade | Retired 💈 💈Co-Founder @Riseofhair | 🌎 25+ Countries 🧠Global Creative Consultant @wahlpro 📱@BooksyBIZ Partner 🎙 INTL Host
+    location: "United States"
+    followers: 71554
+    engagement: 200
+    commentsToLikes: 0.080107
+    id: ck0w55fgj1zih0i19h3iwjsra
+    verified: false
+    hashtags: "#moda, #style, #barber, #wahl"
+  - username: "tailorfade"
+    fullname: >-
+      Trevor Moots ✪
+    bio: >-
+      Orlando | FL 🌴 ◽️ WAHL Creative Team ✈️ Travels ◽️ Haircuts 📷 Photographies ◽️ Traditions Barbershop 📲 Contact For Education
+    location: "United States"
+    followers: 49775
+    engagement: 265
+    commentsToLikes: 0.091129
+    id: ck5q1yu0cdg400i11wej4vfov
+    verified: false
+    hashtags: "#iheartpm, #paulmitchellus, #barbergang, #barberinspirations"
+  - username: "hairkingzceo"
+    fullname: >-
+      𝐇𝐀𝐈𝐑 𝐊𝐈𝐍𝐆𝐙
+    bio: >-
+      👑 ᶠᴼᵁᴺᴰᴱᴿ / ᶜᴱᴼ ᴼᶠ 𝐇𝐀𝐈𝐑 𝐊𝐈𝐍𝐆𝐙 👑 @hairkingznation 👑 ★★★★★
+    location: "United States"
+    followers: 58554
+    engagement: 165
+    commentsToLikes: 0.018057
+    id: ck602dt8gh7610i14mujf6pze
+    verified: false
+    hashtags: "#sharpfade, #barbersinctv, #barbers, #miamibarber"
   - username: "worldclassbarbering"
     fullname: >-
-      ♛WorldClassBarbering♛FL Barber
+      ♛WorldClassBarbering♛
     bio: >-
-      💈 Best barbers in the game 💲Tag @worldclassbarbering and use #worldclassbarbering for s/o and reposts❗️ 🔥 Hottest haircuts and styles ✂️ Features
+      Posting the Best Haircuts In the WORLD 🌎 For Features Tag @WorldClassBarbering and use hashtag #worldclassbarbering For Advertising: DM 📤
     location: "United States"
-    followers: 41262
-    engagement: 399
-    commentsToLikes: 0.040523
+    followers: 38191
+    engagement: 313
+    commentsToLikes: 0.042969
     id: ck5c6es9e5afb0i117ca8hb6w
     verified: false
-    hashtags: "#hairtransformation, #ukbarbers, #denverbarber, #babylisspro"
-  - username: "diego_djdgaf"
+    hashtags: "#fadeuy, #blurryfade, #denverbarber, #wahl"
+  - username: "jessglazasaloncentric"
     fullname: >-
-      Diego Elizarraras  ✪
+      Jessica Glaza Saloncentric
     bio: >-
-      •Owner @HOUSEOFFADE •CEO @STRANDTHEBRAND •Office @STRUCTUREDTLA •Education @THECONCEPTACADEMY
+      Saloncentric Sales Consultant #ittakesapro @saloncentric Salon Success Partner✨ Cosmetologist✂️ Beauty Insider💄 @jessglaza 💋 ✌️Tag me to be Featured
     location: "United States"
-    followers: 148082
-    engagement: 115
-    commentsToLikes: 0.054477
-    id: ck6tp1jkyhbfg0j71af8ewr3i
+    followers: 32313
+    engagement: 58
+    commentsToLikes: 0.024764
+    id: ck0uetranm9ar0i19srvzo24b
     verified: false
-    hashtags: "#structuredtla, #portland, #grindmode, #newyork"
-  - username: "maury_bruce"
+    hashtags: "#modernsalon, #hairlove, #beautifulhair, #warmblonde"
+  - username: "taystyles707"
     fullname: >-
-      Maury Bruce
+      Braid/Stylist Directory
     bio: >-
-      时装模特/ 運動員/ 演員/ 私人教練/MA: @imdinc / For Bookings: hollie@imdmodeling.com TikTok: @maury_bruce
+      👉🏽❗I DO NOT BRAID ANYMORE🙅🏽‍♀️❗👈🏽 👑 RECOMMENDED BRAIDERS, LOCTICIANS & STYLISTS 💘 Stylists: follow @hair_sleeve
     location: "United States"
-    followers: 3071
-    engagement: 1205
-    commentsToLikes: 0.094044
-    id: ck0u2n96g0gbt0i19tbtyo94j
+    followers: 21311
+    engagement: 46
+    commentsToLikes: 0.025723
+    id: ck0vz9b7t7yiq0i197b8da0cb
     verified: false
-    hashtags: "#confident, #photoshoot, #photography, #losangeles"
-  - username: "elevatehair"
-    fullname: >-
-      Hair Party / Tools / Media
-    bio: >-
-      Elevate TV Episode 1 November 6th 10 pm EST 📺🔊‼️ Go to elevatehair.com DJ starts at 8:30pm Only 500 spots first to login, first to party🔊
-    location: "United States"
-    followers: 120768
-    engagement: 123
-    commentsToLikes: 0.006844
-    id: ck8t5cfcz9mtv0j78kfpqs485
-    verified: false
-    hashtags: "#mullets, #mulletsofinstagram, #pixiecut, #mulletlife"
-  - username: "david____escamilla"
-    fullname: >-
-      OC BARBER 🍊 | DAVID ESCAMILLA
-    bio: >-
-      • YOUTUBE 📺: DAVID ESCAMILLA(15k +Subs) • Orange County Barber 🍊#714 • APPOINTMENTS ONLY📝 CLICK LINK TO BOOK 👇🏻
-    location: "United States"
-    followers: 44663
-    engagement: 187
-    commentsToLikes: 0.017636
-    id: ck5q8qdll7hf70i114k3yow1p
-    verified: false
-    hashtags: ""
+    hashtags: "#instantlocsbayarea, #loctician, #sports, #braidart"
 ---

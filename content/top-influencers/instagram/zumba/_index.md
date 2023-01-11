@@ -1,130 +1,130 @@
 ---
-title: Top 10 Zumba Instagram Influencers in 2023
+title: Top 10 Zumba Instagram Influencers In 2023
 description: >-
-  Find top zumba Instagram influencers in 2023. Most popular hashtags: #zumba #zumbafitness #woman #fitness.
+  Find top zumba Instagram influencers in 2023. Most popular hashtags: #zumba #zumbafitness #travel.
 platform: Instagram
-hits: 555
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 555 Instagram influencers like this for you to work with.
+hits: 502
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 502 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "mammy.mon"
+  - username: "lamaalassil"
     fullname: >-
-      Monika
+      Lama Alassil
     bio: >-
-      DANCE • FITNESS • ZUMBA INSTRUCTOR 🇵🇱in ➡️📍Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland
-    location: "United Kingdom"
-    followers: 5447
-    engagement: 1166
-    commentsToLikes: 0.149544
-    id: ck8t3qc1z43820j78ino2x3z1
+      •📍 in USA • BS : Media • Zumba instructor🏋️‍♀️ إذا الحياة عبست بوجهك .. دغدغها 🫠🤭 •For Business Inquiries👇 lamaalassilads@gmail.com
+    location: "United States"
+    followers: 652114
+    engagement: 894
+    commentsToLikes: 0.055962
+    id: ck0w6y1wsat1k0i19rih7nka5
     verified: false
-    hashtags: "#coreczkamamusi, #fitgirl, #babyboy, #coreczka"
+    hashtags: "#catlife, #happyanniversary, #cats, #catslover"
+  - username: "algisandres"
+    fullname: >-
+      𝑨𝒍𝒈𝒊𝒔 𝑨𝒏𝒅𝒓𝒆𝒔 🇵🇦
+    bio: >-
+      🅸🅽🆂🆃🆁🆄🅲🆃🅾🆁certificado de zumba & Strongnation 🌱@lahorafitpty 🎧🅻🅾🅲🆄🆃🅾🆁102.9fm 6:00am (sábados) 🆃🆅 🅷🅾🆂🆃📺 @befitpana (lunes -viernes )9:00am
+    location: "Argentina"
+    followers: 99662
+    engagement: 145
+    commentsToLikes: 0.025727
+    id: ck14i9msvebaq0i19g5doacen
+    verified: false
+    hashtags: "#reelsviral, #djplayero, #rauwalejandro, #instagramers"
+  - username: "lindakayhz"
+    fullname: >-
+      linda kayhz
+    bio: >-
+      Bogor Beauty • OOTD Zumba 👉🏼 @swagandsweat 📞 ‭ ‭+62 878 70561116‬ (Nisa) business only ✉️ info.lindakay@gmail.com
+    location: "Indonesia"
+    followers: 270126
+    engagement: 97
+    commentsToLikes: 0.030096
+    id: ck5pvtnswjl2m0i1167duy1w4
+    verified: true
+    hashtags: "#outfitanak, #avatarthewayofwater, #azzuracosmetics, #pijamaanak"
+  - username: "anapedrazaok"
+    fullname: >-
+      Ana Pedraza
+    bio: >-
+      👦🏻👦🏼 Mamá del Chino y el Colo 📺 👩‍💼 @tvprensa10 @canal10tucuman 💃🏻 @zumba @zincommunity
+    location: "Argentina"
+    followers: 65185
+    engagement: 656
+    commentsToLikes: 0.048757
+    id: ck5cf05n5m29t0i11l4hrwd2a
+    verified: false
+    hashtags: "#viernes, #look, #aire, #mipiel"
   - username: "monetasss"
     fullname: >-
       moneta zumba
     bio: >-
       I could be anywhere💙❤#lifestyle#woman#fashion#model #Photographer#Traveler#world#sports#plates#zumbainstructor#agricultural engineer#travelphotography
     location: "Greece"
-    followers: 4414
-    engagement: 2231
-    commentsToLikes: 0.157875
+    followers: 4578
+    engagement: 2308
+    commentsToLikes: 0.156367
     id: ckap25faqxg9t0i78vz6cndj5
     verified: false
-    hashtags: "#igers, #fashion, #fun, #photooftheday"
-  - username: "saraloupee"
+    hashtags: "#igdaily, #follow, #summer, #picoftheday"
+  - username: "mammy.mon"
     fullname: >-
-      Zumba with Sara-Loupée
+      Monika
     bio: >-
-      My parents gave me a unique name📝➖creating a unique lifestyle ✨ Passionate&Self-Motivated 👯 Zumba® fitness instructor 🎬 RadioTV&Film 🛍 @chiccliquelb
-    location: ""
-    followers: 9062
-    engagement: 1273
-    commentsToLikes: 0.058602
-    id: ck5zjd9r7hdmr0i14dzztisi7
+      DANCE • FITNESS • ZUMBA INSTRUCTOR 🇵🇱in ➡️📍Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland TikTok: mammy.mon
+    location: "Poland"
+    followers: 9007
+    engagement: 674
+    commentsToLikes: 0.090671
+    id: ck8t3qc1z43820j78ino2x3z1
     verified: false
-    hashtags: "#sistersquad, #zumbabeto, #letitmoveyou, #zumbafitness"
-  - username: "paz24sm"
-    fullname: >-
-      Marcela Paz 🇨🇱
-    bio: >-
-      📎Bailarina 💃 📌Instructor @zumba ZIN 🇨🇱 Pro skills 📎Instructor Strong Nation 📌Instructor zumba Kids+Kids jr/ Step 📎#juntassomosmas 📌 @mastyle.zw
-    location: "Chile"
-    followers: 9499
-    engagement: 744
-    commentsToLikes: 0.078633
-    id: ckf5riuuyctmi0j23vmh3k677
-    verified: false
-    hashtags: "#zumbalovers, #zumbachoreo, #zumbaindonesia, #zumbaclass"
+    hashtags: "#usmiech, #instagirls, #fitnessgirl, #longlegs"
   - username: "henrycedeno"
     fullname: >-
       Henry Cedeño✨
     bio: >-
-      🙋🏻‍♂️International Zumba® Instructor 🕺🏻Choreographer + Presenter 📩 HOST: HenryZEvents@gmail.com 🟢💻Virtual Zumba® Classes:
+      🏝 Miami • 28 • 🇻🇪🏳️‍🌈 🕺🏻 Zumba® Instructor 👯‍♂️Choreographer 🙋🏻‍♂️ International Presenter 🌎 27 Countries 👽 #martian
     location: "United States"
-    followers: 39805
-    engagement: 316
-    commentsToLikes: 0.061330
+    followers: 39670
+    engagement: 313
+    commentsToLikes: 0.057078
     id: ck5zmp7hemyw00i14t5x8acby
     verified: false
-    hashtags: "#venezuelan, #guyswithtattoos, #zumbalovers, #venezuelaninmiami"
-  - username: "bbeata_3007"
-    fullname: >-
-      Beata
-    bio: >-
-      🎂 30.07.1973 🏠 Cracow/Poland ✨❤️I love my life❤️✨ #zumba #run COLLAB/DM 📥 #rekuperacja 📩biuro@klimap.com
-    location: "Poland"
-    followers: 52633
-    engagement: 542
-    commentsToLikes: 0.045076
-    id: ck8t5w4tpbfsu0j78emux1c9l
-    verified: false
-    hashtags: "#blueeyes, #goodvibes, #naturalmakeup, #mytime"
+    hashtags: "#pridemonth, #zumbachoreo, #lgbtq, #zumbainstructor"
   - username: "dianaserena_"
     fullname: >-
       Diana Serena
     bio: >-
       🏃‍♀️Lic. en Educación Física 💃ZES™ Zumba® Fitness 💪🏻Master Trainer STRONG NATION™ 📬diana.serena@zumbamail.com 🗣🇮🇹🇪🇸🇬🇧🇵🇹 🌟#dianaserena
     location: "Spain"
-    followers: 127890
-    engagement: 256
-    commentsToLikes: 0.135393
+    followers: 134550
+    engagement: 111
+    commentsToLikes: 0.099781
     id: ck15s66qxbf8k0i19ijdr4c6d
     verified: true
-    hashtags: "#sync, #strongnation, #pregnant, #quoteoftheday"
-  - username: "iskenderyuksell"
+    hashtags: "#fitcondianaserena, #sync, #rutinasembarazadas, #zumbacommunity"
+  - username: "clari.dance"
     fullname: >-
-      iskender yüksel
+      Clari Lehmkuhl Zumba
     bio: >-
-      🐣 content creator for @trendyolcom 💥Zumba Instructor @zumbaisko 📍 Izmir 📷 Freelance photographer @iskoiskoisko #mensfashion #blogger
-    location: "Turkey"
-    followers: 26718
-    engagement: 301
-    commentsToLikes: 0.216198
-    id: ckap1frpquesz0i7871u8eo8u
+      South African in UAE ♥️ Zumba 🎾 💃 🏊‍♀️ 🎼 🌎 Down Syndrome Special Olympic Athlete Qualified Zumba B1, Kids, Kids jnr, Gold, Aqua Zumba, Pro Skills
+    location: "South Africa"
+    followers: 7971
+    engagement: 732
+    commentsToLikes: 0.087057
+    id: ck8t5w5afbfvu0j7802j7ikiz
     verified: false
-    hashtags: "#menstyle, #hoscos, #mensfashion, #bestcasualoutfit"
-  - username: "pinkfernandaa"
+    hashtags: "#abudhabi, #zumbafitness, #fitness, #staysafe"
+  - username: "saraloupee"
     fullname: >-
-      Fernanda Pink
+      Zumba with Sara-Loupée
     bio: >-
-      Fisioterapeuta, Pilates, Instrutora de Zumba, Fitdance e Ritmos,Modelo, Tatuadora e Piercer Parcerias via direct
-    location: "Brazil"
-    followers: 8891
-    engagement: 660
-    commentsToLikes: 0.749160
-    id: ckap43smo5puu0i78pfpb8dez
+      My parents gave me a unique name📝➖creating a unique lifestyle ✨ Passionate&Self-Motivated 👯 Zumba® fitness instructor 🎬 RadioTV&Film 🛍 @chiccliquelb
+    location: ""
+    followers: 10017
+    engagement: 947
+    commentsToLikes: 0.042604
+    id: ck5zjd9r7hdmr0i14dzztisi7
     verified: false
-    hashtags: "#treinoedieta, #mulhermusculosas, #mulherquetreina, #serfeliz"
-  - username: "anapedrazaok"
-    fullname: >-
-      Ana Pedraza
-    bio: >-
-      👦🏻👦🏼 Mamá del Chino y el Colo 📺 Conductora 👩‍💼 @tvprensa10 📡 @canal10tucuman 💃🏻 Instructora @zumba
-    location: "Argentina"
-    followers: 52657
-    engagement: 563
-    commentsToLikes: 0.034614
-    id: ck5cf05n5m29t0i11l4hrwd2a
-    verified: false
-    hashtags: "#sermam, #sorteo, #diadelamadre, #gracias"
+    hashtags: ""
 ---

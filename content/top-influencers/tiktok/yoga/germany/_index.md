@@ -1,24 +1,48 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Germany in 2023
+title: Top 10 Yoga TikTok Influencers In Germany In 2023
 description: >-
-  Find top yoga TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fyp #yoga #germany.
+  Find top yoga TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #yoga #foryoupage.
 platform: TikTok
-hits: 34
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 34 TikTok influencers like this in Germany for you to collaborate.
+hits: 30
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 30 TikTok influencers like this in Germany for you to pitch.
 profiles:
-  - username: "kaihou718"
+  - username: "folienbetrieb.de"
     fullname: >-
-      user2430847450557
+      Folienbetrieb Deutschland GmbH
     bio: >-
-      Artist,Guinness World records Holder,🏡Berlin IG Kaihou718 houkai0712@gmail.com
+      Jekaran Yoganathan Folienbetrieb Deutschland GmbH An der Seilfahrt 15 45472 MH
     location: "Germany"
-    followers: 23700
-    engagement: 1065
-    commentsToLikes: 0.011618
-    id: cka0kfhm3mf5c0i78ge0qdhzp
+    followers: 8431
+    engagement: 303
+    commentsToLikes: 0.001197
+    id: ckc7gocngp4gq0j23pim52t6y
     verified: false
-    hashtags: "#yoga, #sports, #fyp, #parkour"
+    hashtags: "#porsche, #carwraps, #viral, #carwrapper"
+  - username: "fantasyschaefer"
+    fullname: >-
+      Rudi
+    bio: >-
+      Autor ✒️ 📚 Dogs 🐾❤️🐶Dave & 🐺Buddy❤️🐾 Machen ist wie wollen nur krasser 😉
+    location: "Germany"
+    followers: 11100
+    engagement: 1554
+    commentsToLikes: 0.299815
+    id: ckdi642zb7crt0j23w3ufosog
+    verified: false
+    hashtags: "#smile, #dog, #hundefun, #urlaub"
+  - username: "sunny_carters_world"
+    fullname: >-
+      Sunny_Carters_World
+    bio: >-
+      Welcome to my crazy world🤪🙌 Mom and wife to be 40 is the new 25😅
+    location: "Germany"
+    followers: 5388
+    engagement: 1003
+    commentsToLikes: 0.317161
+    id: ckdhehwfhx0l10j238projlb3
+    verified: false
+    hashtags: "#pompom, #frauenlogik, #comedy, #chilltittencrew"
   - username: "ltoniw"
     fullname: >-
       𝓣𝓸𝓷𝓲
@@ -30,101 +54,77 @@ profiles:
     commentsToLikes: 0.068438
     id: ckb9iwaiv9lc50j237odk9ki9
     verified: false
-    hashtags: "#holidays, #trend, #sky, #slowmo"
-  - username: "_anni_b_"
-    fullname: >-
-      _anni_
-    bio: >-
-      🔞 ❤️dannivanghoul❤️ #Bazingacrew #Punchcrew #demonsquad#wolfpack#norse_force
-    location: "Germany"
-    followers: 34400
-    engagement: 1824
-    commentsToLikes: 0.257369
-    id: ckd0dgnv7d2c50j23d3ptnk3l
-    verified: false
-    hashtags: "#oc, #bazingacrew, #spooktober, #nami"
+    hashtags: "#fy, #goviral, #trend, #school"
   - username: "ameliaatumbles_"
     fullname: >-
       ✨✨✨
     bio: >-
       new zealand !! ✨⛈🧚‍♀️🦖💝
     location: "Germany"
-    followers: 162700
-    engagement: 2571
-    commentsToLikes: 0.012792
+    followers: 157300
+    engagement: 2534
+    commentsToLikes: 0.011745
     id: cka0ss4fhmttb0i78tl8667yy
     verified: false
-    hashtags: "#tumble, #tumbling, #fyp, #gymnastics"
-  - username: "27uhr"
+    hashtags: "#gymnastgirl, #gymnast, #fy, #vira"
+  - username: "_anhaltspunkt"
     fullname: >-
-      Niclas
+      Anhaltspunkt
     bio: >-
-      Instagram: @27uhr 🖤 ✊🏻✊🏼✊🏽✊🏾✊🏿
+      anschaulich . glauben . leben
     location: "Germany"
-    followers: 36000
-    engagement: 1680
-    commentsToLikes: 0.031998
-    id: cka0li0r8r35x0i78qzr0h2nu
+    followers: 10900
+    engagement: 738
+    commentsToLikes: 0.206017
+    id: ckdswrtckqhpw0j23egbw3jrn
     verified: false
-    hashtags: "#deutschland, #fyp, #fy, #yoga"
-  - username: "lindermusic"
+    hashtags: "#fr, #duett, #gott, #bestebotschaft"
+  - username: "bangtanseo"
     fullname: >-
-      lindermusic
+      bangtanseo
     bio: >-
-      🎵 Singer/Songwriter 💡Content-Creator 🔥 Spotify / IG #thevoiceofgermany2019
+      just one day soty please don’t like spam clips and edits
     location: "Germany"
-    followers: 355900
-    engagement: 1505
-    commentsToLikes: 0.034836
-    id: cka6mhchl77hr0i780fglaakm
-    verified: true
-    hashtags: "#lovestory, #alexainlove, #lernenmittiktok, #ausbildung"
-  - username: "eysalve"
-    fullname: >-
-      Ey Salve
-    bio: >-
-      Künstler YouTube: eysalve Snapchat: eysalve Instagram: ey_salve
-    location: "Germany"
-    followers: 39800
-    engagement: 586
-    commentsToLikes: 0.050632
-    id: ckbkquourlbai0j234oa7yt19
+    followers: 446700
+    engagement: 2987
+    commentsToLikes: 0.019065
+    id: cka0q62ufbet90i785ybevhx0
     verified: false
-    hashtags: "#duett, #salvefamily, #eysalve, #comedy"
-  - username: "itsmesven_"
+    hashtags: "#rm, #bts, #fyp, #pov"
+  - username: "spielmitmir_official"
     fullname: >-
-      ᔕᐯEᑎ🤘🏻😝
+      Spiel mit mir! 
     bio: >-
-      Ⓒⓞⓝⓣⓔⓝⓣ: Ⓜⓨ ⓛⓘⓣⓣⓛⓔ ⓦⓞⓡⓛⓓ ⓞⓕ ⓒⓞⓜⓔⓓⓨ IᑎᔕTᗩ: ITᔕᗰEᔕᐯEᑎ_
+      Spiel mit mir! Die Echten! Kaan, Bianca und Dania! 👻
     location: "Germany"
-    followers: 11500
-    engagement: 1048
-    commentsToLikes: 0.207295
-    id: cka7ugzfgrvbc0i78jgtk8nx3
+    followers: 251100
+    engagement: 1630
+    commentsToLikes: 0.015780
+    id: ckblhdicgave60j23r1pbikke
     verified: false
-    hashtags: "#clumsylicious, #itsmesven, #clumsylife, #memesbysven"
+    hashtags: "#spielmitmir, #comedy, #fyp, #roblox"
   - username: "luv.u.to.the.moon"
     fullname: >-
       audrey moon
     bio: >-
-      i may be an idiot, but im not stupid tpwk(; 18 || 🇰🇷🇺🇸
+      i may be an idiot, but im not stupid
     location: "Germany"
-    followers: 275200
-    engagement: 2493
-    commentsToLikes: 0.009783
+    followers: 268500
+    engagement: 2392
+    commentsToLikes: 0.009042
     id: ck9c08s4ro5nd0j78vot6kdpa
     verified: false
-    hashtags: "#fyp, #mylevismyvibe, #foryoupage, #matthewgubler"
-  - username: "laria.official"
+    hashtags: "#whataproof, #horrortok, #stitch, #foryou"
+  - username: "hannanordstroem"
     fullname: >-
-      Larissa
+      hanna nordstroem
     bio: >-
-      🇩🇪🇵🇱 23 y/o NRW #WorldCommunity
+      swedish🇸🇪 biologist👩🏼‍🔬🧬 Insta: hannanordstroem
     location: "Germany"
-    followers: 22300
-    engagement: 1385
-    commentsToLikes: 0.050093
-    id: ckbkr1ql4lgiz0j231z1ldb1g
+    followers: 4884
+    engagement: 655
+    commentsToLikes: 0.041883
+    id: ck903e3oxd8oo0j784zzv7i5s
     verified: false
-    hashtags: "#redbulldanceyourstyle, #love, #malinoisridgeback, #like"
+    hashtags: "#bikergirl, #sweden, #ktm, #v8"
 ---

@@ -1,12 +1,108 @@
 ---
-title: Top 10 Health Instagram Influencers In Madrid in 2023
+title: Top 10 Health Instagram Influencers In Madrid In 2023
 description: >-
-  Find top health Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #picoftheday #health #summer.
+  Find top health Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #health #fitness #love.
 platform: Instagram
-hits: 87
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 87 Instagram influencers like this in Madrid, Spain for you to collaborate.
+hits: 65
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 65 Instagram influencers like this in Madrid, Spain for you to work with.
 profiles:
+  - username: "gammafoto"
+    fullname: >-
+      GAMMAFOTO
+    bio: >-
+      Spanish photographer focused on male photograhy, specially fitness. Follow my work! All comments are appreciated! 🌍 Madrid (Spain)
+    location: "Spain"
+    followers: 39946
+    engagement: 282
+    commentsToLikes: 0.032389
+    id: ck5byyu8sq4b50i116z4ame2i
+    verified: false
+    hashtags: "#miami, #marcuseaustralia, #fitnessmodel, #boy"
+  - username: "alejandrocorzo"
+    fullname: >-
+      ALEJANDRO CORZO
+    bio: >-
+      🔸ENTRENADOR PERSONAL (FUNCIONAL-HIIT-PILATES) 🔸MODELO 🔸PERIODISTA
+    location: "Spain"
+    followers: 57777
+    engagement: 131
+    commentsToLikes: 0.052177
+    id: ck55ob2lx803q0i11ugxuqxax
+    verified: true
+    hashtags: "#modeling, #model, #exercise, #entrenadorpersonal"
+  - username: "japepotkd"
+    fullname: >-
+      Jᴀᴠɪᴇʀ Pᴇʀᴇᴢ Pᴏʟᴏ
+    bio: >-
+      Atleta olímpico en Tokyo 2020🇯🇵 Estudiante de Criminología en UCAM🎓 World Taekwondo Champinship🥈 European Taekwondo Championship🥇🥇🥉🥉
+    location: "Spain"
+    followers: 10235
+    engagement: 907
+    commentsToLikes: 0.008528
+    id: ck55p20ge9nc40i11d40cle3p
+    verified: false
+    hashtags: "#tokyo, #sun, #tkdlove, #instagood"
+  - username: "juanimieres"
+    fullname: >-
+      Juani Mieres
+    bio: >-
+      🇦🇷 🇪🇸 Professional Padel Player 🎾 @worldpadeltour_oficial 👥 @javigarrido10 🗣 @mieres.diego 🎥 @puzzlecomunicaciones
+    location: "Spain"
+    followers: 60366
+    engagement: 186
+    commentsToLikes: 0.020267
+    id: ck1370vua98bx0i19ux16notw
+    verified: true
+    hashtags: "#game, #training, #instasport, #brands"
+  - username: "_mauricio_morales_"
+    fullname: >-
+      Hitano Jereles
+    bio: >-
+      🎬 ACTOR 🍷 Jerezano 💃🏾 Flamenco 💪🏽 Deportista 🕺🏾 Bailongo 🔥 the pary lives in me Jeré 🌍 Madrid 👤REPRESENTANTE👇🏽👉🏽@soniabaenaactores 🎬🎞📽
+    location: "Spain"
+    followers: 12456
+    engagement: 833
+    commentsToLikes: 0.039456
+    id: ck5cc8jqrgwo20i11rwgta6eg
+    verified: false
+    hashtags: "#jerez, #mauriciomorales, #shooting, #madrid"
+  - username: "daniegm27"
+    fullname: >-
+      Dani Garcia
+    bio: >-
+      Murcia/Madrid📍 Versiones de recetas #saludables Cocinero profesional y futuro nutricionista ¡Comer sano y bien! 🍷
+    location: "Spain"
+    followers: 17082
+    engagement: 594
+    commentsToLikes: 0.050080
+    id: ck8t6t5e1elxa0j78opsz9sy8
+    verified: false
+    hashtags: "#healthy, #foodgram, #influencer, #lovefood"
+  - username: "mateo_workout"
+    fullname: >-
+      Mateo Marín
+    bio: >-
+      Madrid 🇪🇦| Medellín 🇨🇴
+    location: "Spain"
+    followers: 12983
+    engagement: 617
+    commentsToLikes: 0.037595
+    id: ck6tkr22m58o70j71fo3le84l
+    verified: false
+    hashtags: "#wswcf, #model, #training, #handstand"
+  - username: "emithesituation"
+    fullname: >-
+      A13💍
+    bio: >-
+      📍Madrid ▪ Zumub ambassador 💪🏼 🏆 @zumub.es➡️THESITUATIONFIT ▪ Natural aesthetic🏋🏻‍♂ ▪ Model 📸 ▪ Fitness Addict🏆
+    location: "Spain"
+    followers: 16881
+    engagement: 94
+    commentsToLikes: 0.047109
+    id: ck5qc2qhiokux0i11m68tvt18
+    verified: false
+    hashtags: "#amazing, #tattooart, #gym, #food"
   - username: "albertodugarteinstitute"
     fullname: >-
       ALBERTO DUGARTE INSTITUTE
@@ -18,113 +114,17 @@ profiles:
     commentsToLikes: 0.034619
     id: ck13c9hltz9260i19hjnbsz34
     verified: false
-    hashtags: "#hairstylist, #haircut, #haircolor, #albertodugarteinstitute"
-  - username: "alejandrocorzo"
+    hashtags: "#maquillador, #madrid, #style, #hairdresser"
+  - username: "pilarrumeu"
     fullname: >-
-      ALEJANDRO CORZO
+      Pilar Rumeu
     bio: >-
-      ▫️Coach nutricional 🥑 ▫️Personal trainer🏅 ▫️Male model 📸
+      📝 Periodista 📺 Presentadora de informativos TV Canaria
     location: "Spain"
-    followers: 58006
-    engagement: 123
-    commentsToLikes: 0.038659
-    id: ck55ob2lx803q0i11ugxuqxax
-    verified: true
-    hashtags: "#tan, #model, #exercise, #weights"
-  - username: "paulita.workout"
-    fullname: >-
-      𝐏𝐚𝐮𝐥𝐚 𝐆𝐚𝐫𝐜í𝐚 🇪🇸🤸🏼‍♂️
-    bio: >-
-      STREET WORKOUT athlete. 1🏆Carnival Battles 2019. 10%dcto → “PAULITAH” @gymsailor 📚C.A.F.A.D📚 Madrid ✈️ VDÀ MI CANAL DE YOUTUBE ⬇️⬇️
-    location: "Spain"
-    followers: 14792
-    engagement: 2700
-    commentsToLikes: 0.084260
-    id: ck6tkr1jy58my0j71ikhxnajn
+    followers: 14171
+    engagement: 686
+    commentsToLikes: 0.049971
+    id: ck15tc223hcrh0i19vzi8c472
     verified: false
-    hashtags: "#fit, #gimnasio, #salud, #entrenamiento"
-  - username: "gammafoto"
-    fullname: >-
-      GAMMAFOTO
-    bio: >-
-      Spanish photographer focused on male photograhy, specially fitness. Follow my work! All comments are appreciated! 🌍 Madrid (Spain)
-    location: "Spain"
-    followers: 38226
-    engagement: 253
-    commentsToLikes: 0.041483
-    id: ck5byyu8sq4b50i116z4ame2i
-    verified: false
-    hashtags: "#photooftheday, #gymtime, #sixpack, #marcuse"
-  - username: "david_sqdr"
-    fullname: >-
-      David.
-    bio: >-
-      from southern.📍Madrid. 👨🏼‍⚕️ & a r t lover.
-    location: "Spain"
-    followers: 13688
-    engagement: 2459
-    commentsToLikes: 0.015253
-    id: ckap8751jn4id0i78b558dovg
-    verified: false
-    hashtags: "#spanishboy, #nude, #photooftheday, #love"
-  - username: "isaac.sevillano"
-    fullname: >-
-      Isaac Sevillano
-    bio: >-
-      📍#Madrid 👨‍💻#Fashion #product #manager 💪#Fitness, #healthylifestyle 👨🏻‍🎓#International #Business and #Management 📩Isaac.asevillano@gmail.com
-    location: "Spain"
-    followers: 40248
-    engagement: 420
-    commentsToLikes: 0.031025
-    id: ck6u341gnvksy0j71q9zun5rb
-    verified: false
-    hashtags: "#guys, #beauty, #tweegram, #nature"
-  - username: "_mauricio_morales_"
-    fullname: >-
-      Hitano Jereles
-    bio: >-
-      🎬 ACTOR 🍷 Jerezano 💃🏾 Flamenco 💪🏾 Deportista 🕺🏾 Bailongo 🔥 the pary lives in me Jeré 🌍 Madrid 👇🏾 Entrevista en @albaceteamano 📰💥
-    location: "Spain"
-    followers: 12530
-    engagement: 978
-    commentsToLikes: 0.032905
-    id: ck5cc8jqrgwo20i11rwgta6eg
-    verified: false
-    hashtags: "#verano, #playa, #gozando, #jerez"
-  - username: "tania.rdg"
-    fullname: >-
-      TANIA RODRÍGUEZ
-    bio: >-
-      Miss Gold Madrid 2023 Rumbo a @missgoldspain 💫
-    location: "Spain"
-    followers: 10477
-    engagement: 522
-    commentsToLikes: 0.060407
-    id: ck5hr3uo2u7ys0i11ntw0a7bv
-    verified: false
-    hashtags: "#model, #moda, #girl, #summer"
-  - username: "cristinacifuentes"
-    fullname: >-
-      Cristina Cifuentes
-    bio: >-
-      Abogada/ Lawyer Expresidenta de la Comunidad de Madrid Exdelegada del Gobierno en Madrid 📩 info@cristinacifuentes.es 🌍 Malasaña, Madrid, Spain 🇪🇸
-    location: "Spain"
-    followers: 118769
-    engagement: 459
-    commentsToLikes: 0.075043
-    id: ck0w4559xwv330i19k3c6axo3
-    verified: true
-    hashtags: "#diseaseprevention, #quarantinelife, #prevencion, #enfermedades"
-  - username: "asdfmariely"
-    fullname: >-
-      Mariely | Belleza Y Arte 🖤
-    bio: >-
-      🇩🇴📍Madrid Diseñadora gráfica obsesionada con los productos de belleza que a veces dibuja que comparte cosas chulitas🖤✨• 👇🏽|Amazon List
-    location: "Spain"
-    followers: 10918
-    engagement: 369
-    commentsToLikes: 0.038117
-    id: ck6to8rsvcqpp0j71tgqm8y7e
-    verified: false
-    hashtags: "#hairstyles, #spain, #follow, #happy"
+    hashtags: "#fiesta, #vacaciones, #happy, #bienestar"
 ---

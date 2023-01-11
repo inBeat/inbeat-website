@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Germany in 2023
+title: Top 10 Models Instagram Influencers In Germany In 2023
 description: >-
-  Find top models Instagram influencers in Germany in 2023. Most popular hashtags: #shooting #berlin #streetstyle #love.
+  Find top models Instagram influencers in Germany in 2023. Most popular hashtags: #ootd #shooting #fitness #portrait.
 platform: Instagram
-hits: 2497
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 2497 Instagram influencers like this in Germany for you to pitch.
+hits: 1958
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 1958 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "christian.ulmen"
+  - username: "____itslohra____"
     fullname: >-
-      Christian Ulmen
+      Laura | Hannover | Model |UGC Creator
     bio: >-
-      Model
+      @divergancy.models 𝘐𝘯𝘧𝘭𝘶𝘦𝘯𝘤𝘦𝘳 𝘔𝘢𝘯𝘢𝘨𝘦𝘳𝘪𝘯 @pinkbox_de @boxinstyle & more 𝘌𝘯𝘨𝘢𝘨𝘦𝘥 💍 𝘋𝘰𝘨 𝘔𝘰𝘮 @sammy_pawfficial
     location: "Germany"
-    followers: 120483
-    engagement: 545
-    commentsToLikes: 0.027013
-    id: ck0w4a6wlxk4q0i1900qn2blj
-    verified: true
-    hashtags: "#fanlove, #neuestaffel, #drehenwir2020, #abi95"
-  - username: "xhayleyfoster"
-    fullname: >-
-      Hayley Foster
-    bio: >-
-      unapologetic JAG models NYC 📍 Natural models LA MiLK models LONDON Modelwerk GERMANY 💃🏽 dancer BUFFALO ->NYC
-    location: "Germany"
-    followers: 34375
-    engagement: 717
-    commentsToLikes: 0.089960
-    id: ck0ttf1gi2fn60i19p1c9zsvg
+    followers: 8509
+    engagement: 635
+    commentsToLikes: 0.745131
+    id: ckaow97im7wqu0i78dq7j7haq
     verified: false
-    hashtags: "#hotforharris"
+    hashtags: "#franz, #hannover, #gewinnspiele, #germanblogger"
+  - username: "vicces_"
+    fullname: >-
+      victoria
+    bio: >-
+      🦋 fitness • fashion • model ☁️ cologne | 22 🏋🏽‍♀️ Teveo -10% mit Viccesx10 🤎 @naughtynuts -10% mit Victoria10
+    location: "Germany"
+    followers: 91635
+    engagement: 723
+    commentsToLikes: 0.029055
+    id: ck8t8e2rsk3ta0j78t0okncez
+    verified: false
+    hashtags: "#potd, #teveo, #gymmotivation, #fitfamgermany"
+  - username: "vivian_bosveld"
+    fullname: >-
+      Vivian | Bachelor 2022 🌹
+    bio: >-
+      MAMA 🌹 Bachelor Kandidatin 2022 @bachelor.rtl MA: @tunemodels 🎬 @firstdates.vox 2021 📩 for bookings: florian@tune-models.com Impressum:
+    location: "Germany"
+    followers: 10855
+    engagement: 497
+    commentsToLikes: 1.629920
+    id: cl9ktuouxj84n0i23325lmcn2
+    verified: false
+    hashtags: "#woman, #photography, #eiffeltower, #modeling"
+  - username: "katiazygouli"
+    fullname: >-
+      Katia Zygouli
+    bio: >-
+      Mother of 4 I love to share stories @katias_stories Fashion model Paris @martineswomenagency Germany @parsmanagement Austria @wiener_models
+    location: "Germany"
+    followers: 333643
+    engagement: 265
+    commentsToLikes: 0.009306
+    id: ck5q8m8316vgz0i114eun6fi9
+    verified: false
+    hashtags: "#syosscolor, #oleointense, #syosscare, #omorfamalliakathemera"
+  - username: "thatboy.cz"
+    fullname: >-
+      Adrian
+    bio: >-
+      let’s be happy before we die PURE MODEL management @puremodel
+    location: "Germany"
+    followers: 55871
+    engagement: 215
+    commentsToLikes: 0.006922
+    id: ck0w6h6sn8jlz0i19179tsiqg
+    verified: false
+    hashtags: "#skincare, #weekend, #newyork, #jenprodospele"
+  - username: "esther_heesch"
+    fullname: >-
+      Esther Heesch
+    bio: >-
+      NEXT, Modelwerk, Mikas, Traffic & Scoop Models
+    location: "Germany"
+    followers: 150926
+    engagement: 194
+    commentsToLikes: 0.033663
+    id: ck15usuaooeh00i197t70tmnl
+    verified: true
+    hashtags: ""
+  - username: "charleenweiss"
+    fullname: >-
+      Charlie Weiß 🕊
+    bio: >-
+      🇩🇪 Model/Actress 💌 charleen@mf-mgmt.com 🍜🍙🍥🍱🍣🍡🍘 👇🏻YOUTUBE SHORT MOVIE IN THE LINK 👇🏻 ____________________ . @mfmgmt_impressum
+    location: "Germany"
+    followers: 202771
+    engagement: 180
+    commentsToLikes: 4.575156
+    id: ck0u0rm8duqpq0i19ovbnabvk
+    verified: false
+    hashtags: "#explore, #moviescenes, #cinematography, #lightacademiaaesthetic"
+  - username: "bendahlhaus"
+    fullname: >-
+      Ben Dahlhaus
+    bio: >-
+      Actor | Management @martensgarten 📧 bendahlhaus@martensgarten.com 🎞 @fischer.partner 📷 @pma_models
+    location: "Germany"
+    followers: 524179
+    engagement: 35
+    commentsToLikes: 0.009948
+    id: ck15td87hhj3h0i19yv4fjp1m
+    verified: true
+    hashtags: "#leavenoonebehind, #77, #beyourownboss, #teguise"
+  - username: "misslaram"
+    fullname: >-
+      Lara
+    bio: >-
+      ♡ Somewhere between Barbie and Black Widow ♡ Model: @nia_agency 💛 🧭 Germany| BI 📝 Geriatric Nurse and Model Impressum:
+    location: "Germany"
+    followers: 65411
+    engagement: 789
+    commentsToLikes: 0.047131
+    id: ck8tch2p1zg8m0j78xsaehfm7
+    verified: false
+    hashtags: "#canonphotography, #mindsetquotes, #portraitfotografie, #fitnessmotivation"
   - username: "menina.woitalla"
     fullname: >-
       🔆M e n i n a  W o i t a l l a
     bio: >-
-      professional model / actress ♡ based in berlin | ffm mwoitalla@gmx.de
+      professional model / actress ♡ based in berlin | ffm for coop.:📩meninaw@gmx.de ✩ ✩ ✩ 🇩🇪pma_models🇦🇹visage🇫🇷agencesilver 🇨🇭scout 🇮🇪modo🇿🇦bossmodels …
     location: "Germany"
-    followers: 75254
-    engagement: 696
-    commentsToLikes: 0.099335
+    followers: 101790
+    engagement: 578
+    commentsToLikes: 0.079099
     id: ckf5m4epes7fd0j23kryvy7yo
     verified: false
-    hashtags: "#fashionshooting, #taifunfashion, #fashionphotography, #bruenette"
-  - username: "missjoleelove"
-    fullname: >-
-      Jolee Love
-    bio: >-
-      Model 📸 @bully_bubba2020 Berlin 🇩🇪 Germany Autogrammkarten
-    location: "Germany"
-    followers: 52632
-    engagement: 602
-    commentsToLikes: 0.057243
-    id: ck5bvd2chjf080i11gj9020al
-    verified: false
-    hashtags: "#feelsexyeveryday, #beyourself, #hairstyle, #barcelona"
-  - username: "tim_rasch"
-    fullname: >-
-      TIM RASCH
-    bio: >-
-      📍Germany •model •actor •TV-Personality •TikTok (1.Mio) - timrasch •YouTube - Tim Rasch @vcom.thepeopleagency → tim@thepeopleagency.net
-    location: "Germany"
-    followers: 355105
-    engagement: 568
-    commentsToLikes: 0.062449
-    id: ck8w3f8ir7j7a0j78f79jsvop
-    verified: true
-    hashtags: "#timisshow, #raschprotect, #fashionblogger, #timrasch"
-  - username: "sina.caro"
-    fullname: >-
-      Sina Carolin ❤
-    bio: >-
-      NRW📍near Recklinghausen Fitness/ Swimming/ Gridgirl/ Motorsport/ Model 2nd Acc: @sina.caro_swim
-    location: "Germany"
-    followers: 7388
-    engagement: 1248
-    commentsToLikes: 0.109426
-    id: ckap3vvyl4pvr0i788pfvbp2z
-    verified: false
-    hashtags: "#blondhairgirl, #hobby, #photooftheday, #model"
-  - username: "pati_rose_"
-    fullname: >-
-      Pati Rose
-    bio: >-
-      Curvy model, Height 180 cm, 124/90/118 📍Germany Tik Tok: pati_rose_ for chat and more pic´s check:
-    location: "Germany"
-    followers: 192074
-    engagement: 1065
-    commentsToLikes: 0.029743
-    id: ckap7muh5koa20i78uese671i
-    verified: false
-    hashtags: "#dirndlbeauties, #curvyreal, #curvesarebeautiful, #curvylove"
-  - username: "eduardscheafer"
-    fullname: >-
-      Eduard Schäfer Yousef Yaglo
-    bio: >-
-      🇹🇳🇹🇷🇰🇿.1.9.20.M+E ❤ 📍Sousse 🌴Tunis 💼Manager: 🎥YouTube 🏈Wide Receiver/Center Ks📍FFM/Kassel 🤳TikTok:@ eduardschaefer 👻:eduard.fb 📸Fotograf:Koch:Model
-    location: "Germany"
-    followers: 49432
-    engagement: 634
-    commentsToLikes: 0.084071
-    id: ck6tjpdjl35x50j712h6mqmks
-    verified: false
-    hashtags: "#sousse, #sonnenschein, #eduardscheaferarmy, #etoiledusahel"
-  - username: "amelie_lammers"
-    fullname: >-
-      ᗩᗰEᒪIE 🖤
-    bio: >-
-      actress 🎬 : „Fünf Freunde 5“ 13yrs TikTok:amelie_lam ACCOUNT OWNED AND RUN BY MOM @ba_ro_la Model 📍from Germany Tennisplayer 🎾 Represented by agency
-    location: "Germany"
-    followers: 64598
-    engagement: 568
-    commentsToLikes: 0.090186
-    id: ck134wf4vyioe0i194hrg5wdm
-    verified: false
-    hashtags: "#sonyportraits, #closeupportrait, #portraitureinspirations, #dream"
-  - username: "anike.official"
-    fullname: >-
-      ANIKE EKINA
-    bio: >-
-      MUSIC | MODEL | ACTRESS | LIFESTYLE ◾️ MY SHOP @anikedesigns ◾️ LOVE TO INFINITY @gurujoshproject ◾️ BOOKING management@anikeekina.com
-    location: "Germany"
-    followers: 900690
-    engagement: 890
-    commentsToLikes: 0.023072
-    id: ck0w6k8it8yt70i19sczuwbo3
-    verified: false
-    hashtags: "#dialy, #djane, #ta, #producergirl"
+    hashtags: "#port, #bruenette, #face, #ootdfashion"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Australia in 2023
+title: Top 10 Barbers Instagram Influencers In Australia In 2023
 description: >-
-  Find top barbers Instagram influencers in Australia in 2023. Most popular hashtags: #barber #hair #menshair.
+  Find top barbers Instagram influencers in Australia in 2023. Most popular hashtags: #australia #straya #barbershop #melbourne.
 platform: Instagram
-hits: 43
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 43 Instagram influencers like this in Australia for you to connect with.
+hits: 18
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 18 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "miguelddavid"
+  - username: "ultrafadebyrich"
     fullname: >-
-      MIGUEL DAVID
+      Rich | Sydney Hair Educator
     bio: >-
-      🇵🇭 CREATIVE DIRECTOR BARBER / @MIGGYMAESTRO / 🥀T
+      ✨ Come for hair, stay for the vibes ✨ 💇‍♂️ Barber @ultrafade.barber 💁‍♀️ Bridal & Events @uf.styles 👇 Bookings via link in bio
     location: "Australia"
-    followers: 2992
-    engagement: 2340
-    commentsToLikes: 0.034374
-    id: ck0ud7lq3ij750i19rd31dwre
+    followers: 170593
+    engagement: 74
+    commentsToLikes: 0.028003
+    id: ck0vvijippaq70i19e0apk8qu
     verified: false
-    hashtags: "#hideyourwhitegirls"
-  - username: "joshboyton"
-    fullname: >-
-      Josh Boyton
-    bio: >-
-      Owner of @875coachingg Trainer @fitnessdonedifferent Supported by @optimumnutrition.ausnz @unit @the_loft_barbershop @maccomponents @formulabmx
-    location: "Australia"
-    followers: 19703
-    engagement: 326
-    commentsToLikes: 0.020822
-    id: ck15rrh3d9btg0i191sow28kp
-    verified: false
-    hashtags: "#bmxrace, #bmxracing, #optimumnutrition, #eliteseats"
+    hashtags: "#hairbae, #asianstories, #asianentrepreneur, #ultrafade"
   - username: "nigelstanislaus"
     fullname: >-
       NIGEL STANISLAUS
     bio: >-
-      🏡 Melbourne 💄Makeup Artist / Barber 🌶 @nigelstanislauslite -@Vogue @Asntm @Maybelline @harpersbazaarsg @elizabetharden @elleuk @gq @diormakeup
+      🏡 Melbourne 💄Makeup Artist / Barber / Hairstylist 🌶 @nigelstanislauslite -@Vogue @Maybelline @harpersbazaarsg @elizabetharden @elleuk @diormakeup
     location: "Australia"
-    followers: 43041
-    engagement: 175
-    commentsToLikes: 0.042935
+    followers: 42334
+    engagement: 35
+    commentsToLikes: 0.160739
     id: ck6tw5f9dq3w10j71vomdtxnb
     verified: true
-    hashtags: "#menshair, #glowmakeup, #troyesivan, #troye"
-  - username: "themrbarbers"
+    hashtags: "#aboriginalaustralia, #melbournemakeupartist, #beauty, #makeupartist"
+  - username: "gwilymcpugh"
     fullname: >-
-      𝐒𝐭𝐲𝐥𝐢𝐬𝐭 𝐁𝐚𝐫𝐛𝐞𝐫𝐬♠️
+      Gwilym C Pugh
     bio: >-
-      🅱🅰🆁🅱🅴🆁 🅻🅸🅵🅴 @thelegend.barber 𝐎𝐧 𝐭𝐡𝐢𝐬 𝐩𝐚𝐠𝐞, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐟𝐢𝐧𝐝 𝐮𝐥𝐭𝐫𝐚 𝐚𝐭𝐭𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐡𝐚𝐢𝐫𝐬𝐭𝐲𝐥𝐞𝐬 𝐟𝐨𝐫 𝐦𝐞𝐧. 💈💯✂️$💯
+      Keep moving forward 👊🏻 📍Back in London 🇬🇧 🐼 Ambassador @wwf_uk 🌍 Environmental Science @theopenuniversity
     location: "Australia"
-    followers: 37290
-    engagement: 998
-    commentsToLikes: 0.019457
-    id: ckap6s7quh7la0i78u0c9hr94
-    verified: false
-    hashtags: ""
-  - username: "joeyscandizzo"
-    fullname: >-
-      J O E Y  S C A N D I Z Z O
-    bio: >-
-      FAMILY❤️👫👦🏻👦🏼👶| 4✖️🇦🇺HAIRDRESSER OF THE YEAR |ELEVEN AUSTRALIA CREATIVE DIR | JOEY SCANDIZZO/ UVA - SALONS |KINGSDOMAIN BARBERS | HAIR.Do MYER |DYSON
-    location: "Australia"
-    followers: 105422
-    engagement: 342
-    commentsToLikes: 0.032312
-    id: ck0vz2pkl6zqo0i19irl6q9pn
+    followers: 312002
+    engagement: 89
+    commentsToLikes: 0.019637
+    id: ck0vzf4on8sy60i19b9klz86b
     verified: true
-    hashtags: "#joeyscandizzo, #elevenaustraliacolour, #yummymummies, #janescandizzo"
-  - username: "jess.barber"
+    hashtags: "#hairgoals, #hairstylesmen, #amazonia, #ministrip"
+  - username: "shak.tv"
     fullname: >-
-      Jess Barber
+      ShakTV
     bio: >-
-      ✨ A holistic approach to health ⁣ 🌏 Gold Coast 📍FODMAP diet for IBS certification (Monash Uni)⁣ Subscribe & receive my free mini Ebook 👇🏼
+      YouTube 🎥 Shak TV TikTok / Cameo ➡️ shak.tv Merch ⤵️
     location: "Australia"
-    followers: 14021
-    engagement: 381
-    commentsToLikes: 0.032799
-    id: ck15shhxud0zg0i191q40apjc
+    followers: 59489
+    engagement: 1396
+    commentsToLikes: 0.012930
+    id: ck9wdc5bfezo90j78nl895w7h
     verified: false
-    hashtags: ""
-  - username: "chhorvyy"
+    hashtags: "#beargrylls, #shaktv, #manvswild, #tns"
+  - username: "the.cwolf"
     fullname: >-
-      C H H O R V Y
+      𓅓 Joshua San 𓅓
     bio: >-
-      💼🔑🏡
+      🔴🟡⚫️ Brunswick boy Proud Father 📸Lifestyle/travel/Celebrity/35mm The world is an open book, my mind an enthusiastic pupil, my canvas, work in progress
     location: "Australia"
-    followers: 10790
-    engagement: 175
-    commentsToLikes: 0.086018
-    id: ck14k6z8oo1p70i192tt7xmp7
+    followers: 21400
+    engagement: 297
+    commentsToLikes: 0.048611
+    id: ck5pypf55x5dd0i11cf5av2ur
     verified: false
-    hashtags: "#barbersydney, #barber, #fadezaustralia, #fade"
-  - username: "unicorn_manes_bymykey"
+    hashtags: "#brunswick, #filmphotography, #filmdiscovered, #filmphoto"
+  - username: "vindooly"
     fullname: >-
-      Mykey O’Halloran / Hair Artist
+      VINDOOLY
     bio: >-
-      🌈Appointments in Preston ,Melbourne 👧I also colour wigs&can post 2 u! 📧:unicorn_manes_bymykey@yahoo.com 🎨 I use @manicpanicnyc & @nakhair BOOKINGS:
+      • Kym ♡ • Content Creator for @teampwr⚡️ • Twitch Partner 👾 • Verified on TikTok (1.7m) 🤪 • Apparel: @vincere.au
     location: "Australia"
-    followers: 106147
-    engagement: 226
-    commentsToLikes: 0.017688
-    id: ck5ho9ci6p62w0i11y9vty6sv
+    followers: 28307
+    engagement: 1097
+    commentsToLikes: 0.013104
+    id: ck8wgczqgh4jp0j78zltdr6uc
+    verified: false
+    hashtags: "#fortnite, #twitch, #lol, #comedy"
+  - username: "sindysinn"
+    fullname: >-
+      SINDY SINN
+    bio: >-
+      ILLUSTRATOR DUDE. Sydney Australia. Beer. Paint. Skulls. Shirts. Posters. Logos. Murals. Email to make rad art together. For shirts and prints, go to:
+    location: "Australia"
+    followers: 25865
+    engagement: 229
+    commentsToLikes: 0.023086
+    id: ck0tx9exkicq90i195s8vjmsq
+    verified: false
+    hashtags: "#sindysinn, #screenprinting, #stayhome, #straya"
+  - username: "camellisyolmen"
+    fullname: >-
+      Cameron Ellis-Yolmen
+    bio: >-
+      Family... Friends...🙌🏾 [-o-] & 🇵🇬 My Dawg @echotheblackgsd 🐾 🐺 Tap link for foodporn @immacaffiend Brisbane📍 📸: curly28
+    location: "Australia"
+    followers: 19543
+    engagement: 361
+    commentsToLikes: 0.012547
+    id: ck8szld9qow5m0j78dyifbw2e
     verified: true
-    hashtags: "#mermaidscales, #hairinspo, #equality, #insiderbeauty"
-  - username: "jordantabakman"
+    hashtags: "#ytb, #heinzsponsored, #throwbackthursday, #roadtrip"
+  - username: "aaronjohns4"
     fullname: >-
-      🇦🇺🇷🇺
+      ETRco
     bio: >-
-      ✖️ Melbourne ✖️ Co-Owner of @thebarberclubport @thebarberclubmelbourne @mainstreetbarbersandco ✖️ @andisclippers lead educator 🇦🇺 🌎
+      @monsterskatepark @gainprotection #rideformurphy (1-6-18) #1st NSW 🥇 #1st ACT 🥇
     location: "Australia"
-    followers: 41121
-    engagement: 184
-    commentsToLikes: 0.021780
-    id: ckaosnu24saa70i78xr0j4u5o
+    followers: 3128
+    engagement: 1112
+    commentsToLikes: 0.064446
+    id: ck5qdqj03wugr0i11mwpeaemg
     verified: false
-    hashtags: "#barbergang, #barbershop, #showcasebarbers, #nastybarbers"
-  - username: "liked.by.leo"
+    hashtags: "#barber, #haircut, #home, #clippers"
+  - username: "tombull"
     fullname: >-
-      Liked.by.leo
+      Tom Bull
     bio: >-
-      𝔸𝕝𝕝 𝕥𝕙𝕚𝕟𝕘𝕤 𝕃𝕖𝕠 𝕋𝕙𝕖 𝕟𝕖𝕦𝕥𝕣𝕒𝕝 𝕞𝕦𝕞 𝟙𝟙 𝕞𝕠𝕟𝕥𝕙𝕤 𝕠𝕝𝕕 𝕄𝕖𝕝𝕓, 𝔸𝕦𝕤 𝔻𝕄 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓 𝕊𝕙𝕠𝕡 𝕠𝕦𝕣 𝕟𝕖𝕨 𝕡𝕣𝕖𝕤𝕖𝕥𝕤
+      
     location: "Australia"
-    followers: 10636
-    engagement: 1060
-    commentsToLikes: 0.542729
-    id: ckap3so3e4e590i78otrrc58b
+    followers: 22853
+    engagement: 333
+    commentsToLikes: 0.075742
+    id: ck5zxtapg8met0i142gevvodi
     verified: false
-    hashtags: "#babyfashionista, #loveyou, #babyboy, #babyfashion"
+    hashtags: "#australia, #dunsborough, #margaretriver, #westernaustralia"
 ---

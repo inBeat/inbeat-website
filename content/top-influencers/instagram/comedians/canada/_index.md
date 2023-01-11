@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Canada in 2023
+title: Top 10 Comedians Instagram Influencers In Canada In 2023
 description: >-
-  Find top comedians Instagram influencers in Canada in 2023. Most popular hashtags: #standup #halloween #toronto.
+  Find top comedians Instagram influencers in Canada in 2023. Most popular hashtags: #comedy #canada #fuckyabud.
 platform: Instagram
-hits: 48
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 48 Instagram influencers like this in Canada for you to collaborate.
+hits: 18
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 18 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "jacob.ursomarzo"
+  - username: "ushappyfour"
     fullname: >-
-      Jacob Ursomarzo
+      Em Weinmann
     bio: >-
-      Cameo link below Actor Comedian Creator • Tik Tok @ br0ce Twitter @ jacob.ursomarzo
+      Some sentimental swearing, a kid that sings, a kid comedian, a design business, Tourette’s parenting, and a house to transform. ushappyfour@gmail.com
     location: "Canada"
-    followers: 359812
-    engagement: 2040
-    commentsToLikes: 0.013856
-    id: ck8sw1voddi640j78e8e73tla
+    followers: 8994
+    engagement: 463
+    commentsToLikes: 0.250681
+    id: clbi52iw447oz0j08j4dub8pl
     verified: false
-    hashtags: "#childactor, #anne, #arthur, #jacobursomarzo"
-  - username: "esthermonster"
-    fullname: >-
-      esther povitsky
-    bio: >-
-      stand up comedian & actor sweatpant entrepreneur @sleepoverbyesther one hour stand up special HOT FOR MY NAME on cc.com TEXT ME 847-648-9098
-    location: "Canada"
-    followers: 187229
-    engagement: 443
-    commentsToLikes: 0.020354
-    id: ck15syzmkfiy50i19kbeagsbh
-    verified: true
-    hashtags: ""
+    hashtags: "#allkidz, #beautyfilter, #instareels, #reelinsta"
   - username: "julienolke"
     fullname: >-
       Julie Nolke
     bio: >-
       Actor. Writer. Comedian. 🇨🇦 Bookings: carolyn@grandwaveentertainment.com
     location: "Canada"
-    followers: 109855
-    engagement: 488
-    commentsToLikes: 0.016286
+    followers: 126007
+    engagement: 417
+    commentsToLikes: 0.013782
     id: ckap186x3tgwc0i78el2ggkmr
     verified: false
-    hashtags: "#mechanic, #2gether4ever, #nofilter"
-  - username: "sunnydcomedy"
-    fullname: >-
-      Sunee Dhaliwal
-    bio: >-
-      OvO, Comedian, lover by default, and I have a mild sneaker problem Twitter: @sunnydcomedy Snapchat: sunee_dhaliwal Check out the interview 👇
-    location: "Canada"
-    followers: 38443
-    engagement: 100
-    commentsToLikes: 0.075775
-    id: ck5q0gmf15wbq0i110fiye1yj
-    verified: false
-    hashtags: "#blm, #standup, #winnipeg, #cute"
+    hashtags: "#oddsquad, #oddsquadpbs, #oddsquadmobileunit"
   - username: "nickandy1"
     fullname: >-
       Nick Andrew [AR12]
     bio: >-
-      Stunt Driver, Comedian, 30 Under 30, Massive liar. 08 VW R32, 18 Raptor, 17 GT350. Business: nick@AR12Gaming.com ⬇️NEW MERCH
+      Stunt Driver, Comedian, 30 Under 30, Massive liar. 08 VW R32, 18 Raptor, 17 GT350. Business: business@AR12Gaming.com ⬇️NEW MERCH
     location: "Canada"
-    followers: 128484
-    engagement: 907
-    commentsToLikes: 0.019742
+    followers: 134446
+    engagement: 752
+    commentsToLikes: 0.014593
     id: ck8szmjnvp06m0j78919ncxif
     verified: false
-    hashtags: "#ford, #gt350, #shelby, #ar12"
-  - username: "heatherkmcmahan"
+    hashtags: "#shelby, #fordbronco, #ar12, #gt350"
+  - username: "mannbilly"
     fullname: >-
-      Heather McMahan
+      Billy Mann
     bio: >-
-      Comedian w/ a thick neck & thin ankles, Doing the most. Also God is good.🔥🐢🍸❤️ 📧:HeatherMcMahanInquiries@unitedtalent.com BUY TICKETS NOW 👇
+      😜 Comedian 🚶🏼 Model 🎭 Creator 🎿 Former professional skier 🌎 Adventurer
     location: "Canada"
-    followers: 590962
-    engagement: 604
-    commentsToLikes: 0.024990
-    id: ck0tudcch6p8i0i19e6rlogyr
-    verified: true
-    hashtags: "#frenchbulldog, #frenchie, #frenchiesofinstagram, #mumuxheathermcmahan"
-  - username: "rob_ianni_comedy"
-    fullname: >-
-      Rob Ianni Comedy
-    bio: >-
-      #sketchcomedy #comedian #actor #influencer Stand Up Comedian, Actor, Sketch Comedy, Comedic Creator 😜robiannicomedy@gmail.com SC & FB: @robiannicomedy
-    location: "Canada"
-    followers: 7360
-    engagement: 642
-    commentsToLikes: 0.070438
-    id: ck5q3rpcim4ex0i11hb82rfea
+    followers: 127647
+    engagement: 413
+    commentsToLikes: 0.009283
+    id: ck15rison84ij0i1932icbhjq
     verified: false
-    hashtags: "#comparepippo, #comedy, #robiannicomedy, #italianstyle"
+    hashtags: ""
+  - username: "jjquailo94"
+    fullname: >-
+      Salty Feed ®️
+    bio: >-
+      “Your daily salt intake” #Actor ~ #Comedian ~ #Emcee ~ #Host Business INQ: jjquailo8@gmail.com 📍Wheelz Casino Link: Instant 20$ for Sign up 👇
+    location: "Canada"
+    followers: 9705
+    engagement: 251
+    commentsToLikes: 0.130380
+    id: ck138vraii8vx0i19778klpgj
+    verified: false
+    hashtags: "#instareel, #instagramreel, #tiktokcomedy, #goingtocollege"
+  - username: "stanrey7"
+    fullname: >-
+      Stan Rey
+    bio: >-
+      Pro skier extraordinaire, haver of goodtimes, wanna be comedian #backysunday @salomonfreeski @protectourwinterscanada
+    location: "Canada"
+    followers: 67635
+    engagement: 525
+    commentsToLikes: 0.013092
+    id: ck139l1a7lua50i19nb2vb0wa
+    verified: false
+    hashtags: "#gflenvironmental, #talesofcascadia, #timetoplay, #winter"
   - username: "shaneykipps"
     fullname: >-
       Shane Kippel
     bio: >-
-      Actor 🎭 Comedian 🤣 Producer 🎥 Writer 📜✍🏻 Public Speaker 🔊 Check out the link below for links to CAMEO and OFFICIAL MERCH👇
+      Actor 🎭 Comedian 🤣 Producer 🎥 Screenwriter 📜✍🏻 Public Speaker 🔊Renaissance Man Check out the link below for links to CAMEO and OFFICIAL MERCH👇
     location: "Canada"
-    followers: 97005
-    engagement: 584
-    commentsToLikes: 0.022037
+    followers: 100882
+    engagement: 380
+    commentsToLikes: 0.026566
     id: ck5q3rkkwm3uc0i11j6iyvkh4
     verified: true
-    hashtags: "#canadianfilm, #seoulwebfest, #dgctalent, #spinner"
-  - username: "the6atsix"
+    hashtags: "#degrassi, #spinner, #dot, #lestweforget"
+  - username: "rickrowley3"
     fullname: >-
-      😂Beamer💥Walczak😁
+      Rick Rowley
     bio: >-
-      🌆Toronto's⚡️GoldenBoy😸 😅Comedian/Editor/Chef/ComplexHost🎩 🧙🏾‍♂️👁Creator of @illinfinity🪐💫 👇🏾👇🏾ComplexCanada Report🎥
+      #Comedian who loves hockey🏒Canada’s biggest beauty🇨🇦 Linktree👇
     location: "Canada"
-    followers: 106383
-    engagement: 364
-    commentsToLikes: 0.078489
-    id: ck6004z4pcyjv0i147qy4cw3s
+    followers: 19014
+    engagement: 259
+    commentsToLikes: 0.139950
+    id: ckaorbp2bmksq0i78dirmk1qg
     verified: false
-    hashtags: "#quarantineandchill, #characterselect, #quarantineknockouts2020, #beamer4mayor"
-  - username: "vegan_veterinarian"
+    hashtags: "#lfg, #toronto, #goleafsgo, #nhl"
+  - username: "shaunmajumder"
     fullname: >-
-      Dr. Travis Strong DVM MS DACVO
+      ShaunMajumder
     bio: >-
-      Veterinarian, eye surgeon, volunteering advocate Traveling the world to help ALL animals Vegan for every reason Occasional stand-up comedian Canada 🇨🇦
+      Canadian Born, Los Angeles based creative type. Actor/writer/comedian now podcaster. Host of "Its pronounced Majumder"
     location: "Canada"
-    followers: 57488
-    engagement: 522
-    commentsToLikes: 0.021979
-    id: ck15u88nflwgj0i19hf7uh4vp
+    followers: 27399
+    engagement: 399
+    commentsToLikes: 0.037337
+    id: ck6ttun78co0c0j71u23uvokg
     verified: false
-    hashtags: "#repost"
+    hashtags: "#sundaybrunch, #american, #bostonterrier, #holidaymovieseason"
+  - username: "ivanwdecker"
+    fullname: >-
+      Ivan Decker
+    bio: >-
+      L.A. based Stand up comedian. Originally from Vancouver, Canada. Juno award winner. Conan. Netflix comedians of the world.
+    location: "Canada"
+    followers: 6240
+    engagement: 365
+    commentsToLikes: 0.046297
+    id: ck5c0c5d4suqt0i11sv43dvly
+    verified: false
+    hashtags: "#junoawards, #comedy, #dinosaurs, #junos"
 ---

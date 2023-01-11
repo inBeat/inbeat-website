@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Argentina in 2023
+title: Top 10 Travel Instagram Influencers In Argentina In 2023
 description: >-
-  Find top travel Instagram influencers in Argentina in 2023. Most popular hashtags: #photography #travel #tbt.
+  Find top travel Instagram influencers in Argentina in 2023. Most popular hashtags: #travel #travelphotography #travelblogger #spain.
 platform: Instagram
-hits: 400
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 400 Instagram influencers like this in Argentina for you to pitch.
+hits: 515
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 515 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
-  - username: "luzarenna"
+  - username: "franchubavio"
     fullname: >-
-      𝕝𝕦𝕫
+      Pancha Bavio
     bio: >-
-      💖 Free soul Healthy-conscious living 🧘🏽‍♀️ ✈️ Traveller Plant-based recipes🌱 🐶 lover Actually, you can 💪🏼 📍Argentina luz.varena@gmail.com
+      Argentina y del 🌍 Fashion & travel blogger Abogada Mis presets🔻
     location: "Argentina"
-    followers: 26754
-    engagement: 982
-    commentsToLikes: 0.438962
-    id: ck5c4hehy1cxm0i118cuu3stb
+    followers: 156731
+    engagement: 291
+    commentsToLikes: 0.019272
+    id: ck0w305eeqywk0i19fv88xz2p
+    verified: false
+    hashtags: "#palermoba, #palermo, #blogger, #fashion"
+  - username: "viajandoconvero_"
+    fullname: >-
+      Veronica Weffer
+    bio: >-
+      Travel Blogger -Asesoría de Viajes, Tips e Información🗺 -Venta de Pasajes Aéreos✈️ -Paquetes a Los Roques🏖 Cuenta oficial @veronicaweffer YouTube👇
+    location: "Argentina"
+    followers: 92421
+    engagement: 897
+    commentsToLikes: 0.028286
+    id: ck5hoii5hpmk50i11mr22tgt8
+    verified: false
+    hashtags: "#party, #youtuber, #playa, #travel"
+  - username: "_coto22"
+    fullname: >-
+      Erasmo Escobar
+    bio: >-
+      - buena vida❤️ -SOÑADOR🌹⏳❤️ -TRAVEL🌃 -NUNCA AVANDONES UNA META🍹💥
+    location: "Argentina"
+    followers: 14056
+    engagement: 772
+    commentsToLikes: 0.117630
+    id: ck8tdjdcn3jrq0j782srzt3oe
     verified: false
     hashtags: ""
-  - username: "viviannamena"
+  - username: "alejoexplora"
     fullname: >-
-      Vivianna Mena
-    bio: >-
-      Me fui a ser feliz, no sé cuando vuelvo💭 Beauty | Travel | Lifestyle 🎓Lic. en Comunicación Audiovisual y Publicitaria Embajadora de @planhonduras ✊🏻
-    location: "Argentina"
-    followers: 36631
-    engagement: 1717
-    commentsToLikes: 0.465998
-    id: ck5cix6oatjzj0i11h96aslgy
-    verified: false
-    hashtags: "#renuevatupelo, #disfrutalonatural, #honduras, #huracaneta"
-  - username: "michellecruz14"
-    fullname: >-
-      Michelle Cruz
-    bio: >-
-      GOD FIRST ❤️ Locutora en @lamega1077 📻 Conductora 🎙 Traveler ✈️ @michellecruz.travel Guatemala 🇬🇹 Contrataciones: michi_cruz@hotmail.com
-    location: "Argentina"
-    followers: 110492
-    engagement: 561
-    commentsToLikes: 0.099570
-    id: ck6uddmuiki3o0j71hvgdo9s7
-    verified: false
-    hashtags: "#huawei, #moretoexplore, #huaweiappgallery, #guate"
-  - username: "ratatrip"
-    fullname: >-
-      Tatan y Cande 🇦🇷🚲🌎📷
-    bio: >-
-      LIVE - TRAVEL - LOVE . US$ 18 descuento en AIRBNB 👇🏼
-    location: "Argentina"
-    followers: 50568
-    engagement: 730
-    commentsToLikes: 0.143246
-    id: ck5heqwnrubve0i11p6ddr9nj
-    verified: false
-    hashtags: "#itsagirl, #embarazada, #pregnant, #expecting"
-  - username: "paoypavon"
-    fullname: >-
-      Paola Pavon
-    bio: >-
-      ✈️ Wanderlust #travelgram “I am not the same, having seen the moon shine on the other side of the world.” M.R 🐶🙆‍♀️ #doglover #ballet 🍷❤️ #winelover
-    location: "Argentina"
-    followers: 6041
-    engagement: 898
-    commentsToLikes: 0.082752
-    id: ckap7x62ulyfk0i78lberovex
-    verified: false
-    hashtags: "#photoshoot, #winetasting, #stayhome, #dogsofinstagram"
-  - username: "soofinavarrete"
-    fullname: >-
-      Sofia Navarrete
-    bio: >-
-      BE HERE NOW | Actriz ✨| Lifestyle & Travel Blog Abril en @mesa8laserie 🎬 Argentina 📍 R E E L 👇🏻
-    location: "Argentina"
-    followers: 27640
-    engagement: 387
-    commentsToLikes: 0.123412
-    id: ck14hj2ioak6e0i19zba5319t
-    verified: false
-    hashtags: "#smile, #artwork, #rosario, #lifestyle"
-  - username: "alejocampo18"
-    fullname: >-
-      Alejandro Campo
+      A L E J A N D R O   C A M P O
     bio: >-
       Foodie traveler 👨🏼‍🍳 🌎 Pereira - Colombia📍. A bocados por el mundo ✈️🍔🍝🍢🍙🍷🍻 Pregunta por mi Taller de fotografía 📷🎥🎞 Congelando historias 📸📽
     location: "Argentina"
-    followers: 7914
-    engagement: 1109
-    commentsToLikes: 0.025981
+    followers: 11677
+    engagement: 754
+    commentsToLikes: 0.106938
     id: ckaor73zfm0810i78tw8f1n2l
     verified: false
-    hashtags: "#travel, #travels, #traveling, #travelblogger"
-  - username: "imaxflight"
+    hashtags: "#travelgram, #fotografo, #bogota, #landscapephotography"
+  - username: "travel.food.myworld"
     fullname: >-
-      EnjoytheFlight. EnjoytheLife.
+      ᴛʀᴀᴠᴇʟ ғᴏᴏᴅ ᴍʏ ᴡᴏʀʟᴅ
     bio: >-
-      Crew ✈️ Gym 💪 Travel 🌎 Buenos Aires 📍Argentina 🇦🇷 Escorpiano 🔥 Avatar 👽 196 cm. Be Free 🌈 Enamoradisimo 👬 de @_r_a_m__s_u_e_
+      • 🙋‍♀️✈🧳🍝🌍 • ✈ ᴛɪᴘs ᴅᴇ ᴠɪᴀᴊᴇs • 📸 ᴍɪs ғᴏᴛᴏs sɪɴ ғɪʟᴛʀᴏ • 👩‍💻 ᴛʀᴀᴠᴇʟ ᴘʟᴀɴɴᴇʀ • #travelphotography #travelblogger
     location: "Argentina"
-    followers: 10593
-    engagement: 1007
-    commentsToLikes: 0.027930
-    id: ck5zxfp0i7xh80i14c037fgxy
+    followers: 5331
+    engagement: 889
+    commentsToLikes: 0.152056
+    id: ck0w4kyy2z3cj0i19iye67724
     verified: false
-    hashtags: "#instagood, #muscle, #sexygay, #workout"
-  - username: "damarcph"
+    hashtags: "#waltdisney, #voyager, #disneyworld, #spain"
+  - username: "melissajnaizzir"
     fullname: >-
-      Diego Marchisio
+      𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗝𝗶𝗺𝗲𝗻𝗲𝘇 𝗡𝗮𝗶𝘇𝘇𝗶𝗿
     bio: >-
-      Fotografía | Gastronomía | Bs. As. Argentina | Sony desde el 2015 | Presupuestos/canjes MD | cuenta personal👇🏻 @diegomarchisio_traveling
+      Food|Travel|Livestyle “Nacimos para ser reales no perfectos” 🧿🍽✈️ 📍Colombia
     location: "Argentina"
-    followers: 11946
-    engagement: 599
-    commentsToLikes: 0.057300
-    id: ck138mha8gyba0i19f9fm6dnv
+    followers: 2293
+    engagement: 1523
+    commentsToLikes: 0.120572
+    id: ckaossnyoswxp0i78vdogv00t
     verified: false
-    hashtags: "#busquedademodelos"
-  - username: "marisolarrillaga"
+    hashtags: "#postres, #postressaludables, #covid, #longhairdocare"
+  - username: "tonydonald"
     fullname: >-
-      Sol Arrillaga
+      Tony Donald
     bio: >-
-      No soy todo lo que ves, ni ves todo lo que soy.. Model from Argentina ~ traveler 🌍 🇦🇷 🇦🇪 🇨🇱 🇹🇷🇮🇳 🇲🇽📍 🌎 VMG 📸Ph:@shotbysun Miss Arg 2014
+      Bioquímico🔬 Máster en med. regenerativa👨🏻‍⚕️ Instagramer 📸 Traveller🌍 Storyteller📝Creativo💡Desasastre 💣 Y AHORA TAMBIÉN STREAMER 📍Madrid #KeeperSquad
     location: "Argentina"
-    followers: 26739
-    engagement: 139
-    commentsToLikes: 0.061658
-    id: ck0u9odd1acxt0i19qrvxgx5i
+    followers: 27042
+    engagement: 873
+    commentsToLikes: 0.024642
+    id: ck5ztv9u116tk0i14sy1acv54
     verified: false
-    hashtags: "#mx, #frida, #model, #fridakahlo"
+    hashtags: "#lgwing, #daleungiro, #pollopollo, #ad"
+  - username: "la_petite_biere"
+    fullname: >-
+      Émilie Leclerc
+    bio: >-
+      Beer🍺+Food🍕+travel✈️+vintage +acting 📍: MTL ✉️: el.petite.biere@gmail.com @cicerone BS Actrice: Agence Bridget Dechene #lapetitebiere #NEIPAmonster
+    location: "Argentina"
+    followers: 40746
+    engagement: 448
+    commentsToLikes: 0.035488
+    id: ckaotj129w4f00i78yys0458s
+    verified: false
+    hashtags: "#neipamonster, #neipa, #boirelocal, #4origines"
+  - username: "angelescortina"
+    fullname: >-
+      Ángeles Cortina🍉 🔅PERIODISTA🔅
+    bio: >-
+      👩🏻‍🌾 #Reportera en @aquilatierra 📺 @tve_es 🎥#Tv #Journalist 🐣#Huesca & #Soria - 🏕 #Madrid 💚 #Nature 🌍 - #PastaLover 🍝 🤸🏽‍♀️ #Travel ❄️ #Friolera
+    location: "Argentina"
+    followers: 8298
+    engagement: 1282
+    commentsToLikes: 0.082048
+    id: ck5c122huuaxj0i11zgxikx8z
+    verified: false
+    hashtags: "#happy, #naturelovers, #trip, #picoftheday"
+  - username: "sweet_home_anywhere"
+    fullname: >-
+      Sweet Home Anywhere
+    bio: >-
+      Carla & Pedro Base de operaciones en Granada 👫🐶 🗺Travelholics🗺 🥙 Foodies 🥘 🌎Soñando con nuestro próximo destino!🙌🏻✈️ 🔜 ¿?
+    location: "Argentina"
+    followers: 2153
+    engagement: 1397
+    commentsToLikes: 0.121692
+    id: ck6ufkx7rxo7x0j71utbfxodu
+    verified: false
+    hashtags: "#barcelona, #traveladdict, #cyclades, #beautifuldestinations"
 ---

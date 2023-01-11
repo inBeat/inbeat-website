@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In India in 2023
+title: Top 10 Cooking TikTok Influencers In India In 2023
 description: >-
-  Find top cooking TikTok influencers in India in 2023. Most popular hashtags: #tiktokchef #viral #trending #foryoupage.
+  Find top cooking TikTok influencers in India in 2023. Most popular hashtags: #tiktokchef #viral #tiktokindia #foryoupage.
 platform: TikTok
-hits: 232
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 232 TikTok influencers like this in India for you to pitch.
+hits: 228
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 228 TikTok influencers like this in India for you to work with.
 profiles:
   - username: "susmi459"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       👩‍🍳Cookingഇസ്തം👩‍🍳 🔥ലാലേട്ടൻ,നയൻസ്🔥 🤗foodie🤫 Bye Bye👋👋👋
     location: "India"
-    followers: 31300
-    engagement: 2588
-    commentsToLikes: 0.049128
+    followers: 31200
+    engagement: 2776
+    commentsToLikes: 0.041874
     id: ckbkgf5om7uvr0j23wgba1ugl
     verified: false
-    hashtags: "#keralafood, #nadanfood, #keralafoodie, #payasam"
+    hashtags: "#nadanfood, #keralafood, #keralafoodie, #blooper"
   - username: "psyco_96"
     fullname: >-
       psyco_ 96
@@ -26,23 +26,23 @@ profiles:
       #psycho_96 ❤️ Acting ❤️ ❤️Ammede cooking jeevana❤️ ❤️ Welcome to my 🌏❤️
     location: "India"
     followers: 19600
-    engagement: 1615
-    commentsToLikes: 0.031320
+    engagement: 1675
+    commentsToLikes: 0.029908
     id: ckb9lgxiae1n10j23ob2rexop
     verified: false
-    hashtags: "#mallumemes, #bgm, #trendy, #vijay"
+    hashtags: "#anjali, #mohanlal, #tiktokindia, #ticktokindia"
   - username: "ria_.98"
     fullname: >-
       ria gupta
     bio: >-
       featured - 1 types of vdos - acting,cooking 
     location: "India"
-    followers: 21800
-    engagement: 736
-    commentsToLikes: 0.064996
+    followers: 21700
+    engagement: 742
+    commentsToLikes: 0.073295
     id: ck8ql5p0uk95f0j78opyniz0g
     verified: true
-    hashtags: "#bollywood, #trending, #foryoupage, #foryou"
+    hashtags: "#foryou, #trending, #bollywood, #foryoupage"
   - username: "amyie1101"
     fullname: >-
       aamrapali dubey
@@ -50,11 +50,11 @@ profiles:
       Made my 1st ever cooking vlog on youtube please watch it 👇🏻👇🏻
     location: "India"
     followers: 2400000
-    engagement: 985
-    commentsToLikes: 0.008812
+    engagement: 1038
+    commentsToLikes: 0.010572
     id: ck921w75ijwmb0j78h936i5ei
     verified: false
-    hashtags: "#romantic, #duet, #girlpower, #respectwomen"
+    hashtags: "#duet, #respectwomen, #lovelysong, #romantic"
   - username: "ananyasarkar2301"
     fullname: >-
       Ananya the great 
@@ -62,69 +62,69 @@ profiles:
       Bong girl 👧 Kolkata FOLLOW ME SWEETHEARTS Ice cream lover🍦 🍨🍧 Love cooking
     location: "India"
     followers: 7046
-    engagement: 1077
-    commentsToLikes: 0.045769
+    engagement: 1113
+    commentsToLikes: 0.044970
     id: ckbkxigwwtio00j23wjrr42f1
     verified: false
-    hashtags: "#duet, #tiktokindia, #sabkatimeaagaya, #follow4follow"
+    hashtags: "#duet, #follow4follow, #sabkatimeaagaya, #kolkatamuser"
   - username: "nishanthsubramani51"
     fullname: >-
       Nishanth Subramaniyan
     bio: >-
       Youtube-MEENUTIYUM,CHETTACHANUM Lalettan,Nostalgia,cooking,photography,travel
     location: "India"
-    followers: 439100
+    followers: 439000
     engagement: 1079
-    commentsToLikes: 0.005649
+    commentsToLikes: 0.005646
     id: ckaftujhx7ag30i78lfuvk4gv
     verified: false
-    hashtags: "#cookathome, #ownvoicecomedy, #ownvoice, #tiktokchef"
+    hashtags: "#cookathome, #ownvoice, #tiktokchef, #ownvoicecomedy"
   - username: "mua_suparna"
     fullname: >-
       47_meow
     bio: >-
       Makeup artist, Dancer ,puppy lover ,love cooking
     location: "India"
-    followers: 2696
-    engagement: 1014
-    commentsToLikes: 0.028644
+    followers: 2697
+    engagement: 1012
+    commentsToLikes: 0.028071
     id: ck921p28oj17f0j78fv9t5ho3
     verified: false
-    hashtags: "#unboxing, #handwashchallenge, #jwellery, #homecooking"
+    hashtags: "#handwashchallenge, #unboxing, #glam, #makeover"
+  - username: "mannu81144"
+    fullname: >-
+      mannu
+    bio: >-
+      I am cooking chef master
+    location: "India"
+    followers: 49100
+    engagement: 1015
+    commentsToLikes: 0.002550
+    id: ckcju454tim0r0j23hc87ddae
+    verified: false
+    hashtags: "#handwashchallenge, #modi, #namo, #detol"
   - username: "ushakorjani24"
     fullname: >-
       ushakorjani24
     bio: >-
       320K SOON💛 I LOVE COOKING FOLLOW ME ON INSTAGRAM N HELO USHAKORJANI24
     location: "India"
-    followers: 325000
-    engagement: 367
-    commentsToLikes: 0.016454
+    followers: 324700
+    engagement: 368
+    commentsToLikes: 0.016325
     id: ckafu1t6y87az0i78rq9qmnjc
     verified: false
-    hashtags: "#viral, #tidelagaodaaghatao, #yummy, #follow"
-  - username: "ginniskitchen"
+    hashtags: "#follow, #ushakorjani24, #viral, #3ingredientrecipie"
+  - username: "the_cutenesss_owner"
     fullname: >-
-      Ginni’s Kitchen
+      Kiran Jadhav-Kasbe
     bio: >-
-      Cooking life 🥘 Followme
+      जयभिम💙 भिमकन्या🙏 #Cooking Lover🍜 Married @vivekkasbe Mh-03 Mh-14
     location: "India"
-    followers: 30000
-    engagement: 702
-    commentsToLikes: 0.018644
-    id: ckbkqlp4tkx1i0j2334s0qafe
+    followers: 22100
+    engagement: 762
+    commentsToLikes: 0.019342
+    id: ckc7bv2ullkzw0j23rutdugse
     verified: false
-    hashtags: "#aj, #desi, #viral, #icecream"
-  - username: "sitaramchahar01"
-    fullname: >-
-      sitaram😎
-    bio: >-
-      plZ support my YouTube link 👆 expert on cooking sweet ka raja😎 wishme on 1jun
-    location: "India"
-    followers: 1100000
-    engagement: 414
-    commentsToLikes: 0.010047
-    id: ck9fwt0r531ts0j781wdsn4i2
-    verified: true
-    hashtags: "#tiktokfoodie, #tiktokchefchallenge, #tiktokchef, #sitaramchahar01"
+    hashtags: "#jaybhim, #jaybharat, #jaybhimapp, #jaysavindhan"
 ---

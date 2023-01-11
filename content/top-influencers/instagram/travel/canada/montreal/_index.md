@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Montreal in 2023
+title: Top 10 Travel Instagram Influencers In Montreal In 2023
 description: >-
-  Find top travel Instagram influencers in Montreal in 2023. Most popular hashtags: #canada #quebec #montreal #stayandwander.
+  Find top travel Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #canada #quebec #travel.
 platform: Instagram
-hits: 108
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 108 Instagram influencers like this in Montreal, Canada for you to connect with.
+hits: 42
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 42 Instagram influencers like this in Montreal, Canada for you to contact.
 profiles:
-  - username: "julienglobe"
-    fullname: >-
-      𝙹𝚞𝚕𝚒𝚎𝚗  𝙲𝚘𝚝𝚎
-    bio: >-
-      Creativity can happen everywhere at anytime - My favourite animal is the sloth 🦥 -👬🔒Taken @androu87 🇨🇦 - Our newest project @flamingochalet 🏗🏡
-    location: "Canada"
-    followers: 5091
-    engagement: 549
-    commentsToLikes: 0.020979
-    id: ckap73w4tiivm0i781jwxnn2s
-    verified: false
-    hashtags: "#mtl, #goodlife, #autumn, #traveladdict"
   - username: "ayats94"
     fullname: >-
       A Y A T | آيــات
     bio: >-
       ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Environmental Scientist ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | 〽️ find me outside 〽️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | 25 countries ↟ 22 states ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Colorado . Alberta . بغداد⁣
     location: "Canada"
-    followers: 5295
-    engagement: 875
-    commentsToLikes: 0.135368
+    followers: 5374
+    engagement: 882
+    commentsToLikes: 0.136377
     id: ck15qtiy64kid0i19rcvxn3dw
     verified: false
-    hashtags: "#denverphotographer, #jacksonhole, #optoutside, #fitnessjourney"
-  - username: "amoula__style"
-    fullname: >-
-      Amal Lassoued | Lifestyle
-    bio: >-
-      🇨🇦 | 📍Montréal 🌎🦋📸 Modest Fashion | Beauty | Travel | Food #montreal 📧 for collabs: amelhope.inc@gmail.com
-    location: "Canada"
-    followers: 20209
-    engagement: 257
-    commentsToLikes: 0.261554
-    id: ck0w0z38mgqtm0i19nkz6byk7
-    verified: false
-    hashtags: "#hijabfashionista, #ootdhijab, #hfinspo, #canadianbloggers"
-  - username: "passportofmemories"
-    fullname: >-
-      Tiana | Vancouver, BC
-    bio: >-
-      ✩ Content creator + photographer ❥ Positive vibes, adventure seeker & sustainable living ✎ passportofmemories@gmail.com ↓ Blog Posts
-    location: "Canada"
-    followers: 5680
-    engagement: 1625
-    commentsToLikes: 0.219172
-    id: ck15syttafi3e0i19xq93g0o8
-    verified: false
-    hashtags: "#travelgirlsgo, #youmustsee, #adventuretime, #discoverearth"
+    hashtags: "#outdoorbella, #wyominglife, #coloradohikes, #coloradoinstagram"
   - username: "montrealworld"
     fullname: >-
       Montreal | Travel community
     bio: >-
       🇨🇦 MONTREAL, CANADA ✈️FOUNDER: @marknayman 📷Tag us #montrealworld and we`ll post it! 📣 Contact zerbermark1995@gmail.com for all issues.
     location: "Canada"
-    followers: 39771
-    engagement: 316
-    commentsToLikes: 0.009602
+    followers: 46879
+    engagement: 334
+    commentsToLikes: 0.011015
     id: ck14l4v73sv690i19kv2xycjl
     verified: false
     hashtags: ""
-  - username: "whatthechic"
+  - username: "speedballbailey"
     fullname: >-
-      KATY ESQUIVEL
+      Speedball Mike Bailey
     bio: >-
-      Lifestyle x Travel ☽ ᛳ Montreal Viaja conmigo ➵ @katytravelsofficial Prueba mis presets! ➵ @whatthechicfilters ↓ Mira mi nuevo video aquí!
+      Professional Wrestler in Canada, Japan and Europe. Martial Arts. Tricking. Traveling. #MLX2017 Em19966@hotmail.com
     location: "Canada"
-    followers: 2463921
-    engagement: 574
-    commentsToLikes: 0.004683
-    id: ck0u0xbvev6bb0i190h3unni1
-    verified: true
-    hashtags: "#depie"
-  - username: "miss_evycookies"
-    fullname: >-
-      Evelyne Caillé-Guibert
-    bio: >-
-      ✈️ Créatrice de contenu | Voyage et bouffe 🍰 Content creator | Travel and food 🇨🇦 Montréal 💌 DM for collaboration 🐈 Accro aux chats, livres et thés
-    location: "Canada"
-    followers: 6588
-    engagement: 3028
-    commentsToLikes: 0.281386
-    id: ck5ce14fjk4x40i1170cxpskn
+    followers: 7937
+    engagement: 768
+    commentsToLikes: 0.036658
+    id: ck5q3ca1mk6dl0i11d0yg143w
     verified: false
-    hashtags: "#canadaparadise, #travelblogger, #restaurant, #italy"
-  - username: "itssaliaa"
+    hashtags: "#mlx2017, #prowrestling, #ddt, #ddtpro"
+  - username: "laeticia_andritiana"
     fullname: >-
-      Sali  Fashion|Style|Travel
+      Laeticia💋
     bio: >-
-      From Montreal 🇨🇦 Fashion & Travel Mother of Nelson the pug 💌Contact : itssaliaa@gmail.com Get 15% off with my code SALI15 @nordgreenofficial
+      📍Montreal, CA 💌 laeticiaandritiana@ooocreators.com
     location: "Canada"
-    followers: 10473
-    engagement: 220
-    commentsToLikes: 0.181886
-    id: ck55n6jld5l2s0i11llerplax
+    followers: 6721
+    engagement: 727
+    commentsToLikes: 0.064982
+    id: cl8p48xr28es30i23yxktrs98
     verified: false
-    hashtags: "#rouge, #nxl, #notxlili, #notxliliseries"
-  - username: "jean.phil.l"
+    hashtags: "#yul, #photodump, #photoideas, #outfitoftheday"
+  - username: "the_travelling_lipstick"
     fullname: >-
-      Jean-Philip / JP
+      Shruti |Travel,Love & More|
     bio: >-
-      Montréal 🇨🇦 Doctor | Fitness | Travel | Good vibes 👨🏼‍⚕️🏋🏼‍♂️🌎😇 In a world where you can be anything, be kind 🌈
+      Believe you can !! ♥️ Traveller | Photographer | Plant & Animal lover
     location: "Canada"
-    followers: 90114
-    engagement: 608
-    commentsToLikes: 0.019277
-    id: ckap7uq39lnay0i780rancqgx
+    followers: 55801
+    engagement: 478
+    commentsToLikes: 0.021917
+    id: ck0u6lp1x2b3d0i193d2bhm22
     verified: false
-    hashtags: "#throwback, #canada, #vacation, #mykonos"
-  - username: "karolanerondeau"
+    hashtags: "#autumn, #winterwonderland, #canada, #travelphotography"
+  - username: "thenewtravel"
     fullname: >-
-      Karolane Rondeau
+      Dn Vnbrg
     bio: >-
-      Montréal | Content Creator travel + food yessss rondeaukarolane@gmail.com
+      Sharing real travel stories 🌍 Living in Montreal 🇨🇦 150,000+ on YouTube 📷
     location: "Canada"
-    followers: 21180
-    engagement: 352
-    commentsToLikes: 0.087328
-    id: ck0ttimug2vub0i1981b93yyv
+    followers: 7454
+    engagement: 647
+    commentsToLikes: 0.066709
+    id: ck137m6rlc82l0i19pwitli3e
     verified: false
-    hashtags: "#wander, #feeltherhythm, #passionpassport, #roamearth"
+    hashtags: "#cuba, #maskssavelives, #beautifulbc, #britishcolumbia"
+  - username: "mat_dupuis_photo"
+    fullname: >-
+      Mathieu Dupuis
+    bio: >-
+      Photographer, travel writer, book author at @natgeo. Travel columnist at Le Journal of Montreal and PhotoNews mag. Ambassador @canoncanada
+    location: "Canada"
+    followers: 13783
+    engagement: 779
+    commentsToLikes: 0.026666
+    id: ck8syq8mall5d0j78rs7ezxwy
+    verified: false
+    hashtags: "#canada, #rockies, #canadaparks, #banfftourism"
+  - username: "mommy_and_mira"
+    fullname: >-
+      Tahani.H 🇨🇦🇮🇶✨Ottawa♡Canada
+    bio: >-
+      Fashion& Beauty|Lifestyle|Travel| Mum to #mommyyandmira 📍Ottawa•Montreal Beauty account: @withstyyle | 📧 For Business inquiries |
+    location: "Canada"
+    followers: 52973
+    engagement: 122
+    commentsToLikes: 1.225108
+    id: ck6u7w19snz1x0j71cpu5wk7j
+    verified: false
+    hashtags: "#15daysofgiving, #ad, #shein, #sheingals"
+  - username: "twourism"
+    fullname: >-
+      A & M - Toronto Foodies
+    bio: >-
+      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
+    location: "Canada"
+    followers: 12221
+    engagement: 724
+    commentsToLikes: 0.226612
+    id: ck6ubkqqma5jw0j718b18nc2f
+    verified: false
+    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
+  - username: "gigi.in.mtl"
+    fullname: >-
+      Gigi | Montreal Content Creator
+    bio: >-
+      ❤️Food 🍕• Drinks🍹• Travel🏄🏻 • Experiences✨ 💌| ghyslene@hotmail.com (No DM for collabs) 📢| Français/English
+    location: "Canada"
+    followers: 16545
+    engagement: 136
+    commentsToLikes: 0.139807
+    id: ck0u9tf3mammi0i190l5lzs3v
+    verified: false
+    hashtags: "#mtlcoffeecrawl, #quebecoriginal, #mtifoodies, #mtlmoments"
 ---

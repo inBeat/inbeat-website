@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Indonesia in 2023
+title: Top 10 Gardening Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top gardening Instagram influencers in Indonesia in 2023. Most popular hashtags: #dirumahaja #gardening #garden #gardeninspiration.
+  Find top gardening Instagram influencers in Indonesia in 2023. Most popular hashtags: #homedecor #rumahminimalis #inspirasirumah #homeinspiration.
 platform: Instagram
-hits: 11
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database has 11 Instagram influencers like this in Indonesia for you to pitch.
+hits: 10
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 10 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "pandasprouts"
+  - username: "mamazie68"
     fullname: >-
-      NEVI | ORGANIC GARDENING
+      MamaZie 🌹
     bio: >-
-      👩🏻‍🌾 Amateur Gardener 🌿 Home Gardening 🌵 Grow Organic 🏞 Nature Lover 🌳 Plants & Seeds Hoarder 🏡 Bali - Indonesia 🚛 Order 🇮🇩 Only 👇🏻👇🏻👇🏻
+      بِسْـــــــــمِ ﷲِالرَّحْمَنِ الرَّحِيم visit and follow my second ig @mamaziegarden
     location: "Indonesia"
-    followers: 28193
-    engagement: 111
-    commentsToLikes: 0.038864
-    id: ckaotw7auxryf0i78arfrm6cr
+    followers: 67293
+    engagement: 32
+    commentsToLikes: 0.038459
+    id: ck0w6p5p59n350i19cuvhxp18
     verified: false
-    hashtags: "#notagardeningpost"
-  - username: "marnulife"
+    hashtags: "#kitchengarden, #beautifulgarden, #growyourownfood, #healthyfood"
+  - username: "iam_wonder_kid"
     fullname: >-
-      Rio Marnu | Indonesia 🇲🇨
+      ♚ANURAG ANU 👣
     bio: >-
-      Travel Everywhere Insurance Enthusiast Plants 🌱☘️🍀 Fruitaholic🍍🍍
+      ᴋʟ <58> ᴋᴀɴɴᴜʀ ᴇxᴘʟᴏʀᴇ ᴛʜᴇ ʟᴇɴɢᴛʜ ᴀɴᴅ ʙʀᴇᵃᴅᴛʜ ᴏғ ɪɴᴅɪᴀ ғᴀsʜɪᴏɴ |ᴛʀᴀᴠᴇʟ |ʟɪғᴇsᴛʏʟᵉ | ʟɪᴠᴇs ᴇᴠᴇʀʏ ᴍᴏᴍᴇɴᴛ FREE FIRE ID :2153210725
     location: "Indonesia"
-    followers: 25862
-    engagement: 183
-    commentsToLikes: 0.016823
-    id: ckf5uvlbgmik40j23nckjwuap
+    followers: 9874
+    engagement: 1983
+    commentsToLikes: 0.162038
+    id: ckaout7e81pp70i785w7z9noo
     verified: false
-    hashtags: "#tanaman, #anthurium, #kupinggajah, #phylodendron"
-  - username: "veronika.twns"
+    hashtags: "#mallugram, #bhfyp, #cochin, #malayalamtypography"
+  - username: "poppyseptia"
     fullname: >-
-      Veronika Krasnasari | TWINS
+      
     bio: >-
-      👯‍♀️ @valerieandveronika 🌱 @twnseco 📞 dodhy (+62) 82214441409 Buy TWNSECO |Tiktok | Youtube 👇🏼
+      beauty & family 🐦 @sloppypoppy 🏙 @femaledailynetwork ☎️ CP: +62 812-9887-5074 (Tara)
     location: "Indonesia"
-    followers: 163347
-    engagement: 109
-    commentsToLikes: 0.017471
-    id: ck13476iiv1nm0i19gko6judm
-    verified: true
-    hashtags: "#veronika, #twins, #twns, #valerieandveronika"
-  - username: "zarinkasoiko"
-    fullname: >-
-      streetart 💀 travel 💀 tattoo
-    bio: >-
-      ⏳I draw 25 hours a day 🌐plants with eyes🌐depressive pink🌐 Tattoo - @za.zarin Face - @zkashikitoka__ ✴✴✴✴ Soul in Jogja.
-    location: "Indonesia"
-    followers: 6713
-    engagement: 771
-    commentsToLikes: 0.020797
-    id: ck8sxhchwhecc0j78p57rx2ea
+    followers: 10725
+    engagement: 441
+    commentsToLikes: 0.020634
+    id: ck6u7lvremahs0j71c6ohjeg1
     verified: false
-    hashtags: "#streetartist, #streetartvideo, #explorejava, #painting"
+    hashtags: "#skincarejunkie, #fujifilm, #igdaily, #beautyeditor"
   - username: "dina_rafasya"
     fullname: >-
       Inspirasi Rumah Mungil
     bio: >-
       Wife n Mom Twin's Firsya & Fariel Rumah Sederhana Lt. 77 m2 hook🏡 Homedecorlovers Sukabumi Endorse / PP ➡ DM Just sharing n inspiration
     location: "Indonesia"
-    followers: 6459
-    engagement: 576
-    commentsToLikes: 0.453580
+    followers: 7543
+    engagement: 577
+    commentsToLikes: 0.643422
     id: ck55ocnjj83t30i11zd6q6x6c
     verified: false
-    hashtags: "#favorithome, #inspirasirumahidaman, #homeswethome, #instahome"
-  - username: "idsbestphoto"
-    fullname: >-
-      iD's & Best Photos
-    bio: >-
-      🕵️ VOLUNTER REPOST : @idrusgallery 🔄 FOLLOWER ONLY 😌 = Repost time || 😪 = Repost Off " share kindnes happy together "
-    location: "Indonesia"
-    followers: 5511
-    engagement: 557
-    commentsToLikes: 0.037498
-    id: ck5q1rujccgyg0i11cmi4ty6l
-    verified: false
-    hashtags: "#portrait, #romantic, #beautyofnature, #nature"
+    hashtags: "#pojokfavorit, #rumahcantik, #bedroomideas, #dapurcantik"
   - username: "robinavicula"
     fullname: >-
       Gede Robi
     bio: >-
       Earthship 🌏
     location: "Indonesia"
-    followers: 73305
-    engagement: 337
-    commentsToLikes: 0.016203
+    followers: 80248
+    engagement: 249
+    commentsToLikes: 0.010499
     id: ck0w5tx4t5f680i19ou0mun3a
     verified: false
-    hashtags: "#robinavicula, #coronasucks, #ubud, #bali"
-  - username: "bumilangit.official"
+    hashtags: "#home, #bali, #family, #robinavicula"
+  - username: "ratnatjahyo"
     fullname: >-
-      Bumi Langit
+      ratnatjahyoinsani
     bio: >-
-      Living space where we can witness & learn the importance of mutual living between man & nature 🕰Tue - Sun at 8am - 4pm ☎️ +62 896 60111730
+      Home diary ✏️decor creator 🏡My home style➡️ @rumah_3g 📸backpack traveller 📌bussiness inquiry ➡️DM 📍west java 🇲🇨 🥋Is just my style
     location: "Indonesia"
-    followers: 23055
-    engagement: 200
-    commentsToLikes: 0.016065
-    id: ck14ha54p9b4h0i19j156e758
+    followers: 10491
+    engagement: 325
+    commentsToLikes: 0.242685
+    id: ck9wd96koenkz0j78u9fkt7q9
     verified: false
-    hashtags: "#explorejogja, #pertanianorganik, #learning, #permakultur"
+    hashtags: "#rustichome, #tanamanhijau, #gadiningroom, #kitchendecor"
+  - username: "tristanjulianos"
+    fullname: >-
+      Tristan Juliano S.
+    bio: >-
+      @mantravutura @groots_id @daily.cubo @lombasihiryes New Releases: 2020, Percakapan Pt. I, Kehendak Tuhan
+    location: "Indonesia"
+    followers: 98426
+    engagement: 285
+    commentsToLikes: 0.009424
+    id: ck0ttqpwi3wdn0i19a1tghl10
+    verified: false
+    hashtags: "#kadovalentine, #kadowisuda, #grootsforvalentine, #valentinehampersjakarta"
+  - username: "ditte_id"
+    fullname: >-
+      Ditte Halide
+    bio: >-
+      🏡Founder of @i.d_home 👩‍⚕️Dentist @klinikyks 💌+6285156406840 for endorsement (Zenia) 💌DM @i.d_home On demand interior designer 🎥 my youtube chanel 👇
+    location: "Indonesia"
+    followers: 117762
+    engagement: 64
+    commentsToLikes: 0.029977
+    id: ckaosheorrj300i78qxqb8lk6
+    verified: false
+    hashtags: "#modernclassicinterior, #taman, #gazebo, #roomdecor"
+  - username: "inspirasirumahmodernid"
+    fullname: >-
+      Inspirasi Rumah Idaman Modern
+    bio: >-
+      🏡 Inspirasi Rumah Idaman Minimalis info PP Klik WA dibawah ini
+    location: "Indonesia"
+    followers: 264356
+    engagement: 65
+    commentsToLikes: 0.010852
+    id: ckap45izd5xpl0i78o7kvxb39
+    verified: false
+    hashtags: "#desaindapur, #rumahmodernminimalis, #desainkamar, #rumahmewah"
   - username: "eyusman"
     fullname: >-
-      🍃🌷 🅔•🅡•🅡•🅨 🌷🍃
+      Edi Yusman
     bio: >-
-      ✖ IᑎᗪOᑎEᔕIᗩᑎ ᗪEᑕOᖇ EᑎTᕼᑌᔕIᗩᔕT Iᑎ ᑎᒪ 🇳🇱 ✖ ᗯᕼITE & ᔕIᒪᐯEᖇ & GᖇEY 🏡 IᑎTEᖇIOᖇ ✖ ᗩᒪᒪ ᑭIᑕᔕ 📸 TᗩKEᑎ ᗷY @EᖇᖇY.Yᑌᔕᗰᗩᑎ ✖ ᖇEᑭOᔕT = TᗩG ᗰE 🙏 ✖ EᑎᗪOᖇᔕE/ᑭᑭ ᗪᗰ
+      
     location: "Indonesia"
-    followers: 25207
-    engagement: 218
+    followers: 4
+    engagement: 1373958
     commentsToLikes: 0.308367
     id: ckap45hnc5xi30i78yv3k492d
     verified: false
-    hashtags: "#inspirasirumahcantik, #homedecorfamilybekasi, #desaininteriorrumah, #rumahcantikidaman"
-  - username: "herry_rasio"
-    fullname: >-
-      Herry Rasio
-    bio: >-
-      🗿Facebook: Herry Rasio
-    location: "Indonesia"
-    followers: 18916
-    engagement: 456
-    commentsToLikes: 0.017210
-    id: ck8syrc8wlpmc0j788fz1ckp5
-    verified: false
-    hashtags: "#aquascape, #aquaticplants, #rasiofamily, #aquascaping"
+    hashtags: "#berbagiidea, #ideinteriorrumah, #rumahminimalis, #desaininteriorrumah"
 ---

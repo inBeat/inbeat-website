@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Atlanta in 2023
+title: Top 10 Yoga Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top yoga Instagram influencers in Atlanta in 2023. Most popular hashtags: #yoga #fitness #atlanta #fashion.
+  Find top yoga Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #yoga #fashion #fitness.
 platform: Instagram
-hits: 49
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 49 Instagram influencers like this in Atlanta, United States for you to work with.
+hits: 38
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 38 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
-  - username: "elecsimon"
+  - username: "dewaynerogers"
     fullname: >-
-      Elec Simon: Event Emcee/ Host
+      DeWayne Rogers
     bio: >-
-      •Percussionist/motivational speaker/emcee •STOMP-New York City & U.S tour •anti-bullying school assemblies •drummer/cleveland Cavaliers • ΦβΣ 🤘🏾
+      God First. Creative Director. Second Born Creative. Sugaberry. booking@dewaynerogers.com
     location: "United States"
-    followers: 23264
-    engagement: 257
-    commentsToLikes: 0.078879
-    id: ck5zusqfq2z1b0i14c1ijoes8
+    followers: 101828
+    engagement: 202
+    commentsToLikes: 0.046033
+    id: ck5zpcweesfzg0i142t7a4dud
     verified: false
-    hashtags: "#emcee, #art, #love, #elecsimon"
-  - username: "bnloveyoga"
+    hashtags: "#blackexcellence, #fashion, #beauty, #favor"
+  - username: "ezratheprofessional"
     fullname: >-
-      * Blair *
+      Ezra "PROFESSIONAL" Ferguson
     bio: >-
-      Based in 📌 Atlanta, Georgia Yoga | Acro | Lifestyle | Branding Sharing 👇🏼 🤸🏼‍♂️ yoga + acro 🐾 fur babies 🍵 products 🧘🏼 health + wellness DM for collab
+      📍Atlanta, Ga Published barber/stylist, photographer, mua, body artist, retoucher. Creme of nature, paper magazine.
     location: "United States"
-    followers: 33336
-    engagement: 286
-    commentsToLikes: 0.033132
-    id: ck0w16k1ohsrh0i19k6535qjw
+    followers: 36594
+    engagement: 119
+    commentsToLikes: 0.035782
+    id: ck5c1kamsvcns0i118ntt4euj
     verified: false
-    hashtags: "#yogaeverydamnday, #acroyoga, #homeyoga, #yogaoffthemat"
+    hashtags: "#beautiful, #fitness, #naturallight, #muse"
+  - username: "moneyblowsme"
+    fullname: >-
+      GOLDI3
+    bio: >-
+      Labor and Delivery Doula Yoga Instructor Animal Rights activist Serial Entrepreneur & So much more ♍🕉️☯️
+    location: "United States"
+    followers: 5656
+    engagement: 423
+    commentsToLikes: 0.043031
+    id: ck6uaqsyi53jd0j7112to48j5
+    verified: false
+    hashtags: "#forlikes, #picoftheday, #webstagram, #shein"
+  - username: "callmesomto"
+    fullname: >-
+      Somto Gburugburu Bilal Obi
+    bio: >-
+      Jump rope | Yoga | Food | Juiceman Helping you live your best life 💪🏾 ✉️ DM for help with jump rope fitness #Obisomto @producejunctionng @obisomto
+    location: "United States"
+    followers: 20207
+    engagement: 134
+    commentsToLikes: 0.082616
+    id: ck55kajveyvc80i1164r2bu5r
+    verified: false
+    hashtags: "#fitness, #oyajump, #skipping, #jumpropefitness"
+  - username: "mountain_man_sims"
+    fullname: >-
+      Noah Sims
+    bio: >-
+      6'7 Mountain man! MASTER CHEF 🇺🇸 SEASON 10-TOP 4! Blessed to be part of a great family! Loving life/ World traveler/ Yoga lover/ ♎️/🌱 PB 🌱/ ⬇️ 127lbs
+    location: "United States"
+    followers: 25710
+    engagement: 314
+    commentsToLikes: 0.124784
+    id: ck0w4suil08ue0i19vdjg601v
+    verified: false
+    hashtags: "#motivation, #delicious, #healthy, #healthyfood"
+  - username: "fionajoiofficial"
+    fullname: >-
+      Fiona Joi
+    bio: >-
+      🇧🇷🇮🇳🇧🇩🇺🇸 I DO INTERVIEWS ! Model, Actress,Dancer, Yoga Instructor, and Wellness Coach SPREAD KINDNESS ♥️ TALENT IG : @fionatheactress
+    location: "United States"
+    followers: 111552
+    engagement: 52
+    commentsToLikes: 0.087835
+    id: ck8sxebkkh35g0j78q5os0xj6
+    verified: false
+    hashtags: "#lamodels, #scmodels, #lamodel, #artphotography"
+  - username: "damapurr"
+    fullname: >-
+      🌙Maura (she/her/they)
+    bio: >-
+      m a n i f e s t i n g the forest eats itself and lives forever🍃
+    location: "United States"
+    followers: 2210
+    engagement: 1387
+    commentsToLikes: 0.084072
+    id: ck6uhzed7c5bb0j71jb7yzk26
+    verified: false
+    hashtags: "#atl, #filmphotography, #atlanta, #longhair"
+  - username: "eat.tray.love"
+    fullname: >-
+      Tracy 🍑 ATL Foodie
+    bio: >-
+      🍜 food explorer w/sketracha 👩🏼‍💻 visual designer @accenture 🍞 creative director @clevertoaststudio 💌 dm or email for collabs 😋 #sketrachaeats
+    location: "United States"
+    followers: 12672
+    engagement: 306
+    commentsToLikes: 0.475661
+    id: ck8t0fimkrw940j78dfvqfkzp
+    verified: false
+    hashtags: "#eeeeeats, #food52, #atlfoodie, #foodgawker"
   - username: "levelsofbrittany"
     fullname: >-
       𝐁𝐫𝐢𝐭𝐭𝐚𝐧𝐲 𝐍. 𝐒𝐮𝐥𝐥𝐢𝐯𝐚𝐧
     bio: >-
       GOD 1st 🙏🏾 ATL🍑 Versatile Dancer💃🏽 Credits: Dj Unk•Kandi•Sevyn Streeter•Karyn White•&more CEO of @bnsmaaa 👼🏾✨Fly High Mommy✨👼🏾
     location: "United States"
-    followers: 7200
-    engagement: 946
-    commentsToLikes: 0.125913
+    followers: 7258
+    engagement: 1117
+    commentsToLikes: 0.126271
     id: ck14i2j9jdbgn0i190ve75u5b
     verified: false
-    hashtags: "#viral, #cheer, #heels, #pose"
-  - username: "themissybyrd"
+    hashtags: "#explore, #sweat, #dancer, #beautiful"
+  - username: "joethyself"
     fullname: >-
-      Missy Byrd
+      Joe with the Flow☯️
     bio: >-
-      I couldnt decide on one home! So I travel the world, follow me as I go!! 🌍 Twitter: @themissybyrd For booking Inquries: themissybyrd@gmail.com 🎬⬇️
+      All is one. All is love🕉 he/him #Vegan Cap☀️ Aqua🌙 Leo↑ Music Monopoly 🎶 Host of @thearlyshow As seen on Netflix R+F 💿 Stream "F.L.O.W.E.R." NOW!
     location: "United States"
-    followers: 7372
-    engagement: 474
-    commentsToLikes: 0.038801
-    id: ck6u2a5nsqmft0j71wo0xif5r
+    followers: 5836
+    engagement: 326
+    commentsToLikes: 0.227407
+    id: ck6tqouv8stoj0j713bz4u013
     verified: false
-    hashtags: "#teamaaron, #survivor39, #missfits, #survivorislandofidols"
-  - username: "sheldonbeers"
-    fullname: >-
-      Sheldon Tucker-Beers
-    bio: >-
-      | @SoulCycle Instructor | •sober •husband •dog dad •he/him from Broadway to a Bike, just dancing through life 💛☠️💛 want to hear more of my story👇🏼
-    location: "United States"
-    followers: 10456
-    engagement: 1234
-    commentsToLikes: 0.023036
-    id: ck135z54g3yc90i199xw7cl66
-    verified: false
-    hashtags: "#runatl, #soberissexy, #wearmysoul, #fitatl"
-  - username: "dewaynerogers"
-    fullname: >-
-      DeWayne Rogers
-    bio: >-
-      God First. Creative Director. booking@dewaynerogers.com
-    location: "United States"
-    followers: 90815
-    engagement: 188
-    commentsToLikes: 0.048508
-    id: ck5zpcweesfzg0i142t7a4dud
-    verified: false
-    hashtags: "#favor, #blackmoms, #blackexcellence, #photography"
-  - username: "adisugar"
-    fullname: >-
-      Adiarys Almeida
-    bio: >-
-      Principal International Guest Artist/ @adidancewear Owner and Designer @zarelywear Role Model @blochdanceusa & @gaynorminden Artist 💃🏻
-    location: "United States"
-    followers: 45210
-    engagement: 241
-    commentsToLikes: 0.009784
-    id: ck0vyd6dg3ect0i19fz6bffnf
-    verified: true
-    hashtags: "#winterworkshop, #balletofrepetoire, #dancerspassionn, #danceersworld"
-  - username: "realsircruse"
-    fullname: >-
-      Sir Cruse
-    bio: >-
-      PROMO PRICES ON MY STORIES! I ONLY RESPOND TO DMS IF U SENT $15 TO MY CASHAPP FIRST. $Sircruse27. WANNA LEARN ABOUT WAVES? Click THE LINK BELOW.
-    location: "United States"
-    followers: 342779
-    engagement: 127
-    commentsToLikes: 0.023764
-    id: ck5c6ejz359yd0i11zgy9b3lo
-    verified: false
-    hashtags: "#wavebuilder, #hair, #biceps, #afro"
-  - username: "ezratheprofessional"
-    fullname: >-
-      Ezra "PROFESSIONAL" Ferguson
-    bio: >-
-      📍Atlanta, Ga Published barber/stylist, photographer, mua, body artist, retoucher. Click website for rates and booking.
-    location: "United States"
-    followers: 36423
-    engagement: 122
-    commentsToLikes: 0.025885
-    id: ck5c1kamsvcns0i118ntt4euj
-    verified: false
-    hashtags: "#fit, #brownskin, #art, #atlphotographer"
-  - username: "damapurr"
-    fullname: >-
-      🌙Maura
-    bio: >-
-      m a n i f e s t i n g BLM 🇮🇹 CA🛫ATL 📸: @lsfotography1 @atlantafirstagency
-    location: "United States"
-    followers: 2131
-    engagement: 1360
-    commentsToLikes: 0.082783
-    id: ck6uhzed7c5bb0j71jb7yzk26
-    verified: false
-    hashtags: "#longhair, #atl, #curlyhair, #italian"
+    hashtags: "#bars, #atlanta, #chess, #capricorn"
 ---

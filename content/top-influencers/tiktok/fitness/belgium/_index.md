@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Belgium in 2023
+title: Top 10 Fitness TikTok Influencers In Belgium In 2023
 description: >-
-  Find top fitness TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
+  Find top fitness TikTok influencers in Belgium in 2023. Most popular hashtags: #fitness #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 15
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 15 TikTok influencers like this in Belgium for you to collaborate.
+hits: 11
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 11 TikTok influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "kimvanderbeke"
-    fullname: >-
-      Kim Van der Beke
-    bio: >-
-      * Dance Teacher * Fitness Coach * Catmom Follow❤️ Instagram 👉 kimvdb_fitcoach
-    location: "Belgium"
-    followers: 2920
-    engagement: 728
-    commentsToLikes: 0.029503
-    id: ckcujsdm3gm7l0j23xtoayo5c
-    verified: false
-    hashtags: "#foryou, #blonde, #dancers, #foryoupage"
-  - username: "charleneterterian"
+  - username: "charlene.tt"
     fullname: >-
       Charlene
     bio: >-
-      fitness 💗instagram☝ CEO of pranks 📍Belguim ART
+      fitness💗follow the gram Belguim ART Positive vibes only 🤝💋 Youtube
     location: "Belgium"
-    followers: 3700000
-    engagement: 557
-    commentsToLikes: 0.002896
+    followers: 4200000
+    engagement: 442
+    commentsToLikes: 0.009116
     id: ckaibds16g3kc0i78bb60fkj0
     verified: false
-    hashtags: "#prank, #peaceforartsakh"
+    hashtags: "#zoommyface, #duet, #indianclaymask"
   - username: "elsadelhaye"
     fullname: >-
       Elsa Delhaye
     bio: >-
       Fitness🏋️‍♀️ / Lifestyle 🌺 Del-elsa@hotmail.com
     location: "Belgium"
-    followers: 15000
-    engagement: 437
-    commentsToLikes: 0.017174
+    followers: 14800
+    engagement: 425
+    commentsToLikes: 0.026117
     id: ck9dz6mg80cg80j78fy3g9ipy
     verified: false
-    hashtags: "#pourtoii, #girly, #belgium, #foryoupage"
-  - username: "filmmaker.kallos"
-    fullname: >-
-      kallos
-    bio: >-
-      🇧🇪ici pour deconner🇧🇪 du sérieux sur mon insta➡️kallos.filmmaker
-    location: "Belgium"
-    followers: 18800
-    engagement: 1188
-    commentsToLikes: 0.028139
-    id: ckb98ctjgrskz0j23pvnhey7v
-    verified: false
-    hashtags: "#foryouu, #mdrr, #prankchallenge, #doglovers"
+    hashtags: "#fitness, #foryou, #girly, #belgium"
   - username: "fitnessfairy_antwerp"
     fullname: >-
       Mitchelle 🏋🏽
     bio: >-
       Personal Trainer in Antwerp,Belgium Filipina🇵🇭✨Mom✨Fitness Sharing Happiness
     location: "Belgium"
-    followers: 106000
-    engagement: 519
-    commentsToLikes: 0.034675
+    followers: 105400
+    engagement: 615
+    commentsToLikes: 0.045216
     id: ckdsrufgnp4tl0j232vkf82nm
     verified: false
-    hashtags: "#ootd, #filipina, #fy, #antwerpen"
+    hashtags: "#pink, #antwerp, #filipina, #fyp"
   - username: "mds_life"
     fullname: >-
       MDS_Life
     bio: >-
       Follow me on insta 👆🏼 Downloaded for fun... Watch me now👀 DM’s => Open
     location: "Belgium"
-    followers: 48000
-    engagement: 449
-    commentsToLikes: 0.020914
+    followers: 47200
+    engagement: 409
+    commentsToLikes: 0.020498
     id: ckbawhkpemvti0j23ivdan86u
     verified: false
-    hashtags: "#xyzbca, #fitness, #fyp, #foryou"
+    hashtags: "#motivation, #fitness, #gym, #bmw"
   - username: "aestheticwolfofficial"
     fullname: >-
       Aesthetic Wolf
     bio: >-
       Premium Activewear 🐺 Shop: aestheticwolf.com
     location: "Belgium"
-    followers: 6366
-    engagement: 221
-    commentsToLikes: 0.013178
+    followers: 6316
+    engagement: 419
+    commentsToLikes: 0.009903
     id: ckck4c04boql30j2353as3k7v
     verified: false
-    hashtags: "#fyp, #aestheticwolf, #fitfam, #fitness"
+    hashtags: "#fy, #fitfam, #blackfriday, #homeworkout"
+  - username: "motherelles"
+    fullname: >-
+      Ellen Q
+    bio: >-
+      Welcome to my cringy and embarrassing life
+    location: "Belgium"
+    followers: 7730
+    engagement: 555
+    commentsToLikes: 0.028637
+    id: ck9e0n3476thi0j783tweekwb
+    verified: false
+    hashtags: "#fitness, #bodybuilding, #workout, #kyliejenner"
+  - username: "rikkie_enamber"
+    fullname: >-
+      cap rik 
+    bio: >-
+      LIFE IS LOL tik tok duo met KLEINDOCHTER @amber_vierstraete volg je ze al ?🥰
+    location: "Belgium"
+    followers: 37800
+    engagement: 1617
+    commentsToLikes: 0.016517
+    id: ck8aec7jubraq0j7826u3juf6
+    verified: false
+    hashtags: "#gekdoen, #lol, #funtogether, #kleinkinderen"
+  - username: "5ndy"
+    fullname: >-
+      Andy🧸
+    bio: >-
+      Oh, Hi there 👋☺ ♡ Taken by the best ♡
+    location: "Belgium"
+    followers: 14000
+    engagement: 867
+    commentsToLikes: 0.110869
+    id: ckafvjxt3f62h0i782r3o7wp3
+    verified: false
+    hashtags: "#xyzbca, #foryou, #5ndy, #viral"
   - username: "thib_sel"
     fullname: >-
       tselderslagh
     bio: >-
       Filmmaker| Photographer clothing brand: https://tulipewear.com
     location: "Belgium"
-    followers: 4313
+    followers: 4238
     engagement: 1007
-    commentsToLikes: 0.021733
+    commentsToLikes: 0.018422
     id: ckbkw66qlrt300j23la070jv6
     verified: false
-    hashtags: "#indonesia, #canggu, #bali, #broll"
-  - username: "aura_officiel"
+    hashtags: "#workout, #indonesia, #videomaking, #canggu"
+  - username: "jasperdult"
     fullname: >-
-      AURA
+      Jasper Dult
     bio: >-
-      SINGER 🎤🇫🇷🇺🇸 INSTAGRAM: Aura_officiel 🌍 Based in Athens-Greece 🇬🇷
+      Follow me on Instagram 👆🏼
     location: "Belgium"
-    followers: 212100
-    engagement: 890
-    commentsToLikes: 0.025499
-    id: ckavktthbtw5l0j23ivc739ch
+    followers: 38300
+    engagement: 538
+    commentsToLikes: 0.013927
+    id: ck98r7tbk9ekw0j78bd2zprdd
     verified: false
-    hashtags: "#tiktoklatin, #pourtoi, #latina, #fyp"
-  - username: "fitnils"
-    fullname: >-
-      Nils
-    bio: >-
-      Insta :fit_nils01⤴️ 🔥19yo 📍Liège N’hésitez pas à vous abonnez 😜 10k ? 🥺
-    location: "Belgium"
-    followers: 4673
-    engagement: 848
-    commentsToLikes: 0.040688
-    id: ckb9jqg8db7f70j23kr21xh82
-    verified: false
-    hashtags: "#foryou, #belgique, #fyp, #xyzbca"
+    hashtags: "#walking, #drivingrange, #golf, #tiktokgolf"
 ---

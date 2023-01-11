@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga TikTok Influencers In United States in 2023
+title: Top 10 Yoga TikTok Influencers In United States In 2023
 description: >-
-  Find top yoga TikTok influencers in United States in 2023. Most popular hashtags: #fyp #yoga #duet #foryou.
+  Find top yoga TikTok influencers in United States in 2023. Most popular hashtags: #yoga #fyp #duet #healing.
 platform: TikTok
-hits: 957
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 957 TikTok influencers like this in United States for you to collaborate.
+hits: 756
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform has 756 TikTok influencers like this in United States for you to collaborate.
 profiles:
+  - username: "beatsbywaynetaylor"
+    fullname: >-
+      Andrew Halfacre
+    bio: >-
+      Been gone for a few years. Producer/Yoga Teacher @milktoastboys for funnies
+    location: "United States"
+    followers: 231900
+    engagement: 853
+    commentsToLikes: 0.115327
+    id: ckbweqypy1rdb0j23muilxbnb
+    verified: true
+    hashtags: "#duetwithme, #beat, #creator, #comedy"
   - username: "embermusic452"
     fullname: >-
       Emily Rose
     bio: >-
       Elementary Music Teacher who loves cats, dancing, yoga and the outdoors.
     location: "United States"
-    followers: 17600
-    engagement: 1520
-    commentsToLikes: 0.182399
+    followers: 20900
+    engagement: 1212
+    commentsToLikes: 0.146499
     id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#piano, #duet, #fiddle, #musicteachersoftiktok"
-  - username: "katiecapecod"
+    hashtags: "#cat, #catmom, #musician, #duet"
+  - username: "keelsmontana"
     fullname: >-
-      katiecapecod🧜🏻‍♀️
+      Kendall Meiller
     bio: >-
-      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
+      Intuitive Health Coach ✨ Energy Healer ✨ 200hr Cert. Yoga Teacher 🧘🏾‍♀️
     location: "United States"
-    followers: 7738
-    engagement: 1623
-    commentsToLikes: 0.129260
-    id: ck87u29o14tty0j78453egpae
+    followers: 21700
+    engagement: 1226
+    commentsToLikes: 0.066041
+    id: cka6nb8ybapcj0i78yg3klfvl
     verified: false
-    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
-  - username: "codiemarie86"
+    hashtags: "#justaddbriskzero, #selflove, #emotions, #zithappens"
+  - username: "mamasolaris"
     fullname: >-
-      Coddie Adams
+      Sia Natara
     bio: >-
-      Wife Boy mom Autism mom Yoga teacher Music lover: it moves me & speaks to me
+      Yoga & Meditation Teacher she/her 🏳️‍🌈
     location: "United States"
-    followers: 11600
-    engagement: 1454
-    commentsToLikes: 0.095631
-    id: ckb9alh4avtva0j23iv10d3o7
+    followers: 221700
+    engagement: 1620
+    commentsToLikes: 0.029132
+    id: ckbb6hrk5wlro0j231r61ifnl
     verified: false
-    hashtags: "#xyzbca, #thatwitch, #musiclover, #foryou"
-  - username: "ketocrossfityogi"
+    hashtags: "#bigchop, #astrology, #locs, #healing"
+  - username: "yogi_bryan"
     fullname: >-
-      ketocrossfityogi
+      Yogi Bryan
     bio: >-
-      keto/IF junkie 🥩 yoga soul ☮️ CF athlete 💪🏼 stroke survivor 🧠
+      🌟 Meditation, Yoga, and Comedy 🌟
     location: "United States"
-    followers: 6609
-    engagement: 652
-    commentsToLikes: 0.205333
-    id: ckbeyugz1jj5w0j239r4cy4tc
+    followers: 36000
+    engagement: 1219
+    commentsToLikes: 0.052850
+    id: cka0zzn44hon50i7827tgar4a
     verified: false
-    hashtags: "#ketones, #keto, #ketosis, #yourchoice"
-  - username: "tiffanycroww"
+    hashtags: "#meditation, #affirmations2021, #ifeelweightless, #yogaflow"
+  - username: "llusionmusic"
     fullname: >-
-      FatYogi
+      LLusion
     bio: >-
-      🧘‍♀️fat yoga teacher Mindful Tri 🎊 November 21,2020 Yoga🌀Meditate🌀Walk
+      LLusion...not iLLusion 23 | married “Yoga” feat. salem ilese OUT NOW 😎🤝
     location: "United States"
-    followers: 94600
-    engagement: 1364
-    commentsToLikes: 0.053843
-    id: ckbw8skihzagu0j2312kq7qml
-    verified: false
-    hashtags: "#yoga, #fatyoga, #sunday, #haes"
-  - username: "shakti_sita_"
-    fullname: >-
-      SHAKTI SITA
-    bio: >-
-      Creator @the_pallas Kundalini Yoga & Meditation Studio ⇩ BOOK A VIRTUAL CLASS ⇩
-    location: "United States"
-    followers: 9103
-    engagement: 1017
-    commentsToLikes: 0.052641
-    id: cka0nhzdgzsr50i78joqxmg4n
-    verified: false
-    hashtags: "#kundalini, #spirituality, #witchtok, #meditation"
+    followers: 3600000
+    engagement: 1549
+    commentsToLikes: 0.009179
+    id: ck8ae1sbh91p30j78rn8w0ea5
+    verified: true
+    hashtags: "#sound, #duet, #audio, #llusionmusic"
   - username: "geordannawellness"
     fullname: >-
-      geordanna
+      geordanna | embodiment coach
     bio: >-
-      yoga | costarican sensual mvmt | celibate self-love | trauma recovery 2 Tim 1:7
+      female embodiment coach yoga | self❤️ | heal trauma 1st gen 🇺🇸🇨🇷 indigenous
     location: "United States"
-    followers: 28700
-    engagement: 653
-    commentsToLikes: 0.123796
+    followers: 72900
+    engagement: 698
+    commentsToLikes: 0.083928
     id: cka0zzlffho7v0i7837ev1gty
     verified: false
-    hashtags: "#movementismedicine, #myasanasarentsexualyourgazeis, #yoga, #butiyoga"
-  - username: "the_book_waivern"
+    hashtags: "#selfconfidence, #yoga, #womenempowerment, #butiyoga"
+  - username: "freedomandfeathers"
     fullname: >-
-      Bug<33
+      Jennifer Delaney
     bio: >-
-      Mom/ ❤️ yoga / phlebotomist 🏳️‍🌈#loveislove Insta: the_book_waivern
+      Terrible at yoga so took up archery 🏹 | TX
     location: "United States"
-    followers: 37000
-    engagement: 1504
-    commentsToLikes: 0.026574
-    id: ckbqhesfr2qgt0j234ve9p6i9
+    followers: 838000
+    engagement: 1288
+    commentsToLikes: 0.019065
+    id: ckbqd0re5z48s0j23jqbam3k6
     verified: false
-    hashtags: "#videocall, #gaygirl, #foryou, #strengthtraining"
-  - username: "42artuniverse"
+    hashtags: "#boseallout, #womeninsports, #texas, #trickshot"
+  - username: "jessaubrey108"
     fullname: >-
       🌛Jessica🌚Aubrey🌜
     bio: >-
-      Witch, Yoga Teacher, Artist I've never been just one thing Blessed Be ☆ Namaste
+      Witch, Yoga Teacher, Artist Tarot Reader, Sound Healer Blessed Be ☆ Namaste
     location: "United States"
-    followers: 3898
-    engagement: 1268
-    commentsToLikes: 0.042302
+    followers: 4307
+    engagement: 1468
+    commentsToLikes: 0.154471
     id: ckbr1p2btiokh0j233iamuu1l
     verified: false
-    hashtags: "#faytober2020, #babywitch, #art, #witch"
-  - username: "blissfulathlete"
+    hashtags: "#ritual, #ifeelweightless, #yoga, #boymom"
+  - username: "stopdropanddance"
     fullname: >-
-      BlissfulAthlete
+      stopdropanddance
     bio: >-
-      I’m Dridha! Original #Yoga is Here Checkout My YouTube & IG! @BlissfulAthlete 🔱
+      Dance, Fitness, Yoga Teacher & Mama I work out hard so that I can eat dessert
     location: "United States"
-    followers: 176700
-    engagement: 629
-    commentsToLikes: 0.037732
-    id: ck8sax8lt4adj0j78gahpu581
+    followers: 54700
+    engagement: 1057
+    commentsToLikes: 0.050963
+    id: ckaclktl0fyli0i78jnqxlxvw
     verified: false
-    hashtags: "#tiktokwellness, #spirituality, #shiva, #fitness"
+    hashtags: "#tutorial, #core, #yogi, #tips"
 ---

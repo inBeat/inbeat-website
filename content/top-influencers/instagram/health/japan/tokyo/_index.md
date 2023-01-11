@@ -1,60 +1,48 @@
 ---
-title: Top 10 Health Instagram Influencers In Tokyo in 2023
+title: Top 10 Health Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top health Instagram influencers in Tokyo in 2023. Most popular hashtags: #health #japan #tokyo #beauty.
+  Find top health Instagram influencers in Tokyo in 2023. Most popular hashtags: #tokyo #japan #pr #stayhome.
 platform: Instagram
-hits: 38
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 38 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+hits: 25
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 25 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
-  - username: "mariko_jpn_531"
+  - username: "yu.i.k.a"
     fullname: >-
-      Mariko Nakagawa/中川 真理子🇯🇵
+      yuika
     bio: >-
-      💫︎Miss Supranational Japan 東東京代表💫 　∟1st runner up ☀︎ ヨガインストラクター｜📍Tokyo｜172cm 🥇MSJ関東大会grand prix 💠 Beauty Pageant Media model 2020
+      📍北海道→東京／173cm／32歳／ゴルフ歴7ヶ月 📍女子力上げるために作ったインスタです 📍食事、運動、旅行、美容 👑world super model japan 2017グランプリ 👑world super model 世界大会TOP14 ⛳️ @j.jane_japan アンバサダー
     location: "Japan"
-    followers: 10971
-    engagement: 1152
-    commentsToLikes: 0.010517
-    id: ck8t2ycl8164t0j782ru7na7h
+    followers: 70447
+    engagement: 133
+    commentsToLikes: 0.028445
+    id: ck5zsct0sy9am0i145rotzwop
     verified: false
-    hashtags: "#love, #healthybeauty, #happy, #smile"
-  - username: "maripo_jp"
+    hashtags: "#bodycare, #pr, #tigora, #beauty"
+  - username: "sweets__nano"
     fullname: >-
-      M A R I 🌐 神林真里
+      nano
     bio: >-
-      📍Based in Tokyo 🗣Japanese | English | Mandarin 🎖Ambassador: @odlo_japan @finc_app - #maripo_fitness - #maripo_beauty - #maripo_fashion
+      °` ♡𝒩𝒶𝓃ℴ.♡ ´° 📍ᴊᴀᴘᴀɴ 🍰sᴡᴇᴇᴛs ᴀʀᴛɪsᴛ≀sᴛɪʟɪɴɢs #プレ花嫁 ❤️ғᴏᴏᴅ≀ʟɪғᴇsᴛʏʟᴇ≀ғʟᴀᴛʟᴀʏ ✈️ ᴛʀᴀᴠᴇʟᴇʀ . #nanotravel✈️ #nanosweets💖 #nanoflatlay
     location: "Japan"
-    followers: 29630
-    engagement: 178
-    commentsToLikes: 0.012914
-    id: ck14i2zyrddu80i19pfnkl5to
+    followers: 74334
+    engagement: 157
+    commentsToLikes: 0.014628
+    id: ck13bikjuvkva0i19btn2hc9c
     verified: false
-    hashtags: "#maripo, #scandi, #pr, #koreancosmetics"
-  - username: "risako_yamamoto"
+    hashtags: "#valentine, #fashiongoalsz, #genic, #nano"
+  - username: "akanetiger"
     fullname: >-
-      Risako Yamamoto
+      𝑇𝑎𝑖𝐺𝑎🕊
     bio: >-
-      ♡my SLOHASHOLIC life♡ HEALTH ｜FASHION ｜ TRAVEL ｜ 👗rosy Monster 🌿Junior SUPERFOOD Meister my wellness life #SLOHASHOLIC
+      ◽︎ 𝑎𝑓𝑡𝑒𝑟𝑛𝑜𝑜𝑛𝑡𝑒𝑎,𝑠𝑤𝑒𝑒𝑡𝑠,𝑐𝑎𝑓𝑒,𝑓𝑜𝑜𝑑,𝑡𝑟𝑖𝑝… ◽︎ 𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙 𝑡𝑜𝑝 𝑟𝑒𝑝𝑜𝑟𝑡𝑒𝑟 @tokyo_joshibu ◽︎ 𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚𝑚𝑒𝑟 @cafedeparis_japan ◽︎ 𝑐𝑜𝑛𝑡𝑎𝑐𝑡……𝐷𝑀 𝑜𝑟 𝐺𝑚𝑎𝑖𝑙
     location: "Japan"
-    followers: 40637
-    engagement: 181
-    commentsToLikes: 0.004314
-    id: ck5zih3effott0i14z1x5m2x4
+    followers: 9630
+    engagement: 491
+    commentsToLikes: 0.004014
+    id: ckf5mzgwfw32d0j23v9xbhya9
     verified: false
-    hashtags: "#rosymonster, #fashion, #beach, #coordinate"
-  - username: "aaya.yoga"
-    fullname: >-
-      aya
-    bio: >-
-      Yogacreator | avex management | ⇨お問い合わせ💌ayayoga.tokyo@gmail.com DMは事務所管理です next event 👉ayayoga公式アプリでクラス開講中 アプリお問い合わせ https://support.d-publishing.jp/
-    location: "Japan"
-    followers: 46952
-    engagement: 213
-    commentsToLikes: 0.011124
-    id: ck0w5z4yq64ot0i196nzaeop7
-    verified: true
-    hashtags: "#ayayoga, #anp71, #fukumitsuya, #chiwawa"
+    hashtags: "#dinner, #afternoontea, #tokyogourmet, #dancyu"
   - username: "kiki__cafe"
     fullname: >-
       キキ。
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.004005
     id: ck0ud8pa5io280i19m4vb3ato
     verified: false
-    hashtags: "#foodstagram, #cafestagram, #instafood, #healthyfood"
-  - username: "davidlundins"
+    hashtags: "#foodstagram, #instafood, #healthy, #tokyo"
+  - username: "mimi.happy"
     fullname: >-
-      David Lundin
+      
     bio: >-
-      📝 Singer - Songwriter 📸 Photo @daviddavincis ☕️ Addict at @amongiscoffee 🟢 LISTEN TO ”PRAY” 🎶👇🏻 🚶‍♂️ Model - @selectivemgmt 📌 @bravomodelstokyo
+      いつも❤️ポチありがとうございます😌✨ こなもの🍞あまいの🍰からいの🌶おいしいもの🍴巡りの備忘録😋 たまに、旅の思い出🌺プライベートをのせたり、のせなかったり〜気ままに😁 気づかれないけれど、3日に1回. 横並びのバランス揃えてます😅 YOKOHAMA⛵️JAPAN🇯🇵
     location: "Japan"
-    followers: 45954
-    engagement: 325
-    commentsToLikes: 0.075726
-    id: ck138za4yiqz10i19jfupd36s
+    followers: 12412
+    engagement: 761
+    commentsToLikes: 0.000723
+    id: ck0w16icohsj30i19yk1pkkss
     verified: false
-    hashtags: "#tokyo, #japan, #travel, #beard"
-  - username: "mamiset"
-    fullname: >-
-      瀬戸 麻実　セトマミ
-    bio: >-
-      🇯🇵 美容家 色×形×質感で無限大の #マミ様メイク #メイクアップのための色彩学 マミ様メイク書籍大人気爆走中📚
-    location: "Japan"
-    followers: 83148
-    engagement: 157
-    commentsToLikes: 0.009347
-    id: ck0vwpyj1v0at0i19lj9aw76z
-    verified: true
-    hashtags: "#makeup, #cosmetics, #tokyo, #beauty"
+    hashtags: "#cafelove, #foodpics, #gourmet, #strawberry"
   - username: "shin_kuroobisan"
     fullname: >-
       黒帯さん^ ^
     bio: >-
-      model•influencer料理研究家賃貸マンション経営空手•グルメ•ビューティーの黒帯が目標横浜ベイシェラトンスーパーフード料理監修食べログGooglemapRetty人気ブロガーとしてTV出演 @woomy.me @woomy.beauty @woomy.restaurant
+      空手・グルメ・美容の黒帯が目標!料理研究家・横浜ベイシェラトンスーパーフード料理監修・食べログGooglemapRetty人気インフルエンサーとしてTV出演・マンション経営・model・influencer コーデウーミー⇒@woomy.me 0145
     location: "Japan"
-    followers: 62427
-    engagement: 256
-    commentsToLikes: 0.022602
+    followers: 61441
+    engagement: 242
+    commentsToLikes: 0.018178
     id: ck14gn8qo62a00i19x842erjn
     verified: false
-    hashtags: "#pr, #onsen, #hello100, #canon"
+    hashtags: "#fujimi, #afternoontea, #tokyo, #beyondsosho"
   - username: "nhkworldjapan"
     fullname: >-
       NHK WORLD-JAPAN
     bio: >-
       Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. #nhkworldjapan Terms: www3.nhk.or.jp/nhkworld/en/terms
     location: "Japan"
-    followers: 102238
-    engagement: 186
-    commentsToLikes: 0.017766
+    followers: 145074
+    engagement: 155
+    commentsToLikes: 0.020476
     id: ck5qatz4ii8mr0i11wtwk7vgx
     verified: true
-    hashtags: "#ventilatetheroom, #japantravel, #staysafeeveryone, #sakura"
-  - username: "r__12.y__9"
+    hashtags: "#socialdistancing, #discoverjapan, #oishii, #soapandwater"
+  - username: "_ayami.y_"
     fullname: >-
-      吉田亜沙美
+      彩未🍓【𝐚𝐲𝐚𝐦𝐢】
     bio: >-
-      Asami Yoshida/ JBAアンバサダー / 流 / twitter.com/@12__YOSHIDA
+      おうち美容×医療美容🤍 🦄【PC:ブルベ夏/顔タイプ:フェミニン/骨格:160cmウェーブ】 可愛いと綺麗の中間が好き ⸜‪‪❤︎⸝‬‪‪ . 📚| sweet/CLASSY/anan/ViVi/InRed/Ray etc... ↓ 楽天roomで愛用アイテム公開中🥂
     location: "Japan"
-    followers: 18912
-    engagement: 1085
-    commentsToLikes: 0.002073
-    id: ckap6cvz1fd2a0i78d76wztnl
+    followers: 45455
+    engagement: 172
+    commentsToLikes: 0.022326
+    id: ckaoxua40es6k0i78gdzd05cp
     verified: false
-    hashtags: "#nike, #nikeair, #teamsunchlorella, #sponsored"
+    hashtags: "#pr, #skincare, #makeup, #eyemakeup"
+  - username: "kazukovalentine"
+    fullname: >-
+      Kazuko Hayasaka
+    bio: >-
+      Make up artist / Phytotherapist / Director at organic cosmetics brand "NEROLILA Botanica"
+    location: "Japan"
+    followers: 92435
+    engagement: 135
+    commentsToLikes: 0.010303
+    id: ck5hrnkenv5zf0i11z1cm0wpg
+    verified: false
+    hashtags: "#dan, #nerolilabotanica, #liaf, #lifeisaflower"
+  - username: "iku3i8i8i"
+    fullname: >-
+      𓆝𓆟いく iku𓆜  𓆝   𓆞
+    bio: >-
+      Kyoto/Japan Ambassador ☽best pot3期生 ☽コバト缶第1期 ☽BAKE 箱菓子倶楽部第1期 ☽第1期おもいのフライパン ☽サラダクラブ ☽おとりよせネット ☽UMELAB ☽ベジターレ ☽kurasso @nokaze_ikustyle -うつわと物語の家-
+    location: "Japan"
+    followers: 21641
+    engagement: 432
+    commentsToLikes: 0.020557
+    id: ck5cjozdvv6v90i11oxen6en4
+    verified: false
+    hashtags: "#ouchigohanlover, #iku, #ikucafe, #wp"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Italy in 2023
+title: Top 10 Wellness Instagram Influencers In Italy In 2023
 description: >-
-  Find top wellness Instagram influencers in Italy in 2023. Most popular hashtags: #lifestyle #photooftheday #momlife #fitnessitalia.
+  Find top wellness Instagram influencers in Italy in 2023. Most popular hashtags: #travel #fitness #love #travelphotography.
 platform: Instagram
-hits: 222
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 222 Instagram influencers like this in Italy for you to work with.
+hits: 178
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 178 Instagram influencers like this in Italy for you to pitch.
 profiles:
   - username: "alexleidi"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       CONOSCI TE STESSA President Team Online Wellness Coach 👠👶Mamma Boss 👚 Women Motivation 🌎Cittadina del Mondo 🎈Pensiero Creativo 🦋Anima Libera
     location: "Italy"
-    followers: 41986
-    engagement: 127
-    commentsToLikes: 0.057335
+    followers: 43341
+    engagement: 96
+    commentsToLikes: 0.056521
     id: ck5c6zhhf6ido0i11zwvkfcw8
     verified: false
-    hashtags: "#maternage, #stayallegria, #mammeitaliane, #mammablogger"
+    hashtags: "#bimbomio, #maternage, #momlife, #lifestyle"
+  - username: "jesss_lorri"
+    fullname: >-
+      Jessica
+    bio: >-
+      Kinda funny Fitness 💪🏼 | Wellness 🍏 Model 📸 | Mum🤰 Backup - @jesslorriprivate 🇮🇹 Italian body 🍝 AllMyLinks 👇🏼
+    location: "Italy"
+    followers: 104516
+    engagement: 182
+    commentsToLikes: 0.026829
+    id: ck5zsyx1vzfzi0i14b1emqjof
+    verified: false
+    hashtags: ""
   - username: "mario.perillo"
     fullname: >-
       Mario Perillo
     bio: >-
-      Influencer & Globe Trotter 🇮🇹🇦🇷 Graduated in Tourism mgmt Wellness and Green Attitude 🌱 @tripadvisor ᴀᴍʙᴀssᴀᴅᴏʀ info.marioperillo@gmail.com ➤ 𝘔𝘪𝘭𝘢𝘯𝘰
+      Influencer & Globe Trotter 🇮🇹 Graduated in Tourism mgmt Wellness and Green Attitude 🌱 @tripadvisor ᴀᴍʙᴀssᴀᴅᴏʀ info.marioperillo@gmail.com ➤ 𝘔𝘪𝘭𝘢𝘯𝘰
     location: "Italy"
-    followers: 231096
-    engagement: 176
-    commentsToLikes: 0.024029
+    followers: 225601
+    engagement: 215
+    commentsToLikes: 0.023153
     id: ck0ttxa024pst0i19v6jkjid0
     verified: false
-    hashtags: "#trapani, #italianelcuore, #sicilia, #innamoratidellasvizzera"
-  - username: "georgiagibbs_"
+    hashtags: "#bassottikaninchen, #autunno2020, #milanofashionweek, #doxie"
+  - username: "valerie_fitness_"
     fullname: >-
-      Georgia Mae Gibbs
+      Valerie Casto
     bio: >-
-      GG ✨ All encompassing wellness 🌱 YouTube #GeorgiaGibbs @imgmodels | @women360mgmt | @management360 Ctunney@management360.com Megan.young@img.com
+      📍Milano ➡️ Founder @mypersonalworkout_ Fitness - Wellness - Intuitive Eating Youtuber 🎥 @myproteinit Ambassador 💙 Codice: VALERIEFITNESS ⬇️⬇️
     location: "Italy"
-    followers: 720337
-    engagement: 238
-    commentsToLikes: 0.014097
-    id: ck0tzxln2rvr70i1984xxfswg
-    verified: true
-    hashtags: "#avreambassador, #soulfood, #happy, #avrelife"
-  - username: "alessia_sacco21"
-    fullname: >-
-      ALESSIA SACCO 🌹
-    bio: >-
-      📍Palermo, 22 years old 🙆🎀 🔸 Student of Physical and sport activities 🔸Fitness and wellness 🍏💪
-    location: "Italy"
-    followers: 5097
-    engagement: 1290
-    commentsToLikes: 0.046213
-    id: ckap3zhr156710i788ip5blyy
+    followers: 148935
+    engagement: 377
+    commentsToLikes: 0.005706
+    id: ck8sym75el8t00j78npcejw48
     verified: false
-    hashtags: "#picoftheday, #blogger, #curvygirlspecial, #bhfyp"
-  - username: "alessandrobaldoni_"
+    hashtags: "#fitnessgirl, #goldsgym, #training, #bootyworkout"
+  - username: "yorkandhome"
     fullname: >-
-      Alessandro Baldoni 🇮🇹|🇺🇸|🇪🇸
+      Alyssa York
     bio: >-
-      ➢ Milan📍🇮🇹 @abagenziadicomunicazione ➢ Entrepreneur | Engineer | Travel Content Creator ➢ Fitness | Wellness | Life Lover 📩 info.ohmyalexz@gmail.com
+      A small glimpse into my world ✨ home | style | wellness
     location: "Italy"
-    followers: 51224
-    engagement: 293
-    commentsToLikes: 0.018590
-    id: ckaou69mkyzf70i78fuvpbpoj
+    followers: 5519
+    engagement: 202
+    commentsToLikes: 0.078990
+    id: ckh6rkn5w3rr70j23qmpe2611
     verified: false
-    hashtags: "#malta, #travelcontent, #alexandroupolis, #grecia"
-  - username: "naturalmentebuono"
-    fullname: >-
-      Marta & Mimma
-    bio: >-
-      daughter + mother / real food / @greensoulcosmetics contributors / wellness, sustainable living & mental health 💌: naturalmentebuonoblog@gmail.com
-    location: "Italy"
-    followers: 26367
-    engagement: 496
-    commentsToLikes: 0.045280
-    id: ck8sx0xkgfuhs0j78ymupgc35
-    verified: false
-    hashtags: "#iorestoaifornelli"
-  - username: "bybrittanynoonan"
-    fullname: >-
-      Brittany Noonan • Mum life
-    bio: >-
-      Sharing life’s ups & downs with my babies by my side🌻 Byron Bay ☀️ motherhood •mental health •wellness Fitness on @move.bybritt 📧 Brittany@srss.info
-    location: "Italy"
-    followers: 142031
-    engagement: 183
-    commentsToLikes: 0.252869
-    id: ck0w0z259gqmo0i191bq0e37o
-    verified: true
-    hashtags: "#hyperemesisgravidarum, #firsttrimester, #pregnancydiary, #motherhoodalive"
-  - username: "giasaysthat"
-    fullname: >-
-      Gia Kashyap
-    bio: >-
-      » Creative Lifestyle | Daily Style | Wellness ✎ Info@giasaysthat.com » Mumbai, India 🇮🇳 » NEW VIDEO 👇🏼
-    location: "Italy"
-    followers: 148056
-    engagement: 104
-    commentsToLikes: 0.031263
-    id: ck14iq5ssgo9w0i19jbjq5kb7
-    verified: true
-    hashtags: "#effortlessstyle, #desigia, #feelkaroreelkaro, #reelitfeelit"
+    hashtags: "#pittsburghblogger, #pghblogger, #pghcreative, #lovemyhome"
   - username: "carmenmaiorano"
     fullname: >-
       Carmen Maiorano
     bio: >-
       🌍 ✈️ Italian girl born with a wanderlust gene ⚜️ @majeofficiel Ambassador 💗 Wellness Lover 🧳 #travelgirl 📍Italy 🇮🇹
     location: "Italy"
-    followers: 3026
-    engagement: 1750
-    commentsToLikes: 0.037952
+    followers: 3034
+    engagement: 1175
+    commentsToLikes: 0.047895
     id: ck15r37075wwr0i192fvlhps0
     verified: false
-    hashtags: "#adventuretime, #italia, #landscape, #iamatraveler"
-  - username: "fitness.world.italia"
+    hashtags: "#italy, #addicted, #positano, #moodoftheday"
+  - username: "melissazino"
     fullname: >-
-      Fitness World Italia
+      Melissa Zino
     bio: >-
-      🔝Consigli di esperti su allenamento, nutrizione e salute. 🏋🏻Fitness, bodybuilding, wellness. 📲Scrivici e commenta i post se hai domande e curiosità!
+      #Wellness & #Fitness Entrepreneur #FitChef Proudly🇮🇹but my🖤belongs to LA🌴🇺🇸 📩 melissazino@gmail
     location: "Italy"
-    followers: 57604
-    engagement: 267
-    commentsToLikes: 0.072927
-    id: ckap1df1eu42s0i78rbnhi27z
+    followers: 198434
+    engagement: 72
+    commentsToLikes: 0.035692
+    id: ck0ubyhysfmkz0i19fe61lu3p
     verified: false
-    hashtags: "#homeworkout, #coreworkout, #motivazionefitness, #palestra"
+    hashtags: "#igtravel, #adventurer, #fitnessblogger, #wellness"
+  - username: "lalindaa"
+    fullname: >-
+      Linda Morselli
+    bio: >-
+      Adventure Traveler Sports and wellness enthusiast LowCarb recipes experimenter ->@thelightsideofthefood ✉️ linda@lindamorselli.com
+    location: "Italy"
+    followers: 229794
+    engagement: 163
+    commentsToLikes: 0.009723
+    id: ck0ubxf7kfho50i1930iuahzp
+    verified: true
+    hashtags: "#sunset, #yoga, #italia, #polas"
+  - username: "sole_lory"
+    fullname: >-
+      Lory Lorenza
+    bio: >-
+      CI VUOLE CLASSE IN TUTTO, ANCHE NELLO SGUARDO BASED PADOVA 🌿Consulting for nutrition 🤸health/wellness coach ✨Model/Miss 📩FOR COLLAB IN DM @sole_lory
+    location: "Italy"
+    followers: 30297
+    engagement: 404
+    commentsToLikes: 0.129954
+    id: ckapapbctwykt0i78h2je9pgh
+    verified: false
+    hashtags: "#igerveneto, #miss, #legs, #selfie"
+  - username: "nunzia_bellomo"
+    fullname: >-
+      Mieledilavanda Food Blogger
+    bio: >-
+      Seguimi In TV 📺 su Telenorba a MattinoNorba FoodBlogger del "senza" Movement for wellness Founder #corriconme nunzia.bellomo@gmail.com 📍Bari. Puglia
+    location: "Italy"
+    followers: 23518
+    engagement: 331
+    commentsToLikes: 0.280078
+    id: ck6totmkeg1ls0j713tuc81ut
+    verified: false
+    hashtags: "#pastafrolla, #stiledivita, #fooditaly, #cibosano"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Denver in 2023
+title: Top 10 Yoga Instagram Influencers In Denver In 2023
 description: >-
-  Find top yoga Instagram influencers in Denver in 2023. Most popular hashtags: #yoga #denver #fitnessaddict #stayhome.
+  Find top yoga Instagram influencers in Denver in 2023. Most popular hashtags: #yoga #photography #colorado #denver.
 platform: Instagram
-hits: 28
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 28 Instagram influencers like this in Denver, United States for you to collaborate.
+hits: 18
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 18 Instagram influencers like this in Denver, United States for you to work with.
 profiles:
   - username: "nataliaavegaa"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Vegan is the new black Ⓥ⠀ Me gusta tomar fotos 📸⠀ 📍Dallas, Texas 🍂
     location: "United States"
-    followers: 7633
-    engagement: 587
-    commentsToLikes: 0.024104
+    followers: 6769
+    engagement: 662
+    commentsToLikes: 0.024373
     id: ck6uc7xdae0hh0j71x8mgeequ
     verified: false
-    hashtags: "#miamibeach, #vegantacos, #veganburger, #veganbreakfast"
-  - username: "hello_healthnut"
+    hashtags: "#calm, #veganmiami, #keybiscane, #greennature"
+  - username: "tubetribe"
     fullname: >-
-      cealia | yogini 🌺
+      Tube Tribe ♡ Light-painting
     bio: >-
-      🧘🏽‍♀️ 200 RYT: yoga teacher + coach 🙏 venmo: CealiaJane 🤸🏽‍♂️ fitness coach @fitwall_denver 📱 social media manager
+      Light-painting is a lifestyle. tag #tubetribe to be featured With the @lightpaintingtubes team
     location: "United States"
-    followers: 34448
-    engagement: 317
-    commentsToLikes: 0.045152
-    id: ck55mywdw54nm0i11y8hn11ea
+    followers: 22682
+    engagement: 181
+    commentsToLikes: 0.010140
+    id: ck14hh61uab6a0i19dxfgctjy
     verified: false
-    hashtags: "#yogalove, #yogainspiration, #yogagirl, #loveandalliscoming"
-  - username: "ritabrentcomedy"
+    hashtags: "#lightart, #lightpaintersdotcom, #nightphotography, #lightpainting"
+  - username: "xheatherbryantx"
     fullname: >-
-      Rita Brent
+      Heather Bryant
     bio: >-
-      Comedian | Musician | Influencer | Army Veteran | MS ~ NY | Comedy Central•truTV•Rickey Smiley Tour•Circle TV | Booking: ritabrentcomedy@gmail.com
+      This is the official account of Heather Bryant. Ran by myself and my Love/photographer @wallace_camp. Check out my website below ❤️
     location: "United States"
-    followers: 30149
-    engagement: 242
-    commentsToLikes: 0.048756
-    id: ck6uaa2z62e0z0j71j5bkr4cs
+    followers: 117473
+    engagement: 466
+    commentsToLikes: 0.012855
+    id: ck8t0vr1jti880j78zoeskvif
     verified: false
-    hashtags: "#laugh, #ritabrentcomedy, #tbt, #quarantine"
-  - username: "iamashtonaugust"
+    hashtags: "#choker, #altfashion, #scenehair, #goth"
+  - username: "rocksthehusky"
     fullname: >-
-      Ashton August
+      Rocky
     bio: >-
-      🍍Wellness • Yoga • Author 🕉Founder of @yogiapproved @yaclasses 💍@tjstrauss • 🚐 #vanlifecouple ✨Practice #onlineyoga with me 👇🧘
+      Feed me bacon and tell me I’m handsome! 📍Denver, Colorado
     location: "United States"
-    followers: 8733
-    engagement: 615
-    commentsToLikes: 0.117297
-    id: ck5zucfyk23gm0i145a9kx0ay
+    followers: 13717
+    engagement: 454
+    commentsToLikes: 0.015463
+    id: ck5q7y83d3l7k0i11cnmc0ygr
     verified: false
-    hashtags: "#yogiapproved, #yaclasses, #onlineyogaclass, #learngrowshift"
-  - username: "kirstie.connon.art"
+    hashtags: "#siberianhusky, #colorado, #dogs, #animals"
+  - username: "salty_yogi"
     fullname: >-
-      Artwork of Kirstie Connon
+      Chelsea Spruance | RYT 200
     bio: >-
-      Expressing paths of healing through Art Visual Artist based out of Denver, CO. Art available at the link below 👇🏽
+      •Cystic fibrosis fighter🌹 •Yoga, meditation, flexibility, and mindfulness teacher 🧘🏽‍♀️ ⬇️SIGN up for one-on-one private classes now!
     location: "United States"
-    followers: 14855
-    engagement: 322
-    commentsToLikes: 0.063409
-    id: ck9hco9zvmar00j78ffampxaq
+    followers: 5549
+    engagement: 551
+    commentsToLikes: 0.050497
+    id: ckf5sz2rgghmq0j238nl8puwt
     verified: false
-    hashtags: "#tippermusic, #fineartist, #arttherpy, #cosmicart"
-  - username: "ailin012"
-    fullname: >-
-      
-    bio: >-
-      DENVER CO 📍 Selflove ⚽️💪🏽
-    location: "United States"
-    followers: 16240
-    engagement: 610
-    commentsToLikes: 0.014067
-    id: ckf5u3quijgwf0j234nzpbyts
-    verified: false
-    hashtags: "#fitfam, #fitness, #workout, #gymtime"
+    hashtags: "#caribbean, #ocean, #chronicillness, #cff"
   - username: "rabbithikes"
     fullname: >-
       Rachael DeLano
     bio: >-
       I am a hiker, rabbit lover, and yoga teacher. AT '16; PCT 17; CDT '18; Hadrian’s Wall ‘19. @garagegrowngear Ambassador (she/her)
     location: "United States"
-    followers: 2407
-    engagement: 937
-    commentsToLikes: 0.047396
+    followers: 2414
+    engagement: 930
+    commentsToLikes: 0.052213
     id: ck5pv5brdg7280i119dbkqo87
     verified: false
-    hashtags: "#optoutside, #nature, #blacklivesmatter, #womenforwildlands"
-  - username: "meggm_fitness"
-    fullname: >-
-      Megan • NASM-CPT, CES
-    bio: >-
-      Denver Based Virtual Trainer I breed: Body Loving | Goal Getting | Consistency @fabletics | @celsiusofficial Virtual Training ⬇️
-    location: "United States"
-    followers: 10273
-    engagement: 175
-    commentsToLikes: 0.077240
-    id: ck0tthu1d2s4k0i19q6sgam3x
-    verified: false
-    hashtags: "#mobilitytraining, #hipstretch, #getfit, #absworkout"
+    hashtags: "#cometogether, #hikertrash, #weareinthistogether, #blacktranslivesmatter"
   - username: "modhippiehabits"
     fullname: >-
       Kait • Modern Hippie Habits
     bio: >-
       Holistic health and sustainability advocate, certified yoga instructor, dog mom to @tinkandmeek, and shameless plant hoarder! 🌱 Denver, CO 🏔
     location: "United States"
-    followers: 20451
-    engagement: 436
-    commentsToLikes: 0.029491
+    followers: 25036
+    engagement: 185
+    commentsToLikes: 0.021889
     id: ck0udef6ziz2j0i1974vbekbc
     verified: false
-    hashtags: "#loveellie, #sponsored, #cityyolks, #mannapropoultry"
+    hashtags: "#sponsored, #plantsofinstagram, #soprovence, #eatyourveggies"
   - username: "stylecrone"
     fullname: >-
       Judith Boyd
     bio: >-
       Aging with hats, style, and the mysteries of yoga. Contact: judith@stylecrone.com
     location: "United States"
-    followers: 56505
-    engagement: 232
-    commentsToLikes: 0.106220
+    followers: 68951
+    engagement: 335
+    commentsToLikes: 0.108410
     id: ck0vvaq9voasv0i19lwn7emho
     verified: false
-    hashtags: "#headwear, #styleover60, #wearableart, #vintagestyle"
+    hashtags: "#silverhair, #sustainablefashion, #slowfashion, #embraceyourage"
+  - username: "myhomemantra"
+    fullname: >-
+      Radhika ☘️  BayArea MomBlog
+    bio: >-
+      👩🏻‍💻 Working Mom raising a happy 👧🏻 ✨ Obsessed with Simple Healthy Lifestyle ☘️ Homemade food Yoga Ayurveda are my jam! 💜 ⇩ Blog & YouTube Videos ⇩
+    location: "United States"
+    followers: 12088
+    engagement: 287
+    commentsToLikes: 0.102499
+    id: ck8t73t77fjxr0j78f5s2272q
+    verified: false
+    hashtags: "#homeschoolmom, #momlife, #workingmomlife, #mommyandme"
+  - username: "zizi.yoga"
+    fullname: >-
+      𝐙𝐚𝐢𝐧𝐞𝐛 𝐇𝐚𝐬𝐬𝐚𝐧 | زينب حسن 🇪🇬🇸🇩
+    bio: >-
+      ﷽ 𓂀 𝐌 𝐔 𝐒 𝐋 𝐈 𝐌 𝐀 𝐇 • 𝐂𝐥𝐢𝐧𝐢𝐜𝐚𝐥 𝐏𝐡𝐚𝐫𝐦𝐚𝐜𝐢𝐬𝐭 𝐏𝐡𝐚𝐫𝐦.𝐃 • 𝐘𝐨𝐠𝐚 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 𝐄-𝐑𝐘𝐓 𝟓𝟎𝟎 • @Lululemon 𝐀𝐌𝐁𝐀𝐒𝐒𝐀𝐃𝐎𝐑 • @AgogieLife 𝐏𝐀𝐑𝐓𝐍𝐄𝐑 • @Columbia 𝐍𝐌𝐃🎓 🕋
+    location: "United States"
+    followers: 62671
+    engagement: 314
+    commentsToLikes: 0.011460
+    id: ck5c6rl0y61ox0i11jrqtcu0x
+    verified: false
+    hashtags: "#yoga, #thesweatlife, #lululemoncollective, #tidal"
 ---

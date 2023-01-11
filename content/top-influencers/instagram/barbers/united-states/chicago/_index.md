@@ -1,96 +1,120 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Chicago in 2023
+title: Top 10 Barbers Instagram Influencers In Chicago In 2023
 description: >-
-  Find top barbers Instagram influencers in Chicago in 2023. Most popular hashtags: #barber #chicagobarber #barbershopconnect.
+  Find top barbers Instagram influencers in Chicago in 2023. Most popular hashtags: #barber #chicagobarber #barbershopconnect #atlantabarber.
 platform: Instagram
-hits: 47
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 47 Instagram influencers like this in Chicago, United States for you to contact.
+hits: 44
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 44 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "barbergreg"
+  - username: "jesse.elite87"
     fullname: >-
-      Barber Greg 💈
+      Chicago Barber/influencer 🇲🇽
     bio: >-
-      he/him/his Owner/Barber @olddogbarbershop 2151 W Division St Chicago, IL 60622 (773) 661-2381 By appointment only at:
+      Chicago|LA|Miami/ Jalisco 🎦 YouTube 🔹Jesse elite 🖥 Shop Online. @jesseelite Personal account @officialjesseelite
     location: "United States"
-    followers: 18476
-    engagement: 241
-    commentsToLikes: 0.050329
-    id: ck13a5uw2org30i19h7e704ra
+    followers: 289737
+    engagement: 193
+    commentsToLikes: 0.011277
+    id: ck13873xket3u0i19zgadt5mw
     verified: false
-    hashtags: "#barber, #chicago, #wickerpark, #chicagobarbershop"
-  - username: "mrwilliamcruse"
+    hashtags: "#chicagobarber, #barberlife, #jesseelitehairdye, #jesseelite"
+  - username: "ivancutzsharp"
     fullname: >-
-      Sir Cruse
+      Founder XIPHOSRAZORBRAND 🌐🔱
     bio: >-
-      MAIN PAGE @realsircruse ✊🏾🌊🦜⭐️
+      Founder of @xiphosrazorbrand 🌐🔱 XIPHOS RAZOR PRE ORDERS NOW AVAILABLE ⚔️ 🔽
     location: "United States"
-    followers: 38602
-    engagement: 768
-    commentsToLikes: 0.015702
-    id: ck5c6ekj559zm0i11030vuue0
+    followers: 26342
+    engagement: 526
+    commentsToLikes: 0.014365
+    id: ck5hoo1fmpwqg0i11vfd3ggvn
     verified: false
-    hashtags: "#360waves, #haircut, #chicagosalon, #mascara"
+    hashtags: "#andismaster, #sacramento, #barber, #chicagobarber"
+  - username: "maynev9"
+    fullname: >-
+      Mayra
+    bio: >-
+      She/Her we limit ourselves by defining ourselves.
+    location: "United States"
+    followers: 9284
+    engagement: 578
+    commentsToLikes: 0.017236
+    id: ck1368ynv5bzi0i19m4ugfyod
+    verified: false
+    hashtags: "#life, #androgynousmodel, #model, #ftm"
   - username: "nour_barber"
     fullname: >-
       Noureddin Bishawi
     bio: >-
-      ‎🙏🏼كن مع الله ولا تبالي Chicago barber | Creator of @certified_usa | Palestinian | Owner of @studio_cuts_chicago Where manscaping became known 🙌🏼
+      ‎🙏🏼كن مع الله ولا تبالي 🇵🇸 Chicago barber | Creator of @certified_usa | Palestinian | Owner of @studio_cuts_chicago Where manscaping became known 🙌🏼
     location: "United States"
-    followers: 315568
-    engagement: 69
-    commentsToLikes: 0.026488
+    followers: 298678
+    engagement: 68
+    commentsToLikes: 0.022528
     id: ck5zn1gshnlj50i14nk42vtek
     verified: false
-    hashtags: "#covid19, #quarantine, #goingcrazy, #mashalla"
+    hashtags: "#wow, #hairstyle, #viral, #barber"
+  - username: "barbergreg"
+    fullname: >-
+      BarberGreg 💈
+    bio: >-
+      Owner/Barber @olddogbarbershop 2151 W Division St Chicago, IL 60622 (773) 661-2381 By appointment only at:
+    location: "United States"
+    followers: 18301
+    engagement: 236
+    commentsToLikes: 0.043394
+    id: ck13a5uw2org30i19h7e704ra
+    verified: false
+    hashtags: "#flattop, #beforeandafter, #chicago, #chicagobarber"
+  - username: "kd1904"
+    fullname: >-
+      Kurt
+    bio: >-
+      Disappointing mothers since 2001. San Diego, Ca.
+    location: "United States"
+    followers: 6078
+    engagement: 454
+    commentsToLikes: 0.025866
+    id: ck5q930mn959c0i11mmix62ni
+    verified: false
+    hashtags: "#sandiegotattoo, #kurttattoosandiego, #kurtdeetjen, #kurttattoo"
   - username: "papibeam"
     fullname: >-
       CHICAGO BARBER💈(BEAM)
     bio: >-
-      ISU Alumni 40k🔓#CelebrityBarber #ChicagoBarber #Engineer (AppointmentsONLY) 🎥 200k+ YOUTUBE SUBSCRIBERS
+      (SPONSORED BY TOMB45💚🖤) ELECTRONIC ENGINEERING MAJOR📚 400k+ YouTube Subscribers🎥 Hit The Link to subscribe to my channel 👇🏾👇🏾
     location: "United States"
-    followers: 50392
-    engagement: 472
-    commentsToLikes: 0.045378
+    followers: 53910
+    engagement: 505
+    commentsToLikes: 0.045199
     id: ck8sxdi5hgzya0j78sty5asts
     verified: false
-    hashtags: "#neworleanslostfiles, #concealer, #thebeamteam, #youtubeacademy"
+    hashtags: "#glaciergang, #youtubeacademy, #chicagobarber, #puertoricoluv"
   - username: "jldabarber"
     fullname: >-
       CHICAGO BARBER
     bio: >-
-      Jose C 𝐇𝐨𝐮𝐬𝐞𝐜𝐚𝐥𝐥𝐬 🏡$150 and up📈 Professional Barber💈 21🍾 DM for appointments📲📲
+      Jose C •21🦈 𝐇𝐨𝐮𝐬𝐞𝐜𝐚𝐥𝐥𝐬 🏡$150 and up📈 Professional Barber💈 DM for appointments📲📲
     location: "United States"
-    followers: 38480
-    engagement: 232
-    commentsToLikes: 0.009360
+    followers: 37457
+    engagement: 126
+    commentsToLikes: 0.011798
     id: ck5zt8u4qzyg50i14wtz93oh2
     verified: false
     hashtags: ""
   - username: "shortyblends"
     fullname: >-
-      Chicago Barber•emilio
+      Chicago Barber•Emilio
     bio: >-
-      -Emilio Chavez 19y barber 💈
+      -Elgin Illinois
     location: "United States"
-    followers: 34723
-    engagement: 826
-    commentsToLikes: 0.009993
+    followers: 45241
+    engagement: 371
+    commentsToLikes: 0.008712
     id: ck9wf4cuen5ai0j78rby6a6wv
     verified: false
     hashtags: ""
-  - username: "jesse.elite87"
-    fullname: >-
-      Chicago Barber/influencer 🇲🇽
-    bio: >-
-      Chicago|LA|Miami/ Jalisco 🎦 YouTube 🔹Jesse.elite87 1 🖥 Shop Online. @jesseelite Personal account @officialjesseelite
-    location: "United States"
-    followers: 268486
-    engagement: 208
-    commentsToLikes: 0.014675
-    id: ck13873xket3u0i19zgadt5mw
-    verified: false
-    hashtags: "#barbershopconnect, #hollywoodbarber, #jesseelite, #chicago"
   - username: "alisac_thebarber"
     fullname: >-
       Chicago Barber
@@ -103,28 +127,4 @@ profiles:
     id: ck8wcxh1ad4kt0j78hk7mmp3v
     verified: false
     hashtags: ""
-  - username: "gillie_edits"
-    fullname: >-
-      GillieEdits
-    bio: >-
-      ✖️Where Sports & Art Collide ✖️ NY based artist 🇺🇸 ✖️self taught ✖️ DM for Custom edits ✖️YouTube 🔻
-    location: "United States"
-    followers: 15772
-    engagement: 1290
-    commentsToLikes: 0.016394
-    id: ck13d16o8357m0i19vxn12x2y
-    verified: false
-    hashtags: "#billsmafia, #speed, #lakers, #art"
-  - username: "kd1904"
-    fullname: >-
-      Kurt
-    bio: >-
-      Disappointing mothers since 2001. San Diego, Ca.
-    location: "United States"
-    followers: 6106
-    engagement: 543
-    commentsToLikes: 0.025321
-    id: ck5q930mn959c0i11mmix62ni
-    verified: false
-    hashtags: "#sandiegotattoo, #japanesetattoo, #japanesetattoos, #sandiegotattooartist"
 ---

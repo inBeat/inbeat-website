@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners Instagram Influencers in 2023
+title: Top 10 Runners Instagram Influencers In 2023
 description: >-
-  Find top runners Instagram influencers in 2023. Most popular hashtags: #makeup #trailrunning #fitness.
+  Find top runners Instagram influencers in 2023. Most popular hashtags: #trailrunning #medalmonday #loveleam.
 platform: Instagram
-hits: 3203
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 3203 Instagram influencers like this for you to contact.
+hits: 3142
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 3142 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "jonalbon"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Runner
     location: "United States"
-    followers: 23397
-    engagement: 405
-    commentsToLikes: 0.007921
+    followers: 23234
+    engagement: 370
+    commentsToLikes: 0.008799
     id: ck1398ub1k3h70i19mezqsoxx
     verified: false
-    hashtags: "#skyrunning, #obstaclecourseracing, #trailrunning, #thebestgripontheplanet"
-  - username: "devencp23"
+    hashtags: "#skyrunning, #trailrunning, #obstaclecourseracing, #onthisday"
+  - username: "firhanmci6"
     fullname: >-
-      Deven Christiandi Putra
+      Firhan
     bio: >-
-      Managed by mom 1st Runner Up Ina Idol Junior 2018 Job: 081289589111 (@agungtrilegowo) PP/endorse: 081212909535/081289589111 (agung) Youtube Channel👇
+      💥 RUNNER UP MASTERCHEF INDONESIA S6💥 all those menu approved by mama👩🏻‍🦰💯 BA OF @megcheese.id Business/Endorse 📞 Adit +6281.2832.3002 / EMAIL
     location: "Indonesia"
-    followers: 460702
-    engagement: 639
-    commentsToLikes: 0.032761
-    id: ck0vwad7fst700i195gbfx29a
+    followers: 369223
+    engagement: 485
+    commentsToLikes: 0.010675
+    id: ck5zypibdaadl0i14ohtzeld4
     verified: false
-    hashtags: "#indomusikgram, #vokalplus, #edisimerahputih, #hutri75"
+    hashtags: "#holidayalakanemory, #jakarta, #pengenadem, #solargardindonesia"
+  - username: "daywithdad"
+    fullname: >-
+      𝐖𝐚𝐫𝐫𝐞𝐧, 𝐊𝐚𝐭𝐞 & 𝐂𝐨. 🌱
+    bio: >-
+      🙋🏽‍♂️ plant eating stay @ 🏡 dad ➕ left the rat race for family life 🏡 family moments post renovating ➕ big foodie 🥑 runner 🏃🏽‍♂️ family travel 🌍
+    location: "United Kingdom"
+    followers: 45060
+    engagement: 326
+    commentsToLikes: 0.211051
+    id: ck0ucb8kngfsl0i19g4le95w3
+    verified: false
+    hashtags: "#leamingtonspa, #loveleam, #10krun, #backtoschool"
+  - username: "edinakulcsar_official"
+    fullname: >-
+      Kulcsár Edina
+    bio: >-
+      🤍Mom:Medox,Nina,🔜👶🏻💖 📲Sajtó: Konyári Edinka e.konyari@gmail.com 👸🏻MissWorld2014 1st runner up ❗️A képek felhasználása engedélyköteles @braidmeandmore
+    location: ""
+    followers: 643386
+    engagement: 285
+    commentsToLikes: 0.062445
+    id: ck14l6t54t5ai0i19jk3rd71i
+    verified: false
+    hashtags: "#ennekaz, #szeretet, #friends, #sminkvide"
+  - username: "patriciagouw"
+    fullname: >-
+      patriciagunawan
+    bio: >-
+      🌈 #PatGoTravel #PatGo 📩 +6288213000032 #TeamPatGo 🇮🇩 @zozo.gouw 🎖Runner Up #AsNTM4
+    location: "Indonesia"
+    followers: 816789
+    engagement: 225
+    commentsToLikes: 0.020268
+    id: ck0vv4y1znkh30i19323v2azs
+    verified: true
+    hashtags: "#bcajcbjepang, #dekoruma, #itsmybirthday, #netflixid"
+  - username: "phuongngabui_"
+    fullname: >-
+      Phuong Nga Bui | Tueanh | Nana
+    bio: >-
+      🌸 1st Runner-up Miss Vietnam 2018 - Miss Grand VN 2018 ☎️ 0828983232 (Nhã Quyên - Manager) 📨 ahau.phuongngabui@gmail.com 🤩 VLOG MỚI NHẤT⬇️
+    location: ""
+    followers: 596849
+    engagement: 183
+    commentsToLikes: 0.003155
+    id: ck6u4utrk5x150j71ew3vzhjp
+    verified: true
+    hashtags: "#tamsonfashion, #vlog2, #happy, #lancel"
+  - username: "ngtran_huyenmy"
+    fullname: >-
+      Nguyen Tran Huyen My
+    bio: >-
+      ❤1st runner up Miss Vietnam 2014 ❤Top 10 MGI 2017 ❤️ BTV truyền hình K+
+    location: ""
+    followers: 710708
+    engagement: 119
+    commentsToLikes: 0.010810
+    id: ckf5pprml6wkv0j231g8pspt2
+    verified: true
+    hashtags: "#poodle, #lagunalangco, #hoianashores, #dulichdanang"
+  - username: "runmeb"
+    fullname: >-
+      Meb Keflezighi
+    bio: >-
+      Boston Marathon Champion NYC Marathon Champion Olympic Silver Medalist Runner
+    location: "United States"
+    followers: 121595
+    engagement: 110
+    commentsToLikes: 0.014903
+    id: ck135pf092kqw0i19i7ellh3i
+    verified: true
+    hashtags: "#worldsfastest5k, #medalmonday, #carlsbad5000, #runtowin"
+  - username: "jaclynmisch"
+    fullname: >-
+      𝐉𝐀𝐂𝐋𝐘𝐍 𝐌𝐈𝐒𝐂𝐇
+    bio: >-
+      Wine Educator🍷 @napavalleywineacademy Culinary Inst. Master’s in Wine🔜DipWSET CBS Survivor29 runner-up🌴 #RoadtoBabyMisch 🌈#MRKH | IVF | Surrogacy
+    location: "United States"
+    followers: 57707
+    engagement: 837
+    commentsToLikes: 0.373606
+    id: ck135i1eu1j390i19iujfadya
+    verified: false
+    hashtags: "#ad, #roadtobabymisch, #12daysofchrismisch, #mrkh"
   - username: "sarahonthegoo"
     fullname: >-
       Sarah G. Francis
     bio: >-
       ⚙️ Electromechanical Engineer 🏍 Biker 🚎 VW Community 🧗‍♀️ Climber 🏊🏼‍♀️ Swimmer 🏃🏼‍♀️ Runner 🏕 Dite Ourson Complaisant☩ 🇱🇧 Dream it. Plan it. Do it.
-    location: ""
-    followers: 2597
-    engagement: 2981
-    commentsToLikes: 0.145833
+    location: "France"
+    followers: 2599
+    engagement: 2883
+    commentsToLikes: 0.151377
     id: ckf5vgt9dojx60j2308y28xod
     verified: false
-    hashtags: "#riverside, #betterwhensmiling, #campfire, #sunsetphotography"
-  - username: "sangster.real"
-    fullname: >-
-      Thomas Brodie Sangster
-    bio: >-
-      Fan Page | The Maze Runner | Game of Thrones Daily content of Thomas Sangster
-    location: "United States"
-    followers: 217938
-    engagement: 1836
-    commentsToLikes: 0.035478
-    id: ck14iwb4ehgf30i19nzyttna5
-    verified: false
-    hashtags: "#themazerunner"
-  - username: "fitfastfoods"
-    fullname: >-
-      CAROLENA KOSTAS
-    bio: >-
-      Runner 🏃‍♀️ | Fit & Fast Recipes👩‍🍳 | Sydney 🇦🇺 | Digital Marketing & Communications👩‍💻 | 💌fitfastfoods@yahoo.com.au
-    location: "Australia"
-    followers: 30188
-    engagement: 698
-    commentsToLikes: 0.059334
-    id: ck5hn62z0n9y20i11te9pamgm
-    verified: false
-    hashtags: "#plantbased, #barillaaus, #gifted, #vegan"
-  - username: "catubonadeo"
-    fullname: >-
-      Catalina
-    bio: >-
-      Periodista ✨ @telenoche ✨ @todonoticias 🏃🏼‍♀️ Runner @asicsargentina @asics @multitalentoficial
-    location: "Argentina"
-    followers: 33101
-    engagement: 680
-    commentsToLikes: 0.188776
-    id: ck5zjbxd4hbhx0i141kuxpma7
-    verified: true
-    hashtags: "#amomigarmin, #importaquehagas, #forerunner645music, #healthylifestyle"
-  - username: "run4mh"
-    fullname: >-
-      MARK | Runner 🏃‍♂️
-    bio: >-
-      Runner, mental health🙌@runtalkrunsouthampton leader⁣, mh first aider⁣ 🔜 Edinburgh marathon @corosglobal @brooksrunninguk @gatosports @teamrunderwear⁣
-    location: "United Kingdom"
-    followers: 8208
-    engagement: 1143
-    commentsToLikes: 0.079710
-    id: ck5hpb46kr2ef0i11kk6afn4d
-    verified: false
-    hashtags: "#runner, #throwbackthursday, #depression, #fitness"
-  - username: "riley_gaynor"
-    fullname: >-
-      Riley Gaynor
-    bio: >-
-      Fashion Model • Runner • Creator @heymantalentagency @dochertyagency @therockagency TikTok: riley_gaynor
-    location: "United States"
-    followers: 24146
-    engagement: 868
-    commentsToLikes: 0.052173
-    id: ck8wcyvwsd6ky0j78ut5b12nv
-    verified: false
-    hashtags: "#zarafashion, #rileygaynor, #midwestmodel, #modelvideo"
-  - username: "isabella_radovan"
-    fullname: >-
-      Isabella Radovan
-    bio: >-
-      • Owner: @shopsayge • Sports Reporter 🎥 • 1st runner up Miss Texas USA • 1 Peter 5:7 • Texas A&M Alum
-    location: "United States"
-    followers: 6783
-    engagement: 1064
-    commentsToLikes: 0.169038
-    id: ck5zsbcf2y6el0i143za2i7a8
-    verified: false
-    hashtags: "#quarantinelife, #makeup, #fashion, #glam"
-  - username: "myriamxn"
-    fullname: >-
-      Miriam
-    bio: >-
-      Mrs.• Runner• 26 Plant Based 🌱 • Cruelty Free Beauty 🐇 Positive Vibes ~ ❤️💛💚
-    location: "United States"
-    followers: 20251
-    engagement: 958
-    commentsToLikes: 0.040670
-    id: ck15q1psn0ogt0i19s9x45y87
-    verified: false
-    hashtags: "#makeup, #screenqueenfoundation, #crueltyfreebeauty, #50sfashion"
+    hashtags: "#campfire, #lakeview, #mountainviews, #sunsetrays"
 ---

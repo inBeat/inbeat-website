@@ -1,72 +1,48 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Turkey in 2023
+title: Top 10 Gardening Instagram Influencers In Turkey In 2023
 description: >-
-  Find top gardening Instagram influencers in Turkey in 2023. Most popular hashtags: #gardening #garden #instagood #flowers.
+  Find top gardening Instagram influencers in Turkey in 2023. Most popular hashtags: #garden #love #instagood #gardening.
 platform: Instagram
-hits: 14
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in Turkey for you to pitch.
+hits: 9
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in Turkey for you to contact.
 profiles:
   - username: "aydindincaslan"
     fullname: >-
       Aydın DİNÇASLAN
     bio: >-
-      Botanist 🌴🍁🌿🌅🌳🐾🌵🍂🌾I love nature and naturalness. | All photos are taken by me | NikonD7000 İPhone 8 Plus |
+      Botanist. I love nature and naturalness.☀️🌱🌵🌴🐾🎋🦋🍁🦎🌾🕊 All photos are mine own.
     location: "Turkey"
-    followers: 6888
-    engagement: 823
-    commentsToLikes: 0.017201
+    followers: 7194
+    engagement: 701
+    commentsToLikes: 0.020100
     id: ck9wdek4kfai00j786y0i1k3w
     verified: false
-    hashtags: "#succulentgarden, #green, #landscapearchitecture, #planthunter"
+    hashtags: "#flowers, #photographer, #landscaping, #palmtrees"
   - username: "aycasarc"
     fullname: >-
       Ayca Sarc
     bio: >-
-      Istanbul, Turkey #yorganlarfora_aycasarc
+      Istanbul, Turkey #yorganlarfora_aycasarc #mehrymuxyorganlarfora Ottoman Empire Tshirts
     location: "Turkey"
-    followers: 90351
-    engagement: 171
-    commentsToLikes: 0.100490
+    followers: 91272
+    engagement: 200
+    commentsToLikes: 0.079074
     id: ck15q7es41g1k0i19eojewmw5
     verified: false
-    hashtags: "#igersturkey, #isolationcreation, #oldiesbutgoodies, #myinspiration"
-  - username: "belkis.stam"
+    hashtags: "#artisanal, #mehrymuxyorganlarfora, #athome, #cnttraveler"
+  - username: "photocameramans"
     fullname: >-
-      belkis st
+      Kişisel Blok
     bio: >-
-      •Dr in Pharmacy I Pharmacognosy. •Full time PhD student, part time adventure seeker. CoF: @muslim.impact ~كن صاحب رسالة، كن صاحب قضية~ 📍🇹🇷📍🇩🇿 Youtube
+      Her fotoğraf aynı zamanda fotoğrafçının hayatına dair bir kayıttır. Özcan YURDALAN
     location: "Turkey"
-    followers: 10232
-    engagement: 582
-    commentsToLikes: 0.023292
-    id: ck5bw4seil0320i11loyirrza
+    followers: 13572
+    engagement: 1148
+    commentsToLikes: 0.022387
+    id: ck9hb2352f1yg0j78pq4xkwj7
     verified: false
-    hashtags: "#womensupportingwomen, #muslimwomen, #nature, #fadjr"
-  - username: "wheretonau"
-    fullname: >-
-      Naureen Chhipa
-    bio: >-
-      Actor🔸Travel🔸 Lifestyle Based out of NYC 🍎🚕 Agent ➡️ @take3talent Travel Blog⬇️
-    location: "Turkey"
-    followers: 5464
-    engagement: 440
-    commentsToLikes: 0.231163
-    id: ckapc3ph92cco0i78wf8e0in5
-    verified: false
-    hashtags: "#wheretonau, #explorebali, #travelgram, #indonesia"
-  - username: "shadnazbakhshandeh"
-    fullname: >-
-      I AM SHADNAZ ✨
-    bio: >-
-      Be Happy and share Love ❤️ Vegetarian 🌱 The evolution of my personal style , my life and me. 📍🇹🇷İstanbul
-    location: "Turkey"
-    followers: 187306
-    engagement: 243
-    commentsToLikes: 0.109954
-    id: ck0ty2pbeld3l0i19irw36hns
-    verified: false
-    hashtags: "#benimtarz, #lifestyleblogger, #styleinspo, #stayhome"
+    hashtags: "#instagood, #love, #flowerpower, #green"
   - username: "alyagram_2017"
     fullname: >-
       Alya' nın dünyası
@@ -78,53 +54,65 @@ profiles:
     commentsToLikes: 0.025893
     id: ckaovdxx146q40i78j8ailxye
     verified: false
-    hashtags: "#bhfyp, #beautiful, #photo, #flowers"
-  - username: "balasudundaralp"
+    hashtags: "#love, #instagram, #photo, #canon"
+  - username: "_zariffhanimmm"
     fullname: >-
-      Angela Balasu Dundaralp ® pHD💧
+      Zarifhanım ☁️
     bio: >-
-      #ozonlabs Bilim Tech Şirketleri Kurucusu💧 Cilt Yenileyicileri 💉 Mentor👩‍🔬 Ürün Geliştiricisi🧪#temizkozmetik🌱Araştırmacı 📍Istanbul-Hamburg-Los Angeles
+      ☁️Bir Karadeniz’linin Doğuya uzanan yolculuğu ☁️Sade bir yaşam ,dingin bir hayat 📸📕🪴☕️ 💌Reklam ve Tanıtım için DM
     location: "Turkey"
-    followers: 74355
-    engagement: 64
-    commentsToLikes: 0.438427
-    id: ckap5ztawduuf0i780vl9in85
+    followers: 27907
+    engagement: 215
+    commentsToLikes: 0.171348
+    id: ck8t6jhsodv9h0j780jp6dhsz
     verified: false
-    hashtags: "#akne, #esansiyelya, #takipet, #izle"
-  - username: "kitcheninred"
+    hashtags: "#kes, #reels, #garden, #interiorlovers"
+  - username: "belkis.stam"
     fullname: >-
-      Pınar Özdirim 👨‍👩‍👦‍👦🐶🐈👩🏼‍🌾☕️🍰
+      belkis st
     bio: >-
-      İki👦🏻 beş patili annesi🐶🐾🐈 ODTÜ Kimya öğrencisi👩‍🔬 @atelierinred Kurucusu Tıklanabilir tüm tarifler için:
+      Pharmacognosy •Full time PhD student, part time adventure seeker. CoF: @melkisorganics ~كن صاحب رسالة، كن صاحب قضية~ 📍🇹🇷📍🇩🇿 Youtube
     location: "Turkey"
-    followers: 98478
-    engagement: 128
-    commentsToLikes: 0.040642
-    id: ck9hc0ngmj8k30j78s2m6h80c
+    followers: 10163
+    engagement: 565
+    commentsToLikes: 0.023477
+    id: ck5bw4seil0320i11loyirrza
     verified: false
-    hashtags: "#recipesinred, #tubeinred, #cheesecakesinred, #tarhanal"
-  - username: "ada_greengarden"
+    hashtags: "#smiley, #lifestyle, #love, #comfort"
+  - username: "enis0kalimashi"
     fullname: >-
-      ada_greengarden
+      
     bio: >-
-      Burcu Önür Kaktüs, sukulent üretimi 🌵🍀 Ve Saksı tasarımı⚱🖌 Bilgi ve sipariş için dm📩
+      💸💷💳İLETİŞİM NO 📞0538 616 6870📞SENİN CESARET EDEMEDİĞİNİ YAPANLAR SENİN ÖZENDİĞİN HAYATI YAŞARLAR %100 GÜVEN %100GARANTİ %100 💸
     location: "Turkey"
-    followers: 7421
-    engagement: 459
-    commentsToLikes: 0.042890
-    id: ckaovp60u5jt00i78xiv6br3z
+    followers: 28785
+    engagement: 210
+    commentsToLikes: 0.020067
+    id: ck15s77m3bkmk0i19g3b5feiu
     verified: false
-    hashtags: "#bay, #succulent, #cactusphoto, #succulentgarden"
-  - username: "rikki.roath"
+    hashtags: "#beagleuk, #beagleworld, #walkiestime, #hound"
+  - username: "butikevlersapanca"
     fullname: >-
-      Rikki Lee Roath
+      Butik Evler Sapanca
     bio: >-
-      Traveller - Model - TV Show host - Chef - Rikki’nin Türkiye Rotası
+      Günlük Kiralık🏡Müstakil ve Havuzlu Villalar First Tiny House 🏡 concept in Turkey🇹🇷 Çalışma saati 10:00-19:00 arasıdır.
     location: "Turkey"
-    followers: 13667
-    engagement: 956
-    commentsToLikes: 0.015840
-    id: ck6u8f17zr7p70j71f2lrayp0
+    followers: 93612
+    engagement: 189
+    commentsToLikes: 0.087743
+    id: ck5pyz2t0yioq0i11krc3wm7g
     verified: false
-    hashtags: "#morocco, #cappadocia, #cycling, #macerarehberi"
+    hashtags: "#sakarya, #decorationideas, #holiday, #decor"
+  - username: "kaktus_gunlugum"
+    fullname: >-
+      CactuSmaN CollectioN 🌵
+    bio: >-
+      ĸaĸтüѕ вιlgιѕι,вaĸıмı🌵 • özel тür ĸaĸтüѕler • ĸαĸтüѕ ĸoleĸѕιyoɴυм © • ғoтoğrαғlαr şαнѕıмα evιмdeĸι ĸαĸтüѕleriмe αiттir αlıɴтı yoĸтυr👋 Satış Yokk Hobby
+    location: "Turkey"
+    followers: 13321
+    engagement: 501
+    commentsToLikes: 0.064735
+    id: ck8tdcskh2u6e0j78h8i8epqy
+    verified: false
+    hashtags: "#astropytumasterias, #cactus, #cactilove, #plant"
 ---

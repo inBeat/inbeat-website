@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Poland in 2023
+title: Top 10 Fitness TikTok Influencers In Poland In 2023
 description: >-
-  Find top fitness TikTok influencers in Poland in 2023. Most popular hashtags: #fitness #dc #fyp #dlaciebie.
+  Find top fitness TikTok influencers in Poland in 2023. Most popular hashtags: #dc #fitness #foryou #dlaciebie.
 platform: TikTok
-hits: 31
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 31 TikTok influencers like this in Poland for you to work with.
+hits: 27
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 27 TikTok influencers like this in Poland for you to connect with.
 profiles:
   - username: "strongpoint.pl"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       SKLEP FITNESS IG: @strongpoint.pl www.strongpoint.pl
     location: "Poland"
-    followers: 3354
-    engagement: 1137
-    commentsToLikes: 0.017904
+    followers: 4126
+    engagement: 1252
+    commentsToLikes: 0.036804
     id: ckbliqb8dbxj30j23u7htzi99
     verified: false
-    hashtags: "#redukcja, #viral, #fit, #strongpoint"
+    hashtags: "#strongpoint, #jestemstrong, #walentynki, #dc"
+  - username: "sylviafitness"
+    fullname: >-
+      Sylwia Szostak 
+    bio: >-
+      👑 Sylwia Szostak GYM FREAK 🌴Reality Show AGENT Gwiazdy Fitness Model
+    location: "Poland"
+    followers: 349700
+    engagement: 803
+    commentsToLikes: 0.006653
+    id: ck8saaaaf18ax0j786jy5zub2
+    verified: true
+    hashtags: "#imnotgonnadoitgirl, #couplegoals, #couple, #mma"
   - username: "alexsaww"
     fullname: >-
       Alex Sawwidis
     bio: >-
-      Petrolhead and fitness freak. All videos are mine
+      @carstorybro Automotive YouTuber, petrolhead and fitness freak. 🏁💪🏼
     location: "Poland"
-    followers: 3853
-    engagement: 663
-    commentsToLikes: 0.007439
+    followers: 5703
+    engagement: 545
+    commentsToLikes: 0.007625
     id: ckc3f45rc133b0j236jnp3cwr
     verified: false
-    hashtags: "#cars, #power, #audi, #fyp"
-  - username: "sagannnn"
-    fullname: >-
-      SaganVines
-    bio: >-
-      Zbudujmy coś dużego 😎 📸 Instagram: dawid_sagann
-    location: "Poland"
-    followers: 18100
-    engagement: 852
-    commentsToLikes: 0.034044
-    id: ck9jv88r6r5h60j78et6l27g0
-    verified: false
-    hashtags: "#fastcar, #fast, #parody, #look"
-  - username: "lee_cummins"
-    fullname: >-
-      Lee Cummins
-    bio: >-
-      🇮🇪💚 44.6K 🤯 Thank you leecummins89@gmail.com
-    location: "Poland"
-    followers: 46800
-    engagement: 742
-    commentsToLikes: 0.043668
-    id: ckdbwefgtdxsh0j23ucsykdot
-    verified: false
-    hashtags: "#calisthenics, #learnontiktok, #fuelforfitness, #gymbuddy"
-  - username: "darskosc"
-    fullname: >-
-      darskosc
-    bio: >-
-      23 in december ♐️#sagittarius Ig: @darskosc @darskoscfitness
-    location: "Poland"
-    followers: 55300
-    engagement: 1287
-    commentsToLikes: 0.003471
-    id: ck8z1hzbl1m7d0j78efuqp8i7
-    verified: false
-    hashtags: "#fyp, #training, #homeworkout, #fit"
+    hashtags: "#dlaciebie, #power, #car, #fyp"
   - username: "hugonczajkowski"
     fullname: >-
       hugonczajkowski
     bio: >-
       Moda męska 👔 Sport 💪 Lifestyle 😎 YT (+65k subs.) 🎥
     location: "Poland"
-    followers: 4680
-    engagement: 352
-    commentsToLikes: 0.022784
+    followers: 4599
+    engagement: 331
+    commentsToLikes: 0.065533
     id: ckb0t3n7pim7e0j23fnd3nlm6
     verified: false
-    hashtags: "#trening, #fitness, #zostanwdomu, #niejestemekspertem"
+    hashtags: "#trening, #zostanwdomu, #style, #fitness"
+  - username: "sagannnn"
+    fullname: >-
+      SaganVines
+    bio: >-
+      Zbudujmy coś dużego 😎 📸 Instagram: dawid_sagann
+    location: "Poland"
+    followers: 21500
+    engagement: 723
+    commentsToLikes: 0.039457
+    id: ck9jv88r6r5h60j78et6l27g0
+    verified: false
+    hashtags: "#dc, #true, #challenge, #stitch"
+  - username: "maciooch"
+    fullname: >-
+      Macioch
+    bio: >-
+      Proszę obserwować 🙏🏻❤️ Maciek Zdunikowski / Macioch 🧨ig: maciek_zdunikowksi
+    location: "Poland"
+    followers: 100500
+    engagement: 1358
+    commentsToLikes: 0.016695
+    id: ck8w41c0k82md0j7886da2z79
+    verified: false
+    hashtags: "#funny, #friend, #dc, #viral"
+  - username: "lee_cummins"
+    fullname: >-
+      Lee Cummins
+    bio: >-
+      🇮🇪💚 44.6K 🤯 Thank you leecummins89@gmail.com
+    location: "Poland"
+    followers: 46200
+    engagement: 708
+    commentsToLikes: 0.045729
+    id: ckdbwefgtdxsh0j23ucsykdot
+    verified: false
+    hashtags: "#wap, #fitnesstips, #irish, #fyp"
   - username: "wkondycji.pl"
     fullname: >-
       Kasia Zaremba
     bio: >-
-      Trener💪▪️Dietetyk🍳▪️ Indywidualne plany,📝 akcesoria treningowe🔥i więcej 😍 ⬇
+      Trener💪, Dietetyk🥩🍳😋. Pomogę Ci osiągnąć wymarzoną sylwetkę!💪😍🍑👙 ⬇️⬇️⬇️
     location: "Poland"
-    followers: 64400
-    engagement: 802
-    commentsToLikes: 0.018154
+    followers: 163800
+    engagement: 670
+    commentsToLikes: 0.018719
     id: ckb9a0l1rum0m0j23oi8yhif7
     verified: false
-    hashtags: "#treningwdomu, #comedy, #relax, #bodybuilding"
-  - username: "wowmaciej"
-    fullname: >-
-      Maciej Łagan
-    bio: >-
-      🌚
-    location: "Poland"
-    followers: 19800
-    engagement: 1187
-    commentsToLikes: 0.006789
-    id: ck85cry0x3fs20j787orkevbv
-    verified: false
-    hashtags: "#poland, #lato, #konie, #natura"
-  - username: "betterfitnessgirl"
-    fullname: >-
-      Weronika 
-    bio: >-
-      IG📸 BETTERFITNESSGIRL ❕ TRENUJ ZE MNĄ 💪🏼! Plan Treningowy-Dietetyczny
-    location: "Poland"
-    followers: 142000
-    engagement: 704
-    commentsToLikes: 0.004794
-    id: ck8ae5xfla2qj0j78mf6h3rpg
-    verified: false
-    hashtags: "#foryoupage, #fitness, #dc, #foryou"
+    hashtags: "#fun, #winter, #dieta, #bodybuilding"
   - username: "julcz00"
     fullname: >-
       Julia Pustelnik
     bio: >-
       🥇Polish champion aerial hoop 2020🏆 📸Instagram: julcz00 🤸🏼‍♀️Acro trainer
     location: "Poland"
-    followers: 4736
-    engagement: 1669
-    commentsToLikes: 0.028131
+    followers: 6342
+    engagement: 1616
+    commentsToLikes: 0.028172
     id: ckac5zqojdpma0i782l1mwfoc
     verified: false
-    hashtags: "#aerialist, #fyp, #dc, #aerialhoop"
+    hashtags: "#aerialhoop, #aerialist, #trainer, #fyp"
+  - username: "agastefanowicz"
+    fullname: >-
+      Aga Stefanowicz
+    bio: >-
+      Zostań na dłużej! 🎉 Ig📷: agastefanowicz 📩agastefanowiczinfo@gmail.com
+    location: "Poland"
+    followers: 81800
+    engagement: 1170
+    commentsToLikes: 0.023074
+    id: cka0uc569tqjn0i78njec71dm
+    verified: false
+    hashtags: "#foryou, #poland, #funny, #witamy2021"
 ---

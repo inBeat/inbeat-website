@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In United Kingdom in 2023
+title: Top 10 Dog Owners Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top dog owners Instagram influencers in United Kingdom in 2023. Most popular hashtags: #dogsofinsta #stayhome #dogstagram.
+  Find top dog owners Instagram influencers in United Kingdom in 2023. Most popular hashtags: #dogsofinstagram #dogsofinsta #puppylove #dogphotography.
 platform: Instagram
-hits: 18
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 18 Instagram influencers like this in United Kingdom for you to contact.
+hits: 11
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "georgina_patient"
-    fullname: >-
-      GEORGINA PATIENT
-    bio: >-
-      ✨Fashion | Lifestyle | Beauty 📍Essex/London based 🕊Mother of two boys 🤍Wife 🌭Sausage dog owner For collabs email 💌stylemotherbeat@gmail.com
-    location: "United Kingdom"
-    followers: 45319
-    engagement: 272
-    commentsToLikes: 0.292955
-    id: ckaoswedotbm30i78pw1ay5lh
-    verified: false
-    hashtags: "#whatmamaworemonday, #lilycharmed, #letterboxgift, #sustainablestyle"
   - username: "nickyshomeedit"
     fullname: >-
       Nicky X
     bio: >-
-      🏡Selling our newbuild and embarking on a renovation project 🐶Mad dog owner ☕️Coffee lover 💖Homewares addict 🇬🇧STH MANCHESTER
+      🏡Just sold our newbuild and embarking on a renovation project, come stay the journey 🐶Mad dog owner ☕️Coffee lover 💖Homewares addict 🇬🇧CHESHIRE
     location: "United Kingdom"
-    followers: 19092
-    engagement: 177
-    commentsToLikes: 0.183700
+    followers: 18724
+    engagement: 141
+    commentsToLikes: 0.117722
     id: ckaoyo096ib860i7881bz2nt8
     verified: false
-    hashtags: "#dogsinmyhouseandhome, #bedroomsofinstagram, #bohodecor, #bedroomgoals"
-  - username: "carminedisibio"
-    fullname: >-
-      Carmine Di Sibio
-    bio: >-
-      Dad, dog owner, @nygiants fan and @EY_Global Chairman and CEO
-    location: "United Kingdom"
-    followers: 9405
-    engagement: 762
-    commentsToLikes: 0.009099
-    id: ck137e5bdb37m0i19z5ci9vln
-    verified: true
-    hashtags: "#bettertogether, #covid19, #betterworkingworld, #happyeaster"
-  - username: "spaniellife"
-    fullname: >-
-      Steph, Sev & Lily
-    bio: >-
-      🏔 Dog Friendly Travel & Adventure 🐾 Hound & Human Styling 📷 Photography for Dog Brands 🍽 @butternutbox ↡ Dog-Lifestyle Blog
-    location: "United Kingdom"
-    followers: 29699
-    engagement: 345
-    commentsToLikes: 0.083657
-    id: ck14kdogep0j30i19vm6uxge8
-    verified: false
-    hashtags: "#dogmum, #dogfriendlycornwall, #covid19, #adventuredog"
+    hashtags: "#myhome2inspire, #pocketofmyhome, #showusyournewbuild, #newhome"
   - username: "allaboutlloyd_"
     fullname: >-
       Lloyd + Paz | Dog Lifestyle
     bio: >-
-      I’m a hound full of personality & style, living my dream life with my human & partner in crime, Paz I speak Spanglish 📍London 📩 allaboutlloyd@MAIL.com
+      The adventures of a dog and a human who love food, style, travel & the simple pleasures of everyday living. 📍London 📩 allaboutlloyd@MAIL.com
     location: "United Kingdom"
-    followers: 19853
-    engagement: 641
-    commentsToLikes: 0.040613
+    followers: 24614
+    engagement: 521
+    commentsToLikes: 0.040144
     id: ck0tsqodz0bbu0i19e223t5fv
     verified: false
-    hashtags: "#levriero, #dognapping, #whippet, #itsadogslife"
-  - username: "atlas_thepyr"
+    hashtags: "#galgo, #levrier, #sighthound, #ilovemydog"
+  - username: "spaniellife"
     fullname: >-
-      Atlas
+      Inactive ⚡️DON’T FOLLOW
     bio: >-
-      pyrenean mountain dog 🐶 goodboy since 01.01.16 🍼 brother + sister, enzo and aria 🐱🐱 atlasthepyr@gmail.com 💌 london 🇬🇧🐾
+      New Account Name: @stephandthespaniels
     location: "United Kingdom"
-    followers: 8462
-    engagement: 494
-    commentsToLikes: 0.033947
-    id: ckaoqugeykgdk0i78994t8ht3
+    followers: 2
+    engagement: 5080000
+    commentsToLikes: 0.080457
+    id: ck14kdogep0j30i19vm6uxge8
     verified: false
-    hashtags: "#bestdogever, #weekend, #tot, #greatpyrenees"
-  - username: "cotswold_cottage"
-    fullname: >-
-      Hannah | Cotswold Cottage
-    bio: >-
-      A 200 year old Georgian cottage in the Cotswolds Our family home 🔨Current project- the laundry room 📧Cotswold.cottage@outlook.com
-    location: "United Kingdom"
-    followers: 80487
-    engagement: 372
-    commentsToLikes: 0.054987
-    id: ck134np21xazw0i19xyix43yc
-    verified: false
-    hashtags: "#countrykitchen, #traditionalhome, #bedroomdecor, #kitchendesign"
-  - username: "lexi_the_choc_lab"
-    fullname: >-
-      Lexi Loo
-    bio: >-
-      🐾 fun, lovin, grey bearded choc lab!💋 🐾 9 y/o 🎈 🐾 Yorkshire📍🇬🇧 🐾 hip dysplasia diagnosis but still loving life💓 🐾 all brand rep codes in highlights👇🏼
-    location: "United Kingdom"
-    followers: 5488
-    engagement: 731
-    commentsToLikes: 0.214020
-    id: ckf5tsq7sink80j23s3avau8r
-    verified: false
-    hashtags: "#halloweendog, #labradorofficial, #chocolatelabsquad, #labs"
+    hashtags: "#dogsincornwall, #stayhome, #bestwoof, #dogsonadventures"
   - username: "prowlwithpoppy"
     fullname: >-
       Poppy
     bio: >-
-      ↟ || Owner Trained Guide Dog / Autism Assistance Dog ↟ || Assistance dog advocate ↟ || 20+ tasks ↟ || Trick dog ▵ || Essex UK
+      ↟ || Independently Owner Trained Guide Dog / Autism Assistance Dog ↟ || Assistance dog advocate ↟ || Trick dog ▵ || Essex, UK
     location: "United Kingdom"
-    followers: 7409
-    engagement: 468
-    commentsToLikes: 0.194376
+    followers: 7572
+    engagement: 354
+    commentsToLikes: 0.112695
     id: ckaoy2laifsmt0i78m1r4du4h
     verified: false
-    hashtags: "#rawdogfood, #inspiredbynalamodelsearch, #ownertrainedassistancedog"
-  - username: "jordileigh_x"
+    hashtags: "#assistancedogintraining, #ownertrainedassistancedog, #assistancedogsuk, #dogsofinstagram"
+  - username: "thewakefieldwhitehouse"
     fullname: >-
-      JORDI LEIGH
+      The Wakefield whitehouse
     bio: >-
-      I like fashion, people and dogs 👗👩🏼‍⚕️🐶 Owner of @fiji_apparel 🌸
+      30 something acting 18 Swears a lot Business owner @ashleighsocial @ashleighbranding Interior obsessed 🤩 Dog mum to a good dog and a bad dog 🐶
     location: "United Kingdom"
-    followers: 40459
-    engagement: 232
-    commentsToLikes: 0.107810
-    id: ck5zpznuetnkl0i14wnj0ph8h
+    followers: 13908
+    engagement: 231
+    commentsToLikes: 0.064643
+    id: ck14hoghpbbud0i19ndwc8k5p
     verified: false
-    hashtags: "#instadaily, #ad, #picoftheday, #pltstyle"
+    hashtags: "#frenchcountrystyle, #ikeauk, #sofastyling, #bedroomideas"
+  - username: "edenharvzofficial"
+    fullname: >-
+      𝐸𝒹𝑒𝓃 𝐻𝒶𝓇𝓋𝓏 | 24 🖤🤍
+    bio: >-
+      Lloyd. 💍 OWNER OF @edenharvzcosmetics ☁️ PR/ENQUIRIES : hello@edenharvey.com (temporary)
+    location: "United Kingdom"
+    followers: 287405
+    engagement: 280
+    commentsToLikes: 0.002386
+    id: cl56a8v0p1ybi0i23uv1ew774
+    verified: false
+    hashtags: "#itvx, #ad, #tellmeeverything, #happy"
+  - username: "fromfieldtohouse"
+    fullname: >-
+      Fromfieldtohouse
+    bio: >-
+      Dawn lambe Self build • interiors Fetured @selfbuildireland Mammy and wifey Coffee shop owner ☕️ @thelilyrosebuncrana
+    location: "United Kingdom"
+    followers: 19096
+    engagement: 261
+    commentsToLikes: 0.076170
+    id: ck0w1hwrljfl10i19p9loxm5q
+    verified: false
+    hashtags: "#kitcheninspo, #home, #livingroomideas, #greyandwhitehome"
+  - username: "leila_hackett"
+    fullname: >-
+      l e i l a
+    bio: >-
+      Owner👉🏻@cococuscino I waffle on about interiors, my brand, my dog, fitness, decent food & dresses Life’s what you make it. Be kind; give it your best🤩
+    location: "United Kingdom"
+    followers: 33438
+    engagement: 112
+    commentsToLikes: 0.131554
+    id: ckap0j0reqi9h0i78owf77216
+    verified: false
+    hashtags: "#showcockerspaniel, #neutraldecor, #puppiesofinstagram, #luxury"
+  - username: "twobergersinabun"
+    fullname: >-
+      Ivy & Otis 🐾🐾
+    bio: >-
+      2 Bergers 🍔🍔 - Ivy (12/07/15) & Otis (01/04/18) KC names: Jomiriclus Heart of Mine & Dock of the Bay. Owner/photographer/bun 📸:@themoonismaple
+    location: "United Kingdom"
+    followers: 6568
+    engagement: 396
+    commentsToLikes: 0.024327
+    id: ck0tx2vtnhohw0i19mc2eit9b
+    verified: false
+    hashtags: "#happydogface, #christmasdog, #happydogs, #tinsel"
+  - username: "buddy_the_lab_19"
+    fullname: >-
+      𝙱𝚄𝙳𝙳𝚈 ⋆ 𝟶𝟾.𝟶𝟼.𝟷𝟿
+    bio: >-
+      ⊱ 𝙇𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚, 𝘼𝙙𝙫𝙚𝙣𝙩𝙪𝙧𝙚𝙨 & 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙮 🌱 ⊱ 🇬🇧 Yorkshire ⊱ Raw fed by @paleoridge ⊱ DM to collaborate ⇽
+    location: "United Kingdom"
+    followers: 13672
+    engagement: 528
+    commentsToLikes: 0.117278
+    id: ckap4dxri6xfe0i78ru5jr1jh
+    verified: false
+    hashtags: "#woof, #labradoroftheday, #retrieversofinstagram, #labradors"
 ---

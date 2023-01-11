@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Spain in 2023
+title: Top 10 Wellness Instagram Influencers In Spain In 2023
 description: >-
-  Find top wellness Instagram influencers in Spain in 2023. Most popular hashtags: #workout #barcelona #fitness.
+  Find top wellness Instagram influencers in Spain in 2023. Most popular hashtags: #wellness #healthylifestyle #fitness.
 platform: Instagram
-hits: 72
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 72 Instagram influencers like this in Spain for you to pitch.
+hits: 56
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 56 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "karletyoga"
+  - username: "jezzifr"
     fullname: >-
-      Génesis Karlet - yoga coach
+      JEZZI
     bio: >-
-      If I were a writer I’d have a better Instagram bio quote ヅ Check out the link below 👇 #Yoga | #Wellness | #Lifestyle 📍Spain
+      Mamá🤱🏻•BOSS GIRL• Diosa de las diosas "El mundo te mira como tú te miras" | Entrenadora personal 🏋🏻‍♀️ | Atleta campeona | wellness fitness FDF-IFBB
     location: "Spain"
-    followers: 57548
-    engagement: 364
-    commentsToLikes: 0.120616
-    id: ck5hls975kri80i11ej5shih4
+    followers: 592428
+    engagement: 549
+    commentsToLikes: 0.006288
+    id: ck5hd2c2yl5400i113j4g4dda
     verified: false
-    hashtags: "#beachbumlife, #heartopener, #loveistheway, #beachwalks"
-  - username: "xguiri1"
-    fullname: >-
-      Xavi Guirao
-    bio: >-
-      📍Barcelona 🏀ESP 3x3 🇪🇸 @fiba3x3 📸 @lovebalistarz @bertamodels 🌍🎬 🏋🏻‍♂️Personal trainer & wellness online 🎓 Sport Management📈 & INEFC
-    location: "Spain"
-    followers: 26002
-    engagement: 559
-    commentsToLikes: 0.061984
-    id: ck8svvc9sctxp0j78v3xdtcc9
-    verified: false
-    hashtags: "#barcelona, #risas, #valencia, #hotelmedium"
+    hashtags: "#healthylifestyle, #fitnessmotivation, #fitgirls, #fitnesslifestyle"
   - username: "lapaulettefitness"
     fullname: >-
       Maria Paulette IFBB PRO® 🇪🇸
     bio: >-
-      🌐IFBB WELLNESS PRO® 📧COACHING ONLINE 🧙🏻TEAM @ricardopannain ◾️@prozis / @ubonlinestore / @irondolls_bikinis MY LINKS ⤵️
+      🌐ATHLETE WELLNESS @ifbb_pro_league 📧COACHING ONLINE 🧙🏻TEAM @ricardopannain ◾️@prozis / @ubonlinestore / @irondolls_bikinis MY LINKS ⤵️
     location: "Spain"
-    followers: 287156
-    engagement: 288
-    commentsToLikes: 0.029654
+    followers: 329557
+    engagement: 275
+    commentsToLikes: 0.028502
     id: ck5zm3sodluej0i143g7waslm
     verified: false
-    hashtags: "#mujerguerrera, #fitnessmotivation, #fitnessgirl, #girlpower"
-  - username: "debbysoemadijo"
+    hashtags: "#recup, #giannikavanagh, #quierete, #perfectlove"
+  - username: "kashwhiteley"
     fullname: >-
-      Content Creator - Bali BCN
+      Kashira
     bio: >-
-      Debby Soemadijo ❦ Creative Director ❦ Content Creator for Health, Wellness & Ethical Brands 📍Bali/Barcelona available worldwide @forartsakestudio_
+      Coach | Speaker | Educator in Personal development | Spirituality | Wellness Doing Life consciously in 📍🇪🇸
     location: "Spain"
-    followers: 6834
-    engagement: 366
-    commentsToLikes: 0.025933
-    id: ck5hmf3j3lu3g0i111f2x07r1
+    followers: 280878
+    engagement: 53
+    commentsToLikes: 0.020493
+    id: ck5zup4mw2s8d0i14q11278yh
     verified: false
-    hashtags: ""
-  - username: "marta.mcfly"
+    hashtags: "#abundance, #spirituality, #healing, #loveyourplanet"
+  - username: "pattylopezdelac"
     fullname: >-
-      Marta Djordjevic
+      pattylopezdelac
     bio: >-
-      a diary of my nomadic wandering 🌞🌊 pop culture, beauty & wellness editor film & travel writer ✨slow living 📍barcelona @Localeur advisory board
+      TRAVEL || WELLNESS Business: Info@patitofit.com 💌 TIPS @patitofit 🍏 SHOP @amatlan_joyeria @amatlan__men @kali__swim 🌈 PODCAST @telopasoalcosto 🎙
     location: "Spain"
-    followers: 6628
-    engagement: 484
-    commentsToLikes: 0.116728
-    id: ck5bty7q3gtia0i11w6x8wjnx
-    verified: false
-    hashtags: ""
-  - username: "rube_13"
+    followers: 1989366
+    engagement: 67
+    commentsToLikes: 0.011996
+    id: ck6tuq1k9hqyl0j71kpvxjrjy
+    verified: true
+    hashtags: "#happypatito, #stillstanding, #notetoself, #nofilter"
+  - username: "gabygalvanb"
     fullname: >-
-      Rubén García
+      Gaby Galván Nutrición 🧿
     bio: >-
-      Get Fit Functional Training GYM LV 1 Crossfit trainer Talleres Hábitos Saludables Wellness coaching empresarial Getfitgympa@gmail.com
+      Mty, México 📍 👱🏻‍♀️Lic.Nutrición y Salud⠀ 🥝Wellness.Real food ⠀ 🚴‍♀️ Instructor @siclo 💌Collabs ⚡️Consulta online & Presencial
     location: "Spain"
-    followers: 30373
-    engagement: 152
-    commentsToLikes: 0.029742
-    id: ck6ucdngsezmj0j71ev8ucu2j
+    followers: 42236
+    engagement: 159
+    commentsToLikes: 0.030485
+    id: ckaor9safmbze0i7836s0g9nc
     verified: false
-    hashtags: "#tbt, #repost, #getfit, #trainingday"
-  - username: "marcefitness"
+    hashtags: "#ejercicio, #quarantine, #saludable, #alimentacionsaludable"
+  - username: "cami_wellness"
     fullname: >-
-      NUTRICION & FITNESS
+      Camila Gonzalez Muñoz
     bio: >-
-      ✏️ Nutritionist/fitness -wellness coach GUA🇬🇹/ MIA🇺🇸 No perdemos libras, ganamos salud 📚Colegiado activo 3662 🙌🏻 Mind&body 🍏 @marcefitnessfood
+      Miss beautiful internacional 🇨🇴 @megateamcol Manager: @kitosunshine @megateamlatino
     location: "Spain"
-    followers: 746171
-    engagement: 150
-    commentsToLikes: 0.597114
-    id: ck5cj8v8fu88w0i11sa24v86p
+    followers: 74652
+    engagement: 124
+    commentsToLikes: 0.032660
+    id: ck5pw1spmkoth0i110so41477
     verified: false
-    hashtags: "#rutinaencasa, #marcefitness, #fitness, #quedateencasa"
-  - username: "paulasblue"
+    hashtags: "#fotografia, #sexy, #medellin, #camiwellness"
+  - username: "medinamaste"
     fullname: >-
-      P a u l a ☽  Holistic Health
+      Sarah Medina | Yoga Teacher
     bio: >-
-      💠 Life’s a beach. Enjoy the waves 💦🌙 ૐ ✏️ Designer + Illustrator + Photographer✨ 🌀 Health and Wellness Coach 💛😊 🥑 Vegan ·Yogi · Ocean Lover 🐬🌊📍TFE
+      🧘🏼‍♀️ YOGA Teacher 🤸🏽‍♀️ ✨ ThetaHealing 🐛🦋 📚 SPANISH Teacher 👩‍🏫 KS2•GCSE•IB•DELE Private • Events | Adults • Kids 🇪🇸/🇧🇪 in Dubai
     location: "Spain"
-    followers: 2550
-    engagement: 1071
-    commentsToLikes: 0.076800
-    id: ck55q0a72bsk30i11ezw85qgh
+    followers: 45840
+    engagement: 244
+    commentsToLikes: 0.088119
+    id: ck0u9m4w2a2nt0i19h677hjcr
     verified: false
-    hashtags: "#paulasblue, #bluevibes, #blueocean, #fuerteventura"
-  - username: "lissettemarion_nutrition"
+    hashtags: "#wellbeing, #selflove, #mindbodysoul, #yogalife"
+  - username: "mistercalisthenics"
     fullname: >-
-      Holistic Nutritionist
+      🌍ᎷᎥᏕᏖᏋᏒ🖤
     bio: >-
-      -Health Blogger, Wellness coach✨ -Sustainable and Balanced life Advocate🌱 Founder @yourbeauty_co🤍@letsnetworkgeneva 📩 Info@lissettemarion.com
+      🔥 𝐅𝐮𝐧𝐝𝐚𝐝𝐨𝐫 𝐝𝐞 @barbrothersvlc 💉 𝐓𝐚𝐭𝐮𝐚𝐝𝐨𝐫 @mistertattooskull 💪🏽 𝐏𝐨𝐧𝐭𝐞 𝐞𝐧 𝐟𝐨𝐫𝐦𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨! 𝐏𝐚𝐫𝐚 𝐫𝐮𝐭𝐢𝐧𝐚𝐬 𝐲 𝐜𝐥𝐚𝐬𝐞𝐬 𝐨𝐧-𝐥𝐢𝐧𝐞, 𝐞𝐬𝐜𝐫í𝐛𝐞𝐦𝐞! 📍 𝐕𝐚𝐥𝐞𝐧𝐜𝐢𝐚.
     location: "Spain"
-    followers: 12048
-    engagement: 560
-    commentsToLikes: 0.111725
-    id: ck13ax12csle30i19wja5px4s
+    followers: 16554
+    engagement: 374
+    commentsToLikes: 0.080335
+    id: ck135fir915vb0i19e5e9pjg0
     verified: false
-    hashtags: "#love, #chef, #natural, #food"
-  - username: "alicia.landivar"
+    hashtags: "#weightloss, #gym, #strong, #lifestyle"
+  - username: "carlasanchez.well"
     fullname: >-
-      Alicia M. Landivar
+      Carla Sánchez
     bio: >-
-      Ed.D.NSC🍃EMDR Therapist☀️Author☀️ Mind, Brain & Education 🌿Parenting Resources 🕊 Teens Montessori Erdkinder🌸 Wellness 👣 #educarnosestransformarnos 🧡
+      @theholisticconcept & @secretyogaclub.es co-Founder Directos diarios💻 Plataforma #TheHolistic @yoga_en_gaia Ambassador @instylespain Blogger
     location: "Spain"
-    followers: 42930
-    engagement: 183
-    commentsToLikes: 0.026838
-    id: ck13d15ox353b0i19xhx3ve1t
+    followers: 19138
+    engagement: 272
+    commentsToLikes: 0.057003
+    id: ck5qegbpa0ckr0i11oqp6dldh
     verified: false
-    hashtags: "#maracaibo, #vidauna, #juntospodemos, #amar"
+    hashtags: "#lifestyle, #pic, #saludable, #instagood"
+  - username: "adynavarro.g"
+    fullname: >-
+      Adriana💕Fitness y motivación
+    bio: >-
+      🔅Mi sonrisa es mi mejor arma🔅 ❤️Self love is the key 📍Mich. Mex🇲🇽 Colaboraciones: ✉️ adriana.ng0111@gmail.com
+    location: "Spain"
+    followers: 61017
+    engagement: 233
+    commentsToLikes: 0.022070
+    id: ck8t5dynh9tag0j785rz45twh
+    verified: false
+    hashtags: "#ootd, #sunset, #model, #gym"
 ---

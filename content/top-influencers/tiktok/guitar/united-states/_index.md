@@ -1,72 +1,84 @@
 ---
-title: Top 10 Guitar TikTok Influencers In United States in 2023
+title: Top 10 Guitar TikTok Influencers In United States In 2023
 description: >-
-  Find top guitar TikTok influencers in United States in 2023. Most popular hashtags: #guitar #fyp #duet #guitarist.
+  Find top guitar TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #guitar #tiktok.
 platform: TikTok
-hits: 864
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 864 TikTok influencers like this in United States for you to pitch.
+hits: 886
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 886 TikTok influencers like this in United States for you to collaborate.
 profiles:
-  - username: "kyrart18"
-    fullname: >-
-      kyra
-    bio: >-
-      19 y/o art student/guitarist ig: kyrart18
-    location: "United States"
-    followers: 79500
-    engagement: 2357
-    commentsToLikes: 0.044496
-    id: ck8qi59d97tb40j78zq8plqkq
-    verified: false
-    hashtags: "#forwhomthebelltolls, #art, #draw, #pop"
   - username: "sharpie.exe"
     fullname: >-
       Sharpie
     bio: >-
       Professional Sharpie Sniffer™️ Guitar boi 🎸🤙🏻 Vibin’ to straight blanchin’ 😎
     location: "United States"
-    followers: 3269
-    engagement: 2132
-    commentsToLikes: 0.109141
+    followers: 3252
+    engagement: 2025
+    commentsToLikes: 0.106265
     id: ck9kcutsvr5tn0j784bpk9kh7
     verified: false
-    hashtags: "#duet, #rock, #supermariogalaxy, #greenscreen"
-  - username: "codeyred"
+    hashtags: "#duet, #guitar, #fyp, #pup"
+  - username: "maddie_406"
     fullname: >-
-      Codey Red
+      Maddie
     bio: >-
-      Indigenous Musician/Guitarist Music,Philosophy,ADHD,Nerd Stuff And More! BLM!!
+      Level 25/Mt 👻guitarburst4396 🖤🔒⬇️
     location: "United States"
-    followers: 17500
-    engagement: 2008
-    commentsToLikes: 0.053385
-    id: ckck5eetiqadx0j23jaypmrej
+    followers: 6606
+    engagement: 1668
+    commentsToLikes: 0.047987
+    id: ckbvy934uv39d0j230zekc2mc
     verified: false
-    hashtags: "#native, #musician, #adhd, #guitar"
+    hashtags: "#montana, #sayquaynotkway, #beardedoutlawz, #juntosimparables"
+  - username: "haleyccox"
+    fullname: >-
+      Haley 
+    bio: >-
+      18 // nj🇺🇸 I like guitars and classic rock ————————- Proverbs 14:23
+    location: "United States"
+    followers: 6743
+    engagement: 1615
+    commentsToLikes: 0.117497
+    id: ck9r43es3t8o50j78zaw6y0ai
+    verified: false
+    hashtags: "#musician, #jimmypage, #guitarist, #70smusic"
+  - username: "wrightfix"
+    fullname: >-
+      Josh Wright
+    bio: >-
+      I play guitar and sing. Living in tension between faith and skepticism.
+    location: "United States"
+    followers: 42600
+    engagement: 1639
+    commentsToLikes: 0.092830
+    id: ck9fi4f64923f0j78knzuxtwu
+    verified: false
+    hashtags: "#question, #twistedtea, #greenscreen, #joblife"
+  - username: "lionsdenmusic_"
+    fullname: >-
+      Hector Deleon
+    bio: >-
+      Another Jazz Guitar player 21•he/him•Tx $Lambdalambda
+    location: "United States"
+    followers: 3377
+    engagement: 1542
+    commentsToLikes: 0.180502
+    id: ckdi8g8staxa50j23g1xorhdp
+    verified: false
+    hashtags: "#jazzguitar, #jazzguitarist, #xyzbca, #fyp"
   - username: "_donniematt"
     fullname: >-
       Donnie Matt Renegar
     bio: >-
       Creator of positive vibes Sometimes I try to be funny I play the guitar terribly
     location: "United States"
-    followers: 2641
-    engagement: 1579
-    commentsToLikes: 0.409222
+    followers: 2610
+    engagement: 1510
+    commentsToLikes: 0.409885
     id: ckavqhcbg22an0j23494k81m7
     verified: false
-    hashtags: "#funny, #spaceforcewalk, #fyp, #mood"
-  - username: "lionsdenmusic_"
-    fullname: >-
-      Hector Deleon
-    bio: >-
-      21 | he/him Jazz Guitarist
-    location: "United States"
-    followers: 3305
-    engagement: 1459
-    commentsToLikes: 0.237760
-    id: ckdi8g8staxa50j23g1xorhdp
-    verified: false
-    hashtags: "#jazzguitar, #gibson, #guitar, #xyzbca"
+    hashtags: "#mood, #lifeathome, #singer, #cover"
   - username: "_guitar_premi_"
     fullname: >-
       ❤️aMMuKuTTy😉
@@ -74,57 +86,45 @@ profiles:
       💃Wish Me On Dec13🤗🎂 🎸GuiTaR IsTaM😚#nellikka #beez❣️Tatoo Lvr❤️ Suriya Uyir♥
     location: "United States"
     followers: 2724
-    engagement: 3244
-    commentsToLikes: 0.138538
+    engagement: 3235
+    commentsToLikes: 0.138482
     id: ckblnrh9jfot40j238u03q4gl
     verified: false
-    hashtags: "#foryou, #beez, #nellikka, #duet"
-  - username: "gary.r"
+    hashtags: "#foryou, #duet, #beez, #nellikka"
+  - username: "chrisjb_"
     fullname: >-
-      Gary
+      christian
     bio: >-
-      👻 garyrodriguez I like rock , anime , and guitar ☠︎︎☻︎
+      🇵🇭 bay area, ca guitar/vocals
     location: "United States"
-    followers: 52100
-    engagement: 2838
-    commentsToLikes: 0.047828
-    id: ck90xz99g8o8c0j78qh0uz58m
+    followers: 5739
+    engagement: 2216
+    commentsToLikes: 0.083691
+    id: ckcv952tbqpav0j239u61kn43
     verified: false
-    hashtags: "#rock, #colorcustomizer, #anime, #selflove"
-  - username: "tonymemmel"
+    hashtags: "#geicolipsync, #singing, #tiktok, #sing"
+  - username: "jeffnelsonmusic"
     fullname: >-
-      Tony Memmel
+      Jeff Nelson
     bio: >-
-      Singer 🎤Guitarist 🎸Teacher 👨‍🏫 BOOKING@TONYMEMMEL.COM ⬇️ Spotify ⬇️
+      20 Singer/Songwriter I play guitar and piano Snap: jtn2100 Insta:jeffnelsonmusic
     location: "United States"
-    followers: 100500
-    engagement: 1329
-    commentsToLikes: 0.051050
-    id: ck8vus0tijtoe0j7826i1wupk
+    followers: 645600
+    engagement: 1995
+    commentsToLikes: 0.134749
+    id: ck9gu4a4spjab0j78yrrn8qvb
     verified: false
-    hashtags: "#musicmatters, #classicrock, #luckyfin, #christian"
-  - username: "_theodore"
+    hashtags: "#itwasntme, #viral, #tiktok, #music"
+  - username: "mrs_murdock"
     fullname: >-
-      Theo 
+      Sarah Murdock
     bio: >-
-      I play guitar and sometimes do funny stuff 18
+      GryffinPuff I teach MS Band/Music/Guitar You should go practice!
     location: "United States"
-    followers: 13800
-    engagement: 1725
-    commentsToLikes: 0.058611
-    id: ckavr2gbz2uyr0j23nu6o2ulb
+    followers: 24000
+    engagement: 1611
+    commentsToLikes: 0.053264
+    id: ck8hqpzo956v60j78w2ybg9gl
     verified: false
-    hashtags: "#foryoupage, #fyp, #foryou, #singing"
-  - username: "mr___seven___"
-    fullname: >-
-      ⚙️ 𝕵𝖔⚙️
-    bio: >-
-      Bootleg slash//16//Joey//GFYS🖕//Guitarist//🖤//Lehigh, FL//
-    location: "United States"
-    followers: 33900
-    engagement: 1837
-    commentsToLikes: 0.040792
-    id: ckcjh3704bz4l0j234ivlqwqd
-    verified: false
-    hashtags: "#guitar, #shitpost, #metalfyp, #metalmemes"
+    hashtags: "#middleschoolband, #banddirector, #band, #middleschoolteacher"
 ---

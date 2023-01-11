@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Norway in 2023
+title: Top 10 Skincare Instagram Influencers In Norway In 2023
 description: >-
-  Find top skincare Instagram influencers in Norway in 2023. Most popular hashtags: #skincare #norway #makeup #lifestyle.
+  Find top skincare Instagram influencers in Norway in 2023. Most popular hashtags: #fashion #beauty #makeup #fashionstyle.
 platform: Instagram
-hits: 21
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Norway for you to work with.
+hits: 10
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Norway for you to contact.
 profiles:
   - username: "skincarenoob"
     fullname: >-
       Jonna
     bio: >-
-      ✨ 🇸🇪🇳🇴 ✨ Honest beauty reviews, makeup looks & skincare routines ✨ Collabs/PR 💌 or DM
+      📍Stockholm, Sweden 🇸🇪 ✨ Honest beauty reviews, makeup looks & skincare routines ✨ Collabs/PR 💌 or DM
     location: "Norway"
-    followers: 10919
-    engagement: 432
-    commentsToLikes: 0.595842
+    followers: 20522
+    engagement: 100
+    commentsToLikes: 0.531962
     id: ck9we6j1piu2x0j78iokc2gj4
     verified: false
-    hashtags: "#freemakeup, #contestgiveaway, #friyayfaves, #makeup"
-  - username: "lenestenvik"
-    fullname: >-
-      LENE A. STENVIK
-    bio: >-
-      🤎 21 år 📍 Oppdal/Meldal 🏋🏽‍♀️ Treningsglede
-    location: "Norway"
-    followers: 5290
-    engagement: 1394
-    commentsToLikes: 0.130069
-    id: ckap0y773sbkg0i78us5q88p3
-    verified: false
-    hashtags: "#oppdalsa, #icaniwill, #summer, #picoftheday"
-  - username: "teodorasandorofficial"
-    fullname: >-
-      FASHION | BEAUTY | LIFESTYLE
-    bio: >-
-      📍 AUSTRIAN | ROMANIAN from the 90's 📩 Open for Collaborations
-    location: "Norway"
-    followers: 28171
-    engagement: 361
-    commentsToLikes: 0.212974
-    id: ck5hg9smj1o4r0i118imnp8m8
-    verified: false
-    hashtags: "#instagood, #hudabeauty, #blogger, #lifestyle"
-  - username: "skavangergaard"
-    fullname: >-
-      Interiør • Styling • Bolig
-    bio: >-
-      • Anne Bergem Ruud 👩🏼‍⚕️ • Småbruk i Kongsberg 🌾 • Interiørfrelst 🍂 • Boligdrøm oktober 2019 🤎
-    location: "Norway"
-    followers: 4390
-    engagement: 1100
-    commentsToLikes: 0.238138
-    id: ck14ib4ufej980i19ze4uvajm
-    verified: false
-    hashtags: "#maisoninteri, #carisma, #ninacindydeler, #whiteinterioryes"
-  - username: "makeupaoa"
-    fullname: >-
-      Daily Makeup Tutorials ❤️
-    bio: >-
-      📍🇳🇴 Profile picture is @klaudia.owczarek 📧 Dm for credit/removal
-    location: "Norway"
-    followers: 560482
-    engagement: 128
-    commentsToLikes: 0.007205
-    id: ck15tffy3htlb0i191515nnhq
-    verified: false
-    hashtags: "#makeuplook, #glam, #browshaping, #dramaticmakeup"
-  - username: "austulyys"
-    fullname: >-
-      A U S T Ė J A ✨
-    bio: >-
-      〰 F a s h i o n | B e a u t y 〰 ▪️Brain tumor survivor with facial paralysis 🕊 📍 Oslo, Norway 📩 austyys@gmail.com ⚡️
-    location: "Norway"
-    followers: 11924
-    engagement: 1174
-    commentsToLikes: 0.164776
-    id: ck6uayss96h9x0j71h4ypuhoy
-    verified: false
-    hashtags: "#modeaparis, #ginatricot, #90sbaby, #theparisguru"
-  - username: "adelheidstokka"
-    fullname: >-
-      Adelheid
-    bio: >-
-      Fillip and Albert 👦🏼👦🏼 Sharing our everyday moments🌼 Norwegian mama 🌻 Collab➖ isdal.stokka.marketing@gmail.com
-    location: "Norway"
-    followers: 16342
-    engagement: 378
-    commentsToLikes: 0.212649
-    id: ck0u60z060mhj0i1946ykwz4n
-    verified: false
-    hashtags: "#family, #visitnorway, #motherhood, #ullergull"
-  - username: "edituotoja"
-    fullname: >-
-      Edith G | Creative photo ideas
-    bio: >-
-      Mom📸Photographer @two_shoots_photography 💡Supporting small bussines 🛍Mini&mom style 🧶Crochet lover 🇳🇴Creating life in Norway
-    location: "Norway"
-    followers: 16886
-    engagement: 299
-    commentsToLikes: 0.119210
-    id: ck8sy5imsjrxi0j78n799f3mo
-    verified: false
-    hashtags: "#barnerum, #nordicstyle, #cameramama, #sm"
+    hashtags: "#texturetuesday"
   - username: "damianpt.no"
     fullname: >-
       🇵🇱•Damian•🇳🇴
     bio: >-
-      | Personal Trainer | Photographer @damianphoto.no | | Brand Building Marketing | Traveler🌏 @kevkevoslo #Love @Piccojack
+      | Personal Trainer | Photographer @damianphoto.no | Traveler🌏 Founder of GET-UP @kevkevoslo #Love @Piccojack
     location: "Norway"
-    followers: 199179
-    engagement: 414
-    commentsToLikes: 0.015632
+    followers: 197186
+    engagement: 432
+    commentsToLikes: 0.016267
     id: ck5c3emjez64i0i11f7cce85o
     verified: false
-    hashtags: "#roadtrip, #beautiful, #motivation, #oslove"
-  - username: "mi12an"
+    hashtags: "#menstyle, #motivation, #oslo, #piccojack"
+  - username: "natalie_ortegaa"
     fullname: >-
-      Miguel Antonetti (1) Oslo 🇳🇴
+      Natalie ortega
     bio: >-
-      My other family account @migant68 Any other account apart from these two is fake.
+      ½ Spanish ½ Norwegian Villafranca del Bierzo/ Spain📍 🇳🇴@heartbreakmanagement MA 🇬🇷 @fashioncult_models 🇪🇸@francinamodels
     location: "Norway"
-    followers: 79165
-    engagement: 409
-    commentsToLikes: 0.022866
-    id: ck5c3emugz65z0i11tbpeujom
+    followers: 16065
+    engagement: 470
+    commentsToLikes: 0.046110
+    id: ck0w6w57majkf0i199mgoqs7f
     verified: false
-    hashtags: "#lifestyle, #bergen, #beard, #menstyle"
+    hashtags: "#vacation, #travel, #beauty, #makeup"
+  - username: "rabistyle_"
+    fullname: >-
+      𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄|𝐅𝐀𝐒𝐇𝐈𝐎𝐍|𝐁𝐄𝐀𝐔𝐓𝐘
+    bio: >-
+      • Rabi Fredriksen | 21 • Content Creator • Norwegian in Germany
+    location: "Norway"
+    followers: 27244
+    engagement: 481
+    commentsToLikes: 0.260115
+    id: ckap4mfej7x850i788tciwxpv
+    verified: false
+    hashtags: "#bloggers, #bloggerinde, #bloggerlifesyle, #hautecouture"
+  - username: "villaknutsen"
+    fullname: >-
+      Susanne
+    bio: >-
+      #villaknutsendeler Collab DM/MAIL @korsbakkenbad @tempurnorway @straikjokken @brows_and_beauty_krs
+    location: "Norway"
+    followers: 19830
+    engagement: 276
+    commentsToLikes: 0.295439
+    id: ck134wk8pyjfw0i190hbwly5x
+    verified: false
+    hashtags: "#inspiration, #vakrehjemoginteri, #finehjem, #gullfj"
+  - username: "food___passion"
+    fullname: >-
+      Jamilla🇲🇦🇳🇴
+    bio: >-
+      📷 Pictures of my food journey 📍 Based in Oslo, Norway Passion for food, coffee, flowers and music🌸
+    location: "Norway"
+    followers: 49569
+    engagement: 118
+    commentsToLikes: 0.236455
+    id: ck9hccd5fkqrt0j78e6yhqdlh
+    verified: false
+    hashtags: "#fashiondesigner, #fashionblogger, #dessertporn, #fashionshow"
+  - username: "sofiafij"
+    fullname: >-
+      SOFIA JOSEFINE
+    bio: >-
+      Hii there 🧸 norway, krsand ✉️ | sofiafij@hotmail.com
+    location: "Norway"
+    followers: 3964
+    engagement: 520
+    commentsToLikes: 0.226839
+    id: ckf5mpslzuxlr0j23ndlq6ep0
+    verified: false
+    hashtags: "#gymbag, #nighttimeroutine, #nightimeskincare, #skincareroutine"
+  - username: "cecilieharlem"
+    fullname: >-
+      CECILIE HARLEM
+    bio: >-
+      Norway / Halden📍 Lifestyle, beauty, interior ♒️
+    location: "Norway"
+    followers: 10804
+    engagement: 339
+    commentsToLikes: 0.221037
+    id: ck6u9crm6wsxq0j7117va13fb
+    verified: false
+    hashtags: "#homeadore, #glow, #roomdecor, #darkhomes"
+  - username: "tinastreningsblogg"
+    fullname: >-
+      Tinas Treningsblogg
+    bio: >-
+      ⭐️ Humor 😅 ⭐️ Stolt ambassadør for @boostbox.no @osloskinlab @avancia_skedsmokorset og @sentersko_no ⭐️ snap Tinatysse⭐️ http://osloskinlab.no
+    location: "Norway"
+    followers: 36211
+    engagement: 195
+    commentsToLikes: 0.058046
+    id: ck6tw1i7hpgwk0j715scadc03
+    verified: false
+    hashtags: "#inspiration, #treningsglede, #avanciaskedsmokorset, #spinning"
+  - username: "makeupaoa"
+    fullname: >-
+      Daily Makeup Tutorials ❤️
+    bio: >-
+      Profile picture is @klaudia.owczarek 📧 Dm for credit/removal
+    location: "Norway"
+    followers: 490171
+    engagement: 84
+    commentsToLikes: 0.010929
+    id: ck15tffy3htlb0i191515nnhq
+    verified: false
+    hashtags: "#nailsoftheday, #fashion, #beauty, #vacationvibes"
 ---

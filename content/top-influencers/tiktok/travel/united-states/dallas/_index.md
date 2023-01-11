@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Dallas in 2023
+title: Top 10 Travel TikTok Influencers In Dallas In 2023
 description: >-
-  Find top travel TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #texas #travel #dallas.
+  Find top travel TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #dallas #travel #foryou.
 platform: TikTok
-hits: 36
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 36 TikTok influencers like this in Dallas, United States for you to contact.
+hits: 40
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 40 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "amberleybradleyy"
-    fullname: >-
-      Amberley Bradley
-    bio: >-
-      Texas gal ☆ let’s be friends Insta: @amberleybradley
-    location: "United States"
-    followers: 274500
-    engagement: 2042
-    commentsToLikes: 0.021440
-    id: ck83zu6y833xu0j78tcehhm6f
-    verified: false
-    hashtags: "#dallastx, #dallas, #travel, #texas"
-  - username: "courtneyylaiine"
-    fullname: >-
-      courtney
-    bio: >-
-      Dallas, TX. Real Estate. Travel
-    location: "United States"
-    followers: 5812
-    engagement: 466
-    commentsToLikes: 0.018152
-    id: ck9r4pppvw3w40j78eaqb58ui
-    verified: false
-    hashtags: "#stayhome, #texas, #fyp, #foryou"
   - username: "laceyeloisa"
     fullname: >-
       Lacey Villasenor
     bio: >-
       〰️ dallas, tx + just having fun
     location: "United States"
-    followers: 18600
-    engagement: 859
-    commentsToLikes: 0.042392
+    followers: 18100
+    engagement: 835
+    commentsToLikes: 0.041613
     id: ckbf1kvbgnrrz0j238decjiu3
     verified: false
-    hashtags: "#dallas, #texas, #dallascheck, #traveltiktok"
-  - username: "helenaaa238"
+    hashtags: "#foodie, #texascheck, #texas, #dallas"
+  - username: "jwilhelm__"
     fullname: >-
-      helenaaa23
+      jacqueline 🦋
     bio: >-
-      24 - Dallas foodie
+      ☮️🌻🦋🌞📸⚡️💖 Stay Baddie
     location: "United States"
-    followers: 6357
-    engagement: 628
-    commentsToLikes: 0.049863
-    id: ckb9d6anj073s0j232ckoi2l6
+    followers: 12300
+    engagement: 975
+    commentsToLikes: 0.036423
+    id: ckbw4wzayxsv00j23s3pvp01g
     verified: false
-    hashtags: "#texascheck, #mckinneytx, #texanshelpingtexans, #dallas"
-  - username: "shans.tiktok"
+    hashtags: "#beer, #buschlight, #horse, #fyp"
+  - username: "jatsiveh"
     fullname: >-
-      Shan🌟
+      Jatsive
     bio: >-
-      posting the occasional hockey video
+      Living life at 35,000ft✈️✈️✈️ Views are my own not my employers
     location: "United States"
-    followers: 16600
-    engagement: 1523
-    commentsToLikes: 0.078559
-    id: ckd17s3t4p59p0j23g7fosn7b
+    followers: 110500
+    engagement: 1051
+    commentsToLikes: 0.016178
+    id: ckbqu63cheoje0j231lqlmjf6
     verified: false
-    hashtags: "#nhl, #duet, #columbus, #tblightning"
-  - username: "itisdanielaaa"
+    hashtags: "#foryou, #traveltiktok, #fy, #travel"
+  - username: "morgansargentt"
     fullname: >-
-      Itisdanielaaa
+      morgan
     bio: >-
-      Chicago 🦋 | MEXICAN 🇲🇽
+      sc morgansargenttt 12.2k besties😚
     location: "United States"
-    followers: 15200
-    engagement: 883
-    commentsToLikes: 0.000156
-    id: ckb8z5cfge96k0j23qvpd7xkp
+    followers: 12200
+    engagement: 946
+    commentsToLikes: 0.025963
+    id: ckb9cr02bzpwy0j23evlih9aq
     verified: false
-    hashtags: "#married, #fyp, #foryoupage, #army"
-  - username: "itsannitatoyou"
+    hashtags: "#fyp, #greenscreen, #interview, #4u"
+  - username: "littlemixico"
     fullname: >-
-      Anna
+      Dani Rios
     bio: >-
-      Spreading the smiles and laughs. Be you!
+      CDMX + Dallas My kinda boujee life IG @littlemixico Day In My Life Vlog👇🏼
     location: "United States"
-    followers: 25100
-    engagement: 1067
-    commentsToLikes: 0.224487
-    id: ck9si97pfxqtr0j78hyzr9gs6
+    followers: 174900
+    engagement: 850
+    commentsToLikes: 0.014491
+    id: ckav66pvjcvsu0j23vk6tjocs
     verified: false
-    hashtags: "#costume, #halloween2020, #holidaytiktok, #happyhalloween"
-  - username: "msnazzy"
+    hashtags: "#fyp, #beautyguru, #mexicana, #oaxaca"
+  - username: "alcocercarlos"
     fullname: >-
-      Maria Gregg
+      Cadillac Los
     bio: >-
-      DONATE FOR BILLBOARD
+      👻 Los_214 29 Dallas, Texas 🇨🇱 CDMX 🇲🇽 CashApp $1993fleetwood
     location: "United States"
-    followers: 9651
-    engagement: 880
-    commentsToLikes: 0.041207
-    id: ckaib6hmqf6a40i784tb1nm8y
+    followers: 14000
+    engagement: 1055
+    commentsToLikes: 0.036344
+    id: ckb9d66bw06lj0j237hezvlmy
     verified: false
-    hashtags: "#election, #trump2020, #democrat, #vote"
-  - username: "its_lil_lil"
+    hashtags: "#foryou, #guerrero, #mexicocheck, #foryoupage"
+  - username: "beardedwonder11"
     fullname: >-
-      Lilia Chairez Rios
+      Nathan Pesch
     bio: >-
-      Austin, TX ❤️Tequila & Travels❤️ "I drink to make other people more interesting”
+      SC: Pescho11 Tennessee living Somebody’s goodbye
     location: "United States"
-    followers: 110900
-    engagement: 748
-    commentsToLikes: 0.026982
-    id: ckculwzrhhf990j23cn07xxce
+    followers: 4341
+    engagement: 1265
+    commentsToLikes: 0.068718
+    id: ckb9awk33wjpe0j23a4tw70hx
     verified: false
-    hashtags: "#mexico, #bartender, #didyouknow, #fyp"
-  - username: "riverminded"
+    hashtags: "#buschlattelegend, #beards, #beardsoftiktok, #fyp"
+  - username: "tiffanymoonmd"
     fullname: >-
-      Riverminded
+      TiffanyMoonMD
     bio: >-
-      #TEAMTEXAS Educated Bearded Riverrat Biker who travels! TAKEN by @ashleyclick13
+      #RHOD Cast Member @bravotv//Mom👯‍♀️//Doctor👩🏻‍⚕️// Wife💍// Fashionista💃🏻
     location: "United States"
-    followers: 80600
-    engagement: 1457
-    commentsToLikes: 0.069525
-    id: cka0w1dny0xh60i78m72avtui
+    followers: 374200
+    engagement: 671
+    commentsToLikes: 0.029510
+    id: cka6386ci39qm0i78s0r3ph50
+    verified: true
+    hashtags: "#fyp, #momlife, #rhod, #crawfish"
+  - username: "courtneyylaiine"
+    fullname: >-
+      courtney
+    bio: >-
+      Florida Living | Insurance Broker
+    location: "United States"
+    followers: 5659
+    engagement: 491
+    commentsToLikes: 0.015448
+    id: ck9r4pppvw3w40j78eaqb58ui
     verified: false
-    hashtags: "#haha, #comedy, #2a, #funny"
+    hashtags: "#stayhome, #travel, #fyp, #quarantine"
+  - username: "amberleybradleyy"
+    fullname: >-
+      Amberley Bradley
+    bio: >-
+      Texas gal ☆ let’s be friends Insta: @amberleybradley
+    location: "United States"
+    followers: 267000
+    engagement: 1803
+    commentsToLikes: 0.023856
+    id: ck83zu6y833xu0j78tcehhm6f
+    verified: false
+    hashtags: "#dallastx, #stitch, #love, #teacher"
 ---

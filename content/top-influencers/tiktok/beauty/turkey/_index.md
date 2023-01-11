@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Turkey in 2023
+title: Top 10 Beauty TikTok Influencers In Turkey In 2023
 description: >-
   Find top beauty TikTok influencers in Turkey in 2023. Most popular hashtags: #beauty #tiktok #foryou #fyp.
 platform: TikTok
 hits: 25
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 25 TikTok influencers like this in Turkey for you to connect with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 25 TikTok influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "peachssee"
+  - username: "istanbulbeautycenter"
     fullname: >-
-      𝕡𝕖𝕒𝕔𝕙𝕤𝕤𝕖𝕖
+      Istanbul Beauty Center
     bio: >-
-      Krc:~🐚~🖇~🦄 𝑅𝑒𝑠𝑖𝑚 ℎ𝑒𝑠𝑎𝑏𝑖𝑚𝑖𝑧 𝑖𝑏𝑖𝑠𝑠𝑝𝑎𝑖𝑛𝑡𝑡𝑥𝑥1 30𝕜🥺
+      Health and Beauty
     location: "Turkey"
-    followers: 30300
-    engagement: 1078
-    commentsToLikes: 0.046137
-    id: ck9r3vweks7bp0j78fckb0zye
+    followers: 19500
+    engagement: 256
+    commentsToLikes: 0.009184
+    id: cka9o7yvt5hkk0i78qxrny2z9
     verified: false
-    hashtags: "#fyp, #evdekal, #beauty, #matematik"
+    hashtags: "#nosesurgery, #medicalvideos, #dentist, #nosecheck"
+  - username: "son_wihite"
+    fullname: >-
+      SON๛『WHİTE
+    bio: >-
+      Selam I m uTkU
+    location: "Turkey"
+    followers: 2147
+    engagement: 1122
+    commentsToLikes: 0.147424
+    id: ckbqkthq15xou0j23hcz012pk
+    verified: false
+    hashtags: "#sunset, #kesfet, #instadaily, #selfie"
   - username: "minecan4949"
     fullname: >-
       minecan49
     bio: >-
       
     location: "Turkey"
-    followers: 8755
-    engagement: 1244
-    commentsToLikes: 0.016952
+    followers: 8030
+    engagement: 1222
+    commentsToLikes: 0.016824
     id: cka7o8gxb0z4q0i780toyvobp
     verified: false
-    hashtags: "#tiktokkesfet, #tiktok, #kesfetbeni, #kesfetteyiz"
-  - username: "tahamerve80"
+    hashtags: "#instagram, #kesfetbeni, #kesfet, #kesfetteyiz"
+  - username: "chicago507"
     fullname: >-
-      Taha Yasin Hocanız 🤗
+      Beautiful Girls every day
     bio: >-
-      YouTube ve Instagram ☝️ Abone Olarak Bize Destek Olabilirsiniz 😍😍😍 ODP6AF
+      🍀Only best video🎬 🍓New contents every day🍇
     location: "Turkey"
-    followers: 27000
-    engagement: 199
-    commentsToLikes: 0.034814
-    id: cka9lv2fv3bxz0i78hyo9fyfp
+    followers: 3581
+    engagement: 483
+    commentsToLikes: 0.006571
+    id: ckdnle3jgjdjs0j231f5sb66s
     verified: false
-    hashtags: "#lifehack, #hayathilesi, #crafty, #calm"
-  - username: "tiktokdelisi75"
-    fullname: >-
-      Şöhret delisi
-    bio: >-
-      Başımız sağolsun AZERBAYCAN 🇦🇿🇦🇿🇦🇿🇦🇿🇹🇷🇹🇷🇹🇷
-    location: "Turkey"
-    followers: 2196
-    engagement: 719
-    commentsToLikes: 0.041117
-    id: ckbqkthq15xou0j23hcz012pk
-    verified: false
-    hashtags: "#picoftheday, #sky, #instalove, #instafollow"
+    hashtags: "#holiday, #girl, #tatil, #morning"
   - username: "lara.awadh"
     fullname: >-
       Lara Awadh 
     bio: >-
       ❤️love❤️ Instagram lara.awadh 👻 Lara-Awadh
     location: "Turkey"
-    followers: 38100
-    engagement: 1372
-    commentsToLikes: 0.066292
+    followers: 37700
+    engagement: 1328
+    commentsToLikes: 0.070052
     id: ckbwf8shu1x9j0j230es3zi2f
     verified: false
-    hashtags: "#dracotok, #hogwarts, #xyzbca, #dracomalfoytiktok"
-  - username: "senamidilli"
+    hashtags: "#foryou, #clown, #dracomalfoytiktok, #slytherin"
+  - username: "serifkekec"
     fullname: >-
-      🕊
+      🩸Ş.K 🩸
     bio: >-
-      NOT FAMOUS YET
+      GAZİANTEP
     location: "Turkey"
-    followers: 6710
-    engagement: 811
-    commentsToLikes: 0.240636
-    id: ck9n6gldi760x0j789bi43kul
+    followers: 8296
+    engagement: 212
+    commentsToLikes: 0.117322
+    id: ckb912tf9h65x0j23yf1zsksz
     verified: false
-    hashtags: "#satisfying, #musically, #tiktok, #opposelfie"
+    hashtags: "#hangiy, #instagram, #tiktokmusically, #gelindamat"
   - username: "moondellaa"
     fullname: >-
       Mahfam
     bio: >-
       Real happiness is in small things.🤍 🐶 lover ☕️ addicted Based in Istanbul
     location: "Turkey"
-    followers: 206700
-    engagement: 436
-    commentsToLikes: 0.016493
+    followers: 205700
+    engagement: 480
+    commentsToLikes: 0.017671
     id: ck9r8i9o1cel50j783ykaic9r
     verified: false
-    hashtags: "#istanbul, #love, #couplecomedy, #comedy"
-  - username: "musi2311"
+    hashtags: "#amore, #style, #istanbul, #fashionista"
+  - username: "amandine_daily"
     fullname: >-
-      Musallam مسلّم
+      Amandine - Malika
     bio: >-
-      فنان تشكيلي وصانع محتوى painter and Content maker
+      🇫🇷🇩🇪Based in Berlin. Not a French teacher 😂 Instagram : @lesberlinettes
     location: "Turkey"
-    followers: 46200
-    engagement: 420
-    commentsToLikes: 0.026320
-    id: ckbwebv1j1iol0j23qbn6irt9
+    followers: 6064
+    engagement: 506
+    commentsToLikes: 0.034295
+    id: ckb9m6mydf22i0j23emiu2in1
     verified: false
-    hashtags: "#istiklal, #madametussauds, #turkey, #tiktok"
-  - username: "disappearinthesky"
+    hashtags: "#marokko, #atlasmountains, #tiktokfashion, #french"
+  - username: "carpediyem_"
     fullname: >-
-      xrammsteinn
+      carpediyem
     bio: >-
-      instagram👆🏻 Twitter: xempireofthesun
+      ❤Hi Everybody, I'm a cartoonist✍follow me 4 more🇲🇾🇨🇷🇲🇨🇵🇭🇲🇲🇧🇷🇸🇦🇪🇬
     location: "Turkey"
-    followers: 151200
-    engagement: 758
-    commentsToLikes: 0.022386
-    id: ckbq745fctgt10j23mthhj2jy
+    followers: 29800
+    engagement: 515
+    commentsToLikes: 0.020742
+    id: ckdn6fwv4esa10j23rk0b3cdl
     verified: false
-    hashtags: "#evdeyiz, #komedi, #allfor1turkey, #ipanachallenge"
-  - username: "yunusibel35"
+    hashtags: "#funnyy, #drawer, #thai, #drawinghands"
+  - username: "ugurkzlates06"
     fullname: >-
-      Yunusibel
+      Uğur Kızılateş
     bio: >-
-      Yunus’un♥️Sibel ‘i 28.09 ♾ 01.04 Evli 👰🏻🤵🏻
+      İzmir ❤️ Ankara ❤️ Koç Burcu Galatasaray
     location: "Turkey"
-    followers: 4010
-    engagement: 464
-    commentsToLikes: 0.008938
-    id: ckbqfckh610j80j2365ulfn0l
+    followers: 23600
+    engagement: 223
+    commentsToLikes: 0.009025
+    id: ck9e28i9tdys80j78it7czyjj
     verified: false
-    hashtags: "#tiktok, #beni, #ke, #tiktokturkey"
+    hashtags: "#naturechallage, #beautyofnature, #tikdog, #doglovers"
 ---

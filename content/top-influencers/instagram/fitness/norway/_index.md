@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Norway in 2023
+title: Top 10 Fitness Instagram Influencers In Norway In 2023
 description: >-
-  Find top fitness Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #motivation #girlswholift.
+  Find top fitness Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #fit #norway #beach.
 platform: Instagram
-hits: 85
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 85 Instagram influencers like this in Norway for you to connect with.
+hits: 87
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 87 Instagram influencers like this in Norway for you to work with.
 profiles:
-  - username: "fridaemiliee"
+  - username: "sydney_wilsonxoxo"
     fullname: >-
-      FRIDA EMILIE
+      Sydney Wilson
     bio: >-
-      17 | Fitness Sc: Fridaemilie2
+      @_shawnn24 💗 WA| NV📍 @encorebeachclub 🥂🎉 Twin 👯‍♀️| Norwegian 🇳🇴 Native American |Fitness chick💪🏻 ✨Sprinkle kindness like it’s confetti ✨
     location: "Norway"
-    followers: 4617
-    engagement: 2202
-    commentsToLikes: 0.061543
-    id: ck13bo7bmwcw90i199rncx8tt
+    followers: 14802
+    engagement: 568
+    commentsToLikes: 0.101789
+    id: ckap5dqgmb7qj0i78cyeajkdx
     verified: false
-    hashtags: "#idealofsweden, #strongersweden"
-  - username: "solveigkg"
+    hashtags: "#lovemyjob, #lovethesegirls, #gratefulheart, #blessedbeyondmeasure"
+  - username: "saranilsen"
     fullname: >-
-      Solveig Kjøren Gjelstad
+      Sara Benedikte Nilsen 👸🏼
     bio: >-
-      Life • lifting • fitness 🤍🏋🏼‍♀️🏆 📲 Collabs: solveig.kjoren@hotmail.com 🥇 Oslo Grand Prix 2019 🥉NM 2019 💙 Team @nocconorge | @tights_no ☀️ @nardosol
+      Founder of @msmissy Fitness|Travel| Ex-politician Tv | Model | Entrepreneur ♡ Norwegian🇳🇴 in 🇪🇸 ♡sarabenedikte@hotmail.com📩
     location: "Norway"
-    followers: 19479
-    engagement: 715
-    commentsToLikes: 0.040182
-    id: ck9web8xdjien0j786scxwwnf
+    followers: 400035
+    engagement: 179
+    commentsToLikes: 0.024216
+    id: ck5pvrpgyjbjp0i11lwrfwx8u
     verified: false
-    hashtags: "#lifting, #tb, #girlswholift, #fit"
-  - username: "michellebettina"
-    fullname: >-
-      🦋Storyteller🦋 📍Norway
-    bio: >-
-      ✈️ Travel 🌱 Healthy lifestyle 🏋🏼‍♀️ Fitness 👑 Private marketing consultant 🏦 Marketing Real Estate Collab: michelle@cconsult.no
-    location: "Norway"
-    followers: 39947
-    engagement: 481
-    commentsToLikes: 0.063986
-    id: ckaoz3jbjk7ne0i78aulzu91d
-    verified: false
-    hashtags: ""
-  - username: "jannicke_hk"
-    fullname: >-
-      🄹🄰🄽🄽🄸🄲🄺🄴 🇳🇴
-    bio: >-
-      ✮ IFBB Bodyfitness ➞ @teamtoppform_fitnessklubb 🥈 NM 2019 🥈 SO 2019 ✮ @mmsports_norge ✮ Dirt.no
-    location: "Norway"
-    followers: 21024
-    engagement: 403
-    commentsToLikes: 0.055512
-    id: ck8t68geucnev0j78jn1pjajk
-    verified: false
-    hashtags: "#boostboxambassad, #motivation, #muscle, #bootyonfire"
+    hashtags: "#ibiza, #uae, #beach, #fitgirl"
   - username: "kamisaaurora"
     fullname: >-
-      K A M I S A
+      Kamisa | Glute & Fitness
     bio: >-
-      Lifestyle |Motivation | Fitness ♡ TEAM NOCCO | TEAM BAREBELLS NY YOUTUBE VIDEO
+      Lifestyle |Motivation | Fitness TEAM NOCCO & BAREBELLS
     location: "Norway"
-    followers: 3079
-    engagement: 1230
-    commentsToLikes: 0.111330
+    followers: 3186
+    engagement: 1169
+    commentsToLikes: 0.100704
     id: ck5bwq7eum74i0i11v5lwi1y0
     verified: false
-    hashtags: "#melodigrandprix, #igtv, #blm, #reklame"
-  - username: "jravn06"
+    hashtags: "#glutes, #hjemmetrening, #buildyourbooty, #bootybands"
+  - username: "trinegillebo"
     fullname: >-
-      
+      Trine Victoria | IFBB Bikini
     bio: >-
-      🙏taekwondo 🙏running 🙏fitness 🙏trekking Married to @runninglinnravn ❤️
+      Team Toppform - fitnesscoach 𝒮𝒪 𝟸 𝟶 𝟷 𝟿 🥇 𝒪𝓋𝑒𝓇𝒶𝓁𝓁 🤍 @famme rabatt: trinegillebo-20 🤍 @paninisport.no👇🏼 rabatt: trine20
     location: "Norway"
-    followers: 6541
-    engagement: 1092
-    commentsToLikes: 0.063036
-    id: ck138qa7lhhci0i19m6n97n3k
+    followers: 3970
+    engagement: 1143
+    commentsToLikes: 0.082589
+    id: ck6tlt7ly6lhj0j71ythfb6s9
     verified: false
-    hashtags: "#naturephotography, #naturelovers, #fjell, #hiking"
-  - username: "odaagnalt"
+    hashtags: "#jentersomtari, #sprekejenter, #jentersoml, #booty"
+  - username: "corneliselander"
     fullname: >-
-      Oda Johanne Agnalt
+      Cornelis Elander
     bio: >-
-      21|| SARPSBORG 🇧🇻 FITNESS
+      Fitness Expert and TV host 📺 Norwegian 🇳🇴 in Hollywood 💪 La meg hjelpe DEG i form:
     location: "Norway"
-    followers: 3644
-    engagement: 1848
-    commentsToLikes: 0.045745
-    id: ck15tcusxhh1q0i19f3nhyjg1
-    verified: false
-    hashtags: "#workout, #strongwomen, #gymlifestyle, #fitness"
-  - username: "woicefu"
+    followers: 66782
+    engagement: 257
+    commentsToLikes: 0.021706
+    id: ckf5la6grow9w0j23jdw2divc
+    verified: true
+    hashtags: "#beach, #corneliselander, #mat, #traveling"
+  - username: "andreabadendyck"
     fullname: >-
-      Kjærsti
+      ANDREA BADENDYCK
     bio: >-
-      I reeeally love food 🦋 Front-end developer 🦋 Fitness & Lifestyle
+      🦋 26 y’o Norwegian influencer 👩🏼‍💻 Marketing student ✨ Fashion, travel, fitness & healthy foods 💌 Contact: andreabadendyck.blogg@hotmail.com
     location: "Norway"
-    followers: 2110
-    engagement: 1211
-    commentsToLikes: 0.082200
-    id: ckap2tdqr08lh0i78w6rnzmpt
-    verified: false
-    hashtags: "#fitnessaddict, #motivasjon, #homeworkout, #homegymlife"
-  - username: "ingridkristiansen_"
+    followers: 132297
+    engagement: 213
+    commentsToLikes: 0.041342
+    id: ck6uedlcnqaxu0j7143097j9w
+    verified: true
+    hashtags: "#visitnorway, #betakarotengold, #goodforme, #lofoten"
+  - username: "_paige_powers"
     fullname: >-
-      PT Ingrid Kristiansen
+      Paige Powers
     bio: >-
-      FITNESS • HEALTH • LIFESTYLE 📍Tromsø, Norway 🏋🏼‍♀️Personal trainer @skyfitnesstromsoe INGRIDK20 for 20% hos @icaniwill 🖤Ambassadør @mmsports_norge
+      18 2x 3rd Fittest Teen On Earth 2x CrossFit Games athlete @wit.fitness
     location: "Norway"
-    followers: 4566
-    engagement: 1061
-    commentsToLikes: 0.114398
-    id: ck8t68e32cn750j78d0yv667f
+    followers: 7841
+    engagement: 1100
+    commentsToLikes: 0.013980
+    id: ck6ui2ry2cq060j7160nfenns
     verified: false
-    hashtags: "#norwegian, #happiness, #skyfitnessnorge, #lifting"
-  - username: "tinakfit"
+    hashtags: "#teamwit, #wit, #mayhemathlete, #whateverittakes"
+  - username: "rachelsimone320"
     fullname: >-
-      Tina K ✇
+      Rachel Simone
     bio: >-
-      You’ll see me hip-thrusting my way to greatness ⚡️ 🤸🏻‍♂️P.E. teacher 🏋🏽‍♀️Certified personal trainer 🦵🏽Fitness 🍥 ナルト Oslo📍INFJ
+      @fitnessbyrachelsimone Girl Mom 👩‍👧 Personal Trainer, CrossFit Games Athlete 2013, 2014, 2015, 2017
     location: "Norway"
-    followers: 6405
-    engagement: 870
-    commentsToLikes: 0.068864
-    id: ck8t21x84xx4h0j78yhzgerl2
+    followers: 19257
+    engagement: 165
+    commentsToLikes: 0.036628
+    id: ck0vuvvifmecv0i19ueaej0p4
     verified: false
-    hashtags: "#muscles, #fitness, #glutes, #neatup247"
+    hashtags: "#tyivy, #babygirl, #fitness, #gymnastics"
+  - username: "reganhuckaby"
+    fullname: >-
+      Regan Huckaby
+    bio: >-
+      Family Fitness Mom of 2 CrossFit Games Indy 2014/2015/2017 Team 2019 🥉 @mypowerdot (Code: REGAN10)
+    location: "Norway"
+    followers: 55088
+    engagement: 225
+    commentsToLikes: 0.014340
+    id: ck0tz69usp72q0i19nkl7sxt8
+    verified: false
+    hashtags: "#invictusathlete, #health, #invictus, #frontsquat"
+  - username: "mo9ca86"
+    fullname: >-
+      Monica 🇳🇴
+    bio: >-
+      Ambassadør for: 💛@wearefit.no 💜@fitnessmafia.no 💖@norsweet_official Model for : ♥️@asimmonsphotography ✨Trykk på link for rabattkoder
+    location: "Norway"
+    followers: 8644
+    engagement: 606
+    commentsToLikes: 0.095670
+    id: ck8t6picmeda90j78nb1kbfau
+    verified: false
+    hashtags: "#treningsforum, #girlswithmuscle, #fitnesslifestyle, #trening"
 ---

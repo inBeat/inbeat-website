@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Sao Paulo in 2023
+title: Top 10 Fashion Instagram Influencers In Sao Paulo In 2023
 description: >-
-  Find top fashion Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #fashion #saopaulo #love #brasil.
+  Find top fashion Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #fashion #lookdodia #moda.
 platform: Instagram
-hits: 342
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 342 Instagram influencers like this in Sao Paulo, Brazil for you to work with.
+hits: 322
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 322 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
-  - username: "lyalcantara"
+  - username: "_nicolecoelho"
     fullname: >-
-      Alyne Alcantara
+      Nicole Coelho
     bio: >-
-      (🌹) art • fashion São Paulo, 1991
+      Ipatinga, MG - São Paulo, SP 🇧🇷 @megatalents @attomgt 📩 nic.coelo@gmail.com
     location: "Brazil"
-    followers: 64423
-    engagement: 720
-    commentsToLikes: 0.008009
-    id: ck6ty3i8l1gqw0j71wfo8xpwj
+    followers: 9231
+    engagement: 325
+    commentsToLikes: 0.055482
+    id: ck0u0qsj3un0f0i1922d2xfa9
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "carlsph"
+    hashtags: "#cachosdivos, #moda, #fashion, #saopaulo"
+  - username: "hathane"
     fullname: >-
-      Carlos Henrique - Filtros
+      Hathane Rezende
     bio: >-
-      ✨ Siga para desbloquear todos os filtros Follow to unlock all filters Fotógrafo • Criador de filtros 📍São Paulo - SP Portifólio ↙️
+      🙏🏼Amar a Deus sobre todas as coisas! • moda • lifestyle • health • happy ✨@kadoboutique ✨@kadofitness 📩 hathanerezende@gmail.com
     location: "Brazil"
-    followers: 25139
-    engagement: 1015
-    commentsToLikes: 0.027174
-    id: ck5zt0urvzjc90i14wrzolnuw
+    followers: 31469
+    engagement: 260
+    commentsToLikes: 0.034345
+    id: ck0tvwqw1d4en0i19or1md6x8
     verified: false
-    hashtags: "#tattoo, #summer, #fashionphotography, #fashionphotographer"
-  - username: "andriadosreis"
+    hashtags: "#praia, #ootd, #lookdodia, #muitocharth"
+  - username: "rafaela.castelini"
     fullname: >-
-      Ândria dos Reis
+      Rafaela Castelini
     bio: >-
-      Apresentadora Atriz/Cantora Modelo Food lover Trabalhos e parcerias via direct E-mail: contatoandriadosreis@gmail.com
+      • 𝙽𝙰̃𝙾 𝙰𝚂𝚂𝙸𝚂𝚃𝙰 𝙾𝚂 𝚂𝚃𝙾𝚁𝙸𝙴𝚂 🎯• • 𝙻𝚒𝚏𝚎𝚂𝚝𝚢𝚕𝚎 & 𝙱𝚎𝚊𝚞𝚝𝚢 • • 𝙿𝚊𝚛𝚌𝚎𝚛𝚒𝚊𝚜 | 𝙳𝚒𝚛𝚎𝚌𝚝 📥 • • @luizalbinooficial ❤️💍 • 𝙼𝚊̃𝚎 𝚍𝚘 @thorthor_ •
     location: "Brazil"
-    followers: 44972
-    engagement: 152
-    commentsToLikes: 0.084943
-    id: ck0ty0ihel34l0i19ex94wbrd
+    followers: 13190
+    engagement: 525
+    commentsToLikes: 0.051785
+    id: ck8tcnbfi00ga0j78tob0ev1i
     verified: false
-    hashtags: "#model, #unhas, #fabulous, #fotografia"
-  - username: "gapereiraa"
+    hashtags: "#likeme, #instalikes, #likes4like, #maring"
+  - username: "paulabiazin"
     fullname: >-
-      Gabriel Pereira
+      PAULA BIAZIN 🇧🇷
     bio: >-
-      “ɴᴇᴠᴇʀ ɢɪᴠᴇ ᴜᴘ ᴏɴ sᴏᴍᴇᴛʜɪɴɢ ʏᴏᴜ ʀᴇᴀʟʟʏ ᴡᴀɴᴛ” • @lets.reborn •
+      🎧 DJ 🎶 +550k no TIK TOK 💪🏻Embaixadora @feirabtff 💄 MINHA LOJA - @lojapaulabiazin 🦄Coach @kaminskao @fmiligrama 💍 casada
     location: "Brazil"
-    followers: 5950
-    engagement: 454
-    commentsToLikes: 0.017132
-    id: ck5ckvsz6xpkg0i11pxsv35xr
+    followers: 413493
+    engagement: 122
+    commentsToLikes: 0.029391
+    id: ck6tr6xjsxags0j71q88t20s7
     verified: false
-    hashtags: "#beautiful, #fun, #smile, #weekend"
-  - username: "joao_19victorr"
+    hashtags: "#fashion, #saopaulo, #lingerie, #mood"
+  - username: "rochagabbe"
     fullname: >-
-      🅙🅞ã🅞 🅥🅘🅒🅣🅞🅡
+      Gabriel Rocha
     bio: >-
-      ✞ 🄳🄴🅄🅂 É + IEQ 🅒🅐🅝🅣🅞🅡 & 🅒🅞🅜🅟🅞🅢🅘🅣🅞🅡 🎼 🅢🅔🅡🅣🅐🅝🅔🅙🅐🅝🅓🅞... ✧Cℓ'ร✧ ᴿᴱᶜᴿᴱᴵᴼ ᴹᴳ🌎
+      Androgynous Model🇧🇷 Actor & Influencer Antroposofia e Estilo de Vida🌈🍀✨ Parcerias via Direct 📩📦📤 Contato: gabrielrochafm@gmail.com
     location: "Brazil"
-    followers: 51668
-    engagement: 90
-    commentsToLikes: 1.055363
-    id: ckaow32lg77bp0i789bv294vt
+    followers: 20298
+    engagement: 1521
+    commentsToLikes: 0.019691
+    id: ck5qdfo1qvc490i11vz5367zh
     verified: false
-    hashtags: "#nature, #ver, #pretos, #happy"
-  - username: "angelasouza_g"
+    hashtags: "#signos, #vintage, #fashionstyle, #voguebrasil"
+  - username: "analuh_of"
     fullname: >-
-      ÂNGELA SOUZA 🌹
+      Analuh
     bio: >-
-      Compartilhando de tudo um pouquinho . RB-Acre 📩 angelasoutelo96@gmail.com ᖴᗩçᗩ O ᗷEᗰ, ᔕEᒍᗩ ᔕIᗰᑭᒪEᔕ, ᔕEᒍᗩ ᗩᗰOᖇ💕
+      21🌻 Deus/Jesus ✝️ @gremio Free Fire gamer @godesportsoficial 📱 GTA RP SJC📍Gaúcha ♒️ Direito/P. e Marketing📚 #freefire #gtarp
     location: "Brazil"
-    followers: 10521
-    engagement: 565
-    commentsToLikes: 0.212043
-    id: ckaoy7uhkgd2j0i78e6lip554
+    followers: 11668
+    engagement: 1287
+    commentsToLikes: 0.167197
+    id: ck14ge1qi4qy60i191i55ztno
     verified: false
-    hashtags: "#fashion, #fotografia, #feedorganizado, #brasil"
-  - username: "manudieguez"
-    fullname: >-
-      Manuela  Dieguez / Mãe Luciana
-    bio: >-
-      Perfil totalmente administrado pela mãe @luciana_dieguez 🎬 SBT - Carinha de Anjo 📭 lu.dieguez@uol.com
-    location: "Brazil"
-    followers: 169318
-    engagement: 54
-    commentsToLikes: 0.158706
-    id: ck8t7ypppigcz0j78x6sk62wu
-    verified: false
-    hashtags: "#explore, #domingo, #manudieguez, #reels"
-  - username: "abbadyyy"
-    fullname: >-
-      Camille
-    bio: >-
-      
-    location: "Brazil"
-    followers: 6889
-    engagement: 398
-    commentsToLikes: 0.068998
-    id: ck8t2yz1518sq0j783cbqjygz
-    verified: false
-    hashtags: "#moda, #jovens, #amor, #jesus"
-  - username: "ricardolimafotografo"
-    fullname: >-
-      Ricardo Lima
-    bio: >-
-      Fotógrafo especialista em Casamentos Ajudo as pessoas a terem as melhores recordações Amo histórias ⬇️Clica aqui e vem falar sobre seu casamento⬇️
-    location: "Brazil"
-    followers: 29439
-    engagement: 59
-    commentsToLikes: 0.042987
-    id: ck14icucqes500i19d492j2iz
-    verified: false
-    hashtags: "#portraiture, #photooftheday, #foto, #aovportraits"
+    hashtags: "#blogueira, #sjc, #freefirebrasil, #instagram"
   - username: "evthalia"
     fullname: >-
       Thalia Ferraz
     bio: >-
-      brazilian, fashion content. são paulo based 💌 thaliaferraz05@gmail.com
+      brazilian, fashion content. são paulo, brazil. owner of: @brechosms
     location: "Brazil"
-    followers: 128515
-    engagement: 637
-    commentsToLikes: 0.017456
+    followers: 139505
+    engagement: 694
+    commentsToLikes: 0.013037
     id: ck0w0xs2lgkbq0i197s8hkrbq
     verified: false
-    hashtags: "#revolveme, #amarolook, #alongamentolashlift, #maybellinenybrasil"
+    hashtags: "#revolveme, #adikagirls, #adika, #fashionnovapartner"
+  - username: "nickmansph"
+    fullname: >-
+      NICKMANS GABRIEL
+    bio: >-
+      Fashion Photographer São Paulo, Brazil ✉️ contato@nickmansgabriel.com.br
+    location: "Brazil"
+    followers: 6404
+    engagement: 453
+    commentsToLikes: 0.121846
+    id: ck137tbv7d9qx0i197u9xbebo
+    verified: false
+    hashtags: "#photography, #reels, #reelsinstagram, #reelsbrasil"
+  - username: "thaisrodrigues"
+    fullname: >-
+      Thais Rodrigues
+    bio: >-
+      💡| Fundadora e Diretora Criativa 🇮🇹| Fashion Design São Paulo📍Alphaville📍Campinas 📍 📱| (11) 99707-1005 📩| marketing@thaisrodrigues.com.br ❤ Site ⤵️
+    location: "Brazil"
+    followers: 418389
+    engagement: 151
+    commentsToLikes: 0.018015
+    id: ck5bxk9ppnw1n0i11skqivv2v
+    verified: false
+    hashtags: "#cole, #tbt, #euvistothaisrodrigues, #reveillonthaisrodrigues"
+  - username: "lyalcantara"
+    fullname: >-
+      Alyne Alcantara
+    bio: >-
+      (🌹) fashion • art São Paulo, 1991
+    location: "Brazil"
+    followers: 60715
+    engagement: 638
+    commentsToLikes: 0.008637
+    id: ck6ty3i8l1gqw0j71wfo8xpwj
+    verified: false
+    hashtags: "#blackouttuesday"
 ---

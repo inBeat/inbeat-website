@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Jakarta in 2023
+title: Top 10 Beauty TikTok Influencers In Jakarta In 2023
 description: >-
-  Find top beauty TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #foryou #duet #jakarta.
+  Find top beauty TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #foryou #makeup #beauty.
 platform: TikTok
-hits: 7
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 7 TikTok influencers like this in Jakarta, Indonesia for you to connect with.
+hits: 4
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform has 4 TikTok influencers like this in Jakarta, Indonesia for you to collaborate.
 profiles:
-  - username: "vicisienna"
+  - username: "ruthgrch"
     fullname: >-
-      ViciSienna
+      RuthGarcia
     bio: >-
-      My ig @vicisienna is all about fashion+beauty U may see some silly me here 🤪
+      I'm a Singer and Content Creator on Instagram, but on TikTok i'm a clown👉🏼👈🏼
     location: "Indonesia"
-    followers: 11000
-    engagement: 361
-    commentsToLikes: 0.071467
-    id: ckc8x1kr8kpvl0j23xj3jmnc1
+    followers: 73400
+    engagement: 878
+    commentsToLikes: 0.025390
+    id: ckcegqfi1o6h40j23nm5a78r0
     verified: false
-    hashtags: "#jichangwook, #foryou, #fyp, #jakarta"
+    hashtags: "#foryou, #fyp, #foryoupage, #ngakak"
   - username: "dillaprb"
     fullname: >-
       Dillah Probokusumo ⛓
     bio: >-
       Brand Ambassador of @mirandahaircare 20 📍Jakarta 🎓Law Faculty I enjoy sewing
     location: "Indonesia"
-    followers: 493700
-    engagement: 1519
-    commentsToLikes: 0.007980
+    followers: 525400
+    engagement: 1151
+    commentsToLikes: 0.007374
     id: ckbwl7xrl40x70j23ukcky208
     verified: true
-    hashtags: "#foryoupage, #foryou, #localbrand, #tiktokpintar"
-  - username: "jevnomz"
-    fullname: >-
-      Jevanslie
-    bio: >-
-      Follow My IG CEO Keliling Cari Makan Video lengkap cek IG Jakarta
-    location: "Indonesia"
-    followers: 63000
-    engagement: 325
-    commentsToLikes: 0.026246
-    id: ckc7vqwfiz5sw0j23ja03re2j
-    verified: false
-    hashtags: "#delicious, #warga62, #tutorial, #samasamadirumah"
-  - username: "titantyra"
-    fullname: >-
-      Titan
-    bio: >-
-      Beauty & lifestyle influencer, new entrepreneur ☺️
-    location: "Indonesia"
-    followers: 118700
-    engagement: 664
-    commentsToLikes: 0.012228
-    id: ckc7nkfbmtp050j23zyipwnb5
-    verified: false
-    hashtags: "#dogs, #fyp, #duet, #edandrose"
-  - username: "okinawa_brown_sugar"
-    fullname: >-
-      Not for you
-    bio: >-
-      follow my ig aku ya moms ʕ　·ᴥ·ʔ Get 25k off on Sociolla: SBN10C63E
-    location: "Indonesia"
-    followers: 155800
-    engagement: 1807
-    commentsToLikes: 0.015214
-    id: ckcjduq0ra6vv0j23qqezu9u5
-    verified: false
-    hashtags: "#jakarta, #tiktokindo, #fyp, #parody"
-  - username: "vhiendysip_"
+    hashtags: "#fashiontips, #pinterest, #diy, #beauty"
+  - username: "vhiendysipp"
     fullname: >-
       Vhiendy savella
     bio: >-
-      Youtube : vhiendy savella ASMR MUKBANG SAMA ADEK 😂
+      Youtube : vhiendy savella 24 JAM DIATUR SEKELUARGA✨
     location: "Indonesia"
-    followers: 344600
-    engagement: 1365
-    commentsToLikes: 0.009219
+    followers: 337400
+    engagement: 1473
+    commentsToLikes: 0.010703
     id: ckcdzefjkh6dx0j23eflt7sga
     verified: false
-    hashtags: "#kuliner, #foryourpage, #jogja, #fyp"
-  - username: "denzco"
+    hashtags: "#foryou, #foryourpage, #voiceeffects, #fyp"
+  - username: "zilmizola"
     fullname: >-
-      🌀 DenZ Co💎
+      zilmizola
     bio: >-
-      ꦧꦱꦗꦮ/ 汉语/ 🇺🇸 / 🇹🇭 / 🇮🇩 VOICEOVER / MC Lowongan 💼kerja/ bisnis cek link👇
+      FOLLOW ME ON INSTAGRAM @ZILMIZOLA Freelance guide in lombok island 🌴
     location: "Indonesia"
-    followers: 36300
-    engagement: 446
-    commentsToLikes: 0.128706
-    id: ckce4euefjjon0j23kz9gl5jw
+    followers: 81000
+    engagement: 613
+    commentsToLikes: 0.111038
+    id: cka6lohnx3zhw0i787r6iwxxc
     verified: false
-    hashtags: "#jogja, #tunawisma, #semarang, #boyolali"
-  - username: "dr.ziee"
+    hashtags: "#bali, #resort, #nature, #love"
+  - username: "qonitcah"
     fullname: >-
-      dr. Yessica Tania
+      Qonitcah 👩‍⚕️
     bio: >-
-      Medical Doctor 🩺 Beauty / Aesthetic Consultant I’m , Your Skin Best Friend 💋
+      Education | Health | Beauty Universitas Indonesia🇮🇩 BUKU WAJIB UTBK 2021 👇🏻
     location: "Indonesia"
-    followers: 1100000
-    engagement: 859
-    commentsToLikes: 0.031785
-    id: ckbqvgdsifood0j23rapkdlrp
-    verified: true
-    hashtags: "#skincarecheck, #tipsdrzie, #samasamabelajar, #dokter"
+    followers: 97100
+    engagement: 1161
+    commentsToLikes: 0.032116
+    id: ckcdtha1bdvhi0j230o1mmeqv
+    verified: false
+    hashtags: "#unpad, #itb, #snmptn, #biologi"
+  - username: "shelmanadivaa"
+    fullname: >-
+      shelma
+    bio: >-
+      ig : @shelmanadiva @beautycometrue.id combi skin semua belinya disini yaa!👇🏻✨
+    location: "Indonesia"
+    followers: 46000
+    engagement: 820
+    commentsToLikes: 0.036956
+    id: ckcej8s98rwax0j23z7w25w9h
+    verified: false
+    hashtags: "#fyp, #skincare, #fanbocosmetics, #fanbotiktok"
   - username: "sayblebaby"
     fullname: >-
       Sayble
     bio: >-
-      💅🏼beauty / / travel Adhesive Eyeliner 👇🏼
+      💅🏼Beauty tips and hacks Founder | @balilash 🌴 Discount code: TIKTOK
     location: "Indonesia"
-    followers: 58200
-    engagement: 887
-    commentsToLikes: 0.067802
+    followers: 59300
+    engagement: 450
+    commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beautyessentials, #fallaesthetic, #adhesiveeyeliner, #makeuphacks"
+    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+  - username: "asmeri315"
+    fullname: >-
+      asmeri31
+    bio: >-
+      Beauty Content Creator Follow My IG @asmeri31
+    location: "Indonesia"
+    followers: 16800
+    engagement: 616
+    commentsToLikes: 0.031030
+    id: ckbky5spwu7x40j23ji2ba9oi
+    verified: false
+    hashtags: "#covid19, #goyangasliichitan, #gardaterdepan, #fyp"
+  - username: "ririeprameswari"
+    fullname: >-
+      Ririe Prams
+    bio: >-
+      😜 30y.o mom!!! 🇲🇨 Beauty Vlogger 💌 contact.ririe@gmail.com
+    location: "Indonesia"
+    followers: 125000
+    engagement: 743
+    commentsToLikes: 0.015914
+    id: ckd62pc6t1v580j233y4exrhy
+    verified: false
+    hashtags: "#makeup, #foryou, #fyp, #makeuphacks"
   - username: "astariririaja"
     fullname: >-
       Astari Budi
     bio: >-
       Dokter gigi dan beauty vlogger. Aku disini untuk segala recehan Ig : @astaririri
     location: "Indonesia"
-    followers: 244400
-    engagement: 920
-    commentsToLikes: 0.015335
+    followers: 253000
+    engagement: 688
+    commentsToLikes: 0.013556
     id: ckbr6clfblv7g0j23b805ysx6
     verified: false
-    hashtags: "#voiceeffects, #foryou, #makeup, #facepaint"
+    hashtags: "#makeup, #foryou, #coraline, #beldam"
 ---

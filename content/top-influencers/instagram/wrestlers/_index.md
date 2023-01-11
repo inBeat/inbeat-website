@@ -1,59 +1,47 @@
 ---
-title: Top 10 Wrestlers Instagram Influencers in 2023
+title: Top 10 Wrestlers Instagram Influencers In 2023
 description: >-
-  Find top wrestlers Instagram influencers in 2023. Most popular hashtags: #wrestling #aew #allelitewrestling.
+  Find top wrestlers Instagram influencers in 2023. Most popular hashtags: #aew #wrestling #workout.
 platform: Instagram
-hits: 580
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 580 Instagram influencers like this for you to work with.
+hits: 568
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 568 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "thegreatkhali"
+    fullname: >-
+      The Great Khali
+    bio: >-
+      Actor | Wrestler Founder of - @cwewrestlingacademy For business and promotional enquiries contact- Thegreatkhali25@gmail.com
+    location: "United Kingdom"
+    followers: 5135239
+    engagement: 52
+    commentsToLikes: 0.012323
+    id: ck5q0x1pa86k30i11t1ufsdg0
+    verified: true
+    hashtags: "#merrychristmas, #happyholidays, #12ladke, #tonykakkar"
   - username: "amiraliakbari60"
     fullname: >-
       Amirali Akbari
     bio: >-
       World Champion Wrestler 10-1 @onechampionship Heavyweight Fighting out of Tehran🇮🇷 For all business inquiries, email: mis@pridelandmanagement.com
     location: "United States"
-    followers: 2064130
-    engagement: 1724
-    commentsToLikes: 0.020195
+    followers: 2234961
+    engagement: 1614
+    commentsToLikes: 0.023533
     id: ck5zl0z2gkj3b0i14qqq4kvp9
     verified: true
-    hashtags: "#one, #mixedmartialarts, #fights, #fighter"
-  - username: "arikittee"
-    fullname: >-
-      Ari K
-    bio: >-
-      ⏳🎧🎤🎬🧿 #persian Queen 👸🏻 OFFICIAL ACCOUNT Former Wrestler 🤼‍♀️
-    location: "United States"
-    followers: 93765
-    engagement: 516
-    commentsToLikes: 0.076041
-    id: ckap9xyj5u04p0i78t77v73ps
-    verified: false
-    hashtags: "#browneyes, #rappers, #curvymodel, #hiphopmusic"
+    hashtags: "#fight, #mma, #onechampionship, #knockout"
   - username: "yones_emamii"
     fullname: >-
       Younes Emamichoghaei
     bio: >-
-      Iranian wrestler 🇮🇷 National team 🥉 World 2019 Asian 2019
+      Iranian wrestler
     location: "Iran"
-    followers: 40203
-    engagement: 2852
-    commentsToLikes: 0.046773
+    followers: 41246
+    engagement: 2777
+    commentsToLikes: 0.047153
     id: ck9wi2o8w0jt10j78zntw8g1n
     verified: false
-    hashtags: ""
-  - username: "majiziya_bhanu"
-    fullname: >-
-      Dr. Majiziya Bhanu
-    bio: >-
-      Powerlifting World Champion 🇮🇳 Fitness Model And Physique🧕 International Arm Wrestler💪 For Enquiries/Collaborations 📩 DM @hafeezahammed
-    location: "India"
-    followers: 40568
-    engagement: 748
-    commentsToLikes: 0.046485
-    id: ck8wgdxerh6820j781r1t3c41
-    verified: true
     hashtags: ""
   - username: "hamedbali60"
     fullname: >-
@@ -67,64 +55,76 @@ profiles:
     id: ck6u00e7ecx340j7193huun96
     verified: false
     hashtags: "#studiodani"
-  - username: "jennyfransson"
+  - username: "majiziya_bhanu"
     fullname: >-
-      Jenny Fransson
+      Dr. Majiziya Bhanu
     bio: >-
-      ⭐Swedish wrestler ⭐World Champion 2012 ⭐3 time olympian🇨🇳🇬🇧🇧🇷 ⭐Olympic bronze medalist 2016 ⭐European Champion 2018 Family❤🐶🍝🤼
-    location: "Sweden"
-    followers: 8062
-    engagement: 885
-    commentsToLikes: 0.098033
-    id: ck6u5b4ik8lst0j71f40r1aam
-    verified: false
-    hashtags: "#teamsweden, #det, #utmaning, #squats"
-  - username: "alliewrestling"
-    fullname: >-
-      The Bunny 🐇🔪
-    bio: >-
-      ✩ Pro Wrestler w/ @allelitewrestling ✩ Buffalo | Toronto ✩ Doggos - @tobyandsirdidymus ✩ Catch me Wednesday’s at 8pm on TNT
-    location: "United States"
-    followers: 246683
-    engagement: 635
-    commentsToLikes: 0.019072
-    id: ck5cjykx4vr8w0i11aitc9mbb
+      Powerlifting World Champion 🇮🇳 Fitness Model And Physique🧕 International Arm Wrestler💪 For Enquiries/Collaborations 📩 DM @hafeezahammed
+    location: "United Kingdom"
+    followers: 169439
+    engagement: 883
+    commentsToLikes: 0.023043
+    id: ck8wgdxerh6820j781r1t3c41
     verified: true
-    hashtags: "#allelitewrestling, #horrormovies, #allelite, #photoshoot"
-  - username: "callmekrisstat"
+    hashtags: "#safarishopping, #mysafari, #safarihypermarketuae, #safarifurniturestore"
+  - username: "rushlemania"
     fullname: >-
-      Kris Statlander
+      Courtney Rush
     bio: >-
-      🌑💫Galaxy’s Greatest Alien💫🌑 Stuntwoman. Wrestler and first female graduate of Create-A-Pro, NY. ⚡️Twitter: @callmekrisstat
+      Hi! Nerdy Canadian pro-wrestler from Winnipeg and human host of 1/7 of @wearerosemary’s soul! I play video games, watch anime and identify as Gohan 😅
     location: "United States"
-    followers: 52726
-    engagement: 969
-    commentsToLikes: 0.025682
-    id: ck5cjyl3wvraa0i11no7xou9b
+    followers: 5826
+    engagement: 1518
+    commentsToLikes: 0.054163
+    id: ckapcmqow4dqn0i78r7agm1uu
     verified: false
-    hashtags: "#aew, #roadtorecovery, #alien, #wrestling"
-  - username: "pol_badia"
-    fullname: >-
-      POL BADÍA
-    bio: >-
-      ⏳ Finalista del @tdeldescuento 👁 Concursante de GH17 y GHVIP7 🏆 Professional Wrestler 📩 polbadiainfo@gmail.com
-    location: "Spain"
-    followers: 281095
-    engagement: 249
-    commentsToLikes: 0.236958
-    id: ck5q9n9subz8i0i11c6y4dpb8
-    verified: true
-    hashtags: "#geneticamenteperfecto, #dashingpol, #wrestling, #magic"
+    hashtags: "#rushlemania, #catsofinstagram, #justsaiyan, #myapocalypseoutfit"
   - username: "hadi.vahedi03"
     fullname: >-
       𝙷𝚊𝚍𝚒𝚟𝚊𝚑𝚎𝚍𝚒🤴🏻
     bio: >-
-      🥀یادیاران‌یاد‌باد🥀 🥀97.5.20🖤Amirm😔 🏅wrestler🤼‍♂ ☄️🦍☄️
+      🥀amirm🥀97.5.20🥀 @hadi.vahedii03 🏅wrestler🤼‍♂ ☄️🦍☄️ @spursofficial ⚽️👑 رَ‌ه‌ا♥️
     location: "Iran"
-    followers: 12308
-    engagement: 1719
-    commentsToLikes: 0.029553
+    followers: 12165
+    engagement: 1971
+    commentsToLikes: 0.034090
     id: ckaoz569okeyc0i78kcg326rr
     verified: false
-    hashtags: "#samoyed, #wantons, #myboy, #dog"
+    hashtags: "#happybirthdaymybrother, #happybirthdaymyboy, #ddshm, #kiriface"
+  - username: "jordandevlin1"
+    fullname: >-
+      Jordan Devlin
+    bio: >-
+      Professional Wrestler, WWE. The Irish Ace. 🇮🇪♠️ Twitter: @jordan_devlin1
+    location: "United States"
+    followers: 57420
+    engagement: 653
+    commentsToLikes: 0.020719
+    id: ck55pmn5haw8a0i114yt59636
+    verified: true
+    hashtags: "#nxttakeover, #standanddeliver, #cruiserweightchampionship, #ironmanmatch"
+  - username: "shidahikaru"
+    fullname: >-
+      Hikaru Shida
+    bio: >-
+      Pro-wrestler, actor from Japan MAKAI project🇯🇵/All Elite Wrestling🇺🇸 Contact: shidatube@gmail.com ※Business only
+    location: ""
+    followers: 191566
+    engagement: 743
+    commentsToLikes: 0.014151
+    id: ck5bta50xflkq0i11cg8igcth
+    verified: false
+    hashtags: "#lifewithcats, #holyshida, #hikarushida, #prowrestler"
+  - username: "emilywrestling"
+    fullname: >-
+      emily jaye
+    bio: >-
+      ⇾ pro wrestler in training ⇾ email/dm for interviews, collabs, sponsorships and more !! ⇾ collarxelbow: EMILYJAYE
+    location: ""
+    followers: 9444
+    engagement: 1224
+    commentsToLikes: 0.030869
+    id: ckf5msdu4v6c70j239iwz31i4
+    verified: false
+    hashtags: "#wweshopshots, #indywrestling, #impact, #yaonlylivvonce"
 ---

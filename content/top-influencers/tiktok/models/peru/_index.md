@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Peru in 2023
+title: Top 10 Models TikTok Influencers In Peru In 2023
 description: >-
-  Find top models TikTok influencers in Peru in 2023. Most popular hashtags: #model #peru #fashion #fyp.
+  Find top models TikTok influencers in Peru in 2023. Most popular hashtags: #peru #fyp #parati #viral.
 platform: TikTok
-hits: 22
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 22 TikTok influencers like this in Peru for you to collaborate.
+hits: 25
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 25 TikTok influencers like this in Peru for you to work with.
 profiles:
   - username: "yositaarve"
     fullname: >-
       yositaarve
     bio: >-
-      Sígueme IG👆🏻 👠Model-Fit💓 Te doy los mejores Tips aquí🥰 👇🏻
+      Sígueme IG👆🏻 Yositips 📺 👠Model-Fit💓 Te doy los mejores consejos aquí👇🏻
     location: "Peru"
-    followers: 24200
-    engagement: 626
-    commentsToLikes: 0.144913
+    followers: 25300
+    engagement: 727
+    commentsToLikes: 0.171119
     id: ckai4savrp9ho0i78l3cssqf6
     verified: false
-    hashtags: "#venezolanosenperu, #makeup, #peru, #venezolana"
+    hashtags: "#fingerdance, #peru, #cosplayer, #fashion"
   - username: "miguellatorre8"
     fullname: >-
       Miguel La Torre
     bio: >-
       ATHLETE - MODEL - DANCER
     location: "Peru"
-    followers: 57500
-    engagement: 805
-    commentsToLikes: 0.026323
+    followers: 74000
+    engagement: 802
+    commentsToLikes: 0.022238
     id: ck9ev9pfghhk00j78z75lnwlm
     verified: false
-    hashtags: "#man, #fit, #mood, #chiste"
+    hashtags: "#beautiful, #fitness, #man, #love"
   - username: "luanabarron"
     fullname: >-
       Luana 
     bio: >-
-      🇵🇪Peru🇵🇪 Model
+      🇵🇪Peru🇵🇪 Model IG: luanabarron
     location: "Peru"
-    followers: 417600
-    engagement: 1046
-    commentsToLikes: 0.007532
+    followers: 825900
+    engagement: 881
+    commentsToLikes: 0.008088
     id: ck9f1uw5ma82r0j786jf8cz6j
     verified: false
-    hashtags: "#baile, #setenota, #parati, #rosalia"
-  - username: "tolyangasilin"
-    fullname: >-
-      tolyangasilin
-    bio: >-
-      Instagram: tolyan_gasilin On stay in Lima-Peru.
-    location: "Peru"
-    followers: 2757
-    engagement: 1150
-    commentsToLikes: 0.036694
-    id: ck9e3tu7el37k0j78l208gye8
-    verified: false
-    hashtags: "#model, #peru, #like, #skate"
+    hashtags: "#parati, #comedia, #baile, #amigas"
   - username: "nicole.dileo1"
     fullname: >-
       Nicole Dileo
     bio: >-
       🇵🇪 M O D E L ♡ C R E A T O R Instagram: @nicoledileo1
     location: "Peru"
-    followers: 71300
-    engagement: 1376
-    commentsToLikes: 0.018012
+    followers: 108300
+    engagement: 1879
+    commentsToLikes: 0.015480
     id: cka0ifj10dep60i78bllrncuh
     verified: false
-    hashtags: "#youwantmore, #protagonista, #halloween, #harrypotter"
-  - username: "fashionindahat"
-    fullname: >-
-      Alemazzini
-    bio: >-
-      A ver qué pasa si le das click a esa 👆 cámara de arriba
-    location: "Peru"
-    followers: 185100
-    engagement: 1112
-    commentsToLikes: 0.014071
-    id: ck83zb3mrzbfn0j78tafbmdmf
-    verified: false
-    hashtags: "#feminismo, #sermujer, #fashion, #model"
+    hashtags: "#valentinesday, #bellahadid, #sudamerica, #biobio"
   - username: "victorlluncor"
     fullname: >-
       victorlluncor
     bio: >-
       Fotógrafo Lima-Perú
     location: "Peru"
-    followers: 14600
-    engagement: 571
-    commentsToLikes: 0.014571
+    followers: 15900
+    engagement: 630
+    commentsToLikes: 0.015465
     id: ck9dupwuhhgo00j789qcx815g
     verified: false
-    hashtags: "#hairtransformation, #parati, #fyp, #backstage"
-  - username: "gracecentenoalmen"
+    hashtags: "#fyp, #emprendimiento, #hairtransformation, #foryou"
+  - username: "unaufhaltsameslachen"
     fullname: >-
-      Grace Centeno Almendras
+      Dumusstesnichtwi
     bio: >-
-      Me ayudan siguiendo mi página ? 💓 ⬇️
+      Du musst es nicht wissen
     location: "Peru"
-    followers: 54900
-    engagement: 616
-    commentsToLikes: 0.016618
-    id: ckbfisuuievpl0j23db0bjwwx
+    followers: 22100
+    engagement: 1458
+    commentsToLikes: 0.022892
+    id: ckbksmb6oni4y0j23perk0n35
     verified: false
-    hashtags: "#cuarentena, #tendencia, #fashion, #per"
-  - username: "__waterxmelon"
-    fullname: >-
-      [ 99.6K ] 🛹
-    bio: >-
-      g o a l : 100 K he / him main : _diegovasquezz
-    location: "Peru"
-    followers: 99700
-    engagement: 1442
-    commentsToLikes: 0.011615
-    id: ckbqlvsqz6yk80j23ti5nvtm0
-    verified: false
-    hashtags: "#slowmo, #vhs, #fyp, #parati"
+    hashtags: "#adogisforlife, #fun, #rescuedog, #christmas"
   - username: "apoyo_a_kelin"
     fullname: >-
       Apoyo a Reinas 🇵🇪
     bio: >-
       Apoyo a reinas 🇵🇪 1000k? 🔥 ¿De que reina te gustaria que publicara 🔥🤫?
     location: "Peru"
-    followers: 9796
-    engagement: 738
-    commentsToLikes: 0.115912
+    followers: 9627
+    engagement: 724
+    commentsToLikes: 0.105821
     id: ck9fmbkg8sd4y0j78zgrwnun0
     verified: false
-    hashtags: "#peru, #missuniverso, #peruanas, #peruana"
+    hashtags: "#missuniverse, #missuniverso, #peruanas, #peru"
+  - username: "wattermelonsuggar01"
+    fullname: >-
+      :/
+    bio: >-
+      🏳️‍🌈
+    location: "Peru"
+    followers: 9245
+    engagement: 1831
+    commentsToLikes: 0.007944
+    id: ckbawvuxfnahq0j23d5n6urxy
+    verified: false
+    hashtags: "#bellahadid, #riverdale, #bestfriends, #fyp"
+  - username: "kaiclementec"
+    fullname: >-
+      Kai Clemente
+    bio: >-
+      Veo cosas con mis ojos!!
+    location: "Peru"
+    followers: 33900
+    engagement: 873
+    commentsToLikes: 0.009876
+    id: ckbf3ht0orclg0j23n8oaubu1
+    verified: false
+    hashtags: "#tiktok, #funny, #foryoupage, #destacame"
+  - username: "johngarcia.19"
+    fullname: >-
+      John PG
+    bio: >-
+      Conociendo algunos lugares de mi ciudad ( Tarapoto 🌴) y editando fotos 📸
+    location: "Peru"
+    followers: 45200
+    engagement: 611
+    commentsToLikes: 0.011189
+    id: ckcdvbjgleyeh0j23lqn9p27k
+    verified: false
+    hashtags: "#fyp, #viral, #mirador, #dog"
 ---

@@ -1,84 +1,84 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Australia in 2023
+title: Top 10 Gardening TikTok Influencers In Australia In 2023
 description: >-
-  Find top gardening TikTok influencers in Australia in 2023. Most popular hashtags: #gardening #garden #plants #australia.
+  Find top gardening TikTok influencers in Australia in 2023. Most popular hashtags: #gardening #garden #australia #plants.
 platform: TikTok
-hits: 43
+hits: 39
 text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database holds 43 TikTok influencers like this in Australia for you to pitch.
+text_bottom: inBeat holds 39 TikTok influencers like this in Australia for you to pitch.
 profiles:
+  - username: "in_my_patch"
+    fullname: >-
+      In My Patch
+    bio: >-
+      Gardening, sustainability and helping beginners to grow food at home 🌱
+    location: "Australia"
+    followers: 212300
+    engagement: 1031
+    commentsToLikes: 0.007967
+    id: ck87tyjwu45kq0j78t1khdw8k
+    verified: false
+    hashtags: "#healthy, #gardenlife, #outside, #growingfood"
   - username: "ourlittlegardens"
     fullname: >-
       Chantelle
     bio: >-
       🌱 backyard things 🌱 ig: ourlittlegardens
     location: "Australia"
-    followers: 2986
-    engagement: 1478
-    commentsToLikes: 0.084300
+    followers: 2994
+    engagement: 1464
+    commentsToLikes: 0.092170
     id: ck81s77y3qidd0j78pyytploi
     verified: false
-    hashtags: "#backyardvibes, #dogsoftiktok, #mybff, #australia"
+    hashtags: "#foryou, #gardentips, #wormfarm, #gardening"
   - username: "tisregi"
     fullname: >-
       Maddy 🌷 🍄 🐝
     bio: >-
       🇦🇺 #BLM https://www.alsnswact.org.au/ Living on Darug/Gundungurra country.
     location: "Australia"
-    followers: 9277
-    engagement: 2040
-    commentsToLikes: 0.012105
+    followers: 9110
+    engagement: 1986
+    commentsToLikes: 0.010667
     id: ck9bzo0pkntky0j78s61hekdf
     verified: false
-    hashtags: "#garden, #australia, #gardening, #sewing"
+    hashtags: "#nature, #mushroom, #gardening, #australia"
   - username: "ggthegardengirl"
     fullname: >-
-      Brenda 🌱Your TikTok Gardener
+      Brenda 🌱Come garden with me !
     bio: >-
-      grow food 🌱recipes 🥣 eco ♻️ cottage garden Australia 🌻 YT vid every Friday ⬇️
+      She / Her 🌻 Tharawal Country • Sustainable Cottage Garden • YouTube video ⬇️
     location: "Australia"
-    followers: 295100
-    engagement: 1594
-    commentsToLikes: 0.009672
+    followers: 333700
+    engagement: 1256
+    commentsToLikes: 0.013704
     id: ck81qtvvljt3q0j786x19mrx5
     verified: false
-    hashtags: "#nature, #foryou, #food, #fyp"
-  - username: "in_my_patch"
-    fullname: >-
-      inmypatchaustralia
-    bio: >-
-      Helping beginners grow food🌱
-    location: "Australia"
-    followers: 86000
-    engagement: 907
-    commentsToLikes: 0.015365
-    id: ck87tyjwu45kq0j78t1khdw8k
-    verified: false
-    hashtags: "#inmypatch, #garden, #veggies, #gardening"
+    hashtags: "#foodtok, #gardentok, #gardening, #earthday"
   - username: "sam.and.wildvioletgarden"
     fullname: >-
       Sam&wildvioletgarden
     bio: >-
       Flower farmer Created an edible garden in my backyard to feed my family Aussie
     location: "Australia"
-    followers: 14900
-    engagement: 1569
-    commentsToLikes: 0.018815
+    followers: 15000
+    engagement: 1542
+    commentsToLikes: 0.018313
     id: ck8hk5f8ucgc00j78ntedwz01
     verified: false
-    hashtags: "#flowers, #gardening, #garden, #growyourown"
+    hashtags: "#aussie, #foryou, #dahlias, #australia"
   - username: "craftbugau"
     fullname: >-
       Katie
     bio: >-
       I GROW SUCCULENTS! I AM A CAT MUM & A ARTIST / CRAFTER
     location: "Australia"
-    followers: 2180
-    engagement: 681
-    commentsToLikes: 0.014612
+    followers: 2172
+    engagement: 674
+    commentsToLikes: 0.012699
     id: ckbkulhomprl40j235bvqys63
     verified: false
-    hashtags: "#catsoftiktok, #succulents, #homegarden, #growingplants"
+    hashtags: "#etsy, #propagation, #garden, #plantmail"
   - username: "benjjpayne92"
     fullname: >-
       user357167
@@ -90,31 +90,31 @@ profiles:
     commentsToLikes: 0.025831
     id: ckal6f2crauf80i78x69ldxub
     verified: false
-    hashtags: "#celebratenurses, #aussie, #country, #foryoupage"
+    hashtags: "#tradies, #aussiethings, #bedroomcheck, #celebratenurses"
   - username: "the_green_thumb01"
     fullname: >-
       emma.g
     bio: >-
       passionate about plants #hot climate growing aspiring gardener #australia
     location: "Australia"
-    followers: 6432
-    engagement: 708
-    commentsToLikes: 0.018420
+    followers: 6343
+    engagement: 824
+    commentsToLikes: 0.019105
     id: ck9r5hsz7znz60j78ud3rlqxf
     verified: false
-    hashtags: "#vibezone, #sunflower, #sunny, #ok"
+    hashtags: "#harvest, #gardening101, #australia, #satisfying"
   - username: "browsbeverlyhills_au"
     fullname: >-
       Brows Beverly Hills
     bio: >-
       Eyebrow Studio Sydney - BrowsBeverlyHills.com.au
     location: "Australia"
-    followers: 28700
-    engagement: 377
-    commentsToLikes: 0.010608
+    followers: 28300
+    engagement: 379
+    commentsToLikes: 0.009893
     id: ck9a5xly60rem0j78azazx9ko
     verified: false
-    hashtags: "#foryoupage, #gardening, #plantlover, #plants"
+    hashtags: "#fyp, #foryoupage, #plants, #gardening"
   - username: "assisted.chaos"
     fullname: >-
       Valka & Kai
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.045771
     id: ckamq1p4mfifp0i78cr1f1la2
     verified: false
-    hashtags: "#sdit, #dogtraining, #sevicedog, #servicedog"
+    hashtags: "#dogtraining, #sdit, #servicedog, #sevicedog"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Istanbul in 2023
+title: Top 10 Models Instagram Influencers In Istanbul In 2023
 description: >-
-  Find top models Instagram influencers in Istanbul in 2023. Most popular hashtags: #model #istanbul #smile #travel.
+  Find top models Instagram influencers in Istanbul in 2023. Most popular hashtags: #model #istanbul #photography #instagram.
 platform: Instagram
-hits: 196
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 196 Instagram influencers like this in Istanbul, Turkey for you to contact.
+hits: 168
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 168 Instagram influencers like this in Istanbul, Turkey for you to connect with.
 profiles:
-  - username: "ahmadi.kimiya"
+  - username: "bbellaawhite"
     fullname: >-
-      kimiya
+      Bella White 🧚🏼‍♀️🧝🏼‍♀️👽
     bio: >-
-      🧿 و فراموشی کیمیاست... 📍🇹🇷 istanbul born in 1999 IMÜ/FTR
+      LA📍 Self love 🕊 Contempo Models Mexico | Respect Models Istanbul MA: LRJ New York 💌 laura@lrjmanagement.com
     location: "Turkey"
-    followers: 12555
-    engagement: 536
-    commentsToLikes: 0.072558
-    id: ck15r91aq6r740i19gxckipw1
+    followers: 12302
+    engagement: 714
+    commentsToLikes: 0.171100
+    id: ck137cifyav000i19n4s7i7nl
     verified: false
-    hashtags: "#model, #istanbul, #modeling, #turkey"
+    hashtags: "#feelgoodfuel, #siswimsearch2021"
+  - username: "kate.xeeva"
+    fullname: >-
+      Kate Alexeeva
+    bio: >-
+      Follow ▶️ @glamboxtr 👑 Miss Latvia 🇱🇻 📸 Fashion Model 🇹🇷 Istanbul ✈️ 55 Countries
+    location: "Turkey"
+    followers: 230999
+    engagement: 211
+    commentsToLikes: 0.028011
+    id: ck5hskkqhwqs90i11zzuejemu
+    verified: true
+    hashtags: "#katexeeva, #glambox, #misslatvia, #ad"
+  - username: "tamara_v_vulovic"
+    fullname: >-
+      T A M A R A     V U L O V I Ć
+    bio: >-
+      𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗧𝗿𝗮𝗶𝗻𝗲𝗿 & 𝗠𝗼𝗱𝗲𝗹 🤸‍♀️ 📧 𝐯𝐮𝐥𝐨𝐯𝐢𝐜.𝐠𝐲𝐦@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 YouTube📽: Tamara Vulovic
+    location: "Turkey"
+    followers: 144156
+    engagement: 539
+    commentsToLikes: 0.004661
+    id: ck5c62tqi4loo0i11yyinm3ua
+    verified: false
+    hashtags: "#snow, #kopaonik, #ootd, #vezbajkodkuce"
+  - username: "gloryokings"
+    fullname: >-
+      4C NATURAL HAIR | LIFESTYLE
+    bio: >-
+      Content Creator | Part-time Model Exploring Istanbul 🇹🇷 📧gloryokings@gmail.com
+    location: "Turkey"
+    followers: 37454
+    engagement: 353
+    commentsToLikes: 0.018563
+    id: ck5q26ylcekep0i11u0oydgxb
+    verified: false
+    hashtags: "#naturalhair, #blackgirlmagic, #4cnaturalhair, #naturalhairstyles"
+  - username: "ailioska"
+    fullname: >-
+      ANDRIJANA ILIOSKA
+    bio: >-
+      From:📍Skopje,Macedonia🇲🇰 📍Currently in Istanbul 🇹🇷 - Model🌎✈️ Game changer🐍 - DM for collaboration 📩
+    location: "Turkey"
+    followers: 9835
+    engagement: 1897
+    commentsToLikes: 0.017037
+    id: ck5pwcmk1m6wl0i110tsf1qfl
+    verified: false
+    hashtags: "#cute, #girlpower, #shooting, #makeup"
   - username: "coyotetr"
     fullname: >-
       Hakkı
     bio: >-
       Only my own projects, not a commercial account.... Streetstyle ✨Playing with lights ✨ Weird places Istanbul, finance, ex-swimmer, comics addict
     location: "Turkey"
-    followers: 26878
-    engagement: 256
-    commentsToLikes: 0.068436
+    followers: 26324
+    engagement: 725
+    commentsToLikes: 0.021931
     id: ck0tuuun98rto0i19xu26c7sj
     verified: false
-    hashtags: "#streetstyle, #london, #tbt, #ballerina"
-  - username: "lalinderosa"
+    hashtags: "#tbt, #istanbul, #model, #london"
+  - username: "ahmadi.kimiya"
     fullname: >-
-      Model Istanbul
+      kimiya
     bio: >-
-      Fate loves the fearless
+      🧿21 و فراموشی کیمیاست... 📍🇹🇷 istanbul IMÜ/FTR
     location: "Turkey"
-    followers: 26160
-    engagement: 326
-    commentsToLikes: 0.080144
-    id: ck0tz3k35p1qs0i19cswxpk9v
+    followers: 13180
+    engagement: 511
+    commentsToLikes: 0.072558
+    id: ck15r91aq6r740i19gxckipw1
     verified: false
-    hashtags: "#portrait, #londonmodel, #boho, #vegangirl"
-  - username: "o_stoyanovskaya"
+    hashtags: "#modeling, #portraitphotography, #photography, #smile"
+  - username: "__bojanarmandic__"
     fullname: >-
-      Oksana Stoyanovskaya
+      Bojana Rmandic
     bio: >-
-      professional model 📍 Istanbul w @respectmodels ✉️ for cooperation: stoyanovskaya.oksana@mail.ru
+      Social Media influencer 👩‍💻 Montenegro based 🇲🇪 Istanbul 🇹🇷 Collaboration dm /email 📩
     location: "Turkey"
-    followers: 17324
-    engagement: 478
-    commentsToLikes: 0.024468
-    id: ck5c4k3t11iqm0i11dmzydfxt
+    followers: 57512
+    engagement: 191
+    commentsToLikes: 0.112405
+    id: ck5hdenmtn0t40i11goxclfwg
     verified: false
-    hashtags: ""
-  - username: "karina_pill"
+    hashtags: "#instalike, #photoshoot, #me, #followme"
+  - username: "loveforgetlove"
     fullname: >-
-      молодое алоэ
+      loveforgetlove
     bio: >-
-      CARY🦙 Belarusian girl🤍 🎤NEM!GA 🇵🇱ANGER models 📍Istanbul
+      İstanbul üniversitesi Egzersiz ve Spor Bilimleri fakültesi 🥎 ⛹️‍♂️ Kilis 7 aralık üniversitesi İş sağlığı ve güvenliği ⛑ 👨‍🎓 Akrep 🦂.
     location: "Turkey"
-    followers: 6060
-    engagement: 1288
-    commentsToLikes: 0.012607
-    id: ckaowi2e3918w0i78dnhieu87
+    followers: 16605
+    engagement: 543
+    commentsToLikes: 0.008359
+    id: ck8t8zyt7mg5g0j78l9s0vvvs
     verified: false
-    hashtags: "#yycgirl, #portswm, #fyh, #igstyles"
-  - username: "talieh_kheradmand"
+    hashtags: "#tbt, #goodnight, #liketime, #hair"
+  - username: "ignenin_sultanlari"
     fullname: >-
-      Talieh ☀️
+      RABİA & ŞENGÜL
     bio: >-
-      Fashion designer ~ Blogger ~ Model ~ Photographer 📍istanbul 🇹🇷 Animal lover 🐾🌱 founder of : @toolooria
+      🌸Sayfadaki ürünler bize ait🌸Sipariş üzerine çalışıyorum 🌸Lütfen alıntı yapmayalım 🌸Bilgi ve sipariş için DM SAMSUN
     location: "Turkey"
-    followers: 116921
-    engagement: 421
-    commentsToLikes: 0.159837
-    id: ck9wio2ry35n20j7872pc08xd
+    followers: 5284
+    engagement: 1876
+    commentsToLikes: 0.022267
+    id: ck8taxh8zthcf0j78w5581o98
     verified: false
-    hashtags: "#model, #style, #istanbul, #smile"
-  - username: "bitar"
-    fullname: >-
-      Mr Bitar محمود بيطار
-    bio: >-
-      Ḇitar is My Name Media is My Game 😉 📍🇸🇪 For business 👇📧 BITAR.VLOG@GMAIL.COM Owner 👇 @bitar_group @bitarmb @bittarsbilar @bitarstyle @bitartr
-    location: "Turkey"
-    followers: 1754028
-    engagement: 238
-    commentsToLikes: 0.034139
-    id: ck9wejr8ukkt30j782pac0xwz
-    verified: true
-    hashtags: ""
-  - username: "lorranymonteiroo"
-    fullname: >-
-      Lorrany Monteiro
-    bio: >-
-      Miss ™️ International 2020👑 Miss Brasil ™️ 2019👑 📍Istanbul 🇧🇷🇪🇸
-    location: "Turkey"
-    followers: 37151
-    engagement: 154
-    commentsToLikes: 0.029763
-    id: ck8t4lwld78i40j78xarqssjw
-    verified: false
-    hashtags: "#look, #looknoite, #lookdodia, #bday"
-  - username: "hakikicemarslan"
-    fullname: >-
-      Cem Arslan
-    bio: >-
-      🎧 Ne Sağcı, Ne Solcu, Radyocu🎙Best FM📻 🎙07:00-09:00 GAZOZ AĞACI 🎵18:00-20:00 GAZOR Menajer: ebru@ebrukaraca.com.tr Youtube: hakikicemarslan
-    location: "Turkey"
-    followers: 123223
-    engagement: 218
-    commentsToLikes: 0.029907
-    id: ck5c8dgow992u0i11x7hbnojs
-    verified: true
-    hashtags: "#camera, #retro, #shooting, #blackandwhitephotography"
-  - username: "laura.charlie.elise.verloop"
-    fullname: >-
-      𝓛𝓪𝓾𝓻𝓪 𝓒𝓱𝓪𝓻𝓵𝓲𝓮 𝓔𝓵𝓲𝓼𝓮 𝓥𝓮𝓻𝓵𝓸𝓸𝓹
-    bio: >-
-      📸:Manager @realmodelsagency 🍽:@the_dutch_foodie_ 💁🏼‍♀️:@realmodelsagency.international 🇳🇱:From Holland! 🐬: #Sealover ♑️:#Capricorn 🇹🇷:TR
-    location: "Turkey"
-    followers: 14290
-    engagement: 275
-    commentsToLikes: 0.037449
-    id: ck5q9xl2hdilf0i11affqpz2g
-    verified: false
-    hashtags: "#realmodelsagency, #turkiye, #follow, #food"
+    hashtags: "#eleme, #boh, #tasar, #turkinstagram"
 ---

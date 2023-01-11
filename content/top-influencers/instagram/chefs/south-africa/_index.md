@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In South Africa in 2023
+title: Top 10 Chefs Instagram Influencers In South Africa In 2023
 description: >-
-  Find top chefs Instagram influencers in South Africa in 2023. Most popular hashtags: #endsars #muffins #stayhome.
+  Find top chefs Instagram influencers in South Africa in 2023. Most popular hashtags: #endsars #food #valentines.
 platform: Instagram
 hits: 19
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 19 Instagram influencers like this in South Africa for you to work with.
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 19 Instagram influencers like this in South Africa for you to work with.
 profiles:
-  - username: "thesweetrebellion"
-    fullname: >-
-      The Sweet Rebellion
-    bio: >-
-      Food Scientist. Recipe Developer. Cookbook Author. Sweet Tooth. SAVEUR Best Baking & Sweets Blog Awards finalist 2018 Next Bosch Chef runner up 2020
-    location: "South Africa"
-    followers: 21450
-    engagement: 348
-    commentsToLikes: 0.088014
-    id: ck9h9rhno9o800j78zlvuui8v
-    verified: false
-    hashtags: "#sponsored, #wooliespatisserie"
-  - username: "inthemidnightkitchen"
-    fullname: >-
-      Zorah Booley | Foodtography
-    bio: >-
-      📸Food Photographer ✨Content Creator 👩🏽‍🍳Cordon Bleu Chef 📍Cape Town🇿🇦 ✨Low-FODMAP lifestyle Chocolate Sablé Recipe👇🏽👇🏽🎁
-    location: "South Africa"
-    followers: 28049
-    engagement: 303
-    commentsToLikes: 0.097533
-    id: ck0w5b3zo2sal0i19tlqpd6ws
-    verified: false
-    hashtags: "#nytimescooking, #pancakes, #feedfeed, #eeeeats"
-  - username: "davidhiggschef"
-    fullname: >-
-      David Higgs 🇿🇦
-    bio: >-
-      JHB | Chef | Marble Restaurant | Saint Restaurant | Mile8 Author | Mercedes-Benz Ambassador | TV Personality | Dave’s Kitchen - YouTube | Canyon
-    location: "South Africa"
-    followers: 27334
-    engagement: 160
-    commentsToLikes: 0.060495
-    id: ck14gy0qs7ks20i19hl1c9gok
-    verified: false
-    hashtags: "#stayhome, #staysafe, #sponsoredbymercedesbenz, #g63"
   - username: "froners"
     fullname: >-
       Wilco Froneman
     bio: >-
       📍 Dublin, Ireland 🇿🇦 Proudly South African 🏳️‍🌈 LGBTQIA+ Activist 🐾 Dog Dad 🐶 🍳 Just for Fun Home Chef 🔪 🧳 Lover of travel and culture 🗺
     location: "South Africa"
-    followers: 40626
-    engagement: 272
-    commentsToLikes: 0.013514
+    followers: 39148
+    engagement: 239
+    commentsToLikes: 0.013845
     id: ck55k0df2y68j0i11onwc4eg3
     verified: true
-    hashtags: "#rbg, #sundaycooking, #jewishfood, #foodporn"
+    hashtags: "#proudlysouthafrican, #throwback, #fbf, #thicc"
   - username: "janhendrikvanderwesthuizen"
     fullname: >-
       Jan Hendrik van der Westhuizen
     bio: >-
-      South African Michelin star chef/ Culinary Director 🇫🇷 🇿🇦 @restaurant_jan @janthejournal @restaurantkleinjan @tswalu
+      •First South African Michelin star chef @restaurant_jan 🇫🇷•Author @janthejournal •Entrepreneur/Culinary Director @restaurantkleinjan 🇿🇦•TV personality
     location: "South Africa"
-    followers: 70528
-    engagement: 190
-    commentsToLikes: 0.017890
+    followers: 76268
+    engagement: 148
+    commentsToLikes: 0.016753
     id: ck138sanchs2a0i19k7xm66kp
     verified: false
-    hashtags: "#lockdownmeals, #livingjanthejournal, #janonline, #southafrican"
-  - username: "chef_nti"
+    hashtags: "#janonline, #kalahari, #eventseason, #janinnovationstudio"
+  - username: "kelebogile_megano"
     fullname: >-
-      Chef Nti
+      KELEBOGILE
     bio: >-
-      • Enterpreneur • Sauces & Spice Lady 🍅 🥕 • Cookbook Author • TV Chef: #CelebrityMysteryBox • Restaurant @taste_kitchen_ 👇🏾SHOP👇🏾
+      Fashion | Lifestyle | Food Qualified City & Guilds Chef 👩‍🍳 TV Personality 📺🎤 📍 Cape Town | Botswana 🇧🇼🇿🇦 📧 : kelebogilemegano@gmail.com
     location: "South Africa"
-    followers: 189991
-    engagement: 34
-    commentsToLikes: 0.058899
-    id: ck0tw42dhdxkn0i19pwcmudsp
+    followers: 141249
+    engagement: 486
+    commentsToLikes: 0.007665
+    id: ck14lktpmv6zz0i19739ts6wl
     verified: false
-    hashtags: "#coveredandprotected, #chefnti, #momentumshift, #freddiemercuryhouse"
+    hashtags: "#churchgrooveslive"
   - username: "sthu_ndaba"
     fullname: >-
       Sthulile
     bio: >-
-      Political Science graduate 👩🏾‍🎓|| Founder of @the_hat_makersa 👒and @sthus.bistro.experience 🍽|| Food curator|| Chef 👩🏾‍🍳 sthulilendaba@gmail.com 🍏⚡🍊
+      Political Science graduate 👩🏾‍🎓|| @the_hat_makersa 👒and @sthus.bistro.experience 🍽|| Food curator|| Chef 👩🏾‍🍳 🍏⚡🍊
     location: "South Africa"
-    followers: 22407
-    engagement: 191
-    commentsToLikes: 0.030024
+    followers: 22620
+    engagement: 269
+    commentsToLikes: 0.015886
     id: ck5q5ti2luid80i11f0koecqr
     verified: false
-    hashtags: "#girlswithbraids, #flapjacks, #homebaking, #africaday"
+    hashtags: "#legday, #choosehappiness, #pushyourlimits, #summerdress"
+  - username: "thehealingroot_"
+    fullname: >-
+      Maria Praeg • The Healing Root
+    bio: >-
+      •Energy healing🌱 • Ayurveda✨ • YOGA therapy & teaching🧘‍♀️ • Wholefoods Chef 🥕 • Reconnecting to Divine Wild Woman Spirit 👁 • South Africa
+    location: "South Africa"
+    followers: 6069
+    engagement: 474
+    commentsToLikes: 0.100828
+    id: ck0vxn00qzplf0i198tqlamkl
+    verified: false
+    hashtags: ""
   - username: "thefoxhimself"
     fullname: >-
       Foxy P
     bio: >-
       Stand up comedian, Wedding MC & African Princes of Comedy Founder. Head Chef Tout Kitchen! For bookings email africancomedians@gmail.com
     location: "South Africa"
-    followers: 68955
-    engagement: 68
-    commentsToLikes: 0.090494
+    followers: 67656
+    engagement: 119
+    commentsToLikes: 0.062672
     id: ck5pxdc4hr8py0i11fhp1t1fv
     verified: false
-    hashtags: "#buharimustresign, #buharimustgo, #endsars, #andstill"
-  - username: "thehealingroot_"
-    fullname: >-
-      Maria Praeg • The Healing Root
-    bio: >-
-      • Energy healing🌱 • Ayurveda✨ • YOGA therapy & teaching🧘‍♀️ • Wholefoods Chef 🥕 • Reconnecting to Divine Wild Woman Spirit 👁 • South Africa BLOG👇
-    location: "South Africa"
-    followers: 6151
-    engagement: 461
-    commentsToLikes: 0.115152
-    id: ck0vxn00qzplf0i198tqlamkl
-    verified: false
-    hashtags: ""
+    hashtags: "#buharimustgo, #toutkitchen, #buharimustresign, #ginjahhhh"
   - username: "chef_fregz"
     fullname: >-
       Gbubemi Fregene
     bio: >-
       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Private Chef ⠀⠀⠀⠀⠀⠀⠀⠀⠀Passionate about Food and Life ⠀⠀⠀⠀⠀⠀⠀⠀⠀Featured on CNN "African Voices" ⠀ ✉️ : Info@cheffregz.com ⠀⠀
     location: "South Africa"
-    followers: 111424
-    engagement: 107
-    commentsToLikes: 0.034743
+    followers: 114414
+    engagement: 208
+    commentsToLikes: 0.031227
     id: ck6tu7ebyeqci0j71qk8jlogu
     verified: true
-    hashtags: "#cheffregz, #delivery, #enoughisenough, #nigerianfood"
+    hashtags: "#cheffregz, #endsars, #enoughisenough, #endsarsnow"
+  - username: "neillanthony"
+    fullname: >-
+      Neill Anthony
+    bio: >-
+      Virtual diary of the private chef in Cape Town and around the world 🌎... www.neillanthony.com
+    location: "South Africa"
+    followers: 22816
+    engagement: 336
+    commentsToLikes: 0.040738
+    id: ck5znyge0peao0i14kglzwm3b
+    verified: false
+    hashtags: "#food, #royallivekitchen, #lockdown, #privatechef"
+  - username: "chef_nti"
+    fullname: >-
+      Chef Nti 🇿🇦
+    bio: >-
+      • Author #MyMordenAfricanKitchen • 🏠 @taste_kitchen_ African Restaurant 2020 • Culinary Media Personality 2020
+    location: "South Africa"
+    followers: 193227
+    engagement: 30
+    commentsToLikes: 0.054127
+    id: ck0tw42dhdxkn0i19pwcmudsp
+    verified: false
+    hashtags: "#throwback, #esteelauder, #cheflikenti, #addatwist"
+  - username: "chefdorianhunter"
+    fullname: >-
+      Chef Dorian Hunter
+    bio: >-
+      Masterchef Season 10 Winner! First African-American female winner! I enjoy my life filled with God, family, food and fun. 👩‍🍳content creator
+    location: "South Africa"
+    followers: 39655
+    engagement: 155
+    commentsToLikes: 0.028035
+    id: ck14hqs0vbnvf0i19e4ke2eq6
+    verified: false
+    hashtags: "#culinaryequality, #chefdorianhunter, #elevatedsoul, #picoftheday"
 ---

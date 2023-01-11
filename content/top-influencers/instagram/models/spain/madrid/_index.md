@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Madrid in 2023
+title: Top 10 Models Instagram Influencers In Madrid In 2023
 description: >-
-  Find top models Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #model #friends.
+  Find top models Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #model #modelomadrid #spain.
 platform: Instagram
-hits: 288
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 288 Instagram influencers like this in Madrid, Spain for you to work with.
+hits: 231
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 231 Instagram influencers like this in Madrid, Spain for you to pitch.
 profiles:
-  - username: "ducckye"
+  - username: "josiito.12"
     fullname: >-
-      Pato
+      JOSE RUEDA 🌹
     bio: >-
-      Performer, painter & model (Madrid) Second home @intangibleser
+      📍Madrid, 20. 🎓 Técnico Deportivo. 📩 joserueda00@outlook.com
     location: "Spain"
-    followers: 15376
-    engagement: 897
-    commentsToLikes: 0.016266
-    id: ckap1g3xyug360i78uu9fenet
+    followers: 130751
+    engagement: 751
+    commentsToLikes: 0.011807
+    id: ck6tzzgrlcrcm0j71nchqj3ki
     verified: false
-    hashtags: ""
-  - username: "mariamghalmi"
+    hashtags: "#malaga, #fuengirola, #spain, #model"
+  - username: "helenwearsit"
     fullname: >-
-      Mariam Ghalmi  🧿  مريم غالمي
+      HELEN ➵ Fashion➵Beauty ➵Inspo
     bio: >-
-      Model/Actress Arab/Spanish Founder @maghalmi Co-founder @theelegancemg Somos arte de la naturaleza. 📍Madrid
+      ❉ Engineer & Fashion Blogger ✥ Collabs ➵ helenwearsit@hotmail.com ✼Shop my looks ➡️
     location: "Spain"
-    followers: 19243
-    engagement: 318
-    commentsToLikes: 0.095170
-    id: ck6ui5wznd9ck0j7147i4cm2i
+    followers: 40810
+    engagement: 117
+    commentsToLikes: 0.312956
+    id: ck55j699gwd4l0i11n32lvvkq
     verified: false
-    hashtags: "#stayathome, #exotic, #yomequedoencasa, #model"
-  - username: "soydeamalia"
-    fullname: >-
-      De Amalia
-    bio: >-
-      Aprende a preguntar antes de suponer A veces perder es ganar 🇪🇦🏴󠁧󠁢󠁥󠁮󠁧󠁿🏳️‍🌈 ❤ ALMERÍA 📍MADRID Estilista en peluquería @alexdeamalia
-    location: "Spain"
-    followers: 6070
-    engagement: 1001
-    commentsToLikes: 0.023327
-    id: ckf5r5gkcbi8r0j23fq43tx5n
-    verified: false
-    hashtags: "#2020, #gay, #moustache, #hairy"
+    hashtags: "#bohochic, #beautyblogger, #wiwtoday, #zaraoutfit"
   - username: "helen_felis"
     fullname: >-
-      modelo en españa
+      modelo en españa
     bio: >-
-      Modelo 📸 entrenador/ фитнес Тренер 🏋🏻 Дважды мама Уехала жить в Испанию 🇪🇸 Cooperación: @helena_cooperation Магазин @style_shop_uk_
+      Modelo 📸 entrenador/ фитнес Тренер 🏋🏻 Дважды мама España/ Torrevieja 🇪🇸 Cooperación: @helena_cooperation Магазин @style_shop_uk_
     location: "Spain"
-    followers: 450957
-    engagement: 89
-    commentsToLikes: 0.021477
+    followers: 405519
+    engagement: 41
+    commentsToLikes: 0.029048
     id: ck5pxa29rqszx0i11wjd6ynmd
     verified: false
-    hashtags: "#modelosvalencia, #photo, #models, #modelsspain"
-  - username: "ainhoitac"
+    hashtags: "#modelsspain, #modelomurcia, #vivo, #modelosalicante"
+  - username: "juandepacheco"
     fullname: >-
-      Ainhoa Cano
+      Juande Pacheco
     bio: >-
-      📱 Community manager 💻 😷 @finatex61 Código:”CANO10” 😻 #PetsLover 🐾 Mamá de @kitten_puchi 😽 ⚽️ Madridista como forma de vida🌟 🏆 #HalaMadrid 🏆
+      passionate. artist. human. Director y Mentor @headwaydancestudio
     location: "Spain"
-    followers: 15156
-    engagement: 453
-    commentsToLikes: 0.030277
-    id: ck13968h1jqie0i19xd2q0a97
+    followers: 12470
+    engagement: 1182
+    commentsToLikes: 0.074168
+    id: ck5c36tx5ypd00i11f05w2dfp
     verified: false
-    hashtags: "#woman, #salud, #healthylifestyle, #fashionblogger"
-  - username: "alopez_esp"
+    hashtags: "#boys, #spain, #dancer, #danceclass"
+  - username: "jordansotto1"
     fullname: >-
-      𝑨𝑮𝑼𝑺 𝑳𝑶𝑷𝑬𝒁👻
+      Jordan Sotto 👁
     bio: >-
-      🍋Embajador: @le.mon.tours 🎤| Cuenta de TikTok :+475k 📥| Colaboraciones: (DM) 📲 | (jaranaagency@gmail.com)
+      Born in Venezuela 🇻🇪 📍 bcn ⚛️
     location: "Spain"
-    followers: 39028
-    engagement: 1748
-    commentsToLikes: 0.024020
-    id: ck5qbx209nsnm0i112r4hm7p1
+    followers: 113257
+    engagement: 136
+    commentsToLikes: 0.018362
+    id: ck5q2jm7cgch10i11hrib5npg
     verified: false
-    hashtags: "#friends, #foryou, #love, #amor"
+    hashtags: "#universo, #fuente, #gracias, #instafashion"
   - username: "palomaszalai"
     fullname: >-
       🕊️
     bio: >-
-      Actriz Madrid, Spain Trabajos MD 📩 🌱
+      Actriz Madrid, Spain Trabajos MD 📩 22~44 🐺
     location: "Spain"
-    followers: 3649
-    engagement: 1494
-    commentsToLikes: 0.227582
+    followers: 4726
+    engagement: 858
+    commentsToLikes: 0.117783
     id: ck6tk3maa3xte0j71siy0i687
     verified: false
-    hashtags: "#retratoterapia, #primoraddict, #instashots, #creandojuntos"
+    hashtags: "#madridfoto, #sesiondefotosmadrid, #modelmadrid, #shootingmadrid"
   - username: "lour_homedes"
     fullname: >-
       Lourdes Homedes Ibáñez
     bio: >-
       🇪🇸SPANISH MODEL Home Madrid / From Zaragoza 🖥• Economist •Community manager •Web designer 🌈Founder of @mosscomunicacion
     location: "Spain"
-    followers: 61063
-    engagement: 294
-    commentsToLikes: 0.045445
+    followers: 61137
+    engagement: 275
+    commentsToLikes: 0.037962
     id: ck5hoovdppydn0i11r3krg8ga
     verified: false
-    hashtags: "#fitnessgirl, #modelosespan, #21buttons, #converse"
+    hashtags: "#fotografosespa, #instazaragoza, #fotografosespan, #zaragozando"
   - username: "serendipityando"
     fullname: >-
       ⭐VALERIA⭐
     bio: >-
       Valeria Ortiz Teen Model 📍Madrid ~Spain 🇪🇦 Colaboraciones 📸 por Mensaje Directo o 💌 yoyva@hotmail.es
     location: "Spain"
-    followers: 199857
-    engagement: 198
-    commentsToLikes: 0.027957
+    followers: 197936
+    engagement: 192
+    commentsToLikes: 0.029091
     id: ck602sy41iyxs0i14f42h32cj
     verified: false
-    hashtags: "#yoinsstyle, #sandals, #jordan, #sneakers"
-  - username: "sofia_remi"
+    hashtags: "#pullandbearcommunity, #filomena"
+  - username: "trisha__sg"
     fullname: >-
-      Sofia Remi
+      Trisha/ Mara
     bio: >-
-      Model curve 🇪🇸🇬🇶 Madrid/Toledo •@miah_management (mother agency) •@curvemodelmanagement •@devamodels 📩 sofiaremimm@gmail.com
+      🧜🏻‍♀️MODELO curvy alternativa 📸@maradenche_photo 💄makeup artist 👩‍🎤SG model 📍Madrid
     location: "Spain"
-    followers: 2578
-    engagement: 1535
-    commentsToLikes: 0.068852
-    id: ck5q1kozjbgf70i111gznvfv3
+    followers: 17145
+    engagement: 254
+    commentsToLikes: 0.075909
+    id: ck6uhiw6i9dq90j71nc1bf885
     verified: false
-    hashtags: "#blackmodeling, #blackmodel, #melanine, #blackskincare"
+    hashtags: "#sg, #pinkhair, #fantasyhair, #curvymodel"
+  - username: "officialnievesa"
+    fullname: >-
+      Nieves Álvarez
+    bio: >-
+      ▪️M O D E L▫️#FlashModaTVE H O S T ▪️A G E N T▫️SS&M Madrid▫️MUNICH MODELS ▪️F B @OfficialNievesA
+    location: "Spain"
+    followers: 348539
+    engagement: 141
+    commentsToLikes: 0.027350
+    id: ck0w0e0s4dpwk0i195b44wxxx
+    verified: true
+    hashtags: "#moda, #stephanerolland, #hautecouture, #fashion"
 ---

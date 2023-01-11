@@ -1,118 +1,130 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In United Kingdom in 2023
+title: Top 10 Dog Owners TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top dog owners TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #dogsoftiktok #dogs #foryoupage.
+  Find top dog owners TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #dogs #viral.
 platform: TikTok
-hits: 9
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 9 TikTok influencers like this in United Kingdom for you to pitch.
+hits: 13
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 13 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "mattgeekpride"
     fullname: >-
       Matt Geary
     bio: >-
-      Owner of Geek Pride. Massive Nerd. Bear dog owner. Boromir_Tibetanmastiff (Insta
+      Founder of Geek Pride. Massive Nerd. Bear dog owner. Boromir_Tibetanmastiff
     location: "United Kingdom"
-    followers: 17500
-    engagement: 1313
-    commentsToLikes: 0.046818
+    followers: 103900
+    engagement: 915
+    commentsToLikes: 0.032320
     id: ckav27kvs8b9h0j230i5ypinh
     verified: false
-    hashtags: "#dogs, #dog, #tibetanmastiff, #lovedogs"
+    hashtags: "#dog, #dogs, #pets, #tibetanmastiff"
   - username: "levineatlarge"
     fullname: >-
       levineatlarge
     bio: >-
       West London. Dog owner. US/UK citizen. 🏳️‍🌈🇺🇸🇬🇧🇮🇱
     location: "United Kingdom"
-    followers: 13500
-    engagement: 1111
-    commentsToLikes: 0.090076
+    followers: 14100
+    engagement: 1001
+    commentsToLikes: 0.083943
     id: ckdsly1thnicm0j23ajyd34m0
     verified: false
-    hashtags: "#foryoupage, #foryourpage, #fyp, #over40"
-  - username: "lolaanddgeorge"
+    hashtags: "#single, #over40, #fyp, #foryourpage"
+  - username: "mycavachon"
     fullname: >-
-      Bruce the cat mom
+      My Cavachon
     bio: >-
-      Daily posts 🎥 Lola (british blue) 😻 George (cavapoo) 🐶 Parents👫 📍LDN
+      MEET Oscar The Cavachon. 🎂 - 21/01/2020 Follow Him on Instagram- My_Cavachon
     location: "United Kingdom"
-    followers: 18600
-    engagement: 490
-    commentsToLikes: 0.036888
-    id: ck8qcy9hxmade0j78nssi8p8n
+    followers: 17300
+    engagement: 1380
+    commentsToLikes: 0.047626
+    id: ckcv1rrh7nts80j23ugdo75dj
     verified: false
-    hashtags: "#catmeetsdog, #cat, #doglovers, #dogperson"
+    hashtags: "#dogtheft, #dogsoftiktok, #doggo, #1000poundsisters"
+  - username: "simonboucher6"
+    fullname: >-
+      simonboucher
+    bio: >-
+      🇬🇧 Comedy 🤣🤣 Over 50 🤦🏻‍♂️ Funny is good Like to duet 😃🎬
+    location: "United Kingdom"
+    followers: 27100
+    engagement: 1872
+    commentsToLikes: 0.513195
+    id: ckcprku12lfku0j23vm0zb9tf
+    verified: false
+    hashtags: "#reallife, #bobbyball, #openthedoor, #datingredflags"
+  - username: "curvyblackwitchreacts"
+    fullname: >-
+      J.Rochelle
+    bio: >-
+      🇯🇲32🇬🇧 🏳️‍🌈 She/Her🏳️‍🌈 Ca$h@pp-Curvyblackwitch Laughs and Truths 💙
+    location: "United Kingdom"
+    followers: 82500
+    engagement: 2419
+    commentsToLikes: 0.152304
+    id: ckb19cjw6xd3k0j234jell84n
+    verified: false
+    hashtags: "#trend, #food, #jokes, #spiritualtok"
+  - username: "aaliy0h_"
+    fullname: >-
+      aaliy0h_
+    bio: >-
+      Instagram | @aaliy0h Youtube | Aaliyah Rose Aaliyahroseyt@gmail.com
+    location: "United Kingdom"
+    followers: 31000
+    engagement: 1111
+    commentsToLikes: 0.015442
+    id: ckbw90aotzfmm0j23c85fvbg7
+    verified: false
+    hashtags: "#idothisformysquadidothisformygang, #idothisformysquad, #girlsnightout, #oneforthegals"
+  - username: "danika_does_makeup"
+    fullname: >-
+      Danika Dixon
+    bio: >-
+      Kent, UK 🇬🇧 I 22 I TikTok & Makeup Enthusiast
+    location: "United Kingdom"
+    followers: 4722
+    engagement: 577
+    commentsToLikes: 0.022585
+    id: ckbff574v9oel0j230cr53e3o
+    verified: false
+    hashtags: "#comedy, #prosperity, #uktiktok, #pov"
+  - username: "itsafairytale95"
+    fullname: >-
+      Amy✨
+    bio: >-
+      flung out of space✨ Press on nail business owner💅🏼 25💍 Gay🏳️‍🌈 she/her 🇬🇧
+    location: "United Kingdom"
+    followers: 7125
+    engagement: 1570
+    commentsToLikes: 0.159806
+    id: ckbff5im49qez0j23lkgpg2pp
+    verified: false
+    hashtags: "#smallbusiness, #smallbusinesscheck, #pictureday, #lesbian"
   - username: "dachconureduckchicklady"
     fullname: >-
       Crazy bird lady
     bio: >-
-      3 dachshund 14 duck 28 chicken 1 conure owner ❤️🐶🐔🦆🦜❤️
+      1 dachshund 10 duck 28 chicken 1 conure owner ❤️🐶🐔🦆🦜❤️
     location: "United Kingdom"
-    followers: 2775
-    engagement: 1637
-    commentsToLikes: 0.090288
+    followers: 2764
+    engagement: 1955
+    commentsToLikes: 0.046537
     id: ckb97buefq0u10j23pifwmshe
     verified: false
-    hashtags: "#sweetie, #birb, #funny, #pineappleconure"
-  - username: "pipgoz"
+    hashtags: "#love, #odie, #original, #fyp"
+  - username: "realbrendananderson"
     fullname: >-
-      Pip
+      Brendan Anderson
     bio: >-
-      Single Mum Murder Mystery Actress Author Business Owner - Pipsqueakparty.co.uk
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 28 Motivation and Inspiration Property Investment Company Owner
     location: "United Kingdom"
-    followers: 10900
-    engagement: 2183
-    commentsToLikes: 0.056768
-    id: ckcj8czil73ro0j23eiecclra
+    followers: 32800
+    engagement: 1190
+    commentsToLikes: 0.059479
+    id: ckbasjj5ej5w60j23frpghjkg
     verified: false
-    hashtags: "#kitten, #cutekitten, #slimeprofessional, #catsoftiktok"
-  - username: "thatlabtrio"
-    fullname: >-
-      Labs of TikTok
-    bio: >-
-      UK 🇬🇧 The life of labradors (and their owners)
-    location: "United Kingdom"
-    followers: 7708
-    engagement: 1683
-    commentsToLikes: 0.011560
-    id: cka6arnezxip50i78yxrlo4nr
-    verified: false
-    hashtags: "#fyp, #foryoupage, #dogsoftiktok, #puppylove"
-  - username: "olivervan1"
-    fullname: >-
-      Oliver Van
-    bio: >-
-      Proud owner of YaDaIsUrMa Dr of Thuganomics Get @ ballyonwigginz 10k?
-    location: "United Kingdom"
-    followers: 8568
-    engagement: 1228
-    commentsToLikes: 0.026583
-    id: ckaig29yczla20i78oz9i29qu
-    verified: false
-    hashtags: "#memes, #meme, #foryoupage, #comedy"
-  - username: "stressedpetowner"
-    fullname: >-
-      stressed pet owner
-    bio: >-
-      heres some vids staring lewis the border collie rorschach the bengal & k9 þe cat
-    location: "United Kingdom"
-    followers: 33600
-    engagement: 1086
-    commentsToLikes: 0.047460
-    id: ckd06y9t8ag640j238sv64wum
-    verified: false
-    hashtags: "#duet, #bordercollie, #cat, #dog"
-  - username: "emilybailey1234"
-    fullname: >-
-      Emilypee28
-    bio: >-
-      Life is a bundle of laughs 😁
-    location: "United Kingdom"
-    followers: 6103
-    engagement: 1622
-    commentsToLikes: 0.012876
-    id: ck960lg8qiuxg0j78dcmrqrgc
-    verified: false
-    hashtags: "#cute, #equestrian, #equestriangirl, #shetland"
+    hashtags: "#fyp, #tiktok, #foryoupage, #businessowner"
 ---

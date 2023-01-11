@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In France in 2023
+title: Top 10 Dancers TikTok Influencers In France In 2023
 description: >-
-  Find top dancers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #foryou #dance.
+  Find top dancers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #dance #foryou.
 platform: TikTok
-hits: 62
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 62 TikTok influencers like this in France for you to connect with.
+hits: 85
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 85 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "myriamkermia"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🇫🇷 French dancer 🇫🇷 ✌️22 ✌️ ✉️ myriam.krm@gmail.com ✉️
     location: "France"
-    followers: 31500
-    engagement: 2462
-    commentsToLikes: 0.049976
+    followers: 33300
+    engagement: 1875
+    commentsToLikes: 0.058972
     id: ckbfew57698a10j23lkkof2lq
     verified: true
-    hashtags: "#pourtoi, #humour, #fyp, #tournage"
+    hashtags: "#dance, #ad, #fyp, #pourtoi"
+  - username: "leo.polo"
+    fullname: >-
+      Léo Polo
+    bio: >-
+      Dancer in 🇫🇷&🇺🇸, Instagram : leo.danse
+    location: "France"
+    followers: 42600
+    engagement: 2369
+    commentsToLikes: 0.014887
+    id: ckcvjogw0x5rl0j23slh1le2a
+    verified: false
+    hashtags: "#fyp, #vlog, #foryou, #happybirthday"
   - username: "enzogco"
     fullname: >-
       Enzo
     bio: >-
-      French Dancer Insta: enzogco
+      French Dancer Insta: enzogco YouTube ⬇️
     location: "France"
-    followers: 80900
-    engagement: 1988
-    commentsToLikes: 0.033881
+    followers: 79900
+    engagement: 1935
+    commentsToLikes: 0.029377
     id: ckbatpsnekan70j23lym84cw6
     verified: false
-    hashtags: "#afrodance, #pourtoi, #fyp, #dance"
+    hashtags: "#afrodance, #dancechallenge, #pourtoi, #fyp"
   - username: "diodjoofficial1901"
     fullname: >-
       Dio 🕺🃏
     bio: >-
       Just a weirdo ,love yourself ACTING X DANCE X LGBT Dancer 🇫🇷🇵🇹
     location: "France"
-    followers: 16300
-    engagement: 1596
-    commentsToLikes: 0.076305
+    followers: 16400
+    engagement: 1308
+    commentsToLikes: 0.068572
     id: cka6nb8f6ap3b0i78tb3sbfto
-    verified: false
-    hashtags: "#fyp, #pourtoi, #foryou, #dance"
-  - username: "leo.polo"
-    fullname: >-
-      Léo Polo
-    bio: >-
-      Dancer in 🇫🇷&🇺🇸, 14 years, Instagram : leo.danse
-    location: "France"
-    followers: 44800
-    engagement: 2434
-    commentsToLikes: 0.014170
-    id: ckcvjogw0x5rl0j23slh1le2a
     verified: false
     hashtags: ""
   - username: "jeremymarquet_"
     fullname: >-
       jeremymarquet_
     bio: >-
-      Dancer 💎 Insta: jeremymarquet_ YouTube: Jeremy Marquet 🔥🔥🔥✌️ Go 🧡
+      Dancer 🕺 ♊️ Insta: jeremymarquet_ 🇫🇷🔥
     location: "France"
-    followers: 13400
-    engagement: 1187
-    commentsToLikes: 0.111620
+    followers: 13500
+    engagement: 1067
+    commentsToLikes: 0.108675
     id: ck8zasmnh2tn90j783y8awg68
     verified: false
-    hashtags: "#foryou, #makemefamous, #summer, #4you"
+    hashtags: "#dancing, #foryou, #tiktok, #pourtoii"
   - username: "ornellux__"
     fullname: >-
       Ornellux
     bio: >-
       19 years old, longboard dancer , try to be speedcuber , and a bit pianist 🖤
     location: "France"
-    followers: 2552
-    engagement: 1532
-    commentsToLikes: 0.028465
+    followers: 2538
+    engagement: 1290
+    commentsToLikes: 0.027124
     id: ckb0rha1qgzws0j23dk33yo64
     verified: false
-    hashtags: "#skategirl, #frenchriviera, #duo, #pourtoi"
-  - username: "julienolr"
-    fullname: >-
-      jujuuuuuu🤡
-    bio: >-
-      DM ME PLEASE I’M BORED @julienolr ⬆️ DANCER FR [15 yo] 65K🦂
-    location: "France"
-    followers: 64800
-    engagement: 2723
-    commentsToLikes: 0.018107
-    id: ck9n4v76k5s4r0j78tij09r0s
-    verified: false
-    hashtags: "#pourtoi, #fyp, #omegle, #100layers"
+    hashtags: "#skateboard, #duo, #skategirl, #fy"
   - username: "alleexxiiar"
     fullname: >-
       moi c’est alex
     bio: >-
-      16y 💃🏼 Dancer 💃🏼 10k merci !!😲 Abonne toi on s’amuse comme on peut
+      16y 💃🏼 Dancer 💃🏼 Spam: @alexiarbd
     location: "France"
-    followers: 10200
-    engagement: 2603
-    commentsToLikes: 0.024937
+    followers: 10000
+    engagement: 2457
+    commentsToLikes: 0.024049
     id: ck9ntfwqki6co0j78efytdkvy
     verified: false
-    hashtags: "#pourtoi, #fyp, #trend, #challenge"
-  - username: "helenearies"
+    hashtags: "#pourtoi, #fyp, #trend, #friends"
+  - username: "rj.dance"
     fullname: >-
-      Helenearies
+      ✘ Robin & Julie ✘
     bio: >-
-      Instagram : helenearies ✨ Coach sportive et Pole Dancer 🩰
+      COUPLE DANCERS Insta: Robin.santelli/Julie.mqs 100K🙏🏻 📍NARBONNE
     location: "France"
-    followers: 236100
-    engagement: 1756
-    commentsToLikes: 0.022799
-    id: ck9v740xh4mwp0j78jzie2d6d
+    followers: 43900
+    engagement: 1310
+    commentsToLikes: 0.045181
+    id: ckbf150l2n3n50j236t9ifrkg
     verified: false
-    hashtags: "#french, #fitness, #halloween, #polerina"
-  - username: "nnkvt"
+    hashtags: "#pourtoi, #humour, #fun, #challenges"
+  - username: "bboyjunioroff"
     fullname: >-
-      anouk🐉🌙🤍
+      BboyJuniorOff
     bio: >-
-      🌈 ☁️french ballet dancer 🤍passionate about fashion
+      Professional Dancer from Wanted Posse /Flying Steps / Red Bull Dancers Team
     location: "France"
-    followers: 3316
-    engagement: 1546
-    commentsToLikes: 0.018559
-    id: ckblg0p4k9rq30j2377vt58k1
+    followers: 5796
+    engagement: 743
+    commentsToLikes: 0.038829
+    id: ck9kfggsj3ctu0j78hbmik1ma
     verified: false
-    hashtags: "#fyp, #ballerina, #ballet, #foryou"
+    hashtags: "#challengeoftheday, #pourtoi, #jerestechezmoi, #poolchallenge"
+  - username: "zaffar_liquifire"
+    fullname: >-
+      Zaffar Liquifire
+    bio: >-
+      Dancer And Choreographer ✌🏻🕺🏻 Follow Me On Insatagram Zaffar_liquifire 🇮🇳+🇫🇷
+    location: "France"
+    followers: 56800
+    engagement: 641
+    commentsToLikes: 0.105305
+    id: ck900y9c8azzk0j78tjfz31yl
+    verified: false
+    hashtags: "#parisfrance, #foryoupage, #hindisoundtrack, #tiktokeuropean"
 ---

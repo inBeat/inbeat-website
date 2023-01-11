@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Chile in 2023
+title: Top 10 Beauty Instagram Influencers In Chile In 2023
 description: >-
-  Find top beauty Instagram influencers in Chile in 2023. Most popular hashtags: #nyxcosmeticschile #urbandecaychile #makeup.
+  Find top beauty Instagram influencers in Chile in 2023. Most popular hashtags: #makeup #love #maquillaje #skincare.
 platform: Instagram
-hits: 224
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 224 Instagram influencers like this in Chile for you to connect with.
+hits: 220
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 220 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "fernandamessenet"
-    fullname: >-
-      Feña Messenet
-    bio: >-
-      💜 ғ ᴇ ᴍ ɪ ɴ ɪ s ᴛ ᴀ 💚 📍 𝑀𝑎𝑑𝑒 𝑖𝑛 Cʜɪʟᴇ 🇨🇱 💁🏼‍♀️💅🏻 @seven_beautybar 💌 ғᴄᴍᴇssᴇɴᴇᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ
-    location: "Chile"
-    followers: 16950
-    engagement: 716
-    commentsToLikes: 0.080859
-    id: ckaoqr4s9jzcp0i78jbe7ytyp
-    verified: false
-    hashtags: ""
   - username: "valemiaaaaau"
     fullname: >-
-      Valentina 💕 ÚNICA CUENTA
+      Valentina Leni 💕
     bio: >-
-      ▫️Cosmetologa, MUA & Beauty Blogger 🇨🇱 ▫️Maquillaje, skincare & cabello 💕 ▫️Mami primeriza de Vicente 👶 ▫️valentina.leni@live.com 💌
+      Cosmetologa, MUA & Beauty blogger 🇨🇱 Maquillaje/ Skincare/ Cabello/ Reseñas💘 Psicologa y mamá de Vicente👩‍👦 valentina.leni@live.com 💌 Stgo, Chile📍
     location: "Chile"
-    followers: 22264
-    engagement: 519
-    commentsToLikes: 0.448580
+    followers: 23799
+    engagement: 427
+    commentsToLikes: 0.401485
     id: ck1382qs7e85m0i19qjp0c1lo
     verified: false
-    hashtags: "#muachilena, #makeupcommunity, #santiago, #nyxcosmeticschile"
-  - username: "angielistica"
-    fullname: >-
-      Angie 🌈 CUENTA ÚNICA!
-    bio: >-
-      📍SCL | Abogada 👩🏼‍⚖️ | beauty blogger 🐰 #CRUELTYFREE | vegetariana 🥦 💌 Collabs/PR: angielistica@gmail.com 💄 Clases de automaquillaje
-    location: "Chile"
-    followers: 19189
-    engagement: 461
-    commentsToLikes: 0.189560
-    id: ck5zyem3c9qsw0i14p6g8wtvd
-    verified: false
-    hashtags: "#chilegram, #nyxcosmetics, #crueltyfree, #halloween"
+    hashtags: "#benebabe, #bloggerchilena, #influencerchilena, #muachilena"
   - username: "pascalealvo_makeup"
     fullname: >-
       Pascale Alvo Makeup
     bio: >-
-      Makeup NO DM ✖️ info a pascalealvomakeup@gmail.com 🇨🇱STGO Beauty content creator #maquillaje
+      Makeup NO DM ✖️ info a pascalealvomakeup@gmail.com @bigg.fitcl 🏋️‍♀️ 🇨🇱STGO Beauty content creator #maquillaje
     location: "Chile"
-    followers: 24886
-    engagement: 388
-    commentsToLikes: 0.273467
+    followers: 24636
+    engagement: 287
+    commentsToLikes: 0.185983
     id: ck5pwoyabnvbo0i11jzwapkl0
     verified: false
-    hashtags: "#love, #maccosmeticschile, #lorealchile, #diorchile"
-  - username: "niloalexis"
+    hashtags: "#maquilladorachilena, #inglotchile, #beautiful, #inbeautmag"
+  - username: "micamurua"
     fullname: >-
-      𝑫𝑨𝑵𝑰𝑳𝑶 𝑴𝑷 💫
+      
     bio: >-
-      ✨Me gusta bailar, maquillarme y confeccionar ropita ⚡️Embajadore de @lolita.pelucas , @beautybaby.store y @m00n.sstore ❤️
+      📌BsAs, Argentina Model / Holistic Health / Beauty New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool 📚
     location: "Chile"
-    followers: 2790
-    engagement: 1481
-    commentsToLikes: 0.126893
-    id: ckf5olnns2s3f0j23842xchi9
+    followers: 23851
+    engagement: 336
+    commentsToLikes: 0.145892
+    id: ck139t27qmz500i19t1yqfv2v
     verified: false
-    hashtags: "#l4l, #makeup, #2020, #style"
-  - username: "carlinjancen"
+    hashtags: "#stbarths, #goldenhour, #stbarth, #lookoftheday"
+  - username: "ivisimunovic"
     fullname: >-
-      Jancen 🍒
+      Ivana Simunovic
     bio: >-
-      🦋 “Half of her beauty is her brain” Since 02’ Bussines: carlinbjancen@gmail.com
+      • Fαѕнισи, Вєαυту & Lιfєѕтуℓє • . 👩‍💻 Ingeniera Comercial 🐣🎀 Mom ❤️ @jorgepichara 🐾 Animal Lover #momlife #beautytips #fashion #lifestyle
     location: "Chile"
-    followers: 5835
-    engagement: 1672
-    commentsToLikes: 0.021880
-    id: ck8tco74a03rx0j78qfpoq8n4
+    followers: 20390
+    engagement: 217
+    commentsToLikes: 0.051666
+    id: ck5zlyiv6llbl0i148dghdbf8
     verified: false
-    hashtags: "#instasantiago, #muasupport, #selfcarethreads, #picsarttutorial"
-  - username: "darielannisssss"
+    hashtags: "#look, #fashion, #love, #ootd"
+  - username: "isaacmachoph"
     fullname: >-
-      Dariel Élannis Nova Briones 🖤
+      Isaac Macho
     bio: >-
-      @freshandclean07 👟 @octubreveinticuatro 💍 Embajadora de ✨ @nailsby.cv 💅 @_chloe.cl 👗 @beauty.obsession._ 💄
+      Jesus Follower Fotógrafo y Retocador Fashion | Beauty | Commercial - VENEZUELA 📍 Zulia, Ciudad Ojeda
     location: "Chile"
-    followers: 31990
-    engagement: 821
-    commentsToLikes: 0.007833
-    id: ckf5m9s6fsvkx0j23xks8grp1
+    followers: 8864
+    engagement: 279
+    commentsToLikes: 0.060978
+    id: ck8t54ldt8qzp0j78kt4wpd5v
     verified: false
-    hashtags: ""
-  - username: "nicoputz"
+    hashtags: "#infinitecolorpanel, #beautyeditorial, #rainspiration, #macro"
+  - username: "carlagasic"
     fullname: >-
-      Nicole Putz
+      Carla Gasic
     bio: >-
-      📍SCL Cofounder & Creative Director @amuletteskin Tiktok: nico.putz Fashion & beauty 24/7 | chilena #🇨🇱 |
+      Makeup Artist. Film, TV, SFX, Beauty Celebrities
     location: "Chile"
-    followers: 177895
-    engagement: 201
-    commentsToLikes: 0.013013
-    id: ck15q5ihf17ao0i19n1rb3k1h
-    verified: true
-    hashtags: "#tommychile, #goodgirlchny, #girlbosses, #sfera"
-  - username: "queandaibonita"
-    fullname: >-
-      ELENA ♥ Cruelty Free Blogger
-    bio: >-
-      👩🏻‍🎓 Arquitecta | mua | beauty blogger 💅🏻 #CRUELTYFREE 🌱 vegetariana 🖤 Norma 🐾 Yuki 🤍 💌 elena.gacitua@gmail.com ⠀⠀ Lee mi último post aquí👇🏻
-    location: "Chile"
-    followers: 40584
-    engagement: 600
-    commentsToLikes: 0.082756
-    id: ck15s6o1tbhpk0i19htvuwuor
+    followers: 42218
+    engagement: 133
+    commentsToLikes: 0.052629
+    id: ck5hofvcrphno0i11llrldisl
     verified: false
-    hashtags: "#urbandecay, #urbandecaychile, #crueltyfreemakeup, #makeupchile"
-  - username: "josefinariadi_"
+    hashtags: "#imitadores, #campa, #sebastiansichel, #makeup"
+  - username: "breakeven18"
     fullname: >-
-      ᴊᴏsᴇғɪɴᴀ ʀɪᴀᴅɪ
+      Fran Yañez 🎀
     bio: >-
-      ★Closet Sale en @elclosetdejosefina_ ♻️ ☆@estugira.com.travel ★@thequeen.bnails ☆@altagracia.beautystore Tco, Chile🇨🇱
+      Lifestyle & Beauty Lover 💄 Kiki & Coco 🐥♥️🐥 EN Translator & Interpreter / Mktg
     location: "Chile"
-    followers: 6332
-    engagement: 676
-    commentsToLikes: 0.040157
-    id: ck134zk3gyyq60i19n0hqn1x9
+    followers: 3744
+    engagement: 626
+    commentsToLikes: 0.076044
+    id: ckapazph3y2yt0i787gakuarg
     verified: false
-    hashtags: "#chilegram, #happymoments, #quarantinemood, #goodday"
+    hashtags: "#makeup, #beauty, #colorfulmakeup, #makeupartist"
+  - username: "nicosibilia"
+    fullname: >-
+      L I F E S T Y L E ✨
+    bio: >-
+      Hair artist @sibilia_cl 💥 @nicosibilia.hairdresser Beauty expert @sibilia.clinic Fotografía Decoración Vegetariano @grupo_sibilia
+    location: "Chile"
+    followers: 17012
+    engagement: 316
+    commentsToLikes: 0.019612
+    id: ck6u9nrx2yl7i0j71rrel6bn0
+    verified: false
+    hashtags: "#tulum, #cancun, #cozumel, #holbox"
+  - username: "estiloemily"
+    fullname: >-
+      EMILY PÉREZ
+    bio: >-
+      Soy periodista y hablo de beauty Piel mixta a grasa + acné ✉️ hello@estiloemily.com 📍 Santiago, Chile Podcast La Hora Beauty 👇🏻
+    location: "Chile"
+    followers: 38270
+    engagement: 157
+    commentsToLikes: 0.155389
+    id: ckap54v3da7lp0i78jnf2xgur
+    verified: false
+    hashtags: "#narschile, #lahorabeauty, #lifestyle, #beauty"
+  - username: "eluniverso.defran"
+    fullname: >-
+      ☆ FRAN ☆
+    bio: >-
+      YouTuber #beauty #skincare #vlogs 🇨🇱 ↳ ElUniversodeFRAN | Fran y Chris CEO @manevi.cl 🔮 👇🏻CÓMO COMPRAR AL EXTRANJERO?👇🏻
+    location: "Chile"
+    followers: 47054
+    engagement: 937
+    commentsToLikes: 0.031828
+    id: ck15uhpufn8vk0i190wuu7ja5
+    verified: false
+    hashtags: "#rarebeauty, #selenagomez, #glowyskin, #makeupnomakeup"
 ---

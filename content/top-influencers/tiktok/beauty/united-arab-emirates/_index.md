@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United Arab Emirates in 2023
+title: Top 10 Beauty TikTok Influencers In United Arab Emirates In 2023
 description: >-
-  Find top beauty TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #fyp #foryou #dubai #beauty.
+  Find top beauty TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #foryou #fyp #beauty #fashion.
 platform: TikTok
-hits: 91
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 91 TikTok influencers like this in United Arab Emirates for you to connect with.
+hits: 72
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 72 TikTok influencers like this in United Arab Emirates for you to pitch.
 profiles:
   - username: "leanneeverett"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       لِيان Fashion/Beauty/Lifestyle Creator/Model Follow all my social media😘
     location: "United Arab Emirates"
-    followers: 70900
-    engagement: 560
-    commentsToLikes: 0.068721
+    followers: 74700
+    engagement: 484
+    commentsToLikes: 0.063764
     id: ck81s14qwp99s0j78q7unea3a
     verified: false
-    hashtags: "#fameopportunity, #thisstyle, #fyp, #tuckinyourshirt"
+    hashtags: "#fashionstatement, #itsallinthedetails, #2021colors, #101"
   - username: "isabelle_sk"
     fullname: >-
       Isabelle.sk
     bio: >-
       Fashion/ beauty /travel 🇦🇪 to the world Instagram @isabelle.sakaian
     location: "United Arab Emirates"
-    followers: 44900
-    engagement: 246
-    commentsToLikes: 0.037615
+    followers: 44000
+    engagement: 238
+    commentsToLikes: 0.037732
     id: ckb9extlz31b70j23z88zgzew
     verified: false
-    hashtags: "#beauty, #dubai, #skincare, #skincareroutine"
+    hashtags: "#isabellesk, #fashion, #fyp, #tiktoktravel"
   - username: "karina_kuckoo"
     fullname: >-
       Karina Kuckoo
     bio: >-
       Dubai 🇦🇪 Lifestyle|Beauty|Fashion Follow my IG @karina_kuckoo
     location: "United Arab Emirates"
-    followers: 37500
-    engagement: 1081
-    commentsToLikes: 0.035244
+    followers: 36900
+    engagement: 1044
+    commentsToLikes: 0.034315
     id: ck9enx5roli9y0j78ih5tkhpk
     verified: false
-    hashtags: "#todayoutfit, #quarantinelife, #myquaratinetime, #outfitidea"
-  - username: "missmimifashion"
+    hashtags: "#dubailife, #tiktokdubai, #outfitidea, #dubai"
+  - username: "marmoora.7"
+    fullname: >-
+      Mary J
+    bio: >-
+      🇦🇲🇱🇧 📍Dubai Fashion | Beauty | Sneakers👟
+    location: "United Arab Emirates"
+    followers: 2331
+    engagement: 494
+    commentsToLikes: 0.046834
+    id: ckb9oodrhj8300j237li7udcz
+    verified: false
+    hashtags: "#shoeaddict, #styling, #dubai, #viral"
+  - username: "aminatibi"
     fullname: >-
       Amina Tibi
     bio: >-
       Fashion | Beauty | Lifestyle Here for fun 💃🏻 IG @missmimifashion
     location: "United Arab Emirates"
-    followers: 15100
-    engagement: 438
-    commentsToLikes: 0.020018
+    followers: 15200
+    engagement: 431
+    commentsToLikes: 0.019167
     id: cka0mtq1fwrnc0i78ubrzim5z
     verified: false
-    hashtags: "#foryou, #dubai, #pregnantstyle, #tiktokarabia"
+    hashtags: "#pregnantstyle, #fyp, #dubai, #pregnantfashion"
   - username: "beautybuttonapp"
     fullname: >-
       Beauty Button App
     bio: >-
       All things BEAUTY & WELLNESS related ✨
     location: "United Arab Emirates"
-    followers: 5217
-    engagement: 411
-    commentsToLikes: 0.064205
+    followers: 5223
+    engagement: 421
+    commentsToLikes: 0.050309
     id: ckbqepzxk0gzc0j236b5ou14e
     verified: false
-    hashtags: "#hairstyle, #makeuphacks, #beautysecrets, #wap"
-  - username: "sophiekatirai"
+    hashtags: "#glowup, #beautybuttonapp, #fy, #selfcare"
+  - username: "_tanvi_tarani"
     fullname: >-
-      sophie
+      tanvi 
     bio: >-
-      Sophie💄صوفي Makeup & Beauty 📍Dubai 🇦🇪
+      Proud to be an Indian🇮🇳. Happiness in my life 😊 wish me on 4th Dec #TanviAct 
     location: "United Arab Emirates"
-    followers: 11600
-    engagement: 427
-    commentsToLikes: 0.018911
-    id: ckbf39t05qzg70j23r4sexbv8
+    followers: 48500
+    engagement: 1447
+    commentsToLikes: 0.043894
+    id: ckbad5wkh5iju0j23srfcujv1
     verified: false
-    hashtags: "#viral, #makeuptutorial, #makeup, #catfishchallenge"
-  - username: "sabahatmughal1"
+    hashtags: "#lockdown, #india, #tanviact, #foruyou"
+  - username: "itz_naz_"
     fullname: >-
-      SAM
+      Naaz
     bio: >-
-      Target 50K Followers 😍
+      ✨Leave a little Sparkle wherever you go✨
     location: "United Arab Emirates"
-    followers: 35400
-    engagement: 1248
-    commentsToLikes: 0.045535
-    id: cka0hb5al8flf0i78g9c937fi
+    followers: 703100
+    engagement: 1162
+    commentsToLikes: 0.057250
+    id: ckbatpuuzkb920j23ahlknt2b
     verified: false
-    hashtags: "#foryoupage, #challenge, #follow, #vivoy51style"
+    hashtags: "#style, #trending, #beach, #sound"
   - username: "osmium08"
     fullname: >-
       Mahi
     bio: >-
       🤪Instagram: osmium08🤪 ⭐Abu dhabi⭐ Arts || Style || Fashion || Travel || Photos
     location: "United Arab Emirates"
-    followers: 63200
-    engagement: 481
-    commentsToLikes: 0.036194
+    followers: 62600
+    engagement: 455
+    commentsToLikes: 0.030006
     id: ckavm14mevmbx0j23t23pjtlw
     verified: true
-    hashtags: "#contentcreator, #fashionweek, #fashionhacks, #homeconcert"
-  - username: "hudabeauty"
+    hashtags: "#howwesayit, #beautymode, #shecan2020, #stylenotfashion"
+  - username: "_crackedlight_"
     fullname: >-
-      Huda Beauty💄
+      𝒜𝑒𝓈𝓉𝒽𝑒𝓉𝒾𝒸
     bio: >-
-      IG & YT & SC: Hudabeauty
+      𝔸𝕝𝕞𝕠𝕟𝕕 𝕄𝕚𝕝𝕜 ✩ッ. Thanks everyone for your love ♥️ and Support🥰
     location: "United Arab Emirates"
-    followers: 2600000
-    engagement: 1146
-    commentsToLikes: 0.010130
-    id: ck7zoyq16mhvf0j78gf537m60
-    verified: true
-    hashtags: "#foryoupage, #asmr, #beauty, #foryourpage"
-  - username: "gehnaadvani1"
-    fullname: >-
-      Gehna Advani
-    bio: >-
-      Do you have me on INSTAGRAM? @gehnaadvani 👻 : Gehna1 📧 higehna@gmail.com
-    location: "United Arab Emirates"
-    followers: 14000
-    engagement: 414
-    commentsToLikes: 0.055146
-    id: ckb9lqcsoehbu0j23o824yapk
+    followers: 50400
+    engagement: 842
+    commentsToLikes: 0.007438
+    id: ckc8fq1udaex20j23nncrk04t
     verified: false
-    hashtags: "#louisvuitton, #viral, #fyp, #motd"
+    hashtags: "#foryou, #vibes, #brokenheart, #nature"
 ---

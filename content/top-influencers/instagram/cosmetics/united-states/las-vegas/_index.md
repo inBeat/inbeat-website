@@ -1,36 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Las Vegas in 2023
+title: Top 10 Cosmetics Instagram Influencers In Las Vegas In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #cosmetics #skincare #beauty.
+  Find top cosmetics Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #lasvegasmakeupartist #mua #undiscoveredmuas.
 platform: Instagram
-hits: 22
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 22 Instagram influencers like this in Las Vegas, United States for you to connect with.
+hits: 24
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 24 Instagram influencers like this in Las Vegas, United States for you to collaborate.
 profiles:
-  - username: "kristiniadeb"
-    fullname: >-
-      Kristinia DeBarge
-    bio: >-
-      Double platinum Recording Artist Ceo/Founder of @krissydcos DM me for Credit Repair! NEW MUSIC DROPS SOON! Follow my recipes @mealswithkrissy 💕🙏🏽
-    location: "United States"
-    followers: 146836
-    engagement: 119
-    commentsToLikes: 0.038636
-    id: ck8t0ix9js7rb0j782z18o6yh
-    verified: true
-    hashtags: "#krissydcosmetics, #krissydcos, #makeuplovers, #vegas"
   - username: "chelseymac_"
     fullname: >-
-      Chelsey Mac
+      Chelsey Mac Johnson
     bio: >-
-      💍 @zachjaydtd 🇨🇦Ⓥ in Las Vegas Cosmetic Tattoo @thirtxxn #mikmaq #samehere Esthetician since 2005 Graphic Designer & Amateur 📸 @fangbloodlust 🐺
+      💍 Wife to @zachjaydtd 🐺 Mom to @fangbloodlust 🇨🇦Ⓥ in Las Vegas Cosmetic Tattoo @thirtxxn Esthetician since 2005 Graphic Designer & Amateur 📸
     location: "United States"
-    followers: 37311
-    engagement: 320
-    commentsToLikes: 0.052976
+    followers: 37649
+    engagement: 326
+    commentsToLikes: 0.047579
     id: ck5hkldrbimt20i11e8sielul
     verified: false
-    hashtags: "#womenwithtattoos, #lasvegaspmu, #thirtxxn, #inkedgirls"
+    hashtags: "#inkedmag, #girlswithtattoos, #lasvegasmodels, #chelseymac"
   - username: "hollywoodsmilelv"
     fullname: >-
       HOLLYWOOD SMILE DENTAL
@@ -42,7 +30,19 @@ profiles:
     commentsToLikes: 0.002130
     id: ck15sh283cyod0i19gfb47r8j
     verified: false
-    hashtags: "#lumineers, #lasvegasdentistry, #bridge, #implant"
+    hashtags: "#implant, #mmadoc, #implantsurgery, #pflmma"
+  - username: "andrewsaintandrew"
+    fullname: >-
+      Andrew Saint Andrew 👑
+    bio: >-
+      Las Vegas Makeup Artist✨ Celebrity / PRO MUA Booking or Inquiries Link below Published | Traveling | Freelance Artist 💫 #MAKEUPBYSAINTANDREW ✨
+    location: "United States"
+    followers: 34237
+    engagement: 140
+    commentsToLikes: 0.088703
+    id: ck5q52o1zr4rz0i112x5e82kq
+    verified: false
+    hashtags: "#lasvegasmakeupartist, #makeupbysaintandrew, #lasveasmakeupartist"
   - username: "bjaymakeup"
     fullname: >-
       Brittany Jay
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.057766
     id: ck0twhpc6ffic0i198bl6rih8
     verified: false
-    hashtags: "#bretmansvanity, #underratedmuas, #abhjunkies, #colorfulmakeup"
-  - username: "frederick.dibella"
+    hashtags: "#colorfulmakeup, #cutcrease, #benefitclubpink, #underratedmuas"
+  - username: "genbthegem"
     fullname: >-
-      F r e d  D i B e l l a
+      Genesis 🤍
     bio: >-
-      *LA, CA *PEAK MODELS *BRAND MODELS *JE MODEL/SF *LEMON LIME *TNG MODELS/VEGAS
+      las vegas, nv | beauty + style + life ⚡️ makeup bookings: @makeupbygenb 💄⚡️ tiktok: genbthegem (145k+) ☁️🪐🍵✨ 𝐩𝐫 & 𝐜𝐨𝐥𝐥𝐚𝐛𝐬 ⭢ genesisbherrera@gmail.com
     location: "United States"
-    followers: 35067
-    engagement: 115
-    commentsToLikes: 0.039800
-    id: ck6uc1r33czjs0j71mekxsand
+    followers: 40056
+    engagement: 1066
+    commentsToLikes: 0.011824
+    id: ck5bxkiimnwnn0i11inatjn9z
     verified: false
-    hashtags: "#beard, #malemodel, #grayhair, #photo"
-  - username: "angeladomanico_"
+    hashtags: "#blazin, #vegaslocal, #bretmanvanity, #lasvegasmua"
+  - username: "lakleo21"
     fullname: >-
-      Angela Domanico 👻
+      Elizabeth
     bio: >-
-      Makeup & FX Artist // @ismahawk Email for booking inquiries Based in Las Vegas 🌛• 🔮 • 👄 • 🎃 • 💀
+      💕Content creator 👑Latina Mommy and wife 💄Pro Makeup Artist 📍Las Vegas 📩Zalie21@hotmail.com
     location: "United States"
-    followers: 31976
-    engagement: 199
-    commentsToLikes: 0.031687
-    id: ck5hqvne2tsxj0i114c8iyy7b
+    followers: 8475
+    engagement: 824
+    commentsToLikes: 0.048657
+    id: ck8szotucp6g30j781b1ua5mr
     verified: false
-    hashtags: "#lasvegasmua, #inbeautmag, #makeuplooks, #fluffybrows"
-  - username: "blissbrie"
+    hashtags: "#muamexicana, #undiscoveredmuas, #makeupfollowpage, #muasupport"
+  - username: "aflbeautybar"
     fullname: >-
-      Bridget
+      Aflbeautybar™️
     bio: >-
-      Sharing beauty | life | & style finds • 🇲🇽 📍Las Vegas 📩 blissbrie@gmail.com ♡ : @1leojuarez
+      💎𝐀𝐦𝐞𝐫𝐢𝐜𝐚’𝐬 𝐓𝐨𝐩 𝐌𝐞𝐝𝐬𝐩𝐚💎 🌇MIA📍LA📍NYC📍ATL📍VEGAS 🎀BOOK YOUR APPOINTMENT NOW🎀 🚨Our main page @aflbeautybarr was hacked follow this back up page🚨
     location: "United States"
-    followers: 6337
-    engagement: 519
-    commentsToLikes: 0.166358
-    id: ck6u0h4g8fnyl0j71fs5fugge
+    followers: 10826
+    engagement: 36
+    commentsToLikes: 0.090769
+    id: ck0vw39qqrwnw0i19l08gnst8
     verified: false
-    hashtags: "#sigmabeauty, #eyeshadowlooks, #beccacosmetics, #fashion"
-  - username: "precisionmdca"
+    hashtags: "#beauty, #dermalfillers, #botox, #sculptra"
+  - username: "glowinriss"
     fullname: >-
-      Precision MD Cosmetic Center
+      Marissa
     bio: >-
-      #TEAMPRECISION 💙 | #1 Cosmetic Surgery Center in Greater Sacramento 🏆 | Dr. Khattab 👨‍⚕️ | Look Good, Feel Good, Live Better! 😊
+      ✨Glowinriss Makeup & Things Las Vegas 💌Email only for collaboration
     location: "United States"
-    followers: 79109
-    engagement: 147
-    commentsToLikes: 0.000860
-    id: ck6u5xj68cbuf0j71b7op4ze4
+    followers: 50723
+    engagement: 198
+    commentsToLikes: 0.031843
+    id: ck0u8nfi17wpa0i19jcib3vhx
     verified: false
-    hashtags: "#beauty, #fatloss, #botox, #cosmeticsurgery"
-  - username: "luisrodphotography"
+    hashtags: "#lasvegas, #benefit, #ultabeauty, #ulta"
+  - username: "kafloxbeauty"
     fullname: >-
-      Luis Rodriguez Photography
+      Las Vegas Makeup Artist
     bio: >-
-      👤 My Personal Account: @luisr6 🐦 Twitter: @luisrodphotos
+      Professional Mobile Makeup Artist 💄 Las Vegas 📍 Enhancing natural beauty is my passion ✨ Business Page - @glamnglowy Dm for booking & availability 💕
     location: "United States"
-    followers: 7350
-    engagement: 303
-    commentsToLikes: 0.010521
-    id: ck0u0443bshqf0i19mygvc9wz
+    followers: 5235
+    engagement: 296
+    commentsToLikes: 0.157513
+    id: ck6twgmcwrvhe0j71cofkrdh7
     verified: false
-    hashtags: "#theprettycities, #livemusic, #musiclife, #engagement"
-  - username: "stefanilchev"
+    hashtags: "#vegasmodels, #photography, #lasvegasphotographer, #explore"
+  - username: "makeupbyetari"
     fullname: >-
-      Stefan Ilchev
+      Ana Etari
     bio: >-
-      @stefanilchev
+      Ｂｕｔ ｆｉｒｓｔ 𝙈𝙖𝙠𝙚𝙪𝙥 💄 🤎Licensed Cosmetologist 🤎Makeup Artist #BEAUTY | #LIFESTYLE. DM for Booking 💋
     location: "United States"
-    followers: 12296
-    engagement: 498
-    commentsToLikes: 0.013817
-    id: ck6u99kriw9nj0j71c8rraic6
+    followers: 15938
+    engagement: 29
+    commentsToLikes: 0.179179
+    id: ck14hcaet9lkz0i193n0y8ej1
     verified: false
-    hashtags: "#photooftheday, #instamood, #followme, #usa"
+    hashtags: "#beautyblogger, #instamakeup, #makeupbyetari, #pencil"
 ---

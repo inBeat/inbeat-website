@@ -1,24 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Kyoto in 2023
+title: Top 10 Yoga Instagram Influencers In Kyoto In 2023
 description: >-
-  Find top yoga Instagram influencers in Kyoto in 2023. Most popular hashtags: #yoga #japan #ootd #kyoto.
+  Find top yoga Instagram influencers in Kyoto in 2023. Most popular hashtags: #yoga #pr #kyoto #cafe.
 platform: Instagram
-hits: 7
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 7 Instagram influencers like this in Kyoto, Japan for you to contact.
+hits: 6
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 6 Instagram influencers like this in Kyoto, Japan for you to pitch.
 profiles:
+  - username: "naachan__"
+    fullname: >-
+      伊 藤  奈 月｜𝗡𝗮𝘁𝘀𝘂𝗸𝗶 𝗜𝘁𝗼
+    bio: >-
+      ☺︎なーちゃん☺︎ ホリプロ所属｜97' 01.16 (24) サロモ｜お仕事依頼 ▷ DM 19' Musashi univ. 🎓｜19' Ray model 🎓 🕊@𝙣𝙖__𝙧𝙪𝙉 ｜ TikTok @𝙣𝙖𝙖𝙘𝙝𝙖𝙣__ Clubhouse @𝙣𝙖𝙖𝙘𝙝𝙖𝙣_
+    location: "Japan"
+    followers: 120757
+    engagement: 242
+    commentsToLikes: 0.007813
+    id: ckap65if2ehfc0i78sbrkrlmd
+    verified: false
+    hashtags: "#samanthathavasa, #mercuryduo, #pr, #cafe"
   - username: "hiromi.tomii"
     fullname: >-
       Hiromi.Tomii
     bio: >-
-      #Tokyo ⇔ #kyoto⇔#yamaguchi #社会福祉士#精神保健福祉士　#福祉→#医療ソーシャルワーカー#スキューバダイビングインストラクター #ルーシーダットンインストラクター #インナービューティーダイエットアドバイザー #FiNCアンバサダー @finc_app #タロット占い師
+      #Tokyo ⇔ #kyoto⇔#yamaguchi #社会福祉士#精神保健福祉士　#MSW #スキューバダイビングインストラクター #ルーシーダットンインストラクター #インナービューティーダイエットアドバイザー #FiNCアンバサダー @finc_app
     location: "Japan"
-    followers: 90705
-    engagement: 71
-    commentsToLikes: 0.012730
+    followers: 96973
+    engagement: 73
+    commentsToLikes: 0.017546
     id: ck5zsd9a9yaaz0i14aci63ntu
     verified: false
-    hashtags: "#japanesegirl, #fashion, #japanese, #golf"
+    hashtags: "#golfstagram, #golfswing, #yoga, #ootd"
   - username: "nozomi_takiguchi"
     fullname: >-
       滝口 希 Nozomi Takiguchi
@@ -30,19 +42,19 @@ profiles:
     commentsToLikes: 0.003298
     id: ck14h9ba896oq0i19amkbkuom
     verified: false
-    hashtags: "#slayer, #espresso, #roaster, #japan"
-  - username: "cynthiaahayek"
+    hashtags: "#slayer, #espresso, #herekyoto, #canele"
+  - username: "narumi_bodycarnival"
     fullname: >-
-      Cynthia Hayek
+      RIE "NARUMI" Fukushima 福島梨絵
     bio: >-
-      👩🏻‍ #Osteopath #paris @anatomik.paris 🧘🏻‍♀️ #Yoga teacher #vinyasa 🚴🏻‍♀️ Coach @dynamocycling ⚖️ Certified in #Thaimassage & #Nutrition
+      Kyoto⛩Japan🇯🇵 @bodycarnival_kyoto 📚 @mixturenote Project #GENKIBIN now on! 🏆Breaking/Bgirl 🌎☕️Trip/Coffee Lover 👭http://naruayu.bodycarnival.com
     location: "Japan"
-    followers: 2893
-    engagement: 888
-    commentsToLikes: 0.096378
-    id: ck5hrd38kuo3e0i11hywqztu5
+    followers: 18344
+    engagement: 337
+    commentsToLikes: 0.021056
+    id: ck0tu57va5oxm0i19l1j5lcw7
     verified: false
-    hashtags: "#yoga, #paris, #yogateacher, #movement"
+    hashtags: "#bodycarnival, #sisters, #bgirl, #mixturenote"
   - username: "rickieg_official"
     fullname: >-
       Rickie-G Official
@@ -54,77 +66,65 @@ profiles:
     commentsToLikes: 0.002213
     id: ck1367c0253dj0i191b5d19po
     verified: false
-    hashtags: "#premiumlive, #creatorslounge, #miroku, #rainbowsend"
-  - username: "meimei.yuzu"
+    hashtags: "#2020, #rickieg, #kyotomuse, #miroku"
+  - username: "moemurakami_"
     fullname: >-
-      柚月めい
+      Moe Murakami
     bio: >-
-      YouTube【めいめいちゃんねる】釣りガール‪🎣‬アライブエンタテイメント所属 島根出身🌾関西在住🐙テレビ大阪「ガッ釣り関西」🐟リポーター📺CM🐾CD💿撮影📷MC🎤ヨガインストラクター🌝元幼稚園教諭👶福祉車輌取扱説明師🚘派遣元責任者
+      村上萌/株式会社ガルテン代表 「季節の楽しみと小さな工夫で、理想の生活を叶える」をコンセプトにコミュニティメディア @nextweekend_jp を運営。 #週末野心 ／#カスタマイズエブリデイ 新刊 #受けつぎごと 発売中。 DMお返しできないです🙇‍♀️
     location: "Japan"
-    followers: 49879
-    engagement: 231
-    commentsToLikes: 0.013770
-    id: ck8t89sgjjlz50j780kj91nlt
+    followers: 67701
+    engagement: 398
+    commentsToLikes: 0.006771
+    id: ckaouqt2a1ezv0i782eaw049k
     verified: false
-    hashtags: "#follw, #code, #youtube, #ootd"
-  - username: "risako_yamamoto"
+    hashtags: "#discovertochigi, #happybifestaday, #moii, #newans"
+  - username: "miawatanabe_yoga"
     fullname: >-
-      Risako Yamamoto
+      Mia
     bio: >-
-      ♡my SLOHASHOLIC life♡ HEALTH ｜FASHION ｜ TRAVEL ｜ 👗rosy Monster 🌿Junior SUPERFOOD Meister my wellness life #SLOHASHOLIC
+      ERYT500+ YACEP, Yoga&Pilates Teacher, Sports Nutrition Coach 身体の柔軟性と体幹エクササイズ 必要栄養素推奨と生涯健康体作りのコーチ 🌁Live in USA🇺🇸 お仕事ご依頼はDMにてご連絡ください Day1Stretch/Founder
     location: "Japan"
-    followers: 40637
-    engagement: 181
-    commentsToLikes: 0.004314
-    id: ck5zih3effott0i14z1x5m2x4
+    followers: 28155
+    engagement: 421
+    commentsToLikes: 0.087569
+    id: ck14l4qmzsuh90i19pq2tx3ir
     verified: false
-    hashtags: "#rosymonster, #fashion, #beach, #coordinate"
-  - username: "mizuki_b2ew"
+    hashtags: "#agepositive, #love, #selfy, #stanford"
+  - username: "taylorjyoga"
     fullname: >-
-      福岡みづき♡週1ホテルステイ/ゆるいアラサー美容
+      Taylor Johnson
     bio: >-
-      【暮らすようにホテルステイする♡】 webマーケター/埼玉/170cm ▶︎過去のホテル巡り #ホテルステイ記録 ▶︎27ヵ国を訪問（フランス🇫🇷1年留学） ▶︎美容プロ公認の美肌 ▶︎茶道歴7年（裏千家） ✏️毎週日曜、ストーリーでインスタプチ講座 ↓女性が等身大のままインスタで人生を謳歌するコツ
+      Yoga | Acro | Rocket | Buti 📍Longmont, CO Knotty girl: @macrametay Children: @spagnball 200 YTT Jan 2021 @sol19yoga👇🏼
     location: "Japan"
-    followers: 35798
-    engagement: 149
-    commentsToLikes: 0.028361
-    id: ckap5tq2hd4id0i78wozblofl
+    followers: 17882
+    engagement: 278
+    commentsToLikes: 0.101476
+    id: ck5pzsk8z2jky0i11gfzzm594
     verified: false
-    hashtags: "#pr, #goto, #20, #wakasalife"
+    hashtags: "#nafbabeschallenge2, #longmont, #ad, #sol19yoga"
+  - username: "arisa28lucia"
+    fullname: >-
+      Arisa Ⅰアリサ🇯🇵🇮🇹
+    bio: >-
+      》Model,YogaRYT200,PADIrescueDiver 》YouTube"arisarah channel "🌹 📲DM or EMail for collabo
+    location: "Japan"
+    followers: 14020
+    engagement: 643
+    commentsToLikes: 0.045579
+    id: ckaow4b797dc10i787gcj4ovu
+    verified: false
+    hashtags: "#pr, #training, #travelphotography, #workout"
   - username: "blifetokyo"
     fullname: >-
       B-life
     bio: >-
       Yoga & Fitness Workout Creator. 痩せたい！健康的になりたい！すべての方の悩みを解決するエクササイズ動画を無料で配信しています。10〜15分くらいの空き時間で気軽に行えますので、是非お試しください♪
     location: "Japan"
-    followers: 41649
-    engagement: 735
-    commentsToLikes: 0.032724
+    followers: 48334
+    engagement: 471
+    commentsToLikes: 0.019041
     id: ckapb665gypre0i78i1v3kh7d
     verified: false
-    hashtags: "#389, #393, #401"
-  - username: "miawatanabe_yoga"
-    fullname: >-
-      Mia
-    bio: >-
-      ERYT-500+•YACEP🕉 Pilates ヨガ&ピラティスインストラクター 🏠USA🇺🇸 🌸シリコンバレーの🇺🇸アメリカ大企業でヨガ教導 🌸Day1Stretch/Founder(オフィスヨガ) •英語でヨガ •Vinyasa Yoga •ヒーリングタッチ •骨盤底 •オフィスヨガ
-    location: "Japan"
-    followers: 21686
-    engagement: 457
-    commentsToLikes: 0.061414
-    id: ck14l4qmzsuh90i19pq2tx3ir
-    verified: false
-    hashtags: "#stanford, #split, #yogapractice, #sf"
-  - username: "11misato10"
-    fullname: >-
-      MISATO
-    bio: >-
-      ○Twitter @_M1110_ /Radio DJ (TOKYO FM) /yoga Instructor /酵素風呂サロンWABISABI代表 @wabisabikouso ◯follow me
-    location: "Japan"
-    followers: 10210
-    engagement: 1136
-    commentsToLikes: 0.036047
-    id: ck5c7rkjo829m0i1149qnc4g3
-    verified: false
-    hashtags: "#japan, #japanesegirl, #stayhome, #curry"
+    hashtags: "#blifeconnect"
 ---

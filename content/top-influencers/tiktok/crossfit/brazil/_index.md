@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Brazil in 2023
+title: Top 10 Crossfit TikTok Influencers In Brazil In 2023
 description: >-
-  Find top crossfit TikTok influencers in Brazil in 2023. Most popular hashtags: #crossfit #fyp #fitness #workout.
+  Find top crossfit TikTok influencers in Brazil in 2023. Most popular hashtags: #crossfit #foryou #fyp #fitness.
 platform: TikTok
-hits: 28
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 28 TikTok influencers like this in Brazil for you to work with.
+hits: 29
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 29 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "faria_maikon"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Irmão do Michel Gestor Eng. Produção Crossfiteiro Insta @maikon_faria
     location: "Brazil"
-    followers: 108300
-    engagement: 1736
-    commentsToLikes: 0.034931
+    followers: 111500
+    engagement: 1631
+    commentsToLikes: 0.032191
     id: ckbwhyzxm2zvj0j23gtuba6tn
     verified: false
-    hashtags: "#tiktok, #amordeirmao, #amor, #fyp"
+    hashtags: "#pets, #familia, #irmaos, #tiktok"
   - username: "isaferreirafisio"
     fullname: >-
       Isabella Ferreira
     bio: >-
       🧠Fisioterapeuta dos Crossfiteiros Salvo seus WODs - lesões + perfomance 🏋🏻‍♂️
     location: "Brazil"
-    followers: 80900
-    engagement: 653
-    commentsToLikes: 0.029963
+    followers: 85300
+    engagement: 689
+    commentsToLikes: 0.024270
     id: ckbam3r3td0m20j23es85kd0m
     verified: false
-    hashtags: "#alongamento, #mobilidade, #flexibilidade, #crossfitbr"
+    hashtags: "#fisioterapia, #alongamento, #flexibilidade, #mobilidade"
   - username: "carohobo"
     fullname: >-
       Caro Hobo
     bio: >-
       Crossfiter perdida aqui
     location: "Brazil"
-    followers: 57200
-    engagement: 400
-    commentsToLikes: 0.006040
+    followers: 57900
+    engagement: 392
+    commentsToLikes: 0.005895
     id: ck81s2ox7pkh80j78krfuuljg
     verified: false
-    hashtags: "#workout, #training, #crossfit, #campeonato"
-  - username: "ahkeylla"
-    fullname: >-
-      Keylla 🌻
-    bio: >-
-      🌈 apenas conteúdo aleatório *passar vergonha entrou no chat*
-    location: "Brazil"
-    followers: 4179
-    engagement: 1242
-    commentsToLikes: 0.103544
-    id: ckbfdglnf6wzx0j23yq276163
-    verified: false
-    hashtags: "#tiedye, #destaque, #crossfit, #gpw"
+    hashtags: "#crossfit, #workout, #training, #bands"
   - username: "vaniamoraes03"
     fullname: >-
-      user1301191488680
+      Vânia moraes da cruz
     bio: >-
       Atleta de futevôlei Campeã Mundial, Sul-americana e Paulista! Amante de esporte
     location: "Brazil"
-    followers: 107400
-    engagement: 1554
-    commentsToLikes: 0.023385
+    followers: 105900
+    engagement: 1545
+    commentsToLikes: 0.021127
     id: ck81t1ithuq910j78arqnfqfb
     verified: false
-    hashtags: "#crossfit, #tik, #mulhertambemjoga, #praia"
-  - username: "eleandresantos"
-    fullname: >-
-      Eleandre Santos
-    bio: >-
-      Instagram: @Eleandresantos! Segue lá gente 🙏🙏🙏. Jesus está voltando 🔥🙏❤️
-    location: "Brazil"
-    followers: 46000
-    engagement: 909
-    commentsToLikes: 0.079552
-    id: cka6pynrwlhkd0i78dufcku7f
-    verified: false
-    hashtags: "#fy, #meuamigo, #foryou, #tiktokbrasil"
-  - username: "gaditaoguerreiro"
-    fullname: >-
-      user5773074330253
-    bio: >-
-      Estou no Instagram como @paixao8. Instale o aplicativo para seguir minhas fotos
-    location: "Brazil"
-    followers: 16800
-    engagement: 399
-    commentsToLikes: 0.023354
-    id: cka0fw6kl1jc60i78m0g4vt10
-    verified: false
-    hashtags: "#fitness, #academia, #personaltrainer, #muscula"
-  - username: "barbrothersbrazil"
-    fullname: >-
-      Bar Brothers Brazil
-    bio: >-
-      Calistenia 🤜💥🤛 Treino De Rua 🌎 #BarBrothersBrazil 💪😎 Junte-se a Família!
-    location: "Brazil"
-    followers: 35249
-    engagement: 550
-    commentsToLikes: 0.009769
-    id: ck81s0yrtp83i0j78vdxd5knl
-    verified: false
-    hashtags: "#barbrothers, #beast, #motivation, #force"
+    hashtags: "#praia, #crossfit, #fitness, #mulhertambemjoga"
   - username: "carolormond"
     fullname: >-
       Ana Caroline Ormond
     bio: >-
-      SIGAM MEU INSTA☝🏽 🧚🏽‍♂️ youtube: Carol Ormond Cuiabá-MT 🇧🇷/🇺🇸 seja luz 💡
+      SIGAM MEU INSTA☝🏽 🧚🏽‍♂️ Cuiabá-MT 🇧🇷/🇺🇸 seja luz 💡 150K??
     location: "Brazil"
-    followers: 123100
-    engagement: 2057
-    commentsToLikes: 0.023608
+    followers: 141400
+    engagement: 1649
+    commentsToLikes: 0.015766
     id: ckd5q1o0rxngw0j23gl6uv9xp
     verified: false
-    hashtags: "#intercambio, #fy, #foryou, #highscool"
-  - username: "raffahoficial"
+    hashtags: "#treino, #fy, #fyp, #pravoce"
+  - username: "orafaoficiall"
     fullname: >-
-      raffahoficial
+      orafaoficial
     bio: >-
-      Menos flop aqui no TIKTOK do que no Insta, onde sou menos flop que no Twitter!
+      • Professor Ritmos & Dança de salão ✉️ Parcerias: contatorafadance@gmail.com
     location: "Brazil"
-    followers: 18800
-    engagement: 1369
-    commentsToLikes: 0.074532
-    id: ckcupvbq1j0g10j23g653z1d6
+    followers: 334700
+    engagement: 800
+    commentsToLikes: 0.023622
+    id: ckcur3ud3jj3e0j237ryd3jn6
     verified: false
-    hashtags: "#fyp, #conselhosdoraffah, #conselheirabiscoiteira, #lgbtq"
+    hashtags: "#tik, #coreografia, #sovem, #danca"
+  - username: "ricardohoffmann31"
+    fullname: >-
+      Ricardo Hoffmann
+    bio: >-
+      Bora chegar 30k uma força no app do lado obrigado Insta: prof.ricardohoffmann
+    location: "Brazil"
+    followers: 20600
+    engagement: 1354
+    commentsToLikes: 0.031799
+    id: ckdtdol6vvfwm0j23relk3k0j
+    verified: false
+    hashtags: "#foryou, #crossfit, #fyp, #fy"
+  - username: "migtrevisan"
+    fullname: >-
+      Miguel Trevisan
+    bio: >-
+      📍 Santa Maria - RS Este perfil contém humor, ironia e mais!
+    location: "Brazil"
+    followers: 50000
+    engagement: 996
+    commentsToLikes: 0.042301
+    id: ckb17ccxjuw560j2398el8cyq
+    verified: false
+    hashtags: "#geracaotiktok, #crossfit, #mae, #lpo"
+  - username: "ahkeylla"
+    fullname: >-
+      Keylla 🌻
+    bio: >-
+      🌈 eu amo gatinho, tie dye, e umas dancinhas
+    location: "Brazil"
+    followers: 4274
+    engagement: 1384
+    commentsToLikes: 0.079829
+    id: ckbfdglnf6wzx0j23yq276163
+    verified: false
+    hashtags: "#cat, #destaque, #fyp, #foryou"
+  - username: "pierryofficial"
+    fullname: >-
+      Pierry Oficial
+    bio: >-
+      CANTOR👇🏽 INSTA 👆🏽
+    location: "Brazil"
+    followers: 60900
+    engagement: 1472
+    commentsToLikes: 0.041565
+    id: ckb9id8vd8lha0j23evr6epqe
+    verified: false
+    hashtags: "#pierry, #joelma, #gusttavolima, #anitta"
 ---

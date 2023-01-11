@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Canada in 2023
+title: Top 10 Lingerie Instagram Influencers In Canada In 2023
 description: >-
-  Find top lingerie Instagram influencers in Canada in 2023. Most popular hashtags: #lingerie #model #photoshoot #blackandwhite.
+  Find top lingerie Instagram influencers in Canada in 2023. Most popular hashtags: #lingerie #model #love #makeup.
 platform: Instagram
-hits: 54
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 54 Instagram influencers like this in Canada for you to pitch.
+hits: 29
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 29 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "katejensenphoto"
-    fullname: >-
-      lifestyle/boudoir photographer
-    bio: >-
-      she/her live through your art ✨ girl gang 🤟 @katejensenintimates luxury lingerie @k2intimates
-    location: "Canada"
-    followers: 8793
-    engagement: 393
-    commentsToLikes: 0.116697
-    id: ck0w335mjrdc80i19vljr5sa1
-    verified: false
-    hashtags: "#personalbranding, #edmontonbrandingphotographer, #branding, #yegbrandingphotographer"
   - username: "amandafudgy"
     fullname: >-
       Amanda Fudge
     bio: >-
-      Canadian model / dancer @stockingsbysasha Check out my lingerie page 😘
+      📍Vegas @stockingsbysasha Check out my lingerie page 😘
     location: "Canada"
-    followers: 86055
-    engagement: 115
-    commentsToLikes: 0.024793
+    followers: 84732
+    engagement: 108
+    commentsToLikes: 0.030184
     id: ck5hgt27c4lwg0i11ck6bgpi4
     verified: false
-    hashtags: "#lingerie, #space, #yeg, #cheshercat"
+    hashtags: "#makeup, #blonde, #vegas, #glam"
   - username: "sofiacretaro"
     fullname: >-
       𝖘 🍓 𝖋 𝖎 𝖆
     bio: >-
       MIAMI- @cgmmodels NEW YORK- @jagmodels CANADA- @dulcedomodels 📍
     location: "Canada"
-    followers: 21541
-    engagement: 391
-    commentsToLikes: 0.108224
+    followers: 20982
+    engagement: 403
+    commentsToLikes: 0.128773
     id: ck5c4j1yb1gia0i111b8xxlay
     verified: false
-    hashtags: "#toronto, #dermlogica, #lacebralette, #miami"
-  - username: "fernandolandinofficial"
+    hashtags: "#miamiswimweek, #charlottetilbury, #maccosmetics, #montreal"
+  - username: "cynianne"
     fullname: >-
-      Fernando Landin
+      ¢уиιαииє кαяιℓєикσ
     bio: >-
-      #Photographer #Fotógrafo #Photographe 📸 DM me for Prints / Rates / Info 📩 Available Worldwide ✈
+      am ♥ romeo | yvr •Owner @cyncitybeautyinc 🍑 •Amazon FBA• •Wedding & Event Planner• •Published “The Wolf” available on Amazon ⤵️
     location: "Canada"
-    followers: 25841
-    engagement: 301
-    commentsToLikes: 0.036860
-    id: ck15pv3kzzrza0i19b2vdvlnu
+    followers: 23435
+    engagement: 209
+    commentsToLikes: 0.092972
+    id: ck6u79l19k99p0j71iocmk6jg
     verified: false
-    hashtags: "#canadiangirls, #blancoynegro, #blackandwhitephotos, #mycalvins"
-  - username: "morgankriz"
+    hashtags: "#quoteoftheday, #model, #family, #teamwork"
+  - username: "laurele_monique"
     fullname: >-
-      Morgyy
+      Laurele Monique 💋
     bio: >-
-      Toronto & Florida Ciotti Models - Toronto - M/A Primo Models - Hong Kong Cosmopolitan Models - Japan
+      {Vancouver,WA} {BMW M6 comp} Taken❤️
     location: "Canada"
-    followers: 48858
-    engagement: 415
-    commentsToLikes: 0.013659
-    id: ck5cal4wfdm7k0i11krjrtt5w
+    followers: 41196
+    engagement: 629
+    commentsToLikes: 0.011719
+    id: ck6u6t8yphl8v0j71vcdjviqt
     verified: false
-    hashtags: "#myloungelife, #loungegirl, #lingerie, #breastcancerawareness"
-  - username: "krystellelacroix"
+    hashtags: ""
+  - username: "martinegauthier1"
     fullname: >-
-      Krystelle Lacroix Fitness
+      martine gauthier
     bio: >-
-      💊@believesupplements ✨@medicoesthetiquesj 💋I’m cute on IG and spicy on Onlyfans🔞⬇️ 📸Model 💪🏻Fitness lover 👠Fashion ✉️DM for collab 🔥TO SEE MORE:
+      Fitness model canadian🇨🇦 & portugues🇵🇹 Training💪metal chick🎸alt model Sold my soul to rock and roll For business model Collaboration Dm
     location: "Canada"
-    followers: 356244
-    engagement: 268
-    commentsToLikes: 0.023688
-    id: ck5hgq9bl464q0i11tjn5tcv2
+    followers: 4701
+    engagement: 467
+    commentsToLikes: 0.073722
+    id: ck15r8yx46qwl0i19lss1eo0i
     verified: false
-    hashtags: "#matchinglingerie, #wetlookbodysuit, #redlips, #blond"
-  - username: "yee_carly"
+    hashtags: "#lingeriemodel, #valentinephotoshoot, #gothgirlsofinstagram, #fitnessgirldoitbetter"
+  - username: "maddison.noel"
     fullname: >-
-      Carly Yee
+      Maddison | Travel & Adventure
     bio: >-
-      Vancouver, BC • • • • • 𝑺𝒊𝒏𝒄𝒆𝒓𝒆𝒍𝒚 𝒚𝒐𝒖𝒓𝒔 𝒕𝒓𝒖𝒍𝒚, 𝑪𝒂𝒓𝒍𝒔 🤍
+      HAVE THE BEST DAY EVER ▾ Encouraging you - because you’re worth it ↟ CPT + Health Coach ⋙ owner @_mylesfitness
     location: "Canada"
-    followers: 39022
-    engagement: 308
-    commentsToLikes: 0.039161
-    id: ck6to5zfccaio0j71fi1speuh
+    followers: 117368
+    engagement: 327
+    commentsToLikes: 0.011174
+    id: ck15pveawztko0i19qnk287xo
     verified: false
-    hashtags: "#photography, #portaitmood, #vancouver, #bikini"
-  - username: "kiley_langille"
+    hashtags: "#travelalberta, #explorealberta, #travelnevada, #travelusa"
+  - username: "brittneecblair"
     fullname: >-
-      K I L E Y
+      Brittnee Blair
     bio: >-
-      ♡ Toronto ♡ Actress / Model / Casting Director / business marketing ♡ Tall Girl ♡ Exploring and Adventures ♡ email me for collabs
+      💥Miss Curvy B💥 A Big Cup of Self Love ☕️ Wilhelmina Model | B&M Models | Canadian | TV Personality | Fembot | she/her |• #curves
     location: "Canada"
-    followers: 23332
-    engagement: 542
-    commentsToLikes: 0.054287
-    id: ck8t0sqxzt62c0j789vh5w83h
+    followers: 51555
+    engagement: 92
+    commentsToLikes: 0.093353
+    id: ck6uerm1xsovm0j71zsf7o4ub
+    verified: true
+    hashtags: "#vday, #shoplocal, #giveaway, #love"
+  - username: "virtualbrunette"
+    fullname: >-
+      your alien
+    bio: >-
+      Cosplay Artist 🏆 Best Alien Award 🛸 Business: itsvirtualbrunette@gmail.com 🌍 Hang out w/me in my world 🛰 Support your Alien ↙️
+    location: "Canada"
+    followers: 24025
+    engagement: 377
+    commentsToLikes: 0.063985
+    id: ckap2u31o0bu10i7830qbfqcb
     verified: false
-    hashtags: "#wabde, #selflove, #beautiful, #actress"
+    hashtags: "#cosplayer, #outofcosplay, #cosplaycomparison, #cosplayersofig"
   - username: "inked.barbie"
     fullname: >-
       𝐈𝐧𝐤𝐞𝐝 𝐁𝐚𝐫𝐛𝐢𝐞
     bio: >-
-      Owner of @agsupply_ DJ / MODEL / ACTRESS Barmaids TV reality show season 2 @summummagazine DreamTeam 2023 Booking: anngael.lusignan7@hotmail.com
+      Owner of @agsupply_ DJ / MODEL / ACTRESS Barmaids TV reality show season 2 @summummagazine DreamTeam 2021
     location: "Canada"
-    followers: 66680
-    engagement: 174
-    commentsToLikes: 0.034421
+    followers: 70580
+    engagement: 254
+    commentsToLikes: 0.024005
     id: ck601sohkg3p00i14so4muyla
     verified: false
-    hashtags: "#tattoo, #photo, #ink, #model"
-  - username: "tinyteresab"
+    hashtags: "#poisonivy, #diy, #ad, #montreal"
+  - username: "krisyeo"
     fullname: >-
-      Teresa Bond
+      K R I S  YEO
     bio: >-
-      Back up account @tinyteresastoes 🇨🇦BC, Canada 👵🏻44 | 👧🏻Tiny 4'9.5" 🤓Accountant 🇫🇮Finnish/🇮🇪Irish Twitter - tinyteresab
+      Canadian Grown 👸🏼Keeping it real Toronto: brandon.hall@sutherlandmodels Manager: Chantalenadeau@rogers.com Mental Health Activist: @_effthestigma_
     location: "Canada"
-    followers: 386562
-    engagement: 159
-    commentsToLikes: 0.021113
-    id: ck5zuy8rf393j0i14pjejn4mq
+    followers: 111630
+    engagement: 107
+    commentsToLikes: 0.026679
+    id: ck8sxojoui3gw0j786om4x4os
     verified: false
-    hashtags: "#lingerie, #tgif, #2020, #tinyteresab"
+    hashtags: "#thick, #krisyeo, #bodypositivity, #bts"
 ---

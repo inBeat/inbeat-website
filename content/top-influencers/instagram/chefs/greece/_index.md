@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Greece in 2023
+title: Top 10 Chefs Instagram Influencers In Greece In 2023
 description: >-
-  Find top chefs Instagram influencers in Greece in 2023. Most popular hashtags: #cooking #foodporn #cheflife #food.
+  Find top chefs Instagram influencers in Greece in 2023. Most popular hashtags: #cheflife #foodporn #instafood #pastry.
 platform: Instagram
-hits: 41
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 41 Instagram influencers like this in Greece for you to connect with.
+hits: 35
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 35 Instagram influencers like this in Greece for you to connect with.
 profiles:
   - username: "georgepapakostas"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Chef | Restaurateur | Consultant | Traveller @theburgerjoint @vittoriagati
     location: "Greece"
-    followers: 32710
-    engagement: 721
-    commentsToLikes: 0.007933
+    followers: 37466
+    engagement: 450
+    commentsToLikes: 0.011262
     id: ck5zkf7thjdgm0i14esrcsglx
     verified: false
-    hashtags: "#apolafsteypefthina, #travellife, #cheersforthecause, #visitgreece"
-  - username: "christosglossidis"
+    hashtags: "#visitgreece, #gsd, #travelling, #greece"
+  - username: "pavlos_kiriakis"
     fullname: >-
-      Χρηστος Γλωσσιδης
+      Pavlos Kiriakis
     bio: >-
-      Head chef at @laresidencemykonos 🔪🥢 Private chef at @starchanneltv Born and raised in Athens 🏢 Waiting for the unexpected 👹 Until Entropy win.
+      ⭐️ @michelinguide 2022 🏛@thezillersathens Executive Chef 🔪@nakanoknives Brand Ambassdor 🔰@moldbrothers Brand Ambassador 📽@gronda Creator
     location: "Greece"
-    followers: 28883
-    engagement: 696
-    commentsToLikes: 0.006247
-    id: ck13cg2lp05wk0i19xnqb7vaq
+    followers: 30812
+    engagement: 309
+    commentsToLikes: 0.024519
+    id: ckf5nu2zhzojq0j23ea26erbr
     verified: false
-    hashtags: "#chefslife, #sundaymood, #pasta, #neasmirni"
-  - username: "alsisinanaj"
+    hashtags: "#michelinstar, #thebestchefawards, #thezillers, #soignefood"
+  - username: "nikos.tzagarakis"
     fullname: >-
-      Alsi Sinanaj
+      Nick Tzagarakis 🇬🇷
     bio: >-
-      • Enthusiast • Easy & Delicious Meals for Everyone • TV Chef / Alsi’s Celebrity Cooking #alsisinanajfood • I'm getting back to my old roots. ⤵️
+      Menu Creator Pastry Consulting Chef Gelato Consulting Consulting Enquiries/Promotions/Collaborations/Masterclass Athens Greece 🇬🇷
     location: "Greece"
-    followers: 25721
-    engagement: 317
-    commentsToLikes: 0.022011
-    id: ck6uelf2armi10j715roaoxrm
+    followers: 67621
+    engagement: 253
+    commentsToLikes: 0.013929
+    id: ck5ciiocwspqs0i119v72urhi
     verified: false
-    hashtags: "#restaurant, #island, #foodporn, #alsisinanajfood"
+    hashtags: "#prayforgreece, #foodphotography, #sweets, #christmasfeels"
   - username: "panostogias"
     fullname: >-
       Panos Togias
     bio: >-
-      Executive Chef 📌Facebook 〰Panos Togias 🍎Official Page Facebook 〰Πάνος Τόγιας 📩Email ➖ panosstogias58@gmail.com 🤝Dm for collab
+      Chef 📌Facebook 〰Panos Togias 🍎Official Page Facebook 〰Πάνος Τόγιας 📩Email ➖ panosstogias58@gmail.com 🤝Dm for collab
     location: "Greece"
-    followers: 31046
-    engagement: 983
-    commentsToLikes: 0.008813
+    followers: 30206
+    engagement: 929
+    commentsToLikes: 0.012154
     id: ck6txhnxjxw5f0j71clm9lohv
     verified: false
-    hashtags: "#black, #cheflife, #finedinning, #white"
-  - username: "marinou_nicol"
-    fullname: >-
-      Νικόλ Μαρίνου
-    bio: >-
-      Τεχνικός μαγειρικής τέχνης 👩‍🍳 Private Chef 🔪 Recipes 🌮🍲 Food photography 🥗📸 @kokkinosprotathlitis @mamasou.gr
-    location: "Greece"
-    followers: 3610
-    engagement: 1379
-    commentsToLikes: 0.180360
-    id: ckf5rlqzyd4k10j23ceeobut1
-    verified: false
-    hashtags: "#comfortfood, #instafood, #foodforfuel, #huffposttaste"
-  - username: "spiridoula_karampoutaki"
-    fullname: >-
-      spiridoyla~karampoutaki
-    bio: >-
-      💪WOMAN CHEF💪 👩‍🍳@masterchefgr Greece🥈Final 2 🎉 📩Email: spiridoulakarampoutaki@gmail.com 📁FB:spiridoyla karampoytaki 🤝DM for collaboration
-    location: "Greece"
-    followers: 26634
-    engagement: 705
-    commentsToLikes: 0.221651
-    id: ck6txhn7yxw2q0j71z9hzm9rm
-    verified: false
-    hashtags: "#instagram, #girl, #restaurant, #girlpower"
-  - username: "iamvakiaros"
-    fullname: >-
-      Lambros Vakiaros
-    bio: >-
-      Passionate Chef 🎯💯. Founder of @flavoritsofficial #MindBlowing 🤯 Seasoning Blends. Currently Sharing Recipes on TV 🎥 @starkoukou. MasterChef 🏆 Winner.
-    location: "Greece"
-    followers: 68730
-    engagement: 479
-    commentsToLikes: 0.051064
-    id: ck15qsfcc4esd0i190l4qabct
-    verified: true
-    hashtags: "#amfilohiasgi, #mitikas, #whyistayhungry, #hiking"
+    hashtags: "#blackandwhite, #kitchen, #photo, #photography"
   - username: "savvas__lichanidis"
     fullname: >-
       Savvas Lixanidis
     bio: >-
       Chef 🔪 - see you all juju bar restaurant @jujubarrestaurant
     location: "Greece"
-    followers: 42225
-    engagement: 472
-    commentsToLikes: 0.014094
+    followers: 41279
+    engagement: 509
+    commentsToLikes: 0.034094
     id: ck5q4upylqbml0i11anrn069q
     verified: false
-    hashtags: "#cooking, #lovecooking, #cheflife, #comingsoon"
+    hashtags: "#cookinglife, #lovecooking, #cheflife, #cooking"
+  - username: "alexpapandreou"
+    fullname: >-
+      ALEXANDROS PAPANDREOU
+    bio: >-
+      Greek Chef 🍴Food Explorer 🎬Tv Chef 🎖Marathon runner
+    location: "Greece"
+    followers: 39231
+    engagement: 149
+    commentsToLikes: 0.132307
+    id: ck8svsp4scjtk0j78mzx70d9a
+    verified: false
+    hashtags: "#alexpapandreou, #foodiesofinstagram, #instacool, #eats"
   - username: "argirobarbarigou"
     fullname: >-
       Argiro Barbarigou
     bio: >-
       🔪 Greek Chef • TV Host • Cookbook Author 🍳argiro.gr 🍽 @PapadakisRestaurant 🧿Δες περισσότερα εδώ 👇
     location: "Greece"
-    followers: 500381
-    engagement: 159
-    commentsToLikes: 0.066671
+    followers: 545259
+    engagement: 238
+    commentsToLikes: 0.169604
     id: ck5pvfdqahm110i11229pair7
     verified: true
-    hashtags: "#food, #recipeoftheday, #breakfasttime, #argirobarbarigou"
+    hashtags: "#recipe, #argirobarbarigou, #amazing, #argirogr"
   - username: "dimitris_konidaris"
     fullname: >-
       Dimitris konidaris
     bio: >-
       Head pastry Chef at @sovolosofficial Athens Greece🇬🇷
     location: "Greece"
-    followers: 32720
-    engagement: 352
-    commentsToLikes: 0.022366
+    followers: 33079
+    engagement: 323
+    commentsToLikes: 0.019747
     id: ck0w0bc9mdcb00i19yp40m6f4
     verified: false
-    hashtags: "#pastrychef, #picoftheday, #chocolatelover, #amazing"
+    hashtags: "#instagood, #cook, #pastrypassion, #sweet"
+  - username: "alebanfi"
+    fullname: >-
+      Alessandra Banfi Cilidziracis
+    bio: >-
+      Pastry Chef 👩🏼‍🍳 🇬🇷📍Athens, Greece My First Recipe Book AVAILABLE NOW ⬇️
+    location: "Greece"
+    followers: 7459
+    engagement: 306
+    commentsToLikes: 0.054036
+    id: ckaoquxookiqz0i78z8zc012u
+    verified: false
+    hashtags: "#sweet, #alebanfi, #cookiemonster, #yummy"
+  - username: "asterios_koustoudis"
+    fullname: >-
+      Asterios Koustoudis
+    bio: >-
+      📍Based in Athens, Greece 🇬🇷 • Executive Chef @hotelgrandebretagne and @kinggeorgeathens and two times dad ❣ •Culinary writer @gastronomos_ 🍴📒
+    location: "Greece"
+    followers: 7978
+    engagement: 817
+    commentsToLikes: 0.034550
+    id: ck5q0834y4pc10i11rqznvb09
+    verified: false
+    hashtags: "#stayhome, #greekvibes, #lovegreece, #cookathome"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Switzerland in 2023
+title: Top 10 Makeup TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top makeup TikTok influencers in Switzerland in 2023. Most popular hashtags: #makeup #fyp #foryou #viral.
+  Find top makeup TikTok influencers in Switzerland in 2023. Most popular hashtags: #makeup #foryou #switzerland #fyp.
 platform: TikTok
-hits: 56
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 56 TikTok influencers like this in Switzerland for you to pitch.
+hits: 51
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 51 TikTok influencers like this in Switzerland for you to contact.
 profiles:
   - username: "raheldiscovers"
     fullname: >-
       Rahel Discovers
     bio: >-
-      🇨🇭Swiss🇨🇭 👑King of Cringe👑 👩‍👦‍👦Married Mom👨‍👦 💄Crueltyfree Makeup💄
+      🗯BlaBla🗯 💄Crueltyfree Makeup💄 🤪Crazy🤪 🎤Justforfun🎤 👌CEO of HOI LÜÜT👌
     location: "Switzerland"
-    followers: 22300
-    engagement: 926
-    commentsToLikes: 0.167438
+    followers: 23100
+    engagement: 843
+    commentsToLikes: 0.122803
     id: ck9fm3ylqra850j78qti0ksa5
     verified: false
-    hashtags: "#schminken, #singen, #makeup, #stolzsein"
+    hashtags: "#schweiz, #diesermoment, #quaraneval, #nolook"
   - username: "miasw0nderl4nd"
     fullname: >-
       miaswonderland.mua
     bio: >-
-      MUA and makeup content creator 💓
+      Join my new colorstrology makeup challenge! 💖✨ 24/ ♎️/ 🇨🇭🇫🇷
     location: "Switzerland"
-    followers: 18100
-    engagement: 1481
-    commentsToLikes: 0.031713
+    followers: 18800
+    engagement: 1503
+    commentsToLikes: 0.062802
     id: ckbw8aauyz5c30j23ml7ddyph
     verified: false
-    hashtags: "#31daysofhalloween, #fyp, #foryou, #mua"
-  - username: "leane.cvr"
-    fullname: >-
-       ♡☆𝕃𝔼𝔸ℕ𝔼☆♡
-    bio: >-
-      ♊️ •Suisse •15yo •21k🤭love uu☺️ •snap/f3:leanette05 👉🏻👈🏻
-    location: "Switzerland"
-    followers: 21400
-    engagement: 2045
-    commentsToLikes: 0.043405
-    id: ckbkeutco5u8f0j2334oor958
-    verified: false
-    hashtags: "#pourtoi, #makeup, #nones, #fyp"
+    hashtags: "#makeupartist, #christmasmakeup, #pourtoi, #abstractmakeup"
   - username: "_mikiimikii"
     fullname: >-
       Mikii Minaj
     bio: >-
-      She/ her 🇧🇦🇨🇭 🤡I think I’m a clown🤡
+      ✨I think I’m a clown✨
     location: "Switzerland"
-    followers: 3056
-    engagement: 1969
-    commentsToLikes: 0.029706
+    followers: 3061
+    engagement: 1827
+    commentsToLikes: 0.025952
     id: ckbf7gmt7xfrp0j23t6xh7gsn
     verified: false
-    hashtags: "#lipsing, #fyp, #makeup, #foryou"
+    hashtags: "#fyp, #foryoupage, #foryou, #kpop"
   - username: "pinupmom_"
     fullname: >-
       Pinupmom_
     bio: >-
       Maman 3x, créatrice de contenu sur YouTube 📽️ et Instagram 📱 photographe 📸
     location: "Switzerland"
-    followers: 42600
-    engagement: 1182
-    commentsToLikes: 0.027530
+    followers: 49200
+    engagement: 1297
+    commentsToLikes: 0.029668
     id: cka0nhqrlzqhe0i78sockg9qp
     verified: false
-    hashtags: "#maman, #humour, #enfant, #famille"
+    hashtags: "#parents, #maman, #enfant, #viedemere"
   - username: "asjjaaa"
     fullname: >-
       asjadueJ
     bio: >-
-      BLACK LIVES MATTER sc: asjjjaaa ig: asjjjaaa
+      sc: asjjjaaa ig: asjjjaaa
     location: "Switzerland"
-    followers: 3008
-    engagement: 1443
-    commentsToLikes: 0.041585
+    followers: 3142
+    engagement: 1667
+    commentsToLikes: 0.067887
     id: cka6d6m0y6rpu0i78f5sykykf
     verified: false
-    hashtags: "#tiktok, #switzerland, #viral, #fyp"
-  - username: "_aurorab.x_"
-    fullname: >-
-      👑Aurora👑
-    bio: >-
-      Aurora, 19 y/o 🧨Trend maker 🧨 Stay ready😍 Road to 18k?😍 IG: _aurorab.x_
-    location: "Switzerland"
-    followers: 17100
-    engagement: 1432
-    commentsToLikes: 0.040147
-    id: ckcvgj6jrsxxb0j23up6uh9jv
-    verified: false
-    hashtags: "#perte, #hair, #trending, #dancing"
+    hashtags: "#foryou, #fyp, #fy, #tiktok"
   - username: "gi0rgiapiazza"
     fullname: >-
-      gio
+      giorgia
     bio: >-
-      follow me on the gram 🤩 new acc hehehe :) 16 | near basel <3 old acc: @giopix
+      16 | near basel😙 snap: gio.piazza
     location: "Switzerland"
-    followers: 21
-    engagement: 1375
-    commentsToLikes: 0.028002
+    followers: 7822
+    engagement: 1409
+    commentsToLikes: 0.029707
     id: ck9royl8cexhz0j78vi1kux3d
     verified: false
-    hashtags: "#fyp, #foryou, #italy, #switzerland"
-  - username: "neinicolee"
+    hashtags: "#hairtransformation, #foryou, #foryoupage, #fyp"
+  - username: "viktorijaahlia"
     fullname: >-
-      nicole
+      Viktorijaahlia 
     bio: >-
-      she/her it izzz whut it izzz insta neinicole
+      👑 My Make-up World👑 BUSINESS: Viktorijaahlia@gmail.com 💌 ⬇️Mein livestreame ⬇
     location: "Switzerland"
-    followers: 19700
-    engagement: 1401
-    commentsToLikes: 0.017687
-    id: ck9m10egecvpo0j78t4bmgh68
+    followers: 899900
+    engagement: 689
+    commentsToLikes: 0.023702
+    id: ckbqfka8f18ai0j231lp6j62e
     verified: false
-    hashtags: "#fyp, #customs, #makeup, #fy"
+    hashtags: "#duett, #funny, #viral, #fy"
   - username: "fynxfynx"
     fullname: >-
       ITS FYNX
     bio: >-
       relatable, fashionable, annoying - follow me anyway
     location: "Switzerland"
-    followers: 6594
-    engagement: 687
-    commentsToLikes: 0.015890
+    followers: 6541
+    engagement: 678
+    commentsToLikes: 0.017397
     id: ckacklngjc0qk0i78y5cjmqyr
     verified: false
-    hashtags: "#beauty, #fashiontiktok, #dance, #couples"
+    hashtags: "#fashion, #funny, #couples, #fashiontiktok"
+  - username: "the.mdj"
+    fullname: >-
+      Mathieu Dias Jardon
+    bio: >-
+      SOIS FIÈRE DE QUI TU ES! 🏳️‍🌈 Live in 🇨🇭 INSTAGRAM 👇🏼
+    location: "Switzerland"
+    followers: 6018
+    engagement: 377
+    commentsToLikes: 0.029666
+    id: cka66lvrqhhy30i780pesag8s
+    verified: false
+    hashtags: "#foryou, #makeupartist, #fy, #makeup"
+  - username: "hernandezedgar.official"
+    fullname: >-
+      Hernandez Edgar
+    bio: >-
+      Photograph & Mua 📍 Swiss 🇨🇭
+    location: "Switzerland"
+    followers: 3831
+    engagement: 511
+    commentsToLikes: 0.023788
+    id: ckbqtgfiwe3et0j23tya4sv4k
+    verified: false
+    hashtags: "#fyp, #foryoupage, #fotograf, #analog"
 ---

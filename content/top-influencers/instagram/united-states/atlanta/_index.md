@@ -1,24 +1,48 @@
 ---
-title: Top 10 Instagram Influencers In Atlanta in 2023
+title: Top 10 Instagram Influencers In Atlanta In 2023
 description: >-
-  Find top Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlblogger #atlantablogger #gltlove.
+  Find top Instagram influencers in Atlanta in 2023. Most popular hashtags: #fashion #ad #portraits.
 platform: Instagram
-hits: 3286
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 3286 Instagram influencers like this in Atlanta, United States for you to work with.
+hits: 3604
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 3604 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
-  - username: "jordanxbell"
+  - username: "jensiewright"
     fullname: >-
-      XB
+      jensie kersten
+    bio: >-
+      // atlanta
+    location: "United States"
+    followers: 21620
+    engagement: 334
+    commentsToLikes: 0.029972
+    id: ck5hha84h77db0i11enxgh5iw
+    verified: false
+    hashtags: "#vacationstyle, #capesanblas, #cabosanlucas, #chanel"
+  - username: "23joyy"
+    fullname: >-
+      
+    bio: >-
+      atlanta
+    location: "United States"
+    followers: 9052
+    engagement: 1106
+    commentsToLikes: 0.155852
+    id: ckap7hhebk3j10i784o521i0j
+    verified: false
+    hashtags: "#robloxedits, #customhair, #bloxburg, #art"
+  - username: "stanjohnson.co"
+    fullname: >-
+      Stan Johnson
     bio: >-
       Atlanta
     location: "United States"
-    followers: 10212
-    engagement: 880
-    commentsToLikes: 0.039249
-    id: ck5qcsmaws4l50i112z1py7qr
+    followers: 3868
+    engagement: 536
+    commentsToLikes: 0.068010
+    id: ck0uavg8fd54j0i19lwlfvb1v
     verified: false
-    hashtags: "#stayhome"
+    hashtags: "#visualsgang, #ballislife, #nike, #eybl"
   - username: "mmolliepopp"
     fullname: >-
       Mollie McMahon
@@ -31,100 +55,76 @@ profiles:
     id: ckap14l3ut3kb0i788pco2gcq
     verified: false
     hashtags: "#rolltide"
+  - username: "nazjaa"
+    fullname: >-
+      nazjaa
+    bio: >-
+      stanford university | atlanta nazjaa@genflow.com ☆
+    location: "United States"
+    followers: 144527
+    engagement: 814
+    commentsToLikes: 0.004348
+    id: ckqv6pusu23n70j23tb0nwsq2
+    verified: false
+    hashtags: "#fashion, #ad, #builtfordproud, #wedo"
+  - username: "onroadwithsivasharan"
+    fullname: >-
+      Siva(Her) & Sharan(Him)
+    bio: >-
+      🌤 Family of 4 having fun in reels 👨‍👩‍👦 + 🐶 🌤 Relatable couple content | Travel | Fam entertainment 📍Atlanta
+    location: "United States"
+    followers: 54459
+    engagement: 2617
+    commentsToLikes: 0.022313
+    id: cl6nb9wjnkzn70i2340x1makg
+    verified: false
+    hashtags: "#marriagehumor, #couplegoal, #howweroll, #funnyvideo"
+  - username: "weluvche"
+    fullname: >-
+      Untouchable ✨
+    bio: >-
+      Book me to host your event/party 🤯🔋 🎙(email sticker below) 🎙 Princess of Atlanta ✨ One of the last REAL talents on here💅🏾
+    location: "United States"
+    followers: 506603
+    engagement: 372
+    commentsToLikes: 0.014895
+    id: ckapbfo45zr6u0i781wc37d3l
+    verified: false
+    hashtags: "#hisfault, #maninhob, #hipthing, #clappin"
+  - username: "treybryantstyle"
+    fullname: >-
+      TREY BRYANT | Men’s Style
+    bio: >-
+      📍Atlanta,GA 👔Mens Style Tips | Outfits | Lifestyle 📧Email-Treybryant027@gmail.com 🎥 1.2M on @tiktok | 27K on @youtube
+    location: "United States"
+    followers: 212246
+    engagement: 206
+    commentsToLikes: 0.023209
+    id: cl7irro44u7k50i23jkj6w405
+    verified: false
+    hashtags: "#fashionreels, #lifestyleoftb, #mensfashion, #ad"
+  - username: "winnnterrr"
+    fullname: >-
+      Winter Williams
+    bio: >-
+      atlanta // fashion i love clothes welcome to my life
+    location: "United States"
+    followers: 67139
+    engagement: 91
+    commentsToLikes: 0.011441
+    id: ck9weaq7ujfsj0j78r4a2n5mz
+    verified: false
+    hashtags: "#fashion, #prettylittlething, #style, #streetstyle"
   - username: "timcaver"
     fullname: >-
       Tim Caver
     bio: >-
-      🏰 Atlanta, GA 📡 @supportblackcollege 💍 @vicktracy
+      🏰 Atlanta, Georgia 👨🏾‍💻 Content Creator 💍 @vicktracy 🐕 @foxcubluna ⬇️ Download my IG Presets!! ⬇️
     location: "United States"
-    followers: 24320
-    engagement: 978
-    commentsToLikes: 0.092186
+    followers: 39367
+    engagement: 909
+    commentsToLikes: 0.074474
     id: ck0udph1kjknz0i19ua0t5i13
     verified: false
-    hashtags: "#portraitgames, #sonyportraits, #moodyportraits, #atlphotographer"
-  - username: "erynnmariie"
-    fullname: >-
-      ERYNN MARIE
-    bio: >-
-      ♡ hampton university ♡ atlanta
-    location: "United States"
-    followers: 2532
-    engagement: 2356
-    commentsToLikes: 0.140217
-    id: ck9ha3qopb0k70j787fnejkkv
-    verified: false
-    hashtags: "#nationaldecisionday, #hampton24, #ogrephiogre, #hamptonu"
-  - username: "chrisandregtravel"
-    fullname: >-
-      Chris and Reg Travel - Atlanta
-    bio: >-
-      HOSPITALITY | WINE/SPIRITS | LIFESTYLE CONTENT CREATORS #atlantablogger TikTok: @adventuresofchrisandreg Mixed🙋🏼‍♀️🙋🏿‍♂️Married🥂Making Memories✈
-    location: "United States"
-    followers: 61916
-    engagement: 680
-    commentsToLikes: 0.051732
-    id: ckf5m5m1lscu60j230bu14xjm
-    verified: false
-    hashtags: "#travelcouples, #canont6i, #bmww, #lifestylecouple"
-  - username: "goanniewhere"
-    fullname: >-
-      Annie ✈ Atlanta Travel Writer
-    bio: >-
-      Living life colorfully 🌈 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🍑#Atlanta based traveler + storyteller ⬇️ travel guides, tips, & more
-    location: "United States"
-    followers: 25678
-    engagement: 609
-    commentsToLikes: 0.161875
-    id: ck0vv6mcpnrvk0i19li0avmw3
-    verified: false
-    hashtags: "#girlstraveler, #globelletravels, #hellofall, #journeysofgirls"
-  - username: "lmg_bangbang"
-    fullname: >-
-      Lamont Johnson
-    bio: >-
-      ONLYPAGE Locations: Atlanta / New Orleans • BACKUP PAGE @thereallmg_bangbang Fitness page @ljshredz_ • For Booking/Rates | (Email)
-    location: "United States"
-    followers: 154400
-    engagement: 517
-    commentsToLikes: 0.038625
-    id: ck6tzbyld8szo0j71emnq7u1l
-    verified: false
-    hashtags: "#bts"
-  - username: "itsnikki.g"
-    fullname: >-
-      Nikki G ⚡️ Plus Size Babe
-    bio: >-
-      🎬Actor | Creative | She/Her 🌎Capricorn | Latina | Queer ✨TikTok: itsnikki.g 💌nikkigcreates@gmail.com 📍Atlanta, GA 👇🏽 Master Doc of Resources for BLM
-    location: "United States"
-    followers: 28798
-    engagement: 535
-    commentsToLikes: 0.081669
-    id: ck6ugdlwc2e9s0j71no55xyhg
-    verified: false
-    hashtags: "#igersatlanta, #celebratemysize, #goldenconfidence, #strongertogether"
-  - username: "daynabolden"
-    fullname: >-
-      DAYNA BOLDEN
-    bio: >-
-      Welcome! Watch my ABOUT Highlight!! ❤️ 📍Atlanta General inquiries hello@daynabolden.com Partnerships dayna@whalarstars.com
-    location: "United States"
-    followers: 90365
-    engagement: 454
-    commentsToLikes: 0.049124
-    id: ck0u6nesi2j3u0i19ncmko8op
-    verified: true
-    hashtags: "#75hard, #themboldens, #blacklove, #creatorcam"
-  - username: "hafeezhtx"
-    fullname: >-
-      Hafeez Baoku
-    bio: >-
-      🏋🏿‍♂️Health & Fitness 🧥Men’s Fashion & Lifestyle ✈️ CEO of @roommateshtx 📍Atlanta
-    location: "United States"
-    followers: 7300
-    engagement: 982
-    commentsToLikes: 0.098091
-    id: ck8szidiaok690j783bs10c23
-    verified: false
-    hashtags: "#houstonfit, #houstonfitness, #fitnessmotivation, #fitness"
+    hashtags: "#portraitpage, #portraitmood, #xelfies, #atlantaphotographer"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Los Angeles in 2023
+title: Top 10 Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top Instagram influencers in Los Angeles in 2023. Most popular hashtags: #ootd #california #fashionstyle.
+  Find top Instagram influencers in Los Angeles in 2023. Most popular hashtags: #bikers #fz07 #worldssp300.
 platform: Instagram
-hits: 7857
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 7857 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 7743
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 7743 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "shanaxchan"
+  - username: "evemeetswest"
     fullname: >-
-      shana chan ♡
+      evelynn escobar
     bio: >-
-      los ángeles, ca
+      earth mother ~ creator ~ storyteller 🌱🌐🇬🇹♍️🐞🌍👩🏽‍🌾💅🏽 founder @hikeclerb @squarespace ambassador @evemeetsnails | los angeles hello@evemeetswest.com 💌
     location: "United States"
-    followers: 3155
-    engagement: 3627
-    commentsToLikes: 0.253098
-    id: ck9hbhi02gupa0j784txoxj30
+    followers: 34339
+    engagement: 447
+    commentsToLikes: 0.102249
+    id: ck5cab4bfd2ny0i1172rmtwgw
     verified: false
-    hashtags: "#327clothing, #blackouttuesday, #ad"
-  - username: "storybookblonde"
+    hashtags: "#uniqlopartner, #uniqlo, #lifewear, #reipartner"
+  - username: "anas"
     fullname: >-
-      Tami 💖
+      Anas
     bio: >-
-      Everyday Style 👜 Petite 5’1💄Beauty & Skincare @carbon38 Ambassador 🧘🏼‍♀️ Los Angeles 🌴 Mama to Bella & Lila 💞 Shop my favorites below 👇🏻
+      Anas Marwah❤️ |📍Los Angeles/Dubai | Father & Husband @asala @milamarwah @noahmarwah
     location: "United States"
-    followers: 3053
-    engagement: 2720
-    commentsToLikes: 0.430128
-    id: ckapa1tiwudeg0i785m77hceh
-    verified: false
-    hashtags: "#ootd, #fashionaddict, #outfitoftheday, #fashiongram"
-  - username: "zoenazarian"
-    fullname: >-
-      Zoe Nazarian
-    bio: >-
-      youtube/tiktok: zoenazarian snap: zzoenazz los angeles biz: mgmt@zoenazarian.com
-    location: "United States"
-    followers: 25025
-    engagement: 1648
-    commentsToLikes: 0.146525
-    id: ck6tszaj17odf0j716kqmwz99
-    verified: false
-    hashtags: "#zarawoman, #genz, #actress, #ootd"
-  - username: "daniellee_esther"
-    fullname: >-
-      DANIELLE | Fashion & Lifestyle
-    bio: >-
-      Life • Street Style • Beauty 💌 danielleesther.collabs@gmail.com 📍 Los Angeles
-    location: "United States"
-    followers: 7783
-    engagement: 1603
-    commentsToLikes: 0.432188
-    id: ck137gy8ubhjd0i19krhqrk4n
-    verified: false
-    hashtags: "#mejuri, #finecrew, #mejuripartner, #nastygal"
-  - username: "waitfoodfirst"
-    fullname: >-
-      KRIS W.
-    bio: >-
-      ❥ Los Angeles ❥ Waitfoodfirst@gmail.com ⭣Food Fund⭣
-    location: "United States"
-    followers: 8096
-    engagement: 1464
-    commentsToLikes: 0.478821
-    id: ck6u5l39wa9190j71784pyb2o
-    verified: false
-    hashtags: ""
-  - username: "alexiaraecastillo"
-    fullname: >-
-      ALEXIA
-    bio: >-
-      Be a good human. Bookings : Alexiaraecastillo@gmail.com Los Angeles
-    location: "United States"
-    followers: 70368
-    engagement: 1084
-    commentsToLikes: 0.055240
-    id: ck5bv3gkyixe90i11uqc47vtr
-    verified: false
-    hashtags: "#ohpolly, #forgirlsbygirls, #revolveu, #superdown"
-  - username: "msblairewhite"
-    fullname: >-
-      Blaire White
-    bio: >-
-      Trans Youtuber, public speaker, writer 💖🇺🇸 - Business Inquiries: imblairewhite@gmail.com Los Angeles 🌴 NEW VIDEO👇🏻
-    location: "United States"
-    followers: 350529
-    engagement: 999
-    commentsToLikes: 0.048171
-    id: ck5q354b2j9bo0i11bhkfjqql
+    followers: 5885436
+    engagement: 977
+    commentsToLikes: 0.009219
+    id: ckaoybh6sgt0m0i78ayxe8551
     verified: true
-    hashtags: ""
-  - username: "evanhara7"
+    hashtags: "#hibobianniversary, #4yearsanniversary, #womenday, #palestine"
+  - username: "ashleywicka"
     fullname: >-
-      E V Λ N
+      ashley wicka
     bio: >-
-      UNFILMED Filmmaker | Editor Currently:📍los angeles
+      20, los angeles tiktok: ashleywicka ashley@justpmg.com
     location: "United States"
-    followers: 63978
-    engagement: 907
-    commentsToLikes: 0.057605
-    id: ck0vzppltaa6b0i194om9rny9
+    followers: 48726
+    engagement: 989
+    commentsToLikes: 0.014605
+    id: ck5c3nrl7zp6t0i119r3c00bp
     verified: false
-    hashtags: "#unfilmed"
-  - username: "bblisaa"
+    hashtags: "#paybetter, #ad"
+  - username: "kevinarnold"
     fullname: >-
-      elissa ☆
+      Kevin
     bio: >-
-      if you’re looking for a sign, this is it. ⛈ los angeles, 626
+      • Professional Stuntman from Los Angeles • 🚴🏾 💨 @maap.cc @perfecthydration @girocycling @canyon_na • @dyscothedoberman 🐶
     location: "United States"
-    followers: 35148
-    engagement: 712
-    commentsToLikes: 0.060321
-    id: ck0twpqafgbwh0i1964fpxez7
+    followers: 19141
+    engagement: 587
+    commentsToLikes: 0.031042
+    id: ck5c88ftc8z080i11tlikolqw
     verified: false
-    hashtags: "#shein, #sheingals, #notavscogirl"
-  - username: "zobo.rose"
+    hashtags: "#cyclist, #100percentgoggles, #iamspecialized, #cyclinglife"
+  - username: "777brit"
     fullname: >-
-      zoë rose infante
+      Britney | fashion blogger
     bio: >-
-      | Vision Los Angeles | @visionlosangeles 🍓Lead singer of @strawberry_army 🍓 go buy my clothes ;) @zoboroseclothes 🙈 SPREAD LOVE :) she/her
+      los angeles Jesus freak ✉️: britswizzzle@gmail.com
     location: "United States"
-    followers: 25671
-    engagement: 1124
-    commentsToLikes: 0.068039
-    id: ckap72nenidh10i78bif7a7s2
+    followers: 11365
+    engagement: 18158
+    commentsToLikes: 0.134985
+    id: cl93d2bw9cvds0i237xxtudeo
     verified: false
-    hashtags: "#fuckcorona, #mothersday, #tiktok, #confused"
+    hashtags: "#minimaloutfit, #neutralaestheti"
+  - username: "synergist_"
+    fullname: >-
+      Syn
+    bio: >-
+      👤| Brand Ambassador & Superbike Enthusiast 📍| Los Angeles, CA ✉️| DM / Email for inquiries ❤️| Check out my sponsors (& discounts) below!
+    location: "United States"
+    followers: 93171
+    engagement: 1402
+    commentsToLikes: 0.036498
+    id: ck5pxeiqcre560i11i0gg6uv9
+    verified: false
+    hashtags: "#sportbike, #r1, #revsyourheart, #wheelie"
+  - username: "bigbossboze"
+    fullname: >-
+      boze
+    bio: >-
+      🍋 Los Angeles true crime on twitch & youtube | LIVE Mondays @ 5pm PST | subscribe to my channel below ✨
+    location: "United States"
+    followers: 251981
+    engagement: 511
+    commentsToLikes: 0.008364
+    id: ck9hc369ujjvt0j78rkahllab
+    verified: false
+    hashtags: "#blackhistorymonth"
+  - username: "iamjuliahuynh"
+    fullname: >-
+      julia
+    bio: >-
+      ur mediocre best friend bay area + los angeles | tiktok: jigglyjulia —— juliachuynh@gmail.com all my links below ⇩
+    location: "United States"
+    followers: 146407
+    engagement: 390
+    commentsToLikes: 0.435201
+    id: ckqv6psiv22ao0j233oacdlpk
+    verified: false
+    hashtags: "#nomakeup, #scentbirdpartner, #linkeverythingyouare, #monostravel"
+  - username: "magicalblackgirlalia"
+    fullname: >-
+      Alia/MagicalBlackGirl Cosplay
+    bio: >-
+      Cosplayer, Model, Pinup, LA 🌴🏳️‍🌈 #mobilityaidbabe #18thcenturyhotgirl 🔜 @anime_los_angeles magicalblackgirlalia@gmail.com
+    location: "United States"
+    followers: 17910
+    engagement: 282
+    commentsToLikes: 0.033306
+    id: ckposp8of4zkl0j23tz8d1125
+    verified: false
+    hashtags: "#sponsoredbyht, #transwitchesarewitches, #disneyland, #disneyplus"
+  - username: "weronikazalazinska"
+    fullname: >-
+      Weronika Zalazinska
+    bio: >-
+      Los Angeles based ✉️ weronikazalazinska@gmail.com
+    location: "United States"
+    followers: 239517
+    engagement: 276
+    commentsToLikes: 0.004881
+    id: ck0ud6h7hie5k0i19z0488r8u
+    verified: true
+    hashtags: "#dominicanrepublic, #casadecampo, #ad, #partner"
 ---

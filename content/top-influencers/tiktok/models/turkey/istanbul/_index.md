@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models TikTok Influencers In Istanbul in 2023
+title: Top 10 Models TikTok Influencers In Istanbul In 2023
 description: >-
-  Find top models TikTok influencers in Istanbul in 2023. Most popular hashtags: #tiktok #istanbul #ke #turkey.
+  Find top models TikTok influencers in Istanbul in 2023. Most popular hashtags: #istanbul #tiktok #ke #turkey.
 platform: TikTok
 hits: 8
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 8 TikTok influencers like this in Istanbul, Turkey for you to pitch.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 8 TikTok influencers like this in Istanbul, Turkey for you to work with.
 profiles:
+  - username: "onurollstyle"
+    fullname: >-
+      Onur Erol
+    bio: >-
+      🐥⚡🐨 Onur Erol Blogger & Influencer ✉️ info@onurollstyle.co
+    location: "Turkey"
+    followers: 29700
+    engagement: 125
+    commentsToLikes: 0.058298
+    id: ckcp6vm7rd9o90j232a22y4ii
+    verified: false
+    hashtags: "#tiktokfashion, #fyp, #menfashion, #bluehair"
   - username: "fatmakursat34"
     fullname: >-
       Fatma kürşat
     bio: >-
-      İNSTAGRAM; @fatmakursat347 ✨FKFC ailem✨ İstanbul/Mardin🇹🇷 Model🧕🏻
+      İNSTAGRAM; @fatmakursat34 İstanbul/Mardin🇹🇷 MODEL🧕🏻
     location: "Turkey"
-    followers: 272700
-    engagement: 888
-    commentsToLikes: 0.017506
+    followers: 344300
+    engagement: 807
+    commentsToLikes: 0.025184
     id: ckbf6k0mvw8tq0j23bkti0fyo
     verified: false
-    hashtags: "#ke, #opposelfie, #beni, #voiceeffects"
+    hashtags: "#fatmakursat34, #ytlosman"
   - username: "selmanfndkc"
     fullname: >-
       selman
     bio: >-
       gameover #maeTeam İstanbul Üni-İnşaat müh 🎓’18 Model
     location: "Turkey"
-    followers: 30800
-    engagement: 465
-    commentsToLikes: 0.029971
+    followers: 29900
+    engagement: 464
+    commentsToLikes: 0.029500
     id: cka0tvsiorolz0i78ji4rcom7
     verified: false
-    hashtags: "#beslenme, #ketojenik, #diyet, #kiloverme"
-  - username: "yakupozkan69"
-    fullname: >-
-      Yakup ÖZKAN
-    bio: >-
-      İstanbul kapalıçarşı’da Dünyaya nam salan fenomen kuyumcu mağazası.⭐️DESİGNER⭐️
-    location: "Turkey"
-    followers: 609700
-    engagement: 367
-    commentsToLikes: 0.010725
-    id: ck9n55rdp6n730j78jhxu3qal
-    verified: false
-    hashtags: "#22ct, #almanya, #alt, #22ayar"
+    hashtags: "#kiloverme, #beslenme, #rampapapam, #ketojenik"
   - username: "daellafd"
     fullname: >-
       Daellafd
     bio: >-
       I R A Q I 🇮🇶 🇱🇾 MODEL
     location: "Turkey"
-    followers: 177400
-    engagement: 547
-    commentsToLikes: 0.011694
+    followers: 214700
+    engagement: 657
+    commentsToLikes: 0.016765
     id: cka0t8ibvov790i78wp9xr9m9
     verified: false
-    hashtags: "#istanbul, #tripoli, #tiktokiraq, #turkey"
-  - username: "beyzanurqq"
+    hashtags: "#daellafd, #benghazi, #turkey, #libya"
+  - username: "yakupozkann69"
     fullname: >-
-      Beyza Nur 
+      Yakup ÖZKAN
     bio: >-
-      7000İnsan Ailem Oldunuz Beyza Nur Çınar🌸23Y Model🌸 İNSTANGRAM/yigitbeyzanur34
+      Sosyal medya ve Satış danışmanı 22 Ayar ve 14 ayar altın hakkında bilgi için DM.
     location: "Turkey"
-    followers: 7566
-    engagement: 698
-    commentsToLikes: 0.022771
-    id: ckbkiyb0dbmjs0j23cbbjbrmh
+    followers: 603000
+    engagement: 449
+    commentsToLikes: 0.008748
+    id: ck9n55rdp6n730j78jhxu3qal
     verified: false
-    hashtags: "#nowaterchallenge, #benioneal, #overtime, #isteme"
+    hashtags: "#22ct, #22ayar, #istanbul, #makedonija"
   - username: "katmercibey"
     fullname: >-
       Katmercibey
     bio: >-
       İnstagram : katmercibey
     location: "Turkey"
-    followers: 32300
-    engagement: 443
-    commentsToLikes: 0.015312
+    followers: 31100
+    engagement: 455
+    commentsToLikes: 0.015485
     id: ck8kcvvu235n20j78tjmx6spd
     verified: false
-    hashtags: "#katmercibey, #food, #turkiye, #like"
+    hashtags: "#tiktoksea, #tiktokgallery, #newyear2020, #tiktok"
   - username: "challengerrrrr"
     fullname: >-
       Hrnnnnnnn
     bio: >-
       
     location: "Turkey"
-    followers: 166300
-    engagement: 401
-    commentsToLikes: 0.005152
+    followers: 166400
+    engagement: 417
+    commentsToLikes: 0.005382
     id: ckamoawqy85da0i78wf8v5a1m
     verified: false
-    hashtags: "#landrover, #ke, #istanbul, #rangerover"
-  - username: "karamurattttt"
+    hashtags: "#ke, #landrover, #rangerover, #tiktok"
+  - username: "_murat_04_"
     fullname: >-
-      KARAMURATTTTT
+      Murat04
     bio: >-
       
     location: "Turkey"
-    followers: 3306
-    engagement: 279
-    commentsToLikes: 0.007514
+    followers: 3211
+    engagement: 304
+    commentsToLikes: 0.006740
     id: ckcddoku85q0l0j235tr1mnoy
     verified: false
-    hashtags: "#keman, #dublaj, #tiktok, #tiktokt"
-  - username: "itsboodka"
+    hashtags: "#tiktokbd, #modely, #hayvanlar, #tiktok"
+  - username: "delimavi_official"
     fullname: >-
-      『Mc』ツ
+      %100.Ⓜ️Avi 🧿🧿
     bio: >-
-      Syrian YouTuber | Model Content creator @instagram & @youtube YouTube channel 🚩
+      LİKEE ARABİA TÜRKİYE TEMSİLCİSİ 🇹🇷 🇦🇪 👈İnstagram deli.mavi57 MODEL
     location: "Turkey"
-    followers: 16500
-    engagement: 398
-    commentsToLikes: 0.119835
-    id: cka6e81pratos0i78ucexrepo
+    followers: 45400
+    engagement: 1143
+    commentsToLikes: 0.082855
+    id: ck99a9sa3gohb0j78htoy1ves
     verified: false
-    hashtags: ""
-  - username: "tatlipinar"
+    hashtags: "#karya, #sevgililerg, #arabia, #komikreblik"
+  - username: "yigitdoren"
     fullname: >-
-      pınar tatlì
+      TC Yiğit Dören
     bio: >-
-      instagram pinar_tatli27 Solist🎤 model👸 fokegitmeni🦈
+      Kastım var sinema, dizi model ve reklam ajansi😜 #actor insta: @tcyigitdoren
     location: "Turkey"
-    followers: 21000
-    engagement: 1024
-    commentsToLikes: 0.027110
-    id: ckauq7oxcvbk30j232vt5ns1s
+    followers: 4225
+    engagement: 645
+    commentsToLikes: 0.097737
+    id: ckd5rjz3iy7rl0j2338of0r0o
     verified: false
-    hashtags: "#kesfett, #tiktok, #nowaterchallenge, #kesfetten"
+    hashtags: "#covid2020, #ke, #acayipiyike, #mizahturkiye"
 ---

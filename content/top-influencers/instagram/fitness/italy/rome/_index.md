@@ -1,72 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Rome in 2023
+title: Top 10 Fitness Instagram Influencers In Rome In 2023
 description: >-
-  Find top fitness Instagram influencers in Rome in 2023. Most popular hashtags: #rome #fitness #italy #roma.
+  Find top fitness Instagram influencers in Rome in 2023. Most popular hashtags: #italy #fitness #rome #italia.
 platform: Instagram
-hits: 111
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 111 Instagram influencers like this in Rome, Italy for you to connect with.
+hits: 78
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 78 Instagram influencers like this in Rome, Italy for you to pitch.
 profiles:
-  - username: "ascanio1973"
+  - username: "massimo_sammito"
     fullname: >-
-      Ascanio Pacelli CCM
+      Massimosammitoofficial
     bio: >-
-      GM at @terredeiconsoli, @hydrogen_official Ambassador Husband of an incredible woman @misskatia , my 💙’s 4 Maty&Tank
+      📍Milano, 39 anni🇮🇹 / . Twitter: Massimosammitoofficial . ❤️Sentimentalmente IMPEGNATO ❤️ 🏷️ Sicily / 📸 Work to Editing photo ACCOUNT QUELLO VERO..
     location: "Italy"
-    followers: 318856
-    engagement: 166
-    commentsToLikes: 0.029519
-    id: ck5pw5prll88x0i11ct4d6mps
-    verified: true
-    hashtags: "#home, #usa, #golf, #rome"
-  - username: "francescaabbatiello"
-    fullname: >-
-      Francesca Abbatiello
-    bio: >-
-      📸»Photomodel 🛍»Fashion Addicted 🏋🏼‍♀️»Beauty & Fitness 📍based in Rome, IT ♍️20
-    location: "Italy"
-    followers: 10298
-    engagement: 1358
-    commentsToLikes: 0.006937
-    id: ckapck96g45rh0i789i468558
+    followers: 17007
+    engagement: 439
+    commentsToLikes: 0.074170
+    id: ck8t8x6epm6330j78yzwtcjdp
     verified: false
-    hashtags: ""
-  - username: "alessia_alfani"
+    hashtags: "#instamilano, #igerslombardia, #polizia, #milanocity"
+  - username: "_lauranicolelifestyle__"
     fullname: >-
-      𝒜𝓁ℯ𝓈𝓈𝒾𝒶
+      ʟᴀᴜʀᴀ ɴɪᴄᴏʟᴇ 🍁 ᴅᴀɪʟʏ ɪɴsᴘᴏ 👜
     bio: >-
-      𝐿𝑖𝑣𝑒 𝑖𝑛 𝑅𝑜𝑚𝑒 ♡ • 𝐴𝑟𝑐ℎ𝑒𝑜𝑙𝑜𝑔𝑖𝑠𝑡 • 𝐻𝑜𝑠𝑡𝑒𝑠𝑠 • 𝐶𝑖𝑡𝑖𝑧𝑒𝑛 𝑜𝑓 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑 𝑀𝑦 𝑙𝑖𝑓𝑒, 𝑚𝑦 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑠, 𝑚𝑦 𝑤𝑜𝑟𝑘 𝑎𝑛𝑑 𝑚𝑦 𝑡𝑟𝑎𝑣𝑒𝑙𝑠. #𝑏𝑙𝑜𝑔 #𝑡𝑟𝑎𝑣𝑒𝑙 #𝑤𝑎𝑛𝑑𝑒𝑟𝑙𝑢𝑠𝑡
+      🤍 𝓛𝓸𝓿𝓮 𝓽𝓪𝓴𝓲𝓷𝓰 𝓹𝓲𝓬𝓽𝓾𝓻𝓮𝓼 🤍 • ᴄᴏᴢʏ sᴇᴇᴋᴇʀ • ᴄᴀᴛ ʟᴏᴠᴇʀ • 🍁❄ ғᴀʟʟ ᴡɪɴᴛᴇʀ ᴇɴᴛʜᴜsɪᴀsᴛs • ʙɪʙʟɪᴏᴘʜɪʟᴇ • ᴅɪsɴᴇʏ • ᴠɪᴅᴇᴏɢᴀᴍᴇs 🐻 @_animalcrossing_brightmoon
     location: "Italy"
-    followers: 7630
-    engagement: 1212
-    commentsToLikes: 0.042884
-    id: ck9hbnpjfhnju0j78hf6fsxss
+    followers: 17652
+    engagement: 231
+    commentsToLikes: 0.100026
+    id: ck6txvwb505su0j71oi2rqwp6
     verified: false
-    hashtags: "#portrait, #music, #beauty, #holiday"
-  - username: "richardgregsonfitness"
-    fullname: >-
-      RG FITNESS
-    bio: >-
-      💪🏻Online fitness Coach 👨🏼‍🎓Sports science BSc (hons) 📲Apply for online coaching below 👇🏻 📍#Manchester
-    location: "Italy"
-    followers: 19019
-    engagement: 111
-    commentsToLikes: 0.179908
-    id: ckf5pxk307juw0j23a8qxrzup
-    verified: false
-    hashtags: "#rome, #ukfitness, #legday, #alphalete"
-  - username: "michael.oliveira93"
-    fullname: >-
-      Michael Oliveira ® 
-    bio: >-
-      🇮🇹 Italian From 🇧🇷 Brazil __————    ————__ 🏡 Living in Rome Italy 🏋🏻‍♂️ Fitness ▪ Tattooed ▪ Lifestyle 💼 🔞🔥 Direct 📩
-    location: "Italy"
-    followers: 76104
-    engagement: 171
-    commentsToLikes: 0.011250
-    id: ck6u96cdbvr9v0j71ytil6apq
-    verified: false
-    hashtags: "#fitnessboy, #estilomasculino, #gostoso, #tattoostyle"
+    hashtags: "#beautifulgirls, #cozyvibes, #christmasdecor, #christmaspresents"
   - username: "djdavidmorales"
     fullname: >-
       David Morales
@@ -78,53 +42,89 @@ profiles:
     commentsToLikes: 0.027663
     id: ck0udpeqsjkdz0i19yspb0pzx
     verified: true
-    hashtags: "#music, #photooftheday, #radio, #italy"
+    hashtags: "#freedom, #diridimrecords, #musica, #wearesocial"
+  - username: "altamashfaraz"
+    fullname: >-
+      Altamash Faraz
+    bio: >-
+      Mr.Supranational Asia and Oceania 2018 • Mr.India 2017 🇮🇳🏆 • Lawyer • Seeker • Sufi
+    location: "Italy"
+    followers: 47300
+    engagement: 349
+    commentsToLikes: 0.011209
+    id: ck602o0lsi83p0i14tdw3ld75
+    verified: true
+    hashtags: "#love, #photography, #portrait, #men"
   - username: "veronicafabrianesi"
     fullname: >-
       𝐕𝐄𝐑𝐎𝐍𝐈𝐂𝐀 𝐅𝐀𝐁𝐑𝐈𝐀𝐍𝐄𝐒𝐈
     bio: >-
       🇮🇹 RUNNING | FITNESS 🏃🏻‍♀️Team Running: @runnertrainer 📍 Rome, Italy 💌 Collab: veronica.fabrianesi@gmail.com
     location: "Italy"
-    followers: 79319
-    engagement: 138
-    commentsToLikes: 0.137452
+    followers: 80032
+    engagement: 125
+    commentsToLikes: 0.110126
     id: ck8ta5dlqqhh30j78h4anw4w1
     verified: false
-    hashtags: "#instarunner, #igersroma, #selfie, #runners"
-  - username: "danouuz"
+    hashtags: "#rome, #ig, #instarunners, #marathontraining"
+  - username: "pau_armeria"
     fullname: >-
-      Danae Pappa
+      Pau Armeria
     bio: >-
-      Full time Dancer, Actress, Performer Greek with a New York addiction. 🙉🙈🙊
+      Athlete 🇲🇽 🇮🇹 📍Roma Squadra Nazionale di Taekwondo 🥋 🥈PanAm Games 🥇PanAm Championships 🥇J. Centroamericanos 🥉🥉 World Universiade @atletas_mx
     location: "Italy"
-    followers: 185242
-    engagement: 1042
-    commentsToLikes: 0.007287
-    id: ck15tvywuk6gg0i19ypwvgv9q
+    followers: 13485
+    engagement: 733
+    commentsToLikes: 0.018850
+    id: ck8syersokme20j78pnegh92k
     verified: false
-    hashtags: "#travel, #happy, #danouuz, #smile"
-  - username: "anna.targa"
-    fullname: >-
-      Anna Targa
-    bio: >-
-      PROFESSIONAL PROTOGRAPHER 📸 @nikonitalia creator 📸 Corsi online di editing 🤓 Rome 🌍
-    location: "Italy"
-    followers: 28459
-    engagement: 704
-    commentsToLikes: 0.085322
-    id: ck5bve8lyjhgf0i11sr9hcw8q
-    verified: false
-    hashtags: "#nikon, #thep0rtraitproject, #dress, #shotonlexar"
+    hashtags: "#sportiva, #fight, #fita, #keepgoing"
   - username: "angelicaceci95"
     fullname: >-
       Angelica 💙
     bio: >-
       Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
     location: "Italy"
-    followers: 3777
-    engagement: 1923
-    commentsToLikes: 0.142160
+    followers: 3701
+    engagement: 1356
+    commentsToLikes: 0.078475
     id: ck8t5wrudbi500j78diegkd83
     verified: false
-    hashtags: "#italy, #gym, #girly, #me"
+    hashtags: "#veneziagram, #viaggiare, #travelblog, #throwback"
+  - username: "luca_contartese"
+    fullname: >-
+      Luca Contartese
+    bio: >-
+      ᴀᴍʙɪᴛɪᴏɴ ᴋᴇᴇᴘs ʏᴏᴜ ᴀʟɪᴠᴇ ▪️ Milan📍Rome ▪️ @premiumlab__ Founder ▪️ @unimib Economy&marketing student ▪️ @elitemodelworld
+    location: "Italy"
+    followers: 10169
+    engagement: 1307
+    commentsToLikes: 0.048403
+    id: ckap03wuxom9n0i78fq2k4xnz
+    verified: false
+    hashtags: "#dg, #milano, #modeling, #mindset"
+  - username: "alessia.fit"
+    fullname: >-
+      Alessia 🌸
+    bio: >-
+      #fitness 💪🇮🇹26y/o 🌍from Palermo @move__fit Atlete Coupon: ALESSIAFIT10 👩‍💻for collaboration⬇️ 📧 alessiatullio21@gmail.com
+    location: "Italy"
+    followers: 17076
+    engagement: 384
+    commentsToLikes: 0.131188
+    id: ckaov9pe43mxc0i78xl4id0ng
+    verified: false
+    hashtags: "#siciliagram, #sicilia, #roma, #igers"
+  - username: "andrea_muzilla_ifbbpro"
+    fullname: >-
+      ANDREA MUZI IFBB PRO
+    bio: >-
+      📍ROME🇮🇹 ♦️Atleta PRO @yamamotonutrition ➡️ code YX20+MUZILLA ➡️25% 📧 coaching: andrea_muzi@live.it ➡️teamstones👊 🏅4thYamamotoCUP’19 🏅5thFitparade🇧🇬’19
+    location: "Italy"
+    followers: 37441
+    engagement: 788
+    commentsToLikes: 0.019021
+    id: ck6tyhxzw3tx70j71z9r5g9gx
+    verified: false
+    hashtags: "#ifbb, #andreamuzi, #photo, #comeon"
 ---

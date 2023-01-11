@@ -1,24 +1,36 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Peru in 2023
+title: Top 10 Skincare Instagram Influencers In Peru In 2023
 description: >-
-  Find top skincare Instagram influencers in Peru in 2023. Most popular hashtags: #skincare #makeup #peru #beauty.
+  Find top skincare Instagram influencers in Peru in 2023. Most popular hashtags: #peru #publicidad #skincare #lifestyle.
 platform: Instagram
-hits: 12
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 12 Instagram influencers like this in Peru for you to contact.
+hits: 15
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 15 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "marinamoram"
+  - username: "daniellaeacosta"
     fullname: >-
-      Marina Mora Montero 🐝
+      Daniella | Outfits y Datos
     bio: >-
-      📩 marketing@marinamora.com Directora @escuelamarinamora @missteenmodelperu @missteenmodelinternacional @littlequeenperu @marinamoramodelagency
+      ◽️Lifestyle l Fashion & Beauty ◽️Moda para todas l Tips & Datos l Emprendimiento INSCRÍBETE AL CAMPAFIT AQUÍ⬇️
     location: "Peru"
-    followers: 194454
-    engagement: 119
-    commentsToLikes: 0.024139
-    id: ck5hrywiivpvq0i11n8dv8xbx
+    followers: 66808
+    engagement: 218
+    commentsToLikes: 0.075659
+    id: ck13d1tzc38n30i19e4v4c15v
     verified: false
-    hashtags: "#tipsdebelleza, #beauty, #monday, #positivevibes"
+    hashtags: "#publicidad, #lifestyleblogger, #outfitinspo, #instareel"
+  - username: "nicollechangc"
+    fullname: >-
+      Nicolle Chang Makeup Artist.
+    bio: >-
+      💄MUA & Beauty Content Creator 🎵Tiktok: nicollechangc [1.5M+] 📍Lima, Perú 📌 Citas en @nicollechangmakeup 📩nicollechangmakeup@gmail.com
+    location: "Peru"
+    followers: 125184
+    engagement: 902
+    commentsToLikes: 0.032827
+    id: ck6ucvwnlhrbb0j71u9zr5a8m
+    verified: false
+    hashtags: "#nicollechangmakeup, #redlips, #makeuplover, #christmas2022"
   - username: "camilaheredia.b"
     fullname: >-
       Camila Heredia    • Creadora
@@ -30,101 +42,89 @@ profiles:
     commentsToLikes: 0.160490
     id: ckap2igozyz9p0i78udr6facr
     verified: false
-    hashtags: "#peruana, #lifestyle, #lifestyleblogger, #beauty"
+    hashtags: "#fashionstyle, #mamablogger, #camilaheredia, #peruana"
   - username: "comerviajarybailar"
     fullname: >-
       ᴄᴏᴍᴇʀ ᴠɪᴀᴊᴀʀ ʏ ʙᴀɪʟᴀʀ
     bio: >-
       🇵🇪 Eɴᴀᴍᴏ́ʀᴀᴛᴇ ᴅᴇʟ Pᴇʀᴜ́ 🇵🇪 🏄‍♀️ Alexandra Roncal ᴀʙᴏɢᴀᴅᴀ ᴛʀᴏᴛᴀᴍᴜɴᴅᴏs 🌎✈️ Recorramos juntos el Perú 🚘 Lima Salerosa, nuestro último artículo ⬇️
     location: "Peru"
-    followers: 9884
-    engagement: 751
-    commentsToLikes: 0.104205
+    followers: 14279
+    engagement: 613
+    commentsToLikes: 0.093667
     id: ck5pv26c3fr4f0i11bz9l4g2i
     verified: false
-    hashtags: "#photooftheday, #girlsday, #selfie, #lima"
-  - username: "mollytuesta"
+    hashtags: "#travel, #traveling, #instapassport, #trending"
+  - username: "kelinrk"
     fullname: >-
-      Molly Tuesta
+      Kelín Rivera Kroll
     bio: >-
-      ⚡️CEO of @mtgmanagement @mtgmodelmaker ⚡️Designer/Brand Manager Elite Model Perú Peru's next top model We are magic ⚡️
+      Founder: @ruta_solidaria_peru
     location: "Peru"
-    followers: 30903
-    engagement: 111
-    commentsToLikes: 0.101598
-    id: ck6ucv01hhmpi0j71kbwmwoyg
-    verified: false
-    hashtags: "#nozoologicos, #goodwillhunting, #golden, #sunlight"
-  - username: "fernandamarsano"
+    followers: 96376
+    engagement: 266
+    commentsToLikes: 0.021088
+    id: ck5zxeuwn7vnw0i143v3thmc5
+    verified: true
+    hashtags: "#loveyourself, #para, #cielo, #panama"
+  - username: "andreamobergt"
     fullname: >-
-      Fernanda Marsano 🦄
+      Andrea Moberg Tobies
     bio: >-
-      Entrepreneur |Comedian |Actress Owner: @firaysana @labodegadefernanda_
+      Comunicadora Mamá de @memeorejas 🐶 Activista social💫 MISS PERÚ GRAND 2018👑 Amo viajar, conocer el mundo ✈️🌎
     location: "Peru"
-    followers: 26160
-    engagement: 248
-    commentsToLikes: 0.071438
-    id: ck6ucvulyhr0m0j7186ra4e96
-    verified: false
-    hashtags: "#travelphotography, #love, #blackandwhitephotography, #home"
-  - username: "maferbenites"
+    followers: 53656
+    engagement: 164
+    commentsToLikes: 0.055614
+    id: ck6u908jkuq0a0j71ho0ztwc5
+    verified: true
+    hashtags: "#moda, #peru, #selva, #reels"
+  - username: "maferjaime1"
     fullname: >-
-      MAFER BENITES
+      MAFER JAIME
     bio: >-
-      Beauty Influencer-Maquilladora Pro 💄 400K TikTok maferbenitesmk Cursos de Automaquillaje-Makeup Pro 📹YouTube @maferbenites 💳compra aquí ⬇️
+      lima | medellin @weshoficial
     location: "Peru"
-    followers: 52298
-    engagement: 208
-    commentsToLikes: 0.108064
-    id: ck55m203f309u0i11trhkmrnf
+    followers: 146679
+    engagement: 229
+    commentsToLikes: 0.013906
+    id: ck5zjhwk9hmh30i140pjubrtg
     verified: false
-    hashtags: "#instagramreels, #makeup, #makeuplooks, #maquillaje"
-  - username: "martincatalogne"
+    hashtags: "#nightroutine, #lifestyle, #morningroutine, #healthylifestyle"
+  - username: "marinamoram"
     fullname: >-
-      Cabrologne  🌈🌈
+      Marina Mora Montero 🐝
     bio: >-
-      Para contratos internacionales escribir al whatsapp +5491159450013 Para citas y contratos en Peru +51 933 100 886
+      Modelo/ Reina / Empresaria/ Profesora / Feliz y Agradecida 🙏❤️ @marinamoraescuela @marinamorashop ☎️ 01-6538747 Av.Reducto 971-Miraflores Lima PERU
     location: "Peru"
-    followers: 191111
-    engagement: 374
-    commentsToLikes: 0.076746
-    id: ck15sci4hcbd80i19q3gboe1j
+    followers: 218860
+    engagement: 143
+    commentsToLikes: 0.026224
+    id: ck5hrywiivpvq0i11n8dv8xbx
     verified: false
-    hashtags: "#makeuptutorial, #maquillaje, #beauty, #makeupartist"
-  - username: "arlene_elizondo"
+    hashtags: "#positivelife, #blessed, #grateful, #peru"
+  - username: "nataliasalasz"
     fullname: >-
-      Arlene Elizondo (Oficial)
+      Natalia Salas
     bio: >-
-      🎼Ex participante Tu Cara me suena 4ta Temporada 🎤Cantante Grupo EXPRESSO 🎙Locutora Comercial. 🖋 Lic. Comunicación de Mercadeo
+      •Actriz y cantante que baila •Conductora-Entertainer-PetLover🐱 •Mamá de Leandro 👶🏻 📧: hanna@hannaagency.pe 📍Lima-Perú
     location: "Peru"
-    followers: 23706
-    engagement: 463
-    commentsToLikes: 0.039272
-    id: ck5zo6dnepv6g0i14jfoehdsh
-    verified: false
-    hashtags: "#fe, #pasion, #music, #black"
-  - username: "samaraferreiraaaa"
+    followers: 959449
+    engagement: 233
+    commentsToLikes: 0.079692
+    id: ck0w69ljd7io50i19mfsmgmcp
+    verified: true
+    hashtags: "#sorteo, #actriz, #felizota, #mileandro"
+  - username: "kivasmakeup"
     fullname: >-
-      Samara Ferreira
+      María Fernanda
     bio: >-
-      From Brazil 🇧🇷 Living in Lima - Perú 🇵🇪📍 @miracle_maar
+      Maquilladora Certificada 🇵🇪 🇦🇷 🇺🇸 🇧🇷 #Peruana ☆ Cursos Online (ESP/ENG) Inscríbete desde cualquier parte del mundo 🌎
     location: "Peru"
-    followers: 5367
-    engagement: 587
-    commentsToLikes: 0.049803
-    id: ck6u939tnv8y60j71ax5kibt0
+    followers: 25019
+    engagement: 186
+    commentsToLikes: 0.049468
+    id: ck5c3b3udyy340i11qk4jhm9n
     verified: false
-    hashtags: "#cachinhosnaturais, #camilo, #curls, #cachea"
-  - username: "daniellaeacosta"
-    fullname: >-
-      Daniella Acosta
-    bio: >-
-      👩🏻‍🎓l Publicista & Lifestyle Blogger 🎶| #TikTok @daniellaeacosta 🌷l Jeremías 29:11 👩🏻‍💻l @versatile.peru Mira mi último video⬇️
-    location: "Peru"
-    followers: 57299
-    engagement: 221
-    commentsToLikes: 0.188334
-    id: ck13d1tzc38n30i19e4v4c15v
-    verified: false
-    hashtags: "#lifestyleblogger, #comfystyle, #fashionblog, #fashionstyle"
+    hashtags: "#kivasmakeup, #makeup, #inbeautmag, #muasublime"
 ---

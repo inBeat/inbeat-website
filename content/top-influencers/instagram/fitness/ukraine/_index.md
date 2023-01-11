@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Ukraine in 2023
+title: Top 10 Fitness Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top fitness Instagram influencers in Ukraine in 2023. Most popular hashtags: #model #gymlife #fitnessmotivation.
+  Find top fitness Instagram influencers in Ukraine in 2023. Most popular hashtags: #fitness #training #gym.
 platform: Instagram
-hits: 124
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 124 Instagram influencers like this in Ukraine for you to contact.
+hits: 40
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 40 Instagram influencers like this in Ukraine for you to contact.
 profiles:
-  - username: "stavnicha_dasha"
+  - username: "karinna_foxx"
     fullname: >-
-      Даша Ставнича🐆
+      KARINA
     bio: >-
-      Fitness Coach 🔥Functional🔥TRX🔥CrossFit🔥Stretching 💪 Тренировки>с умом>на результат. 🏆МС-по лёгкой атлетики,Призёр чемпионат Мира и Европы. ❤️Авторский
+      🖤Model from Ukraine 🇺🇦 🖤Fitness trainer💪 🖤Producer 📽 🖤My brand @rabell.brand 📍Kyiv,Ukraine Work questions - Direct⚠️
     location: "Ukraine"
-    followers: 10806
-    engagement: 1243
-    commentsToLikes: 0.037012
-    id: ck8tds9r44l770j78hijdqls0
+    followers: 48076
+    engagement: 291
+    commentsToLikes: 0.019519
+    id: ck5ce6h2dkf2j0i11sb4fa06d
     verified: false
-    hashtags: "#tracknation, #trackandfield, #runnersofinsta, #nikewoman"
-  - username: "win_joker"
-    fullname: >-
-      Lisa Goncharenko
-    bio: >-
-      💙Открыта для сотрудничества - 𝐝𝐢𝐫𝐞𝐜𝐭💙 * Best kids talent Ukraine * Snow Maiden talent * Model OFW * Miss fitness * Travel lover🌍 @royalfamily_models
-    location: "Ukraine"
-    followers: 4144
-    engagement: 1797
-    commentsToLikes: 0.070807
-    id: ckf5ok3bn2kzu0j23tytvw6ws
-    verified: false
-    hashtags: "#pushkanikolaev, #modellife, #photo, #modelgirl"
-  - username: "onlynastie"
-    fullname: >-
-      Anastasia
-    bio: >-
-      Model • Artist • Photographer #model #girl #lingerie #fitnessgirl #onlyNastie
-    location: "Ukraine"
-    followers: 3125
-    engagement: 4545
-    commentsToLikes: 0.040578
-    id: ckap6xa0thqnv0i787lv3h83f
-    verified: false
-    hashtags: "#lingerie, #photography, #brunette, #girlswithtattoos"
-  - username: "ivankrylenko"
-    fullname: >-
-      Иван
-    bio: >-
-      High workout coach Functional practice  Creator&head of @barstylers_official Fitness model PR & advertising: direct 👀🗣Facebook ivan krylenko
-    location: "Ukraine"
-    followers: 15116
-    engagement: 287
-    commentsToLikes: 0.074380
-    id: ck6u9e10bx0f10j71kmklx7t2
-    verified: false
-    hashtags: "#crossfit, #traning, #power, #menstyle"
-  - username: "nastusianovikova"
-    fullname: >-
-      Анастасия Новикова
-    bio: >-
-      Со штангой в платье. Самый женственный тренер Украины! Программы питания: @novikova_menu Фитнес школа: @fitness_press227 Реклама: @nastusianovikova_pr
-    location: "Ukraine"
-    followers: 56812
-    engagement: 287
-    commentsToLikes: 0.041927
-    id: ck0w42mg3whzy0i199ou7vong
-    verified: false
-    hashtags: "#optimeal"
-  - username: "taras.tsymbaliuk"
-    fullname: >-
-      ТАРАС ЦИМБАЛЮК
-    bio: >-
-      ukrainian actor | fitness lover ⠀ PR | cooperation | @gorna_ | Nastia ⠀ cinema agent | +380 (67) 447 67 70 | Oksana⠀ EMAIL | tarasactor@gmail.com
-    location: "Ukraine"
-    followers: 76979
-    engagement: 627
-    commentsToLikes: 0.014982
-    id: ck14imdfeg3wl0i19d4k18or6
-    verified: false
-    hashtags: "#zniewolona, #stb"
-  - username: "ivanmyskovets"
-    fullname: >-
-      ᴵᵛᵃᶰ ᴹʸˢᵏᵒᵛᵉᵗˢ🧸
-    bio: >-
-      Personal trainer 💪🏾 @manhattan_fitness_rv Dunker🚀 Hard work 24\7💥 Сотрудничество в директ 📩
-    location: "Ukraine"
-    followers: 6716
-    engagement: 2110
-    commentsToLikes: 0.011727
-    id: ck9ha4ck6b3ce0j78kkdsgsbg
-    verified: false
-    hashtags: "#fitnessmotivation, #samoyed, #fitnessmodel, #tattoomodel"
-  - username: "but_photo"
-    fullname: >-
-      Vitaliy But 📸 Виталий Бут
-    bio: >-
-      Photographer in Odessa📸В профиле только мои работы 📲0933840292 ❗💪🏼️Fitness photographer ❗️💪🏻
-    location: "Ukraine"
-    followers: 12891
-    engagement: 311
-    commentsToLikes: 0.217770
-    id: ck0vzxpjqbe9m0i19zha2ix64
-    verified: false
-    hashtags: "#fitnessphotographer, #canonukraine, #fitnessphotography, #gymlife"
+    hashtags: ""
   - username: "twentypower"
     fullname: >-
       DAN
     bio: >-
       My main page @dan.khann Fitness trainer & model Life/Backstage/Work 📩 info.dankhan@gmail.com My blog 🔻
     location: "Ukraine"
-    followers: 5480
-    engagement: 1083
-    commentsToLikes: 0.028128
+    followers: 5514
+    engagement: 677
+    commentsToLikes: 0.013838
     id: ck5zrq33mx1vz0i14xmvq2m1p
     verified: false
-    hashtags: "#naturalbodybuilding, #physique, #bodygoals, #bodyfit"
-  - username: "dariashullga"
+    hashtags: ""
+  - username: "taras.tsymbaliuk"
     fullname: >-
-      𝐃 𝐀 𝐒 𝐇 𝐀
+      ТАРАС ЦИМБАЛЮК
     bio: >-
-      Sumy/UK📍 •Moto lady🏍 •Tattoo model😎 •Fitness Trainer🏋🏻‍♀️ Advertisement/Collaboration Direct💌
+      ukrainian actor | fitness lover ⠀ PR | cooperation | @gorna_ | Nastia ⠀ cinema agent | +380 (67) 447 67 70 | Oksana⠀ EMAIL | tarasactor@gmail.com
     location: "Ukraine"
-    followers: 32532
-    engagement: 564
-    commentsToLikes: 0.013724
-    id: ck14isgrzgyw40i19qlycwryo
+    followers: 87384
+    engagement: 472
+    commentsToLikes: 0.012584
+    id: ck14imdfeg3wl0i19d4k18or6
     verified: false
-    hashtags: "#sumy, #uk, #girl, #sumygram"
+    hashtags: ""
+  - username: "marydenysiuk"
+    fullname: >-
+      𝗠𝗔𝗥𝗜𝗔 𝗗𝗘𝗡𝗬𝗦𝗜𝗨𝗞 - 𝗦𝗧𝗔𝗬 𝗛𝗘𝗔𝗟𝗧𝗛𝗬
+    bio: >-
+      - Your certified fitness buddy - Healthy recipes for you 📍Rotterdam,Netherlands #maryden_fitness & #maryden_recipe Investing/Інвестую
+    location: "Ukraine"
+    followers: 386292
+    engagement: 44
+    commentsToLikes: 0.034407
+    id: ck6udxlqtnp4g0j71mqfpeeiw
+    verified: false
+    hashtags: "#lovingblends, #solidshampoo, #zonderplasticafval, #shampoobar"
+  - username: "amina.dembele"
+    fullname: >-
+      Amina
+    bio: >-
+      Fitness💪🏽 Ivorian🇨🇮 Ukrainian🇺🇦
+    location: "Ukraine"
+    followers: 5372
+    engagement: 1491
+    commentsToLikes: 0.023520
+    id: ck8wd0sxbd9910j78u6z4a9w8
+    verified: false
+    hashtags: "#gym, #fitness, #stayfit, #workout"
+  - username: "usmanov_shh"
+    fullname: >-
+      Shaban Usmanov
+    bio: >-
+      ♦️Тренер сети клубов Fitness House 🎖МС по боевому самбо, КМС по грепплингу 🤼‍♂️Тренер БК VOIN 🔹Групповые и персональные тренировки
+    location: "Ukraine"
+    followers: 5853
+    engagement: 589
+    commentsToLikes: 0.063501
+    id: ckf5tl1hji3880j236955ria2
+    verified: false
+    hashtags: "#boxingtraining, #walk, #legend, #alcatraz"
+  - username: "pilnikus"
+    fullname: >-
+      Pilnik 🐍
+    bio: >-
+      Tattoo,fitness,blog 🇺🇦Kharkov ⭕️Тренер персональных и индивидуальных занятий в @yodsportclub TikTok🐱 100k+ Likee 💛 40k+
+    location: "Ukraine"
+    followers: 2590
+    engagement: 2292
+    commentsToLikes: 0.033687
+    id: ck6u9e6pfx1cl0j71xo9o9gvk
+    verified: false
+    hashtags: "#viral, #fyp, #tiktok, #kharkov"
+  - username: "alena_yakim"
+    fullname: >-
+      Бодибилдинг  со Вкусом
+    bio: >-
+      🌟 women’s physique (ФББР) 🥇Чемпионка Москвы 2020 🥈Вице-чемпионка Москвы 2019 Персональный тренер ☄️ @kometa.fitness ☄️ @kometa.black
+    location: "Ukraine"
+    followers: 19083
+    engagement: 208
+    commentsToLikes: 0.065286
+    id: ckf5qvc8nalqi0j23l0cmclxs
+    verified: false
+    hashtags: "#kometafit, #fitnessgirl, #kometablack, #moscow"
+  - username: "soloveykatyatkd"
+    fullname: >-
+      Katya Solovey
+    bio: >-
+      ITF & WAKO: 5 times World champion, 11 Times European champion, 6 times World Cup champ. Solovey team Taekwon-Do and Fitness instructor
+    location: "Ukraine"
+    followers: 10982
+    engagement: 1128
+    commentsToLikes: 0.021626
+    id: ck6u6toulho1w0j7152v0o30f
+    verified: false
+    hashtags: "#taekwondowtf, #lightcontactkickboxing, #colombia, #korea"
+  - username: "julusina"
+    fullname: >-
+      Julia Chumachenko
+    bio: >-
+      Юся Чумаченко Highjumper, PB 194cm (my height is smaller!) 30th summer Universiade champion 🥇 Ukrainian national team track and field
+    location: "Ukraine"
+    followers: 63902
+    engagement: 1397
+    commentsToLikes: 0.015986
+    id: ckf5lkflupw5j0j236fgpih32
+    verified: false
+    hashtags: "#trainingcamp, #fitness, #figure, #training"
 ---

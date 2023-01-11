@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Miami in 2023
+title: Top 10 Home Decor Instagram Influencers In Miami In 2023
 description: >-
-  Find top home decor Instagram influencers in Miami in 2023. Most popular hashtags: #miami #homedecor #travel #florida.
+  Find top home decor Instagram influencers in Miami in 2023. Most popular hashtags: #miami #homedecor #interiordesign #instagood.
 platform: Instagram
-hits: 66
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 66 Instagram influencers like this in Miami, United States for you to work with.
+hits: 82
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 82 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
   - username: "marina.b.style"
     fullname: >-
       Marina Bargouti
     bio: >-
-      Interior Stylist | E-Design Certified Luxury Home Specialist Accredited Home Staging Professional PR agent: Jess@morethanpress.com marina.b@usa.com
+      Interior + Design + Life + Style Certified Luxury Home Specialist Accredited Home Staging Professional Featured in @forbes @medium @british.thoughts
     location: "United States"
-    followers: 156894
-    engagement: 433
-    commentsToLikes: 0.062308
+    followers: 233355
+    engagement: 77
+    commentsToLikes: 0.085636
     id: ck5px0m34pim30i11u0lzip8g
     verified: false
-    hashtags: "#beforeandafter, #home, #housebeautiful, #interiorstyling"
-  - username: "taylormichellelong"
-    fullname: >-
-      Taylor Long
-    bio: >-
-      Lifestyle | Travel | Fashion 📷 Hire me @longlivelovephotography Beer 🍺 Lovers follow @mylovelyladyhops 📍#FriscoTx #DallasTx
-    location: "United States"
-    followers: 8099
-    engagement: 491
-    commentsToLikes: 0.239435
-    id: ck6u2xnqmuigw0j715isoxc28
-    verified: false
-    hashtags: "#friscotx, #nashville, #dallasinfluencer, #dallastx"
-  - username: "thefashionpoet"
-    fullname: >-
-      Annie Vazquez
-    bio: >-
-      Wellness. Self-Love. Body Positivity. CrueltyFree Live healthy & happy Only Good Vibes Here 🧘🏻‍♀️ Foundr: @anniethealchemist Seen:Vogue & NBC
-    location: "United States"
-    followers: 82187
-    engagement: 124
-    commentsToLikes: 0.026444
-    id: ck5zk89bmj0ar0i14t6ms29qw
-    verified: false
-    hashtags: "#bodypositivity, #bodypositive, #cleanbeauty, #wellness"
+    hashtags: "#interiorstylist, #luxuryhome, #housebeautiful, #luxurydesign"
   - username: "saraschroederart"
     fullname: >-
       Sara
     bio: >-
       Wife Mom Miami Especially fond of bright colors. ☕️ & 🍫 make me unreasonably happy. Painting keeps me grounded. Host @oldbookrevivalists
     location: "United States"
-    followers: 51084
-    engagement: 202
-    commentsToLikes: 0.030921
+    followers: 58921
+    engagement: 241
+    commentsToLikes: 0.025623
     id: ck0w4b3tzxp2u0i194qoo1r2w
     verified: false
-    hashtags: "#doitfortheprocess, #emergingartist, #carveouttimeforart, #saraschroederart"
-  - username: "kasalmen"
+    hashtags: "#fillyourwalls, #livingroominspo, #colorsplash, #bohostyledecor"
+  - username: "stylistsecrets"
     fullname: >-
-      Karina Salmen
+      ℝ𝕖𝕚𝕟𝕒 𝔻𝕖𝕝 𝕄𝕒𝕣
     bio: >-
-      The world through my eyes 🧿 I like to cook and dress cute 🌟 📌 Miami Let’s get in touch: karinasalmen@yahoo.com
+      Boutique owner: 🍃@hojadementashop🍃 🧿Keep your eyes on the stars 🤩and your feet on the ground 💫 Dear Brands:4Cᴏʟʟᴀʙs👇🏼 💌www.thestylistsecrets@gmail.com
     location: "United States"
-    followers: 50149
-    engagement: 364
-    commentsToLikes: 0.022603
-    id: ck0tyjoman44s0i19n74g82hv
+    followers: 28440
+    engagement: 101
+    commentsToLikes: 0.022640
+    id: ck0ty8pr5lxt60i19g7x8qcnw
     verified: false
-    hashtags: "#miamifashionblogger, #contentcreator, #maisonmine, #revolveme"
-  - username: "oaliving"
+    hashtags: "#handmadewithlove, #livinglife, #hojadementastyle, #casualstyle"
+  - username: "minimissalexis"
     fullname: >-
-      OALiving
+      MAMA | ALEXIS & LIAM
     bio: >-
-      You have one life, live it well.
+      Lifestyle/Motherhood Content Creator Miami FL🌴 Email/DM for collabs 📧minimissalexis@gmail.com #Miami #motherhood #lifestyle
     location: "United States"
-    followers: 392533
-    engagement: 228
-    commentsToLikes: 0.020108
-    id: ck0u0h3ubtnld0i19lvss5mk9
+    followers: 53608
+    engagement: 119
+    commentsToLikes: 0.129829
+    id: ck5cdu77njsd20i11paoyz7ji
     verified: false
-    hashtags: "#southmiami, #sky, #moon, #behappy"
-  - username: "danzbeard"
+    hashtags: "#miami, #realmotherhood, #beauty, #kidsroom"
+  - username: "harold_mm_21"
     fullname: >-
-      Daniel Zigler Physique Pro
+      Harold Marin
     bio: >-
-      Pro Natural Physique World Champion Fitness Coaching, Beard Products, and Collaborations Email: Dan@Zigfitness.com ⚔️ Nutrition Advice 👇
+      Artist,expressionist & sculptor deseos a las 11.11 Acuariano "Be always ready 4 what's coming next”
     location: "United States"
-    followers: 76281
-    engagement: 203
-    commentsToLikes: 0.067974
-    id: ck6u1sc0lnl7t0j713zs4urtw
+    followers: 4502
+    engagement: 1315
+    commentsToLikes: 0.076736
+    id: ckap4lot07udr0i78mvl4j6mn
     verified: false
-    hashtags: "#weekendvibes, #canon, #menwithbeards, #ftw"
-  - username: "oxananiki"
+    hashtags: "#style, #newpost, #trendy, #glam"
+  - username: "surfacespatterns"
     fullname: >-
-      FASHION | INSPO | TRAVEL
+      Surfaces Patterns
     bio: >-
-      Oxana Niki 📍 Miami, FL 💌 oxana@themommycouture.com 💫 Owner of @alyssakidsfashion
+      °°° Inspiring creations °°° #surfacespatterns Curated by @walter.spina
     location: "United States"
-    followers: 100940
-    engagement: 185
-    commentsToLikes: 0.046738
-    id: ck0tu7xi45zkt0i19qcl5v02i
+    followers: 122079
+    engagement: 81
+    commentsToLikes: 0.005983
+    id: ck0w752txbsqm0i19kjn27q3e
     verified: false
-    hashtags: "#bikinis, #matchymatchy, #photoshoot, #ootd"
-  - username: "dianaahernandez"
+    hashtags: "#floralpattern, #surfacespatterns, #textiledesign, #artlicensing"
+  - username: "erickaakresge"
     fullname: >-
-      DIANA HERNANDEZ 🇨🇴
+      Ericka Kresge
     bio: >-
-      TV HOST-TRAVELER Los Angeles-Miami
+      Wife and mom to 5 giving you beauty and fashion tips for real life. I’m also a licensed makeup artist specializing in weddings. Email me to book.
     location: "United States"
-    followers: 82060
-    engagement: 161
-    commentsToLikes: 0.140967
-    id: ckap3l9vc3h8x0i78t7w83dg3
-    verified: true
-    hashtags: "#dianahernandeztv, #travelstyle, #adventure, #bajacalifornia"
-  - username: "cmahecha32"
-    fullname: >-
-      Cesar MMdina
-    bio: >-
-      SAP MDM Consultant 👨🏻‍💻📊📈⚜️Living in 💫Downtown Miami ⚜️
-    location: "United States"
-    followers: 2237
-    engagement: 1181
-    commentsToLikes: 0.069407
-    id: ckap3muse3o6j0i78sl0e4z32
+    followers: 14743
+    engagement: 319
+    commentsToLikes: 0.075884
+    id: ck5cfzf8znvpm0i11lsss1tf7
     verified: false
-    hashtags: "#sunset, #fitness, #miamibeach, #instagood"
+    hashtags: "#blondeblogger, #styleenvy, #instafashion, #fashionfury"
+  - username: "angel_nicolas"
+    fullname: >-
+      Miami Real Estate Advisor
+    bio: >-
+      Angel Nicolas | Entrepreneur President of @thenicolasgroup at Compass
+    location: "United States"
+    followers: 28818
+    engagement: 82
+    commentsToLikes: 0.067900
+    id: ckf5te9cyhlnh0j23u8z03xai
+    verified: false
+    hashtags: "#dreamhome, #compassagents, #interiordesign, #motivation"
+  - username: "nvesttravel"
+    fullname: >-
+      NVEST LUXURY LIFESTYLE
+    bio: >-
+      👨🏾‍💻Richie Quintyne | Real Estate Broker🇧🇧🇺🇸 🌴Moving to📍Miami or Barbados? Contact me! 🕋 Visit LINK BELOW for Luxury Residences For Sale
+    location: "United States"
+    followers: 89434
+    engagement: 37
+    commentsToLikes: 0.035377
+    id: ck1383m7nec760i19228xxr0v
+    verified: false
+    hashtags: "#luxurycar, #traveler, #traveller, #travelguide"
+  - username: "staygoldengirl"
+    fullname: >-
+      💫 elizabeth s. | nsh, tn
+    bio: >-
+      ✿ girly (but edgy) style, beauty lover, obsessed w. reels, probably wearing pink! 💓 ☟shop my closet + links
+    location: "United States"
+    followers: 9588
+    engagement: 498
+    commentsToLikes: 0.179377
+    id: ck5cifhzosjzt0i11qba1vppb
+    verified: false
+    hashtags: "#outfitreels, #nashvilleinfluencer, #fashionreels, #southbeachmiami"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Tokyo in 2023
+title: Top 10 Travel TikTok Influencers In Tokyo In 2023
 description: >-
-  Find top travel TikTok influencers in Tokyo in 2023. Most popular hashtags: #tiktok #japan #travel #tokyo.
+  Find top travel TikTok influencers in Tokyo in 2023. Most popular hashtags: #tiktok #japan #tokyo #travel.
 platform: TikTok
 hits: 5
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database holds 5 TikTok influencers like this in Tokyo, Japan for you to work with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 5 TikTok influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
+  - username: "sugoimart"
+    fullname: >-
+      sugoimart
+    bio: >-
+      COOL SHIT IN JAPAN✨LET’S GO🇯🇵
+    location: "Japan"
+    followers: 1200000
+    engagement: 2484
+    commentsToLikes: 0.005959
+    id: ckavcezock9dz0j23gd0g9r57
+    verified: true
+    hashtags: "#japan, #japanthings, #foodfam, #japanlife"
   - username: "uekan2b"
     fullname: >-
       うえかん
     bio: >-
       👤18歳 . インスタとYouTubeも覗いて〜
     location: "Japan"
-    followers: 43600
-    engagement: 605
-    commentsToLikes: 0.019306
+    followers: 43000
+    engagement: 593
+    commentsToLikes: 0.021113
     id: ck9f22xxwbbcs0j78x237ieoo
     verified: false
-    hashtags: "#gopro, #loopchallenge, #vlog, #singapore"
-  - username: "aman_315"
-    fullname: >-
-      Aman
-    bio: >-
-      From Bangladesh
-    location: "Japan"
-    followers: 9780
-    engagement: 354
-    commentsToLikes: 0.016800
-    id: ck8khy7t2oshj0j78pxdq45lg
-    verified: false
-    hashtags: "#japan, #island, #love, #snow"
+    hashtags: "#loop, #singapore, #loopchallenge, #vlog"
   - username: "meily_chan"
     fullname: >-
-      Meily
+      交際8年目同棲カップルの食卓
     bio: >-
-      🇯🇵×🇺🇸 都内OL👩‍💼
+      交際8年目の24歳カップル。 遠距離5年⇒近距離1年⇒同棲1年。 料理は彼女。彼氏は皿洗い。
     location: "Japan"
-    followers: 43600
-    engagement: 375
-    commentsToLikes: 0.085784
+    followers: 43100
+    engagement: 297
+    commentsToLikes: 0.037037
     id: ckbl39kgq0mwa0j23xczfnwg6
     verified: false
-    hashtags: "#chinese, #travel, #tiktok, #japan"
+    hashtags: "#goto, #tiktok, #shanghai, #china"
   - username: "elle_255"
     fullname: >-
       Ellestha🦋
     bio: >-
       Love To Travel❤️❤️ Happiest here💗💗💗 Follow our 24/7 Sound of World YouTube 😊
     location: "Japan"
-    followers: 153800
-    engagement: 432
-    commentsToLikes: 0.028466
+    followers: 151700
+    engagement: 437
+    commentsToLikes: 0.028481
     id: ckan2lide0yu70i785ht77qi9
     verified: false
-    hashtags: "#tiktok, #tokyo, #fy, #nepali"
+    hashtags: "#nepali, #fyp, #fy, #trending"
   - username: "teamlab"
     fullname: >-
       teamLab
     bio: >-
-      Art collective アート集団 チームラボ https://www.teamlab.art/
+      Art collective アート集団 チームラボ
     location: "Japan"
-    followers: 7167
-    engagement: 356
-    commentsToLikes: 0.018098
+    followers: 7331
+    engagement: 345
+    commentsToLikes: 0.016728
     id: ckactzcxagh0r0i78hiog9t8g
     verified: true
-    hashtags: "#interactive, #teamlab, #autumn, #teamlabforest"
-  - username: "sora.orb"
-    fullname: >-
-      宙（SORA）
-    bio: >-
-      🔮CRYSTAL ARTIST🔮 🌍ID:sora.travel ← 2nd channel🌎 📩ご用件はInstagramのDMへ📩
-    location: "Japan"
-    followers: 490000
-    engagement: 983
-    commentsToLikes: 0.013187
-    id: ck8tm8abde9520j787aacnvti
-    verified: false
-    hashtags: "#contactjuggling, #fyp, #tiktok3, #tiktok"
+    hashtags: "#teamlabforest, #autumn, #museum, #tokyo"
   - username: "miistraveling"
     fullname: >-
       Mii
     bio: >-
       一緒に旅しよ⁈ 🗺✈︎ 🆔miispacedesign Travel Holic💋Visit my IG
     location: "Japan"
-    followers: 5078
-    engagement: 292
-    commentsToLikes: 0.054655
+    followers: 5041
+    engagement: 290
+    commentsToLikes: 0.054518
     id: ckbqfjq4w159y0j234hf9j7l8
     verified: false
-    hashtags: "#bangkok, #tiktok, #mykonos, #traveler"
+    hashtags: "#bangkok, #tiktok, #mykonos, #mv"
+  - username: "shiho_zekkei"
+    fullname: >-
+      Shiho✈︎世界の絶景
+    bio: >-
+      Shiho(詩歩) / Japan 🇯🇵 Traveling 60 countries 旅する仕事です🌏出版8冊 Youtube&Instagram
+    location: "Japan"
+    followers: 314400
+    engagement: 722
+    commentsToLikes: 0.012993
+    id: ckbf7f062x8me0j234ips052u
+    verified: true
+    hashtags: "#pr, #japan, #kyoto, #tiktok"
   - username: "elle_255"
     fullname: >-
       Ellestha🦋
     bio: >-
       Love To Travel❤️❤️ Happiest here💗💗💗 Follow our 24/7 Sound of World YouTube 😊
     location: "Japan"
-    followers: 153800
-    engagement: 432
-    commentsToLikes: 0.028466
+    followers: 151700
+    engagement: 437
+    commentsToLikes: 0.028481
     id: ckan2lide0yu70i785ht77qi9
     verified: false
-    hashtags: "#tiktok, #tokyo, #fy, #nepali"
+    hashtags: "#nepali, #fyp, #fy, #trending"
   - username: "onumaaaan"
     fullname: >-
       おーぬまん
     bio: >-
-      おーぬまん(大沼類)🦋 TOKYO🗼 TRAVELAR🌎✈️ インスタもFollowしてね☾ ＼ まつ毛美容液これだよ！ ／
+      おーぬまん(大沼類)🦋 TOKYO🗼 TRAVELAR✈️ インスタもFollowしてね☾ ＼ shop mirage ／
     location: "Japan"
-    followers: 261900
-    engagement: 482
-    commentsToLikes: 0.007279
+    followers: 277600
+    engagement: 498
+    commentsToLikes: 0.009282
     id: ckbqlw1v36zqa0j23egd50ui1
     verified: false
-    hashtags: "#instagram, #lelabo, #okinawa, #jetsweets"
-  - username: "carol.amores"
+    hashtags: "#tiktok, #instagramstories, #favosquare, #fyp"
+  - username: "unaoki_trip"
     fullname: >-
-      carolamores
+      うなおき世界一周夫婦
     bio: >-
-      Japan things 4 the curious. Meanwhile working on my dream IG - @dbackyard.spain
+      ✈️旅人夫婦👫 【TikTok厳選クリエイター】 出会いは世界一周ひとり旅✈︎世界二周目新婚旅行 ✈︎旅した国は80ヶ国以上🌍 世界の絶景や日常をお届け🙌
     location: "Japan"
-    followers: 215200
-    engagement: 590
-    commentsToLikes: 0.041210
-    id: ck8qi5d307u6j0j78k0n23fcy
+    followers: 27300
+    engagement: 273
+    commentsToLikes: 0.069580
+    id: ckb9emqnq2dbo0j23x1h0ujvq
     verified: false
-    hashtags: "#randomthings, #foryou, #thisisjapan, #foryoupage"
+    hashtags: "#usa, #travel, #tiktok, #wgokoro"
 ---

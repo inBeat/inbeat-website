@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In India in 2023
+title: Top 10 Athletes Instagram Influencers In India In 2023
 description: >-
-  Find top athletes Instagram influencers in India in 2023. Most popular hashtags: #fitness #fashion #ootd.
+  Find top athletes Instagram influencers in India in 2023. Most popular hashtags: #reels #reelsinstagram #feelkaroreelkaro.
 platform: Instagram
-hits: 265
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 265 Instagram influencers like this in India for you to work with.
+hits: 217
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 217 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "vashu_jain_"
+  - username: "scoutop"
     fullname: >-
-      Prince Jain
+      sc0ut
     bio: >-
-      MULTI TALENT COMBAT🚩 ATHLETE|Fighter|Crazy Minded⚠️ ☆Artist🎬 NOT JUST A COMMON GUY🌟 🦁AAFATT🦁 You can call me crazy🤪 . BSP⭐BOM
+      Tanmay Singh Its not the destination its the journey ❤️ Athlete @monsterenergy Managed by - @8bit_thug @8bit_creatives @getloconow
     location: "India"
-    followers: 5554
-    engagement: 2036
-    commentsToLikes: 0.062825
-    id: ck5pwbll3m1x00i11njswt9mz
-    verified: false
-    hashtags: "#comedy, #funny, #vines, #instagram"
-  - username: "nami_rai"
+    followers: 3601096
+    engagement: 640
+    commentsToLikes: 0.003872
+    id: ck8t6r3z4egug0j782pt4fk9m
+    verified: true
+    hashtags: "#scoutop, #bgmi, #esports, #valorant"
+  - username: "ujjwalgamer"
     fullname: >-
-      Nami Rai
+      Ujjwal Chaurasia-Techno Gamerz
     bio: >-
-      🏆World Record Holder In Deadlift U-56 🏅2xGolds AWPC ‘19 🏅International Power Lifter🇮🇳 🏃🏻‍♀️National Athlete 📧 Business Enquiry: namilifts@gmail.com
+      ➤ Gamer, Streamer & Entertainer ➤ @redbull Athlete ➤ Twitter: @UjjwalGamer
     location: "India"
-    followers: 92733
-    engagement: 1337
-    commentsToLikes: 0.016048
-    id: ck8szmon0p0n00j783rtftsg6
+    followers: 2416704
+    engagement: 730
+    commentsToLikes: 0.009607
+    id: cl4f69d5iq73g0i23w0huha6b
     verified: false
-    hashtags: "#stereotypes, #positivevibes, #strengthtraining, #powerlifting"
-  - username: "faraaz_zs"
+    hashtags: "#technogamerz, #ujjwalgamer, #singapore, #collab"
+  - username: "hamidbarkzi07"
     fullname: >-
-      F A R A A Z   S A R A N G
+      Hamid Barkzi
     bio: >-
-      • Athlete • Influencer Managed by - @celebistaan Dm or Email for collaboration​ ✉️ faraazzsarang@gmail.com
+      25 Model & Athlete Winner- @mtvroadies Roadies Revolution 🏆 They call me the strongest underdog💪🏻 For queries- Kriti@chtrbox.com 📍- Delhi, Mumbai
     location: "India"
-    followers: 177179
-    engagement: 526
-    commentsToLikes: 0.023795
-    id: ck5zya3z19i6c0i14cfbovk7x
+    followers: 280677
+    engagement: 1415
+    commentsToLikes: 0.004434
+    id: ck8t8sn2wlne60j78piejd277
     verified: false
-    hashtags: "#motivation, #takataktrending, #feelitreel, #fitness"
+    hashtags: "#roadiesrevolution, #reels, #reelitfeelit, #pyaarsamundarpaar"
   - username: "ashiquekuruniyan22"
     fullname: >-
       Ashique Kuruniyan
     bio: >-
-      Professional footballer @bengalurufc Indian football team 🇮🇳 Keralite - Malappuram Managed by @quantumsportss @nike athlete
+      Professional footballer @bengalurufc Indian football team 🇮🇳 Keralite- @Nike athlete Managed by @quantumsportss
     location: "India"
-    followers: 130749
-    engagement: 2056
-    commentsToLikes: 0.012857
+    followers: 163426
+    engagement: 1910
+    commentsToLikes: 0.013533
     id: ck6tmmwy985070j71nd5h7bhp
     verified: true
-    hashtags: "#youcantstopus, #nikeindia, #wearebfc"
-  - username: "aishwaryasalviofficial"
+    hashtags: "#bfchfc, #fcgbfc, #backonourfeet, #wearebfc"
+  - username: "ranirampal4"
     fullname: >-
-      Aishwarya salvi
+      Rani Rampal
     bio: >-
-      Miss Maharashtra’19 winner Model//Dancer//state athlete//fitness enthusiast Mumbai
+      Captain, Indian Women Hockey Team |Dhyanchand Khel Ratna Award | Arjuna Award | World Games Athlete of the Year 2020 Email- rani.rampal94@gmail.com
     location: "India"
-    followers: 34114
-    engagement: 1549
-    commentsToLikes: 0.016790
-    id: ck14jtnu6m4o20i190v262e6p
-    verified: false
-    hashtags: "#mumbai, #cute, #india, #reels"
-  - username: "kuntalj"
-    fullname: >-
-      Kuntal A. Joisher
-    bio: >-
-      #Vegan AF, Mountaineer, Programmer Summited #Everest twice - via North & South routes @Save_The_Duck athlete .
-    location: "India"
-    followers: 12618
-    engagement: 523
-    commentsToLikes: 0.090296
-    id: ck0vv0jv8mzfd0i19dqiakf3u
-    verified: false
-    hashtags: "#himalaya, #veganathlete, #mounteverestofficial, #trekkersofindia"
-  - username: "tina_jain27"
-    fullname: >-
-      TINA JAIN 👑
-    bio: >-
-      Be a person you can be proud of ✨ Spiritual Butterfly 🦋 Athlete • Model • Aspiring Lawyer And sometimes, I write.✍🏻
-    location: "India"
-    followers: 7622
-    engagement: 1565
-    commentsToLikes: 0.052984
-    id: ck8t7e3fhggsy0j78anny9ayr
-    verified: false
-    hashtags: "#instagood, #shine, #explorepage, #moodyports"
+    followers: 95151
+    engagement: 929
+    commentsToLikes: 0.010277
+    id: ck6udl0wflp4h0j71dtdwv316
+    verified: true
+    hashtags: "#proud, #blessed, #repost, #tokyoolympics"
   - username: "arpinder_"
     fullname: >-
       Arpinder Singh
     bio: >-
       🇮🇳 Indian athlete 🏃 Triple jumper PB 17.17mts 🥉 CWG2014 Bronze Medalist 🥇Asian games 2018 gold medalist 👻 Snapchat : ArpinderSingh1
     location: "India"
-    followers: 32263
-    engagement: 1009
-    commentsToLikes: 0.014323
+    followers: 41803
+    engagement: 1321
+    commentsToLikes: 0.013241
     id: ck6tyzeh46qzv0j71bqgfu7u5
     verified: true
-    hashtags: "#onthisday, #worldcontinentalcup2018, #blessed, #throwback"
-  - username: "dalesteyn"
+    hashtags: "#trainingdiaries, #proudmoment, #varkalacliff, #india"
+  - username: "wasimkhanjk"
     fullname: >-
-      🔘
+      Wasim Khan peoples champ
     bio: >-
-      Athlete / Fishing fanatic / Dog dad / Ocean dweller / Restless wanderer / Powered by salami / @newbalanceza @nbcricket @gopro @goproza @oakley
+      ALLAH IS GREATEST OF ALL 🎗️Brand Athlete @internationalprotein.in 🏆M.R KASHMIR no 2017 🥇Mr Gore Classic From Delhi 🥇Mr North Indian gold Chandigarh
     location: "India"
-    followers: 1565776
-    engagement: 395
-    commentsToLikes: 0.015514
-    id: ck0tz0vbvopfy0i19xzehr9g0
-    verified: true
-    hashtags: "#gopro, #lockdown, #goldendorado, #salockdown"
+    followers: 9392
+    engagement: 894
+    commentsToLikes: 0.042031
+    id: ckap4c9m46p2f0i78jyutrnj9
+    verified: false
+    hashtags: ""
   - username: "neeraj____chopra"
     fullname: >-
       Neeraj Chopra
     bio: >-
       Indian Athlete 🇮🇳 Track & Field. Javelin thrower
     location: "India"
-    followers: 67550
-    engagement: 1620
-    commentsToLikes: 0.010105
+    followers: 68252
+    engagement: 1661
+    commentsToLikes: 0.010337
     id: ck6tyzc9z6qla0j71nvjss368
     verified: true
-    hashtags: "#nothingbeatsgatorade, #olympicday, #throwback, #oldmemories"
+    hashtags: "#oldmemories, #inspiredbypassion, #proudlyindian, #olympicday"
+  - username: "shabeer_gild"
+    fullname: >-
+      Shabeer.gild
+    bio: >-
+      Professional freestyle sportbike stunt athlete @z__bikes @team_rdx_mangalore
+    location: "India"
+    followers: 6842
+    engagement: 1097
+    commentsToLikes: 0.016598
+    id: ck8t79yydg2p30j78q2k8n3td
+    verified: false
+    hashtags: "#instagramreels, #ktm, #motocross, #reels"
+  - username: "tanvishah91"
+    fullname: >-
+      Tanvi Shah
+    bio: >-
+      Ex Pro 🎾 athlete turned lifestyle & sports presenter, sports agent. You’ll find me where the food is. 📧 for partnerships/work
+    location: "India"
+    followers: 61096
+    engagement: 247
+    commentsToLikes: 0.041192
+    id: ck6uawsu564kz0j71qpu7aak1
+    verified: true
+    hashtags: "#hypervolt, #feelitreelit, #eatwitht, #feelkaroreelkaro"
 ---

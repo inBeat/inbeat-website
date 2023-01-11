@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Ukraine in 2023
+title: Top 10 Dancers Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top dancers Instagram influencers in Ukraine in 2023. Most popular hashtags: #dance #dancer #love.
+  Find top dancers Instagram influencers in Ukraine in 2023. Most popular hashtags: #poledance #poledancer #pole.
 platform: Instagram
-hits: 121
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 121 Instagram influencers like this in Ukraine for you to connect with.
+hits: 39
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 39 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
-  - username: "kaznova.karyna"
+  - username: "alla_smyshlyaeva"
     fullname: >-
-      KARYNA KAZNOVA
+      𝐀 𝐋 𝐋 𝐀 الَا عزيزة 𝐀 𝐙 𝐈 𝐙 𝐀 🦋
     bio: >-
-      DANCER
+      20 YO | DANCER & LAWYER | UKRAINE 🇺🇦 DM or email me for collaboration/promo 📥 Snapchat : allasmyshlyaeva Email : alla.smyshlyaeva@gmail.com
     location: "Ukraine"
-    followers: 4672
-    engagement: 1757
-    commentsToLikes: 0.090263
-    id: ck5py4fsvu9my0i11uka96zym
+    followers: 352621
+    engagement: 247
+    commentsToLikes: 0.043965
+    id: ck6tp0guwh50d0j71c675iboa
     verified: false
-    hashtags: "#crush, #bermudatriangle, #kpop, #smtm6"
-  - username: "eva_shevchenko_holovko_actress"
-    fullname: >-
-      Ева Шевченко-Головко Actress 🎬
-    bio: >-
-      🎬🌟Actress #таещеактрисаЕва 📸👠Model 💃Dancer 📚 Schoolgirl ❤️Kiev my heart ✨World my dream ✨You're my friend 📩account managed Y Shevchenko cont Direct
-    location: "Ukraine"
-    followers: 9010
-    engagement: 1667
-    commentsToLikes: 0.101062
-    id: ck8t82w31iwpo0j78qdtjhryq
-    verified: false
-    hashtags: "#photo, #cast, #kyiv, #teenmodel"
+    hashtags: "#egypt, #dubai, #lovebellydance, #qatar"
   - username: "anastasiasokolovapoledancer"
     fullname: >-
       Anastasia Sokolova
     bio: >-
-      Worldwide recognised pole dancer, finalist of the UA GotTalentShow. Owner and designer of @sokolova_brand, @sokolovapolecamp 📍Kiev
+      Worldwide recognised pole dancer, finalist of the UA GotTalentShow. Owner and designer of @sokolova_brand, @sokolovapolecamp @sokolovapoleschool 📍Kiev
     location: "Ukraine"
-    followers: 170196
-    engagement: 338
-    commentsToLikes: 0.043085
+    followers: 172378
+    engagement: 356
+    commentsToLikes: 0.027208
     id: ck5zo7s9kpyb50i1494yrmiab
     verified: true
-    hashtags: "#sokolovapolewear, #polewear, #poledanceoutfit, #poledancecostume"
+    hashtags: "#sokolova, #polewear, #pole, #poledancewear"
   - username: "ostap_is"
     fullname: >-
-      Ostap Kobrin🔥
+      Ostap Kobrin
     bio: >-
-      18y.o. Dancer Tiktok[70k] Open for TFP Second account @ostap_is_ Cooperation direct #ETERNALLYDANCINGteam
+      Optimist⚡️ 18y.o Tiktok[100k+] Dancer Second account @ostap_kobrin Open for TFP Cooperation Dm
     location: "Ukraine"
-    followers: 7753
-    engagement: 2242
-    commentsToLikes: 0.027870
+    followers: 1898
+    engagement: 6503
+    commentsToLikes: 0.037529
     id: ck5hhdt1m7pk00i116feniso3
     verified: false
-    hashtags: "#dancer, #vogue, #choreography, #choreographer"
-  - username: "leraryabchenko"
+    hashtags: "#tumblr, #vintage, #aesthetic, #aestheticpost"
+  - username: "gurych_yurii"
     fullname: >-
-      Lera Riabchenko
+      Гурич Юрий
     bio: >-
-      professional Belly dancer participant of @dancestb My TikTok ⬇️
+      • Film photographer • Owner @digitalz_art | @script.the.wear • Choreographer | Dancer • TV project participant «DANCING WITH THE STARS»
     location: "Ukraine"
-    followers: 5138
-    engagement: 1362
-    commentsToLikes: 0.055061
-    id: ck9wecrimjpvi0j78an0m3adx
+    followers: 10569
+    engagement: 666
+    commentsToLikes: 0.027764
+    id: ck6tzqgmlb8vd0j718dx7yr4l
     verified: false
-    hashtags: "#fotografia, #egypt, #dancer, #bellydance"
-  - username: "amibgdancer"
+    hashtags: "#film35mm, #shadows, #canon, #canon5d"
+  - username: "ukropnekrupa"
     fullname: >-
-      A M I R A N
+      Lena.
     bio: >-
-      DANCER/ TEACHER/ CHOREOGRAPHER ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 🔻ʜᴏᴜsᴇ ᴏғ ʙᴏɴᴄʜɪɴᴄʜᴇ 🔻ʙɢ ᴅᴀɴᴄᴇʀᴢ ᴛᴇᴀᴍ ♛ ғɪʀsᴛ ɪɴᴛᴇʀᴄᴏɴᴛɪɴᴇɴᴛᴀʟ ᴅʜ ᴋɪɴɢ 📍ᴏᴅᴇssᴀ / ᴋʏɪᴠ
+      #dancer from Kyiv now artist & choreographer of @maruvofficial show Write me for individual dance class. Write me for shooting and any art projects.
     location: "Ukraine"
-    followers: 11234
-    engagement: 839
-    commentsToLikes: 0.042762
-    id: ck55kgt6jz9o20i11kk1dzle5
+    followers: 11982
+    engagement: 1035
+    commentsToLikes: 0.033115
+    id: ck55kipvdze4x0i11hxjb9ct2
     verified: false
-    hashtags: "#dance, #amibgdancer, #dancer, #amiranbonchinche"
-  - username: "natali_rimarenko"
+    hashtags: "#oymonline, #oymoround1, #oymofinals, #oymfinals"
+  - username: "olga__golub"
     fullname: >-
-      NATALI ♡
+      Olga Golub
     bio: >-
-      ~A E S T H E T I C S~ 💕Emilia’s mommy🍼28.01.20🎀 🇺🇦🇨🇳 Model👑belly dancer💃🏻English teacher📚 📩Сотр-во в direct @_nr_clothes_ @rimarenko_lashes_and_brows
+      Master of Sports in Rhythmic Gymnastics Ukrainian next top-model 3 Model, dancer 🔍MA: @vomodel Currently in Hong Kong 📥Сотрудничество в Direct
     location: "Ukraine"
-    followers: 14968
-    engagement: 607
-    commentsToLikes: 0.042110
-    id: ckapcdydx3fgv0i788f98drsf
+    followers: 28915
+    engagement: 142
+    commentsToLikes: 0.017858
+    id: ckap03w5gom790i78enx0zizj
     verified: false
-    hashtags: "#aesthetics, #blog, #ukraineblogger, #mommyblogger"
-  - username: "adriana_turkevych"
+    hashtags: "#grain, #collaborationwork, #cityhowwhy, #bookc"
+  - username: "zhuk_dmytro"
     fullname: >-
-      ADRIANA 🌾
+      Жук Дмитрий
     bio: >-
-      • Beauty ( проверяю и • Fashion ( рекомендую) • Food ( вкусно ем )🍝 • Cook ( рецепты ) • Travel • Ballroom dancer ⠀ 💌 Offers in direct or 👇🏻
+      •Artist •Dancer •Choreographer •Owner @acid.kislo.tak -Участник и хореограф телепроекта «ТАНЦІ З ЗІРКАМИ» -Chapkis dance family
     location: "Ukraine"
-    followers: 48107
-    engagement: 711
-    commentsToLikes: 0.007313
-    id: ckf5n23l0weo80j23hkv6vbqv
+    followers: 27666
+    engagement: 1071
+    commentsToLikes: 0.009177
+    id: ck0vx7mm8xju10i19r6llunbi
     verified: false
-    hashtags: "#covid"
-  - username: "sakalyova"
+    hashtags: "#axicon, #armaniexchange"
+  - username: "olena_minina"
     fullname: >-
-      SVETLANA SAKAL’
+      Olena Minina / Елена Минина
     bio: >-
-      •.Dancer / Choreographer / Model / Artist / Khaleesi 👸🏼￼ •.Dan Balan Band @danbalan •.Ukraine(Lviv/Kyiv) •.Founder of @etdteam •.Check it out babe⤵️
+      ▪️Ukrainian, European, World Champion ▪️Pole Dancer & Coach #olenaminina ▪️Brand Owner @by_minina ▪️Artist @cirquedusoleil ▪️DM for Workshops
     location: "Ukraine"
-    followers: 13898
-    engagement: 695
-    commentsToLikes: 0.040406
-    id: ck5c9e0lqb9dd0i11bf3n8600
+    followers: 60138
+    engagement: 838
+    commentsToLikes: 0.019551
+    id: ck6tjsbly3bqx0j710dndlkbp
     verified: false
-    hashtags: "#kvartal95, #loboda, #balansband, #ukrainian"
-  - username: "rishamaryna"
+    hashtags: "#olenaminina"
+  - username: "andreystylez"
     fullname: >-
-      Risha
+      Andrey Stylez Onoprienko
     bio: >-
-      🇺🇦 My dance evokes emotions 💥 🌀dancer, choreographer, teacher 🌀Heels/Twerk Choreo 🌀@luckoutclub_studio (director) 🌀@rackonewear (founder)
+      ◾️Dancer from UKRAINE | ◾️Organizer HIP HOP VIBE BATTLE | ◾️Repping SARCELLITE & MADSTATE CREWS | ◾️Founder STYLEZ STUDIO | ◾️In love with DANCE
     location: "Ukraine"
-    followers: 11467
-    engagement: 374
-    commentsToLikes: 0.152067
-    id: ck5cevd20lsb40i11dh0hin4k
+    followers: 21732
+    engagement: 1122
+    commentsToLikes: 0.021293
+    id: ck5zk5wjfivhs0i14qd8e98ov
     verified: false
-    hashtags: "#dancefriends, #luckoutclub, #dancevideos, #dancefun"
+    hashtags: "#teacherstudent"
+  - username: "ms.lizard"
+    fullname: >-
+      Elizabeth
+    bio: >-
+      Self-taught exotic pole dancer since 2017 Exotic pole dance classes Barcelona @feelingwoman . Ukrainian.
+    location: "Ukraine"
+    followers: 18518
+    engagement: 707
+    commentsToLikes: 0.044226
+    id: ck5zo7ms6pxz00i14jobb3sp4
+    verified: false
+    hashtags: "#poledance, #artist, #polecombo, #barcelonadance"
 ---

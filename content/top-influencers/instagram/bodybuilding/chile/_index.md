@@ -1,84 +1,72 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Chile in 2023
+title: Top 10 Bodybuilding Instagram Influencers In Chile In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Chile in 2023. Most popular hashtags: #fitness #bodybuilding #gym #workout.
+  Find top bodybuilding Instagram influencers in Chile in 2023. Most popular hashtags: #bodybuilding #fitness #chile #fit.
 platform: Instagram
 hits: 9
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 9 Instagram influencers like this in Chile for you to pitch.
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Chile for you to work with.
 profiles:
-  - username: "giselabargar"
+  - username: "alef.cero"
     fullname: >-
-      🄶🄸🅂🄴🄻🄰 🄱🄰🅁🄶🄰🅁
+      José Martínez
     bio: >-
-      Gaucha, bien de campo🐴🐄🌾🌽🌻 👩‍👧‍👦Mamá de Zoe y Matteo Vivo en 🇨🇱 hace 19 años. 🇦🇷 Soy de Rivera 💼 ESPN 🎓 Locutora ❤️ los autos y las 🏍️ 100% tuerca
+      Ingeniero Industrial La fotografía mi pasión 📍Valencia - Spain- 📷 Fotógrafo ↔ Photographer Portraits | Retratos | Landscapes | Paisajes
     location: "Chile"
-    followers: 60421
-    engagement: 290
-    commentsToLikes: 0.044594
-    id: ck6u5b8si8ml30j71ppt17cwq
+    followers: 35934
+    engagement: 312
+    commentsToLikes: 0.029705
+    id: ck6u6hpujfnlo0j71jpmnyxl0
     verified: false
-    hashtags: "#slr, #workout, #slrcanon, #funny"
-  - username: "landoraffe"
-    fullname: >-
-      Lando
-    bio: >-
-      Former ESL Teacher👨🏻‍🏫 Fitness Freak💪🏻 Ex Int. GogoDancer🕺🏻 Time control obsessed⏱ Always hungry🐷 Escandaloso🗣 👸🏻Quing🤴🏻 🇻🇪🇨🇴🇨🇱🏳️‍🌈🛫 I have an🔞website
-    location: "Chile"
-    followers: 35322
-    engagement: 1087
-    commentsToLikes: 0.014707
-    id: ck6u6rw9uhcv00j719g597j03
-    verified: false
-    hashtags: "#gayboy, #gaycouples, #fitnesslifestyle, #powercouple"
-  - username: "bertytossi"
-    fullname: >-
-      BERTHY TOSSI MÉNDEZ 🌻
-    bio: >-
-      ✖️Live _Laugh _ Love✖️ • 🏋🏻‍♂️ fitness Addict •👨🏻‍🎤Hairstylist @berthytossihair • Me gusta fotografiar lugares y atardeceres🌅 • 📧 Btossim@gmail.com
-    location: "Chile"
-    followers: 16522
-    engagement: 659
-    commentsToLikes: 0.011964
-    id: ck5hs6imzw2q20i118f33ad45
-    verified: false
-    hashtags: "#workoutathome, #homegym, #healthylifestyle, #quarantine"
+    hashtags: "#shoesaddict, #portraitpage, #valencia, #gorgeous"
   - username: "nicolas.amigo"
     fullname: >-
       Nicolas Amigo Saavedra
     bio: >-
-      Fisicoculturista Absoluto Chile 🇨🇱 x 3 🏆🏆🏆 Team Ayala 🇵🇾 @imperio_gym Embajador @rocket.burger.iqq 🍔
+      Asesoría nutricional 100% online Fisicoculturista C. Absoluto Chile 🇨🇱 x 3 🏆🏆🏆 Team Ayala 🇵🇾 @imperio_gym Embajador @rocket.burger.iqq 🍔
     location: "Chile"
-    followers: 33650
-    engagement: 329
-    commentsToLikes: 0.072826
+    followers: 34095
+    engagement: 280
+    commentsToLikes: 0.032803
     id: ck5q12p5w8zc60i11n41ut1xh
     verified: false
-    hashtags: "#salud, #bodybuilding, #nutricion, #memories"
-  - username: "memo_andres28"
+    hashtags: "#chile, #bodybuilding, #teamayala, #chestworkout"
+  - username: "segoviafitness"
     fullname: >-
-      ᗰᗴᗰO 
+      Segoviafitness
     bio: >-
-      Chile 🇨🇱 Ed. Física Body Combat 🥊 Pancha-León 🐶 Trainner @o2fitchile #Ambassador @zafa2fiesta @blaxxbox @oasispartycl @selvafestival @damage_party
+      Base en Santiago de Chile 🇨🇱 🔺PERSONAL TRAINER 🔹Entrenamientos funcionales a domicilios 🔺Modelo influencer Fitness🇦🇷 🏄‍♂️🏂🚵‍♂️🚣‍♀️🏊🏻‍♂️🪂⚽️🤿
     location: "Chile"
-    followers: 25643
-    engagement: 532
-    commentsToLikes: 0.020018
-    id: ck8tbl5d0w2s60j78te3pfkjk
+    followers: 10607
+    engagement: 991
+    commentsToLikes: 0.028594
+    id: ck5bysll2prgf0i11atnra2hi
     verified: false
-    hashtags: "#gayfitness, #motivation, #happy, #gaylove"
+    hashtags: "#fitnessmodel, #strong, #fit, #instagood"
   - username: "_rogerstarbuck"
     fullname: >-
-      R O G E R   S T A R B U C K 🍃
+      R O G E R   S T A R B U C K
     bio: >-
-      #sipuedeselegir #minutofit 🏋️‍♂️ #minutococina👨‍🍳 @gogodancerchile🕺🏽
+      Cada paso a tus objetivos son los yacimientos de tu meta, tú sueño, tú trascendencia de vida! #sipuedeselegir 🔹 Coch Life Fit 📩 🔹 Modelo-publicitario
     location: "Chile"
-    followers: 9175
-    engagement: 600
-    commentsToLikes: 0.018998
+    followers: 9141
+    engagement: 456
+    commentsToLikes: 0.010463
     id: ck6u078wce07d0j71ppvfn2ha
     verified: false
-    hashtags: "#party, #boysexy, #cuarentena, #modelo"
+    hashtags: ""
+  - username: "fermadridc"
+    fullname: >-
+      Fer Madrid 🐘
+    bio: >-
+      🌟Healthy Life Style 👩‍🏫Physical Education Teacher 📍Stgo - Rgua Owner @calzasfitchile 🛍 y @alfajomaniacos 🟤 @clinicabiomedic 🧖🏻‍♀️ @elwndelaceite 👌🏻
+    location: "Chile"
+    followers: 11329
+    engagement: 1321
+    commentsToLikes: 0.034389
+    id: ckf5ubi2rk9sk0j23x65bx4m2
+    verified: false
+    hashtags: "#strong, #pretty, #chilena, #likeforlikes"
   - username: "arcano.cl"
     fullname: >-
       Alexis
@@ -90,29 +78,41 @@ profiles:
     commentsToLikes: 0.031024
     id: ckap4teob8sni0i78hqrvbbyi
     verified: false
-    hashtags: "#gaymusclebear, #bears, #maturemen, #beefcakesmen"
-  - username: "pauvallejosc"
+    hashtags: "#bearofinstagram, #bigguys, #bigman, #follow"
+  - username: "bertytossi"
     fullname: >-
-      P A U L A
+      BERTY TOSSI MÉNDEZ ⚠️
     bio: >-
-      Medicina Universidad De Santiago ☤ Voleibol Playa #TeamChile🇨🇱🏐 Arica Santiago, Chile 📍
+      👁‍🗨 Força _Foco _ Fé ♾ • 🏋🏻‍♂️ fitness Addict •👨🏻‍🎤Hairstylist @berthytossihair • 📧 Btossim@gmail.com
     location: "Chile"
-    followers: 17717
-    engagement: 448
-    commentsToLikes: 0.066285
-    id: ck5c7bjp777r70i11p6pm6wyr
+    followers: 16470
+    engagement: 679
+    commentsToLikes: 0.018522
+    id: ck5hs6imzw2q20i118f33ad45
     verified: false
-    hashtags: "#equipment, #body, #tokio2021, #girl"
-  - username: "thfitcl"
+    hashtags: "#abs, #boy, #curlyhair, #fitness"
+  - username: "hugolalo.z"
     fullname: >-
-      TH FIT chile
+      
     bio: >-
-      Clases ONLINE Vía Zoom 📺 👌🏼 Clases Presenciales en nuestros Centros🏛 📍Vitacura 📍Lo Barnechea Obtén tu Plan aquí 👇🏼
+      Instructor Zumba💃 Tec. Electricidad⚡ ZinCon 2019 - Orlando, FL Profesor en SMARTFIT 🕺🏋️‍♂️ Amante del deporte🏃🏋⛸. Scorpio 🦂
     location: "Chile"
-    followers: 109743
-    engagement: 156
-    commentsToLikes: 0.018455
-    id: ck5zjjhs4hpd60i1407powok5
+    followers: 7733
+    engagement: 576
+    commentsToLikes: 0.035836
+    id: ck5zjekv2hg5f0i14nf20oonp
     verified: false
-    hashtags: "#vidasaludable, #entrenamiento, #ejercicio, #workout"
+    hashtags: "#tiktokindo, #chilegay, #parqueelllano, #gymlove"
+  - username: "selfcaree_beach"
+    fullname: >-
+      𝓢𝓮𝓵𝓯𝓬𝓪𝓻𝓮𝓮_𝓫𝓮𝓪𝓬𝓱 ||+44k 🥰
+    bio: >-
+      ☾ | publicidad al md ☾ | threads y selfcare ☾ | posts todos los días ☾ | dm siempre abierto
+    location: "Chile"
+    followers: 44736
+    engagement: 1494
+    commentsToLikes: 0.008553
+    id: ckap40qv45c5p0i78aai0vlaq
+    verified: false
+    hashtags: "#comenta, #follow4followback, #following, #selfcareespa"
 ---

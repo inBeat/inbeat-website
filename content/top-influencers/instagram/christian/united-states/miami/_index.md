@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Miami in 2023
+title: Top 10 Christian Instagram Influencers In Miami In 2023
 description: >-
-  Find top christian Instagram influencers in Miami in 2023. Most popular hashtags: #miami #youtube #viral.
+  Find top christian Instagram influencers in Miami in 2023. Most popular hashtags: #miami #love #travel.
 platform: Instagram
-hits: 39
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 39 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 37
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 37 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "farahalezi"
+  - username: "iamsamanthaelizabeth"
     fullname: >-
-      farah ayana alezi
+      Samantha Elizabeth
     bio: >-
-      Fashion model, book me, link in bio 👇🏽👇🏽👇🏽 Miami 📍
+      Model | Content Creator | Red Carpet Host Management ✨ mgmt@thejse.net ✞ Daughter of The King 🍇 Founder @blushedlemons Shop my store👇🏽
     location: "United States"
-    followers: 5487
-    engagement: 301
-    commentsToLikes: 0.114617
-    id: ck6u1nuf0muqn0j7183j6v9zw
+    followers: 24693
+    engagement: 105
+    commentsToLikes: 0.091625
+    id: ckf5ljig5pt5s0j237mqgp3u3
     verified: false
-    hashtags: "#miamifashionweek, #blackisbeautiful, #100modelssearch, #christian"
-  - username: "meaganlee_1"
+    hashtags: "#miami, #canadian, #baseball, #christian"
+  - username: "georgialouiseford"
     fullname: >-
-      Meg Lee 🌺
+      GEORGIA FORD
     bio: >-
-      IT // CGM Miami // Directions // 10mgmt // ntatalent
+      ✝︎All glory to 𝑮𝒐𝒅 ♛𝙸𝚝𝚊𝚕𝚒𝚊𝚗 𝚕𝚒bra ⚡︎𝕃ifestyle l 𝕋ravel l ℝ𝔼 𝕀nvestor
     location: "United States"
-    followers: 55392
-    engagement: 317
-    commentsToLikes: 0.058384
-    id: ck15raigv6yz10i19cyzcfrib
+    followers: 3988
+    engagement: 404
+    commentsToLikes: 0.082903
+    id: ckaosejsqrajw0i78koeyt7xt
     verified: false
-    hashtags: "#revolveme, #akepofficial, #fallwinter, #superdown"
-  - username: "alexshue"
+    hashtags: "#queendom, #smallbusiness, #realestateinvesting, #womensupportingwomen"
+  - username: "kateredeker"
     fullname: >-
-      Alex Shue
+      KATE REDEKER
     bio: >-
-      🙏🏻 | Christian Entrepreneur 👤 | CEO @iconsocialmarketing 📲 | IG Branding & Marketing 📈 | Digital Marketing & E-commerce 📸 | Content @iconsocialmedia
+      christian. model. princess. ✨ I fly planes...and also jump out of them ✈️ @wilhelminamodels currently..📍NYC #PerfectionIsPerception
     location: "United States"
-    followers: 144167
-    engagement: 218
-    commentsToLikes: 0.156631
-    id: ck8t15s5buih40j78j97257xw
+    followers: 85913
+    engagement: 233
+    commentsToLikes: 0.014674
+    id: ck5qauxjqidly0i11c04dq65r
     verified: false
-    hashtags: "#socialmediamarketing, #mediaagency, #business, #smm"
-  - username: "dominiquemrivera"
+    hashtags: "#meowychristmas, #nyfw, #bloops, #thankfuleveryday"
+  - username: "coreyradcliff4"
     fullname: >-
-      𝔇𝔬𝔪𝔦𝔫𝔦𝔮𝔲𝔢
+      Corey Radcliff
     bio: >-
-      👸🏻✨🤷‍♀️♍️ Mixed, Christian, and Proud I sing Unicorn Chidren’s Foundation Junior Board Miss Lantana 2020 RIM Teen 2017-2018
+      CLT | 28 y/o | Christian | Former pro motocross racer | Car enthusiast (Viper ACR-E, Aston Martin V12 Vantage, Audi RS5) | Jeremiah 29:11
     location: "United States"
-    followers: 4899
-    engagement: 1030
-    commentsToLikes: 0.061936
-    id: ck5zy77s99cqu0i14utsdwp2e
+    followers: 33459
+    engagement: 452
+    commentsToLikes: 0.021837
+    id: ck14itjzph3om0i19zgh8nfyq
     verified: false
-    hashtags: "#model, #brunette, #mixed, #curvy"
-  - username: "iambleureese"
-    fullname: >-
-      BleuserVEVO🦋🌏
-    bio: >-
-      + Jesus ✝️ Tik Tok @iambleureese 🎶 + Artist✨ • Entertainer 🎬• 🏳️‍🌈 MIAMI🌴 dm for Promos 💰 •time is valuable, do not waste it ~LLJ🖤
-    location: "United States"
-    followers: 10109
-    engagement: 210
-    commentsToLikes: 0.080450
-    id: ck5ckx1qvxs840i11ovchczda
-    verified: false
-    hashtags: "#youtuber, #llj, #influencerstakeoverflorida, #youtubechannel"
-  - username: "chrisxmendez"
-    fullname: >-
-      Christian
-    bio: >-
-      Miami, FL 📍 Student of life 🌸 @lio_maldonado 💝
-    location: "United States"
-    followers: 6553
-    engagement: 779
-    commentsToLikes: 0.023150
-    id: ck5qcbrpvpt0y0i11x97kc9lg
-    verified: false
-    hashtags: "#familyof4, #rupaulsdragraceseason12, #miamibeachpride, #workingoutinthesunisnotfun"
+    hashtags: "#astonmartinroadtrip, #turkey, #dmarisbay, #bodrumturkey"
   - username: "oliverdog"
     fullname: >-
       Christian Meier
     bio: >-
-      Professional quarantiner. Owner/partner @osakanikkei.miami
+      Professional quarantine actor. Owner/partner @osakanikkei.miami
     location: "United States"
-    followers: 792354
-    engagement: 174
-    commentsToLikes: 0.021974
+    followers: 803918
+    engagement: 124
+    commentsToLikes: 0.021735
     id: ck6tvbig6l9zk0j71twvakk83
     verified: true
-    hashtags: "#film, #dreams, #alguien, #nationaldogday"
+    hashtags: "#therealdrunkenmaster, #tbt, #bts, #noviadenadie"
+  - username: "chrisxmendez"
+    fullname: >-
+      Christian
+    bio: >-
+      miami,fl📍 student of life 🌸 @lio_maldonado 💝
+    location: "United States"
+    followers: 6367
+    engagement: 709
+    commentsToLikes: 0.020675
+    id: ck5qcbrpvpt0y0i11x97kc9lg
+    verified: false
+    hashtags: "#gymnastics, #barmuclesups, #workingoutinthesunisnotfun, #premiosjuventud2020"
   - username: "_alexulloaa_"
     fullname: >-
       Alex Ulloa
     bio: >-
-      🟠Oklahoma State Commit🟠 🔵Baseball Factory All-American 🔵 🔴Elite Squad Baseball ⚫️ ✝️Philippians 4:13✝️ 🏫 Calvary Christian Academy 🏫
+      ~Oklahoma State Signee ~Baseball Factory All-American ~Elite Squad Baseball ~Philippians 4:13 ~Calvary Christian Academy
     location: "United States"
-    followers: 2589
-    engagement: 2115
-    commentsToLikes: 0.045471
+    followers: 2791
+    engagement: 2053
+    commentsToLikes: 0.047050
     id: ck6tt9iq19dem0j710xplbx16
     verified: false
-    hashtags: "#mvp, #begreat, #staysafe, #baseball"
+    hashtags: "#baseball, #tbt, #mvp, #mlb"
   - username: "trinitybeat"
     fullname: >-
       CHRISTIAN • TRINITY
     bio: >-
-      Panamanian Queen 👑 🇵🇦 Showgirl @ Lips Fort Lauderdale 💃🏽 NYC ✈️ MIA #AllBlackLivesMatter
+      You’re in for a ride 😉 Bartender @ Twist 🍻 Showgirl @ Lips Fort Lauderdale 💃🏽 NYC ✈️ MIA #AllBlackLivesMatter
     location: "United States"
-    followers: 6546
-    engagement: 686
-    commentsToLikes: 0.057139
+    followers: 6618
+    engagement: 711
+    commentsToLikes: 0.058762
     id: ck8t0tjpmt9el0j78qjlzv473
     verified: false
-    hashtags: "#dragqueensofinstagram, #fashion, #drag, #queer"
+    hashtags: "#dragqueenmakeup, #dragqueensofinstagram, #makeup, #pride"
   - username: "christiancorsi"
     fullname: >-
       Christian Corsi
     bio: >-
-      ▪️Electronic Music Producer ▪️Singer/Songwriter ▪️DJ 🔻Listen Now my new single “Take My Body”🔻🎵
+      ▪️Electronic Music Producer ▪️Singer/Songwriter ▪️DJ 🔸 Listen to my new single “Always In My Head”🔸👇🏼
     location: "United States"
-    followers: 45705
-    engagement: 78
-    commentsToLikes: 0.072984
+    followers: 45900
+    engagement: 91
+    commentsToLikes: 0.078112
     id: ck15uyei4p31m0i192wnqt2qm
     verified: false
-    hashtags: "#artistsoninstagram, #indiartist, #edmfam, #halloween"
+    hashtags: "#artists, #djlife, #housemusicmaker, #miamidj"
+  - username: "lovesquish"
+    fullname: >-
+      Jessica Christian 👽
+    bio: >-
+      Photo Video Los Angeles Prints/Website/Wishlist👇🏻
+    location: "United States"
+    followers: 30514
+    engagement: 201
+    commentsToLikes: 0.050668
+    id: ck134z0k3yvxo0i19g0ojvrcd
+    verified: false
+    hashtags: "#joshuatree, #hollywood, #florida, #marriage"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Poland in 2023
+title: Top 10 Music TikTok Influencers In Poland In 2023
 description: >-
-  Find top music TikTok influencers in Poland in 2023. Most popular hashtags: #music #dlaciebie #duet #funny.
+  Find top music TikTok influencers in Poland in 2023. Most popular hashtags: #music #dlaciebie #foryou #tiktok.
 platform: TikTok
-hits: 94
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 94 TikTok influencers like this in Poland for you to connect with.
+hits: 103
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 103 TikTok influencers like this in Poland for you to work with.
 profiles:
   - username: "hudziu"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Only classical music fans have access That means that you all have 🤫❤️🎼
     location: "Poland"
-    followers: 79600
-    engagement: 1904
-    commentsToLikes: 0.013062
+    followers: 95900
+    engagement: 1915
+    commentsToLikes: 0.013481
     id: ck963ngjsvlt50j78dy5c4rit
     verified: false
-    hashtags: "#music, #christmas, #piano, #stayhome"
+    hashtags: "#music, #pozna, #piano, #cousin"
   - username: "johnny_music"
     fullname: >-
       Jonatan Chmielewski
     bio: >-
       📸 ZAPRASZAM NA IG: @miyo_johny 🎹 Music /🌴Travels
     location: "Poland"
-    followers: 64500
-    engagement: 1584
-    commentsToLikes: 0.011527
+    followers: 67500
+    engagement: 1614
+    commentsToLikes: 0.010987
     id: ck8f8uz883lea0j788cl3iemb
     verified: false
-    hashtags: "#ableton, #producer, #music, #remix"
+    hashtags: "#ableton, #producer, #music, #kacperblonsky"
   - username: "remikmymusic"
     fullname: >-
       Remo
     bio: >-
       Forever Young Remo Instagram RemikMyMusic YT Remo RemikMyMusic remik@my-music.pl
     location: "Poland"
-    followers: 695200
-    engagement: 1767
-    commentsToLikes: 0.003961
+    followers: 705700
+    engagement: 1721
+    commentsToLikes: 0.003123
     id: ck8qi4njy7nq60j78hurij5e1
     verified: true
-    hashtags: "#prank, #foryou, #dlaciebie, #funny"
-  - username: "sokratis.kret"
-    fullname: >-
-      sokratis.kret 🇬🇷🇵🇱
-    bio: >-
-      🇬🇷🇵🇱 YT-🎤 #pozytywnietiktoknięci act/dance/music Ig-sokratis.kret TWITCH💬
-    location: "Poland"
-    followers: 337900
-    engagement: 1329
-    commentsToLikes: 0.010783
-    id: ck83yw6fywa640j78q018rvb5
-    verified: false
-    hashtags: "#nawijamrapy, #zajawka, #sokratistime, #duet"
+    hashtags: "#prank, #joke, #funny, #smile"
   - username: "top_retro_disco_music"
     fullname: >-
       ТОП🥇РЕТРО🔥ДИСКО🔥МУЗЫКА🎶🎧❤
     bio: >-
       Только лучшая музыка 80-х 90-х ❤🔥🎧🎶 Only the best music of the 80s and 90s❤❤❤
     location: "Poland"
-    followers: 19200
-    engagement: 975
-    commentsToLikes: 0.029327
+    followers: 21600
+    engagement: 1324
+    commentsToLikes: 0.032545
     id: ckc7b9hrgkw5j0j23k8p6lphs
     verified: false
-    hashtags: "#france, #dance, #pop, #80"
-  - username: "kasia_laska"
+    hashtags: "#1980, #music, #hit80s, #80"
+  - username: "sokratis.kret"
     fullname: >-
-      ĸaтarzyna Łaѕĸa
+      sokratis.kret 🇬🇷🇵🇱
     bio: >-
-      Śpiewam 🎤 Gram w musicalach i dubbingu 🎧 🍏☔🐘
+      🇬🇷🇵🇱 YT- 🎤 #pozytywnietiktoknięci act/dance/music
     location: "Poland"
-    followers: 265900
-    engagement: 1264
-    commentsToLikes: 0.008331
-    id: ck8vv0fw0kfx90j78er76iwt4
-    verified: true
-    hashtags: "#kasialaska, #nagrania, #dlaciebie, #dubbing"
-  - username: "k_rutyna"
-    fullname: >-
-      Rutyna
-    bio: >-
-      Hi👋 Follow the life of Rutyna🖤🍸 INSTAGRAM📸: @rutyna.cocktails.music.food
-    location: "Poland"
-    followers: 23700
-    engagement: 602
-    commentsToLikes: 0.006865
-    id: ckb9jxor9bex20j237tw8lb53
+    followers: 361900
+    engagement: 1288
+    commentsToLikes: 0.014484
+    id: ck83yw6fywa640j78q018rvb5
     verified: false
-    hashtags: "#truelife, #tiktok, #beer, #blinkeecity"
+    hashtags: "#idealnapara, #dramateksty, #zabawa, #duet"
   - username: "inkasse"
     fullname: >-
       INKASSE 20
     bio: >-
       Música ❤️ Bednarek 💚💛❤️ 20 Años Insta : _.sombra_del_futuro._
     location: "Poland"
-    followers: 9816
-    engagement: 687
-    commentsToLikes: 0.014534
+    followers: 9774
+    engagement: 636
+    commentsToLikes: 0.027949
     id: ckbkguzqt8gc50j23df48ttjk
     verified: false
-    hashtags: "#f4f, #polishgirl, #blackandwhite, #poland"
-  - username: "sanderkaem"
+    hashtags: "#f4f, #blackandwchite, #2k20, #2k21"
+  - username: "k_rutyna"
     fullname: >-
-      Janosklife
+      Rutyna
     bio: >-
-      Idk how ✔️ dont ask or ask TikTok -covers🎙 21🙇🏽‍♀️ Ig: janosklife
+      Hi👋 Follow the life of Rutyna🖤🍸 INSTAGRAM📸: @rutyna.cocktails.music.food
     location: "Poland"
-    followers: 15300
-    engagement: 2135
-    commentsToLikes: 0.052505
-    id: cka7ojtmd2v9d0i78xpdy9xr7
-    verified: true
-    hashtags: "#bias, #xyzbca, #outfit, #arianagrande"
-  - username: "mr_house_official"
-    fullname: >-
-      Krzysztof Rysz
-    bio: >-
-      Nikt wyjątkowy. https://www.instagram.com/mr_house_official/
-    location: "Poland"
-    followers: 63800
-    engagement: 1359
-    commentsToLikes: 0.052772
-    id: ckavs2b9n4atu0j23hp7pscze
+    followers: 24000
+    engagement: 593
+    commentsToLikes: 0.006845
+    id: ckb9jxor9bex20j237tw8lb53
     verified: false
-    hashtags: "#dlaciebie, #vlog, #prawakobiet, #viral"
+    hashtags: "#blinkeecity, #toptiktok, #hulajnoga, #beer"
+  - username: "blondino_latino"
+    fullname: >-
+      blondino_latino
+    bio: >-
+      Instagram➡️ BLONDINO_LATINO AKTYWNOSC NA IG 🕵️ Music Is My Religion ☀️🎙
+    location: "Poland"
+    followers: 272400
+    engagement: 827
+    commentsToLikes: 0.009896
+    id: ck9c65fljqxjp0j783vv3815h
+    verified: false
+    hashtags: "#dlaciebie, #smieszne, #viral, #fyp"
+  - username: "diugcello"
+    fullname: >-
+      Janek Diug
+    bio: >-
+      hej ✌ wbijamy 10 k? ⬇⬇⬇⬇ Subskrybuj ⬇⬇⬇⬇
+    location: "Poland"
+    followers: 4660
+    engagement: 1561
+    commentsToLikes: 0.081081
+    id: ckdbptee3bk2s0j239w7723dx
+    verified: false
+    hashtags: "#dlaciebie, #music, #foryou, #lacasadepapel"
+  - username: "gromeeofficial"
+    fullname: >-
+      Gromee
+    bio: >-
+      New single‼️ 👇👇👇
+    location: "Poland"
+    followers: 58200
+    engagement: 1385
+    commentsToLikes: 0.030374
+    id: ck93obw2g41ys0j78mn0fm0a6
+    verified: true
+    hashtags: "#love, #music, #christmas, #gromee"
 ---

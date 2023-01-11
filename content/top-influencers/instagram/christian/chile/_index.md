@@ -1,48 +1,48 @@
 ---
-title: Top 10 Christian Instagram Influencers In Chile in 2023
+title: Top 10 Christian Instagram Influencers In Chile In 2023
 description: >-
-  Find top christian Instagram influencers in Chile in 2023. Most popular hashtags: #tbt #chile #love #nature.
+  Find top christian Instagram influencers in Chile in 2023. Most popular hashtags: #chile #lifestyle #tbt.
 platform: Instagram
-hits: 48
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 48 Instagram influencers like this in Chile for you to pitch.
+hits: 43
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 43 Instagram influencers like this in Chile for you to collaborate.
 profiles:
+  - username: "christianhors"
+    fullname: >-
+      𝗖𝗛𝗥𝗜𝗦𝗧𝗜𝗔𝗡 𝗛𝗢𝗥𝗦
+    bio: >-
+      Fotógrafo y Guionista en @horsproducciones Hago retratos y muestro lo que hay detrás de las cámaras ✨
+    location: "Chile"
+    followers: 16627
+    engagement: 486
+    commentsToLikes: 0.049354
+    id: ck0tvh1j3bbd60i199yn9kmr8
+    verified: false
+    hashtags: ""
   - username: "christianzapata.cl"
     fullname: >-
       Cirographia
     bio: >-
-      Freelance | Fixed Gears ⚙️. @bike_color Contacto@christianzapata.cl
+      Photographer | Camera man | Fixed Gear | Melomano | 👁🚲📷 @zavent.cl @pedaleatu
     location: "Chile"
-    followers: 17178
-    engagement: 659
-    commentsToLikes: 0.014712
+    followers: 19493
+    engagement: 312
+    commentsToLikes: 0.014376
     id: ck5c395zlyu3i0i11c31iqfpa
     verified: false
-    hashtags: "#smile, #night, #edition, #2020"
-  - username: "christiandawson"
+    hashtags: "#photo, #travel, #likeforlikes, #bike"
+  - username: "christiangarciaph"
     fullname: >-
-      Christian Dawson
+      christiangarciaph
     bio: >-
-      📍Santiago, Chile @adidasskateboarding @gangstabrand 🎥✨
+      📍 Madrid 📷 Fotógrafo y videógrafo 🚗 @rebuildingmymiata 📽 @theblinkteam ⬇️ Canal de Youtube
     location: "Chile"
-    followers: 6892
-    engagement: 979
-    commentsToLikes: 0.071027
-    id: ck55l8jy30zxd0i11p7c8ncx1
+    followers: 13226
+    engagement: 360
+    commentsToLikes: 0.024145
+    id: ck55mnq964cuz0i112xf2porn
     verified: false
-    hashtags: "#tbt, #copanationale, #skateboardingisfun, #skate"
-  - username: "marianabacarreza_mbomakeup"
-    fullname: >-
-      MBO MAKEUP | Mariana Bacarreza
-    bio: >-
-      💄 Profesión actual Maquillaje y Pelo. 💆🏻‍♀️ Estudiante de Cosmetología. 🍔 Egresada de gastronomía. 🐶 #animallover
-    location: "Chile"
-    followers: 20796
-    engagement: 469
-    commentsToLikes: 0.279065
-    id: ck6tzyzpacobz0j71v9jm7tiq
-    verified: false
-    hashtags: "#makeup, #skincare, #hairstyle, #skincareroutine"
+    hashtags: "#mazdamx5, #mazda, #miatagang, #mx5"
   - username: "mario.casas.fotos"
     fullname: >-
       MARIO CASAS FOTOS
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.012571
     id: ck9weu08gltps0j78gd3oou0n
     verified: false
-    hashtags: "#mariocasasfotos, #jueves, #mariocasas, #tbt"
-  - username: "mimazamall"
+    hashtags: "#mariocasasfotos, #tbt, #mariocasas, #jueves"
+  - username: "anahi.ve"
     fullname: >-
-      MIMA ZAMALL
+      Anahi Vega
     bio: >-
-      🏳️‍🌈 Ser, es el acto más rebelde 🏳️‍🌈 Fashion Designer + Stylist + Art Director 🌍 @mimazamallshop
+      🇨🇱Santiago - 23 años ⚖️Estudiante de Derecho (UDP) 💜Feminista 🥦#PlantBased 🏋🏼‍♀️#CrossFitter @justfitness_blackhatcf
     location: "Chile"
-    followers: 21316
-    engagement: 508
-    commentsToLikes: 0.092904
-    id: ck0vyw57r62rw0i19s05m66vn
+    followers: 49377
+    engagement: 527
+    commentsToLikes: 0.058054
+    id: ck6tt7r1193k70j71qka2ewzf
     verified: false
-    hashtags: "#quedateencasa, #supportlocal, #stayhome, #supportartists"
-  - username: "imatiasbello"
+    hashtags: "#veganpower, #poweredbyplants, #dermatitisato, #vegan"
+  - username: "mazoyercath"
     fullname: >-
-      i𝐌𝕒𝕥í𝕒𝕤 👑
+      Catherine Mazoyer
     bio: >-
-      MB👑 Latino 📍 Cantante Integrante de @aionmusic.cl ✨ #Noquiereanadie Escucha nuestro último single 👇🏻
+      Actriz chilena - Chilean Actress Mamá de Milan y Gala
     location: "Chile"
-    followers: 6525
-    engagement: 718
-    commentsToLikes: 0.160649
-    id: ck5zuceu223e40i14o5aq7oqv
-    verified: false
-    hashtags: "#aionbajolaluna, #followme, #phototheday, #aionmusic"
-  - username: "franciscochavez1"
-    fullname: >-
-      franciscochavez
-    bio: >-
-      No vine a competir, vine a crecer..." BM www.bodywork.cl Videos:
-    location: "Chile"
-    followers: 40271
-    engagement: 227
-    commentsToLikes: 0.027904
-    id: ck6tl03155qca0j71dqzfuoq5
-    verified: false
-    hashtags: "#equipo, #tvshow, #nationalpark, #losangeles2020"
-  - username: "dinamiterasanchez"
-    fullname: >-
-      Rosario Sanchez
-    bio: >-
-      tu sabes como soy, me gusta ser así 👽🌝🍟 Todos los links de mi vida acá 👇👇👇
-    location: "Chile"
-    followers: 10623
-    engagement: 474
-    commentsToLikes: 0.042602
-    id: ck5hs70bqw3eh0i11yavc0bnd
-    verified: false
-    hashtags: "#tbt"
-  - username: "fmilagros"
-    fullname: >-
-      Fernando Milagros
-    bio: >-
-      📩 contacto@fernandomilagros.cl @pvjvros
-    location: "Chile"
-    followers: 26875
-    engagement: 154
-    commentsToLikes: 0.038597
-    id: ck5hnnec7o2hb0i11g5utpsdr
-    verified: false
-    hashtags: "#directo, #rondacooperativa, #quilapayun, #pelonegro"
-  - username: "agustinpastorino"
-    fullname: >-
-      Agustin Pastorino
-    bio: >-
-      
-    location: "Chile"
-    followers: 149183
-    engagement: 184
-    commentsToLikes: 0.027619
-    id: ck5zjfmxyhi3m0i140trji2kx
+    followers: 177733
+    engagement: 186
+    commentsToLikes: 0.027515
+    id: ck0w5h2rp3m590i1929gek21h
     verified: true
-    hashtags: "#chile, #pichilemu, #galapagos, #tbt"
+    hashtags: "#modelo, #regaloconsentido, #vidademama, #colageno"
+  - username: "totoberisso"
+    fullname: >-
+      Toto Berisso
+    bio: >-
+      Periodista de @revistanoticias, fotógrafo y runner 10K🔓 15K🔓 21k🔓 42k🔓 ¿110? DualPowerTeam x @dualpowerok Pacer x @iloverunn Sin miedo al ridículo
+    location: "Chile"
+    followers: 15584
+    engagement: 112
+    commentsToLikes: 0.389166
+    id: ck6tsqxqe6bw60j719kmfkhnd
+    verified: true
+    hashtags: "#110k, #correr, #quenadatedetenga, #trail"
+  - username: "feliponandres"
+    fullname: >-
+      Felipe Andrés
+    bio: >-
+      1999 Artista~Cantante~Compositor @aionmusic.cl #NoQuiereaNadie
+    location: "Chile"
+    followers: 7719
+    engagement: 792
+    commentsToLikes: 0.058739
+    id: ck5zucely23cv0i14bh1ceevk
+    verified: false
+    hashtags: "#fresh, #aionengottalent, #gottalentchile, #chile"
+  - username: "juanaactiscaporale"
+    fullname: >-
+      JUANA ACTIS CAPORALE
+    bio: >-
+      arq 🇦🇷@epbookers 🇨🇱@welovemodels._
+    location: "Chile"
+    followers: 2940
+    engagement: 1704
+    commentsToLikes: 0.048122
+    id: ck5q1hswtb1pe0i11fgrbje81
+    verified: false
+    hashtags: "#epbookers, #liveboldly, #revlongirlsclub, #encasa"
+  - username: "tere.abumohor"
+    fullname: >-
+      Tere Abumohor 🇨🇱
+    bio: >-
+      🦁Viajes y Aventuras 🎬Fotografa •Filmmaker •Youtuber 🏕👯‍♂️ Síguenos 👉@ruteranas Mujeres en Ruta 4x4! #VanLife 📸IG Fotos @tere.wild 🌍Nuevo 📽Youtube!👇
+    location: "Chile"
+    followers: 41971
+    engagement: 233
+    commentsToLikes: 0.022472
+    id: ck5hofe8gpgr60i111xwygz0x
+    verified: false
+    hashtags: "#aventura, #chile, #vivechile, #viaje"
 ---

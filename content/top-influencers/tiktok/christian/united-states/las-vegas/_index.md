@@ -1,72 +1,48 @@
 ---
-title: Top 10 Christian TikTok Influencers In Las Vegas in 2023
+title: Top 10 Christian TikTok Influencers In Las Vegas In 2023
 description: >-
   Find top christian TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
-hits: 10
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 10 TikTok influencers like this in Las Vegas, United States for you to pitch.
+hits: 6
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 6 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "goldstudioslv"
-    fullname: >-
-      M
-    bio: >-
-      If you like anything I do all I ask is that you please subscribe to this link>>>
-    location: "United States"
-    followers: 5499
-    engagement: 1381
-    commentsToLikes: 0.176111
-    id: ckb9ason3w0q40j23aflihddu
-    verified: false
-    hashtags: "#flatbush, #crownheights, #trinidad, #via"
   - username: "christian_shelton"
     fullname: >-
       Christian Shelton
     bio: >-
       A Singer 19 | Las Vegas Instagram: @christiansheltonsings
     location: "United States"
-    followers: 504600
-    engagement: 1594
-    commentsToLikes: 0.026683
+    followers: 752400
+    engagement: 1348
+    commentsToLikes: 0.024291
     id: ckdbhijku8m7u0j231djpajad
     verified: false
-    hashtags: "#4you, #singing, #foryourpage, #vocals"
-  - username: "sarahromanowsky"
+    hashtags: "#duet, #singing, #fyp, #foryourpage"
+  - username: "kianachampion"
     fullname: >-
-      Sarah Romanowsky
+      Kiana Champion 
     bio: >-
-      Teaching virtual lessons in Silks/Hammock/Hoop — email SarahRomanowsky@gmail.com
+      Christian🙌🏼 23 IG:Green_eyedmermaid🧜🏻‍♀️ Collabs⬇️ Kianachampion@Tiktal.co
     location: "United States"
-    followers: 11400
-    engagement: 1861
-    commentsToLikes: 0.008782
-    id: ckcughpc9f66i0j23u63uo57u
+    followers: 263500
+    engagement: 585
+    commentsToLikes: 0.022505
+    id: ck83zsic72nyq0j78mfmy070h
     verified: false
-    hashtags: "#aerialdance, #foryou, #cirquedusoleil, #slomo"
-  - username: "problematiccabbage"
+    hashtags: "#fyp, #comedy, #weddings, #weddingtips"
+  - username: "b_desantos"
     fullname: >-
-      Jessica A
+      B🌺
     bio: >-
-      painfully relatable Venmo: Jessisph14
+      17🇵🇭 she/her vegas📍 FILOTONIX ty sm for 12k 😭🥺
     location: "United States"
-    followers: 80800
-    engagement: 1510
-    commentsToLikes: 0.044434
-    id: ck83z71huya3d0j78uhlxxmpz
+    followers: 12400
+    engagement: 1348
+    commentsToLikes: 0.065883
+    id: ckacsf2bl9pzi0i7871j8gn5x
     verified: false
-    hashtags: "#harris2020, #funny, #fyp, #debate"
-  - username: "bruno_bulldogge"
-    fullname: >-
-      Germanese929
-    bio: >-
-      
-    location: "United States"
-    followers: 7389
-    engagement: 2386
-    commentsToLikes: 0.040144
-    id: ckb9rok0eoakw0j23l9pib0eb
-    verified: false
-    hashtags: "#love, #pets, #petlovers, #englishbulldog"
+    hashtags: "#sia, #duet, #voiceeffects, #driverslicense"
   - username: "shana.lucia"
     fullname: >-
       Shana :)
@@ -78,53 +54,77 @@ profiles:
     commentsToLikes: 0.130948
     id: ckdnvjhdzosod0j234102mt7v
     verified: false
-    hashtags: "#wwg1wga, #republican, #covidlies, #plandemic"
-  - username: "asiamahmoudsaad"
+    hashtags: "#thegreatawakening, #wwg1wga, #plandemic, #trump2020"
+  - username: "sarahromanowsky"
     fullname: >-
-      Asia Mahmoud Saad
+      Sarah Romanowsky
     bio: >-
-      The Native Muslim
+      Teaching virtual lessons in Silks/Hammock/Hoop — email SarahRomanowsky@gmail.com
     location: "United States"
-    followers: 11700
-    engagement: 1215
-    commentsToLikes: 0.046088
-    id: ckc7esakvnsz80j23yzp9w52v
+    followers: 23700
+    engagement: 1814
+    commentsToLikes: 0.007882
+    id: ckcughpc9f66i0j23u63uo57u
     verified: false
-    hashtags: "#toxic, #greenscreen, #fyp, #motherinlaw"
-  - username: "jeniferjfloress"
-    fullname: >-
-      Jeni
-    bio: >-
-      Insta & YouTube 🔝 Baby Kai’s IG: @kaijordansoriano 🇭🇳
-    location: "United States"
-    followers: 314500
-    engagement: 1158
-    commentsToLikes: 0.014350
-    id: ckczyqgpv7dds0j23aj5pk4ge
-    verified: false
-    hashtags: "#supplements, #parati, #baby, #momsoftiktok"
-  - username: "cheyenne.hooper"
-    fullname: >-
-      VERY TIRED
-    bio: >-
-      CEO of reaching top shelves 23 | 6’6 | CA
-    location: "United States"
-    followers: 13100
-    engagement: 794
-    commentsToLikes: 0.025392
-    id: ck9em578qdod80j78g31ioucn
-    verified: false
-    hashtags: "#duet, #tall, #tallgirl, #lgbt"
+    hashtags: "#dancer, #bungee, #foryou, #aerialhammock"
   - username: "outgunz"
     fullname: >-
       Cristian Abrego
     bio: >-
       Gun enthusiasts
     location: "United States"
-    followers: 16200
-    engagement: 953
-    commentsToLikes: 0.017669
+    followers: 16100
+    engagement: 1044
+    commentsToLikes: 0.039509
     id: ckahto9shf27t0i78wem2lyc5
     verified: false
-    hashtags: "#icon, #motorcycle, #kawasaki, #2a"
+    hashtags: "#icon, #kawasexi, #lasvegas, #motorcycle"
+  - username: "christianmelloo"
+    fullname: >-
+      Christian
+    bio: >-
+      ⛈ Follow insta ^ snap @christianlm9 twitter @Cmellobruh 18
+    location: "United States"
+    followers: 64700
+    engagement: 2320
+    commentsToLikes: 0.057840
+    id: ck8j5ywew7g3q0j782mnas79g
+    verified: false
+    hashtags: "#fyp, #homecooking, #readysetgo, #waitforthegreats"
+  - username: "christian"
+    fullname: >-
+      Christian Delgrosso
+    bio: >-
+      FOLLOW ME ON IG & YOUTUBE↖️ ChristianDManagement@gmail.com
+    location: "United States"
+    followers: 4100000
+    engagement: 1811
+    commentsToLikes: 0.008596
+    id: ck83wr5h9lmey0j788n2etpge
+    verified: true
+    hashtags: "#ad, #duet, #foryou, #afterpay"
+  - username: "christiannvegaa"
+    fullname: >-
+      CHRISTIAN
+    bio: >-
+      INSTAGRAM: christiannvega THANK U FOR 100k <3
+    location: "United States"
+    followers: 105200
+    engagement: 1590
+    commentsToLikes: 0.011637
+    id: ck9c6pm82r6rj0j78fh4qtpxa
+    verified: false
+    hashtags: "#sinaloa, #fyp, #latino, #takuache"
+  - username: "mauricedowell"
+    fullname: >-
+      Maurice Dowell
+    bio: >-
+      •Motivator •Christian •Influencer ❤️God loves you and so do I❤️
+    location: "United States"
+    followers: 3700000
+    engagement: 1977
+    commentsToLikes: 0.093657
+    id: ck977b7im3hfs0j78upfn9rcl
+    verified: false
+    hashtags: "#fyp, #foryou, #foryoupage, #xyzbca"
 ---

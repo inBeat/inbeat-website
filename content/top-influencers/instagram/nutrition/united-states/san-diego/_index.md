@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In San Diego in 2023
+title: Top 10 Nutrition Instagram Influencers In San Diego In 2023
 description: >-
-  Find top nutrition Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #nutrition #workout #fitness.
+  Find top nutrition Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #fitness #motivation #california.
 platform: Instagram
 hits: 32
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 32 Instagram influencers like this in San Diego, United States for you to contact.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 32 Instagram influencers like this in San Diego, United States for you to work with.
 profiles:
-  - username: "vansecoo"
+  - username: "lotsoftotss"
     fullname: >-
-      VANESA SECO 🌈
+      Tatiana Koval | Fitness
     bio: >-
-      here to express, not impress LA🌞 Shuffle Dancer | Choreographer | Visionary Owner- @diosabyseco @casacontentaa ✨ 💃🏼 @cleartalentgroup 🇨🇴|🇻🇪 👇🏽👇🏽👇🏽
+      💫Taking a Spiritual Approach to Fitness 🧘🏽‍♀️ Yoga Instructor 🌈Nutrition Coach 🌏Online Personal Trainer 🦋 Transformation Specialist
     location: "United States"
-    followers: 573552
-    engagement: 292
-    commentsToLikes: 0.026444
-    id: ck0ttb3kq1xtn0i19rsfdupl7
+    followers: 22869
+    engagement: 161
+    commentsToLikes: 0.115396
+    id: ck6u9c8l1wpj10j71qvj9ymub
     verified: false
-    hashtags: "#shuffletutorial, #goodvibes, #shufflestyles, #reels"
-  - username: "itsmakmiller"
-    fullname: >-
-      Makenna Miller
-    bio: >-
-      🏡 Real Estate Agent #berkshirehathaway @gymmolly Athlete | Code: “makenna20” @restore_eastictks | Code: “Mak30”
-    location: "United States"
-    followers: 39144
-    engagement: 722
-    commentsToLikes: 0.083980
-    id: ck8t6od7eeakv0j78sv76w2j3
-    verified: false
-    hashtags: "#ocean, #postworkout, #blonde, #vacation"
-  - username: "kelsiemichelle_"
-    fullname: >-
-      Kelsie | Strength Coach
-    bio: >-
-      ✨Strength & Nutrition Coach-CSCS ✨MS Nutrition & Functional medicine student ✨Powerlifter | Feminine Strong ✨Empowering women in strength Apply ⬇️
-    location: "United States"
-    followers: 47828
-    engagement: 568
-    commentsToLikes: 0.014373
-    id: ck55kolovzrmz0i11cxw6ommd
-    verified: false
-    hashtags: "#powerlifting, #fitnessmotivation, #femininestrong, #personaltrainer"
+    hashtags: "#transformation, #fitspo, #health, #weightlosstransformation"
   - username: "naturallyzuzu"
     fullname: >-
       Zuliya Khawaja | NaturallyZuzu
     bio: >-
-      Welcome to Zuzuland! Plant-based chef Food Art & Recipes Certified in #plantbased #nutrition from @nutritionstudies 📍San Diego, CA
+      Welcome to Zuzuland! [She/Her] Plant-based chef Food Art & Recipes Certified in #plantbased #nutrition Clubhouse: @naturallyzuzu 📍San Diego, CA
     location: "United States"
-    followers: 124679
-    engagement: 266
-    commentsToLikes: 0.051185
+    followers: 133484
+    engagement: 284
+    commentsToLikes: 0.045703
     id: ck0tzt2n9rioi0i1990c2tdzr
     verified: false
-    hashtags: "#seedsofchange, #psl, #psl2020, #election2020"
-  - username: "chiarabryan"
+    hashtags: "#imsomartha, #naturallyzuzu, #giveawayalert, #vegandessert"
+  - username: "kelsiemichelle_"
     fullname: >-
-      Chiara Bryan
+      Kelsie | Strength+Nutrition
     bio: >-
-      🌊 Surf Instructor // 🍍IIN // 👩🏼‍🍳🌱
+      Online Coach ✨Empowering women in strength ✨Strength & Nutrition Coach-CSCS ✨MS Nutrition & Functional medicine student ✨Powerlifter | Feminine Strong
     location: "United States"
-    followers: 7301
-    engagement: 469
-    commentsToLikes: 0.035814
-    id: ck0twwrvmh2tz0i197h42l0s5
+    followers: 54250
+    engagement: 269
+    commentsToLikes: 0.023747
+    id: ck55kolovzrmz0i11cxw6ommd
     verified: false
-    hashtags: "#pb, #sandiego, #fullmoon, #present"
-  - username: "tina.m.dominguez"
+    hashtags: "#empoweredwomen, #girlswholift, #nutrition, #gymgirls"
+  - username: "dietandfries"
     fullname: >-
-      San Diego Brand Photographer
+      Michelle Le
     bio: >-
-      → Creative Consultant → Marketing Brand Director w/ fitme™️ Nutrition → And I lift & stuff
+      📍 San Diego ✝️ 🍟A place for healthy-ish lifestyle 💍 Wifey to @johnniesd 🥪 @sandwichemporium 📧DietandFries@gmail.com for collabs 👇 Nibmor
     location: "United States"
-    followers: 5439
-    engagement: 371
-    commentsToLikes: 0.139310
-    id: ck9hcsihimsjj0j78xr62784s
+    followers: 27663
+    engagement: 225
+    commentsToLikes: 0.029734
+    id: ck8t06wp1r0ee0j780rv79606
     verified: false
-    hashtags: "#riseupandpersevere, #selfmastery, #quarantinelife, #sustainability"
+    hashtags: "#health, #love, #fit, #foodphotography"
+  - username: "amberkclarkston"
+    fullname: >-
+      Certified Nutrition Coach
+    bio: >-
+      @glowup_nutrition I can help you ⬆️ energy and ⬇️ fat by implementing sustainable nutrition & lifestyle habits so you incredible!
+    location: "United States"
+    followers: 4673
+    engagement: 1108
+    commentsToLikes: 0.085462
+    id: ck8t6tfg2emql0j7815j51uhq
+    verified: false
+    hashtags: "#travel, #canyons, #mountains, #green"
+  - username: "tripsbygelly"
+    fullname: >-
+      Gelly
+    bio: >-
+      From Sao Paulo, living in San Diego 👉🏼 @tipsbygelly 💌: trips@blogdagelly.com
+    location: "United States"
+    followers: 11877
+    engagement: 317
+    commentsToLikes: 0.033855
+    id: ckaoqxpcjkvvy0i78gz7rt8ec
+    verified: false
+    hashtags: "#socal, #instapassport, #exploringtheglobe, #visitcalifornia"
   - username: "ayshahaleyy_"
     fullname: >-
-      ＡＹＳＨＡ  ＨＡＬＥＹ
+      ＡＹＳＨＡ  ＨＡＬＥＹ🧿
     bio: >-
-      📍San Diego, Ca •💪🏼Powerlifter •💘CG 🍕Usually in the gym or eating 💚@monsterhydro 🦋Just goin’ with the flow 🙏🏼Thankful » Grateful »Blessed
+      📍San Diego, Ca •💘CG 🍕Usually in the gym or eating 🙏🏼Thankful » Grateful »Blessed 🦋𝘞𝘩𝘦𝘯 𝘺𝘰𝘶 𝘧𝘰𝘤𝘶𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘨𝘰𝘰𝘥, 𝘵𝘩𝘦 𝘨𝘰𝘰𝘥 𝘨𝘦𝘵𝘴 𝘣𝘦𝘵𝘵𝘦𝘳.
     location: "United States"
-    followers: 104498
-    engagement: 412
-    commentsToLikes: 0.015156
+    followers: 99646
+    engagement: 336
+    commentsToLikes: 0.012237
     id: ck5zzvx6gciio0i14bplgbu32
     verified: false
-    hashtags: "#strongnotskinny, #daybyday, #powerlifting, #quarantine"
-  - username: "turnipvegan"
+    hashtags: "#squats, #strengthtraining, #sandiego, #daybyday"
+  - username: "graceandsalt"
     fullname: >-
-      Turnip Vegan
+      Justin + Keary + Oliver + Zola
     bio: >-
-      🎥 #Videographer | 🌱 | San Diego Founder of @chickpeasxturnips Co-Founder of @spoiledvegans cafe
+      💉 Mother + Daughter T1D’s 🌱 Holistic Nutrition (FNTP) ✏️ @theoneroomschool 🚎 RV living + reno 📍 San Diego
     location: "United States"
-    followers: 29967
-    engagement: 304
-    commentsToLikes: 0.052484
-    id: ck6txp1plz1ml0j71cngqzhxn
+    followers: 54569
+    engagement: 596
+    commentsToLikes: 0.143705
+    id: ck0w3sp8uv2p20i19amepxp4v
     verified: false
-    hashtags: "#delicious, #cookies, #vegancommunity, #veganism"
-  - username: "ardentreverie"
+    hashtags: "#athletapartner, #type1diabetes, #thousandtrails, #athletagirl"
+  - username: "briewilly"
     fullname: >-
-      Mel & Meg 👯
+      Brie Willy aka Chad Montano
     bio: >-
-      Two minds. One collection. Sister duo Melanie and Meghan Mina. Being fun, weird & creative in San Diego @zalesjewelers 💎
+      Food | Lifestyle | Cocktails | Restaurant 📸 @westcottlighting Top Pro @traegergrills @snakeriverfarms 📍San Diego, CA
     location: "United States"
-    followers: 33653
-    engagement: 267
-    commentsToLikes: 0.038570
-    id: ck6tk8gb547dx0j71quynm2h4
+    followers: 37077
+    engagement: 147
+    commentsToLikes: 0.254035
+    id: ck0tterzk2ehy0i1955ditnnn
     verified: false
-    hashtags: "#sponsored, #keto, #ad, #bigfoodmood"
+    hashtags: "#steak, #freshfood, #ad, #eeeeeats"
   - username: "alpha_joe_"
     fullname: >-
-      JOEY HALABI †🇮🇶 #عراقي
+      JOEY HALABI †🇮🇶 عراقي
     bio: >-
-      ▪️CEO & Owner @alpha_nutrition_inc ▪️NPC NQ 🥇x4 ▪️PREP COACH ∣ PERSONAL TRAINER ▪️23 San Diego☀️ He who kneels before God, can stand before anyone†
+      CEO/Owner @alpha_nutrition_inc Coach/Athlete @gymmolly (Alpha20 = 20% off) PREP COACH & PERSONAL TRAINER 24 y/o San Diego Walk by faith, not by sight†
     location: "United States"
-    followers: 16469
-    engagement: 319
-    commentsToLikes: 0.065397
+    followers: 23253
+    engagement: 382
+    commentsToLikes: 0.048477
     id: ckf5n5i0dwtvq0j23lbp63a57
     verified: false
-    hashtags: "#roadtopro, #discoverpage, #fitnessmodel, #tiktok"
+    hashtags: "#explorepage, #cutting, #gym, #aesthetic"
 ---

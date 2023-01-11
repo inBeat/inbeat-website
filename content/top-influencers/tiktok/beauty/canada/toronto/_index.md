@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Toronto in 2023
+title: Top 10 Beauty TikTok Influencers In Toronto In 2023
 description: >-
-  Find top beauty TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #beauty #foryou.
+  Find top beauty TikTok influencers in Toronto in 2023. Most popular hashtags: #toronto #fyp #canada #foryou.
 platform: TikTok
-hits: 34
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database holds 34 TikTok influencers like this in Toronto, Canada for you to contact.
+hits: 20
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 20 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "chantalmaguire"
-    fullname: >-
-      Chantal Maguire
-    bio: >-
-      FOLLOW ME ON IG For any business inquires email: chantaldesigns@hotmail.com
-    location: "Canada"
-    followers: 6114
-    engagement: 462
-    commentsToLikes: 0.044952
-    id: ckdc0mguifdyj0j23bgqv2w3s
-    verified: false
-    hashtags: "#fashion, #libra, #ootd, #diy"
   - username: "amypigeonmua"
     fullname: >-
       Amy Pigeon
     bio: >-
       🇨🇦 Beauty influencer 🙋‍♀️ @amypigeonMUA on the gram 📨: amy@cru6beauty.com
     location: "Canada"
-    followers: 4273
-    engagement: 709
-    commentsToLikes: 0.026388
+    followers: 4991
+    engagement: 651
+    commentsToLikes: 0.023188
     id: ckbf8g1qyz0q50j23eammhxkp
     verified: false
-    hashtags: "#toronto, #mua, #spfx, #makeupartist"
-  - username: "xnisamalik"
+    hashtags: "#toronto, #stpatricksday, #spfx, #foryou"
+  - username: "ratedameerah"
     fullname: >-
-      nise
+      Ameerah
     bio: >-
-      she/ they 🇵🇰🇨🇦 BLM 🏳️‍🌈
+      Toronto. Recording artist. Click the link to stream my music💫
     location: "Canada"
-    followers: 51400
-    engagement: 911
-    commentsToLikes: 0.019452
-    id: ck9fdr0nkpt300j78dk1d0npf
+    followers: 69400
+    engagement: 910
+    commentsToLikes: 0.058654
+    id: ckcol5b1e5dhb0j23mnocr4c2
     verified: false
-    hashtags: "#ootd, #fyp, #transformation, #toronto"
+    hashtags: "#singingcover, #fyp, #friendlyfuture, #tiktokggt"
+  - username: "victoriasabovitch"
+    fullname: >-
+      Victoria Sabovitch🤍
+    bio: >-
+      23 🇨🇦🌈 She/her/princess Bus. only📩:Victoria@dulcedo.com
+    location: "Canada"
+    followers: 671600
+    engagement: 1167
+    commentsToLikes: 0.030123
+    id: ck9kdng2puxz00j7891cbtzfr
+    verified: false
+    hashtags: "#beauty, #canadian, #dollskill, #makeup"
+  - username: "hashtagmariah"
+    fullname: >-
+      ✨M A R I A H ✨ YOUTUBER
+    bio: >-
+      a flight attending beauty youtuber ✌🏽 mgmt@mallexandra.com toronto,CA 🇨🇦
+    location: "Canada"
+    followers: 18800
+    engagement: 755
+    commentsToLikes: 0.068182
+    id: ckce1tug2ig6s0j23wtwly765
+    verified: false
+    hashtags: "#stitch, #hydrafacial, #greenscreen, #dance4tomorrow"
+  - username: "_m.naeem_"
+    fullname: >-
+      Muhammad Naeem
+    bio: >-
+      Love For All Hatred For None Toronto, Canada 🇨🇦
+    location: "Canada"
+    followers: 6782
+    engagement: 1014
+    commentsToLikes: 0.078128
+    id: ckb9g5on651w60j2318hjztrg
+    verified: false
+    hashtags: "#love, #winter, #pakistani, #life"
   - username: "victoriagouveia_"
     fullname: >-
       Victoria Gouveia
     bio: >-
-      a toronto soulstress 🦋✨ "𝑭𝑬𝑬𝑳𝑰𝑵𝑮𝑺 " 𝐎𝐔𝐓 𝐍𝐎𝐖 ↓
+      a toronto songstress 🦋✨ 𝐋𝐈𝐊𝐄 𝐌𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐔𝐒𝐈𝐂 𝐕𝐈𝐃𝐄𝐎 ↓
     location: "Canada"
-    followers: 4872
-    engagement: 838
-    commentsToLikes: 0.020119
+    followers: 5185
+    engagement: 659
+    commentsToLikes: 0.030763
     id: ckbqumfeaf2i90j232t2o90s4
     verified: false
-    hashtags: "#fyp, #withmyfamily, #tshirt, #diy"
-  - username: "itskatlili"
+    hashtags: "#diy, #singing, #music, #toronto"
+  - username: "nilou.fardd"
     fullname: >-
-      Katherine Lili
+      Nilou Fard
     bio: >-
-      i kinda make beauty/fashion vids Toronto
+      This is the Hilarious me 💁🏻‍♀️ Beauty & Fashion Content Creator
     location: "Canada"
-    followers: 11200
-    engagement: 863
-    commentsToLikes: 0.014342
-    id: ckbffltenadoc0j23ug0aqqk2
+    followers: 27700
+    engagement: 645
+    commentsToLikes: 0.027261
+    id: ck90r2g2fkumv0j78fnfoaaeh
     verified: false
-    hashtags: "#outfits, #vibewithme, #retailtherapy, #brandymelville"
-  - username: "shelseamartinez1"
+    hashtags: "#myhome, #tiktokcanada, #fyp, #bellamihair"
+  - username: "manrajaujlahair"
     fullname: >-
-      Shelsea Martinez
+      Manraj Aujla
     bio: >-
-      ENGLISH/FRANÇAIS/ESPAÑOL IG : Shelsea.Martinez Leo/Virgo♌♍
+      Aujla Salon & Spa⬆️ IG: @AujlaSalonSpa @ManrajAujlaHair Toronto, Canada 🇨🇦
     location: "Canada"
-    followers: 7426
-    engagement: 270
-    commentsToLikes: 0.037097
-    id: ckb9g3mpb4qtm0j23pat0xv2h
+    followers: 146200
+    engagement: 492
+    commentsToLikes: 0.014153
+    id: ckacl6j3peaeh0i78y1x7jvbf
     verified: false
-    hashtags: "#goals, #tiktok, #canada, #fun"
-  - username: "trueoutliersofficial"
+    hashtags: "#hairsalon, #hairtransformation, #brampton, #toronto"
+  - username: "modestfashionandbeauty"
     fullname: >-
-      trueoutliers
+      Modest Fashion and Beauty
     bio: >-
-      The warmest coats 🇨🇦 Use coupon code “tiktok” for a discount in checkout
+      MODEST FASHION & BEAUTY Your Go To Place For Modest Fashion & Beauty Hacks
     location: "Canada"
-    followers: 2906
-    engagement: 814
-    commentsToLikes: 0.027520
-    id: cka0k740plb110i787wf7q1i3
+    followers: 68300
+    engagement: 1066
+    commentsToLikes: 0.022179
+    id: ck961yrgmoiex0j78ejlg96ha
     verified: false
-    hashtags: "#foryoupage, #celebrity, #fyp, #trueoutliers"
-  - username: "saarrafina"
+    hashtags: "#muslimahfashionblogger, #hijabifashionblogger, #hijabiblogger, #pressonnails"
+  - username: "nikiivictoria"
     fullname: >-
-      Fina
+      niki
     bio: >-
-      Go follow my beauty line page on insta!! @inclusvskin
+      model + photographer ig: @nikiivictoria // TO🇨🇦 nikivictoriacontact@gmail.com
     location: "Canada"
-    followers: 132900
-    engagement: 1373
-    commentsToLikes: 0.027897
-    id: cka6in3mirbi10i7890b8zp7n
+    followers: 86500
+    engagement: 912
+    commentsToLikes: 0.026151
+    id: ck8tprmbcqlja0j78bj045pzy
     verified: false
-    hashtags: "#fyp, #duet, #biden2020, #lashes"
-  - username: "jenneelicious"
-    fullname: >-
-      Jennii💕
-    bio: >-
-      Quarantine made me do it 🤪 📍Toronto
-    location: "Canada"
-    followers: 37700
-    engagement: 563
-    commentsToLikes: 0.087875
-    id: cka69ka7bsury0i7890x36zvd
-    verified: false
-    hashtags: "#over40club, #foryoupage, #fyp, #outfitchange"
-  - username: "jessiicamxo"
-    fullname: >-
-      𝙅 𝙀 𝙎 𝙎 𝙄 𝘾 𝘼
-    bio: >-
-      Instagram: jessiicamxo 🧿 🇨🇦🇬🇾 📍Toronto
-    location: "Canada"
-    followers: 24000
-    engagement: 820
-    commentsToLikes: 0.036511
-    id: ckbqhtwkn32y20j23gv31va4e
-    verified: false
-    hashtags: "#baddies, #trending, #guyanatiktok, #caribbean"
+    hashtags: "#foryou, #photographer, #toronto, #tallgirl"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters TikTok Influencers In Australia in 2023
+title: Top 10 Painters TikTok Influencers In Australia In 2023
 description: >-
-  Find top painters TikTok influencers in Australia in 2023. Most popular hashtags: #art #fyp #foryou #artist.
+  Find top painters TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #art #artist #foryou.
 platform: TikTok
-hits: 35
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 35 TikTok influencers like this in Australia for you to contact.
+hits: 44
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 44 TikTok influencers like this in Australia for you to pitch.
 profiles:
-  - username: "rebeccakateartist"
-    fullname: >-
-      rebeccakateartist
-    bio: >-
-      🇦🇺 artist / mum hoping to inspire others to create insta - @rebeccakateartist
-    location: "Australia"
-    followers: 15000
-    engagement: 1438
-    commentsToLikes: 0.073856
-    id: ckavp9a0i0axp0j23si1kpcox
-    verified: false
-    hashtags: "#artaddiction, #abstractartwork, #botanicalart, #artist"
   - username: "zachampson"
     fullname: >-
       Zac Hampson
     bio: >-
       🔥australian professional artist🔥 🌏 documenting the come up 🌏 check YT & IG
     location: "Australia"
-    followers: 6647
-    engagement: 1704
-    commentsToLikes: 0.059233
+    followers: 6590
+    engagement: 1875
+    commentsToLikes: 0.075660
     id: ckbl07kbewx360j230o5t4zga
     verified: false
-    hashtags: "#artist, #fy, #painting, #foryou"
-  - username: "waifu_bb4"
-    fullname: >-
-      Wai
-    bio: >-
-      anime, k-pop and crack 16 :0
-    location: "Australia"
-    followers: 5852
-    engagement: 2599
-    commentsToLikes: 0.020513
-    id: ckc8ylww5n5d90j23zbowx3y8
-    verified: false
-    hashtags: "#duet, #manga, #ashlynx, #eijiokumura"
+    hashtags: "#oilpainting, #art, #pleinair, #artist"
   - username: "livkiria.art"
     fullname: >-
       liv
     bio: >-
       ˚✧₊⁎ 17 ⁎⁺˳✧༚. i do art and paint art ig: livkiria.art she/they
     location: "Australia"
-    followers: 47900
-    engagement: 1614
-    commentsToLikes: 0.006871
+    followers: 48200
+    engagement: 1584
+    commentsToLikes: 0.006709
     id: ckb97tliequp00j2316mmrxbb
     verified: false
-    hashtags: "#artsy, #acrylicpaint, #artist, #acrylic"
-  - username: "tahliastanton"
+    hashtags: "#acrylic, #aesthetic, #arty, #realism"
+  - username: "rebeccakateartist"
     fullname: >-
-      🌸Tahlia🌸
+      rebeccakateartist
     bio: >-
-      ✨You’re so amazing just be yourself✨ 🌸🛍20% OFF ALL PRINTS🛍🌸 👇👇👇
+      🇦🇺 artist / mum hoping to inspire others to create insta - @rebeccakateartist
     location: "Australia"
-    followers: 259400
-    engagement: 1843
-    commentsToLikes: 0.011430
-    id: ckammx0e12bo50i78co217g3l
-    verified: true
-    hashtags: "#artober, #painting, #arttiktok, #paintersoftiktok"
-  - username: "navimultani2"
-    fullname: >-
-      Navi Multani
-    bio: >-
-      Navpreet singh Multani India 🇮🇳to✈️✈️Australia 🇦🇺🇦🇺city Melbourne
-    location: "Australia"
-    followers: 20100
-    engagement: 614
-    commentsToLikes: 0.015809
-    id: cka0rnfsjhq2y0i78iwj6dnd9
+    followers: 15200
+    engagement: 1075
+    commentsToLikes: 0.077633
+    id: ckavp9a0i0axp0j23si1kpcox
     verified: false
-    hashtags: "#melboune, #australia, #oneminutevlog, #streetfashion"
+    hashtags: "#femaleartistcheck, #mixedmediaart, #collageartist, #femaleartist"
+  - username: "_seitens"
+    fullname: >-
+      skye
+    bio: >-
+      do not repost/edit ❌ IG & twt: @_seitens tysm for 127k!
+    location: "Australia"
+    followers: 128400
+    engagement: 2851
+    commentsToLikes: 0.017834
+    id: ckc7onx2buj600j23gkug6rqi
+    verified: false
+    hashtags: "#haikyuu, #jujutsukaisen, #weeb, #art"
   - username: "kingofduelss"
     fullname: >-
       alicia
     bio: >-
-      21 • JOJO/HXH lover cosplay IG: @kingofduels art IG: @aliciarose_art
+      22 • JOJO/HXH lover cosplay IG: @kingofduels art IG: @aliciarose_art
     location: "Australia"
-    followers: 13600
-    engagement: 2511
-    commentsToLikes: 0.036904
+    followers: 14400
+    engagement: 2558
+    commentsToLikes: 0.031552
     id: ckb9jfjxoakez0j23dy8uj5rz
     verified: false
-    hashtags: "#jjba, #art, #kurapika, #hxh"
-  - username: "sky2e"
+    hashtags: "#hunterxhunter, #jjba, #fyp, #yuyuhakusho"
+  - username: "waifu_bb4"
     fullname: >-
-      skye
+      Wai
     bio: >-
-      ♀• i draw (procreate, ipad pro) ENG/中文/日本語 OK more active on IG: @_seitens
+      anime, k-pop and crack 16 :0
     location: "Australia"
-    followers: 103500
-    engagement: 2701
-    commentsToLikes: 0.017625
-    id: ckc7onx2buj600j23gkug6rqi
+    followers: 5891
+    engagement: 2600
+    commentsToLikes: 0.027389
+    id: ckc8ylww5n5d90j23zbowx3y8
     verified: false
-    hashtags: "#kageyamatobio, #kpop, #animeart, #fy"
+    hashtags: "#ashlynx, #haikyuu, #bananafish, #smooth"
   - username: "findmeafoxx"
     fullname: >-
-      🇯🇵🇲🇲🇦🇺
+      🇯🇵🇦🇺🇲🇲
     bio: >-
-      yuzu 🍜🥢✨ 17歳
+      yuzu ユズ 🍜🥢✨ 0’3
     location: "Australia"
-    followers: 45800
-    engagement: 1772
-    commentsToLikes: 0.043300
+    followers: 77200
+    engagement: 1688
+    commentsToLikes: 0.030621
     id: ck90028wm9y990j78nh8x76ec
     verified: false
-    hashtags: "#weeb, #bananafish, #animerecommendations, #fyp"
-  - username: "crazy_camera"
+    hashtags: "#nofyp, #greenscreenvideo, #secretanimesociety, #anime"
+  - username: "jimbobthelegoman"
     fullname: >-
-      Crazy Camera📸👨‍🎤
+      James
     bio: >-
-      Go Around The World With My iPhone🚶‍♀️🚗✈️🧳🎈🎸🌍📺🇦🇺🇬🇧🇰🇷🇺🇸📱☎️👈😂
+      James 32 Dad Single 🔞 PO Box 4 Wendouree VIC 3355 Backup @jimbobthelegoman2.0
     location: "Australia"
-    followers: 290100
-    engagement: 672
-    commentsToLikes: 0.014961
-    id: ck8oxl67g30zv0j78sjl19t9h
+    followers: 27000
+    engagement: 838
+    commentsToLikes: 0.071755
+    id: ckbb0lxz7qz360j238mn73gx3
     verified: false
-    hashtags: "#chinese, #dog, #car, #prank"
+    hashtags: "#tasty, #lifehack, #duet, #fatherdaughter"
+  - username: "binil112"
+    fullname: >-
+      Binil Bajgai
+    bio: >-
+      Hope you hit this👆👆 The 🌍 is cruel but 👉 arent😋🥰 Be positive 😉
+    location: "Australia"
+    followers: 14400
+    engagement: 490
+    commentsToLikes: 0.148916
+    id: ck9k37ia2na8v0j78uhkmvybn
+    verified: false
+    hashtags: "#soccer, #foryou, #training, #foryoupage"
+  - username: "tahliastanton"
+    fullname: >-
+      🌸Tahlia🌸
+    bio: >-
+      ✨You’re so amazing just be yourself✨ ✈️Collected Worldwide🌏 🛍PRINTS🛍 👇👇👇
+    location: "Australia"
+    followers: 332600
+    engagement: 1715
+    commentsToLikes: 0.009219
+    id: ckammx0e12bo50i78co217g3l
+    verified: true
+    hashtags: "#arttiktok, #painting, #art, #entrepreneur"
 ---

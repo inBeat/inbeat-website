@@ -1,130 +1,118 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Norway in 2023
+title: Top 10 Cosmetics Instagram Influencers In Norway In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Norway in 2023. Most popular hashtags: #makeup #anastasiabeverlyhills #creativemakeup #colorfulmakeup.
+  Find top cosmetics Instagram influencers in Norway in 2023. Most popular hashtags: #makeup #beauty #anastasiabeverlyhills #nyxcosmetics.
 platform: Instagram
-hits: 10
+hits: 9
 text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 10 Instagram influencers like this in Norway for you to work with.
+text_bottom: Our database aggregates 9 Instagram influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "lenestenvik"
+  - username: "rabistyle_"
     fullname: >-
-      LENE A. STENVIK
+      𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄|𝐅𝐀𝐒𝐇𝐈𝐎𝐍|𝐁𝐄𝐀𝐔𝐓𝐘
     bio: >-
-      🤎 21 år 📍 Oppdal/Meldal 🏋🏽‍♀️ Treningsglede
+      • Rabi Fredriksen | 21 • Content Creator • Norwegian in Germany
     location: "Norway"
-    followers: 5290
-    engagement: 1394
-    commentsToLikes: 0.130069
-    id: ckap0y773sbkg0i78us5q88p3
+    followers: 27244
+    engagement: 481
+    commentsToLikes: 0.260115
+    id: ckap4mfej7x850i788tciwxpv
     verified: false
-    hashtags: "#oppdalsa, #icaniwill, #summer, #picoftheday"
-  - username: "mamaidamarie"
+    hashtags: "#bloggers, #bloggerinde, #bloggerlifesyle, #hautecouture"
+  - username: "food___passion"
     fullname: >-
-      𝙸𝚍𝚊 𝙼𝚊𝚛𝚒𝚎 🌻
+      Jamilla🇲🇦🇳🇴
     bio: >-
-      ↠ 𝙽𝚘𝚛𝚠𝚎𝚐𝚒𝚊𝚗 ↠ 𝙼𝚘𝚖 𝚘𝚏 𝙹𝚊𝚔𝚘𝚋 & 𝙾𝚜𝚔𝚊𝚛 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚌𝚒𝚛𝚌𝚞𝚜, 𝚊𝚗𝚍 𝚝𝚑𝚎𝚜𝚎 𝚝𝚠𝚘 𝚊𝚛𝚎 𝚖𝚢 𝚖𝚘𝚗𝚔𝚎𝚢𝚜 ↡ 10% rabatt med kode IDAMARI
+      📷 Pictures of my food journey 📍 Based in Oslo, Norway Passion for food, coffee, flowers and music🌸
     location: "Norway"
-    followers: 10612
-    engagement: 663
-    commentsToLikes: 0.131612
-    id: ck137crbrawaz0i19ecllt5cy
+    followers: 49569
+    engagement: 118
+    commentsToLikes: 0.236455
+    id: ck9hccd5fkqrt0j78e6yhqdlh
     verified: false
-    hashtags: "#northernnorway, #madeinnorway, #kl, #cozysweater"
-  - username: "antarctica_vampire"
+    hashtags: "#fashiondesigner, #fashionblogger, #dessertporn, #fashionshow"
+  - username: "cecilieharlem"
     fullname: >-
-      𝕵𝖊𝖘𝖘𝖎𝖈𝖆 𝕹𝖆𝖙𝖆𝖘𝖘𝖏𝖆
+      CECILIE HARLEM
     bio: >-
-      🔹️𝕸𝖆𝖉𝖊 𝖎𝖓 𝕰𝖚𝖗𝖔𝖕𝖊(Санкт-Петербург) 🔹️𝕱𝖗𝖔𝖒🇷🇺𝕿𝖔🇮🇹 🔹️𝕯𝕸 𝖋𝖔𝖗 𝖈𝖔𝖑𝖑𝖆𝖇𝖘 🔹️𝕸𝖎𝖘𝖆𝖓𝖙𝖍𝖗𝖔𝖕𝖞☠ 𝕺𝖈𝖈𝖚𝖑𝖙𝖎𝖘𝖒⛧ 🔹️𝖂𝖎𝖓𝖙𝖊𝖗❄𝕸𝖔𝖚𝖓𝖙𝖆𝖎𝖓𝖘🌲𝕽𝖆𝖎𝖓🌧 💙@misanthropic_division999
+      Norway / Halden📍 Lifestyle, beauty, interior ♒️
     location: "Norway"
-    followers: 12353
-    engagement: 858
-    commentsToLikes: 0.061873
-    id: ck8tbjew0vxko0j78o4frqlaa
+    followers: 10804
+    engagement: 339
+    commentsToLikes: 0.221037
+    id: ck6u9crm6wsxq0j7117va13fb
     verified: false
-    hashtags: "#silverhair, #alternative, #tattoogirl, #darkqueen"
+    hashtags: "#homeadore, #glow, #roomdecor, #darkhomes"
+  - username: "natalie_ortegaa"
+    fullname: >-
+      Natalie ortega
+    bio: >-
+      ½ Spanish ½ Norwegian Villafranca del Bierzo/ Spain📍 🇳🇴@heartbreakmanagement MA 🇬🇷 @fashioncult_models 🇪🇸@francinamodels
+    location: "Norway"
+    followers: 16065
+    engagement: 470
+    commentsToLikes: 0.046110
+    id: ck0w6w57majkf0i199mgoqs7f
+    verified: false
+    hashtags: "#vacation, #travel, #beauty, #makeup"
   - username: "ritaermin"
     fullname: >-
       Rita Synnøve Sharma ☾
     bio: >-
-      curry scented creature that loves makeup ॐ norway - welcome to the alien family 👽
+      curry scented creature that loves makeup ॐ norway - welcome to the alien family 👽@beautycultnorway
     location: "Norway"
-    followers: 102975
-    engagement: 423
-    commentsToLikes: 0.009527
+    followers: 94997
+    engagement: 425
+    commentsToLikes: 0.009847
     id: ck8t0f2v6ruqx0j78y1vqquhm
     verified: false
-    hashtags: "#nyxprofessionalmakeup, #anastasiabeverlyhills, #nyxcosmetics, #abhbrows"
-  - username: "sonaripley"
-    fullname: >-
-      Sona Ripley
-    bio: >-
-      📍 Norway / 1999 / Makeup enthusiast ✉️Contact: DM or E-Mail ____ “Makeup is art, beauty is spirit.”
-    location: "Norway"
-    followers: 7479
-    engagement: 1643
-    commentsToLikes: 0.030461
-    id: ck1383td7ed5h0i19bb7y219h
-    verified: false
-    hashtags: "#jeffreestarcosmetics, #neonmakeup, #anastasiabeverlyhills, #sminke"
-  - username: "emblawigum"
-    fullname: >-
-      Embla Wigum
-    bio: >-
-      i love painting my face ✧ icelandic/norwegian ✧ emblawigum@hotmail.com ✧ @glamurcast 🎙
-    location: "Norway"
-    followers: 21584
-    engagement: 977
-    commentsToLikes: 0.013769
-    id: ck15rzuh4aj260i19e1vu3u43
-    verified: false
-    hashtags: "#muasupport, #hypebaebeauty, #dramaticmakeup, #runwaymakeup"
-  - username: "helle.beauty"
-    fullname: >-
-      ＨＥＬＬＥ   ＢＥＡＵＴＹ | Makeup Artist
-    bio: >-
-      Oslo, Norway 🇳🇴 📩 Contact: helle.beauty@outlook.com
-    location: "Norway"
-    followers: 96517
-    engagement: 303
-    commentsToLikes: 0.008972
-    id: ck0tufdrt6wsv0i1942aejcuo
-    verified: false
-    hashtags: "#halloweenmakeup, #halloween, #halloweencostume, #skullmakeup"
-  - username: "sannakhursheed"
-    fullname: >-
-      Sanna khursheed
-    bio: >-
-      💰 Accountant 📚Master in Business 💄Freelancer Makeup Artist 👨‍🌾 FARMEN 2020 💌 sanna.khursheed183@gmail.com
-    location: "Norway"
-    followers: 26114
-    engagement: 178
-    commentsToLikes: 0.069997
-    id: ck5c5bc6u34yv0i11pyzmz6wc
-    verified: false
-    hashtags: "#tiktok, #foundation, #shade, #challenge"
+    hashtags: "#anastasiabeverlyhills, #nyxcosmetics, #abhbrows, #makeup"
   - username: "skincarenoob"
     fullname: >-
       Jonna
     bio: >-
-      ✨ 🇸🇪🇳🇴 ✨ Honest beauty reviews, makeup looks & skincare routines ✨ Collabs/PR 💌 or DM
+      📍Stockholm, Sweden 🇸🇪 ✨ Honest beauty reviews, makeup looks & skincare routines ✨ Collabs/PR 💌 or DM
     location: "Norway"
-    followers: 10919
-    engagement: 432
-    commentsToLikes: 0.595842
+    followers: 20522
+    engagement: 100
+    commentsToLikes: 0.531962
     id: ck9we6j1piu2x0j78iokc2gj4
     verified: false
-    hashtags: "#freemakeup, #contestgiveaway, #friyayfaves, #makeup"
+    hashtags: "#texturetuesday"
+  - username: "sonaripley"
+    fullname: >-
+      Sona Ripley
+    bio: >-
+      📍 Norway / 1999 / Art enthusiast “Makeup is art, beauty is spirit.”
+    location: "Norway"
+    followers: 6542
+    engagement: 1624
+    commentsToLikes: 0.034611
+    id: ck1383td7ed5h0i19bb7y219h
+    verified: false
+    hashtags: "#wingedliner, #makeuplook, #velourliquidlipstick, #abstractmakeup"
+  - username: "idaglotheim"
+    fullname: >-
+      ɪᴅᴀ ɢ.ʀ
+    bio: >-
+      ⊳ Norwegian, 20 y/o ⊳ TikTok: @jeheteida ⊳ Art user: @colorbyida ⊳ contact: Dm or Ida.rambraut@gmail.com
+    location: "Norway"
+    followers: 41575
+    engagement: 439
+    commentsToLikes: 0.020356
+    id: ck55izhfyvvap0i118ljim2m1
+    verified: false
+    hashtags: "#motd, #beautyblogger, #tumblr, #lipstick"
   - username: "iemakeupartistry"
     fullname: >-
       IDA EKKER
     bio: >-
-      📍20 years old. Orkanger, Norway 🇳🇴 💌 iemakeupartistry@Hotmail.com ❣️TikTok: @ queenidz (43.4k)👇🏽
+      💋 20 years old 📍Orkanger, Norway 🇳🇴 💌 iemakeupartistry@Hotmail.com ❣️TikTok: @ queenidz (43.8k)👇🏽
     location: "Norway"
     followers: 17021
-    engagement: 391
-    commentsToLikes: 0.220290
+    engagement: 444
+    commentsToLikes: 0.119700
     id: ck5c5bb6334xa0i11lz18libs
     verified: false
-    hashtags: "#kyliecosmetics, #makeupxfeature, #milanicosmetics, #mualife"
+    hashtags: "#fakeupfix, #hudabeauty, #makegirlz, #shimycatsmua"
 ---

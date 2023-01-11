@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Singapore in 2023
+title: Top 10 Fashion TikTok Influencers In Singapore In 2023
 description: >-
-  Find top fashion TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #foryou #fashion #tiktoksg.
+  Find top fashion TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #fashion #foryou #tiktoksg.
 platform: TikTok
-hits: 16
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 16 TikTok influencers like this in Singapore for you to contact.
+hits: 11
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 11 TikTok influencers like this in Singapore for you to pitch.
 profiles:
+  - username: "boonkaewnaree"
+    fullname: >-
+      陈水铭 Joseph
+    bio: >-
+      🇸🇬🇹🇭 insta: @boonkaewnaree Dance | Fashion Photography | Skits ผมรักทุกคน
+    location: "Singapore"
+    followers: 137400
+    engagement: 1067
+    commentsToLikes: 0.110396
+    id: ck80odvs3h56p0j7867gvwv0o
+    verified: false
+    hashtags: "#photomagic, #viral, #howtopose, #foryou"
   - username: "buffbaby88"
     fullname: >-
       buff baby
     bio: >-
-      fitness + fashion nellyjellylana@yahoo.com📩 VLOG #2 OUT ON YOUTUBE⬇️
+      all about fashion & my life nellyjellylana@yahoo.com
     location: "Singapore"
-    followers: 70700
-    engagement: 822
-    commentsToLikes: 0.012848
+    followers: 95200
+    engagement: 641
+    commentsToLikes: 0.009738
     id: cka0w2eas15z90i78x89bhnu6
     verified: false
-    hashtags: "#weightloss, #fyp, #photogenic, #tiktokfashion"
+    hashtags: "#tiktokfashion, #fyp, #ad, #xyzbca"
   - username: "shawnthia"
     fullname: >-
       Shawn Thia
     bio: >-
-      Singapore Artiste 🇸🇬 Managed by TCP Artistes Follow me on IG! @shawnthia
+      Actor based in Singapore🇸🇬 Managed by TCP Artistes Follow me on IG! @shawnthia
     location: "Singapore"
-    followers: 51700
-    engagement: 514
-    commentsToLikes: 0.050271
+    followers: 65500
+    engagement: 504
+    commentsToLikes: 0.039402
     id: ckai9nfjt8zda0i78a5ynjnp9
     verified: false
-    hashtags: "#tiktoksg, #xyzbca, #foryoupage, #mensfashion"
-  - username: "melissackoh"
-    fullname: >-
-      Melissa C. Koh
-    bio: >-
-      Instagram: @melissackoh
-    location: "Singapore"
-    followers: 38000
-    engagement: 360
-    commentsToLikes: 0.017085
-    id: ckacco85ci91o0i78awinda89
-    verified: false
-    hashtags: "#fyp, #fashion, #couplewear, #style"
+    hashtags: "#foryou, #tiktoksg, #xyzbca, #foryoupage"
   - username: "girlstreetshot"
     fullname: >-
       YC-Street
     bio: >-
       ❤️Follow me to appreciate the beauty of the girl❤️
     location: "Singapore"
-    followers: 70800
-    engagement: 1634
-    commentsToLikes: 0.006655
+    followers: 69900
+    engagement: 1199
+    commentsToLikes: 0.005209
     id: ck9eulh35eem40j78aa55b24v
     verified: false
-    hashtags: "#fyp, #girl, #beautifulgirl, #foryou"
+    hashtags: "#fyp, #girlfriend, #streetshot, #tiktok"
   - username: "shein_official"
     fullname: >-
       SHEIN
     bio: >-
       SHEIN.COM WEAR YOUR WONDERFUL Get featured using #SHEIN or tag @shein_official
     location: "Singapore"
-    followers: 980400
-    engagement: 1026
-    commentsToLikes: 0.008867
+    followers: 1400000
+    engagement: 1190
+    commentsToLikes: 0.019135
     id: ck8ja6d3dqsc60j784s0f9vb8
     verified: true
-    hashtags: "#outfitinspo, #fashiontips, #ootd, #ootds"
-  - username: "boonkaewnaree"
+    hashtags: "#fyp, #shein, #ootd, #trending"
+  - username: "glennyqh"
     fullname: >-
-      糖果學長
+      Glenn Yong
     bio: >-
-      🇸🇬🇹🇭 LIVE: Next Saturday 8-9pm Instagram: @boonkaewnaree Dance | Slomo
+      Instagram: @GLENNYQH following back some of my new followers so go now ☝️😘
     location: "Singapore"
-    followers: 115800
-    engagement: 1399
-    commentsToLikes: 0.073946
-    id: ck80odvs3h56p0j7867gvwv0o
+    followers: 319600
+    engagement: 1402
+    commentsToLikes: 0.016045
+    id: ckbavweupmcpi0j23770ztwb4
     verified: false
-    hashtags: "#tiktoksingapore, #blackpink, #fyp, #lisacrabdance"
-  - username: "aleks_kost_tiktok"
+    hashtags: "#photogenic, #bts, #pov, #pokkachangemeup"
+  - username: "mooniechu"
     fullname: >-
-      Aleks Kost
+      Moonie
     bio: >-
-      IG: alekskost31 YT: AleksKost For future projects & tutorials check out my IG
+      Professional fencer 🤺 Sports & Beauty ig: @moonieckm
     location: "Singapore"
-    followers: 1700000
-    engagement: 1231
-    commentsToLikes: 0.013866
-    id: ck8tm8c11e9pc0j78dp3ayman
-    verified: true
-    hashtags: "#foryoupage, #foryou, #alekskost, #fyp"
-  - username: "lordkimochi"
-    fullname: >-
-      lord kimochi 💦
-    bio: >-
-      east side till i dię snapchat: lordkimochi faves personality
-    location: "Singapore"
-    followers: 30400
-    engagement: 964
-    commentsToLikes: 0.048811
-    id: ckdnu5i2dmojb0j23x1nzffi0
+    followers: 23300
+    engagement: 431
+    commentsToLikes: 0.034256
+    id: ckcozbkm4ag390j23sbge85xo
     verified: false
-    hashtags: "#anime, #singapore, #tiktoksg, #halloween"
-  - username: "cassandrastephanie"
+    hashtags: "#tiktokathlete, #athlete, #hktiktok, #explorehk"
+  - username: "eatsnapsg"
     fullname: >-
-      Cassandra🙈
+      EatSnapSG
     bio: >-
-      Sharing my life🌷 DM for collabs❤️
+      Follow me @EatSnapSG on Instagram to follow my food journey.
     location: "Singapore"
-    followers: 3950
-    engagement: 337
-    commentsToLikes: 0.093185
-    id: ckdnu5bscmoa00j236w7wp3j3
+    followers: 13200
+    engagement: 309
+    commentsToLikes: 0.032277
+    id: ckbqs764ad49t0j23xt7ojm17
     verified: false
-    hashtags: "#foryou, #fyp, #tiktoksg, #singapore"
-  - username: "lisa9775"
+    hashtags: "#yummy, #tiktokfoodie, #sgfood, #eatwithme"
+  - username: "melissackoh"
     fullname: >-
-      lisa
+      Melissa C. Koh
     bio: >-
-      
+      Instagram: @melissackoh
     location: "Singapore"
-    followers: 43300
-    engagement: 1864
-    commentsToLikes: 0.010762
-    id: ckc8c157585g20j23g7djddqk
+    followers: 37800
+    engagement: 310
+    commentsToLikes: 0.022495
+    id: ckacco85ci91o0i78awinda89
     verified: false
-    hashtags: "#fyp, #acrylicnails, #myart, #beautytips"
+    hashtags: "#styleinspo, #whatiwear, #fyp, #tiktoksg"
+  - username: "constancelaujm"
+    fullname: >-
+      Constance Lau
+    bio: >-
+      Celine aka #RadioOneAsia in @crazyrichasians #128Circle #LastMadame #TiTouDao
+    location: "Singapore"
+    followers: 18800
+    engagement: 462
+    commentsToLikes: 0.025143
+    id: ckaig261ezk2j0i785m068e0t
+    verified: false
+    hashtags: "#fyp, #stayathome, #foryoupage, #foryou"
 ---

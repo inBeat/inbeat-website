@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In United States in 2023
+title: Top 10 Models Instagram Influencers In United States In 2023
 description: >-
-  Find top models Instagram influencers in United States in 2023. Most popular hashtags: #prettygirls #model #modelsearch.
+  Find top models Instagram influencers in United States in 2023. Most popular hashtags: #fashion #style #freshface.
 platform: Instagram
-hits: 11607
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 11607 Instagram influencers like this in United States for you to collaborate.
+hits: 19723
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 19723 Instagram influencers like this in United States for you to connect with.
 profiles:
+  - username: "laurenharlee"
+    fullname: >-
+      Model
+    bio: >-
+      Model:: twitch streamer:: likee dancer- 83k email:herclosetimage@gmail.com ⇣click
+    location: "United States"
+    followers: 28829
+    engagement: 96
+    commentsToLikes: 0.041609
+    id: ckaosrgwlsrv30i783es965cl
+    verified: false
+    hashtags: "#dancevideos, #boyslie, #lipsync, #likee"
   - username: "diana_poli5"
     fullname: >-
       Diana
     bio: >-
       Model
     location: "United States"
-    followers: 6895
-    engagement: 914
-    commentsToLikes: 0.271620
+    followers: 6774
+    engagement: 987
+    commentsToLikes: 0.281219
     id: ckf5qj7sp9j8a0j237biufl96
     verified: false
-    hashtags: "#autumnstyle, #teenmodel, #teenbeauty, #fantasyphoto"
-  - username: "dasity_official"
+    hashtags: "#modelwanted, #fashionlook, #fashionissue, #photomodel"
+  - username: "imgiuliacocola"
     fullname: >-
-      𝐃𝐀𝐒𝐈𝐓𝐘 | Model
+      Giulia Cocola
     bio: >-
-      Chicago | Midwest ✨ Published Model & Video Vixen 👸🏼 Dasity.Official@gmail.com or DM to Book Portfolio, Rates, OF, & More in the LINK below ⬇️
+      🇮🇹Model
     location: "United States"
-    followers: 2793
-    engagement: 970
-    commentsToLikes: 0.095158
-    id: ckf5rkpgfd0ht0j23r1mhsszr
+    followers: 62346
+    engagement: 199
+    commentsToLikes: 0.036464
+    id: ck5hcenmzhodg0i11cuv1mehs
     verified: false
-    hashtags: "#tipsybunnyboutique, #baddie, #vixen, #model"
-  - username: "kayla.ogno"
+    hashtags: "#adv, #tb"
+  - username: "beatricemarchetti__"
     fullname: >-
-      kayla ogno
+      BEATRICE MARCHETTI
     bio: >-
-      FASHION￼ MODEL
+      Model
     location: "United States"
-    followers: 5367
-    engagement: 2856
-    commentsToLikes: 0.102331
-    id: ckap5coz5b2v70i78826g3rkw
-    verified: false
-    hashtags: "#roadtomissnjteenusa, #countdown"
-  - username: "munamasna"
-    fullname: >-
-      Muna Mohamed
-    bio: >-
-      - Follow @masnaskincare - Model with @immbxl - Student Skin Therapy
-    location: "United States"
-    followers: 6323
-    engagement: 2263
-    commentsToLikes: 0.103397
-    id: ckapbnb7l0k3p0i780e8zu2a0
+    followers: 15597
+    engagement: 442
+    commentsToLikes: 0.031883
+    id: ck5hsd1itwe8v0i11l8igp70k
     verified: false
     hashtags: ""
-  - username: "annanpage"
+  - username: "koray.grb"
     fullname: >-
-      Anna Page
+      Koray Garbi
     bio: >-
-      + probably at home cuddling with my cats + freelance model + chicago suburbs and beyond
+      Model
     location: "United States"
-    followers: 4598
-    engagement: 2202
-    commentsToLikes: 0.362747
-    id: ck55p7qaf9yz50i11wia24skg
+    followers: 3426
+    engagement: 923
+    commentsToLikes: 0.068714
+    id: ck9h9u73f9z9c0j78g3jcgzty
     verified: false
-    hashtags: "#fableticspartner, #kickbuttlookcute, #myfabletics, #wearmintacreate"
-  - username: "relaxitsredd"
+    hashtags: "#prayfortheworld"
+  - username: "april_.doll"
     fullname: >-
-      RedfromtheCut🦇
+      model
     bio: >-
-      Southern Univ. Designer/CEO of @officialindiv aspiring model Booking: dm/email #Lowlife! #AON
+      👉call me fashion blogger 👉 Increase your business visibility 😍 Art , model , style 💃beauty💆
     location: "United States"
-    followers: 6412
-    engagement: 1684
-    commentsToLikes: 0.088582
-    id: ck6ud9ch2jsgc0j71wxmc4ffa
+    followers: 2181
+    engagement: 1301
+    commentsToLikes: 0.049132
+    id: ckapbixeb01u90i78qo12zhwh
     verified: false
-    hashtags: "#bayouclassic, #1of1, #jewelofthebluff, #birthdayeve"
-  - username: "thatsnajma"
+    hashtags: "#gainwithabuuj01, #254fashion, #gainwithxtiandela, #tumewasha"
+  - username: "himba.girl"
     fullname: >-
-      Najma Shy- “NAJ”
+      Varaa Hambira
     bio: >-
-      Booking: najmashy@gmail.com Model | Actress | Dancer ~ @twerktabata Loctician @styledbynaj 23 | 5’11 | ATL | ~live a colorful life, no excuses~
+      MODEL
     location: "United States"
-    followers: 9494
-    engagement: 1625
-    commentsToLikes: 0.077876
-    id: ck15tqdhijdql0i19dgoqlkv4
+    followers: 15889
+    engagement: 721
+    commentsToLikes: 0.013759
+    id: ck15trdvzji6l0i19qc8fb498
     verified: false
-    hashtags: "#wcw, #fitnessgear, #supportblackbusinesses, #blackownedbusiness"
-  - username: "nadiamualem"
+    hashtags: "#giftedproduct, #skincarereel, #skincarereview, #skincarereels"
+  - username: "diana_eneje"
     fullname: >-
-      ♡Nadia♡Almualem♡
+      Diana Eneje
     bio: >-
-      Model & Actress 🇧🇴🇯🇴 || Proverbs 3:5-6
+      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
     location: "United States"
-    followers: 138576
-    engagement: 1482
-    commentsToLikes: 0.040837
-    id: ck5c7qoze80gb0i11hv1o8luk
+    followers: 881412
+    engagement: 609
+    commentsToLikes: 0.010877
+    id: ck8syqlu2lmpq0j78qrada67j
     verified: false
-    hashtags: "#parternership, #partnership"
-  - username: "cynthiajalikian"
+    hashtags: "#completefreshprotection, #reels, #closeupnigeria, #maldives"
+  - username: "tracewinningham"
     fullname: >-
-      Cնج ♐︎
+      Trace
     bio: >-
-      24-4-17🥀 •Armenian/Lebanese• •Pure Mathematics•Model• •@lazoneverte•
+      HTX• LA📍 Season 4 @temptationtv Founder: @trace.thebrand LA: @omodelsagency Model • Creator • Boss
     location: "United States"
-    followers: 6573
-    engagement: 1466
-    commentsToLikes: 0.093505
-    id: ckapb991uz1zn0i78q7r4nxsz
+    followers: 43010
+    engagement: 713
+    commentsToLikes: 0.015135
+    id: ck5zmhyflmlss0i14hjegshe3
     verified: false
-    hashtags: ""
-  - username: "graciejad.e"
+    hashtags: "#edikted, #ediktedad, #influencer, #beauty"
+  - username: "king_rome"
     fullname: >-
-      gracie jade!!
+      King Rome
     bio: >-
-      model x influencer tt: 460k+ email for business inquiries
+      Model by day, 🐺🌕by night. LAFW Oct 22’ 📸 Next show: NYFW✈️ Feb 23’ Marathon 🏃🏽‍♂️🏅Next: Ultramarathon TBD 23’ 📍So Cal🇺🇸
     location: "United States"
-    followers: 26165
-    engagement: 1376
-    commentsToLikes: 0.066170
-    id: ck8wgnt72hpyi0j78lr3b8vug
+    followers: 129252
+    engagement: 617
+    commentsToLikes: 0.013688
+    id: ck8t8h4nkkgmb0j7853j7m81d
     verified: false
-    hashtags: ""
+    hashtags: "#expressyou, #jbwwatches, #expresspartner, #myjbw"
 ---

@@ -1,72 +1,120 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Milan in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Milan In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Milan in 2023. Most popular hashtags: #graphicdesign #graphicdesigner #nature #italy.
+  Find top graphic-designers Instagram influencers in Milan in 2023. Most popular hashtags: #beauty #italy #graphicdesign #fashion.
 platform: Instagram
-hits: 27
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 27 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 26
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 26 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
+  - username: "davehumphrey"
+    fullname: >-
+      Davide Mugnieco
+    bio: >-
+      *complaining in pisces* he/him — INTJ-T digital art director + smm milano
+    location: "Italy"
+    followers: 9267
+    engagement: 371
+    commentsToLikes: 0.015272
+    id: ckf5mprkouxke0j23hy7z7fwd
+    verified: false
+    hashtags: "#doodle, #graphicdesign, #posterdesign, #illustrator"
+  - username: "carment93"
+    fullname: >-
+      Carmen 🌸 Fashion - Travel
+    bio: >-
+      My shop @karmashop93 🛍 Naples - Milan📍 •Graphic designer - Photographer •Digital creator and SMM 📧 Carmentesta93@outlook.it
+    location: "Italy"
+    followers: 21374
+    engagement: 431
+    commentsToLikes: 0.085784
+    id: ck8syf32fkneo0j78v2nkoosr
+    verified: false
+    hashtags: "#inspiration, #beautifuldestinations, #blogger, #girl"
+  - username: "scentofwoods"
+    fullname: >-
+      Lara🌿 Lifestyle & Green
+    bio: >-
+      ↟ Lifestyle • Green & Slow Living • Green beauty ❥ Il mio mondo tra natura, animali, semplicità e creatività. ⭑Art Director & Graphic Designer ⇝ Milan
+    location: "Italy"
+    followers: 13823
+    engagement: 520
+    commentsToLikes: 0.153456
+    id: ckf5rcaw2c6060j23kn2cqa4a
+    verified: false
+    hashtags: "#poetryofsimplethings, #faidellordinariounapoesia, #cozychristmas, #seasonalliving"
   - username: "eenreeco"
     fullname: >-
       Enrico
     bio: >-
       Visual/Graphic Designer 📀 Milano My kid is @ricodallasss 93 'til infinity 👁️
     location: "Italy"
-    followers: 2908
-    engagement: 863
-    commentsToLikes: 0.062463
+    followers: 3052
+    engagement: 716
+    commentsToLikes: 0.058710
     id: ck5zstkgsz5ur0i14o9cc12fv
     verified: false
     hashtags: ""
+  - username: "woila"
+    fullname: >-
+      Viviana
+    bio: >-
+      •Fly free •Italian_from Naples 🌍 📍Varese I Fashion //Beauty //Travel 📩 Contact ➡️viviana_20112011@libero.it
+    location: "Italy"
+    followers: 12266
+    engagement: 681
+    commentsToLikes: 0.112244
+    id: ck0txyjnbl0k40i19kkbe7gpa
+    verified: false
+    hashtags: "#fashion, #morning, #summer, #lookoftheday"
   - username: "elenasessa"
     fullname: >-
       엘레나 • FASHION • TRAVEL • INSPO
     bio: >-
       🍝 • More pasta, less drama 📚 • Graphic design in SantaGiuliaAcademy, Brescia 🎓 • Graphic designer from NABA, Milan 🎓 • Photo editor - @adobe certified
     location: "Italy"
-    followers: 36093
-    engagement: 267
-    commentsToLikes: 0.019658
+    followers: 37709
+    engagement: 161
+    commentsToLikes: 0.019619
     id: ck8szj7u1onm60j78s0krfemc
     verified: false
-    hashtags: "#etsy, #blog, #gems, #sheinofficial"
+    hashtags: "#shein, #sheinstyle, #eyeliner, #beauty"
+  - username: "arianna_angelini"
+    fullname: >-
+      A r i a n n a
+    bio: >-
+      Photographer + Graphic designer Freelance italian artist based in Milan⠀⠀⠀⠀⠀ Master in Photography at @rafflesmilano
+    location: "Italy"
+    followers: 11008
+    engagement: 684
+    commentsToLikes: 0.027777
+    id: ck13a9di5p9sg0i19fmwqikge
+    verified: false
+    hashtags: ""
+  - username: "tiziana_cosso"
+    fullname: >-
+      Tiziana Cosso
+    bio: >-
+      Founder @dellaclasse luxury webmagazine @grazia_it Contributor Represented by @ftlmoda New York City
+    location: "Italy"
+    followers: 70862
+    engagement: 179
+    commentsToLikes: 0.038462
+    id: ck5hn802tndgv0i11u7haiomz
+    verified: false
+    hashtags: "#sunsetlovers, #bellaitalia, #positivevibes, #blackandwhite"
   - username: "onpackaging"
     fullname: >-
       On Packaging
     bio: >-
       curated by @erostorre based in Milan, Italy tutoring at @ied_milano
     location: "Italy"
-    followers: 134386
-    engagement: 223
-    commentsToLikes: 0.009325
+    followers: 139563
+    engagement: 206
+    commentsToLikes: 0.008282
     id: ck14grnaf6ohv0i190ir1b9p5
     verified: false
-    hashtags: "#graphic, #beerporn, #package, #beverage"
-  - username: "ludovico.pincini"
-    fullname: >-
-      Ludovico Pincini
-    bio: >-
-      Creative director at @creative_bulls • Visual designer and stubborn perfectionist. Fighting everyday against ugliness. Milan 🇮🇹
-    location: "Italy"
-    followers: 107080
-    engagement: 142
-    commentsToLikes: 0.009314
-    id: ck8t8unwelw400j78we56ajfa
-    verified: false
-    hashtags: "#logosai, #illustrator, #corporateidentity, #visualidentity"
-  - username: "sarah_parmeggiani"
-    fullname: >-
-      Sarah Parmeggiani
-    bio: >-
-      🇮🇹🇬🇧 Architect & Graphic Designer | Journalist 📸 #model | #fitness | #fashion | #design Owner @e20_events_designer
-    location: "Italy"
-    followers: 48722
-    engagement: 206
-    commentsToLikes: 0.187296
-    id: ck6u6mcd4gfrm0j715e0q2t7z
-    verified: false
-    hashtags: "#modellife, #concorso, #fitnessmodel, #igersrimini"
+    hashtags: "#coffeetime, #branding, #beerlover, #drinks"
   - username: "jay_t_world"
     fullname: >-
       Jay T
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.009450
     id: ck0vv2jicn8uz0i19jrvefsda
     verified: false
-    hashtags: "#weed, #coronavirus, #wax, #typo"
-  - username: "_mirko_speranza_"
-    fullname: >-
-      Mirko • CONTENT CREATOR • MUA
-    bio: >-
-      L’Aquila...PR/COLLABS Email:👇🏽 🇮🇹MAKE-UP LOVER / GRAPHIC DESIGNER SIDE BY SIDE NABLA👇🏽👇🏽 YOUTUBE
-    location: "Italy"
-    followers: 7498
-    engagement: 476
-    commentsToLikes: 0.253632
-    id: ck8tc9c2yyqxy0j78lcnfi47b
-    verified: false
-    hashtags: "#makeupartist, #mulac, #benefitbrows, #youtube"
-  - username: "luciobuselli"
-    fullname: >-
-      Lucio Buselli
-    bio: >-
-      Graphic designer | Photographer | Videomaker 📍Fabriano 🇮🇹 📽@themarchigiani 🎞
-    location: "Italy"
-    followers: 9259
-    engagement: 283
-    commentsToLikes: 0.017811
-    id: ck14jy947mroj0i19xysa734l
-    verified: false
-    hashtags: "#motocross, #portraits, #portrait, #pursuitofportraits"
-  - username: "marco_oggian"
-    fullname: >-
-      Marco Oggian
-    bio: >-
-      🇮🇹 Multidisciplinary Artist / Art Director Represented by @pocko Founder of @studioflaco
-    location: "Italy"
-    followers: 45203
-    engagement: 685
-    commentsToLikes: 0.014907
-    id: ck55oovre8t3k0i11rm608r2h
-    verified: false
-    hashtags: "#tdkpeepshow, #postereveryday, #producer, #illustration"
-  - username: "flavialauramanzoli"
-    fullname: >-
-      Flavia Laura Manzoli
-    bio: >-
-      🏃🏼‍♀️ Runner 🐶 Dogs lover 🎓 Bocconi University 📍 Milan, Italy 💌 fiaba93@hotmail.it
-    location: "Italy"
-    followers: 17990
-    engagement: 364
-    commentsToLikes: 0.115219
-    id: ck135occu2ew60i19irooo0rj
-    verified: false
-    hashtags: "#workout, #motivation, #instagood, #sunrise"
+    hashtags: "#graphicdesigner, #corona, #basketball, #manipulation"
 ---

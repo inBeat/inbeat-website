@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In Berlin in 2023
+title: Top 10 Food TikTok Influencers In Berlin In 2023
 description: >-
-  Find top food TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #viral #berlin #food.
+  Find top food TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #berlin #food #fyp.
 platform: TikTok
-hits: 30
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 30 TikTok influencers like this in Berlin, Germany for you to pitch.
+hits: 24
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 24 TikTok influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "iloka_"
-    fullname: >-
-      ilo
-    bio: >-
-      📍 Berlin Instagram: liloos__ 🙆🏻‍♀️ krmbx030 🙆🏻‍♂️
-    location: "Germany"
-    followers: 52400
-    engagement: 1132
-    commentsToLikes: 0.009880
-    id: ckcosv89j84lr0j23ivcg2mer
-    verified: false
-    hashtags: "#girl, #lecker, #viral, #fy"
-  - username: "xtinebruck"
-    fullname: >-
-      Xtine Bruck
-    bio: >-
-      Filipina, Mama of two little girls 👭 Living in Berlin, Germany.
-    location: "Germany"
-    followers: 4681
-    engagement: 1775
-    commentsToLikes: 0.082720
-    id: ckc1w7tfa06q60j2332byqxmj
-    verified: false
-    hashtags: "#duet, #pinayingermany, #redbulldanceyourstyle, #fyp"
-  - username: "janinarosee"
-    fullname: >-
-      Janina Rose
-    bio: >-
-      mein insta: @janinarosee 🥰 schaffen wir 10k auf insta?🙏🏽 Bestellungen per DM
-    location: "Germany"
-    followers: 16600
-    engagement: 1528
-    commentsToLikes: 0.027645
-    id: cka84rfeuv2ri0i78efg99jhl
-    verified: false
-    hashtags: "#love, #trending, #germany, #smallbusiness"
-  - username: "erikschlz"
-    fullname: >-
-      Erik Scholz
-    bio: >-
-      22 y old | 📍Berlin 🤸🏻IG: @erik [90k]
-    location: "Germany"
-    followers: 17800
-    engagement: 795
-    commentsToLikes: 0.042493
-    id: ckblf8xxy96n90j23a3hkxmgp
-    verified: true
-    hashtags: "#foryoupage, #fashion, #meinstyle, #viral"
-  - username: "ras_hid89"
-    fullname: >-
-      Rashid Al-Wazwaz
-    bio: >-
-      Germany 🇩🇪 /🇱🇧 Insta: @ras_hid 🏠 Insta: @urbanmotorsgmbh 💻
-    location: "Germany"
-    followers: 2233
-    engagement: 535
-    commentsToLikes: 0.040130
-    id: ckcj0q2qy3hln0j23t4uud20u
-    verified: false
-    hashtags: "#lebanon, #m3, #rs3, #ozwheels"
   - username: "fuerstwiacek"
     fullname: >-
       FUERST WIACEK
     bio: >-
       Modern Beer from Berlin.
     location: "Germany"
-    followers: 42100
-    engagement: 485
-    commentsToLikes: 0.002932
+    followers: 41800
+    engagement: 479
+    commentsToLikes: 0.003097
     id: ck9dpiy4jw3t70j78hclmklfk
     verified: false
-    hashtags: "#beer, #craftbeer, #fuerstwiacek, #ipa"
+    hashtags: "#craftbeer, #fuerstwiacek, #ipa, #craftbeerlife"
+  - username: "hannah.louisaa"
+    fullname: >-
+      Hannah Louisa
+    bio: >-
+      Hiiii :) 🧸-lin Pinterest & Spotify:
+    location: "Germany"
+    followers: 19500
+    engagement: 1697
+    commentsToLikes: 0.014102
+    id: ckb9ffoi13uge0j23yf6iwm53
+    verified: false
+    hashtags: "#fyp, #style, #fashion, #berlin"
+  - username: "waffle_brothers"
+    fullname: >-
+      Waffle Brothers
+    bio: >-
+      s.ylcnkya31@gmail.com
+    location: "Germany"
+    followers: 267600
+    engagement: 1488
+    commentsToLikes: 0.022752
+    id: ckamvrby154400i7813g5c880
+    verified: false
+    hashtags: "#tt, #spass, #cooking, #tiktok"
+  - username: "dancertascha"
+    fullname: >-
+      Natascha Gaass
+    bio: >-
+      Instagram ☝🏼 || German/Belorussian || Dancer || Fitness || Based in Berlin
+    location: "Germany"
+    followers: 3865
+    engagement: 561
+    commentsToLikes: 0.029380
+    id: ckbeymygbj8350j23nix7bt1v
+    verified: false
+    hashtags: "#russian, #fyp, #germany, #russia"
+  - username: "melissaserena_"
+    fullname: >-
+      Melissa 🦋
+    bio: >-
+      FOOD | BEAUTY regular girl from berlin ✌🏼🦋 💌 melissaserena@web.de
+    location: "Germany"
+    followers: 28000
+    engagement: 760
+    commentsToLikes: 0.028124
+    id: ckbexl187i0aj0j235603gbcl
+    verified: false
+    hashtags: "#dm, #shein, #hairgrowth, #sheingals"
   - username: "tanni_berlin"
     fullname: >-
       TanNi_BerLin
     bio: >-
-      Insta @tanni_berlin CURVY FASHION FUN & FOOD
+      Insta @tanni_berlin CURVY FASHION Hula Hoop FUN & FOOD
     location: "Germany"
-    followers: 12700
-    engagement: 845
-    commentsToLikes: 0.071552
+    followers: 14800
+    engagement: 785
+    commentsToLikes: 0.073270
     id: ckc8wpa96k7ff0j236coua8wy
     verified: false
-    hashtags: "#meinerstestiktok"
-  - username: "isaacmik"
+    hashtags: "#tagderjogginghose, #maydaymayday, #hullahoop, #weightloss"
+  - username: "dieshowmitchristest"
     fullname: >-
-      isaacmik
+      DsmC
     bio: >-
-      Instagram: @isaacmik
+      Wöchentlich Filmkritiken & Quatsch 😊🤗 IG: dieshowmitchris 💫
     location: "Germany"
-    followers: 41300
-    engagement: 1010
-    commentsToLikes: 0.033998
-    id: cka0odyxl3dld0i7848hj6s0z
+    followers: 9080
+    engagement: 1014
+    commentsToLikes: 0.038721
+    id: ckbqdwakvzu5j0j23jwn0w9tw
     verified: false
-    hashtags: "#tanz, #hotbox, #fd, #miktwins"
-  - username: "bisdanne"
+    hashtags: "#haha, #auslangeweile, #dumm, #lustig"
+  - username: "blondminh"
     fullname: >-
-      DANNE
+      MINH
     bio: >-
-      Ich bin Danne und ich ❤️ Fußball! Folge mir auch auf Instagram: @bis_danne
+      food & asian content 🥢 insta: blondminh ☄️ we rice by lifting each other 🍚
     location: "Germany"
-    followers: 4245
-    engagement: 619
-    commentsToLikes: 0.134621
-    id: ckcdluqc89v2h0j23a8t35ft4
+    followers: 168400
+    engagement: 1695
+    commentsToLikes: 0.027107
+    id: ckb9asykcw1il0j23v3jvj38v
     verified: false
-    hashtags: "#fussball, #fifa, #soccer, #tiktokcomedy"
-  - username: "suddenpubg"
+    hashtags: "#comedy, #rezept, #tutorial, #bubbletea"
+  - username: "numng"
     fullname: >-
-      SUDDEN
+      num
     bio: >-
-      Giom | Sudden | Berlin 📍 🇩🇪 🇫🇷 Have fun 😛 More content soon !!👀
+      📍 Berlin
     location: "Germany"
-    followers: 102000
-    engagement: 1260
-    commentsToLikes: 0.025943
-    id: ckb9mxtfjgciy0j23c6i6czjt
+    followers: 43300
+    engagement: 1985
+    commentsToLikes: 0.011387
+    id: ck9fmtxglvb7z0j78q2mbi66z
     verified: false
-    hashtags: "#coronavirus, #foryoupage, #fy, #fun"
+    hashtags: "#joke, #relatable, #meme, #funny"
+  - username: "laura.vllm"
+    fullname: >-
+      Laura👑
+    bio: >-
+      18 🇵🇱 Berlin-Germany ☀️ Snapchat: lila-lustig 🎈 Instagram: laura.vllm 🧡
+    location: "Germany"
+    followers: 31300
+    engagement: 693
+    commentsToLikes: 0.036602
+    id: ckbki14vhaa420j23kzap1ugd
+    verified: false
+    hashtags: "#berlin, #kfcmakeitlegendary, #fyp, #2020wrapped"
 ---

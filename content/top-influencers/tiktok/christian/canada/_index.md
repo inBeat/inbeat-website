@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian TikTok Influencers In Canada in 2023
+title: Top 10 Christian TikTok Influencers In Canada In 2023
 description: >-
-  Find top christian TikTok influencers in Canada in 2023. Most popular hashtags: #duet #fyp #greenscreen #jesus.
+  Find top christian TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #christian #duet #foryou.
 platform: TikTok
-hits: 134
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 134 TikTok influencers like this in Canada for you to contact.
+hits: 132
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 132 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "ready4anarchy"
     fullname: >-
       Charlie Franko
     bio: >-
-      Political/religious opinion 25\💍\any pronouns Christian\Anarchist 🔞my DMs🔞
+      💖Ezekiel 23:20💖 26/💍\any pronouns Christian\Libertarian 🔞my DMs🔞
     location: "Canada"
-    followers: 5162
-    engagement: 1014
-    commentsToLikes: 0.184911
+    followers: 59000
+    engagement: 1180
+    commentsToLikes: 0.079358
     id: ckb98lyxrs72z0j23cyw8yzto
     verified: false
-    hashtags: "#rapbattlewithafriend, #greenscreen, #stitch, #duet"
+    hashtags: "#airpodsjump, #stitch, #duet, #fidoboostchallenge"
   - username: "purple.fettucine"
     fullname: >-
-      Olivia 
+      PHOEBE
     bio: >-
-      Christian Conservative ✝️ 💕 i’m 16! Jesus is Lord 🥺✝️
+      Christian Conservative ✝️ 💕 i’m 17! Jesus is Lord 🥺✝️
     location: "Canada"
-    followers: 43700
-    engagement: 965
-    commentsToLikes: 0.104803
+    followers: 42800
+    engagement: 1060
+    commentsToLikes: 0.115594
     id: ckbbjp5ka83eu0j232h5daytw
     verified: false
-    hashtags: "#jesus, #jesusisking, #duet, #conservative"
+    hashtags: "#greysanatomy, #duet, #foryoupage, #perfectgifts"
   - username: "its_lukeidk"
     fullname: >-
       Luke
     bio: >-
       Christian 🙏
     location: "Canada"
-    followers: 4881
-    engagement: 1107
-    commentsToLikes: 0.055079
+    followers: 4816
+    engagement: 1104
+    commentsToLikes: 0.053090
     id: ck9r3moygqmff0j78prwoo6uh
     verified: false
-    hashtags: "#fyp, #xyzbca, #funny, #foryou"
-  - username: "christianrenaud"
+    hashtags: "#funny, #fyp, #foryou, #xyzbca"
+  - username: "victory_dennise"
     fullname: >-
-      Christian Renaud 😈
+      Victory_Dennise
     bio: >-
-      Backup account , Main account Christianrenaud_ 😈 500+ follow my Instagram 😌
+      Long Distance sibling IG: @victory_aguzue @_d.e.n.n.i.s.e (Luke 1:37) Christians
     location: "Canada"
-    followers: 265900
-    engagement: 1381
-    commentsToLikes: 0.030228
-    id: ckdi6mypx865l0j232ge49mks
+    followers: 194100
+    engagement: 673
+    commentsToLikes: 0.025244
+    id: ckbl3x0z81btq0j23p4vaji2p
     verified: false
-    hashtags: "#hey, #fyp, #duet, #lol"
-  - username: "lunar_moon_witch"
+    hashtags: "#viral, #fy, #foryou, #duet"
+  - username: "mrhot"
     fullname: >-
-      Neoma
+      MrHot
     bio: >-
-      Christian Lunar witch🌙🧜🏼‍♀️ Dog mom 🐶 I’m funny sometimes🤷🏽‍♀️ 🇨🇦
+      The Lord broke through
     location: "Canada"
-    followers: 40900
-    engagement: 1280
-    commentsToLikes: 0.029527
-    id: ckbas5fjkiqg80j23qralrytz
+    followers: 161800
+    engagement: 2345
+    commentsToLikes: 0.095489
+    id: ck80719g9nu290j78bmwznfih
     verified: false
-    hashtags: "#squishmallows, #witchtok, #candles, #witchesoftiktok"
-  - username: "jane._.ryan"
+    hashtags: "#jesusisking, #pray, #loveyou, #youareloved"
+  - username: "imatheen"
     fullname: >-
-      Jane._.Ryan
+      Matin Mohammed
     bio: >-
-      Québécoise!!! I dare you to... Hum okay I’ll try! A good Christian girl! 😇
+      الله Location 🇨🇦 United Nation of Islam 🗺 Vicegerent of Muslim Facts 🧠
     location: "Canada"
-    followers: 20100
-    engagement: 962
-    commentsToLikes: 0.017403
-    id: ck80oq0ckj5vh0j78od5x1fpn
+    followers: 141800
+    engagement: 1353
+    commentsToLikes: 0.099827
+    id: ck8z4m1n4ebky0j78nxy1zpyw
     verified: false
-    hashtags: "#duet, #student, #expressionquebecoise, #foryouquebec"
-  - username: "aronpipersgirlfriend"
+    hashtags: "#demon, #unitednationofislam, #turkey, #illuminati"
+  - username: "katyy.patyy"
     fullname: >-
-      nyah
+      Katy
     bio: >-
-      white💪🏻 sexy😩 hot🥵 loner💔🥀 pro dancer🩰 beware⚠️ attractive povs! she/her
+      COME HOME Follow my Instagram I love you
     location: "Canada"
-    followers: 15600
-    engagement: 2685
-    commentsToLikes: 0.061929
-    id: ckfplkjq20cgw0j234xby9c8g
+    followers: 207600
+    engagement: 2816
+    commentsToLikes: 0.020323
+    id: ck9tvlpv8r6pf0j78pz5rfy6e
     verified: false
-    hashtags: "#emotional, #christiangirlautumn, #colorcustomizer, #dance"
-  - username: "llianagordanya"
+    hashtags: "#christian, #faith, #fyp, #god"
+  - username: "alexnroberto"
     fullname: >-
-      ✧･ﾟ: liana*✧･ﾟ:*
+      Alex Roberto
     bio: >-
-      17 ✧ WARRIOR FOR CHRIST ✧ apologetics/theology
+      CA🇨🇦 Follow my Instagram👉🏼 @alexnroberto LINK FOR PODCAST EPISODES!🎙
     location: "Canada"
-    followers: 64100
-    engagement: 2061
-    commentsToLikes: 0.066696
-    id: ck9fdqucsprr80j78bakbwle8
+    followers: 4390
+    engagement: 1422
+    commentsToLikes: 0.066748
+    id: ckai561orqspl0i78167a49js
     verified: false
-    hashtags: "#jesus, #god, #christian, #vlog"
-  - username: "zacchaeustheginge"
+    hashtags: "#culturetochrist, #christiantiktok, #christianfyp, #foryoupage"
+  - username: "aleah.taylor"
     fullname: >-
-      Zacc Burke
+      Aleah.Tay
     bio: >-
-      Youth Pastor 🙏🏻 Just tryna lol Brother’s twitch: https://twitch.tv/lilburkey
+      YOU are important! I know my followers to views ratio is wack🥴 Jesus>Everything
     location: "Canada"
-    followers: 29700
-    engagement: 1872
-    commentsToLikes: 0.087354
-    id: ckaftummv7bdz0i78z45f1wol
+    followers: 27900
+    engagement: 1796
+    commentsToLikes: 0.064128
+    id: ckcdeo2nn689i0j23kifiu0zy
     verified: false
-    hashtags: "#greenscreen, #facts, #christian, #zaccfacts"
+    hashtags: "#christian, #siblings, #okthen, #beautiful"
   - username: "calebaitken"
     fullname: >-
       Caleb Aitken
     bio: >-
-      17 from Canada
+      18 from Canada
     location: "Canada"
-    followers: 15100
-    engagement: 1935
-    commentsToLikes: 0.048362
+    followers: 14600
+    engagement: 1774
+    commentsToLikes: 0.046310
     id: ck9rl6qvswhma0j78ia50vd4a
     verified: false
-    hashtags: "#jesus, #christian, #duet, #god"
+    hashtags: "#jesus, #church, #christian, #fyp"
 ---

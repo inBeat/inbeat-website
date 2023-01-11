@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Milan in 2023
+title: Top 10 Photographers Instagram Influencers In Milan In 2023
 description: >-
-  Find top photographers Instagram influencers in Milan in 2023. Most popular hashtags: #milano #italy #photography.
+  Find top photographers Instagram influencers in Milan in 2023. Most popular hashtags: #milano #portrait #model #photography.
 platform: Instagram
-hits: 337
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 337 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 236
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 236 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "dagojournal"
-    fullname: >-
-      Gabriele D'Agostino🎥🎬🇬🇧
-    bio: >-
-      Director/photographer Milan/London Represented by @BOLD_Management
-    location: "Italy"
-    followers: 18492
-    engagement: 501
-    commentsToLikes: 0.045293
-    id: ck5c9srj3c1u70i11f1q6qpcc
-    verified: false
-    hashtags: "#selfportrait, #sicilia, #comingsoon, #casa"
   - username: "francescoanglanifp"
     fullname: >-
       Francesco Anglani
     bio: >-
       Photographer Milano francescoanglanifp@gmail.com
     location: "Italy"
-    followers: 46308
-    engagement: 310
-    commentsToLikes: 0.018085
+    followers: 45344
+    engagement: 293
+    commentsToLikes: 0.021980
     id: ck6ug6mzc17yc0j7132tofo0a
     verified: false
-    hashtags: "#model, #fashion, #milan, #styling"
-  - username: "marcogiulianoph"
-    fullname: >-
-      Marco Giuliano
-    bio: >-
-      Founder and Creative director of @nastymagazine. Photographer. Milan.
-    location: "Italy"
-    followers: 33198
-    engagement: 292
-    commentsToLikes: 0.009006
-    id: ck0w739bhbjay0i19s8dhqirb
-    verified: false
-    hashtags: ""
-  - username: "donatellaliguori"
-    fullname: >-
-      Donatella Liguori
-    bio: >-
-      I SHOOT PEOPLE Moodboard of my life: @light_300dpi Photographer | Milan | 📩donatellaliguori1@gmail.com |
-    location: "Italy"
-    followers: 4886
-    engagement: 339
-    commentsToLikes: 0.042457
-    id: ck6tsi4bx4w3j0j710ltktwsh
-    verified: false
-    hashtags: ""
+    hashtags: "#model, #fashion, #boy, #styling"
   - username: "alexandramasciaph"
     fullname: >-
       Alexandra Mascia
     bio: >-
       Italian photographer. Milano~Sardinia alexandramascia@gmail.com
     location: "Italy"
-    followers: 6716
-    engagement: 420
-    commentsToLikes: 0.020461
+    followers: 6818
+    engagement: 294
+    commentsToLikes: 0.031891
     id: ck13496f6vbx30i19z716owgn
     verified: false
-    hashtags: "#endlessfaces, #howitalyfeels, #ladolcevita, #mediterraneanlife"
-  - username: "a.nyaph"
+    hashtags: "#artfucksme, #littlerivermag, #sardinia, #magazine35mm"
+  - username: "massimo_sammito"
     fullname: >-
-      Aɴʏᴀ ﹣ Pʜᴏᴛᴏᴋᴜ̈ɴsᴛʟᴇʀɪɴ
+      Massimosammitoofficial
     bio: >-
-      | 👉🏼𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵: @a.nya16 | |🏐volleyball 🏰history ✈️travel🏚urbex | |📍Bᴀsᴇᴅ ɪɴ Sᴡɪᴛᴢᴇʀʟᴀɴᴅ🇨🇭| |❣️Gᴇʀᴍᴀɴ origin🇩🇪 | ヅ Here&There |
+      📍Milano, 39 anni🇮🇹 / . Twitter: Massimosammitoofficial . ❤️Sentimentalmente IMPEGNATO ❤️ 🏷️ Sicily / 📸 Work to Editing photo ACCOUNT QUELLO VERO..
     location: "Italy"
-    followers: 31709
-    engagement: 17
-    commentsToLikes: 0.007403
-    id: ck13aqmdlroul0i19zyhhvfoo
+    followers: 17007
+    engagement: 439
+    commentsToLikes: 0.074170
+    id: ck8t8x6epm6330j78yzwtcjdp
     verified: false
-    hashtags: "#sportphotography, #france, #coronavirusitaly, #final"
-  - username: "flor___ina"
+    hashtags: "#instamilano, #igerslombardia, #polizia, #milanocity"
+  - username: "diletta_allei"
     fullname: >-
-      🌻 Florina
+      Diletta Allei
     bio: >-
-      • 📚 Unibo • ♐️ 12/12/1996
+      ʟ’ᴇǫᴜɪʟɪʙʀɪᴏ ᴇ̀ ɴᴏɴ ᴀᴄᴄᴇᴛᴛᴀʀᴇ ᴅɪ ғᴀʀsɪ ᴀᴍᴀʀᴇ ᴍᴇɴᴏ ᴅɪ ǫᴜᴀɴᴛᴏ ᴛᴜ ᴀᴍɪ ᴛᴇ sᴛᴇssᴏ 🌹 👗 @miss_puppets ⚔️ #piercer 💊 #Pharmacist 📥 Diletta2605@libero.it
     location: "Italy"
-    followers: 3761
-    engagement: 1465
-    commentsToLikes: 0.032408
-    id: ck5c9xe9vcb6k0i11rke7riqw
+    followers: 75257
+    engagement: 67
+    commentsToLikes: 0.311555
+    id: ck139hv7zldse0i19hpm1pspg
     verified: false
-    hashtags: "#model, #shooting, #foto, #fotografia"
-  - username: "ig_milano_"
+    hashtags: "#classy, #eyes, #photooftheday, #ritalevimontalcini"
+  - username: "sair.tan"
     fullname: >-
-      IG ⊕ MILANO ® 🇮🇹
+      SAIR TAN
     bio: >-
-      ⊕ OFFICIAL INSTAGRAM COMMUNITY ᵀᴴᴱ’ᴼᴿᴵᴳᴵᴻᴬᴸ ┅┅┅┅┅┅ ⊙ One World ⊕ One Award ⊙ #ig_milano ⊙ Local Manager e Area Manager Nord Italia @_isabeau_
+      🇷🇴 🚁Currently in Romania
     location: "Italy"
-    followers: 37613
-    engagement: 339
-    commentsToLikes: 0.008601
-    id: ck0w0fprfdypd0i19kxetfp82
+    followers: 9582
+    engagement: 105
+    commentsToLikes: 0.024997
+    id: ck5hkaqlxi37b0i11fz5ncsju
     verified: false
-    hashtags: "#ilikeitaly, #igworldclub, #exploreitaly, #beautifuldestinations"
-  - username: "giomaphoto"
-    fullname: >-
-      Giovanni Malandrino
-    bio: >-
-      📸 Ballet Photographer📍Milan, Italy 🇮🇹 💁‍♀️Street portraits for Ballet Dancers ⛔️ Only my photos #dancephotography ℹ️👇🏻DM ✍🏻 for collaborations
-    location: "Italy"
-    followers: 55452
-    engagement: 461
-    commentsToLikes: 0.031710
-    id: ck8t2694jyavx0j7822lrusse
-    verified: false
-    hashtags: "#balletposition, #nikonambassador, #balletphoto, #ballet"
+    hashtags: "#modaitaliana, #fashionblog, #longhair, #heaven"
   - username: "alvarobeamud"
     fullname: >-
       Alvaro Beamud Cortes
     bio: >-
       Fashion Photographer Paris|Milan Represented by @interlude_project
     location: "Italy"
-    followers: 31351
-    engagement: 351
-    commentsToLikes: 0.021525
+    followers: 32001
+    engagement: 327
+    commentsToLikes: 0.024858
     id: ck0ty8ku1lx460i191k9759rn
     verified: false
-    hashtags: "#mexico, #blackouttuesday"
+    hashtags: "#bfcnewwave, #fashionawards, #parolechedanzano"
+  - username: "giomaphoto"
+    fullname: >-
+      Giovanni Malandrino
+    bio: >-
+      📸 Photographer📍Milan, Italy 🇮🇹 💁‍♀️Street portraits for Ballet Dancers and Models ⛔️ Only my photos #dancephotography 👇🏻 ℹ️ DM ✍🏻 for collaborations
+    location: "Italy"
+    followers: 59277
+    engagement: 467
+    commentsToLikes: 0.029221
+    id: ck8t2694jyavx0j7822lrusse
+    verified: false
+    hashtags: "#worldwideballet, #balletphotography, #instadance, #balletspirit"
+  - username: "gramilano"
+    fullname: >-
+      Graham Spicer
+    bio: >-
+      #Dance writer and #photographer in #Milan, Italy... all photos my own 📷 @gramilano Graham Spicer aka gramilano / 🇪🇺🇬🇧🇮🇹 #ballet #balletphoto
+    location: "Italy"
+    followers: 24357
+    engagement: 160
+    commentsToLikes: 0.017808
+    id: ck14lm6zivd7w0i19wcauw5ef
+    verified: false
+    hashtags: "#theatrecostumes, #balletboys, #moda, #spoleto63"
+  - username: "manuelscrima"
+    fullname: >-
+      Manuel Scrima
+    bio: >-
+      Photographer in Milano manuelscrima@gmail.com
+    location: "Italy"
+    followers: 16464
+    engagement: 235
+    commentsToLikes: 0.044361
+    id: ck5bu32ikh3480i11z3mpe4nz
+    verified: false
+    hashtags: "#manintowoman, #photography, #modelsmilano, #contemporaryart"
+  - username: "stefania_danese"
+    fullname: >-
+      Stefania Danese
+    bio: >-
+      📷 Fashion photographer 📩 info@stefaniadanese.com 📍Milano 🇮🇹 #photographer
+    location: "Italy"
+    followers: 30497
+    engagement: 666
+    commentsToLikes: 0.016761
+    id: ck13ahzg7qhhn0i19anrx9j3e
+    verified: false
+    hashtags: "#discoverportrait, #portraitoftheday, #blackandwhite, #makeup"
 ---

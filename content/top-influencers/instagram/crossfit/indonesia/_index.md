@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Indonesia in 2023
+title: Top 10 Crossfit Instagram Influencers In Indonesia In 2023
 description: >-
-  Find top crossfit Instagram influencers in Indonesia in 2023. Most popular hashtags: #crossfit #fitness #coach #workout.
+  Find top crossfit Instagram influencers in Indonesia in 2023. Most popular hashtags: #crossfit #love #workout #fitness.
 platform: Instagram
-hits: 19
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 19 Instagram influencers like this in Indonesia for you to work with.
+hits: 14
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 14 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "annesivaasen"
-    fullname: >-
-      Anne Siv Aasen | NORWAY 🇳🇴
-    bio: >-
-      Travel•Yoga•CrossFit•Model ▪️ Owner @solvikyoga ▪️ TwinMom ▪️ YogaTeacher ▪️ @pulpitrockyogaretreat ▪️ Travel ▪️ @strandskateklubb ▪️ YogaRetreats
-    location: "Indonesia"
-    followers: 18617
-    engagement: 503
-    commentsToLikes: 0.150434
-    id: ck55ps5lwb9c80i11lwsue3fl
-    verified: false
-    hashtags: "#alotwists"
   - username: "luciemin"
     fullname: >-
       Lucie Minářová
     bio: >-
-      I run on lifting weights, coffee & vitamin sea🌴 ⚡@jedunavykon founder 💦crossfit | CFL1 Trainer 🥑nutrition 🎙podcast @thehealthytapes 🖤fitness youtuber
+      I run on lifting weights, coffee & vitamin sea🤍 ~ @jedunavykon founder ⚡ ~ crossfit | CFL1 Trainer ~ nutrition coach ~ podcast @thehealthytapes ~ ytb
     location: "Indonesia"
-    followers: 59050
-    engagement: 530
-    commentsToLikes: 0.010435
+    followers: 60591
+    engagement: 566
+    commentsToLikes: 0.004123
     id: ck5zqac68u8h80i14nyhusogd
     verified: false
-    hashtags: "#jedunav, #spolupr, #workout, #kardio"
+    hashtags: "#jnvnutrition, #novevideo, #jedunav, #workout"
   - username: "misshotrodqueen"
     fullname: >-
       Ade Putri Paramadita 🍒
     bio: >-
-      Culinary Storyteller ✨ Beer. Fixed gear. CrossFit. Business: Mad +6282228881170 @smescoindonesia PR @ACMIID Mommy @BEERgembira
+      Culinary Storyteller ✨ Beer. Fixed gear. CrossFit. Business: Tasya +62 878 7664 4003 @smescoindonesia PR @ACMIID Mommy @BEERgembira
     location: "Indonesia"
-    followers: 40686
-    engagement: 238
-    commentsToLikes: 0.028461
+    followers: 43233
+    engagement: 243
+    commentsToLikes: 0.021505
     id: ck15rgahn7sa40i19frpr1n77
     verified: false
-    hashtags: "#foodpics, #traditionalfood, #foodstagram, #foodie"
-  - username: "bekimko"
-    fullname: >-
-      Bekim Aziri
-    bio: >-
-      - bekim@bavimato.sk 📧 - @crossfitpezinok 🏋🏼‍♀️ - @ozembuchlimonada 🍇 - #bekim #zivotgombitka #chromanoha
-    location: "Indonesia"
-    followers: 110629
-    engagement: 416
-    commentsToLikes: 0.007952
-    id: ck6tjrhzs3a4n0j71jao22p7v
-    verified: false
-    hashtags: "#ms2020, #zabehnito, #chromanoha, #vyzva55"
-  - username: "mehdi.alipour98"
-    fullname: >-
-      Mehdi Alipour
-    bio: >-
-      تنها مدال آور جوانان جهان در تاریخ سنگنوردی کشور National Athelete 🔹World championship 2 🔸FISU world championship 3 🔹Asian championship 1-2-3
-    location: "Indonesia"
-    followers: 2296
-    engagement: 2375
-    commentsToLikes: 0.095606
-    id: ck5hei96ft1iy0i112gfg0oq2
-    verified: false
-    hashtags: "#mind, #rockclimbing, #speedclimbing, #iran"
+    hashtags: "#repost, #jakarta, #bite, #sambal"
   - username: "dominikluks"
     fullname: >-
       Dominik Luks
     bio: >-
-      🔸 www.sportathlete.cz 🔸Personal trainer 🔸Strength/condition. 🏋️‍♂️ 🔸Trainer MMA. 🤼‍♂️ 🔸On-line coaching.📹 🔸Traveler.✈️🌏
+      🔸MMA COACH.🥊 🔸CONDITIONIG COACH.🏋️‍♂️ 🔸STRENGTH COACH.🏋️‍♂️ 🔸REFEREE MMA.🥊 🔸TRAVELER.🌏 🔸ROBINSON 2018.🌏 🔸YOUTUBE.🎥 🔸WWW.SPORTATHLETE.CZ 🔸 MOTIVATOR
     location: "Indonesia"
-    followers: 30242
-    engagement: 221
-    commentsToLikes: 0.005517
+    followers: 28645
+    engagement: 304
+    commentsToLikes: 0.005076
     id: ck8t6oyjqec2z0j78vcpisyef
     verified: false
-    hashtags: "#crossfit, #love, #man, #strong"
+    hashtags: "#crossfit, #mma, #czech, #lifestyle"
   - username: "juancarloscrazysport"
     fullname: >-
       Juan Carlos Vicente
     bio: >-
-      Preparador físico/coach deportivo CEO jctraining Corredor vegano de @merrelleu @arch_max @somosdeportistas @tannus_tires
+      Preparador físico/coach deportivo Deportista de montaña vegano de @merrelleu @arch_max @somosdeportistas @soy.globero @gloriososupernutrients
     location: "Indonesia"
-    followers: 25419
-    engagement: 263
-    commentsToLikes: 0.113310
+    followers: 25412
+    engagement: 286
+    commentsToLikes: 0.089600
     id: ck5qdpsjgwqts0i11vsifsd3u
     verified: false
-    hashtags: "#run, #jctraining, #pirineos, #mountains"
+    hashtags: "#preparadorfisico, #snowday, #entrenador, #vegan"
+  - username: "stephanieee.liu"
+    fullname: >-
+      Content Creator | Brand Review
+    bio: >-
+      #𝘔𝘰𝘮𝘡𝘰𝘦𝘺𝘓𝘪𝘶𝘳𝘦𝘷𝘪𝘦𝘸 Collab/Endorsement DM/Email Mom of @littleannezoey 💍 @ed_winn Part of @asosiasiinfluencerindonesia
+    location: "Indonesia"
+    followers: 47028
+    engagement: 233
+    commentsToLikes: 0.070974
+    id: ck5zoxrz6rkpd0i140kgcls6u
+    verified: false
+    hashtags: "#digestivesystem, #tulang, #health, #caldanaflex"
+  - username: "stephanie.bex"
+    fullname: >-
+      Stephanie | TRAVEL l HEALTH |
+    bio: >-
+      𖥸 CRYPTO INVESTOR 𖥸 SOCIAL MEDIA MANAGEMENT 𓃠. @stephanie.bexvip
+    location: "Indonesia"
+    followers: 13636
+    engagement: 447
+    commentsToLikes: 0.060963
+    id: ckaovrfse5u1b0i78qcaq89rj
+    verified: false
+    hashtags: "#instagood, #photooftheday, #photography, #love"
+  - username: "mehdi.alipour98"
+    fullname: >-
+      Mehdi Alipour
+    bio: >-
+      ( تنها مدال آور جوانان جهان ) 🔷کارشناس تربیت بدنی 💯مربیگری حرفه ای 🌍World championship 2 🌏FISU world championship 3 🌍Asian championship 1-2-3
+    location: "Indonesia"
+    followers: 2374
+    engagement: 2267
+    commentsToLikes: 0.097985
+    id: ck5hei96ft1iy0i112gfg0oq2
+    verified: false
+    hashtags: "#positive, #sportclimbing, #face, #ifsc"
   - username: "fakirpiknik"
     fullname: >-
       cahya gumilang
     bio: >-
       Travelling & Workout Bandung. Youtube 👇
     location: "Indonesia"
-    followers: 40916
+    followers: 40135
     engagement: 229
-    commentsToLikes: 0.145580
+    commentsToLikes: 0.142647
     id: ck1381404dzn20i19vce3khsb
     verified: false
-    hashtags: "#planche, #workout, #workoutmotivation, #pullup"
+    hashtags: "#workout, #workoutmotivation, #streetworkout, #calisthenics"
   - username: "rizal_marwanto"
     fullname: >-
       Rizal Mild
     bio: >-
       Wahai Tuhanku, engkaulah yang aku maksud dan RIDHO-Mu yang aku cari Berilah hamba kemampuan untuk bisa MENCINTAI-MU DAN MA'RIFAT kepadamu 🤲🏻
     location: "Indonesia"
-    followers: 3031
-    engagement: 1397
-    commentsToLikes: 0.316099
+    followers: 2993
+    engagement: 1167
+    commentsToLikes: 0.311543
     id: ck14i0jrcd23m0i196cel4tct
     verified: false
-    hashtags: "#visitbogor, #instapendaki, #wonderfulindonesia, #wonderful"
-  - username: "mestre.xuxo"
+    hashtags: "#discoverearth, #droneforever, #visitsumut, #infiatravel"
+  - username: "hertati88"
     fullname: >-
-      Mestre.xuxo
+      Priscilla Hertati Lumban Gaol
     bio: >-
-      • EnjoyYourself founder • @movement.connection • 146 traveled countries/ países • workshops, retreats,coach #mma #ufc #artist Wechat#mestrexuxo
+      👑 One Championship Athlete 📎Personal Trainer 🥊 MuayThai 💎 Fatloss, Strenght Training 💌wa : 0813 822 333 53 Line : hertatilumbangaol 2nd IG @hertatilg
     location: "Indonesia"
-    followers: 60011
-    engagement: 257
-    commentsToLikes: 0.032783
-    id: ck5zqe5usufw00i143bnnb053
-    verified: false
-    hashtags: "#life, #enjoyyourself, #mestrexuxo, #travel"
+    followers: 19408
+    engagement: 446
+    commentsToLikes: 0.042414
+    id: ck0w449sqwqim0i19qm76lrcp
+    verified: true
+    hashtags: "#athlete, #motivation, #fight, #bataknese"
 ---

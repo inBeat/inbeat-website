@@ -1,72 +1,36 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Dallas in 2023
+title: Top 10 Vegan Instagram Influencers In Dallas In 2023
 description: >-
-  Find top vegan Instagram influencers in Dallas in 2023. Most popular hashtags: #vegan #dallas #fitness #texas.
+  Find top vegan Instagram influencers in Dallas in 2023. Most popular hashtags: #vegan #ad #fitness #skincare.
 platform: Instagram
-hits: 44
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 44 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 41
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 41 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "theveggiepilot"
+  - username: "roccothegoddess"
     fullname: >-
-      Vegan Airline Pilot
+      𝘾𝙧𝙚𝙖𝙩𝙚 𝙒𝙚𝙖𝙡𝙩𝙝 & 𝘼𝙘𝙝𝙞𝙚𝙫𝙚 𝙈𝙤𝙧𝙚
     bio: >-
-      As seen on N.P.R., The Boston Globe, Travel + Leisure Magazine, P.E.T.A., Metro U.K. 🎅🏻📚🧒🏻🧒🏽🧒🏿 Shriner’s Children’s Hospital Christmas Book Drive👇🏼
+      Taken by @DerdyDadeDre 👑 Disciplined Heathen 🖤 Powered by Plants🌱 Fitnessy🏋🏿‍♀️💅🏾 Serial Investor 📈 Funding The Mental📚 Toronto ✈️ Miami
     location: "United States"
-    followers: 27588
-    engagement: 610
-    commentsToLikes: 0.042982
-    id: ck0w63mxb6qry0i19pcn6dxqd
+    followers: 8758
+    engagement: 1938
+    commentsToLikes: 0.011708
+    id: ckf5qzls8awt60j23z8t6ovat
     verified: false
-    hashtags: "#veganpilot, #vegantraveler, #veganmeal, #veganfoodporn"
-  - username: "whit_theplug"
-    fullname: >-
-      👑 Whit Whit
-    bio: >-
-      God ☝🏾 Catch these vegan vibes 🌱✨ Creative 👉🏾 @dallas.imprint
-    location: "United States"
-    followers: 2386
-    engagement: 1597
-    commentsToLikes: 0.056676
-    id: ckf5kyfo3noe40j23ilkrfoux
-    verified: false
-    hashtags: "#drsebi, #dallasvegan, #bob, #blm"
-  - username: "anjelicacirone"
-    fullname: >-
-      Anjelica Cirone
-    bio: >-
-      ❤️ University of Louisville All-Girl Cheerleader alumna 🇺🇸 2X USA World Champion 💪 Trainer at @bodymachinefitness 💉 @realdrdallas 📍 Dallas
-    location: "United States"
-    followers: 4514
-    engagement: 1172
-    commentsToLikes: 0.056867
-    id: ckaoynh0ai8w10i78e9maxo2e
-    verified: false
-    hashtags: "#cheer, #workoutmotivation, #badass, #dallas"
+    hashtags: "#fitchicks, #healthyhair, #kinky, #happyanniversary"
   - username: "julianestaban"
     fullname: >-
       Dallas | Vegan | Photographer
     bio: >-
       @3rdeyevisionx
     location: "United States"
-    followers: 15710
-    engagement: 1701
-    commentsToLikes: 0.037990
+    followers: 15563
+    engagement: 1274
+    commentsToLikes: 0.051885
     id: ck6uhmeww9ypg0j71g6z3uks3
     verified: false
-    hashtags: "#tattoolovers, #dfwportraits, #hippie, #tattoostyle"
-  - username: "blackmillionaires_"
-    fullname: >-
-      Black Millionaires
-    bio: >-
-      ▪️Showcasing Current & Future ▪️#blackmillionaires DM for features ▪️Follow to help reach our goal of 30K. 👇🏽👇🏽👇🏽📈Shop Merch & Promo.
-    location: "United States"
-    followers: 29388
-    engagement: 165
-    commentsToLikes: 0.329713
-    id: ck6u2y26bukx90j719kf7gjk2
-    verified: false
-    hashtags: "#blackbusinessowner, #blackowned, #blackwallstreet, #blackknowledge"
+    hashtags: "#dfwportraits, #tatted, #dreadlockstyles, #inkedmen"
   - username: "japanstylez"
     fullname: >-
       🎎Japanese Hair Assassin🇳🇬
@@ -78,53 +42,89 @@ profiles:
     commentsToLikes: 0.027831
     id: ck5hqpyfhtil70i11d6hd64kv
     verified: false
-    hashtags: "#naturalhairstyles, #mondaymotivation, #ponytail, #longponytail"
-  - username: "inked.exclusives"
+    hashtags: "#picoftheday, #naturalhairstyles, #ponytail, #longponytail"
+  - username: "fitw_bri"
     fullname: >-
-      
+      Briana 🤍
     bio: >-
-      Representing inked talent, artists & models! #inkedexclusives || Premium content below! 💥 ||
+      I am a Mom before anything. Fitness | Music Business owner @sweetpeachcollection @tc1gel | @brianasingsss_ 📧: Fitw_bri@yahoo.com
     location: "United States"
-    followers: 31760
-    engagement: 47
-    commentsToLikes: 0.017089
-    id: ck5cffuv2mvc10i116l0bvdiq
+    followers: 89072
+    engagement: 222
+    commentsToLikes: 0.023744
+    id: ck0tx8koti8sx0i19ero5iynn
     verified: false
-    hashtags: "#tattoos, #pretty, #exclusives, #hotellife"
-  - username: "darleneshares"
+    hashtags: "#womenempowerment, #love, #selflove, #empoweringwomen"
+  - username: "themindfulhapa"
     fullname: >-
-      darlene chairez
+      Casey | healthy&easy eats!
     bio: >-
-      jw E♡
+      hapa = half asian mix of: pescatarian | GF | dairy free | vegan 📸 + 🎥 content creation 🌵 Dallas, TX 📧: themindfulhapa@gmail.com
     location: "United States"
-    followers: 3589
-    engagement: 1095
-    commentsToLikes: 0.094023
-    id: ck5hlapb8jvq40i11fvjwkfv4
+    followers: 28559
+    engagement: 392
+    commentsToLikes: 0.101846
+    id: ck0tvnfrfc0q30i19rrp9qc6g
     verified: false
-    hashtags: "#dallasblog, #ootd, #gymsharkwomen, #discoverunder10k"
-  - username: "madaleinemurphy"
+    hashtags: "#grainfreerecipes, #easydesserts, #foodvideos, #refinedsugarfree"
+  - username: "mariasjsanchez"
     fullname: >-
-      madaleine murphy
+      Lifestyle Buzz by Maria 🌈
     bio: >-
-      snap: madaleinemurphy https://blacklivesmatters.carrd.co/ 📩madaleinemurphy16@gmail.com
+      #Latina ⚽️ Mom in Dallas Making #Motherhood fun!! #Lifestyle #Fashion #DFWHotSpots Daily shenanigans on stories 📩 mariasjsanchez@gmail.com
     location: "United States"
-    followers: 10552
-    engagement: 1407
-    commentsToLikes: 0.062586
-    id: ck0vvcwauokul0i19rto5ksi1
+    followers: 29711
+    engagement: 463
+    commentsToLikes: 0.063598
+    id: ckap8rwxwpluu0i78o8a243kg
     verified: false
-    hashtags: "#pacsun, #skincareroutine, #ultabeauty, #skincareproducts"
-  - username: "hollykstyles"
+    hashtags: "#dfwinfluencers, #whatiworetoday, #sheinfinds, #ad"
+  - username: "brittanyardito"
     fullname: >-
-      Holly
+      Brittany Ardito
     bio: >-
-      floridian | dallas tx sharing tall fashion & lifestyle link below to shop my posts
+      Sharing what I love & what might help others. Health, Beauty & Dogs #dogsitter Follow my pups @texandrowdy 📍 Dallas, TX 📧 britsilver04@gmail.com
     location: "United States"
-    followers: 3987
-    engagement: 902
-    commentsToLikes: 0.314633
-    id: ckaowm7if9gug0i78mtyycrlx
+    followers: 10968
+    engagement: 241
+    commentsToLikes: 0.143385
+    id: cl8balz1g3ddv0i235byjgofi
     verified: false
-    hashtags: "#dearjohndenim, #lifestyleblogger, #texas, #fall"
+    hashtags: "#keto, #glutenfree, #texasinfluencer, #texturetuesday"
+  - username: "theinvestor"
+    fullname: >-
+      Justin Kimbrough💰
+    bio: >-
+      🌱 Vegan 😁 Positivity 🗣 Speak it into existence 🏌🏼 Pro Golfer ⚡️ Manifest Your Dreams 💰 BIZ OPPORTUNITYS/PASSIVE INCOME DM ME
+    location: "United States"
+    followers: 231109
+    engagement: 88
+    commentsToLikes: 0.060955
+    id: ck8t4m2ef794u0j78da1jawt9
+    verified: false
+    hashtags: "#peace, #europe, #mindset, #travelgoals"
+  - username: "nataliaavegaa"
+    fullname: >-
+      NATALIA VEGA
+    bio: >-
+      Vegan is the new black Ⓥ⠀ Me gusta tomar fotos 📸⠀ 📍Dallas, Texas 🍂
+    location: "United States"
+    followers: 6769
+    engagement: 662
+    commentsToLikes: 0.024373
+    id: ck6uc7xdae0hh0j71x8mgeequ
+    verified: false
+    hashtags: "#calm, #veganmiami, #keybiscane, #greennature"
+  - username: "ransomeand"
+    fullname: >-
+      RANSOME ROMBAUER
+    bio: >-
+      Rombauer Vineyards G3• Equestrian • Show Jumper • Fashion • Fitness • Vegan-ish • Horse & Dog Rescue • SMU 2021 • Napa Valley • Dallas • Welli
+    location: "United States"
+    followers: 12741
+    engagement: 497
+    commentsToLikes: 0.010321
+    id: ck6u5nfp1an2r0j71yy9liowh
+    verified: false
+    hashtags: "#emorkusre, #jumper, #jumpers, #washyourhands"
 ---

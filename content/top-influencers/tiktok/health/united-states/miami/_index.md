@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Miami in 2023
+title: Top 10 Health TikTok Influencers In Miami In 2023
 description: >-
-  Find top health TikTok influencers in Miami in 2023. Most popular hashtags: #health #miami #fyp #foryoupage.
+  Find top health TikTok influencers in Miami in 2023. Most popular hashtags: #health #fyp #miami #weightloss.
 platform: TikTok
-hits: 47
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 47 TikTok influencers like this in Miami, United States for you to pitch.
+hits: 57
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 57 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
+  - username: "steellafferty"
+    fullname: >-
+      steellafferty
+    bio: >-
+      CEO of Water 💧 Insta: @steellafferty
+    location: "United States"
+    followers: 126100
+    engagement: 815
+    commentsToLikes: 0.016787
+    id: ck978v20e9gs00j785l9exx8l
+    verified: false
+    hashtags: "#vibes, #fyp, #foryou, #foryoupage"
+  - username: "thenutritiousblonde"
+    fullname: >-
+      nutritious blonde.
+    bio: >-
+      Miami. your unapologetic guide to all things 🦋
+    location: "United States"
+    followers: 23400
+    engagement: 552
+    commentsToLikes: 0.044601
+    id: ck81s43tfpukc0j78kgbwmd9s
+    verified: false
+    hashtags: "#sibo, #greenbeauty, #weightloss, #healthy"
+  - username: "manamoj"
+    fullname: >-
+      ✨Mona🦩
+    bio: >-
+      Don’t b bitter, b BETTER I have ONLY 1 Tiktok a/c Ig:mona_moj606 Nevada 🇺🇸
+    location: "United States"
+    followers: 747700
+    engagement: 947
+    commentsToLikes: 0.052760
+    id: ckbf7fv5vxch00j234cc59p5k
+    verified: false
+    hashtags: "#lasvegas, #tiktokusa, #funny, #lasvegasbaby"
   - username: "drthierryjacquemin"
     fullname: >-
       DrThierryJacquemin
     bio: >-
       Physician dedicated to Beauty, Wellness, and Performance 💪💪💪 (305) 667-1511
     location: "United States"
-    followers: 65600
-    engagement: 694
-    commentsToLikes: 0.085145
+    followers: 70800
+    engagement: 726
+    commentsToLikes: 0.082758
     id: ck9fx9k895jc70j78c92r6sun
     verified: false
-    hashtags: "#health, #miami, #amazing, #medicine"
-  - username: "doctor.jarrett"
+    hashtags: "#kickass, #miami, #boom, #weightloss"
+  - username: "austinchiangmd"
     fullname: >-
-      Dr. Jarrett Schanzer
+      Dr. Austin, MD MPH
     bio: >-
-      Instagram (150k) ⤴️ 📍Miami / NYC Health💉Humor💉Inspiration Anesthesia😷
+      Medical Mythbuster Professor, GI Doctor 🎓Duke/Columbia/Harvard Latest YT vid👇
     location: "United States"
-    followers: 150900
-    engagement: 846
-    commentsToLikes: 0.030527
-    id: ckdbs9wzgcgxv0j23tvaoyutk
-    verified: false
-    hashtags: "#adhd, #foryoupage, #comedy, #fyp"
-  - username: "thecarolinalifestyle"
+    followers: 412900
+    engagement: 1514
+    commentsToLikes: 0.020437
+    id: ck8w4v3sz94z50j78e6ixg8nn
+    verified: true
+    hashtags: "#lgbtq, #acidreflux, #medicine, #stopasianhate"
+  - username: "mr.eats305"
     fullname: >-
-      Carolina
+      George | Mr.Eats305
     bio: >-
-      say hi on IG! ⬆️🥰 ✨lifestyle & wellness✨ holistic health coach in training 🤍
+      📸 IG = 77K 🍔 📍 Miami ☀️ | Food, Hats, Sports, Cards 📩 George@MrEats305.com
     location: "United States"
-    followers: 134600
-    engagement: 901
-    commentsToLikes: 0.008258
-    id: ckf4uppf23x1k0j2395uqoytu
+    followers: 62100
+    engagement: 892
+    commentsToLikes: 0.063560
+    id: ckac9y4iwgjif0i78p9r5l1l5
     verified: false
-    hashtags: "#fyp, #plantbased, #foryou, #whatiatetoday"
-  - username: "miamifruit"
+    hashtags: "#miamifood, #foodies, #yum, #keylimepie"
+  - username: "jpark_fit"
     fullname: >-
-      miamifruit
+      Jeremy Park
     bio: >-
-      Follow on IG: @miamifruit 🌈 Tap link below to order our fruit ⬇️
+      🇺🇸 x 🇰🇷 ⚡️Workouts Everyday⚡️ Natty 🌱 SONIC SHREDDER CHALLENGE👇🏽
     location: "United States"
-    followers: 232600
-    engagement: 1099
-    commentsToLikes: 0.015141
-    id: ck83k2mp08twh0j78x2ip2jnj
-    verified: false
-    hashtags: "#exoticfruit, #pomelo, #citrus, #fruit"
-  - username: "its_heavv"
+    followers: 1900000
+    engagement: 960
+    commentsToLikes: 0.008190
+    id: ck85cpw8e2waf0j78buzx5qh1
+    verified: true
+    hashtags: "#jparkfit, #workout, #gains, #fyp"
+  - username: "lorenazurc"
     fullname: >-
-      its_heavv
+      Lovena
     bio: >-
-      📸: @its_heavv 🐦: @its_heavv
+      Latina/ Nurse/ Houston Texas
     location: "United States"
-    followers: 14600
-    engagement: 1285
-    commentsToLikes: 0.010361
-    id: ck9c2iqxzp6vv0j78pg2tq4qs
+    followers: 2104
+    engagement: 712
+    commentsToLikes: 0.041309
+    id: ck9nie2epgu1r0j78dhvgzwje
     verified: false
-    hashtags: "#fyp, #blackownedbusiness, #keepingbusy, #hair"
-  - username: "amari.ab.bryant"
+    hashtags: "#fyp, #tiktok, #travel, #houston"
+  - username: "jennaharwoodofficial"
     fullname: >-
-      Amari ”AB” Bryant
+      it’s me jenna
     bio: >-
-      MIAMI 🤘🏽🤘🏽 CBD PLUG 🍃🌴🎍 Tik Tok 50k Goal 😂😂 Just Call Me Amari
+      ⭐️it’s me Jenna⭐️ Instagram: @jennaharwoodofficial
     location: "United States"
-    followers: 56500
-    engagement: 1091
-    commentsToLikes: 0.043768
-    id: ckbalpnl1cn1l0j23oi3wvu3f
+    followers: 64000
+    engagement: 681
+    commentsToLikes: 0.067840
+    id: ckdswvvanqixu0j23jxjorb9b
     verified: false
-    hashtags: "#hawaii, #foryoupage, #worldseries, #welldone"
-  - username: "andreamoya"
+    hashtags: "#luxury, #bridgerton, #dothescottsslide, #trending"
+  - username: "kari.nautique"
     fullname: >-
-      Andrea Moya
+      kari.nautique
     bio: >-
-      insta: @andreagmoya MIAMI 🌊🌞🌺
+      Author, Model, Mom 📍Miami The link below is for grown-ups only:
     location: "United States"
-    followers: 21300
-    engagement: 419
-    commentsToLikes: 0.021864
-    id: ckbff4p479ls10j23ar6m1yb5
+    followers: 69100
+    engagement: 935
+    commentsToLikes: 0.023531
+    id: ck9dz5xcf05o70j78kjgpmjh8
     verified: false
-    hashtags: "#blonde, #fyp, #foryoupage, #tan"
-  - username: "imsweatyandiknowit"
-    fullname: >-
-      BY CALLIE JARDINE
-    bio: >-
-      YOUR GO-TO GUIDE FOR ALL THINGS HEALTH & WELLNESS 💌imsweatyandiknowit@gmail.com
-    location: "United States"
-    followers: 63100
-    engagement: 1280
-    commentsToLikes: 0.014915
-    id: ckcp2j9x7bmlz0j23uojdi41z
-    verified: false
-    hashtags: "#workout, #healthylifestyle, #healthy, #duet"
-  - username: "cozyrosati"
-    fullname: >-
-      Cosette Rosati
-    bio: >-
-      True Life: I’m an influencer Model BTS | Health & Wellness | Avid Thrifter
-    location: "United States"
-    followers: 88500
-    engagement: 460
-    commentsToLikes: 0.029975
-    id: ckacfmt0yrjis0i787jm6lk9x
-    verified: false
-    hashtags: "#vegan, #bts, #model, #foodie"
-  - username: "berthadelina"
-    fullname: >-
-      Adelina
-    bio: >-
-      Follow for GOOD LUCK Latina. F🍩🍩DIE. Miami, FL
-    location: "United States"
-    followers: 11400
-    engagement: 579
-    commentsToLikes: 0.040727
-    id: ckai8ve165us00i788c2mmkag
-    verified: false
-    hashtags: "#food, #florida, #yum, #foodie"
+    hashtags: "#singlelife, #fyp, #dogsoftiktok, #aftermycoffee"
 ---

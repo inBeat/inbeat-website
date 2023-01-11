@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Toronto in 2023
+title: Top 10 Travel TikTok Influencers In Toronto In 2023
 description: >-
-  Find top travel TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #travel #canada.
+  Find top travel TikTok influencers in Toronto in 2023. Most popular hashtags: #toronto #fyp #travel #canada.
 platform: TikTok
-hits: 78
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 78 TikTok influencers like this in Toronto, Canada for you to collaborate.
+hits: 63
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 63 TikTok influencers like this in Toronto, Canada for you to contact.
 profiles:
-  - username: "oknehaa"
+  - username: "moustachoooo"
     fullname: >-
-      Okneha
+      Bb
     bio: >-
-      Lets tik talk about it
+      Artist_interior Desinger Toronto 🇨🇦
     location: "Canada"
-    followers: 4436
-    engagement: 1075
-    commentsToLikes: 0.062256
-    id: ckc7pdrd9v3wo0j237ba47kkx
+    followers: 3385
+    engagement: 304
+    commentsToLikes: 0.106390
+    id: ckai5yafdu0rm0i784o5alxn5
     verified: false
-    hashtags: "#foryoupage, #naturevibes, #vlog, #fyp"
-  - username: "manjushankar143"
+    hashtags: "#frontline, #frontal, #travel, #toronto"
+  - username: "itsbaewatch"
     fullname: >-
-      user540446
+      Bae Watch
     bio: >-
-      
+      toronto travel youtubers 🇨🇦✈️ 👇🏼SUBSCRIBE👇🏼
     location: "Canada"
-    followers: 2690
-    engagement: 589
-    commentsToLikes: 0.061323
-    id: ckbkz22povcw30j23l8korbtj
+    followers: 2598
+    engagement: 556
+    commentsToLikes: 0.128095
+    id: ckb9tyhnisaxg0j236nbke686
     verified: false
-    hashtags: "#destination, #quebec, #canadalife, #banff"
-  - username: "afnan.alsayed"
+    hashtags: "#italy, #beach, #tiktoktravel, #cuba"
+  - username: "_istiana"
     fullname: >-
-      Afnan Alsayed
+      Istiana
     bio: >-
-      
+      aesthetic, travel guides, that kind of stuff
     location: "Canada"
-    followers: 5148
-    engagement: 983
-    commentsToLikes: 0.013342
-    id: ckbqlwrb272em0j2396ljpfql
+    followers: 4925
+    engagement: 964
+    commentsToLikes: 0.072749
+    id: ckcv70kd8pudd0j23vv7y9por
     verified: false
-    hashtags: "#tiktok, #fyp, #foryoupage, #ramadan"
-  - username: "hyla_"
+    hashtags: "#travelbucketlist, #myaesthetic, #toronto, #traveltheworld"
+  - username: "vladasedova"
     fullname: >-
-      Hyla
+      vladasedova
     bio: >-
-      toronto cofounder of @437 (IG) @437shop (TikTok)
+      yyc
     location: "Canada"
-    followers: 6335
-    engagement: 389
-    commentsToLikes: 0.051834
-    id: ckdsky95zna7o0j23xazijhg3
+    followers: 13100
+    engagement: 1006
+    commentsToLikes: 0.023978
+    id: ckcphhec5hiq30j23pyyrgyej
     verified: false
-    hashtags: "#fyp, #foryoupage, #portugal, #dog"
-  - username: "danielkrakan"
+    hashtags: "#sunset, #moments, #fyp, #nofilter"
+  - username: "bianca88new"
     fullname: >-
-      dkphotography
+      B I A N C A
     bio: >-
-      Photographer IG : @danielkrakan (70k) PRESETS👇🏼
+      I’m almost sick of my damn self IG: bianca88new
     location: "Canada"
-    followers: 33400
-    engagement: 838
-    commentsToLikes: 0.056714
-    id: ckcel8dqxuz700j237hu339gl
+    followers: 8471
+    engagement: 805
+    commentsToLikes: 0.039509
+    id: ckbaqzelfhnbc0j234tc5m3lp
     verified: false
-    hashtags: "#wow, #tiktokartist, #creative, #viralvideo"
-  - username: "ninireyy95"
+    hashtags: "#explore, #fyp, #foryou, #comedy"
+  - username: "ashwin_k_johns0n"
     fullname: >-
-      Ninireyy
+      Ashwin Johnson
     bio: >-
-      Trying to stay hip with the teens 🇨🇦6️⃣
+      тнє ρяινιℓєgє σf α ℓιfєтιмє ιѕ вєιиg ωнσ уσυ αяє
     location: "Canada"
-    followers: 13800
-    engagement: 394
-    commentsToLikes: 0.026014
-    id: ck81q3yijfqcy0j784lfxc0o2
+    followers: 24900
+    engagement: 1308
+    commentsToLikes: 0.045680
+    id: ck8qiwrn7apdr0j78g0js00xf
     verified: false
-    hashtags: "#dogsoftiktok, #sewing, #fyp, #thriftflip"
-  - username: "jameslifee"
+    hashtags: "#fyp, #nature, #viral, #travel"
+  - username: "menon_akhil"
     fullname: >-
-      Jamey
+      Akhil Menon
     bio: >-
-      SEARCHING FOR LIFE’S GREATEST ADVENTURES 🇨🇦📸🌴🎬🏔🌎 Newest YT vid below! ⬇️
+      Travel and Lifestyle Professional🌍🇮🇳🇨🇦 Canadian Mallu 🥳
     location: "Canada"
-    followers: 30800
-    engagement: 638
-    commentsToLikes: 0.041173
-    id: ckbkld93eep0c0j23qcb4z4mw
+    followers: 5660
+    engagement: 1113
+    commentsToLikes: 0.034212
+    id: ckajb438jly890i78q1p3pgef
     verified: false
-    hashtags: "#ottawatourism, #ottawafoodie, #ontario, #autumnadventures"
+    hashtags: "#mallu, #canadianmallu, #trending, #nzmallu"
   - username: "emscourtney"
     fullname: >-
       Emma
     bio: >-
       Lover of interior design, baking, travel, fitness & cats 📍Toronto
     location: "Canada"
-    followers: 3328
-    engagement: 706
-    commentsToLikes: 0.053382
+    followers: 3263
+    engagement: 771
+    commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#catsoftiktok, #vibecheck, #foryou, #cats"
-  - username: "rowdy.ravish"
+    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+  - username: "jessjager"
     fullname: >-
-      Rowdy Ravish
+      JessJager
     bio: >-
-      Indian Canadian YouTuber, search for "Rowdy Ravish" on YouTube and Instagram
+      Pro Adventurer 🌍📸 Based in Ontario, Canada! 🍁🇨🇦 Insta: @jessjagerjourneys
     location: "Canada"
-    followers: 20116
-    engagement: 277
-    commentsToLikes: 0.015197
-    id: cka0omqlt4lpj0i78i73day2a
+    followers: 5350
+    engagement: 739
+    commentsToLikes: 0.047571
+    id: ckbf61xphvcpk0j23cpgwlxh6
     verified: false
-    hashtags: "#funnyindia, #djimavicmini, #fyp, #pyaaj"
-  - username: "dronestore"
+    hashtags: "#earth, #travel, #foryoupage, #nature"
+  - username: "melissa"
     fullname: >-
-      The TikTok Drone Guy
+      MELISSA
     bio: >-
-      Visit www.skynexdronestore.com, official home of the drone.
+      Traveling the world non stop! Follow me on Instagram @melissa
     location: "Canada"
-    followers: 44500
-    engagement: 505
-    commentsToLikes: 0.017516
-    id: ckcjcenqg9g6r0j23e5rbpo88
+    followers: 19800
+    engagement: 722
+    commentsToLikes: 0.038271
+    id: ck9tveb98q7mk0j78f5lua0dn
     verified: false
-    hashtags: "#cod, #blm, #canada, #drones"
+    hashtags: "#fyp, #travel, #tiktoktravel, #foryou"
 ---

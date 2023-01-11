@@ -1,120 +1,84 @@
 ---
-title: Top 10 Music Instagram Influencers In South Africa in 2023
+title: Top 10 Music Instagram Influencers In South Africa In 2023
 description: >-
-  Find top music Instagram influencers in South Africa in 2023. Most popular hashtags: #sneakers #tgif #belowdeckbravo.
+  Find top music Instagram influencers in South Africa in 2023. Most popular hashtags: #blackhair #brownskin #model.
 platform: Instagram
-hits: 126
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 126 Instagram influencers like this in South Africa for you to work with.
+hits: 95
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 95 Instagram influencers like this in South Africa for you to work with.
 profiles:
-  - username: "kurtapril_"
+  - username: "casspernyovest"
     fullname: >-
-      Kurt April
+      Refiloe Phoolo 🇿🇦
     bio: >-
-      Radio Personality | Musician | DJ/Producer | Sound Engineer |📍Cape Town, South Africa 🇿🇦 ‘Lost Together’ out now! 👇
+      👑 of South African Music/ celebrity boxer CLICK LINK BELOW
     location: "South Africa"
-    followers: 5197
-    engagement: 1929
-    commentsToLikes: 0.126993
-    id: ck15tn2kqiwar0i19j2jpm4yj
-    verified: false
-    hashtags: ""
-  - username: "iamolakira"
-    fullname: >-
-      O L A K I R A 😈
-    bio: >-
-      Let the music speak unimofficial@gmail.com #MaseratiRemix ft Davido OUT NOW 👇🏼
-    location: "South Africa"
-    followers: 160787
-    engagement: 534
-    commentsToLikes: 0.029832
-    id: ck5bugyt7hrp80i11eqo89gcy
+    followers: 5889001
+    engagement: 95
+    commentsToLikes: 0.011742
+    id: ck5hrq0rsvaaj0i11x7kd345g
     verified: true
-    hashtags: "#inmymaserati, #maseratiremix, #maseratichallenge, #tgif"
-  - username: "xavierdragner"
+    hashtags: "#cassperxsportsbetio, #cryptoknightwithcass, #billiatoatasteofwealth, #billiatoallwhite"
+  - username: "liviesofine"
     fullname: >-
-      XAVIER DRAGNER
+      Livie ❤️
     bio: >-
-      ✖️DJ | Producer 🇿🇦 ✖️bookings@xavierdragner.com ✖️NEW MUSIC👇
+      Future mental health counselor 📚🧠 ❤️ Libra ♎️ 10/09 God first 🙏🏾 Music 👇🏾
     location: "South Africa"
-    followers: 3026
-    engagement: 1258
-    commentsToLikes: 0.111855
-    id: ck5bzlzoyret10i11y0m8kcla
+    followers: 14123
+    engagement: 746
+    commentsToLikes: 0.067851
+    id: ck6ufr2t1yo6z0j71sxeq6qu7
+    verified: false
+    hashtags: "#myblackisbeautiful, #goodvibes, #nigeria, #blackbeauty"
+  - username: "yaleofficial_"
+    fullname: >-
+      Y Δ L E
+    bio: >-
+      🎧 Club & Festival DJ 🎹 Electronic Music Producer 🎉 Owner @deepstatepro 📍 Durban, South Africa ✖️ ‘Star Sign’ available to stream/buy 👇🏻
+    location: "South Africa"
+    followers: 2573
+    engagement: 1109
+    commentsToLikes: 0.095246
+    id: ckf5mazsvt0dy0j23xlzias79
     verified: false
     hashtags: ""
-  - username: "tboydaflame"
-    fullname: >-
-      Thabo
-    bio: >-
-      Music Producer of Limpopo Champions League(Album) uBaba kaDuduzane, John Cena & many more Hits | DJ |
-    location: "South Africa"
-    followers: 12852
-    engagement: 1108
-    commentsToLikes: 0.048583
-    id: ck0w6ux42ae820i19nc5p0u4t
-    verified: false
-    hashtags: "#moneyheist, #toomuch"
-  - username: "jaggerkhalifa"
-    fullname: >-
-      Jagger Khalifa
-    bio: >-
-      🌍 Content Creator for Levi ,YDE, Glamour, Vogue and more! 🌏 South African kid with a dream to live to the fullest! ⬇ 🎤New music coming soon 🎼 ⬇
-    location: "South Africa"
-    followers: 29700
-    engagement: 468
-    commentsToLikes: 0.015717
-    id: ck600u61re9yj0i14cn82j6t3
-    verified: false
-    hashtags: ""
-  - username: "ashleighogle"
-    fullname: >-
-      Ashleigh Ogle 🦋
-    bio: >-
-      South African 🦋 Musician | Events & Entertainment 🎭🎬🎤🎥🩰
-    location: "South Africa"
-    followers: 49381
-    engagement: 314
-    commentsToLikes: 0.018597
-    id: ck5hlmtxlkhpp0i11a0xzymp5
-    verified: false
-    hashtags: "#position"
   - username: "iamdaskapital"
     fullname: >-
-      DAS KAPITAL
+      das kapital
     bio: >-
-      • musician / dj / designer / v.o. / host of #indaswetrust on @5fm / 🇿🇦 • dj bookings: seb@tenfoldagency.com click here for more everything ↙️
+      • musician / dj / designer / voice • host of #indaswetrust on @5fm • dj bookings: seb@tenfoldagency.com click here for more everything ↙️
     location: "South Africa"
-    followers: 12170
-    engagement: 407
-    commentsToLikes: 0.050236
+    followers: 12203
+    engagement: 375
+    commentsToLikes: 0.059070
     id: ck135v8u63ecx0i19vrf2smig
     verified: false
-    hashtags: "#kotd, #vintagestyle, #indaswetrust, #capetown"
+    hashtags: "#rescuedog, #madeinsouthafrica, #eatlocal, #capetown"
+  - username: "hollyreymusic"
+    fullname: >-
+      Holly Rey
+    bio: >-
+      Multi Platinum Award Winning South African Musician New Single #WannaBe is available Now
+    location: "South Africa"
+    followers: 39545
+    engagement: 157
+    commentsToLikes: 0.035215
+    id: ck5c3xe8k08bo0i11z08m3txz
+    verified: false
+    hashtags: "#baking, #sisters, #africaday, #stayhometogether"
   - username: "mathildamennen"
     fullname: >-
       Mathilda Mennen
     bio: >-
       Medical doctor + researcher Musician Morning person 📍Cape Town, SA
     location: "South Africa"
-    followers: 9957
-    engagement: 800
-    commentsToLikes: 0.016147
+    followers: 9850
+    engagement: 730
+    commentsToLikes: 0.016826
     id: ckap743rwijt20i78pesresv7
     verified: false
-    hashtags: "#sewamask, #savealife, #iprotectyou, #youprotectme"
-  - username: "iambriandsp"
-    fullname: >-
-      B R I A ND ES A I N TP E R N
-    bio: >-
-      Offical cast of @belowdeckbravo A SAF🇿🇦A traveling the World ~ MusicShare App ~
-    location: "South Africa"
-    followers: 41647
-    engagement: 124
-    commentsToLikes: 0.021698
-    id: ck6tozkcvgznj0j71n70fwtao
-    verified: false
-    hashtags: "#music, #bravotv, #tropical, #briandesaintpern"
+    hashtags: ""
   - username: "lura_criola"
     fullname: >-
       Lura
@@ -127,4 +91,40 @@ profiles:
     id: ck5zp9x48s9pp0i14506lbeb4
     verified: true
     hashtags: ""
+  - username: "dwsonofficial"
+    fullname: >-
+      Dwson
+    bio: >-
+      Producer/DJ bookings@blackmajor.co.za ______ Apple Music #Isgubhu
+    location: "South Africa"
+    followers: 20975
+    engagement: 638
+    commentsToLikes: 0.026170
+    id: ck5hj95ljg87t0i11eouy95ie
+    verified: false
+    hashtags: "#stayhomeedition, #linkinbio, #isgubhu, #30"
+  - username: "dlalathukzin"
+    fullname: >-
+      Chicago
+    bio: >-
+      ☎ +27 65 890 9792 / +27 79 438 1336 ✉ bookings@dlalarecords.co.za Permanent Music Ep ⤵️
+    location: "South Africa"
+    followers: 82028
+    engagement: 440
+    commentsToLikes: 0.014623
+    id: ck55ml6kr47on0i11vnzjdkvb
+    verified: false
+    hashtags: "#permanentmusicepii, #permanentmusicii, #dlalathukzin, #dlala"
+  - username: "iamnaakmusiq"
+    fullname: >-
+      Anga Makubalo 🇿🇦
+    bio: >-
+      Entrepreneur Award winning actor/musician @swishapparelsa| CEO @royalflushgin @lonsdalelondonza @huaweiza @npl_international Bookings 0783479273
+    location: "South Africa"
+    followers: 1793132
+    engagement: 118
+    commentsToLikes: 0.008949
+    id: ck15sx1xxf8h30i19zzrnue72
+    verified: true
+    hashtags: "#huaweimegasale, #huaweimatebookd15, #huaweiwatchgt2pro"
 ---

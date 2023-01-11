@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Vancouver in 2023
+title: Top 10 Fitness Instagram Influencers In Vancouver In 2023
 description: >-
-  Find top fitness Instagram influencers in Vancouver in 2023. Most popular hashtags: #vancouver #fitness #athlete #vancouverfitness.
+  Find top fitness Instagram influencers in Vancouver in 2023. Most popular hashtags: #vancouver #fitness #canada #vancity.
 platform: Instagram
-hits: 80
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 80 Instagram influencers like this in Vancouver, Canada for you to contact.
+hits: 44
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 44 Instagram influencers like this in Vancouver, Canada for you to contact.
 profiles:
+  - username: "alidaggerkhanjari"
+    fullname: >-
+      Ali Khanjari ( Dagger )
+    bio: >-
+      -International Muaythai(WMC)& Kickboxing(WAKO) Instructor -Bachelor of Kinesiology -co-own District Warrior gym 📍Vancouver-Canada 🇨🇦 📞+1778-855-3831
+    location: "Canada"
+    followers: 35672
+    engagement: 377
+    commentsToLikes: 0.052768
+    id: ck6trypyh1ue40j71lezmdj8n
+    verified: false
+    hashtags: "#vanfitfam, #thaiboxing, #vanfit, #vancouver"
+  - username: "stevibreezy"
+    fullname: >-
+      Stevi Schnoor
+    bio: >-
+      #theBULL 🏈3x🇺🇸 National 🏆, 1x🇨🇦 National 🏆 🏉🇨🇦Rugby League World Cup Athlete ‘17 💙Fulfilling my dreams while trying to inspire greatness in others
+    location: "Canada"
+    followers: 20710
+    engagement: 202
+    commentsToLikes: 0.060351
+    id: ck6uhok1oabma0j71bhar371d
+    verified: false
+    hashtags: "#nikewomen, #wellness, #nutrition, #nikeaddict"
   - username: "phaedrafitness"
     fullname: >-
       Phaedra Fitness
     bio: >-
-      Founder & CEO @vipfitnessandlifestyle 🖤 10+yr PT 🍑 Glute Specialist
+      Founder & CEO @vipfitnessandlifestyle 🖤
     location: "Canada"
-    followers: 207128
-    engagement: 222
-    commentsToLikes: 0.025541
+    followers: 204190
+    engagement: 217
+    commentsToLikes: 0.027269
     id: ck15r3dcd5xui0i195ny3gv86
     verified: false
-    hashtags: "#fitnessjourney, #bossbabe, #fitnessgirl, #allblackeverything"
-  - username: "tianna.abr"
+    hashtags: "#fitnessjourney, #bossbabe, #fitnessgirl, #crophoodie"
+  - username: "kym.lifts"
     fullname: >-
-      Tianna
+      Online Transformation Coach
     bio: >-
-      Mama to Miss London Rose 💕 📍Vancouver
+      Get FIT, get LEAN, get STRONG, get to the NEXT LEVEL ⚡️ @thebarvancouver_ physique & performance trainer ⚡️ @hammerfitness 👙 Apply for coaching👇🏽
     location: "Canada"
-    followers: 6826
-    engagement: 366
-    commentsToLikes: 0.071239
-    id: ck8tasxhesx7w0j78zwivkjuf
+    followers: 5820
+    engagement: 442
+    commentsToLikes: 0.056323
+    id: ckapc9tbw2ypm0i787oi9cbo1
     verified: false
-    hashtags: "#gymlife, #elevatedlifestyle, #homeworkouts, #vancouverfitness"
-  - username: "praisevaughn"
+    hashtags: "#fitnessmotivation, #lifetimenatural, #iwontjudgeyou, #posedvsrelaxed"
+  - username: "vancityplus"
     fullname: >-
-      Praise Vaughn
+      Vancity+
     bio: >-
-      Courage. Compassion. Connection. 👉🏽 2 Timothy 1:7 🙌🏽 👊🏽 Learn to Box 👊🏽
+      Vancouver BC 🇨🇦 We Repost 🔄 Use Hashtag #vancityplus to get your content reposted with us
     location: "Canada"
-    followers: 17020
-    engagement: 424
-    commentsToLikes: 0.056641
-    id: ck6tk1qdc3u3e0j71y20xt5vc
+    followers: 100380
+    engagement: 16
+    commentsToLikes: 0.003226
+    id: ck9havcgyeap40j78izhimp1v
     verified: false
-    hashtags: "#fightcapital, #vancouverboxing, #sausagedog, #vancity"
-  - username: "jorden.hall"
-    fullname: >-
-      JORDEN | Fun Times & Workouts
-    bio: >-
-      The faster you run! the faster you’re done. ✖️| Heptathlete 🇨🇦 ✖️|188k on TikTok @ jorden_hall ✖️| Jorden.hall@icloud.com 👇🏼Check this out👇🏼
-    location: "Canada"
-    followers: 12685
-    engagement: 526
-    commentsToLikes: 0.016851
-    id: ck0txua9tkggn0i19oco0beol
-    verified: false
-    hashtags: "#shotput, #running, #athletelife, #canadian"
-  - username: "mtsinkorang"
-    fullname: >-
-      MATT TSINKORANG 🇨🇦🇬🇭🇺🇦
-    bio: >-
-      🥇2 X MR. CANADA Bodybuilding Champ 👨🏽‍💼 CEO & Entrepreneur 🍽 @wearepremiummeals Owner ☣️ @mutantnation TSINK20 👨🏽‍💻 Prep Coach 🇨🇦 Vancouver Canada
-    location: "Canada"
-    followers: 26102
-    engagement: 367
-    commentsToLikes: 0.049374
-    id: ck6tvb178l73f0j71z3bgp0k1
-    verified: false
-    hashtags: "#vancouver, #vancouvermealprep, #bodybuilding, #mealprep"
+    hashtags: "#vancouvervideographer, #vancouverweddingphotographer, #britishcolumbia, #vancouvertattooartist"
   - username: "wil.loh"
     fullname: >-
       WILSON LOH | VANCOUVER FITNESS
     bio: >-
       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀💫 To motivate and Inspire Ascend Aesthetically ▪️| Team @1upnutrition ‘WILLOH’ for 20% off ▪️| Natural Bodybuilder ▪️| Vancouver, B.C
     location: "Canada"
-    followers: 11283
-    engagement: 1253
-    commentsToLikes: 0.040637
+    followers: 10792
+    engagement: 1309
+    commentsToLikes: 0.040569
     id: ckap4u9908wjn0i78sn655hv2
     verified: false
-    hashtags: "#gymshark, #1upnutrition, #1up, #legday"
-  - username: "georginastokes"
+    hashtags: "#1up, #1upnutrition, #gymshark, #homeworkout"
+  - username: "angelicaalmirol"
     fullname: >-
-      Georgina Stokes | Vancouver
+      𝐀𝐍𝐆𝐄𝐋𝐈𝐂𝐀 𝐀𝐋𝐌𝐈𝐑𝐎𝐋
     bio: >-
-      💗 Lifestyle - Travel - Fitness - Adventure 📍Vancouver 🇨🇦 & London 🇬🇧 💍 Newly engaged & planning our wedding! 🙊 Makin’ you smile on stories // BLOG 👇🏽
+      #Vancouver , BC Fitness & Lifestyle CPT ✨
     location: "Canada"
-    followers: 29155
-    engagement: 265
-    commentsToLikes: 0.211714
-    id: ck0u2m58p0bft0i19mptc9k27
+    followers: 8806
+    engagement: 507
+    commentsToLikes: 0.053664
+    id: ck6u70c8ciqdx0j711klpwl0e
     verified: false
-    hashtags: "#canada, #lornajane, #activeliving, #ad"
-  - username: "lifewithimran"
+    hashtags: "#dyegift, #teamboandtee, #gifted, #nvgtn"
+  - username: "hopsnscrubs"
     fullname: >-
-      Imran Rai✨| Blogger
+      Davon Ehlner
     bio: >-
-      MODEL | LIFESTYLE | FITNESS | FOOD 📍Vancouver, BC Signed to • Jäger Models
+      2 RN’s and a Fitness Guru from Vancouver, BC. Weekly stories/comics/short films! 😀🍻
     location: "Canada"
-    followers: 3234
-    engagement: 1311
-    commentsToLikes: 0.051582
-    id: ckapbzsev1x4c0i780qd4fewz
+    followers: 3276
+    engagement: 1052
+    commentsToLikes: 0.197625
+    id: ck0w31n5mr6fk0i19r1e9k0l2
     verified: false
-    hashtags: "#quarantine"
-  - username: "alidaggerkhanjari"
+    hashtags: "#stout, #funnycomics, #beerporn, #beertography"
+  - username: "alicia.waters"
     fullname: >-
-      Dagger
+      Alicia Waters
     bio: >-
-      -Int.Muaythai(WMC) Coach -Int Kickboxing(WAKO) Coach -Bachelor of Kinesiology -co-own District Warrior gym 📍Vancouver-Canada 🇨🇦 📞+1778-855-3831
+      Sharing snapshots of life’s endless adventures, healthy & balanced living and passion for things I love✨ Girl mama💗 📍Vancouver, Canada
     location: "Canada"
-    followers: 35947
-    engagement: 320
-    commentsToLikes: 0.023282
-    id: ck6trypyh1ue40j71lezmdj8n
+    followers: 1901
+    engagement: 522
+    commentsToLikes: 0.071038
+    id: ck0w31vv3r7n80i19w7s8n0ir
     verified: false
-    hashtags: "#mindset, #kickboxingworkout, #faith, #martialarts"
-  - username: "vancouversveryown"
+    hashtags: "#summervibes, #outdooradventures, #vancouverhikes, #healthyeating"
+  - username: "yandjii"
     fullname: >-
-      Brandon Nair | DJ Nizzy 🇫🇯🌺
+      YANDJI💋 (yan-gee)
     bio: >-
-      Sponsored by @ufcgymbc x @therawunite Team BC Athlete | Coach⚽️ Personal Trainer 💪🏽 DJ🎧
+      ‘WAVY’ out on ALL platforms 💎 Your favourite trouble maker 😈 If not me, then who? Click below!
     location: "Canada"
-    followers: 6683
-    engagement: 776
-    commentsToLikes: 0.045185
-    id: ck13b1trvt9wo0i19cb8j91bu
+    followers: 12450
+    engagement: 1608
+    commentsToLikes: 0.069798
+    id: ckap5p95ocl1t0i78oxtkk7dh
     verified: false
-    hashtags: "#l4l, #vancitybuzz, #vancouverevents, #instagood"
+    hashtags: "#music, #explorepage, #blackwoman, #exploremore"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Phoenix in 2023
+title: Top 10 Food Instagram Influencers In Phoenix In 2023
 description: >-
-  Find top food Instagram influencers in Phoenix in 2023. Most popular hashtags: #arizona #phoenix #food #eeeeeats.
+  Find top food Instagram influencers in Phoenix in 2023. Most popular hashtags: #phoenix #food #dessert #arizona.
 platform: Instagram
-hits: 37
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 37 Instagram influencers like this in Phoenix, United States for you to pitch.
+hits: 45
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 45 Instagram influencers like this in Phoenix, United States for you to contact.
 profiles:
-  - username: "azcentral"
+  - username: "the.cocco.channel"
     fullname: >-
-      azcentral
+      Brittney Cocco|Phx Blogger
     bio: >-
-      Telling stories one photo at a time • Tag us via #azcentral or #xaz • Witnesses of Westgate shooting in Glendale describe shock, chaos:
+      Helping ladies dress their bods with confidence! Fashion, beauty, food, & adventure. Small biz enthusiast Phoenix, AZ 💌 thecoccochannel@gmail.com
     location: "United States"
-    followers: 91822
-    engagement: 132
-    commentsToLikes: 0.108499
-    id: ck8wedvx3dwyz0j78c8pgnjwi
-    verified: true
-    hashtags: "#coronavirus, #reopening, #nurses, #arizona"
+    followers: 11695
+    engagement: 197
+    commentsToLikes: 0.237786
+    id: ck5ho4s9voxo70i11fn9yk30n
+    verified: false
+    hashtags: "#girlswithcurves, #alifeconscious, #creativecontentcreation, #midsizefashionblogger"
   - username: "thebiteshot"
     fullname: >-
       Joanie Simon
     bio: >-
-      Food Photographer, blogger and teacher🌵 Phoenix, AZ #thebiteshot
+      📸Food photographer, teacher, YouTuber. 🌵Phoenix, AZ #thebiteshot
     location: "United States"
-    followers: 103544
-    engagement: 462
-    commentsToLikes: 0.027033
+    followers: 138994
+    engagement: 316
+    commentsToLikes: 0.046138
     id: ck0ueekj7l3l40i19xlvuwcca
     verified: true
-    hashtags: "#feedfeed, #foodblogeats, #foodphotography, #foodbloggerpro"
+    hashtags: "#thebiteshot, #foodphotography, #nikonnofilter, #sedona"
+  - username: "letthemeatthis"
+    fullname: >-
+      Let Them Eat This (Chelsey)
+    bio: >-
+      🏜 AZ food, travel & experience blogger 🌍 🎵 175k+ on Tik Tok 🎵 👑 Yelp elite 6 yrs 📝 📸 @bestfoodphoenix influencer 📷 ✉ Dm/email for collabs 📧 #azfoodie
+    location: "United States"
+    followers: 23980
+    engagement: 218
+    commentsToLikes: 0.123880
+    id: ck5znhq44ohix0i14lsb259c8
+    verified: false
+    hashtags: "#chocolate, #treatyoself, #foodie, #prescottarizona"
   - username: "slowroasted"
     fullname: >-
       The Slow Roasted Italian
     bio: >-
       Chad & Donna Elick Phoenix Foodies 🔥 Simple Recipes, Food & Travel 📲 Tag pics @slowroasted More Fabulous Recipes↓↓↓
     location: "United States"
-    followers: 70234
-    engagement: 55
-    commentsToLikes: 0.012985
+    followers: 71905
+    engagement: 37
+    commentsToLikes: 0.014148
     id: ck5hpw18gs2cb0i118haqy0wh
     verified: false
-    hashtags: "#food, #yumm, #homemade, #crockpot"
-  - username: "morganfigge"
+    hashtags: "#yum, #cooking, #nomnom, #christmascookies"
+  - username: "ifindfood"
     fullname: >-
-      M O R G A N  F I G G E
+      RANDY | OREGON + SO CAL FOODIE
     bio: >-
-      MY LIFE THROUGH PHOTOS • Theme Parks • Movies • Food • Taco Bell •
+      🕵️‍♂️ Finding tasty food and showing it here for you 🎖 Yelp Elite Black Badge 2017-2021 🖊 @zipkick @bestfoodfeed @palateconnect 📧 ifindfood@yahoo.com
     location: "United States"
-    followers: 10080
-    engagement: 1028
-    commentsToLikes: 0.035854
-    id: ck9hbppa2hxmf0j78do779hmm
+    followers: 6688
+    engagement: 438
+    commentsToLikes: 0.131667
+    id: ck13ctefa22a00i19x6j2fgl6
     verified: false
-    hashtags: "#modeling, #fitness, #vote, #disneyworld"
-  - username: "801.moto.chic"
+    hashtags: "#abqeats, #yelpoc, #yelpabq, #ocfood"
+  - username: "karsynkdupree"
     fullname: >-
-      S H A I L A  R A Y
+      karsyn dupree 🌼
     bio: >-
-      Content Creator | Marketing Food + Fitness PHX All Day 🌵 Proud American 🇺🇸
+      ☀️lover of decor, vegan food, and plants 🌱 #dupreedwelling ✨mama to sage & phoenix (+ 1 on the way)
     location: "United States"
-    followers: 25906
-    engagement: 526
-    commentsToLikes: 0.026018
-    id: ck5zzt0ywcdhq0i14xjraim08
+    followers: 19455
+    engagement: 485
+    commentsToLikes: 0.043786
+    id: ck136dh0s5y8l0i19daarkile
     verified: false
-    hashtags: "#americanmuscle, #motivation, #az, #motivationalquotes"
-  - username: "ourbully"
+    hashtags: "#wldrnessahome, #myspoak, #spoakdecor, #jungalowstyle"
+  - username: "ultimonaufrago75"
     fullname: >-
-      Miss Stella 🎀
+      ultimonaufrago
     bio: >-
-      Lover of food and cuddles🐖💟 March 30,2009🎂
+      Adm. @bestpugliapics Ⓜ️ raw_community asi_es_selfie total_boat phoenix_mission / hdr world_great addicted_to_details photo_beaches colors_photogroup
     location: "United States"
-    followers: 18503
-    engagement: 237
-    commentsToLikes: 0.105757
-    id: ck6to1f05bkb20j71vc7jicve
+    followers: 4121
+    engagement: 949
+    commentsToLikes: 0.089513
+    id: ck55nfows63vy0i11qg110ee7
     verified: false
-    hashtags: "#beachdoggy, #californiadogs, #nannerfest2020, #englishbullterrier"
-  - username: "hungryhugh"
-    fullname: >-
-      Food & Travel with Hugh Harper
-    bio: >-
-      Food | Travel | Fitness | Lifestyle | 🇺🇸🇵🇭 📍Los Angeles 📧: kuyameztizo@gmail.com DM or email for business collaborations/inquiries
-    location: "United States"
-    followers: 542421
-    engagement: 287
-    commentsToLikes: 0.012299
-    id: ck0u0qcshul1c0i19hfy3fzyr
-    verified: false
-    hashtags: "#eater, #orangecounty, #glendale, #lagram"
-  - username: "panthereats"
-    fullname: >-
-      PANTHER ◠ ARIZONA FOODIE
-    bio: >-
-      BRB ⋒ I help food lovers & experience hunters discover the BEST in AZ & KS. ⋒ Panth3reats@gmail.com ↓ FOLLOW ME ON TIKTOK
-    location: "United States"
-    followers: 2920
-    engagement: 1111
-    commentsToLikes: 0.449137
-    id: ck6trsxep0wpe0j71lpncj46p
-    verified: false
-    hashtags: "#arizonastateuniversity, #arizonafoodie, #phxfoodculture, #scottsdalearizona"
+    hashtags: "#new, #europeanskies365, #world, #nonveniteinpuglia"
   - username: "tonygrowsfood"
     fullname: >-
       Tony Kasowski
     bio: >-
       Growing food with integrity and helping others do the same. Edible landscape and urban farm consultant, developer & educator. Hello@normalgardens.com
     location: "United States"
-    followers: 20643
-    engagement: 204
-    commentsToLikes: 0.044404
+    followers: 21952
+    engagement: 206
+    commentsToLikes: 0.048533
     id: ck9weuf3rlvkz0j78mlz3qdj4
     verified: false
-    hashtags: "#permaculture, #plants, #garden, #beforeandafter"
-  - username: "azfoodie"
+    hashtags: "#foraging, #permaculture, #mushrooms, #timelapse"
+  - username: "steves_shaves"
     fullname: >-
-      The Original Arizona Foodie ™️
+      Steven M.
     bio: >-
-      Arizona Foodie Diana Brandt Venmo diana-brandt-2 Zagat Award recipient 🥇 Voted best food blog 🍰 Voted Acclaimed Industry Instagrammer 🍩
+      Queens, N.Y. - Father, Husband, Traditional Wet Shaving Aficionado, Audiophile, Food & Liquor Connoisseur, Friend to Dogs. 🇺🇸🇩🇪
     location: "United States"
-    followers: 127124
-    engagement: 125
-    commentsToLikes: 0.080686
-    id: ck0tx4vbrhxbb0i19n9xaiwm5
+    followers: 2189
+    engagement: 1156
+    commentsToLikes: 0.056943
+    id: ck9hbkfezh83w0j78k26jyl6p
     verified: false
-    hashtags: "#venmochallenge, #azfoodie, #myphx, #freshforeveryone"
+    hashtags: "#shavelikeyourgrandpa, #wetshaveloyalists, #manstyle, #paladin"
+  - username: "mrdavidduran"
+    fullname: >-
+      David Duran
+    bio: >-
+      World Traveler. Food & Travel Writer. Vegan. Dogtopian Doodle Dad. Member of the Alphabet Mafia.
+    location: "United States"
+    followers: 52240
+    engagement: 55
+    commentsToLikes: 0.024717
+    id: ck6ttat3y9k8x0j71rma5zt0x
+    verified: false
+    hashtags: "#pipertheladydoodle, #goldendoodle, #dtphx, #dttucson"
 ---

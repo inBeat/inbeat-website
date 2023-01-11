@@ -1,24 +1,48 @@
 ---
-title: Top 10 TikTok Influencers In Miami in 2023
+title: Top 10 TikTok Influencers In Miami In 2023
 description: >-
-  Find top TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #foryou #duet.
+  Find top TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #foryou #greenscreen.
 platform: TikTok
-hits: 1221
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 1221 TikTok influencers like this in Miami, United States for you to pitch.
+hits: 1457
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 1457 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
+  - username: "kingpang_"
+    fullname: >-
+      Ajay
+    bio: >-
+      Miami
+    location: "United States"
+    followers: 17400
+    engagement: 1391
+    commentsToLikes: 0.087118
+    id: ckafu39le8m7y0i78smf3k9aw
+    verified: false
+    hashtags: "#fy, #4u, #fyp, #kingpang"
   - username: "sophiaaortega"
     fullname: >-
       sophhh
     bio: >-
       miami
     location: "United States"
-    followers: 18800
-    engagement: 1181
-    commentsToLikes: 0.037256
+    followers: 18400
+    engagement: 1122
+    commentsToLikes: 0.039465
     id: ck95v931ox8tf0j789tgkj043
     verified: false
-    hashtags: "#fyp, #greenscreen, #duet"
+    hashtags: "#stitch, #greenscreen"
+  - username: "lmaolaura"
+    fullname: >-
+      Laura Cordero
+    bio: >-
+      miami
+    location: "United States"
+    followers: 2105
+    engagement: 1501
+    commentsToLikes: 0.020857
+    id: ckcjd1a9i9toh0j237xa44qwd
+    verified: false
+    hashtags: "#italy, #travel, #foryou, #tulum"
   - username: "nataliacobiella"
     fullname: >-
       natii
@@ -30,101 +54,77 @@ profiles:
     commentsToLikes: 0.037374
     id: ckcdz3167h03n0j23kk14ar5j
     verified: false
-    hashtags: "#fyp, #foryou, #miami, #school"
-  - username: "yanna.6"
+    hashtags: "#miami, #foryou, #fyp, #nicertome"
+  - username: "baby.yanx"
     fullname: >-
       Yanna Mazo
     bio: >-
       MIAMI 🪐
     location: "United States"
-    followers: 11400
-    engagement: 1166
-    commentsToLikes: 0.009125
+    followers: 13700
+    engagement: 1202
+    commentsToLikes: 0.013943
     id: ck9keg82cyp8h0j78n30gabo9
     verified: false
-    hashtags: "#foryoupage, #foryou, #fyp, #greenscreenvideo"
-  - username: "isaiah_velez"
-    fullname: >-
-      ᶻᴬᵞ
-    bio: >-
-      miami
-    location: "United States"
-    followers: 12900
-    engagement: 695
-    commentsToLikes: 0.032626
-    id: ckb9l8f4fdp5d0j23t8sqrocf
-    verified: false
-    hashtags: "#viral, #fyp, #miami, #90s"
-  - username: "skelllllyyy"
-    fullname: >-
-      skellly
-    bio: >-
-      miami
-    location: "United States"
-    followers: 2307
-    engagement: 1664
-    commentsToLikes: 0.010904
-    id: ckcuwxlx3luz10j237048twsc
-    verified: false
-    hashtags: "#xyzbca, #foryoupage, #meetmypet, #shake"
+    hashtags: "#colorcustomizer, #fyp, #greenscreen, #greenscreenvideo"
   - username: "luisrxdriguez"
     fullname: >-
       luisrxdriguez
     bio: >-
       Miami
     location: "United States"
-    followers: 4723
-    engagement: 766
-    commentsToLikes: 0.048563
+    followers: 5070
+    engagement: 1192
+    commentsToLikes: 0.028199
     id: ckcuwufdgltu00j23lvy93h5n
     verified: false
-    hashtags: "#fit, #powerlifting, #fyp, #transformation"
+    hashtags: "#letsfaceit, #gym, #fit, #strengthtraining"
+  - username: "skelllllyyy"
+    fullname: >-
+      skellly
+    bio: >-
+      miami
+    location: "United States"
+    followers: 2258
+    engagement: 1128
+    commentsToLikes: 0.045067
+    id: ckcuwxlx3luz10j237048twsc
+    verified: false
+    hashtags: "#fyp, #miami, #florida, #goingpro"
+  - username: "ojeraana"
+    fullname: >-
+      anita
+    bio: >-
+      BLM 1111 miami
+    location: "United States"
+    followers: 7166
+    engagement: 2694
+    commentsToLikes: 0.104124
+    id: ckb9f4ok2369w0j23abneisi9
+    verified: false
+    hashtags: "#greenscreen"
   - username: "pinkybbeauty"
     fullname: >-
       Pinky B Beauty
     bio: >-
       🌴MIAMI, Fl 📸Insta: PinkyBBeauty P.O. Box 126336 Hialeah Fl, 33012
     location: "United States"
-    followers: 31600
-    engagement: 2321
-    commentsToLikes: 0.130622
+    followers: 31400
+    engagement: 2225
+    commentsToLikes: 0.099381
     id: ckck6lmxprxl60j23lobo7tkz
     verified: false
-    hashtags: ""
-  - username: "sammdiazz"
-    fullname: >-
-      samdiazz
-    bio: >-
-      miami im famous😎😎 sc: sam.diazz1
-    location: "United States"
-    followers: 10100
-    engagement: 2297
-    commentsToLikes: 0.076495
-    id: ckdnvn3g6owis0j234j1wswll
-    verified: false
-    hashtags: "#greenscreenvideo, #fyp, #colorcustomizer, #mybff"
-  - username: "snaps4real"
-    fullname: >-
-      Snaps
-    bio: >-
-      17 | Miami🌴 It B Like Sometimes My G
-    location: "United States"
-    followers: 35500
-    engagement: 2123
-    commentsToLikes: 0.067571
-    id: ck9789nbt76030j78i96ce19y
-    verified: false
-    hashtags: "#foryou, #fyp, #duet, #relationship"
+    hashtags: "#bustitchallenge"
   - username: "willmiami6"
     fullname: >-
       Guillermo Morales
     bio: >-
       🏳️‍🌈 Will in Miami Venmo: willmiami6 because why not 😂 Put you 1st ♥️
     location: "United States"
-    followers: 15400
-    engagement: 1828
-    commentsToLikes: 0.109311
+    followers: 17400
+    engagement: 1836
+    commentsToLikes: 0.115474
     id: ckac3l4ekblsm0i7823a2pdmx
     verified: false
-    hashtags: "#yougotthis, #gaymenoftiktok, #halloween, #lgbt"
+    hashtags: "#gay, #yearontiktok, #stitch, #bitch"
 ---

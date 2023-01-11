@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Barcelona in 2023
+title: Top 10 Food Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top food Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #foodie #food #foodporn.
+  Find top food Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #foodporn #food #foodie.
 platform: Instagram
-hits: 101
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 101 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 61
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 61 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "ryelondon"
-    fullname: >-
-      Holly Wulff Petersen
-    bio: >-
-      photographer. chef. mama travel - lifestyle - food barcelona / london
-    location: "Spain"
-    followers: 27409
-    engagement: 130
-    commentsToLikes: 0.025549
-    id: ck5capalhdv2r0i11a3q0hg4f
-    verified: false
-    hashtags: "#fromthearchives, #onthejournal"
-  - username: "davidpr1990"
-    fullname: >-
-      David Palacios Rubio
-    bio: >-
-      Journalist | Travel&Food | Barcelona. #luxurylifestyle #staycation #hospitality #finedining
-    location: "Spain"
-    followers: 20919
-    engagement: 276
-    commentsToLikes: 0.001102
-    id: ck6tj8rcd28850j710gn8jpi0
-    verified: false
-    hashtags: "#foodiegram, #alcohol, #traveltheworld, #picoftheday"
-  - username: "menjatbarcelona"
-    fullname: >-
-      Menja't Barcelona
-    bio: >-
-      Enamorats de la #gastronomia 🍷#Barcelona 👫Natàlia i Roger 📱Fotos amb Xiaomi Mi8 #️⃣ Comparteix amb #menjatbarcelona
-    location: "Spain"
-    followers: 29756
-    engagement: 129
-    commentsToLikes: 0.097763
-    id: ckaorzpjnphs70i7809f8b3xd
-    verified: false
-    hashtags: "#menjatbarcelona, #foodie, #instafood, #tasty"
   - username: "nicetomeetyoufoodie"
     fullname: >-
       Nice to meet you foodie 😋
     bio: >-
       🍽 Voy a donde sea si hay comida 📍Barcelona y alrededores 👇 Mapa de restaurantes
     location: "Spain"
-    followers: 8292
-    engagement: 529
-    commentsToLikes: 0.038226
+    followers: 8143
+    engagement: 517
+    commentsToLikes: 0.044946
     id: ck1371c7q9aqi0i19gpe9et48
     verified: false
-    hashtags: "#restaurantesbcn, #barcelona, #foodporn, #foodtrip"
-  - username: "barbaraders"
+    hashtags: "#comidagourmet, #restaurantesbarcelona, #food, #instafood"
+  - username: "back_dox"
     fullname: >-
-      Barbaraders - Content Creator
+      Back_dox
     bio: >-
-      ➳ BCN📍| COSTA BRAVA 🌊 | TARIFA ⚓️ ➳ barbaraderobles@hotmail.com ➳ Brand Ambassador ➳ Social Media Strategist ➳ Lifestyle | Fashion | Travel | Beauty
+      🇪🇸 Barcelona 🌍 Travel 🌈 ⚡️Lifestyle 🍴Food
     location: "Spain"
-    followers: 36435
-    engagement: 175
-    commentsToLikes: 0.361002
-    id: ck0ubmkylexqb0i19fwg46n1w
+    followers: 51965
+    engagement: 218
+    commentsToLikes: 0.079298
+    id: ck15q5pbm18c50i19wez82wci
     verified: false
-    hashtags: "#photography, #fashionista, #streetstyle, #style"
-  - username: "andreina_p"
+    hashtags: "#hotelesconencanto, #barcelonalovers, #bcnmoltmes, #barcelonaexperience"
+  - username: "guiaramonin"
     fullname: >-
-      Andreina Peñaloza
+      🥘Guia Ramonin By Ramon Portet
     bio: >-
-      🏝 Soy del Caribe 🇻🇪 📍 Vivo en #Barcelona 🇪🇸 💙 Periodista 🏄🏾‍♀️ y Profe 🤓 de Redes Sociales 🌺 Aventuras + Marketing Digital 🙌🏽 Mi página web 👇🏽
+      🌍Based In #catalunya 🔸Guía de arroces 🧐+ Recetas📝 🔸Todos me los he comido yo🥄😋 🔸Any suggestions and/or collaboration?📩or DM 🌍👇Interactive map🥘🚶‍♀️
     location: "Spain"
-    followers: 39402
-    engagement: 153
-    commentsToLikes: 0.093386
-    id: ck6tpq0culo5y0j715s3gny0z
+    followers: 35590
+    engagement: 256
+    commentsToLikes: 0.146956
+    id: ck15q5k7h17jf0i19dje9p44n
     verified: false
-    hashtags: "#surfcamp, #kite, #urbansportsclub, #cayenaproyect"
+    hashtags: "#bentrobats, #riceagainsthemachine, #arroscat, #barcelona"
+  - username: "gabbyrucci"
+    fullname: >-
+      GABBY RUCCI💖 Ourglam.com
+    bio: >-
+      🌵Happy #lifestyle🌵 Tips de Belleza🔹Moda🔸Makeup 29K Youtube |Emprendedora💎 💫 Unidas somos magia💫 📩info@ourglam.com #monatespaña #influencerespaña
+    location: "Spain"
+    followers: 26422
+    engagement: 257
+    commentsToLikes: 0.029000
+    id: ck5ztj8yx0ioi0i14y42m29t7
+    verified: false
+    hashtags: "#influencerbarcelona, #monat, #blondie, #fitgirl"
   - username: "inandoutbarcelona"
     fullname: >-
       IN and OUT Barcelona
     bio: >-
-      👋🏻 We’re Stefania & Andreu 🍉 Here we share our fav EAT&DRINK places and things TO DO in Bcn 🥡 Delivery & Take Away Restaurants👇🏼
+      👋🏻 We’re Stefania & Andreu 🍉 Since 2012 sharing our favorite EAT&DRINK places and things TO DO in Bcn. 📌BODEGAS CASTIZAS BARCELONA 👇🏻
     location: "Spain"
-    followers: 27313
-    engagement: 235
-    commentsToLikes: 0.101942
+    followers: 28250
+    engagement: 223
+    commentsToLikes: 0.058632
     id: ck8t0ekdvrsst0j78sjvtchh1
     verified: false
-    hashtags: "#pugliagram, #bcnrestaurants, #weareinpuglia, #verso"
+    hashtags: "#supportsmallbusiness, #barcelona, #inandoutbarcelona, #shoplocal"
   - username: "irenecocinaparati"
     fullname: >-
       Irene cocina para ti
     bio: >-
       📍Barcelona. Food blogger 🖋. Recetas 📝Gastronomía 🍴Fotografía 📸📱. 📩 irenecocinaparati@gmail.com . 👇🏻RECETAS Y MI WEB 👇🏻
     location: "Spain"
-    followers: 43539
-    engagement: 463
-    commentsToLikes: 0.349567
+    followers: 46607
+    engagement: 485
+    commentsToLikes: 0.196074
     id: ck5hhqgrr9l7o0i116joeraph
     verified: false
-    hashtags: "#photooftheday, #receta, #gloobyfood, #barcelonafoodie"
-  - username: "jacksflavours"
+    hashtags: "#theweekoninstagram, #recipeoftheday, #storyofmytable, #photooftheday"
+  - username: "sofiamchef6"
     fullname: >-
-      Jack
+      Sofia MasterChef
     bio: >-
-      🌕Health Chef 👨‍🍳 🌘Coach transpersonal 🌔Youtuber 🌏@jackarribas 📩 jacksflavours@gmail.com #jacksflavours Canal en Youtube 👇
+      Cuenta oficial de Sofia Janer: Food🍳, Reviews📍& Lifestyle📸 Estudiando en @latelierbarcelona✨ Curso online en @theplaycook🍰 Pastelera en @ladramerie❣️
     location: "Spain"
-    followers: 22786
-    engagement: 429
-    commentsToLikes: 0.236116
-    id: ck6ty9fa22evr0j71kliadtre
-    verified: false
-    hashtags: "#food, #vegan, #barcelona, #trueitaliantaste"
-  - username: "guiaramonin"
+    followers: 63017
+    engagement: 509
+    commentsToLikes: 0.114771
+    id: ck5cgf7rxopv50i11kd9l8f5f
+    verified: true
+    hashtags: "#recetasfaciles, #sweet, #ad, #chocolate"
+  - username: "barcelonainspira"
     fullname: >-
-      Arròs 🥘Guia Ramonin
+      Barcelona Inspira by Anita
     bio: >-
-      🙋🏻‍♂️Ramon Portet 🔹Vaig als restaurants a tastar 😋els seus arrossos 🥘 i els valoro🧐. 🔹Vols que vingui al teu? 🔹guiaramonin@gmail.com 📩 o DM 🌍MAPA🥘👇
+      ❤️ In love with Barcelona 🙋🏼‍♀️ #Barcelonainspira 💪🏼𝒄á𝒏𝒄𝒆𝒓 𝒔𝒖𝒓𝒗𝒊𝒗𝒆𝒅 📩info@barcelonainspira.net
     location: "Spain"
-    followers: 32676
-    engagement: 292
-    commentsToLikes: 0.073946
-    id: ck15q5k7h17jf0i19dje9p44n
+    followers: 42152
+    engagement: 103
+    commentsToLikes: 0.078379
+    id: ck0vwawmhsvps0i197wwotb5a
     verified: false
-    hashtags: "#photooftheday, #barcelona, #gastronomia, #paella"
+    hashtags: "#barcelonacity, #catalunyaexperience, #foodie, #home"
+  - username: "aina.simon"
+    fullname: >-
+      AINA SIMON
+    bio: >-
+      Fashion • Food • Travel ✈️ | Barcelona - Madrid| 💌 ainasimonm@gmail.com
+    location: "Spain"
+    followers: 332763
+    engagement: 842
+    commentsToLikes: 0.005175
+    id: ck0vyy6sp6d680i19gk2enc5c
+    verified: false
+    hashtags: "#primania, #embajadoraprimark, #iworkwithprimark, #adikagirls"
+  - username: "j_morera"
+    fullname: >-
+      Jordi Morera
+    bio: >-
+      WORLD BAKER 2017 Inconformista 📍L'Espiga d'Or @lespigadorvilanova - Vilanova i la Geltrú 📍Espícula @espicula_andorra - Andorra 📍Mercat d'Autors - BCN
+    location: "Spain"
+    followers: 61976
+    engagement: 363
+    commentsToLikes: 0.037521
+    id: ck15uzjykp7wk0i19njc70w8c
+    verified: false
+    hashtags: "#panettone, #pastry, #sourdough, #foodporn"
 ---

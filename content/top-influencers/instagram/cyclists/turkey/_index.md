@@ -1,60 +1,48 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Turkey in 2023
+title: Top 10 Cyclists Instagram Influencers In Turkey In 2023
 description: >-
-  Find top cyclists Instagram influencers in Turkey in 2023. Most popular hashtags: #bisiklet #istanbul #cycling #cyclinglife.
+  Find top cyclists Instagram influencers in Turkey in 2023. Most popular hashtags: #cycling #bisiklet #cyclist #bike.
 platform: Instagram
-hits: 10
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 10 Instagram influencers like this in Turkey for you to pitch.
+hits: 11
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in Turkey for you to contact.
 profiles:
-  - username: "serhatkaradagofficial"
-    fullname: >-
-      Serhat Karadağ
-    bio: >-
-      Music Producer 🎹 Happy Camper 🏕 - Off Road 🚜 Cyclist 🚵‍♀️🚴🏻‍♂️ Alpinist 🏡 - Photography 📸🎥 Spotify & Itunes 👇🏻
-    location: "Turkey"
-    followers: 12103
-    engagement: 400
-    commentsToLikes: 0.106057
-    id: ck5ca41jncno20i1123hh6zv1
-    verified: false
-    hashtags: "#moodygrams, #lazyshutters, #milkyway, #earthpix"
   - username: "kadir_kelleci_"
     fullname: >-
-      🏁KadirKelleci🇹🇷
+      🇹🇷Kadir Kelleci🇹🇷
     bio: >-
-      🚩4xTurkish Champion🇹🇷 🚩Professional Cyclist 🇹🇷 🚩Olympic and World Cup Riders 🇪🇺
+      🚩5xTurkish MTB Champion🇹🇷 🚩Pro MTB and ROAD Cyclist 🇹🇷 🚩Olympic Riders 🇪🇺
     location: "Turkey"
-    followers: 17650
-    engagement: 530
-    commentsToLikes: 0.025369
+    followers: 18857
+    engagement: 576
+    commentsToLikes: 0.020713
     id: ckaoule6y0rxj0i782wo6o87h
     verified: false
-    hashtags: "#fethiye, #mtb, #ridekelleci, #mtbgram"
+    hashtags: "#gopro, #turkey, #ridelife, #newrace"
+  - username: "asladurma"
+    fullname: >-
+      Fatih Topçu
+    bio: >-
+      Mobilite ile Kanseri yenen Müge Daştan’In Mobilsen Özgürsün hikayesi için linke tıklayın
+    location: "Turkey"
+    followers: 61240
+    engagement: 2967
+    commentsToLikes: 0.611577
+    id: ck5q0wc8s83560i11puc6emor
+    verified: false
+    hashtags: "#instarun, #skyrunning, #ironman, #trek"
   - username: "yucelcakiroglu"
     fullname: >-
       Yücel Çakıroğlu
     bio: >-
-      Freelance Photographer & Videographer / Istanbul. Sport, Event, Documentary.... © All Rights Reserved / Tüm Hakları Saklıdır
+      Freelance Photographer & Videographer / Istanbul. Sport, Event, Documentary.... Studio works @ycl_studio © All Rights Reserved / Tüm Hakları Saklıdır
     location: "Turkey"
-    followers: 10414
-    engagement: 572
-    commentsToLikes: 0.024650
+    followers: 10266
+    engagement: 489
+    commentsToLikes: 0.024336
     id: ck14k5f6hntcn0i19x5a9p2b0
     verified: false
-    hashtags: "#xcm, #xf1024, #sakarya, #procycling"
-  - username: "brkkyy"
-    fullname: >-
-      Berk Okyay
-    bio: >-
-      Cyclist▪︎Designer▪︎Model▪︎V @biehlercycling @wahoofitnessofficial @kinesisbikes_uk @dmtcycling @giantturkiye #TCRNo4 #TCRNo5 #TCRNo6 ➡️ @th_tfeeling
-    location: "Turkey"
-    followers: 7093
-    engagement: 543
-    commentsToLikes: 0.019934
-    id: ck5chks1fqyos0i11pmkz31xr
-    verified: false
-    hashtags: "#wahooyes, #photooftheday, #cycling, #cyclingphotos"
+    hashtags: "#mtbgirl, #sportsphotographers, #nikonsports, #sakarya2020"
   - username: "cyclistturkiye"
     fullname: >-
       Cyclist Türkiye
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.008825
     id: ck6u8f5dir8er0j7155zemon9
     verified: false
-    hashtags: "#cyclistt, #cyclist, #video, #cyclistmagazine"
-  - username: "asladurma"
+    hashtags: "#cyclistt, #cyclistmagazine, #cyclistturkiye, #cyclist"
+  - username: "ismail.arbaoui"
     fullname: >-
-      Fatih Topçu
+      Ismail Arbaoui
     bio: >-
-      Ironman 140.6(Pb 10:45) 10xIronman 70.3(Pb 4:46) 5 Marathon(Pb 3:18) 2016 Triatlon YG Şamp. 2019 Duatlon YG Şamp. 2020 CrossDuatlon YG Şamp.
+      -Based in İstanbul | Master in geology | swimming | cycling | running | donuts 🍩 and Coffee -Currently....
     location: "Turkey"
-    followers: 25264
-    engagement: 507
-    commentsToLikes: 0.108166
-    id: ck5q0wc8s83560i11puc6emor
+    followers: 13936
+    engagement: 1015
+    commentsToLikes: 0.021898
+    id: ck13bbl09un2x0i19p24vq57m
     verified: false
-    hashtags: "#runner, #instarun, #cappadocia, #kosu"
+    hashtags: "#istanbul, #turkey, #sport, #fromwhereiride"
   - username: "birbasinagezgin"
     fullname: >-
-      Nevzat Can Altınışık|outdoor
+      Nevzat Can Altınışık|outdoor
     bio: >-
-      02.2018💙 Kamp/ Doğa yürüyüşleri Reklam ve İş birliği için dm📩 Freelance 💻 #outdoors 💻: nevzatcan0695@gmail.com
+      02.2018💙 Doğa / Doğa sporları Reklam ve İş birliği için dm📩 Freelance 💻 #outdoors #sponsorluk 💻: nevzatcan0695@gmail.com
     location: "Turkey"
-    followers: 6383
-    engagement: 1081
-    commentsToLikes: 0.097987
+    followers: 14572
+    engagement: 985
+    commentsToLikes: 0.347685
     id: ck5c453y60mqj0i11dfax6brc
     verified: false
-    hashtags: "#bursa, #turkey, #nature, #bart"
-  - username: "drgulyildirim"
+    hashtags: "#tbt, #huzur, #bursa, #do"
+  - username: "bilhan1319"
     fullname: >-
-      Dr.Gül Yıldırım
+      Baris İlhan
     bio: >-
-      www.drgulyildirim.com Teşvikiye Mh Vali Konağı CD İnan Apt No:50 K:2 D:3 İstanbul ☎: 0 (212) 270 90 09 0(533) 219 75 06
+      🇿🇦IM 70.3 WC Finisher 🇹🇷AG National Triathlete 🎯11*IM 70.3 Finisher, PB:4:25 👨‍🏫Ironman Certified Coach 👨‍💼Vestel🍀Herbalife🚴‍♂️Specialized 🕶Oakley
     location: "Turkey"
-    followers: 26534
-    engagement: 129
-    commentsToLikes: 0.058777
-    id: ck8t0b2c5rgf20j78utfjhl43
+    followers: 6784
+    engagement: 500
+    commentsToLikes: 0.023226
+    id: ck5hsl522wro60i11a1yi3sah
     verified: false
-    hashtags: "#istanbul, #ni, #drgulyildirim, #ciltdoktoru"
+    hashtags: "#herbalifenutrition, #gururlayerli, #iamspecialized, #garminturkiye"
+  - username: "esragokcek"
+    fullname: >-
+      ESRA NUR GÖKCEK
+    bio: >-
+      National Team Triathlete 🇹🇷 DEU-Master of Movement and Training Sciences “Follow Your Passions”🦋
+    location: "Turkey"
+    followers: 21082
+    engagement: 443
+    commentsToLikes: 0.011435
+    id: ckaoulewf0s050i788lnlgdh6
+    verified: false
+    hashtags: "#triathlonlifestyle, #triathalontraining, #triathlonlife, #swimbikerun"
   - username: "rikki.roath"
     fullname: >-
       Rikki Lee Roath
     bio: >-
       Traveller - Model - TV Show host - Chef - Rikki’nin Türkiye Rotası
     location: "Turkey"
-    followers: 13667
-    engagement: 956
-    commentsToLikes: 0.015840
+    followers: 13785
+    engagement: 992
+    commentsToLikes: 0.017232
     id: ck6u8f17zr7p70j71f2lrayp0
     verified: false
-    hashtags: "#morocco, #cappadocia, #cycling, #macerarehberi"
+    hashtags: "#macerarehberi, #cappadocia, #kapadokya, #hiking"
   - username: "tufansagnak"
     fullname: >-
       Tufan Sağnak
     bio: >-
-      💎 @focusbikes Izalco Max 9.7 🔺🚴🏻‍♂️Founder/Captain @peloton.istanbul 🔺Editor @bike.pedia 🔺Art Historian 🔻Married and in love w/ @arzu.sagnak ❤️
+      Brand Ambassador @focusbisiklet @footbalancetr 🚴🏻‍♂️Founder/Captain @peloton.istanbul Editor @bike.pedia Art Historian In love w/ @arzu.sagnak ❤️
     location: "Turkey"
-    followers: 5687
-    engagement: 718
-    commentsToLikes: 0.020644
+    followers: 6153
+    engagement: 705
+    commentsToLikes: 0.020609
     id: ck14k5gitntiw0i19es189yvz
     verified: false
-    hashtags: "#zwiftcycling, #roadcycling, #focusizalcomax, #deltabisiklet"
+    hashtags: "#roadbike, #outsideisfree, #cyclinglife, #focusizalcomax"
 ---

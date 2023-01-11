@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Poland in 2023
+title: Top 10 Wellness Instagram Influencers In Poland In 2023
 description: >-
-  Find top wellness Instagram influencers in Poland in 2023. Most popular hashtags: #wellness #fitness #girl #strajkkobiet.
+  Find top wellness Instagram influencers in Poland in 2023. Most popular hashtags: #wellness #smile #makeup #polskadziewczyna.
 platform: Instagram
-hits: 33
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 33 Instagram influencers like this in Poland for you to connect with.
+hits: 27
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 27 Instagram influencers like this in Poland for you to work with.
 profiles:
+  - username: "kasiaharmony"
+    fullname: >-
+      Kasia Harmony
+    bio: >-
+      • healthyfood • natural medicine • vegetarian lifestyle 🌱 #doterra wellness advocate, join me 👉 9448371 📍 Warszawa/ Poland 📮Kasia@harmonylife.style
+    location: "Poland"
+    followers: 46761
+    engagement: 371
+    commentsToLikes: 0.040780
+    id: ck5zx2fe577tv0i1434us37ir
+    verified: false
+    hashtags: "#wsp, #podk, #ksi, #coreczkamamusi"
   - username: "natalia_grzyb"
     fullname: >-
       NATALIA GRZYB
     bio: >-
-      ⭐️World & European champ wellness🥈🥈🥉 ⭐️ @myproteinpl #team %grzybek ⭐️ @carpatree #team %natalia_grzyb ⭐️ kontakt 📥 nataliagrzyb.pl @ekipkagrzybka
+      ⭐️World champ wellness🥈 ⭐️ European champ wellness 🥈🥉 ⭐️ Polish Junior champ 🥇 ⭐️ 📥 nataliagrzyb.pl @ekipkagrzybka ⭐️ my gym: @projektfabryczna
     location: "Poland"
-    followers: 102835
-    engagement: 876
-    commentsToLikes: 0.015730
+    followers: 111768
+    engagement: 620
+    commentsToLikes: 0.010798
     id: ck13amu0cr5gz0i19sp6hvet4
     verified: false
-    hashtags: "#fitgirl, #woman, #athlete, #akopteam"
-  - username: "mrs__harmony"
-    fullname: >-
-      Kasia Harmony
-    bio: >-
-      • healthy food • natural medicine • vegan lifestyle 🌱 • woman workshop #doterra wellness advocate, join me 👉 9448371 📮Kasia@harmonylife.style
-    location: "Poland"
-    followers: 41877
-    engagement: 470
-    commentsToLikes: 0.047615
-    id: ck5zx2fe577tv0i1434us37ir
-    verified: false
-    hashtags: "#piek, #to, #strajkkobiet, #taniec"
+    hashtags: "#woman, #athlete, #mondaymotivation, #akopteam"
   - username: "carmelatte"
     fullname: >-
       Klaudia
     bio: >-
-      🗺 I write about Voyages, Slow Fashion, Wellness and Destination Weddings 🔜 Dubai if covid allows 📩contact@carmelatte.co
+      💁🏻‍♀️Slow Fashion•Travel•Wellness 🎥Stories Series: •Travel Tuesdays •Slow Fashion Thursdays 🐐Co-owner @kozaibrzoza (BnB in the mountains)
     location: "Poland"
-    followers: 50316
-    engagement: 87
-    commentsToLikes: 0.201611
+    followers: 48331
+    engagement: 100
+    commentsToLikes: 0.114647
     id: ck6tqkdqpry2o0j71kokocyce
     verified: false
-    hashtags: "#visitpoland, #retrolook, #slowfashionblogger, #frenchessentials"
+    hashtags: "#fashionaddict, #bohoinspired, #wearthisnext, #slowfashionmovement"
   - username: "dagadomi_fit"
     fullname: >-
       Daga Dominiczak
     bio: >-
-      🏆World & European & Arnold Wellness Fitness Champion🥇 Kod:DAGA15 💪 @formotiva 🚴‍♀️ @fitness_w_domu 💄lekcje makijażu i pozowania scenicznego👠
+      3x Mistrzyni Świata Wellness Fitness DAGA15 @formotiva @fitness_w_domu DAGADOMI @carpatree lekcje makijażu i pozowania scenicznego Waw/Krk/Sando
     location: "Poland"
-    followers: 20491
-    engagement: 464
-    commentsToLikes: 0.030687
+    followers: 21073
+    engagement: 251
+    commentsToLikes: 0.021926
     id: ck5q9w04hdabm0i1118trwpka
     verified: false
-    hashtags: "#fitness, #kadrapolski, #mistrzostwapolski, #sportowiec"
+    hashtags: "#formotivagirl, #schroniskopegasus, #sunday, #fitness"
   - username: "claudiaciesla"
     fullname: >-
       Claudia Ciesla
     bio: >-
       🇩🇪🇵🇱#Actress in🇮🇳 🥗#Nutritionist #wellnesscoach 🤙Contact: Claudia.enquiry@gmail.com
     location: "Poland"
-    followers: 436915
-    engagement: 72
-    commentsToLikes: 0.019097
+    followers: 428713
+    engagement: 63
+    commentsToLikes: 0.018715
     id: ck0vwp4equw9u0i19043e4pxs
     verified: true
-    hashtags: "#workoutroutine, #claudiaciesla, #lifeisgood, #nature"
-  - username: "kayawegewrozka"
+    hashtags: "#travel, #smile, #bliss, #claudiaciesla"
+  - username: "hotelarlamow"
     fullname: >-
-      Kaya Wege Wróżka
+      Hotel Arłamów
     bio: >-
-      #WysokieWibracje 🎙Podcast „Apteka dla duszy” 📖ebooki + blog #Świadomość #Astrologia #Wellness ☾ Blog & Sklep📚
+      Luxury ****hotel resort in Poland | SPA&WELLNESS | GOLF | SKI | MEEETINGS & EVENTS | SPORT |
     location: "Poland"
-    followers: 25452
-    engagement: 441
-    commentsToLikes: 0.053180
-    id: ck5c09l2dsp7l0i11s6wa2cbd
+    followers: 19619
+    engagement: 369
+    commentsToLikes: 0.013473
+    id: ck6tplih0kjnf0j7100ni4m1u
     verified: false
-    hashtags: "#simpleasthat, #naturespeaks, #selfcare, #freshstart"
-  - username: "_delighted"
+    hashtags: "#hotelresort, #bieszczady, #bezpiecznyarlamow, #przyroda"
+  - username: "ziaja.polska"
     fullname: >-
-      Agata ☆ food styling
+      ZIAJA POLSKA
     bio: >-
-      I'm a serious woman but can't help my love for pretty&cute stuff☁️ ☆architect, foodie, professional dreamer☆ based in Poland 🥟 delighted.pl@gmail.com
+      .cześć na oficjalnym profilu Ziaja! .oznaczcie nas #ziajapolska .odwiedźcie nasz sklep ⤵️
     location: "Poland"
-    followers: 71462
-    engagement: 302
-    commentsToLikes: 0.059123
-    id: ck0vwx0lsw02y0i193xbu4ddk
-    verified: false
-    hashtags: "#eatgoodfeelgood, #veganfood, #makesmewhole, #niedziela"
-  - username: "mrs_kitchen_fairy"
+    followers: 104429
+    engagement: 74
+    commentsToLikes: 0.031709
+    id: ck15t97yegy9f0i1929exv4ah
+    verified: true
+    hashtags: "#ziajaskincare, #peeling, #beauty, #focusonskin"
+  - username: "prawieidealna"
     fullname: >-
-      Agnieszka Wojciechowska
+      Joanna👉 Katowice/Ustroń
     bio: >-
-      Recipe developer 🌱Eat healthy without limits 🌱Clean food recipes in 15 minutes🌈 Guiltfree Glutenfree Sugarfree 🥑 -21kg / 8m 👦👧 @dani.wojciechowski 📷
+      NA STORIES JEST PRAWDZIWE ŻYCIE🔥 Motywuję do działania. Grywam w serialach. Piszę bloga, kręcę vlogi i śmieszne TikToki. Moje social media ↩
     location: "Poland"
-    followers: 71351
-    engagement: 336
-    commentsToLikes: 0.040858
-    id: ck15u4vsalf200i190ygrebfu
+    followers: 21618
+    engagement: 250
+    commentsToLikes: 0.148015
+    id: ck6udqym7mn810j71ierowrxd
     verified: false
-    hashtags: "#veganfoodshare, #smoothies, #breakfast, #fitness"
-  - username: "franj_oses"
+    hashtags: "#blondynka, #poland, #podr, #minimalstyle"
+  - username: "jm.nowakowska"
     fullname: >-
-      Fran Osés®
+      𝙅𝙤𝙖𝙣𝙣𝙖 𝙈𝙖𝙧𝙞𝙖 𝙉𝙤𝙬𝙖𝙠𝙤𝙬𝙨𝙠𝙖 ✨
     bio: >-
-      💢Muscle Freak Made In🇪🇸 🌐Sponsors @big_suplementacion @oss_fitness @themeccagym_jaen 💻 #team⭕️ses Coach 📩 Info: fran.oses7@gmail.com 💍 @magiccriss
+      ▪️𝘛𝘰𝘳𝘶𝘯, 𝘗𝘰𝘭𝘢𝘯𝘥🇵🇱 ▪️𝘗𝘦𝘢𝘳𝘭𝘴 𝘔𝘰𝘥𝘦𝘭𝘴 ▪️𝘝𝘰𝘭𝘬𝘴𝘸𝘢𝘨𝘦𝘯 𝘗𝘭𝘪𝘤𝘩𝘵𝘢 𝘛𝘰𝘳𝘶𝘯 👩🏼‍💻 ▪️𝘗𝘰𝘥𝘱𝘳𝘰𝘸𝘢𝘥𝘻𝘢𝘫𝘢𝘤𝘢 @kstorun 🏁 ✉️ 𝘯𝘰𝘸𝘢𝘬𝘰𝘸𝘴𝘬𝘢.𝘫𝘰𝘢𝘯𝘯𝘢𝘢@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
     location: "Poland"
-    followers: 29209
-    engagement: 208
-    commentsToLikes: 0.047480
-    id: ck0udjuzaj9ip0i1921dmxcr8
+    followers: 14362
+    engagement: 864
+    commentsToLikes: 0.042239
+    id: ckap81pytmg110i78ytm8cin2
     verified: false
-    hashtags: "#gym, #spain, #wellness, #motivation"
-  - username: "monia_poznan"
+    hashtags: "#newcollection, #boutique, #photo, #polishmodels"
+  - username: "ania_qq"
     fullname: >-
-      Monika Majchrzak
+      Anna Kukawska
     bio: >-
-      Team @xtreme_fitness_gyms 🔥💪 Link do rejestracji @xtremego.pl 💚 Piękno, pielęgnacja 💅 @solange_beautyspa_literacka131
+      Jedyny oficjalny profil!⁠ #aktorka 🎬 @policjantkipolicjanci⁠ #wokalistka 🎤 @aqqband⁠ 🔜psychoterapeutka pozytywna ⁠☀️ #mama💞🐣 współpraca: ania@world.pl
     location: "Poland"
-    followers: 49870
-    engagement: 1189
-    commentsToLikes: 0.029409
-    id: ckaotsqvyxcg20i78f66cxt2u
+    followers: 26224
+    engagement: 700
+    commentsToLikes: 0.016199
+    id: ck0w08scccyk70i19eb29dqbd
     verified: false
-    hashtags: "#autumn, #legs, #style, #happy"
+    hashtags: "#happy, #momanddaughter, #psychoterapeutka, #actresslife"
 ---

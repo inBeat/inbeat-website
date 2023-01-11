@@ -1,108 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Norway in 2023
+title: Top 10 Vegan Instagram Influencers In Norway In 2023
 description: >-
-  Find top vegan Instagram influencers in Norway in 2023. Most popular hashtags: #benice #govegan #greenfluencer.
+  Find top vegan Instagram influencers in Norway in 2023. Most popular hashtags: #vegan #godtno #veganfood #5omdagen.
 platform: Instagram
-hits: 37
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 37 Instagram influencers like this in Norway for you to contact.
+hits: 26
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 26 Instagram influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "jannicke32"
-    fullname: >-
-      Jannicke Sætre 🇳🇴
-    bio: >-
-      💠Vegan🌱💠Mia❤️🐾 ▪️ @celsiusnorge ▪️ @go_vegan_nordic ▪️ @icaniwill -saetre20 ▪️ @flexfitno ▪️ @miiego_no
-    location: "Norway"
-    followers: 13859
-    engagement: 617
-    commentsToLikes: 0.205486
-    id: ck14jwreqmkwi0i19tw1r40sh
-    verified: false
-    hashtags: "#govegan, #greenfluencer, #chiquelle, #icaniwill"
-  - username: "gossegoss"
-    fullname: >-
-      ✖️Lene Marie Gåsbakk | Norway
-    bio: >-
-      Crossing off my bucketlist one adventure at a time with my dogs by my side! ❤️ @getinspired_no 🍃@go_vegan_nordic ambassdor
-    location: "Norway"
-    followers: 28831
-    engagement: 687
-    commentsToLikes: 0.023389
-    id: ck0w1k8ozjriv0i1973zuqcok
-    verified: false
-    hashtags: "#norway, #lonelyplanet, #visitnorway, #mynorwaystories"
   - username: "yoga_kaja"
     fullname: >-
       ☾ YOGA KAJA ☼
     bio: >-
       Vegan Yoga Teacher & Artist अहिंसा Oslo, Norway
     location: "Norway"
-    followers: 40459
-    engagement: 691
-    commentsToLikes: 0.056790
+    followers: 44098
+    engagement: 754
+    commentsToLikes: 0.053478
     id: ck15uxx31p0xe0i196cdo7pn6
     verified: false
-    hashtags: "#sugarbearhair, #justalittletip, #feetup, #extendedsideangle"
-  - username: "julianneiwj"
+    hashtags: "#wheelpose, #urdhvadhanurasana, #yoganorge, #ichoosefriendly"
+  - username: "camillajohannesenn"
     fullname: >-
-      Julianne
+      CAMILLA JOHANNESEN | YOUTUBER
     bio: >-
-      22 // Norway Vegan Feminist 🌈 💌 julianneiwj@gmail.com
+      🌍 NYC Content Creator | Made in Norway 🚖 Travel Tips & Life in New York & Veganism 🎥 Youtube: Camilla Johannesen ↓ BLOG ⋅ VLOGS ⋅ TRAVEL GUIDES + ↓
     location: "Norway"
-    followers: 117351
-    engagement: 559
-    commentsToLikes: 0.004953
-    id: ck1359cgj0cra0i19ana5st3x
+    followers: 6043
+    engagement: 614
+    commentsToLikes: 0.102643
+    id: ck8t075i2r1gc0j78875apnci
     verified: false
-    hashtags: "#annonse, #disturbiaclothing"
-  - username: "reallymili"
+    hashtags: "#stthomas, #photooftheday, #usvi, #flor"
+  - username: "drleovenus"
     fullname: >-
-      Really Mili
+      Dr. Leo Venus
     bio: >-
-      Certified #makeupartist Norway💄 TikTok: Reallymili ⚫️ #vegan #tattooed #dreads⚫️ Author of “Shame on you?” Get it here ⬇️Reallymili Preset pack⬇️
+      M.D. and vegan athlete💪 @Vivolife Ambassador 🌱 Use LEO10 for 10% off 👇
     location: "Norway"
-    followers: 26244
-    engagement: 458
-    commentsToLikes: 0.090932
-    id: ck55kj2oizf4p0i11acgax719
+    followers: 32758
+    engagement: 374
+    commentsToLikes: 0.041171
+    id: ck5q1gl6vavsi0i11fsdw1pbg
     verified: false
-    hashtags: "#oslo, #scent"
-  - username: "iamtheabull"
-    fullname: >-
-      Thea 🦕
-    bio: >-
-      young, wild and vegan @heartbreakmanagement / ma
-    location: "Norway"
-    followers: 12124
-    engagement: 461
-    commentsToLikes: 0.044405
-    id: ck5qa9gdlf8vm0i11encxszjp
-    verified: false
-    hashtags: "#hiking, #mountains, #lofoten, #henningsv"
-  - username: "celinakarine"
-    fullname: >-
-      CELINA KARINE ◡̈
-    bio: >-
-      24, Oslo | Vlogger på YouTube • @plantego Ambassadør🌱 @go_vegan_nordic Ambassadør🌿
-    location: "Norway"
-    followers: 64753
-    engagement: 309
-    commentsToLikes: 0.021590
-    id: ck6trcrgiy8xf0j71i7uotma0
-    verified: false
-    hashtags: "#lipbalm, #vilevererhjem, #hjemlevering, #helthjem"
-  - username: "_bakerina"
-    fullname: >-
-      Baked by a Ballerina
-    bio: >-
-      ~Sharing my passion for bakes and makes ~Aspiring {and failing} pinterest artist ~Norwegian ballet dancer ~@heidicbc_ ~@go_vegan_nordic Ambassador ✨
-    location: "Norway"
-    followers: 12245
-    engagement: 513
-    commentsToLikes: 0.149504
-    id: ck134m3ngx3j30i19wzytx5m4
-    verified: false
-    hashtags: "#veganmeal, #oats, #veganyogurt, #govegan"
+    hashtags: "#fortheliving, #norway, #nature, #beauty"
   - username: "frutimian"
     fullname: >-
       Marit Røttingsnes Westlie
@@ -114,17 +54,77 @@ profiles:
     commentsToLikes: 0.013172
     id: ck13cg0i405lb0i19axb14t61
     verified: false
-    hashtags: "#frokost, #dagensmiddag, #bake, #denbestematen"
+    hashtags: "#denbestematen, #bake, #godtno, #dagensmiddag"
   - username: "vegetarbloggen"
     fullname: >-
       Mari Hult
     bio: >-
-      📚 Author @friskforlag & @mentorverlag 🍽️ Cofounder @sustainable.foods 🧀 Ambassador @go_vegan_nordic Commercial enquiries?📩dennis@unitedinfluencers.no
+      💚Har formidlet plantemat i 10 år 💚Norges største vegetar-/veganblogg 💚Ambassadør @barebells.nor Samarbeid? dennis@unitedinfluencers.no
     location: "Norway"
-    followers: 28046
-    engagement: 121
-    commentsToLikes: 0.029246
+    followers: 34057
+    engagement: 119
+    commentsToLikes: 0.022648
     id: ck5c1lmwfvfgl0i117bmgm5oz
     verified: false
-    hashtags: "#vegan, #matbloggsentralen, #foodblogger, #greenfluencer"
+    hashtags: "#greenfluencer, #nrkmat, #madmedmedf, #fastelavnsboller"
+  - username: "fr.besic"
+    fullname: >-
+      Fr. Besic
+    bio: >-
+      Love to bake 🍰🍒 Everything is made by me, and all pictures are taken with my Iphone 🌸 From 🇧🇦 living in 🇳🇴
+    location: "Norway"
+    followers: 6721
+    engagement: 670
+    commentsToLikes: 0.095914
+    id: ck5zyicf39xph0i14paejxbu1
+    verified: false
+    hashtags: "#workout, #smoothie, #bakersofinstagram, #chocolatecake"
+  - username: "_bakerina"
+    fullname: >-
+      Baked by a Ballerina
+    bio: >-
+      ~Sharing my passion for bakes and makes ~Aspiring {and failing} pinterest artist ~Norwegian ballet dancer ~@heidicbc_
+    location: "Norway"
+    followers: 14971
+    engagement: 649
+    commentsToLikes: 0.116966
+    id: ck134m3ngx3j30i19wzytx5m4
+    verified: false
+    hashtags: "#veganlunch, #veganoatmeal, #veganbaker, #veganbowl"
+  - username: "inamariehagen"
+    fullname: >-
+      Ina Marie Hagen
+    bio: >-
+      «Matbordet er det eneste stedet der man aldri kjeder seg den første timen.» @inamariehagen
+    location: "Norway"
+    followers: 5033
+    engagement: 829
+    commentsToLikes: 0.094825
+    id: ckf5n3tzpwmpi0j23d3kc63h2
+    verified: false
+    hashtags: "#pescetarian, #instafood, #buzzfeedfood, #eatyourveggies"
+  - username: "eatmoreplants.no"
+    fullname: >-
+      Jenny 🌱 Plant-Based Recipes
+    bio: >-
+      Download my recipe app “eatmoreplants”🌱 100+ Recipes in both English & Norwegian 📲 Available on iOS and Android 🙋🏼‍♀️ @jennymtb
+    location: "Norway"
+    followers: 18280
+    engagement: 244
+    commentsToLikes: 0.106561
+    id: ck5hkk46yiket0i11wxhrk0cb
+    verified: false
+    hashtags: "#veganrecipeshare, #plantbasedmeals, #vegan, #plantbasedrecipe"
+  - username: "skadal"
+    fullname: >-
+      MARTIN S. SKADAL 🥷🏻🌱
+    bio: >-
+      Founder & CEO @worldsavinghustle, @altruismforyouth & @rewild.media 🏆 30 under 30 leader by DN 🏆 Sustainability Award by Coop 🌱 I don’t eat animals
+    location: "Norway"
+    followers: 35099
+    engagement: 303
+    commentsToLikes: 0.067963
+    id: ck6tro9dh04sa0j71lbcy9xie
+    verified: false
+    hashtags: "#norge, #govegan, #environmentalism, #environmentalist"
 ---

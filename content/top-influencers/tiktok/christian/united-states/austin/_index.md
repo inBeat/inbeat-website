@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Austin in 2023
+title: Top 10 Christian TikTok Influencers In Austin In 2023
 description: >-
-  Find top christian TikTok influencers in Austin in 2023. Most popular hashtags: #christian #duet #fyp #jesus.
+  Find top christian TikTok influencers in Austin in 2023. Most popular hashtags: #christian #jesus #duet #fyp.
 platform: TikTok
-hits: 56
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 56 TikTok influencers like this in Austin, United States for you to pitch.
+hits: 61
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 61 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
   - username: "chickensoldier"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       On a Journey to inspire a Nation 🇺🇸 And to share Jesus along the way 🙏
     location: "United States"
-    followers: 32900
-    engagement: 2304
-    commentsToLikes: 0.033805
+    followers: 40800
+    engagement: 1727
+    commentsToLikes: 0.043172
     id: ckb9p5celjvi40j23xm9sa151
     verified: false
-    hashtags: "#christian, #fyp, #freedom, #moves"
-  - username: "austin_klesath2"
+    hashtags: "#fitness, #kag, #epic, #comedy"
+  - username: "live4chr1st"
     fullname: >-
-      Austin Klesath
+      Chris Ullery
     bio: >-
-      Venmo: austin_klesath2 Twitter: austin_klesath
+      Christian • Husband • Father Trust God Proverbs 3:5-6 To donate click below ⬇️
     location: "United States"
-    followers: 72300
-    engagement: 2118
-    commentsToLikes: 0.036682
-    id: ckcpqqgxjk8bc0j23udr5yuym
+    followers: 103000
+    engagement: 820
+    commentsToLikes: 0.116864
+    id: ck931ik3yeuo20j78o4ucc7g0
     verified: false
-    hashtags: "#duet, #onecommunity, #foryoupage, #makejesusviral"
-  - username: "jlaw"
-    fullname: >-
-      JLaw Austin ✪
-    bio: >-
-      This page is home to many personalities Christian Rapper ✝️ Power Ranger Fan
-    location: "United States"
-    followers: 417600
-    engagement: 2599
-    commentsToLikes: 0.078306
-    id: ck8qmxss9s4qd0j78x4xb2e2k
-    verified: false
-    hashtags: "#christianrap, #jesus, #christian, #fyp"
+    hashtags: "#stitch, #wwe, #duet, #christiantiktok"
   - username: "austinlhsteinfeld"
     fullname: >-
       Austin Hardesty
     bio: >-
       Christian ✝ comedic 20yr funny expressions James 4:17
     location: "United States"
-    followers: 3819
-    engagement: 1175
-    commentsToLikes: 0.206316
+    followers: 3797
+    engagement: 1102
+    commentsToLikes: 0.165204
     id: ck9noo6ahuxzt0j78u9ezledu
     verified: false
-    hashtags: "#christian, #duet, #comedy, #jesus"
-  - username: "morganfaithofficial"
+    hashtags: "#jesus, #lesson, #part2, #trans"
+  - username: "hoe_ny"
     fullname: >-
-      Morgan Faith Brasell
+      Honey
     bio: >-
-      21 | AL | ✞ | 🇺🇸 Conservative Christian Speaking TRUTH one day at a time
+      Name: honey🤣 Age: 16😻✨😇 Pronouns: they/she🤪🤩 Christian 🥳 Barbra simp 😍
     location: "United States"
-    followers: 34200
-    engagement: 1693
-    commentsToLikes: 0.107439
-    id: ck9rndod374g50j78y88p80ri
+    followers: 26800
+    engagement: 2629
+    commentsToLikes: 0.077831
+    id: ckdcko5vwmpsm0j23pex4oa05
     verified: false
-    hashtags: "#duet, #trump2020, #foryou, #election2020"
-  - username: "heleennnaaaa"
+    hashtags: "#yumeko, #toiletboundhanakokun, #hanakokun, #monokumacosplay"
+  - username: "lds.hype.house"
     fullname: >-
-      H E L E N A 👑✨
+      LDS Hype House
     bio: >-
-      ✨ Christian ✨ 🔞
+      welcome to the lds hype house! remember God loves you no matter who you are!
     location: "United States"
-    followers: 7127
-    engagement: 1851
-    commentsToLikes: 0.029740
-    id: ckcp6p25jd6bt0j23fp4szgri
+    followers: 4288
+    engagement: 1860
+    commentsToLikes: 0.079261
+    id: ckbloxh0pgn9g0j237gyv1plr
     verified: false
-    hashtags: "#fyp, #foryou, #church, #duet"
-  - username: "calvinaustin2"
+    hashtags: "#prolds, #stakedance, #missionary, #mormon"
+  - username: "austin_klesath2"
     fullname: >-
-      Calvin Austin
+      Austin Klesath
     bio: >-
-      Singer, song writer, producer, husband, father, and musician $austintouch
+      I’m just a God loving, kind hearted kind trying to stay positive 😀😀
     location: "United States"
-    followers: 56000
-    engagement: 1476
-    commentsToLikes: 0.163598
-    id: ckb94106nl4m10j23vpgvg2jp
+    followers: 70800
+    engagement: 2358
+    commentsToLikes: 0.038929
+    id: ckcpqqgxjk8bc0j23udr5yuym
     verified: false
-    hashtags: "#repost, #introvert, #duetsinging, #duet"
+    hashtags: "#christian, #learnontiktok, #share, #onecommunity"
+  - username: "jlaw"
+    fullname: >-
+      JLaw Austin ✪
+    bio: >-
+      I love God, Music, Power Rangers, Anime, and pretty much anything nerdy. 19✨
+    location: "United States"
+    followers: 410800
+    engagement: 2242
+    commentsToLikes: 0.041822
+    id: ck8qmxss9s4qd0j78x4xb2e2k
+    verified: false
+    hashtags: "#christian, #foryou, #duet, #foryoupage"
   - username: "austinnicholson16"
     fullname: >-
       Austin Nicholson
     bio: >-
       
     location: "United States"
-    followers: 6202
-    engagement: 1323
-    commentsToLikes: 0.017115
+    followers: 6092
+    engagement: 1320
+    commentsToLikes: 0.016908
     id: ckbki0mg2a75g0j23l0wuypeu
     verified: false
-    hashtags: "#funny, #brother, #christian, #36"
-  - username: "emilymikus_"
+    hashtags: "#funny, #brother, #christian, #mad"
+  - username: "melaniebaker06"
     fullname: >-
-      emily mikus 
+      Melanie Baker
     bio: >-
-      Jesus loves you more than anyone on this earth ever could!
+      19 ✞ | 2 Timothy 4:7 | ✞ ✞ | 𝖩𝖾𝗌𝗎𝗌 𝗂𝗌 𝖪𝗂𝗇𝗀 | ✞ | CEO of Face zoom |
     location: "United States"
-    followers: 46500
-    engagement: 1942
-    commentsToLikes: 0.025609
-    id: cka9spag7ahai0i7824ax53j1
+    followers: 134600
+    engagement: 2239
+    commentsToLikes: 0.058373
+    id: ckdhiedruyipt0j23z2bl8y5y
     verified: false
-    hashtags: "#longdistance, #christian, #christiangirl, #jesus"
-  - username: "scarred_by_grace"
+    hashtags: "#christian, #fyp, #shadowandbone, #foryou"
+  - username: "treston.henderson"
     fullname: >-
-      Caleb/JTG
+      Treston Henderson
     bio: >-
-      🐘Alabama🐘 single #Nightstalker_pack🐺 IGY6 FB. caleb Williams
+      Insta: Treston.Henderson Musical Theatre 🤩🎊🎭
     location: "United States"
-    followers: 24500
-    engagement: 1263
-    commentsToLikes: 0.193920
-    id: ckal64shc96k40i780p6aobeh
+    followers: 5497
+    engagement: 1196
+    commentsToLikes: 0.098402
+    id: ckdi70ng58qmf0j23r1cnpwz0
     verified: false
-    hashtags: "#men, #girls, #truth, #guys"
+    hashtags: "#theatre, #singer, #duet, #dance"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Morocco in 2023
+title: Top 10 Mothers Instagram Influencers In Morocco In 2023
 description: >-
-  Find top mothers Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #travel #ootd #fashion.
+  Find top mothers Instagram influencers in Morocco in 2023. Most popular hashtags: #love #morocco #summer #reels.
 platform: Instagram
-hits: 23
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 23 Instagram influencers like this in Morocco for you to connect with.
+hits: 10
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 10 Instagram influencers like this in Morocco for you to connect with.
 profiles:
-  - username: "sanae.ak"
+  - username: "amall.channel"
     fullname: >-
-      Sanae Ak
+      Amal Channel 🌸
     bio: >-
-      Travel, motherhood and lifestyle 🇩🇪🇲🇦🇩🇰🇹🇷🇹🇭🇳🇱🇱🇧🇴🇲🇧🇪🇱🇰🇦🇪 Mother to @lilyaa.ak 📧sanae.abdulkarim@gmail.com
+      - Moroccan Youtubeur - Beauty💄,Lifestyle🎀 -Youtube 🎬 Amal Channel
     location: "Morocco"
-    followers: 6405
-    engagement: 1813
-    commentsToLikes: 0.068790
-    id: ck6tso2if5unv0j71z0r07exv
+    followers: 53282
+    engagement: 128
+    commentsToLikes: 0.063471
+    id: ck8t1qtmwwob50j7881n2tr8r
     verified: false
-    hashtags: "#sunset, #travelgram, #like, #fashion"
-  - username: "narimaneofficial"
+    hashtags: "#moroccan, #family, #couplegoals, #love"
+  - username: "filledelalune1"
     fullname: >-
-      N A R I M A N E
+      Fatima ezzahra ghazaoui🌚
     bio: >-
-      • Mother • LadyBoss @narimanecosmetics ￼ ✉️Contact@narimane.ma
+      #xerodermapigmentosum 29🎂 with rare genetic disease|Motivational speaker🌚🎤 📩For business inquiries Filledelalune11@gmail.com 📍Mohammedia,Morocco
     location: "Morocco"
-    followers: 361651
-    engagement: 292
-    commentsToLikes: 0.030702
-    id: ckap7v5n2lpde0i78ie5npvr6
+    followers: 49736
+    engagement: 388
+    commentsToLikes: 0.049285
+    id: ck9wfpk5ppxnz0j78zru68j25
     verified: false
-    hashtags: "#outfit, #tiktok, #stayhome, #happy"
-  - username: "noor_m_officiel"
+    hashtags: "#night, #uk, #lifestyleblogger, #moon"
+  - username: "nada.oubnichou"
     fullname: >-
-      Noor et Merouane
+      Empowering Women
     bio: >-
-      •entrepreneur •mother •makeup artist©️ •YouTube Channel #مشروعيbynoorm
+      TV Host Al Oula 🎙 Actress 🎥 Ex Cabin Crew / Real Estate Manager nada.oubnichou@gmail.com Owner @ouna.store clothing store
     location: "Morocco"
-    followers: 1860227
-    engagement: 507
-    commentsToLikes: 0.012789
-    id: ck6u54b7d7iio0j71jzz1ccdp
+    followers: 541921
+    engagement: 174
+    commentsToLikes: 0.046732
+    id: ck5hquo3ftr460i118rot4qtu
     verified: false
-    hashtags: "#instagood, #staypositive, #3ans, #businessplan"
-  - username: "happylittlefrenchie"
+    hashtags: "#travel, #cute, #travelblogger, #photooftheday"
+  - username: "ingyelengbawy"
     fullname: >-
-      Ouiame 💫
+      IngyElengbawy انچي الانجباوى
     bio: >-
-      Fashion • Beauty • Kids Happy Mom of Mia & Léna 📍Paris 🇫🇷 💌 happylittlefrenchie@gmail.com
+      Certified Stylist Fashion blogger Egyptian Love to travel Wife-Mommy For inquiries : Ingyelengbawy@gmail.com Watch my episodes @mbcbeautymatch
     location: "Morocco"
-    followers: 10401
-    engagement: 467
-    commentsToLikes: 0.101167
-    id: ck5hmgq2ylx710i111jf5gxxd
+    followers: 573663
+    engagement: 274
+    commentsToLikes: 0.018790
+    id: ck5c4e07r15id0i11orq74i78
     verified: false
-    hashtags: "#lvbag, #womenwithstyle, #lookdujour, #sofitelmarrakech"
-  - username: "meghyem0ut"
+    hashtags: "#pictureoftheday, #blogger, #fashion, #outfitinspo"
+  - username: "netstyle1"
     fullname: >-
-      MeghyLost
+      
     bio: >-
-      I travel, sometimes.
+      
     location: "Morocco"
-    followers: 9333
-    engagement: 1140
-    commentsToLikes: 0.018682
-    id: ckaoyupc8j5w70i78ckyhrj7b
+    followers: 14252
+    engagement: 1111
+    commentsToLikes: 0.012950
+    id: ck14hgwpva9tj0i19f08s0gw4
     verified: false
-    hashtags: "#travel, #traveladdict, #hiking, #adventureculture"
-  - username: "youssra.daoudi_"
+    hashtags: "#reels, #gh5, #casablanca, #photography"
+  - username: "lebyedhamza.officiel1"
     fullname: >-
-      YOUSSRA•DAOUDI
+      hamza lebyed | حمزة لبيض
     bio: >-
-      シHumor-acting-comedy | lifestyle For collaboration : 💼youssraa19@gmail.com
+      الحساب الرسمي والوحيد الفنان حمزة لبيض The Winner Of MBC The Voice Kids Season 2 In 2018🇲🇦🎤🎶 الحائز على لقب ذي فويس كيدس الموسم الثاني لسنة 2018 #mbc
     location: "Morocco"
-    followers: 45235
-    engagement: 171
-    commentsToLikes: 0.046708
-    id: ckap2egityhcm0i78f3wy2vys
+    followers: 455734
+    engagement: 248
+    commentsToLikes: 0.019490
+    id: ck135o64b2dx70i19qx4s3dcq
     verified: false
-    hashtags: "#acting, #comedy, #instavideo, #videooftheday"
-  - username: "mohcineharisse"
+    hashtags: "#mbcthevoicekids, #bodrum, #hamzalebyed, #wa3ra"
+  - username: "mohamed_chliyeh"
     fullname: >-
-      Mohcine Aoki 👁
+      Mohamed Chliyeh
     bio: >-
-      SULTAN Menswear / Content Creator @fillingpieces x Mohcine Harisse 👇🏻
+      Moroccan🇲🇦in Sweden 🇸🇪 Surfer 🏄🏽‍️and Doctor in plants pathology🌴 who loves to play guitar 🎸martial arts🥊🥋 family👨‍👩‍👧‍👦 God gave me everything
     location: "Morocco"
-    followers: 75342
-    engagement: 490
-    commentsToLikes: 0.015239
-    id: ck0w15mzvhoh90i191e3n5vn1
+    followers: 5822
+    engagement: 580
+    commentsToLikes: 0.087746
+    id: ck6ucd0rievo50j71z85s4w6u
     verified: false
-    hashtags: "#virgilabloh, #fashion, #lacoste, #menswear"
-  - username: "ktoneofficial"
+    hashtags: "#waves, #ocean, #son, #sweden"
+  - username: "inlinewithtima"
     fullname: >-
-      K-TONE (Othmane عثمان)
+      Fatima Ezzahra C
     bio: >-
-      Official Instagram HIYA LIA Is now released on YOUTUBE GOD FIRST 🇲🇦 YouTube Channel:𝕪𝕠𝕦𝕥𝕦𝕓𝕖.𝕔𝕠𝕞/𝕜𝕥𝕠𝕟𝕖
+      • 🇲🇦-🇻🇳📍Paris 🇫🇷 • Certified Life Coach @timas.co • Youtuber 182K • Collabs : Email or Dm me • Podcast @podcastwithtima • Founder @thebook.sisters
     location: "Morocco"
-    followers: 53163
-    engagement: 221
-    commentsToLikes: 0.042023
-    id: ck5hefaxzslw10i11ilsxuoof
+    followers: 104345
+    engagement: 333
+    commentsToLikes: 0.026337
+    id: ck139nxevm95t0i19xf3h9ash
+    verified: false
+    hashtags: "#agadir, #halfasian, #familytime, #halfvietnamese"
+  - username: "farahelfassi1"
+    fullname: >-
+      Farah El Fassi | فرح الفاسي
+    bio: >-
+      🧚‍♀️MOROCCAN ACTRESS Official account instgram Suivez-moi sur ma page @farahelfassi1
+    location: "Morocco"
+    followers: 2570112
+    engagement: 93
+    commentsToLikes: 0.018994
+    id: ck55jff74wx3i0i11audyfa8x
     verified: true
-    hashtags: "#happy, #barcelona, #pop, #follow"
-  - username: "zinebtmk"
+    hashtags: "#happyvalentinesday, #picnic, #family, #matherday"
+  - username: "ippieee"
     fullname: >-
-      Zineb Tmoulik
+      Ipek El Haddioui
     bio: >-
-      Daily #inspo 💡 Beldi Fashion Designer @tmkcreations Aka Miss Purple🧜🏽‍♀️ 📩 Zineb.tmoulik1@gmail.com 📍 Rabat
+      ✨ Turkish & Moroccan 🇹🇷🇲🇦 ✨ Twin mommy Aliyah & Zafirah💗💗 ✨ Follow my other account @ippiesshoes ✨ Snap👻: ippieee9
     location: "Morocco"
-    followers: 109570
-    engagement: 391
-    commentsToLikes: 0.015757
-    id: ck5hquufttrhx0i11ygjpfuxj
+    followers: 5133
+    engagement: 751
+    commentsToLikes: 0.080381
+    id: ckaowjokp98010i78x9d66k2p
     verified: false
-    hashtags: "#moroccanfashion, #caftanmarocain, #fashion, #outfit"
-  - username: "omaymacamil"
-    fullname: >-
-      Omayma Camil 🦅
-    bio: >-
-      TETOUAN 🕊 Morocco 🇲🇦 Believe in your dreams and they will come true 🦋 { All our dreams can come true if we have the courage to pursue them } ⁶𓅓
-    location: "Morocco"
-    followers: 3787
-    engagement: 1266
-    commentsToLikes: 0.032583
-    id: ckaoz50h1ke8m0i7840lfwdre
-    verified: false
-    hashtags: "#desertlife, #bestoftheday, #nyc, #merzouga"
+    hashtags: "#mommy, #twinsisters, #mixedbabies, #twinning"
 ---

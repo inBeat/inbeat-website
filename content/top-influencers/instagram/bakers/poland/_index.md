@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Poland in 2023
+title: Top 10 Bakers Instagram Influencers In Poland In 2023
 description: >-
-  Find top bakers Instagram influencers in Poland in 2023. Most popular hashtags: #wypieki #domowewypieki #ciasto #foodphotography.
+  Find top bakers Instagram influencers in Poland in 2023. Most popular hashtags: #bakersgonnabake #bakersofinstagram #ciasto #pastrychef.
 platform: Instagram
-hits: 85
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 85 Instagram influencers like this in Poland for you to connect with.
+hits: 77
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 77 Instagram influencers like this in Poland for you to pitch.
 profiles:
   - username: "barbarajustblog"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Gdańsk, Poland⚓️ Food Photographer📷 Food Technologist🔬 Baker👩‍🍳 📧info@barbarajust.pl
     location: "Poland"
-    followers: 53076
-    engagement: 975
-    commentsToLikes: 0.038999
+    followers: 63259
+    engagement: 501
+    commentsToLikes: 0.041305
     id: ck6totpl7g2590j71lxzfzuet
     verified: false
     hashtags: ""
-  - username: "bezokracja"
+  - username: "cake_atelier_"
     fullname: >-
-      Małgorzata Filipczak
+      Zuzia Nowakowska-Sikora
     bio: >-
-      Self taught #baker #meringue #macarons #cake #training Trener: @gocook.pl 🔪 @warsztat.kulinarny 🔪 Zamówienia 🎂🍭🧁🍰🍩 📩 torty@bezokracja.pl Warsaw, PL🇵🇱
+      🧁jestem Zuzia, a to moje tortowe życie🧁 🎂torty 📚ebook 🍬 Warsztaty z dekoracji tortów 📆orders: tort@cakeatelier.pl Kraków ☎️ 602571757 #tortykrakow
     location: "Poland"
-    followers: 5746
-    engagement: 514
-    commentsToLikes: 0.035967
-    id: ckaoron7ko4zi0i78972qulfv
+    followers: 12564
+    engagement: 745
+    commentsToLikes: 0.060633
+    id: ckf5wz18btq200j23sgx5dg00
     verified: false
-    hashtags: "#macaronstagram, #instabaker, #pastryschool, #macaronslady"
-  - username: "land_mal"
+    hashtags: "#cakeartist, #cakery, #wintercake, #torturodzinowy"
+  - username: "czasem_fit"
     fullname: >-
-      Malgosia L.
+      Natalia Rafeenko
     bio: >-
-      Food stylist & photographer Based in Lublin, Poland 📩malgosialand@gmail.com
+      ⭐️22 year old medstudent ⭐️baking and fun 📥czasemfit@gmail.com ⭐️Moje eBooki dostępne tutaj 👇🏻
     location: "Poland"
-    followers: 46125
-    engagement: 401
-    commentsToLikes: 0.200818
-    id: ck5zt7u38zwez0i14n5kq4p4q
+    followers: 12214
+    engagement: 503
+    commentsToLikes: 0.032423
+    id: ckf5oqfcz3cxv0j23nor9p690
     verified: false
-    hashtags: "#saltedcaramel, #foodstyling, #marthabakes, #foodandwine"
-  - username: "rozkoszny"
-    fullname: >-
-      Michał Korkosz
-    bio: >-
-      rozkoszny.pl author of vegetarian cookbooks #Rozkoszne & #FreshfromPolandbook @rozkoszny is a Polish word that means delightful delightful food here
-    location: "Poland"
-    followers: 74233
-    engagement: 584
-    commentsToLikes: 0.034250
-    id: ck8t7f7f9gkv10j78898mov3v
-    verified: true
-    hashtags: "#przepis, #wypieki, #gotowanie, #warzywa"
-  - username: "martin_in_kitchen"
-    fullname: >-
-      🥗─━─╯ Marcin ╰─━─🥯
-    bio: >-
-      🇸🇪Szwecja Miłośnik 🥙Jedzenia￼ ☕️Kawy 📕Książek Zajęty 👬👨‍❤️‍👨 #zostajewdomu #zostajewdomugotuje 🥳6 April 🎂🥂🍾 Współpraca marcikania@gmail.com
-    location: "Poland"
-    followers: 2491
-    engagement: 1207
-    commentsToLikes: 0.248698
-    id: ck9wet4hylpf80j788cwfh2od
-    verified: false
-    hashtags: "#jedzenie, #domowejedzenie, #pycha, #foodlover"
+    hashtags: "#pieczenie, #bakersofinstagram, #homemade, #ciasto"
   - username: "paulina_kolondra"
     fullname: >-
       paulina_kolondra
     bio: >-
       Food stylist and photographer Based in Wrocław, Poland Alter ego: @wasting_my_time_here
     location: "Poland"
-    followers: 66165
-    engagement: 306
-    commentsToLikes: 0.016751
+    followers: 64814
+    engagement: 313
+    commentsToLikes: 0.016602
     id: ck14ghyak5bc40i19htv4r2jg
     verified: false
-    hashtags: "#fotografiakulinarna, #zdroweodzywianie, #porridgelover, #foodfluffer"
-  - username: "s_w_e_e_t_empire"
+    hashtags: "#zdroweodzywianie, #breakfastbowl, #porridgelover, #foodphotographytips"
+  - username: "judyta_dawydiuk"
     fullname: >-
-      sweet empire  •  ewelina funek
+      Judyta Dawydiuk
     bio: >-
-      t o r t y a r t y s t y c z n e HASHTAG: #sweetempire_inspo _________________________________ ⚫ MYŚLENICE • KRAKÓW 🇵🇱 ✉ DM
+      @jdpracowniaartystyczna pierniki klasy premium jdpracownia@gmail.com strona www i sklep online↙️
     location: "Poland"
-    followers: 10886
-    engagement: 676
-    commentsToLikes: 0.045928
-    id: ck8t9iuuco9ao0j78ia4ts45y
+    followers: 15137
+    engagement: 450
+    commentsToLikes: 0.030554
+    id: ck8tdr3f04gvf0j78jdmal11y
     verified: false
-    hashtags: "#instafood, #cakestyle, #cute, #torturodzinowy"
+    hashtags: "#handmade, #homeandliving, #xmass, #sharemywestwingstyle"
   - username: "pluminchocolate"
     fullname: >-
-      Jessica Nadziejko 🦑
+      Jessie Nadziejko
     bio: >-
-      🍞, 🧈, 🍝 & 🍪 story 🌱 🥯 Bread lover based in Warsaw 🥂 Food, travels & usually life photography 💌 DM / jnadziejko10@gmail.com
+      food & pastry soul with heart full of gluten 🥞 Warsaw foodie photography freak - @jess.nadziejko 💌 DM / jnadziejko10@gmail.com
     location: "Poland"
-    followers: 7768
-    engagement: 435
-    commentsToLikes: 0.017587
+    followers: 7755
+    engagement: 466
+    commentsToLikes: 0.017605
     id: ck6udrtsmms150j71mz7kb81f
     verified: false
-    hashtags: "#ciasto, #homemadecake, #homebakers, #food52"
+    hashtags: "#tv, #morninglikethis, #flatlayfood, #homemadecake"
+  - username: "bezokracja"
+    fullname: >-
+      Małgorzata Filipczak
+    bio: >-
+      🍭Owner @bezokracja.studio #macarons #pavlova #pastries 🎀 Szkolenia grupowe oraz indywidualne 🍰 Dla profesjonalistów i amatorów 🧁 Wypieki bez tajemnic
+    location: "Poland"
+    followers: 7924
+    engagement: 617
+    commentsToLikes: 0.053211
+    id: ckaoron7ko4zi0i78972qulfv
+    verified: false
+    hashtags: "#christmascake, #desserttable, #deser, #pastrycheflife"
   - username: "dominikamazurek"
     fullname: >-
-      Dominika Mazurek
+      Dominika Mazurek (ona/jej)
     bio: >-
-      Feministka💪🏻 Piszę o zdrowiu psychicznym, książkach i zwykłym życiu 🧠 Czasem tańczę, czasem wkurzam się na świat 💃🏼 📩 dominika.feministan@gmail.com
+      📚studentka #filopolo 💪🏻feministka 🧘🏼‍♀️walczę o spokojną głowę ⭐️uczę się żyć #poswojemu 📩 dominika.feministan@gmail.com
     location: "Poland"
-    followers: 10612
-    engagement: 1352
-    commentsToLikes: 0.023109
+    followers: 10757
+    engagement: 1340
+    commentsToLikes: 0.022374
     id: ck0vz8tpp7vr20i19qb9p1l1t
     verified: false
-    hashtags: "#jesieniara, #mojecia, #psychologia, #studia"
-  - username: "obiaddlataty"
+    hashtags: "#studentka, #mojecia, #oswajamjesie, #strajkkobiet"
+  - username: "k7909"
     fullname: >-
-      obiaddlataty
+      Kamila
     bio: >-
-      My kitchen😎 My place 😎 My rules🍕🤣 Ideas for Food Sylwia from Poland👸 Współpraca 📩 blog@obiaddlataty.pl FB https://facebook.com/obiaddlataty
+      *my Home *my Style *my Moments 📥 📧k7909@interia.pl
     location: "Poland"
-    followers: 176333
-    engagement: 341
-    commentsToLikes: 0.030219
-    id: ck137r30ocyib0i19jk2kyc7v
+    followers: 35873
+    engagement: 810
+    commentsToLikes: 0.048648
+    id: ck15tq2jpjc430i19305zts7x
     verified: false
-    hashtags: "#sa, #beza, #obiaddlataty101, #bu"
+    hashtags: "#slowlivingforlife, #postitfortheaesthetic, #mystory, #howwelive"
+  - username: "gleamofhope9"
+    fullname: >-
+      Karolina Kotłowska
+    bio: >-
+      Lifestyle Bloger from Poland 🇵🇱 💎 #Books, #Cosmetics and #Lifestyle 💌 DM📥/gleamofhope9@gmail.com ⚡️
+    location: "Poland"
+    followers: 23270
+    engagement: 394
+    commentsToLikes: 0.051407
+    id: ckaoyafazgo940i78u39wa02h
+    verified: false
+    hashtags: "#readersofinstagram, #instabook, #readingtime, #ksia"
 ---

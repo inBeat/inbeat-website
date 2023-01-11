@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Milan in 2023
+title: Top 10 Beauty TikTok Influencers In Milan In 2023
 description: >-
-  Find top beauty TikTok influencers in Milan in 2023. Most popular hashtags: #beauty #foryou #viral #fyp.
+  Find top beauty TikTok influencers in Milan in 2023. Most popular hashtags: #beauty #foryou #perte #fyp.
 platform: TikTok
-hits: 12
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 12 TikTok influencers like this in Milan, Italy for you to collaborate.
+hits: 7
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 7 TikTok influencers like this in Milan, Italy for you to collaborate.
 profiles:
-  - username: "dj_eva_fiesta"
+  - username: "giuliamoshi"
     fullname: >-
-      Dj_eva_fiesta
+      G I U L I A🌙
     bio: >-
-      DJ from Milan🖤 Fun, Trend, Fashion
+      Just for fun 🇨🇳🇮🇹 Instagram: giuliamoshi
     location: "Italy"
-    followers: 3671
-    engagement: 467
-    commentsToLikes: 0.068693
-    id: ck9du4xezeyo80j7845ilgxyo
+    followers: 10700
+    engagement: 1244
+    commentsToLikes: 0.028888
+    id: ckavn1rt6x5tj0j235qcqlppn
     verified: false
-    hashtags: "#fashiongoals, #djevafiesta, #savege, #djane"
-  - username: "aleksevsk"
+    hashtags: "#fy, #test, #unboxing, #natale"
+  - username: "surbola"
     fullname: >-
-      ALEKSE
+      nicolasurbera
     bio: >-
-      Verona, Italia 🇧🇾/ 🇮🇹 Arriviamo a 150k?🥺 Insta: aleksevsk ⬆️❤️
+      ⭐️Nicola Surbera⭐️ Quello delle canzoni inglesi in italiano Un romano a Milano
     location: "Italy"
-    followers: 124400
-    engagement: 2194
-    commentsToLikes: 0.015050
-    id: ck9ae5u410dzm0j78rc3c00fo
+    followers: 81400
+    engagement: 1514
+    commentsToLikes: 0.026992
+    id: ck9flwmudqbgy0j78p2gi65ww
     verified: false
-    hashtags: "#dance, #modello, #italia, #scherzo"
-  - username: "elisa.martinellii"
+    hashtags: "#beauty, #moustache, #duetto, #informati"
+  - username: "_lowis_"
     fullname: >-
-      Elisa Martinelli
+      lowisnegroooo❤️
     bio: >-
-      Italy//18🇮🇹 ✨Based in Milan 🔥 Seguitemi su Instagram: _elisamartinelli 🥵🤪
+      19 years old🇮🇹🇩🇪 Live in MILANO ShowJumper 🐎 👉🏻 Ig: lowisnegrooooo 👈🏻
     location: "Italy"
-    followers: 17500
-    engagement: 948
-    commentsToLikes: 0.013005
-    id: cka6dsrax93jq0i78ekmmib16
+    followers: 32500
+    engagement: 1526
+    commentsToLikes: 0.008752
+    id: ckacaj6lrgyoh0i78p5edvgr1
     verified: false
-    hashtags: "#nopressure, #perte, #viral, #foryoupage"
-  - username: "denisecoriglianooo"
-    fullname: >-
-      Denise🐙
-    bio: >-
-      Milano📍 07 🐉Go to 50k🐉 IG: denisecoriglianoo
-    location: "Italy"
-    followers: 40800
-    engagement: 2709
-    commentsToLikes: 0.037037
-    id: cka0phqs38al30i782tent2cb
-    verified: false
-    hashtags: "#fyp, #perte, #pov, #viral"
+    hashtags: "#equestrian, #pferd, #cavallo, #foryoupage"
   - username: "cataldihealth"
     fullname: >-
       Cataldi Health 
     bio: >-
       Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
     location: "Italy"
-    followers: 56000
-    engagement: 1861
-    commentsToLikes: 0.012609
+    followers: 55100
+    engagement: 1385
+    commentsToLikes: 0.013724
     id: ck8s5jvwzg8i50j785nktn2vv
     verified: false
-    hashtags: "#cataldihealth, #naturopathy, #sweet, #nutrizione"
-  - username: "martapareccini"
+    hashtags: "#naturopata, #sweet, #cataldi, #fruit"
+  - username: "raggio.sara"
     fullname: >-
-      Marta Pareccini
+      raggio.sara
     bio: >-
-      BEAUTY • FASHION • LIFESTYLE Vi aspetto anche su Instagram ⬇️ @martapareccini
+      Instagram raggio.sara e raggio.sara.heels 🍀😘
     location: "Italy"
-    followers: 28600
-    engagement: 975
-    commentsToLikes: 0.008799
-    id: ck8vsi18kdnz70j788usd969d
+    followers: 42200
+    engagement: 811
+    commentsToLikes: 0.099405
+    id: ckd09qd1obob90j23vcr96694
     verified: false
-    hashtags: "#skincare, #skincaretips, #fashion, #makeup"
-  - username: "eddy_kood"
-    fullname: >-
-      eddy 
-    bio: >-
-      📍🇮🇹 🇦🇱 ( Instagram eddykood)
-    location: "Italy"
-    followers: 2908
-    engagement: 464
-    commentsToLikes: 0.013690
-    id: ckbqudcy2eshv0j23pfj5chxr
-    verified: false
-    hashtags: "#tiktokitaly, #video, #beach, #milan"
-  - username: "senzatruccoyoutube"
-    fullname: >-
-      Senza Trucco
-    bio: >-
-      YouTuber +260K ⭐⭐⭐⭐⭐ 🔥 IG ➡️ @senzatruccoyoutube LAST VIDEO ⛔🎥⛔
-    location: "Italy"
-    followers: 155100
-    engagement: 1977
-    commentsToLikes: 0.008882
-    id: ck9aarkwxlrdb0j78csy8yjjt
-    verified: false
-    hashtags: "#cosmetics, #neiperte, #beauty, #divertente"
+    hashtags: "#highheels, #neiperte, #comic, #funny"
   - username: "asiarossi_01"
     fullname: >-
       larossi_01
     bio: >-
       
     location: "Italy"
-    followers: 4592
-    engagement: 736
-    commentsToLikes: 0.023716
+    followers: 4706
+    engagement: 740
+    commentsToLikes: 0.027956
     id: ckcjfys95bbyd0j23zzpy0wur
     verified: false
-    hashtags: "#green, #saldi, #passione, #tiger"
-  - username: "rosalie.ndour"
+    hashtags: "#yvesrocheritalia, #love, #yvesrocher, #beauty"
+  - username: "cataldibeauty"
     fullname: >-
-      Rosalie ndour
+      Cataldi Beauty
     bio: >-
-      Welcome🙏🏽everyone❤️ Model🇸🇳🇮🇹🇫🇷 Instagram: @IAMROSALIENDOUR Youtube:👇🏾
+      👇 Lavora con me! info@cataldi.com
     location: "Italy"
-    followers: 149000
-    engagement: 1157
-    commentsToLikes: 0.020428
-    id: ckb981q8dr3jc0j23ga6ko1xx
+    followers: 1400000
+    engagement: 1030
+    commentsToLikes: 0.016638
+    id: ck8fbwkyt56wl0j78b5g6sa8h
     verified: false
-    hashtags: "#lol, #poutoi, #mdr, #fyp"
+    hashtags: "#naturopata, #oliessenziali, #cataldibeauty, #duetto"
+  - username: "terry.lozano"
+    fullname: >-
+      Terry Lozano
+    bio: >-
+      💌 beautywithterry@outlook.com CEO of TESSORO ✨ UNISCITI ALLA TESSORO FAMILY🤩✨
+    location: "Italy"
+    followers: 194500
+    engagement: 2386
+    commentsToLikes: 0.015793
+    id: ckc1xiwft1fjt0j23eunb6zn9
+    verified: false
+    hashtags: "#unpopolaropinion, #perte, #funny, #girlythings"
+  - username: "francesco_beautycoach"
+    fullname: >-
+      FrancescoBeautyCoach
+    bio: >-
+      🤣 Commentiamo insieme i video più divertenti del Web LIVE: Beauty Coaching
+    location: "Italy"
+    followers: 29400
+    engagement: 1257
+    commentsToLikes: 0.130966
+    id: ckck5u04wqvuj0j23hqar0ei1
+    verified: false
+    hashtags: "#iomidiverto, #duetto, #francescobeautycoach, #viral"
+  - username: "jessicadenic"
+    fullname: >-
+      Jessica De Nicola 🌹
+    bio: >-
+      💅Trucchi e consigli Beauty💄 💌 denicolajessica@gmail.com
+    location: "Italy"
+    followers: 357500
+    engagement: 1500
+    commentsToLikes: 0.015813
+    id: ck8vshug6dmpg0j78bxaq31ie
+    verified: false
+    hashtags: "#imparacontiktok, #doppiepunte, #nails, #sheglam"
 ---

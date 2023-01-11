@@ -1,69 +1,57 @@
 ---
-title: Top 10 Christian TikTok Influencers In Sydney in 2023
+title: Top 10 Christian TikTok Influencers In Sydney In 2023
 description: >-
-  Find top christian TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #christian #australia #duet.
+  Find top christian TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #duet #christian #jesus.
 platform: TikTok
-hits: 5
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 5 TikTok influencers like this in Sydney, Australia for you to connect with.
+hits: 4
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 4 TikTok influencers like this in Sydney, Australia for you to collaborate.
 profiles:
   - username: "tik_dox"
     fullname: >-
       mathewt_piukala
     bio: >-
-      Christian, Tongan, SYD - Central coast 😊
+      Christian, Married, Tongan, SYD - Central coast 😊
     location: "Australia"
-    followers: 15400
-    engagement: 1039
-    commentsToLikes: 0.052945
+    followers: 15500
+    engagement: 889
+    commentsToLikes: 0.040492
     id: ck81qq6vxix990j786b1zoe3p
     verified: false
-    hashtags: "#centralcoast, #health, #tongan, #sydney"
-  - username: "winniefarry"
+    hashtags: "#duet, #centralcoast, #tongan, #fyp"
+  - username: "winnie_vlogs"
     fullname: >-
       Winnie Farry
     bio: >-
-      Aus 🇦🇺 Lover of Jesus Providing: Vlogs and Entertainment Thx for 31k!! 💗
+      Family vlogs and entertainment :)
     location: "Australia"
-    followers: 31000
-    engagement: 1370
-    commentsToLikes: 0.016945
+    followers: 30800
+    engagement: 1272
+    commentsToLikes: 0.010903
     id: ck9flnliioyg00j78chp9gow5
     verified: false
-    hashtags: "#australia, #sisters, #sunset, #fyp"
+    hashtags: "#australia, #vlog, #family, #fyp"
   - username: "michael_nasss"
     fullname: >-
       MichaelNasss🇱🇧
     bio: >-
-      CEO of Lebanon و Ana Majnoun 🚨GIVEAWAY ON MY INSTAGRAM🚨
+      🇦🇺🇱🇧 CEO of Lebanon ميشو
     location: "Australia"
-    followers: 29200
-    engagement: 790
-    commentsToLikes: 0.074213
+    followers: 35200
+    engagement: 688
+    commentsToLikes: 0.082517
     id: ckcpsquqln4xs0j23e13jtr92
     verified: false
-    hashtags: "#sydneyvibehouse, #tattoo, #arabcreators, #mcspicymoves"
-  - username: "berrrna"
-    fullname: >-
-      Berna | 🇵🇸🇮🇪
-    bio: >-
-      ♱ | 💚💙 | #estubid my grandparents are my alter ego 📧 berrrna.x@gmail.com
-    location: "Australia"
-    followers: 145400
-    engagement: 1058
-    commentsToLikes: 0.048026
-    id: ckc3f7nyk16fp0j23zbf7nurf
-    verified: false
-    hashtags: "#viral, #arab, #trend, #vlog"
+    hashtags: "#lebanese, #fyp, #duet, #stitch"
   - username: "xchristinas"
     fullname: >-
       CHRISTINA
     bio: >-
       Sydney Australia 🇦🇺
     location: "Australia"
-    followers: 2133
-    engagement: 1573
-    commentsToLikes: 0.006776
+    followers: 2091
+    engagement: 1571
+    commentsToLikes: 0.006086
     id: ckb9s68b8p41h0j234b7cm9za
     verified: false
     hashtags: "#fyp, #quarantine, #sydney"
@@ -73,58 +61,70 @@ profiles:
     bio: >-
       Wifey ♡ Mama bear to 3 angels ♡ road to 5K! Alternative Christian ♡
     location: "Australia"
-    followers: 3553
-    engagement: 1860
-    commentsToLikes: 0.065398
+    followers: 3495
+    engagement: 1827
+    commentsToLikes: 0.062196
     id: ckb9mhiygfrxs0j23p2uad1sn
     verified: false
-    hashtags: "#attitude, #cute, #love, #viral"
-  - username: "officialtessasol"
+    hashtags: "#tattoos, #mentalhealth, #altgirl, #girlswithtattoos"
+  - username: "official_tessasol"
     fullname: >-
       🦋 Tessa Solomon 🦋
     bio: >-
-      ✝️ Christian 🇻🇺 Melanesian 🇸🇧 Indigenous Australian 🇦🇺
+      Christian ✝️ Indigenous Australian 👣🇦🇺 Melanesian 🇻🇺🖤
     location: "Australia"
-    followers: 4094
-    engagement: 1686
-    commentsToLikes: 0.026108
+    followers: 4255
+    engagement: 1627
+    commentsToLikes: 0.030063
     id: ckb9pq2bcl3ab0j23skgzxsim
     verified: false
-    hashtags: "#jesus, #southseaislander, #australia, #christian"
+    hashtags: "#blackanddeadly, #aboriginal, #southseaislander, #fyp"
   - username: "tik_dox"
     fullname: >-
       mathewt_piukala
     bio: >-
-      Christian, Tongan, SYD - Central coast 😊
+      Christian, Married, Tongan, SYD - Central coast 😊
     location: "Australia"
-    followers: 15400
-    engagement: 1039
-    commentsToLikes: 0.052945
+    followers: 15500
+    engagement: 889
+    commentsToLikes: 0.040492
     id: ck81qq6vxix990j786b1zoe3p
     verified: false
-    hashtags: "#centralcoast, #health, #tongan, #sydney"
-  - username: "lozzabi"
-    fullname: >-
-      lauren may 🦋
-    bio: >-
-      TPWK 💛 she/her 🥰 Anglican & LGBT+ 🏳️‍🌈✝️ dms open 🦋 HELPFUL LINKS ⬇️
-    location: "Australia"
-    followers: 34600
-    engagement: 2516
-    commentsToLikes: 0.040882
-    id: ck9drtucf5h6z0j78oelk7f3k
-    verified: false
-    hashtags: "#girls, #yungblud, #wlw, #xyzcba"
+    hashtags: "#duet, #centralcoast, #tongan, #fyp"
   - username: "brandonshashati"
     fullname: >-
       bshashati
     bio: >-
-      All for God 🙌🙏 Insta: @this_is_godstruth or @brandon_shashat1 Australia -17
+      All for God 🙌🙏 Insta: @this_is_godstruth or @brandon_shashat1 Australia -18
     location: "Australia"
-    followers: 17000
-    engagement: 2779
-    commentsToLikes: 0.031403
+    followers: 17500
+    engagement: 2308
+    commentsToLikes: 0.035069
     id: ckal6f2soaume0i787wqc74fm
     verified: false
-    hashtags: "#bible, #god, #fyp, #christian"
+    hashtags: "#christian, #christianboy, #bible, #christiangirl"
+  - username: "lozzabi"
+    fullname: >-
+      lauren may 🦋
+    bio: >-
+      hiya sunflowers, dm me 🌻 she/her 🧸💛 ✞ Anglican ✞ queer 🏳️‍🌈 USEFUL LINKS ⏬
+    location: "Australia"
+    followers: 35400
+    engagement: 1841
+    commentsToLikes: 0.034621
+    id: ck9drtucf5h6z0j78oelk7f3k
+    verified: false
+    hashtags: "#christian, #xyzbca, #trending, #god"
+  - username: "kidstallionez"
+    fullname: >-
+      Henrystar
+    bio: >-
+      Follow ma insta @stallyfitness Tiktoker of Christ. God is my number 1
+    location: "Australia"
+    followers: 5126
+    engagement: 1093
+    commentsToLikes: 0.040475
+    id: ckbqbg2cex8ou0j23er82hwh6
+    verified: false
+    hashtags: "#dance, #christiantiktoker, #singer, #greenscreensticker"
 ---

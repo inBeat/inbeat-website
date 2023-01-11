@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Chicago in 2023
+title: Top 10 Lifestyle Instagram Influencers In Chicago In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Chicago in 2023. Most popular hashtags: #ad #sponsored #chicago #fashion.
+  Find top lifestyle Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #chicagogram #travel #chicity.
 platform: Instagram
-hits: 254
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 254 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 241
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 241 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "jeniraitz"
+  - username: "melissilvain"
     fullname: >-
-      Jeni Raitz
+      MELISSA EMILIA
     bio: >-
-      🌻 content creator | fashion • beauty • lifestyle chicago - il
+      > 𝑩𝒂𝒔𝒆𝒅 𝒊𝒏 𝑨𝒕𝒍𝒂𝒏𝒕𝒂, 𝑮𝑨 soon, Philly, Boston, NYC, Aruba & Curaçao when I feel like giving up on my dreams, I keep sleeping ✉️ melissilvain@outlook.com
     location: "United States"
-    followers: 51223
-    engagement: 228
-    commentsToLikes: 0.045935
-    id: ck5cdiebmj83w0i11yzg8s6e3
+    followers: 3207
+    engagement: 910
+    commentsToLikes: 0.222928
+    id: ckaosy7evtjpt0i784n2wwbnn
     verified: false
-    hashtags: "#shein, #revolve, #revolveme, #sheingals"
-  - username: "victormweu"
+    hashtags: "#selfcare, #atlanta, #curvy, #music"
+  - username: "dr.sogol.nik"
     fullname: >-
-      Victor Mweu ♛
+      سوگل 🌸
     bio: >-
-      Merrill Lynch Financial Advisor
+      📍 Chicago 👩🏻‍⚕️ Dentist | Traveler 💍 married to @persian_americans 🌱 my lifestyle blog @dr.sogol.diary
     location: "United States"
-    followers: 9084
-    engagement: 854
-    commentsToLikes: 0.029842
-    id: ckap1rebevsq80i785uokdyhf
+    followers: 380782
+    engagement: 1011
+    commentsToLikes: 0.110344
+    id: ck8t5thupb6xd0j78ykwakpum
     verified: false
-    hashtags: "#motivation, #gym, #street, #lamodel"
+    hashtags: "#happy, #blogger, #styleblogger, #vlogger"
   - username: "thelensoftruth"
     fullname: >-
-      The Lens of Truth
+      Benjamin
     bio: >-
-      Benjamin Shoot everything 📸 @sonyalpha 𝐀𝐜𝐜𝐞𝐩𝐭𝐢𝐧𝐠 𝐛𝐨𝐨𝐤𝐢𝐧𝐠𝐬! 𝐃𝐌 𝐟𝐨𝐫 𝐫𝐚𝐭𝐞𝐬/𝐢𝐧𝐪𝐮𝐢𝐫𝐢𝐞𝐬! 𝐂𝐢𝐭𝐲𝐬𝐡𝐨𝐨𝐭𝐞𝐫+𝐖𝐞𝐝𝐝𝐢𝐧𝐠𝐬+𝐏𝐨𝐫𝐭𝐫𝐚𝐢𝐭𝐬 Click on the link for prints.
+      📸 Hire me! Wedding and Portrait Page @captureports Available for prints
     location: "United States"
-    followers: 10240
-    engagement: 861
-    commentsToLikes: 0.069211
+    followers: 11800
+    engagement: 816
+    commentsToLikes: 0.074834
     id: ck5c52pm72lyr0i11qtslht4b
     verified: false
-    hashtags: "#chicagolife, #urbanmatterchicago, #timeoutchicago, #portraitsquad"
+    hashtags: "#passionpassport, #chicagogram, #city, #likechicago"
   - username: "likechicago"
     fullname: >-
       Like Chicago
     bio: >-
-      ⚡️Founder/Owner: @javierbgd 📸Tag #likechicago 💥My other galleries: @likenewyorkcity @likebuenosaires @likezonanorte @likeinternational
+      Founder/Owner: @javierbgd 📸Tag #likechicago 🚀 @likecreativity_
     location: "United States"
-    followers: 53851
-    engagement: 205
-    commentsToLikes: 0.011472
+    followers: 71702
+    engagement: 139
+    commentsToLikes: 0.010846
     id: ck5znec1noasn0i146zbqa6tf
     verified: false
     hashtags: ""
-  - username: "halesyeahchi"
+  - username: "kimlycurry"
     fullname: >-
-      Haley Kathryn ✨
+      Lil Miss Foodie
     bio: >-
-      Hi hi! 🙋🏻‍♀️ Sharing my style + life + food 🥳 ✨outfit ideas • editing tutorials • real life✨ ⇾ Chicago ✉︎ halesyeahchi@gmail.com ☟Shop my outfits☟
+      We love you #scotchtrooper 🖤 Mpls, MN. I'm food-obsessed and I love to eat and travel. @zagat Top 100 Food IGers in the U.S. #lilmissfoodie
     location: "United States"
-    followers: 10135
-    engagement: 546
-    commentsToLikes: 0.318847
-    id: ck8tdramq4ho60j78a7ipxz59
+    followers: 51106
+    engagement: 203
+    commentsToLikes: 0.176718
+    id: ck0w09amrd1c40i19hfr90zon
     verified: false
-    hashtags: "#spookyseason, #trendingnow, #fashionblogger, #autumnoutfits"
-  - username: "zamoraeunice"
+    hashtags: "#stpaul, #comfortfood, #tastingtable, #nevada"
+  - username: "anotherchicago"
     fullname: >-
-      Eunice🇲🇽 |Chicago Blogger
+      𝐀𝐍𝐎𝐓𝐇𝐄𝐑 𝐂𝐇𝐈𝐂𝐀𝐆𝐎 | Collage Art
     bio: >-
-      Makeup| Fashion | Lifestyle 🤱🏻PROUD MOM OF #3👶🏻 📲Content Creator 💻 Co-Founder @soylatinaoficial 📍Chicago Business Inquiries 📧zamoraeunice@yahoo.com
+      👤 ⠀𝗜 𝗮𝗺 : 𝙶𝚛𝚊𝚙𝚑𝚒𝚌 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛 𝚊𝚗𝚍 𝙰𝚛𝚝𝚒𝚜𝚝⁣ 🛠 ⠀𝗧𝗼𝗼𝗹𝘀 : 𝙲𝚊𝚖𝚎𝚛𝚊, 𝙿𝚑𝚘𝚝𝚘𝚜𝚑𝚘𝚙, 𝙻𝚒𝚐𝚑𝚝𝚛𝚘𝚘𝚖⁣ 📨⠀ 𝗗𝗠 𝗳𝗼𝗿 : 𝙿𝚛𝚒𝚗𝚝𝚜, 𝙲𝚘𝚟𝚎𝚛 𝙰𝚛𝚝 𝚊𝚗𝚍 𝙲𝚘𝚕𝚕𝚊𝚋𝚜⁣ 🎨 ⠀𝗖𝗢𝗠𝗠𝗜𝗦𝗦𝗜𝗢𝗡𝗦 : Closed❌
     location: "United States"
-    followers: 12578
-    engagement: 764
-    commentsToLikes: 0.051811
-    id: ck0w3hepztf830i19qam0tmom
+    followers: 15415
+    engagement: 382
+    commentsToLikes: 0.077426
+    id: ck0w42ikqwhfo0i19ddhfxhbr
     verified: false
-    hashtags: "#thingstodoinchicago, #pregnancy, #chicagomom, #fashionaddict"
-  - username: "nikarichii"
+    hashtags: "#chicity, #artofchi, #igchicago, #usaprimeshot"
+  - username: "conexao.america"
     fullname: >-
-      VERONIKA | Chicago Creator 💙
+      Conexão América
     bio: >-
-      < beauty & petite fashion (5’3’’) > 📍Chicago,IL < storyteller✍🏼 > 📧 veronika.bandurka@gmail.com
+      Dicas da América🇺🇸,🇧🇷fotos,lugares,compras, curiosidades, restaurantes,viagens,política,imigração etc. Blog pessoal
     location: "United States"
-    followers: 69983
-    engagement: 272
-    commentsToLikes: 0.023301
-    id: ckaoxb9upcl8d0i78zrw3bpqo
+    followers: 15824
+    engagement: 210
+    commentsToLikes: 0.017131
+    id: ck5q2yd9didcp0i11kxkjc1wh
     verified: false
-    hashtags: "#ootd, #netflix, #x3, #edifier"
-  - username: "thelivstyle"
+    hashtags: "#nycityworld, #florida, #miami, #dream"
+  - username: "joshdixon"
     fullname: >-
-      Olivia Chan
+      Josh Dixon
     bio: >-
-      👩🏻‍💻 Blogger of all things 👇🏼 ✨ Fashion • Beauty • Lifestyle 🏠 Chicago based ⇄ NYC 👰🏻 Bride-to-be ♥💍 #engaged 💌 thelivstyle@gmail.com
+      📍SoCal •athlete, entrepreneur, owner @chicagoredstars ⚽️ •alumni: @TeamUSA 🇺🇸 🤸🏽‍♂️ | @stanford 🌲🤓
     location: "United States"
-    followers: 27604
-    engagement: 345
-    commentsToLikes: 0.148323
-    id: ck5cdur4mjt9y0i11h8xlxm4c
-    verified: false
-    hashtags: "#abercrombiepartner, #liketkit, #ad, #abercrombiestyle"
-  - username: "asailorswifeblog"
+    followers: 238675
+    engagement: 173
+    commentsToLikes: 0.025664
+    id: ck0tzs1csre3b0i19vcydn7vo
+    verified: true
+    hashtags: "#la, #team, #athlete, #tech"
+  - username: "somepopofcolor"
     fullname: >-
-      Kristal Leon| A Sailors Wife
+      Monika | Some Pop Of Color
     bio: >-
-      + Military wife and Mom + Mom Blogger 📍Chicago + Lifestyle + Travel blogger + Children's book Reviewer
+      • This is my COLOR story 🎨💛 • Fashion/ lifestyle blogger • Chicago • Wife • Homeschooling our boys • Our little backyard farm🐓🐔—> @grunwald.farm
     location: "United States"
-    followers: 28853
-    engagement: 847
-    commentsToLikes: 0.095411
-    id: ck6tut8smia230j71n2o5heos
+    followers: 55564
+    engagement: 95
+    commentsToLikes: 0.178173
+    id: ck0twpbbyg9x70i19jthyysdh
     verified: false
-    hashtags: "#notsorry, #lagunamoonbeauty, #wooshbeauty, #wbpartner"
-  - username: "iamdoctor_x"
+    hashtags: "#itsmidaprildamnit, #lakegenevawisconsin, #siblinglove, #socialdistancing"
+  - username: "trendlessblog"
     fullname: >-
-      🅐🅡🅗🅐🅜 🅧🅐🅥🅔🅡🅨, 🅜.🅓.
+      Lisa | Trendless Blog
     bio: >-
-      🥼 Nocturnist-Hospitalist 🌎 Traveler 👔 Fashion/Lifestyle 🇵🇰/🇺🇸 📍Chicago
+      Affordable everyday style | Home decor + reno | Lifestyle 📍Chicago, IL 💌 Lisa@trendlessblog.com Shop my feed 👇🏼
     location: "United States"
-    followers: 5577
-    engagement: 905
-    commentsToLikes: 0.057162
-    id: ckapah149w2f90i78l5x73zd1
+    followers: 53209
+    engagement: 195
+    commentsToLikes: 0.029547
+    id: ck5he4s2fr1xh0i116jgxyb2a
     verified: false
-    hashtags: "#sponsored, #amglife"
+    hashtags: "#nsale, #expresspartner, #liketkit, #trendlessstyle"
 ---

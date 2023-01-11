@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In London in 2023
+title: Top 10 Food Instagram Influencers In London In 2023
 description: >-
-  Find top food Instagram influencers in London in 2023. Most popular hashtags: #london #londonfood #londonfoodie #foodporn.
+  Find top food Instagram influencers in London in 2023. Most popular hashtags: #london #londonfood #food #londonfoodie.
 platform: Instagram
-hits: 504
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 504 Instagram influencers like this in London, United Kingdom for you to collaborate.
+hits: 370
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 370 Instagram influencers like this in London, United Kingdom for you to work with.
 profiles:
   - username: "thinkingfood247"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🍴:Food 🇬🇧:London 👨🏽‍🍳:Cooking 🌍:Travel ✈️:Costa Del Sofa 📸:#thinkingfood247 👉🏻🍕🍔🍜🍣🍦🍳👈🏻 📧 thinkingfood247@gmail.com
     location: "United Kingdom"
-    followers: 32909
-    engagement: 121
-    commentsToLikes: 0.147507
+    followers: 38347
+    engagement: 98
+    commentsToLikes: 0.121409
     id: ck9wd1szcdoji0j78cqim77ws
     verified: false
-    hashtags: "#foodporn, #homemade, #thinkingfood247, #gifted"
+    hashtags: "#thinkingfood247, #eseaeats, #thisislondon, #eeeeeats"
   - username: "afternoonteadiaries"
     fullname: >-
       Afternoon Tea Diaries London
     bio: >-
-      Afternoon Tea, Food & London Blogger Tea, Cake, Luxury Hotels & More #afternoonteadiaries ☕️🍰🥂♥️✨ All Content©️M Patel DM / Email: Reviews / Collabs
+      Afternoon Tea, Food & London Tea, Cake & More #afternoonteadiaries ☕️🍰🥂♥️✨ 💌 afternoonteadiaries@gmail.com
     location: "United Kingdom"
-    followers: 5489
-    engagement: 958
-    commentsToLikes: 0.133179
+    followers: 6054
+    engagement: 937
+    commentsToLikes: 0.123844
     id: ck0vwgl78tm7k0i19meko365u
     verified: false
-    hashtags: "#christmasafternoontea, #tealover, #teafortwo, #thisislondon"
+    hashtags: "#londoncityworld, #timefortea, #prettyinpink, #festiveafternoontea"
+  - username: "wanderfultraveler"
+    fullname: >-
+      Travel ⁺ Lifestyle ♥ Melissa
+    bio: >-
+      ≋ epic places • luxe hotels • dining ⋒ mgmt@wanderfultraveler.com ≐ freelance social + content ⍜ food @londonfoodmagazine ☽ fully vaccinated! 🌎
+    location: "United Kingdom"
+    followers: 45442
+    engagement: 232
+    commentsToLikes: 0.121277
+    id: ck0w2373umeke0i19q0we6ca1
+    verified: false
+    hashtags: "#freeprints, #almostspringtime, #takemeback, #internationalwomensday"
   - username: "you_had_me_at_pizzax"
     fullname: >-
-      ABBIE | LONDON FOOD BLOGGER 🍕
+      Abbie | Food Blogger
     bio: >-
-      🦋 @abbie_clark 📍 South London | Surrey 💌 DM/Email for Collabs 📧 youhadmeatpizza@hotmail.com 🍕 Pizza & Brunch OBSESSED
+      💓 surrey / london eats 🥑 recipes, restaurants & travel 🍕 pizza queeeeeen 💌 youhadmeatpizza@hotmail.com
     location: "United Kingdom"
-    followers: 4522
-    engagement: 1573
-    commentsToLikes: 0.154912
+    followers: 6044
+    engagement: 604
+    commentsToLikes: 0.240092
     id: ckap51b889qoe0i78btzgjr7p
     verified: false
-    hashtags: "#londonrestaurants, #homecooking, #cocktails, #explore"
-  - username: "halalfoodbros"
+    hashtags: "#londonlife, #foodieuk, #londoncocktails, #viral"
+  - username: "collettemichelle"
     fullname: >-
-      HalalFoodBros - S & T
+      Collette Michelle
     bio: >-
-      Reviews so detailed you can almost taste it 😋 DM for promotions or review of your offerings DM for collaborations/giveaways
+      London 🇮🇪 In God we Trust ❤️ ✝️
     location: "United Kingdom"
-    followers: 6719
-    engagement: 961
-    commentsToLikes: 0.023706
-    id: ck6ueyecntri00j715ufwuadt
+    followers: 17836
+    engagement: 259
+    commentsToLikes: 0.094885
+    id: ck5c5eyij3ch00i1121jqyjvq
     verified: false
-    hashtags: "#nutella, #halal, #rice, #milkcake"
-  - username: "cha_squared"
+    hashtags: "#trainingday, #legday, #trainhard, #boxing"
+  - username: "kefusan"
     fullname: >-
-      #TheChaLife ▪︎ Wine Consultant
+      Kefu-san 🇬🇧🇯🇵🍽🍷🚗
     bio: >-
-      #Sommelier & Experience Producer @wineenthusiast #40Under40 🍷 Wine + ✈Travel 📍NYC | US & Lisbon ChaMcCoy.com Creator of #TheCommunion
+      Based in London Wine, Food, Football, Cars and Theatre #washyourhands #wearamask #socialdistancing
     location: "United Kingdom"
-    followers: 5470
-    engagement: 546
-    commentsToLikes: 0.088964
-    id: ck15r84ld6mdz0i19wisezdtl
+    followers: 14338
+    engagement: 649
+    commentsToLikes: 0.020222
+    id: ck137esdlb6q70i19x9349a40
     verified: false
-    hashtags: "#vino, #events, #wineno, #blacksomm"
-  - username: "davidealbertichef"
+    hashtags: "#food, #londonfoodstagram, #homemade, #instafood"
+  - username: "thelondonfoodie"
     fullname: >-
-      Davide Alberti
+      Luiz Hara
     bio: >-
-      Sous chef @mortimerhouse @mortimerhousekitchen London, United Kingdom 🇬🇧 Chef 🇮🇹 Born in Brescia/Italy/1989
+      👨‍🍳Ex-Banker turned #LeCordonBleu Chef 📍London SupperClub🥂 ✍️Author #TheJapaneseLarder & #NikkeiCuisine 🏳️‍🌈#LGBT 🏖Travel Writer
     location: "United Kingdom"
-    followers: 7178
-    engagement: 744
-    commentsToLikes: 0.014174
-    id: ck5hkypicj9ji0i11onckzu94
-    verified: false
-    hashtags: "#chefmode, #foodlovers, #chefmodel, #quarantinelife"
-  - username: "kyoxkai"
-    fullname: >-
-      Kyo & Kai
-    bio: >-
-      👩‍❤️‍👨 🇲🇾 x 🇫🇷 🇬🇧 #London based couple 📸 Travel & Lifestyle 📧 kyoxkai@gmail.com
-    location: "United Kingdom"
-    followers: 49950
-    engagement: 220
-    commentsToLikes: 0.010623
-    id: ck0vyp25253bv0i19cr8fqg68
-    verified: false
-    hashtags: "#london, #londonforyou, #vacationgoals, #londontown"
-  - username: "thefoodspotss"
-    fullname: >-
-      London Foodie | Recipe creator
-    bio: >-
-      💃🏾Anas Proverbs 3:7 All recipes are in the link👇🏾👇🏾 📬Contact through DM or email 📧 thefoodspots@outlook.com
-    location: "United Kingdom"
-    followers: 6082
-    engagement: 900
-    commentsToLikes: 0.154204
-    id: ck0w3oflfug010i19lhuzq0wn
-    verified: false
-    hashtags: "#makeitdelicious, #thefeedfeed, #londonfoodies, #brownies"
-  - username: "ursulaunfiltered"
-    fullname: >-
-      Ursula
-    bio: >-
-      Filter the photos, not the thoughts 👩🏻‍💻 Work in food marketing 🥑 Sharing what I eat, drink and cook from my Clapham kitchen 🥂
-    location: "United Kingdom"
-    followers: 2288
-    engagement: 1235
-    commentsToLikes: 0.078959
-    id: ckaozknvvmant0i7892i1jnae
-    verified: false
-    hashtags: "#thatfoodblog, #shareyourtable, #londonfoodie, #reel"
+    followers: 36002
+    engagement: 186
+    commentsToLikes: 0.069950
+    id: ck55mmcew49qe0i1142lhru95
+    verified: true
+    hashtags: "#food, #londonfoodblogger, #homemade, #love"
   - username: "fatgirlsfoodguide"
     fullname: >-
       Fab Foodie based in London
     bio: >-
-      London Cocktail Month 🍸 Oct 1st - 31st Click the link above to get £6 cocktails in London’s hottest bars 🔥
+      Food, Travel & Cocktails 🌮✈️🍸 Follow me as I rediscover London after living in Korea for 10 years 💕
     location: "United Kingdom"
-    followers: 17194
-    engagement: 211
-    commentsToLikes: 0.218932
+    followers: 17669
+    engagement: 159
+    commentsToLikes: 0.281053
     id: ck0tx2nufhniw0i1927wg5b7a
     verified: false
-    hashtags: "#italian, #lockdownlife, #londonbrunch, #cookingathome"
+    hashtags: "#champagne, #londonfoodscene, #recipes, #londonfoodies"
+  - username: "thebrunchbros_"
+    fullname: >-
+      The Brunch Bros
+    bio: >-
+      Four bros on a mission to show off their eating prowess to the world! 📍London 📍Cheltenham 📍Bristol 📩Tap Email👇🏼 to be featured! 📩
+    location: "United Kingdom"
+    followers: 11488
+    engagement: 273
+    commentsToLikes: 0.095272
+    id: ck55nh8z367o20i11xe83ka4w
+    verified: false
+    hashtags: "#prsample, #food, #london, #foodgram"
+  - username: "abshhha"
+    fullname: >-
+      law • london 🇧🇩
+    bio: >-
+      beauty | fashion | lifestyle DM/Email for collabs/promo
+    location: "United Kingdom"
+    followers: 44216
+    engagement: 508
+    commentsToLikes: 0.044690
+    id: ck5zz3ulfb0wh0i14az3neoec
+    verified: false
+    hashtags: "#instagood, #fashion, #style, #shein"
 ---

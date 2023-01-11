@@ -1,96 +1,48 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Malaysia in 2023
+title: Top 10 Cosmetics Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Malaysia in 2023. Most popular hashtags: #stayhome #love #skincare #cosmetics.
+  Find top cosmetics Instagram influencers in Malaysia in 2023. Most popular hashtags: #skincare #love #beauty #instagood.
 platform: Instagram
-hits: 26
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 26 Instagram influencers like this in Malaysia for you to connect with.
+hits: 18
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 18 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "azrilradzi"
+  - username: "the_beauty_insideout"
     fullname: >-
-      azrilradzi
+      shub here
     bio: >-
-      V’Asia Cosmetic Positive peoples, vibes & comments only... @vasia.official
+      23 🦄Content Creator🌌 Aspiring MUA💄💋💋 💯Honest review's only! 📬Dm or E-mail for PR/collab thebeautyinsideout1218@gmail.com
     location: "Malaysia"
-    followers: 109864
-    engagement: 154
-    commentsToLikes: 0.027683
-    id: ck6u0e7cif65s0j71k3sks2tz
-    verified: true
-    hashtags: "#galaxybudslive, #teamgalaxy, #backbone, #cuticutimalaysia"
-  - username: "gebrielpadan"
-    fullname: >-
-      GEBRIEL PADAN®
-    bio: >-
-      Art & Culture Founder of @oryzaskincare_ Founder of Gebriel Padan Artistry Studio Contact Number: +6010948228 Tap the link below to make a booking:
-    location: "Malaysia"
-    followers: 100060
-    engagement: 109
-    commentsToLikes: 0.009968
-    id: ck5q8353e47ws0i115k5rkrkq
+    followers: 3240
+    engagement: 3899
+    commentsToLikes: 0.261234
+    id: ck8t8hci9khfe0j7826jffwpq
     verified: false
-    hashtags: "#bobbibrownmy, #oryza, #maccosmetic, #sarawakian"
-  - username: "jessiekmy"
-    fullname: >-
-      Jessie k ◡̈
-    bio: >-
-      ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀Live a life you'll remember 🦌⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀
-    location: "Malaysia"
-    followers: 41153
-    engagement: 328
-    commentsToLikes: 0.026863
-    id: ck0ttdt0z2auv0i19by3rex7i
-    verified: false
-    hashtags: "#sonyalphamalaysia, #sony135mmf18, #cafeteller, #sonyalpha"
-  - username: "falazainal"
-    fullname: >-
-      F A L
-    bio: >-
-      #designwithfal 5"4 🇲🇾 KL • @sobersquadpro Business enquiries; DM📮or Email 📧
-    location: "Malaysia"
-    followers: 91686
-    engagement: 177
-    commentsToLikes: 0.009514
-    id: ck5zl19uykjnz0i14ib3fnzbq
-    verified: false
-    hashtags: "#ootd, #tb, #staysafe, #stayhome"
-  - username: "kexinkexinn"
-    fullname: >-
-      林可欣𝙆𝙚𝙓𝙞𝙣 ™
-    bio: >-
-      2017 《我想和你唱²》第十二期 王俊凱 2019 《女朋友》个人单曲 2020《转圈圈》🎬 少年李白·花月离 推广曲 ᠻʙ ᴘᴀɢᴇ ➡️ 林可欣ᴋᴇxɪɴ ᴡᴇɪʙᴏ 微博 ➡️林可欣ᴋᴇxɪɴ 📩 ᴋᴇxɪɴᴋᴇxɪɴɴ@ɢᴍᴀɪʟ.ᴄᴏᴍ
-    location: "Malaysia"
-    followers: 12675
-    engagement: 504
-    commentsToLikes: 0.012109
-    id: ck6tmox0188u40j7171yb7eky
-    verified: false
-    hashtags: "#love, #asian, #loveyourself, #ootd"
+    hashtags: "#makeupartist, #makeuplooks, #indianblogger, #indianbeautyblogger"
   - username: "sarahmaylow"
     fullname: >-
-      Malaysia No.1 Tarot Reader 🔮🃏
+      Malaysia’s No.1 Tarot Reader 🃏
     bio: >-
-      Cult Leader | Astrologer | Miss Msia Earth Energetic ‘13 | Sociologist | PhD Candidate | Boss @sarahmaylowtarotacademy 👇Book a TAROT READING👇
+      👠Boss @sarahmaylowtarotacademy 🔮Astrologer 👸Miss M'sia Earth Energetic 2013 👩🏻‍🎓PhD Student 👮🏻Ketua Subang @speak.pemadam.selangor 👇BOOK A READING👇
     location: "Malaysia"
-    followers: 47972
-    engagement: 244
-    commentsToLikes: 0.014824
+    followers: 49228
+    engagement: 248
+    commentsToLikes: 0.017100
     id: ck5hdx1pdptcl0i11m5ynfrid
     verified: false
-    hashtags: "#malaysia, #smltarot, #tarot, #kltarot"
-  - username: "madhumacintosh"
+    hashtags: "#thecrossover2020, #motivationwomen, #sarahmaylowtravel, #kualalumpur"
+  - username: "magg.my"
     fullname: >-
-      madhumohana
+      Maggie Soo 苏慧琳
     bio: >-
-      Official account of Madhu Mohana 🇸🇬 | Tampines Rovers Football Club ⚽️ 👟 Mizuno Singapore 📲 Email/Dm for collabs 📧 madhumohana.lionsxii@gmail.com
+      🤰𝑀𝒶𝓂𝒶 𝓉𝑜-𝒷𝑒 👶| 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲,𝗕𝗲𝗮𝘂𝘁𝘆&𝗙𝗼𝗼𝗱 | 𝗗𝗠 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 | 𝗧𝗲𝗮𝗺 @instafluencer_malaysia @sevenvault 🇲🇾 Restaurant Ambassador @lameimalahotpot
     location: "Malaysia"
-    followers: 11250
-    engagement: 441
-    commentsToLikes: 0.040059
-    id: ckap3zqrt57gh0i78riharg59
+    followers: 21175
+    engagement: 466
+    commentsToLikes: 0.029663
+    id: ck5q81mo541uw0i11qyalfwki
     verified: false
-    hashtags: "#sgunited, #wuhan, #charity, #tampinesrovers"
+    hashtags: "#bhfyp, #malaysianfood, #kualalumpur, #malaysia"
   - username: "ken_doll_dubaiii"
     fullname: >-
       Adnan Zafar🧿
@@ -102,29 +54,77 @@ profiles:
     commentsToLikes: 0.371163
     id: ck9wgdlsxsyfu0j78x13l2lwd
     verified: false
-    hashtags: "#mydubai, #foodporn, #foodie, #lifeofkendoll"
-  - username: "magg.my"
+    hashtags: "#foodporn, #luxurylifestyle, #dubaiinfluencer, #skincare"
+  - username: "prettylittlethings_ms"
     fullname: >-
-      Maggie Soo 苏慧琳
+      Mahnoor saleem
     bio: >-
-      Cheerful, full of life and happy hopes 🥰🌻 Team @instafluencer_malaysia @sevenvault 🇲🇾@funnoqs Restaurant Ambassador @lameimalahotpot
+      I review what i like 😬 Anything and Everything 🤷🏻‍♀️ Shop original makeup @vanitybox_by_ms Book makeup appointment @makeup_by_mahnoorsaleem
     location: "Malaysia"
-    followers: 21148
-    engagement: 496
-    commentsToLikes: 0.013455
-    id: ck5q81mo541uw0i11qyalfwki
+    followers: 8526
+    engagement: 321
+    commentsToLikes: 0.218033
+    id: ck6ty2rar1ck00j71tgvy0yxt
     verified: false
-    hashtags: "#nattacosme, #malaysia, #nattacosmereview, #natural"
+    hashtags: "#blogger, #giveaway, #food, #karachifood"
   - username: "nicoluvxxx"
     fullname: >-
-      Nicole Teh • 🏝
+      Nicole Teh
     bio: >-
-      Follow me on Tik Tok ➡️ nicotone 📍KL & PG 📮 Drop me a mail
+      Content Creator | Beauty & Fashion | Lifestyle Photography account: @my_nicpics 📩 DM for Sponsorships & Collaboration
     location: "Malaysia"
-    followers: 14207
-    engagement: 410
-    commentsToLikes: 0.007454
+    followers: 15383
+    engagement: 330
+    commentsToLikes: 0.010166
     id: ck0vycq3p3bzt0i199qq7r7bd
     verified: false
-    hashtags: "#style, #followme, #ootd, #instagood"
+    hashtags: "#danielwellington, #lingerie, #instagood, #review"
+  - username: "aleyalee"
+    fullname: >-
+      aleyalee
+    bio: >-
+      🏡Ipoh/CH Face of ; @mylaraskincare 💌DM Paid/Gift Review 📧DM/Email for Enquiries/Collaboration La ilaha illa Anta, Subhanaka inni kuntu minaz zalimin.
+    location: "Malaysia"
+    followers: 35969
+    engagement: 317
+    commentsToLikes: 0.016121
+    id: ck6tigsvo0ouc0j71ui3edjhb
+    verified: false
+    hashtags: "#newyearnewglow, #sudio, #sudiomoments, #sudiotolv"
+  - username: "yxsmine.ow"
+    fullname: >-
+      Yasmine
+    bio: >-
+      🇲🇾 @absolutmanagement @yasmine.o.w Review, work 📩: yxsmineow@gmail.com or DM SUBSCRIBE TO MY YOUTUBE👇🏻
+    location: "Malaysia"
+    followers: 199784
+    engagement: 476
+    commentsToLikes: 0.004979
+    id: ck14iv51ehak90i19gdh56b5v
+    verified: false
+    hashtags: "#cetaphilmy, #perfectdiary, #shopbackshopfest, #skincare"
+  - username: "minghui.psd"
+    fullname: >-
+      李明慧// kl 🇲🇾
+    bio: >-
+      hi im ming hui! graphic design student who luvs art n makeup 🖍 :@minghui.ai ⁣ 💌 : leemh133@gmail.com⁣ (pr/collabs)
+    location: "Malaysia"
+    followers: 10672
+    engagement: 730
+    commentsToLikes: 0.086830
+    id: ckaoyhxhwhloz0i78sb87c47l
+    verified: false
+    hashtags: "#shapingsound, #sudiomoments, #01, #befabulash"
+  - username: "irin.ezleen"
+    fullname: >-
+      Irinezleen
+    bio: >-
+      •Freelance Fashion Model •Dm me for review For any photoshoot / business inquiries please do dm/email me
+    location: "Malaysia"
+    followers: 29510
+    engagement: 304
+    commentsToLikes: 0.011593
+    id: ck6tj248v1uzd0j7114drcwib
+    verified: false
+    hashtags: "#vogueathome, #mcvogueootd, #luxeathome, #caketogether"
 ---

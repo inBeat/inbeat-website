@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Melbourne in 2023
+title: Top 10 Beauty TikTok Influencers In Melbourne In 2023
 description: >-
-  Find top beauty TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #beauty #foryou #australia.
+  Find top beauty TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #beauty #foryoupage #foryou.
 platform: TikTok
-hits: 16
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 16 TikTok influencers like this in Melbourne, Australia for you to collaborate.
+hits: 15
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 15 TikTok influencers like this in Melbourne, Australia for you to work with.
 profiles:
   - username: "freshbeautyskin"
     fullname: >-
       freshbeautyskin
     bio: >-
-      FRESH BEAUTY (Melbourne, Australia) Instagram @freshbeautyskin
+      FRESH BEAUTY (Melbourne, Australia) Instagram @freshskinbrows @freshbeautyskin
     location: "Australia"
-    followers: 51000
-    engagement: 878
-    commentsToLikes: 0.005203
+    followers: 65500
+    engagement: 780
+    commentsToLikes: 0.004816
     id: ckbf4v2v4thch0j237rk0535n
     verified: false
-    hashtags: "#foryoupage, #eyebrow, #laser, #deep"
-  - username: "messydanieljack"
+    hashtags: "#glowup, #diolaze, #xyzbca, #eyes"
+  - username: "izakvolteas"
     fullname: >-
-      Jesse Mack
+      Izak Volteas
     bio: >-
-      MELBOURNE, AUS
+      Melbourne, Australia🇦🇺 Peak the gram
     location: "Australia"
-    followers: 44800
-    engagement: 485
-    commentsToLikes: 0.033061
-    id: cka0rnj15hqt90i78cscih7d9
+    followers: 10600
+    engagement: 882
+    commentsToLikes: 0.043876
+    id: ckdte9jhhvmzb0j23ny71v7r4
     verified: false
-    hashtags: "#fyp, #balletbeatdrop, #song, #singing"
-  - username: "caladenia"
+    hashtags: "#asoutfits, #melbourneschools, #foryoupage, #victoria"
+  - username: "jimbobthelegoman"
     fullname: >-
-      em
+      James
     bio: >-
-      perth artist, into plants, specifically west australian native orchids.
+      James 32 Dad Single 🔞 PO Box 4 Wendouree VIC 3355 Backup @jimbobthelegoman2.0
     location: "Australia"
-    followers: 21106
-    engagement: 678
-    commentsToLikes: 0.019895
-    id: ck9ejaxcd1y7n0j78018v6m9j
+    followers: 27000
+    engagement: 838
+    commentsToLikes: 0.071755
+    id: ckbb0lxz7qz360j238mn73gx3
     verified: false
-    hashtags: "#perth, #trippy, #forest, #wildflowers"
-  - username: "maciecremona"
+    hashtags: "#tasty, #lifehack, #duet, #fatherdaughter"
+  - username: "samsymes"
     fullname: >-
-      Macie Cremona
+      Samantha Symes
     bio: >-
-      90% of videos are of my dog, enjoy ✌🏼✨
+      Just for a laugh mate😛 Nurse 👩🏻‍⚕️ Australian 👙 RED HEAD 🧜‍♀️
     location: "Australia"
-    followers: 3511
-    engagement: 770
-    commentsToLikes: 0.013726
-    id: ckcdjez6c8t190j23w9ixf92l
+    followers: 152700
+    engagement: 542
+    commentsToLikes: 0.036304
+    id: ckbewuv9vgntb0j23jv4dhkps
     verified: false
-    hashtags: "#doggy, #staffy, #lol, #home"
-  - username: "the5thwatches"
-    fullname: >-
-      The5th
-    bio: >-
-      From Melbourne, Australia. Shipped Worldwide.
-    location: "Australia"
-    followers: 2004
-    engagement: 1850
-    commentsToLikes: 0.274782
-    id: ck9fipmuubzv20j786zo1i0dh
-    verified: false
-    hashtags: "#the5th, #watches, #the5thfam, #foryou"
-  - username: "behindtheglow2"
-    fullname: >-
-      BEHIND THE GLOW 2.
-    bio: >-
-      Catie & Liv Founders of My Glow 2. Australian Beauty Business 💞 @myglow2
-    location: "Australia"
-    followers: 186700
-    engagement: 813
-    commentsToLikes: 0.024537
-    id: ckbfed5jg872u0j23cw3hw8gc
-    verified: false
-    hashtags: "#businesscheck, #officecheck, #australia, #scratchmap"
+    hashtags: "#fyp, #famous, #foryou, #walkit"
   - username: "fake.treats"
     fullname: >-
       Fake Treats
     bio: >-
       Vegan | Cruelty-Free The Beauty Pamper Store AUS MADE 10% OFF WITH CODE: TIKTOK
     location: "Australia"
-    followers: 62300
-    engagement: 666
-    commentsToLikes: 0.005534
+    followers: 61500
+    engagement: 594
+    commentsToLikes: 0.012857
     id: ckcj2o3iu4ff60j23yreoabx6
     verified: false
-    hashtags: "#australia, #bath, #beauty, #satisfying"
+    hashtags: "#foryou, #beautyblogger, #supportsmall, #faketreats"
+  - username: "the5thwatches"
+    fullname: >-
+      The5th
+    bio: >-
+      From Melbourne, Australia. Shipped Worldwide.
+    location: "Australia"
+    followers: 1979
+    engagement: 1546
+    commentsToLikes: 0.263889
+    id: ck9fipmuubzv20j786zo1i0dh
+    verified: false
+    hashtags: "#foryou, #smallbusinesscheck, #the5thfam, #the5th"
+  - username: "messydanieljack"
+    fullname: >-
+      Jesse Mack
+    bio: >-
+      MELBOURNE, AUS
+    location: "Australia"
+    followers: 44400
+    engagement: 416
+    commentsToLikes: 0.063356
+    id: cka0rnj15hqt90i78cscih7d9
+    verified: false
+    hashtags: "#harmony, #music, #sing, #song"
   - username: "muafjryan"
     fullname: >-
       Finlea Ryan 
     bio: >-
       Hi lol Makeup Artist Melbourne AUS It’s not a booger — it’s my nose piercing
     location: "Australia"
-    followers: 22000
-    engagement: 1104
-    commentsToLikes: 0.011629
+    followers: 21400
+    engagement: 1062
+    commentsToLikes: 0.012771
     id: ck91003vyfvbl0j78etf0swr5
     verified: false
-    hashtags: "#makeupartist, #euphoriamakeup, #euphoria, #mua"
-  - username: "glambyson"
+    hashtags: "#halloween, #makeup, #euphoriavibes, #makeupartist"
+  - username: "behindtheglow2"
     fullname: >-
-      Sonali Kapoor
+      BEHIND THE GLOW 2.
     bio: >-
-      ✨🤍 24 | Melbourne 🤍✨ Insta: glambyson_ Derma blades for those asking ⬇️
+      Catie & Liv Founders of My Glow 2. Australian Beauty Business 💞 @myglow2
     location: "Australia"
-    followers: 15938
-    engagement: 433
-    commentsToLikes: 0.024494
-    id: cka0rnodrhs320i78fc9bgoee
+    followers: 240300
+    engagement: 832
+    commentsToLikes: 0.010026
+    id: ckbfed5jg872u0j23cw3hw8gc
     verified: false
-    hashtags: "#skincare, #desi, #decadesofhair, #minitutorials"
+    hashtags: "#beauty, #entrepreneur, #businessontiktok, #asmr"
   - username: "jessraeking"
     fullname: >-
       Jess King
     bio: >-
       Curve Model & Nap enthusiast My cat’s name is Draco Meowfoy Insta: @jessraeking
     location: "Australia"
-    followers: 8358
-    engagement: 510
-    commentsToLikes: 0.044921
+    followers: 10000
+    engagement: 524
+    commentsToLikes: 0.047213
     id: ckdhgtydkxu6z0j23jn2d0wof
     verified: false
-    hashtags: "#lol, #size14, #midsizegirl, #curvemodel"
+    hashtags: "#cat, #curvemodel, #midsize, #fyp"
 ---

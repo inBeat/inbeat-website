@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Izmir in 2023
+title: Top 10 TikTok Influencers In Izmir In 2023
 description: >-
   Find top TikTok influencers in Izmir in 2023. Most popular hashtags: #ke #izmir #fyp.
 platform: TikTok
-hits: 356
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 356 TikTok influencers like this in Izmir, Turkey for you to pitch.
+hits: 227
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database holds 227 TikTok influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
+  - username: "ela.tasan"
+    fullname: >-
+      ELA TAŞAN 🤯
+    bio: >-
+      İzmir
+    location: "Turkey"
+    followers: 3411
+    engagement: 608
+    commentsToLikes: 0.160714
+    id: ckbkhspoo9wfs0j23lp415gpi
+    verified: false
+    hashtags: "#geceler, #izmir, #iyi, #35"
   - username: "gizemadelya_"
     fullname: >-
       Galibagizzz
     bio: >-
       İZMİR🇹🇷
     location: "Turkey"
-    followers: 106900
-    engagement: 1398
-    commentsToLikes: 0.022451
+    followers: 103700
+    engagement: 1048
+    commentsToLikes: 0.025010
     id: ck8kfd8j4di9h0j78bh1fyamh
     verified: false
-    hashtags: "#fyp, #ke, #agkgchallenge, #spenchallenge"
+    hashtags: "#izmir, #deprem, #ekleme, #etiketleri"
+  - username: "_baliim_"
+    fullname: >-
+      balıım
+    bio: >-
+      İZMİR
+    location: "Turkey"
+    followers: 44300
+    engagement: 802
+    commentsToLikes: 0.032351
+    id: ckcd5ew4c1stj0j233yslc9mw
+    verified: false
+    hashtags: ""
+  - username: "88ipekk"
+    fullname: >-
+      88ipekk
+    bio: >-
+      İZMİR
+    location: "Turkey"
+    followers: 190300
+    engagement: 431
+    commentsToLikes: 0.027959
+    id: cka0hsbu7als70i78ft14qy4f
+    verified: false
+    hashtags: "#izmir, #bornova, #ke, #ev"
   - username: "fatihdilekcii"
     fullname: >-
       Fatihdilekçi
     bio: >-
       İzmir
     location: "Turkey"
-    followers: 3098
-    engagement: 795
-    commentsToLikes: 0.005869
+    followers: 2975
+    engagement: 752
+    commentsToLikes: 0.003711
     id: ckaj8b8wg9i3p0i78o20hjogd
     verified: false
-    hashtags: "#mpower, #m3, #izmir, #f30"
-  - username: "themusti82"
+    hashtags: "#bmw, #320, #f80, #izmir"
+  - username: "vezirresmi"
     fullname: >-
-      @themusti82😈
+      WTF丶V乇乙İ尺
     bio: >-
-      Doğru duvar yıkılmaz 😈🌹🔥 GEÇMİŞ OLSUN #İZMİR❤🙏
+      ID 5124891849 👑 İZMİR👑 Kendiniz olun yalakalık yapmayın 👌👍
     location: "Turkey"
-    followers: 5431
-    engagement: 1691
-    commentsToLikes: 0.372337
-    id: cka7oszch47v70i780bhrevwo
+    followers: 51000
+    engagement: 1620
+    commentsToLikes: 0.061816
+    id: cka8f5zt8108j0i78uicnuhkp
     verified: false
-    hashtags: "#tiktok, #mustafa, #team, #suk"
+    hashtags: "#pudgywoke, #vezir, #pubg, #lite"
   - username: "bornoz"
     fullname: >-
-      Boran Öz
+      Bornoz
     bio: >-
-      #teamppg #teambornoz #teamasyaburcum #teammirayy 17🌱/İzmir İNSTAGRAM : @bbornoz
+      17🌱/İzmir INSTAGRAM : @bbornoz #teamasyaburcum
     location: "Turkey"
-    followers: 175400
-    engagement: 1791
-    commentsToLikes: 0.027745
+    followers: 316100
+    engagement: 1521
+    commentsToLikes: 0.037435
     id: ckb195l4rx5mq0j239uibaae6
     verified: false
-    hashtags: "#teamppg, #foryou, #efsaney, #fyp"
-  - username: "yasmin.toker"
-    fullname: >-
-      yasmin
-    bio: >-
-      60K🤲🌹 Geçmiş olsun İzmir🤲Allah yar ve yardımcınız olsun🤲 24 years old😌 İg:y
-    location: "Turkey"
-    followers: 52000
-    engagement: 1188
-    commentsToLikes: 0.074591
-    id: ck9r306jvnjpg0j78qervulas
-    verified: false
-    hashtags: "#ke, #perilik, #csfc, #nas"
-  - username: "benahmetcan"
-    fullname: >-
-      Ahmet Can ⚡️🥳
-    bio: >-
-      İzmir 😌 Takip etsene kanka🤠🤠🤠🥰🤩🤩😎😎😭
-    location: "Turkey"
-    followers: 37700
-    engagement: 1086
-    commentsToLikes: 0.105519
-    id: ckc924527shku0j23i18t2t98
-    verified: false
-    hashtags: "#kesfettttt, #tiktokturkey"
-  - username: "tuba_3506"
-    fullname: >-
-      Tuba_3506
-    bio: >-
-      İZMİR ANGARA ÇİNÇİN❤ Yaşıyorum bu hayatı ıhhtan :))
-    location: "Turkey"
-    followers: 9511
-    engagement: 1604
-    commentsToLikes: 0.042644
-    id: ckbkhsq5b9wjk0j23huwf53sz
-    verified: false
-    hashtags: "#ankaral, #06, #ortam, #yorumyap"
+    hashtags: ""
   - username: "yigittfly"
     fullname: >-
       Yiğit ırgaş
     bio: >-
-      •İzmir @yigitbennn hesabındayım artık
+      İzmir yigitfly
     location: "Turkey"
-    followers: 22600
-    engagement: 1257
-    commentsToLikes: 0.056116
+    followers: 20900
+    engagement: 1255
+    commentsToLikes: 0.088804
     id: ckcvh5wbltsi40j23uojhbbwe
     verified: false
-    hashtags: "#ke, #teamrga, #veetledanset, #pubggg"
-  - username: "muradyolog"
+    hashtags: "#dwoz, #alok, #elmango, #ke"
+  - username: "benahmetcan"
     fullname: >-
-      Muradyolog
+      Benahmetcan😸🤩🤠
     bio: >-
-      İZMİR😘 İnstagram sadece MURADYOLOG Tr🇹🇷Az🇦🇿
+      İzmir 😌 Takip etsene kanka🤠🤠🤠🥰🤩🤩😎😎😭 İnsta: ahmtcxn😎
     location: "Turkey"
-    followers: 321700
-    engagement: 1014
-    commentsToLikes: 0.061517
-    id: ck9fwrd8u2lmq0j78vwav9id0
+    followers: 37400
+    engagement: 1226
+    commentsToLikes: 0.102627
+    id: ckc924527shku0j23i18t2t98
     verified: false
-    hashtags: "#balsurat, #komikvideolar, #muradyolog, #azeribalas"
-  - username: "furkanizy"
+    hashtags: "#kesfettttt"
+  - username: "gulizar_97"
     fullname: >-
-      FURKAN ATILGAN⚡️
+      😊gülizar 😊
     bio: >-
-      FAFC🍬 HER AKŞAM 10:30’DA CANLI YAYINDAYIM❤️ İZMİR
+      🇹🇷Türkiye- İzmir
     location: "Turkey"
-    followers: 119000
-    engagement: 1291
-    commentsToLikes: 0.033124
-    id: ckcuti09kkhvs0j232mgyygks
+    followers: 14800
+    engagement: 1983
+    commentsToLikes: 0.022442
+    id: ckbkhsvj09xjh0j23r4e3b279
     verified: false
-    hashtags: "#ke, #beni, #teamat, #izmir"
+    hashtags: "#35, #sabah, #seni, #ben"
 ---

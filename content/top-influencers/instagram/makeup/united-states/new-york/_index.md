@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In New York in 2023
+title: Top 10 Makeup Instagram Influencers In New York In 2023
 description: >-
-  Find top makeup Instagram influencers in New York in 2023. Most popular hashtags: #makeup #newyork #love #photography.
+  Find top makeup Instagram influencers in New York in 2023. Most popular hashtags: #makeup #beauty #transformation #nyc.
 platform: Instagram
-hits: 551
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 551 Instagram influencers like this in New York, United States for you to connect with.
+hits: 534
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 534 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "not.srry"
+  - username: "chrisfucilephotography"
     fullname: >-
-      سيده
+      Chris Fucile Photography
     bio: >-
-      I don’t smoke blunts I smoke cars 💨 // #f83 Ⓜ️4️⃣ 🏎 ✨
+      Fucile@gmail.com. Published photographer. Message me for rates and bookings. Based in NYC
     location: "United States"
-    followers: 4348
-    engagement: 2389
-    commentsToLikes: 0.026550
-    id: ck15svq53f1iq0i19f9enocx4
+    followers: 9536
+    engagement: 834
+    commentsToLikes: 0.021186
+    id: ckaoqwo7akqz90i78bldf640t
     verified: false
-    hashtags: "#fashion, #m4, #m2, #f83"
-  - username: "kaitytong"
+    hashtags: "#mensphysique, #fashion, #fashioneditorial, #fashionphotography"
+  - username: "geoffreyriot"
     fullname: >-
-      Kaity
+      Geoffrey Riot
     bio: >-
-      Emmy Award-winning anchor, formerly for Eyewitness News, now PIX11. Currently anchor of 5 and 10 @pix11news weekend edition.Proud Mom of Philip Long.
+      Cosplay Model, Makeup Artist & Actor @ttd_eye discount code "geoffrey10" Email for Booking & Business Inquiries
     location: "United States"
-    followers: 8411
-    engagement: 426
-    commentsToLikes: 0.092361
-    id: ck5hmklnam4lt0i11hdzn402t
-    verified: true
-    hashtags: "#staysafe, #anchorlife, #makeup, #newyork"
-  - username: "marcomaranghello"
-    fullname: >-
-      Marco Maranghello
-    bio: >-
-      Creative Director Hair Couture, hair stylist Producing Partner Ithaka films. Art is the Greatest Legacy.
-    location: "United States"
-    followers: 19119
-    engagement: 171
-    commentsToLikes: 0.038437
-    id: ck6u6bkfhen4a0j71judht9oj
+    followers: 17683
+    engagement: 509
+    commentsToLikes: 0.012335
+    id: ck15ruyl29ua10i19yo34txqx
     verified: false
-    hashtags: "#canon, #instaphoto, #singersongwriter, #sonjastyle"
-  - username: "hexhillstudiosfx"
+    hashtags: "#dccomicscosplay, #jokercosplayer, #jokersmile, #makeup"
+  - username: "kadixhe"
     fullname: >-
-      HEXHILL STUDIOS
+      Kadie
     bio: >-
-      OFFICIAL INSTAGRAM ACCOUNT OF HEXHILL STUDIOS •JP SIMON PRODUCTIONS • MONSTER | ZOMBIE FX STUDIO • LOS ANGELES 🇺🇸
+      
     location: "United States"
-    followers: 20880
-    engagement: 340
-    commentsToLikes: 0.010485
-    id: ck15rzcgwaghe0i19fdy519zr
+    followers: 5134
+    engagement: 523
+    commentsToLikes: 0.111871
+    id: ck9hcgto6lblk0j780y5lvc41
     verified: false
-    hashtags: "#movies, #tokyo, #shopping, #makeuptutorial"
-  - username: "tinasokolovskaya"
+    hashtags: "#explorepage, #bostonfashionblogger, #bostonblogger, #bostonfashionweek"
+  - username: "crismarlyqueen"
     fullname: >-
-      PHOTOGRAPHER NEW YORK
+      Crismarly Cruz • Makeup Artist
     bio: >-
-      📸Award-winning photographer 📸Original author of photo “On the wave” 📸Professional consultant 📌 Ukrainian 🇺🇦 Living in New York City 🇺🇸
+      • @glowupbeautybycm 🛍💕 • Business or PR: crismarlymakeup@hotmail.com •NYC MUA 🎨 • 🇩🇴🇺🇸 • ÚNICO IG 💯
     location: "United States"
-    followers: 63179
-    engagement: 136
-    commentsToLikes: 0.016637
-    id: ck5hqrxbutmax0i11kqvbdqry
+    followers: 19425
+    engagement: 265
+    commentsToLikes: 0.026841
+    id: ckaosygl3tkrw0i78q5xneisu
     verified: false
-    hashtags: "#nyc, #portraitphotography, #model, #photographernyc"
-  - username: "kentoutsubo"
+    hashtags: "#benefitcosmetics, #anastasiabeverlyhills, #benefitbrows, #nars"
+  - username: "vjollcamakeup"
     fullname: >-
-      KENTO UTSUBO
+      Vjollca Broja
     bio: >-
-      🗽NYC🚕 💄Make-up artist 🎨for booking DM me. 🧵Creative Director/Designer @kentina_official 👖 📺Youtube @teamkento📺 👇👇youtube video🎥チャンネル登録はコチラ👇👇
+      💄✈️🌎 Business inquiries: vjollcabrojastudio@gmail.
     location: "United States"
-    followers: 19260
-    engagement: 442
-    commentsToLikes: 0.007580
-    id: ck0ucj37ih1js0i19mfcx0518
+    followers: 25767
+    engagement: 179
+    commentsToLikes: 0.060591
+    id: ck6tmelfb7p9z0j71sdfox43g
     verified: false
-    hashtags: "#thankyou, #happy, #fashion, #makeupartist"
-  - username: "skybeadsonline"
+    hashtags: "#weightloss, #beauty, #glam, #weightlossjourney"
+  - username: "celebritydentistry"
     fullname: >-
-      Sky Beads
+      Celebrity 👄 Dentistry
     bio: >-
-      Life could always use a little sparkle, and at Sky Beads, we’re here to supply you with the authentic Swarovski crystals you need for some extra glam.
+      🤩 smile care inspo from real dentists
     location: "United States"
-    followers: 43569
-    engagement: 90
-    commentsToLikes: 0.036134
-    id: ckaoqtofgkc870i78mi06hm8o
+    followers: 116051
+    engagement: 150
+    commentsToLikes: 0.019337
+    id: ckf5vs2bfpqcw0j23oierzhxe
     verified: false
-    hashtags: "#cutenails, #coffinnails, #ombrenails, #nails"
+    hashtags: "#transformation, #veneers, #surgery, #dentist"
   - username: "christina_vannuis"
     fullname: >-
       Christina Van Nuis
     bio: >-
-      ATLien 👽 @selectmodelparis • @milkmodelmanagement • @lamodels • @selectmodelmilano • @chadwickmodels • @model_mgmt
+      ATLien 👽 @selectmodelparis • @milkmodelmanagement • @selectmodelmilano • @chadwickmodels • @model_mgmt
     location: "United States"
-    followers: 6343
-    engagement: 832
-    commentsToLikes: 0.025525
+    followers: 6207
+    engagement: 861
+    commentsToLikes: 0.026638
     id: ck5bud5owhkda0i11ozxbdq5s
     verified: false
-    hashtags: "#swipe, #deciosantos, #mfw, #capricornseason"
+    hashtags: "#nofilter, #swipe, #deciosantos, #mfw"
   - username: "makeupbymurry"
     fullname: >-
       Marisabel Van Der Biest | MUA
     bio: >-
-      Pro MUA Certified in Makeup Designory, New York. Bride specialist ✨ Content creator 💫 ✉️ Makeupbymurry@gmail.com
+      Pro MUA Certified in Makeup Designory, New York. Content creator 💫 Bridal and social artistry ✨ ✉️ Makeupbymurry@gmail.com
     location: "United States"
-    followers: 15917
-    engagement: 1021
-    commentsToLikes: 0.194264
+    followers: 21163
+    engagement: 694
+    commentsToLikes: 0.161002
     id: ck5hjpbahh0x70i111sy5wocl
     verified: false
-    hashtags: "#clownmakeup, #halloween, #ttdeye, #31daysofmehronhalloween"
+    hashtags: "#ilmakiage, #feathereyebrows, #charlottetilbury, #makeuplook"
   - username: "pattielepugh"
     fullname: >-
       Patrice Pugh
     bio: >-
-      Makeup artist | New York BLACK LIVES MATTER ✊🏾
+      Makeup artist | New York + Philly BLM✊🏾 Owner of @three12_studios ✨
     location: "United States"
-    followers: 7535
-    engagement: 761
-    commentsToLikes: 0.069870
+    followers: 8088
+    engagement: 697
+    commentsToLikes: 0.056542
     id: ck0w14awzhhqm0i191dir5j0y
     verified: false
-    hashtags: "#metgalachallenge, #vogue, #tiktok, #newspaperchallenge"
+    hashtags: "#makeupbymario, #holidayglam, #blackhistorymonth, #beauty"
+  - username: "inithershey__"
+    fullname: >-
+      Hershey ✨
+    bio: >-
+      New York Made 🗽 🇬🇲 Bartender 🍾 CEO OF @finebaeboutique 👙👗
+    location: "United States"
+    followers: 4693
+    engagement: 910
+    commentsToLikes: 0.035932
+    id: ck5px0b8yph7l0i11autkibfc
+    verified: false
+    hashtags: "#wcw, #hershey, #makeup, #money"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Melbourne in 2023
+title: Top 10 Fitness Instagram Influencers In Melbourne In 2023
 description: >-
-  Find top fitness Instagram influencers in Melbourne in 2023. Most popular hashtags: #fitness #australia #melbourne #instagram.
+  Find top fitness Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #fitness #fashion #australia.
 platform: Instagram
-hits: 79
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 79 Instagram influencers like this in Melbourne, Australia for you to collaborate.
+hits: 34
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 34 Instagram influencers like this in Melbourne, Australia for you to pitch.
 profiles:
-  - username: "thelittlenutritionist"
+  - username: "ivan_krslovic"
     fullname: >-
-      Jenny Nguyen | Nutritionist
+      Ivan Krslovic
     bio: >-
-      Nutrition Coach (🎓BHumnut) 🏆 2019 Overall INBA VIC Champ. ✖️Recipe ideas, fitness journey, nutrition tips 📍Melbourne, Australia
+      Melbourne 🇦🇺 DANCER / ACTOR 6’6 Acting enquires: @mcmahon_management Founder - @aussiedancetours
     location: "Australia"
-    followers: 2026
-    engagement: 1159
-    commentsToLikes: 0.096779
-    id: ckapaefhwvrrg0i78e1068lz1
+    followers: 23312
+    engagement: 79
+    commentsToLikes: 0.184016
+    id: ck0tvihwrbi5r0i19vhu60xzb
     verified: false
-    hashtags: "#nourishyourbody, #healthylifestyle, #fitness, #echtapparel"
-  - username: "g.b.x.o"
+    hashtags: "#grateful, #happy, #fit, #health"
+  - username: "ifbbproleagueoz"
     fullname: >-
-      ➕🅶.🅱.🆇.🅾 ➕
+      Pro League Australia
     bio: >-
-      England 🇬🇧 Australia 🇦🇺 Owner and Managing Director of @candormarketing #mensfashion #menslifestyle #travel #melbourneinfluencer #melbournefood
+      
     location: "Australia"
-    followers: 38620
-    engagement: 280
-    commentsToLikes: 0.018331
-    id: ck1387pqiewej0i19qtc07e22
+    followers: 31738
+    engagement: 139
+    commentsToLikes: 0.038619
+    id: ck6013vi7esd40i148jf22m1n
     verified: false
-    hashtags: "#mensoutfit, #melbournephotographer, #gsp, #mensfashionblog"
-  - username: "alireza_rasa"
+    hashtags: "#bodybuildingmelbourne, #fitnessphotographer, #photography, #repost"
+  - username: "ayla_cally"
     fullname: >-
-      Alireza Rasa
+      𝖠𝖸𝖫𝖠 𝖢𝖠𝖫𝖫𝖸
     bio: >-
-      👉Y3T TEAM 👈 Pro Master coach Online coach Asia WBBF.WFF President AC TOP6 🇳🇿2018 🥇Pro Show🇵🇳 2018 🥉A,Olympia🇸🇲2016 🥇NPC 🇺🇸 2012 💍 #bodybuilder
+      Kiwi in Melbourne 📍 Fitness || Lifestyle || Adventure ✨ ⟶ ✉ Ayla-cally@hotmail.com
     location: "Australia"
-    followers: 80454
-    engagement: 203
-    commentsToLikes: 0.031437
-    id: ck13b69dstvpq0i19iq33m1yq
+    followers: 51147
+    engagement: 321
+    commentsToLikes: 0.035161
+    id: ck6uckxw3g7iw0j71ieylc6q1
     verified: false
-    hashtags: "#mrolympia, #melbourne, #fitness, #diet"
-  - username: "leotaliu_fitness"
-    fullname: >-
-      Leo Taliu
-    bio: >-
-      🥊 Co-Owner @tributeboxing 🙌 @pad.bros ✋🏼 Fully Booked ✉️ leo@mindsethf.com 🍑 Farmer 💪🏼 Strength And Con 👊🏼 Boxing for Fitness 🏉 Ex Pro Athlete
-    location: "Australia"
-    followers: 6754
-    engagement: 586
-    commentsToLikes: 0.102951
-    id: ckapaics8w8g50i78r0nngz9i
-    verified: false
-    hashtags: "#wifey, #family, #smileifyourasmellybum, #tributeboxing"
-  - username: "miguel_hand_balance"
-    fullname: >-
-      Miguel Sant'ana
-    bio: >-
-      🇧🇷Professional Hand Balancing Teacher in Melbourne 🇦🇺 1-1 online coaching available. Workshop in SYDNEY 11,12,13 Dec sign up at: 👇👇👇👇
-    location: "Australia"
-    followers: 100080
-    engagement: 189
-    commentsToLikes: 0.017533
-    id: ck0vxf3csyl6z0i194w0qmbij
-    verified: false
-    hashtags: "#hkyoga, #itsaholdnotscreenshot, #fujifilmxt2, #blackandwhite"
-  - username: "darling.daisyfolk_"
-    fullname: >-
-      b r o n t e ~ boho queen ☾
-    bio: >-
-      mama to Alyssa & Amalia making memories in WA ~ VIC collabs ~ grace@ivytalentco.com.au owner of sustainable label @arcadiathelabel
-    location: "Australia"
-    followers: 21844
-    engagement: 116
-    commentsToLikes: 0.322842
-    id: ck6u37c8gw5ic0j71cwbite3m
-    verified: false
-    hashtags: "#satgc, #simplyliving, #livingsimply, #selflove"
-  - username: "bethcolstonn"
-    fullname: >-
-      B E T H 🦋 C O L S T O N
-    bio: >-
-      MELBOURNE | 23 | FITNESS | FASHION 💌 amy@societyeightmanagement.com 🦋 @ryderwear “BETH10” @kliffo_ 💓
-    location: "Australia"
-    followers: 11942
-    engagement: 752
-    commentsToLikes: 0.123722
-    id: ckapc6jj52o2o0i78xo89ahl0
-    verified: false
-    hashtags: "#feelyourbreast, #collab, #gifted, #prettylittlething"
+    hashtags: "#eliteelevensporting, #spon, #madeinmelbourne, #ezrracollection"
   - username: "kiara.paige"
     fullname: >-
       ＫＩＡＲＡ ＰＡＩＧＥ 🕊𝑀𝑜𝒹𝑒𝓁
     bio: >-
       ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🤍 | Passion for Fashion, Fitness & Beauty 🖤 | Melbourne ~ Australia 🤍 | Agent Danielle @ikonickids
     location: "Australia"
-    followers: 11869
-    engagement: 616
-    commentsToLikes: 0.156493
+    followers: 11891
+    engagement: 558
+    commentsToLikes: 0.195636
     id: ck13chikg0dfi0i19k7otgu8m
     verified: false
-    hashtags: "#naturalmakeup, #melbournemodel, #activewear, #beautifulgirl"
-  - username: "biteswithbalance"
+    hashtags: "#melbournemodel, #goldenhour, #australianmodel, #blondemodel"
+  - username: "janinacorsi"
     fullname: >-
-      Minnie | Health, Food, Fitness
+      ✨ 𝕵𝖆𝖓𝖎𝖓𝖆 𝖈𝖔𝖗𝖘𝖎 🌹🦋
     bio: >-
-      ✨ Food that feeds your body, mind + soul 🌏 Melbourne recipes // fitness // balanced living @happywayau code: happymin ✉️ biteswithbalance@gmail.com
+      Melbourne 📍 Fitness • Health • Lifestyle Team @doyoueven - JANINA10 🏆 I’m funnier on TikTok (140k+) yagirljanina Collaboration 📩 jcorsi@outlook.com.au
     location: "Australia"
-    followers: 9411
-    engagement: 1017
-    commentsToLikes: 0.309178
-    id: ckaor84x1m4sp0i786x74dvpx
+    followers: 14067
+    engagement: 402
+    commentsToLikes: 0.032121
+    id: ckap90tueqq8n0i78yengt8y3
     verified: false
-    hashtags: "#worlddiabetesday, #inmybaxters, #baxterblue, #anywhereeyewear"
-  - username: "instakenworthy"
+    hashtags: "#dye, #dyebreeze, #dyeexcel, #doyoueven"
+  - username: "candice_wyatt_10"
     fullname: >-
-      Julian
+      CANDICE WYATT
     bio: >-
-      🌈 Now even more GAY™️ 🌈 #Gay #Art #Fitness #Selfies
+      •Presenter @10newsfirst.melb 💁🏼‍♀️• Ambassador @curebraincancer 🧠• Fitness 💪🏼 • Flexitarian 🌱 • MC 🎤• Hiked the Himalayas for brain cancer research 🏔
     location: "Australia"
-    followers: 9803
-    engagement: 1423
-    commentsToLikes: 0.030377
-    id: ckap4a9dq6gdi0i78080n0o1l
+    followers: 11833
+    engagement: 568
+    commentsToLikes: 0.055872
+    id: ck6tyvu5p65s90j712fuwkuay
     verified: false
-    hashtags: "#hairychest, #art, #australia, #pride"
+    hashtags: "#news, #melbournefashion, #melbourne, #curebraincancer"
+  - username: "eyezea"
+    fullname: >-
+      Iain
+    bio: >-
+      British-Australian travel addict settling into Melbourne. Coffee, travel, fitness, food and bad posing.
+    location: "Australia"
+    followers: 8072
+    engagement: 1661
+    commentsToLikes: 0.027956
+    id: ckf5n5r9xwvfr0j23k2u0pvt2
+    verified: false
+    hashtags: "#gayaussie, #beachbody, #mytravelgram, #abs"
+  - username: "kamaldip_kahma_"
+    fullname: >-
+      Kamaldip Kahma
+    bio: >-
+      YouTube: https://www.youtube.com/channel/UChfhgbZrSO8mfz8hxVVGgTQ . - Mr. Victoria x5 - Mr. Australia x4 - Mr. World - Actor - Director:- @kahma247gym
+    location: "Australia"
+    followers: 135487
+    engagement: 336
+    commentsToLikes: 0.009025
+    id: ck8wflhmwfwda0j78jpzmwxx7
+    verified: false
+    hashtags: "#supps, #india, #melbourne, #punjab"
+  - username: "inspire_people"
+    fullname: >-
+      Jonathan Albrecht
+    bio: >-
+      Director of RE & Operations, Orangetheory Fitness Los Angeles | Silicon Valley | Melbourne, AUS “How you do anything is how you do everything.”
+    location: "Australia"
+    followers: 3845
+    engagement: 1357
+    commentsToLikes: 0.060227
+    id: ck5c8j0sw9leo0i11rvdu3tuk
+    verified: false
+    hashtags: "#mlk, #jonathangetsyounger, #orangetheoryfitness, #74"
+  - username: "__raeven"
+    fullname: >-
+      ✖️Ebony
+    bio: >-
+      ✖️ Fitness x Modelling x Tattoos ✖️ Melbourne ✖️ T.P🖤 ✖️ Osteo 🩺 @dr.daniel.kirkbride ✖️ CDU - 3rd Year Bachelor Exercise & Sport Science
+    location: "Australia"
+    followers: 32230
+    engagement: 123
+    commentsToLikes: 0.024084
+    id: ck8t8u6xslu7e0j78gzg4nd6c
+    verified: false
+    hashtags: "#35mm, #pentaxk1000, #melbournemodel, #filmphotography"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In United States in 2023
+title: Top 10 Beauty Instagram Influencers In United States In 2023
 description: >-
-  Find top beauty Instagram influencers in United States in 2023. Most popular hashtags: #ad #casualstyle #makeup.
+  Find top beauty Instagram influencers in United States in 2023. Most popular hashtags: #sheinpartner #mahsaamini #sheinforall.
 platform: Instagram
-hits: 25562
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 25562 Instagram influencers like this in United States for you to connect with.
+hits: 35336
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 35336 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "beauty_vain"
     fullname: >-
       𝙄𝙉𝙁𝙇𝙐𝙀𝙉𝘾𝙄𝙉𝙂 ＢＥＡＵＴＹ
     bio: >-
-      ⠀ 【𝘿𝘼𝙄𝙇𝙔 𝘽𝙀𝘼𝙐𝙏𝙔 𝘾𝙊𝙉𝙏𝙀𝙉𝙏】 │❀ 𝘍𝘖𝘓𝘓𝘖𝘞 𝗙𝗢𝗥 𝗔 𝗙𝗘𝗔𝗧𝗨𝗥𝗘 ❀║ 📌PR|BUSINESS - PLEASE DM | #beautyvain | #beauty_vain
+      ⠀ 【𝘿𝘼𝙄𝙇𝙔 𝘽𝙀𝘼𝙐𝙏𝙔 𝘾𝙊𝙉𝙏𝙀𝙉𝙏】 │❀ FOR INSPIRATION❀║ 📌PR|BUSINESS - PLEASE DM | #beautyvain | #beauty_vain
     location: "United States"
-    followers: 58646
-    engagement: 565
-    commentsToLikes: 0.008918
+    followers: 61908
+    engagement: 281
+    commentsToLikes: 0.007267
     id: ck0w632av6nve0i197br5vxq3
     verified: false
-    hashtags: ""
-  - username: "storybookblonde"
+    hashtags: "#eyeshadow, #undiscoveredmua, #blogger, #makeuplooks"
+  - username: "behamin"
     fullname: >-
-      Tami 💖
+      Behamin • بهامين
     bio: >-
-      Everyday Style 👜 Petite 5’1💄Beauty & Skincare @carbon38 Ambassador 🧘🏼‍♀️ Los Angeles 🌴 Mama to Bella & Lila 💞 Shop my favorites below 👇🏻
+      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
     location: "United States"
-    followers: 3053
-    engagement: 2720
-    commentsToLikes: 0.430128
-    id: ckapa1tiwudeg0i785m77hceh
+    followers: 487738
+    engagement: 571
+    commentsToLikes: 0.033819
+    id: ck0u741343nni0i1969xnaly0
     verified: false
-    hashtags: "#ootd, #fashionaddict, #outfitoftheday, #fashiongram"
-  - username: "youreastcoastgirl"
+    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
+  - username: "sadaf_beauty"
     fullname: >-
-      Sarah Krous
+      Sadaf Beauty
     bio: >-
-      Fashion, lifestyle & beauty Rhode Island girl in New York ⚡️ 💌 youreastcoastgirl@gmail.com SHOP my looks 👇🏼
+      📍San Francisco 👇🏼Follow my lifestyle/travel blog @sadaf_beauty_diary Email: contact@sadafbeauty.net
     location: "United States"
-    followers: 6639
-    engagement: 2155
-    commentsToLikes: 0.306302
-    id: ck137gzccbhoo0i19wjbyudx2
-    verified: false
-    hashtags: "#ootdfashion, #wiw, #ltkstyletip, #ltkshoecrush"
-  - username: "thelenahambrick"
+    followers: 3866821
+    engagement: 725
+    commentsToLikes: 0.021434
+    id: ck0u21ukoymhd0i19l8xovyot
+    verified: true
+    hashtags: "#sheinpartner, #sheinx, #sheinforall, #mahsaamini"
+  - username: "les.talk.skin"
     fullname: >-
-      Lena | Lifestyle Influencer
+      Lesly | NJ Beauty Content Creator
     bio: >-
-      📍 N A S H V I L L E ✨ Beauty • Home • Mommyhood 📧 TheLenaHambrick@gmail.com ⬇️ Subscribe + Watch Latest Video
+      Skin, Hair, Beauty | Bride-to-be 🇩🇴 Esthetician @leslytheesty 💌 Leslygomez.Lts@gmail.com YouTube, Virtual Consultations + Links ⬇️
     location: "United States"
-    followers: 25454
-    engagement: 1873
-    commentsToLikes: 0.068870
-    id: ck6tj075o1rlj0j71p1lkyu4q
+    followers: 53181
+    engagement: 724
+    commentsToLikes: 0.045886
+    id: ck603061kkaao0i14en68pdxj
     verified: false
-    hashtags: "#blackfamilies, #nashvillemom, #knotlessbraidsnashville, #nashvilleinfluencer"
-  - username: "daniellee_esther"
+    hashtags: "#everydaymakeuplook, #drugstoreskincare, #skinbarrierrepair, #spf50"
+  - username: "catherineleox"
     fullname: >-
-      DANIELLE | Fashion & Lifestyle
+      CATHERINE | Outfit Inspo
     bio: >-
-      Life • Street Style • Beauty 💌 danielleesther.collabs@gmail.com 📍 Los Angeles
+      🌸Be your own kind of Beauty 🧚🏼 photos taken by me
     location: "United States"
-    followers: 7783
-    engagement: 1603
-    commentsToLikes: 0.432188
-    id: ck137gy8ubhjd0i19krhqrk4n
+    followers: 99854
+    engagement: 470
+    commentsToLikes: -24.505838
+    id: ck5ce7d5dkh650i11ckffyvgl
     verified: false
-    hashtags: "#mejuri, #finecrew, #mejuripartner, #nastygal"
-  - username: "mybeauty_dna"
+    hashtags: "#tiktoktransition, #diosafit, #shapewear, #sheingoodfinds"
+  - username: "tingmystyle"
     fullname: >-
-      Diena
+      Ting Ma
     bio: >-
-      Beautyblogger Skincarejunkie Mom Makeup addict For collabs or ✉ #mybeautydna
+      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
     location: "United States"
-    followers: 7061
-    engagement: 1435
-    commentsToLikes: 0.134696
-    id: ck5ci9acls8gb0i11lj42n76g
+    followers: 137144
+    engagement: 613
+    commentsToLikes: 0.084561
+    id: ck0w49r7mxhxq0i198zn6sfa8
     verified: false
-    hashtags: "#makeup, #strikeapose, #love, #bblogger"
-  - username: "newtonbogue"
+    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
+  - username: "northwoodsfolk"
     fullname: >-
-      Adam
+      Sunny // Folk Living                                       🌲MN🌲
     bio: >-
-      NYC/LA restauranteur turned green bath, beauty & wellness brand Cofounder in the Ojai Valley, CA.
+      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
     location: "United States"
-    followers: 13018
-    engagement: 1430
-    commentsToLikes: 0.123402
-    id: ck8sx6wa3gcto0j78hijxj1jd
+    followers: 131357
+    engagement: 474
+    commentsToLikes: 0.067900
+    id: ckx3j50xwzxpa0j2331ss8l9z
     verified: false
-    hashtags: "#staysafe, #elcapitan, #deepbreaths, #harper"
-  - username: "kellyn_mcmullan"
+    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
+  - username: "bambidoesbeauty"
     fullname: >-
-      Kellyn McMullan | NYC Blogger
+      Bambi Does Beauty
     bio: >-
-      🤩 hi I’m Kellyn - it rhymes with melon 🍉 💕 9-5 & sharing lifestyle, beauty & fashion 📍 UES 🌆 🎧 host of the #kellynit podcast 🎙 💌 just.kellyn@gmail.com
+      🦌🧚‍♀️ A less is more approach to beauty
     location: "United States"
-    followers: 10451
-    engagement: 1238
-    commentsToLikes: 0.412439
-    id: ck0ua5575bd920i198gljalgg
+    followers: 115362
+    engagement: 775
+    commentsToLikes: 0.048591
+    id: ck0u1j811x4h60i19dpnbox43
     verified: false
-    hashtags: "#ad, #positivelyyours, #canopyjerseycity, #amazon"
-  - username: "fioredilascio"
+    hashtags: "#glossier, #bambidoeslife, #oleglow, #olehenriksenpartner"
+  - username: "aboutritvi"
     fullname: >-
-      🧿
+      Ritvi Shah | Content Creator
     bio: >-
-      Bailarina. Coreografa en proceso. Crossfit. Derecho UNT. Emprendo desde casa con la mejor plataforma online. @beautycarebyfio 🦋
+      I do all things Fashion with Travel, Lifestyle, and Beauty Currently in Mumbai🌞 📧: workwithritvi@gmail.com w/ @iplixmedia Use #reelswithritvi 🌹
     location: "United States"
-    followers: 17672
-    engagement: 1225
-    commentsToLikes: 0.683597
-    id: ck6ufuu7hz9g50j71rau3kh9k
+    followers: 224675
+    engagement: 2767
+    commentsToLikes: 0.005231
+    id: ckxp829m0a9g40j23nm7l1gam
     verified: false
-    hashtags: ""
-  - username: "allyiahsface"
+    hashtags: "#saudiarabia, #riyadhseason, #diriyah, #wednesdayaddams"
+  - username: "bethgracemoore"
     fullname: >-
-      A L L Y I A H
+      Beth Moore
     bio: >-
-      Beauty | Fashion | Lifestyle ◦ Allyiah@westsidedigitalgroup.com ◦ New video ↓
+      motherhood | lifestyle | faith | clean beauty 𓊓 wife to @jrrodmoore, mama to vivienne + jude 🤍 ✉: bethgracemoore@gmail.com ⤹ YOUTUBE CHANNEL
     location: "United States"
-    followers: 285230
-    engagement: 1187
-    commentsToLikes: 0.031226
-    id: ck139yo0ynrw00i193hn8i1av
+    followers: 11744
+    engagement: 747
+    commentsToLikes: -1.974493
+    id: cl7geif3gskhp0i238s2qo2f6
     verified: false
-    hashtags: "#hourglasscosmetics, #hudabeauty, #europeanwaxcenter, #firstwaxfree"
+    hashtags: "#motherhood, #2under2, #newborn, #cakesmash"
 ---

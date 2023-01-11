@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Los Angeles in 2023
+title: Top 10 Fitness TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top fitness TikTok influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #fitness #workout #fyp.
+  Find top fitness TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #fitness #losangeles #foryou.
 platform: TikTok
-hits: 73
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 73 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 64
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 64 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "krystynaestrada"
+  - username: "kerttukaron"
     fullname: >-
-      Krystyna Estrada
+      Kerttu Karon
     bio: >-
-      LA BASED PERSONAL TRAINER IG @key_fitt
+      🎬 Actor & 🧘🏼‍♀️ Hot Yoga teacher 👸🏼 IG: kerttu.karon 📍Born 🇪🇪 Live 🇺🇸
     location: "United States"
-    followers: 10400
-    engagement: 531
-    commentsToLikes: 0.015470
-    id: ckcj957f07pco0j23jicuubns
+    followers: 10200
+    engagement: 508
+    commentsToLikes: 0.126642
+    id: ckb9jh2woas0b0j23o7p8yczf
     verified: false
-    hashtags: "#fitspo, #motivation, #womensbest, #fitnessmodel"
-  - username: "rodriguechesnier"
-    fullname: >-
-      Rodriguechesnier
-    bio: >-
-      IFBBPRO MEN’S PHYSIQUE Follow me on instagram Rodriguechesnier
-    location: "United States"
-    followers: 55300
-    engagement: 523
-    commentsToLikes: 0.007126
-    id: ck8w1bc9i1ai50j78wgl2znjz
-    verified: false
-    hashtags: "#biceps, #training, #workhard, #foryou"
-  - username: "tomstanley__"
-    fullname: >-
-      Tom Stanley
-    bio: >-
-      20 Years Old Taking People To New Heights 🛩 Instagram: tomstanley__
-    location: "United States"
-    followers: 55900
-    engagement: 1262
-    commentsToLikes: 0.072175
-    id: ck9fbnqsbg5fk0j78f2fk63yg
-    verified: false
-    hashtags: "#travel, #airplane, #fly, #airline"
-  - username: "_jeffmendoza_"
-    fullname: >-
-      _jeffmendoza_
-    bio: >-
-      Photography | Fitness | Skincare 📍Los Angeles, CA 🏳️‍🌈 | 🇵🇭
-    location: "United States"
-    followers: 3052
-    engagement: 562
-    commentsToLikes: 0.047619
-    id: ck9vctieos1pm0j78tva401fz
-    verified: false
-    hashtags: "#newyorkcity, #losangeles, #voguechallenge, #malemodel"
+    hashtags: "#la, #hotyoga, #yogateacher, #christmas"
   - username: "aarontorng"
     fullname: >-
       Aaron Torng
     bio: >-
       🏃‍♂️ Fitness Trainer 📍 Los Angeles Need motivation? ⬇️⬇️ Join the fam!
     location: "United States"
-    followers: 38900
-    engagement: 500
-    commentsToLikes: 0.037113
+    followers: 39600
+    engagement: 587
+    commentsToLikes: 0.028847
     id: ckb0ughfbjrko0j239d0ttiss
     verified: false
-    hashtags: "#deepsquats, #squatsworkout, #howtosquat, #anklemobility"
-  - username: "danoruiseco"
+    hashtags: "#tiktokpartner, #cardio, #learnontiktok, #pushup"
+  - username: "_dinoman"
     fullname: >-
-      Daniel Ruiseco
+      Alfredo L
     bio: >-
-      
+      🌮
     location: "United States"
-    followers: 4051
-    engagement: 609
-    commentsToLikes: 0.027865
-    id: ckbfhf3kwcvu00j23rrll8vzo
+    followers: 29400
+    engagement: 927
+    commentsToLikes: 0.030506
+    id: ckc835hi43r1k0j23f8xf7n1a
     verified: false
-    hashtags: "#sexy, #model, #losangelescalifornia, #venicebeach"
-  - username: "ohfasho"
+    hashtags: "#funny, #foryoupage, #dodgers, #fyp"
+  - username: "dbear1294"
     fullname: >-
-      GEO
+      Dani B
     bio: >-
-      Quarantine made me do it.. IG @85photography
+      🖤
     location: "United States"
-    followers: 4356
-    engagement: 1785
-    commentsToLikes: 0.017824
-    id: ckce0uh4ihxuh0j23r9hjc7cn
+    followers: 43400
+    engagement: 737
+    commentsToLikes: 0.019894
+    id: ck8vurio1jrdq0j78l3mxpypy
     verified: false
-    hashtags: "#pnw, #seattle, #fyp, #art"
-  - username: "adrian.hdz"
+    hashtags: "#perfectasiam, #raiseyourgame, #nyc, #handstand"
+  - username: "garrett.travels"
     fullname: >-
-      Adrián Hernández
+      Garrett Travels
     bio: >-
-      Living my best life Wakanda forever! 🐯
+      ↟ CEO of Shirtless Hikes ↟ grbruno14@gmail.com 28 ↯ LA
     location: "United States"
-    followers: 16200
-    engagement: 538
-    commentsToLikes: 0.022096
-    id: ckb98ailgrgog0j23c0r5htj6
+    followers: 147000
+    engagement: 721
+    commentsToLikes: 0.025862
+    id: ckfpm777s1l3w0j23x28no0pl
     verified: false
-    hashtags: "#foru, #foryou, #fyp, #tacos"
-  - username: "overtimejess"
+    hashtags: "#gaypride, #foryou, #shirtlessboy, #tiktoktravel"
+  - username: "marccolcer"
     fullname: >-
-      Jess Lucero
+      Marc Colcer
     bio: >-
-      Sports reporter & Entertainment host LA homer 🌴 @Overtime🏀🏈 & @Dodgers host⚾️
+      Behind The Scenes of my photoshoots 📸 Check my Instagram for more photos/videos
     location: "United States"
-    followers: 12400
-    engagement: 1161
-    commentsToLikes: 0.090164
-    id: ckc36gf4lvcex0j234gvb7lig
+    followers: 43400
+    engagement: 637
+    commentsToLikes: 0.020614
+    id: ckbeyufd2jiua0j23fnnszccw
     verified: false
-    hashtags: "#sports, #overtime, #football, #nba"
-  - username: "emantheegyptian"
+    hashtags: "#foryoupage, #modeling, #bikini, #photoshoot"
+  - username: "sarahromanowsky"
     fullname: >-
-      Eman
+      Sarah Romanowsky
     bio: >-
-      professional hype woman always smiling ig: thedailyeman cash app: $ehass14
+      Teaching virtual lessons in Silks/Hammock/Hoop — email SarahRomanowsky@gmail.com
     location: "United States"
-    followers: 6482
-    engagement: 768
-    commentsToLikes: 0.012623
-    id: ckb9bhm9vxrwf0j235up6r0b3
+    followers: 23700
+    engagement: 1814
+    commentsToLikes: 0.007882
+    id: ckcughpc9f66i0j23u63uo57u
     verified: false
-    hashtags: "#glowup, #everydayscience, #fyp, #weightloss"
+    hashtags: "#dancer, #bungee, #foryou, #aerialhammock"
+  - username: "kellybellyboom"
+    fullname: >-
+      kellybellyboom
+    bio: >-
+      Half Indian - Half Australian. Kinda Swedish. Check out my YouTube page.
+    location: "United States"
+    followers: 24200
+    engagement: 358
+    commentsToLikes: 0.011834
+    id: ck9er2amnzuj40j785qepqoqa
+    verified: true
+    hashtags: "#fyp, #model, #workout, #tiktokdance"
+  - username: "wanderolin"
+    fullname: >-
+      wanderolin
+    bio: >-
+      🦄 Instagram @wanderolin
+    location: "United States"
+    followers: 5130
+    engagement: 713
+    commentsToLikes: 0.008430
+    id: ckbwjunj03rb50j23ahs3ajsg
+    verified: false
+    hashtags: "#feature, #featureme, #fun, #food"
+  - username: "genewpark"
+    fullname: >-
+      Gene W Park
+    bio: >-
+      Stand Up Comedian/Actor Follow Insta and DM: genewpark Subscribe to my YouTube
+    location: "United States"
+    followers: 376700
+    engagement: 1565
+    commentsToLikes: 0.031822
+    id: ck8s8hzpetoyp0j782eb87kg5
+    verified: false
+    hashtags: "#bts, #lol, #funny, #asianboy"
 ---

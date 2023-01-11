@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In New York in 2023
+title: Top 10 Gardening Instagram Influencers In New York In 2023
 description: >-
-  Find top gardening Instagram influencers in New York in 2023. Most popular hashtags: #gardening #brooklyn #garden #flowers.
+  Find top gardening Instagram influencers in New York in 2023. Most popular hashtags: #gardening #garden #flowers #newyork.
 platform: Instagram
-hits: 36
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 36 Instagram influencers like this in New York, United States for you to work with.
+hits: 14
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 14 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "66squarefeet"
-    fullname: >-
-      Marie Viljoen
-    bio: >-
-      NYC 🗽 Forager, Phytophile, Gardener, Cook 🌱🔪 Author of the #forageharvestfeastbook 📚 NYBG Class 31 October!👇🏽
-    location: "United States"
-    followers: 29278
-    engagement: 175
-    commentsToLikes: 0.052404
-    id: ck9wcyrvbd9gy0j78zj20v8yh
-    verified: false
-    hashtags: "#brooklyn, #bedroomcitrus, #growyourown, #gardening"
-  - username: "paulcelona"
-    fullname: >-
-      Paul Brogna
-    bio: >-
-      Landscape, interior & graphic design
-    location: "United States"
-    followers: 45282
-    engagement: 234
-    commentsToLikes: 0.020077
-    id: ck55kwmdd09f80i11wrf6tp0e
-    verified: false
-    hashtags: "#gardenbros, #menatwork, #hawaii, #roadtrip"
-  - username: "hudsonvalleymag"
-    fullname: >-
-      Hudson Valley Magazine
-    bio: >-
-      Informing, entertaining & investigating life in the Hudson Valley | #hvmag
-    location: "United States"
-    followers: 63522
-    engagement: 126
-    commentsToLikes: 0.016266
-    id: ck0tx2rtzhnzs0i19wqs5rbzs
-    verified: false
-    hashtags: "#countryliving, #hvmag, #newyork, #lovewhereyoulive"
   - username: "susanbranchauthor"
     fullname: >-
       Susan Branch
     bio: >-
       Happy gene, New York Times best-selling author, #watercolor artist, love Joe, girlfriends, cooking & gardening, riding train and England too.💞
     location: "United States"
-    followers: 21987
-    engagement: 1018
-    commentsToLikes: 0.061204
+    followers: 23121
+    engagement: 1042
+    commentsToLikes: 0.056520
     id: ck1389sscf72z0i192iuuxwfu
     verified: false
-    hashtags: "#pandemic, #wearamask, #marthasvineyard, #fruitsaladyummyyummy"
+    hashtags: "#booktalk, #bestfriend, #birthdaycake, #oldhouses"
   - username: "ourgingerbreadhome"
     fullname: >-
       Terry Boccio
     bio: >-
       🌸 Stony Brook, New York 🌸 Decor & Lifestyle 🌸 Mom to my 2 girls and 4 pups
     location: "United States"
-    followers: 6799
-    engagement: 1205
-    commentsToLikes: 0.051387
+    followers: 6709
+    engagement: 1152
+    commentsToLikes: 0.054799
     id: ckf5s78rgex4b0j23gczvlkvj
     verified: false
-    hashtags: "#beautiful, #architecture, #windows, #conservatory"
-  - username: "jaclynsalem"
+    hashtags: "#conservatory, #countryliving, #englishgardenstyle, #kitchendesign"
+  - username: "kristywharvey"
     fullname: >-
-      J A C L Y N  S A L E M
+      KristyWoodsonHarvey/DesignChic
     bio: >-
-      ✄ Sewing, knitting, and wearing a handmade wardrobe in Brooklyn, New York. ✎ Brooklyn Knitfolk YouTube podcast and Patreon
+      •#Design blogger with my mom Beth •#newyorktimes Bestselling Author •latest #books: Under the Southern Sky & Christmas in Peachtree Bluff 10.26.21
     location: "United States"
-    followers: 10196
-    engagement: 468
-    commentsToLikes: 0.035034
-    id: ck5cdafucitpl0i11ua48eody
+    followers: 66275
+    engagement: 56
+    commentsToLikes: 0.074095
+    id: ck8svswbbckox0j78g2d6lgke
     verified: false
-    hashtags: "#namedclothing, #urbangardening, #brooklynmakers, #linen"
-  - username: "cig_harvey"
+    hashtags: "#kitchensofinstagram, #kitchendesign, #kitchenideas, #womensfiction"
+  - username: "ninatakesh"
     fullname: >-
-      Cig Harvey
+      N I N A  T A K E S H
     bio: >-
-      Photographer✨Writer✨Teacher✨3 sold out books🔺 You Look at me Like an Emergecy🔹Gardening at Night🔸You an Orchestra You a Bomb🟢 New book coming soon.
+      🗝 Residential & Commercial Interior Designer 🪚 Remodeling Expert 📽 YouTube Red Elevator
     location: "United States"
-    followers: 16906
-    engagement: 976
-    commentsToLikes: 0.093585
-    id: ck5q09s4x4y7d0i11jv73h7hc
+    followers: 276881
+    engagement: 169
+    commentsToLikes: 0.042006
+    id: ck139c9z8kld00i19qq13vrfl
     verified: false
-    hashtags: "#eatflowers, #newyorktimes, #endlesssummer, #dowlingwalshgallery"
-  - username: "graciepotter"
+    hashtags: "#ninatakesh, #vogueliving, #archi, #newyorkinteriors"
+  - username: "mihalisnyc"
     fullname: >-
-      Grace Potter
+      Mihalis
     bio: >-
-      New album - “Daylight” - out now!
+      Botanical-floral art and science, @fullinyc founder. Garden and set designer. Native Flowers expert /consultant. Fashion meets nature conservation.
     location: "United States"
-    followers: 116067
-    engagement: 196
-    commentsToLikes: 0.037337
-    id: ck0vwpu6suzqi0i1900n65ilv
+    followers: 10470
+    engagement: 472
+    commentsToLikes: 0.034765
+    id: ck5bxeq01nky40i11qjmo4p6p
+    verified: false
+    hashtags: "#flowers, #garden, #floristlife, #botany"
+  - username: "66squarefeet"
+    fullname: >-
+      Marie Viljoen
+    bio: >-
+      Forager, Phytophile, Flavor Chaser 🌿 Author of the #forageharvestfeastbook Forest Brunch Walk, 08/15👇🏽
+    location: "United States"
+    followers: 34716
+    engagement: 123
+    commentsToLikes: 0.068951
+    id: ck9wcyrvbd9gy0j78zj20v8yh
+    verified: false
+    hashtags: "#learnplants, #picnic, #putaweedinit, #wildfoodlove"
+  - username: "lohud"
+    fullname: >-
+      The Journal News & lohud.com
+    bio: >-
+      The Lower Hudson Valley in pictures. Part of the @usatoday Network.
+    location: "United States"
+    followers: 27796
+    engagement: 112
+    commentsToLikes: 0.057065
+    id: ckaorampemftj0i78tah9igwy
     verified: true
-    hashtags: "#mondaynighttwilighthour, #livemusic, #monday, #topanga"
-  - username: "caitlin_eats_alot"
+    hashtags: "#westchester, #masks, #lohud, #ny"
+  - username: "finnthelonghairedgsd"
     fullname: >-
-      Caitlin Eats The East Coast
+      𝔽𝕚𝕟𝕟 | German Shepherd 🐶
     bio: >-
-      📍 Queens girl with a big appetite! 🗽 🍣 Feasting in NYC, Long Island & beyond 🍦🌮 📲 DM to Collab 📸 🌍 #Yelp Elite ‘18 ‘19, ‘20
+      ❆ 𝔹𝕠𝕣𝕟 & ℝ𝕒𝕚𝕤𝕖𝕕 𝕠𝕟 𝕃𝕠𝕟𝕘 𝕀𝕤𝕝𝕒𝕟𝕕, ℕ𝕐 ❆ 𝟗.𝟏𝟑.𝟏𝟕
     location: "United States"
-    followers: 14995
-    engagement: 883
-    commentsToLikes: 0.194558
-    id: ck5cbl3vqfng60i11ese4n0ub
+    followers: 24005
+    engagement: 424
+    commentsToLikes: 0.023719
+    id: ck0tz2165ousm0i19jawgumxm
     verified: false
-    hashtags: "#foodporn, #steakhouse, #healthyfood, #nycfood"
-  - username: "iphotoplus"
+    hashtags: "#topdogphoto, #gsd, #gsdofig, #adventurepup"
+  - username: "soul.planet"
     fullname: >-
-      ☞︎♔🅔®️🅘©️♔︎︎︎︎☜︎️️️
+      Tourism • Nature
     bio: >-
-      📸ᑭᖇᗴᔕᗴᖇᐯIᑎᘜ TIᗰᗴ👣 👶🏼🇩🇴 📍🇺🇸 🚫ᑌᑎᖴOᒪᒪOᗯ=ᑌᑎᖴOᒪᒪOᗯ🖕🏼 🪐𝗖𝗼𝗹𝗹𝗲𝗰𝘁 𝗠𝗲𝗺𝗼𝗿𝗶𝗲𝘀 𝗟𝗶𝗸𝗲 𝗙𝗼𝗼𝗹𝘀 𝗖𝗼𝗹𝗹𝗲𝗰𝘁 𝐦𝐨𝐧𝐞𝐲 ʕ •ₒ• ʔ 🎞 ᑭIᑕᔕ TᗩKᗴᑎ ᗷY ᗰᗴ📸 🛑Pᴜʙ ᴄᴏᴘʏʀɪɢʜᴛᴇᴅ©️ 👷🏼ℹ️🦾🅰️
+      • The world is a beautiful place and i’m here to show you why!
     location: "United States"
-    followers: 8506
-    engagement: 1575
-    commentsToLikes: 0.029431
-    id: ckaosrb7jsqy90i78d3nb45zo
+    followers: 585936
+    engagement: 590
+    commentsToLikes: 0.009110
+    id: ck0tuyuzm99vf0i19mqu0ch4n
     verified: false
-    hashtags: "#nycphotographer, #stayhome, #goodvibes, #mondaymotivation"
+    hashtags: "#sunset, #travelholic, #solotravel, #photography"
+  - username: "rachelryle"
+    fullname: >-
+      Rachel Ryle
+    bio: >-
+      Illustrator, Animator & Storyteller • Creating Custom Animations for Top Brands • Posting life in NYC, travels & memories on @rachelrylelife •
+    location: "United States"
+    followers: 949713
+    engagement: 184
+    commentsToLikes: 0.017462
+    id: ck1353z0mzl1z0i19ll9iqxqm
+    verified: true
+    hashtags: "#drawing, #halloween, #instavideo, #nature4nurses"
 ---

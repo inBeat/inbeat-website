@@ -1,45 +1,57 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Ukraine in 2023
+title: Top 10 Cinema Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top cinema Instagram influencers in Ukraine in 2023. Most popular hashtags: #photography #cinematography #sonya7iii.
+  Find top cinema Instagram influencers in Ukraine in 2023. Most popular hashtags: #cinema #ukraine #cinematic.
 platform: Instagram
-hits: 36
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 36 Instagram influencers like this in Ukraine for you to work with.
+hits: 21
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 21 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
-  - username: "taras.tsymbaliuk"
+  - username: "sbutko"
     fullname: >-
-      ТАРАС ЦИМБАЛЮК
+      Sergey Butko / Kyiv
     bio: >-
-      ukrainian actor | fitness lover ⠀ PR | cooperation | @gorna_ | Nastia ⠀ cinema agent | +380 (67) 447 67 70 | Oksana⠀ EMAIL | tarasactor@gmail.com
+      Elegant wedding & family photo inspired by cinematography🎞 Booking 2021
     location: "Ukraine"
-    followers: 76979
-    engagement: 627
-    commentsToLikes: 0.014982
-    id: ck14imdfeg3wl0i19d4k18or6
+    followers: 12431
+    engagement: 404
+    commentsToLikes: 0.060362
+    id: ck0u276sez09i0i19c4yek89o
     verified: false
-    hashtags: "#zniewolona, #stb"
+    hashtags: "#shabatura"
   - username: "liza_liubimova_l"
     fullname: >-
       Liza Liubimova
     bio: >-
       Actress theatre & cinema 🎭 Ukraine 🇺🇦 👇godostudio👇
     location: "Ukraine"
-    followers: 26015
-    engagement: 512
-    commentsToLikes: 0.016330
+    followers: 24525
+    engagement: 446
+    commentsToLikes: 0.016954
     id: ck5ccnhoyhoj60i11irgjli5t
     verified: false
-    hashtags: "#photo, #godo, #shooting, #actress"
+    hashtags: "#theatre, #actorslife, #actress, #winteriscoming"
+  - username: "taras.tsymbaliuk"
+    fullname: >-
+      ТАРАС ЦИМБАЛЮК
+    bio: >-
+      ukrainian actor | fitness lover ⠀ PR | cooperation | @gorna_ | Nastia ⠀ cinema agent | +380 (67) 447 67 70 | Oksana⠀ EMAIL | tarasactor@gmail.com
+    location: "Ukraine"
+    followers: 87384
+    engagement: 472
+    commentsToLikes: 0.012584
+    id: ck14imdfeg3wl0i19d4k18or6
+    verified: false
+    hashtags: ""
   - username: "bad_ganna"
     fullname: >-
       bad Ann
     bio: >-
       Шукаю дорогу до себе ❤️ ⠀ Створила @maker_ua 🗝 ⠀ Фотографую @ann_bad_ 📲 ⠀ Творчість #bad_cinema 🔞 ⠀ #badвпошукахщастя ✈️
     location: "Ukraine"
-    followers: 8644
-    engagement: 554
-    commentsToLikes: 0.021681
+    followers: 8311
+    engagement: 478
+    commentsToLikes: 0.024706
     id: ck6u73iufj9jh0j71p4xxkpmb
     verified: false
     hashtags: "#bad"
@@ -47,84 +59,72 @@ profiles:
     fullname: >-
       young and in love
     bio: >-
-      21 y.o.🦋 cinemaholic
+      22 y.o.🦋 cinemaholic
     location: "Ukraine"
-    followers: 3715
-    engagement: 1686
-    commentsToLikes: 0.011143
+    followers: 3686
+    engagement: 1673
+    commentsToLikes: 0.010861
     id: ck8t4a3m260kx0j78x97xf57l
     verified: false
-    hashtags: "#likeme, #followforfollowback, #ukraine, #photooftheday"
+    hashtags: "#instaukraine, #tbt, #ukraine, #instalikes"
   - username: "emir_aliev_"
     fullname: >-
       Эмир Алиев
     bio: >-
       ____________ F U L L __ F R A M E ____________ __________Wedding Cinematography_________ +79788920777
     location: "Ukraine"
-    followers: 19406
-    engagement: 364
-    commentsToLikes: 0.024521
+    followers: 18925
+    engagement: 349
+    commentsToLikes: 0.026148
     id: ck5q57l2groy90i11hzcma82p
     verified: false
-    hashtags: "#videographer, #weddingcrimea, #wedding, #sonya7iii"
-  - username: "vorot.raw"
+    hashtags: "#simf, #sonya7sii, #videography, #weddingvideo"
+  - username: "_utopia_707"
     fullname: >-
-      Фотограф | Воротинцев | Киев
+      《everyone sees in his own way》
     bio: >-
-      🤙Я Артём~@vorot1ntsev | Тренд 2020 🎬Фотосессии в жанре CINEMA Portrait 🔥Создаю Контент для соцсетей~@vorot.cont ⠀ 📸ЩЁЛК и ты в КИНО! ⠀ 👇Мои Услуги
+      🎞| streetphotography | creative street | 📸 Nikon | IPhone 📱 💥| If I feel, I'll shoot | 💡| каждый видит по-своему, вот как вижу я | 🔐| @io_intrigo |
     location: "Ukraine"
-    followers: 2629
-    engagement: 3398
-    commentsToLikes: 0.034687
-    id: ck14ih9fife1w0i19hl7rfe1x
+    followers: 2465
+    engagement: 2784
+    commentsToLikes: 0.167388
+    id: ckaot3cm8u75m0i78gz3nq3jw
     verified: false
-    hashtags: ""
-  - username: "oleg.avilov"
-    fullname: >-
-      Oleg Avilov 🎥
-    bio: >-
-      Teletriumph Award Winner DP 2016🏆🎥 104 countries ✈️ Оператор "Орел и Решка". Cinematographer. Photographer. Based in Kiev,UA. Available worldwide.
-    location: "Ukraine"
-    followers: 42782
-    engagement: 215
-    commentsToLikes: 0.024804
-    id: ck0u63p7p0yns0i19pajh5n9o
-    verified: false
-    hashtags: "#dp, #seadora, #fisherman, #desert"
-  - username: "maryanapetrushka"
-    fullname: >-
-      MK_makeup
-    bio: >-
-      💎Pro Makeup artist & Hair💎Henna designer. 💎Lashmaker. 💎 . Collaboration & PR: Direct and mariannapetrushka@gmail.com . IHERB 🔰
-    location: "Ukraine"
-    followers: 19021
-    engagement: 588
-    commentsToLikes: 0.194149
-    id: ck13a8i6gp5g10i19w4fo25rs
-    verified: false
-    hashtags: "#closeup, #spookyseason, #videomakeup, #makeuptutorial"
-  - username: "melnikstyle"
-    fullname: >-
-      ᴠɪᴛᴀʟɪɪ ᴍᴇʟɴɪᴋ
-    bio: >-
-      CALISTHENICS ATHLETE International cups winner🏆 YouTuber Business inquiries: Vet.melnik2002@gmail.com
-    location: "Ukraine"
-    followers: 167160
-    engagement: 1182
-    commentsToLikes: 0.014086
-    id: ck14kgshwpg3u0i19788zlbj3
-    verified: false
-    hashtags: "#handstand, #cinematography, #blackandwhitehumansphotos, #moodygrams"
+    hashtags: "#streetphotographers, #ig, #cinematicphotography, #spi"
   - username: "panamera_am"
     fullname: >-
       panamera_am
     bio: >-
       Реклама в Директ📩 Цель:5к Бомбовские видео🖇️
     location: "Ukraine"
-    followers: 4956
-    engagement: 3628
-    commentsToLikes: 0.006436
+    followers: 4456
+    engagement: 3711
+    commentsToLikes: 0.007166
     id: ckf5v6m5ingtf0j234f6csfi9
     verified: false
     hashtags: ""
+  - username: "trollcatcher"
+    fullname: >-
+      Alice Tochylovska
+    bio: >-
+      ↟↟↟ Magizoologist ↟↟↟🇺🇦 #Sculptor ↟ plant lover ↟ #redhead ↟ artist ↟ traveller ↟ bookworm ↟ #fantasy & #scifi nerd ↟ And Pippin the #corgi ↟
+    location: "Ukraine"
+    followers: 26177
+    engagement: 478
+    commentsToLikes: 0.019621
+    id: ck14kvbeirhkb0i19g0f0cfl4
+    verified: false
+    hashtags: "#sculptureart, #dreadshare, #fantasy, #darkart"
+  - username: "govor.official"
+    fullname: >-
+      GOVOR
+    bio: >-
+      GOVOR - треки со смыслом #бейся #времянаисходе #неслушайум #душапоет #мечтай #сеньорита #танцуй Booking&PR: +380636474543 Премьера клипа ‘Бейся’⬇️🔥
+    location: "Ukraine"
+    followers: 76006
+    engagement: 87
+    commentsToLikes: 0.068444
+    id: ck6tjun993gev0j71g07xbumq
+    verified: false
+    hashtags: "#rnb, #afterparty, #newmusic, #backstage"
 ---

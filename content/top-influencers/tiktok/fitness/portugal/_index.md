@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Portugal in 2023
+title: Top 10 Fitness TikTok Influencers In Portugal In 2023
 description: >-
-  Find top fitness TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryou #viral #fy.
+  Find top fitness TikTok influencers in Portugal in 2023. Most popular hashtags: #fitness #fyp #funny #viral.
 platform: TikTok
-hits: 15
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 15 TikTok influencers like this in Portugal for you to contact.
+hits: 14
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 14 TikTok influencers like this in Portugal for you to work with.
 profiles:
+  - username: "maurosimoes_142"
+    fullname: >-
+      Mauro Simões
+    bio: >-
+      Fitness Manager 👨‍💼 Personal Trainer 🏋️‍♂️
+    location: "Portugal"
+    followers: 5218
+    engagement: 686
+    commentsToLikes: 0.067782
+    id: ckame25us26580i78g78hdce8
+    verified: false
+    hashtags: "#maurosimoes, #feeling, #parahustedes, #timetofitness24"
   - username: "runcrosstrail"
     fullname: >-
       Nuno Gonçalves Fit
     bio: >-
       Personal Trainer - Treinador Fitness, Power-Yoga, Corrida, OCR, Natação
     location: "Portugal"
-    followers: 9638
-    engagement: 480
-    commentsToLikes: 0.074492
+    followers: 28800
+    engagement: 447
+    commentsToLikes: 0.047288
     id: cka6dzpkb9sop0i78p01sbwdv
     verified: false
-    hashtags: "#nazar, #fypage, #paravoce, #viral"
-  - username: "flexible_kiki20"
+    hashtags: "#burpeeschallenge, #fit, #rctchallenge, #treino"
+  - username: "joaomartins955"
     fullname: >-
-      Katarina Serralha 
+      João Martins
     bio: >-
-      Follow my instagram 🙏🏽💙 #flexibility #flexible_kiki #gymnast #dancer
+      ▪️Personal Trainer🇵🇹 ▫️Fitness Challenges Everyday ▪️SWEAT, SMILE, REPEAT
     location: "Portugal"
-    followers: 171500
-    engagement: 821
-    commentsToLikes: 0.018579
-    id: ck7znzr8ygfzi0j787vi2fh25
+    followers: 60300
+    engagement: 775
+    commentsToLikes: 0.135450
+    id: ckdtk48xfxpeo0j23zmtlfqfh
     verified: false
-    hashtags: "#flexible, #handstand, #circus, #dancer"
+    hashtags: "#viral, #couplegoals, #fitcouple, #fitness"
   - username: "micaellouroff"
     fullname: >-
       Micael Louro
     bio: >-
       
     location: "Portugal"
-    followers: 4425
-    engagement: 421
-    commentsToLikes: 0.018219
+    followers: 4380
+    engagement: 552
+    commentsToLikes: 0.014687
     id: cka0keqijm8yz0i78m9tylmm3
     verified: false
-    hashtags: "#quarentine, #fitness, #stayathomechallenge, #sixpackabs"
-  - username: "marcosarruda800"
+    hashtags: "#4fit4smile, #fitness, #stayathomechallenge, #quarentine"
+  - username: "flexible.kiki"
     fullname: >-
-      Marcos Arruda
+      Katarina Serralha 
     bio: >-
-      🇵🇹/🇨🇻 Insta: marcosarruda80 ⤴️ TikTok’er Newcomer 🔥 Road to 4000 👣❤️
+      Follow my instagram 🙏🏽💙 #flexibility #flexible_kiki #gymnast #dancer
     location: "Portugal"
-    followers: 3124
-    engagement: 557
-    commentsToLikes: 0.020010
-    id: ckbf08l6plsin0j238vdi0w63
+    followers: 169100
+    engagement: 887
+    commentsToLikes: 0.035816
+    id: ck7znzr8ygfzi0j787vi2fh25
     verified: false
-    hashtags: "#fitnesschallenge, #brasil, #parati, #viral"
+    hashtags: "#contortion, #talent, #ballerina, #acro"
   - username: "trainermiguel24"
     fullname: >-
       Sérgio Miguel Melo
     bio: >-
       
     location: "Portugal"
-    followers: 78900
-    engagement: 327
-    commentsToLikes: 0.011355
+    followers: 79100
+    engagement: 358
+    commentsToLikes: 0.011935
     id: ck9feix4tt6kr0j78wnl46uk0
     verified: false
-    hashtags: "#tiktokchallenge, #business, #funny, #challenge"
-  - username: "joaomartins955"
-    fullname: >-
-      Joao Martins
-    bio: >-
-      ▪️Personal Trainer 🇵🇹 ▫️Fitness Challenges Everyday ▪️SWEAT, SMILE, REPEAT
-    location: "Portugal"
-    followers: 28100
-    engagement: 845
-    commentsToLikes: 0.143721
-    id: ckdtk48xfxpeo0j23zmtlfqfh
-    verified: false
-    hashtags: "#dueto, #viral, #fy, #couplegoals"
+    hashtags: "#dance, #viral, #portugal, #foryou"
   - username: "crank_lauren"
     fullname: >-
       Lauren Crank
     bio: >-
       Pole. Food. Travel. Life. 🌎 Follow us on insta @polewithaview☝️🙌☺️
     location: "Portugal"
-    followers: 8142
-    engagement: 1217
-    commentsToLikes: 0.014654
+    followers: 8025
+    engagement: 1192
+    commentsToLikes: 0.013366
     id: ckb9ofa5zisjr0j239xi50zs3
     verified: false
-    hashtags: "#portugal, #fyp, #foryoupage, #polefitnessgirl"
+    hashtags: "#fyp, #polefitnessgirl, #poledancing, #passion"
+  - username: "kapinhaoficial"
+    fullname: >-
+      Kapinha
+    bio: >-
+      Ator 🎭 Apresentador TV 📺 Cantor 🎤 ❤️ 770K 🙏🏼 Next 775K😘 💬Chat Kapinha👇🏼
+    location: "Portugal"
+    followers: 772400
+    engagement: 1408
+    commentsToLikes: 0.026982
+    id: ck9glci1knl150j78kmvzjgzr
+    verified: true
+    hashtags: "#prank, #comedia, #fy, #today"
   - username: "nunopintor"
     fullname: >-
       Nuno Pinto
     bio: >-
       👨‍🎨 🐣
     location: "Portugal"
-    followers: 4675
-    engagement: 503
-    commentsToLikes: 0.063732
+    followers: 4582
+    engagement: 501
+    commentsToLikes: 0.062087
     id: cka7u9zp5r3cs0i78sznamqjq
     verified: false
-    hashtags: "#dog, #tik, #duet, #fyp"
-  - username: "brunorangelnaves"
+    hashtags: "#tik, #home, #fyp, #dog"
+  - username: "marcosarruda800"
     fullname: >-
-      BRUNO RANGEL
+      Marcos Arruda
     bio: >-
-      Rumo aos 4K 🔥🔥🔥 siga-me no Instagram @brunoo_rangel
+      🇵🇹/🇨🇻 Insta: marcosarruda80 ⤴️ Apenas desfruta 🤪 Rumo aos 15K 👣❤
     location: "Portugal"
-    followers: 4024
-    engagement: 509
-    commentsToLikes: 0.041709
-    id: ckdnnj47jk0450j23uefc6i6n
+    followers: 13700
+    engagement: 605
+    commentsToLikes: 0.027354
+    id: ckbf08l6plsin0j238vdi0w63
     verified: false
-    hashtags: "#trend, #smile, #bloper, #foryou"
-  - username: "kapinhaoficial"
-    fullname: >-
-      Kapinha
-    bio: >-
-      Actor🎭TV Host📺Singer🎤 Thank you ❤️ 460k 🙏🏼 Next 465k😘 • 🤩MY CHALLENGE👇🏼
-    location: "Portugal"
-    followers: 460500
-    engagement: 1286
-    commentsToLikes: 0.013395
-    id: ck9glci1knl150j78kmvzjgzr
-    verified: false
-    hashtags: "#makeup, #couple, #comedia, #spooky"
+    hashtags: "#xyzbca, #humor, #meme, #engra"
 ---

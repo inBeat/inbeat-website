@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In United States in 2023
+title: Top 10 Food TikTok Influencers In United States In 2023
 description: >-
-  Find top food TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #dance.
+  Find top food TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #stitch #foryoupage.
 platform: TikTok
-hits: 8249
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 8249 TikTok influencers like this in United States for you to connect with.
+hits: 8339
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 8339 TikTok influencers like this in United States for you to connect with.
 profiles:
-  - username: "foods"
+  - username: "ruslanapopach"
     fullname: >-
-      Foods
+      Ruslana Popach
     bio: >-
-      Foodies Child Click Below To Add My Snapchat⬇️ adding back first 100 (87/100)
+      18 Sc: food_unicorn8
     location: "United States"
-    followers: 383200
-    engagement: 2125
-    commentsToLikes: 0.020492
-    id: ckavk8b2bt4nh0j23fe2720hw
-    verified: true
-    hashtags: "#learnontiktok, #cheese, #ramen, #recipe"
-  - username: "ikenwin"
-    fullname: >-
-      Kenny Nguyen
-    bio: >-
-      150k❗️ ‘97 liner Actor/Foodie/Model Be a #Winner Spam likes will get you blocked
-    location: "United States"
-    followers: 117600
-    engagement: 2614
-    commentsToLikes: 0.033164
-    id: ckcegf7panp9a0j232mohslnl
+    followers: 171600
+    engagement: 1775
+    commentsToLikes: 0.023270
+    id: ck9324031huxi0j783t5cs6s1
     verified: false
-    hashtags: "#duet, #myhobby, #couplegoals, #fyp"
-  - username: "sinfully_virgo"
+    hashtags: "#foryou"
+  - username: "i_like_anime_perro"
     fullname: >-
-      Josephina♍️
+      Love anime
     bio: >-
-      I don’t share food!!! -Joey
+      Love anime💕I like food lol💕 🙃love the boys No homo
     location: "United States"
-    followers: 81800
-    engagement: 2003
-    commentsToLikes: 0.038856
-    id: ckbwb32am0kb70j23h4hp1c5f
+    followers: 7112
+    engagement: 1969
+    commentsToLikes: 0.134033
+    id: ckdi7y2jya2jr0j23s80euc83
     verified: false
-    hashtags: "#foryoupage, #stemlife, #familyimpression, #redbulldanceyourstyle"
+    hashtags: "#duet"
   - username: "makeupbyluckiestar48"
     fullname: >-
       Makeupbyluckiestar48
     bio: >-
-      Texas wheelchairchic that loves Da Lord, fam, food, music & $Makeupbyluckiestar
+      #WCC that loves Da Lord, Family, Food & Music 💫
     location: "United States"
-    followers: 8196
-    engagement: 1738
-    commentsToLikes: 0.075513
+    followers: 10600
+    engagement: 1924
+    commentsToLikes: 0.121093
     id: ckb9r85kann5c0j23pz70kce1
     verified: false
-    hashtags: "#fyp, #smalltiktoker, #wheelchair, #navybeans"
-  - username: "lobos_austintx_realtor"
-    fullname: >-
-      Neil
-    bio: >-
-      Here to goof off & have fun🤪 Marine Vet I Austin,TX Realtor l Foodie I Fitness
-    location: "United States"
-    followers: 5672
-    engagement: 1732
-    commentsToLikes: 0.284642
-    id: ckbatpudxkb4z0j23681zq86x
-    verified: false
-    hashtags: "#whatsyourpower, #randomthings, #thisisbliss, #friends"
-  - username: "willworkforheels"
-    fullname: >-
-      WillWorkForHeels
-    bio: >-
-      ✨Fashion•Foodie•Teacher✨ I like to dance💃🏾 I get a kick outta myself.
-    location: "United States"
-    followers: 22800
-    engagement: 1652
-    commentsToLikes: 0.111220
-    id: ckc34gjwettqr0j232eaxxa2n
-    verified: false
-    hashtags: "#fyp, #teachersoftiktok, #tiktokfoodie, #blackteachersoftiktok"
+    hashtags: "#thankyoulord, #wcc, #salad, #dinner"
   - username: "cupcakesandbarbells"
     fullname: >-
       cupcakesandbarbells
     bio: >-
-      Your TikTok Personal Trainer looking to lift, sweat, and eat all of the food. 🧁
+      Fitness pro helping people understand food and exercise
     location: "United States"
-    followers: 21200
-    engagement: 1687
-    commentsToLikes: 0.085385
+    followers: 59000
+    engagement: 1896
+    commentsToLikes: 0.068913
     id: ckcdysmz1gux80j23xk4mflco
     verified: false
-    hashtags: "#stitch"
-  - username: "lilga.k.a.g_race"
+    hashtags: "#fitness, #gym, #pistolsquats, #workout"
+  - username: "biteswithbuddy"
     fullname: >-
-      Lil-g.A.K.A.G-race
+      Buddy
     bio: >-
-      I love life! Positivity is as important as food and water. 🤘🏻😎✌🏻
+      Sharing & Searching for ❤️ thru food & growth
     location: "United States"
-    followers: 23800
-    engagement: 1609
-    commentsToLikes: 0.149107
-    id: ck9c6ws05re1n0j78h07hb10a
+    followers: 345200
+    engagement: 1869
+    commentsToLikes: 0.038080
+    id: ck982l6pqgibu0j782qnir0ss
     verified: false
-    hashtags: "#montanaborndork, #fyp, #foryoupage, #whitechicks"
-  - username: "trocreations"
-    fullname: >-
-      Pete (Tro) Dawson
-    bio: >-
-      I get CRAZY with Food 🍕 Join me on IG! 😜 Subscribe & Ring the Bell! 🔔👇
-    location: "United States"
-    followers: 1500000
-    engagement: 2126
-    commentsToLikes: 0.013761
-    id: ck81q8lc9gtmr0j78533p7klb
-    verified: false
-    hashtags: ""
+    hashtags: "#newchef, #dinnerideas, #mealprep, #welcomeback"
   - username: "johannaswanderland"
     fullname: >-
       Johanna
     bio: >-
-      Just winging it Random sleeper Travel 🖤 Food
+      35 & winging it Random sleeper Travel 🖤 Food
     location: "United States"
-    followers: 8312
-    engagement: 1570
-    commentsToLikes: 0.157979
+    followers: 9793
+    engagement: 1015
+    commentsToLikes: 0.135674
     id: ckbbshikxfztb0j2341iv0xv6
     verified: false
-    hashtags: "#fyp, #smh, #duet, #happiness"
+    hashtags: "#duet, #adulting, #stitch, #fyp"
+  - username: "wrecker_style"
+    fullname: >-
+      Wrecker Style
+    bio: >-
+      🖤Wendy•lvl20💚 🖤Cosplay•Art💚 🖤Transformers•Food💚 🖤Commissions Open💚
+    location: "United States"
+    followers: 3715
+    engagement: 1837
+    commentsToLikes: 0.088284
+    id: ckc8vluifik8n0j235xxhm8ou
+    verified: false
+    hashtags: "#stitch, #transformers, #swerve, #mtmte"
+  - username: "willworkforheels"
+    fullname: >-
+      WillWorkForHeels
+    bio: >-
+      ✨Fashion•Foodie•Teacher👩🏾‍🔬✨ Oh and I blog about food and cute things I wear
+    location: "United States"
+    followers: 23600
+    engagement: 1577
+    commentsToLikes: 0.119863
+    id: ckc34gjwettqr0j232eaxxa2n
+    verified: false
+    hashtags: "#blackandeducated, #foodie, #blackteachersontiktok, #foodtiktok"
+  - username: "_slayyourway"
+    fullname: >-
+      King Slay
+    bio: >-
+      50k? DuragDaddy Makeup/Dance/Food IG: @_slayyourway _davonlatrell CA: $ikingslay
+    location: "United States"
+    followers: 52000
+    engagement: 2973
+    commentsToLikes: 0.075996
+    id: ckcuw3ipcliu40j23v7ltpmdb
+    verified: false
+    hashtags: "#guysinmakeup, #upchallenge, #gaytiktok, #fyp"
+  - username: "doraanngarcia"
+    fullname: >-
+      Dora Ann Garcia
+    bio: >-
+      Unboxing’s Foodie Makeup lover And more..
+    location: "United States"
+    followers: 3887
+    engagement: 1755
+    commentsToLikes: 0.068341
+    id: ckd6ivfz8bspq0j23x4ns8zre
+    verified: false
+    hashtags: "#texas, #turbotaxlivepick6, #foryoupage, #corpuschristi"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Mothers Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top mothers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #happy #dubai #love.
+  Find top mothers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #love #uae.
 platform: Instagram
-hits: 87
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 87 Instagram influencers like this in United Arab Emirates for you to pitch.
+hits: 66
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 66 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
+  - username: "nour.ghazwan"
+    fullname: >-
+      نُورْ غَزوانْ
+    bio: >-
+      Feminist ♀ ♀ #dubai 🇦🇪 #makeup #lifestyle #motherhood For business dm please 📩 Snapchat : nour.mallouk
+    location: "United Arab Emirates"
+    followers: 249127
+    engagement: 233
+    commentsToLikes: 0.262721
+    id: ckap0lrktqv3j0i782sme8haj
+    verified: false
+    hashtags: "#dubai, #kuwait, #abudhabi, #africa"
   - username: "karadacosta"
     fullname: >-
       Kara Da Costa
     bio: >-
-      Be kind 🧿 📍Dubai 🇦🇪 🌴 Mother 👧👦🧒 | Married💍 Lawyer • Entrepreneur • Creative 📧 karadacosta1@gmail.com
+      Be kind 🧿 ☥ 📍 Dubai Mother 👧👦🧒 | Married💍 Entrepreneur • Creative • Lawyer 📧 karadacosta1@gmail.com
     location: "United Arab Emirates"
-    followers: 70097
-    engagement: 1819
-    commentsToLikes: 0.027224
+    followers: 102778
+    engagement: 1258
+    commentsToLikes: 0.019244
     id: ck9hcelrul0nh0j78743kdlu6
     verified: false
-    hashtags: "#casualwear, #ladieswear, #dubaiboutique, #coverup"
-  - username: "lulu_albedaiwi"
-    fullname: >-
-      lulu_albedaiwi 🌟 لولو البديوي
-    bio: >-
-      ‎‏📍Riyadh 🇸🇦 Motherhood 👨‍👩‍👦‍👦 life style👗 l.albedaiwi@yahoo.com Snap : luluwiz 👻 johnson’s ambassador in Saudi Arabia
-    location: "United Arab Emirates"
-    followers: 145508
-    engagement: 119
-    commentsToLikes: 0.042048
-    id: ck15s5uqbbdkk0i19bmyd4da5
-    verified: false
-    hashtags: "#alexperry, #summer2020, #summernights, #happy"
-  - username: "stefania_lo_gatto"
-    fullname: >-
-      Stefania Lo Gatto | Networker
-    bio: >-
-      I𝚝’𝚜 𝚗𝚘𝚝 𝚕𝚞𝚌𝚔 𝚒𝚝’𝚜 G𝚘𝚍’𝚜 𝚏𝚊𝚟𝚘𝚛. 🙏🏻 💵 Self-Made Milionaire 💄 Inspiring and empowering women 💝 Mother of 3 💍 Wifey
-    location: "United Arab Emirates"
-    followers: 271891
-    engagement: 107
-    commentsToLikes: 0.044431
-    id: ck15ud3qxmkk50i19tya32jik
-    verified: false
-    hashtags: "#networkmarketing, #mydubai, #unityglobal, #friends"
+    hashtags: "#theluxlines, #goldenhour, #sunsetsandchill, #sunsets"
   - username: "shahad_alkhattab"
     fullname: >-
       شهد الخطاب 🇮🇶
     bio: >-
       Mama 👪 #fashion | #lifestyle | #motherhood TV Presenter 🎥 مقدمة برامج 👻 shoosh.shahad 📧 Alkhattab.shahad@gmail.com 📍Dubai بوتيكي⤵️
     location: "United Arab Emirates"
-    followers: 785705
-    engagement: 246
-    commentsToLikes: 0.015079
+    followers: 938062
+    engagement: 208
+    commentsToLikes: 0.010932
     id: ck0vy8upe2skf0i19sgff0300
     verified: false
-    hashtags: "#teamgalaxylevant, #galaxynote20, #ad, #fiat500"
+    hashtags: "#teamgalaxylevant, #galaxys21, #ad, #shein"
+  - username: "lulu_albedaiwi"
+    fullname: >-
+      lulu_albedaiwi 🌟 لولو البديوي
+    bio: >-
+      ‎‏📍Riyadh 🇸🇦 Motherhood 👨‍👩‍👦‍👦 life style👗 l.albedaiwi@yahoo.com Snap : luluwiz 👻 johnson’s ambassador in Saudi Arabia
+    location: "United Arab Emirates"
+    followers: 147220
+    engagement: 97
+    commentsToLikes: 0.057211
+    id: ck15s5uqbbdkk0i19bmyd4da5
+    verified: false
+    hashtags: "#curlyhair, #lovemyhair, #goodvibes, #mybed"
+  - username: "dina.maimouni"
+    fullname: >-
+      Dina Maimouni 🕊
+    bio: >-
+      Spanish / Moroccan in📍Dubai Lifestyle | Fashion | Beauty | Motherhood
+    location: "United Arab Emirates"
+    followers: 98477
+    engagement: 199
+    commentsToLikes: 0.033226
+    id: ck5hh0sj15sv70i11y1bg08op
+    verified: false
+    hashtags: "#mixedchildren, #dubai, #brotherhood, #style"
   - username: "noor.odehh"
     fullname: >-
       Noor Odeh -نور عوده
     bio: >-
-      A little bit of Fashion / Lifestyle/ Motherhood 📍 Abu Dhabi
+      Fashion / Lifestyle/ Motherhood 📍 Abu Dhabi
     location: "United Arab Emirates"
-    followers: 362861
-    engagement: 79
-    commentsToLikes: 0.038570
+    followers: 435975
+    engagement: 59
+    commentsToLikes: 0.030492
     id: ck5c2dyt5x2hu0i11y5y5fssa
     verified: false
-    hashtags: "#itsallgoodmum, #cerelac, #cerelacarabia, #ad"
+    hashtags: "#timewellspent, #mymaxstyle, #eidfashion, #dysonv11"
+  - username: "sallymhajjar"
+    fullname: >-
+      Sally Moussa Hajjar
+    bio: >-
+      Mother of 3 🙇‍♀️🙇‍♂️🙇‍♀️ Media & Communication Expert Managing Partner @humanagementme Lebanese-Dubai Based 🌴
+    location: "United Arab Emirates"
+    followers: 75336
+    engagement: 113
+    commentsToLikes: 0.109799
+    id: ck8swqwmpexen0j78wz8ap21y
+    verified: false
+    hashtags: "#diafa202, #diafa2020, #lebanon, #jewelry"
   - username: "aminatibiofficial"
     fullname: >-
       MissMimiFashion | Amina TIBI
     bio: >-
-      Fashion | Lifestyle | Beauty | Motherhood Made in Morocco 🇲🇦 📍 Based in Dubai
+      Fashion | Lifestyle | Beauty | Motherhood Made in Morocco 🇲🇦 Based in Dubai Founder @wlidatycom
     location: "United Arab Emirates"
-    followers: 73936
-    engagement: 461
-    commentsToLikes: 0.061893
+    followers: 74196
+    engagement: 300
+    commentsToLikes: 0.067664
     id: ck0w0vv64ga6e0i19p0bkvvl5
     verified: false
-    hashtags: "#somethingaboutyou, #pyjamaday, #ootd, #pandoraicons"
-  - username: "luxiboo"
-    fullname: >-
-      Lux
-    bio: >-
-      📍 Dubai 📸 MAXIM | FHM | Playboy 🖊Author | The #MothersMilkCookbook 🎓I wear a few hats 🇵🇭Fil-Am 🗺 Adventurer 👯‍♀️👩🏼‍🍳 Twerkin’ Cook
-    location: "United Arab Emirates"
-    followers: 402798
-    engagement: 110
-    commentsToLikes: 0.025129
-    id: ck5hpifexrf520i118ghd9xst
-    verified: false
-    hashtags: "#dodgers, #election, #election2020, #fullbluemoon"
-  - username: "diana_alkadri"
+    hashtags: "#niveapearlandbeauty, #outfitideas, #uaefashion, #dubaifashionblogger"
+  - username: "diana_alkadri369"
     fullname: >-
       Diana Alkadri | ديانا القادري
     bio: >-
-      لا منقذ لنفسك إلا نفسك🍃 Interior Designer @kafi_engineering Development Manager @echo.media.sy Mrs Alkhiami @zak8686 Mother of 2 😇 Syria📍Dubai
+      Mrs Alkhiami @zakaria_alkhiami @propagate.agency member 🗝 Interior Designer Development Manager @echo.media.sy Mother of 2 😇 Syria📍Dubai
     location: "United Arab Emirates"
-    followers: 114231
-    engagement: 512
-    commentsToLikes: 0.018379
+    followers: 126873
+    engagement: 515
+    commentsToLikes: 0.011500
     id: ck8t2ph8a09ro0j78g5tggf49
     verified: false
-    hashtags: "#fashiongram, #fashionphotography, #followforfollowback, #followers"
-  - username: "mochi.sucre"
+    hashtags: "#moda, #pretty, #smile, #instagram"
+  - username: "nina.ali"
     fullname: >-
-      Safaa 🌿 ⚯ ͛🍂
+      LipstickMommy
     bio: >-
-      Slow moments and places Dreamer, Mother, Lover French in Zurich Lived in Bordeaux, Dubai, Tokyo Mochi.sucre@gmail.com
+      Beauty • Lifestyle • Motherhood 📍Dubai/ Austin, Texas Co-Founder @fruitcake.ae @phoenixstoredxb @ninahome2020 “No one has ever gone broke by giving”
     location: "United Arab Emirates"
-    followers: 9113
-    engagement: 541
-    commentsToLikes: 0.101317
-    id: ckaowp5tz9tx10i78rfmfa8bj
-    verified: false
-    hashtags: "#offert, #gifted, #allaitementmaternel, #allaiterpartouttoutletemps"
-  - username: "bucketofgirliness_"
-    fullname: >-
-      Wàjiha ♡
-    bio: >-
-      Mommy to be 🤰🏻 who shares bits and pieces of life #momlife | #motherhood | #food | #lifestyle | #makeup
-    location: "United Arab Emirates"
-    followers: 11685
-    engagement: 776
-    commentsToLikes: 0.459669
-    id: ck9wgenf6t3410j78w3vgazbr
-    verified: false
-    hashtags: "#motherhood, #foodblogger, #quarantinelife, #momblogger"
+    followers: 554958
+    engagement: 36
+    commentsToLikes: 0.096508
+    id: ck0w631w46nr10i192dtx0wr9
+    verified: true
+    hashtags: "#staycation, #butterfree, #thankfulness, #mylittlebutterfly"
 ---

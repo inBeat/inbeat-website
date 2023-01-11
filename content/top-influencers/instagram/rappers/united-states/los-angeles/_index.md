@@ -1,96 +1,96 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Los Angeles in 2023
+title: Top 10 Rappers Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top rappers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #rapper #hiphop #losangeles #rap.
+  Find top rappers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #music #rapper #hollywood.
 platform: Instagram
-hits: 93
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database has 93 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+hits: 87
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 87 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "rap.rhymess"
+  - username: "thebossmannmagazine"
     fullname: >-
-      
+      The Boss Mann Magazine
     bio: >-
-      
+      Award-winning publication. Stories that change lives!. Main page Download our App today!! iTunes | Google Play Store Los Angeles, CA
     location: "United States"
-    followers: 6321
-    engagement: 481
-    commentsToLikes: 0.052288
-    id: ck8t8is86kmut0j789175uqil
+    followers: 11365
+    engagement: 520
+    commentsToLikes: 0.029661
+    id: ck15u9vk1m4wn0i19isio8z2s
     verified: false
-    hashtags: "#eminem, #chilly, #eminemvideos, #lyrics"
-  - username: "nataliekailey"
+    hashtags: "#bosslady, #love, #explorepage, #hollywood"
+  - username: "kitanasavage"
     fullname: >-
-      NMK®
+      Klara Lima
     bio: >-
-      💎 I am not a rapper. 📍 Los Angeles
+      ✨I’m blessed because I never gave up, stayed myself and believed in myself✨
     location: "United States"
-    followers: 37584
-    engagement: 212
-    commentsToLikes: 0.070174
-    id: ck5hp5jvxqsfu0i110257u6fg
-    verified: false
-    hashtags: "#may29, #beautyhacks, #hollywood, #unitedwestand"
-  - username: "erfanpaydar"
-    fullname: >-
-      Erfan
-    bio: >-
-      Paydar ☀️ ▫️ @cuche.shop ▫️ @paydarstudios ▫️ @paydarifit ▫️ @ifa_csr Booking Management : @navidigram Social Media Management : @elsarte
-    location: "United States"
-    followers: 1515746
-    engagement: 601
-    commentsToLikes: 0.025719
-    id: ck0vwc2vft13f0i192btt9igm
+    followers: 167963
+    engagement: 185
+    commentsToLikes: 0.023954
+    id: ck6tn1g978y1i0j711h35fnua
     verified: true
-    hashtags: "#paydar, #erfanpaydar, #erfan, #angizeh"
-  - username: "wattshomiequan"
+    hashtags: "#miami, #love, #model, #motivation"
+  - username: "surfwaveatn"
     fullname: >-
-      Wattshomiequan
+      surfwav.eatn
     bio: >-
-      CHILD OF GOD🙏🏽 |MTV Wild N Out Season 12-15| Rapper| Entertainer| WATTS, Los Angeles 🌴 📧BOOKINGS : Tyquangivens@gmail.com #RIPNeccBone
+      the waviest creature 3K🏄🏽‍♂️🌊 Over 1 million streams on all platforms Music featured on starz tv VA • ATL • LA #LLB 🕊 🪐star traks✨
     location: "United States"
-    followers: 182849
-    engagement: 423
-    commentsToLikes: 0.041716
-    id: ck5zv289n3gic0i14hbt84pbs
+    followers: 4174
+    engagement: 542
+    commentsToLikes: 0.086727
+    id: ck6tkmidy4zzi0j71hc1eiyiy
     verified: false
-    hashtags: "#watts, #hoodpasstelevision, #growingupinlosangeles, #growingupinla"
-  - username: "wattsstix"
+    hashtags: "#streetstyle, #losangeles, #streetwear, #hiphop"
+  - username: "aliciagoku_"
     fullname: >-
-      STIX || ThinkWatts 💡
+      The Weed Princess 💨💚🔥
     bio: >-
-      Vegan 🌱• I make music fire; I make communities better; I make companies cooler in the name of Stix & Thinkwatts • Booking: booking@thinkwatts.com
+      •Mary Jane Enthusiast | Rapper •Delaware✈️ Los Angeles | Alexandria 💍 •Twerk For Goku Out Now On All Platforms! 👇🏽🔥
     location: "United States"
-    followers: 104445
-    engagement: 93
-    commentsToLikes: 0.189687
-    id: ckap9hcutsm9a0i786gu93cp8
+    followers: 190096
+    engagement: 405
+    commentsToLikes: 0.019801
+    id: ck5zopf3nr1i40i14uxtltmgl
     verified: true
-    hashtags: "#thinkwatts, #philanthropy, #love, #tmc"
-  - username: "bigtwinsqb"
+    hashtags: ""
+  - username: "christianityhotlineofficial"
     fullname: >-
-      Big Twins
+      Bill Jensen
     bio: >-
-      Q-Boro native, born and raised in hip-hop’s historic Queensbridge Projects. Mobb Deep/Infamous Mobb for life! Click here for all things IM3 👇🏾
+      📈Co-Owner Of Forcer! 📈 🙏Bill Jensen 🙏 1️⃣8️⃣18 Years Old 1️⃣8️⃣ ✝️I convert people to Christianity✝️ Don’t think about sinning on my hotline...❗️❗️
     location: "United States"
-    followers: 36727
-    engagement: 533
-    commentsToLikes: 0.098976
-    id: ck55lh4ne1ju50i11v4i9fxlt
+    followers: 442297
+    engagement: 848
+    commentsToLikes: 0.079577
+    id: ck5qbpglrmqup0i111u7yxo8r
     verified: false
-    hashtags: "#alchemist, #havoc, #queensbridge, #hiphop"
-  - username: "samayadawn"
+    hashtags: "#explore, #billjensen, #christianityhotlineofficial, #christianity"
+  - username: "kristinemirelle"
     fullname: >-
-      Best Mood Edits 🥰
+      Kristine Mirelle|SingerPianist
     bio: >-
-      🖤 Mood edits 🥰 Credit @SamayaDawn if you repost! ⬇️ FOLLOW MY #TIKTOK
+      Music Maker. 🎹💃🏽🎥 Performing more than 200 shows a year. ❤️just released a new list of Spotify playlists and more for Independent artists!Click below!
     location: "United States"
-    followers: 36278
-    engagement: 614
-    commentsToLikes: 0.030010
-    id: ck9haphs6dint0j78n30ozadf
+    followers: 71032
+    engagement: 92
+    commentsToLikes: 0.097859
+    id: ck6ub185u6vly0j71r2u9o566
     verified: false
-    hashtags: "#meme, #feeling, #igdaily, #viralvideos"
+    hashtags: "#songwriter, #aaliyah, #diymusician, #diyartist"
+  - username: "ludo_garnier"
+    fullname: >-
+      Ludo Garnier Los Angeles
+    bio: >-
+      🇧🇪🇺🇸Costume Designer •Stylist-Wardrobe Stylist •Feathers Designer •Accessories-Jewelry •Headpieces-Wings •Rentals & Sales
+    location: "United States"
+    followers: 10985
+    engagement: 320
+    commentsToLikes: 0.029305
+    id: ck6udlba4lqnr0j7182dndft4
+    verified: false
+    hashtags: "#privateparty, #costumedesigner, #photoshoot, #headdress"
   - username: "awolone"
     fullname: >-
       AWOL ONE
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.041510
     id: ck5hsditawf1e0i11p2cv4nt3
     verified: false
-    hashtags: "#speakerface, #bioexorcist, #jointhecloaks, #spotify"
-  - username: "mevtherenegade"
+    hashtags: "#beetlejuice, #speakerface, #bioexorcist, #jointhecloaks"
+  - username: "aaronismusic"
     fullname: >-
-      MEV - Music Producer
+      Aaron Grooves
     bio: >-
-      🎹 @traks5thavenue - Mgmt: @naz_mo 💿Produced songs for: Meek Mill, Rick Ross, Lil Wayne, Pusha-T, DJ Khaled, ETC.
+      Musician | Composer | Educator Half of @CollisionofRhythm
     location: "United States"
-    followers: 9964
-    engagement: 524
-    commentsToLikes: 0.070253
-    id: ckap9h38fsl080i78l2gpvgq7
+    followers: 15057
+    engagement: 360
+    commentsToLikes: 0.076870
+    id: ck138jj81gj770i19vzeltwri
     verified: false
-    hashtags: "#instrumental, #trending, #music, #love"
-  - username: "tailibond"
+    hashtags: "#percussion, #practice, #piano, #jazz"
+  - username: "_kikkoman3"
     fullname: >-
-      Tai Li Bond
+      KikkoMan3 AKA 9 Milli
     bio: >-
-      A peek into my bizarre world🖤TLB Los Angeles📍London SAG-AFTRA Rapper•Actress•Singer•Songwriter•Model CinderellasNightmare©
+      #Tr3yWAY 🇯🇵🇺🇸 iTunes Spotify Pandora Amazon Trapanez3 Records™️ @burningbushcocal3.0 @officialhollywoodsfl @kikkoman3fanclub
     location: "United States"
-    followers: 147227
-    engagement: 1095
-    commentsToLikes: 0.009612
-    id: ckapboq620q9g0i787drqfdqt
+    followers: 11369
+    engagement: 1662
+    commentsToLikes: 0.015816
+    id: ck5bx7sn9n65e0i11irwqc9xb
     verified: false
-    hashtags: "#tlb, #art, #songwriter, #singer"
+    hashtags: "#calibud, #highlifemusicfestival, #artist, #sanbernardino"
 ---

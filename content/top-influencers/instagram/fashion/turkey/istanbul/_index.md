@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Istanbul in 2023
+title: Top 10 Fashion Instagram Influencers In Istanbul In 2023
 description: >-
-  Find top fashion Instagram influencers in Istanbul in 2023. Most popular hashtags: #istanbul #fashion #style #fashionblogger.
+  Find top fashion Instagram influencers in Istanbul in 2023. Most popular hashtags: #fashion #istanbul #tbt #photo.
 platform: Instagram
-hits: 381
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 381 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+hits: 323
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 323 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
 profiles:
-  - username: "dua.mnalla"
-    fullname: >-
-      Dua Mnalla Alrayess
-    bio: >-
-      Married💍 @saadalrayess #fashionblogger #fashion #beauty #hijab •İstanbul 🇹🇷 •Certified Makeup artist •Fashion •Lifestyle •Beauty
-    location: "Turkey"
-    followers: 53147
-    engagement: 508
-    commentsToLikes: 0.054479
-    id: ckapaz0bay07a0i782q8gesvd
-    verified: false
-    hashtags: "#saudiarabia, #usa, #hijab, #iraq"
-  - username: "iambasel"
-    fullname: >-
-      BASEL ALAHMAD | باسل الأحمد
-    bio: >-
-      📍TURKEY 🇹🇷 • Menswear | Lifestyle • Architect | Fitness 📩 arch.basel994@gmail.com My work @echo__design
-    location: "Turkey"
-    followers: 18529
-    engagement: 468
-    commentsToLikes: 0.191164
-    id: ck13brx30wvnc0i19z6c0wcdx
-    verified: false
-    hashtags: "#menwithstreetstyle, #casuallook, #menwithstyle, #architects"
   - username: "fulya_olmez"
     fullname: >-
       Fulya Ölmez
     bio: >-
-      #Fashion 🍃 #travel 🍂 @odatiyatrosu #Deruni Romanı📚 #kafkaokur Dergi #edebiyatist Dergi 👉 📩 ffulyaolmez@gmail.com Deruni Romanı 👇
+      #psychology @odatiyatrosu #Deruni Romanı📚 #kafkaokur Dergi #edebiyatist Dergi 👉 📩 ffulyaolmez@gmail.com Deruni Romanı 👇
     location: "Turkey"
-    followers: 19204
-    engagement: 897
-    commentsToLikes: 0.060201
+    followers: 23477
+    engagement: 759
+    commentsToLikes: 0.059305
     id: ckaoz4cbdkb7a0i7894nkw7fo
     verified: false
-    hashtags: "#turkey, #so, #turkishfollowers, #fashion"
-  - username: "amnajbrn"
-    fullname: >-
-      𝐀𝐌𝐍𝐀 𝐉𝐁𝐑𝐍 🌸
-    bio: >-
-      𝕄𝕆𝔻𝔼𝕃 , 𝕃𝕀𝔽𝔼𝕊𝕋𝕐𝕃𝔼 🌏 بتلاقوا بصفحتي ڤيديوهات للف شالات🧕🏼
-    location: "Turkey"
-    followers: 136918
-    engagement: 458
-    commentsToLikes: 0.008525
-    id: ck15u3zsslbgm0i19q88anjuo
-    verified: false
-    hashtags: "#istanbulturkey, #hijabstyle, #fashion, #istanbul"
-  - username: "kemaldevelioglu"
-    fullname: >-
-      Kemal Develioğlu
-    bio: >-
-      Nişantaşı Premium Danışmanlık Hukuk Başmüşaviri /LegalAdviser 7edi Yatırım Danışmanlık Istanbul Un.Hukuk Fak.. JantiIMan Marka Kurucusu 📍İstanbul
-    location: "Turkey"
-    followers: 32428
-    engagement: 359
-    commentsToLikes: 0.054401
-    id: ck8tbx8urxjft0j78s961ko89
-    verified: false
-    hashtags: "#businessman, #gentlemanstyle, #tie, #winery"
-  - username: "jessicaalvesuk"
-    fullname: >-
-      Jessica Alves
-    bio: >-
-      Television Personality📺Speak 6 languages🇩🇪🇪🇸🇫🇷🇧🇷🇮🇹🇬🇧Jetsetter🛰Fashionista👗Make up & Beauty lover🎉 📧 for collaborations jessicaalves2019@yahoo.com
-    location: "Turkey"
-    followers: 1201155
-    engagement: 106
-    commentsToLikes: 0.031697
-    id: ck5hclroiiqaq0i11xnk3l8h1
-    verified: true
-    hashtags: "#moda, #cappadocia, #fashion, #istanbul"
+    hashtags: "#gu, #dog, #picoftheday, #ag"
   - username: "fg_diaries_"
     fullname: >-
-      fl🌞ra
+      🇭🇺🇹🇷
     bio: >-
-      Hungarian living in Istanbul I take photos @flora_photographs Collab: gfloraphotographs@gmail.com I have a YouTube channel 👇🏽
+      📍Budapest Hungarian girl living in Istanbul 🕌 📷 @flora_photographs 💎 @chezamor_com ✉️ gfloraphotographs@gmail.com Muszlim férfi felesége leszek👇🏼
     location: "Turkey"
-    followers: 36552
-    engagement: 96
-    commentsToLikes: 0.132459
+    followers: 35906
+    engagement: 97
+    commentsToLikes: 0.098049
     id: ck0w362a0rrmz0i19x63553h0
     verified: false
-    hashtags: "#fashion, #istanbul, #fashionblogger, #pinterest"
-  - username: "matt_najm"
+    hashtags: "#rekla, #vo, #fashion, #istanbul"
+  - username: "laura.charlie.elise"
     fullname: >-
-      Matt
+      Laura Charlie from Holland
     bio: >-
-      📍Based in Istanbul🇹🇷 Height:186 📩
+      💁‍♀️: Freelance model 🇱🇺: From Holland 💌: Business, DM pls 📍: Istanbul 👩‍🍳: @the_dutch_foodie_ 💼: Scout/Booker @realmodelsagency ♑️: Capricorn
     location: "Turkey"
-    followers: 10809
-    engagement: 1614
-    commentsToLikes: 0.065891
-    id: ck5c8dp0m99fe0i11etkdgpg0
+    followers: 13710
+    engagement: 372
+    commentsToLikes: 0.083124
+    id: ck5q9xl2hdilf0i11affqpz2g
     verified: false
-    hashtags: "#live, #iran, #dubai, #video"
-  - username: "sarafeyz_makeup"
+    hashtags: "#outfit, #photooftheday, #modelshoot, #hair"
+  - username: "nurayguler___"
     fullname: >-
-      S A R A  F E Y Z  | سارا فيض
+      ⚜️  Nuray Güler
     bio: >-
-      MAKEUP CREATOR➖PRO MUA ——————————— 📍istanbul-turkey🇹🇷 ⛔️ DM me for Promotion & Collaboration 📩email: sarafeyz.beauty@gmail.com 📎YouTube Channel:
+      Türkiye'nin en büyük dövme kanalı 🔥 📍 Antalya / İstanbul 📌 YouTube
     location: "Turkey"
-    followers: 45950
-    engagement: 1269
-    commentsToLikes: 0.070369
-    id: ckap2mfk5zh7y0i78t1tahvpr
+    followers: 11774
+    engagement: 564
+    commentsToLikes: 0.018630
+    id: ckaowf0ha8nca0i78hy9o5d7p
     verified: false
-    hashtags: "#makiyaj, #makeuptutorial, #makeupartistsworldwide, #makeupartististanbul"
-  - username: "grame90"
+    hashtags: "#inked, #youtuber, #inkmaster, #tattoomag"
+  - username: "gelindamatdergisi"
     fullname: >-
-      Ramil Guliyev
+      Gelin Damat Dergisi
     bio: >-
-      🇦🇿İki 🇹🇷devlet bir milet 🇹🇷 Turkey Team #FenerbahceSK @grame90_fitness 🥇 World Champ 🥇 European Champ 100m 9:97🏁 200m 19:76🏁
+      Gelin Damat Dergisi Resmi Hesabı Gelin Damat Dergisi Ödülleri Gelin Damat Fashion Day 0212 603 17 18
     location: "Turkey"
-    followers: 67151
-    engagement: 280
-    commentsToLikes: 0.010793
-    id: ck0txg652izs30i19b07igk5w
+    followers: 34260
+    engagement: 349
+    commentsToLikes: 0.006472
+    id: ck5q9xpbhdj9b0i115adijzhl
+    verified: false
+    hashtags: "#gelindamat, #dugunmekani, #dugunsalonu, #pinaraltug"
+  - username: "ezgiozdemirr"
+    fullname: >-
+      Begüm Ezgi Özdemir
+    bio: >-
+      Fashion & Lifestyle Istanbul begumezgiozdemirr@gmail.com
+    location: "Turkey"
+    followers: 26362
+    engagement: 142
+    commentsToLikes: 0.053224
+    id: ck14lna73vipa0i19pdspm9rd
+    verified: false
+    hashtags: "#throwback, #sunset, #sky, #reflection"
+  - username: "kate.xeeva"
+    fullname: >-
+      Kate Alexeeva
+    bio: >-
+      Follow ▶️ @glamboxtr 👑 Miss Latvia 🇱🇻 📸 Fashion Model 🇹🇷 Istanbul ✈️ 55 Countries
+    location: "Turkey"
+    followers: 230999
+    engagement: 211
+    commentsToLikes: 0.028011
+    id: ck5hskkqhwqs90i11zzuejemu
     verified: true
-    hashtags: "#fast, #nikerunner, #running, #winner"
+    hashtags: "#katexeeva, #glambox, #misslatvia, #ad"
+  - username: "whasani"
+    fullname: >-
+      Hasan Telatar
+    bio: >-
+      Fitness Owner - Lives in Istanbul Fashion Sports Athlete
+    location: "Turkey"
+    followers: 12011
+    engagement: 610
+    commentsToLikes: 0.029397
+    id: ck6u8r00pt5tv0j71o8v5wkm3
+    verified: false
+    hashtags: "#hastasiyiz"
+  - username: "dszgn"
+    fullname: >-
+      Deniz SEZGİN
+    bio: >-
+      🏕 | Kendine has numunelik biri 🌎 |👣 🚙 🥗 |founder of @gezegendiyeti 📸 |Gezi fotoğraflarınızı etiketlemeyi unutmayın 👉🏻@dszgn 📥deniz1sezgin@gmail.com
+    location: "Turkey"
+    followers: 7673
+    engagement: 1059
+    commentsToLikes: 0.121106
+    id: ck9hbt3usibwo0j78r1etvy9n
+    verified: false
+    hashtags: "#turkey, #friends, #traveleurope, #rize"
+  - username: "feryalgulman"
+    fullname: >-
+      Feryal Gulman 🇹🇷🍀
+    bio: >-
+      #mimar (itü)🐝 #architect #gulmangroup @popvizyon
+    location: "Turkey"
+    followers: 234728
+    engagement: 113
+    commentsToLikes: 0.050536
+    id: ck5bvimnhjppc0i111a3mbx0e
+    verified: false
+    hashtags: "#turkey, #tbt, #istanbul, #fashion"
 ---

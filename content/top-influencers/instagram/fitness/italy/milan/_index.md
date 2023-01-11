@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Milan in 2023
+title: Top 10 Fitness Instagram Influencers In Milan In 2023
 description: >-
-  Find top fitness Instagram influencers in Milan in 2023. Most popular hashtags: #milano #fitness #love #sunday.
+  Find top fitness Instagram influencers in Milan in 2023. Most popular hashtags: #fitness #milano #personaltrainer #fitnessgirl.
 platform: Instagram
-hits: 231
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 231 Instagram influencers like this in Milan, Italy for you to connect with.
+hits: 212
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 212 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "giacobbe_fragomeni"
     fullname: >-
       Giacobbe Fragomeni Official
     bio: >-
-      FIGHT CLUB PALESTRA •BOXING+FITNESS• MILANO VIA SAN VITO 10 @fightclub_fragomeni @sapfightingstyle @whysport_official
+      CAMPIONE DEL MONDO WBC 2008 OWNER @fightclub_fragomeni PALESTRA •BOXING+FITNESS• MILANO CENTRO VIA SAN VITO 10
     location: "Italy"
-    followers: 48730
-    engagement: 184
-    commentsToLikes: 0.016069
+    followers: 49648
+    engagement: 242
+    commentsToLikes: 0.022805
     id: ck5pvjr3hi8190i11x8aksvg4
     verified: true
-    hashtags: "#milano, #instagram, #fitness, #love"
+    hashtags: ""
+  - username: "federicamonacelli"
+    fullname: >-
+      ғᴇᴅᴇʀɪᴄᴀᴍᴏɴᴀᴄᴇʟʟɪ
+    bio: >-
+      🥊2x Italian Boxing Champion 🥊 ⚡️Adrenaline lover 🤸🏻‍♀️Fitness 🌍Travel 🍍Food Founder of @victoria_project_
+    location: "Italy"
+    followers: 69758
+    engagement: 177
+    commentsToLikes: 0.024647
+    id: ck5qc4eztosxx0i11f0fif7qk
+    verified: true
+    hashtags: "#boxing, #womanpower, #fitness, #milano"
+  - username: "alice.mayne"
+    fullname: >-
+      Alice | PT & Wellness Coach
+    bio: >-
+      🇫🇷 🇬🇧 🏋️‍♀️Personal Trainer in #milano 🇮🇹 🤤@nu3_fr ALICE15 💃@fusion.workout trainer 🤸Mobility&Abs specialist 🚣‍♀️Ex Rower 🌻Kind heart 🤓Always learning
+    location: "Italy"
+    followers: 18718
+    engagement: 216
+    commentsToLikes: 0.024952
+    id: ck6tp1lgthboo0j710fioqinn
+    verified: false
+    hashtags: "#fableticsfr, #teamnu3, #paris, #intelligentnutrition"
+  - username: "bianca.andrei_"
+    fullname: >-
+      𝑩𝒊𝒂𝒏𝒄𝒂 𝑨𝒏𝒅𝒓𝒆𝒊
+    bio: >-
+      🄿🄴🅁🅂🄾🄽🄰🄻 🆃🆁🅰︎🅸🅽🅴🆁 @fitangels_kangooclub ⬇️🎀 FITNESS TIPS 🎀⬇️
+    location: "Italy"
+    followers: 50693
+    engagement: 481
+    commentsToLikes: 0.018746
+    id: ckap60471dw5b0i78tobm1e1h
+    verified: false
+    hashtags: "#fitnessreels, #personaltrainer, #milano, #positiveenergy"
+  - username: "hungry_franky"
+    fullname: >-
+      Franca Molluzzo
+    bio: >-
+      Live & Online PT|| Mangio di gusto, mi alleno di brutto 📚 Il metodo Fit&Eat @librimondadori Ambassador @myproteinit Links utili👇🏼
+    location: "Italy"
+    followers: 105050
+    engagement: 332
+    commentsToLikes: 0.054487
+    id: ck5pwspl7oel10i11i931n1nk
+    verified: false
+    hashtags: "#mangiaresano, #ricetta, #fitgirl, #bodybuilding"
+  - username: "helen_bv22"
+    fullname: >-
+      Elena™️
+    bio: >-
+      •Avellino,Italy 🇮🇹 •italian web influencer 🌍 •24y old •collaborazioni in direct 📲
+    location: "Italy"
+    followers: 20136
+    engagement: 450
+    commentsToLikes: 0.059339
+    id: ckaov9lac3mi00i78ic6ae639
+    verified: false
+    hashtags: "#adv, #instamood, #20likes, #benessere"
   - username: "fitness.world.italia"
     fullname: >-
       Fitness World Italia
     bio: >-
       🔝Consigli di esperti su allenamento, nutrizione e salute. 🏋🏻Fitness, bodybuilding, wellness. 📲Scrivici e commenta i post se hai domande e curiosità!
     location: "Italy"
-    followers: 57604
-    engagement: 267
-    commentsToLikes: 0.072927
+    followers: 56243
+    engagement: 181
+    commentsToLikes: 0.072615
     id: ckap1df1eu42s0i78rbnhi27z
     verified: false
-    hashtags: "#homeworkout, #coreworkout, #motivazionefitness, #palestra"
-  - username: "gianlucadisotto"
+    hashtags: "#alimentazione, #glutei, #eserciziofisico, #dietasana"
+  - username: "stefyogicoach"
     fullname: >-
-      💈GIANLUCA💈
+      Stefy| Yoga Sports Coach
     bio: >-
-      @musemennyc NYC 🇺🇸 @urbnmilan Milan 🇮🇹. Brando’s❤️. disottogianluca@gmail.com
+      💁🏽‍♀️Yoga Teacher & Event Manager 💥 YOGA 4 ATHLETES & BACK PAIN 🤸‍♀️PRIVATE ONLINE & GROUP YOGA 📍Tuscany:Carrara after 7yrs in🇬🇧 🏃🏽‍♀️Runner⛰️Hiker
     location: "Italy"
-    followers: 27587
-    engagement: 174
-    commentsToLikes: 0.046558
-    id: ck6tzzdugcqvr0j719y5t9zl5
+    followers: 22842
+    engagement: 123
+    commentsToLikes: 0.042992
+    id: ck6turk96hzw20j71vhlmtzb0
     verified: false
-    hashtags: "#repost, #menswear, #nature, #tattoo"
-  - username: "martinazonco"
-    fullname: >-
-      ⓏⓄⓃⒸⓄ
-    bio: >-
-      📍Biella 📸Hostess/Photo Model
-    location: "Italy"
-    followers: 10273
-    engagement: 1701
-    commentsToLikes: 0.012998
-    id: ck6u3ku18yd290j71h0aegz2f
-    verified: false
-    hashtags: "#nofilter, #glamour, #femalmodels, #throwback"
-  - username: "bianca.andrei_"
-    fullname: >-
-      𝑩𝒊𝒂𝒏𝒄𝒂 𝑨𝒏𝒅𝒓𝒆𝒊
-    bio: >-
-      📍Milan 🄿🄴🅁🅂🄾🄽🄰🄻 🆃🆁🅰︎🅸🅽🅴🆁 @fitangels_kangooclub
-    location: "Italy"
-    followers: 47315
-    engagement: 259
-    commentsToLikes: 0.026083
-    id: ckap60471dw5b0i78tobm1e1h
-    verified: false
-    hashtags: "#fitnessreels, #personaltrainer, #milano, #specialplace"
+    hashtags: "#cerretolaghi, #passionemontagna, #practicenotperfection, #mountainsgirl"
   - username: "instaflaviaso"
     fullname: >-
       Flavia Sodano
     bio: >-
       Sicilian Girl 🌻❤ 📍Milano Fitness & Running Addicted 🏋️‍♀️🏃 Animal lover 🐕 📩flvsodano@gmail.com
     location: "Italy"
-    followers: 61162
-    engagement: 372
-    commentsToLikes: 0.052645
+    followers: 61892
+    engagement: 302
+    commentsToLikes: 0.061002
     id: ck8t5wt06bi6u0j78rmruzfe8
     verified: false
-    hashtags: "#bikini, #outfitinspiration, #ootd, #fitbody"
+    hashtags: "#makeup, #fashiongram, #fashionstyle, #puntacana"
   - username: "danger_ariel"
     fullname: >-
       chiara compagnone
     bio: >-
       💃🏼 Burlesque 🏋️‍♀️ Fitness 📍 Milan “I’m not bad, i'm just drawn that way”
     location: "Italy"
-    followers: 8831
-    engagement: 974
-    commentsToLikes: 0.031725
+    followers: 8827
+    engagement: 714
+    commentsToLikes: 0.076735
     id: ckaorx6jep5wf0i78dvlmmesy
     verified: false
-    hashtags: "#experience, #feelings, #blondegirl, #live"
-  - username: "domenicocamarda_"
-    fullname: >-
-      DOMENICO | PERSONAL TRAINER
-    bio: >-
-      🔸Trainer @fitactivesangiuliano 🔹Team @myworkoutit 🔺Coaching online ◾️Atleta @prozisitalia 👉🏻 CAMARDA
-    location: "Italy"
-    followers: 17969
-    engagement: 606
-    commentsToLikes: 0.245854
-    id: ck8t45qff5lmx0j78grye67of
-    verified: false
-    hashtags: "#eleganzamaschile, #proziscode, #dieta, #bodytransformation"
-  - username: "francescabelussitv"
-    fullname: >-
-      francesca belussi
-    bio: >-
-      presento,recito,canto,ballo e doppio e i miei ex concittadini di Bg:"si ma che lavoro fai?" Mitici! 😁 tvhoster, actress, influencer
-    location: "Italy"
-    followers: 73946
-    engagement: 206
-    commentsToLikes: 0.073011
-    id: ck6ualfql47qi0j71mtlbt5na
-    verified: false
-    hashtags: "#brunette, #girl, #curlygirl, #noi"
-  - username: "francesca_guatteri"
-    fullname: >-
-      Vivere Per Raccontarla
-    bio: >-
-      “Años, amores y copas de vino no se deben contar jamás”. @_acasadifra_ con @tacchiepentole 📬francesca@vivereperraccontarla.com
-    location: "Italy"
-    followers: 24573
-    engagement: 380
-    commentsToLikes: 0.052578
-    id: ck55j2uppw4sr0i115s8874er
-    verified: false
-    hashtags: "#cambiaci, #acasadifra, #milano, #digitaltastingbox"
+    hashtags: "#blondegirl, #waitingforchristmas, #christmas, #christmascalendar"
 ---

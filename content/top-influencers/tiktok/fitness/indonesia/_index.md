@@ -1,72 +1,84 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Indonesia in 2023
+title: Top 10 Fitness TikTok Influencers In Indonesia In 2023
 description: >-
-  Find top fitness TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryou #fitness #tiktok.
+  Find top fitness TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #fitness #foryoupage #food.
 platform: TikTok
-hits: 14
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 14 TikTok influencers like this in Indonesia for you to work with.
+hits: 13
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat has 13 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "bilyniagarawann"
+  - username: "edsaestella"
     fullname: >-
-      Bily Niagarawan
+      Eca 👑
     bio: >-
-      Follow me on Instagram : Bilyniagarawan 🥀
+      20🇮🇩 Ig: edsaestella Youtube:Edsa Estella fitness, food & dance enthusiast.
     location: "Indonesia"
-    followers: 92500
-    engagement: 608
-    commentsToLikes: 0.025622
-    id: ck83k438f96040j78la34c9xh
+    followers: 243500
+    engagement: 723
+    commentsToLikes: 0.024118
+    id: ckdtjmekfwvnf0j23mcgm5auv
     verified: false
-    hashtags: "#model, #fitness, #morning, #bareface"
-  - username: "omy18899"
+    hashtags: ""
+  - username: "mestymarpaung"
     fullname: >-
-      omy18899
+      Mesty Marpaung
     bio: >-
-      Just for fun . 🏠 Jakarta
+      My Ig: mesty_marpaung channel Youtube : Mestiada Elfrida Marpaung
     location: "Indonesia"
-    followers: 6232
-    engagement: 408
-    commentsToLikes: 0.077162
-    id: ckb9t6saiqwc40j23qr712hxj
+    followers: 107400
+    engagement: 989
+    commentsToLikes: 0.094100
+    id: ckb9t6rloqw800j23xyplvokn
     verified: false
-    hashtags: "#howyoulikethat, #howyoulikethatblackpink, #fypage, #fyp"
+    hashtags: "#fyp, #fitness, #gym, #fypdongggggggg"
+  - username: "axelschura"
+    fullname: >-
+      Axel Schurawlow
+    bio: >-
+      AXEL SCHURA |25| 🇩🇪 @axelschura on Instagram/YouTube Currently in Bali 🇮🇩
+    location: "Indonesia"
+    followers: 357500
+    engagement: 853
+    commentsToLikes: 0.032330
+    id: ck8vvewlwlkka0j7825ivo4iv
+    verified: false
+    hashtags: "#viral, #fitness, #fyp, #lombok"
+  - username: "charlietaylor"
+    fullname: >-
+      Charlietaylor 
+    bio: >-
+      🇦🇺 Athlete 🎥 Actor 🎤 Singer IG: charlietaylor SNAPCHAT: chowdytaylor
+    location: "Indonesia"
+    followers: 328400
+    engagement: 652
+    commentsToLikes: 0.023483
+    id: ck977b8ju3hrg0j780c92em3z
+    verified: true
+    hashtags: "#ftb, #fyp, #challenge, #fitness"
   - username: "lisadewiwood"
     fullname: >-
       Lisa Dewi
     bio: >-
       Healthy lifestyle addict
     location: "Indonesia"
-    followers: 32800
-    engagement: 507
-    commentsToLikes: 0.045168
+    followers: 77600
+    engagement: 515
+    commentsToLikes: 0.033791
     id: ckd0m7w4kglkc0j23rbg3atkg
     verified: false
-    hashtags: "#beranda, #tips, #sehat, #fitmom"
-  - username: "ardial_draw"
+    hashtags: "#tipssehat, #olahraga, #sehat, #tiktoksehat"
+  - username: "ardial7_"
     fullname: >-
-      Ardial Artシ
+      Ardial🎨
     bio: >-
-      h a n ya u n t u k b e r s e n a n g - s e n a n g d r a w m y l i f e
+      🇮🇩
     location: "Indonesia"
-    followers: 24300
-    engagement: 836
-    commentsToLikes: 0.020574
+    followers: 29500
+    engagement: 757
+    commentsToLikes: 0.019779
     id: ckbkw6griruov0j23s4k7sbj3
     verified: false
-    hashtags: "#music, #follow4follow, #art, #photo"
-  - username: "furryvid"
-    fullname: >-
-      furryvid
-    bio: >-
-      Instagam : furryvid Facebook FP : furryvid Youtube : Furry Vid
-    location: "Indonesia"
-    followers: 22900
-    engagement: 461
-    commentsToLikes: 0.003995
-    id: ck83x2u8snskf0j783qqnks7m
-    verified: false
-    hashtags: "#followme, #pink, #picoftheday, #yummy"
+    hashtags: "#picoftheday, #nofilter, #beach, #makeup"
   - username: "budi01.gamingid"
     fullname: >-
       Budi01Gaming
@@ -78,31 +90,19 @@ profiles:
     commentsToLikes: 0.136830
     id: ckdi0ggft5ky10j23n8wg96x7
     verified: false
-    hashtags: "#insta, #berandaa, #amazing, #photooftheday"
+    hashtags: "#freefire, #booyah, #igers, #insta"
   - username: "dayatt_photography"
     fullname: >-
-      Dayatt Photography
+      Dayatt Photography 📸 ✔️
     bio: >-
       foto sama aku, yuk cek igku dayattphotography
     location: "Indonesia"
-    followers: 3941
-    engagement: 693
-    commentsToLikes: 0.088934
+    followers: 4696
+    engagement: 476
+    commentsToLikes: 0.087009
     id: ckbqktmmf5yck0j23wa14ildl
     verified: false
-    hashtags: "#follow4follow, #likes, #musically, #instapic"
-  - username: "imustakim"
-    fullname: >-
-      Imustakimm
-    bio: >-
-      instagram : @imustakimm
-    location: "Indonesia"
-    followers: 114500
-    engagement: 475
-    commentsToLikes: 0.026958
-    id: ckbkyffhwupqn0j239zwk1lsj
-    verified: false
-    hashtags: "#tiktok, #polisi, #polri, #polisiindonesia"
+    hashtags: "#fypdongggggggg, #instamood, #fyp, #popularphoto"
   - username: "deemon___"
     fullname: >-
       deemon
@@ -110,21 +110,21 @@ profiles:
       Friendly Neighborhood Spider-Mon
     location: "Indonesia"
     followers: 14300
-    engagement: 699
-    commentsToLikes: 0.054896
+    engagement: 633
+    commentsToLikes: 0.049747
     id: ckblf1ltr8ylg0j235t9ze14x
     verified: false
-    hashtags: "#spiderman, #nfyp, #bts, #fyp"
-  - username: "khalidalatief"
+    hashtags: "#nfyp, #fyp, #xyzbca, #cosplay"
+  - username: "indra.dika"
     fullname: >-
-      Khalida Hn Latief
+      Dika
     bio: >-
-      Gendut Lincah😝 ig: @khalidaltf 🤗
+      ❤️❤️❤️ you guys Instagram : @mr.indradika
     location: "Indonesia"
-    followers: 15200
-    engagement: 216
-    commentsToLikes: 0.007626
-    id: ckc7ukbxyyefe0j23odo8mdrz
+    followers: 36400
+    engagement: 564
+    commentsToLikes: 0.028336
+    id: ck9gkos05kn1f0j78qoasf935
     verified: false
-    hashtags: "#husbandwife, #curvygirl, #foryourpage, #funny"
+    hashtags: "#fypdongggggggg, #viral, #tiktokfood, #food"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In United States in 2023
+title: Top 10 Fashion TikTok Influencers In United States In 2023
 description: >-
-  Find top fashion TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #foryou #biden2020.
+  Find top fashion TikTok influencers in United States in 2023. Most popular hashtags: #fyp #ootd #cleargenius #duet.
 platform: TikTok
-hits: 8817
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 8817 TikTok influencers like this in United States for you to connect with.
+hits: 6255
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 6255 TikTok influencers like this in United States for you to work with.
 profiles:
-  - username: "vivalapinkposh"
-    fullname: >-
-      vivalapinkposh
-    bio: >-
-      INFLUENCER MAKEUP•FASHION•BUSINESS• LETS GET TO 700k🔓
-    location: "United States"
-    followers: 694700
-    engagement: 2287
-    commentsToLikes: 0.075881
-    id: ckai0ai6q6v8z0i782maw6om4
-    verified: false
-    hashtags: "#duet, #christmas, #dollar, #fyp"
-  - username: "benhornn"
-    fullname: >-
-      ben
-    bio: >-
-      fashion san diego, CA💗 depop: @bensscloset ✉️ benhorn1126@gmail.com
-    location: "United States"
-    followers: 219800
-    engagement: 2273
-    commentsToLikes: 0.144883
-    id: ckacgukn4woy10i78163lz6e5
-    verified: false
-    hashtags: "#foryou, #fashion, #fyp, #halloweenlook"
   - username: "andrewkwon_official"
     fullname: >-
       Andrew Kwon 엔드류 권
     bio: >-
-      Fashion Designer of ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
+      Fashion Designer ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
     location: "United States"
-    followers: 6447
-    engagement: 1963
-    commentsToLikes: 0.120485
+    followers: 9403
+    engagement: 1620
+    commentsToLikes: 0.067943
     id: ckce3zwyhjcwm0j237bod4grp
     verified: false
-    hashtags: "#foryou, #foru, #fyp, #korean"
+    hashtags: "#france, #kpop, #nyc, #andrewkwon"
   - username: "akiadanielle_"
     fullname: >-
       Akia T.
     bio: >-
-      Mom | Wife | Fashion Enthusiast LA Follow me on IG @iamakiadanielle
+      Fashion from a Tall POV & a little bit of fun 📍 L. A
     location: "United States"
-    followers: 6806
-    engagement: 1943
-    commentsToLikes: 0.142475
+    followers: 13600
+    engagement: 1584
+    commentsToLikes: 0.135865
     id: ck85cprvf2vae0j78qlnnrxwy
     verified: false
-    hashtags: "#thetallmodelmom, #fashion101, #tallmodelmom, #feelinggood"
-  - username: "thevintagegoree"
+    hashtags: "#summeroutfits2021, #ootd, #summeroutfit, #selfcare"
+  - username: "lexinimmo"
     fullname: >-
-      •Black Retro Babe•
+      Lexinimmo
     bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
+      🎬Actress w/ Mccray Agency ➕Fat Fashion/Body Liberation 🧠Mental Health/ADHD
     location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
+    followers: 82600
+    engagement: 1234
+    commentsToLikes: 0.301311
+    id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
-  - username: "atomiclaundry"
+    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+  - username: "happyblackchick"
     fullname: >-
-      Colin Aceves
+      Nkechi Chibueze
     bio: >-
-      Fashion Designer.Atomic Laundry. Decora.Fairy Kei.Kawaii Harajuku Life.He/Him
+      Come to my Comedy Zoom Show, “Funny But Make It Fashion” Wed Feb 3rd 8cst!
     location: "United States"
-    followers: 68600
-    engagement: 2777
-    commentsToLikes: 0.081968
-    id: cka64sh7wa0if0i78r5j03qqf
+    followers: 6746
+    engagement: 2151
+    commentsToLikes: 0.088837
+    id: ckbr2hb9aj6g00j234912d4h6
     verified: false
-    hashtags: "#creepycute, #kidcore, #kawaii, #vintage"
+    hashtags: "#critiquewhatieat, #pommedit, #weightlossjourney, #dailycheckin"
   - username: "discoisntdead"
     fullname: >-
       🎀Disco🎀
     bio: >-
       Disco 🏳️‍🌈 ° 24 ° she/her 🔞🤚🔞 🦈🍉🐶🍨🍭 Art☆Alt Fashion☆Cosplay
     location: "United States"
-    followers: 39900
-    engagement: 2241
-    commentsToLikes: 0.056296
+    followers: 40800
+    engagement: 2093
+    commentsToLikes: 0.057799
     id: ck8kjj44uuzvd0j78ylm2a2ub
     verified: false
-    hashtags: "#aizawashouta, #myart, #mhacosplay, #drawing"
-  - username: "jonscottwontstop"
+    hashtags: "#personal, #furryart, #furrybadge, #fairykei"
+  - username: "kemeticwitch"
     fullname: >-
-      jonscottwontstop
+      Otto
     bio: >-
-      LGBTQ+ he/him “Trump2020 isn’t a personality trait or a fashion statement.” BLM
+      Witchy fashion and fun Kemetic pagan educational content @kemeticwitch2
+    location: "United States"
+    followers: 16300
+    engagement: 1974
+    commentsToLikes: 0.116722
+    id: ck8kmmzzm9a340j780h0flx1g
+    verified: false
+    hashtags: "#ancientegypt, #fyp, #notwitchy, #greenscreen"
+  - username: "atomiclaundry"
+    fullname: >-
+      Colin Aceves
+    bio: >-
+      He/Him.Fashion Designer.Decora.Jfashion.Mail Me PO box 58001 Renton, WA 98058
+    location: "United States"
+    followers: 208500
+    engagement: 1814
+    commentsToLikes: 0.030300
+    id: cka64sh7wa0if0i78r5j03qqf
+    verified: false
+    hashtags: "#thankyou, #tamagotchi, #kawaii, #sanrio"
+  - username: "readytostare"
+    fullname: >-
+      Ready to Stare 
+    bio: >-
+      Alysse Dalessandro Santiago ➕ Plus Size Fashion ✈️ LGBTQ Travel 🌈 Queer Femme
+    location: "United States"
+    followers: 33900
+    engagement: 1792
+    commentsToLikes: 0.070346
+    id: ckeyxcq0f4ru70j2344qujtnb
+    verified: true
+    hashtags: "#28xtremes, #pride, #wlw, #queer"
+  - username: "missyonmadison"
+    fullname: >-
+      missyonmadison
+    bio: >-
+      ✨Blogger + CEO✨ 💍Engaged || LA ⭐️Disney, Fashion, Beauty 💖IG @missyonmadison
     location: "United States"
     followers: 55500
-    engagement: 2056
-    commentsToLikes: 0.059164
-    id: cka9sakrs9z8g0i78e8cokfrq
+    engagement: 1026
+    commentsToLikes: 0.034864
+    id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#trump, #youlost, #comedy, #bidenforthewin"
-  - username: "superflylunchlady"
+    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
+  - username: "lauren_reneeee_1"
     fullname: >-
-      Superflylunchlady
+      Lauren Renee’
     bio: >-
-      Just being me 18+ please 🏳️‍🌈 Ally * BLM Lunch Lady Fashion & Glasses
+      fashion, singing, hair care 🤎
     location: "United States"
-    followers: 40100
-    engagement: 1846
-    commentsToLikes: 0.088830
-    id: ckcdx1lmufywf0j23ibvj65ez
+    followers: 21400
+    engagement: 2231
+    commentsToLikes: 0.052245
+    id: ckck2p6dtm80v0j23a4ispsu8
     verified: false
-    hashtags: "#duet, #eyewearfashion, #lunchladies, #biden2020"
-  - username: "euphoria.bjc"
-    fullname: >-
-      Euphoria
-    bio: >-
-      💫 Follow me on Insta@Euphoria.bjc ✨❤️ Cosplayer, Costume and Fashion designer❤️
-    location: "United States"
-    followers: 55800
-    engagement: 2201
-    commentsToLikes: 0.039083
-    id: ck8kl85q32s940j78ur79svth
-    verified: false
-    hashtags: "#legendofzelda, #fyp, #wip, #starwars"
+    hashtags: "#albumcoverchallenge, #fyp, #blackgirl, #21"
 ---

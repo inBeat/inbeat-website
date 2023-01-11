@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In France in 2023
+title: Top 10 Stylists Instagram Influencers In France In 2023
 description: >-
-  Find top stylists Instagram influencers in France in 2023. Most popular hashtags: #fashionstyle #coat #fashionblogger.
+  Find top stylists Instagram influencers in France in 2023. Most popular hashtags: #ootd #outfitinspiration #swimwear.
 platform: Instagram
-hits: 450
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 450 Instagram influencers like this in France for you to contact.
+hits: 501
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 501 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "___rrxii"
+  - username: "lioumonn"
     fullname: >-
-      Kira the alchemist
+      劉芒
     bio: >-
-      Stylist
+      lioumonn@gmail.com 👆Work👆 ✨🚀✨ ✨🌜✨✨🚀✨✨ ☁☁☁🚀YouTuber ☁☁🚀Stylist☁️☁ ☁🚀Editor☁☁️☁️ 🚀🏦🏢⛪🏬🏣🏪 YT新片🎬 真正的說話小天才康永哥來了！
     location: "France"
-    followers: 71531
-    engagement: 154
-    commentsToLikes: 0.025763
-    id: ck5bv4h4piz990i113kim25q2
+    followers: 481802
+    engagement: 598
+    commentsToLikes: 0.006196
+    id: ckapaqnjxx3mz0i7831zw4a2g
     verified: false
-    hashtags: "#freekodak, #nofakefriends"
-  - username: "ramonatabita"
+    hashtags: "#sodastream, #microbag, #chanelwatches, #1971"
+  - username: "peterpapapetrou1"
     fullname: >-
-      Ramona Tabita
+      Peter Papapetrou
     bio: >-
-      Stylist
+      Fashion Stylist,Style Expert 🧿 🇨🇦& 🇳🇱 Inquires: Roseanna@plutinogroup.com
     location: "France"
-    followers: 37679
-    engagement: 267
-    commentsToLikes: 0.023138
-    id: ck0vvqiasqb5p0i19ek09becl
+    followers: 21950
+    engagement: 365
+    commentsToLikes: 0.126038
+    id: ck0vv40mnnfx80i194j6o0pew
     verified: false
-    hashtags: "#saintlaurentrivedroite, #defuera, #fw20, #fearofgodzegna"
-  - username: "dannistylist"
+    hashtags: "#family, #stylist, #runway, #fashion"
+  - username: "cyril_guillemin"
     fullname: >-
-      StyledByDanni
+      Cyril Guillemin
     bio: >-
-      STYLIST
+      Celebrities stylist | CM | Former athlete Founder @cyca.agency cyril.inquiries@gmail.com
     location: "France"
-    followers: 16435
-    engagement: 174
-    commentsToLikes: 0.068677
-    id: ck135tzeh38aq0i199g303s02
+    followers: 213403
+    engagement: 95
+    commentsToLikes: 0.035810
+    id: ck5zttwaj13yd0i145jyxgshc
     verified: false
-    hashtags: "#streetstyle, #londonfashionweek, #bottegaveneta, #styledbydanni"
-  - username: "bylauralayton"
-    fullname: >-
-      Laura  KOryn Layton
-    bio: >-
-      —————————— Stylist
-    location: "France"
-    followers: 46836
-    engagement: 435
-    commentsToLikes: 0.027169
-    id: ck6u65clvdm9l0j71pfncxtnx
-    verified: false
-    hashtags: "#afrolatina, #havana, #cuba, #latina"
-  - username: "melissaswardrobe"
-    fullname: >-
-      Melissa’s Wardrobe
-    bio: >-
-      Celebrity Fashion Stylist Luxury Fashion & Lifestyle Blogger London ✉️ management@melissaswardrobe.com
-    location: "France"
-    followers: 183684
-    engagement: 784
-    commentsToLikes: 0.039895
-    id: ck0udxvovk7yj0i19uwfxckji
-    verified: false
-    hashtags: "#museofmilan, #colouristheanswer, #opiobsessed, #foreverchasingtomorrow"
-  - username: "justinebrouill"
-    fullname: >-
-      JUSTINE BROUILLETTE
-    bio: >-
-      Canada Styliste/Blogueuse Collaboratrice pour @lookdujour_ca & @fromrachel justine.brouillette@gmail.com
-    location: "France"
-    followers: 45126
-    engagement: 639
-    commentsToLikes: 0.199287
-    id: ck55mvs7w4xmt0i11ri5jgn7h
-    verified: false
-    hashtags: "#giveaway, #partenaire, #yellowamespieds, #pub"
+    hashtags: "#pfw, #fashionweek, #paris, #dior"
   - username: "hayerelola"
     fullname: >-
       𝕃𝕒𝕝𝕠
     bio: >-
-      fashion addict 💋 Not your girl gang Rennes 📍 Diplômée : styliste / modéliste 21 buttons : lolahyr 📩 : lola.hyr@gmail.com
+      a tiny fashion lover 🧚🏼 Not your girl gang Styliste 📩 : lola.hyr@gmail.com
     location: "France"
-    followers: 7503
-    engagement: 925
-    commentsToLikes: 0.109542
+    followers: 13056
+    engagement: 747
+    commentsToLikes: 0.096622
     id: ck136lb4d71tt0i19m5crkyeq
     verified: false
-    hashtags: "#fashionstyle, #love, #discoverunder10k, #shooting"
-  - username: "gelixr"
+    hashtags: "#contentcreator, #outfitoftheday, #ootdfashion, #notyourgirl"
+  - username: "justinebrouill"
     fullname: >-
-      Angelina Texier
+      JUSTINE BROUILLETTE
     bio: >-
-      ✧ CA | Styliste, Rennes - Paris 🐻 ✉️ contact - at.gelixr@outlook.com
+      Canada Styliste | Blogueuse justine.brouillette@gmail.com
     location: "France"
-    followers: 44231
-    engagement: 314
-    commentsToLikes: 0.154146
-    id: ck0vvadtzo94v0i19ykue94r5
+    followers: 47081
+    engagement: 370
+    commentsToLikes: 0.032503
+    id: ck55mvs7w4xmt0i11ri5jgn7h
     verified: false
-    hashtags: "#ikksofficial, #ikks, #concours, #nakdfashion"
+    hashtags: "#proseccodoc, #pub, #protectyourway, #offpartenaire"
+  - username: "chloedebarros"
+    fullname: >-
+      Chloé De Barros
+    bio: >-
+      Créatrice, styliste et fondatrice @chloedebarroscollection chloedebarrospro@gmail.com
+    location: "France"
+    followers: 41046
+    engagement: 443
+    commentsToLikes: 0.057840
+    id: ck5hmtnthmlqi0i1156klrln6
+    verified: false
+    hashtags: "#revolveinbloom, #sponsored, #justfabpartner, #teamjustfab"
   - username: "mcristinastyling"
     fullname: >-
       cristina gomes
     bio: >-
-      Stylist/ Image Consultant⚡ Barcelona /Bordeaux 📍 cristina.fonseca.gomes@gmail.com 📩
+      Stylist/ Image Consultant⚡ Bordeaux 📍 cristina.fonseca.gomes@gmail.com 📩
     location: "France"
-    followers: 9837
-    engagement: 699
-    commentsToLikes: 0.201017
+    followers: 12332
+    engagement: 609
+    commentsToLikes: 0.068114
     id: ck5zxexvg7vu90i14wawi521w
     verified: false
-    hashtags: "#stun02, #weekendfitss, #knitt, #aestheticgrls"
-  - username: "its.pariyaa"
+    hashtags: "#ootd, #ootdfashion, #summer, #interiordesign"
+  - username: "rania_sgn"
     fullname: >-
-      pariyasmd
+      𝐋𝐀 𝐑𝐀𝐍𝐈𝐀 𝐍
     bio: >-
-      💊PhD Condidate(Pharmaceutical subset) 👗Freelance stylist (School of style/🇺🇸) ✂️Fashion Designer Founder of @psworldcollection
+      𝙑𝙚𝙣𝙞 • 𝙑𝙞𝙙𝙞 • 𝘼𝙢𝙖𝙫𝙞 🇩🇿 •Beauté🌺 lifestyle 🌺Styliste •CEO @rania.s_inspiration •📩Rania19209@gmail.com
     location: "France"
-    followers: 31321
-    engagement: 315
-    commentsToLikes: 0.082130
-    id: ck602s7f7iv1h0i14h3g5rmee
+    followers: 56403
+    engagement: 275
+    commentsToLikes: 0.087678
+    id: ck6ufw56tzhbj0j71eum5arq7
     verified: false
-    hashtags: "#blackandwhite, #officialkavyar, #fashionmagazin, #photooftheday"
+    hashtags: ""
+  - username: "official_thuggergirl"
+    fullname: >-
+      Beautiful_thuggergirl🔺
+    bio: >-
+      •stylist/fashion designer Business page : @boe_luxury 🛍💰
+    location: "France"
+    followers: 7130
+    engagement: 891
+    commentsToLikes: 0.073293
+    id: ck8swwn2kfhx40j78gjg66b20
+    verified: false
+    hashtags: "#explorepage, #fyp, #staysafe, #explore"
+  - username: "clementinemacneice"
+    fullname: >-
+      Clémentine MacNeice
+    bio: >-
+      Fashion & Celebrity Stylist Outfits, Lifestyle, Home Bride to be 💍 📧clementinemacneice@gmail.com @thecollaborationsagency
+    location: "France"
+    followers: 69632
+    engagement: 305
+    commentsToLikes: 0.168865
+    id: ck5cfimz5n18q0i11xqyjrwhg
+    verified: false
+    hashtags: "#summerstyle, #ootd, #home, #weekend"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Los Angeles in 2023
+title: Top 10 Lifestyle Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #lifestyle #makeup #fitness.
+  Find top lifestyle Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #lifestyle #photography.
 platform: Instagram
-hits: 665
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 665 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+hits: 658
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 658 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "wolfcien"
+  - username: "makeupbytreenz"
     fullname: >-
-      W O L F
+      KATRINA 🥀
     bio: >-
-      Content creator | Youtube personality ∙ Fashion | Beauty | Lifestyle ∙ Los Angeles ∙ wintercien@gmail.com _________________________⠀ New video below!
+      beauty + lifestyle los angeles 📍 @hallowtreenz @funkotreenz 🧡 💌: katrinamarrufo@yahoo.com new youtube video! ↓
     location: "United States"
-    followers: 11450
-    engagement: 722
-    commentsToLikes: 0.104659
-    id: ck6trpowr0d2l0j719xrz0lwr
+    followers: 45570
+    engagement: 313
+    commentsToLikes: 0.036926
+    id: ck0tzkznqqpf80i19l2bmn6f6
     verified: false
-    hashtags: "#ttdeye, #halloween2020, #ootd, #ttdeyeofficial"
-  - username: "j_a_felds"
+    hashtags: "#hudabeauty, #colourpop, #colourpopfeatheredeffect, #colourpopme"
+  - username: "talagolzar"
     fullname: >-
-      Joey
+      Dr. Tala Golzar
     bio: >-
-      Design. ✍🏼 Fitness.💪🏼 Lifestyle.⚜️ Los Angeles, CA📍
+      •Doctor of Pharmacy •Fashion / Beauty / Lifestyle •Los Angeles🌴 🇮🇷🇺🇸 Email:talagolzar.la@gmail.com @BangEnergy Elite Ambassador
     location: "United States"
-    followers: 14282
-    engagement: 221
-    commentsToLikes: 0.033932
-    id: ckap76xjoivsf0i78ec9sr1sl
-    verified: false
-    hashtags: "#instamoment, #gayfit, #fitguys, #blondehair"
-  - username: "adam.weist"
+    followers: 2208429
+    engagement: 261
+    commentsToLikes: 0.023450
+    id: ck14kvsjwrk7f0i19zxja45sm
+    verified: true
+    hashtags: "#sugarbearhair, #bangenergy, #energydrink, #ad"
+  - username: "michelleinfusino"
     fullname: >-
-      Adam Weist Photography
+      MICHELLE INFUSINO
     bio: >-
-      The wild calls 🌋 Formerly @kanyeweist Adventure | Travel | Lifestyle Los Angeles 📍
+      fashion / beauty / lifestyle los angeles based 💌 michelle@insanityhq.com HOW I EDIT MY PHOTOS ⬇️
     location: "United States"
-    followers: 7461
-    engagement: 1464
-    commentsToLikes: 0.050930
-    id: ck5zp1qskrtl30i147dlne259
+    followers: 227784
+    engagement: 234
+    commentsToLikes: 0.016792
+    id: ck0u0plmuuhib0i19j19itgu6
     verified: false
-    hashtags: "#puregoldceo, #promo"
-  - username: "camilwearstyle"
+    hashtags: "#stircreativity, #dickinsonswitchhazel, #diamondson, #skorchparter"
+  - username: "losangeles_city"
     fullname: >-
-      Camila • 卡米拉 💎
+      Los Angeles City
     bio: >-
-      Hey, remember to love the life you are living ☺️ Be encouraged and inspired 📸🧡 微博/抖音：Cami卡米拉
+      Los Angeles City Official Page
     location: "United States"
-    followers: 14851
-    engagement: 210
-    commentsToLikes: 0.070630
-    id: ck6tt5sug8rng0j71sr6iwx9t
+    followers: 497800
+    engagement: 164
+    commentsToLikes: 0.006881
+    id: ck0u9zuqob2om0i19uuhab44e
     verified: false
-    hashtags: "#lifestyle, #losangeles, #photoediting, #longhair"
-  - username: "alexshue"
+    hashtags: "#america, #vacation, #visitlosangeles, #cali"
+  - username: "mkcba"
     fullname: >-
-      Alex Shue
+      Margaret Kimura 📸 #followme ⬆️
     bio: >-
-      🙏🏻 | Christian Entrepreneur 👤 | CEO @iconsocialmarketing 📲 | IG Branding & Marketing 📈 | Digital Marketing & E-commerce 📸 | Content @iconsocialmedia
+      #Photographer #Fashion #MakeupArtist #Beauty #Animals #BeautyExpert #Teacher #Consultant #Influencer http://MARGARETKIMURA.com 4 YouTube go 2 my web
     location: "United States"
-    followers: 144167
-    engagement: 218
-    commentsToLikes: 0.156631
-    id: ck8t15s5buih40j78j97257xw
+    followers: 22272
+    engagement: 846
+    commentsToLikes: 0.012091
+    id: ck5q5z6mjv8800i11jhihcvfv
     verified: false
-    hashtags: "#socialmediamarketing, #mediaagency, #business, #smm"
-  - username: "geninehart"
+    hashtags: "#editorial, #makekupartist, #fashion, #lifestyle"
+  - username: "victoriacocieru"
     fullname: >-
-      Genine Hart
+      Victoria Cocieru 🌱
     bio: >-
-      Located in LA📍from 🇿🇦. AKA MISS RED FOX💋Agency - Mavrick Agency. 5'9 35-22-36 Fashion & Fitness Model & Actress
+      Creative Director/Founder @kheops13_ Los Angeles 🌴 @projectrunwaybravo Finalist season 18 📰@elleusa @vogueitalia @people
     location: "United States"
-    followers: 12007
-    engagement: 990
-    commentsToLikes: 0.074110
-    id: ck9webq2djkw40j78lj1m0uvd
+    followers: 52491
+    engagement: 115
+    commentsToLikes: 0.021396
+    id: ckaorfga3mz330i78ezhbythy
     verified: false
-    hashtags: "#skincare, #positivevibes, #luxurylifestyle, #talent"
-  - username: "lovingbeautyandlife"
-    fullname: >-
-      Nikol
-    bio: >-
-      🌴📍SoCal everything beauty & life✱hakuna matata✱dog mama✱ 📧 hello@LovingBeautyandLife.com 👩🏼‍💻LovingBeautyandLife.com Get a @glow__nana 👇🏻
-    location: "United States"
-    followers: 24601
-    engagement: 143
-    commentsToLikes: 0.076123
-    id: ck13buta8x8ru0i198k07pauh
-    verified: false
-    hashtags: "#foodie, #food, #boxycharm, #beauty"
-  - username: "manuel_c_"
-    fullname: >-
-      manuel c_
-    bio: >-
-      🍔 , 🥃 & travel. Everything social. Brand collaborator, speaker, mentor, people connector, #CX evangelist. Marketing & CX @plitchapp - pers acct
-    location: "United States"
-    followers: 94568
-    engagement: 104
-    commentsToLikes: 0.003761
-    id: ck0w66t6375hd0i19elcaavw3
-    verified: false
-    hashtags: "#blacktie, #greatdate, #music, #atx"
+    hashtags: "#projectrunway, #lafashiondesigner, #repost, #losangelesfashionphotography"
   - username: "real_estate_inspiration_com"
     fullname: >-
       Luxury Mansions & Homes
     bio: >-
-      🏘️Beautiful Mansion 🌇 📩DM for business 📩 💲Luxury inspiration QEDbew
+      🆕 New Post every day 🆕 🏘️Beautiful Mansions 🌇 📩DM for business 📩 💲Luxury inspiration
     location: "United States"
-    followers: 15842
-    engagement: 472
-    commentsToLikes: 0.022790
+    followers: 15644
+    engagement: 156
+    commentsToLikes: 0.008204
     id: ckap2zzb211rf0i78vdf6oh16
     verified: false
-    hashtags: "#exteriors, #homebuilders, #houseaddictive, #luxurylistings"
+    hashtags: "#luxuryhomes, #modernarchitecture, #bosshomes, #exterior"
   - username: "yasminsun"
     fullname: >-
-      Yasmin 💫
+      Yasmin ✨🇩🇪🇹🇷
     bio: >-
-      • Fashion • Beauty • Lifestyle 📍Los Angeles Fashion Stylist #styledbyyas Email me for business inquiries & collabs ⤵️
+      • Fashion • Beauty • Lifestyle • 📍Los Angeles #styledbyyas
     location: "United States"
-    followers: 182330
-    engagement: 844
-    commentsToLikes: 0.025115
+    followers: 216834
+    engagement: 269
+    commentsToLikes: 0.024820
     id: ckaoxlj76ds8o0i780o5uq3ax
     verified: false
-    hashtags: ""
+    hashtags: "#leogang, #shein, #sheingals"
+  - username: "morganleighwillett"
+    fullname: >-
+      MORGAN WILLETT
+    bio: >-
+      Fitness • Fashion • Lifestyle 🌴 Los Angeles 💪🏻 @movelikemorgan 🌟 Alani Nu Athlete 💗 Lots of pink 👇🏼 All my links!
+    location: "United States"
+    followers: 310464
+    engagement: 194
+    commentsToLikes: 0.040446
+    id: ck5hiomrkel590i112yz7ljyx
+    verified: true
+    hashtags: "#revolvesummer, #ad, #ootd, #motivationmonday"
+  - username: "thenayglam"
+    fullname: >-
+      𝐍𝐀𝐘 ╳ 𝐒𝐎𝐓𝐎
+    bio: >-
+      beauty | fashion | lifestyle 🌴 Los Angeles, CA 🖤 owner @shopsocialmuse ✉️ thenayglam@gmail.com 🤍 makeup bookings, please include: 𝐝𝐚𝐭𝐞, 𝐭𝐢𝐦𝐞, 𝐨𝐜𝐜𝐚𝐬𝐢𝐨𝐧
+    location: "United States"
+    followers: 23982
+    engagement: 420
+    commentsToLikes: 0.045236
+    id: ck5c2i5o2xb2b0i11w9s8gn2r
+    verified: false
+    hashtags: "#frankierosecosmetics, #matteperfectionfoundation, #internationalwomensday, #mlpartner"
 ---

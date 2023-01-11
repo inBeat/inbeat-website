@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Turkey in 2023
+title: Top 10 Barbers TikTok Influencers In Turkey In 2023
 description: >-
-  Find top barbers TikTok influencers in Turkey in 2023. Most popular hashtags: #barber #ke #tiktok #kesfet.
+  Find top barbers TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #barber #gaziantep27 #tiktok.
 platform: TikTok
-hits: 16
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 16 TikTok influencers like this in Turkey for you to contact.
+hits: 12
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "barbersking"
-    fullname: >-
-      Barbersking
-    bio: >-
-      💈Barbers King Kalitesi İle Farklı Kalın!💈 💈BARBERS KİNG ANTALYA💈
-    location: "Turkey"
-    followers: 47900
-    engagement: 487
-    commentsToLikes: 0.021551
-    id: ckbwa8o9f02vg0j23573mryqt
-    verified: false
-    hashtags: "#barbersking, #antalya, #akdeniz, #keratin"
-  - username: "barberstown"
-    fullname: >-
-      barberstown
-    bio: >-
-      İnstagram:barberstown Linke tıklayıp YouTube kanalımıza abone olmayı unutma👇🏻
-    location: "Turkey"
-    followers: 2500000
-    engagement: 592
-    commentsToLikes: 0.006831
-    id: ckb19ci76xcyd0j23zhqeeh2p
-    verified: true
-    hashtags: ""
   - username: "mehmetkacarhairdoctor"
     fullname: >-
       Mehmet kaçar ®️
     bio: >-
       🌍 World Class barber Hairdoctor ®️ 🇹🇷Türkiye ödüllü Erkek Kuaförü 🏆 PENDİK✂️
     location: "Turkey"
-    followers: 128900
-    engagement: 330
-    commentsToLikes: 0.011678
+    followers: 127300
+    engagement: 361
+    commentsToLikes: 0.014146
     id: ckbwbhc6l0q5r0j23bjiniryl
     verified: false
-    hashtags: "#ke, #hairstlye, #bostanc, #istanbul"
+    hashtags: ""
+  - username: "barberstown"
+    fullname: >-
+      barberstown
+    bio: >-
+      İnstagram:barberstown Linke tıklayıp YouTube kanalımıza abone olmayı unutma👇🏻
+    location: "Turkey"
+    followers: 3700000
+    engagement: 607
+    commentsToLikes: 0.004515
+    id: ckb19ci76xcyd0j23zhqeeh2p
+    verified: true
+    hashtags: "#barberstown, #barberstowntv, #teambarberstown, #gazver"
+  - username: "barbersking"
+    fullname: >-
+      Barbersking
+    bio: >-
+      💈Barbers King Kalitesi İle Farklı Kalın!💈 💈BARBERS KİNG ANTALYA💈
+    location: "Turkey"
+    followers: 204400
+    engagement: 479
+    commentsToLikes: 0.016854
+    id: ckbwa8o9f02vg0j23573mryqt
+    verified: false
+    hashtags: "#ke, #barbersking, #viral, #firework"
+  - username: "kuaforabdurrezzakyildiz"
+    fullname: >-
+      Abdurrezzak Yıldız
+    bio: >-
+      📍21 / DİYARBAKIR
+    location: "Turkey"
+    followers: 13600
+    engagement: 197
+    commentsToLikes: 0.055556
+    id: cka6lh4va34gq0i78ast0q8f6
+    verified: false
+    hashtags: "#stilistteam, #27, #barber, #ibrahimli"
   - username: "berberist.muhammed"
     fullname: >-
       Muhammed ARSLAN
     bio: >-
-      İNST; berberist.muhammed ✂ ERKEK KUAFÖRÜ✂
+      ✂ ERKEK KUAFÖRÜ✂
     location: "Turkey"
-    followers: 3009
-    engagement: 1028
-    commentsToLikes: 0.034754
+    followers: 2970
+    engagement: 1198
+    commentsToLikes: 0.000000
     id: ckcprcf8el2ot0j230ncilznq
     verified: false
-    hashtags: "#gaziantepprovince, #onecikar, #teambarber, #barbershop"
-  - username: "stilistresulnew"
+    hashtags: "#teambarber, #gaziantep27, #kesfetengelimikaldir, #alartikbeni"
+  - username: "coiffeur.mustafa1"
     fullname: >-
-      StilistResul
+      👑Mustafa davarcı👑
     bio: >-
-      📍GAZİANTEP RANDEVU İÇİN MESAJ BÖLÜMÜNDEN ULAŞABİLİRSİNİZ ( HERKESE AÇIK )
+      İnstagram hesabımı tekip etmeyi unutmayın kuaför.mustafa1995
     location: "Turkey"
-    followers: 13800
-    engagement: 556
-    commentsToLikes: 0.050706
-    id: cka6lh4va34gq0i78ast0q8f6
-    verified: false
-    hashtags: "#adana, #ke, #antalya, #manavgat"
-  - username: "mehmetdognx"
-    fullname: >-
-      🌹👑 Mehmet Doğan 🌹👑
-    bio: >-
-      yeni hesabım destek olun 150k hesap kapandı 🌹 19 yaş 😍
-    location: "Turkey"
-    followers: 13900
-    engagement: 573
-    commentsToLikes: 0.018593
+    followers: 38100
+    engagement: 578
+    commentsToLikes: 0.019971
     id: ckae3v1ymzirr0i78fbycdxp3
     verified: false
-    hashtags: "#barber, #tiktok, #gaziantep, #gaziantepp"
+    hashtags: "#ortam, #tiktok, #gaziantepp, #ke"
   - username: "kuaformehmetduyan"
     fullname: >-
       Kuaför Mehmet Duyan
     bio: >-
       
     location: "Turkey"
-    followers: 26700
-    engagement: 457
-    commentsToLikes: 0.003194
+    followers: 25700
+    engagement: 431
+    commentsToLikes: 0.006130
     id: ckbkogu8gik800j23wtxi36zq
     verified: false
-    hashtags: "#yozgat, #yerk, #tiktok2020, #yozgatyerk"
-  - username: "betulluteb_"
+    hashtags: "#ha, #ke, #yozgat, #kuafor"
+  - username: "kuaforberaataba"
     fullname: >-
-      BetüL 🦋
+      Kuaför Beraat Aba
     bio: >-
-      🐣 🌸 -Kendi hâLimde takıLıyorum çok da şeyyapmayın GAZİANTEP🇹🇷
+      Anatomik Saç kesimi ✂️ Simetrik saç kesimi ✂️ Asimetrik saç kesimi ✂️ @beraataba
     location: "Turkey"
-    followers: 40800
-    engagement: 1424
-    commentsToLikes: 0.048367
-    id: cka8dwa0sugtx0i78rv8reojz
+    followers: 18500
+    engagement: 388
+    commentsToLikes: 0.086655
+    id: ckbbci0421h9i0j23j68r4b2l
     verified: false
-    hashtags: "#gaziantep, #tbt, #kesfet, #fyp"
+    hashtags: "#kesfet, #diyarbak, #degisim, #kuafor"
   - username: "99gag"
     fullname: >-
       99GAG
     bio: >-
       We are about to be 30K. Follow us for more videos.
     location: "Turkey"
-    followers: 23900
-    engagement: 1914
-    commentsToLikes: 0.015749
+    followers: 23600
+    engagement: 1897
+    commentsToLikes: 0.014478
     id: ckc81i8bm2jl90j23yuo4pofb
     verified: false
-    hashtags: "#comedy, #foryou, #viral, #ipanachallenge"
-  - username: "nur_kavci"
+    hashtags: "#sizini, #ejderhayad, #ipanachallenge, #funny"
+  - username: "musi2311"
     fullname: >-
-      👑صالون أناقة رجل(2)👑
+      Musallam مسلّم
     bio: >-
-      No bio yet
+      فنان تشكيلي وصانع محتوى painter and Content maker
     location: "Turkey"
-    followers: 9034
-    engagement: 870
-    commentsToLikes: 0.031938
-    id: ckbqtpw2dedye0j23qawsvaqn
+    followers: 45400
+    engagement: 387
+    commentsToLikes: 0.025259
+    id: ckbwebv1j1iol0j23qbn6irt9
     verified: false
-    hashtags: "#dute, #tik, #turkey, #duet"
+    hashtags: "#painting, #oilpainting, #morning, #istanbul"
 ---

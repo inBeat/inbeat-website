@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Milan in 2023
+title: Top 10 Barbers Instagram Influencers In Milan In 2023
 description: >-
-  Find top barbers Instagram influencers in Milan in 2023. Most popular hashtags: #barber #milano #model #love.
+  Find top barbers Instagram influencers in Milan in 2023. Most popular hashtags: #milano #barber #milan #model.
 platform: Instagram
-hits: 25
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 25 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 20
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
-  - username: "juniorluis_real"
-    fullname: >-
-      𝗝𝗨𝗡𝗜𝗢𝗥 𝗟𝗨𝗜𝗦
-    bio: >-
-      𝑂𝑓𝑓𝑖𝑐𝑖𝑎𝑙 𝑝𝑎𝑔𝑒 Ⓡ 𝐂𝐚𝐧𝐭𝐚𝐮𝐭𝐨𝐫𝐞 🖋️
-    location: "Italy"
-    followers: 16439
-    engagement: 659
-    commentsToLikes: 0.192651
-    id: ck8t0ctd4rmo90j787ywb4iq2
-    verified: false
-    hashtags: "#songs, #passion, #instagram, #radio"
   - username: "antikorpo"
     fullname: >-
       � Andrea Lanzi
     bio: >-
-      Open booked from January to April 2021 ➡️ for appointment send email at antikorpotattoo@gmail.com / info@hivetattooart.com ⬅️
+      Open booked from May to August 2021 ➡️ for appointment send email at antikorpotattoo@gmail.com / info@hivetattooart.com ⬅️
     location: "Italy"
-    followers: 81486
-    engagement: 139
-    commentsToLikes: 0.025888
+    followers: 81587
+    engagement: 107
+    commentsToLikes: 0.031591
     id: ck5ho9plwp6rl0i11ipm44fej
     verified: false
-    hashtags: "#bresciatattoo, #texture, #realitional, #antiquarantine"
+    hashtags: "#milanotattoo, #antikorpoart, #paper, #stencilstuff"
+  - username: "georgi_p_r_i_n_c_e"
+    fullname: >-
+      —G E O R G I  S T O Y C H E V—
+    bio: >-
+      La prima cosa che vedo quando mi sveglio e’ un cane che mi Ama 🐾💗 📍Milan,Italy 🇮🇹 Born • Bulgaria 🇧🇬 12/⭕️3/199⭕️
+    location: "Italy"
+    followers: 9635
+    engagement: 698
+    commentsToLikes: 0.032087
+    id: ckaoxzitrffab0i78k76ubos5
+    verified: false
+    hashtags: "#dm, #lifeisbeautiful, #art, #wonderful"
   - username: "muratmedya07"
     fullname: >-
       
     bio: >-
       
     location: "Italy"
-    followers: 146119
-    engagement: 1590
+    followers: 111523
+    engagement: 2083
     commentsToLikes: 0.010735
     id: ck8wg8x3cgxfa0j78wfkfzphc
     verified: false
-    hashtags: "#letsgo, #modelo, #loveit, #malemodel"
-  - username: "filippogalli63"
+    hashtags: "#malemodel, #modeling, #letsgo, #amazing"
+  - username: "iltitanico23"
     fullname: >-
-      Filippo Galli
+      Andrea Franchini 🕉
     bio: >-
-      Italian Football Federation Advisor Member of the section for youth football development ex Professional Football Player Sports & streetart passionate
+      • Menswear | Lifestyle | Travel • Milan 📍 • Content Creator 📸 • Temptation Island 2016 • andreadsq@icloud.com 📩
     location: "Italy"
-    followers: 64864
-    engagement: 360
-    commentsToLikes: 0.019792
-    id: ckap443q45r9q0i78k528r8ib
-    verified: true
-    hashtags: "#football, #weareacmilan, #rossoneri, #pallonedoro"
-  - username: "maurositura"
-    fullname: >-
-      Mauro Situra
-    bio: >-
-      Creative Director @gocoppola Art Director #AldoCoppolaGaribaldi Milan 📍 #thesituraction🎥🎞🎬♥️
-    location: "Italy"
-    followers: 131857
-    engagement: 157
-    commentsToLikes: 0.040461
-    id: ck0uavu0ed6xj0i192kj1pdqr
+    followers: 212519
+    engagement: 56
+    commentsToLikes: 0.074054
+    id: ck5q94bn79bs10i111lbr7e5k
     verified: false
-    hashtags: "#beauty, #maurositura, #love, #gocoppola"
-  - username: "ricky_morandin"
+    hashtags: "#prozis, #salento, #castro, #lumare"
+  - username: "giuppe_13"
     fullname: >-
-      Ricky Morandin
+      🅶 🅸 🆄 🅿 🅿 🅴
     bio: >-
-      📍 Milan 🇮🇹 #makeupartist @wmmanagement
+      🙌🏽 Massaggiatore Olistico freelance 🚪@sosmassaggi My Work Page 📍Milan
     location: "Italy"
-    followers: 19409
-    engagement: 116
-    commentsToLikes: 0.056658
-    id: ck0udk5injazg0i19e9xc3t79
+    followers: 5472
+    engagement: 1195
+    commentsToLikes: 0.010753
+    id: ck8t7e8dxghb40j78rhor4et3
     verified: false
-    hashtags: "#model, #photo, #hair, #makeup"
-  - username: "paesanoluigi"
+    hashtags: "#me, #taormina, #sardegna, #friends"
+  - username: "academia_milano_models"
     fullname: >-
-      Luigi Paesano
+      Academia Milano Models
     bio: >-
-      Founder LES NAPOLITAINS look designer via della madonna dei monti 61 Roma 0689130917 Viale Europa 19 Roma0645499138 Via boschetti 5 Milano 0245490150
+      Academia Milano Models 🔹Clases Presenciales🔹 🔻Reserva tu cupo🔻
     location: "Italy"
-    followers: 34920
-    engagement: 220
-    commentsToLikes: 0.008233
-    id: ck600ow3idzmx0i14al2iabvb
+    followers: 24633
+    engagement: 120
+    commentsToLikes: 0.015441
+    id: ck6u9npviykxa0j712vrde73g
     verified: false
-    hashtags: "#lesnapolitains, #myway, #exsperience, #eltoro"
-  - username: "stizzo_bestoftimes"
+    hashtags: "#matr, #confianza, #milanomodels, #personalidad"
+  - username: "italia_barber_society"
     fullname: >-
-      STIZZO
+      IBS 💈Italia Barber Society 💈
     bio: >-
-      🔴 RIAPERTURA STUDIO CONFERMATA 25 MAGGIO 📩 Booking at stizzotattoo@libero.it 📲 02 4548 3929 🇮🇹 Via Anfossi 6, MILAN
+      Una barberia classica con lo spirito moderno ✂️💈 OUR DREAM TEAM @notordinarybarber @alovalovayeah @alexander_elprimero 💈 Prenota da app ⬇️
     location: "Italy"
-    followers: 84507
-    engagement: 167
-    commentsToLikes: 0.010137
-    id: ck5qc1ygxoh0c0i119w913ql8
+    followers: 27109
+    engagement: 75
+    commentsToLikes: 0.018432
+    id: ck5zr6ye6w0zr0i14m0ne2jkk
     verified: false
-    hashtags: "#tatted, #blackwork, #alfaromeo, #alfetta1800"
-  - username: "fardinkasbkar"
-    fullname: >-
-      Hess Studio | Wedding
-    bio: >-
-      ▪️Good Sense Of Memories ▪️Active Branches in Turkey and Iran ▪️Org: @fa.organizasyon.iran ▪️MUA: @mua.milano ▪️Dress: @fardinkasbkar.dress 💍Married
-    location: "Italy"
-    followers: 28915
-    engagement: 349
-    commentsToLikes: 0.023272
-    id: ck9ha9c2ibnmk0j789sa6a0xx
-    verified: false
-    hashtags: ""
+    hashtags: "#christmas, #madeinibs, #barbersocietyrules, #booking"
   - username: "davide_greco_barber"
     fullname: >-
       𝔇𝔞𝔳𝔦𝔡𝔢 𝔊𝔯𝔢𝔠𝔬💈💎
     bio: >-
       @scarecrowpomade
     location: "Italy"
-    followers: 402921
-    engagement: 326
-    commentsToLikes: 0.013710
+    followers: 447016
+    engagement: 285
+    commentsToLikes: 0.011388
     id: ck0vvtvdrqqxt0i19ocvmwbul
     verified: false
-    hashtags: "#barber, #genius, #sicilia, #stile"
+    hashtags: "#trapani, #barber, #palermo, #genius"
+  - username: "filippogalli63"
+    fullname: >-
+      Filippo Galli
+    bio: >-
+      Italian Football Federation Advisor Member of the section for youth football development ex Professional Football Player Sports & streetart passionate
+    location: "Italy"
+    followers: 67353
+    engagement: 426
+    commentsToLikes: 0.021480
+    id: ckap443q45r9q0i78k528r8ib
+    verified: true
+    hashtags: "#milan, #football, #acmilan, #thisismilan"
+  - username: "nirkiopgabriele"
+    fullname: >-
+      Gabriele Boscaino
+    bio: >-
+      👔Youtubers, Production Designer, CEO 📹Founder flowaveproduction.com ⚽(bad) Soccer Player 📽️Youtube Nirkiop 1 MILIONE 💫
+    location: "Italy"
+    followers: 133772
+    engagement: 1005
+    commentsToLikes: 0.005661
+    id: ck55oidhp8eqx0i114vqiwayk
+    verified: true
+    hashtags: "#milano, #toyotayaris, #adv, #shave"
 ---

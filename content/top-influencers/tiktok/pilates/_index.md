@@ -1,84 +1,108 @@
 ---
-title: Top 10 Pilates TikTok Influencers in 2023
+title: Top 10 Pilates TikTok Influencers In 2023
 description: >-
-  Find top pilates TikTok influencers in 2023. Most popular hashtags: #pilates #workout #fitness #pilatesworkout.
+  Find top pilates TikTok influencers in 2023. Most popular hashtags: #pilates #fitness #workout #fyp.
 platform: TikTok
-hits: 293
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 293 TikTok influencers like this for you to pitch.
+hits: 308
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 308 TikTok influencers like this for you to pitch.
 profiles:
-  - username: "miaparziale"
+  - username: "blogilates"
     fullname: >-
-      Mia Parziale
+      cassey
     bio: >-
-      📍LA I post for WOMEN. Dating stuff mostly 💖💜💙 Pilates + Personal Trainer
+      Certified Pilates/Fitness Instructor & Designer. ✨my designs✨
     location: "United States"
-    followers: 77200
-    engagement: 1016
-    commentsToLikes: 0.093981
-    id: ckbqp9yaoa1hf0j23pk5tqa7h
-    verified: false
-    hashtags: "#datingin2020, #bi, #selflove, #over25"
+    followers: 2500000
+    engagement: 1124
+    commentsToLikes: 0.006974
+    id: ck7zordvwlfwh0j7816r7sykb
+    verified: true
+    hashtags: "#fitness, #pilates, #duet, #fitnesschallenge"
   - username: "katiecapecod"
     fullname: >-
       katiecapecod🧜🏻‍♀️
     bio: >-
-      🧜🏻‍♀️🌙🔮 MOMx3 Pilates & Yoga Teacher🧘‍♀️ 🖤
+      🧜‍♀️🦋🔮 mama X 3 pilates & 200hr RYT 🖕😈
     location: "United States"
-    followers: 7738
-    engagement: 1623
-    commentsToLikes: 0.129260
+    followers: 12100
+    engagement: 1116
+    commentsToLikes: 0.122025
     id: ck87u29o14tty0j78453egpae
     verified: false
-    hashtags: "#dadsoftiktok, #myrecommendation, #happyhalloween, #newengland"
-  - username: "miss_natasha_jade"
+    hashtags: "#sayquaynotkway, #fyp, #refundglowup, #asmrfood"
+  - username: "kangwon94"
     fullname: >-
-      Natasha Jade
+      최강원
     bio: >-
-      Pro dancer Certified Pilates & dance teacher Let me teach you! 👇🏼😀
-    location: "United States"
-    followers: 176200
-    engagement: 1547
-    commentsToLikes: 0.017716
-    id: ck83yqb3suqys0j78eu273hf7
+      ✅청담 pt/pilates 문의 ✅촬영 및 협찬 문의 ✔️문의는 인스타 dm으로주세요.✔️
+    location: "South Korea"
+    followers: 101400
+    engagement: 1359
+    commentsToLikes: 0.026863
+    id: ck9n4kky94uyo0j78y23qo1ib
     verified: false
-    hashtags: "#tiktokpartner, #barre, #dance, #learnontiktok"
+    hashtags: "#fyp, #like, #korea, #tiktok"
+  - username: "kayla_brugger"
+    fullname: >-
+      kayla_brugger
+    bio: >-
+      PILATESBODY by Kayla 10 Day Core + Ab Challenge 👇🏼
+    location: "United States"
+    followers: 20800
+    engagement: 541
+    commentsToLikes: 0.067405
+    id: ckai2mjtsgd180i78hvt30n6p
+    verified: false
+    hashtags: "#hipflexorstretch, #pilatesbodybykayla, #pilates, #abrehab"
+  - username: "naikeorilio"
+    fullname: >-
+      naike
+    bio: >-
+      Coreografa💃🏽 Influencer🤳 Pilates T.🧘🏻‍♀️ Mamma👩‍👧‍👦 Moglie Gigi e Ross😂
+    location: "Italy"
+    followers: 46700
+    engagement: 583
+    commentsToLikes: 0.042932
+    id: ckbf2ror4pxe90j23nf0rp3ke
+    verified: false
+    hashtags: "#foryoupage, #parati, #perte, #foryou"
   - username: "bodyverafitness"
     fullname: >-
       VICTORIA RIVERA
     bio: >-
       Ig: @bodyverafitness Yt: Tory Rivera 25 ✨ Ur fav Pilates instructor
     location: "United States"
-    followers: 58400
-    engagement: 1013
-    commentsToLikes: 0.010970
+    followers: 56400
+    engagement: 905
+    commentsToLikes: 0.006885
     id: ck8sax9kx4amq0j78c8b2fkf2
     verified: false
-    hashtags: "#fitgirl, #filipina, #wellness, #athleisure"
-  - username: "kayla_brugger"
+    hashtags: "#boandtee, #pilates, #workout, #posture"
+  - username: "pripaderni"
     fullname: >-
-      kayla_brugger
+      Pripaderni
     bio: >-
-      PILATESBODY by Kayla Pilates Pro Rookie Mom! www.pilatesbodybykayla.com
-    location: "United States"
-    followers: 20000
-    engagement: 380
-    commentsToLikes: 0.015713
-    id: ckai2mjtsgd180i78hvt30n6p
+      Fisioterapeuta Pilates & Yoga 🧘‍♀️ Siga no Instagram @pripaderni
+    location: "Brazil"
+    followers: 283000
+    engagement: 506
+    commentsToLikes: 0.022597
+    id: ck8vxll5prfkn0j78ufoegega
     verified: false
-    hashtags: "#fitness, #wardrobe, #39weekspregnant, #babygirl"
-  - username: "blogilates"
+    hashtags: "#lifestyle, #motivation, #healthy, #saude"
+  - username: "imsweatyandiknowit"
     fullname: >-
-      cassey
+      I’M SWEATY AND I KNOW IT
     bio: >-
-      Helping you find the ✨joy ✨ in fitness! Certified Pilates & Fitness Instructor💪
+      FOLLOW TO JOIN TO THE PILATES SIDE OF TIKTOK ✨✨✨
     location: "United States"
-    followers: 2200000
-    engagement: 1284
-    commentsToLikes: 0.005048
-    id: ck7zordvwlfwh0j7816r7sykb
-    verified: true
-    hashtags: "#fitgirl, #homeworkout, #gymroutine, #fitness"
+    followers: 113700
+    engagement: 595
+    commentsToLikes: 0.009900
+    id: ckcp2j9x7bmlz0j23uojdi41z
+    verified: false
+    hashtags: "#refundglowup, #whatieatinaday, #pilates, #fitnessgirl"
   - username: "viveactive"
     fullname: >-
       VIVE ACTIVE
@@ -86,45 +110,21 @@ profiles:
       ULTIMATE ATHLETIC PILATES Reformer | Mat | Daily Live Stream viveactive.com.au
     location: "Australia"
     followers: 36400
-    engagement: 403
-    commentsToLikes: 0.008232
+    engagement: 398
+    commentsToLikes: 0.008069
     id: ckcpax3ycezu50j235nzz2anw
     verified: false
-    hashtags: "#reformer, #reformerpilates, #glutes, #pilatesinstructor"
-  - username: "naikeorilio"
+    hashtags: "#workout, #australia, #glutes, #fit"
+  - username: "ftpriscila"
     fullname: >-
-      naike
+      @ftpriscila
     bio: >-
-      Coreografa💃🏽 Influencer🤳 Pilates T.🧘🏻‍♀️ Mamma👩‍👧‍👦 Moglie Gigi e Ross😂
-    location: "Italy"
-    followers: 44500
-    engagement: 550
-    commentsToLikes: 0.020430
-    id: ckbf2ror4pxe90j23nf0rp3ke
-    verified: false
-    hashtags: "#gigieross, #fyp, #comedians, #parati"
-  - username: "bubimarchetto"
-    fullname: >-
-      bubimarchetto
-    bio: >-
-      PILATES LIFESTYLE
+      Atleta de Street Workout Pole Dance Pilates Fisioterapeuta
     location: "Brazil"
-    followers: 5685
-    engagement: 562
-    commentsToLikes: 0.009458
-    id: ck8vxllpnrfpq0j78hz03efij
+    followers: 88100
+    engagement: 824
+    commentsToLikes: 0.012197
+    id: ck8fbzx6i5qdw0j78kmxx0ljm
     verified: false
-    hashtags: "#embaixadorfitness, #destacame, #gera, #pilatesworkout"
-  - username: "ellieslife6"
-    fullname: >-
-      Ellie Stefanov
-    bio: >-
-      Follow me on YouTube for fun workouts and healthy recipes!!!
-    location: "United States"
-    followers: 7522
-    engagement: 435
-    commentsToLikes: 0.049868
-    id: ck9si84dtxft20j788r24ww0e
-    verified: false
-    hashtags: "#workoutroutine, #momswhoworkout, #pilatesworkout, #tulummexico"
+    hashtags: "#tiktoker, #streetwourkout, #tiktokindia, #calisthenics"
 ---

@@ -1,108 +1,120 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Canada in 2023
+title: Top 10 Rappers TikTok Influencers In Canada In 2023
 description: >-
   Find top rappers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
 platform: TikTok
-hits: 59
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 59 TikTok influencers like this in Canada for you to connect with.
+hits: 55
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 55 TikTok influencers like this in Canada for you to pitch.
 profiles:
+  - username: "ogr_scintilla"
+    fullname: >-
+      OGR-Scintilla
+    bio: >-
+      Join me on my journey to become 🇨🇦‘s Greatest Rapper 👇 JOIN THE HOSER GANG
+    location: "Canada"
+    followers: 247700
+    engagement: 1557
+    commentsToLikes: 0.053776
+    id: ck8nb71ap8jc20j7858upwxls
+    verified: false
+    hashtags: "#drake, #duet, #greatestincanada, #troll"
   - username: "bennybslice"
     fullname: >-
       Benny B Slice
     bio: >-
       Aspiring Rapper Canadian 🇨🇦 17 Spread positivity :)
     location: "Canada"
-    followers: 3515
-    engagement: 1168
-    commentsToLikes: 0.068142
+    followers: 3469
+    engagement: 1218
+    commentsToLikes: 0.082291
     id: ck9vffh7d31040j78erpz1o48
     verified: false
-    hashtags: "#rap, #foryou, #music, #xyzbca"
-  - username: "realtroyjones"
-    fullname: >-
-      Troyjones18
-    bio: >-
-      Singer/rapper/songwriter 🔥✍🏽🎤 You got this far might as well follow👀 40k👀?
-    location: "Canada"
-    followers: 37200
-    engagement: 1592
-    commentsToLikes: 0.027058
-    id: ck8w4uhr392b50j787eyfyps9
-    verified: false
-    hashtags: "#viral, #music, #happyhalloween, #trending"
+    hashtags: "#fyp, #rap, #remix, #foryou"
   - username: "pnbrock_official"
     fullname: >-
       Pnb Rock
     bio: >-
       Rapper 💯 PnbRock 💯
     location: "Canada"
-    followers: 76200
-    engagement: 1243
-    commentsToLikes: 0.036256
+    followers: 75500
+    engagement: 1263
+    commentsToLikes: 0.028585
     id: ck8070zplnrue0j78g88hut1s
     verified: false
-    hashtags: "#viral, #foyou, #pnbg, #bookworm"
+    hashtags: "#4u, #foryou, #foryoupage, #fyp"
+  - username: "realtroyjones"
+    fullname: >-
+      Troyjones18
+    bio: >-
+      Singer/rapper/songwriter 🔥✍🏽🎤 MTL 🇨🇦 100k 👀?
+    location: "Canada"
+    followers: 53200
+    engagement: 1263
+    commentsToLikes: 0.027396
+    id: ck8w4uhr392b50j787eyfyps9
+    verified: false
+    hashtags: "#stitch, #viral, #dance, #relatable"
   - username: "drbaobab"
     fullname: >-
       Thien Bao Nguyen
     bio: >-
       Dentist, lobster whisperer and freestyle rapper
     location: "Canada"
-    followers: 6124
-    engagement: 904
-    commentsToLikes: 0.040356
+    followers: 6156
+    engagement: 951
+    commentsToLikes: 0.078154
     id: ckcdcmg8d54w20j23le1olnx3
     verified: false
-    hashtags: "#fyp, #foryoupage, #quarantine, #quebec"
+    hashtags: "#fyp, #foryoupage, #quarantine, #lobster"
   - username: "josephfuoco"
     fullname: >-
       Joseph Fuoco
     bio: >-
       🇨🇦/🇮🇹 17 Toronto
     location: "Canada"
-    followers: 38300
-    engagement: 1729
-    commentsToLikes: 0.082572
+    followers: 37900
+    engagement: 1531
+    commentsToLikes: 0.070602
     id: cka0omybb4ne70i78b3m8h10g
     verified: false
-    hashtags: "#fyp, #emoji, #rap, #music"
-  - username: ".ebunnoir"
+    hashtags: "#hiphop, #flightreacts, #rap, #artist"
+  - username: "kblitztiktok"
     fullname: >-
-      Ebun Noir
+      KBlitzMusic
     bio: >-
-      🇨🇦 I’m even uglier on my Instagram! WATCH MY NEW MUSIC VIDEO⬇️⬇️
+      Living vicariously through myself Ghetto jeopardy winner 2020 🇨🇦
     location: "Canada"
-    followers: 64300
-    engagement: 1254
-    commentsToLikes: 0.042523
-    id: ck90zswc2f6oj0j7846pdk7gy
+    followers: 9147
+    engagement: 1623
+    commentsToLikes: 0.233542
+    id: ck9818ocmasir0j78npxmtz08
     verified: false
-    hashtags: "#rap, #foryou, #fyp, #rappers"
+    hashtags: "#wow, #fun, #funny, #fr"
   - username: "lil.pz"
     fullname: >-
       Lil.pz
     bio: >-
-      🌟 I Follow back on ig (@lil.pz)❤️🙏🏽
+      🇯🇲🌟🇺🇸🇨🇦 Follow my ig 2 I follow back on there (@lil.pz) 🌟luv y’all ❤️
     location: "Canada"
-    followers: 50100
-    engagement: 1143
-    commentsToLikes: 0.070628
+    followers: 126600
+    engagement: 1167
+    commentsToLikes: 0.056807
     id: ck9m0ywc0cj4v0j78kflxq8di
     verified: false
-    hashtags: "#lightskin, #quandorondo, #curlyhead, #kingvon"
-  - username: "keralanka"
+    hashtags: "#foryoupage, #rappers, #twist, #dreads"
+  - username: "_double_a_ron_"
     fullname: >-
-      Keralanka
+      Double A-Ron
     bio: >-
-      CORNY AF BUT THE MUSIC BANGS 🌽 . Catch us live on Twitch 🤫👇🏽
+      ⛈ Double A-Ron ⛈ 📸^Follow my Instagram^📸 ⬇️Rewind⬇️
     location: "Canada"
-    followers: 16100
-    engagement: 1008
-    commentsToLikes: 0.168524
-    id: ck8ql5xt8kbn60j781cp1fcnd
+    followers: 173300
+    engagement: 1492
+    commentsToLikes: 0.056444
+    id: cka0sbvt0kss60i78p2rf8jkl
     verified: false
-    hashtags: "#musicproducer, #remix, #writethelyric, #rapremix"
+    hashtags: "#2am, #rewind, #music, #stitch"
   - username: "domvallie"
     fullname: >-
       DOM VALLIE
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.019897
     id: cka8fno7o32fn0i78grk6si02
     verified: false
-    hashtags: "#foryou, #rapper, #duet, #splashfreestylechallenge"
-  - username: "xavfaucher"
-    fullname: >-
-      Xav's Life
-    bio: >-
-      Le meilleur est sur mon insta👉🏼 @xavfaucher
-    location: "Canada"
-    followers: 24300
-    engagement: 733
-    commentsToLikes: 0.021744
-    id: cka0uz8dmwgtf0i78uxc6yx78
-    verified: false
-    hashtags: "#fyp, #canada, #rapper, #montreal"
+    hashtags: "#splashfreestylechallenge, #splashchallenge, #freestyle, #fyp"
 ---

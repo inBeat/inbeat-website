@@ -1,84 +1,48 @@
 ---
-title: Top 10 Cinema Instagram Influencers In South Africa in 2023
+title: Top 10 Cinema Instagram Influencers In South Africa In 2023
 description: >-
-  Find top cinema Instagram influencers in South Africa in 2023. Most popular hashtags: #nature #beauty #southafrica.
+  Find top cinema Instagram influencers in South Africa in 2023. Most popular hashtags: #capetown #photography #instagood.
 platform: Instagram
-hits: 18
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 18 Instagram influencers like this in South Africa for you to connect with.
+hits: 16
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 16 Instagram influencers like this in South Africa for you to work with.
 profiles:
-  - username: "michaelveltmanmedia"
-    fullname: >-
-      Michael Veltman
-    bio: >-
-      South African surf cinematographer @mikeshootsfilm 📍Cape Town, South Africa
-    location: "South Africa"
-    followers: 9826
-    engagement: 732
-    commentsToLikes: 0.077166
-    id: ck0w5qt6a4z6x0i19435773vq
-    verified: false
-    hashtags: "#super8"
-  - username: "sweetsmilesbug"
-    fullname: >-
-      COZAY MONTAGE 🎞📹 CMFilmz!
-    bio: >-
-      CM Pictures🎥 !! Director&Cinematographer🎞📷
-    location: "South Africa"
-    followers: 2947
-    engagement: 1506
-    commentsToLikes: 0.037100
-    id: ck0vyh40e3ytv0i19su9ds697
-    verified: false
-    hashtags: "#4eva, #ghettoyouths"
-  - username: "rickjoaquim"
-    fullname: >-
-      Rick Joaquim, SASC
-    bio: >-
-      Cinematographer 🎥 Represented by @exposure_crew 🇿🇦 Represented by @undercranked_agents 🇬🇧 📍Currently shooting a Feature Film in Zambia 🇿🇲
-    location: "South Africa"
-    followers: 10009
-    engagement: 696
-    commentsToLikes: 0.098483
-    id: ck5hq5ztxsk820i11gppphvpg
-    verified: false
-    hashtags: "#cinematographer, #anamorphic, #streetphotography, #spicollective"
   - username: "sandilem_"
     fullname: >-
       Sandile Mahlangu
     bio: >-
-      South African Actor & Presenter Acting: MLA 🎭 Content Creator 🎨 Cinematographer 🎞 Story Teller 🎬 Campaign Bookings: Leon@321influence.co.za
+      South African Actor & Presenter Acting: MLA 🎭 Content Creator 🎨 Cinematographer 🎞 Story Teller 🎬
     location: "South Africa"
-    followers: 186790
-    engagement: 534
-    commentsToLikes: 0.016138
+    followers: 294745
+    engagement: 660
+    commentsToLikes: 0.015182
     id: ck6u4od8t4vmf0j7104jj0exg
     verified: false
-    hashtags: "#styleupyourfitness, #ygl, #thecreativespace"
+    hashtags: "#whywait, #ffseltzer, #ungapheliumpoya, #ad"
+  - username: "shmikesss"
+    fullname: >-
+      Michael Veltman
+    bio: >-
+      South African surf cinematographer 📍North Shore of Oahu, Hawaii
+    location: "South Africa"
+    followers: 10654
+    engagement: 745
+    commentsToLikes: 0.075283
+    id: ck0w5qt6a4z6x0i19435773vq
+    verified: false
+    hashtags: "#super8"
   - username: "ianthurtell"
     fullname: >-
       𝑰𝒂𝒏 𝑻𝒉𝒖𝒓𝒕𝒆𝒍𝒍
     bio: >-
       📸 Professional Surf Photographer 🎥 Water Cinematographer 🌍 Cape Town, South Africa 🇿🇦
     location: "South Africa"
-    followers: 7078
-    engagement: 539
-    commentsToLikes: 0.026255
+    followers: 7205
+    engagement: 630
+    commentsToLikes: 0.039303
     id: ck0w4p2iwzote0i19t4et9h2o
     verified: false
-    hashtags: "#wave, #nature, #surf, #namibia"
-  - username: "africa_alive"
-    fullname: >-
-      Steven Dover
-    bio: >-
-      •Cinematographer • Wildlife cameraman • proudly 🇿🇦 •enquiries : DM ©
-    location: "South Africa"
-    followers: 16853
-    engagement: 197
-    commentsToLikes: 0.010953
-    id: ck8sz1e02mtau0j78b09qt2s9
-    verified: false
-    hashtags: "#natgeo, #nikon, #nature, #africa"
+    hashtags: "#southafrica, #namibia, #surfing, #photography"
   - username: "mornehardenberg"
     fullname: >-
       SHARK EXPLORERS/AE FILMS
@@ -90,41 +54,77 @@ profiles:
     commentsToLikes: 0.014416
     id: ck55mg8c53w7u0i11ycvn5b6d
     verified: true
-    hashtags: "#lockdown, #bahamas"
-  - username: "jvdoming"
+    hashtags: "#bahamas, #lockdown"
+  - username: "stefanheldzinger"
     fullname: >-
-      Javier Dominguez
+      Barista | Creative Director
     bio: >-
-      🇪🇸 𝓜𝓪𝓭𝓮 𝓲𝓷 𝓢𝓹𝓪𝓲𝓷 ÐłGł₸λŁ λƦ₸ł$₸
+      South African 🇿🇦 Canadian🇨🇦 stefanheldzingerphotography.com Speciality Coffee Barista @throughgoodc ☕️ @cuts affiliate link⬇️
     location: "South Africa"
-    followers: 26110
-    engagement: 840
-    commentsToLikes: 0.117674
-    id: ck0ttjfhj2zjb0i19kajjh6oq
+    followers: 10197
+    engagement: 352
+    commentsToLikes: 0.123816
+    id: ck0w0r5j2fmik0i199bh1apqb
     verified: false
-    hashtags: "#3dartwork, #dreamlife, #theuniversalart, #animation"
-  - username: "shaunchadsmit"
+    hashtags: "#alwayson, #petermckinnon, #moods, #lattelove"
+  - username: "galamitai"
     fullname: >-
-      Shaun Chad Smit
+      Gal Amitai גל אמיתי
     bio: >-
-      🎞 writer. Editor. actor. Cape Town 🇿🇦
+      GAL 🇮🇱 Israeli actor 🇿🇦 South African native @yitzug1 agency @hastudio_actingschool @hastudio_digital @voodoobartlv
     location: "South Africa"
-    followers: 16151
-    engagement: 343
-    commentsToLikes: 0.058164
-    id: ck6tmhkx07v1k0j71w5qoesuf
+    followers: 38250
+    engagement: 541
+    commentsToLikes: 0.041456
+    id: ck5hhab6w77rh0i11t8sqocca
     verified: false
-    hashtags: "#videography, #video, #bts, #beauty"
-  - username: "scott.hurly"
+    hashtags: "#tv, #love, #art, #actor"
+  - username: "kevinlutolf"
     fullname: >-
-      Scott
+      Kevin Lütolf
     bio: >-
-      23 | South Africa
+      🌍 🇨🇭Zurich 🎬 Model, Entrepreneur, ContentCreator 🖤 Brand Ambassador @breitling, @mini_switzerland & @nespresso.ch 🎥 Co-Founder @kompleazy
     location: "South Africa"
-    followers: 13970
-    engagement: 558
-    commentsToLikes: 0.054161
-    id: ck0vzxm2nbds80i196j9j4vn0
+    followers: 909219
+    engagement: 505
+    commentsToLikes: 0.018946
+    id: ck5bzxktzs13r0i11vh8beq2d
     verified: false
-    hashtags: "#knysna, #reels, #misssa2020, #vteen"
+    hashtags: "#surfing, #italien, #summer, #nature"
+  - username: "apolloyaffes"
+    fullname: >-
+      APOLLO GABRIEL YAFFES 🧿
+    bio: >-
+      Son Of Zeus 🧞‍♂️ * Video Creator * DM/Email For Bookings ✖️ * Latest YouTube Video 👇
+    location: "South Africa"
+    followers: 3663
+    engagement: 1681
+    commentsToLikes: 0.035553
+    id: ck5cdvsq2jvg60i113lvspk2u
+    verified: false
+    hashtags: "#southafrica, #tablemountain, #capetown, #fitness"
+  - username: "mattsiebert_"
+    fullname: >-
+      Matt Stryder Siebert
+    bio: >-
+      Creative director ☕️ Forex trading ^ NEW VIDEO OUT NOW!☕️📹
+    location: "South Africa"
+    followers: 18585
+    engagement: 91
+    commentsToLikes: 0.022448
+    id: ck5c9ayn2b41f0i1121cg4xum
+    verified: false
+    hashtags: "#director, #beach, #sunset, #photography"
+  - username: "ilkoilliliev"
+    fullname: >-
+      Ilko Iliev
+    bio: >-
+      💥 DISASTER ARTS 🎬 Stuntman, filmmaker, FPV pilot, piece of 💩 🎞 @007 Stunt Crew 🤙 @flytheearthparagliding Team
+    location: "South Africa"
+    followers: 8707
+    engagement: 641
+    commentsToLikes: 0.029460
+    id: ck5he877zrk2n0i118hxhzmc0
+    verified: false
+    hashtags: "#paraglide, #bulgaria, #3rs, #tricks"
 ---

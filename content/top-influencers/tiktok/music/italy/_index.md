@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Italy in 2023
+title: Top 10 Music TikTok Influencers In Italy In 2023
 description: >-
-  Find top music TikTok influencers in Italy in 2023. Most popular hashtags: #perte #duetto #fyp #neiperte.
+  Find top music TikTok influencers in Italy in 2023. Most popular hashtags: #perte #duetto #fyp.
 platform: TikTok
-hits: 338
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 338 TikTok influencers like this in Italy for you to work with.
+hits: 303
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 303 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "napoletano1981"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Musica nel sangue e Napoli nel cuore 💙🎵🎶💣🔝💙💙💙
     location: "Italy"
-    followers: 10400
-    engagement: 2972
-    commentsToLikes: 0.266227
+    followers: 13100
+    engagement: 2990
+    commentsToLikes: 0.398017
     id: ckad3rcxilyy80i78p5f5k5gq
     verified: false
-    hashtags: "#perte, #duetto, #napoletano1981, #neiperte"
-  - username: "mrcsch"
+    hashtags: "#carnevale, #magiadimusica, #neiperte, #perte"
+  - username: "smok3d3mon"
     fullname: >-
-      Marco Sechi
+      f3lix75
     bio: >-
-      "live with passion, live musical.ly" MARCO • 22, italian Featured (2)
+      Find music tracks in my second profile 👉🏻 @f3lix75 👈🏻
     location: "Italy"
-    followers: 79600
-    engagement: 2226
-    commentsToLikes: 0.028896
-    id: ckbl31w8s0czp0j2338pmydrv
+    followers: 18200
+    engagement: 2572
+    commentsToLikes: 0.281940
+    id: ckcpug1c1pkeb0j23n9uawime
     verified: false
-    hashtags: "#fyp, #foryou, #lipsync, #perte"
-  - username: "simon_evans"
-    fullname: >-
-      SIMON EVANS
-    bio: >-
-      15 y/o musician/artist
-    location: "Italy"
-    followers: 23700
-    engagement: 1710
-    commentsToLikes: 0.038413
-    id: ckb8ya7cbdhcm0j238mpeid0d
-    verified: false
-    hashtags: "#foryou, #music, #lesbian, #neiperte"
-  - username: "shirou887"
-    fullname: >-
-      shiro
-    bio: >-
-      🇮🇹 Sicilia (Palermo) 🇯🇵 otaku 🎮 Gamer 🎶 tutti i generi di musica
-    location: "Italy"
-    followers: 4670
-    engagement: 869
-    commentsToLikes: 0.178872
-    id: ck8j9kxaxnxgf0j782u4ko665
-    verified: false
-    hashtags: "#hela, #duetto, #foryou, #incobus"
+    hashtags: "#smok3, #d3mon, #tiktokadvanced, #transition"
   - username: ".samuelefazzi"
     fullname: >-
       Samuele Fazzi
     bio: >-
       Samuele fazzi Collegio 4 18y.o Music🔥
     location: "Italy"
-    followers: 234200
-    engagement: 1874
-    commentsToLikes: 0.016898
+    followers: 229900
+    engagement: 1850
+    commentsToLikes: 0.014112
     id: ckb1djlid2ivk0j2359coafap
     verified: false
-    hashtags: "#fyp, #perte, #duetto, #woah"
+    hashtags: "#perte, #duetto, #fyp, #ultimo"
+  - username: "lil4ate"
+    fullname: >-
+      iperixo
+    bio: >-
+      she/they instagram: @iperiixo ascolta la mia musica qua sotto :) 👇🏻
+    location: "Italy"
+    followers: 126200
+    engagement: 2322
+    commentsToLikes: 0.014248
+    id: ck9vdmefgvet40j789xeydr7g
+    verified: false
+    hashtags: ""
+  - username: "marcomungo"
+    fullname: >-
+      Marco Mungo
+    bio: >-
+      Verona📍 “ma sei quello che faceva i duetti su musical.ly!?” (ho anche un nome)
+    location: "Italy"
+    followers: 610700
+    engagement: 1609
+    commentsToLikes: 0.018843
+    id: ckdbbnyly6grs0j23nove9a0o
+    verified: false
+    hashtags: "#fyp, #duetto, #perte, #ironia"
+  - username: "jessiselm_music"
+    fullname: >-
+      JESSI
+    bio: >-
+      Music Producer/DJ🎧🇮🇹 🔽Pazzo Per Gesu Remix 🔽 ⬇️Gruppo Telegram⬇️
+    location: "Italy"
+    followers: 20700
+    engagement: 1490
+    commentsToLikes: 0.099745
+    id: ckbf1lfjlnuzq0j232nuy6oy9
+    verified: false
+    hashtags: "#pianoanddrawing, #piano, #distorzione, #slaphouse"
   - username: "vincenzocantiello"
     fullname: >-
       Vincenzo Cantiello
     bio: >-
-      Se sei qui, ti piace la musica🎶 💎Grazie per i 72K 20💫 📩vincenzoxxx@yahoo.com
+      SOLO MUSICA A 360º🎶 Grazie per 92K!❤️ 20💫 📩vincenzoxxx@yahoo.com NEW VIDEO⬇️
     location: "Italy"
-    followers: 72600
-    engagement: 1794
-    commentsToLikes: 0.023014
+    followers: 92700
+    engagement: 1970
+    commentsToLikes: 0.026961
     id: ckc91ldnzrnxa0j23cvnwmcia
     verified: false
-    hashtags: "#distorsione, #singing, #duetto, #perte"
-  - username: "fazzi.samuele"
+    hashtags: "#duet, #perte, #singing, #arianagrande"
+  - username: "shirou887"
     fullname: >-
-      samuele.fazzi
+      shiro
     bio: >-
-      Il collegio 4🎬 Music🎶 Pianoforte 🎹
+      🇮🇹 Sicilia (Palermo) 🇯🇵 otaku 🎮 Gamer 🎶 tutti i generi di musica
     location: "Italy"
-    followers: 72000
-    engagement: 2298
-    commentsToLikes: 0.030600
-    id: ck9n4ixvf4jsu0j78m9py8plx
+    followers: 4680
+    engagement: 711
+    commentsToLikes: 0.169339
+    id: ck8j9kxaxnxgf0j782u4ko665
     verified: false
-    hashtags: "#neiperte, #perte, #viral, #cover"
+    hashtags: "#narutoo, #aot, #duetto, #jokers"
   - username: "virgitsch"
     fullname: >-
       virgitsch
     bio: >-
       ❤️ YT : virgitsch IG : virgitsch Speaker RDS Next🎙 Ready Music Play 🎥
     location: "Italy"
-    followers: 573000
-    engagement: 2160
-    commentsToLikes: 0.006168
+    followers: 625000
+    engagement: 2396
+    commentsToLikes: 0.005033
     id: ck8j4874g17ov0j78rpc8inzn
     verified: true
-    hashtags: "#ad, #duetto, #readymusicplay, #colossalchallenge"
-  - username: "santofrancesco"
+    hashtags: "#driverslicense, #oliviarodrigo, #disney"
+  - username: "fazzi.samuele"
     fullname: >-
-      Francesco Santo
+      samuele.fazzi
     bio: >-
-      Mi chiamo Francesco IG: @francescosanto ⬇️Ascolta la mia musica! ⬇️
+      Il collegio 4🎬 Music🎶 Pianoforte 🎹
     location: "Italy"
-    followers: 2877
-    engagement: 956
-    commentsToLikes: 0.054484
-    id: ckcelhmhhvbt20j23kqlywsoq
+    followers: 70700
+    engagement: 2255
+    commentsToLikes: 0.025141
+    id: ck9n4ixvf4jsu0j78m9py8plx
     verified: false
-    hashtags: "#neiperte, #fyp, #piano, #fareshi"
-  - username: "iamlapia"
-    fullname: >-
-      LaPia👑
-    bio: >-
-      20y/o Universitaria fuori sede Music, Photo 🎈🌙 Instagram: iamilenia27_ 🌙🔥
-    location: "Italy"
-    followers: 3949
-    engagement: 978
-    commentsToLikes: 0.136638
-    id: cka6jgn4luq6m0i783o5klcy4
-    verified: false
-    hashtags: "#pervoi, #vogliodiventarevirale, #viral, #duetto"
+    hashtags: "#commedy, #neiperte, #pov, #1982"
 ---

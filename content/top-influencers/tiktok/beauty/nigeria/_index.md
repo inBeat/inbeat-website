@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Nigeria in 2023
+title: Top 10 Beauty TikTok Influencers In Nigeria In 2023
 description: >-
-  Find top beauty TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #beauty #makeup #duet.
+  Find top beauty TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #viral #foryou #foryoupage.
 platform: TikTok
-hits: 21
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 21 TikTok influencers like this in Nigeria for you to pitch.
+hits: 16
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 16 TikTok influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "lebats"
-    fullname: >-
-      Christabel
-    bio: >-
-      Faouzia’s tune soothes my soul CEO of Rants 📩 hellolebats@gmail.com
-    location: "Nigeria"
-    followers: 64800
-    engagement: 1520
-    commentsToLikes: 0.035988
-    id: ck9116i5lkkii0j78znpm6o9a
-    verified: false
-    hashtags: "#greenscreen, #jijing, #jiji, #foryou"
-  - username: "iamonyinyechi"
-    fullname: >-
-      Onyinye Efiokwu
-    bio: >-
-      Dm me on ig for promotions ✌🏾 🇳🇬 🇳🇬
-    location: "Nigeria"
-    followers: 95800
-    engagement: 1501
-    commentsToLikes: 0.014120
-    id: ckc91ir5grj0l0j23jgkk9qpt
-    verified: false
-    hashtags: "#fyp, #iamonyinyechi, #makeuptransition, #beauty"
-  - username: "enioluwa"
-    fullname: >-
-      📍Eni
-    bio: >-
-      📍Food 📍Grooming Enioluwaadeoluwa@gmail.com
-    location: "Nigeria"
-    followers: 13200
-    engagement: 1087
-    commentsToLikes: 0.028902
-    id: ck9k6x8yx2ng20j78uein2fmy
-    verified: false
-    hashtags: "#fyp, #fy, #beautynation, #teamtennie"
   - username: "obiekweretta"
     fullname: >-
       Loretta
     bio: >-
-      #ENDSARS PLEASE SIGN THE PETITION BY CLICKING THE LINK BELOW!
+      A little bit of everything🥰 Follow / Message me on Insta😉 50k?🥺
     location: "Nigeria"
-    followers: 24100
-    engagement: 1447
-    commentsToLikes: 0.062706
+    followers: 30300
+    engagement: 1679
+    commentsToLikes: 0.096286
     id: ck9116r1wkmyt0j78ro6muq33
     verified: false
-    hashtags: "#obiekweretta, #outfit, #fyp, #viralvideo"
-  - username: "cyrilna_n"
-    fullname: >-
-      cyrilna_n
-    bio: >-
-      Started 2016. My Audition Room! Everything and Anything 💃🏽💆🏽‍♀️ 💄🎬 🎤 🇳🇬
-    location: "Nigeria"
-    followers: 25400
-    engagement: 1347
-    commentsToLikes: 0.088193
-    id: ck9107jtvgpcc0j78dusyp47q
-    verified: false
-    hashtags: "#itstartsontiktok, #naija, #nigeriantiktok, #nigeria"
+    hashtags: "#dance, #fyp, #beauty, #viral"
   - username: "tinanutcrazy"
     fullname: >-
       Tina Samuel
     bio: >-
-      Self taught makeup artist⭐️ IG:@tinanutcrazy Tinasamuelofficial@gmail.com
+      Self taught makeup artist⭐️ Business @tsboutiquee__ Tinasamuelofficial@gmail.com
     location: "Nigeria"
-    followers: 62000
-    engagement: 1426
-    commentsToLikes: 0.058605
+    followers: 62500
+    engagement: 1111
+    commentsToLikes: 0.084275
     id: ck90z7dakcup00j782nf3in88
     verified: false
-    hashtags: "#halloweenlooks, #instyle, #foryou, #fyp"
-  - username: "babycynci"
+    hashtags: "#xyzbca, #nails, #fyp, #viral"
+  - username: "danchizi_"
     fullname: >-
-      Cyn
+      Chris Daniel
     bio: >-
-      CEO of being unbothered ✌🏽 🇳🇬🇳🇬 Love is love 📩 its_berry@yahoo.com 40k 🥰
+      Follow my IG
     location: "Nigeria"
-    followers: 39700
-    engagement: 1405
-    commentsToLikes: 0.046291
-    id: ckb0wtv2nlyqh0j23yxtvk0e7
-    verified: false
-    hashtags: "#foryoupage, #react, #reactionvideo, #dance"
-  - username: "makhosibmusambasi"
+    followers: 518500
+    engagement: 2107
+    commentsToLikes: 0.028686
+    id: ckc7c5d8ilups0j23yvtzoqni
+    verified: true
+    hashtags: "#foryou, #foryoupage, #viral, #funny"
+  - username: "cyrilna_n"
     fullname: >-
-      Makhosi B Musambasi
+      Ndunaka Cynthia
     bio: >-
-      Certified Master Coach
+      Started 2016 Everything & Anything 💄😂🎬💃🏽 WELCOME TO MY AUDITION ROOM! 🇳🇬
     location: "Nigeria"
-    followers: 7232
-    engagement: 532
-    commentsToLikes: 0.050460
-    id: ckcv08gfdn34w0j23o39nu5b4
+    followers: 29400
+    engagement: 1241
+    commentsToLikes: 0.127248
+    id: ck9107jtvgpcc0j78dusyp47q
     verified: false
-    hashtags: "#lifecoach, #over40, #tiktokdubai, #pinkoctober"
+    hashtags: "#timewarpwaterfall, #valentinesday2021, #tiktokafrica, #facezoom"
+  - username: "vickyforr"
+    fullname: >-
+      vicky_fortunatus
+    bio: >-
+      Wlc to my profile😊 15k pls 🙏🏼🙏🏼🙏🏼
+    location: "Nigeria"
+    followers: 14400
+    engagement: 1228
+    commentsToLikes: 0.026429
+    id: ck9107a6ogmne0j78ugv4mjj5
+    verified: false
+    hashtags: "#vickyforr, #dance, #lipsync, #fyp"
   - username: "pauleegram"
     fullname: >-
       James Paul Chinemere
     bio: >-
       Am I a joke to you??🙄
     location: "Nigeria"
-    followers: 37300
-    engagement: 1009
-    commentsToLikes: 0.012932
+    followers: 37600
+    engagement: 970
+    commentsToLikes: 0.022718
     id: ckb9mp7mtfzxh0j2344jz49k8
     verified: false
-    hashtags: "#ekaette, #explore, #thatkatastrophicfamily, #nigeria"
-  - username: "lizzygold4real"
+    hashtags: "#tiktok, #neme, #thatkatastrophicfamily, #tiktoknaija"
+  - username: "emerald_lyka"
     fullname: >-
-      Lizzygoldofficial
+      Emerald_lyka
     bio: >-
-      Am new on tiktok ..filmmaker.. IG:lizzygoldofficial
+      Just here for fun 🥰🇳🇬 60k amazing followers, thank you all 🙏
     location: "Nigeria"
-    followers: 132800
-    engagement: 987
-    commentsToLikes: 0.009413
-    id: ckae964y9p9ya0i780m92l31u
+    followers: 65700
+    engagement: 612
+    commentsToLikes: 0.023229
+    id: ckdcblu6gj51i0j233ctzaw09
     verified: false
-    hashtags: "#tik, #tiktok, #trending, #height"
+    hashtags: "#foryou, #greenscreenvideo, #foryoupage, #greenscreen"
+  - username: "lasisielenu8"
+    fullname: >-
+      lasisielenu
+    bio: >-
+      •Nigeria's No.1 Ranter •Actor •Content creator •CEO-SumJusApenRighNow sinzumoney
+    location: "Nigeria"
+    followers: 81300
+    engagement: 1076
+    commentsToLikes: 0.024181
+    id: ck9exyar8tddy0j780i7vd4en
+    verified: false
+    hashtags: "#sinzumoney, #anayo, #lasisielenu, #problem"
+  - username: "fayo_k_fash"
+    fullname: >-
+      fayo_k_fash
+    bio: >-
+      77.9k beautiful people Ceo of flopped videos
+    location: "Nigeria"
+    followers: 76700
+    engagement: 1640
+    commentsToLikes: 0.031605
+    id: ckb1bqxh30com0j23cd5tc9qu
+    verified: false
+    hashtags: "#jijing, #fyp, #jijinigeria, #viral"
+  - username: "koredebello"
+    fullname: >-
+      Korede Bello
+    bio: >-
+      CHECK THIS OUT 🔥
+    location: "Nigeria"
+    followers: 670300
+    engagement: 1400
+    commentsToLikes: 0.030629
+    id: ck9nnhqs0pcpq0j786ph5gc7k
+    verified: true
+    hashtags: "#morire, #fyp, #micasasucasa, #foryou"
 ---

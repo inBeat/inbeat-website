@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Malaysia in 2023
+title: Top 10 Fitness TikTok Influencers In Malaysia In 2023
 description: >-
-  Find top fitness TikTok influencers in Malaysia in 2023. Most popular hashtags: #fitness #tiktokmalaysia #foryou #fyp.
+  Find top fitness TikTok influencers in Malaysia in 2023. Most popular hashtags: #tiktokmalaysia #fitness #fyp #foryou.
 platform: TikTok
-hits: 9
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 9 TikTok influencers like this in Malaysia for you to pitch.
+hits: 8
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Malaysia for you to contact.
 profiles:
   - username: "venuswongs"
     fullname: >-
@@ -13,106 +13,94 @@ profiles:
     bio: >-
       Slim Food Recipes & Fitness Lifestyle FB: VenusWongs99 venuswongs96@gmail.com
     location: "Malaysia"
-    followers: 3247
-    engagement: 447
-    commentsToLikes: 0.014034
+    followers: 3211
+    engagement: 462
+    commentsToLikes: 0.013141
     id: ckbl44u3s1jrm0j23cjxrb4i8
     verified: false
-    hashtags: "#slim, #tiktokclassroom, #wrap, #egg"
+    hashtags: "#avocado, #slim, #egg, #food"
   - username: "kelvinteo93"
     fullname: >-
       Kelvin Teo
     bio: >-
-      SHRED Fitness 私人健身教练 / 减肥 / 增肌 / 团体训练 / 公司训练 / 饮食推荐 Boot Camp IG📷s.h.r.e.d.0215
+      SHRED Fitness 私人健身教练 / 减肥 / 增肌 / 团体训练 / 公司训练 / 饮食推荐 Boot Camp IG📷kelvinteoshred
     location: "Malaysia"
-    followers: 18900
-    engagement: 361
-    commentsToLikes: 0.009835
+    followers: 19000
+    engagement: 391
+    commentsToLikes: 0.008106
     id: ckbkxahmlt8kx0j23ftydk053
     verified: false
-    hashtags: "#shred, #calisthenics, #peachbutt, #core"
-  - username: "nyraman4"
-    fullname: >-
-      Ny Raman
-    bio: >-
-      🌸A mom not giving up 🌸DrY DrS Fitness Trainer 🌸SYNC Strong Zumba Instructor
-    location: "Malaysia"
-    followers: 6065
-    engagement: 551
-    commentsToLikes: 0.015688
-    id: ckcema3jswhe60j23zmga1xzt
-    verified: false
-    hashtags: "#love, #tiktoker, #blessed, #foryourpage"
+    hashtags: "#shred, #sixpackabs, #training, #legs"
   - username: "dr.shalzrc"
     fullname: >-
       Dr.shalzrc ❤️
     bio: >-
-      Crown MRS Saree Malaysia 2019 Owner Aranda Clinic Founder of DrYDrS Fitness 
+      MRS Saree Malaysia 2019 Aranda Clinic DrYDrS Fitness LINK-WEIGHT LOSS CONSULTS
     location: "Malaysia"
-    followers: 38700
-    engagement: 448
-    commentsToLikes: 0.012403
+    followers: 42800
+    engagement: 368
+    commentsToLikes: 0.021963
     id: ckcdij9p98btu0j23xv98t9e8
     verified: false
-    hashtags: "#zumbalover, #thankful, #trending2020, #dr"
+    hashtags: "#dance, #drydrsfitness, #drshalz, #doctor"
+  - username: "nyraman4"
+    fullname: >-
+      Ny Raman
+    bio: >-
+      🌸A mom not giving up 🌸Fitness Coach /Nutrition 🌸SYNC Strong Zumba Instructor
+    location: "Malaysia"
+    followers: 6727
+    engagement: 557
+    commentsToLikes: 0.015125
+    id: ckcema3jswhe60j23zmga1xzt
+    verified: false
+    hashtags: "#foryoupage, #love, #positivevibes, #son"
   - username: "lifeinmotion96"
     fullname: >-
       LifeInMotion96
     bio: >-
       Movement, Feldenkrais, Strength Training. “You only live once.“
     location: "Malaysia"
-    followers: 4887
-    engagement: 382
+    followers: 4797
+    engagement: 381
     commentsToLikes: 0.026844
     id: ckbwftzfn28b40j23md82aei7
     verified: false
-    hashtags: "#fitness, #fyp, #foryou, #bodybuilding"
-  - username: "jeffyuman"
+    hashtags: "#bodybuilding, #fyp, #foryou, #calisthenics"
+  - username: "jackie_404"
     fullname: >-
-      Jeff Yuman
+      Jackiefourofour
     bio: >-
-      🧐What Link Is This🧐
+      Follow me🥰 404_Official Member
     location: "Malaysia"
-    followers: 2900000
-    engagement: 1298
-    commentsToLikes: 0.019985
-    id: ck8f5smmg0fhw0j78e8xb7k7f
-    verified: true
-    hashtags: "#fail, #fortuneteller, #basketball, #basketballchallenge"
-  - username: "yuki_dance_"
-    fullname: >-
-      Yuki DanCe
-    bio: >-
-      Hey! You found me😛 Cliquebait 📩 yukitan128@hotmail.com
-    location: "Malaysia"
-    followers: 374900
-    engagement: 796
-    commentsToLikes: 0.022929
-    id: ck9sige6wyofm0j78e6p2f1re
+    followers: 6319
+    engagement: 1093
+    commentsToLikes: 0.075014
+    id: ckbkiowzwb4n90j23gj2740qa
     verified: false
-    hashtags: "#dance, #viral, #foryou, #foryoupage"
+    hashtags: "#fyp, #tiktokmalaysia, #foryourpage, #simpapapalubila"
+  - username: "zenlauh"
+    fullname: >-
+      Edward
+    bio: >-
+      part time Ah Beng/TVB actor🎭 thank you all for 150k!!🥳 DM on IG for collabs!
+    location: "Malaysia"
+    followers: 157000
+    engagement: 1121
+    commentsToLikes: 0.025892
+    id: ckd6f5kca6wsb0j23202lyxkr
+    verified: false
+    hashtags: "#malaysia, #acting, #fyp, #lalazai"
   - username: "aremimmm"
     fullname: >-
       Amin EK (matmin)
     bio: >-
-      
+      TERIMA KASIH untuk follower saya Buat video sekadar suka2 😇
     location: "Malaysia"
-    followers: 34200
-    engagement: 788
-    commentsToLikes: 0.029931
+    followers: 48200
+    engagement: 957
+    commentsToLikes: 0.031683
     id: ckbep1wiz5og20j230zmrb76j
     verified: false
-    hashtags: "#soalan, #jangan, #31, #abgjanjiabgakanpulang"
-  - username: "am4ndaloo8"
-    fullname: >-
-      Am4ndaLoo
-    bio: >-
-      
-    location: "Malaysia"
-    followers: 12900
-    engagement: 209
-    commentsToLikes: 0.018894
-    id: ckbw90hl8zg5d0j23ni5f5vj7
-    verified: false
-    hashtags: "#chiaseeds, #cb, #handschallenge, #hairchallenge"
+    hashtags: "#firefighter, #fyp, #janganlupalike, #foryourpage"
 ---

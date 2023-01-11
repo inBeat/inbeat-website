@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Seoul in 2023
+title: Top 10 Lifestyle Instagram Influencers In Seoul In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Seoul in 2023. Most popular hashtags: #seoul #korea #lifestyle #ootd.
+  Find top lifestyle Instagram influencers in Seoul in 2023. Most popular hashtags: #lifestyle #ootd #travel #blogger.
 platform: Instagram
-hits: 14
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 14 Instagram influencers like this in Seoul, South Korea for you to work with.
+hits: 10
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in Seoul, South Korea for you to work with.
 profiles:
+  - username: "glam_dana"
+    fullname: >-
+      운동하는간호사ㅣ다나(Dana)
+    bio: >-
+      🇰🇷 Seoul/health&Beauty lifestyle💕 👑 @nabbawffkorea ambassador 💪🏿 @f45_training_sinnonhyeon ambassador 🏅 20 NABBA Bikini athlete tall top6
+    location: "South Korea"
+    followers: 93409
+    engagement: 208
+    commentsToLikes: 0.030592
+    id: ck6uiejgjemip0j71e2w2sfil
+    verified: false
+    hashtags: "#fitness, #gym, #bodycheck, #dailylook"
+  - username: "learnkoreanphrase"
+    fullname: >-
+      Learn Korean Phrase
+    bio: >-
+      Improve your #koreanlanguage with DAILY posts recorded by a native Korean speaker 👍 Learn Korean and culture ➡️ @kstyleyo Subscribe 👇 Daily YouTube🇰🇷
+    location: "South Korea"
+    followers: 139085
+    engagement: 125
+    commentsToLikes: 0.006774
+    id: ck8t3rppm48on0j78vrt9ry47
+    verified: false
+    hashtags: "#kdrama, #seoulkorea, #koreanlearning, #koreangrammar"
+  - username: "hannacoreana"
+    fullname: >-
+      Hanna Coreana 한나
+    bio: >-
+      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
+    location: "South Korea"
+    followers: 73663
+    engagement: 1430
+    commentsToLikes: 0.017638
+    id: ck139lh76lwpc0i19g78af5pm
+    verified: false
+    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
+  - username: "naina_thapa"
+    fullname: >-
+      Naina ★네나★🧿
+    bio: >-
+      INDIA 🇮🇳 | SEOUL 🇰🇷 Founder of @flawinabeauty
+    location: "South Korea"
+    followers: 7162
+    engagement: 908
+    commentsToLikes: 0.051511
+    id: ck6uevqevtcty0j718rd4gh5w
+    verified: false
+    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
+  - username: "ssang.nyc"
+    fullname: >-
+      SangHee 🐰💕
+    bio: >-
+      #NYC Life ❤️ 🏝 Next 🔜 #Tulum 👩🏻‍💻 Sr. Digital Designer @bloomingdales 📸 #Photographer • 🍕#Foodie • ✈️ #Traveler 🇺🇸🇰🇷 LA/Seoul 💌 ssang.nyc@gmail.com
+    location: "South Korea"
+    followers: 27644
+    engagement: 506
+    commentsToLikes: 0.017940
+    id: ck15tyxf1kl9y0i198b4orb5m
+    verified: false
+    hashtags: "#swimsuits, #modeling, #puntacana, #paradise"
+  - username: "hehejihee"
+    fullname: >-
+      Julie Hwang
+    bio: >-
+      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
+    location: "South Korea"
+    followers: 56787
+    engagement: 522
+    commentsToLikes: 0.012792
+    id: ckaozhqm2lxud0i78ep1u8e99
+    verified: false
+    hashtags: "#serenity, #fashion, #ootd, #travel"
+  - username: "sandy_joung023"
+    fullname: >-
+      정해원/𝕊𝕒𝕟𝕕𝕪 𝕁𝕠𝕦𝕟𝕘
+    bio: >-
+      Emirates cabin crew ✈️ 에미레이트 승무원 Korean 🇰🇷
+    location: "South Korea"
+    followers: 11111
+    engagement: 466
+    commentsToLikes: 0.026300
+    id: ckap3edq02q200i78kh96znyn
+    verified: false
+    hashtags: "#bikini, #instamood, #crew, #hellotomorrow"
   - username: "boonkaewnaree"
     fullname: >-
       Boonmeemagert Kaewnaree J. 陈水铭
     bio: >-
-      นๅยบุญมี มาเกิด เเก้วนารี, Singapore-Thai 🇸🇬🇹🇭 Instagrammer / TikToker / YouTuber 📱 TikTok: 糖果學長 (110K) 📧 For Work: Email/DM YouTubeTV — @boondarerick
+      Singapore-Thai, นๅยบุญมี มาเกิด เเก้วนารี Instagramer | TikToker | YouTuber TikTok: 陈水铭(153K+) YouTubeTV — @boondarerick For Work: jayts-m@hotmail.com
     location: "South Korea"
-    followers: 68915
-    engagement: 212
-    commentsToLikes: 0.045312
+    followers: 75807
+    engagement: 182
+    commentsToLikes: 0.053434
     id: ck6uc3401d7zp0j714ryzyutw
     verified: false
-    hashtags: "#fashion, #instalike, #hypebeast, #warm"
-  - username: "ellgimogi"
-    fullname: >-
-      ellgimogi ❤️ 국제커플
-    bio: >-
-      🇰🇷 / 🇺🇦🇬🇷= (✿ ♡‿♡) 🌼𝓘𝓷𝓽𝓮𝓻𝓷𝓪𝓽𝓲𝓸𝓷𝓪𝓵 𝓬𝓸𝓾𝓹𝓵𝓮🌼 📩촬영문의 DM 💌 📍Youtube ☟ 📍❝Ｓｏｕｔｈ Ｋｏｒｅａ❞ 🎥엘라다&인모 국제 커플 일상♡ 🇰🇷♡ 17/08/2020🔒✈️ #internationalcouple #국제커플
-    location: "South Korea"
-    followers: 3223
-    engagement: 1380
-    commentsToLikes: 0.091797
-    id: ckap5j8k1bxey0i78ubr7zbhe
-    verified: false
-    hashtags: "#koreanfood, #korea, #koreanukrainian, #seoul"
-  - username: "khumor.a"
-    fullname: >-
-      Khumora в Корее 🇰🇷🦋
-    bio: >-
-      Traveling, Shopping & Lifestyle ✨ Мысли в слух 💭 YouTube channel 🎞
-    location: "South Korea"
-    followers: 2938
-    engagement: 1336
-    commentsToLikes: 0.069519
-    id: ck9halnuxczvk0j78q8td5rul
-    verified: false
-    hashtags: "#f4f, #busan, #instagood, #photography"
-  - username: "giiiiiyong"
-    fullname: >-
-      임기용
-    bio: >-
-      GiiiiiYONG PiCK IN TAOBAO = @giiiiick
-    location: "South Korea"
-    followers: 100802
-    engagement: 146
-    commentsToLikes: 0.012369
-    id: ck0u9n6pea7fb0i19m8nwhdop
-    verified: false
-    hashtags: "#wiwt, #bradybag, #ootd, #hideout"
-  - username: "jeaaniya"
-    fullname: >-
-      KOREA | LIFESTYLE | OOTD
-    bio: >-
-      🇫🇷 Frenchy with a Korean soul ✈️ Travel & lifestyle enthusiast 💕 In #longdistancerelationship 🏷 DM for collabs
-    location: "South Korea"
-    followers: 4302
-    engagement: 1869
-    commentsToLikes: 0.089874
-    id: ck8t3kggy3jth0j78noxrifsn
-    verified: false
-    hashtags: "#frenchblogger, #pinktrotters, #travelgirlsgo, #voyageuse"
-  - username: "ginabearsblog"
-    fullname: >-
-      Gina | Latina Traveler
-    bio: >-
-      🇯🇵Moved Abroad to Japan in 2012 📍Now Based in South Korea🇰🇷 🎀 Feminine Lifestyle | Solo Female Travel | Luxury 👇🏼More Travel Guides & Expat Tips
-    location: "South Korea"
-    followers: 43863
-    engagement: 132
-    commentsToLikes: 0.073403
-    id: ck8tahx5wrtvv0j78m48m9pg6
-    verified: false
-    hashtags: "#spookyszn, #harrypotternerd, #harrypotterlove, #13daysofkelloween"
-  - username: "thaisgenaroo"
-    fullname: >-
-      GENARO 제나로
-    bio: >-
-      Youtuber 📹 From São Paulo 🇧🇷 Currently in Seoul 🇰🇷 ⬇️ EU TENHO UM SITE ⬇️
-    location: "South Korea"
-    followers: 139296
-    engagement: 458
-    commentsToLikes: 0.011681
-    id: ck14gti8o6y7u0i19noacm1oo
-    verified: false
-    hashtags: "#cleangangwon, #wellnessgangwon, #safegangwon, #yangyangforeigntaxi"
-  - username: "welcometothepanoptico"
-    fullname: >-
-      세바 ~ (SHIPPO-YO) 📽️
-    bio: >-
-      [국] ing . . [×] S to the N #TRASH [위치] 서울
-    location: "South Korea"
-    followers: 56436
-    engagement: 1357
-    commentsToLikes: 0.011777
-    id: ck5pw4bzyl1bn0i11a94fpj2o
-    verified: false
-    hashtags: "#vsco, #life, #snow, #summer"
+    hashtags: "#instagood, #boy, #koreanfashion, #lifestyle"
   - username: "alannam1"
     fullname: >-
       남훈 Alan Nam
     bio: >-
       Dreamer. #Multibrandstore #CreativeDirector. #Menswear Consultant. #Writer. Contents #Creator. Uncivilized Boy. and ALAN’S.
     location: "South Korea"
-    followers: 26206
-    engagement: 379
-    commentsToLikes: 0.005618
+    followers: 25978
+    engagement: 411
+    commentsToLikes: 0.007520
     id: ck55kafkvyv460i111bta3lsf
     verified: false
-    hashtags: "#alans, #shopalans, #multibrandstore, #seoul"
-  - username: "asuka_pasfit41"
+    hashtags: "#alannam, #creativedirector, #multibrandstore, #shopalans"
+  - username: "feelssoyoung"
     fullname: >-
-      Asuka
+      심소영
     bio: >-
-      🇫🇷 🇰🇷 🇺🇸 우리 그 자체로 빛나 💜
+      소금이🌝🐈 SM C&C
     location: "South Korea"
-    followers: 2343
-    engagement: 1131
-    commentsToLikes: 0.151704
-    id: ck8tcqobo0b3k0j7851hoack0
-    verified: false
-    hashtags: "#fightobesity, #evolution, #teamnonofit, #outfit"
+    followers: 114655
+    engagement: 248
+    commentsToLikes: 0.006641
+    id: ck55k4gd4yfns0i11ivb23qrv
+    verified: true
+    hashtags: "#imincharge, #ioniq, #hyundairestyle, #restyle2020"
 ---

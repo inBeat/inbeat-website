@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Germany in 2023
+title: Top 10 Lifestyle Instagram Influencers In Germany In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Germany in 2023. Most popular hashtags: #carmushka #fashionblogger #blogger #americanstyle.
+  Find top lifestyle Instagram influencers in Germany in 2023. Most popular hashtags: #ootd #verlosung #love #happy.
 platform: Instagram
-hits: 2814
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 2814 Instagram influencers like this in Germany for you to contact.
+hits: 2235
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 2235 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "x_fashiondiaries_x"
+  - username: "teresa.jg"
     fullname: >-
-      Lifestyle
+      Teresa
     bio: >-
-      Upper Austria 🏠 Fashion 👗Healthy Lifestyle 🐮Veggie 🏡Interior🏋️‍♀️#foodspringfamily ❤️ Founder of @fashiondiariesonlineshop
+      daily outfits, beauty & lifestyle🙃 contact: teresa@fab4media.de Germany - Impressum: @fab4media
     location: "Germany"
-    followers: 58597
-    engagement: 195
-    commentsToLikes: 0.251906
-    id: ck55on3vg8p810i11hn65t4u5
+    followers: 96139
+    engagement: 868
+    commentsToLikes: 0.011271
+    id: ck6u19gjzked40j71d5cgv43v
     verified: false
-    hashtags: "#fitness, #fashion, #igersvienna, #boots"
-  - username: "chantal.pe"
+    hashtags: "#azoren, #blonde, #skigirl, #skiing"
+  - username: "oh.hey.nina"
     fullname: >-
-      chantal
+      ♡ NINA ♡
     bio: >-
-      🖤Fashion | Inspo | Lifestyle 📍based in germany | ffm 📩 contact: chantal.pe@gmx.net do more of what makes you happy✨ use: #chantalpe
+      FASHION • OOTD • LIFESTYLE 📍 w ü r z b u r g | Germany Life is about moments - don‘t wait for them - CREATE them! ♥
     location: "Germany"
-    followers: 12631
-    engagement: 2242
-    commentsToLikes: 0.115021
-    id: ck15t3kabg6aa0i19wgtb1i5p
+    followers: 13792
+    engagement: 543
+    commentsToLikes: 0.133250
+    id: ck8ta74syqp8f0j78lxllfyfe
     verified: false
-    hashtags: "#herbstinspo, #sonnenbrille, #girlsinsposupport, #classy"
-  - username: "jacki.byr"
+    hashtags: "#styleblogger, #streetstylefashion, #malediven, #mylookoftheday"
+  - username: "denise.mski"
     fullname: >-
-      Jacki 🍍
+      Denise Mski
     bio: >-
-      FASHION | LIFESTYLE | FITNESS 📍NRW 🧳 Visual Merchandiser ...𝓂𝒶𝓀𝑒 𝒾𝓉 𝒽𝒶𝓅𝓅𝑒𝓃 ✨
+      daily stories • lifestyle • deeptalks • mommy content 22 years | bln city youtube : denise mski ↓ Impressum
     location: "Germany"
-    followers: 5065
-    engagement: 2201
-    commentsToLikes: 0.136230
-    id: ck8t8vsl9m0yx0j7850rvescv
-    verified: false
-    hashtags: "#fashionlover, #fashionaddict, #fashionstyle, #outfitoftheday"
-  - username: "bak_lifestyle"
+    followers: 887693
+    engagement: 838
+    commentsToLikes: 0.057118
+    id: ck5hgfqcv2jb90i11762oj13m
+    verified: true
+    hashtags: "#momtobe, #pregnant, #parentstobe, #babygirl"
+  - username: "offiziellalinebachmann"
     fullname: >-
-      Yvonne
+      💕 Beauty, Inspiration & Lifestyle
     bio: >-
-      ᶠᵃˢʰⁱᵒⁿ 🌸 ᴮᵉᵃᵘᵗʸ 🌸 ᴸⁱᶠᵉˢᵗʸˡᵉ • 👰🏻wifey • 👧🏻mommy • 🇩🇪🇵🇱 • Girl next door 💌 bak_lifestyle@web.de / DM 📍 Bochum , NRW 🌍 Next📍
+      𝒀𝒐𝒖 𝒏𝒆𝒗𝒆𝒓 𝒇𝒂𝒊𝒍 𝒖𝒏𝒕𝒊𝒍 𝒚𝒐𝒖 𝒔𝒕𝒐𝒑 𝒕𝒓𝒚𝒊𝒏𝒈 𝑮𝒊𝒓𝒍 ▫ Beauty, Inspiration & Lifestyle ▫ 📩 collab.alinebachmann@web.de ▫ @impressum_alinebachmann
     location: "Germany"
-    followers: 9463
-    engagement: 1927
-    commentsToLikes: 0.194192
-    id: ck6tp2218hegf0j71wbb5mlvr
-    verified: false
-    hashtags: "#girlssupportgirls, #germanbloggerinspo, #streetstyle, #sunday"
-  - username: "dedalnok"
+    followers: 442979
+    engagement: 310
+    commentsToLikes: 0.089817
+    id: ck5hp73lmqv4x0i11qibdgmes
+    verified: true
+    hashtags: ""
+  - username: "soulfollowsdesign"
     fullname: >-
-      MICHEL DE DÁLNOK 🇭🇺
+      Sori | Soul Follows Design
     bio: >-
-      ADVENTURE • TRAVEL • LIFESTYLE ⍋ Overland & Outdoors enthusiast ⚑ Zürich, Switzerland / Black Forest, Germany
+      • Homestyling & Modern Scandi Interior • Positive Lifestyle 🤍 Loving what is • Blog: soulfollowsdesign.com • Online Shop: @sorikamee
     location: "Germany"
-    followers: 5765
-    engagement: 1757
-    commentsToLikes: 0.129226
-    id: ck14jdnyljtj60i19p5r0cuvv
+    followers: 9456
+    engagement: 312
+    commentsToLikes: 0.121453
+    id: ck14kqp1xqu170i19n0gfwbd4
     verified: false
-    hashtags: "#dolomites, #switzerland, #southtyrol, #myswitzerland"
-  - username: "luisa.kuco"
+    hashtags: "#kr, #wohnzimmerinspo, #myinterior, #gartenideen"
+  - username: "fit.suny84"
     fullname: >-
-      GOOD VIBES ONLY🖤
+      Sara | Darmstadt 🇩🇪 🇵🇱
     bio: >-
-      📍 Freiburg 🇩🇪 💌 luisa.kuri@online.de fashion lover | lifestyle | pug mom
+      🤍 Fitness, Travel, Lifestyle 🔜 Thailand 🇹🇭 ❗️NEW ACCOUNT @ fit.suny 250k gehackt
     location: "Germany"
-    followers: 7344
-    engagement: 1666
-    commentsToLikes: 0.118456
-    id: ckap557kya91x0i78i3ofuiig
+    followers: 129163
+    engagement: 267
+    commentsToLikes: 0.029216
+    id: cl9ofguoykx9b0i23a2drjjgc
     verified: false
-    hashtags: "#carmushka, #puglove, #autumnvibes, #annaix"
-  - username: "kimisdiary"
+    hashtags: "#fitnessgirl, #muskeln, #aufbau, #beach"
+  - username: "uls_andthekids"
     fullname: >-
-      Kimberly
+      Ulli | Interior • Fashion • Lifestyle
     bio: >-
-      FASHION - LIFESTYLE Germany, 25, in love, 🦁 Frenchiemommy 🐶 FOTOGRAFIELIEBE
+      Hello: uls.andthekids@gmail.com Interior | Lifestyle | Fashion Impressum:
     location: "Germany"
-    followers: 5603
-    engagement: 1615
-    commentsToLikes: 0.095759
-    id: ck9hag4hccenj0j78gjk72ym1
+    followers: 65856
+    engagement: 187
+    commentsToLikes: 0.076438
+    id: ck55nuals6zoy0i11ocwl0j65
     verified: false
-    hashtags: "#blondesandcookies, #liebsmaximal, #americanstyle, #blondehair"
-  - username: "tache.de.rousseur"
+    hashtags: "#decohome, #fuchsegg, #plantsofinstagram, #interior"
+  - username: "lifestyle.mom"
     fullname: >-
-      Stephi
+      Sophia Böhm
     bio: >-
-      FASHION | TRAVEL | LIFESTYLE 📍Bamberg, Germany #tachederousseurstyle ✉️ tachederousseur8@gmail.com
+      | Lifestyle | Mom / Family | Creator | Photography
     location: "Germany"
-    followers: 13994
-    engagement: 1359
-    commentsToLikes: 0.169183
-    id: ck14lrvctw6ni0i19qowrqkkh
+    followers: 39954
+    engagement: 170
+    commentsToLikes: 0.060948
+    id: ck0w196phi67q0i19l1vow9gw
     verified: false
-    hashtags: "#ootdstyle, #fashioninspo, #fashionista, #joggerstyle"
-  - username: "marinamxll"
+    hashtags: "#dallmayrkaffee, #dallmayracademy, #wellaflex, #cewe"
+  - username: "_eva_evelin__"
     fullname: >-
-      Marina | Regensburg
+      𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
     bio: >-
-      💌 marinamxll@gmx.de or DM ✨use #marinamxll #fashion #lifestyle #blogger_de
+      ☾ Ger | 25yrs » Snap: evaevelin ♡ @daniel__wiski ⤷ Use #evascommunity ☼ evaevelin.insta@gmail.com ☆ #lifestyle #fashion #travel
     location: "Germany"
-    followers: 12782
-    engagement: 1307
-    commentsToLikes: 0.137327
-    id: ckap4wh7j96yc0i78cq7ah4m4
+    followers: 108338
+    engagement: 154
+    commentsToLikes: 0.184383
+    id: ck8t1xcqjxf2h0j78s5i214ke
     verified: false
-    hashtags: "#styleinspo, #potd, #americanstyle, #fashion"
-  - username: "burakdinc__"
+    hashtags: "#fashion, #inspo, #fashionblogger, #rabattcode"
+  - username: "_dolce__deborina"
     fullname: >-
-      BURAK DINC
+      Deborah
     bio: >-
-      ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢ 📸 #fashion| #fitness| #travel |#lifestyle 📍 Augsburg/Cologne 📩 dinc.burak89@gmail.com 🔐 @me1isim 👇
+      Wifey of @manuel.fiori 🤍 Mum of Luca 👶🏻 Fashion & Lifestyle ✨ 💌 dolcedeborina@hypage.de
     location: "Germany"
-    followers: 10481
-    engagement: 1255
-    commentsToLikes: 0.103265
-    id: ck0u1nqppxf210i19mljrs9l4
+    followers: 119672
+    engagement: 134
+    commentsToLikes: 0.026352
+    id: ck0vuzwlrmwj50i1956i3rv1s
     verified: false
-    hashtags: "#jackandjones, #jjambassador, #advertisement, #pregnancy"
+    hashtags: "#mumlife, #couplegoals, #reelsinstagram, #look"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Austria in 2023
+title: Top 10 Makeup Instagram Influencers In Austria In 2023
 description: >-
-  Find top makeup Instagram influencers in Austria in 2023. Most popular hashtags: #halloweenmakeup #vienna #ootd #austria.
+  Find top makeup Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #makeup #fashion #outfitoftheday.
 platform: Instagram
-hits: 142
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 142 Instagram influencers like this in Austria for you to collaborate.
+hits: 68
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 68 Instagram influencers like this in Austria for you to pitch.
 profiles:
-  - username: "sweetlifefitlife"
+  - username: "sheri_show"
     fullname: >-
-      SweetlifeFitlife
+      Shqlawa
     bio: >-
-      💪 Fit style 🏋️‍♂️ 💄 Makeup Lovers ❤️ 🇵🇱 Poland - Vienna 🇦🇹 📥 Collaboration 📥 sweetlifefitlife@op.pl 📥
+      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
     location: "Austria"
-    followers: 27099
-    engagement: 1980
-    commentsToLikes: 0.106236
-    id: ckaovirdf4q6y0i7802di5s71
+    followers: 61326
+    engagement: 244
+    commentsToLikes: 0.055980
+    id: ck8ta6eejqlzf0j78zskkwc4n
     verified: false
-    hashtags: "#prettywoman, #hermosas, #mondayvibes, #fit"
-  - username: "isabella_leeb_"
+    hashtags: "#vienna, #fashion, #styleblogger, #shein"
+  - username: "natalkadalka"
     fullname: >-
-      🌺 ISABELLA 🌺
+      NataliaS 💕
     bio: >-
-      Hey I‘m Bella💋 🇦🇹 #Austria/#graz 🌺 21 yrs 💌 Cooperation: isabellaleeb@icloud.com #makeup | #fashion | #happy
+      ~Made in Vienna 🇦🇹 Lives in Warsaw 🇵🇱 ~In love with modeling👱🏻‍♀️, makeup💄, fashion👗and travel🌍✈️ ~Wife&Mom 💍👶🏼 For COLLAB 👉🏻 DM📩❤️
     location: "Austria"
-    followers: 175802
-    engagement: 1284
-    commentsToLikes: 0.040878
-    id: ck6ui8a6idmtf0j71cwijzpwz
+    followers: 43663
+    engagement: 276
+    commentsToLikes: 0.060784
+    id: ck0udkzonjf070i19wxahth7l
     verified: false
-    hashtags: "#igersaustria, #fashion, #happy, #quotes"
+    hashtags: "#polskakobieta, #shortdress, #beautyqueen, #angelface"
+  - username: "shadesbynina"
+    fullname: >-
+      nina 🤍 makeup artist
+    bio: >-
+      hi friends! this is me sharing my life with you and doing makeup 🎨☺️ enjoy! • vienna | aut • makeup and creative stuff
+    location: "Austria"
+    followers: 5573
+    engagement: 1138
+    commentsToLikes: 0.087818
+    id: ck8t0ixkis7tt0j7848javd0l
+    verified: false
+    hashtags: "#beginnermakeup, #eyemakeupideas, #eyeart, #abhbrows"
   - username: "model_athraa"
     fullname: >-
       عذراءالـعبيدي||Athraa alobide
     bio: >-
-      🇦🇹Iraqi girl🇮🇶 ((model)) makeup 👩🏻‍🎤🎀 Fase:athraa alobide🔹 للاعلانات دايركت
+      🇦🇹Iraqi girl🇮🇶 ((model)) makeup 🤍 1/10♑️🧸 للاعلانات دايركت
     location: "Austria"
-    followers: 145631
-    engagement: 314
-    commentsToLikes: 0.020826
+    followers: 143571
+    engagement: 286
+    commentsToLikes: 0.021189
     id: ck5zt38v9znuj0i14mrnpvzms
     verified: false
-    hashtags: "#bad, #billieeilish"
-  - username: "shadesbynina"
-    fullname: >-
-      N I N A 🖤 Make-up Artist
-    bio: >-
-      just a girl from vienna who loves drawing on her face 🖌 ——————————— • makeup & creative stuff 🎨 • vienna | austria | 23 • shadesbynina@hotmail.com
-    location: "Austria"
-    followers: 7746
-    engagement: 1096
-    commentsToLikes: 0.076916
-    id: ck8t0ixkis7tt0j7848javd0l
-    verified: false
-    hashtags: "#glittermakeup, #morphebabe, #underratedmuas, #halloweenmakeup2020"
+    hashtags: ""
   - username: "mattioner"
     fullname: >-
       ENIGMA
     bio: >-
-      Mate Szabo® 🇬🇷🇭🇺 |freelance makeup artist | persona Enigma| | mattionermakeup@gmail.com | 📍Vienna Business profile @mateszabomua
+      Mate Szabo® 🇬🇷🇭🇺 | makeup artist | persona Enigma|📍Vienna, Austria
     location: "Austria"
-    followers: 16118
-    engagement: 516
-    commentsToLikes: 0.052687
+    followers: 17215
+    engagement: 774
+    commentsToLikes: 0.049725
     id: ck5hs5l2ow1270i11as5egx90
     verified: false
-    hashtags: "#dragqueen, #dragqueensofinstagram, #makeuptime, #austria"
-  - username: "itsluciealtharwani"
-    fullname: >-
-      𝗟𝗨𝗖𝗜𝗘 | 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗖𝗼𝗮𝗰𝗵
-    bio: >-
-      📍VIE 🇦🇹 / 🇨🇿 ▪️Gym & Makeup ▪️Happy girls are the prettiest🌸 ▪️Certified Personal and Online Coach (📩)
-    location: "Austria"
-    followers: 8472
-    engagement: 273
-    commentsToLikes: 0.071634
-    id: ckapaikb2w95p0i780n1bmlm5
-    verified: false
-    hashtags: "#tbt"
-  - username: "nadjahluchovsky"
-    fullname: >-
-      Make-upArtist-Bodypainter💄🎨
-    bio: >-
-      Based in Vienna - Love being colourful & creative 💋 Mail:info@make-up4u.at Facebook&YouTube : Nadja Hluchovsky #makeup #facepaint #bodypaint #mua
-    location: "Austria"
-    followers: 33965
-    engagement: 89
-    commentsToLikes: 0.064459
-    id: ck5hrx5ayvmq60i11mxx72d7d
-    verified: false
-    hashtags: "#undiscovered, #makeupvienna, #mua, #creativemakeup"
+    hashtags: "#dragmakeup, #welovequeens, #csala, #vienna"
   - username: "adi.hasic"
     fullname: >-
       Adi Hasic
     bio: >-
       Makeup artist- @adihasicmakeup Sarajevo🇧🇦 Perfume lover Fashion obsessed
     location: "Austria"
-    followers: 9030
-    engagement: 580
-    commentsToLikes: 0.022342
+    followers: 10238
+    engagement: 451
+    commentsToLikes: 0.032187
     id: ck5cekt64l6xu0i11ixc6oq90
     verified: false
-    hashtags: "#beardedmen, #preset, #summer, #nature"
-  - username: "philmakeup"
-    fullname: >-
-      Phil makeup
-    bio: >-
-      💄 Makeup 💄 🇦🇹 Austria/near Vienna📍 Contact/PR~ 📧:philmakeup1@gmail.com/ DM 🎥Tiktok:phil_makeup 40k+ ⬇️Youtube ⬇️
-    location: "Austria"
-    followers: 4802
-    engagement: 837
-    commentsToLikes: 0.077781
-    id: ck9wdoqjggkbk0j78onvy9hyp
-    verified: false
-    hashtags: "#boysinmakeup, #tiktok, #wien, #jamescharlespalette"
+    hashtags: "#summer, #sun, #hoscos, #hairy"
   - username: "sarah.stormborn"
     fullname: >-
       Sarah Stormborn
     bio: >-
       💉🇦🇹 medstudent 💋💄makeupaddict 🔮💀⚰🐲vamp/goth/dragonqueen 🃏♠real life-harley quinn use code „sstormborn“ at @newrockaustralia for 10% off 💸
     location: "Austria"
-    followers: 13329
-    engagement: 517
-    commentsToLikes: 0.040850
+    followers: 13235
+    engagement: 445
+    commentsToLikes: 0.041414
     id: ck8t815ukiqas0j7802q56q8b
     verified: false
-    hashtags: "#latexglovesfetish, #cutcreasemakeup, #gothdamnamazing, #gothgirlpics"
+    hashtags: "#nugoth, #halloweencostume, #gothicstyle, #wearekillstar"
+  - username: "olga_sankin"
+    fullname: >-
+      Olga Sankin
+    bio: >-
+      🇰🇿 🇷🇺 Makeup & Opinions 🇩🇪 🇦🇹 Twitter & TikTok: olga_sankin
+    location: "Austria"
+    followers: 33130
+    engagement: 514
+    commentsToLikes: 0.086034
+    id: ckap50rbj9o6q0i78fn3bgc30
+    verified: false
+    hashtags: "#makeuptutorial, #eyeliner, #oljaljas, #makeuplook"
+  - username: "hellinrojda"
+    fullname: >-
+      HÊLLÎN ROJDA
+    bio: >-
+      
+    location: "Austria"
+    followers: 20229
+    engagement: 1440
+    commentsToLikes: 0.054901
+    id: ck9wdkanzg1f50j78zx2huuhl
+    verified: false
+    hashtags: "#peja, #turkey, #photooftheday, #zaraoutfit"
+  - username: "austriasginger"
+    fullname: >-
+      Ｈａｎｎａ Ｎｉｅｄｒｉｓｔ
+    bio: >-
+      made in vienna | 2001 🫐Tiktok: austriasginger [243k+] 🔅Moderatorin [certified] ↘️LATEST VIDEO↙️
+    location: "Austria"
+    followers: 24131
+    engagement: 984
+    commentsToLikes: 0.035980
+    id: ck5c862vp8ufb0i11svc3daw5
+    verified: false
+    hashtags: "#makeup, #sky, #trip, #greece"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Chile in 2023
+title: Top 10 Gaming TikTok Influencers In Chile In 2023
 description: >-
-  Find top gaming TikTok influencers in Chile in 2023. Most popular hashtags: #parati #chile #viral #foryou.
+  Find top gaming TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #parati #viral #foryou.
 platform: TikTok
-hits: 26
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat has 26 TikTok influencers like this in Chile for you to pitch.
+hits: 12
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in Chile for you to collaborate.
 profiles:
-  - username: "_kick_buttowsky"
-    fullname: >-
-      Jutrooll↖️
-    bio: >-
-      ✌️❤️Kick
-    location: "Chile"
-    followers: 85900
-    engagement: 1610
-    commentsToLikes: 0.075681
-    id: ckdi8hgjtaytn0j23icutxh4r
-    verified: false
-    hashtags: "#foryoupage, #tienelacara, #foryou, #gamingmovil"
-  - username: "31dieg"
-    fullname: >-
-      31_dieg Gaming
-    bio: >-
-      Hola ahora que estás aquí me puedes seguir casi llegamos a los 33k👀
-    location: "Chile"
-    followers: 35400
-    engagement: 1097
-    commentsToLikes: 0.150814
-    id: cka7nxy80z7o90i78sq2zmb7g
-    verified: false
-    hashtags: "#follow, #ayuda, #gaming, #fortnitemares2020"
   - username: "series_detuinfancia"
     fullname: >-
       series de tu infancia
     bio: >-
       Gracias por todo su apoyo! aqui hay series de tu infancia ya seas otaku o no
     location: "Chile"
-    followers: 35300
-    engagement: 1656
-    commentsToLikes: 0.035038
+    followers: 34700
+    engagement: 1704
+    commentsToLikes: 0.030879
     id: ckcpby1kkfdo10j23w1apd6s9
     verified: false
-    hashtags: "#disneyxd, #parodia, #2020, #infanciafeliz"
-  - username: "carlaaaaac"
-    fullname: >-
-      carla
-    bio: >-
-      
-    location: "Chile"
-    followers: 1051
-    engagement: 2422
-    commentsToLikes: 0.006527
-    id: ckb97k1pcqc6w0j23o5xkanzn
-    verified: false
-    hashtags: "#foryou, #chile, #paratiii, #fyp"
-  - username: "strelka20k"
-    fullname: >-
-      STRELKA
-    bio: >-
-      SI NO TE VAS CONTENTO ME CORTO UN COCO
-    location: "Chile"
-    followers: 39500
-    engagement: 1062
-    commentsToLikes: 0.039205
-    id: ckdhhm7xyy5uq0j23mws79og3
-    verified: false
-    hashtags: "#argentina, #dest, #virales, #xyzcba"
-  - username: "counterstrike1999"
-    fullname: >-
-      Counter Strike
-    bio: >-
-      Classic counter strike game IP. 131.221.35.51:27030 IP. 131.221.35.51:5403
-    location: "Chile"
-    followers: 3560
-    engagement: 787
-    commentsToLikes: 0.028524
-    id: cka0g3g0u2d320i78rf6rzpm8
-    verified: false
-    hashtags: "#gamer, #valve, #oldschool, #egame"
+    hashtags: "#random, #series, #detuinfancia, #disneyxd"
   - username: "sofistica.s"
     fullname: >-
       Sofistica
     bio: >-
       Instagrams: @benkra.uwu @sofistica.s
     location: "Chile"
-    followers: 36500
-    engagement: 1800
-    commentsToLikes: 0.015593
+    followers: 36600
+    engagement: 1780
+    commentsToLikes: 0.015327
     id: ckbq56hgfrju70j23kaf3ahh9
     verified: false
-    hashtags: "#memes, #foryou, #couple, #goals"
+    hashtags: "#foryou, #comedia, #tiktokchile, #couple"
   - username: "edgezit0"
     fullname: >-
       Edgezit0
     bio: >-
       Quizas vuevla¿ Sigueme en insta ☝🏻 ¿40k?💥
     location: "Chile"
-    followers: 32700
-    engagement: 2204
-    commentsToLikes: 0.143340
+    followers: 32000
+    engagement: 2117
+    commentsToLikes: 0.075497
     id: ckb9ab8rkva2t0j23vk50lujr
     verified: false
-    hashtags: "#ceoschile, #greenscreen, #fyp, #parati"
-  - username: "wanderpein"
+    hashtags: "#parati, #viral, #humor, #foryoupage"
+  - username: "karenmacarena48"
     fullname: >-
-      Wanderpein
+      Karen Macarena
     bio: >-
-      ✨✨✨ 🐦 Twitter: @wanderpein
+      
     location: "Chile"
-    followers: 34300
-    engagement: 1315
-    commentsToLikes: 0.095219
-    id: ckbfcynia60mx0j23f2i6tq0f
+    followers: 4082
+    engagement: 4245
+    commentsToLikes: 0.031751
+    id: ckcpsf8cwmo930j23stwu8daz
     verified: false
-    hashtags: "#humor, #tiktokencasa, #chile, #comedia"
-  - username: "sebavergara"
+    hashtags: "#tens, #te, #teamo, #quien"
+  - username: "idk.maxximo2"
     fullname: >-
-      Sebastián Vergara ✨
+      its.said
     bio: >-
-      ~No pares de sonreír~ contactosebavergara@gmail.com 📩 ID free / 1849071820
+      
     location: "Chile"
-    followers: 452500
-    engagement: 2309
-    commentsToLikes: 0.012425
-    id: ckbq7icoqtpp40j23rgigpo2c
+    followers: 3450
+    engagement: 2871
+    commentsToLikes: 0.066617
+    id: ckbbumm37i14n0j232htv8qyt
     verified: false
-    hashtags: "#trend, #freefire, #parati, #chile"
+    hashtags: "#foryoupage, #parati, #fyp, #graciastrabajadoresdetiktokporponermeenparati"
+  - username: "sxfi_ortega"
+    fullname: >-
+      Sofii
+    bio: >-
+      Sofii She/Her/Ella 🇨🇱🏳️‍🌈💚💜 15
+    location: "Chile"
+    followers: 25200
+    engagement: 1629
+    commentsToLikes: 0.037806
+    id: ckc7th8n3xvif0j23o5a4616z
+    verified: false
+    hashtags: "#anime, #lgbt, #trend, #xyzbca"
+  - username: "aquitapark23"
+    fullname: >-
+      Cristobal 🗿✨
+    bio: >-
+      🍫👄🍫
+    location: "Chile"
+    followers: 56300
+    engagement: 1625
+    commentsToLikes: 0.039813
+    id: ck9gpc5xz4hb00j78syhqefvl
+    verified: false
+    hashtags: "#4y, #fyp, #viralthis, #foryou"
+  - username: "cisca_115211"
+    fullname: >-
+      👑🌷~CISCA_115211~🌷👑
+    bio: >-
+      Soy una fan de privé y me gusta mucho hacer tik tok y sigan me en ista🌷🌷🌷
+    location: "Chile"
+    followers: 13700
+    engagement: 1917
+    commentsToLikes: 0.027886
+    id: ckbewv7ivgoge0j23v7vu2aq7
+    verified: false
+    hashtags: "#baile, #pov, #ops, #amor"
+  - username: "xinfinitae"
+    fullname: >-
+      花生
+    bio: >-
+      ✨she/her✨ Subo videos de vez en cuando
+    location: "Chile"
+    followers: 6741
+    engagement: 1485
+    commentsToLikes: 0.031075
+    id: ckbas5gxliqne0j23ko5oaq3q
+    verified: false
+    hashtags: "#anime, #parati, #fyp, #foryou"
+  - username: "sagmdfbb"
+    fullname: >-
+      nosoyyo
+    bio: >-
+      Me pasan puras weas, sígueme en insta po tqm
+    location: "Chile"
+    followers: 15300
+    engagement: 1159
+    commentsToLikes: 0.021350
+    id: ckc1qr8spv0ur0j23zam24fdn
+    verified: false
+    hashtags: "#storytime, #viral, #xyzbca, #chile"
 ---

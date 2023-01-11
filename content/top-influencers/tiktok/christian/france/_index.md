@@ -1,84 +1,96 @@
 ---
-title: Top 10 Christian TikTok Influencers In France in 2023
+title: Top 10 Christian TikTok Influencers In France In 2023
 description: >-
-  Find top christian TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #duo #love.
+  Find top christian TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #humour #fyp.
 platform: TikTok
-hits: 32
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 32 TikTok influencers like this in France for you to contact.
+hits: 34
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 34 TikTok influencers like this in France for you to connect with.
 profiles:
-  - username: "sarai_riou"
+  - username: "christiantido"
     fullname: >-
-      sarai_riou
+      Christian Tido ⚡️
     bio: >-
-      19 ✝️ Réseaux dans mon linktree ⬇️⬇️⬇️
+      Why don’t you follow? 😰 “christiantido” 10%off⬇️
     location: "France"
-    followers: 117200
-    engagement: 1296
-    commentsToLikes: 0.032927
+    followers: 72900
+    engagement: 1529
+    commentsToLikes: 0.026318
+    id: ckcirmrx0y3oq0j23u7v18qqx
+    verified: false
+    hashtags: "#pourtoi, #weeb, #anime, #manga"
+  - username: "princesse.de.l.eternel"
+    fullname: >-
+      Saraï 🥰
+    bio: >-
+      20 ✝️ Réseaux dans mon linktree ⬇️⬇️⬇️
+    location: "France"
+    followers: 117100
+    engagement: 661
+    commentsToLikes: 0.033879
     id: ck81qvabik5ue0j785wd82xjr
     verified: false
-    hashtags: ""
-  - username: "zeytooun"
+    hashtags: "#chretien, #christiantiktok, #chretienne, #dieu"
+  - username: "ye_.zi"
     fullname: >-
-      Disciple de Dieu
+      예지
     bio: >-
-      ✨ JÉSUS FIRST ✨ Ambassadeur de @elevated_cross (insta) Suis moi sur instagram ⏬
+      YE-ZI 예지 🇰🇷&🇫🇷 (혼혈) Suis moi sur insta !
     location: "France"
-    followers: 108900
-    engagement: 1275
-    commentsToLikes: 0.153892
-    id: ckavclmh2kgua0j23gnukodp1
+    followers: 124500
+    engagement: 1952
+    commentsToLikes: 0.021423
+    id: ck904vg1nelvj0j784mnwr4sk
     verified: false
-    hashtags: "#reponseauxcomms, #chretien, #jesus, #jesuschrist"
-  - username: "rusalka77"
+    hashtags: "#tuto, #coreedusud, #kpop, #humour"
+  - username: "benoit.bezot"
     fullname: >-
-      rusalka77
+      ꧁𝒮𝒾𝓁𝓋𝑔𝓇𝑒𝑒𝓃꧂
     bio: >-
-      𝔄𝔯𝔱, 𝔪𝔲𝔰𝔦𝔠, 𝔞𝔫𝔡 𝔪𝔢𝔪𝔢𝔰. 🥀 Jojo ruined me Instagram: ru.sa.lka
+      𝑆𝐿𝑌𝑇𝐻𝐸𝑅𝐼𝑁 𝒱𝒾𝓀𝓉𝑜𝓇♥ ➵𝙰𝚖𝚒𝚎𝚗𝚜
     location: "France"
-    followers: 14500
-    engagement: 1994
-    commentsToLikes: 0.022439
-    id: ckb9bfaxhxhkx0j23n4sb1d17
+    followers: 60100
+    engagement: 2558
+    commentsToLikes: 0.029848
+    id: ckdt1hyzrrw580j231b6use5x
     verified: false
-    hashtags: "#lesbian, #cursed, #cursedmeme, #4u"
-  - username: "unmecjaune"
+    hashtags: "#serpentard, #harrypotter, #potterhead, #slytherin"
+  - username: "camzwer"
     fullname: >-
-      Dymi
+      Camzer
     bio: >-
-      suivez-moi si vous l'osez ! on monte aux 5k doucement mais sûrement les potes
+      
     location: "France"
-    followers: 3281
-    engagement: 1064
-    commentsToLikes: 0.101382
-    id: ckbf94n8lzy280j23kfrwnodt
+    followers: 12700
+    engagement: 551
+    commentsToLikes: 0.070833
+    id: ckai0hpv27qsh0i78frt6oe09
     verified: false
-    hashtags: "#acteur, #hxh, #drole, #acting"
-  - username: "mathildecmr"
+    hashtags: "#maquillage, #luxury, #inspiration, #dress"
+  - username: "petitunivers2chloe"
     fullname: >-
-      Mathilde Cmr
+      petitunivers2chloe
     bio: >-
-      Jésus Christ ou rien ✝️ Je vous aime mais Christ plus que moi ☺️❤️
+      34k de love sur insta @petitunivers2chloe Infirmiere,humour et émotion
     location: "France"
-    followers: 33900
-    engagement: 1601
-    commentsToLikes: 0.020036
-    id: cka0mdvnuuvg50i784mpysvfe
+    followers: 8690
+    engagement: 1009
+    commentsToLikes: 0.237077
+    id: ckd69kx5v42wg0j238610jlcq
     verified: false
-    hashtags: "#foryou, #fyp, #jesus, #bible"
+    hashtags: "#foryou, #pinuplook, #foryoupage, #acting"
   - username: "mllemilleet1couleurs"
     fullname: >-
       Une fille simple
     bio: >-
       Believer 🤲🏻
     location: "France"
-    followers: 22900
-    engagement: 974
-    commentsToLikes: 0.178726
+    followers: 23500
+    engagement: 964
+    commentsToLikes: 0.139070
     id: ckcpa9yqrepqv0j23a11xuos1
     verified: false
-    hashtags: "#pourtoi, #reponse, #homme, #duo"
+    hashtags: "#muslim, #foryou, #pourtoi, #love"
   - username: "latino_kabyle"
     fullname: >-
       Nas
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.052949
     id: cka0hjtr99kla0i789wjybp27
     verified: false
-    hashtags: "#fitness, #arab, #menstyle, #tiktok"
-  - username: "allocine"
-    fullname: >-
-      AlloCiné
-    bio: >-
-      Ne restez pas simple spectateur. 🍿 #horaires #trailers #cinema #serie
-    location: "France"
-    followers: 528700
-    engagement: 1465
-    commentsToLikes: 0.006567
-    id: ck999tza7ef2f0j78go481vsk
-    verified: true
-    hashtags: "#fauxraccord, #micheletmichel, #cinema, #pierreniney"
-  - username: "worldofcynthi_"
-    fullname: >-
-      Worldofcynthi_
-    bio: >-
-      I love this app a little more every day This is where the fun stuff happen 😘
-    location: "France"
-    followers: 18900
-    engagement: 568
-    commentsToLikes: 0.099143
-    id: ckbf45m9hsbzd0j232nmbi69h
-    verified: false
-    hashtags: "#pourtoi, #tiktokfrance, #klausmikaelson, #tvdposts"
+    hashtags: "#pourtoi, #bodypositive, #musculation, #instagram"
   - username: "_childoflord_"
     fullname: >-
       _childoflord_
     bio: >-
       AFRICA TO THE WORLD🌍 CHAÎNE YOUTUBE : ZIA SL Instagram: @_childoflord_
     location: "France"
-    followers: 43800
-    engagement: 1497
-    commentsToLikes: 0.013239
+    followers: 45900
+    engagement: 1399
+    commentsToLikes: 0.013292
     id: ckad46bminzwe0i78v4b2knte
     verified: false
-    hashtags: "#onfleek, #getback, #selflove, #viral"
+    hashtags: "#friends, #ootd, #chr, #gospel"
+  - username: "darkfils38"
+    fullname: >-
+      darkfils38
+    bio: >-
+      
+    location: "France"
+    followers: 3502
+    engagement: 515
+    commentsToLikes: 0.003030
+    id: ckb9kfdexc5u70j23ro3wd8px
+    verified: false
+    hashtags: "#fortnite, #xdd, #2020, #tiktokindia"
 ---

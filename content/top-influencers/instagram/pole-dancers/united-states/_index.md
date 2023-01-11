@@ -1,12 +1,36 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In United States in 2023
+title: Top 10 Pole Dancers Instagram Influencers In United States In 2023
 description: >-
-  Find top pole dancers Instagram influencers in United States in 2023. Most popular hashtags: #poledancer #poledance #flexibility.
+  Find top pole dancers Instagram influencers in United States in 2023. Most popular hashtags: #fitness #poledancer #poledance.
 platform: Instagram
-hits: 150
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 150 Instagram influencers like this in United States for you to work with.
+hits: 201
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 201 Instagram influencers like this in United States for you to contact.
 profiles:
+  - username: "marymargonzalez"
+    fullname: >-
+      Maria Del Mar
+    bio: >-
+      Actress / Pole Dancer / Lifter / Fitness Instructor Legit: Prestige Management NYC Commercial: @a3artistsagency 🇵🇷 Boricua based in NYC 📍
+    location: "United States"
+    followers: 36314
+    engagement: 1219
+    commentsToLikes: 0.026346
+    id: ck0uelcolll6s0i1967pwwwht
+    verified: false
+    hashtags: "#milakrasna, #boudoir, #girlswholift, #weightlifting"
+  - username: "nicolepeachyy"
+    fullname: >-
+      Nicole 🍑
+    bio: >-
+      Pole Dancer 💃🏻 Gamer 🎮 Environmentalist 💚 Second Account @nicolepeachy1 ✨ Business: nicolestream@gmail.com
+    location: "United States"
+    followers: 57836
+    engagement: 854
+    commentsToLikes: 0.017793
+    id: ck8t64yy4c81i0j78np490owt
+    verified: false
+    hashtags: "#twitchgamer, #twitch, #meow, #gaming"
   - username: "pieceofcakeee_"
     fullname: >-
       cherry🍒jayne
@@ -18,31 +42,31 @@ profiles:
     commentsToLikes: 0.111517
     id: ck6ua2f8513nq0j71jn7fzd7e
     verified: false
-    hashtags: "#giveaway, #free, #giveaways, #contest"
-  - username: "shar_zayn"
+    hashtags: "#giveaways, #contest, #sweetvibrations, #giveaway"
+  - username: "veganghost"
     fullname: >-
-      𝑆𝐻𝐸-𝐻𝑈𝐿𝐾 🇵🇷 🇨🇺🇪🇸🔥
+      Sophie N
     bio: >-
-      Feature entertainer/ Showgirl /performance Exotic Poledancer / Fitness enthusiastic Aerial Performer Awaken awareness Awards Winner 📍 Miami,FL
+      📍Ireland 22 y/o vintage shop owner, pole dancer and vegan Vintage Shop ➡️ @apparitionvintage
     location: "United States"
-    followers: 110643
-    engagement: 633
-    commentsToLikes: 0.038915
-    id: ck5q6yvnnzc3n0i11g8ey5284
+    followers: 82978
+    engagement: 411
+    commentsToLikes: 0.013016
+    id: ck0ubyfjcfm8h0i19v6v85iyf
     verified: false
-    hashtags: "#ignation, #booty, #sexy, #fitness"
+    hashtags: "#aestheticpale, #tumblroutfit, #sustainablefashion, #90soutfits"
   - username: "acrodave"
     fullname: >-
       Davide Zongoli
     bio: >-
-      Poledancer•aerialist•dancer• @atomicsaloonshow artist• PayPal/Venmo/CashApp: ACRODAVEXXX 📍LAS VEGAS📍 🇬🇧🇪🇸🇮🇹
+      Poledancer•aerialist•dancer• @atomicsaloonshow artist• PayPal/Venmo/CashApp: ACRODAVEXXX 📍LAS VEGAS📍 🇬🇧🇪🇸🇮🇹 👨🏼‍🤝‍👨🏿@mrjebfit
     location: "United States"
-    followers: 354120
-    engagement: 404
-    commentsToLikes: 0.020825
+    followers: 360308
+    engagement: 371
+    commentsToLikes: 0.020124
     id: ck0vyhe8g409l0i197i2j8zp6
     verified: true
-    hashtags: "#artist, #sexy, #andrewchristian, #poledancer"
+    hashtags: "#acrodave, #instamusclehot, #men, #poledancer"
   - username: "seansellek"
     fullname: >-
       Sean Sellek
@@ -61,70 +85,46 @@ profiles:
     bio: >-
       LV based Competitive Pole Dancer 💃🏼 Flexibility Coach🧘🏻‍♂️ PBA Member🎳 Quadrilingual 🇺🇸🇪🇸🇮🇹🇧🇷@poledancersofinstagram @lasvegaspolecamp
     location: "United States"
-    followers: 57217
-    engagement: 130
-    commentsToLikes: 0.039452
+    followers: 56730
+    engagement: 84
+    commentsToLikes: 0.052370
     id: ck5c6luvd5pi00i11iqbuioeh
     verified: false
-    hashtags: "#malepoledancer, #grindr, #gaymanproblems, #gayboston"
+    hashtags: "#jockstrap, #hanstand, #sunset, #gayathlete"
+  - username: "theonlybadasscoco"
+    fullname: >-
+      Artist of many traits
+    bio: >-
+      Artist👩🏻‍🎨 Pole Dancer💃🏻🤸🏻‍♀️ Creative💡📸🎬👗📝 🇩🇪 📍 Los Angeles
+    location: "United States"
+    followers: 17807
+    engagement: 376
+    commentsToLikes: 0.043134
+    id: ck5c7x1mr8crv0i11fzl6sn6d
+    verified: false
+    hashtags: "#artbykaro, #artist, #photoshootideas, #shotoniphone"
   - username: "russian.r3d"
     fullname: >-
       Jessica Bogdanov
     bio: >-
       •| Pole Dancer •| Hand Balancer •| Former Rhythmic Gymnast •| 2015 Street Workout World Champion •| @wilhelminamodels
     location: "United States"
-    followers: 165578
-    engagement: 661
-    commentsToLikes: 0.023028
+    followers: 163353
+    engagement: 643
+    commentsToLikes: 0.023034
     id: ck55lhhum1kw60i11pull8qzf
     verified: false
-    hashtags: "#blackouttuesday, #theweeknd"
-  - username: "kelelah"
+    hashtags: "#theweeknd, #blackouttuesday"
+  - username: "shar_zayn"
     fullname: >-
-      Kelelah
+      𝑆𝐻𝐸-𝐻𝑈𝐿𝐾 🇵🇷 🇨🇺🇪🇸🔥
     bio: >-
-      Yoga teacher, pole dancer- fitness, creator, explorer expressive art @audriasana
+      I AM ENERGY 🧿1222🧿 ENTERTAINER OF THE YEAR 2021 @ed_publications Pole enthusiastic Aerial performance Professional Exotic Poledancer 📍 Miami,FL
     location: "United States"
-    followers: 17469
-    engagement: 670
-    commentsToLikes: 0.061891
-    id: ck5chx6tsrmjl0i11ij0yu4vk
+    followers: 249730
+    engagement: 297
+    commentsToLikes: 0.042064
+    id: ck5q6yvnnzc3n0i11g8ey5284
     verified: false
-    hashtags: "#staycalm, #stayhome, #childabuseprevention, #earthday"
-  - username: "thewitchofwonderlust"
-    fullname: >-
-      Olivia Graves
-    bio: >-
-      Tales of tea & travels☕️ Photographer. Pole dancer. Practitioner. 📍Currently lurking in Colorado
-    location: "United States"
-    followers: 63621
-    engagement: 780
-    commentsToLikes: 0.019589
-    id: ckaoz3v6xk9440i780q7rfc99
-    verified: false
-    hashtags: "#divination, #california, #witchy, #hex"
-  - username: "jazzykpole"
-    fullname: >-
-      J Λ Z Z Y   K
-    bio: >-
-      🏆 Exotic Pole Dancer 👩🏼‍🎓 FRCms / FRAs / Fitness Professional 👠 Sponsored Artist by @pole_junkie 📍 @gravityartsdc 🇨🇭 🔥 Tutorials on @indipoleapp and:
-    location: "United States"
-    followers: 32066
-    engagement: 302
-    commentsToLikes: 0.036361
-    id: ck5ca34declrc0i118rwom9mi
-    verified: false
-    hashtags: "#poledancer, #pleasershoes, #unitedbysexy, #poledancing"
-  - username: "adriaerialpole"
-    fullname: >-
-      Adriana
-    bio: >-
-      🦄 Poledancer, aerialist & handbalancer. 👯‍♀️Co-founder @ariapole #goddessestribe @beflexyworkout
-    location: "United States"
-    followers: 8815
-    engagement: 480
-    commentsToLikes: 0.065134
-    id: ck6u2ko2hsczc0j717w0at3wj
-    verified: false
-    hashtags: "#beflexy, #fitnessmotivation, #energiafemenina, #beyourself"
+    hashtags: "#shehulk, #massage, #miami, #sharzayn"
 ---

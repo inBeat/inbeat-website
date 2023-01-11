@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Greece in 2023
+title: Top 10 Nail Artists Instagram Influencers In Greece In 2023
 description: >-
-  Find top nail artists Instagram influencers in Greece in 2023. Most popular hashtags: #greece #nailsofinstagram #nails #love.
+  Find top nail artists Instagram influencers in Greece in 2023. Most popular hashtags: #greece #nailsofinstagram #beauty #nails.
 platform: Instagram
-hits: 14
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 14 Instagram influencers like this in Greece for you to work with.
+hits: 11
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 11 Instagram influencers like this in Greece for you to collaborate.
 profiles:
+  - username: "_bella_mary"
+    fullname: >-
+      𝑩𝒆𝒍𝒍𝒂𝑴𝒂𝒓𝒚 🌺 📍Αthens Greece
+    bio: >-
+      🌺Beauty Expert/Μakeup Artist/NailArtist 💄Beauty Tips,Secrets,Review 📧ampapadak@gmail.com 🔻MY NEW YOUTUBE VIDEO🔻
+    location: "Greece"
+    followers: 10875
+    engagement: 683
+    commentsToLikes: 0.561803
+    id: ckap4zf0b9hzd0i78kgfz6a8e
+    verified: false
+    hashtags: "#instablogger, #bellamary, #psichogiosbooks, #goodvibes"
   - username: "melina_desaki"
     fullname: >-
-      Melina | Desaki💋🎧
+      Maraki❤
     bio: >-
-      🌍• #travellover ✈⛴🚄 🤸‍♀️• #fitness #trx ❤ 💅• #nailartist #educator 👩‍🎨 📍• #athensgreece 🇬🇷 🍣• #sushi #lovefood 🎧• #deephousechillout
+      🌍• Travels _my bigger love ✈ 🤸‍♀️• fitness_ tennis_golf❤ 👩‍⚕️•Radiotherapist _Radiologist 💅•Nailartist educator 📍•Athens🇬🇷 🍣•Sushi 🎧•Deep house
     location: "Greece"
-    followers: 8150
-    engagement: 1115
-    commentsToLikes: 0.009304
+    followers: 8248
+    engagement: 1297
+    commentsToLikes: 0.037267
     id: ck15qh19u2suh0i19rovxqjaq
     verified: false
-    hashtags: "#sky, #summersun, #sun, #instaphoto"
+    hashtags: "#wine, #thankful, #instagram, #instamonkey"
   - username: "vesna_panariti"
     fullname: >-
       Vesna Panariti
     bio: >-
       Artist, Interior designer, Nail art designer Athens - Greece
     location: "Greece"
-    followers: 5793
-    engagement: 262
-    commentsToLikes: 0.028625
+    followers: 6553
+    engagement: 331
+    commentsToLikes: 0.038418
     id: ckf5qxfugapru0j23qmi2k8hw
     verified: false
-    hashtags: "#nailsmaster, #romanticnails, #aquarellenails, #nailsofgreece"
-  - username: "tonia.koumpa"
-    fullname: >-
-      Tonia Koumpa ft Instahusband 🧿
-    bio: >-
-      📺 TV Hostess 🦁 #instahusband @madeinath 🎥 YouTube Channel: Tonia Koumpa
-    location: "Greece"
-    followers: 25582
-    engagement: 465
-    commentsToLikes: 0.026094
-    id: ck8svsp54cju30j78dtu3j18x
-    verified: false
-    hashtags: "#nailsofinstagram, #eisaiopen, #birthdaygirl, #nailexpert"
-  - username: "eskenazisara"
-    fullname: >-
-      Sara Eskenazi
-    bio: >-
-      •Actress/Ηθοποιός •Official profile καταστήματος @Sarashop.gr •E-mail: eskenazi.gr@gmail.com
-    location: "Greece"
-    followers: 140781
-    engagement: 447
-    commentsToLikes: 0.034315
-    id: ck5pvib21i0f00i11q6gt46bs
-    verified: false
-    hashtags: "#vacations, #love, #stayhome, #greece"
-  - username: "lia.agapitou"
-    fullname: >-
-      Lia Agapitou (λια Αγαπητου)💎💎💎
-    bio: >-
-      inactive 💎 unemployed secular 🦋 celebrity ⭐️ influencer 💥♥️
-    location: "Greece"
-    followers: 38399
-    engagement: 847
-    commentsToLikes: 0.032662
-    id: ckapa1q2ducyw0i784g4bwvf8
-    verified: false
-    hashtags: "#lockdown2020, #liaagapitou, #lockdown, #newyork"
+    hashtags: "#nailsofinstagram, #onlinecourse, #nailsofgreece, #nailsmaster"
   - username: "mariavinails"
     fullname: >-
       nails • art
     bio: >-
-      ▫️Athens / GR ▫️@the_gelbottle_inc brand ambassador ▫️for collaborations DM me
+      ☁️ Athens/ GR based nail tech ☁️ @the_gelbottle_inc brand ambassador ☁️ open for collaborations
     location: "Greece"
-    followers: 29344
-    engagement: 828
-    commentsToLikes: 0.016653
+    followers: 41646
+    engagement: 1412
+    commentsToLikes: 0.006816
     id: ck6uacnpc2t890j719ne3zf8k
     verified: false
-    hashtags: "#glitternails, #almondnails, #minimal, #clearnails"
-  - username: "maraglina88"
+    hashtags: "#gelmani, #hypenails, #longnails, #athens"
+  - username: "tonia.koumpa"
     fullname: >-
-      Lina Maragos
+      Tonia Koumpa 🧿
     bio: >-
-      💎 Export & social manager 😘 💎BOLSIUS κερια: @bolsius.candles send dm 💎 Estetica donna: #naturalcosmetics Send dm for orders 💎 #linablogonly
+      📺 TV Hostess 🎙 [ex] Radio Producer 🦁 #instahusband @madeinath
     location: "Greece"
-    followers: 9605
-    engagement: 1863
-    commentsToLikes: 1.182076
-    id: ckap50jdu9n510i78kqyetyzm
+    followers: 25221
+    engagement: 437
+    commentsToLikes: 0.160769
+    id: ck8svsp54cju30j78dtu3j18x
     verified: false
-    hashtags: "#takepart, #babygirl, #linablogonly, #greekblogger"
-  - username: "giota_reggina"
-    fullname: >-
-      Γιώτα Ρεγγίνα
-    bio: >-
-      💆🏻‍♀️💅Co-owner @best4youskg 💅💇🏻 🎤Greek Singer Artist 💍Fashion - Shopping 💋Made in Thessaloniki , Greece
-    location: "Greece"
-    followers: 28129
-    engagement: 533
-    commentsToLikes: 0.938693
-    id: ck55p8xa6a2680i11c9vjyxrc
-    verified: false
-    hashtags: "#instapic, #quarantine, #home, #best4you"
+    hashtags: "#toniakoumpa, #beauty, #makeupideas, #potd"
   - username: "black_velour"
     fullname: >-
       B L A C K   V E L O U R
     bio: >-
       ▫️NAIL ARTIST💅🏾 ▫️YOUTUBER🎥 👨🏼‍💻@dimitriskourakos 🐱&🐶@thevelourians 💅🏾#blackvelournails 👇🏼ΝΕΟ ΒΙΝΤΕΟ
     location: "Greece"
-    followers: 54380
-    engagement: 1123
-    commentsToLikes: 0.005324
+    followers: 54913
+    engagement: 1712
+    commentsToLikes: 0.447637
     id: ck13a5xunorwc0i19hc5fde23
     verified: false
-    hashtags: "#blackhair, #lifo, #athens, #nailstyle"
-  - username: "ele__eleni"
+    hashtags: "#nailstyle, #manicure, #nails, #makeup"
+  - username: "sharkkana"
     fullname: >-
-      ελένη _ 
+      Sharkkana
     bio: >-
-      𝓵𝓲𝓯𝓮 𝓲𝓼 𝓷𝓸𝓽 𝓽𝓱𝓪𝓽 𝔂𝓸𝓾 𝔀𝓲𝓵𝓵 𝓼𝓾𝓻𝓿𝓲𝓿𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓼𝓽𝓸𝓻𝓶 𝓫𝓾𝓽 𝓽𝓱𝓪𝓽 𝔂𝓸𝓾 𝔀𝓲𝓵𝓵 𝓼𝓽𝓪𝔂 𝓲𝓷 𝓽𝓱𝓮 𝓻𝓪𝓲𝓷!!! 📍🇬🇪 🇬🇷 . . . Admin: @coffeelicious_akrotiriou_15 F/A @nail_s84
+      Founder of @sharkkini 1/2 of @chamu.world 🌐 Artist Manager and Creative. sharkkana@gmail.com
     location: "Greece"
-    followers: 4068
-    engagement: 1355
-    commentsToLikes: 0.100666
-    id: ck9hbuxfwik530j785qyowgu4
+    followers: 5542
+    engagement: 1517
+    commentsToLikes: 0.054083
+    id: ck5pxdj8kr9p70i11u8a0t1nq
     verified: false
-    hashtags: "#beachsnreshots, #kings, #summer, #vintage"
+    hashtags: ""
+  - username: "thodorisgionis"
+    fullname: >-
+      thodorisgionis
+    bio: >-
+      •Θ Salon Glyfada,A.Metaxa St 24-26 ☎️2167000462 •Θ Salon Syntagma,Ermou St 34 ☎️2111151938 •Barbiere,A.Metaxa St 24-26 ☎️2111113724 📲6974718914
+    location: "Greece"
+    followers: 45266
+    engagement: 248
+    commentsToLikes: 0.003192
+    id: ck5chpw0nr8jz0i11zalsg65f
+    verified: false
+    hashtags: "#blonde, #illuminage, #staysafe, #chic"
+  - username: "mary__linnn"
+    fullname: >-
+      Mary Linn🎤 official
+    bio: >-
+      𝙰𝚛𝚝𝚒𝚜𝚝 / 𝚂𝚒𝚗𝚐𝚎𝚛 @sheinofficial code 𝟭𝟵𝗺𝗮𝗿𝘆𝗟𝟭𝟱 for 15% off ❤️ 🎼 "Μου Γελάς" | @spicymusic_official DM 📩 for Collaboration |
+    location: "Greece"
+    followers: 42349
+    engagement: 766
+    commentsToLikes: 1.108621
+    id: ck5q417s1na8i0i11pvmamkw3
+    verified: false
+    hashtags: "#athletic, #ootd, #glyfada, #ootdfashion"
+  - username: "lia.agapitou"
+    fullname: >-
+      Lia Agapitou (λια Αγαπητου)💎💎💎
+    bio: >-
+      inactive 💎 unemployed secular 🦋 celebrity ⭐️ influencer 💥♥️
+    location: "Greece"
+    followers: 46467
+    engagement: 703
+    commentsToLikes: 0.039522
+    id: ckapa1q2ducyw0i784g4bwvf8
+    verified: false
+    hashtags: "#likeforlikes, #love, #instagood, #happyvalentinesday"
 ---

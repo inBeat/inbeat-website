@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Brazil in 2023
+title: Top 10 Home Decor Instagram Influencers In Brazil In 2023
 description: >-
-  Find top home decor Instagram influencers in Brazil in 2023. Most popular hashtags: #homedecor #decor #decora #apartamentopequeno.
+  Find top home decor Instagram influencers in Brazil in 2023. Most popular hashtags: #homedecor #decora #decor #designdeinteriores.
 platform: Instagram
-hits: 397
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 397 Instagram influencers like this in Brazil for you to work with.
+hits: 404
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 404 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "stella_thayzer"
     fullname: >-
       stella thayzer
     bio: >-
-      Lifestyle | Travel | Nature | Dicas Graduanda em Nutrição🍎 4|8 Empreendedora @stella_homedecor 🏡 De @portodegalinhas 🌊
+      Lifestyle | Travel | Nature | Dicas Graduanda em Nutrição🍎 5/8 Empreendedora @stella_homedecor 🏡 De @portodegalinhas 🌊
     location: "Brazil"
-    followers: 18169
-    engagement: 549
-    commentsToLikes: 0.152962
+    followers: 19411
+    engagement: 323
+    commentsToLikes: 0.157933
     id: ck15t7cyjgotj0i19j2c97cgb
     verified: false
-    hashtags: "#viagem, #viajar, #modafeminina, #ferias"
-  - username: "yowanna_a"
-    fullname: >-
-      ☆ Joѵɑnɑ Adamơѵɩc ☆
-    bio: >-
-      •homedecor • kids stuff • DIY projects• 👨‍👩‍👦🐈🐕 Welcome to our #homesweethome 🤗 📩 jovana.adamovic.86@gmail.com
-    location: "Brazil"
-    followers: 26615
-    engagement: 431
-    commentsToLikes: 0.150588
-    id: ck13btrn7x4io0i19r3q145um
-    verified: false
-    hashtags: "#jysk, #kidsroominspiration, #jysknovo, #livingroominspo"
+    hashtags: "#positividade, #fitness, #vibes, #fitnessgirl"
   - username: "nossabellacasa"
     fullname: >-
       𝙽𝚘𝚜𝚜𝚊 𝙱𝚎𝚕𝚕𝚊 𝙲𝚊𝚜𝚊
     bio: >-
       Homedecor • Dicas • Lifestyle Compartilhando nosso dia a dia no 1° apê! 📍Niterói │︎ RJ 📸 @natalia.belladonna
     location: "Brazil"
-    followers: 12454
-    engagement: 461
-    commentsToLikes: 0.075011
+    followers: 12439
+    engagement: 262
+    commentsToLikes: 0.077456
     id: ck8t99htlnaxz0j78p89synmg
     verified: false
-    hashtags: "#homevibes, #nordichome, #flowers, #painelripado"
+    hashtags: "#homevibes, #homedecor, #natal, #homedesign"
+  - username: "messforgirls"
+    fullname: >-
+      
+    bio: >-
+      #vemcomamess @homedecor_lovers @finejewelry_lovers @tabledecor_lovers
+    location: "Brazil"
+    followers: 19209
+    engagement: 205
+    commentsToLikes: 0.080487
+    id: ck14jgoegk91l0i19nao5uqif
+    verified: false
+    hashtags: "#westoncup, #westonfc, #champions, #tbt"
   - username: "lar.202"
     fullname: >-
       Lar 202 🌵
     bio: >-
-      por Luana Moura e Tobi ♡ | decor afetiva | criação de conteúdo criativo | DIY| ↠ fotos autorais • loja @afeto.homedecor ☆
+      por Luana Moura e Tobi ♡ | decor afetiva | criação de conteúdo criativo | DIY| ↠ fotos autorais • loja @afeto.homedecor ☆ Canoas/RS
     location: "Brazil"
-    followers: 44356
-    engagement: 187
-    commentsToLikes: 0.029424
+    followers: 42620
+    engagement: 179
+    commentsToLikes: 0.023814
     id: ckap4wtp698o90i78o7x4gya6
     verified: false
-    hashtags: "#sala, #cafedamanha, #mudanca, #instadecor"
+    hashtags: "#instadecor, #decoracaoafetiva, #inspiracao, #instahouse"
+  - username: "mulhermoderninha"
+    fullname: >-
+      Roberta - Lar Mulhermoderninha
+    bio: >-
+      🎀Nossa casinha simples🎀 🏡 Rotinas de casa|Família 📝 Dicas/Universo feminino 🍴 Comidinhas 🌱Plantas 📬 RJ
+    location: "Brazil"
+    followers: 82627
+    engagement: 90
+    commentsToLikes: 0.231240
+    id: ckaovmuvf59dh0i78lrvziz6e
+    verified: false
+    hashtags: "#lardocelar, #reelsviral, #cozinha, #amomeular"
   - username: "karol.bianchi"
     fullname: >-
-      Karol Bianchi
+      Carol Bianchi
     bio: >-
-      🌻 live your dreams! 📍| santos - sp 🐶| @agoldinha 💬| vida real, dicas de produtinhos, looks e muito mais nos stories ♥️🤳🏻 💌| contato/parcerias: DM
+      📍Santos, SP
     location: "Brazil"
-    followers: 7361
-    engagement: 1131
-    commentsToLikes: 0.127248
+    followers: 6973
+    engagement: 1132
+    commentsToLikes: 0.128077
     id: ck13cli990xh00i1944yv5ymg
     verified: false
-    hashtags: "#homedecor, #decor, #santos013, #baixadasantista"
-  - username: "valavi"
+    hashtags: "#apto, #decora, #santos013, #baixadasantista"
+  - username: "_mateusdepaula"
     fullname: >-
-      Vanessa Lavi Lauterbach
+      Mateus de Paula
     bio: >-
-      Designer de Interiores da @lavizhome Decoradora Influencer Moda / Beleza / Decoração Contato: 📧 vanessa_lavi@hotmail.com Rio de Janeiro
+      GRU +55 11 Criador de Arte Mais ilustrações e trabalhos: @depaula_art Desapegos: @brechonizou 🛍 Encomendas de customização no direct!
     location: "Brazil"
-    followers: 46515
-    engagement: 43
-    commentsToLikes: 0.197146
-    id: ck0u7qe7z5i0b0i19omyn18yu
+    followers: 14076
+    engagement: 910
+    commentsToLikes: 0.056408
+    id: ckap7qa0cl39a0i78uafv5zbt
     verified: false
-    hashtags: "#laviz, #home, #decorandoacasa, #foco"
-  - username: "every.day.grey"
+    hashtags: "#design, #weekend, #moda, #daily"
+  - username: "maternidade_realtri"
     fullname: >-
-      𝐆.𝐑.𝐄.𝐘.𝐒.𝐎.𝐍
+      Trycia Emanuelle
     bio: >-
-      🍃𝘚𝘩𝘢𝘳𝘪𝘯𝘨 𝘰𝘶𝘳 𝘔𝘰𝘯𝘵𝘦𝘴𝘴𝘰𝘳𝘪 𝘪𝘯𝘴𝘱𝘪𝘳𝘦𝘥 𝘱𝘭𝘢𝘺🍃 👦🏼 Mama to a 3 year old 💌 Dm for collabs 📍 Cambridgeshire
+      @acessoria_tryciaemilly Modelo de moda e make Digital influencer Maternidade real Casa, decoração e diy Mãe da @babyemillysouza / Casada Youtuber 👇🏻
     location: "Brazil"
-    followers: 5631
-    engagement: 701
-    commentsToLikes: 0.091684
-    id: ck6ufm2jnxv9l0j71ia0h3il6
+    followers: 95171
+    engagement: 46
+    commentsToLikes: 0.144965
+    id: ck1380oe6dxge0i19lcafygzm
     verified: false
-    hashtags: "#collaboration, #instamom, #sp20kids, #ukmum"
-  - username: "palpitesnoaltar"
+    hashtags: "#diy, #lookdodia, #ruivas, #contagem"
+  - username: "gabrielamarkus"
     fullname: >-
-      ραℓρiτєs ทσ αℓταr
+      Gabi Markus
     bio: >-
-      "Tornar o seu sonho realidade!" Este é o cerne da empresa! Vocês sonham... nós buscamos... e juntos realizamos!
+      model . fashion . beauty . travel Miss Brasil 2012 . Top 5 Miss Universo contatogabimarkus@gmail.com 📍Porto Alegre/RS
     location: "Brazil"
-    followers: 19459
-    engagement: 289
-    commentsToLikes: 0.017757
-    id: ck15tj2dwibx70i19or4ai1d6
-    verified: false
-    hashtags: "#weddingday, #decoracaonoivado, #noivo, #weddingparty"
-  - username: "mo_ap903"
+    followers: 48162
+    engagement: 110
+    commentsToLikes: 0.045710
+    id: ck1383minec9o0i19qvomb68o
+    verified: true
+    hashtags: "#makeup, #homedecor, #gabimarkus, #manga"
+  - username: "casinha04"
     fullname: >-
-      Monique | MOAP903
+      Tatiana Faria
     bio: >-
-      ▪️DIA A DIA NOS STORIES 🤳🏽 ▪️Planejamento| Decoração | Dicas ▪️Mo & João🤎 Ariel 🐾 ▪️Parceria: Direct 📩
+      👪 Esposa e Mãe 🥼 Fisioterapeuta Intensivista 💡 Decor 🌸 Vida Real 🛍 Casinha, Dicas, Achadinhos e Comprinhas . 📍 Niterói, RJ
     location: "Brazil"
-    followers: 111984
-    engagement: 317
-    commentsToLikes: 0.216943
-    id: ck8tc14cqxwu40j783cddl67k
+    followers: 19279
+    engagement: 875
+    commentsToLikes: 0.098488
+    id: ck8t5dv0e9svc0j78e2vgvuhk
     verified: false
-    hashtags: "#inspira, #gratid, #apartment, #decorando"
-  - username: "apartamentodaju"
-    fullname: >-
-      APARTAMENTO DA JU - 👩🏻‍💻Jú
-    bio: >-
-      Por/ Juliana Coutinho ▫️Uma entusiasta por decoração na missão de decorar seu primeiro apê •decoração •lifestyle •mesa posta •organização 📍RJ
-    location: "Brazil"
-    followers: 38548
-    engagement: 360
-    commentsToLikes: 0.364116
-    id: ck15pslmxzg0e0i19z2vnh0x5
-    verified: false
-    hashtags: "#homeofficedecor, #mariekondo, #professora, #cozinhaplanejada"
+    hashtags: "#design, #designdeinteriores, #instahome, #rosegold"
 ---

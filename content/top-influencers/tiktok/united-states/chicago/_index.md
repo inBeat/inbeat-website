@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Chicago in 2023
+title: Top 10 TikTok Influencers In Chicago In 2023
 description: >-
-  Find top TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #duet.
+  Find top TikTok influencers in Chicago in 2023. Most popular hashtags: #foryou #duet #stitch #fyp.
 platform: TikTok
-hits: 1158
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 1158 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 1194
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 1194 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "barreraodalys"
+  - username: "blonded10"
     fullname: >-
-      barreraodalys
+      mayra
     bio: >-
-      Chicago
+      chicago
     location: "United States"
-    followers: 2622
-    engagement: 1547
-    commentsToLikes: 0.018335
-    id: ckal46ewc1f8p0i78jp4hu7uf
+    followers: 23700
+    engagement: 2113
+    commentsToLikes: 0.051390
+    id: ckck5skd3qudr0j23jk7r8agq
     verified: false
-    hashtags: "#makeup, #foryoupage, #foryou, #fyp"
-  - username: "bryannnn11"
+    hashtags: "#colorcustomizer"
+  - username: "bakedtofuu"
     fullname: >-
-      Bryan Wehde
+      Alex Payton
     bio: >-
-      Chicago
+      chicago
     location: "United States"
-    followers: 46500
-    engagement: 813
-    commentsToLikes: 0.014007
-    id: ck9sionb1zx7r0j783xg8dg1k
+    followers: 775300
+    engagement: 1153
+    commentsToLikes: 0.016065
+    id: ckbbtgb2mgx0l0j235ek7pwxs
     verified: false
-    hashtags: "#army, #chillin, #outdoors, #friends"
-  - username: "kenny.elrod"
+    hashtags: "#weddingrules, #modeling, #photoshootideas, #miami"
+  - username: "rbella_23"
     fullname: >-
-      Kenny E.
+      kuroken's love child 😎
     bio: >-
-      BLM ✊🏾 Chicago IL 🏙
+      Chicago, IL📍 enfj-t/capricorn/latinx 17+🚢duet matching pfp w/ @willows.tree
     location: "United States"
-    followers: 193200
-    engagement: 3790
-    commentsToLikes: 0.042950
-    id: ckacq17m2ykxx0i78diptcgkh
+    followers: 34000
+    engagement: 2784
+    commentsToLikes: 0.053870
+    id: ckcvi94y1v91c0j230y6tzpjb
     verified: false
-    hashtags: "#song, #fyp, #greenscreen, #duet"
+    hashtags: "#xyzbca, #iwaoi, #oikawa, #iwaizumihajime"
+  - username: "fw._.vxleriaa"
+    fullname: >-
+      🤍💸𝐕𝐀𝐋𝐄𝐑𝐈𝐀💸🤍
+    bio: >-
+      👻 - valerina116 Insta - xo._.vxleriaa 📍Chicago📍
+    location: "United States"
+    followers: 3503
+    engagement: 2707
+    commentsToLikes: 0.083544
+    id: ckaif99lwvuxq0i78lv70xdzw
+    verified: false
+    hashtags: "#omb, #edit, #foryou, #onmyblock"
   - username: "haj.podge"
     fullname: >-
       Mr. Kamukura, Sir. ❤
     bio: >-
-      ⛵ Chicago cosplayer ⛵ Ren 💚 ISTJ 5w6 he/him ✨ they/them 💍 @phantomferretcosp
+      ⛵ Chicago cosplayer ⛵ Ren 💚 ISTJ 5w6 he/they 💍 @phantomferretcosp
     location: "United States"
-    followers: 22700
-    engagement: 2892
-    commentsToLikes: 0.071670
+    followers: 28100
+    engagement: 2641
+    commentsToLikes: 0.090626
     id: ck9npnu0szshc0j7805qem1cx
     verified: false
-    hashtags: "#foryou, #pinkmaeda, #punkjime, #hajimehinata"
-  - username: "honeybmua"
+    hashtags: "#sdr2, #nagitokomaeda, #danganronpa, #aesopcarl"
+  - username: ".the_doc_"
     fullname: >-
-      Mua.Fatshionista
+      Ty
     bio: >-
-      Chicago ❤️ She/Her 🏳️‍🌈 Queer. Married 35yo Anti-Racist Anti-terf
+      Navy Vet Husband Daddy #RecallRoster Chicago PO BOX 127 Bourbonnais IL, 60914
     location: "United States"
-    followers: 8123
-    engagement: 2191
-    commentsToLikes: 0.094565
-    id: ckbqivjoh406z0j234lsd7dxx
+    followers: 32800
+    engagement: 2238
+    commentsToLikes: 0.165266
+    id: ckacwl2t0sznh0i78xi2u38kk
     verified: false
-    hashtags: "#blacklivesmatter, #duet, #beauty, #biden2020"
-  - username: "raging__panda"
+    hashtags: "#thedocsays, #marinecorps, #duetraiders, #duet"
+  - username: "capfem"
     fullname: >-
-      Lordbreeza 
+      nutella
     bio: >-
-      ✨25✨ ||•Anime Princess•||•Harem No Jutsu Waifu•||•Honorary Senpai•|| Chicago
+      i am an enigma any pronouns chicago 📍 email on insta
     location: "United States"
-    followers: 105400
-    engagement: 2190
-    commentsToLikes: 0.041539
-    id: ckbkne6bphdo40j2378fgbtfo
+    followers: 40500
+    engagement: 2137
+    commentsToLikes: 0.043598
+    id: ck95z2fc2cmkq0j78i4s5jr29
     verified: false
-    hashtags: "#lov, #wewintogether, #sugarskull, #happyhalloween"
-  - username: "urinelover666"
+    hashtags: "#foryou, #pets, #cat, #dance"
+  - username: "frankie_failure"
     fullname: >-
-      liliana
+      Frankie Pitts
     bio: >-
-      chicago sc: gimmemcrback she/her im bi
+      23 Chicago he/they
     location: "United States"
-    followers: 392400
-    engagement: 2182
-    commentsToLikes: 0.038091
-    id: ckbbnsprtbsp60j2302pf6321
+    followers: 127100
+    engagement: 2097
+    commentsToLikes: 0.028538
+    id: ckamf7djp6ugc0i78yhlsoy5g
     verified: false
-    hashtags: ""
-  - username: "attentionwhore1234"
+    hashtags: "#greenscreenvideo, #dontquityourdaydream, #blacktiktokcreators, #leadwithlove"
+  - username: "ginahasnoclue91"
     fullname: >-
-      stanley :)
+      Gina 
     bio: >-
-      hi lol 😁 chicagooo he/him
+      30 Chicago Ace/demi Shay/Angie/Rose/Kathy/Bronx/Shi/J/Lexi/Nerdy/Candi/DeeDee
     location: "United States"
-    followers: 5303
-    engagement: 2028
-    commentsToLikes: 0.091862
-    id: ckdhr5qef1zpw0j23a4fs5b1s
+    followers: 4889
+    engagement: 1999
+    commentsToLikes: 0.170664
+    id: ckbb8srzpxym50j23l73kzc8t
     verified: false
-    hashtags: "#odette, #ripbryce, #vicepresidentialdebate, #generalconference"
-  - username: "ajstouffer"
+    hashtags: "#stitch, #duet, #greenscreen, #facts"
+  - username: "whereisbalake"
     fullname: >-
-      AJ Stouffer
+      Balake
     bio: >-
-      28 Chicago IL Stay Strong Shine Bright Let NOBODY dim your light! 🤑 - stouffer4
+      22. Chicago. Human Wojak. Death Grips. Soy guy. Been in compilations & Pewdiepie
     location: "United States"
-    followers: 48800
-    engagement: 1990
-    commentsToLikes: 0.046891
-    id: ckc8uyhbhhihc0j23f28b1rmu
+    followers: 53100
+    engagement: 1982
+    commentsToLikes: 0.061803
+    id: ck8p07wjkfj270j78crj6n3jk
     verified: false
-    hashtags: "#psa, #lgbtq, #unwrapthedeals, #lgbt"
-  - username: "officialexavier"
-    fullname: >-
-      Official Exavier
-    bio: >-
-      Chicago. 🌃 YouTube: Official Exavier Instagram: officialexavier 12K? 🤍
-    location: "United States"
-    followers: 11000
-    engagement: 2203
-    commentsToLikes: 0.070309
-    id: cka7otdh24bcq0i7816da1kd3
-    verified: false
-    hashtags: "#unpopularopinions, #foryou, #nfl, #football"
+    hashtags: "#comedy, #stitch, #funny, #foryou"
 ---

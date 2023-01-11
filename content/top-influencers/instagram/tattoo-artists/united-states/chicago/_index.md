@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Chicago in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Chicago In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Chicago in 2023. Most popular hashtags: #tattooartist #chicago #art #chicagoartist.
+  Find top tattoo-artists Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #art #chicagotattooartist #tattoo.
 platform: Instagram
-hits: 56
+hits: 68
 text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 56 Instagram influencers like this in Chicago, United States for you to connect with.
+text_bottom: Our search engine has 68 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
+  - username: "mwanhala"
+    fullname: >-
+      Michelle Wanhala
+    bio: >-
+      Books open * Flash only * Cash only * @good.omen.tattoo * See “booking” in my highlights before reaching out *
+    location: "United States"
+    followers: 31093
+    engagement: 372
+    commentsToLikes: 0.008797
+    id: ck15r5h1q685s0i194n8thjch
+    verified: false
+    hashtags: "#chicagotattoos, #dogtattoo, #weirdtattoo, #femaletattooartist"
+  - username: "kumbia_ink"
+    fullname: >-
+      Kumbia Cortes ✪
+    bio: >-
+      •@workethic.ink 📧kumbiaink@gmail.com 🚨🚨BOOKS ARE CLOSE 🚨🚨 📍STOCKTON CA BEST BLACK & GRAY IN NORTHERN CA.
+    location: "United States"
+    followers: 61030
+    engagement: 176
+    commentsToLikes: 0.055957
+    id: ck5bys5y1pqpw0i11lx6hh8x5
+    verified: false
+    hashtags: "#nyctattooartist, #sanjosetattoos, #atlantatattoo, #stocktontattooshops"
   - username: "jaywalton_art"
     fullname: >-
       jay walton
     bio: >-
-      Chicago (Woodside) Tattoo Artist/ Artist $75 dollar minimum/ deposit required to book Email: Joltlightning9@gmail.com cashapp: $jwaltonart
+      Chicago (Woodside) Tattoo Artist/ Artist $100 dollar minimum/ deposit required to book Email: Joltlightning9@gmail.com cashapp: $jwaltonart
     location: "United States"
-    followers: 29393
-    engagement: 602
-    commentsToLikes: 0.025797
+    followers: 28970
+    engagement: 232
+    commentsToLikes: 0.037304
     id: ck1399k17k76p0i195pk2fqlk
     verified: false
-    hashtags: "#nojusticenopeace, #blackartist, #blm, #sketchbook"
-  - username: "menton3"
+    hashtags: "#portrait, #tattooartist, #blacktattooart, #tattoos"
+  - username: "onlythedeadaresmiling"
     fullname: >-
-      menton3
+      Tim Biedron
     bio: >-
-      artist-musician-tattooist living in Atlanta GA
+      Ft. Collins Colorado. COMMISSIONS FOR PEN AND INK DRAWINGS WIDE OPEN!!! All inquiries via website
     location: "United States"
-    followers: 23780
-    engagement: 513
-    commentsToLikes: 0.022023
-    id: ck5hoa0srp7co0i11jzuuig9q
+    followers: 13098
+    engagement: 1015
+    commentsToLikes: 0.036315
+    id: ck5zj6glth15p0i148lmbyj1y
     verified: false
-    hashtags: "#gothgirl, #oilpainting, #tattooartist, #painting"
+    hashtags: "#strathmorebristol, #bristol, #moleskine, #natureillustration"
   - username: "art_danny_ponce"
     fullname: >-
       🇲🇽 Daniel Ponce 🇲🇽
     bio: >-
       Chicago/México Art & Tattoos Casas Grandes, Chihuahua MX Private studio DM for tattoo appointments or art/prints requests
     location: "United States"
-    followers: 26397
-    engagement: 373
-    commentsToLikes: 0.025562
+    followers: 26133
+    engagement: 324
+    commentsToLikes: 0.025348
     id: ck0w42m75whyi0i191msr7p1d
     verified: false
-    hashtags: "#chicago, #chicagotattooartist, #instaart, #blackandgreytattoo"
-  - username: "nessie_blaze"
+    hashtags: "#portraittattoo, #mexicanstyle, #aztec, #chicagoartist"
+  - username: "makeupbyfee"
     fullname: >-
-      𝐍𝐞𝐬𝐬𝐢𝐞 𝐁𝐥𝐚𝐳𝐞
+      Fee Fromkin | Chicago
     bio: >-
-      𝔗𝔞𝔱𝔱𝔬𝔬𝔢𝔯 • 𝔓𝔞𝔦𝔫𝔱𝔢𝔯 • 𝔅𝔯𝔞𝔱 ♈️ Black Ink Crew Compton. 💕 Text “Tattoo” to 267-223-5660 to book. 🔺PR: @raethepublicist @arianad_pr 🔺ASST: @dejah.mc
+      Avant Garde Drag Artist/ Tattoo Artist @monster.ink.studio “ᴀ ꜱᴇʀɪᴇꜱ ᴏꜰ ʟᴏᴏᴋꜱ ɴᴏʙᴏᴅʏ ᴀꜱᴋᴇᴅ ꜰᴏʀ” Queer ♎︎ 👽 They Tattooing account: @moonagefee
     location: "United States"
-    followers: 35340
-    engagement: 257
-    commentsToLikes: 0.041340
-    id: ck14jo9lelctg0i19m675pqat
+    followers: 17174
+    engagement: 828
+    commentsToLikes: 0.032897
+    id: ck0vv829qnyh00i19khgb9lyq
     verified: false
-    hashtags: "#atlanta, #petersstreetstation, #linkinbio, #dope"
+    hashtags: "#artist, #clubkid, #clubkidmakeup, #mehronmakeup"
+  - username: "adamaguastattoos"
+    fullname: >-
+      Adam  Aguas
+    bio: >-
+      NO DMS!!!! ILLINOIS TATTOO ARTIST!!!! TEXT FOR APPOINTMENTS!!!! BOOKS OPEN!!! *FYT SUPPLIES *AXYS ROTARY *INDUSTRY INKS @adamaguas backup
+    location: "United States"
+    followers: 32615
+    engagement: 117
+    commentsToLikes: 0.014763
+    id: ck5cboc8nfur20i11co222lh8
+    verified: false
+    hashtags: "#fyttattoosupplies, #chicago, #newschooltattoos, #axysrotary"
+  - username: "auntieheroine"
+    fullname: >-
+      Auntie Heroine
+    bio: >-
+      Marketing the Non-binary Fantasy She/Her/They/Them Drag is a caricature of gender expression. Artist. CHICAGO, IL . auntieheroine@gmail.com
+    location: "United States"
+    followers: 6553
+    engagement: 528
+    commentsToLikes: 0.027341
+    id: ck0uch6argsjs0i19cvm03ga2
+    verified: false
+    hashtags: "#dragqueen, #gay, #gender, #art"
   - username: "futureteller"
     fullname: >-
       gifford kasen
     bio: >-
-      Artist/Owner @logansquaretattoo in Chicago- Futuretellerart@Gmail.com
+      @logansquaretattoo Chicago @bornweird_tattoo Boise sept28-oct1st Futuretellerart@gmail.com
     location: "United States"
-    followers: 25619
-    engagement: 88
-    commentsToLikes: 0.014845
+    followers: 24841
+    engagement: 82
+    commentsToLikes: 0.017116
     id: ck15u2qtll5000i19gpgx1tp1
     verified: false
-    hashtags: "#biomechanical, #stilllife, #drawing, #oilpainting"
-  - username: "onlythedeadaresmiling"
+    hashtags: "#blackandgrey, #boise, #futureteller, #biomech"
+  - username: "flee_kay"
     fullname: >-
-      Tim Biedron
+      OG KK
     bio: >-
-      Ft. Collins Colorado. All booking via website
+      Rapper | Sneaker Enthusiast | Song Writer Sneaker Page @fleekickzcustoms 🚯 Business Inquiries: sluglifeent@gmail.com #17 OUT NOW 🥳
     location: "United States"
-    followers: 12528
-    engagement: 952
-    commentsToLikes: 0.030889
-    id: ck5zj6glth15p0i148lmbyj1y
+    followers: 7642
+    engagement: 430
+    commentsToLikes: 0.266109
+    id: ckap7wjq2lvl60i78hnzu7aro
     verified: false
-    hashtags: "#moleskine, #coloradotattooartist, #blackandgreytattoo, #blackandgrey"
-  - username: "yu_yarik"
-    fullname: >-
-      ILLUSTRATOR & TATTOO Artist
-    bio: >-
-      👩🏻Yulia Lyuto 🍊Realistic ILLUSTRATIONS 🖊Tattoo works - @yarik.tattoo 🖼My art works - #liuto_art • 📮Order & cooperation ➡️ DIRECT 🇺🇸Chicago,USA
-    location: "United States"
-    followers: 7689
-    engagement: 1865
-    commentsToLikes: 0.083644
-    id: ck0w4iggryq5s0i19kkii6ftl
-    verified: false
-    hashtags: "#prismacolor, #prismacolors, #sketchbookdrawing, #sketchmarker"
-  - username: "v_affliction"
-    fullname: >-
-      Tattoo Artist
-    bio: >-
-      Artistic tattoos to compliment your body • Floral🌺🌹 • Dark🖤🌙 DM for appointments 📋 Chicago
-    location: "United States"
-    followers: 10136
-    engagement: 1088
-    commentsToLikes: 0.016326
-    id: ck8tahfmcrrnl0j78c3f1opkj
-    verified: false
-    hashtags: ""
-  - username: "mwanhala"
-    fullname: >-
-      Michelle Wanhala
-    bio: >-
-      Chicago * @good.omen.tattoo * Appointment only * Flash only * Available flash posted in story highlights * DM to book * Shop:
-    location: "United States"
-    followers: 24212
-    engagement: 320
-    commentsToLikes: 0.007439
-    id: ck15r5h1q685s0i194n8thjch
-    verified: false
-    hashtags: "#acrylicpaint, #quarantine, #chicagoartists, #gellyroll"
-  - username: "adamdeanart"
-    fullname: >-
-      Adam Makharita (NYC)
-    bio: >-
-      Artist at @dot.creativegroup Booking/Inquiries here ONLY👇
-    location: "United States"
-    followers: 17940
-    engagement: 449
-    commentsToLikes: 0.032223
-    id: ckaord8jnmp4u0i7841fruynu
-    verified: false
-    hashtags: "#blackabdgreyrealism, #blackandgreyrealism, #finelinetattoos, #tattoo"
+    hashtags: "#nike, #exploremore, #sneakers, #instadaily"
 ---

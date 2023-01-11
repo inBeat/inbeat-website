@@ -1,106 +1,106 @@
 ---
-title: Top 10 Wellness Instagram Influencers In South Korea in 2023
+title: Top 10 Wellness Instagram Influencers In South Korea In 2023
 description: >-
-  Find top wellness Instagram influencers in South Korea in 2023. Most popular hashtags: #ifbbpro #seoul #repost.
+  Find top wellness Instagram influencers in South Korea in 2023. Most popular hashtags: #wellness #yoga #fashion.
 platform: Instagram
 hits: 8
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 8 Instagram influencers like this in South Korea for you to work with.
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in South Korea for you to connect with.
 profiles:
-  - username: "ifbb_pro_kimjunho"
+  - username: "anachoii"
     fullname: >-
-      보디빌더 김준호
+      ANA CHOI | CONTENT CREATOR
     bio: >-
-      IFBB PRO CERTIFICATIE MASTER TRAINER NEWTECH WELLNESS SPONSORED ATHLETE ♦️Click on the link below for a 15% lifetime discount code on Believe Nature's
+      480k+ YouTuber 🎬 Spanish speaking Korean 🇰🇷 Beauty • Lifestyle/Wellness • Culture ⤵️
     location: "South Korea"
-    followers: 56316
-    engagement: 223
-    commentsToLikes: 0.022732
-    id: ck8sx3dvpg2tz0j78uk9kj54l
+    followers: 17657
+    engagement: 1001
+    commentsToLikes: 0.051681
+    id: ck9wookw95y240j78xszkt8a4
     verified: false
-    hashtags: "#1k, #event, #repost, #ifbbpro"
-  - username: "thaisgenaroo"
+    hashtags: "#modaestilo, #sheinbuenfin2020, #sheinss21, #jeans"
+  - username: "hyehwa_elin"
     fullname: >-
-      GENARO 제나로
+      혜화동엘린 윤재원
     bio: >-
-      Youtuber 📹 From São Paulo 🇧🇷 Currently in Seoul 🇰🇷 ⬇️ EU TENHO UM SITE ⬇️
+      Season2
     location: "South Korea"
-    followers: 139296
-    engagement: 458
-    commentsToLikes: 0.011681
-    id: ck14gti8o6y7u0i19noacm1oo
+    followers: 100505
+    engagement: 357
+    commentsToLikes: 0.015051
+    id: ck13ayw3bsuzp0i198i43shxn
     verified: false
-    hashtags: "#cleangangwon, #wellnessgangwon, #safegangwon, #yangyangforeigntaxi"
-  - username: "nazbiike_m"
+    hashtags: "#biehler, #smith, #captainmarvel, #cyclinggirl"
+  - username: "hwamok_mermaid"
     fullname: >-
-      Nazbiike 비케의 일기📝
+      화목🐠 프리다이빙•여행•위스키•롱보드•킥복싱•스팅어
     bio: >-
-      ▪️Ломаю стереотипы о хиджабе✨ ▪️4 года в Корее🖇 ▪️Проверенная косметика @avoyoung.kg 🇰🇷 💜문의/협찬 DM📩 Навигация по блогу #biike_навигация
+      Seoul, Korea 다이빙 14년째. 알콜 마니아와 중독 사이. 위스키와 장난감, 롱보드와 바다를 사랑하는 아가미녀(gillgirl) Scuba diving, whisky, Toys, Travel, Longboard 👇🏻유튜브에 이것저것 올리는 중
     location: "South Korea"
-    followers: 32030
-    engagement: 407
-    commentsToLikes: 0.030788
-    id: ckf5uroegm1ir0j23coxmdsiq
+    followers: 14157
+    engagement: 280
+    commentsToLikes: 0.045091
+    id: ck6u3uewnzxwb0j71wsitb6h0
     verified: false
-    hashtags: "#korea, #biike, #ootd, #seoul"
-  - username: "milain94"
+    hashtags: "#freediver, #royalsalute, #trailblazer, #freediving"
+  - username: "jell_o_baby"
     fullname: >-
-      Виктория Милейн /Южная Корея
+      함지연 jello baby🔮 Fitness
     bio: >-
-      ➖ Чёрный пояс по корейскому💪 ➖ Бюджетные путешествия по Корее 🇰🇷 ➖ Повседневные диалоги с корейцами😋 Навигация #милейн_навигация мои другие аккаунты⬇️
+      젤로베이비 enjoy your life 💋XX-MUAH 💋 💪 @ironmaxx_kor 앰배서더 💙카카오톡 ➡️hamzi0628
     location: "South Korea"
-    followers: 17044
-    engagement: 814
-    commentsToLikes: 0.022261
-    id: ck139jr22lng40i19hqywdk2w
+    followers: 32017
+    engagement: 102
+    commentsToLikes: 0.028055
+    id: ckap22tdbx5040i78dca9pi6q
     verified: false
-    hashtags: "#fascylab, #drjart, #wellnesskorea, #wellnesstourismsupporters"
+    hashtags: "#goodmorninggoodnight, #wellness, #beastfeelingever"
+  - username: "urbanwit"
+    fullname: >-
+      Sarah | Joyous Lifestyle
+    bio: >-
+      🇰🇷Korean Family in South Florida🌴 🌿Green Beauty, Artisan Fashion, Organic Home✨ Find me on TikTok! @urbanwit
+    location: "South Korea"
+    followers: 33133
+    engagement: 165
+    commentsToLikes: 0.044677
+    id: ck5pzu2zs2r310i11eb6dpuw3
+    verified: false
+    hashtags: "#organicskincare, #nontoxicbeauty, #greenbeauty, #wellaging"
   - username: "lemon.vibe"
     fullname: >-
-      열정감성·철인꿈나무🌳
+      열정레모니👙🌴
     bio: >-
-      세상은 우리랑 함께 사는것💪🏻🌏 Go green🌱 _ 46:26 3:57:03 100K #러닝레몬 <동아일보> #영러너어워드🏅 <월간산> #산요가🍋 BAC 19/100 _ #산요레 #요가레몬 #기부레몬 contactlessYoga 120%즐겨벌여! 📺
+      #러닝레몬 #요가레몬 #산요레 🌏🪴지구와 함께하는 삶 , 📺 @finisherclub X 뽁근🍫🍋
     location: "South Korea"
-    followers: 19828
-    engagement: 299
-    commentsToLikes: 0.042426
+    followers: 20728
+    engagement: 334
+    commentsToLikes: 0.026246
     id: ck6uidsf6ehy10j71jxshguv9
     verified: false
-    hashtags: "#2020, #livesweat, #running, #pocarisweat"
-  - username: "sungmo_nit"
-    fullname: >-
-      문성모프로
-    bio: >-
-      🔸️kpga투어프로🏌️‍♂️ 🔸️TPI Level 1 🔹️스릭슨 광고모델 🔹️스릭슨 의류모델 1:1개인레슨 /필드레슨 / 숏게임레슨 🔴🔴레슨문의🔴🔴 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-    location: "South Korea"
-    followers: 45520
-    engagement: 269
-    commentsToLikes: 0.018351
-    id: ck8t8zn8dmex90j78n57o3zkx
-    verified: false
-    hashtags: ""
+    hashtags: "#yoga, #running, #plogging, #gogreen"
   - username: "physique.class_thefit"
     fullname: >-
       🇰🇷IFBB Physique Pro 🌏 최봉석
     bio: >-
-      📍프로짐 강남구청점 / 방학점 2018 IFBB - Japan Pro Qualify Champion🏆 2019 IFBB - Japan Pro Show Champion🏆 📌sponsor @opledotcom / 오플닷컴 / Natureware Inc. 유튜브 ⬇️
+      📍프로짐 강남구청점 / 방학점 18 IFBB Japan Pro Qualify Champion🏆 19 IFBB Japan Pro Show Champion🏆 20 IFBB physique ⭕lympian 📌sponsor @opledotcom / 오플닷컴 유튜브 ⬇️
     location: "South Korea"
-    followers: 67159
-    engagement: 204
-    commentsToLikes: 0.011334
+    followers: 75032
+    engagement: 183
+    commentsToLikes: 0.014711
     id: ck5btbuaxfop00i11qw4jwfym
     verified: false
-    hashtags: "#ifbb, #phusique, #repost, #mrolympia"
-  - username: "bigbadwolfsf"
+    hashtags: "#mensphysique, #mrolympia, #ifbb, #ifbbpro"
+  - username: "teoyang"
     fullname: >-
-      𝕭𝖎𝖌 𝕭𝖆𝖉 𝖂𝖔𝖑𝖋 𝖘𝖋
+      Teo Yang 양태오
     bio: >-
-      FIRST GEN KOREAN-AMERICAN CHEF. 🇰🇷 📍SF, CA. FEMINIST @bigbadqueens . 먹깨비 CANNABIS ADVOCATE 💚 *NFS / 21+ Next event: TBD
+      TeoYang Studio & Eastern Edition for work please contact teoyang.studio@gmail.com
     location: "South Korea"
-    followers: 7579
-    engagement: 495
-    commentsToLikes: 0.116161
-    id: ck5pw78z0lg110i11xf5ptj9i
+    followers: 86560
+    engagement: 145
+    commentsToLikes: 0.021640
+    id: ck5zwlc7j6brv0i145d16j0s3
     verified: false
-    hashtags: "#socialdistancing, #mukbang, #challengeaccepted, #shinramen"
+    hashtags: "#therestaurant, #kukjegallery, #phaidon, #phaidonbooks"
 ---

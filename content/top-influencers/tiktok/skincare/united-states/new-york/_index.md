@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In New York in 2023
+title: Top 10 Skincare TikTok Influencers In New York In 2023
 description: >-
-  Find top skincare TikTok influencers in New York in 2023. Most popular hashtags: #fyp #skincare #foryou #newyork.
+  Find top skincare TikTok influencers in New York in 2023. Most popular hashtags: #fyp #skincare #foryou #nyc.
 platform: TikTok
-hits: 62
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 62 TikTok influencers like this in New York, United States for you to contact.
+hits: 63
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 63 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "daniellemareka"
+  - username: "ash.fromnyc"
     fullname: >-
-      Danielle Mareka
+      Ash💋🍭💥
     bio: >-
-      🧚🏾‍♀️🤍✌🏾😗 IG: @daniellemareka muse 🧝🏽‍♀️ artist supermodel in the making
+      NYC🗽 Beauty, hauls and more✨ Follow me on IG ash.fromnyc🍭 SC: Kath.erinex9 🍬
     location: "United States"
-    followers: 66100
-    engagement: 2195
-    commentsToLikes: 0.011089
-    id: ckbwjn2u03nsv0j23iu2a27o7
+    followers: 4755
+    engagement: 263
+    commentsToLikes: 0.000000
+    id: ckbf22vp1orwy0j236ywe9rel
     verified: false
-    hashtags: "#learnontiktok, #fashion, #pose, #trending"
-  - username: "ialfarog_"
+    hashtags: "#foryou, #dollartree, #fyp, #target"
+  - username: "robinholzken"
     fullname: >-
-      Inés Alfaro
+      Robin Holzken
     bio: >-
-      Skincare | Makeup | review Latina viviendo en NY ✨
+      Instagram: @robinholzken
     location: "United States"
-    followers: 21100
-    engagement: 514
-    commentsToLikes: 0.052641
-    id: ckbfat1nq2ecs0j23v8xned1n
-    verified: false
-    hashtags: "#beauty, #tips, #fyp, #boxycharm"
-  - username: "jaretbates"
+    followers: 17600
+    engagement: 1169
+    commentsToLikes: 0.008950
+    id: cka0rvcylin030i7845cbf37s
+    verified: true
+    hashtags: "#model, #fy, #work, #fyp"
+  - username: "angelisidro"
     fullname: >-
-      Jaret Bates
+      Angel Isidro
     bio: >-
-      18 AL BHS 20 / USA 24
+      Hi I'm Angel 👼 Thank you so much for 15.2k 🥺❤️ @marcelrojas6
     location: "United States"
-    followers: 50200
-    engagement: 1460
-    commentsToLikes: 0.042278
-    id: ckbl31qi80b9y0j23bpp8y2qu
+    followers: 15300
+    engagement: 628
+    commentsToLikes: 0.018738
+    id: ckbffuwrtau170j233vxoo70w
     verified: false
-    hashtags: "#south, #school, #greenscreen, #foryoupage"
-  - username: ".peachbun"
+    hashtags: "#hi, #love, #fyp, #marcel"
+  - username: "ericgoldie"
     fullname: >-
-      peachbun
+      ericgoldie
     bio: >-
-      BLACK LIVES MATTER!! sorry for being inactive 🥺
+      
     location: "United States"
-    followers: 8346
-    engagement: 1650
-    commentsToLikes: 0.037285
-    id: ckc7rlbmcwroo0j23dk26redn
+    followers: 56500
+    engagement: 812
+    commentsToLikes: 0.038039
+    id: ckcultyf0hebh0j235cdvrc4k
     verified: false
-    hashtags: "#foryoupage, #aesthetic, #myskinandme, #newroom"
-  - username: "juliettesxlife"
+    hashtags: "#morpheus8, #lgbtq, #sipintosummer, #city"
+  - username: "natalie.banilbo"
     fullname: >-
-      Juliette🍓🌵
+      nataliebanilbo
     bio: >-
-      70K❤️ Email: jpropp@tahlpropp.com
+      Insta : @𝙉𝙖𝙩𝙖𝙡𝙞𝙚𝙗𝙖𝙣𝙞𝙡𝙗𝙤 :) 𝟏𝟖 🤍🇵🇭
     location: "United States"
-    followers: 70700
-    engagement: 2442
-    commentsToLikes: 0.037958
-    id: ck932w4cwlblj0j78bdho499f
+    followers: 10100
+    engagement: 1310
+    commentsToLikes: 0.025170
+    id: cka9kyn0r15vs0i78s0jh68ev
     verified: false
-    hashtags: "#fyp, #foryou, #indie, #avotoast"
-  - username: "olgaavezbakiev"
+    hashtags: "#photoshoot, #foryou, #fyp, #2021affirmations"
+  - username: "thatgirlthatdidyourhair"
     fullname: >-
-      Olga Avezbakiev
+      TGTDYH
     bio: >-
-      Thank You all for love and support! Check out my daughter's cosmetic business!
+      HAIR SHOP MERCH SERVICES TEL: 1-800-BLOWME™
     location: "United States"
-    followers: 2662
-    engagement: 1232
-    commentsToLikes: 0.084778
-    id: ckcdf7ezy6hix0j23fjpaow61
+    followers: 15700
+    engagement: 639
+    commentsToLikes: 0.009959
+    id: ckb99s6zuua1g0j23ee2ookod
     verified: false
-    hashtags: "#holidayseason, #viral, #lipscrub, #happyhalloween"
-  - username: "beautiful_wreck_"
+    hashtags: "#beautyhacks, #nyc, #beautytips, #fyp"
+  - username: "finngerhardt"
     fullname: >-
-      Today’sTrends
+      finngerhardt
     bio: >-
-      fashion🤍glam✨aesthetic☁️
+      I'm 31 💗Trans. They/Them.💙 🐝Witch🐝 🖤Happy Crafting🖤 Venmo: @Finn-Gerhardt
     location: "United States"
-    followers: 9656
-    engagement: 1730
-    commentsToLikes: 0.006476
-    id: ckbwimmx437p40j23iz8bfov1
+    followers: 111100
+    engagement: 3522
+    commentsToLikes: 0.031772
+    id: ckbqs6n2md1qy0j23da2m9g7b
     verified: false
-    hashtags: "#shopping, #streetwear, #london, #home"
-  - username: "abbyspauldingg"
+    hashtags: "#allyship, #transition, #trans, #nonbinary"
+  - username: "winnielaux"
     fullname: >-
-      abigail
+      winnielaux
     bio: >-
-      16 New York snap: abbythedancer6
+      OK boomer 👵🏼
     location: "United States"
-    followers: 47000
-    engagement: 1542
-    commentsToLikes: 0.015870
-    id: ckbr1w3msirxv0j23muljvala
+    followers: 2937
+    engagement: 311
+    commentsToLikes: 0.043995
+    id: ckb9qhl3mmfvw0j23qp5oyorc
     verified: false
-    hashtags: "#word, #dance, #foryou, #beatsdaisychallenge"
-  - username: "tourdelust"
+    hashtags: "#besties, #inyourface, #aapifamily, #asiangirl"
+  - username: "jayluxury"
     fullname: >-
-      Christine Tran
+      JAY LUXURY
     bio: >-
-      New York things, travel, photography & just having fun. Follow me on IG
+      INSTAGRAM: @jayluxury_1 BUISNESS: jayluxnyc@gmail.com Brooklyn, New York🗽
     location: "United States"
-    followers: 105700
-    engagement: 784
-    commentsToLikes: 0.026124
-    id: ck8qoxda80x640j78hv2la75o
+    followers: 17900
+    engagement: 1601
+    commentsToLikes: 0.035971
+    id: ckb9i3kkj82go0j236vcj7k3i
     verified: false
-    hashtags: "#hellofall, #fallfoliage, #autumn, #tiktokpartner"
-  - username: "scoutthecity"
+    hashtags: "#fyp, #nycbelike, #foryoupage, #6ix9ine"
+  - username: "maliamakaila"
     fullname: >-
-      scoutthecity
+      Malia Makaila 👼🏼
     bio: >-
-      Cool mom from New York. Fashion tips, How to’s & funny content.
+      NEW YORK CITY GAL 🤍
     location: "United States"
-    followers: 88400
-    engagement: 732
-    commentsToLikes: 0.013779
-    id: ck9ke226nwwk30j78zwx0j5ta
+    followers: 197500
+    engagement: 832
+    commentsToLikes: 0.040768
+    id: ck9rjt5bkppgu0j78hm0nuym0
     verified: false
-    hashtags: "#tiktokfashion, #fyp, #comedy, #styletips"
+    hashtags: "#transition, #nyc, #fyp, #fitness"
 ---

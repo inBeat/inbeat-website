@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In France in 2023
+title: Top 10 Makeup TikTok Influencers In France In 2023
 description: >-
-  Find top makeup TikTok influencers in France in 2023. Most popular hashtags: #makeup #pourtoi #fyp #makeupartist.
+  Find top makeup TikTok influencers in France in 2023. Most popular hashtags: #makeup #fyp #duo.
 platform: TikTok
-hits: 448
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 448 TikTok influencers like this in France for you to pitch.
+hits: 401
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 401 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "enzo_tout_seul"
     fullname: >-
       Enzo
     bio: >-
-      CEO of makeup❤️ Instagram:enzotouseul 👁👁 👅
+      CEO of makeup❤️ il/elle
     location: "France"
-    followers: 22300
-    engagement: 2672
-    commentsToLikes: 0.050045
+    followers: 24400
+    engagement: 2774
+    commentsToLikes: 0.068006
     id: ck902s9qycrkl0j78ky91xl2q
     verified: false
-    hashtags: "#duet"
-  - username: "cindy.loridan.mua"
+    hashtags: "#fyp, #ogeefavorite"
+  - username: "_chamaelloow_"
     fullname: >-
-      Cindy Loridan MUA
+      Maëva V. Batista
     bio: >-
-      Makeup artiste RhôneAlpes Albertville Insta↗️ Bientôt Makeuplive/questions soon
+      Makeup, tests, Humouuuur J’ai 750,6k enfants ❤️ . Mon interview ⬇️
     location: "France"
-    followers: 52600
-    engagement: 1455
-    commentsToLikes: 0.050184
-    id: ckbf3xds8rz060j230r9dxct3
+    followers: 753700
+    engagement: 2156
+    commentsToLikes: 0.013124
+    id: ck9c6x9r2rgx40j78mhed23wx
     verified: false
-    hashtags: "#facepaint, #makeup, #makeupartist, #facepainting"
-  - username: "perrinebeautyaddict"
-    fullname: >-
-      Perrine BeautyAddict
-    bio: >-
-      Makeup artist 👄 💌 (pro) : perrinebeautypro@gmail.com YouTube ⬇️
-    location: "France"
-    followers: 190700
-    engagement: 2680
-    commentsToLikes: 0.012256
-    id: ckbf8g6juz1he0j23xhu00aib
-    verified: false
-    hashtags: "#fyp, #pourtoi, #humour, #makeupartist"
-  - username: "lauradi76"
-    fullname: >-
-      Loloo57
-    bio: >-
-      🔹 25 🎂 🔹57📍 🔹Humour.dance.makeup etc👌 💠 NEW 👻Snap👻: lauradii76
-    location: "France"
-    followers: 8731
-    engagement: 1560
-    commentsToLikes: 0.043362
-    id: ckbewv9hngos80j23tg1fzrja
-    verified: false
-    hashtags: "#foryoupage, #duo, #regardmannequin, #zoomgrosplan"
-  - username: "meelissamakeup"
-    fullname: >-
-      Sissahh__
-    bio: >-
-      ✨Mélissa✨ 19 😋 Makeup artist 💄 Instagram : Melissa.maquillage
-    location: "France"
-    followers: 25500
-    engagement: 2132
-    commentsToLikes: 0.016108
-    id: ckauxfitx2wl20j23ayoxqlb6
-    verified: false
-    hashtags: "#pourtoi, #foryou, #makeup, #fyp"
-  - username: "thefrenchbeautyboy"
-    fullname: >-
-      Chad Monroe
-    bio: >-
-      Makeup artist- INSTAGRAM & YOUTUBE: @thefrenchbeautyboy
-    location: "France"
-    followers: 9034
-    engagement: 915
-    commentsToLikes: 0.058826
-    id: ck900yitqb14t0j785fm2r3hf
-    verified: false
-    hashtags: "#pourtoi, #maquillage, #tuto, #tiktokfrance"
-  - username: "nanaquine"
-    fullname: >-
-      Aurélie Annequin
-    bio: >-
-      #mum #makeupaddict #workinggirl #networkers www.nanaquinemakeup.com 
-    location: "France"
-    followers: 4740
-    engagement: 1015
-    commentsToLikes: 0.053300
-    id: ck9ej97bc1k610j78ozsuo2t9
-    verified: false
-    hashtags: "#makeuplife, #younique, #vosavis, #makeup"
+    hashtags: "#duo, #humour"
   - username: "alexialiot"
     fullname: >-
       Alexia Liot
     bio: >-
       Insta: alexialiot 📷 Soon 50k 🥰 21 ans 😊 💄makeup addict 💄
     location: "France"
-    followers: 44600
-    engagement: 1018
-    commentsToLikes: 0.041037
+    followers: 51200
+    engagement: 1645
+    commentsToLikes: 0.059559
     id: ck9fj3uoodxpq0j78yifakk1a
     verified: false
-    hashtags: "#foryou, #duo, #pourtoi, #tendance"
-  - username: "juju.lpbdt"
+    hashtags: "#dangerous, #zoomgrosplan, #duo"
+  - username: "cindy.loridan.mua"
     fullname: >-
-      Juju 🌞
+      Cindy Loridan MUA
     bio: >-
-      🦋 IG : juliaperret1 🦋 IG MAKEUP : onfleek.julia
+      Makeup artiste RhôneAlpes Albertville Insta↗️ Bientôt Makeuplive/questions soon
     location: "France"
-    followers: 35500
-    engagement: 1365
-    commentsToLikes: 0.024268
-    id: ck807csxypwrk0j78w3oj9wdg
+    followers: 52100
+    engagement: 1454
+    commentsToLikes: 0.082103
+    id: ckbf3xds8rz060j230r9dxct3
     verified: false
-    hashtags: "#fyp, #xyzbca, #slytherin, #dracomalfoy"
-  - username: "soo_leil_4"
+    hashtags: "#christmas, #cute, #facepainting, #aquamakeup"
+  - username: "maybefromhell"
     fullname: >-
-      Solenne
+      Maybefromhell 🌙
     bio: >-
-      Insta : soo_leil_ Makeup, scketch , haul , humour Abonne toi ❤️ 🏳️‍🌈🏳️‍🌈
+      23 They/Them 🏳️‍🌈 Angry shapeshifter Makeup artist/Actor🎬 Bakugo kinnie🔥
     location: "France"
-    followers: 34700
-    engagement: 1958
-    commentsToLikes: 0.015453
-    id: ck8z6jrp7maym0j78iho8rq3d
+    followers: 88400
+    engagement: 2946
+    commentsToLikes: 0.017111
+    id: ck9er9znz0wgj0j787wcqrihp
     verified: false
-    hashtags: "#esthetique, #epilation, #estheticienne, #motivation"
+    hashtags: "#minaashido, #leagueofvillains, #minaashidocosplay, #bakusquad"
+  - username: "perrinebeautyaddict"
+    fullname: >-
+      Perrine BeautyAddict
+    bio: >-
+      Makeup artist 👄 💌 (pro) : perrinebeautyaddict@rushinfluence.fr YouTube 9556
+    location: "France"
+    followers: 266200
+    engagement: 2292
+    commentsToLikes: 0.020630
+    id: ckbf8g6juz1he0j23xhu00aib
+    verified: false
+    hashtags: "#fyp, #giveaway, #pourtoi, #duo"
+  - username: "hono_mua"
+    fullname: >-
+      HonoMakeup
+    bio: >-
+      •21y | french | Lille• - Makeup & horror addict - •@𝐡𝐨𝐧𝐨𝐦𝐚𝐤𝐞𝐮𝐩•
+    location: "France"
+    followers: 291500
+    engagement: 2004
+    commentsToLikes: 0.009818
+    id: ck9r9udj4i6bu0j78lsimq01p
+    verified: false
+    hashtags: "#creepypasta, #creepy, #paranormal, #history"
+  - username: "venusxgbc"
+    fullname: >-
+      𝔪𝔬𝔯𝔤𝔞𝔫𝔢🦇
+    bio: >-
+      ✨18 🔊teKno 🖤xxx•peep 👽strasbourg 🦇alt makeup, style and girl
+    location: "France"
+    followers: 7503
+    engagement: 1894
+    commentsToLikes: 0.025873
+    id: ckb98a5rwrexu0j235rzimq48
+    verified: false
+    hashtags: "#lanadelrey, #eyeliner, #makeup, #liner"
+  - username: "lauradi76"
+    fullname: >-
+      Loloo57
+    bio: >-
+      🔹 25 🎂 🔹57📍 🔹Humour.dance.makeup etc👌 💠 NEW 👻Snap👻: lauradii76
+    location: "France"
+    followers: 8575
+    engagement: 1528
+    commentsToLikes: 0.049143
+    id: ckbewv9hngos80j23tg1fzrja
+    verified: false
+    hashtags: "#fun, #regardmannequin, #foryou, #pourtoi"
+  - username: "meelissamakeup"
+    fullname: >-
+      Sissahh__
+    bio: >-
+      ✨Mélissa✨ Makeup artist 💄 Instagram : Mel.artistique
+    location: "France"
+    followers: 27200
+    engagement: 2198
+    commentsToLikes: 0.017719
+    id: ckauxfitx2wl20j23ayoxqlb6
+    verified: false
+    hashtags: "#pourtoi, #foryou, #makeupartist, #fyp"
 ---

@@ -1,72 +1,96 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Brazil in 2023
+title: Top 10 Skincare TikTok Influencers In Brazil In 2023
 description: >-
-  Find top skincare TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #fy #skincare.
+  Find top skincare TikTok influencers in Brazil in 2023. Most popular hashtags: #skincare #fy #foryou #fyp.
 platform: TikTok
-hits: 49
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 49 TikTok influencers like this in Brazil for you to contact.
+hits: 56
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 56 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "miminzo"
     fullname: >-
       Yasmin Sandrini
     bio: >-
-      Makes, skincare, gatos e aleatoriedade insta: @colormiminzi
+      Makes, skincare, gatos e aleatoriedade insta: @yasminsandrini
     location: "Brazil"
-    followers: 4310
-    engagement: 884
-    commentsToLikes: 0.032695
+    followers: 4479
+    engagement: 934
+    commentsToLikes: 0.032163
     id: ckc8bdl3g7sck0j23hzyyk1rn
     verified: false
-    hashtags: "#makeuphaul, #catsoftiktok, #gatosdetiktok, #brasil"
-  - username: "akemi_inoue"
-    fullname: >-
-      Akemi Inoue
-    bio: >-
-      🇧🇷🇯🇵 brasileira dicas de japonês, curiosidades ✨ dicas de skincare no insta
-    location: "Brazil"
-    followers: 157500
-    engagement: 1521
-    commentsToLikes: 0.019182
-    id: ckcvgh5jasutn0j23t8j28dyu
-    verified: false
-    hashtags: "#fy, #viral, #jap, #cabelo"
+    hashtags: "#makeuphaul, #maquiagembrasil, #fy, #foryou"
   - username: "eduardaborgs"
     fullname: >-
       Eduarda Borges
     bio: >-
       🇧🇷 beauty and lifestyle creator natural skincare✨ INSTA: @eduardaborgs_
     location: "Brazil"
-    followers: 193700
-    engagement: 1002
-    commentsToLikes: 0.017610
+    followers: 281400
+    engagement: 1161
+    commentsToLikes: 0.014144
     id: ckb931fdojhx70j234cm48np9
     verified: false
-    hashtags: "#fyp, #acneskin, #foryoupage, #fy"
+    hashtags: "#hair, #vaiprofy, #acne, #foryou"
+  - username: "rubyrose_oficial"
+    fullname: >-
+      Ruby Rose
+    bio: >-
+      Marca de cosméticos #crueltyfree Beleza ao alcance de todos!
+    location: "Brazil"
+    followers: 36700
+    engagement: 1384
+    commentsToLikes: 0.028164
+    id: ckdnts93jm1qf0j23fg0wx0f1
+    verified: false
+    hashtags: "#makeup, #rubyskin, #skincare, #pele"
   - username: "joriaaoliveira"
     fullname: >-
       ✨J O R I A ✨
     bio: >-
-      19y - Br •Uma tonta que ama aesthetic•
+      20y - Br •Uma tonta que ama aesthetic•
     location: "Brazil"
-    followers: 39900
-    engagement: 1533
-    commentsToLikes: 0.021904
+    followers: 40800
+    engagement: 1481
+    commentsToLikes: 0.021443
     id: ck9ng9kkpf2hg0j78ocxd4lqk
     verified: false
-    hashtags: "#skincare, #fyp, #accutane, #foryou"
-  - username: "vsco._aesthetic_._"
+    hashtags: "#roacutan, #booktok, #skincare, #selfcare"
+  - username: "amarofashion"
     fullname: >-
-      Rotinas e receitas✨
+      AMARO
     bio: >-
-      Obrigado pelos 44k✨ Flopada 🇧🇷 🇮🇹
+      AMARO.com: moda, beleza e bem estar em um só lugar. Participe do #LookRemix
     location: "Brazil"
-    followers: 46400
-    engagement: 1920
-    commentsToLikes: 0.016780
-    id: ckb1329zdr8660j23aymam3a0
+    followers: 23000
+    engagement: 1031
+    commentsToLikes: 0.039582
+    id: ck932hwzljiqo0j78rueo854a
+    verified: true
+    hashtags: "#fy, #foryou, #foryoupage, #skincare"
+  - username: "akemi_inoue"
+    fullname: >-
+      Akemi Inoue
+    bio: >-
+      🇧🇷🇯🇵 brasileira dicas de japonês, curiosidades ✨ ✨Segue no insta✨
+    location: "Brazil"
+    followers: 235800
+    engagement: 1532
+    commentsToLikes: 0.010582
+    id: ckcvgh5jasutn0j23t8j28dyu
     verified: false
-    hashtags: "#fy, #foryoupage, #aesthetic, #healthy"
+    hashtags: "#drama, #skincare, #maquiagem, #falefluente"
+  - username: "leboutiquebrasil"
+    fullname: >-
+      user9276450140144
+    bio: >-
+      WWW.LEBOUTIQUEBRASIL.COM.BR instagram @leboutiquebrasil
+    location: "Brazil"
+    followers: 10500
+    engagement: 527
+    commentsToLikes: 0.012987
+    id: ckbf855fsyci90j23kupqn483
+    verified: false
+    hashtags: ""
   - username: "leticiamelo.estetica"
     fullname: >-
       Leticia Melo
@@ -74,57 +98,33 @@ profiles:
       insta: leticiamelo.estetica 💕 Dicas/cuidados da pele 🧚‍♂️
     location: "Brazil"
     followers: 22100
-    engagement: 603
-    commentsToLikes: 0.006687
+    engagement: 577
+    commentsToLikes: 0.005568
     id: ckbq5nxbus5t70j2393j5d10z
     verified: false
-    hashtags: "#micropigmenta, #sobrancelhas, #cuidadoscomapele, #estetica"
-  - username: "renatarbp"
+    hashtags: "#esteticista, #micropigmenta, #amo, #daprafazer"
+  - username: "erickcosta.ofc"
     fullname: >-
-      Renata Biondo Pavão
+      erickcosta.ofc
     bio: >-
-      CONSULTORA DE MODA PERSONAL STYLIST @renatarbp.consultoria
+      Salvador-Bahia 🌴 Me segue no Insta: @erickcosta.ofc Insta: 52K 19 🦁
     location: "Brazil"
-    followers: 22300
-    engagement: 595
-    commentsToLikes: 0.026077
-    id: ckdtdnfw5vfcf0j23hfi94zs3
+    followers: 54500
+    engagement: 1745
+    commentsToLikes: 0.055769
+    id: ckd0spuujj03x0j23znoj7i6q
     verified: false
-    hashtags: "#fashion, #fotos, #fyp, #skincare"
-  - username: "leboutiquebrasil"
+    hashtags: "#fy, #foryou, #viral, #cachos"
+  - username: "aliciafalcoski"
     fullname: >-
-      user9276450140144
+      alicia luiza🦋
     bio: >-
-      WWW.LEBOUTIQUEBRASIL.COM.BR instagram @leboutiquebrasil
+      🦋Atriz | Cinema | Dançarina| A r t🦋 ela/dela
     location: "Brazil"
-    followers: 6336
-    engagement: 366
-    commentsToLikes: 0.009160
-    id: ckbf855fsyci90j23kupqn483
+    followers: 41500
+    engagement: 2255
+    commentsToLikes: 0.071600
+    id: ckcptgaqoo5aw0j23kktuz8e5
     verified: false
-    hashtags: "#blogdemoda, #modaparamulheres, #cute, #tbt"
-  - username: "margotpark"
-    fullname: >-
-      Margot Young Park
-    bio: >-
-      Dicas e truques das coreanas pra se manter jovem mesmo depois dos 50!💆🏼‍♀️🇰🇷
-    location: "Brazil"
-    followers: 344700
-    engagement: 706
-    commentsToLikes: 0.017789
-    id: ckb9gnkzy5vcr0j233wlkhali
-    verified: false
-    hashtags: "#exerciciofacial, #koreanwoman, #womanover50, #dueto"
-  - username: "aestheticrout"
-    fullname: >-
-      Aesthetic Routine 🍒
-    bio: >-
-      Aesthetic, GRWM and Routine videos 🍒✨🌻
-    location: "Brazil"
-    followers: 7044
-    engagement: 2537
-    commentsToLikes: 0.080276
-    id: ckbw64ip6y9hd0j23495fudly
-    verified: false
-    hashtags: "#fy, #foryou, #foryoupage, #fyp"
+    hashtags: "#fyp, #trend, #ladygaga, #skincare"
 ---

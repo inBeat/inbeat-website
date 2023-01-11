@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel Instagram Influencers In Venezuela in 2023
+title: Top 10 Travel Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top travel Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #model #viajerosoy #blogger.
+  Find top travel Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #viajerosoy #makeup #ccs.
 platform: Instagram
-hits: 74
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 74 Instagram influencers like this in Venezuela for you to work with.
+hits: 66
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 66 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
   - username: "ikeoficial"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Piérdete Conmigo 📸 ♤ Travel | Lifestyle | Fit De Locos y Poeta, todos tenemos un Poco ♥️ Lover of the 🌎 viajero 💎 Player ♠️
     location: "Venezuela"
-    followers: 12742
-    engagement: 942
-    commentsToLikes: 0.143941
+    followers: 13599
+    engagement: 849
+    commentsToLikes: 0.135506
     id: ck138cyppfmu50i19cr7vx1iz
     verified: false
-    hashtags: "#viajerosoy, #menstyleblog, #traveller, #stylemensfashion"
-  - username: "cuidartesamarte"
-    fullname: >-
-      Andria Viloria Lubo
-    bio: >-
-      Holistic Health coach Inspirando Bienestar a través del amor lifestyle, skincare, wellness, travel, self-care ✨🌈🦋🧖🏽‍♀️🥰 Shop @nyotaskin
-    location: "Venezuela"
-    followers: 99448
-    engagement: 396
-    commentsToLikes: 0.132134
-    id: ck5c6oaaa5ur00i11e4weo1ma
-    verified: false
-    hashtags: "#skincare, #cuidartesamarte, #beautyskinclub, #nutricionholistica"
-  - username: "veronicaweffer"
-    fullname: >-
-      Veronica Weffer
-    bio: >-
-      🎓Lic. Comunicación Social * TravelBlogger✈️ Youtuber * Bikini Model👙
-    location: "Venezuela"
-    followers: 465593
-    engagement: 462
-    commentsToLikes: 0.019344
-    id: ck15tapufh6000i198iul4w5x
-    verified: false
-    hashtags: "#blogger, #morrocoy, #vzla, #tucacas"
-  - username: "steffysoccer"
-    fullname: >-
-      Steffy G. - Coach ⚡️Cachaca
-    bio: >-
-      🔒22k Player ⚽️ Model 📸 Tv Host 🎥 @pibeycachaca 💪🏽🌱 @flp_gt 🇬🇹⚽️ #traveler #advancediver 🧜🏽‍♀️🌺🌊🦈🐙🎒🗺
-    location: "Venezuela"
-    followers: 21585
-    engagement: 250
-    commentsToLikes: 0.081520
-    id: ckap1szetw05m0i78rxbzfs5n
-    verified: false
-    hashtags: "#herbalifelatino, #meentrenoencasa, #lifestyle, #traininghard"
-  - username: "dailizmorillo"
-    fullname: >-
-      Dailiz | FASHION & LIFESTYLE
-    bio: >-
-      #ContentCreator • Model • Brand Ambassador • Outfits • Travels • Food and Just the way I LIVE MY LIFE✨
-    location: "Venezuela"
-    followers: 27326
-    engagement: 306
-    commentsToLikes: 0.027220
-    id: ck5hr53vaua1f0i11mp4uyxtf
-    verified: false
-    hashtags: "#blogger, #venezuelanblogger, #fashionblogger, #stylist"
+    hashtags: "#viajerosoy, #mochilerosporelmundo, #destinosencantados, #stylemensfashion"
   - username: "misaelbencosme"
     fullname: >-
       Misael Bencosme
     bio: >-
       Available to travel ✈ misaelbencosme@gmail.com Whatsapp 👇🏽
     location: "Venezuela"
-    followers: 20835
-    engagement: 558
-    commentsToLikes: 0.009484
+    followers: 21202
+    engagement: 415
+    commentsToLikes: 0.131285
     id: ck5bumxs7i2qb0i11rtv54xvo
     verified: false
-    hashtags: "#misaelbencosme, #wedding, #xv, #model"
-  - username: "enmanuelguedez1"
+    hashtags: "#wedding, #couple, #groom, #misaelbencosme"
+  - username: "steffysoccer"
     fullname: >-
-      Enmanuel | Travel Blogger🇻🇪
+      Steffy G. - Coach ⚡️Cachaca
     bio: >-
-      Traveler🚀 Músico🎸🎤 Venezolano🇻🇪 Mis videos⚡⬇️⬇️⬇️ ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+      🔒22k Player ⚽️ Model 📸 Tv Host 🎥 @pibeycachaca 💍👰🏼🤵🏻 @flp_gt 🇬🇹⚽️ #traveler #advancediver 🧜🏽‍♀️🌺🌊🦈🐙🎒🗺
     location: "Venezuela"
-    followers: 5653
-    engagement: 261
-    commentsToLikes: 0.057125
-    id: ck0u88eej6q3q0i19xqh2lngk
+    followers: 21107
+    engagement: 238
+    commentsToLikes: 0.086016
+    id: ckap1szetw05m0i78rxbzfs5n
     verified: false
-    hashtags: "#viajerosaviajar, #soyviajero, #viajaresunplacer, #viajaremospronto"
+    hashtags: "#reto21, #motivation, #herbalifenutrition, #reto21dias"
+  - username: "veronicaweffer"
+    fullname: >-
+      Veronica Weffer
+    bio: >-
+      🎓Lic. Comunicación Social * TravelBlogger✈️ Youtuber * Bikini Model👙
+    location: "Venezuela"
+    followers: 575440
+    engagement: 466
+    commentsToLikes: 0.015899
+    id: ck15tapufh6000i198iul4w5x
+    verified: false
+    hashtags: "#travel, #asia, #playa, #bikini"
+  - username: "cuidartesamarte"
+    fullname: >-
+      Andria Viloria Lubo
+    bio: >-
+      Holistic Health coach ✨🌈🦋🧖🏽‍♀️🥰 Inspirando Bienestar a través del amor Shop @nyotaskin lifestyle, skincare, wellness, travel, self-care
+    location: "Venezuela"
+    followers: 110367
+    engagement: 410
+    commentsToLikes: 0.139324
+    id: ck5c6oaaa5ur00i11e4weo1ma
+    verified: false
+    hashtags: "#cuidartesamarte, #makeup, #skincare, #24"
   - username: "mauriciodonelli"
     fullname: >-
       M A U R I C I O  D O N E L L I
     bio: >-
       Artist Fine Art - Scene Maker - Portraits & Fashion - High Travel Destination Images - Old Memories Images Rescuer
     location: "Venezuela"
-    followers: 22244
-    engagement: 376
-    commentsToLikes: 0.034217
+    followers: 22954
+    engagement: 280
+    commentsToLikes: 0.046006
     id: ck55lc83i191t0i11yv4vue9y
     verified: false
-    hashtags: "#jesussoto, #beatojose, #pemon, #santo"
+    hashtags: ""
+  - username: "antonellagualtieri"
+    fullname: >-
+      AG🦋
+    bio: >-
+      Made in🇻🇪 Psicóloga 👩🏼‍💻 Travel adiccted 🌍 Creadora de @agbikini 👙
+    location: "Venezuela"
+    followers: 5779
+    engagement: 1245
+    commentsToLikes: 0.036664
+    id: ckaotxa4xxwyj0i78kclho5o1
+    verified: false
+    hashtags: "#familia, #moda, #bqto, #navidad"
+  - username: "enmanueltravels"
+    fullname: >-
+      Enmanuel | Travel Blogger🇻🇪
+    bio: >-
+      Traveler🚀 Músico🎸🎤 Venezolano🇻🇪 Mis videos⚡⬇️⬇️⬇️ ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+    location: "Venezuela"
+    followers: 2952
+    engagement: 521
+    commentsToLikes: 0.047711
+    id: ck0u88eej6q3q0i19xqh2lngk
+    verified: false
+    hashtags: "#propositos2021, #propositosdea, #viajerosvenezolanos, #viajerovenezolano"
   - username: "doslocosdeviaje"
     fullname: >-
       Dos Locos De Viaje
     bio: >-
-      Travel, Food, Lifestyle 🌵 📍Madeira, Portugal 🇵🇹 👕@2locostore 🥘@gorditosdeviaje 🧳@socoadventures ⤵️TODO ACERCA DE NOSOTROS⤵️
+      Travel, Food, Lifestyle 🌵 📍Venezuela 🇻🇪 👕@2locostore 🧳@socoadventures 🥘@gorditosdeviaje ⤵️TODO ACERCA DE NOSOTROS⤵️
     location: "Venezuela"
-    followers: 223907
-    engagement: 224
-    commentsToLikes: 0.055113
+    followers: 257097
+    engagement: 315
+    commentsToLikes: 0.017676
     id: ck5cjb0bluctn0i11otuondod
     verified: false
-    hashtags: "#venezuela, #sloveniatravel, #doslocosdeviaje, #venezuelan"
-  - username: "antonellagualtieri"
+    hashtags: "#cappadocia, #saltoangel, #turquia, #visitturkey"
+  - username: "maruliriano"
     fullname: >-
-      Anto Gualtieri👑
+      ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀Maru Liriano
     bio: >-
-      🇻🇪VENEZOLANA 💘🙇🏻‍♂️ Travel adicct🌍 Psicóloga 👩🏼‍💼 Creadora de @agbikini 🌸
+      ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀10°01′44″N 69°05′22″W UT-4⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀🌏• Travel Agent •🌎 ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ 💜🅝🅞🅜🅐🅓🅐💜 ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ @playasdevenezuela
     location: "Venezuela"
-    followers: 3870
-    engagement: 1771
-    commentsToLikes: 0.040849
-    id: ckaotxa4xxwyj0i78kclho5o1
+    followers: 31859
+    engagement: 365
+    commentsToLikes: 0.013588
+    id: ck5btoekugbgz0i11vetmiv3o
     verified: false
-    hashtags: ""
+    hashtags: "#hogares, #blackandwhite, #lifeisbetterwhenshared, #bettertogether"
 ---

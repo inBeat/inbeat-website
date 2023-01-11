@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Portugal in 2023
+title: Top 10 Dancers Instagram Influencers In Portugal In 2023
 description: >-
-  Find top dancers Instagram influencers in Portugal in 2023. Most popular hashtags: #dance #portugal #tiktok.
+  Find top dancers Instagram influencers in Portugal in 2023. Most popular hashtags: #dancer #ballet #dancers.
 platform: Instagram
-hits: 29
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 29 Instagram influencers like this in Portugal for you to collaborate.
+hits: 21
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 21 Instagram influencers like this in Portugal for you to contact.
 profiles:
-  - username: "caro.lina.gil"
+  - username: "tothepointenutrition"
     fullname: >-
-      Cäro
+      Dance Nutritionist Rachel Fine
     bio: >-
-      ☼ Happy just because ⇢ Professional dancer & Teacher ✯ Pilates Instructor • Lisbon
+      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
     location: "Portugal"
-    followers: 9004
-    engagement: 1544
-    commentsToLikes: 0.083427
-    id: ck0u0x6rzv5ow0i19vvpq2udd
+    followers: 37160
+    engagement: 204
+    commentsToLikes: 0.012168
+    id: ck6tkfn344lx00j714kteow87
     verified: false
-    hashtags: "#cancerfighter, #diary, #love, #sunlight"
-  - username: "leonorfilipaa"
+    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
+  - username: "laraaoun_"
     fullname: >-
-      LEONOR FILIPA❣️
+      Lara Aoun
     bio: >-
-      • 17y😝 Dancer💃🏻Portugal 🇵🇹 • #tiktok: @leonorfilipaa 👑 (+690k) • PR, Digital & Brands: @thisisluvin • Collaborations: Direct / Email 📥
+      🇱🇧 👩‍💻General Manager | Marketing Executive 🏋️‍♀️Certified PT•Dancer 🎓Marketing•Advertising•PR 👇%code: lara10
     location: "Portugal"
-    followers: 41262
-    engagement: 1626
-    commentsToLikes: 0.045936
-    id: ck8wep64meeic0j78gwbo95r6
+    followers: 25470
+    engagement: 358
+    commentsToLikes: 0.069838
+    id: ck5hru5f2vhgt0i11jxmmypjn
     verified: false
-    hashtags: "#unstoppabledance, #dance, #choreo, #tiktokportugal"
-  - username: "camilaenribeiro4"
-    fullname: >-
-      𝐂𝐀𝐌𝐈𝐋𝐀 𝐑𝐈𝐁𝐄𝐈𝐑𝐎
-    bio: >-
-      🎓FLUP 👑Miss juvenil Portugal 👑Miss Bairrada e Miss Aveiro 👑Miss Baguim fashion 🆙Embaixadora Fitness Up ❤️Embaixadora @sobacha.pt 💃🏼Latin dancer
-    location: "Portugal"
-    followers: 13611
-    engagement: 900
-    commentsToLikes: 0.101152
-    id: ck8t6vzaoevei0j78vudxk1mz
-    verified: false
-    hashtags: "#happyhalloween, #20, #pub"
+    hashtags: "#stayactive, #birthdaygirl"
   - username: "giseleballerina"
     fullname: >-
-      Gisele Rodríguez
+      Gisele Rodríguez
     bio: >-
-      16 y.o.Mex 🇲🇽 Dancer 💃 Singer 🎤 @s.t.a.r.lights 20' 🇵🇹 RussianPointe Amb. 💜 EJBScholar💗 19'ENBS🇬🇧SI IBCMX🥇🥈 18'IBC🇨🇺🏅MXCB🥈 17'YAGPMX🏅& SD 11'-17'🇺🇲
+      Dancer 17 Trained in 🇺🇸 🇨🇺 🇬🇧 🇵🇹 🇲🇽 mom managed
     location: "Portugal"
-    followers: 4931
-    engagement: 2255
-    commentsToLikes: 0.043613
+    followers: 4862
+    engagement: 2307
+    commentsToLikes: 0.043755
     id: ck5q8skwk7snt0i115xjiyzea
     verified: false
-    hashtags: "#balletto, #russianpointebrand, #rplife, #balletdancer"
+    hashtags: "#ballerinaproject, #balletbeautifulfit, #balletbeautifulgirls, #balletpost"
+  - username: "claudiadias.oficial"
+    fullname: >-
+      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
+    bio: >-
+      💃🏽25| Lifestyle| Dancer | food lover Represented by @milenar_influence_media 💌claudia.dias@milenarmedia.pt 🎥Youtube Channel:Claudia Dias
+    location: "Portugal"
+    followers: 42189
+    engagement: 772
+    commentsToLikes: 0.005703
+    id: ck13bn882w8ri0i19lsl0rjse
+    verified: false
+    hashtags: "#day3, #cookingwithclaudia, #pub, #ograndegorrinho"
   - username: "flexible_kiki"
     fullname: >-
       Katarina Serralha| Flexibility
     bio: >-
-      •🇺🇸🇵🇹 20y •Dancer, gymnast & contortionist •Inspiring others & innovating ————————————— COLLABORATIONS DM 📥 —————————————
+      •🇺🇸🇵🇹 21y •Dancer, gymnast & contortionist •Inspiring others & innovating • Tik Tok 170,7k ————————————— COLLABORATIONS DM 📥 —————————————
     location: "Portugal"
-    followers: 5881
-    engagement: 843
-    commentsToLikes: 0.064976
+    followers: 5791
+    engagement: 575
+    commentsToLikes: 0.048981
     id: ck8wfldsgfw6p0j78l4tawyhi
     verified: false
     hashtags: ""
-  - username: "house.of.labs"
+  - username: "eumarianajade"
     fullname: >-
-      House of Labs
+      Mariana Jade MK - LEWD Cosplay
     bio: >-
-      International DJ|Producer 🎧 Dancer🕺🏼 BOOKING📩houseoflabs.booking@gmail.com OR DM 📍Lisbon, Portugal 🇵🇹 🔊 LISTEN MY LATEST PODCAST:
+      👠 NSFW/LEWD Cosplayer🔞 🏋🏽‍♀️ Fitness 💃🏽 Pole Dancer & Belly Dancer 📖 Intérprete 🇧🇷PT/🇮🇹IT/🇺🇲EN/🇪🇸SP 👑 Contato para jobs, feiras e eventos: DM/E-mail
     location: "Portugal"
-    followers: 39883
-    engagement: 168
-    commentsToLikes: 0.010541
-    id: ck5hk1bixhm670i11pqnao483
+    followers: 3474
+    engagement: 857
+    commentsToLikes: 0.143793
+    id: ckf5tcqynhhei0j23h9yyd7zc
     verified: false
-    hashtags: "#empaz"
-  - username: "carolinatabarramendes"
-    fullname: >-
-      Carolina Mendes
-    bio: >-
-      💃🏼 Professional Dancer 🎓University Student of Communication 🥤Co-creator by @sumol 🕶 CEO : @x_pose_store
-    location: "Portugal"
-    followers: 7252
-    engagement: 769
-    commentsToLikes: 0.015507
-    id: ck0tzqh04r6y00i19a0uhira1
-    verified: false
-    hashtags: "#sumol, #cocreatorbysumol, #orgulhosamentesumol, #cocreatorsbysumol"
+    hashtags: "#cosplay, #cosplaygirl, #nightwolf, #cyrax"
   - username: "gina_zaf"
     fullname: >-
       Gina_Zafeiroudi🍑
     bio: >-
       Runner🏃 Dancer💃Coffee Lover☕ CatMom🐱 📍 Greece 🇬🇷 🅰dmin: @houses_phototrip 🅰dmin: @streets_and_transports 📱Samsung S7 Edge 📷 Nikon D3300
     location: "Portugal"
-    followers: 2581
-    engagement: 1845
-    commentsToLikes: 0.076305
+    followers: 2569
+    engagement: 1901
+    commentsToLikes: 0.077696
     id: ck5pw20rlkpx20i116j9l419h
     verified: false
-    hashtags: "#discover, #travellingthroughtheworld, #natgeomyshot, #earthofficial"
+    hashtags: "#travellingthroughtheworld, #streets, #architecture, #streetphotography"
   - username: "k.lo.k.mari"
     fullname: >-
-      Khamari 🔺 WillieJames
+      Khamari (They/Them)
     bio: >-
-      Portuguese|Cape Verdean🇨🇻 ✝️3rd gender @lululemon Partnership @houseofxclusivelanvin 🐆 WETV|KIMORA LEE SIMMONS|BABYFACE|UNIVERSALSTUDIOS|AGT7 @UCLA🐻
+      
     location: "Portugal"
-    followers: 18937
-    engagement: 1721
-    commentsToLikes: 0.023204
+    followers: 18744
+    engagement: 1858
+    commentsToLikes: 0.023070
     id: ck5ztixto0i1b0i14s6gpjdys
     verified: false
-    hashtags: "#tiktok, #leggings, #parrisgoebel, #corona"
-  - username: "adnjuliano"
+    hashtags: "#losangeles, #numerology, #dancer, #choreography"
+  - username: "antoniocasalinho_official"
     fullname: >-
-      ADN Juliano
+      António Casalinho
     bio: >-
-      Choreographer & Teacher.📍🇵🇹 CEO @summerdancebrasil 🇧🇷 Judge @danceworldcup 🌍 Founder @alianzstreet 🔗 🥇@kodlatinamerica 💍@rimoldijuliana
+      1st place Prix de Lausanne 2021 Grand prix IBCC China 2019 Special Distinction Varna 2018 YAGP winner 2016/2018 Sodanca/DWC ambassador CIBDAS 🇵🇹
     location: "Portugal"
-    followers: 20233
-    engagement: 354
-    commentsToLikes: 0.073475
-    id: ck6u7ftcel9bw0j71y7mkmqst
+    followers: 33912
+    engagement: 1210
+    commentsToLikes: 0.012468
+    id: ck5c6b9yg534h0i11tlomupav
     verified: false
-    hashtags: "#portugal, #bep, #leiria, #blackeyedpeas"
+    hashtags: "#maledancer, #cibdas, #dancers, #ballet"
+  - username: "yogawith.iva"
+    fullname: >-
+      ivazanotte
+    bio: >-
+      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
+    location: "Portugal"
+    followers: 16826
+    engagement: 331
+    commentsToLikes: 0.304315
+    id: ckapauezvxic70i78ot2ctr0a
+    verified: false
+    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
 ---

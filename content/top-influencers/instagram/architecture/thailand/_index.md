@@ -1,106 +1,106 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Thailand in 2023
+title: Top 10 Architecture Instagram Influencers In Thailand In 2023
 description: >-
-  Find top architecture Instagram influencers in Thailand in 2023. Most popular hashtags: #thailand #bangkok #architecture #travel.
+  Find top architecture Instagram influencers in Thailand in 2023. Most popular hashtags: #thailand #bangkok #loves.
 platform: Instagram
 hits: 8
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 8 Instagram influencers like this in Thailand for you to pitch.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 8 Instagram influencers like this in Thailand for you to work with.
 profiles:
-  - username: "chaanviid"
+  - username: "nanna.phatt"
     fullname: >-
-      CC
+      Nanna.phat💋
     bio: >-
-      ❤ Architecture • Minimal • Creative 📷 Samsung Galaxy S20+ & Note20 🇹🇭 Made in Bangkok
+      📍Cabin crew at Bangkok Airways 📖 Interior Architecture from Chulalongkorn 🏡 Bangkok, Thailand 💕 Design and life style travel are my happiness
     location: "Thailand"
-    followers: 28175
-    engagement: 136
-    commentsToLikes: 0.036359
-    id: ck5hhj3sn8hql0i11ual2bcue
+    followers: 5137
+    engagement: 1709
+    commentsToLikes: 0.030837
+    id: ck8szpn0lp9ab0j78dovmsv8x
     verified: false
-    hashtags: "#teamgalaxy, #brightnight, #seeyourworlddifferrently, #galaxys20th"
-  - username: "jinnychotivichit"
+    hashtags: ""
+  - username: "mewpittinun"
     fullname: >-
-      Jinny Aimsiga Chotivichit
+      Pittinun Jariyavilaskul
     bio: >-
-      Work line : jinnychotivichit ♡shrewsbury int school ♡chula architecture 🥂@finedineonly 👙@tannedstore 🎹 #jinnyspiano
+      Architecture Chula Galaxy S21 @mw_spidey_collectibles @35mmew AtimeMedia / GMM Media For work please contact : 087-790-4222(พี่แปว)
     location: "Thailand"
-    followers: 432625
-    engagement: 89
-    commentsToLikes: 0.006171
-    id: ck0ueruw3m0o60i19qfgdb35l
-    verified: true
-    hashtags: "#flawlessfaceth, #bentayga, #jinnyscookin, #myabsoluelife"
+    followers: 56581
+    engagement: 294
+    commentsToLikes: 0.006336
+    id: ck0vv9fg8o4w00i19x8xpg9mm
+    verified: false
+    hashtags: "#wizconnectedth, #wizlighting, #seeyourworlddifferently, #aldocrew"
+  - username: "nwrmis"
+    fullname: >-
+      Natwaramon Fischl
+    bio: >-
+      Homeschool Mom🌈☀️💫 👩🏻 NATWARAMON 👧🏻LHANA 👦🏻ASHWIN 👶🏻 🍼 🎓Architecture KMITL ,T.U.N #21
+    location: "Thailand"
+    followers: 6988
+    engagement: 302
+    commentsToLikes: 0.018507
+    id: ck6tqd4u6qrmk0j71wgk1q0o6
+    verified: false
+    hashtags: "#homeschoolmom, #homeschoollife, #unschooling, #lhanafischl"
   - username: "pearnattatida"
     fullname: >-
       PEAR.
     bio: >-
       Architecture Chulalongkorn For work: ‭082-222-3619 (K.Bee) Line: @about.work42 Youtube: Walk Away หนีแม่เที่ยว
     location: "Thailand"
-    followers: 178707
-    engagement: 131
-    commentsToLikes: 0.001674
+    followers: 178020
+    engagement: 82
+    commentsToLikes: 0.002435
     id: ck13cbdvnzion0i19izrsy2n9
     verified: true
-    hashtags: "#trypomelo, #pacificagroup, #change2561, #amarintv34"
-  - username: "buroolescheeren"
-    fullname: >-
-      Buro Ole Scheeren
-    bio: >-
-      Architecture. Design. Research. Urbanism. Culture. Connectivity. Based in Berlin, Hong Kong, London, Beijing and Bangkok.
-    location: "Thailand"
-    followers: 19218
-    engagement: 418
-    commentsToLikes: 0.006032
-    id: ck15q42930zvj0i19eiwss9dn
-    verified: false
-    hashtags: "#publicrealm, #gac, #singapore, #skyscraper"
-  - username: "tak__photography"
-    fullname: >-
-      This.is.Me
-    bio: >-
-      Bangkok, Thailand 🇹🇭 Do it from love not for love..🖤 All photos taken by me.. 📷Canon 📱iPhone Unfollow = Unfollow
-    location: "Thailand"
-    followers: 7477
-    engagement: 1155
-    commentsToLikes: 0.065059
-    id: ck8tbl6o7w2zo0j78izzbfynn
-    verified: false
-    hashtags: "#flowers, #great, #sealovers, #life"
-  - username: "wandering_italiangirl"
-    fullname: >-
-      ℬlasiℬlasetti gℴ tℴ...🌍
-    bio: >-
-      • ℂ𝕠𝕟𝕥𝕖𝕟𝕥 𝕔𝕣𝕖𝕒𝕥𝕠𝕣 & ℍ𝕠𝕥𝕖𝕝 𝕣𝕖𝕧𝕚𝕖𝕨𝕖𝕣 • 𝟛𝟝 𝕔𝕠𝕦𝕟𝕥𝕣𝕚𝕖𝕤 • 𝔹𝕒𝕤𝕖𝕕 𝕚𝕟 ℝ𝕠𝕞𝕖 ~ 𝕀𝕥𝕒𝕝𝕪 • ℕ𝕚𝕜𝕠𝕟 𝔻𝟛𝟙𝟘𝟘 | 𝔾𝕠ℙ𝕣𝕠 ℍ𝕖𝕣𝕠𝟟 | 𝔻𝕣𝕠𝕟𝕖 𝔻𝕁𝕀 𝕄𝕒𝕧𝕚𝕔 𝔸𝕚𝕣
-    location: "Thailand"
-    followers: 13571
-    engagement: 615
-    commentsToLikes: 0.052736
-    id: ck9hbnf54hmbc0j78290xz4dd
-    verified: false
-    hashtags: "#passportready, #findyouradventure, #couplestyle, #letthemexplore"
+    hashtags: "#amarintv34, #pomelogirls, #change2561, #danielwellington"
   - username: "gypsypianist"
     fullname: >-
       ❤︎🅖🅨🅟🅢🅨ⓅⒾⒶⓃⒾⓈⓉ❤︎PLOY
     bio: >-
       📸all pнoтoѕ arə мιnə @poco_punk @alter_native_folks ❤︎ #gypsypianist DM for work Admin @thailandspirit
     location: "Thailand"
-    followers: 23418
-    engagement: 419
-    commentsToLikes: 0.170359
+    followers: 22438
+    engagement: 268
+    commentsToLikes: 0.201701
     id: ck8tdtruk4qnr0j78xygp621h
     verified: false
-    hashtags: "#cyberpunk, #moody, #streetphotography, #urbanphotography"
+    hashtags: "#depthobsessed, #illgrammers, #travelgram, #bangkokspirit"
+  - username: "travelintimenow"
+    fullname: >-
+      𝐁𝐢𝐥𝐚𝐥 & 𝐈𝐳𝐳𝐲 | Travel Couple
+    bio: >-
+      💰 | Entrepreneurs & Investors 📸 | Content Creators 📍 | Based in Chicago DM us and say 👋🏽 We'd love to chat!
+    location: "Thailand"
+    followers: 8695
+    engagement: 778
+    commentsToLikes: 0.443357
+    id: ck13bbeelum8t0i19s19ij7kf
+    verified: false
+    hashtags: "#couplegoals, #travelandleisure, #travelcouplegoals, #thetraveltribe"
   - username: "lllouis"
     fullname: >-
       Suppachai V.
     bio: >-
       @lllouis #lllouissketch urban sketcher🏃🏻 ✉lllouistacu@gmail.com
     location: "Thailand"
-    followers: 29080
-    engagement: 164
-    commentsToLikes: 0.007193
+    followers: 29503
+    engagement: 209
+    commentsToLikes: 0.007421
     id: ck9woyx6c732s0j78rr8sakjw
     verified: false
-    hashtags: "#illustration, #lineandwash, #watercolorsketch, #digitalillustration"
+    hashtags: "#urbansketchers, #whatshappeninginthailand, #sketchdaily, #lifelineartexhibition"
+  - username: "this_thailand"
+    fullname: >-
+      
+    bio: >-
+      # รักชาติ ศาสน์ กษัตริย์ คนไทยทุกคนหมู่เหล่าจงเฝ้าจำพ่อ...คือพลังของแผ่นดิน🇹🇭
+    location: "Thailand"
+    followers: 4393
+    engagement: 1411
+    commentsToLikes: 0.022156
+    id: ck8t7qotfho8j0j787dn08n3h
+    verified: false
+    hashtags: "#ayutthaya, #unseenthailand, #loves, #beautiful"
 ---

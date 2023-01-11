@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Ireland in 2023
+title: Top 10 Cooking TikTok Influencers In Ireland In 2023
 description: >-
-  Find top cooking TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryoupage #foryou #duet.
+  Find top cooking TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
 hits: 13
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in Ireland for you to connect with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in Ireland for you to collaborate.
 profiles:
   - username: "2daywearemaking"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       A Dad & Daughter cooking team based in Dublin, Ireland Merch 👇👇
     location: "Ireland"
-    followers: 16300
-    engagement: 1046
-    commentsToLikes: 0.027693
+    followers: 19700
+    engagement: 866
+    commentsToLikes: 0.032502
     id: cka0ppii999uw0i78yuwlyamq
     verified: false
-    hashtags: "#fyp, #foryoupage, #schoolbus, #foodtruck"
+    hashtags: "#foryoupage, #steak, #foodbus, #kitchenhack"
   - username: "elgeniu"
     fullname: >-
       Elgeniu
     bio: >-
-      Follow for more👨‍🍳☘️☘️☘️ Thanks for 7k next goal is 10k
+      Follow for more👨‍🍳☘️☘️☘️ Thanks for 10k next goal is 15k
     location: "Ireland"
-    followers: 7852
-    engagement: 311
-    commentsToLikes: 0.026035
+    followers: 10000
+    engagement: 265
+    commentsToLikes: 0.017441
     id: ckc2zve3lqot70j23z3mkmmql
     verified: false
-    hashtags: "#pork, #steak, #food, #chef"
-  - username: "wolfieroe34"
+    hashtags: "#foryou, #chef, #meat, #food"
+  - username: "kindseypentecost"
     fullname: >-
-      Luke Roe 💙💙
+      Kindsey Pentecost
     bio: >-
-      21 Irish boi 🇮🇪 Just a goofball 🤪 I have Aspergers 💚 18+ only, NO SPAMMING!
+      I love life!
     location: "Ireland"
-    followers: 197400
-    engagement: 2465
-    commentsToLikes: 0.059280
-    id: ck9flloafoipg0j78ffe4x53j
+    followers: 3594
+    engagement: 557
+    commentsToLikes: 0.075799
+    id: ckcdchltl52tz0j23bn2slo41
     verified: false
-    hashtags: "#himbo, #tkn, #fyp, #bass"
-  - username: "gibmyster"
+    hashtags: "#irelandboys, #foryourpage, #ireland, #americatoireland"
+  - username: "roughanfeatherstone"
     fullname: >-
-      GIBMYSTER
+      Frend?
     bio: >-
-      Follow for good luck🍀 Subscribe to my youtube😁 11K Followers?🙏 Irish🇮🇪 19
+      Something I said was hella cap link to merch
     location: "Ireland"
-    followers: 10500
-    engagement: 1448
-    commentsToLikes: 0.077009
-    id: ckcj5rh1f5vio0j23jpwezt1v
+    followers: 77900
+    engagement: 828
+    commentsToLikes: 0.080767
+    id: ckbl3hsr30w2r0j234i25kn19
     verified: false
-    hashtags: "#lljw, #llj, #tiktok, #relatable"
+    hashtags: "#memes, #starwarsmovie, #meme, #darthvader"
   - username: "amandavari21"
     fullname: >-
       Amanda vari
     bio: >-
       insta - @amanda_vari 🐮👋🐵
     location: "Ireland"
-    followers: 2257
-    engagement: 654
-    commentsToLikes: 0.043857
+    followers: 2228
+    engagement: 659
+    commentsToLikes: 0.046095
     id: ckc7qdnuivvjz0j23ax8ck5r8
     verified: false
-    hashtags: "#blacklivesmatter, #foryou, #america, #petroutine"
+    hashtags: "#fyp, #america, #duet, #blm"
+  - username: "jomu4482"
+    fullname: >-
+      Jone
+    bio: >-
+      what is life if full of care? Balls to it let's have a laugh😁🔞 very much in ❤
+    location: "Ireland"
+    followers: 8890
+    engagement: 634
+    commentsToLikes: 0.156762
+    id: ckbw7mjgayw9k0j23jxtj00bq
+    verified: false
+    hashtags: "#tiktoktraditions, #funny, #over50club, #stitch"
   - username: "shanejkennedy"
     fullname: >-
       shanejkennedy
     bio: >-
       IG - shanejkennedy Recovered Anorexic 🇮🇪
     location: "Ireland"
-    followers: 50700
-    engagement: 1433
-    commentsToLikes: 0.025739
+    followers: 50200
+    engagement: 1406
+    commentsToLikes: 0.028143
     id: ckb9ug6j4t2g90j2398nkga3b
     verified: false
-    hashtags: "#culture, #fyp, #travelmememories, #tiktokfood"
+    hashtags: "#beer, #fyp, #learnontiktok, #factslobby"
+  - username: "gibmyster"
+    fullname: >-
+      Gibmyster
+    bio: >-
+      
+    location: "Ireland"
+    followers: 10400
+    engagement: 944
+    commentsToLikes: 0.044278
+    id: ckcj5rh1f5vio0j23jpwezt1v
+    verified: false
+    hashtags: "#fyp, #greenscreensticker, #comedy, #foru"
   - username: "eoin_cronin"
     fullname: >-
       Eoin_cronin
     bio: >-
-      Lemme know when I’ve enough followers to make a business email😩 Follow my insta
+      Follow my insta Eoin_cronin
     location: "Ireland"
-    followers: 43800
-    engagement: 1103
-    commentsToLikes: 0.014847
+    followers: 44500
+    engagement: 1132
+    commentsToLikes: 0.014884
     id: ck9reh4ya2byu0j78b5gv7tj2
     verified: false
-    hashtags: "#foryou, #farmer, #puppylove, #farmerlife"
-  - username: "conorjmd"
+    hashtags: "#college, #duet, #agrispec, #foryou"
+  - username: "conorjmd2"
     fullname: >-
       Conor James Doyle
     bio: >-
       🇮🇪 ✂️ 🎨 🤷‍♂️ IG- ConorJmd
     location: "Ireland"
-    followers: 5883
-    engagement: 868
-    commentsToLikes: 0.018695
+    followers: 5835
+    engagement: 906
+    commentsToLikes: 0.017780
     id: ckbf6jxucw8q30j23hrj5v2bi
     verified: false
-    hashtags: "#isolation, #hairtutorial, #hairstylist, #hairtransformation"
-  - username: "goodforyou_01"
-    fullname: >-
-      firecracker_3
-    bio: >-
-      Quick & healthy recipe ideas for the average busy person wanting to be healthy!
-    location: "Ireland"
-    followers: 20200
-    engagement: 371
-    commentsToLikes: 0.007793
-    id: ckbqg62621oa80j23zpwm0xy0
-    verified: false
-    hashtags: "#mealprep, #lowfat, #mealprepideas, #healthysnacks"
-  - username: "saskiakeogh3"
-    fullname: >-
-      Saskia Keogh
-    bio: >-
-      Live your life, babe 🦋 19 / 🇮🇪
-    location: "Ireland"
-    followers: 7102
-    engagement: 293
-    commentsToLikes: 0.020494
-    id: ckbfgpz3ebvkm0j23mo1ot7fe
-    verified: false
-    hashtags: "#relatable, #fitnesstips, #irish, #foryoupage"
+    hashtags: "#isolation, #viral, #covid19, #hairvideos"
 ---

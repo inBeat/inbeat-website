@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Barcelona in 2023
+title: Top 10 Comedians TikTok Influencers In Barcelona In 2023
 description: >-
-  Find top comedians TikTok influencers in Barcelona in 2023. Most popular hashtags: #comedia #parati #humor #barcelona.
+  Find top comedians TikTok influencers in Barcelona in 2023. Most popular hashtags: #comedia #parati #humor #fyp.
 platform: TikTok
-hits: 35
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 35 TikTok influencers like this in Barcelona, Spain for you to work with.
+hits: 24
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 24 TikTok influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "zaiciudadlopez"
+  - username: "ihorofficial"
     fullname: >-
-      Zaii
+      IhorOfficial
     bio: >-
-      ••• ❣️ hakuna matata 💞👩👧 Insta: wita_ceni
+      All questions of cooperation in IG ✍🏻👇🏻
     location: "Spain"
-    followers: 58600
-    engagement: 1239
-    commentsToLikes: 0.009269
-    id: ckbkdm80w3rrx0j232bls2r8c
+    followers: 480300
+    engagement: 375
+    commentsToLikes: 0.023714
+    id: ckdhvkux53t440j239aqn1iyz
     verified: false
-    hashtags: "#toxica, #risas, #parati, #dance"
-  - username: "pablobackhome"
-    fullname: >-
-      Pablo Menéndez Lapue
-    bio: >-
-      Filmmaker- Viajes y aventura- @pablobackhome Sígueme en YouTube
-    location: "Spain"
-    followers: 53800
-    engagement: 978
-    commentsToLikes: 0.037617
-    id: ckb9fe97g3o5u0j235qsv4kms
-    verified: false
-    hashtags: "#aprendecontiktok, #fyp, #viajar, #viajarbarato"
+    hashtags: "#ihorofficial, #junya1gou, #edit, #giant"
   - username: "santigranizal"
     fullname: >-
       SANTIGRANIZAL 
     bio: >-
       Actor , Bailarín y Coreógrafo Mi cuenta no es solo para niños 👈🏻
     location: "Spain"
-    followers: 17200
-    engagement: 1136
-    commentsToLikes: 0.024534
+    followers: 17000
+    engagement: 1127
+    commentsToLikes: 0.024424
     id: ck8tu6u7isc3g0j78m7whfaon
     verified: false
-    hashtags: "#argentina, #humor, #comedia, #quedateencasa"
+    hashtags: "#comedia, #humor, #parati, #barcelona"
   - username: "elshowdelchecham"
     fullname: >-
       El show del checham
     bio: >-
       🎙: @sr.chechamflecham96 (JI🖤) 🎥: @robertperet94 / @le_georgeedj
     location: "Spain"
-    followers: 16600
-    engagement: 929
-    commentsToLikes: 0.011310
+    followers: 16100
+    engagement: 915
+    commentsToLikes: 0.013074
     id: ck920j9lyee820j78e74wvbtd
     verified: false
-    hashtags: "#catalunya, #barcelona, #paratihumorespa, #comedia"
+    hashtags: "#paratihumorespa, #humorespa, #joventud, #catalunya"
   - username: "mikhailcossi"
     fullname: >-
       MIKHAIL COSSI
     bio: >-
-      🔥 INSTAGRAM +18K ⬆️ 📸 Artist 🎥 Actor ✈️ Traveller 🇪🇸 Spain ✉️ Direct IG
+      🔥 19 K in INSTAGRAM ⬆️ ⚡️ Designer and actor 🇪🇺 Madrid | Barcelona ✉️ Direct
     location: "Spain"
-    followers: 86700
-    engagement: 403
-    commentsToLikes: 0.036687
+    followers: 86000
+    engagement: 397
+    commentsToLikes: 0.055204
     id: ckdsukdmzptjz0j23kfgfh6cx
     verified: false
-    hashtags: "#acting, #chistes, #caracas, #florida"
+    hashtags: "#invierno, #tiktok, #reels, #vzla"
   - username: "humor.de.ary"
     fullname: >-
       ARY
     bio: >-
-      🎭 ESTAMOS DE COÑA 🎭 💕Desde Barcelona 💕 💕Fabricada en 1985💕
+      💥 BARCELONA 💥 AMEN, ASÍ, SIN ACENTO Y no se olvide del humor
     location: "Spain"
-    followers: 7505
-    engagement: 1612
-    commentsToLikes: 0.090996
+    followers: 8192
+    engagement: 1451
+    commentsToLikes: 0.139882
     id: ck9ejdcxz2gxr0j7848tfh35u
     verified: false
-    hashtags: "#humordeary, #fyp, #comedia, #amigosconderecho"
+    hashtags: "#comedia, #covid19, #humor, #holamigente"
   - username: "la_tata_sheila"
     fullname: >-
       La tata
     bio: >-
       #barcelona #santacolomadegramanet #humor
     location: "Spain"
-    followers: 6255
-    engagement: 1279
-    commentsToLikes: 0.094201
+    followers: 6242
+    engagement: 1178
+    commentsToLikes: 0.118703
     id: ck9emjir4ff450j78oeb9gv9u
     verified: false
-    hashtags: "#covid19, #ni, #humor, #comedia"
-  - username: "roisastre"
-    fullname: >-
-      ROI SASTRE
-    bio: >-
-      BARCELONA IG | roisastre No soy borde, soy directo roisastre@inmanagement.agency
-    location: "Spain"
-    followers: 248400
-    engagement: 2039
-    commentsToLikes: 0.012352
-    id: ckacuz98llb9v0i78y0hos15b
-    verified: false
-    hashtags: "#covid, #humor, #toquedequeda, #embajadoroscarmayer"
-  - username: "alex_calandria._"
-    fullname: >-
-      Alex_calandria
-    bio: >-
-      📍Barcelona 👇Sígueme en instagram @alex_calandria👇
-    location: "Spain"
-    followers: 1100000
-    engagement: 2092
-    commentsToLikes: 0.152316
-    id: ckb9l8673do4r0j23v50uxdev
-    verified: false
-    hashtags: ""
+    hashtags: "#comedia, #cat, #manualidad, #navidad"
   - username: "electrocrash"
     fullname: >-
       Ricardo Garcia
     bio: >-
       Actor que hace random 100% 😎 👉 Sígueme, es Gratis 😉 📍Barcelona 🇪🇦
     location: "Spain"
-    followers: 2497
-    engagement: 944
-    commentsToLikes: 0.141407
+    followers: 2502
+    engagement: 927
+    commentsToLikes: 0.139999
     id: ckdbbu6ij6j8j0j23hwbv4fye
     verified: false
-    hashtags: "#parati, #comedia, #humorbizarro, #videoviral"
+    hashtags: "#videoviral, #20k, #parati, #comedia"
+  - username: "gerardo.begerez"
+    fullname: >-
+      Gerardo Begérez 
+    bio: >-
+      Actor URUGUAYO en BARCELONA Sígueme en Instagram begerezteatro@gmail
+    location: "Spain"
+    followers: 4400000
+    engagement: 1548
+    commentsToLikes: 0.058370
+    id: ck8tqcppdqqxo0j78wwqpubxq
+    verified: true
+    hashtags: "#reaction, #fyp, #pt, #duos"
+  - username: "alex_calandria._"
+    fullname: >-
+      Alex_calandria
+    bio: >-
+      📍Barcelona Sígueme en instagram:@alex_calandria
+    location: "Spain"
+    followers: 1400000
+    engagement: 1462
+    commentsToLikes: 0.115925
+    id: ckb9l8673do4r0j23v50uxdev
+    verified: false
+    hashtags: "#foryou, #mexico, #fyp, #foryoupage"
+  - username: "lady_pizza_hug"
+    fullname: >-
+      Marta González 
+    bio: >-
+      - lvl.20 🌺 - Otaku, Coslayer💗 - Barcelona City representado
+    location: "Spain"
+    followers: 1300000
+    engagement: 1540
+    commentsToLikes: 0.011811
+    id: ckavo91buyvhs0j23tyhscs9s
+    verified: false
+    hashtags: "#mikasacosplay, #urarakacosplay, #ochakourarakacosplay, #froppy"
 ---

@@ -1,48 +1,36 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Phoenix in 2023
+title: Top 10 Fitness TikTok Influencers In Phoenix In 2023
 description: >-
-  Find top fitness TikTok influencers in Phoenix in 2023. Most popular hashtags: #fitness #phoenix #arizona #fyp.
+  Find top fitness TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #fitness #arizona #phoenix.
 platform: TikTok
-hits: 16
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 16 TikTok influencers like this in Phoenix, United States for you to connect with.
+hits: 11
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in Phoenix, United States for you to contact.
 profiles:
-  - username: "drmarkheisig"
-    fullname: >-
-      Mark Heisig
-    bio: >-
-      DM me on insta 👆 Integrative concussion doc 🧠 Work with me 👇
-    location: "United States"
-    followers: 3737
-    engagement: 553
-    commentsToLikes: 0.114457
-    id: ck9fy5tmh9drn0j78pcyzggsr
-    verified: false
-    hashtags: "#health, #exercise, #hockey, #mtbi"
   - username: "romanbravoyoung"
     fullname: >-
       Roman Bravo-Young
     bio: >-
       
     location: "United States"
-    followers: 94300
-    engagement: 1281
-    commentsToLikes: 0.007501
+    followers: 95100
+    engagement: 1354
+    commentsToLikes: 0.008384
     id: ck977j7qk4fi50j782daxu3eu
     verified: false
-    hashtags: "#wrestling, #foryou, #wrestler, #wrestlers"
+    hashtags: "#foryou, #wrestling, #wrestlers, #wrestler"
   - username: "vibewnavi"
     fullname: >-
       Navi✨
     bio: >-
-      ☬ I love Fitness💪🏽,Bhangra💃🏻,Exploring. Staying true to myself✨ Ig:naviiikk
+      Sikh☬ Fitness Lover, Bhangra Dancer, Mental Health Advocate✨ Ig:naviiik
     location: "United States"
-    followers: 2553
-    engagement: 818
-    commentsToLikes: 0.063412
+    followers: 3467
+    engagement: 882
+    commentsToLikes: 0.087427
     id: cka63m16r4yc80i78urjbm5v5
     verified: false
-    hashtags: "#punjabi, #nature, #desi, #sedona"
+    hashtags: "#danceyourstyle, #duet, #stretchingroutine, #mobilitytraining"
   - username: "kingabdul_ghost"
     fullname: >-
       kingabdul_Phoenix
@@ -54,77 +42,89 @@ profiles:
     commentsToLikes: 0.020521
     id: ckcj12jt83ohd0j23gn747988
     verified: false
-    hashtags: "#workout, #viral, #fit, #fitness"
-  - username: "madsandmidnight"
+    hashtags: "#fit, #viral, #fitness, #workout"
+  - username: "1dailymart"
     fullname: >-
-      Madison
+      Diego Martinez
     bio: >-
-      25 I like fitness + dogs @madsandmidnight
+      🏡Real Estate🏡 📍Phoenix, Arizona “Let’s Learn Together” Dm on IG
     location: "United States"
-    followers: 3593
-    engagement: 372
-    commentsToLikes: 0.026582
-    id: cka0of6zg3nyj0i78d2h6lw2h
+    followers: 7517
+    engagement: 988
+    commentsToLikes: 0.054755
+    id: ckal65c789bme0i78hjl7wwcx
     verified: false
-    hashtags: "#workout, #doitbold, #dachshund, #dialitforward"
-  - username: "_ya_boy_roy"
+    hashtags: "#getafterit, #fyp, #fitness, #letslift"
+  - username: "arianapinto_"
     fullname: >-
-      Roy Ulrich
+      Ariana 💗
     bio: >-
-      🍪Ya Boy Roy 💪CEO RUF Fitness 🎙The Ya Boy Roy Show Podcast
+      Fitness, traveling & random content 🤪
     location: "United States"
-    followers: 13700
-    engagement: 984
-    commentsToLikes: 0.063124
-    id: ck9jzkeuz95i60j78p98as31m
+    followers: 4229
+    engagement: 783
+    commentsToLikes: 0.041998
+    id: ckb0saf8ehtg80j23sxy7vqsy
     verified: false
-    hashtags: "#puppylove, #fyp, #showupshowoff, #duet"
-  - username: "lauramrock"
-    fullname: >-
-      ❤️Mama Rock❤️
-    bio: >-
-      Never bored never boring💕mom, traveler✈️vegan🥑rule breaker😁always grateful🎉
-    location: "United States"
-    followers: 4875
-    engagement: 926
-    commentsToLikes: 0.298083
-    id: ckbfbakyz37gl0j23rziwkk4l
-    verified: false
-    hashtags: "#beautiful, #justdoit, #trend, #fitness"
-  - username: "asuntagaribay"
-    fullname: >-
-      Asunta Garibay
-    bio: >-
-      I’m a chef with personality and opinions!! Enjoy!
-    location: "United States"
-    followers: 9255
-    engagement: 472
-    commentsToLikes: 0.043255
-    id: ckcjbj1z48zo00j23yycwvf3k
-    verified: false
-    hashtags: "#fyp, #foryoupage, #fitness, #foodie"
-  - username: "leilaparnian"
-    fullname: >-
-      Leila Parnian
-    bio: >-
-      Full time Artist 👩🏻‍🎨 Love to lift 🏋🏻‍♀️ Comedy 🎭 Insta @leilaparnian
-    location: "United States"
-    followers: 14200
-    engagement: 427
-    commentsToLikes: 0.036167
-    id: ckbktiuekoo4h0j23pemraffv
-    verified: false
-    hashtags: "#squat, #fit, #painting, #fitfam"
+    hashtags: "#legday, #selflove, #getfitwithme, #weightlifting"
   - username: "bachatawithbain"
     fullname: >-
       bachatawithbain
     bio: >-
-      “How-to” videos on YouTube! Bain Craddock IG: bachatawithbain
+      IG: bachatawithbain Reach out via Insta 🙌 Tempe, AZ, USA 🇺🇸
     location: "United States"
-    followers: 54000
-    engagement: 483
-    commentsToLikes: 0.009173
+    followers: 57900
+    engagement: 487
+    commentsToLikes: 0.008637
     id: ckavilwanquur0j23ez31mmjc
     verified: false
-    hashtags: "#baile, #dancer, #dans, #tempe"
+    hashtags: "#baile, #latindance, #dan, #ples"
+  - username: "16bhaha93"
+    fullname: >-
+      Brendon Haha O’Brien
+    bio: >-
+      Hello Pls add me on IG Snap @btodahaha
+    location: "United States"
+    followers: 147600
+    engagement: 1702
+    commentsToLikes: 0.029163
+    id: ckbw3nuelx7rl0j23u3jpzj0v
+    verified: false
+    hashtags: "#curlscheck, #swag, #dribbletothebeat, #makesomeonesmile"
+  - username: "shirleybooysen7"
+    fullname: >-
+      Shirley Booysen
+    bio: >-
+      20 🇺🇸 South African 🇿🇦 Leo ♌️
+    location: "United States"
+    followers: 5695
+    engagement: 1637
+    commentsToLikes: 0.111431
+    id: cka6iu7dgs35u0i78ao65jj3a
+    verified: false
+    hashtags: "#fingerdance, #reachinggoals, #arizonastate, #cindy518c"
+  - username: "brenna.842"
+    fullname: >-
+      Brenna 🇺🇸
+    bio: >-
+      Instagram: @brennaarizona 🇺🇸🐘
+    location: "United States"
+    followers: 85800
+    engagement: 831
+    commentsToLikes: 0.136619
+    id: ckbafw6zl7xai0j2371xbwchj
+    verified: false
+    hashtags: "#america, #democrat, #freecountry, #biden"
+  - username: "cuzzinbrucie"
+    fullname: >-
+      CuzzinBrucie
+    bio: >-
+      Arizona. Born & bred NJ. 49.
+    location: "United States"
+    followers: 8272
+    engagement: 700
+    commentsToLikes: 0.068902
+    id: ckbkjdsrlc6650j23u5qruxrp
+    verified: false
+    hashtags: "#stayathome, #covid19, #arizona, #swimming"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Australia in 2023
+title: Top 10 Vegan TikTok Influencers In Australia In 2023
 description: >-
-  Find top vegan TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #vegan #foryou #love.
+  Find top vegan TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #vegan #foryoupage.
 platform: TikTok
-hits: 67
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database has 67 TikTok influencers like this in Australia for you to pitch.
+hits: 76
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 76 TikTok influencers like this in Australia for you to work with.
 profiles:
+  - username: "llilipuff"
+    fullname: >-
+      💜lili💖
+    bio: >-
+      vegan h03 from AUS with lots of animals 🇦🇺 🔞+ links below 🥰
+    location: "Australia"
+    followers: 53600
+    engagement: 1849
+    commentsToLikes: 0.032744
+    id: ckbqnk6om8f9i0j23ek4y4gx4
+    verified: false
+    hashtags: "#ourchickens, #shrek, #werkingthesehashtags, #largenotesonly"
   - username: "sustainable.eating"
     fullname: >-
       zero waste foodie ✨
@@ -18,31 +30,31 @@ profiles:
     commentsToLikes: 0.068752
     id: ck8fb23yn559y0j783l1z9r29
     verified: false
-    hashtags: "#fyp, #blm, #healthy, #food"
-  - username: "vganbooty"
-    fullname: >-
-      vganbooty
-    bio: >-
-      Tash Peterson Watch Dominion on YouTube how to go vegan ⬇️
-    location: "Australia"
-    followers: 131600
-    engagement: 1017
-    commentsToLikes: 0.219314
-    id: ckce5fjlsk1vq0j23voj7vv0l
-    verified: false
-    hashtags: "#yougotthis, #happyhalloween, #meleaving, #gaminglife"
+    hashtags: "#blm, #whatieatinaday, #healthy, #gym"
   - username: "angiekaran"
     fullname: >-
       Angie KaranⓋ🌱
     bio: >-
-      Ethical Vegan/A/RightsActivist🌱 Respect Nature/Animals Live Life Simply ((🕉))
+      Compassion for animals💚 🌏☮🙏🏻 Vegan🌱 Live Life Simply ((🕉))
     location: "Australia"
-    followers: 36300
-    engagement: 969
-    commentsToLikes: 1.349006
+    followers: 37900
+    engagement: 874
+    commentsToLikes: 1.686844
     id: ckbktjk5morbl0j23ezpidiie
     verified: false
-    hashtags: "#quote, #bekindtoanimals, #thefutureisvegan, #vegantruth"
+    hashtags: "#toinspire, #animals, #plantbased, #meateaters"
+  - username: "starcrossedsoapery"
+    fullname: >-
+      Star Crossed Soapery
+    bio: >-
+      Aquarian Made Artisan Soaps 🧼✨ Restock 17th April! ♈️ Vegan & Palm Free 🌿
+    location: "Australia"
+    followers: 217600
+    engagement: 1329
+    commentsToLikes: 0.022172
+    id: ck9eljnpvawgh0j78xraao218
+    verified: false
+    hashtags: "#zodiac, #smallbusiness, #soapclay, #soap"
   - username: "littlemissbec"
     fullname: >-
       💗 Bec 💗
@@ -54,77 +66,65 @@ profiles:
     commentsToLikes: 0.021591
     id: ckc34eunqtrki0j233eey26fu
     verified: false
-    hashtags: "#tiktokteacher, #teacher, #dogsoftiktok, #teachersoftiktok"
+    hashtags: "#tiktokteacher, #staffy, #fyp, #classroom"
   - username: "rupinder.singh05"
     fullname: >-
       Rupinder.Singh
     bio: >-
       #Vegan Bodybuilder #folk & Rock Bhangra Academy 🇦🇺 Snap- rupinder009
     location: "Australia"
-    followers: 9563
-    engagement: 643
-    commentsToLikes: 0.047712
+    followers: 9553
+    engagement: 639
+    commentsToLikes: 0.046623
     id: ckbvvpt6yu0150j233vfel1gk
     verified: false
-    hashtags: "#bhangra, #gymlover, #sardari, #punjabi"
-  - username: "starcrossedsoapery"
-    fullname: >-
-      Star Crossed Soapery
-    bio: >-
-      Aquarian Made Artisan Soaps 🧼✨ Restock 28th November! ♏️ Vegan & Palm Free 🌿
-    location: "Australia"
-    followers: 204700
-    engagement: 1281
-    commentsToLikes: 0.010246
-    id: ck9eljnpvawgh0j78xraao218
-    verified: false
-    hashtags: "#soap, #fyp, #crystals, #soapmaking"
+    hashtags: "#gymlover, #sardari, #folk, #punjabi"
   - username: "tullyzkitchen"
     fullname: >-
       tullyzkitchen
     bio: >-
-      🌱Vegan Recipes and Rap 🌱www.tullyzkitchen.com 👇🏽BUY APPAREL👇🏽
+      🌱Vegan Recipes and Laughs 🌱Can I get to 300k👍 🌱www.tullyzkitchen.com
     location: "Australia"
-    followers: 30700
-    engagement: 937
-    commentsToLikes: 0.038504
+    followers: 246800
+    engagement: 1297
+    commentsToLikes: 0.024167
     id: ck8fayx0p4pgh0j786vm7safe
     verified: false
-    hashtags: "#vegansoftiktok, #veganfoodie, #vegansoftik, #vegan"
-  - username: "justjakk"
-    fullname: >-
-      jakrose
-    bio: >-
-      she / her 🇦🇺 vegan dancer
-    location: "Australia"
-    followers: 19800
-    engagement: 1080
-    commentsToLikes: 0.017287
-    id: ckbfc8k144tvj0j23w766tezp
-    verified: false
-    hashtags: "#perth, #cat, #foryou, #fyp"
+    hashtags: "#vegan, #ramsayreacts, #foryou, #easyrecipe"
   - username: "fake.treats"
     fullname: >-
       Fake Treats
     bio: >-
       Vegan | Cruelty-Free The Beauty Pamper Store AUS MADE 10% OFF WITH CODE: TIKTOK
     location: "Australia"
-    followers: 62300
-    engagement: 666
-    commentsToLikes: 0.005534
+    followers: 61500
+    engagement: 594
+    commentsToLikes: 0.012857
     id: ckcj2o3iu4ff60j23yreoabx6
     verified: false
-    hashtags: "#australia, #bath, #beauty, #satisfying"
+    hashtags: "#foryou, #beautyblogger, #supportsmall, #faketreats"
+  - username: "justjakk"
+    fullname: >-
+      jakrose
+    bio: >-
+      she / they 🇦🇺 vegan dancer
+    location: "Australia"
+    followers: 20100
+    engagement: 1134
+    commentsToLikes: 0.016802
+    id: ckbfc8k144tvj0j23w766tezp
+    verified: false
+    hashtags: "#wlw, #fyp, #perth, #foryou"
   - username: "sabrina.the.vegan.witch"
     fullname: >-
       Sabrina M
     bio: >-
       Welcome to my weird (but great) life Ig: @Sabrina.the.vegan.witch
     location: "Australia"
-    followers: 3185
-    engagement: 311
-    commentsToLikes: 0.030630
+    followers: 3165
+    engagement: 320
+    commentsToLikes: 0.031460
     id: ck87tz87v4b7h0j781c784zjy
     verified: false
-    hashtags: "#4u, #fy, #foryou, #foryoupage"
+    hashtags: "#longhair, #hairgoals, #foryou, #fy"
 ---

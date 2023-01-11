@@ -1,130 +1,118 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Portugal in 2023
+title: Top 10 Wellness Instagram Influencers In Portugal In 2023
 description: >-
-  Find top wellness Instagram influencers in Portugal in 2023. Most popular hashtags: #fitness #wellness #lifestyle #fitnessmotivation.
+  Find top wellness Instagram influencers in Portugal in 2023. Most popular hashtags: #fitness #instagood #motivation #healthylifestyle.
 platform: Instagram
-hits: 18
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 18 Instagram influencers like this in Portugal for you to work with.
+hits: 9
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 9 Instagram influencers like this in Portugal for you to work with.
 profiles:
-  - username: "belle_azzure"
+  - username: "daphnemoreau"
     fullname: >-
-      B E L L E    A Z Z U R E
+      Daphné Moreau (Mode&TheCity)
     bio: >-
-      Speaker & Digital Marketer @Google Positivity🧡 Wellness💙 Fitness, Food & Travel 🌎 2021 Bride🤞🏽💍 @thecollaborationsagency 💌belleazzureblog@gmail.com
+      ✨ Sharing everyday things that make me happy : wellness, conscious fashion, #cleanbeauty & home decor 🔑 @daphnesdreamhome 💌 daphne@modeandthecity.net
     location: "Portugal"
-    followers: 43966
-    engagement: 421
-    commentsToLikes: 0.059133
-    id: ckap5mij9cbxe0i78crp87bo9
+    followers: 188900
+    engagement: 242
+    commentsToLikes: 1.439422
+    id: ck0tu50yq5o140i19dtvus4cs
+    verified: true
+    hashtags: "#preppyfashion, #parisianstyle, #gossipgirl, #homerenovation"
+  - username: "rafaelaalexandra0"
+    fullname: >-
+      Rafaela Duarte | Healthy 💫
+    bio: >-
+      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
+    location: "Portugal"
+    followers: 55768
+    engagement: 522
+    commentsToLikes: 0.029931
+    id: ckapbzw1a1xic0i78r1nx98i6
     verified: false
-    hashtags: "#staycation, #irish, #summer, #travel"
+    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
   - username: "martinaaitolehtiofficial"
     fullname: >-
       Martina Aitolehti
     bio: >-
-      • PT, Wellness & Nutrition coach • @puma Triathlete • @mwebstorefi ➡️ koodilla MARTINA -10% ONLINE COACHING 👇🏽
+      • PT, Wellness & Nutrition coach • @superdry Triathlete • @mwebstorefi ➡️ koodilla MARTINA -10% ONLINE COACHING 👇🏽
     location: "Portugal"
-    followers: 145828
-    engagement: 196
-    commentsToLikes: 0.008074
+    followers: 146224
+    engagement: 185
+    commentsToLikes: 0.006643
     id: ck139zvzznxgw0i19wf8kx5t9
     verified: true
-    hashtags: "#21pa, #eatlikemartina, #trainingwithmartina, #thursdaymorning"
-  - username: "carolina10ferreira"
-    fullname: >-
-      Carolina Ferreira 🌱🌍🕊️
-    bio: >-
-      🍀 Wellness | Food | Healthy | Travel | Lifestyle 📍Porto, Portugal 🇵🇹 | ✈️: 🇪🇸🇨🇵🇩🇪🇲🇽🇨🇭 🎓 UPT - GH
-    location: "Portugal"
-    followers: 3197
-    engagement: 1849
-    commentsToLikes: 0.148616
-    id: ck8t50jcr8g6g0j78pfzywg8j
-    verified: false
-    hashtags: "#like4likes, #healthyeating, #sunset, #lifestyle"
-  - username: "barbaraduartz"
-    fullname: >-
-      BÁRBARA DUARTE✨
-    bio: >-
-      FITNESS & LIFESTYLE 🇵🇹 Be Yourself. Be Free.🦋 🗻 From Azores 💄Makeup Lover 🌐@zumub: BARBARA10
-    location: "Portugal"
-    followers: 5207
-    engagement: 1185
-    commentsToLikes: 0.040490
-    id: ckaoy4a4nfzym0i78lm1h1v1o
-    verified: false
-    hashtags: "#influencer, #portugal, #gymgear, #influencerstyle"
-  - username: "team_danielaoliveira"
-    fullname: >-
-      Team Daniela Oliveira
-    bio: >-
-      Daniela Oliveira Personal Training para Mulheres Programa online de 12 semanas de transformação “Power Women” 🦸🏻‍♀️ DM📩teamdanielaoliveira@gmail.com
-    location: "Portugal"
-    followers: 9000
-    engagement: 299
-    commentsToLikes: 0.039677
-    id: ck9hbrzpsi6mn0j783gsmm4rx
-    verified: false
-    hashtags: "#coach, #fitnesslife, #teamdanielaoliveira, #personaltrainer"
+    hashtags: "#21pa, #21p, #maybeauty, #trainingwithmartina"
   - username: "fit_with_lia"
     fullname: >-
-      🇱​🇮​🇦​
+      🇱​🇮​🇦
     bio: >-
       💉𝗡𝘂𝗿𝘀𝗲 💙𝗕𝗼𝗱𝘆𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 👖𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @catslegs.fitnesswear 🔹𝗖𝘂𝗽𝗮𝗼: 𝗘𝗟𝗜𝗔𝗡𝗔𝟭𝟬 @zumub.pt #fitnessgirl #gym #fitness
     location: "Portugal"
-    followers: 11799
-    engagement: 784
-    commentsToLikes: 0.051686
+    followers: 12020
+    engagement: 940
+    commentsToLikes: 0.045804
     id: ckap3nmgb3rj60i78yk8si2rv
     verified: false
-    hashtags: "#bikinigirl, #agachaquecresce, #lifestyle, #beautiful"
-  - username: "quimica_natural"
+    hashtags: "#academia, #fitnessmodel, #happy, #gym"
+  - username: "dave_mowe"
     fullname: >-
-      Joana Ascenção
+      Davide Dave Gioia
     bio: >-
-      Farmacêutica e Naturopata. Consultas de medicina integrativa e coach alimentar. Workshops, Formação, Consultoria 🙏 🇵🇹 info.qnatural@gmail.com
+      🏋🏽‍♂️Coach & PT 👐🏽Osteopath @mowe_lagrange www.mowelagrange.com CF L.2 Weightlifting Trainer ——————— 📩davigio91@hotmail.com
     location: "Portugal"
-    followers: 31252
-    engagement: 217
-    commentsToLikes: 0.019498
-    id: ckap8d89zntak0i78g0y1fs58
+    followers: 5576
+    engagement: 284
+    commentsToLikes: 0.021869
+    id: ck6txdv3dx9lj0j7153kjm1a3
     verified: false
-    hashtags: "#instafood, #instagood, #receitas, #foodphoto"
-  - username: "joanamoreira_makeup"
+    hashtags: "#crossfit, #lbs, #torino, #primal"
+  - username: "lifewithjad_"
     fullname: >-
-      Joana Moreira_makeup
+      🇱🇧JAD ASSI|Marketer|LEBANON|PT
     bio: >-
-      Beauty Makeup Artist 🇵🇹// Lisbon Celebrity / Beauty / Campaign / Brides Tutoriais aos Sábados 🙌🏼
+      🤸‍♂️PT 🕉Digital Marketer/content creator 🇱🇧Tour guide/event planner 👨‍🍳@fitnomzz 🍻ambassador @domaine_wardy @boomboom.leb 📲Book your Trips& sessions👇
     location: "Portugal"
-    followers: 25130
-    engagement: 434
-    commentsToLikes: 0.122618
-    id: ck9h9qk9x9kew0j78npxs9q1j
+    followers: 48670
+    engagement: 320
+    commentsToLikes: 0.277115
+    id: ck55oqxri8xqf0i11i2j7s0g7
     verified: false
-    hashtags: "#makeuplisbon, #makeupartistlisbon, #makeupportugal, #makeuplisboa"
-  - username: "pedrogoncaloc"
+    hashtags: "#beirut, #beautiful, #art, #follow"
+  - username: "elisalecce"
     fullname: >-
-      PEDRO OSÓRIO | digital nomad
+      Pᴇʀsᴏɴᴀʟ Tʀᴀɪɴᴇʀ
     bio: >-
-      𝘊𝘩𝘢𝘴𝘪𝘯𝘨 𝘥𝘳𝘦𝘢𝘮𝘴 𝘸𝘩𝘪𝘭𝘦 𝘩𝘦𝘭𝘱 𝘱𝘦𝘰𝘱𝘭𝘦 𝘢𝘳𝘰𝘶𝘯𝘥 𝘵𝘩𝘦 🌍 𝘊𝘳𝘦𝘢𝘵𝘦 𝘍𝘳𝘦𝘦𝘥𝘰𝘮 𝘢𝘯𝘥 𝘞𝘦𝘢𝘭𝘵𝘩 🌴 𝘞𝘰𝘳𝘬 𝘧𝘳𝘰𝘮 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦 𝘰𝘯𝘭𝘪𝘯𝘦 📲 𝘑𝘰𝘪𝘯 𝘰𝘶𝘳 𝘵𝘳𝘪𝘣𝘦 & 𝘐’𝘭𝘭 𝘣𝘦 𝘺𝘰𝘶𝘳 𝘨𝘶𝘪𝘥𝘦 🧭
+      📍Mɪʟᴀɴ 🎓Sᴘᴏʀᴛ Sᴄɪᴇɴᴄᴇ 💻Oɴʟɪɴᴇ Pᴇʀsᴏɴᴀʟ Tʀᴀɪɴᴇʀ 🔥Aᴍʙᴀssᴀᴅᴏʀ @adidasita 🏋🏼‍♀️PT & GʀT @virginactiveit ⚽️Fᴏᴏᴛʙᴀʟʟ Pʟᴀʏᴇʀ @asd_riozzese_1964
     location: "Portugal"
-    followers: 14367
-    engagement: 435
-    commentsToLikes: 0.041375
-    id: ckf5uo7allnfg0j23zkqdicic
+    followers: 21668
+    engagement: 219
+    commentsToLikes: 0.017909
+    id: ckaosq70vslgu0i78exoatyi4
     verified: false
-    hashtags: "#wanderlust, #live, #happy, #quotes"
-  - username: "vera_silva_9"
+    hashtags: "#fitness, #personaltrainer, #virginactive, #adv"
+  - username: "elizabethshealthylife"
     fullname: >-
-      Vera Silva
+      Elizabeth
     bio: >-
-      @hexxeeofficial coupon discount VERA20 @crossandrun coupon discount vera10 @picsil_sport coupon discount VERA10
+      💍 👦🏻 👦🏻🤱🏼🐶. Healthy, easy, family recipes always dairy-free. Fitness/Motivation. Pilates Instructor & PT MI. Spinal fusion and chronic pain recovery.
     location: "Portugal"
-    followers: 21190
-    engagement: 350
-    commentsToLikes: 0.013368
-    id: ckaot51e4uez90i78dirap3s8
+    followers: 5413
+    engagement: 810
+    commentsToLikes: 0.650059
+    id: ck14hyk16cs900i19y1cf1hu2
     verified: false
-    hashtags: "#health, #onlyfitgirls, #herbalifenutrition, #hexxeeofficial"
+    hashtags: "#kidfriendly, #applegateambassador, #sponsor, #nopreservatives"
+  - username: "caykuijpers"
+    fullname: >-
+      Cay | International Host
+    bio: >-
+      Cert 3 & 4 PT Academy Australia Plant Queen 🌿 @tulliaindoorplants Fitness and Healthy Mind Advocate 👶 @iammagnusorion
+    location: "Portugal"
+    followers: 66519
+    engagement: 114
+    commentsToLikes: 0.074643
+    id: ck0vws98ovcnv0i1927mqzo5g
+    verified: false
+    hashtags: "#harleydavidsonroadking, #girlswhorun, #cruiserbike, #nature"
 ---

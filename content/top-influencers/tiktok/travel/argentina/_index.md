@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Argentina in 2023
+title: Top 10 Travel TikTok Influencers In Argentina In 2023
 description: >-
   Find top travel TikTok influencers in Argentina in 2023. Most popular hashtags: #travel #fyp #parati #argentina.
 platform: TikTok
-hits: 46
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 46 TikTok influencers like this in Argentina for you to contact.
+hits: 59
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 59 TikTok influencers like this in Argentina for you to pitch.
 profiles:
   - username: "gaston_luna"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Traveler | Filmmaker maybe. Checkeá mi ig para más videos✌🏻 Argentina 🇦🇷
     location: "Argentina"
-    followers: 122200
-    engagement: 1243
-    commentsToLikes: 0.008143
+    followers: 130600
+    engagement: 1189
+    commentsToLikes: 0.008371
     id: ckc8wwk6hki8o0j23i5nitghd
     verified: false
-    hashtags: "#tiktok, #tiktokargentina, #fyp, #foryoupage"
-  - username: "pasaje.en.mano"
+    hashtags: "#fyp, #tiktok, #foryoupage, #tiktokargentina"
+  - username: "vidadeviajes"
     fullname: >-
-      pasaje.en.mano
+      Nico y Lau - Vida de Viajes
     bio: >-
-      TRAVEL | ✈️ Periodista de Viajes Agustina | Córdoba 🇦🇷 Ig @pasaje.en.mano
+      Nico y Lau de 🇦🇷 al 🌍 🗺 77 países 👫🏻 Travel Couple 📸 IG vida.de.viajes
     location: "Argentina"
-    followers: 34800
-    engagement: 835
-    commentsToLikes: 0.018203
-    id: ckfplfeo005ah0j23vddh8mkf
-    verified: false
-    hashtags: "#tiktoktravel, #riodejaneiro, #bridesquad, #friendshipgoals"
+    followers: 764700
+    engagement: 904
+    commentsToLikes: 0.020064
+    id: ck81swni1tnss0j7806p035ct
+    verified: true
+    hashtags: "#increible, #mundo, #paisajes, #viral"
   - username: "camilollorente11"
     fullname: >-
       camilollorente11
     bio: >-
-      Content creator ⚡️ Traveler Checkea mi IG para mas videos 100k...?
+      Content creator ⚡️ Traveler
     location: "Argentina"
-    followers: 79200
-    engagement: 747
-    commentsToLikes: 0.012218
+    followers: 77700
+    engagement: 743
+    commentsToLikes: 0.013040
     id: ckc7oqy1zulxe0j23txe3zz3c
     verified: false
-    hashtags: "#foryou, #tiktok, #viral, #travel"
+    hashtags: "#viral, #vintage, #photography, #tips"
   - username: "comeren.ba"
     fullname: >-
       comeren.ba
     bio: >-
       • Food & Travel • Me gusta comer 🤷🏽‍♀️ Seguime en Instagram @comeren.ba 🔥
     location: "Argentina"
-    followers: 3282
-    engagement: 569
-    commentsToLikes: 0.013137
+    followers: 6550
+    engagement: 743
+    commentsToLikes: 0.014309
     id: ckbf1thhgo8f20j23p7s845xv
     verified: false
-    hashtags: "#parati, #oreo, #foodporn, #argentina"
+    hashtags: "#saborestiktok, #receta, #foodlove, #foryou"
+  - username: "profetiktok"
+    fullname: >-
+      profetiktok
+    bio: >-
+      Si, ¡Soy profe de verdad! IG: @profetiktok El que ven acá no es el real.
+    location: "Argentina"
+    followers: 22700
+    engagement: 1007
+    commentsToLikes: 0.064412
+    id: ck9envxnzl7qk0j780zuqqfx9
+    verified: false
+    hashtags: "#videoreacci, #comedia, #maestro, #profesor"
+  - username: "valeeengaray_"
+    fullname: >-
+      Valentina💫💜
+    bio: >-
+      Valentina // 16✨ // Bs, As Arg🇦🇷📍 CEO: hablar rápido y swiftie valeen.garay_
+    location: "Argentina"
+    followers: 19700
+    engagement: 1300
+    commentsToLikes: 0.030644
+    id: ckciqa9hlx0ns0j232q95loqc
+    verified: false
+    hashtags: "#ts, #fan, #me, #parati"
   - username: "rotonello"
     fullname: >-
       Rocio Tonello
     bio: >-
       🇦🇷 23.
     location: "Argentina"
-    followers: 10500
-    engagement: 1353
-    commentsToLikes: 0.011565
+    followers: 10300
+    engagement: 1296
+    commentsToLikes: 0.009697
     id: ckcddhfwm5kbj0j23j52t18k2
     verified: false
-    hashtags: "#newyork, #trip, #trips, #parati"
+    hashtags: "#tips, #trip, #bahamas, #viajes"
   - username: "bigairfactory"
     fullname: >-
       BigAir Factory
     bio: >-
       CREATIVE AGENCY 🌎🎥 Based in Europe from Patagonia Instagram 📷 @bigair_factory
     location: "Argentina"
-    followers: 8311
-    engagement: 1063
-    commentsToLikes: 0.043818
+    followers: 8420
+    engagement: 1054
+    commentsToLikes: 0.044082
     id: ckcdvc3a6eyw20j23t2kh3s5s
     verified: false
-    hashtags: "#winter, #explore, #travel, #skiing"
-  - username: "nicolorenzonn"
+    hashtags: "#paraiso, #nature, #volar, #gopro"
+  - username: "lilen.lo"
     fullname: >-
-      Nicolorenzonn
+      marial
     bio: >-
-      Instagram @nicolorenzonn [+1M] Papá de Noah y Nina ❤️ Estoy en miami ! 🇺🇸
+      •🌎
     location: "Argentina"
-    followers: 462400
-    engagement: 804
-    commentsToLikes: 0.008656
-    id: ck902d6cecbhd0j78u9bce2gr
-    verified: true
-    hashtags: "#miami, #travel, #orlando, #cars"
-  - username: "maverickmaxi"
-    fullname: >-
-      Max Walsh
-    bio: >-
-      Viajero, técnico Aeronautico, fan de los aviones, las fotos y videos.
-    location: "Argentina"
-    followers: 42700
-    engagement: 454
-    commentsToLikes: 0.019778
-    id: ck9gnfui5wkue0j78jnxs4qx4
+    followers: 247100
+    engagement: 1070
+    commentsToLikes: 0.010107
+    id: ckacll6nog1610i78e6joavfx
     verified: false
-    hashtags: "#aviacion, #boeing737, #aviones, #aerolineasargentinas"
-  - username: "laliheredia"
+    hashtags: "#parati, #maldives, #sunset, #foryou"
+  - username: "carmelacastroruiz"
     fullname: >-
-      Lali Heredia
+      🦋 CARMU 💥
     bio: >-
-      Cordoobesaa 🇦🇷 Fotógrafa 📷 Bailarina 🔥
+      te comparto mi universo y todos mis tips 👠🔥 +contenido IG @carmelacastroruiz
     location: "Argentina"
-    followers: 4571
-    engagement: 622
-    commentsToLikes: 0.017965
-    id: ckb9v70g9ucrw0j23ylqo540y
+    followers: 346400
+    engagement: 1372
+    commentsToLikes: 0.013899
+    id: ckdhq13gv1lgz0j231ubt98sn
     verified: false
-    hashtags: "#florida, #travel, #parati, #waltdisney"
-  - username: "instaladrando"
-    fullname: >-
-      Leandro Emmanuel Rodriguez
-    bio: >-
-      Mendoza 🇦🇷 Argentina Publicitario. Viajero. Tiktoker para @intriper
-    location: "Argentina"
-    followers: 15900
-    engagement: 1032
-    commentsToLikes: 0.021800
-    id: cka0k7e7uldrj0i78kknjun31
-    verified: false
-    hashtags: "#viajes, #park, #trip, #tiktokspain"
+    hashtags: "#modeloprofesional, #trip, #fashionweek, #pasarela"
 ---

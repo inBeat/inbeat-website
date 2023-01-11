@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Montreal in 2023
+title: Top 10 Architecture Instagram Influencers In Montreal In 2023
 description: >-
-  Find top architecture Instagram influencers in Montreal in 2023. Most popular hashtags: #architecture #montreal #mtlmoments #quebec.
+  Find top architecture Instagram influencers in Montreal in 2023. Most popular hashtags: #architecture #montreal #canada #instagood.
 platform: Instagram
-hits: 26
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 26 Instagram influencers like this in Montreal, Canada for you to collaborate.
+hits: 11
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
   - username: "lashedarchitecture"
     fullname: >-
-      la SHED architecture
+      la Shed architecture
     bio: >-
-      Architecture - Montréal Facebook : la SHED architecture
+      Info@lashedarchitecture.com
     location: "Canada"
-    followers: 11523
-    engagement: 524
-    commentsToLikes: 0.009384
+    followers: 18197
+    engagement: 391
+    commentsToLikes: 0.007220
     id: ck5qbsn39n7p80i11s7jhsjy2
     verified: false
-    hashtags: "#lashedarchitecture, #archdaily, #architecturelovers, #architecture"
+    hashtags: "#archdaily, #montr, #architecturephotography, #qu"
+  - username: "vfal_00"
+    fullname: >-
+      Vincent
+    bio: >-
+      ⛔ NO DM 📸 #photography 🇨🇦 #canada 🌎#travel 🎨 #streetart 🍕#food 📱all #pictures are mine ❤️ i hope you enjoy my #gallery
+    location: "Canada"
+    followers: 3508
+    engagement: 1737
+    commentsToLikes: 0.050044
+    id: ck136wj3e8llz0i191h7utu0n
+    verified: false
+    hashtags: "#muralpainting, #quebeccity, #montreal, #photodenuit"
   - username: "tomstockdale48"
     fullname: >-
       tom stockdale
     bio: >-
       Montreal Arch 📷...photos are mine...if you're not checking my STORIES then you're only getting half the story☕☕😁 thomas.stockdale@sympatico.ca
     location: "Canada"
-    followers: 15104
-    engagement: 286
-    commentsToLikes: 0.039918
+    followers: 15472
+    engagement: 182
+    commentsToLikes: 0.036244
     id: ck13b1pg1t9a60i19ouz9oxgz
     verified: false
-    hashtags: "#montr, #jj, #minimal, #ig"
+    hashtags: "#arkiromantix, #geometrygrammer, #skyscraping, #architecture"
+  - username: "mhacalaki"
+    fullname: >-
+      Mustafa Hacalaki
+    bio: >-
+      A visual diary. Montréal based graphic artist.
+    location: "Canada"
+    followers: 21266
+    engagement: 491
+    commentsToLikes: 0.015897
+    id: ck15s9fq4bw8o0i196f7zzyxd
+    verified: false
+    hashtags: "#fujifilmxseries, #xe4, #xf27, #gominimalmag"
   - username: "adrienwilliamsphotos"
     fullname: >-
       Adrien Williams
     bio: >-
-      Architecture photographer From Montreal but now based in BC for ⛷ #adrienwilliams #architecturephotography
+      Architectural photographer newly based in British Columbia | Aspiring ski bum | Encore attaché à Montréal #adrienwilliams
     location: "Canada"
-    followers: 5884
-    engagement: 445
-    commentsToLikes: 0.008703
+    followers: 7587
+    engagement: 289
+    commentsToLikes: 0.006568
     id: ck5caj5lzdi9o0i1141pmt06f
     verified: false
-    hashtags: "#rogertaillibert, #quebec, #architecturephotography, #design"
-  - username: "veveordie"
+    hashtags: "#architecturephotography, #canoncanada, #instagood, #rogertaillibert"
+  - username: "blythescottartist"
     fullname: >-
-      Vincent 🌈| Montreal 🇨🇦
+      𝐁𝐋𝐘𝐓𝐇𝐄 𝐒𝐂𝐎𝐓𝐓
     bio: >-
-      Travel Photographer 51 Countries Visited🌎 veveordie@gmail.com
+      𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚖𝚒𝚡𝚎𝚍 𝚖𝚎𝚍𝚒𝚊 𝚊𝚛𝚝𝚒𝚜𝚝 𝚏𝚛𝚘𝚖 🏴󠁧󠁢󠁳󠁣󠁴󠁿 𝚒𝚗 🇨🇦𝚞𝚜𝚒𝚗𝚐 𝚌𝚘𝚕𝚘𝚞𝚛, 𝚝𝚎𝚡𝚝𝚞𝚛𝚎 𝚊𝚗𝚍 𝚖𝚘𝚟𝚎𝚖𝚎𝚗𝚝 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚊𝚗 𝚞𝚙𝚕𝚒𝚏𝚝𝚒𝚗𝚐 𝚟𝚒𝚎𝚠 𝚘𝚏 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝙶𝚂𝙰 𝚐𝚛𝚊𝚍💕
     location: "Canada"
-    followers: 9383
-    engagement: 572
-    commentsToLikes: 0.022928
-    id: ck14lit5buwa20i199kkgn9fb
+    followers: 10771
+    engagement: 513
+    commentsToLikes: 0.062435
+    id: ck13bzs71xy5n0i19rjv6v3qn
     verified: false
-    hashtags: "#architecture, #qc, #nature, #montreallife"
-  - username: "levieuxmontreal"
+    hashtags: "#focalpoint, #vendu, #arty, #instaart"
+  - username: "julienglobe"
     fullname: >-
-      Le Vieux-Montréal
+      𝙹𝚞𝚕𝚒𝚎𝚗  𝙲𝚘𝚝𝚎
     bio: >-
-      Quartier historique de Montréal | Compte officiel de la Société de développement commercial du Vieux-Montréal #vieuxmontreal #oldmontreal #gensduvieux
+      Creativity can happen everywhere at anytime - My favourite animal is the sloth 🦥 -👬🔒Taken @androu87 🇨🇦 - Our newest project @flamingochalet 🏗🏡
     location: "Canada"
-    followers: 42893
-    engagement: 143
-    commentsToLikes: 0.010821
-    id: ck5bz7ul3qm0l0i115hqkxqk3
+    followers: 5099
+    engagement: 463
+    commentsToLikes: 0.025437
+    id: ckap73w4tiivm0i781jwxnn2s
     verified: false
-    hashtags: "#vieuxmontreal, #exploremontreal, #vieuxmtl, #montrealphoto"
-  - username: "inayali"
+    hashtags: "#cottagelife, #goodday, #instanature, #beautifulbc"
+  - username: "sidafz"
     fullname: >-
-      Ali
+      Sidrah | Toronto Blogger
     bio: >-
-      Montreal as-is: Architecture, travel and daily life ☕️ @mtlcafecrawl hi@inayali.com
+      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
     location: "Canada"
-    followers: 77035
-    engagement: 141
-    commentsToLikes: 0.008661
-    id: ck5henpantvci0i11ob3kupjy
+    followers: 13878
+    engagement: 115
+    commentsToLikes: 0.669998
+    id: cks8aqhhiupz50j23q90dq3w1
     verified: false
-    hashtags: "#mkz, #shotoniphone11pro, #lincolnicehotel, #lincolnquebecescapade"
-  - username: "yyzreflections"
+    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+  - username: "roderikopop"
     fullname: >-
-      Kristel
+      Roderiko Pop
     bio: >-
-      ⁣Aviation & travel content creator ✈️ 🧳⁣⁣⁣ 📍YYZ⁣⁣⁣ 📩kristel@yyzreflections.com
+      Singer Songwriter #traveler #boy 🎠⛵✈🚀 Pictures by me without flash 📸 LISTEN TO MY MUSIC 👇🏻
     location: "Canada"
-    followers: 8475
-    engagement: 647
-    commentsToLikes: 0.148504
-    id: ck5ckdv4xwo3d0i11zjctno7v
+    followers: 30575
+    engagement: 272
+    commentsToLikes: 0.040830
+    id: ckap2r4o8zyh40i78kd9g0zv6
     verified: false
-    hashtags: "#instaplane, #aircraft, #planespotting, #spotting"
-  - username: "emmalindsayyy"
+    hashtags: "#mood, #instagood, #monday, #pop"
+  - username: "yourdappergoals"
     fullname: >-
-      Emma Lindsay
+      Midhvan Gulati
     bio: >-
-      Artist & plant lover 🌿 #NaturalRedhead 25 📍 Montreal @emmalindsayart @gingerweddings @emma.vintagestudio www.emmalindsayartist.com
+      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
     location: "Canada"
-    followers: 12284
-    engagement: 748
-    commentsToLikes: 0.015262
-    id: ck9wdoqwtgke20j78r8nc642b
+    followers: 47354
+    engagement: 266
+    commentsToLikes: 0.031125
+    id: ck5hqblkfsu3o0i11qym0xxbb
     verified: false
-    hashtags: "#redhairgirl, #summerbod, #plants, #redhead"
-  - username: "melika.dez"
-    fullname: >-
-      MELIKA DEZ
-    bio: >-
-      MTL based international Photographer & Art Director DM or Email to buy prints. . . @fubizstudio Talent @plieproject Photographer 📍MONTREAL
-    location: "Canada"
-    followers: 21541
-    engagement: 434
-    commentsToLikes: 0.020895
-    id: ck14l4t7qsuv00i19uaiyk1zb
-    verified: false
-    hashtags: "#maledancer, #melikadezphotography, #fashionshoot, #giambattistavalli"
-  - username: "travel_with_steve"
-    fullname: >-
-      Steve Pépin
-    bio: >-
-      All pics shot by me, or of me. 🏠 Montréal, Canada. Work in advertising. Don’t look at this profile if you hate turquoise lakes😬
-    location: "Canada"
-    followers: 11804
-    engagement: 1108
-    commentsToLikes: 0.215406
-    id: ck5ce14rik4yj0i11pll4cuxx
-    verified: false
-    hashtags: "#montrealcity, #latergram, #nature, #traveling"
+    hashtags: "#reelsindia, #happy, #beautiful, #black"
 ---

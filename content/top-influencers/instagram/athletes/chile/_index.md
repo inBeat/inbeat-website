@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Chile in 2023
+title: Top 10 Athletes Instagram Influencers In Chile In 2023
 description: >-
-  Find top athletes Instagram influencers in Chile in 2023. Most popular hashtags: #fitness #fitnessmotivation #training #chile.
+  Find top athletes Instagram influencers in Chile in 2023. Most popular hashtags: #chile #athlete #love #fitness.
 platform: Instagram
-hits: 20
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 20 Instagram influencers like this in Chile for you to pitch.
+hits: 18
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 18 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "ignacio_casale"
-    fullname: >-
-      Ignacio Casale
-    bio: >-
-      - Professional rally racer 🚘 🏍 - Red bull athlete - 3 time Dakar Rally Champ 💥🍾🎉 - @casale_motors
-    location: "Chile"
-    followers: 111402
-    engagement: 314
-    commentsToLikes: 0.013940
-    id: ck5ho91cvp5jt0i1181ra6lwf
-    verified: true
-    hashtags: "#lubrax, #nutrici, #dakar2021, #mifo"
-  - username: "benjae.gutierrez"
-    fullname: >-
-      Benja E. Gutierrez🇨🇱
-    bio: >-
-      19👶🏾EL NIÑO Hebreos 11:1|Games Athlete'18|Wodstock 18' 19'🥇| @reebokchile | @bazarfitcl | @xommafitness | @teamyet
-    location: "Chile"
-    followers: 6686
-    engagement: 678
-    commentsToLikes: 0.017419
-    id: ck5c4lro01m0w0i11gnpbtt2g
-    verified: false
-    hashtags: "#tecnicamentefuertes, #entrenacomounpro, #sporttheunexpected, #lifttheworld"
-  - username: "pedroburns"
-    fullname: >-
-      Pedro Burns
-    bio: >-
-      MTB|🇨🇱| 22 RedBull Athlete TrekFactoryRacingEnduro •x3 Elite National Champ,x4 U21 •x2AndesPacifico winner •24 EWS ranking2019 🌍 •5 EWS podium U21
-    location: "Chile"
-    followers: 37764
-    engagement: 1008
-    commentsToLikes: 0.011672
-    id: ck0vykv5c4i8o0i198m6eg4zl
-    verified: false
-    hashtags: "#soundofspeed, #trekfactoryracing, #bikelife, #redbullbike"
-  - username: "iam.mayasw"
-    fullname: >-
-      Maya Silva 🍃
-    bio: >-
-      Calisthenics~Athlete Campeona nacional🇨🇱x2 Coach @miguelakasiete 🎥 YouTube: Maya Silva #healthylifestyle 🌱 #ifyoucandreamifyoucandoit 🌎
-    location: "Chile"
-    followers: 11049
-    engagement: 1010
-    commentsToLikes: 0.027736
-    id: ck55lbawo175o0i110fzzln6f
-    verified: false
-    hashtags: "#strongwomen, #lifestyle, #instagood, #aesthetic"
-  - username: "hugogodoybarker"
-    fullname: >-
-      Hugo Godoy 👊
-    bio: >-
-      SpartanProTeam🔥 Athlete 🚴🦍 Elite Spartan Podium x9🏋🏻 @yumiyumi.cl 🏋🏽‍♀️🏃‍♂️ @trailrun.cl 🤙🏻🤙🏻 @sportkinesis 💯💯 @jvssport 🏋🏼‍♀️ @seleccionesunab 🤘
-    location: "Chile"
-    followers: 11052
-    engagement: 212
-    commentsToLikes: 0.042225
-    id: ck13581nk05vk0i19oayyp4up
-    verified: false
-    hashtags: "#ciclismochile, #cyclism, #conversacionesdeportivas, #running"
-  - username: "bichocarrera"
-    fullname: >-
-      Bicho Carrera
-    bio: >-
-      Profesional Paragliding Athlete 🌈🪂 🥈2 x Vice World Cup Champion (2017/2019) 🥇1 x Synchro World Cup Champion (2017)
-    location: "Chile"
-    followers: 17093
-    engagement: 531
-    commentsToLikes: 0.021998
-    id: ck0txrngwkabg0i19hswe06ag
-    verified: false
-    hashtags: "#adventure, #advanceparagliders, #love, #paragliding"
   - username: "simonettifiorella"
     fullname: >-
       Simona Quintana Silva
     bio: >-
       Coach📲🏋🏽‍♂️💪🏼 CrossFit Games Athlete |24🌸 🥇Latam ‘19 🇨🇱 🏆37th Fittest🌎🆙 Artista de amor🪐🐍 🌱Vegana 🦀🕉🧿 🌙@voika.cl ☀️ 🐕@appa.do0 🥰@kdiiiz 👑#GalgoQueen
     location: "Chile"
-    followers: 41044
-    engagement: 399
-    commentsToLikes: 0.012958
+    followers: 41627
+    engagement: 496
+    commentsToLikes: 0.013000
     id: ck5c4dkhu14jc0i114t9xfbti
     verified: false
-    hashtags: "#amor, #crossfit, #love, #crossfitgirls"
-  - username: "piero.gorichon"
+    hashtags: "#couplegoals, #handstand, #crossfitgirls, #pucon"
+  - username: "hugogodoybarker"
     fullname: >-
-      PIERO GORICHON 🇨🇱
+      Hugo Godoy 👊
     bio: >-
-      CrossFit Games Athlete '19 2x Fittest in Chile 19-20 🇨🇱 Bicampeon Nacional CrossFit 🥇 ATLETA @reebokchile Profesor 📖 Magister 🍎Dipl. Nutri dep #SYM
+      SpartanProTeam🔥 Athlete 🚴🦍 Elite Spartan Podium x9🏋🏻 @sport_hg_chile 🏃 @yumiyumi.cl 🏋🏽‍♀️🏃‍♂️ @trailrun.cl 🤙🏻🤙🏻 @jvssport 🏋🏼‍♀️ @seleccionesunab 🤘
     location: "Chile"
-    followers: 9647
-    engagement: 390
-    commentsToLikes: 0.015550
-    id: ck5hggik62n8n0i11lmxqhtxe
+    followers: 11374
+    engagement: 282
+    commentsToLikes: 0.043444
+    id: ck13581nk05vk0i19oayyp4up
     verified: false
-    hashtags: "#crossfit, #focus, #escribetulegado, #training"
-  - username: "fitnesscornerperu"
+    hashtags: "#fondo, #naroomask, #nogutsnoglory, #mita"
+  - username: "benjae.gutierrez"
     fullname: >-
-      The Fitness Corner
+      Benjamin Gutierrez🇨🇱
     bio: >-
-      FITNESS FOR DUMMIES 🏳️‍🌈Proud Athlete: Team @reebokperu 💪🏽 Team @fbroperu 👊🏻Asesoría online solo para gente brava. #focusmierdafocus
+      CROSSFIT ATHLETE 🇨🇱 Games 🇺🇸 Semifinals 🇧🇷 Sanctionals 🇦🇷 2x WST 🥇🥇 Personal Trainer 🔋📚 @reebokchile @pesaschile @teamyet @bazarfitcl
     location: "Chile"
-    followers: 19992
-    engagement: 289
-    commentsToLikes: 0.098834
-    id: ck6uc7yn7e0pp0j71h14sww31
+    followers: 7696
+    engagement: 677
+    commentsToLikes: 0.017994
+    id: ck5c4lro01m0w0i11gnpbtt2g
     verified: false
-    hashtags: "#cuarentena, #recetasfaciles, #vidafitness, #easyrecipes"
-  - username: "victor.allendes"
+    hashtags: "#tecnicamentefuertes, #entrenacomounpro, #yoentrenoconpesaschile, #sporttheunexpected"
+  - username: "pedroburns"
     fullname: >-
-      Victor Allendes
+      Pedro Burns
     bio: >-
-      🇻🇪 🇨🇱 Street workout athlete SPONSOR OFFICIAL @biomachinis Planes de entrenamiento 📬
+      🪐⚔️🔥🌶🎭🇨🇱 Red Bull Athlete TrekFactoryRacingEnduro •x3 Elite National Champ,x4 U21 •x2AndesPacifico winner •24 EWS ranking2019 🌍 •5 EWS podium U21
     location: "Chile"
-    followers: 40094
-    engagement: 1849
-    commentsToLikes: 0.032711
-    id: ck55lbbzi178a0i11od1rbcfg
+    followers: 51784
+    engagement: 1166
+    commentsToLikes: 0.009164
+    id: ck0vykv5c4i8o0i198m6eg4zl
     verified: false
-    hashtags: "#streetworkout, #calisthenics, #godwithme, #nevergiveup"
+    hashtags: "#trekfactoryracing, #redbullbike, #redbullmca, #freeride"
+  - username: "bichocarrera"
+    fullname: >-
+      Bicho Carrera
+    bio: >-
+      Professional Paragliding Athlete 🪂 @ADVANCEGLIDERS @REDBULL @CASINOENCHILE
+    location: "Chile"
+    followers: 17501
+    engagement: 637
+    commentsToLikes: 0.021780
+    id: ck0txrngwkabg0i19hswe06ag
+    verified: false
+    hashtags: "#explore, #discover, #photooftheday, #picoftheday"
+  - username: "nicolecarpenter___"
+    fullname: >-
+      N I C O L E  C A R P E N T E R
+    bio: >-
+      University of Miami Team Chile Beach Volleyball🇨🇱 🦋✨🌷🌴
+    location: "Chile"
+    followers: 4438
+    engagement: 2606
+    commentsToLikes: 0.035003
+    id: ck5q24yw8eal90i110ws5613h
+    verified: false
+    hashtags: "#amor, #familia, #feliz, #stayhome"
+  - username: "nataliaduco"
+    fullname: >-
+      N a t a l i a   D u c o
+    bio: >-
+      Atleta Olímpica Chilena 🇨🇱 Mamá de Luciano Psicología 〰️ Deporte 〰️ Cocina GANADORA #MasterChefCelebrityChile
+    location: "Chile"
+    followers: 296821
+    engagement: 941
+    commentsToLikes: 0.025425
+    id: ck5q12hlf8ybh0i11ceh0c6go
+    verified: true
+    hashtags: "#mam, #bbylu, #lactancia, #deporte"
+  - username: "fenamackenna"
+    fullname: >-
+      Fernanda Mackenna
+    bio: >-
+      ⚡️Chilena 🇨🇱 - Atleta 400mts ⚡️Medallista Sudamericana ⚡️Atleta @underarmourlatam - @unt alumni T&F ⚡️Embajadora @imgacademy ⬇️
+    location: "Chile"
+    followers: 24544
+    engagement: 222
+    commentsToLikes: 0.034605
+    id: ckaowvnjhanng0i78pd95hg1s
+    verified: false
+    hashtags: "#sports, #run, #motivation, #athlete"
+  - username: "patriciotorrescf"
+    fullname: >-
+      PatricioTorresRubio
+    bio: >-
+      CF🏋🏻‍♂️/ @team_zero13 @pionerochile @wodbeater @bufalo.fit @nutricionista.renatta @kine_global @unbrokenfitnesscl @thegoodshaman @unbrokenprogram
+    location: "Chile"
+    followers: 3076
+    engagement: 910
+    commentsToLikes: 0.082121
+    id: ck6u17povk3jc0j715dyfsqir
+    verified: false
+    hashtags: "#brave, #conditioning, #hardwork, #power"
+  - username: "thfitcl"
+    fullname: >-
+      TH FIT chile
+    bio: >-
+      Entrena THFIT y marca la diferencia✨ Online y Clases Presenciales en nuestros Centros🏛 📍Vitacura 📍Lo Barnechea 📍Maitencillo☀️🌊 Obtén tu Plan aquí 👇🏼
+    location: "Chile"
+    followers: 110398
+    engagement: 164
+    commentsToLikes: 0.025680
+    id: ck5zjjhs4hpd60i1407powok5
+    verified: false
+    hashtags: "#gym, #humor, #wellness, #deporte"
 ---

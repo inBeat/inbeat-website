@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Austria in 2023
+title: Top 10 Christian TikTok Influencers In Austria In 2023
 description: >-
-  Find top christian TikTok influencers in Austria in 2023. Most popular hashtags: #austria #fyp #foryou #funny.
+  Find top christian TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #austria #fyp #viral.
 platform: TikTok
 hits: 9
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Austria for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "christianthomasprey"
     fullname: >-
@@ -13,106 +13,106 @@ profiles:
     bio: >-
       OGV 🏊🏼‍♂️Extreme Athlete 🤿Freediver 📸Pro UW Model 🏔Adventurer 🧘🏽‍♂️Coach
     location: "Austria"
-    followers: 188300
-    engagement: 1063
-    commentsToLikes: 0.042063
+    followers: 185900
+    engagement: 1132
+    commentsToLikes: 0.044740
     id: ck98qtfta7hsm0j78xl2rh69h
     verified: false
-    hashtags: "#fyp, #thoughts, #autumn, #iceswimming"
+    hashtags: "#foryou, #austria, #fyp, #fy"
   - username: "lil_imb5"
     fullname: >-
       ♛Lil_Imb♛
     bio: >-
       ^Vienna🇦🇹/Pak🇵🇰^ ^Instagram: lil_imb^ ^Youtube: Lil Imb^ ^Ziel 10K^
     location: "Austria"
-    followers: 5237
-    engagement: 1303
-    commentsToLikes: 0.095384
+    followers: 5084
+    engagement: 1226
+    commentsToLikes: 0.070254
     id: ckcp3w3q5c4ar0j23zkobv7qz
     verified: false
-    hashtags: "#pakistani, #muslim, #ilahi, #goviral"
+    hashtags: "#ilahi, #fame, #foryou, #islam"
   - username: "christianschartner"
     fullname: >-
       christianschartner
     bio: >-
       Captures experiences in Nature, mostly in Austria 🇦🇹 📷: Nikon Z 6 + D850
     location: "Austria"
-    followers: 2539
-    engagement: 946
-    commentsToLikes: 0.033254
+    followers: 2548
+    engagement: 948
+    commentsToLikes: 0.028979
     id: cka6bkxo40n0d0i78fznu29bx
     verified: false
-    hashtags: "#winter, #salzburgerland, #winterwonderland, #travel"
-  - username: "dieunverpackteveganerin"
+    hashtags: "#obertauern, #dji, #austria, #mountains"
+  - username: "austriasginger"
     fullname: >-
-      Corinna Frank
+      Austriasginger
     bio: >-
-      https://instagram.com/corinnafrank?igshid=1tv3pkma0w1cg
+      🦋Welcome y‘all!🦋 19 Insta & YT: Austriasginger
     location: "Austria"
-    followers: 8167
-    engagement: 645
-    commentsToLikes: 0.041983
-    id: ckbqp207a9so90j2365afwkft
+    followers: 233600
+    engagement: 1736
+    commentsToLikes: 0.008000
+    id: ck8faqah44g790j78svl2dloh
     verified: false
-    hashtags: "#polegirl, #duett, #selflove, #ill"
+    hashtags: "#wien, #osttirol, #obertilliach, #typisch"
   - username: "the.real.mucki"
     fullname: >-
       christian.mucki.muck
     bio: >-
       Let me entertain you! 🙌🏻 So happy you are here ❤️ Join the fam, it’s lit 🔥
     location: "Austria"
-    followers: 11700
-    engagement: 1099
-    commentsToLikes: 0.017989
+    followers: 11500
+    engagement: 1094
+    commentsToLikes: 0.017419
     id: ckd6whkbisb520j23b05q02ge
     verified: false
-    hashtags: "#austria, #fyp, #vienna, #fakten"
+    hashtags: "#austria, #fakten, #wienerisch, #oida"
+  - username: "jonbro363"
+    fullname: >-
+      jonbro 363
+    bio: >-
+      Snowboarding❤️ Thx for 4k follower🚦
+    location: "Austria"
+    followers: 4563
+    engagement: 1002
+    commentsToLikes: 0.023117
+    id: ckbfef6uz8is40j239qn046d9
+    verified: false
+    hashtags: "#fy, #love, #2021, #viral"
+  - username: "kuljitrandhawa7"
+    fullname: >-
+      Kuljit Randhawa 7
+    bio: >-
+      ❤️ਬੱਬੂ ਮਾਨ❤️🔞DanBilzerian🔞🐆CristianoRonaldo🐆🔥PalaJalalpur🔥Vasda rahe panjb
+    location: "Austria"
+    followers: 39800
+    engagement: 1430
+    commentsToLikes: 0.028989
+    id: ckbl31o0g0apd0j236ktugbyh
+    verified: false
+    hashtags: "#babbumaan, #punjab, #jindjaan, #kisanmajdoorektajindabaad"
   - username: "christinaroosaa"
     fullname: >-
       ChristinaRosa
     bio: >-
       Snapchat: christinaroosa | Instagram: christinaroosa
     location: "Austria"
-    followers: 2315
-    engagement: 753
-    commentsToLikes: 0.088138
+    followers: 2302
+    engagement: 1403
+    commentsToLikes: 0.019878
     id: cka84rl5yv3sv0i78ar7a28ju
     verified: false
-    hashtags: "#austria, #trend, #cute, #foryoupage"
-  - username: "kuljitrandhawa7"
-    fullname: >-
-      Kuljit Randhawa
-    bio: >-
-      🇦🇹🇮🇳(❤️Dan bilzerian,Cristiano Ronaldo, Babbu Maan,Pala jalalpur❤️)
-    location: "Austria"
-    followers: 27500
-    engagement: 623
-    commentsToLikes: 0.042779
-    id: ckbl31o0g0apd0j236ktugbyh
-    verified: false
-    hashtags: "#austria, #pind, #babbumaan, #respect"
-  - username: "ibrrah1im"
-    fullname: >-
-      Ibrahim
-    bio: >-
-      
-    location: "Austria"
-    followers: 17600
-    engagement: 501
-    commentsToLikes: 0.106028
-    id: ckb93bz32k4jt0j23wfdoroa4
-    verified: false
-    hashtags: "#foryoupage, #mochi, #mochis, #foryou"
+    hashtags: "#new, #inspo, #cute, #pink"
   - username: "haidari313"
     fullname: >-
       Mori Afg
     bio: >-
       🇦🇹 ❤️ 🇦🇫 Sbg AUT 20 𝔂𝓮𝓪𝓻𝓼 𝓸𝓵𝓭 👩‍❤️‍💋‍👨
     location: "Austria"
-    followers: 3217
-    engagement: 411
-    commentsToLikes: 0.041237
+    followers: 3188
+    engagement: 367
+    commentsToLikes: 0.015059
     id: ckbl2u74l01u70j23ii8svrwm
     verified: false
-    hashtags: "#afghan, #austria, #europe, #fun"
+    hashtags: "#funny, #austria, #salzburg, #fun"
 ---

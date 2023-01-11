@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers in 2023
+title: Top 10 Models Instagram Influencers In 2023
 description: >-
-  Find top models Instagram influencers in 2023. Most popular hashtags: #girllife #streetlook #teenstyledaily.
+  Find top models Instagram influencers in 2023. Most popular hashtags: #photoshoot #picoftheday #style.
 platform: Instagram
-hits: 81575
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 81575 Instagram influencers like this for you to collaborate.
+hits: 75123
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 75123 Instagram influencers like this for you to contact.
 profiles:
+  - username: "laurenharlee"
+    fullname: >-
+      Model
+    bio: >-
+      Model:: twitch streamer:: likee dancer- 83k email:herclosetimage@gmail.com ⇣click
+    location: "United States"
+    followers: 28829
+    engagement: 96
+    commentsToLikes: 0.041609
+    id: ckaosrgwlsrv30i783es965cl
+    verified: false
+    hashtags: "#dancevideos, #boyslie, #lipsync, #likee"
   - username: "diana_poli5"
     fullname: >-
       Diana
     bio: >-
       Model
     location: "United States"
-    followers: 6895
-    engagement: 914
-    commentsToLikes: 0.271620
+    followers: 6774
+    engagement: 987
+    commentsToLikes: 0.281219
     id: ckf5qj7sp9j8a0j237biufl96
     verified: false
-    hashtags: "#autumnstyle, #teenmodel, #teenbeauty, #fantasyphoto"
-  - username: "christian.ulmen"
+    hashtags: "#modelwanted, #fashionlook, #fashionissue, #photomodel"
+  - username: "nasynest"
     fullname: >-
-      Christian Ulmen
+      Анастасия Вертелецкая
     bio: >-
-      Model
-    location: "Germany"
-    followers: 120483
-    engagement: 545
-    commentsToLikes: 0.027013
-    id: ck0w4a6wlxk4q0i1900qn2blj
-    verified: true
-    hashtags: "#fanlove, #neuestaffel, #drehenwir2020, #abi95"
+      Lifestyle блог в стиле «shit happens» модель с псориазом #model_nasy девочка с билбордов куда пойти в Запорожье- в актуальном
+    location: "Russia"
+    followers: 7766
+    engagement: 681
+    commentsToLikes: 0.086983
+    id: ck6tzd4n0904o0j71alo5sjr9
+    verified: false
+    hashtags: "#model"
   - username: "rupsasaha20"
     fullname: >-
       Rupsa Saha
     bio: >-
       Model
     location: ""
-    followers: 400035
-    engagement: 477
-    commentsToLikes: 0.023192
+    followers: 430769
+    engagement: 435
+    commentsToLikes: 0.020145
     id: ck8sx3ko9g3gt0j78l55lewy5
     verified: false
     hashtags: ""
-  - username: "andeevaio"
+  - username: "gabriela.prisacariu"
     fullname: >-
-      Andee Vaio
+      Gabriela Prisacariu 🙈🙊💃🐒
     bio: >-
-      model
-    location: "Ukraine"
-    followers: 6755
-    engagement: 855
-    commentsToLikes: 0.056150
-    id: ck0u1mji8x9j10i19mutu8yje
+      Model
+    location: "Greece"
+    followers: 107585
+    engagement: 534
+    commentsToLikes: 0.020332
+    id: ck5qej2bi0qh40i11uziu4pta
     verified: false
-    hashtags: "#37weekspregnant, #loveis, #2monthsold"
+    hashtags: "#fairytail, #gymtimebaby, #campaign, #winterfashion"
+  - username: "imgiuliacocola"
+    fullname: >-
+      Giulia Cocola
+    bio: >-
+      🇮🇹Model
+    location: "United States"
+    followers: 62346
+    engagement: 199
+    commentsToLikes: 0.036464
+    id: ck5hcenmzhodg0i11cuv1mehs
+    verified: false
+    hashtags: "#adv, #tb"
   - username: "larabocci"
     fullname: >-
       Lara Bocci
     bio: >-
       🇦🇷Model
     location: "Argentina"
-    followers: 74297
-    engagement: 755
-    commentsToLikes: 0.008082
+    followers: 72750
+    engagement: 813
+    commentsToLikes: 0.005591
     id: ck14lninrvjy90i1957pktxqj
     verified: false
     hashtags: ""
-  - username: "renemanueln"
+  - username: "rj_yuvraaj"
     fullname: >-
-      Rene Manuel Nessler
+      RJ Yuvraaj
     bio: >-
-      Model
-    location: ""
-    followers: 6283
-    engagement: 703
-    commentsToLikes: 0.072310
-    id: ck136bxfs5qb80i19b7irzw5k
+      Fittest💪 | Digital Head @radioonefm95📻 | (Ex RJ) . Actor🎭 | Model🎬 | Host🎙| Artist🎨 #artist #calisthenics #creative
+    location: "India"
+    followers: 59444
+    engagement: 1849
+    commentsToLikes: 0.023350
+    id: ck6tqpfl2sywy0j71t7qo6xf6
     verified: false
-    hashtags: "#dam, #vorarlberg, #happyvalentinesday, #bookfanatic"
-  - username: "imgiuliacocola"
+    hashtags: "#amdavad, #classic, #bhavnagar, #workout"
+  - username: "diana_eneje"
     fullname: >-
-      Giulia Cocola
+      Diana Eneje
     bio: >-
-      🇮🇹Model
-    location: "Italy"
-    followers: 60613
-    engagement: 242
-    commentsToLikes: 0.041076
-    id: ck5hcenmzhodg0i11cuv1mehs
-    verified: false
-    hashtags: "#adv, #nophotoshop, #tb, #lastnight"
-  - username: "kayla.ogno"
-    fullname: >-
-      kayla ogno
-    bio: >-
-      FASHION￼ MODEL
+      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
     location: "United States"
-    followers: 5367
-    engagement: 2856
-    commentsToLikes: 0.102331
-    id: ckap5coz5b2v70i78826g3rkw
+    followers: 881412
+    engagement: 609
+    commentsToLikes: 0.010877
+    id: ck8syqlu2lmpq0j78qrada67j
     verified: false
-    hashtags: "#roadtomissnjteenusa, #countdown"
-  - username: "elenanjoss"
+    hashtags: "#completefreshprotection, #reels, #closeupnigeria, #maldives"
+  - username: "i.am.chanice"
     fullname: >-
-      Princesa
+      I Am Chanice
     bio: >-
-      independent model |Digital influencer ✨ Brasil , Ssa 🇧🇷 parcerias: direct 📥 Fui hackeada e tinha 37k , Recomeçando ❤️
-    location: "Brazil"
-    followers: 19997
-    engagement: 2416
-    commentsToLikes: 0.066943
-    id: ck5zycc279mgc0i145m5wtv0q
+      Content Creator | Model | Hair Stylist | Makeup Artist 🇬🇧 London, UK ✉️ Email for PR/Collabs i.am.chanice1@gmail.com
+    location: "United Kingdom"
+    followers: 37872
+    engagement: 545
+    commentsToLikes: 0.049951
+    id: ck6u5qez8b4pa0j71cg1x0l13
     verified: false
-    hashtags: "#bondedasmaravilhas, #temquerexpeitar, #tocahit, #salvador"
-  - username: "camisomc"
-    fullname: >-
-      ⚜️𝓒𝓪𝓶𝓲𝓼𝓸⚜️🅩🅞🅤🅗🅔🅘🅡⚜️
-    bio: >-
-      𝓐 𝓵𝓪 𝓻𝓮𝓬𝓱𝓮𝓻𝓬𝓱𝓮 𝓭𝓾 𝓫𝓸𝓷𝓱𝓮𝓾𝓻.. 🧗🏽‍♂️ In love 💎 @kassandra_smnt 🍒 Lifestyle • Travel • Model 🏝 Mandataire immo IAD🏡 STAFF Basic fit🏋🏽
-    location: "France"
-    followers: 2519
-    engagement: 2368
-    commentsToLikes: 0.286921
-    id: ck6u08k62e87m0j71hnk7y9dp
-    verified: false
-    hashtags: "#lookoftheday, #tendance, #blackeyes, #goldenhour"
+    hashtags: "#blackhaircare, #lacefront, #congolaise, #rdcongo"
 ---

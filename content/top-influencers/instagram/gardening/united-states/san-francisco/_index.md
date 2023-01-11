@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In San Francisco in 2023
+title: Top 10 Gardening Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top gardening Instagram influencers in San Francisco in 2023. Most popular hashtags: #gardening #garden #nature #flowers.
+  Find top gardening Instagram influencers in San Francisco in 2023. Most popular hashtags: #gardening #garden #walk.
 platform: Instagram
-hits: 14
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 14 Instagram influencers like this in San Francisco, United States for you to work with.
+hits: 5
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 5 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
+  - username: "millhousestyle"
+    fullname: >-
+      
+    bio: >-
+      ARIANNE San Francisco• Bay Area Email to collaborate
+    location: "United States"
+    followers: 16856
+    engagement: 580
+    commentsToLikes: 0.285597
+    id: ck0tvdd7ray9e0i195l6hfhqj
+    verified: false
+    hashtags: "#farmhousefeelsgood, #myhomestyledvibe, #lovemypotterybarn, #whitefarmhousedecor"
   - username: "thesucculenthobbyist"
     fullname: >-
       Jean
     bio: >-
       Indulging my succulent obsession. San Francisco. 🌿 All 📷 by me. ✉️: thesucculenthobbyist@gmail.com My food/travel adventures: @lemonsandanchovies
     location: "United States"
-    followers: 32926
-    engagement: 212
-    commentsToLikes: 0.031648
+    followers: 31308
+    engagement: 183
+    commentsToLikes: 0.050314
     id: ck136o4wn7g4z0i197jrdr0wq
     verified: false
-    hashtags: "#jardines, #succulentaddict, #sukkulenten, #plantstagram"
-  - username: "jeanniedouglasart"
+    hashtags: "#succulentlover, #echeveriaelegans, #gardenlover, #gardenlife"
+  - username: "swenyly"
     fullname: >-
-      Jeannie Douglas Colorful Art
+      Tomas
     bio: >-
-      🌻Acrylic Abstract Art Blooming with Joy! 🌻Floral & Landscape Paintings inspired by the beauty of nature #jeanniedouglasart ORIGINALS/PRINTS👇Dm/Email
+      •Yoga •Cooking & Baking •Nature •Music Trying to live my best🌱
     location: "United States"
-    followers: 24597
-    engagement: 256
-    commentsToLikes: 0.087577
-    id: ck8tc138nxwnv0j78ihbokyhg
+    followers: 8862
+    engagement: 599
+    commentsToLikes: 0.030937
+    id: ckap5zblcdsux0i78m02emwkl
     verified: false
-    hashtags: "#abstractlandscape, #flowerart, #studioscenes, #californiaartist"
-  - username: "succielife"
-    fullname: >-
-      Succielife
-    bio: >-
-      🙋🏼‍♂️Full time succie addict 🌵Online Succulent Shop 🌱Instagram Live Sales 📍Berkeley, CA ☀️
-    location: "United States"
-    followers: 8049
-    engagement: 1225
-    commentsToLikes: 0.174482
-    id: ckaoyu6qaj3mk0i78db2mnzfh
-    verified: false
-    hashtags: "#sukulenty, #cuteplants, #succulents, #variegated"
-  - username: "passthepistil"
-    fullname: >-
-      Emily Murphy
-    bio: >-
-      Author. Speaker. #GrowWhatYouLove Regenerative organic gardener/designer. Nature activist. Inspiring others to grow the change they want to see.
-    location: "United States"
-    followers: 28507
-    engagement: 183
-    commentsToLikes: 0.051622
-    id: ck6tpq3qslp9n0j71z9lo49tf
-    verified: false
-    hashtags: "#harvest, #healthyliving, #flowers, #california"
-  - username: "naomivandoren"
-    fullname: >-
-      Naomi VanDoren
-    bio: >-
-      Artist & Author | Adventure-inspired fantasy worlds 📘 #NaiyaAndTheFoxdragon Novel now in the shop! ♡ Indonesia/California
-    location: "United States"
-    followers: 62897
-    engagement: 576
-    commentsToLikes: 0.007783
-    id: ckap0pv95rcks0i789sd5n2qg
-    verified: false
-    hashtags: "#watercolouring, #artsagram, #painteveryday, #bayareaartist"
+    hashtags: "#gaytravel, #smile, #gaymale, #memories"
   - username: "jays.angle"
     fullname: >-
       Jay
     bio: >-
       for the love of clicking 📸 ☺️ 🌿🌻🌲🍁🍕🍃
     location: "United States"
-    followers: 9466
-    engagement: 754
-    commentsToLikes: 0.012558
+    followers: 9814
+    engagement: 618
+    commentsToLikes: 0.010575
     id: ck5bxswmhocv00i11nhcul6nn
     verified: false
-    hashtags: "#flowers, #pretty, #clouds, #leaves"
-  - username: "prestigetree"
-    fullname: >-
-      Ty
-    bio: >-
-      Photography taken during work research and traveling tyclimbstrees
-    location: "United States"
-    followers: 194726
-    engagement: 68
-    commentsToLikes: 0.001803
-    id: ck14j2dqfia8c0i19i6xf8k6v
-    verified: false
-    hashtags: "#inspirephotography, #birds, #travel, #instagood"
-  - username: "swenyly"
-    fullname: >-
-      Tomas
-    bio: >-
-      Trying to live my best🌱 -patisseur 🍰
-    location: "United States"
-    followers: 8988
-    engagement: 591
-    commentsToLikes: 0.033405
-    id: ckap5zblcdsux0i78m02emwkl
-    verified: false
-    hashtags: "#selfie, #smile, #gaytravel, #instaman"
+    hashtags: "#sky, #colors, #nature, #plants"
   - username: "edwaardliang"
     fullname: >-
       Edwaard Liang
     bio: >-
       #Ballet #Choreographer #artisticdirector of @balletmet
     location: "United States"
-    followers: 6300
-    engagement: 518
-    commentsToLikes: 0.029569
+    followers: 6328
+    engagement: 552
+    commentsToLikes: 0.036789
     id: ck0u20o8byh8t0i195c1ogkrs
     verified: false
-    hashtags: "#worldwidedance, #pointeshoes, #edwaardliang, #worldwideballet"
-  - username: "cletabraham"
+    hashtags: "#balletcompany, #art, #columbusohio, #artmakescbus"
+  - username: "northwoodsfolk"
     fullname: >-
-      Clet
+      Sunny // Folk Living                                       🌲MN🌲
     bio: >-
-      Obeying is not a virtue
+      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
     location: "United States"
-    followers: 69034
-    engagement: 774
-    commentsToLikes: 0.011308
-    id: ck0vv63d5npg10i19o4yetyv1
+    followers: 131357
+    engagement: 474
+    commentsToLikes: 0.067900
+    id: ckx3j50xwzxpa0j2331ss8l9z
     verified: false
-    hashtags: "#streetsign, #giletjaune, #cletabrahamfanpage, #streetart"
+    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
+  - username: "laurenselfblogs"
+    fullname: >-
+      Lauren
+    bio: >-
+      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+    location: "United States"
+    followers: 18656
+    engagement: 1858
+    commentsToLikes: 0.022000
+    id: ck8t1vbnlx6dp0j782ei1ya9s
+    verified: false
+    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
+  - username: "seldabelda"
+    fullname: >-
+      anna aromin | ↟ pnw ↟
+    bio: >-
+      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+    location: "United States"
+    followers: 33490
+    engagement: 341
+    commentsToLikes: 0.090660
+    id: ck14kkiiwpyiz0i19q3we0t10
+    verified: false
+    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
+  - username: "life_of_glow"
+    fullname: >-
+      Robyn | Home & Garden Joy
+    bio: >-
+      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
+    location: "United States"
+    followers: 40685
+    engagement: 309
+    commentsToLikes: 0.087218
+    id: ck0u7az5246wj0i19r71e0x0v
+    verified: false
+    hashtags: "#rugsusa"
+  - username: "theladywholunches"
+    fullname: >-
+      Jenna Ingalls
+    bio: >-
+      sewing, knitting, sometimes gardening, now with a baby Oakland, California
+    location: "United States"
+    followers: 6923
+    engagement: 1144
+    commentsToLikes: 0.061068
+    id: ck5zobjeqq6wu0i146qvnwtx8
+    verified: false
+    hashtags: "#memadeeveryday, #sewistsofinstagram, #oaklandsews, #huondress"
 ---

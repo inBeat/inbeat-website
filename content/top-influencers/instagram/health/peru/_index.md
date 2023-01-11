@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Peru in 2023
+title: Top 10 Health Instagram Influencers In Peru In 2023
 description: >-
-  Find top health Instagram influencers in Peru in 2023. Most popular hashtags: #motivation #love #peru.
+  Find top health Instagram influencers in Peru in 2023. Most popular hashtags: #peru #love #girl #photoshoot.
 platform: Instagram
-hits: 54
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 54 Instagram influencers like this in Peru for you to pitch.
+hits: 43
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 43 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "brisabraunl"
-    fullname: >-
-      Brisa Braun
-    bio: >-
-      <create your own happiness> 🌿 Healthy lifestyle 📍 Trujillo, Perú 💚 Feminista 💜 DM/Email for Collabs
-    location: "Peru"
-    followers: 6979
-    engagement: 1486
-    commentsToLikes: 0.046136
-    id: ck6ti4oe401570j71jif3dfqp
-    verified: false
-    hashtags: "#fitnessmotivation, #feelingblessed, #love, #nature"
-  - username: "andreaalmarzacerpa"
-    fullname: >-
-      Andrea Almarza
-    bio: >-
-      Karate Athlete|🥉Panam Lima ’19 🥇x4 Panamerican Championship 🥇x5 South American Championship 🥉x2 Karate 1 Serie A Sport & Healthy Life🌱 📍Lima, Perú
-    location: "Peru"
-    followers: 10768
-    engagement: 962
-    commentsToLikes: 0.022447
-    id: ck8t7wjili7d60j78hvg9rvy0
-    verified: false
-    hashtags: "#karateshotokan, #karatelife, #training, #wkf"
-  - username: "aleventuro"
-    fullname: >-
-      Alexandra Venturo
-    bio: >-
-      Mami de Aria 👼🏽💓 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle💚 ♏️ Scorpio 👁
-    location: "Peru"
-    followers: 45909
-    engagement: 458
-    commentsToLikes: 0.012655
-    id: ck6tisb7j1bsv0j718bgp7ozy
-    verified: false
-    hashtags: "#mybaby, #momlife, #babya, #babygirl"
   - username: "claudialb01"
     fullname: >-
       Maria Claudia Lastarria
     bio: >-
       📍Lima, Perú 🇵🇪 26/08 🎉 @trendsinnovation 🏃🏽‍♀️🛍 @believebymc 👗 Healthy Lifestyle 🏋🏽‍♀️🍏 Estudiante de la UL 📚 Paz y Amor ❤️
     location: "Peru"
-    followers: 523669
-    engagement: 367
-    commentsToLikes: 0.016931
+    followers: 595010
+    engagement: 417
+    commentsToLikes: 0.014030
     id: ck8tczb9i19h00j785npmxguo
     verified: false
-    hashtags: "#birthdaygirl, #happybirthday, #hbtome, #happy"
-  - username: "alecabani"
+    hashtags: "#cancun, #mexico2020"
+  - username: "aleventuro"
     fullname: >-
-      𝐀𝐥𝐞𝐱 𝐂𝐚𝐛𝐚𝐧𝐢𝐥𝐥𝐚𝐬
+      Alexandra Venturo
     bio: >-
-      🌸|Healthy lifestyle 🔜| Fashion designer 🌻|Smart women can achieve everything 🌿@talezza.healthymarket 🍑@holypeach.peru
+      Mami de Aria 👼🏽💓 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle💚 ♏️ Scorpio 👁
     location: "Peru"
-    followers: 9514
-    engagement: 673
-    commentsToLikes: 0.038067
-    id: ckap4eoqc71bz0i78zsybyr8w
+    followers: 47453
+    engagement: 290
+    commentsToLikes: 0.010655
+    id: ck6tisb7j1bsv0j718bgp7ozy
     verified: false
-    hashtags: "#nuncam, #estecongresonomerepresenta"
-  - username: "ximehoyosp"
+    hashtags: "#blessed, #mybaby, #beach, #babygirl"
+  - username: "limiley"
     fullname: >-
-      Xime hoyos
+      F E R L I M A🤍
     bio: >-
-      📍Peru 🥗Healthy lifestyle 🎭Actriz, conductora 🏆bikini IFBB PRO Founder @ibella.ama @xiprofitperu @lainap.pe
+      🥑 Healthy Lifestyle @thehealthylima fer.lima@cflw.mx Inhale love, exhale hate.
     location: "Peru"
-    followers: 1624917
-    engagement: 144
-    commentsToLikes: 0.003367
-    id: ck13dc3sf4p7m0i191bbtv51g
-    verified: true
-    hashtags: "#quelosastrosteseanpropicios, #sunset, #mancora, #35mm"
+    followers: 40468
+    engagement: 392
+    commentsToLikes: 0.027733
+    id: ckapauk9dxj0a0i78qjyx55jn
+    verified: false
+    hashtags: "#outfits, #likeforfollow, #lingerie, #hair"
+  - username: "paulamonpas"
+    fullname: >-
+      PAULA MONTES
+    bio: >-
+      📍Now in LIMA 🇺🇸 @NEXTMODELS Health Coach in training @nutritionschool 🍃 @thehealthiestmodel
+    location: "Peru"
+    followers: 34083
+    engagement: 267
+    commentsToLikes: 0.032902
+    id: ck14gdv094pyl0i19wv2l0o5z
+    verified: false
+    hashtags: "#nomakeup, #nofilter, #dior, #sustainablefashion"
+  - username: "andreaalmarzacerpa"
+    fullname: >-
+      Andrea Almarza
+    bio: >-
+      Karate Athlete|🥉Panam Lima ’19 🥇x4 Panamerican Championship 🥇x5 South American Championship 🥉x2 Karate 1 Serie A Sport & Healthy Life🌱 📍Lima, Perú
+    location: "Peru"
+    followers: 10579
+    engagement: 913
+    commentsToLikes: 0.018489
+    id: ck8t7wjili7d60j78hvg9rvy0
+    verified: false
+    hashtags: "#karateshotokan, #peru, #peace, #femalekata"
+  - username: "andrearecetas"
+    fullname: >-
+      Andrea Amatte. Cocinera
+    bio: >-
+      Cocinera y mamá x 3!🇦🇷en LA🇺🇸 Te enseño a cocinar rico! Clases gratis x stories a diario Healthy recipes @andreaamatte Youtube Recetarios y más👇
+    location: "Peru"
+    followers: 632962
+    engagement: 232
+    commentsToLikes: 0.522838
+    id: ck8t6bi8pcz9t0j78l8k78wc7
+    verified: false
+    hashtags: "#budin, #quequedechocolate, #chocolatecake, #pasteldechocolate"
   - username: "healthy_pleasure"
     fullname: >-
       𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
     bio: >-
       Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
     location: "Peru"
-    followers: 55493
-    engagement: 195
-    commentsToLikes: 0.100407
+    followers: 58358
+    engagement: 137
+    commentsToLikes: 0.113241
     id: ck5zlrnnbl9gc0i14k1khb4zx
     verified: true
-    hashtags: "#plantbasedrecipe, #nutricion, #plantbased, #healthypleasure"
-  - username: "andresbatistar"
-    fullname: >-
-      Andrés Batista
-    bio: >-
-      panamá 🗺 cantante 🎙 | actor 🎬 | healthy lifestyle 🍏
-    location: "Peru"
-    followers: 2596
-    engagement: 1600
-    commentsToLikes: 0.047505
-    id: ck13brellwt5w0i19otp5dl9l
-    verified: false
-    hashtags: "#stayhome, #panama, #comedy, #tiktok"
+    hashtags: "#dieta, #foodfight, #healthy, #peru"
   - username: "veggienellaa"
     fullname: >-
       Antonella Massé
     bio: >-
       Estilo de vida saludable || Med student Miss Teen Sudamerica Internacional 3ra ed. Miss Teen Sudamerica Perú 2018
     location: "Peru"
-    followers: 18941
-    engagement: 627
-    commentsToLikes: 0.032717
+    followers: 19926
+    engagement: 634
+    commentsToLikes: 0.018418
     id: ck5q3ih2vkw4r0i118c32t6ll
     verified: false
-    hashtags: "#artesmarciales, #fit, #workout, #girl"
-  - username: "l.abustamante"
+    hashtags: "#gym, #fitness, #girl, #peru"
+  - username: "adrianajch"
     fullname: >-
-      𝖵𝖺𝗅𝖾𝗇𝗍𝗂𝗇𝖺
+      •Adriana Jimenez Chiang•
     bio: >-
-      📍ʟɪᴍᴀ-ᴘᴇʀᴜ ➟🥗 𝐇𝐞𝐚𝐥𝐭𝐡𝐲 𝐥𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 ➟👩🏼‍🍳 𝙵𝚒𝚝-𝚁𝚎𝚌𝚒𝚙𝚎𝚜// 𝗆𝖾𝗃𝗈𝗋𝖺𝗇𝖽𝗈 𝗁𝖺𝖻𝗂𝗍𝗈𝗌 🍋 Tu dia empieza escogiendo lo mejor para tu salud 🌱
+      🍃 Estilo de vida saludable 💪🏻 Fitness girl 💫 Modelo publicitaria 👑 Miss Teen Sudamérica Internacional 2E 👑 MTS Perú 2017 ✨ Tik tok(25k+)
     location: "Peru"
-    followers: 9427
-    engagement: 1161
-    commentsToLikes: 0.044000
-    id: ckf5uvyc4mjvn0j23ajtolpot
+    followers: 6121
+    engagement: 575
+    commentsToLikes: 0.050870
+    id: ckaorjxlbnkhy0i78esgx0q6w
     verified: false
-    hashtags: "#gym, #healthy, #eat, #bodybuilding"
+    hashtags: "#mindset, #marcosalbercaencasa, #tweegram, #follow4follow"
+  - username: "nosoyunaflor"
+    fullname: >-
+      Rosa R.
+    bio: >-
+      ☝🏻Tips & points 🍃Comparto mi nuevo estilo de vida 💎Owner @extravaganza.pe 📍Lima, Perú
+    location: "Peru"
+    followers: 11358
+    engagement: 118
+    commentsToLikes: 0.087448
+    id: ck1397nqbjy0n0i190jnhffk9
+    verified: false
+    hashtags: "#l4l, #instagramer, #picoftheday, #tagsforlikesapp"
 ---

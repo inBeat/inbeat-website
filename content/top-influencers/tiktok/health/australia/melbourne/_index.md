@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In Melbourne in 2023
+title: Top 10 Health TikTok Influencers In Melbourne In 2023
 description: >-
-  Find top health TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #foryou #foryoupage.
+  Find top health TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #foryoupage #australia.
 platform: TikTok
-hits: 14
+hits: 11
 text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 14 TikTok influencers like this in Melbourne, Australia for you to collaborate.
+text_bottom: Our platform aggregates 11 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
+  - username: "jimrossington"
+    fullname: >-
+      Jim Rossington
+    bio: >-
+      Follow me on Insta ⬆️ Jim Day-Knight Biz - Jimrossington@outlook.com
+    location: "Australia"
+    followers: 197200
+    engagement: 1182
+    commentsToLikes: 0.015954
+    id: ckacr1i2u3emd0i786tam0tco
+    verified: false
+    hashtags: "#australia, #foryou, #comedy, #aus"
   - username: "renesarahlim"
     fullname: >-
       Renée Sarah Lim
     bio: >-
       Australian Asian who speaks Spanish Self-improvement tips 🇦🇺
     location: "Australia"
-    followers: 6834
-    engagement: 879
-    commentsToLikes: 0.020431
+    followers: 6779
+    engagement: 793
+    commentsToLikes: 0.019988
     id: ckd0bhqpjccue0j23812g25b3
     verified: false
-    hashtags: "#read, #motivation, #health, #lockdown"
-  - username: "officialnikoda"
+    hashtags: "#learnontiktok, #selfdevelopment, #quarantine, #fyp"
+  - username: "health.investments"
     fullname: >-
-      Nikoda
+      Jas Turka
     bio: >-
-      CEO of ‘Quantity over quality’ 🏠Melbourne 📍Darwin For gym and bikini pics👇🏽
+      Personal Trainer💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
     location: "Australia"
-    followers: 6355
-    engagement: 502
-    commentsToLikes: 0.025890
-    id: ckai6qgp1x8dm0i78awe1pqbg
-    verified: false
-    hashtags: "#downunder, #nt, #quantityoverquality, #comedy"
-  - username: "life_of_carolyn"
-    fullname: >-
-      life_of_carolyn
-    bio: >-
-      Your mental health cheerleader ❤️ #motherhoodsquad #alwaysenoughsquad
-    location: "Australia"
-    followers: 50100
-    engagement: 1110
-    commentsToLikes: 0.049750
-    id: cka0gee5s44rz0i78u1leq44v
-    verified: false
-    hashtags: "#mentalhealth, #mentalhealthmatters, #momsoftiktok, #youwantmore"
-  - username: "jassturka4"
-    fullname: >-
-      Jass Turka
-    bio: >-
-      Health & Fitness 💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
-    location: "Australia"
-    followers: 75500
-    engagement: 336
-    commentsToLikes: 0.031642
+    followers: 75700
+    engagement: 325
+    commentsToLikes: 0.034664
     id: ckai3fp8wjp9s0i78tydhilnp
     verified: false
-    hashtags: "#beautytutorial, #proudpunjabi, #weightloss, #friends"
-  - username: "_kim_lawless_"
-    fullname: >-
-      Kim
-    bio: >-
-      •Fitness•health lifestyle• Instagram- kimlawless_fitness
-    location: "Australia"
-    followers: 47700
-    engagement: 851
-    commentsToLikes: 0.044897
-    id: cka7o7mp10qyp0i78xk1mluw6
-    verified: false
-    hashtags: "#duet, #fyp, #hi, #lockdown"
-  - username: "b.humphris.physiotherapy"
-    fullname: >-
-      The Physio Wizard
-    bio: >-
-      The Wizard of Windsor (MELB, AUS) Co-founder of Humphris Health Physiotherapist
-    location: "Australia"
-    followers: 222763
-    engagement: 374
-    commentsToLikes: 0.010842
-    id: ck9rc5y16s5ly0j782nkzl58k
-    verified: false
-    hashtags: "#pt, #physicaltherapist, #wizard, #cupping"
+    hashtags: "#weightloss, #melbourne, #stayhome, #supportfamers"
   - username: "adventuresofkatelyn"
     fullname: >-
       AdventuresOfKatelyn
     bio: >-
       Travel addict ✈️ Instagram @adventuresofkatelyn ✨ YouTube ⬇️
     location: "Australia"
-    followers: 70300
-    engagement: 605
-    commentsToLikes: 0.014417
+    followers: 70600
+    engagement: 595
+    commentsToLikes: 0.014489
     id: ckb98cwj2rt3z0j23wik6ijf1
     verified: false
-    hashtags: "#travel, #husky, #nepal, #melbourne"
-  - username: "antheas_glitter_bottles"
-    fullname: >-
-      Antheas_bottles
-    bio: >-
-      Insta: abeauty_lashes Insta: antheas_glitter_bottles Shop cosmetics👇🏼
-    location: "Australia"
-    followers: 7696
-    engagement: 1495
-    commentsToLikes: 0.034682
-    id: ckbqvglxhfpg10j23qql2fi9q
-    verified: false
-    hashtags: "#bestie, #itstartsontiktok, #fyp, #foryou"
-  - username: "4kittens1human"
+    hashtags: "#travel, #farmlife, #foryou, #tiktoktravel"
+  - username: "bigbadeddie2.0"
     fullname: >-
       user5886937274148
     bio: >-
-      Baby I’m an animal
-    location: "Australia"
-    followers: 3843
-    engagement: 683
-    commentsToLikes: 0.016239
-    id: ckavr97gm33et0j235hfk4j5p
-    verified: false
-    hashtags: "#tigerking, #fyp, #cat, #isolation"
-  - username: "rii.haytchh"
-    fullname: >-
-      Rii.rii
-    bio: >-
       
     location: "Australia"
-    followers: 8881
-    engagement: 617
-    commentsToLikes: 0.000000
+    followers: 8713
+    engagement: 1462
+    commentsToLikes: 0.001537
+    id: ckavr97gm33et0j235hfk4j5p
+    verified: false
+    hashtags: "#meetmypet, #cat, #fyp, #kitten"
+  - username: "water_bebeh"
+    fullname: >-
+      ♕
+    bio: >-
+      Queen of Pisces ♓️
+    location: "Australia"
+    followers: 8915
+    engagement: 422
+    commentsToLikes: 0.003584
     id: ckb8znfqyf3vj0j23nga3tv6s
     verified: false
-    hashtags: "#viral, #sydney, #funny, #love"
+    hashtags: "#iraqi, #fyp, #iraq, #fy"
+  - username: "memoirsofstephfitmum"
+    fullname: >-
+      Stephanie Smith
+    bio: >-
+      Just Another "fitmum" (32) Tattoo Collector 🇦🇺
+    location: "Australia"
+    followers: 20000
+    engagement: 589
+    commentsToLikes: 0.075039
+    id: ckal669dl9jy50i78w9np7l9w
+    verified: false
+    hashtags: "#4u, #tattoo, #funny, #fyp"
+  - username: "tanci80"
+    fullname: >-
+      Tanya is cool
+    bio: >-
+      Just living my best life and having lots of fun along the way.
+    location: "Australia"
+    followers: 4412
+    engagement: 1325
+    commentsToLikes: 0.083090
+    id: cka7vuyogxugn0i785tg0lo6c
+    verified: false
+    hashtags: "#merrychristmas, #melbourne, #australia, #manifestation"
+  - username: "food.mez"
+    fullname: >-
+      Food.life.mez
+    bio: >-
+      Food is Love 🌟✨ 🥟🥟🍝🍝🍜🍛🥗🍲 From Nepal 🇳🇵👉🏻 Living in Australia 🇦🇺
+    location: "Australia"
+    followers: 22400
+    engagement: 332
+    commentsToLikes: 0.030014
+    id: ckb9gdqce5cgn0j235y1j0e84
+    verified: false
+    hashtags: "#nepali, #tiktokfood, #namkin, #foodmez"
+  - username: "maciecremona"
+    fullname: >-
+      Macie Cremona
+    bio: >-
+      I run a small business! ✨🎁 ⇩ www.thegiftedgratitude.com @thegiftedgratitude
+    location: "Australia"
+    followers: 3584
+    engagement: 649
+    commentsToLikes: 0.018687
+    id: ckcdjez6c8t190j23w9ixf92l
+    verified: false
+    hashtags: "#animallove, #doggo, #wow, #melbourne"
 ---

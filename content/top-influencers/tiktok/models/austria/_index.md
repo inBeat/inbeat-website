@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Austria in 2023
+title: Top 10 Models TikTok Influencers In Austria In 2023
 description: >-
-  Find top models TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #foryou #model #fy.
+  Find top models TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #austria #foryou #model.
 platform: TikTok
 hits: 19
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 19 TikTok influencers like this in Austria for you to connect with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 19 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "christianthomasprey"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       OGV 🏊🏼‍♂️Extreme Athlete 🤿Freediver 📸Pro UW Model 🏔Adventurer 🧘🏽‍♂️Coach
     location: "Austria"
-    followers: 188300
-    engagement: 1063
-    commentsToLikes: 0.042063
+    followers: 185900
+    engagement: 1132
+    commentsToLikes: 0.044740
     id: ck98qtfta7hsm0j78xl2rh69h
     verified: false
-    hashtags: "#fyp, #thoughts, #autumn, #iceswimming"
-  - username: "sonya.havr"
-    fullname: >-
-      sonya.havr
-    bio: >-
-      Folge mir auf IG: @SONYA_HAVR 🥰 📍Vienna | Model, YouTuber
-    location: "Austria"
-    followers: 20100
-    engagement: 925
-    commentsToLikes: 0.016770
-    id: ckaij0qu4cvr30i78bobckrkb
-    verified: false
-    hashtags: "#wien, #style, #vienna, #cooking"
+    hashtags: "#foryou, #austria, #fyp, #fy"
   - username: "miranhusseini"
     fullname: >-
       Miran7
     bio: >-
       Österreich Instagram: 1mir7 Snapchat :Miran.husseini
     location: "Austria"
-    followers: 3094
-    engagement: 1103
-    commentsToLikes: 0.105547
+    followers: 2989
+    engagement: 977
+    commentsToLikes: 0.096957
     id: ckb9i4npt87m20j23ucq9v33g
     verified: false
-    hashtags: "#innsbruck, #kurd, #schweiz, #rojava"
-  - username: "e1enora"
+    hashtags: "#model, #duet, #kurdistan, #kurdish"
+  - username: "luciehalajova"
     fullname: >-
-      ☁️ 𝕰𝖑𝖊𝖓𝖔𝖗𝖆 ☁️
+      Lucie Halajová - LH 
     bio: >-
-      Vienna DoNt GiVe Up <3
+      Photography & Fashion & Funny
     location: "Austria"
-    followers: 3261
-    engagement: 1832
-    commentsToLikes: 0.053689
-    id: cka84izazu0wk0i787g4hoine
+    followers: 13600
+    engagement: 714
+    commentsToLikes: 0.025844
+    id: ckbqktgfm5xma0j23d7z3baho
     verified: false
-    hashtags: "#meinerstestiktok, #foryou, #corona, #fyp"
-  - username: "feizibine"
+    hashtags: "#foryoupage, #innsbruck, #art, #austria"
+  - username: "sjcheeky"
     fullname: >-
-      FeiziBine 
+      sarahjanecheeky
     bio: >-
-      Austria 🇦🇹 Österreich
+      may I interest you in a sarcastic comment? professional fangirl 🌈•🇦🇹
     location: "Austria"
-    followers: 208000
-    engagement: 1148
-    commentsToLikes: 0.016663
-    id: ck9ej6jsc0wo90j78655zp5qa
+    followers: 98200
+    engagement: 2519
+    commentsToLikes: 0.011246
+    id: ck9nnourfq9lx0j78nm1wuxji
     verified: false
-    hashtags: "#fy, #diy, #bastelnmitfeizi, #drawing"
+    hashtags: "#kpop, #fyp, #btsxarmy, #twice"
+  - username: "s.donmez"
+    fullname: >-
+      S.donmez
+    bio: >-
+      
+    location: "Austria"
+    followers: 27300
+    engagement: 1159
+    commentsToLikes: 0.042922
+    id: ckbw98h3tznzp0j23srsvbtu1
+    verified: false
+    hashtags: "#eating, #omggggg, #kurdisch, #animal"
   - username: "checheiam"
     fullname: >-
       Checheiam 
     bio: >-
-      Dominican🇩🇴/🇦🇹 @checheiam 🙏🏽❤️
+      Dominican🇩🇴 @checheiam 🙏🏽❤️
     location: "Austria"
-    followers: 9489
-    engagement: 601
-    commentsToLikes: 0.060462
+    followers: 9376
+    engagement: 517
+    commentsToLikes: 0.072199
     id: ckb9fn6lv42ox0j23cber69c9
     verified: false
-    hashtags: "#innsbruck, #tiktok, #beats, #austria"
+    hashtags: "#shooting, #innsbruck, #cheche, #beats"
+  - username: "charly_schwarz"
+    fullname: >-
+      Charly Schwarz
+    bio: >-
+      Ich bin Fotograf Based in 🇦🇹 Official Creator @ #LernenMitTikTok
+    location: "Austria"
+    followers: 230000
+    engagement: 1303
+    commentsToLikes: 0.019564
+    id: ckbf6br9qvwez0j23bzj1gx7a
+    verified: false
+    hashtags: "#cgi, #techtipps, #lernenmittiktok, #fotografie"
   - username: "anaspalace"
     fullname: >-
       Anastasija
     bio: >-
-      17🤍 from austria/ serbia subscribe to my instagram& youtube
+      18yrs 📍Austria, Serbia Insta/ Snap: anaspalace
     location: "Austria"
-    followers: 142500
-    engagement: 880
-    commentsToLikes: 0.030940
+    followers: 159200
+    engagement: 705
+    commentsToLikes: 0.023032
     id: ckdgzuhkjr5u10j23m6c65abu
     verified: false
-    hashtags: "#foryoupage, #tiktokgirls, #foryou, #fyp"
+    hashtags: "#family, #dance, #austriatiktok, #fy"
+  - username: "wvngzara"
+    fullname: >-
+      Zara Wang
+    bio: >-
+      Vienna , 23 , Photographer 𝐶ℎ𝑒𝑐ℎ𝑒𝑛𝑦𝑎 💌wvgzara@outlook.com @wvngfam
+    location: "Austria"
+    followers: 85700
+    engagement: 1063
+    commentsToLikes: 0.017536
+    id: ck9c5kkxzqknr0j78brl98id1
+    verified: false
+    hashtags: "#vienna, #fy, #fyp, #austria"
   - username: "tyleredwardwilson"
     fullname: >-
       Tyler Edward Wilson
     bio: >-
       British man 🇬🇧 living in Austria 🇦🇹
     location: "Austria"
-    followers: 42500
-    engagement: 715
-    commentsToLikes: 0.028758
+    followers: 45400
+    engagement: 818
+    commentsToLikes: 0.025829
     id: ckdsrotkwp3mh0j23ye5fn7z8
     verified: false
-    hashtags: "#drawing, #fashion, #instagram, #man"
-  - username: "katymilacek"
-    fullname: >-
-      Katy Milacek
-    bio: >-
-      😈 CZECH GIRL 😈 ❤️ WIEN ❤️
-    location: "Austria"
-    followers: 22600
-    engagement: 436
-    commentsToLikes: 0.042371
-    id: ckdbvgm2ldk4o0j235jby45ku
-    verified: false
-    hashtags: "#pov, #germany, #witzig, #foryourpage"
-  - username: "mac_troy_"
-    fullname: >-
-      Mac_Troy_
-    bio: >-
-      „Mac_Troy_
-    location: "Austria"
-    followers: 43800
-    engagement: 544
-    commentsToLikes: 0.030468
-    id: ckc8ek8lz9vk40j237epnqzjv
-    verified: false
-    hashtags: "#goviral, #wien, #foryoupage, #vienna"
+    hashtags: "#beard, #face, #criticalrole, #trend"
 ---

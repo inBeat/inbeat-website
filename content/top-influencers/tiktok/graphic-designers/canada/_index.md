@@ -1,118 +1,130 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Canada in 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Canada In 2023
 description: >-
-  Find top graphic-designers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #graphicdesign #foryou #foryoupage.
+  Find top graphic-designers TikTok influencers in Canada in 2023. Most popular hashtags: #graphicdesign #fyp #trending #foryoupage.
 platform: TikTok
-hits: 9
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 9 TikTok influencers like this in Canada for you to collaborate.
+hits: 77
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 77 TikTok influencers like this in Canada for you to connect with.
 profiles:
-  - username: "lefdra"
-    fullname: >-
-      Alfred Green
-    bio: >-
-      ONTARIO 🇨🇦 I thought it was funny when I posted them but idk anymore lol
-    location: "Canada"
-    followers: 2674
-    engagement: 635
-    commentsToLikes: 0.043946
-    id: ck961yp30ohsy0j78xlyono7q
-    verified: false
-    hashtags: "#graphicdesigner, #foryou, #graphicdesign, #fyp"
-  - username: "thebakuhoe"
-    fullname: >-
-      ur senpai
-    bio: >-
-      weeb lord pc gamer 19
-    location: "Canada"
-    followers: 22700
-    engagement: 2041
-    commentsToLikes: 0.013412
-    id: ck986jt08x46a0j78yen0mgym
-    verified: false
-    hashtags: "#art, #anime, #deku, #fyp"
-  - username: "janinedesigns"
-    fullname: >-
-      Janine Heinrichs
-    bio: >-
-      Behind the scenes of designing posters. IG for all of my posters! Prints below ↓
-    location: "Canada"
-    followers: 97600
-    engagement: 850
-    commentsToLikes: 0.008661
-    id: ckcdncuv4aon80j23qnnp57oo
-    verified: false
-    hashtags: "#art, #foryoupage, #photoshop, #poster"
   - username: "astawa.ca"
     fullname: >-
       Astawa
     bio: >-
-      🕸 Web Designer + Co-Founder 👨🏻‍💻 ↘️ Marketing & Business Tips ↙️
+      More on IG ☝🏼 🕸 Web Designer + Co-Founder 👨🏻‍💻 ↘️ Marketing & Biz Tips ↙️
     location: "Canada"
-    followers: 8281
-    engagement: 463
-    commentsToLikes: 0.064488
+    followers: 12600
+    engagement: 787
+    commentsToLikes: 0.052173
     id: ckdtezs2ivusb0j2387f3z880
     verified: false
-    hashtags: "#entrepreneur, #businesstips, #hustle, #marketing"
-  - username: "benoitmeunier"
+    hashtags: "#webdesign, #marketingtips, #learnontiktok, #webdesigntips"
+  - username: "reidbosse"
     fullname: >-
-      Benoit Meunier
+      Reid Bosse 🇨🇦
     bio: >-
-      UX Designer ❤️ #retail #workculture
+      Edmonton 🇨🇦 Follow me on insta 👆 - Fitness | Business | Jokes - ⬇️
     location: "Canada"
-    followers: 31400
-    engagement: 539
-    commentsToLikes: 0.043160
-    id: ck9jxlo9a18w30j788cmttcnz
+    followers: 10900
+    engagement: 1018
+    commentsToLikes: 0.165757
+    id: ck9gm1g0sqmdc0j78jwyseskg
     verified: false
-    hashtags: "#uxresearch, #design, #ux, #ui"
-  - username: "dopechief"
+    hashtags: "#edmonton, #yeg, #watchmegrow, #readysetshop"
+  - username: "elise20022"
     fullname: >-
-      Dope Chief
+      Elise20022
     bio: >-
-      How to Artist 🇨🇦
+      
     location: "Canada"
-    followers: 38500
-    engagement: 1604
-    commentsToLikes: 0.016728
-    id: ck8qhxhw16vyc0j780b52kb8v
+    followers: 9484
+    engagement: 1013
+    commentsToLikes: 0.033684
+    id: ck8071vi4nzpz0j78lhvjavku
     verified: false
-    hashtags: "#animate, #trippy, #paint, #corona"
+    hashtags: "#2020wrapped, #fyp, #originalmusic, #myjob"
+  - username: "lovedeep_ls"
+    fullname: >-
+      Lovedeep Singh
+    bio: >-
+      ❤Digital Media❤ Social Media Expert✅ Grow digitally DM me💥
+    location: "Canada"
+    followers: 117700
+    engagement: 1868
+    commentsToLikes: 0.012739
+    id: ckb9sq06lq82y0j23mtsqbw9j
+    verified: false
+    hashtags: "#bestfriendday, #foryou, #blackmusic, #prank"
   - username: "dillon.kydd"
     fullname: >-
       dillon 
     bio: >-
       Photographer Toronto 🇨🇦 To book a shoot, message me through my website! ⬇️
     location: "Canada"
-    followers: 10800
-    engagement: 1153
-    commentsToLikes: 0.022745
+    followers: 10500
+    engagement: 929
+    commentsToLikes: 0.027513
     id: ck8kg0jx5ge3w0j78himdm2ky
     verified: false
-    hashtags: "#car, #model, #ontario, #xyzbca"
-  - username: "kiersaymurray"
+    hashtags: "#photoshoot, #photographer, #howto, #trending"
+  - username: "janinedesigns"
     fullname: >-
-      Kiersay Murray
+      Janine Heinrichs
     bio: >-
-      i like to wear cool clothes + talk about startups/design IG:@kiersaymurray
+      Behind the scenes of designing posters. IG for all of my posters! Prints below ↓
     location: "Canada"
-    followers: 3453
-    engagement: 596
-    commentsToLikes: 0.031601
-    id: ckbl328jp0fp50j23ov7l1nxj
+    followers: 160300
+    engagement: 841
+    commentsToLikes: 0.003974
+    id: ckcdncuv4aon80j23qnnp57oo
     verified: false
-    hashtags: "#foryou, #fyp, #haircolor, #boysaintshit"
-  - username: "donsamhazan"
+    hashtags: ""
+  - username: "hannahhossny"
     fullname: >-
-      DonHaze
+      hannah🐙
     bio: >-
-      23 Entrepreneur Content Creator 📸 Founder @billionairewallet @socialdrop
+      hannerrrrrrr 🇪🇬🇪🇬 toronto:)
     location: "Canada"
-    followers: 33800
-    engagement: 412
-    commentsToLikes: 0.020772
-    id: ck7zp8f7lnto40j78jnksq1lj
+    followers: 57200
+    engagement: 2199
+    commentsToLikes: 0.059140
+    id: ck9shrdwzuua30j78nxc6jjvz
     verified: false
-    hashtags: "#motivation, #facebookads, #smm, #onlineclass"
+    hashtags: "#timewarpjump, #mypfp, #tabletop, #feliznavidad"
+  - username: "kaur_rubyy"
+    fullname: >-
+      Ruby
+    bio: >-
+      ਖੁਸ਼ ਰਹਿਣ ਦਾ ਬੱਸ ਇਹ ਹੀ ਤਰੀਕਾ ਹੈ....ਜਿੱਦਾ ਦੇ ਵੀ ਹਾਲਾਤ ਹੋਣ ਉਸ ਨਾਲ ਦੋਸਤੀ ਕਰ ਲਵੋ....
+    location: "Canada"
+    followers: 21400
+    engagement: 2893
+    commentsToLikes: 0.034571
+    id: ckammx1j62byo0i7865ccn84h
+    verified: false
+    hashtags: "#inlove, #foodtiktok, #whenwewereyounger, #greenscreensticker"
+  - username: "alysha_newton"
+    fullname: >-
+      alysha newton
+    bio: >-
+      🍓🐌
+    location: "Canada"
+    followers: 9027
+    engagement: 1747
+    commentsToLikes: 0.060957
+    id: ckbwl7wzh40t20j23prrw9bzq
+    verified: false
+    hashtags: "#rocktumbling, #fyp, #aesthetic, #albumcoverchallenge"
+  - username: "8secondgaming"
+    fullname: >-
+      8SecondGaming
+    bio: >-
+      “Just a bully with a platform” 8SecondGaming@Gmail.com Stream link below
+    location: "Canada"
+    followers: 58900
+    engagement: 1494
+    commentsToLikes: 0.057686
+    id: ck9k4yngfummt0j78mb6b3ssz
+    verified: false
+    hashtags: "#tipsandtricks, #apex, #apexlegendsclips, #gamer"
 ---

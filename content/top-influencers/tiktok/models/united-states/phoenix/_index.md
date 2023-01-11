@@ -1,24 +1,48 @@
 ---
-title: Top 10 Models TikTok Influencers In Phoenix in 2023
+title: Top 10 Models TikTok Influencers In Phoenix In 2023
 description: >-
-  Find top models TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #model #foryoupage #foryou.
+  Find top models TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #model #foryou #foryoupage.
 platform: TikTok
 hits: 9
-text_top: Analyze the most popular TikTok influencers on inBeat.
+text_top: Analyze the best TikTok accounts on inBeat.
 text_bottom: inBeat holds 9 TikTok influencers like this in Phoenix, United States for you to work with.
 profiles:
-  - username: "willplourde"
+  - username: "lauren_reneeee_1"
     fullname: >-
-      Will Plourde
+      Lauren Renee’
     bio: >-
-      Follow me on ig^:) Subscribe to my YouTube:) THANK YOU SO MUCH FOR 100K❤️
+      fashion, singing, hair care 🤎
     location: "United States"
-    followers: 101600
-    engagement: 2514
-    commentsToLikes: 0.023672
-    id: ckb9h4egu6k610j232gbr4kvf
+    followers: 21400
+    engagement: 2231
+    commentsToLikes: 0.052245
+    id: ckck2p6dtm80v0j23a4ispsu8
     verified: false
-    hashtags: "#fanedit, #neonshadow, #trending, #4u"
+    hashtags: "#albumcoverchallenge, #fyp, #blackgirl, #21"
+  - username: "nachitosworld"
+    fullname: >-
+      Nachitos World
+    bio: >-
+      Welcome to my 🌎
+    location: "United States"
+    followers: 11800
+    engagement: 858
+    commentsToLikes: 0.023931
+    id: ck8rog65mh2rx0j78a20b5mb7
+    verified: false
+    hashtags: "#phoenix, #nachitospics, #danza, #rdcaz"
+  - username: "suziq31"
+    fullname: >-
+      Suzi Q
+    bio: >-
+      Mother of 3 🧿Grey Witch🧿 cashapp@$SuziQ31 Links in my beacons
+    location: "United States"
+    followers: 32000
+    engagement: 1051
+    commentsToLikes: 0.120145
+    id: ckd64sbtj2k680j23gl00fjff
+    verified: false
+    hashtags: "#haunteddoll, #momlife, #greyvvitch, #engaged"
   - username: "lm.meets"
     fullname: >-
       lm.meets
@@ -26,11 +50,11 @@ profiles:
       Photography and modeling meets/meetups IG: @LadyMehanPhoto
     location: "United States"
     followers: 18400
-    engagement: 210
-    commentsToLikes: 0.013664
+    engagement: 364
+    commentsToLikes: 0.021689
     id: ck8trb4gqqwyi0j78q14euf2r
     verified: false
-    hashtags: "#tiktok, #joblife, #california, #bts"
+    hashtags: "#fashion, #california, #momsoftiktok, #model"
   - username: "16bhaha93"
     fullname: >-
       Brendon Haha O’Brien
@@ -42,89 +66,65 @@ profiles:
     commentsToLikes: 0.029163
     id: ckbw3nuelx7rl0j23u3jpzj0v
     verified: false
-    hashtags: "#makesomeonesmile, #swag, #curlscheck, #dribbletothebeat"
-  - username: "primapunk"
+    hashtags: "#curlscheck, #swag, #dribbletothebeat, #makesomeonesmile"
+  - username: "_silver_phoenix_"
     fullname: >-
-      PRIMA
+      Silver Phoenix
     bio: >-
-      Punk Ballerina She/They BLM
+      GOD’S FIGHTING FOR YOU! 🌸🌸🌸 #silverphoenix Super Nanny
     location: "United States"
-    followers: 348900
-    engagement: 1689
-    commentsToLikes: 0.012510
-    id: ck83yqbx4ur6u0j786c5sokcs
+    followers: 10700
+    engagement: 2192
+    commentsToLikes: 0.085109
+    id: ck9107hpqgor80j78e2vlc4nj
     verified: false
-    hashtags: "#fyp, #punk, #trans, #pov"
-  - username: "lyz_holz"
+    hashtags: "#single, #wow, #mask, #motivation"
+  - username: "veercraft"
     fullname: >-
-      Lyz Holz
+      veercraft
     bio: >-
-      I travel a lot. AZ/NY Pan 22 C
+      
     location: "United States"
-    followers: 64700
-    engagement: 994
-    commentsToLikes: 0.011751
-    id: ckdnjguwoisib0j23pn0tuwfj
+    followers: 17500
+    engagement: 1375
+    commentsToLikes: 0.039995
+    id: cka3vg0ssy0250i78muklca91
     verified: false
-    hashtags: "#roadtrip, #travel, #letsfaceit, #inmyaejeans"
-  - username: "ashleyxdennise"
-    fullname: >-
-      user4076603284690
-    bio: >-
-      MUA. Business Owner. Boss Mom. Entrepreneur. IG: Ashleyxdennise 💗 SA, TX 🇨🇱
-    location: "United States"
-    followers: 3203
-    engagement: 986
-    commentsToLikes: 0.033111
-    id: ckbb2k6mzsw5d0j23bl4l6gh0
-    verified: false
-    hashtags: "#foryoupage, #viral, #fyp, #lasvegas"
-  - username: "kammiekidd"
-    fullname: >-
-      Ghost Inhale Godess
-    bio: >-
-      YOUTUBE:KammieKIDD & KKIDD MIND BLM ACAB EXPOSE GOV Goal 15k 19pan @kkiddmind
-    location: "United States"
-    followers: 13400
-    engagement: 1535
-    commentsToLikes: 0.158446
-    id: ckbaqe6tfh2zc0j23afpjotit
-    verified: false
-    hashtags: "#awareness, #settleforbiden, #fyp, #abolishice"
+    hashtags: "#portraitpainting, #outfitideas, #trending, #outfitinspiration"
   - username: "angelicinfernoart"
     fullname: >-
       angelicinfernoart
     bio: >-
       I like doing art :) also like mythology
     location: "United States"
-    followers: 4262
-    engagement: 2809
-    commentsToLikes: 0.025612
+    followers: 4244
+    engagement: 2804
+    commentsToLikes: 0.025571
     id: cka0u3mgcsm5l0i78rlqbpils
     verified: false
-    hashtags: "#drawing, #fyp, #copic, #coronatime"
+    hashtags: "#coronatime, #boredathome, #posca, #mythology"
   - username: "rebelsbysociety"
     fullname: >-
       rebelsbysociety
     bio: >-
       
     location: "United States"
-    followers: 8831
-    engagement: 1037
-    commentsToLikes: 0.013170
+    followers: 8851
+    engagement: 1148
+    commentsToLikes: 0.016346
     id: cka9lta5331tv0i78eiered74
     verified: false
-    hashtags: "#americanmuscle, #mustangaddicts, #corvette, #mustang"
+    hashtags: "#corvette, #carcommunity, #moparornocar, #rebelsbysociety"
   - username: "mod3ls"
     fullname: >-
       models
     bio: >-
       models videos & music belong to respected copyright owners
     location: "United States"
-    followers: 103200
-    engagement: 2067
-    commentsToLikes: 0.009789
+    followers: 121600
+    engagement: 1935
+    commentsToLikes: 0.009190
     id: ckcuwqrt2lsj60j23jlnxbvb0
     verified: false
-    hashtags: "#fashion, #foryou, #bellahadid, #runway"
+    hashtags: "#fyp, #malemodel, #foryou, #fashion"
 ---

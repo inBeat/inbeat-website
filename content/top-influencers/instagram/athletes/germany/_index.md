@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Germany in 2023
+title: Top 10 Athletes Instagram Influencers In Germany In 2023
 description: >-
-  Find top athletes Instagram influencers in Germany in 2023. Most popular hashtags: #fitnessmotivation #fitfamgermany #fitnesslifestyle.
+  Find top athletes Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #bodybuilding #motivation #fitnessmotivation.
 platform: Instagram
-hits: 384
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 384 Instagram influencers like this in Germany for you to contact.
+hits: 279
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 279 Instagram influencers like this in Germany for you to collaborate.
 profiles:
+  - username: "kjetilborch"
+    fullname: >-
+      Kjetil Borch
+    bio: >-
+      🇧🇻 Olympic Rower 🥈🥉 World Championships 🥇🥇🥉 European Championships 🥇🥉🥉🥉 x Red Bull athlete Playstation Ambassador 🕹 x
+    location: "Germany"
+    followers: 18450
+    engagement: 1540
+    commentsToLikes: 0.040127
+    id: ck0w55j8i1zyh0i19tk5pceuk
+    verified: false
+    hashtags: "#roing, #olympics, #rowing, #rudern"
+  - username: "alimansory_"
+    fullname: >-
+      Ali Mansour
+    bio: >-
+      🏆 Natural Bodybuilding Pro 👮🏽 Police Officer 🏋🏽‍♂️ @esncom Athlete | Code „Ali“ 🔜 Road to Stage 2023
+    location: "Germany"
+    followers: 11209
+    engagement: 378
+    commentsToLikes: 0.361270
+    id: ckaoybs6bgueb0i78ejoujesq
+    verified: false
+    hashtags: "#gym, #fitness, #trainhard, #weightlifting"
+  - username: "jasmin.diem"
+    fullname: >-
+      POSITIVITY | FITNESS | LIFE
+    bio: >-
+      Cologne, Germany @nvgtn athlete ♡
+    location: "Germany"
+    followers: 131674
+    engagement: 467
+    commentsToLikes: 0.052851
+    id: ckapc5qp02kvr0i78qyqxk2j5
+    verified: false
+    hashtags: "#fit, #fitness, #lachen, #yummy"
   - username: "florhabif"
     fullname: >-
-      • ғʟᴏʀ ʜᴀʙɪғ •
+      ꜰ ʟ ᴏ ʀ  ʜ ᴀ ʙ ɪ ꜰ
     bio: >-
-      MHC | GEBA | Nike Athlete 📍Mannheim, Germany.
+      MHC | GEBA | Nike Athlete | Vlack Hockey 📍Mannheim, Germany.
     location: "Germany"
-    followers: 111397
-    engagement: 653
-    commentsToLikes: 0.050873
+    followers: 106260
+    engagement: 416
+    commentsToLikes: 0.020328
     id: ck55ln1vc1yi30i11o9cmpi63
     verified: true
-    hashtags: "#inmyjs, #youcantstopus, #olympicday, #singapore2010"
+    hashtags: "#gritalo, #vlackplayer"
   - username: "moni.lu.official"
     fullname: >-
-      FITNESS |NATURAL BODY|MONI.LU
+      Fit Mommy| 100% NATURAL BODY|
     bio: >-
-      ◾️Wifey💍 ◾️Mommy👧🏽 ◾️ NRW 🇩🇪 ◾️🏃🏾‍♀️ Athlete @womensbest ◾️Athlete @ryderwear
+      ◾️Wifey💍 ◾️Mommy👧🏽 ◾️ NRW 🇩🇪 ◾️🏃🏾‍♀️ Athlete @womensbest ◾️ 📧Monica-alice17@hotmail.com
     location: "Germany"
-    followers: 7916
-    engagement: 1231
-    commentsToLikes: 0.226185
+    followers: 11394
+    engagement: 1094
+    commentsToLikes: 0.127948
     id: ckaowx9f0av5j0i78cslueyzt
     verified: false
-    hashtags: "#ryderwear, #bodybuilding, #motivation, #fitnessgirl"
-  - username: "the_running_motivation"
+    hashtags: "#sunnyday, #fitfam, #helathylifestyle, #melainpoppin"
+  - username: "magdensz"
     fullname: >-
-      Bettina 🏃🏼‍♀️🐌 since 6.12.17
+      Magdalena Gorzkowska🇵🇱
     bio: >-
-      Psychotherapeutin in Laufschuhen, schenkt Inspiration und Motivation 🏃‍♀️🎥 ✍️ @the_fit_before_challenges @sayskycph ATHLETE
+      Olimpic athlete🏅 Crossing THE LIMITS 😎 𝐎𝐧 𝐦𝐲 𝐰𝐚𝐲 𝐭𝐨 𝟏𝟒𝐱𝟖𝟎𝟎𝟎𝐦🏔️ Trener & dietetyk 🏋‍♂️🏃‍♀️💪
     location: "Germany"
-    followers: 13233
-    engagement: 1434
-    commentsToLikes: 0.058308
-    id: ck14krjiyqyhj0i19j5sb0xgz
+    followers: 30319
+    engagement: 610
+    commentsToLikes: 0.021713
+    id: ck0w12uighag30i193i5i5lwh
     verified: false
-    hashtags: "#runnersofinstagram, #runhappy, #longrun, #runningmom"
-  - username: "_lialee_"
+    hashtags: "#beautiful, #rockclimbing, #smile, #tatry"
+  - username: "doc.maximilian"
     fullname: >-
-      Lia Lee
+      M A X
     bio: >-
-      CGN | Germany | 22 💪🏼 #fitness & #swimming 🏊🏼‍♀️ @penguswimwear athlete ⬇️ BOOTY BURN YouTube Workout
+      medical doctor track&field athlete 📍 Munich 📸 @mostwantedmodels_official ✉️ max@mediathleten.club
     location: "Germany"
-    followers: 6542
-    engagement: 1184
-    commentsToLikes: 0.084032
-    id: ck14hb6ii9fx40i19xl8zhrxp
+    followers: 30967
+    engagement: 511
+    commentsToLikes: 0.036657
+    id: ck5pv8wt4gplz0i11xsdm0tlg
     verified: false
-    hashtags: "#fitfamgermany, #lifestylephotography, #fitlifestyle, #photographyisart"
+    hashtags: "#blackrollworks, #ergok860, #notsospring, #staatsexamen"
+  - username: "lisa.frank93"
+    fullname: >-
+      Lisa
+    bio: >-
+      „Be you. Believe in yourself.“ Law I Athlete I Fitfood I Team @olimp_sport_nutrition Code: „LISA10“ 🏅4. Platz @gnbf_ev ‘19 🏅5. Platz @nac_germany ‘19
+    location: "Germany"
+    followers: 4929
+    engagement: 961
+    commentsToLikes: 0.196921
+    id: ck0w04cadcbfh0i196lrwvzmi
+    verified: false
+    hashtags: "#gesunderezepte, #cleaneating, #gesundeern, #fridaymood"
   - username: "codyderfinisher"
     fullname: >-
       Cody
     bio: >-
       Athlete Vice World Champion @EASPORTSFIFA ✉️ Business: codybusiness@gmx.de
     location: "Germany"
-    followers: 6385
-    engagement: 1654
-    commentsToLikes: 0.054776
+    followers: 5774
+    engagement: 1841
+    commentsToLikes: 0.053249
     id: ck5q8p30t7a9y0i11ne03aahf
     verified: true
-    hashtags: "#fcbasel1893, #adidas, #finishers, #rotblau"
-  - username: "annaluciamn"
+    hashtags: "#adidas, #finishers, #rotblau, #throwback"
+  - username: "leo__theresa"
     fullname: >-
-      𝑨𝒏𝒏𝒂 𝑳𝒖𝒄𝒊𝒂
+      𝐿𝑒𝑜 ⭑
     bio: >-
-      cologne📍 contact: annamoenig@gmx.de @atombody athlete tiktok: annaluciamn
+      Model and Manager x @elipamodels.agency Smilodox Athlete (leotheresa 10%) More Content🔻
     location: "Germany"
-    followers: 19656
-    engagement: 1245
-    commentsToLikes: 0.037205
-    id: ckf5nldbcyomu0j23ge89i0cx
-    verified: false
-    hashtags: "#cologne, #atombody, #colognecity, #atombodyteam"
-  - username: "nilskretschmer_"
-    fullname: >-
-      Nils Kretschmer
-    bio: >-
-      • Fashion | Streetwear • Athlete | @hcelbflorenzdresden
-    location: "Germany"
-    followers: 61647
-    engagement: 408
-    commentsToLikes: 0.069976
-    id: ck5hsndvrwvmw0i11rkkbb9dd
-    verified: false
-    hashtags: "#cleanfit, #snobshotw, #allstreetshots, #dailyfreshfits"
-  - username: "robinhack_"
-    fullname: >-
-      Robin Hack
-    bio: >-
-      Player for U21 Germany @dfb_junioren and @1_fc_nuernberg @adidas athlete
-    location: "Germany"
-    followers: 36489
-    engagement: 2269
-    commentsToLikes: 0.028743
-    id: ck13a0hdno0ec0i19lyomts7y
+    followers: 138370
+    engagement: 465
+    commentsToLikes: 0.018238
+    id: ck9wovtya6t240j78gy2pxrmi
     verified: true
-    hashtags: "#rh17, #fcn, #3z, #immerweiter"
-  - username: "little.parkour.hulk"
-    fullname: >-
-      Ihab Yassin
-    bio: >-
-      On the 🌍 since 1995 Parkour Athlete since 2011- vegan 🌱 👕 @ohana.wear - athlete Mainz/Frankfurt, Germany 📍
-    location: "Germany"
-    followers: 12918
-    engagement: 1871
-    commentsToLikes: 0.033344
-    id: ck0udegoziz8s0i19667rohd7
-    verified: false
-    hashtags: "#freeruning, #wiesbaden, #flow, #pk4life"
-  - username: "alina__th"
-    fullname: >-
-      A L I N A
-    bio: >-
-      #bumbumnation @limucancbd Alina10 🌿 @ryderwear athlete - ALINA10 👚👖👟
-    location: "Germany"
-    followers: 7852
-    engagement: 1162
-    commentsToLikes: 0.069422
-    id: ck5hj4vtng07c0i11fw4kooqm
-    verified: false
-    hashtags: "#ootd, #sale, #ryderwear, #cbd"
+    hashtags: "#strongwoman, #anzeige, #teamsmilodox, #fitnessmotivation"
 ---

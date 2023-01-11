@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Miami in 2023
+title: Top 10 Athletes Instagram Influencers In Miami In 2023
 description: >-
-  Find top athletes Instagram influencers in Miami in 2023. Most popular hashtags: #miami #athlete #fitness #workout.
+  Find top athletes Instagram influencers in Miami in 2023. Most popular hashtags: #athlete #miami #motivation #miamibeach.
 platform: Instagram
 hits: 160
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 160 Instagram influencers like this in Miami, United States for you to work with.
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 160 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "selabaymiles"
+  - username: "_soxsoul_"
     fullname: >-
-      Sela Bay Miles
+      New York Photo/Video Creator
     bio: >-
-      🌸Model @saltmodel & @selabay 👩🏼‍💻Influencer marketing @vitboost 🌎Flights,food,&fitness ✈️ @cls_sportswear code: sela @justcbd code: sela20
+      | TikTok 538.5K | 📍New York Content Creator Photo - Video 💡
     location: "United States"
-    followers: 16704
-    engagement: 314
-    commentsToLikes: 0.103542
-    id: ckf5r6n1ibme20j23mxwkj43z
+    followers: 66287
+    engagement: 79
+    commentsToLikes: 0.020059
+    id: ck5zr2i3mvrv30i14n8gop4vn
     verified: false
-    hashtags: "#gluteworkouts, #coffeetime, #miamifood, #fitness"
-  - username: "gabspaz2"
+    hashtags: "#newyorker, #dodgechallenger, #newyork, #miami"
+  - username: "joefournier"
     fullname: >-
-      Gaby Paz
+      Joe Fournier
     bio: >-
-      Former Pro Tennis player/Jr US OPEN FINALIST/Psychologist/High performance Coach 🎾 @vantagetennis Realtor 🏠 @gabypazrealtor BLOG !👇🏻🎾
+      Founder Bonbonniere 6ft1 175lbs light heavyweight WBA International Champion still Undefeated
     location: "United States"
-    followers: 19063
-    engagement: 369
-    commentsToLikes: 0.046709
-    id: ck14k25yencqe0i19djcmll25
-    verified: false
-    hashtags: "#tennistraining, #luckyinlove, #tenniscourt, #privatecoaching"
-  - username: "rilde13"
-    fullname: >-
-      Rilde
-    bio: >-
-      ▪️ 𝑴𝒊𝒂𝒎𝒊 ▪️ 𝑭𝒊𝒕𝒏𝒆𝒔𝒔 | 𝑻𝒓𝒂𝒗𝒆𝒍 ▪️ 𝑭𝒊𝒕𝒏𝒆𝒔𝒔 𝑪𝒐𝒂𝒄𝒉 ▪️ @echelon.fit | @equinox
-    location: "United States"
-    followers: 10402
-    engagement: 555
-    commentsToLikes: 0.042708
-    id: ck5bwin95lrwa0i11aslaqocw
-    verified: false
-    hashtags: "#explore, #fitness, #photoshoot, #instafit"
-  - username: "athletixrehab"
-    fullname: >-
-      ATHLETIX REHAB & RECOVERY
-    bio: >-
-      Physical Therapy| Massage | Exercise Recovery| Stretching| Performance for Athletes 🔰MIAMI: 3183 SW 38th Ct 🔰DAVIE: 5850 S Pine Island Rd, Studio E
-    location: "United States"
-    followers: 29091
-    engagement: 153
-    commentsToLikes: 0.021780
-    id: ck55nehjj61g10i118bp2hakd
-    verified: false
-    hashtags: "#homeexercise, #mobilitymonth, #getbackinthegame, #stayinthegame"
-  - username: "yaritzamdina"
-    fullname: >-
-      Yaritza Medina
-    bio: >-
-      Acтreѕѕ │ Athlete │ Dancer Coach Team Blue @eldomodeldinero Exatlón USA II 📩 info@yarimedina.com
-    location: "United States"
-    followers: 115668
-    engagement: 260
-    commentsToLikes: 0.024420
-    id: ck0w4fwipyddf0i19ihwpgng1
+    followers: 188035
+    engagement: 128
+    commentsToLikes: 0.058090
+    id: ck0vzvn36b4ad0i197p1etclz
     verified: true
-    hashtags: "#strong, #fitgirl, #active, #telemundo"
-  - username: "charlie_decca"
+    hashtags: "#dubai, #miamibeach, #athlete, #boxing"
+  - username: "leroydamo"
     fullname: >-
-      Charles Decca
+      Damien LeRoy
     bio: >-
-      “The Bull” Miami🇨🇺raised MMA fighter🇺🇸🇧🇷🇮🇹 Everyone has a testimony this is mine @recuerdomezcalusa @supplylifestyle @organicsupplyco @firstroundmgmt
+      Spreading love & happiness Head of Sales @liftfoils Professional athlete / sales @cabrinhakites World Champion 2011 | @lululemonmen | @weretofficial
     location: "United States"
-    followers: 4182
-    engagement: 1153
-    commentsToLikes: 0.055694
-    id: ck5q18pq69t550i11qu5iolrl
+    followers: 25565
+    engagement: 236
+    commentsToLikes: 0.046814
+    id: ck55juxupxsrc0i1152xslkl8
     verified: false
-    hashtags: "#elite, #easymoney, #killer, #gamebred"
-  - username: "pilotmagdyali"
+    hashtags: "#fullsend, #thesweatlife, #extreemesports, #cabrinhakites"
+  - username: "explicit__sports"
     fullname: >-
-      Magdy Ali  - طيار مجدى على
+      explicit__sports
     bio: >-
-      Official account of @pilotmagdyali Pilot and Educational YouTube content creator My new book is officially released ”قمرة القياده" Pilotmagdyali.com
+      🔍 Past 〰️ Present All edits are done by 📱 〰️Printing and frame work available 🗯Over 255 athlete likes/comments/messages/followers/reposts
     location: "United States"
-    followers: 36181
-    engagement: 814
-    commentsToLikes: 0.054052
-    id: ckap5go4eblsi0i786h3o3f88
+    followers: 14452
+    engagement: 2910
+    commentsToLikes: 0.010298
+    id: ck9wfajdynz4j0j7826nov2om
     verified: false
-    hashtags: "#workoutmotivation, #pilotlifestyle, #gym, #staystrong"
-  - username: "lizmarcinek_"
+    hashtags: "#timeschange, #tampabaybuccaneers, #sportsedits, #football"
+  - username: "courtneymarybb"
     fullname: >-
-      LM
+      Courtney Brooks
     bio: >-
-      KY | SoFlo📍 Eastern Kentucky University Track and Field Alum🎓
+      👙WBFF Bikini 🏋️‍♀️Online Fitness Coach 🩺Registered Nurse 🦋@cmbbfitness
     location: "United States"
-    followers: 18782
-    engagement: 644
-    commentsToLikes: 0.024167
-    id: ck5pyruh6xhnb0i11xsufovnq
+    followers: 10760
+    engagement: 389
+    commentsToLikes: 0.206958
+    id: ck8t3ctsx2s630j78ae7bekqz
     verified: false
-    hashtags: "#florida, #fitness, #explore, #beach"
-  - username: "stretchfit_"
+    hashtags: "#bombshell, #miami, #workout, #canada"
+  - username: "zeku__"
     fullname: >-
-      Marc Etn 🇭🇹
+      Bboy | Athlete | Entrepreneur
     bio: >-
-      🌴 Miami 🔧 Functional Training ⛹🏽‍♂️ Sports Performance GRAB SOME APPAREL 👇🏾👇🏾
+      🏆 Champion Of All Your Favorite Events Athlete @Monsterenergy Founder @Breakinmia | @Breakinbusiness Co-Founder @Sergymmma ⬇️Sponsor a child today!
     location: "United States"
-    followers: 5459
-    engagement: 688
-    commentsToLikes: 0.073432
-    id: ck6ub3lbk79j20j71d1qlxq2r
+    followers: 36026
+    engagement: 372
+    commentsToLikes: 0.039634
+    id: ck5pvvoc5juvn0i11sfoi84w2
     verified: false
-    hashtags: "#athletetraining, #athlete, #mensfitness, #fitnessmodel"
-  - username: "themadyson"
+    hashtags: "#olympics, #monsterenergy, #305, #miami"
+  - username: "melgreen_x"
     fullname: >-
-      Madyson
+      WBFF Bikini👙 PEScience Athlete
     bio: >-
-      ONLY PAGE PGH🛸ATL Multifaceted Taurus 👑🌯💅🏼 Multi Published & Multi Deleted Glamor • Runway • Commercial • Print • Acting
+      👠Posing Coach @melgreenfit 🏆1st ICN, INBA, ANB x11 🏆2nd & 3rd WBFF 👑Bikini PRO ☮️Freedom @pescience Athlete Mel15 ✈️34 countries
     location: "United States"
-    followers: 86540
-    engagement: 108
-    commentsToLikes: 0.106442
-    id: ck5qbpqlkmseq0i113bsg1ava
+    followers: 50344
+    engagement: 109
+    commentsToLikes: 0.104948
+    id: ck6tykp8j4at90j71h28e8yqi
     verified: false
+    hashtags: "#journeytowbff, #spohphoto, #styling, #bikinipro"
+  - username: "gabydabrowski"
+    fullname: >-
+      Gaby Dabrowski
+    bio: >-
+      Tennis, but mostly other things. #poweredbynuzest Indefinitely Curious 🌎 📚🌅 🇨🇦 🇵🇱 🎾 @ecoathletesteam @high.impact.athletes gaby4.tennis@hotmail.com
+    location: "United States"
+    followers: 17578
+    engagement: 681
+    commentsToLikes: 0.038025
+    id: ck139e0ojkuie0i19n2u87xxj
+    verified: true
+    hashtags: "#womensdoubles, #womenstennis, #womeninsport, #nimbleactivewear"
+  - username: "plopezserra"
+    fullname: >-
+      Pablo López Serra
+    bio: >-
+      Venezuelan athlete🇻🇪 Pitcher for the Miami Marlins⚾️
+    location: "United States"
+    followers: 8451
+    engagement: 1197
+    commentsToLikes: 0.045934
+    id: ck6u2vywlu8h40j712hbxhpal
+    verified: true
+    hashtags: "#juntosmiami, #305, #gomarlins, #openingdayathome"
+  - username: "bakharnabieva"
+    fullname: >-
+      Bakhar Nabieva
+    bio: >-
+      Miami @dragonpharma_llc athlete My goals don’t stop for anyone ,either you support me or I make it happen alone ,either way it’s going to happen
+    location: "United States"
+    followers: 3354734
+    engagement: 423
+    commentsToLikes: 0.009675
+    id: ck5c108pbu70j0i11oren47u1
+    verified: true
     hashtags: ""
 ---

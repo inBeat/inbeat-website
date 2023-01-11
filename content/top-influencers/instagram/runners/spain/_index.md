@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Spain in 2023
+title: Top 10 Runners Instagram Influencers In Spain In 2023
 description: >-
-  Find top runners Instagram influencers in Spain in 2023. Most popular hashtags: #running #correr #run.
+  Find top runners Instagram influencers in Spain in 2023. Most popular hashtags: #run #trailrunning #running #love.
 platform: Instagram
-hits: 139
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 139 Instagram influencers like this in Spain for you to work with.
+hits: 103
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 103 Instagram influencers like this in Spain for you to work with.
 profiles:
   - username: "corroysoymujer"
     fullname: >-
       Erica 〰 Corro y Soy Mujer 〰
     bio: >-
-      🖊🗒Periodista 🏃🏻‍♀️👟Runner 📚 ¡He escrito un libro! 🏋🏻‍♀️ Sí a los retos 🏅Postureo #corroysoymujer 🤘🏼@malditorunning🤘🏼 ¡MI LIBRO! 📖💗
+      🖊🗒Periodista 🏃🏻‍♀️👟Runner 📚 ¡He escrito un libro! 🏋🏻‍♀️ Sí a los retos 🏅Postureo 💡Mi otro proyecto ⬇️ 🤘🏼@malditorunning🤘🏼 ¡MI LIBRO! 📖💗
     location: "Spain"
-    followers: 23919
-    engagement: 466
-    commentsToLikes: 0.079051
+    followers: 30155
+    engagement: 592
+    commentsToLikes: 0.384433
     id: ck5hrkgr4v0kf0i11kdvy8xc7
     verified: false
-    hashtags: "#corroysoymujer, #running, #beforeandafter, #patorrasteam"
-  - username: "chemitamartinez"
+    hashtags: "#womenstyle, #girlpower, #running, #run"
+  - username: "verownika"
     fullname: >-
-      Chema Martinez #NoPiensesCorre
+      Verónica Sierra
     bio: >-
-      Atleta de profesión y por convicción! Disfrutando de mi pasión que no es otra que correr! Amigo de #Profuturo | @adidas runners Madrid captain
+      🎥Youtuber tech & Ingeniera 🎙Radio & Podcast 🕹Directos en @twitch.es 🔛Verownika 🏃‍♀️ Intento de Runner 👩‍💻Se dice Fangirl 😉
     location: "Spain"
-    followers: 175169
-    engagement: 241
-    commentsToLikes: 0.060540
-    id: ck0vztaznasr30i19diuq2d7s
-    verified: true
-    hashtags: "#victoryendurance, #tarmac, #polarvantagev2, #actitudpositiva"
-  - username: "saramarbau"
-    fullname: >-
-      S A R A   MB
-    bio: >-
-      Lawyer/Runner/Stylish/Heelsaddict 👠
-    location: "Spain"
-    followers: 48561
-    engagement: 247
-    commentsToLikes: 0.047401
-    id: ck55q0djfbswp0i11zidnifoe
+    followers: 31767
+    engagement: 612
+    commentsToLikes: 0.055420
+    id: ckap4sz0u8qfn0i78ioao5b7i
     verified: false
-    hashtags: "#mystylemyrules, #madrid, #saldremosdeesta, #summer2020"
+    hashtags: "#youtuber, #tech, #verownika, #ad"
   - username: "noemimj"
     fullname: >-
       Noemi De Miguel
     bio: >-
       📺🎙Sport Journalist & Host ⚽️ Co-founder @UniversitySoccer 🏎 Paddock Girl 🏃🏾‍♀️ Runner 🗺 Traveler Contact: noemi.demiguel@youfirstsports.com
     location: "Spain"
-    followers: 67067
-    engagement: 584
-    commentsToLikes: 0.012362
+    followers: 81984
+    engagement: 603
+    commentsToLikes: 0.009934
     id: ck6ua9stk2caz0j71umm5jpmz
     verified: true
-    hashtags: "#sportjournalist, #journalistlifestyle, #iloveitaly, #imola"
+    hashtags: "#saomiguel, #vacaciones, #austriangp, #f1"
   - username: "juan_chopera"
     fullname: >-
       Juan Vi
     bio: >-
       Ingeniero, Corredor y Trail Runner de la Vida, 3 Ultra Fondo 🏔, 30 Maratones, 4 Marathon Majors ⭐️: New York, Londres, Berlín, Chicago 🔚🔜Boston,Tokio
     location: "Spain"
-    followers: 3347
-    engagement: 2162
-    commentsToLikes: 0.046851
+    followers: 3255
+    engagement: 2221
+    commentsToLikes: 0.046899
     id: ckap200diwsmd0i789eh0g0zi
     verified: false
-    hashtags: "#igerscycling, #trailrunning, #bikelife, #bikers"
-  - username: "verownika"
+    hashtags: "#bike, #cyclingphotos, #instatrail, #igerscycling"
+  - username: "violestruvay"
     fullname: >-
-      Verónica Sierra
+      Violeta Struvay
     bio: >-
-      🎥Youtuber tech & Ingeniera 🎙Radio @cronicassonoras ❤️Únete a la family VIP en Patreon🔛Verownika 💻 Emprendedora @BeDoers 🏃‍♀️ Runner 🔛 @verowFit
+      🎖SuperHumana 2018 🏋🏼‍♀️Crossfit/Runner #TeamReebok 🎧DJ 🤟🏻 Good Vibes/Buena Vibra 🎵Tik Tok @violestruvay 🎈Colombia #LoveAlwaysLove ®❣
     location: "Spain"
-    followers: 29647
-    engagement: 497
-    commentsToLikes: 0.022210
-    id: ckap4sz0u8qfn0i78ioao5b7i
+    followers: 33612
+    engagement: 122
+    commentsToLikes: 0.068605
+    id: ck6tk6d4x434m0j71atx1jy9y
     verified: false
-    hashtags: "#iphone12pro, #verownika, #shotoniphone, #apple"
-  - username: "amandatg1"
+    hashtags: "#cutebaby, #tipsmamas, #matildemia, #mama2020"
+  - username: "chemitamartinez"
     fullname: >-
-      Amanda TG
+      Chema Martinez #NoPiensesCorre
     bio: >-
-      lawyer, fashion lover & runner 👩🏻‍🎓💅 🏃🏻‍♀️ amandatg@hotmail.de📧 Dus, Los Angeles, Marbella📍
+      Atleta de profesión y por convicción! Disfrutando de mi pasión que no es otra que correr! Amigo de #Profuturo | @adidas runners Madrid captain
     location: "Spain"
-    followers: 139208
-    engagement: 189
-    commentsToLikes: 0.026532
-    id: ck0u6zncq3fqq0i194vsmbngp
-    verified: false
-    hashtags: ""
-  - username: "lexu_run"
+    followers: 183650
+    engagement: 277
+    commentsToLikes: 0.010492
+    id: ck0vztaznasr30i19diuq2d7s
+    verified: true
+    hashtags: "#lanzarote, #trail, #athlete, #actitud"
+  - username: "saramarbau"
     fullname: >-
-      
+      S A R A   MB
     bio: >-
-      Amatxu 👧🏼 ⛰️trail/🛣️runner @brooksrunninges #RunHappybrooksteam2020 @runnea #Runneateambizkaia @runnea.academy Embajadora Blog personal!!
+      Lawyer/Runner/Heelsaddict
     location: "Spain"
-    followers: 4108
-    engagement: 1129
-    commentsToLikes: 0.076207
-    id: ckf5nw7egzxbu0j23oul4va48
+    followers: 48016
+    engagement: 260
+    commentsToLikes: 0.050708
+    id: ck55q0djfbswp0i11zidnifoe
     verified: false
-    hashtags: "#objetivo100, #orixol, #lomejorestaporllegar, #lomejorestaporllega"
+    hashtags: "#madrid, #hairstyle, #greeneyes, #balayagehighlights"
+  - username: "jipcsmns"
+    fullname: >-
+      JIP 🌝
+    bio: >-
+      • Belgium born, Bali based 🤍 • Dreamy pisces 🐟 • my personal moodboard • Long distance runner • @lovebalistarz
+    location: "Spain"
+    followers: 5071
+    engagement: 815
+    commentsToLikes: 0.065957
+    id: ck6txv6v401g00j71sr2riqvy
+    verified: false
+    hashtags: "#vibescollection, #sports, #foodfortheheart"
   - username: "marianoont"
     fullname: >-
       Mariano Ontañon
     bio: >-
       Argentinian model Ultra trail runner ⛰🏃🏻‍♂️ Técnico deportivo en montaña ⛰ Mother agency @nextmodels 📍🇪🇸 Madrid @unomodels
     location: "Spain"
-    followers: 71032
-    engagement: 426
-    commentsToLikes: 0.010078
+    followers: 69415
+    engagement: 465
+    commentsToLikes: 0.007923
     id: ck13axqz0spde0i198ogdt3bt
     verified: true
-    hashtags: "#mounterciyes, #imgettingwiser, #onlyoldpeoplesaythis, #cappadocia"
+    hashtags: "#onlyoldpeoplesaythis, #cappadocia, #mountainguide, #adventuretravel"
   - username: "ali_mihaela"
     fullname: >-
       𝙋𝙞𝙩𝙪𝙛𝙖 𝙎𝙖𝙡𝙩𝙖𝙢𝙤𝙣𝙩𝙚𝙨
     bio: >-
       💙Soñadora nata con los pies en la tierra 🏃‍♀️Intento de trail runner 🏔 🧗‍♀️🚴‍♀️Aprendiz en eso de vivir Donde hay un deseo,siempre hay un camino
     location: "Spain"
-    followers: 14126
-    engagement: 998
-    commentsToLikes: 0.027382
+    followers: 15187
+    engagement: 878
+    commentsToLikes: 0.032961
     id: ckaoullde0sqm0i78fm7flncv
     verified: false
-    hashtags: "#nature, #landscape, #womenoutdoors, #lifestyle"
+    hashtags: "#trail, #runningmotivation, #pictureoftheday, #mountainlovers"
 ---

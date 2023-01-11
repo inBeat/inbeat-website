@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In India in 2023
+title: Top 10 Gardening TikTok Influencers In India In 2023
 description: >-
-  Find top gardening TikTok influencers in India in 2023. Most popular hashtags: #tiktokindia #tiktok #gardening #foryou.
+  Find top gardening TikTok influencers in India in 2023. Most popular hashtags: #foryou #foryoupage #gardening #tiktokindia.
 platform: TikTok
-hits: 18
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 18 TikTok influencers like this in India for you to pitch.
+hits: 14
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 14 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "surabhinit"
     fullname: >-
@@ -14,59 +14,59 @@ profiles:
       for more gardening tips, subscribe my YouTube channel "Nita Singh's Dil Ki Baat"
     location: "India"
     followers: 292100
-    engagement: 461
-    commentsToLikes: 0.011669
+    engagement: 460
+    commentsToLikes: 0.011750
     id: ck81q4gqdfv410j78plwt2h8p
     verified: false
-    hashtags: "#mango, #redbloodlily, #gardeningwithnita, #footballlily"
+    hashtags: "#footballlily, #redbloodlily, #gardeningwithnita, #mango"
   - username: "ishaazzz"
     fullname: >-
       Ishazz mom😍
     bio: >-
       Psycho mom😜 Adventure❤️🌱 gardening ishttam🌱pakka pattambikari👌🏻 ksa Jedda
     location: "India"
-    followers: 45400
-    engagement: 891
+    followers: 45300
+    engagement: 833
     commentsToLikes: 0.000000
     id: ck9fxy3pz8kpf0j78j8k127ya
     verified: false
-    hashtags: "#feelthe, #thottapradhanamathri, #vallathorumuhabbath, #kunnavaa"
+    hashtags: "#brokenheart, #kunnavaa, #vallathorumuhabbath, #thottapradhanamathri"
   - username: "mad_gardener"
     fullname: >-
       Madhavi Guttikonda
     bio: >-
       Organic Terrace Gardener🌱🍋🥕🥒🌶🍈
     location: "India"
-    followers: 69000
-    engagement: 300
-    commentsToLikes: 0.005091
+    followers: 68900
+    engagement: 320
+    commentsToLikes: 0.005629
     id: ck8oqwcak9cns0j78ndhfal8m
     verified: false
-    hashtags: "#lifebuoykarona, #tiktokindia, #terracegarden, #tik"
+    hashtags: "#terracegarden, #india, #veggies, #garden"
   - username: "pakruzzzzs"
     fullname: >-
       Pakru
     bio: >-
       Fb/insta.id lekshmi aromal കൊല്ലംകാരി
     location: "India"
-    followers: 49100
-    engagement: 1928
-    commentsToLikes: 0.046790
+    followers: 49000
+    engagement: 1929
+    commentsToLikes: 0.047348
     id: ckbkhb1oy91vf0j239oq6f0i7
     verified: false
-    hashtags: "#kollamkarii, #thamilsong, #plzsappot, #song"
+    hashtags: "#thamilsong, #nellikkaa, #tiktokindia, #malayalam"
   - username: "mittoozz123"
     fullname: >-
       Anandu_mittoozz
     bio: >-
       ആലപ്പുഴക്കാരൻ സർവോപരി കുട്ടനാട്ടുകാരൻ
     location: "India"
-    followers: 7199
-    engagement: 4688
-    commentsToLikes: 0.012892
+    followers: 7195
+    engagement: 4653
+    commentsToLikes: 0.012635
     id: ckai6c5t5vj970i78la60fwjr
     verified: false
-    hashtags: "#alappuzakkaran, #flowers, #kuttanattukaran, #outsidevsinside"
+    hashtags: "#alappuzakkaran, #tiktok, #flowers, #outsidevsinside"
   - username: "meeramohanan67"
     fullname: >-
       മീര മോഹനൻ
@@ -74,23 +74,23 @@ profiles:
       just22🤪Aug😬6🙄 തൃശ്ശൂർക്കാരി🙋 അനസ്തേഷ്യ👩‍🍳 പാട്ടിനോടിഷ്ടം🎶 കുപ്പിഭൂതം
     location: "India"
     followers: 31200
-    engagement: 1172
-    commentsToLikes: 0.017244
+    engagement: 1258
+    commentsToLikes: 0.015666
     id: cka0jacenh3d50i78ike7g948
     verified: false
-    hashtags: "#bottle, #creative, #foryoupage, #kerala"
+    hashtags: "#bottleart, #kuppi, #kerala, #creative"
   - username: "nikhilsahu2455"
     fullname: >-
       Nikhil___^^sahu^^
     bio: >-
       💖💖💖 STATUS KE DIWANE 💖💖💖
     location: "India"
-    followers: 248400
-    engagement: 1155
-    commentsToLikes: 0.012589
+    followers: 248600
+    engagement: 1154
+    commentsToLikes: 0.012577
     id: ckad3jx2pkyur0i7872rbzqa9
     verified: false
-    hashtags: "#trending, #comment, #foryoupage, #lifeline"
+    hashtags: "#foryou, #trending, #tiktokindia, #foryoupage"
   - username: "naved_nvd9"
     fullname: >-
       Naved_Qureshi🇮🇳
@@ -98,23 +98,11 @@ profiles:
       Don't believe in never 🏆 Rajasthani🇮🇳 Medical Student🏥 @KZ04🇰🇿 @Rus🇷🇺
     location: "India"
     followers: 11700
-    engagement: 457
-    commentsToLikes: 0.049921
+    engagement: 490
+    commentsToLikes: 0.044698
     id: ck8qq4dg76anl0j78emfqtc94
     verified: false
-    hashtags: "#doctor, #fyp, #student, #byou"
-  - username: "anuperla"
-    fullname: >-
-      Anu Perla
-    bio: >-
-      luv all the animals in the world...and a nature lover too..love Tiktok❤love God
-    location: "India"
-    followers: 62600
-    engagement: 699
-    commentsToLikes: 0.023967
-    id: ck83k0jsz8cu80j78bgadfjlw
-    verified: false
-    hashtags: "#anuperla, #telugu, #haintaiyaarhum, #venkateswaraswamy"
+    hashtags: "#slowmo, #fyp, #student, #doctor"
   - username: "ajmallebon8"
     fullname: >-
       Ajmal lebon
@@ -122,9 +110,21 @@ profiles:
       Accountant at Ponnara Gold and Diamonds 
     location: "India"
     followers: 2278
-    engagement: 623
+    engagement: 622
     commentsToLikes: 0.009369
     id: ckcd92x483ik20j23qwq51f3e
     verified: false
-    hashtags: "#collecton, #wedding, #gold, #love"
+    hashtags: "#love, #wedding, #gold, #collecton"
+  - username: "indian_travellerr"
+    fullname: >-
+      IndianTraveller
+    bio: >-
+      Newbie here! Keep supporting each other😀 More into nature n travelling😇
+    location: "India"
+    followers: 5682
+    engagement: 737
+    commentsToLikes: 0.024768
+    id: ck9c0n3htoegv0j789kc6yv4h
+    verified: false
+    hashtags: "#homefitness, #handwashchallenge, #nature, #surat"
 ---

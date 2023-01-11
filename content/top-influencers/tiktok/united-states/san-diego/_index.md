@@ -1,108 +1,60 @@
 ---
-title: Top 10 TikTok Influencers In San Diego in 2023
+title: Top 10 TikTok Influencers In San Diego In 2023
 description: >-
-  Find top TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #foryou #greenscreen.
+  Find top TikTok influencers in San Diego in 2023. Most popular hashtags: #greenscreen #foryou #stitch #fyp.
 platform: TikTok
-hits: 505
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 505 TikTok influencers like this in San Diego, United States for you to connect with.
+hits: 531
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 531 TikTok influencers like this in San Diego, United States for you to pitch.
 profiles:
-  - username: "robrast"
-    fullname: >-
-      Rob Rast
-    bio: >-
-      Wild and Free in San Diego Insta & YT here 👆
-    location: "United States"
-    followers: 20200
-    engagement: 681
-    commentsToLikes: 0.027534
-    id: cka0w9vew20gn0i784myx39ud
-    verified: false
-    hashtags: "#bike, #electricskateboard, #skate, #foryoupage"
-  - username: ".mattwalker"
-    fullname: >-
-      Matt Walker 🌸
-    bio: >-
-      San Diego🌴 Snap-Matt.walker22 DOWNLOAD HILLY/BIGO IF UR SINGLE ⬇️
-    location: "United States"
-    followers: 1200000
-    engagement: 2555
-    commentsToLikes: 0.068601
-    id: ck8qo4raoxeoe0j78tygfw78k
-    verified: false
-    hashtags: "#advice, #foryou, #crush"
-  - username: "benhornn"
-    fullname: >-
-      ben
-    bio: >-
-      fashion san diego, CA💗 depop: @bensscloset ✉️ benhorn1126@gmail.com
-    location: "United States"
-    followers: 219800
-    engagement: 2273
-    commentsToLikes: 0.144883
-    id: ckacgukn4woy10i78163lz6e5
-    verified: false
-    hashtags: "#foryou, #fashion, #fyp, #halloweenlook"
-  - username: "mrs_miller"
-    fullname: >-
-      That Tall Teacher
-    bio: >-
-      SAN DIEGO ✨TEACHER✨ mrsmillertiktok@gmail.com
-    location: "United States"
-    followers: 134800
-    engagement: 2173
-    commentsToLikes: 0.034561
-    id: ckc8yvxhznji20j23p5u484cp
-    verified: false
-    hashtags: "#teacherhypehouse, #happyhalloween, #teachersontiktok, #middleschoolmath"
   - username: "ericmontanez"
     fullname: >-
       Eric 
     bio: >-
-      san diego 🇫🇷🇹🇭🇮🇹🇲🇽 management@ericmontanez.com
+      San Diego 17 🇹🇭🇫🇷🇪🇸🇮🇹 management@ericmontanez.com
     location: "United States"
     followers: 3100000
-    engagement: 2348
-    commentsToLikes: 0.014970
+    engagement: 2186
+    commentsToLikes: 0.015105
     id: ck8hr561f7abi0j781spmiiql
     verified: true
-    hashtags: "#ad, #ctcvoicebox, #squirrels"
-  - username: "justinsaiyann"
+    hashtags: "#ow, #noonecanoutpizzathehut, #glassesarenotugly, #followingpage"
+  - username: "marekjamminee"
     fullname: >-
-      Justinsaiyann
+      Marek Jammine
     bio: >-
-      San Diego follow my Instagram: justinsaiyann
+      15 📍San Diego, CA
     location: "United States"
-    followers: 372500
+    followers: 48400
+    engagement: 3016
+    commentsToLikes: 0.045041
+    id: cka7ngpmnws8j0i78l21nxtxa
+    verified: false
+    hashtags: "#montana, #washington, #duet, #lemondreams"
+  - username: "averysanty"
+    fullname: >-
+      Avery Santy 💕✨
+    bio: >-
+      Diné | they/them | San Diego | 23 (Diné is a native american tribe FYI) 10K ?
+    location: "United States"
+    followers: 9886
     engagement: 2337
-    commentsToLikes: 0.021534
-    id: ckaiimmdwb6n40i78xx71b6p8
+    commentsToLikes: 0.057465
+    id: cka0nhcsgzn130i783j969xxg
     verified: false
-    hashtags: "#fyp, #duet, #mha, #haikyuu"
-  - username: "kaylisand"
+    hashtags: "#sandiego, #qtpoc, #datenight, #queertiktok"
+  - username: "napalmfitness"
     fullname: >-
-      kayli sandoval
+      🔥Napalm Power🔥
     bio: >-
-      i edit and stuff lolz 18 || san diego :’) ⚡️🐉
+      🇺🇸 San Diego CA Love the 💪🔥 energy! Second account: LiftingNapalm
     location: "United States"
-    followers: 167100
-    engagement: 1706
-    commentsToLikes: 0.040709
-    id: ckb0ye5z6n9sn0j23532zvmdv
+    followers: 38500
+    engagement: 2988
+    commentsToLikes: 0.189945
+    id: ckb9oxyy7jpgr0j23xplgtp1l
     verified: false
-    hashtags: "#fyp, #90s, #vibes, #skate"
-  - username: "rish.boyy"
-    fullname: >-
-      👑RISH👑
-    bio: >-
-      san Diego👑🤧✌️
-    location: "United States"
-    followers: 14600
-    engagement: 2347
-    commentsToLikes: 0.083754
-    id: ckb9sq9thq9l90j23vxsf4eio
-    verified: false
-    hashtags: "#greenscreenvideo, #greenscreen, #thatshot, #gemini"
+    hashtags: "#gym, #feeltheburn, #squats, #lifting"
   - username: "brianaenciso"
     fullname: >-
       Briana Enciso
@@ -114,17 +66,65 @@ profiles:
     commentsToLikes: 0.143583
     id: ckbexcyxwhn8o0j232195tgal
     verified: false
-    hashtags: "#greenscreen, #foryou, #fyp, #foryoupage"
-  - username: "sharkaleiii"
+    hashtags: "#foryoupage, #greenscreen, #fyp, #foryou"
+  - username: "_emwell"
     fullname: >-
-      sinalei🤑
+      Emmuel Reyes
     bio: >-
-      ✰WHAT UP BIH✰ san diego shout out to char for being my pfp:)
+      Mumble Rap Enthusiast San Diego 24
     location: "United States"
-    followers: 20500
-    engagement: 2053
-    commentsToLikes: 0.033927
-    id: ckbl6z25v4r1j0j233c93nc9j
+    followers: 123900
+    engagement: 2105
+    commentsToLikes: 0.064811
+    id: ck93o530h32730j78ncvbfrie
     verified: false
-    hashtags: "#pov, #cringe, #cheatersareugly, #fyp"
+    hashtags: "#gamingsetup, #trulyglowingselfielove, #wlr, #wholelottared"
+  - username: "mikeef02"
+    fullname: >-
+      mikee
+    bio: >-
+      /ˈmaɪki/ 9TEEN I started the 8TEEN trend 🔆 San Diego, CA 🔆 Please follow me 😁
+    location: "United States"
+    followers: 171300
+    engagement: 1851
+    commentsToLikes: 0.033766
+    id: ckbrc8f1cq5cw0j23j0ufcw8u
+    verified: false
+    hashtags: "#nostalgia, #youtube, #california, #greenscreen"
+  - username: "jayspanks"
+    fullname: >-
+      Jacob Fraizer
+    bio: >-
+      YouTube and IG^ 🏡San Diego🏡 ❤️God is Good!❤️ UCSD
+    location: "United States"
+    followers: 2800000
+    engagement: 1633
+    commentsToLikes: 0.153277
+    id: ckdcksblnmuuv0j234barsklc
+    verified: false
+    hashtags: "#fyp, #viral, #greenscreen, #comedy"
+  - username: "mostidum"
+    fullname: >-
+      Mo Stidum
+    bio: >-
+      prevail. 21 | San Diego, CA TTV: mostidum
+    location: "United States"
+    followers: 180000
+    engagement: 1196
+    commentsToLikes: 0.043957
+    id: ck8vtatlsfpv40j780h061vme
+    verified: false
+    hashtags: "#warzone, #cod, #comedy, #codwarzone"
+  - username: "mrs_miller"
+    fullname: >-
+      Andy Miller
+    bio: >-
+      San Diego ✨TEACHER✨ mrsmillertiktok@gmail.com
+    location: "United States"
+    followers: 276400
+    engagement: 1969
+    commentsToLikes: 0.024574
+    id: ckc8yvxhznji20j23p5u484cp
+    verified: false
+    hashtags: "#teachersoftiktok, #tiktokteacher, #mrsmiller, #teacherappreciation"
 ---

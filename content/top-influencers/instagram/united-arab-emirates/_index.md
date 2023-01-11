@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #mountainstories.
+  Find top Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #huaweinova10pro #huaweinova10 #nikefcdubai.
 platform: Instagram
-hits: 1874
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database has 1874 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 1797
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 1797 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
-  - username: "gisoodiba"
+  - username: "khalidalameri"
     fullname: >-
-      GISOO DIBA
+      Khalid Al Ameri
     bio: >-
-      Beauty & makeup Youtube:Gisoodiba Businesses:gisoodiba@gmail.com www.gisoodiba.com 💍@navidaneshfar Based in dubai
+      🎥 I make videos about life in the Middle East and how hard it is being @salamamohamed’s husband. 👨‍🎓@Stanford ’14 📍Dubai
     location: "United Arab Emirates"
-    followers: 520695
-    engagement: 1364
-    commentsToLikes: 0.160568
-    id: ck6u5giqa9i3g0j71azzfhbkm
-    verified: false
-    hashtags: "#beautyblogger, #tartecosmetics, #hudabeauty, #makeuplook"
-  - username: "_inside.dubai_"
+    followers: 2395782
+    engagement: 400
+    commentsToLikes: 0.019885
+    id: ck13b0vp4t52p0i19du3ig6sr
+    verified: true
+    hashtags: "#haveamegabreak, #amazon, #sharerewards, #fabshare"
+  - username: "valerieabouchacra"
     fullname: >-
-      INSIDE DUBAI
+      Valerie Abou Chacra
     bio: >-
-      𝗧𝗮𝗸𝗶𝗻𝗴 𝘆𝗼𝘂 𝗜𝗡𝗦𝗜𝗗𝗘 𝗗𝘂𝗯𝗮𝗶 🇦🇪 ▪️All Access into everything Dubai ▪️BTS your Fave Hotels & Venues ▪️News & Reviews Travel | Tourism | Fashion | Lifestyle
+      Founder of @justcarengo Miss World 2015 top 5 Miss Lebanon 2015 Fb: Valerie Abou Chacra
     location: "United Arab Emirates"
-    followers: 23767
-    engagement: 1300
-    commentsToLikes: 0.151237
-    id: ck5hldlmok0we0i11xyeq5mcx
-    verified: false
-    hashtags: "#lifestyle, #insidelifestylegroup, #insidelifestyle, #dubai"
-  - username: "fayematthews"
+    followers: 1512651
+    engagement: 560
+    commentsToLikes: 0.010383
+    id: ck5bykpnlpc0i0i11asdpo708
+    verified: true
+    hashtags: "#rlcollection"
+  - username: "jadeanna"
     fullname: >-
-      F M
+      Jade Anna van Vliet
     bio: >-
-      ‎ اف ام 📍 Dubai, UAE ✨ @essentials.fm ✉️ Enquires: faye.ellen@icloud.com
+      🪐 my digital diary 🎞 youtube: Jade Anna ✨ email: jade@contenticons.com
     location: "United Arab Emirates"
-    followers: 11183
-    engagement: 1262
-    commentsToLikes: 0.175066
-    id: ck0tskaks05440i195vorsxxr
+    followers: 892516
+    engagement: 966
+    commentsToLikes: 0.005369
+    id: ck8wgmn2ghnlg0j78tw22s1nb
     verified: false
-    hashtags: "#prettylittlething, #sheingals"
-  - username: "missleekong"
+    hashtags: "#cluseclub, #wellanewwave, #ad, #loveguess"
+  - username: "ghaith_marwan"
     fullname: >-
-      Sigh-E-DUH
+      Ghaith Marwan 🍉 غيث مروان
     bio: >-
-      Entrprenuer| Influencer ONLY SOCIAL MEDIA PAGE! 📧 info@saidaiman.com 🛍 @elektrikswim @misshautemess.shop
+      - Dubai 📍 - Syria - Youtube Channel ⬇️
     location: "United Arab Emirates"
-    followers: 154920
-    engagement: 645
-    commentsToLikes: 0.039980
-    id: ck6tpnx00l0ax0j711uayneix
+    followers: 4942604
+    engagement: 772
+    commentsToLikes: 0.056931
+    id: ck6uf4l1ouv390j71p2tzkz1b
     verified: false
-    hashtags: "#ad, #pinchmepartner, #pinchmeinfluence, #plt"
-  - username: "gabrielaashraf"
+    hashtags: "#ghaith, #center, #ghaithmarwan, #maldives"
+  - username: "ossymarwah"
     fullname: >-
-      Gabriela Ashraf
+      Ossy Marwah | اسامة مروة
     bio: >-
-      🧿 📍 | Dubai | UK|
+      📍 Dubai / Los Angeles 🎥 YouTuber: 5.8M 👻 ossymarwah
     location: "United Arab Emirates"
-    followers: 2460
-    engagement: 2873
-    commentsToLikes: 0.125415
-    id: ck6ub48oa7dbq0j716i4a6350
+    followers: 4211401
+    engagement: 569
+    commentsToLikes: 0.354763
+    id: ck8t5mpqxajfx0j78ub5a7zex
     verified: false
-    hashtags: ""
-  - username: "ikkudu"
+    hashtags: "#huaweimate50pro, #ad, #next, #huaweinova10pro"
+  - username: "dyl3r"
     fullname: >-
-      Mohammad irfan
+      Dyler 🥖
     bio: >-
-      ﷽ ↺ 𝗿𝗲𝗺𝗲𝗺𝗯𝗲𝗿 𝘄𝗵𝘆 𝘆𝗼𝘂 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 ➭ • Kochi ✈📍dubai🇦🇪
+      🇦🇪🇸🇦 Saudi arabian artist / entertainer based in Dubai , Creator @galaxyracerdxb ‎الممثل القانوني / سامية سعيد للمحاماة والاستشارات القانونية
     location: "United Arab Emirates"
-    followers: 6975
-    engagement: 1912
-    commentsToLikes: 0.156996
-    id: ck9whqmk8z1ew0j784jeytfb7
-    verified: false
-    hashtags: "#shimano, #jig, #shimanoreels, #fishing"
-  - username: "anushayyofficial"
+    followers: 3714284
+    engagement: 393
+    commentsToLikes: 0.023618
+    id: ck139dddfkr5x0i193psvc54w
+    verified: true
+    hashtags: "#popuae, #yoox, #musicmena, #gxrrecords"
+  - username: "narins_beauty"
     fullname: >-
-      𝒜𝓃𝓊𝓈𝒽𝒶𝓎👑
+      ••Narins Beauty••
     bio: >-
-      🇵🇰🇦🇪 𝐵𝓁𝑒𝓈𝓈𝑒𝒹 𝒜𝓁𝓁𝒽𝓊𝓂𝒹𝓊𝓁𝓁𝒾𝓁𝒶𝒽❤️ 𝗗𝗠 𝗙𝗢𝗥 𝗣𝗔𝗜𝗗 𝗣𝗥𝗢𝗠𝗢𝗧𝗜𝗢𝗡 & 𝗣𝗥✨ PINDI // AUH 👅♥️
+      •الحمدلله• •Sweden/Dubai• •YouTube channel👇🏻•
     location: "United Arab Emirates"
-    followers: 5203
-    engagement: 1734
-    commentsToLikes: 0.110776
-    id: ckaozj1dgm3n20i787wzbb0no
-    verified: false
-    hashtags: "#explorepage, #explore, #exploremore"
-  - username: "laillimirza"
+    followers: 9521336
+    engagement: 387
+    commentsToLikes: 0.021671
+    id: ck13cqw5t1q300i19u6qtm0f6
+    verified: true
+    hashtags: "#huaweimatexs2, #huaweinova10, #huaweimatebookxpro, #huaweinova10pro"
+  - username: "layannsalem"
     fullname: >-
-      Lailli Mirza
+      • ليان سالم •
     bio: >-
-      @bioliteuae | @petitethebrand not an influencer but sometimes I make YouTube videos ↓
+      📍 AD | Dubai Beauty | Lifestyle | Travel I drive boats too⚓️ @layansalembeauty
     location: "United Arab Emirates"
-    followers: 178560
-    engagement: 850
-    commentsToLikes: 0.039389
-    id: ck5c6m7q35qb00i11uou68lo6
+    followers: 414723
+    engagement: 342
+    commentsToLikes: 0.012301
+    id: ck8t0317tqnto0j788apbqc8p
     verified: false
-    hashtags: "#vertcriquet, #hermeskelly, #hermes, #kelly25"
-  - username: "hud_a96"
+    hashtags: "#beautifulskin, #sleepfearless, #periodsomnia, #sheglamblush"
+  - username: "rujoomsreverie_"
     fullname: >-
-      هدى عادل | Huda Adil
+      Rujoom Qamar 📍(AUH/DXB)
     bio: >-
-      OFFICIAL Account🦄 قناتي الرسمية على التلكرام ❤️👇🏻
+      #Lifestyle #Homestyle #Parenting #FamilyTravel @mumzworld Rujoom10 🇦🇪 UAE born & Raised🇵🇰 Visual journey of my Simple Life 📩 Email for PR/Collab
     location: "United Arab Emirates"
-    followers: 1282670
-    engagement: 767
-    commentsToLikes: 0.039392
-    id: ck9whssp8zbnr0j78yq90xsd5
+    followers: 57454
+    engagement: 340
+    commentsToLikes: 0.086363
+    id: ck9wgdtnaszh80j784dpc9mhl
     verified: false
-    hashtags: ""
-  - username: "bbb.vip"
+    hashtags: "#reels, #uaekids, #dss, #winterweddings"
+  - username: "rragoode"
     fullname: >-
-      BAHJAT / بهوجي السامرائي ❤️
+      رغـد | Raghad
     bio: >-
-      #كويس_بهوجي 👍🏻 🔴IRAQ 🇮🇶DUBAI 🇦🇪 ‎⚫️‏Snapchat / Bvipp 👻 ‎🔴 @bbbb.vip تيشيرتات 👕💸 ‎🏁🏁🚘🚗❤️🚘🚗🏁🏁 ‎ للإعلانات التواصل على الدايرکت
+      الحمدلله 🦋 Dental student 🦷 YouTuber 3.3M+ |📍Dubai Digital Media Arab Woman Awards 2021 🏆
     location: "United Arab Emirates"
-    followers: 110823
-    engagement: 680
-    commentsToLikes: 0.152565
-    id: ckap8v9c4q1oa0i78cw0wfdmu
+    followers: 4486503
+    engagement: 329
+    commentsToLikes: 0.013471
+    id: ck8wgon2nhrp10j787p7270as
     verified: false
-    hashtags: "#ig, #vibesofvisuals, #mountainstories, #moodygrams"
+    hashtags: "#playyourpower, #nova10colourmatchchallenge, #huaweinova10, #narsissist"
 ---

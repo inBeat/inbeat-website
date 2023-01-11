@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Milan in 2023
+title: Top 10 Lifestyle TikTok Influencers In Milan In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Milan in 2023. Most popular hashtags: #milano #perte #lifestyle #viral.
+  Find top lifestyle TikTok influencers in Milan in 2023. Most popular hashtags: #milano #supercar #lifestyle #ferrari.
 platform: TikTok
-hits: 9
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 9 TikTok influencers like this in Milan, Italy for you to connect with.
+hits: 7
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 7 TikTok influencers like this in Milan, Italy for you to work with.
 profiles:
-  - username: "justintopi"
+  - username: "francesca.pezzano"
     fullname: >-
-      Justin Topi
+      𝐅𝐑𝐀𝐍𝐂𝐄𝐒𝐂𝐀
     bio: >-
-      ITALY (milano) 😇 BIKER👀 lifestyle🤩 308💙 IG: justintopi9
+      Fitness lifestyle 𝗢𝗻𝗹𝗶𝗻𝗲 & 𝗟𝗶𝘃𝗲 𝗖𝗼𝗮𝗰𝗵𝗶𝗻𝗴 📍Milano
     location: "Italy"
-    followers: 12600
-    engagement: 1238
-    commentsToLikes: 0.009315
-    id: ck97ym8rc05560j78jy5hphe2
+    followers: 57500
+    engagement: 872
+    commentsToLikes: 0.012343
+    id: ck8vsi512doq90j78h4cdonym
     verified: false
-    hashtags: "#300cc, #youtube, #perte, #125cc"
+    hashtags: "#fitness, #bikinifitness, #bodybuilding, #fit"
+  - username: "giuliacalcaterra"
+    fullname: >-
+      Giulia Calcaterra 
+    bio: >-
+      •sport•travel•emotions• Instagram - @giuliacalcaterra ⚡️
+    location: "Italy"
+    followers: 51300
+    engagement: 767
+    commentsToLikes: 0.004108
+    id: ck900a6g3a6zg0j78myq0zwl3
+    verified: true
+    hashtags: "#indonesia, #gymnastics, #ibiza, #travel"
   - username: "kalobagli85"
     fullname: >-
       kalobagli85
     bio: >-
       RENT LUXURY CARS MILAN SUPERCARS LOVER INSTAGRAM @kalobagli85
     location: "Italy"
-    followers: 5114
-    engagement: 765
-    commentsToLikes: 0.014616
+    followers: 5191
+    engagement: 658
+    commentsToLikes: 0.016964
     id: ck97ym5xd04by0j7874thbl6q
     verified: false
-    hashtags: "#carlover, #ferrari, #lifestyle, #supercar"
-  - username: "andreamoriggi"
-    fullname: >-
-      Andrea Moriggi
-    bio: >-
-      MILANO Instagram: iamandreamoriggi
-    location: "Italy"
-    followers: 3739
-    engagement: 339
-    commentsToLikes: 0.007910
-    id: ck9rbs2izqjnu0j781e9li8t7
-    verified: false
-    hashtags: "#yachtlife, #luxurylifestyle, #life, #fastcar"
+    hashtags: "#cotedazur, #carhire, #tiktoktaac, #andr"
   - username: "sespo"
     fullname: >-
       Sespo👼🏻
     bio: >-
       🇮🇹21.10.99 🏠Milan 📹Creator on YouTube & TikTok 🧬Lifestyle & Travel
     location: "Italy"
-    followers: 2300000
-    engagement: 2312
-    commentsToLikes: 0.013053
+    followers: 2400000
+    engagement: 2247
+    commentsToLikes: 0.006736
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2023"
-  - username: "zimmi_te"
+    hashtags: "#cpcompany, #ss021, #wl, #windtre"
+  - username: "justintopi"
     fullname: >-
-      zimmi_te
+      Justin Topi
     bio: >-
-      22 yrs @braveriderscrew member Husqvarna te 300 based in Milan
+      ITALY (milano) IG: justintopi9 🇦🇱🇮🇹
     location: "Italy"
-    followers: 6866
-    engagement: 2042
-    commentsToLikes: 0.005421
-    id: cka8f60dr10cp0i78q89gawb3
+    followers: 12800
+    engagement: 1055
+    commentsToLikes: 0.009075
+    id: ck97ym8rc05560j78jy5hphe2
     verified: false
-    hashtags: "#brc, #bikelife, #esuka, #galaxycolorchallenge"
-  - username: "one_million_business"
-    fullname: >-
-      RICHy’$
-    bio: >-
-      Parlo di: - business - psicologia - mindset - un po’ di lifestyle 🤑
-    location: "Italy"
-    followers: 15900
-    engagement: 482
-    commentsToLikes: 0.036097
-    id: ck92xor4kzj1u0j78dlv4fzv4
-    verified: false
-    hashtags: "#surprise, #business, #pov, #comemivedono"
-  - username: "martapareccini"
-    fullname: >-
-      Marta Pareccini
-    bio: >-
-      BEAUTY • FASHION • LIFESTYLE Vi aspetto anche su Instagram ⬇️ @martapareccini
-    location: "Italy"
-    followers: 28600
-    engagement: 975
-    commentsToLikes: 0.008799
-    id: ck8vsi18kdnz70j788usd969d
-    verified: false
-    hashtags: "#skincare, #skincaretips, #fashion, #makeup"
+    hashtags: "#bmwmafia, #mybike, #horsepower, #mycar"
   - username: "nssmagazine"
     fullname: >-
       nss magazine
     bio: >-
       Streetwear, lifestyle, fashion, musica
     location: "Italy"
-    followers: 42300
-    engagement: 895
-    commentsToLikes: 0.009935
+    followers: 44600
+    engagement: 1061
+    commentsToLikes: 0.010682
     id: ck9eq9cwyw7e50j78px66yb8y
     verified: true
-    hashtags: "#knowyoursneaker, #street, #travisscott, #imparacontiktok"
-  - username: "mattenry.raw"
+    hashtags: "#fyp, #streetwear, #fashion, #sneakers"
+  - username: "andreamoriggi"
     fullname: >-
-      Matteo Enrico
+      Andrea Moriggi
     bio: >-
-      Raga benvenuti sul mio profilo 👋🏻😊
+      MILANO Instagram: iamandreamoriggi
     location: "Italy"
-    followers: 263700
-    engagement: 1136
-    commentsToLikes: 0.021720
-    id: cka874hnc5dsc0i78ofbpoiiu
+    followers: 3703
+    engagement: 339
+    commentsToLikes: 0.009208
+    id: ck9rbs2izqjnu0j781e9li8t7
     verified: false
-    hashtags: "#lifehack, #travestimenti, #airpods, #satisfyingvideo"
+    hashtags: "#milano, #richboy, #mclaren, #luxurygarage"
+  - username: "giuliogenova_"
+    fullname: >-
+      Giulio Genova🩸
+    bio: >-
+      🇮🇹boy GG life style #
+    location: "Italy"
+    followers: 427800
+    engagement: 2161
+    commentsToLikes: 0.011617
+    id: ckbb4j35vusvb0j234ryvzasf
+    verified: false
+    hashtags: "#greenscreen, #nopressure, #bulletproof, #fyp"
   - username: "sespo"
     fullname: >-
       Sespo👼🏻
     bio: >-
       🇮🇹21.10.99 🏠Milan 📹Creator on YouTube & TikTok 🧬Lifestyle & Travel
     location: "Italy"
-    followers: 2300000
-    engagement: 2312
-    commentsToLikes: 0.013053
+    followers: 2400000
+    engagement: 2247
+    commentsToLikes: 0.006736
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2023"
+    hashtags: "#cpcompany, #ss021, #wl, #windtre"
+  - username: "jessicamatarrelli"
+    fullname: >-
+      Jess in Wonderland
+    bio: >-
+      ✨Serie tv| Libri | Film | Lifestyle✨ 💖Molto di più su instagram 💫Fangirl
+    location: "Italy"
+    followers: 57900
+    engagement: 1907
+    commentsToLikes: 0.015399
+    id: ckb9uxvyatvsk0j23yvgbwl0t
+    verified: false
+    hashtags: "#bookstagram, #serietv, #riverdale, #booktok"
 ---

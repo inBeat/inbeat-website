@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Toronto in 2023
+title: Top 10 Beauty Instagram Influencers In Toronto In 2023
 description: >-
-  Find top beauty Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #beauty #nature #glow.
+  Find top beauty Instagram influencers in Toronto in 2023. Most popular hashtags: #beauty #toronto #wakeupandmakeup #fashion.
 platform: Instagram
-hits: 235
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 235 Instagram influencers like this in Toronto, Canada for you to work with.
+hits: 91
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 91 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
-  - username: "ghazaleh.vahidpour"
+  - username: "victoriasabovitch"
     fullname: >-
-      GhazalehVahidpour MakeupArtist
+      𝕍𝕚𝕔𝕥𝕠𝕣𝕚𝕒 𝕊𝕒𝕓𝕠𝕧𝕚𝕥𝕔𝕙
     bio: >-
-      . Makeup, Art 🇨🇦🇮🇷 .
+      Toronto♡ | 23 Tiktok: @victoriasabovitch (700k+) Business📩: Victoria@dulcedo.com
     location: "Canada"
-    followers: 58712
-    engagement: 257
-    commentsToLikes: 0.051543
-    id: ck5c83emv8p080i11xfp1baui
+    followers: 52191
+    engagement: 655
+    commentsToLikes: 0.014631
+    id: ck5c4d7j613s70i11r2i54o1u
     verified: false
-    hashtags: "#tatcha, #makeuptoturial, #makeup, #fashion"
-  - username: "miss_sarahmartin"
+    hashtags: "#canada, #instagram, #reels, #reelsinstagram"
+  - username: "guneetbenipal"
     fullname: >-
-      sᴀʀᴀʜ ♡ Portrait Photographer
+      Gunu 🌸
     bio: >-
-      boudoir • portraits • branding — awaken your alter ego ★ break your own barriers ♥ set your soul on fire ☼ — ☾ STUDIO ⤵ @sarahmartinphotography —
+      📍TORONTO 💄 Makeup • Skincare • Fashion 💌 Email for Collabs, Shoots & PR Inquiries 🎵 Tiktok: gunuu07
     location: "Canada"
-    followers: 7382
-    engagement: 531
-    commentsToLikes: 0.030283
-    id: ck6ugcpcc28md0j71yrcdgnts
+    followers: 4700
+    engagement: 716
+    commentsToLikes: 0.201164
+    id: ckap7d7injk6w0i78ee3qs4iu
     verified: false
-    hashtags: "#instadaily, #halloween, #babe, #vibes"
-  - username: "earthlydaily"
-    fullname: >-
-      Travel | Nature | Explore
-    bio: >-
-      🌎 Most eye-stunning places in the world 🗺 Bucketlist destinations 📸 Hidden Story behind every picture ⬇️ Follow for the best photos and tips
-    location: "Canada"
-    followers: 8973
-    engagement: 772
-    commentsToLikes: 0.516763
-    id: ck6u28b9tqbga0j71mh407axg
-    verified: false
-    hashtags: "#photography, #nature, #wildlife, #black"
-  - username: "emerson.murakami"
-    fullname: >-
-      Emerson Murakami
-    bio: >-
-      📷 Landscape Photographer 🏆 International Awards 🖼 Exhibitions around the world 🏞 Nature Lover 📗 Author of the book: PURE and SIMPLE
-    location: "Canada"
-    followers: 12413
-    engagement: 450
-    commentsToLikes: 0.057902
-    id: ck8t1xdonxf6t0j78bylk7c1g
-    verified: false
-    hashtags: "#emersonmurakami, #ic, #landscapestylesgf, #landscapephotography"
+    hashtags: "#makeupaddict, #torontomakeupartist, #fullglam, #lifestyle"
   - username: "winnspiration"
     fullname: >-
       Winnie 〰️
     bio: >-
       lifestyle, fashion & beauty 📍 toronto / vancouver ✉️ winnspiration@gmail.com
     location: "Canada"
-    followers: 39444
-    engagement: 149
-    commentsToLikes: 0.073192
+    followers: 39057
+    engagement: 138
+    commentsToLikes: 0.081859
     id: ck0u7we575wk90i19jj9lkasq
     verified: false
-    hashtags: "#ios14, #ios14homescreen, #ios14tutorial, #pradareedition2005"
-  - username: "_ava_bright_"
-    fullname: >-
-      -Ava.Bright-
-    bio: >-
-      Trailblazer for Change💜Vitiligo💜Changing the Face of Beauty💜Toronto 🇨🇦 Bilingual English/French. Model: @anmlittles Ambassador: @ktbyknix Code: AVA15
-    location: "Canada"
-    followers: 5133
-    engagement: 936
-    commentsToLikes: 0.093778
-    id: ck0vwbx3dt0cr0i194nl0y8mu
-    verified: false
-    hashtags: "#anitanorrismodels, #vitiligo, #vitiligoawareness, #model"
+    hashtags: "#detoxmode, #wearitwithpandora, #expressie, #pandorasignature"
   - username: "iitheneaii"
     fullname: >-
       ☾ ᴛʜᴇɴᴇᴀ
     bio: >-
       Fashion · Lifestyle · Beauty —————————————— ◼️ Toronto ◼️ Thenea98@gmail.com
     location: "Canada"
-    followers: 19881
-    engagement: 97
-    commentsToLikes: 0.078008
+    followers: 19521
+    engagement: 98
+    commentsToLikes: 0.076397
     id: ck0u2jjvzzzv50i191h6ifmdf
     verified: false
-    hashtags: "#vlog, #picnic, #sekkisei, #eyecream"
-  - username: "thecityismineto"
+    hashtags: "#vlog, #eyecream, #picnic, #sekkisei"
+  - username: "lauravandervoort"
     fullname: >-
-      The City Is Mine | Mili Jain
+      LAURA VANDERVOORT [11:11]
     bio: >-
-      Food • Lifestyle • Travel • Beauty 📧 torontoismine@gmail.com 🏠 TO, ❤️ MTL ✏️ Contributor @tastetoronto, @viewthevibe, Curator @willtravelforbathrooms
+      Actor+Producer+Director+Writer Toronto, 🇨🇦 DogMom @frankie_blueeyes @WorldVisionCan Ambassador Directorial Debut @mysoultotakefilm
     location: "Canada"
-    followers: 7177
-    engagement: 302
-    commentsToLikes: 0.145829
-    id: ck6ttuhd0cnnl0j71ik2bmavx
-    verified: false
-    hashtags: "#toeats, #fallfashion, #fashiongoals, #apartmentdecor"
-  - username: "ceeforcarnival"
+    followers: 272987
+    engagement: 130
+    commentsToLikes: 0.029993
+    id: ck0vwmzr9ulm80i19uriw8mu5
+    verified: true
+    hashtags: "#buildahome, #martianmanhunter, #supergirl, #newhome"
+  - username: "nilaharan"
     fullname: >-
-      Celena Seusahai
+      Nila Haran
     bio: >-
-      Queen of Carnival | 🌴Owner of @ceethecollection ✈️CEO of @tribalcarnival yyz | gcm 🇹🇹 ROGUE @carnivalrogue
+      @bridesbynila 🇨🇦 philocalist (n.) Makeup-Artist Entrepreneur Mom Wife of @divinemethodphoto #bridesbynila Shop: @shopnilaharan 🚧🏗️
     location: "Canada"
-    followers: 13456
-    engagement: 691
-    commentsToLikes: 0.116804
-    id: ck5calvyydntf0i11g1cozwph
+    followers: 48300
+    engagement: 248
+    commentsToLikes: 0.041110
+    id: ck5hp2bnyqmu60i11cq7pd6xf
     verified: false
-    hashtags: "#glow, #bossbabe, #trini, #trinidad"
-  - username: "mariah_noelle"
+    hashtags: "#tamilbeauty, #bridesbynila, #tamilbride, #torontomakeupartist"
+  - username: "golsis_makeup"
     fullname: >-
-      MARIAH
+      Golsis makeup artist🌸
     bio: >-
-      toronto⁣⁣⁣⁣⁣ | fashion + lifestyle ⁣ ✉️ mariahnoelle24@gmail.com
+      -Welcome to my page -Wedding-special occasions💍 -Fashion and beauty makeup 📍Toronto,Ontario 📍Iran,Tehran
     location: "Canada"
-    followers: 4244
-    engagement: 913
-    commentsToLikes: 0.149224
-    id: ck9wfpe9ypwqt0j78lyot0ar3
+    followers: 39201
+    engagement: 65
+    commentsToLikes: 0.031151
+    id: ck5q1nin3bul70i11tgoclzee
     verified: false
-    hashtags: "#getintothisstyle, #monochrome, #discoverunder10k, #unreap"
+    hashtags: "#hudabeauty, #nofilter, #wakeupandmakeup, #lookexpensive"
+  - username: "nikescanvas"
+    fullname: >-
+      Adenike Akinpelu | Beauty Enthusiast
+    bio: >-
+      #sephorasquad alum 🇨🇦 📧: management@nikescanvas.com
+    location: "Canada"
+    followers: 264800
+    engagement: 538
+    commentsToLikes: 0.025920
+    id: ck0w723uzbdw80i19or5xl2y2
+    verified: false
+    hashtags: "#fashion, #reelsinstagram, #makeup, #juviasplace"
+  - username: "makeupbylirazstudio"
+    fullname: >-
+      Makeup By Liraz Studio
+    bio: >-
+      Canada’s 1st influencer centric beauty studio. Influencer Atelier Main page @makeupbyliraz
+    location: "Canada"
+    followers: 27302
+    engagement: 316
+    commentsToLikes: 0.841553
+    id: ck6ub6q477szg0j71mrcm0vf2
+    verified: false
+    hashtags: "#makeupbylirazgiveaway, #beautygiveaway, #skingiveaway, #gifted"
+  - username: "harleens3khon"
+    fullname: >-
+      Harleen Sekhon
+    bio: >-
+      Toronto | @designbyharleen fashion • beauty • art Collab/PR 📧 harleensekhonofficial@gmail.com
+    location: "Canada"
+    followers: 3271
+    engagement: 966
+    commentsToLikes: 0.169015
+    id: ckf5o291c0m3d0j232y4q9oxq
+    verified: false
+    hashtags: "#aesthetic, #zarawoman, #longhairgoals, #neutralfashion"
 ---

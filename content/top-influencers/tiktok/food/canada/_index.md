@@ -1,72 +1,84 @@
 ---
-title: Top 10 Food TikTok Influencers In Canada in 2023
+title: Top 10 Food TikTok Influencers In Canada In 2023
 description: >-
-  Find top food TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #canada #xyzbca.
+  Find top food TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 741
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat has 741 TikTok influencers like this in Canada for you to pitch.
+hits: 752
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 752 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "tutam12"
     fullname: >-
       Tutam12
     bio: >-
-      International food humor paisajesde🇨🇦madre de 3hijos♾➕amigos bendiciones🙏🏻
+      Ihumor cantante food 3hijos♾➕amigos🙏🏻🇨🇦
     location: "Canada"
-    followers: 10200
-    engagement: 4985
-    commentsToLikes: 1.067000
+    followers: 10400
+    engagement: 7945
+    commentsToLikes: 1.267541
     id: ckcup9dsqiqmk0j23x551c20o
     verified: false
-    hashtags: "#destacame, #xyzbca, #fyp, #romantic"
+    hashtags: "#foryoupag, #parati, #fyp, #friendlyfuture"
+  - username: "sibitg"
+    fullname: >-
+      ✨🍭🌸Cinnamon Bun🍬🍄💫
+    bio: >-
+      🇨🇦20🇮🇪 She/Her 🥘 watching: Food Wars 🍜 BLM ✨🍭🌸🌼🌈🍄🍀🍓🧩🐉💫🍬☔️
+    location: "Canada"
+    followers: 249600
+    engagement: 2406
+    commentsToLikes: 0.025141
+    id: ck8w4ugnc925z0j78gg4vm9mn
+    verified: false
+    hashtags: "#xyzbca, #tiktokggt, #lego, #trend"
+  - username: "salehfamily"
+    fullname: >-
+      Will & Sana Saleh
+    bio: >-
+      PR: SalehFamily@dulcedo.com Help us donate food packs this Ramadan ⬇️
+    location: "Canada"
+    followers: 1200000
+    engagement: 1581
+    commentsToLikes: 0.023644
+    id: ck8071rsynyri0j78u0azp7zn
+    verified: false
+    hashtags: "#learnontiktok, #muslimcomedy, #learnfromme, #duet"
   - username: "joeachakji"
     fullname: >-
       Joe Achakji
     bio: >-
       Digital Soul Food Guru☝🏼🥣 Music | Passion | LifeTips Artist at heart
     location: "Canada"
-    followers: 4384
-    engagement: 1887
-    commentsToLikes: 0.208082
+    followers: 4349
+    engagement: 1815
+    commentsToLikes: 0.192767
     id: cka0hba0l8gho0i78om371daq
     verified: false
-    hashtags: "#helpothers, #xyzbca, #fyp, #beamazing"
-  - username: "freshdailyca"
+    hashtags: "#beamazing, #helpothers, #fyp, #closer"
+  - username: "hibaottawa"
     fullname: >-
-      Freshdaily
+      Hiba
     bio: >-
-      CEO of Canada 🇨🇦 Canada’s source for news, culture, food and travel
+      Lebanese Canadian 🇱🇧 🇨🇦 Food, pet owner, artist, stylist, traveler✈
     location: "Canada"
-    followers: 92100
-    engagement: 1684
-    commentsToLikes: 0.026666
-    id: ck9f9jj9z70kg0j78behujol9
+    followers: 103000
+    engagement: 1333
+    commentsToLikes: 0.175895
+    id: ck9nd0592ceos0j78mgvnxupt
     verified: false
-    hashtags: "#sask, #foryoupage, #ontario, #canadalife"
-  - username: "ryujinlorne"
-    fullname: >-
-      Lorne
-    bio: >-
-      📍Calgary IG:Ryujin.Lorne 6’2 🇦🇺🇯🇵🇵🇭🇰🇷🇪🇸 Food addict
-    location: "Canada"
-    followers: 231600
-    engagement: 2459
-    commentsToLikes: 0.017487
-    id: ck80724xmo21c0j78sqv9bzl2
-    verified: false
-    hashtags: "#classicalmusic, #australian, #weeb, #yyc"
+    hashtags: "#comedy, #duet"
   - username: "findbex"
     fullname: >-
       Bex 
     bio: >-
       Foodie, vegan cookbook author. I have a weird cat. 🇨🇦 Cookingbylaptop.com
     location: "Canada"
-    followers: 38500
-    engagement: 1636
-    commentsToLikes: 0.028580
+    followers: 38300
+    engagement: 1005
+    commentsToLikes: 0.042007
     id: ck961zc8romyz0j78v1axqnn5
     verified: false
-    hashtags: "#plasticfreejuly, #recipe, #foodblogger, #explorebclocal"
+    hashtags: "#veganfood, #learnwithtiktok, #foryoupage, #foryou"
   - username: "doormian"
     fullname: >-
       WorseThenATrap
@@ -79,52 +91,40 @@ profiles:
     id: ck9kg8ybo6tqq0j787v8rilxb
     verified: false
     hashtags: ""
-  - username: "w2sixpackchef"
+  - username: "chinesenaturalhealing"
     fullname: >-
-      Wallace W
+      Aunty Anly ☯️
     bio: >-
-      Food|Fitness|Life RECIPES:IG @w2sixpackchef COOKING EBOOK:www.sixpackchef.com
+      Chinese Natural Health, beauty & Food Aunty Anly Works here👇 Richmond, BC 🇨🇦
     location: "Canada"
-    followers: 456800
-    engagement: 1255
-    commentsToLikes: 0.022649
-    id: ck806ysqxn5xz0j780zu0q8u9
+    followers: 241000
+    engagement: 722
+    commentsToLikes: 0.038763
+    id: ckajk9wtzp9lq0i78zm2o1vvq
     verified: false
-    hashtags: "#satisfying, #asmr, #foodreview, #cooking"
-  - username: "pinacooks"
+    hashtags: "#food, #haha, #heal, #pressurepoint"
+  - username: "lightcellar"
     fullname: >-
-      Pina
+      lightcellar
     bio: >-
-      All things authentic Italian (& some Italian-inspired) Food, culture, fun😀
+      Mushrooms - Herbs - Ferments - Chocolate - Elixirs Craft Your Food & Medicine
     location: "Canada"
-    followers: 27800
-    engagement: 704
-    commentsToLikes: 0.054861
-    id: ckb9pf3itkd9i0j23sj0xyt2k
+    followers: 13000
+    engagement: 544
+    commentsToLikes: 0.064370
+    id: ck80711k1ns260j78zd0vh1kj
     verified: false
-    hashtags: "#crostini, #foodtok, #cheflife, #italianfood"
-  - username: "auntmae123"
+    hashtags: "#fermentedfoods, #covid19, #healthyeating, #healthychocolate"
+  - username: "sayyestoyum"
     fullname: >-
-      MMae123
+      Say Yes to Yum
     bio: >-
-      Married 💍 Port Wine Stain Birthmark 🦄 🥦🍓TL Foodie 🥭🍍 AuntMaeFavs.com
+      Insta for more recipes! ⬆️ Low Carb / Keto Foodie 🧀 Always a WIP 👊🏼 GTA, 🇨🇦
     location: "Canada"
-    followers: 58800
-    engagement: 1232
-    commentsToLikes: 0.030316
-    id: ck9slbtg5d40m0j78tc91upbw
+    followers: 13900
+    engagement: 386
+    commentsToLikes: 0.089497
+    id: ck8071cy0nuy70j78i6v6n3ul
     verified: false
-    hashtags: "#redfortia, #keepsmiling, #affirmations, #tiaday"
-  - username: "kitchentiktoking"
-    fullname: >-
-      Kitchen TikToking
-    bio: >-
-      🙏for 3.6K Food Always Has a Story! 📚 Food Facts + 😎 Gadgets 🌱 by Louise ♻️
-    location: "Canada"
-    followers: 3709
-    engagement: 465
-    commentsToLikes: 0.264876
-    id: ckfpm8db71n7m0j23j6fydhsc
-    verified: false
-    hashtags: "#kitchengadgets, #fallharvest2020, #learnontiktok, #healthyfruit"
+    hashtags: "#lowcarblove, #ketofriendly, #homecook, #ketorecipes"
 ---

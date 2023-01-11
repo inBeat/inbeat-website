@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Miami in 2023
+title: Top 10 Vegan TikTok Influencers In Miami In 2023
 description: >-
-  Find top vegan TikTok influencers in Miami in 2023. Most popular hashtags: #vegan #fyp #miami #duet.
+  Find top vegan TikTok influencers in Miami in 2023. Most popular hashtags: #vegan #miami #fyp #healthylifestyle.
 platform: TikTok
-hits: 18
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 18 TikTok influencers like this in Miami, United States for you to work with.
+hits: 23
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 23 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "miamifruit"
+  - username: "imwhatyouneedd"
     fullname: >-
-      miamifruit
+      T
     bio: >-
-      Follow on IG: @miamifruit 🌈 Tap link below to order our fruit ⬇️
+      I do what I want Ig: tianavisciano Cashapp $tianaLV 🇮🇹🇬🇷⚖️
     location: "United States"
-    followers: 232600
-    engagement: 1099
-    commentsToLikes: 0.015141
-    id: ck83k2mp08twh0j78x2ip2jnj
+    followers: 112200
+    engagement: 663
+    commentsToLikes: 0.011594
+    id: ckb9mgsnhfo5e0j23vwfz53sn
     verified: false
-    hashtags: "#exoticfruit, #pomelo, #citrus, #fruit"
+    hashtags: "#fyp, #toxic, #followmeoninstagram, #strapback"
   - username: "muddybody"
     fullname: >-
       Muddy Body
     bio: >-
       Meet your skincare BFF! All natural. Vegan. Cruelty Free! Based in Miami 🦩🌴🌞
     location: "United States"
-    followers: 5892
-    engagement: 1000
-    commentsToLikes: 0.019209
+    followers: 6108
+    engagement: 994
+    commentsToLikes: 0.017666
     id: ck9skqoyga5l10j78rwvscbzx
     verified: false
-    hashtags: "#muddybody, #selfcare, #skincare, #skincareroutine"
-  - username: "collecturcoins"
+    hashtags: "#christmas, #supportsmallbiz, #skincareroutine, #morningroutine"
+  - username: "plantchics"
     fullname: >-
-      Abby
+      Plant Chics
     bio: >-
-      22//Miami IG: @abbychaidash it’s a wig
+      Plant-based health coaches for women. 🍎💪🏻 Food, fitness, and FUN!🎉😀
     location: "United States"
-    followers: 240700
-    engagement: 1419
-    commentsToLikes: 0.024777
-    id: ck8sahmit26450j78ylvb2wzq
+    followers: 76000
+    engagement: 659
+    commentsToLikes: 0.082149
+    id: ck9ncsovhc6lp0j78str8hpc8
     verified: false
-    hashtags: "#fyp, #dailypractice, #foryou, #writing"
-  - username: "thewandertog"
+    hashtags: "#plantbased, #30daychallenge, #healthcoach, #healthyliving"
+  - username: "miamifruit"
     fullname: >-
-      Ixamar
+      miamifruit
     bio: >-
-      Amazon Finds + Miami Livin’ 🌴
+      Follow on IG: @miamifruit 🌈 Tap link below to order our fruit ⬇️
     location: "United States"
-    followers: 2810
-    engagement: 715
-    commentsToLikes: 0.054396
-    id: ckave0cnam4400j23hi6joftp
+    followers: 292400
+    engagement: 906
+    commentsToLikes: 0.027120
+    id: ck83k2mp08twh0j78x2ip2jnj
     verified: false
-    hashtags: "#fyp, #miami, #dailyaffirmations, #photoshoot"
-  - username: "isabel_mndz"
+    hashtags: "#fruittok, #fruitfarm, #tropicalfruit, #miamifruit"
+  - username: "jessicagolich"
     fullname: >-
-      Isabel Mendez
+      JessicaGolich 🏳️‍🌈
     bio: >-
-      Miami mami 🌴 Millennial Instagram: Isabelmndz PromoCode: isabelm for 10% off⬇️
+      Welcome to Jessica’s 🌍🏳️‍🌈✌️ Love, Good Vibes, Vegan Life, Travel & Health
     location: "United States"
-    followers: 148800
-    engagement: 1422
-    commentsToLikes: 0.013970
-    id: ck9ne55w1d83i0j78pzuonxz6
-    verified: false
-    hashtags: "#fyp, #thecoldestwater, #dogsoftiktok, #viral"
-  - username: "cozyrosati"
+    followers: 118800
+    engagement: 553
+    commentsToLikes: 0.062348
+    id: ck8hk5rm6cjeo0j78s2q7szjd
+    verified: true
+    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+  - username: "thenutritiousblonde"
     fullname: >-
-      Cosette Rosati
+      nutritious blonde.
     bio: >-
-      True Life: I’m an influencer Model BTS | Health & Wellness | Avid Thrifter
+      Miami. your unapologetic guide to all things 🦋
     location: "United States"
-    followers: 88500
-    engagement: 460
-    commentsToLikes: 0.029975
-    id: ckacfmt0yrjis0i787jm6lk9x
+    followers: 23400
+    engagement: 552
+    commentsToLikes: 0.044601
+    id: ck81s43tfpukc0j78kgbwmd9s
     verified: false
-    hashtags: "#vegan, #bts, #model, #foodie"
-  - username: "mamacitastellla"
+    hashtags: "#sibo, #greenbeauty, #weightloss, #healthy"
+  - username: "sammypur"
     fullname: >-
-      Stella
+      sammypur
     bio: >-
-      Favorite comeback story. 70 Pounds Down✨ Instagram: @mamacitastellla
+      Not gluten free, not dairy free, and definitely not vegan! Follow me on Insta ❤️
     location: "United States"
-    followers: 59300
-    engagement: 719
-    commentsToLikes: 0.026696
-    id: ckdht8wwf2tpj0j236fv2aa09
+    followers: 377500
+    engagement: 687
+    commentsToLikes: 0.017200
+    id: ckb9c01d1yjwx0j23mw6zz61b
     verified: false
-    hashtags: "#vegan, #fyp, #fitness, #workout"
-  - username: "davidsiado"
+    hashtags: "#healthyrecipes, #easyrecipetutorials, #quickrecipe, #ad"
+  - username: "annoyinggaby"
     fullname: >-
-      davidsiado
+      Gaby
     bio: >-
-      
+      30 | Miami 🌴 I have no business on tik tok.
     location: "United States"
-    followers: 2739
-    engagement: 489
-    commentsToLikes: 0.017580
-    id: ckdi80thka6zm0j232y4k2h8f
+    followers: 43400
+    engagement: 1071
+    commentsToLikes: 0.021858
+    id: ckbf0gz9am5tp0j236mtxhdab
     verified: false
-    hashtags: "#mexico, #niurkachallenge, #ny, #miami"
-  - username: "foodfitnessflights"
+    hashtags: "#viral, #stitch, #bussitchallenge, #newyork"
+  - username: "jeremiah.taylorr"
     fullname: >-
-      Rachel Anne
+      Columbus Real Estate Agent
     bio: >-
-      Food, Lifestyle and Travel ✈️🍩 📍DC
+      Foodie & Columbus Real Estate Agent backup @jeremiahtaylor614
     location: "United States"
-    followers: 5213
-    engagement: 613
-    commentsToLikes: 0.016695
-    id: ckbl3phuv15ee0j23pve9nl6d
-    verified: false
-    hashtags: "#dcfoodie, #foodie, #donuts, #dmvfood"
-  - username: "fonz520"
+    followers: 222100
+    engagement: 2062
+    commentsToLikes: 0.041477
+    id: ck8nbu23ybgd40j78bsgzilcs
+    verified: true
+    hashtags: "#vegan, #makeup, #foryou, #welcome2021"
+  - username: "alyssalynch"
     fullname: >-
-      Fonztradamus
+      alyssapaigelynch
     bio: >-
-      🌵 AZ 🌵 Just your friendly, neighborhood homeboy Art insta: @fonz520_arte
+      no idea how to work this
     location: "United States"
-    followers: 61600
-    engagement: 1241
-    commentsToLikes: 0.038584
-    id: ckb0ro8iyh5jz0j23ysuyccqh
-    verified: false
-    hashtags: "#gardening101, #trump, #farm, #vegan"
+    followers: 8527
+    engagement: 431
+    commentsToLikes: 0.023381
+    id: ck9kd9dxct7ja0j78rbyhrtgd
+    verified: true
+    hashtags: "#workout, #morningroutine, #ad, #fableticsambassador"
 ---

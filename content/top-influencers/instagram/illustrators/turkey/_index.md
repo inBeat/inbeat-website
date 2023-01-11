@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Turkey in 2023
+title: Top 10 Illustrators Instagram Influencers In Turkey In 2023
 description: >-
   Find top illustrators Instagram influencers in Turkey in 2023. Most popular hashtags: #illustration #art #drawing.
 platform: Instagram
-hits: 61
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 61 Instagram influencers like this in Turkey for you to pitch.
+hits: 55
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 55 Instagram influencers like this in Turkey for you to pitch.
 profiles:
   - username: "merttugen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Illustrator
     location: "Turkey"
-    followers: 28061
-    engagement: 433
-    commentsToLikes: 0.010368
+    followers: 28945
+    engagement: 359
+    commentsToLikes: 0.009627
     id: ck0vzlrby9q4x0i19uc4zx7p4
     verified: false
-    hashtags: "#procreate, #illustration, #thebeatles, #19may"
-  - username: "julizubkova"
-    fullname: >-
-      Визуал Инстаграм Турция
-    bio: >-
-      СДЕЛАЮ ПРОДАЮЩИЙ ВИЗУАЛ ЗА 1 ДЕНЬ ВИЗУАЛЬНЫЕ СТРАТЕГИИ ДЛЯ ЛИЧНОГО БРЕНДА ИЛИ БИЗНЕСА ИМИДЖБУК Живу в Турции Content maker Sketch illustrator Model
-    location: "Turkey"
-    followers: 2284
-    engagement: 1861
-    commentsToLikes: 0.255501
-    id: ckf5qfo7c96pz0j23e0ml4emt
-    verified: false
-    hashtags: "#blgprt, #minimalisticstyle, #influencerdigital, #trendwatchers"
+    hashtags: "#skateboard, #procreate, #posca, #illustration"
   - username: "huliaozdemir"
     fullname: >-
       hülya özdemir
     bio: >-
-      illustrator and painter of watercolour portraits🎨 colour • harmony • sensibility
+      illustrator and painter of watercolour portraits🎨 colour • harmony • sensibility 💌hulya1702@gmail.com
     location: "Turkey"
-    followers: 60905
-    engagement: 605
-    commentsToLikes: 0.014724
+    followers: 69734
+    engagement: 426
+    commentsToLikes: 0.013416
     id: ck0vz85i57sks0i19fotqqsdp
     verified: false
-    hashtags: "#instagood, #creative, #art, #illustration"
+    hashtags: "#mybodyismyown, #illustration, #paper, #painting"
   - username: "azadeh.prk"
     fullname: >-
       
     bio: >-
       fashion designer,fashion illustrator Cofounder @alfazzo Contact me via email 📍turkey,istanbul
     location: "Turkey"
-    followers: 18176
-    engagement: 491
-    commentsToLikes: 0.036134
+    followers: 18136
+    engagement: 589
+    commentsToLikes: 0.040685
     id: ckapb7s6yyw960i78ohjzrp44
     verified: false
-    hashtags: "#last, #my"
+    hashtags: "#selfie, #summervibes, #bereal, #last"
+  - username: "illustragirl"
+    fullname: >-
+      sema işcan 🎨
+    bio: >-
+      ⚫️ illustratör / fashion designer 🍓cizim talepleri ve is birlikleri icin; ⚫️ illustragirl@gmail.com ve 💜@illustragirlshop #podcast: wake up Witch🤭
+    location: "Turkey"
+    followers: 27931
+    engagement: 167
+    commentsToLikes: 0.065608
+    id: ck5hsly1twsxq0i11g3fnp26d
+    verified: false
+    hashtags: "#love, #illustration, #tbt, #illustragirl"
   - username: "mustafasoydan"
     fullname: >-
       MXS - Mustafa Soydan
     bio: >-
-      Fashion Illustrator & Creative Consultant info@mustafasoydan.com
+      Fashion Illustrator & Creative Consultant info@mustafasoydan.com Open Commission.
     location: "Turkey"
-    followers: 35939
-    engagement: 152
-    commentsToLikes: 0.031178
+    followers: 35575
+    engagement: 160
+    commentsToLikes: 0.031503
     id: ck8syumgam2j90j781cfz9pc4
     verified: false
-    hashtags: "#horoscope, #ipadpro, #madewithipadpro, #illustration"
-  - username: "enversarac"
-    fullname: >-
-      Enver Saraç 🦀
-    bio: >-
-      Fashion Designer & Illustrator The Netherlands, Rotterdam DM for business inquiries Reklam ve işbirliği için DM
-    location: "Turkey"
-    followers: 40520
-    engagement: 611
-    commentsToLikes: 0.084328
-    id: ckap0p6rvr9ps0i78zh6xgk8i
-    verified: false
-    hashtags: "#turkish, #sketch, #beauty, #couture"
-  - username: "crystal_arts_"
-    fullname: >-
-      Ş • M u t l u
-    bio: >-
-      Illustrator, Designer & Art Teacher ~ COMMISSIONS OPEN ~
-    location: "Turkey"
-    followers: 144694
-    engagement: 506
-    commentsToLikes: 0.033478
-    id: ck8t7htzpguum0j78o75bwg8a
-    verified: false
-    hashtags: "#wip"
+    hashtags: "#madewithwacomcintiq, #madewithipadpro"
   - username: "ayseinanillustration"
     fullname: >-
       Ayşe İnan Illustration
     bio: >-
       Children’s book illustrator Röportaj ~
     location: "Turkey"
-    followers: 6890
-    engagement: 995
-    commentsToLikes: 0.074729
+    followers: 7675
+    engagement: 985
+    commentsToLikes: 0.072099
     id: ck14h43u58gbe0i19v4d0ze54
     verified: false
-    hashtags: "#eskizler, #illustrator, #sketch, #girl"
-  - username: "gamzetavukcuoglu"
+    hashtags: "#illustration, #sketchbook, #illustrasyon, #draw"
+  - username: "ozcanmerve"
     fullname: >-
-      Gamze Tavukçuoğlu
+      Merve Özcan
     bio: >-
-      🖤illustratör,RoyalTalens Türkiye SanatElçisi Kurumsal İllüstrasyonProjeleri Art/Craft ▪️DolmabahçeSarayı ▪️İstanbulOyuncakMüzesi ▪️BeylerbeyiSarayı
+      Roman Yazarı & İllüstratör 🎨: @merveozcanart
     location: "Turkey"
-    followers: 21329
-    engagement: 237
-    commentsToLikes: 0.062315
-    id: ckap9qpc4t9m50i78compnsg7
+    followers: 11508
+    engagement: 1106
+    commentsToLikes: 0.044455
+    id: ckaoun4r00zy80i78s2qoe6is
     verified: false
-    hashtags: "#art, #cottage, #pattern, #countrylife"
+    hashtags: ""
+  - username: "enversarac"
+    fullname: >-
+      Enver Saraç 🦀
+    bio: >-
+      Fashion Designer & Illustrator The Netherlands, Rotterdam DM for business inquiries
+    location: "Turkey"
+    followers: 41945
+    engagement: 685
+    commentsToLikes: 0.099048
+    id: ckap0p6rvr9ps0i78zh6xgk8i
+    verified: false
+    hashtags: "#art, #fashionista, #sketch, #istanbul"
+  - username: "zeynepkalkan"
+    fullname: >-
+      Zҽყɳҽρ Kαʅƙαɳ
+    bio: >-
+      🎨 Freelance #illustrator / #çizer 🐹 Children’s Books 🖌 Illustration upon request 📨 zejnepkalkan@hotmail.com
+    location: "Turkey"
+    followers: 1974
+    engagement: 8882
+    commentsToLikes: 0.072681
+    id: ck0u6g9la1xlr0i1997xbi21q
+    verified: false
+    hashtags: "#childrenbookart, #illustration, #childrenbookillustration, #childrenillustration"
   - username: "buraksenturk"
     fullname: >-
       Burak Şentürk
     bio: >-
       Artist / illustrator bsenturk@gmail.com
     location: "Turkey"
-    followers: 13892
-    engagement: 877
-    commentsToLikes: 0.182959
+    followers: 14552
+    engagement: 582
+    commentsToLikes: 0.025409
     id: ckap70ltui5g00i785miw5ev1
     verified: false
-    hashtags: "#illustration, #graphicnovel, #storytelling, #repost"
+    hashtags: "#ipadpro, #illustrator, #art, #drawing"
 ---

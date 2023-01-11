@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Switzerland in 2023
+title: Top 10 Yoga Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top yoga Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #myswitzerland #yogateacher #nature.
+  Find top yoga Instagram influencers in Switzerland in 2023. Most popular hashtags: #yoga #switzerland #beach #yogainspiration.
 platform: Instagram
-hits: 77
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 77 Instagram influencers like this in Switzerland for you to collaborate.
+hits: 29
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 29 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
-  - username: "aniahimsa"
+  - username: "anina.gepp"
     fullname: >-
-      Anina | vegan + eco lifestyle
+      Anina 🦋
     bio: >-
-      🌿 gesund, bewusst & nachhaltig leben 🇨🇭-mountains, vegan food, running & yoga 💚 fair fashion, less waste 🎧 @chappedlipspodcast 🖋️ Mein Blog:
+      ☼ gesund, bewusst & im Moment leben ☼ sharing my passion for yoga, poems & food ☼ yoga teacher & author📍Tenerife ☼ Januar-Retreat - jetzt anmelden ⇣
     location: "Switzerland"
-    followers: 87831
-    engagement: 242
-    commentsToLikes: 0.045187
+    followers: 98250
+    engagement: 249
+    commentsToLikes: 0.034483
     id: ck0vyo0mf4y1v0i19m1bn9fbo
     verified: false
-    hashtags: "#bewusstleben, #myswitzerland, #gooutside, #herbstfarben"
+    hashtags: "#gl, #selbstf, #bewusstleben, #gutertag"
+  - username: "_tamayoga"
+    fullname: >-
+      Tam | Wellness and Yoga
+    bio: >-
+      📍GENEVA Sharing my yoga journey to motivate myself and others 🦋 Co-founder of @flowspaceofficial a project to promote health of body and mind ✨
+    location: "Switzerland"
+    followers: 23289
+    engagement: 260
+    commentsToLikes: 0.060606
+    id: ck9wewvnmm7gp0j78g4k2bokx
+    verified: false
+    hashtags: "#alobouthealth, #alosalutethesun"
   - username: "geraldine.antoinette"
     fullname: >-
       Geraldine Antoinette Yoga ૐ
     bio: >-
-      • MLaw UZH⚖ • yoga teacher RYT200🕊@indigofitness @bodyartzuerich @lola___studio @_.allout._ • @athleticflow.ch instructor 🤸🏻‍♀️ • vegan🏃🏻‍♀️🏄🏻‍♀️🌱
+      • MLaw UZH⚖ • yoga teacher RYT200🕊@indigofitness • @athleticflow.ch instructor 🤸🏻‍♀️ • powered by plants🏃🏻‍♀️🏄🏻‍♀️🏂🌱
     location: "Switzerland"
-    followers: 10058
-    engagement: 918
-    commentsToLikes: 0.143982
+    followers: 10834
+    engagement: 714
+    commentsToLikes: 0.098794
     id: ck5zoznc1rp4w0i14wjljzi0q
     verified: false
-    hashtags: "#naturebaby, #yogacommunity, #peace, #thankful"
-  - username: "_tamayoga"
+    hashtags: "#getaway, #positivity, #sun, #happy"
+  - username: "chloe_sillieres"
     fullname: >-
-      Tam 🤸🏼‍♀️
+      Chloé Sillieres
     bio: >-
-      📍GENEVA Yoga Teacher 🧘🏼‍♀️ @vayumudra 15% off code tamayoga15 @freskincare 25% off code TAMAYOGA
+      ☽ Since 1998 ❆ Snowboarder ღ Yoga teacher (RYT) @kloe_yoga ✩ World traveler, Life lover ↬ @mckoutdoorexperiences
     location: "Switzerland"
-    followers: 11258
-    engagement: 449
-    commentsToLikes: 0.154614
-    id: ck9wewvnmm7gp0j78g4k2bokx
+    followers: 6432
+    engagement: 425
+    commentsToLikes: 0.038580
+    id: ck6u7ujkxnq5v0j71cso5ggke
     verified: false
-    hashtags: "#nuudcare, #deorev, #alotofshapes, #nuud"
-  - username: "linda_eden"
+    hashtags: "#ridingisthereason, #rideonjake, #nobadtrips, #swipeleft"
+  - username: "maria_nathan2008"
     fullname: >-
-      Linda Eden 🧘🏽‍♀️
+      Maria Mosso
     bio: >-
-      Learning, living, teaching Yoga ॐ 🇵🇪 📍Currently: Bern 🇨🇭 f r e e s p i r i t ♡ freckled face ♡ t r a v e l e r🌿
+      ♥️Nathan, Golden Retriever 🦮, 🍼 Born: July 11th 2008, 📍in Zürich 🇨🇭 often in 🇮🇹 ♥️ Yoga
     location: "Switzerland"
-    followers: 3638
-    engagement: 1149
-    commentsToLikes: 0.081019
-    id: ck6tyyjik6ljk0j717d056aoj
+    followers: 3255
+    engagement: 6009
+    commentsToLikes: 0.211827
+    id: ck8tag8x5rmju0j78ka9ojzu1
     verified: false
-    hashtags: "#mudras, #spirituality, #yoga, #yogateacher"
-  - username: "malerindeskosmos"
+    hashtags: "#cuteanimals, #cutedogs, #dogslove, #vineyardviews"
+  - username: "chriscarpnter"
     fullname: >-
-      Valentine Eva Donia (she/her)
+      Chris Carpenter
     bio: >-
-      KOSMOS YOGA 🔮 yoga practitioner & teacher: group, corporate and private classes + mentoring 🌿 vegan & social justice advocate 💌 DM to work together
+      Skiing, Speedriding, Wingsuiting, Surfing, Yoga , Family and of course this amazing planet. 🌎 🏂 🏄🏼 🙏 👨‍👩‍👧‍👧
     location: "Switzerland"
-    followers: 2425
-    engagement: 864
-    commentsToLikes: 0.062820
-    id: ck5q8e1ui5pu80i11o7w4k63s
+    followers: 24468
+    engagement: 220
+    commentsToLikes: 0.032490
+    id: ck137jug6bwly0i19bkgwqwvp
     verified: false
-    hashtags: "#slowliving, #slowlife, #yogateacher, #yogastudent"
-  - username: "clemeyoga"
+    hashtags: "#backyarddropzone, #sunset, #skydive"
+  - username: "majus.k"
     fullname: >-
-      Clementine Evrard
+      HeavenlYoga
     bio: >-
-      🇫🇷 l French yogi and 200h yoga teacher 💫 l Mindset coach 📍 l Bern, Switzerland
+      
     location: "Switzerland"
-    followers: 34649
-    engagement: 158
-    commentsToLikes: 0.090615
-    id: ck0w16bw9hrm40i19sxxdse3v
+    followers: 11548
+    engagement: 982
+    commentsToLikes: 0.013588
+    id: ck14k2g2jne9e0i196bkciktq
     verified: false
-    hashtags: "#halloweenhuntforbliss, #apathtoinnerpeace, #symphonyofselflove, #fallinalignment"
-  - username: "naturellymichaela"
+    hashtags: "#insta, #slovakgirl, #inspiration, #photooftheday"
+  - username: "fabiohayoz"
     fullname: >-
-      Michaela | Hiking & Yoga 🇨🇭
+      Fabio Hayoz
     bio: >-
-      🌞 Positive Vibes 🌿 Nature lover #mountaingirl 🙏🏻 Sustainability 🧘🏼‍♀️ Hiking & Yoga 📍 Switzerland 🇨🇭 More travel ideas on my blog:
+      🥇SNBF 2018 Swiss-Champion 📍CH🇨🇭 🏢 @hf.werbetechnik 💪 @coach__bruno ❤️ @jasmine.gsell ‼️SPONSORED BY‼️ @extrifitschweiz - Fabio10 @autocenterhalten
     location: "Switzerland"
-    followers: 14397
-    engagement: 1068
-    commentsToLikes: 0.096536
-    id: ck5q428yenfmb0i11boehhrcy
+    followers: 10459
+    engagement: 290
+    commentsToLikes: 0.029399
+    id: ck8svr3moce3r0j78a3lf79cp
     verified: false
-    hashtags: "#unescoworldheritage, #sustainabletravel, #remotevacations, #schweiz"
-  - username: "vamospraonde"
+    hashtags: "#yoga, #photooftheday, #fitnessathlete, #fitfam"
+  - username: "eddymarkaj"
     fullname: >-
-      by Quel Furtado
+      Eddy Markaj | BBoy | Travel
     bio: >-
-      ⊹ Nature & charming hotels lover ⊹ Sharing my travels, adventures, and daily life ⊹ Practice yoga with me @yogabyquel
+      | Organizer of #DPCJam | BBoy at @d.point.c | Founder and Teacher @dpcacademy | 🤍 @bergitamarper | Engineer & Architect @bhochegu
     location: "Switzerland"
-    followers: 406470
-    engagement: 152
-    commentsToLikes: 0.016049
-    id: ck15pusejzqd20i19h4j2dztu
+    followers: 35802
+    engagement: 164
+    commentsToLikes: 0.024423
+    id: ck5catsj5e48w0i11t17d3eey
     verified: false
-    hashtags: "#travelling, #oeschinensee, #europetravel, #kandersteg"
+    hashtags: "#myswitzerland, #switzerland, #zurich, #galaxys20fe"
   - username: "luviyo"
     fullname: >-
       L U V I Y O
     bio: >-
-      🧘‍♀️ Premium 𝗔𝗹𝗹-𝗜𝗻-𝗢𝗻𝗲 Yoga Mats #luviyo 🌿 Eco-Friendly, Natural Rubber, Non Slip 📦 We ship EU - Wide 🐘❤️ 𝕎𝕖 𝕕𝕠𝕟𝕒𝕥𝕖 𝟙𝟘% 𝕥𝕠 @sheldricktrust 🐘
+      🧘‍♀️ Premium 𝐘𝐨𝐠𝐚 𝐌𝐚𝐭𝐬 & 𝐀𝐜𝐜𝐞𝐬𝐬𝐨𝐫𝐢𝐞𝐬 🌿 Eco-Friendly, Natural Rubber, Non Slip 📦 We ship EU - Wide 🐘 We donate 10% for elephants in need
     location: "Switzerland"
-    followers: 42560
-    engagement: 122
-    commentsToLikes: 0.025960
+    followers: 46979
+    engagement: 65
+    commentsToLikes: 0.073332
     id: ck8tc4pi9ya0t0j7897zq68re
     verified: false
-    hashtags: "#luviyoyogaclass, #jacquinoelyogaclass, #luviyo, #selfconfidence"
-  - username: "jea.ruh"
-    fullname: >-
-      Jeannette Ruh | Foodfotografie
-    bio: >-
-      Foodfotografie & Foodstyling | based in Zurich Kochbuch Autorin ‚Basenüberschüssig Kochen‘ #plantbased #ebvrecovery Yoga RYT 500h
-    location: "Switzerland"
-    followers: 26484
-    engagement: 142
-    commentsToLikes: 0.049233
-    id: ck5hk9z6ni1tm0i11pl6v05aa
-    verified: false
-    hashtags: "#coronatime, #healingfoods, #strength, #healthy"
+    hashtags: "#mindset, #travelmat, #yogaatthebeach, #iloveyoga"
 ---

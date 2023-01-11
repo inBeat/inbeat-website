@@ -1,130 +1,130 @@
 ---
-title: Top 10 Scrapbooking TikTok Influencers in 2023
+title: Top 10 Scrapbooking TikTok Influencers In 2023
 description: >-
-  Find top scrapbooking TikTok influencers in 2023. Most popular hashtags: #scrapbooking #fyp #foryou #art.
+  Find top scrapbooking TikTok influencers in 2023. Most popular hashtags: #scrapbooking #foryou #fyp #art.
 platform: TikTok
-hits: 30
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 30 TikTok influencers like this for you to work with.
+hits: 40
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 40 TikTok influencers like this for you to work with.
 profiles:
+  - username: "leigha.howland"
+    fullname: >-
+      Leigha.Howland
+    bio: >-
+      hey hey hey🤩
+    location: "United States"
+    followers: 17100
+    engagement: 1528
+    commentsToLikes: 0.103707
+    id: ckbfb21p02udo0j23vr1zxid6
+    verified: false
+    hashtags: "#boston, #names, #calligraphy, #college"
   - username: "_vickys_journal_tt"
     fullname: >-
       Vikky
     bio: >-
-      From November 10 - November 30 PROMO CODE: Viktoriia 15% STATIONARYPAL link ⬇️
+      All links ⬇️🌸
     location: "Canada"
-    followers: 1000000
-    engagement: 1897
-    commentsToLikes: 0.005575
+    followers: 1300000
+    engagement: 1854
+    commentsToLikes: 0.005248
     id: ckdnelrjqh9qq0j23d7roapz6
     verified: false
-    hashtags: "#asmr, #scrapbooking, #bujo, #kawaii"
+    hashtags: "#scrapbooking, #journaling, #bujo, #inspiration"
   - username: "bee.artistic"
     fullname: >-
       lau'
     bio: >-
       🇨🇵/🇬🇧 art ✨✨ collage, watercolors .... @beeartistic on We Heart It
     location: "France"
-    followers: 14800
-    engagement: 1838
-    commentsToLikes: 0.012521
+    followers: 14500
+    engagement: 1773
+    commentsToLikes: 0.011547
     id: ck9fc87vnipa80j78pjas3f3m
     verified: false
-    hashtags: "#beeartisticollage, #satisfayingvideo, #fyp, #foryou"
+    hashtags: "#flowers, #paint, #fyp, #collage"
+  - username: "rhinestoneworld"
+    fullname: >-
+      The Rhinestone World
+    bio: >-
+      Weekly LIVE CAMEO 4 Giveaway & Training every Monday 8pm ET on YouTube Channel.
+    location: "United States"
+    followers: 391600
+    engagement: 833
+    commentsToLikes: 0.046213
+    id: ck8hk58wdcevp0j78szyx02pu
+    verified: false
+    hashtags: "#colorsparkvinyl, #fyp, #hustle, #cameo4"
+  - username: "paperangprint"
+    fullname: >-
+      PAPERANGPRINT
+    bio: >-
+      The #1 INKLESS Printer😉 Join +100.000 Happy Customers❤️ Tag us #paperangprint
+    location: "Italy"
+    followers: 6544
+    engagement: 880
+    commentsToLikes: 0.061032
+    id: ck8ni7mk54eiw0j7802hdfdsb
+    verified: false
+    hashtags: "#bujo, #musthave, #gadget, #paperang"
   - username: "nicolenurbernardi"
     fullname: >-
       nicolenurbernardi
     bio: >-
-      MY INSTAGRAM 👆🏼 💖 🎥 YOUTUBE CHANNEL 🎥 Nicole Nur Bernardi
+      ⬇️ MY ONLINE SHOP ⬇️
     location: "Italy"
-    followers: 159500
-    engagement: 1231
-    commentsToLikes: 0.014471
+    followers: 186100
+    engagement: 978
+    commentsToLikes: 0.010914
     id: ckbqjr6zf4yhh0j23rwwmcuj2
     verified: false
-    hashtags: "#girl, #scrapbooking, #clothes, #aliexpress"
-  - username: "bopatchki"
+    hashtags: "#aliexpressunboxing, #avocadoplants, #stationary, #girl"
+  - username: "alex.innovations"
     fullname: >-
-      ⭑ bopatchki ⭑
+      alexinnovations
     bio: >-
-      a little bit of everything ✨ london bopatchki@gmail.com
-    location: "Qatar"
-    followers: 6150
-    engagement: 1717
-    commentsToLikes: 0.023916
-    id: ckb9ffn2b3u960j23garc3ufi
-    verified: false
-    hashtags: "#thisisasign, #movie, #uk, #scrapbooking"
-  - username: "tini_acv2"
-    fullname: >-
-      🐽tini_acv2🐽
-    bio: >-
-      Sígueme en ig pu 😔 🌻 @martii.acevedo_ CEO en paquetitos y bajones :) 350k?😱
-    location: "Chile"
-    followers: 340900
-    engagement: 1812
-    commentsToLikes: 0.005283
-    id: cka0tnc6fqku90i78tf85g1kz
-    verified: false
-    hashtags: "#bathroomrepairtutor, #paquetes, #redecorando, #scrapbooking"
-  - username: "s.bexy"
-    fullname: >-
-      Syeda 
-    bio: >-
-      19 Mixed content 🧕🏼 Allahuma Barik Laha
-    location: "United Kingdom"
-    followers: 8009
-    engagement: 1294
-    commentsToLikes: 0.019396
-    id: ckcp4f7xucd4x0j23nzpw152d
-    verified: false
-    hashtags: "#crafts, #transitions, #satisfying, #diy"
-  - username: "abipop_"
-    fullname: >-
-      Abi pop
-    bio: >-
-      UK | 25 | Disney | ACNH | Dance | Japan IG: @abipop 🇬🇧🏡 🌧☀️🦆🏰🌱🌸💃🏼🇯🇵
-    location: "United Kingdom"
-    followers: 25500
-    engagement: 1840
-    commentsToLikes: 0.063935
-    id: ck8ae8o6zatbz0j78iurywky9
-    verified: false
-    hashtags: "#dancing, #animalcrossing, #wholesome, #disney"
-  - username: "elle.in.the.woods"
-    fullname: >-
-      Elle💞💞💞
-    bio: >-
-      remember to smile pfp by @lemonidoodles
+      Use code TIKTOK for 10% off! DM me on Etsy for custom bracelets :)
     location: "United States"
-    followers: 138100
-    engagement: 1999
-    commentsToLikes: 0.046133
-    id: ck8tri1piqyjq0j782xhvakge
+    followers: 13200
+    engagement: 2097
+    commentsToLikes: 0.033625
+    id: ckal665y29j1a0i78f8v3jkf1
     verified: false
-    hashtags: "#unwrapthedeals, #relatable, #storytime, #showupshowoff"
-  - username: "dessin_elise14"
+    hashtags: "#artist, #fyp, #foryoupage, #etsyseller"
+  - username: "newtdaily"
+    fullname: >-
+      Newtdaily
+    bio: >-
+      
+    location: "United States"
+    followers: 198300
+    engagement: 959
+    commentsToLikes: 0.031034
+    id: ckb9dnkye0w6l0j23sp61ytou
+    verified: false
+    hashtags: "#cleaning, #beforeafter, #junkjunkies, #hoarding"
+  - username: "jaimebiendessinerlol"
     fullname: >-
       Elise☁
     bio: >-
-      J'aime bien dessiner lol 2631 gens qui aiment les raisins 🍇
+      J'aime bien dessiner lol 2592 gens qui aiment les raisins 🍇
     location: "France"
-    followers: 2625
-    engagement: 2828
-    commentsToLikes: 0.061711
+    followers: 2589
+    engagement: 2634
+    commentsToLikes: 0.071503
     id: ckbesut95bmic0j236nk7rkkj
     verified: false
-    hashtags: "#pourtoi, #pourtoii, #frog, #duo"
-  - username: "kokoobetz"
+    hashtags: "#deep, #foryou, #weird, #paint"
+  - username: "babouit"
     fullname: >-
-      Koko
+      Barbara D'alessandro
     bio: >-
-      Insta- kristenobetz Venmo- Kristen-Obetz Etsy- kokoobetz
-    location: "United States"
-    followers: 505000
-    engagement: 1726
-    commentsToLikes: 0.014834
-    id: ckbw7acccypwt0j23z7m5zl3w
+      Barbara, Lara e Lele, Emi, Tsira, Susy. Youtube +195k: Barbara D'alessandro
+    location: "Italy"
+    followers: 6418
+    engagement: 1419
+    commentsToLikes: 0.048692
+    id: ckcjfzb8hbczl0j23fx639vp2
     verified: false
-    hashtags: "#puppies, #painting, #animals, #art"
+    hashtags: "#straykids, #itzy, #bts, #duetto"
 ---

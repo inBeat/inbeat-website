@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In New York in 2023
+title: Top 10 Home Decor TikTok Influencers In New York In 2023
 description: >-
-  Find top home decor TikTok influencers in New York in 2023. Most popular hashtags: #homedecor #newyork #fyp #foryou.
+  Find top home decor TikTok influencers in New York in 2023. Most popular hashtags: #nyc #fyp #homedecor #newyorkcity.
 platform: TikTok
-hits: 39
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 39 TikTok influencers like this in New York, United States for you to connect with.
+hits: 30
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 30 TikTok influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "kayleighskloset"
+  - username: "brittanyleighball"
     fullname: >-
-      kayleighskloset
+      Brittany Leigh
     bio: >-
-      26 | New York | Beauty Publicist Unfiltered version of @kayleighskloset
+      NYC // lifestyle & funny stuff More on IG 👋🏼 @brittanyleighball
     location: "United States"
-    followers: 14700
-    engagement: 493
-    commentsToLikes: 0.017452
-    id: ckcv2ovnwo6tk0j23x7o8nuc8
+    followers: 34700
+    engagement: 690
+    commentsToLikes: 0.023851
+    id: ckbf2zqacqbjx0j23bx39l3a5
     verified: false
-    hashtags: "#dating, #nyceats, #dialitforward, #nycspots"
-  - username: "abbeysboard"
+    hashtags: "#newyorkcity, #mothersday, #millionactsoflove, #makemomepic"
+  - username: "themarianajames"
     fullname: >-
-      abbey
+      MarianaJames
     bio: >-
-      fashion lifestyle | she/her abbeysboard@gmail.com
+      Husband and Wife Tech Reviews 🖤 💌TheMarianaJames@gmail.com
     location: "United States"
-    followers: 25200
-    engagement: 2146
-    commentsToLikes: 0.009332
-    id: ckdc1hvsofqgw0j23afr0x2w7
+    followers: 29400
+    engagement: 667
+    commentsToLikes: 0.035810
+    id: ckacjmts2879q0i78znvbjtgw
     verified: false
-    hashtags: "#home, #fashiontips, #outfitinspo, #styleinspo"
-  - username: "bakerliam094"
+    hashtags: "#techreview, #review, #unboxing, #tech"
+  - username: "zharmb"
     fullname: >-
-      Liam Baker
+      🖤ZMB🤍
     bio: >-
-      IG: Liam_baker94 🌴Fort Lauderdale🌊
+      Mom, Wife,Nurse 💊💉 Pinay 🇵🇭New Yorker 🇺🇸 🗽 IG. zharmb21
     location: "United States"
-    followers: 16300
-    engagement: 443
-    commentsToLikes: 0.023558
-    id: ckdn347q7dq7v0j2300d2ubmk
+    followers: 11300
+    engagement: 509
+    commentsToLikes: 0.056087
+    id: ckc2yh7b1pm7g0j235ujdarly
     verified: false
-    hashtags: "#fyp, #florida, #foryou, #foryoupage"
-  - username: "sr7afi"
+    hashtags: "#fyp, #diy, #tiktokpinoy, #pinoy"
+  - username: "mr_sykes3x"
     fullname: >-
-      Rafi
+      Christopher Sykes
     bio: >-
-      🔥😈🔥
+      FB:Christopher Sykes. 👻mrsykes3x 📸Christopherjosephx Laugh.smile.enjoy🤩NYC
     location: "United States"
-    followers: 34200
-    engagement: 852
-    commentsToLikes: 0.022559
-    id: ckce5zfw5kaqc0j23smb7eg0k
+    followers: 18200
+    engagement: 1721
+    commentsToLikes: 0.102959
+    id: ckbkmy534gvoc0j239z0ysh1p
     verified: false
-    hashtags: "#vlog, #viral, #srt, #vibes"
-  - username: "kyle.speizio"
+    hashtags: "#funny, #duet, #4u, #foru"
+  - username: "naty_michele"
     fullname: >-
-      kyle.speizio
+      Naty Michele
     bio: >-
-      NEW YORK 🇮🇹 17
+      storytelling. solo travels. my NYC apartment. Kiko. a little bit of everything.
     location: "United States"
-    followers: 6977
-    engagement: 1008
-    commentsToLikes: 0.059783
-    id: ckbeti20ecidt0j23a6jv74cw
+    followers: 10100
+    engagement: 1204
+    commentsToLikes: 0.064904
+    id: cka0jipeii4up0i78id7wrcrm
     verified: false
-    hashtags: "#gta5, #traxxas, #healthheroes, #neverfitin"
-  - username: "gia.disanto1"
+    hashtags: "#nyc, #homedecor, #makeitmagical, #holidayvibes"
+  - username: "sydneygilles2"
     fullname: >-
-      Gia Disanto
+      Sydney Gilles
     bio: >-
-      🇦🇲NEW YORK🇮🇹 Insta@gia.disanto
+      army bomb tutorial on yt ⬆️ I like kpop and clothes 😗✌🏽 apartment stuff ⬇️
     location: "United States"
-    followers: 22000
-    engagement: 1133
-    commentsToLikes: 0.033518
-    id: ckb9ie8qf8pz50j23pl8g1tx7
+    followers: 6881
+    engagement: 1375
+    commentsToLikes: 0.023581
+    id: ckbfb1lo62sh90j23320vk1oz
     verified: false
-    hashtags: "#inthehouseparty, #cars, #mustang, #coupledup"
-  - username: "tourdelust"
+    hashtags: "#manhattan, #apartment, #dayinmylife, #fyp"
+  - username: "itsagracebigworld"
     fullname: >-
-      Christine Tran
+      Grace Zantua
     bio: >-
-      New York things, travel, photography & just having fun. Follow me on IG
+      California ☼ Miami, FL Passionately curious. 🇵🇭
     location: "United States"
-    followers: 105700
-    engagement: 784
-    commentsToLikes: 0.026124
-    id: ck8qoxda80x640j78hv2la75o
+    followers: 15400
+    engagement: 1135
+    commentsToLikes: 0.028533
+    id: ckbfgr4luc1ja0j23rdvi34bs
     verified: false
-    hashtags: "#hellofall, #fallfoliage, #autumn, #tiktokpartner"
-  - username: "sarahlynnmonroe"
+    hashtags: "#travel, #destinationdepop, #millionactsoflove, #diy"
+  - username: "shotzbyalex"
     fullname: >-
-      Sarahlyn Monroe
+      Alex Frank
     bio: >-
-      just my real life enjoy Nomadic New Yorker ☁️ model, artist, lowkey burnout ⚰️
+      ⚡️NYC photographer⚡️ shop my presets ⬇️
     location: "United States"
-    followers: 8398
-    engagement: 1082
-    commentsToLikes: 0.036045
-    id: ck90xz1nv8md70j78l306lmua
+    followers: 258100
+    engagement: 1326
+    commentsToLikes: 0.010656
+    id: ck94nksjs78a70j78pr2mv23c
     verified: false
-    hashtags: "#yungblud, #foryou, #fyp, #tiktokdiy"
-  - username: "newyorkshenanigans"
+    hashtags: "#photomagic, #photoshoot, #fashion, #photographer"
+  - username: "abby.silverman"
     fullname: >-
-      newyorkshenanigans
+      Abigail Silverman
     bio: >-
-      Angel & Ja - Real New Yorkers showin a side of NYC most people don't get to see⬇
+      The Devil Wears Prada IRL 👠 Digital Creative Director @Cosmopolitan
     location: "United States"
-    followers: 16200
-    engagement: 1295
-    commentsToLikes: 0.022042
-    id: ckb9hm3v27c090j23peqh5pt3
-    verified: false
-    hashtags: "#bts, #foryou, #newyorkcity, #funny"
-  - username: "publyssity"
-    fullname: >-
-      publyssity
-    bio: >-
-      Alyssa Amoroso 🗽 NYC 🎙 The Publyssity Podcast ☕️ Celeb tea ✨ Join my #TeaTribe
-    location: "United States"
-    followers: 224500
-    engagement: 1117
-    commentsToLikes: 0.029992
-    id: ck9m1084lcu2q0j78ac1fdz65
+    followers: 41000
+    engagement: 890
+    commentsToLikes: 0.037661
+    id: ckacbpyn3hqhf0i78mre9iywy
     verified: true
-    hashtags: "#newyork, #nyc, #newyorker, #nycapartmenttour"
+    hashtags: "#minivlog, #girlboss, #corporate, #careertiktok"
+  - username: "homeworthy"
+    fullname: >-
+      Homeworthy
+    bio: >-
+      IG: AlisonKenworthy ☝️ 3x Emmy Award Winner The place for design + home tours
+    location: "United States"
+    followers: 75700
+    engagement: 867
+    commentsToLikes: 0.019168
+    id: ck8hj5g1489ye0j78andu2k5l
+    verified: false
+    hashtags: "#hometour, #nyc, #homedecor, #apartment"
 ---

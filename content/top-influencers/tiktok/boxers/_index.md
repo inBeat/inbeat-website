@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers TikTok Influencers in 2023
+title: Top 10 Boxers TikTok Influencers In 2023
 description: >-
-  Find top boxers TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryou #foryoupage.
+  Find top boxers TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
-hits: 428
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 428 TikTok influencers like this for you to connect with.
+hits: 445
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 445 TikTok influencers like this for you to connect with.
 profiles:
   - username: "boxerjatinmo79"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       BOXER 
     location: "India"
-    followers: 2571
-    engagement: 3575
-    commentsToLikes: 0.018796
+    followers: 2570
+    engagement: 3624
+    commentsToLikes: 0.017668
     id: ckbranewbownr0j23itx8mw3a
     verified: false
     hashtags: "#duet, #photomagic"
@@ -25,60 +25,36 @@ profiles:
     bio: >-
       A Florida girl with a fuzzy ❤ shaped nose. I ❤ flowers & my Boxer dog sister.
     location: "United States"
-    followers: 252200
-    engagement: 3005
-    commentsToLikes: 0.059401
+    followers: 280600
+    engagement: 2557
+    commentsToLikes: 0.075087
     id: ck81s1ikspbwb0j78zwuocgec
     verified: false
-    hashtags: "#ilovecats, #weirdcat, #socute, #catsruletheworld"
-  - username: "theservicemutts"
-    fullname: >-
-      Ella + Maddie
-    bio: >-
-      Ella | she/her Maddie | boxer mix + medical alert K9 @servicek9collab✨ ⬇️MERCH⬇️
-    location: "United States"
-    followers: 291400
-    engagement: 2265
-    commentsToLikes: 0.039636
-    id: ck8z4891jcqpd0j78nr4ok8ij
-    verified: false
-    hashtags: "#foryou, #dog, #servicedog, #servicedogs"
-  - username: "famouzcj"
-    fullname: >-
-      C.j🤍🦋
-    bio: >-
-      Cj 20❤️ boxer at keppner’s boxing🥊 I don’t post fights cuz TikTok delete vids
-    location: "United States"
-    followers: 162700
-    engagement: 3560
-    commentsToLikes: 0.310155
-    id: ckcdnm649atp40j23lgn19u46
-    verified: false
-    hashtags: "#foryou, #fyp, #foryoupage, #whatspoppin"
-  - username: "realbabygee569"
-    fullname: >-
-      Babygee
-    bio: >-
-      Sc:Babygee569 Boxer🥊💫 Michigan 60k? 19🌚
-    location: "United States"
-    followers: 64900
-    engagement: 2263
-    commentsToLikes: 0.059056
-    id: ckbaot2iffh2y0j239x0ysy4q
-    verified: false
-    hashtags: "#xyzbca, #duet, #stitch, #fyp"
+    hashtags: "#funnypets, #tiktokcats, #boopmynose, #catsrule"
   - username: "imbackyerrr"
     fullname: >-
       Cucuy0f1cial
     bio: >-
       About a few months away from this app and I’m back IL📍 Boxer 🥊 Mexican🇲🇽
     location: "United States"
-    followers: 6276
-    engagement: 1767
-    commentsToLikes: 0.066193
+    followers: 6177
+    engagement: 1486
+    commentsToLikes: 0.146453
     id: ckbw4p0d2xnc10j234qewkrcu
     verified: false
-    hashtags: "#juliocesarchavez, #fyp, #mexico, #boxing"
+    hashtags: "#fyp, #boxing, #mexico, #juliocesarchavez"
+  - username: "famouzcj"
+    fullname: >-
+      C.j🤍🦋
+    bio: >-
+      Cj 20❤️ boxer🥊
+    location: "United States"
+    followers: 160600
+    engagement: 3225
+    commentsToLikes: 0.265086
+    id: ckcdnm649atp40j23lgn19u46
+    verified: false
+    hashtags: "#boxing, #foryou, #fyp, #foryoupage"
   - username: "boxer_chori45"
     fullname: >-
       💯🥊 Boxer 🔥
@@ -86,20 +62,44 @@ profiles:
       WANT health tips🔥 FOLLOW ME🔥 WANT to join🔥INDIAN ARMY🔥 YES I m 🥊 BOXER🥊
     location: "India"
     followers: 48600
-    engagement: 1223
-    commentsToLikes: 0.071295
+    engagement: 1219
+    commentsToLikes: 0.071164
     id: cka0srrgzmrc40i78k4a8fsn6
     verified: false
-    hashtags: "#swagstepchallenge, #boxer, #sharethecare, #lovegoals"
+    hashtags: "#love, #duet, #lovegoals, #myntraeorschallenge"
+  - username: "theservicemutts"
+    fullname: >-
+      The Service Mutts
+    bio: >-
+      boxer mix + medical alert K9 Ella | Handler 📍Illinois based!
+    location: "United States"
+    followers: 294300
+    engagement: 2035
+    commentsToLikes: 0.029644
+    id: ck8z4891jcqpd0j78nr4ok8ij
+    verified: false
+    hashtags: "#medicalalertdog, #dogsoftiktok, #servicedogs, #foryou"
+  - username: "j.wavy2k"
+    fullname: >-
+      Jessie guerrero ✞
+    bio: >-
+      Professional boxer 2-0 (1KO)🥊 California GOD FIRST ✞
+    location: "United States"
+    followers: 65000
+    engagement: 2411
+    commentsToLikes: 0.032981
+    id: ckbkipphnb9450j23637yrsiw
+    verified: false
+    hashtags: "#zxycba, #bayarea, #oldies, #fyp"
   - username: "mr.spyda"
     fullname: >-
       Mr Keys
     bio: >-
       TV Personality | Pro Boxer/MMA Fighter | Marvel Stuntman The Real Spider Man
     location: "United States"
-    followers: 3653
-    engagement: 1448
-    commentsToLikes: 0.048171
+    followers: 3656
+    engagement: 1391
+    commentsToLikes: 0.048109
     id: ck8hqbh773cd70j78zm0g5p5t
     verified: false
     hashtags: "#duet, #foryoupage, #fyp, #beanfetish"
@@ -109,22 +109,22 @@ profiles:
     bio: >-
       Jalisco 🇲🇽/ LA 🇺🇸 Boxer 🥊 Nada de aqui es serio todo es mame :b
     location: "United States"
-    followers: 3687
-    engagement: 718
-    commentsToLikes: 0.101998
+    followers: 3662
+    engagement: 679
+    commentsToLikes: 0.077905
     id: cka66lkibhff50i78xctt6fjz
     verified: false
-    hashtags: "#memesmexicanos, #gracioso, #divertido, #gulag"
+    hashtags: "#gulag, #mexico, #memes, #memesmexicanos"
   - username: "thelifeofhercandmag"
     fullname: >-
       Hercules & Magnus 
     bio: >-
       Big bro: Hercules the Pittie mastiff mix. Little bro: Magnus the boxer hound mix
     location: "United States"
-    followers: 78300
-    engagement: 2342
-    commentsToLikes: 0.008849
+    followers: 79300
+    engagement: 2062
+    commentsToLikes: 0.008472
     id: ckb9pnyznks980j23u9k816qo
     verified: false
-    hashtags: "#pitbull, #petsoftiktok, #fyp, #ghostmode"
+    hashtags: "#pittiesoftiktok, #fyp, #rescuedog, #switchthechobaniflip"
 ---

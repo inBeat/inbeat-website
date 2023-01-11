@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Argentina in 2023
+title: Top 10 Cooking Instagram Influencers In Argentina In 2023
 description: >-
-  Find top cooking Instagram influencers in Argentina in 2023. Most popular hashtags: #cooking #foodie #food #foodporn.
+  Find top cooking Instagram influencers in Argentina in 2023. Most popular hashtags: #cooking #recetas #food #instafood.
 platform: Instagram
-hits: 43
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 43 Instagram influencers like this in Argentina for you to pitch.
+hits: 47
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 47 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
+  - username: "agusshilton"
+    fullname: >-
+      A G U S T I N A  S H I L T O N
+    bio: >-
+      🦋 diseñadora de indumentaria / UBA buenos aires / ARG @cookingwithagus_
+    location: "Argentina"
+    followers: 3293
+    engagement: 1239
+    commentsToLikes: 0.016893
+    id: ck0w30723qz1u0i19pkcz457n
+    verified: false
+    hashtags: "#qarentena"
   - username: "cris_baez"
     fullname: >-
       Cristina Báez de Cid
     bio: >-
       Cocina • Tips • Hogar • Maternidad Me gusta cocinar y lo comparto en @cookingwithcrisdr 🍳
     location: "Argentina"
-    followers: 51175
-    engagement: 364
-    commentsToLikes: 0.033560
+    followers: 53264
+    engagement: 198
+    commentsToLikes: 0.022782
     id: ck5zx3v4a7aj80i145kz5raum
     verified: false
-    hashtags: "#induvecard, #cookingwithcrisdr, #crisbaezhogar, #sorrynotsorry"
+    hashtags: "#productosconstanza, #apoyalonuestro, #cookingwithcrisdr, #crisbaezhogar"
   - username: "lulilapri"
     fullname: >-
       Laura Laprida | Actress 🎬
     bio: >-
-      📩 tommypashkusagencia.com 🇦🇷 📩 darlenekaplan@mac.com 🇺🇸 📩trini@laporteriadejorgejuan.com 🇪🇦 👠 PR @carocolella
+      🏠 Based in Madrid 🇪🇸 📩 @tpagencia 🇦🇷 📩 darlenekaplan@mac.com 🇺🇸 👠 PR @carocolella
     location: "Argentina"
-    followers: 443010
-    engagement: 452
-    commentsToLikes: 0.020067
+    followers: 453215
+    engagement: 384
+    commentsToLikes: 0.013274
     id: ck14jk0f6kqyr0i19dmvi4quv
     verified: true
-    hashtags: "#cooking, #makemehungry, #millennials, #beautytip"
-  - username: "mariabelenluduena"
+    hashtags: "#madrid, #stepbystep, #tutorial, #cooking"
+  - username: "lourdesanchezok"
     fullname: >-
-      MARÍA BELÉN LUDUEÑA 🌎
+      Lourdes Sánchez
     bio: >-
-      Presentadora 📺 Abogada. Ex Reina del Mar. Me ves en @bdaprograma y @juntamedicaok por @americatv Con mi hna, dueñas de @tienda.koi. De MdQ a VILO💜💚
+      Management: @vanepellizzeri ——————————————————— 👩🏻‍🍳 #lulúcocinerita 🔥 #lulúglowlumiere👇🏼
     location: "Argentina"
-    followers: 118116
-    engagement: 438
-    commentsToLikes: 0.048388
-    id: ck0ttoh4z3lx50i19xt87rq2u
+    followers: 2721824
+    engagement: 72
+    commentsToLikes: 0.029914
+    id: ck5cbj86tfjhz0i1108dcgl44
     verified: true
-    hashtags: "#pic, #sun, #happiness, #picoftheday"
-  - username: "salvalacocina"
+    hashtags: "#cooking, #lul, #cocina, #lulu"
+  - username: "michaelmchef8"
     fullname: >-
-      SalvaLaCocina
+      Michael MasterChef 8
     bio: >-
-      Soy Salvador🔥Recetas y tips para que puedas cocinar rico con cosas que tenemos en casa 🔥Fabrico mis elementos de cocina👨🏼‍🏭 📸: propio 👉#salvalacocina
+      🇺🇸🇪🇸 Cuenta oficial de Michael, concursante de #MasterChef8.
     location: "Argentina"
-    followers: 156160
-    engagement: 283
-    commentsToLikes: 0.041578
-    id: ck5c6vjbu6aax0i11h73z4qy0
+    followers: 23872
+    engagement: 885
+    commentsToLikes: 0.038753
+    id: ckaotm47vwgoq0i786qyguc7a
     verified: false
-    hashtags: "#parrilla, #wine, #foodstagram, #friends"
-  - username: "lorenapedace"
-    fullname: >-
-      Lorena Pedace ✨ Lifestyle Deco
-    bio: >-
-      ▫️En Obra, compartiendo mucha info! ▫️Decoración ▫️Recetas #lorenapedaceobra #lorenapedacerecetas
-    location: "Argentina"
-    followers: 59540
-    engagement: 234
-    commentsToLikes: 0.099892
-    id: ck6tv897kkqj90j71nbypnwef
-    verified: false
-    hashtags: "#construccion, #baking, #kitchenlove, #homedecor"
-  - username: "maxiaj"
-    fullname: >-
-      Maximiliano Aurellio Jurado
-    bio: >-
-      • Argentino 🇦🇷 • Lifestyle & Menswear • Foodie 📍Madrid 👉🏼 Collect Moments Not Things
-    location: "Argentina"
-    followers: 12941
-    engagement: 569
-    commentsToLikes: 0.257272
-    id: ckaouf3euzzzh0i786wy76o17
-    verified: false
-    hashtags: "#instafoodie, #madridfood, #domingo, #saludables"
-  - username: "lucasescobareok"
-    fullname: >-
-      Lucas Escobar
-    bio: >-
-      Creador y dueño de el @refugiodelasador 🔥🥩🔪 Cocinero y Parrillero 🇦🇷🔥🔪 Conductor de Cucinare 📺 🥇Campeón 🇦🇷 Asadores 2019🏆 🥇América 2019🏆en 🇨🇱
-    location: "Argentina"
-    followers: 63636
-    engagement: 195
-    commentsToLikes: 0.072862
-    id: ck5zjbniihayy0i14ick7ekig
-    verified: false
-    hashtags: "#instamoments, #fuego, #esencia, #beer"
-  - username: "asadazos"
-    fullname: >-
-      Asadazos
-    bio: >-
-      🔥 | Amante del asado en toda expresión 🔥 | Creador de contenido 🔥 | Recetas en video 🔥 | Consultas vía md
-    location: "Argentina"
-    followers: 33466
-    engagement: 179
-    commentsToLikes: 0.045435
-    id: ckf5lvfr3r6oc0j23x2g2cogc
-    verified: false
-    hashtags: "#parrillada, #carne, #parrilleros, #grilledmeat"
-  - username: "elclub_delasado"
-    fullname: >-
-      𝔼𝕝 ℂ𝕝𝕦𝕓 𝔻𝕖𝕝 𝔸𝕤𝕒𝕕𝕠
-    bio: >-
-      🏆| Eʟ ᴍᴇᴊᴏʀ ᴄʟᴜʙ ᴅᴇʟ ᴍᴜɴᴅᴏ🥇🌏 🔥| Cᴏɴ ʟᴀ ᴍɪꜱɪÓɴ ᴅᴇ ᴅɪꜰᴜɴᴅɪʀ ɴᴜᴇꜱᴛʀᴀ ᴍÁꜱ ʟɪɴᴅᴀ ᴛʀᴀᴅɪᴄɪᴏɴ 🇦🇷🥩🍷 🔥| ᄃӨПƬΣПIDӨ PЯӨPIӨ 🔥 🤜🤛
-    location: "Argentina"
-    followers: 127946
-    engagement: 169
-    commentsToLikes: 0.047203
-    id: ck9hbq0uihz5f0j78bziv6lqv
-    verified: false
-    hashtags: "#cookingwithfire, #bbq, #chinchulines, #foodie"
+    hashtags: "#instagood, #shineiberia, #gaybarcelona, #american"
   - username: "javirosemberg"
     fullname: >-
       Javier Rosemberg
     bio: >-
       Javi Rosemberg Locutor y “Cocinero” Contacto: @julianajuve
     location: "Argentina"
-    followers: 485399
-    engagement: 336
-    commentsToLikes: 0.021433
+    followers: 593417
+    engagement: 534
+    commentsToLikes: 0.147804
     id: ck6tvh7c0m7ms0j71vmiyu8vy
     verified: false
-    hashtags: "#receta, #foodpic, #cook, #recetas"
+    hashtags: "#comidacasera, #recetasaludable, #recetas, #cocinafacil"
+  - username: "lorenapedace"
+    fullname: >-
+      Lorena Pedace ✨ Lifestyle Deco
+    bio: >-
+      ▫️En Obra, compartiendo mucha info! ▫️Decoración ▫️Recetas #lorenapedaceobra #lorenapedacerecetas
+    location: "Argentina"
+    followers: 70518
+    engagement: 222
+    commentsToLikes: 0.072239
+    id: ck6tv897kkqj90j71nbypnwef
+    verified: false
+    hashtags: "#kitchendesign, #sunnyislesbeach, #playa, #viajes"
+  - username: "maxiaj"
+    fullname: >-
+      Maximiliano Aurellio Jurado
+    bio: >-
+      • Argentino 🇦🇷 • Lifestyle & Menswear • Foodie 📍Madrid 👉🏼 Collect Moments Not Things 🏠 Club House : maxiaj
+    location: "Argentina"
+    followers: 14563
+    engagement: 435
+    commentsToLikes: 0.246624
+    id: ckaouf3euzzzh0i786wy76o17
+    verified: false
+    hashtags: "#realfoodeer, #recetasaludable, #fit, #realfood"
+  - username: "lucasescobareok"
+    fullname: >-
+      Lucas Escobar
+    bio: >-
+      Creador y dueño de el @refugiodelasador 🔥🥩🔪 Cocinero y Parrillero 🇦🇷🔥🔪 Conductor de Cucinare 📺 🥇Campeón 🇦🇷 Asadores 2019🏆 🥇América 2019🏆en 🇨🇱
+    location: "Argentina"
+    followers: 64964
+    engagement: 179
+    commentsToLikes: 0.061126
+    id: ck5zjbniihayy0i14ick7ekig
+    verified: false
+    hashtags: "#instapic, #cooklover, #cocinaale, #cooking"
+  - username: "salvalacocina"
+    fullname: >-
+      SalvaLaCocina
+    bio: >-
+      Soy Salvador🔥Recetas y tips para que puedas cocinar rico con cosas que tenemos en casa 🔥Fabrico mis elementos de cocina👨🏼‍🏭 📸: propio 👉#salvalacocina
+    location: "Argentina"
+    followers: 276336
+    engagement: 216
+    commentsToLikes: 0.031695
+    id: ck5c6vjbu6aax0i11h73z4qy0
+    verified: false
+    hashtags: "#foodlover, #bbqbrasil, #wine, #vino"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters Instagram Influencers In France in 2023
+title: Top 10 Painters Instagram Influencers In France In 2023
 description: >-
-  Find top painters Instagram influencers in France in 2023. Most popular hashtags: #painting #art #illustration #sketch.
+  Find top painters Instagram influencers in France in 2023. Most popular hashtags: #painting #drawing #illustration.
 platform: Instagram
-hits: 291
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 291 Instagram influencers like this in France for you to connect with.
+hits: 309
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 309 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "erikahausser"
     fullname: >-
-      Artistic Content Creator
+      Erika Hauser Content Creator
     bio: >-
-      🦢Fashion | Painter | Content creator 🏹Paris based ✨Personal styling ❤️CEO @eherikahauser
+      🦢Fashion | Painter | Content creator 🏹Paris based ✨Personal styling 🤍CEO @eherikahauser ☁️ I own all my pictures
     location: "France"
-    followers: 65247
-    engagement: 225
-    commentsToLikes: 0.054385
+    followers: 77445
+    engagement: 404
+    commentsToLikes: 0.047501
     id: ck5zp45orrydt0i14610hfqp8
     verified: false
-    hashtags: "#whitehorse"
+    hashtags: ""
+  - username: "novae.lita"
+    fullname: >-
+      Novaé Lita
+    bio: >-
+      ⚜𝑃𝑎𝑟𝑖𝑠𝑖𝑎𝑛 𝑃𝑜𝑒𝑡 🇫🇷 ”ROCHE” OUT ♪ Author, Painter, Songwriter, Aspie💡🎨🎙✍🏻 ☥ • Wagram Music Labrea🦩Mgmt •Colligence Mon 📖 « 𝑃𝑜𝑒́𝑠𝑖𝑒 𝐿𝑖𝑏𝑟𝑒 » en Fnac
+    location: "France"
+    followers: 126715
+    engagement: 258
+    commentsToLikes: 0.017368
+    id: ckap899vjndp50i78lxvmorkv
+    verified: false
+    hashtags: "#beauxarts, #sebastientellier, #roche, #cannes2021"
+  - username: "rahazul"
+    fullname: >-
+      RAH Azul
+    bio: >-
+      Painter 🎨 Jalisco, Zapotlanejo Roots 🇲🇽 @xochipillivisions Est. 2016 #xochipillivisions SFV📍LA 🌎 My shop 👇🏽
+    location: "France"
+    followers: 28939
+    engagement: 575
+    commentsToLikes: 0.014270
+    id: ck5hh4gk96c450i11hdzdoimn
+    verified: false
+    hashtags: "#reels, #chicano, #rahazul, #indigenous"
   - username: "koga.one"
     fullname: >-
       Matthieu Koga
     bio: >-
-      French painter #kogaone Agokone@gmail.com Gallery : @galerieurbaine @artefact.galerie
+      French painter #kogaone Agokone@gmail.com Gallery : @fontaineblow_gallery @galerieurbaine @artefact.galerie
     location: "France"
-    followers: 7094
-    engagement: 691
-    commentsToLikes: 0.033104
+    followers: 7772
+    engagement: 745
+    commentsToLikes: 0.036404
     id: ck6014w4reua60i14aedlbbqs
     verified: false
-    hashtags: "#kogaone, #gallery, #ballpendrawing, #graffiticharacter"
-  - username: "joanniehoule_art"
+    hashtags: "#realistpainting, #oilpaint, #illustration, #graffiticharacter"
+  - username: "bernardbrett9738"
     fullname: >-
-      Joannie Houle
+      Bernard Brett
     bio: >-
-      ✿ Painter & Illustrator ✿ Lover of flowers and pretty patterns ✿ Inquiries | joanniehouleart@gmail.com ONLINE SHOP + LINKS 👇🏻
+      Painter/Photographer/walnut producer @bernardbrettpaintings
     location: "France"
-    followers: 32503
-    engagement: 738
-    commentsToLikes: 0.049822
-    id: ck0u7iu0b4vpg0i19v75vgjvy
+    followers: 6827
+    engagement: 1634
+    commentsToLikes: 0.198871
+    id: ck0w1i7xdjh330i19yvuf91tz
     verified: false
-    hashtags: "#gouache, #surfacepatterndesign, #inspiredbynature, #fallvibes"
-  - username: "ehssan.gholami"
+    hashtags: "#francenature, #nelleaquitaine, #perigordnoirsuddordogne, #sunsets"
+  - username: "jonathanchanpainting"
     fullname: >-
-      Ehssan Gholami
+      Jonathan Shekon Chan
     bio: >-
-      “Visual Artist” I am not a painter, illustrator or a designer I just use a different variety of technics to express my idea and beliefs
+      Drawing | Painting London . Contemporary British Portrait Painters member @thecbpp
     location: "France"
-    followers: 3222
-    engagement: 3223
-    commentsToLikes: 0.086832
-    id: ck55m0lub2wm20i11vsoo5c37
+    followers: 4085
+    engagement: 875
+    commentsToLikes: 0.048062
+    id: ck9h9qmyx9krm0j78cxt4a0z2
     verified: false
-    hashtags: "#contemporaryart, #contemporarypainting, #visualartist, #oiloncanvas"
+    hashtags: "#oilpainting, #figurativepainting, #sketchbook, #observationalpainting"
   - username: "sweetvanlife"
     fullname: >-
-      🇫🇷 Ben & Poppy 🚐💨🎥🗺
+      🇫🇷  𝔹𝕖𝕟 & ℙ𝕠𝕡𝕡𝕪  🚐
     bio: >-
-      • Painter & Traveler • 🎥 @insta360 One R • Ambassador @michelinvoyage 🗺 🛤🏞 • Love to make Reels, shorts trips & improving my van
+      • Painter & Traveler • 🎥 IPhone & @insta360 One R • Ambassador @michelinvoyage @insta360 • Love to make Reels, shorts trips & improving my van
     location: "France"
-    followers: 74291
-    engagement: 1460
-    commentsToLikes: 0.024300
+    followers: 73539
+    engagement: 1395
+    commentsToLikes: 0.024446
     id: ck5zpvgqrtfdc0i14e0r2drgm
     verified: false
-    hashtags: "#roadtrip, #diy, #vanlifeideas, #travel"
+    hashtags: "#roadtrip, #fiat238, #insta360, #vanlife"
   - username: "_robin_art"
     fullname: >-
       RobinDessin ✏️
     bio: >-
       👨‍🎨 Artist, painter, illustrator ✍️ Character designer, doodler 🇫🇷 Paris 🎥YouTube :
     location: "France"
-    followers: 27264
-    engagement: 883
-    commentsToLikes: 0.024477
+    followers: 26067
+    engagement: 904
+    commentsToLikes: 0.025186
     id: ckapb7h3lyv0o0i78otc5qwu1
     verified: false
-    hashtags: "#sketchcards, #doodle, #sketching, #copicmarker"
+    hashtags: "#doodlearts, #copic, #doodlesketch, #sketchcards"
+  - username: "joanniehoule_art"
+    fullname: >-
+      Joannie Houle
+    bio: >-
+      ✿ Illustrator, Painter, Lover of flowers ✿ Montreal, Canada ✿ Inquiries | joanniehouleart@gmail.com Shop + Links :
+    location: "France"
+    followers: 44715
+    engagement: 643
+    commentsToLikes: 0.019128
+    id: ck0u7iu0b4vpg0i19v75vgjvy
+    verified: false
+    hashtags: "#workinprogress, #patternlove, #pattern, #surfacepatterndesign"
   - username: "crazymurieli"
     fullname: >-
       Muriel Massin
     bio: >-
       French intuitive lyrical abstract painter. All pieces are for sale by dm. Some pieces are on ARTSPER, www.artsper.com, artist Muriel Massin.
     location: "France"
-    followers: 19870
-    engagement: 373
-    commentsToLikes: 0.069151
+    followers: 20331
+    engagement: 351
+    commentsToLikes: 0.098355
     id: ck8t4g0go6nwr0j78rwq8eapm
     verified: false
-    hashtags: "#abstractexpressionism, #abstractexpressionist, #abstractpromoter, #acrylic"
-  - username: "sadeckwaff"
-    fullname: >-
-      Sadeck
-    bio: >-
-      MOVEMENT DESIGNER 👩‍🎨 💡Choreographer 💡Artistic director 💡Dancer 💡Teacher 💡Painter God 1st
-    location: "France"
-    followers: 95835
-    engagement: 2486
-    commentsToLikes: 0.029201
-    id: ck0vxjrzyz8o30i19epuma9md
-    verified: false
-    hashtags: "#popping, #montpellier, #worldofdance, #dance"
-  - username: "sandrine_lmp5"
-    fullname: >-
-      sandrine_lmp5
-    bio: >-
-      ☁️ Foodstyling & Painter ☁️LMP Family ☁️Orders & collab : sandrine@gateaux-et-toiles.com ☁️ Recipes : www.gateaux-et-toiles.com
-    location: "France"
-    followers: 34384
-    engagement: 220
-    commentsToLikes: 0.084235
-    id: ck6u55dzj7oxk0j71e0tw58it
-    verified: false
-    hashtags: "#vacances, #pavlova, #thefeedfeed, #ellefoodteam"
-  - username: "golden_brown_tattoo"
-    fullname: >-
-      Golden Brown Tattoo
-    bio: >-
-      RAINMAN. Painter Artist and tattooist Studio privé à 30min de Grenoble (38), France. Neojapanese ❤️ Floral ❤️ Animal Contact: via DM.
-    location: "France"
-    followers: 18328
-    engagement: 773
-    commentsToLikes: 0.028073
-    id: ck8sz48u1n3t80j78gx6ra1sl
-    verified: false
-    hashtags: "#cherryblossomtattoo, #japanesetattoo, #irezumicollective, #japaneseink"
+    hashtags: "#todaysartreport, #lyrical, #canvas, #abstractpromoter"
 ---

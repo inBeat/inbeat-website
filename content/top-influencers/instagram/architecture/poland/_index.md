@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Poland in 2023
+title: Top 10 Architecture Instagram Influencers In Poland In 2023
 description: >-
-  Find top architecture Instagram influencers in Poland in 2023. Most popular hashtags: #warszawa #artystycznapodroz #stylizacja #igerspoland.
+  Find top architecture Instagram influencers in Poland in 2023. Most popular hashtags: #architecture #interior #interiordesign #instagood.
 platform: Instagram
-hits: 203
+hits: 165
 text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 203 Instagram influencers like this in Poland for you to collaborate.
+text_bottom: Our database holds 165 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "beata_walczynska"
+  - username: "maartizle"
     fullname: >-
-      
+      𝐌𝐀𝐑𝐓𝐘𝐍𝐀 𝐉𝐀𝐂𝐇𝐈𝐌𝐄𝐊  ♛
     bio: >-
-      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
+      🤍 Łódź / Legnica 🤍 Curly girl 🤍 Architecture student PŁ
     location: "Poland"
-    followers: 11226
-    engagement: 1673
-    commentsToLikes: 0.066285
-    id: ck13azgmrsy100i19khq0qwde
+    followers: 6165
+    engagement: 433
+    commentsToLikes: 0.035691
+    id: ck14l3h1vsnsf0i194j5kh50i
     verified: false
-    hashtags: "#rabowice, #summertime, #poznancity, #amateurphotography"
-  - username: "tofje_"
-    fullname: >-
-      Asia
-    bio: >-
-      Chyba fit 🤷🏼‍♀️ ▫️ #ArchitectureStudent & #gymlover ▫️ @yosiifit ➡️🤸🏼‍♀️🏋🏼‍♀️ ▫️ @gym_glamour GIRL✨ -10% -> tofje10 ▫️ 📥iwanney000@gmail.com
-    location: "Poland"
-    followers: 384019
-    engagement: 724
-    commentsToLikes: 0.012825
-    id: ck14hbedp9gzv0i19nr2hj4uc
-    verified: false
-    hashtags: "#halloween, #gymgirl, #trening, #workout"
-  - username: "osipowiczka"
-    fullname: >-
-      Kasia Osipowicz
-    bio: >-
-      fashion • beauty • architecture 📍Warszawa 🎬130k yt friends 📩 kontakt.osipowiczka@gmail.com
-    location: "Poland"
-    followers: 39959
-    engagement: 1417
-    commentsToLikes: 0.038582
-    id: ck134tsyvy52i0i19bbzfzohz
-    verified: false
-    hashtags: "#trends2020, #stro, #youtuberka, #styleinspo"
-  - username: "viva_a_viva"
-    fullname: >-
-      𝑲 𝑨 𝑹 𝑶 𝑳 𝑰 𝑵 𝑨
-    bio: >-
-      fashion, beauty, travel, architecture 40 million Youtube views & still counting🖤 ✉️ viva_a_viva@yahoo.com represented by @ivy_creativemanagement
-    location: "Poland"
-    followers: 399292
-    engagement: 1103
-    commentsToLikes: 0.002185
-    id: ck55izqfqvvzh0i11x3suq10s
-    verified: false
-    hashtags: "#ootd, #girl, #paris, #muaythai"
-  - username: "dariianka"
-    fullname: >-
-      𝐷𝐴𝑅𝐼𝐴 🤍
-    bio: >-
-      #Fashion | #Lifestyle | #Beauty ⭐️ Architecture student & Fashion lover Sochaczew ✉️dariiankaa@gmail.com/DM
-    location: "Poland"
-    followers: 28036
-    engagement: 319
-    commentsToLikes: 0.022943
-    id: ck5hq3gvssfjv0i119w6w2lvq
-    verified: false
-    hashtags: "#dodatki, #polishblogger, #torebka, #ootdpl"
+    hashtags: "#instafashion, #car, #kr, #photo"
   - username: "radkm"
     fullname: >-
-      Radosław Kaźmierczak
+      Radosław Kaźmierczak
     bio: >-
       Photographer. Based in Katowice, Cracow and Warsaw (Poland). Eclectic fine art. Portrait. Architecture. Strobist. Prints are available for sale.
     location: "Poland"
-    followers: 7449
-    engagement: 1386
-    commentsToLikes: 0.040921
+    followers: 8263
+    engagement: 1291
+    commentsToLikes: 0.035785
     id: ck5zka9thj3sp0i14c8q5lnyz
     verified: false
-    hashtags: "#polskajestpiekna, #dji, #friendsinperson, #isolation"
-  - username: "philipiakamil"
+    hashtags: "#isolation, #katowicenielizbona, #bnw, #minimalpassion"
+  - username: "ms.ev"
     fullname: >-
-      Kamil Philipiak - Architecture
+      MS.EV
     bio: >-
-      · 👨🏼 I’m Kamil, but you can call me Philip · 🏙 Cracow · 💍 Married · 📸 Dreamy Architecture Interview 👇🏻
+      💭 architecture, hotel goals & lifestyle 🗝 interior designer, owner @msevstudio ✉️ contact | e.ciepielska@gmail.com
     location: "Poland"
-    followers: 3224
-    engagement: 2400
-    commentsToLikes: 0.078016
-    id: ck6u1j7qmm22j0j71mf4g7r7x
+    followers: 14727
+    engagement: 236
+    commentsToLikes: 0.024577
+    id: ck6tomyoteyf10j71uurltnvh
     verified: false
-    hashtags: "#costhings, #tv, #lookingup, #rsa"
-  - username: "modelsoutfit"
+    hashtags: "#balivibes, #mystyle, #bali, #jungle"
+  - username: "interiordesign.games"
     fullname: >-
-      Mo Home - Katarzyna Wietecha
+      Interior Design Games
     bio: >-
-      #architekt #architekturawnętrz #domzdusza #domwparku interior designer & BLOGGER .Remontuję dom z duszą! Momof2 from Gdańsk[architecture].Mgr inż.
+      ▪️Founder by Mert YÜCEL ▪️Tag #interiordesigngames ▪️The most inspiring interior design 👇For Architecture👇
     location: "Poland"
-    followers: 24615
-    engagement: 341
-    commentsToLikes: 0.066149
-    id: ck9we02kei1iq0j78t18i8z8d
+    followers: 387477
+    engagement: 103
+    commentsToLikes: 0.011165
+    id: ck0u68i4818qz0i190armsa2h
     verified: false
-    hashtags: "#interi, #ogrodek, #wn, #plytki"
-  - username: "nagannapanna"
+    hashtags: ""
+  - username: "mlulko"
     fullname: >-
-      Panna
+      Maciek Lulko📍Wrocław
     bio: >-
-      Creative mind | Architecture student | Illustrator ▫️Commissions ▫️Check out my YouTube channel
+      📷Architecture photographer #wroclovefacades
     location: "Poland"
-    followers: 10252
-    engagement: 1278
-    commentsToLikes: 0.023068
-    id: ckaovuz6i679c0i78epu9rkir
+    followers: 5840
+    engagement: 634
+    commentsToLikes: 0.016844
+    id: ck6u1j85im26s0j715c77ww6t
     verified: false
-    hashtags: "#speedpaint, #illustration, #creative, #design"
-  - username: "art_brzo"
+    hashtags: "#archi, #archdaily, #illgrammers, #jj"
+  - username: "labelmagazine"
     fullname: >-
-      Artur Brzozowski
+      LABEL Magazine
     bio: >-
-      | Architecture student | | Warsaw | Poland 🇵🇱 |
+      The bilingual Polish-English magazine of contemporary craft & design. www.facebook.com/labelmagazine #design #trends #architecture #interior #art
     location: "Poland"
-    followers: 4746
-    engagement: 1474
-    commentsToLikes: 0.032711
-    id: ck0vxpwaz04la0i194qcbspzh
+    followers: 49557
+    engagement: 123
+    commentsToLikes: 0.012683
+    id: ck15sd3iycehq0i19pu2q0358
     verified: false
-    hashtags: "#passionpassport, #vzcowarsaw, #symmetrykillers, #dreamermagzine"
+    hashtags: "#architecture, #archilovers, #artistic, #living"
+  - username: "architectureisagoodidea"
+    fullname: >-
+      Architecture is a good idea
+    bio: >-
+      Program na YT o architekturze i sztuce Radosław Gajda i @natalia_aiagi #aiagi #goodidea ⬇️⬇️NASZE KURSY ONLINE⬇️⬇️
+    location: "Poland"
+    followers: 25981
+    engagement: 371
+    commentsToLikes: 0.017649
+    id: ck9wdl3o7g5js0j780kox4w4o
+    verified: false
+    hashtags: "#architectureisagoodidea, #architekturapolska, #historia, #goodidea"
+  - username: "olczaaaaa"
+    fullname: >-
+      𝓐𝓵𝓮𝓴𝓼𝓪𝓷𝓭𝓻𝓪
+    bio: >-
+      ∘ parisian soul ∘ vintage lover ∘ beige aesthetic ∘
+    location: "Poland"
+    followers: 45448
+    engagement: 356
+    commentsToLikes: 0.058001
+    id: ck8t0mi9pskic0j78i3lix9cf
+    verified: false
+    hashtags: "#morning, #beigeaesthetic, #ootd, #warsaw"
+  - username: "paulawuczko"
+    fullname: >-
+      Paulina Wuczko
+    bio: >-
+      ▪️paulaxd50@wp.pl /DM ✉ 📍 Antwerp https://bit.ly/3mS2wIS New post 📸 👇
+    location: "Poland"
+    followers: 17875
+    engagement: 620
+    commentsToLikes: 0.055224
+    id: ck0ubm7frew3k0i19tzsc1mr6
+    verified: false
+    hashtags: "#dlugiewlosy, #flatlay, #belgique, #fashionblogger"
+  - username: "_troosh"
+    fullname: >-
+      Łᴜᴋᴀꜱᴢ | 🅽🅴🆅🅴🆁 🆂🆃🅾🅿 🅴🆇🅿🅻🅾🆁🅸🅽🅶
+    bio: >-
+      🌍 Świat mnie kręci! 😉 🧭 Travel. Eat. Love. Repeat. 🇵🇱 Poland - Silesia - Gliwice 🕵️‍♂️ Zajrzyj na bloga 🧭
+    location: "Poland"
+    followers: 14360
+    engagement: 583
+    commentsToLikes: 0.048405
+    id: ck8t6g6k8dia00j78sk7bydz8
+    verified: false
+    hashtags: "#jesie, #iledelareunion, #weekend, #przyjaciele"
 ---

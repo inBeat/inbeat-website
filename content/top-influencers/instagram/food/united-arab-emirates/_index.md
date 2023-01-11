@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Food Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top food Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #dubaiblogger #dubaiinfluencer.
+  Find top food Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #dubailife #uae.
 platform: Instagram
-hits: 220
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 220 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 177
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 177 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "radhasrevolution"
+  - username: "srdubai"
     fullname: >-
-      Radha Shah
+      Sneha Rebecca / @srdubai
     bio: >-
-      Mrs. India Worldwide UAE 🇮🇳 🇦🇪. Fashion, Fitness, Food & Beauty Blogger For collaboration please DM me
+      #mydubai Food l Fashion l Parenting 🏆 Featured @khaleejtimes @gulfnews @thenationalnews.com @pearlfmuae 🥇 @mydubai website sneharebecca@hotmail.com
     location: "United Arab Emirates"
-    followers: 53596
-    engagement: 412
-    commentsToLikes: 0.233228
-    id: ck5cargq3dzju0i118j7fjm4a
+    followers: 402328
+    engagement: 98
+    commentsToLikes: 0.056637
+    id: ck0tyww4koesb0i19exq4rj4o
     verified: false
-    hashtags: ""
-  - username: "omgsuraiyaa"
+    hashtags: "#numaishwintershow, #dubai, #weddingbells, #weddingseason"
+  - username: "satisfieddubai"
     fullname: >-
-      Suraiya - UAE🇦🇪
+      Satisfied Dubai
     bio: >-
-      •Dubai beauty & food Blogger •For collaboration/ PR - dm or email 📧 • @shein_ar discount code “suraiya15” •Check my YouTube channel 👇
+      I’m not an influencer! I’m just a greedy foodie who loves taking & sharing lots of 📸’s 😂 CONTENT CREATOR | FOODIE 🍲 🌎 🍴 Facebook, Snapchat & Tiktok
     location: "United Arab Emirates"
-    followers: 17937
-    engagement: 426
-    commentsToLikes: 0.070094
-    id: ckap6v36ihgwm0i7831s10hh8
+    followers: 85686
+    engagement: 88
+    commentsToLikes: 0.044555
+    id: ck0w6dtjx83wz0i194pxlzyjs
     verified: false
-    hashtags: "#sharjahblogger, #dubailifestyle, #dubaibeautyblogger, #modestfashion"
-  - username: "sammysreel"
+    hashtags: "#dubairestaurants, #dubaimall, #trendingreels, #satisfieddubai"
+  - username: "ourpassportstory_"
     fullname: >-
-      S A M I N A | ثمينة
+      Surbhi & Nehil | Dubai
     bio: >-
-      📍 Lifestyle | Dubai 🇦🇪 Tv Show Host | Destination Specialist | PR • Style • Food • Travel • Beauty •
+      Travel | Fashion | Food 🗺 14 countries Chartered Accountants ❥ #travelcouple in #dubai
     location: "United Arab Emirates"
-    followers: 59076
-    engagement: 163
-    commentsToLikes: 0.087226
-    id: ck13cqrf81pf60i19h8ewn0ga
+    followers: 7618
+    engagement: 896
+    commentsToLikes: 0.128142
+    id: ck6tyeona3a9p0j71yjimujwa
     verified: false
-    hashtags: "#dubai30x30, #fitnessindxb, #dubaifitness, #dubaifitnesschallenge"
-  - username: "k.alaliii"
+    hashtags: "#journeysofcouples, #passionpassport, #dubailife, #uae"
+  - username: "dubaiholics"
     fullname: >-
-      
+      Hania | Dubai Blogger
     bio: >-
-      ‎‏‎جميع الصور بعدستي ‎‏‎‏Fashion | lifestyle | Food🇦🇪 ‎‏‎
+      All about #mydubai 🇦🇪 Food | Fashion | Lifestyle @zomatouae Level 13 Codes 👇 @shein_ar : A77 @adorawe_official : Hania16 📩 dubaiholic92@gmail.com
     location: "United Arab Emirates"
-    followers: 53887
-    engagement: 161
-    commentsToLikes: 0.214887
-    id: ck138wn5qidni0i19dw6nn2dy
+    followers: 15950
+    engagement: 404
+    commentsToLikes: 0.305120
+    id: ck6ugi8ju362n0j71cfr9ioes
     verified: false
-    hashtags: ""
-  - username: "wranglerson"
-    fullname: >-
-      Jayson Rangel
-    bio: >-
-      Style Food Travel Photography 📍Dubai, UAE Zomato-Super Foodie -9 📩 jaysonreyesrangel@yahoo.com DM for PR/Reviews/Collaboration
-    location: "United Arab Emirates"
-    followers: 6343
-    engagement: 785
-    commentsToLikes: 0.059422
-    id: ck6u26oagq16i0j716wj9g6lp
-    verified: false
-    hashtags: "#uae, #rockformation, #summervacation, #dubaifoodguides"
-  - username: "levytska_ya"
-    fullname: >-
-      Julia 📸 Dubai Based Blogger
-    bio: >-
-      Lifestyle 🔹️ Food 🔹️ Travel 🔹️ Model Blog Ex Emirates Cabin Crew 💄 Жизнь стюардессы после приземления на землю ✈ Made in Ukraine 🇺🇦
-    location: "United Arab Emirates"
-    followers: 23933
-    engagement: 229
-    commentsToLikes: 0.066402
-    id: ck6tkj1v44swj0j71wj69f44y
-    verified: false
-    hashtags: "#levytskaya, #julialevy, #levytskaya2020diary"
-  - username: "myglamgypsy"
-    fullname: >-
-      Rosh
-    bio: >-
-      Beauty | Fashion | Travel | Food | Music 📍: Dubai ↔️ Chicago 🔔 DM for Collabs 💌: myglamgypsy@gmail.com
-    location: "United Arab Emirates"
-    followers: 27578
-    engagement: 138
-    commentsToLikes: 0.076796
-    id: ck0w5yzr8641j0i193jsgznso
-    verified: false
-    hashtags: "#makeupheaven, #modestclothing, #cuteoutfits, #makeupsquad"
+    hashtags: "#reelit, #adorawe, #eidinadorawe, #mydubai"
   - username: "sapna1809"
     fullname: >-
       Sapna Bhambra
     bio: >-
       🇮🇳 🇦🇪 🎂18 Sept My Day. #dubaiblogger #food🥘 #beauty💄 DM or Email for collaboration 📧 sapnabhambra@outlook.com
     location: "United Arab Emirates"
-    followers: 16975
-    engagement: 437
-    commentsToLikes: 0.084144
+    followers: 17031
+    engagement: 462
+    commentsToLikes: 0.085809
     id: ck9wg60q3s1wr0j7829ivm1p1
     verified: false
-    hashtags: "#lamerdubai, #uaeinfluencer, #dubai, #dubailuxury"
+    hashtags: "#phoneography, #sunshinegirl, #popxodaily, #mountainview"
   - username: "jepp.y"
     fullname: >-
       محمد جسفير
     bio: >-
-      ‎ليس من النوع الخاص بك FOOD | FASHION 🇦🇪
+      ‎ليس من النوع الخاص بك FOOD | FASHION DM for shoots 📸 snap 👻 @ jepp_y 🇦🇪
     location: "United Arab Emirates"
-    followers: 39817
-    engagement: 1126
-    commentsToLikes: 0.023282
+    followers: 39221
+    engagement: 802
+    commentsToLikes: 0.017581
     id: ck15u1jbwkyx60i19ufggqvoz
     verified: false
-    hashtags: "#automotive, #dubailifestyle, #dubaifashionblogger, #indianphotography"
-  - username: "irff.a"
+    hashtags: "#uaeinfluencer, #dubaiinfluencer, #mydubai, #automotivephotography"
+  - username: "alberto_makeup"
     fullname: >-
-      IM
+      ▫️A L B E R T O▫️
     bio: >-
-      Chase the dream not the competition... Fashion | Travel | Foodie 📍🇮🇳 🇦🇪 🇴🇲 🇨🇦
+      ▪️Pro Makeup Artist @makeupforevermea ▪️painter ▪️illustrator ▪️Lifestyle/ Food Addict ▪️Travel Addict 🇦🇪 DUBAI 🇦🇪❤️
     location: "United Arab Emirates"
-    followers: 22776
-    engagement: 389
-    commentsToLikes: 0.032438
-    id: ckap72r85ie000i78xcs0gumr
+    followers: 53642
+    engagement: 197
+    commentsToLikes: 0.162384
+    id: ck6u4dcr3338e0j71jyuqag7e
     verified: false
-    hashtags: "#travel, #nike, #model, #mallu"
+    hashtags: "#valentines, #makeup, #christmas, #diafa"
+  - username: "k.alaliii"
+    fullname: >-
+      
+    bio: >-
+      ‎‏‎ ‎‏‎‏Fashion | lifestyle | Food🇦🇪 ‎‏‎
+    location: "United Arab Emirates"
+    followers: 64698
+    engagement: 156
+    commentsToLikes: 0.259581
+    id: ck138wn5qidni0i19dw6nn2dy
+    verified: false
+    hashtags: ""
+  - username: "bony.kar"
+    fullname: >-
+      Frequent Flyer🛫
+    bio: >-
+      *Live life queen size 👑 *Make up • Food • Lifestyle *80 countries 🌎 📍#dubai
+    location: "United Arab Emirates"
+    followers: 129644
+    engagement: 333
+    commentsToLikes: 0.034655
+    id: ck14ierwtf2b90i19uf15h810
+    verified: false
+    hashtags: "#kfood, #health, #ssamjang, #gochujang"
+  - username: "arthur_london"
+    fullname: >-
+      Arthur Rodrigues
+    bio: >-
+      Dubai | Personal | Online fitness coaching 🏋🏻‍♂️💪🏼 Food Supplied by @pura.ae 💚
+    location: "United Arab Emirates"
+    followers: 15981
+    engagement: 692
+    commentsToLikes: 0.032576
+    id: ckf5nb7rtxief0j23nlyx7a1v
+    verified: false
+    hashtags: "#love, #dubaipt, #ootd, #instamood"
 ---

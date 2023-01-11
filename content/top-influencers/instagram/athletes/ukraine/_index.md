@@ -1,130 +1,118 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Ukraine in 2023
+title: Top 10 Athletes Instagram Influencers In Ukraine In 2023
 description: >-
-  Find top athletes Instagram influencers in Ukraine in 2023. Most popular hashtags: #calisthenics #workout #motivation #ukraine.
+  Find top athletes Instagram influencers in Ukraine in 2023. Most popular hashtags: #sport #ukraine #athlete #redbull.
 platform: Instagram
-hits: 26
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 26 Instagram influencers like this in Ukraine for you to pitch.
+hits: 9
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 9 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "lyakhova.olga.800"
-    fullname: >-
-      Ольга Ляховая💙💛
-    bio: >-
-      Nike athlete European Championship 🥈🥉🥉🥉 2014/2017/2018/2019 Olympic Games 2016 European Games 🥇🥇
-    location: "Ukraine"
-    followers: 14783
-    engagement: 1140
-    commentsToLikes: 0.025612
-    id: ck5q9u60od02v0i11ig29ja1h
-    verified: false
-    hashtags: "#trainingcamp, #lyakhovaolga, #kenya, #nikeathlete"
-  - username: "shapoval_workout"
-    fullname: >-
-      Kostya Shapoval
-    bio: >-
-      🔝Calisthenics athlete🔝 Team Leader ➡️ @nolimits_sport National Record Holder🇺🇦 Online coach/Coach @gymstyleclub ⬇️Cooperation/Training in direct⬇️
-    location: "Ukraine"
-    followers: 23410
-    engagement: 1149
-    commentsToLikes: 0.023053
-    id: ck0w6byzc7utz0i199yk8kzof
-    verified: false
-    hashtags: "#business, #workout, #24, #dynamic"
-  - username: "melnikstyle"
-    fullname: >-
-      ᴠɪᴛᴀʟɪɪ ᴍᴇʟɴɪᴋ
-    bio: >-
-      CALISTHENICS ATHLETE International cups winner🏆 YouTuber Business inquiries: Vet.melnik2002@gmail.com
-    location: "Ukraine"
-    followers: 167160
-    engagement: 1182
-    commentsToLikes: 0.014086
-    id: ck14kgshwpg3u0i19788zlbj3
-    verified: false
-    hashtags: "#handstand, #cinematography, #blackandwhitehumansphotos, #moodygrams"
-  - username: "danifridman"
-    fullname: >-
-      Dani Fridman  דני פרידמן
-    bio: >-
-      The Israeli Single Sculler 🇮🇱 אלוף הארץ בחתירה 🚣🏻 Best Time 6:46.5 🏆& 🇪🇺 Finalist @siksilk_il athlete @sano.il Family📍
-    location: "Ukraine"
-    followers: 7449
-    engagement: 631
-    commentsToLikes: 0.082322
-    id: ck8swvb54fddr0j782s45mri0
-    verified: false
-    hashtags: "#athlete, #canottaggio, #rower, #dnipro"
   - username: "kir.kara"
     fullname: >-
       Kirill Karabut
     bio: >-
       @gornation Pro Athlete ▶Eurocup winner 2019🥇🇵🇱 ▶Pull&Push2vs2 battles 2020🥇🇫🇷 ▶World Cup stage 2019🥈🇧🇬 ▶World Championship 2019🥉🇷🇺
     location: "Ukraine"
-    followers: 24700
-    engagement: 1630
-    commentsToLikes: 0.018986
+    followers: 23917
+    engagement: 1618
+    commentsToLikes: 0.018136
     id: ck6u9dywsx0000j71oji3hs0k
     verified: false
-    hashtags: "#kharkivcity, #calisthenicsmovement, #workoutvideos, #kharkivblog"
-  - username: "supamontalvo"
-    fullname: >-
-      Bboy Victor
-    bio: >-
-      RedBull Athlete 💥 Kissimmee, FL 🇲🇽 🇺🇸
-    location: "Ukraine"
-    followers: 62925
-    engagement: 636
-    commentsToLikes: 0.017243
-    id: ck0w11c45h2ub0i19az9auicv
-    verified: false
-    hashtags: "#redbullathlete, #redbulldancer, #redbull, #orlando"
-  - username: "barbaruk_first17"
-    fullname: >-
-      🇺🇦_Bᴀʀʙᴀʀᴜᴋ_Fɪʀꜱᴛ₁₇
-    bio: >-
-      🇺🇦 First17 🇺🇦 😱1.90/80kg😱 @gornation PRO ATHLETE ☝️Будь весегда самим собой TikTok - 540k 🍋🏃🏼‍♂️
-    location: "Ukraine"
-    followers: 24054
-    engagement: 396
-    commentsToLikes: 0.020821
-    id: ck5c3og25zqnp0i11gbwluie3
-    verified: false
-    hashtags: "#gornation, #motivation, #workoutmotivation, #calisthenics"
+    hashtags: "#forestwalk, #quarantined, #kharkivphoto, #summertimes"
   - username: "olga_saladukha"
     fullname: >-
       Olga Saladukha
     bio: >-
       Ambassador Europ🇪🇺 week of Sport 🏃🏼‍♀️ #Nike 👟🕶 🥉Olympic 🥇World 🥇🥇🥇🥇🥉xEurop 🥈🥉World 🥈🥉World Cup Chair of Athletes commission of NOC🇺🇦
     location: "Ukraine"
-    followers: 14987
-    engagement: 836
-    commentsToLikes: 0.031540
+    followers: 14222
+    engagement: 948
+    commentsToLikes: 0.038903
     id: ck8t9sx9hp8sc0j78ccz626o4
     verified: false
-    hashtags: "#triplejump, #neverstop, #beautiful, #athlete"
-  - username: "dmytro_horobets"
+    hashtags: "#sport, #triplejump, #sportlife, #girlboss"
+  - username: "solovey_thematrix"
     fullname: >-
-      Dmytro Horobets🇺🇦IFBB ELITEPRO
+      Соловей Виталий TKD 🥋
     bio: >-
-      🇺🇦IFBB Elite Pro MensPhysique 1️⃣5️⃣ #ElitePro Winner 📕IFBB International Judge 📝#Onlinecoaching ☀️JanTana Athlete ⚡️OptimumNutrition Athlete
+      Professional athlete and coach #soloveyteam 🥇World champion 3x 🥇European champion 4x 🥇World and European cup winner Audi Gang 🚗
     location: "Ukraine"
-    followers: 28068
-    engagement: 646
-    commentsToLikes: 0.011791
-    id: ck5hnaa5ungmp0i11e57vlj54
-    verified: false
-    hashtags: "#fatheranddaughter, #optimumnutrition, #family, #daddydaughter"
-  - username: "solovei_thematrix"
-    fullname: >-
-      Solovei Vitali TKD 🥋
-    bio: >-
-      Время быть сильным❗️ 🌟Profesional athlete and coach #soloveyteam 🥇3x World Champion 🥇4x European Champion 🥇World and European Cup Champion
-    location: "Ukraine"
-    followers: 12899
-    engagement: 1102
-    commentsToLikes: 0.009390
+    followers: 12952
+    engagement: 984
+    commentsToLikes: 0.009560
     id: ck6u6toq6ho050j71ond68hki
     verified: false
-    hashtags: "#topteneliteteam, #topten, #ukraine, #soloveyteam"
+    hashtags: "#ukraine, #topten, #taekwondoitf, #topten4you"
+  - username: "supamontalvo"
+    fullname: >-
+      Bboy Victor
+    bio: >-
+      RedBull Athlete 💥 Kissimmee, FL 🇲🇽 🇺🇸
+    location: "Ukraine"
+    followers: 63355
+    engagement: 721
+    commentsToLikes: 0.017707
+    id: ck0w11c45h2ub0i19az9auicv
+    verified: false
+    hashtags: "#redbull, #redbulldancer, #redbullathlete, #orlando"
+  - username: "dmitriyillyuk"
+    fullname: >-
+      Dmitriy Illyuk/Дмитрий Иллюк
+    bio: >-
+      2019 FIA MOTORSPORT GAMES Champion 2008/2012/2016 Ukrainian Drift Champion.2012 East European Champion. Monster Energy Athlete EMEA 🇺🇦 @dmitriyillyuk
+    location: "Ukraine"
+    followers: 36067
+    engagement: 321
+    commentsToLikes: 0.023440
+    id: ck6tykxf24c8v0j71dvsqylgm
+    verified: false
+    hashtags: "#thehustler, #crushquarantine, #monday, #monsterenergy"
+  - username: "alexander_titarenk0"
+    fullname: >-
+      #Blueshorts
+    bio: >-
+      My name is Alexander Titarenko aka #blueshorts I am the champion of the Red Bull Art of Motion 2017🏆 Professional Freerunner Athlete @redbull 🏃‍♂️🇺🇦
+    location: "Ukraine"
+    followers: 120498
+    engagement: 581
+    commentsToLikes: 0.006383
+    id: ck0w4cx4uxynm0i19c6vt3o9g
+    verified: true
+    hashtags: "#redbull, #blueshorts"
+  - username: "yanabelomoina"
+    fullname: >-
+      Yana Belomoina 🚴🏻‍♀️
+    bio: >-
+      ProCyclist🇺🇦 Riding for @brentjensmountainbiketeam #RedbullAthlete 4times medalist WorldChampionships,2times EuropeanChampion,3times Leader WorldCup!
+    location: "Ukraine"
+    followers: 62006
+    engagement: 311
+    commentsToLikes: 0.011385
+    id: ck6ufj79ixdfw0j71fmi5s7xx
+    verified: false
+    hashtags: "#lovemyjob, #athlete, #aroundtheworld, #me"
+  - username: "danya.golenkov"
+    fullname: >-
+      H D 🙌🏽🏀
+    bio: >-
+      5’8” (174cm)Pro dunker 🏀🐒 Can’t be stopped 😁
+    location: "Ukraine"
+    followers: 6775
+    engagement: 1998
+    commentsToLikes: 0.038906
+    id: ck5cd67j9ilzc0i11s20igjw4
+    verified: false
+    hashtags: "#slam, #picture, #basketball, #dunk"
+  - username: "jaky_factos"
+    fullname: >-
+      Jacqueline Factos
+    bio: >-
+      Karate🥋Team Ecuador🇪🇨 ▪️PanAmerican Champion🥇x5 ▪️World Games🥈 ▪️Juegos Sudamericanos 🥇🥇 ▪️🏅Premier League medalist 📚Lcda.Cultura físico @linksports_
+    location: "Ukraine"
+    followers: 10973
+    engagement: 580
+    commentsToLikes: 0.025745
+    id: ck6u8xwwhubzd0j71cmmws7vz
+    verified: false
+    hashtags: "#quedateencasa, #girls, #focus, #picoftheday"
 ---

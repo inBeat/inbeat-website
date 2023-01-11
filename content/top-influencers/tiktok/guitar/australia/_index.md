@@ -1,130 +1,130 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Australia in 2023
+title: Top 10 Guitar TikTok Influencers In Australia In 2023
 description: >-
-  Find top guitar TikTok influencers in Australia in 2023. Most popular hashtags: #guitar #music #fyp #foryou.
+  Find top guitar TikTok influencers in Australia in 2023. Most popular hashtags: #guitar #fyp #foryou #music.
 platform: TikTok
-hits: 32
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat has 32 TikTok influencers like this in Australia for you to collaborate.
+hits: 34
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 34 TikTok influencers like this in Australia for you to pitch.
 profiles:
+  - username: "pattyboomba"
+    fullname: >-
+      Pattyboomba
+    bio: >-
+      Make art. Film music composer. Guitar samples. vvvvvvvvvvvvv
+    location: "Australia"
+    followers: 38200
+    engagement: 1079
+    commentsToLikes: 0.083144
+    id: ck9pnmw0jfak40j78urahzvbb
+    verified: false
+    hashtags: "#producer, #music, #filmscore, #beats"
   - username: "livsguitar"
     fullname: >-
       olivia
     bio: >-
-      guitar covers on my twitter @dbzchan 20 | melbourne
+      guitar covers and a lot of star wars 20 | melbourne
     location: "Australia"
-    followers: 41500
-    engagement: 2144
-    commentsToLikes: 0.019470
+    followers: 40400
+    engagement: 1896
+    commentsToLikes: 0.018458
     id: ckbko1tcki6g80j230ud32961
     verified: false
-    hashtags: "#guitar, #in, #kpop, #straykids"
+    hashtags: "#kpop, #starwars, #in, #guitar"
+  - username: "nhrkgpt"
+    fullname: >-
+      Nia Gupta
+    bio: >-
+      Nia 🇦🇺 Follow me on Instagram 🏀er #Athlete #Model #Engireer #Guitarist
+    location: "Australia"
+    followers: 148100
+    engagement: 733
+    commentsToLikes: 0.029291
+    id: ck9gl4xtumpv50j78ennceigb
+    verified: false
+    hashtags: "#catvalentine, #foryou, #quarantine, #lipsync"
   - username: "jaredboyce"
     fullname: >-
       Jared Boyce
     bio: >-
       21 I make sounds with a guitar
     location: "Australia"
-    followers: 21100
-    engagement: 837
-    commentsToLikes: 0.045467
+    followers: 21300
+    engagement: 743
+    commentsToLikes: 0.041359
     id: cka0hbai88go20i78ig2mlrii
     verified: false
-    hashtags: "#boo, #guitarsolo, #guitar, #fyp"
-  - username: "nhrkgpt"
-    fullname: >-
-      Nia Gupta
-    bio: >-
-      #Nia #India #Australia #Athlete #Model #Guitarist #Singer #Engineer #Youtuber
-    location: "Australia"
-    followers: 149300
-    engagement: 760
-    commentsToLikes: 0.028444
-    id: ck9gl4xtumpv50j78ennceigb
-    verified: false
-    hashtags: "#foryou, #tiktokindia, #catvalentine, #niagupta"
+    hashtags: "#guitar, #artober, #boo, #guitarsolo"
   - username: "musicstuff56"
     fullname: >-
       Music Stuff 🎧 🎸 🎹
     bio: >-
       guitar 🎸 drums 🤗 keys 🎹 Not perfect, just having fun.
     location: "Australia"
-    followers: 38400
-    engagement: 2689
-    commentsToLikes: 0.037912
+    followers: 37500
+    engagement: 2577
+    commentsToLikes: 0.034654
     id: ckamgqj1vczod0i786ry7hu32
     verified: false
-    hashtags: "#rolandathome, #acousticguitar, #fyp, #firstvideo"
-  - username: "pattyboomba"
+    hashtags: "#fyp, #acousticguitar, #rolandathome, #playmusic"
+  - username: "sassy_poet"
     fullname: >-
-      Pattyboomba
+      Nikita Holmes
     bio: >-
-      Make art.
+      ⚠️18+ ONLY⚠️ ❤️Virtual tipjar: PayPal.me/nikitaholmes1987❤️ 🇦🇺 Aussie 🇦🇺
     location: "Australia"
-    followers: 29400
-    engagement: 987
-    commentsToLikes: 0.091711
-    id: ck9pnmw0jfak40j78urahzvbb
+    followers: 10100
+    engagement: 1589
+    commentsToLikes: 0.078686
+    id: ckavt30vm5rba0j23lcu8ogyu
     verified: false
-    hashtags: "#hunterxhunter, #beats, #anime, #filmscore"
+    hashtags: "#guitar, #10k, #viral, #visionboard"
   - username: "oi.oiii"
     fullname: >-
       jael :)
     bio: >-
       BLACK LIVES MATTER covers/originals :)) (& me exposing my 1d lifestyle... oops)
     location: "Australia"
-    followers: 31500
-    engagement: 2608
-    commentsToLikes: 0.036866
+    followers: 32500
+    engagement: 2456
+    commentsToLikes: 0.032877
     id: ckbf76fbmwvmx0j23kkji392z
     verified: false
-    hashtags: "#tommo, #fineline, #1d, #cherry"
+    hashtags: "#onedirection, #fineline, #tpwk, #foryou"
   - username: "cam.denn"
     fullname: >-
       Camden LeFevre
     bio: >-
       
     location: "Australia"
-    followers: 16300
-    engagement: 1471
-    commentsToLikes: 0.040680
+    followers: 15600
+    engagement: 1440
+    commentsToLikes: 0.040113
     id: ckcp3nz7rc07q0j23587cjkip
     verified: false
-    hashtags: "#xyzbca, #music, #guitarcover, #foryou"
-  - username: "nicrollomusic"
+    hashtags: "#foryou, #loop, #guitarcover, #xyzbca"
+  - username: "hunt.sam"
     fullname: >-
-      Nic Rollo
+      Sam
     bio: >-
-      Hey friends ❤️ Check out my videos 👇🏻👇🏻
+      insta @hunt4sam Brand new single out now “grow up” on all music platforms ❤️❤️
     location: "Australia"
-    followers: 45300
-    engagement: 1155
-    commentsToLikes: 0.172514
-    id: ck8nh6azjzd3d0j78n5vyh4qc
+    followers: 151500
+    engagement: 1796
+    commentsToLikes: 0.024915
+    id: ck999ts24ecz30j78mkyhvzfx
     verified: false
-    hashtags: "#fyp, #singing, #foryoupage, #pepsichallenge"
+    hashtags: "#guitar, #fyp, #singing, #onedirection"
   - username: "joshnewmusic_"
     fullname: >-
       Josh
     bio: >-
-      Thanks for 7K! 🎉
+      
     location: "Australia"
-    followers: 7032
-    engagement: 827
-    commentsToLikes: 0.043454
+    followers: 6925
+    engagement: 937
+    commentsToLikes: 0.050255
     id: ckbqe3kt0zyi70j23ot2ftfwk
     verified: false
-    hashtags: "#music, #duet, #foryou, #singing"
-  - username: "robfavotto"
-    fullname: >-
-      Rob Favotto
-    bio: >-
-      Spotify @ Rob Favotto
-    location: "Australia"
-    followers: 27700
-    engagement: 644
-    commentsToLikes: 0.039152
-    id: ckdhwyizs4bzv0j2346qsoiu7
-    verified: false
-    hashtags: "#metal, #lol, #music, #evh"
+    hashtags: "#music, #foryou, #foryoupage, #guitar"
 ---

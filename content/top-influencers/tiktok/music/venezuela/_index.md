@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Venezuela in 2023
+title: Top 10 Music TikTok Influencers In Venezuela In 2023
 description: >-
-  Find top music TikTok influencers in Venezuela in 2023. Most popular hashtags: #viral #music #venezuela #parati.
+  Find top music TikTok influencers in Venezuela in 2023. Most popular hashtags: #venezuela #viral #parati #tiktok.
 platform: TikTok
-hits: 29
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 29 TikTok influencers like this in Venezuela for you to work with.
+hits: 26
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 26 TikTok influencers like this in Venezuela for you to collaborate.
 profiles:
   - username: "tresdecadas_tt"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Historias de la música Con lo mejor de los 60' 70' y 80'
     location: "Venezuela"
-    followers: 3395
-    engagement: 519
-    commentsToLikes: 0.038653
+    followers: 3434
+    engagement: 497
+    commentsToLikes: 0.035338
     id: ckbewmsxhgc9k0j23qbev8x4a
     verified: false
     hashtags: ""
+  - username: ".andreavilchez1"
+    fullname: >-
+      Andrea Vilchez
+    bio: >-
+      Música y más música 🇻🇪 INSTAGRAM:andreavilchez1 LENTO🔥⬇️
+    location: "Venezuela"
+    followers: 410300
+    engagement: 1151
+    commentsToLikes: 0.011100
+    id: ck9ekitrk6m5n0j78mcjf1h4r
+    verified: false
+    hashtags: "#guayna, #monterrey, #hmg29, #pegar"
   - username: "trifasicozx"
     fullname: >-
       Trifasicoxz
     bio: >-
       🔥🌙Chicago Music⚡🔥 🌐Musica Nacional e Internacional 🌎 🌘@Isaiasx.z🌒
     location: "Venezuela"
-    followers: 245400
-    engagement: 1659
-    commentsToLikes: 0.004131
+    followers: 241600
+    engagement: 745
+    commentsToLikes: 0.009039
     id: ckd6nxt8zie8c0j23t86fct5v
     verified: false
-    hashtags: "#allthedifference, #greenscreen, #foryou, #tiktok"
+    hashtags: "#foryoupage, #foryou, #parati, #allthedifference"
   - username: "yenifermora94"
     fullname: >-
       Yenifer Mora 🇻🇪🎙️
     bio: >-
-      cantante de música llanera 🎶 VENEZOLANA🤩 💕
+      cantante de música llanera 🎵 VENEZOLANA ❤️😍🇻🇪 contacto: 04124317811 💋
     location: "Venezuela"
-    followers: 81500
-    engagement: 718
-    commentsToLikes: 0.008762
+    followers: 133600
+    engagement: 720
+    commentsToLikes: 0.007336
     id: ckcpt4p5bnpv50j233ughewhi
     verified: false
-    hashtags: "#yenifermora, #musicallanera, #enlamultitud, #viral"
+    hashtags: "#musicallanera, #enlamultitud, #viral, #mujerllanera"
   - username: "araimaamezquita"
     fullname: >-
       Araima Amézquita 🌺✨
     bio: >-
       M I R A N D I N A 🇻🇪 CÚA Cantante de música Llanera 🎤 I n S T a G R a M 👇
     location: "Venezuela"
-    followers: 75100
-    engagement: 617
-    commentsToLikes: 0.008315
+    followers: 116700
+    engagement: 656
+    commentsToLikes: 0.008959
     id: ckcps77vzmbva0j23f0zu2lp9
     verified: false
-    hashtags: "#araimaamezquita, #araimamaniacos, #araimamania, #unaflorparati"
+    hashtags: "#araimaamezquita, #araimamaniacos, #araimamamia, #araimamania"
   - username: "viregnavegas"
     fullname: >-
       Viregna Vegas
     bio: >-
       🇻🇪Madre de Tres♥️
     location: "Venezuela"
-    followers: 10200
-    engagement: 1825
-    commentsToLikes: 0.105645
+    followers: 9999
+    engagement: 1740
+    commentsToLikes: 0.097798
     id: ckbaecbmk6kht0j23mretzakf
     verified: false
-    hashtags: "#comedia, #venezuela4x4, #humor, #coffee"
-  - username: "andrychucho"
+    hashtags: "#coffee, #jajajaja, #venezuela, #comedia"
+  - username: "azulynotanclaro"
     fullname: >-
-      andry urdaneta
+      Gerson Parra
     bio: >-
-      No se Bailar 😩 Aqui no te aburres Venezolano 🇻🇪 Love Food
+      ¡Hola! 😁 si quieres que te dibuje escribeme por Instagram.✌️
     location: "Venezuela"
-    followers: 5095
-    engagement: 1678
-    commentsToLikes: 0.036002
-    id: ckcuy1cykm91c0j238zu9wfmo
+    followers: 232800
+    engagement: 1718
+    commentsToLikes: 0.058017
+    id: ckbf1t4c1o68t0j23su6zsnup
     verified: false
-    hashtags: "#venezuela4x4, #halloween2020, #halloweenvibes, #music"
+    hashtags: "#camilo, #music, #parati, #tiktoker"
   - username: "leycang21"
     fullname: >-
       ＬＥＹＣＡＮＧ "ＥＬ ＧＲＡＮＤＩＯＳＯ"
     bio: >-
-      •Ingeniero/Cantautor 🇻🇪 •"Humilde ante el éxito, Fuerte ante el fracaso
+      Sigueme en Instagram y mira mis historias 🤜🤛Suscribete a mi canal de YouTube🚀
     location: "Venezuela"
-    followers: 740900
-    engagement: 1185
-    commentsToLikes: 0.017894
+    followers: 1200000
+    engagement: 922
+    commentsToLikes: 0.033076
     id: ckac7ypq9f3uv0i78vd2ecuu4
     verified: true
-    hashtags: "#risa, #baile, #leycang21, #frases"
-  - username: "gustavodelatorre_"
+    hashtags: "#video, #mu, #risa, #amistad"
+  - username: "davecapella"
     fullname: >-
-      Gustavo Torres
+      Dave Capella
     bio: >-
-      •🇻🇪😂🍕• Me encanta hacer doblajes, Actuar y también hacerte reír ¡Followme!
+      I’m a Tv Host from 🇻🇪 To 🌎 IG: @DaveCapella
     location: "Venezuela"
-    followers: 11500
-    engagement: 1115
-    commentsToLikes: 0.046950
-    id: ckc3f8hae17en0j23d95xss3q
+    followers: 68400
+    engagement: 671
+    commentsToLikes: 0.031037
+    id: ckbexc4n5hin80j23e6eo0lei
     verified: false
-    hashtags: "#boy, #usa, #villana, #love"
+    hashtags: "#libertadores, #medijo, #necesitabasaberlo, #uninstante"
   - username: "angeldflor"
     fullname: >-
       Anssgelino
     bio: >-
-      Venezolano 🇻🇪 Soñador🥳 Tóxico ☣️ Romántico😍 Hijo de @Floamasfamosa 🌹♥️
+      Venezolano 🇻🇪 Soñador🥳 Romántico😍 Hijo de @Floamasfamosa 🌹♥️
     location: "Venezuela"
-    followers: 8856
-    engagement: 634
-    commentsToLikes: 0.063473
+    followers: 9198
+    engagement: 587
+    commentsToLikes: 0.059566
     id: ckcej0ojwrm0k0j232poo1aae
     verified: false
-    hashtags: "#instagram, #agosto, #musica, #baile"
-  - username: "djalexanderpirella"
-    fullname: >-
-      Alexander Pirella
-    bio: >-
-      
-    location: "Venezuela"
-    followers: 5314
-    engagement: 533
-    commentsToLikes: 0.020281
-    id: ckck5zgy1r3b60j23em6vwyzd
-    verified: false
-    hashtags: "#alexanderpirella, #fun, #music, #lamusicaloestodo"
+    hashtags: "#envivo, #noche, #hoy, #laguaira"
 ---

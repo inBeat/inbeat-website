@@ -1,33 +1,33 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Colombia in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Colombia In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Colombia in 2023. Most popular hashtags: #tattoo #tattoos #tattooartist #blackandgrey.
+  Find top tattoo-artists Instagram influencers in Colombia in 2023. Most popular hashtags: #tattoo #tatuajes #tattooartist #tattoos.
 platform: Instagram
-hits: 34
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 34 Instagram influencers like this in Colombia for you to collaborate.
+hits: 37
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 37 Instagram influencers like this in Colombia for you to connect with.
 profiles:
   - username: "hernanyepes_art"
     fullname: >-
       ⭕Hernan Yepes
     bio: >-
-      Tattoo artist #blackandgrey Medellín colombia 🇨🇴 WhatsApp +573234135952
+      Tattoo artist #blackandgrey Medellín colombia 🇨🇴 Cotizaciones solo por whatsapp +573234135952
     location: "Colombia"
-    followers: 93223
-    engagement: 397
-    commentsToLikes: 0.032833
+    followers: 99140
+    engagement: 429
+    commentsToLikes: 0.028309
     id: ck5ho6cflp0o90i11ihe5z39i
     verified: false
-    hashtags: "#blackandgreytattoo, #tattoo, #tatuajesnegros, #sleevetattoo"
+    hashtags: "#blancoynegro, #tatuajes, #tattoo, #colombiatattoo"
   - username: "sophie_suicide"
     fullname: >-
       Sophie Suicide 💋
     bio: >-
       Tattoo artist 💉🎨 ♡ Personal account @sophieliving 🌱 ♡ Work @lagaleriatattoostudio ⚓ ♡ Link al nuevo video 🍃 ⬇⬇⬇⬇⬇⬇⬇⬇
     location: "Colombia"
-    followers: 56669
-    engagement: 227
-    commentsToLikes: 0.021760
+    followers: 58887
+    engagement: 366
+    commentsToLikes: 0.022284
     id: ck5hgf21t2fj70i116egb4wh2
     verified: false
     hashtags: ""
@@ -35,26 +35,38 @@ profiles:
     fullname: >-
       Juan David Rendón
     bio: >-
-      Tattoo Artist | Colombia 🇨🇴 Citas | Bookings +57 3135612986
+      Tattoo Artist | Colombia 🇨🇴 @altocontrastetattoo 📍 •@inkjectapro Citas | Bookings WhatsApp 📩 +57 3135612986
     location: "Colombia"
-    followers: 84260
-    engagement: 920
-    commentsToLikes: 0.015814
+    followers: 111683
+    engagement: 829
+    commentsToLikes: 0.021601
     id: ck6tz0x3r70cq0j71cjio7jav
     verified: false
-    hashtags: "#digitalillustration, #colombiatattoo, #eternalink, #colombia"
+    hashtags: "#fullsleevetattoo, #girltattoo, #neotradstyle, #neotradsub"
   - username: "pabon.art"
     fullname: >-
       Jhonatan Pabon
     bio: >-
-      Filipenses 4:13 Tattoo Artist Currently in Bogota 🇨🇴 For Appoiment DM Skateboarding Love
+      Jesucristo es el camino, la verdad y la vida ✞ Tattoo Artist Currently in Bogota 🇨🇴 For Appoiment DM Skateboarding Love
     location: "Colombia"
-    followers: 34333
-    engagement: 140
-    commentsToLikes: 0.071032
+    followers: 34609
+    engagement: 153
+    commentsToLikes: 0.063557
     id: ck55osusa927v0i11ix4c50ni
     verified: false
-    hashtags: "#realistic, #healthy, #eyes, #leon"
+    hashtags: "#nature, #bodyart, #cheyennetattooequipment, #boudoir"
+  - username: "taz_artist"
+    fullname: >-
+      TAZ.
+    bio: >-
+      • OWNER & TATTOO ARTIST @highleveltattooart • BUCARAMANGA\COLOMBIA • REALISMO • olvany88@gmail.com
+    location: "Colombia"
+    followers: 23648
+    engagement: 327
+    commentsToLikes: 0.020068
+    id: ck8szl7i9ovjk0j78mm6kahwm
+    verified: false
+    hashtags: "#tattoosombras, #tatuadoresbucaramanga, #tattooretrato, #tattoo"
   - username: "juanpajo"
     fullname: >-
       pajo
@@ -67,64 +79,52 @@ profiles:
     id: ck8szknvlotcq0j78wgn2bq4a
     verified: false
     hashtags: ""
-  - username: "taz_artist"
+  - username: "jp.audiovisual"
     fullname: >-
-      TAZ.
+      Filmmaker 🎥
     bio: >-
-      • OWNER & TATTOO ARTIST @highleveltattooart • BUCARAMANGA\COLOMBIA • REALISMO • olvany88@gmail.com
+      Juan Pulido Fotografía & Filmmaking Working at @inknovaetattoostudio Buenos Aires, Argentina📍 Portfolio 👇🏻
     location: "Colombia"
-    followers: 23239
-    engagement: 379
-    commentsToLikes: 0.027319
-    id: ck8szl7i9ovjk0j78mm6kahwm
+    followers: 3402
+    engagement: 650
+    commentsToLikes: 0.043953
+    id: ck6tuwsckiv7j0j7185ha2978
     verified: false
-    hashtags: "#tattoocolor, #tattoo, #japanese, #irezumitattoo"
-  - username: "ronalhorta"
-    fullname: >-
-      𝐇𝐎𝐑𝐓𝐀 🇨🇴
-    bio: >-
-      ⚜️Colombian Artist ⛪️ @picasso_ink_sthlm 📧 ronalhortaink@gmail.com
-    location: "Colombia"
-    followers: 76031
-    engagement: 59
-    commentsToLikes: 0.020857
-    id: ck5hnfvwynpqw0i11rejuznj6
-    verified: false
-    hashtags: ""
-  - username: "camilocolmenares"
-    fullname: >-
-      
-    bio: >-
-      📍 Bucaramanga. 📆 Bogotá, Medellín y Cali. 💌 INFO [whatsapp]
-    location: "Colombia"
-    followers: 147506
-    engagement: 227
-    commentsToLikes: 0.011681
-    id: ck6u1mqjomo0a0j71heh75dz9
-    verified: false
-    hashtags: "#tattoolife, #tattooist, #tattoodesign, #tattooed"
+    hashtags: "#streetwearphotography, #tattoo, #streetwearfashion, #streetfashion"
   - username: "carlos_piedrahita_art"
     fullname: >-
       Artist | ℭ𝔞𝔯𝔩𝔬𝔰 𝔓𝔦𝔢𝔡𝔯𝔞𝔥𝔦𝔱𝔞
     bio: >-
-      •Sponsors•@cheyenne_tattooequipment• •@radiantcolorsink• •@protonstencil• •@balm_tattoo•
+      •Sponsors•@cheyenne_tattooequipment• •@radiantcolorsink• •@happyinkcare •@protonstencil•
     location: "Colombia"
-    followers: 64207
-    engagement: 266
-    commentsToLikes: 0.037336
+    followers: 67702
+    engagement: 290
+    commentsToLikes: 0.029781
     id: ck6tk4nnz3zy70j715yqnrvgd
     verified: false
-    hashtags: "#tattoogirl, #tats, #inkedgirls, #fire"
-  - username: "jorge_perez_art"
+    hashtags: "#tinta, #tatts, #tattooideas, #tatu"
+  - username: "rickbizarre"
     fullname: >-
-      ⚜️ 𝐉𝐨𝐫𝐠𝐞 𝐏é𝐫𝐞𝐳⚜️
+      ⚡️ Ricardo Rivera ⚡️
     bio: >-
-      🌿citas Disponibles🌿 🌙320 319 8488 🌙perfil secundario:@ike_tattoo 🌙Dios primero
+      ⚡️SPONSORS ⚡️ @radiantcolorsink @artdriver_tattoomachines @tatt_booster
     location: "Colombia"
-    followers: 9151
-    engagement: 477
-    commentsToLikes: 0.024685
-    id: ck8tcvh700u9s0j78usydkry7
+    followers: 18949
+    engagement: 191
+    commentsToLikes: 0.020371
+    id: ck5zne0sroa3u0i14jdntqu4p
     verified: false
-    hashtags: "#newschool, #drakeson, #tattoo, #tattoowoman"
+    hashtags: "#myfavoritecolor, #coveruptattoo, #amor, #colortattoo"
+  - username: "marlonkalak"
+    fullname: >-
+      Marlon Flores
+    bio: >-
+      QUITO-ECUADOR 🇪🇨 ⚜️ @lacatedraluio ⚜️ 📱 WPP: +593983417007 ⚜️Sponsors • @radiantcolorsink • @cheyenne_tattooequipment
+    location: "Colombia"
+    followers: 19823
+    engagement: 355
+    commentsToLikes: 0.034158
+    id: ck8szkpg9otiz0j78pmzwu8l1
+    verified: false
+    hashtags: "#cheyennetattooequipment, #cheyenne, #tattoo, #radiantcolorsink"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Italy in 2023
+title: Top 10 Pole Dancers Instagram Influencers In Italy In 2023
 description: >-
-  Find top pole dancers Instagram influencers in Italy in 2023. Most popular hashtags: #poledance #summer #poledancer #fitnessgirl.
+  Find top pole dancers Instagram influencers in Italy in 2023. Most popular hashtags: #poledance #pole #poledancer #love.
 platform: Instagram
-hits: 40
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 40 Instagram influencers like this in Italy for you to connect with.
+hits: 23
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 23 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "nicolepeachyy"
-    fullname: >-
-      NicolePeachy
-    bio: >-
-      Pole Dancer 💜 Gamer 👾 Cat Lover 🐱 Environmentalist 💚 Twitch Partner (they ban me) 🥶
-    location: "Italy"
-    followers: 49805
-    engagement: 911
-    commentsToLikes: 0.018314
-    id: ck8t64yy4c81i0j78np490owt
-    verified: false
-    hashtags: "#twitchkittens, #stream, #twitchpartner, #fitnessgirl"
   - username: "brokendollhatesyou"
     fullname: >-
       Lauretta 🐙
     bio: >-
       stage animal • exotic pole dancer • tortellini & gin tonic lover • I happen to be caught on camera
     location: "Italy"
-    followers: 44907
-    engagement: 362
-    commentsToLikes: 0.023996
+    followers: 44523
+    engagement: 354
+    commentsToLikes: 0.023272
     id: ck6tli28g61r50j710xkpigk4
     verified: false
-    hashtags: "#fitballfun, #showgirlslife, #quarantineanddance, #dancersofinstagram"
+    hashtags: "#dancersofinstagram, #sparklingseason, #showgirlslife, #quarantineanddance"
   - username: "_aniushka_"
     fullname: >-
       Anna
     bio: >-
-      Model / actress / poledancer @ubookermodels #ubookermodels 🎬Studio recitazione 💃🏻Insegno pole dance @anna.mypole
+      Model / actress / pole dancer @ubookermodels #ubookermodels 🎬Studio recitazione 💃🏻Insegno pole dance @anna.mypole
     location: "Italy"
-    followers: 13706
-    engagement: 561
-    commentsToLikes: 0.042023
+    followers: 13784
+    engagement: 468
+    commentsToLikes: 0.038773
     id: ckap2ujjz0dr80i78y5b3ssyi
     verified: false
-    hashtags: "#riccione, #portrait, #rimini, #weddingday"
-  - username: "claudyastellaofficial"
-    fullname: >-
-      𝓒𝓵𝓪𝓾𝓭𝔂𝓪 𝓢𝓽𝓮𝓵𝓵𝓪 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵
-    bio: >-
-      Cantante🎤Ascoltate:🎶💿Selfie💿PoleDancer🦄Manager&📷@peter_lica_ph 👠💄Fashion Influencer👗👜 ⬇️Contenuti esclusivi ⬇️
-    location: "Italy"
-    followers: 88682
-    engagement: 233
-    commentsToLikes: 0.035315
-    id: ck8t0cserrmki0j78xix2c2hb
-    verified: false
-    hashtags: "#white, #makeuplover, #summertime, #summer"
+    hashtags: "#portrait, #blackandwhitephotography, #portraitphotography, #ubookermodels"
   - username: "vedmaria"
     fullname: >-
       Мария Ведерникова
     bio: >-
       ♈️ Enjoying the beauty of life✨ Russia-Italy Resident🇮🇹🇷🇺 Italian Design Furniture Commerce💰 🇮🇹 🇫🇷 🇬🇧 Interpreter🤓 Art Lover✨ Exotic Pole Dancer😱🧚🏻‍♀️
     location: "Italy"
-    followers: 19008
-    engagement: 161
-    commentsToLikes: 0.023812
+    followers: 18465
+    engagement: 194
+    commentsToLikes: 0.027823
     id: ck0u0gwrdtmod0i191p8y1gpq
     verified: false
-    hashtags: "#instagood, #exoticpoledance, #poleartist, #exoticpoledancer"
-  - username: "ludovica_nicolis"
-    fullname: >-
-      Ludovica Nicolis
-    bio: >-
-      🧚🏼‍♀️ Aerial artist e Poledancer 👩🏻‍🏫 Pole & hoop instructor 🎪 co-owner @acrobaticstudioverona 📺 youtube: Pole Dance Inspiration 🌷
-    location: "Italy"
-    followers: 10435
-    engagement: 829
-    commentsToLikes: 0.009732
-    id: ck8tbteljx2h60j78rqud29tg
-    verified: false
-    hashtags: "#training, #poseinspiration, #handstand, #polecombo"
+    hashtags: "#poleartist, #danza, #me, #pleasershoes"
   - username: "chiarasalvade"
     fullname: >-
       Chiara Salvadè Livonthepole🇮🇹
     bio: >-
       👠Exotic Pole Dancer ✨Owner @studio_salvade_livonthepole e @studiosalvade_finaleligure 🏆Many awards in pole competitions ⭐ Judge/workshops ➡️ DM
     location: "Italy"
-    followers: 19245
-    engagement: 266
-    commentsToLikes: 0.017644
+    followers: 18909
+    engagement: 245
+    commentsToLikes: 0.018280
     id: ck5zo7nc5py0f0i14oj5rdklu
     verified: false
-    hashtags: "#poledance, #quarantine, #exoticdance, #livonthepole"
+    hashtags: "#oldschool, #poledancerofinstagram, #poledanceofinstagram, #livonthepole"
   - username: "poshlady_s"
     fullname: >-
       Posh lady 📸(Sara)
     bio: >-
       Born and based in Milan☆ • Freelance Model • 💌poshlady@libero.it • • Pole Dancer: @saretta_ianni
     location: "Italy"
-    followers: 7978
-    engagement: 627
-    commentsToLikes: 0.038975
+    followers: 7619
+    engagement: 325
+    commentsToLikes: 0.027107
     id: ck1359q7f0erw0i195qx9r9o2
     verified: false
-    hashtags: "#instagood, #bw, #photooftheday, #love"
+    hashtags: "#bw, #love, #photooftheday, #instagood"
   - username: "marikawaldorf"
     fullname: >-
-      MARÌKA 🌎 WALDORF
+      EXOTIC👠POLEDANCER
     bio: >-
-      𝑻𝒓𝒂𝒗𝒆𝒍𝒊𝒏𝒈🌏𝒐𝒏🗺𝒎𝒚🧳𝒉𝒆𝒆𝒍𝒔👠 💕Owner @AtelierMarikaPoleMood & @waldorfjustsport 🤍 @yamamotonutrition code:MARIKA5 🥇 🥇 EPDC’19 S-D 🥉 EG🇩🇪 🥈 EM’18 🥉 EPDC’17
+      𝗙𝗘𝗠𝗜𝗡𝗜𝗦𝗧🧬 𝒕𝒓𝒂𝒗𝒆𝒍𝒊𝒏𝒈🌏𝒐𝒏🗺𝒎𝒚🧳𝒉𝒆𝒆𝒍𝒔👠 💕Owner @AtelierMarikaPoleMood & @waldorfjustsport 🥇 🥇 EPDC’19 S-D 🥉 EG🇩🇪 🥈 EM’18 🥉 EPDC’17
     location: "Italy"
-    followers: 11424
-    engagement: 692
-    commentsToLikes: 0.032438
+    followers: 12944
+    engagement: 312
+    commentsToLikes: 0.050074
     id: ck9h9vjy3a4kf0j781uwoqu7o
     verified: false
-    hashtags: "#aroundtheworld, #italy, #atelierunicorns, #sport"
-  - username: "viola_valsecchi"
+    hashtags: "#gymmotivation, #feminist, #women, #feminism"
+  - username: "90bibi"
     fullname: >-
-      VIOLA VALSECCHI📍
+      Bianca Breschi 🤸‍♀️
     bio: >-
-      Osteopata💆, 📌The Pole Terrace 📂thepoleterrace@gmail.com ρꪮꪶꫀ ᦔꪖꪀᥴꫀ𝕣. 🇮🇹🥇2019 🥉World 2018 Backup profile: @violavalse Segui i miei PROGRAMMI ONLINE⬇️⬇️
+      1°World Cup Tortosa 2019 WORLD CHAMPION 2018 ITALIAN CHAMPION 16/17/18/19/20 Is TOP asd Firenze / Vertical Overtraining asd Sassuolo
     location: "Italy"
-    followers: 60252
-    engagement: 298
-    commentsToLikes: 0.036488
-    id: ckaov9pjn3myl0i78zmm5q3zj
+    followers: 36392
+    engagement: 314
+    commentsToLikes: 0.055929
+    id: ck6txe77hxboi0j71f8xqvbs5
     verified: false
-    hashtags: "#poledancerofig, #poledance, #poledancer, #quarantine"
+    hashtags: "#polelife, #polelove, #polesport, #welovepole"
+  - username: "claudia.bellitto"
+    fullname: >-
+      Claudia Bellitto
+    bio: >-
+      💊CLA10 @tsunaminutrition 🦋Aerial Performer for @elementz.art.entertainment 🇮🇹Pole Dance Instructor 💪🏻 FITNESS ADDICT Coach @Fr__performance #frsquad
+    location: "Italy"
+    followers: 18962
+    engagement: 269
+    commentsToLikes: 0.080067
+    id: ck55pd8akabbg0i11nt034y3y
+    verified: false
+    hashtags: "#healthy, #poletrick, #art, #fitnessbody"
+  - username: "francesprinivoice"
+    fullname: >-
+      𝙁𝙧𝙖𝙣𝙘𝙚𝙨𝙘𝙖 𝙋𝙧𝙞𝙣𝙞 𝙥𝙤𝙡𝙚 𝙙𝙖𝙣𝙘𝙚
+    bio: >-
+      Élite Poler scienze motorie FinaleIGT INVERTIKAPRINI10 10%OFF Bikini IFBBproleague 🥇BikiniAngels 🥇Pole Art19 🥇Artistic Pole18/19 NazionalePolesport
+    location: "Italy"
+    followers: 27890
+    engagement: 166
+    commentsToLikes: 0.092553
+    id: ckap6yoqyhx010i78pa4wujp7
+    verified: false
+    hashtags: "#legs, #love, #bikiniprep, #flexibility"
+  - username: "nikykikka_"
+    fullname: >-
+      𝑁𝑖𝑐𝑜𝑙𝑒 𝑃𝑟𝑖𝑚𝑜 ♡
+    bio: >-
+      🥀𝒟𝓇𝑒𝒶𝓂𝑒𝓇 👠𝒮𝒽𝑜𝑒𝓈 𝑜𝒷𝓈𝑒𝓈𝓈𝑒𝒹 |ℬ𝓇𝒶𝓃𝒹 𝒫𝓇𝑜𝓂𝑜𝓉𝑒𝓇|
+    location: "Italy"
+    followers: 40007
+    engagement: 409
+    commentsToLikes: 0.058220
+    id: ckap4uv2s8z4w0i78ymk4rkeb
+    verified: false
+    hashtags: "#stylish, #fashionshoes, #trendy, #highheelshoes"
 ---

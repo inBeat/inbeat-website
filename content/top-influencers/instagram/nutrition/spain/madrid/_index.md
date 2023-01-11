@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Madrid in 2023
+title: Top 10 Nutrition Instagram Influencers In Madrid In 2023
 description: >-
-  Find top nutrition Instagram influencers in Madrid in 2023. Most popular hashtags: #fitness #nutrition #fit #workout.
+  Find top nutrition Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #nutrition #salud.
 platform: Instagram
-hits: 34
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 34 Instagram influencers like this in Madrid, Spain for you to collaborate.
+hits: 21
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 21 Instagram influencers like this in Madrid, Spain for you to pitch.
 profiles:
-  - username: "newbody_fc"
-    fullname: >-
-      Javi New Body
-    bio: >-
-      ⚡️|¿Quieres transformar tu vida? Follow💪 📩|info@nbfitness.es 👨‍✈️|CEO & CO-FOUNDER @mytotemdff #comidafit a domicilio 😔|🤩¡Ell@s ya lo lograron!+info👇
-    location: "Spain"
-    followers: 45726
-    engagement: 111
-    commentsToLikes: 0.112663
-    id: ck5bunv4ni4440i111upnu00l
-    verified: false
-    hashtags: "#corona, #instagram, #mentalidadmillonaria, #fitnessmotivation"
   - username: "matiroure"
     fullname: >-
       Matias Roure
     bio: >-
       .Follow your bliss .We are one .Sport Lover / PT .Vegetarian / Nutrition .Surf Lover / Surf Trips .Model / Actor .Barman @firstdates_tv .Madrid,Spain
     location: "Spain"
-    followers: 52844
-    engagement: 364
-    commentsToLikes: 0.015979
+    followers: 52419
+    engagement: 358
+    commentsToLikes: 0.017532
     id: ck6tw34fxpqpr0j71zdkqex4b
     verified: false
-    hashtags: "#sunday, #blackandwhite, #horizonte, #summer"
+    hashtags: "#horizonte, #autumn, #felizvida, #vivalavida"
   - username: "borja_garcia.10"
     fullname: >-
       Borja Garcia Freire
     bio: >-
       Futbolista profesional @sdhuesca 🏡 Co-Founder of @sanumhealthyhouse Madrid (Villaverde)📍 Shelby 😺 Comprador de tiempo ♏️🔑
     location: "Spain"
-    followers: 6679
-    engagement: 2198
-    commentsToLikes: 0.031458
+    followers: 6764
+    engagement: 2208
+    commentsToLikes: 0.030869
     id: ckap0kr6eqqlq0i78lv2t79yp
     verified: true
-    hashtags: "#alwaystogether, #orgullgiron, #girona, #gironafc"
-  - username: "sandrita_pm"
+    hashtags: "#gironafc, #bg10, #orgullgiron, #girona"
+  - username: "enfermera_a_bordo"
     fullname: >-
-      Ｓａｎｄｒｉｔａ
+      Natalia
     bio: >-
-      FITNESS|WORKOUT|FOOD ➖➖➖➖➖➖➖➖➖ 📍@snavteam ®️simplemente hazlo. 📩 snav@onlyfitnesslife.com 🔺 10% descuento @emfit_nutrition SANDRITA_PM
+      📍Madrid. ♥️Enfermera familiar y comunitaria. ⚓️Mi día a día como enfermera en un barco ⚓️🌴 w a n d e r l u s t 🌴🌍🏥 R.N ✌🏼
     location: "Spain"
-    followers: 12064
-    engagement: 459
-    commentsToLikes: 0.068158
-    id: ck8sxqnffib290j78t5uj0300
+    followers: 40545
+    engagement: 211
+    commentsToLikes: 0.030751
+    id: ck8t9haa6o3530j78f2d6cg6o
     verified: false
-    hashtags: "#healthylifestyle, #fitness, #motivacion, #breakfast"
-  - username: "aesthetics.lion"
+    hashtags: "#enfermeria, #futuraenfermera, #nurse, #rn"
+  - username: "richarddicorsa"
     fullname: >-
-      Leo “The Lion” Favaro
+      RICCARDO
     bio: >-
-      Personal and Online Coach 🖥 - 🇪🇸 🇮🇹 🇺🇸 IFBB PRO LEAGUE Men's Physique Fitness Model @yamamotonutrition TEAM @thegrimfrost athlete
+      📍ᴍᴀᴅʀɪᴅ, 🇪🇸 👮🏻‍♂️FCS / PMM ʜᴇ ᴅᴇsᴄᴜʙɪᴇʀᴛᴏ ʟᴏ ɪɴᴠᴇɴᴄɪʙʟᴇ ǫᴜᴇ ᴇs ᴇʟ ʜᴏᴍʙʀᴇ ǫᴜᴇ sᴏʟᴏ ᴛɪᴇɴᴇ sᴜ ᴀᴍᴏʀ ᴘᴀʀᴀ ʟᴜᴄʜᴀʀ ᴄᴏɴᴛʀᴀ ᴇʟ ᴍᴜɴᴅᴏ.
     location: "Spain"
-    followers: 10793
-    engagement: 96
-    commentsToLikes: 0.056073
-    id: ck0uaee1rc4uo0i19970n30uf
+    followers: 13131
+    engagement: 558
+    commentsToLikes: 0.031113
+    id: ck0u0i24htrzd0i19rmy1iyt9
     verified: false
-    hashtags: "#tattoo, #aesthetics, #ifbb, #mensphysique"
-  - username: "paulaellisfit"
+    hashtags: "#policia, #blackandwhite, #me, #style"
+  - username: "noemigolf1"
     fullname: >-
-      PAULA ELLIS
+      Noemi Jimenez Martin ♏️🌸🦋🙏🏻
     bio: >-
-      CEO @myfitlife.es 📲Asesorías Online Psicóloga Salud&Deporte🧠 Máster Nutrición-Entreno🍏 Máster Dirección Deportiva🏋🏼‍♀️ 💌paulaellisfit@gmail.com
+      Ladies European Tour||Sponsors @fincacortesin /@finisher_es /@rfegolf /@tagheuer /@chervo.official /@pinggolfeurope /@riversaoficial
     location: "Spain"
-    followers: 61709
-    engagement: 191
-    commentsToLikes: 0.074041
-    id: ck5hcfoq0hu560i11nl5nt23b
+    followers: 10016
+    engagement: 591
+    commentsToLikes: 0.039758
+    id: ck6tutcxpiaty0j71njo54ddq
     verified: false
-    hashtags: "#goodmorning, #routine, #dreambig, #aesthetic"
+    hashtags: "#tagheuer, #pinggolfeurope, #hofmann, #marbella"
   - username: "blancanutri"
     fullname: >-
       B L A N C A nutricionista👩🏽‍⚕️
     bio: >-
-      ✨📚El Intestino, nuestro 2do cerebro 🧠 Digestiva🌱 🏥Centro médico @clinicas.segura ☎️ 91 833 77 22 citas 👩🏽‍⚕️Consulta presencial y online 🎓Col MAD707
+      2📚 Intestino- cerebro 🧠 Nutri Digestivo- microbiota 🦠 🎓Col MAD707 👩🏽‍⚕️🏥 Consulta presencial y online @clinicas.segura
     location: "Spain"
-    followers: 313239
-    engagement: 310
-    commentsToLikes: 0.028473
+    followers: 516352
+    engagement: 273
+    commentsToLikes: 0.019940
     id: ck5hjjl7agqu90i11w1mndz7v
     verified: true
-    hashtags: "#majadahonda, #comida, #bajardepeso, #healthylife"
-  - username: "daly_fit"
+    hashtags: "#realfood, #chocolate, #fit, #vegetarian"
+  - username: "javi_ordieres"
     fullname: >-
-      • ᎠᎪᏞᎥᏞᎪ ᎾᏒᏆᎬᎶᎪ💎 🇮🇨 ⒾⒻⒷⒷ
+      Javi Ordieres
     bio: >-
-      ғɪᴛɴᴇss ᴄᴏᴀᴄʜ #model Exsoldier 🧑🏻‍✈️ 🇪🇸🇺🇸📍MIAMI 💪🏼 @gymkillerofficial 🐉 @dragonpharma_llc 💃🏻 @zumba ZIN 🏃🏻‍♀️ @wearestrongnation SYNC
+      Comunicador, Entrenador, #VanLife y Fundador de @find_your_everest_tienda 👇FLIPA CON NUESTRA TIENDA ONLINE👇
     location: "Spain"
-    followers: 117536
-    engagement: 570
-    commentsToLikes: 0.007230
-    id: ck5q0rg697e720i11nf77u1ua
+    followers: 36729
+    engagement: 447
+    commentsToLikes: 0.007458
+    id: ck13axul9spuw0i19igx6s1bl
     verified: false
-    hashtags: "#femalefitness, #fitfam, #fashion, #modelstyle"
-  - username: "beatrizchoco"
+    hashtags: "#monta, #asturies, #instarunners, #asturiasparaisonatural"
+  - username: "luciarodriguezsrn"
     fullname: >-
-      𝑩 𝑬 𝑨 𝑻 𝑹 𝑰 𝒁
+      lucia rodriguez
     bio: >-
-      𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆𝒅 𝒊𝒏 𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑻𝒓𝒂𝒅𝒆 @ohmvalladolid ॐ 🏘𝘝𝘢𝘭𝘭𝘢𝘥𝘰𝘭𝘪𝘥, 𝘚𝘱𝘢𝘪𝘯
+      📍Lanzarote/Madrid Nutrición y dietetica, UCM🥑🍓 🏋🏼‍♀️
     location: "Spain"
-    followers: 4516
+    followers: 2717
+    engagement: 1774
+    commentsToLikes: 0.031283
+    id: ckaozp6vvmsc70i78y4ottqwp
+    verified: false
+    hashtags: ""
+  - username: "nuriaprg"
+    fullname: >-
+      Nuria 🍃
+    bio: >-
+      📍| Madrid 📚| Nutrición deportiva y preparador físico ⚡| TikTok: nuriaprg (+250k) 📥| contactoinfonuria@gmail.com
+    location: "Spain"
+    followers: 27459
     engagement: 2020
-    commentsToLikes: 0.033787
-    id: ckf5mjviwu55n0j23gu6gg8zt
+    commentsToLikes: 0.015768
+    id: ckf5me43kte900j23r0cvxk13
     verified: false
-    hashtags: "#photooftheday, #girl, #follow, #fitnessgirl"
-  - username: "alicia.landivar"
+    hashtags: ""
+  - username: "centro.realfooding"
     fullname: >-
-      Alicia M. Landivar
+      Centro Realfooding | Nutrición
     bio: >-
-      Ed.D.NSC🍃EMDR Therapist☀️Author☀️ Mind, Brain & Education 🌿Parenting Resources 🕊 Teens Montessori Erdkinder🌸 Wellness 👣 #educarnosestransformarnos 🧡
+      Consulta de Nutrición, Psicología y Psiconutrición. Pide tu cita online o en Madrid 👇🏼👇🏼
     location: "Spain"
-    followers: 42930
-    engagement: 183
-    commentsToLikes: 0.026838
-    id: ck13d15ox353b0i19xhx3ve1t
+    followers: 76579
+    engagement: 52
+    commentsToLikes: 0.043235
+    id: ck0vv6o30ns4b0i19vrh84tof
     verified: false
-    hashtags: "#maracaibo, #vidauna, #juntospodemos, #amar"
+    hashtags: "#cambiosalimenticios, #dietista, #comidarealysana, #nutrientes"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Greece in 2023
+title: Top 10 Music Instagram Influencers In Greece In 2023
 description: >-
-  Find top music Instagram influencers in Greece in 2023. Most popular hashtags: #love #music #summer.
+  Find top music Instagram influencers in Greece in 2023. Most popular hashtags: #portrait #summer #moodoftheday.
 platform: Instagram
-hits: 217
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 217 Instagram influencers like this in Greece for you to collaborate.
+hits: 171
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 171 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "alinak.official"
+  - username: "elisavet_dovliatidou_official"
     fullname: >-
-      Alina K
+      Elisavet Dovliatidou 🇬🇷
     bio: >-
-      Romanian/Lebanese Ambassador at @arabfashioncouncil #alinakofficial #newrelease #Onlylove #music
+      Survivor girl 2017🤘🌴 Nomads2018 Greek model 5'11'' 15/4♈ Addicted to adventure,music🎵🎶and summer🏖🌞☀️ el2dov@gmail.com
     location: "Greece"
-    followers: 35719
-    engagement: 228
-    commentsToLikes: 0.239717
-    id: ck6ub38sn77hr0j716583d0u2
-    verified: true
-    hashtags: "#kuwait, #romania, #uk, #bucharest"
-  - username: "redheadonajourney"
-    fullname: >-
-      Julie 🇬🇷
-    bio: >-
-      Singer🎤 Content Creator 🎥 Brand Ambassador🧜‍♀️ Traveller ✈️ For collaborations DM 📩 Rock music lover 🤘 Acting lover 🎭 Check out @squirrelypigs 😉❤️
-    location: "Greece"
-    followers: 11116
-    engagement: 1971
-    commentsToLikes: 0.983718
-    id: ck8t7jmsvh1zo0j78cduexkcd
+    followers: 65240
+    engagement: 521
+    commentsToLikes: 0.513624
+    id: ck0u0b0z2t4z60i197isiuwme
     verified: false
-    hashtags: "#giveawaygreece, #styleoftheday, #greekjewelry, #influencerstyle"
+    hashtags: "#pregnancy, #moodoftheday, #giveaway, #pregnantbelly"
   - username: "konstantinos.kazakos"
     fullname: >-
       Konstantinos kazakos
     bio: >-
       Artist #actor #theater #guitarist #music #motorbikes
     location: "Greece"
-    followers: 9142
-    engagement: 1345
-    commentsToLikes: 0.017580
+    followers: 9063
+    engagement: 1319
+    commentsToLikes: 0.018383
     id: ck5pvdyexhegi0i113e510lde
     verified: false
-    hashtags: "#onset, #openbeyond, #manousakis, #opentv"
-  - username: "elenapapapanayiotou"
-    fullname: >-
-      Elena Papapanayiotou
-    bio: >-
-      🎤 @ytonthemusicshow 🎓Bachelor of Music Education-Study Jazz Voice- Ant1Radio🎧 Teaching 🎤TheVoiceOfGreece2 ✌️NEW SONG 💿⬇️ @heavenmusic_official 🇨🇾📍🇬🇷
-    location: "Greece"
-    followers: 17558
-    engagement: 1044
-    commentsToLikes: 0.014228
-    id: ck5px2d5bprm20i11bqepwoyh
-    verified: false
-    hashtags: "#the, #beautiful, #sky, #summer"
-  - username: "gogodelogianni"
-    fullname: >-
-      Gogo Delogianni
-    bio: >-
-      foodie ° cook ° recipe developer ° music lover ° DIME awards winner 2018 MAD about arts winner 2019 #gogodelogianni #foodloverfoodmaker Recipe link ⤵️
-    location: "Greece"
-    followers: 31237
-    engagement: 735
-    commentsToLikes: 0.008906
-    id: ck55lljyh1usa0i11v3z9inc1
-    verified: false
-    hashtags: "#kateveitetaskalia, #timetoendbreastcancer, #elcdonates, #lidlplus"
+    hashtags: "#opentv, #actor, #manousakis, #actorlife"
   - username: "voulgaraki_el"
     fullname: >-
       Εleni Voulgaraki  ✨🦋
     bio: >-
       Monday- Friday 📻 @music89.2 • 🦝 | 07:00- 10:00 Σ/Κ 📺 @opentvgr • “Έλα Χαμογέλα”|09:45- 13:00 Journalist | Digi Girl | 💫
     location: "Greece"
-    followers: 41214
-    engagement: 1172
-    commentsToLikes: 0.007538
+    followers: 47390
+    engagement: 1048
+    commentsToLikes: 0.007507
     id: ck5pveveyhjhl0i11fxl6hdd5
     verified: false
-    hashtags: "#happy, #whenwewereyoungandfree, #diorcapturetotale, #girlsnightout"
-  - username: "sharkkana"
-    fullname: >-
-      Sharkkana
-    bio: >-
-      Founder of @sharkkini 1/2 of @chamu.world 🌐 Music Management and Creative. sharkkana@gmail.com
-    location: "Greece"
-    followers: 5030
-    engagement: 1566
-    commentsToLikes: 0.065930
-    id: ck5pxdj8kr9p70i11u8a0t1nq
-    verified: false
-    hashtags: ""
+    hashtags: "#heybuddy, #alwaysplatinum, #jowae, #skincareharmony"
   - username: "giangideg"
     fullname: >-
       Gianluca
     bio: >-
       Made in Rome 🇮🇹 - I ❤️Football ⚽️ ASROMA - Music-Cinema-Travel ✈️
     location: "Greece"
-    followers: 228247
-    engagement: 217
-    commentsToLikes: 0.017287
+    followers: 226143
+    engagement: 219
+    commentsToLikes: 0.017273
     id: ckf5qz3ezavnt0j23e4g49kp8
     verified: false
-    hashtags: "#blondehairdontcare, #navajo, #zante, #beach"
-  - username: "lna.music"
+    hashtags: "#navajo, #zante, #beach, #blueeyes"
+  - username: "feniazachariou"
     fullname: >-
-      LNA (Elena)👑
+      Fᴇɴɪᴀ Zᴀᴄʜᴀʀɪᴏᴜ ⭐
     bio: >-
-      • Cantautora & Productora (Singer/Songwriter & Music Producer)🎼 • Bailarina (Dancer)💃🏽 • Berklee College of Music 🎵 💎DIAMANTE💎👇🏼👇🏼
+      🎤 ꜱɪɴɢᴇʀ @heaven_music_official 🎤 @jeunespremiers_fenia ♦️ ꜱɪɴɢᴇʀ | ᴀᴄᴛʀᴇꜱꜱ | ᴘᴇʀꜰᴏʀᴍᴇʀ 👇🏼 ꜰɪɴᴅ ᴍʏ ꜱᴏɴɢ "ᴛᴀɴɢᴏ" ʜᴇʀᴇ
     location: "Greece"
-    followers: 16849
-    engagement: 567
-    commentsToLikes: 0.023510
-    id: ckap4kz8e7rd70i780l2gjduq
+    followers: 4443
+    engagement: 916
+    commentsToLikes: 0.071958
+    id: ck8svssb4ck7f0j786w1wnd7s
     verified: false
-    hashtags: "#tumentiste, #lna, #diamante, #powerstyle"
-  - username: "simaheyrati"
+    hashtags: "#newsong, #foslive, #performers, #heavenmusic"
+  - username: "gogodelogianni"
     fullname: >-
-      S!MA
+      Gogo Delogianni
     bio: >-
-      ⚡️I MAKE MUSIC & LOVE HAIR⚡️ & GIRLBO$$ @rebellebeautybelgium 💕 Management: hans@popvilla.be
+      foodie ° cook ° recipe developer ° music lover ° DIME awards winner 2018 MAD about arts winner 2019 #gogodelogianni #foodloverfoodmaker Recipe link ⤵️
     location: "Greece"
-    followers: 7978
-    engagement: 717
-    commentsToLikes: 0.029213
-    id: ck5c0fidqt18g0i11d034vbqw
+    followers: 31703
+    engagement: 579
+    commentsToLikes: 0.005343
+    id: ck55lljyh1usa0i11v3z9inc1
     verified: false
-    hashtags: "#nofilter, #noscrubs, #singing, #cover"
+    hashtags: "#gogodelogiannifeat, #ad, #lidlhellas, #sundaysbreakfast"
+  - username: "lilatrianti"
+    fullname: >-
+      𝗟𝗜𝗟𝗔
+    bio: >-
+      Artist • Singer • Songwriter 🎤 🇬🇷 new music coming soon 🌹 My latest dance challenge #1brostachallenge 🔻
+    location: "Greece"
+    followers: 27490
+    engagement: 496
+    commentsToLikes: 0.027200
+    id: ck5px2hi5ps2m0i11n1p1kztv
+    verified: false
+    hashtags: "#latino, #newera, #backstage, #style"
+  - username: "aaronmatts"
+    fullname: >-
+      aaronmatts
+    bio: >-
+      Aaron Matts. Englishman living in Paris. I make music and tour the world with Betraying The Martyrs, I love my life.
+    location: "Greece"
+    followers: 39119
+    engagement: 403
+    commentsToLikes: 0.024688
+    id: ck13d5m2s3sbm0i19ewh0y1uj
+    verified: false
+    hashtags: "#breatheinlife, #rapture, #thailand, #kohlanta"
+  - username: "gianaman"
+    fullname: >-
+      Giannis Amanatidis
+    bio: >-
+      🏠 Athens, #Greece 🇬🇷 🎸 Working in music - Promo Manager @minosemi_official / @universalmusicgroup 🌙 Big world, big dreams..!! 🎶🌙
+    location: "Greece"
+    followers: 14451
+    engagement: 599
+    commentsToLikes: 0.010352
+    id: ck6tkyukz5o550j71blg6pw9e
+    verified: false
+    hashtags: "#tb, #summer, #kimolos, #sifnos"
+  - username: "vthodos"
+    fullname: >-
+      Vangelis
+    bio: >-
+      Follow my makeup account @vangelisthodos Music junkie, Against Prejudice & Intolerance, Lover not a Fighter, Punk at Heart!
+    location: "Greece"
+    followers: 9668
+    engagement: 523
+    commentsToLikes: 0.016980
+    id: ck9wel7f4krga0j78su8do9jj
+    verified: false
+    hashtags: "#cyclades, #holidays, #syrosisland, #syros"
 ---

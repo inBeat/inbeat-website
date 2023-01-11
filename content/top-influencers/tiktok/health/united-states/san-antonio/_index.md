@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health TikTok Influencers In San Antonio in 2023
+title: Top 10 Health TikTok Influencers In San Antonio In 2023
 description: >-
-  Find top health TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #foryou #sanantonio #foryoupage.
+  Find top health TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #duet #foryou #sanantonio.
 platform: TikTok
-hits: 5
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 5 TikTok influencers like this in San Antonio, United States for you to work with.
+hits: 6
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 6 TikTok influencers like this in San Antonio, United States for you to connect with.
 profiles:
-  - username: "miguel_bob"
+  - username: "txnat1ve"
     fullname: >-
-      Miguel el cuhh
+      0_0
     bio: >-
-      It’s only my third day here 🤷🏼‍♂️ Make me famous 🙏🏻 On the road to 20k
+      🥰 _Paypal:TXNAT1VE _Venmo: TXNAT1VE _Cashapp: $TXNAT1VE
     location: "United States"
-    followers: 18000
-    engagement: 1052
-    commentsToLikes: 0.023726
-    id: ck8kh4frdla040j78e4h59i43
+    followers: 13400
+    engagement: 571
+    commentsToLikes: 0.078333
+    id: ckb0pit9tfdqt0j23yzmw5nag
     verified: false
-    hashtags: "#fyp, #savetheworld, #sanantonio, #latino"
-  - username: "dominicacunafitness"
+    hashtags: "#foryou, #holidaytreats, #fyp, #sanantonio"
+  - username: "gerrybrooksprin"
     fullname: >-
-      Dominic Acuna
+      Gerrybrooksprin 
     bio: >-
-      Personal/Online Trainer Want to get in the best shape of your life? DM m
+      Educator - Facebooker - Fun Maker Gerrybrooksprin on IG, FB and Twitter
     location: "United States"
-    followers: 30100
-    engagement: 383
-    commentsToLikes: 0.010826
-    id: ck8qhx4fh6se40j78e9jo4b1s
-    verified: false
-    hashtags: "#healthy, #onlinetrainer, #quarantinelife, #howto"
-  - username: "arimonika"
+    followers: 309600
+    engagement: 1108
+    commentsToLikes: 0.021590
+    id: ck9si96p2xqiv0j78seevxa4t
+    verified: true
+    hashtags: "#jillbiden, #nurse, #daddy, #vaccination"
+  - username: "anynino"
     fullname: >-
-      Ariana Ruiz
+      ANA
     bio: >-
-      Recipes INSTA @ARIMONIKACOOKS Business manager 👉🏼 summer@sparktalentgroup.com
+      SUSCRÍBETE A MI CANAL DE YOUTUBE 😊 ❤️ANYS FAMILY ❤️
     location: "United States"
-    followers: 260500
-    engagement: 794
-    commentsToLikes: 0.010587
-    id: ck8hn0dzpotl90j78up6qmdde
+    followers: 19500
+    engagement: 559
+    commentsToLikes: 0.105647
+    id: ckd65a6po2s0j0j23m5cw3hc3
     verified: false
-    hashtags: "#kidfriendlyrecipe, #lowcalorie, #weightloss, #caloriedeficit"
-  - username: "axelgramirez"
+    hashtags: "#foryoupage, #quererespoder, #motivacion, #tiktok"
+  - username: "loantttruong"
     fullname: >-
-      Axel🇲🇽
+      Loan Truong
     bio: >-
-      Follow me & follow along on this crazy journey 🙏🏽🔥 | sa,tx | 50k?
+      Here are random videos I stole off the internet that are cool and some are mines
     location: "United States"
-    followers: 40300
-    engagement: 1043
-    commentsToLikes: 0.025270
-    id: ckacfnhuprp0j0i780olg87dx
+    followers: 31300
+    engagement: 540
+    commentsToLikes: 0.052230
+    id: ckaupmtb2uqca0j238nqgrxpo
     verified: false
-    hashtags: "#collab, #fyp, #sanantonio, #biden2020"
-  - username: "cruzmg1993"
+    hashtags: "#texas, #duet, #articblast, #fyp"
+  - username: "thefirewizard"
     fullname: >-
-      Maria 🌈
+      Josh Henney
     bio: >-
-      26,Texas. 🦋 Sagittarius ♐️ MAKE SURE YOU CHECK OUT MY POSHMARK CLOSET BELOW!
+      Sign up for Robinhood to buy dodgecoin Use my link to get a free stock!!!
     location: "United States"
-    followers: 5156
-    engagement: 629
-    commentsToLikes: 0.049412
-    id: cka0o57mx25780i78f4jnthsj
+    followers: 4154
+    engagement: 785
+    commentsToLikes: 0.025080
+    id: ckculwrz3hf570j23tzxfh2v2
     verified: false
-    hashtags: "#foryoupage, #trend, #fy, #viral"
-  - username: "young_rari"
+    hashtags: "#challenge, #fyp, #coronavirus, #texas"
+  - username: "investwithace"
     fullname: >-
-      Young_rari
+      investwithace
     bio: >-
-      Main insta: Madelineferreri COLLABS: Madeline@tiktal.co 90+ happy/healthy pets!
+      Own rentals🏠 Never see them 👀 Journey to zero taxes 💰 Invest + Learn👇
     location: "United States"
-    followers: 638300
-    engagement: 2828
-    commentsToLikes: 0.029328
-    id: ck83wwz4tmngj0j78eo9izp7u
+    followers: 458400
+    engagement: 706
+    commentsToLikes: 0.057046
+    id: ckb94hfk2lrpm0j237oxrq4cb
     verified: false
-    hashtags: "#foryoupage, #fyp, #stemlife, #neonshadow"
+    hashtags: "#duet, #rentalproperty, #economy, #realestate"
+  - username: "nataliejuliet"
+    fullname: >-
+      <3
+    bio: >-
+      u r loved <3 | 18 snap - natalieejuliet mental health advocate they/them
+    location: "United States"
+    followers: 1200000
+    engagement: 1947
+    commentsToLikes: 0.041199
+    id: ck8savqlr3vd90j78r9uznp9c
+    verified: true
+    hashtags: "#wlw, #fyp, #xyzbca, #lgbt"
+  - username: "lexinimmo"
+    fullname: >-
+      Lexinimmo
+    bio: >-
+      🎬Actress w/ Mccray Agency ➕Fat Fashion/Body Liberation 🧠Mental Health/ADHD
+    location: "United States"
+    followers: 82600
+    engagement: 1234
+    commentsToLikes: 0.301311
+    id: ckbwejjfw1nji0j23hi2y641u
+    verified: false
+    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
   - username: "sunshineceee"
     fullname: >-
       Cee :)
     bio: >-
-      she/her Hearing positivity, mental health awareness, gay vibes & ASL things 💛
+      she/her mental health awareness & positivity I'm so happy you exist 🌻💛🌈
     location: "United States"
-    followers: 11300
-    engagement: 4002
-    commentsToLikes: 0.107861
+    followers: 42000
+    engagement: 3771
+    commentsToLikes: 0.147559
     id: ckfo4ydvm1g7j0j23bef5ojul
     verified: false
-    hashtags: "#poetry, #positivity, #mentalhealthrecovery, #fyp"
-  - username: "urgir1friend"
+    hashtags: "#keepgoing, #fyp, #mentalhealthawareness, #mentalhealthawarenessmonth"
+  - username: "redwaverising"
     fullname: >-
-      selener —👄👁
+      RED WAVE RISING
     bio: >-
-      !currently on a mental health break! 14 | bay area 🌞 | swtr wthr ✨ | she/they
+      Licensed Healthcare Provider / #TRUMP2020 FireFighter-EMT / LEO (Ret) ◼️🔷◼️
     location: "United States"
-    followers: 25700
-    engagement: 3394
-    commentsToLikes: 0.077186
-    id: ckbqiw2zo42vv0j230azx5o6d
+    followers: 39800
+    engagement: 2241
+    commentsToLikes: 0.142209
+    id: ckd1ae08usdts0j23ungq5uy7
     verified: false
-    hashtags: "#gay, #yogaflow, #timefortenet, #alt"
-  - username: "lifeofleiva"
-    fullname: >-
-      Leiva
-    bio: >-
-      🗣 Speaking Truth 🇳🇮🇺🇲 #BIPOC Experience | Health | Education Venmo: @LeivaK
-    location: "United States"
-    followers: 29700
-    engagement: 2824
-    commentsToLikes: 0.094512
-    id: ckcejh207s9zp0j23sw90lsqs
-    verified: false
-    hashtags: "#elections, #black, #election, #expressieyourself"
-  - username: "shamrockbeauty"
-    fullname: >-
-      Shamrock Beauty
-    bio: >-
-      Beka Shamrock Normalizing Mental Health w/ Makeup and big Headpieces
-    location: "United States"
-    followers: 336000
-    engagement: 2349
-    commentsToLikes: 0.030561
-    id: ckbweq3lh1o330j23q61okmrk
-    verified: false
-    hashtags: "#voteblue, #biden2020, #31daysofhalloween, #halloweenmakeup"
+    hashtags: "#seattle, #police, #copsoftiktok, #iamlost"
 ---

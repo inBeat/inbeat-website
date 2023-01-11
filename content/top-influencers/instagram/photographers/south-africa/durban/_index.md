@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Durban in 2023
+title: Top 10 Photographers Instagram Influencers In Durban In 2023
 description: >-
-  Find top photographers Instagram influencers in Durban in 2023. Most popular hashtags: #photography #fashion #photoshoot #photooftheday.
+  Find top photographers Instagram influencers in Durban in 2023. Most popular hashtags: #fashion #nikon #beauty.
 platform: Instagram
-hits: 9
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Durban, South Africa for you to contact.
+hits: 5
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database has 5 Instagram influencers like this in Durban, South Africa for you to connect with.
 profiles:
-  - username: "elanaschilz"
-    fullname: >-
-      Elana Schilz Photography
-    bio: >-
-      ***For bookings please email hello@elanaschilz.com*** 📷 Freelance Photographer 🌍 Durban, South Africa 💍@elanaschilzweddings ☎️0769716736 #elanaschilz
-    location: "South Africa"
-    followers: 17469
-    engagement: 214
-    commentsToLikes: 0.023570
-    id: ck5zwwnim6wnc0i14x7l2buen
-    verified: false
-    hashtags: "#photoshoot, #durbanbased, #productphotography, #photography"
-  - username: "lifeofyuvik"
-    fullname: >-
-      Yuveer Karunchund
-    bio: >-
-      International Photographer : @yuvikphoto 📸 Wedding Work : @kapturestudio 📸 South Africa📍 🇦🇹🇧🇲🇨🇿🇦🇪🇫🇷🇩🇪🇭🇹🇮🇲🇮🇳🇮🇹🇯🇲🇰🇪🇱🇸🇱🇮🇱🇺🇲🇾🇲🇺🇲🇽🇲🇨🇳🇱🇶🇦🇷🇺🇸🇨🇸🇬🇿🇦🇪🇸🇨🇭🇹🇭🇺🇸🇿🇲
-    location: "South Africa"
-    followers: 11749
-    engagement: 445
-    commentsToLikes: 0.014494
-    id: ckaoqm6uhjcag0i78zf6owfrw
-    verified: false
-    hashtags: "#campsbay, #kapturestudios, #durban, #capetown"
   - username: "innographer"
     fullname: >-
       Innographer
     bio: >-
-      Fashion / Events / Weddings/ Commercial Photographer 📷 "Wherever there is light, one can photograph.” Bookings : Innographer@gmail.com 📍Durban 🇿🇦
+      Fashion / Events / Weddings/ Commercial Photographer 📷 Bookings : Innographer@gmail.com Personal Account :@nkanyisokhumalo_ 📍Durban, 🇿🇦
     location: "South Africa"
-    followers: 21707
-    engagement: 209
-    commentsToLikes: 0.022149
+    followers: 22818
+    engagement: 248
+    commentsToLikes: 0.023584
     id: ck5zu2r2e1km00i14450k4dm8
     verified: false
-    hashtags: "#beauty, #face, #fashion, #potrait"
-  - username: "aust_malema"
+    hashtags: "#blackwomen, #potrait, #culture, #bantuknot"
+  - username: "vergetherappersa"
     fullname: >-
-      Austin Malema
+      ☆VERGE THE RAPPER☆
     bio: >-
-      Bookings: Info@rtcstudio.com Creative Commercial, Editorial & Beauty Photographer 🌍📍Johannesburg , 🇿🇦 Forbes Africa 30 under 30 class of 2019
+      📧:𝐯𝐞𝐫𝐠𝐞𝐭𝐡𝐞𝐫𝐚𝐩𝐩𝐞𝐫𝐬𝐚@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 SEE YOU AT THE TOP MIXTAPE OUT NOW ↴
     location: "South Africa"
-    followers: 64180
-    engagement: 260
-    commentsToLikes: 0.033211
-    id: ck0udwuavk33k0i190h0ach0f
-    verified: true
-    hashtags: "#rtcgallery, #rtcstudios, #iamnikonsa, #zmwsp"
-  - username: "_ttlphotography_"
-    fullname: >-
-      TTL | Wedding Photographers
-    bio: >-
-      FATHIMA + SERAZ SONY Alpha Ambassadors Middle East/Africa. Educators at @sonyalphasa Send your photography enquiry via our website/email👇🏼
-    location: "South Africa"
-    followers: 16878
-    engagement: 207
-    commentsToLikes: 0.043787
-    id: ck5cimneasxrv0i11jccwxacq
+    followers: 3513
+    engagement: 823
+    commentsToLikes: 0.233658
+    id: ckap1ye6ywlqv0i782kg54cz7
     verified: false
-    hashtags: "#southafrica, #sonyalphasouthafrica, #bridebook, #southafricawedding"
-  - username: "fayros"
-    fullname: >-
-      F A Y R O S  J A F F E R فیروز
-    bio: >-
-      Life in Pictures Photographer, Visual Artist, Creative Director & Content Creator @fayrosjaffer_portfolio 📧 Info@lifeinpictures.co.za
-    location: "South Africa"
-    followers: 7054
-    engagement: 621
-    commentsToLikes: 0.178011
-    id: ck0vw1zz2rque0i19ygyfjeo7
-    verified: false
-    hashtags: "#photographer, #photography, #lifestyle, #mensfashion"
+    hashtags: "#newmusic, #soviet, #travel, #thelegacyyard"
   - username: "wadinepe"
     fullname: >-
       Itumeleng
     bio: >-
-      A CREATIVE Photographer Bookings: Wadiinepe@icloud.com WhatsApp:0733380538 🇿🇦 Johannesburg
+      A CREATIVE Portrait Events & fashion photographer 🇿🇦 Johannesburg
     location: "South Africa"
-    followers: 11283
-    engagement: 668
-    commentsToLikes: 0.042053
+    followers: 11353
+    engagement: 677
+    commentsToLikes: 0.041071
     id: ck8swja6cea080j78q6ijxr2w
     verified: false
     hashtags: ""
-  - username: "elvis_de_dravo_photo"
+  - username: "usha.harish.photography"
     fullname: >-
-      ElvisDedravo_moussou-berri666
+      Usha Harish
     bio: >-
-      📍🇨🇮WEST AFRICAN PHOTOGRAPHER #wedding #portrait #landscape #macrophotography #fashionphotography #event #travelphotography
+      Wildlife photographer & Safari Planner Contact for safari bookings and photo tours! Co-founder @marasiligicamp Raised in India, Living in Kenya
     location: "South Africa"
-    followers: 32630
-    engagement: 312
-    commentsToLikes: 0.010554
-    id: ck0w0vwqcgafd0i192ywxbxhf
+    followers: 18838
+    engagement: 803
+    commentsToLikes: 0.052177
+    id: ck0u7bkwl49s10i19199nybsp
     verified: false
-    hashtags: "#portraitstyles, #rsa, #ftwotw, #top"
-  - username: "stephenobi.jpg"
+    hashtags: "#wildliveplanet, #shots, #discoverwildpaws, #africanimals"
+  - username: "africanprintsinfashion"
     fullname: >-
-      🇳🇬 Stephen Obi
+      African Prints in Fashion
     bio: >-
-      #shotbystephenobi 🔴Content Creator ▪️YouTuber - @scunscripted ▪️Personal account - @lifeofstephenobi 📍JHB
+      ✨ Modern African Fashion, Design & Art ✨ BLOG #apif 🛍 SHOP @africaboutik ✨ Creator #AfricanCityBag ✨ Advertise your Brand ✨ Read my blog here👇🏾
     location: "South Africa"
-    followers: 11781
-    engagement: 1305
-    commentsToLikes: 0.045258
-    id: ck5c25ngqwl9y0i11j4rxai13
+    followers: 167792
+    engagement: 105
+    commentsToLikes: 0.009618
+    id: ck15sq4y5e9hv0i19vcp1hw59
     verified: false
-    hashtags: "#photography, #instadaily, #photographer, #instalike"
-  - username: "dunetilley"
+    hashtags: "#apifrocks, #printmix, #melanin, #africaboutik"
+  - username: "delmainedonson_art"
     fullname: >-
-      
+      DIGITAL ARTIST
     bio: >-
-      Photographer
+      - artist / director / photographer - Cape Town, South Africa 🇿🇦 NO COMMISSIONS❌ EXPECT SHIPPING DELAYS DUE TO COVID
     location: "South Africa"
-    followers: 10739
-    engagement: 847
-    commentsToLikes: 0.018567
-    id: ck5zrl6vnwsdb0i14ojswyc84
+    followers: 24796
+    engagement: 770
+    commentsToLikes: 0.028717
+    id: ck5q5a033rz170i11ahlhal6y
+    verified: false
+    hashtags: "#blackartists, #afroart, #thenaturalslife, #africa"
+  - username: "raising.wildlings_"
+    fullname: >-
+      Raising Wildlings
+    bio: >-
+      ⋒ Mama, influencer & photographer🍂 ⋒ Welcome to the real world. It sucks. You gonna love it!🍂 ⋒ @raising.wildlings_shop Cape Town, South Africa
+    location: "South Africa"
+    followers: 26155
+    engagement: 233
+    commentsToLikes: 0.129372
+    id: ck5q8gfat61yd0i11untwxg2y
+    verified: false
+    hashtags: "#loveisnotcancelled, #teamnosleep, #gift, #lastmoments"
+  - username: "kwanda_photography"
+    fullname: >-
+      Kwanda Photography
+    bio: >-
+      Wedding and Lifestyle photographer. For bookings contact@kwandaphotography.com www.kwandaphotography.com
+    location: "South Africa"
+    followers: 29507
+    engagement: 167
+    commentsToLikes: 0.059161
+    id: ck6u4nwmh4t0s0j714gkg68yp
+    verified: false
+    hashtags: ""
+  - username: "tailsofamermaid"
+    fullname: >-
+      Natalie Mulvaney
+    bio: >-
+      🤓 Influencer Relations Director 🇿🇦 South African 📷 Travel Blogger & Photographer 🏠 Cape Town/Nairobi 👩🏼‍💻Travel inspo & more:
+    location: "South Africa"
+    followers: 23929
+    engagement: 473
+    commentsToLikes: 0.072919
+    id: ck55j0i1pvyjp0i11bmfh9euj
+    verified: false
+    hashtags: "#nyatisafarilodge, #safari, #capetown, #capeviewclifton"
+  - username: "wadinepe"
+    fullname: >-
+      Itumeleng
+    bio: >-
+      A CREATIVE Portrait Events & fashion photographer 🇿🇦 Johannesburg
+    location: "South Africa"
+    followers: 11353
+    engagement: 677
+    commentsToLikes: 0.041071
+    id: ck8swja6cea080j78q6ijxr2w
     verified: false
     hashtags: ""
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Barcelona in 2023
+title: Top 10 TikTok Influencers In Barcelona In 2023
 description: >-
-  Find top TikTok influencers in Barcelona in 2023. Most popular hashtags: #parati #humor #fyp #comedia.
+  Find top TikTok influencers in Barcelona in 2023. Most popular hashtags: #fyp #parati #humor #viral.
 platform: TikTok
-hits: 175
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 175 TikTok influencers like this in Barcelona, Spain for you to contact.
+hits: 187
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 187 TikTok influencers like this in Barcelona, Spain for you to work with.
 profiles:
-  - username: "pablobrotonss"
+  - username: "mark20.20"
     fullname: >-
-      Pablo Brotons 💫
+      😋MARK😋
     bio: >-
-      📍Barcelona ✨Instagram: pablobrotonss 📩comunicacion.pablobrotons@gmail.com
+      🇪🇦BARCELONA🇪🇦
     location: "Spain"
-    followers: 1900000
-    engagement: 1983
-    commentsToLikes: 0.015783
-    id: ck9eq9bd3w6xk0j78rxt1e822
-    verified: true
-    hashtags: "#ad"
+    followers: 49500
+    engagement: 638
+    commentsToLikes: 0.202863
+    id: ckdc7cvjzhq940j23jcz9szgg
+    verified: false
+    hashtags: "#crush, #turkey, #toronto, #spain"
+  - username: "victortt99"
+    fullname: >-
+      🔥 𝕍𝕚𝕜𝕥𝕠𝕣𝕤𝕚𝕥𝕠 🔥
+    bio: >-
+      Hey 💛 Pa stalkear aquí stalkeame en insta 😏 Barcelona 🌆 [18]
+    location: "Spain"
+    followers: 518000
+    engagement: 1850
+    commentsToLikes: 0.018483
+    id: ck9ohnbj4c1ai0j78toswmcxk
+    verified: false
+    hashtags: "#duet, #stitch, #humor"
   - username: "humor.de.ary"
     fullname: >-
       ARY
     bio: >-
-      🎭 ESTAMOS DE COÑA 🎭 💕Desde Barcelona 💕 💕Fabricada en 1985💕
+      💥 BARCELONA 💥 AMEN, ASÍ, SIN ACENTO Y no se olvide del humor
     location: "Spain"
-    followers: 7505
-    engagement: 1612
-    commentsToLikes: 0.090996
+    followers: 8192
+    engagement: 1451
+    commentsToLikes: 0.139882
     id: ck9ejdcxz2gxr0j7848tfh35u
     verified: false
-    hashtags: "#humordeary, #fyp, #comedia, #amigosconderecho"
-  - username: "jancutillas"
+    hashtags: "#comedia, #covid19, #humor, #holamigente"
+  - username: "davidpascual18"
     fullname: >-
-      Jan Cutillas
+      David Pascual
     bio: >-
-      📍Barcelona 🌍 Instagram: @jancutillas infojancutillas@gmail.com
+      Barcelona📍Live Life INSTAGRAM: @davidpascual18 📩davidpascual@tkers.es
     location: "Spain"
     followers: 1100000
-    engagement: 2317
-    commentsToLikes: 0.012933
-    id: ck84majjtmq2a0j78i3y6ecls
-    verified: true
-    hashtags: "#recetaspimpam, #hoynoduermo"
+    engagement: 2437
+    commentsToLikes: 0.019164
+    id: ckb1d52ug20o20j23zfnicx5d
+    verified: false
+    hashtags: "#interesante, #greenscreen, #nosabias, #datos"
+  - username: "roisastre"
+    fullname: >-
+      ROI SASTRE
+    bio: >-
+      BARCELONA - VALENCIA roisastre@inmanagement.agency IG: roisastre
+    location: "Spain"
+    followers: 373100
+    engagement: 2024
+    commentsToLikes: 0.017911
+    id: ckacuz98llb9v0i78y0hos15b
+    verified: false
+    hashtags: "#estadodealarma, #covid, #covid19, #espa"
+  - username: "wassimfellahh"
+    fullname: >-
+      w a s s i m   f e l l a h
+    bio: >-
+      15 | barcelona, spain ☻ ig: wassimfellahh haciéndome feliz 🌱
+    location: "Spain"
+    followers: 42700
+    engagement: 1914
+    commentsToLikes: 0.053487
+    id: ckb9e5qor1p6w0j23q68smvg3
+    verified: false
+    hashtags: "#parati, #foryourpage, #greenscreen, #help"
   - username: "albertfont6"
     fullname: >-
       Albert Font
     bio: >-
       Cantar e interpretar mi pasión! ser yo mismo mi condición!!! Barcelona 👉❤️
     location: "Spain"
-    followers: 3272
-    engagement: 3106
-    commentsToLikes: 0.403230
+    followers: 3528
+    engagement: 2779
+    commentsToLikes: 0.534015
     id: ck9elqdzsbq8q0j78y68fluj7
     verified: false
-    hashtags: "#amigos, #humor, #viral, #parati"
-  - username: "la_tata_sheila"
+    hashtags: "#parati, #humor, #fyp, #davidbisbal"
+  - username: "robiiioo"
     fullname: >-
-      La tata
+      Guille 🌹
     bio: >-
-      #barcelona #santacolomadegramanet #humor
+      📍Barcelona Si me sigues me harás muy feliz !! 🥺 900k?🚀
     location: "Spain"
-    followers: 6255
-    engagement: 1279
-    commentsToLikes: 0.094201
-    id: ck9emjir4ff450j78oeb9gv9u
+    followers: 843000
+    engagement: 2020
+    commentsToLikes: 0.034455
+    id: ckamvxzvs5yuy0i787m805za4
     verified: false
-    hashtags: "#covid19, #ni, #humor, #comedia"
-  - username: "marta.hallo"
-    fullname: >-
-      Marta Alonso
-    bio: >-
-      Sígueme en instangram ❤️ Barcelona. Spain Matrona ...yo sólo pasaba por aquí...
-    location: "Spain"
-    followers: 156000
-    engagement: 1236
-    commentsToLikes: 0.053538
-    id: ckal5ciim648r0i78vptmsnnq
-    verified: false
-    hashtags: "#cosasquenosabias, #humor, #ciencia, #miexistencia"
-  - username: "roisastre"
-    fullname: >-
-      ROI SASTRE
-    bio: >-
-      BARCELONA IG | roisastre No soy borde, soy directo roisastre@inmanagement.agency
-    location: "Spain"
-    followers: 248400
-    engagement: 2039
-    commentsToLikes: 0.012352
-    id: ckacuz98llb9v0i78y0hos15b
-    verified: false
-    hashtags: "#covid, #humor, #toquedequeda, #embajadoroscarmayer"
-  - username: "alex_calandria._"
-    fullname: >-
-      Alex_calandria
-    bio: >-
-      📍Barcelona 👇Sígueme en instagram @alex_calandria👇
-    location: "Spain"
-    followers: 1100000
-    engagement: 2092
-    commentsToLikes: 0.152316
-    id: ckb9l8673do4r0j23v50uxdev
-    verified: false
-    hashtags: ""
+    hashtags: "#foryoupage, #spain, #greenscreenvideo, #fyp"
   - username: "angelfreestyler"
     fullname: >-
       angelfreestyler
     bio: >-
       Tu freestyler de confianza❤️⚽️😂 📍BARCELONA
     location: "Spain"
-    followers: 32100
-    engagement: 1938
-    commentsToLikes: 0.228450
+    followers: 31700
+    engagement: 1894
+    commentsToLikes: 0.196271
     id: ck8neqo44oh160j786t149vnm
     verified: false
-    hashtags: "#meme, #football, #parati, #soccer"
+    hashtags: "#foryou, #viral, #fyp, #parati"
   - username: "joan.rodriiguez"
     fullname: >-
       Joan Rodríguez
     bio: >-
-      📍Barcelona, Spain 🇪🇸 📸 Instagram: joan.rodriiguez
+      📍Barcelona, Spain 🇪🇸 📸 IG: joan.rodriiguez Ya que estás aquí SÍGUEME✌🏼
     location: "Spain"
-    followers: 133400
-    engagement: 1536
-    commentsToLikes: 0.031698
+    followers: 148800
+    engagement: 1530
+    commentsToLikes: 0.044639
     id: ckcog58y1329n0j237qr6taym
     verified: false
-    hashtags: "#parati, #foryou, #fyp, #insta"
+    hashtags: "#comparte, #insta, #humor, #parati"
 ---

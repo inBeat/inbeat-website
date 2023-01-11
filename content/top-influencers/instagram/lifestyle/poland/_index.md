@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Poland in 2023
+title: Top 10 Lifestyle Instagram Influencers In Poland In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Poland in 2023. Most popular hashtags: #autumnoutfit #polskadziewczyna #paznokciehybrydowe #ootd.
+  Find top lifestyle Instagram influencers in Poland in 2023. Most popular hashtags: #stylizacja #kosmetyki #polskadziewczyna #wakacje2021.
 platform: Instagram
-hits: 888
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 888 Instagram influencers like this in Poland for you to collaborate.
+hits: 806
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 806 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "angelika_rysz"
+  - username: "agastachurska"
     fullname: >-
-      Angelika
+      𝑨𝑮𝑵𝑰𝑬𝑺𝒁𝑲𝑨 𝑺𝑻𝑨𝑪𝑯𝑼𝑹𝑺𝑲𝑨
     bio: >-
-      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
+      ▪️vegan lifestyle ▪️represented by @madeit.management 📩 contact@madeit.management
     location: "Poland"
-    followers: 3646
-    engagement: 1525
-    commentsToLikes: 0.346529
-    id: ck5zizhb5gnvu0i14guq3n633
+    followers: 293206
+    engagement: 79
+    commentsToLikes: 0.211544
+    id: ck8sxl1xmhseg0j78crrizj95
     verified: false
-    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
+    hashtags: "#reklama, #wsp, #jennyfairy, #magia"
+  - username: "modny_tata"
+    fullname: >-
+      dr Michał Będźmirowski
+    bio: >-
+      🇵🇱 Doctor of Social Science Lifestyle, Fashion, Sport, Travel, Books Social media inquiries: info@modnytata.pl
+    location: "Poland"
+    followers: 125065
+    engagement: 55
+    commentsToLikes: 0.020379
+    id: ck15tjtdaiful0i196i8jo7lv
+    verified: true
+    hashtags: "#modnytata, #reklama, #puravida, #wsp"
+  - username: "sylka_ciekawska"
+    fullname: >-
+      Sylka Ciekawska
+    bio: >-
+      Contact-Collab : igielskaa1@gmail.com 💄 INFLUENCER 🌺 LIFESTYLE BLOGGER Love travel ;) PL✈UK
+    location: "Poland"
+    followers: 56964
+    engagement: 378
+    commentsToLikes: 0.031483
+    id: ck5hq3ep7sfg40i114bf1a39q
+    verified: false
+    hashtags: "#sheingals, #kosmetyki, #pielegnacja, #flatlaystyle"
   - username: "joanna.walkow"
     fullname: >-
-      Joanna 🌸
+      Joanna Walków
     bio: >-
-      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
+      ♡ @adellanti.pl owner 🕊🌸 E-mail: joannawalkow@icloud.com #fashion | #travel | #lifestyle | #positivevibes ✨
     location: "Poland"
-    followers: 5977
-    engagement: 1547
-    commentsToLikes: 0.093577
+    followers: 7761
+    engagement: 1557
+    commentsToLikes: 0.073788
     id: ck9wekanbknaa0j7834my2xx2
     verified: false
-    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
+    hashtags: "#wiosennie, #pary, #torebka, #wie"
+  - username: "magda_lene_"
+    fullname: >-
+      Magda
+    bio: >-
+      ,,Nothing happens without a reason". #lifestyle Contact/Collab DM 💌 magdalena80202@gmail.com Konin, Poland 🇵🇱
+    location: "Poland"
+    followers: 19253
+    engagement: 775
+    commentsToLikes: 0.035636
+    id: ck5zt5txvzsia0i147ak8uch4
+    verified: false
+    hashtags: "#womenfashion, #sukienka, #photo, #bloggerstyle"
   - username: "inesbeautypl"
     fullname: >-
       𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
     bio: >-
-      𝓐𝓰𝓮41|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
+      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
     location: "Poland"
-    followers: 36614
-    engagement: 763
-    commentsToLikes: 0.851104
+    followers: 48228
+    engagement: 344
+    commentsToLikes: 0.110260
     id: ck8tdgwnv399r0j78scov01sy
     verified: false
-    hashtags: "#niechsiedziejenajlepiej, #pozytywnabzdurka, #ialreadysawoso"
-  - username: "lucas.zavo"
+    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
+  - username: "rapujacepierogi"
     fullname: >-
-      Lucas Zavo
+      
     bio: >-
-      📍 London 🇬🇧 📩 Collaboration | zavo.lucas@gmail.com 💑 My honey @nadiyaarcher 💋 👱🏼 Influencer 👔 Fashion | Gym | LifeStyle 👇🏻 YOUTUBE Channel
+      Parisian soul and beige aesthetics lover PL 🇵🇱 Warsaw 💌 rapujace@gmail.com Fashion ✖ Lifestyle ✖ Beauty
     location: "Poland"
-    followers: 19760
-    engagement: 2008
-    commentsToLikes: 0.059148
-    id: ck5pz8trazs440i113531crak
+    followers: 12486
+    engagement: 551
+    commentsToLikes: 0.059271
+    id: ck8t70s9xf9s70j780sso23xk
     verified: false
-    hashtags: "#handsomeman, #shredded, #warsawboy, #topmodel"
-  - username: "nataliakacprzyk_"
+    hashtags: "#minimalstreetstyle, #dailylookbook, #picnictime, #llemerci"
+  - username: "o_czarnecka"
     fullname: >-
-      NATALIA KACPRZYK
+      Aleksandra Czarnecka
     bio: >-
-      #fashion | #beauty | #lifestyle 📍Katowice/Siewierz, Poland 💌 Collab:nataliakacprzyk26@gmail.com
+      | MAKEUP | BEAUTY | LIFESTYLE | 📩 Collab: o.czarnecka.yt@gmail.com 🕯Founder: @candlewick.pl 📍Szczecin/Kołobrzeg #inspiredbyoczarnecka
     location: "Poland"
-    followers: 12420
-    engagement: 1186
-    commentsToLikes: 0.127495
-    id: ckaoswanmtb0u0i78xldlausi
+    followers: 58022
+    engagement: 1884
+    commentsToLikes: 0.027311
+    id: ck8t70ghsf8u80j78dgdq0npw
     verified: false
-    hashtags: "#photoshootday, #hairgoal, #hairstyleoftheday, #zakopane2020"
-  - username: "beata_chmielowska_olech"
+    hashtags: "#nyxcosmeticspl, #glamfam, #makeuplooks, #makeupartist"
+  - username: "ladysariel"
     fullname: >-
-      Beata Chmielowska-Olech
+      Lady Sariel
     bio: >-
-      #tvpresenter #journalist #lifestyle #events #businessmeetings #tv #beautycare #educationalproject #music #management 📩b.chmielowskaolech@gmail.com
+      Collab: ladysariel@icloud.com Moda alternatywna ❤️ Makijaż 🖤 Tatuaże ❤️ Lifestyle 🖤 ⬇️⬇️youtube!⬇️⬇️
     location: "Poland"
-    followers: 13983
-    engagement: 1103
-    commentsToLikes: 0.076755
-    id: ck6tpvvgqnj0e0j71miyul8gv
+    followers: 89998
+    engagement: 341
+    commentsToLikes: 0.032153
+    id: ck5hh3elg66hp0i113na7ltaa
     verified: false
-    hashtags: "#teleexpress, #badzmyrazem, #teleexpressextra, #tvp2"
-  - username: "rita_miksiewicz"
+    hashtags: "#modelka, #makijaz, #polishmetalhead, #plodylody"
+  - username: "daawidrakowski"
     fullname: >-
-      𝗚𝗜𝗥𝗟 𝗡𝗘𝗫𝗧 𝗗𝗢𝗢𝗥
+      Dawid Rakowski💥
     bio: >-
-      Doceniam to co mam i cieszę się z małych rzeczy ♡ • Owner @mimossa_store • Movies | Books | Fashion | Lifestyle 📍Poznań ✖️Mail: rita@mohomodels.pl
+      ✈️Travels & Lifestyle 🚀Team @fanadisecom 📩daawidrakowski@gmail.com ⬇️ MORE ON STORIES ⬇️
     location: "Poland"
-    followers: 17442
-    engagement: 842
-    commentsToLikes: 0.080807
-    id: ck8t6dismd7n80j786mphnca8
+    followers: 115152
+    engagement: 797
+    commentsToLikes: 0.067723
+    id: ck8wgjv0nhhpv0j781vbxmzmj
     verified: false
-    hashtags: "#classyoutfit, #jesien, #jesienneklimaty, #polskamarka"
-  - username: "justyna__kowalewska"
-    fullname: >-
-      Justyna Kowalewska
-    bio: >-
-      🖤 M o m to J o s e p h 🖤 W i f e to J a c o b _____________ P o l a n d #motherhood #fashion & #lifestyle _____________ just.kowalewska@wp.pl
-    location: "Poland"
-    followers: 5048
-    engagement: 1499
-    commentsToLikes: 0.187638
-    id: ck139k8r7lq0q0i19ouxmrtuc
-    verified: false
-    hashtags: "#thetravellingnomads, #seasonspoetry, #girlaroundworld, #travellikegirl"
-  - username: "zuziacia"
-    fullname: >-
-      Zuzia
-    bio: >-
-      Mama Wojtusia i Julci 🧡 Fotograf 🧡 📩 Zuzanna.ciaston@gmail.com #parenting #lifestyle #instamama Zakaz kopiowania zdjęć bez zgody 😉
-    location: "Poland"
-    followers: 12093
-    engagement: 1089
-    commentsToLikes: 0.081259
-    id: ck5qdvyq6xk4b0i11gaa5phs6
-    verified: false
-    hashtags: "#miko, #handmadedladzieci, #kidsstyling, #polishgirl"
-  - username: "agienese"
-    fullname: >-
-      agienese
-    bio: >-
-      🍃lifestyle•fashion 🍃Współpraca: agienesee@gmail.com lub 📥
-    location: "Poland"
-    followers: 7294
-    engagement: 1342
-    commentsToLikes: 0.058114
-    id: ck13cx1yw2l270i1914bwo2np
-    verified: false
-    hashtags: "#blondynka, #jesiennastylizacja, #paznokciezelowe, #nailsinspo"
+    hashtags: "#vespapolska, #yesvespa, #vespa, #mirindaorange"
 ---

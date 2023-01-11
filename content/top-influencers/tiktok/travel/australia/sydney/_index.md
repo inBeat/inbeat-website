@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Sydney in 2023
+title: Top 10 Travel TikTok Influencers In Sydney In 2023
 description: >-
-  Find top travel TikTok influencers in Sydney in 2023. Most popular hashtags: #travel #sydney #australia #fyp.
+  Find top travel TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #foryou #australia #travel.
 platform: TikTok
-hits: 35
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 35 TikTok influencers like this in Sydney, Australia for you to pitch.
+hits: 47
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 47 TikTok influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "gabreal.hungry"
+  - username: "helenchikx"
     fullname: >-
-      Gabrielle
+      Helen Chik
     bio: >-
-      I love food and boba too much
+      Sydney🐨🇦🇺 ❤️s Muay Thai, a writer & mother 👇🏼BETTER ON INSTAGRAM 😌
     location: "Australia"
-    followers: 5082
-    engagement: 863
-    commentsToLikes: 0.026709
-    id: ckauyssfw4aiw0j233wipxz1x
+    followers: 53300
+    engagement: 1221
+    commentsToLikes: 0.089249
+    id: ck9v0merwdazi0j78oxagbqph
     verified: false
-    hashtags: "#quarantine, #albumcover, #chiangrai, #albumcoverchallenge"
+    hashtags: "#transition, #sydney, #tutting, #transitions"
+  - username: "lauraelisee"
+    fullname: >-
+      Laura Elise
+    bio: >-
+      I just want to start living my life instead of existing in it
+    location: "Australia"
+    followers: 24200
+    engagement: 1081
+    commentsToLikes: 0.038112
+    id: ckcjpqdzqggrn0j23hq80g8qe
+    verified: false
+    hashtags: "#fyp, #duet, #sydney, #australia"
   - username: "itsjanicefung"
     fullname: >-
       Itsjanicefung
     bio: >-
       📷 IG: itsjanicefung 👇🏼100+ videos on Food & Travel! 🥘 ✈️ 🍣
     location: "Australia"
-    followers: 17600
-    engagement: 713
-    commentsToLikes: 0.018193
+    followers: 20100
+    engagement: 849
+    commentsToLikes: 0.017488
     id: ckc7w5ka1zf870j23jhbp57ls
     verified: false
-    hashtags: "#travelmemories, #foodie, #hiddengem, #aussiefoods"
-  - username: "mydebstinations"
+    hashtags: "#travelmememories, #eats, #foodreview, #tiktokau"
+  - username: "k.atxu"
     fullname: >-
-      Deb | A Geeky POV to Sydney
+      kat 🌸
     bio: >-
-      🐨 A guide to Sydney + travel, with a geek twist ✨ Writer + lightsaber spinner
+      21 sydney just having a good time my dudes
     location: "Australia"
-    followers: 6016
-    engagement: 673
-    commentsToLikes: 0.097277
-    id: ckb9jfl6bakiz0j234peqte0j
+    followers: 9481
+    engagement: 983
+    commentsToLikes: 0.038375
+    id: ckb9qhyfimi0c0j23i4693dyz
     verified: false
-    hashtags: "#sydneyoperahouse, #sydneylife, #birdsofoz, #homepod"
-  - username: "adamrikys"
+    hashtags: "#tiktoktravel, #asian, #photoshootideas, #fyp"
+  - username: "berniceaverion"
     fullname: >-
-      Adam Rikys
+      Bernice Averion
     bio: >-
-      Travel vids 4U 🌏🤳 Currently in: NSW 🇦🇺🦘
+      Bernice | bunnybernice.com | 📍Sydney, Au IG @bunnybernice | ⬇️40% off meals ⬇️
     location: "Australia"
-    followers: 32700
-    engagement: 924
-    commentsToLikes: 0.023470
-    id: ckdt9f07tu94a0j23m2y3ibkr
+    followers: 7834
+    engagement: 342
+    commentsToLikes: 0.041458
+    id: ckce34j81iybi0j233bq1k9ga
     verified: false
-    hashtags: "#sydney, #travel, #australia, #newsouthwales"
-  - username: "jcmfilms"
-    fullname: >-
-      JCM Creative
-    bio: >-
-      Travels 🌍/ Videographer 📸 Sydney, Australia IG @jcmcreative
-    location: "Australia"
-    followers: 14200
-    engagement: 996
-    commentsToLikes: 0.015135
-    id: ck9fg80wr0mqj0j78j4f9eb2u
-    verified: false
-    hashtags: "#travel, #foryoup, #foryoupage, #4u"
-  - username: "overpackedsuitcase"
-    fullname: >-
-      Raphaela
-    bio: >-
-      🧳 travel + lifestyle 💖 🌙 Follow me on IG: @overpackedsuitcase
-    location: "Australia"
-    followers: 2061
-    engagement: 1014
-    commentsToLikes: 0.236890
-    id: ck9dwvm4mqr8n0j782b3cz8fl
-    verified: false
-    hashtags: "#fyp, #sydneyblogger, #sheisnotlost, #australia"
-  - username: "drkiranthapa"
-    fullname: >-
-      Dr Kiran Thapa
-    bio: >-
-      An Entrepreneur who is inspired from nature, travel and interactions with people
-    location: "Australia"
-    followers: 26800
-    engagement: 507
-    commentsToLikes: 0.000000
-    id: ckdt04et8rg2b0j23cpwg8x5a
-    verified: false
-    hashtags: "#drkiranthapa, #entrepreneur, #neptasmuser, #tiktoknepal"
-  - username: "lukedamant"
-    fullname: >-
-      Luke Damant
-    bio: >-
-      Travel vlogger 20 years young sydney, aus 🇦🇺 43K + Instagram: 145K + YouTube
-    location: "Australia"
-    followers: 350900
-    engagement: 690
-    commentsToLikes: 0.074940
-    id: ck8orm0m4cub50j78e0r042jl
-    verified: false
-    hashtags: "#australia, #travel, #european, #food"
+    hashtags: "#sydneyfood, #sydneyeats, #sydneyaustralia, #sydneyfoodie"
   - username: "andyescapes"
     fullname: >-
       Andrew
     bio: >-
-      Videographer 📸 Always Adventuring | Syd 🇦🇺 Check the IG for the bangers 🔥
+      Videographer 📸 Always Adventuring | 🇦🇺 Check the IG for the bangers 🔥
     location: "Australia"
-    followers: 79400
-    engagement: 816
-    commentsToLikes: 0.018667
+    followers: 117300
+    engagement: 863
+    commentsToLikes: 0.017261
     id: ckbffu2t3apxc0j23ajpez8yv
     verified: false
-    hashtags: "#drone, #transition, #cinematic, #viral"
-  - username: "bigbiteeco"
+    hashtags: "#sunset, #helicopter, #waterfall, #foodtiktok"
+  - username: "yantastic"
     fullname: >-
-      BigBiteEco.
+      Peter Yan
     bio: >-
-      ♻️Eco-friendly essentials that won’t cost the earth🌏 👇🏻Use code “TIK10” 4 a💝
+      IG @yantastic 300K☝🏼 Photography | Tech | Art My Presets & Art Prints 👇🏼
     location: "Australia"
-    followers: 24200
-    engagement: 847
-    commentsToLikes: 0.006533
-    id: ckd6lhnrsfbql0j234wp8muwv
+    followers: 363000
+    engagement: 1117
+    commentsToLikes: 0.025216
+    id: ckd0w6xfbkg3d0j23244jf8wc
+    verified: true
+    hashtags: "#albumcoverchallenge, #photoediting, #photographer, #fyp"
+  - username: "chuckayouii"
+    fullname: >-
+      Youseph Kay
+    bio: >-
+      Follow my Insta @chuckayouii ✌🏼
+    location: "Australia"
+    followers: 107100
+    engagement: 433
+    commentsToLikes: 0.030045
+    id: ck81quqm9k0te0j78wjjepqmd
     verified: false
-    hashtags: "#zerowaste, #dayinmylife, #ecofriendly, #plasticfree"
+    hashtags: "#training, #fitness, #boxing, #kicks"
+  - username: "makeupbydrew_"
+    fullname: >-
+      Makeup By Drew 
+    bio: >-
+      All things Glam 💄 SYDNEY MAKEUP ARTIST 🦋 Instagram - @makeupbydrew_
+    location: "Australia"
+    followers: 7117
+    engagement: 568
+    commentsToLikes: 0.030314
+    id: ckc90hki6pwpv0j23axjpxgr1
+    verified: false
+    hashtags: "#makeup, #makeupartist, #fyp, #foryourpage"
+  - username: "rishi_bhavsar1505"
+    fullname: >-
+      Rishi Bhavsar
+    bio: >-
+      Sᴛᴀʏ Cʟᴀssʏ😎 🇮🇳 ✈️ 🇦🇺 🏠 🆂🆈🅳🅽🅴🆈 Instagram-wanderlust_chefrishi
+    location: "Australia"
+    followers: 110500
+    engagement: 223
+    commentsToLikes: 0.011426
+    id: ck9k7p6ib5rli0j78wc7k1yri
+    verified: false
+    hashtags: "#tiktoksydney, #foryou, #tiktokindia, #india"
 ---

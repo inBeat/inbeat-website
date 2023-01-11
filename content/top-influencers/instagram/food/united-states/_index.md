@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In United States in 2023
+title: Top 10 Food Instagram Influencers In United States In 2023
 description: >-
-  Find top food Instagram influencers in United States in 2023. Most popular hashtags: #summervibes #ad #hotel.
+  Find top food Instagram influencers in United States in 2023. Most popular hashtags: #foodie #foodporn #easyrecipes #dessert.
 platform: Instagram
-hits: 10654
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 10654 Instagram influencers like this in United States for you to contact.
+hits: 14860
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 14860 Instagram influencers like this in United States for you to work with.
 profiles:
-  - username: "voguishdiet"
+  - username: "annierose.nelson"
     fullname: >-
-      Gaby Aleixandre
+      Annie Rose Nelson
     bio: >-
-      Lifestyle Blogger-Foodie 📍Miami, Fl Youtube.com/voguishdiet Contact: info@voguishdiet.com Photos by @legendaryalex
+      NYC | life, wellness, favs, food tiktok @ annierosenelson ✉️ msannierose@gmail.com meal plan below
     location: "United States"
-    followers: 19088
-    engagement: 3184
-    commentsToLikes: 0.066797
-    id: ck5byrr4tppqv0i11vb64i9fk
+    followers: 66355
+    engagement: 699
+    commentsToLikes: 0.006191
+    id: cl0cxzu0qgll50i23a9luo6oi
     verified: false
-    hashtags: "#mysmashbox, #dualipa, #letsgetphysical, #smashboxpartner"
-  - username: "dannyandthemachine"
+    hashtags: "#workoutroutine, #motivationalquotes, #productive, #healthyliving"
+  - username: "lahbco"
     fullname: >-
-      Danny is me.
+      Nasim Lahbichi
     bio: >-
-      California | Fashionista | Traveler | RD | LDR | Photographer | Foodie | Upper Echelon | The trick is to keep breathing.
+      🍋 if i’m not crying about a boy, i’m making food… hbu? 📲More recipes on TT {525k✨} be kind, inspire, and love
     location: "United States"
-    followers: 5787
-    engagement: 1593
-    commentsToLikes: 0.149568
-    id: ck14jkkaskswt0i1997mfvbww
+    followers: 344422
+    engagement: 588
+    commentsToLikes: 0.010580
+    id: ckybzmgh5ntya0j23kj9umtzq
     verified: false
-    hashtags: "#instatravel, #summervibes, #potd, #ad"
-  - username: "zoe_gathi"
+    hashtags: "#easyveganrecipes, #comfortfood, #holidayrecipes, #plantbasedrecipes"
+  - username: "lifewithashleyann"
     fullname: >-
-      🌸Travelin Lady Zoe Gathi🌸
+      ashley || chicago creator
     bio: >-
-      ✈️Passionate about traveling✈️Fashion admirer🌸Food lover🌸All 📸 mine. 46 countries and counting. 💌 DM & zoeagathopoulou@gmail.com. Blogger on:
+      ✨mom life around chicagoland + beyond • food to eat, places to go, what to wear • ✨lunch packing + recipe reels⬇️ 💌contactlifewithashleyann@gmail.com
     location: "United States"
-    followers: 14398
-    engagement: 1282
-    commentsToLikes: 0.083612
-    id: ck8szrsekph4u0j78nadfg986
+    followers: 36554
+    engagement: 3783
+    commentsToLikes: -0.449386
+    id: cl7i0lxqdtv2n0i23c3joq3hq
     verified: false
-    hashtags: "#girlsborntotravel, #winetime, #greecestagram, #traveladdict"
-  - username: "daniellebredenhof"
+    hashtags: "#luncheazepartner, #christmaspopup, #chicagopopup, #chicagobar"
+  - username: "upbeetanisha"
     fullname: >-
-      Danielle Bredenhof | Fitness
+      Anisha
     bio: >-
-      🦋 20 | Fitness & Nutrition 🤍 @foodspring athlete Founder @fit.andfeminine Train with me! 👇🏼 Booty building program
+      simple plant-based food ✌🏽🌎 newsletter (spice club!) and recipes:
     location: "United States"
-    followers: 22458
-    engagement: 1148
-    commentsToLikes: 0.077520
-    id: ck8t2wmkk0yww0j78l7t8y7i6
+    followers: 45589
+    engagement: 1118
+    commentsToLikes: 0.087525
+    id: ckmxacukh9l700j23bwnvptt3
     verified: false
-    hashtags: ""
-  - username: "petrakorpi"
+    hashtags: "#plantbased, #indianstreetfood, #indianfood, #eatplants"
+  - username: "sanjyotkeer"
     fullname: >-
-      P E T R A  W
+      Sanjyot Keer
     bio: >-
-      🍋HEALTH COACH 👯‍♀️yes girl co-founder: @yesgirlofficial 🤓 positive psychology student 🍟 Food podcaster: @bella.table 💌 hello@petrakorpi.com
+      Founder @yourfoodlab, Chef by profession & content creator by destiny, bringing smiles through food videos online. 📧: sanjyotkeer@yourfoodlab.com
     location: "United States"
-    followers: 22422
-    engagement: 863
-    commentsToLikes: 0.062321
-    id: ck13cwag72h8p0i19yuspamka
-    verified: false
-    hashtags: "#kirjavinkit, #itcosmetics, #24hpositivity, #surprise"
-  - username: "alwe_brh"
+    followers: 177823
+    engagement: 885
+    commentsToLikes: 0.009212
+    id: ck0vxpugk048s0i19z0hyzvh2
+    verified: true
+    hashtags: "#indiancuisine, #sanjyotkeer, #foodporn, #indianfood"
+  - username: "sabrazaraa"
     fullname: >-
-      Alwena Brehin
+      Seattle Lifestyle & Travel | PharmD, MPH, PhC
     bio: >-
-      Wushu ⚔️ life and fun 😄 1rst duan 🥋 Geek 🎮 love food 🍕 Just what I love to do and makes me laugh 🎶
+      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
     location: "United States"
-    followers: 15204
-    engagement: 3043
-    commentsToLikes: 0.086166
-    id: ck8t9odjuoqz00j7877c76ehc
+    followers: 77441
+    engagement: 726
+    commentsToLikes: 0.023415
+    id: ck14lbl7wtu3i0i191qq4vdxr
     verified: false
-    hashtags: "#chinesemartialarts, #videogamesaddict, #kungfu, #taolu"
-  - username: "katieboron"
+    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
+  - username: "saengdouangdara"
     fullname: >-
-      katie boroniec
+      Saeng Douangdara
     bio: >-
-      I dabble in exploring Chicago, taking pictures of my food, advocating for the oxford comma, and brewery hopping † she/her
+      🏳️‍🌈🇱🇦🇺🇸 Lao Food Instructor | Storyteller | Food Writer | Personal Chef #notlarb #laohot #eatmorelaofood Hey Lao food besties, Recipes & More ⬇️
     location: "United States"
-    followers: 4727
-    engagement: 2182
-    commentsToLikes: 0.146861
-    id: ckapbjndx04nw0i783mga7cig
+    followers: 93166
+    engagement: 953
+    commentsToLikes: 0.022262
+    id: ck0uacwyhby6l0i19tabj3qsc
     verified: false
-    hashtags: "#election2020, #vote2020, #bidenharris2020, #joebiden"
-  - username: "fit.full.life"
+    hashtags: "#asianfood, #laos, #noodles, #foodie"
+  - username: "thehungryytraveler"
     fullname: >-
-      Julie
+      Jenna | The Hungry Traveler✈️🍋
     bio: >-
-      Registered Dietitian • B.S. Nutrition and Exercise Physiology • Barre Certified • Mom of 4 • Food, Fitness and Wellness
+      Foodie with the travel bug🍴🌎✨ 📍 𝐍𝐉 • 𝐍𝐘𝐂 | 𝐅𝐨𝐨𝐝 • 𝐓𝐫𝐚𝐯𝐞𝐥 🥂 @jenna_piemonte 📱Follow me on Tiktok! (20k) 📩thehungryytraveler@gmail.com ✨
     location: "United States"
-    followers: 8757
-    engagement: 1973
-    commentsToLikes: 0.386816
-    id: ck6tukukugwtw0j718rwi641a
+    followers: 6775
+    engagement: 497
+    commentsToLikes: 0.362003
+    id: cl7zclq2nzkp80i236r5jx59z
     verified: false
-    hashtags: "#bodypositive, #dietitiansofinstagram, #strongcore, #healthyliving"
-  - username: "ansari_hira"
+    hashtags: "#eatingnj, #drinksofinstagram, #foodreel, #foodlover"
+  - username: "eatingallofny"
     fullname: >-
-      𝐇 𝐈 𝐑 𝐀
+      EATING ALL OF NYC | NYC Food
     bio: >-
-      in love with food & life | 🇵🇰 | nc | let’s be friends 🌻
+      Yes I’m the foodie friend 👩🏻‍💻 @kat.irene 📍NYC (and sometimes Boston) 🎉DM or email for collabs 📩 eatingallofny@gmail.com
     location: "United States"
-    followers: 9787
-    engagement: 1965
-    commentsToLikes: 0.145886
-    id: ck5ho070uop380i11htb8me8m
+    followers: 33531
+    engagement: 619
+    commentsToLikes: 0.049642
+    id: cl6oixfuslgs80i23l95idj22
     verified: false
-    hashtags: "#blackouttuesday, #biden, #johnmastersgreenteam, #johnmastersorganics"
-  - username: "serpens9"
+    hashtags: "#westvillage, #uppereastside, #nycfood, #manhattan"
+  - username: "foodwithbros"
     fullname: >-
-      Alan 🩺 Medical Student
+      BROS | Food + Travel 🍔 OC & LA
     bio: >-
-      Jersey Boi 🧢🌲 Fitness • Fashion • Food: @ipikachew 🍔 🌈@jjmalibu use SERPENS9 for 20% off 🪒@everymanjack use SERPENS9_10 (-10%)
+      🙋‍♂️Robert • Kha 👨‍💻Social Media Manager/Content Creator 📧Email: foodwithbros@gmail.com ✉️DM for Collabs/Business Inquiries 📸Rule #1 Camera Eats First
     location: "United States"
-    followers: 13293
-    engagement: 1956
-    commentsToLikes: 0.124449
-    id: ckaoxg7awd3ul0i78ixbwwtou
+    followers: 108553
+    engagement: 1997
+    commentsToLikes: 0.036846
+    id: ckt27ztc4t2wo0j23atl63v2n
     verified: false
-    hashtags: "#gooduncommonscents, #cremo, #sponsored, #fitnerd"
+    hashtags: "#sushitime, #sushiaddict, #deltacopartner, #deltorta"
 ---

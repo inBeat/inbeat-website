@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In South Korea in 2023
+title: Top 10 Instagram Influencers In South Korea In 2023
 description: >-
-  Find top Instagram influencers in South Korea in 2023. Most popular hashtags: #kai #superm #ad.
+  Find top Instagram influencers in South Korea in 2023. Most popular hashtags: #haruto #junghwan #blackpink.
 platform: Instagram
-hits: 4889
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 4889 Instagram influencers like this in South Korea for you to contact.
+hits: 4694
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 4694 Instagram influencers like this in South Korea for you to pitch.
 profiles:
-  - username: "helloomelissa"
+  - username: "hyunah_aa"
     fullname: >-
-      California ♥ Melissa - Travel
+      Hyun Ah
     bio: >-
-      ☾ Wanderer sharing travel tips & favorite locations ♡ currently in #losangeles ➵ 🦋 ✎ Collabs: melissalengo@gmail.com
+      아잉2기🌷✨만나자🤝
     location: "South Korea"
-    followers: 30634
-    engagement: 751
-    commentsToLikes: 0.129282
-    id: ck0ud7ovvijkw0i19f6par2y1
+    followers: 18580565
+    engagement: 403
+    commentsToLikes: 0.002708
+    id: ck0tuguh973jd0i19ca0r587g
+    verified: true
+    hashtags: "#lvxyayoikusama, #maisonmargiela"
+  - username: "berry__1015"
+    fullname: >-
+      베리
+    bio: >-
+      똥꼬냥이 베리🐈 2017. 10. 15 ♀ 귀여운 야옹이와 함께하는 즐거운 집사의 삶🎶
+    location: "South Korea"
+    followers: 100423
+    engagement: 464
+    commentsToLikes: 0.020945
+    id: ckaot8aekur4d0i782b2066ob
     verified: false
     hashtags: ""
-  - username: "yumdda"
+  - username: "realstraykids"
     fullname: >-
-      염따 YUMDDA
+      Stray Kids
+    bio: >-
+      Stray Kids (스트레이 키즈) Official Instagram
+    location: "South Korea"
+    followers: 23841639
+    engagement: 818
+    commentsToLikes: 0.009549
+    id: ck0tvgizvb98o0i19137ugijl
+    verified: true
+    hashtags: "#stay, #in, #felix, #youmakestraykidsstay"
+  - username: "jennierubyjane"
+    fullname: >-
+      J
+    bio: >-
+      @lesyeuxdenini
+    location: "South Korea"
+    followers: 72975548
+    engagement: 766
+    commentsToLikes: 0.005693
+    id: ck0tuhhj776j40i19k1dd1ctc
+    verified: true
+    hashtags: ""
+  - username: "dlwlrma"
+    fullname: >-
+      이지금 IU
+    bio: >-
+      strawberrymoon❤️❤️🍓❤️❤️
+    location: "South Korea"
+    followers: 28590065
+    engagement: 1318
+    commentsToLikes: 0.007469
+    id: ck0tw4w2ye1850i19strn6nch
+    verified: true
+    hashtags: "#guccigarden, #ganadara, #yacht, #broker"
+  - username: "kyo1122"
+    fullname: >-
+      Song hyekyo
+    bio: >-
+      -kyo-
+    location: "South Korea"
+    followers: 13606969
+    engagement: 501
+    commentsToLikes: 0.000019
+    id: ck0tugvk973od0i19szqnz19p
+    verified: true
+    hashtags: "#theglory, #netflix"
+  - username: "jxxvvxxk"
+    fullname: >-
+      이재욱
     bio: >-
       
     location: "South Korea"
-    followers: 347034
-    engagement: 736
-    commentsToLikes: 0.047926
-    id: ck137gwjlbh9d0i19a7owl5s6
+    followers: 4978767
+    engagement: 2149
+    commentsToLikes: 0.008211
+    id: ck6tym4qf4joe0j712cialap7
     verified: true
-    hashtags: ""
-  - username: "konu_10"
+    hashtags: "#pradaholiday22, #pradafinejewelry, #ad, #exnihilo"
+  - username: "ewsbdi"
     fullname: >-
-      Jung KyunWook(정건욱)🇰🇷
+      로운
     bio: >-
-      
+      김석우
     location: "South Korea"
-    followers: 2190
-    engagement: 3220
-    commentsToLikes: 0.168447
-    id: ck9wfaiijnyzn0j789u7afdto
-    verified: false
-    hashtags: "#blackouttuesday, #blacklivesmatter"
-  - username: "yuu_taa_1026"
-    fullname: >-
-      YUTA 悠太
-    bio: >-
-      YUTA From NCT, SM ENTERTAINMENT
-    location: "South Korea"
-    followers: 3673736
-    engagement: 3083
-    commentsToLikes: 0.032082
-    id: ckf5no43yyy690j23vx3tcmdl
+    followers: 4900448
+    engagement: 1679
+    commentsToLikes: 0.007803
+    id: ck5zr6163vyxj0i14rzd4xwzj
     verified: true
-    hashtags: ""
-  - username: "kimwon.pil"
+    hashtags: "#ad, #atiffanyholiday, #tiffanypartner, #tiffanyhk"
+  - username: "ohvely22"
     fullname: >-
-      김원필
+      오연서
     bio: >-
-      DAY6
+      내내 어여쁘소서
     location: "South Korea"
-    followers: 1165099
-    engagement: 2572
-    commentsToLikes: 0.033100
-    id: ck6u3is59y11j0j71da4s72zh
+    followers: 2492098
+    engagement: 292
+    commentsToLikes: 0.005562
+    id: ck6tmycyi8rmt0j71wj6hjgwg
     verified: true
-    hashtags: ""
-  - username: "char._.ming2"
+    hashtags: "#gr"
+  - username: "choihyunsuk.id"
     fullname: >-
-      최하민
+      CHOI HYUNSUK 최현석 TREASURE
     bio: >-
-      당신의 빝하민✨ 패션계정 맞팔 환영 협찬,문의 DM
+      🦔💜 FAN ACCOUNT 💜🦔 𝙘𝙝𝙨𝙞𝙙. twitter : choihyunsukID PP ? Dm 📩
     location: "South Korea"
-    followers: 2776
-    engagement: 2543
-    commentsToLikes: 0.163026
-    id: ckap86wcun3ae0i78530pm7qk
+    followers: 106808
+    engagement: 285
+    commentsToLikes: 0.005456
+    id: ck8t65a41c9h60j7865elisfl
     verified: false
     hashtags: ""
-  - username: "s_su_mi"
-    fullname: >-
-      수미
-    bio: >-
-      
-    location: "South Korea"
-    followers: 4856
-    engagement: 2543
-    commentsToLikes: 0.134878
-    id: ck14kiaf8pmvh0i19x4ijae0f
-    verified: false
-    hashtags: ""
-  - username: "gnani_____"
-    fullname: >-
-      김진환 JAY ジナン
-    bio: >-
-      iKON
-    location: "South Korea"
-    followers: 2482760
-    engagement: 1995
-    commentsToLikes: 0.024500
-    id: ck0vvbhyfoe9b0i192cy8h0xe
-    verified: true
-    hashtags: "#ikon, #the3rdminialbum, #title, #dive"
-  - username: "zkdlin"
-    fullname: >-
-      KAI
-    bio: >-
-      kai
-    location: "South Korea"
-    followers: 9833877
-    engagement: 1735
-    commentsToLikes: 0.026889
-    id: ck0vxaxigy0fm0i19gmi98f4t
-    verified: true
-    hashtags: ""
-  - username: "kimjuncotton"
-    fullname: >-
-      SUHO
-    bio: >-
-      수확행🏝
-    location: "South Korea"
-    followers: 8516439
-    engagement: 1726
-    commentsToLikes: 0.025078
-    id: ck0w4zorv177h0i192qu40989
-    verified: true
-    hashtags: "#bzero1rock"
 cities:
   - name: Seoul
     link: /instagram/south-korea/seoul

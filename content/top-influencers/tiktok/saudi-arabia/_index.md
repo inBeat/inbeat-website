@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Saudi Arabia in 2023
+title: Top 10 TikTok Influencers In Saudi Arabia In 2023
 description: >-
-  Find top TikTok influencers in Saudi Arabia in 2023. Most popular hashtags: #duet #sultansbattledance #tiktok.
+  Find top TikTok influencers in Saudi Arabia in 2023. Most popular hashtags: #duet #foryoupage #like.
 platform: TikTok
-hits: 1083
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 1083 TikTok influencers like this in Saudi Arabia for you to work with.
+hits: 1098
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 1098 TikTok influencers like this in Saudi Arabia for you to work with.
 profiles:
+  - username: "ya_999965"
+    fullname: >-
+      يزيد ابو بشيت 🤨🤨
+    bio: >-
+      يزيد الهويملي الدوسري
+    location: "Saudi Arabia"
+    followers: 508400
+    engagement: 767
+    commentsToLikes: 0.062826
+    id: ck9fxy6fl8lbs0j78msl0584v
+    verified: false
+    hashtags: "#like, #tiktokindia, #duet, #foryoupage"
+  - username: "sathiakterratna_999"
+    fullname: >-
+      সাথী আক্তার রত্না নরসিংদী মেয়ে
+    bio: >-
+      আল্লাহ তুমি খেয়াল রাখো এই আমার প্রতি আমার ধারায় হয় না যেন কারো কোন ক্ষতি 🤲❤️
+    location: "Saudi Arabia"
+    followers: 41300
+    engagement: 7424
+    commentsToLikes: 0.287264
+    id: ckad82g3d71hp0i78dez6ul2u
+    verified: false
+    hashtags: "#duet"
   - username: "noornabisk56"
     fullname: >-
       কষ্টে ভরা জীবন
     bio: >-
       
     location: "Saudi Arabia"
-    followers: 4401
-    engagement: 7215
-    commentsToLikes: 0.334125
+    followers: 4702
+    engagement: 7053
+    commentsToLikes: 0.399494
     id: ckblq3qnphn3s0j23s6yd4coi
     verified: false
     hashtags: "#duet"
-  - username: "ff2l"
-    fullname: >-
-      .
-    bio: >-
-      - #𝑴𝑨𝒀𝑩𝑬 𝑴𝑬 . - 𝑳𝒐𝒗𝒆 𝑴𝒚 𝑨𝑳𝑱𝑨𝒁𝑰🙍🏻‍♂️❤️. - 30𝘬🙍🏻‍♂️?.
-    location: "Saudi Arabia"
-    followers: 28100
-    engagement: 6718
-    commentsToLikes: 3.246561
-    id: ck9rnz5nua2q90j78963cu8p5
-    verified: false
-    hashtags: "#o502z, #ff2l, #sultansbattledance, #like"
   - username: "mdrobelmia20"
     fullname: >-
       MD Robel Mia
     bio: >-
-      
+      🌷ভালোবাসা দাও ভালোবাসা নাও 🌷
     location: "Saudi Arabia"
-    followers: 5453
-    engagement: 6385
-    commentsToLikes: 0.177915
+    followers: 5622
+    engagement: 6306
+    commentsToLikes: 0.283100
     id: ckbklsg23f40q0j23kmvj4qba
     verified: false
-    hashtags: "#mdrobelmia20, #philippines, #lovemessages, #international"
-  - username: "munioladaran"
-    fullname: >-
-      POLLEN040579❤❤❤👍👍
-    bio: >-
-      we learn from FAILURE NOT SUCCESS!! ILOCANA PRIDE! 🇵🇭🇸🇦😍❤❤❤#LOVEYOURSELF😍
-    location: "Saudi Arabia"
-    followers: 4973
-    engagement: 6348
-    commentsToLikes: 0.102660
-    id: ckdi68wvm7kax0j234zsso0mj
-    verified: false
-    hashtags: "#filipinoworldwidetiktokers2020, #staysafe, #duet, #island"
-  - username: "sk.sonuraj"
-    fullname: >-
-      SK Sonu Raj 1991
-    bio: >-
-      friends
-    location: "Saudi Arabia"
-    followers: 5780
-    engagement: 6294
-    commentsToLikes: 0.251431
-    id: ckbvugjxwt2s80j23162uyyoa
-    verified: false
-    hashtags: "#tok, #tiktok, #india, #2020"
+    hashtags: ""
   - username: "aer301984"
     fullname: >-
       user4735839368766
     bio: >-
       
     location: "Saudi Arabia"
-    followers: 4516
-    engagement: 5536
-    commentsToLikes: 0.122932
+    followers: 4535
+    engagement: 5850
+    commentsToLikes: 0.085560
     id: ckdtkmsqbyhdv0j231qfrbdkc
     verified: false
-    hashtags: "#ofwsauditiktok, #jeddah, #godbless, #crazy"
-  - username: "z_k9"
+    hashtags: ""
+  - username: "thomas2244277916609"
     fullname: >-
-      زيادة متابعين
+      user2244277916609
     bio: >-
-      1-ضيفني 2-ضيـف الي انا ضايفهم تبي دعم بمقابل 💸 تعال انستقرام👆 قائد#تيم_زيمت
+      Keeping it Simple and living life with zero regrets
     location: "Saudi Arabia"
-    followers: 349100
-    engagement: 5412
-    commentsToLikes: 0.838062
-    id: ckdnvl2q1ou5r0j23h8g9i0nl
-    verified: false
-    hashtags: "#folow, #axblor, #sultansbattledance"
-  - username: "adhikari_prakash"
-    fullname: >-
-      Prakashadhikari@@@
-    bio: >-
-      अध्ययनले मात्र परिपक्व बनाउदैन यदि अनूभब छैन भने =tik❤️tok=
-    location: "Saudi Arabia"
-    followers: 10500
-    engagement: 5264
-    commentsToLikes: 0.108972
-    id: ckbql92pp6eap0j230unwxhr6
+    followers: 5774
+    engagement: 5631
+    commentsToLikes: 0.351764
+    id: ckbeqffkk7yah0j23f0qaab75
     verified: false
     hashtags: ""
-  - username: "karoona4_3"
+  - username: "sk.sonuraj"
     fullname: >-
-      Karoona Gl 💞
+      SK Sonu Raj 1991
     bio: >-
-      {founder #teamskprm}❤️ #surajghising2#tfamily #love u mayalu @shashi_raee1999
+      all my friend swagat hai tik Tok mein aap sabka
     location: "Saudi Arabia"
-    followers: 30800
-    engagement: 5232
-    commentsToLikes: 0.089927
-    id: ckae3o010yl6e0i7840lwgjbd
+    followers: 7346
+    engagement: 4960
+    commentsToLikes: 0.322264
+    id: ckbvugjxwt2s80j23162uyyoa
     verified: false
-    hashtags: "#shasis, #haude123, #tfamily, #princerd8"
-  - username: "angbabaengsawi"
+    hashtags: "#duet"
+  - username: "farooqmehae"
     fullname: >-
-      💞TNNF-RC-ADMIN-MARILOU💞
+      Farooq maher ak47
     bio: >-
-      💞MAS MAKAPAL MAS MATATAG 💞 💕ASTIG GIRL TRANSITIONER 💕
+      
     location: "Saudi Arabia"
-    followers: 6253
-    engagement: 5102
-    commentsToLikes: 0.079588
-    id: cka88xjo0d3vo0i783kcu180y
+    followers: 6882
+    engagement: 4847
+    commentsToLikes: 0.162436
+    id: cka9q21rs7jrk0i78rwquoncl
     verified: false
-    hashtags: "#mixtrans2020, #ttt20, #tnnfheartblackscorpio, #agtt25"
+    hashtags: "#duet, #farooq"
+  - username: "1w8x"
+    fullname: >-
+      مروق نقط خاص وببلكك💅🏻.
+    bio: >-
+      𝒂𝒍𝒍 𝒔𝒕𝒐𝒓𝒊𝒆𝒔 𝒉𝒂𝒗𝒆 𝒂𝒏 𝒆𝒏𝒅 .
+    location: "Saudi Arabia"
+    followers: 27400
+    engagement: 4758
+    commentsToLikes: 1.809524
+    id: ck9rnz5nua2q90j78963cu8p5
+    verified: false
+    hashtags: "#explore, #foryoupage, #dancewithpubgm, #ff2l"
+  - username: "jamshidkurikkal"
+    fullname: >-
+      സൗദിയിലെ💖സുൽത്താൻ
+    bio: >-
+      അന്യായം കണ്ടാൽ പ്രതികരിക്കുന്ന ഒരു പാവം മഞ്ചേരിക്കാരൻ 🙏
+    location: "Saudi Arabia"
+    followers: 24100
+    engagement: 4642
+    commentsToLikes: 0.360181
+    id: ckbkfq5016v1j0j2326ikkqy7
+    verified: false
+    hashtags: "#duet"
 ---

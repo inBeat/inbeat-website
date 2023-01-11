@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In United Kingdom in 2023
+title: Top 10 Yoga TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top yoga TikTok influencers in United Kingdom in 2023. Most popular hashtags: #yoga #fyp #foryou #duet.
+  Find top yoga TikTok influencers in United Kingdom in 2023. Most popular hashtags: #yoga #fyp #foryou #fitness.
 platform: TikTok
-hits: 44
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 44 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 46
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 46 TikTok influencers like this in United Kingdom for you to work with.
 profiles:
   - username: "yoga_jonathon"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Yoga student 🕉
     location: "United Kingdom"
-    followers: 2166
-    engagement: 1648
-    commentsToLikes: 0.060281
+    followers: 2154
+    engagement: 1600
+    commentsToLikes: 0.051476
     id: ck9bznzgvntbu0j7855qrhweb
     verified: false
-    hashtags: "#mindfulnesspractice, #onebreathatatime, #mindfulnessmeditation, #yogamen"
+    hashtags: "#mindfulnesspractice, #menofyoga, #yogamen, #onebreathatatime"
   - username: "thewellnesscoach"
     fullname: >-
-      Jessica Annabelle
+      ✨Jessica✨
     bio: >-
-      Psychology Scholar • Mental Health • Healing • Intimacy • Yoga Teacher ⠀ 👇🏼
+      ☝🏼JOIN THE CLUB Exploring Psychology, Relationships, Yoga & Philosophy✨
     location: "United Kingdom"
-    followers: 40300
-    engagement: 763
-    commentsToLikes: 0.049332
+    followers: 89300
+    engagement: 853
+    commentsToLikes: 0.033338
     id: ckb9vndlfuznq0j239v7x54ue
     verified: false
-    hashtags: "#relationshiptips, #attachmentstyle, #relationshipadvice, #attachmentissues"
-  - username: "therosieburr"
+    hashtags: "#spiritualjourney, #innerhealing, #intimacy, #relationshipadvice"
+  - username: "chloe.hutchings"
     fullname: >-
-      Rosie Burr
+      chloe_hutchings
     bio: >-
-      🤸‍♀️Handbalancing contortionist 👙Fitness model 🎥YouTube 👩‍💻Blogger
+      Myprotein code: CHLOEH 🖤 Insta: chloe_hutchings | UK
     location: "United Kingdom"
-    followers: 6269
-    engagement: 867
-    commentsToLikes: 0.035517
-    id: ck9616bhnl8dz0j7899nwp4dx
+    followers: 102600
+    engagement: 695
+    commentsToLikes: 0.047119
+    id: cka6j1um1t09c0i78py3ys5s0
     verified: false
-    hashtags: "#brighterinside, #superwomen, #positiveenergychallenge, #rosieburr"
-  - username: "ashlyraeceo"
+    hashtags: "#fashion, #yoga, #fyp, #workout"
+  - username: "chloekourga"
     fullname: >-
-      ashlyraeceo
+      chloekourga
     bio: >-
-      Scottish ✨ Living in London ✨ Plant Based 🌱 Health, Wealth & Beauty 🌸
+      Fitness thingz 🤘🏻 & Doing things that scare me 👊🏻 Funnier on IG ⬆️
     location: "United Kingdom"
-    followers: 21500
-    engagement: 360
-    commentsToLikes: 0.026622
-    id: ck8ouyb7jrp0w0j78801dsrdw
+    followers: 21200
+    engagement: 1105
+    commentsToLikes: 0.021921
+    id: ck9n8ddna8h4a0j78dc7r70rs
     verified: false
-    hashtags: "#london, #fyp, #yoga, #funny"
+    hashtags: "#london, #stretching, #gymtok, #yoga"
   - username: "acroyogadancer"
     fullname: >-
       AcroYogaBallerina
     bio: >-
-      💖 Follow for more 💕 For more content in my link 🗝
+      💖 Follow for more 💕 ⬇️ Make 💲💲 with podcasts ⬇️
     location: "United Kingdom"
-    followers: 143900
-    engagement: 533
-    commentsToLikes: 0.022505
+    followers: 165000
+    engagement: 304
+    commentsToLikes: 0.058843
     id: ckcuy5lqomaiz0j23u68cihos
     verified: false
-    hashtags: "#handstand, #tiktoktutorial, #foryou, #stitch"
-  - username: "vanessabauer_skates"
+    hashtags: "#foryou, #dancing, #didyouknow, #dance"
+  - username: "gluteywear"
     fullname: >-
-      Vanessa Bauer
+      Glutey Wear
     bio: >-
-      ✨Ice Skater on the road✨ ⛸ ⬇️ my AB workout ⬇️
+      She’s Confident & Empowered Luxurious Activewear Designed For You ❤️
     location: "United Kingdom"
-    followers: 188900
-    engagement: 1025
-    commentsToLikes: 0.009045
-    id: ck9flozt4paq30j78kpjdxc1t
-    verified: true
-    hashtags: "#skater, #ukskills, #homeworkout, #figureskating"
-  - username: "ben_jjames"
-    fullname: >-
-      B E N
-    bio: >-
-      Value > Vanity Big & Tall model 📸 IG for all modelling work 🎥
-    location: "United Kingdom"
-    followers: 211400
-    engagement: 1197
-    commentsToLikes: 0.028601
-    id: ckceko10au5a50j23w8y8zzyb
+    followers: 28100
+    engagement: 372
+    commentsToLikes: 0.018939
+    id: ckbbgze075jg30j235xfmcl45
     verified: false
-    hashtags: "#malemodel, #mensfashion, #autumnfashion, #fitness"
-  - username: "2passports1dream"
+    hashtags: "#fyp, #girlswhotrain, #workout, #clothinghaul"
+  - username: "mr.t0yz"
     fullname: >-
-      2passports1dream
+      Mr. TOyz
     bio: >-
-      Videos from around the world! Follow us on Insta!
+      More behind the scenes ⬇️
     location: "United Kingdom"
-    followers: 2764
-    engagement: 433
-    commentsToLikes: 0.075458
-    id: ckbqhm5zt2w7h0j23los5mo5d
+    followers: 44400
+    engagement: 2093
+    commentsToLikes: 0.065594
+    id: ck97wb6c9qdi60j78sedwsrkv
     verified: false
-    hashtags: "#foraging, #travel, #tiktoktravel, #valais"
-  - username: "mazza.h"
+    hashtags: "#art, #learnontiktok, #fy, #clay"
+  - username: "kensieziegler"
     fullname: >-
-      mary 🐳
+      maisie
     bio: >-
-      probs should have quit by now mazza.h1999@gmail.com she/her☺️
+      hii <3 - 20.0K reasons i love you💘 - ⬇️ help the artic by signing
     location: "United Kingdom"
-    followers: 56400
-    engagement: 1952
-    commentsToLikes: 0.018176
-    id: ckbkucogspgcx0j231zoags0d
+    followers: 20000
+    engagement: 1564
+    commentsToLikes: 0.095354
+    id: ckb9hbycj6rjq0j23yywxai9b
     verified: false
-    hashtags: "#smallbusiness, #fyp, #uk, #hospitality"
+    hashtags: "#isweartogodiwilllikethisvideoandfollow, #kenzieziegler, #foryoupage, #ziegler"
   - username: "fatcatmac"
     fullname: >-
       FatMax
     bio: >-
-      sleep all day, eat dreamies all night 🐈🐈🐈
+      
     location: "United Kingdom"
-    followers: 14600
-    engagement: 1892
-    commentsToLikes: 0.016319
+    followers: 14700
+    engagement: 1876
+    commentsToLikes: 0.017738
     id: ck982shd0hhsj0j789ygpjra1
     verified: false
-    hashtags: "#baby, #cute, #lolcat, #kitten"
+    hashtags: "#cat, #cats, #lockdown, #vibes"
+  - username: "matthewandryanuk"
+    fullname: >-
+      Matthew & Ryan 🌈
+    bio: >-
+      Instagram - matthewandryan 📧 heyguysitsmatthewandryan@gmail.com ⬇️ Take a look
+    location: "United Kingdom"
+    followers: 3300000
+    engagement: 1355
+    commentsToLikes: 0.017002
+    id: ck81t2fwkuyi30j78fdjkj6w8
+    verified: true
+    hashtags: "#couplesoftiktok, #fidgetoys, #couplegoals, #couplesprank"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Chicago in 2023
+title: Top 10 Bloggers TikTok Influencers In Chicago In 2023
 description: >-
-  Find top bloggers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #momsoftiktok #foryoupage #blogger.
+  Find top bloggers TikTok influencers in Chicago in 2023. Most popular hashtags: #chicago #fyp #foryoupage #millennial.
 platform: TikTok
-hits: 5
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 5 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 7
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 7 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "houseofhipsters"
+  - username: "312food"
     fullname: >-
-      Kyla  |  Home Decor Blogger
+      312food • Chicago Food Blogger
     bio: >-
-      Home Decor Blogger - Styling & Interiors Chicago, IL
+      hi, I’m Erin!! 🍕🍔🍟🌮 Chicago food & fun 120k on IG
     location: "United States"
-    followers: 42200
-    engagement: 594
-    commentsToLikes: 0.048588
-    id: ckav06m635tc50j23rrberu2z
+    followers: 69200
+    engagement: 638
+    commentsToLikes: 0.034561
+    id: cka0ke8zem4dn0i78w54doz9r
     verified: false
-    hashtags: "#designtrends, #cottagecore, #furnitureflip, #homedecorideas"
+    hashtags: "#chicago, #chicagofood, #chicagotok, #cheese"
+  - username: "abbyontheblock"
+    fullname: >-
+      abbyontheblock
+    bio: >-
+      o no not crying just allergies haha y sup w u venmo: abby-samuelson-0
+    location: "United States"
+    followers: 37900
+    engagement: 824
+    commentsToLikes: 0.048840
+    id: ckb9syr32qmnv0j23t5xkxpb8
+    verified: false
+    hashtags: "#millennial, #no, #lol, #funny"
   - username: "yulibooli"
     fullname: >-
       yulibooli
     bio: >-
-      idk how I even got here CPA Big 4 Chicago
+      my tiktoks are random CPA From Texas Live in Chicago
     location: "United States"
-    followers: 25200
-    engagement: 1622
-    commentsToLikes: 0.024692
+    followers: 24500
+    engagement: 1451
+    commentsToLikes: 0.024428
     id: ckb9dh1v90t2j0j236uboevgm
     verified: false
-    hashtags: "#checkmeoutchallenge, #snoozzzapalooza, #accounting, #fyp"
-  - username: "nimra.j.malik"
+    hashtags: "#beautyreview, #fyp, #dog, #accounting"
+  - username: "houseofhipsters"
     fullname: >-
-      Nimra
+      Kyla  |  Home Decor Blogger
     bio: >-
-      I’m not like a regular mom. Chicago 🇵🇰
+      Home decor blogger sharing my home, styling tips, & inspiring you to DIY Chicago
     location: "United States"
-    followers: 7032
-    engagement: 597
-    commentsToLikes: 0.052968
-    id: ckbqgliqy245s0j23py2yags2
+    followers: 345700
+    engagement: 701
+    commentsToLikes: 0.049126
+    id: ckav06m635tc50j23rrberu2z
     verified: false
-    hashtags: "#diyfashion, #dollhousechallenge, #babytiktok, #patichallenge"
-  - username: "_itsnallely"
+    hashtags: "#tiktokpartner, #vintagevibes, #learnontiktok, #decorontiktok"
+  - username: "twirlliketalia"
     fullname: >-
-      _itsnallely
+      Talia
     bio: >-
-      Be silly, Be fun - Welcome to my life✨ Follow my ig: _nallelypadilla 📍Chicago
+      Forever Wanderlust! Follow me on IG for more travel inspiration @travelwithtalia
     location: "United States"
-    followers: 29000
-    engagement: 439
-    commentsToLikes: 0.011981
-    id: ckczvofxu61jz0j23yg9pp5n9
+    followers: 32700
+    engagement: 606
+    commentsToLikes: 0.057236
+    id: ckamjtpgvpmrx0i78z0c3z6j1
     verified: false
-    hashtags: "#chicago, #motivation, #workout, #trending"
-  - username: "dessimonoff"
+    hashtags: "#mexicocheck, #photoshoot, #iphonehack, #wow"
+  - username: "classycleanchic"
     fullname: >-
-      dessimonoff
+      Emerson 🦋
     bio: >-
-      Fashion, beauty, lifestyle. Business collabs: DessiMonoff@gmail.com
+      follow me for outfit inspo🌸✨ click to shop my TikToks (look for the video!)
     location: "United States"
-    followers: 46400
-    engagement: 338
-    commentsToLikes: 0.012889
-    id: ck9v17ljmft3g0j784l2ozgix
+    followers: 335400
+    engagement: 682
+    commentsToLikes: 0.017185
+    id: ck7zoyy65mjqn0j78k7xxnv62
     verified: false
-    hashtags: "#blogger, #nails, #foryou, #fashionhacks"
-  - username: "theitmom"
+    hashtags: "#weddingguestdress, #hellospring, #springoutfit, #denim"
+  - username: "bethereinfive"
     fullname: >-
-      Daisy Teh
+      bethereinfive
     bio: >-
-      👩🏻‍💻Blogger/Amazon Seller 🇵🇭Former teen mom 🎉Family fun 👰🏻My BFF 📍Vegas
+      Pop culture commentator, entrepreneur, author & host of Be There in Five Podcast
     location: "United States"
-    followers: 550300
-    engagement: 1817
-    commentsToLikes: 0.025931
-    id: ckbqjjg5p4qnx0j234n7ohj93
+    followers: 18400
+    engagement: 889
+    commentsToLikes: 0.018425
+    id: ckal65xji9gvn0i78u2z0ji6b
     verified: false
-    hashtags: "#babyturtle, #gimmelove, #turtlesoftiktok, #tortoise"
-  - username: "alyssatabit"
+    hashtags: "#dolls, #election2020, #millennial, #nostalgia"
+  - username: "joeynjasmin"
     fullname: >-
-      alyssa
+      JoeyNJasmin
     bio: >-
-      Blogger & Podcast Host fashion + lifestyle IG: alyssatabit
+      FOLLOW OUR INSTAGRAM 🔝❤️🤘🏽 Creators | Bloggers | Pranksters 🤪😜
     location: "United States"
-    followers: 26000
-    engagement: 1418
-    commentsToLikes: 0.065475
-    id: ckbkt2nxko44z0j23uxvlyfak
+    followers: 1100000
+    engagement: 1605
+    commentsToLikes: 0.023043
+    id: ckb9j6fiwa69s0j234mts5dpi
     verified: false
-    hashtags: "#ootd, #quarantinelife, #greenscreen, #makeoverchallenge"
+    hashtags: "#joeynjasmin, #bloopers, #silhouette"
   - username: "mrmoodydresser"
     fullname: >-
       Mike Jones
     bio: >-
-      40+ Fashion influencer and blogger! #mrmoodydresser
+      40+ Fashion influencer and blogger! Follow me on IG & FB @mrmoodydresser 🧐
     location: "United States"
-    followers: 7772
-    engagement: 1041
-    commentsToLikes: 0.075983
+    followers: 12300
+    engagement: 1350
+    commentsToLikes: 0.107278
     id: ckb9l759odil60j23jr58e09v
     verified: false
-    hashtags: "#weightlossjourney, #fitover40, #blackmenwithstyle, #tiktokover40"
-  - username: "carissa.stephens"
+    hashtags: "#blackmenwithstyle, #over40tiktok, #fitover40, #weightlossjourney"
+  - username: "roseybeeme"
     fullname: >-
-      Carissa Stephens
+      roseybeeme
     bio: >-
-      Lifestyle Blogger + Wine Maker Making life magical. Join me for the ride 🦄💫💕
+      ✨ I ❤️ pop culture and 🚫 diets✨ 🤩 failed actor🤩 🌺dallas style blogger🌺
     location: "United States"
-    followers: 4184
-    engagement: 1560
-    commentsToLikes: 0.058850
-    id: cka6b5e26ywxe0i78kkfffqh8
+    followers: 223200
+    engagement: 1295
+    commentsToLikes: 0.018203
+    id: ckbkt9b67o7b90j2365lztfrp
     verified: false
-    hashtags: "#fypage, #winelovers, #over30, #momsoftiktok"
-  - username: "thetravelingwhites"
-    fullname: >-
-      Nick + Angelica
-    bio: >-
-      Traveled to 36 countries & counting🗺 💫Come be inspired 📍NJ 🛫Travel bloggers
-    location: "United States"
-    followers: 8111
-    engagement: 951
-    commentsToLikes: 0.077369
-    id: ckbfi3ce0dsb40j23obzl21qg
-    verified: false
-    hashtags: "#travel, #throwbacktravel, #rhodeislandcheck, #travelcouple"
+    hashtags: "#plussize, #freefreedance, #plussizeedition, #plussizestyle"
 ---

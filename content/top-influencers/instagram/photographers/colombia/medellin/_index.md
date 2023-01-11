@@ -1,108 +1,108 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Medellín in 2023
+title: Top 10 Photographers Instagram Influencers In Medellín In 2023
 description: >-
-  Find top photographers Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #photooftheday #photography.
+  Find top photographers Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #colombia #photography #photooftheday.
 platform: Instagram
-hits: 22
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 22 Instagram influencers like this in Medellín, Colombia for you to connect with.
+hits: 18
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 18 Instagram influencers like this in Medellín, Colombia for you to work with.
 profiles:
-  - username: "andresocampomp"
+  - username: "ramvidzapata"
     fullname: >-
-      Andres Ocampo Photographer™
+      🆁🅰🅼🆅🅸🅳
     bio: >-
-      📸 PHOTOGRAPHER & FILMMAKER 🎬 Videos Musicales y Corporativos 📷 CURSOS DE EDICIÓN PHOTOSHOP Y LIGHTROOM 👰🏼 @matrimonios_colombia 🔛 @andresocampoph
+      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ 🍑@jjmalibu Ambassasor 🇻🇪Living in Bogota🇻🇪
     location: "Colombia"
-    followers: 17600
-    engagement: 204
-    commentsToLikes: 0.041053
-    id: ck8syjnb6l0lz0j785hle5jsk
+    followers: 65605
+    engagement: 280
+    commentsToLikes: 0.016344
+    id: ck6u070hhdyy10j71x6lygpcd
     verified: false
-    hashtags: "#medellin, #photographer, #albarreiro, #photooftheday"
+    hashtags: "#men, #photography, #inkedmen, #medellin"
+  - username: "julioafricandancer"
+    fullname: >-
+      Julio Mosquera
+    bio: >-
+      📍|Medellin - Colombia 🇨🇴 Bailarín - Modelo Profesor - Afro Urbano 🌍 Director coreográfico @afropowerurbano
+    location: "Colombia"
+    followers: 3545
+    engagement: 761
+    commentsToLikes: 0.059799
+    id: ckaorwjayp2kr0i78tplr6ln0
+    verified: false
+    hashtags: "#afrohouse, #afrobea, #frestyle, #afrodance"
+  - username: "vane_eslava"
+    fullname: >-
+      Vane Eslava
+    bio: >-
+      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
+    location: "Colombia"
+    followers: 43834
+    engagement: 236
+    commentsToLikes: 0.026712
+    id: ckf5su7thg7ru0j23e5gwo5dq
+    verified: false
+    hashtags: "#model, #portrait, #love, #instagram"
+  - username: "juanjozapata18"
+    fullname: >-
+      ⚡️J U A N J O   Z A P A T A ⚡️
+    bio: >-
+      ▫️•Lo más valioso es tu Sonrisa 😃 ▪️•Publicidad : 3044902057 📲📥 🔸•El mundo está en guerra, pero el arma es la sonrisa 💎
+    location: "Colombia"
+    followers: 42730
+    engagement: 667
+    commentsToLikes: 0.051905
+    id: ck5zknivwjszw0i14xlrx6q10
+    verified: false
+    hashtags: "#risa, #photography, #reels, #viral"
   - username: "hqpola"
     fullname: >-
       ✖️•🌻 ραυℓα αndreα αrιαѕ 🌻•✖️
     bio: >-
-      •FOTOGRAFA OFICIAL📸 @yandaryyostin •Photographer •Love art •Viajar✈️•Amar💌•Crear📸•Vivir✨•Sonreir🌝 🇨🇴MEDELLÍN!
+      •Photographer •Love•Art •Viajar✈️•Amar💌•Crear📸•Vivir✨•Sonreir🌝 •🇨🇴Medellin
     location: "Colombia"
-    followers: 14037
-    engagement: 1047
-    commentsToLikes: 0.026008
+    followers: 19440
+    engagement: 370
+    commentsToLikes: 0.038862
     id: ck8tcfdqpza0x0j78xunol1az
     verified: false
-    hashtags: "#tiktok, #photo, #foto, #medellin"
-  - username: "alejosses"
-    fullname: >-
-      Alejandro Osses
-    bio: >-
-      Realizador Audiovisual Cultura Gastronómica, siempre en pro de ayudar a nuestros productores y territorio olvidado, soñando y construyendo país.
-    location: "Colombia"
-    followers: 6445
-    engagement: 464
-    commentsToLikes: 0.054299
-    id: ckaortrvpopqp0i787n3dcqch
-    verified: false
-    hashtags: "#foto, #comida, #pacifico, #film"
-  - username: "carolinajaramillomodel"
-    fullname: >-
-      Carolina Jaramillo C
-    bio: >-
-      Colombian Model Exploring 😈😇. Egérie @bonsens_boutique Photographer @carolinajaramillophoto
-    location: "Colombia"
-    followers: 41772
-    engagement: 124
-    commentsToLikes: 0.028600
-    id: ck0w4n86szey20i190mpvnhsj
-    verified: false
-    hashtags: "#love, #bonsensboutique, #carolinajaramillomodel, #stayhome"
+    hashtags: "#medellink, #photostyle, #styleph, #foto"
   - username: "lucius.ph"
     fullname: >-
-      ・ＬＵＣＩＵＳ • ＰＨ・
+      ・ＬＵＣＩＵＳ •
     bio: >-
       📸 Photographer portrait 📟 Audiovisual producer CALI・COL 📥Para sesiones info aquí 📥
     location: "Colombia"
-    followers: 3817
-    engagement: 588
-    commentsToLikes: 0.036092
+    followers: 3732
+    engagement: 475
+    commentsToLikes: 0.028426
     id: ck5zknppsjtci0i149c4cckq6
     verified: false
-    hashtags: "#cali, #shotzports, #specialfilm, #burnmagazine"
-  - username: "alex_betancure"
+    hashtags: "#swag, #lifestyle, #bogota, #the35mmdiary"
+  - username: "raulmejia320"
     fullname: >-
-      🇨🇴 La Colombia de Alex 📸 Fotos
+      Raul Mejia
     bio: >-
-      Conoce la bella Colombia 🇨🇴 foto a foto 📸 🧭 Viajes 📸 fotografía Y 🤠 🅟🅤🅑🅛🅘🅒🅘🅓🅐🅓 por DM 👩‍🌾 Tradición 🧙Experiencias 📍Medellín Antioquia
+      📸🇫 🇴 🇹 🇴 🇬 🇷 🇦 🇫 🇴🎥 📸🇵 🇭 🇴 🇹 🇴 🇬 🇷 🇦 🇵 🇭 🇪 🇷🎥 Medellín - Colombia #raulmejiafotos Raulmejia320@gmail.com ⬇☟My Work☟⬇
     location: "Colombia"
-    followers: 15916
-    engagement: 709
-    commentsToLikes: 0.033616
-    id: ck14je4uxjve80i19d4ba64q6
+    followers: 18082
+    engagement: 213
+    commentsToLikes: 0.128836
+    id: ck8sxh8y2hdyv0j787web52ew
     verified: false
-    hashtags: "#montain, #cafe, #green, #yovoy"
+    hashtags: "#tattoo, #minimalismo, #chocolate, #boy"
   - username: "pedazodejuano"
     fullname: >-
       PedazodeJuano©
     bio: >-
       🇨🇴Colombian Photographer 📸Learning how to use my camera 🥗Food shots in @food.by.light ©️all rights reserved 📍based in Medellín Colombia papá 👇Wapp
     location: "Colombia"
-    followers: 2660
-    engagement: 967
-    commentsToLikes: 0.079675
+    followers: 2783
+    engagement: 825
+    commentsToLikes: 0.049903
     id: ckap98menrm790i78rtgjymxj
     verified: false
-    hashtags: "#idpaisa, #travelgrafia, #nikonistas, #galeriaco"
-  - username: "nashootphoto"
-    fullname: >-
-      "Nashoot”
-    bio: >-
-      🇻🇪&🇨🇴Photographer & Film Sessions and Colaborations DM 📍🌎 Cartagena, Colombia Prints Available
-    location: "Colombia"
-    followers: 11019
-    engagement: 287
-    commentsToLikes: 0.024624
-    id: ck8swl941egtp0j78qflzpmsc
-    verified: false
-    hashtags: "#sea, #beach, #photography, #nashoot"
+    hashtags: "#bird, #birdsofcolombia, #ave, #fotografiadeaves"
   - username: "yosoytes"
     fullname: >-
       ✖️TES✖️
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.028813
     id: ck0vzszjiardw0i19oqovss2y
     verified: false
-    hashtags: "#quechimba, #tesview, #tbt, #yamaha"
-  - username: "ferriveraruiz"
+    hashtags: "#tesview, #tbt, #quechimba, #admv"
+  - username: "marianelamodel"
     fullname: >-
-      Fernando Rivera
+      MARIANELA | PRESENTADORA
     bio: >-
-      Fer Rivera 😎 Fotógrafo 📸 Director de videos musicales🎥🎬 Fashion Photographer Director music videos🎹🎼🎤 #NYC #MIA #BOG fernandorivera2020@gmail.com
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
     location: "Colombia"
-    followers: 45233
-    engagement: 93
-    commentsToLikes: 0.100243
-    id: ck14k0520n1tm0i19mw92y2yp
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
+    id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#tiktok, #fotografo, #model, #makeup"
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
 ---

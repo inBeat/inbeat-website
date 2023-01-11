@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Phoenix in 2023
+title: Top 10 Models Instagram Influencers In Phoenix In 2023
 description: >-
-  Find top models Instagram influencers in Phoenix in 2023. Most popular hashtags: #model #arizona #phoenix.
+  Find top models Instagram influencers in Phoenix in 2023. Most popular hashtags: #model #phoenix #fashion.
 platform: Instagram
-hits: 104
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 104 Instagram influencers like this in Phoenix, United States for you to pitch.
+hits: 98
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 98 Instagram influencers like this in Phoenix, United States for you to pitch.
 profiles:
-  - username: "curvesonabudget13"
+  - username: "curtbangz"
     fullname: >-
-      NICOLE SIMONE
+      Curtis Okafor
     bio: >-
-      BLM || fat hottie || model || phoenix || she/her management: kisha@ccdigital.co www.curvesonabudget.com side hustle: @nsephotographyaz
+      Electrical Engineer Consultant , AZ Model Travel 🇳🇬 🇬🇾 NV: @tngmodels
     location: "United States"
-    followers: 310424
-    engagement: 129
-    commentsToLikes: 0.036161
-    id: ck13clql00ysd0i19w2gbml4o
+    followers: 6557
+    engagement: 749
+    commentsToLikes: 0.061654
+    id: ck8t0a2asrcom0j78ep2b646u
     verified: false
-    hashtags: "#justfabambassador, #ad, #fableticsambassador, #fallfashion"
-  - username: "lallis_world"
+    hashtags: "#arizona, #smile, #scottsdale, #blackboyjoy"
+  - username: "presley.baird"
     fullname: >-
-      Lalli
+      Presley Baird
     bio: >-
-      Just a fat girl trying to stay fit 🤸🏽‍♀️🏋🏽‍♀️. ♈️ Aries gang 👊🏼💋. Cashapp- lallilovescash
+      ~ @dv8_the_company ~ @dancewearsolutions ~ @tigerfriday #TIGRTRIBE ~@kizzidancewear #kizzisquad ~Intrigue Alumni ~Tremaine DOTY finalist, MVP
     location: "United States"
-    followers: 16442
-    engagement: 709
-    commentsToLikes: 0.045954
-    id: ck5zpslr5t9oa0i14b8ncdwr7
+    followers: 6987
+    engagement: 462
+    commentsToLikes: 0.108640
+    id: ck8t4gg0a6pw20j78mkgs2mz8
     verified: false
-    hashtags: "#curves, #thickwomen, #wildnout, #arizona"
-  - username: "0hmi"
+    hashtags: "#sharemydancewear, #dancer, #christmaslist, #photoshoot"
+  - username: "olivianclegg"
     fullname: >-
-      Jennae Q
+      Olivia N Clegg
     bio: >-
-      📍NYC 🗽@musemodelsnyc 🇫🇷@selectmodelparis 🇮🇹@monster_mgmt 🇬🇧 @thesquadmanagement 🇪🇸 @unomodels 🇸🇪🇩🇰 @lemanagement MGMT @heffnermanagement
+      AZ//UK phxfw top 40 alum
     location: "United States"
-    followers: 5887
-    engagement: 510
-    commentsToLikes: 0.037228
-    id: ck5hjy0cwhg5m0i11lthrwabf
+    followers: 2039
+    engagement: 1656
+    commentsToLikes: 0.107116
+    id: ck5zy0qog90qc0i140kxiakll
     verified: false
-    hashtags: "#paris, #jennaequisenberry, #diannalunt, #thomaskrause"
-  - username: "brandonwgross"
-    fullname: >-
-      Brandon Gross
-    bio: >-
-      @sendit Traveling the country full time in my short bus🤘🏼 Cliff Jumping || Traveling || Adventuring --------------- 👇🏼
-    location: "United States"
-    followers: 6725
-    engagement: 789
-    commentsToLikes: 0.063289
-    id: ck0vwof6cusla0i19buk4cqc8
-    verified: false
-    hashtags: "#travel, #cliffdiving, #mavicpro, #mexico"
-  - username: "pixie_stik"
-    fullname: >-
-      Laina Mae Kirkeide • 13
-    bio: >-
-      ▫️ the ballet clinic ▫️ stars dance co @peaceloveleotards @balletrocksfashion
-    location: "United States"
-    followers: 6186
-    engagement: 1192
-    commentsToLikes: 0.068941
-    id: ckaoxvpxneym00i78psqxlcsu
-    verified: false
-    hashtags: "#balletlife, #travelingballerina, #explorepage, #dancers"
+    hashtags: "#phoenixarizona, #forever21, #model, #az"
   - username: "jamesfelixraw"
     fullname: >-
       James Felix
     bio: >-
-      DM or E-mail for rates. All models must sign a Model Release. Backup: @thankyoumrfelix Phoenix, AZ PATREON- Follow link ⬇️
+      DM or E-mail for rates. All models must sign a Model Release. Backup: @netfelixndchill Phoenix, AZ PATREON- Follow link ⬇️
     location: "United States"
-    followers: 353214
-    engagement: 319
-    commentsToLikes: 0.005212
+    followers: 375713
+    engagement: 168
+    commentsToLikes: 0.002665
     id: ck15q3qng0y8o0i197e529lp9
     verified: false
-    hashtags: "#itsnot"
+    hashtags: ""
   - username: "peachy.goodness"
     fullname: >-
       Suicide Girl Hopeful
     bio: >-
       Hai, I’m peach 💎 Let me be your muse 💋 •Published Model Albuquerque NM 🔁 Phoenix AZ
     location: "United States"
-    followers: 26266
-    engagement: 606
-    commentsToLikes: 0.008902
+    followers: 23894
+    engagement: 809
+    commentsToLikes: 0.012790
     id: ck6tkx58n5ktr0j71kiflqddr
     verified: false
     hashtags: "#suicidegirls"
-  - username: "efizymakeovers"
+  - username: "mckaylah.modelaz"
     fullname: >-
-      Efizy makeovers
+      Mckaylah Smith
     bio: >-
-      PRO mua &Trainer BROWS specialist 👌 PROUDLY ONDO💜 Foodlover🍜 08128255537,08058708266 dceoefizymakeovers@gmail.com📩 LAGOS
+      🎬Actress|Model 📸•Print•Commercial•Runway•Film AZ: Ford/RBA Model & Talent LA: Mavrick Artist Agency Competitive Dancer @invisalign
     location: "United States"
-    followers: 67875
-    engagement: 78
-    commentsToLikes: 0.045645
-    id: ck0w437d8wkwm0i1984efatqy
+    followers: 22667
+    engagement: 558
+    commentsToLikes: 0.036160
+    id: ck6ucg427feeu0j71cgbfy8fd
     verified: false
-    hashtags: ""
-  - username: "toripraver"
+    hashtags: "#bts, #photography, #influencer, #style"
+  - username: "t.a.barnett"
     fullname: >-
-      Tori Praver
+      Thomas "Andy" Barnett
     bio: >-
-      Mama to Ryan and Phoenix Founder of @toripraverswimwear Model @onemanagement
+      AZ × US
     location: "United States"
-    followers: 140865
-    engagement: 155
-    commentsToLikes: 0.010759
-    id: ck55navw95tnz0i11pyb4oybs
-    verified: true
-    hashtags: "#nationalvoterregistrationday, #iamavoter, #surferbabies"
-  - username: "morganfigge"
-    fullname: >-
-      M O R G A N  F I G G E
-    bio: >-
-      MY LIFE THROUGH PHOTOS • Theme Parks • Movies • Food • Taco Bell •
-    location: "United States"
-    followers: 10080
-    engagement: 1028
-    commentsToLikes: 0.035854
-    id: ck9hbppa2hxmf0j78do779hmm
+    followers: 9450
+    engagement: 355
+    commentsToLikes: 0.015210
+    id: ck6ueirrlr67g0j71one1edjt
     verified: false
-    hashtags: "#modeling, #fitness, #vote, #disneyworld"
+    hashtags: "#portraitambassadors, #enter, #fatalframes, #earthpix"
+  - username: "mamma_ty"
+    fullname: >-
+      🎀туѕħå Schmitz🎀
+    bio: >-
+      @inkedup_Mike ❤️ @sullenangels 😇 @dixxon_flannel_co 💋 Piercer @modernmodsaz 🖤@modernmods_chandler 💚
+    location: "United States"
+    followers: 81000
+    engagement: 118
+    commentsToLikes: 0.020820
+    id: ck5qd4q0ntso70i11civ3osp2
+    verified: false
+    hashtags: "#repost, #tattoo, #inkedmag, #inkedbabes"
+  - username: "0hmi"
+    fullname: >-
+      Jennae Q
+    bio: >-
+      @musemodelsnyc @selectmodelparis @monster_mgmt @thesquadmanagement @unomodels @lemanagement @heffnermanagement
+    location: "United States"
+    followers: 5987
+    engagement: 526
+    commentsToLikes: 0.045597
+    id: ck5hjy0cwhg5m0i11lthrwabf
+    verified: false
+    hashtags: "#styling, #dennisdevoy, #editorial, #tomkellyslack"
+  - username: "allthatjazzxoxo"
+    fullname: >-
+      Ijaza Saadat 💋
+    bio: >-
+      Believer ✝ JCU 2014 🎓 Future PsyS - NSU 2024 📚 Model Portfolio 👸🏽 @ijazasaadat Black | Egyptian | Native American | British | Irish
+    location: "United States"
+    followers: 10681
+    engagement: 1427
+    commentsToLikes: 0.299824
+    id: ckaoz65c4kjl70i78vml5f4pm
+    verified: false
+    hashtags: "#slay, #trendstyle, #novababe, #modelsearch2020"
 ---

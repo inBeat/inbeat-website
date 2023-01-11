@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Portugal in 2023
+title: Top 10 Beauty TikTok Influencers In Portugal In 2023
 description: >-
   Find top beauty TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryoupage #foryou #portugal.
 platform: TikTok
-hits: 13
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 13 TikTok influencers like this in Portugal for you to work with.
+hits: 16
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Portugal for you to connect with.
 profiles:
-  - username: "diana13martins"
+  - username: "patriciaabreu10"
     fullname: >-
-      Diana Martins
+      Patricia Abreu 💓
     bio: >-
-      Instagram: @diana13martins
+      VÍDEO NOVO NO YOUTUBE 👇🏻
     location: "Portugal"
-    followers: 46200
-    engagement: 324
-    commentsToLikes: 0.012695
-    id: ckdhdlft2wo490j23l8wvr9qr
+    followers: 24000
+    engagement: 1290
+    commentsToLikes: 0.083973
+    id: ck8s5y2zshzhh0j7890qfdlzq
     verified: false
-    hashtags: "#fyp, #beauty, #bread, #asmr"
-  - username: "theglitcharmy"
+    hashtags: "#tiktok, #diadomusicaly, #foryou, #dance"
+  - username: "kinironeko"
     fullname: >-
-      Official Glitch Army
+      kiniro neko
     bio: >-
-      
+      🧡🤍British Shorthair🤍🧡 Follow us on Instagram🦁
     location: "Portugal"
-    followers: 18700
-    engagement: 1709
-    commentsToLikes: 0.126094
-    id: ck9e018wb41ac0j78o0fguuf5
+    followers: 482100
+    engagement: 1635
+    commentsToLikes: 0.019297
+    id: ckb9bi6atxu510j237vuuj5hp
     verified: false
-    hashtags: "#fyp, #followhim, #transition, #xcyzba"
+    hashtags: "#foryou, #catlover, #neko, #omg"
+  - username: "mcloughlingirls"
+    fullname: >-
+      Mcloughlin Girls🦋
+    bio: >-
+      📥 mcgirls@wermedia.co.uk TikTokers control our day 👇🏼
+    location: "Portugal"
+    followers: 2200000
+    engagement: 1362
+    commentsToLikes: 0.006724
+    id: ck8otb86dkgch0j78lzoixcb2
+    verified: false
+    hashtags: "#fyp, #foryoupage, #viral, #berightbackworld"
   - username: "mafi.o.t"
     fullname: >-
       Mafiot✨
     bio: >-
       Ig: mafi.o.t Don’t forget to smile🌙
     location: "Portugal"
-    followers: 3285
-    engagement: 1783
-    commentsToLikes: 0.026625
+    followers: 3614
+    engagement: 953
+    commentsToLikes: 0.022581
     id: ckacaqocoh5780i78151002tw
     verified: false
-    hashtags: "#ft, #pv, #viral, #foryoupage"
+    hashtags: "#viral, #fyp, #ft, #fy"
   - username: "fabicardoso123"
     fullname: >-
       Fabi 
     bio: >-
       Sigammm :”)
     location: "Portugal"
-    followers: 102200
-    engagement: 865
-    commentsToLikes: 0.008995
+    followers: 101400
+    engagement: 758
+    commentsToLikes: 0.007126
     id: ck83zbjeczf950j78rp3wdw9x
     verified: false
-    hashtags: "#school, #portugal, #destaque, #talent"
-  - username: "marlycosta"
-    fullname: >-
-      Marly Costa
-    bio: >-
-      22, Fafe, Portugal 🙈
-    location: "Portugal"
-    followers: 12900
-    engagement: 713
-    commentsToLikes: 0.015265
-    id: ckb9atnxjw5b60j231vuc21ug
-    verified: false
-    hashtags: "#brasil, #brazil, #tiktok, #comedy"
-  - username: "anafilipasilva"
-    fullname: >-
-      Ana Filipa Silva
-    bio: >-
-      19y Porto, Portugal 🤍
-    location: "Portugal"
-    followers: 14200
-    engagement: 774
-    commentsToLikes: 0.005643
-    id: ck9evgq2aibs20j784n2efgv2
-    verified: false
-    hashtags: "#foryou, #foryoupage, #fyp, #portugal"
+    hashtags: "#portugal, #talent, #destaque, #foryou"
   - username: "kimkardashian.westt"
     fullname: >-
       Kim Kardashian
     bio: >-
       
     location: "Portugal"
-    followers: 385800
-    engagement: 726
-    commentsToLikes: 0.020679
+    followers: 407300
+    engagement: 687
+    commentsToLikes: 0.019212
     id: ck9eqgv1gx58f0j788erj6xox
     verified: false
-    hashtags: "#foryou, #fypage, #famous, #like"
+    hashtags: "#makeup, #trending, #xyzbca, #foryoupage"
   - username: "mymig"
     fullname: >-
       MyMig
     bio: >-
       •XXV ♏ •Azores 📍 São Miguel 🇵🇹
     location: "Portugal"
-    followers: 3209
-    engagement: 648
-    commentsToLikes: 0.003564
+    followers: 3212
+    engagement: 438
+    commentsToLikes: 0.006568
     id: ckac415luc7fs0i78gp2kitep
     verified: false
-    hashtags: "#foryoupage, #copy, #quarantine, #dueto"
+    hashtags: "#idades, #bestvideo, #comedy, #desaparecechallenge"
+  - username: "lovelysaini420"
+    fullname: >-
+      Lovely saini
+    bio: >-
+      #Singhpure_Ala_Saini HR41 🇮🇳🇬🇧🇵🇹 insta/fb/snapchat/twitter @lovelysaini420
+    location: "Portugal"
+    followers: 4472
+    engagement: 829
+    commentsToLikes: 0.019275
+    id: ck9evglguian50j7876h9gy63
+    verified: false
+    hashtags: "#beautiful, #singhpure, #haryana, #portugal"
+  - username: "creativeaway"
+    fullname: >-
+      creativeaway
+    bio: >-
+      Got some ideas to share #𝔦𝔪𝔞𝔤𝔦𝔫𝔢 #𝔯𝔢𝔠𝔬𝔯𝔡 #𝔠𝔯𝔢𝔞𝔱𝔢 🇵🇹✈️🌍
+    location: "Portugal"
+    followers: 41000
+    engagement: 821
+    commentsToLikes: 0.011019
+    id: ckd0kjiwufynm0j23uwwxvaix
+    verified: false
+    hashtags: "#budapest, #winter, #foryou, #beautiful"
   - username: "p.t__"
     fullname: >-
       Portugal aesthetic
     bio: >-
-      🇵🇹
+      Olá bem vinda/o a minha conta, espero que gostes!🇵🇹Videos todos os dias✨
     location: "Portugal"
-    followers: 38500
-    engagement: 1781
-    commentsToLikes: 0.036286
+    followers: 66100
+    engagement: 1712
+    commentsToLikes: 0.036713
     id: ckavdexhmlfj80j23js8vek2u
     verified: false
-    hashtags: "#viral, #portugal, #brasil, #pt"
-  - username: "andreabiancak"
-    fullname: >-
-      Andrea Krișan
-    bio: >-
-      Andrea Krisan 🎀🌹 25 🌹 balanță ♎ Instagram-> andreabiancak
-    location: "Portugal"
-    followers: 13100
-    engagement: 1105
-    commentsToLikes: 0.035793
-    id: ckbeyf4xfiy8l0j23a7xoy84f
-    verified: false
-    hashtags: "#foryoupage, #sunset, #fy, #pentrutine"
+    hashtags: "#tuga, #europe, #music, #portugal"
 ---

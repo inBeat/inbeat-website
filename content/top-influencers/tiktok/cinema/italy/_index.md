@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Italy in 2023
+title: Top 10 Cinema TikTok Influencers In Italy In 2023
 description: >-
-  Find top cinema TikTok influencers in Italy in 2023. Most popular hashtags: #cinema #duetto #film #perte.
+  Find top cinema TikTok influencers in Italy in 2023. Most popular hashtags: #cinema #perte #duetto #film.
 platform: TikTok
-hits: 53
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 53 TikTok influencers like this in Italy for you to collaborate.
+hits: 54
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 54 TikTok influencers like this in Italy for you to collaborate.
 profiles:
+  - username: "sixthlens"
+    fullname: >-
+      Matteo Mangano
+    bio: >-
+      Adventurer 🇮🇹 ⛰ Come see the world through my eyes ⏬ my best cinematic video ⏬
+    location: "Italy"
+    followers: 33200
+    engagement: 1593
+    commentsToLikes: 0.043633
+    id: ck9rhwugchbn00j78ni4vj1ev
+    verified: false
+    hashtags: "#roadtrip, #snow, #hiking, #italy"
   - username: "_fairycosplay_"
     fullname: >-
       fairy_cosplay
     bio: >-
       Cosplayer/Crossplayer🇮🇹 19 y/o Lara She/Her In 💜 with HP⚡️,anime, cinema
     location: "Italy"
-    followers: 7950
-    engagement: 2044
-    commentsToLikes: 0.015959
+    followers: 8709
+    engagement: 2244
+    commentsToLikes: 0.016838
     id: ck8km8m8o7fs40j78cmp6acv6
     verified: false
-    hashtags: "#galateacosplay, #rey, #howlsmovingcastle, #identityv"
-  - username: "stevechelios"
-    fullname: >-
-      Steve Chelios
-    bio: >-
-      Bologna 💬comics 🎬cinema 📺serie Tv Entrate in Comics Society su Instagram!
-    location: "Italy"
-    followers: 9279
-    engagement: 626
-    commentsToLikes: 0.082180
-    id: cka884m6m9pai0i780mz57e9s
-    verified: false
-    hashtags: "#gamer, #anime, #pc, #geek"
-  - username: "andre.sawi"
-    fullname: >-
-      Andrea Savina
-    bio: >-
-      Recitazione Dizione Doppiaggio Curiosità sul cinema Live alle 14 tutti i giorni
-    location: "Italy"
-    followers: 11000
-    engagement: 882
-    commentsToLikes: 0.139345
-    id: cka0wphoe3tb40i78oiw74c2m
-    verified: false
-    hashtags: "#dizione, #impararediverte, #imparacontiktok, #stitch"
+    hashtags: "#identityvcosplay, #priestesscosplay, #mikasaackermancosplay, #galateaidv"
   - username: "alessio.desanta"
     fullname: >-
       I love storytelling
     bio: >-
       Ho portato il cinema su Tiktok alessio.desanta@gmail.com IG: @ilove.storytelling
     location: "Italy"
-    followers: 229800
-    engagement: 1691
-    commentsToLikes: 0.009408
+    followers: 296200
+    engagement: 1967
+    commentsToLikes: 0.007424
     id: cka88bkauagm40i78mouropoz
     verified: false
-    hashtags: "#hollywood, #halloween, #cinema, #film"
+    hashtags: "#cinema, #trump, #film, #imparacontiktok"
+  - username: "stevechelios"
+    fullname: >-
+      Steve Chelios
+    bio: >-
+      💬comics 🎬cinema 📺serie tv Entra in Comics Society su Insta, YouTube e Twitch!
+    location: "Italy"
+    followers: 9185
+    engagement: 610
+    commentsToLikes: 0.078055
+    id: cka884m6m9pai0i780mz57e9s
+    verified: false
+    hashtags: "#gaming, #nerd, #unboxing, #gamer"
   - username: "valemarconoff"
     fullname: >-
       Valentina Marcon
     bio: >-
       Aspirante Regista cinematografica🎬🏳️‍🌈
     location: "Italy"
-    followers: 13100
-    engagement: 1381
-    commentsToLikes: 0.019542
+    followers: 13500
+    engagement: 1042
+    commentsToLikes: 0.038794
     id: ckcdw73tkfid60j234j3b0fen
     verified: false
-    hashtags: "#duetto, #divertente, #lgbtq, #lesbians"
-  - username: "mounir1982e"
-    fullname: >-
-      Mounir Echchaoui
-    bio: >-
-      Attore / produttore cinematografico
-    location: "Italy"
-    followers: 62100
-    engagement: 789
-    commentsToLikes: 0.055021
-    id: ck81qvhfik7nn0j78l85qpdeo
-    verified: false
-    hashtags: "#duetto, #susanfatima, #viral, #maroc"
+    hashtags: "#perte, #duetto, #divertente, #lesb"
   - username: "faesnicola"
     fullname: >-
       Nicola Faes Belgrado
     bio: >-
       🤯 20 anni Milano📍 🎥 Scuola di Cinema Faccio qualche video (YT in BIO) 🙄
     location: "Italy"
-    followers: 9881
-    engagement: 1142
-    commentsToLikes: 0.013559
+    followers: 34800
+    engagement: 1122
+    commentsToLikes: 0.013967
     id: ckdbov3w9b7o80j23rzepc601
     verified: false
-    hashtags: "#piangere, #cinema, #citazioni, #curiosit"
-  - username: "valeriachiodelli"
+    hashtags: "#citazioni, #cinema, #film, #pt26"
+  - username: "mounir1982e"
     fullname: >-
-      Valeria Chiodelli
+      Mounir Echchaoui
     bio: >-
-      Attrice di teatro Sogno? Fare un film🎥🎬 INSTAGRAM valeriachiodelli_official
+      Attore / produttore cinematografico
     location: "Italy"
-    followers: 107000
-    engagement: 977
-    commentsToLikes: 0.039143
-    id: ckbfbjdz93qi60j23qjuuls45
+    followers: 61600
+    engagement: 813
+    commentsToLikes: 0.049281
+    id: ck81qvhfik7nn0j78l85qpdeo
     verified: false
-    hashtags: "#recitazione, #virale, #mani, #top"
-  - username: "joe_wink"
+    hashtags: "#misonofindacchiata, #maroc, #viral, #duetto"
+  - username: "paolo_meazzini"
     fullname: >-
-      joewink
+      Paolo Meazzini
     bio: >-
-      🎥 Photographer & Video creator 🇮🇹 from the Dolomites, Italy
+      Twitch 🎥 Magician 🧙‍♂️ Traveler 🌍 Gamer 🕹 Hero 🦸‍♂️
     location: "Italy"
-    followers: 30400
-    engagement: 1031
-    commentsToLikes: 0.022465
-    id: ckacsfid69uq90i78e22wuzcl
+    followers: 28300
+    engagement: 821
+    commentsToLikes: 0.042967
+    id: cka6bsm201j9s0i78asfpt3s9
     verified: false
-    hashtags: "#beautifuldestinations, #cinematicfpv, #bts, #photographytricks"
+    hashtags: "#idea, #marketing, #hack, #serietv"
   - username: "luana.des"
     fullname: >-
       Luana d’Esposito
     bio: >-
       Bellydancer, curvy model , miss decoltè 2019, la ventriloqua avanti un altro
     location: "Italy"
-    followers: 13900
-    engagement: 329
-    commentsToLikes: 0.036453
+    followers: 14400
+    engagement: 403
+    commentsToLikes: 0.042293
     id: ckcegedn2nnqc0j23a56a8drk
     verified: false
-    hashtags: "#foryou, #viral, #gatti, #neiperte"
+    hashtags: "#moda, #curvy, #viral, #neiperte"
+  - username: "mattiabarboni55"
+    fullname: >-
+      Mattia Barboni
+    bio: >-
+      
+    location: "Italy"
+    followers: 3890
+    engagement: 748
+    commentsToLikes: 0.024205
+    id: ckbeprgad700b0j23tav152j2
+    verified: false
+    hashtags: "#4u, #perte, #marvel, #old"
 ---

@@ -1,84 +1,72 @@
 ---
-title: Top 10 Health TikTok Influencers In Ireland in 2023
+title: Top 10 Health TikTok Influencers In Ireland In 2023
 description: >-
-  Find top health TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #ireland #irish #foodie.
+  Find top health TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #ireland #irish #healthyrecipes.
 platform: TikTok
-hits: 29
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 29 TikTok influencers like this in Ireland for you to pitch.
+hits: 19
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 19 TikTok influencers like this in Ireland for you to contact.
 profiles:
-  - username: "thefitnessfoodie"
+  - username: "coachciaranpt"
     fullname: >-
-      The Fitness Foodie
+      Coach Ciaran PT
     bio: >-
-      My Instagram↗️ 🍔 Healthy meals 🇮🇪 Personal Trainer Insta: The_fitnessfoodie_
+      FOLLOW MY INSTA!! ⬆️ 🍔 Healthy meals 🏋🏻‍♂️ Qualified PT ❗️ Fat Loss Tip
     location: "Ireland"
     followers: 10800
-    engagement: 583
-    commentsToLikes: 0.015766
+    engagement: 595
+    commentsToLikes: 0.013994
     id: ckauy762g3mtb0j23kyavx2ir
     verified: false
-    hashtags: "#healthy, #food, #foodie, #gym"
+    hashtags: "#fitness, #health, #thefitnessfoodie, #caloriedeficit"
   - username: "goodforyou_01"
     fullname: >-
       firecracker_3
     bio: >-
       Quick & healthy recipe ideas for the average busy person wanting to be healthy!
     location: "Ireland"
-    followers: 20200
-    engagement: 371
-    commentsToLikes: 0.007793
+    followers: 20000
+    engagement: 366
+    commentsToLikes: 0.005896
     id: ckbqg62621oa80j23zpwm0xy0
     verified: false
-    hashtags: "#mealprep, #lowfat, #mealprepideas, #healthysnacks"
+    hashtags: "#healthysnack, #mealprep, #mealprepping, #ukfoodie"
   - username: "thefitnessfoodie_"
     fullname: >-
       The Fitness Foodie
     bio: >-
       My Instagram - The_FitnessFoodie_ 🍔 Food Recipes 🇮🇪 Personal Trainer
     location: "Ireland"
-    followers: 105900
-    engagement: 514
-    commentsToLikes: 0.025382
+    followers: 104100
+    engagement: 491
+    commentsToLikes: 0.022080
     id: cka0pi1r88d7o0i78n60koil1
     verified: false
-    hashtags: "#healthyrecipes, #foodie, #healrhyrecipes, #irish"
+    hashtags: "#ireland, #fitness, #healthyrecipes, #sprawlmma"
   - username: "jclarke_fitness"
     fullname: >-
       Jonathan Clarke
     bio: >-
       Online PT 🏆 Instagram: jclarke_fitness ↘️ Join my Transformation Program ↙️
     location: "Ireland"
-    followers: 19300
-    engagement: 644
-    commentsToLikes: 0.025143
+    followers: 30900
+    engagement: 651
+    commentsToLikes: 0.019826
     id: ckck5e9bjq9zb0j23l8iqf273
     verified: false
-    hashtags: "#diettips, #gymtips, #tiktokfit, #gymlife"
-  - username: "anirishwitch"
+    hashtags: "#fitnesstips, #lowcalorie, #diettips, #healthyfood"
+  - username: "princethedobe"
     fullname: >-
-      Teagan
+      Prince the dobie
     bio: >-
-      19 Irish Pagan Eclectic Witch +18
+      European Doberman 🇷🇴 x 🇭🇺 Protection & sports IGP,BH Follow my Instagram ⤴️
     location: "Ireland"
-    followers: 16700
-    engagement: 2006
-    commentsToLikes: 0.035370
-    id: ckc90i9fupyac0j235rutrl0g
+    followers: 129400
+    engagement: 1683
+    commentsToLikes: 0.060156
+    id: ckaviewijqmca0j23byp8z8lt
     verified: false
-    hashtags: "#fyp, #pagantiktok, #tarotdeck, #witchcraft"
-  - username: "wish"
-    fullname: >-
-      Wish
-    bio: >-
-      🛍️ Shopping made safe! 🛍 #GiveThanksWithWish & You Could Win 1K in Wish Cash
-    location: "Ireland"
-    followers: 347800
-    engagement: 1504
-    commentsToLikes: 0.036402
-    id: ckb0z66hnnx680j23e03f0s0y
-    verified: true
-    hashtags: "#retailtherapy, #mycostume, #hellofall, #halloween"
+    hashtags: "#dc, #edit, #cute, #dogs"
   - username: "therese.cahill"
     fullname: >-
       therese.cahill
@@ -90,16 +78,28 @@ profiles:
     commentsToLikes: 0.049174
     id: cka0l2pljp9e80i78s95ckbjb
     verified: false
-    hashtags: "#covid, #morphine, #ireland, #fyp"
+    hashtags: "#mask, #morphine, #racist, #duet"
+  - username: "kindseypentecost"
+    fullname: >-
+      Kindsey Pentecost
+    bio: >-
+      I love life!
+    location: "Ireland"
+    followers: 3594
+    engagement: 557
+    commentsToLikes: 0.075799
+    id: ckcdchltl52tz0j23bn2slo41
+    verified: false
+    hashtags: "#irelandboys, #foryourpage, #ireland, #americatoireland"
   - username: "julesbby123"
     fullname: >-
       Julia 🤪🤪
     bio: >-
       follow me on instagram :p ^^
     location: "Ireland"
-    followers: 156700
-    engagement: 1331
-    commentsToLikes: 0.017887
+    followers: 152700
+    engagement: 1277
+    commentsToLikes: 0.014016
     id: ck83z859hyk0q0j783y26br5d
     verified: false
     hashtags: "#irish, #ireland, #fyp, #foryoupage"
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.022490
     id: ckcjbfk3f8xfx0j23bmeog29q
     verified: false
-    hashtags: "#dontletthisflop, #dunk, #basketball, #xyzbca"
-  - username: "kindseypentecost"
+    hashtags: "#brighterinside, #greenvspurple, #prideicon, #basketball"
+  - username: "marianacalonso"
     fullname: >-
-      Kindsey Pentecost
+      Mariana C. Alonso
     bio: >-
-      I love life!
+      📺Mentor on The Fashion Hero TV Insta @marianacalonso 82K 📍Dublin, IE Have fun!
     location: "Ireland"
-    followers: 3577
-    engagement: 411
-    commentsToLikes: 0.054254
-    id: ckcdchltl52tz0j23bn2slo41
+    followers: 48100
+    engagement: 390
+    commentsToLikes: 0.031227
+    id: ck9a6534m1qg00j78e3tz55c0
     verified: false
-    hashtags: "#ireland, #fyp, #irishtiktok, #americatoireland"
+    hashtags: "#biquini, #tbt, #praia, #verao"
 ---

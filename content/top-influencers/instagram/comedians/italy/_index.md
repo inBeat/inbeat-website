@@ -1,96 +1,60 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Italy in 2023
+title: Top 10 Comedians Instagram Influencers In Italy In 2023
 description: >-
-  Find top comedians Instagram influencers in Italy in 2023. Most popular hashtags: #repost #fasedue #buonadomenica.
+  Find top comedians Instagram influencers in Italy in 2023. Most popular hashtags: #teatro #repost #comedians.
 platform: Instagram
-hits: 30
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 30 Instagram influencers like this in Italy for you to contact.
+hits: 21
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 21 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "cristianopasca"
+  - username: "landonromano"
     fullname: >-
-      C R I S T I A N O   P A S C A
+      Landon Romano
     bio: >-
-      🎥Actor, director, iena😎 host and comedian📺| ora a dieta 😭 #dieta #diet 🇮🇹Italy Palermo❤ #cristianopasca #leiene @redazioneiene Agency: @sosiapistoia
+      Scorpio. Comedian. Actor. Southern Belle. Nashville ✈️ Los Angeles ✈️ Baton Rouge brandi@bmbmgmt.com
     location: "Italy"
-    followers: 30192
-    engagement: 223
-    commentsToLikes: 0.054075
-    id: ck0w1qrn6koba0i19cizss34e
-    verified: false
-    hashtags: "#palermo, #leiene, #mariobiondo, #cristianopasca"
+    followers: 1864035
+    engagement: 485
+    commentsToLikes: 0.038631
+    id: ck5pyl96zwka00i112apixwe6
+    verified: true
+    hashtags: ""
   - username: "lleshigenci"
     fullname: >-
       Genc Lleshi 🧿
     bio: >-
       🎭Actor /Comedian/ @alpazarvizionplus
     location: "Italy"
-    followers: 8559
-    engagement: 844
-    commentsToLikes: 0.024322
+    followers: 8871
+    engagement: 615
+    commentsToLikes: 0.023822
     id: ck6tjxg5l3lyg0j719cv9usbh
     verified: false
-    hashtags: "#shqiperia, #tirana, #kosova, #tirane"
-  - username: "kushpapi_"
-    fullname: >-
-      Kush Papi 🍇🍊🍍
-    bio: >-
-      Chicago - Italian 🇮🇹 Actor/Comedian BUSINESS 📩KushPapiBookings@gmail.com
-    location: "Italy"
-    followers: 2230439
-    engagement: 326
-    commentsToLikes: 0.039212
-    id: ck0vz5e4g7e1l0i1949naffoi
-    verified: true
-    hashtags: "#worldstar, #comedy, #funny, #tagafriend"
-  - username: "stefanbuesser"
-    fullname: >-
-      Stefan Büsser
-    bio: >-
-      * Stand-up Comedian * Radio- and TV-Host * Di-Do live @SRF3 *** FB/TikTok/Snap: @stefanbuesser *** ➡️➡️➡️ Tour-Tickets👇🏼👇🏼👇🏼
-    location: "Italy"
-    followers: 121543
-    engagement: 220
-    commentsToLikes: 0.013216
-    id: ck5zxf4oq7w9d0i14dxlvz8sh
-    verified: true
-    hashtags: ""
-  - username: "dilsonespindola"
-    fullname: >-
-      Dilson Espindola
-    bio: >-
-      @labravo.oficial 🏋️‍♂️Atleta 🎙Comediante 📽cinema 📚Ed.Física 🥇Estreantes 🥇Mr. Rio 🥇Bi Brasileiro(Overall 🥇Sulamericano 4°Arnold 3°muscle
-    location: "Italy"
-    followers: 53925
-    engagement: 283
-    commentsToLikes: 0.047431
-    id: ck5zyv3q1al7d0i14p0ic457n
-    verified: false
-    hashtags: "#eusoumax, #casadoscampeoes, #humorvenceu, #maxtitanium"
+    hashtags: "#shqiperia, #kosova, #albania, #kosovo"
   - username: "cristiano.militello"
     fullname: >-
       Cristiano Militello
     bio: >-
-      Attore 🎬 Inviato 🎤 Speaker radio R101 📻 Stand up comedian 🎙 Segnalazioni a gabibbo@mediaset.it
+      Attore 🎬 Inviato 🎤 Speaker radio R101 📻 Stand up comedian Segnalazioni a sosgabibbo@mediaset.it http://www.facebook.com/CriMilitello
     location: "Italy"
-    followers: 81144
-    engagement: 236
-    commentsToLikes: 0.032945
+    followers: 114994
+    engagement: 185
+    commentsToLikes: 0.040945
     id: ck6tn8dvg9c580j71az8fjptd
     verified: true
-    hashtags: "#stasera, #sundayfunday, #rules, #buonadomenica"
-  - username: "malhall"
+    hashtags: "#sabato, #weekend, #saturday, #striscialostriscione"
+  - username: "leonmurillooficial"
     fullname: >-
-      Mal Hall
+      León Murillo
     bio: >-
-      ✦ Comedian ✦ Photographer & Vlogger ✦ #MalHall #laughshirt Get YOUR LaughShirt! 🔻🔻🔻🔻🔻
+      • Comediante🎤 • Guionista📝 • Albañil @sala.met.valpo 🛠 • Emb. @GenteDeLaCalle🛢 • Miembro @rieh.chile🎓 • #ElBienYElBar @adnchile 📻
     location: "Italy"
-    followers: 21231
-    engagement: 120
-    commentsToLikes: 0.031091
-    id: ck5q9i38lb85x0i11kpovjwc6
+    followers: 57257
+    engagement: 61
+    commentsToLikes: 0.063388
+    id: ck5hs75e4w3n80i11846lvpow
     verified: true
-    hashtags: "#sandiegoinfluencer, #stayathome, #standupcomedy, #quarantinelife"
+    hashtags: "#elbienyelbarenadn, #tbt, #comedia, #apruebo"
   - username: "paola_minaccioni"
     fullname: >-
       paola minaccioni
@@ -102,7 +66,7 @@ profiles:
     commentsToLikes: 0.045862
     id: ck6u53iyb7dyx0j71dnff8rdi
     verified: false
-    hashtags: "#sentiquesta, #fasedue, #cinema, #poesia"
+    hashtags: "#repost, #poesia, #teatro, #cinema"
   - username: "joederosacomedy"
     fullname: >-
       Joe DeRosa
@@ -119,12 +83,48 @@ profiles:
     fullname: >-
       Bes Kallaku
     bio: >-
-      Albanian Actor, Comedian,Singer 🎶 Ciao Po Te Le ft Anila Mimani 👇🏼
+      Albanian Actor, Comedian,Singer 📣PREMIERE : FILMI FALCO NE YOUTUBE 👇🏼
     location: "Italy"
-    followers: 1222292
-    engagement: 270
-    commentsToLikes: 0.006357
+    followers: 1257537
+    engagement: 222
+    commentsToLikes: 0.004943
     id: ck6tjwu4m3ktz0j71jx4ruh7d
     verified: true
-    hashtags: "#paketa, #albanian, #illyria, #gold"
+    hashtags: "#gjirokastra, #argjiro, #dezinfektim, #mushkonja"
+  - username: "pietrosparacino_official"
+    fullname: >-
+      Pietro Sparacino
+    bio: >-
+      THE COMEDY VILLAGE - IN VACANZA CON I COMEDIAN 🏖 👇🏼👇🏼👇🏼
+    location: "Italy"
+    followers: 13843
+    engagement: 475
+    commentsToLikes: 0.011950
+    id: ck8t9sblxp6860j78c5smsyot
+    verified: false
+    hashtags: "#standup, #liveshow, #videochiamata, #comedian"
+  - username: "jonathancanini"
+    fullname: >-
+      Jonathan Canini
+    bio: >-
+      Mai neims isse: Jonathan Little Dogs.
+    location: "Italy"
+    followers: 81012
+    engagement: 555
+    commentsToLikes: 0.022879
+    id: ck8t90se7mje90j784wldsamz
+    verified: false
+    hashtags: "#comico, #cappuccettorozzo, #ironia, #toscanivs"
+  - username: "gianlu.impastato"
+    fullname: >-
+      Gianluca Impastato
+    bio: >-
+      Il cabaret è come il porno : dal vivo è tutta un’altra cosa .
+    location: "Italy"
+    followers: 154531
+    engagement: 201
+    commentsToLikes: 0.025654
+    id: ck5cfzc53nvjf0i11cv0giaat
+    verified: true
+    hashtags: "#dachsund, #merrychristmas, #comedians, #comedian"
 ---

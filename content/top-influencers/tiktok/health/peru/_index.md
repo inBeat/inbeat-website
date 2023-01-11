@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Peru in 2023
+title: Top 10 Health TikTok Influencers In Peru In 2023
 description: >-
-  Find top health TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #parati #viral #foryou.
+  Find top health TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #viral #parati #greenscreen.
 platform: TikTok
-hits: 9
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Peru for you to pitch.
+hits: 8
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 8 TikTok influencers like this in Peru for you to collaborate.
 profiles:
   - username: "acinetobacter"
     fullname: >-
@@ -18,101 +18,89 @@ profiles:
     commentsToLikes: 0.045437
     id: ckdne7fgah5ep0j236wfpm8fe
     verified: false
-    hashtags: "#greenscreen, #krebschallenge, #medical, #health"
+    hashtags: "#enfermeria, #viral, #ciclodekrebs, #humor"
   - username: "bonfresh"
     fullname: >-
       user3785818397701
     bio: >-
       
     location: "Peru"
-    followers: 2136
-    engagement: 843
-    commentsToLikes: 0.095363
+    followers: 2115
+    engagement: 858
+    commentsToLikes: 0.095202
     id: ckauw8ig81f6w0j23psqkp0gq
     verified: false
-    hashtags: "#travel, #foryourpage, #suiza, #selva"
-  - username: "beltrips"
+    hashtags: "#selva, #foryourpage, #quarantine, #bonfresh"
+  - username: "williemgc"
     fullname: >-
-      Beltrips
+      Williemgc
     bio: >-
-      Info para viajes POST PANDEMIA Nutricionista 🍓 Viaja por el mundo🌎 👇🏼👇🏼
+      Official profile / perfil oficial NY 📍
     location: "Peru"
-    followers: 379500
-    engagement: 861
-    commentsToLikes: 0.014451
-    id: cka6f12a2duvx0i78lqejgh3b
-    verified: false
-    hashtags: "#beltrips, #wanderlust, #travel, #saludybienestar"
+    followers: 2100000
+    engagement: 1209
+    commentsToLikes: 0.015253
+    id: ck81sv0njtam20j788odbu889
+    verified: true
+    hashtags: "#greenscreenvideo, #fyp, #foryou, #viral"
   - username: "onlyforgirls24"
     fullname: >-
       𝑓𝑜𝑟𝑔𝑖𝑟𝑙𝑠
     bio: >-
       ♡︎𝐖𝐞 𝐧𝐞𝐞𝐝 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬♡︎ 🦋200k?🦋 collabs al dm UNICA CUENTA🥺🥰
     location: "Peru"
-    followers: 168700
-    engagement: 1842
-    commentsToLikes: 0.012451
+    followers: 162400
+    engagement: 1700
+    commentsToLikes: 0.012024
     id: ckb9fohsz49ab0j23ktuv366q
     verified: false
-    hashtags: "#quarantine, #greenscreen, #viral, #fyp"
-  - username: "ornellayoga"
-    fullname: >-
-      Ornella Yoga
-    bio: >-
-      Por aquí chilling , para rutinas , clases y talleres 📩Insta @ornellayoga ❤️🙃
-    location: "Peru"
-    followers: 26600
-    engagement: 537
-    commentsToLikes: 0.049636
-    id: cka0rv107ikls0i78he1h3dq7
-    verified: false
-    hashtags: "#fyp, #tiktokindia, #yoga, #mindfulness"
-  - username: "camiloyevaluna"
-    fullname: >-
-      C&V
-    bio: >-
-      
-    location: "Peru"
-    followers: 303
-    engagement: 1223
-    commentsToLikes: 0.011453
-    id: ck81sv0njtam20j788odbu889
-    verified: false
-    hashtags: "#duet, #animales, #foryou, #chicas"
+    hashtags: "#tiktok, #fy, #viral, #enunminuto"
   - username: "heathervillanuevaofc"
     fullname: >-
       ✨𝑯𝒆𝒂𝒕𝒉𝒆𝒓✨ヘザー✨
     bio: >-
       📸 Fotografa 📸 Ins:heathervillanuevaofc 🏁 30k 🏁 ✨Otaku de corazón✨ ついてきて
     location: "Peru"
-    followers: 27400
-    engagement: 1951
-    commentsToLikes: 0.023136
+    followers: 27000
+    engagement: 1802
+    commentsToLikes: 0.020716
     id: ckbezridhkzb60j23adxu4o9j
     verified: false
-    hashtags: "#yoenlafiesta, #misterio, #foryoupage, #humor"
-  - username: "taexkook_truelove"
+    hashtags: "#foryou, #comedia, #humor, #hazmeviral"
+  - username: "brbvideos"
     fullname: >-
-      Taekook
+      BrbVideos
     bio: >-
-      ❤️ Wattpad: SweetbabyTJ Twitter: Alessa12luli Youtube del Taekook
+      35k?
     location: "Peru"
-    followers: 45600
-    engagement: 3090
-    commentsToLikes: 0.023676
-    id: ckd6yhhl0wedo0j23hbhonqcq
+    followers: 30800
+    engagement: 2202
+    commentsToLikes: 0.031430
+    id: ckb9pge80kk690j23z99qh6f5
     verified: false
-    hashtags: "#gay, #pov, #kook, #fyp"
+    hashtags: "#fyp, #narutouzumaki, #madelainepetsch, #lilireinhart"
+  - username: "jnxhym"
+    fullname: >-
+      jexx.min☆
+    bio: >-
+      .
+    location: "Peru"
+    followers: 59000
+    engagement: 3052
+    commentsToLikes: 0.016179
+    id: ckc8v7ls8hx3u0j23cynx7684
+    verified: false
+    hashtags: "#jeongin, #viral, #fouryoupage, #kpop"
   - username: "onedirectionstuff"
     fullname: >-
       OneDStuff
     bio: >-
       contenido de One Direction y sus integrantes💚💙❤💛🧡🤍💚
     location: "Peru"
-    followers: 8527
-    engagement: 2957
-    commentsToLikes: 0.010867
+    followers: 9657
+    engagement: 2741
+    commentsToLikes: 0.009848
     id: ckcv8h9zlqej20j23fjqgnxb8
     verified: false
-    hashtags: "#louistomlinson, #niall, #harrystyles, #2020"
+    hashtags: "#niall, #liampayne, #harry, #zaynmalik"
 ---

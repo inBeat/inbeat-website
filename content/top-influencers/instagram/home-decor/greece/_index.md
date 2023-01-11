@@ -1,60 +1,36 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Greece in 2023
+title: Top 10 Home Decor Instagram Influencers In Greece In 2023
 description: >-
-  Find top home decor Instagram influencers in Greece in 2023. Most popular hashtags: #homedecor #greece #giveaway #fashion.
+  Find top home decor Instagram influencers in Greece in 2023. Most popular hashtags: #homedecor #greece #travel #summer.
 platform: Instagram
-hits: 34
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 34 Instagram influencers like this in Greece for you to collaborate.
+hits: 30
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 30 Instagram influencers like this in Greece for you to work with.
 profiles:
-  - username: "b.a.b.i.k.a"
+  - username: "fanellas"
     fullname: >-
-      MICHAELA LEITNEROVÁ
+      Fanis Pavlopoulos
     bio: >-
-      📍PRAGUE 🇨🇿 29 y.o. 💙SIMONEK💙25.1.2019 🗺 Travel family 👪 Prevence stárnutí, antiage technologie @babikabeauty
+      Athens based | Actor & Snapper @fanellas.on.set @luna.the.victorian
     location: "Greece"
-    followers: 59271
-    engagement: 247
-    commentsToLikes: 0.013422
-    id: ck5cedz8yku920i11b9agq7tr
+    followers: 148281
+    engagement: 122
+    commentsToLikes: 0.041764
+    id: ck6uakq7543v80j71dwwsnag3
     verified: false
-    hashtags: "#bonprixitsme, #bonprix, #zante, #zakynthos"
-  - username: "keelies.journey"
+    hashtags: "#landscapephotography, #visitgreece, #earthofficial, #architecture"
+  - username: "esrahomeblog"
     fullname: >-
-      𝙺 𝚎 𝚎 𝚕 𝚒 𝚎
+      𝓔𝓼𝓻𝓪 𝓟𝓮𝓵𝓽𝓮 🌾
     bio: >-
-      𝙷𝚘𝚖𝚎 | 𝚂𝚝𝚢𝚕𝚎 | 𝚃𝚛𝚊𝚟𝚎𝚕 | 𝙻𝚒𝚏𝚎
+      ▪️мү нσмε ▪️cσғғεε ℓσvεя ▪️26sιη∂α ∂υвℓε αηηε . .
     location: "Greece"
-    followers: 69075
-    engagement: 280
-    commentsToLikes: 0.251442
-    id: ck0vznwhha17j0i19f92h5yhz
+    followers: 13435
+    engagement: 242
+    commentsToLikes: 0.026738
+    id: ck8tbs3idwwrj0j78zlszb9o0
     verified: false
-    hashtags: "#scandicinterior, #scandiliving, #myinspiringinterior, #autumndecor"
-  - username: "berenata"
-    fullname: >-
-      Natasha Berekou
-    bio: >-
-      👉🏽Beauty editor @tlifegr 🖤 👉🏽Skincare addict 💪🏽 👉🏽Take care of your body’s largest organ 🧖🏼‍♀️ 👉🏽 Team Batiste member 🌎 👉🏽 #Vanity episodes 👇🏽
-    location: "Greece"
-    followers: 25927
-    engagement: 464
-    commentsToLikes: 0.183352
-    id: ck0vzvnr6b4de0i197xfwbkzb
-    verified: false
-    hashtags: "#skincare, #beautyroom, #mood, #home"
-  - username: "mylovelymoments_"
-    fullname: >-
-      by E L I S A V E T.
-    bio: >-
-      ~ 𝐡𝐞𝐫𝐞’𝐬 𝐦𝐲 𝐥𝐨𝐯𝐞𝐥𝐲 𝐦𝐨𝐦𝐞𝐧𝐭𝐬 •wife |mother of 2 |doglover •photography |content creator •GR ~ •Cosatto All in All Rotate:⬇️
-    location: "Greece"
-    followers: 10900
-    engagement: 932
-    commentsToLikes: 0.220368
-    id: ck5q4057rn5ki0i1153w04mv1
-    verified: false
-    hashtags: "#myhavendays, #mybeautifulsimplicity, #visualstoryteller, #holdthemoments"
+    hashtags: "#homedesign, #instafollowers, #happyhomes, #instafollow"
   - username: "archi_memes7"
     fullname: >-
       #archimemes7
@@ -66,65 +42,89 @@ profiles:
     commentsToLikes: 0.008225
     id: ck9wfjxz8p61s0j78ztyquypa
     verified: false
-    hashtags: "#contractor, #thikedaar, #thikedaardotcom, #archi"
-  - username: "vaso_petrou"
+    hashtags: "#homedecor, #comingsoon, #architecture, #design"
+  - username: "lorenianna"
     fullname: >-
-      Vaso Petrou
+      Anna_Loreni
     bio: >-
-      💪🏽ᴘᴇʀsᴏɴᴀʟ ᴛʀᴀɪɴᴇʀ 🔹ғɪᴛɴᴇss ɪɴsᴛʀᴜᴄᴛᴏʀ 🥊ғɪᴛʙᴏx ʟᴏᴠᴇʀ 🔸ᴛʀx ᴍᴀɴɪᴀᴄ @legacy.cy
+      🇦🇱 🇬🇷 🇦🇪 -Sales Director @maisonlgh -Founder @selling_dubai_2022
     location: "Greece"
-    followers: 54447
-    engagement: 553
-    commentsToLikes: 0.265433
-    id: ck5ckpuj3xdjo0i11bzercw37
+    followers: 140230
+    engagement: 117
+    commentsToLikes: 0.026476
+    id: ck5zlqi98l7760i14lzkrktjf
     verified: false
-    hashtags: "#outfit, #style, #lidlcyprus, #ootd"
-  - username: "ele_xtz"
+    hashtags: "#friends, #apparel, #women, #lorenianna"
+  - username: "sophie_xyla"
     fullname: >-
-      𝑬𝑳𝑬𝑭𝑻𝑯𝑬𝑹𝑰𝑨 🍍 𝑪𝑯𝑨𝑱𝑰𝑫𝑰𝑴𝑰𝑻𝑹𝑰𝑶𝑼
+      𝑺𝒐𝒑𝒉𝒊𝒆 𝑿𝒚𝒍𝒂
     bio: >-
-      𝗚𝗿𝗲𝗲𝗰𝗲🌎 • 𝗹𝗲𝗳𝗶𝟭@𝘄𝗶𝗻𝗱𝗼𝘄𝘀𝗹𝗶𝘃𝗲.𝗰𝗼𝗺📩 • 𝗝𝘂𝗻𝗲, 𝟭𝟳🎂
+      🌙| ɪɢʙʟᴏɢɢᴇʀ•ʙᴇᴀᴜᴛʏ•ғᴀsʜɪᴏɴ•ʟɪғᴇsᴛʏʟᴇ 📍| ᴄʜɪᴏꜱ, ɢʀᴇᴇᴄᴇ ♥️| 🐶🎵✈️🌊🍷🍣 🎓| ᴍsᴄ ᴇᴅᴜᴄᴀᴛɪᴏɴᴀʟ ᴘsʏᴄʜᴏʟᴏɢʏ
     location: "Greece"
-    followers: 7994
-    engagement: 830
-    commentsToLikes: 0.511467
-    id: ckf5nf0lkxzfx0j2313dqx41d
+    followers: 28115
+    engagement: 422
+    commentsToLikes: 0.636102
+    id: ckap2l6eyzbg90i782ti0459z
     verified: false
-    hashtags: "#nails, #giveaway, #fashion, #jewellery"
-  - username: "pigi_devetzi"
+    hashtags: "#gift, #dailypost, #giveaway, #jewellery"
+  - username: "ira_pgr_"
     fullname: >-
-      Πηγή Δεβετζή Official
+      •ɪ ʀ ᴀ ᴘ ɢ ʀ•
     bio: >-
-      Olympic champion 🏆medalist in Triple Jump Athens 2004 Beijing 2008 P.B 15.32 🥇🥈🥉sports psychology,professional athlete,physiotherapist KOLITES 🤪🤪🤪
+      ° 90𝑠 𝘤𝘪𝘯𝘯𝘢𝘮𝘰𝘯 𝘨𝘪𝘳𝘭 𝑓𝑟𝑜𝑚 𝐺𝑟𝑒𝑒𝑐𝑒 ° 𝘭𝘢𝘳𝘮𝘦𝘴 𝘦𝘵 𝘱𝘰𝘪𝘯𝘨𝘴 𝘴𝘶𝘳 𝘭𝘦𝘴 𝘮𝘶𝘳𝘴🥀 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 sign language & l𝑒𝑔𝑎𝑙 @univ_sorbonneparisnord
     location: "Greece"
-    followers: 43642
-    engagement: 331
-    commentsToLikes: 0.209217
-    id: ck5znqqvhozbb0i146jkg7fe7
-    verified: true
-    hashtags: "#greekbrand, #happy, #amazing, #fantastic"
-  - username: "viktwria_"
-    fullname: >-
-      Viktoria K. Vasilopoulou
-    bio: >-
-      One light beer and one dark beer with raspberry syrup 🦋 Content creator ✨ PR/Collab Friendly 📍Athens, Greece / Wroclaw 🇵🇱
-    location: "Greece"
-    followers: 15737
-    engagement: 921
-    commentsToLikes: 0.325312
-    id: ck5znqkswoz3a0i14zs7yctjo
+    followers: 48916
+    engagement: 332
+    commentsToLikes: 0.048476
+    id: ck5hrvfdcvjoj0i110fxd9bep
     verified: false
-    hashtags: "#cleanbeauty, #greekblogger, #fashionblog, #summeroutfit"
+    hashtags: "#instagood, #fashionstyle, #europe, #summer"
+  - username: "elena_hristopoulou"
+    fullname: >-
+      Elena Christopoulou
+    bio: >-
+      Artist Manager Founder @eclecticsoiree_
+    location: "Greece"
+    followers: 327369
+    engagement: 381
+    commentsToLikes: 0.016026
+    id: ck5c6cvpo56el0i11rl3xga1j
+    verified: false
+    hashtags: "#love, #life, #style, #eclecticsoiree"
+  - username: "nikolas_grk"
+    fullname: >-
+      Nikolas K.
+    bio: >-
+      2️⃣5️⃣ years old Medical student 👨🏽‍🔬 Greek 🇬🇷
+    location: "Greece"
+    followers: 20225
+    engagement: 815
+    commentsToLikes: 0.028334
+    id: ck5hd0fj1kut40i11xfcnpjdu
+    verified: false
+    hashtags: "#2020, #barefeet, #beardedhomo, #gay"
+  - username: "lefteris_tzi"
+    fullname: >-
+      Ｌｅｆｔｅｒｉｓ Ｔｚｉｄｒｉｓ
+    bio: >-
+      My personal profile @lefteris_tzid
+    location: "Greece"
+    followers: 11188
+    engagement: 1390
+    commentsToLikes: 0.014031
+    id: ck6udw2isnftf0j71bnwep4ta
+    verified: false
+    hashtags: "#skg, #minimal, #bnwsouls, #transfer"
   - username: "danae_panayiotou"
     fullname: >-
       Danae
     bio: >-
       🇿🇼+🇨🇾 LLB Graduate 👩🏽‍🎓 Owner of @for_panda_dreams 🐼 YouTube Videos: ⬇️
     location: "Greece"
-    followers: 12925
-    engagement: 1649
-    commentsToLikes: 0.021555
+    followers: 13796
+    engagement: 1048
+    commentsToLikes: 0.018693
     id: ck0txbggfilvi0i19zs1x0wy2
     verified: false
-    hashtags: "#vacation, #instamood, #parklane, #naxos"
+    hashtags: "#sunshine, #notino, #christmas, #cyprus"
 ---

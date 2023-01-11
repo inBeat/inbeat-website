@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bali in 2023
+title: Top 10 Beauty Instagram Influencers In Bali In 2023
 description: >-
-  Find top beauty Instagram influencers in Bali in 2023. Most popular hashtags: #bali #model #beauty #baliindonesia.
+  Find top beauty Instagram influencers in Bali in 2023. Most popular hashtags: #bali #beauty #balilife.
 platform: Instagram
-hits: 146
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 146 Instagram influencers like this in Bali, Indonesia for you to connect with.
+hits: 110
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 110 Instagram influencers like this in Bali, Indonesia for you to contact.
 profiles:
   - username: "nindypricilia"
     fullname: >-
-      drg. Ayu Nindi Pricilia
+      drg. Ayu Nindy Pricilia
     bio: >-
-      God is good🕉 VRG♍️ #dentistpreneur •Brand Ambassador @celebrityfitnesslevel21 •Dentist @geminidentalcare •Owner @belle_beautybali @flouze.id
+      God is good🕉 📲Endorse/CP (LINE: nindypricilia) Owner Of @belle_beautybali @grandpacanggu @milikitoday @drgnindypricilia Part of @geminidentalcare
     location: "Indonesia"
-    followers: 80565
-    engagement: 126
-    commentsToLikes: 0.016620
+    followers: 122203
+    engagement: 288
+    commentsToLikes: 0.008867
     id: ckf5n443hwnvy0j23xdzcol5h
     verified: false
-    hashtags: "#kintamani, #explorekintamani, #bali, #gymgoals"
-  - username: "ann.grigorievaa"
+    hashtags: "#kebayabali, #repost, #bornpinkworldtour, #bali"
+  - username: "sarikayana_wedding"
     fullname: >-
-      Anka
+      Sarikayana Wedding Organizer
     bio: >-
-      ॐ and no more
+      @sarikayanaweddingdekorcatering @sarikayana_beautybali https://heylink.me/Sarikayanawedding Info Price List: ADMIN DESI : 081338622030
     location: "Indonesia"
-    followers: 5313
-    engagement: 804
-    commentsToLikes: 0.029937
-    id: ck5heoex7tz2s0i112lwxk2ul
+    followers: 56535
+    engagement: 71
+    commentsToLikes: 0.008163
+    id: ck5bzrjb8rplh0i11o7dbrbvv
     verified: false
-    hashtags: "#kievmodel, #vsco, #delhigirls, #kievgrams"
-  - username: "ratihdhamma"
+    hashtags: "#salondibali, #muabali, #makeupbali, #fiting"
+  - username: "ikasanz"
     fullname: >-
-      A. A. A. RATIH DHAMMA • BALI
+      Ikasanz Yoe ♠️
     bio: >-
-      I LIVE THE LIFE I LOVE 📍Bali, Indonesia Mom of 3 • @ara.ata.aka Check it out! @reviewdibali @andarivillabali @aravillabali
+      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
     location: "Indonesia"
-    followers: 18250
-    engagement: 308
-    commentsToLikes: 0.061069
-    id: ck5hpvvvcs2120i11swkxa4as
+    followers: 53312
+    engagement: 224
+    commentsToLikes: 0.142564
+    id: ck9wgk1f5trp10j78o2ldtyun
     verified: false
-    hashtags: "#bayilucu, #anakhitskekinian, #momof3, #justbaby"
-  - username: "aliciaanhali"
+    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
+  - username: "gekanikesnawa_"
     fullname: >-
-      ALICIA ANHALI
+      m s.   G E K✨
     bio: >-
-      ✨Amo viajar, reír y diseñar joyas. 𖦹Mexicana-Taxqueña Diseñadora @joyeriacasaroja & @ojodeguey👁 𝒷ℯ 𝓅𝓇ℴ𝓊𝒹 ℴ𝒻 𝓌𝒽ℴ 𝓎ℴ𝓊 𝒶𝓇ℯ ∞︎︎
+      “a dreamer with a million symphony in her mind”
     location: "Indonesia"
-    followers: 49091
-    engagement: 664
-    commentsToLikes: 0.024852
-    id: ckap6zr90i1qz0i78kos1a8aw
+    followers: 3254
+    engagement: 1462
+    commentsToLikes: 0.035450
+    id: ck13cx75w2ltp0i19otxp81hs
     verified: false
-    hashtags: "#beach, #love, #happiness, #couplegoals"
-  - username: "viktoria_narbut"
+    hashtags: "#bali, #baliisland, #kintamani, #balitravel"
+  - username: "alffy_rev"
     fullname: >-
-      Viktoria Narbut | Bali🏝 Model
+      Awwalur Rizqi Al-firori
     bio: >-
-      made in Ukraine 🗺📍#kyiv Tropical & wild girl 🌴🌊
+      Music & Visual Story Teller Head of @rev.production | @rev_apparel.id | @rumahsenjapagi Business Contact - 0821-4361-9691 Beauty Of Bali 👇🏻
     location: "Indonesia"
-    followers: 33227
-    engagement: 867
-    commentsToLikes: 0.020611
-    id: ck0w4gfx7yg1v0i192kqjrhn8
-    verified: false
-    hashtags: "#ukrainegirl, #baligirls, #kievmodel, #modelkiev"
-  - username: "amospabali"
+    followers: 756413
+    engagement: 428
+    commentsToLikes: 0.007790
+    id: ck0w6t66ja6n60i19fj3fuj18
+    verified: true
+    hashtags: "#iceperience, #dirumahaja, #novation, #alffyrev"
+  - username: "aliissyandewi"
     fullname: >-
-      Amo Spa Bali
+      𝒩𝒾 𝓂𝒶𝒹𝑒 𝒶𝓁𝒾𝓈𝓈𝓎𝒶𝓃 𝒹𝑒𝓌𝒾 ✨🌈🌹
     bio: >-
-      Life. Style. Spa. #AMOSPA •Jl Batu Bolong 69 Canggu 📞 or WhatsApp +628113999806 9am - 9pm Resto.SPA.Sauna. 📞Call +62 361 9071146 Bookings
+      ♉||18✨🦋 🚩BALI @satucwofixs
     location: "Indonesia"
-    followers: 25599
-    engagement: 192
-    commentsToLikes: 0.024037
-    id: ck5zq5ri7tzn10i1413tqhwy8
+    followers: 33834
+    engagement: 420
+    commentsToLikes: 0.016667
+    id: ckaozs3ivn5qr0i78k6h2hbt1
     verified: false
-    hashtags: "#balifood, #balispa, #quarantine, #amospa"
-  - username: "senemonduty"
+    hashtags: "#nailart, #moveonchallenge, #eyelashextensions, #balinews"
+  - username: "kd233_"
     fullname: >-
-      Senem
+      🦋
     bio: >-
-      Pilot's Wife 👨‍✈️💍👸🏼 Mom of two✌🏻 Model 👠 Geneticist🔬🧬 Traveler🌐 Aviation Lover✈ Turkish🇹🇷
+      @shirta.skin @shirta.beautybar @beauty_bykdijah @shirtaofficial_bali Order / Daftar Reseller : ‪+62 853‑4155‑6029‬ WA
     location: "Indonesia"
-    followers: 61098
-    engagement: 613
-    commentsToLikes: 0.028303
-    id: ckf5r07o5az9d0j23rkqvf09a
+    followers: 22440
+    engagement: 811
+    commentsToLikes: 0.005300
+    id: ck9wgmjs1u0iy0j78j3xbe1yf
     verified: false
-    hashtags: "#lovelypic, #gorgeous, #holidayseason, #staybeautiful"
-  - username: "alenika_pro"
+    hashtags: "#22birthday"
+  - username: "cindythefannie"
     fullname: >-
-      🔥HEALTHY-COACH 🔥ДИЕТОЛОГ
+      Cindy Thyssen
     bio: >-
-      Про ЗДОРОВЬЕ и ФИГУРУ ПРО 3 ДЕТЕЙ Про ПЕРЕЕЗД НА БАЛИ👙 🔽Анкета🔽
+      Wife, Content Creator-Beauty & Lifestyle 📍Bali @thethyssen Business 📞Jeff +62 817‑9844‑055‬ endorsement line@cindythefannie cindythefannie2@gmail.com
     location: "Indonesia"
-    followers: 48310
-    engagement: 44
-    commentsToLikes: 0.068847
-    id: ck5hokoj1pq850i11manr37sm
-    verified: false
-    hashtags: "#modelbali, #bali, #balilife, #balifood"
-  - username: "viennaelfira"
+    followers: 116639
+    engagement: 307
+    commentsToLikes: 0.022653
+    id: ck13a88d5p40o0i19t6lmj43d
+    verified: true
+    hashtags: "#seodalmi, #12weekspregnant, #startup, #baliindonesia"
+  - username: "aryasanjaya20"
     fullname: >-
-      Vienna Elfira Putri
+      arya sanjaya
     bio: >-
-      Fashion/Health/Lifestyle/Beauty 📍Jakarta / Bali 5 - 16 Nov ———— Founder of @levien.studio ✨ For inquiries: DM 💌 @belongs_2you (Preloved)
+      Line : arya20 📷 🎥📱👓 #photographer #photographerbali Owner AA Photography - @aa_baliphotography @lidahpedasbali_
     location: "Indonesia"
-    followers: 164463
-    engagement: 112
-    commentsToLikes: 0.012283
-    id: ck6ud3sysiz9z0j71f66tah32
+    followers: 10469
+    engagement: 675
+    commentsToLikes: 0.003106
+    id: ck6tqu9xnucv40j71vijzy2eu
     verified: false
-    hashtags: "#happysaturdayeveryone, #betterlouderclearerqcyt7"
-  - username: "vanlypanda"
+    hashtags: "#campinaheart, #waktunyagombal, #eskrimheart, #campina"
+  - username: "methadellaa"
     fullname: >-
-      Hivanly S. Leha S.Th.,M.Pd
+      Metha Della
     bio: >-
-      👑 Puteri Indonesia Papua Barat 2020 👑 Top 10 Puteri Indonesia 2020 Owner of @vanlypanda.beauty 📍 Currently Bali 🔔Philiphians 4:13 Youtube Channel ⬇️⬇️
+      REAL ACCOUNT • Ambassador @bullsmafioso.bali @051juice_corner • Kids Piano Teacher • Bachelor of Music UPI • Endorse/Paid Promote: DM Bali, Indonesia
     location: "Indonesia"
-    followers: 8875
-    engagement: 457
-    commentsToLikes: 0.021224
-    id: ckap81qwfmg4w0i78pqde9b4f
+    followers: 114312
+    engagement: 367
+    commentsToLikes: 0.018071
+    id: ckap7ymnfm5he0i78hsu25a7h
     verified: false
-    hashtags: "#jalanjalanvanly, #journalvanly, #catatanvanly, #baliindonesia"
+    hashtags: "#supportlocalbusiness, #spreadlove"
 ---

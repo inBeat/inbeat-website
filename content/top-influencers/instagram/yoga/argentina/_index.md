@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Argentina in 2023
+title: Top 10 Yoga Instagram Influencers In Argentina In 2023
 description: >-
-  Find top yoga Instagram influencers in Argentina in 2023. Most popular hashtags: #yoga #familia #naturaleza.
+  Find top yoga Instagram influencers in Argentina in 2023. Most popular hashtags: #yoga #poesia #amor.
 platform: Instagram
-hits: 75
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform has 75 Instagram influencers like this in Argentina for you to work with.
+hits: 73
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 73 Instagram influencers like this in Argentina for you to work with.
 profiles:
-  - username: "campatafio"
+  - username: "rosannau"
     fullname: >-
-      Cam Patafio
+      Rosanna 🍇
     bio: >-
-      Mamá de Eloísa 🌿 #veganfamily Odontóloga Esp. en Ortodoncia UBA @cerettiodontologia Instructora de Yoga Embajadora @luleamindful Mis clases
+      A veces tomando la foto, a veces en la foto. Hace un tiempo comencé un viaje, ese viaje lo comparto en @rosanna.yoga 📿 👰🏻 to @anaisalopez
     location: "Argentina"
-    followers: 8023
-    engagement: 892
-    commentsToLikes: 0.227433
-    id: ck5zqimoyuo080i14va12f2vn
+    followers: 8836
+    engagement: 1119
+    commentsToLikes: 0.029504
+    id: ckap8jthaomsy0i78ft67idsf
     verified: false
-    hashtags: "#yogaeverydamnday, #yogamama, #veganfamily, #luleamindful"
-  - username: "flaviasiutti"
-    fullname: >-
-      flavia siutti
-    bio: >-
-      hatha y vinyasa yoga danza y poesía⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀⠀ practicá conmigo ↓
-    location: "Argentina"
-    followers: 5780
-    engagement: 844
-    commentsToLikes: 0.092288
-    id: ck6u9o2jjyn3t0j71rqpfgmjy
-    verified: false
-    hashtags: "#yoga, #yogaesyoga, #minipractica, #ochentena"
+    hashtags: "#energia, #30, #mibenitobonito, #buonnatale"
   - username: "claudiaruizcivico"
     fullname: >-
       Claudia Ruiz
     bio: >-
       Lcda. en Filología Hispánica | Profesora de Lengua | Vivo en el #campo y cuido un #huerto | Practicante de #yoga | 😊💚🙏
     location: "Argentina"
-    followers: 30600
-    engagement: 1177
-    commentsToLikes: 0.009779
+    followers: 31811
+    engagement: 1252
+    commentsToLikes: 0.009376
     id: ck8szms0hp10s0j78z323d53h
     verified: false
-    hashtags: "#yogaart, #witch, #love, #asana"
+    hashtags: "#agriculturabiologica, #huertoecologico, #practiceandalliscoming, #plantas"
   - username: "kekorosen"
     fullname: >-
       Keko Rosenblum
     bio: >-
-      👉 @tuvegankit 👉🏻 Profesor de Yoga🕉️ 👉🏽 Vegan Fitness 🌱💪 👉🏿 Activista por los animales🐔🐷🐄 👉🏿 Analista de sistemas/Lic en Marketing / MBA 🤓
+      👉 @ainaraheladosveganos 🍦 👉 @pizzavegana 🍕 👉 @campamentovegano ⛺️ 👉🏻 Profe Yoga🕉️ 👉🏽 Vegan Fitness💪 👉🏿 Activista por los 🐔🐷🐄 👉🏿 Lic mkt / MBA 🤓
     location: "Argentina"
-    followers: 10634
-    engagement: 847
-    commentsToLikes: 0.037448
+    followers: 10545
+    engagement: 845
+    commentsToLikes: 0.038711
     id: ck5pwnlrwnop00i11ovj5ip8o
     verified: false
-    hashtags: "#elmundodespierta, #govegan, #haceteveganx, #wakeupworld"
-  - username: "mayasportsnfamily"
-    fullname: >-
-      Maya Yoga Coach
-    bio: >-
-      Profesora de Yoga certificada y hago postres caseros en @fabricadeilusiones.pe En mis dos pasiones encontré el balance de la vida 🤣
-    location: "Argentina"
-    followers: 7855
-    engagement: 267
-    commentsToLikes: 0.081686
-    id: ck6tsak833obe0j71m0y7n545
-    verified: false
-    hashtags: "#yoga, #downwarddog, #yogateacher, #yogaeveryday"
-  - username: "ticky_yoga"
-    fullname: >-
-      T I C K Y Y O G A 💫
-    bio: >-
-      Founder @tickyyoga_estudio @despertarenindia Prof Internacional Vinyasa YOGA+600h Especialización en ajustes y en 🤰🏻 RETIRO MANIFESTACIÓN (4-6 dic)👇
-    location: "Argentina"
-    followers: 17273
-    engagement: 140
-    commentsToLikes: 0.063671
-    id: ckaoreyaomwo00i787exhk8xh
-    verified: false
-    hashtags: "#podermanifestador, #elpoderdelaintencion, #yasosmerecedora"
-  - username: "patrymontero"
-    fullname: >-
-      Patry Montero
-    bio: >-
-      Mamá, AcTriz Profe YOGA 🕉 🙏🏻 👩🏼‍🍳 @PatryAlexChefs 👨🏻‍🍳 👉🏻 Contacto @lula_duhalde 🧘🏼‍♀️ Reto Yoga Paso a Paso 4 Semanas en mi canal 👇🏻
-    location: "Argentina"
-    followers: 672118
-    engagement: 208
-    commentsToLikes: 0.010825
-    id: ck0vy2bb51w3f0i19v2ptn17w
-    verified: true
-    hashtags: "#namast, #patrymonteroyoga, #namaste, #distanciasocial"
-  - username: "chinacarracedo"
-    fullname: >-
-      INÉS.MARÍA
-    bio: >-
-      Director ⌇ Photographer ◦ Envisioner Writer Yoga Teacher 🕊 #writtenbychina ◯ hello@chinacarracedo.com
-    location: "Argentina"
-    followers: 16669
-    engagement: 635
-    commentsToLikes: 0.057227
-    id: ck6015yx6ewec0i14r0gj0klr
-    verified: false
-    hashtags: "#moondance, #lifeisaweave, #greenpacha, #writtenbychina"
+    hashtags: "#vigilia, #parrilla, #basadoenplantas, #vegana"
   - username: "cata_ferrand"
     fullname: >-
       Catalina F.
     bio: >-
       Actriz. Comunicadora. Instructora en fitness y Profesora de Yoga. A metros de ser Licenciada en RRII. Mamá de Cayetana y Simona. Leonina. In ♡
     location: "Argentina"
-    followers: 59019
-    engagement: 145
-    commentsToLikes: 0.045652
+    followers: 64658
+    engagement: 157
+    commentsToLikes: 0.038118
     id: ck602sbffivry0i14erona841
     verified: false
-    hashtags: "#edici, #paco, #masaje, #lana"
-  - username: "nataliamelow"
+    hashtags: "#s21, #live, #extra, #wiz"
+  - username: "flaviasiutti"
     fullname: >-
-      ENERGIA EN MOVIMIENTO 🕸️
+      ғʟᴀᴠɪᴀ sɪᴜᴛᴛɪ
     bio: >-
-      🌱|Guia de bienestar y salud 📝|ESCRIBAMOS, mi voz nos #lee 🤸🏽‍♀️|YOGA instructor in progress 🌈 🌎|ARTEsana from the earth 🗝|BLOG y PODCAST (D.H.I)👇🏽
+      clases de hatha y vinyasa yoga | meditación ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ intensivo febrero en @elclub_dedanza del 22 al 26, 11 hs. ↑ link en su bio para anotarte
     location: "Argentina"
-    followers: 36828
-    engagement: 332
-    commentsToLikes: 0.183797
-    id: ck6u1alehklis0j719ip478v1
+    followers: 5979
+    engagement: 771
+    commentsToLikes: 0.102986
+    id: ck6u9o2jjyn3t0j71rqpfgmjy
     verified: false
-    hashtags: "#desarrollohumano, #you, #me, #autenticidad"
+    hashtags: "#yogaesyoga, #practica, #yoga, #minipractica"
+  - username: "patrymontero"
+    fullname: >-
+      Patry Montero
+    bio: >-
+      Mamá, AcTriz Profe YOGA 🕉 🙏🏻 👩🏼‍🍳 @PatryAlexChefs 👨🏻‍🍳 👉🏻 Contacto @lula_duhalde 🧘🏼‍♀️ Reto Yoga Paso a Paso 4 Semanas en mi canal 👇🏻
+    location: "Argentina"
+    followers: 685877
+    engagement: 177
+    commentsToLikes: 0.009783
+    id: ck0vy2bb51w3f0i19v2ptn17w
+    verified: true
+    hashtags: "#yoga, #retopatrysentir, #patrymonteroyoga, #skyr"
+  - username: "antonella_orsiniv"
+    fullname: >-
+      Antonella🌙
+    bio: >-
+      YOGA GRATIS Todos los Viernes 8.30 am Ig live✨ Mi libro "Yoga para Luces y Sombras" 🙏
+    location: "Argentina"
+    followers: 200187
+    engagement: 138
+    commentsToLikes: 0.031893
+    id: ck6uayies6few0j71gpg6q9eb
+    verified: false
+    hashtags: "#justiciaparalospresxspoliticxs, #justiciaparaelpueblomapuche, #justiciaparaantonia, #justiciaparanorma"
+  - username: "fabiandomenech"
+    fullname: >-
+      Fabian Domenech
+    bio: >-
+      Yoga Teacher-CrossFit L1-Fashion-Retreats @nike
+    location: "Argentina"
+    followers: 51007
+    engagement: 341
+    commentsToLikes: 0.020771
+    id: ck14irwwhgwtm0i19eq27d8fe
+    verified: false
+    hashtags: "#unapologetic, #playinside, #playfortheworld, #thelivingroomcap"
+  - username: "mellamoagripina"
+    fullname: >-
+      ➳      a g r i     🌵🌍🐘
+    bio: >-
+      📺 Viajo en @viajerasconb 📖 Escribo cosas y tengo dos libros. 🌱 @yogaiverso Mi vocación es acariciar perros y comer sin engordar.
+    location: "Argentina"
+    followers: 58549
+    engagement: 260
+    commentsToLikes: 0.017293
+    id: ck5zxgi8s7z1c0i14eufq5wc9
+    verified: false
+    hashtags: "#coronavirus, #frasedeldia, #volveremosaabrazarnos, #poesia"
+  - username: "as2_3d"
+    fullname: >-
+      Ana de Santos Díaz
+    bio: >-
+      Interior designer @anidsd For collaborations 📩 Set design, art direction, 3D art, graphic design Based in Madrid, Spain
+    location: "Argentina"
+    followers: 10806
+    engagement: 757
+    commentsToLikes: 0.031734
+    id: ck5hni7xhntqh0i11g5jruciz
+    verified: false
+    hashtags: "#colorful, #disen, #geometricart, #interiorlover"
 ---

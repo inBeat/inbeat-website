@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Austria in 2023
+title: Top 10 Lifestyle Instagram Influencers In Austria In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #travel #blogger.
+  Find top lifestyle Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #ootd #fashion #makeup.
 platform: Instagram
-hits: 186
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 186 Instagram influencers like this in Austria for you to pitch.
+hits: 70
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 70 Instagram influencers like this in Austria for you to work with.
 profiles:
-  - username: "christina_sinkic"
+  - username: "sweetlifefitlife"
     fullname: >-
-      Kristina Sinkic Radulovic
+      SweetlifeFitlife
     bio: >-
-      TRAVEL | PHOTO SPOTS | LIFESTYLE 📍Austria This is my only profile & all pics here are mine 😊
+      👸 AGNIESZKA 👸 👱‍♀️ Polish Girl 👱‍♀️ 💪 Fit Lifestyle 💪 👟 Classy Look 👟 💃 Sassy Mood 💃 🇦🇹 Vienna 🇦🇹 🤙YOLO 🤙 📥 sweetlifefitlife@op.pl 📥
     location: "Austria"
-    followers: 10996
-    engagement: 958
-    commentsToLikes: 0.276718
-    id: ck0u69p7u1ee20i19ufqb6c5s
+    followers: 34608
+    engagement: 813
+    commentsToLikes: 0.113885
+    id: ckaovirdf4q6y0i7802di5s71
     verified: false
-    hashtags: "#gosau, #travelaustria, #austriaphotography, #vienna"
-  - username: "philippgelter"
-    fullname: >-
-      Philipp Gelter
-    bio: >-
-      | •Lifestyle •Fitness •Fashion | Austrian 🇦🇹 📍Vienna ELITE| @elitemiami 🇺🇸 📩 phil@philippgelter.com
-    location: "Austria"
-    followers: 131882
-    engagement: 577
-    commentsToLikes: 0.025797
-    id: ck0ucvwonhvdr0i19y27a26ks
-    verified: false
-    hashtags: "#vienna, #vibe, #mind, #autumn"
-  - username: "gerid_rux"
-    fullname: >-
-      GERID RUX🦋
-    bio: >-
-      FITNESS | LIFESTYLE | TRAVEL 🇦🇹 From Austria ✨: Founder of @giconic.de ✉️: hellogerid@gmail.com ❤️ @fabiankitzweger
-    location: "Austria"
-    followers: 330263
-    engagement: 369
-    commentsToLikes: 0.161209
-    id: ck55jpz9hxja90i11rkatzq9l
-    verified: true
-    hashtags: "#gymwear, #halloweenlook, #favoritecombo, #lock"
-  - username: "_there_s_a"
-    fullname: >-
-      🌸 Theresa 🌸
-    bio: >-
-      🏋🏼‍♀️ CrossFit-Athlete 🌱 Health 🌸 Lifestyle 📍 Innsbruck, Austria 📩 kontakt.theresaliner@gmail.com
-    location: "Austria"
-    followers: 40645
-    engagement: 802
-    commentsToLikes: 0.030213
-    id: ckap825ommhx50i78oz7gdsin
-    verified: false
-    hashtags: "#feeling, #holidays, #happy, #healthiswealth"
-  - username: "fabiankitzweger"
-    fullname: >-
-      FABIAN KITZWEGER
-    bio: >-
-      ✖️ Fitness | Travel | Lifestyle 📍 Vienna 📈 Social Media Marketing 👤 Chemical Engineer 🥇 Mister Austria 🤍 @gerid_rux 💪🏼 @foodspring 15% Code: FabianFSG
-    location: "Austria"
-    followers: 232486
-    engagement: 281
-    commentsToLikes: 0.035384
-    id: ck0ttcmlx259p0i19vzjjjii6
-    verified: true
-    hashtags: "#staysafe, #ad, #reels, #travel"
+    hashtags: "#dziewczynazpolski, #hello, #haveaniceday, #itsme"
   - username: "sheri_show"
     fullname: >-
-      🤍SHERI🤍
+      Shqlawa
     bio: >-
-      Beauty | Fashion | Lifestyle | Travel —————————————————— 📍 V I E N N A 📩 sheri.show.01@gmail.com
+      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
     location: "Austria"
-    followers: 61341
-    engagement: 259
-    commentsToLikes: 0.069202
+    followers: 61326
+    engagement: 244
+    commentsToLikes: 0.055980
     id: ck8ta6eejqlzf0j78zskkwc4n
     verified: false
-    hashtags: "#girls, #vienna, #makeupartist, #makeup"
-  - username: "ich_verstehe_es_blog"
-    fullname: >-
-      ELISABETH KLOPF
-    bio: >-
-      Fashion / Lifestyle / Food / Travel / Mum / Traditions Contact cooperation: ek@ich-verstehe-es.com
-    location: "Austria"
-    followers: 6980
-    engagement: 675
-    commentsToLikes: 0.140447
-    id: ck0w2k0g3orc90i19qiuq8p37
-    verified: false
-    hashtags: "#lookoftheday, #ootd, #photooftheday, #kosmetik"
-  - username: "love_fashionandlife"
-    fullname: >-
-      Lifestyle||Travel⭐️Inspo
-    bio: >-
-      Austrian Blogger 🇦🇹 Fashion/Lifestyle/Travel #inspo 💍-M #bumbumnation
-    location: "Austria"
-    followers: 35880
-    engagement: 208
-    commentsToLikes: 0.157768
-    id: ck55on5yj8pbw0i1150w6vh89
-    verified: false
-    hashtags: "#grazerblogger, #herbstmode, #autumn2020, #msmode"
+    hashtags: "#vienna, #fashion, #styleblogger, #shein"
   - username: "victoriahubacek"
     fullname: >-
       Vɪᴄᴛᴏʀɪᴀ Hᴜʙᴀᴄᴇᴋ
     bio: >-
-      Austrian, based in Vienna 🇦🇹 entrepreneur, model healthy lifestyle 🌱
+      Austrian, based in Vienna 🇦🇹 model, actress, entrepreneur healthy lifestyle 🌱
     location: "Austria"
-    followers: 39218
-    engagement: 659
-    commentsToLikes: 0.023530
+    followers: 39719
+    engagement: 601
+    commentsToLikes: 0.036220
     id: ck15ptwvszlr70i19gq8mvm1u
     verified: false
     hashtags: ""
-  - username: "mitsch__"
+  - username: "hank_ge"
     fullname: >-
-      MITSCH
+      HANK GE
     bio: >-
-      FITNESS | LIFESTYLE | TRAVEL | HEALTHY RECIPES 📍 Velden am Wörthersee Team @barebells.at | @koerperkult.cc 👫🏼 C ❤️♾
+      📍Vienna/ Berlin Food, Fashion, lifestyle 🌱veggie My boho brand @wildsky_shop Restaurants @bali_brunch& @bali_babecreamery
     location: "Austria"
-    followers: 9587
-    engagement: 538
-    commentsToLikes: 0.126288
-    id: ckf5ra4b0byf90j234tyky7wm
+    followers: 372061
+    engagement: 309
+    commentsToLikes: 0.005107
+    id: ck0tym4oxn80x0i194wpl73kr
     verified: false
-    hashtags: "#barebells, #barebellsat, #teambarebells, #giveaway"
+    hashtags: "#kappaperfumes, #foamieplasticfreechallenge, #foamie, #foamiemen"
+  - username: "davidxperic"
+    fullname: >-
+      𝐃 𝐀 𝐕 𝐈 𝐃  𝐏 𝐄 𝐑 𝐈 𝐂
+    bio: >-
+      • Vienna, Austria 🌍 • Fashion & Lifestyle ✉️ pericdadi@gmail.com
+    location: "Austria"
+    followers: 74995
+    engagement: 246
+    commentsToLikes: 0.053605
+    id: ck5bw3cpgkx320i118l83lvi1
+    verified: false
+    hashtags: "#millenniumcity, #millenniumcitywien, #millenniuminsider, #millenniumshopping"
+  - username: "verena_katrien"
+    fullname: >-
+      INSPO | LIFESTYLE | TRAVEL
+    bio: >-
+      • Vienna | Austria • ❥ daily Stories & Posts ✶ founder of @peacox.marketing ❖ lifestyle | empowerment | body & mind ✈ travel lover ↓ Youtube
+    location: "Austria"
+    followers: 151501
+    engagement: 298
+    commentsToLikes: 0.034709
+    id: ck5c8wpnyaclj0i11be6r2ole
+    verified: false
+    hashtags: "#blondegirl, #joalimaldives, #greeneyes, #homeshooting"
+  - username: "annaburgstaller"
+    fullname: >-
+      Anna Maria Burgstaller
+    bio: >-
+      Active Lifestyle, based in 🇦🇹 Sports, Nature and Mountainlover » Straight A⁺ Student
+    location: "Austria"
+    followers: 10878
+    engagement: 1225
+    commentsToLikes: 0.026524
+    id: ckaotbsitv7v20i78ecftme0u
+    verified: false
+    hashtags: "#thoughts, #sportsbra, #gymwear, #omega1"
+  - username: "mariahoeflriesch"
+    fullname: >-
+      Maria Höfl-Riesch
+    bio: >-
+      - former alpine ski racer⛷ - 3 times Olympic Champion🥇 - expert for skiing, fitness, motivation💪🏼 - food and fashion lover🥗👗 - travel and lifestyle🚗💃🏼
+    location: "Austria"
+    followers: 52119
+    engagement: 301
+    commentsToLikes: 0.021132
+    id: ck5hl1hafjegl0i11yw7zuld4
+    verified: true
+    hashtags: "#instafashion, #nomination, #staypositive, #fashiongirl"
+  - username: "tamara_tvl"
+    fullname: >-
+      Tamara Tvaliashvili
+    bio: >-
+      📍Austria | BGLD Fashion | Fitness | Lifestyle @naturtheke.official - „Tamara10“ 📧office@mgmt-ajguapo.com
+    location: "Austria"
+    followers: 165008
+    engagement: 679
+    commentsToLikes: 0.020231
+    id: ck8t4we3883cq0j78ghdl5ikv
+    verified: false
+    hashtags: "#photooftheday, #instagood, #bhfyp, #makeup"
+  - username: "meanwhileinawesometown"
+    fullname: >-
+      manuel
+    bio: >-
+      People who take themselves too seriously, should not be taken too seriously! 🤓 🌍 Vienna | Europe 🇪🇺 📸 menswear, lifestyle, travel, food & politics
+    location: "Austria"
+    followers: 32856
+    engagement: 163
+    commentsToLikes: 0.045530
+    id: ck0ua7ukbbpqe0i19200400ij
+    verified: false
+    hashtags: "#outfitideasforyou, #pauseshots, #nclgallery, #classyvision"
 ---

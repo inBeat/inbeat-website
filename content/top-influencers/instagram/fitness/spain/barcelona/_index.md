@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Barcelona in 2023
+title: Top 10 Fitness Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top fitness Instagram influencers in Barcelona in 2023. Most popular hashtags: #fitness #barcelona #instagood #spain.
+  Find top fitness Instagram influencers in Barcelona in 2023. Most popular hashtags: #fitness #barcelona #summer #fitnessmotivation.
 platform: Instagram
-hits: 146
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 146 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 88
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 88 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
-  - username: "sharon__thequeen"
-    fullname: >-
-      Heartless🖤
-    bio: >-
-      9teen♎️ Collabs📥 Mk & pub👩🏽‍💻📚 2nd: @sharongarcia__ 🇪🇸🇩🇪🇬🇭🏳️‍🌈
-    location: "Spain"
-    followers: 10043
-    engagement: 1124
-    commentsToLikes: 0.034526
-    id: ck8t2y7mo15lu0j78vp56caei
-    verified: false
-    hashtags: "#fancy, #fitness, #barcelona, #naturalmakeup"
   - username: "polcejas"
     fullname: >-
       POL CEJAS ⚡️
     bio: >-
-      • 📈 Planes de Entreno @powerbypolcejas • 👁 Máster Sport Science & Health • /// @adidas Coach
+      • ☯️ Movimiento & Mentalidad • 👁 Master Sport Science & Health • 🏋🏽‍♂️ @powerbypolcejas • /// Adidas Coach
     location: "Spain"
-    followers: 10076
-    engagement: 538
-    commentsToLikes: 0.042035
+    followers: 10358
+    engagement: 400
+    commentsToLikes: 0.049813
     id: ck8t5xliqbl580j786ez7wup7
     verified: false
-    hashtags: "#allio, #creadoconadidas, #badalona, #personaltrainer"
-  - username: "nearperez"
+    hashtags: "#adidasrunners, #fitnessbarcelona, #barcelonafitness, #squat"
+  - username: "maia.rose.roberts"
     fullname: >-
-      Nea Arranz
+      maia🌹rose
     bio: >-
-      🏃🏾‍♀️@clubcorredores ᴄᴏᴀᴄʜ📍ᴍᴀᴅʀɪᴅ 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @sockla_ 15% 𝗡𝗲𝗮𝗿𝗽𝗲𝗿𝗲𝘇 🎧 @originbuds_es 15% 𝙉𝙀𝘼𝙍15 @pulwearshop 10% 𝙉𝙀𝘼10 🏊‍♀️🚲🏃🏾‍♀️ @vitaminwellesp
+      📍 ᴀɴɴᴀʀᴇʟʟᴀ 🌟 Prix de Lausanne 2021 🇬🇧 🌟 I n s i d e D a n c e A m b a s s a d o r 🌟 RClass Ambassador @klassdance
     location: "Spain"
-    followers: 20048
-    engagement: 608
-    commentsToLikes: 0.072893
-    id: ck6tyeyiv3bur0j71u98z7q6t
+    followers: 3848
+    engagement: 1724
+    commentsToLikes: 0.048429
+    id: ckaorgxzvn60k0i78cv2j2nds
     verified: false
-    hashtags: "#instagood, #ivettearranz, #picoftheday, #happy"
+    hashtags: "#pdl2021, #dancersofinstagram, #dancer, #quarantine"
+  - username: "luy983"
+    fullname: >-
+      Luciana Alves (Lucy) 🇧🇷 🇪🇸
+    bio: >-
+      👉 Embajadora @226ers 👉 Embajadora @sport_hg 👉 Embajadora @bend36_es 👉 Entrenador @kapurrosteam 👉 Apoyo @titanesmoneytransfer
+    location: "Spain"
+    followers: 5792
+    engagement: 1590
+    commentsToLikes: 0.059826
+    id: ck5zwso9n6owj0i14ccx51uyb
+    verified: false
+    hashtags: "#barrabes, #viveguara, #trailrunninglife, #runninginspiration"
   - username: "alexsete__"
     fullname: >-
       𝑨𝑳𝑬𝑿   𝑼𝑴 🇹🇩
     bio: >-
-      Menswear | Lifestyle | Fitness 📍Barcelona | Alba Iulia ✉️| Ƈontαct: ursete99@ցmαil.com Never duck your head win or lose
+      ______________ Fashion | Lifestyle | Fitness _____________ 📍Barcelona | Alba Iulia ✉️| Ƈontαct: ursete99@ցmαil.com Never duck your head win or lose
     location: "Spain"
-    followers: 81699
-    engagement: 204
-    commentsToLikes: 0.074378
+    followers: 80085
+    engagement: 213
+    commentsToLikes: 0.090400
     id: ck8td1gtn1gka0j78ad20r1od
     verified: false
-    hashtags: "#modahombre, #malefashion, #siksilk, #fashionmens"
-  - username: "charlotte.bish"
-    fullname: >-
-      Charlotte Bish 💥
-    bio: >-
-      'sup bishhhh 🔥 𝙱𝙰𝚁𝙲𝙴𝙻𝙾𝙽𝙰 🌎 charlottebishqueen@gmail.com
-    location: "Spain"
-    followers: 2604
-    engagement: 1438
-    commentsToLikes: 0.089559
-    id: ckap662scejw80i78wx04brjy
-    verified: false
-    hashtags: "#sissy, #kyliejenner, #transformista, #maquillaje"
+    hashtags: "#mensfashioner, #streetstyles, #moda, #mensstyleguide"
   - username: "germanfit_"
     fullname: >-
       German Lorenzo Navarro
     bio: >-
-      Barcelona📍 Fitness🏋️‍♂️🏋️‍♂️ Running🏃‍♂️🏃‍♂️ Vidasana🥦🥦 Calistenia 🤸‍♂️🤸‍♂️ Alimentación 🍽🍽 Sport ⚽️🏀🎾 Entrenamiento personal🦸‍♂️🦸‍♂️ #sinexcusas
+      10% descuento Zumub http://zumu.be/GERMANFIT Barcelona📍Fitness🏋️‍♂️ Running🏃‍♂️ Vidasana🥦 Alimentación 🍽 Entrenamiento personal🦸‍♂️ #sinexcusas
     location: "Spain"
-    followers: 2552
-    engagement: 1376
-    commentsToLikes: 0.035353
+    followers: 2690
+    engagement: 1344
+    commentsToLikes: 0.040108
     id: ckap6rkmuh4q80i789z75o5hy
     verified: false
-    hashtags: "#liker, #mountain, #surfing, #adventure"
-  - username: "victornunezzz"
+    hashtags: "#nieve, #gymfitness, #picoftheday, #gymlove"
+  - username: "raul.alvarado23"
     fullname: >-
-      Victor Nuñez
+      Raul Eduardo
     bio: >-
-      ▪️Headcoach @flamma_fight_academy ▪️Personal trainer , coach mma , k1 & muay thai. ▪️MMA Fighter 🔹Model fifhtmodels 📩 victornc@hotmail.es
+      📐Architect 📸 Photography 🇵🇦 Panama 📍 Barcelona
     location: "Spain"
-    followers: 20343
-    engagement: 329
-    commentsToLikes: 0.023328
-    id: ck8sxpxppi89t0j78ofvjissz
+    followers: 10404
+    engagement: 910
+    commentsToLikes: 0.026649
+    id: ckf5q7lql8fla0j23zhat373d
     verified: false
-    hashtags: "#inked, #guys, #health, #fit"
-  - username: "andymcdougall"
+    hashtags: "#parkguell, #summer, #hoscos, #panama"
+  - username: "manukenpis"
     fullname: >-
-      Andy Mc Dougall
+      Manuel Moreno
     bio: >-
-      PR Agency 👉@mcdougallpr_ My brand👖@malibuoutfitters @malibuoutfitters.es Andymcdougall@inmanagement.agency📍Madrid
+      🙎🏽‍♂️ Creador de contenido 👕 Moda, viajes, música y lifestyle 👖 📍#Madrid ↔️ Andújar (Jaén) 🌍 Next stop: Santander 📧 manukenpis@outlook.com
     location: "Spain"
-    followers: 130000
-    engagement: 235
-    commentsToLikes: 0.038409
-    id: ck14kb6i2ong40i19r85e3nbq
+    followers: 16597
+    engagement: 1347
+    commentsToLikes: 0.151261
+    id: ck9wdmsq4ge460j78xt0jibg6
     verified: false
-    hashtags: "#instafood, #healthyfood, #tasty, #eat"
-  - username: "bettercalljoel"
+    hashtags: "#valencia, #hoscos, #outfitpost, #sunglasses"
+  - username: "carmen.antonn"
     fullname: >-
-      Joel Subirats
+      Carmen Antón
     bio: >-
-      fashion mind and creative soul I 🖤 black and wine based in Barcelona
+      🎞 Actriz:@ocotalent_ rosamaria@ocotalent.com 📸 Moda&Publi: @salvadoragency @salvadormodels 🎬 @elclubdeactores 📍Madrid 👩🏼‍🎓Psychologist
     location: "Spain"
-    followers: 110458
-    engagement: 626
-    commentsToLikes: 0.020891
-    id: ck6ufk3jmxj1i0j713or9nex6
+    followers: 25312
+    engagement: 241
+    commentsToLikes: 0.041234
+    id: ck6txwt8b0b9u0j71z1sc9vck
     verified: false
-    hashtags: "#spain, #madrid, #sneakers, #ootd"
-  - username: "the_world.red"
+    hashtags: "#happymonday, #tbt, #positivevibes, #balayagehair"
+  - username: "dr_marcfit"
     fullname: >-
-      PiNOS-🇲🇦🇪🇸🇩🇿🌍🕸🗼
+      Asem Marc Bacha. DDS
     bio: >-
-      🇪🇸🇩🇰الغربةتقتل فيك لا تدرى عن موتها إلا حين عودتك إلى وطنك 🇲🇦🇩🇰 🇲🇦🇩🇿 🌎🌍🌇🗼 الحمد لله 🕋 Taza.
+      Spanish Dentist | Oral Implantology Professor at UIC @gornation Pro Athlete 🏆🥇WCO Battle of the Bars Dubai 2019 🏆🥇Feswc Arnold Classic Europe 2019
     location: "Spain"
-    followers: 11148
-    engagement: 375
-    commentsToLikes: 0.076702
-    id: ckap5wg4mdg8m0i78473x4wcx
+    followers: 11294
+    engagement: 707
+    commentsToLikes: 0.030249
+    id: ck5zvl4zd4fw00i14r0yv8e36
     verified: false
-    hashtags: "#ramadan, #bilbao, #sport, #fitnessmotivation"
+    hashtags: "#gymnastics, #freestyle, #balance, #gymnasticsshoutouts"
+  - username: "beti_fitness"
+    fullname: >-
+      𝗜vet 𝗝P
+    bio: >-
+      👮🏽‍♀️ & 🏋🏽‍♀️ Asesora Nutricional y Deportiva Entrenadora Personal en @cosmofit_barcelona Atleta Bikini Fitness @fitnutrition.es code BETI-FN15
+    location: "Spain"
+    followers: 22641
+    engagement: 127
+    commentsToLikes: 0.062127
+    id: ck6u3viat04j10j711rbisb73
+    verified: false
+    hashtags: "#felicidad, #mallorca, #healthylifestyle, #desconexion"
 ---

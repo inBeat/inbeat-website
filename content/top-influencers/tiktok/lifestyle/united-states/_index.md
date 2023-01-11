@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In United States in 2023
+title: Top 10 Lifestyle TikTok Influencers In United States In 2023
 description: >-
-  Find top lifestyle TikTok influencers in United States in 2023. Most popular hashtags: #fyp #aesthetic #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
-hits: 759
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 759 TikTok influencers like this in United States for you to work with.
+hits: 1130
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 1130 TikTok influencers like this in United States for you to contact.
 profiles:
+  - username: "lifestylemols"
+    fullname: >-
+      molly
+    bio: >-
+      lifestyle vlogs 💕💿🐛🌞🍄
+    location: "United States"
+    followers: 29200
+    engagement: 2947
+    commentsToLikes: 0.140218
+    id: ckc85eho04zeu0j23vto2avgt
+    verified: false
+    hashtags: "#summer, #foryou, #grwm, #daily"
   - username: "laynes.life"
     fullname: >-
       ✰ layne ✰
     bio: >-
-      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
+      new acct- vlogs.layne vlogs, lifestyle
     location: "United States"
-    followers: 42400
-    engagement: 2550
-    commentsToLikes: 0.071745
+    followers: 41900
+    engagement: 2622
+    commentsToLikes: 0.065464
     id: ckfplcec901cu0j23yd02dkww
     verified: false
-    hashtags: "#closeup, #xyzbca, #fall, #fyp"
-  - username: "bsbl101"
+    hashtags: "#upthebeat, #housetour, #giftofgame, #opiobsessed"
+  - username: "weve_got_issues2"
     fullname: >-
-      Baseball Lifestyle
+      we've got issues 2
     bio: >-
-      Official Baseball Lifestyle 101 TikTok. Shop: BL101.COM
+      Culture, lifestyle, current events, blm 🖤
     location: "United States"
-    followers: 104500
-    engagement: 1981
-    commentsToLikes: 0.090062
-    id: ck97832as6iy40j78m4zi9tny
+    followers: 20300
+    engagement: 2217
+    commentsToLikes: 0.141754
+    id: ckd6kv8zcefd10j23rz9rccuk
     verified: false
-    hashtags: "#tiktok, #fallfashion, #foryou, #showupshowoff"
-  - username: "jesssica.le"
-    fullname: >-
-      jessica le
-    bio: >-
-      19 inconsistent content for my inconsistent lifestyle
-    location: "United States"
-    followers: 16900
-    engagement: 1835
-    commentsToLikes: 0.093029
-    id: ck99a9t8agot80j78a00sa18l
-    verified: false
-    hashtags: "#stitch, #wewintogether, #duet, #amongus"
-  - username: ".melonlush"
-    fullname: >-
-      ⚡️⚡️⚡️
-    bio: >-
-      🛍💖🌈✨🐆🧿 lifestyle, grwm & more! pinterest: carterholtsy 😼
-    location: "United States"
-    followers: 13500
-    engagement: 2349
-    commentsToLikes: 0.055098
-    id: ckc8ybqozmrlp0j2345qqg6kl
-    verified: false
-    hashtags: "#foryou, #foryoupage, #aesthetic, #4you"
+    hashtags: "#blackwomen, #duet, #gossipgirlhere, #holdamirrorup"
   - username: "hal3ymiller"
     fullname: >-
       Haley
     bio: >-
-      ✨follow my instagram: @haleymiller ✨ 📷, art director, lifestyle, & entertainer
+      ✨ stay true to yourself ✨ Follow for 📷, art director, lifestyle, & more
     location: "United States"
-    followers: 28800
-    engagement: 1959
-    commentsToLikes: 0.043096
+    followers: 28200
+    engagement: 1643
+    commentsToLikes: 0.042340
     id: ckcdcyk185awb0j23965mjcaa
     verified: false
-    hashtags: "#fyp, #ios14, #aesthetic, #photography"
-  - username: "highvibinglifestyle"
+    hashtags: "#aesthetic, #artdirector, #fyp, #forcreatives"
+  - username: "courtneymcavenia"
     fullname: >-
-      highvibinglifestyle
+      Courtney McAvenia
     bio: >-
-      Vibe High & Live in Bliss Subscribe to our YouTube at High Vibing Lifestyle KAM
+      Wifey/ Mom Things / Lifestyle MA raised me, WA claims me 💖
     location: "United States"
-    followers: 4564
-    engagement: 1565
-    commentsToLikes: 0.084843
-    id: ckcuy5gzlmacs0j23t9784qej
+    followers: 13900
+    engagement: 1797
+    commentsToLikes: 0.116413
+    id: ckdmqww3w9ojt0j23078xgy4l
     verified: false
-    hashtags: "#chakras, #namaste, #mantra, #message"
-  - username: "babetarte"
+    hashtags: "#refundglowup, #momlife, #shadowandbone, #makemomepic"
+  - username: "ilabellecosplay"
     fullname: >-
-      BabeTarte
+      ilabelle
     bio: >-
-      Life Style ♡ DM’s Are Open, Business ♡ My Email For Collaboration 💌
+      She/They Cosplayer/ Cottagecore Lifestyle ⚡️13+ only💥 Cancer survivor 🎀
     location: "United States"
-    followers: 89400
-    engagement: 2440
-    commentsToLikes: 0.028274
-    id: ckb9n6xj2gr270j23i0wa6us7
+    followers: 119000
+    engagement: 2181
+    commentsToLikes: 0.031862
+    id: ck9116ko3kl970j78hxacghvs
     verified: false
-    hashtags: "#ootd, #routine, #dayinthelife, #vibewithus"
-  - username: "madeleinesroutine"
+    hashtags: "#foraging, #learnontiktok, #elsa, #frozen"
+  - username: "grwmastheticsclub"
     fullname: >-
-      𝐦𝐚𝐝𝐞𝐥𝐞𝐢𝐧𝐞
+      Tysm for 2k
     bio: >-
-      she/her black lives still matter routines & lifestyle tysm for 7.4k<33
+      Started 5/11/20 Lifestyle,grwm Fff 💕 Still taking auditions
     location: "United States"
-    followers: 7476
-    engagement: 2398
-    commentsToLikes: 0.154170
-    id: ckcdsdi24dbth0j23fnon1ug1
+    followers: 2310
+    engagement: 3646
+    commentsToLikes: 0.195110
+    id: ckb93caujk6j50j23g7n3bnro
     verified: false
-    hashtags: "#trendy, #aesthetic, #fyp, #foryoupage"
-  - username: "annas.routine"
+    hashtags: "#yearbook2020, #xyzbca, #foryoupage, #foryou"
+  - username: "grwmm.kate"
     fullname: >-
-      TY FOR 20K OMG!!!!
+      kate!!
     bio: >-
-      insta and yt ↗️😊 💌life.routineeee@gmail.com lifestyle, grwm, vlog, outfits
+      pintrest • grwmkate grwm | lifestyle | routines ty for 2.6k!!
     location: "United States"
-    followers: 26400
-    engagement: 2159
-    commentsToLikes: 0.055364
-    id: ckbf5kzw4unj40j236ng332pk
+    followers: 2638
+    engagement: 2964
+    commentsToLikes: 0.238707
+    id: ckbbeg6hw37yj0j23obwnzupi
     verified: false
-    hashtags: "#ootd, #aesthetic, #blowthisup, #readysetgo"
-  - username: "wavelifestyles"
+    hashtags: "#foryou, #grwm, #aesthetic, #viral"
+  - username: "stitchespup82"
     fullname: >-
-      🥵
+      𝔖𝔱𝔦𝔱𝔠𝔥𝔢𝔰
     bio: >-
-      🍉🍌🥭🍒🍍🍊🍋🥥 ll lifestyle ll grwm ll aesthetic
+      Crafty pup/furry lifestyle 🏳️‍🌈(lev38)🐶. 18+ no kids/Karen's
     location: "United States"
-    followers: 4073
-    engagement: 4121
-    commentsToLikes: 0.271316
-    id: ckdck5jo7m6bv0j23lg8f0i3e
+    followers: 38900
+    engagement: 2592
+    commentsToLikes: 0.062160
+    id: ck8rr2pdkso9w0j7806zf0icw
     verified: false
-    hashtags: "#ootd, #maui, #cerave, #grwm"
+    hashtags: "#fursuitmaker, #duet, #stitchespack, #fursuit"
+  - username: "emmas.lifestylee"
+    fullname: >-
+      𝐞𝐦𝐦𝐚 ◡̈
+    bio: >-
+      🐅🌎🌛 Insta: @lifestylee.emma 📧 ⌁ EmmaEleanoraa@gmail.com
+    location: "United States"
+    followers: 41800
+    engagement: 2344
+    commentsToLikes: 0.114339
+    id: ckb9aajcnv69o0j23v6l4ycs2
+    verified: false
+    hashtags: "#viral, #aesthetic, #trendy, #xyzbca"
 ---

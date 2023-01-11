@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In India in 2023
+title: Top 10 Health Instagram Influencers In India In 2023
 description: >-
-  Find top health Instagram influencers in India in 2023. Most popular hashtags: #instagram #throwback #love.
+  Find top health Instagram influencers in India in 2023. Most popular hashtags: #reelsindia #reelsinstagram #reels #style.
 platform: Instagram
-hits: 2079
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 2079 Instagram influencers like this in India for you to collaborate.
+hits: 1516
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 1516 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "saba_ka_jahaan"
+  - username: "oh.so.delish"
     fullname: >-
-      SABA IBRAHIM (صباء)
+      Priyanjali | Food Photographer
     bio: >-
-      Mumbai 📍 Lifestyle influencer | youtuber Lifestyle• skincare•health• fashion•food Dm / Email for collaboration. 📩 ibrahimsaba2393gmail.com
+      #healthyrecipes DM for Food/product shoot | recipe development 🎥 Recipe videos 🏡 #mumbai 📧 ohsodelishblog@gmail.com Learn to bake healthy at home👇
     location: "India"
-    followers: 372411
-    engagement: 1057
-    commentsToLikes: 0.047788
-    id: ck9wgfocut7mb0j78fusfrb63
+    followers: 5459
+    engagement: 392
+    commentsToLikes: 0.334840
+    id: ck0w1hmsnje580i19fttmqidv
+    verified: false
+    hashtags: "#hautecuisines, #bakestagram, #mumbaifoodicious, #myopenkitchen"
+  - username: "ifbbpro_jkaliwala"
+    fullname: >-
+      Junaid Kaliwala
+    bio: >-
+      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
+    location: "India"
+    followers: 333970
+    engagement: 247
+    commentsToLikes: 0.010723
+    id: ck5hrf80lurx60i11laqzr2nh
     verified: true
-    hashtags: "#happygirlsaretheprettiest, #ootd, #festiveseason, #lifestyleinfluencer"
+    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
+  - username: "bangalorefoodiee"
+    fullname: >-
+      Bangalore foodie
+    bio: >-
+      "EAT HEALTHY STAY HEALTHY" ◼️Founder :- @aryan.gautam.773 ◼️Contact :- 9131685391 Use #bangalorefoodiee to get featured DM FOR REVIEW
+    location: "India"
+    followers: 126103
+    engagement: 108
+    commentsToLikes: 0.011297
+    id: ckap1gb70uh2m0i78zv0t0yv2
+    verified: false
+    hashtags: "#bengalurudays, #bangalorefood, #bengalurudiaries, #reels"
+  - username: "shamasikander"
+    fullname: >-
+      Shama Sikander
+    bio: >-
+      Managed by:- @celeb_connect. Collabs:- celebconnect@whiteleafent.net Actor | Producer | PublicFigure | Mental Health Advocate😇
+    location: "India"
+    followers: 3099668
+    engagement: 72
+    commentsToLikes: 0.018917
+    id: ck15pyd4208tk0i19x8fszhp1
+    verified: true
+    hashtags: "#looks, #spreadlove, #fashionstyle, #positivevibes"
   - username: "tamarawebb_"
     fullname: >-
       TAMARA WEBB 💫
     bio: >-
       Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
     location: "India"
-    followers: 53255
-    engagement: 805
-    commentsToLikes: 0.078111
+    followers: 56494
+    engagement: 647
+    commentsToLikes: 0.010663
     id: ck8tavj66t8pm0j7872g8sxdw
     verified: false
-    hashtags: "#covid, #postpartum, #newmum, #outfitoftheday"
-  - username: "_hailelujah"
+    hashtags: "#healthyrecipes, #gold, #gabadiamonds, #mumanddad"
+  - username: "simer__12"
     fullname: >-
-      Hailey Dickson ✺ India Travel
+      𝓢𝓲𝓶𝓮𝓻 ✪
     bio: >-
-      My 💛 in photos+colors+words ✈Chasing stories across India ✎Learning•travel•mental health 🗣️ हिंदी|اردو|मराठी 🏠 AZ 🇺🇸 ⇩ My recovery story
+      LIVING LIFE ON MY OWN TERMS 🤙🏼 | Indian🇮🇳 | Health & Fitness 💪🏻| Risk Taker | Dreamer 💭 | Free Spirit 🦅| Birthday- 27th April
     location: "India"
-    followers: 6638
-    engagement: 1331
-    commentsToLikes: 0.045594
-    id: ck8tcdgjqz3uh0j78nb5sy82v
-    verified: false
-    hashtags: "#yourshotindia, #indianphotostory, #portraitmag, #versova"
-  - username: "simer.bhatia12"
-    fullname: >-
-      SIMER 😍
-    bio: >-
-      LIVING LIFE ON MY OWN TERMS 🤙🏼 | Indian 🇮🇳 | Health & Fitness 💪🏻 | Risk taker | Dreamer 💭 | Free spirit 🦅 | Birthday- 27th April | My channel 👇🏻👇🏻
-    location: "India"
-    followers: 80631
-    engagement: 2089
-    commentsToLikes: 0.012720
+    followers: 195218
+    engagement: 518
+    commentsToLikes: 0.022255
     id: ck8wf5b52f5f90j780ih1smk8
     verified: false
-    hashtags: "#reels, #simerbhatia, #style, #fitness"
-  - username: "simrn_singh_dhillon"
+    hashtags: "#picoftheday, #model, #instagood, #style"
+  - username: "ninakmandal"
     fullname: >-
-      Sim Dhillon
+      Nina Kant Mandal💋
     bio: >-
-      13 oct 🍼 Fitness lover🏋🏻‍♂️ Stay fit 💪🏻 Photography 📸 Stay focused👆🏻🙏🏻 Drug free lyf🥛 Health wrker 💊 CARE LESS YOU’LL STRESS LESS 😉
+      🇳🇵Nepali 🇷🇺Russian 🇮🇳Indian 👑 Miss Universe Nepal 2020 2nd Runner Up 👑 Miss Asia Russia 2018 ❤️ She Speaks ✨ Mental health matters @mindswastha Tiktok
     location: "India"
-    followers: 19923
-    engagement: 977
-    commentsToLikes: 0.013140
-    id: ck15q475c10ls0i19ct2hj1f2
+    followers: 10882
+    engagement: 677
+    commentsToLikes: 0.058078
+    id: ck5cdolzyjic50i118itw6881
     verified: false
-    hashtags: ""
-  - username: "rheagoyall"
+    hashtags: "#indianmodel, #happy, #trend, #model"
+  - username: "trend.in.myway"
     fullname: >-
-      
+      Neha Shaw
     bio: >-
-      Let go & let God Founder @rescue_health
+      I'm here to share GOOD things about B.B.B Baby-Parenting | Body-Fitness | Bread-Healthy food Mom to @anaisha.says Collab - 📩 Trendinmyway@gmail.com
     location: "India"
-    followers: 15468
-    engagement: 769
-    commentsToLikes: 0.036942
-    id: ck0vzuhrbayns0i19gg8l91i0
+    followers: 147707
+    engagement: 116
+    commentsToLikes: 0.135460
+    id: ck14iyp6ihs5f0i19xt5u0w64
     verified: false
-    hashtags: "#smallbusiness, #staysafe, #healthcareessentials, #fightagainstcorona"
+    hashtags: "#bangalireinfluencers, #indianmomblogger, #bangaloreinfluencer, #reelsinsta"
   - username: "manishayadavsuresh"
     fullname: >-
       Manisha Yadav
     bio: >-
-      Cinephile for Quality Cinema, Entrepreneur, Foodie, Traveller and Mental Health Advocate
+      Cinephile for Quality Cinema ,Zoophilist 😍 ,Vegan🌱, Traveller and Mental Health Advocate
     location: "India"
-    followers: 52434
-    engagement: 682
-    commentsToLikes: 0.008837
+    followers: 63493
+    engagement: 723
+    commentsToLikes: 0.008545
     id: ck15qawzx1yjz0i19pxexsg91
     verified: false
-    hashtags: "#throwbackthursday, #coronatimes, #lifeinthetimeofcorona, #coronacation"
-  - username: "alphayash"
+    hashtags: "#throwbackthursday, #manishayadav, #thursdaythoughts, #beyourself"
+  - username: "crismelo_rdg"
     fullname: >-
-      Yash Sharma
+      Cristiane Melo
     bio: >-
-      “Health • Lifestyle • Motivation” 🏋🏻‍♂️ Powered By @1rm_official 🔥 Athlete @muscleblaze 🎥 YouTube: YASH SHARMA FITNESS
+      🎓Estética e Cosmetologia @cristianemelo_spa 💻 Empreendedora 🎓Com. Empresarial 📸 Modelo ✈️ Trips 🏖Natureza🤪Yoga🏃🏻‍♀️Run 🐈 Pets🏋🏻‍♀️Gym🍎Healthy life
     location: "India"
-    followers: 50135
-    engagement: 1215
-    commentsToLikes: 0.021148
-    id: ck8t0ziamtwq00j78vh1sdk7d
+    followers: 11606
+    engagement: 327
+    commentsToLikes: 0.098318
+    id: ckap0x48xs73f0i78mitovfp4
     verified: false
-    hashtags: "#ziddihoonmain, #onerepmore, #teamysf, #squat"
-  - username: "khan.ira"
-    fullname: >-
-      Ira Khan
-    bio: >-
-      Hindi dubbed version of my mental health video are on the link in my bio!
-    location: "India"
-    followers: 339985
-    engagement: 557
-    commentsToLikes: 0.022175
-    id: ck55l2xqj0mj00i11frgtnv2b
-    verified: true
-    hashtags: "#proud, #debut, #letsstartaconversation, #safespace"
-  - username: "nitika.gusain1827"
-    fullname: >-
-      NitikaG
-    bio: >-
-      #influencer #beauty 💅💄| #lifestyle 💃👠⌚🍫| #health ❤| #motherhood 👪 Jammu | Dehradun Indian 🇮🇳 📩Dm/mail for collaborations nitika.gusain1827@gmail.com
-    location: "India"
-    followers: 11124
-    engagement: 250
-    commentsToLikes: 0.157671
-    id: ckf5qqnvpa94v0j23zzpin6mh
-    verified: false
-    hashtags: "#lehanga, #indianblogger, #indianbeautyblogger, #fyp"
+    hashtags: "#tbt, #riodejaneiro, #sunset, #quarentena"
 ---

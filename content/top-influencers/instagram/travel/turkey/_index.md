@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Turkey in 2023
+title: Top 10 Travel Instagram Influencers In Turkey In 2023
 description: >-
-  Find top travel Instagram influencers in Turkey in 2023. Most popular hashtags: #travelblogger #gezgin #gezilecekyerler.
+  Find top travel Instagram influencers in Turkey in 2023. Most popular hashtags: #ig #travel #roamersclub #travelblogger.
 platform: Instagram
-hits: 1445
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 1445 Instagram influencers like this in Turkey for you to work with.
+hits: 1260
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 1260 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "wemovedabroad"
+  - username: "yoldabiblog"
     fullname: >-
-      ALEX & LUCILLE
+      Yolda bi' Blog
     bio: >-
-      ✈ sharing the precious travel moments in between food poisonings and sleeping on public transport ⚑ now: home 🇺🇸 ↡ OUR TRAVEL BLOG
+      a travel blog from 𖤥 Istanbul | Berlin 𓀠 Asya | Umut | Leo ✎ iletisim@yoldabiblog.com
     location: "Turkey"
-    followers: 14129
-    engagement: 1426
-    commentsToLikes: 0.069510
-    id: ck0tuu3be8o460i19gfmksiv9
+    followers: 221616
+    engagement: 402
+    commentsToLikes: 0.260298
+    id: ck5ca1871cik10i11nanokltr
     verified: false
-    hashtags: "#backpackersintheworld, #egypt, #travelbloggers, #passportready"
-  - username: "simlipullu"
+    hashtags: "#portekiz, #destinationofart, #france, #christmasmarket"
+  - username: "iamrxngh"
     fullname: >-
-      Simay Çetinkaya Pullu
+      R O X A N N A
     bio: >-
-      🌏Traveller | ✍🏼Blogger | 💫Lifestyle 💌 Reklam ve işbirliği için: DM / simaycetinkaya@live.com 📦Makrome satış sayfam: @simlipullu_atelier
+      Travel | Youtube | Lifestyle Mine💍 @sepy.ak Ad : @roxana.ads 📥
     location: "Turkey"
-    followers: 12246
-    engagement: 1253
-    commentsToLikes: 0.110168
-    id: ck8t3cgo62qsy0j78b6gwj87u
+    followers: 2407735
+    engagement: 938
+    commentsToLikes: 0.013647
+    id: ck9wiyr0j4iob0j78bnmw90qi
     verified: false
-    hashtags: "#gezilecekyerler, #seyahat, #sonbahar, #kars"
+    hashtags: "#fashion, #explore, #love, #style"
   - username: "elvin"
     fullname: >-
       Elvin Levinler 🌈
     bio: >-
-      ⋒ elvin@thedigitalnomads.co ✈ IST & DATÇA #EvdeKal ✎ Hurriyet Seyahat ♡ #traveler #lifestyle #storyteller #nomad ⍟ new video ⇟
+      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
     location: "Turkey"
-    followers: 1044367
-    engagement: 975
-    commentsToLikes: 0.559015
+    followers: 1185764
+    engagement: 120
+    commentsToLikes: 0.016211
     id: ck15uwgu4ou830i19ej5guzkx
     verified: true
-    hashtags: "#10kas, #birdofparadise, #harikakarelerinpe, #nefesal"
-  - username: "pilotasoglu"
-    fullname: >-
-      Ahmet Asoğlu Official | Cadet
-    bio: >-
-      ✈️ | Pilot Lifestyle - Travel 👨🏻‍✈️ | 23yo from Turkey 🇹🇷 📺 | Covid19’un havacılığa etkisi⬇️
-    location: "Turkey"
-    followers: 57356
-    engagement: 844
-    commentsToLikes: 0.051264
-    id: ck5hh6x0e6oze0i11qh60msgv
-    verified: false
-    hashtags: "#23"
-  - username: "tiyatrolist"
-    fullname: >-
-      Gürkan Kaçmaz
-    bio: >-
-      Aviator👨🏻‍✈️ Travel | LifeStyle | Fashion Personal Consultant Styling Reklam ve İş birlikleri için DM📥
-    location: "Turkey"
-    followers: 13425
-    engagement: 1182
-    commentsToLikes: 0.080919
-    id: ckf5ttxg6irk50j237na50dj0
-    verified: false
-    hashtags: "#americanstyle, #style, #fashion, #inspofashion"
-  - username: "nesemcelikkaya"
-    fullname: >-
-      Neşem Çelikkaya Bozdağ
-    bio: >-
-      a curious travel and lifestyle blog from Istanbul ➰not all those who wander are lost. • www.journavel.com • nesem@journavel.com
-    location: "Turkey"
-    followers: 59730
-    engagement: 595
-    commentsToLikes: 0.149193
-    id: ck0tuuux18rux0i1930nc68iv
-    verified: false
-    hashtags: "#travelturkey, #reels, #do, #dog"
-  - username: "tamershwaiter"
-    fullname: >-
-      Tamer Shwaiter|تامر شويطر
-    bio: >-
-      Moments of #fashion #lifestyle and #travel 🧭
-    location: "Turkey"
-    followers: 26572
-    engagement: 1017
-    commentsToLikes: 0.054148
-    id: ck5hrllznv2iz0i11wc3nrs7v
-    verified: false
-    hashtags: ""
+    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
   - username: "sultanismm"
     fullname: >-
       
     bio: >-
       -Istanbul -Teacher -Traveller -Reader -Animalover -Daydreamer Okurgezer 📚🌎 - Hayvansever🐱🐈❤ ➡️ Reklam ve İşbirliği için ▶️▶️ DM
     location: "Turkey"
-    followers: 21038
-    engagement: 916
-    commentsToLikes: 0.055722
+    followers: 20636
+    engagement: 1201
+    commentsToLikes: 0.046239
     id: ckaowhzgw90sf0i78u3kxspxq
     verified: false
-    hashtags: "#worldtraveler, #sundayyeveniing, #istanbul, #travelislife"
-  - username: "orasiseninburasibenim"
+    hashtags: "#travelblogger, #travelislife, #istanbul, #traveltheworld"
+  - username: "evrimertekin"
     fullname: >-
-      Gizem Yüksel
+      Evrim Ertekin Ergün 🌿
     bio: >-
-      Milliyet Tatil Yazarı✍🏼 Travel | Lifestyle | Food Blog⬇️ California Road Trip yayında⬇️
+      Nature | Travel | Lifestyle Wanderlust ✈︎ Gezgin Gazetesi Köşe Yazarı ✍︎ Yuvacık köşe yazısı için⇩
     location: "Turkey"
-    followers: 19505
-    engagement: 870
-    commentsToLikes: 0.457252
-    id: ck9wfvjrmqogg0j7814abqbqs
+    followers: 20739
+    engagement: 643
+    commentsToLikes: 0.286789
+    id: ckaow60vj7kj30i78yy87i76d
     verified: false
-    hashtags: "#ig, #gezginlerbirarada, #geziyorum, #travelgram"
+    hashtags: "#photooftheday, #goturkey, #geziyoruz, #wanderlust"
   - username: "hamysuniverse"
     fullname: >-
       Hamy
     bio: >-
-      ♥︎ 𝗜̇𝘀𝗸𝗼𝗰̧𝘆𝗮’𝗱𝗮 𝗬𝗮𝘀̧𝗮𝗺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❦ 𝑆𝑐𝑜𝑡𝑙𝑎𝑛𝑑•𝑈𝐾 / 𝑇𝑢𝑟𝑘𝑒𝑦 ✈ #traveller ♛ #iskocya
+      ♥︎ İskoçya’da Yaşam 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❦ Scotland•UK | Turkey 🇹🇷 ✈ #traveller ♛ #iskocya #momtobe
     location: "Turkey"
-    followers: 21921
-    engagement: 726
-    commentsToLikes: 0.132509
+    followers: 24041
+    engagement: 685
+    commentsToLikes: 0.118396
     id: ck9hbrsd2i5in0j781738kszo
     verified: false
-    hashtags: "#welcometofife, #hurriyetseyahat, #travelphotography, #travelblogger"
+    hashtags: "#iskoc, #turklergeziyor, #instabritain, #hobimphoto"
+  - username: "plannedmap"
+    fullname: >-
+      PlannedMap 🗺✈️🚘🛵
+    bio: >-
+      🌎Travel Destinations Planner 📝Travel Blogger 📍İstanbul
+    location: "Turkey"
+    followers: 11941
+    engagement: 651
+    commentsToLikes: 0.055070
+    id: ckaos2kivpvj50i78qytsxksu
+    verified: false
+    hashtags: "#travel, #tbt, #plannedmap, #plannedmapt"
+  - username: "akcayymehmettt"
+    fullname: >-
+      Mehmet AKÇAY
+    bio: >-
+      📍From ; Turkey 🇹🇷 🌍 Traveler ; ✈️🚞 ✏️ Kocaeli University 🧬 Anatolia Geneworks
+    location: "Turkey"
+    followers: 6705
+    engagement: 1360
+    commentsToLikes: 0.048223
+    id: ck0w3bgwfsjul0i192kw4h0em
+    verified: false
+    hashtags: "#roamersclub, #foto, #photographer, #traveltheworld"
+  - username: "littlenomadic_girl"
+    fullname: >-
+      İpek Yalçın 🧿
+    bio: >-
+      📍Bulgaria🇧🇬 Turkey🇹🇷 ♾ Travel | LifeStyle | Gym >>Do small things with great love 💫 •Wanderlust 👣🎒🌎 #grateful #happy #free 🌻 H a p p y W i f e💍
+    location: "Turkey"
+    followers: 18051
+    engagement: 1005
+    commentsToLikes: 0.045473
+    id: ck13bwa9wxg090i19i24gzfax
+    verified: false
+    hashtags: "#tbt, #ig, #aniyakala, #igtravel"
+  - username: "meltem.blk"
+    fullname: >-
+      Meltem Bölük
+    bio: >-
+      M★B Everything here is a choice...📸 Coffee. ☕💕 Travelling.. ✈️⚓ Nature.. 🍀🌾 Serenity.. 🙏🏻 İstanbul..🔻 ➡️ @ig_dynamic ➡️ @___meltemm____
+    location: "Turkey"
+    followers: 6550
+    engagement: 903
+    commentsToLikes: 0.111831
+    id: ckap7u0cwlk4b0i78xzwsohkz
+    verified: false
+    hashtags: "#portico, #sublimestreet, #thecitymag, #streetizm"
 ---

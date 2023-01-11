@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Chile in 2023
+title: Top 10 Dancers TikTok Influencers In Chile In 2023
 description: >-
-  Find top dancers TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #parati #chile #dance.
+  Find top dancers TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #parati #foryou #dance.
 platform: TikTok
 hits: 12
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 12 TikTok influencers like this in Chile for you to collaborate.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 12 TikTok influencers like this in Chile for you to connect with.
 profiles:
-  - username: "s4turn.boy_"
+  - username: "satxrn.boyy"
     fullname: >-
-      xᴜxᴜ (チュチュ)
+      xᴜxᴜ 🧸🍯
     bio: >-
-      🏳️‍🌈 DANCER 🍬 CHILE 🍭 NINETEEN 🧃2240+
+      🏳️‍🌈 DANCER 🚀 CHILE 🌱 Muchas gracias por los 30k 💖🎊🎉🥺
     location: "Chile"
-    followers: 2244
-    engagement: 2456
-    commentsToLikes: 0.025781
+    followers: 31900
+    engagement: 1988
+    commentsToLikes: 0.027186
     id: ckdbrjhjbc6xq0j23zhwt5l2x
     verified: false
-    hashtags: "#kpop, #twice, #curico, #talca"
-  - username: "leauguss"
-    fullname: >-
-      August I Ahumada Var
-    bio: >-
-      un tanto loquite dancer 💖 cáncer 🇨🇱✌ sigueme: leauguss
-    location: "Chile"
-    followers: 964300
-    engagement: 1710
-    commentsToLikes: 0.005265
-    id: ckd0biwutcdyj0j23xw747wxm
-    verified: false
-    hashtags: "#mood, #chile, #argentinatiktok, #colombia"
+    hashtags: "#lentejas, #dancecover, #curico, #fyp"
   - username: "torressvalentina"
     fullname: >-
       Valentina Torres💃🏻
     bio: >-
       18🚁 Belly Dancer💃🏻 Ig: torress.vcs🤍 📍Talca, Chile🇨🇱
     location: "Chile"
-    followers: 80300
-    engagement: 926
-    commentsToLikes: 0.007387
+    followers: 78100
+    engagement: 1083
+    commentsToLikes: 0.021778
     id: ckd6lsddyfr7e0j239ecoxs2i
     verified: false
-    hashtags: "#madreehija, #chile, #vir, #hermanomenor"
-  - username: "_dason"
-    fullname: >-
-      Dason Louis
-    bio: >-
-      bailando
-    location: "Chile"
-    followers: 66400
-    engagement: 774
-    commentsToLikes: 0.049364
-    id: ckdnoe8sekbj70j23opuryzf2
-    verified: false
-    hashtags: "#dancer, #fyp, #relax, #playa"
+    hashtags: "#followerstiktok100k, #parati, #follow, #newtrend"
   - username: "martuchizzini"
     fullname: >-
       Martu Chizzini
     bio: >-
-      💜✊🏼💚 De 🇦🇷 en 🇨🇱
+      💜✊🏼💚 🇦🇷Argentina🇦🇷 Si no subo nada me bloquearon sigan:➡️martuchizzini2
     location: "Chile"
-    followers: 946400
-    engagement: 1116
-    commentsToLikes: 0.008139
+    followers: 1100000
+    engagement: 1470
+    commentsToLikes: 0.007399
     id: ck8hqjf8t4g5h0j78vnikbmq3
     verified: false
-    hashtags: "#parati, #foryou, #changehair, #dancer"
-  - username: ".camilapaz"
+    hashtags: "#mashup, #dance, #1m, #trend"
+  - username: "victor_farfan__"
     fullname: >-
-      Camila Paz
+      Victor Farfan 
     bio: >-
-      🏋️‍♀️🌎✈️
+      Sígueme en insta 👆 📩victorefarfancaceres@gmail.com L@s amo 4.3M YouTube 👇❤️🤪
     location: "Chile"
-    followers: 14600
-    engagement: 768
-    commentsToLikes: 0.023026
-    id: ckcjk35oydpsg0j231t8tqata
-    verified: false
-    hashtags: "#parati, #haircut, #dancers, #humor"
-  - username: "soft_candy.pink"
+    followers: 4300000
+    engagement: 1609
+    commentsToLikes: 0.018175
+    id: ck9fx05sw40ai0j78py3lgw60
+    verified: true
+    hashtags: "#fyp, #parati, #parejadela, #dancer"
+  - username: "elchamodonald"
     fullname: >-
-      i love u
+      ElChamoDonald
     bio: >-
-      🌱 she/her 🌱 - 🔮🃏
+      🥺Sígueme en IG/YT para más↖️ Donald version latina🦆 800k?🥺❣️ 🇻🇪-🇨🇱
     location: "Chile"
-    followers: 6120
-    engagement: 3050
-    commentsToLikes: 0.071742
-    id: cka0q54y9b6ap0i785hdbrgi6
+    followers: 776000
+    engagement: 1654
+    commentsToLikes: 0.028728
+    id: ckb16qw4pu9ip0j23lm74nvmo
     verified: false
-    hashtags: "#dualidad, #fyp, #jennieblackpink, #glitterqueen"
+    hashtags: "#teamdonalds, #fyp, #xyzbca, #viral"
+  - username: "cato.rd"
+    fullname: >-
+      Cato Riesco
+    bio: >-
+      EVTA❤️ Chileno🇨🇱 22 años ! 📍 Síganme en Insta🙇‍♂️ cato.nrd@gmail.com
+    location: "Chile"
+    followers: 591700
+    engagement: 2077
+    commentsToLikes: 0.004509
+    id: ck9vaqeqak2uy0j78dmkqgzfy
+    verified: false
+    hashtags: "#rojaxfueraverdexdentro, #pegar, #parati, #dancer"
+  - username: "majobleach"
+    fullname: >-
+      🧊bleach🧊
+    bio: >-
+      Chile🇨🇱 | insta: @majobleach 🛐 📧 contactomajobleach@gmail.com 🫂✨uwu
+    location: "Chile"
+    followers: 2000000
+    engagement: 1488
+    commentsToLikes: 0.011754
+    id: ckb9nxhqzhy450j23wx0n7aa7
+    verified: false
+    hashtags: "#dancer, #easyconita, #traumada, #coronalook"
   - username: "franciscamora25"
     fullname: >-
       franciscamora25
     bio: >-
       Chilena 🇨🇱 Activa la campanita🔔↗️ 📩 franciscamoramagallanes25@gmail.com
     location: "Chile"
-    followers: 167700
-    engagement: 838
-    commentsToLikes: 0.026483
+    followers: 168300
+    engagement: 787
+    commentsToLikes: 0.024117
     id: ck80onou4ikym0j78og1td67w
     verified: false
-    hashtags: "#tiktokchile, #fyp, #foryou, #parati"
-  - username: "camilo.velasco"
+    hashtags: "#foryou, #tiktokchile, #humor, #tuneldeltiempo"
+  - username: "karenbejaranotv"
     fullname: >-
-      Camilo Velasco
+      Karen Liecelotte Bejarano Flores
     bio: >-
-      Viajero. Deportista. Modeloco. Kinesiologo. A reírnos un poco 😊 Ig: @cvelascom
+      Holis! Bienvenidos a mi TikTok 🥰 estoy aprendiendo, así que no me presionen 😝
     location: "Chile"
-    followers: 3059
-    engagement: 601
-    commentsToLikes: 0.052711
-    id: ckb9kgolfccmd0j23vjybm74b
+    followers: 256400
+    engagement: 521
+    commentsToLikes: 0.012409
+    id: ck902s6alcr6x0j78qzaf4a1i
     verified: false
-    hashtags: "#duet, #parati, #viral, #foryou"
+    hashtags: "#viral, #trend, #foryou, #parati"
   - username: "angeliwiis_dancer"
     fullname: >-
       Angela🖤✨
     bio: >-
       Amo bailar🖤 Chilena💫 15🖤
     location: "Chile"
-    followers: 2201
-    engagement: 2472
-    commentsToLikes: 0.040525
+    followers: 2138
+    engagement: 2204
+    commentsToLikes: 0.032789
     id: ckcvhxe6rutx20j23e1drc3vd
     verified: false
-    hashtags: "#dance, #humor, #fyp, #viral"
+    hashtags: "#parati, #fypage, #xyzbca, #dance"
 ---

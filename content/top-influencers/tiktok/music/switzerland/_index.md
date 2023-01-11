@@ -1,96 +1,120 @@
 ---
-title: Top 10 Music TikTok Influencers In Switzerland in 2023
+title: Top 10 Music TikTok Influencers In Switzerland In 2023
 description: >-
-  Find top music TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #foryoupage #fyp #foryou.
+  Find top music TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #foryou #swiss #suisse.
 platform: TikTok
-hits: 57
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 57 TikTok influencers like this in Switzerland for you to work with.
+hits: 69
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 69 TikTok influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "ryanzefi"
+  - username: "ashleyrdgs"
     fullname: >-
-      Ryan Zefi
+      𝘼𝙨𝙝𝙡𝙚𝙮
     bio: >-
-      "live with passion, live musical.ly"
+      || Zurich || || insta ashley_rdgs || || musical.ly og || || Shadowbanned 🤡||
     location: "Switzerland"
-    followers: 4666
-    engagement: 713
-    commentsToLikes: 0.025080
-    id: ck9jw0iw3ug1a0j78023md30c
+    followers: 26500
+    engagement: 1177
+    commentsToLikes: 0.053125
+    id: ckck505pxppiq0j23p1v2n1hq
     verified: false
-    hashtags: "#schweiz, #berlin, #prank, #enjoy"
+    hashtags: "#fy, #foryou, #sad, #zurich"
   - username: "israa_ber"
     fullname: >-
       Isra
     bio: >-
       Love musically 🎶Musique, music 🎶 💛💛💛 Insta : berhisr Snap: israel_berhe
     location: "Switzerland"
-    followers: 200800
-    engagement: 1312
-    commentsToLikes: 0.014918
+    followers: 204500
+    engagement: 1225
+    commentsToLikes: 0.015184
     id: ckai4ebdlnlme0i7873wzo2p3
     verified: false
-    hashtags: "#humour, #foryou, #foryoupage, #pourtoi"
-  - username: "bejan0104"
+    hashtags: "#vaud, #suisse, #toto, #foryou"
+  - username: "ryanzefi"
     fullname: >-
-      Bejan turan
+      Ryan Zefi
     bio: >-
-      basel Music
+      "live with passion, live musical.ly"
     location: "Switzerland"
-    followers: 3712
-    engagement: 396
-    commentsToLikes: 0.032693
-    id: cka5zfbkemfmp0i78r2bs1q1d
+    followers: 4600
+    engagement: 608
+    commentsToLikes: 0.019167
+    id: ck9jw0iw3ug1a0j78023md30c
     verified: false
-    hashtags: "#swiss, #basel, #switzerland, #bejanturan"
+    hashtags: "#loredana, #benz, #kinglori, #panorama"
   - username: "v.dsign"
     fullname: >-
       kite919
     bio: >-
       #photographer #designer and #musician into everything thats creative 🎧🎤🎥📷🖌
     location: "Switzerland"
-    followers: 95300
-    engagement: 646
-    commentsToLikes: 0.009105
+    followers: 97000
+    engagement: 634
+    commentsToLikes: 0.009213
     id: ck81qu7f2jw240j780mnbu30k
     verified: false
-    hashtags: "#photoshop, #graphicdesigndaily, #photomanipulation, #graphicdesign"
-  - username: "noemielanoir"
+    hashtags: "#photoshoptutorial, #graphicdesign, #photoshop2021, #digitalart"
+  - username: "bejan0104"
     fullname: >-
-      NOEMIELANOIR
+      Bejan turan
     bio: >-
-      1̶3̶ ̶G̶A̶N̶G̶ INSTAGRAM [ NOEMIELANOIR ] ⬆️⬆️⬆️ FOLLOW ME MUSIC & FUNNY VIDEO
+      basel Music
     location: "Switzerland"
-    followers: 13500
-    engagement: 637
-    commentsToLikes: 0.034222
-    id: ckdmro8j49xs60j23u851xtoz
+    followers: 3635
+    engagement: 289
+    commentsToLikes: 0.005579
+    id: cka5zfbkemfmp0i78r2bs1q1d
     verified: false
-    hashtags: "#foryou, #pourtoi, #funny, #dance"
+    hashtags: "#evdekal, #music, #baglama, #basel"
   - username: "patburgener"
     fullname: >-
       Pat Burgener
     bio: >-
-      Pro snowboarder & musician follow for fun🏄🏼‍♂️ Follow on insta: @pat.burgener
+      Pro snowboarder & musician follow for fun🏄🏼‍♂️ Follow on insta: @patburgener
     location: "Switzerland"
-    followers: 3617
-    engagement: 831
-    commentsToLikes: 0.017706
+    followers: 6846
+    engagement: 623
+    commentsToLikes: 0.015828
     id: ckc1zex1036x20j23jrzcp8bi
     verified: false
-    hashtags: "#fyp, #skateboarding, #foryoupage, #tagyourfriend"
+    hashtags: "#switzerland, #lanzarote, #2021, #funnyvideos"
+  - username: "andii.schwegler"
+    fullname: >-
+      ANDII🇨🇭SCHWEGLER
+    bio: >-
+      🇨🇭F⃣o⃣l⃣L⃣o⃣w⃣ m⃣e⃣🇨🇭 🇨🇭Gründer von👇🇨🇭 👉#tiktokertriffttiktoker👈
+    location: "Switzerland"
+    followers: 41600
+    engagement: 1388
+    commentsToLikes: 0.153637
+    id: ckbko1hf1i4z90j23lffq1szm
+    verified: false
+    hashtags: "#musiclover, #singer, #schlager, #tiktoktrend"
+  - username: "tom.cruise95"
+    fullname: >-
+      Tom.Cruise95
+    bio: >-
+      #TeamFriends (Joey). acting,Cosplayer,TomCruise🇨🇭🇮🇹
+    location: "Switzerland"
+    followers: 14600
+    engagement: 1027
+    commentsToLikes: 0.078061
+    id: ck9gq522d83wf0j78cji0391z
+    verified: false
+    hashtags: "#comedy, #cosplay, #brucewayne, #dccomics"
   - username: "alexandrepgs"
     fullname: >-
       Alexandre Pgs
     bio: >-
-      En fait TikTok c’est marrant
+      Fun facts, anecdotes, humour ✨ Made in Switzerland🇨🇭 Abonnez-vous ! 🤘🏻
     location: "Switzerland"
-    followers: 13000
-    engagement: 1467
-    commentsToLikes: 0.046378
+    followers: 20500
+    engagement: 1336
+    commentsToLikes: 0.059219
     id: cka0xd2y86jl80i78ngije2bk
     verified: false
-    hashtags: "#suisse, #swiss, #fyp, #tiktok"
+    hashtags: "#swiss, #fy, #viral, #anecdotes"
   - username: "jessicaswissmermaid"
     fullname: >-
       Jess MerDragon 
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.007916
     id: ckai560c2qsh00i78zj88br4g
     verified: false
-    hashtags: "#mermaid, #freediving, #girlswhofreedive, #musicvideo"
-  - username: "conormaynardofficial"
-    fullname: >-
-      Conor Maynard
-    bio: >-
-      DONT WORRY, BE HAPPY Instagram: Conormaynard Snapchat: Conorpmaynard
-    location: "Switzerland"
-    followers: 89500
-    engagement: 1283
-    commentsToLikes: 0.016375
-    id: ck9m4vg4okjr80j78uk7jk1ml
-    verified: false
-    hashtags: "#singing, #love, #like, #fyp"
-  - username: "iam.mister"
-    fullname: >-
-      Ivan Miguel
-    bio: >-
-      follow me for more😉 IG: iam.mister90 YouTube: Mister90 Snapchat: ivan_mi07
-    location: "Switzerland"
-    followers: 2135
-    engagement: 316
-    commentsToLikes: 0.028646
-    id: ckamst30jrpdi0i78bw7cr2lj
-    verified: false
-    hashtags: "#challenge, #game, #brasil, #tv"
+    hashtags: "#switzerland, #freediving, #girlswhofreedive, #fun"
 ---

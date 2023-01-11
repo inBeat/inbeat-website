@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In United Arab Emirates in 2023
+title: Top 10 TikTok Influencers In United Arab Emirates In 2023
 description: >-
-  Find top TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #duet #dubai #foryou.
+  Find top TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #duet #foryou #foryoupage.
 platform: TikTok
-hits: 1150
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 1150 TikTok influencers like this in United Arab Emirates for you to pitch.
+hits: 1173
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform has 1173 TikTok influencers like this in United Arab Emirates for you to work with.
 profiles:
   - username: "farukalam2345"
     fullname: >-
@@ -18,7 +18,43 @@ profiles:
     commentsToLikes: 0.329139
     id: ckbrfuw4hrd2a0j23n8ajem3y
     verified: false
-    hashtags: "#tiktok, #treanding, #trend, #foryou"
+    hashtags: "#tiktok, #treanding, #foryou, #trend"
+  - username: "yeasin_kkc"
+    fullname: >-
+      yeasin arafat hridoy(kkc)
+    bio: >-
+      attitude boy... (kkc) Bad boy...
+    location: "United Arab Emirates"
+    followers: 6505
+    engagement: 5648
+    commentsToLikes: 0.286595
+    id: ckbb1egv2rsc60j23k4h3su0o
+    verified: false
+    hashtags: "#faryoupage, #yeasin, #unfeezmyaccount, #foryou"
+  - username: "robiul_islam_jibon7"
+    fullname: >-
+      robiul- Islam- jibon
+    bio: >-
+      -=আরা চাটগাঁইয়া নওজোয়ান= আবুধাবি প্রবাসী=কিং অফ চাটগাঁইয়া=
+    location: "United Arab Emirates"
+    followers: 8695
+    engagement: 5495
+    commentsToLikes: 0.114355
+    id: ckbesgwi3b9a20j235tp4197f
+    verified: false
+    hashtags: ""
+  - username: "ibrahimkhanibrahi300"
+    fullname: >-
+      Ibrahim Khan Ibrahim🙏🇵🇰
+    bio: >-
+      ⚀▇▇☆●☆▇▇⚀ ⚀ ⚀I LOVE PAKISTAN🇵🇰🤝🇹🇷 ◢◤⛤◥◣ ◥◣⛤◢◤
+    location: "United Arab Emirates"
+    followers: 22300
+    engagement: 5385
+    commentsToLikes: 0.127674
+    id: cka9qhb9582870i787sbff06e
+    verified: false
+    hashtags: "#1mauditionpk, #ftypekid, #stitch, #duet"
   - username: "milubabuskrunal"
     fullname: >-
       Milu’s. 
@@ -26,105 +62,69 @@ profiles:
       #Rockers💪🔥#Entrantes 💪💪Thrissurkaran💪💪 Aug14🎂
     location: "United Arab Emirates"
     followers: 3454
-    engagement: 6153
-    commentsToLikes: 0.383543
+    engagement: 5170
+    commentsToLikes: 0.347989
     id: ckbff5h4m9q2r0j23c6aa2vj4
     verified: false
-    hashtags: "#rockersfamily, #ctts, #rockers, #entrance"
-  - username: "abdulqaiyum90"
+    hashtags: "#atgym, #ka, #malarvadi, #ctts"
+  - username: "ravidevisrilanka"
     fullname: >-
-      Abdul Qaiyum🇦🇪🇧🇩
+      devi
     bio: >-
-      I ♥ my family+myself 🇦🇪🇧🇩🇦🇪🇧🇩🇦🇪🇧🇩🇧🇩🇦🇪🇧🇩🇦🇪🇧🇩🇦🇪🇧🇩
+      SRI LANKA 🇱🇰 COLOMBO 🇱🇰 ABUDHABI 🙋‍♀️🙋‍♀️🙋‍♀️
     location: "United Arab Emirates"
-    followers: 4393
-    engagement: 6000
-    commentsToLikes: 0.148579
-    id: ckbkm0vnkfh1z0j23nyc8pdta
+    followers: 7825
+    engagement: 5147
+    commentsToLikes: 0.353736
+    id: ckb1ayz9jzgr30j23ljm6vk0k
     verified: false
-    hashtags: "#boycott, #unitedarabemirates, #bd, #duet"
-  - username: "mohdirfan4591"
-    fullname: >-
-      Mohd Irfan
-    bio: >-
-      
-    location: "United Arab Emirates"
-    followers: 3164
-    engagement: 5909
-    commentsToLikes: 0.147054
-    id: ckd16p2cbnphf0j23oy5cu4yd
-    verified: false
-    hashtags: "#duet, #saudinationalday90"
-  - username: "ibrahimkhanibrahi300"
-    fullname: >-
-      Ibrahim Khan Ibrahim
-    bio: >-
-      ⚀▇▇☆●☆▇▇⚀ ⚀ ⚀I LOVE PAKISTAN🇵🇰🤝🇧🇩 ◢◤⛤◥◣ ◥◣⛤◢◤
-    location: "United Arab Emirates"
-    followers: 23100
-    engagement: 5654
-    commentsToLikes: 0.059794
-    id: cka9qhb9582870i787sbff06e
-    verified: false
-    hashtags: "#voocitup, #duet, #shapeshift, #imnotamodel"
-  - username: "nivedithasandesh"
-    fullname: >-
-      unicorn🦄🦄
-    bio: >-
-      Wish us on:- Niveditha-Feb5th🎊 Mom:-Feb16th🎂 Dad:-May8th🎉
-    location: "United Arab Emirates"
-    followers: 7176
-    engagement: 5465
-    commentsToLikes: 0.368148
-    id: ckb1b5qotzmr40j239bza9039
-    verified: false
-    hashtags: "#nivedithasandesh"
+    hashtags: "#duet"
   - username: "sharikkhan545"
     fullname: >-
       shariq khan786
     bio: >-
       shariq Khan from India🇮🇳 live in dubai sabhi ka swagat h
     location: "United Arab Emirates"
-    followers: 14000
-    engagement: 5380
-    commentsToLikes: 0.310324
+    followers: 15200
+    engagement: 4960
+    commentsToLikes: 0.370493
     id: ckbertdyzaaxk0j239ld1kwun
     verified: false
-    hashtags: "#khan, #dubai, #duet, #sharik"
-  - username: "abidxb01asharaf"
+    hashtags: "#sharik, #dubai, #khan, #dancewithpubgm"
+  - username: "abin2021abiasharaf"
     fullname: >-
-      AbiN Asharaf
+      Abi Asharaf
     bio: >-
-      അബി അഷറഫ് സ്വദേശം Aluva(Cochin) ജോലി ദുബായ് 🇮🇳🇮🇳🇦🇪🇦🇪💖🐪🐫#KL41 #KL07
+      അബിഅഷറഫ് സ്വദേശംAluva(Cochin) ജോലിDubai🇦🇪🇦🇪🇵🇭🇵🇭🇮🇳🇮🇳💓💞🐫#KL07
     location: "United Arab Emirates"
-    followers: 7692
-    engagement: 5350
-    commentsToLikes: 0.279332
+    followers: 7763
+    engagement: 4821
+    commentsToLikes: 0.277630
     id: ckbkf26kt61fw0j234rtdr5rx
     verified: false
-    hashtags: "#dubaimallu, #video, #philippinestiktok, #and"
-  - username: "ravidevisrilanka"
+    hashtags: "#kl41, #dubai, #and, #feeling"
+  - username: "hardlove90"
     fullname: >-
-      devi
+      Abdul Qaiyum🇦🇪🇧🇩
     bio: >-
-      
+      I ♥ my family+myself 🇦🇪🇧🇩🇦🇪🇧🇩🇦🇪🇧🇩🇧🇩🇦🇪🇧🇩🇦🇪🇧🇩🇦🇪🇧🇩
     location: "United Arab Emirates"
-    followers: 5508
-    engagement: 5145
-    commentsToLikes: 0.308714
-    id: ckb1ayz9jzgr30j23ljm6vk0k
+    followers: 6211
+    engagement: 4817
+    commentsToLikes: 0.264922
+    id: ckbkm0vnkfh1z0j23nyc8pdta
     verified: false
     hashtags: ""
-  - username: "ahmadkhichi60"
+  - username: "kalaiselvankrishnan"
     fullname: >-
-      Malik Ahmed
+      Kalaiselvan Krishnan
     bio: >-
-      Malik Ahmed @60 یہ عشق محبت کچھ بھی نہیں ہوتا صاحب جو شخص آج تیرا ہے کل کسی اور
+      அன்பே மிகச் சிறந்த தர்மம் ! மனசாட்சியே மிகச் சிறந்த வழிகாட்டி .!!
     location: "United Arab Emirates"
-    followers: 13300
-    engagement: 5074
-    commentsToLikes: 0.195244
-    id: ckbw11d99w2qg0j23i1coy5zb
+    followers: 6019
+    engagement: 4625
+    commentsToLikes: 0.338323
+    id: ckb0izh4wa8dw0j23poizho1n
     verified: false
-    hashtags: "#toothbrush, #for, #addisonrae, #ahmed"
+    hashtags: ""
 ---

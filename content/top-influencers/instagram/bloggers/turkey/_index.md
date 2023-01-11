@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Turkey in 2023
+title: Top 10 Bloggers Instagram Influencers In Turkey In 2023
 description: >-
-  Find top bloggers Instagram influencers in Turkey in 2023. Most popular hashtags: #style #smile #gezgin.
+  Find top bloggers Instagram influencers in Turkey in 2023. Most popular hashtags: #travel #karadeniz #turkey #gezgin.
 platform: Instagram
-hits: 746
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 746 Instagram influencers like this in Turkey for you to connect with.
+hits: 676
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 676 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "simlipullu"
+  - username: "tekbasinadaolur"
     fullname: >-
-      Simay Çetinkaya Pullu
+      Gökhan Konaş - Gezgin / Doğa
     bio: >-
-      🌏Traveller | ✍🏼Blogger | 💫Lifestyle 💌 Reklam ve işbirliği için: DM / simaycetinkaya@live.com 📦Makrome satış sayfam: @simlipullu_atelier
+      Hayatın tadını tek başına da çıkarabilenlere ithafen... @beiniztv - DoğadaKal, Blogger, Yol ve Doğa Tutkunu
     location: "Turkey"
-    followers: 12246
-    engagement: 1253
-    commentsToLikes: 0.110168
-    id: ck8t3cgo62qsy0j78b6gwj87u
+    followers: 101192
+    engagement: 341
+    commentsToLikes: 0.019775
+    id: ck0w5jsvb3zjq0i19iggs1ok9
     verified: false
-    hashtags: "#gezilecekyerler, #seyahat, #sonbahar, #kars"
-  - username: "kseopea"
+    hashtags: "#an, #tekba, #yoldaolmak, #aniyakala"
+  - username: "ebygale"
     fullname: >-
-      ✨✨𝙉𝙖𝙩𝙖𝙡𝙮 ✨✨
+      𝔸𝕊𝕃𝕀
     bio: >-
-      ⚜️ I’M NOT A BLOGGER ⚜️ 🗣 РУСС, TÜRKÇE ▪️ L i k e to t r a v e l ▫️ 13 years living in Turkey🇹🇷 ▪️ originally from Ukraine 🇺🇦 📩 I don’t read DM
+      ❤️ Wanderlust ✈️🚌⛴🚃🚗🌍 💬 Psychologist 📝 Blogger 📩 İş birliği için: Mail/DM
     location: "Turkey"
-    followers: 7135
-    engagement: 1906
-    commentsToLikes: 0.093766
-    id: ck6ue72e3p6yt0j71hjt57xyk
+    followers: 4945
+    engagement: 1534
+    commentsToLikes: 0.116887
+    id: ck9wdqfv5gseu0j7884l6c7hr
     verified: false
-    hashtags: ""
-  - username: "thewanderingquinn"
-    fullname: >-
-      Ellie Quinn | Travel Blogger🌏
-    bio: >-
-      Traveller, Blogger & Vlogger📲. 🇬🇧In🇹🇷⁣! 2nd Account ☪️ @_equinn Want to join me in Antarctica next year?⤵️🇦🇶🛳
-    location: "Turkey"
-    followers: 38372
-    engagement: 327
-    commentsToLikes: 0.055894
-    id: ck5q520sxr2ev0i110qsupxvc
-    verified: false
-    hashtags: ""
-  - username: "iskenderyuksell"
-    fullname: >-
-      iskender yüksel
-    bio: >-
-      🐣 content creator for @trendyolcom 💥Zumba Instructor @zumbaisko 📍 Izmir 📷 Freelance photographer @iskoiskoisko #mensfashion #blogger
-    location: "Turkey"
-    followers: 26718
-    engagement: 301
-    commentsToLikes: 0.216198
-    id: ckap1frpquesz0i7871u8eo8u
-    verified: false
-    hashtags: "#menstyle, #hoscos, #mensfashion, #bestcasualoutfit"
-  - username: "sevinckarhan"
-    fullname: >-
-      S.Karhan
-    bio: >-
-      📍Istanbul Fashion - Styling - Blogger Contact: sevinckarhan12@gmail.com Co founder @saintlouiofficial
-    location: "Turkey"
-    followers: 114127
-    engagement: 215
-    commentsToLikes: 0.075238
-    id: ck8t2f8yvz9lw0j78y5wvw5xk
-    verified: false
-    hashtags: "#newwell, #newwellmakeup"
-  - username: "iva_jeremic"
-    fullname: >-
-      • IVA JEREMIĆ •
-    bio: >-
-      🍓 fashion blogger 📸 🍓 born🇷🇸 🍓 high-school 🇺🇸 🍓 bachelor & master 🇪🇸 🍓 ivajeremic96@gmail.com 🍓 @moj_____garderober 🛍
-    location: "Turkey"
-    followers: 77901
-    engagement: 484
-    commentsToLikes: 0.032317
-    id: ck6008cfxd4q40i14u5gp4m6z
-    verified: false
-    hashtags: "#nature, #coffee, #style, #instagram"
+    hashtags: "#bursa, #roamersclub, #munich, #naturephotography"
   - username: "plannedmap"
     fullname: >-
       PlannedMap 🗺✈️🚘🛵
     bio: >-
       🌎Travel Destinations Planner 📝Travel Blogger 📍İstanbul
     location: "Turkey"
-    followers: 13916
-    engagement: 835
-    commentsToLikes: 0.043021
+    followers: 11941
+    engagement: 651
+    commentsToLikes: 0.055070
     id: ckaos2kivpvj50i78qytsxksu
     verified: false
-    hashtags: "#roamersclub, #seyyahikadinlar, #truvaat, #gezginlerbirarada"
-  - username: "talieh_kheradmand"
+    hashtags: "#travel, #tbt, #plannedmap, #plannedmapt"
+  - username: "simlipullu"
     fullname: >-
-      Talieh ☀️
+      Simay Çetinkaya Pullu
     bio: >-
-      Fashion designer ~ Blogger ~ Model ~ Photographer 📍istanbul 🇹🇷 Animal lover 🐾🌱 founder of : @toolooria
+      🌏Traveller | ✍🏼Blogger | 💫Lifestyle 💌 Reklam ve işbirliği için: DM / simaycetinkaya@live.com 📦Makrome satış sayfam: @simlipullu_atelier
     location: "Turkey"
-    followers: 116921
-    engagement: 421
-    commentsToLikes: 0.159837
-    id: ck9wio2ry35n20j7872pc08xd
+    followers: 23717
+    engagement: 526
+    commentsToLikes: 0.276121
+    id: ck8t3cgo62qsy0j78b6gwj87u
     verified: false
-    hashtags: "#model, #style, #istanbul, #smile"
+    hashtags: "#snow, #gezi, #happyme, #gezilecekyerler"
+  - username: "kseopea"
+    fullname: >-
+      ✨✨𝙉𝙖𝙩𝙖𝙡𝙮 ✨✨
+    bio: >-
+      ⚜️ I’M NOT A BLOGGER ⚜️ 🗣 РУСС, TÜRKÇE ▪️ L i k e to t r a v e l ▫️ living in Turkey, Alanya 🇹🇷 ▪️ originally from Ukraine 🇺🇦 📩 I don’t read DM
+    location: "Turkey"
+    followers: 6497
+    engagement: 666
+    commentsToLikes: 0.169922
+    id: ck6ue72e3p6yt0j71hjt57xyk
+    verified: false
+    hashtags: "#brrrrrrrrrrweather, #ootd, #ootdstyle, #ootdbloggers"
   - username: "emel_krca"
     fullname: >-
       Emel Karaca
     bio: >-
-      DİJİTAL İÇERİK ÜRETİCi #lifestyle #blogger🌈 #influencer Güzellik,Sağlık ,Otel ,Mekan ,Yemek Hayata dair 💙 Pr &İletişim 📩emelkaraca74@hotmail.com
+      DİJİTAL İÇERİK ÜRETİCi #lifestyle #blogger🌈 #influencer Güzellik,Sağlık ,Otel ,Mekan ,Yemek Hayata dair 💙 Pr &İletişim 📩 info@p2pmedya.com
     location: "Turkey"
-    followers: 106750
-    engagement: 164
-    commentsToLikes: 0.257033
+    followers: 166787
+    engagement: 120
+    commentsToLikes: 0.358498
     id: ck0vyxdae68xt0i19byal6t28
     verified: false
-    hashtags: "#butikhotel, #fethiye, #travelphotography, #efes"
-  - username: "dilsaterdil"
+    hashtags: "#mutluyumcu, #hayspijama, #mutluyumc, #gu"
+  - username: "thewanderingquinn"
     fullname: >-
-      Dilşat Erdil
+      Ellie Quinn | Travel Blogger🌏
     bio: >-
-      Tv 📺 Entrepreneur ⚡️ Founder of @juitox @nutrinewvitamins 🍋 #beautyqueen #health #fashion and #blogger ✨
+      🌍British Travel Blogger & Tour Organiser 🏴󠁧󠁢󠁷󠁬󠁳󠁿Recently moved to Cardiff, Wales ☪️Became Muslim last year @_equinn ⤵️Tours, Travel Blog & YouTube!
     location: "Turkey"
-    followers: 388088
-    engagement: 122
-    commentsToLikes: 0.892297
-    id: ck5casza9e2jm0i118ulwtevj
+    followers: 41060
+    engagement: 321
+    commentsToLikes: 0.047006
+    id: ck5q520sxr2ev0i110qsupxvc
     verified: false
-    hashtags: "#someofmyfaves, #alsofavquotes, #deepthinking, #mybodyisheremymindisthere"
+    hashtags: "#ad, #nikon, #1650mmvr, #visitwaleslater"
+  - username: "tugbatunckaya"
+    fullname: >-
+      Tuğba Tunçkaya Denizöz
+    bio: >-
+      Lifestyle , Fashion , Beauty , Mom . @tugbatunckaya #blogger #lifestyle #mom #beauty #fashion #food #baby 📩 tunckayatugba@gmail.com
+    location: "Turkey"
+    followers: 304469
+    engagement: 171
+    commentsToLikes: 0.016479
+    id: ck9wonm9e5utz0j785ljj2f08
+    verified: false
+    hashtags: "#look, #ootd, #helpturkey, #me"
+  - username: "paramediccanne"
+    fullname: >-
+      Paramedicanne
+    bio: >-
+      🧚‍♀️influencer🧚‍♀️mom👶blogger 🚑Dont panic l 'am Paramedic🚑112 👨‍👩‍👧 #Bugdayshome 🧚‍♂️ #omrumunyigithankosesi #omrumunyagizhankosesi
+    location: "Turkey"
+    followers: 61246
+    engagement: 131
+    commentsToLikes: 0.058886
+    id: ckap95aavr7i30i78rl8rn0su
+    verified: false
+    hashtags: "#hijab, #anne, #bebek, #annebebek"
+  - username: "makeupbygunesh"
+    fullname: >-
+      G U N E SH   N U R   OFFICIAL
+    bio: >-
+      proffessional celebrity makeup artist, bEauty blogger Assistant:+994552708550 📧gunesqasimova@gmail.com @shopgunesh_nur ｍａｋｅｕｐ ｉｓ ｈａｐｐｉｎｅｓｓ
+    location: "Turkey"
+    followers: 364771
+    engagement: 133
+    commentsToLikes: 0.282425
+    id: ck134t9fzy35m0i19s1gsxkga
+    verified: false
+    hashtags: "#motivescosmetics, #azerbaijan, #fcmakeup, #shophudabeauty"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers in 2023
+title: Top 10 Food Instagram Influencers In 2023
 description: >-
-  Find top food Instagram influencers in 2023. Most popular hashtags: #summervibes #summer #travel #streetstyle.
+  Find top food Instagram influencers in 2023. Most popular hashtags: #easyrecipes #comfortfood #foodie.
 platform: Instagram
-hits: 32335
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 32335 Instagram influencers like this for you to pitch.
+hits: 30653
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 30653 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "voguishdiet"
+  - username: "annierose.nelson"
     fullname: >-
-      Gaby Aleixandre
+      Annie Rose Nelson
     bio: >-
-      Lifestyle Blogger-Foodie 📍Miami, Fl Youtube.com/voguishdiet Contact: info@voguishdiet.com Photos by @legendaryalex
+      NYC | life, wellness, favs, food tiktok @ annierosenelson ✉️ msannierose@gmail.com meal plan below
     location: "United States"
-    followers: 19088
-    engagement: 3184
-    commentsToLikes: 0.066797
-    id: ck5byrr4tppqv0i11vb64i9fk
+    followers: 66355
+    engagement: 699
+    commentsToLikes: 0.006191
+    id: cl0cxzu0qgll50i23a9luo6oi
     verified: false
-    hashtags: "#mysmashbox, #dualipa, #letsgetphysical, #smashboxpartner"
-  - username: "simply_lenny"
+    hashtags: "#workoutroutine, #motivationalquotes, #productive, #healthyliving"
+  - username: "dr.siddhant.bhargava"
     fullname: >-
-      LENNY💋✌🏼
+      Dr. Siddhant Bhargava
     bio: >-
-      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
-    location: "Austria"
-    followers: 2474
-    engagement: 2945
-    commentsToLikes: 0.473416
-    id: ckap52mut9wvu0i78iu0g9589
-    verified: false
-    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
-  - username: "ourpassportstory_"
-    fullname: >-
-      Surbhi & Nehil | Travel Couple
-    bio: >-
-      TRAVEL IN STYLE ❥ #travelcouple made in #dubai Travel | Fashion | Food 📍Dubai 🇦🇪 | India 🇮🇳 🗺 13 countries and counting Chartered Accountants
+      🧑🏻‍⚕️ Fat-Loss Ninja 😎 Avid Entrepreneur 💼 Running @food.darzee 🧑🏻‍💻 Building @feet.wings 🏋🏻‍♂️ Director @jgsfitnesscentre 🎧 Listen to My Podcast👇🏻
     location: "India"
-    followers: 5684
-    engagement: 2271
-    commentsToLikes: 0.093308
-    id: ck6tyeona3a9p0j71yjimujwa
+    followers: 551128
+    engagement: 533
+    commentsToLikes: 0.006750
+    id: ck0tvkw48btab0i19fj0y5qew
     verified: false
-    hashtags: "#dubaibloggers, #dubai, #traveldeeper, #travelcouples"
-  - username: "miss_tet"
+    hashtags: "#ad, #drsidsays, #drsid, #doctor"
+  - username: "lahbco"
     fullname: >-
-      Teresa Lemos
+      Nasim Lahbichi
     bio: >-
-      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
-    location: "Portugal"
-    followers: 27624
-    engagement: 2192
-    commentsToLikes: 0.114470
-    id: ck55oexap88090i11kxq4k55q
-    verified: false
-    hashtags: "#sunnyday, #summer, #smile, #alegria"
-  - username: "i_am_birebaumli"
-    fullname: >-
-      
-    bio: >-
-      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts & fitness, photography, nature, lostplaces, healthy v. food
-    location: "Switzerland"
-    followers: 5800
-    engagement: 2017
-    commentsToLikes: 0.118826
-    id: ck13d3pg53irf0i190hd1hu57
-    verified: false
-    hashtags: "#italianmodel, #swissphotographer, #bodylanguage, #uster"
-  - username: "chantelle_lois"
-    fullname: >-
-      Chantelle
-    bio: >-
-      Mum & Wife, just tryna live a good life ✨ Collabs: chantellelois@aol.com 💌 Owner of @blondiebrowniebakes 🧁 Food @foodiechants 🍱
-    location: "United Kingdom"
-    followers: 10982
-    engagement: 1786
-    commentsToLikes: 0.146437
-    id: ckaoygg8hhf6d0i78dljo7pku
-    verified: false
-    hashtags: "#babygirl, #mumbloggeruk, #babiesofig, #lifewithlittles"
-  - username: "dannyandthemachine"
-    fullname: >-
-      Danny is me.
-    bio: >-
-      California | Fashionista | Traveler | RD | LDR | Photographer | Foodie | Upper Echelon | The trick is to keep breathing.
+      🍋 if i’m not crying about a boy, i’m making food… hbu? 📲More recipes on TT {525k✨} be kind, inspire, and love
     location: "United States"
-    followers: 5787
-    engagement: 1593
-    commentsToLikes: 0.149568
-    id: ck14jkkaskswt0i1997mfvbww
+    followers: 344422
+    engagement: 588
+    commentsToLikes: 0.010580
+    id: ckybzmgh5ntya0j23kj9umtzq
     verified: false
-    hashtags: "#instatravel, #summervibes, #potd, #ad"
-  - username: "joanna.walkow"
+    hashtags: "#easyveganrecipes, #comfortfood, #holidayrecipes, #plantbasedrecipes"
+  - username: "lifewithashleyann"
     fullname: >-
-      Joanna 🌸
+      ashley || chicago creator
     bio: >-
-      💌 e-mail: joannawalkow@icloud.com 💕 #fashion | #lifestyle | #travel ✨ #food | #cosmetics | #interiors 🇵🇱 Poland, Opole Wyprzedaż 👇🏼
-    location: "Poland"
-    followers: 5977
-    engagement: 1547
-    commentsToLikes: 0.093577
-    id: ck9wekanbknaa0j7834my2xx2
+      ✨mom life around chicagoland + beyond • food to eat, places to go, what to wear • ✨lunch packing + recipe reels⬇️ 💌contactlifewithashleyann@gmail.com
+    location: "United States"
+    followers: 36554
+    engagement: 3783
+    commentsToLikes: -0.449386
+    id: cl7i0lxqdtv2n0i23c3joq3hq
     verified: false
-    hashtags: "#stylizacja, #sukienka, #autumnvibes, #beigeoutfit"
-  - username: "mrs.rudenko_"
+    hashtags: "#luncheazepartner, #christmaspopup, #chicagopopup, #chicagobar"
+  - username: "rosalielessard_"
     fullname: >-
-      Даша 🤍СЕМЬЯ РЕЦЕПТЫ
+      Rosalie Lessard
     bio: >-
-      Founder of @4_baby.by Зажигай своим примером🌿 Много еды в сториз Вкусно #rudenko_food ОСТОРОЖНО! Здесь уютно Сотрудничество @rudenko.pr_
-    location: "Russia"
-    followers: 27721
-    engagement: 1464
-    commentsToLikes: 0.068977
-    id: ckaot16p9twx30i78hxomm0lt
+      Youtubeuse 🍲 Foodie 📍Mtl Qc info@rosalielessard.com📥
+    location: "Canada"
+    followers: 171386
+    engagement: 456
+    commentsToLikes: 0.007290
+    id: ck5zm1mj1lqlu0i14lqhaw6b4
     verified: false
-    hashtags: "#rudenko"
-  - username: "thedollzter"
+    hashtags: "#cocoabutter, #bodycare, #147, #toujourslapourvous"
+  - username: "sarahfranssen"
     fullname: >-
-      دُلي ديب | Dolly Dib
+      Food I Fashion I Bride to be🌸
     bio: >-
-      I love traveling and food, but who doesn'🤷‍♀️ ‎⬇️✈️ اقرأوا مدونة الأكواخ الخشبية هون
+      📚 3 Kochbücher "Fit ohne Verzicht" 💍 Bride to be @henri_cl ☀️ Sunlover 🤸🏼‍♀️ Turnen 🌸 Team @foodistofficial (S10F)
     location: "Germany"
-    followers: 12148
-    engagement: 1434
-    commentsToLikes: 0.182792
-    id: ck5camk5kdozz0i11o587u5hv
+    followers: 249161
+    engagement: 525
+    commentsToLikes: 0.108408
+    id: ck0u9thrkan090i1950jkyrvl
     verified: false
-    hashtags: "#tagjordan, #amman, #visitjordan, #sheisnotlost"
+    hashtags: "#hochzeit, #foodreel, #wedding, #verlobung"
+  - username: "upbeetanisha"
+    fullname: >-
+      Anisha
+    bio: >-
+      simple plant-based food ✌🏽🌎 newsletter (spice club!) and recipes:
+    location: "United States"
+    followers: 45589
+    engagement: 1118
+    commentsToLikes: 0.087525
+    id: ckmxacukh9l700j23bwnvptt3
+    verified: false
+    hashtags: "#plantbased, #indianstreetfood, #indianfood, #eatplants"
+  - username: "sanjyotkeer"
+    fullname: >-
+      Sanjyot Keer
+    bio: >-
+      Founder @yourfoodlab, Chef by profession & content creator by destiny, bringing smiles through food videos online. 📧: sanjyotkeer@yourfoodlab.com
+    location: "United States"
+    followers: 177823
+    engagement: 885
+    commentsToLikes: 0.009212
+    id: ck0vxpugk048s0i19z0hyzvh2
+    verified: true
+    hashtags: "#indiancuisine, #sanjyotkeer, #foodporn, #indianfood"
+  - username: "sabrazaraa"
+    fullname: >-
+      Seattle Lifestyle & Travel | PharmD, MPH, PhC
+    bio: >-
+      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
+    location: "United States"
+    followers: 77441
+    engagement: 726
+    commentsToLikes: 0.023415
+    id: ck14lbl7wtu3i0i191qq4vdxr
+    verified: false
+    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
+  - username: "saengdouangdara"
+    fullname: >-
+      Saeng Douangdara
+    bio: >-
+      🏳️‍🌈🇱🇦🇺🇸 Lao Food Instructor | Storyteller | Food Writer | Personal Chef #notlarb #laohot #eatmorelaofood Hey Lao food besties, Recipes & More ⬇️
+    location: "United States"
+    followers: 93166
+    engagement: 953
+    commentsToLikes: 0.022262
+    id: ck0uacwyhby6l0i19tabj3qsc
+    verified: false
+    hashtags: "#asianfood, #laos, #noodles, #foodie"
 ---

@@ -1,24 +1,48 @@
 ---
-title: Top 10 TikTok Influencers In South Korea in 2023
+title: Top 10 TikTok Influencers In South Korea In 2023
 description: >-
-  Find top TikTok influencers in South Korea in 2023. Most popular hashtags: #cambodia #fyp #12345678910.
+  Find top TikTok influencers in South Korea in 2023. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
-hits: 846
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 846 TikTok influencers like this in South Korea for you to contact.
+hits: 867
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 867 TikTok influencers like this in South Korea for you to pitch.
 profiles:
-  - username: "pusith14"
+  - username: "mcndofficial_"
     fullname: >-
-      🇰🇭PU’SITH~🇰🇷💜
+      MCND_official
     bio: >-
-      Name SITH❤️TikTokថ្មីFollows1ខ្ញុំជាមនុស្សមិនចេះរឹកទេ FB Pī Sīth🇰🇭អ្នកតាកែវទេ
+      MCND OFFICIAL TikTok ACCOUNT
     location: "South Korea"
-    followers: 18500
-    engagement: 3492
-    commentsToLikes: 0.290897
-    id: ckc3eaflxzsa20j238ufuztwm
-    verified: false
-    hashtags: "#duet, #capcut, #pubgmobile, #12345678910"
+    followers: 1300000
+    engagement: 2647
+    commentsToLikes: 0.029859
+    id: ck9ep25n6qqjc0j789srev0zl
+    verified: true
+    hashtags: "#mcnd, #dynamite, #dance, #huijun"
+  - username: "johnstankazue"
+    fullname: >-
+      kazueeee
+    bio: >-
+      🇸🇬 Kpop/ Cosplay Cat dad 🐱 Makeup 💄 📩 : kazueeee@hotmail.com
+    location: "South Korea"
+    followers: 307300
+    engagement: 1842
+    commentsToLikes: 0.083187
+    id: ckbqhmuz82z4f0j23bxtmwmta
+    verified: true
+    hashtags: "#foryou, #fyp, #vlive, #kpopmakeup"
+  - username: "target_official"
+    fullname: >-
+      TARGET 타겟
+    bio: >-
+      지아이 gi_6to5 제스 target__zethh 로이 trgt_roi 현 son_min_hyun_ 바운 imbo_un 우진 wooji_nii
+    location: "South Korea"
+    followers: 2000000
+    engagement: 3277
+    commentsToLikes: 0.065804
+    id: ck8kghuwiij5r0j78jjh959f6
+    verified: true
+    hashtags: "#zeth, #target, #fyp, #dance"
   - username: "user504tot3y7e1"
     fullname: >-
       👑ENG RAMl👑
@@ -30,103 +54,79 @@ profiles:
     commentsToLikes: 0.101080
     id: ckd6x5s09tp1t0j23193kzxlo
     verified: false
-    hashtags: "#10, #12345678910, #kookie, #sa"
+    hashtags: "#kookie, #sa, #12345678910, #10"
+  - username: "parkchollang"
+    fullname: >-
+      𝐩𝐚𝐫𝐤𝐜𝐡𝐨𝐥𝐥𝐚𝐧𝐠☾
+    bio: >-
+      #eunrangღ #Hand dance🇰🇷 ❦👋hi✮ 맞팔❌메세지❌ korea😅
+    location: "South Korea"
+    followers: 88800
+    engagement: 2774
+    commentsToLikes: 0.206825
+    id: ck933p0ulp1090j78coytzhps
+    verified: false
+    hashtags: "#foryou, #parkchollang, #eunrang, #fyp"
+  - username: "monsta_x_514"
+    fullname: >-
+      몬스타엑스_MONSTA X
+    bio: >-
+      몬스타엑스 공식 틱톡 / MONSTA X Official Tik Tok
+    location: "South Korea"
+    followers: 1800000
+    engagement: 2762
+    commentsToLikes: 0.018969
+    id: ck9adrfnpyj020j78a43avi7p
+    verified: true
+    hashtags: "#shownu, #monsta, #tiktok, #one"
   - username: "txt.bighitent"
     fullname: >-
       TOMORROW X TOGETHER
     bio: >-
-      투모로우바이투게더 공식 틱톡입니다. This is the official TikTok for TXT
+      투모로우바이투게더 공식 틱톡입니다 This is the official TikTok for TXT The Chaos Chapter: FREEZE
     location: "South Korea"
-    followers: 6500000
-    engagement: 2745
-    commentsToLikes: 0.038597
+    followers: 10800000
+    engagement: 2736
+    commentsToLikes: 0.027461
     id: ck9ep9bfbrml20j7803j9wl4z
     verified: true
-    hashtags: "#txt, #txtmoa, #tomorrow, #bluehour"
+    hashtags: "#duet, #magic, #soobin, #hueningkai"
+  - username: "pusith14"
+    fullname: >-
+      🇰🇭(IG).SITH💔🇰🇷
+    bio: >-
+      SITH❤️ខ្ញុំជាមនុស្សដែលអន់😪 🇰🇷🇰🇭អ្នកតាកែវទេ.FB Pī Sīth👉id PUBG_5340511222
+    location: "South Korea"
+    followers: 24000
+    engagement: 2557
+    commentsToLikes: 0.225799
+    id: ckc3eaflxzsa20j238ufuztwm
+    verified: false
+    hashtags: "#duet, #stitch, #arsenal, #pubgmobile"
   - username: "userdajn6356em"
     fullname: >-
       김민지🇰🇷/គីមមីនជី🇰🇭
     bio: >-
       ជំរាបសួរ សួស្តី រីករាយដែលបានស្គាល់❤️🇰🇷🤝🇰🇭❤️
     location: "South Korea"
-    followers: 107200
-    engagement: 2571
-    commentsToLikes: 0.087217
+    followers: 107000
+    engagement: 2541
+    commentsToLikes: 0.083321
     id: ckblm7ltmehux0j230u3ul6lk
     verified: false
     hashtags: ""
-  - username: "31652781601www.tiktok.co"
+  - username: "ni_aemi"
     fullname: >-
-      🐲Bro❤️️ Hong🐲
+      너애겨땀을모아밥말아먹을꺼야
     bio: >-
-      ស្នេហាជាអ្វីហេតុអីក៏ឈឺចាប់ខ្លាំងយ៉ាងនេះ🖤🖤🖤😔😔🔐🔐
+      
     location: "South Korea"
-    followers: 317600
-    engagement: 2417
-    commentsToLikes: 0.062875
-    id: ckc3e93jkzq910j23p0hmkr4x
+    followers: 167600
+    engagement: 2433
+    commentsToLikes: 0.048418
+    id: ckd6nqg5gi5gi0j23l1p965jn
     verified: false
-    hashtags: ""
-  - username: "jisun_020926"
-    fullname: >-
-      양지선
-    bio: >-
-      🇰🇷 02 여자 (방탄계, 얼굴계) 유튭: 양지선, 트로트가수채널 #사춘기 #옛날갬성
-    location: "South Korea"
-    followers: 295000
-    engagement: 2300
-    commentsToLikes: 0.032050
-    id: ckbkeu38e5rcj0j238rwmisk0
-    verified: false
-    hashtags: "#02, #on"
-  - username: "been3008"
-    fullname: >-
-      🇰🇭Oppa Been(ប្រុសបុីន)🕸🇰🇷
-    bio: >-
-      𝐅𝐁: BE EN 👉🏻 មិនចេះរឹកទេ😘 👉🏻អរគុណដែលស្រលាញ់ចូលចិត្តខ្ញុំ💙🙏fan black 🖤
-    location: "South Korea"
-    followers: 124000
-    engagement: 2295
-    commentsToLikes: 0.157658
-    id: ckbb44y0juf4y0j23pta9825v
-    verified: false
-    hashtags: "#foryoupage, #fyp, #cambodia, #khmertiktok"
-  - username: "konpov010"
-    fullname: >-
-      @កូន ពៅ💕🇰🇭
-    bio: >-
-      (ស្រលាញ់អ្នកឲ្យ❤️នឹងfollow ពេញ❤️❤️❤️)Fb: កូន ពៅ
-    location: "South Korea"
-    followers: 17300
-    engagement: 2263
-    commentsToLikes: 0.104921
-    id: ckc3f17wy0yib0j23omoxlgh2
-    verified: false
-    hashtags: "#duet, #facezooming, #capcut"
-  - username: "florist_isaac"
-    fullname: >-
-      Flowerboy Isaac
-    bio: >-
-      Welcome. This is your Wonderland🦋 CEO of 💐🌷🌹
-    location: "South Korea"
-    followers: 793600
-    engagement: 2262
-    commentsToLikes: 0.021128
-    id: ck8rqua7zrolj0j78s2wian86
-    verified: false
-    hashtags: "#tlog, #nct, #twice, #twiceicantstopme"
-  - username: "na_pnak"
-    fullname: >-
-      ណា ភីណាក់❤️🇰🇭
-    bio: >-
-      អរគុណណាស់សម្រាប់ការចូលចិត្ត❤️😍😜 FB: ណា ភីណាក់🇰🇭 IG : Na_pnak
-    location: "South Korea"
-    followers: 493300
-    engagement: 2121
-    commentsToLikes: 0.073353
-    id: ckdclumkto1ld0j239idal0pd
-    verified: false
-    hashtags: "#cambodia, #tiktokcambodia, #na, #khmer"
+    hashtags: "#bts, #fyp, #jimin, #rm"
 cities:
   - name: Seoul
     link: /tiktok/south-korea/seoul

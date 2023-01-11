@@ -1,130 +1,130 @@
 ---
-title: Top 10 Zen Meditation TikTok Influencers in 2023
+title: Top 10 Zen Meditation TikTok Influencers In 2023
 description: >-
-  Find top zen meditation TikTok influencers in 2023. Most popular hashtags: #meditation #spirituality #duet #spiritualawakening.
+  Find top zen meditation TikTok influencers in 2023. Most popular hashtags: #fyp #meditation #crystals #yoga.
 platform: TikTok
-hits: 586
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 586 TikTok influencers like this for you to connect with.
+hits: 726
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 726 TikTok influencers like this for you to pitch.
 profiles:
-  - username: "tinaisahippie"
-    fullname: >-
-      Christina Pine
-    bio: >-
-      mindfulness, meditation, good vibes ✨🏳️‍🌈🕉️🌱🎶✌️💛
-    location: "United Kingdom"
-    followers: 7086
-    engagement: 1670
-    commentsToLikes: 0.083472
-    id: ckbb8spy7xy630j23nu3cu987
-    verified: false
-    hashtags: "#love, #peace, #mindfulness, #hippietiktok"
   - username: "hanholla"
     fullname: >-
       Hannah Holladay
     bio: >-
-      Guided Meditations, Podcast, Energy / Sound Healing, 1 on 1 Sessions👇🏼👇🏼👇🏼
+      Here to help you awaken your unique power💫 Energy Healing & Meditations👇🏼
     location: "United States"
-    followers: 56900
-    engagement: 1398
-    commentsToLikes: 0.047876
+    followers: 62000
+    engagement: 1602
+    commentsToLikes: 0.095547
     id: ck9gkw253lhcf0j7847ogu37g
     verified: false
-    hashtags: "#ageofaquarius, #higherconsciousness, #egodeath, #guidedmeditations"
+    hashtags: "#spiritualtok, #shadowwork, #awakening, #energyupdate"
   - username: "luna.ase"
     fullname: >-
       Luna
     bio: >-
-      Fun & Spiritual shit. 🎙♏️ 🔮👁 Live Meditation Every Tuesday at 10am PST
+      Fun & Spiritual shit. 🎙♏️ 🔮👁 Live Meditation Every Tuesday at 10am
     location: "United States"
-    followers: 89500
-    engagement: 1228
-    commentsToLikes: 0.048052
+    followers: 93700
+    engagement: 959
+    commentsToLikes: 0.073127
     id: cka9m5z4d41zu0i78197fw51f
     verified: false
-    hashtags: "#funnyspirituality, #consciousness, #duet, #reiki"
-  - username: "mysticspiderman"
+    hashtags: "#noesmipedo, #peace, #consciousness, #crystals"
+  - username: "mari_doll24"
     fullname: >-
-      MysticSpiderman
+      A
     bio: >-
-      ☯️ TEAM MEDITATIONS MON&FRI 10AM EST YT, PODCAST, TEAM CHAT PATREON, SHOP ⬇️
-    location: "Canada"
-    followers: 57600
-    engagement: 1065
-    commentsToLikes: 0.141228
-    id: ckcem4h9xw94b0j23gtaudcft
+      Just a girl who loves marvel, meditation, and manifestation ✨🦋🧿 444
+    location: "United States"
+    followers: 69200
+    engagement: 1739
+    commentsToLikes: 0.042810
+    id: ckbl1b8q3y5e70j23oxdh19iz
     verified: false
-    hashtags: "#meditation, #starseed, #halloween, #manifestation"
-  - username: "gabrighezzi"
+    hashtags: "#witchtok, #fyp, #marvel, #motivation"
+  - username: "mamasolaris"
     fullname: >-
-      Meditazione
+      Sia Natara
     bio: >-
-      Scrivimi su Instagram ☝🏽 per coaching ⠀ Meditation Life Coach 🧘🏽‍♂️ ⠀
-    location: "Italy"
-    followers: 47900
-    engagement: 1076
-    commentsToLikes: 0.044089
-    id: ck8to6wb0lizs0j78fg5ze89e
+      Yoga & Meditation Teacher she/her 🏳️‍🌈
+    location: "United States"
+    followers: 221700
+    engagement: 1620
+    commentsToLikes: 0.029132
+    id: ckbb6hrk5wlro0j231r61ifnl
     verified: false
-    hashtags: "#risvegliospirituale, #meditazione, #paceinteriore, #crescitainteriore"
+    hashtags: "#bigchop, #astrology, #locs, #healing"
+  - username: "yogi_bryan"
+    fullname: >-
+      Yogi Bryan
+    bio: >-
+      🌟 Meditation, Yoga, and Comedy 🌟
+    location: "United States"
+    followers: 36000
+    engagement: 1219
+    commentsToLikes: 0.052850
+    id: cka0zzn44hon50i7827tgar4a
+    verified: false
+    hashtags: "#meditation, #affirmations2021, #ifeelweightless, #yogaflow"
   - username: "shakti_sita_"
     fullname: >-
       SHAKTI SITA
     bio: >-
-      Creator @the_pallas Kundalini Yoga & Meditation Studio ⇩ BOOK A VIRTUAL CLASS ⇩
+      Creator @the_pallas Kundalini Yoga & Meditation ⇩ Sedona, Arizona Retreats
     location: "United States"
-    followers: 9103
-    engagement: 1017
-    commentsToLikes: 0.052641
+    followers: 9010
+    engagement: 1004
+    commentsToLikes: 0.049713
     id: cka0nhzdgzsr50i78joqxmg4n
     verified: false
-    hashtags: "#kundalini, #spirituality, #witchtok, #meditation"
-  - username: "deepsleepapp"
+    hashtags: "#psychic, #spiritual, #meditation, #breathe"
+  - username: "gabrighezzi"
     fullname: >-
-      Deep Sleep ASMR
+      Meditazione - Spiritualità
     bio: >-
-      Sleep-Aid App ASMR / White Noise / Meditation ⬇️Download⬇️
-    location: "United States"
-    followers: 317200
-    engagement: 955
-    commentsToLikes: 0.024883
-    id: ckcoopemp6oak0j23nospkjwq
-    verified: true
-    hashtags: "#ocdproblems, #metime, #oddlysatisfying, #deepsleep"
-  - username: "iamsahararose"
-    fullname: >-
-      Sahara Rose
-    bio: >-
-      Follow 4 FUN Spirituality 🎤:Highest Self Podcast Free Goddess Meditation👇🏽
-    location: "United States"
-    followers: 51200
-    engagement: 1119
-    commentsToLikes: 0.026795
-    id: cka8ihrr9ficg0i78mgihznu7
-    verified: true
-    hashtags: "#purpose, #divinefeminine, #manifestation, #goddess"
-  - username: "coachtorigordon"
-    fullname: >-
-      Tori Gordon
-    bio: >-
-      LIFE ARCHITECT CEO of Coachable Grab Free Meditations & Downloads👇🏼
-    location: "United States"
-    followers: 391500
-    engagement: 888
-    commentsToLikes: 0.018848
-    id: ckbfbrc7142ci0j23piy7i72w
-    verified: true
-    hashtags: "#loveyourself, #datingtips, #marriagegoals, #spiritualawakening"
+      Meditation Life Coach 👆🏽IG ⠀ Ti aiuto a coltivare pace interiore 🧘🏽‍♂️
+    location: "Italy"
+    followers: 57900
+    engagement: 1169
+    commentsToLikes: 0.033444
+    id: ck8to6wb0lizs0j78fg5ze89e
+    verified: false
+    hashtags: "#gentilezza, #saggezza, #crescitapersonale, #crescitaspirituale"
   - username: "alomoves"
     fullname: >-
       Alo Moves
     bio: >-
       Yoga, Fitness, & Meditation ✨ Inspiring people to #MoveTogether
     location: "United States"
-    followers: 2958
-    engagement: 512
-    commentsToLikes: 0.029893
+    followers: 5873
+    engagement: 464
+    commentsToLikes: 0.065799
     id: ckb1bcxtnzwin0j233usebfip
     verified: true
-    hashtags: "#meditation, #movetogether, #yoga, #pnw"
+    hashtags: "#meditation, #tiktokfitness, #fitness, #movetogether"
+  - username: "mindfullymadds"
+    fullname: >-
+      madison
+    bio: >-
+      🌿 21 🌿 🌜 spiritual 🌜 🔮 powered by crystals, meditation, and good vibes 🔮
+    location: "United States"
+    followers: 3916
+    engagement: 1953
+    commentsToLikes: 0.032251
+    id: cka0rffphgrd40i78knq25biq
+    verified: false
+    hashtags: "#foryoupage, #intuition, #metaphysical, #selenite"
+  - username: "wesleywebbers"
+    fullname: >-
+      Wesdo Satori Dojo 
+    bio: >-
+      Wesdo Satori Dojo, Martial Arts, Art of Living, Mindfull & Meditation Teacher. 
+    location: "Netherlands"
+    followers: 18000
+    engagement: 285
+    commentsToLikes: 0.137201
+    id: ckbqfcaof0zli0j2302e3nvpy
+    verified: false
+    hashtags: "#fruit, #viral, #fast, #funny"
 ---

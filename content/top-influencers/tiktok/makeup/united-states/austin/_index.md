@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Austin in 2023
+title: Top 10 Makeup TikTok Influencers In Austin In 2023
 description: >-
-  Find top makeup TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #makeup #foryoupage #foryou.
+  Find top makeup TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #foryou #makeup #greenscreen.
 platform: TikTok
-hits: 127
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our platform has 127 TikTok influencers like this in Austin, United States for you to work with.
+hits: 124
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 124 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "hannahstiktokaccount"
+  - username: "xo.dejamarie"
     fullname: >-
-      Hannah
+      déja
     bio: >-
-      venmo: @hannahcat8 for the cowch funds🐮 BLM Insta/YT: @hannahcat0
+      lmao
     location: "United States"
-    followers: 50000
-    engagement: 1670
-    commentsToLikes: 0.027219
-    id: ck8semkkokbvp0j7810xo27m9
+    followers: 2574
+    engagement: 1900
+    commentsToLikes: 0.010487
+    id: ckbw7oucwyy9f0j23bzbrqgu0
     verified: false
-    hashtags: "#halloween, #fyp, #wewintogether, #halloweencostume"
-  - username: "westcoast_kassy"
+    hashtags: "#neverfitin, #teenwolf, #greenscreen, #codychristianedit"
+  - username: "therealtarnanlamb"
     fullname: >-
-      westcoast_kassy
+      taryn lamb
     bio: >-
-      Artist✨ Website👇🏼 https://kassandragarcia999.wixsite.com/website
+      a series of major social media faux pas insta: taryn_lamb
     location: "United States"
-    followers: 48300
-    engagement: 1356
-    commentsToLikes: 0.011916
-    id: ck8s6jorlktw90j78uxxlkw0u
+    followers: 49800
+    engagement: 490
+    commentsToLikes: 0.092546
+    id: ck83z8ucfyq3j0j78p94ss0nz
     verified: false
-    hashtags: "#fyp, #howto, #tiktokartist, #resin"
-  - username: "monitoocrazy"
+    hashtags: "#fyp, #greenscreen, #throwback, #film"
+  - username: "jenn_chaa"
     fullname: >-
-      Monica💗
+      Jennifer Chavez
     bio: >-
-      CEO of Ayyyyyy and Marisaaaaa!✨ Mexican American 🇲🇽 Insta: Monitoocrazy Dtx🤠
+      Instagram @jennchaa.art
     location: "United States"
-    followers: 635300
-    engagement: 2370
-    commentsToLikes: 0.011225
-    id: ck8qkrfnqiiy90j786q2x1eh7
+    followers: 6951
+    engagement: 1276
+    commentsToLikes: 0.094173
+    id: ck9116jnmkkyj0j78fwbjd80m
     verified: false
-    hashtags: "#candy, #snack, #foryou, #mexican"
-  - username: "nitabita94"
+    hashtags: "#art, #drawing, #fyp, #funny"
+  - username: "._peachy.grwm_routines"
     fullname: >-
-      Nitabita94
+      ✰✰
     bio: >-
-      Beauty is in the eye of the beholder IG: Nitabita94 💕
+      ✰✰ Routines - GRWM 💕😘💕 Started 1/4 Yes, Austin moon is my profile😁🙈
     location: "United States"
-    followers: 14300
-    engagement: 1842
-    commentsToLikes: 0.017892
-    id: ck9nidra1gs5k0j78szeq55bh
+    followers: 2861
+    engagement: 2231
+    commentsToLikes: 0.071761
+    id: ckbfbr1b640um0j235q714xa1
     verified: false
-    hashtags: "#fyp, #60s, #hairtutorial, #hair"
-  - username: "ashhthedancerrr"
+    hashtags: "#grwm, #foryoupage, #fyp, #foryou"
+  - username: "kylieehernandez"
     fullname: >-
-      ✨🌴ASHLEY 🌴✨
+      ky
     bio: >-
-      💘Austin James 💘 venmo: ashleyy-Francis P.O BOX 678840 Orlando FL 32867
+      i kinda sing? 17 • austin, tx 🤍 follow me on insta!!
     location: "United States"
-    followers: 22800
-    engagement: 1334
-    commentsToLikes: 0.063106
-    id: ckcczrr2wz5fy0j23q752udsy
+    followers: 38700
+    engagement: 2083
+    commentsToLikes: 0.055528
+    id: ck8qj4ulbbvom0j78vlg0prgr
     verified: false
-    hashtags: "#wewintogether, #militarygf, #unwrapthedeals, #disneyworld"
-  - username: "josigreen"
+    hashtags: "#cover, #singing, #duet, #fyp"
+  - username: "austinweberr"
     fullname: >-
-      Josi Green
+      austin weber
     bio: >-
-      Any pronouns are fine Links in bio❤️ P.O.Box 170046 Austin Tx 78717 Engaged💍
+      Instagram - austinnweberr
     location: "United States"
-    followers: 517100
-    engagement: 1824
-    commentsToLikes: 0.015882
-    id: ck8kkd50eyqg10j78rn266xx2
+    followers: 255000
+    engagement: 2417
+    commentsToLikes: 0.010604
+    id: ckavhkydfpetv0j23v39benq4
     verified: false
-    hashtags: "#pastelgoth, #bobsburgers, #trending, #duet"
+    hashtags: "#natal, #natalchart, #algorithm, #asmr"
   - username: "sassystephxoxo"
     fullname: >-
       sassystephxoxo
     bio: >-
-      Polyamorous ❤ Bisexual ❤ Hair and makeup artist ❤ Fur Mama
+      ⚠️18+ Only ⚠️ Polyamorous ❤ Bisexual ❤ Hair and makeup artist ❤ Fur Mama
     location: "United States"
-    followers: 52300
-    engagement: 603
-    commentsToLikes: 0.020029
+    followers: 58100
+    engagement: 655
+    commentsToLikes: 0.046057
     id: ckc7pccfpv2a90j233pfhd47e
     verified: false
-    hashtags: "#ethicalnonmonagomy, #polyamory, #adult, #duet"
-  - username: "amykristine27"
+    hashtags: "#bisexual, #texassnowstorm2021, #loveislove, #polyamorous"
+  - username: "its.jeannine"
     fullname: >-
-      AmyKristine
+      Nene
     bio: >-
-      Austin, Texas 🤘🏼🖤 📧 amyfaubion@icloud.com
+      22 | Austin, Tx📍 Owner of Nine Collections✨ IG: jeanninereyna
     location: "United States"
-    followers: 13100
-    engagement: 621
-    commentsToLikes: 0.051960
-    id: ck9k2n6dll0e40j78ez8l5xog
+    followers: 22200
+    engagement: 1525
+    commentsToLikes: 0.034560
+    id: ckbkx2gdesyfq0j23x5ypx5ig
     verified: false
-    hashtags: "#horrortok, #texas, #halloween, #winter"
-  - username: "kendallwannabejenner"
+    hashtags: "#feliznavidad, #trending, #fyp, #friends"
+  - username: "chocolateismyvice"
     fullname: >-
-      Kendall
+      Alisha Revel
     bio: >-
-      23, Austin, Tx Idk, it’s just me.... cheers!! Instagram - kendallegray
+      Funny little weirdo from Austin, TX. You should be watching my IG stories
     location: "United States"
-    followers: 2818
-    engagement: 246
-    commentsToLikes: 0.046670
-    id: ckcvjxpt3xjub0j2362mhqpen
+    followers: 240300
+    engagement: 837
+    commentsToLikes: 0.018971
+    id: ckdn7tef0f6420j23s1bi6j11
     verified: false
-    hashtags: "#boredathome, #xyzbca, #foryoupage, #viral"
-  - username: "abbywrenartistry"
+    hashtags: "#fy, #foryou, #lolll, #fyp"
+  - username: "mr___fabulous"
     fullname: >-
-      abbywrenartistry
+      MRFABULOUS
     bio: >-
-      Pro Makeup Artist + Digital Creator 💥 Alopecia Baldy 👽
+      I CREATE MAKEUP TUTORIALS. IG: @mr.fabulous 📍Houston,TX
     location: "United States"
-    followers: 103700
-    engagement: 1666
-    commentsToLikes: 0.020575
-    id: ckbbodup4ccqh0j23iutrhgc8
+    followers: 6439
+    engagement: 1226
+    commentsToLikes: 0.042562
+    id: ck9kbo92um0d30j78ncc6kmd5
     verified: false
-    hashtags: "#halloween2020, #halloweenmakeup, #ghostmode, #halloweenideas"
+    hashtags: "#louisvuitton, #fyp, #makeup, #fembot"
 ---

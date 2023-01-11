@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Austin in 2023
+title: Top 10 Nutrition Instagram Influencers In Austin In 2023
 description: >-
-  Find top nutrition Instagram influencers in Austin in 2023. Most popular hashtags: #healthylifestyle #nutrition #austintexas.
+  Find top nutrition Instagram influencers in Austin in 2023. Most popular hashtags: #healthylifestyle #healthyfood #healthyliving.
 platform: Instagram
-hits: 31
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 31 Instagram influencers like this in Austin, United States for you to collaborate.
+hits: 41
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 41 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "minithunderbird"
     fullname: >-
-      Christine
+      Christine Adams
     bio: >-
-      ☽ Fitness • Health • Lifestyle ☽ Nutrition @austinadamsdc ☽ Training @teamcarolvaz ☽ @cls_sportswear use code thunder
+      ☽ Fitness • Memes • 🇺🇸✈️🇧🇷 ☽ Nutrition @austinadamsdc ♥️ ☽ Training @teamcarolvaz ☽ @cls_sportswear use code thunder
     location: "United States"
-    followers: 31741
-    engagement: 242
-    commentsToLikes: 0.031286
+    followers: 34737
+    engagement: 341
+    commentsToLikes: 0.032772
     id: ckf5o7td919390j23xakzz243
     verified: false
-    hashtags: "#cutegymclothes, #austinadamsdc, #teamcarolvaz, #clsbabe"
-  - username: "thetrendytomboy"
-    fullname: >-
-      Rachel Spross | Lifestyle Blog
-    bio: >-
-      tomboy with a feminine side style + fitness NASM CPT + instructor Precision L1 nutrition coach healthy foodie Austin ↔️ Waco ↔️ Dallas
-    location: "United States"
-    followers: 41236
-    engagement: 77
-    commentsToLikes: 0.045576
-    id: ck13bqq1awpys0i19pk57ql25
-    verified: false
-    hashtags: "#lucchesecasual, #treatmeal, #mylucchese, #lucchesepartner"
-  - username: "modernveganfam"
-    fullname: >-
-      Modern Vegan Familia
-    bio: >-
-      Join our fam. Follow Adam, Madeline, Addy, & Lazer’s Plant Based Life. Founders of @credofoods . Vegan for ❤️ 🐷 🌎 . Austin, TX based
-    location: "United States"
-    followers: 26334
-    engagement: 142
-    commentsToLikes: 0.127361
-    id: ck0vw3p88rylr0i19by1o7z2o
-    verified: false
-    hashtags: "#dairyfree, #veganfamily, #austinfoodie, #foodismedicine"
-  - username: "getfitwith_nikk"
-    fullname: >-
-      Nikki - Transformation Coach
-    bio: >-
-      Empowering confidence through fitness and nutrition #atxfitness @trufusion_southaustin @f45_training_southshoreaustin @idealfit Programs👇🏽
-    location: "United States"
-    followers: 113478
-    engagement: 111
-    commentsToLikes: 0.158607
-    id: ck6tvpbi8ni7m0j71wyhj0q2s
-    verified: false
-    hashtags: "#homeworkoutvideos, #austintexas, #transformationcoach, #texasfit"
+    hashtags: "#fitnessjourney, #training, #hardcore, #teamcarolvaz"
   - username: "aneshea_shali"
     fullname: >-
       Aneshea Shali
     bio: >-
       @corecampchallenge DALLAS, TX📍🤘🏽 @be.empowered.nutrition Athlete @bravosierra_usa Athlete
     location: "United States"
-    followers: 26329
-    engagement: 518
-    commentsToLikes: 0.045723
+    followers: 27403
+    engagement: 442
+    commentsToLikes: 0.044598
     id: ck6ui0kwvccno0j713equ14rl
     verified: false
-    hashtags: "#fitbox, #fitfam, #dirty30, #corecampchallenge"
-  - username: "laurrrenhunter"
+    hashtags: "#speaklife, #fitness, #beempowerednutrition, #checkonyourstrongfriends"
+  - username: "nutritionstutorial"
     fullname: >-
-      Lauren | Health Coach ✨
+      Nutrition Guide
     bio: >-
-      wife + mama x ✌🏼 cen cal📍 @tilyoucollapse | lauren10 @bowmar_nutrition | lauren
+      Source of #Nutrition Tips 🍉 #Healthy Fixes🍍 Curated by Professionals 🖲 #NutritionsTutorial ➡️ @skinnystutorial @calorietutorial @mealpreppingtutorial
     location: "United States"
-    followers: 116510
-    engagement: 187
-    commentsToLikes: 0.016573
-    id: ck0w6ctwa7z460i19o4e50wnn
+    followers: 844419
+    engagement: 44
+    commentsToLikes: 0.017620
+    id: ck5hpw09ts2b20i114j9wopgy
     verified: false
-    hashtags: "#mama, #fallvibes, #basic, #tilyoucollapse"
-  - username: "onebalancedlife"
+    hashtags: "#mealprep, #foodprep, #avocado, #mealplan"
+  - username: "planwithlaken"
     fullname: >-
-      Taylor Dadds
+      Laken | Goal Setting
     bio: >-
-      I help busy women find balance by simplified nutrition & lasting routines. Simple recipes + tips Health Coach Austin, TX New recipes👇🏻
+      Learn how to make time for your personal goals! 🎥 YouTuber 🎤 Public Speaker 🗽 NYC ⬇️ Sign Up for Accelerate Your Goals Live Course!
     location: "United States"
-    followers: 99561
-    engagement: 240
-    commentsToLikes: 0.064139
-    id: ck0u18vqtw3c90i199mavywgz
+    followers: 38652
+    engagement: 89
+    commentsToLikes: 0.092890
+    id: ck0tz1jltosi40i19gvq26ojm
     verified: false
-    hashtags: "#dailysiggis, #sponsored, #oscarmayerpartner"
-  - username: "tastewithtee"
+    hashtags: "#penmanship, #books, #goodreads, #booklove"
+  - username: "kaylinpyles"
     fullname: >-
-      Chommy Tee | 🇱🇦 Food Blogger
+      Online Fitness Coach + CEO
     bio: >-
-      📍Houston, Dallas, Austin ⭐️ @bestfoodhouston (CL) ⭐️ @chowdownhtown1 (Founder) ⭐️ @yelp (Elite ‘20) 📧 DM/Email for Collabs!
+      I help women go from “stuck” to building a life they’re obsessed with through fitness + personal dev. CEO: @thehigher.standard Apply for links ⬇️
     location: "United States"
-    followers: 3477
-    engagement: 1342
-    commentsToLikes: 0.494682
-    id: ck9h9tmem9x5s0j783hxik53j
+    followers: 21459
+    engagement: 243
+    commentsToLikes: 0.054874
+    id: ck0w367zzrset0i19cq7xn6er
     verified: false
-    hashtags: "#shotoftheday, #supportlocal, #glutenfree, #htxfoodie"
-  - username: "yenismonterrey"
+    hashtags: "#goals, #transformation, #texas, #fitness"
+  - username: "doctorsterling"
     fullname: >-
-      Yenis Monterrey
+      Dr. Sterling Petersen DC
     bio: >-
-      LA|Austin|NY📍AUSTIN-TX 🇺🇸| Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Fitness | Lifestyle | 📲⚠️yenisask@gmail.com⚠️👇🏼
+      👨🏼‍⚕️ Co-owner @rootcausemedicalclinic ⚡️ Chiro: @doctorsterlingadjusts 📸 @wilhelminamodels 🕺 TikTok | doctorsterling 🔑 Latest YouTube Video👇
     location: "United States"
-    followers: 28043
-    engagement: 286
-    commentsToLikes: 0.237386
-    id: ckaoxs08fehfh0i78xy0bpjb5
+    followers: 38757
+    engagement: 148
+    commentsToLikes: 0.026389
+    id: ck8wg6kocgtgr0j78vheff48s
     verified: false
-    hashtags: "#fitness, #septemberbeautylovers, #acne, #fioralvibescom"
-  - username: "nikberryclimb"
+    hashtags: "#chiropractic, #chiropracticpopup, #asmr, #lachiropractor"
+  - username: "eatoutloseweight"
     fullname: >-
-      Nik Berry
+      Lindsay Smith RD • Dietitian
     bio: >-
-      Nurse|Climber|Yosemite Lover Supported by: Outdoor Research, Black Diamond, La Sportiva, Sterling Rope, Gnarly Nutrition, FrictionLabs
+      Helping post-grads lose weight while eating out 🍱 Healthy swaps at restaurants 💻 eatoutloseweight.com/blog FREE Top 10 Weight Loss Tips ↙️
     location: "United States"
-    followers: 10527
-    engagement: 1095
-    commentsToLikes: 0.020149
-    id: ck1393cbjjb5j0i197lsdos4d
+    followers: 39832
+    engagement: 124
+    commentsToLikes: 0.023334
+    id: ck13c5e4ryp6f0i193c7nrrgw
     verified: false
-    hashtags: "#fuckinglifeandshit, #iamacheeseball, #theslabsarelonely, #doyounaptoclimborclimbtonap"
+    hashtags: "#ww, #lilyschocolate, #pizzatime, #quickrecipe"
+  - username: "katyaplewniak"
+    fullname: >-
+      Katya Plewniak
+    bio: >-
+      🏋🏻‍♀️ Certified Personal Trainer & Nutrition Coach ✨ Only Account ✨
+    location: "United States"
+    followers: 32867
+    engagement: 401
+    commentsToLikes: 0.049583
+    id: ck0tucuup6mti0i194vd3qra9
+    verified: false
+    hashtags: "#thursdaythoughts, #tbt, #hurryupweekend, #mygirls"
+  - username: "mindfully.megan"
+    fullname: >-
+      ⊹ Mindfully Megan ⊹
+    bio: >-
+      Wellness Practitioner from Austin, TX Empowering you to live mindfully & heal from within Ayurvedic Health • Trauma Healing🕊 💌 info@mindfullymegan.com
+    location: "United States"
+    followers: 6423
+    engagement: 571
+    commentsToLikes: 0.217191
+    id: ck5byocqfpj2s0i11cq5kz72t
+    verified: false
+    hashtags: "#mindhealth, #healing, #wellbeing, #mentalhealth"
+  - username: "austin.mfit"
+    fullname: >-
+      Austin Martin
+    bio: >-
+      ▫️ Online Coach | 24 | 6’4 | Natural ▫️ WORKOUT APP + BOOTY PROGRAMS (Free trial), Custom Training + Nutrition Plans | YouTube ⬇️
+    location: "United States"
+    followers: 243084
+    engagement: 561
+    commentsToLikes: 0.008736
+    id: ck5q3kpezl7cl0i11y3lhi6zx
+    verified: false
+    hashtags: ""
 ---

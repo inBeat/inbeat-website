@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Austin in 2023
+title: Top 10 Food Instagram Influencers In Austin In 2023
 description: >-
-  Find top food Instagram influencers in Austin in 2023. Most popular hashtags: #ad #ribs #brisket.
+  Find top food Instagram influencers in Austin in 2023. Most popular hashtags: #austinfoodie #austintexas #austinfood.
 platform: Instagram
-hits: 137
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 137 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 109
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 109 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
-  - username: "pitforbrainsatx"
-    fullname: >-
-      Pitforbrains
-    bio: >-
-      Where pit happens every day. Smoke it 💨. Shoot it 📸. Eat it 🍽🤤 ♨️BBQ♨️ 🍻Drinks🥃 ✈️Travel🌏 🤘🏼Austin, TX🤘🏼
-    location: "United States"
-    followers: 47712
-    engagement: 78
-    commentsToLikes: 0.031271
-    id: ck5ch9shiqd9q0i11r3zlxw6x
-    verified: false
-    hashtags: "#smokedbrisket, #wagyu, #ribs, #wagyubeef"
   - username: "thesmokingho"
     fullname: >-
       Jimmy Ho | BBQ | Food | Austin
     bio: >-
-      Exploring/Cooking Texas BBQ, Beef & Beyond 📷: @fujifilm_northamerica X-T20 🌎: thesmokingho.com 📧: jimmy@thesmokingho.com
+      Exploring/Cooking Texas BBQ, Beef & Beyond 📷: @sonyalpha 7III 🌎: thesmokingho.com 📧: jimmy@thesmokingho.com
     location: "United States"
-    followers: 58323
-    engagement: 362
-    commentsToLikes: 0.035297
+    followers: 60811
+    engagement: 231
+    commentsToLikes: 0.037241
     id: ck13c09rny0mg0i19viyqx9uo
     verified: false
-    hashtags: "#texasbbq, #kamadojoe, #brisket, #firesquad"
+    hashtags: "#sausage, #texasbbq, #burger, #bbq"
   - username: "somuchlifeblog"
     fullname: >-
       Kelsey | Austin Food Blogger
     bio: >-
-      Austin food blogger + author of Austin Food Crawls 📚 🌵Life in Austin w hubs and baby 🌮 Tons of FREE ATX content on blog ⬇️
+      🌵My real life in ATX + all the best food and drinks 📚Author: Austin Food Crawls 👨‍👩‍👦‍👦Life w hubs and 2 boys 🌮Tons of FREE ATX content on blog
     location: "United States"
-    followers: 27792
-    engagement: 190
-    commentsToLikes: 0.054421
+    followers: 31105
+    engagement: 169
+    commentsToLikes: 0.051181
     id: ck139701ujulw0i19tz1i0nny
     verified: false
-    hashtags: "#hebfallflavors, #ad, #atxeats, #nationalcoffeeday"
+    hashtags: "#austinblogger, #austinfoodtuck, #naturalbirth, #austinrestaurants"
+  - username: "oliviahertzog"
+    fullname: >-
+      Olivia
+    bio: >-
+      Fruit based living! 🍌🍉🥭 Raw Food Retreat AUSTIN, TX April 9-11! Link below! Traveling Raw Vegan Coach & Private Chef🌱 Full-time Travel & RVer! 🚐
+    location: "United States"
+    followers: 17066
+    engagement: 374
+    commentsToLikes: 0.106673
+    id: ck8t90f71mhzx0j78pnlhyzjg
+    verified: false
+    hashtags: ""
+  - username: "nomnom_boston"
+    fullname: >-
+      yusra • ইউসরা
+    bio: >-
+      // boston + austin // food + travel ✨ hello@letsnomnom.co
+    location: "United States"
+    followers: 71983
+    engagement: 104
+    commentsToLikes: 0.044993
+    id: ck0w0wng8ge790i194ry83yg5
+    verified: false
+    hashtags: "#sloready, #austin, #sanluisobispo, #bloomscapepartner"
+  - username: "austinfoodheads"
+    fullname: >-
+      Austin Food Heads
+    bio: >-
+      The official account of Austin Food Heads! Check out our podcast @backofthehousewithfoodheads Download our app for best places to eat in Austin!
+    location: "United States"
+    followers: 36873
+    engagement: 144
+    commentsToLikes: 0.142554
+    id: ck0tzy3zmry7c0i192u0d6r3z
+    verified: false
+    hashtags: "#austinfoodie, #austintexas, #austinfoodheads, #foodfood"
   - username: "austinfoodadventures"
     fullname: >-
       Austin Food Adventures
     bio: >-
-      Owned by Amanda | ✨Obsessed with looking for the best food in Austin, Texas! for inquiries email or dm. ✨#atxfoodtime 🌱: @austinplantadventures
+      Owned by Amanda | ✨Obsessed with reviewing the best food in Austin, Texas! for inquiries email ✨#atxfoodtime 🌱: @austinplantadventures
     location: "United States"
-    followers: 35081
-    engagement: 122
-    commentsToLikes: 0.027970
+    followers: 49600
+    engagement: 136
+    commentsToLikes: 0.040478
     id: ck5c0toutttsa0i11kym5m1ru
     verified: false
-    hashtags: "#donation, #atxfoodtime, #donated"
-  - username: "jessica.deais"
+    hashtags: "#foodreels, #austintx, #atx, #atxfoodtime"
+  - username: "food_panda_austin"
     fullname: >-
-      JESSICA|Lifestyle+fashion Blog
+      AUSTIN
     bio: >-
-      Sharing the daily• fashion •products 📍TX ⁣💍Wife 🐶Dog mom 💌hellojessicadeais@gmail.com 🛍Shop looks, etc 👇🏼
+      गोल गप्पे, पानी पूरी क्यों खाते हो चोरी चोरी ? 𝑴𝒚 𝑹𝒆𝒍𝒂𝒕𝒊𝒐𝒏𝒔𝒉𝒊𝒑 𝑺𝒕𝒂𝒕𝒖𝒔 ? 𝑰 𝑳𝒐𝒗𝒆 𝑭𝒐𝒐𝒅 , 𝑭𝒐𝒐𝒅 𝑳𝒐𝒗𝒆𝒔 𝑴𝒆 𝑩𝒂𝒄𝒌❤️
     location: "United States"
-    followers: 5092
-    engagement: 652
-    commentsToLikes: 0.133840
-    id: ck8t0bv0xrjfw0j7817qzkj1f
+    followers: 14043
+    engagement: 144
+    commentsToLikes: 0.098508
+    id: ckap6ugj4hegx0i789yjjhse6
     verified: false
-    hashtags: "#vailcolorado, #ootd, #vail, #ltkstyletip"
+    hashtags: "#prilaga, #instagood, #photooftheday, #beauty"
+  - username: "lvnthelife"
+    fullname: >-
+      LVnTheLife | Real Influencers
+    bio: >-
+      📍: Austin 💸: 10% donated to @epilepsyfdn for every paid post. DM for info. 🤝: We’re a Public Benefits Corp sponsored by @austincreativea
+    location: "United States"
+    followers: 120015
+    engagement: 3
+    commentsToLikes: 0.028478
+    id: ck0w1nn64k8590i19fvzxzse7
+    verified: false
+    hashtags: "#communitybuilding, #influencers, #austinfoodie, #southcongressatx"
   - username: "feedmi_"
     fullname: >-
       Mimi | Austin Food + Travel
     bio: >-
-      Just a girl trying to decide what to eat 🤷🏻‍♀️ 🎶 TikTok: feedmi 💌 willyoufeedmi@gmail.com 👇🏼 check out my NEW website!
+      Just a girl trying to decide what to eat 🤷🏻‍♀️ 🎶 TikTok: feedmi 💌 willyoufeedmi@gmail.com 👇🏼 Read my interview w/ Voyage
     location: "United States"
-    followers: 19486
-    engagement: 737
-    commentsToLikes: 0.102869
+    followers: 25544
+    engagement: 740
+    commentsToLikes: 0.117917
     id: ck0w21z9lm9120i19wtp86r6s
     verified: false
-    hashtags: "#tacotuesday, #keepitcleanonbumble, #bumblepartner, #firstwatch"
+    hashtags: "#ngonqua, #porkbelly, #sotasty, #stopasianhate"
   - username: "coupleinthekitchen"
     fullname: >-
       Austin Food, Recipes, & Travel
     bio: >-
       👫Gavin & Karen 😀 ❤️Lovers of Food, Recipe Creators, Food Travel Experts 📩info@coupleinthekitchen.com 🍴 Here’s what’s cookin’:
     location: "United States"
-    followers: 40791
-    engagement: 213
-    commentsToLikes: 0.283693
+    followers: 43768
+    engagement: 198
+    commentsToLikes: 0.118731
     id: ck0vy2aad1w1p0i19s07h8ecz
     verified: false
-    hashtags: "#purecanepartner, #fromourkitchen, #omahasteaksambassador, #takeoutuesday"
-  - username: "atasteofkoko"
-    fullname: >-
-      KOKO | Austin Food Blogger
-    bio: >-
-      austin blogger + author #kokosguidetoaustin » ft. ny times » building a new house - jan 2023 ____ ▽: #austintexas ✉️: jane@atasteofkoko.com ↓: blog
-    location: "United States"
-    followers: 84454
-    engagement: 199
-    commentsToLikes: 0.132176
-    id: ck0twdrpef1tq0i19s7d84ecz
-    verified: true
-    hashtags: "#pumpkinpatch, #thingstodoinaustin, #austintexas, #trueaustin"
-  - username: "austinfoodheads"
-    fullname: >-
-      Austin Food Heads
-    bio: >-
-      Best eats in the Austin area! 📩: austinfoodheads@gmail.com NEW Website! ⬇️
-    location: "United States"
-    followers: 31993
-    engagement: 166
-    commentsToLikes: 0.118204
-    id: ck0tzy3zmry7c0i192u0d6r3z
-    verified: false
-    hashtags: "#austinfoodheads, #nationalbbqmonth"
-  - username: "eats_n_noods"
-    fullname: >-
-      Lenny 👩🏻| Asian Food Blog
-    bio: >-
-      Austin Asian Food + Homecooking A Bowl of Noods a Day will Keep the Doctor Away~ 🇮🇩🇸🇬🇺🇸 📍 Austin, TX #austinnoods
-    location: "United States"
-    followers: 7842
-    engagement: 358
-    commentsToLikes: 0.091452
-    id: ck9wd23c0dq0e0j780nrj3uty
-    verified: false
-    hashtags: ""
+    hashtags: "#fromourkitchen, #sponsored, #omahasteaksambassador, #smithfieldgrillon"
 ---

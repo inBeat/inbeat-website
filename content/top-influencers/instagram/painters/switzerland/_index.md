@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Switzerland in 2023
+title: Top 10 Painters Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top painters Instagram influencers in Switzerland in 2023. Most popular hashtags: #contemporaryart #abstractart #abstractpainting #abstractartist.
+  Find top painters Instagram influencers in Switzerland in 2023. Most popular hashtags: #contemporaryart #acrylicpainting #painting.
 platform: Instagram
-hits: 24
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 24 Instagram influencers like this in Switzerland for you to pitch.
+hits: 8
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 8 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "anett.climbing"
     fullname: >-
@@ -13,118 +13,94 @@ profiles:
     bio: >-
       🧗‍♂️ Rock climber and 👩‍🎨painter @aye_aye.store 🏆 Fit influencer Shape Magazin 🐾 Rollo Swiss Shepherd
     location: "Switzerland"
-    followers: 35319
-    engagement: 324
-    commentsToLikes: 0.044825
+    followers: 34477
+    engagement: 378
+    commentsToLikes: 0.041690
     id: ck5hhx8nbaivd0i11qqjexow6
     verified: false
-    hashtags: "#dutchpour, #naszapolska, #izery, #bialywilk"
-  - username: "kalepipe"
-    fullname: >-
-      Nae 🥬
-    bio: >-
-      visual artist photographer, illustrator, painter dm or mail for creative collaborations.
-    location: "Switzerland"
-    followers: 39225
-    engagement: 1328
-    commentsToLikes: 0.006373
-    id: ckf5rmr9xd8fr0j23md5kl0z9
-    verified: false
-    hashtags: "#lascauxcolours"
-  - username: "josualai.miniatures"
-    fullname: >-
-      Josua Lai
-    bio: >-
-      Figure painter/creator Miniature enthusiast 📍 Bern/Switzerland
-    location: "Switzerland"
-    followers: 10175
-    engagement: 1159
-    commentsToLikes: 0.032674
-    id: ck13d283r3aoy0i19oygr6se9
-    verified: false
-    hashtags: "#bestfive, #faceyourart"
+    hashtags: "#winteriscoming, #holistic, #travelingwithdogs, #beautifuldestination"
   - username: "anne_marie_fischer"
     fullname: >-
       Anne-Marie Fischer
     bio: >-
-      Artist | Zürich | Switzerland
+      Artist | Zurich | Switzerland
     location: "Switzerland"
-    followers: 8804
-    engagement: 1404
-    commentsToLikes: 0.035048
+    followers: 10048
+    engagement: 1200
+    commentsToLikes: 0.040635
     id: ck8t4e3ba6g9a0j78lz5acgui
     verified: false
-    hashtags: "#contemporaryartcollectors, #atelier, #exhibition, #interiorinspo"
+    hashtags: "#woodwork, #woodart, #minimalism, #dailypracticeofpainting"
   - username: "dario_desiena"
     fullname: >-
       Painting🎨Artist🖌
     bio: >-
-      Dario De Siena - 🇨🇭 Swiss 34 🎨 My Artwork Gallery 📩 Request desired 📽 My Videos @desiena.art . #abstractportrait #art #paintingartist
+      Dario De Siena - 🇨🇭 Swiss 34 🎨 My Artwork Gallery 📩 Request desired . #contemporaryart #contemporarypainting
     location: "Switzerland"
-    followers: 29300
-    engagement: 559
-    commentsToLikes: 0.046081
+    followers: 52428
+    engagement: 591
+    commentsToLikes: 0.035352
     id: ck0w6hlir8lqj0i19c7zbr1dw
     verified: false
-    hashtags: "#creative, #igtvart, #portraitpainting, #contemporarypainting"
-  - username: "yyyaaannnnnniiiccckkk"
+    hashtags: "#poparts, #dariodesiena, #contemporarypainting, #contemporaryportrait"
+  - username: "stefankunz"
     fullname: >-
-      
+      Stefan - Creative Lettering
     bio: >-
-      Cardi P(ikachu)
+      ✍🏻 Create to inspire others! 📎 Clients: Coca-Cola, Adobe, Pinterest & more 📬 Booking: Mail@stefankunz.com 🎓 Learn with me online 👇🏻
     location: "Switzerland"
-    followers: 34422
-    engagement: 316
-    commentsToLikes: 0.006933
-    id: ck0vxe1rayfv70i19hqowpu8i
+    followers: 566824
+    engagement: 370
+    commentsToLikes: 0.013487
+    id: ck0tvjhembmu60i19u2xf5xyf
     verified: false
-    hashtags: "#procreate, #contemporaryart, #abstractpainting, #blinddrawing"
-  - username: "miss_shortly"
+    hashtags: "#engadget, #mkbhd, #painting, #brushlettering"
+  - username: "yeswhatnails"
     fullname: >-
-      Bikergirl
+      Violetta
     bio: >-
-      21 | 🇨🇭 Aargau Kawasaki Ninja 650 ♥️
+      Hand painted nail art in Barcelona / Zurich Nail wraps and stickers @yeswhatnailstickers
     location: "Switzerland"
-    followers: 13318
-    engagement: 1933
-    commentsToLikes: 0.018941
-    id: ck6ubb1yr8jhc0j719cch40dm
+    followers: 106956
+    engagement: 277
+    commentsToLikes: 0.007646
+    id: ck0ucj3teh1ma0i191ou22nmc
     verified: false
-    hashtags: "#ridersofinstagram, #kawasakischweiz, #riderchicks, #motorcyclesofinstagram"
-  - username: "queen_isabelle8"
+    hashtags: ""
+  - username: "putput.dk"
     fullname: >-
-      👑 Hanna Isabelle 👑
+      PUTPUT
     bio: >-
-      Based in Switzerland 🇨🇭 Pinterest: Queen_isabelle8 Curator of @swiss_streetstyle #queen_isabelle8
+      We are PUTPUT, a Swiss/Danish artist tandem! Real objects, constructed with care and staged as contemporary still lifes.
     location: "Switzerland"
-    followers: 146279
-    engagement: 106
-    commentsToLikes: 0.030360
-    id: ck5q64yjvvyrv0i11qirwmt5w
+    followers: 32559
+    engagement: 322
+    commentsToLikes: 0.009610
+    id: ck6u4ed8r38oq0j714frd80nj
     verified: false
-    hashtags: "#chanel, #chanelbag, #boptalk, #swissblog"
-  - username: "sausau__"
+    hashtags: "#candles, #objectphotography, #putput, #vases"
+  - username: "byenico"
     fullname: >-
-      Sausau
+      Nico 👉🏼👈🏼
     bio: >-
-      Lifestyle, travel 🇫🇷 Evian, Genève Tiktok : sauvanecarpentier 💌 Partnership
+      Quotidien de @nicolasstajic 🌻 Photo x Coffee x Fashion 💌 hello@nicolasstajic.com Genève - Paris
     location: "Switzerland"
-    followers: 27753
-    engagement: 935
-    commentsToLikes: 0.187463
-    id: ck5zkxelukcal0i14arveg083
+    followers: 11941
+    engagement: 510
+    commentsToLikes: 0.011318
+    id: ck5qa4n8ceirt0i11f6jt7s2l
     verified: false
-    hashtags: "#jeuconcours, #collaboration, #flowers, #pinterest"
-  - username: "schimoni_art"
+    hashtags: "#sponsorise, #obsessiondugou, #justforthefeed, #pinterest"
+  - username: "queenkongswitzerland"
     fullname: >-
-      Monica Schick
+      queenkongswitzerland
     bio: >-
-      🎨Swiss Artist 🌿Nature Lover 🌱 Plant-Based 🧑🏼‍🎨BA @artphilosophyco 🖌Get Schimoni Art Brushes👇🏻 (tap link) 🌎Shipping worldwide!
+      A swiss art-couple that's bringing some banging urban artwork into this planet while mixing up their styles. 👇 Contact: info@queenkong.ch🎨💗 #urbanart
     location: "Switzerland"
-    followers: 77662
-    engagement: 342
-    commentsToLikes: 0.035267
-    id: ck5zsp6muyxd50i144e7igkfi
+    followers: 4006
+    engagement: 831
+    commentsToLikes: 0.061531
+    id: ck5he53olr3qf0i113de5zuds
     verified: false
-    hashtags: "#waterblog, #maketimeforart, #watercolorsketch, #watercolour"
+    hashtags: "#snart, #passion, #queenkong, #streetart"
 ---

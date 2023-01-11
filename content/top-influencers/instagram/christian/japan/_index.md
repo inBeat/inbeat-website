@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Japan in 2023
+title: Top 10 Christian Instagram Influencers In Japan In 2023
 description: >-
-  Find top christian Instagram influencers in Japan in 2023. Most popular hashtags: #zara #ootd #fashion.
+  Find top christian Instagram influencers in Japan in 2023. Most popular hashtags: #ootd #pr #zara.
 platform: Instagram
-hits: 66
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 66 Instagram influencers like this in Japan for you to connect with.
+hits: 62
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 62 Instagram influencers like this in Japan for you to work with.
 profiles:
   - username: "wimpievdwalt"
     fullname: >-
@@ -13,12 +13,24 @@ profiles:
     bio: >-
       Christian ✝️ Player at @redhurricanes_official @japan_rugby
     location: "Japan"
-    followers: 20810
-    engagement: 1179
-    commentsToLikes: 0.011334
+    followers: 20174
+    engagement: 977
+    commentsToLikes: 0.012339
     id: ck5znrpo8p15q0i146kifjjw3
     verified: false
-    hashtags: "#redhurricanes, #boerseun, #tbt, #farmlife"
+    hashtags: "#redhurricanes, #wolfpack, #doubledadstrength, #weddinganniversary"
+  - username: "joetonozomi"
+    fullname: >-
+      NozomiYuasa
+    bio: >-
+      Fashion illustrator/Auckland⇄Tokyo Clients; TORYBURCH, Christian Louboutine, bobbibrown, rms beauty, repetto Paris,SONIA RYKIEL, ELLE, VOGUE ,WWD etc
+    location: "Japan"
+    followers: 11756
+    engagement: 597
+    commentsToLikes: 0.013013
+    id: ckaouqtgt1f140i784rj5ujqc
+    verified: false
+    hashtags: "#iqui, #iquispin, #pr, #repettoparis"
   - username: "artfromjapan"
     fullname: >-
       Japanese Art 💮🇯🇵
@@ -31,100 +43,88 @@ profiles:
     id: ck13b5op6tsxv0i19lr7w8iq9
     verified: false
     hashtags: ""
-  - username: "jpduminy"
+  - username: "aqua"
     fullname: >-
-      JP Duminy
+      Aqua Parios
     bio: >-
-      Christian / Husband / Father / Cricketer / Founder - @jp21foundation / Podcast - @thesuperover
+      African American/Japanese 🇯🇵 Model/Actress NYC Bookings: G.Barone@w360management.com @pencilsofpromise Ambassador @revolve ambassador
     location: "Japan"
-    followers: 648614
-    engagement: 97
-    commentsToLikes: 0.008758
-    id: ck8symsdclarh0j78jv4kw70b
+    followers: 118950
+    engagement: 82
+    commentsToLikes: 0.023565
+    id: ck0u67ry815fs0i197271fjjg
+    verified: false
+    hashtags: "#aliceandolivia, #christiancowan, #glam, #nyfw"
+  - username: "roland_0fficial"
+    fullname: >-
+      【ROLAND】ローランド
+    bio: >-
+      - 世の中には2種類の男しかいない。 俺か、俺以外か。 - 【公式Twitter】roland_0fficial 【オフィシャルHP】(出勤確認やお問合せはこちら) ↓↓↓↓↓
+    location: "Japan"
+    followers: 617758
+    engagement: 417
+    commentsToLikes: 0.005743
+    id: ck6ttsydkcfap0j710gkir9lf
     verified: true
-    hashtags: "#hometeam, #strengthbeyond, #staysafe, #stayhome"
-  - username: "k61ze"
-    fullname: >-
-      
-    bio: >-
-      #ハッシュタグの癖がやっぱり話題の人
-    location: "Japan"
-    followers: 20100
-    engagement: 314
-    commentsToLikes: 0.019549
-    id: ck5zzyj4pcmz30i145hir5xdo
-    verified: false
-    hashtags: "#pool, #gucci, #christiandior, #grampus"
-  - username: "lumie0206"
-    fullname: >-
-      LUMIE
-    bio: >-
-      163㎝。スニーカーを合わせる大人カジュアルが好き アイテム詳細はこちら⇩⇩
-    location: "Japan"
-    followers: 25289
-    engagement: 119
-    commentsToLikes: 0.005125
-    id: ck0vzqxknagxl0i1925rgmlef
-    verified: false
-    hashtags: "#wear, #audreyandjohnwad, #christianvilla, #uniqlo"
-  - username: "ryo_natsume"
-    fullname: >-
-      Ryo Natsume
-    bio: >-
-      
-    location: "Japan"
-    followers: 6137
-    engagement: 419
-    commentsToLikes: 0.041493
-    id: ckaotuy6xxmx00i78d4x682lo
-    verified: false
-    hashtags: "#nishishinjuku, #french, #stayhome, #christianlouboutin"
+    hashtags: "#christianroland, #youtube, #roland, #drive"
   - username: "eri_t28"
     fullname: >-
       Eri Takakura   高倉 絵理
     bio: >-
-      TRAVEL / BEAUTY / FASHION 1977 / based in Tokyo, JAPAN BYRON @byron_t28 FiNCアンバサダー @finc_app
+      TRAVEL / BEAUTY / FASHION / GOURMET 1977 / 北海道→東京 BYRON @byron_t28 FiNCアンバサダー @finc_app
     location: "Japan"
-    followers: 171133
-    engagement: 144
-    commentsToLikes: 0.042692
+    followers: 181412
+    engagement: 140
+    commentsToLikes: 0.038776
     id: ck6ugl5kf3obs0j71ffwwh3t3
     verified: false
-    hashtags: "#chihuahua, #chihuahualife, #chihuahuastagram, #hotelstay"
-  - username: "seeeeiiiiraaaa"
+    hashtags: "#hermes, #40, #malibuhotel, #shoes"
+  - username: "an.naomi"
     fullname: >-
-      岩崎静羅 美容/プチプラコーデ/ゴルフ/旅行
+      an.naomi
     bio: >-
-      36歳 155cm XS〜Sサイズ WEB広告に多数出演中 ◾️趣味 ⛳️ BEST:78🔴 86⚪️ Cosme Attendant 1期生 ◾️資格 宅地建物取引士、フードアナリスト、パーソナルカラーアドバイザーなど
+      NAOMI 🄻🄾🅅🄴 🅕🅐🅢🅗🅘🅞🅝🖤 🅒🅞🅞🅚🅘🅝🅖 🖤 🅒🅞🅢🅜🅔 🖤 𝓟𝓡🖤𝔀𝓻𝓲𝓽𝓮𝓻🖤 鳥取 岡山 大阪 東京🖤 𝟛児のママです•*¨*•.¸¸♪ ﻿ フォロー&いいねありがとございます♡﻿ ◼️お仕事依頼はDMへお願いいたします
     location: "Japan"
-    followers: 26791
-    engagement: 382
-    commentsToLikes: 0.032341
-    id: ckf5uukuome850j23xokhvqy8
+    followers: 77561
+    engagement: 100
+    commentsToLikes: 0.058321
+    id: ck5q2ioudg7ke0i11wkeshybz
     verified: false
-    hashtags: "#155cm, #makeup, #aimantgolf, #golf"
-  - username: "_yoshida_megumi"
+    hashtags: "#outfit, #cica, #photo, #nomonday"
+  - username: "airigramxx"
     fullname: >-
-      よしめぐ
+      Airi
     bio: >-
-      ⚾︎野球大好き理系女子大生⚾ ︎﻿﻿❤︎non-no専属読者モデル ﻿ ❤︎スポニチニュース 公式パーソナリティ(月曜)﻿ ❤︎ミスキャンパス グランプリ 🐶ぴこ @picotaro_life ﻿ お仕事依頼はDMまでお願いします
+      JPN⚑︎⚐︎ hyogo→osaka26age ➤➤ #trip /#fashion /#make 🕊🕊 ▫️▫️ 𝒇𝒓𝒆𝒆 𝒍𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆𝒍 ▫️▫️ 撮影.お仕事依頼はDMまでお願いします✉
     location: "Japan"
-    followers: 29344
-    engagement: 588
-    commentsToLikes: 0.019731
-    id: ckf5okv1n2ogx0j23zhhpl3q4
+    followers: 46887
+    engagement: 355
+    commentsToLikes: 0.022841
+    id: ck8tc22gly0830j78japxctix
     verified: false
-    hashtags: "#seibulions, #zozo, #pr, #fuwarie"
+    hashtags: "#ootd, #chanel, #shorttrip, #funtotrip"
   - username: "aimin_official"
     fullname: >-
       愛美
     bio: >-
       #AIMI（1991/12/25） #VoiceActress / #Singer / #aimoriginal/#Youtuber/#158cm
     location: "Japan"
-    followers: 185734
-    engagement: 939
-    commentsToLikes: 0.004305
+    followers: 194317
+    engagement: 858
+    commentsToLikes: 0.004325
     id: ck8t345nw1s990j78zb2yybz0
     verified: false
-    hashtags: "#wwg, #adererror, #zara, #ootd"
+    hashtags: "#zara, #dholic, #r4g, #aimoriginal"
+  - username: "seeeeiiiiraaaa"
+    fullname: >-
+      岩崎静羅 美容/プチプラコーデ/ゴルフ/旅行
+    bio: >-
+      **宮古島大使に就任しました** 155cm Sサイズモデル WEB広告に多数出演中 *Me+ Producer* @nugu__official 宅地建物取引士,フードアナリスト パーソナルカラーアドバイザーなど ⛳️BEST: 🔴78 ⚪️86
+    location: "Japan"
+    followers: 27042
+    engagement: 306
+    commentsToLikes: 0.036424
+    id: ckf5uukuome850j23xokhvqy8
+    verified: false
+    hashtags: "#jimmychoo, #golfwear, #155cm, #grl"
 ---

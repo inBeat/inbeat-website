@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Tokyo in 2023
+title: Top 10 Photographers Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top photographers Instagram influencers in Tokyo in 2023. Most popular hashtags: #tokyo #japan #portraits.
+  Find top photographers Instagram influencers in Tokyo in 2023. Most popular hashtags: #pr #sony #hyattcentrickanazawa.
 platform: Instagram
-hits: 138
+hits: 90
 text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 138 Instagram influencers like this in Tokyo, Japan for you to pitch.
+text_bottom: inBeat aggregates 90 Instagram influencers like this in Tokyo, Japan for you to pitch.
 profiles:
   - username: "takerukohara_sono1"
     fullname: >-
       takeru kohara
     bio: >-
-      photographer / tokyo #なんでもないただの道が好き #ごはんと写真集 発案者 Contact ▷ takerukohara@gmail.com My Lightroom preset
+      photographer / tokyo #なんでもないただの道が好き 発案者 Contact ▷ takerukohara@gmail.com My Lightroom preset
     location: "Japan"
-    followers: 109900
-    engagement: 253
-    commentsToLikes: 0.004139
+    followers: 113891
+    engagement: 231
+    commentsToLikes: 0.003397
     id: ck1396jyxjs6e0i19w1u54g4o
     verified: false
-    hashtags: "#hattuq, #cap, #fashion, #lifestyle"
+    hashtags: "#nisifilters, #pr, #nisi, #alluresoft"
   - username: "take1official"
     fullname: >-
       Hirokazu Takei | 武井宏員
     bio: >-
-      EN | JP | Photographer | Tokyo Travel account @takei.photo CURBON 代表 (CEO) @curbonjp @curbon.photoclub フォトグラファー|モデル募集中
+      EN | JP | Photographer | Tokyo CURBON 代表 (CEO) @curbonjp モデル作品集 @takei.photo
     location: "Japan"
-    followers: 73174
-    engagement: 224
-    commentsToLikes: 0.002513
+    followers: 77148
+    engagement: 228
+    commentsToLikes: 0.003043
     id: ck55pkpgmarqf0i1166nx7qp8
     verified: false
-    hashtags: "#fujifilm, #nikonz7, #curbonjp, #renvillage"
+    hashtags: "#curbon, #disneyland, #ordinary, #flowers"
   - username: "soi_portrait"
     fullname: >-
       soi
     bio: >-
       🇯🇵photographer/Tokyo #メンズポートレート 👑Photo Vogue Best of✖️3👑TIFA2016 👑私的写真集選手権 '18準GP '19小林賞 👑Tokyo Models フォトテク賞 🌸東京カメラ部'19 🌸アイドンノー🌸男写凛 ♪
     location: "Japan"
-    followers: 5679
-    engagement: 522
-    commentsToLikes: 0.014267
+    followers: 5549
+    engagement: 520
+    commentsToLikes: 0.014802
     id: ck0w6xe99apq40i190a01ao0f
     verified: false
-    hashtags: "#team, #indies, #impression, #daily"
-  - username: "jungraphy_"
-    fullname: >-
-      Junya Watanabe / Tokyo 🇯🇵
-    bio: >-
-      Photographer / Tokyo based Art of Nightphotography 📷 @sonyalpha Business →📩 jw213wtgmail.com Get my Preset and photos
-    location: "Japan"
-    followers: 112969
-    engagement: 891
-    commentsToLikes: 0.011008
-    id: ck0ublx70euqt0i197hu6mwm4
-    verified: false
-    hashtags: "#discovertokyo, #wonderful, #japanko, #agameoftones"
+    hashtags: "#lovers, #team, #photo, #good"
   - username: "moron_non"
     fullname: >-
       もろんのん
     bio: >-
-      週末 Travel photographer/Tokyo 平日 @mr.cheesecake.tokyo 【共著本】 インスタグラム商品写真の撮り方ガイド SNS時代のフォトグラファーガイド本 【YouTube】写真教室・Vlog moronnon@gmail.com
+      photographer/Tokyo @mr.cheesecake.tokyo 【書籍】 インスタグラム商品写真の撮り方ガイド SNS時代のフォトグラファーガイド本 弘中綾香の純度100% / 写真 【YouTube】写真教室・Vlog moronnon@gmail.com
     location: "Japan"
-    followers: 87051
-    engagement: 174
-    commentsToLikes: 0.007011
+    followers: 93729
+    engagement: 235
+    commentsToLikes: 0.005646
     id: ck0w1j1ohjl880i191z9t7ug3
     verified: false
     hashtags: "#hironakaayaka, #fda, #fujidreamairlines, #fujidream"
+  - username: "yoshinori_mizutani"
+    fullname: >-
+      Yoshinori Mizutani
+    bio: >-
+      Artist, / photographer, Tokyo,Japan
+    location: "Japan"
+    followers: 23848
+    engagement: 324
+    commentsToLikes: 0.007952
+    id: ck5qeejv803bu0i113p7b6jv2
+    verified: false
+    hashtags: "#designmatters, #greatdesign, #homeofficedecor, #harukimurakami"
+  - username: "_hikari_____"
+    fullname: >-
+      Hikaru Kato ／加藤 光
+    bio: >-
+      Photographer TOKYO / JAPAN お仕事の依頼は📩 ［Web］
+    location: "Japan"
+    followers: 102206
+    engagement: 158
+    commentsToLikes: 0.005855
+    id: ck1377t8ba83u0i19jme1c3h2
+    verified: false
+    hashtags: "#alpha, #hyattcentrickanazawa, #newgeneration, #emirates"
   - username: "chiaoking"
     fullname: >-
       naoko uchida
     bio: >-
       Photographer | 🇯🇵Tokyo 一児と一犬のママ。写真が好き。 ——🧒🏻@utakata_no_ —— 📕『写真ライフ』スローフォト連載中 work|chiao705@gmail.com
     location: "Japan"
-    followers: 79548
-    engagement: 154
-    commentsToLikes: 0.008597
+    followers: 78163
+    engagement: 151
+    commentsToLikes: 0.006421
     id: ck5zn8dhznz0y0i14sz4ws8o5
     verified: false
-    hashtags: "#parkhyatt, #pr, #waterstakeshiba, #ad"
-  - username: "_hikari_____"
+    hashtags: "#pr, #hyattcentrickanazawa, #hyatthousekanazawa, #minatoku"
+  - username: "yohei_sawamura"
     fullname: >-
-      Hikari ／加藤 光
+      Yōhei Sawamura / 澤村 洋兵
     bio: >-
-      Photographer TOKYO / JAPAN Galaxy Ambassador お仕事の依頼は📩 ［Web］
+      KYOTO/TOKYO Photographer Galaxy Ambassador Twitch / yohei_sawamura ブログ「サワブログ」 コミュニティサロン 「しんやとよーへい」 サブアカ @yohei_sawamura_sono2 ↓My Lightroom preset↓
     location: "Japan"
-    followers: 102383
-    engagement: 129
-    commentsToLikes: 0.004754
-    id: ck1377t8ba83u0i19jme1c3h2
+    followers: 111241
+    engagement: 234
+    commentsToLikes: 0.002632
+    id: ck0tza9j5pq530i19u05w21mj
     verified: false
-    hashtags: "#mychicagothursday, #mychicagoday, #tbt, #galaxys20"
-  - username: "hirokotv"
+    hashtags: "#nikon, #nikonz5, #sony, #nisi"
+  - username: "satosi_photo"
     fullname: >-
-      Hiroko Imai🇯🇵
+      SATOSHI KITADA
     bio: >-
-      🌎 #海外に日本紹介 🇯🇵I LOVE sharing fun places in JPN 👩🏻‍💻@ralphcreative 🎞#ContentCreator 🎤#AsianBoss interviewer 【DM: work only/manager handled】 YouTube↓
+      Photographer/Japan/Tokyo/Saitama/ 東京を中心に主に人物を撮っています。自分が感じた「美」を写したいと思っています。撮影のお誘いなどお気軽にDMください！最近フィルムにちょっとハマってます。
     location: "Japan"
-    followers: 18814
-    engagement: 419
-    commentsToLikes: 0.031420
-    id: ck0w5f2cx3c1p0i1935lf7xu3
+    followers: 24033
+    engagement: 308
+    commentsToLikes: 0.004305
+    id: ck5pzohvx1zsl0i11whj40ui0
     verified: false
-    hashtags: "#tokyotokyo, #stars, #gn, #yellow"
-  - username: "masatoshiyamashiro"
+    hashtags: "#portrait, #model, #gravure, #sexy"
+  - username: "benjaminbeech"
     fullname: >-
-      Photographer_tokyo 📸
+      Beech Photography Tokyo
     bio: >-
-      PHOTOGRAPHER in Tokyo Founder/Creative Director - NO magazine @no_magazine_tokyo
+      🇬🇧Freelance Photographer in Tokyo🇯🇵 📸 Travel, Editorial, Documentary📸 東京に住んでるフリーカメラマン・連絡はメールかDMください ⬇️Framed Prints For Sale⬇️
     location: "Japan"
-    followers: 49438
-    engagement: 120
-    commentsToLikes: 0.014208
-    id: ck5cd9boxirhk0i118730rfpz
+    followers: 12733
+    engagement: 588
+    commentsToLikes: 0.015775
+    id: ck5cky52uxujj0i114axizogs
     verified: false
-    hashtags: "#tokyophotographers, #photographerintokyo, #parallelfifth, #photographertokyo"
-  - username: "_icyphoto_"
-    fullname: >-
-      Photographer in Tokyo ジュリア
-    bio: >-
-      Julia • Photographer in Tokyo🇷🇺🇪🇸🇧🇷 🇬🇧 • #sonya7riii • Travel photos account @_icyphotos_ Youtube channel ⬇️⬇️⬇️
-    location: "Japan"
-    followers: 20234
-    engagement: 895
-    commentsToLikes: 0.027066
-    id: ck5c1kyiive4i0i11svbdfe22
-    verified: false
-    hashtags: "#tokyo, #portraits, #portraitphotographer, #portraitvision"
+    hashtags: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Turkey in 2023
+title: Top 10 Dancers TikTok Influencers In Turkey In 2023
 description: >-
-  Find top dancers TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #dance #fyp #foryou.
+  Find top dancers TikTok influencers in Turkey in 2023. Most popular hashtags: #fyp #dance #dancer.
 platform: TikTok
 hits: 24
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 24 TikTok influencers like this in Turkey for you to pitch.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 24 TikTok influencers like this in Turkey for you to pitch.
 profiles:
   - username: "sinanyildizs"
     fullname: >-
@@ -13,48 +13,72 @@ profiles:
     bio: >-
       Shuffle dancer İnstagram da daha aktifim :sinanyildizs YouTube abone olun pls
     location: "Turkey"
-    followers: 60500
-    engagement: 1192
-    commentsToLikes: 0.030590
+    followers: 58800
+    engagement: 1175
+    commentsToLikes: 0.030373
     id: ck931igxoetxw0j78nyqxz34a
     verified: false
-    hashtags: "#foryou, #tiktok, #sasswars, #tiktokturkey"
+    hashtags: "#slowmo, #sasswars, #fyp, #foryoupage"
+  - username: "batuuordu"
+    fullname: >-
+      Batuuordu
+    bio: >-
+      Instagram: batuuordu Dancer 💎
+    location: "Turkey"
+    followers: 95900
+    engagement: 1076
+    commentsToLikes: 0.056850
+    id: ckbb1emuurtk00j23ifzzguvw
+    verified: false
+    hashtags: "#starbucks, #freestyle, #dance, #dancer"
+  - username: "melekgokcekk"
+    fullname: >-
+      Melek🧸
+    bio: >-
+      Dancer🇹🇷🤩 Instagram: Melekgokcekk #FHouse🖤
+    location: "Turkey"
+    followers: 222600
+    engagement: 1170
+    commentsToLikes: 0.018112
+    id: ckbloch4pg5qg0j23twf98tpy
+    verified: false
+    hashtags: "#mgfc, #fhouse, #voiceeffects"
+  - username: "selenozturk2day"
+    fullname: >-
+      Selen öztürk
+    bio: >-
+      Dancer/choreographer 📬 selenozturkk2day@gmail.com #yesteam #söfc💃🏻
+    location: "Turkey"
+    followers: 257300
+    engagement: 454
+    commentsToLikes: 0.018249
+    id: ckce40i22jd8w0j23tv07o3f8
+    verified: false
+    hashtags: "#alay, #dance, #dans, #ye"
   - username: "ceydaozer"
     fullname: >-
       Ceyda Özer
     bio: >-
-      Dancer 🇹🇷 İnstagram : @ceydanurozerr💃🏽
+      🧚🏿‍♀️ Dancer 🇹🇷 IG: @ceydanurozerr
     location: "Turkey"
-    followers: 8116
-    engagement: 871
-    commentsToLikes: 0.018745
+    followers: 77000
+    engagement: 412
+    commentsToLikes: 0.008982
     id: ckc8yg54lmx830j23uvygm10c
     verified: false
-    hashtags: "#dance, #ke, #dans, #fyp"
-  - username: "nursgr"
+    hashtags: "#gimmegimmechallenge, #mart, #umrumdade, #retrograde"
+  - username: "itsarmagan"
     fullname: >-
-      Nur Sağır
+      Armağan
     bio: >-
-      Dancer Beden Egitimi Öğretmen Adayı 😉
+      ⚡️ dancer - @dansfabrika IG: @itsarmagan 💌itzarmagan@gmail.com
     location: "Turkey"
-    followers: 20800
-    engagement: 477
-    commentsToLikes: 0.051775
-    id: ckcekdy8ztpsw0j235qrhnly6
+    followers: 36700
+    engagement: 338
+    commentsToLikes: 0.014963
+    id: ckammj5yt0r1f0i78zmmxt7sd
     verified: false
-    hashtags: "#blue, #pubgmobilelite, #pubgmobile, #pupg"
-  - username: "melekgokcekk"
-    fullname: >-
-      Melek👑
-    bio: >-
-      Dancer🇹🇷🤩 Instagram: Melekgokcekk
-    location: "Turkey"
-    followers: 146300
-    engagement: 737
-    commentsToLikes: 0.010153
-    id: ckbloch4pg5qg0j23twf98tpy
-    verified: false
-    hashtags: "#dance, #fyp, #tutorials, #dancetutorials"
+    hashtags: "#ekleme"
   - username: "selcukhos"
     fullname: >-
       selcuk
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.036696
     id: cka0q687dbg6n0i78o8q1ovpv
     verified: false
-    hashtags: "#dance, #ke, #blink, #dancecover"
-  - username: "teamwstw"
+    hashtags: "#blink, #dancecover, #jyp, #dance"
+  - username: "maviblue08"
     fullname: >-
-      WE STAGE THE WORLD
+      Mavi🤙Teamezgizem😎
     bio: >-
-      Bizi Youtube ve Instagram'dan takip edin ✌🏻 Follow us on Youtube & Instagram✌🏻
+      #PoVerLAND #Teamezgizem İstanbul ! maviblue@poverland.com
     location: "Turkey"
-    followers: 20200
-    engagement: 1246
-    commentsToLikes: 0.033097
-    id: ckbfd6v2b6cwb0j234vm5zx1i
+    followers: 467900
+    engagement: 962
+    commentsToLikes: 0.056507
+    id: ck9f2ne8idyht0j782xpjesw6
+    verified: true
+    hashtags: "#comedy, #fyp, #iyiliksofras, #ramazancaps"
+  - username: "muqobeyys1"
+    fullname: >-
+      EMİR YALÇIN🕊
+    bio: >-
+      HESABI GERİ ALDIM YENİDEN BAŞLIYORUZ🕊 İG; muqoylcn1 yeni hesap
+    location: "Turkey"
+    followers: 93900
+    engagement: 1051
+    commentsToLikes: 0.019022
+    id: cka0h24yz77ft0i78xcypt39f
     verified: false
-    hashtags: "#kpopfyp, #dance, #dancer, #kpopedits"
+    hashtags: "#teamjoo, #fyp, #izmir, #slowmotion"
   - username: "aydanuysal"
     fullname: >-
       Aydan Uysal
     bio: >-
       Amazon Ay'dan 🌔 👩🏻‍🎤🌸 Gezgin Dansçı
     location: "Turkey"
-    followers: 13900
-    engagement: 584
-    commentsToLikes: 0.058763
+    followers: 14000
+    engagement: 537
+    commentsToLikes: 0.058958
     id: ckb9spfw3q5ne0j23jnjihdlz
     verified: false
-    hashtags: "#ke, #moonstar, #dancechallenge, #foryourpage"
-  - username: "edmturkiye"
-    fullname: >-
-      EDM Türkiye
-    bio: >-
-      EDM Türkiye🇹🇷 Best EDM Moments from all around the world Powered by Magazin DJ
-    location: "Turkey"
-    followers: 2199
-    engagement: 403
-    commentsToLikes: 0.009375
-    id: ckd0ck0lfcrzi0j23lptp2saf
-    verified: false
-    hashtags: "#dancevideo, #adrenalintutkusu, #dancechallenge, #dancekpop"
-  - username: "monacalis"
-    fullname: >-
-      Mona Calis
-    bio: >-
-      Ballerina•Actress•Model Instagram 👉 @monacalis #monacalis 1M? Why not 😇
-    location: "Turkey"
-    followers: 15800
-    engagement: 486
-    commentsToLikes: 0.026083
-    id: ckbf5dpfhuh8k0j23vb4ujx7n
-    verified: false
-    hashtags: "#motheranddaughter, #ke, #fyp, #trend"
-  - username: "yasamkocu27"
-    fullname: >-
-      Amazon
-    bio: >-
-      
-    location: "Turkey"
-    followers: 4415
-    engagement: 1320
-    commentsToLikes: 0.031430
-    id: ckbes9qbmb29t0j239qf8zblg
-    verified: false
-    hashtags: "#dansechallenge, #ak, #dm, #gaziantep27"
+    hashtags: "#ke, #foryourpage, #fyp, #aydance"
 ---

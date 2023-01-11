@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Austria in 2023
+title: Top 10 Food Instagram Influencers In Austria In 2023
 description: >-
-  Find top food Instagram influencers in Austria in 2023. Most popular hashtags: #austria #vienna #fitnessmotivation #fitness.
+  Find top food Instagram influencers in Austria in 2023. Most popular hashtags: #ootd #love #blogger #fashion.
 platform: Instagram
-hits: 165
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 165 Instagram influencers like this in Austria for you to pitch.
+hits: 75
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 75 Instagram influencers like this in Austria for you to connect with.
 profiles:
   - username: "simply_lenny"
     fullname: >-
       LENNY💋✌🏼
     bio: >-
-      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
+      Lenny‘s Little World of 🧘🏻‍♀️#yoga 🤸🏼‍♀️#fashion 💄 #traval ✈️ & #foodlover🍜
     location: "Austria"
-    followers: 2474
-    engagement: 2945
-    commentsToLikes: 0.473416
+    followers: 1406
+    engagement: 4049
+    commentsToLikes: 0.510271
     id: ckap52mut9wvu0i78iu0g9589
     verified: false
-    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
-  - username: "doris.xyz"
+    hashtags: "#modeblogger, #potd, #reminder, #travelgoals"
+  - username: "joortner"
     fullname: >-
-      🌸 Doris Jaritz  | 📍 AUT
+      Joachim Ortner
     bio: >-
-      Crazy in love with dogs, fitness and food 💕 Let's be pretty kind. Pretty smart. Pretty strong 🦁 @prozis -> 10% Rabatt mit DORIS
+      Here to spread positivity🔥 📍based in Linz | Vienna 🇦🇹 🤍 @lenadannerx 💪🏼 @foodspring 15% Code: joachimFSG Team @happyfit.fitnesscenter
     location: "Austria"
-    followers: 25798
-    engagement: 738
-    commentsToLikes: 0.082926
-    id: ck0w2jf40oo530i19gw59zm1z
+    followers: 48690
+    engagement: 445
+    commentsToLikes: 0.080895
+    id: ck0ucj2j5h1ha0i199tilory5
     verified: false
-    hashtags: "#workforit, #austria, #homeworkout, #healthymind"
-  - username: "ela__1308"
+    hashtags: "#mode, #haul, #pump, #travel"
+  - username: "hank_ge"
     fullname: >-
-      Ela 🕊
+      HANK GE
     bio: >-
-      FITNESS ▫️ FOOD ▫️ FASHION 📩 ela_1308@gmx.at 📍 Austria 🇦🇹
+      📍Vienna/ Berlin Food, Fashion, lifestyle 🌱veggie My boho brand @wildsky_shop Restaurants @bali_brunch& @bali_babecreamery
     location: "Austria"
-    followers: 23685
-    engagement: 784
-    commentsToLikes: 0.192541
-    id: ckap6ynovhwt50i78koinlnp4
+    followers: 372061
+    engagement: 309
+    commentsToLikes: 0.005107
+    id: ck0tym4oxn80x0i194wpl73kr
     verified: false
-    hashtags: "#sexy, #blondie, #fitgirls, #makeup"
-  - username: "susannaamarie"
-    fullname: >-
-      SUSANNA ✨ | TIROL ⛰ OUTDOOR
-    bio: >-
-      good vibes only ☀️ • content creator from Austria / Tyrol • nature, fitness & food ❤️ • contact: office@susannamarie.at 👇🏼 take a look!
-    location: "Austria"
-    followers: 26421
-    engagement: 666
-    commentsToLikes: 0.076925
-    id: ck0vwof5fusk50i19y8syluuz
-    verified: false
-    hashtags: "#bergliebe, #attersee, #tirol, #innsbruckaustria"
-  - username: "fabiankitzweger"
-    fullname: >-
-      FABIAN KITZWEGER
-    bio: >-
-      ✖️ Fitness | Travel | Lifestyle 📍 Vienna 📈 Social Media Marketing 👤 Chemical Engineer 🥇 Mister Austria 🤍 @gerid_rux 💪🏼 @foodspring 15% Code: FabianFSG
-    location: "Austria"
-    followers: 232486
-    engagement: 281
-    commentsToLikes: 0.035384
-    id: ck0ttcmlx259p0i19vzjjjii6
-    verified: true
-    hashtags: "#staysafe, #ad, #reels, #travel"
-  - username: "ich_verstehe_es_blog"
-    fullname: >-
-      ELISABETH KLOPF
-    bio: >-
-      Fashion / Lifestyle / Food / Travel / Mum / Traditions Contact cooperation: ek@ich-verstehe-es.com
-    location: "Austria"
-    followers: 6980
-    engagement: 675
-    commentsToLikes: 0.140447
-    id: ck0w2k0g3orc90i19qiuq8p37
-    verified: false
-    hashtags: "#lookoftheday, #ootd, #photooftheday, #kosmetik"
+    hashtags: "#kappaperfumes, #foamieplasticfreechallenge, #foamie, #foamiemen"
   - username: "growingannanas"
     fullname: >-
       Anna Engelschall | Fitness
     bio: >-
-      ▪️workouts, healthy recipes 🍍 ▪️lots of positive vibes from Austria 🇦🇹 ▪️ @foodspring | code ‘ANNAFSG‘ 🦈 @gymshark Athlete
+      ▪️youtube: GROWINGANNANAS ▪️ @foodspring | code ANNAFSG ▪️ @justspices | code JUSTANNA 🦈 @gymshark Athlete
     location: "Austria"
-    followers: 185557
-    engagement: 524
-    commentsToLikes: 0.018900
+    followers: 314034
+    engagement: 448
+    commentsToLikes: 0.017883
     id: ck5hmt3r6mkog0i11zfceiqe3
     verified: false
-    hashtags: "#summervibes, #fitness, #fitnessmotivation, #fullbodyworkout"
-  - username: "mizzchrissi"
+    hashtags: "#fullbodyworkout, #hiitworkout, #fitnessplan, #fitnessmotivation"
+  - username: "virginia.rox"
     fullname: >-
-      ©️h ®️issi
+      Virginia Rox🧞‍♀️
     bio: >-
-      🌍 Globetrotter 👩🏻‍💼 Pharma Business Woman 🏋️‍♀️ @malu.wien 🐶 Dog-Mom 👗 Fashionlover 🍣 Foodlover 📍Vienna
+      🇦🇹 ginny 🇵🇭 The magic of an active & conscious life, mental health, self development & compassion ✨ ❤️ @philippknefz 🌱 @foodspring “vroxFSG”
     location: "Austria"
-    followers: 59637
-    engagement: 202
-    commentsToLikes: 0.047990
-    id: ck5zp0b3nrqjl0i141kfftvbp
+    followers: 43855
+    engagement: 276
+    commentsToLikes: 0.054560
+    id: ck6ui8b8udn0n0j718tccz8d4
     verified: false
-    hashtags: "#beautybehandlung, #viennaat, #fitness, #heurigenschenke"
-  - username: "emilysnotsosecretdiary"
+    hashtags: "#foodspringfamily, #couplegoals, #graz, #anzeige"
+  - username: "senoritachiquita"
     fullname: >-
-      EMILY | Fashion | Lifestyle
+      Jacqui 🦋
     bio: >-
-      ▫️Content Creator ▫️Fashion, Lifestyle, Food & a dose of my life ▫️22 y/o, student, vegetarian ▫️based in upper austria —> Profil enthält Werbung
+      Traveling✈️ Animals🐶 Food🐽 Cooking👩🏻‍🍳 Techno 🎶 Dancing💃🏻 Flowers🌸 Art🧑🏻‍🎨 Memes🤪 PR Manager: @valentinagurova For PR inquiries: infovalya@mail.ru
     location: "Austria"
-    followers: 5252
-    engagement: 617
-    commentsToLikes: 0.120395
-    id: ck8t2x5ve11980j785gl2o5gr
+    followers: 24963
+    engagement: 260
+    commentsToLikes: 0.042367
+    id: ck5hi8pcsc8b80i11j0gymcwn
     verified: false
-    hashtags: "#glanzst, #sundayliketime, #supporteachother, #girlssupportgirls"
-  - username: "philipp.lipiarski"
+    hashtags: "#look, #underwearmodel, #underwear, #lingerie"
+  - username: "mariahoeflriesch"
     fullname: >-
-      Photographer | Vienna
+      Maria Höfl-Riesch
     bio: >-
-      🎉: founder of good life crew 📸: food, events, commercial 🏫: real estate investing 🙏: cooperation & booking mail plz: ✉: philipp [at] goodlifecrew.com
+      - former alpine ski racer⛷ - 3 times Olympic Champion🥇 - expert for skiing, fitness, motivation💪🏼 - food and fashion lover🥗👗 - travel and lifestyle🚗💃🏼
     location: "Austria"
-    followers: 15336
-    engagement: 316
-    commentsToLikes: 0.124709
-    id: ck1383sqmed190i19cv9jo6d5
+    followers: 52119
+    engagement: 301
+    commentsToLikes: 0.021132
+    id: ck5hl1hafjegl0i11yw7zuld4
+    verified: true
+    hashtags: "#instafashion, #nomination, #staypositive, #fashiongirl"
+  - username: "boliviannomad"
+    fullname: >-
+      Mauro 🇧🇴🇦🇹 Travel Blogger
+    bio: >-
+      ✈️ Living in Vienna when not country-hopping 🌎 𝟔𝟗 𝐜𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬 🔜Denmark🇩🇰 🎒Mission: to visit all 195 countries 📸Storyteller and foodie🌮 🎥Join me⬇️
+    location: "Austria"
+    followers: 12719
+    engagement: 530
+    commentsToLikes: 0.053158
+    id: ck55ld3831arh0i110v542xwc
     verified: false
-    hashtags: "#viennablogger, #austriablogger, #throwback, #wien"
+    hashtags: "#love, #europa, #holidays, #topeuropephoto"
+  - username: "philipp_aschenwald"
+    fullname: >-
+      Philipp Aschenwald
+    bio: >-
+      • austrian skijumper 🇦🇹 • part of @hargassnerfamily 🔥 • passion for good food and paragliding
+    location: "Austria"
+    followers: 19537
+    engagement: 1140
+    commentsToLikes: 0.007383
+    id: ck5hg6qa017bk0i11pq813ecy
+    verified: false
+    hashtags: "#audi, #skijumpingaut, #polizeisport, #sporthilfeat"
+  - username: "caroline.lena"
+    fullname: >-
+      Lena
+    bio: >-
+      📍 #vienna 📷 #behindthescenes 🍴 #foodstories 🇦🇹 #contentcreator ✉️ lenacaroline.lc@gmail.com
+    location: "Austria"
+    followers: 11291
+    engagement: 223
+    commentsToLikes: 0.218527
+    id: ck0w4tdkd0bjo0i19ho2fzyd7
+    verified: false
+    hashtags: "#bts, #lightroom, #sustainable, #rabattcode"
 ---

@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Portugal in 2023
+title: Top 10 Instagram Influencers In Portugal In 2023
 description: >-
-  Find top Instagram influencers in Portugal in 2023. Most popular hashtags: #portugal #mensfashionreview #visitportugal.
+  Find top Instagram influencers in Portugal in 2023. Most popular hashtags: #pub #christmastime #houseenvy.
 platform: Instagram
-hits: 1643
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 1643 Instagram influencers like this in Portugal for you to work with.
+hits: 757
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 757 Instagram influencers like this in Portugal for you to contact.
 profiles:
-  - username: "thetwobohemians"
-    fullname: >-
-      Luke & Tyler ≈ MINDFUL TRAVEL
-    bio: >-
-      Couple Living Consciously, Working Online & Travelling the World. 🌍 📸 @bohemianpresets Founders: @consciouscollectives.co 💦 ↺ Now: #Portugal 🇵🇹
-    location: "Portugal"
-    followers: 64063
-    engagement: 223
-    commentsToLikes: 0.052522
-    id: ck0u6dt101m860i1921ad3kl5
-    verified: false
-    hashtags: "#travelcouple, #vanlifeeurope, #couplegoals, #laptoplifestyle"
   - username: "mr.andre.fernandes"
     fullname: >-
       André 🎨
     bio: >-
-      💋 Makeup Artist (DM for info) 📍 Lisboa | Portugal 📧 afgfernandes@gmail.com 📺 ÚLTIMO VÍDEO ⤵️
+      💋 Makeup Artist (DM for info) 📮 Digital & Brands: @wowmeagency 📧 afgfernandes@gmail.com 🏷 Código Lookfantastic: MRANDRE 📺 ÚLTIMO VÍDEO ⤵️
     location: "Portugal"
-    followers: 10137
-    engagement: 2558
-    commentsToLikes: 0.903432
+    followers: 16874
+    engagement: 810
+    commentsToLikes: 0.401918
     id: ck8tduw344uvg0j78zgfznyqt
     verified: false
-    hashtags: "#katyperry, #malemua, #pastelmakeup, #nyxcosmetics"
-  - username: "constanca_moura"
+    hashtags: "#lookfantastic, #makeuptutorial, #halloween, #makeupartist"
+  - username: "barbarabandeiraa"
     fullname: >-
-      Constança Gomes Moura
+      Bárbara Bandeira
     bio: >-
-      📍Lisboa, Portugal ➳ Fashion & Lifestyle 🎓 IMRT student, ESSCVP 💌 for collabs
+      CAMPO PEQUENO ⬇️
     location: "Portugal"
-    followers: 6760
-    engagement: 2313
-    commentsToLikes: 0.229474
-    id: ck0ud62vficdz0i19zz0851bk
-    verified: false
-    hashtags: ""
-  - username: "miss_tet"
+    followers: 913272
+    engagement: 592
+    commentsToLikes: 0.056731
+    id: ck0u6e8001o8w0i19rseu6wju
+    verified: true
+    hashtags: "#pelesuaveem5minutos, #venusgirl, #moskovskaya, #moskovskayapink"
+  - username: "allaboardfamily"
     fullname: >-
-      Teresa Lemos
+      Allaboardfamily | Travel Family
     bio: >-
-      Glitter Lifestyle ✨ | Makeup 💄 | Food 🥞 | Fashion 👗 | 🐶 lover | Travel ✈️ | teresalemos@misstet.pt 💌
+      Travel the World Catarina + Filipe = Gui, Manuel, Vasco Dialysis 💉 & Family ♥️ 📍 Portugal
     location: "Portugal"
-    followers: 27624
-    engagement: 2192
-    commentsToLikes: 0.114470
-    id: ck55oexap88090i11kxq4k55q
+    followers: 114692
+    engagement: 679
+    commentsToLikes: 0.286492
+    id: ck139yvpnnsyj0i19c9p0ieaz
     verified: false
-    hashtags: "#sunnyday, #summer, #smile, #alegria"
-  - username: "nescp"
+    hashtags: "#travelfamily, #riodejaneirotrip, #travelwithkids, #2023goals"
+  - username: "isam.0"
     fullname: >-
-      Inês Costa Pereira
+      👺
     bio: >-
-      🌱 Vegetarian, Health & Lifestyle 🌟 📍 Lisboa, Portugal 🛍 Compra a minha roupa @nescpcloset 🎥 YouTube +23k 🎓 Gestão de Marketing
+      “ REBEL “ OUT NOW 🔥
     location: "Portugal"
-    followers: 13731
-    engagement: 2018
-    commentsToLikes: 0.105267
-    id: ck6012z18eqtz0i14zh0znn8z
+    followers: 205923
+    engagement: 883
+    commentsToLikes: 0.035113
+    id: ck5zjwi6oidyy0i1458kpi1wr
     verified: false
-    hashtags: "#sorteio, #giveaway, #pub, #girlsgoneloavies"
-  - username: "souoclaudex"
+    hashtags: "#malibu, #ageberi, #engar, #summer"
+  - username: "ibnhattuta"
     fullname: >-
-      🖤claudexter💔
+      Kasem Hato ابن حتوتة
     bio: >-
-      📥 info.claudex@gmail.com TikTok(+650k)/ @rafflestore.pt Snap: claudio35durant👻
+      I backpack and share videos on YT and FB (5M+) 🎒 أنا ابن حتوتة, متعتي بالسفر والتجارب الجديدة 🇵🇸🇯🇴 سأصنع فيديو من كل دولة بالعالم 🎥 70/195 🌍
     location: "Portugal"
-    followers: 108444
-    engagement: 1841
-    commentsToLikes: 0.064439
-    id: ck9wgmlt0u0tv0j78i0rn4a47
-    verified: false
-    hashtags: "#spzcrew, #styleyourselfatsportzone, #mylevismyvibe"
-  - username: "brunolexim"
+    followers: 765078
+    engagement: 317
+    commentsToLikes: 0.021484
+    id: ck8sy58szjqpf0j78preoaloq
+    verified: true
+    hashtags: "#worldcup, #theworldsmasterpiece, #experiencealula, #saudiarabia"
+  - username: "anavarelaoficial"
     fullname: >-
-      BRUNO LEXIM
+      Ana Varela
     bio: >-
-      • Menswear | Fashion Creator | Lifestyle • Lisbon, Portugal 🇵🇹 • Contact: E-mail 📩 www.trendhim.com 15% discount! trnd.hm/trendhim.brunolexim
+      🌿Mother. Actress. Sustainability Advocate. 🎬Acting&Management: rscarrelo@gmail.com 💡PR,Digital & Brands: squad@connosco.pt
     location: "Portugal"
-    followers: 5702
-    engagement: 1486
-    commentsToLikes: 0.175327
-    id: ck8t4nlcl7fh60j78xtp7cxlv
-    verified: false
-    hashtags: "#mensfashionstyle, #bestofmenstyle, #waymenfashion, #classydapper"
-  - username: "sara_nata"
+    followers: 103860
+    engagement: 290
+    commentsToLikes: 0.027824
+    id: ck5q4f1gvou6w0i11c0b7cft3
+    verified: true
+    hashtags: "#bmwportugal, #queridospap, #greenlittlestep, #shampoosolidoultrasuave"
+  - username: "lauragfisher"
     fullname: >-
-      Sara Nata | Fashion•Lifestyle
+      LAURA FISHER
     bio: >-
-      📍Porto • Portugal Stylist • Image Consultant • Fashion Adviser 📥 DM
+      :) lauragfisher8@gmail.com 🇪🇸 Madrid • Lisboa
     location: "Portugal"
-    followers: 6097
-    engagement: 1375
-    commentsToLikes: 0.110565
-    id: ck8t4c6ru68o50j784zjtiz1f
+    followers: 10054
+    engagement: 281
+    commentsToLikes: 0.134040
+    id: ck5qdzeh2xzuk0i1149rljuam
     verified: false
-    hashtags: "#today, #fashionstyle, #fashionblogger, #manfashionpost"
-  - username: "itsanahilima"
+    hashtags: "#cluseclub, #clusejewellery, #alicante, #moda"
+  - username: "daphnemoreau"
     fullname: >-
-      𝐀𝐧𝐚𝐡í 𝐋𝐢𝐦𝐚
+      Daphné Moreau (Mode&TheCity)
     bio: >-
-      🦋 Counting blessings contacto: itsanahilima@gmail.com shop @analucosmetics ⤵︎ meus looks
+      ✨ Sharing everyday things that make me happy : wellness, conscious fashion, #cleanbeauty & home decor 🔑 @daphnesdreamhome 💌 daphne@modeandthecity.net
     location: "Portugal"
-    followers: 21485
-    engagement: 1325
-    commentsToLikes: 0.065919
-    id: ck9wdx0obhnf90j78h8mughsz
-    verified: false
-    hashtags: "#bioextratusportugal, #outfitinspiration, #crespas, #blogueirinha"
-  - username: "lucindagon.travel"
+    followers: 188900
+    engagement: 242
+    commentsToLikes: 1.439422
+    id: ck0tu50yq5o140i19dtvus4cs
+    verified: true
+    hashtags: "#preppyfashion, #parisianstyle, #gossipgirl, #homerenovation"
+  - username: "discoveroverthere"
     fullname: >-
-      Lucinda Gonçalves
+      Chihuei ✈ All Things Travel
     bio: >-
-      #Explore 🗺 #Eat🍲 #Drink 🍷 📍#Portugal 🇵🇹 ✈ 52 countries My Photos 📸 My Travels 🛫🌍 Sharing my Travel Journals 🧳 📔 💌 lucindagon.travel@gmail.com
+      ▫️san francisco, ca ▫️but always out of town ▫️name rhymes with freeway ▫️hello@discoveroverthere.com
     location: "Portugal"
-    followers: 16582
-    engagement: 1136
-    commentsToLikes: 0.082322
-    id: ckap5xjdgdkxt0i78a7uncrve
+    followers: 69742
+    engagement: 202
+    commentsToLikes: 0.235635
+    id: cl7k00zosuwfp0i23wabnt32m
     verified: false
-    hashtags: "#exploreportugal, #dametraveler, #tupodes, #lisboaportugal"
+    hashtags: "#abetterwaytostay, #sondernola, #sonder"
+  - username: "barbara_ines"
+    fullname: >-
+      Barbarita
+    bio: >-
+      PT barbara@whatabout-agency.com 🌎 Barbara@ok-ev.com Founder of @two.zero.brand
+    location: "Portugal"
+    followers: 177514
+    engagement: 125
+    commentsToLikes: 0.002364
+    id: ck0ubgf5wekjx0i19ib2on7g1
+    verified: false
+    hashtags: "#loeweperfumes, #212carolinaherrera, #steampod4, #steampodunlimited"
 cities:
   - name: Lisbon
     link: /instagram/portugal/lisbon

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In South Korea in 2023
+title: Top 10 Skincare Instagram Influencers In South Korea In 2023
 description: >-
-  Find top skincare Instagram influencers in South Korea in 2023. Most popular hashtags: #skincare #kbeauty #makeup #ootd.
+  Find top skincare Instagram influencers in South Korea in 2023. Most popular hashtags: #skincare #kbeauty #makeup #korea.
 platform: Instagram
-hits: 45
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database holds 45 Instagram influencers like this in South Korea for you to connect with.
+hits: 40
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 40 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
-  - username: "teoyang"
+  - username: "hehejihee"
     fullname: >-
-      Teo Yang 양태오
+      Julie Hwang
     bio: >-
-      TeoYang Design Studio & EATH Library Skincare for work please contact teoyang.studio@gmail.com
+      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
     location: "South Korea"
-    followers: 76498
-    engagement: 195
-    commentsToLikes: 0.014059
-    id: ck5zwlc7j6brv0i145d16j0s3
+    followers: 56787
+    engagement: 522
+    commentsToLikes: 0.012792
+    id: ckaozhqm2lxud0i78ep1u8e99
     verified: false
-    hashtags: "#ugorondinone, #loeweperfumes, #offwhite, #bonestfurniture"
-  - username: "jk_lm19"
+    hashtags: "#serenity, #fashion, #ootd, #travel"
+  - username: "mariposalut"
     fullname: >-
-      Nicole
+      Tanya 探雅🕊
     bio: >-
-      Love many things (including Korean skincare/Asian skincare, makeup and kpop) make videos 💜💜💜💜
+      🎓Psychology 🧖🏽‍♀️ Korean skincare enthusiast 🌸 📲Social Media Management ✨ Instagram is not the real life, tho ✌🏼
     location: "South Korea"
-    followers: 9335
-    engagement: 1171
-    commentsToLikes: 0.003389
-    id: ck14j9ka4j8pl0i198gil5l63
+    followers: 14539
+    engagement: 865
+    commentsToLikes: 0.019217
+    id: ckf5rv9fwdz100j23rhxyct3k
     verified: false
-    hashtags: "#purpleheart, #skincare, #kbeauty, #bts"
+    hashtags: "#ad, #triumphthruxton, #tbt, #werbung"
+  - username: "thruhelenslens"
+    fullname: >-
+      HELEN LIAO
+    bio: >-
+      ☕️ seoul ✉️ summer@sparktalentgroup.com skincare & vlogs on TikTok / YouTube
+    location: "South Korea"
+    followers: 26726
+    engagement: 749
+    commentsToLikes: 0.136993
+    id: ckf5mrpx7v4hu0j23zntbbl6c
+    verified: false
+    hashtags: "#iopeus, #iopegiftedme, #seoultosephora, #aveneusa"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
     bio: >-
-      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜Actress 배우 🐙 dancer, yogi 🦖 Youtuber
+      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜@dina11mujanovic <-- 촬영 🐙 dancer, yogi, voice actress, actress 🦖 Youtuber
     location: "South Korea"
-    followers: 7855
-    engagement: 1165
-    commentsToLikes: 0.068807
+    followers: 6790
+    engagement: 1103
+    commentsToLikes: 0.079772
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
-    hashtags: "#skincare, #skincarereview, #koreanbeauty, #kbeauty"
+    hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
   - username: "morganalisonstewart"
     fullname: >-
       Morgan
     bio: >-
-      Korean + American ✨ 550,000+ on The Beauty Breakdown Channel ✨Official Instagram ✨ moegeebear on Twitch ✨👇🎥 #thebeautybreakdown
+      Korean + American ✨ 550,000+ on The Beauty Breakdown Channel ✨Official Instagram ✨ moegeebear on Twitch ✨Booktube ✨👇🎥 #thebeautybreakdown
     location: "South Korea"
-    followers: 78072
-    engagement: 228
-    commentsToLikes: 0.014175
+    followers: 75319
+    engagement: 162
+    commentsToLikes: 0.011509
     id: ck55j9taqwl0x0i11n9d4lden
     verified: false
-    hashtags: "#kbeauty, #koreanskincare, #skincare, #koreanbeauty"
-  - username: "angelminji"
+    hashtags: "#skincare, #ad, #thebeautybreakdown, #thebookbreakdown"
+  - username: "girinbt"
     fullname: >-
-      엔젤민지
+      이기린
     bio: >-
-      다이어트 + 뷰티 + 여행(뷰티관련 광고/협찬 안받아용❌) No fun No gain⭐️ 아티스트리 패셔니스타 1기 TOP1👑 여러분 뷰티하세요❤️ 📺유투브로 만나는 엔젤민지 [유투브에서 '엔젤민지' 검색] 👇🏼링크타고 놀러오세요!
+      * Stencil Artist * @leegirin_art 🎨 * Leegirin 유튜브 🎬👇🏻
     location: "South Korea"
-    followers: 24489
-    engagement: 253
-    commentsToLikes: 0.045044
-    id: ck14gwj6l7dva0i19i3337o1k
+    followers: 110459
+    engagement: 135
+    commentsToLikes: 0.038141
+    id: ck0vx2xbowvu40i19x4ubel43
     verified: false
-    hashtags: "#diet, #skincare, #angelminji, #artistry"
-  - username: "jenny_beauty0209"
-    fullname: >-
-      제니어리 제니
-    bio: >-
-      E-Mail : jenny_beauty0209@naver.com
-    location: "South Korea"
-    followers: 228537
-    engagement: 160
-    commentsToLikes: 0.015432
-    id: ck0w3zcw3w1n50i19qvmizqlj
-    verified: false
-    hashtags: "#motd, #eyemakeup, #skincare, #espoir"
-  - username: "hanna.co.kr"
-    fullname: >-
-      Hanna Kim 김한나
-    bio: >-
-      아나운서 / 성우 / 행사MC / 릴리맘 TV Presenter Radio DJ 📻 @thescoop1013 Voice Actress 2018 Pyeongchang Olympics MC 2018 Winter Paralympics MC 🌸🌼🌺
-    location: "South Korea"
-    followers: 18777
-    engagement: 321
-    commentsToLikes: 0.016405
-    id: ck5zm77ftm18b0i145hym7m16
-    verified: false
-    hashtags: "#brunch, #work, #dogsofinstagram, #radio"
-  - username: "funskincare"
-    fullname: >-
-      Claudia Christin
-    bio: >-
-      MBBS, Dermatology Ph.D. 🇲🇨 - 🇰🇷 . More link and articles down below✨
-    location: "South Korea"
-    followers: 78629
-    engagement: 356
-    commentsToLikes: 0.034453
-    id: ck0u2jw7601hw0i19mynry23z
-    verified: false
-    hashtags: "#selfcare, #skinstagram, #selflove, #instaskin"
+    hashtags: "#makeup, #kbeauty, #koreanstyle, #motd"
   - username: "fugi_bu"
     fullname: >-
       보거
     bio: >-
-      김지연 📩 cosmi126@naver.com
+      김지연 📩 cosmi126@naver.com
     location: "South Korea"
-    followers: 97482
-    engagement: 104
-    commentsToLikes: 0.009236
+    followers: 121796
+    engagement: 90
+    commentsToLikes: 0.002670
     id: ck0tynjldneoh0i19wklqdtj8
     verified: false
-    hashtags: "#beauty, #kbeauty, #mlb, #lotd"
-  - username: "artistrykorea"
+    hashtags: "#motd, #kbeauty, #lotd, #10"
+  - username: "theklog"
     fullname: >-
-      아티스트리 코리아 (ARTISTRY Official)
+      The Klog
     bio: >-
-      자연의 순수하고 강력한 힘에 혁신적인 사이언스 테크놀로지를 더해 세상 하나뿐인 오직 당신만의 아름다움을 만들어 갑니다. #Artistry #Beauty #Travel #city #Cosmetic #Art ▼홈페이지 바로가기 ▼
+      Your skin care guide, inspired by Korean beauty.  A Soko Glam project.
     location: "South Korea"
-    followers: 47695
-    engagement: 324
-    commentsToLikes: 0.006022
-    id: ck15sbpzhc7dh0i19cm8pa91p
-    verified: true
-    hashtags: "#14, #artistry, #skincare, #porecare"
+    followers: 182051
+    engagement: 138
+    commentsToLikes: 0.012520
+    id: ck0vylwxp4nai0i192fkh0r8k
+    verified: false
+    hashtags: "#kbeautyskincare, #skincareroutine, #kbeauty, #theklog"
+  - username: "cholitoraulito"
+    fullname: >-
+      🅡🅐🅤🅛 : 🅨🅞🅤🅝🅖🅙🅘🅝
+    bio: >-
+      ᴜɴɪᴠᴇʀsɪᴅᴀᴅ ᴅᴇ ᴅᴀɴᴋᴏᴏᴋ. 26. 🇰🇷. . ᴅᴇᴅíᴄᴀʟᴇ ᴍás ᴛɪᴇᴍᴘᴏ ᴀ ʟᴏ ǫᴜᴇ ᴛᴇ ʜᴀᴄᴇ ʀᴇᴀʟᴍᴇɴᴛᴇ ғᴇʟɪᴢ.
+    location: "South Korea"
+    followers: 54114
+    engagement: 985
+    commentsToLikes: 0.017086
+    id: ck8tcwqxw0z830j78qzzxxk4v
+    verified: false
+    hashtags: "#cancun, #missingyou, #goodbyesummer, #ad"
+  - username: "joonkik"
+    fullname: >-
+      Joonki Kim
+    bio: >-
+      🇨🇦 🇰🇷 • joonkik 준킼🎬 • LIFEPLUS Ambassador 6기 ⬇️Link To My Channel⬇️
+    location: "South Korea"
+    followers: 27416
+    engagement: 1439
+    commentsToLikes: 0.017443
+    id: ck8t7gvpxgr4h0j78nztvebhu
+    verified: false
+    hashtags: "#ootd, #joonkik, #daily, #selfie"
 ---

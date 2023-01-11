@@ -1,130 +1,130 @@
 ---
-title: Top 10 Painters Instagram Influencers In Germany in 2023
+title: Top 10 Painters Instagram Influencers In Germany In 2023
 description: >-
-  Find top painters Instagram influencers in Germany in 2023. Most popular hashtags: #artwork #berlin #art.
+  Find top painters Instagram influencers in Germany in 2023. Most popular hashtags: #hobby #artist #oilpainting #art.
 platform: Instagram
-hits: 291
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 291 Instagram influencers like this in Germany for you to pitch.
+hits: 299
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 299 Instagram influencers like this in Germany for you to work with.
 profiles:
   - username: "rischny"
     fullname: >-
-      Maike Frederike
+      Frederike 💕
     bio: >-
-      ♡ Me.The painter.The canvas ♡ 👯 Makeup & Fashion Gurl 💃🏼 @fashthetix 💌 frederikescheibe.pr@gmail.com 📸 small details are enhanced while editing
+      🧚🏼‍♀️ Makeup | Fashion | Lifestyle 📌 Soon Frankfurt 🎨 Me.The painter.The canvas 🎨 💌 frederikescheibe.pr@gmail.com
     location: "Germany"
-    followers: 65624
-    engagement: 149
-    commentsToLikes: 0.107732
+    followers: 60304
+    engagement: 128
+    commentsToLikes: 0.167619
     id: ck0uakql5ck1e0i19ggkavmqq
     verified: false
-    hashtags: "#graphicliner, #highfashionmakeup, #halloweenideas, #makeupprogress"
+    hashtags: "#makeuptransformation, #christmasmakeup, #makeupfeed, #aestheticmakeup"
   - username: "julia.runova"
     fullname: >-
       Julietta Runova Leonidovna
     bio: >-
       Painter, Model, weirdo Based in Berlin
     location: "Germany"
-    followers: 7107
-    engagement: 643
-    commentsToLikes: 0.028337
+    followers: 7392
+    engagement: 706
+    commentsToLikes: 0.032766
     id: ckaoqtisqkbgg0i78qmd48omz
     verified: false
-    hashtags: "#tattooinstagram, #model, #girlswithtattoos, #chanel"
-  - username: "telmomiel"
-    fullname: >-
-      TELMO MIEL
-    bio: >-
-      Two (mural) painters looking like viking brothers from the Netherlands. (telmomiel.com)
-    location: "Germany"
-    followers: 71147
-    engagement: 376
-    commentsToLikes: 0.019256
-    id: ck0vwu03jvlaa0i19piysqz8l
-    verified: false
-    hashtags: "#wallsofvision, #holland, #boulognesurmer, #provider"
-  - username: "nasen555"
-    fullname: >-
-      NanSen那森
-    bio: >-
-      @nansen555 🎈上海🇨🇳Shanghai 🎈🇲🇳Inner Mongolia 🎈💻graphic designer 🎈🖌️painter 🎈Art🎈gym🎈fashion🎈vacation🎈artist
-    location: "Germany"
-    followers: 17192
-    engagement: 362
-    commentsToLikes: 0.014850
-    id: ck6uih3sgf1ss0j71ixq1a45b
-    verified: false
-    hashtags: "#gym, #fitness, #mens, #gymlife"
-  - username: "james_bullough"
-    fullname: >-
-      James Bullough
-    bio: >-
-      Oil Painter/Muralist/Host of VantagePoint Radio. www.VantagePointRadio.com
-    location: "Germany"
-    followers: 64911
-    engagement: 198
-    commentsToLikes: 0.026917
-    id: ck14ln4udvhxs0i19xufehqyl
-    verified: true
-    hashtags: "#losangeles, #mural, #doug, #procreate"
-  - username: "thomas_a_hollbach"
-    fullname: >-
-      OILPAINTING
-    bio: >-
-      GERMAN OIL PAINTER - PAINTING FAITH SETS
-    location: "Germany"
-    followers: 10447
-    engagement: 1023
-    commentsToLikes: 0.055069
-    id: ckf5vpce9pf4q0j23bjx2chm3
-    verified: false
-    hashtags: "#oilpaintingtechniques, #paintingart, #oilpastelart, #figurativepaintings"
-  - username: "mizdanajames"
-    fullname: >-
-      Dana James
-    bio: >-
-      📍Painter ✨📍Brooklyn NY Proud greyhound owner 🐕 DM for art inquiries
-    location: "Germany"
-    followers: 24509
-    engagement: 962
-    commentsToLikes: 0.058870
-    id: ck1373xfg9ngv0i19txtixy1u
-    verified: false
-    hashtags: "#inkonpaper, #inkbleed, #whitewalls, #artadvisor"
+    hashtags: "#marilynmanson, #boudoir, #creature, #harness"
   - username: "bozovreco"
     fullname: >-
       Vreco Bozo
     bio: >-
       Sevdah singer, writer, composer archeologist,designer, painter.
     location: "Germany"
-    followers: 46140
-    engagement: 220
-    commentsToLikes: 0.030987
+    followers: 47649
+    engagement: 350
+    commentsToLikes: 0.025108
     id: ck5hiywmjfplr0i11g8na8ymr
     verified: true
     hashtags: ""
-  - username: "arjeta.palushaj"
+  - username: "bfwolff"
     fullname: >-
-      Arjeta
+      Bayard Wolff (BAY-yerd WUULF)
     bio: >-
-      Ariaaa 'Portokalli' 🍊 SINGER/FASHION DESIGNER/PAINTER @arjeta.artworks The voice of albania 6 Kenga magjike 2017
+      Disney Nerd. Cat Dad. Dog Dad. Hairstylist. Oil Painter. Pratt Alum-BFA. Sherwin Williams Color Blender.
     location: "Germany"
-    followers: 6243
-    engagement: 576
-    commentsToLikes: 0.042570
-    id: ck5hlijj4kadg0i11vc1odwnf
+    followers: 16869
+    engagement: 726
+    commentsToLikes: 0.015719
+    id: ck139bntgki620i19tbyw4vnc
     verified: false
-    hashtags: "#fitbody, #multiartist, #artwork, #fashiondesigner"
-  - username: "atrusovaartist"
+    hashtags: "#officerjenny, #redhair, #silkstonebarbie, #gottacatchemall"
+  - username: "michaeltaylor5863"
     fullname: >-
-      Anastasia Trusova
+      Michael Taylor
     bio: >-
-      👩‍👦‍👦mom 🎨Painter impressionist 🇧🇪I live in Belgium on the border with Aachen 🖼Art for sale here⬇️
+      British painter in Dorchester. Info: @jamie.anderson.art @waterhousedodd
     location: "Germany"
-    followers: 101880
-    engagement: 359
-    commentsToLikes: 0.014907
-    id: ck0u8z09l8nev0i1930uqyeln
+    followers: 18122
+    engagement: 713
+    commentsToLikes: 0.028438
+    id: ck5zzcqdzbhor0i1419t2zgwu
     verified: false
-    hashtags: "#artgallery, #impressionism, #painting, #kunst"
+    hashtags: "#michaeltaylor, #stillifepainting, #britishpainting, #detail"
+  - username: "nurgletoashes"
+    fullname: >-
+      Ashlie Branham
+    bio: >-
+      Artist at ♥️ Gamer Girl 🌺 Warhammer40K Painter⚔️ 🏆Grand Champion 2018 & 2019: North America Warhammer Hobbyist Expo
+    location: "Germany"
+    followers: 4642
+    engagement: 1353
+    commentsToLikes: 0.035301
+    id: ck139kfzglr3h0i19bz0jfjzn
+    verified: false
+    hashtags: "#warhammer40k, #deathguard, #wh40k, #mortarion"
+  - username: "artatbackhaus"
+    fullname: >-
+      Peter Backhaus
+    bio: >-
+      painter, singer, dreamer, child, adult, magician, founder, wanderer Berlin/Gothenburg Represented by Singulart
+    location: "Germany"
+    followers: 10903
+    engagement: 208
+    commentsToLikes: 0.057269
+    id: ck8t4abs661d30j78fkzjs35e
+    verified: false
+    hashtags: ""
+  - username: "josephine_henning"
+    fullname: >-
+      Josephine Henning
+    bio: >-
+      Artist/Painter Olympian & Former Footballplayer 🇩🇪 🆕Exhibition: Sportmuseum Köln 🔜
+    location: "Germany"
+    followers: 23033
+    engagement: 319
+    commentsToLikes: 0.016821
+    id: ck5cipzvwt4vu0i11vlge0yvc
+    verified: true
+    hashtags: "#eifelgp, #acrylicpainting, #equalplay, #livepainting"
+  - username: "snowsart"
+    fullname: >-
+      Larissa 🐝 ~ she/her
+    bio: >-
+      Germany based painter and illustrator 📍Open for business
+    location: "Germany"
+    followers: 27887
+    engagement: 98
+    commentsToLikes: 0.045421
+    id: ck0w71hypbahz0i19v3a7w7m0
+    verified: false
+    hashtags: "#painting, #gameart, #oilonwood, #originalartwork"
+  - username: "brushofpaul"
+    fullname: >-
+      Paul Forest
+    bio: >-
+      A hobby miniature painter from Germany, who loves to drink a good bottle of Vallejo's Light Green Blue. I put the pain in painting 😉
+    location: "Germany"
+    followers: 4731
+    engagement: 559
+    commentsToLikes: 0.082142
+    id: ckaot5zjwuj470i78hr161482
+    verified: false
+    hashtags: "#citadelpaints, #hobby, #164scale, #windsorandnewton"
 ---

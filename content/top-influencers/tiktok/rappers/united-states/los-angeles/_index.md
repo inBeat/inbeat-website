@@ -1,84 +1,108 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Los Angeles in 2023
+title: Top 10 Rappers TikTok Influencers In Los Angeles In 2023
 description: >-
   Find top rappers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #viral #foryou.
 platform: TikTok
-hits: 17
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 17 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 16
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
-  - username: "raiderlifecg2"
+  - username: "tiktoksecurityguard0"
     fullname: >-
-      Cole
+      Tik Toker
     bio: >-
-      I like basketball🏀 Go Lakers🏀🏀 Insta- raiderlifecg2 Snap- Coleglenn824
+      I am BACK!
     location: "United States"
-    followers: 2470
-    engagement: 1093
-    commentsToLikes: 0.102948
-    id: ckcja967y89xe0j23lk8f8bhm
+    followers: 339000
+    engagement: 932
+    commentsToLikes: 0.085715
+    id: ckc7wqx8zzslw0j23u8btma58
     verified: false
-    hashtags: "#fyp, #lakers, #nba, #foryou"
-  - username: "renardopalmer"
+    hashtags: "#blacklivesmatter, #foryou, #foryoupage, #blm"
+  - username: "itsreallyjose30"
+    fullname: >-
+      Jose Alberto
+    bio: >-
+      Make us happy ☺️ Go follow that IG !! Nyc 🗽🏙 ✈️ NJ 30??
+    location: "United States"
+    followers: 25700
+    engagement: 1429
+    commentsToLikes: 0.039218
+    id: ckbfacjem1s9b0j23hb7fvhl9
+    verified: false
+    hashtags: "#trending, #fyp, #4upage, #newyork"
+  - username: "itsrenardopalmer"
     fullname: >-
       Renardo Palmer
     bio: >-
-      Executive Protection | Justin Bieber | Migos | 10,000 Follow Me^^^
+      All Cap
     location: "United States"
-    followers: 5074
-    engagement: 925
-    commentsToLikes: 0.040033
+    followers: 12600
+    engagement: 788
+    commentsToLikes: 0.023500
     id: ckbf85xb3yh310j23bb0b7ijl
     verified: false
-    hashtags: "#duet, #notviral, #viral, #funny"
-  - username: "14thtrip"
+    hashtags: "#funny, #notviral, #fyp, #miami"
+  - username: "mcbreeezy84"
     fullname: >-
-      14thh
+      4pf Mar 💵
     bio: >-
-      PHOTOGRAPHER LOS ANGELES , CA 22
+      Comedian, dancer, rapper, trapper Sponsored by ADIDAS
     location: "United States"
-    followers: 46200
-    engagement: 1105
-    commentsToLikes: 0.015034
-    id: ckbf7x73jy1sh0j23w93gm8o4
+    followers: 24400
+    engagement: 1406
+    commentsToLikes: 0.119702
+    id: ckd17b2deoi9w0j23f9754p3k
     verified: false
-    hashtags: "#lifestyle, #supercars, #foryou, #fyp"
-  - username: "heidiisms"
+    hashtags: "#school, #213, #bayarea, #mcbreeezy84"
+  - username: "starrlyfe247"
     fullname: >-
-      Heidi Nicolle l Creator
+      Starr Lyfe
     bio: >-
-      Game Night LIVE Saturday Nov 7th 6PM PST 🎃 Win Prizes 🎃 Comment Topic Ideas
+      🗣THE BEST RAPPER IN THE WORLD‼️ Sc 👻 : StarrLyfe247 CEO of RiichWear 👕👚
     location: "United States"
-    followers: 133500
-    engagement: 1902
-    commentsToLikes: 0.076875
-    id: ckb165x2rtmxf0j23sjmgavvm
+    followers: 26600
+    engagement: 1301
+    commentsToLikes: 0.028153
+    id: ckd1a0lh3rx3m0j237u2ey1pv
     verified: false
-    hashtags: "#halloween, #showupshowoff, #strangerthingsfan, #halloweenvibes"
-  - username: "cyprianfrancis"
+    hashtags: "#fyp, #xyzbca, #foryourpage, #oklahoma"
+  - username: "mydripdifferent"
     fullname: >-
-      Cyprian Francis
+      Maccaveli 🖤
     bio: >-
-      Chitown>LA🌴🎥 Film Producer/Marketer, Serial Entrepreneur🤟🏻 Help me get to 4K
+      6’4 LA 🌴
     location: "United States"
-    followers: 3521
-    engagement: 664
-    commentsToLikes: 0.097581
-    id: ckbr0wnr6i4p60j23m0zylql7
+    followers: 7513
+    engagement: 1423
+    commentsToLikes: 0.080133
+    id: ckb9b632wx2c10j23x2v4wu9y
     verified: false
-    hashtags: "#review, #critic, #funny, #reviews"
-  - username: "ethanrosswithredhair"
+    hashtags: "#raptiktok, #wordsofwisdom, #blacktiktok, #jokes"
+  - username: "ithinkmylifeisadream"
     fullname: >-
-      Ethan Ross
+      mim1018
     bio: >-
-      BLACK LIVES MATTER. Spotify: Ethan Ross 💕
+      Instagram: @mim1018 I move around a lot
     location: "United States"
-    followers: 175300
-    engagement: 1007
-    commentsToLikes: 0.072201
-    id: ckdhlb4qpzt0f0j232mtfzyop
+    followers: 4246
+    engagement: 1095
+    commentsToLikes: 0.054833
+    id: ck9804aea65ak0j78o3xysv40
     verified: false
-    hashtags: "#rapper, #foryoupage, #tiktok, #rap"
+    hashtags: "#outdoors, #la, #gooutside, #dtla"
+  - username: "quickvic"
+    fullname: >-
+      Quick
+    bio: >-
+      Manager Instagram: @quickvic $Mainevent002
+    location: "United States"
+    followers: 32200
+    engagement: 1225
+    commentsToLikes: 0.146111
+    id: cka9kqriq0wm80i78uso2lhyg
+    verified: false
+    hashtags: "#foryourpage, #viral, #sport, #girl"
   - username: "chlorofella"
     fullname: >-
       Brandon Brown
@@ -87,44 +111,20 @@ profiles:
     location: "United States"
     followers: 11500
     engagement: 1136
-    commentsToLikes: 0.051656
+    commentsToLikes: 0.052302
     id: ck8qmy95ss97w0j78oho86rq4
     verified: false
-    hashtags: "#viral, #daquan, #fyp, #artist"
+    hashtags: "#artistsoftiktok, #blacklivesmatter, #fyp, #viral"
   - username: "shotbyjuliann"
     fullname: >-
       Young Legend
     bio: >-
       IG: ShotbyJuliann
     location: "United States"
-    followers: 119300
-    engagement: 757
-    commentsToLikes: 0.012580
+    followers: 117300
+    engagement: 767
+    commentsToLikes: 0.010109
     id: ck81quk2fjzcg0j78blkjxqy9
     verified: false
-    hashtags: "#viralvideo, #viral, #lmao, #celebrity"
-  - username: "supervevos"
-    fullname: >-
-      SM
-    bio: >-
-      Video Creator✔️ Editor📸🎥 ⬇️subscribe👇👇Suscríbete⬇️
-    location: "United States"
-    followers: 7989
-    engagement: 379
-    commentsToLikes: 0.026528
-    id: ckb98w607sq420j23oyjun8a7
-    verified: false
-    hashtags: "#trending, #mexico, #funny, #supervevos"
-  - username: "popl.co"
-    fullname: >-
-      popl
-    bio: >-
-      ⚡️ Follow us on Instagram and dm “tiktok” for a discount code BUY NOW ⬇️
-    location: "United States"
-    followers: 1900000
-    engagement: 837
-    commentsToLikes: 0.005800
-    id: ck8vypt1kunqa0j78u60n1gf0
-    verified: true
-    hashtags: "#technology, #gamechanger, #social, #tech"
+    hashtags: "#foryou, #lmao, #fyp, #viralvideo"
 ---

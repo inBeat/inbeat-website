@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Lisbon in 2023
+title: Top 10 Models Instagram Influencers In Lisbon In 2023
 description: >-
-  Find top models Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #model #photography.
+  Find top models Instagram influencers in Lisbon in 2023. Most popular hashtags: #fashion #portugal #model #summer.
 platform: Instagram
-hits: 29
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 29 Instagram influencers like this in Lisbon, Portugal for you to contact.
+hits: 15
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in Lisbon, Portugal for you to connect with.
 profiles:
-  - username: "saralopeeees"
+  - username: "henriquesadio"
     fullname: >-
-      SARA | moda & lifestyle
+      H E N R I Q U E   S A D I O
     bio: >-
-      Content creator • Fashion • Lifestyle 📍Model in Lisbon ✉️ geral.saralopes@gmail.com 10% - SARALOPES @bzr.streetstyle
+      ✖️ Photographer & Model ✖️ Based in #Lisbon ✖️ Email: sandrosadio@gmail.com
     location: "Portugal"
-    followers: 12116
-    engagement: 622
-    commentsToLikes: 0.257562
-    id: ck8szqih6pccn0j78hojrkqe7
+    followers: 19174
+    engagement: 349
+    commentsToLikes: 0.077940
+    id: ck6tzni0paqyv0j711dovhaoc
     verified: false
-    hashtags: "#girlsgoneloavies, #inspiration, #loavies, #fashionlover"
-  - username: "fabiosvalente"
+    hashtags: "#bandanas, #bandanastyle, #modafashion, #lisboa"
+  - username: "andrecostaac"
     fullname: >-
-      Fábio Santos Valente
+      Andre Costa
     bio: >-
-      Nutritionist | L’Agence Model Partnerships 📩 Lisbon, Portugal 📍
+      𝐋𝐢𝐯𝐢𝐧𝐠 𝐦𝐲 𝐯𝐚𝐥𝐮𝐞𝐬 𝐰𝐢𝐭𝐡 𝐜𝐨𝐮𝐫𝐚𝐠𝐞. _________________ 𝐌𝐨𝐝𝐞𝐥-𝐓𝐫𝐚𝐯𝐞𝐥𝐥𝐞𝐫 *Wilhelmina-NY|MIA|LA *Independent-ITA *Uno-ESP *Dulcedo-CAN *L'Agence-POR
     location: "Portugal"
-    followers: 23985
-    engagement: 387
-    commentsToLikes: 0.018266
-    id: ck14k1tnxnauw0i19ox723474
+    followers: 117547
+    engagement: 242
+    commentsToLikes: 0.023099
+    id: ck0vx7nf5xjx50i19fbp9qfmc
+    verified: false
+    hashtags: "#fashion, #summer, #braganca, #intimissimiuomo"
+  - username: "claudiaa.pereira"
+    fullname: >-
+      Cláudia Pereira
+    bio: >-
+      // lisbon, portugal co-founder of @goingbananasss model at @nxt.management (lara@next.pt)
+    location: "Portugal"
+    followers: 27117
+    engagement: 301
+    commentsToLikes: 0.309716
+    id: ck5zpfy9yslgr0i14lo26go6o
     verified: false
     hashtags: ""
-  - username: "iamvickcorreia"
-    fullname: >-
-      Vick Correia
-    bio: >-
-      Made in Portugal with Love ♑️ ❤️ Model // photographer // videomaker Lisbon 📍 @facemodelsagency // @tfm_oslo // @brooksmodelingagency //
-    location: "Portugal"
-    followers: 11290
-    engagement: 250
-    commentsToLikes: 0.032999
-    id: ck5q6kxy5xsei0i111kus1gtz
-    verified: false
-    hashtags: "#stayhome, #capri, #carvoeiro, #ocean"
-  - username: "torysmithphoto"
-    fullname: >-
-      Tory Smith | Photographer
-    bio: >-
-      Fashion, Beauty & Advertising #Photographer London | Lisbon
-    location: "Portugal"
-    followers: 17338
-    engagement: 263
-    commentsToLikes: 0.071880
-    id: ck6tp7i5ri9bf0j71cfhdud4a
-    verified: false
-    hashtags: "#caparica, #beauty, #makeupartist, #portrait"
-  - username: "evandromgomes_"
-    fullname: >-
-      Evandro Gomes
-    bio: >-
-      | On God | Seeker en @oblackcaps
-    location: "Portugal"
-    followers: 4835
-    engagement: 1972
-    commentsToLikes: 0.017567
-    id: ck5c7657f6w7l0i116t4tw5gg
-    verified: false
-    hashtags: "#modamasculina, #men, #instaphoto, #beauty"
-  - username: "prazeresm"
-    fullname: >-
-      Mariana Prazeres
-    bio: >-
-      Content creator - Lisbon Full time photographer Part time model @prazeresmph
-    location: "Portugal"
-    followers: 22119
-    engagement: 864
-    commentsToLikes: 0.032311
-    id: ck139c5u2kkr80i19l840390m
-    verified: false
-    hashtags: "#lisbonrestaurants, #snaptasteapp"
-  - username: "whatever.joana"
-    fullname: >-
-      Joana Dias
-    bio: >-
-      Based in Lisbon, Portugal Collaborations/shoot inquiries: 💌 joanadiasngd@gmail.com
-    location: "Portugal"
-    followers: 7747
-    engagement: 1034
-    commentsToLikes: 0.203523
-    id: ck0u12aejvj8w0i19k9pnujgn
-    verified: false
-    hashtags: "#outfit, #love, #style, #fashion"
-  - username: "lord_vladbathory"
-    fullname: >-
-      𝘙𝘖𝘋𝘙𝘐𝘎𝘖 𝘎𝘖𝘕Ç𝘈𝘓𝘝𝘌𝘚
-    bio: >-
-      A boy obsessed with beauty💄 𝘔𝘢𝘬𝘦𝘶𝘱 | 𝘓𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 | 𝘍𝘢𝘴𝘩𝘪𝘰𝘯 📍Lisbon,Portugal 🇵🇹 📩 rodrigo14@live.com.pt 👇YOUTUBE, ARGENTMAKEUP, TTDEYE👇
-    location: "Portugal"
-    followers: 5618
-    engagement: 870
-    commentsToLikes: 0.148945
-    id: ck6tx83ujwcya0j71af0no11j
-    verified: false
-    hashtags: "#horrorhags, #spookyseason, #31daysofhalloweenmakeup, #halloweenmakeupideas"
-  - username: "brunoanjoss"
-    fullname: >-
-      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
-    bio: >-
-      MensWear • Lifestyle • Fitness Contact : E-Mail 📩 Lisbon 📍 -10% @zumub.pt - ANJOS
-    location: "Portugal"
-    followers: 4971
-    engagement: 1402
-    commentsToLikes: 0.279553
-    id: ck9womla25rjc0j78gw86m3wr
-    verified: false
-    hashtags: "#travelblogger, #algarve, #influencer, #menfashionpost"
   - username: "iamfabioteles"
     fullname: >-
       F A B I O • T E L E S
     bio: >-
-      - @centralmodels 🇵🇹 - @fashionnovamen Ambassador For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
+      - @centralmodels 🇵🇹 @nevsmodels 🇬🇧 For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
     location: "Portugal"
-    followers: 157818
-    engagement: 730
-    commentsToLikes: 0.011503
+    followers: 219684
+    engagement: 369
+    commentsToLikes: 0.011520
     id: ck5qdynmfxw7z0i118o9xwukj
     verified: false
-    hashtags: "#weekend, #domingo, #workout, #caparica"
+    hashtags: "#porto, #lisboa, #algarve, #outfit"
+  - username: "_indiabranquinho_"
+    fullname: >-
+      India Branquinho De Oliveira
+    bio: >-
+      ♻️ || Ecologist || ♻️ @imperialcollege 🎬 Actress & Model 🎬 @lagence_lisboa 🇵🇹 DBA@dbagency.co.uk 🌎
+    location: "Portugal"
+    followers: 16005
+    engagement: 540
+    commentsToLikes: 0.013287
+    id: ck5her17juchw0i11qhe9d5eb
+    verified: false
+    hashtags: "#coolmasks, #caunymoment, #stairwaytoheaven, #tvseries"
+  - username: "alexmoraisoff"
+    fullname: >-
+      Alexandre Morais
+    bio: >-
+      @centralmodels 🇵🇹 Ambassador of @cabelopantene Shanti 🕊
+    location: "Portugal"
+    followers: 5775
+    engagement: 1406
+    commentsToLikes: 0.026825
+    id: ck5pxx48stakv0i11ihxacllg
+    verified: false
+    hashtags: "#outfit, #liveinlevis, #fashionstyle, #outfitinspiration"
+  - username: "hugomigstos"
+    fullname: >-
+      Hugo Santos 🦦
+    bio: >-
+      
+    location: "Portugal"
+    followers: 5783
+    engagement: 1366
+    commentsToLikes: 0.007698
+    id: ckf5m4640s63x0j23ynrpnn2h
+    verified: false
+    hashtags: "#allinshooters, #photography, #cute, #instacute"
+  - username: "dvfots"
+    fullname: >-
+      David Velez Fotografia
+    bio: >-
+      FREELANCE PHOTOGRAPHER Seixal, Lisboa, Portugal📍 📸 Portrait/body/fashion/lifestyle Available for work www.top4fans.com/dvfots
+    location: "Portugal"
+    followers: 21178
+    engagement: 313
+    commentsToLikes: 0.007770
+    id: ck0vzoy4ca6ew0i19iqm9bsjn
+    verified: false
+    hashtags: "#testshoot, #model, #story, #sixpack"
+  - username: "ruben_o_stylist"
+    fullname: >-
+      Ruben De Sá Osório
+    bio: >-
+      Fashion ---> Visual ---> Stylist ---> Creative 📧 @solveagency 📩 mail to: solve@solve.pt
+    location: "Portugal"
+    followers: 7420
+    engagement: 193
+    commentsToLikes: 0.048973
+    id: ck0w6934w7g1c0i197wyklde3
+    verified: false
+    hashtags: "#styling, #photography, #fashiondesign, #culture"
+  - username: "_vitoriamota"
+    fullname: >-
+      Vitória Mota
+    bio: >-
+      @lagence_lisboa @nextmodels worldwide @unomodels
+    location: "Portugal"
+    followers: 52844
+    engagement: 277
+    commentsToLikes: 0.032530
+    id: ck0vxre5m0c0z0i19deeooo6e
+    verified: false
+    hashtags: "#chilling, #portugal, #beauty, #summer"
 ---

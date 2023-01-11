@@ -1,36 +1,24 @@
 ---
-title: Top 10 TikTok Influencers In South Africa in 2023
+title: Top 10 TikTok Influencers In South Africa In 2023
 description: >-
-  Find top TikTok influencers in South Africa in 2023. Most popular hashtags: #duet #fyp #tiktok #lol.
+  Find top TikTok influencers in South Africa in 2023. Most popular hashtags: #duet #fyp #greenscreen #southafrica.
 platform: TikTok
-hits: 715
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform has 715 TikTok influencers like this in South Africa for you to contact.
+hits: 738
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 738 TikTok influencers like this in South Africa for you to connect with.
 profiles:
   - username: "lu_i_am"
     fullname: >-
        Lu✌
     bio: >-
-      EMP♾️WER D🖤NT DEV♾️UR CPT🇿🇦 bff:skeeter ♾️🦋🖤🦋♾️
+      EMP♾️WER D🖤NT DEV♾️UR CPT🇿🇦 TT bff:skeeter ♾️🖤♾️
     location: "South Africa"
-    followers: 8867
-    engagement: 3696
-    commentsToLikes: 0.357691
+    followers: 9503
+    engagement: 3182
+    commentsToLikes: 0.382393
     id: ck9ns8lr1cf3x0j781tr9javs
     verified: false
-    hashtags: "#becauseofyou2020, #iseeihearifeel, #theresitance, #movember2020"
-  - username: "tessietoots"
-    fullname: >-
-      Tessa
-    bio: >-
-      Enjoying life.. #warriorrogue #thementalcrew Mom of 3👩‍👩‍👧‍👧Taken
-    location: "South Africa"
-    followers: 5924
-    engagement: 3289
-    commentsToLikes: 0.224251
-    id: ckb9if1ow8u580j2309arbi02
-    verified: false
-    hashtags: "#warriorrogue, #duetwithfamily, #itsmetessa, #thementalcrew"
+    hashtags: "#todayivelearned, #perfectaslam, #iseeihearifeel, #maydaymayday"
   - username: "r03lindav1.00001"
     fullname: >-
       Roelinda Diedericks
@@ -42,55 +30,55 @@ profiles:
     commentsToLikes: 0.330577
     id: cka6c7pfn35qa0i78ae04cnev
     verified: false
-    hashtags: "#mazcity, #roselegion, #duet, #mazarmy"
-  - username: "12ashleigh34greeff"
+    hashtags: "#mazcity, #mazarmy, #roselegion, #duet"
+  - username: "tessietoots"
     fullname: >-
-      Ashleigh 12345678910
+      Tessa
     bio: >-
-      God is my king
+      Enjoying life.. #warriorrogue #thementalcrew Mom of 3👩‍👩‍👧‍👧Taken
     location: "South Africa"
-    followers: 11300
-    engagement: 2824
-    commentsToLikes: 0.379225
-    id: ckck22yeklbue0j23h1jak26h
+    followers: 6965
+    engagement: 3005
+    commentsToLikes: 0.203809
+    id: ckb9if1ow8u580j2309arbi02
     verified: false
-    hashtags: "#foryoupage, #fyp, #4upage, #comfychzr"
-  - username: "cloudz9"
-    fullname: >-
-      CloudZ💙Nation
-    bio: >-
-      💙☁️#CloudZnation☁️💙 Spreading Love&Laughter🙏If you read this, Ur Family😁NOW.
-    location: "South Africa"
-    followers: 5120
-    engagement: 2753
-    commentsToLikes: 0.246586
-    id: cka6pcf85j20t0i78esk941ki
-    verified: false
-    hashtags: "#qbeancoin, #twist, #kims, #comedy"
-  - username: "chevahi"
-    fullname: >-
-      ❄Ice Squad 4 life!❄
-    bio: >-
-      Love you guys!❤(All 2388 of you🤗❄️) Squad:❄Ice squad!❄ Roblox User:ChevahlPlayz
-    location: "South Africa"
-    followers: 2395
-    engagement: 2422
-    commentsToLikes: 0.148526
-    id: ckcdz5cu8h2ab0j23d2weoz9f
-    verified: false
-    hashtags: "#fyp, #ragdollengine, #capcut, #roblox"
+    hashtags: "#itsmetessa, #healthyheart, #anotherdraftday, #thementalcrew"
   - username: "sgtcurrypants420"
     fullname: >-
       Sargent CurryPants 
     bio: >-
-      💜CEO of ARRRRRRRMY
+      💜CEO of ARRRRRRRMY I love you but pretty please don’t spam like 🥺💜
     location: "South Africa"
-    followers: 16900
-    engagement: 2286
-    commentsToLikes: 0.080428
+    followers: 21100
+    engagement: 2391
+    commentsToLikes: 0.082482
     id: cka86wm2q4ct60i786bkrp4wp
     verified: false
-    hashtags: "#capcut, #taehyung, #greenscreen, #galaxyfanchallenge"
+    hashtags: "#changkyun, #im, #capcut, #duet"
+  - username: "shovel.playz"
+    fullname: >-
+      ❄Ice Squad 4 life!❄
+    bio: >-
+      Love you guys!❤(All 2415 of you🤗❄️) Squad:❄Ice squad!❄ Roblox User:ChevahlPlayz
+    location: "South Africa"
+    followers: 2418
+    engagement: 2312
+    commentsToLikes: 0.133783
+    id: ckcdz5cu8h2ab0j23d2weoz9f
+    verified: false
+    hashtags: "#southafrica, #lol, #icesquad, #ragdollengine"
+  - username: "_shreya.r_"
+    fullname: >-
+      Shreya
+    bio: >-
+      🇿🇦 #free_spirits Seffy❤️
+    location: "South Africa"
+    followers: 5438
+    engagement: 2304
+    commentsToLikes: 0.080157
+    id: ckad9hcwudoi50i788qz2tcbe
+    verified: false
+    hashtags: "#free, #desi, #greenscreen, #duet"
   - username: "the_struggle_continues"
     fullname: >-
       Not Me, Us Movement.
@@ -102,31 +90,43 @@ profiles:
     commentsToLikes: 0.261768
     id: ck9e2n5qyfq910j78j2jnvqr4
     verified: false
-    hashtags: "#socialism, #apartheid, #blacklivesmatter, #politics"
-  - username: "mrscheeky_backup"
+    hashtags: "#africa, #blm, #powertothepeople, #socialism"
+  - username: "cloudz9"
     fullname: >-
-      Kobe
+      CloudZ💙Nation
     bio: >-
-      CEO of Duets. Love me 4 me or scroll pass.. #🍎family
+      💙☁️#CloudZnation☁️💙 Spreading Love&Laughter🙏If you read this, Ur Family😁NOW.
     location: "South Africa"
-    followers: 8529
-    engagement: 2194
-    commentsToLikes: 0.244899
-    id: ck9f41om9kdft0j78y1kmxtgz
+    followers: 5221
+    engagement: 1986
+    commentsToLikes: 0.202565
+    id: cka6pcf85j20t0i78esk941ki
     verified: false
-    hashtags: "#moosepatrol, #duet, #mrscheekyduets, #mrscheeky"
+    hashtags: "#lol, #bluecornersquad, #crownz, #comedy"
   - username: "danielle..charli..fan"
     fullname: >-
       Danielle_S.A.
     bio: >-
-      HEYY you there pls Follow me❤ i love all my 4715 followers and everyone count
+      10k?
     location: "South Africa"
-    followers: 4719
-    engagement: 1973
-    commentsToLikes: 0.091740
+    followers: 4852
+    engagement: 1879
+    commentsToLikes: 0.101666
     id: ckbep9x03613f0j23op7vwwbw
     verified: false
-    hashtags: "#share, #like, #comment, #fyp"
+    hashtags: "#comment, #fyp, #please, #follow"
+  - username: "itsscandss"
+    fullname: >-
+      Candice ;)
+    bio: >-
+      idk anymore
+    location: "South Africa"
+    followers: 179800
+    engagement: 1704
+    commentsToLikes: 0.023511
+    id: ck978grmd7wvg0j78yyqurpn3
+    verified: true
+    hashtags: "#aesthetic, #photocrop, #vibes, #music"
 cities:
   - name: Capetown
     link: /tiktok/south-africa/capetown

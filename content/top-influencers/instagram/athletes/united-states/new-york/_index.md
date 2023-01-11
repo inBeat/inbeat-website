@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In New York in 2023
+title: Top 10 Athletes Instagram Influencers In New York In 2023
 description: >-
-  Find top athletes Instagram influencers in New York in 2023. Most popular hashtags: #athlete #newyork #halloween.
+  Find top athletes Instagram influencers in New York in 2023. Most popular hashtags: #newyork #workout #athlete.
 platform: Instagram
-hits: 133
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 133 Instagram influencers like this in New York, United States for you to pitch.
+hits: 121
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 121 Instagram influencers like this in New York, United States for you to work with.
 profiles:
   - username: "justinpaulmusic"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Husband. Dad. Songwriter. Musician. Believer. Non-athlete. New Yorker. Serving you cheesy family pics with a smattering of music/theatre/film content.
     location: "United States"
-    followers: 31381
-    engagement: 509
-    commentsToLikes: 0.022694
+    followers: 32757
+    engagement: 499
+    commentsToLikes: 0.022431
     id: ck6ucgf3nfgap0j7127nrsozv
     verified: true
-    hashtags: "#smallpaul, #starrpix, #blacklivesmatter, #ijustwannalive"
+    hashtags: "#paidpartnershipwithnoone, #smallpaul, #blackouttuesday, #blacklivesmatter"
   - username: "heldilox"
     fullname: >-
       Ryan Held
     bio: >-
-      Olympic Gold Medalist @arenausa athlete @newyorkac athlete @championsmojo athlete @chicagobulls NCSU alum Bama Environmentalist Eagle scout 217
+      Olympic Gold Medalist @arenausa athlete @newyorkac athlete @championsmojo athlete @chicagobulls NCSU alum Environmentalist Eagle scout 217
     location: "United States"
-    followers: 19028
-    engagement: 900
-    commentsToLikes: 0.006205
+    followers: 18870
+    engagement: 899
+    commentsToLikes: 0.006096
     id: ck138ifmtgdbt0i19m1wz6k87
     verified: true
-    hashtags: "#austintexas, #more, #tyrproseries, #wearenc"
-  - username: "makennastott"
+    hashtags: "#austintexas, #tyrproseries, #wearenc"
+  - username: "matttralli5"
     fullname: >-
-      Makenna Stott
+      Matt Tralli
     bio: >-
-      ⚽️ 10 Years Old Soccer Player ⚽️ 2010 @cloviscrossfire ⚽️ Account Monitored @happydaughterhappylife
+      @DOGPOUND trainer 💪🏻🐶 Former D1 & Professional Athlete 🏈 New York | Los Angeles 📍 NCCPT, PPSC 📚 @celsiusofficial 🔋 EL CONQUISTADOR
     location: "United States"
-    followers: 15125
-    engagement: 647
-    commentsToLikes: 0.013146
-    id: ck0w5qbyj4wqr0i19onwn3u8y
+    followers: 53793
+    engagement: 470
+    commentsToLikes: 0.018057
+    id: ck55ofu1w89re0i11l91u94y4
     verified: false
-    hashtags: "#sports, #soccerlove, #soccerdad, #nikesoccer"
-  - username: "nflxnbapolls"
+    hashtags: "#arms, #core, #coreworkout, #backworkout"
+  - username: "keonihudoba"
     fullname: >-
-      Nflxnbapolls
+      KEONI HUDOBA
     bio: >-
-      • NFL and NBA polls • Follow Personal: @jjasminejl • Email: nflxnbapoll@gmail.com Join Discord Below ⏬
+      | FITNESS | FAMILY | ALOHA | GOOD VIBES | •Creator of COREntine+ on IGTV & ZOOM •@lululemon NYC Ambassador •@Core Athlete 📍New York City
     location: "United States"
-    followers: 21002
-    engagement: 2864
-    commentsToLikes: 0.039675
-    id: ckaoxq3a5ebcx0i78gx1rl63d
+    followers: 47655
+    engagement: 142
+    commentsToLikes: 0.022705
+    id: ck55ptn5cbcp30i11tt2yod01
+    verified: false
+    hashtags: "#mondaymotivation, #winning, #hrpk, #thesweatlife"
+  - username: "_soxsoul_"
+    fullname: >-
+      New York Photo/Video Creator
+    bio: >-
+      | TikTok 538.5K | 📍New York Content Creator Photo - Video 💡
+    location: "United States"
+    followers: 66287
+    engagement: 79
+    commentsToLikes: 0.020059
+    id: ck5zr2i3mvrv30i14n8gop4vn
+    verified: false
+    hashtags: "#newyorker, #dodgechallenger, #newyork, #miami"
+  - username: "michaellewiscunningham"
+    fullname: >-
+      7mlc
+    bio: >-
+      ⚽️ Footballer 💼 @7mlctraining ✍️ @opsmpro Athlete 📍 Rochester, New York 🎥 youtube.com/7mlc 🎙 The7mlcPodcast
+    location: "United States"
+    followers: 35271
+    engagement: 1185
+    commentsToLikes: 0.010161
+    id: ckf5vesbuobhl0j237c3vyr6o
     verified: false
     hashtags: ""
-  - username: "betz._____"
+  - username: "azadwatches"
     fullname: >-
-      Betz
+      AZAD THE BRAND/ AZAD WATCHES
     bio: >-
-      • Professional Dancer • Personal trainer & Fitness Coach • Athlete
+      Time Reveals The Victorious. Azad symbolizes positive disruption. To teach, to inspire, to encourage to continue fight. #azadthebrand #azadwatches
     location: "United States"
-    followers: 6188
-    engagement: 534
-    commentsToLikes: 0.109250
-    id: ckap26g7uxktj0i78yyrog6z2
+    followers: 51008
+    engagement: 218
+    commentsToLikes: 0.254743
+    id: ck9wi5yar0w070j78qayrj9v4
     verified: false
-    hashtags: "#florida, #goodvibes, #photo, #dance"
-  - username: "bomchicka_wawa"
+    hashtags: "#azadbrand, #championshipwatches, #azadwatches, #newyork"
+  - username: "allisonrainn3"
     fullname: >-
-      Allison Schieler
+      ⚓Allison Rain Hansen⚓
     bio: >-
-      NYC-based contortionist, dancer, aerialist. Available for performances and private/group training. ✨ DM for virtual contortion class schedule. ✨
+      🌸 Pro Wakesurfer 💎 @rainclothingco 🏄🏼‍♀️ @phase5wakesurfers @kultivatewellness @nauticurlwave @boat.juice ❤️ @bryceamartin2
     location: "United States"
-    followers: 26341
-    engagement: 508
-    commentsToLikes: 0.017177
-    id: ck13b0p7lt47g0i19na8mhkls
+    followers: 39380
+    engagement: 338
+    commentsToLikes: 0.019649
+    id: ck0vvr0tjqdmd0i19aeak5l6m
     verified: false
-    hashtags: "#balance, #fitfam, #circus, #circuseverydamnday"
-  - username: "studio9nyc"
+    hashtags: "#lakelife, #boating, #travel, #workout"
+  - username: "krista_gia"
     fullname: >-
-      Studio9NYC
+      Krista Gialanella
     bio: >-
-      NYC photographer & filmmaker, fitness trainer, classical singer. Male portraits here. More @AJStetson www.MaskedNYC.com
+      ⚒Axe and Sledge Athlete⚒⁣⁣ 10% Code: KRISTA ⁣⁣ •.⁣⁣ Director of Health and Fitness ⁣⁣ @corstrengthnj ⁣⁣ ⁣⁣• 🤸🏼‍♀️Special Olympics Coach⁣⁣ 🏍Motorcycles
     location: "United States"
-    followers: 15762
-    engagement: 184
-    commentsToLikes: 0.024595
-    id: ck8t689pccmpj0j78ojh1s19f
+    followers: 11539
+    engagement: 692
+    commentsToLikes: 0.036915
+    id: ck55pz959bpxx0i11t3vs7y5v
     verified: false
-    hashtags: "#malemodel, #voteblue, #hotguys, #shirtless"
+    hashtags: "#gym, #fitness, #personaltrainer, #axeandsledge"
   - username: "hnynut_berrios"
     fullname: >-
       Braxton Berrios
     bio: >-
       Be Like the Duck University of Miami | New York Jets Adidas Athlete
     location: "United States"
-    followers: 69796
-    engagement: 1264
-    commentsToLikes: 0.016323
+    followers: 72228
+    engagement: 1339
+    commentsToLikes: 0.017808
     id: ck8sxxt2tj2620j7896q9ho1q
     verified: true
     hashtags: "#blackouttuesday"
-  - username: "ahicks31"
-    fullname: >-
-      Aaron Hicks
-    bio: >-
-      AZ-NY Centerfielder for the New York Yankees Jordan Athlete
-    location: "United States"
-    followers: 193831
-    engagement: 433
-    commentsToLikes: 0.016968
-    id: ck6towjw2gi8l0j71mjqzoodh
-    verified: true
-    hashtags: "#happynewyear, #thereturn, #100anniversary, #lfg"
-  - username: "throwrw"
-    fullname: >-
-      Rudy Winkler
-    bio: >-
-      NYAC @newyorkac 2016 Olympic Athlete
-    location: "United States"
-    followers: 2644
-    engagement: 2127
-    commentsToLikes: 0.030636
-    id: ck138s7jkhrks0i19d9awh5hl
-    verified: true
-    hashtags: "#hammerthrow, #usatf, #tokyo2020, #iaafdoha2019"
 ---

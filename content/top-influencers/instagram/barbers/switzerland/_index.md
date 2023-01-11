@@ -1,36 +1,24 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Switzerland in 2023
+title: Top 10 Barbers Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top barbers Instagram influencers in Switzerland in 2023. Most popular hashtags: #barber #switzerland #love #schweiz.
+  Find top barbers Instagram influencers in Switzerland in 2023. Most popular hashtags: #barber #switzerland #workout #fitness.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 11 Instagram influencers like this in Switzerland for you to contact.
+hits: 9
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 9 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "westcutofficial"
+  - username: "saloon_jordan"
     fullname: >-
-      BARBER
+      صالون _جوردن
     bio: >-
-      🇦🇱From🇽🇰 live in🇨🇭 🌟@westfoodofficial 🌟
+      SALOON JORDAN ✂️ . . . BASRA : Alsaadi Street 07722307000 ERBIL : Ainkawa 2 Side 07501660061 Switzerland : CH-8280 kreuzlingen 0041716700621
     location: "Switzerland"
-    followers: 21155
-    engagement: 296
-    commentsToLikes: 0.013660
-    id: ck5q8q5u07g680i1109cy2igt
+    followers: 163797
+    engagement: 59
+    commentsToLikes: 0.036945
+    id: ck0u6r0wf2nrd0i19mv6jzt7z
     verified: false
-    hashtags: "#hair, #westcutofficial, #tshirt, #cap"
-  - username: "remoschmidofficial"
-    fullname: >-
-      Remo Schmid
-    bio: >-
-      Networker & Unternehmer - Weltrekordhalter 2020 - PrixCourage 2017 - Super10Kampf 2007 - Jurymitglied Beobachter
-    location: "Switzerland"
-    followers: 10259
-    engagement: 205
-    commentsToLikes: 0.127146
-    id: ck13cum9e28qt0i193xh5lmc5
-    verified: false
-    hashtags: "#courage, #shooting, #final, #swissmensaward2020"
+    hashtags: "#videostar, #vidaminha, #barberworld, #barberhub"
   - username: "zoescarlett"
     fullname: >-
       ▪️ Z O E  ▪️ S C A R L E T T▪️
@@ -42,89 +30,89 @@ profiles:
     commentsToLikes: 0.034398
     id: ck6uc8j6ue4a50j710xqwihpf
     verified: false
-    hashtags: "#zoescarlett, #pinstriping, #fuckcorona, #switzerland"
-  - username: "jontsch13"
+    hashtags: "#funtimes, #allareone, #zusammensindwirstark, #obdachlosenhilfe"
+  - username: "manustatic993"
     fullname: >-
-      Jonathan «Jontsch» Schächter
+      Manuel Schiltknecht
     bio: >-
-      Radio & TV Moderator 🎙📻🎤🎥📺 #jontsch
+      💡 Founder of @bardogs_zuerich 🤸🏻‍♂️ Street Workout 📍 Zurich 👉🏼 Purpose fuels passion
     location: "Switzerland"
-    followers: 6547
-    engagement: 696
-    commentsToLikes: 0.032295
-    id: ck5zxeupy7vmn0i14psovs1b9
+    followers: 41558
+    engagement: 469
+    commentsToLikes: 0.021156
+    id: ck55lfp3o1ggm0i1158zvsem1
     verified: false
-    hashtags: "#energy, #schweiz, #switzerland, #harleydavidson"
-  - username: "christian_huembs"
-    fullname: >-
-      Christian Hümbs
-    bio: >-
-      #patisserie
-    location: "Switzerland"
-    followers: 60929
-    engagement: 547
-    commentsToLikes: 0.072558
-    id: ck136ihxr6nai0i19jcaj5ugm
-    verified: true
-    hashtags: "#foodporn, #kreativ, #love, #thankful"
+    hashtags: "#frontlever, #calisthenics, #power, #mykonos"
   - username: "drillito"
     fullname: >-
       Drill
     bio: >-
-      New Single 🎶 “Vrhovi in prepadi”🏔⬇️ Booking: Marko Kotnik (+386 41 964 668)
+      New Music Video 📼 “Rojeni da blestimo"💎 @komora.ent 🏭
     location: "Switzerland"
-    followers: 14121
-    engagement: 1317
-    commentsToLikes: 0.005595
+    followers: 14916
+    engagement: 1344
+    commentsToLikes: 0.009336
     id: ck5hgmnhb3lr80i115ly5qf92
     verified: false
-    hashtags: "#onset, #kujeuspotih, #obala, #e46"
-  - username: "swisstraindriver"
+    hashtags: "#sunnyday, #marijana, #single, #hiphop"
+  - username: "thad.deus"
     fullname: >-
-      Steivan Q. Steiner (Steini)
+      Tadeusz Jankowski
     bio: >-
-      🚄Traindriver in Switzerland, SBB Depot ZUG🚅 Digital Marketing Testimonial SBB @steivanqsteiner Lokführer ❤ Founder @swisstraindriver
+      📍Zürich
     location: "Switzerland"
-    followers: 7715
-    engagement: 986
-    commentsToLikes: 0.020988
-    id: ck0w13fuhhdc60i19iyidb43t
+    followers: 59
+    engagement: 30663
+    commentsToLikes: 0.088366
+    id: ck6ty2f0y1ajg0j71blt5layo
     verified: false
-    hashtags: "#lokf, #trainphotography, #zug, #trainspotting"
-  - username: "alfie.morningstar"
+    hashtags: "#wahl, #switzerland, #thaddeus2020, #quarantine"
+  - username: "swiss.bikergirl"
     fullname: >-
-      ALFIE | ZÜRICH PHOTOGRAPHER
+      Mira Bella Weingart
     bio: >-
-      | PORTRAIT - STREET - FASHION - WEDDING | ⁣Canon EOS R Photographer & Presets Creator ⁣ Just a Canon dude Switzerland
+      • Hey there!👋🏼 I’m a Swiss Bikergirl from Lucerne🇨🇭 with a Yamaha MT 07 • Yes, I also have a life besides my bike: @mirabellaweingart •
     location: "Switzerland"
-    followers: 11659
-    engagement: 351
-    commentsToLikes: 0.044394
-    id: ck0w3233jr8n30i19t8v57uoj
+    followers: 2840
+    engagement: 1516
+    commentsToLikes: 0.025534
+    id: ck138ncsxh2qv0i199m5hcdt9
     verified: false
-    hashtags: "#eosr, #canonswitzerland, #ishootraw, #swissinfluencer"
+    hashtags: "#femalebikeriderscommunity, #bikersofinstagram, #bikersofswitzerland, #ladybikers"
   - username: "fabiohayoz"
     fullname: >-
       Fabio Hayoz
     bio: >-
-      🥇SNBF 2018 Swiss-Champion 📍Based in Switzerland 🏢 @facedefender.ch 💪 @coach__bruno ❤️ @jasmine.gsell SPONSORED BY: @extrifitschweiz - Fabio10
+      🥇SNBF 2018 Swiss-Champion 📍CH🇨🇭 🏢 @hf.werbetechnik 💪 @coach__bruno ❤️ @jasmine.gsell ‼️SPONSORED BY‼️ @extrifitschweiz - Fabio10 @autocenterhalten
     location: "Switzerland"
-    followers: 10642
-    engagement: 328
-    commentsToLikes: 0.034576
+    followers: 10459
+    engagement: 290
+    commentsToLikes: 0.029399
     id: ck8svr3moce3r0j78a3lf79cp
     verified: false
-    hashtags: "#tan, #bodybuilding, #gym, #bhfyp"
-  - username: "saloon_jordan"
+    hashtags: "#yoga, #photooftheday, #fitnessathlete, #fitfam"
+  - username: "julian_pagel_gsw"
     fullname: >-
-      صالون _جوردن
+      Julian Pagel
     bio: >-
-      SALOON JORDAN ✂️ . . . BASRA : Alsaadi Street 07722307000 ERBIL : Ainkawa 2 Side 07501660061 Switzerland : CH-8280 kreuzlingen 0041716700621
+      📍Switzerland • @GORNATION Pro Athlete • Team @genesis_streetworkout • Swiss National Calisthenics Champion
     location: "Switzerland"
-    followers: 169009
-    engagement: 153
-    commentsToLikes: 0.085667
-    id: ck0u6r0wf2nrd0i19mv6jzt7z
+    followers: 9040
+    engagement: 1020
+    commentsToLikes: 0.036364
+    id: ck5zq94lbu62w0i144159kd5h
     verified: false
-    hashtags: "#ksa, #erkeksacmodelleri, #hairengaving, #instasalon"
+    hashtags: "#frontlever, #mundocaliste, #barzsoul, #barzquad"
+  - username: "nebbiolover"
+    fullname: >-
+      ⚜️ 𝐆𝐫𝐚𝐧𝐝𝐢 𝐕𝐢𝐧𝐢 ⚜️
+    bio: >-
+      🎖 WSET Diploma | Weinakademiker 🇨🇭 unofficial swiss nebbiolo ambassador 🇮🇹 🍇 buyer | importer | consultant | trader 🙌🏻 BAROLO & BARBARESCO nelle vene
+    location: "Switzerland"
+    followers: 22704
+    engagement: 370
+    commentsToLikes: 0.013278
+    id: ck6to6a7uccc50j71w42anq4q
+    verified: false
+    hashtags: "#tantaroba, #italianwine, #langhe, #serralungadalba"
 ---

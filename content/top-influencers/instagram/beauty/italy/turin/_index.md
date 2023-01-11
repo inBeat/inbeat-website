@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Turin in 2023
+title: Top 10 Beauty Instagram Influencers In Turin In 2023
 description: >-
-  Find top beauty Instagram influencers in Turin in 2023. Most popular hashtags: #me #beauty #makeup #fashion.
+  Find top beauty Instagram influencers in Turin in 2023. Most popular hashtags: #beauty #torino #makeup #girl.
 platform: Instagram
 hits: 25
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 25 Instagram influencers like this in Turin, Italy for you to work with.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 25 Instagram influencers like this in Turin, Italy for you to pitch.
 profiles:
-  - username: "enrica_76to"
+  - username: "daniela_roncarolo"
     fullname: >-
-      Enrica
+      Dany ✨ Make-up Artist
     bio: >-
-      Blonde Chemistry, Personal Blog Pictures of my life! Fashion addicted, Blog, Life! 💋👩👗✨👠 Turin
+      🎨LIFE IMITATES ART🎨. 💄Pro Make-up Artist Certified @mudstudioitalia . 🏷 Fashion-Beauty-Bridal-Sfx 📍Turin. 🧠 Psychology UniTo. 📩 info/collab: email/DM.
     location: "Italy"
-    followers: 27750
-    engagement: 1032
-    commentsToLikes: 0.036956
-    id: ck9wez8nvmjp90j78g67dab4y
+    followers: 4956
+    engagement: 367
+    commentsToLikes: 0.071698
+    id: ck9hcoc2dmb290j78hcv0t01i
     verified: false
-    hashtags: "#minigonna, #italiangirl, #legs, #labionda"
-  - username: "rita.cap"
+    hashtags: "#fluomakeup, #facepainting, #diamondfx, #makeupinspo"
+  - username: "_ilaria_quaranta_"
     fullname: >-
-      𝑹𝒊𝒕𝒂 𝑪𝒂𝒑𝒑𝒂𝒓𝒆𝒍𝒍𝒊✨
+      Ilaria Quaranta
     bio: >-
-      📍 Turin | 24yo 📩 capparellirita@gmail.com Beauty reporter @glamouritalia Attendend @condenastacademy
+      Potrà capitarti di bere, ma non annegherai. 🌸Live, Love, Laugh ✈️Traveller 🇮🇹 🇫🇷 🇪🇸 🇲🇦 🇭🇺 🇳🇱 🇨🇭 💄Girl 🍭16/12/1994 📍Saluzzo
     location: "Italy"
-    followers: 94077
-    engagement: 188
-    commentsToLikes: 0.025795
-    id: ck138l6upgrut0i19o4hxktfz
+    followers: 2893
+    engagement: 1881
+    commentsToLikes: 0.033438
+    id: ckap8dqatnvpq0i78e21d902e
     verified: false
-    hashtags: "#sunday, #saturday, #friday, #tuesday"
+    hashtags: "#travel, #italiangirl, #instalike, #portrait"
   - username: "serena_filomena"
     fullname: >-
       SERENA FILOMENA ✨
     bio: >-
       📍Turin, Italy🇮🇹 • Beautician 💆🏻‍♀️ • Beauty & Lifestyle • Travel 🧳 •🔜Cosmoprof Worldwide 💌serenafilomena9@gmail.com
     location: "Italy"
-    followers: 17266
-    engagement: 89
-    commentsToLikes: 0.017991
+    followers: 17142
+    engagement: 95
+    commentsToLikes: 0.044497
     id: ck6u6fiztfb4i0j71uwtevple
     verified: false
-    hashtags: "#design, #classy, #styles, #style"
-  - username: "miriammigliaccio"
+    hashtags: "#clothing, #hot, #glam, #cosmetics"
+  - username: "rita.cap"
     fullname: >-
-      Miriam
+      Rita Capparelli
     bio: >-
-      Personal Trainer 🔥 Naples-Turin @athleticperform 10% off “miriam01” Click the link below 💖
+      Italian based in Turin 🥀deeply in love with aesthetics beauty inquiries: rita@sparkleagency.it @thewom contributor my wardrobe ↴
     location: "Italy"
-    followers: 11616
-    engagement: 1385
-    commentsToLikes: 0.023724
-    id: ck9wezrpcmmkf0j789f1w9gn0
+    followers: 101850
+    engagement: 425
+    commentsToLikes: 0.006343
+    id: ck138l6upgrut0i19o4hxktfz
     verified: false
-    hashtags: "#fitnessgirl, #bodypositive, #makeup, #motivation"
-  - username: "floraiones"
+    hashtags: "#thursday, #parisianstyle, #saturday, #friday"
+  - username: "giulietta_995"
     fullname: >-
-      Flora Iones
+      Giulia Caggiano 🐯
     bio: >-
-      📍Italy 🇮🇹 /Turin /Bologna ✨Start in 26 NOV 2019 🔛Work hard to improve yourself and then just follow your instinct. And take lots of photos. Love wins.
+      National Judo Team 🇮🇹 FF.OO 🔥 Police Team 👮🏻‍♀️ Akiyama Settimo 🖤🏆❤️ 📍Rome, Italy 🏡✈️ Turin, Italy Dietology Student 👩🏻‍🎓📚 Snapchat 😏👻 : Giulietta995
     location: "Italy"
-    followers: 152401
-    engagement: 238
-    commentsToLikes: 0.070803
-    id: ck8tcby0wyzgl0j78xlcnxvwd
+    followers: 5988
+    engagement: 1218
+    commentsToLikes: 0.030255
+    id: ckaosnbiss7o50i784p9d0308
     verified: false
-    hashtags: "#vibes, #italiangirl, #fashionblogger, #switzerland"
+    hashtags: "#home, #beach, #judogirl, #passion"
   - username: "carola_bianco_"
     fullname: >-
       Carola Bianco
     bio: >-
-      📍 Turin, Milan | Italy ❄️20 years old 👩🏻‍⚕️Med student @unitorino Agency: @bravemodels
+      📍 Turin, Milan | Italy ❄️21 years old 👩🏻‍⚕️Med student at Molinette Torino Agency: @bravemodels
     location: "Italy"
-    followers: 8034
-    engagement: 653
-    commentsToLikes: 0.038672
+    followers: 7904
+    engagement: 687
+    commentsToLikes: 0.036432
     id: ck6ufbfr2w2590j71nlmz3inb
     verified: false
-    hashtags: "#portraitgirl, #fashiongirl, #girl, #beauty"
+    hashtags: "#girlportrait, #girl, #relaxgirl, #portraitgirl"
   - username: "firriolo_andrea"
     fullname: >-
       Andrea Firriolo
     bio: >-
       #hairstylist 📍Turin: C.so Re Umberto 64; 📍Turin: P.zza Gran Madre 8; @salonefirriolo ambassador for @systemprofessional @nioxin
     location: "Italy"
-    followers: 32371
-    engagement: 35
-    commentsToLikes: 0.063243
+    followers: 32759
+    engagement: 48
+    commentsToLikes: 0.100813
     id: ck15tzt75kpv40i1997xuuozq
     verified: false
-    hashtags: "#mariofirriolo, #shorthair, #hairseminars, #thesincerestoryteller"
+    hashtags: "#haircut, #bobhaircut, #blonde, #superblondehair"
+  - username: "luca_messy"
+    fullname: >-
+      ✘ Luca MESSY ✘
+    bio: >-
+      ...ti scatterò una foto 📸 🌎 • Turin, Italy 🇮🇹 📥 • DM - Collaborations ⚜️ • Owner of ®MESSY brand
+    location: "Italy"
+    followers: 33357
+    engagement: 388
+    commentsToLikes: 0.043645
+    id: ck6u3kocwyc6i0j71dbdaul60
+    verified: false
+    hashtags: "#glamourstyle, #fashionphotographers, #brunettegirls, #fashionstyle"
   - username: "risi_mua"
     fullname: >-
-      🌈𝐼𝑅𝐼𝒮 𝒞𝒰𝒞𝒰𝒵𝒵𝒜 🌈
+      IRIS 🌈
     bio: >-
-      💃🏻 TikTok risi992 📍 Turin ✍🏻 Microblading/Bio Tattoo/Laminazione @iris_microblading 💄 Make-up Artist certificate @mba_making_beauty_academy 🥐 Barista
+      ✨Vali tanto, non dimenticarlo 📍Turin ✍🏻Microblading/Laminazione @iris_microblading 💄Make-up Artist certificate @mba_making_beauty_academy 🥐 Barista
     location: "Italy"
-    followers: 8651
-    engagement: 645
-    commentsToLikes: 0.051876
+    followers: 9659
+    engagement: 470
+    commentsToLikes: 0.058211
     id: ck0vw52fos50d0i19g23ly9jv
     verified: false
-    hashtags: "#soufeeljewelry, #makeupaddict, #zodiac, #zodiacsigns"
-  - username: "kennyhairartist"
-    fullname: >-
-      Kenny Scorrano
-    bio: >-
-      BLONDE SPECIALIST. Top Technician @hc.salon Hair trainer @wellahair |Turin | BERLINER . بدأت تحبني For collaboration DM or👇🏻
-    location: "Italy"
-    followers: 25343
-    engagement: 144
-    commentsToLikes: 0.025510
-    id: ck5zlptcbl5s70i14bie2gv1a
-    verified: false
-    hashtags: "#igers, #photography, #boy, #instagood"
+    hashtags: "#soufeelnamerings, #soufeeljewelry, #zodiacsigns, #soufeel"
   - username: "nicole_pinkbow"
     fullname: >-
       Nicole Lifestyle Lover
     bio: >-
-      📍Turin Una normale commessa con la passione per la moda, il beauty e ciò che è #aesthetic✨
+      📍Turin Una normale commessa con la passione per la moda, il beauty e ciò che è #aesthetic✨ Armadioverde⤵️
     location: "Italy"
-    followers: 4250
-    engagement: 871
-    commentsToLikes: 0.116810
+    followers: 4401
+    engagement: 900
+    commentsToLikes: 0.121478
     id: ck9hat96ie1el0j785128sc9e
     verified: false
-    hashtags: "#thepinkbow, #gifted, #nicole, #mapifulfamily"
+    hashtags: "#liketime, #thepinkbow, #nicole, #blackfriday"
 ---

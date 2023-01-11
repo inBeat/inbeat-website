@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Germany in 2023
+title: Top 10 Skincare Instagram Influencers In Germany In 2023
 description: >-
-  Find top skincare Instagram influencers in Germany in 2023. Most popular hashtags: #skincare #skincarecommunity #beauty #verlosung.
+  Find top skincare Instagram influencers in Germany in 2023. Most popular hashtags: #blogger #skincarecommunity #aesthetic #skincare.
 platform: Instagram
-hits: 409
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 409 Instagram influencers like this in Germany for you to connect with.
+hits: 398
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 398 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "silan_h"
+  - username: "gretapondersabout"
     fullname: >-
-      Silan (pronounced Shilan)
+      Greta ponders about
     bio: >-
-      Makeup | Skincare 🧖🏻‍♀️ #lavendergang TikTok: silanmakeup (250k+) 📍Germany 💌 hello@spicylemon-management.de
+      #skincare lover, searching for the #glow , Medical Doctor, 💍and boy mum. ☕️ lover ! ✉️: PR inquiries: Gretalagermaine@gmail.com ✨
     location: "Germany"
-    followers: 23603
-    engagement: 1261
-    commentsToLikes: 0.283009
-    id: ck15pjzjxy9ak0i19iplhzow3
+    followers: 11406
+    engagement: 387
+    commentsToLikes: 0.211893
+    id: ck8t9ccqtnkw10j78lzbdg7al
     verified: false
-    hashtags: "#abbyroberts, #makeuptutorialvideo, #beauty, #urbandecay"
-  - username: "ginastyle_blog"
+    hashtags: "#creamblush, #moodboardaccount, #diorbackstage, #aestheticmoodboard"
+  - username: "drbarbarasturm"
     fullname: >-
-      GINA
+      Dr. Barbara Sturm
     bio: >-
-      💎 Frankfurt 💎Lifestyle 💎Influencer 💎Beauty Skincare,Beauty Coach 📩 DM for collaboration
+      Molecular Skincare & Supplements. Leading aesthetics doctor in anti-inflammatory medicine Made in Germany. Cruelty free.
     location: "Germany"
-    followers: 4605
-    engagement: 818
-    commentsToLikes: 0.231042
-    id: ckap9x0oqtw810i78ga0p0ryp
+    followers: 545602
+    engagement: 47
+    commentsToLikes: 0.024602
+    id: cl5m5lxq7al9d0i238gqpfrmb
     verified: false
-    hashtags: "#lifestyleblogger, #marccain, #instagood, #over45"
-  - username: "dolledupbyj"
+    hashtags: "#sturmchallenge, #skincare, #teamsturm, #skincarecommunity"
+  - username: "lorenayessir"
     fullname: >-
-      D O L L E D  U P    B Y  J. ❤️
+      lorena ☽ petite style
     bio: >-
-      Beauty, skincare and fashion blog. Curating things I love. 🌹 💌 dolledupbyjbeauty@gmail.com 🎬YouTube channel:
+      petite girl • fashion • makeup • skincare • manchmal bin ich auch lustig salzburg | klagenfurt 🇦🇹 💌 lorena@followaustria.management #petitefashion
     location: "Germany"
-    followers: 10073
-    engagement: 380
-    commentsToLikes: 0.074920
-    id: ck8t0jxk0sb830j78v1cehsj2
+    followers: 78511
+    engagement: 344
+    commentsToLikes: 0.032855
+    id: ck0vwd4brt5og0i198cha8hmj
+    verified: false
+    hashtags: "#petitegirl, #petitefashion, #mallorca, #vacation"
+  - username: "davide__scibetta"
+    fullname: >-
+      𝐃𝐚𝐯𝐢𝐝𝐞 𝐒𝐜𝐢𝐛𝐞𝐭𝐭𝐚
+    bio: >-
+      HAIRCARE. SKINCARE. SELFCARE.⠀ Make up is for everyone! ⠀⠀ TikTok: davide__scibetta (150k +)
+    location: "Germany"
+    followers: 89003
+    engagement: 459
+    commentsToLikes: 0.025284
+    id: ck0tybne1mbcl0i19oz0n81uk
+    verified: false
+    hashtags: "#skin, #vlogger, #surgery, #productplacement"
+  - username: "mrs.juulia"
+    fullname: >-
+      Julia 𓄂 ➳
+    bio: >-
+      beauty • skincare • fashion • mindset • 🌍 𝕐𝕠𝕦𝕣 𝕥𝕚𝕞𝕖 𝕚𝕤 𝕟𝕠𝕨! Happiness ❁ ▫️25 I Freiburg ♥️ @paescobar2001 ▫️Juuulia.h@web.de
+    location: "Germany"
+    followers: 41394
+    engagement: 214
+    commentsToLikes: 0.084771
+    id: ck0u0q7a2uk920i192hd6x938
+    verified: false
+    hashtags: "#summerootd, #summerootdph, #summeroutfits, #springoutfitinspo"
+  - username: "azevedormn"
+    fullname: >-
+      Ramon Azevedo
+    bio: >-
+      Men's Fashion - Skincare - Travel Los Angeles
+    location: "Germany"
+    followers: 123516
+    engagement: 663
+    commentsToLikes: 0.007553
+    id: ck9whbiq7x5u00j78isgd22rv
     verified: false
     hashtags: ""
   - username: "dentistafashionista"
     fullname: >-
-      Mansi 🌹💍
+      
     bio: >-
-      Zahnärztin / Dentist 🦷 🇦🇫🇩🇪🇺🇸🇹🇷🇵🇰🇫🇷🇮🇪 SuperSHEro 24/7 🦸🏻‍♀️ #womensupportwomen @hudabeauty lover 🥰 MakeUp 💄/ Fashion🧥/ Skincare 💆🏻‍♀️/ Lifestyle 💃🏻
+      Happily married ❤️ Make Up 💄💋 Skincare 💆🏻‍♀️🧖🏼‍♀️ Fragrances ✨ Fashion 💃🏻💅
     location: "Germany"
-    followers: 21666
-    engagement: 117
-    commentsToLikes: 0.201882
+    followers: 24646
+    engagement: 200
+    commentsToLikes: 0.089357
     id: ck15tfnshhuld0i190v5nfmjz
     verified: false
-    hashtags: "#skincarecommunity, #skincarereels, #skincareproducts, #fashionblogger"
-  - username: "mariposalut"
+    hashtags: "#lipglosslover, #lipswatches, #hudabeauty, #lipswatch"
+  - username: "michael.mua"
     fullname: >-
-      Tanya 探雅🕊
+      Makeup Artist & Hairstylist
     bio: >-
-      🎓Psychology 🧖🏽‍♀️ Korean skincare enthusiast 🌸 📲Social Media Management ✨ Instagram is not the real life, tho ✌🏼
+      Michael 🇿🇦🇩🇪 Glowing Makeup Artist Skincare Guru Hairstyllist
     location: "Germany"
-    followers: 14784
-    engagement: 821
-    commentsToLikes: 0.017762
-    id: ckf5rv9fwdz100j23rhxyct3k
+    followers: 14605
+    engagement: 330
+    commentsToLikes: 0.043786
+    id: ck55ni61q69lz0i11ydezcwxz
     verified: false
-    hashtags: "#werbung, #triumphthruxton, #caferacer, #ad"
+    hashtags: "#beauty, #oribe, #lovemyjob, #skin"
   - username: "__jessy.x__"
     fullname: >-
-      Jessi 💛
+      Jessi 💗
     bio: >-
-      LIFESTYLE • BEAUTY • SKINCARE 💫 20 | 📍ulm 🛍 Online Shop
+      🤍 Skincare & Beauty 👸🏽 Inspiration & Tipps 📸 Anfragen per DM 🛍 Online Shop 👇🏽
     location: "Germany"
-    followers: 11581
-    engagement: 776
-    commentsToLikes: 0.054989
+    followers: 10797
+    engagement: 757
+    commentsToLikes: 0.040936
     id: ck9we8fqbj45j0j78qk7davwb
     verified: false
-    hashtags: "#bloggerlove, #bloggervibes, #bloggerstyle, #fashionaddict"
-  - username: "gretalagermaine"
-    fullname: >-
-      Greta La Germaine
-    bio: >-
-      #skincare addict, Medical Doctor, 💍and boy mum. ☕️ lover ! ✉️: PR inquiries: Gretalagermaine@gmail.com
-    location: "Germany"
-    followers: 6761
-    engagement: 864
-    commentsToLikes: 0.160553
-    id: ck8t9ccqtnkw10j78lzbdg7al
-    verified: false
-    hashtags: "#makeupcollection, #skincareflatlay, #skincareaddict, #natashadenona"
+    hashtags: "#travel, #tb, #bloggergirl, #blogger"
   - username: "sopronita"
     fullname: >-
       Anita | Digital Creator |
     bio: >-
-      SKINCARE🌟BEAUTY🌟LIFESTYLE 🔹️Based in Germany🇩🇪 🔹️Skincare | Beauty Reviews 🔹️Flatlayobsessed 🔴PR|Collab via DM/Email⬇️ 🔴All photos are taken by me!📸
+      SKINCARE🌟BEAUTY🌟LIFESTYLE 🔹️Based in Germany🇩🇪 🔹️Use INF105ANITA at stylevana.com and get 10-15% off Click the Link!⬇️ 🔴PR|Collab via DM/Email
     location: "Germany"
-    followers: 4074
-    engagement: 2131
-    commentsToLikes: 0.193916
+    followers: 5348
+    engagement: 1136
+    commentsToLikes: 0.225105
     id: ck55p105g9kv90i11k0dzlvtr
     verified: false
-    hashtags: "#myeverydaymagic, #makeuplover, #skincarecommunity, #facialcare"
-  - username: "tanja.hoe"
-    fullname: >-
-      Tanja Hööö aus Köln
-    bio: >-
-      Hier gibt es viel zu LESEN Tops 👍 und Flops 👎 aus #BEAUTY #Food #Skincare Ehrliche #Produkttests Geschichten über Düfte Anekdoten aus dem Leben
-    location: "Germany"
-    followers: 19394
-    engagement: 522
-    commentsToLikes: 0.116915
-    id: ck0w2jz42or4m0i1921cmmrcx
-    verified: false
-    hashtags: "#cleanbeauty, #pixi, #tanjasonetofollow, #teepost"
-  - username: "makeupmollie_"
-    fullname: >-
-      Aɴɴᴇ
-    bio: >-
-      •Make-Up & skincare addicted • 𝚌𝚘𝚏𝚏𝚎𝚎 𝚕𝚘𝚟𝚎𝚛 ☕️ • 𝚏𝚒𝚝𝚗𝚎𝚜𝚜🧘🏼‍♀️ 𝚓𝚞𝚗𝚔𝚒𝚎 •📍 𝙶𝚎𝚛𝚖𝚊𝚗𝚢 ♡
-    location: "Germany"
-    followers: 17201
-    engagement: 170
-    commentsToLikes: 0.341395
-    id: ck15r713k6gi60i193l7sr9kc
-    verified: false
-    hashtags: "#instagood, #skincare, #instapic, #mondaymood"
+    hashtags: "#summervibes, #discoverunder10k, #germanblogger, #giveawayalert"
 ---

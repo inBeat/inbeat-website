@@ -1,130 +1,130 @@
 ---
-title: Top 10 TikTok Influencers In Jakarta in 2023
+title: Top 10 TikTok Influencers In Jakarta In 2023
 description: >-
-  Find top TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #duet #zoommyface.
+  Find top TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #foryoupage #duet #foryou.
 platform: TikTok
-hits: 117
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 117 TikTok influencers like this in Jakarta, Indonesia for you to pitch.
+hits: 103
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 103 TikTok influencers like this in Jakarta, Indonesia for you to contact.
 profiles:
   - username: "imho_deep"
     fullname: >-
-      𝐓𝐰𝐢𝐧 🌖𝐈𝐦𝐡𝐨_𝐃𝐞𝐞𝐩🌹
+      𝐈𝐦𝐡𝐨_𝐃𝐞𝐞𝐩 💢 🇮🇩
     bio: >-
-      imho deep ❤️ 💙 🇮🇩 Jakarta Barat 🇮🇩💚❤️
+      imho deep ❤️ 💙 🇮🇩 DKI Jakarta 🇮🇩💚❤️
     location: "Indonesia"
-    followers: 3299
-    engagement: 5551
-    commentsToLikes: 0.300417
+    followers: 3683
+    engagement: 4414
+    commentsToLikes: 0.313969
     id: ckcp4ioukce2s0j23kjjqlokh
     verified: false
-    hashtags: "#tiktok, #twin, #foryoupage, #duet"
+    hashtags: "#foryoupage, #imho, #challenge, #duet"
+  - username: "ayukitt02"
+    fullname: >-
+      ayukaku🐸
+    bio: >-
+      Like kalian semangat aku😍 Jakarta-Jawa👌 hobi : suka bobrok
+    location: "Indonesia"
+    followers: 44200
+    engagement: 1846
+    commentsToLikes: 0.093506
+    id: ckc37kb1dwg8o0j23n11olp24
+    verified: false
+    hashtags: "#handmadecraft, #fyp, #belumtaudia, #mendadakloading"
   - username: "wahyu.wg16"
     fullname: >-
       Wahyu Gunawan✨
     bio: >-
-      Jakarta,Indonesia🇮🇩 Intagram : wahyu.wg16
+      Jakarta,Indonesia🇮🇩 Intagram : iniwahyu.16
     location: "Indonesia"
-    followers: 58900
-    engagement: 1250
-    commentsToLikes: 0.064929
+    followers: 58300
+    engagement: 1186
+    commentsToLikes: 0.064375
     id: cka6nb6icaop60i78816ojw1p
     verified: false
-    hashtags: "#fyp, #epyepe, #zoommyface, #duet"
-  - username: "kevin.koloay"
+    hashtags: "#epyepe, #scarlettwhitening, #fyp, #duet"
+  - username: "juhanah123"
     fullname: >-
-      Kevin Petterson
+      Anah23✨
     bio: >-
-      💫IG @Kevinkoloay 📍Jakarta - Manado 📩 DM for Business / PP FANBOY BTS
+      Bantu Follow 30.k Nyah Yah Jakarta Barat ❤️☺️
     location: "Indonesia"
-    followers: 96100
-    engagement: 1172
-    commentsToLikes: 0.041668
-    id: ckd0gi7eae58k0j23efuy8ugu
+    followers: 11700
+    engagement: 1667
+    commentsToLikes: 0.100015
+    id: ckck2n99om57b0j235nnpe0dn
     verified: false
-    hashtags: "#kpopers, #bts, #kpoper, #foryoupage"
+    hashtags: "#lazada1212, #tiktokers, #fypage, #virall"
   - username: "melanirachmah"
     fullname: >-
       🎭FAMILIAR™Cimel
     bio: >-
       NR : 001 - Tangerang/Jakarta ig. @cimel.meela
     location: "Indonesia"
-    followers: 20700
-    engagement: 1638
-    commentsToLikes: 0.085371
+    followers: 20500
+    engagement: 1245
+    commentsToLikes: 0.086658
     id: ck9eujbledw880j78dzuw1ybt
     verified: false
-    hashtags: "#benyaminsueb, #indonesia, #familyfamiliar, #duet"
-  - username: "juhanah123"
-    fullname: >-
-      @Anah-Oktoviani✨💛
-    bio: >-
-      Bantu Follow 30.k Nyah Yah Jakarta Barat ❤️☺️
-    location: "Indonesia"
-    followers: 5245
-    engagement: 1491
-    commentsToLikes: 0.196306
-    id: ckck2n99om57b0j235nnpe0dn
-    verified: false
-    hashtags: "#fyp, #fyporyoupage, #tiktokers, #slomotion"
-  - username: "jessicaputeri"
-    fullname: >-
-      jessicaputeri
-    bio: >-
-      orang malang tinggal di jakarta
-    location: "Indonesia"
-    followers: 1300000
-    engagement: 1712
-    commentsToLikes: 0.012480
-    id: ckbaxvi4nobyn0j23fqoansu2
-    verified: false
-    hashtags: "#stitch, #duet, #racunintiktok, #dermasterindonesia"
+    hashtags: "#ranimukherjee, #bollywood, #duet, #fyp"
   - username: "pangeranipam"
     fullname: >-
-      pangeran ipam
+      pangeran anugerah ralia pane
     bio: >-
-      follow IG ku @pangeranipam 📍jakarta, indonesia
+      follow IG @pangeranipam 📍jakarta, indonesia 📩 business inquires: DM INSTAGRAM
     location: "Indonesia"
-    followers: 214400
-    engagement: 1429
-    commentsToLikes: 0.044935
+    followers: 286100
+    engagement: 1270
+    commentsToLikes: 0.039627
     id: ckc1ygmay2a470j23vyuxkolb
     verified: false
-    hashtags: "#duetbarengoppoa53, #kpop, #kpopers, #viral"
-  - username: "nengrizmaaa27"
-    fullname: >-
-      EFCTI🦅OWNER-RIZMA PRAJA👑
-    bio: >-
-      Bollywood Mania🔥 IG ME:@nengrizmaaa27 Jakarta, 27 Mei 1992 👑Ristafa👑 Nayselaa
-    location: "Indonesia"
-    followers: 6330
-    engagement: 6318
-    commentsToLikes: 0.000000
-    id: ckdtjzsrdxi3s0j2382q7d13g
-    verified: false
-    hashtags: "#foryou, #fypdongggggggg, #storywa, #storywhatssapp"
+    hashtags: "#foryoupage, #truebeauty, #kpop, #pov"
   - username: "nchozaffandy"
     fullname: >-
-      GOLDEN💫AFFANDY👑
+      A F F A N D Y 🇮🇩🇨🇳💦
     bio: >-
-      ผมรักคุณ 🇹🇭 Majalengka - Jakarta 🇮🇩 Bantu Follow IG: @nchozaffandy
+      Just for Fun Majalengka - Jakarta 🇮🇩 Bantu 10K IG: @nchozaffandy Bantu 100K TT
     location: "Indonesia"
-    followers: 58400
-    engagement: 1085
-    commentsToLikes: 0.048642
+    followers: 67400
+    engagement: 1253
+    commentsToLikes: 0.046930
     id: ck9ews2ido4sp0j78lzmg557w
     verified: false
-    hashtags: "#fyp, #tiktok, #zoommyface, #muslim"
+    hashtags: "#fyp, #pageforyou, #zoommyface, #dufan"
+  - username: "bastien.scheunemann"
+    fullname: >-
+      Bastien Scheunemann
+    bio: >-
+      Jakarta 🇮🇩 insta/YouTube :Bastien.scheunemann endorsement: Glenn +628123217180
+    location: "Indonesia"
+    followers: 289000
+    engagement: 715
+    commentsToLikes: 0.025424
+    id: ck90u68mnvg070j78axvdbq4d
+    verified: false
+    hashtags: "#fyp, #foryoupage, #jakarta, #foryou"
   - username: "dwynnawin"
     fullname: >-
       Dwynna Win
     bio: >-
-      a 21yo wahmen in a 16yo body 📍jakarta🇮🇩 sec acc: @dahyunlokal
+      a 21yo wahmen in a 16yo body 📍jakarta🇮🇩 sec acc:@dahyunlokal ⚠️GONNA B BUSY⚠️
     location: "Indonesia"
-    followers: 377100
-    engagement: 1617
-    commentsToLikes: 0.015032
+    followers: 901700
+    engagement: 1487
+    commentsToLikes: 0.013616
     id: ckbklk9b2et8p0j23rhv58ahj
     verified: false
-    hashtags: "#duet, #mikasa, #cosplay, #attackontitan"
+    hashtags: "#stitch, #thisbyalifahratu, #fyp, #selflovewithdelfi"
+  - username: "baryprimastewert"
+    fullname: >-
+      Bary_Prima_Stewert
+    bio: >-
+      SAD BOY SUPPORT PLZ FOLLOW IG : baryprimastewert JAKARTA 👇👇👇
+    location: "Indonesia"
+    followers: 78700
+    engagement: 477
+    commentsToLikes: 0.068263
+    id: ckb9sxrm0qhqw0j23lvamldpz
+    verified: false
+    hashtags: "#transisi, #slowmotion, #foryoupage, #tiktoksedih"
 ---

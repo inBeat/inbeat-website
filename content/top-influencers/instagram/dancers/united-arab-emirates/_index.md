@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Dancers Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top dancers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #dance #dancer.
+  Find top dancers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dance #dancer #dubai.
 platform: Instagram
-hits: 20
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 20 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 21
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 21 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
   - username: "madhuri.chavan7"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.078376
     id: ck15q0f1p0hzj0i197nafgoir
     verified: false
-    hashtags: "#blackpink, #howyoulikethat, #dncracademy, #dancecovercontest"
-  - username: "alexandranashmodel"
+    hashtags: "#howyoulikethat, #dncracademy, #dancecovercontest, #dance"
+  - username: "joyceamil"
     fullname: >-
-      Alexandra Nash
+      J O Y C E
     bio: >-
-      Contributions- @alexandranash.contributions Dancer💃 @ultraangels 2020 South Africa🇿🇦 @thecirclemodels Dubai 🇦🇪 @wilhelminadubai
+      💃🏽 Dancer • Choreographer • Creative Director 👗 Fashion Stylist 🎙 Host “Real Talk With Joyce” (On IGTV) 🏋🏼‍♀️ Fitness Enthusiast 📩 amiljoyce@gmail.com
     location: "United Arab Emirates"
-    followers: 41640
-    engagement: 198
-    commentsToLikes: 0.036103
-    id: ck5ca9wk4czz80i11fofbezkl
+    followers: 9049
+    engagement: 424
+    commentsToLikes: 0.112380
+    id: ck9wehingkaki0j78v3lv8ojc
     verified: false
-    hashtags: "#ultrasouthafrica, #ultraangel, #coronaviruspandemic, #dubailiving"
-  - username: "timklemencic"
-    fullname: >-
-      TIM
-    bio: >-
-      📍Dubai Dancer / Singer / Model 📩 timklemencic9@gmail.com
-    location: "United Arab Emirates"
-    followers: 22853
-    engagement: 1279
-    commentsToLikes: 0.011456
-    id: ck55lnxme20uy0i11tkpw0ts3
-    verified: false
-    hashtags: "#msup, #pseto, #popstar, #tb"
+    hashtags: "#realtalkwithjoyce, #nike, #dancer, #nikesportswear"
   - username: "saanya_jain"
     fullname: >-
       S A N Y A  J A I N
     bio: >-
-      Fashion & Marketing Enthusiast | Writer & Editor | Dancer | Amateur Baker 🌻 Dubai 🌱
+      Fashion & Marketing Enthusiast | Content Writer & Editor | Dancer | Amateur Baker 🌻 Dubai 🌱
     location: "United Arab Emirates"
-    followers: 2845
-    engagement: 1170
-    commentsToLikes: 0.061231
+    followers: 3288
+    engagement: 1023
+    commentsToLikes: 0.049170
     id: ck5qe4io1yolj0i116hx57kbv
     verified: false
-    hashtags: "#staysafe, #dancelover, #dessert, #bakingfromscratch"
+    hashtags: "#dancevideos, #dancelove, #baking, #bakingvideo"
   - username: "yasvocals"
     fullname: >-
       YAS ~ Dubai ♪
     bio: >-
       ⁣ ⁣founder @yasmusicdance ⁣@scandalousheels⁣ Singer | Dancer | Choreographer 🇦🇺🇸🇰🇲🇦⁣⠀⁣⁣ Dubai📍| LA⁣ ⁣⁣ TikTok @yasvocals⁣ ONLY ONE music video 👇🏼
     location: "United Arab Emirates"
-    followers: 180356
-    engagement: 554
-    commentsToLikes: 0.053296
+    followers: 227522
+    engagement: 586
+    commentsToLikes: 0.037054
     id: ck5pzjrqv1bhs0i11w66uod6y
     verified: false
-    hashtags: "#yaschoreography, #onlyone, #ad, #yas"
-  - username: "adra_davis"
-    fullname: >-
-      Adra Davis
-    bio: >-
-      🔺Ms Kerala Fitness 2011/1st Runnerup 2012 &2013 🔺Vivel India Miss South 2011 🔺Zumba® ZIN/Dancer 🔺fitness freak 🔺Xplorer 🔺June 28🎂 @perfect_heath
-    location: "United Arab Emirates"
-    followers: 41367
-    engagement: 248
-    commentsToLikes: 0.038919
-    id: ck9wgw0pqv8fb0j78uaqrcmvi
-    verified: false
-    hashtags: "#dubai, #adradavis, #black, #vijaythalapathy"
-  - username: "joyceamil"
-    fullname: >-
-      J O Y C E
-    bio: >-
-      💃🏽 Dancer • Choreographer 🏋🏼‍♀️ Fitness Enthusiast 👟 SneakerHead 📩 amiljoyce@gmail.com 📍 Dubai
-    location: "United Arab Emirates"
-    followers: 7574
-    engagement: 624
-    commentsToLikes: 0.124391
-    id: ck9wehingkaki0j78v3lv8ojc
-    verified: false
-    hashtags: "#tiktokdance, #tiktok, #dance, #prayforlebanon"
+    hashtags: "#heelsdance, #dubaidancers, #prettylittlething, #yaskleopatra"
   - username: "karinapalma"
     fullname: >-
       Karina Palmira
     bio: >-
       🔺 @moto_dancers_afrobeats 🔺 @dhfworldwide 📥 motodancers@gmail.com Online dance course⤴️
     location: "United Arab Emirates"
-    followers: 331570
-    engagement: 203
-    commentsToLikes: 0.022510
+    followers: 358118
+    engagement: 195
+    commentsToLikes: 0.016835
     id: ck0u0k9vtu2tz0i1942nthmoa
     verified: false
-    hashtags: "#coupedecale, #justdance2020, #dubai, #homeblazinchallenge"
-  - username: "mashaz31"
+    hashtags: "#amapiano, #mbol, #dancefusionnow, #ndombolo"
+  - username: "gracielapischner"
     fullname: >-
-      Masha🦁 Dubai🏝•⛰Almaty
+      Graciela Pischner 🧿جراسيلا
     bio: >-
-      😃Personal trainer PTAGlobal 💪TRXSTC, TRXFTC, 💃Dancer 🤦🏼‍♀️Mom of 3 kids 🍎Born in Kazakhstan 🇰🇿 🍝Lived in Italy🇮🇹 🏝Moved to Dubai🇦🇪 #workoutwithmasha
+      Belly Dancer Collaboration Perfluence 📍Dubai 💖Doula🥬Veggie🍒 Artists Agent @gaeevents graciela@gaeevents.com
     location: "United Arab Emirates"
-    followers: 16388
-    engagement: 818
-    commentsToLikes: 0.011136
-    id: ckf5r0k33b0b10j23t6qdqmbh
+    followers: 27233
+    engagement: 133
+    commentsToLikes: 0.096044
+    id: ck5pwktucnan40i11ik8swn2b
     verified: false
-    hashtags: "#mashafascia, #everydayisabeachday, #dubailife, #dubaieye"
-  - username: "divyamadhu13"
+    hashtags: "#mydubai, #stayhome, #dubai, #dubailoving"
+  - username: "carmenfragoso.dancer"
     fullname: >-
-      Divya Dharshini
+      Carmen Fragoso
     bio: >-
-      Artist in Cine field 🎥 Dancer💃in Zee tamil,Suntv and VijayTV Givelove ❤NoGap💚 My everything @standy_choreographer ❤💚
+      I’m a Mexican choreographer & Dancing Coach specialized in Belly/Khaleeji Dancing. Based in Dubai Bookings: carmenfragosob1@gmail.com
     location: "United Arab Emirates"
-    followers: 53447
-    engagement: 233
-    commentsToLikes: 0.013822
-    id: ck9wgi325tigc0j78i2kqjj2j
+    followers: 311864
+    engagement: 286
+    commentsToLikes: 0.024868
+    id: ck0w5lxmx4aol0i19k32i036t
     verified: false
-    hashtags: "#happy, #dubailife, #sister, #india"
+    hashtags: "#iraq, #iraqidance, #carmenfragoso, #carmenfragosodance"
+  - username: "flexifarah"
+    fullname: >-
+      Farah
+    bio: >-
+      Contortionist 👽 & Flexibility coach 📍Dubai Train with me 💌 DM
+    location: "United Arab Emirates"
+    followers: 26175
+    engagement: 409
+    commentsToLikes: 0.026050
+    id: ck55lzhz02u970i11g6vocbs2
+    verified: false
+    hashtags: "#flexible, #split, #flexibilitygoals, #flexifarah"
+  - username: "a.lluringbliss"
+    fullname: >-
+      aly💜
+    bio: >-
+      she/her 19🦋cms'22 trust the process 🌱🌱 📍dubai/bangalore ——————— CITY GIRLS video out now 👇👇
+    location: "United Arab Emirates"
+    followers: 5135
+    engagement: 2583
+    commentsToLikes: 0.075661
+    id: ckaowb1il84rt0i785i2003qi
+    verified: false
+    hashtags: "#dubaidancer, #dancerlife, #tiktokarabia, #hiphopdancer"
+  - username: "jeremyfragrance"
+    fullname: >-
+      Jeremy Fragrance
+    bio: >-
+      ◾️Hashtag: #jeremyfragrance ◾️My Brand @fragrance.one ◾️My Youtube:
+    location: "United Arab Emirates"
+    followers: 745199
+    engagement: 183
+    commentsToLikes: 0.011596
+    id: ck55jpd4txhwe0i114kvhgmvy
+    verified: true
+    hashtags: "#party, #fans, #fan, #fragrances"
 ---

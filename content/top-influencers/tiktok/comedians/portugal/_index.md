@@ -1,60 +1,108 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Portugal in 2023
+title: Top 10 Comedians TikTok Influencers In Portugal In 2023
 description: >-
-  Find top comedians TikTok influencers in Portugal in 2023. Most popular hashtags: #comedia #fyp #foryou #fy.
+  Find top comedians TikTok influencers in Portugal in 2023. Most popular hashtags: #comedia #foryou #fyp #humor.
 platform: TikTok
-hits: 74
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 74 TikTok influencers like this in Portugal for you to pitch.
+hits: 67
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 67 TikTok influencers like this in Portugal for you to collaborate.
 profiles:
+  - username: "daniel_patrocinioo"
+    fullname: >-
+      daniel🏳️‍🌈❤️
+    bio: >-
+      Perdi a minha conta do IG ajudem me a chegar de novo aos 10K 🏳️‍🌈 GO ➡️ 250K
+    location: "Portugal"
+    followers: 245400
+    engagement: 2407
+    commentsToLikes: 0.014414
+    id: ckajk8t0soyws0i78z1l45usq
+    verified: false
+    hashtags: "#lgbt, #foryou, #fyp, #comedy"
   - username: "el_midon"
     fullname: >-
       Hugo Miguel Midão
     bio: >-
-      COMÉDIA☀️MENTALISMO ☀️MAGIA e muito mais. -LIVE todos os Sábados -🌟👑🙏👍
+      COMÉDIA☀️MENTALISMO ☀️MAGIA e muito mais. -🌟👑🙏👍 -
     location: "Portugal"
-    followers: 91000
-    engagement: 1239
-    commentsToLikes: 0.065810
+    followers: 121100
+    engagement: 1332
+    commentsToLikes: 0.056695
     id: cka0uixhnugcf0i784ujr8x63
     verified: false
-    hashtags: "#humor, #parati, #fy, #fyp"
-  - username: "cattameixa"
-    fullname: >-
-      Catt Ameixa 🎀
-    bio: >-
-      Instagram & YouTube 👆 - Alentejana 🏡 Comédia / teatro 🤡🎭❣️
-    location: "Portugal"
-    followers: 265900
-    engagement: 1725
-    commentsToLikes: 0.007759
-    id: ckdmzvh3ackbw0j23y12gznsb
-    verified: false
-    hashtags: "#fyp, #foryou, #comedia, #foryoupage"
+    hashtags: "#foryoupage, #paravoce, #humor, #parati"
   - username: "brunoalvesfcporto"
     fullname: >-
       Bruno Alves
     bio: >-
       Gostas de futebol? Gostas de comédia? Então, de que esperas para me seguir? ⚽
     location: "Portugal"
-    followers: 34000
-    engagement: 1449
-    commentsToLikes: 0.030007
+    followers: 47200
+    engagement: 1595
+    commentsToLikes: 0.042479
     id: ckbqq7z1pb5ce0j23ev6v9qup
     verified: false
-    hashtags: "#futebolportugues, #parati, #pt, #viral"
-  - username: "guilhermetkd"
+    hashtags: "#comediaportugal, #futebol, #liganos, #comedia"
+  - username: "cattameixa"
     fullname: >-
-      Guilherme Santos
+      Catt Ameixa 🎀
     bio: >-
-      CEO of flop 16 🇵🇹 🎁 Best gifter: 2019tomasbernardo 🎁
+      Instagram & YouTube 👆 - Alentejana 🏡 Comédia / teatro 🤡🎭❣️
     location: "Portugal"
-    followers: 57400
-    engagement: 1725
-    commentsToLikes: 0.056624
-    id: ckdclsoj2nzud0j230ly4wouc
+    followers: 349400
+    engagement: 1844
+    commentsToLikes: 0.005611
+    id: ckdmzvh3ackbw0j23y12gznsb
     verified: false
-    hashtags: "#danca, #fyp, #fy, #foryou"
+    hashtags: "#fyp, #foryou, #foryoupage, #comedia"
+  - username: "duarte.andre"
+    fullname: >-
+      André Duarte
+    bio: >-
+      Sigam para + comédia 🤪✨ 🇵🇹 IG: _duarteandre_
+    location: "Portugal"
+    followers: 9255
+    engagement: 910
+    commentsToLikes: 0.007821
+    id: ck9eoczdsnoy20j783m3u56ys
+    verified: false
+    hashtags: "#fyp, #fy, #trending, #memes"
+  - username: "constanzaariza"
+    fullname: >-
+      ❥Constanza Ariza❥
+    bio: >-
+      welcome to the fam 😎 Follow me on Instagram👆🏼 🌎Portuguese🇵🇹/Spanish🇪🇸
+    location: "Portugal"
+    followers: 836200
+    engagement: 1672
+    commentsToLikes: 0.010813
+    id: ck83zbke6zfil0j788ewd8cyv
+    verified: true
+    hashtags: "#cabelopanteneosonho, #trend, #constanzaariza, #tiktokportugal"
+  - username: "edu.marza"
+    fullname: >-
+      Edu Marzá
+    bio: >-
+      se te puder arrancar um sorriso,já fico feliz!
+    location: "Portugal"
+    followers: 3883
+    engagement: 1349
+    commentsToLikes: 0.214925
+    id: ckbfc9ya750u60j23x1boqoae
+    verified: false
+    hashtags: "#loveislove, #fimdesemana, #comedy, #geracaotiktok"
+  - username: "wayndior"
+    fullname: >-
+      Dior ❄️
+    bio: >-
+      Canal de Youtube 🚨⤴️ Artista 🎵 “O Que Eu Sinto” OUT NOW🙏🏼⤵️
+    location: "Portugal"
+    followers: 158000
+    engagement: 1281
+    commentsToLikes: 0.064659
+    id: ckcprw7ztlxb30j23onjnz6ix
+    verified: false
+    hashtags: "#oioioi, #cantor, #fyp, #fa"
   - username: "gaby_pereira6"
     fullname: >-
       Gabriela Pereira
@@ -62,69 +110,21 @@ profiles:
       🇵🇹
     location: "Portugal"
     followers: 18100
-    engagement: 1555
-    commentsToLikes: 0.036913
+    engagement: 1475
+    commentsToLikes: 0.036807
     id: ckd0qyqj1ic6q0j23lpcly9kc
     verified: false
-    hashtags: "#dance, #comedia, #foryou, #junteaspe"
-  - username: "daniel_patrocinioo"
+    hashtags: "#fy, #dance, #foryou, #comedia"
+  - username: "bibaaaaaaas"
     fullname: >-
-      daniel🏳️‍🌈❤️
+      Beatriz Costa
     bio: >-
-      Perdi a minha conta do IG ajudem me a chegar de novo aos 10K 🏳️‍🌈 GO ➡️ 250K
+      from 🇵🇹 📥 hi@saywe.pt instagram: 46k 👇🏽
     location: "Portugal"
-    followers: 224300
-    engagement: 2228
-    commentsToLikes: 0.006111
-    id: ckajk8t0soyws0i78z1l45usq
+    followers: 45100
+    engagement: 1460
+    commentsToLikes: 0.015219
+    id: ckcoy6jwsa2oi0j234vv7lue1
     verified: false
-    hashtags: "#fy, #fyp, #comedia, #humor"
-  - username: "andre25silva"
-    fullname: >-
-      André Silva
-    bio: >-
-      Sigam-me também no INSTA 👆
-    location: "Portugal"
-    followers: 62300
-    engagement: 1842
-    commentsToLikes: 0.016380
-    id: cka0uj7k0uinw0i78vbmd4s1f
-    verified: false
-    hashtags: "#dueto, #comedia, #amongus, #portugal"
-  - username: "mafaldacreative_"
-    fullname: >-
-      Mafalda Creative
-    bio: >-
-      Gosto de falar para uma câmara 🎬
-    location: "Portugal"
-    followers: 299900
-    engagement: 1974
-    commentsToLikes: 0.009284
-    id: ckbwgyglj2mjv0j23a81lpgj1
-    verified: false
-    hashtags: "#fyp, #foryoupage, #comedia, #pub"
-  - username: "_danielacarvalho_"
-    fullname: >-
-      Daniela 🌸
-    bio: >-
-      20k ? 🇵🇹
-    location: "Portugal"
-    followers: 18100
-    engagement: 1864
-    commentsToLikes: 0.040435
-    id: ckdb9jrqw5m4z0j2314ncu0p8
-    verified: false
-    hashtags: "#trend, #fy, #comedia, #comedy"
-  - username: "_andrezzanascimento_"
-    fullname: >-
-      Andrezza Nascimento
-    bio: >-
-      🇧🇷Eu brinco, mas também falo sério🇵🇹
-    location: "Portugal"
-    followers: 12900
-    engagement: 869
-    commentsToLikes: 0.048861
-    id: ckbfca0ut51440j23p8jgaifi
-    verified: false
-    hashtags: "#comedia, #desabafo, #foryou, #coronavirus"
+    hashtags: "#foryou, #trending, #funny, #fyp"
 ---

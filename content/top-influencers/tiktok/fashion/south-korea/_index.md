@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In South Korea in 2023
+title: Top 10 Fashion TikTok Influencers In South Korea In 2023
 description: >-
-  Find top fashion TikTok influencers in South Korea in 2023. Most popular hashtags: #fashion #fyp #ootd #foryou.
+  Find top fashion TikTok influencers in South Korea in 2023. Most popular hashtags: #fashion #fyp #foryou #ootd.
 platform: TikTok
 hits: 39
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 39 TikTok influencers like this in South Korea for you to contact.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 39 TikTok influencers like this in South Korea for you to collaborate.
 profiles:
-  - username: "out_of_manaa"
+  - username: "kaqueen97"
     fullname: >-
-      out_of_mana
+      Ka Queen👑🇰🇭🇰🇷
     bio: >-
-      🌸 リサ | Lisa | 리사 🌸 (K-)Beauty • Make Up • Fashion Seoul 📍 my socials🔽
+      KLN fashion page ខោអាវទាន់សម័យ🇰🇷💯 FB: Oun Ka(Ka Queen) 👑❤️❤️ 🔐
     location: "South Korea"
-    followers: 31900
-    engagement: 1197
-    commentsToLikes: 0.015260
-    id: ckb9qgaxgm9680j23bazbl0u1
+    followers: 758500
+    engagement: 1289
+    commentsToLikes: 0.020596
+    id: ckb9jgppzaq000j23a89dty03
     verified: false
-    hashtags: "#btsxarmy, #hongdae, #koreatravel, #lifeinkorea"
-  - username: "juneytutela"
+    hashtags: "#tiktokcambodia, #koreantiktok, #12345678910, #cosmetics"
+  - username: "miyopet"
     fullname: >-
-      쥬니Juney
+      Miyopet 미요펫
     bio: >-
-      Fashion•Beauty•Lifestyle 🇰🇷🇪🇸🇺🇸🇫🇷🇨🇳Follow IG💕 👇🏻스페인 학교급식은 처음이지?
+      🐶 Dory 🐱 Nyang Pet Fashion & Daily 🛒 Check here👇🏻
     location: "South Korea"
-    followers: 528500
-    engagement: 957
-    commentsToLikes: 0.016457
-    id: ck9a5d6hqyex70j785mjws32v
+    followers: 215000
+    engagement: 739
+    commentsToLikes: 0.013002
+    id: ckav6zz21dvlf0j234xpb9pos
+    verified: false
+    hashtags: "#dog, #cat, #dogsoftiktok, #catsoftiktok"
+  - username: "daye1014"
+    fullname: >-
+      석다예 Daye
+    bio: >-
+      01년생 대구 팬닉 : 💎 INSTAGRAM : daye1014
+    location: "South Korea"
+    followers: 1200000
+    engagement: 1112
+    commentsToLikes: 0.028978
+    id: ckbvzmz6rvinz0j231xnh2ovl
     verified: true
-    hashtags: "#juney, #parati, #pov, #fyp"
-  - username: "cherixi"
-    fullname: >-
-      채림처럼🍒
-    bio: >-
-      댓글 다 읽고있어요🙇🏻‍♀️ #패션 #공감 #크리에이터
-    location: "South Korea"
-    followers: 279500
-    engagement: 975
-    commentsToLikes: 0.129860
-    id: ckb97ljvoqj3a0j231sswpnwf
-    verified: false
-    hashtags: "#asian, #korean, #fashion, #fyp"
+    hashtags: "#foryou, #makeup, #fyp, #fashion"
   - username: "delightcrew"
     fullname: >-
       딜라잇크루_delight ✨
     bio: >-
       ✨delightcrew_offical✨
     location: "South Korea"
-    followers: 18500
-    engagement: 601
-    commentsToLikes: 0.065520
+    followers: 18200
+    engagement: 593
+    commentsToLikes: 0.055326
     id: ckck5sijvquax0j23ybuakl9e
     verified: false
-    hashtags: "#fashion, #dance, #slowmo, #delightcrew"
-  - username: "nohkyuo"
-    fullname: >-
-      내 이름은 노규오 🇰🇷
-    bio: >-
-      KKYU🇰🇷 koreamodel 👑2019missworld BEACH,CLOTH[모노빈제이_대표] /유튜브 뀨tv INSTA ⬇️⬇️⬇️
-    location: "South Korea"
-    followers: 199000
-    engagement: 663
-    commentsToLikes: 0.024300
-    id: ck9fme839t2d10j78t8fcitrp
-    verified: false
-    hashtags: "#monobinj, #fashionhaul, #fashion, #bikini"
-  - username: "dxremi.sxl"
-    fullname: >-
-      한솔
-    bio: >-
-      •age 18 •height 159 weight 45 •instagram follow ⬆️
-    location: "South Korea"
-    followers: 135400
-    engagement: 1000
-    commentsToLikes: 0.013374
-    id: cka61t2rtwtsn0i78z8u6tnxx
-    verified: false
-    hashtags: "#dailylook, #iphone, #ootd, #fashion"
+    hashtags: "#fyp, #dance, #costume, #delightcrew"
   - username: "jiejie_seoul"
     fullname: >-
       서울언니
     bio: >-
       ✨✨✨
     location: "South Korea"
-    followers: 65100
-    engagement: 461
-    commentsToLikes: 0.025538
+    followers: 64700
+    engagement: 448
+    commentsToLikes: 0.026511
     id: ck920job4ehg80j7839rxyklr
     verified: false
-    hashtags: "#model, #fyp, #fup, #tlog"
+    hashtags: "#10, #femalemodel, #tlog, #fup"
+  - username: "dxremi.sxl"
+    fullname: >-
+      한솔
+    bio: >-
+      •age 19 •height 159
+    location: "South Korea"
+    followers: 136400
+    engagement: 911
+    commentsToLikes: 0.012915
+    id: cka61t2rtwtsn0i78z8u6tnxx
+    verified: false
+    hashtags: "#fyp, #03, #fashion, #gucci"
   - username: "mjnjy_990211_"
     fullname: >-
       유니
     bio: >-
       ♥︎Instagram - m1n_jy ♥︎댓글 모두 읽고있어요 감사합니다 🤍
     location: "South Korea"
-    followers: 54500
-    engagement: 801
-    commentsToLikes: 0.009661
+    followers: 55400
+    engagement: 778
+    commentsToLikes: 0.008688
     id: ckb9m6oovf2de0j23v5blbvl5
     verified: false
-    hashtags: "#koreafashion, #dailylookchallenge, #ootd, #dailylook"
+    hashtags: "#fashion, #myootd, #dailylook, #korean"
   - username: "noirnine"
     fullname: >-
       NOIRNINE
     bio: >-
       
     location: "South Korea"
-    followers: 100800
-    engagement: 339
-    commentsToLikes: 0.010166
+    followers: 99900
+    engagement: 342
+    commentsToLikes: 0.011337
     id: ckbw3ntykx7pi0j23s5469agn
     verified: false
-    hashtags: "#ootdchallenge, #foryou, #ootdchalllenge, #noirnine"
-  - username: "shoelace999"
+    hashtags: "#noirnine, #fashion, #ootdchallenge, #dailylook"
+  - username: "monosoul365"
     fullname: >-
-      shoelacestyle
+      Soul
     bio: >-
-      신발끈 예쁜게 묶는 999+가지방법 999+ ways to tie shoelace Thank you for➕&♥️
+      MONOSOUL 소울이 입니듕 ♥️ 네이버 " 모노소울 " insta - @soul365
     location: "South Korea"
-    followers: 15600
-    engagement: 333
-    commentsToLikes: 0.006263
-    id: ckacjfcbu7a6o0i78utm85r6h
+    followers: 227600
+    engagement: 407
+    commentsToLikes: 0.019839
+    id: ckdn2c790dfk40j2385ebtanq
     verified: false
-    hashtags: "#shoelace, #shoelacestyle, #fashion, #red"
+    hashtags: "#fyp, #bling, #fashion, #bentley"
+  - username: "nohkyuo"
+    fullname: >-
+      KKYU
+    bio: >-
+      KKYU🇰🇷 👑missworldkorea Instagram: nohkyuo / youtube: 뀨tv kkyutv ⬇️ ⬇️ ⬇️
+    location: "South Korea"
+    followers: 259500
+    engagement: 373
+    commentsToLikes: 0.018121
+    id: ck9fme839t2d10j78t8fcitrp
+    verified: false
+    hashtags: "#fyp, #fashionstyle, #followme, #girls"
 ---

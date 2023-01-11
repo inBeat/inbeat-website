@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Capetown in 2023
+title: Top 10 Models Instagram Influencers In Capetown In 2023
 description: >-
-  Find top models Instagram influencers in Capetown in 2023. Most popular hashtags: #model #capetown #happy #photography.
+  Find top models Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #model #southafrica #fashion.
 platform: Instagram
-hits: 50
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat has 50 Instagram influencers like this in Capetown, South Africa for you to contact.
+hits: 26
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 26 Instagram influencers like this in Capetown, South Africa for you to collaborate.
 profiles:
-  - username: "yannickbandora"
+  - username: "ciara_tay_kruger"
     fullname: >-
-      Yannick Bandora
+      Ciara Taylor Kruger💋
     bio: >-
-      For bookings: hugo@immbruxelles.com D1 Models London🇬🇧 IMM Brussel🇧🇪 Why not models milan🇮🇹 Boss models Capetown🇿🇦
+      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
     location: "South Africa"
-    followers: 12782
-    engagement: 712
-    commentsToLikes: 0.025488
-    id: ck6u9au89wh1t0j71y1xvfgyb
+    followers: 5624
+    engagement: 1387
+    commentsToLikes: 0.111456
+    id: ckapbizlf021z0i78vsf48vsh
     verified: false
-    hashtags: "#zalandoman, #editorial, #blacklivesmatter, #capetown"
-  - username: "deetzblom"
-    fullname: >-
-      Dieter Blom
-    bio: >-
-      💬 - Model | Business 🗺️ - Brand Amb | @luxuriaza 🛸 - Founder | @versysmedia 🎬 - Model: @bossmodelsjhb | MA: @cyrusmodels ⬇️ Click this link
-    location: "South Africa"
-    followers: 8952
-    engagement: 873
-    commentsToLikes: 0.063889
-    id: ck6tuzqp4jctj0j71j1mp2ymb
-    verified: false
-    hashtags: "#photoshoot, #photography, #southafrica, #model"
+    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
   - username: "marcbermanphotography"
     fullname: >-
       Marc Berman | Photographer
     bio: >-
-      #photographer 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
+      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
     location: "South Africa"
-    followers: 15887
-    engagement: 256
-    commentsToLikes: 0.022283
+    followers: 16600
+    engagement: 187
+    commentsToLikes: 0.023634
     id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#canonphotography, #fitgirls, #dailypost, #brazil"
-  - username: "joyness_1506"
-    fullname: >-
-      JOY-NITA WHITTAKER
-    bio: >-
-      Dentist 📍Cape Town 🇿🇦 Signed Curve Model ICE Genetics @icegenetics #joynitaw Bookings: donne@icegenetics.co.za
-    location: "South Africa"
-    followers: 6605
-    engagement: 422
-    commentsToLikes: 0.068466
-    id: ck5hm8seglief0i11ys8lu381
-    verified: false
-    hashtags: "#love, #plus, #photo, #happy"
+    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
   - username: "carissaswart"
     fullname: >-
-      Rissa
+      Carissa💋
     bio: >-
-      Model based in Capetown📍📍 MA:@syncmodels_
+      Model based in Capetown📍📍 Mother agency : @syncmodels_
     location: "South Africa"
-    followers: 4907
-    engagement: 1490
+    followers: 5173
+    engagement: 1413
     commentsToLikes: 0.073638
     id: ckf5o137d0ih40j23h5hkt3vo
     verified: false
-    hashtags: "#music, #photooftheday, #instagram, #photography"
-  - username: "marcbuckner"
+    hashtags: "#follow, #photooftheday, #portrait, #music"
+  - username: "chariebotha"
     fullname: >-
-      Marc Buckner
+      Charie Botha
     bio: >-
-      Collaboration ▶️ marcbbuckner@yahoo.com 🐺Father to @lunaluludog 🏘Rental properties @capetownaccommodations
+      Model. Wife. Petrol Head. Jesus Lover. Highly Favored. Doing life since '86. 🍒 Based in Cape Town. #purposenotpopularity #gracenotperfection
     location: "South Africa"
-    followers: 105527
-    engagement: 464
-    commentsToLikes: 0.031676
-    id: ck5qeisvd0p580i11yvigwyqx
-    verified: true
-    hashtags: "#motivation, #chest, #work, #arms"
-  - username: "garrethbarclayphoto"
-    fullname: >-
-      GARRETH BARCLAY | PHOTOGRAPHER
-    bio: >-
-      DM me for bookings. 📍PTA / JHB 🇿🇦 Agency: @herocreativemanagement Weddings: @barclaystudios_
-    location: "South Africa"
-    followers: 54014
-    engagement: 154
-    commentsToLikes: 0.039688
-    id: ck0vvz6s4rfa20i193tcpbiln
+    followers: 5266
+    engagement: 397
+    commentsToLikes: 0.075050
+    id: ck600u9d0ea4w0i14u23i1ja9
     verified: false
-    hashtags: "#body, #myokore, #bikini, #summer"
+    hashtags: "#farmlife, #braids, #smile, #happy"
+  - username: "mattejacobs"
+    fullname: >-
+      Matte Jacobs
+    bio: >-
+      Cape Town @20modelmanagement Johannesburg @syncmodels_ • Make Up⠀ • Fashion ⠀ • Face of @houseoflecap • Creative 🇿🇦 ✊🏽✊🏿✊🏾🏳️‍🌈⠀
+    location: "South Africa"
+    followers: 10035
+    engagement: 724
+    commentsToLikes: 0.122577
+    id: ck5zy5rny9a3r0i14dbfi53e1
+    verified: false
+    hashtags: "#nextfacesofponds, #watchmenow, #avon, #ugg"
+  - username: "amber_brits"
+    fullname: >-
+      A M B E R. BRITS. OFFICIAL 💥
+    bio: >-
+      Stay Golden ✨ CapeTown South Africa 🇿🇦 ☀️ Freelance Model Content creator Fashion♡Beauty♡Food♡Art♡Design♡Weed ● ○ -Email/dm for rates or collab 🦋
+    location: "South Africa"
+    followers: 18841
+    engagement: 478
+    commentsToLikes: 0.041060
+    id: ck5c26a7twmdj0i11124h90ib
+    verified: false
+    hashtags: "#shop, #fashioninspo, #babe, #cute"
+  - username: "magaramirezz"
+    fullname: >-
+      Maria Gabriela Ramirez ⚓️
+    bio: >-
+      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
+    location: "South Africa"
+    followers: 6782
+    engagement: 1415
+    commentsToLikes: 0.065761
+    id: ckap0qc7qrepz0i78yrvmaxt0
+    verified: false
+    hashtags: "#losangeles, #beach, #milan, #shooting"
   - username: "olivermatthieu"
     fullname: >-
       Oliver Matthieu
     bio: >-
       Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
     location: "South Africa"
-    followers: 5268
-    engagement: 1453
-    commentsToLikes: 0.096049
+    followers: 5393
+    engagement: 1299
+    commentsToLikes: 0.091890
     id: ck15pkwu6ye0b0i19o3n9yx4s
     verified: false
-    hashtags: "#friends, #happy, #childactor, #mixedindonesian"
-  - username: "kickpushkgosi"
+    hashtags: "#childmodel, #friendship, #boy, #schoolboy"
+  - username: "frema.mensah"
     fullname: >-
-      Kgosi Motsepe | Visual Creator
+      🇬🇭Frema Mensah🇬🇭
     bio: >-
-      Port Elizabeth • South Africa everything is relative
+      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
     location: "South Africa"
-    followers: 7550
-    engagement: 856
-    commentsToLikes: 0.036205
-    id: ck5cdvqc9jvbn0i11m9vju24h
+    followers: 7981
+    engagement: 721
+    commentsToLikes: 0.085715
+    id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
-    hashtags: "#sponsored, #moodyaf, #southafrica, #lcacreative"
-  - username: "nastassja_moller"
+    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
+  - username: "vvbrownskin"
     fullname: >-
-      𝓝𝓪𝓼𝓽𝓪𝓼𝓼𝓳𝓪💫
+      Vanessa Vanderpuye
     bio: >-
-      📍Cape Town, South Africa. 📸 @the_mmm_agency 💪 Fueled by @scfnutrition 📧 DM for work and collabs 🌍 The goal is to die with memories not dreams.
+      Actress & Model 🇬🇧 🇬🇭 Arjana Pike in Bulletproof 📍UK 📧: info@vanessavanderpuye.com Hair Page @vvhairlondon 💇🏾‍♀️
     location: "South Africa"
-    followers: 10468
-    engagement: 535
-    commentsToLikes: 0.069063
-    id: ck600u2ote9t70i14wqpdw70r
+    followers: 38933
+    engagement: 436
+    commentsToLikes: 0.060173
+    id: ck15qtmbu4kym0i19rnxcpnkk
     verified: false
-    hashtags: "#mood, #happy, #capetown, #fun"
+    hashtags: "#darkskinnedbeauty, #actress, #afrohair, #blackgirlmagic"
 ---

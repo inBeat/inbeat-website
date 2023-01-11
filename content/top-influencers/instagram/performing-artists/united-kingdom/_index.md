@@ -1,130 +1,106 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In United Kingdom in 2023
+title: Top 10 Performing Artists Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top performing artists Instagram influencers in United Kingdom in 2023. Most popular hashtags: #dance #performing #dancer.
+  Find top performing artists Instagram influencers in United Kingdom in 2023. Most popular hashtags: #dancer #dance #love #performing.
 platform: Instagram
-hits: 12
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 12 Instagram influencers like this in United Kingdom for you to connect with.
+hits: 8
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 8 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "itsvalis"
-    fullname: >-
-      Valis Volkova
-    bio: >-
-      🎭 Performing Artist 🎵 Band member for @shemustburnofficial 🦇 Owner @unhallowedboutique 🌜 Spiritual being having a human experience 🌿 Vegan
-    location: "United Kingdom"
-    followers: 53987
-    engagement: 180
-    commentsToLikes: 0.051370
-    id: ck0w5tzck5fgw0i19xsbtgo3i
-    verified: false
-    hashtags: "#pinup, #pinupgal, #pinupgirl, #goth"
-  - username: "pearlmodiadie"
-    fullname: >-
-      P E A R L  🔸  M O D I A D I E
-    bio: >-
-      Mom 🍼 Award-winning TV Host 🥇 Radio:Metro FM weekdays 12-3pm 📻 Most Stylish Performing Artist in Film or TV 2019 Email : info@pearlmodiadie.com 🇿🇦
-    location: "United Kingdom"
-    followers: 2919733
-    engagement: 185
-    commentsToLikes: 0.006079
-    id: ck5zqpq4gv1uz0i143f4npigc
-    verified: true
-    hashtags: "#postpartumlife, #thepoweroftechnology, #32weekspregnant, #teamworkmakesthedreamwork"
-  - username: "anvita.dixit"
-    fullname: >-
-      Anvita Dixit
-    bio: >-
-      🌟 Yoga Educator in Philosophy & Psychology 💃🏾 Dancer, Rapper & Performing Artist 🧘🏽‍♀️ Yoga Asana Classes @becurefit 🏠 Born & Raised @kdhamyogacenter
-    location: "United Kingdom"
-    followers: 14247
-    engagement: 482
-    commentsToLikes: 0.023247
-    id: ck5pwd9nyma4n0i11dd2it1va
-    verified: false
-    hashtags: "#anvitadixit, #cultlive, #yoga, #wearecult"
   - username: "adogwanja"
     fullname: >-
-      adogwanja
+      Ado Gwanja
     bio: >-
-      PERFORMING ARTIST 🇳🇬☆☆☆☆☆ ACTOR ☆☆☆☆☆ PRODUCER || MOVIE &MUSIC☆☆☆☆☆ For Bookings Contact ☎ 08039198861..08069421046 YouTube Channel 👇🏼👇🏼👇🏼👇
+      PERFORMING ARTIST 🇳🇬☆☆☆☆☆ ACTOR ☆☆☆☆☆ PRODUCER || MOVIE &MUSIC☆☆☆☆☆ For Bookings Contact ☎ 08039198861..08069421046 Yan Mata Official Video 👇🏻
     location: "United Kingdom"
-    followers: 843594
-    engagement: 26
-    commentsToLikes: 0.036532
+    followers: 1136606
+    engagement: 31
+    commentsToLikes: 0.035372
     id: ck15t8kkcguxp0i19q8rese9j
     verified: true
-    hashtags: ""
-  - username: "officialiseoluwaabidemi"
+    hashtags: "#repost"
+  - username: "missjoliepapillon"
     fullname: >-
-      ISEOLUWA ABIDEMI🥇
+      Jolie 🦋 Burlesque Star
     bio: >-
-      ⚪Founder: Iseoluwa CRA Foundation ⚪️Recording/Performing Artiste ⚪️Account Managed by Mom 📩Bookings@officialiseoluwa.com|+447802365935 #YESICANNOWOUT
+      🌟10yrs International Headliner 🖥️ Virtual Shows 🍸Giant Martini Glass 📖 1:1 Online Coaching 🎭 @ginhouseburlesque 👩🏻‍🎓 @bsmt_bologna FREEBIE 👇
     location: "United Kingdom"
-    followers: 41347
-    engagement: 125
-    commentsToLikes: 0.042673
-    id: ckf5m3e08s3b50j239wm93bkx
+    followers: 24219
+    engagement: 539
+    commentsToLikes: 0.023280
+    id: ck5pybq37v91b0i115oz0buuj
     verified: false
-    hashtags: "#endsars, #iseoluwa, #fearlessbytimgodfrey, #wednessdaymotivation"
-  - username: "jess_hatfield_skater"
+    hashtags: "#burlesqueartist, #virtualshow, #burlesqueteacher, #giantmartiniglass"
+  - username: "erroldouglas1"
     fullname: >-
-      Jessica Hatfield
+      Errol Douglas MBE ™ SRH
     bio: >-
-      Pro Skater, Registered Nurse, Real Estate Investor, World Traveler, Ambitious Woman
+      Loving life #hair blessed industry #Ambassador for London, Owner, #Award #winner Educator. Follow @ErrolDouglasLDN for salon updates 020-7235-0110
     location: "United Kingdom"
-    followers: 4205
-    engagement: 763
-    commentsToLikes: 0.044959
-    id: ck5pvekkhhhrg0i11yvb6ells
-    verified: true
-    hashtags: "#backstage, #britishiceskating, #showbusiness, #dancingonice"
-  - username: "john.wilding"
-    fullname: >-
-      JOHN WILDING
-    bio: >-
-      London / LA Singer/ Songwriter/Actor Debut EP coming soon... Please sponsor me and my EP ⬇️⬇️
-    location: "United Kingdom"
-    followers: 5511
-    engagement: 798
-    commentsToLikes: 0.087204
-    id: ckap9c92is2ns0i78a9frf325
+    followers: 51741
+    engagement: 167
+    commentsToLikes: 0.021988
+    id: ck5chj9ucqvn30i115t9mzb6i
     verified: false
-    hashtags: "#music, #musician, #songwriter, #singing"
+    hashtags: "#thankyou, #sharethehair, #industry, #beautiful"
   - username: "idalaukkanen"
     fullname: >-
       Ida Laukkanen
     bio: >-
       18 | dancer | from Finland Bloch Young Artist - @bloch_eu The Finnish National Ballet School
     location: "United Kingdom"
-    followers: 43611
+    followers: 42759
     engagement: 369
-    commentsToLikes: 0.033227
+    commentsToLikes: 0.035143
     id: ck55jcahdwqpd0i11wee4f8w6
     verified: false
-    hashtags: "#pointeshoes, #blocheu, #quarantine, #blochartist"
-  - username: "mia.z_dance"
-    fullname: >-
-      Mia Z ✨
-    bio: >-
-      • Genee Gold Medal 2019 • @blochau Young Artist 2020- online 10% discount code MIA10 • @puredynamicsphoto ballet ambassador 2020- discount code mia200
-    location: "United Kingdom"
-    followers: 3572
-    engagement: 1090
-    commentsToLikes: 0.038894
-    id: ck8t6gbzodixz0j782do3ef64
-    verified: false
-    hashtags: "#lovebloch, #blochartiste, #photography, #puredynamics"
+    hashtags: "#pointeshoes, #blochartist, #blocheu, #ballet"
   - username: "oliviabeckford_"
     fullname: >-
       O L I V I A  B E C K F O R D
     bio: >-
-      PRO DANCER/CHOREOGRAPHER #0161 - CREDITS - Mabel | Demi Lovato|Nicki Minaj | Liam Payne | Will.I.AM | Bebe Rexha | Black eyed Peas | Rosalia.
+      Dancer/Choreographer #0161 Credits- Mabel Demi Lovato Nicki Minaj Liam Payne Will.I.AM Bebe Rexha Black eyed Peas Rosalia
     location: "United Kingdom"
-    followers: 16178
-    engagement: 651
-    commentsToLikes: 0.084389
+    followers: 16105
+    engagement: 704
+    commentsToLikes: 0.084352
     id: ck6tjuvtn3gy40j71tr7p8xp3
     verified: false
-    hashtags: "#training, #passion, #manny, #dancer"
+    hashtags: "#north, #creatives, #mannyonthemap, #training"
+  - username: "officialshin"
+    fullname: >-
+      Shintastic
+    bio: >-
+      Agency Represented 📖 Shintastic2rb@gmail.com 📧
+    location: "United Kingdom"
+    followers: 3027
+    engagement: 644
+    commentsToLikes: 0.091539
+    id: ck6txh99qxtrd0j713rsqi5w4
+    verified: false
+    hashtags: "#hiphop, #blackmodel, #scoutmemodel, #model"
+  - username: "john.wilding"
+    fullname: >-
+      JOHN WILDING
+    bio: >-
+      London / LA Singer/ Songwriter/Actor/ Wizard Debut EP coming soon...
+    location: "United Kingdom"
+    followers: 5433
+    engagement: 791
+    commentsToLikes: 0.089532
+    id: ckap9c92is2ns0i78a9frf325
+    verified: false
+    hashtags: "#music, #songwriter, #musician, #musiclover"
+  - username: "bunhead1027"
+    fullname: >-
+      Abby C
+    bio: >-
+      Professional Ballerina 🙆🏻‍♀️ Freed of London USA ambassador 🩰 Coffee lover☕️ Dog obsessed 🐾 Walker🚶🏻‍♀️Philippians 4:13 💙
+    location: "United Kingdom"
+    followers: 34013
+    engagement: 602
+    commentsToLikes: 0.013481
+    id: ck0uemj4hlqx00i191b1vlmkm
+    verified: false
+    hashtags: "#saturday, #freedusa, #instamood, #handmade"
 ---

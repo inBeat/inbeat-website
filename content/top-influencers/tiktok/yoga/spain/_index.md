@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Spain in 2023
+title: Top 10 Yoga TikTok Influencers In Spain In 2023
 description: >-
-  Find top yoga TikTok influencers in Spain in 2023. Most popular hashtags: #foryou #yoga #fyp #parati.
+  Find top yoga TikTok influencers in Spain in 2023. Most popular hashtags: #dance #yoga #tiktok #foryou.
 platform: TikTok
-hits: 12
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 12 TikTok influencers like this in Spain for you to work with.
+hits: 10
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Spain for you to connect with.
 profiles:
   - username: "carmenmedinabb"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Pole dance | Handstand | Yoga ➡️➡️ IG: carmenmedinab⬅️⬅️
     location: "Spain"
-    followers: 135200
-    engagement: 1271
-    commentsToLikes: 0.011878
+    followers: 250300
+    engagement: 734
+    commentsToLikes: 0.009411
     id: ckb9ofb6pisov0j23bikoo0ti
     verified: false
-    hashtags: "#foryou, #poledance, #poledancer, #sports"
-  - username: "irenepardox"
-    fullname: >-
-      Irene Pardo 🤸🏼‍♀️
-    bio: >-
-      Gymnast, trainer and what you see Instagram: irenepardox 💖 Sevilla, Spain
-    location: "Spain"
-    followers: 152300
-    engagement: 1711
-    commentsToLikes: 0.028732
-    id: ckbf5392atrxy0j2335nxyqfh
-    verified: false
-    hashtags: "#gimnasiaritmica, #yogatips, #yoga, #acrobatics"
-  - username: "luu.negue"
-    fullname: >-
-      luu.negue
-    bio: >-
-      hello stalker
-    location: "Spain"
-    followers: 12900
-    engagement: 1627
-    commentsToLikes: 0.031108
-    id: ckbr9o00ho69s0j23tdhgahhr
-    verified: false
-    hashtags: "#1000razones, #matematicas, #greenscreen, #espa"
+    hashtags: "#foryou, #poledance, #parati, #fyp"
   - username: "healthbossbabes"
     fullname: >-
       Health Boss Babes
     bio: >-
       Balearic Babe ♋️🇳🇱🇬🇧🇪🇸 IG Katja_itsme_ Be a Health Boss You’re worth it!
     location: "Spain"
-    followers: 3687
-    engagement: 150
-    commentsToLikes: 0.020705
+    followers: 3604
+    engagement: 214
+    commentsToLikes: 0.058837
     id: ckd09jj4hblno0j23yu1550sc
     verified: false
-    hashtags: "#flexibility, #yogagirl, #yoga, #ibizabeach"
-  - username: "ihorofficial"
+    hashtags: "#yogaflow, #flexibility, #yogagirl, #yogaasana"
+  - username: "tueric"
     fullname: >-
-      IhorOfficial
+      Eric Tu
     bio: >-
-      Follow my Instagram 😎👇🏻👌🏻
+      📸Bienvenidos a la familia “CHINITÚ” Soy tu amigo Eric 🌍🤙Peace✌️🇨🇳🇪🇸 🎬
     location: "Spain"
-    followers: 273400
-    engagement: 959
-    commentsToLikes: 0.046097
-    id: ckdhvkux53t440j239aqn1iyz
+    followers: 229100
+    engagement: 1603
+    commentsToLikes: 0.107266
+    id: cka0vl2vfyz390i78t3vzpfni
     verified: false
-    hashtags: "#ihorofficial, #tutor, #adobeaftereffects, #calvo"
-  - username: "bepainting"
+    hashtags: "#erictu, #familiachinitu, #cny, #china"
+  - username: "maria_mainez"
     fullname: >-
-      María
+      Maria_mainez
     bio: >-
-      🎨 Painting videos 🎨 ✉️ bepainting@gmx.com ✉️
+      Nueva y mayor para TikTok 🤣🤣 pero con mucha energía y alegría ☺️💃🦄
     location: "Spain"
-    followers: 107900
-    engagement: 668
-    commentsToLikes: 0.031157
-    id: ckdhqwgr91wqd0j23mm6pk262
+    followers: 6846
+    engagement: 405
+    commentsToLikes: 0.047661
+    id: ckb11weodq8pq0j239oq8oiap
     verified: false
-    hashtags: "#oddlysatisfyingvideos, #satisfyingtiktok, #emmawatson, #naimdarrechi"
-  - username: "cosmopolitanspain"
-    fullname: >-
-      Cosmopolitan España
-    bio: >-
-      #Cosmopolitan, una web para chicas atrevidas y apasionadas.
-    location: "Spain"
-    followers: 159800
-    engagement: 501
-    commentsToLikes: 0.022948
-    id: ckb97jpxgqafk0j23hf3atsom
-    verified: true
-    hashtags: "#chicacosmo, #halloween2020, #halloweenentiktok, #emilyinparis"
-  - username: "pittybernad"
-    fullname: >-
-      Pitty Bernad
-    bio: >-
-      Instagram: @PittyBernad
-    location: "Spain"
-    followers: 26300
-    engagement: 982
-    commentsToLikes: 0.016389
-    id: ckbbun0d6i3ij0j23fbh61z2k
-    verified: false
-    hashtags: "#curlygirl, #parati, #puppy, #dogsoftiktok"
+    hashtags: "#parati, #kenzasport, #krakencommunity, #cyclinggirl"
   - username: "nerebetancor0"
     fullname: >-
       Nere Betancor
     bio: >-
       Canary Islands GRAN CANARIA🌴
     location: "Spain"
-    followers: 2585
-    engagement: 319
-    commentsToLikes: 0.017430
+    followers: 2559
+    engagement: 306
+    commentsToLikes: 0.017264
     id: ckan1m0p9w69r0i78oa0lqp3l
     verified: false
-    hashtags: "#couplegoals, #dance, #yomequedoencasa, #foryou"
+    hashtags: "#laspalmas, #couplegoals, #agujetas, #dance"
+  - username: "viraldyvideos"
+    fullname: >-
+      VIRALdyVIDEOS
+    bio: >-
+      
+    location: "Spain"
+    followers: 37500
+    engagement: 1226
+    commentsToLikes: 0.009479
+    id: ckbl39hbp0me80j23chdgameo
+    verified: false
+    hashtags: "#fantasy, #newtrend, #trend, #viral"
+  - username: "ierapaperlight"
+    fullname: >-
+      ierapaperlight
+    bio: >-
+      Buen rollo
+    location: "Spain"
+    followers: 82300
+    engagement: 470
+    commentsToLikes: 0.014753
+    id: ckcdzibknh8hr0j23yzxew516
+    verified: false
+    hashtags: "#outfit, #humor, #tiktok, #ootd"
   - username: "circusartist"
     fullname: >-
       Kinga Grzeskow
     bio: >-
       Performing ➡️ @DuoDestiny Cirque du Soleil | America’s Got Talent | Moulin Rouge
     location: "Spain"
-    followers: 43700
-    engagement: 466
-    commentsToLikes: 0.017209
+    followers: 43400
+    engagement: 454
+    commentsToLikes: 0.016644
     id: ckb0lnsf8c9xw0j233n454jxk
     verified: false
-    hashtags: "#split, #dc, #contortion, #handance"
+    hashtags: "#workout, #balance, #handance, #foryourpage"
+  - username: "supermercados_eljamon"
+    fullname: >-
+      Super El Jamón
+    bio: >-
+      Empresa 100% andaluza con + de 200 supermercados. ¡Aquí venimos a divertirnos!
+    location: "Spain"
+    followers: 5494
+    engagement: 687
+    commentsToLikes: 0.005849
+    id: ckb9nwdslhsux0j23361hdr08
+    verified: false
+    hashtags: "#randomfashion, #andaluz, #viral, #dance"
+  - username: "irenepardox"
+    fullname: >-
+      Irene Pardo 🤸🏼‍♀️
+    bio: >-
+      Hablamos por insta ☺️⤴️ Gymnast, dancer and what you see ✨ Sevilla, Spain 💖
+    location: "Spain"
+    followers: 246800
+    engagement: 1503
+    commentsToLikes: 0.014978
+    id: ckbf5392atrxy0j2335nxyqfh
+    verified: false
+    hashtags: "#dance, #aprendecontiktok, #gimnasiaritmica, #acrobatics"
 ---

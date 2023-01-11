@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Miami in 2023
+title: Top 10 Travel TikTok Influencers In Miami In 2023
 description: >-
-  Find top travel TikTok influencers in Miami in 2023. Most popular hashtags: #travel #fyp #miami #foryou.
+  Find top travel TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #travel #miami #foryou.
 platform: TikTok
-hits: 122
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 122 TikTok influencers like this in Miami, United States for you to collaborate.
+hits: 172
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 172 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "daniklaric"
+  - username: "daniduqued"
     fullname: >-
-      daniklaric
+      Daniduqued
     bio: >-
-      VEAN MIS VÍDEOS DE YOUTUBE
+      Blogger/Content creator IG: @daniduqued
     location: "United States"
-    followers: 61300
-    engagement: 1394
-    commentsToLikes: 0.012079
-    id: ck9c8wb2dtarf0j78b2p9bdqr
+    followers: 79500
+    engagement: 564
+    commentsToLikes: 0.114618
+    id: ck83ze1kuzx5q0j785dpzcl3r
     verified: false
-    hashtags: "#verano, #diy, #travel, #miami"
-  - username: "dillonnewpants"
+    hashtags: "#dothescottsslide, #turbotaxlivepick6, #thisorthatsblv, #getreadywitholdspice"
+  - username: "tim_lane"
     fullname: >-
-      Dillonnewpants
+      Tim Lane
     bio: >-
-      IG @dillonnewpants @miami_exotic_rentals
+      Green Beret Bodybuilder World Traveler, 🌎 17-Countries IG:@Lanez__world
     location: "United States"
-    followers: 22100
-    engagement: 599
-    commentsToLikes: 0.027078
-    id: ckai5r61xt8th0i78eqx6dwv4
+    followers: 18700
+    engagement: 489
+    commentsToLikes: 0.072130
+    id: ckcp0k76naums0j2369gfhl0g
     verified: false
-    hashtags: "#4yp, #ferrari, #insane, #florida"
-  - username: "trishxciii"
+    hashtags: "#sunsetlover, #dubai, #travelblogger, #redbull"
+  - username: "leslyllanos7"
     fullname: >-
-      TrishXCIII
+      Lesly Llanos
     bio: >-
-      Welcome to my world Miami 🌴 | Beauty/Lifestyle | Your Realtor BFF ❤️ BLM 🇭🇹
+      Cash app: $LeslyLlanosM
     location: "United States"
-    followers: 6390
-    engagement: 645
-    commentsToLikes: 0.016850
-    id: ckcuwxntoluzh0j238o475rjv
+    followers: 3596
+    engagement: 604
+    commentsToLikes: 0.039458
+    id: ck9pmqcmwauu70j780jjthovy
     verified: false
-    hashtags: "#datenight, #floridacheck, #thingstodoinmiami, #dogsoftiktok"
+    hashtags: "#fyp, #girly, #dog, #greenscreen"
   - username: "ilona_travelona"
     fullname: >-
       Ilona Nesterova
     bio: >-
       ILONA NESTEROVA @ilona_travelona Travel Bloger Miami Realtor FLORIDA beauty
     location: "United States"
-    followers: 72800
-    engagement: 443
-    commentsToLikes: 0.040905
+    followers: 74000
+    engagement: 510
+    commentsToLikes: 0.033059
     id: ck9dpikxew17z0j78hyyjg9vm
     verified: false
-    hashtags: "#bepic, #ilona, #summer2020, #newmexico"
-  - username: "verginia.gh"
+    hashtags: "#ilona, #railroad, #unboxing, #fitting"
+  - username: "gab_nyc"
     fullname: >-
-      verginia.gh
+      gab
     bio: >-
-      Connect with me on IG Verginia.gh and OF: onlyFans.com/vergi19
+      vlogs ⭑ nyc ⭑ style heygabnyc@gmail.com IG: gabrielavasci
     location: "United States"
-    followers: 21800
-    engagement: 743
-    commentsToLikes: 0.037250
-    id: ckd06h0o3a8ze0j23w7suhnli
+    followers: 102700
+    engagement: 1014
+    commentsToLikes: 0.011896
+    id: ck94l4ot6xsn90j78eascc1zj
     verified: false
-    hashtags: "#fyp, #love, #tiktok, #travel"
-  - username: "artshestakov"
+    hashtags: "#lovememode, #college, #miami, #travel"
+  - username: "ronnie3o5"
     fullname: >-
-      Artem Shestakov
+      ronnie3o5
     bio: >-
-      Fine Art Landscape & Nature Photographer
+      Travel🏝fitness💪nature🌎 Miami📍
     location: "United States"
-    followers: 34500
-    engagement: 848
-    commentsToLikes: 0.034476
-    id: ckb9mqml9g69y0j23ub1kozd3
-    verified: true
-    hashtags: "#virall, #fypg, #travel, #wow"
-  - username: "zofiacampos"
-    fullname: >-
-      Zofi 🍑
-    bio: >-
-      Instagram blogger 💕 @zofiacampos Fashion 💕 Fitness 💕Mommy 💕Wife 💕 Travel
-    location: "United States"
-    followers: 25500
-    engagement: 425
-    commentsToLikes: 0.048487
-    id: ckb9chtagza9c0j23zujmtis7
+    followers: 37000
+    engagement: 563
+    commentsToLikes: 0.016121
+    id: ckavshj8b50pk0j2371uauwk9
     verified: false
-    hashtags: "#gucci, #travel, #versace, #miami"
-  - username: "ariadnaquin"
+    hashtags: "#viral, #foryoupage, #foryou, #fyp"
+  - username: "thelifeofkale"
     fullname: >-
-      Ari
+      Kayla
     bio: >-
-      🌟🤪🤙🏻💋🤓🤳🏼
+      idk 20
     location: "United States"
-    followers: 2507
-    engagement: 1025
-    commentsToLikes: 0.070809
-    id: ckbfbs2dr45tq0j232ojpid3s
+    followers: 9841
+    engagement: 1164
+    commentsToLikes: 0.044093
+    id: ck9rmscsp4e2c0j786oizlemu
     verified: false
-    hashtags: "#dog, #puppy, #foryou, #like"
-  - username: "solitness_"
+    hashtags: "#fyp, #yesdaychallenge, #greenscreen, #colorcustomizer"
+  - username: "vallyfay"
     fullname: >-
-      Solitness
+      vallyfay
     bio: >-
-      Nutritionist & PT 18K IG🖤: @solitness Miami Foodie Amazon ⬇️
+      just ur average college grad bored in the Q
     location: "United States"
-    followers: 35200
-    engagement: 409
-    commentsToLikes: 0.028373
-    id: ckbkzavd4vr2o0j23ix4m4w1d
+    followers: 2421
+    engagement: 805
+    commentsToLikes: 0.063546
+    id: ckcpb8kwvf3ws0j234r6s6wtz
     verified: false
-    hashtags: "#fail, #fyp, #greenscreenvideo, #dietaketo"
-  - username: "jpark_fit"
+    hashtags: "#foryoupage, #gilmoregirls, #quarantine, #fyp"
+  - username: "mrsmariashelton"
     fullname: >-
-      Jeremy Park
+      Maria Shelton
     bio: >-
-      🇺🇸 x 🇰🇷 ⚡️Workouts Everyday⚡️ Natty 🌱 #AlopeciaGang 🌹 New YouTube Video!
+      Busy Wifey and Mama of 3 with a camera 📸 Follow me on IG @maria.shelton
     location: "United States"
-    followers: 1200000
-    engagement: 765
-    commentsToLikes: 0.007610
-    id: ck85cpw8e2waf0j78buzx5qh1
-    verified: true
-    hashtags: "#sweat, #edutok, #challenge, #workout"
+    followers: 25600
+    engagement: 654
+    commentsToLikes: 0.015611
+    id: ckai3mi5dkett0i78d9hnbeci
+    verified: false
+    hashtags: "#tiktokmoms, #momsoftiktok, #interracialcouple, #momsover30"
+  - username: "graciebabyxx22"
+    fullname: >-
+      Gracie
+    bio: >-
+      FL/PA OF- blondiebaby22
+    location: "United States"
+    followers: 38700
+    engagement: 512
+    commentsToLikes: 0.031977
+    id: ckdnkixdbj5hk0j23pqzrd6bb
+    verified: false
+    hashtags: "#bridgerton, #foryoupage, #blondegirls, #blonde"
 ---

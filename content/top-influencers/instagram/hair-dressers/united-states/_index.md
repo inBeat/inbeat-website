@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In United States in 2023
+title: Top 10 Hair Dressers Instagram Influencers In United States In 2023
 description: >-
-  Find top hair dressers Instagram influencers in United States in 2023. Most popular hashtags: #modernsalon #behindthechair #americansalon #crafthairdresser.
+  Find top hair dressers Instagram influencers in United States in 2023. Most popular hashtags: #hair #behindthechair #hairstyles.
 platform: Instagram
-hits: 127
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat has 127 Instagram influencers like this in United States for you to pitch.
+hits: 163
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 163 Instagram influencers like this in United States for you to collaborate.
 profiles:
   - username: "elieraadelie"
     fullname: >-
@@ -13,48 +13,48 @@ profiles:
     bio: >-
       Owner of : Elie Raad beauty salon &spa -Celebrity makeup artist & hair dresser Based in Cali 6197292237 /6197295180
     location: "United States"
-    followers: 34206
-    engagement: 173
-    commentsToLikes: 0.039342
+    followers: 34479
+    engagement: 162
+    commentsToLikes: 0.040091
     id: ck6tq3cf8p5e40j710w4f5hg2
     verified: false
-    hashtags: "#kimkardashian, #kyliejenner, #cateyemakeup, #cateye"
-  - username: "latinblonde_ny"
+    hashtags: "#fenty, #hairgoals, #bighair, #waivyhair"
+  - username: "iisakkinummi"
     fullname: >-
-      international hair studio ny
+      Iisakki Nummi
     bio: >-
-      HAIR DRESSER. COLORISTAS. SOLO CON CITAS. CITAS APPOINTMENT 👇🏻👇🏻👇🏻👇🏻👇🏻NO NIÑOS. ❌❌🚫KIDS🚫KIDS🚫❌❌
+      ⠀ ▪️Men’s Hair ▪️Award Winning 🏆 ▪️Educator⠀ ▪️Judge of @hairdressersoffinland ⁣ ⁣ ⁣www.iisakkinummi.com ⠀ BOOK AN APPOINTMENT:
     location: "United States"
-    followers: 67400
-    engagement: 60
-    commentsToLikes: 0.075396
-    id: ck5zynpxpa7dx0i14h1silhee
+    followers: 7361
+    engagement: 450
+    commentsToLikes: 0.044755
+    id: ck8sx0penftrb0j78uihkfsj9
     verified: false
-    hashtags: "#2020, #photooftheday, #likeforfollow, #bronx"
+    hashtags: ""
   - username: "davinescolor"
     fullname: >-
       Davines Color
     bio: >-
       Welcome to #davinescolor, professional community of hairdressers. Sharing color formulas! Tag @davinescolor with your formula. Inspire + share ✨🌱
     location: "United States"
-    followers: 54245
-    engagement: 105
-    commentsToLikes: 0.018745
+    followers: 57369
+    engagement: 99
+    commentsToLikes: 0.021200
     id: ckaoqnpltjj3g0i78w33pfcvn
     verified: false
-    hashtags: "#davinesformula"
-  - username: "world.hairdressers"
+    hashtags: "#davinesformula, #davijesformula, #davinesforumla"
+  - username: "elevatehair"
     fullname: >-
-      📍world.hairdressers📍
+      Hair TV / Tools / Party
     bio: >-
-      THE BEST MODELS OF THE WORLD ... AND THE HAIRS THAT LIVE IN THE BEST HAIRDRESSERS OF THE WORLD WILL INSPIRE YOU .. 📍HAİRCUT 📍PAINT📍 OMBRE📍 BALAYAGE📍
+      #ElevateTV 📺 Made by Hairdressers For Hairdressers Link below!
     location: "United States"
-    followers: 164913
-    engagement: 134
-    commentsToLikes: 0.005974
-    id: ck0vyvobe607f0i19nqdt1xjs
+    followers: 183574
+    engagement: 162
+    commentsToLikes: 0.007925
+    id: ck8t5cfcz9mtv0j78kfpqs485
     verified: false
-    hashtags: "#capelli, #art, #hairdo, #brown"
+    hashtags: "#hairbrained, #americansalon, #elevatehair, #hairdesign"
   - username: "behindthechair_stylist"
     fullname: >-
       Behind The Chair
@@ -67,64 +67,64 @@ profiles:
     id: ck5hqzfqftzzd0i11o5p51aau
     verified: false
     hashtags: ""
+  - username: "linocarbosiero"
+    fullname: >-
+      Lino Carbosiero MBE
+    bio: >-
+      Awarded MBE by her Majesty the Queen for services to Hairdressing in 2014. TikTok @linocarbosiero
+    location: "United States"
+    followers: 17309
+    engagement: 238
+    commentsToLikes: 0.112381
+    id: ck5q149qs97be0i11ksuwxgox
+    verified: true
+    hashtags: "#tbthursday, #love, #salons, #fun"
   - username: "ianmichaelblack"
     fullname: >-
       ian michael black
     bio: >-
       Global Artistic Director Aveda 🎨 Hair Color
     location: "United States"
-    followers: 73017
-    engagement: 103
-    commentsToLikes: 0.044218
+    followers: 72766
+    engagement: 108
+    commentsToLikes: 0.044219
     id: ck14l0o6esa0d0i19pih1if5q
     verified: false
-    hashtags: "#crafthairdresser, #crueltyfreehair, #naturallyderived, #hairdressersofinstagram"
-  - username: "antoinettebeenders"
+    hashtags: "#behindthechair, #ianmichaelblack, #modernsalon, #crafthairdresser"
+  - username: "anthonymascolo57"
     fullname: >-
-      Antoinette Beenders
+      Anthony Mascolo
     bio: >-
-      Senior Vice President Global Professional Artistry Aveda
+      #Hairdresser , Creative Director and Co-founder of @tigiprofessionals #tigifuse Founder and editor in chief @infringemagazine
     location: "United States"
-    followers: 24731
-    engagement: 123
-    commentsToLikes: 0.079820
-    id: ck0w231samdxv0i198q4tu36m
+    followers: 62113
+    engagement: 171
+    commentsToLikes: 0.044952
+    id: ck13a96ulp8vj0i19dwnhj11h
+    verified: true
+    hashtags: "#hair, #photo, #hairdressing, #wigs"
+  - username: "byrdmena"
+    fullname: >-
+      SharpFade 🇻🇪
+    bio: >-
+      🚀Founder @Sharpfade | Retired 💈 💈Co-Founder @Riseofhair | 🌎 25+ Countries 🧠Global Creative Consultant @wahlpro 📱@BooksyBIZ Partner 🎙 INTL Host
+    location: "United States"
+    followers: 71554
+    engagement: 200
+    commentsToLikes: 0.080107
+    id: ck0w55fgj1zih0i19h3iwjsra
     verified: false
-    hashtags: "#aveda, #hairdressersjournal, #crueltyfreebeauty, #natural"
+    hashtags: "#moda, #style, #barber, #wahl"
   - username: "herbertczinki"
     fullname: >-
       Herbert Czinki
     bio: >-
-      . "Guidelines discovered?" . Internacional Hair Education
+      . "Guidelines discovered?" . International Hair Education
     location: "United States"
-    followers: 56328
-    engagement: 196
-    commentsToLikes: 0.012289
+    followers: 77844
+    engagement: 181
+    commentsToLikes: 0.014617
     id: ck5hqf2u9t0ar0i11ha6vvz1j
     verified: false
-    hashtags: "#haircuttutorial, #haircutter, #elevatehair, #hairstagram"
-  - username: "antestradahair"
-    fullname: >-
-      ANTONIO ESTRADA
-    bio: >-
-      Celebrity Stylist|AZ Visionary Team @sexyhair @saloncentric Ambassador @glamseamless Ambassador BTC Team @behindthechair_com S2 @thelookallstars
-    location: "United States"
-    followers: 113738
-    engagement: 130
-    commentsToLikes: 0.051109
-    id: ck0vz22z96wk90i19ap0egvto
-    verified: false
-    hashtags: "#maneaddicts, #btconeshot2020, #saloncentric, #hairgoals"
-  - username: "taylorrae_hair"
-    fullname: >-
-      Denver CO, Vivids & Blonding
-    bio: >-
-      🌈Taylor Rae, Mother of Rainbows 🎨Vivid Specialist 💜@pravana Collective💜 🦄@brazilianbondbuilder Artist 🍭@colortrak Ambassador ⬇️BOOK ONLINE⬇️
-    location: "United States"
-    followers: 173834
-    engagement: 168
-    commentsToLikes: 0.014947
-    id: ck0w6gv0n8hyx0i19lrbil1nf
-    verified: false
-    hashtags: "#brazilianbondbuilder, #hairdressersunited, #quarantine, #pravana"
+    hashtags: ""
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Russia in 2023
+title: Top 10 Hypebeast Instagram Influencers In Russia In 2023
 description: >-
-  Find top hypebeast Instagram influencers in Russia in 2023. Most popular hashtags: #hypebeast #moodygrams #highsnobiety #artofvisuals.
+  Find top hypebeast Instagram influencers in Russia in 2023. Most popular hashtags: #hypebeast #highsnobiety #agameoftones #theimaged.
 platform: Instagram
-hits: 22
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 22 Instagram influencers like this in Russia for you to pitch.
+hits: 17
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 17 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "gromov6666"
-    fullname: >-
-      Lettering Tattoo CLC/VBI Pro
-    bio: >-
-      Support @vladbladirons @staycoldapparel @odin_tattooshop
-    location: "Russia"
-    followers: 125761
-    engagement: 587
-    commentsToLikes: 0.034028
-    id: ck5cke7ocwouz0i11o5s8c54f
-    verified: false
-    hashtags: ""
-  - username: "katioma"
-    fullname: >-
-      Oma
-    bio: >-
-      🇷🇺 Russia, Moscow 👟Team klekt 👟 @jordan1girls @dunksnkrs
-    location: "Russia"
-    followers: 35953
-    engagement: 497
-    commentsToLikes: 0.023276
-    id: ck137cvkyawyq0i19j9l5iibw
-    verified: false
-    hashtags: "#jordan1, #aj1, #jordan1club, #klekt"
-  - username: "maggigad"
-    fullname: >-
-      pretty mother fvcker
-    bio: >-
-      👟 @sneakerheadrussia team 🏆 most rated Russian customizer 🤺 coolhunter, trendsetter
-    location: "Russia"
-    followers: 24312
-    engagement: 495
-    commentsToLikes: 0.014445
-    id: ck15sgr58cx1i0i19iolnz8n2
-    verified: false
-    hashtags: "#kicksonfire, #nike, #sneakercommunityrussia, #kickspaper"
-  - username: "kingbantu_"
-    fullname: >-
-      👑KING BANTU👑
-    bio: >-
-      📍Kenya, Nairobi
-    location: "Russia"
-    followers: 40598
-    engagement: 806
-    commentsToLikes: 0.165994
-    id: ckaov92ae3k4z0i78ptbkw2ay
-    verified: false
-    hashtags: "#gainwithmugweru, #gainwithmchina, #autolike, #igdaily"
-  - username: "oksanalav"
-    fullname: >-
-      Oksana Lavrova 🖤
-    bio: >-
-      Beauty Addict / Graphic Designer @oneone_art 👩🏻‍🎤 @iamoksanalav Ekaterinburg, Russia
-    location: "Russia"
-    followers: 5995
-    engagement: 521
-    commentsToLikes: 0.014710
-    id: ck55mvcpd4wiv0i11an55ofcu
-    verified: false
-    hashtags: "#runwaymakeup, #tushmagazine, #inbeautmag, #streetwear"
   - username: "frozenbite"
     fullname: >-
       Kirill Skom 🐈
     bio: >-
       💵self-employed hustler 📍lost in Moscow 📷frzbite@gmail.com
     location: "Russia"
-    followers: 15010
-    engagement: 335
-    commentsToLikes: 0.091637
+    followers: 14601
+    engagement: 336
+    commentsToLikes: 0.089941
     id: ck0vvowx5q3ka0i193xgy5xwz
     verified: false
-    hashtags: "#gif, #boomerang, #topdawg, #tde"
-  - username: "tair_marassulov"
-    fullname: >-
-      TM
-    bio: >-
-      Creative Person🔥 Founder of TM International💈 OMC 🌏 Juror and Trainer🏆 Manager: +7 (701) 989-94-94
-    location: "Russia"
-    followers: 94529
-    engagement: 575
-    commentsToLikes: 0.039600
-    id: ck5c6kaw25m5j0i118ugjl7qf
-    verified: false
-    hashtags: "#amiri, #hypebeaststyle, #barberlifestyle, #barbershop"
+    hashtags: "#visualambassadors, #streetmagazine, #streetleaks, #portrait"
   - username: "portraitlooks"
     fullname: >-
       Portrait Looks
     bio: >-
       Contact us for photo shoots, promotion or featured posts.
     location: "Russia"
-    followers: 102372
-    engagement: 92
-    commentsToLikes: 0.010866
+    followers: 100219
+    engagement: 95
+    commentsToLikes: 0.010748
     id: ckaot6560ujtj0i78xtmo9o93
     verified: false
-    hashtags: "#featuremeofh, #quietthechaos, #agameoftones, #thelightsofbeauty"
-  - username: "kiselevision"
+    hashtags: "#portraitcentral, #ftwwne, #marvelous, #vscocm"
+  - username: "maggigad"
     fullname: >-
-      Dmitriy Kiselev
+      pretty mother fvcker
     bio: >-
-      Contact: kiselevision@gmail.com Moscow | Sony A7III Projects:
+      👟 @sneakerheadrussia team 🏆 most rated Russian customizer 🤺 coolhunter, trendsetter
     location: "Russia"
-    followers: 33316
-    engagement: 448
-    commentsToLikes: 0.018703
-    id: ck5bz2cemqb6o0i11zp7s5ts0
+    followers: 24162
+    engagement: 521
+    commentsToLikes: 0.010101
+    id: ck15sgr58cx1i0i19iolnz8n2
     verified: false
-    hashtags: "#instamagazine, #instagood, #illgrammers, #bevisuallyinspired"
-  - username: "metapolarism"
+    hashtags: "#snkrhds, #kickstagram, #maggigad, #kicksonfire"
+  - username: "borsch"
     fullname: >-
-      METAPOLARISM
+      Yura Borschev
     bio: >-
-      Building new meanings 👁 Art project by @mikevrpv
+      Борщ Ambassador @polarpro @lumecube 🚁 Multi-award winning drone artist Clients: Nike / VW / Adidas / FIFA / Porsche Founder the-challenger.ru
     location: "Russia"
-    followers: 4986
-    engagement: 694
-    commentsToLikes: 0.009706
-    id: ck5bteynvfucw0i11n7s4t67n
+    followers: 69608
+    engagement: 1023
+    commentsToLikes: 0.070305
+    id: ck0u1swqsxssv0i19qb9bztz3
     verified: false
-    hashtags: "#mgcollective, #graphicgang, #fa, #supersequential"
+    hashtags: "#agameoftones, #teampolarpro, #beautifuldestinations, #voyaged"
+  - username: "kickspaper"
+    fullname: >-
+      KICKSPAPER
+    bio: >-
+      • NEWS • SNEAKERS • MARKET #kickspaper #kickspapergirls.
+    location: "Russia"
+    followers: 25550
+    engagement: 375
+    commentsToLikes: 0.021944
+    id: ck137crfxawc80i19ihlcm5sv
+    verified: false
+    hashtags: "#highsnobietysneakers, #kickstagram, #snkrsonly, #sneakcorner"
+  - username: "camp_sb"
+    fullname: >-
+      кэмп СЬ
+    bio: >-
+      Московский онлайн-журнал и креативное агенство
+    location: "Russia"
+    followers: 6423
+    engagement: 357
+    commentsToLikes: 0.004747
+    id: ck0w5mpfh4eni0i19n3eh1jgx
+    verified: false
+    hashtags: "#mensfashion, #instafashion, #nike, #streetstyle"
+  - username: "unishkov"
+    fullname: >-
+      Denis Unishkov
+    bio: >-
+      3D Motion Artist
+    location: "Russia"
+    followers: 11999
+    engagement: 706
+    commentsToLikes: 0.030536
+    id: ck5c185r1umv90i11gfo294ri
+    verified: false
+    hashtags: "#sidefx, #houdinifx, #vj, #vjing"
+  - username: "chillinbeef"
+    fullname: >-
+      DENIS CHILLIN / GHETTOTEK™
+    bio: >-
+      Creative Director & Photographer + Founder of @ghettotek
+    location: "Russia"
+    followers: 8448
+    engagement: 719
+    commentsToLikes: 0.031962
+    id: ck14gqp5z6kfs0i19oytfmwmw
+    verified: false
+    hashtags: "#canon, #canoneosr, #simplefits, #cherrydeck"
+  - username: "elyaa.ts"
+    fullname: >-
+      E L Y A 🥀
+    bio: >-
+      Troubles💕 Fam.Dance💕
+    location: "Russia"
+    followers: 18485
+    engagement: 1619
+    commentsToLikes: 0.032813
+    id: ck9ha49fib2y10j78wag9ayja
+    verified: false
+    hashtags: "#almaty, #tiktok, #kyrgyzstan, #famentertainment"
+  - username: "panvelvet"
+    fullname: >-
+      VITALY | PANVELVET ℣
+    bio: >-
+      Via Shanghai 2 the world! Most likely ur fav Russian human being sci-fi addict / 웨이타이 维泰 微信:@panvelvet 🇷🇺℣L-SH🇨🇳📽🎥 Currently in Vladivostok
+    location: "Russia"
+    followers: 44083
+    engagement: 442
+    commentsToLikes: 0.049418
+    id: ck0tttthd49yk0i1955j7lbry
+    verified: true
+    hashtags: "#weekly, #special, #sdmfeatures, #adorama"
 ---

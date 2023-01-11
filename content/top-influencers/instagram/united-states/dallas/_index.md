@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Dallas in 2023
+title: Top 10 Instagram Influencers In Dallas In 2023
 description: >-
-  Find top Instagram influencers in Dallas in 2023. Most popular hashtags: #ad #greshamjewelry #fentyskin.
+  Find top Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #dallasblogger #ad.
 platform: Instagram
-hits: 2543
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 2543 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 2665
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 2665 Instagram influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "dallasbrethebody"
-    fullname: >-
-      DALLAS
-    bio: >-
-      ＤａｌｌａｓＴｈｅＭｏｄｅｌ 💚BeautifulStorm🌪Influencer https://onlyfans.com/dallasbrethebody
-    location: "United States"
-    followers: 33787
-    engagement: 132
-    commentsToLikes: 0.021401
-    id: ck6tksquf5c3y0j71zuemh15n
-    verified: false
-    hashtags: ""
   - username: "samoyed_puppy_dallas"
     fullname: >-
       Dallas
     bio: >-
-      My name is Dallas and I only *think* I'm in charge, just like my namesake Captain Arthur Dallas formerly of the USCSS Nostromo
+      My name is Dallas and I only *think* I'm in charge, just like my namesake Captain Arthur Dallas formerly of the USCSS Nostromo Nickname KM floofs
     location: "United States"
-    followers: 28982
-    engagement: 286
-    commentsToLikes: 0.019610
+    followers: 32789
+    engagement: 228
+    commentsToLikes: 0.028555
     id: ck9hbbrd9g6k70j784st1yuz6
     verified: false
-    hashtags: "#shoobstar, #lonely, #tbt"
+    hashtags: "#clingy"
   - username: "zblomberg"
     fullname: >-
       Zach Blomberg
     bio: >-
       |Dallas|
     location: "United States"
-    followers: 2249
-    engagement: 1792
-    commentsToLikes: 0.027263
+    followers: 2291
+    engagement: 1775
+    commentsToLikes: 0.029584
     id: ck5hodesxpd9j0i11gl8e5331
     verified: false
     hashtags: "#blackouttuesday"
-  - username: "jayciekathleen"
+  - username: "turtlecreeklane"
     fullname: >-
-      JAYCIE ⋒⋒⋒ RAINBOW QUEEN
+      Turtle Creek Lane
     bio: >-
-      ✐ special educator ★ dallas, texas ♡ u of oklahoma grad ⋒ be kind &live colorfully ⌨ jaycie@jayciekathleen.com
+      👱🏻‍♀️Jen: Wife & Mom of 5 🏡Strengthening home & family 🎉”The decorating lady from Dallas” 💕Stories👉Everyday Life 😂 👇Follow for Decor Inspo 📍#TX
     location: "United States"
-    followers: 14926
-    engagement: 1485
-    commentsToLikes: 0.090234
-    id: ck5znzg0wpgap0i144tf10w7i
+    followers: 938466
+    engagement: 517
+    commentsToLikes: 0.021211
+    id: ckou92le3s0790j235hnp0yql
     verified: false
-    hashtags: "#ad, #greshamjewelrypartner, #gjmaui, #braceletstacks"
-  - username: "jasminemariemitchell"
+    hashtags: "#christmas2022, #walmart, #walmartpartner, #walmarthome"
+  - username: "two_plaid_aprons"
     fullname: >-
-      Jasmine Mitchell
+      Mei & Kyong | Two Plaid Aprons
     bio: >-
-      📸 Curve + Plus Size Model 💖 Head Ambrassydor for @brassybra 📍Dallas @kimdawsonagency @selectmodellosangeles @selectmodelchicago
+      📍Dallas | 🔪 7+ years experience Michelin to Bakeries Making Asian #recipes you can enjoy at home! ⬇️ Printable Full Recipes and Tips
     location: "United States"
-    followers: 26023
-    engagement: 770
-    commentsToLikes: 0.084534
-    id: ckap0t63irogx0i78nnfrunsf
+    followers: 265135
+    engagement: 1608
+    commentsToLikes: 0.029481
+    id: cl0a66mmzcttj0i23emn68o4t
     verified: false
-    hashtags: "#mbibtexturedbeauties, #plussizemodel, #savagexfenty, #plussizeinfluencer"
-  - username: "_maarilyn_"
+    hashtags: "#chineserecipe, #dinnerideas, #partyfood, #baking"
+  - username: "osagoeshard"
     fullname: >-
-      Marilyn
+      Osawaru Odighizuwa 🇳🇬
     bio: >-
-      dallas tx
+      Good energy out, good energy in 503🌹 UCLA ALUM 🐻🏈 @dallascowboys DT🤠🏈 business inquiries contact - @samleaf
     location: "United States"
-    followers: 4880
-    engagement: 1846
-    commentsToLikes: 0.176167
-    id: ck8wfz6qhghm50j78msvt3fxi
+    followers: 36621
+    engagement: 985
+    commentsToLikes: 0.024634
+    id: ckvri29i2dkmv0j23iaezewd6
     verified: false
-    hashtags: ""
-  - username: "thealondraflores"
+    hashtags: "#jordanyear, #bigandtall, #onebone"
+  - username: "datenight.dallas"
     fullname: >-
-      A l o n d r a  F l o r e s ♡
+      Date Night Dallas | Food & Travel
     bio: >-
-      I like to see my money hanging in my closet. b o o k s , c o f f e e , & p e o p l e Nashville, Tn | Dallas, Tx @alondrafloresphoto
+      ideas your next date night in dallas ✨ ✉️ contact@datenightdallas.com
     location: "United States"
-    followers: 4163
-    engagement: 1883
-    commentsToLikes: 0.304295
-    id: ck136cxdn5ve60i19ybodojm9
+    followers: 38777
+    engagement: 363
+    commentsToLikes: 0.081483
+    id: ckzdjnefwccjy0j23ccefydgg
     verified: false
-    hashtags: "#lookoftheday, #neutralstyle, #zaraoutfit, #neutralfeed"
-  - username: "kirbyisaboss"
+    hashtags: "#dallas, #datenight, #cocktails, #foodie"
+  - username: "bobbysessions"
     fullname: >-
-      Kirby Minnick ✨🌿
+      Bobby Sessions
     bio: >-
-      love to create ✞ love my creator ⇢ speaker, youtuber, traveler, podcaster ⇢ #dallas ✈ ⇢ po box ⬎ 4145 belt line rd. ste 212-394 addison, tx 75001
+      Young Legend from Dallas, Texas. My EP "I’d Rather Keep It To Myself” 🤐🤐🤐 Stream Below ⬇️⬇️⬇️
     location: "United States"
-    followers: 68516
-    engagement: 663
-    commentsToLikes: 0.033023
-    id: ck6u2165ap3om0j71r8i8ecqm
-    verified: false
-    hashtags: "#florida, #foodie, #liveinwonder, #beach"
-  - username: "trishmahajan"
+    followers: 27879
+    engagement: 355
+    commentsToLikes: 0.066484
+    id: ck0w2dk2bntej0i19d6l2zs14
+    verified: true
+    hashtags: "#manifest, #younglegends, #idratherkeepitmyself, #coming2america"
+  - username: "kxosborne"
     fullname: >-
-      Tri$h
+      Katy Osborne
     bio: >-
-      Dallasss🖤 UT Austin ‘23 Snap: hayitstrish
+      📍 Dallas 💌 team@kxosborne.com
     location: "United States"
-    followers: 3428
-    engagement: 2967
-    commentsToLikes: 0.098703
-    id: ck8wgal1bh0fp0j78851ktixb
+    followers: 8675
+    engagement: 290
+    commentsToLikes: 0.008764
+    id: ckapbis7v01750i78ihq1q5nn
     verified: false
-    hashtags: "#19"
-  - username: "ashleyfaithnewman"
+    hashtags: "#explore, #ootd, #lifestyle, #dallas"
+  - username: "jackiee__lopez"
     fullname: >-
-      ashley newman
+      J a c k i e  L o p e z • Dallas Blogger
     bio: >-
-      19 | dallas tx tiktok | ashleynewman (2.9mil+) snap | ashleychinz u2stay out now <3 vv
+      💌DM/EMAIL for Collaborations 📍DFW, TX #Lifestyle + #Fashion + #Motherhood #DallasBlogger+ #ContentCreator #fortworthblogger 🧿
     location: "United States"
-    followers: 210342
-    engagement: 1931
-    commentsToLikes: 0.024980
-    id: ck134ehhkw1zi0i19gpqyustj
+    followers: 17856
+    engagement: 279
+    commentsToLikes: 0.136309
+    id: ck0tznhp4r10b0i19wekrdxra
     verified: false
-    hashtags: "#blackouttuesday"
+    hashtags: "#influencer, #dfwblogger, #datenight, #ad"
+  - username: "brittanyardito"
+    fullname: >-
+      Brittany Ardito
+    bio: >-
+      Sharing what I love & what might help others. Health, Beauty & Dogs #dogsitter Follow my pups @texandrowdy 📍 Dallas, TX 📧 britsilver04@gmail.com
+    location: "United States"
+    followers: 10968
+    engagement: 241
+    commentsToLikes: 0.143385
+    id: cl8balz1g3ddv0i235byjgofi
+    verified: false
+    hashtags: "#keto, #glutenfree, #texasinfluencer, #texturetuesday"
 ---

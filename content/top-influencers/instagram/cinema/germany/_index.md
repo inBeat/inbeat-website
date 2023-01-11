@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Germany in 2023
+title: Top 10 Cinema Instagram Influencers In Germany In 2023
 description: >-
-  Find top cinema Instagram influencers in Germany in 2023. Most popular hashtags: #dance #photography #ccf.
+  Find top cinema Instagram influencers in Germany in 2023. Most popular hashtags: #gramslayers #xceptionaledits #lookslikefilm.
 platform: Instagram
-hits: 317
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 317 Instagram influencers like this in Germany for you to pitch.
+hits: 233
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 233 Instagram influencers like this in Germany for you to work with.
 profiles:
-  - username: "irenecruzfoto"
+  - username: "raguccy"
     fullname: >-
-      Filmmaker & Photo⚡️ Irene Cruz
+      DANIEL TESKE
     bio: >-
-      🌿irenecruz.com 📸 Photographer 🎥Cinematographer (asoc. AEC) 📍Based in Berlin ✉️ irenecruzfoto@gmail.com #irenecruz 🌬👇🏼 Would u be my patreon?
+      you do or you don’t Germany 🇩🇪 Currently: Pittsburgh, PA CINEMATIC COLOR GRADING:
     location: "Germany"
-    followers: 24018
-    engagement: 289
-    commentsToLikes: 0.062054
-    id: ck14jkwa7kuok0i19o8lcey6n
+    followers: 63318
+    engagement: 578
+    commentsToLikes: 0.033686
+    id: ck15tyikqkj690i19mtqrwdyc
     verified: false
-    hashtags: "#filmsetlife, #videoart, #artinberlin, #berlinartist"
-  - username: "why.not.music"
-    fullname: >-
-      WHY NOT 🦙 | Music | DJ
-    bio: >-
-      🍕 From Italy | Shows around Europe 📀 Cinema 🍿 OUT NOW | +100k 📩 info@whynot-music.it @kardo.squad
-    location: "Germany"
-    followers: 5495
-    engagement: 1644
-    commentsToLikes: 0.051276
-    id: ck5zxg6qx7yhk0i14fjlvzrwg
-    verified: false
-    hashtags: "#hexagon, #dondiablo, #bayern, #ccf"
-  - username: "mustiimusic"
-    fullname: >-
-      Mustii
-    bio: >-
-      /Thomas Mustin/ 🎤 Mgmt (Music) : laurent@cfn.be 🎬 Agent (Cinema) : Laurent Gregoire agence@agence-adequat.com
-    location: "Germany"
-    followers: 7560
-    engagement: 745
-    commentsToLikes: 0.062598
-    id: ck5q6sqh9yoqw0i11itq4yler
-    verified: true
-    hashtags: "#therewillbebetterdays, #coversong, #dangerzone, #annielennox"
+    hashtags: "#grainisgood, #raguccy, #theportraitpr0ject, #cinematography"
   - username: "mikaberra"
     fullname: >-
       MIKA ◐
     bio: >-
-      cinematographer — photographer sthlm based. ● ━ 📩 | info@mikaberra.com
+      cinematographer — photographer ● ━ 📩 | info@mikaberra.com
     location: "Germany"
-    followers: 20678
-    engagement: 484
-    commentsToLikes: 0.039921
+    followers: 21373
+    engagement: 477
+    commentsToLikes: 0.056270
     id: ck6toi5zqe7bo0j71dm75ucdi
     verified: false
-    hashtags: "#blackouttuesday"
+    hashtags: ""
+  - username: "dptomkeller"
+    fullname: >-
+      Tom Keller, BVK
+    bio: >-
+      Director of Photography | German Society of Cinematographers Member |📍Berlin (NEW original content every Tuesday)
+    location: "Germany"
+    followers: 11383
+    engagement: 537
+    commentsToLikes: 0.028310
+    id: ck5bvdbdzjffb0i113agqdc06
+    verified: false
+    hashtags: "#behindthescenes, #womensday, #cinematography, #makingof"
+  - username: "lassedesignen"
+    fullname: >-
+      Lasse Behnke
+    bio: >-
+      Commercial Photographer & Digital Artist from Germany Slightly addicted to Photoshop and Cinema4D! 👇 Mein Fahrzeuge-Workflow 🇩🇪 👇
+    location: "Germany"
+    followers: 102452
+    engagement: 969
+    commentsToLikes: 0.012459
+    id: ck0tteu3g2ery0i19urph0231
+    verified: false
+    hashtags: "#theuniversalart, #phlearn, #makingof, #photoshop"
+  - username: "melaamory"
+    fullname: >-
+      Sasha Vinogradova | Design
+    bio: >-
+      🖍Graphic designer and artist 📍Los Angeles | Design 📮 melaamory@gmail.com #cg #cinema4d #3d 🔻Website
+    location: "Germany"
+    followers: 18461
+    engagement: 852
+    commentsToLikes: 0.036632
+    id: ck5qakzlpgy430i11q0xxnghi
+    verified: false
+    hashtags: "#zbrush, #ornament, #queenofnothing, #visualambassadors"
   - username: "luwam_russom"
     fullname: >-
       L U W A M   R U S S O M
     bio: >-
-      - forever 23 - dancer / choreographer / creative director 🎥 FLY! 14.01.2023 IN CINEMAS 💌 luwamrussom@gmx.de NEWEST YOUTUBE VIDEO
+      - forever 23 - dancer / choreographer / creative head 🎥 FLY! 14. OCTOBER.2021 IN CINEMAS @fly.derfilm 🏷 luwamrussom@gmx.de NEWEST YOUTUBE VIDEO
     location: "Germany"
-    followers: 5843
-    engagement: 1554
-    commentsToLikes: 0.045193
+    followers: 6534
+    engagement: 1504
+    commentsToLikes: 0.052442
     id: ck138xilbiieq0i19f7pxv7dx
     verified: false
-    hashtags: "#hiphopfem, #dance, #freestyle, #choreography"
-  - username: "timjohnsonx"
+    hashtags: "#luwamrussom, #hiphop, #dance, #cardib"
+  - username: "emesserschmidt"
     fullname: >-
-      Tim Johnson 🙋🏻‍♂️
+      Erik Messerschmidt, ASC
     bio: >-
-      🎥 Video & Photographer ©️ CINEMABELS 😈 🤵🏻 HUSBAND of @anajohnson 👰🏼 🎙 PODCAST „Die Johnsons“ 🧡 📂 @mein_impressum 😍 WERBUNG: ANA‘s PRESETS👇🏼
+      Cinematographer — “it’s not dark, it’s rich”
     location: "Germany"
-    followers: 158321
-    engagement: 1136
-    commentsToLikes: 0.004264
-    id: ck0tvfxs1b6j60i1963dv0iui
+    followers: 11902
+    engagement: 867
+    commentsToLikes: 0.019136
+    id: ck6uew4v6teto0j71lpxadl7k
     verified: false
-    hashtags: "#priviledgebyyared, #anajohnsonpreset, #villajohnson, #thankful"
-  - username: "dffrntvibe"
+    hashtags: "#raisedbywolves, #incamera, #lincoln, #helium"
+  - username: "leila_golden_voice"
     fullname: >-
-      DFFRNT VIBE
+      Leila Forouhar (Fan Page)
     bio: >-
-      ▫️ photography | cinematography ▫️ #dffrntvibe CORONA - PREDSEDNIČKA PRATNJA 🏎💨
+      🎬 Actress (Theatre & Cinema) 🎤 Legendary Singer 🌟 The Star of Persian Music 🌹 سفارش تبلیغات: دایرکت
     location: "Germany"
-    followers: 6933
-    engagement: 1297
-    commentsToLikes: 0.010986
-    id: ck5c62l4n4l5l0i11bf6cvrp5
+    followers: 154063
+    engagement: 174
+    commentsToLikes: 0.020578
+    id: ckaotwgfbxt5l0i78bz6yeqvr
     verified: false
-    hashtags: "#allesscheint, #macloud, #tb, #dffrntvibe"
-  - username: "annette.zer"
+    hashtags: "#beautiful, #star, #instagood, #dance"
+  - username: "lmellgreenl"
     fullname: >-
-      ᴀɴɴᴇᴛᴛᴇ ᴢᴇʀ
+      𝕄𝕖𝕝𝕝 𝔾𝕣𝕖𝕖𝕟
     bio: >-
-      📮 hello@annettezer.com 🎞 @cinematicpresets
+      🎬Cinematographer / Editor / Creative Producer🎬 🎛 Sound Designer / Music Guru 🎛 💡Founder project @On.the.bar💡 🏆Winner Germany short film festival 2020🏆
     location: "Germany"
-    followers: 51052
-    engagement: 449
-    commentsToLikes: 0.011131
-    id: ck5cg16jsnz9b0i11uqpuwj07
+    followers: 19793
+    engagement: 474
+    commentsToLikes: 0.073379
+    id: ck5qdx721xpl30i115d46iwx2
     verified: false
-    hashtags: "#naturata, #schokoholic, #mehralsbio, #veganergenussmoment"
-  - username: "puschart_tom"
+    hashtags: "#bro, #flairing, #mixologist, #life"
+  - username: "gretchen_.ross"
     fullname: >-
-      Tom Brückner
+      Michelle | be tender be kind
     bio: >-
-      Bin nicht Carina's Bruder, hallo. || Für Geschäftliche Anfragen als Kameramann: @cinematomgraphy Neues Video:
+      plants & crafting | interior enthusiast | flea markets & vintage | cinematography ♡ vinyl & film | 𝑠𝑡𝑎𝑦 𝑠𝑜𝑓𝑡 #arrangedbyanintrovert | send d(og)pics
     location: "Germany"
-    followers: 11845
-    engagement: 1587
-    commentsToLikes: 0.016065
-    id: ck5bvlaf7jvwz0i11zzpay9hy
+    followers: 20971
+    engagement: 185
+    commentsToLikes: 0.013172
+    id: ck0uaujd5d0pv0i19mly4lbam
     verified: false
-    hashtags: "#couple, #selfie, #killstar, #killstarclothing"
-  - username: "bastihansen"
-    fullname: >-
-      BASTI HANSEN
-    bio: >-
-      Adventure Photographer + Cinematographer From Germany > Based in the Middle East 💌 hey@bastihansen.com Lightroom Presets, YouTube, Portfolio:
-    location: "Germany"
-    followers: 15858
-    engagement: 324
-    commentsToLikes: 0.021230
-    id: ck5q52aijr3aa0i11gglrmikn
-    verified: false
-    hashtags: "#arlettemagazine, #cla, #littlerivermag, #leicamag"
+    hashtags: "#nordicliving, #plantgoals, #wohnraumliebe, #myhyggehome"
 ---

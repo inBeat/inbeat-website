@@ -1,48 +1,24 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Peru in 2023
+title: Top 10 Gaming TikTok Influencers In Peru In 2023
 description: >-
-  Find top gaming TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #parati #humor #gaminghighlight.
+  Find top gaming TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #humor #viral #greenscreen.
 platform: TikTok
-hits: 17
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 17 TikTok influencers like this in Peru for you to contact.
+hits: 8
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in Peru for you to contact.
 profiles:
-  - username: "supreme_fgott"
-    fullname: >-
-      Fabrizio Hidalgo
-    bio: >-
-      Twitch: Supremefgottt FB Gaming: El tio Clockwerk
-    location: "Peru"
-    followers: 40800
-    engagement: 571
-    commentsToLikes: 0.045972
-    id: cka6nxay4d9ri0i78vv6es0m2
-    verified: false
-    hashtags: "#greenscreen, #kulikitaka, #jd2023, #fypg"
-  - username: "lucianaantonellal"
-    fullname: >-
-      LA WASAKAKA🙈🙏🏻
-    bio: >-
-      Peruana p😎🇵🇪 Vamo pa los 130k😌👌🏻 Soy mujer mi ziel@ Spam d likes=bloqueo:)
-    location: "Peru"
-    followers: 123600
-    engagement: 1679
-    commentsToLikes: 0.040388
-    id: ckcoh0cb63jnw0j234pa5lplt
-    verified: false
-    hashtags: "#parati, #tiktok, #garena, #freefire"
   - username: "_tips_historias_detodo_"
     fullname: >-
       ✰_ℂ.𝕆.𝕊.𝔸.𝕊_✰
     bio: >-
-      ✌︎🅂🄸🄶🅄🄴🄼🄴 🅈 🅃🄴 🅂🄸🄶🄾✌︎ ✊🏻✊🏼✊🏽✊🏾✊🏿
+      Hace 800 años q no uso esta cuenta sorry pero es q no puedo publicar ná 🤠
     location: "Peru"
-    followers: 7160
-    engagement: 2486
-    commentsToLikes: 0.091624
+    followers: 6734
+    engagement: 2365
+    commentsToLikes: 0.093418
     id: ckbeww2wtgtjb0j23qkm9fjgn
     verified: false
-    hashtags: "#parati, #ridepotion, #gaminghighlight, #colour"
+    hashtags: "#school, #4u, #fyp, #sorry"
   - username: "momasoslatinos"
     fullname: >-
       MomasosLatinos
@@ -54,77 +30,77 @@ profiles:
     commentsToLikes: 0.040203
     id: ckai3fd3zjn8e0i78mrtiaitz
     verified: false
-    hashtags: "#trending, #dance, #xyzcba, #pets"
+    hashtags: "#gta, #ps4, #mexico, #argentina"
   - username: "thsirius"
     fullname: >-
       THsiriuS
     bio: >-
-      Apoya la comunidad 💙
+      Dux bot🥵
     location: "Peru"
-    followers: 28700
-    engagement: 1050
-    commentsToLikes: 0.022861
+    followers: 28800
+    engagement: 1003
+    commentsToLikes: 0.027271
     id: ckczvu0ei63ts0j237vw9hp6d
     verified: false
-    hashtags: "#gaminghighlight, #fortnite, #fortniteclips, #gamer"
-  - username: "sack_jara"
-    fullname: >-
-      sack
-    bio: >-
-      hi bro
-    location: "Peru"
-    followers: 7356
-    engagement: 618
-    commentsToLikes: 0.273265
-    id: ckbf86lcgykkj0j23sqrcrrap
-    verified: false
-    hashtags: "#greenscreen, #fypdongggggggg, #gaminghighlight, #fyp"
+    hashtags: "#fortniteclips, #pibes, #fortnite, #humor"
   - username: "xavier_b_"
     fullname: >-
       Xavier
     bio: >-
       ¿Vienes conmigo a Youtube? 👌🥵😈 👇👇👇
     location: "Peru"
-    followers: 48200
-    engagement: 1360
-    commentsToLikes: 0.077331
+    followers: 48500
+    engagement: 1286
+    commentsToLikes: 0.074576
     id: ck9envp4fl5rv0j78th2rasn2
     verified: false
-    hashtags: "#humor, #comedia, #xyzcba, #amongus"
-  - username: "luzpareds"
+    hashtags: "#xyzcba, #comedia, #humor, #left4dead"
+  - username: "lynna_27"
     fullname: >-
-      Yaquelin
+      Lynna
     bio: >-
-      My dream girl 💝
+      😳😍🌟
     location: "Peru"
-    followers: 16600
-    engagement: 1454
-    commentsToLikes: 0.293014
+    followers: 16200
+    engagement: 1553
+    commentsToLikes: 0.296356
     id: ckdhbcczqvs4w0j23w1xn9d73
     verified: false
-    hashtags: "#zxycba, #aprendeentiktok, #iloveyou, #earthday"
-  - username: "maratcitoo"
+    hashtags: "#wipeitdown, #creandoparaayudar, #limonchallenge, #diadelibro"
+  - username: "erickvega251"
     fullname: >-
-      🍓MaRaT🍓
+      erick Vega
     bio: >-
-      sígueme soy bn chill xd ❣Los Amo a Todos uwu❣ instagram: maratcitoo 39k!! thnkss
+      sigueme en Instagram vamos por los 30k sígueme en youtube parodia retos amistad
     location: "Peru"
-    followers: 40000
-    engagement: 1703
-    commentsToLikes: 0.024812
-    id: ckck43yz6odbk0j23olgs05h1
+    followers: 10300
+    engagement: 1437
+    commentsToLikes: 0.048387
+    id: ck9rhizz3flnr0j78e0mwy5qo
     verified: false
-    hashtags: "#drawing, #edit, #foryou, #draw"
-  - username: "lospointsdelima"
+    hashtags: "#mam, #pitbull, #xd, #sigueme"
+  - username: "acinetobacter"
     fullname: >-
-      lospointsdelima
+      Alexander Vásquez S.
     bio: >-
-      Solo nosotros podemos darle el valor que se merece Lima la gris,no tan gris🇵🇪
+      CEO del paracetamol 💊 Estudiante de Medicina Humana con 3 gotitas de tiktoker
     location: "Peru"
-    followers: 57000
-    engagement: 975
-    commentsToLikes: 0.024683
-    id: ckav56p6zbny60j23itnx420l
+    followers: 82900
+    engagement: 717
+    commentsToLikes: 0.045437
+    id: ckdne7fgah5ep0j236wfpm8fe
     verified: false
-    hashtags: "#limaperu, #cultura, #museos, #viajes"
+    hashtags: "#enfermeria, #viral, #ciclodekrebs, #humor"
+  - username: "juanvictorvc"
+    fullname: >-
+      Juanvi🌸
+    bio: >-
+      🇵🇪 Snap: juanvictor-vc
+    location: "Peru"
+    followers: 73200
+    engagement: 1141
+    commentsToLikes: 0.018734
+    id: ck9r3n117qr840j78mlwybtxu
+    verified: false
+    hashtags: "#fyp, #parati, #foryou, #lima"
 ---

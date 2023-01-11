@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Norway in 2023
+title: Top 10 Food Instagram Influencers In Norway In 2023
 description: >-
-  Find top food Instagram influencers in Norway in 2023. Most popular hashtags: #selfie #photooftheday #healthyfood.
+  Find top food Instagram influencers in Norway in 2023. Most popular hashtags: #photooftheday #sunset #ig.
 platform: Instagram
-hits: 64
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 64 Instagram influencers like this in Norway for you to contact.
+hits: 65
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 65 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "angiesophie"
-    fullname: >-
-      ANGELICA SOPHIE THORSEN
-    bio: >-
-      oslo, norway 🧚🏼‍♀️ @teammodels SoMe & VM @day_oslo fashion & style. food & wine. everything pink. say hi: angelica.thorsen@hotmail.com
-    location: "Norway"
-    followers: 5567
-    engagement: 1139
-    commentsToLikes: 0.114087
-    id: ck8t63enmc4090j786ggm7uc9
-    verified: false
-    hashtags: "#cocosanorge, #cocosapink"
-  - username: "gunhild_stordalen"
-    fullname: >-
-      Gunhild A. Stordalen
-    bio: >-
-      Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
-    location: "Norway"
-    followers: 185531
-    engagement: 368
-    commentsToLikes: 0.028644
-    id: ck5zmq1uzn0kg0i147yvuqe2w
-    verified: true
-    hashtags: "#plantforward, #greatdanesofinstagram, #healthyfood, #betterfoodforall"
   - username: "siljekgs"
     fullname: >-
       Silje Kristine G. Storhaug
     bio: >-
       🕊 Travel • Fashion • Food • Nails • Makeup 📍Oslo,Norway 💌 siljekgstorhaug@gmail.com
     location: "Norway"
-    followers: 92597
-    engagement: 408
-    commentsToLikes: 0.178310
+    followers: 92513
+    engagement: 376
+    commentsToLikes: 0.169956
     id: ck15rovt18z6a0i195vmdkg8o
     verified: false
-    hashtags: "#instaphoto, #photooftheday, #me, #fashion"
+    hashtags: ""
   - username: "anneliaaland"
     fullname: >-
-      ANNELI AALAND 🐬
+      ANNELI AALAND
     bio: >-
-      oslo, norway fashion, beauty, interior, food & lifestyle ✉️ anneli-aaland@hotmail.com
+      fashion, beauty, interior, food & lifestyle ✉️ anneli-aaland@hotmail.com
     location: "Norway"
-    followers: 7383
-    engagement: 473
-    commentsToLikes: 0.071035
+    followers: 9419
+    engagement: 706
+    commentsToLikes: 0.043657
     id: ck15r51nm66qx0i19agkwr2l9
     verified: false
-    hashtags: "#zalandostyle, #outfit, #interior, #ootd"
-  - username: "woicefu"
+    hashtags: "#annonse, #getthelook, #zalando, #essiebucketlist"
+  - username: "gunhild_stordalen"
     fullname: >-
-      Kjærsti
+      Gunhild A. Stordalen
     bio: >-
-      I reeeally love food 🦋 Front-end developer 🦋 Fitness & Lifestyle
+      Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 2110
-    engagement: 1211
-    commentsToLikes: 0.082200
-    id: ckap2tdqr08lh0i78w6rnzmpt
-    verified: false
-    hashtags: "#fitnessaddict, #motivasjon, #homeworkout, #homegymlife"
+    followers: 186309
+    engagement: 379
+    commentsToLikes: 0.025769
+    id: ck5zmq1uzn0kg0i147yvuqe2w
+    verified: true
+    hashtags: "#photoshoot, #dryjanuary, #artphotography, #nonpaidpromo"
+  - username: "andreabadendyck"
+    fullname: >-
+      ANDREA BADENDYCK
+    bio: >-
+      🦋 26 y’o Norwegian influencer 👩🏼‍💻 Marketing student ✨ Fashion, travel, fitness & healthy foods 💌 Contact: andreabadendyck.blogg@hotmail.com
+    location: "Norway"
+    followers: 132297
+    engagement: 213
+    commentsToLikes: 0.041342
+    id: ck6uedlcnqaxu0j7143097j9w
+    verified: true
+    hashtags: "#visitnorway, #betakarotengold, #goodforme, #lofoten"
   - username: "marie.lovgren"
     fullname: >-
       M A R I E   T.  L Ø V G R E N
     bio: >-
       working as a dental hygienist ◡̈ workout • outdoor • foodie
     location: "Norway"
-    followers: 14968
-    engagement: 299
+    followers: 14675
+    engagement: 305
     commentsToLikes: 0.043936
     id: ck9hasq66dymj0j78vzxc59cf
     verified: false
-    hashtags: "#staycation, #allsmiles, #oslo, #miip"
-  - username: "vickanmf"
-    fullname: >-
-      VICTORIA // OVERLEVELSESGUIDEN
-    bio: >-
-      account manager || @foodora.no Podcast: @overlevelsesguiden
-    location: "Norway"
-    followers: 2857
-    engagement: 905
-    commentsToLikes: 0.084639
-    id: ck6uhhz7g97yh0j71j5s26rwg
-    verified: false
-    hashtags: "#keune, #brunette, #selfie, #keunecolor"
-  - username: "emilienutrition"
-    fullname: >-
-      Emilie Nereng
-    bio: >-
-      Forfatter av boka «Sunt og digg»🌸 B.Sc. Nutrition💚 | Foodies Podcast 🎧 Ny YouTube ute👇🏼👇🏼
-    location: "Norway"
-    followers: 113935
-    engagement: 241
-    commentsToLikes: 0.052014
-    id: ck55lurn92hi50i113d68s7ce
-    verified: false
-    hashtags: "#egenreklame, #reklame, #dilla"
-  - username: "monanordoy"
-    fullname: >-
-      Mona Nordøy Fotograf
-    bio: >-
-      🌟FOTOTIPS📸Følg meg gjerne😊 🌟 https://monanordoy.no/fotokurs-proffe-mobilder/ 🌟Fotokurs, mobilfotografen. 🌟Foredrag. 🌟Portraits,music,fashion&food.
-    location: "Norway"
-    followers: 5489
-    engagement: 834
-    commentsToLikes: 0.079749
-    id: ck0uajfb0cdq50i19upirqtq5
-    verified: false
-    hashtags: "#magasin, #photooftheday, #nikonphotography, #levlandlig"
+    hashtags: "#oslo, #staycation, #allsmiles, #miip"
   - username: "hannahaamodt"
     fullname: >-
       HANNAH AAMODT
     bio: >-
-      oslo,norway coffee, fashion, interior, beauty, food, wine & sunshine. say hi: hannahaamodtblogg@hotmail.com @decobyaamodt ambassador @kidinterior
+      oslo,norway coffee, fashion, interior, beauty, food, wine & sunshine. say hi: kontakt.hannahaamodt@hotmail.com
     location: "Norway"
-    followers: 12148
-    engagement: 711
-    commentsToLikes: 0.070060
+    followers: 26662
+    engagement: 531
+    commentsToLikes: 0.040910
     id: ck5bwlcmelx8r0i113iraqzhz
     verified: false
-    hashtags: "#skincityno, #hudtest, #hudpleieklinikkonline, #fa"
+    hashtags: ""
+  - username: "emilienutrition"
+    fullname: >-
+      Emilie Nereng
+    bio: >-
+      Forfatter av boka «Sunt og digg»🌸 Bachelor i ernæring💚 | Foodies Podcast 🎧 Kjøp boka mi👇👇
+    location: "Norway"
+    followers: 131054
+    engagement: 312
+    commentsToLikes: 0.013836
+    id: ck55lurn92hi50i113d68s7ce
+    verified: false
+    hashtags: "#emilievoexsmiz"
+  - username: "food___passion"
+    fullname: >-
+      Jamilla🇲🇦🇳🇴
+    bio: >-
+      📷 Pictures of my food journey 📍 Based in Oslo, Norway Passion for food, coffee, flowers and music🌸
+    location: "Norway"
+    followers: 49569
+    engagement: 118
+    commentsToLikes: 0.236455
+    id: ck9hccd5fkqrt0j78e6yhqdlh
+    verified: false
+    hashtags: "#fashiondesigner, #fashionblogger, #dessertporn, #fashionshow"
+  - username: "heikkiharmonia"
+    fullname: >-
+      Heikki's_Photos
+    bio: >-
+      Photographer of life and world. Cellphone and DSLR. Sports, traveling, nature, food&wine, arts, history & Finland 👍🇫🇮❤ #nofilter
+    location: "Norway"
+    followers: 3924
+    engagement: 2355
+    commentsToLikes: 0.027379
+    id: ck15r3r0m5zwh0i19nojdqjj3
+    verified: false
+    hashtags: "#trb, #wintervibes, #outdoorsports, #runnersofinstagram"
+  - username: "an_aussie_goes_travelling"
+    fullname: >-
+      KATE WILLIAMS • FOOD & TRAVEL
+    bio: >-
+      Food, Travel, Nature, Astro and Events 🗺 NEW WEBSITE COMING SOON 🤓
+    location: "Norway"
+    followers: 16418
+    engagement: 285
+    commentsToLikes: 0.029711
+    id: ck8sydtj8kj610j78b1h4qu9s
+    verified: false
+    hashtags: "#discoverearth, #roam, #moodygrams, #visualsofearth"
 ---

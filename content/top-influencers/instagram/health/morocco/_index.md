@@ -1,72 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Morocco in 2023
+title: Top 10 Health Instagram Influencers In Morocco In 2023
 description: >-
-  Find top health Instagram influencers in Morocco in 2023. Most popular hashtags: #photooftheday #instagood #fashion #photography.
+  Find top health Instagram influencers in Morocco in 2023. Most popular hashtags: #love #instagood #makeup #beauty.
 platform: Instagram
-hits: 39
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 39 Instagram influencers like this in Morocco for you to collaborate.
+hits: 19
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 19 Instagram influencers like this in Morocco for you to pitch.
 profiles:
-  - username: "lesfitkho"
+  - username: "marwarioui"
     fullname: >-
-      FitKho
+      مروى الريوي | Marwa Rioui
     bio: >-
-      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
+      Nutella🍫 healthy life style 🥦💪🏋️‍♀️ Moroccan blogger 🇲🇦 Tiktok📽: Marwarioui for business inquiries: riouipro@gmail.com Contact : 0648960329 📍Morocco
     location: "Morocco"
-    followers: 20900
-    engagement: 541
-    commentsToLikes: 0.135702
-    id: ck5hp9bxsqywa0i11d9217mwu
+    followers: 1648933
+    engagement: 186
+    commentsToLikes: 0.006050
+    id: ck14gt97h6wv30i199b4ic6fb
     verified: false
-    hashtags: "#beautiful, #picoftheday, #workout, #girl"
+    hashtags: "#maybellinesquad2021, #maybelline"
   - username: "tillybaker"
     fullname: >-
       🌈Tilly🦄
     bio: >-
-      💜💙❤️💚💗💛Fashun💛💗💚❤️💙💜. ✨Treat.Yo.Self... Australia✨. 🌈 Fashionista 👑 Feminist👭Mental Health Advocate and BPD battler 👊 ☔️ 💖
+      💜💙❤️💚💗💛Fashun💛💗💚❤️💙💜. ✨Treat.Yo.Self... Australia✨. 🌈 Fashionista 👑 Feminist👭Mental Health Advocate and BPD battler 👊 ☔️ 💖 she/her🌈
     location: "Morocco"
-    followers: 17390
-    engagement: 283
-    commentsToLikes: 0.079564
+    followers: 17308
+    engagement: 357
+    commentsToLikes: 0.078677
     id: ck5c2fxz3x6ns0i114a608k73
     verified: false
-    hashtags: "#moreismore, #amplifyblackvoices, #stayhome, #orgotothebahamas"
-  - username: "daphnesdeliciousdishes"
-    fullname: >-
-      Daphne Hari
-    bio: >-
-      Mom of 3 👶🏻👧🏻👧🏼, Chef of my hubbie athlete🥊💯 Healthy & Nutritious I don't count calories 🙅🏼‍♀️ Business inquiries -》📧 info@daphnesdishes.com
-    location: "Morocco"
-    followers: 89206
-    engagement: 501
-    commentsToLikes: 0.024617
-    id: ck0vzhebf942b0i19bra0a4ki
-    verified: false
-    hashtags: "#lowcarb, #kidsproof, #nutritiousbreakfast, #yoghurt"
-  - username: "fayhaae"
-    fullname: >-
-      Foufou El
-    bio: >-
-      ◾️Fes🇲🇦🇲🇦Morocco ◾️fashion👗Makeup 💄lifestyle ◾️healthy lifestyle 🍀 ◾️snap 👻 fjambari3 ◾️collab 📩 jambarifayhae@gmail.com
-    location: "Morocco"
-    followers: 27557
-    engagement: 266
-    commentsToLikes: 0.128857
-    id: ckaosvtryt8pr0i78bk7yvz39
-    verified: false
-    hashtags: "#photooftheday, #instagood, #influencer, #blogeuse"
-  - username: "kaidi.karima"
-    fullname: >-
-      Sain Gourmand
-    bio: >-
-      Healthy lifestyle content creator صانعة محتوى يخُص نَمَط العيش الصحي Contact 💌 : karima@saingourmand.com Blog 🖋: 👇🏼
-    location: "Morocco"
-    followers: 17632
-    engagement: 206
-    commentsToLikes: 0.033181
-    id: ck8syvlcem6n50j78uu1fhiko
-    verified: false
-    hashtags: "#travel, #photography, #brunch, #philippines"
+    hashtags: "#moreismore, #amplifymelanatedvoices, #amplifyblackvoices, #debutfringebaby"
   - username: "elham_haissoune"
     fullname: >-
       Ily🍯👅
@@ -78,53 +42,89 @@ profiles:
     commentsToLikes: 0.019218
     id: ck8t3w2th4pcd0j78hsszon0g
     verified: false
-    hashtags: "#meknes, #shooting, #instalove, #sahara"
-  - username: "nouhaila_ermt"
+    hashtags: "#stayathome, #shooting, #instalove, #essaouira"
+  - username: "ahmed_shokier"
     fullname: >-
-      Nouhaila  Ermt👑
+      Ahmed  Shokier /أحمد شقير
     bio: >-
-      Economics student👩🏻‍🎓 Moroccan girl🇲🇦 Nous sommes nos choix. Fitgirl💪🏻 📧 :nouha.rmt@gmail.com Mohammedia ,Morocco 🇲🇦
+      🔮Online Coach🏋🏻‍♂️ 🌟👻Snapchat: ahmed_shokier👻
     location: "Morocco"
-    followers: 22148
-    engagement: 386
-    commentsToLikes: 0.025046
-    id: ckap7vrpals0x0i78ykazx83p
+    followers: 37444
+    engagement: 124
+    commentsToLikes: 0.058221
+    id: ckaozg5kclqo50i786segmwz3
     verified: false
-    hashtags: "#noexcuses, #instafit, #fitnessmotivation, #iphoneography"
-  - username: "ayoubfitt"
+    hashtags: "#hard, #goodnight, #sunrise, #happiness"
+  - username: "rabii.skalli_fane"
     fullname: >-
-      Ayoub El Azri / coach
+      rabii.skalli
     bio: >-
-      My PURPOSE is my fire 🔥sponsored by @afleteathletics & @paraflorida 📚 ENS CASA " Education physique et sportive " 💪 Natural body 🌍 Online trainer 📩📩
+      𝔽𝕒𝕟 𝕘𝕚𝕣𝕝⚡⁦💙 𝕞𝕪 𝕤𝕥𝕒𝕣⚡💙:@rabii.skalli @sa9azo.store⚡💙 👑𝘴𝘢9𝘢𝘻𝘻𝘰👑 https://youtu.be/e6nOVHN3y5A
     location: "Morocco"
-    followers: 21129
-    engagement: 474
-    commentsToLikes: 0.037449
-    id: ck5hp9cjjqyxj0i11w3vu8typ
+    followers: 43243
+    engagement: 267
+    commentsToLikes: 0.014817
+    id: ckaoxsrqmel170i786odrqmop
     verified: false
-    hashtags: "#getfit, #instagood, #diet, #cardio"
-  - username: "the_browncurly"
+    hashtags: "#rak, #sa9azo, #douniabatma, #instagood"
+  - username: "alexsandropalombo"
     fullname: >-
-      HANAE CURLY 🦋
+      aleXsandro Palombo
     bio: >-
-      📍🇲🇦 12/12🎉
+      Contemporary Pop artist & Activist, focusing on Pop culture, society, diversity, ethics and human rights. info@alexsandropalombo.com
     location: "Morocco"
-    followers: 12091
-    engagement: 592
-    commentsToLikes: 0.019199
-    id: ckapayveoxzqf0i78iv476ip1
+    followers: 7920
+    engagement: 548
+    commentsToLikes: 0.021278
+    id: ck5hrd1ebuo0s0i11zqz9j516
     verified: false
-    hashtags: "#love, #mood, #stayathome, #curlyhair"
-  - username: "ay_assaidi84"
+    hashtags: "#covid, #awareness, #artcollector, #campaign"
+  - username: "ezzaidi.faty"
     fullname: >-
-      𝘼 𝙔 𝙊 𝙐 𝘽 🇲🇦 𝘼 𝙎 𝙎 𝘼 𝙄 𝘿 𝙄 ⵣ
+      🦋Fatima Zahra Ezzaidi 🦋
     bio: >-
-      𝑀𝑜𝓇𝑜𝒸𝒸𝑜,𝒩𝒶𝒹𝑜𝓇 ꨄ📍ⵣ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💻 𝙭3 𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙊𝙛 𝙈𝙤𝙧𝙤𝙘𝙘𝙤🥇 ᴍᴏʀᴏᴄᴄᴏ ɴᴀᴛɪᴏɴᴀʟ ᴋᴀʀᴀᴛᴇ ᴛᴇᴀᴍ 🇲🇦 𝙖𝙨𝙨𝙖𝙞𝙙𝙞𝙖𝙮𝙤𝙪 👻
+      🍂 FZE🍂 🍂Follow your heart ❤️but take your brain 🧠with you 📍Casablanca,maroc 🇲🇦 🇲🇦 📧 fatimazahraezzaidi5@gmail.com
     location: "Morocco"
-    followers: 5794
-    engagement: 1344
-    commentsToLikes: 0.030454
-    id: ck8t9cgdcnlb10j784o6v3198
+    followers: 58946
+    engagement: 648
+    commentsToLikes: 0.019090
+    id: ck5hmoeqpmbu60i117jjgz519
     verified: false
-    hashtags: "#vscocam, #igers, #instadaily, #instagramhub"
+    hashtags: "#hijabmurah, #hijaber, #likeforlikes, #ootd"
+  - username: "chaymae_fit"
+    fullname: >-
+      🇲🇦C H A Y M A E 🇲🇦
+    bio: >-
+      •fitness & lifestyle •sport & musculation
+    location: "Morocco"
+    followers: 11550
+    engagement: 999
+    commentsToLikes: 0.049856
+    id: ckf5wnyajsorm0j239kfgok1n
+    verified: false
+    hashtags: "#morocco, #fitnessgirl, #bodytransformation, #musique"
+  - username: "sfatimazahraa"
+    fullname: >-
+      Fatimazahra Sel 🇲🇦
+    bio: >-
+      💄/ Fashion beauty & lifestyle 🕊/ hijab 📍/ RABAT 📥/ For collaborations fatimazohra.selhami@gmail.com
+    location: "Morocco"
+    followers: 47021
+    engagement: 393
+    commentsToLikes: 0.034769
+    id: ckaoult3v0tp10i78ezrrkgyz
+    verified: false
+    hashtags: "#fashionista, #hijabsyari, #fashiongram, #muslim"
+  - username: "safae.ntifi.benchrif"
+    fullname: >-
+      🎀 Safae / صفاء 🎀
+    bio: >-
+      إهتمِي بنفسِك وكُوني أقوى مما يظنونْ، فكيُدك عظيّم 👸 ❤ Influencer ❤ Blogueur ❤ beauty ❤lifestyle
+    location: "Morocco"
+    followers: 257391
+    engagement: 64
+    commentsToLikes: 0.032900
+    id: ck134hn56wgqz0i19hkp8umfn
+    verified: false
+    hashtags: "#outfitoftheday, #fashionaddict, #fashionmodel, #blogger"
 ---

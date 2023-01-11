@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Madrid in 2023
+title: Top 10 Lifestyle Instagram Influencers In Madrid In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #lifestyle #ootd #instagood.
+  Find top lifestyle Instagram influencers in Madrid in 2023. Most popular hashtags: #lifestyle #madrid #summer #photooftheday.
 platform: Instagram
-hits: 280
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 280 Instagram influencers like this in Madrid, Spain for you to collaborate.
+hits: 198
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 198 Instagram influencers like this in Madrid, Spain for you to work with.
 profiles:
-  - username: "benjithorpe"
+  - username: "lulandco"
     fullname: >-
-      BENJAMIN THORPE
+      Lula&Co Laura
     bio: >-
-      Médico Menswear - Travel - Lifestyle Madrid - Málaga @bodyandfit_es Athlete Código: BENJAMIN10 Info@benjithorpe.com
+      Fashion Travel Lifestyle Madrid 📍 Málaga 🌴
     location: "Spain"
-    followers: 149332
-    engagement: 334
-    commentsToLikes: 0.028238
-    id: ck0tsqpal0bd40i19xqooprlr
+    followers: 77824
+    engagement: 137
+    commentsToLikes: 0.058549
+    id: ck55nfjpb63hz0i11brutpuvg
     verified: false
-    hashtags: "#granada, #orotava, #malaga, #alhambra"
-  - username: "the_world.red"
+    hashtags: "#fashionblogger, #streetstyle, #ootd, #totalblack"
+  - username: "maamtrend"
     fullname: >-
-      PiNOS-🇲🇦🇪🇸🇩🇿🌍🕸🗼
+      MARTA GARCÍA
     bio: >-
-      🇪🇸🇩🇰الغربةتقتل فيك لا تدرى عن موتها إلا حين عودتك إلى وطنك 🇲🇦🇩🇰 🇲🇦🇩🇿 🌎🌍🌇🗼 الحمد لله 🕋 Taza.
+      ➰wild dreamer soul ➰ Madrid 📍🇪🇸 📝DM Follow and visit 📲💻 🔆🎯🌵🌍☀️🥗🍷💄🤳🏽💋
     location: "Spain"
-    followers: 11148
-    engagement: 375
-    commentsToLikes: 0.076702
-    id: ckap5wg4mdg8m0i78473x4wcx
+    followers: 14393
+    engagement: 563
+    commentsToLikes: 0.040617
+    id: ckf5p0o734jf90j2381k5sj07
     verified: false
-    hashtags: "#ramadan, #bilbao, #sport, #fitnessmotivation"
-  - username: "thomas.franconieri"
+    hashtags: "#lifestyle, #madrid, #sunday, #party"
+  - username: "fightlandspain"
     fullname: >-
-      
+      FIGHTLAND
     bio: >-
-      ⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ THOMAS P. FRANCONIERI ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀MADRID ⠀⠀⠀⠀ |Buisness Management-LifeStyle-Entertainment|👨🏼‍🤝‍👨🏻
+      La primera cadena de gimnasios de Boxeo de España 📍Madrid • A Coruña • Sevilla • Alicante • Barcelona ¿Quieres un entrenamiento personal?👇🏻
     location: "Spain"
-    followers: 30417
-    engagement: 191
-    commentsToLikes: 0.024548
-    id: ck8tbnhgfwczv0j78omd9qdn2
+    followers: 10330
+    engagement: 569
+    commentsToLikes: 0.008344
+    id: ck55kx0ki0ai70i11j6az3f77
     verified: false
-    hashtags: "#happy, #lifestyle, #madrid, #man"
-  - username: "madridseduce"
+    hashtags: "#fightlander, #boxeo, #boxing, #boxeolasrozas"
+  - username: "adrianaguera6"
     fullname: >-
-      Madrid Seduce
+      Adrián Agüera
     bio: >-
-      ❤ Experiencias 🔝 Lugares 📸 #Fotos 🍽 #Gastronomía 🔥 #Tendencias ☀ #Madrid con amor y con los 5 sentidos 💡 Colaboraciones 💪 Training ⤵️
+      👕 Menswear & Lifestyle 📍 Madrid 💻 @soyadrianaguera ✉️ infoadrianaguera@gmail.com
     location: "Spain"
-    followers: 117778
-    engagement: 145
-    commentsToLikes: 0.089707
-    id: ck0u6miz22evx0i19tu4ase72
+    followers: 35537
+    engagement: 101
+    commentsToLikes: 0.022063
+    id: ckap7udhkllqm0i78gtto592f
     verified: false
-    hashtags: "#foods, #madridvintage, #fotosvintage, #foodpic"
-  - username: "patriciayurena"
-    fullname: >-
-      Patricia Yurena
-    bio: >-
-      @artbypatriyu
-    location: "Spain"
-    followers: 90450
-    engagement: 278
-    commentsToLikes: 0.057363
-    id: ck5q5x1hauyg70i11rr8k3lsz
-    verified: true
-    hashtags: "#artista, #ilustracion, #art, #canarias"
-  - username: "juandiegoteo"
-    fullname: >-
-      JUANDIEGOTEO
-    bio: >-
-      🎨 Hair Designer & Makeup Artist at 📍@tachabeauty Shades EQ Squad @redken Colaboraciones 👇🏼 ✉️ juandiegoteo@gmail.com
-    location: "Spain"
-    followers: 19005
-    engagement: 356
-    commentsToLikes: 0.080645
-    id: ckaorp491o78e0i78cn15mlrh
-    verified: false
-    hashtags: "#peluqueriamadrid, #redkenspain, #hairstyle, #peluquerosinfluencers"
+    hashtags: "#ootd, #outfitoftheday, #styleinspo, #asos"
   - username: "chabelseijo"
     fullname: >-
       Chabel Seijo
     bio: >-
       Instablogger Moda◾Belleza◾Decoración◾Lifestyle 📍Madrid- Granada 📩chabelseijo@gmail.com
     location: "Spain"
-    followers: 33638
-    engagement: 486
-    commentsToLikes: 0.087721
+    followers: 32489
+    engagement: 506
+    commentsToLikes: 0.087900
     id: ck13bpzy1wmaq0i19duu56lbq
     verified: false
-    hashtags: "#todayimwering, #trendy, #todayimwearing, #decohome"
-  - username: "ale90cb"
-    fullname: >-
-      ••Sandra••
-    bio: >-
-      Farmacéutica, Youtuber Moda, Skincare & Lifestyle 📍Madrid ✉️ ale90cb@gmail.com
-    location: "Spain"
-    followers: 43373
-    engagement: 259
-    commentsToLikes: 0.102881
-    id: ck0w50h0k1b2a0i198g2peyh8
-    verified: false
-    hashtags: "#lookdehoy, #neutralshades, #thefashionforce, #outfitgram"
-  - username: "vanetrasolini"
-    fullname: >-
-      VANESSA TRASOLINI
-    bio: >-
-      ✨licensed esthetician 🤍👁CONTENT CREATOR skincare & beauty | fashion | lifestyle 📍madrid
-    location: "Spain"
-    followers: 14221
-    engagement: 487
-    commentsToLikes: 0.060911
-    id: ckap4i97v7htv0i78fudsdcf9
-    verified: false
-    hashtags: "#fashionblogger, #fashionista, #outfitoftheday, #ootdfashion"
+    hashtags: "#lookoftheday, #ootd, #todayiwear, #decoinspo"
   - username: "silviadebenito"
     fullname: >-
-      S i l v i a d e B e n i t o
+      Silvia de Benito
     bio: >-
-      📍Madrid Lifestyle | Fashion | Family - silviadb245@hotmail.com managementsilviadebenito@gmail.com
+      Madrid. Lifestyle | Fashion | Family - silviadb245@hotmail.com managementsilviadebenito@gmail.com
     location: "Spain"
-    followers: 129504
-    engagement: 134
-    commentsToLikes: 0.030963
+    followers: 131330
+    engagement: 339
+    commentsToLikes: 0.021343
     id: ck55jsyjyxock0i11tsac0f6t
     verified: true
-    hashtags: "#ootd, #ad, #basics, #deco"
+    hashtags: "#pregnant, #summernights, #love, #ad"
+  - username: "manu.canadas"
+    fullname: >-
+      Manu Cañadas
+    bio: >-
+      📍ALC -🚩MAD 📉📈 Bolsa y Finanzas / Stock Markets 🎭 Organización de Eventos 📬 mfcp.ig@gmail.com •Soy de cosas simples, por eso me gusta lo mejor.•
+    location: "Spain"
+    followers: 11649
+    engagement: 558
+    commentsToLikes: 0.054422
+    id: ck6tlrzbj6j6z0j71s8c7fgcp
+    verified: false
+    hashtags: "#instapic, #alicante, #tbt, #menstyle"
+  - username: "mariasantiagocorral"
+    fullname: >-
+      MARÍA SANTIAGO CORRAL
+    bio: >-
+      📍 Madrid 📚 Ingeniería Informática + ADE 📩 mariasantiagocorral.blog@gmail.com Hawk de Hawkers Crew ⬇️
+    location: "Spain"
+    followers: 21260
+    engagement: 284
+    commentsToLikes: 0.160889
+    id: ckaovqfsp5pfi0i78jitp0z8x
+    verified: false
+    hashtags: "#trendy, #fashionblog, #haircare, #picoftheday"
+  - username: "alopez_esp"
+    fullname: >-
+      𝑨𝑮𝑼𝑺 𝑳𝑶𝑷𝑬𝒁👻
+    bio: >-
+      🍋Embajador: @le.mon.tours 🎤| Cuenta de TikTok :+530k 📥| Colaboraciones: (DM) 📲 | (jaranaagency@gmail.com)
+    location: "Spain"
+    followers: 39646
+    engagement: 1762
+    commentsToLikes: 0.024443
+    id: ck5qbx209nsnm0i112r4hm7p1
+    verified: false
+    hashtags: "#parejas, #friends, #tumblr, #foryou"
+  - username: "inked.bashmurova"
+    fullname: >-
+      🖤🐲Bashmurova Christina🐲🎋
+    bio: >-
+      •Я был готов любить, но меня никто не понимал, и я начал ненавидеть.💉 • @dogfamily.mka 🐶🐱babies •26👸🏼made in Russia🇷🇺 •Coruña📍(Madrid, München, Moscú)
+    location: "Spain"
+    followers: 8677
+    engagement: 545
+    commentsToLikes: 0.028121
+    id: ckap58c65amle0i78d97tvbjx
+    verified: false
+    hashtags: "#retrato, #coru, #photography, #russiangirl"
 ---

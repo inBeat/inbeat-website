@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In South Africa in 2023
+title: Top 10 Health Instagram Influencers In South Africa In 2023
 description: >-
-  Find top health Instagram influencers in South Africa in 2023. Most popular hashtags: #motivation #model #southafrica.
+  Find top health Instagram influencers in South Africa in 2023. Most popular hashtags: #healthy #training #makeup #healthylifestyle.
 platform: Instagram
-hits: 129
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 129 Instagram influencers like this in South Africa for you to work with.
+hits: 86
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 86 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
+  - username: "preciousxabamakeup"
+    fullname: >-
+      PreciousXABA
+    bio: >-
+      Makeup artist, Health & Skin care therapist & Make-up Educator Makeup bookings email-xaba.precious@yahoo.com Campaign bookings email -Percy@uvba.co.za
+    location: "South Africa"
+    followers: 42238
+    engagement: 278
+    commentsToLikes: 0.123191
+    id: ck5hkod83isj10i11i7nk6c8f
+    verified: false
+    hashtags: "#editorialmakeup, #bridalmakeup, #makeup, #editorialphotography"
+  - username: "liviesofine"
+    fullname: >-
+      Livie ❤️
+    bio: >-
+      Future mental health counselor 📚🧠 ❤️ Libra ♎️ 10/09 God first 🙏🏾 Music 👇🏾
+    location: "South Africa"
+    followers: 14123
+    engagement: 746
+    commentsToLikes: 0.067851
+    id: ck6ufr2t1yo6z0j71sxeq6qu7
+    verified: false
+    hashtags: "#myblackisbeautiful, #goodvibes, #nigeria, #blackbeauty"
   - username: "ashley_rothman"
     fullname: >-
       Ashley Rothman
     bio: >-
       ✈️ travel addict 🌱 adventure lover 🍉 health + fitness enthusiast I want to make memories all over the world 🌍
     location: "South Africa"
-    followers: 24156
-    engagement: 453
-    commentsToLikes: 0.063608
+    followers: 23618
+    engagement: 484
+    commentsToLikes: 0.037399
     id: ckaowktx19d380i78yhvj56zi
     verified: false
-    hashtags: "#blowwave, #happysunday, #quarantinelife, #takemeback"
-  - username: "natsfaydherbe96"
+    hashtags: "#peaches, #happysunday, #hellosummer, #summer2020"
+  - username: "saskiatopp"
     fullname: >-
-      Nathalie Faydherbe
+      Saskia Jordyn Topp
     bio: >-
-      📍CT🇿🇦🇿🇼soon🇦🇺 Health•Fitness•Lifestyle @waterfronttheatreschool Dancer/Teacher🩰 @etacapetown 🎓 💗@mattyg_wp SocialMediaManager @lifehealthsa @laluciec
+      I smile for a living.🌸 Model ~ Health & Fitness ~ Travel South African📍Chicago 🇺🇸 Select 🇿🇦Boss 🇩🇪PARS 🇬🇧MOT
     location: "South Africa"
-    followers: 10126
-    engagement: 1015
-    commentsToLikes: 0.028759
-    id: ck8t6fcp4dekb0j78r10bn6di
+    followers: 30712
+    engagement: 204
+    commentsToLikes: 0.054259
+    id: ck6u2s7s2tmls0j71eprx8zjp
     verified: false
-    hashtags: "#danceteacher, #daneswimwear, #ballerina, #nutrition"
+    hashtags: "#capetown, #valentinesday, #chicago, #sunday"
   - username: "hlubihadebe_"
     fullname: >-
       Nomahlubi Hadebe
     bio: >-
       •Mental Health •Jeremiah 29:11 Giving myself the love, breath and safety to find my own space and journey. 📍Cape Town, South Africa SC:nomahlubi
     location: "South Africa"
-    followers: 19925
-    engagement: 574
-    commentsToLikes: 0.024166
+    followers: 20370
+    engagement: 494
+    commentsToLikes: 0.022163
     id: ck8svw51zcxa10j782xsxohbe
     verified: false
-    hashtags: ""
-  - username: "motho0cute"
+    hashtags: "#summeryomuthi"
+  - username: "rinajacobs1"
     fullname: >-
-      Dr Mthokozisi - Medical Doctor
+      Rina Jacobs
     bio: >-
-      Medical doctor in an Emergency Department. Health and Fitness. South Africa 🇿🇦
+      22 |📍#southAfrica HR Grad @my_nwu Health Editor @blossmagazine Admin & trader @malatjitraders
     location: "South Africa"
-    followers: 6843
-    engagement: 643
-    commentsToLikes: 0.022097
-    id: ck8syivwlky8j0j78ywo0hy0d
+    followers: 14555
+    engagement: 787
+    commentsToLikes: 0.068234
+    id: ck6ub4uel7h370j710kslexde
     verified: false
-    hashtags: "#ruralboy, #lifelessonslearned, #blackqueermagic, #covid19"
-  - username: "healthylivingwithdaniella"
+    hashtags: "#blonde, #southafrica, #ootd, #girl"
+  - username: "zsuzsubell"
     fullname: >-
-      Daniella Lagerwey
+      Zsuzsanna Jakabos
     bio: >-
-      🌿Cape Town, South Africa 🌿Faith over Fear 🌿Qualified Nutrition & Fitness Coach 🌿Owner @bourncapetown 🌿Foodie @healthyrecipeswithdaniella 🌿Mama 👶🏼 💕
+      olympic swimmer
     location: "South Africa"
-    followers: 13795
-    engagement: 501
-    commentsToLikes: 0.080700
-    id: ck134auo1vjdw0i19kli26zby
-    verified: false
-    hashtags: "#plantmilks, #cottonon, #alprosouthafrica, #plantmilk"
-  - username: "tobi_lochner"
-    fullname: >-
-      Tobi Lochner 🐺
-    bio: >-
-      Growth | Health | Wealth 📊 Data & Systems Analyst 💼 Accountant 🇿🇦 South African
-    location: "South Africa"
-    followers: 6565
-    engagement: 775
-    commentsToLikes: 0.024197
-    id: ck6turelphywf0j71zy22sziu
-    verified: false
-    hashtags: "#knownobounds, #ciovita, #inspiredtoride"
-  - username: "vinay4success"
-    fullname: >-
-      vinay kumar
-    bio: >-
-      Young Entrepreneur😎 Help those who achieve success in own term Whether it's health/career/wealth/relations/happiness.
-    location: "South Africa"
-    followers: 6572
-    engagement: 825
-    commentsToLikes: 0.008588
-    id: ckap3ishc366i0i78dgkwxata
-    verified: false
-    hashtags: "#motivation, #lifestyle, #vestige, #gemini"
-  - username: "vvbrownskin"
-    fullname: >-
-      Vanessa Vanderpuye
-    bio: >-
-      Actress & International Model 🇬🇧 🇬🇭 Arjana Pike in Bulletproof S2 on @skytv @thecw 📧: info@vanessavanderpuye.com Hair Page @vvhairlondon 💇🏾‍♀️
-    location: "South Africa"
-    followers: 35092
-    engagement: 491
-    commentsToLikes: 0.062154
-    id: ck15qtmbu4kym0i19rnxcpnkk
-    verified: false
-    hashtags: "#vvbrownskin, #vanessavanderpuye, #melanin, #african"
-  - username: "dataan.sisters"
-    fullname: >-
-      danelle • tarien • anneli • 🇿🇦
-    bio: >-
-      Verified by God 3 sɪsᴛᴇʀs- sʜᴀʀɪɴɢ ᴏᴜʀ ᴡᴀᴀʏs..ᴡᴀᴠᴇs 🌞☕️🐚⛰🦮🥭🌊🥤 Christ • Connect • Create Striving for balance & building our brand🙌🏼 @dataanproductions
-    location: "South Africa"
-    followers: 33284
-    engagement: 723
-    commentsToLikes: 0.004944
-    id: ck0u03elbsejf0i19l6ul2wyx
-    verified: false
-    hashtags: "#rubimuse, #sistersummer, #realgirlsofbody, #mycottonon"
-  - username: "marcbuckner"
-    fullname: >-
-      Marc Buckner
-    bio: >-
-      Collaboration ▶️ marcbbuckner@yahoo.com 🐺Father to @lunaluludog 🏘Rental properties @capetownaccommodations
-    location: "South Africa"
-    followers: 105527
-    engagement: 464
-    commentsToLikes: 0.031676
-    id: ck5qeisvd0p580i11yvigwyqx
+    followers: 97372
+    engagement: 457
+    commentsToLikes: 0.015214
+    id: ck6twml0msvh30j71g31vf82z
     verified: true
-    hashtags: "#motivation, #chest, #work, #arms"
+    hashtags: "#pool, #bikini, #swimming, #pooldeck"
+  - username: "alex_robinho"
+    fullname: >-
+      Alex_⭐️Robinho🌟
+    bio: >-
+      🇿🇦Born And Raised X 🇨🇩 Heritage Fitness Model 💪🏽 Dm For Online training 👨🏽‍💻 Fitpreneur🍃 Based In Hangzhou China 🇨🇳 Checkout my Article feature! ⬇️
+    location: "South Africa"
+    followers: 12579
+    engagement: 950
+    commentsToLikes: 0.018923
+    id: ckap7i8bfk6pr0i78d4iprweu
+    verified: false
+    hashtags: "#tightfit, #classicphysique, #bodybuilding, #healthy"
+  - username: "marcielhopkins"
+    fullname: >-
+      Marciel Hopkins
+    bio: >-
+      International Model | Boer Soek 'n Vrou aanbieder | Actress | Life Coach | Inspirational Speaker | Ice Genetics 🇿🇦 | Ice Artistes 🎭|
+    location: "South Africa"
+    followers: 67222
+    engagement: 339
+    commentsToLikes: 0.014449
+    id: ck0u0rmiguqs80i19rkdnqwhx
+    verified: true
+    hashtags: "#healthnotsize, #feelgoodfitness, #madeforyou, #sweatgear"
+  - username: "miriannjoh"
+    fullname: >-
+      Mirian Njoh
+    bio: >-
+      💫 You Were Born To Shine 🦄 West African girl with albinism (🇳🇬 x 🇱🇷) 🎙️ Host @welovetoseeitpodcast 📧 info@miriannjoh.com
+    location: "South Africa"
+    followers: 21298
+    engagement: 427
+    commentsToLikes: 0.055245
+    id: ck0u6kba824vc0i19sjowmvva
+    verified: false
+    hashtags: "#voiceofhair, #haircrush, #torontoblogger, #naturalhairrocks"
 ---

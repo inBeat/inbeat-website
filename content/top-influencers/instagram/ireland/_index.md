@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Ireland in 2023
+title: Top 10 Instagram Influencers In Ireland In 2023
 description: >-
-  Find top Instagram influencers in Ireland in 2023. Most popular hashtags: #dublin #dragonballz #darkartists.
+  Find top Instagram influencers in Ireland in 2023. Most popular hashtags: #gamingroom #twitchstreamer #xboxcontroller.
 platform: Instagram
-hits: 24
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 24 Instagram influencers like this in Ireland for you to connect with.
+hits: 14
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 14 Instagram influencers like this in Ireland for you to pitch.
 profiles:
   - username: "laura_ogrady"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Irish, model, artist 🤍 @suprememgmt @suprememgmtparis @mandpmodels @fashionmodel.it @morgantheagency @photogenicsla
     location: "Ireland"
-    followers: 21236
-    engagement: 337
-    commentsToLikes: 0.053739
+    followers: 20989
+    engagement: 359
+    commentsToLikes: 0.046169
     id: ck15ulw03ntiw0i19lz7bkpcm
     verified: false
-    hashtags: "#blacklivesmatter, #blackouttuesday, #virgoseason, #mama"
-  - username: "fantinitattoo"
-    fullname: >-
-      André Fantini
-    bio: >-
-      -BOOKINGS FOR 2020 ARE CLOSED! ▪️Dublin Ink 🇮🇪🇮🇪🇮🇪
-    location: "Ireland"
-    followers: 13093
-    engagement: 613
-    commentsToLikes: 0.033139
-    id: ck0w0l8orerq00i19tx09h65j
-    verified: false
-    hashtags: "#darktattoo, #tattoosnob, #tattooideas, #dotwork"
+    hashtags: "#virgoseason, #mama"
   - username: "andreaosullivan"
     fullname: >-
       Andrea<3
     bio: >-
       Farmer 👨🏼‍🌾 🚜🚜 John Deere, MX73🚗🍀 Irish girl 🇮🇪 🇮🇪🇮🇪🐈 cat mom 💁🏼‍♀️ Wexford raised💜💛Toobeah Qld livin’🇦🇺 🏎Snapchat👻: andrea_osul2020
     location: "Ireland"
-    followers: 10394
-    engagement: 931
-    commentsToLikes: 0.016888
+    followers: 10125
+    engagement: 938
+    commentsToLikes: 0.016779
     id: ck14hdj3t9s2t0i19vfo7dtju
     verified: false
-    hashtags: "#farmher, #johndeere, #farmgirls, #samoyedsofinstagram"
+    hashtags: "#agriculture, #johndeere, #farmher, #farming"
   - username: "irishflyingguy"
     fullname: >-
       Jay 🍀
     bio: >-
-      Irish guy 🇮🇪 living in Dubai 🇦🇪 Flight attendant ✈️ Visited 65+ countries 🔜 🇵🇹
+      Irish guy 🇮🇪 living in Dubai 🇦🇪 Flight attendant ✈️ Visited 65+ countries 🔜 🇲🇾
     location: "Ireland"
-    followers: 7927
-    engagement: 564
-    commentsToLikes: 0.017411
+    followers: 8396
+    engagement: 568
+    commentsToLikes: 0.014337
     id: ck14iet8vf2l90i193b0l3mha
     verified: false
-    hashtags: ""
+    hashtags: "#careembike"
   - username: "pippa_thesausage"
     fullname: >-
       Pippa The Sausage
     bio: >-
-      Pippa + Louis A hot patootie with a big snootie and a wrinkly boy! We like to play, toot and slay!🙊 We are Irish mini-dachshunds. 🇮🇪
+      Pippa + Louis A hot patootie with a big snootie and a wrinkly boy! We like to play, toot and slay!🙊 We are Irish mini-dachshunds🇮🇪 👇🏻Walkies playlist
     location: "Ireland"
-    followers: 76477
-    engagement: 730
-    commentsToLikes: 0.014993
+    followers: 111024
+    engagement: 540
+    commentsToLikes: 0.010339
     id: ck13clvb90zcd0i19atj74n2k
     verified: false
-    hashtags: "#wrinklywednesday, #tongueouttuesday"
-  - username: "tobythegentleman"
-    fullname: >-
-      Toby | The Boston Terrier
-    bio: >-
-      🐶 Good boi Toby 📍 Welcome to Tobyland ☘️🐾
-    location: "Ireland"
-    followers: 67630
-    engagement: 1952
-    commentsToLikes: 0.041150
-    id: ck138jkihgjd80i19j8isuwtx
-    verified: false
-    hashtags: "#thedodo, #bostonterrier, #bostonterrierlove, #ilovemybostonterrier"
-  - username: "matsy__"
-    fullname: >-
-      Matthew Larkin
-    bio: >-
-      Artist at @legendarytattoostudio 🇮🇪 ☘️ @tatsoul @eternalink 👇👇👇
-    location: "Ireland"
-    followers: 34560
-    engagement: 485
-    commentsToLikes: 0.047773
-    id: ck0vy4we229750i197orfl6xw
-    verified: false
-    hashtags: "#wow, #digitalart, #adventuretime, #collabwitheternal"
-  - username: "olliethesiamesecat"
-    fullname: >-
-      Ollie ☁️
-    bio: >-
-      😺 My name is Ollie. I am a Siamese boy. I live in Ireland 🇮🇪
-    location: "Ireland"
-    followers: 39641
-    engagement: 1754
-    commentsToLikes: 0.017104
-    id: ck13bxzd2xooy0i193wu1udjm
-    verified: false
-    hashtags: "#meowdel, #siamesecat, #kittycat, #catsoftheworld"
+    hashtags: "#tongueouttuesday, #ad, #wrinkleywednesday, #humpday"
   - username: "steamy_streamers"
     fullname: >-
       Steamy Streamers
     bio: >-
-      Keith -🇮🇪- 29 Streamer & Video Game Collector. We Stream Mondays through Thursdays at 5:30 GMT+1 (Twitch.tv/Steamy_Streamers)
+      Keith -🇮🇪- 29 Streamer & Video Game Collector. Live Mon-Thurs 5:30pm GMT
     location: "Ireland"
-    followers: 15080
-    engagement: 365
-    commentsToLikes: 0.091093
+    followers: 14436
+    engagement: 170
+    commentsToLikes: 0.116566
     id: ck0ub3jqgdrct0i19bn00zlvz
     verified: false
-    hashtags: "#playstation5, #gamingcommunity, #steamystreamers, #sony"
+    hashtags: "#retrogaming, #seriesx, #mariokart, #irish"
   - username: "conorshanahan79"
     fullname: >-
       Conor Shanahan
     bio: >-
-      •🇮🇪Professional Drift driver •@redbull athlete •@redbullire •@theshanahans •Youngest driver to win Irish, British and European pro events!
+      •🇮🇪Professional Drift driver •@redbull athlete •@redbullire •@theshanahans • European @driftmasters.gp pro driver • Think it, want it, GET IT ⚡️
     location: "Ireland"
-    followers: 38310
-    engagement: 713
-    commentsToLikes: 0.005011
+    followers: 39926
+    engagement: 511
+    commentsToLikes: 0.005078
     id: ck0tu7ruh5yzk0i19fan1yori
     verified: false
-    hashtags: "#cs79, #thevacation, #givesyouwings, #79"
+    hashtags: "#givesyouwings, #790duke, #79, #cs79"
+  - username: "gearoidmcdaid"
+    fullname: >-
+      Gearóid Mcdaid
+    bio: >-
+      •🇮🇪 🇮🇪 • Email:gearoid96@hotmail.com ||Iso Dreams 👇👇||
+    location: "Ireland"
+    followers: 11632
+    engagement: 634
+    commentsToLikes: 0.040491
+    id: ck0w1t1atkzwm0i195yhw0w1h
+    verified: false
+    hashtags: "#crushquarantine, #graphic4gman, #thesearch, #sligophysicaltherapy"
+  - username: "greg_callaghan"
+    fullname: >-
+      Greg Callaghan
+    bio: >-
+      Irish 🇮🇪| Enduro mountainbiker racing for @devinciglobalracing & @redbullire 👇Tap here for the latest👇
+    location: "Ireland"
+    followers: 54354
+    engagement: 505
+    commentsToLikes: 0.009621
+    id: ck0u8gud07fk00i198k1xuoj2
+    verified: true
+    hashtags: "#vlogguy, #whatarig, #drone, #wheeliewednesday"
+  - username: "timvmurphy"
+    fullname: >-
+      Timothy V Murphy
+    bio: >-
+      Actor | Irishman 🇮🇪@westworldhbo @snowpiercertnt @soafx @truedetective
+    location: "Ireland"
+    followers: 33417
+    engagement: 266
+    commentsToLikes: 0.047567
+    id: ck15rq2qj94lb0i19pl5an47k
+    verified: true
+    hashtags: "#jenniferconnelly, #hiking, #guinness, #tnt"
+  - username: "akychuy"
+    fullname: >-
+      |🔥Bouken Da Bouken🔥|
+    bio: >-
+      I'm a low quality salty yellow 🇮🇪 potato that loves to laugh and draw silly scenarios!! XD I just want to make people smile :)! ❤
+    location: "Ireland"
+    followers: 15802
+    engagement: 6486
+    commentsToLikes: 0.007134
+    id: ck15tjk8oiegl0i1943k61fz8
+    verified: false
+    hashtags: "#kacchan, #midoriyaizuku, #artistsoninstagram, #bnha"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Australia in 2023
+title: Top 10 Food TikTok Influencers In Australia In 2023
 description: >-
-  Find top food TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #food #tiktokfood #foryou.
+  Find top food TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #melbourne #food #tiktokfood.
 platform: TikTok
-hits: 350
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 350 TikTok influencers like this in Australia for you to pitch.
+hits: 364
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 364 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "foodysporn"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Food
     location: "Australia"
-    followers: 95000
-    engagement: 1913
-    commentsToLikes: 0.006945
+    followers: 93900
+    engagement: 1822
+    commentsToLikes: 0.007631
     id: ck9nai4n5a90m0j78g1sex0ig
     verified: false
-    hashtags: ""
-  - username: "ggthegardengirl"
+    hashtags: "#streetfood, #lovefood, #burger, #dessert"
+  - username: "hangrybynature"
     fullname: >-
-      Brenda 🌱Your TikTok Gardener
+      hangrybynature
     bio: >-
-      grow food 🌱recipes 🥣 eco ♻️ cottage garden Australia 🌻 YT vid every Friday ⬇️
+      ✌️ Hey, I'm Tina! 🌏 Crazy Fun Travel 👇 BIGGEST Foods in Melbourne 👇
     location: "Australia"
-    followers: 295100
-    engagement: 1594
-    commentsToLikes: 0.009672
-    id: ck81qtvvljt3q0j786x19mrx5
-    verified: false
-    hashtags: "#nature, #foryou, #food, #fyp"
-  - username: "chefsanddogs"
-    fullname: >-
-      Chefs & Dogs
-    bio: >-
-      🇦🇺 Showing the world what dog food looks like 👇 Dog cake recipe on Amazon
-    location: "Australia"
-    followers: 758500
-    engagement: 1545
-    commentsToLikes: 0.008628
-    id: ckb9m6srpf2zu0j2388aak2q8
+    followers: 1100000
+    engagement: 1592
+    commentsToLikes: 0.013335
+    id: cka0ppso29by50i78i80k52y3
     verified: true
-    hashtags: "#catsoftiktok, #crushitcrew, #bordercollie, #asmr"
-  - username: "thequarantinebois"
-    fullname: >-
-      MitchMaxTomJakey
-    bio: >-
-      Australian 🇦🇺 4 boys, 1 house, lot of food eaten.
-    location: "Australia"
-    followers: 65500
-    engagement: 683
-    commentsToLikes: 0.030613
-    id: ckb1dccul29p70j233dohjy64
-    verified: false
-    hashtags: "#duet, #qtb, #filmmaker, #vibecheck"
-  - username: "foodporn"
-    fullname: >-
-      Foodporn
-    bio: >-
-      Foodporn is the #1 app to find the best restaurants, bars & cafes in the world😋
-    location: "Australia"
-    followers: 127700
-    engagement: 795
-    commentsToLikes: 0.020490
-    id: cka63t3nb5u9k0i78t3tkfp6q
-    verified: true
-    hashtags: "#foodporn, #foryou, #cooking, #food"
-  - username: "gabreal.hungry"
-    fullname: >-
-      Gabrielle
-    bio: >-
-      I love food and boba too much
-    location: "Australia"
-    followers: 5082
-    engagement: 863
-    commentsToLikes: 0.026709
-    id: ckauyssfw4aiw0j233wipxz1x
-    verified: false
-    hashtags: "#quarantine, #albumcover, #chiangrai, #albumcoverchallenge"
-  - username: "emmamartinlazyketomum"
-    fullname: >-
-      Emma Martin - Lazy keto coach
-    bio: >-
-      🥑Food lover 🌀curly girl 🧪keto and Ketones 🐈Animal Lover ❣️Get the goss ⬇️
-    location: "Australia"
-    followers: 4420
-    engagement: 519
-    commentsToLikes: 0.111450
-    id: ckc7aec3tk6ah0j2326zqkg5b
-    verified: false
-    hashtags: "#ketosis, #ketolowcarb, #ketosischeck, #ketotransformation"
-  - username: "jassturka4"
-    fullname: >-
-      Jass Turka
-    bio: >-
-      Health & Fitness 💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
-    location: "Australia"
-    followers: 75500
-    engagement: 336
-    commentsToLikes: 0.031642
-    id: ckai3fp8wjp9s0i78tydhilnp
-    verified: false
-    hashtags: "#beautytutorial, #proudpunjabi, #weightloss, #friends"
-  - username: "bakingenvy"
-    fullname: >-
-      bakingenvy
-    bio: >-
-      🍰 food for your feed Instagram 👉🏻👉🏻 @bakingenvy
-    location: "Australia"
-    followers: 560000
-    engagement: 1077
-    commentsToLikes: 0.009222
-    id: ckdt8uuxmu2jr0j23a8zl5hw2
-    verified: false
-    hashtags: "#bakingrecipe, #recipe, #tiktokfood, #chocolate"
+    hashtags: "#melbournefood, #melbourne, #traveling, #weebsociety"
   - username: "jacobs_food_diaries"
     fullname: >-
       jacobs_food_diaries
     bio: >-
       check out my Instagram page 👇 www.instagram.com/jacobs_food_diaries
     location: "Australia"
-    followers: 11600
-    engagement: 1061
-    commentsToLikes: 0.016507
+    followers: 15500
+    engagement: 1232
+    commentsToLikes: 0.050183
     id: ck9jvmme7sw9y0j78vox9p0c2
     verified: true
-    hashtags: "#fyp, #foryou, #foodart, #tiktokfood"
+    hashtags: "#disney, #mashedpotato, #fyp, #food"
+  - username: "robbiebell8"
+    fullname: >-
+      🔪 Robbie Bell 🥘
+    bio: >-
+      ONLINE STORE NOW LIVE FOR ALL YOUR GOURMET FOOD NEEDS AUSTRALIA
+    location: "Australia"
+    followers: 501500
+    engagement: 658
+    commentsToLikes: 0.020089
+    id: ck84mbt55n1bz0j78tzao6qkb
+    verified: true
+    hashtags: "#foodmemories, #polenta, #chips, #simplerecipe"
+  - username: "health.investments"
+    fullname: >-
+      Jas Turka
+    bio: >-
+      Personal Trainer💪 Lifestyle 😎 Food ❤️ SC - nick_turka 👻 Mel 🇦🇺
+    location: "Australia"
+    followers: 75700
+    engagement: 325
+    commentsToLikes: 0.034664
+    id: ckai3fp8wjp9s0i78tydhilnp
+    verified: false
+    hashtags: "#weightloss, #melbourne, #stayhome, #supportfamers"
+  - username: "eatswithkayli"
+    fullname: >-
+      EatsWithKayli
+    bio: >-
+      Your Melbourne food guide! ✨ 📍Melbourne, Australia 💌 eatswithkayli@gmail.com
+    location: "Australia"
+    followers: 72800
+    engagement: 1080
+    commentsToLikes: 0.026269
+    id: ck9v0m8u0da3z0j78hex8pov8
+    verified: false
+    hashtags: "#fyp, #melbourne, #melbournefood, #melbournefoodie"
+  - username: "gabreal.hungry"
+    fullname: >-
+      Gabrielle
+    bio: >-
+      I love food and boba too much
+    location: "Australia"
+    followers: 4999
+    engagement: 820
+    commentsToLikes: 0.034001
+    id: ckauyssfw4aiw0j233wipxz1x
+    verified: false
+    hashtags: "#boba, #thailand, #quarantine, #chiangrai"
+  - username: "thehdprogram"
+    fullname: >-
+      HD Program
+    bio: >-
+      Hd Program is for Real Ppl for Real results by Eating Real food Live 6pm(mon-fr)
+    location: "Australia"
+    followers: 30300
+    engagement: 381
+    commentsToLikes: 0.035571
+    id: ckbqhetrv2qkx0j23utto9qv4
+    verified: false
+    hashtags: "#healthdrops, #punjabi, #desidiet, #mel"
+  - username: "food_surgery.x0"
+    fullname: >-
+      ✌︎︎FOOD SURGERY✌︎︎
+    bio: >-
+      I do food surgery This is my main acc @elp201 My instagram—> emmapickles_
+    location: "Australia"
+    followers: 2600000
+    engagement: 1085
+    commentsToLikes: 0.005922
+    id: ckck50u0npq830j23wiovjp0o
+    verified: false
+    hashtags: "#sugery, #fyp, #surgery, #foryou"
+  - username: "in_my_patch"
+    fullname: >-
+      In My Patch
+    bio: >-
+      Gardening, sustainability and helping beginners to grow food at home 🌱
+    location: "Australia"
+    followers: 212300
+    engagement: 1031
+    commentsToLikes: 0.007967
+    id: ck87tyjwu45kq0j78t1khdw8k
+    verified: false
+    hashtags: "#healthy, #gardenlife, #outside, #growingfood"
 ---

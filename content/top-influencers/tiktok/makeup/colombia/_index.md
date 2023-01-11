@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Colombia in 2023
+title: Top 10 Makeup TikTok Influencers In Colombia In 2023
 description: >-
-  Find top makeup TikTok influencers in Colombia in 2023. Most popular hashtags: #makeup #parati #colombia #maquillaje.
+  Find top makeup TikTok influencers in Colombia in 2023. Most popular hashtags: #makeup #parati #fyp #foryou.
 platform: TikTok
-hits: 82
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 82 TikTok influencers like this in Colombia for you to contact.
+hits: 65
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 65 TikTok influencers like this in Colombia for you to collaborate.
 profiles:
+  - username: "makeupwandre"
+    fullname: >-
+      Andrea Arbeláez
+    bio: >-
+      19✨ 🇨🇴 ig:@makeupwandre she/her 📩business: makeupwandre@gmail.com
+    location: "Colombia"
+    followers: 91900
+    engagement: 2565
+    commentsToLikes: 0.027736
+    id: ckbardpqgi0yw0j23gs026r0d
+    verified: false
+    hashtags: "#breakingbad, #fyp, #makeup, #fy"
   - username: "alejomooon"
     fullname: >-
       Alejo Moon 🌙
     bio: >-
-      Makeup Artist ✨ ¿400k? 👉🏻👈🏻 Sígueme en Instagram @Alejomooon 🥺
+      Makeup Artist 🇨🇴 He/Him ¿1M? 😱 Sígueme en Instagram @Alejomooon 🥺
     location: "Colombia"
-    followers: 367300
-    engagement: 2445
-    commentsToLikes: 0.008720
+    followers: 953100
+    engagement: 1844
+    commentsToLikes: 0.012152
     id: ckcvh9bbxtxhe0j23bf6ryuse
     verified: true
-    hashtags: "#destacame, #parati, #makeup, #foryou"
+    hashtags: "#crueltyfree, #drag, #parati, #challenge"
   - username: "chyo_00"
     fullname: >-
       chyo_00
     bio: >-
-      🇨🇴🇮🇱 💃lin Makeup artist former dancer
+      🇨🇴🇮🇱lin Dance Diseño a la medida Swimwear /trajes de noche makeup @l_diva_
     location: "Colombia"
-    followers: 3748
-    engagement: 487
-    commentsToLikes: 0.083228
+    followers: 3729
+    engagement: 418
+    commentsToLikes: 0.113865
     id: ckbl4z8br2cbi0j23lnm7cd29
     verified: false
-    hashtags: "#4youpage, #duet, #dance, #4you"
-  - username: "alejandrasaboogal"
-    fullname: >-
-      Aleja Sabogal
-    bio: >-
-      𝒴𝒶 𝓆𝓊𝑒 𝓁𝓁𝑒𝑔𝒶𝓈𝓉𝑒 𝓉𝑒 𝓆𝓊𝑒𝒹𝒶𝓈!! 🤍 makeup & Tips 💕
-    location: "Colombia"
-    followers: 15800
-    engagement: 822
-    commentsToLikes: 0.049641
-    id: ckbr394j4jqsr0j23js51tmhx
-    verified: false
-    hashtags: "#parati, #fyp, #makeup, #trend"
+    hashtags: "#historiastiktok, #duet, #ejerciciosasiaticos, #makeupcolombiano"
   - username: "circymoreno"
     fullname: >-
       Circy Moreno
     bio: >-
-      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ Nonolive @circy
+      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ @dejavuteamdance
     location: "Colombia"
-    followers: 15600
-    engagement: 1614
-    commentsToLikes: 0.031401
+    followers: 15700
+    engagement: 1659
+    commentsToLikes: 0.024371
     id: cka0q66t1bftm0i78cykwip6q
     verified: false
-    hashtags: "#viral, #backdoor, #straykids, #parati"
-  - username: "susana_tunes"
-    fullname: >-
-      susana_tunes
-    bio: >-
-      💋💄MakeUp Artist 📫 For inquires: susanatunes@gmail.com
-    location: "Colombia"
-    followers: 496000
-    engagement: 1222
-    commentsToLikes: 0.017053
-    id: ck8hkd3qbdfc00j78mm9umzkb
-    verified: false
-    hashtags: "#elproblema, #tiktokdice, #spookytreats, #emociones"
+    hashtags: "#kpop, #twice, #jhope, #kpopdance"
   - username: "pautips"
     fullname: >-
       Paula Galindo 
     bio: >-
       Paula Galindo Amo el makeup 💕 INSTAGRAM: Pautips YOUTUBE:Pautips #PaulaMakeup
     location: "Colombia"
-    followers: 1600000
-    engagement: 1503
-    commentsToLikes: 0.004191
+    followers: 1800000
+    engagement: 1505
+    commentsToLikes: 0.004570
     id: cka6jg0y6ukp30i78is0htb05
     verified: true
-    hashtags: "#fashiontips, #tiktoktravel, #challenge, #explosaochallenge"
+    hashtags: "#fyp, #makeup, #sugardaddypautips, #pautips"
+  - username: "susana_tunes"
+    fullname: >-
+      susana_tunes
+    bio: >-
+      💋💄MakeUp Artist 📫 For inquires: susanatunes@gmail.com
+    location: "Colombia"
+    followers: 666900
+    engagement: 1461
+    commentsToLikes: 0.010258
+    id: ck8hkd3qbdfc00j78mm9umzkb
+    verified: false
+    hashtags: "#relacionperfecta, #sanvalentin, #mua, #beautytips"
   - username: "lauraahp"
     fullname: >-
       Laura  Herrera
     bio: >-
-      ✨💙META 30K💙✨ 💜Sígueme en instagram💙 @LAURAHP_MAKEUP 💄MAKEUP💄
+      ✨💙META 60K💙✨ 💜Sígueme en instagram💙 @LAURAHP_MAKEUP 💄MAKEUP💄
     location: "Colombia"
-    followers: 23700
-    engagement: 1026
-    commentsToLikes: 0.034475
+    followers: 29200
+    engagement: 1023
+    commentsToLikes: 0.028887
     id: ckb9lp0ameb030j23qxlznzyi
     verified: false
-    hashtags: "#happyhallowen, #celos, #boyfriend, #love"
+    hashtags: "#makeup, #maquillaje, #parati, #foryou"
+  - username: "alejandrasaboogal"
+    fullname: >-
+      Aleja Sabogal
+    bio: >-
+      Colombiana con orgullo!! Que más parceros🤍 Tips | Peinados | makeup 📍Cúcuta
+    location: "Colombia"
+    followers: 16600
+    engagement: 593
+    commentsToLikes: 0.032412
+    id: ckbr394j4jqsr0j23js51tmhx
+    verified: false
+    hashtags: "#trending, #peinadosfacilesyrapidos, #transitions, #peinados"
   - username: "marymassmakeup"
     fullname: >-
       Maria Teresa
     bio: >-
-      Makeup Artist 👩🏻‍🎨 📍Colombia! Sígueme en Insta! marymassmakeup01@gmail.com
+      Makeup Artist 🇨🇴 Col. marymassmakeup01@gmail.com Mis productos favoritos🔻
     location: "Colombia"
-    followers: 133700
-    engagement: 851
-    commentsToLikes: 0.017559
+    followers: 179100
+    engagement: 814
+    commentsToLikes: 0.014652
     id: ckb9q6ux3lri30j235fgvr7ef
     verified: false
-    hashtags: "#makeuptips, #makeup, #parpadocaido, #marymasstips"
+    hashtags: "#enunminuto, #makeupartist, #belleza, #shopping"
   - username: "erickochoa52"
     fullname: >-
       Erick Ochoa
     bio: >-
       🕺#Dance💃, 👨🎨#makeup 👩🎨 it's my life
     location: "Colombia"
-    followers: 7883
-    engagement: 630
-    commentsToLikes: 0.014878
+    followers: 7850
+    engagement: 648
+    commentsToLikes: 0.015592
     id: ck9evw4x8ke4i0j78gphk2apl
     verified: false
-    hashtags: "#parati, #colombia, #cuarentenaencasa, #comedia"
-  - username: "jaimermb"
-    fullname: >-
-      Jaime Méndez
-    bio: >-
-      ✨
-    location: "Colombia"
-    followers: 628900
-    engagement: 2675
-    commentsToLikes: 0.010372
-    id: ckbw3vtgxxcyi0j2305rv7wps
-    verified: false
-    hashtags: "#outfit, #makeup, #coraline, #monsterhigh"
+    hashtags: "#sigueme, #colombia, #parati, #mehacefeliz"
 ---

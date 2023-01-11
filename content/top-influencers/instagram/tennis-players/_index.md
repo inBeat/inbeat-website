@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tennis Players Instagram Influencers in 2023
+title: Top 10 Tennis Players Instagram Influencers In 2023
 description: >-
-  Find top tennis players Instagram influencers in 2023. Most popular hashtags: #tennis #summer #ao2020.
+  Find top tennis players Instagram influencers in 2023. Most popular hashtags: #2021 #love #tennis.
 platform: Instagram
-hits: 501
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 501 Instagram influencers like this for you to pitch.
+hits: 507
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 507 Instagram influencers like this for you to work with.
 profiles:
-  - username: "vishnya.alina"
+  - username: "carlitosalcarazz"
     fullname: >-
-      ALINA 🎾🇷🇺 🇺🇸
+      Carlos Alcaraz Garfia
     bio: >-
-      🏆Pro Tennis Player 🏆 Houston, Texas , USA G14 USTA Player (14 y.o.) @usta_texas 🎾 sc:vishnia6340 Tik tok: vishnia.alina
+      Tennis player🇪🇸 Always💯
+    location: "Spain"
+    followers: 2132474
+    engagement: 433
+    commentsToLikes: 0.005274
+    id: ck5hrkeiuv0go0i116kyn21v6
+    verified: true
+    hashtags: "#equelite, #isdinambassador, #makingof, #luxtennis"
+  - username: "domicibulkova"
+    fullname: >-
+      Dominika Cibulkova
+    bio: >-
+      Retired tennis player,former world n.4🎾 Right now just enjoying life with @miso.navara ✨ -BioTechUSA sponsored ambasador👊🏻 -Hairburst ambasador-domi20
     location: "United States"
-    followers: 5288
-    engagement: 1611
-    commentsToLikes: 0.096805
-    id: ck8t3siyw4bqm0j78m92vpl3t
-    verified: false
-    hashtags: "#tennisplayers, #lovetennis, #cool, #love"
+    followers: 482963
+    engagement: 93
+    commentsToLikes: 0.006401
+    id: ck5bx8a41n7770i11m2u8ohb8
+    verified: true
+    hashtags: "#december, #healthyplanet, #home, #healthylifestyle"
   - username: "annaliafraser"
     fullname: >-
       Annalia Fraser
     bio: >-
-      Tennis Player, Actress, Model Snapchat: annaliafraser
+      Tennis Player, Actress, Model Snapchat: annaliafraser 🎾
     location: "Canada"
-    followers: 22909
-    engagement: 1439
-    commentsToLikes: 0.082232
+    followers: 24536
+    engagement: 1427
+    commentsToLikes: 0.087217
     id: ck5hsohlvwxoi0i110y2vgapz
     verified: false
-    hashtags: "#happyhalloween"
-  - username: "sabalenka_aryna"
+    hashtags: "#happyhalloween, #birthdaygirl, #2021"
+  - username: "vishnya.alina"
     fullname: >-
-      𝗔𝗥𝗬𝗡𝗔 𝗦𝗔𝗕𝗔𝗟𝗘𝗡𝗞𝗔 🐯
+      ALINA 🎾🇷🇺 🇺🇸
     bio: >-
-      P͙R͙O͙ T͙E͙N͙N͙I͙S͙ P͙L͙A͙Y͙E͙R͙ 💎 ᖴIᘜᕼT ᖴOᖇ YOᑌᖇ ᗪᖇᗴᗩᗰᔕ💎 (•̀ᴗ•́)و(•̀ᴗ•́)و(•̀ᴗ•́)و
-    location: "Austria"
-    followers: 158177
-    engagement: 797
-    commentsToLikes: 0.037208
-    id: ck0u6yw0v3cdo0i19trq0qpfj
-    verified: true
-    hashtags: ""
+      🏆Pro Tennis Player 🏆 Houston, Texas , USA G14 USTA Player (14 y.o.) @usta_texas 🎾 sc:vishnia6340 Tik tok: vishnia.alina Private account: vish_linaa
+    location: "United States"
+    followers: 5588
+    engagement: 1532
+    commentsToLikes: 0.082268
+    id: ck8t3siyw4bqm0j78m92vpl3t
+    verified: false
+    hashtags: "#holidays, #usta, #teamwilson, #tennisfun"
   - username: "tay_taytownsend"
     fullname: >-
       Taylor Townsend
     bio: >-
-      Pro tennis player🎾 Mom to be For media inquiries click the contact!
+      Pro tennis player🎾 Adyn’s Mom For media inquiries click the contact!
     location: "United States"
-    followers: 29318
-    engagement: 1120
-    commentsToLikes: 0.045672
+    followers: 30865
+    engagement: 686
+    commentsToLikes: 0.043561
     id: ck14i83s5e44c0i19fvyivfei
     verified: true
-    hashtags: "#womenwithamessage, #takethedayoffchallenge, #ao2020, #blackouttuesday"
-  - username: "05.march"
+    hashtags: "#ttontc, #tennischannel, #cincytennis, #nutrition"
+  - username: "thiagomonteiro94"
     fullname: >-
-      🎾 DARIA  TENNIS 🎾
+      Thiago Monteiro
     bio: >-
-      🎾 junior tennis player 🎾 🇷🇺 🎾страничку ведёт мама
-    location: "Russia"
-    followers: 10411
-    engagement: 1061
-    commentsToLikes: 0.077493
-    id: ck9we60f5irgx0j78tpk7usn3
-    verified: false
-    hashtags: "#padel, #happy, #tennis, #nofiltersneeded"
-  - username: "mrlewisburton"
-    fullname: >-
-      Lewis Burton
-    bio: >-
-      Ex Professional Tennis Player Partner | @woodbury.house Co-Founder | @educate2trade @tradeinbox Represented By | @selectmodellondon
-    location: ""
-    followers: 198375
-    engagement: 1265
-    commentsToLikes: 0.024558
-    id: ck8tbmsniwa770j78a0pl9vmi
+      Professional Tennis Player from Brazil 🇧🇷 Management: marcio@linkinfirm.com Press: diana@gabanyis.com 📹
+    location: "Brazil"
+    followers: 31740
+    engagement: 894
+    commentsToLikes: 0.040098
+    id: ck0ud64cuiclh0i19b36wo96f
     verified: true
-    hashtags: "#stayhome, #campaign"
-  - username: "dayana_yastremskay"
+    hashtags: "#ausopen, #rg2020, #vamos, #atpchallenger"
+  - username: "delpotrojuan"
     fullname: >-
-      Dayana Yastremska
+      Juan Martin del Potro
     bio: >-
-      Pro tennis player 🎾 #2 in🇺🇦 #28🌍 @wta @topfivemanagement @yonex_com @yonex_tennis
-    location: "Ukraine"
-    followers: 82179
-    engagement: 742
-    commentsToLikes: 0.028567
-    id: ck5q4nsi2po4t0i118n2eqrqo
+      Tennis Player 🇦🇷
+    location: "Argentina"
+    followers: 1883875
+    engagement: 676
+    commentsToLikes: 0.016076
+    id: ck0w4ilabyqt40i195lqz4nuc
     verified: true
-    hashtags: "#dy, #wta, #odessa, #tennis"
-  - username: "marcpolmans"
-    fullname: >-
-      Marc Polmans
-    bio: >-
-      Australian Tennis Player 🇦🇺 @lacoste 🐊 @tecnifibre 🔻 Whack your helmet on, get the shovel out and never stop digging #AlwaysDigging ⛏
-    location: "Australia"
-    followers: 6772
-    engagement: 1364
-    commentsToLikes: 0.046829
-    id: ck8sztb9npmuk0j784coffkoe
-    verified: true
-    hashtags: "#alwaysdigging, #trenches, #lacoste, #shovel"
-  - username: "aguarachi"
-    fullname: >-
-      Alexa Guarachi
-    bio: >-
-      🎾 Pro Tennis player representing Chile 🇨🇱 📍Destin, FL 🎓BAMA grad 💪🏻 @johnskillerprotein promo code: ALEXA10
-    location: "France"
-    followers: 25869
-    engagement: 990
-    commentsToLikes: 0.032945
-    id: ck138hy0bgbss0i1959pekal5
-    verified: true
-    hashtags: "#foundabrunerhalf, #12days, #honeymoon, #justmarried"
+    hashtags: "#jujuy, #purmamarca, #inspiration, #sunset"
   - username: "camila_giorgi_official"
     fullname: >-
       🎀 Camila Giorgi 🎀
     bio: >-
       Pro Tennis Player 🇮🇹
     location: "Italy"
-    followers: 281886
-    engagement: 1041
-    commentsToLikes: 0.017893
+    followers: 351422
+    engagement: 841
+    commentsToLikes: 0.019814
     id: ck5cji0omurcj0i11yb52wybi
     verified: true
-    hashtags: "#fitness, #gym, #sunday, #happy"
+    hashtags: "#2021, #florence, #portrait, #music"
+  - username: "05.march"
+    fullname: >-
+      🎾 DARIA  TENNIS 🎾
+    bio: >-
+      🎾 junior tennis player 🎾 🇷🇺 🎾страничку ведёт мама
+    location: "Russia"
+    followers: 10081
+    engagement: 1094
+    commentsToLikes: 0.077979
+    id: ck9we60f5irgx0j78tpk7usn3
+    verified: false
+    hashtags: "#may2019, #backoncourt, #summer2020, #padel"
+  - username: "aguarachi"
+    fullname: >-
+      Alexa Guarachi
+    bio: >-
+      Pro Tennis player 🇨🇱 BAMA 13’ 💪🏻 @johnskillerprotein promo code: ALEXA10
+    location: "France"
+    followers: 25641
+    engagement: 1082
+    commentsToLikes: 0.031320
+    id: ck138hy0bgbss0i1959pekal5
+    verified: true
+    hashtags: "#foundabrunerhalf, #ilovesandalsresorts, #wtaforthegame, #thankful"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Bali in 2023
+title: Top 10 Skincare Instagram Influencers In Bali In 2023
 description: >-
-  Find top skincare Instagram influencers in Bali in 2023. Most popular hashtags: #bali #skincare #balilife #indonesia.
+  Find top skincare Instagram influencers in Bali in 2023. Most popular hashtags: #bali #skincare #balilife #baliindonesia.
 platform: Instagram
-hits: 88
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 88 Instagram influencers like this in Bali, Indonesia for you to work with.
+hits: 95
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 95 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
-  - username: "fabyamandaaaa"
+  - username: "annita.liem"
     fullname: >-
-      Faby Amanda
+      Annita🦁
     bio: >-
-      🍜 @bakmi.legit 🚴🏼‍♀️ @gowespik 👶🏻 @klaykenzo
+      as bad as it can get, good as it can be⚡ × @leighwoods.healthygourmet 🍽️ endorse/invitation: DM
     location: "Indonesia"
-    followers: 53740
-    engagement: 142
-    commentsToLikes: 0.030729
-    id: ck0w6wwmlanes0i198mkvtpld
+    followers: 28946
+    engagement: 161
+    commentsToLikes: 0.066586
+    id: ck6u0rndchdha0j71062bxkt4
     verified: false
-    hashtags: "#halloween2020, #halloweencostume, #skincare, #bali"
-  - username: "elmaaa_e"
+    hashtags: "#travel, #travelgram, #balibeachclub, #lifestyleblogger"
+  - username: "vybeaute.id"
     fullname: >-
-      Elma Agustin
+      𝕭𝖊𝖆𝖚𝖙𝖞 𝖆𝖘 𝖞𝖔𝖚;
     bio: >-
-      Bentuk Management/Public Figure ☎️Cp Riri Bentuk Management +62 813-8097-2675 ✉️ elmaa_e@yahoo.com 🍋@byefat_official owner Https://linktr.ee/byefat
+      𝚅𝚈𝙱𝙴 𝚂𝚔𝚒𝚗𝚌𝚊𝚛𝚎 - 𝙽𝚊𝚝𝚞𝚛𝚊𝚕 𝙶𝚕𝚘𝚠 𝚂𝚔𝚒𝚗𝙲𝚊𝚛𝚎. 𝟷𝟶𝟶% 𝙾𝚛𝚐𝚊𝚗𝚒𝚌𝚜 𝙸𝚗𝚐𝚛𝚎𝚍𝚒𝚎𝚗𝚝𝚜! 𝕺𝖗𝖉𝖊𝖗 𝖛𝖎𝖆👇🏻𝖘𝖍𝖔𝖕𝖊𝖊!
     location: "Indonesia"
-    followers: 363315
-    engagement: 219
-    commentsToLikes: 0.004968
-    id: ck6tnt16saim60j714n2vsb4w
+    followers: 12490
+    engagement: 256
+    commentsToLikes: 0.628064
+    id: ckap9wf2jttuh0i78bhjxsx47
+    verified: false
+    hashtags: "#lotionpemutih, #skincare, #bali, #sabunkefircollostrum"
+  - username: "ikasanz"
+    fullname: >-
+      Ikasanz Yoe ♠️
+    bio: >-
+      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
+    location: "Indonesia"
+    followers: 53312
+    engagement: 224
+    commentsToLikes: 0.142564
+    id: ck9wgk1f5trp10j78o2ldtyun
+    verified: false
+    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
+  - username: "vanessaangelofficial"
+    fullname: >-
+      Vanessa AngeL 🍌
+    bio: >-
+      A mother and a wife. Boleh endorse : 081385886836 😁 @kebabngidam BA of : @beningsclinic_jakarta @applesolution.id @madu_amil
+    location: "Indonesia"
+    followers: 2528394
+    engagement: 191
+    commentsToLikes: 0.012589
+    id: ck137q51vct9j0i19lm7je9ys
     verified: true
-    hashtags: "#cactus, #bali, #diet, #skincare"
-  - username: "amospabali"
+    hashtags: "#beningsekarang, #sahabatbening, #golf, #keluargala"
+  - username: "syahrini.reino_2702"
     fullname: >-
-      Amo Spa Bali
+      Syahrini Reino Fans
     bio: >-
-      Life. Style. Spa. #AMOSPA •Jl Batu Bolong 69 Canggu 📞 or WhatsApp +628113999806 9am - 9pm Resto.SPA.Sauna. 📞Call +62 361 9071146 Bookings
+      Syahreino (MR and MRS BARACK )💎 akun fans @princessyahrini @reinobarack 💜270219💜
     location: "Indonesia"
-    followers: 25599
-    engagement: 192
-    commentsToLikes: 0.024037
-    id: ck5zq5ri7tzn10i1413tqhwy8
+    followers: 69014
+    engagement: 109
+    commentsToLikes: 0.046762
+    id: ck139fohil2h10i19y5g481bi
     verified: false
-    hashtags: "#balifood, #balispa, #quarantine, #amospa"
-  - username: "jsslynthvn"
+    hashtags: "#seumurhidupku, #syahrini, #restu, #syahreino"
+  - username: "infokarangasem_id"
     fullname: >-
-      𝓙𝓮𝓼𝓼𝓵𝔂𝓷 𝓣𝓱𝓮𝓿𝓪𝓷𝓲𝓪
+      Infokarangasem_id
     bio: >-
-      🦋 @artonish 𝐈𝐟 𝐢𝐭'𝐬 𝐦𝐞𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞,𝐢𝐭 𝐰𝐢𝐥𝐥 𝐛𝐞.
+      Wisata|Kuliner|Event|Berita|Budaya|#infokarangasem_id Hubungi kami •081337592778 ( PP ) •Line: @vxo0073g • Klik on Youtube
     location: "Indonesia"
-    followers: 2703
-    engagement: 1774
-    commentsToLikes: 0.103799
-    id: ckap0y0qzsayj0i785xv6adem
+    followers: 131786
+    engagement: 75
+    commentsToLikes: 0.010587
+    id: ck13cwr982jhy0i19u93yaykk
     verified: false
-    hashtags: "#kyndcommunity, #wegrowwego, #madamegie0909, #sunscreenroromendut"
-  - username: "cumlaude_octaviani"
+    hashtags: "#bali, #infokarangasem, #karangasem, #rawatwajah"
+  - username: "animoji_indonesia"
     fullname: >-
-      ☾𝘂𝗺𝗹𝗮𝘂𝗱𝗲
+      story video
     bio: >-
-      🏝Bali, Indonesia Hodophile ◦ Ailurophile ◦ Selenophile ❣️ @nizammonst 👁 @balisoftlens
+      ▶️ cuma ingin menghibur kalian 🙌 👥 suport terus ya teman akun kita. 📩 pp / kerjasama, whatsapp ╮
     location: "Indonesia"
-    followers: 26969
-    engagement: 111
-    commentsToLikes: 0.014972
-    id: ck6u0rw11hern0j71om5iqsri
+    followers: 170022
+    engagement: 88
+    commentsToLikes: 0.009618
+    id: ck15sc3qbc9az0i1980xdnhj8
     verified: false
-    hashtags: "#summerdress, #balimodel, #olshopbali, #summervibes"
-  - username: "moana.indonesia"
+    hashtags: "#studio42uhf, #micinngakak, #cantik, #nisasabyan"
+  - username: "risyadsalman"
     fullname: >-
-      MOANA Skin Indonesia
+      RISYAD | BALI MODEL
     bio: >-
-      Skincare & artisan Candles ✨ 100% natural, non-toxic, pure essential oils 🌿 Made in Bali, Indonesia 🇮🇩
+      📍 Bali ▪️Sport, lifestyle, and fashion enthusiast ▪️Part of @studio47id ▪️ #janganlupaolahraga #risyadpergike
     location: "Indonesia"
-    followers: 60531
-    engagement: 172
-    commentsToLikes: 0.017756
-    id: ck8tbvnxfxbud0j780k3twih7
+    followers: 19192
+    engagement: 2319
+    commentsToLikes: 0.022912
+    id: ck13a91c1p83t0i19upvm8gbk
     verified: false
-    hashtags: "#candles, #sunprotection, #lockdownootd, #naturalbeauty"
-  - username: "traceh1"
+    hashtags: "#balimodel, #canggubali, #uluwatu, #ubudbali"
+  - username: "saintsunnn"
     fullname: >-
-      𝒍𝒊𝒗𝒆𝒍𝒊𝒌𝒆Trace👽👣
+      ☀️sun☀️
     bio: >-
-      𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 𝕚𝕤 𝕒𝕟 𝕒𝕥𝕥𝕚𝕥𝕦𝕕𝕖🍭🕶 Travel and explore with me 🛩 🌎 Oh btw, i love 🐼
+      Akun real📌 📩 Open ENDORS/PP = DM 🥀Mau di follback cukup spam like❤️ 📌 Pontianak , Kalimantan barat 🧑 Chinese ✝️✝️✝️✝️✝️
     location: "Indonesia"
-    followers: 2887
-    engagement: 1143
-    commentsToLikes: 0.044883
-    id: ck9we1lr6i6ce0j78elj9f2an
+    followers: 17467
+    engagement: 1979
+    commentsToLikes: 0.054867
+    id: ck9wgrsrbupcx0j78fmc2s777
     verified: false
-    hashtags: "#loveyourself, #shoutout, #traveller, #wander"
-  - username: "nadiem_makarim__"
+    hashtags: "#followforfollowback, #selebgram, #fff, #tiktok"
+  - username: "linkangelia"
     fullname: >-
-      Nadiem Anwar Makarim
+      Linka Angelia
     bio: >-
-      Akun FANS Eks CEO @gojekindonesia Menteri Pendidikan dan Kebudayaan @kemdikbud.ri (2019-2024) @nadiem_makarimm
+      1994 | @rumahsenjapagi | @katakita_apparel.id | @little.linka
     location: "Indonesia"
-    followers: 174349
-    engagement: 102
-    commentsToLikes: 0.015045
-    id: ck5cj6s2uu3i80i11usnuokb8
+    followers: 544310
+    engagement: 1173
+    commentsToLikes: 0.006340
+    id: ckapasdsrxa7p0i78jojo8oyz
     verified: false
-    hashtags: "#sahabatdikbud, #hardiknas2020, #kemdikbud, #pendidikan"
-  - username: "baliinteriors"
-    fullname: >-
-      BALI INTERIORS by @sheilaman_
-    bio: >-
-      Photographing the best Interiors in Bali & beyond. Creative direction for homewares and lifestyle brands. DM me for enquires. www.bali-interiors.com
-    location: "Indonesia"
-    followers: 58153
-    engagement: 198
-    commentsToLikes: 0.036712
-    id: ck1347obtv4a70i198g3sfm1b
-    verified: false
-    hashtags: "#hunkerhome, #interior444, #baliinteriors, #bedroomgoals"
-  - username: "kategusar"
-    fullname: >-
-      KATE GUSAR
-    bio: >-
-      ✩ ғᴀsʜɪᴏɴ ɪɴғʟᴜᴇɴᴄᴇʀ ✩ ᴛʀᴀᴠᴇʟʟᴇʀ 📍 Currently in Moscow ✎ ᴋᴀᴛᴇɢᴜsᴀʀ.ɪɴғᴏ@ɢᴍᴀɪʟ.ᴄᴏᴍ
-    location: "Indonesia"
-    followers: 134022
-    engagement: 153
-    commentsToLikes: 0.062741
-    id: ck0w1x0otlk2m0i19lg68knz2
-    verified: false
-    hashtags: "#balilifestyle, #traveladdict, #beautifulnature, #facecareproducts"
+    hashtags: "#cgi, #pubgm, #antiputusnyambungterus, #3d"
 ---

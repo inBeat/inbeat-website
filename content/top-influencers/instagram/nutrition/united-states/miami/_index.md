@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Miami in 2023
+title: Top 10 Nutrition Instagram Influencers In Miami In 2023
 description: >-
-  Find top nutrition Instagram influencers in Miami in 2023. Most popular hashtags: #nutrition #miami #fitness #gym.
+  Find top nutrition Instagram influencers in Miami in 2023. Most popular hashtags: #miami #fitness #fitnessmotivation #nutrition.
 platform: Instagram
 hits: 63
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 63 Instagram influencers like this in Miami, United States for you to collaborate.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 63 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "carladuenas"
-    fullname: >-
-      Carla RD, CDE
-    bio: >-
-      🔸Registered Dietitian/Nutritionist 🔸Certified Diabetes Educator 🔹Grad Student in Sports Nutrition 📍Miami/Bilingual 🇺🇸🇪🇨 👇🏼Classes @baptisthealthsf
-    location: "United States"
-    followers: 2810
-    engagement: 1491
-    commentsToLikes: 0.090578
-    id: ck0u9gfvl9q2g0i19x8u5h21j
-    verified: false
-    hashtags: "#tbt, #babypr, #rdlife, #halloween"
-  - username: "iman__hasan"
-    fullname: >-
-      Iman Hasan
-    bio: >-
-      Founder & CEO @imanhasancreative PR| Influencer Marketing| Social | Digital Founder @wearerenn Contributor @hellomagindia 📍MIA ♾ NYC
-    location: "United States"
-    followers: 86764
-    engagement: 147
-    commentsToLikes: 0.043653
-    id: ck6tmy0vg8qza0j7185opmmvo
-    verified: true
-    hashtags: "#getfitwithihc, #chatswithihc, #imanhasancreative, #smallbusinessowner"
-  - username: "paolaguanche"
-    fullname: >-
-      Paola Guanche
-    bio: >-
-      just me
-    location: "United States"
-    followers: 52213
-    engagement: 254
-    commentsToLikes: 0.029383
-    id: ck5zzki5ibwkh0i14e37830y8
-    verified: false
-    hashtags: "#haitianowned, #sheingals, #blackownedbeauty, #goligummies"
-  - username: "big__ab"
-    fullname: >-
-      Big Ab™️
-    bio: >-
-      🔹🌐IFBB Pro Classic Physique 🔹’19 ⭕️lympian 🔹💰Financial￼ Liaison & 🏋🏾‍♂️Celebrity-Trainer 🔹Subscribe to my YouTube Channel 🎥⬇️
-    location: "United States"
-    followers: 61576
-    engagement: 391
-    commentsToLikes: 0.014385
-    id: ck6tunfhfhb910j71dqk6owiw
-    verified: true
-    hashtags: "#miami, #la, #handsome, #nutrition"
-  - username: "drpedritot"
-    fullname: >-
-      Dr. Pedro Torres Allen
-    bio: >-
-      Cirujano Ortopedista-Traumatologo🇻🇪🇪🇸 SA-C🇺🇸 Sport Medicine Certificado por FIFA ⚽️🏆🌎 Nutricion Humana/ Nutrillermoteam💥👊🏻
-    location: "United States"
-    followers: 146494
-    engagement: 127
-    commentsToLikes: 0.111094
-    id: ck6tnzgtzb93h0j71xd1a56yz
-    verified: false
-    hashtags: "#quedateencasa, #drhelpmeplease, #fueradelconsultorio, #nutrition"
   - username: "danilapao"
     fullname: >-
       Danila Bp
     bio: >-
-      Planes de entrenamiento online & presencial Coach alimentación healthy Atleta WELLNESS 📍Miami Coach:@sergio_javier_diaz Sponsor:@goldnutritionar
+      Planes de entrenamiento online & presencial alimentación healthy Atleta WELLNESS 📍Miami Coach:@sergio_javier_diaz Patrocinador:@jose.bethapharma
     location: "United States"
-    followers: 12665
-    engagement: 1087
-    commentsToLikes: 0.031802
+    followers: 13081
+    engagement: 962
+    commentsToLikes: 0.031535
     id: ck9hcjpi9lqbx0j78vhlm2sc9
     verified: false
-    hashtags: "#sport, #miamientrenador, #healthylife, #fitnessgirl"
-  - username: "lorettabates"
+    hashtags: "#training, #strong, #entrenamiento, #yotenetreno"
+  - username: "plantbasedcurves"
     fullname: >-
-      Loretta Bates
+      Plant Based Fitness & Health
     bio: >-
-      Mom, Wife, Lover of Life❤️ International 🌍 Zumba🎶 Founder of @allovermeskincare 🧴 Micah 6:8 ✝️ Loretta@lorettabates.com📬 Miami, FL🌴
+      🌱Going Vegan & Maintaining those 🍑Curves 💪🏾Fitness Motivation Managed by @daedreams 📲Tag us for a feature #PlantBasedCurves TikTok PlantBasedCurves
     location: "United States"
-    followers: 154352
-    engagement: 193
-    commentsToLikes: 0.046426
-    id: ck0u9cfaj9ltc0i19rddlt02b
-    verified: true
-    hashtags: "#zumba, #zumbafitness, #fitness, #dance"
-  - username: "primal.methods"
-    fullname: >-
-      Primal.Methods
-    bio: >-
-      ⚡️Official Instagram for #PrimalMethods ⚡️Primal Fitness Training & Movement Practice ⚡️Kettlebell | Bodyweight Program👇
-    location: "United States"
-    followers: 118619
-    engagement: 147
-    commentsToLikes: 0.017825
-    id: ckap90b1dqo2n0i78alspalfi
+    followers: 49876
+    engagement: 91
+    commentsToLikes: 0.064658
+    id: ckap12ddjstop0i78e05yhwxg
     verified: false
-    hashtags: "#kettlebelltraining, #fullbodyworkout, #gym, #legworkout"
+    hashtags: "#veganlife, #plantbased, #ootd, #vegansofig"
+  - username: "agentshawn"
+    fullname: >-
+      Trainer/Sports Performance
+    bio: >-
+      🏋🏽‍♂️ Cypherdemics 📐 Engineering Professional 🇺🇸 Houston, TX 📩 mrshawn06@gmail.com #cypherdemics
+    location: "United States"
+    followers: 17305
+    engagement: 143
+    commentsToLikes: 0.195510
+    id: ck6u42nl71c2q0j71qj8wd6mx
+    verified: false
+    hashtags: "#menshealthmag, #bootcamp, #weightlossjourney, #cypherdemics"
+  - username: "noelletaylorrr"
+    fullname: >-
+      Noelle Taylor 🧞‍♀️
+    bio: >-
+      Jack of all trades, master of none ✝️ + 🗺 + 🫂+ 🧀 + 📽 + ♑️ + 🛩 + 🇺🇸 enthusiast Represented by @heymantalentagency
+    location: "United States"
+    followers: 5906
+    engagement: 861
+    commentsToLikes: 0.089688
+    id: ckaovv3gu67pq0i78q8cf6yu8
+    verified: false
+    hashtags: "#extra, #capricornseason, #birthday, #internationalwomensday"
   - username: "nutrillermo"
     fullname: >-
       Guillermo Rodríguez Navarrete
     bio: >-
-      Doctor en Nutrition Humana, FACN, CNS, LD 🇺🇸Miami info@nutrillermo.com 📞+1 7865691399 👇🏼Curso Keto-Deporte👇🏼 // RETO 22 días👉🏼 www.reto22.com
+      Doctor in Human Nutrition, PhD, FACN, CNS, LDN 🇺🇸Miami info@nutrillermo.com 📞+1 7865691399 👇🏼¡Video cita desde casa! //👆🏼Más info☝🏼
     location: "United States"
-    followers: 519313
-    engagement: 123
-    commentsToLikes: 0.129628
+    followers: 578188
+    engagement: 112
+    commentsToLikes: 0.087528
     id: ck0w6s3p5a13j0i198l666gtf
     verified: true
-    hashtags: "#nutristro, #nosugar, #retonutrillermo, #coronavirus"
-  - username: "anasallesfitness"
+    hashtags: "#salud, #nutrifasting, #nutriteam, #retoayuno"
+  - username: "antonio_milan0"
     fullname: >-
-      Ana Salles, MS
+      Antonio Milano
     bio: >-
-      NASM & ISSA-CPT Sports Nutrition and Weight Loss 🌱 📍Miami Online & in person Coaching (join our waiting list / lista de espera)👇🏼
+      🇪🇸 📍Miami🇺🇸 🩳 Founder of @chameleon_beachwear ❤️👬🏻💍🔒🐶 🌎Traveler 📺 Love-Funny-videos💙 🏋🏻‍♀️Fitness-healthy-life🥦 🎮Gamer-PLAY5💻 👘Geek-DemonSlayer🧛🏽‍♂️
     location: "United States"
-    followers: 67348
-    engagement: 136
-    commentsToLikes: 0.046982
-    id: ck14kywnrs0ti0i19aguram4x
+    followers: 70905
+    engagement: 457
+    commentsToLikes: 0.039813
+    id: ck6u5ik539u9w0j71yqozxtfh
     verified: false
-    hashtags: "#energy, #magic"
+    hashtags: "#christmas, #instadaily, #photooftheday, #instabeard"
+  - username: "ro54d"
+    fullname: >-
+      Rodrigo Garduño
+    bio: >-
+      Founder of 54D Program High performance Coach. Miami📍 Former Professional soccer player. ⬇️54D-On line Program click here
+    location: "United States"
+    followers: 1062024
+    engagement: 135
+    commentsToLikes: 0.161889
+    id: ck5cf0o7tm3c40i11cmvoo431
+    verified: false
+    hashtags: "#fitnessmotivation, #latinosennewyork, #miamifit, #latino"
+  - username: "brookeprettyass"
+    fullname: >-
+      Brooke by the book.
+    bio: >-
+      God’s child. 😇 FAITH over fear. I’m glad you’re here 👽 Owner: @brookscarecollection < DM 4 products Bartender/Mixologist 🍾🍸🥃🍹 ￼￼￼serious inquires📥📧🔌
+    location: "United States"
+    followers: 7664
+    engagement: 206
+    commentsToLikes: 0.073815
+    id: ck55mv25x4vsh0i11qyowlxob
+    verified: false
+    hashtags: "#fitnessmotivation, #selfie, #diyvideos, #luxurylifestyle"
+  - username: "peanuttandjelly"
+    fullname: >-
+      Peanutt&Jelly|Love|Food|Travel
+    bio: >-
+      Featured on @cosmopolitan & @thrillist 📍Miami | ✈️ 📧DM or Peanuttandjelly@gmail.com 🎵670K TikTok 📸Sergio & Libna 📖 Proverbs 3:5-6
+    location: "United States"
+    followers: 30124
+    engagement: 1114
+    commentsToLikes: 0.048390
+    id: ck5hrx6kuvmso0i1191172krc
+    verified: false
+    hashtags: "#devourpower, #peanuttandjelly, #miamifood, #hungryaf"
+  - username: "suni_wellness"
+    fullname: >-
+      Health✖️Mind ✖️Spirit➕Patriot
+    bio: >-
+      @coach_suni 🇺🇸Army Vet |Airborne ⁣ ⁣ ⁣ God First
+    location: "United States"
+    followers: 28941
+    engagement: 76
+    commentsToLikes: 0.026824
+    id: ck8sye6igkk990j7820ei4dwd
+    verified: false
+    hashtags: "#suniwv, #labestiatribe, #onlinecoach, #letsgo"
 ---

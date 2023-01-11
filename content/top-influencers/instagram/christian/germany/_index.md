@@ -1,120 +1,120 @@
 ---
-title: Top 10 Christian Instagram Influencers In Germany in 2023
+title: Top 10 Christian Instagram Influencers In Germany In 2023
 description: >-
-  Find top christian Instagram influencers in Germany in 2023. Most popular hashtags: #blogger #schwangerschaft #germany.
+  Find top christian Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #summervibes #happy #fun.
 platform: Instagram
-hits: 692
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 692 Instagram influencers like this in Germany for you to work with.
+hits: 543
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 543 Instagram influencers like this in Germany for you to collaborate.
 profiles:
-  - username: "christian_ehrnsperger"
-    fullname: >-
-      Christian
-    bio: >-
-      👔 Fashion | 💪🏼 Fitness |🕴️Lifestyle 👑 Jesus / Christianity 🙏 Romans 8:10 📌 @almighty_yeshua 📨 Christian@Ehrnsperger.de
-    location: "Germany"
-    followers: 35465
-    engagement: 128
-    commentsToLikes: 0.071991
-    id: ckaou6tdrz1xz0i78t67dgziv
-    verified: false
-    hashtags: "#classy, #muskelaufbau, #classydapper, #gentleman"
   - username: "orangello_i30n"
     fullname: >-
       Christian
     bio: >-
-      ◾️🥇𝐇𝐲𝐮𝐧𝐝𝐚𝐢 𝐢𝟑𝟎𝐍 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞🥇◾️ ◾️Partner: @liquid_elements_original◾️ ❌10% Rabatt mit dem Code: Orangello ❌ ◾️🙋🏻‍♂️Privat: @christian_koe92 ◾️
+      ◾️ 🙋🏻‍♂️Privat: @christian_koe92 ◾️ ◾️Partner: @liquid_elements_original◾️ ❌10% Rabatt mit dem Code: Orangello ❌
     location: "Germany"
-    followers: 15808
-    engagement: 1266
-    commentsToLikes: 0.014727
+    followers: 16502
+    engagement: 1476
+    commentsToLikes: 0.010035
     id: ck0ttjke7307t0i191f13xbem
     verified: false
-    hashtags: ""
-  - username: "nataschalike"
+    hashtags: "#du, #germany, #remus, #orange"
+  - username: "christianlindner"
     fullname: >-
-      NATASCHA | FASHION | BEAUTY
+      Christian Lindner
     bio: >-
-      📍 Cologne | Bonn 💍 Wifey @christian.like ✉️ nataschalike@gmail.com
+      🏢 Bundesminister der Finanzen 🤳Chef von @fdp. 🎧 Podcast @spotify: CL+. 📲 christian.lindner@fdp.de 📍 Berlin
     location: "Germany"
-    followers: 16371
-    engagement: 735
-    commentsToLikes: 0.148479
-    id: ck6twye92ut430j71omy8t8ai
-    verified: false
-    hashtags: "#hellobodypinktober, #awareness, #naturalisglamorous, #gewinnspiel"
-  - username: "dasglueckskind_de"
-    fullname: >-
-      Das Glückskind - Julia Maria
-    bio: >-
-      🙋🏼‍♀️ Julia Maria Klein #instamama 🙋🏻‍♂️ Christian 🙋🏼 Johan 11/2013 🏡 200 Jahre altes #Traumhaus 🎶 @mama_musik 🌳 🐩🐈🐰🐔... 🔴 Das Glückskind YouTube
-    location: "Germany"
-    followers: 26190
-    engagement: 399
-    commentsToLikes: 0.103594
-    id: ck14kchnrouab0i19kvg2ke19
-    verified: false
-    hashtags: "#traumhaus, #familienalltag, #applausf, #lebenmitkind"
+    followers: 364919
+    engagement: 216
+    commentsToLikes: 0.035443
+    id: ck0twafkcemez0i19ne6t0j6h
+    verified: true
+    hashtags: "#deutschlandticket, #commonframework, #emsland, #ukraine"
   - username: "goethes_welt"
     fullname: >-
       Goethes Welt
     bio: >-
-      Sophia 👱🏻‍♀️& Christian🧔🏻📸 Goethe SL (4)🐴 Deutsches Reitpony Chevalior (5 Monate) 🦄 Westfale #Hesselteich #deutschesreitpony #jungespferd #westfale
+      Sophia 👱🏻‍♀️& Christian🧔🏻📸 Goethe SL (5)🐴 Chevalior (1 ) 🦄 Hugo (6)🐶 Paul (5) 🐶 lennox (🐶🌈4) Lotte (12 Wochen) 🐶 🇩🇪#ponypower #ponyrider
     location: "Germany"
-    followers: 31468
-    engagement: 877
-    commentsToLikes: 0.025682
+    followers: 33792
+    engagement: 638
+    commentsToLikes: 0.089014
     id: ck0w1joczjoig0i196zew7juz
     verified: false
-    hashtags: "#pferd, #pony, #pferdeblogger, #horsepower"
+    hashtags: "#herzenspferd, #lovemypony, #buckskin, #goldpony"
+  - username: "hello.its.me.anni"
+    fullname: >-
+      Anni
+    bio: >-
+      Lifestyle • Mom • Fashion ↑ Daily Story’s ♡ Wifey of @hello.its.me.christian ✨Das Leben ist zu kurz um wenig Nudeln zu essen ✨
+    location: "Germany"
+    followers: 40213
+    engagement: 587
+    commentsToLikes: 0.023814
+    id: ck6u18ii2k8hh0j71aer6lw4s
+    verified: false
+    hashtags: "#gl, #happy, #outfitlook, #sonnenblumenfeld"
   - username: "vonguteneltern"
     fullname: >-
       Von guten Eltern
     bio: >-
       Hebammenwissen & Elterngedanken von Anja & Christian Gaca aus Berlin Eltern von drei Töchtern & einem Sohn #vonguteneltern & Neues auf dem Blog ⬇️
     location: "Germany"
-    followers: 25218
-    engagement: 270
-    commentsToLikes: 0.090045
+    followers: 26142
+    engagement: 261
+    commentsToLikes: 0.072362
     id: ck5zkwmitkase0i142otqr8xu
     verified: false
-    hashtags: "#geburt, #vonguteneltern, #hebamme, #wochenbett"
-  - username: "hello.its.me.anni"
-    fullname: >-
-      Anni
-    bio: >-
-      🤍 Lifestyle & Fashion 🤍 Daily Story 🤍 Bride to be 2021 👰🏻@hello.its.me.christian
-    location: "Germany"
-    followers: 22903
-    engagement: 266
-    commentsToLikes: 0.191784
-    id: ck6u18ii2k8hh0j71aer6lw4s
-    verified: false
-    hashtags: "#germanblogger, #franziskaelea, #inspo, #ootdguide"
+    hashtags: "#elternsein, #hebamme, #linkinbio, #geburt"
   - username: "christianfeist_official"
     fullname: >-
       Christian Feist
     bio: >-
       https://christianfeist.net
     location: "Germany"
-    followers: 22866
-    engagement: 502
-    commentsToLikes: 0.017169
+    followers: 21329
+    engagement: 498
+    commentsToLikes: 0.020764
     id: ckaoyfeyyhanv0i789q1vb8xo
     verified: true
-    hashtags: "#habblasenanderhand, #ichbinjoda, #hastehasshastenix, #frohesneue"
-  - username: "thedronebook"
+    hashtags: "#kauftdatteil, #dasdingis3malinsfeuergefallen, #lockdownlyrik, #krass"
+  - username: "c.karsunke"
     fullname: >-
-      thedronebook
+      Chris | Immomakler & Model
     bio: >-
-      thedronebook by Christian Wilhelm 📷🎞 Aerial Photographer & Videographer Let‘s talk: info@thedronebook.com 👇🏼 Best Mountain Lakes in the Alps 🏞🏕
+      Creating my own #positive world 🚀 • ❤️ @alinasncr 🏠 @finehouses.de 📍 Frankfurt am Main ✉️ christian-karsunke@web.de
     location: "Germany"
-    followers: 9286
-    engagement: 1592
-    commentsToLikes: 0.074365
-    id: ckap9qll5t95k0i7876yapud9
+    followers: 124662
+    engagement: 389
+    commentsToLikes: 0.027300
+    id: ck5q77e5a09qi0i11vlj8998h
     verified: false
-    hashtags: "#paradise, #resortsmagazine, #ladigue, #optoutside"
+    hashtags: "#goodvibes, #fitness, #menwithstyle, #sun"
+  - username: "liebeslauftagebuch"
+    fullname: >-
+      Liebes Lauftagebuch
+    bio: >-
+      ❤ #LiebesLauftagebuch 👟 @brooksrunningde RunHappyTeam 🍌 #brooksrunhappyteam 💪🏽 @brandlnutrition "christian10" 🕧 10k • 35:55 🕜 21k • 1:22 🕞 42k • 3:06
+    location: "Germany"
+    followers: 8860
+    engagement: 1853
+    commentsToLikes: 0.031996
+    id: ck8tc3uchy6mo0j782n7o43sg
+    verified: false
+    hashtags: "#nevernotrunning, #runnerslife, #runlikeapro, #laufen"
+  - username: "sunita_ramic"
+    fullname: >-
+      𝗦𝗨𝗡𝗜𝗧𝗔 𝗙𝗔𝗦𝗛𝗜𝗢𝗡𝗕𝗟𝗢𝗚𝗚𝗘𝗥
+    bio: >-
+      ★ 𝓕𝓻𝓮𝓮 𝓼𝓹𝓲𝓻𝓲𝓽 & Mama #alittlebitof_sunita 📸 all photos made @christian_schuetz
+    location: "Germany"
+    followers: 27512
+    engagement: 155
+    commentsToLikes: 0.021469
+    id: ckap9hjt1sn790i78dzy8ahiq
+    verified: false
+    hashtags: "#italia, #pesaro, #familytime, #summervibes"
   - username: "type.arno"
     fullname: >-
       Arno 📸
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.025889
     id: ck0u7x94o60l90i19bw2xctg9
     verified: false
-    hashtags: "#kindermode, #shooting, #kidsmodel, #styleforkids"
+    hashtags: "#influence, #piano, #kidsmodel, #cool"
 ---

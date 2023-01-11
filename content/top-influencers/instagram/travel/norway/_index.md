@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Norway in 2023
+title: Top 10 Travel Instagram Influencers In Norway In 2023
 description: >-
-  Find top travel Instagram influencers in Norway in 2023. Most popular hashtags: #norway #norge #norwegian.
+  Find top travel Instagram influencers in Norway in 2023. Most popular hashtags: #visitnorway #norge #norway.
 platform: Instagram
-hits: 270
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 270 Instagram influencers like this in Norway for you to collaborate.
+hits: 157
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 157 Instagram influencers like this in Norway for you to contact.
 profiles:
-  - username: "world.with.you"
+  - username: "kubajszcom"
     fullname: >-
-      LARA ღ RUI • Travel|Positivity
+      Jakub Fišer
     bio: >-
-      ➳ #travelcouple made in📍#Azores ⋆ Lara ＆ Rui ⋆ ❥ Exploring Life ❥ 𝗡𝗼𝘄 ✈︎ 🇵🇹 @visitazores
+      ꜰʀᴇᴇʟᴀɴᴄᴇ ᴘʜᴏᴛᴏɢʀᴀᴘʜᴇʀ #landscape #traveling #automotive 📷 : #𝘚𝘰𝘯𝘺𝘈𝘭𝘱𝘩𝘢 📺 𝘠𝘛: 𝘬𝘶𝘣𝘢𝘫𝘴𝘻𝘤𝘰𝘮 👫🏼: @katerinahrnova 📩: 𝘬𝘶𝘣a𝘫𝘴𝘻@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 ⬇️ eshop ⬇️
     location: "Norway"
-    followers: 11391
-    engagement: 1356
-    commentsToLikes: 0.089375
-    id: ck5q5xniiv1p80i11jw3oo4mz
+    followers: 46386
+    engagement: 300
+    commentsToLikes: 0.011982
+    id: ck0w4dnhey2fv0i19m896ikvg
     verified: false
-    hashtags: "#couplesgoals, #relationshipgoals, #stpeterspool, #visitazores"
+    hashtags: "#ceskakrajina, #dreamchasernorway, #newdefender, #swedishlapland"
   - username: "marensolem"
     fullname: >-
-      MAREN SOLEM 🇳🇴 Norway
+      Maren Solem🇳🇴 Norway
     bio: >-
-      mountains, exploring, travel, gym & outdoors. Life is fun🌾 ✉️ solemmaren@gmail.com
+      mountains, exploring, travel, gym & outdoors. Life is fun🌾
     location: "Norway"
-    followers: 8127
-    engagement: 1797
-    commentsToLikes: 0.068003
+    followers: 11220
+    engagement: 1227
+    commentsToLikes: 0.155888
     id: ck14jdqjdjty60i194xbed60e
     verified: false
-    hashtags: "#hjelle, #mosekleivhornet, #sunnm, #norway"
-  - username: "sol.and.pepper"
-    fullname: >-
-      WELTENBUMMLER 🚌💛
-    bio: >-
-      🌞Julie, Moritz, Sol & Pepper📍#portugal 🤰🏼Travelbaby 2 on the way 🎙Podcast: Socken in Sandalen ✉️sap@all-in.social 📔@mein_impressum 📸 Presets ↴
-    location: "Norway"
-    followers: 184548
-    engagement: 1193
-    commentsToLikes: 0.021325
-    id: ck6twpggbtcct0j71g76zp128
-    verified: false
-    hashtags: "#mamablog, #preggobelly, #pregnant, #camperliving"
-  - username: "evaciau"
-    fullname: >-
-      𝐓𝐫𝐚𝐯𝐞𝐥𝐢𝐧𝐠 𝐭𝐢𝐩𝐬 | 𝐀𝐜𝐭𝐢𝐯𝐞 𝐥𝐢𝐟𝐞
-    bio: >-
-      📍Norway Exploring new places | Traveling tips🏔 I travel all over NORWAY🇳🇴 Snowboarder🏂 Airbnb - get 35$ for your first trip⬇️
-    location: "Norway"
-    followers: 9511
-    engagement: 823
-    commentsToLikes: 0.089464
-    id: ck5hms9qqmj080i11ub1ub0mk
-    verified: false
-    hashtags: "#norgefoto, #norwegiannature, #ut, #fjordsofnorway"
-  - username: "kamilla_thorsen"
-    fullname: >-
-      • KAMMY •
-    bio: >-
-      My fashion, style & travels 🌟 Stavanger, Norway 🇳🇴 Plant based 💫
-    location: "Norway"
-    followers: 13980
-    engagement: 709
-    commentsToLikes: 0.114025
-    id: ckaosvp25t81a0i786mqcaghb
-    verified: false
-    hashtags: "#benakd, #mylooks, #stylediaries, #oslo"
-  - username: "michellebettina"
-    fullname: >-
-      🦋Storyteller🦋 📍Norway
-    bio: >-
-      ✈️ Travel 🌱 Healthy lifestyle 🏋🏼‍♀️ Fitness 👑 Private marketing consultant 🏦 Marketing Real Estate Collab: michelle@cconsult.no
-    location: "Norway"
-    followers: 39947
-    engagement: 481
-    commentsToLikes: 0.063986
-    id: ckaoz3jbjk7ne0i78aulzu91d
-    verified: false
-    hashtags: ""
+    hashtags: "#giveaway, #trondheim, #geirangerfjorden, #happynewyear"
   - username: "siljekgs"
     fullname: >-
       Silje Kristine G. Storhaug
     bio: >-
       🕊 Travel • Fashion • Food • Nails • Makeup 📍Oslo,Norway 💌 siljekgstorhaug@gmail.com
     location: "Norway"
-    followers: 92597
-    engagement: 408
-    commentsToLikes: 0.178310
+    followers: 92513
+    engagement: 376
+    commentsToLikes: 0.169956
     id: ck15rovt18z6a0i195vmdkg8o
     verified: false
-    hashtags: "#instaphoto, #photooftheday, #me, #fashion"
-  - username: "juliebjanes"
+    hashtags: ""
+  - username: "ingridivarson"
     fullname: >-
-      Julie Bjanes | NORWAY
+      Ingrid Suhr Olsen
     bio: >-
-      👨‍👩‍👧 Family first 🤰🏽 🤸🏽‍♂️Personal Trainer 🏆Doing all the things they said I couldn’t ⛰Active lifestyle=makes me happy 🌍 travel
+      Norwegian living in Copenhagen🇳🇴🇩🇰 Proud dog-mom of Leopold 🐶 Welcome to my world of: Fashion👗 Interior🏡 Travel✈️ ✉️ ingridivarson@hotmail.com
     location: "Norway"
-    followers: 15128
-    engagement: 336
-    commentsToLikes: 0.137986
-    id: ck15qhvuk2x4x0i198u4yylk7
+    followers: 14818
+    engagement: 251
+    commentsToLikes: 0.059799
+    id: ck0vwbsv4szr10i192bnfjexo
     verified: false
-    hashtags: "#outdoorlife, #mother, #training, #mittfriluftsliv"
+    hashtags: "#girlstraveleurope, #tuscany, #elegantwoman, #zarawoman"
+  - username: "maritaystevik"
+    fullname: >-
+      Marita Ystevik
+    bio: >-
+      Location, Oslo Digital content creator ♡ k Health account: @workoutwithystevik Fashion, beauty, lifestyle, coffee, travel, fun.
+    location: "Norway"
+    followers: 18258
+    engagement: 185
+    commentsToLikes: 0.118382
+    id: ck5c2uz4by1ib0i11zquptmde
+    verified: false
+    hashtags: "#norgesferie, #reels, #minmote, #sommerkjole"
   - username: "damianpt.no"
     fullname: >-
       🇵🇱•Damian•🇳🇴
     bio: >-
-      | Personal Trainer | Photographer @damianphoto.no | | Brand Building Marketing | Traveler🌏 @kevkevoslo #Love @Piccojack
+      | Personal Trainer | Photographer @damianphoto.no | Traveler🌏 Founder of GET-UP @kevkevoslo #Love @Piccojack
     location: "Norway"
-    followers: 199179
-    engagement: 414
-    commentsToLikes: 0.015632
+    followers: 197186
+    engagement: 432
+    commentsToLikes: 0.016267
     id: ck5c3emjez64i0i11f7cce85o
     verified: false
-    hashtags: "#roadtrip, #beautiful, #motivation, #oslove"
+    hashtags: "#menstyle, #motivation, #oslo, #piccojack"
+  - username: "camillajohannesenn"
+    fullname: >-
+      CAMILLA JOHANNESEN | YOUTUBER
+    bio: >-
+      🌍 NYC Content Creator | Made in Norway 🚖 Travel Tips & Life in New York & Veganism 🎥 Youtube: Camilla Johannesen ↓ BLOG ⋅ VLOGS ⋅ TRAVEL GUIDES + ↓
+    location: "Norway"
+    followers: 6043
+    engagement: 614
+    commentsToLikes: 0.102643
+    id: ck8t075i2r1gc0j78875apnci
+    verified: false
+    hashtags: "#stthomas, #photooftheday, #usvi, #flor"
+  - username: "saranilsen"
+    fullname: >-
+      Sara Benedikte Nilsen 👸🏼
+    bio: >-
+      Founder of @msmissy Fitness|Travel| Ex-politician Tv | Model | Entrepreneur ♡ Norwegian🇳🇴 in 🇪🇸 ♡sarabenedikte@hotmail.com📩
+    location: "Norway"
+    followers: 400035
+    engagement: 179
+    commentsToLikes: 0.024216
+    id: ck5pvrpgyjbjp0i11lwrfwx8u
+    verified: false
+    hashtags: "#ibiza, #uae, #beach, #fitgirl"
   - username: "ftbletsas"
     fullname: >-
       Ευτύχης Μπλέτσας
     bio: >-
-      Happy Traveller 🎥 Filmmaker 📺 TV Host 🎬 ΥouTuber ▶️ Travel vlogger from Greece 🇬🇷 Countries count 81
+      Happy Traveller 🎥 Filmmaker 📺 TV Host 🎬 ΥouTuber ▶️ Travel vlogger from Greece 🇬🇷 Countries count 89
     location: "Norway"
-    followers: 219954
-    engagement: 473
-    commentsToLikes: 0.013251
+    followers: 298333
+    engagement: 856
+    commentsToLikes: 0.019236
     id: ck5zmitrfmnga0i14wittnlwk
     verified: true
-    hashtags: "#happytraveller, #gluten, #no, #healthysnacks"
+    hashtags: "#kalavrita, #25, #1821, #ochimountain"
+  - username: "andreabadendyck"
+    fullname: >-
+      ANDREA BADENDYCK
+    bio: >-
+      🦋 26 y’o Norwegian influencer 👩🏼‍💻 Marketing student ✨ Fashion, travel, fitness & healthy foods 💌 Contact: andreabadendyck.blogg@hotmail.com
+    location: "Norway"
+    followers: 132297
+    engagement: 213
+    commentsToLikes: 0.041342
+    id: ck6uedlcnqaxu0j7143097j9w
+    verified: true
+    hashtags: "#visitnorway, #betakarotengold, #goodforme, #lofoten"
 ---

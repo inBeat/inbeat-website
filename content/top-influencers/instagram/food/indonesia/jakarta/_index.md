@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Jakarta in 2023
+title: Top 10 Food Instagram Influencers In Jakarta In 2023
 description: >-
-  Find top food Instagram influencers in Jakarta in 2023. Most popular hashtags: #dirumahaja #food #indonesia #instafood.
+  Find top food Instagram influencers in Jakarta in 2023. Most popular hashtags: #jktfoodbang #kulinerjakarta #foodie #instafood.
 platform: Instagram
-hits: 121
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 121 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
+hits: 110
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 110 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
 profiles:
-  - username: "msglowbeautyjemimaskincare"
+  - username: "stevenwang27"
     fullname: >-
-      MS GLOW BEAUTY_Jemimaskincare
+      STEVEN WANG | LIFESTYLE & FOOD
     bio: >-
-      100% ORI MS GLOW BEAUTY BPOM- HALAL AMAN BUSUI & BUMIL 📲KONSUL/ORDER WA 087844042000 ✈:JNE,POS 🚘:COD/Go Shop/GoSend Free ongkir kuta utara BALi
+      📮: dearstevenwang@gmail.com Co-Founder of @kaiaproject @dropzilla.id @castor.apparel ! More TIPS at TikTok👇🏻 #SOLATIPS SQUAD
     location: "Indonesia"
-    followers: 59852
-    engagement: 38
-    commentsToLikes: 0.000079
-    id: ck0txcc0ripk50i19z561zfbi
+    followers: 80546
+    engagement: 131
+    commentsToLikes: 0.038242
+    id: ck13agjkvqa6t0i199p48mj6z
     verified: false
-    hashtags: "#bali, #free, #facialwash, #sunscreenspray"
-  - username: "karina.suwandi81"
+    hashtags: "#jktinfluencer, #tasty, #babyboy, #lifestyle"
+  - username: "syaimasalsabila"
     fullname: >-
-      Karina Suwandi
+      Syaima Salsabila🕊
     bio: >-
-      A food DJ
+      كن خيرًا و سيعو د الخير لك Endorsement: 👉🏼 @prabmanagement (use the ‘@‘) 👉🏼 @syaimasm Business enquiries 📩 syaimasm1096@gmail.com APARTEMENT TOUR!👇🏿
     location: "Indonesia"
-    followers: 60848
-    engagement: 75
-    commentsToLikes: 0.041766
-    id: ck0w0w17kgb130i198g0mimti
+    followers: 448981
+    engagement: 479
+    commentsToLikes: 0.028531
+    id: ckap7tmljlid70i78ldgtldty
     verified: true
-    hashtags: "#ketofood, #spreadlove, #rillettes, #repost"
-  - username: "yundafitriasa"
+    hashtags: "#dirumahaja, #patunganuntukberbagithr, #passthespraychallenge, #videocallbete"
+  - username: "matteoguerinoni33"
     fullname: >-
-      Yundafitriasa❤ Beauty Giveaway
+      Matteo Guerinoni One of You✊🏁
     bio: >-
-      Bussiness Inquiries 📲 DM ☆ Mom of 🧒Rei,👦 Rez, 👧Revi ♡ Former #EmiratesCabinCrew ❗Don't COPY my reviews❗ ♡ #lemonsquad 🍋 #IBC #BFC
+      I love The Lord Jesus Christ #nevergiveup @msgpofficial @ilgelatodimatteo @betamotorcycleindonesia Work purposes cp Anna: +6281291110953
     location: "Indonesia"
-    followers: 3970
-    engagement: 531
-    commentsToLikes: 0.256572
-    id: ck9wh3g9ww2of0j78upn53tzc
-    verified: false
-    hashtags: "#beautyreview, #mizzu17xyundafitriasa, #giveaway, #mizzugiveaway"
+    followers: 80029
+    engagement: 100
+    commentsToLikes: 0.032207
+    id: ck6tnnenya6wp0j71g4adokug
+    verified: true
+    hashtags: "#maxnanni, #speed, #matteoguerinoni, #fullthrottle"
   - username: "jktfoodmap"
     fullname: >-
       Kelvin Tan
     bio: >-
-      Jakarta Food Map #jktfoodmap #favoritjfm 🙇‍♂️🙏Thanks for following 🚫 No Repost sebelum 24jam ⚠️ Follow, Tag & Mention
+      Jakarta Food Map #jktfoodmap @myname.kelvin 🙇‍♂️🙏Thanks for following Email for Invitation / Endorsement
     location: "Indonesia"
-    followers: 25774
-    engagement: 232
-    commentsToLikes: 0.128353
+    followers: 125165
+    engagement: 49
+    commentsToLikes: 0.037240
     id: ck6u7wnpbo3490j71ix0a5xzx
     verified: false
-    hashtags: "#jktfoodmap, #thegaring, #favoritjfm, #dirumahbarengaice"
-  - username: "nrfitriayn"
-    fullname: >-
-      Fitri
-    bio: >-
-      💡Beauty | Lifestyle | Food 📍 Jakarta, Indonesia 🛍🛒Voucher "SBN04B069" 50k @sociolla
-    location: "Indonesia"
-    followers: 24300
-    engagement: 370
-    commentsToLikes: 0.051341
-    id: ck9wgq5kkuhsi0j78xrn6kvr3
-    verified: false
-    hashtags: "#likeforlikes, #serudirumah, #ngepopmie, #like4likes"
+    hashtags: "#jktfoodmap, #jfmbogor, #jfmjakut, #jfmjakpus"
   - username: "nitalanaf"
     fullname: >-
-      nita || food blogger
+      nita || food blogger jkt
     bio: >-
       Food Blogger Jakarta - Indonesia 🇮🇩 recipe, food drink review, culinary, & traveling twitter: nitalanaf
     location: "Indonesia"
-    followers: 10018
-    engagement: 302
-    commentsToLikes: 0.113842
+    followers: 10043
+    engagement: 275
+    commentsToLikes: 0.115340
     id: ck0vybsbl37810i199r7boqg2
     verified: false
-    hashtags: "#pangansehat, #foodbloggerjakarta, #foodpics, #panganbijak"
+    hashtags: "#foodgram, #masakanpadang, #foodie, #foodshare"
   - username: "yourabellv"
     fullname: >-
       Yourabellv
     bio: >-
-      Influencer - Mom - Lifestyle - Beauty - Fashion - Parenting - Food 🌟 Jakarta
+      Influencer : Mom - Lifestyle - Beauty - Healthy - Parenting - Fashion - Food 🌟 Jakarta
     location: "Indonesia"
-    followers: 120729
-    engagement: 57
-    commentsToLikes: 0.125213
+    followers: 115718
+    engagement: 102
+    commentsToLikes: 0.051665
     id: ck14hv8d2caiv0i19hqgs8fmd
     verified: false
-    hashtags: "#kidsootd, #stayathome, #giveaway, #yourabellvreview"
+    hashtags: "#yourabellvmomreview, #carapintarmam, #yourabellv, #toyskingdom"
   - username: "luminousdreamsphotoworks"
     fullname: >-
       Luminousdreamsphotoworks
     bio: >-
       Potrait . Beauty . Commercial Photographer, Traveller, Food Lover Jakarta Indonesia
     location: "Indonesia"
-    followers: 20865
-    engagement: 316
-    commentsToLikes: 0.056942
+    followers: 20622
+    engagement: 326
+    commentsToLikes: 0.049679
     id: ck5zj65d4h0hy0i148ptafesh
     verified: false
-    hashtags: ""
-  - username: "misshotrodqueen"
+    hashtags: "#fashionstylist, #swagger, #followme, #beautymakeup"
+  - username: "perutkarets"
     fullname: >-
-      Ade Putri Paramadita 🍒
+      Jerie Yanti
     bio: >-
-      Culinary Storyteller ✨ Beer. Fixed gear. CrossFit. Business: Mad +6282228881170 @smescoindonesia PR @ACMIID Mommy @BEERgembira
+      Food Recommendations, Food lovers 📍Jakarta ✉️ DM For Inquiry 👶 : @joiceathaliaa
     location: "Indonesia"
-    followers: 40686
-    engagement: 238
-    commentsToLikes: 0.028461
-    id: ck15rgahn7sa40i19frpr1n77
+    followers: 261434
+    engagement: 158
+    commentsToLikes: 0.034445
+    id: ck0vx02emwg7o0i19hmphx03i
     verified: false
-    hashtags: "#foodpics, #traditionalfood, #foodstagram, #foodie"
-  - username: "jktfoodead"
+    hashtags: "#fruits, #kulinerindonesia, #bakmi, #buahimport"
+  - username: "jktfoodseeker"
     fullname: >-
-      Kuliner Jakarta // Food & Eat
+      JKTFoodSeeker
     bio: >-
-      📷 Using Fujifilm + iphone STOP DIET - ENJOY LIFE #jktfoodead #foodlova Managed by @yohwilliam and @sylviatamsir
+      Jakarta Based Food Reviewer @mhfadhlan & @rizkyabi12 #jktfoodseeker Invitation / Endorsement 📱 Direct Message 📧 jktfoodseeker@gmail.com
     location: "Indonesia"
-    followers: 49559
-    engagement: 164
-    commentsToLikes: 0.073914
-    id: ck5hej6ert6gv0i11elapur3b
+    followers: 56755
+    engagement: 98
+    commentsToLikes: 0.276531
+    id: ck14iiv6tfmku0i19drkzqpqt
     verified: false
-    hashtags: "#hamperslebaran, #food, #jktfoodies, #jktfoodblogger"
+    hashtags: "#beautifulcuisines, #jktfoodseeker, #jktfooddestination, #cemilanenak"
+  - username: "synthiatjipto"
+    fullname: >-
+      Synthia ☀️ Jkt Food Travel
+    bio: >-
+      📍Jakarta, ID Food Stylist & Photographer 📸 by @syndrunomy with Canon EOS R DM for enquiry #syndru
+    location: "Indonesia"
+    followers: 45074
+    engagement: 111
+    commentsToLikes: 0.207820
+    id: ck9wd2udwdtlo0j78b6cch4zo
+    verified: false
+    hashtags: "#asmr, #buzzfeedfood, #f52grams, #syndrufairmont"
 ---

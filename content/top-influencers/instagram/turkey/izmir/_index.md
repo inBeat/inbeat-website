@@ -1,22 +1,22 @@
 ---
-title: Top 10 Instagram Influencers In Izmir in 2023
+title: Top 10 Instagram Influencers In Izmir In 2023
 description: >-
-  Find top Instagram influencers in Izmir in 2023. Most popular hashtags: #outfit #bornova #bucayikesfet.
+  Find top Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #photooftheday #amatormusic.
 platform: Instagram
-hits: 1646
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 1646 Instagram influencers like this in Izmir, Turkey for you to collaborate.
+hits: 1473
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 1473 Instagram influencers like this in Izmir, Turkey for you to work with.
 profiles:
-  - username: "dogatincer"
+  - username: "melisnalbantlar"
     fullname: >-
-      Doğa Atınçer
+      Melis Nalbantlar
     bio: >-
-      İzmir
+      •izmir
     location: "Turkey"
-    followers: 5770
-    engagement: 636
-    commentsToLikes: 0.032379
-    id: ck9we6xaliw1q0j78fzjn2bhw
+    followers: 68036
+    engagement: 153
+    commentsToLikes: 0.013012
+    id: ck6typsff55if0j71fnvqx6mb
     verified: false
     hashtags: ""
   - username: "sudedora"
@@ -25,22 +25,10 @@ profiles:
     bio: >-
       • İzmir
     location: "Turkey"
-    followers: 5346
-    engagement: 1057
-    commentsToLikes: 0.001905
+    followers: 4997
+    engagement: 1049
+    commentsToLikes: 0.003540
     id: ck8wehmhhe2bo0j78rwqa66cs
-    verified: false
-    hashtags: ""
-  - username: "melisnalbantlar"
-    fullname: >-
-      
-    bio: >-
-      •izmir
-    location: "Turkey"
-    followers: 68963
-    engagement: 153
-    commentsToLikes: 0.012179
-    id: ck6typsff55if0j71fnvqx6mb
     verified: false
     hashtags: ""
   - username: "burkartal"
@@ -49,82 +37,94 @@ profiles:
     bio: >-
       İzmir
     location: "Turkey"
-    followers: 32475
-    engagement: 586
-    commentsToLikes: 0.034196
+    followers: 31286
+    engagement: 638
+    commentsToLikes: 0.029986
     id: ckf5wudont8z80j23od25fpzy
     verified: false
-    hashtags: "#mu, #ac, #voicestage, #gitar"
-  - username: "oglakkiziofficial"
-    fullname: >-
-      izmir
-    bio: >-
-      @izmirsocialhelper @bugunizmirdeneyesek 📬Tanıtım/Çekiliş:DM&Mail KAPADOKYA TATİLİMİZ YAYINDA.👇🏻 Abone olmayı unutmayın.❤
-    location: "Turkey"
-    followers: 36010
-    engagement: 340
-    commentsToLikes: 0.019028
-    id: ck8t9357amsqf0j781t2ajfbr
-    verified: false
-    hashtags: "#bostanl, #c4c, #comment4comment, #followback"
+    hashtags: "#voicestage, #evdekal, #gitar, #sarkilardahepsen"
   - username: "gorkemortulll"
     fullname: >-
       Görkem
     bio: >-
       Snapchat: Gorkemortul İSTANBUL/İZMİR
     location: "Turkey"
-    followers: 12075
-    engagement: 918
-    commentsToLikes: 0.080773
+    followers: 11902
+    engagement: 922
+    commentsToLikes: 0.080554
     id: ck9wem0rtkuzd0j78dg4lju49
     verified: false
     hashtags: "#tb, #de, #evrim"
-  - username: "sila.ozsevinc"
-    fullname: >-
-      Sıla Özsevinç
-    bio: >-
-      9 Eylül Üniversitesi Fizik Tedavi ve Rehabilitasyon Yüksekokulu Adana-İzmir
-    location: "Turkey"
-    followers: 2502
-    engagement: 4272
-    commentsToLikes: 0.205946
-    id: ck133vnnhuarg0i19hcd79cmd
-    verified: false
-    hashtags: ""
   - username: "xzeynepcegilx"
     fullname: >-
       ZEYNEP ÇEĞİL
     bio: >-
-      Sivas-İzmir NHMTAL|| Çocuk gelişimi ve eğitimi 🇹🇷𐱅𐰇𐰼𐰚🇹🇷
+      "17 Sivas-İzmir NHMTAL|| Çocuk gelişimi ve eğitimi 🇹🇷𐱅𐰇𐰼𐰚🇹🇷
     location: "Turkey"
-    followers: 2369
-    engagement: 1757
-    commentsToLikes: 0.217243
+    followers: 2321
+    engagement: 1808
+    commentsToLikes: 0.193393
     id: ckf5ufxy3krhu0j23hoso4wpo
     verified: false
     hashtags: ""
-  - username: "muhendisbirkadin"
+  - username: "cocuklada_gezilir"
     fullname: >-
-      Ayça Aydın 🧿
+      Aysun
     bio: >-
-      📌Lifestyle | Food | Travel | Beauty 👷🏻‍♀️İnşaat Mühendisi 👩🏻‍💻 Inf.Mark. & Event Hosting 📍İzmir Pr&Mekan Tanıtımları: Mail/Dm
+      Herkes gezer ama iki çocukla gezmek marifettir.. Burak&Doruk yollardayiz.. 🛣 👨‍👩‍👧‍👧 🛤 🏠 İzmir
     location: "Turkey"
-    followers: 78560
-    engagement: 269
-    commentsToLikes: 0.217945
-    id: ck8t3fiwe32ch0j786o58wssv
+    followers: 63766
+    engagement: 290
+    commentsToLikes: 0.480056
+    id: ck6ue7txbpbni0j71ll94hflt
     verified: false
-    hashtags: "#bucayikesfet, #izmirblogger, #kahvalt, #izmirdeyasam"
-  - username: "iskenderyuksell"
+    hashtags: "#letsgosomewhere, #traveladdict, #spil, #photooftheday"
+  - username: "_burcu_"
     fullname: >-
-      iskender yüksel
+      Burcu
     bio: >-
-      🐣 content creator for @trendyolcom 💥Zumba Instructor @zumbaisko 📍 Izmir 📷 Freelance photographer @iskoiskoisko #mensfashion #blogger
+      📍İzmir 📍Ankara
     location: "Turkey"
-    followers: 26718
-    engagement: 301
-    commentsToLikes: 0.216198
-    id: ckap1frpquesz0i7871u8eo8u
+    followers: 39483
+    engagement: 296
+    commentsToLikes: 0.209106
+    id: ck8t09fubraar0j78sp6pto22
     verified: false
-    hashtags: "#menstyle, #hoscos, #mensfashion, #bestcasualoutfit"
+    hashtags: "#nailarttutorial, #nailartvideos, #nailartt, #notd"
+  - username: "avhamzadag"
+    fullname: >-
+      Hamza Dağ
+    bio: >-
+      İzmir Milletvekili
+    location: "Turkey"
+    followers: 39851
+    engagement: 774
+    commentsToLikes: 0.022008
+    id: ck0w4hd9oykq70i19mjj0r7r0
+    verified: true
+    hashtags: "#izmir, #2000, #bisan, #bal"
+  - username: "busranurcalar"
+    fullname: >-
+      Büşra Nur Söylemez
+    bio: >-
+      🧔🏻👧🏻👶🏻 Ankara📍İzmir 💌 busranrsoylemez@gmail.com Yedek Hesap @bsrnrclr
+    location: "Turkey"
+    followers: 1229017
+    engagement: 207
+    commentsToLikes: 0.051313
+    id: ck0u2a292ze4r0i19marf0ncj
+    verified: false
+    hashtags: "#endonesia, #goodnight, #hay, #anneleric"
+  - username: "nihanayanoglu"
+    fullname: >-
+      ℕ I H A ℕ
+    bio: >-
+      Based in Izmir 🕊 Lifestyle • Beauty • Fashion
+    location: "Turkey"
+    followers: 11689
+    engagement: 623
+    commentsToLikes: 0.415411
+    id: ck13agb68q9710i19irrzsxis
+    verified: false
+    hashtags: "#gu, #bolu, #winteractivity, #snow"
 ---

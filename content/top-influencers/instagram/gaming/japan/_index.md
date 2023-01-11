@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Japan in 2023
+title: Top 10 Gaming Instagram Influencers In Japan In 2023
 description: >-
-  Find top gaming Instagram influencers in Japan in 2023. Most popular hashtags: #gaming #gamer #japan.
+  Find top gaming Instagram influencers in Japan in 2023. Most popular hashtags: #anime #gaming #gamergirl #cosplay.
 platform: Instagram
-hits: 34
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 34 Instagram influencers like this in Japan for you to pitch.
+hits: 28
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 28 Instagram influencers like this in Japan for you to work with.
 profiles:
   - username: "japeruana24"
     fullname: >-
       Japeruana (Namie)
     bio: >-
-      ❤️Amo jugar👾 y diseñar🎨@jape_art 🧡🇯🇵&🇵🇪Japanese& Spanish 💛Facebook gaming partner 🎮 💚 💌japeruana24@gmail.com 💙10月24日🎂birthday 💜↓YouTube Channel↓登録してね
+      ❤️🧡💛💚💙💜💖💜💙💚💛🧡❤️ 🧡🇯🇵&🇵🇪📍Kanagawa-Japan 💛 japeruana24@gmail.com 💚Tiktok: japeruana (+1.2M) 💙 Facebook gaming partner🎮(+900k) 💜↓YouTube Channel↓(+150k)
     location: "Japan"
-    followers: 82632
-    engagement: 909
-    commentsToLikes: 0.010958
+    followers: 153649
+    engagement: 840
+    commentsToLikes: 0.012301
     id: ck9hcs6s7mr7r0j78mfbruic3
     verified: false
-    hashtags: "#kawaii, #japan, #hairstyle, #photo"
+    hashtags: "#japeruana, #gamer, #sorteo, #otaku"
   - username: "kawasemoe"
     fullname: >-
       川瀬 もえ  KawaseMoe
     bio: >-
-      gaming girl🎮 🇯🇵×🇨🇳 ゼロイチファミリア所属 YouTube channel 👇
+      gaming girl🎮 🇯🇵×🇨🇳 元役員秘書 ゼロイチファミリア所属 YouTube channel 👇
     location: "Japan"
-    followers: 107011
-    engagement: 495
-    commentsToLikes: 0.020008
+    followers: 132245
+    engagement: 581
+    commentsToLikes: 0.018575
     id: ck6tjj0sb2t9v0j71qox7xxub
     verified: false
-    hashtags: "#halloween, #halloweencostume"
-  - username: "joeykaotyk"
+    hashtags: "#youtuber, #stayhome, #stayhomestaysafe, #youtube"
+  - username: "kuromiketsu"
     fullname: >-
-      JoeyKaotyk📍🇹🇼
+      Kuro Miketsu Cosplay
     bio: >-
-      Bboy & I livestream my life. 📷@91526.raw Bridging the gap between HipHop, gaming, and lifestyle.
+      🌸 I‘m basically a cat /ᐠ｡ꞈ｡ᐟ\ ❤️ cosplay, anime, manga, gaming 🌸 Drakengard/NieR fangirl
     location: "Japan"
-    followers: 10281
-    engagement: 675
-    commentsToLikes: 0.048145
-    id: ck5hhpbtt9f3w0i11bkl9ofk4
+    followers: 10384
+    engagement: 672
+    commentsToLikes: 0.053144
+    id: ck8t4yt0w8a4k0j78i5ajr4zm
     verified: false
-    hashtags: "#spincontrol, #stitchingsole"
+    hashtags: "#cosplayphoto, #cosplaying, #animecosplay, #cosplayshoot"
+  - username: "pubg.lynx"
+    fullname: >-
+      
+    bio: >-
+      ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ρυвgм ρℓαyєr gaming acc
+    location: "Japan"
+    followers: 8842
+    engagement: 741
+    commentsToLikes: 0.032849
+    id: ck14keayfp3rc0i197ulpnaru
+    verified: false
+    hashtags: "#sketch, #digitalart, #kawaiigirl, #aestheticart"
   - username: "arisroth"
     fullname: >-
       アリス 🌸 Aris Roth
     bio: >-
-      ☾ Inspired by anime, gaming & japanese landscapes ♥ 1994, male, in cologne everything ⤵
+      🌸 Illustration & Animation of Digital Dreamscapes 💙 Anime x Gaming Culture
     location: "Japan"
-    followers: 167705
-    engagement: 625
-    commentsToLikes: 0.009178
+    followers: 160291
+    engagement: 473
+    commentsToLikes: 0.008342
     id: ck0twgypdfbzv0i194eroidqk
     verified: false
-    hashtags: "#animeart, #animeaesthetics, #vaporwave, #aestheticart"
+    hashtags: "#aestheticart, #vaporwaveart, #vaporwave, #2danimation"
   - username: "otakunextnepal"
     fullname: >-
       OTAKUNEXT®
     bio: >-
       🔶Promoting Anime, Manga, Cosplay, Comic Book, Gaming & Pop Culture in Nepal 🔸Publishers of Otaku Next Magazine 🔸Organizers of Com Cos Con 🔸Since 2014
     location: "Japan"
-    followers: 6478
-    engagement: 915
-    commentsToLikes: 0.010595
+    followers: 7095
+    engagement: 633
+    commentsToLikes: 0.006473
     id: ckf5tjbmrhyoh0j231i5ze92q
     verified: false
-    hashtags: "#memes, #thebatman, #dc, #dccomics"
-  - username: "katsumicos"
+    hashtags: "#attackontitan, #anime, #shingekinokyojin, #shingekinokyojinedit"
+  - username: "briannatty"
     fullname: >-
-      Katsumi :3
+      Briannatty • Cosplay
     bio: >-
-      * Doing cosplay for the fun of it since 09 ❤️ * Your local weeb * Makeup lover🧑🏼‍🎨
+      ⚠️🔞 I miss going to conventions 😭 👇🏼Check out my ~spicy~ content!
     location: "Japan"
-    followers: 64643
-    engagement: 1151
-    commentsToLikes: 0.029151
-    id: ck5zt6y61zuqj0i14086up47q
+    followers: 9156
+    engagement: 378
+    commentsToLikes: 0.028047
+    id: ck6tpcptyj3zj0j71ykduar3p
     verified: false
-    hashtags: "#lolskin, #leaguefanart, #animecosplay, #leagueoflegendsmemes"
-  - username: "rotatnmazda"
+    hashtags: "#velma, #poisonivy, #batmancosplay, #velmacosplay"
+  - username: "magicalfay"
     fullname: >-
-      Aidan Barrett
+      🌸 Fay 🌸
     bio: >-
-      Barrett Racing & Restorations - JGTC RE-Amemiya GT300 RX-7, RX-3 GR Savanna, BG GTR Familia, Restoring & Racing classic machinery
+      🎀 Collector & Gamer 🎀 ESP•ENG || MX 🇲🇽→ JP🇯🇵🏠 💌 Collab/Business: contactmagicalfay@gmail.com
     location: "Japan"
-    followers: 5549
-    engagement: 1760
-    commentsToLikes: 0.020956
-    id: ckap7ko2qkhco0i78tce56hmt
+    followers: 90777
+    engagement: 1178
+    commentsToLikes: 0.019344
+    id: ck0u115tived20i192fbhp700
     verified: false
-    hashtags: "#rotaryengine, #mazda, #mazdarotary, #motorsport"
-  - username: "gamesloose"
+    hashtags: "#kawaiigamer, #kawaiistuff, #otakugirl, #sanrio"
+  - username: "flatlayfairytale"
     fullname: >-
-      ルーズゲーム
+      Jojo🧝🏻‍♀️Gaming|Tech|Weeb
     bio: >-
-      Retrogaming 👾🕹 📺 sony trinitron KV-M14B 📺 sony trinitron 14N5E 📺 sony pvm 6041QM 📺 sony trinitron 1440QM sega aero city arcade
+      ...But this is no ordinary fairytale🧝🏻‍♀️RPGs, Fantasy, Tech, Games, Anime & all things mythical💚UK🇬🇧
     location: "Japan"
-    followers: 6998
-    engagement: 766
-    commentsToLikes: 0.016937
-    id: ckap23i5px7t90i78aiugh2qv
+    followers: 15483
+    engagement: 574
+    commentsToLikes: 0.070345
+    id: ck5pva5xxgvt50i11olfilrw5
     verified: false
-    hashtags: "#famicom, #supergameboy, #gaming, #gameboy"
-  - username: "xnataliviax"
+    hashtags: "#oldschoolgames, #ninstagram, #gamingfamily, #funkopopcollection"
+  - username: "seven85654"
     fullname: >-
-      N A T A L I E
+      SEVEN
     bio: >-
-      ◊ sic pαrvis мαgnα ◊ 26y/o | germαn 🇩🇪| plαyer two @chris.parvis | ◊ gαмes: nintendo . plαystαtion . pc ◊ Pαrtner of @smartgrip_official
+      Minecraft Builder | Specialized in Japanese-style architecture| From Japan | Default texture Thank you for following me!! ▼My Youtube ch
     location: "Japan"
-    followers: 12143
-    engagement: 810
-    commentsToLikes: 0.017223
-    id: ck8t3r84k46tr0j78iy4uyyj5
+    followers: 20450
+    engagement: 908
+    commentsToLikes: 0.004390
+    id: ck13aqdbnrnjq0i19wmlvok8n
     verified: false
-    hashtags: "#gamestagram, #pcgamingsetup, #gamingcommunity, #ps4games"
-  - username: "cosmicrabbit"
-    fullname: >-
-      Rabi
-    bio: >-
-      📍Tokyo 🇯🇵🇺🇸Bilingual I suck at video games
-    location: "Japan"
-    followers: 16747
-    engagement: 983
-    commentsToLikes: 0.024897
-    id: ckapc5d5e2jba0i78qso6iopc
-    verified: false
-    hashtags: "#instagravure, #japanesecosplayer, #adidascasual, #gamergirl"
+    hashtags: "#minecraftgamer, #minecraftbuildings, #minecraftpe, #minecraftonly"
 ---

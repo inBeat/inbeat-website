@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Canada in 2023
+title: Top 10 Yoga TikTok Influencers In Canada In 2023
 description: >-
-  Find top yoga TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #yogaflow #foryoupage #yoga.
+  Find top yoga TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #yoga #foryoupage #foryou.
 platform: TikTok
-hits: 121
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 121 TikTok influencers like this in Canada for you to contact.
+hits: 101
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database holds 101 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "lynnettemermaid"
     fullname: >-
@@ -18,43 +18,31 @@ profiles:
     commentsToLikes: 0.078295
     id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
-    hashtags: "#baywatch, #dancingchallenge, #goviral, #throwback"
+    hashtags: "#poem, #flexible, #swimsuit, #swimsuitmodel"
   - username: "jeanne.athleticyogi"
     fullname: >-
       jeanne dube
     bio: >-
       Fitness instructor 🔥 Yoga teacher 🙏 Instagram: jeanne.athleticyogi
     location: "Canada"
-    followers: 32100
-    engagement: 668
-    commentsToLikes: 0.007166
+    followers: 33000
+    engagement: 622
+    commentsToLikes: 0.007332
     id: ckcjk7zsqds6n0j23goq3o0h4
     verified: false
-    hashtags: "#trainer, #homegym, #summerworkout, #workout"
-  - username: "pow3rd"
+    hashtags: "#workout, #foryourpage, #homegym, #fitness"
+  - username: "lumira_"
     fullname: >-
-      POW3RD
+      Lumirä🧚🏻
     bio: >-
-      BACK AT TIKTOK 🥳 Goal:200k lets get it! GOAL REACHED!! 🥳🥰
+      -Healing sound offerings- 🌻Helping you to relax🌻 ✌🏻Peace only ☮️🇨🇦
     location: "Canada"
-    followers: 100200
-    engagement: 1271
-    commentsToLikes: 0.038031
-    id: cka0o5rz329yd0i78p3yuubjz
+    followers: 1500000
+    engagement: 1310
+    commentsToLikes: 0.035534
+    id: ck8kg0dltgco90j78wny8fczu
     verified: false
-    hashtags: "#rainforestfacts, #fortnite, #follow, #fyp"
-  - username: "livlaughlove514"
-    fullname: >-
-      Liv
-    bio: >-
-      Montreal, Canada 🇨🇦
-    location: "Canada"
-    followers: 4849
-    engagement: 1001
-    commentsToLikes: 0.144265
-    id: ck8z6r3ion6x10j78b2vi1h4g
-    verified: false
-    hashtags: "#foryoupage, #rainforestfacts, #wholenewgame, #fyp"
+    hashtags: "#fyp, #soundhealing, #didyouknow, #friendlyfuture"
   - username: "joanna.a.s"
     fullname: >-
       J.oanna
@@ -66,65 +54,77 @@ profiles:
     commentsToLikes: 0.011660
     id: ckbqv8ec6fgcv0j23pgsxputp
     verified: false
-    hashtags: "#skillbuilding, #summer2020, #rollerskating, #obsessedwithit"
+    hashtags: "#obsessedwithit, #dadsoftiktok, #summer2020, #rollerskating"
+  - username: "pow3rd"
+    fullname: >-
+      POW3RD
+    bio: >-
+      BACK AT TIKTOK 🥳 Goal:200k lets get it! GOAL REACHED!! 🥳🥰
+    location: "Canada"
+    followers: 98400
+    engagement: 1234
+    commentsToLikes: 0.035242
+    id: cka0o5rz329yd0i78p3yuubjz
+    verified: false
+    hashtags: "#dontleaveme, #dadsoftiktok, #fyp, #foryou"
   - username: "jon_thevegan"
     fullname: >-
       Jonathan_Shopik
     bio: >-
-      DM me on Instagram for online 1 on 1 coaching (all fitness levels welcome)
+      Living with AS, here to help you Certified Nutrition Coach DM me on insta
     location: "Canada"
-    followers: 30100
-    engagement: 729
-    commentsToLikes: 0.053305
+    followers: 45600
+    engagement: 1185
+    commentsToLikes: 0.079804
     id: ck8074594ok6p0j78bktsw0lx
     verified: false
-    hashtags: "#ankylosingspondylitis, #stretching, #stretch, #arthritis"
-  - username: "_kloqowej_"
+    hashtags: "#movement, #legday, #hiphealth, #veganfitnessjourney"
+  - username: "nicolemanteiga"
     fullname: >-
-      Starr
+      nicooo
     bio: >-
-      Kwe’ ni’n teluisi Kloqowej Ni’n na L’nu @Neechiehouse MMIWG BLM
+      vibin - ⚡️ meaning in the mundane. creativity in the circumstance ✨🌞 🌝 🦋
     location: "Canada"
-    followers: 58200
-    engagement: 1623
-    commentsToLikes: 0.019977
-    id: ck9newtu6dwjr0j78imne1fr4
+    followers: 12400
+    engagement: 924
+    commentsToLikes: 0.142645
+    id: ck9k6bsqz04b60j78a6qqzeap
     verified: false
-    hashtags: "#nativepride, #foryou, #indigenous, #firstnations"
+    hashtags: "#comedy, #fyp, #couple, #spiritual"
   - username: "knineking"
     fullname: >-
       Kanneil🤴🏽
     bio: >-
       Kanneil Knine King, Content Creator & Influencer 🌎 I ❤️ Collabs #UseTheseTunes
     location: "Canada"
-    followers: 2422
-    engagement: 943
-    commentsToLikes: 0.122368
+    followers: 2390
+    engagement: 837
+    commentsToLikes: 0.122131
     id: ck9116uvbknvl0j78igwsbr5r
     verified: false
-    hashtags: "#nobodyneedstoknow, #morningboost, #winning, #yoga"
-  - username: "joshpeters220"
-    fullname: >-
-      Josh Peters
-    bio: >-
-      16
-    location: "Canada"
-    followers: 7761
-    engagement: 831
-    commentsToLikes: 0.068488
-    id: ckcdeomwq68z30j230g0tuuoo
-    verified: false
-    hashtags: "#dadsoftiktok, #viral, #yogaflow, #xyzbca"
+    hashtags: "#workout, #thankful, #king, #summerworkout"
   - username: "aleporte"
     fullname: >-
       Alejandro Portela
     bio: >-
       43K on IG! Been traveling non-stop for over 7 years. Smash that☝️𝗳𝗼𝗹𝗹𝗼𝘄
     location: "Canada"
-    followers: 3139
-    engagement: 653
-    commentsToLikes: 0.084134
+    followers: 3120
+    engagement: 620
+    commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#yoga, #foryou, #travel, #foryoupage"
+    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+  - username: "mickemason"
+    fullname: >-
+      Micke.Mason
+    bio: >-
+      🇨🇦, Mtl Je suis dans l’optimalisation de l’expérience humaine
+    location: "Canada"
+    followers: 113100
+    engagement: 1518
+    commentsToLikes: 0.018500
+    id: ckavcelwwk7w30j23c0vxu0fx
+    verified: false
+    hashtags: "#fyp, #tiktokquebec, #quebec, #yoga"
 ---

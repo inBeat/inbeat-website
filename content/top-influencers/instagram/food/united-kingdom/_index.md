@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In United Kingdom in 2023
+title: Top 10 Food Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top food Instagram influencers in United Kingdom in 2023. Most popular hashtags: #ad #fashionblogger #fitnessmotivation #london.
+  Find top food Instagram influencers in United Kingdom in 2023. Most popular hashtags: #prettylittlelondon #londonlife #thailandtrip.
 platform: Instagram
-hits: 1831
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 1831 Instagram influencers like this in United Kingdom for you to contact.
+hits: 1368
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 1368 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "chantelle_lois"
+  - username: "hollyjosbrooks"
     fullname: >-
-      Chantelle
+      HOLLY BROOKS
     bio: >-
-      Mum & Wife, just tryna live a good life ✨ Collabs: chantellelois@aol.com 💌 Owner of @blondiebrowniebakes 🧁 Food @foodiechants 🍱
+      25 • MCR ✨ Cute fits x Fitness and food page @hollyb_fitness
     location: "United Kingdom"
-    followers: 10982
-    engagement: 1786
-    commentsToLikes: 0.146437
-    id: ckaoygg8hhf6d0i78dljo7pku
+    followers: 20868
+    engagement: 1567
+    commentsToLikes: 0.006257
+    id: cl9k31l5qisxn0i23wuzn80xq
     verified: false
-    hashtags: "#babygirl, #mumbloggeruk, #babiesofig, #lifewithlittles"
-  - username: "kalia.lai"
+    hashtags: ""
+  - username: "yasminjohalx"
     fullname: >-
-      KALIA
+      yasmin • nottingham
     bio: >-
-      brit · hk’er 🇬🇧🇭🇰 model✨ @w_modelmgmt athlete @underarmouruk foodie @kaliaeats info@kalialai.com
+      🌞 the life of a young(ish) mum 💖 vegan food & beauty 🌿 autistic joy & everyday snapshots 👻 i like indie films and emo bands 💌 yasminjohalx@gmail.com
     location: "United Kingdom"
-    followers: 22168
-    engagement: 1012
-    commentsToLikes: 0.084775
-    id: ck5pygg13vwao0i11shabrd9q
+    followers: 15471
+    engagement: 497
+    commentsToLikes: 0.038000
+    id: ckaox76tbc36p0i7836x36vtg
     verified: false
-    hashtags: "#ad, #affiliate, #fashionblogger, #fitnessmotivation"
-  - username: "leylee_11"
+    hashtags: "#veganbeautyblogger, #yardleylondon, #luxuryfragranceforless, #contemporaryfragrance"
+  - username: "venturewithvee"
     fullname: >-
-      LEYLA 🦋
+      Vivian 🦋 | London
     bio: >-
-      World explorer. Wine, food and tattoo lover ⠀⠀⠀⠀ Mon chéri @mixhael_h ♡
+      💖 Food & Lifestyle ⚡️ Exploring London’s Hotspots 💌 DM | Email for Collabs & Partnerships ⬇️⬇️ Follow my TikTok ⬇️⬇️
     location: "United Kingdom"
-    followers: 9836
-    engagement: 1367
-    commentsToLikes: 0.121881
-    id: ck9weq5lglf540j78skb5ycuz
+    followers: 7396
+    engagement: 3707
+    commentsToLikes: 0.206475
+    id: ckygilzobr3z50j23cxo9qt75
     verified: false
-    hashtags: "#alternativegirl, #alternative, #modeling, #girlswithtattoos"
-  - username: "drlouloubug"
+    hashtags: "#londonfood, #londonreels, #londonhotspots, #mysecretlondon"
+  - username: "healthymeganbl"
     fullname: >-
-      Lauren Mulcahy-Ryan 🇮🇪 🇬🇧
+      𝐌𝐄𝐆𝐀𝐍 🕊
     bio: >-
-      Collabs- drlouloubug@gmail.com London blogger World traveller (59 down) Wife to @jamesy_pics Tall girls fashion Foodie
+      📍birmingham ☁️ food fashion life home ⚡️ sausage dog mama @mabelthedachshund_ 🏡 @_megsmaison 💌 meganlowe2@googlemail.com 🎥 Tiktok: meganbl (30k)
     location: "United Kingdom"
-    followers: 7235
-    engagement: 1229
-    commentsToLikes: 0.457739
-    id: ck5q1qbhdc8zx0i11mlk74phg
+    followers: 31208
+    engagement: 354
+    commentsToLikes: 0.024289
+    id: ck13c6znnywyh0i19hsly6i75
     verified: false
-    hashtags: "#colourlovers, #newweek, #styledbyme, #prettycitylondon"
-  - username: "nikkigraceb"
+    hashtags: "#pupupcafe, #zarabag, #zara, #zarawoman"
+  - username: "daywithdad"
     fullname: >-
-      Nikki Grace 👽
+      𝐖𝐚𝐫𝐫𝐞𝐧, 𝐊𝐚𝐭𝐞 & 𝐂𝐨. 🌱
     bio: >-
-      🌱🇬🇧 •Fitness, food, well-being and adventure• •T1D•Plantbased• NIKKIG20 for 20% off @lornajaneactive ⬇️
+      🙋🏽‍♂️ plant eating stay @ 🏡 dad ➕ left the rat race for family life 🏡 family moments post renovating ➕ big foodie 🥑 runner 🏃🏽‍♂️ family travel 🌍
     location: "United Kingdom"
-    followers: 42983
-    engagement: 581
-    commentsToLikes: 0.062789
-    id: ck8tdisx33hbr0j78w5kipwh8
+    followers: 45060
+    engagement: 326
+    commentsToLikes: 0.211051
+    id: ck0ucb8kngfsl0i19g4le95w3
     verified: false
-    hashtags: "#healthandfitness, #girlswhosquat, #vegangirlsofig, #girlswhoworkout"
-  - username: "kate.ovens"
+    hashtags: "#leamingtonspa, #loveleam, #10krun, #backtoschool"
+  - username: "liamreardon1"
     fullname: >-
-      Kate Ovens
+      Liam Reardon
     bio: >-
-      Yes... I’m the girl that does the food challenges 😂🍔 Kate.ovens@hotmail.com 400,000+ followers
+      Food lover🍝 Fitness🏃🏽🏋🏽‍♀️ Outdoors🏔 Enquiries: liam@84world.com
     location: "United Kingdom"
-    followers: 119911
-    engagement: 431
-    commentsToLikes: 0.091902
-    id: ck13c5ivzypsa0i19hus6baji
-    verified: true
-    hashtags: "#sohofood, #roastdinner, #ad, #sundayroast"
-  - username: "mahmoodansari"
-    fullname: >-
-      Mahmood Ansari
-    bio: >-
-      Making the most of life. Cars, Watches, Sneakers, Travelling & Food. 🌍 53 countries so far.
-    location: "United Kingdom"
-    followers: 21081
-    engagement: 642
-    commentsToLikes: 0.061836
-    id: ck0u6155k0nbj0i194yom66lq
+    followers: 1007202
+    engagement: 565
+    commentsToLikes: 0.005764
+    id: cku8q8m7dmgxv0j236kpthblt
     verified: false
-    hashtags: "#porsche, #ad, #audi, #photooftheday"
-  - username: "tzvikaamit25"
+    hashtags: "#wegoagain, #skyfamilyuk, #avatarthewayofwater, #teamvelindre"
+  - username: "galzahavi"
     fullname: >-
-      Tzvika Amit
+      Gal Zahavi - גל זהבי
     bio: >-
-      🔹Fashion ✭ Hotels PR ✭ Food🔹 ♦️ express urself, dont repress urself ♦️ ⇩ Collabs & Business - Email/DM ⇩
+      ‎‏Actor | Content Creator🍴 Food Blogger & Photographer @zahavi_portfolio Agency - @spot.il \ Acting - @shayosh83 ‎‏ 🍫🌮🍟🥨🍔🌭🍕🍖🍩
     location: "United Kingdom"
-    followers: 342235
-    engagement: 702
-    commentsToLikes: 0.020543
-    id: ckap5d7hob5dh0i78kvt1emkx
+    followers: 150058
+    engagement: 268
+    commentsToLikes: 0.037545
+    id: ck5bthenufz4t0i11u6s1xjtn
     verified: false
-    hashtags: "#sanfranciscoarchitecture, #sanfranciscohotels, #gaybeardedmen, #sanfranciscogay"
-  - username: "sc_figure"
+    hashtags: "#flipz, #creatorweek"
+  - username: "tachichosz"
     fullname: >-
-      Sarah Cowin
+      Atasha A | Travel Blogger
     bio: >-
-      🙋🏻‍♀️Fun, Fitness & Food ✨ 📍Sheffield 🇬🇧 🤓Physio | Online Coach | Account Mgmt
+      TRAVEL • FASHION • FOOD Hotels & Airlines Review COLLAB & REVIEW : 📩 atasha.ahmad@gmail.com 📍KL, Malaysia 🇲🇾
     location: "United Kingdom"
-    followers: 6334
-    engagement: 961
-    commentsToLikes: 0.311762
-    id: ckapcimrv3yne0i78op3a32bh
+    followers: 71215
+    engagement: 240
+    commentsToLikes: 0.033328
+    id: ckf5ofhp021w30j23rzue25qx
     verified: false
-    hashtags: "#selfconfidence, #motivation, #musclebuilding, #balancedlife"
-  - username: "pocketwanderings"
+    hashtags: "#malaysia, #touristspot, #blondesandcookies, #iamtb"
+  - username: "lukecatleugh"
     fullname: >-
-      Jessie M ✨ Lifestyle Blogger
+      Luke Catleugh
     bio: >-
-      💃🏻 Travel • Food • Style 🇬🇧 London & Kent 👩🏻‍💻 Freelance SEO Consultant 📩 enquiries@pocketwanderings.com
+      🇬🇧 London Food & lifestyle creator 🍳Easy Veggie & Vegan recipes 🎥 YouTuber 📩 lauren.shergold@milkmanagement.co.uk 👇🏻 WEEKLY YOUTUBE VIDEOS
     location: "United Kingdom"
-    followers: 9608
-    engagement: 849
-    commentsToLikes: 0.080945
-    id: ck6uh8n837nx60j717ostx5ne
+    followers: 42730
+    engagement: 191
+    commentsToLikes: 0.071920
+    id: ck0tsz4590j3v0i19w1jcl0n0
     verified: false
-    hashtags: "#giveaway, #giveawaycontest, #zara, #zarawoman"
+    hashtags: "#christmasbaking, #christmasfood, #labrador, #christmastree"
+  - username: "pasta_proseccoandparenting"
+    fullname: >-
+      Aileen - sahm to three, on a slow living journey 🌿
+    bio: >-
+      Rural living, home reno, slow motherhood and foodie all with a dash of Prosecco 🥂 📧 enquiries@pastaproseccoandparenting.com
+    location: "United Kingdom"
+    followers: 30030
+    engagement: 181
+    commentsToLikes: 0.101029
+    id: ckap92kgtqyam0i78w8nzx3ld
+    verified: false
+    hashtags: "#stayathomemum, #ukmums, #mindfulmama, #tiredmummy"
 ---

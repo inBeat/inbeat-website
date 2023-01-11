@@ -1,130 +1,130 @@
 ---
-title: Top 10 Punk TikTok Influencers in 2023
+title: Top 10 Punk TikTok Influencers In 2023
 description: >-
-  Find top punk TikTok influencers in 2023. Most popular hashtags: #duet #fyp #greenscreen #punk.
+  Find top punk TikTok influencers in 2023. Most popular hashtags: #duet #fyp #greenscreen #punknation.
 platform: TikTok
-hits: 734
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 734 TikTok influencers like this for you to work with.
+hits: 731
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 731 TikTok influencers like this for you to pitch.
 profiles:
-  - username: "thepunkcellist"
+  - username: "bodahlia"
     fullname: >-
-      ian
+      BoDahliaArt
     bio: >-
-      Punk covers on cello! If you want these tracks for your playlists 👇
+      👹28 Queer AF 🏳️‍🌈 Polyam Artist, teacher, soft punk
     location: "United States"
-    followers: 10800
-    engagement: 2035
-    commentsToLikes: 0.075147
-    id: ck8oz6vn8ane10j78ld11fql5
+    followers: 3855
+    engagement: 3012
+    commentsToLikes: 0.256013
+    id: ck9fyrj2mbxp70j78m9ij2c21
     verified: false
-    hashtags: "#mychemicalromance, #xyzbca, #duet, #thepunkcellist"
+    hashtags: "#artistsupportingartists, #illustrator, #10kartists, #artist"
+  - username: "magpie.spell.shop"
+    fullname: >-
+      Puck
+    bio: >-
+      your chaotic bi tiefling punk parent art/chaos/D&D they/them 16+ duets !
+    location: "Canada"
+    followers: 9485
+    engagement: 2152
+    commentsToLikes: 0.056810
+    id: ckbex3lxrh3210j23x26pypjb
+    verified: false
+    hashtags: "#notdnd, #dungeonsanddragons, #dnd, #videosnapchallenge"
   - username: "xxdollxx147"
     fullname: >-
       Doll
     bio: >-
-      #vixysquad #punknation #dollhouze 18+ content #badbunnyfam 💚🏳️‍🌈pan🤟😜
+      #vixysquad #punknation #dollhouze 18+ content #badbunnyfam
     location: "United States"
-    followers: 21700
-    engagement: 3111
-    commentsToLikes: 0.179663
+    followers: 23200
+    engagement: 1944
+    commentsToLikes: 0.268268
     id: cka0tfrulpple0i78eakk94oc
     verified: false
-    hashtags: "#robot, #punknation, #duet, #voidarmy"
-  - username: "punker_irl"
+    hashtags: "#dontquityourdaydream, #doll, #dollhouze, #cherrybomb"
+  - username: "scarii.spice"
     fullname: >-
-      punker
+      dollar store deku
     bio: >-
-      official punker spam page imma dude - 17
+      19 she/they - queer hair dye- punky color in alpine green ✨best vibez in town✨
     location: "United States"
-    followers: 2200000
-    engagement: 2383
-    commentsToLikes: 0.021863
-    id: ck8ae5wvva2mp0j78toombyd0
-    verified: true
-    hashtags: "#settleforbiden, #stitch, #greenscreen"
-  - username: "frannymoonchild"
-    fullname: >-
-      Franny
-    bio: >-
-      $mymoonchild Punk Rad. Leftist🌙27yo⚡️she/her homemade teas below vvv
-    location: "United States"
-    followers: 45800
-    engagement: 2224
-    commentsToLikes: 0.053373
-    id: ck8fbzvau5q140j780iszamvh
+    followers: 29300
+    engagement: 1929
+    commentsToLikes: 0.052460
+    id: ckbbfma0f4ae90j23s2dvf5at
     verified: false
-    hashtags: "#duet, #trump2020, #biden2020, #election"
-  - username: "dumpsterbrat"
-    fullname: >-
-      ༺ 1 ¡ n 6 a ༻
-    bio: >-
-      punk hippie mutant 🌀🦠🐞 acab 18 the b!tch with the bleached eyebrow
-    location: "United States"
-    followers: 22800
-    engagement: 2745
-    commentsToLikes: 0.050869
-    id: ckd0qcvrbi3rv0j23i7jy9773
-    verified: false
-    hashtags: "#wewintogether, #collegegotmelike, #ghostmode, #doitbold"
-  - username: "magpie.spell.shop"
-    fullname: >-
-      Mother Magpie
-    bio: >-
-      your chaotic bi tiefling punk mom painting/poetry/cosplay/D&D 16+ duets !! 💜
-    location: "Canada"
-    followers: 7555
-    engagement: 1925
-    commentsToLikes: 0.062559
-    id: ckbex3lxrh3210j23x26pypjb
-    verified: false
-    hashtags: "#angel, #calamity, #warlock, #halloween"
+    hashtags: "#lovememode, #foryou, #hpradicalreuse, #welcomeback"
   - username: "bayfrontdreams"
     fullname: >-
       Marshall
     bio: >-
       West TX Oilfield 48 18+Only #foofoofam #qlms #punknation #mlf
     location: "United States"
-    followers: 4840
-    engagement: 1824
-    commentsToLikes: 0.084109
+    followers: 4827
+    engagement: 1804
+    commentsToLikes: 0.083771
     id: ckae95relp6fr0i78oyk8lq0y
     verified: false
-    hashtags: "#duet, #mlf, #fyp, #punknation"
-  - username: "totembeanpole"
+    hashtags: "#fyp, #duet, #foofoofam, #punknation"
+  - username: "luludeadly"
     fullname: >-
-      Levi Tate
+      Lulu Deadly
     bio: >-
-      wassup ya lil punks 22/UK/Enby he/him Duets open 16+✨ totembeanpole@gmail.com
+      Indigenous She/Her Poly/Demi/Bratty Unseelie Punk 🖤
+    location: "United States"
+    followers: 45600
+    engagement: 1724
+    commentsToLikes: 0.069565
+    id: ckcjdb00c9yxp0j23jcxxjdza
+    verified: false
+    hashtags: "#texas, #mazikeen, #texasisahostagesituation, #catsoftiktok"
+  - username: "discount.yam"
+    fullname: >-
+      🐺 Mouse Monarch 🐺
+    bio: >-
+      a disrespectful degenerate punk. he/him D.I.D. system 21 years old
+    location: "United States"
+    followers: 175300
+    engagement: 1495
+    commentsToLikes: 0.053935
+    id: ck9jv7sxkr1jx0j785w0zz1ep
+    verified: false
+    hashtags: "#discountooc, #dmmdcosplay, #liveflowsweatduet, #mentalillnessrecovery"
+  - username: "levicosmos"
+    fullname: >-
+      Levi Cosmo
+    bio: >-
+      wassup ya lil punks 22/UK/Enby he/him Duets 16+
     location: "United Kingdom"
-    followers: 42100
-    engagement: 2697
-    commentsToLikes: 0.039882
+    followers: 44100
+    engagement: 2732
+    commentsToLikes: 0.047273
     id: ckc833xq43pxj0j235h3p1ly9
     verified: false
-    hashtags: "#halloweenlook, #ozthebard, #forktheclown, #duet"
-  - username: "gr0und_b33f"
+    hashtags: "#duet, #adventuretime, #princegumball, #marshalllee"
+  - username: "harleyevans59"
     fullname: >-
-      pat the bunny simp account
+      Harley Evans
     bio: >-
-      she/they 16 nyc folk punk fan (unfortunately) twitter: @ sewer_gremlin
+      Psycho/Emo Trash People think im funny 25 IGblackest_punkest_harley
     location: "United States"
-    followers: 5690
-    engagement: 2795
-    commentsToLikes: 0.053367
-    id: ckdtkaepcxxe10j23se5988n7
+    followers: 29700
+    engagement: 2421
+    commentsToLikes: 0.047060
+    id: cka0kn1ztnca30i785vakern1
     verified: false
-    hashtags: "#fyp, #punkcollege, #greenscreen, #folkpunk"
-  - username: "master_curbstomper"
+    hashtags: "#imanaccounant, #kinktok, #comedy, #serialkiller"
+  - username: "dumpsterbrat"
     fullname: >-
-      Soup >:)
+      1 ¡ n 6 a
     bio: >-
-      18 :) IG: Blue.Bear.E Punk tired uh yuh sad
+      punk hippie mutant ꩜ ꩜ ꩜ 18 xtraterrestrial bitch
     location: "United States"
-    followers: 12500
-    engagement: 2677
-    commentsToLikes: 0.048246
-    id: ckce57ktljyae0j23ygtxezab
+    followers: 25200
+    engagement: 2161
+    commentsToLikes: 0.034264
+    id: ckd0qcvrbi3rv0j23i7jy9773
     verified: false
-    hashtags: "#timewarpscan, #punk, #fyp, #goth"
+    hashtags: "#diy, #makeup, #hair, #punx"
 ---

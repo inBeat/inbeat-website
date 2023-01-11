@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness TikTok Influencers In Canada in 2023
+title: Top 10 Wellness TikTok Influencers In Canada In 2023
 description: >-
-  Find top wellness TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #wellness #foryou #duet.
+  Find top wellness TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #healthy #food.
 platform: TikTok
-hits: 48
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 48 TikTok influencers like this in Canada for you to contact.
+hits: 57
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 57 TikTok influencers like this in Canada for you to pitch.
 profiles:
-  - username: "embarrassingteacher"
+  - username: "agracemartin"
     fullname: >-
       A. Grace Martin
     bio: >-
-      High school teacher, Mom, YA author ❤️ Positivity, Wellness, Self Love ❤️ 🇨🇦
+      Author, science teacher, wellness coach ❤️ Self Love 🇨🇦
     location: "Canada"
-    followers: 5476
-    engagement: 831
-    commentsToLikes: 0.091529
+    followers: 6158
+    engagement: 1134
+    commentsToLikes: 0.129894
     id: ckdt4jkj3stlf0j2394vjykv0
     verified: false
-    hashtags: "#wellness, #selfcare, #teachersoftiktok, #mindfulness"
+    hashtags: "#wellness, #selfcare, #selflove, #energy"
+  - username: "hannahmagee_rd"
+    fullname: >-
+      Hannah Magee, RD
+    bio: >-
+      🍊Registered Dietitian 🎥 Media Nutrition Expert 🪴 No BS wellness
+    location: "Canada"
+    followers: 17100
+    engagement: 954
+    commentsToLikes: 0.037357
+    id: ck8071elvnvdh0j78aztskv48
+    verified: false
+    hashtags: "#dietitiansoftiktok, #dietitian, #nutritionist, #diettips"
+  - username: "ana.erak"
+    fullname: >-
+      Ana E
+    bio: >-
+      Food - Lifestyle - Wellness ✨🖤 Sharing moments of my life
+    location: "Canada"
+    followers: 18500
+    engagement: 984
+    commentsToLikes: 0.103325
+    id: ck9flks5xoaut0j786priqtqf
+    verified: false
+    hashtags: "#health, #oatmeal, #intuitiveeating, #aesthetic"
+  - username: "dmkzy"
+    fullname: >-
+      Dmkzy
+    bio: >-
+      Follow me on Instagram Health and wellness coach Snapchat @skybryjoe
+    location: "Canada"
+    followers: 66400
+    engagement: 1340
+    commentsToLikes: 0.064829
+    id: ckceh0gr9ol2b0j23hmmodrpg
+    verified: false
+    hashtags: "#model, #dancechallenge, #fyp, #viral"
+  - username: "_annamarier"
+    fullname: >-
+      annamarier
+    bio: >-
+      📍MONTREAL |22🇨🇦 WELLNESS ADDICT ✉️ :contact@annamarier.com 🛒 MY OUTFITS👇🏼
+    location: "Canada"
+    followers: 84600
+    engagement: 601
+    commentsToLikes: 0.093902
+    id: ck90vwxt61pq80j78e3qosq12
+    verified: false
+    hashtags: "#fyp, #outfit, #matchalatte, #outfitinspiration"
   - username: "ammmyy79"
     fullname: >-
       Ammy
     bio: >-
       Wellness Coach 💥 Contact me for Inquiries - ✨Weight Lose or Gain ✨Skin Issues
     location: "Canada"
-    followers: 21900
-    engagement: 1381
-    commentsToLikes: 0.038878
+    followers: 23000
+    engagement: 1019
+    commentsToLikes: 0.084649
     id: ckbfga9ohbc0j0j2379xtlge4
     verified: false
-    hashtags: "#edutok, #tiktok, #weightloss, #foryoupage"
-  - username: "emilymparr"
+    hashtags: ""
+  - username: "ediblemoods"
     fullname: >-
-      Emily Parr
+      Amanda 🦋
     bio: >-
-      Spirituality/Wellness Influencer ✨Stay Golden✨ EMpowering the Divine You ☁️
+      plant-based || health & wellness ontario, 🇨🇦 💌 - ediblemoods.info@gmail.com
     location: "Canada"
-    followers: 62700
-    engagement: 912
-    commentsToLikes: 0.027729
-    id: ckacfg21zqt000i788n329lm3
+    followers: 339400
+    engagement: 1261
+    commentsToLikes: 0.009315
+    id: ck83zve0m3foa0j7812u3doro
     verified: false
-    hashtags: "#levelup, #spiritualawakening, #mercuryretrograde, #mentalwellness"
-  - username: "thecrazydoggirl"
-    fullname: >-
-      Brianne Manuel
-    bio: >-
-      Animals. Photography. Mental wellness. Good vibes. ☮️
-    location: "Canada"
-    followers: 2772
-    engagement: 1389
-    commentsToLikes: 0.044409
-    id: ckdhpriu91hfs0j2393vf7rf5
-    verified: false
-    hashtags: "#myhobby, #myjob, #xyzcba, #canada"
-  - username: "dmkzy"
-    fullname: >-
-      Dmkzy
-    bio: >-
-      Published model Health and wellness coach Instagram @dmkzy
-    location: "Canada"
-    followers: 23400
-    engagement: 1141
-    commentsToLikes: 0.036252
-    id: ckceh0gr9ol2b0j23hmmodrpg
-    verified: false
-    hashtags: "#duetwithme, #duet, #endsars, #fyp"
-  - username: "ana.erak"
-    fullname: >-
-      Ana E
-    bio: >-
-      Food - Fitness - Wellness ✨🖤
-    location: "Canada"
-    followers: 12300
-    engagement: 572
-    commentsToLikes: 0.035735
-    id: ck9flks5xoaut0j786priqtqf
-    verified: false
-    hashtags: "#blonde, #fy, #toronto, #weightloss"
+    hashtags: "#fyp, #health, #foryou, #vegan"
   - username: "greenluxe"
     fullname: >-
-      Greenluxetravel
+      Greenluxe
     bio: >-
-      Travel | Wellness | Sustainability Follow my Van Build & Come Along for the Ride
+      Wellness & Travel 🌿✨ Living in Nature Becoming the best version of Me 🙏✨
     location: "Canada"
-    followers: 18000
-    engagement: 588
-    commentsToLikes: 0.054739
+    followers: 18100
+    engagement: 702
+    commentsToLikes: 0.079014
     id: ck90r21i2kq560j78a5w6tnqv
     verified: false
-    hashtags: "#treehouse, #traveldiaries, #jungle, #rainforestfacts"
-  - username: "katecraigwellness"
-    fullname: >-
-      katecraigwellness
-    bio: >-
-      she/her practicing wellness, mindfulness & fitness ig @katecraigwellness
-    location: "Canada"
-    followers: 289600
-    engagement: 691
-    commentsToLikes: 0.007185
-    id: ckb9go89m5yu00j23k4ei8p5z
-    verified: false
-    hashtags: "#wellnesstips, #fitness, #intuitiveeating, #fitnessgirls"
+    hashtags: "#canada, #cottagelife, #winterwonderland, #travelstories"
   - username: "fitsara"
     fullname: >-
       Sara Fiorvento
     bio: >-
-      Fitness and wellness 🌿 Sharing what works for me ✌🏼 Bikini bodybuilder ⚡️
+      Fitness/wellness Sharing what works for me Sponsored Athlete @canadianprotein
     location: "Canada"
-    followers: 128200
-    engagement: 690
-    commentsToLikes: 0.008829
+    followers: 204300
+    engagement: 617
+    commentsToLikes: 0.015806
     id: ckb9uxbnott2w0j231qas2bzz
     verified: false
-    hashtags: "#foryou, #fitness, #gym, #foryoupage"
-  - username: "tatted_mama81"
+    hashtags: "#glutes, #gym, #fyp, #workout"
+  - username: "katecraigwellness"
     fullname: >-
-      Sheri Lafond
+      katecraigwellness
     bio: >-
-      #sistersinhealing #projectsmilemore #thesherishow Self love always wins!
+      she | her 888👁 practicing wellness, mindfulness & fitness ig @katecraigwellnes
     location: "Canada"
-    followers: 12900
-    engagement: 2060
-    commentsToLikes: 0.218935
-    id: ckajax0vqkz5j0i783v40iann
+    followers: 390000
+    engagement: 803
+    commentsToLikes: 0.014448
+    id: ckb9go89m5yu00j23k4ei8p5z
     verified: false
-    hashtags: "#workoutsnob, #wellnesscheck, #sistersoftheuniverse, #projectsmilemore"
+    hashtags: "#colorcustomizer, #greenscreen, #duet"
 ---

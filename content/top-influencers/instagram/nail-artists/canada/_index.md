@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Canada in 2023
+title: Top 10 Nail Artists Instagram Influencers In Canada In 2023
 description: >-
-  Find top nail artists Instagram influencers in Canada in 2023. Most popular hashtags: #nails #nailart #nailsofinstagram #nailsalon.
+  Find top nail artists Instagram influencers in Canada in 2023. Most popular hashtags: #nails #christmasnails #nailartaddict #nailsofinstagram.
 platform: Instagram
-hits: 23
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 23 Instagram influencers like this in Canada for you to collaborate.
+hits: 12
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 12 Instagram influencers like this in Canada for you to connect with.
 profiles:
   - username: "nailsfromnars"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Nail Artist @tipsnailbar Editorial Manicurist rep'd by @p1magency 📍Toronto, Canada
     location: "Canada"
-    followers: 6876
-    engagement: 253
-    commentsToLikes: 0.105933
+    followers: 6525
+    engagement: 213
+    commentsToLikes: 0.095265
     id: ck5hsp28vwyoa0i11zwgylhjd
     verified: false
-    hashtags: ""
+    hashtags: "#shesmercedesca"
+  - username: "nyanails"
+    fullname: >-
+      Becca
+    bio: >-
+      💅🏻 Nail artist from Canada (now in 🇰🇷)! 💡 Inspired? #looknyanails 📧 Contact: notyouraveragenails@hotmail.com
+    location: "Canada"
+    followers: 25242
+    engagement: 244
+    commentsToLikes: 0.036074
+    id: ck5hsqap8x0hr0i11bnjxo69h
+    verified: false
+    hashtags: "#dontfightthefeeling, #epikhigh, #rosario, #bambi"
   - username: "kingstonnails"
     fullname: >-
       Kingston-CEO Of Stiletto Nails
     bio: >-
       Toronto🇨🇦 nails artist , nails accessories supplier Business/Training Inquires Nails appointment & salon info 👉 @stiletto.nails Products purchase 👇
     location: "Canada"
-    followers: 140177
-    engagement: 115
-    commentsToLikes: 0.013181
+    followers: 139637
+    engagement: 131
+    commentsToLikes: 0.009998
     id: ck0tzeqzvq3by0i19n6fmibb4
     verified: false
-    hashtags: "#nailsofinstagram, #instagood, #ombrenails, #hudabeauty"
-  - username: "nyanails"
-    fullname: >-
-      Becca
-    bio: >-
-      💅🏻 Nail artist from Canada! 💡 Inspired? #looknyanails 📧 Contact: notyouraveragenails@hotmail.com
-    location: "Canada"
-    followers: 26095
-    engagement: 277
-    commentsToLikes: 0.020312
-    id: ck5hsqap8x0hr0i11bnjxo69h
-    verified: false
-    hashtags: "#one, #looknyanails, #lovesickgirls, #happy"
-  - username: "jenny.jennys"
-    fullname: >-
-      Jenny’s Nail
-    bio: >-
-      📍TORONTO 🇨🇦 🧚‍♂️European nail expert #yorkville#nails 🧚‍♂️12 years of experience 🧚TRAINING AVAILABLE 🧚‍♂️ONLINE TRAINING SOON 💋
-    location: "Canada"
-    followers: 32706
-    engagement: 2361
-    commentsToLikes: 0.003110
-    id: ckf5r2doxb6ie0j23l1b2pwqd
-    verified: false
-    hashtags: "#nailstyle, #nailpro, #nailsonfleek, #nailinspo"
+    hashtags: "#2ndlockdown2020"
   - username: "natashaharton"
     fullname: >-
       Natasha Harton Nails
     bio: >-
       Ugly Duckling Master Educator Victoria, BC
     location: "Canada"
-    followers: 57261
-    engagement: 320
-    commentsToLikes: 0.026277
+    followers: 59984
+    engagement: 135
+    commentsToLikes: 0.044450
     id: ck0tybkaumaxh0i192yfozbf7
     verified: false
-    hashtags: "#halloween, #nailartaddict, #natashaharton, #pastelnails"
-  - username: "vivianwong_"
+    hashtags: "#nailartists, #instagramnails, #natashaharton, #valentinesdaynails"
+  - username: "pixoosphoto"
     fullname: >-
-      V
+      Pouria Afkhami پوریا افخمی
     bio: >-
-      🥀
+      #پوریا_افخمی Producer, Director, Journalist and Photographer 🇨🇦 Based in Toronto @pixooos
     location: "Canada"
-    followers: 18661
-    engagement: 589
-    commentsToLikes: 0.050896
-    id: ck0vww6iuvvt90i19rap5fjx1
+    followers: 21350
+    engagement: 420
+    commentsToLikes: 0.032220
+    id: ck0twuok6gthr0i19a58jqo6t
     verified: false
-    hashtags: "#toronto, #streetmagazine, #outfitsociety, #highsnobiety"
-  - username: "candynailbar"
+    hashtags: "#ps752, #pixoos, #ps752justice, #toronto"
+  - username: "grapefizznails"
     fullname: >-
-      Bar à Ongles CANDY Nail Bar
+      Anne
     bio: >-
-      💗A BIENTOT💗 💅Shellac | Ongles Gel | Pedicure | Nail Art 💗Est.2009 @tamaradilullo 💗Custom PRESS-ONS DM us! 💟 BOUTIQUE & PRESS-ONS
+      Nail blogger ✨ PR enquires 💬 Visit my blog 🌸
     location: "Canada"
-    followers: 15572
-    engagement: 52
-    commentsToLikes: 0.060686
-    id: ck6uc5zp2dq1r0j712jwbateq
+    followers: 15012
+    engagement: 242
+    commentsToLikes: 0.065972
+    id: ck5zzfex0bmxb0i14hfbc1z0k
     verified: false
-    hashtags: "#springnails, #sailormoonnails, #nailsmontreal, #nailstagram"
-  - username: "miriannjoh"
+    hashtags: "#nailedit, #style, #nailstyle, #coloristheanswer"
+  - username: "naileditbychelsey"
     fullname: >-
-      Mirian Njoh
+      CHELSEY MARIE 🍒 Nail Artist 🇬🇧
     bio: >-
-      🎙️ Host @welovetoseeitpodcast 💡 Creating and curating a life of style and art 📍Toronto (🇱🇷 x 🇳🇬) 📧 info@miriannjoh.com
+      🦋 top selling false nails since 2013 💕 💅🏼 decals and salon merch 🎨 💸 @missu_beauty_nails BA ‘CHELSEY10’ 🎟 🍉 @nafstuff stockist 🍑
     location: "Canada"
-    followers: 20400
-    engagement: 563
-    commentsToLikes: 0.039640
-    id: ck0u6kba824vc0i19sjowmvva
+    followers: 76594
+    engagement: 175
+    commentsToLikes: 0.024664
+    id: ck9wd57f4e4170j78twqelf5l
     verified: false
-    hashtags: "#whatimwearing, #earringstyle, #hairjourney, #braidstyle"
-  - username: "mutarimusic"
+    hashtags: "#denimnails, #cutenails, #witchynails, #nails"
+  - username: "taykellersfx"
     fullname: >-
-      ✨🌴🍍MUTARI🍍🌴✨
+      Taylor Haze Keller 💀
     bio: >-
-      🧿👁444👁🧿 🇨🇲🇩🇪 🇨🇦 F O R E I G N 🌍 S O U N D “MOMMA” 👸🏾 Available Everywhere ⬇️
+      Horror & Gore💀 SFX 🎨 Canadian🇨🇦 Available for shoots🎥 Custom Prosthetics🔪 Owner of @lifeafterdeathpreservations 🌿 Published Model ✨ ⬇️🩸'LONEWOLF'🩸⬇️
     location: "Canada"
-    followers: 20669
-    engagement: 605
-    commentsToLikes: 0.111506
-    id: ck6uhf8ry8rv70j71s3jldu3b
+    followers: 29353
+    engagement: 172
+    commentsToLikes: 0.017436
+    id: ck0uehaualgsm0i19oz6rev2y
     verified: false
-    hashtags: "#rap, #party, #remix, #photooftheday"
-  - username: "_sahibadhaliwal_"
+    hashtags: "#christmaslights, #christmasdecor, #heart, #specialfx"
+  - username: "vchienart"
     fullname: >-
-      SAHIBA KAUR DHALIWAL
+      vivian chien ✎✦
     bio: >-
-      Makeup • Fashion • Lifestyle Freelance Makeup Artist 💌Email for all inquiries @maharanistudio_ 📍Vancouver, BC
+      ✧ on hiatus 〰️ ✦ toronto • 🇨🇦🇹🇼 ✧ visual artist • ui ux designer by day ✦ nail art @ephuemeral ⇣ ko-fi • digital shop
     location: "Canada"
-    followers: 19247
-    engagement: 1710
-    commentsToLikes: 0.037488
-    id: ck9wor41o68vm0j78p123uwpf
+    followers: 49608
+    engagement: 1301
+    commentsToLikes: 0.007204
+    id: ck9wfvw2aqq2u0j7818rz7ots
     verified: false
-    hashtags: "#narscosmetics, #punjabimodel, #indigo, #pixibypetra"
+    hashtags: "#acrylicart, #procreateart, #gouachepainting, #acrylicpainting"
+  - username: "laurynbylauryn"
+    fullname: >-
+      Lauryn A. Greene 🌼🌻
+    bio: >-
+      Dancer/ Freestyler/Actress/Model ~Aligned Star Talent Agengy •Missy Elliott•Layton Greene•Coca Vango•THE SAUCE on Quibi•STAR on Fox•CW Legacies &More🌹
+    location: "Canada"
+    followers: 5754
+    engagement: 700
+    commentsToLikes: 0.223380
+    id: ck6ua1ce50wzx0j71u7fgimgo
+    verified: false
+    hashtags: "#dancing, #choreography, #movement, #jordan"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Chile in 2023
+title: Top 10 Makeup TikTok Influencers In Chile In 2023
 description: >-
-  Find top makeup TikTok influencers in Chile in 2023. Most popular hashtags: #makeup #fyp #chile #humor.
+  Find top makeup TikTok influencers in Chile in 2023. Most popular hashtags: #makeup #fyp #humor #chile.
 platform: TikTok
-hits: 69
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 69 TikTok influencers like this in Chile for you to connect with.
+hits: 55
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 55 TikTok influencers like this in Chile for you to connect with.
 profiles:
   - username: "perrocallejerro"
     fullname: >-
@@ -13,84 +13,72 @@ profiles:
     bio: >-
       Let's have fun! 🐾🐶🐾 #chilean #pup #lgbtqplus #makeup #cosplay
     location: "Chile"
-    followers: 9754
-    engagement: 1948
-    commentsToLikes: 0.088688
+    followers: 14300
+    engagement: 657
+    commentsToLikes: 0.096086
     id: ckble2zfd88eg0j23javf8p09
     verified: false
-    hashtags: "#pupplay, #humanpup, #goodboy, #duet"
+    hashtags: "#humanpup, #pupstrog, #goodboy, #pup"
   - username: "polylara"
     fullname: >-
       Poly-na
     bio: >-
       YT 🇨🇱 Polyna Makeup 💄 💖🇩🇪🇨🇱💖😃😎💅🏼🍫🥂🍽🥳
     location: "Chile"
-    followers: 32100
-    engagement: 822
-    commentsToLikes: 0.052302
+    followers: 37100
+    engagement: 801
+    commentsToLikes: 0.059890
     id: ckbesuidkbkyx0j23zj84ukzr
     verified: false
-    hashtags: "#viaje, #chile, #parati, #amor"
-  - username: "koi.grandchester"
+    hashtags: "#navidad, #hombres, #pareja, #tiktoker"
+  - username: "javi.makeup_art"
     fullname: >-
-      Koichi
+      Javi.makeup_art
     bio: >-
-      🌺18🌺Cosplay - Oc Cosplay🌺 ❤Chile🇨🇱❤ 🍃Jjba🍃Dc🍃 Insta @Koichi.Grandchester
+      Sígueme en insta: @javi.makeup_art 🇨🇱 ✨Maquillaje y algo más✨ 10k🔒
     location: "Chile"
-    followers: 5842
-    engagement: 2471
-    commentsToLikes: 0.046477
-    id: ck9eputgtuc260j78l6g37uus
+    followers: 4624
+    engagement: 1918
+    commentsToLikes: 0.061764
+    id: ckcvjsowqxbx10j23089fuyjc
     verified: false
-    hashtags: "#idvcosplay, #eliclark, #larryjohnson, #larryjohnsoncosplay"
-  - username: "gene.lagos"
+    hashtags: "#makeup, #makeupartist, #clownmakeup, #makeupjavi"
+  - username: "1000ton._"
     fullname: >-
-      Genesis Lagos
+      1000ton._
     bio: >-
-      Disney Fan 🏰 ✨All things Disney✨ Content Creator Instagram @genesis_lagos
+      Barista | Starbucks ☕️ 19 años🏳️‍🌈 Viña del mar, Chile📍 Amo a tod@s mis 89,2k
     location: "Chile"
-    followers: 311500
-    engagement: 2176
-    commentsToLikes: 0.013301
-    id: ckcdj0pu28jv40j23hc45p668
+    followers: 89100
+    engagement: 1673
+    commentsToLikes: 0.057266
+    id: ckbf2bzg3p9u00j2398qdkxsb
     verified: false
-    hashtags: "#makeup, #model, #disney, #disneyvillains"
+    hashtags: "#dragqueen, #rupaulsdragrace, #starbucks, #tiktokchile"
   - username: "_angieroa_"
     fullname: >-
       _angieroa
     bio: >-
       Aquí de todo 🇨🇱 MUA ⬇️LOS ESPERO EN⬇️ Instagram @_angieroa YouTube _angieroa
     location: "Chile"
-    followers: 70800
-    engagement: 1107
-    commentsToLikes: 0.044678
+    followers: 83100
+    engagement: 1222
+    commentsToLikes: 0.083673
     id: ckb97josbqabh0j23f2wod09i
     verified: false
-    hashtags: "#makeup, #dragqueen, #mua, #tuneldeltiempo"
-  - username: "kta888"
+    hashtags: "#mystique, #makeupmystique, #mua, #hairstyles"
+  - username: "v0l4t1l"
     fullname: >-
-      kta888
+      Marco Alarcon Vega
     bio: >-
-      META 17k🤯 soy_cazador 16k de chanchis🐷 SPAM DE ❤= BLOQUEO
+      Siganme en insta ⬆️🥺 Mi meta = 100k Difícil pero no imposible 🥺
     location: "Chile"
-    followers: 16500
-    engagement: 2524
-    commentsToLikes: 0.031461
-    id: ckbb79leax8tq0j23wgrsx0xr
+    followers: 30800
+    engagement: 1512
+    commentsToLikes: 0.050782
+    id: ckb9c1cs5yp3i0j23z4r2gmm4
     verified: false
-    hashtags: "#hallowenmakeup, #squad, #elpepe, #shadow"
-  - username: "benjamincalvo44"
-    fullname: >-
-      benjamin calvo
-    bio: >-
-      🙈🏳️‍🌈✨❤️chile ❤️✨UwU 17 ✨❤️
-    location: "Chile"
-    followers: 36000
-    engagement: 2194
-    commentsToLikes: 0.027696
-    id: ckavo2b9ayot30j230j3vcw9k
-    verified: false
-    hashtags: "#comedia, #gayboy, #chile, #humor"
+    hashtags: "#chile, #drag, #fyp, #lgbt"
   - username: "jenni.ta_smiles"
     fullname: >-
       Jennita Smile
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.096823
     id: ckdnuwulnnu7q0j23uds3qpu2
     verified: false
-    hashtags: "#tik, #milenialtiktok, #makeup, #humor"
+    hashtags: "#parati, #milenialtiktok, #chilena, #teamlosparienteschile"
+  - username: "benjamincalvo44"
+    fullname: >-
+      benjamin calvo
+    bio: >-
+      Escorpio 🙈🏳️‍🌈✨❤️chile ❤️✨UwU 18✨❤️
+    location: "Chile"
+    followers: 35000
+    engagement: 2160
+    commentsToLikes: 0.026317
+    id: ckavo2b9ayot30j230j3vcw9k
+    verified: false
+    hashtags: "#gayboy, #cxybca, #tiktok, #lgbtq"
   - username: "rio.tew"
     fullname: >-
-      rio 
+      rio
     bio: >-
-      20 business/inquiries please email riokritew@gmail.com click for cool YT vid ⬇️
+      welcomes :) riokritew@gmail.com check if the brands you use are vegan/CF ⬇️
     location: "Chile"
-    followers: 1800000
-    engagement: 2436
-    commentsToLikes: 0.008007
+    followers: 2200000
+    engagement: 2211
+    commentsToLikes: 0.007161
     id: ck8ae81kbanpo0j78b8cunwfq
     verified: false
-    hashtags: "#sfx, #sfxmakeup, #halloween, #fyp"
-  - username: "flame4ngel"
+    hashtags: "#fairymakeup, #sfxmakeup, #artist, #foryoupage"
+  - username: "davidnicolassss"
     fullname: >-
-      𝔖𝔬𝔣𝔰🌹
+      David Montoya ✨
     bio: >-
-      🇨🇱🇺🇸
+      Elle 🐶💖 Meta 2M 🥰✨ Ve mis videos de Yutub 🐣 🌻 insta: davidnicolasss 💕
     location: "Chile"
-    followers: 120300
-    engagement: 2009
-    commentsToLikes: 0.015911
-    id: ck80onmqhikiw0j78m6rux33o
+    followers: 1300000
+    engagement: 1238
+    commentsToLikes: 0.011147
+    id: ckcvjx1taxia00j234nwpjvhj
     verified: false
-    hashtags: "#parati, #trend, #trending, #comehere"
+    hashtags: "#wig, #parati, #makeup, #transition"
 ---

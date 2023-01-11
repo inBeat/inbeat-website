@@ -1,24 +1,36 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Miami in 2023
+title: Top 10 Architecture TikTok Influencers In Miami In 2023
 description: >-
-  Find top architecture TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #architecture #miami #interiordesign.
+  Find top architecture TikTok influencers in Miami in 2023. Most popular hashtags: #miami #architecture #fyp #art.
 platform: TikTok
-hits: 5
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 5 TikTok influencers like this in Miami, United States for you to work with.
+hits: 7
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 7 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
-  - username: "debbieperez47"
+  - username: "debbie.perez"
     fullname: >-
       Debbie Perez
     bio: >-
-      cubana renaissance enthusiast harvard // gates scholar
+      cubana art/architecture historian harvard // miami Sith Lord
     location: "United States"
-    followers: 31600
-    engagement: 1898
-    commentsToLikes: 0.015261
+    followers: 30700
+    engagement: 1828
+    commentsToLikes: 0.013352
     id: ckbqq83l8b5n50j23xytitdt0
     verified: false
-    hashtags: "#medieval, #europe, #davinci, #renaissance"
+    hashtags: "#leonardodavinci, #davinci, #renaissanceart, #arthistory"
+  - username: "francenehalili"
+    fullname: >-
+      francenehalili
+    bio: >-
+      IG:@francenehalili
+    location: "United States"
+    followers: 5120
+    engagement: 799
+    commentsToLikes: 0.027543
+    id: ckd0blnmscf5n0j23god7ugdl
+    verified: false
+    hashtags: "#foryourpage, #tiktokdiy, #puppies, #tiktokph"
   - username: "karlapohlmann"
     fullname: >-
       Karla Pohlmann
@@ -30,101 +42,89 @@ profiles:
     commentsToLikes: 0.013042
     id: ck9a4sawxvvsy0j78e1h4huss
     verified: false
-    hashtags: "#dogsoftiktok, #myinstaxshoutout, #justaddglitter, #tiktoktraditions"
+    hashtags: "#cotedazur, #interiordesign, #fyp, #dogs"
+  - username: "meandmypeabrain"
+    fullname: >-
+      Me&my.peabrain
+    bio: >-
+      SC: daniel_kamb | I am profusely sweating
+    location: "United States"
+    followers: 2064
+    engagement: 1078
+    commentsToLikes: 0.048102
+    id: ckcdhesxc7nzw0j23fhi4uru8
+    verified: false
+    hashtags: "#whydoidothis, #foryoupage, #imsobored, #fyp"
+  - username: "felixsemper"
+    fullname: >-
+      felixsemper
+    bio: >-
+      Stretching your imagination www.felixsemper.com
+    location: "United States"
+    followers: 520700
+    engagement: 708
+    commentsToLikes: 0.006575
+    id: ckb9mfm08fiae0j23ns0kxde7
+    verified: false
+    hashtags: "#semperart, #art, #rap, #sculpture"
   - username: "eamm97"
     fullname: >-
       Ernesto Medina
     bio: >-
       Follow me on Instagram 👆🏻
     location: "United States"
-    followers: 21200
-    engagement: 520
-    commentsToLikes: 0.066434
+    followers: 24700
+    engagement: 396
+    commentsToLikes: 0.056252
     id: cka7p9dn66dwp0i78qgc543sx
     verified: false
-    hashtags: "#bidenharris2020, #bidenwon, #election, #funny"
-  - username: "missidaalexis"
+    hashtags: "#bidenharris2020, #biden2020, #funny, #election"
+  - username: "ckconstruction"
     fullname: >-
-      Missidaalexis
+      user5610608491474
     bio: >-
-      NYC🍎🗽
+      
     location: "United States"
-    followers: 20400
-    engagement: 649
-    commentsToLikes: 0.013347
-    id: ckajjtzxjmypa0i78mm19zns3
+    followers: 9114
+    engagement: 489
+    commentsToLikes: 0.015201
+    id: ckav3ta7ta7dw0j23vxq056o5
     verified: false
-    hashtags: "#design, #helicopter, #fashion, #heels"
-  - username: "coleslawisthename"
+    hashtags: "#bathroom, #contractor, #carpenter, #tiles"
+  - username: "debbie.perez"
     fullname: >-
-      Alexander Locke
+      Debbie Perez
     bio: >-
-      🛳Travel✈️ ➕ 🎞Video🎥
+      cubana art/architecture historian harvard // miami Sith Lord
     location: "United States"
-    followers: 16000
-    engagement: 453
-    commentsToLikes: 0.024460
-    id: ckb9v65eyu82i0j23u2vmk7cs
+    followers: 30700
+    engagement: 1828
+    commentsToLikes: 0.013352
+    id: ckbqq83l8b5n50j23xytitdt0
     verified: false
-    hashtags: "#lol, #nyc, #friends, #bird"
+    hashtags: "#leonardodavinci, #davinci, #renaissanceart, #arthistory"
   - username: "nicksaremi"
     fullname: >-
       Nick Saremi
     bio: >-
       Home of #architecturetiktok Smiles • Real Estate • Tips 📍Los Angeles
     location: "United States"
-    followers: 81700
-    engagement: 795
-    commentsToLikes: 0.028410
+    followers: 107800
+    engagement: 857
+    commentsToLikes: 0.049946
     id: ck9k9al5tcfbq0j784mvcqybp
     verified: false
-    hashtags: "#architecturetiktok, #modern, #realtorsoftiktok, #secretroom"
-  - username: "emilyrayna"
-    fullname: >-
-      Emily Shaw
-    bio: >-
-      Interior Design/Architecture emilyrayna@select.co Check out my YouTube and IG!
-    location: "United States"
-    followers: 3400000
-    engagement: 1177
-    commentsToLikes: 0.005788
-    id: ckbkvhpq2qyqb0j23um0ytaq8
-    verified: true
-    hashtags: "#artober, #ios14, #dayinmylife, #myart"
-  - username: "studiosaira.ph"
-    fullname: >-
-      Architect Saira Margarita
-    bio: >-
-      Licensed Architect 🇵🇭 RISD’21 architecture@sairamargarita.com 👇FREE EBOOK!👇
-    location: "United States"
-    followers: 144500
-    engagement: 727
-    commentsToLikes: 0.022798
-    id: ckck2z8pummpj0j233qrlp8ov
-    verified: false
-    hashtags: "#galingngpinoy, #architecture, #learnontiktok, #architecturestudent"
+    hashtags: "#ca, #realtorsoftiktok, #architecturetiktok, #la"
   - username: "adventurousarchitect"
     fullname: >-
       AdventurousArchitect
     bio: >-
-      Dream | travel vlog Daily inspo Travel, Quotes and Architecture
+      Dream | travel Daily inspo Travel, Quotes and Architecture Thanks for 49k 😍
     location: "United States"
-    followers: 49200
-    engagement: 731
-    commentsToLikes: 0.023620
+    followers: 49700
+    engagement: 893
+    commentsToLikes: 0.053150
     id: cka6dzxfk9uaj0i78q1fgfyq8
     verified: false
-    hashtags: "#adventurousarchitect, #foryou, #fyp, #architecture"
-  - username: "tlmazer"
-    fullname: >-
-      Taylor Mazer
-    bio: >-
-      Working Artist Adjunct Professor at Kendall College of Art taylordraws.com
-    location: "United States"
-    followers: 15900
-    engagement: 1859
-    commentsToLikes: 0.037283
-    id: ck95xi2y060h80j78l90sodnc
-    verified: false
-    hashtags: "#illustration, #penartwork, #carart, #artwork"
+    hashtags: "#stitch, #greenscreen, #adventurousarchitect, #greenscreenvideo"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Christian Instagram Influencers In Medellín in 2023
+title: Top 10 Christian Instagram Influencers In Medellín In 2023
 description: >-
-  Find top christian Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #colombia #cali #cuarentena.
+  Find top christian Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #tbt #cali.
 platform: Instagram
-hits: 6
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 6 Instagram influencers like this in Medellín, Colombia for you to work with.
+hits: 5
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 5 Instagram influencers like this in Medellín, Colombia for you to connect with.
 profiles:
-  - username: "jefryoquendo"
+  - username: "harvy_valencia_"
     fullname: >-
-      Jefry Oquendo 😜🔥
+      Harvy Valencia
     bio: >-
-      Piensa, siente y vive⚡POSITIVO⚡ 🇨🇴Colombia CEO Fundador @hitdancebaq
+      1994 Music, Harvibal, Hottrax, Stereo Production, Elrow, Deeperfect
     location: "Colombia"
-    followers: 67034
-    engagement: 138
-    commentsToLikes: 0.036465
-    id: ck5c7jy5i7nzp0i11wc3lo3kj
+    followers: 29437
+    engagement: 565
+    commentsToLikes: 0.052081
+    id: ck55m8su63gso0i11opns14q3
     verified: false
-    hashtags: "#barranquilla, #quedateencasa, #socialdancetv, #bailando"
-  - username: "traplatinoinc"
+    hashtags: "#medellin, #tbt, #harvyvalencia, #beethoven"
+  - username: "byfieldtravel"
     fullname: >-
-      TRAP LATINO INC 🇨🇴
+      Christian Byfield Travel
     bio: >-
-      •Noticias Del Género Urbano •Siguenos para que te enteres de todo 🇵🇷🗞 •PROMOCIONES - WHATSAPP⬇️
+      Colombian, quit my 👔 job, decided to collect smiles around the 🌍 🔹77 countries so far #travel 📍 Colombia 🇨🇴 My book and pics 📙👇
     location: "Colombia"
-    followers: 203455
-    engagement: 120
-    commentsToLikes: 0.031951
-    id: ck14i5kbrdqwl0i19pyt5c1ot
-    verified: false
-    hashtags: "#barranquilla, #bryantmyers, #colombia, #medellin"
-  - username: "el.neru"
-    fullname: >-
-      EL COME VIDRIO🔞
-    bio: >-
-      MIRA MIS HISTORIAS 🤪 ~ CREADOR DE CONTENIDO ~PUBLICIDAD AL +57 301 6558105 ~ @lugojoyeros ~ @finosmen
-    location: "Colombia"
-    followers: 43295
-    engagement: 685
-    commentsToLikes: 0.121217
-    id: ck5pw1ytzkpln0i11haxab8b1
-    verified: false
-    hashtags: "#colombia, #mundo, #todasmienten, #cuarentena"
+    followers: 327495
+    engagement: 303
+    commentsToLikes: 0.019263
+    id: ck0txvv9ako4h0i19hhtzzbwy
+    verified: true
+    hashtags: "#viajar, #colombia, #chbaroundtheworld, #yovoy"
   - username: "cristian.107"
     fullname: >-
       匚卄
     bio: >-
-      @cristian.107 Video de palmas 🌴🔥👇🏻👇🏻👇🏻
+      @cristian.107 🙋🏻‍♂️ Rider- MT07 🏁💥🏍 Medellín - 🇨🇴 BikeLife 🔥🤟🏻
     location: "Colombia"
-    followers: 20061
-    engagement: 296
-    commentsToLikes: 0.013262
+    followers: 22880
+    engagement: 423
+    commentsToLikes: 0.014173
     id: ck6trelouyj9n0j71iv2wdtot
     verified: false
-    hashtags: "#yz250f, #yamaha, #nigth, #instagood"
+    hashtags: "#instabike, #bikelife, #medellin, #stuntlife"
   - username: "cristianarangoo"
     fullname: >-
       Cristian Arango
     bio: >-
       Contador 🎓 Especialista en finanzas 🎓 Cali - Colombia 🇨🇴
     location: "Colombia"
-    followers: 55704
-    engagement: 473
-    commentsToLikes: 0.028478
+    followers: 54931
+    engagement: 419
+    commentsToLikes: 0.023899
     id: ck8tc6vqoyhzc0j78e599429f
     verified: false
-    hashtags: "#workout, #guy, #progreso, #men"
+    hashtags: "#instagram, #men, #guystyle, #fitnessboy"
   - username: "crispasquel"
     fullname: >-
       Cristian Pasquel
     bio: >-
       •Host de TV 📺 y eventos Creador de contenido digital
     location: "Colombia"
-    followers: 109385
-    engagement: 235
-    commentsToLikes: 0.033054
+    followers: 108525
+    engagement: 180
+    commentsToLikes: 0.032840
     id: ck8sxy3mqj3070j78aoa9xlk5
     verified: false
-    hashtags: "#cali, #colombia, #viral, #medellin"
+    hashtags: "#cali, #medellin, #colombia, #humor"
   - username: "christianacosta"
     fullname: >-
       Christian Acosta
     bio: >-
       Colombian-American
     location: "Colombia"
-    followers: 500022
-    engagement: 390
-    commentsToLikes: 0.029106
+    followers: 505954
+    engagement: 362
+    commentsToLikes: 0.020663
     id: ck9hcq96umk400j78k47sb418
     verified: true
-    hashtags: "#halloween, #matrix, #billboards2020, #kentucky"
-  - username: "christiancardonap"
+    hashtags: "#colombia, #halloween, #matrix, #mieditooque"
+  - username: "christian_aleman23"
     fullname: >-
-      Christian Cardona
+      Christian Aleman 🇪🇨
     bio: >-
-      Fotógrafo y Director en @xpress.books Embajador @magnetmod @safe_click @photoprintcol @geekoto @slrlounge 📞(+57) 3102208364
+      Cuenta Oficial, Jugador de @arkagdyniassa #7
     location: "Colombia"
-    followers: 29187
-    engagement: 207
-    commentsToLikes: 0.025031
-    id: ck0vvnelqpw9x0i19jqgxurpu
+    followers: 40105
+    engagement: 927
+    commentsToLikes: 0.010449
+    id: ck5zwidf166m40i14fwfvzixq
     verified: false
-    hashtags: "#cardonitas, #bodascolombia, #noviasfelices, #christiancardona"
-  - username: "mecopenhague"
+    hashtags: "#gdynia"
+  - username: "camiilomaya"
     fullname: >-
-      Copenhague con subtítulos
+      Camilo Maya
     bio: >-
-      Noticias, hygge y paseos Soy Fer Lago 🏡 en 🇩🇰 👩🏻‍🎓 Comunicadora Social Escribo para #revistaquid @lanacioncom y grabo podcast sobre Dinamarca 👇
+      Management: @laoficina___ TikTok: camiilomaya 🌴 PUEDO MÁS 🌴
     location: "Colombia"
-    followers: 15221
-    engagement: 870
-    commentsToLikes: 0.113202
-    id: ck6tig9c90ntr0j71vwkr6fs6
+    followers: 13010
+    engagement: 449
+    commentsToLikes: 0.078029
+    id: ck9wd2lx9dsjh0j78kb8nou5f
     verified: false
-    hashtags: "#copenhagendenmark, #tourism, #copenhagen, #visitdenmark"
+    hashtags: "#fun, #reels, #jesus, #christian"
+  - username: "madiellara"
+    fullname: >-
+      OnTheBeatBro!🇩🇴⚡️⚡️⚡️
+    bio: >-
+      Music Producer | Artist | madiel.lara@gmail.com | Manager @arias_ykwii #MLOTB #TieneDueño 🚀 OUT NOW
+    location: "Colombia"
+    followers: 167313
+    engagement: 204
+    commentsToLikes: 0.023782
+    id: ck0w6rjwt9yja0i19ajz4xv1d
+    verified: true
+    hashtags: "#madiellara, #youtube, #gospel, #onthebeat"
   - username: "danielroaart"
     fullname: >-
       Daniel Roa
     bio: >-
-      24. Fashion Photographer 🎞 Queer Colombian 💕 They/Them ✨ New to NYC. SCAD Alumni
+      Fashion Photographer 🎞 Queer Colombian 💕 They/Them ✨ New to NYC. SCAD Alumni
     location: "Colombia"
-    followers: 5732
-    engagement: 477
-    commentsToLikes: 0.035390
+    followers: 5553
+    engagement: 458
+    commentsToLikes: 0.039279
     id: ck6u6d8xkex360j71p7mvit7a
     verified: false
-    hashtags: "#queerart, #queerfashion, #gaypride, #vintage"
+    hashtags: "#120mm, #genderneutral, #nycfashionphotographer, #vintage"
 ---

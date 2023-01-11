@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Istanbul in 2023
+title: Top 10 Lifestyle Instagram Influencers In Istanbul In 2023
 description: >-
-  Find top lifestyle Instagram influencers in Istanbul in 2023. Most popular hashtags: #istanbul #turkey #baby.
+  Find top lifestyle Instagram influencers in Istanbul in 2023. Most popular hashtags: #love #style #instagood #lifestyle.
 platform: Instagram
-hits: 286
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 286 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+hits: 271
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 271 Instagram influencers like this in Istanbul, Turkey for you to connect with.
 profiles:
-  - username: "its_fama"
-    fullname: >-
-      Fatima
-    bio: >-
-      PhD in SE👩‍🎓 | Doll's Mom 🤱 Traveler✈️ | Foodie🌮 | Makeup Lover💄 Follow for daily stories 🎥 Pakistani based in Istanbul 🇵🇰 🇹🇷 DM for collaboration
-    location: "Turkey"
-    followers: 16676
-    engagement: 195
-    commentsToLikes: 0.115854
-    id: ck8t4eqqz6iuu0j78g7tw59ry
-    verified: false
-    hashtags: "#multan, #malaysia, #istanbulturkey, #pakistan"
-  - username: "aysel_trendlook"
-    fullname: >-
-      #karabakhisazerbaijan
-    bio: >-
-      Aysel Mamedzade Baku/Azerbaijan🇦🇿 📍İstanbul🇹🇷 PHD📚-İstanbul University/Psychology Reklam və iş birlikləri üçün Dm📥 ❤️🔒
-    location: "Turkey"
-    followers: 53320
-    engagement: 253
-    commentsToLikes: 0.207384
-    id: ck9hbnahjhlu80j78a5zlp12e
-    verified: false
-    hashtags: "#karabakhisazerbaijan, #stoparmenianterrorism, #bbc, #bbcnews"
   - username: "ezgiozdemirr"
     fullname: >-
       Begüm Ezgi Özdemir
     bio: >-
-      💎 Lifestyle 📍 Istanbul 💌 begumezgiozdemirr@gmail.com
+      Fashion & Lifestyle Istanbul begumezgiozdemirr@gmail.com
     location: "Turkey"
-    followers: 24366
-    engagement: 218
-    commentsToLikes: 0.067659
+    followers: 26362
+    engagement: 142
+    commentsToLikes: 0.053224
     id: ck14lna73vipa0i19pdspm9rd
     verified: false
-    hashtags: "#tb, #worldcoffeeday, #pamukkale, #pamukkaletravertenleri"
+    hashtags: "#throwback, #sunset, #sky, #reflection"
+  - username: "shirin_noorbakhsh"
+    fullname: >-
+      Shirin Nourbakhsh
+    bio: >-
+      📍Istanbul 🇹🇷
+    location: "Turkey"
+    followers: 324183
+    engagement: 486
+    commentsToLikes: 0.013605
+    id: ck5hpgd2hrbck0i11covn7pm0
+    verified: false
+    hashtags: "#style, #love, #lifestyle, #istanbul"
+  - username: "vlknbrt"
+    fullname: >-
+      ᴠᴏʟᴋᴀɴ ʙᴀʀᴜᴛ | 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢
+    bio: >-
+      ɪᴢᴍɪʀ & ʟᴏs ᴀɴɢᴇʟᴇs📍 ᴅᴍ ᴛᴏ ʙᴏᴏᴋ ғᴏʀ sʜᴏᴏᴛɪɴɢ 📸 •𝚙𝚘𝚛𝚝𝚛𝚊𝚒𝚝 •𝚏𝚊𝚜𝚑𝚒𝚘𝚗 •𝚜𝚎𝚗𝚜𝚞𝚊𝚕 •𝚜𝚙𝚘𝚛𝚝 @flyforart 🚁
+    location: "Turkey"
+    followers: 6719
+    engagement: 371
+    commentsToLikes: 0.051416
+    id: ckapb6kejyr5h0i78v3qx8bvh
+    verified: false
+    hashtags: "#bikini, #yoga, #losangelesphotographer, #portrait"
+  - username: "seniojeli"
+    fullname: >-
+      Kübra Vural
+    bio: >-
+      Protez (Jel) Tırnak Uzmanı 💅🏻 Nailart 💅🏻 Benim ellerim, benim emeklerim🙏🏻💐 @vural_k
+    location: "Turkey"
+    followers: 19147
+    engagement: 166
+    commentsToLikes: 0.142049
+    id: ckf5s44yjeovd0j23n9vkzwcg
+    verified: false
+    hashtags: "#happy, #kal, #snakenails, #naildesign"
+  - username: "gizemnyildirim"
+    fullname: >-
+      Gizem  ོ
+    bio: >-
+      Petite Fashion & Travel 🎓Kadıköy Maarif | Koç University Law & IR 📍İstanbul 🇮🇹🇹🇷
+    location: "Turkey"
+    followers: 34967
+    engagement: 294
+    commentsToLikes: 0.016338
+    id: ck0u7ucsk5ni00i19thgsqht6
+    verified: false
+    hashtags: "#fashionista, #cute, #inspiration, #pinterest"
+  - username: "1iphikayesi"
+    fullname: >-
+      A Yarn Story 👑
+    bio: >-
+      En farklı örgü modellerini burdan (takip) edin. Not all pictures are mine! TÜRKİYE & İSTANBUL 🌏
+    location: "Turkey"
+    followers: 153673
+    engagement: 84
+    commentsToLikes: 0.005590
+    id: ck14jbu7qjjvf0i19eapbz5u7
+    verified: false
+    hashtags: "#solakayd, #instacrochet, #ramadaneid, #eli"
   - username: "fatosnildos"
     fullname: >-
       F A T M A 💃🏻
     bio: >-
-      influencer | LifeStyle 📍İstanbul ⚡️ Nilda🎀 @ebebek bloggerakademi mezunu 🎓 Sabırlı biriyim hiç insan öldürmedim 🤓🔫
+      influencer | LifeStyle 📍İstanbul ⚡️ Nilda🎀 Sabırlı biriyim hiç insan öldürmedim 🤓🔫
     location: "Turkey"
-    followers: 141770
-    engagement: 123
-    commentsToLikes: 0.067756
+    followers: 164105
+    engagement: 112
+    commentsToLikes: 0.070116
     id: ckap3papy3ypq0i78stmevofp
     verified: false
-    hashtags: "#sal, #huzurum, #ma, #yaz"
+    hashtags: "#sonbahar, #hayallerim, #kandil, #elartc"
+  - username: "oykununoykuleri"
+    fullname: >-
+      Öykünün Öyküleri
+    bio: >-
+      experience junkie | travel & lifestyle • Dubai & Istanbul • blog & youtube: oykununoykuleri ♡ Gün batımı görmediğimiz ülke kalmasın
+    location: "Turkey"
+    followers: 70299
+    engagement: 413
+    commentsToLikes: 0.026016
+    id: ck6ue700fp6kk0j71wdw1th1o
+    verified: false
+    hashtags: "#igtvcommunity, #sunriseoftheday, #asushepyan, #30daychallenge"
+  - username: "cerenkulahli"
+    fullname: >-
+      Ceren Külahlı
+    bio: >-
+      📸Makeup | Beauty | Lifestyle 📍İstanbul 🦆Twitter: cerenkulahli 📩PR: cerenkulahli2@gmail.com
+    location: "Turkey"
+    followers: 87751
+    engagement: 167
+    commentsToLikes: 0.025207
+    id: ck8t09eaxra4i0j78w6hhxucx
+    verified: false
+    hashtags: "#snow, #winter, #winterfashion, #ootd"
   - username: "kubra.aydogn"
     fullname: >-
       Kübra Aydoğan
     bio: >-
       Fashion | Lifestyle 📍İstanbul @mesut.aydogan ❤️
     location: "Turkey"
-    followers: 20800
-    engagement: 244
-    commentsToLikes: 0.031577
+    followers: 22833
+    engagement: 232
+    commentsToLikes: 0.037333
     id: ck0u81ece66wa0i1946357sdt
     verified: false
-    hashtags: "#style, #instamood, #instagram, #photooftheday"
-  - username: "cerenkulahli"
-    fullname: >-
-      Ceren Külahlı
-    bio: >-
-      📸Makeup | Beauty | Lifestyle 📍İstanbul 🦆Twitter: cerenkulahli 📩PR: cerenkulahli2@gmail.com 〽️Ürünlerime ulaşmak için🔽
-    location: "Turkey"
-    followers: 63702
-    engagement: 104
-    commentsToLikes: 0.024012
-    id: ck8t09eaxra4i0j78w6hhxucx
-    verified: false
-    hashtags: ""
-  - username: "ceernkaya"
-    fullname: >-
-      Ceren Kaya ♡
-    bio: >-
-      Fashion, Lifestyle & Beauty Istanbul
-    location: "Turkey"
-    followers: 196889
-    engagement: 484
-    commentsToLikes: 0.028223
-    id: ck0u61xoo0qnj0i19w444z9wa
-    verified: false
-    hashtags: "#speedpro, #ritminiyans, #reachlx300, #reachlx6000"
-  - username: "alpertorunn"
-    fullname: >-
-      Alper Torun
-    bio: >-
-      Outdoor Lifestyle Photographer İstanbul / Turkey
-    location: "Turkey"
-    followers: 263554
-    engagement: 111
-    commentsToLikes: 0.031196
-    id: ckaot5m1muhe60i7816faz4cg
-    verified: false
-    hashtags: "#libertybridge, #istanbul"
-  - username: "cairofoodiecouple"
-    fullname: >-
-      The Terzibashians 🇦🇲
-    bio: >-
-      📽: TV hosts at @fatafeatchannel 👫 Travel - Food - Lifestyle 📌Istanbul - Cairo ✈️Travel Vlogs 📃Food reviews
-    location: "Turkey"
-    followers: 168245
-    engagement: 60
-    commentsToLikes: 0.091669
-    id: ck0w1ccquin5u0i19z48ujtoa
-    verified: false
-    hashtags: "#couple, #baby, #bbq, #socialdistancing"
-  - username: "icimdebirdoga"
-    fullname: >-
-      Hilal Özçelik Karadağ
-    bio: >-
-      Ｄｏğａ 🌾 #lifestyle #motherhood İstanbul & Balıkesir🎈 İş birligi yapabiliriz 🎗
-    location: "Turkey"
-    followers: 17791
-    engagement: 292
-    commentsToLikes: 0.061886
-    id: ckaotcscyvcnh0i7872mprki8
-    verified: false
-    hashtags: "#ekg, #yenidoganbebek, #instamom, #saglik"
+    hashtags: "#instamood, #photooftheday, #style, #home"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers in 2023
+title: Top 10 Home Decor Instagram Influencers In 2023
 description: >-
-  Find top home decor Instagram influencers in 2023. Most popular hashtags: #ootd #decor #ad.
+  Find top home decor Instagram influencers in 2023. Most popular hashtags: #homedecor #homesweethome #domoweinspiracje.
 platform: Instagram
-hits: 8080
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 8080 Instagram influencers like this for you to connect with.
+hits: 8355
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 8355 Instagram influencers like this for you to pitch.
 profiles:
   - username: "inesbeautypl"
     fullname: >-
       𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
     bio: >-
-      𝓐𝓰𝓮41|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
+      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
     location: "Poland"
-    followers: 36614
-    engagement: 763
-    commentsToLikes: 0.851104
+    followers: 48228
+    engagement: 344
+    commentsToLikes: 0.110260
     id: ck8tdgwnv399r0j78scov01sy
     verified: false
-    hashtags: "#niechsiedziejenajlepiej, #pozytywnabzdurka, #ialreadysawoso"
-  - username: "stella_thayzer"
+    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
+  - username: "camilab02"
     fullname: >-
-      stella thayzer
+      CAMILA BARBOSA
     bio: >-
-      Lifestyle | Travel | Nature | Dicas Graduanda em Nutrição🍎 4|8 Empreendedora @stella_homedecor 🏡 De @portodegalinhas 🌊
-    location: "Brazil"
-    followers: 18169
-    engagement: 549
-    commentsToLikes: 0.152962
-    id: ck15t7cyjgotj0i19j2c97cgb
+      📍colombia Embajadora de @gentlemanrevista @bb_homedecor_ 🍃
+    location: "Colombia"
+    followers: 26178
+    engagement: 435
+    commentsToLikes: 0.085452
+    id: ckap8avl4nl9t0i789g19rh25
     verified: false
-    hashtags: "#viagem, #viajar, #modafeminina, #ferias"
-  - username: "poncikeliz"
+    hashtags: "#aqu"
+  - username: "paopati"
     fullname: >-
-      Cansu EROL /INFLUENCER
+      paopati🧿 | Content Creator
     bio: >-
-      🏠 homedecoration 💡DIY project 🌿 lifestyle 🍀Azeri 🇹🇷🇦🇿Ankara
-    location: "Turkey"
-    followers: 25799
-    engagement: 425
-    commentsToLikes: 0.061656
-    id: ckap26p3gxlzk0i78ycxsx65a
-    verified: false
-    hashtags: "#annebebek, #omaybgn34, #baby, #justbaby"
-  - username: "madisonclevenstine"
-    fullname: >-
-      Madison Clevenstine
-    bio: >-
-      • Style + Lifestyle Blog | Musings by Madison • A modern gal’s guide to feminine, classic style, beauty, home decor, & more. • SHOP MY FALL CAPSULE ⬇️
+      💎 beauty • lifestyle • fashion • homedecor 🌴 beach lover 🎨 @paopatimakeup 🏰 orlando fl. special needs mom 🤍 @babynoahatencio
     location: "United States"
-    followers: 15479
-    engagement: 664
-    commentsToLikes: 0.069061
-    id: ck5cctexshzdc0i11mxnb46p3
+    followers: 43516
+    engagement: 323
+    commentsToLikes: 0.026788
+    id: ck5q7n2hy2b6n0i11uxtiyf14
     verified: false
-    hashtags: "#ltkunder100, #attheomni, #ltkhome, #omnihotels"
+    hashtags: "#discoverycove, #orlandofl, #ootdpaopati, #fashionblogger"
   - username: "letiespadas"
     fullname: >-
       𝐋𝐞𝐭𝐲 𝐄𝐬𝐩𝐚𝐝𝐚𝐬
     bio: >-
-      Lifestyle|fashion|homedecor|abogada 📩 letyespadas7@gmail.com 🛍 código @sheinofficial 15% OFF “Lety” 𝐼𝓈𝒶𝒾𝒶𝒽 𝟦𝟣:𝟣𝟢 🕊 CEO @letyespadasboutique
+      Lifestyle|fashion|homedecor|abogada 📩 letyespadas7@gmail.com 𝐂ó𝐝𝐢𝐠𝐨 𝐒𝐇𝐄𝐈𝐍 15% OFF 𝐋𝐄𝐓𝐘 𝐼𝓈𝒶𝒾𝒶𝒽 𝟦𝟣:𝟣𝟢 🕊 CEO @orlandopicnic.flower @letyespadasboutique
     location: "United States"
-    followers: 53407
-    engagement: 209
-    commentsToLikes: 0.093273
+    followers: 50748
+    engagement: 196
+    commentsToLikes: 0.095089
     id: ck0vzx5csbbkn0i19smj5hx8k
     verified: false
-    hashtags: "#shopalfaparfusa, #ad, #patmcgrathlabs, #cheirosa62candle"
-  - username: "audrey.lanamonamour"
+    hashtags: ""
+  - username: "stella_thayzer"
     fullname: >-
-      || Audrey & Lana ||
+      stella thayzer
     bio: >-
-      • Ma vie de maman ♾ ♡ Lana 6 ans ♡ Bébé (avril 2023) • Strasbourg, 🇫🇷 #kids #family #fashion #homedecor Lien direct 🔛
-    location: "France"
-    followers: 19795
-    engagement: 557
-    commentsToLikes: 0.176878
-    id: ck6ubxm42c9vv0j71p91zyngi
+      Lifestyle | Travel | Nature | Dicas Graduanda em Nutrição🍎 5/8 Empreendedora @stella_homedecor 🏡 De @portodegalinhas 🌊
+    location: "Brazil"
+    followers: 19411
+    engagement: 323
+    commentsToLikes: 0.157933
+    id: ck15t7cyjgotj0i19j2c97cgb
     verified: false
-    hashtags: "#fashionaddict, #family, #weekend, #familygoals"
+    hashtags: "#positividade, #fitness, #vibes, #fitnessgirl"
   - username: "kemczi"
     fullname: >-
       Kamila Prasek
     bio: >-
-      #fashion, #lifestyle ,#homedecor ,#travel, #food | Poland contact 📩surifashion4@gmail.
-    location: "Germany"
-    followers: 52521
-    engagement: 304
-    commentsToLikes: 0.110236
+      #fashion, #lifestyle ,#homedecor ,#travel, #food | Poland contact 📩surifashion4@gmail.com
+    location: "Poland"
+    followers: 50093
+    engagement: 284
+    commentsToLikes: 0.086568
     id: ck5c1b3kcutf50i11srl7uef5
     verified: false
-    hashtags: "#mood, #enjoy, #artistry, #cosmetics"
+    hashtags: "#beautyaddicted, #styleblogger, #polishgirl, #kosmetyk"
+  - username: "selinata"
+    fullname: >-
+      SELINA
+    bio: >-
+      🌼Lifestyle🌼 DIY🌼 Creative mind🌼 ❤ @jonas3_3 👫 Own homedecor shop 🛍️ makrameebyselina
+    location: "Germany"
+    followers: 5563
+    engagement: 620
+    commentsToLikes: 0.072358
+    id: ck6u9q2hxyz2z0j71qhogv49j
+    verified: false
+    hashtags: "#anajohnson, #wintervibes, #explorersauruspresets, #winterwonderland"
+  - username: "what_makes_me_enjoy"
+    fullname: >-
+      Hej! Tu Marzena 🤎
+    bio: >-
+      📸 #flatlay 🏡 #homedecor ☕️ #mymagicmoment 🤎 #whatmakesmeenjoy 📩 whatmakesmeenjoy@gmail.com ✨ ambasadorka @otsohandmade
+    location: "Poland"
+    followers: 12121
+    engagement: 1175
+    commentsToLikes: 0.118877
+    id: ck6todmoidhj10j719yzizxi5
+    verified: false
+    hashtags: "#interior123, #hyggehome, #xmasiscoming, #christmasflatlay"
   - username: "soodecoo"
     fullname: >-
       S͢o͢p͢h͢i͢e͢ -  🌸 Déco
     bio: >-
       ▪️Maman de 2 petites filles 💕 ▪️Amoureuse #homedecor #inspideco #scandinavehome #decorationinterieur #decoaddict
     location: "France"
-    followers: 38319
-    engagement: 947
-    commentsToLikes: 0.082157
+    followers: 72646
+    engagement: 673
+    commentsToLikes: 0.096872
     id: ck6tmstnl8gsy0j71i6ljum51
     verified: false
-    hashtags: "#cocooning, #follow, #homeinterior, #passion4interior"
-  - username: "taianafilpo"
+    hashtags: "#interior2you, #decoracion, #instagram, #livingroomgoals"
+  - username: "domek_na_krotkiej"
     fullname: >-
-      taiana Filpo
+      Cześć jestem Daria😊
     bio: >-
-      God🙏🏻 🇩🇴 @gemelasfilpo Stylist 💁🏻💄•Decor 🏡 •Fam(ily❤️) 👨‍👩‍👧 •lifestyle #homedecor 📩 taianafilpo@gmail.com
-    location: "Dominican Republic"
-    followers: 19679
-    engagement: 263
-    commentsToLikes: 0.038154
-    id: ck6tuadsgf7q80j71e99sd4tw
+      Zapraszam do mojego domu 🏠 #domeknakrotkiej #scandinavianstyle #homedecor 🏘 Projekty koncepcyjne @daria_projektuje 📩Współpraca domeknakrotkiej@wp.pl
+    location: "Poland"
+    followers: 23434
+    engagement: 589
+    commentsToLikes: 0.089283
+    id: ck8t5ddf29qoh0j7843rvzt2w
     verified: false
-    hashtags: "#lastazasdetai, #taianafilpo, #taistyle, #decor"
-  - username: "luciemcelroy"
-    fullname: >-
-      Lucie McElroy
-    bio: >-
-      Czech born, Toronto implant 🇨🇦🇨🇿 Turning our new house into a home 🏠 Mom to little Rory 🐣 #LittleRoryStory #expatlife #homedecor #lifestyle
-    location: "Canada"
-    followers: 8199
-    engagement: 383
-    commentsToLikes: 0.064442
-    id: ck0u9ii049zy10i19m6b68mbo
-    verified: false
-    hashtags: "#linkinbio, #37weekspregnant, #samsonitecanada, #3weeksold"
+    hashtags: "#livingroom, #home, #livingroomdecor, #domparterowy"
 ---

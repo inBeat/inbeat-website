@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel TikTok Influencers In Seoul in 2023
+title: Top 10 Travel TikTok Influencers In Seoul In 2023
 description: >-
-  Find top travel TikTok influencers in Seoul in 2023. Most popular hashtags: #korea #fyp #travel #seoul.
+  Find top travel TikTok influencers in Seoul in 2023. Most popular hashtags: #korea #seoul #fyp #foryou.
 platform: TikTok
-hits: 8
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 8 TikTok influencers like this in Seoul, South Korea for you to work with.
+hits: 10
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 10 TikTok influencers like this in Seoul, South Korea for you to contact.
 profiles:
-  - username: "sysy9696"
+  - username: "kim_juhyeok"
     fullname: >-
-      HSY in Korea 🇰🇷👋🏻
+      주혁TV
     bio: >-
-      연결이 되지 않아 삐 소리 후 소리샘으로 연결됩니다. Insta: sysy.96 My DM’s are open ❣️
+      🇰🇷 請大家關注我給我應援唷 謝謝 유튜브 - 주혁TV
     location: "South Korea"
-    followers: 15800
-    engagement: 627
-    commentsToLikes: 0.077582
-    id: ckdta3mzuuglp0j23ftnaqgi0
+    followers: 5559
+    engagement: 892
+    commentsToLikes: 0.113508
+    id: ckal76ujve0s40i78owljtl4a
     verified: false
-    hashtags: "#kdrama, #lifeinkorea, #koreanlife, #fyp"
-  - username: "lalakanoha"
+    hashtags: "#foryou, #trip, #jeju, #billionsc"
+  - username: "lagabbs_"
     fullname: >-
-      Lala Kanoha
+      LAGABBS_
     bio: >-
-      Украинка в Корее 🇰🇷💛🇺🇦 Больше об отношениях с корейцем в Инстаграм 👆💪🏻💕
+      LA.SNKRS.TRAVEL.MEXICAN. LIVING IN KOREA📍 My Life Through a Lens
     location: "South Korea"
-    followers: 55500
-    engagement: 1317
-    commentsToLikes: 0.023752
-    id: ckcv3bla2oeli0j23r186or1d
+    followers: 112600
+    engagement: 915
+    commentsToLikes: 0.020312
+    id: ckc80ttwm25150j23dj0d93h4
     verified: false
-    hashtags: "#koreanboy, #internationalcouple, #koreanstyle, #couple"
+    hashtags: "#traveltheworldnow, #mexicanfamiliesbelike, #traveltheworld, #mexicocity"
   - username: "verr__e"
     fullname: >-
       y__n
     bio: >-
       💖🏄🏻‍♀️💖
     location: "South Korea"
-    followers: 49700
-    engagement: 365
-    commentsToLikes: 0.017188
+    followers: 50600
+    engagement: 350
+    commentsToLikes: 0.016212
     id: ckc36vlppvs660j236bg2autj
     verified: false
-    hashtags: "#fyp, #bikini, #surf, #surfergirl"
-  - username: "jkqueen11"
+    hashtags: "#daily, #trip, #swimwear, #pool"
+  - username: "y.hx_xi"
     fullname: >-
-      JK❄️
+      hyeji
     bio: >-
-      ♛⁷🇰🇷 03 ʟɪɴᴇ 어서와 이런 틱톡은 처음이지 ig : @jkqueen11 🌟
+      insta : hj__zt
     location: "South Korea"
-    followers: 115700
-    engagement: 1638
-    commentsToLikes: 0.035089
-    id: ckbfe49ve7ryt0j23z1pvmskz
+    followers: 208100
+    engagement: 803
+    commentsToLikes: 0.029323
+    id: ck9ev920ehbui0j7899kw1x5r
     verified: false
-    hashtags: "#kpop, #taehyung, #trend, #korean"
-  - username: "kim_juhyeok"
+    hashtags: "#fyp, #skincare, #03, #vintage"
+  - username: "hollysteeves"
     fullname: >-
-      대만여자한국남자
+      Holly Steeves
     bio: >-
-      🇰🇷 請大家關注我給我應援唷 謝謝 유튜브 - 대만여자한국남자
+      Yoga | Travel | Life Currently in 📍South Korea insta @hollyogi_
     location: "South Korea"
-    followers: 5513
-    engagement: 294
-    commentsToLikes: 0.241755
-    id: ckal76ujve0s40i78owljtl4a
-    verified: false
-    hashtags: "#china, #dronemovie, #drone, #travel"
-  - username: "fazzytravel.bn"
+    followers: 1500000
+    engagement: 581
+    commentsToLikes: 0.027581
+    id: ck8fb19ep50s50j78mdrkx8bq
+    verified: true
+    hashtags: "#xyzbca, #travelkorea, #korea, #fyp"
+  - username: "out_of_manaa"
     fullname: >-
-      F a z z y t r a v e l
+      out_of_mana
     bio: >-
-      ✨ Bruneian in Korea ✨ I can korean and malay 😉 Ig: fazzytravel ⬇️STUDY KOREAN⬇️
+      🌸 リサ | Lisa | 리사 🌸 Lifestyle • Travel • Beauty IG: @out_of_mana
     location: "South Korea"
-    followers: 27900
-    engagement: 682
-    commentsToLikes: 0.020314
-    id: ckb9qg9m0m8wr0j23zuc5edfa
+    followers: 44800
+    engagement: 1504
+    commentsToLikes: 0.017845
+    id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #enhypen, #belift, #sunghoon"
+    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+  - username: "robyninsk"
+    fullname: >-
+      robyn 
+    bio: >-
+      24, she/her. living in south korea. 안녕하세요 학생 여러분 🙄 insta: robyn.faith
+    location: "South Korea"
+    followers: 10200
+    engagement: 1602
+    commentsToLikes: 0.029817
+    id: ckc8bpatt80090j23e8w0n51e
+    verified: false
+    hashtags: "#bangtan, #jimin, #hobi, #seoul"
   - username: "sophiekim.korea"
     fullname: >-
       Sophie Kim 하은
     bio: >-
       ☽ Instagram: @sophie.h.k
     location: "South Korea"
-    followers: 54700
-    engagement: 1040
-    commentsToLikes: 0.018243
+    followers: 53500
+    engagement: 1036
+    commentsToLikes: 0.017565
     id: cka0jb53bh9kr0i785uskfv2n
     verified: false
-    hashtags: "#fyp, #desert, #featureme, #northafrica"
+    hashtags: "#foru, #korea, #foryoupage, #sahara"
   - username: "harpersbuzzar"
     fullname: >-
       Harpers Buzzar 🐝
     bio: >-
       
     location: "South Korea"
-    followers: 18000
-    engagement: 1322
-    commentsToLikes: 0.006837
+    followers: 18600
+    engagement: 1320
+    commentsToLikes: 0.007152
     id: ckdhvoy2p3ur90j23ymypur3p
     verified: false
-    hashtags: "#acupgrade, #quarantine, #pandemic, #randomthings"
-  - username: "lagabbs_"
+    hashtags: "#gotmilkchallenge, #quarantine, #randomthings, #korea"
+  - username: "drharang"
     fullname: >-
-      Gabriela Pérez
+      강남허준 박용환 dr.harang
     bio: >-
-      LA.SNKRS.TRAVEL.MEXICAN. LIVING IN KOREA📍 🌹SHARING MY LIFE ONE DAY AT A TIME🌹
+      하랑한의원 HarangMedicalClinic,Korea 질문=> 유튜브 에서 question=> youtube
     location: "South Korea"
-    followers: 117400
-    engagement: 943
-    commentsToLikes: 0.016236
-    id: ckc80ttwm25150j23dj0d93h4
-    verified: false
-    hashtags: "#mexicangirl, #travellife, #fitness, #korean"
-  - username: "sealbkk"
-    fullname: >-
-      방콕물개SealKim
-    bio: >-
-      Subscribe my YouTube:) It’s been 9years in Bangkok Luv Thailand so much!!
-    location: "South Korea"
-    followers: 3909
-    engagement: 698
-    commentsToLikes: 0.077995
-    id: ckbkogrgiijrj0j23nwmjkpfo
-    verified: false
-    hashtags: "#huahin, #bangkoklife, #sealkim, #travelog"
+    followers: 2000000
+    engagement: 529
+    commentsToLikes: 0.021754
+    id: ck9eiy7h1zukc0j78ker5u11i
+    verified: true
+    hashtags: "#neck, #spine, #drharang, #wrist"
 ---

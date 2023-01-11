@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In New York in 2023
+title: Top 10 Nutrition Instagram Influencers In New York In 2023
 description: >-
-  Find top nutrition Instagram influencers in New York in 2023. Most popular hashtags: #fitness #newyork #love.
+  Find top nutrition Instagram influencers in New York in 2023. Most popular hashtags: #nutrition #fitness #love #fitnessmotivation.
 platform: Instagram
-hits: 58
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 58 Instagram influencers like this in New York, United States for you to connect with.
+hits: 52
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 52 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "frillfortune"
+  - username: "sizzletalk"
     fullname: >-
-      【﻿Ｆｒｉｌｌ　Ｆｏｒｔｕｎｅ】
+      SIZZLE TALK
     bio: >-
-      🏘 𝐑𝐞𝐚𝐥 𝐄𝐬𝐭𝐚𝐭𝐞 𝐌𝐨𝐠𝐮𝐥, 𝐈𝐧𝐯𝐞𝐬𝐭𝐨𝐫, 𝐌𝐞𝐧𝐭𝐨𝐫 🥇 ✈️ 𝘛𝘦𝘢𝘤𝘩𝘪𝘯𝘨 𝘦𝘮𝘱𝘰𝘸𝘦𝘳𝘮𝘦𝘯𝘵 & 𝘧𝘳𝘦𝘦𝘥𝘰𝘮! 🌇 💲🅼🅾🅽🅴🆈 🆆🅰🅻🅺 🅿🆁🅾🅹🅴🅲🆃💲 📲 𝔻𝕄 𝕄𝔼 "𝕄𝕎ℙ" 𝕥𝕠 𝕝𝕖𝕒𝕣𝕟 𝕞𝕠𝕣𝕖 ☎️
+      Debate Show (News , Music, Media, Lifestyle, Fashion, Health, Politics, Hiphop , Sports) Events @fashionsizzlenyfw @fashionsizzle #tv #podcast #radio
     location: "United States"
-    followers: 103038
-    engagement: 125
-    commentsToLikes: 0.091397
-    id: ck138cztpfn1n0i19i8xnq0xc
+    followers: 17461
+    engagement: 32
+    commentsToLikes: 0.055427
+    id: ck8t13zxque3a0j78b4xc7i4n
     verified: false
-    hashtags: "#bitcoin, #miami, #kimkardashian, #nc"
-  - username: "feedyourglow"
+    hashtags: "#randb, #quarantinelife, #loriharvey, #randbmusic"
+  - username: "justusjewelz"
     fullname: >-
-      Sua Park
+      DroppinJewelz by Kendra Hall
     bio: >-
-      nutrition || wellness || skin health ✨ new york city 🍃 mostly plant-based FREE skin superfoods guide, tips, and recipes
+      ✍🏽AUTHOR & SURVIVOR 🏆AWARD WINNING ADVOCATE 💎HOST OF SURVIVOR’S JEWELZ 🦋HOST @whatsreallyrealshow 🚨NEWSBREAK CREATOR TO BOOK CONTACT: @mrsbrittmiller
     location: "United States"
-    followers: 86715
-    engagement: 188
-    commentsToLikes: 0.036235
-    id: ck5zyrq5oaeqp0i14b3ag8m36
+    followers: 11648
+    engagement: 387
+    commentsToLikes: 0.254359
+    id: ck5zwjf3v688z0i14aeba9ply
     verified: false
-    hashtags: "#feedyourglow, #ricemaderighter"
-  - username: "aditwirls"
+    hashtags: "#workout, #fitness, #inspire, #wrrshow"
+  - username: "plantbasedben"
     fullname: >-
-      Adaline Bebo
+      Plant Based Ben Ⓥ
     bio: >-
-      All my Glory to God • Baton Twirling World Champion • CMMOA • Baylor Alumni ‘19 • Neuroscientist • #BeBold Dallas, TX @nymmg
+      🙋🏽‍♂️| Bonus Account @ben.raue 🥷🏽| Plant Based Fitness 📗| Free Transformation Guide 👇🏽 🔊| Speaking Up for Freedom 📪| Join My Telegram
     location: "United States"
-    followers: 13389
-    engagement: 944
-    commentsToLikes: 0.025909
-    id: ck0twuvnigufi0i19qpn5l5zt
+    followers: 142636
+    engagement: 172
+    commentsToLikes: 0.045836
+    id: ck0w2ymzqqrbx0i198u0z6281
     verified: false
-    hashtags: "#gymnastics, #twirling, #trainer, #rg"
-  - username: "asya.rosh"
+    hashtags: "#healthyfood, #foodie, #healthiswealth, #vegansofig"
+  - username: "adriano_sosa"
     fullname: >-
-      Ａ Ｓ Ｙ Ａ   🤍 Ｒ Ｏ Ｓ Ｈ
+      Adriano Sosa 🇩🇴
     bio: >-
-      🌱Integrative Nutrition Health Coach (INHC) MA: @wilhelminamodels 📍New York
+      ⚜️Health & Fitness 🎓Medical Doctor 🏃ZUMBA Instructor/Presenter ⭐️Zumba Next Rising Presenter finalist 2020 💪SCILAB Athlete 🇩🇴 Dominican in NYC 🗽
     location: "United States"
-    followers: 105155
-    engagement: 290
-    commentsToLikes: 0.026680
-    id: ck14jzfclmy3w0i198ubwxury
+    followers: 57723
+    engagement: 205
+    commentsToLikes: 0.052472
+    id: ck13bz3qcxumx0i19wrzz28zw
     verified: false
-    hashtags: "#samebodydifferentposechallenge, #boredinthehouse, #samebodydifferentpose, #9years"
-  - username: "dralejandrojunger"
+    hashtags: "#beastmode, #comfy, #zumbalove, #dance"
+  - username: "johnnyprimecc"
     fullname: >-
-      Alejandro Junger MD
+      Johnny Prime™
     bio: >-
-      • Doctor / Cardiologist / Medicine Man • Creator of @CleanProgram • 3 X New York Times Best Selling Author • Leader in Functional Medicine
+      Carnivore Connoisseur & Beef Expert Author: "The Beef Bible" I write about, shoot photos of, and sell #steak www.johnnyprimesteaks.com (blog)
     location: "United States"
-    followers: 46644
-    engagement: 106
-    commentsToLikes: 0.050480
-    id: ck5cgy9hvprq40i116m2xvd2g
+    followers: 57248
+    engagement: 121
+    commentsToLikes: 0.041781
+    id: ck5bwy2msmmy90i11ekrtstdd
     verified: false
-    hashtags: "#veggies, #nutrition, #foodmovement, #healyourself"
-  - username: "juliotkd"
+    hashtags: "#ribsteak, #foodporn, #steaks, #healthy"
+  - username: "thepunjabilion"
     fullname: >-
-      Julio Carlos
+      ROBO The Punjabi Lion
     bio: >-
-      New Yorker 🗽 6x World Champ TKD <NEXT LEVEL FITNESS> Personal Trainer Chef 🇺🇸🇨🇴🇲🇽 @the.mightybrand
+      Pro Wrestler⭐️ State Bodybuilding Champ 2011🏆 India level competitor🏅 Chandigarh,Punjab🇮🇳 Boston🇺🇸
     location: "United States"
-    followers: 5514
-    engagement: 1120
-    commentsToLikes: 0.042751
-    id: ck5zp5tbms1k20i14vzzeuub3
+    followers: 18776
+    engagement: 630
+    commentsToLikes: 0.030687
+    id: ck0u0d52rte9o0i199aero61o
     verified: false
-    hashtags: "#ufc, #mightyfist, #soccer, #crossfit"
-  - username: "tammy_bellabae_fitness"
+    hashtags: "#robokdm, #styleblogger, #positivevibes, #viralvideos"
+  - username: "planejanedrag"
     fullname: >-
-      Tammy 🎀🌴👙💪
+      Plane Jane
     bio: >-
-      Certified Elite Trainer/CPT/Exercise Therapy/Fitness Nutrition/Specialist in Bodybuilding ISSA 👙 @zaharaswim 👙30% off code: TAMMY30
+      It’s Plane like airplanes ✈️ Профессиональная клоунесса👑 Home base: Boston Venmo: @ peanutbuttr
     location: "United States"
-    followers: 11354
-    engagement: 1451
-    commentsToLikes: 0.087957
-    id: ckf5pez4b5ukz0j2385upfgyk
+    followers: 3389
+    engagement: 1382
+    commentsToLikes: 0.075933
+    id: ck5cd31bkig800i11tjt1pxoh
     verified: false
-    hashtags: "#bikinigirl, #desertgirl, #bikini, #shoulders"
-  - username: "joellle__"
+    hashtags: "#meninmakeup, #rupaulsdragrace, #makeup, #welovequeens"
+  - username: "kevinhubsmith"
     fullname: >-
-      joelle scro
+      Kevin Hubsmith
     bio: >-
-      family | nutrition | fitness ICU RN 👩🏻‍⚕️ 🌱 Arbonne
+      📍New York City Rollin on two wheels @iamspecialized @we_are_sungod @blacksheepcycling @nocco & @barebells Athlete
     location: "United States"
-    followers: 4617
-    engagement: 840
-    commentsToLikes: 0.121792
-    id: ck8t5y37abmrd0j78if9tqbzo
+    followers: 27178
+    engagement: 197
+    commentsToLikes: 0.025157
+    id: ck5zzp1uxc5pg0i14xsehosjd
     verified: false
-    hashtags: "#ownyourlife, #arbonne, #girlssupportinggirls, #newyorkcitylife"
-  - username: "anaaleguerra"
+    hashtags: "#roadcycling, #cyclingphotos, #iamspecialized, #specializedcrux"
+  - username: "dianna_k_"
     fullname: >-
-      Ａｎａ Ｇｕｅｒｒa✨
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  DESPINA KARAVAS ®
     bio: >-
-      Ｄｉｅｔｉｔｉａｎ | ITESM Founder of 🍃NUhBE® | Nutrition-Health-Beauty News anchor | 🎥🏆Emmy® & Telly® award winner 💥Knowledge is power. 🇲🇽🇪🇸📍#miami
+      Pro fighter 📍New York 📅 next fight : 🇬🇷🇨🇴
     location: "United States"
-    followers: 28945
-    engagement: 238
-    commentsToLikes: 0.031524
-    id: ckaozekjllj4m0i78kgonb334
+    followers: 10969
+    engagement: 594
+    commentsToLikes: 0.041034
+    id: ck8sx7jt8gf5x0j78s1yh3enb
+    verified: false
+    hashtags: "#tritonfights, #kickboxing, #bjj, #wmma"
+  - username: "georgefarah_guru"
+    fullname: >-
+      George Farah
+    bio: >-
+      Pro Maker BHS Bachelor in Holistic Health Sciences Sport Nutrition consultant. NPC/IFBB Pro League. #TeamFarah. gvfarah@yahoo.com
+    location: "United States"
+    followers: 274547
+    engagement: 253
+    commentsToLikes: 0.052487
+    id: ck139j0uoljl50i19uxydo4qs
     verified: true
-    hashtags: "#positivevibes, #beachlife, #brickell, #keybiscayne"
-  - username: "naturally_heather"
-    fullname: >-
-      HEATHER, BSN, RN
-    bio: >-
-      🗽NYC nurse 💉UF alum🐊 on a journey to becoming a physician 👩🏼‍⚕️ wellness, nutrition, lifestyle blogger 🥑 eat whole foods ⋒ #functionalmedicine
-    location: "United States"
-    followers: 13516
-    engagement: 694
-    commentsToLikes: 0.024841
-    id: ck8t8vbe7lywp0j78fm5b4nki
-    verified: false
-    hashtags: "#functionalmedicine, #nursingstudent, #medicalstudent, #nurselife"
+    hashtags: "#family, #dreammaker, #dreamdocometrue, #2021"
 ---

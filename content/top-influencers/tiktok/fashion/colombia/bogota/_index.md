@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Bogotá in 2023
+title: Top 10 Fashion TikTok Influencers In Bogotá In 2023
 description: >-
-  Find top fashion TikTok influencers in Bogotá in 2023. Most popular hashtags: #parati #colombia #viral #fyp.
+  Find top fashion TikTok influencers in Bogotá in 2023. Most popular hashtags: #colombia #parati #foryou #fashion.
 platform: TikTok
-hits: 6
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat has 6 TikTok influencers like this in Bogotá, Colombia for you to work with.
+hits: 5
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 5 TikTok influencers like this in Bogotá, Colombia for you to contact.
 profiles:
-  - username: "circymoreno"
-    fullname: >-
-      Circy Moreno
-    bio: >-
-      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ Nonolive @circy
-    location: "Colombia"
-    followers: 15600
-    engagement: 1614
-    commentsToLikes: 0.031401
-    id: cka0q66t1bftm0i78cykwip6q
-    verified: false
-    hashtags: "#viral, #backdoor, #straykids, #parati"
   - username: "dreamerdave__"
     fullname: >-
-      DreamerDave
+      Dave el bárbaro
     bio: >-
-      Ig: @dreamerdave__ CEO of random 🇨🇴
+      Ig: @dreamerdave__ No les pasa que ✨No les pasa✨ 🇨🇴
     location: "Colombia"
-    followers: 34300
-    engagement: 1868
-    commentsToLikes: 0.020470
+    followers: 33700
+    engagement: 1828
+    commentsToLikes: 0.026307
     id: ckacg1zqztegb0i78qddzc7m0
     verified: false
-    hashtags: "#fyp, #colombia, #radiorebel, #foryou"
+    hashtags: "#fyp, #comedia, #couple, #greenscreen"
   - username: "jarlinsonphoto"
     fullname: >-
       Jarlinsson Ramirez
     bio: >-
       📸más fotos, dinámicas y tips de fotografía en mi Inst: @jarlinsonramirezphoto👆
     location: "Colombia"
-    followers: 108200
-    engagement: 1086
-    commentsToLikes: 0.017512
+    followers: 107900
+    engagement: 1079
+    commentsToLikes: 0.017478
     id: ckd61lum31ish0j23c9kxb3qy
     verified: false
-    hashtags: "#photographer, #bogota, #parati, #yomequedoencasa"
+    hashtags: "#fotografia, #viral, #bogota, #parati"
   - username: "camilabarbosa_s"
     fullname: >-
       Camila
     bio: >-
       Colombiana 🇨🇴 Instagram: @camilabarbosa_s 💁🏼‍♀️
     location: "Colombia"
-    followers: 19200
-    engagement: 457
-    commentsToLikes: 0.029790
+    followers: 19000
+    engagement: 533
+    commentsToLikes: 0.025204
     id: cka0t0v7ynxul0i78u9fydqkr
     verified: false
-    hashtags: "#bronceado, #argentina, #healthy, #fyp"
+    hashtags: "#latam, #colombia, #fyp, #argentina"
   - username: "camila.esguerra"
     fullname: >-
       Camila Esguerra
     bio: >-
       A veces canto, a besos escribo.
     location: "Colombia"
-    followers: 56100
-    engagement: 1040
-    commentsToLikes: 0.010988
+    followers: 60600
+    engagement: 1061
+    commentsToLikes: 0.011066
     id: ck8hscaafco580j78lphztf2f
     verified: false
-    hashtags: "#relaciones, #fail, #ventino, #amistad"
-  - username: "joker_punkcosplay"
+    hashtags: "#anecdotas, #consejo, #ventino, #aprendeentiktok"
+  - username: "circymoreno"
     fullname: >-
-      Joker_punkcosplay
+      Circy Moreno
     bio: >-
-      Cosplayer 🃏🖤 🤡 Insta: @anarcosplay
+      ¡SÍGUEME EN INSTA! Makeup Dance Lettering #Kworldsquad ❤️ @dejavuteamdance
     location: "Colombia"
-    followers: 29000
-    engagement: 909
-    commentsToLikes: 0.024710
-    id: ck8opwn2v51of0j7857jo28bl
+    followers: 15700
+    engagement: 1659
+    commentsToLikes: 0.024371
+    id: cka0q66t1bftm0i78cykwip6q
     verified: false
-    hashtags: "#spiderman, #lipsync, #cosplay, #destacame"
+    hashtags: "#kpop, #twice, #jhope, #kpopdance"
   - username: "fashionismylaw"
     fullname: >-
       Daniela Daza 
     bio: >-
       Estoy aquí para que te enamores de ti misma 💜 IG: @fashionismylaw
     location: "Colombia"
-    followers: 197300
-    engagement: 1258
-    commentsToLikes: 0.016649
+    followers: 468900
+    engagement: 1310
+    commentsToLikes: 0.017638
     id: cka9nt5ir50op0i78ttoygomf
     verified: false
-    hashtags: "#autoestima, #chiste, #motivacion, #amorpropio"
+    hashtags: "#amor, #relacion, #humor, #consejos"
   - username: "jturcios_official"
     fullname: >-
       J TURCIOS
     bio: >-
-      TRAVELS | FASHION | LIFESTYLE —BLOGGER YOUTUBER HONDUREÑO 🇭🇳 📍🌎
+      TRAVELS | FASHION | LIFESTYLE —BLOGGER YOUTUBER 📍🌎
     location: "Colombia"
-    followers: 26400
-    engagement: 518
-    commentsToLikes: 0.055976
+    followers: 194900
+    engagement: 620
+    commentsToLikes: 0.049177
     id: ckamwqotw9q580i78ik2fegvw
     verified: false
-    hashtags: "#tiktokindia, #richboycheck, #tiktoklover, #viral"
+    hashtags: "#foryoupage, #mexico, #lifestyle, #miami"
   - username: "vivitorresv"
     fullname: >-
       Vivi Torres
     bio: >-
-      Beauty, Fashion, Mom, LifeStyle ⠀ Instagram: @ViviTorresv ⠀ YouTube ViviTorres
+      Muchos Tips Beauty✨Home🏡Fashion👠Mom👸🏼LifeStyle🌟 ⠀ Instagram @ViviTorresv
     location: "Colombia"
-    followers: 21000
-    engagement: 463
-    commentsToLikes: 0.012208
+    followers: 44800
+    engagement: 631
+    commentsToLikes: 0.012807
     id: ckb9brhpiy9ak0j23yep8v6im
     verified: false
-    hashtags: "#tiktokfamily, #kitchen, #family, #parati"
+    hashtags: "#pyt, #aprendeentiktok, #foryou, #tips"
   - username: "nicoleglennon5"
     fullname: >-
       Nicole Glennon
     bio: >-
       Fashion/Styling🖤 23 y/o Colombia Follow me on Instagram💖 @nicoleglennon
     location: "Colombia"
-    followers: 9888
-    engagement: 594
-    commentsToLikes: 0.011592
+    followers: 9847
+    engagement: 645
+    commentsToLikes: 0.013721
     id: ckd6l7narewz20j23khf7qerf
     verified: false
-    hashtags: "#fashion, #colombia, #aesthetic, #style"
+    hashtags: "#colombia, #viral, #streetstyle, #fashion"
+  - username: "sofiamud"
+    fullname: >-
+      sofiamood
+    bio: >-
+      
+    location: "Colombia"
+    followers: 2383
+    engagement: 1561
+    commentsToLikes: 0.088598
+    id: ckacs85eg8vjx0i78ts36p2hs
+    verified: false
+    hashtags: "#omg, #foryoupage, #fashion, #parati"
 ---

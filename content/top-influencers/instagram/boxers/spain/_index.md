@@ -1,130 +1,130 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Spain in 2023
+title: Top 10 Boxers Instagram Influencers In Spain In 2023
 description: >-
-  Find top boxers Instagram influencers in Spain in 2023. Most popular hashtags: #boxer #dogsofinstagram #boxerdog #dog.
+  Find top boxers Instagram influencers in Spain in 2023. Most popular hashtags: #boxer #boxing #dog #boxerdog.
 platform: Instagram
-hits: 33
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 33 Instagram influencers like this in Spain for you to work with.
+hits: 30
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 30 Instagram influencers like this in Spain for you to contact.
 profiles:
-  - username: "jennifitbox"
-    fullname: >-
-      Jennifer ‘Bam Bam’ Fernández
-    bio: >-
-      🥊 National team boxer -57kgs 🇪🇸 Spain championship x3🥇 🇪🇺 5 º place European championship 2019 ▫️Odivelas cup 2019🥇 ▫️Boxam x2🥉x1🥈 🇪🇸Roadtotokyo2020🇯🇵
-    location: "Spain"
-    followers: 6085
-    engagement: 827
-    commentsToLikes: 0.047933
-    id: ck9hbpj3ehwsp0j78t7vmv8dx
-    verified: false
-    hashtags: "#olimpicboxing, #deportista, #espan, #boxinggirl"
   - username: "maravillaalonso"
     fullname: >-
       Jonathan Maravilla Alonso
     bio: >-
-      Olympian in London 2012. Professional Boxer 19-1. Model & Actor. Oviedo - Madrid - Barcelona - NYC. 🇪🇸/🇩🇴/🇺🇸 Descuento 10% PROZIS ; MARAVILLA10 👇🏽
+      ► Olympian in London 2012 • ► Professional Boxer 20-1 • ► Model & Actor. ► PROZIS 10%: MARAVILLA10 ⇩ 📍Spain| RD
     location: "Spain"
-    followers: 206220
-    engagement: 562
-    commentsToLikes: 0.006537
+    followers: 205359
+    engagement: 510
+    commentsToLikes: 0.009717
     id: ck55ls2172a5c0i118ej755l7
     verified: true
-    hashtags: "#training, #couplegoals, #happy, #gym"
-  - username: "amiin_h_"
+    hashtags: "#fitness, #summer, #model, #friends"
+  - username: "jennifitbox"
     fullname: >-
-      Amin Hachimi 💪😏👍
+      Jennifer ‘Bam Bam’ Fernández
     bio: >-
-      Professional boxer 4-0-0 (3 KO) 💪😠👊
+      🥊 National team boxer -57kgs 🇪🇸 Spain championship x4🥇 🇪🇺 5 º place European championship 2019 ▫️Odivelas cup 2019🥇 ▫️Boxam x2🥉x1🥈 🇪🇸Roadtotokyo2020🇯🇵
     location: "Spain"
-    followers: 4016
-    engagement: 1787
-    commentsToLikes: 0.066839
-    id: ck6u1rvq9nisl0j71e0cz8l8r
+    followers: 6943
+    engagement: 956
+    commentsToLikes: 0.048149
+    id: ck9hbpj3ehwsp0j78t7vmv8dx
     verified: false
-    hashtags: "#boxeomexicano, #sparring, #heavybagworkout, #boxinghighlights"
+    hashtags: "#smile, #redcorner, #amateurboxing, #sportoutfit"
+  - username: "ariginal_boxer"
+    fullname: >-
+      📸ARI and TANGO📸
+    bio: >-
+      📸Boxers models📸 🎾tennis balls lovers🎾
+    location: "Spain"
+    followers: 19385
+    engagement: 720
+    commentsToLikes: 0.019211
+    id: ck0u9axr89eiu0i19dnvdhr2r
+    verified: false
+    hashtags: "#boxerlove, #boxerpuppy, #boxerworld, #boxeraddict"
   - username: "luisdelgado_ink"
     fullname: >-
       🐾BOXER lover.GoPRO. 📸TRAVELS📸®
     bio: >-
-      📍MALLORCA.Spain 🇪🇸 born in the 80s. 🐾DOG Lover 🐾 @ariginal_boxer 💉INKED💉.📸.GoPRO7. 🛫Traveller🛬 @backpacker_inked
+      📍MALLORCA.Spain 🇪🇸 🐾DOG Lover 🐾 @ariginal_boxer 💉INKED💉.📸. 🛫Traveller🛬 @backpacker_inked
     location: "Spain"
-    followers: 18831
-    engagement: 538
-    commentsToLikes: 0.089260
+    followers: 19640
+    engagement: 304
+    commentsToLikes: 0.024095
     id: ck136r6hp7uwx0i1998fptvpv
     verified: false
-    hashtags: "#boxergram, #doglovers, #dog, #instadog"
+    hashtags: "#boxerlove, #doglover, #boxerdogs, #boxerdogfans"
   - username: "katharina_thanderz"
     fullname: >-
       Katharina E. Thanderz
     bio: >-
-      🏅World WBC interim champion 🏅European champion (EBU) 🏅International WBC champion 🏅 Record: 13-0 🇳🇴+🇪🇸 🏅Team Sauerland Boxer
+      🏅World WBC interim champion 🏅European champion (EBU) 🏅International WBC champion 🏅 Record: 13-1 🇳🇴+🇪🇸 🏅Team Sauerland Boxer @betssonnorge
     location: "Spain"
-    followers: 13772
-    engagement: 406
-    commentsToLikes: 0.052736
+    followers: 16617
+    engagement: 549
+    commentsToLikes: 0.047133
     id: ck8t0elyart0u0j78ekuto4sg
     verified: true
-    hashtags: "#kampsport, #boxing, #motivasjon, #femaleboxing"
+    hashtags: "#vitobest, #fight, #katharinathanderz, #betsson"
   - username: "boxer_neka"
     fullname: >-
       NEKA | TrastoNeka 🚍
     bio: >-
       🐕 Neka, Andrea y Sergio 👩🏽‍🤝‍👨🏼 📸 Capturando momentos 🌿 Movimiento #limpiatuparaiso 🐾 Tips del día a día con tu perro
     location: "Spain"
-    followers: 13121
-    engagement: 829
-    commentsToLikes: 0.082344
+    followers: 13577
+    engagement: 646
+    commentsToLikes: 0.113691
     id: ck5zt2b9ezlx80i14h5ihltmf
     verified: false
-    hashtags: "#boxerdog, #boxerplanet, #viajaresvivir, #family"
-  - username: "ariginal_boxer"
+    hashtags: "#boxer, #boxerlife, #travel, #turismo"
+  - username: "paulaellisfit"
     fullname: >-
-      📸ARI and TANGO📸
+      PAULA ELLIS
     bio: >-
-      
+      CEO @myfitlife.es 📲Asesorías Online Psicóloga Salud&Deporte🧠 Máster Nutrición-Entreno🍏 Máster Dirección Deportiva🏋🏼‍♀️ 💌paulaellisfit@gmail.com
     location: "Spain"
-    followers: 14276
-    engagement: 992
-    commentsToLikes: 0.069909
-    id: ck0u9axr89eiu0i19dnvdhr2r
+    followers: 62735
+    engagement: 306
+    commentsToLikes: 0.056789
+    id: ck5hcfoq0hu560i11nl5nt23b
     verified: false
-    hashtags: "#boxerlife, #boxeraddict, #doglover, #dogstagram"
-  - username: "bobbyfromthebin"
-    fullname: >-
-      Bobby from the Bin
-    bio: >-
-      Just because they found me in the trash doesn’t mean I’m rubbish! I can do cute and furry as well as whine and poop, I'm the complete package. YT:
-    location: "Spain"
-    followers: 5796
-    engagement: 1459
-    commentsToLikes: 0.036732
-    id: ck9wehxtnkcmz0j78argjp7fy
-    verified: false
-    hashtags: "#boxersoninstagram, #funnypuppy, #boxerlove, #instantboxer"
-  - username: "asturiasconpanda"
-    fullname: >-
-      Panda 🐼
-    bio: >-
-      ¡Hola mundo! Hello! 🚹 Border Collie asturiano 📍Gijón, Asturias 💜 Enamorado de 🏔, 🌿, 🍖, 🍌 y 💩 📸 Miembro de @pasion_por_asturias_
-    location: "Spain"
-    followers: 3522
-    engagement: 1142
-    commentsToLikes: 0.097456
-    id: ck8t4g6rk6opj0j78wn8wp05h
-    verified: false
-    hashtags: "#bordercolliesofinstagram, #pasion, #foster, #perrosdeinstagram"
+    hashtags: "#brilla, #bestrong, #nutricion, #fight"
   - username: "delprado.sergio"
     fullname: >-
       Sergio
     bio: >-
       生き甲斐 📍 Mᴀᴅʀɪᴅ • Sᴘᴀɪɴ ♑ 𝕿𝖍𝖊 𝖙𝖊𝖒𝖕𝖙 𝖋𝖔𝖗 𝖌𝖗𝖊𝖆𝖙𝖓𝖊𝖘𝖘 𝖎𝖘 𝖙𝖍𝖊 𝖇𝖎𝖌𝖌𝖊𝖘𝖙 𝖉𝖗𝖚𝖌 𝖎𝖓 𝖙𝖍𝖊 𝖜𝖔𝖗𝖑𝖉
     location: "Spain"
-    followers: 2124
-    engagement: 1285
+    followers: 752
+    engagement: 3630
     commentsToLikes: 0.040372
     id: ck0u2f18pzqiy0i19b5pch3w6
     verified: false
-    hashtags: "#house, #love, #music, #misfits"
+    hashtags: "#vapormax, #house, #misfitsclix, #nike"
+  - username: "asturiasconpanda"
+    fullname: >-
+      Panda 🐼
+    bio: >-
+      ¡Hola mundo! Hello! 🚹 Border Collie asturiano 📍Gijón, Asturias 💜 Enamorado de 🏔, 🌿, 🍖, 🍌 y 💩 📸 Miembro de @pasion_por_asturias_
+    location: "Spain"
+    followers: 3618
+    engagement: 951
+    commentsToLikes: 0.111084
+    id: ck8t4g6rk6opj0j78wn8wp05h
+    verified: false
+    hashtags: "#bordercollielovers, #hiking, #bordercolliegram, #pasion"
+  - username: "gianmarco.onestini"
+    fullname: >-
+      GIANMARCO ONESTINI
+    bio: >-
+      📩 info@gianmarcoonestini.com
+    location: "Spain"
+    followers: 732924
+    engagement: 227
+    commentsToLikes: 0.182081
+    id: ck9h9qjdi9kdj0j7803sqd5u8
+    verified: true
+    hashtags: "#italy, #espa, #mexico, #chile"
 ---

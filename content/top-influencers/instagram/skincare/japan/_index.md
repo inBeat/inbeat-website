@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Japan in 2023
+title: Top 10 Skincare Instagram Influencers In Japan In 2023
 description: >-
-  Find top skincare Instagram influencers in Japan in 2023. Most popular hashtags: #ootd #skincare #pr #fashion.
+  Find top skincare Instagram influencers in Japan in 2023. Most popular hashtags: #skincare #fashion #pr.
 platform: Instagram
-hits: 173
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 173 Instagram influencers like this in Japan for you to collaborate.
+hits: 159
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 159 Instagram influencers like this in Japan for you to work with.
 profiles:
-  - username: "cherish.jp"
-    fullname: >-
-      𝙲𝚑𝚎𝚛𝚒𝚜𝚑🍒ちぇりぐらむ
-    bio: >-
-      𝙺𝚢𝚘𝚝𝚘 𝙾𝚜𝚊𝚔𝚊 ❄️ 見つけてくれてありがとう💕💫 #Foodie #Travel #Fashion #Skincare #大阪グルメ コスメブーム💄✨
-    location: "Japan"
-    followers: 26705
-    engagement: 383
-    commentsToLikes: 0.024724
-    id: ck9webdv2jj4o0j78nmifa82o
-    verified: false
-    hashtags: "#biwakocity, #osakagourmet, #biwako, #chita"
-  - username: "exclusivebby1"
-    fullname: >-
-      Ebby Cassidy ✈️ 🇦🇪  🇿🇦 🇬🇭
-    bio: >-
-      ❤️ ALL 145k FOLLOWERS 🌸SKINCARE THERAPIST🌸 🌸2nd Page @exclusivebby2 🌸 🌸Founder👇 @ebbys_hairs @ebbyoutfits @ebbylogistics @ebbysglowskincare
-    location: "Japan"
-    followers: 145120
-    engagement: 102
-    commentsToLikes: 0.028727
-    id: ck8t652w2c8l70j78gqzvvxlf
-    verified: false
-    hashtags: "#endsars, #endpolicebrutality, #endsarsbrutality, #endbadgovernanceinnigeria"
   - username: "daianaanghel"
     fullname: >-
       DAIANA Anghel
     bio: >-
       • Communication & Brand Strategy • Skincare Advisor • Elle New Media Awards 2020 winner 🏆- Beauty & Health
     location: "Japan"
-    followers: 191958
-    engagement: 378
-    commentsToLikes: 0.005117
+    followers: 199705
+    engagement: 515
+    commentsToLikes: 0.006491
     id: ck5bzyq7ss3jf0i110q4wly88
     verified: false
-    hashtags: "#daianaxmissgrey, #ad, #daianaxmoogu, #goldjewelry"
-  - username: "beautyblog_tokyo"
+    hashtags: "#toplineromania, #ad, #makelifebetterathome, #skincarefirst"
+  - username: "paranatka"
     fullname: >-
-      Julia • ユリア🌎
+      NATALIA ZAJĄC 🐰
     bio: >-
-      Beauty | Skincare | Lifestyle Creator of #beautybattlepost PR/Collab: DM or 📧 email 📫 🇺🇸🇯🇵 Discount codes↓
+      makeup & skincare tutorials 🌸✨ 💗 tag me: #paranatka 📧 nataliaannazajac@gmail.com 💄 2nd account:
     location: "Japan"
-    followers: 7026
-    engagement: 647
-    commentsToLikes: 0.635971
-    id: ckaoz5bqkkfqu0i78q0xx239p
+    followers: 31714
+    engagement: 389
+    commentsToLikes: 0.046268
+    id: ck1390amviwc30i19iup7yh2g
     verified: false
-    hashtags: "#tomfordmakeup, #mondayminis, #dyptique, #tomfordlipstick"
+    hashtags: "#skincareproducts, #colourpopcosmetics, #dewyskin, #glossylips"
   - username: "mm_mimosa"
     fullname: >-
-      Kitty N.
+      Kitty Nishitani
     bio: >-
       ♡👜👠💄lover ♡live in 🇯🇵 ♡Beauty & Skincare & Bag ♡ ♡Cosmetics is my passion ♡Thank you for all followers ♡ Please credit if uses my photo #mmmimosa
     location: "Japan"
-    followers: 43659
-    engagement: 387
-    commentsToLikes: 0.011392
+    followers: 44860
+    engagement: 290
+    commentsToLikes: 0.013286
     id: ck14ii7yzfj530i19h3x2xfos
     verified: false
-    hashtags: "#luxurymakeup, #cocochanel, #chanelcosmetic, #chanelcosmetics"
-  - username: "seikamama7"
+    hashtags: "#chanelmakeup, #highendbeauty, #chanellover, #beautyluxury"
+  - username: "beautyblog_tokyo"
     fullname: >-
-      sei
+      𝑱𝒖𝒍𝒊𝒂
     bio: >-
-      基本ノーファンデ⭐︎ 乾燥肌、夏場は混合肌。生活バランスで敏感肌 2kids mama / skincare / Inner beauty diet / fashion / make . . アンバサダー数社　@aqua_organic 人気コーデ⇒ @woomy.me おすすめ👇
+      Beauty | Skincare | Fragrance PR/Collab: DM or 📧 email 📫 🇺🇸 🇬🇧 Shop with me↓
     location: "Japan"
-    followers: 10831
-    engagement: 328
-    commentsToLikes: 0.027434
-    id: ckaorjedrnhx50i78448f6yp1
+    followers: 12081
+    engagement: 704
+    commentsToLikes: 0.459522
+    id: ckaoz5bqkkfqu0i78q0xx239p
     verified: false
-    hashtags: "#monipla, #magico, #cocone, #gastonluga"
+    hashtags: "#vitaminbserum, #coloredmascara, #thefullmontyldn, #chantecaillebeauty"
   - username: "im_5868"
     fullname: >-
       マイ
     bio: >-
-      92 fashion / makeup / skincare
+      92 fashion / makeup / skincare & innercare
     location: "Japan"
-    followers: 140871
-    engagement: 153
-    commentsToLikes: 0.003258
+    followers: 145070
+    engagement: 141
+    commentsToLikes: 0.004501
     id: ck5zr8bdfw3hj0i14rryuempu
     verified: false
-    hashtags: "#leinwande"
+    hashtags: "#sponsored"
   - username: "_eiymajalil"
     fullname: >-
       Eiyma Jalil
     bio: >-
       ▪️Founder of GIM Cosmetic and @hauscosmetics ▪️Expert in developing makeup and skincare formulation
     location: "Japan"
-    followers: 27015
-    engagement: 72
+    followers: 24313
+    engagement: 60
     commentsToLikes: 0.000000
     id: ck0w6r1cc9vvp0i19v9uponcj
     verified: false
-    hashtags: ""
-  - username: "eri_t28"
+    hashtags: "#gimcosmetic, #hauscosmetics, #eiymajalil, #hausskin"
+  - username: "haruka_takahashi0127"
     fullname: >-
-      Eri Takakura   高倉 絵理
+      高橋晴香
     bio: >-
-      TRAVEL / BEAUTY / FASHION 1977 / based in Tokyo, JAPAN BYRON @byron_t28 FiNCアンバサダー @finc_app
+      model/PR Tokyo.Japan🇯🇵Haruka Takahashi/高橋晴香 アンバサダー @clena.official Trip🇹🇭🇰🇷🇭🇰🇬🇺🇺🇸🇬🇧 お仕事の依頼はDMにてお願い致します☆ アクセサリーブランド lumiere eclat プロデュース💎
     location: "Japan"
-    followers: 171133
-    engagement: 144
-    commentsToLikes: 0.042692
-    id: ck6ugl5kf3obs0j71ffwwh3t3
+    followers: 120558
+    engagement: 124
+    commentsToLikes: 0.074119
+    id: ck0w7911ocdbw0i196up7cwdg
     verified: false
-    hashtags: "#chihuahua, #chihuahualife, #chihuahuastagram, #hotelstay"
-  - username: "hiromi.tanaka.japan"
+    hashtags: "#japantrip, #skincare, #valmuer, #pr"
+  - username: "momojuicypeach"
     fullname: >-
-      田中浩実❤︎Hiromi  Tanaka
+      MIDORI❤︎
     bio: >-
-      美容💄ファッション👗旅行✈️犬🐶横浜🛳 168㎝ 大学1ᵕ̈母 👑Mrs.Universe 2018 👑Mrs.Tourism Queen Int 2018 👑Mrs.Asia Int 2016 👑横浜スカーフ親善大使 2013 @revolsoffice専属モデル 📺インターネットTV MC
+      𝑰'𝒎 𝒂 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝑮𝒓𝒂𝒏𝒎𝒂 𝑨𝒈𝒆46👘 𝑰 𝒉𝒂𝒗𝒆 𝒕𝒘𝒐 𝒄𝒉𝒊𝒍𝒅𝒓𝒆𝒏 𝒂𝒏𝒅 𝒕𝒉𝒓𝒆𝒆 𝒈𝒓𝒂𝒏𝒅𝒄𝒉𝒊𝒍𝒅𝒓𝒆𝒏 @worldeatinglove 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 #𝒕𝒓𝒊𝒑✈️𝑰 𝒍𝒐𝒗𝒆 𝒎𝒚 @_im_coco__
     location: "Japan"
-    followers: 69912
-    engagement: 259
-    commentsToLikes: 0.042877
-    id: ck5zzwmslcjod0i14i2genz99
+    followers: 15968
+    engagement: 296
+    commentsToLikes: 0.061879
+    id: ck5hia0jfcf8e0i113u84sjzl
     verified: false
-    hashtags: "#beautycare, #zozotown, #outfit, #30"
+    hashtags: "#watch, #beauty, #ootd, #fujimi"
+  - username: "tokuayu819"
+    fullname: >-
+      得あゆ( 得丸あゆみ)
+    bio: >-
+      KADOKAWAから写真集『得あゆ』発売中 @neome_life @anakiss.official @girlytokyo プロデュース🔥 富山産⛰→🗼⇄🐙　170cm
+    location: "Japan"
+    followers: 276642
+    engagement: 183
+    commentsToLikes: 0.015166
+    id: ck5hlpy3akmwb0i11ta0xweq7
+    verified: false
+    hashtags: "#pack, #knit, #skincare, #onepiece"
+  - username: "yukikaneshiro"
+    fullname: >-
+      金城ゆき  yuki kaneshiro
+    bio: >-
+      🇯🇵×🇰🇷 撮影・お仕事依頼はDMまでお願いします💌 wd account→ @y_wedding.1101 🤍
+    location: "Japan"
+    followers: 86545
+    engagement: 189
+    commentsToLikes: 0.014686
+    id: ck0vziatt98pm0i19wk520owm
+    verified: false
+    hashtags: "#beauty, #fashion, #ootd, #coordinate"
 ---

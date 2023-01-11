@@ -1,11 +1,11 @@
 ---
-title: Top 10 Violin TikTok Influencers in 2023
+title: Top 10 Violin TikTok Influencers In 2023
 description: >-
-  Find top violin TikTok influencers in 2023. Most popular hashtags: #violin #foryou #violinplayer #electricviolin.
+  Find top violin TikTok influencers in 2023. Most popular hashtags: #violin #fyp #foryou #duet.
 platform: TikTok
-hits: 6
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 6 TikTok influencers like this for you to collaborate.
+hits: 5
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 5 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "chloetrevor_violin"
     fullname: >-
@@ -13,70 +13,58 @@ profiles:
     bio: >-
       Violinist Christian Wife Dog Mom IG: @chloetrevor_violin
     location: "United States"
-    followers: 2590
-    engagement: 1488
-    commentsToLikes: 0.043415
+    followers: 2692
+    engagement: 1420
+    commentsToLikes: 0.041747
     id: ckbl6jtuj4cht0j236wjieer1
     verified: false
-    hashtags: "#tiktokviolinist, #foryoupage, #violin, #violinnation"
-  - username: "violinonfire"
+    hashtags: "#foryou, #4yp, #dogsoftiktok, #classicalmusic"
+  - username: "laisa.elisabeth"
     fullname: >-
-      Patrick Contreras
+      Elisabeth
     bio: >-
-      Patrick Contreras Watch my new video GHOST STORIES here 👇🏽
-    location: "United States"
-    followers: 40400
-    engagement: 1031
-    commentsToLikes: 0.058491
-    id: ckd0y4a3ml5nm0j23mvnye0tg
-    verified: false
-    hashtags: "#electricviolin, #violincover, #fresno559, #violinonfire"
-  - username: "fabioferreiraviolino"
-    fullname: >-
-      Fábio Ferreira Violino
-    bio: >-
-      ME SEGUE NO INSTA E YOUTUBE🎻👆 @fabioferreiraviolino
-    location: "Brazil"
-    followers: 18900
-    engagement: 1300
-    commentsToLikes: 0.064334
-    id: ckc8gqz9wb1xj0j23w143jdlh
-    verified: false
-    hashtags: "#fouryou, #fabioferreiraviolin, #fabioferreiraviolino, #violin"
-  - username: "followtheviolin"
-    fullname: >-
-      FollowTheViolin
-    bio: >-
-      Izsak Farkas Violinist 🎻🔥 FollowTheViolin on Instagram and youtube
-    location: "Hungary"
-    followers: 2102
-    engagement: 519
-    commentsToLikes: 0.045544
-    id: ckc3788i4w2tw0j23gnkcd870
-    verified: false
-    hashtags: "#violin, #loop, #relax, #cover"
-  - username: "katy_graciosa"
-    fullname: >-
-      Katy T International
-    bio: >-
-      KATY TINDEMARK international acc (eng, ru, esp, se) Any verbal violence - block
+      🐸🧠❌
     location: "Latvia"
-    followers: 6236
-    engagement: 1048
-    commentsToLikes: 0.022059
+    followers: 6104
+    engagement: 1181
+    commentsToLikes: 0.005525
     id: ckb9elu9628f60j23kfao71vh
     verified: false
-    hashtags: "#fyp, #sweden, #duet, #foryou"
-  - username: "as_mg"
+    hashtags: "#fyp, #foryou, #duet, #sverige"
+  - username: "sega.hajime"
     fullname: >-
-      MG_AS 🇲🇽
+      HAJIMAN
     bio: >-
-      Mexican 🇲🇽 If you know me, please keep discretion 😆
-    location: "Mexico"
-    followers: 3713
-    engagement: 1592
-    commentsToLikes: 0.034473
-    id: ckb9g6cwr55hz0j23ebegfleg
+      HAJIME в ❤️ Telegram: HAJIMAN
+    location: "Ukraine"
+    followers: 32300
+    engagement: 584
+    commentsToLikes: 0.076122
+    id: ck9n4ld6q50ka0j78772qgr73
     verified: false
-    hashtags: "#otaku, #kpopers, #fudanshi, #yaoi"
+    hashtags: "#pubgmobile, #miyagi, #andypanda, #gdansk"
+  - username: "mr.muddmam"
+    fullname: >-
+      Mudd
+    bio: >-
+      YouTube: TheFlipSideofMudd
+    location: "United States"
+    followers: 207800
+    engagement: 600
+    commentsToLikes: 0.034879
+    id: cka7o5k3106s90i786v91pror
+    verified: false
+    hashtags: "#lovememode, #justaddbriskzero, #thechallengeallstars, #chipsgottalent"
+  - username: "sycodad75"
+    fullname: >-
+      Syco Dad
+    bio: >-
+      Sober-07/22/2017 Fun-Music,Working Out Goal -To be a good Dad 🤘🏻😎
+    location: "Canada"
+    followers: 20100
+    engagement: 1165
+    commentsToLikes: 0.126578
+    id: ck9si8kv9xk7a0j78a8cjx573
+    verified: false
+    hashtags: "#classicrock, #canadian, #guitarsolo, #genx"
 ---

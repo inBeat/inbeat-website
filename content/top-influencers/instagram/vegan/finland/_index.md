@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Finland in 2023
+title: Top 10 Vegan Instagram Influencers In Finland In 2023
 description: >-
-  Find top vegan Instagram influencers in Finland in 2023. Most popular hashtags: #vegaani #vegan #arvonta #finland.
+  Find top vegan Instagram influencers in Finland in 2023. Most popular hashtags: #vegan #christmas #joulu.
 platform: Instagram
-hits: 33
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 33 Instagram influencers like this in Finland for you to pitch.
+hits: 25
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 25 Instagram influencers like this in Finland for you to pitch.
 profiles:
-  - username: "jorikotis"
+  - username: "carolineasmr"
     fullname: >-
-      J O R I   K O T A - A H O 🇫🇮
+      Caroline (Bearoline) 🐻
     bio: >-
-      ◾ Coach ◾ Known from TV ◾ @ritakotis & Jare ◾ All kinds of movement ◾ Vegan for the animals
+      I experiment with sounds on #YouTube to help people sleep! ✨ #ASMR #Vegan 🌱
     location: "Finland"
-    followers: 10663
-    engagement: 1067
-    commentsToLikes: 0.029342
-    id: ck6trctegy98e0j71oijjv64x
+    followers: 13304
+    engagement: 801
+    commentsToLikes: 0.039200
+    id: ckaoteyw6vndc0i788h67ywgu
     verified: false
-    hashtags: "#photooftheday, #yoga, #personaltrainer, #family"
+    hashtags: "#ulnarnervetransposition, #asmr, #youtube, #love"
   - username: "siirisuurvisiiri"
     fullname: >-
       Siiri Partanen
     bio: >-
       Actor-Musician🎭🥁🎶 Vegan🥑
     location: "Finland"
-    followers: 20090
-    engagement: 196
-    commentsToLikes: 0.006790
+    followers: 19976
+    engagement: 170
+    commentsToLikes: 0.006205
     id: ckaozfv7tlpa60i78bkxjcw3f
     verified: false
-    hashtags: "#actress, #ulkonaperill, #arctichill, #mets"
-  - username: "solku_art"
+    hashtags: "#ounasvaara, #luontoon, #winter, #nature"
+  - username: "minnihei"
     fullname: >-
-      Solku
+      Minni Väärä 🌿
     bio: >-
-      Original realistic hobbyhorses Trans non-binary vegan artist from Ikaalinen Finland @4hsuomi Yrittäjä They/Them Since 2006
+      38 | Helsinki • retired vegan youtuber • sexology student • crazy rescue dog lady ツ minni.vaara@hotmail.com
     location: "Finland"
-    followers: 18026
-    engagement: 1297
-    commentsToLikes: 0.027221
-    id: ck5hmxiusmt840i11yontvllu
+    followers: 12585
+    engagement: 786
+    commentsToLikes: 0.044635
+    id: ck5zwv1px6thg0i1475w84vo4
     verified: false
-    hashtags: "#steckenpferd, #arttoy, #modelhorse, #tehtysuomessa"
+    hashtags: "#lovedfashionlasts, #treenivaatteet, #lockdownportraits, #ondadeli"
   - username: "chocochili"
     fullname: >-
       Elina Innanen
     bio: >-
-      ✖ Vegan food blogger & cookbook author ✖ Helsinki, Finland ✖ elina@chocochili.net ⏩ My newest blog post
+      ✖ Vegan food blogger & cookbook author ✖ Helsinki, Finland ✖ elina@chocochili.net
     location: "Finland"
-    followers: 24840
-    engagement: 325
-    commentsToLikes: 0.070851
+    followers: 28425
+    engagement: 249
+    commentsToLikes: 0.020575
     id: ck5hrhfeyuvx40i11jskgl9cp
     verified: false
-    hashtags: "#vegaani, #vegan, #chocochili, #summer"
-  - username: "minnihei"
+    hashtags: "#plantbased, #violife, #vegejoulu, #joulu"
+  - username: "jslapierre"
     fullname: >-
-      Minni
+      JS Lapierre
     bio: >-
-      Helsinki sustainable wannabe | rescue dogs | vegan food • Youtube @psolenvegaani 💌 minni.vaara@hotmail.com
+      @zeroskateboards @rvcaskate @thestraye @independenttrucks @boneswheels @stancesocks @thinkempire @undz #Vegan ॐ
     location: "Finland"
-    followers: 11965
-    engagement: 1112
-    commentsToLikes: 0.037663
-    id: ck5zwv1px6thg0i1475w84vo4
+    followers: 16561
+    engagement: 729
+    commentsToLikes: 0.039621
+    id: ck6tmunfb8kcr0j71nbpxgxho
     verified: false
-    hashtags: "#vegaaninen, #pysykotona, #flattenthecurve, #vegaani"
-  - username: "maijuline"
-    fullname: >-
-      Maiju Laine
-    bio: >-
-      28 🌲 Finland 🇫🇮 Milliner 👒 Vintage & Victorian inspired 🕯️ Dressmaking 👗Vegan 🌱 My handmade @sylviaquaint 🕊️
-    location: "Finland"
-    followers: 7900
-    engagement: 561
-    commentsToLikes: 0.024167
-    id: ck138old7h91u0i19kdderx67
-    verified: false
-    hashtags: "#1890s, #lolitafashion, #ootd, #vintagestyle"
+    hashtags: ""
   - username: "veganminna"
     fullname: >-
       Minna | Vegan lifestyle 🌱
     bio: >-
-      Blogger from Helsinki Bride to be 2023 💍 @icaniwill ”MINNAR20” -20 %
+      Blogger from Helsinki Bride to be 5/2021 💍 @icaniwill ”MINNAR20” -20 %
     location: "Finland"
-    followers: 2348
-    engagement: 1313
-    commentsToLikes: 0.190074
+    followers: 2409
+    engagement: 1011
+    commentsToLikes: 0.147107
     id: ck6uhifw49ax10j7183cu5d71
     verified: false
-    hashtags: "#idealofsweden, #luonnonkosmetiikka, #luonnonkosmetiikkap, #summermemories"
-  - username: "tuuliatalvio"
+    hashtags: "#vegaani, #icaniwill, #christmas, #vegan"
+  - username: "oliviavidael"
     fullname: >-
-      TUULIA TALVIO
+      
     bio: >-
-      healthy living ✵✧✵ good vibes Helsinki, Finland hello@tuulia.co
+      ⁣⁣⁣ Lifestyle- & kauneusblogi storyhöpöttelyjen kera 👡⁣⁣ ⁣⁣HELSINKI | olivia.bigovic@hotmail.com 📰⁣⁣⁣⁣⁣⁣⁣ ⁣⁣⁣
     location: "Finland"
-    followers: 23612
-    engagement: 263
-    commentsToLikes: 0.027239
-    id: ck55k2sv7ybmu0i11n435241o
+    followers: 13404
+    engagement: 1721
+    commentsToLikes: 0.012391
+    id: ck6u5i66e9rvl0j713oy1llni
     verified: false
-    hashtags: "#foodin, #vegan, #tuuliablog, #nourish"
-  - username: "tarukatarina"
+    hashtags: "#crueltyfree, #asupostaus, #allergycertified, #ivyaia"
+  - username: "hillakortetjarvi"
     fullname: >-
-      Taru Kallionpää | FINLAND
+      Hilla Kortetjärvi
     bio: >-
-      made to make + loved to love wife & mama to carlos podcast host @mamcastpodi team @vitaminwellsuomi
+      Crossfit & Swimming "HILLA" gives you 20% off from your Ambronite order! 👑 Miss model of the world Finland 2015 👑 Miss Turku 2015
     location: "Finland"
-    followers: 11066
-    engagement: 1303
-    commentsToLikes: 0.039361
-    id: ck14lqhh5vz9q0i191rkmk9dk
+    followers: 10630
+    engagement: 1155
+    commentsToLikes: 0.034204
+    id: ckf5mnxdkuomf0j236xapwnp6
     verified: false
-    hashtags: "#perfumefree, #babyboy, #newbornbaby, #pregnancy"
-  - username: "maijuriskala"
+    hashtags: "#vegan, #easy, #outdoor, #mealshake"
+  - username: "juhanikoskinen"
     fullname: >-
-      MAIJU RISKALA
+      J U H A N I
     bio: >-
-      🏋🏾‍♀️ PT @bealivehealthclub | @mybnb_suomi 🖤 team @gymnation | 10 % off MAIJU 🌸 Ambassador @foodin | maiju15 🎙 @omantienkulkijapodcast
+      Turkulainen Helsingis. 💎 DM | juhani@louhosdigital.fi
     location: "Finland"
-    followers: 11635
-    engagement: 1124
-    commentsToLikes: 0.045192
-    id: ck55k2jm4yazs0i11jci1ify8
+    followers: 23388
+    engagement: 810
+    commentsToLikes: 0.006325
+    id: ck6tz9cgl8dct0j71l7m2rktj
     verified: false
-    hashtags: "#omantienkulkijapodcast, #wellness, #podcast, #giveaway"
+    hashtags: "#violife, #vegaanihaaste, #vegan, #kivi"
+  - username: "vikkemon"
+    fullname: >-
+      Roosa
+    bio: >-
+      Finland 🇫🇮 28 years young 💋 📩:viksunan@gmail.com
+    location: "Finland"
+    followers: 5386
+    engagement: 563
+    commentsToLikes: 0.003427
+    id: ck14ha6bm9baq0i19rtojyd0o
+    verified: false
+    hashtags: "#autumn, #veganfood, #youtube, #pomeranian"
 ---

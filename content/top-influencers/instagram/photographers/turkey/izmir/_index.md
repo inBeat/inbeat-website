@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Izmir in 2023
+title: Top 10 Photographers Instagram Influencers In Izmir In 2023
 description: >-
-  Find top photographers Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #photographer #photography #love.
+  Find top photographers Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #instagood #photographer #photooftheday.
 platform: Instagram
-hits: 100
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 100 Instagram influencers like this in Izmir, Turkey for you to connect with.
+hits: 85
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 85 Instagram influencers like this in Izmir, Turkey for you to pitch.
 profiles:
+  - username: "kadirarmanphoto"
+    fullname: >-
+      Kadir Arman
+    bio: >-
+      🏘 İSTANBUL / PHOTOGRAPHER 📸 KİŞİSEL DIŞ ÇEKİM YAPILIR 📩 DETAYLI BİLGİ İÇİN DM 📩 📩 DM ME FOR SHOOTOUT 📩
+    location: "Turkey"
+    followers: 27041
+    engagement: 675
+    commentsToLikes: 0.024077
+    id: ck1351mn2z8na0i19svk4gc7p
+    verified: false
+    hashtags: "#beautiful, #instagood, #europe, #photos"
   - username: "mcbilal83"
     fullname: >-
       Bilal Çaltaşı
     bio: >-
       📷 "Photographer" 📍 İzmir , TURKEY İletişim 📩 📮 mcbilal83@hotmail.com
     location: "Turkey"
-    followers: 53284
-    engagement: 336
-    commentsToLikes: 0.035857
+    followers: 50811
+    engagement: 318
+    commentsToLikes: 0.036117
     id: ck5q5c89ss7nb0i11pthgn5vk
     verified: false
-    hashtags: "#bostanl, #turkey, #balat, #galata"
-  - username: "egriboz"
+    hashtags: "#architecture, #kordon, #uncubozk, #izmir"
+  - username: "dszgn"
     fullname: >-
-      Mustafa Eğriboz
+      Deniz SEZGİN
     bio: >-
-      #director  & #photographer ✉️ mustafaegriboz@gmail.com @meppmedia #istanbul 📷🎥🎬🇹🇷 Miss Globe International
+      🏕 | Kendine has numunelik biri 🌎 |👣 🚙 🥗 |founder of @gezegendiyeti 📸 |Gezi fotoğraflarınızı etiketlemeyi unutmayın 👉🏻@dszgn 📥deniz1sezgin@gmail.com
     location: "Turkey"
-    followers: 31615
-    engagement: 166
-    commentsToLikes: 0.058108
-    id: ck0w40xhew8sk0i198yrm24b6
+    followers: 7673
+    engagement: 1059
+    commentsToLikes: 0.121106
+    id: ck9hbt3usibwo0j78r1etvy9n
     verified: false
-    hashtags: "#meppmedia, #hair, #bugsekonya, #influencerstyle"
-  - username: "rotasizgezgin__"
-    fullname: >-
-      𝙼𝚎𝚑𝚖𝚎𝚝 𝙰𝙺Ç𝙰𝚈
-    bio: >-
-      #rotasizgezgin👣 📍 From ; Turkey 🇹🇷 #evdekal 🌍 Traveler ; ✈️🚞 📝 Reklam ve İşbirlikleri için DM 📬 ⛺️ Camper ; 🏕⛰
-    location: "Turkey"
-    followers: 7345
-    engagement: 1233
-    commentsToLikes: 0.270874
-    id: ck0w3bgwfsjul0i192kw4h0em
-    verified: false
-    hashtags: "#gezgin, #traveler, #travelers, #seyahat"
-  - username: "midyat_burada47"
-    fullname: >-
-      Midyat Tanıtım Platformu
-    bio: >-
-      🌎•Tarih REKLAM VE İŞ BİRLİĞİ İÇİN DM 🏜•Manzara 🎈•Resim 🌗Doğa 🕌Sanat • Dar Sokakları Tarih Kokan Memleketine Hoş Geldiniz
-    location: "Turkey"
-    followers: 14121
-    engagement: 363
-    commentsToLikes: 0.015991
-    id: ck8tc4b7oy8g10j782o4t6my9
-    verified: false
-    hashtags: "#hercai, #lifestyle, #love, #art"
-  - username: "thisismyroute"
-    fullname: >-
-      This is my Route 👨‍🌾
-    bio: >-
-      Engineer | Traveler | Photographer
-    location: "Turkey"
-    followers: 12574
-    engagement: 672
-    commentsToLikes: 0.028623
-    id: ck9hb9mhzfxmu0j78cfcewzd1
-    verified: false
-    hashtags: "#goturkey, #turkeytravel, #egedenizi, #seaside"
-  - username: "turkey_in_life"
-    fullname: >-
-      ТУРЦИЯ 🇹🇷 ИЗМИР ЭГЕЙСКОЕ МОРЕ
-    bio: >-
-      Европейская Турция ⠀Аня, Замужем за нетурецким турком ⠀Ваше❤️останется на Эгейском побережье Сотрудничество @turkey_in_life_pr YouTube⤵️
-    location: "Turkey"
-    followers: 17837
-    engagement: 710
-    commentsToLikes: 0.102623
-    id: ck134fg6yw6ed0i19d4ux0esk
-    verified: false
-    hashtags: ""
-  - username: "korayozpalamutcu"
-    fullname: >-
-      Koray Özpalamutçu
-    bio: >-
-      • Travel and Lifestyle Photographer • Based in Izmir • Official Ambassador @haidafilter • Ambassador @oppomobiletr
-    location: "Turkey"
-    followers: 424097
-    engagement: 208
-    commentsToLikes: 0.021885
-    id: ck55kezv8z5ow0i11ahfdqezb
-    verified: false
-    hashtags: "#eclectic, #hellofrom, #sony, #moodygrams"
+    hashtags: "#turkey, #friends, #traveleurope, #rize"
   - username: "blackjacckk"
     fullname: >-
       Mutluluk içimde onu yedim😊
     bio: >-
       🐧 KOVA 💯 La vita e beLLa Kronik ironik Deli ♥🌠 iZMiR-Alaçatı PhoTogRapheR📷📹 Economist📈💶
     location: "Turkey"
-    followers: 12830
-    engagement: 473
-    commentsToLikes: 0.102733
+    followers: 12993
+    engagement: 483
+    commentsToLikes: 0.100068
     id: ck0vyxn0w6ab40i19o2i4ys4i
     verified: false
-    hashtags: "#izmiretkinlik, #zamanidurdur, #gezelimg, #egeyikesif"
-  - username: "dilara_alisaa"
+    hashtags: "#holiday, #butikoteller, #earthpix, #kar"
+  - username: "d.niyazoglu"
     fullname: >-
-      ⭐️DİLARA  ALİSA⭐️
+      🇹🇷
     bio: >-
-      ⭐️I’m the best , Fuck the rest ⭐️ ⭐️ Eres la única y última estrella que puedo ver durante el día ⭐️ @pomeranian_boo_sasha 'nin annesi🐶🐾 📌🌎🇹🇷🇹🇭🇸🇬🇲🇨
+      Реклама в 📩
     location: "Turkey"
-    followers: 26029
-    engagement: 230
-    commentsToLikes: 0.049998
-    id: ck5zmnzdbmwj50i14bgpi8yzv
+    followers: 15561
+    engagement: 361
+    commentsToLikes: 0.019213
+    id: ck0uddqktivws0i19st27s14p
     verified: false
-    hashtags: "#black, #bokeh, #photos, #folkarttime"
-  - username: "vlknbrt"
+    hashtags: "#turkiyem, #as, #alacati, #beauty"
+  - username: "alahattinkanlioglu"
     fullname: >-
-      ᴠᴏʟᴋᴀɴ ʙᴀʀᴜᴛ | 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢
+      Alahattin Kanlıoğlu
     bio: >-
-      ɪ ᴀᴍ ɪɴ ʟᴏs ᴀɴɢᴇʟᴇs ɴᴏᴡ 📍 ᴅᴍ ᴛᴏ ʙᴏᴏᴋ ғᴏʀ sʜᴏᴏᴛɪɴɢ 📸 - 𝑝𝑜𝑟𝑡𝑟𝑎𝑖𝑡 -𝑓𝑎𝑠ℎ𝑖𝑜𝑛 -𝑠𝑝𝑜𝑟𝑡
+      Live in İzmir Turkey. Ege Unv. Communication Faculty Lecturer photos are taken by me. Photographs' rights reserved. #photographer #art #instaturkey
     location: "Turkey"
-    followers: 6895
-    engagement: 647
-    commentsToLikes: 0.030472
-    id: ckapb6kejyr5h0i78v3qx8bvh
+    followers: 29375
+    engagement: 151
+    commentsToLikes: 0.011692
+    id: ck0uao550clrx0i19dzm9eww4
     verified: false
-    hashtags: "#photography, #modelling, #photooftheday, #russian"
+    hashtags: "#instatravel, #500pix, #art, #street"
+  - username: "ig_aniyakala_84"
+    fullname: >-
+      benim kadrajım
+    bio: >-
+      Beğendiğiniz fotoğrafları alıp paylaşabilirsiniz hayat paylaştıkca güzel cocuklar,yaşlılar,ve doğa benım vazgecılmzlerm(cavreş)23.06).BENİM KADRAJIM
+    location: "Turkey"
+    followers: 7989
+    engagement: 3536
+    commentsToLikes: 0.054550
+    id: ckf5vv595q0hz0j23yj8h39l4
+    verified: false
+    hashtags: "#hasankeyf, #instagram, #sevgi, #photo"
+  - username: "mehmetozcelik38"
+    fullname: >-
+      mehmet özçelik
+    bio: >-
+      Gördüğü güzellikleri heybesine atan bir fotoğraf sever...
+    location: "Turkey"
+    followers: 7803
+    engagement: 1674
+    commentsToLikes: 0.016948
+    id: ck8tdjyq83maa0j78vgho790i
+    verified: false
+    hashtags: ""
+  - username: "aslimsariofficial"
+    fullname: >-
+      ASLI M. SARI / GAZETECİ-YAZAR
+    bio: >-
+      RESMİ / OFFİCİAL ▪Milliyet içerik yazar✒ ▪Şiir✒ ▪Gazette Köşe📰 ▪Önce Vatan Gazetesi Makale✒ ▪Röportaj🎤 ▪ANT MEDİA✒ ▪Spiker-Sunucu🎤 ▪Kelam-ı Aslı✒
+    location: "Turkey"
+    followers: 10568
+    engagement: 719
+    commentsToLikes: 0.114417
+    id: ck139l4x0lutk0i19auq57zx2
+    verified: false
+    hashtags: "#kas, #bestoftheday, #lol, #instagood"
+  - username: "demirsema18"
+    fullname: >-
+      Sema❣️Demir
+    bio: >-
+      3️⃣1️⃣1️⃣2️⃣2️⃣0️⃣1️⃣8️⃣🌓 PAÜ 👇
+    location: "Turkey"
+    followers: 8621
+    engagement: 535
+    commentsToLikes: 0.139519
+    id: ck8t9f1hhnul90j78ikxi3tbh
+    verified: false
+    hashtags: "#sevgi, #nailpolish, #goodnight, #wedding"
 ---

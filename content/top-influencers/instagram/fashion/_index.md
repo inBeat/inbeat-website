@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers in 2023
+title: Top 10 Fashion Instagram Influencers In 2023
 description: >-
-  Find top fashion Instagram influencers in 2023. Most popular hashtags: #streetstyle #fashionblogger #lifestyle.
+  Find top fashion Instagram influencers in 2023. Most popular hashtags: #fashionblogger #maldives #reels #ad.
 platform: Instagram
-hits: 130319
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 130319 Instagram influencers like this for you to collaborate.
+hits: 124069
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 124069 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "hillarymedeiross"
+  - username: "behamin"
     fullname: >-
-      𝐇𝐢𝐥𝐥𝐚𝐫𝐲 𝐌𝐞𝐝𝐞𝐢𝐫𝐨𝐬 | fashion
+      Behamin • بهامين
     bio: >-
-      fashion content ASSISTA OS REELS 🖤 Cearense em Portugal - Aveiro📍 Aquariana com ascendente em blogueira ✨ hillarymedeiros7@gmail.com 📩
-    location: "Portugal"
-    followers: 11974
-    engagement: 995
-    commentsToLikes: 0.116634
-    id: ck9wdogh0givp0j78prjctzeb
-    verified: false
-    hashtags: "#10k, #ruivas, #1peca3looks, #stylegirlbrasil"
-  - username: "lit.fashion26"
-    fullname: >-
-      Fashion
-    bio: >-
-      ❤Follow Me For Daily Fashion Post ☺Clothes,Art & More 💯Turn On Post Notification All Copyrights belongs to their respective owners
-    location: ""
-    followers: 2529
-    engagement: 2668
-    commentsToLikes: 0.051284
-    id: ck14kjsa6puoh0i19ksynx5n1
-    verified: false
-    hashtags: ""
-  - username: "fashion"
-    fullname: >-
-      @fashion
-    bio: >-
-      A celebration of Fashion on Instagram, launching Q3 2020. Stay Safe & Healthy 🙏🏼
+      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
     location: "United States"
-    followers: 356339
-    engagement: 14
-    commentsToLikes: 0.057609
-    id: ck14l2rrjsk4o0i19aa4wsshj
+    followers: 487738
+    engagement: 571
+    commentsToLikes: 0.033819
+    id: ck0u741343nni0i1969xnaly0
     verified: false
-    hashtags: ""
-  - username: "tannaz_gy"
+    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
+  - username: "itschloe.n"
     fullname: >-
-      TANNAZ
+      CHLOE | FASHION BLOGGER
     bio: >-
-      A girl in love with travel🌍, fashion 💃and beauty 💄 Speaks :Italian, Persian, English and Turkish Based in Catania, Sicily 🍋🍋🌋 #sicily#catania
-    location: "Italy"
-    followers: 5160
-    engagement: 4557
-    commentsToLikes: 0.094115
-    id: ckaot5gpuugot0i78y4e8udmt
-    verified: false
-    hashtags: "#trieste, #salerno, #taorminasicily, #agrigento"
-  - username: "laura.cuccureddu"
-    fullname: >-
-      Laura Cuccureddu
-    bio: >-
-      • | 90's kid • | italian girl • | “We don’t need fashion to survive, we just desire it so much” M.J.🌹
-    location: "Italy"
-    followers: 2156
-    engagement: 4090
-    commentsToLikes: 0.126467
-    id: ckap6x8onhqi20i78c95wdtrx
-    verified: false
-    hashtags: "#ootdfashion, #qoutesoftheday, #femalequotes, #zaraoutfit"
-  - username: "joeyloomans"
-    fullname: >-
-      Joey Loomans🇳🇱
-    bio: >-
-      📍The Netherlands 🥼Back-up Assistent at Scotch&Soda 🥑Healthy Lifestyle 🔝Fashion & Lifestyle 📨 Collab: Joeyloomans@outlook.com
-    location: "Netherlands"
-    followers: 3022
-    engagement: 3057
-    commentsToLikes: 0.350511
-    id: ckap5lrzrc8kn0i78q6jhmeo1
-    verified: false
-    hashtags: "#lifestyle, #fashionblogger, #holzkernwatches, #mensstreetstyle"
-  - username: "simply_lenny"
-    fullname: >-
-      LENNY💋✌🏼
-    bio: >-
-      Lenny‘s Little World of #fashion 💄 #traval #inspo & #foodlover
-    location: "Austria"
-    followers: 2474
-    engagement: 2945
-    commentsToLikes: 0.473416
-    id: ckap52mut9wvu0i78iu0g9589
-    verified: false
-    hashtags: "#anajohnson, #fashionpost, #vienna, #fashionlogger"
-  - username: "yvx27"
-    fullname: >-
-      yaqoob🖇'
-    bio: >-
-      Fashion | lifestyle Photography | editing Dm for inquiries 📫 Dxb📍
+      SF Bay Area | fashion, lifestyle and beauty🕊 fits straight from your Pinterest 🍸🖤 💌 email for collabs/PR: itschloe.nn@gmail.com
     location: ""
-    followers: 2794
-    engagement: 2882
-    commentsToLikes: 0.303799
-    id: ck5q391ogjt0o0i119jz2hhzx
+    followers: 40995
+    engagement: 560
+    commentsToLikes: 0.103547
+    id: ckprgrbny882y0j23mhlhv5cm
     verified: false
-    hashtags: "#vans, #fashionista, #photographer, #dubaimodel"
-  - username: "kayla.ogno"
+    hashtags: "#pacpartner, #pinterestoutfit, #fallootd, #pinterestgirl"
+  - username: "taukeer_editz"
     fullname: >-
-      kayla ogno
+      𝐓 🔥 𝐔 𝐊 𝐄 𝐄 𝐑   𝐄 𝐃 𝐈 𝐓 𝐙 👑
     bio: >-
-      FASHION￼ MODEL
+      • Photography | Editor | Youtuber • Fashion 👔 | New Delhi📍 • Snapchat : taukeerroxx • MGMT @gaur_media
+    location: "India"
+    followers: 544505
+    engagement: 503
+    commentsToLikes: 0.017597
+    id: ck15r3put5zoz0i19o97av7e3
+    verified: false
+    hashtags: "#menfashion, #photography, #editzarmy, #goldenhour"
+  - username: "nataliekennedyblog"
+    fullname: >-
+      Natalie Kennedy
+    bio: >-
+      Nashville • fashion • home • healthy recipes Poppy’s mom 🤍 + baby girl #2 on the way 💍 @patrickkennedy1223 Shop my outfits & presets ⬇️
     location: "United States"
-    followers: 5367
-    engagement: 2856
-    commentsToLikes: 0.102331
-    id: ckap5coz5b2v70i78826g3rkw
+    followers: 573501
+    engagement: 452
+    commentsToLikes: 0.056414
+    id: ck15pk4joy9z30i19xg53dw1e
     verified: false
-    hashtags: "#roadtomissnjteenusa, #countdown"
-  - username: "oleksy_patrycja_"
+    hashtags: "#walmartpartner, #liketkit, #bumpstyle, #walmartfashion"
+  - username: "mermaidsonmainstreet"
     fullname: >-
-      Patrycja
+      Alex • Disney Creator, Disney Mama
     bio: >-
-      In love with traveling ✈️ and fashion👠 @nizio1 💍
-    location: "Poland"
-    followers: 2608
-    engagement: 2656
-    commentsToLikes: 0.328281
-    id: ckaozwm0hnqfu0i78rt8g4vi5
+      Treats, Tantrums & Travels!💫 Disney Fashion on a Budget! 📍Disneyland, Ca is H O M E Inspire Key Holders 🔑 📩mermaidsonmainstreet@gmail.com
+    location: "United States"
+    followers: 24037
+    engagement: 877
+    commentsToLikes: 0.113247
+    id: ck5qddtlzv2sy0i11l3iwcrcg
     verified: false
-    hashtags: "#throwback, #bdaygirl, #oliviastar, #oliviastar360"
+    hashtags: "#disneybounding, #disneynews, #disneyinstagram, #disneylandanaheim"
+  - username: "harshitmittal15"
+    fullname: >-
+      HARSHIT MITTAL
+    bio: >-
+      Men’s Fashion | Grooming | Lifestyle 📍 Chandigarh | Delhi ✉️ : harshitmittal152001@gmail.com
+    location: "India"
+    followers: 100200
+    engagement: 555
+    commentsToLikes: 0.012492
+    id: ck8t4jupg70nt0j78yxv91uzz
+    verified: false
+    hashtags: "#ad, #menswear, #beautysale, #selfieready"
+  - username: "rohittt_09_"
+    fullname: >-
+      𝐑𝐨𝐡𝐢𝐭 𝐙𝐢𝐧𝐣𝐮𝐫𝐤𝐞 ~ 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧𝐛𝐨𝐢 💫
+    bio: >-
+      • Fashion • Lifestyle • Video Creator 📍Surat ➰ Mumbai #reactionboi • YouTube : Rohit Zinjurke ( 35 Lakh Subscribers)
+    location: "India"
+    followers: 24801559
+    engagement: 537
+    commentsToLikes: 0.009176
+    id: ck8tc6k3dygnd0j783tc47cg7
+    verified: false
+    hashtags: "#fifaworldcup, #tvf, #amazonminitv, #watchnow"
+  - username: "belinda.fashionista"
+    fullname: >-
+      Seoul travel fashion
+    bio: >-
+      Visual content creator 🧜‍♀️ Best fashion/beauty award winner @kachenmagazine Fashion stylist👠 Traveler🌏 Sharing fashion and travel tips
+    location: "India"
+    followers: 12994
+    engagement: 5050
+    commentsToLikes: 0.213421
+    id: ck5zxl8hh884e0i14gmlv01lm
+    verified: false
+    hashtags: "#koreanadventures, #bukchonhanokvillage, #seoulfashionweek, #blogger"
+  - username: "virginiepilotte"
+    fullname: >-
+      VIRGINIE
+    bio: >-
+      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
+    location: "Canada"
+    followers: 32541
+    engagement: 593
+    commentsToLikes: 0.059708
+    id: ck55ppopob3mx0i11k0dp0cdv
+    verified: false
+    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
+  - username: "diana_eneje"
+    fullname: >-
+      Diana Eneje
+    bio: >-
+      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
+    location: "United States"
+    followers: 881412
+    engagement: 609
+    commentsToLikes: 0.010877
+    id: ck8syqlu2lmpq0j78qrada67j
+    verified: false
+    hashtags: "#completefreshprotection, #reels, #closeupnigeria, #maldives"
 ---

@@ -1,72 +1,72 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Atlanta in 2023
+title: Top 10 Lifestyle TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top lifestyle TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #foryoupage #duet #viral.
+  Find top lifestyle TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #foryoupage #foryou #atlanta.
 platform: TikTok
-hits: 7
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 7 TikTok influencers like this in Atlanta, United States for you to contact.
+hits: 8
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 8 TikTok influencers like this in Atlanta, United States for you to pitch.
 profiles:
+  - username: "catoura"
+    fullname: >-
+      Catoura
+    bio: >-
+      Lifestyle | Beauty | Atlanta dog mom 💃🏻🐕 Catcatoura@gmail.com Product link:
+    location: "United States"
+    followers: 13600
+    engagement: 505
+    commentsToLikes: 0.031828
+    id: ck9fmlkpyu1l50j78kh09jpkd
+    verified: false
+    hashtags: "#thingstodoinatlanta, #travelblogger, #greenscreen, #atlantablogger"
   - username: "dyetta"
     fullname: >-
       Donyetta Edwards
     bio: >-
       An Atlanta based lifestyle, health and beauty blog curated by Donyetta Edwards.
     location: "United States"
-    followers: 14200
-    engagement: 1027
-    commentsToLikes: 0.070911
+    followers: 15000
+    engagement: 1093
+    commentsToLikes: 0.085058
     id: cka9m457h3ram0i78lv3uvff2
     verified: false
-    hashtags: "#popquiz, #zoom, #workfromhome, #duet"
+    hashtags: "#fyp, #workfromhome, #zoom, #funny"
   - username: "misslambodoc"
     fullname: >-
       Anna O'ryan Fyfe
     bio: >-
       Luxury Lifestyle page ✨ instagram: @misslambodoc
     location: "United States"
-    followers: 121900
-    engagement: 353
-    commentsToLikes: 0.020452
+    followers: 122300
+    engagement: 529
+    commentsToLikes: 0.021080
     id: ckb9nfu2vh4l00j23s12jatlx
     verified: false
-    hashtags: "#roadster, #ramsayreacts, #cars, #blondes"
-  - username: "not.ramzi"
+    hashtags: "#foryoupage, #hypercar, #luxury, #chrome"
+  - username: "davicrimmins"
     fullname: >-
-      🥱
+      Davi
     bio: >-
-      hi sd -> wa
+      🎙Comedian 📻 Cohost 📱Creator Follow me on IG, FB, & Twitter @DaviCrimmins
     location: "United States"
-    followers: 2667
-    engagement: 2706
-    commentsToLikes: 0.266710
-    id: ckauq0la1v3m30j23bx5nxvbm
+    followers: 73500
+    engagement: 1561
+    commentsToLikes: 0.066173
+    id: ck9el4qhm924t0j78vml816ca
     verified: false
-    hashtags: "#greenscreen, #foryoupage, #quarantine, #purplegang"
-  - username: "jevon.tyreik"
+    hashtags: "#dramaticmoments, #mentalhealth, #draftdump, #whenwomenwin"
+  - username: "officialgic0e"
     fullname: >-
-      Jevon.Tyreik
+      officialgic0e
     bio: >-
-      423🔄865 AMOSC👻:jevon_thtkid Insta📸: jevon.tyreik Like‼️comment‼️share‼️
+      🏡Safe Space For Black Women of All Complexions🇵🇦 Pre Save ATL Eclipse🌒✍🏾
     location: "United States"
-    followers: 20500
-    engagement: 1383
-    commentsToLikes: 0.022245
-    id: ckbf9uxfo12710j23gf6q83di
+    followers: 238200
+    engagement: 2452
+    commentsToLikes: 0.055086
+    id: ckaiksekgkv0g0i78ltkmbpl6
     verified: false
-    hashtags: "#quarantinelife, #foryoupage, #trending, #letsfaceit"
-  - username: "pamulah.baby"
-    fullname: >-
-      Pamela Scales
-    bio: >-
-      Crazy. Sexy. Cool. Follow for a 🔥🚚💨ride! Everybody in my party is V.I.P
-    location: "United States"
-    followers: 19200
-    engagement: 889
-    commentsToLikes: 0.039398
-    id: ckcjffg4pb0jh0j233rq02jjd
-    verified: false
-    hashtags: "#viral, #foryour, #comedy, #blackmusic"
+    hashtags: "#hpradicalreuse, #leadwithlove, #blackmen, #dontquityourdaydream"
   - username: "verifiedwave"
     fullname: >-
       verifiedwave
@@ -78,53 +78,53 @@ profiles:
     commentsToLikes: 0.036257
     id: ckavbf9gmj2qk0j231o9ks3fy
     verified: false
-    hashtags: "#foruu, #extreme, #nike, #xyzcb"
-  - username: "theantiquatedgent"
+    hashtags: "#trending, #xyzcb, #verified, #viral"
+  - username: "mrg4u"
     fullname: >-
-      The Antiquated Gent
+      Mr.G
     bio: >-
-      🎩Manners maketh man🎩 👑 lvl 31 👑 🕶vintage lifestyle🕶
+      Following back randomly
     location: "United States"
-    followers: 103600
-    engagement: 907
-    commentsToLikes: 0.016720
-    id: ckc8btrwu822s0j23tfstzljk
+    followers: 150900
+    engagement: 370
+    commentsToLikes: 0.012564
+    id: ck8j7kcboerk30j786wcrk9gu
     verified: false
-    hashtags: "#howidothings, #shavetiktok, #shaving, #replyingtocomments"
+    hashtags: "#driving, #to, #refundglowup, #for"
+  - username: "rana.good"
+    fullname: >-
+      Rana Good
+    bio: >-
+      Travel Writer 🌎 Instagram: ranagood. My travel and lifestyle magazine 🔽
+    location: "United States"
+    followers: 20600
+    engagement: 769
+    commentsToLikes: 0.040855
+    id: ck9fg7zym0mhu0j78wablyhmk
+    verified: false
+    hashtags: "#travellife, #learnontiktok, #kenya, #nyc"
+  - username: "lifestylemols"
+    fullname: >-
+      molly
+    bio: >-
+      lifestyle vlogs 💕💿🐛🌞🍄
+    location: "United States"
+    followers: 29200
+    engagement: 2947
+    commentsToLikes: 0.140218
+    id: ckc85eho04zeu0j23vto2avgt
+    verified: false
+    hashtags: "#summer, #foryou, #grwm, #daily"
   - username: "laynes.life"
     fullname: >-
       ✰ layne ✰
     bio: >-
-      skincare, beauty, lifestyle profile pic is NOT mine- @ejgdesigns ⬇️ links ⬇️
+      new acct- vlogs.layne vlogs, lifestyle
     location: "United States"
-    followers: 42400
-    engagement: 2550
-    commentsToLikes: 0.071745
+    followers: 41900
+    engagement: 2622
+    commentsToLikes: 0.065464
     id: ckfplcec901cu0j23yd02dkww
     verified: false
-    hashtags: "#closeup, #xyzbca, #fall, #fyp"
-  - username: "bsbl101"
-    fullname: >-
-      Baseball Lifestyle
-    bio: >-
-      Official Baseball Lifestyle 101 TikTok. Shop: BL101.COM
-    location: "United States"
-    followers: 104500
-    engagement: 1981
-    commentsToLikes: 0.090062
-    id: ck97832as6iy40j78m4zi9tny
-    verified: false
-    hashtags: "#tiktok, #fallfashion, #foryou, #showupshowoff"
-  - username: "jesssica.le"
-    fullname: >-
-      jessica le
-    bio: >-
-      19 inconsistent content for my inconsistent lifestyle
-    location: "United States"
-    followers: 16900
-    engagement: 1835
-    commentsToLikes: 0.093029
-    id: ck99a9t8agot80j78a00sa18l
-    verified: false
-    hashtags: "#stitch, #wewintogether, #duet, #amongus"
+    hashtags: "#upthebeat, #housetour, #giftofgame, #opiobsessed"
 ---

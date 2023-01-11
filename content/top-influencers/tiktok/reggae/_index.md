@@ -1,130 +1,130 @@
 ---
-title: Top 10 Reggae TikTok Influencers in 2023
+title: Top 10 Reggae TikTok Influencers In 2023
 description: >-
-  Find top reggae TikTok influencers in 2023. Most popular hashtags: #parati #reggaeton #fyp #music.
+  Find top reggae TikTok influencers in 2023. Most popular hashtags: #fyp #reggaeton #mexico #dance.
 platform: TikTok
-hits: 773
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 773 TikTok influencers like this for you to pitch.
+hits: 742
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 742 TikTok influencers like this for you to pitch.
 profiles:
   - username: "elcompajorgeaa"
     fullname: >-
       Elcompajorgeaa
     bio: >-
-      Latin trap/reggaeton artist🔥 GDL🇲🇽 PHX📍 20K?
+      Latin trap/reggaeton artist🔥 GDL🇲🇽 PHX📍 25K??
     location: "United States"
-    followers: 17000
-    engagement: 1665
-    commentsToLikes: 0.066713
+    followers: 22000
+    engagement: 1352
+    commentsToLikes: 0.068406
     id: ck9k0d9umck5d0j784ocs6stf
     verified: false
-    hashtags: "#reggaeton, #latinas, #alv, #rhlm"
+    hashtags: "#tiktokmexicano, #mexican, #latinas, #anuel"
   - username: "iamkemit"
     fullname: >-
       Kemit Price
     bio: >-
-      🗣 CEO of RACIAL HEALING 🌏 😅 VP of "TRUE 💩 OR NAH?" 🇯🇲 Reggae Singer/Writer
+      🇯🇲Reggae Artist 😅CEO "TRUE 💩 OR NAH?" ✊️🏿VP "STAY WOKE" ✍️DM for Shout-outs
     location: "United States"
-    followers: 50200
-    engagement: 819
-    commentsToLikes: 0.406632
+    followers: 111500
+    engagement: 794
+    commentsToLikes: 0.353294
     id: ckc7b8g14kutc0j23aoqm88co
     verified: false
-    hashtags: "#biden2020, #black, #stemlife, #blacklivesmatter"
+    hashtags: "#skiptherinse, #dance, #thewailers, #fyp"
+  - username: "maicoleldeenmedio"
+    fullname: >-
+      ✨ Michael Martinez ✨
+    bio: >-
+      🔥🇲🇽 Música, baile y locuras Audios chidos para ti👇🏼 Playlist reggaeton 👇?
+    location: "Mexico"
+    followers: 67500
+    engagement: 927
+    commentsToLikes: 0.043804
+    id: ckcpclxqifnr70j23wvwocbaz
+    verified: false
+    hashtags: "#wisinyyandel, #ozuna, #baile, #mexico"
+  - username: "gael.grtr"
+    fullname: >-
+      El paloma 🕊
+    bio: >-
+      Beatmaker y productor de Reggaeton🔥 3X2 en tienda💰 👇🏻 👇🏻👇🏻
+    location: "Mexico"
+    followers: 251800
+    engagement: 899
+    commentsToLikes: 0.031562
+    id: ckbvv6bxwtmbv0j23awkq1kff
+    verified: false
+    hashtags: "#fyp, #elpaloma, #princesasdisney, #pegar"
+  - username: "dafuchaman"
+    fullname: >-
+      Da Fuchaman (Reggae Artist)
+    bio: >-
+      Love Reggae Music? Use the link below to go to my YouTube channel and subscribe.
+    location: "United Kingdom"
+    followers: 20300
+    engagement: 834
+    commentsToLikes: 0.133162
+    id: ckd6xzf4xvd410j23cvkm5uiw
+    verified: false
+    hashtags: "#trending, #funnyvideo, #lol, #jamaicancomedy"
   - username: "daddyyankee"
     fullname: >-
       daddyyankee
     bio: >-
-      King of Reggaeton, The Big Boss Daddy Yankee New single #Dondon
+      King of Reggaeton New single #Problema Out Now!
     location: "United States"
-    followers: 4300000
-    engagement: 1069
-    commentsToLikes: 0.010134
+    followers: 7400000
+    engagement: 963
+    commentsToLikes: 0.008031
     id: ck8hqbcmk3atp0j78f2mzdhry
     verified: true
-    hashtags: "#daddyyankee, #dondon, #puertorico, #definitivamente"
+    hashtags: "#problema, #fyp, #problemachallenge, #daddyyankee"
+  - username: "uzielito_mix"
+    fullname: >-
+      Uzielito Mix
+    bio: >-
+      Soy un DJ/Productor, reggaetonero mexicano.. Mátalos Papi 💣🏁 ⬇️⬇️⬇️
+    location: "Mexico"
+    followers: 317600
+    engagement: 1456
+    commentsToLikes: 0.006185
+    id: cka6nanvsajiq0i781ajpmbu8
+    verified: true
+    hashtags: "#ma, #uzielito, #matalospapi, #home"
+  - username: "roman.santana92"
+    fullname: >-
+      Romansantana92
+    bio: >-
+      🎶 Canario soy traigo salsa con reggaeton! 🇮🇨🇮🇨 Just live! 🤪
+    location: "Spain"
+    followers: 5760
+    engagement: 889
+    commentsToLikes: 0.019186
+    id: ckc31nu8ys2110j233mr5ti5r
+    verified: false
+    hashtags: "#couple, #piano, #sagradafamilia, #quedateencasa"
   - username: "heyeduardopaz"
     fullname: >-
       Eduardo Paz
     bio: >-
       Amante del Crossfit y Reggaeton 🔥 Give your best and forget the rest
     location: "Mexico"
-    followers: 2777
-    engagement: 826
-    commentsToLikes: 0.028931
+    followers: 2723
+    engagement: 788
+    commentsToLikes: 0.023096
     id: ckbf1chl8nd9r0j23ub4tj5z5
     verified: false
-    hashtags: "#sports, #crossfit, #mexico, #safaerachallenge"
-  - username: "manuel_gabrieli"
-    fullname: >-
-      manuel_gabrieli_jsc
-    bio: >-
-      Italy 🇮🇹 Insta: @manuel_gabrieli_jsc Dancer •Reggaeton •Jazz Funk •HipHop
-    location: "Italy"
-    followers: 53800
-    engagement: 1074
-    commentsToLikes: 0.034053
-    id: cka0s3f3ljoqd0i78xsak1sa6
-    verified: false
-    hashtags: "#trend, #foryou, #challenge, #reggaeton"
-  - username: "romansantana92"
-    fullname: >-
-      Romansantana92
-    bio: >-
-      🎶 Canario soy traigo salsa con reggaeton! 🇮🇨🇮🇨 Just live! 🤪
-    location: "Spain"
-    followers: 5109
-    engagement: 909
-    commentsToLikes: 0.021386
-    id: ckc31nu8ys2110j233mr5ti5r
-    verified: false
-    hashtags: "#quedateencasa, #sagradafamilia, #conciertoenmibalcon, #frenchie"
-  - username: "uzielito_mix"
-    fullname: >-
-      Uzielito Mix
-    bio: >-
-      Soy un DJ/Productor, reggaetonero mexicano.. Mátalos Papi 💣🏁
-    location: "Mexico"
-    followers: 64100
-    engagement: 895
-    commentsToLikes: 0.010888
-    id: cka6nanvsajiq0i781ajpmbu8
-    verified: true
-    hashtags: "#tiktokremix, #uzielito, #parati, #uzielitomixchallenge"
+    hashtags: "#parati, #workout, #fyp, #mexico"
   - username: "arthurtheroyalvoice"
     fullname: >-
       Arthur
     bio: >-
       Offical Reggaeton Artist / 📩: siickmusicbooking@gmail.com / Worldwide
     location: "United States"
-    followers: 42900
-    engagement: 674
-    commentsToLikes: 0.022185
+    followers: 52000
+    engagement: 559
+    commentsToLikes: 0.037683
     id: ck9eodcz9ntjt0j78l9268zxh
     verified: true
-    hashtags: "#fyp, #tiktokfood, #halloweenishere, #interiordesign"
-  - username: "jowellyrandy"
-    fullname: >-
-      Jowell y Randy
-    bio: >-
-      Los Más Sueltos de Reggaeton • Bookings: @arielrivas • bookings@arrowmgt.com •
-    location: "United States"
-    followers: 104400
-    engagement: 307
-    commentsToLikes: 0.007487
-    id: ckbfd76vd6eaj0j23nresp9wq
-    verified: false
-    hashtags: "#foryou, #viral, #reggaeton, #safaera"
-  - username: "rauwalejandro"
-    fullname: >-
-      rauwalejandro
-    bio: >-
-      Latin R&B/Reggaeton singer 🇵🇷
-    location: "United States"
-    followers: 1600000
-    engagement: 1490
-    commentsToLikes: 0.006230
-    id: ck8hqqsn35e2u0j78aalrmm0i
-    verified: true
-    hashtags: "#athome, #pontepamirauwalejandro, #algomagico, #tattooremix"
+    hashtags: "#fun, #novia, #studio, #parati"
 ---

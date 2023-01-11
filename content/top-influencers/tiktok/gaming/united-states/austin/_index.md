@@ -1,108 +1,120 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Austin in 2023
+title: Top 10 Gaming TikTok Influencers In Austin In 2023
 description: >-
-  Find top gaming TikTok influencers in Austin in 2023. Most popular hashtags: #gaming #fyp #duet #foryou.
+  Find top gaming TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #gaming #foryoupage #foryou.
 platform: TikTok
-hits: 54
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 54 TikTok influencers like this in Austin, United States for you to work with.
+hits: 68
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 68 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "austinfelt"
+    fullname: >-
+      Austin
+    bio: >-
+      Biz mgmtaustinfelt@gmail.com Check out the stream
+    location: "United States"
+    followers: 5700000
+    engagement: 958
+    commentsToLikes: 0.015464
+    id: ck83wux92ma270j78x61mwmsc
+    verified: true
+    hashtags: "#minecraft, #gaming, #austinfelt, #bangenergy"
   - username: "lilkrispyworldwide"
     fullname: >-
       OfficiallyAustin
     bio: >-
       Well dang
     location: "United States"
-    followers: 27400
-    engagement: 727
-    commentsToLikes: 0.026541
+    followers: 27200
+    engagement: 733
+    commentsToLikes: 0.028344
     id: ckdhbz90rw3lx0j23f6ksttp5
     verified: false
-    hashtags: "#cod, #xyzcba, #comment, #duet"
-  - username: "thebrandonrayshow"
+    hashtags: "#food, #duet, #universityoftexas, #cod"
+  - username: "100thieves"
     fullname: >-
-      Brandon Ray Sexton
+      100 Thieves 
     bio: >-
-      💙LIVE @9PM💙 🚨TIPS&TRENDS🚨 💙VIBEWITHBRANDON💙BIGLOVEFAM💙 🎁@chit0wn1216🎁
+      Gaming, entertainment, and memes. #100T
     location: "United States"
-    followers: 45300
-    engagement: 743
-    commentsToLikes: 0.180714
-    id: ckceibydnqht10j230l69sh9q
-    verified: false
-    hashtags: "#greenscreen, #duet, #vibewithbrandon, #tagme"
+    followers: 983000
+    engagement: 1778
+    commentsToLikes: 0.007058
+    id: ck7zo0ej7gmhf0j78gszyhflr
+    verified: true
+    hashtags: "#twitch, #fyp, #modernwarfare, #gaming"
   - username: "austin_shock"
     fullname: >-
       Austin Shock
     bio: >-
       New acct ➡️ @shocktok ⚡ 29 STAR WARS-Comedy-Edits-Sounds Memes-Gaming-GeekyGay😅
     location: "United States"
-    followers: 58800
-    engagement: 1671
-    commentsToLikes: 0.181555
+    followers: 58300
+    engagement: 1489
+    commentsToLikes: 0.160890
     id: ckac7yovmf3rh0i78vp8fsrng
     verified: false
-    hashtags: "#starwarsmemes, #greenscreen, #sound, #foryoupage"
-  - username: "exotic_respxct_"
-    fullname: >-
-      David😜🥵😂
-    bio: >-
-      💯AUSTIN💯
-    location: "United States"
-    followers: 4709
-    engagement: 1304
-    commentsToLikes: 0.079978
-    id: ckav2lwbs8slr0j23vq58sfl6
-    verified: false
-    hashtags: "#greenscreen, #shamelessedits, #gaming, #greenscreenvideo"
-  - username: "aish_add"
-    fullname: >-
-      Aishu ✨
-    bio: >-
-      21 📍Austin, TX 🤘🏾 I dance a little daily doses of positivity💕
-    location: "United States"
-    followers: 175800
-    engagement: 1891
-    commentsToLikes: 0.026277
-    id: ckbbduu852nd70j23bbkfkfd5
-    verified: false
-    hashtags: "#bharatanatyam, #dance, #fusion, #brown"
+    hashtags: "#starwars, #duet, #greenscreen, #prequelmemes"
   - username: "austink32"
     fullname: >-
       Austin
     bio: >-
-      My twitch stream is austink123
+      Twitch=Austink32 dms don’t work 6’7 Business email-Austink325@icloud.com 120k???
     location: "United States"
-    followers: 27100
-    engagement: 1248
-    commentsToLikes: 0.155012
+    followers: 106600
+    engagement: 1634
+    commentsToLikes: 0.089561
     id: ckd5j8a19uttc0j23tt5curqt
     verified: false
-    hashtags: "#foryou, #foryoupage, #gaming, #fyp"
-  - username: "venxm.exe"
+    hashtags: "#foryou, #internet, #fyp, #foryoupage"
+  - username: "j.m.greaney"
     fullname: >-
-      🍃 Mikayla 🍃
+      Jonmichael Greaney
     bio: >-
-      lvl 23 | satx | | gaming | cosplay | anime | | she/they | | Pobox/Discord |
+      My IG: @j.m.greaney Pups IG: @_mylilpeter AUSTIN TEXAS Tell me about your life
     location: "United States"
-    followers: 279100
-    engagement: 2674
-    commentsToLikes: 0.017960
-    id: ck8fazzus4uda0j78maiccx1e
+    followers: 69200
+    engagement: 1723
+    commentsToLikes: 0.018358
+    id: ck9rd47yiwayu0j78xerja3rx
     verified: false
-    hashtags: "#satx, #femhawks, #hawkscosplay, #foryou"
-  - username: "ttv_frxstttt"
+    hashtags: "#puppy, #foryou, #corgi, #fyp"
+  - username: "matthewmyoung"
     fullname: >-
-      Frxstttt
+      Matthew M Young
     bio: >-
-      Twitch steamer with a big goal. i love you all
+      Software dev 23 Austin, TX
     location: "United States"
-    followers: 19000
-    engagement: 1473
-    commentsToLikes: 0.174881
-    id: ckczvmgme60hz0j23jjnj2ndl
+    followers: 8174
+    engagement: 891
+    commentsToLikes: 0.059492
+    id: ckbky6cjjua7x0j23qnocpdpl
     verified: false
-    hashtags: "#streaming, #gaming, #fyp, #streamer"
+    hashtags: "#learntocode, #forwardvibe, #learnontiktok, #python"
+  - username: "austinj932"
+    fullname: >-
+      Austinj932
+    bio: >-
+      I'm Austin. Please heart and follow! 27 Snap- AustinJ932 Fiancée: @RitzKrakrz17
+    location: "United States"
+    followers: 7227
+    engagement: 793
+    commentsToLikes: 0.124162
+    id: ckae53gje5ief0i78ic6rj83h
+    verified: false
+    hashtags: "#fyp, #viral, #stitch, #duet"
+  - username: "roadieaustin"
+    fullname: >-
+      Austin
+    bio: >-
+      Follow my IG for a Follow Back ↖️ Snap: austinrodes roadieaustin@gmail.com
+    location: "United States"
+    followers: 313300
+    engagement: 1429
+    commentsToLikes: 0.005635
+    id: ck90u6lg7vi7j0j78g8rl60lg
+    verified: false
+    hashtags: "#fyp, #pong, #trickshots, #foryou"
   - username: "savvy.austin"
     fullname: >-
       AJ
@@ -110,21 +122,9 @@ profiles:
       👽Flex DPS player for Daedalus and Zenith👽 GT: AHG Savvy
     location: "United States"
     followers: 2170
-    engagement: 1263
-    commentsToLikes: 0.162984
+    engagement: 1326
+    commentsToLikes: 0.216115
     id: ckbr3n29sjzyq0j23wn7d05uq
     verified: false
-    hashtags: "#xbox, #rocketleague, #overwatch, #strapback"
-  - username: "leeakedtv"
-    fullname: >-
-      Austin
-    bio: >-
-      Follow me on TikTok and Twitch! Appreciate you all!
-    location: "United States"
-    followers: 27100
-    engagement: 1296
-    commentsToLikes: 0.053216
-    id: ckbqvon5rfz8u0j2331a8wv8t
-    verified: false
-    hashtags: "#modernwarfare, #callofduty, #replytocomments, #twitchstreamer"
+    hashtags: "#overwatch, #foryoupage, #doritosflatlife, #fyp"
 ---

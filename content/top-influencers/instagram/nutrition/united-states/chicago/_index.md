@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Chicago in 2023
+title: Top 10 Nutrition Instagram Influencers In Chicago In 2023
 description: >-
-  Find top nutrition Instagram influencers in Chicago in 2023. Most popular hashtags: #homeworkout #chicago #wellness.
+  Find top nutrition Instagram influencers in Chicago in 2023. Most popular hashtags: #fitness #workout #healthylifestyle #nutrition.
 platform: Instagram
-hits: 35
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 35 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 27
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 27 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "mayazbites"
+  - username: "chanelogy"
     fullname: >-
-      MAYA مايْا 🇫🇷🇸🇾
+      chanel ej ☼
     bio: >-
-      Content Creator Promoting A Healthy Mediterranean Lifestyle 🍎 #RD2BE @Dominicanu MBA/Dietetics Intern. @UCDavis Alum, Clinical Nutrition B.S. 📍Chicago
+      lifestyle of a chicago girl, wife, & dog mom ✉️ chanelogy@gmail.com
     location: "United States"
-    followers: 17378
-    engagement: 348
-    commentsToLikes: 0.081217
-    id: ck6u84rgmpfi60j71xwm2vhfm
+    followers: 111081
+    engagement: 235
+    commentsToLikes: 0.029968
+    id: ckapbtgib1acg0i78y3ehxt5o
     verified: false
-    hashtags: "#healthylifestyle, #f52grams, #healthyfood, #healthyliving"
-  - username: "nutritionhappens"
+    hashtags: "#caleriehealth, #lbootd, #ad, #summerinlb"
+  - username: "savvydermdiva"
     fullname: >-
-      May Zhu, MBA, RDN, LDN
+      Renata | Savvy Derm Diva ®️
     bio: >-
-      Registered Dietitian Nutritionist 📍 Chicago, IL making nutrition happen for you 👇🏼
+      💋PA-C in Dermatology 💋Trusted Skin Care Blogger 💋FEATURED on #wgnradio #cbschicago #dermspotlight 💋Chicago 💋#collab info@savvydermdiva.com
     location: "United States"
-    followers: 39291
-    engagement: 100
-    commentsToLikes: 0.106636
-    id: ck0vw7ld2sgjr0i192a7lddbv
+    followers: 54604
+    engagement: 119
+    commentsToLikes: 0.309450
+    id: ck9h9n1qe94vm0j78b5ixgub1
     verified: false
-    hashtags: "#nutritionhappens, #quakeroats, #puregold, #ad"
-  - username: "sabrina_mella"
+    hashtags: "#savvydermdiva, #dontstop, #weekend, #chicagocolumn"
+  - username: "damienpatrick"
     fullname: >-
-      Sabs
+      Damien Patrick
     bio: >-
-      Shuffle Dance⚡️| Fitness 🍑 Nutrition Coach @TandemNutrition 💪🏽 Chicago IL | 19 Inquiries-> Mellasabrinabusiness@gmail.com Festival junkie @breakaway
+      Entrepreneur-IFBB 🇺🇸🇬🇾 Founder @totalalphabrand Co founder @boxingnbarbells @fitplan_app Trainer #adoptdontshop 500k+ YouTube subscribers Taken
     location: "United States"
-    followers: 40166
-    engagement: 722
-    commentsToLikes: 0.051131
-    id: ck9wdgqt4fk9y0j78d7qq7is9
+    followers: 212792
+    engagement: 357
+    commentsToLikes: 0.022500
+    id: ck5zvo6484ln60i14mzher01s
     verified: false
-    hashtags: "#shuffledance, #freedomravewear, #instagramreels, #girlswholift"
-  - username: "anasallesfitness"
-    fullname: >-
-      Ana Salles, MS
-    bio: >-
-      NASM & ISSA-CPT Sports Nutrition and Weight Loss 🌱 📍Miami Online & in person Coaching (join our waiting list / lista de espera)👇🏼
-    location: "United States"
-    followers: 67348
-    engagement: 136
-    commentsToLikes: 0.046982
-    id: ck14kywnrs0ti0i19aguram4x
-    verified: false
-    hashtags: "#energy, #magic"
-  - username: "clayharbs82"
-    fullname: >-
-      Clay Harbor
-    bio: >-
-      ▪️9 year NFL vet ▪️Chicagoan ▪️2 Timothy 1:7 Team Optimum Nutrition Contact: clayharboronline@gmail.com
-    location: "United States"
-    followers: 253364
-    engagement: 320
-    commentsToLikes: 0.012890
-    id: ck0w0lei2eskx0i19jgicaqdq
-    verified: true
-    hashtags: "#istanbul, #constantinople, #fitnessmotivation, #nfl"
+    hashtags: "#blackmen, #classicbodybuilding, #aesthetics, #npc"
   - username: "maria_birova"
     fullname: >-
       Maria 💎 WBFF BIKINI DIVA
     bio: >-
       👩🏽‍💻CHFI Certified Performance Nutrition & Training Coach 🔛@optimumnutrition “MARIAB15” 🧿🇧🇬🌃Chicago 🍋 @lululemon ambassador 🆂🅷🅾︎🅿︎ 🅱︎🅴🅻🅾︎🆆  👇🏽👇🏽👇🏽
     location: "United States"
-    followers: 43897
-    engagement: 549
-    commentsToLikes: 0.009312
+    followers: 53702
+    engagement: 657
+    commentsToLikes: 0.004974
     id: ck5qd34hptkzg0i11vwt45y2q
     verified: false
-    hashtags: "#betterthanbefore, #backworkout, #fitness, #legday"
-  - username: "ashleyellenhoward"
+    hashtags: "#wbff, #fitness, #workout, #womensupportingwomen"
+  - username: "sallytanudjaja"
     fullname: >-
-      AEH
+      Sally Tanudjaja
     bio: >-
-      Health Optimization ⚡️ Nutrition Coach | Personal Trainer Founder of @lasanteco
+      Influencer Mom of 3 B.A @rspnutritionindonesia @egeepromask.id @nutribullet.id Finisher 3 WMM Marathon Berlin-Chicago-Newyork TikTok @sallytanudjaja
     location: "United States"
-    followers: 8559
-    engagement: 226
-    commentsToLikes: 0.025533
-    id: ck9hbmi4yhi0q0j78fwpj9zn0
+    followers: 104358
+    engagement: 231
+    commentsToLikes: 0.031775
+    id: ck5c19tpcuqhh0i1128k2bsgr
     verified: false
-    hashtags: "#lasante, #wellness, #vitamind, #lasant"
-  - username: "richmwilliams"
+    hashtags: "#workoutmotivation, #hidupsehat, #olahraga, #fitness"
+  - username: "karenchaiane"
     fullname: >-
-      Rich Williams
+      Karen Chaiane Dalapossa
     bio: >-
-      Lost 120lbs by eating whole, real foods 6'5" 235lbs ❤️Health 🏙Chicago & 🐈 Cats 🎭 Writer/Actor/Comedian My booper’s page: @chicagoblackcat
+      fashion • luxury • beauty • travel good vibz ☁️💕🌈 👙 @vl.swimwear ✈️ currently in brazil 📍chicago, il
     location: "United States"
-    followers: 13151
-    engagement: 1738
-    commentsToLikes: 0.037928
-    id: ck0vziuxm9bq10i19ol9uqwmp
+    followers: 71378
+    engagement: 306
+    commentsToLikes: 0.020765
+    id: ck14j9tj7ja030i19uoh81rtc
     verified: false
-    hashtags: "#citycat, #funnycat, #catvideo, #chicagocat"
-  - username: "celeste.richmond"
+    hashtags: "#ad, #usa, #brazil, #revolvewinter"
+  - username: "paugasol"
     fullname: >-
-      Celeste | Solid
+      Pau
     bio: >-
-      🙋🏻‍♀️CaliGirl in Columbus ✨Helping ppl Level ⬆️through the BEST Nutrition 👑 Building Generational Wealth w/my Best Friends 🤤CoFoundr @aligned.columbus
+      Barcelona, Memphis, Los Angeles, Chicago, San Antonio, Milwaukee, Portland... And Instagram!! Facebook, Twitter & Youtube: @PauGasol
     location: "United States"
-    followers: 62971
-    engagement: 150
-    commentsToLikes: 0.029573
-    id: ckf5x3y87u9vl0j230amwn57v
-    verified: false
-    hashtags: "#grateful, #sisterhood, #divinefeminine, #feminine"
-  - username: "thewellnutt"
+    followers: 1812067
+    engagement: 366
+    commentsToLikes: 0.007317
+    id: ck0vyypp36fqs0i19d9k00iaj
+    verified: true
+    hashtags: "#frasesdepau, #family, #pausquotes, #daddysgirl"
+  - username: "nutritionhappens"
     fullname: >-
-      Karli Nutter | The WellNutt
+      May Zhu, MBA, RDN, LDN
     bio: >-
-      ▫️integrative nutrition health coach ▫️real food and realness🍕🍷 ▫️attainable wellness ▫️one day at a time to healthy & happy 📍 chicago
+      📍Chicago-Based Registered Dietitian Helping you define your own version of health Easy seasonal meal ideas here ⬇️ Make nutrition happen for you 👇🏼
     location: "United States"
-    followers: 2413
-    engagement: 1054
-    commentsToLikes: 0.343690
-    id: ck5hnfwwknps50i11uusl67kc
+    followers: 41937
+    engagement: 63
+    commentsToLikes: 0.121039
+    id: ck0vw7ld2sgjr0i192a7lddbv
     verified: false
-    hashtags: ""
+    hashtags: "#fage, #simplemillspartner, #settonpartner, #freshthymemarket"
+  - username: "t.rocha16"
+    fullname: >-
+      Tony Rocha
+    bio: >-
+      🙏🏽Follower of Christ ⚽️ Professional Footballer @nycfc #15 ⚽️ Belize National Football Team 🌱Plant Based Athlete 🍎Nutrition Coach @nutritiongols
+    location: "United States"
+    followers: 3074
+    engagement: 870
+    commentsToLikes: 0.037992
+    id: ckf5mo6qfuprm0j23rgam8ha3
+    verified: true
+    hashtags: "#derby, #tr15, #ussoccer, #inspired"
+  - username: "liannagro_ifbbpro"
+    fullname: >-
+      Lianna Groeneveld
+    bio: >-
+      🌐 IFBB FIGURE PRO 🎓 B.S. Exercise Science, NASM CPT/FNS ⚡️ NeuX Specialist @neulevelperformance 💪🏽 Online Nutrition/Training + Posing
+    location: "United States"
+    followers: 7453
+    engagement: 463
+    commentsToLikes: 0.061168
+    id: ck5hh4swg6dx50i114ie4xukl
+    verified: false
+    hashtags: "#smoothnx, #puppy, #dogsofinstagram, #neuxtec"
 ---

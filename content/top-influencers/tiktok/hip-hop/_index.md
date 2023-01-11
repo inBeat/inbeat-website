@@ -1,108 +1,96 @@
 ---
-title: Top 10 Hip-Hop TikTok Influencers in 2023
+title: Top 10 Hip-Hop TikTok Influencers In 2023
 description: >-
-  Find top hip-hop TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryou #viral.
+  Find top hip-hop TikTok influencers in 2023. Most popular hashtags: #fyp #hiphop #rap #freestyle.
 platform: TikTok
-hits: 1396
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 1396 TikTok influencers like this for you to pitch.
+hits: 1326
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 1326 TikTok influencers like this for you to connect with.
 profiles:
+  - username: "jamsonslams"
+    fullname: >-
+      HIPHOP
+    bio: >-
+      For the love of rap/hiphop Miss the old hip hop and love the new art
+    location: "United States"
+    followers: 85600
+    engagement: 990
+    commentsToLikes: 0.017870
+    id: ckaij7okpdpti0i784caieaxp
+    verified: false
+    hashtags: "#eminem, #dialitforward, #doitbold, #freestyle"
+  - username: "passionrap"
+    fullname: >-
+      PassionRap
+    bio: >-
+      - Rap / HipHop Media -
+    location: "United States"
+    followers: 38700
+    engagement: 1384
+    commentsToLikes: 0.050055
+    id: ck8qj6w60cdb60j78iko3r5on
+    verified: false
+    hashtags: "#fyp, #onecommunity, #acnh, #neverfitin"
+  - username: "problematichiphop"
+    fullname: >-
+      ProblematicHipHop
+    bio: >-
+      An Emerging Canadian HipHop Artist Over 27 MILLION VIEWS ON YOUTUBE 🙏🔥
+    location: "Canada"
+    followers: 61900
+    engagement: 1569
+    commentsToLikes: 0.090181
+    id: ckbaothiefjef0j23yc0xqhtf
+    verified: false
+    hashtags: "#fyp, #badmood, #angelvsdemon, #problematic"
+  - username: "illorivice"
+    fullname: >-
+      Illori Vice
+    bio: >-
+      I AM HIPHOP Tryin to get to 50K🙏🏾 Link 2 MUSIC BELOW⬇️ Follow me on SPOTIFY
+    location: "United States"
+    followers: 21100
+    engagement: 1894
+    commentsToLikes: 0.069878
+    id: ckd0jr3csfl1q0j23aeicawo1
+    verified: false
+    hashtags: "#blm, #history, #comingofage, #kanye"
+  - username: "haydentoddwilberger"
+    fullname: >-
+      HaydenTodd
+    bio: >-
+      Salt Lake City 26 HipHop Artist 🎵 Acting Is My First Love💛
+    location: "United States"
+    followers: 54000
+    engagement: 1402
+    commentsToLikes: 0.037092
+    id: ckbb35u25ti2t0j23drdqipii
+    verified: false
+    hashtags: "#joanrivers, #nolimit, #hiphop, #rosenylund"
   - username: "muhammadahsan60"
     fullname: >-
       Muhammad Ahsan
     bio: >-
       #KHi📬 #PAk🏡 #Circket #Rap_hiphop🎧🎶 #Trevaler🛩⛵#Music_Movies 
     location: "Pakistan"
-    followers: 6010
-    engagement: 2494
-    commentsToLikes: 0.135587
+    followers: 5892
+    engagement: 2393
+    commentsToLikes: 0.041302
     id: ckbked3tp532i0j232cmp0sb6
     verified: false
-    hashtags: "#ak, #trending, #agg, #haai"
-  - username: "passthetreesbrotv"
-    fullname: >-
-      Bennet du Paris
-    bio: >-
-      FREE SMOKE💨🔥 I LOVE HIPHOP AND RAP GAMER AND EXODUS
-    location: "United States"
-    followers: 68600
-    engagement: 1238
-    commentsToLikes: 0.387074
-    id: ckdhcztblwgm00j23cq7dpsyf
-    verified: false
-    hashtags: "#respectthefold, #gaming, #expressieyourself, #kings"
-  - username: "illorivice"
-    fullname: >-
-      Illori Vice
-    bio: >-
-      I AM HIPHOP Tryin to get to 50K🙏🏾 Find my music @ www.illorivice.com
-    location: "United States"
-    followers: 20800
-    engagement: 1620
-    commentsToLikes: 0.088913
-    id: ckd0jr3csfl1q0j23aeicawo1
-    verified: false
-    hashtags: "#originalmusic, #throwbacksongs, #trump2020, #comingofage"
-  - username: "kole.nbs"
-    fullname: >-
-      Kolé
-    bio: >-
-      Alternative Hiphop Artist 🎸 Video Games + Animé 👾 👇 🎁GIFTCARD GIVEAWAY 🎁 👇
-    location: "Australia"
-    followers: 2259
-    engagement: 1532
-    commentsToLikes: 0.118959
-    id: ckbl6j2hb49bl0j23s19usojm
-    verified: false
-    hashtags: "#foryourpage, #stitch, #viral, #foryoupage"
-  - username: "hiphopheidi88"
-    fullname: >-
-      Heidi
-    bio: >-
-      Dance, DJ, 🎶 MY PASSION Insta @hiphopheidi88 ↖️ Biz contact my email 🦎🔑🐋
-    location: "United States"
-    followers: 1200000
-    engagement: 1636
-    commentsToLikes: 0.028072
-    id: ck903emdndbvo0j78e3etxlre
-    verified: true
-    hashtags: "#blooper, #duet, #filter, #foryou"
-  - username: "problematichiphop"
-    fullname: >-
-      ProblematicHipHop
-    bio: >-
-      An Emerging Canadian HipHop Artist Over 22 MILLION VIEWS ON YOUTUBE 🙏🔥
-    location: "Canada"
-    followers: 50900
-    engagement: 1457
-    commentsToLikes: 0.082512
-    id: ckbaothiefjef0j23yc0xqhtf
-    verified: false
-    hashtags: "#angelvsdemon, #viralvideo, #showyourtruecolors, #welldone"
+    hashtags: "#turkey, #share, #pubg, #hit"
   - username: "21061999rax685"
     fullname: >-
       Rax Nanai
     bio: >-
       TIKTOK hiphop dance/slap dance #islandboy🇼🇸 #kigipoo☠
     location: "New Zealand"
-    followers: 4078
-    engagement: 1620
-    commentsToLikes: 0.032754
+    followers: 5938
+    engagement: 1606
+    commentsToLikes: 0.031395
     id: ckc91lqd8rp4v0j23irnlrlbh
     verified: false
-    hashtags: "#polynesian, #sam, #vibes, #duet"
-  - username: "rhonamaev"
-    fullname: >-
-      rhonamae
-    bio: >-
-      Dancer/Singer/Madeer ‘Southside Hiphop’ 💃🏻 Cebuana 😉 For fun 🤘🏻
-    location: "Philippines"
-    followers: 1933
-    engagement: 913
-    commentsToLikes: 0.052889
-    id: ckb9jpdt6b3a40j23i3u0bp1l
-    verified: false
-    hashtags: "#xyzbca, #tiktokph, #cebuanagirl, #fyp"
+    hashtags: "#vibes, #sam, #fyp, #polynesian"
   - username: "jinsharma9891"
     fullname: >-
       BrOwnBoi😎
@@ -110,21 +98,33 @@ profiles:
       /FAN OF _rohittt_09😎/ /INSTA PAR FOLLOW KARNE KA😌/ 📲 1jin_hiphoper
     location: "United States"
     followers: 89700
-    engagement: 1080
-    commentsToLikes: 0.028460
+    engagement: 1073
+    commentsToLikes: 0.028465
     id: ckbqhmkr82xre0j23ghwv3a76
     verified: false
-    hashtags: "#fory, #heartbroken, #virul, #trend"
-  - username: "zockjat"
+    hashtags: "#huminity, #attitudeboy, #heartbroken, #trend"
+  - username: "kole.nbs"
     fullname: >-
-      Zack Jot
+      Kolé
     bio: >-
-      Zack (he/him) The dancing I do is called hiphop, no matter the song :) BLM
-    location: "United States"
-    followers: 1300000
-    engagement: 1706
-    commentsToLikes: 0.008329
-    id: ckc8cj6dd8gms0j2302vvjoqd
+      Alternative Hiphop Artist 🎸 Video Games + Animé 👾 👇STREAM 'Okay' OUT NOW👇
+    location: "Australia"
+    followers: 11200
+    engagement: 921
+    commentsToLikes: 0.136830
+    id: ckbl6j2hb49bl0j23s19usojm
     verified: false
-    hashtags: "#beetlejuice, #dipremix, #liluzivert, #duet"
+    hashtags: "#stitch, #fyp, #duet, #vine"
+  - username: "rhonamaev"
+    fullname: >-
+      rhonamae
+    bio: >-
+      Dancer/Singer/Madeer ‘Southside Hiphop’ 💃🏻 Cebuana 😉 For fun 🤘🏻
+    location: "Philippines"
+    followers: 1851
+    engagement: 881
+    commentsToLikes: 0.052000
+    id: ckb9jpdt6b3a40j23i3u0bp1l
+    verified: false
+    hashtags: "#tiktokph, #cebuanagirl, #xyzbca, #dancechallenge"
 ---

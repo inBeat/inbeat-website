@@ -1,130 +1,106 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Greece in 2023
+title: Top 10 Bodybuilding Instagram Influencers In Greece In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Greece in 2023. Most popular hashtags: #bodybuilding #workout #athens #greece.
+  Find top bodybuilding Instagram influencers in Greece in 2023. Most popular hashtags: #bodybuilding #motivation #instagood #fitfam.
 platform: Instagram
-hits: 15
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 15 Instagram influencers like this in Greece for you to work with.
+hits: 8
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 8 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "tania_chanel22"
-    fullname: >-
-      Tania Giustini #BʟᴀᴄᴋPᴀɴᴛʜᴇʀ🐾
-    bio: >-
-      ⚜️Luxury Car Trade⚜️ @mt.luxuryrentcar
-    location: "Greece"
-    followers: 5453
-    engagement: 1187
-    commentsToLikes: 0.096622
-    id: ck8t8mlspl09m0j78dzt13925
-    verified: false
-    hashtags: "#quarantena, #dream, #beauty, #fashion"
   - username: "stella.christoforou"
     fullname: >-
       Sᴛᴇʟʟᴀ Cʜʀɪsᴛᴏғᴏʀᴏᴜ
     bio: >-
-      God first ✝️ Made in Greece 🇬🇷
+      God first ✝️ Made in Greece 🇬🇷 ATH🏛 •Crossfit / Fitness Trainer •Online Individual Coaching •Tactical shooter
     location: "Greece"
-    followers: 93160
-    engagement: 623
-    commentsToLikes: 0.023072
+    followers: 100641
+    engagement: 562
+    commentsToLikes: 0.027488
     id: ck6ubtihpbm480j7100ccqbbw
     verified: false
-    hashtags: "#fitnessgirl, #fitnessgirls, #bodybuilding, #fitnesslife"
-  - username: "rockyssj"
+    hashtags: "#crossfitgirls, #fitgirls, #fitnesswomen, #healthylifestyle"
+  - username: "not_guilty"
     fullname: >-
-      J Ò R G E • R Ö C K Y
+      ᴊᴀʀᴇᴅ💎
     bio: >-
-      ▪️𝐁𝐨𝐝𝐲𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 #CR1337EW ▪️𝐒:𝟐𝟎𝟎𝐊𝐠 𝐁:𝟏𝟒𝟎𝐊𝐠 𝐃:𝟐𝟒𝟎𝐤𝐠 @ 𝟗𝟓𝐤𝐠 ▪️𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥: 𝐣𝐑𝐨𝐜𝐤𝐲 ▪️ @myproteingr 𝐓𝐞𝐚𝐦 ▪️𝐕𝐨𝐥𝐨𝐬 , 𝐆𝐫𝐞𝐞𝐜𝐞🇬🇷 𝘼𝙡𝙡 𝙈𝙮 𝙇𝙞𝙣𝙠𝙨 🔗⤵️⤵️
+      𝟲’ 𝟮” | 245 𝗹𝗯𝘀. ρυяѕυιηg нαρριηєѕѕ ву ℓιƒтιηg нєανу тнιηgѕ 🏋🏼, нєℓριηg σтнєяѕ ⚖️, αη∂ єαтιηg ℓσтѕ σƒ ¢нσ¢σℓαтє 🍫ιη тнє ¢ιту σƒ αηgєℓѕ. 🏳️‍🌈
     location: "Greece"
-    followers: 8018
-    engagement: 1568
-    commentsToLikes: 0.033171
-    id: ck5bz8ho9qncq0i115897mihz
+    followers: 46194
+    engagement: 287
+    commentsToLikes: 0.025082
+    id: ck6ty8vd52bhx0j7108v0z2mp
     verified: false
-    hashtags: "#naturalbodybuilding, #mt10sp, #noexcuses, #staymotivated"
-  - username: "errikosandreouphoto"
+    hashtags: "#pecs, #fitfam, #progress, #hunk"
+  - username: "slidismode"
     fullname: >-
-      ErrikosAndreou
+      Eugenios
     bio: >-
-      If two wrongs don't make a right, try three! Failure is always an option
+      🇬🇷 🥇FIBO '18 Street Lifting 🥇x5 National Street Lifting 🎖Greece Got Talent Finalist 💪@gymbeamgr Athlete 🌟Sponsors - @legacyapparel.gr & @creapure
     location: "Greece"
-    followers: 101981
-    engagement: 133
-    commentsToLikes: 0.006925
-    id: ck0txo91sjv1a0i195addla0y
+    followers: 84093
+    engagement: 851
+    commentsToLikes: 0.013545
+    id: ck5zq942xu61n0i14wb6f1t8q
+    verified: false
+    hashtags: "#calistenia, #gymbeamgr, #gymbeam, #physique"
+  - username: "dimitris_alexandrou"
+    fullname: >-
+      Dimitris Alexandrou
+    bio: >-
+      Owner @thebillians_cafe_bar ⚡️ Judge @stylemeupgreece - @opentvgr 📩: dimitrissti@msn.com
+    location: "Greece"
+    followers: 209743
+    engagement: 472
+    commentsToLikes: 0.153625
+    id: ck6tiopin14iu0j71rwojjkj8
     verified: true
-    hashtags: "#fashioneditorials, #greece, #greekfashion, #portraitphotography"
-  - username: "chamidu_udana"
-    fullname: >-
-      𝕮𝖍𝖆𝖒𝖎𝖉𝖚 𝖀𝖉𝖆𝖓𝖆
-    bio: >-
-      ♥️ सेन्डी ♥️ • 𝑨𝒕𝒉𝒍𝒆𝒕𝒆 • 𝑴𝒂𝒏𝒉𝒖𝒏𝒕 𝒔𝒓𝒊 𝒍𝒂𝒏𝒌𝒂 2018 • 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒕𝒓𝒂𝒊𝒏𝒆𝒓 • 𝑫𝑴 𝒇𝒐𝒓 𝒄𝒐𝒂𝒄𝒉𝒊𝒏𝒈 𝒊𝒏𝒒𝒖𝒊𝒓𝒊𝒆𝒔 ⬇️ • 𝑹𝒖𝒍𝒆 #1, 𝑵𝒆𝒗𝒆𝒓 𝒃𝒆 𝒕𝒉𝒆 #2
-    location: "Greece"
-    followers: 10198
-    engagement: 520
-    commentsToLikes: 0.038948
-    id: ck5hmh36jlxv40i11l94glx1a
-    verified: false
-    hashtags: "#musclebuilding, #gymshark, #model, #srilanka"
+    hashtags: "#friends, #newtree, #model, #lovefornature"
   - username: "_kolokouris"
     fullname: >-
       𝑮𝒊𝒘𝒓𝒈𝒐𝒔 𝑲𝒐𝒍𝒐𝒌𝒐𝒖𝒓𝒊𝒔
     bio: >-
-      🎖15 times panhellenic champ 🥋@worldkaratefederation 👩‍🎓 Εθνικό Καποδιστριακό ✝️ 🇬🇷 #athens, #greece 🌅 @ios.theproject
+      🎖15 times panhellenic champ 🥋@worldkaratefederation 👩‍🎓 Εθνικό Καποδιστριακό ✝️ 😈 @_kolokouris_priv 🇬🇷 #athens, #greece
     location: "Greece"
-    followers: 21105
-    engagement: 1244
-    commentsToLikes: 0.047344
+    followers: 20254
+    engagement: 1295
+    commentsToLikes: 0.047381
     id: ck8t1ekffvgso0j785754dke8
     verified: false
-    hashtags: "#winter, #street, #walking, #athens"
-  - username: "louisgeorgiouofficial"
+    hashtags: "#me, #walking, #athens, #street"
+  - username: "lia.agapitou"
     fullname: >-
-      Louis Georgiou ®️
+      Lia Agapitou (λια Αγαπητου)💎💎💎
     bio: >-
-      📍 𝔸𝕥𝕙𝕖𝕟𝕤, 𝔾𝕣𝕖𝕖𝕔𝕖 🇬🇷 🎤 𝘗𝘰𝘱/𝘙𝘯𝘉 𝘚𝘪𝘯𝘨𝘦𝘳 🎧 @panik_entertainment_group 🎵 Latest hit “ ＳＴＯＲＹ “ 👇🏼
+      inactive 💎 unemployed secular 🦋 celebrity ⭐️ influencer 💥♥️
     location: "Greece"
-    followers: 7839
-    engagement: 1796
-    commentsToLikes: 0.140653
-    id: ck9wg11n2rf520j785hsjisxb
+    followers: 46467
+    engagement: 703
+    commentsToLikes: 0.039522
+    id: ckapa1q2ducyw0i784g4bwvf8
     verified: false
-    hashtags: "#workout, #boy, #arcade, #covid"
-  - username: "yulia_spirina_fit"
+    hashtags: "#likeforlikes, #love, #instagood, #happyvalentinesday"
+  - username: "megha_karpe"
     fullname: >-
-      Yulia Spirina
+      𝐌𝐄𝐆𝐇𝐀 𝐊𝐀𝐑𝐏𝐄
     bio: >-
-      🇷🇺🇬🇷 Personal Trainer Fitness model Online coach QNT Ambassador @qntgreece @qntsportnutrition uliaspirin78@mail.ru📩
+      -🆃🅸🅶🅴🆁🅱🅰🅱🆈 -𝐖𝐢𝐬𝐡 𝐦𝐞 𝟏𝟏 𝐀𝐩𝐫 -[ɢᴇᴍɪɴɪ ɢɪʀʟ] -𝐐𝐮𝐞𝐞𝐧 𝐎𝐟 𝐌𝐲 𝐎𝐰𝐧 𝐊𝐢𝐧𝐠𝐝𝐨𝐦 💫 -𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧, 𝐊𝐢𝐧𝐝𝐥𝐲 ᴅᴍ | 𝗺𝗲𝗴𝗵𝗮𝗸𝗮𝗿𝗽𝗲𝟲𝟭𝟵@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 #meghajiten
     location: "Greece"
-    followers: 5148
-    engagement: 1081
-    commentsToLikes: 0.047704
-    id: ckap1r9wtvs600i78nrcb5bfy
+    followers: 349132
+    engagement: 306
+    commentsToLikes: 0.012188
+    id: ck8tb1u47tzyl0j783hsyuh61
     verified: false
-    hashtags: "#fitnessmodel, #personaltrainer, #fitnessjourney, #reinaolga"
-  - username: "panagiotis_filias"
+    hashtags: "#bhfyp, #follow, #training, #fitfam"
+  - username: "spirosgrammenos_"
     fullname: >-
-      𝓟𝓪𝓷𝓪𝓰𝓲𝓸𝓽𝓲𝓼  𝓕𝓲𝓵𝓲𝓪𝓼
+      Σπύρος Γραμμένος
     bio: >-
-      Greek🇬🇷 Model of @thelegionmgt 📍ATH 🎓 @nkuoa
+      Τραγουδοποιός #Influencer Συστημικός κονφερανσιέ Παραμυθάς Beauty Editor Χερ στάιλερ Λάιφ κόουτσερ Φάσιον άικον Επόμενος στόχος: #eurovision2021
     location: "Greece"
-    followers: 10878
-    engagement: 1161
-    commentsToLikes: 0.045661
-    id: ckaoys09litep0i78gul4ht0n
+    followers: 14010
+    engagement: 827
+    commentsToLikes: 0.009442
+    id: ck6tiok73148u0j71vzi74mgl
     verified: false
-    hashtags: "#blackandwhite, #arms, #gym, #model"
-  - username: "samantha__elizabeth_"
-    fullname: >-
-      Samantha Elizabeth
-    bio: >-
-      y o u t u b e r . sharing a whole bunch of my life on the internet . vegan + yoga teacher
-    location: "Greece"
-    followers: 19789
-    engagement: 162
-    commentsToLikes: 0.048602
-    id: ck6u7yci7odz40j717n7m5k2n
-    verified: false
-    hashtags: "#yoga, #yogaeverydamnday, #grateful, #yogatelaviv"
+    hashtags: "#grammenoslive, #grammentinos, #marketing, #coffe"
 ---

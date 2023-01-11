@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Kyoto in 2023
+title: Top 10 Instagram Influencers In Kyoto In 2023
 description: >-
-  Find top Instagram influencers in Kyoto in 2023. Most popular hashtags: #japan #ootd #good.
+  Find top Instagram influencers in Kyoto in 2023. Most popular hashtags: #pr #japan #ootd.
 platform: Instagram
-hits: 490
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 490 Instagram influencers like this in Kyoto, Japan for you to collaborate.
+hits: 417
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 417 Instagram influencers like this in Kyoto, Japan for you to collaborate.
 profiles:
-  - username: "explorekyoto"
+  - username: "stefatty_"
     fullname: >-
-      KYOTO
+      Stephanie
     bio: >-
-      Kyoto on instagram 📸 Use #explorekyoto to be featured.
+      📍Tokyo, Japan 🍔 A burger a day keeps the doctor away ⬇️ New YT Video: Kobe & Kyoto Food Adventure
     location: "Japan"
-    followers: 36351
-    engagement: 277
-    commentsToLikes: 0.006408
-    id: ck15rq66095220i19okgsadrr
+    followers: 39011
+    engagement: 955
+    commentsToLikes: 0.042617
+    id: ckap1n6hav9o80i783vql3rm8
     verified: false
-    hashtags: ""
-  - username: "y.t_photo71"
-    fullname: >-
-      ゆうたろう
-    bio: >-
-      🏠　Kyoto⛩ 👫🏻　@aya_photo918 Mod @season_girls_collection #season_girls_collection 🏷 #ぼくときみとの物語 🏷 #ど田舎ポートレート　 撮影等の依頼はDMへ📩
-    location: "Japan"
-    followers: 4974
-    engagement: 1790
-    commentsToLikes: 0.037133
-    id: ck8t9i31ao6am0j78an51q6a3
-    verified: false
-    hashtags: ""
+    hashtags: "#novababe, #mycalvins, #pr"
   - username: "akko1202akko"
     fullname: >-
       中村 晃子（Akiko Nakamura）
     bio: >-
-      📍KYOTO, JAPAN﻿ ﻿ 👘MRS NADESHIKO NIPPON 2020 Finalist﻿ ﻿ ♡資格マニア♡﻿ 看護師 / 呼吸療法認定士 / 保健師 / 宅建士 風水鑑定士 /風水セラピスト﻿ ﻿﻿ お仕事のご依頼はDMへお願いします📩
+      📍KYOTO, JAPAN 看護師 / 呼吸療法認定士 / 保健師 / 宅建士 風水鑑定士 / なでしこ2020Finalist / KOSEｱｽﾀﾘｭｸｽﾓﾃﾞﾙ お仕事のご依頼はDMへお願いします📩
     location: "Japan"
-    followers: 47749
-    engagement: 205
-    commentsToLikes: 0.057417
+    followers: 62899
+    engagement: 132
+    commentsToLikes: 0.048835
     id: ck5zzwp8vcjtd0i1468pddvwd
     verified: false
-    hashtags: "#cafe, #coordinate, #outletshoes, #mamagirl"
+    hashtags: "#kimono, #ootd, #fashion, #pr"
+  - username: "_szh.bellleaf_"
+    fullname: >-
+      Suzuha
+    bio: >-
+      嵯峨野→関西学院大学/法4🌙 (22) 『BLENDA Japan』レギュラーモデル 📍Kyoto お仕事依頼はdmにお願いします✉️
+    location: "Japan"
+    followers: 16646
+    engagement: 565
+    commentsToLikes: 0.035594
+    id: ckf5trp0eil3l0j231h8nuce8
+    verified: false
+    hashtags: "#rustal, #zara, #pr, #danielwellington"
   - username: "honoka_lol"
     fullname: >-
       honoka
     bio: >-
-      honoka from Japanese Vocal & Dance Unit【lol】Twitter →@lol_honoka from Kyoto 1st 写真集『僾-ほのか-』7/28発売👇🏼💕
+      honoka from Japanese Vocal & Dance Unit【lol】Twitter →@lol_honoka from Kyoto
     location: "Japan"
-    followers: 50432
-    engagement: 745
-    commentsToLikes: 0.012829
+    followers: 49870
+    engagement: 627
+    commentsToLikes: 0.013904
     id: ck5zscw1ty9gz0i14eopdxb4f
     verified: true
-    hashtags: "#halloweenmakeup"
+    hashtags: "#haab, #haabdream, #valentine, #nails"
   - username: "buritei"
     fullname: >-
       buri_chan🦄🌈💕
     bio: >-
       22歳👱🏻‍♀️/1￼9歳👱🏻‍♀️/12歳👦🏽🏉3kidsmama Osaka⇔Kyoto お仕事の依頼はDMまで💌 身長160㌢
     location: "Japan"
-    followers: 58808
-    engagement: 215
-    commentsToLikes: 0.034958
+    followers: 66913
+    engagement: 188
+    commentsToLikes: 0.029560
     id: ck138y1viikwq0i19qtl7tnic
     verified: false
-    hashtags: "#jg, #artesoie, #40, #shoesincloset"
-  - username: "s.tocco"
-    fullname: >-
-      tocco golf
-    bio: >-
-      woodland🌳kyoto ゴルフとコーデが大好き⛳ @kansai_goljyo も宜しくお願いします✨ いつか自分が着たいゴルフウェアを作るのが夢🎠 age around50😝 half best:44/best score:94 オススメゴルフウェア載せてます❤️↓↓↓
-    location: "Japan"
-    followers: 8190
-    engagement: 1193
-    commentsToLikes: 0.019224
-    id: ckaoux87927lz0i78oqr1rrn8
-    verified: false
-    hashtags: "#golffashion, #golfstagram, #jackbunny, #golfwear"
-  - username: "geishakai"
-    fullname: >-
-      Geishakai
-    bio: >-
-      🐾 真莉どす♪ 👘GEISHAKAI.PL 💌 geishakagai@gmail.com 🌸🇵🇱/🇯🇵 🌸 🏡 Kyōto Gion Kōbu 京都 祇園甲部の金髪の子💕 🌙#祇園日記 ❌ NO REPOST
-    location: "Japan"
-    followers: 5556
-    engagement: 1349
-    commentsToLikes: 0.017281
-    id: ck0tyog2dnizb0i1999pxkpbh
-    verified: false
-    hashtags: ""
+    hashtags: "#followalways, #pr, #mapiful, #mapifuljapan"
   - username: "wawasewa"
     fullname: >-
-      Sarah Hemi • セーラ not サラ
+      Sarah Hemi • ヘミ　セーラ
     bio: >-
-      I write songs in my bedroom Maori + Japanese |📍Kyoto, Japan
+      I write songs in my bedroom Maori 🇳🇿 + Japanese 🇯🇵 |📍Kyoto, Japan STREAM SPRING & WATERFALLS 💦💦
     location: "Japan"
-    followers: 12460
-    engagement: 1099
-    commentsToLikes: 0.030472
+    followers: 13504
+    engagement: 641
+    commentsToLikes: 0.029638
     id: ck55ombin8ncx0i11hmw9bcyl
     verified: false
-    hashtags: "#sarahhemi, #japan, #lonely, #musicvideo"
-  - username: "_szh.bellleaf_"
-    fullname: >-
-      Suzuha
-    bio: >-
-      嵯峨野→関西学院大学/法4🌙 (22) 『BLENDA Japan』レギュラーモデル 📍Kyoto 投稿更新率高めです
-    location: "Japan"
-    followers: 12674
-    engagement: 570
-    commentsToLikes: 0.031928
-    id: ckf5trp0eil3l0j231h8nuce8
-    verified: false
-    hashtags: "#luna, #pr, #ootd, #emomiu"
+    hashtags: "#popmusic, #kyotomodel, #acousticcover, #clairo"
   - username: "eikino.__"
     fullname: >-
       hitomi☁︎ .｡•⁎
     bio: >-
       . 📍osaka/kyoto/japan . #愛おしい日々の足跡 ✖︎画像無断転載禁止 please dont use my pictures without permission . ☁︎⁎✶.｡•⁎ .｡•⁎
     location: "Japan"
-    followers: 13415
-    engagement: 770
-    commentsToLikes: 0.016669
+    followers: 17106
+    engagement: 623
+    commentsToLikes: 0.017642
     id: ck8tdtxmw4r8c0j78iny8ulon
     verified: false
-    hashtags: "#ink361, #japan, #ig, #mycanon365"
+    hashtags: "#art, #photogram, #ptk, #oldlens"
+  - username: "takaman.27"
+    fullname: >-
+      飯田貴敬🇯🇵Takahiro iida
+    bio: >-
+      1994/8/31 Shimizu S−PulseNo.27→Kyoto Sanga FC No.2
+    location: "Japan"
+    followers: 15349
+    engagement: 634
+    commentsToLikes: 0.012466
+    id: ckapa5zx3uuuh0i7808b9qdqs
+    verified: true
+    hashtags: "#asicstiger, #sanga, #asics, #asicsjapan"
+  - username: "gilbertrhezap"
+    fullname: >-
+      Gilbert Rheza Putra
+    bio: >-
+      Turn the dust of everyday life into a golden haze. @gilbert.deco.ph @featuredbygion 📍Osaka - Kyoto, Japan
+    location: "Japan"
+    followers: 18135
+    engagement: 310
+    commentsToLikes: 0.024987
+    id: ck6tlyuvx6w170j71im7shrjz
+    verified: false
+    hashtags: ""
+  - username: "yu_umaa06"
+    fullname: >-
+      yuma takatsuki
+    bio: >-
+      photographer Kobe／Osaka／Kyoto.(28) その時の空気感、雰囲気が少しでも伝わるように。 #フィルムカメラで残す日常 . member: @good_portraits_world . contact▷▷DM or 📩 お仕事や撮影依頼お待ちしています。 .
+    location: "Japan"
+    followers: 72031
+    engagement: 306
+    commentsToLikes: 0.003304
+    id: ck6tttkxmcib00j71virik66v
+    verified: false
+    hashtags: "#jalanjala, #fujifilm, #hueart, #daily"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Berlin in 2023
+title: Top 10 Comedians Instagram Influencers In Berlin In 2023
 description: >-
-  Find top comedians Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #comedy #standupcomedy #corona.
+  Find top comedians Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #comedy #standupcomedy #lustig.
 platform: Instagram
-hits: 17
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 17 Instagram influencers like this in Berlin, Germany for you to collaborate.
+hits: 11
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
   - username: "jurassicaparka"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Dragqueen und Comedian aus Berlin ❤️
     location: "Germany"
-    followers: 9259
-    engagement: 502
-    commentsToLikes: 0.029054
+    followers: 11783
+    engagement: 527
+    commentsToLikes: 0.035692
     id: ck6titt1b1exb0j71s3gqh92m
     verified: false
-    hashtags: "#puppyplay, #idahobit, #wirf, #coronashutdown"
-  - username: "hallomarvin"
+    hashtags: "#brunotaut, #parkaundweinhaus, #goldengmilfs, #bkalebt"
+  - username: "fabio_landert"
     fullname: >-
-      Marvin Ruppert
+      Fabio Landert
     bio: >-
-      Photographer based in Cologne, Germany.
+      🎤 Stand-Up Comedian 🎮 Twitch: fabiolandert_tv 🎫 Tickets für den Event Comedy Split 🔽
     location: "Germany"
-    followers: 12982
-    engagement: 1656
-    commentsToLikes: 0.006183
-    id: ck0vyrjvj5g280i198ysf89py
+    followers: 7579
+    engagement: 741
+    commentsToLikes: 0.047045
+    id: ck136pf3y7m2y0i19d7lvtio8
     verified: false
-    hashtags: "#standupcomedy, #felixlobrecht, #hype, #gemischteshack"
-  - username: "rrrudya"
-    fullname: >-
-      Alina Rudya
-    bio: >-
-      🇩🇪Based in Berlin. @bellcollective Professional photographer & amateur comedian. 11 SMARTPHONE PHOTO TIPS⬇️
-    location: "Germany"
-    followers: 88982
-    engagement: 133
-    commentsToLikes: 0.019629
-    id: ck0tufl4p6xt40i19yz9co4ra
-    verified: true
-    hashtags: "#teamgalaxy, #sponsored, #nikondach, #nikonz7"
-  - username: "maxsonnenschein_official"
-    fullname: >-
-      Max Sonnenschein
-    bio: >-
-      photographer • portraitist based in berlin • düsseldorf • hamburg anfragen unter:
-    location: "Germany"
-    followers: 18656
-    engagement: 1371
-    commentsToLikes: 0.006490
-    id: ck0u04y8csldx0i19s7r2a8n6
-    verified: false
-    hashtags: "#ludwigsimon, #portrait, #netflix, #berlin"
-  - username: "almanistv"
-    fullname: >-
-      BESTCOMEDY🇩🇪
-    bio: >-
-      Actor - Comedian 🇩🇪 📩: Anfrage almanis999@gmail.com ⬇️:❗️Neues VIDEO auf YOUTUBE❗️⬇️
-    location: "Germany"
-    followers: 10147
-    engagement: 862
-    commentsToLikes: 0.024974
-    id: ck137ogl2ckcm0i195jl1w705
-    verified: false
-    hashtags: "#essencity, #lustigetiere, #witzig, #lustigesvideo"
-  - username: "saschagrammel"
-    fullname: >-
-      Sascha Grammel
-    bio: >-
-      Puppet-Comedian I ❤️ Spandau Alle FAST FERTIG!-Termine 2020 https://bit.ly/2UBKZbS Hier geht‘s zur FUN-FAN-BOX https://umg.lnk.to/FastFertigLtdFanbox
-    location: "Germany"
-    followers: 203516
-    engagement: 350
-    commentsToLikes: 0.024761
-    id: ck6titoiu1epe0j71j3ulksz0
-    verified: true
-    hashtags: "#josie, #gutelaune, #lachen, #puppet"
+    hashtags: "#schweiz, #standup, #show, #comedyshow"
   - username: "kawuskalantar"
     fullname: >-
       Kawus Kalantar
     bio: >-
-      Stand-up Comedian. Booking: mail@klartext-booking.de Podcast 👉@chipsundkaviar 🔥🔥🔥 MERCH IST DA!👇
+      Stand-up Comedian. Booking: mail@klartext-booking.de Podcast 👉@chipsundkaviar 🔥🔥🔥 Offizieller Kawus Kalender 2021!👇
     location: "Germany"
-    followers: 39421
-    engagement: 528
-    commentsToLikes: 0.005975
+    followers: 47990
+    engagement: 766
+    commentsToLikes: 0.010725
     id: ck0vyrlxh5gde0i19qsdceulo
     verified: false
-    hashtags: "#comedy, #corona, #podcast, #standup44"
-  - username: "brittnibow"
+    hashtags: "#podcast, #kawuskalender, #merch, #felixlobrecht"
+  - username: "rrrudya"
     fullname: >-
-      Brittni Bowering
+      Alina Rudya
     bio: >-
-      😁Let’s be happy at work 🙋‍♀️B2B Content Strategist & Comedian 🤖Learn how to differentiate your business using content 💛Content idea workshop ↙️
+      Professional photographer & amateur comedian ➡️Berlin based. @bellcollective founder 📧 Alinarudya@wherever.me
     location: "Germany"
-    followers: 8363
-    engagement: 441
-    commentsToLikes: 0.089286
-    id: ckaoqr52vjzdy0i7818e18xen
-    verified: false
-    hashtags: "#contentmarketing, #facilitator, #contentstrategy, #digitaltranformation"
-  - username: "ingmarstadelmann"
-    fullname: >-
-      Ingmar Stadelmann
-    bio: >-
-      Stand-up Comedian und #Abendshow-Horst Die neue Abendshow jetzt auf YouTube gucken! Klickst du hier: 👇👇👇
-    location: "Germany"
-    followers: 23171
-    engagement: 298
-    commentsToLikes: 0.045915
-    id: ck5bxoj5yo3z50i11ow3ysy86
+    followers: 86002
+    engagement: 134
+    commentsToLikes: 0.022031
+    id: ck0tufl4p6xt40i19yz9co4ra
     verified: true
-    hashtags: "#lockdownlight, #rbbfernsehen, #fressefreiheit, #ingmarstadelmann"
-  - username: "mario.wendler"
+    hashtags: "#werbung, #nikondach, #nikonz7, #sponsored"
+  - username: "jordanalmani"
     fullname: >-
-      MARIO-COMEDYPRINZ WENDLER📧
+      JORDANALMANI🇩🇪
     bio: >-
-      C͚O͚M͚E͚D͚I͚A͚N͚ „EISKALTE SCHNAUZE“ BOOKING: WWW.COMEDY-BOARD.COM 💻 info@comedyprinz.de WWW.COMEDYPRINZ.COM NK5H1J
+      Actor - Comedian 🇩🇪 📩: Anfrage almanis999@gmail.com ⬇️:❗️Neues VIDEO auf YOUTUBE❗️⬇️
     location: "Germany"
-    followers: 21229
-    engagement: 905
-    commentsToLikes: 0.000971
-    id: ck6uh2aul6ksk0j71rigbcc3v
+    followers: 10146
+    engagement: 775
+    commentsToLikes: 0.012937
+    id: ck137ogl2ckcm0i195jl1w705
     verified: false
-    hashtags: "#stayhome, #comedy, #mariowendler, #shakes"
+    hashtags: "#witzigevideos, #schwarzerhumor, #essen, #lustigespr"
+  - username: "saschagrammel"
+    fullname: >-
+      Sascha Grammel
+    bio: >-
+      Puppet-Comedian I ❤️ Spandau Meine lustigen Kühlschrankmagneten findest du hier:
+    location: "Germany"
+    followers: 215926
+    engagement: 246
+    commentsToLikes: 0.014914
+    id: ck6titoiu1epe0j71j3ulksz0
+    verified: true
+    hashtags: "#geschenke, #josie, #spass, #spa"
+  - username: "osan_yaran"
+    fullname: >-
+      Osan Yaran
+    bio: >-
+      Berlin based... Standupcomedian Mad Monkey - der Podcast (spotify) Tik Tok: Osan Yaran Soloprogramm - Schublade kaputt!
+    location: "Germany"
+    followers: 26468
+    engagement: 520
+    commentsToLikes: 0.011586
+    id: ck5bxp0ngo51o0i11ot8s6r52
+    verified: true
+    hashtags: "#lustig, #comedy, #funnyvideos, #instagram"
+  - username: "sedo_wexx_tv"
+    fullname: >-
+      ⛔️🏅📺Sedo_WexxTV📺🏅⛔️
+    bio: >-
+      📩Booking: koc.sedat2121@outlook.com •King of Synchro🎙🌏 •Twitch: sedo_wexx_tv (Neu) • www.sedowexx.shop 🎁 (Neu) • YouTube: sedowexxtv (Neu)
+    location: "Germany"
+    followers: 86228
+    engagement: 676
+    commentsToLikes: 0.026173
+    id: ckap4sxtu8q7x0i780tkqlrnc
+    verified: false
+    hashtags: "#bremen, #comedy, #mannheim, #hamburg"
+  - username: "haifischlikez"
+    fullname: >-
+      H A I F I S C H L I K E Z 67 🔞
+    bio: >-
+      @amin7_hfl @benjamin_hfl ‼️ TikTok: 360.000 ‼️
+    location: "Germany"
+    followers: 12167
+    engagement: 1129
+    commentsToLikes: 0.057381
+    id: ck14l9pmdtjt60i19lml4zb6e
+    verified: false
+    hashtags: "#comedyvideo, #heidelberg, #mannheimcity, #funnyvideos"
+  - username: "masudakbarzadeh"
+    fullname: >-
+      Persianfreak
+    bio: >-
+      Sohn von Prinzessin Scheherazade und dem Piratenkönig vom Taka- Tuka-Land Oft missverstandener Träumer… Masuds Welt, die Welt vom Persianfreak.
+    location: "Germany"
+    followers: 7191
+    engagement: 332
+    commentsToLikes: 0.056320
+    id: ck6uh25kp6jxo0j71riw346ce
+    verified: true
+    hashtags: "#tutorial, #masudcomedy, #art, #repost"
 ---

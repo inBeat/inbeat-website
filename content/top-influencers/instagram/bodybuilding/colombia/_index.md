@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Colombia in 2023
+title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Colombia in 2023. Most popular hashtags: #bodybuilding #fitness #workout #gym.
+  Find top bodybuilding Instagram influencers in Colombia in 2023. Most popular hashtags: #bodybuilding #fitnessmotivation #fitness #workout.
 platform: Instagram
-hits: 34
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 34 Instagram influencers like this in Colombia for you to connect with.
+hits: 37
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 37 Instagram influencers like this in Colombia for you to work with.
 profiles:
-  - username: "lilkim_arias"
+  - username: "lachinafit"
     fullname: >-
-      K I M
+      LACHINAFIT
     bio: >-
-      📍From Adz. 👩🏼‍🎓Marketing. Gym Lover🏋🏼‍♀️Healthylifestyle💪🏽 Owner @adzfitmarket 🌴@theblacklion30 🖤 🐾Kina, Brownie, lucky & Nala🐾
+      👩🏻‍🎓Business Manager :🚛Truck’s Corp 💪🏼14 years fitness experience 🏋🏻‍♀️Natural bodybuilding 📧Fitnessbylachina@gmail.com @fitnessbylachina 👇🏻 tienda
     location: "Colombia"
-    followers: 6760
-    engagement: 1165
-    commentsToLikes: 0.057399
-    id: ckap19d0rtlwd0i78j2da9aoi
+    followers: 459152
+    engagement: 277
+    commentsToLikes: 0.018385
+    id: ck6tq7gyjptpz0j71ir6kg2lj
     verified: false
-    hashtags: "#bikinigirl, #gymlove, #caribbeangirl, #naturalbodybuilding"
+    hashtags: "#vacationmode, #beforeandafter, #naturalbodybuilding, #drlife"
+  - username: "rubenchoviajero"
+    fullname: >-
+      Rubencho Viajero
+    bio: >-
+      Viajero compartiendo contenido☝✈🌎 🇨🇴 Colombiano 💪🏽 🔘Acompáñame a vivir ésta historia 📍Emprendedor👉🏼 @rubencho.art @coordenadas476
+    location: "Colombia"
+    followers: 35174
+    engagement: 680
+    commentsToLikes: 0.216719
+    id: ck8t6lnt1e1is0j78358yiop2
+    verified: false
+    hashtags: "#traveling, #lifestyle, #test, #instagood"
+  - username: "loingrid.rivero"
+    fullname: >-
+      yaxu 😍
+    bio: >-
+      V E N E Z O L A N A 🇻🇪🏍️🏎️ CEO @yaxuspretties 👙 Chica @camarovenezuela 🏁 Agencias @mob_girls @l_bmodels 👠 🔥🏋🏻‍♀️ @levelupfit.ve Locutora @enlacerv 🎙️🎶
+    location: "Colombia"
+    followers: 19575
+    engagement: 360
+    commentsToLikes: 0.133109
+    id: ckaoxl48ddqhw0i78i5etyrg4
+    verified: false
+    hashtags: "#me, #model, #photography, #sexy"
+  - username: "marianelamodel"
+    fullname: >-
+      MARIANELA | PRESENTADORA
+    bio: >-
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
+    location: "Colombia"
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
+    id: ck5q3ihpokw7e0i11gl42nznm
+    verified: false
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
   - username: "maleja__fitness"
     fullname: >-
       ✨MalejaFitness✨
     bio: >-
-      Bienvenidos a mi 🌎Fitness💗🍏🇨🇴 Creadora @dynasty_fit 💣💯🔝 📍Embajadora @action.fitness Fitness coach @ecep_edu 🏋🏼‍♂️🚴‍♀️🏃🏼‍♀️
+      Bienvenidos a mi 🌎Fitness💗🍏🇨🇴 Mi marca @dynasty_fit 💣💯🔝 📍Embajadora @action.fitness Fitness coach @ecep_edu 🏋🏼‍♂️🚴‍♀️🏃🏼‍♀️
     location: "Colombia"
-    followers: 52587
-    engagement: 185
-    commentsToLikes: 0.202511
+    followers: 52431
+    engagement: 152
+    commentsToLikes: 0.213505
     id: ck6ub52tt7ihr0j71agebuhxm
     verified: false
-    hashtags: "#fitgirls, #fitnessmotivation, #healthy, #powergirl"
-  - username: "marianelamodel"
+    hashtags: "#bodybuilding, #powergirl, #rutinasdeejercicios, #bogotafitness"
+  - username: "yokochongc"
     fullname: >-
-      Marianela💋Ramos
+      🅨🅞🅚🅞 🅒🅗🅞🅝🅖 🦋
     bio: >-
-      👑Miss Sudamerica 2020 presentadora 🎬 Mi marca @malena_stylee Embajadora @drfredyortiz
+      Peruvian Chinese Model 🇵🇪🇨🇳 Miss Intercontinental South America 2019 👑 @feelme.pe
     location: "Colombia"
-    followers: 62036
-    engagement: 608
-    commentsToLikes: 0.034867
-    id: ck5q3ihpokw7e0i11gl42nznm
+    followers: 29347
+    engagement: 338
+    commentsToLikes: 0.033651
+    id: ck6tibr9q0f2o0j71fs7ovpxn
     verified: false
-    hashtags: "#bhfyp, #fitgirls, #gymmotivation, #instafit"
+    hashtags: "#gotothegym, #outfit, #ootd, #classy"
+  - username: "lilkim_arias"
+    fullname: >-
+      K I M
+    bio: >-
+      📍From Adz. 🎓Marketing. Gym Lover🏋🏼‍♀️Healthylifestyle💪🏽#naturalbodybuilding Owner @adzfitmarket 🌴@theblacklion30 🖤 🐾Kina, Brownie, lucky & Nala🐾
+    location: "Colombia"
+    followers: 7687
+    engagement: 772
+    commentsToLikes: 0.035739
+    id: ckap19d0rtlwd0i78j2da9aoi
+    verified: false
+    hashtags: "#fashionstyle, #gymlover, #healthy, #beach"
+  - username: "lunasolmart"
+    fullname: >-
+      LUNASOL
+    bio: >-
+      @lunemare Colombiana + Venezolana Powerlifter | Weightlifter | Part Creative B.S Biological sciences
+    location: "Colombia"
+    followers: 3541
+    engagement: 1184
+    commentsToLikes: 0.065087
+    id: ck5zzvqjxci5y0i140uu08cp6
+    verified: false
+    hashtags: "#fitness, #fitnessmotivation, #bodybuilding, #powerlifting"
+  - username: "edwardvargas_17"
+    fullname: >-
+      E D W A R D  V A R G A S +++
+    bio: >-
+      Tienda Virtual para el Hombre👇🏻👇🏻 ➿CEO @kingboxcolombia 📦 Síguenos!! #goodvives #belive 📍Bogota D.C.
+    location: "Colombia"
+    followers: 64554
+    engagement: 190
+    commentsToLikes: 0.022862
+    id: ck5c227gfwee10i11j8xda461
+    verified: false
+    hashtags: "#calvin, #lightroom, #photography, #bogota"
   - username: "fuqueneifbbpro1"
     fullname: >-
       Esteban Fuquene | IFBB PRO🇨🇴
     bio: >-
       💍@valeriapinzon ONLINE COACH: @team__bully ATLHETE: @mhpstrongusa | @teamdbss | @landerlanamerica #TEAMTUOR🖤 Youtube 👇🏻🎥
     location: "Colombia"
-    followers: 30601
-    engagement: 223
-    commentsToLikes: 0.028068
+    followers: 30845
+    engagement: 196
+    commentsToLikes: 0.021706
     id: ck5hryp1avpgq0i11k77ehskm
     verified: false
-    hashtags: "#lean, #bodybuilders, #walkergroupfamily, #mhpstrong"
-  - username: "yermahin_balance7"
-    fullname: >-
-      Yermahin Solorzano
-    bio: >-
-      🇻🇪 #CIRCUS #fitness #art You can't live a normal life if you want to be extraordinary #handstand #handbalance #goals
-    location: "Colombia"
-    followers: 10815
-    engagement: 543
-    commentsToLikes: 0.025440
-    id: ckf5ptix078d40j2303t8diff
-    verified: false
-    hashtags: "#city, #goals, #artist, #dance"
-  - username: "carlosalix"
-    fullname: >-
-      Carlos Alix
-    bio: >-
-      🔬Investigando sobre ejercicio y🧠 🎓BSc & MSc in Sport Sciences 🤓PhD student 🧬LifePro Scientific Advisor 🎧AudioFit & BazmanTeam 🔴YouTube:Carlos Alix ⬇️
-    location: "Colombia"
-    followers: 14122
-    engagement: 635
-    commentsToLikes: 0.037961
-    id: ck0vwxbc8w1lj0i19pirq40b3
-    verified: false
-    hashtags: "#carlosalix, #fatiga, #aprendizaje, #fitness"
-  - username: "yeimiserrano1"
-    fullname: >-
-      YEIMY SERRANO✨
-    bio: >-
-      MAMÁ BLOGUERA | 25 TikTok [+2.1] Ing. Civil Esp. Gerencia e Interventoria. Entrenadora Atleta crossfit Publicidades al DM @elbauldemarialucia
-    location: "Colombia"
-    followers: 119581
-    engagement: 250
-    commentsToLikes: 0.046191
-    id: ck6uf4c0sutfk0j71puap3er4
-    verified: false
-    hashtags: "#photooftheday, #instahealth, #igbabies, #fitnessmodel"
-  - username: "lulubarrera13"
-    fullname: >-
-      🌟LULU🌟MaZeL ToV❤️🐱
-    bio: >-
-      🇨🇴DEPORTISTA⚽️🏃🏼‍♀️🥏❤️.Embajadora: @divas_rubenecheverry @smartnutritioncolombia @rippedstorecolombia @fitness24seven_colombia
-    location: "Colombia"
-    followers: 171600
-    engagement: 183
-    commentsToLikes: 0.015702
-    id: ck5qchn9cqm4z0i11rtgkcgof
-    verified: false
-    hashtags: "#workout, #relaxtime, #loveyourself, #girl"
-  - username: "carolinagiraldofitness"
-    fullname: >-
-      Caro ♥ ᶫᵒᵛᵉ
-    bio: >-
-      🧎🏽‍♀️|God's warrior 👏🏼 👩🏼‍🎓|Business administrator 🏋🏼‍♂️|Fitness woman 🍑 🏆|Embassador @megaplexstars ✰ 🛍| @carofit_tips_store 🛒 👙|@carola__swimwear
-    location: "Colombia"
-    followers: 44459
-    engagement: 137
-    commentsToLikes: 0.010608
-    id: ck9wg45rgrtg50j78f4bdue94
-    verified: false
-    hashtags: "#balenciaga, #woman, #bodybuilding, #yomequedoencasa"
-  - username: "brianaceros"
-    fullname: >-
-      Brian Aceros
-    bio: >-
-      🔷️DESAFÍO SUPER REGIONES 2019 🔷️Modelo Fitness, Línea de ropa @acerosworkout 🥗🥦🍅Instructor DIETA 2 SEMANAS🍅🥦🥗 ⬇️⬇️DESCARGA TU DIETA⬇️⬇️
-    location: "Colombia"
-    followers: 17575
-    engagement: 189
-    commentsToLikes: 0.014863
-    id: ckf5uc22akc360j23mvemqqlo
-    verified: false
-    hashtags: "#motivation, #getfit, #fitnessgirl, #gymlife"
+    hashtags: "#bodybuildingmotivation, #mhpstrong, #workout, #nuncaparamos"
 ---

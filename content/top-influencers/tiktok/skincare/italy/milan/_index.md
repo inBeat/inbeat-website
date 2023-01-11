@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Milan in 2023
+title: Top 10 Skincare TikTok Influencers In Milan In 2023
 description: >-
-  Find top skincare TikTok influencers in Milan in 2023. Most popular hashtags: #skincare #makeup #perte #beauty.
+  Find top skincare TikTok influencers in Milan in 2023. Most popular hashtags: #perte #foryou #skincare #neiperte.
 platform: TikTok
-hits: 5
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 5 TikTok influencers like this in Milan, Italy for you to collaborate.
+hits: 8
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "lalalalalexaa"
+  - username: "andrea_thecat_"
     fullname: >-
-      Alexa Portoraro
+      Andrea Damascelli
     bio: >-
-      eyy . . IG: Alexa.portoraro Twitter : AlexaPortoraro
+      y'all fell in love? well, I fall asleep Milan, Italy andreadamascelli@gmail.com
     location: "Italy"
-    followers: 3679
-    engagement: 330
-    commentsToLikes: 0.022439
-    id: ck8vsi9vndpd80j78877buqhh
+    followers: 18900
+    engagement: 2132
+    commentsToLikes: 0.021307
+    id: ck9n4l5u84z0e0j789szjlvwt
     verified: false
-    hashtags: "#italy, #studenti, #belgium, #tiktok"
-  - username: "martapareccini"
+    hashtags: "#fyp, #trash, #italia, #trend"
+  - username: "elenagonella"
     fullname: >-
-      Marta Pareccini
+      LaGonni😈
     bio: >-
-      BEAUTY • FASHION • LIFESTYLE Vi aspetto anche su Instagram ⬇️ @martapareccini
+      💄Makeup addicted💄 21🇮🇹 Ig: @elenagonella
     location: "Italy"
-    followers: 28600
-    engagement: 975
-    commentsToLikes: 0.008799
-    id: ck8vsi18kdnz70j788usd969d
+    followers: 7318
+    engagement: 1017
+    commentsToLikes: 0.021303
+    id: cka6oijlwfke20i78e200gyee
     verified: false
-    hashtags: "#skincare, #skincaretips, #fashion, #makeup"
-  - username: "ileana.adamo"
+    hashtags: "#fyp, #milan, #photography, #routine"
+  - username: "shoaib_jin"
     fullname: >-
-      Ileana
+      shoaib_jin
     bio: >-
-      18 🇮🇹✖️🇺🇸 Bergamo/AK, Anchorage Collab: ileanaadamo@virgilio.it
+      Follow me on Instagram ❤️
     location: "Italy"
-    followers: 14700
-    engagement: 1572
-    commentsToLikes: 0.014310
-    id: ck9no9vwwt0dq0j78ayiosuew
+    followers: 774300
+    engagement: 587
+    commentsToLikes: 0.004158
+    id: ck97ymgdc06dp0j788xj4zcxb
     verified: false
-    hashtags: "#greenscreen, #comico, #funny, #mamma"
-  - username: "ollarethegheing"
+    hashtags: "#foryou, #foryoupage, #thenun, #shojin"
+  - username: "giuliamoshi"
     fullname: >-
-      OllareTheGheing
+      G I U L I A🌙
     bio: >-
-      CLICCA SUL LINK PER LA HIT DELL' ANNO
+      Just for fun 🇨🇳🇮🇹 Instagram: giuliamoshi
     location: "Italy"
-    followers: 2041
-    engagement: 950
-    commentsToLikes: 0.017247
-    id: ckad3curkk2bm0i787v9kraqm
+    followers: 10700
+    engagement: 1244
+    commentsToLikes: 0.028888
+    id: ckavn1rt6x5tj0j235qcqlppn
     verified: false
-    hashtags: "#viral, #coronavirus, #foryou, #perte"
+    hashtags: "#fy, #test, #unboxing, #natale"
+  - username: "cataldibeauty"
+    fullname: >-
+      Cataldi Beauty
+    bio: >-
+      👇 Lavora con me! info@cataldi.com
+    location: "Italy"
+    followers: 1400000
+    engagement: 1030
+    commentsToLikes: 0.016638
+    id: ck8fbwkyt56wl0j78b5g6sa8h
+    verified: false
+    hashtags: "#naturopata, #oliessenziali, #cataldibeauty, #duetto"
+  - username: "babyhesse"
+    fullname: >-
+      Dana Hesse
+    bio: >-
+      insegno a BALLARE SUL PALO anche con i VESTITI, e ne ne vanto!💪🤷‍♀️
+    location: "Italy"
+    followers: 38800
+    engagement: 1342
+    commentsToLikes: 0.035408
+    id: ck9re30nu0jbu0j783nilkwxn
+    verified: false
+    hashtags: "#lovedisoloqua, #imparacontiktok, #4yp, #foryou"
   - username: "asiarossi_01"
     fullname: >-
       larossi_01
     bio: >-
       
     location: "Italy"
-    followers: 4592
-    engagement: 736
-    commentsToLikes: 0.023716
+    followers: 4706
+    engagement: 740
+    commentsToLikes: 0.027956
     id: ckcjfys95bbyd0j23zzpy0wur
     verified: false
-    hashtags: "#green, #saldi, #passione, #tiger"
-  - username: "francesco_beautycoach"
+    hashtags: "#yvesrocheritalia, #love, #yvesrocher, #beauty"
+  - username: "ollarethegheing"
     fullname: >-
-      FrancescoBeautyCoach
+      OllareTheGheing
     bio: >-
-      💫 TikTok Trends LIVE: Make-up, sopracciglia perfette, skincare, fitness ✨🌟✨
+      CLICCA SUL LINK PER LA HIT DELL' ANNO
     location: "Italy"
-    followers: 13500
-    engagement: 1176
-    commentsToLikes: 0.247744
-    id: ckck5u04wqvuj0j23hqar0ei1
+    followers: 2035
+    engagement: 904
+    commentsToLikes: 0.013807
+    id: ckad3curkk2bm0i787v9kraqm
     verified: false
-    hashtags: "#trend, #viral, #newtrend, #francescobeautycoach"
-  - username: "giorgiaruggieri_"
+    hashtags: "#covid19, #iostoacasa, #perte, #fsk"
+  - username: "cocolavieenrose"
     fullname: >-
-      Giorgia Ruggieri
+      Skincare con Valeria Arizzi
     bio: >-
-      INSTAGRAM ⬆️ MAKE-UP, SKINCARE, UNGHIE, MODA,CAPELLI
+      Consigli BEAUTY e CURA DELLA PELLE🦄 #imparacontiktok SKINCARE 🧴
     location: "Italy"
-    followers: 6590
-    engagement: 985
-    commentsToLikes: 0.042450
-    id: ck9du5lxff4kd0j78k0yl5mmd
+    followers: 20400
+    engagement: 623
+    commentsToLikes: 0.096793
+    id: ck8vsi6p5dp000j78dilpl6bu
     verified: false
-    hashtags: "#fyp, #perte, #sephora, #andiamoneiperte"
-  - username: "veronica.dambr"
+    hashtags: "#curapelle, #italia, #imparacontiktok, #segretidibellezza"
+  - username: "monique_makeup_"
     fullname: >-
-      Veronica D'Ambrogio
+      Monica Montagna
     bio: >-
-      🍝 CEO of MI TRUCCO CON IL CIBO 💋 Instagram: @veronica.dambr✨ 📍Salentina
+      Appassionata di makeup autodidatta💄 Hair stylist✂️ Curly girl👩🏻‍🦱 Skincare🧼
     location: "Italy"
-    followers: 68100
-    engagement: 1288
-    commentsToLikes: 0.022976
-    id: cka67dzxckp680i7886k280qe
+    followers: 5959
+    engagement: 1548
+    commentsToLikes: 0.029345
+    id: cka676ojrju080i78tbw22bj5
     verified: false
-    hashtags: "#trucco, #mitruccoconilcibo, #makeupartist, #makeuphacks"
-  - username: "jessicadenic"
-    fullname: >-
-      Jessica De Nicola 🌹
-    bio: >-
-      💅 Curiosità, trucchi e consigli sul mondo Beauty💄 💌 denicolajessica@gmail.com
-    location: "Italy"
-    followers: 318000
-    engagement: 1599
-    commentsToLikes: 0.010534
-    id: ck8vshug6dmpg0j78bxaq31ie
-    verified: false
-    hashtags: "#unghiefinte, #nails, #curiosity, #skincare"
-  - username: "she.makeup"
-    fullname: >-
-      Sheila 🔥
-    bio: >-
-      Italy. 🇮🇹 23 y.o.
-    location: "Italy"
-    followers: 2574
-    engagement: 632
-    commentsToLikes: 0.057354
-    id: ck9du5jf4f3uq0j78k891aosm
-    verified: false
-    hashtags: "#tiktokitalia, #makeup, #italia, #beauty"
+    hashtags: "#makeup, #period, #neiperte, #perte"
 ---

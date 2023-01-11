@@ -1,60 +1,60 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Peru in 2023
+title: Top 10 Makeup TikTok Influencers In Peru In 2023
 description: >-
-  Find top makeup TikTok influencers in Peru in 2023. Most popular hashtags: #makeup #parati #peru #fyp.
+  Find top makeup TikTok influencers in Peru in 2023. Most popular hashtags: #makeup #parati #fyp #peru.
 platform: TikTok
-hits: 52
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 52 TikTok influencers like this in Peru for you to contact.
+hits: 53
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 53 TikTok influencers like this in Peru for you to connect with.
 profiles:
+  - username: "anroman.21"
+    fullname: >-
+      Andrea Victoria ❤
+    bio: >-
+      🇵🇪❤️ CEO en hacer MakeUp y que nadie los vea 🤡
+    location: "Peru"
+    followers: 12300
+    engagement: 1323
+    commentsToLikes: 0.086433
+    id: ck9nqgm0n3owe0j78uof0d09t
+    verified: false
+    hashtags: "#per, #foryoupage, #parati, #valentinesday"
   - username: "gracekellyherrera"
     fullname: >-
       😽 Grace Herrera 😽
     bio: >-
-      🇵🇪.... instagram: ▶️ @grace herrera makeup
+      🇵🇪. Perú... instagram: ▶️ @grace herrera makeup
     location: "Peru"
-    followers: 4986
-    engagement: 709
-    commentsToLikes: 0.034572
+    followers: 7443
+    engagement: 878
+    commentsToLikes: 0.032638
     id: ckd04uaoj9lkc0j23dcld52zp
     verified: false
-    hashtags: "#destacame, #halloween, #actuacion, #foryou"
+    hashtags: "#fyp, #regueton, #actuaci, #parati"
   - username: "mariaclaudia.durand"
     fullname: >-
       mariaclaudiadurand
     bio: >-
-      Latina🇵🇪 Curvy Fashion Hacks🍑 Makeup lover💄 Sígueme en Insta🤍 #bodypositive
+      🇵🇪 Curvy Fashion🍑 Makeup&Beauty Reviews💄 Sígueme en Insta🤍 #bodypositive
     location: "Peru"
-    followers: 18900
-    engagement: 575
-    commentsToLikes: 0.035493
+    followers: 30800
+    engagement: 603
+    commentsToLikes: 0.030561
     id: cka620sk5xu720i78rsx2qier
     verified: false
-    hashtags: "#bodypositivitychain, #curvypower, #selfconfidencebooster, #sheingals"
+    hashtags: "#marcasperuanas, #marcaslocales, #midsizeoutfitinspo, #midsizstyle"
   - username: "aracelyurbina"
     fullname: >-
       Damngirl 🍒
     bio: >-
       🏳️‍🌈✨ Makeup artist Tripulante de crucero 22 🪐
     location: "Peru"
-    followers: 20100
-    engagement: 707
-    commentsToLikes: 0.027363
+    followers: 20600
+    engagement: 694
+    commentsToLikes: 0.022110
     id: ckb9veekguke90j23g0x3vkom
     verified: false
-    hashtags: "#bedroom, #greenscreen, #fyp, #loserschallenge"
-  - username: "yositaarve"
-    fullname: >-
-      yositaarve
-    bio: >-
-      Sígueme IG👆🏻 👠Model-Fit💓 Te doy los mejores Tips aquí🥰 👇🏻
-    location: "Peru"
-    followers: 24200
-    engagement: 626
-    commentsToLikes: 0.144913
-    id: ckai4savrp9ho0i78l3cssqf6
-    verified: false
-    hashtags: "#venezolanosenperu, #makeup, #peru, #venezolana"
+    hashtags: "#sisepudo, #peruanosunidos, #barbiegirlchallenge, #greenscreen"
   - username: "karimaguinaga"
     fullname: >-
       Alejandra B
@@ -66,19 +66,7 @@ profiles:
     commentsToLikes: 0.032808
     id: ckbfbrfvk42nx0j2305b78l59
     verified: false
-    hashtags: "#usa, #maquillaje, #makeup, #peru"
-  - username: "malusalcedo6"
-    fullname: >-
-      Malu Salcedo
-    bio: >-
-      CEO del anyways #opa💛 🇵🇪 Perú 🇵🇪
-    location: "Peru"
-    followers: 351400
-    engagement: 1893
-    commentsToLikes: 0.015903
-    id: ckaihu98j7kob0i78lviwuhhp
-    verified: false
-    hashtags: "#storytime, #peru, #viral, #halloween"
+    hashtags: "#travel, #fyp, #usa, #viaje"
   - username: "goodrouss"
     fullname: >-
       GoodRouss
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.027305
     id: ckav8g864fr1c0j23nzdwo0xq
     verified: false
-    hashtags: "#makeup, #cuarentena, #nonono, #comment"
+    hashtags: "#makeup, #zyxcba, #foryoupage, #fyp"
+  - username: "margocitavaldez"
+    fullname: >-
+      MargotValdez
+    bio: >-
+      🦋SEAMOS FELICES JUNTOS🦋 Paquetitos~Tiendas~Ofertas y más✨ Sígueme por IG👇🏼
+    location: "Peru"
+    followers: 135900
+    engagement: 831
+    commentsToLikes: 0.014012
+    id: ckbf2c4adpaur0j23rqtr9g0r
+    verified: false
+    hashtags: "#fyp, #greenscreen, #makeup, #colourpop"
   - username: "fatima.malca"
     fullname: >-
       Fátima Malca
     bio: >-
       18 🌺 📍Lima, Perú todo lo que subo es random, sorry not sorry Ig: @fatima.malca
     location: "Peru"
-    followers: 30700
-    engagement: 786
-    commentsToLikes: 0.032121
+    followers: 30300
+    engagement: 486
+    commentsToLikes: 0.023410
     id: cka0u39gqsi3q0i782vi2g7gw
     verified: false
-    hashtags: "#parati, #fyp, #peru, #makeup"
-  - username: "la_peta_"
+    hashtags: "#makeup, #peru, #parati, #fyp"
+  - username: "ivanayturbe"
     fullname: >-
-      Brenda
+      Ivana Yturbe
     bio: >-
-      Be and make Art 🖤 Perú🇵🇪 19 años
+      ✨
     location: "Peru"
-    followers: 3525
-    engagement: 1050
-    commentsToLikes: 0.046362
-    id: ckdh2qeq2secx0j232lzkszjf
+    followers: 641900
+    engagement: 484
+    commentsToLikes: 0.008831
+    id: ckc30iapdr7o90j239kozwfcg
     verified: false
-    hashtags: "#fyp, #foryou, #xyzbca, #parati"
-  - username: ".keith.mendoza"
+    hashtags: "#huaweip40pro, #fotograf, #publicidad, #makeup"
+  - username: "tanydelariva1"
     fullname: >-
-      keith Mendoza 🍒
+      Tany De La Riva
     bio: >-
-      19 añitos 🍭🤩 nunca te rindas , demuestra de que estás hecha ✌😛 🇵🇪 peruviam
+      Drag Queen Peruana 🇵🇪⚡ Ya me sigues en Instagram? @tanydelariva 💎
     location: "Peru"
-    followers: 16000
-    engagement: 487
-    commentsToLikes: 0.078787
-    id: ckaikzotllteu0i786tql6j2v
+    followers: 18700
+    engagement: 686
+    commentsToLikes: 0.028572
+    id: ck9exyd52te3q0j78ymyclnrm
     verified: false
-    hashtags: "#parati, #peru, #vintage, #trend"
+    hashtags: "#parati, #asuka, #anime, #foryou"
 ---

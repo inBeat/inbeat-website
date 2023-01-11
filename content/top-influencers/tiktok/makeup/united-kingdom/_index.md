@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In United Kingdom in 2023
+title: Top 10 Makeup TikTok Influencers In United Kingdom In 2023
 description: >-
-  Find top makeup TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #makeup #duet #halloween.
+  Find top makeup TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #makeup #foryoupage.
 platform: TikTok
-hits: 1172
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 1172 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 1096
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 1096 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
-  - username: "hbcoolcat"
+  - username: "amyjartistry"
     fullname: >-
-      Hannah O'Sullivan 
+      Amy J
     bio: >-
-      I’m a musically OG 💓 35 makeup cosplay 💓 please drop a like or comment 🐰
+      Makeup Artist amyjartistry@gmail.com
     location: "United Kingdom"
-    followers: 93300
-    engagement: 2004
-    commentsToLikes: 0.102137
-    id: ckbwl7q94407c0j23fqqfvcpw
-    verified: true
-    hashtags: "#makeup, #fyp, #transition, #theshining"
-  - username: "leeshthatgirl"
-    fullname: >-
-      LeeshThatGirl
-    bio: >-
-      INSTA: leeshthatgirl MAKEUP SASS CEO OF HAIR WHIPS ✨💖
-    location: "United Kingdom"
-    followers: 23700
-    engagement: 2348
-    commentsToLikes: 0.050930
-    id: ckav77ahpe4ah0j23qops3pzr
+    followers: 33300
+    engagement: 1894
+    commentsToLikes: 0.058846
+    id: ckavjfllas2qv0j234brs62i2
     verified: false
-    hashtags: "#fyp, #blackcreators, #makeuptransformation, #glowup"
-  - username: "fullofpith"
-    fullname: >-
-      Leo
-    bio: >-
-      ♡ Leo, 32, he/they ♡ ☆ art, poetry, music, makeup & spicy opinions ☆
-    location: "United Kingdom"
-    followers: 25300
-    engagement: 1782
-    commentsToLikes: 0.105389
-    id: ck8nfz4k2u3z80j78i8mklopi
-    verified: false
-    hashtags: "#knowmyownface, #myfacenofilter, #hethey, #makeupfail"
-  - username: "megmur"
-    fullname: >-
-      Meg Murphy
-    bio: >-
-      @ MEGSSFX on insta! just tryna do makeup i love you!🥺 💌 megnadeensfx@gmail.com
-    location: "United Kingdom"
-    followers: 122800
-    engagement: 2668
-    commentsToLikes: 0.025442
-    id: ckdi7mp8r9lxv0j23a38wr63j
-    verified: false
-    hashtags: "#halloweenlook, #fyp, #creative, #makeup"
-  - username: "dragonfinity"
-    fullname: >-
-      Dragon Finity🐉
-    bio: >-
-      If you want your makeup done: Subscribe to my YouTube & send your photo on insta
-    location: "United Kingdom"
-    followers: 391000
-    engagement: 1604
-    commentsToLikes: 0.092113
-    id: ck81sb8dcregu0j78xieiufm4
-    verified: false
-    hashtags: "#acne, #foryou, #fyp, #digitalmakeup"
+    hashtags: "#valentine, #duet, #makeupartist, #bossit2021"
   - username: "uniqueangelxo"
     fullname: >-
       Stacey
     bio: >-
-      😇 ❤️Taken❤️ You’ll find Glam & Gore makeup here #TheUniqueAngels
+      ✨T a k e n ✨ 💄Makeup Junkie 💄 🙏🏻30k?🙏🏻 MUA
     location: "United Kingdom"
-    followers: 24500
-    engagement: 1217
-    commentsToLikes: 0.096377
+    followers: 25200
+    engagement: 1453
+    commentsToLikes: 0.109754
     id: ckc34vtbgu5hq0j239nkalim8
     verified: false
-    hashtags: "#theuniqueangels, #toms, #freakweek, #duet"
-  - username: "morganmcgoldrick"
+    hashtags: "#trend, #underatedartistcheck, #theuniqueangels, #fyp"
+  - username: "megssfx"
     fullname: >-
-      Morgan McGołdrick
+      Meg Murphy
     bio: >-
-      Insta @mxgoldrick Makeup They/them DyslexicAF sry
+      18 | UK creative makeup artist IG @megssfx 💌 megnadeensfx@gmail.com
     location: "United Kingdom"
-    followers: 2181
-    engagement: 1001
-    commentsToLikes: 0.100638
-    id: ckcovo0yn96p10j23iax4p1du
+    followers: 128400
+    engagement: 2047
+    commentsToLikes: 0.058662
+    id: ckdi7mp8r9lxv0j23a38wr63j
     verified: false
-    hashtags: "#fyp, #alt, #transgirl, #foryoupage"
-  - username: "nicolerodge"
+    hashtags: "#testreadychic, #generationbeautybay, #emojimakeup, #creativemakeup"
+  - username: "abbyroberts"
     fullname: >-
-      Nicole Rodgers
+      Abby Roberts
     bio: >-
-      Hope you’re having a good day 💖Makeup & POVs💖 Fo||ow my IG - NicoleRodge
+      i do makeup and stuff business email - abby@kyra.com she/her
     location: "United Kingdom"
-    followers: 282600
-    engagement: 2072
-    commentsToLikes: 0.011467
-    id: ckcofso1o2vos0j23c9x92z90
-    verified: false
-    hashtags: "#duet, #halloween, #pov, #povacting"
-  - username: "plmakeupacademy"
-    fullname: >-
-      Plouisemakeupacademy
-    bio: >-
-      Instagram- Plouise_Makeup_Academy⚡️
-    location: "United Kingdom"
-    followers: 14600
-    engagement: 1897
-    commentsToLikes: 0.106107
-    id: ck8niesm75bad0j78l0zhrney
+    followers: 16400000
+    engagement: 2264
+    commentsToLikes: 0.006714
+    id: ck8ad9i1f4ga20j78v8ixiqjw
     verified: true
-    hashtags: "#fyp, #fashion, #featureme, #makeup"
+    hashtags: "#duet, #stitch"
+  - username: "scottish_lyndsay_mua"
+    fullname: >-
+      just call me freddie
+    bio: >-
+      student sfx makeup artist. Edinburgh. Here for fun and laughter. oppinionated 😂
+    location: "United Kingdom"
+    followers: 9660
+    engagement: 1115
+    commentsToLikes: 0.109558
+    id: ckdclh0cknotc0j230fuo1eb7
+    verified: false
+    hashtags: "#duet, #dirtydiana"
+  - username: "halle.isobel.art"
+    fullname: >-
+      halle isobel
+    bio: >-
+      💋Hair and Makeup Artist for Film/TV/Fashion💋 Follow me on Instagram for more!
+    location: "United Kingdom"
+    followers: 7522
+    engagement: 1673
+    commentsToLikes: 0.058425
+    id: ckd08whw4bb610j23oj80qv7j
+    verified: false
+    hashtags: "#sfx, #fyp, #makeup, #sfxmakeup"
   - username: "jenlouisemua"
     fullname: >-
-      Jen louise
+      Jen-louise 🏴󠁧󠁢󠁷󠁬󠁳󠁿💄
     bio: >-
       Welshie 🏴󠁧󠁢󠁷󠁬󠁳󠁿 💫 Instagram jenlouise_mua 💫 Makeup artist 💚💚💚
     location: "United Kingdom"
-    followers: 49600
-    engagement: 1119
-    commentsToLikes: 0.056574
+    followers: 70500
+    engagement: 1114
+    commentsToLikes: 0.065874
     id: ckacw6l8ur34x0i78bclqg4z1
     verified: false
-    hashtags: "#joke, #dollhousechallenge, #thedependables, #duet"
+    hashtags: "#foryoupage, #fyp, #duet, #tiktokuk"
+  - username: "missmaecosplay"
+    fullname: >-
+      Miss Mae Cosplay
+    bio: >-
+      Pinup girl 🏴󠁧󠁢󠁳󠁣󠁴󠁿 cosplayer Makeup artist That barbie girl™️ 💕
+    location: "United Kingdom"
+    followers: 58800
+    engagement: 1910
+    commentsToLikes: 0.018633
+    id: ckavdezz2lfsy0j23yo3uh6mm
+    verified: false
+    hashtags: "#foryoupage, #scottish, #alt, #pinup"
+  - username: "megannaliceee"
+    fullname: >-
+      Megs Alice ♡
+    bio: >-
+      20⚡️ CEO of reaction videos✌🏼 My makeup is a joke😂 Keep being you ✨ 🏳️‍🌈
+    location: "United Kingdom"
+    followers: 1100000
+    engagement: 1615
+    commentsToLikes: 0.032916
+    id: ckceh5fj0os6u0j23l9iz65b1
+    verified: false
+    hashtags: ""
+  - username: "dragonfinity"
+    fullname: >-
+      Dragon Finity🐉
+    bio: >-
+      If you want your makeup done: Follow my Instagram & send your selfie on DM ❤️
+    location: "United Kingdom"
+    followers: 394700
+    engagement: 1033
+    commentsToLikes: 0.069940
+    id: ck81sb8dcregu0j78xieiufm4
+    verified: false
+    hashtags: "#edit, #art, #drawing, #makeupartist"
 ---

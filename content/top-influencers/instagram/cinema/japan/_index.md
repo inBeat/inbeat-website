@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Japan in 2023
+title: Top 10 Cinema Instagram Influencers In Japan In 2023
 description: >-
-  Find top cinema Instagram influencers in Japan in 2023. Most popular hashtags: #cinematography #japan #sonyalpha.
+  Find top cinema Instagram influencers in Japan in 2023. Most popular hashtags: #streetclassics #streetshared #japan #streetgrammers.
 platform: Instagram
-hits: 90
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 90 Instagram influencers like this in Japan for you to pitch.
+hits: 60
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 60 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "jonleedisney"
+    fullname: >-
+      Jon Lee
+    bio: >-
+      All photos are mine. Repost with credit (NO ALTERATIONS) WDW CM Disney 📷 Photographer 🎥 Cinematographer Photography page: @jonleephoto Latest Video:
+    location: "Japan"
+    followers: 11239
+    engagement: 729
+    commentsToLikes: 0.012178
+    id: ck0u8wy0i8dmd0i19fkxnjqlp
+    verified: false
+    hashtags: "#disneyworld, #disneyparks, #wdw, #mickeyrr"
   - username: "the_rinayang"
     fullname: >-
       RINA YANG
     bio: >-
-      Japanese-Korean cinematographer シネマトグラファー/撮影監督 🇬🇧🇪🇺LUX @luxartistsltd 🇺🇸ICONIC @iconictalentagency @icglocal600 ____________
+      Japanese-Korean-British cinematographer in London⇄LA シネマトグラファー/撮影監督 🇬🇧🇪🇺LUX @luxartistsltd 🇺🇸ICONIC @iconictalentagency @icglocal600 ____________
     location: "Japan"
-    followers: 41785
-    engagement: 698
-    commentsToLikes: 0.021861
+    followers: 44623
+    engagement: 694
+    commentsToLikes: 0.023782
     id: ck0u9gk529qmg0i19mdadsfxf
     verified: false
-    hashtags: "#sittinginlimbo, #whereisthedoor, #whereisthehat, #justiceforwindrush"
-  - username: "gregorykoefer"
-    fullname: >-
-      GREGORY KOEFER /ˈkofr'/
-    bio: >-
-      𝙆 𝙊 𝙁 𝙍. .filmmaker .cinematographer .photographer .director
-    location: "Japan"
-    followers: 19685
-    engagement: 342
-    commentsToLikes: 0.045346
-    id: ck15rjuga89y30i19fn27sz9v
-    verified: false
-    hashtags: "#sonya7riii, #droneoftheday, #lensbible, #diewocheaufinstagram"
-  - username: "loganlambert"
-    fullname: >-
-      LOGAN LAMBERT
-    bio: >-
-      🎥 Cinematographer & Editor Everywhere and Nowhere
-    location: "Japan"
-    followers: 16985
-    engagement: 421
-    commentsToLikes: 0.034221
-    id: ck0tymxvdnbst0i19z7l2q2j9
-    verified: false
-    hashtags: "#unitedstories, #commercialcutchallenge"
-  - username: "jet_akira"
-    fullname: >-
-      Akira JET Nakaura
-    bio: >-
-      📽reddigitalcinema owner ProfessionalSurfer, Cinematographer, SoundTrackMaker, Art Designer and Artist From TOKYO🗼 映像制作、写真撮影お問い合わせ先 jet@jetdesign.tokyo
-    location: "Japan"
-    followers: 18022
-    engagement: 731
-    commentsToLikes: 0.004438
-    id: ck5cfj25kn28x0i114udkv38c
-    verified: false
-    hashtags: "#jetdesign, #edited, #breakeroutwetsuits, #goprohero8"
+    hashtags: "#challengeaccepted, #jessicaferris, #stevepritchard, #lukecorbyn"
   - username: "mamaprechanaya"
     fullname: >-
       Mama Prechanaya 3.0
     bio: >-
-      🔸Cinema Updates, All Types of Memes 🔸3 Admins 👑 Backup : @mamaprechanaya_4 #mama_prechanaya
+      🔸Cinema Updates, All Types of Memes 🔸3 Admins 👑 Backup : @mamaprechanaya_4 #mama_prechanaya #mptemplates
     location: "Japan"
-    followers: 33714
-    engagement: 379
-    commentsToLikes: 0.007172
+    followers: 35665
+    engagement: 803
+    commentsToLikes: 0.002094
     id: ck8t7wkkui7gx0j78yuraa9ke
     verified: false
-    hashtags: "#lockdown, #mamaprechanaya, #master, #mama"
-  - username: "cineca"
-    fullname: >-
-      cineca / Mio Tsuchiya / つちやみお
-    bio: >-
-      菓子作家 / Sweet Innovator Cinematic confections , since 2012
-    location: "Japan"
-    followers: 16189
-    engagement: 328
-    commentsToLikes: 0.004479
-    id: ck5buydseinfc0i11cnxmm468
-    verified: false
-    hashtags: "#cineca, #pintscope, #somethingsomething2020, #waribashi"
+    hashtags: "#mokkaengineer, #artspasangada, #madurai, #master"
   - username: "t.hagi_1013"
     fullname: >-
       Tadahisa Hagiwara😎😎
     bio: >-
-      ▶️ Love cinema,book,anime and NO Baton. ▶️ All photos are taken by me. Ⓜ️ @addicted_to_nights @match_night @picturetokeep_love @world_bestnight
+      ▶️ Love cinema,book,anime and NO Baton. ▶️ All photos are taken by me. ▶️ To say Good bye is to die a little.
     location: "Japan"
-    followers: 17222
-    engagement: 318
-    commentsToLikes: 0.006557
+    followers: 17150
+    engagement: 335
+    commentsToLikes: 0.025220
     id: ck5q4835qo48s0i11xjgb0vfo
     verified: false
-    hashtags: "#wp, #fever, #loves, #ig"
-  - username: "abphotographs_"
-    fullname: >-
-      AB Photographs
-    bio: >-
-      Above & Beyond [est 2010] @ab_cinema - Open trip 2020 / 2023 Dec: Japan Oct: Ausie|Europe Nov: NY|Seattle - Info@abphotographs.com 08176705800
-    location: "Japan"
-    followers: 11273
-    engagement: 95
-    commentsToLikes: 0.005457
-    id: ck0w3o2l8ue8a0i19hnpw98dq
-    verified: false
-    hashtags: "#abalpha, #9yearsabphotographs"
+    hashtags: "#tv, #icu, #fever, #eye"
   - username: "taku_cinema"
     fullname: >-
-      岡田拓朗（Cinema Life Career）
+      岡田拓朗
     bio: >-
-      主に映画とドラマのこと 仕事→フリーランス(人事、広報、PR、ライター等)／執筆→リアルサウンド映画部、TVログ他／好き→映画、ドラマ、スポーツ、野球、音楽、旅行、ロケ地、東南アジア、カメラ、歴史、芸術、文章、言葉／理想→誰もが自分を認めて前向きに生きられる社会 ご依頼はメッセージにてお願いします！
+      主に映画とドラマ フリーランス／仕事→広報、ライター、HR関連、動画編集／業界→エンタメ、教育、WEB／好き→映画、ドラマ、スポーツ、野球、音楽、旅行、カメラ、歴史、芸術、物語、言葉／理想→誰もが自分を認めて前向きに生きられる社会 ご依頼はメッセージでお願いします。 ↓ラジオ(音声配信)始めました！
     location: "Japan"
-    followers: 16812
-    engagement: 692
-    commentsToLikes: 0.008935
+    followers: 20661
+    engagement: 818
+    commentsToLikes: 0.013745
     id: ck13ber6nv2ni0i19o5zx135e
     verified: false
-    hashtags: "#amazonprimevideo, #netflix, #unext, #pr"
-  - username: "bobasaurusfett"
+    hashtags: "#unext, #amazonprime, #netflix, #amazonprimevideo"
+  - username: "hhhhi02"
     fullname: >-
-      •  Eugene
+      泉ひかり(Hikari Izumi)
     bio: >-
-      • #ToyPhotographer • 🇺🇸🇵🇭🇲🇽
+      💌お仕事のお問い合わせは公式サイトからお願いします 📱 Xperia ambassador 🏃‍♂️ Parkour 2012~ 🇯🇵 Women’s Ninja warriors Finalist 🥇 Parkour Worldcup 2019 Speed Annual Champion
     location: "Japan"
-    followers: 6086
-    engagement: 854
-    commentsToLikes: 0.067150
-    id: ck0txqbrfk4sm0i19lz2rq1y0
+    followers: 24971
+    engagement: 924
+    commentsToLikes: 0.010616
+    id: ck0w0tm2pfyxi0i19ayattp6u
     verified: false
-    hashtags: "#sonyalpha, #hasbropulse, #manga, #plasticcrack"
+    hashtags: "#girlparkour, #parkourgirls, #traceuse, #training"
+  - username: "yuki.t_photography"
+    fullname: >-
+      幽　鬼
+    bio: >-
+      ᴼᴺ ᵀᴴᴱ ᴰᴬᴿᴷ ᴱᴰᴳᴱˢ 日本🇯🇵JPN | Photographer 🎗Finalist @beautifulbizarremagazine 2020 ▫️Curator of @avantgarde_vibes 3/3-3/15 アリスファンタジー展 ⇨📍代官山アートラッシュ
+    location: "Japan"
+    followers: 25357
+    engagement: 1073
+    commentsToLikes: 0.008168
+    id: ck9h9rem49nvb0j78nmustdth
+    verified: false
+    hashtags: "#etczine, #ifainspire, #insomniamag, #pr0ject"
+  - username: "yu_ya____1173"
+    fullname: >-
+      Yu-ya
+    bio: >-
+      ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢ OSAKA JAPAN ー TOY BOX ACCOUNT ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
+    location: "Japan"
+    followers: 22165
+    engagement: 873
+    commentsToLikes: 0.029978
+    id: ck5hdcl39mosn0i11gmraymni
+    verified: false
+    hashtags: "#agameoftones, #creativeoptic, #streetclassics, #globalnightsquad"
+  - username: "laserkola"
+    fullname: >-
+      Lasse Erkola
+    bio: >-
+      Videogame magazine Art Director from Finland. Frequently getting lost somewhere in Japan.
+    location: "Japan"
+    followers: 19261
+    engagement: 1289
+    commentsToLikes: 0.028743
+    id: ck0w6kf1q8zro0i195y86983j
+    verified: false
+    hashtags: "#alley, #cinematic, #helsinki, #woofermagazine"
+  - username: "zurkzenemixa"
+    fullname: >-
+      ⭕️  ᴀʟᴀɴ ᴊɪᴍÉɴᴇᴢ アラン ヒメネス ⭕️
+    bio: >-
+      • ʙᴀꜱᴇᴅ ɪɴ ᴛᴏᴋʏᴏ • ᴅɪᴠᴇʀꜱɪꜰɪᴇᴅ & ᴍᴜʟᴛɪᴄᴏʟᴏʀ ᴘʜᴏᴛᴏɢʀᴀᴘʜɪᴄ ᴄᴏɴᴛᴇɴᴛ • ᴅᴍ ғᴏʀ sʜᴏᴏᴛs • ᴛᴇᴀᴍ @latamambassadors 🇲🇽
+    location: "Japan"
+    followers: 4771
+    engagement: 1147
+    commentsToLikes: 0.315117
+    id: ck5c33xppyk7f0i112y7umahq
+    verified: false
+    hashtags: "#streetmobs, #pr0ject, #ptk, #ourvisualvibes"
 ---

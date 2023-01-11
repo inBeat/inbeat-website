@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Toronto in 2023
+title: Top 10 Makeup TikTok Influencers In Toronto In 2023
 description: >-
-  Find top makeup TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #foryoupage #makeup.
+  Find top makeup TikTok influencers in Toronto in 2023. Most popular hashtags: #makeup #fyp #toronto #foryou.
 platform: TikTok
-hits: 96
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 96 TikTok influencers like this in Toronto, Canada for you to work with.
+hits: 87
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 87 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
-  - username: "chloecarltonn"
-    fullname: >-
-      C
-    bio: >-
-      G🤞🏼 your positive vibe queen✨ follow me for more self love 💛 19//🇨🇦
-    location: "Canada"
-    followers: 73400
-    engagement: 2450
-    commentsToLikes: 0.033789
-    id: ckdi86bu8ah5j0j23ia42jy3l
-    verified: false
-    hashtags: "#fyp, #foryou, #ontario, #canada"
   - username: "jasgbtn"
     fullname: >-
       Jasmine Grace
     bio: >-
       Toronto 19
     location: "Canada"
-    followers: 6146
-    engagement: 914
-    commentsToLikes: 0.031406
+    followers: 5921
+    engagement: 985
+    commentsToLikes: 0.044175
     id: ck7zo5d3ohy4i0j78qsioi8jo
     verified: false
-    hashtags: "#mua, #makeup, #toronto, #fyp"
+    hashtags: "#mua, #abg, #canada, #makeup"
+  - username: "devinmccoy50"
+    fullname: >-
+      Dev 1738
+    bio: >-
+      BIG haired queer queen 👑🏳️‍🌈 94’🦁 🇨🇦 ONT.
+    location: "Canada"
+    followers: 4884
+    engagement: 1110
+    commentsToLikes: 0.038390
+    id: ckbf225fponmi0j23kb2f03wt
+    verified: false
+    hashtags: "#greenscreen, #lgbtcouples, #toocold, #greenscreenvideo"
   - username: "_ivorytowers"
     fullname: >-
       Ivory Towers
     bio: >-
-      Ivory Towers Toronto drag entertainer Instagram _ivorytowers
+      Ivory Towers Toronto drag entertainer and Twitch streamer @theivorytowers
     location: "Canada"
-    followers: 11400
-    engagement: 912
-    commentsToLikes: 0.021350
+    followers: 15100
+    engagement: 1391
+    commentsToLikes: 0.057986
     id: ck8qfxk8cypvd0j78rmtgxeiw
     verified: false
-    hashtags: "#transformation, #dragracecanada, #canada, #isolation"
-  - username: "itsnotnaba"
+    hashtags: "#rpdr, #deadbydaylight, #dragracecanada, #toronto"
+  - username: "alexkossak"
     fullname: >-
-      naba 🦋✨
+      Alex
     bio: >-
-      yyz 🇨🇦 | 18 it’s all fun and games ✨😤
+      Vibe check
     location: "Canada"
-    followers: 3856
-    engagement: 1301
-    commentsToLikes: 0.081566
-    id: ckd6fbmz474k50j23oh6ho85u
+    followers: 10500
+    engagement: 1961
+    commentsToLikes: 0.030448
+    id: ck94l432fxo9f0j78k39rkz9k
     verified: false
-    hashtags: "#foryou, #foryoupage, #naruto, #canada"
-  - username: "victoriasabovitch"
+    hashtags: "#quarantine, #foryou, #foryoupage, #fyp"
+  - username: "spencerbaby01"
     fullname: >-
-      Victoria Sabovitch🤍
+      spencerbaby01
     bio: >-
-      23 🇨🇦 Bus. only📩:Victoria@dulcedo.com
+      opinions & morale conduct are my own & do not represent my employers/affiliates
     location: "Canada"
-    followers: 612400
-    engagement: 1018
-    commentsToLikes: 0.020361
-    id: ck9kdng2puxz00j7891cbtzfr
+    followers: 77400
+    engagement: 954
+    commentsToLikes: 0.009849
+    id: ck8f7ubqm364v0j78lct3to15
     verified: false
-    hashtags: "#canadian, #foryou, #fyp, #timewarpscan"
-  - username: "olena_a"
-    fullname: >-
-      Olena.A
-    bio: >-
-      Jack of all trades: makeup, hair, painting. Toronto | ig: @olena.a
-    location: "Canada"
-    followers: 9086
-    engagement: 1010
-    commentsToLikes: 0.048367
-    id: ck92uyo3vo9cj0j78nl4zkt6n
-    verified: false
-    hashtags: "#duet, #jockermakeup, #wipechallengetiktok, #gosling"
+    hashtags: "#trend, #fy, #boyfriend, #tiktokph"
   - username: "muanatasha"
     fullname: >-
       natasha lamarche
     bio: >-
       🇬🇾🇨🇦 ✨ makeup advice + tips + tutorials ✨ 🦋 makeup artist from toronto 🦋
     location: "Canada"
-    followers: 30500
-    engagement: 678
-    commentsToLikes: 0.019767
+    followers: 43100
+    engagement: 628
+    commentsToLikes: 0.020115
     id: ck9c6c3mgr0c60j78q9c86j49
     verified: false
-    hashtags: "#foryou, #makeupchallenge, #hipdips, #drugstoremakeup"
-  - username: "xnisamalik"
+    hashtags: "#skincare, #foryou, #makeuphacks, #hairless"
+  - username: "victoriasabovitch"
     fullname: >-
-      nise
+      Victoria Sabovitch🤍
     bio: >-
-      she/ they 🇵🇰🇨🇦 BLM 🏳️‍🌈
+      23 🇨🇦🌈 She/her/princess Bus. only📩:Victoria@dulcedo.com
     location: "Canada"
-    followers: 51400
-    engagement: 911
-    commentsToLikes: 0.019452
-    id: ck9fdr0nkpt300j78dk1d0npf
+    followers: 671600
+    engagement: 1167
+    commentsToLikes: 0.030123
+    id: ck9kdng2puxz00j7891cbtzfr
     verified: false
-    hashtags: "#ootd, #fyp, #transformation, #toronto"
-  - username: "gloria.schonfeld"
+    hashtags: "#beauty, #canadian, #dollskill, #makeup"
+  - username: "hennabyramnik1"
     fullname: >-
-      Glo❤️
+      Ramnik Kaur
     bio: >-
-      Glo❤️ Toronto🇨🇦
+      Henna Artist + Nail Tech during the day - Chef by night!
     location: "Canada"
-    followers: 3461
-    engagement: 999
-    commentsToLikes: 0.112784
-    id: ckcp9i0gfec4v0j23ju8bkpvt
+    followers: 8714
+    engagement: 353
+    commentsToLikes: 0.009884
+    id: ckc35jmt9uqif0j23k4g7kd92
     verified: false
-    hashtags: "#cookinghacks, #tiktokgraduation, #getmicrowavy, #foryou"
-  - username: "oknehaa"
+    hashtags: "#makeuplover, #toronto, #punjabi, #makeup"
+  - username: "iamabira"
     fullname: >-
-      Okneha
+      Abira
     bio: >-
-      Lets tik talk about it
+      🇨🇦Ontario Ceo of trying random things😉 20K?
     location: "Canada"
-    followers: 4436
-    engagement: 1075
-    commentsToLikes: 0.062256
-    id: ckc7pdrd9v3wo0j237ba47kkx
+    followers: 15900
+    engagement: 1060
+    commentsToLikes: 0.035296
+    id: ck90r2agwkt2l0j78f7jhaegy
     verified: false
-    hashtags: "#foryoupage, #naturevibes, #vlog, #fyp"
+    hashtags: "#greenscreensticker, #greenscreen, #birthday, #fyp"
+  - username: "lunalindsay"
+    fullname: >-
+      lunalindsay
+    bio: >-
+      boho style child🌸✌🏼 plant mom🌿🌵 follow me on ig: @luna.lindsay🌛
+    location: "Canada"
+    followers: 25700
+    engagement: 1039
+    commentsToLikes: 0.033881
+    id: ckd621x5a1opf0j23eg3bjs9s
+    verified: false
+    hashtags: "#fyp, #feelinggood, #bohohome, #hellospring"
 ---

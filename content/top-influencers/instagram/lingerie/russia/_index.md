@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Russia in 2023
+title: Top 10 Lingerie Instagram Influencers In Russia In 2023
 description: >-
-  Find top lingerie Instagram influencers in Russia in 2023. Most popular hashtags: #liquidleggings #latexfetish #lingeriemodel.
+  Find top lingerie Instagram influencers in Russia in 2023. Most popular hashtags: #leatherdress #blackleatherpants #blackleather.
 platform: Instagram
-hits: 118
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 118 Instagram influencers like this in Russia for you to collaborate.
+hits: 175
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 175 Instagram influencers like this in Russia for you to work with.
 profiles:
   - username: "viktorovich_9541"
     fullname: >-
       Svetlana
     bio: >-
-      Минск🇧🇾 🐉girl with a motorcycle 🏍️ 🖤 leather lover 🖤 Шью нижнее белье 😈@viktorovich_lingerie 💙
+      🐉girl with a motorcycle 🏍️ 🖤 leather lover 🖤 Шью нижнее белье 😈@viktorovich_lingerie 💙
     location: "Russia"
-    followers: 9399
-    engagement: 1740
-    commentsToLikes: 0.034952
+    followers: 9489
+    engagement: 1510
+    commentsToLikes: 0.040577
     id: ck8t1twijx0m70j78niklxfkc
     verified: false
-    hashtags: "#latexleggings, #liquidleggings, #leatherleggings, #leggingsfetish"
-  - username: "ali_sha_li"
+    hashtags: "#blackleatherpants, #skintight, #pvc, #leggingsfetish"
+  - username: "humanmodell"
     fullname: >-
-      Агеева Алина | Ageeva Alina
+      Diana Lukmanova
     bio: >-
-      •Психологиня-феминистка профессионально копающаяся в мозгах ⠀ •Дотанцевалась до Чемпионки Мира Самое красивое белье тут➡️ @shali_lingerie
+      🧿 По рекламе : humanmodell@wildjam.ru Реклама @humanmodell_pr_ Создатель: @polka_outfit 🎀 @lukmanova_lingerie
     location: "Russia"
-    followers: 50858
-    engagement: 450
-    commentsToLikes: 0.049353
-    id: ck137ewffb7c40i1940inyakj
+    followers: 1193430
+    engagement: 443
+    commentsToLikes: 0.013197
+    id: ck5zrjlkkwpck0i149c3rxx8g
     verified: false
-    hashtags: "#artecreonline, #dance, #ballroom, #ballromdance"
+    hashtags: ""
+  - username: "gorbachevva"
+    fullname: >-
+      фотограф•видеограф•краснодар
+    bio: >-
+      DARIA GORBACHEVA🎬 ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀Здесь душа, творчество и чувства🌾 ⠀⠀ ⠀⠀ •——————————————————• founder @rever_lingerie
+    location: "Russia"
+    followers: 34782
+    engagement: 602
+    commentsToLikes: 0.018344
+    id: ck5pwvfdwosrb0i11w0c68ozs
+    verified: false
+    hashtags: "#gorbachevva, #photoshoot, #backstage, #jomalonelondon"
   - username: "irina.averina.photo"
     fullname: >-
       Irina Averina
     bio: >-
       Photographer from Moscow🔞 Animal lover 😻 My brand of lingerie @averina.lingerie Резервный аккаунт @irina.averina.ph Обучение ретуши Now in Moscow 📍
     location: "Russia"
-    followers: 41578
-    engagement: 268
-    commentsToLikes: 0.026146
+    followers: 46648
+    engagement: 430
+    commentsToLikes: 0.018310
     id: ck55jzi2sy4o20i11otpze1b9
     verified: false
-    hashtags: "#lingerie, #averinalingerie"
-  - username: "kandikova_alexandra"
+    hashtags: "#luxxusmagazine, #lingerie, #averinalingerie, #blackfriday"
+  - username: "loren_music_official"
     fullname: >-
-      K A N D I K O V A
+      Лорен Тирольская
     bio: >-
-      Делай то, что любишь и люби то, что делаешь 🙌🏽 Шью) Отзывы @kandikova_product_review 🖤 Sport 🖤 Lingerie 🖤 Swimwear 🖤
+      🌟Творческая личность💫 💝 My brainchild @l.collection.lingerie
     location: "Russia"
-    followers: 5336
-    engagement: 264
-    commentsToLikes: 0.048544
-    id: ck6u6851pe29y0j71krub77yh
+    followers: 106611
+    engagement: 127
+    commentsToLikes: 0.042062
+    id: ck6tk8mh747pu0j71rfezq5cj
+    verified: false
+    hashtags: "#hautecouture, #milan, #almaty, #aktau"
+  - username: "voronina_model"
+    fullname: >-
+      Модель 🇺🇦
+    bio: >-
+      𝘼𝙢𝙗𝙖𝙨𝙨𝙖𝙙𝙤𝙧 @fox_lingerie ❤️ ⠀ Пишу свои мысли 💭 Реклама 👉🏻 𝘿𝙞𝙧𝙚𝙘𝙩 Exclusive content ⤵️🔞🍒
+    location: "Russia"
+    followers: 141236
+    engagement: 261
+    commentsToLikes: 0.014310
+    id: ck0tww8y9h0kh0i19rmwic721
     verified: false
     hashtags: ""
   - username: "lina_tsapova"
     fullname: >-
       Lina Tsapova
     bio: >-
-      muse of @merci_lingerie artist @temptation.of.art
+      🧢 now Kyiv muse of @merci_lingerie artist @temptation.of.art
     location: "Russia"
-    followers: 8861
-    engagement: 413
-    commentsToLikes: 0.027105
+    followers: 9035
+    engagement: 377
+    commentsToLikes: 0.028272
     id: ck6tn41b493b30j71m5a1bfyx
     verified: false
     hashtags: ""
-  - username: "humanmodell"
+  - username: "____lubimova____"
     fullname: >-
-      Diana Lukmanova
+      💕💕💕👩‍❤️‍👨💎💕💕💕🤫❤️
     bio: >-
-      Founder @lukmanova_lingerie Реклама @humanmodell_pr_
+      💖🐭 Ambassador @leon.lingerie Ambassador @al__bon
     location: "Russia"
-    followers: 495142
-    engagement: 1147
-    commentsToLikes: 0.008727
-    id: ck5zrjlkkwpck0i149c3rxx8g
+    followers: 225887
+    engagement: 247
+    commentsToLikes: 0.001900
+    id: ckaozic8gm0lu0i78677vffqp
     verified: false
     hashtags: ""
-  - username: "olesyakuba"
+  - username: "kandikova_alexandra"
     fullname: >-
-      OLESYA KUBA • Fashion • Israel
+      K A N D I K O V A
     bio: >-
-      • #Fashion #MotherBlog • Jack Kuba Lingerie 👙 • 💌 stylist@olesyakuba.com
+      Делай то, что любишь и люби то, что делаешь 🙌🏽 Шью) Отзывы @kandikova_product_review 🖤 Sport 🖤 Lingerie 🖤 Swimwear 🖤
     location: "Russia"
-    followers: 63529
-    engagement: 133
-    commentsToLikes: 0.065924
-    id: ck6tw0dcppa0y0j71vw26sp6v
-    verified: false
-    hashtags: "#quarantinelife, #ootd, #staysafe, #quarantineandchill"
-  - username: "fari_i_mari_daryat"
-    fullname: >-
-      Фарида и Марьям
-    bio: >-
-      Набор спонсоров на 9 гив от @fari_jabrailova и @mariya.lingerie .Главный приз IPhone 11 . Стоп через 1 день!
-    location: "Russia"
-    followers: 90826
-    engagement: 64
-    commentsToLikes: 0.170205
-    id: ck8sztzykppeh0j78c5cxd792
+    followers: 4939
+    engagement: 318
+    commentsToLikes: 0.050759
+    id: ck6u6851pe29y0j71krub77yh
     verified: false
     hashtags: ""
-  - username: "misstease_lingerie"
+  - username: "anastasiya_morgul"
     fullname: >-
-      Нижнее белье MissTease
+      Фотограф 📸
     bio: >-
-      Люби, дразни, соблазняй ♥️ Собственное производство Примерка перед покупкой Worldwide shipping WA: +79022876689 Заказать: Директ или WA ⤵️
+      Делаю самые элегантные фотографии📸 Создаю лучшие купальники @elegance_lingerie_ 👙 ⠀ Занимаюсь только тем, что люблю🙌🏻
     location: "Russia"
-    followers: 129519
-    engagement: 153
-    commentsToLikes: 0.007228
-    id: ck5bxiqbxnsxv0i11sk7a9z8d
+    followers: 2871
+    engagement: 620
+    commentsToLikes: 0.037268
+    id: ck5q3moeilgw00i114thur882
     verified: false
-    hashtags: "#scarlett, #kink, #misstease, #candy"
-  - username: "liana_shel"
-    fullname: >-
-      𝙢𝙤𝙙𝙚𝙡𝙞𝙣𝙜|𝙛𝙖𝙨𝙝𝙞𝙤𝙣|𝙗𝙚𝙖𝙪𝙩𝙮
-    bio: >-
-      Professional model ▫️shootings▫️fashion show▫️photo-project Fitness model Finalist MrsWorld Belarus Cooperation & advertising 💌 Portfolio ⬇️
-    location: "Russia"
-    followers: 30259
-    engagement: 205
-    commentsToLikes: 0.102466
-    id: ck6ui7k4gdid70j7167vjraqw
-    verified: false
-    hashtags: "#lingeriemodel, #muah, #fitnessmodel, #fashionlook"
+    hashtags: "#streetfashion, #totalblack"
 ---

@@ -1,22 +1,22 @@
 ---
-title: Top 10 Instagram Influencers In Boston in 2023
+title: Top 10 Instagram Influencers In Boston In 2023
 description: >-
-  Find top Instagram influencers in Boston in 2023. Most popular hashtags: #boston #liketkit #ad.
+  Find top Instagram influencers in Boston in 2023. Most popular hashtags: #ad #sponsored #massachusetts.
 platform: Instagram
-hits: 2033
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 2033 Instagram influencers like this in Boston, United States for you to collaborate.
+hits: 2166
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 2166 Instagram influencers like this in Boston, United States for you to pitch.
 profiles:
-  - username: "maggiemacdonald"
+  - username: "jillianxshepherd"
     fullname: >-
-      Maggie MacDonald
+      j i l l i a n s h e p h e r d
     bio: >-
-      Boston
+      BOSTON
     location: "United States"
-    followers: 192121
-    engagement: 1431
-    commentsToLikes: 0.004493
-    id: ck5zt6mnrzu670i14y1jc91xm
+    followers: 5917
+    engagement: 1794
+    commentsToLikes: 0.003045
+    id: ckf5mkaxau7g40j23ko4ssrz2
     verified: false
     hashtags: ""
   - username: "boston"
@@ -25,106 +25,106 @@ profiles:
     bio: >-
       Share your great shots of Boston using #bostondotcom and #HowToBoston and you could be featured.
     location: "United States"
-    followers: 350783
-    engagement: 210
-    commentsToLikes: 0.006854
+    followers: 400311
+    engagement: 158
+    commentsToLikes: 0.023074
     id: ck0vzq4xhacl00i19eaf52et9
     verified: true
-    hashtags: ""
+    hashtags: "#beantown, #bostonphoto, #bostonphotography, #igboston"
   - username: "tsavvv"
     fullname: >-
       Tim Savage
     bio: >-
       Boston
     location: "United States"
-    followers: 3953
-    engagement: 1377
-    commentsToLikes: 0.047049
+    followers: 4189
+    engagement: 1798
+    commentsToLikes: 0.053865
     id: ck5hglnyy3fot0i11jcpnumal
     verified: false
     hashtags: "#rossnorman"
+  - username: "eatingallofny"
+    fullname: >-
+      EATING ALL OF NYC | NYC Food
+    bio: >-
+      Yes I’m the foodie friend 👩🏻‍💻 @kat.irene 📍NYC (and sometimes Boston) 🎉DM or email for collabs 📩 eatingallofny@gmail.com
+    location: "United States"
+    followers: 33531
+    engagement: 619
+    commentsToLikes: 0.049642
+    id: cl6oixfuslgs80i23l95idj22
+    verified: false
+    hashtags: "#westvillage, #uppereastside, #nycfood, #manhattan"
+  - username: "blakeswanson"
+    fullname: >-
+      BLAKE SWANSON
+    bio: >-
+      hi! 🫶🏼 boston gal routines, recipes, tips, travel.. a bit of everything 🤍 📩 helloblakeswanson@gmail.com links ↓
+    location: "United States"
+    followers: 108712
+    engagement: 226
+    commentsToLikes: 0.005097
+    id: ckw1cd1s5gls90j23xu0f44qj
+    verified: false
+    hashtags: "#newhorizonsatsea, #mscseascape, #ad, #sponsored"
+  - username: "runmeb"
+    fullname: >-
+      Meb Keflezighi
+    bio: >-
+      Boston Marathon Champion NYC Marathon Champion Olympic Silver Medalist Runner
+    location: "United States"
+    followers: 121595
+    engagement: 110
+    commentsToLikes: 0.014903
+    id: ck135pf092kqw0i19i7ellh3i
+    verified: true
+    hashtags: "#worldsfastest5k, #medalmonday, #carlsbad5000, #runtowin"
+  - username: "domestikateblog"
+    fullname: >-
+      Kate Bowler
+    bio: >-
+      Blogger at Domestikatedlife.com 🏆 @saveurmag Best Entertaining Blog 📚 Author of #NewEnglandInvite 👯‍♀️ @bosbloggers 📍Boston South Shore
+    location: "United States"
+    followers: 31242
+    engagement: 46
+    commentsToLikes: 0.096293
+    id: ck55msxfm4pez0i11w6anski4
+    verified: false
+    hashtags: "#traderjoesthanksgiving, #traderjoesrecipes, #traderjoes, #domestikateholiday"
   - username: "laanuhh"
     fullname: >-
       Lana Nguyen ❥ Travel
     bio: >-
       📍Boston Explore↟Yoga↟Create ≫ ≫ Roam the roads Wander the world ≪ ≪ Travel Ambassador➳@contiki $100 off code CONTIKILANA100
     location: "United States"
-    followers: 20216
-    engagement: 1061
-    commentsToLikes: 0.105971
+    followers: 22950
+    engagement: 1064
+    commentsToLikes: 0.098516
     id: ck5hfws99zqsf0i11x1vcfr75
     verified: false
-    hashtags: "#chooseyourmindset, #ad, #imafan, #mobostonrenewed"
-  - username: "liliibooo"
+    hashtags: "#kohls, #ad, #sponsored, #imafan"
+  - username: "sissiwang12"
     fullname: >-
-      Lili ♡
+      SISSI WANG🕊
     bio: >-
-      Boston @lavishhlii @liliiboo_
+      ✰ bellevue, washington ✰ boston university ‘24 ✰ @musemanagement
     location: "United States"
-    followers: 31047
-    engagement: 1093
-    commentsToLikes: 0.043489
-    id: ckap6p6sogue50i7809uee5ls
+    followers: 4537
+    engagement: 2547
+    commentsToLikes: 0.117563
+    id: ckap68nk7ev020i78zbmw3sn2
     verified: false
-    hashtags: "#explorepage, #ad, #explore, #alamourthelabel"
-  - username: "_happygocurly_"
-    fullname: >-
-      Ailsa (A-L-SA)
-    bio: >-
-      Certified nurse midwife(CNM) 👶🏽 From Boston to Miami📍 https://www.liketoknow.it/_happygocurly_ happygocurlyae@gmail.com #milspouse #happygocurlywhw
-    location: "United States"
-    followers: 39474
-    engagement: 516
-    commentsToLikes: 0.061465
-    id: ck138blq1ffhy0i19laukykwv
-    verified: false
-    hashtags: "#ltkcurves, #liketkit, #ltkstyletip, #ltkunder50"
+    hashtags: "#18"
   - username: "lilywunders"
     fullname: >-
       Lily | Lily Wunders
     bio: >-
-      📍Hong Kong 香港🇭🇰 - based | Boston native 🇺🇸 ✨Traveler✨Content Creator Read my latest!!
+      📍Hong Kong 香港🇭🇰 - based | Boston native 🇺🇸 ✨Traveler✨Content Creator DM or lilywunders@gmail.com Read my latest on traveling during COVID!
     location: "United States"
-    followers: 6350
-    engagement: 1453
-    commentsToLikes: 0.099409
+    followers: 6274
+    engagement: 1197
+    commentsToLikes: 0.096055
     id: ck8t9p6z8ou1f0j789mkksvxh
     verified: false
-    hashtags: "#hongkongtravel, #hongkongview, #exploreeverywhere, #discoverhongkong"
-  - username: "kristinhhj"
-    fullname: >-
-      Kristin Twomey ⭐️
-    bio: >-
-      💍 PJT 👶🏼 Tighe’s mom 🐶 pitbull mom x 2 💫 owner of @shophollishayes 📍Boston 💌 kristin@hollishayes.com
-    location: "United States"
-    followers: 8083
-    engagement: 919
-    commentsToLikes: 0.094130
-    id: ckaoz1iu3jz6q0i78g3r0be7a
-    verified: false
-    hashtags: "#babyty, #liketkit, #ltkfamily, #nationalsonsday"
-  - username: "allldatjazz"
-    fullname: >-
-      Jazz
-    bio: >-
-      oVo ♏ 🦂Boston🍀 ICU RN👩🏾‍⚕️🏥 🏫 Mommy 👦🏾👶🏾👶🏾 @hichairchronicles
-    location: "United States"
-    followers: 2414
-    engagement: 1772
-    commentsToLikes: 0.155085
-    id: ckap78l8lj0ok0i78y640587h
-    verified: false
-    hashtags: "#tresequis, #xmen, #boymom, #babyboy"
-  - username: "chasingdrwhite"
-    fullname: >-
-      𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐚 𝐌. 𝐖𝐡𝐢𝐭𝐞
-    bio: >-
-      Boston 📍 Full time DMD student 👩🏽‍⚕️, Full time plant mom (10) 🌿 𝒟𝓇. 𝒲𝒽𝒾𝓉𝑒, in the making 🦄 1913 🔺 UCF AlumKnight
-    location: "United States"
-    followers: 2200
-    engagement: 2541
-    commentsToLikes: 0.071125
-    id: ckf5w8nzyr93e0j23twejie4i
-    verified: false
-    hashtags: "#naturalhair, #twa, #boston, #studentdoctor"
+    hashtags: "#traveldames, #journeysofgirls, #hongkongbloggers, #hongkongig"
 ---

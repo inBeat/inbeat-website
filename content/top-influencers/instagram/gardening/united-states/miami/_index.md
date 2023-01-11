@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Miami in 2023
+title: Top 10 Gardening Instagram Influencers In Miami In 2023
 description: >-
-  Find top gardening Instagram influencers in Miami in 2023. Most popular hashtags: #gardening #love #nature #miami.
+  Find top gardening Instagram influencers in Miami in 2023. Most popular hashtags: #gardening #miami #fashion #reels.
 platform: Instagram
-hits: 9
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 9 Instagram influencers like this in Miami, United States for you to work with.
+hits: 8
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 8 Instagram influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "delectable.day"
+  - username: "analuciatejeira10"
     fullname: >-
-      Tien Hung
+      Ana Lucia Tejeira Healy 🍃🇵🇦
     bio: >-
-      Gardening in Miami 🍲 @nourishingpursuit ✉️ hello@delectableday.com @hoselinkofficial Ambassador
+      Reina de Festival del Sombrero Pintao 🎩 Diseñadora de Interiores 👷🏼‍♀️ @lateralstudio.interiors Señorita Panamá 2019
     location: "United States"
-    followers: 31459
-    engagement: 194
-    commentsToLikes: 0.051040
-    id: ck8t277meye5v0j78lv704r8r
+    followers: 10080
+    engagement: 875
+    commentsToLikes: 0.056566
+    id: ck0vxd0isyai90i19vnbxu3yq
     verified: false
-    hashtags: "#summergarden, #organicgardening, #urbangarden, #homegrownveggies"
-  - username: "theawkwardbloggers"
+    hashtags: "#beach, #miami, #paradise, #europe"
+  - username: "superflexstudio"
     fullname: >-
-      Miami Living
+      SUPERFLEX
     bio: >-
-      Just ✌🏻 awkward peeps 🤓 trying to capture delicious food & magical places Sheila 💁🏼‍♀️💉💊 Victor 💁🏻‍♂️🧬😀
+      @kukjegallery @nilsstaerk @1301pe @vonbartha @galeriaomr @tba21academy
     location: "United States"
-    followers: 4365
-    engagement: 871
-    commentsToLikes: 0.207063
-    id: ckapcpnw84p4u0i78e8rendom
+    followers: 19203
+    engagement: 203
+    commentsToLikes: 0.009314
+    id: ck5c0coqvsvp60i115cwsmqgr
     verified: false
-    hashtags: "#instafood, #eat, #foodporn, #food"
-  - username: "peculiarandalluring"
+    hashtags: "#superflex, #colorofmoney, #herlevhospital, #nilsstaerk"
+  - username: "kerrieandspence"
     fullname: >-
-      Flair Robinson
+      Kerrie and Spence
     bio: >-
-      Artist watching artists and the unusual. My work @flairrobinson
+      •The Block 2018 📧kerrieandspence@gmail.com •@4shedsproject •Ambassadors @sunbury_ford •Ambassadors @greenhipworkwear •Ambassadors @rug_addiction
     location: "United States"
-    followers: 9848
-    engagement: 670
-    commentsToLikes: 0.029676
-    id: ck0vuw3eumfe80i19gg4cuvkg
-    verified: false
-    hashtags: "#artoftheday, #artcollectors, #singapore, #peculiarandandalluring"
-  - username: "prestigetree"
-    fullname: >-
-      Ty
-    bio: >-
-      Photography taken during work research and traveling tyclimbstrees
-    location: "United States"
-    followers: 194726
-    engagement: 68
-    commentsToLikes: 0.001803
-    id: ck14j2dqfia8c0i19i6xf8k6v
-    verified: false
-    hashtags: "#inspirephotography, #birds, #travel, #instagood"
-  - username: "rjistudio"
-    fullname: >-
-      Raymond Jungles, Inc.
-    bio: >-
-      Since 1985, RJI, under the leadership of Raymond Jungles, FASLA, has developed a dynamic practice inspired by the ethic of stewardship of the land.
-    location: "United States"
-    followers: 8306
-    engagement: 398
-    commentsToLikes: 0.028623
-    id: ck6tnv448amyu0j710ec9ffuo
-    verified: false
-    hashtags: "#plants, #modern, #flora, #landscapearchitect"
-  - username: "dayanarapr"
-    fullname: >-
-      Dayanara Torres
-    bio: >-
-      MissUniverse93👑Actress💃🏻Model 📕Author "MarriedToMe"-above all🇵🇷MOM-Guerrera 🐥/FB: @dayanarapr Mgt: jennifer@niemangroup.com MelanomaCancerPetition📝
-    location: "United States"
-    followers: 1470148
-    engagement: 84
-    commentsToLikes: 0.031711
-    id: ck0ty8q62lxuf0i19i3ckonl3
+    followers: 26293
+    engagement: 162
+    commentsToLikes: 0.089995
+    id: ck8sxd2mogy7x0j78fhdw4fmv
     verified: true
-    hashtags: "#boricua, #dayanarasrecipechallenge, #repost, #puertorico"
-  - username: "beerbabejess"
+    hashtags: "#architecturelovers, #architect, #house, #countryliving"
+  - username: "brie.thiele"
     fullname: >-
-      
+      Brie Thiele
     bio: >-
-      📍Chicago Beer writer + beer babe shop All for beer + beer for all 🙌🏻🙌🏽🙌🏿 Member of the North American Guild of Beer Writers Blog + merch:
+      PKA Agency | BGA Talent
     location: "United States"
-    followers: 8033
-    engagement: 781
-    commentsToLikes: 0.038913
-    id: ckap3lbt33hfa0i786x583xea
+    followers: 38675
+    engagement: 155
+    commentsToLikes: 0.160316
+    id: ck5hexlu1v3140i116q6gnexl
     verified: false
-    hashtags: "#womeninbeer, #hops, #craftbeer, #drinkbeer"
-  - username: "designsbyjazmyne"
+    hashtags: "#savvi, #fun, #tgif, #losangeles"
+  - username: "therealgymguy"
     fullname: >-
-      ⠀⠀  ⠀⠀⠀⠀⠀⠀ DesignsByᎫᎯℤℳᎽℕÉ 🍃
+      Shakes
     bio: >-
-      ⠀⠀⠀⠀⠀⠀-⠀Fashion Designer - Creator - Model ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ NEED A MASK?😷SHOP HERE ⤵️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      Not your typical bodybuilder Just trying to make fitness fun again💥
     location: "United States"
-    followers: 9518
-    engagement: 632
-    commentsToLikes: 0.050833
-    id: ckaoqmq38jemy0i78oc4i2b0u
+    followers: 8062
+    engagement: 703
+    commentsToLikes: 0.064253
+    id: ckap4oimi865t0i78yav6oe7r
     verified: false
-    hashtags: "#meditation, #naturalhairstyles, #explorepage, #festivalhair"
-  - username: "highcarbhannah"
+    hashtags: "#fashion, #melanin, #ifbb, #physique"
+  - username: "redcarpetroxy"
     fullname: >-
-      HighCarbHannah
+      Roxy Manning | Red Carpet Roxy
     bio: >-
-      🌱 -70lbs on a plant based diet 🐷🐥🐮 VEGAN for the animals ❤️ @handeeman_ Free weight loss recipes in link below! 🥗 My Bestselling Weight Loss Guide 👇🏼
+      @womenontopofficial Podcast | On-Air Correspondent | EIC RedCarpetRoxy.com | Style Expert | Proud Mama | Traveler | Animal Lover | Life Enthusiast l
     location: "United States"
-    followers: 202851
-    engagement: 175
-    commentsToLikes: 0.026976
-    id: ck8syil0rkx9l0j785fqdxvlu
+    followers: 121007
+    engagement: 91
+    commentsToLikes: 0.118953
+    id: ckf5xkkt8vz660j23lyueslo2
     verified: false
-    hashtags: "#healthyfood, #vegan, #growyourownfood, #veganrecipes"
-  - username: "seldabelda"
+    hashtags: "#podcastforwomen, #family, #liketkit, #womenontop"
+  - username: "samchampion"
     fullname: >-
-      anna aromin | ↟ pnw ↟
+      Sam Champion
     bio: >-
-      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+      Multiple Emmy and Peabody award winning Journalist.. Happy husband of amazing artist @rubemrobierbart! C U MON-THU @abc7ny #bringcoffee #firstawake
     location: "United States"
-    followers: 34042
-    engagement: 337
-    commentsToLikes: 0.098448
-    id: ck14kkiiwpyiz0i19q3we0t10
+    followers: 147695
+    engagement: 488
+    commentsToLikes: 0.050401
+    id: ck15uvkbmopnw0i19grc22bdg
+    verified: true
+    hashtags: "#roses, #rooftopgarden, #nyc, #bringcoffee"
+  - username: "angieknowsthetruth"
+    fullname: >-
+      Angie 𝕩 Cincinnati Influencer
+    bio: >-
+      🙋‍♀️Angie Haering 📍Cincinnati, OH 🏝 @bythebeachandbay 🏚 @madeirahomemakeover 🌃 @cincinnatiinfluencers
+    location: "United States"
+    followers: 11890
+    engagement: 245
+    commentsToLikes: 0.122767
+    id: ck1389k5vf5tz0i196f048p8p
     verified: false
-    hashtags: "#freelensed, #vintagelens, #bnw, #talesofthemoment"
+    hashtags: "#cincinnatimom, #cincinnatibloggers, #angieknowsthetruth, #gulfofmexico"
+  - username: "northwoodsfolk"
+    fullname: >-
+      Sunny // Folk Living                                       🌲MN🌲
+    bio: >-
+      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+    location: "United States"
+    followers: 131357
+    engagement: 474
+    commentsToLikes: 0.067900
+    id: ckx3j50xwzxpa0j2331ss8l9z
+    verified: false
+    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
+  - username: "laurenselfblogs"
+    fullname: >-
+      Lauren
+    bio: >-
+      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+    location: "United States"
+    followers: 18656
+    engagement: 1858
+    commentsToLikes: 0.022000
+    id: ck8t1vbnlx6dp0j782ei1ya9s
+    verified: false
+    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
 ---

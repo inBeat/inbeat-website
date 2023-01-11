@@ -1,24 +1,48 @@
 ---
-title: Top 10 Divers Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Divers Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top divers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #positivevibes #reading.
+  Find top divers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #visitdubai #mydubai #diversity.
 platform: Instagram
-hits: 12
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 11
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
   - username: "jessicasmith27"
     fullname: >-
       Jessica Smith OAM
     bio: >-
-      SPEAKER | MC | AUTHOR Paralympian 🏊🏼‍♀️ Diversity & Inclusion Advisor CoFounder @happynewskids Patron @aussiehands Author @littlemissjessicabooks
+      Paralympian 🏊🏼‍♀️ Speaker | MC | Author Diversity & Inclusion Advisor Body Image & Disability Activist Dubai 📍#diversityandinclusion Plant Based🌱
     location: "United Arab Emirates"
-    followers: 56057
-    engagement: 200
-    commentsToLikes: 0.028221
+    followers: 56141
+    engagement: 214
+    commentsToLikes: 0.033300
     id: ck5hfba4vwocd0i11nq7maa9d
     verified: true
-    hashtags: "#lifewithonehand, #aussiehands, #amputee, #limbdifference"
+    hashtags: "#disability, #difference, #motherhood, #diversity"
+  - username: "nicol999"
+    fullname: >-
+      Niki Dunckova
+    bio: >-
+      From🇸🇰 📍Dubai Surf🏄🏼‍♀️ & Skate 🛹 Certified Diver & Freediver 🤿 Oceanlover 🌊 Sport Freak Sharing Travel Pics & Experiences ✈️🌏
+    location: "United Arab Emirates"
+    followers: 4235
+    engagement: 1192
+    commentsToLikes: 0.032464
+    id: ckap5vchydboc0i78exqeicsf
+    verified: false
+    hashtags: "#maldivesresorts, #hightatras, #maldivesbeach, #vysoke"
+  - username: "mishaalsraw"
+    fullname: >-
+      Dubai Videographer
+    bio: >-
+      Self taught content creator🎥 Saved by grace ✞ Scuba diver🤿 #ProjectAWARE #Savetheocean
+    location: "United Arab Emirates"
+    followers: 6858
+    engagement: 1075
+    commentsToLikes: 0.067557
+    id: ck14lg0m7uha20i19c2lu2gxg
+    verified: false
+    hashtags: "#emirates, #bestplacestogo, #justaportrait, #dubaifog"
   - username: "abdualla75"
     fullname: >-
       
@@ -33,98 +57,74 @@ profiles:
     hashtags: ""
   - username: "tomlebaric"
     fullname: >-
-      cinematographer.ae
+      DOP. Steadicam . Arri Trinity
     bio: >-
       Cinematographer / Steadicam op / Steadicam Segway / Arri Trinity operator/owner / Drone operator / Documentary film maker / Diver Cell: +971561056620
     location: "United Arab Emirates"
-    followers: 13150
-    engagement: 478
-    commentsToLikes: 0.007949
+    followers: 13569
+    engagement: 354
+    commentsToLikes: 0.013023
     id: ck5c6i52b5hhm0i11b3nn0w27
     verified: false
-    hashtags: "#filmingindubai, #cameraoperator, #dxbmedia, #dubaiarritrinityoperator"
-  - username: "africaanah"
+    hashtags: "#exovest, #flowcinexarm, #filmsetdubai, #steadicamoperatordubai"
+  - username: "q8_free_diver"
     fullname: >-
-      Nada | Book Blogger
+      Abdullah Alsabri
     bio: >-
-      📚|The One With The Reading Addiction 📍|Abu Dhabi 🇦🇪 👩🏽‍⚖|BookClub Moderator @d10cafe #influencer #bookstagramista
+      FII-Freediving and Spearfishing Instructor Trainer مدرب مدربين غوص حر و صيد بالمسدس Mechanical Engineer/ Fire Force/Marine Search & Rescue Kuwait📍
     location: "United Arab Emirates"
-    followers: 28925
-    engagement: 396
-    commentsToLikes: 0.035616
-    id: ck134bxwevoyf0i192sfpralq
+    followers: 22765
+    engagement: 288
+    commentsToLikes: 0.050942
+    id: ck6tjlj452y6b0j714p1vgdet
     verified: false
-    hashtags: "#bookish, #branding, #friendstvshow, #reading"
-  - username: "asmaoriginal"
+    hashtags: "#mackerel, #kuwait, #kingmackerel, #kingfish"
+  - username: "blackmarlin.divers"
     fullname: >-
-      Asma Enayeh 🌸 أسماء عناية
+      Black Marlin Divers
     bio: >-
-      🌼 A Dreamer • Shorty • Left Handed 🌿 Represented by @astoundusagency Founder: #kidlitober Co-Founder: #bonvoyageweek, #magicmoonweek ➖ Dubai Website:
+      @coach.tony.antoun #redsea #friends #family #activities #fun #love #underwater #jeddah #lebanon #jordan #uae #kuwait #blackmarlindivers 966 55 3687878
     location: "United Arab Emirates"
-    followers: 6964
-    engagement: 550
-    commentsToLikes: 0.141501
-    id: ck6u3xbnd0f970j71bvqh64o9
+    followers: 5058
+    engagement: 557
+    commentsToLikes: 0.002031
+    id: ck6ttbw9f9qso0j71x07ifd4s
     verified: false
-    hashtags: "#ink, #kidlitober2020, #instaart, #voyage"
-  - username: "sarashafni"
+    hashtags: "#sports, #family, #saudiarabia, #ballet"
+  - username: "czworonas"
     fullname: >-
-      𝑺𝒂𝒓𝒂𝒉 𝑺𝒉𝒂𝒇𝒏𝒊 | سارة شافني 🧿
+      C Z W O R O N A S
     bio: >-
-      ⚜ Global Peace Ambassador ⚜ Editor - LWS Magazine ⚜ Award Winning Blogger 🇦🇪 Dubai Born and Bred #modestfashion #bodypositivity More About Me ⬇️
+      ✈︎Travel with kids ♥︎ Family goals ♀Karolina OWNER @oplotka ♂Jacek @jacekgluchowski 🅙🅤🅛🅚🅐 8yo 🅩🅞🅢🅘🅐 5yo ✉︎ hello@czworonas.com 📍HOME 🇵🇱 📽DUBAI
     location: "United Arab Emirates"
-    followers: 49101
-    engagement: 101
-    commentsToLikes: 0.141624
-    id: ckaorzvinpik90i78t9g3euqc
+    followers: 22250
+    engagement: 281
+    commentsToLikes: 0.022259
+    id: ck15qltgw3gt60i195gtyb6p5
     verified: false
-    hashtags: "#mydubai, #modestfashionblogger, #skincareblogger, #beautycommunity"
-  - username: "haneenodeh"
+    hashtags: "#familytime, #familytravel, #czworonas, #podrozowaniezdzieckiem"
+  - username: "afrod3si"
     fullname: >-
-      Haneen Odeh - حنين عودة
+      AfroDesi
     bio: >-
-      • Owner @snob.ae • Former Marie Claire Arabia Beauty Editor • 🇯🇴 in 🇦🇪 - 📍 Dubai • Beauty - Fashion - Lifestyle
+      🏠 - London, Mumbai @pranavpatel.jpg @aakashphulwani @ashokadainsta 🌐 - Mumbai, London, Dubai, Dar Es Salaam ⬇️ - Shake body x Ole Ole
     location: "United Arab Emirates"
-    followers: 72918
-    engagement: 78
-    commentsToLikes: 0.091796
-    id: ck138lmnjgu1j0i191rd2j07l
+    followers: 13678
+    engagement: 453
+    commentsToLikes: 0.042542
+    id: ck0w0jam2eh860i193z1z5pgi
     verified: false
-    hashtags: "#woc, #blackouttuesday, #nofilterskin, #wellnessweek"
-  - username: "tamreezi"
+    hashtags: "#tanzania, #choreography, #dancegram, #dar"
+  - username: "mane3_63"
     fullname: >-
-      Tamreez
+      Manea Al Marzooqi
     bio: >-
-      Bookworm, foodie, minimalist, colour lover. Also find me on @readingpakistan
+      UAE 🇦🇪 ⭐️Professional WaterShow ✨ ⭐️Jet Ski World Champion 🥇 ⭐️Powerboat Pilot 👻snap : mane3_63
     location: "United Arab Emirates"
-    followers: 2829
-    engagement: 819
-    commentsToLikes: 0.233847
-    id: ckap9hfuxsmpn0i780msvz1bz
+    followers: 99993
+    engagement: 1069
+    commentsToLikes: 0.018258
+    id: ck9wgye6avhwt0j788myleg7y
     verified: false
-    hashtags: "#bookworm, #becauseofreading, #bookstagrampakistan, #bibliophile"
-  - username: "the.joorry"
-    fullname: >-
-      JA🐎💚
-    bio: >-
-      SnapChat — the.joorry Management +971566691471 Owner— @by.joorry @co.byjoorry @allure.per
-    location: "United Arab Emirates"
-    followers: 442425
-    engagement: 116
-    commentsToLikes: 0.031671
-    id: ck14lvakuwo5c0i19pqd3axbq
-    verified: false
-    hashtags: "#tfblackorchid"
-  - username: "hiphopcardio"
-    fullname: >-
-      HipHop Cardio Dance Dubai🇦🇪
-    bio: >-
-      👯A Fun Way To Work Out 🎧Hip-Hop Meets Fitness🤸🏻‍♂️ 📍🇦🇪Dubai 📍International online classes-groups and privates Tag #hiphopcardio 👇Learn More
-    location: "United Arab Emirates"
-    followers: 21366
-    engagement: 81
-    commentsToLikes: 0.148785
-    id: ck6tygjsl3llb0j71h5z7fna2
-    verified: false
-    hashtags: "#dancehall, #camron1shot, #education, #fromdubaitotheworld"
+    hashtags: "#burjalarab, #flyboard, #fly, #watersports"
 ---

@@ -1,81 +1,33 @@
 ---
-title: Top 10 Health Instagram Influencers In Denver in 2023
+title: Top 10 Health Instagram Influencers In Denver In 2023
 description: >-
-  Find top health Instagram influencers in Denver in 2023. Most popular hashtags: #fitness #motivation #fitfam.
+  Find top health Instagram influencers in Denver in 2023. Most popular hashtags: #denver #colorado #selflove.
 platform: Instagram
-hits: 52
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 52 Instagram influencers like this in Denver, United States for you to contact.
+hits: 58
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 58 Instagram influencers like this in Denver, United States for you to pitch.
 profiles:
-  - username: "cassidyeats"
+  - username: "tcrosleyfit"
     fullname: >-
-      cassidy ✌🏼
+      Tara Crosley💫
     bio: >-
-      📍denver • health, wellness, + real life • 🎙 host @podcasss • ww ambassador ☮️ • email me! hello@cassidyeats.com
+      #bodypositive 💛 @thedailyglow.app Trainer & Health Coach in Denver, CO🏔 ⭐️ Train with me @vitaltrainingsystems 👇🏼 Workout Plans + Nutrition 🌱
     location: "United States"
-    followers: 24525
-    engagement: 291
-    commentsToLikes: 0.067220
-    id: ck6u4nb2f4p9m0j71rfh8pvcl
+    followers: 167613
+    engagement: 171
+    commentsToLikes: 0.019113
+    id: ck0ttfcgi2gzu0i19224xce8p
     verified: false
-    hashtags: "#womensupportingwomen, #womensempowerment, #letsgetsweaty, #ourexercisebrand"
-  - username: "dr.colettelarsen"
-    fullname: >-
-      Colette Larsen, OD
-    bio: >-
-      👁Prison Eye #Doctor for Colorado✈️ Arizona✈️Florida 💪🏼NPC #wellness Debut 2023 🇳🇴/🇮🇹 but 100% 🇺🇸
-    location: "United States"
-    followers: 26220
-    engagement: 530
-    commentsToLikes: 0.040835
-    id: ckf5lbdbvp00k0j23l9ar04r3
-    verified: false
-    hashtags: "#model, #fitnessmotivation, #fitnesslifestyle, #fitgirls"
-  - username: "charlespoujade"
-    fullname: >-
-      Charles Poujade
-    bio: >-
-      🥇World Champion @worldchasetag 🇫🇷Ninja Warrior Champion Business 📧 Contact.CharlesEtMel@Gmail.com 👇 YOUTUBE 130K👇
-    location: "United States"
-    followers: 28946
-    engagement: 1191
-    commentsToLikes: 0.016134
-    id: ck0w1letojxfd0i19391ywugj
-    verified: false
-    hashtags: "#parisianstyle, #fitfrenchies, #freerun, #sportcoach"
-  - username: "presley_lynn"
-    fullname: >-
-      P R E S ✨
-    bio: >-
-      📍 Denver⁣⁣ Beauty 💋 Health 🌱 Lifestyle ⁣💫⁣⁣ DM or Email to collab 📧
-    location: "United States"
-    followers: 4360
-    engagement: 1931
-    commentsToLikes: 0.061798
-    id: ck6ucyvqqi6mv0j71p3y5jd8p
-    verified: false
-    hashtags: ""
-  - username: "taylorbelle"
-    fullname: >-
-      Taylor Belle 🌻
-    bio: >-
-      denver • student • holistic health & wellness & oh ya, I’m vegan 🌱 • photography page @taylorbelletookthis • backup account @moretaylorbelle
-    location: "United States"
-    followers: 31513
-    engagement: 274
-    commentsToLikes: 0.052555
-    id: ck0w4fewryaxv0i1918jb6u0e
-    verified: false
-    hashtags: "#vegan, #worldveganday"
+    hashtags: "#fridaymood, #selflove, #valentines"
   - username: "nuttinelli"
     fullname: >-
       Janelle | Plant-Based Blog
     bio: >-
-      🌿 all things health 🥥 hawaii x denver x 24 x #nuttinelli ⤵️ recipes, discount codes, & more!
+      🌿 all things health 🥥 hawaii x denver x 24 x #nuttinelli 💪🏼 former D1 athlete • 200hr RYT ⤵️ blog, youtube, discount codes, + more!
     location: "United States"
-    followers: 8051
-    engagement: 523
-    commentsToLikes: 0.150719
+    followers: 8417
+    engagement: 345
+    commentsToLikes: 0.133291
     id: ck0w5offn4ni70i19x79yxt2y
     verified: false
     hashtags: "#nuttinelli"
@@ -83,48 +35,96 @@ profiles:
     fullname: >-
       Kailey Kennedy
     bio: >-
-      📍Denver, CO 🌱 Fitness, Health, and Wellness 💫 Certified Health Coach
+      📍Denver, CO 🌱 Fitness, Health, and Wellness 💫 Certified Health Coach 💪 Certified Personal Trainer
     location: "United States"
-    followers: 2732
-    engagement: 3958
-    commentsToLikes: 0.032027
+    followers: 2694
+    engagement: 3418
+    commentsToLikes: 0.030269
     id: ck8t1l0mrw5wm0j78r6ubz8xm
     verified: false
     hashtags: "#blackouttuesday"
+  - username: "kaylinpyles"
+    fullname: >-
+      Online Fitness Coach + CEO
+    bio: >-
+      I help women go from “stuck” to building a life they’re obsessed with through fitness + personal dev. CEO: @thehigher.standard Apply for links ⬇️
+    location: "United States"
+    followers: 21459
+    engagement: 243
+    commentsToLikes: 0.054874
+    id: ck0w367zzrset0i19cq7xn6er
+    verified: false
+    hashtags: "#goals, #transformation, #texas, #fitness"
+  - username: "_kianamarina_"
+    fullname: >-
+      K i a n a  J o h n s o n
+    bio: >-
+      Southwest Model & Talent Agency: Director of Training + Asst. DOP Denver📍 foodie | fashion | beauty | holistic health
+    location: "United States"
+    followers: 3009
+    engagement: 843
+    commentsToLikes: 0.048023
+    id: ck5zr9h82w5nz0i14m397ksq8
+    verified: false
+    hashtags: "#reunited, #runwayshow, #vegas, #sungait"
+  - username: "rioredskyg"
+    fullname: >-
+      Rio Red Sky Gonzales
+    bio: >-
+      Grand Traverse Band of Ottawa and Chippewa Indians HTX // Musician Click link for a sexy video! 💌
+    location: "United States"
+    followers: 35877
+    engagement: 414
+    commentsToLikes: 0.036395
+    id: ck6uc99h6e8yb0j71o6vbbwbl
+    verified: false
+    hashtags: "#thickwomen, #instagramreels, #sheingal, #fyp"
+  - username: "missangelrenee"
+    fullname: >-
+      Angel Martinez
+    bio: >-
+      Owner & Founder of + Angel Aesthetics + Mile High Makeover ™️ + After Sex Glow™️
+    location: "United States"
+    followers: 62440
+    engagement: 58
+    commentsToLikes: 0.064882
+    id: ck14hyjatcs590i19ewlqzs3a
+    verified: false
+    hashtags: "#skincare, #milehighmakeover, #esthetics, #denverfacials"
+  - username: "kbfitusa"
+    fullname: >-
+      KATIE🥊
+    bio: >-
+      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
+    location: "United States"
+    followers: 74597
+    engagement: 2547
+    commentsToLikes: 0.009460
+    id: cl4ipwlnnsa1u0i23nwgkjc0b
+    verified: false
+    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
   - username: "myuglyacne"
     fullname: >-
       Hiiii I’m Hayley
     bio: >-
-      Follow me on my journey to clear skin Acne positivity ✨ Mental Health 🧠 Body positivity 👙 Skin positivity 💛 Acne is ugly, you are not Denver, CO 😀
+      Follow me on my pursuit to happiness! Skin positivity ✨ Mental Health 🧠 Body positivity 👙 Bipolar 2 💛 Acne is ugly, you are not Denver, CO
     location: "United States"
-    followers: 7608
-    engagement: 999
-    commentsToLikes: 0.084927
+    followers: 8988
+    engagement: 648
+    commentsToLikes: 0.082943
     id: ck5hrssk0vf4a0i1197lxzcxd
     verified: false
-    hashtags: "#zitsticka, #zittycommitteee, #zittycommittee, #hyperfade"
-  - username: "emmygazaway"
+    hashtags: "#banishacnescars, #banish, #zitsticka, #zittycommittee"
+  - username: "gabi.lukasik"
     fullname: >-
-      Emmy Gazaway
+      Gabi Lukasik
     bio: >-
-      ✖️ Denver, CO📍 ✖️ NASM Personal trainer
+      dancer w boulder ballet mental health matters 🦋
     location: "United States"
-    followers: 4222
-    engagement: 3473
-    commentsToLikes: 0.073635
-    id: ck14ib8hvejqu0i19a5k9ilft
+    followers: 6735
+    engagement: 1180
+    commentsToLikes: 0.060230
+    id: ck5bzb7lhqt000i11grpw137e
     verified: false
-    hashtags: "#fitgirls, #healthylifestyle, #motivated, #fitcollegestudent"
-  - username: "_brialee"
-    fullname: >-
-      Bria Lee
-    bio: >-
-      🌎Denver, CO 😊Spread positivity & be kind 📸Health & Fitness Content Creator 💪🏽CrossFitter Marketing Manager for @macrostax 📧brialee3@gmail.com
-    location: "United States"
-    followers: 122325
-    engagement: 601
-    commentsToLikes: 0.022389
-    id: ck1354hvrznx70i1955ojh1p3
-    verified: false
-    hashtags: "#crossfitwoods, #girlswholift, #fullbodyworkout, #bodyweightworkout"
+    hashtags: "#balletskirtsbylucinda, #summer, #worldwideballet, #balletpost"
 ---

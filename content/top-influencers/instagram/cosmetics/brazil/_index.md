@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Brazil in 2023
+title: Top 10 Cosmetics Instagram Influencers In Brazil In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Brazil in 2023. Most popular hashtags: #makeup #make #maquiagem #makeuptutorial.
+  Find top cosmetics Instagram influencers in Brazil in 2023. Most popular hashtags: #makeup #maquiagem #photooftheday #photography.
 platform: Instagram
-hits: 389
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 389 Instagram influencers like this in Brazil for you to connect with.
+hits: 396
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 396 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "micaellabergamini"
-    fullname: >-
-      Mica
-    bio: >-
-      Josué 1:9. Fashion | Lifestyle | Healthylife | Cosmetics ✨ Farmacêutica. @famibeautycosmetics
-    location: "Brazil"
-    followers: 23458
-    engagement: 289
-    commentsToLikes: 0.409520
-    id: ck6u8no0hsmpb0j718tz2rte2
-    verified: false
-    hashtags: "#toes, #praiadorosa, #praiadorosasc, #santacata"
   - username: "amandacrystinaoficial"
     fullname: >-
       AMANDA  CRYSTINA
     bio: >-
-      📍Estétic & Cosmétic • Modelo | 26 anos | Aquariana ➠ Parcerias e Divulgações direct📲 • Blessed, Good vibes |Espalhe AMOR 🐕🏋️‍♀️👯💄📸🍷☕🎼🚢✈️
+      📍Estétic & Cosmétic •Modelo| 27anos| Aquariana ➠Parcerias e Divulgações direct📲 •Blessed, Good vibes |Espalhe AMOR 🐕🏋️‍♀️👯💄📸🍷☕🎼🚢✈️ BD- MG
     location: "Brazil"
-    followers: 9895
-    engagement: 1885
-    commentsToLikes: 0.038908
+    followers: 10015
+    engagement: 1093
+    commentsToLikes: 0.043689
     id: ckaozd50ylca60i78lhr94n1c
     verified: false
-    hashtags: "#beautiful, #bh, #brasil, #usa"
+    hashtags: "#brasil, #bomdia, #fashionstyle, #me"
+  - username: "marianagoncalves.pt"
+    fullname: >-
+      Mariana Gonçalves
+    bio: >-
+      🌍Porto, Portugal 🐇Cruelty Free 🐰 📍CEO @brave_cosmetics ✨”musamariana” 10% @musaglitter 👇🏻 “lookmariana” 22% desconto @lookfantastic_pt
+    location: "Brazil"
+    followers: 11082
+    engagement: 837
+    commentsToLikes: 0.141388
+    id: ck0ue2smjkf450i198oqxqyjh
+    verified: false
+    hashtags: "#abhprsearch, #norvina, #abh, #glossbomb"
+  - username: "rio.tew"
+    fullname: >-
+      Rio
+    bio: >-
+      i like to do makeup :) 📥 businesses/pr please email me one of the places I use to check if cosmetics brands are vegan/cf⬇️❤️
+    location: "Brazil"
+    followers: 75041
+    engagement: 926
+    commentsToLikes: 0.007155
+    id: ck15rcbau77nh0i195x4pg5ue
+    verified: false
+    hashtags: "#sfxmakeup, #makeuptutorial, #makeupvideo, #gifted"
+  - username: "jujummoraes_"
+    fullname: >-
+      Juju Moraes ♡
+    bio: >-
+      ╎Beauty • Fashion • Lifestyle╎ Estética e Cosmétic 🎓 Solicite o Mídia kit ♡
+    location: "Brazil"
+    followers: 26468
+    engagement: 142
+    commentsToLikes: 0.271620
+    id: ck9wdbjrkewp00j78xyuv5s5o
+    verified: false
+    hashtags: "#tbt"
   - username: "noemi_salazar13"
     fullname: >-
       Noemi Salazar
     bio: >-
-      📸 Instagramer 💌Contacto: infonoemisalazar@gmail.com 💄Mi marca :@noemisalazar_cosmetics 👇🏾COMPRA MIS COSMÉTICOS 👇🏾
+      💌 : noemi_salazar13@pinkhyevents.com 📸 Instagramer 💄Mi marca :@noemisalazar_cosmetics 👇🏾COMPRA MIS COSMÉTICOS 👇🏾
     location: "Brazil"
-    followers: 801226
-    engagement: 420
-    commentsToLikes: 0.062134
+    followers: 879633
+    engagement: 492
+    commentsToLikes: 0.070841
     id: ck5q9nborbzle0i111qcvhstw
     verified: true
-    hashtags: "#instagood, #outfits, #photography, #moda"
+    hashtags: "#photooftheday, #love, #instagramers, #ad"
+  - username: "itsjandyy"
+    fullname: >-
+      Jandyy 🧚🏾‍♀️
+    bio: >-
+      🇦🇴 Fashion | lifestyle | super funny sometimes Ambassador : @chel_cosmetics 📍 Lisbon
+    location: "Brazil"
+    followers: 4087
+    engagement: 1770
+    commentsToLikes: 0.071231
+    id: ck9hcol8rmci10j78x5lpe8ff
+    verified: false
+    hashtags: "#outfitshot, #makeupoftheday, #ootdblackgirls, #outfitsideasforyou"
   - username: "cosmeasia"
     fullname: >-
       
     bio: >-
       Cosmetics news from Japan and Korea (I do NOT sell any product at all). As novidades cosméticas do Japão e Coreia (perfil NÃO comercial).
     location: "Brazil"
-    followers: 88662
-    engagement: 73
+    followers: 86428
+    engagement: 75
     commentsToLikes: 0.026616
     id: ck135vsno3h8t0i19ejoraktb
     verified: false
-    hashtags: "#maquiagem, #cleansingbalm, #novosprodutos, #skincare"
-  - username: "darknifica"
-    fullname: >-
-      𝘿𝙖𝙧𝙠𝙣í𝙛𝙞𝙘𝙖
-    bio: >-
-      ▪️𝙈𝙞𝙘𝙝𝙚𝙡𝙡𝙮 𝘼𝙡𝙫𝙚𝙨 ▪️Cɑsɑdɑ: @thiagofwalter ▪️Photographer / Videomaker / Hairstylist / Makeup ▪️Social Media @antoniocarlosejocafi @violoesdoforte
-    location: "Brazil"
-    followers: 19275
-    engagement: 381
-    commentsToLikes: 0.100267
-    id: ck8t9hiu1o3zf0j784s7rd97u
-    verified: false
-    hashtags: "#halloween, #cronogramacapilar, #darknifica, #mulher"
+    hashtags: "#demaquilante, #cuidadoscomapele, #brilho, #cosm"
   - username: "kenzo_mud"
     fullname: >-
-      Kenzo MUD
+      Kenzo
     bio: >-
-      🌈Artistic Makeup Master🌈 ✨Cursos / Workshop Pro ✨Parceria via direct ou e-mail ✨São Paulo - SP
+      Creator Japan - Brazil
     location: "Brazil"
-    followers: 15553
-    engagement: 853
-    commentsToLikes: 0.047872
+    followers: 15055
+    engagement: 871
+    commentsToLikes: 0.046730
     id: ck9hcoc2umb2s0j788bvcw10e
     verified: false
-    hashtags: ""
-  - username: "allana.alveess"
+    hashtags: "#makeuplover, #fashion, #hair, #skin"
+  - username: "darknifica"
     fullname: >-
-      ALLANA ALVES, 19, BA ♡
+      Darknífica
     bio: >-
-      Deixa ir, pra vir...🦋 makeup | beauty | lifestyle Perfil profissional: @makeupallanaa_
+      ⚜️Por: Michelly Alves ⚜️Cɑsɑdɑ: @thiagofwalter ⚜️ Hairstyle / Life Style ⚜️SM @antoniocarlosejocafi ⚜️Presets clique no link👇🏽
     location: "Brazil"
-    followers: 13226
-    engagement: 1226
-    commentsToLikes: 0.020239
-    id: ck8t4tppv7x4r0j7803dy08fd
+    followers: 20710
+    engagement: 275
+    commentsToLikes: 0.127342
+    id: ck8t9hiu1o3zf0j784s7rd97u
     verified: false
-    hashtags: "#mascara, #modabrasil, #moda, #susent"
-  - username: "camaracristiano"
+    hashtags: "#glowmakeup, #porai, #feminina, #ferias"
+  - username: "alinepprieto"
     fullname: >-
-      C R I S T I A N O  C Â M A R A
+      Aline Prieto
     bio: >-
-      💄 Maquiador @jackhairdesigner 🎓 Leticia de Paula 🎓 Vult ✨ Curso Profissional e Automaquiagem 📱 Agendamentos: (68) 99971-3869 🌍 Brasil - Ac
+      lifestyle| makeup| humor tiktok: alinepprieto +1.2M ✨Videos no reels todos os dias✨ 📲parcerias via direct / email 📥contato.alineprieto@gmail.com
     location: "Brazil"
-    followers: 16596
-    engagement: 352
-    commentsToLikes: 0.672621
-    id: ck6u7z0uvohhg0j71ytjtejql
+    followers: 60889
+    engagement: 468
+    commentsToLikes: 0.024263
+    id: ck8wgnnb7hpkr0j78uqm67f8i
     verified: false
-    hashtags: "#desceproplaychallenge, #makeup, #tutstutschallenge, #cosmetic"
-  - username: "dra.karinecrawford"
-    fullname: >-
-      DRA. KARINE CRAWFORD
-    bio: >-
-      Pós graduada em estética odontológica, prótese e especialista em implantodontia. Belo Horizonte-MG. Telefone: (31) 31436633
-    location: "Brazil"
-    followers: 32649
-    engagement: 217
-    commentsToLikes: 0.033520
-    id: ck9haq34jdlw00j78tp8r6e8t
-    verified: false
-    hashtags: "#bykarinecrawford, #empressdirectivoclar, #estetica, #clareamento"
-  - username: "euleocosta"
-    fullname: >-
-      Leonardo Costa
-    bio: >-
-      📍| Ceará /Brazil ✨| Lifestyle | Orgulho 🏳‍🌈 🙈| A vida é sua meu amor
-    location: "Brazil"
-    followers: 6415
-    engagement: 804
-    commentsToLikes: 0.021845
-    id: ck9hbhmtjgvbs0j78io8jmwqr
-    verified: false
-    hashtags: "#explore, #makeuplook, #undiscovered, #makeupgoals"
+    hashtags: "#fazaposeolhaoflashchallenge, #catucadaviolentachallenge, #challengedemaquiagem, #apaixonoueuchallenge"
 ---

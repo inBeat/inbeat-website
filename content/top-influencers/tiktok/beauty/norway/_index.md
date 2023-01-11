@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Norway in 2023
+title: Top 10 Beauty TikTok Influencers In Norway In 2023
 description: >-
-  Find top beauty TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryoupage #viral #foryou.
+  Find top beauty TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #beauty #viral.
 platform: TikTok
-hits: 20
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 20 TikTok influencers like this in Norway for you to connect with.
+hits: 17
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 17 TikTok influencers like this in Norway for you to connect with.
 profiles:
   - username: "dasheys"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.024859
     id: cka0r01f0ew4u0i78y60x8hhc
     verified: false
-    hashtags: "#food, #celeb, #lol, #wap"
+    hashtags: "#funny, #kuwtk, #wap, #kardashians"
   - username: "renzate"
     fullname: >-
       renate
     bio: >-
-      I do makeup 🥰 Instagram @renzate
+      mom who also does makeup
     location: "Norway"
-    followers: 3574
-    engagement: 807
-    commentsToLikes: 0.017624
+    followers: 4762
+    engagement: 708
+    commentsToLikes: 0.031794
     id: ck8ae956laxv90j783kmavi4p
     verified: false
-    hashtags: "#makeup, #beauty, #fyp, #foryoupage"
+    hashtags: "#makeuphacks, #makeuptips, #fyp, #viral"
   - username: "mathiasrytter"
     fullname: >-
       Mathias Rytter
     bio: >-
       Love and laugh
     location: "Norway"
-    followers: 26900
-    engagement: 784
-    commentsToLikes: 0.014766
+    followers: 26800
+    engagement: 837
+    commentsToLikes: 0.006879
     id: ckbqmiof07i7m0j236dfs57zh
     verified: false
-    hashtags: "#4u, #tiktok, #foryou, #happy"
-  - username: "queenidz"
+    hashtags: "#fyp, #memes, #fun, #love"
+  - username: "linnealotvedt"
     fullname: >-
-      Ida Ekker
+      Linnealotvedt
     bio: >-
-      Follow my makeup page on Instagram! Link👆🏻✨💄
+      👻:SC: linneavloggen 📱: IG: Linnealotvet 🇳🇴:Norway! 🇳🇴 Love you 💋
     location: "Norway"
-    followers: 43500
-    engagement: 1045
-    commentsToLikes: 0.019377
-    id: ck81sbf3nrg2t0j78d094b618
-    verified: false
-    hashtags: "#behindthescenes, #foryoupage, #halloweenmakeup, #looklikeart"
-  - username: "mimidevine1"
-    fullname: >-
-      user534861943249
-    bio: >-
-      For fun and creativity❤️🇳🇴🏳️‍🌈 Instagram: It’smimidevine💋
-    location: "Norway"
-    followers: 64800
-    engagement: 1094
-    commentsToLikes: 0.033071
-    id: ckcdecc1q61p20j23tzincmo6
-    verified: false
-    hashtags: "#tiktoknorge, #norge, #norgestiktok, #4u"
-  - username: "mainecoonqueens"
-    fullname: >-
-      mainecoonqueens
-    bio: >-
-      Follow us on instagram ☝🏻 Three maine coon girls from Norway 🇳🇴
-    location: "Norway"
-    followers: 433400
-    engagement: 1913
-    commentsToLikes: 0.008523
-    id: ck9rgxmt4cvwc0j78z9jiynsl
+    followers: 228300
+    engagement: 1064
+    commentsToLikes: 0.019010
+    id: cka0fmwdz063b0i784wmotrdu
     verified: true
-    hashtags: "#kitty, #aww, #fyp, #foryoupage"
+    hashtags: "#tik, #fun, #hjelp, #girls"
   - username: "nubbsofchubb"
     fullname: >-
       Chubbnubb
     bio: >-
       he told me do so
     location: "Norway"
-    followers: 2424
-    engagement: 445
-    commentsToLikes: 0.067414
+    followers: 2588
+    engagement: 476
+    commentsToLikes: 0.089819
     id: ck9fm3e0qr4um0j78qn5jkl68
     verified: false
-    hashtags: "#wholesome, #feet, #thisistheway, #diy"
-  - username: "snurresprett2020"
+    hashtags: "#blessed, #fyp, #2020, #mood"
+  - username: "mainecoonqueens"
+    fullname: >-
+      mainecoonqueens
+    bio: >-
+      Follow us on instagram ☝🏻 Three maine coon girls from Norway 🇳🇴
+    location: "Norway"
+    followers: 433300
+    engagement: 1834
+    commentsToLikes: 0.008447
+    id: ck9rgxmt4cvwc0j78z9jiynsl
+    verified: true
+    hashtags: "#norway, #fyp, #viral, #norge"
+  - username: "ysanmiguel"
+    fullname: >-
+      Yasmine
+    bio: >-
+      Instagram: yasminesanmiguel
+    location: "Norway"
+    followers: 30600
+    engagement: 404
+    commentsToLikes: 0.009139
+    id: ckbbo6yowc6s40j236c07tbnc
+    verified: false
+    hashtags: "#aries, #xyzbca, #girls, #foryou"
+  - username: "jost1peders1"
     fullname: >-
       Jostein
     bio: >-
-      snap Jostein.n
+      Norway
     location: "Norway"
-    followers: 11500
-    engagement: 299
-    commentsToLikes: 0.023411
+    followers: 42500
+    engagement: 307
+    commentsToLikes: 0.015228
     id: ckd6ep1x36bdn0j23x8dsqvr3
     verified: false
-    hashtags: "#peace, #norge, #fortheboys, #mdg"
-  - username: "sindrefortnite"
+    hashtags: "#sweet, #2021, #nice, #bmw"
+  - username: "sw4hn"
     fullname: >-
-      ᅠᅠᅠ
+      marie swahn
     bio: >-
-      need a duo snap: sindreglo psn: SindreTheBotYT 4k?
+      🌈<3 snapchat: marieswahn
     location: "Norway"
-    followers: 3861
-    engagement: 1465
-    commentsToLikes: 0.164827
-    id: ckd18r2mxqaeg0j23r4k7t1ss
+    followers: 87900
+    engagement: 877
+    commentsToLikes: 0.012937
+    id: ck9eqo02iy1vy0j78pj8eyqke
     verified: false
-    hashtags: "#timewrapscan, #stitch"
+    hashtags: "#blue, #lgbt, #zodiac, #foryou"
   - username: "eat._.soup"
     fullname: >-
-      gEt nOOb-🍜💛🐛
+      Busy simping for Kenma
     bio: >-
-      𝑎𝑠ℎ is a 👞 pfp made by @.sanya.chan 👑 fact: ur beautiful💛 s0up#7187
+      go watch sk8 pfp made by:@.sanya.chan 👑 fact: ur beautiful
     location: "Norway"
-    followers: 278300
-    engagement: 2127
-    commentsToLikes: 0.103300
+    followers: 362800
+    engagement: 2177
+    commentsToLikes: 0.087351
     id: ckbbv7zvgimgt0j23huc2rv22
     verified: false
-    hashtags: "#gachalife, #viralfornoreason, #hi, #xyzbca"
+    hashtags: "#4you, #fy, #xyzbca, #brunost"
 ---

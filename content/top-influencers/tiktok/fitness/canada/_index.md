@@ -1,108 +1,120 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Canada in 2023
+title: Top 10 Fitness TikTok Influencers In Canada In 2023
 description: >-
-  Find top fitness TikTok influencers in Canada in 2023. Most popular hashtags: #fitness #workout #squat #duet.
+  Find top fitness TikTok influencers in Canada in 2023. Most popular hashtags: #fitness #canada #workout #duet.
 platform: TikTok
-hits: 295
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 295 TikTok influencers like this in Canada for you to pitch.
+hits: 486
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 486 TikTok influencers like this in Canada for you to work with.
 profiles:
+  - username: "cdnoutlaw"
+    fullname: >-
+      Christopher Torres 🇨🇦
+    bio: >-
+      TapOut Fitness Ontario, Canada 🇨🇦
+    location: "Canada"
+    followers: 73000
+    engagement: 1411
+    commentsToLikes: 0.059038
+    id: ckbermkcya4nc0j230v8l5i6k
+    verified: false
+    hashtags: "#duet, #greenscreensticker, #stitch, #toocold"
   - username: "peakfitmom"
     fullname: >-
       Kate
     bio: >-
       Online fitness coach & mom of 3 boys💕 loves to laugh & have fun! Insta 4 fitspo
     location: "Canada"
-    followers: 28800
-    engagement: 1226
-    commentsToLikes: 0.197711
+    followers: 32000
+    engagement: 955
+    commentsToLikes: 0.146145
     id: ckc2ydq82pj0t0j23ku6xng7e
     verified: false
-    hashtags: "#canadianmom, #momsoftiktok, #teenboys, #boymom"
+    hashtags: "#boymom, #winemom, #teenboys, #44andfit"
+  - username: "tylersarry"
+    fullname: >-
+      Fitness & Mental Wellbeing
+    bio: >-
+      🥰LIFE EST. 1985 T.O🇨🇦 Health & Fitness, Mental Resiliency, Emotional Agility
+    location: "Canada"
+    followers: 22700
+    engagement: 749
+    commentsToLikes: 0.198070
+    id: ckcem2lh5w6mr0j23et3wm83r
+    verified: false
+    hashtags: "#fittoker, #fitnessismylife, #torontofitness, #over35club"
+  - username: "mayobros"
+    fullname: >-
+      John and Brad
+    bio: >-
+      We’ll teach you to be fit and flexible! Link below to take our fitness quiz!
+    location: "Canada"
+    followers: 611400
+    engagement: 1753
+    commentsToLikes: 0.011278
+    id: ck806y32qmz7i0j78c1ni1arg
+    verified: false
+    hashtags: "#funny, #novascotia, #halifax, #canadiancheck"
+  - username: "kerolintv"
+    fullname: >-
+      Kerolin
+    bio: >-
+      ✨ Mom • Wife • Fitness • Life Talks ✨
+    location: "Canada"
+    followers: 56600
+    engagement: 712
+    commentsToLikes: 0.060532
+    id: ckbfb9o1932no0j23idzp3lbb
+    verified: false
+    hashtags: "#over30, #tiktokwellness, #learn, #learnontiktok"
   - username: "benjamin_robert_graham"
     fullname: >-
       Benjamin_Graham
     bio: >-
-      Fitness Coach & Private Gym Owner President & CEO of Leg Day
+      Fitness Coach Private Gym Owner President & CEO of Leg Day Triceps Technician
     location: "Canada"
-    followers: 59900
-    engagement: 925
-    commentsToLikes: 0.055584
+    followers: 82200
+    engagement: 1130
+    commentsToLikes: 0.053244
     id: ckbqsuhjcdnpr0j23ma7k6vi0
     verified: false
-    hashtags: "#squats, #coach, #entrepreneur, #strength"
-  - username: "tylersarry"
+    hashtags: "#gym, #squat, #relatable, #strength"
+  - username: "emscourtney"
     fullname: >-
-      Fitness & Health Coach
+      Emma
     bio: >-
-      🇨🇦 💙 LIFE 🏃‍♀️Health & Fitness Coach🤸‍♂️ 💆Mental Resiliency Advocate🧠
+      Lover of interior design, baking, travel, fitness & cats 📍Toronto
     location: "Canada"
-    followers: 13600
-    engagement: 867
-    commentsToLikes: 0.239310
-    id: ckcem2lh5w6mr0j23et3wm83r
+    followers: 3263
+    engagement: 771
+    commentsToLikes: 0.088157
+    id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#stretching, #noexcuses, #exerciseismedicine, #stayactive"
-  - username: "abh_movement"
+    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+  - username: "andrewpettitt"
     fullname: >-
-      Alex BH
+      Andrew Pettitt
     bio: >-
-      Fitness & Empathy 🤸🏼‍♀️🧘🏼‍♀️☺️ IG: abh_movement
+      Founded @overlandyukon Health/Fitness - Business - Real estate - Investing
     location: "Canada"
-    followers: 91900
-    engagement: 828
-    commentsToLikes: 0.060176
-    id: ck9nd0jx6ch6f0j78krswmfrb
+    followers: 9751
+    engagement: 943
+    commentsToLikes: 0.058014
+    id: ck90r2155kq150j78ndcfn60b
     verified: false
-    hashtags: "#peoplepleasing, #myersbriggs, #innerchild, #virtualfitness"
-  - username: "w2sixpackchef"
+    hashtags: "#hiking, #tiktoktravel, #bc, #sunset"
+  - username: "planttrainers"
     fullname: >-
-      Wallace W
+      Adam & Shoshana
     bio: >-
-      Food|Fitness|Life RECIPES:IG @w2sixpackchef COOKING EBOOK:www.sixpackchef.com
+      Nutrition 🍎 Fitness 💪 Coaches 🎙 Podcast Married 💚 info@planttrainers.com
     location: "Canada"
-    followers: 456800
-    engagement: 1255
-    commentsToLikes: 0.022649
-    id: ck806ysqxn5xz0j780zu0q8u9
+    followers: 14400
+    engagement: 511
+    commentsToLikes: 0.312372
+    id: ckai4la06ofvo0i782pi8chzu
     verified: false
-    hashtags: "#satisfying, #asmr, #foodreview, #cooking"
-  - username: "jon_thevegan"
-    fullname: >-
-      Jonathan_Shopik
-    bio: >-
-      DM me on Instagram for online 1 on 1 coaching (all fitness levels welcome)
-    location: "Canada"
-    followers: 30100
-    engagement: 729
-    commentsToLikes: 0.053305
-    id: ck8074594ok6p0j78bktsw0lx
-    verified: false
-    hashtags: "#ankylosingspondylitis, #stretching, #stretch, #arthritis"
-  - username: "kerolin.b"
-    fullname: >-
-      Kerolin
-    bio: >-
-      👩‍👧‍👦 Mom of 2 with abs 🏋🏻‍♀️ Fitness + Mental Health 📺 YouTube + IG ⬆️
-    location: "Canada"
-    followers: 52200
-    engagement: 621
-    commentsToLikes: 0.054570
-    id: ckbfb9o1932no0j23idzp3lbb
-    verified: false
-    hashtags: "#over30, #fitnesstips, #workout, #couplecomedy"
-  - username: "reidbosse"
-    fullname: >-
-      Reid Bosse 🇨🇦
-    bio: >-
-      Edmonton 🇨🇦 Get me to 10K? 🙏 - Fitness | Business | Jokes - ⬇️
-    location: "Canada"
-    followers: 9433
-    engagement: 1114
-    commentsToLikes: 0.188339
-    id: ck9gm1g0sqmdc0j78jwyseskg
-    verified: false
-    hashtags: "#foryoupage, #holidaytiktok, #running, #youwantmore"
+    hashtags: "#foodie, #learnontiktok, #feelinggood, #supplements"
   - username: "lynnettemermaid"
     fullname: >-
       Lynnette Mermaid
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.078295
     id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
-    hashtags: "#baywatch, #dancingchallenge, #goviral, #throwback"
-  - username: "planttrainers"
-    fullname: >-
-      Adam & Shoshana
-    bio: >-
-      Nutrition 🍎 Fitness 💪 Fun 🎉 Married 💚
-    location: "Canada"
-    followers: 12500
-    engagement: 391
-    commentsToLikes: 0.202368
-    id: ckai4la06ofvo0i782pi8chzu
-    verified: false
-    hashtags: "#fruit, #nutritiontips, #didyouknow, #tiktokcooks"
+    hashtags: "#poem, #flexible, #swimsuit, #swimsuitmodel"
 ---

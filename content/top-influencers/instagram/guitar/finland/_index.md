@@ -1,36 +1,24 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Finland in 2023
+title: Top 10 Guitar Instagram Influencers In Finland In 2023
 description: >-
-  Find top guitar Instagram influencers in Finland in 2023. Most popular hashtags: #guitar #guitarist #helsinki #rock.
+  Find top guitar Instagram influencers in Finland in 2023. Most popular hashtags: #finland #helsinki #music #suomi.
 platform: Instagram
-hits: 14
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 14 Instagram influencers like this in Finland for you to connect with.
+hits: 16
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 16 Instagram influencers like this in Finland for you to collaborate.
 profiles:
-  - username: "erjalyytinen"
-    fullname: >-
-      𝗘𝗥𝗝𝗔 𝗟𝗬𝗬𝗧𝗜𝗡𝗘𝗡 🎸
-    bio: >-
-      𝐐𝐔𝐄𝐄𝐍 𝐎𝐅 𝐓𝐇𝐄 𝐒𝐋𝐈𝐃𝐄 𝐆𝐔𝐈𝐓𝐀𝐑 Best Guitarist - European Blues Awards. office@bluesland.fi
-    location: "Finland"
-    followers: 11418
-    engagement: 1058
-    commentsToLikes: 0.020640
-    id: ck6tzjzmha58q0j71miped6yn
-    verified: false
-    hashtags: "#fender, #rockblues, #livephotography, #stratocaster"
   - username: "waltteripahlamaguitar"
     fullname: >-
       Waltteri Pahlama
     bio: >-
-      Coffee addict extraordinaire ☕️ Guitar player 🎸 Based out of Helsinki, Finland 🇫🇮 Contact for lessons or other business 📲
+      🎸 Guitar player 📍 Helsinki / Turku, Finland 📲 Hit me up for business
     location: "Finland"
-    followers: 14327
-    engagement: 309
-    commentsToLikes: 0.047469
+    followers: 13652
+    engagement: 351
+    commentsToLikes: 0.045733
     id: ck1389qfpf6px0i19gqf4xphr
     verified: false
-    hashtags: "#guitarsofinstagram, #guitar, #suhrguitars, #telecaster"
+    hashtags: "#telecaster, #guitargear, #guitarsofinstagram, #guitarsdaily"
   - username: "braindeadsamy"
     fullname: >-
       𝖘𝖆𝖒𝖞 𝖊𝖑𝖇𝖆𝖓𝖓𝖆
@@ -42,89 +30,101 @@ profiles:
     commentsToLikes: 0.015799
     id: ck5cggdb6osey0i11oi1v9goy
     verified: false
-    hashtags: "#astreamforthesickest, #lostsociety, #noabsolution, #twitch"
-  - username: "raminebrahimy"
+    hashtags: "#twitch, #astreamforthesickest, #lostsociety, #noabsolution"
+  - username: "axel.lopez"
     fullname: >-
-      Ramin Ebrahimi رامین ابراهیمی
+      
     bio: >-
-      Listen to ‘Ba To’ on Spotify کانال تلگرام 👇🏻
+      LLA🕊🤍 Jazmin Peralta🤍 @faseexclusiva 🎸
     location: "Finland"
-    followers: 15997
-    engagement: 1523
-    commentsToLikes: 0.058732
-    id: ck5hitmlffbhq0i11luietf7z
+    followers: 4469
+    engagement: 1708
+    commentsToLikes: 0.038665
+    id: ck5chzu1qrr6d0i11rdhi769y
     verified: false
-    hashtags: "#sedyeghayeb, #music, #radiojavan, #bezanbekhoon"
+    hashtags: "#requinto, #herenciadepatrones, #bajoloche, #angelparasiempre"
+  - username: "eiccatoppinen"
+    fullname: >-
+      Eicca Toppinen
+    bio: >-
+      The heavy metal-cellist from Hellsinki Finland & Apocalyptica. Composer, producer etc... #apocalyptica #music #cello #finland #metal #rock #punk
+    location: "Finland"
+    followers: 43529
+    engagement: 710
+    commentsToLikes: 0.015795
+    id: ck0u2gz63zz8m0i19xpxxtjta
+    verified: false
+    hashtags: "#apocalyptica, #karjurock, #cello, #festivals"
   - username: "lottamerenmiesofficial"
     fullname: >-
       LOTTA MERENMIES
     bio: >-
       Radiojuontaja🎙📻 @radiokeskisuomalainen & @radiovoima Juontaja🎤 TV📺 ❤️First Dates Suomi -Tarjoilija❤️ www.lottamerenmies.com
     location: "Finland"
-    followers: 18221
-    engagement: 275
-    commentsToLikes: 0.037821
+    followers: 17890
+    engagement: 294
+    commentsToLikes: 0.039090
     id: ckap8rb70pity0i781vdn0wnf
     verified: false
-    hashtags: "#mink, #lotta, #tilannemerenmies, #tostanoinvaan"
+    hashtags: "#keskarinlauantai, #tostanoinvaan, #radiokeskisuomalainen, #tilannemerenmies"
   - username: "venla.saartamo"
     fullname: >-
       Venla
     bio: >-
       Singer 🎤 / Songwriter 🎶 / Actress 🎥 / Breather 💚
     location: "Finland"
-    followers: 7347
-    engagement: 691
-    commentsToLikes: 0.011117
+    followers: 7320
+    engagement: 705
+    commentsToLikes: 0.012104
     id: ck8t0d489rnsm0j78aazhr0c7
     verified: false
-    hashtags: "#helsinki, #slowfashion, #modernhippie, #invent"
+    hashtags: "#letitsnow, #helsinki, #slowfashion, #modernhippie"
+  - username: "therasmusofficial"
+    fullname: >-
+      The Rasmus
+    bio: >-
+      Official The Rasmus Instagram @lauriylonenofficial @akihakalaofficial @paulirantasalmi @eero_hei 👇🏼
+    location: "Finland"
+    followers: 85977
+    engagement: 664
+    commentsToLikes: 0.023962
+    id: ck14hajti9dd80i19dbhjqj3i
+    verified: true
+    hashtags: "#laurisweek, #therasmus, #newmusic, #bones"
   - username: "olliherman"
     fullname: >-
       Olli Herman
     bio: >-
       Rocker, Biker and a Hopeless Romantic⚡️🌹 @recklesslove.official 🎤 @thelocalband 🎤 goin solo too💫
     location: "Finland"
-    followers: 31490
-    engagement: 740
-    commentsToLikes: 0.023949
+    followers: 32849
+    engagement: 909
+    commentsToLikes: 0.019615
     id: ck5zwuwmh6t8h0i14z8sgkiag
     verified: true
-    hashtags: "#jacksonguitars, #rock, #rocknroll, #recklesslove"
-  - username: "rsjakoirat"
+    hashtags: "#hyva, #newstuff, #comingsoon, #alexilaiho"
+  - username: "scottquirky"
     fullname: >-
-      Roope Salminen & Koirat
+      🎵Scott Quirk🎵
     bio: >-
-      Kuuntele Koiran vuosi -albumi 🐶⬇️
+      🤪Flutist 🐧 Juilliard ‘23 🦋Colburn Music Academy ‘19 💃🏼NYO-USA ‘19 🥳 #lifeisaparty 🏳️‍🌈 ♍️
     location: "Finland"
-    followers: 19060
-    engagement: 457
-    commentsToLikes: 0.020860
-    id: ck6tk8svj481s0j71eumqierp
-    verified: true
-    hashtags: "#hienostipoika, #pysyvittuhimas, #guitargod, #roopesalminenjakoirat"
-  - username: "plantsandcollecting"
-    fullname: >-
-      🔸Seija Margareta🇫🇮
-    bio: >-
-      🔸➡️ @differentinteriors ⬅️ 🔸Plants 🌿🌵🌼 🔸Interior decorating🏢🏡♻️ 🔸All pics are mine📸, don’t use them without credit🚫 🔸Nothing for sale🙅🏼‍♀️
-    location: "Finland"
-    followers: 124051
-    engagement: 149
-    commentsToLikes: 0.012888
-    id: ck0w0zn9sgtsn0i198d0qm986
+    followers: 5353
+    engagement: 933
+    commentsToLikes: 0.040177
+    id: ckap51cv09qu00i780rrsbt2b
     verified: false
-    hashtags: "#indoorplants, #planthanger, #nordichome, #diy"
-  - username: "seopetriii"
+    hashtags: "#juilliard, #flutelyfe, #beyonce, #flute"
+  - username: "helsinginsanomat"
     fullname: >-
-      Petri Nygård
+      HS – Helsingin Sanomat
     bio: >-
-      Snapchat: petrinygard http://www.youtube.com/petrinygard Spotify: http://spoti.fi/1Cr5hXx
+      👇 Lue päivän kiinnostavimmat jutut.
     location: "Finland"
-    followers: 33226
-    engagement: 188
-    commentsToLikes: 0.007618
-    id: ck5hfhzd6xkf70i11fy7fhypp
+    followers: 169901
+    engagement: 115
+    commentsToLikes: 0.005074
+    id: ck0w2d9ipnrzf0i19vkl8tpg2
     verified: true
-    hashtags: "#hovinarrinpaluu, #kaikkitaieimit, #munmielest, #tbt"
+    hashtags: "#tyo, #koronavuosi, #jalkapallo, #talvi"
 ---

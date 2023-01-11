@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Melbourne in 2023
+title: Top 10 Nutrition Instagram Influencers In Melbourne In 2023
 description: >-
-  Find top nutrition Instagram influencers in Melbourne in 2023. Most popular hashtags: #nutrition #melbournefoodie #foodie #melbournefood.
+  Find top nutrition Instagram influencers in Melbourne in 2023. Most popular hashtags: #australia #sydney #plantbased #vegan.
 platform: Instagram
-hits: 21
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Melbourne, Australia for you to collaborate.
+hits: 6
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 6 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
   - username: "unbeleafablefood"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.475509
     id: ck5c6i25y5hac0i1100fgq43o
     verified: false
-    hashtags: "#melbourneinsta, #australia, #sweets, #plantbasedmealprep"
-  - username: "thelittlenutritionist"
+    hashtags: "#melbournedesserts, #vegains, #melbournefoodblogger, #vegan"
+  - username: "bonnee_fahlstrom"
     fullname: >-
-      Jenny Nguyen | Nutritionist
+      BONNEE
     bio: >-
-      Nutrition Coach (🎓BHumnut) 🏆 2019 Overall INBA VIC Champ. ✖️Recipe ideas, fitness journey, nutrition tips 📍Melbourne, Australia
+      🧜‍♀️ DAINTREE RAINFOREST, TROPICAL QLD AUSSIE MODEL +SUBSTANCE + BEAUTY @bodybybonnee 🐝Live your richest healthiest most beautiful elevated life.
     location: "Australia"
-    followers: 2026
-    engagement: 1159
-    commentsToLikes: 0.096779
-    id: ckapaefhwvrrg0i78e1068lz1
+    followers: 153751
+    engagement: 70
+    commentsToLikes: 0.044256
+    id: ck15q4iox125y0i19zpqujypm
     verified: false
-    hashtags: "#nourishyourbody, #healthylifestyle, #fitness, #echtapparel"
-  - username: "bigmelbappetite"
+    hashtags: "#daintreerainforest, #crueltyfree, #cleanbeauty, #bodybybonnee"
+  - username: "ateaspoonofstyle"
     fullname: >-
-      Melbourne Foodie
+      Tanaka Tarou
     bio: >-
-      Kathy & Dan “Come get chubby with us!” 🤤 📷 Food Photographer @knphotography.com.au 🌶 Chilli Fiend & Korean Food Lover! ✉️ bigmelbappetite@gmail.com
+      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
     location: "Australia"
-    followers: 20763
-    engagement: 367
-    commentsToLikes: 0.168711
-    id: ck5c6i0xf5h7e0i11m3wjbpsq
+    followers: 30201
+    engagement: 175
+    commentsToLikes: 0.218128
+    id: ck15seuspcnp30i19ut0843ge
     verified: false
-    hashtags: "#ad, #bmafavourites, #gifted, #harvestgourmet"
-  - username: "melbournefoodmonkeys"
+    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
+  - username: "jennybeeen"
     fullname: >-
-      Katie & Chris | MELB FOODIES
+      Jenny Blenk | Content Creator
     bio: >-
-      🙈Join us on a food adventure! 🙉 📍Melbourne 📩Email/DM for collab
+      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
     location: "Australia"
-    followers: 5193
-    engagement: 1223
-    commentsToLikes: 0.695906
-    id: ckaor9wz1mckv0i78b7lhsqt6
+    followers: 8147
+    engagement: 644
+    commentsToLikes: 0.205182
+    id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#chocolatedessert, #dessertsinmelbourne, #melbournerestaurants, #melbournefood"
-  - username: "deakinuniversity"
+    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
+  - username: "jamieazzopardi"
     fullname: >-
-      Deakin University
+      Jamie Azzopardi (He/Him)
     bio: >-
-      Sharing sights and stories on campus and abroad. 🌍 Join the community using #Deakin Deakin University CRICOS Provider Code: 00113B
+      🇦🇺🇲🇹🏳️‍🌈🇧🇷🇺🇸 Celebrity Fashion Stylist + Culture Blogger Nomadic Gypsy • 90s Kid 📍Cadi (SYD) Music • Arts • Food • Lifestyle • Travel • Fashion
     location: "Australia"
-    followers: 59292
-    engagement: 191
-    commentsToLikes: 0.008922
-    id: ck13d7s9a43zv0i19yge74iid
+    followers: 167803
+    engagement: 399
+    commentsToLikes: 0.013054
+    id: ck14l0irws96d0i19oitjaa2v
+    verified: false
+    hashtags: "#localsupply, #sneakers, #editorial, #australianfashion"
+  - username: "triedandtastedmelb"
+    fullname: >-
+      Melbourne Food Photographers
+    bio: >-
+      👫🏻 Antonia & James 🍕 Couple who eat way too much 📸 Food Photography ✉️ DM or email us for collabs/to connect!
+    location: "Australia"
+    followers: 8410
+    engagement: 757
+    commentsToLikes: 0.355963
+    id: ck5zn1hwmnlmv0i14ffh9eedm
+    verified: false
+    hashtags: "#invite, #gifted, #collab, #dessertlovers"
+  - username: "jeet_selal"
+    fullname: >-
+      Jeet Selal (Himalayan Stallion)
+    bio: >-
+      S & C, NUTRITION Coach🇦🇺 SPORT Management🇬🇧 FOUNDER Himalayan Stallion @hsf_expo @hsajeetselal ▪️KNOWLEDGE AMB @myproteinin
+    location: "Australia"
+    followers: 903396
+    engagement: 2262
+    commentsToLikes: 0.006091
+    id: ckapasgboxai50i78atufxlox
+    verified: false
+    hashtags: "#warrior, #reelsinstagram, #hsfexpo2023, #mahadev"
+  - username: "rubygracemarks"
+    fullname: >-
+      r u b y g r a c e
+    bio: >-
+      brisbane; @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
+    location: "Australia"
+    followers: 23763
+    engagement: 894
+    commentsToLikes: 0.052252
+    id: ckap2n0uwzk0o0i78zh5qva2i
+    verified: false
+    hashtags: "#billinibabes"
+  - username: "_stephanielange_"
+    fullname: >-
+      Stephanie Lange
+    bio: >-
+      🤱Mother + Rocker + Animal Lover 🥰1.5 mil subs on YouTube 📚Studying Holistic Nutrition ⚡️Anti diet culture, pro self love
+    location: "Australia"
+    followers: 216351
+    engagement: 276
+    commentsToLikes: 0.015410
+    id: ck15t6quzgmgz0i19t2xc4f5o
     verified: true
-    hashtags: "#deakindoggos, #deakingrad, #geelong, #study"
-  - username: "joannaipsaros"
+    hashtags: "#ad, #loungeturns5, #wildchild, #rewild"
+  - username: "holly_dollyy"
     fullname: >-
-      joanna ipsaros
+      🦋 Holly
     bio: >-
-      ✩ melbourne, aus 📍 ✩ @crunchfitnessau ambassador 🏋🏽 ✩ @jednorthwomen 🤍 ✩ ✉️ jojo.ipsaros@gmail.com I never wear colour so don’t b confused
+      🌴 Gold Coast 🤓 @aust_sports_nutrition
     location: "Australia"
-    followers: 10209
-    engagement: 543
-    commentsToLikes: 0.191773
-    id: ck15rqywz999j0i196iwuffg3
+    followers: 65250
+    engagement: 240
+    commentsToLikes: 0.093692
+    id: ck8t3ctsx2s650j78h7tqky4p
     verified: false
-    hashtags: "#dewyskin, #gym, #explore, #gymmotivation"
-  - username: "melbournefoodnerd"
-    fullname: >-
-      Adrian |Melbourne food blogger
-    bio: >-
-      🦠 Eating during my PhD 📸 Food photography / content creation 🍝 Pasta 🧀 Cheese 🥞 Brunch 🐍 Slytherin my DM’s for collabs 📧 melbournefoodnerd@gmail.com
-    location: "Australia"
-    followers: 6467
-    engagement: 1054
-    commentsToLikes: 0.518653
-    id: ck55n3llh5eax0i11hvpiifm6
-    verified: false
-    hashtags: "#melbournefoodnerd, #gifted, #throwback, #tacotuesday"
-  - username: "nolan_and_us"
-    fullname: >-
-      Alex | Our Life In Melbourne
-    bio: >-
-      ❀ Content Creator | Photographer | Product Stylist ❀ #Melbourne 🇦🇺 | Mum to Nolan & Lea ❀ Family | Food | Lifestyle | Things We Love ❀ Email to collab
-    location: "Australia"
-    followers: 22362
-    engagement: 228
-    commentsToLikes: 0.178710
-    id: ck0vvxer4r75z0i19xrzwbsww
-    verified: false
-    hashtags: "#foodideas, #sahmlife, #crazycatlove, #eatprettythings"
-  - username: "jakewallwork"
-    fullname: >-
-      jakewallwork
-    bio: >-
-      Freestyle Bmx rider from Melbourne Australia! @colonybmxbrand @vansaustralia @fisthandwear @rampfest @skullcandyoz @wallworks.cs @macros.com.au
-    location: "Australia"
-    followers: 18366
-    engagement: 485
-    commentsToLikes: 0.026342
-    id: ck5hhurssa6h10i11o8t3bjvo
-    verified: false
-    hashtags: "#bmx, #colonybmx, #ausbmx, #rampfest"
-  - username: "anthonysemerad"
-    fullname: >-
-      ANTHONY SEMERAD (TWIN 2)
-    bio: >-
-      Certified Nutrition Coach💪🏻 • @semeradnutrition Collab? 📧astalentmgmt@gmail.com or antsemerad@gmail.com⁣⁣
-    location: "Australia"
-    followers: 201871
-    engagement: 277
-    commentsToLikes: 0.008000
-    id: ck5cj2r1ptv0g0i11c7336mp8
-    verified: true
-    hashtags: "#australia, #inspiration, #goals, #instagood"
+    hashtags: "#gymwear, #tanning, #fitnessmodel, #bikinifitness"
 ---

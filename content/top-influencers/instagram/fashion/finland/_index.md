@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Finland in 2023
+title: Top 10 Fashion Instagram Influencers In Finland In 2023
 description: >-
-  Find top fashion Instagram influencers in Finland in 2023. Most popular hashtags: #style #syksy #bestagermodel50plus.
+  Find top fashion Instagram influencers in Finland in 2023. Most popular hashtags: #ootd #streetstyle #outfitinspo.
 platform: Instagram
-hits: 84
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 84 Instagram influencers like this in Finland for you to contact.
+hits: 94
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 94 Instagram influencers like this in Finland for you to collaborate.
 profiles:
+  - username: "maijuline"
+    fullname: >-
+      Maiju 🕊️🇫🇮
+    bio: >-
+      🍃Finland 🪞 Sewing 1901-1905 Edwardian fashion ☂️ History 🌱 Nature 👒Millinery 💚 @grevejohansen 🕊️SHOP🕊️ @sylviaquaint
+    location: "Finland"
+    followers: 30234
+    engagement: 1236
+    commentsToLikes: 0.023666
+    id: ck138old7h91u0i19kdderx67
+    verified: false
+    hashtags: "#historicalhair, #periodfashion, #edwardianhandmade, #periodsewing"
+  - username: "emjeni"
+    fullname: >-
+      Emilia Emjeni
+    bio: >-
+      ♋︎ sun ♐︎ ascendant ♌︎ moon emjenixo@gmail.com Finland 📍Helsinki Podcast @bffpodi @fashionnova Ambassador
+    location: "Finland"
+    followers: 187124
+    engagement: 176
+    commentsToLikes: 0.014297
+    id: ckxp8299ia98a0j23s82gvkzz
+    verified: false
+    hashtags: "#outfit, #ootd, #bershka"
+  - username: "alistkariss"
+    fullname: >-
+      A-LIST KARISS
+    bio: >-
+      Karissa Mitchell (NYC) Fashion Market Editor Stylist • DJ Mom @bestcasescenarionyc
+    location: "Finland"
+    followers: 5837
+    engagement: 1877
+    commentsToLikes: 0.101844
+    id: ck14lvgxwwp170i19f9s1lyil
+    verified: false
+    hashtags: "#mycalvins, #styledbyalistkariss, #womenshistorymonth"
+  - username: "suzy.antunes"
+    fullname: >-
+      Susanna Antunes
+    bio: >-
+      From Finland 🇫🇮 Living in Portugal 🇵🇹 ✈️ Traveling 👠 Fashion
+    location: "Finland"
+    followers: 3696
+    engagement: 1354
+    commentsToLikes: 0.208532
+    id: ck14lcy8wu1hv0i19jzzwtke4
+    verified: false
+    hashtags: "#neutralstyle, #discoverunder5k, #tyyli, #neutralcolors"
+  - username: "anjaschuschu"
+    fullname: >-
+      Anja Gasser 🌙 INSPO / FASHION
+    bio: >-
+      #tinyhouselife #food #nature #beauty #fashion base: #switzerland & #germany blog since 2010 - insta since 2012 info@schuschublog.com ♡ @willibaatz
+    location: "Finland"
+    followers: 18165
+    engagement: 435
+    commentsToLikes: 0.206130
+    id: ck5zy0dj48zzz0i14m083yzb9
+    verified: false
+    hashtags: "#americanstyle, #fillyourlifewithmoments, #farmgirl, #farmlife"
   - username: "instyle.by.anne"
     fullname: >-
       Anne Hirsmäki
     bio: >-
-      Finland 🇫🇮 60 + | "There is beauty in simplicity " Passion to fashion,beauty&style 👜👠💄 Collabs:DM•email www.fashionmodel.fi/adults 📸 @vhi_photography
+      Finland 🇫🇮 60yrs| "There is beauty in simplicity " Passion to fashion,beauty&style 👜👠💄 Collabs:DM•email www.fashionmodel.fi/adults
     location: "Finland"
-    followers: 22309
-    engagement: 359
-    commentsToLikes: 0.099331
+    followers: 39474
+    engagement: 380
+    commentsToLikes: 0.095406
     id: ck0tyisjin04s0i19tmoy379u
     verified: false
-    hashtags: "#beautyover50, #outfitinspiration, #fiftyplusandfabulous, #lifestyleover50"
-  - username: "tuuliinalahdensuo"
+    hashtags: "#modelover50, #50pluswomen, #aikuinennainen, #over50women"
+  - username: "susanna_penttila"
     fullname: >-
-      TUULIINA - BLOGGER/CREATOR
+      Susanna Penttilä
     bio: >-
-      25-year-old Finnish ENTP who has a passion for fashion, beauty, photography and animals! ✨
+      Mom ❤️ Ferrer fashion shop owner Finnish media person Playboy model USA ✉️susanna@ferrer.fi
     location: "Finland"
-    followers: 5279
-    engagement: 1124
-    commentsToLikes: 0.074353
-    id: ckaot3v66u9mo0i78nfrfbena
+    followers: 36828
+    engagement: 603
+    commentsToLikes: 0.034372
+    id: ckf5rgu9acmir0j23pudcski6
     verified: false
-    hashtags: "#sudio, #sudiomoments, #pillowtalk, #bubbleroomstyle"
-  - username: "tiiamaria_s"
-    fullname: >-
-      Tiia Maria
-    bio: >-
-      Motherhood | Photography | Kids fashion Família finlandesa-brasileira ✉️ contact@tiiamarias.com
-    location: "Finland"
-    followers: 4375
-    engagement: 1058
-    commentsToLikes: 0.143818
-    id: ck15u691elm300i19p5zms86a
-    verified: false
-    hashtags: "#nuna, #inspoforpojkar, #momswithcameras, #hellostoryteller"
-  - username: "jennaemilia_"
-    fullname: >-
-      Jenna Pasanen💜
-    bio: >-
-      Beauty | Makeup | Fashion Collabs 💌 jenna.pasanen3@gmail.com
-    location: "Finland"
-    followers: 2990
-    engagement: 2288
-    commentsToLikes: 0.039989
-    id: ckap5utsid9l10i78gvaf9i8g
-    verified: false
-    hashtags: "#nature, #life, #bikbok, #tb"
-  - username: "siljain"
-    fullname: >-
-      silja • lifestyle • motherhood
-    bio: >-
-      Helsinki motherhood • fashion • snapshots • kindness contact: DM • email Style host @instyleout.fi
-    location: "Finland"
-    followers: 3880
-    engagement: 958
-    commentsToLikes: 0.235478
-    id: ck5zvzknk575a0i14x2u5p5nu
-    verified: false
-    hashtags: "#rakkaus, #mystyle, #instamutsit, #momandson"
+    hashtags: "#selviytyj, #survivor, #nelonen, #survivor2021"
   - username: "imthalyaa"
     fullname: >-
-      𓂀 Zahra 𓂀
+      𓂀 T h a l y a 𓂀
     bio: >-
-      • fashion, beauty & lifestyle 📸👠💄 • business inquiries : imthalyaa@outlook.com ⌨ • 📍🇫🇮
+      • helsinki, finland 🇫🇮 • fashion, beauty and well-being 💄👠🍉 • DM for collaborations 📲
     location: "Finland"
-    followers: 4732
-    engagement: 607
-    commentsToLikes: 0.278889
+    followers: 4842
+    engagement: 672
+    commentsToLikes: 0.282780
     id: ck5hjk35qgrop0i11v3j3ro3o
     verified: false
-    hashtags: "#ad, #gifted, #kaupallinenyhteisty, #tb"
-  - username: "snybe"
+    hashtags: "#ad, #friagluteeniton, #somessacom, #fria"
+  - username: "strictlystyle"
     fullname: >-
-      Stina ”Modeling me”
+      Hanna Väyrynen
     bio: >-
-      #aikuismalli #mainosmalli #modelling #model #tfcd tv-sarja ja elokuva-avustaja Fashionmodelagencyfinland Clamosstudio Behave or Be blocked
+      Writer of style blog Strictly Style Wife&Mother👦🏼👦🏼👦🏼 🏆 Best Fashion Blog of 🇫🇮 🏆 Most Stylish Blog of 🇫🇮 Lancôme Ambassador ✉️info@hannavayrynen.com
     location: "Finland"
-    followers: 19224
-    engagement: 192
-    commentsToLikes: 0.106517
-    id: ck0w0cnxpdir00i191vk69jda
+    followers: 29982
+    engagement: 335
+    commentsToLikes: 0.042116
+    id: ck5pz9rwnzwuk0i111xq7rcva
     verified: false
-    hashtags: "#kaatismiitti, #ageisjustanumber, #modelover50, #bestagermodel"
-  - username: "ellinanoronen"
+    hashtags: "#wallark, #whiteandbeige, #lancome, #pinkbath"
+  - username: "janniamanda"
     fullname: >-
-      ELLINA NORONEN Photography
+      Janni Keituri
     bio: >-
-      ● Portrait/ Family/ Wedding/ Fashion ● DM or email ● ellinanoronen@gmail.com ● Tampere - Kazan ● Mom of three
+      lifestyle • photography • home decor • fashion • travel Content creator from Finland 📸 E-mail: contact@janniehari.fi 💌 @aititreffit Podcast 🎙️🎧
     location: "Finland"
-    followers: 4445
-    engagement: 1608
-    commentsToLikes: 0.049153
-    id: ck5zymc5wa4sb0i14eaii2tm5
+    followers: 16491
+    engagement: 457
+    commentsToLikes: 0.006261
+    id: ck8szpvh2pa3a0j78ybk8gl9w
     verified: false
-    hashtags: "#valokuvaajatampere, #photographertampere, #muotokuvaaja, #valokuvaajahelsinki"
-  - username: "juliamatleena"
-    fullname: >-
-      Julia Matleena Leppälä
-    bio: >-
-      Fashion marketing student Based in Helsinki | London🖤 Contact: juliamatleena@live.com
-    location: "Finland"
-    followers: 5170
-    engagement: 584
-    commentsToLikes: 0.063950
-    id: ck9wdiy9bfu8y0j78hhraxrm0
-    verified: false
-    hashtags: "#houseofbrandon, #iseyskyrbarsuomi, #ginamyway, #nakdfashion"
-  - username: "vilmabergenheim"
-    fullname: >-
-      Vilma Bergenheim
-    bio: >-
-      •Mother•FashionModel•HealthCoach •Brand Ambassador 💇🏼‍♀️ @cutrinfinland •My jewellery collection 💎@natalinajewellery
-    location: "Finland"
-    followers: 8685
-    engagement: 436
-    commentsToLikes: 0.058229
-    id: ck15rhcxs7xtu0i1950h06xcx
-    verified: false
-    hashtags: "#outfit, #style, #hmxme, #ootd"
+    hashtags: "#kitchen, #toddlerlife, #valio, #tarramonsteri"
 ---

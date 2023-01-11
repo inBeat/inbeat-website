@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In San Francisco in 2023
+title: Top 10 Food Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top food Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #sfeats #food.
+  Find top food Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #love #california.
 platform: Instagram
-hits: 106
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 106 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 114
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 114 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
   - username: "nick_muncy"
     fullname: >-
       Nick Muncy
     bio: >-
-      Pastry Chef at Michael Mina. Creator of Toothache Magazine. @toothache_mag Food Photographer. San Francisco, CA
+      Pastry Chef of @drool.sf. Creator of Toothache Magazine @toothache_mag. Food Photographer. San Francisco, CA
     location: "United States"
-    followers: 16174
-    engagement: 254
-    commentsToLikes: 0.033182
+    followers: 16233
+    engagement: 268
+    commentsToLikes: 0.037122
     id: ck139xxmvno6e0i194nbmpxfc
     verified: false
-    hashtags: "#saverestaurants, #togetherwecan, #toothachemag, #forchefsbychefs"
+    hashtags: "#covid19, #saverestaurants, #togetherwecan, #drooloverdrool"
+  - username: "the_happyepicurean"
+    fullname: >-
+      🇬🇺🏳️‍🌈Tim Delgado M.🏳️‍🌈🇬🇺
+    bio: >-
+      📍San Francisco, CA. 👨🏽‍💻 Content Creator ❗️DM for COLLABORATIONS ❗️
+    location: "United States"
+    followers: 20626
+    engagement: 211
+    commentsToLikes: 0.553819
+    id: ck14i4kmedm3p0i19a6a4gntb
+    verified: false
+    hashtags: "#spanishfoods, #eatinginsf, #sanfranciscodining, #the"
   - username: "allie.eats"
     fullname: >-
-      Allie Tong | Food + Travel
+      Allie Tong | Food + Recipes
     bio: >-
-      The best kinds of people are those who like to eat🍴 📸 SM Consultant + Food Photographer 📍San Francisco 🎥TikTok @allie.eats 💌 FatAllieEats@gmail.com
+      the best kinds of people are those who like to eat🍴 📸 sm consultant + food photographer 📍san francisco 🎥tiktok @allie.eats 💌 contact@allieeats.com
     location: "United States"
-    followers: 39607
-    engagement: 333
-    commentsToLikes: 0.164678
+    followers: 50223
+    engagement: 252
+    commentsToLikes: 0.081984
     id: ck0u0hjaztpnv0i194lniunog
     verified: false
-    hashtags: "#nationalpastaday, #goodfoodsfeed, #plainextraordinary, #fage"
-  - username: "nomnom_boston"
+    hashtags: "#ad, #phillycrumble, #signatureselect, #chasepartner"
+  - username: "iamrochelleheatly"
     fullname: >-
-      yusra • ইউসরা
+      Rochelle Heatly
     bio: >-
-      // boston + san francisco // food + travel ✨
+      Building wealth in your local community Financial Literacy Coach To earn additional income Text Business or Text Credit to 858-925-8876
     location: "United States"
-    followers: 72163
-    engagement: 250
-    commentsToLikes: 0.024417
-    id: ck0w0wng8ge790i194ry83yg5
+    followers: 15850
+    engagement: 236
+    commentsToLikes: 0.012734
+    id: ck14iaz5qeicq0i19pv6z40wn
     verified: false
-    hashtags: "#maine, #sanfrancisco, #boston, #oaklbk"
-  - username: "louismontano"
-    fullname: >-
-      Louis A. Montaño
-    bio: >-
-      Family | Fitness | Food #LiveMoreLegendary 📍San Francisco Bay Area 👇🏽Subscribe To My Channel👇🏽
-    location: "United States"
-    followers: 17494
-    engagement: 185
-    commentsToLikes: 0.059812
-    id: ckf5uj5mjl4zi0j233ym4yzwl
-    verified: false
-    hashtags: "#motivationmonday, #lifepoints, #livemorelegendary, #dontstaythirstymyfriends"
-  - username: "californiacalories"
-    fullname: >-
-      Eric & Allison | SF BAY AREA
-    bio: >-
-      AIR FRYER GIVEAWAY @ 5K Eating our way through the Bay and beyond 🍣🍜 🌟: @zipkick | @bestfoodsf 📩 DM/email us to collab
-    location: "United States"
-    followers: 4838
-    engagement: 1509
-    commentsToLikes: 0.406874
-    id: ck6tqxx86vd6b0j710qhesskc
-    verified: false
-    hashtags: "#sf, #bayareafoodie, #instagood, #dessert"
+    hashtags: "#creditrepair, #inspirationalquotes, #blacksandiego, #positivity"
   - username: "asideofsweet"
     fullname: >-
       San Francisco Food + Travel
     bio: >-
       Kelly from A Side of Sweet 💁🏼‍♀️ Discovering San Francisco ‘s hidden gems 🌈 Remodeling our 1st home! 🏡 Also a NICU doctor 👩🏼‍⚕️ kelly@asideofsweet.com
     location: "United States"
-    followers: 34023
-    engagement: 348
-    commentsToLikes: 0.059795
+    followers: 35681
+    engagement: 243
+    commentsToLikes: 0.062479
     id: ck0tvwfxpd3350i19hnphbesd
     verified: false
-    hashtags: "#asideofneon, #halloween, #sanfrancisco, #howsfseessf"
-  - username: "photogenicfoodies"
+    hashtags: "#healdsburg, #jordanwinery, #talentipartner, #howsfseessf"
+  - username: "bigcabbiggerhair"
     fullname: >-
-      San Francisco Food & Creative
+      K A C E Y🍷
     bio: >-
-      Featuring our favorite restaurant adventures in San Francisco and beyond👩🏻‍🍳🌁👨🏼‍🍳 • Find your next meal below 🍔 • DM to work with us 📸
+      Wine & food enthusiast 📍Napa & San Francisco | 👩🏻‍⚕️PhD
     location: "United States"
-    followers: 15011
-    engagement: 281
-    commentsToLikes: 0.024651
-    id: ck5q60mh2ve9c0i119fjhtuqx
+    followers: 21101
+    engagement: 554
+    commentsToLikes: 0.071958
+    id: ck15ugppkn3oz0i19ywzkpt62
     verified: false
-    hashtags: "#restaurantweek"
+    hashtags: "#nationalicecreamday, #sourceofjoy, #myjordanvalentinemiami, #myjordanhouston"
   - username: "peachonomics"
     fullname: >-
       P E A C H O N O M I C S
     bio: >-
-      📍: San Francisco GOOD FOODS ONLY 🥑🍫🥟🥂🍳🍜
+      📍: San Francisco GOOD FOODS ONLY 🍚🥟🥂🍳🍜
     location: "United States"
-    followers: 129288
-    engagement: 277
-    commentsToLikes: 0.042292
+    followers: 134516
+    engagement: 205
+    commentsToLikes: 0.038239
     id: ck0uapkypcskl0i19pfl0mapw
     verified: false
-    hashtags: "#sffoodie, #eatpretty, #ricebowl, #asianfoodlover"
-  - username: "lagerwithsagar"
+    hashtags: "#eatpretty, #nycfoodies, #noodles, #quarantinecooking"
+  - username: "louisraphael"
     fullname: >-
-      LagerWithSagar
+      L o u i s R A P H A E L
     bio: >-
-      🍽 Food Lover▪️Food Photographer📸 📈 @palateconnect influencer 👇 DM | Email for collabs/business/promotions 📍Hackensack | New Jersey
+      🌁 𝕄𝕒𝕘𝕚𝕔𝕒𝕝 𝕊𝕒𝕟 𝔽𝕣𝕒𝕟𝕔𝕚𝕤𝕔𝕠™ 🖊 + 📸 @musicinsf 🏠 📸 for Pacific Realty My book is available as a pre-order ⤵️
     location: "United States"
-    followers: 6079
-    engagement: 749
-    commentsToLikes: 0.028328
-    id: ck136tjaw86oa0i19fex6hjc7
+    followers: 43977
+    engagement: 247
+    commentsToLikes: 0.034141
+    id: ck5c5v27l47d40i11dqp43rwm
     verified: false
-    hashtags: "#eats, #eeeeats, #sanfran, #hungry"
+    hashtags: "#california, #wildcalifornia, #igescaype, #sanfrancitizens"
+  - username: "psychic_sima"
+    fullname: >-
+      Psychic spiritual healer
+    bio: >-
+      Top rated love ❤️ expert 🔮 licensed for over 39 master spell 💫caster Chakra balancing DM WhatsApp 929 264-1601 for info psychic/empath
+    location: "United States"
+    followers: 47932
+    engagement: 1079
+    commentsToLikes: 0.004292
+    id: ck8tdf4mo34830j78f9u44lwx
+    verified: false
+    hashtags: "#newyorkcity, #twinflame, #1111, #soulmate"
   - username: "nantuck3t"
     fullname: >-
       nanette
     bio: >-
       Eating my feelings + they taste delicious. Adweek Creative 100 📍San Francisco @fentybeauty 🍩 food + #travel ✈️ + interiors All opinions are my own.
     location: "United States"
-    followers: 46932
-    engagement: 112
-    commentsToLikes: 0.135767
+    followers: 45724
+    engagement: 96
+    commentsToLikes: 0.126556
     id: ck6u3vh8i04e70j71t7moub0j
     verified: false
-    hashtags: "#letsgosomewhere, #ad, #boba, #lojelcollective"
+    hashtags: "#stopaapihate, #sanfrancisco, #vanleeuwenicecream, #vanleeuwenpartner"
 ---

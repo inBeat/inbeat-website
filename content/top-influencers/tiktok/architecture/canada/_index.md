@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Canada in 2023
+title: Top 10 Architecture TikTok Influencers In Canada In 2023
 description: >-
-  Find top architecture TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #architecture #canada #foryoupage.
+  Find top architecture TikTok influencers in Canada in 2023. Most popular hashtags: #architecture #foryoupage #fyp #foryou.
 platform: TikTok
-hits: 10
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Canada for you to pitch.
+hits: 14
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 14 TikTok influencers like this in Canada for you to pitch.
 profiles:
+  - username: "ryandubs"
+    fullname: >-
+      Ryan Dubs
+    bio: >-
+      Brand King & creative director to the stars🍾🎈🏳️‍🌈 My skincare brand DEW!👇🏼
+    location: "Canada"
+    followers: 352900
+    engagement: 1161
+    commentsToLikes: 0.018781
+    id: ck9bxqhdwmpz70j780szuz2c4
+    verified: false
+    hashtags: "#mansion, #manifest, #entrepreneur, #rich"
   - username: "the_sparkler_"
     fullname: >-
       Sparkle Snaps
     bio: >-
       follow my insta for abandoned photos IG: @the_sparkler
     location: "Canada"
-    followers: 8390
-    engagement: 760
-    commentsToLikes: 0.025061
+    followers: 8336
+    engagement: 750
+    commentsToLikes: 0.024895
     id: ckac5t77zdmnc0i7806f6adys
     verified: false
-    hashtags: "#adventure, #foryoupage, #photography, #usa"
+    hashtags: "#photography, #viral, #foryoupage, #photographyeveryday"
   - username: "mattsau"
     fullname: >-
-      Matt
+      matt
     bio: >-
       swag city resident 😎
     location: "Canada"
-    followers: 34300
-    engagement: 1453
-    commentsToLikes: 0.020842
+    followers: 69300
+    engagement: 2195
+    commentsToLikes: 0.026339
     id: ckdi768gm8ym30j23oeerxl1p
     verified: false
-    hashtags: "#fyp, #goldfish, #college, #architecture"
-  - username: "husorsus"
+    hashtags: "#college, #architecture, #interiordesign, #stitch"
+  - username: "sanakoala"
     fullname: >-
-      Husnain Ahmed
+      Sana Koala
     bio: >-
-      
+      Gamer girl😎 I Love my followers 🤍 Goal 20k😋
     location: "Canada"
-    followers: 25800
-    engagement: 1431
-    commentsToLikes: 0.020186
-    id: ckdhyrz6q4ydk0j23nr2sez3o
+    followers: 13100
+    engagement: 558
+    commentsToLikes: 0.073049
+    id: ck97xo1z6w5al0j785f6gskft
     verified: false
-    hashtags: "#fashion, #toronto, #alphets, #summervlog"
-  - username: "rydubs"
+    hashtags: "#modernwarfare, #xyzbca, #4u, #warzone"
+  - username: "mearrra"
     fullname: >-
-      Ryan Dubs
+      Meara
     bio: >-
-      
+      meara pronounced mara You’ve won a FREE CRUISE! follow to claim ur prize 🛳🏝
     location: "Canada"
-    followers: 0
-    engagement: 1107
-    commentsToLikes: 0.023399
-    id: ck9bxqhdwmpz70j780szuz2c4
+    followers: 5180
+    engagement: 1100
+    commentsToLikes: 0.039084
+    id: ckc82m5x03bqd0j23p42j4miw
     verified: false
-    hashtags: "#businesstips, #businesstiktok, #marketing, #beauty"
-  - username: "blanche_olt_"
+    hashtags: "#foryoupage, #foryou, #duet, #fyp"
+  - username: "code.savvi"
     fullname: >-
-      𝓑 𝓵 𝓪 𝓷 𝓬 𝓱 𝓮
+      Ken Long - Building Code SAVVi
     bio: >-
-      𝚃𝚊𝚞𝚛𝚞𝚜 ♉️ ☞︎𝚜𝚗𝚊𝚙: 𝚋𝚕𝚊𝚗𝚌𝚑𝚎𝚘𝚞𝚎𝚕𝚕𝚎𝚝☜︎ (☞ ͡° ͜ʖ ͡°)☞
+      Renovation Consultant Former Contractor Code SAVVi Founder 🇨🇦Building Code App
     location: "Canada"
-    followers: 7665
-    engagement: 1357
-    commentsToLikes: 0.034731
-    id: ck92uy4rno4xd0j780d5i1lmd
-    verified: false
-    hashtags: "#friends, #greenscreenvideo, #backtoschool, #gimmelove"
-  - username: "renoiq"
-    fullname: >-
-      Ken Long - RenoIQ
-    bio: >-
-      Renovation Consultant Former Contractor Reno IQ Podcast T.O 🇨🇦
-    location: "Canada"
-    followers: 56500
-    engagement: 366
-    commentsToLikes: 0.025272
+    followers: 253800
+    engagement: 506
+    commentsToLikes: 0.014625
     id: ck81s98a9qyng0j78xv7mar3y
     verified: false
-    hashtags: "#foryoupage, #tips, #homeowner, #handyman"
-  - username: "nate.ferro"
+    hashtags: "#diy, #tools, #carpenter, #tapemeasure"
+  - username: "_itstash"
     fullname: >-
-      Nate Ferro
+      Tash
     bio: >-
-      REAL ESTATE | LIFE Simek Realty Group
+      she/her Educate yourself on BLM👇🏼
     location: "Canada"
-    followers: 2759
-    engagement: 392
-    commentsToLikes: 0.036874
-    id: ckbf88732yr6q0j2398lktc2f
+    followers: 17700
+    engagement: 839
+    commentsToLikes: 0.037541
+    id: ckammxlbu2h1w0i78r3gkcn97
     verified: false
-    hashtags: "#foryou, #luxuryhomes, #hamilton, #luxury"
+    hashtags: "#engineeringstudent, #construction, #womeninstem, #engineer"
+  - username: "exclusivelyexpensive"
+    fullname: >-
+      ExclusivelyExpensive
+    bio: >-
+      ▪️|“Luxury is in each detail”👑 ▪️| @exclusivelyexpensive on IG Let’s hit 20k🔥
+    location: "Canada"
+    followers: 16000
+    engagement: 394
+    commentsToLikes: 0.052278
+    id: ck9nde92zcr510j78eyw5n8ar
+    verified: false
+    hashtags: "#networth, #foru, #housetour, #modern"
   - username: "tianatait"
     fullname: >-
-      Tiana 💗
+      Tiana 🦋
     bio: >-
-      🇮🇹♾🧿 Architectural Designer & Owns 2 Businesses✨
+      WELCOME TO HAIRTOK 👩🏼🇮🇹🇨🇦 Architectural designer & business owner x2
     location: "Canada"
-    followers: 14800
-    engagement: 625
-    commentsToLikes: 0.090601
+    followers: 29300
+    engagement: 681
+    commentsToLikes: 0.039240
     id: cka61erqrv3vc0i780gx1sbx6
     verified: false
-    hashtags: "#canada, #canadiancheck, #duet, #winnipeg"
+    hashtags: "#tianatait, #healthyhair, #hairgrowth, #hairbrush"
   - username: "oliviasarts"
     fullname: >-
       Olivia
     bio: >-
       I draw a lot Check out my IG for more art🐝
     location: "Canada"
-    followers: 10300
-    engagement: 1851
-    commentsToLikes: 0.044214
+    followers: 10100
+    engagement: 1713
+    commentsToLikes: 0.041001
     id: ckafu2lz18fje0i78t4a7mco6
     verified: false
-    hashtags: "#art, #sketch, #storyline, #pen"
-  - username: "mza.19"
-    fullname: >-
-      Doctor President 💯
-    bio: >-
-      laugh more live more learn more 😂🤔😊 ps I do not own these videos.😇
-    location: "Canada"
-    followers: 4058
-    engagement: 411
-    commentsToLikes: 0.015974
-    id: ck9nczvhfcda50j78lmjcub9c
-    verified: false
-    hashtags: "#water, #cat, #lol, #dog"
+    hashtags: "#storyline, #sketch, #create, #art"
 ---

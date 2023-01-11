@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In San Francisco in 2023
+title: Top 10 Home Decor Instagram Influencers In San Francisco In 2023
 description: >-
-  Find top home decor Instagram influencers in San Francisco in 2023. Most popular hashtags: #homedecor #sanfrancisco #flowers #ltkhome.
+  Find top home decor Instagram influencers in San Francisco in 2023. Most popular hashtags: #homedecor #sanfrancisco #interiordesign #liketkit.
 platform: Instagram
-hits: 29
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 29 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 31
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 31 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "margaretrussell"
+  - username: "christmasglitter"
     fullname: >-
-      Margaret Russell
+      Christmasglitter🎄Est. Oct 2013
     bio: >-
-      Design journalist, editor, stylist, media/design consultant. Former Editor in Chief of @archdigest and @elledecor. Engaged in politics, art, culture.
+      🎄The best way 2 spread Christmas cheer is singing loud for all to hear🎄Pics not mine🎄TO COLLABORATE DM ME🎄not connected with ads🎄Follow @mommyglitter
     location: "United States"
-    followers: 88296
-    engagement: 139
-    commentsToLikes: 0.061448
-    id: ck0tx9a8cic2h0i19pdt4j2jx
+    followers: 135179
+    engagement: 173
+    commentsToLikes: 0.007385
+    id: ck14h820g904s0i1923zv17hu
+    verified: false
+    hashtags: "#nutcracker, #decor, #homedecor, #sanfrancisco"
+  - username: "jentalbotdesign"
+    fullname: >-
+      Jen Talbot Design
+    bio: >-
+      Chicago + NYC + San Fran | Curating Modern Spaces. ELLE DECORATION Turkey, Netherlands, Indonesia, House Beautiful, LivingETC
+    location: "United States"
+    followers: 38009
+    engagement: 127
+    commentsToLikes: 0.093483
+    id: ckaoqrxz0k3gu0i7807hbcefm
+    verified: false
+    hashtags: "#elledecor, #dominomagazine, #modernliving, #masterbedroomdecor"
+  - username: "thewhimsysoul"
+    fullname: >-
+      Kara Harms
+    bio: >-
+      Founder of Whimsy Soul, a lifestyle website. We help women find their everyday magic ✈️ 💄👗🍷 📍San Francisco with my💍 🐈 #bodypositive ❤️ 👇read this
+    location: "United States"
+    followers: 78397
+    engagement: 45
+    commentsToLikes: 0.050864
+    id: ck0vyev8m3ms70i19841ssztd
+    verified: false
+    hashtags: "#porto, #sanfrancisco, #whimsysoul, #whimsysoultravels"
+  - username: "lombardandfifth"
+    fullname: >-
+      Veronica  Levy
+    bio: >-
+      Feminine Style | Girl mama life | Bits of Home San Francisco, CA 📍 👇🏻more on the blog
+    location: "United States"
+    followers: 117002
+    engagement: 171
+    commentsToLikes: 0.136283
+    id: ck55pf3xlafbe0i118s1x3mrf
+    verified: false
+    hashtags: "#ad, #howto, #liketkit, #mommyandme"
+  - username: "plantyofpots"
+    fullname: >-
+      Planty of Pots
+    bio: >-
+      🌬 San Francisco 📷 iPhone | All photos my own 🌿 I love foliage
+    location: "United States"
+    followers: 5905
+    engagement: 594
+    commentsToLikes: 0.029020
+    id: ck0vzfkbw8v420i193ci5hacr
+    verified: false
+    hashtags: "#plantyspaces, #lifearoundplants, #philodendronpinkprincess, #plantstyling"
+  - username: "fashionbyally"
+    fullname: >-
+      Ally Chen • San Francisco
+    bio: >-
+      style, travel, and healthy living inspo💛 〰️ 970k on youtube & tiktok 🌁 Designer @shopfashionbyally 💌 mgmt@fashionbyally.com
+    location: "United States"
+    followers: 118529
+    engagement: 133
+    commentsToLikes: 0.021030
+    id: ck0tu5zzw5siu0i198dfpshra
     verified: true
-    hashtags: "#decoration, #presidentobama, #whenweallvote, #michaelsmithinc"
-  - username: "prestigetree"
+    hashtags: "#sfblogger, #darlingescapes, #neutralstyle, #sanfrancisco"
+  - username: "classycleanchic"
     fullname: >-
-      Ty
+      Emerson 🦋
     bio: >-
-      Photography taken during work research and traveling tyclimbstrees
+      👩🏼‍💻Engineer turned FULL TIME FASHION BLOGGER 🐶Minneapolis dog mom @classycleancoco 🛍@shopclassycleanchic ✨I bought a condo🏡🏙🌤
     location: "United States"
-    followers: 194726
-    engagement: 68
-    commentsToLikes: 0.001803
-    id: ck14j2dqfia8c0i19i6xf8k6v
+    followers: 425759
+    engagement: 179
+    commentsToLikes: 0.105149
+    id: ck136v23q8epd0i19wfd6l9i5
     verified: false
-    hashtags: "#inspirephotography, #birds, #travel, #instagood"
-  - username: "breanajsmith"
+    hashtags: "#revolveme, #ltksalealert, #winteroutfit, #minnesota"
+  - username: "b.sac"
     fullname: >-
-      Breana Janay Smith
+      ΒsΔc
     bio: >-
-      City living in SF with my love @liamnoinsta Baby Girl Sloane + Doodle Pup Bristol Want to know more about me? Click here ⬇️
+      🌜🌞✨SimplyMΞ 🌻✌🏼💛
     location: "United States"
-    followers: 5782
-    engagement: 707
-    commentsToLikes: 0.060450
-    id: ck13crggi1t0y0i19dyb0ztav
+    followers: 5201
+    engagement: 358
+    commentsToLikes: 0.061551
+    id: ck5bte2v2fssj0i1118zrrtfw
     verified: false
-    hashtags: "#sendingoutansos, #sosobsessed, #fall, #girlmom"
-  - username: "vanessaevelynh"
+    hashtags: "#vsco, #beautifuldestinations, #bohostyle, #simplybsac"
+  - username: "kristywicks"
     fullname: >-
-      Vanessa Evelyn H.
+      KRISTY • WICKS
     bio: >-
-      San Francisco 🌁 Engaged 💘 YouTube ⤵️
+      Lifestyle, Food, Home & Travel ✨ 📍Santa Barbara/SF 🏝
     location: "United States"
-    followers: 49520
-    engagement: 249
-    commentsToLikes: 0.048058
-    id: ck5byco8jowwi0i11vdsq5xj6
+    followers: 480494
+    engagement: 305
+    commentsToLikes: 0.038674
+    id: ck0u0jg9atyqy0i19dm88fu8d
     verified: false
-    hashtags: "#aldocrew, #revolve, #falllookbook, #superdown"
-  - username: "trendenvy"
+    hashtags: "#summervibes, #ltkhome, #homedecor, #lovemyhusband"
+  - username: "timurdc"
     fullname: >-
-      Christine Yun | San Francisco
+      Timur Tuğberk
     bio: >-
-      Everyday, effortless chic fashion San Francisco, CA TikTok @trendenvy hello@trendenvy.com
+      👨‍💻Creative Consultant @designingthedistrict 📍#MIAMI ✈️Travel 🍱Eat 🤹‍♂️Play 🛍Shop 🇺🇸🏳️‍🌈🇹🇷 VOTED 2019 BEST LOCAL INFLUENCER #BestOfGayDC
     location: "United States"
-    followers: 16340
-    engagement: 189
-    commentsToLikes: 0.125679
-    id: ck8t8q47ilcex0j78p3kpqw6a
+    followers: 13661
+    engagement: 878
+    commentsToLikes: 0.026552
+    id: ck0w1j2w0jlbr0i1974x3cshd
     verified: false
-    hashtags: "#cardigan, #ad21, #hbdtome, #flowersonflowers"
-  - username: "paintedladiespastry"
-    fullname: >-
-      Maya
-    bio: >-
-      San Francisco Bay Area Cookie Artist “khaki wishes and cookie dreams!” ✨✨✨ *Not currently accepting orders*
-    location: "United States"
-    followers: 19439
-    engagement: 563
-    commentsToLikes: 0.274766
-    id: ck0u9i66b9yds0i197nfaylg3
-    verified: false
-    hashtags: "#undiscoveredbaker, #icingcookies, #cookieinspo, #summercookies"
-  - username: "french.morning"
-    fullname: >-
-      French Morning
-    bio: >-
-      Premier média francophone des Etats-Unis 🇫🇷🇺🇸 New York | Paris | London | Los Angeles | Miami | Montreal | San Francisco | Washington DC
-    location: "United States"
-    followers: 14519
-    engagement: 289
-    commentsToLikes: 0.019123
-    id: ck15u8pt5lywy0i1916eyg2v1
-    verified: false
-    hashtags: "#frenchintheus, #webinaire, #confinement, #frenchmorning"
-  - username: "fromeast2west_"
-    fullname: >-
-      Danielle & Rachael
-    bio: >-
-      CT > SF > Chicago Petite • Travel • Health • Sustainable Lifestyle • CPAs • Shop looks here! 👇🏻
-    location: "United States"
-    followers: 6362
-    engagement: 590
-    commentsToLikes: 0.102844
-    id: ck6tmz4uv8t8v0j71b2h0r0k9
-    verified: false
-    hashtags: "#petitestyle, #streetstyle, #aesthetic, #minimalism"
-  - username: "thegeelife"
-    fullname: >-
-      𝗚𝗲𝗲
-    bio: >-
-      🌿 Wifey 💍 Boy Mom👩‍👦 💙 Food, Fashion, Fam, Fitness, Beauty, Home 🌴 California Blogger 💌 Thegeelife1@gmail.com #lifestylebloggers #indianblogger
-    location: "United States"
-    followers: 62041
-    engagement: 184
-    commentsToLikes: 0.108735
-    id: ckaouxq2n29ve0i78sncwne34
-    verified: false
-    hashtags: "#whatiworetoday, #travelkids, #homegoodsfinds, #stylegram"
-  - username: "jeanniedouglasart"
-    fullname: >-
-      Jeannie Douglas Colorful Art
-    bio: >-
-      🌻Acrylic Abstract Art Blooming with Joy! 🌻Floral & Landscape Paintings inspired by the beauty of nature #jeanniedouglasart ORIGINALS/PRINTS👇Dm/Email
-    location: "United States"
-    followers: 24597
-    engagement: 256
-    commentsToLikes: 0.087577
-    id: ck8tc138nxwnv0j78ihbokyhg
-    verified: false
-    hashtags: "#abstractlandscape, #flowerart, #studioscenes, #californiaartist"
+    hashtags: "#gay, #dcblogger, #gayboy, #fashioninfluencer"
 ---

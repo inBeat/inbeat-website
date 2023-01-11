@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Canada in 2023
+title: Top 10 Yoga Instagram Influencers In Canada In 2023
 description: >-
-  Find top yoga Instagram influencers in Canada in 2023. Most popular hashtags: #hikingadventures #beautifuldestinations #yoga.
+  Find top yoga Instagram influencers in Canada in 2023. Most popular hashtags: #yoga #yogachallenge #yogapractice.
 platform: Instagram
-hits: 211
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 211 Instagram influencers like this in Canada for you to contact.
+hits: 95
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 95 Instagram influencers like this in Canada for you to connect with.
 profiles:
+  - username: "marc_fitt"
+    fullname: >-
+      Marc Fitt
+    bio: >-
+      🇨🇦Everything is possible. #NeverStopDreaming @rise @maisonnord @yoga
+    location: "Canada"
+    followers: 1208377
+    engagement: 70
+    commentsToLikes: 0.007189
+    id: ck0vwiukfu0hy0i19r3guugmm
+    verified: true
+    hashtags: "#neverstopdreaming, #teamfitt, #progress, #everythingispossible"
   - username: "odditie"
     fullname: >-
       Jordy Todosey
     bio: >-
       Canadian Award Winning Actress Alien•YogaTeacher•Singer•Writer•Creator Pursuing Passions & Purpose New♫soon me~ @oddirie ♡Visit my OnlyFans♡ 1.618
     location: "Canada"
-    followers: 41704
-    engagement: 502
-    commentsToLikes: 0.059157
+    followers: 42353
+    engagement: 520
+    commentsToLikes: 0.057695
     id: ck9hcrg5emodn0j78crkg7gvk
     verified: true
-    hashtags: "#morning, #fitness, #blackouttuesday, #yoga"
-  - username: "dee_sik"
+    hashtags: "#flexibility, #morning, #glutes, #teamtoqi"
+  - username: "ktmosborne"
     fullname: >-
-      Ildiko
+      Katie Osborne
     bio: >-
-      Travel. Photography. Yoga. Wellness. Sharing life’s adventures ✈️ 50+ countries 📍Toronto 📸 @sikphotograph
+      tv host/reporter | former swimmer | mission driven | ca | coffee. yoga. cookery. tulips. racing. joy project | aka Kate @nbcsports @fs1: motors+sports
     location: "Canada"
-    followers: 4748
-    engagement: 1048
-    commentsToLikes: 0.343086
-    id: ck8t0oyzzsrc20j78d6a7lnor
+    followers: 36138
+    engagement: 381
+    commentsToLikes: 0.038785
+    id: ck14ib0lreimq0i19ehitx576
     verified: false
-    hashtags: "#wanderlust, #latergram, #photooftheday, #justgoshoot"
-  - username: "claudia.mars"
+    hashtags: "#kissimmee, #mentalhealth, #daytona, #carollshelby"
+  - username: "slma_ab"
     fullname: >-
-      Claudia Mars
+      Salma 🐸🇲🇦
     bio: >-
-      🦅Founder @riseonline.ca 🎓Certified: nutrition specialist, personal trainer, yoga instructor, genetic-based program designer
+      📍 Montreal 🌱 Yoga since September 2017 💌 salmandyoga@hotmail.com
     location: "Canada"
-    followers: 204739
-    engagement: 206
-    commentsToLikes: 0.046515
-    id: ck0w3ms6tu7eo0i19tni0esca
+    followers: 90136
+    engagement: 254
+    commentsToLikes: 0.027642
+    id: ck13b73m7u08l0i197lka98er
     verified: false
-    hashtags: "#letyourselfbloom, #alohababe, #nebbiafamily"
-  - username: "lori_dawnolyn"
-    fullname: >-
-      Lori Dawnolyn-Lifestyle Model
-    bio: >-
-      Agency Represented | Yoga Enthusiast | Age Positive Advocate 📍Toronto - @modeelle Inquiries: lori.dawnolyn@gmail.com
-    location: "Canada"
-    followers: 7588
-    engagement: 1235
-    commentsToLikes: 0.242348
-    id: ck14kjbrnpscf0i195amwqp8c
-    verified: false
-    hashtags: "#canadaday, #challengeaccepted, #womensupportingwomen"
-  - username: "anickdumontet"
-    fullname: >-
-      Anick Dumontet
-    bio: >-
-      Tv host 📺 Anime la Roue de Fortune depuis 12 ans 🍀 Hockey mom ❤️🥅 Gym, course, yoga 🧘🏻‍♀️ Bouffe bio🍋 Toujours de plus en plus verte 🌱
-    location: "Canada"
-    followers: 33525
-    engagement: 417
-    commentsToLikes: 0.037906
-    id: ck5zxzjbf8yh80i14lfzk8os2
-    verified: false
-    hashtags: "#tbt, #throwbackthursday, #throwback, #halloweemdecorations"
+    hashtags: "#yogapose, #challenge, #selflove, #dailypractice"
   - username: "alihock_yogi"
     fullname: >-
       Ali 🤸‍♀️
     bio: >-
-      💯Yogagirl 🇨🇦 E.D Survivor 👊🏻 #yogainjeans👖 For 15% off @_mindmade use code ALIMINDMADE15%OFF www.mindmadeshop.com
+      💯Yogagirl 🇨🇦 👊🏻 #yogainjeans👖 ❤️My yoga life🧘‍♀️Yoga heals 🤍 "When you own your life, nobody can steal your peace" 🕊
     location: "Canada"
-    followers: 13528
-    engagement: 476
-    commentsToLikes: 0.200573
+    followers: 13512
+    engagement: 237
+    commentsToLikes: 0.175956
     id: ck8t6mu65e5x50j78a5qkgt69
     verified: false
-    hashtags: "#yogini, #yogalife, #flexiflyingyoga, #asana"
-  - username: "allyandnicholas"
+    hashtags: "#yogalife, #yogaoutside, #canadianbrand, #yogiofinstagram"
+  - username: "_melissayogi"
     fullname: >-
-      Wedding Photographers
+      Melissa | YOGA
     bio: >-
-      •storytellers of human connection •compassionate living •creators of @weddinglegends •presets @allyandnicholaspresets •yoga @practiceloveeveryday
+      @_melissaaliu • registered yoga teacher-250 🌻 contact for privates, workshops & collabs
     location: "Canada"
-    followers: 16219
-    engagement: 284
-    commentsToLikes: 0.123870
-    id: ck0w5wx5k5u180i19i07d0sfh
+    followers: 6332
+    engagement: 573
+    commentsToLikes: 0.074061
+    id: ckap772poiwhk0i78r3ie5qsl
     verified: false
-    hashtags: "#lightandlovepresets, #engaged, #connection, #healing"
-  - username: "jesscampoli"
+    hashtags: "#fireflypose, #halfmoonpose, #yogatreestudios, #sugarcanepose"
+  - username: "miranda.avidyogi"
     fullname: >-
-      Jessica campoli 🌸
+      Miranda 🌞✨| yoga + movement
     bio: >-
-      • 𝐻𝑎𝑖𝑟𝑑𝑟𝑒𝑠𝑠𝑒𝑟 -> @hairbyjessiica @beautemaudite • Travel✈️ • Yoga @studio_nostaa 🧘🏼‍♀️ . 💙💍 @maxmicrobeau
+      Yoga Lover | Canadian Dweller | Chocolate Craver ♥Spreading the joy of yoga with sprinkles of real life..because who’s doesn’t love dogs?🐶💛 📍AB,Canada
     location: "Canada"
-    followers: 12709
-    engagement: 426
-    commentsToLikes: 0.149890
-    id: ck8tbktdxw1920j78vqw24wqt
+    followers: 83880
+    engagement: 103
+    commentsToLikes: 0.036983
+    id: ck0u0411bsha60i19gim2zjk1
     verified: false
-    hashtags: "#hiking, #positive, #outfitinspiration, #banffnationalpark"
-  - username: "amandaduplessisfit"
+    hashtags: "#yogacommunity, #yinyogapose, #yogachallenge, #alowintershapes"
+  - username: "nathalieshanti"
     fullname: >-
-      Amanda
+      Nathalie▪️Yoga & Health Coach
     bio: >-
-      Amanda DuPlessis - Personal Trainer 📍Whistler Links ⬇️ @youcanbeam : Amandafit @musesonly_yoga : Amanda 10 @freespiritoutlet : Amandafit
+      ✨ Yoga | Fitness | Holistic Health 🌱 I help women treat their thyroid imbalances 🎥 Yoga flows & Workouts on YouTube ✉️ nathalie@yogatoglow.com
     location: "Canada"
-    followers: 10945
-    engagement: 628
-    commentsToLikes: 0.065289
-    id: ck5zk3ajjiqie0i148umapojy
+    followers: 53032
+    engagement: 236
+    commentsToLikes: 0.117849
+    id: ck8tcndc300ns0j78y9ktrlq9
     verified: false
-    hashtags: "#beautifulbritishcolumbia, #hikingadventures, #bikini, #escapethecity"
-  - username: "gwengwiz"
+    hashtags: "#aloaprilfunkyfool, #yogatime, #yoga, #backbendlove"
+  - username: "thesporadictraveler"
     fullname: >-
-      gwen 🌵🌞🌈🐈💘👼🏼🌊🌴🌅✨
+      Nomadic Soul🛫
     bio: >-
-      you are so much lovelier than you think 🕊 vegan, mental health, yoga, nature, fashion + beauty lovin gal who makes youtube vids at home with her cat
+      Blending Mental Health Awareness with Travel 🧢 Hat Collector Email: thesporadictraveler@gmail.com Mental health Advocate Avid Hiker| Yoga Fanatic
     location: "Canada"
-    followers: 99683
-    engagement: 272
-    commentsToLikes: 0.025602
-    id: ck15tffpehthk0i19yn18b5lb
+    followers: 2602
+    engagement: 629
+    commentsToLikes: 0.121502
+    id: ck9wenhrjl2240j78l61ib6ax
     verified: false
-    hashtags: ""
+    hashtags: "#travelblogger, #travel, #ignation, #explore"
+  - username: "ambsmartin_"
+    fullname: >-
+      Amberlynn
+    bio: >-
+      ॐ Yoga, Power sports, Developmental Service Worker, Herbalist 🌱✌🏻Mind.Body.Spirit🧘🏼‍♀️ @macrofoods @365mx @toughduck @mindfulnessadventures
+    location: "Canada"
+    followers: 12972
+    engagement: 489
+    commentsToLikes: 0.022047
+    id: ck6ugcq6l28ro0j71nhsqgyuy
+    verified: false
+    hashtags: "#fishing, #windsorgiveaway, #canada, #canadagiveaway"
 ---

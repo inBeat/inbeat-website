@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Izmir in 2023
+title: Top 10 Fashion Instagram Influencers In Izmir In 2023
 description: >-
-  Find top fashion Instagram influencers in Izmir in 2023. Most popular hashtags: #fashion #style #izmir #makeup.
+  Find top fashion Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #fashion #style #love.
 platform: Instagram
-hits: 139
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 139 Instagram influencers like this in Izmir, Turkey for you to connect with.
+hits: 121
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database holds 121 Instagram influencers like this in Izmir, Turkey for you to work with.
 profiles:
+  - username: "bysulekurtar"
+    fullname: >-
+      Şule Kurtar Butik®️ ♥
+    bio: >-
+      ♡ @sulekurtar ♡ Reklam ve İşbirliği için dm ♡ Değişim mevcut (3 gün) ♡ İndirimli ürünlerde değişim yoktur ♡ İade yoktur ♡ Ürün ayrımı yapamıyoruz ♥
+    location: "Turkey"
+    followers: 117398
+    engagement: 163
+    commentsToLikes: 0.006477
+    id: ckf5lw2w7r9wi0j23p1zxa41y
+    verified: false
+    hashtags: "#streetstyle, #outfits, #adana, #ankara"
+  - username: "pisimel"
+    fullname: >-
+      Melike Birinci
+    bio: >-
+      Influencer / Fashion 📍İzmir @mavisehir_dergisi
+    location: "Turkey"
+    followers: 53321
+    engagement: 206
+    commentsToLikes: 0.061655
+    id: ckaou7ngyz5yo0i789594515d
+    verified: false
+    hashtags: "#ootdfashion, #pretty, #ootdbloggers, #womanslook"
   - username: "egriboz"
     fullname: >-
       Mustafa Eğriboz
     bio: >-
-      #director  & #photographer ✉️ mustafaegriboz@gmail.com @meppmedia #istanbul 📷🎥🎬🇹🇷 Miss Globe International
+      #director  & #photographer ✉️ mustafaegriboz@gmail.com @meppmedia #istanbul 📷🎥🎬🇹🇷 @mepptalent 💫🍀🎭
     location: "Turkey"
-    followers: 31615
-    engagement: 166
-    commentsToLikes: 0.058108
+    followers: 31276
+    engagement: 158
+    commentsToLikes: 0.051476
     id: ck0w40xhew8sk0i198yrm24b6
     verified: false
-    hashtags: "#meppmedia, #hair, #bugsekonya, #influencerstyle"
-  - username: "seydaseydacaltu"
+    hashtags: "#photo, #me, #meppmedia, #models"
+  - username: "yolduslerim"
     fullname: >-
-      ŞEYDANINDÜNYASI
+      AYKUT ÇOBAN
     bio: >-
-      Rehber hanım diyeceksiniz🍂 @seydaseydacaltu 🍓REKLAM VE İŞBİRLİĞİ İÇİN DM🍓 🍓2.el kıyafetçi🍓 KÜTAHYA,BURSA,BALIKESİR,İZMİR,TRABZON
+      ⏳~ 🎒 Hoşgeldin 😃 📍 anywhere 🚩herhangi biryer 🗺️ 16 countries/ülke ⬇️ Yolculuğuma Destek Olmak istersen ⬇️
     location: "Turkey"
-    followers: 17517
-    engagement: 411
-    commentsToLikes: 0.177480
-    id: ck9hc60xfjyq10j78mcmhmgwa
+    followers: 11419
+    engagement: 480
+    commentsToLikes: 0.035887
+    id: ckaot6hkpulg10i78qcehseuc
     verified: false
-    hashtags: "#blogger, #smile, #trabzon, #photooftheday"
-  - username: "kreaplin"
+    hashtags: "#travel, #hongkong, #yolduslerim, #asia"
+  - username: "melaybuseblog"
     fullname: >-
-      Oğuzhan Göncü
+      𝕸𝖊𝖑𝖆𝖞 𝕭𝖚𝖘𝖊.. (¸.•*´♥`*•.¸)
     bio: >-
-      Travel•Lifestyle•Fashion Founder&Creative Director of @meandmo.co METU•ODTÜ 👨🏻‍🔬 📍Ankara,Turkey ◾️Content creator ◾️Social media manager
+      ★ 𝓚𝓸𝔃𝓷𝓮𝓽𝓲𝓴/𝓜𝓪𝓴𝔂𝓪𝓳/𝓞𝓳𝓮 ★ Ü𝓻ü𝓷 İ𝓷𝓬𝓮𝓵𝓮𝓶𝓮 𝓿𝓮 𝓨𝓸𝓻𝓾𝓷𝓵𝓪𝓶𝓪 ★ 𝓚𝓪𝓻𝓶𝓪/𝓗𝓪𝓼𝓼𝓪𝓼 𝓒𝓲𝓵𝓽 ★𝓕𝓸𝓽𝓸ğ𝓻𝓪𝓯𝓵𝓪𝓻 𝓫𝓪𝓷𝓪 𝓪𝓲𝓽𝓽𝓲𝓻.İ𝔃𝓲𝓷𝓼𝓲𝔃 𝓚𝓾𝓵𝓵𝓪𝓷𝓲𝓵𝓪𝓶𝓪𝔃. ⍟̤İ𝓵𝓮𝓽𝓲ş𝓲𝓶 𝓿𝓮 𝓟𝓻 𝓲ç𝓲𝓷 𝓓𝓜📩⍟̤
     location: "Turkey"
-    followers: 37381
-    engagement: 289
-    commentsToLikes: 0.394580
-    id: ck8t099d1r9ke0j785jy0tnj2
+    followers: 64428
+    engagement: 274
+    commentsToLikes: 0.054257
+    id: ckap0iko0qg5z0i78f3mcsmy7
     verified: false
-    hashtags: "#manfashion, #coffee, #outfitoftheday, #dressedup"
-  - username: "erim_karayel"
-    fullname: >-
-      Erim Karayel
-    bio: >-
-      BAVU🎓 None Of Us Are Perfect 😉 La Victoria Sara Nostra 🦅🦅🦅 Amatör Tiyatro Oyuncusu🎭🎭 Radyoloji Teknikeri 💉💉
-    location: "Turkey"
-    followers: 10972
-    engagement: 648
-    commentsToLikes: 0.027807
-    id: ck8tbgcjsvjy00j78ej98t6uc
-    verified: false
-    hashtags: "#motorcycle, #radiology, #stayhome, #mask"
-  - username: "sevvalakmn"
-    fullname: >-
-      Şevval Akman
-    bio: >-
-      İzmir|Tekirdağ #Fashion | #Beauty | #Lifestyle Business Inquiry:sevvalakmnn@gmail.com
-    location: "Turkey"
-    followers: 19754
-    engagement: 178
-    commentsToLikes: 0.069829
-    id: ck8t4azfw63xv0j78wu1mrvde
-    verified: false
-    hashtags: "#vintageaesthetic, #neutralcolors, #parisianblogger, #vintageoutfit"
+    hashtags: "#makeuptutorial, #maske, #avonparfum, #makeupvideos"
   - username: "mervealknnn"
     fullname: >-
       M E R V E  A L K A N
     bio: >-
       📍İzmir DEU•Fashion Designer merveealkann@hotmail.com
     location: "Turkey"
-    followers: 109207
-    engagement: 131
-    commentsToLikes: 0.034232
+    followers: 108694
+    engagement: 129
+    commentsToLikes: 0.035583
     id: ck6ufwlq2zjz90j71edxy5gel
     verified: false
-    hashtags: "#allblack, #2020, #serenity, #today"
-  - username: "ecemkatiboglu"
+    hashtags: "#today, #lastmonth, #friday, #style"
+  - username: "gezennayy"
     fullname: >-
-      Ecem Dirilen Katiboğlu
+      GezennAyy 🌙
     bio: >-
-      Mila ❤️ Mahmut ❤️ 👩🏻‍🎓Industrial Engineering
+      #turistrehberi🏃🏻‍♀️ #touristquide💃🏻 #traveller🌍 #travelpics🚗 #blogger 📚 #seyyah✈️ #gününkaresi📸 #seyahatyazarı ✍️
     location: "Turkey"
-    followers: 13723
-    engagement: 377
-    commentsToLikes: 0.254560
-    id: ckaos81xfqiut0i78gmewxv5j
+    followers: 13256
+    engagement: 1175
+    commentsToLikes: 0.014840
+    id: ckaovb0lw3skh0i78xstjijwm
     verified: false
-    hashtags: "#cute, #likeforlikes, #instalike, #photooftheday"
-  - username: "meralkaftanci"
+    hashtags: "#naturephotography, #photo, #tbt, #kad"
+  - username: "bir_tutkudur_koyun"
     fullname: >-
-      MERAL KAFTANCI
+      koyun_sevdalilari
     bio: >-
-      👑: Freelance 🎓: Make-up trainer ✈: İzmir//İstanbul//...... 📧: m.kaf.40@gmail.com ☎ : 507 204 27 37 @girisimcikadinlargrubu
+      KOYUN tutkunlarının sayfası🐑 COBANLARIN BULUŞTUĞU TEK SAYFA😊 Gonderilerinizi gonderin paylasalim👇 💲Reklam ve işbirligi icin DM
     location: "Turkey"
-    followers: 8888
-    engagement: 366
-    commentsToLikes: 0.016881
-    id: ck5q9pdn4cavt0i11niiwv35g
+    followers: 19615
+    engagement: 234
+    commentsToLikes: 0.015735
+    id: ck8tadgjjrbb40j78oji4f4c8
     verified: false
-    hashtags: "#instamakeup, #mascara, #imstaprimerafoto, #bride"
-  - username: "nezyagci"
-    fullname: >-
-      Nez Alin Yagci ☀️
-    bio: >-
-      Online dersler için dm’den ulaşınız💌 ➕Pilates instructor ➕Mat Work / Reformer / Hamile Pilatesi ➕Plus Pilates Studio/ Plus studıo 🖤Healthy Lifestyle
-    location: "Turkey"
-    followers: 62132
-    engagement: 126
-    commentsToLikes: 0.041443
-    id: ck15s8lksbrzn0i1932eip1a6
-    verified: false
-    hashtags: "#exercise, #gununegzersizi, #woman, #workout"
+    hashtags: "#sheep, #nature, #sheepfarming, #sheeps"
   - username: "selinablog"
     fullname: >-
       Selin Aydın
     bio: >-
-      ✨ Makeup, Beauty, Fashion 🎓 Psychology 📍 İzmir, Turkey 💌 PR: seliina.blog@gmail.com
+      ✨ Makeup, Beauty, Fashion 🎓 Psychology 📍 İzmir 💌 PR: seliina.blog@gmail.com
     location: "Turkey"
-    followers: 89400
-    engagement: 270
-    commentsToLikes: 0.044363
+    followers: 87248
+    engagement: 306
+    commentsToLikes: 0.180836
     id: ck5cf8f0bmgy30i11poftf44f
     verified: false
-    hashtags: "#makeupvideo, #beautybloggers, #likeme, #makeupbyme"
+    hashtags: "#makeupartist, #makeuptutorial, #makeup, #makeupbyme"
+  - username: "cantasisirtindabirkiz"
+    fullname: >-
+      Eda Karacaoglu
+    bio: >-
+      
+    location: "Turkey"
+    followers: 82522
+    engagement: 461
+    commentsToLikes: 0.017940
+    id: ck0vwq9vjv20h0i19j7echbgk
+    verified: false
+    hashtags: "#reelsinstagram, #izmir, #hotel, #nature"
 ---

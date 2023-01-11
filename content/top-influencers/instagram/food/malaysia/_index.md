@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Malaysia in 2023
+title: Top 10 Food Instagram Influencers In Malaysia In 2023
 description: >-
-  Find top food Instagram influencers in Malaysia in 2023. Most popular hashtags: #ootd #amar #dametraveler.
+  Find top food Instagram influencers in Malaysia in 2023. Most popular hashtags: #workout #throwback #langkawi.
 platform: Instagram
-hits: 168
+hits: 166
 text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 168 Instagram influencers like this in Malaysia for you to collaborate.
+text_bottom: Our platform aggregates 166 Instagram influencers like this in Malaysia for you to contact.
 profiles:
-  - username: "joyentan"
+  - username: "dududedoodle"
     fullname: >-
-      Jo Yen Tan 祖嫣
+      DuDu Kent
     bio: >-
-      ACCA Student | Content Creator | Food Explorer | Collab/Sponsor: joyenjoyen@gmail.com ❤️ @alovelycouplelife @joyentan_
+      Art, Coffee, Food and Travel #DuDuXplores #DuDuCoffeeArt ✉️dududedoodle@gmail.com
     location: "Malaysia"
-    followers: 16017
-    engagement: 261
-    commentsToLikes: 0.122619
-    id: ckaorkslhnoar0i78bawjwshh
+    followers: 60959
+    engagement: 153
+    commentsToLikes: 0.005005
+    id: ck136puxd7ocb0i19eu71b4fl
     verified: false
-    hashtags: "#shopback11kchallenge, #joyenjoshjourney, #drwu, #watsonsbeautybox"
-  - username: "deakenw"
+    hashtags: "#dududedoodle, #igfeedsmenarik, #coffeepainting, #my"
+  - username: "sueannekang"
     fullname: >-
-      Ken Dea Wardani
+      Sueanne 施格
     bio: >-
-      Can't live without traveling, food, culture @saturasabydea / @travelwithmamba / @bukaan.moment 💌 : wardani.deak@gmail.com
+      努力洗版丢回照片中⚠️ TRAVEL ADDICT ✈️✨ FOODIE 🍣 👩‍👦 Penang 🇲🇾 🔗 小红书： sueannekang Food page @sueanneeats #sueanneeats #sueannetravel #sueannestaycation ♥️
     location: "Malaysia"
-    followers: 32287
-    engagement: 108
-    commentsToLikes: 0.077093
-    id: ck5bza7hoqqvo0i11sj2dtx1b
+    followers: 211331
+    engagement: 65
+    commentsToLikes: 0.016611
+    id: ck5px66voqb0s0i114cja9a4o
     verified: false
-    hashtags: "#exoticntt, #rindulabuanbajo, #wonderfullindonesia, #exploreflorata"
-  - username: "tachichosz"
+    hashtags: "#sueannetravel, #sueanneinlangkawi, #sueanneeats, #cuticutimalaysia"
+  - username: "winniek_my"
     fullname: >-
-      Atasha A.
+      Winnie K
     bio: >-
-      @facetheory DISC 20% (BBTACHICHOSZ) Constantly hungry. TRAVEL • LIFESTYLE • FOOD •🐈 📍KL, Malaysia 🇲🇾
+      Recording artiste/Singer/Performer/Model Bachelor Degree in Business Admin 👩🏻‍🎓 ❤️Travel,Fashion,Food,Coffee🍫☕️ wkproduction@gmail.com
     location: "Malaysia"
-    followers: 40163
-    engagement: 538
-    commentsToLikes: 0.067594
-    id: ckf5ofhp021w30j23rzue25qx
-    verified: false
-    hashtags: "#timeoutlisbon, #inspo, #agameoftones, #sheisnotlost"
+    followers: 305977
+    engagement: 88
+    commentsToLikes: 0.104950
+    id: ck5zotkhyraxs0i14pe1m3368
+    verified: true
+    hashtags: "#healthiswealth, #hydrogen, #healthylifestyle, #healthapp"
   - username: "blogitwithaqsa_"
     fullname: >-
       ✨ AQSA ALI ✨
     bio: >-
       🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
     location: "Malaysia"
-    followers: 25742
-    engagement: 166
-    commentsToLikes: 0.059595
+    followers: 25338
+    engagement: 185
+    commentsToLikes: 0.078883
     id: ck0vxl3nmzfk80i19bvk8axkb
     verified: false
-    hashtags: "#muharram1442"
-  - username: "ohfishiee"
-    fullname: >-
-      °· F I S H ·°
-    bio: >-
-      😄Travel, Beauty, Food Blogger 💌Ads/sponsorship: ohfishie@gmail.com ❤WWW.OHFISHIEE.COM BIG GIVEAWAY👇🏻
-    location: "Malaysia"
-    followers: 20445
-    engagement: 503
-    commentsToLikes: 0.015641
-    id: ck0w5haxf3n6e0i19rr26hnc7
-    verified: false
-    hashtags: "#ohfishieetravels, #ohfishieeootd, #ohfishieebeauty, #discoverhongkong"
-  - username: "ishanorsham"
-    fullname: >-
-      𝗜𝘀𝗵𝗮 𝗡𝗼𝗿𝘀𝗵𝗮𝗺
-    bio: >-
-      🎥 Tv Host/Content Creator 🤍 Travel,Food,Tiktok,Emceeing,Fitness,Skincare 📩 Business/Collaboration/Review
-    location: "Malaysia"
-    followers: 38134
-    engagement: 324
-    commentsToLikes: 0.042789
-    id: ck5bwklj4lvu10i11rjmojut1
-    verified: false
-    hashtags: "#dwinmy, #pomelofashion, #klairsmy, #sale"
-  - username: "danielfongwc"
-    fullname: >-
-      Daniel Fong
-    bio: >-
-      Monash alumni 2016 📒 Singing 🎤 Acting 👨🏻 Food junkie 🍔 Email for collaborations Subscribe to my Facebook page too ⬇️
-    location: "Malaysia"
-    followers: 44939
-    engagement: 413
-    commentsToLikes: 0.010364
-    id: ck6ttezj3a94j0j714dlje3r3
-    verified: false
-    hashtags: "#hadalabomalaysia, #derhakacintajebat, #hadalabo10thanniversary, #guessmy"
+    hashtags: ""
   - username: "alfredchia"
     fullname: >-
       Alfred chia
     bio: >-
       •KUL / PEN •MY 📍 •Travel || Lifestyle || Food || Gym
     location: "Malaysia"
-    followers: 22404
-    engagement: 273
-    commentsToLikes: 0.029006
+    followers: 22660
+    engagement: 361
+    commentsToLikes: 0.020491
     id: ck5hk1g5nhmf20i11gwfyg5px
     verified: false
-    hashtags: "#frenchbulldogs, #halloween"
-  - username: "_melissayang"
+    hashtags: "#throwback, #workout, #stayathome"
+  - username: "chromaticcharms"
     fullname: >-
-      Health & Wellness
+      ⒼⒾⓃⒸⒽⒺⓃ | Travel X Lifestyle
     bio: >-
-      Shop now @foodspaceasia
+      🌈 ￼Serving you a feast of vibrant grids ✈️ Traveler 🧘🏻‍♀️ Yoga practitioner 🍬 Junk food lover 🍦🍡🍫🍿🍭🍩 📸 Sony 7r Mark III
     location: "Malaysia"
-    followers: 5109
-    engagement: 869
-    commentsToLikes: 0.032836
-    id: ckaorn3o1nyu80i782m8ssnd9
+    followers: 12835
+    engagement: 578
+    commentsToLikes: 0.024393
+    id: ckap7on5wkw6e0i78h2thmxp0
     verified: false
-    hashtags: "#ecommerce, #pincha, #aloboutmentalhealth, #unleashyourchakra"
+    hashtags: ""
+  - username: "aidaaziraaa"
+    fullname: >-
+      Aida Azira Kassim 🇲🇾
+    bio: >-
+      Becoming the best version of myself Z’s • Lifestyle • Fashion • Food @bydaa.my @aidaazofficial DM | aidaazira.work@gmail.com
+    location: "Malaysia"
+    followers: 303595
+    engagement: 104
+    commentsToLikes: 0.025956
+    id: ck5c0zokcu5s50i11d84f8p0s
+    verified: false
+    hashtags: "#followersappreciation, #glowupeveryday, #mco, #scarfree"
+  - username: "sabrina810914"
+    fullname: >-
+      Sabrina吳怡德 🦋
+    bio: >-
+      ✶Taiwanese🇹🇼/NTU台大 ✶Founder:🥊 @kingbox_muaythaicenter 金霸泰拳 ✶Work:📥sabrina.wuite@gmail.com All day I dream about food : @sabrinalovefood 🤤
+    location: "Malaysia"
+    followers: 64471
+    engagement: 174
+    commentsToLikes: 0.016067
+    id: ckaozbiwzl4yl0i78d7v49qz9
+    verified: true
+    hashtags: "#muaythaigirls, #exercise, #muaythai, #fitness"
+  - username: "rainy_lly"
+    fullname: >-
+      Rainy Lly ( Loke Li Yin )
+    bio: >-
+      🚶🏼‍♀️ Miles to go for dreams ☂️ Online Media Editor (FoodTravelPlayKL) ☂️ Math Tutor 💌 DM / Email for Collab
+    location: "Malaysia"
+    followers: 124647
+    engagement: 143
+    commentsToLikes: 0.014389
+    id: ck5q822zz43mu0i11nnjat8es
+    verified: false
+    hashtags: "#modosinternational, #cnywithsoonthyehang, #newyeargift, #sudiomoments"
   - username: "angel.nggg"
     fullname: >-
-      A N G E L 慧慧 🦄 Dermind执行董事
+      A N G E L 慧慧 🦄
     bio: >-
       Lifestyle | Beauty | Fitness | Food | Pet | Travel 🐶 @happy_little_pom 💋 TikTok : angel.ngggg 📩 Job enquiry > Dm | email angelngnkh@gmail.com
     location: "Malaysia"
-    followers: 122885
-    engagement: 384
-    commentsToLikes: 0.004700
+    followers: 121271
+    engagement: 312
+    commentsToLikes: 0.004086
     id: ck8sy1ay6jdxc0j78i93iv46o
     verified: false
-    hashtags: "#shopeemy1010, #shopeemy, #shopeebrandsfestival, #lovesimpleyoung"
+    hashtags: "#chor5, #chor3, #chor2, #chor1"
 ---

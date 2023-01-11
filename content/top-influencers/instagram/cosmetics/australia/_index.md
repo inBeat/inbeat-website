@@ -1,45 +1,33 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Australia in 2023
+title: Top 10 Cosmetics Instagram Influencers In Australia In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Australia in 2023. Most popular hashtags: #beforeandafter #sydneymua #graphicliner.
+  Find top cosmetics Instagram influencers in Australia in 2023. Most popular hashtags: #beforeandafter #makeup #gifted #porcelainveneers.
 platform: Instagram
-hits: 142
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 142 Instagram influencers like this in Australia for you to connect with.
+hits: 88
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 88 Instagram influencers like this in Australia for you to contact.
 profiles:
-  - username: "recdedmond"
+  - username: "emilyskyefit"
     fullname: >-
-      Declan Redmond
+      Emily Skye
     bio: >-
-      @force_element_performance @james_cosmetics
+      Fitness ♡ Wellness ♡ Beauty @james_cosmetics Owner @womensbest partner 50% off my FIT APP 12m plan - tap here ⬇️
     location: "Australia"
-    followers: 40503
-    engagement: 955
-    commentsToLikes: 0.028982
-    id: ck136fdfu68010i193es5uwhw
-    verified: false
-    hashtags: "#fridaynightsaredifferentnow, #daddysgirl, #familyiseverything"
-  - username: "nurse_dior"
-    fullname: >-
-      NURSE DIOR
-    bio: >-
-      🤍 Cosmetic Nurse 💕 Contour Connoisseur 📍 Brisbane, Australia
-    location: "Australia"
-    followers: 11265
-    engagement: 515
-    commentsToLikes: 0.218130
-    id: ck8t3y5va4x3u0j788ha4pnzv
-    verified: false
-    hashtags: "#weddinganniversary"
+    followers: 2723386
+    engagement: 87
+    commentsToLikes: 0.024309
+    id: ck136fczj67xj0i19enbq3wrk
+    verified: true
+    hashtags: "#soblessed, #bodyappreciation, #parentlife, #langhamgala"
   - username: "bellastonegardner"
     fullname: >-
       BELLA S♱ONE
     bio: >-
       Cosmetic Tattooist 💉 Founder&CEO Vegan Lash & Brow serum @bellastonelash @bellastonelashresults for longer #lashes & fuller #brows results in 28days!
     location: "Australia"
-    followers: 35607
-    engagement: 431
-    commentsToLikes: 0.001996
+    followers: 35058
+    engagement: 428
+    commentsToLikes: 0.002273
     id: ck8swjh66eano0j78elyobncs
     verified: false
     hashtags: "#moveinbamboo, #bamboo, #activewear"
@@ -49,82 +37,94 @@ profiles:
     bio: >-
       @itsabeauulife ▫️SYD / MAKE-UP ARTIST / BRIDAL / SHOOTS / LESSONS / COSMETIC TATTOO ▫️ ✉️ info@lindamua.com.au
     location: "Australia"
-    followers: 41888
-    engagement: 146
-    commentsToLikes: 0.071980
+    followers: 42087
+    engagement: 184
+    commentsToLikes: 0.058820
     id: ck5q0a40t4zyi0i11byerc21r
     verified: false
-    hashtags: "#makeup, #sydneymua, #lindamua, #bridalmakeup"
-  - username: "emilyskyefit"
+    hashtags: "#beforeandafter, #makeup, #sydneymua, #meccabeautyjunkie"
+  - username: "skincaresweets"
     fullname: >-
-      ᗴᗰIᒪY ᔕKYᗴ | 𝘍𝘪𝘵𝗇𝖾𝗌𝗌 + 𝖧𝖾𝖺𝗅𝗍𝗁
+      Elayne
     bio: >-
-      🖤 @james_cosmetics Co Founder 💖 @womensbest 💄 @emilyskyebeauty 📲 Train with me for FREE for 7 days on my FIT APP here ⬇️
+      25 Perth, Australia Cosmetic nurse @facebyelayne I love myself, skincare & sweets
     location: "Australia"
-    followers: 2587367
-    engagement: 293
-    commentsToLikes: 0.014419
-    id: ck136fczj67xj0i19enbq3wrk
-    verified: true
-    hashtags: "#postpartumbody, #postpartum, #womensbest, #babyboy"
+    followers: 2854
+    engagement: 875
+    commentsToLikes: 0.324866
+    id: ckaor2boylfam0i786kjd6njq
+    verified: false
+    hashtags: "#wtbeautytester, #niod, #texturetuesday, #gifted"
   - username: "liahmorley"
     fullname: >-
       liah morley
     bio: >-
-      19 | Perth, AUS | self taught | she/her @laroc_cosmetics code: LIAHMORLEY25 twitter and tiktok: liahmorley codes to save ⬇️
+      20 | Perth, AUS | self taught (not an mua!) @laroc_cosmetics affiliate code LIAHMORLEY25 twitter and tiktok: liahmorley codes to save ⬇️
     location: "Australia"
-    followers: 235901
-    engagement: 462
-    commentsToLikes: 0.022973
+    followers: 309190
+    engagement: 271
+    commentsToLikes: 0.019980
     id: ck0w6mz7g9cb50i19qwdygm7c
     verified: false
-    hashtags: "#100daysofmakeup, #colourpopcosmetics, #cutcrease, #makeuptutorials"
-  - username: "donnrobertson"
+    hashtags: "#graphiclinerlook, #tutorial, #cutcrease, #reelsmakeup"
+  - username: "labmuffinbeautyscience"
     fullname: >-
-      Don Vido ♛
+      Michelle Wong - Beauty Science
     bio: >-
-      A catalogue of my work. Designer, Photographer, Creative Director, Founder: @staxofficial_ @vido___official @fille.cosmetics @thesauce_withdonandtil
+      Chem PhD | cosmetic chemist | sci-ed 🇦🇺 👩🏻‍🔬New vid: Busting haircare myths 👇Free Exfoliation Guide Business: michelle@labmuffin.com
     location: "Australia"
-    followers: 41165
-    engagement: 182
-    commentsToLikes: 0.075076
-    id: ck5pz75g1zjrc0i11u1ixx0cs
+    followers: 319865
+    engagement: 163
+    commentsToLikes: 0.026921
+    id: ck135dbhx0vtm0i19gbf2jbio
     verified: false
-    hashtags: "#stax, #vido, #psv3, #dressesbydon"
+    hashtags: "#instaskincare, #skincarecommunity, #sunscreen, #skincareproducts"
   - username: "dr.dee_official"
     fullname: >-
-      dr.deepan duraisamy (dr.dee)
+      Dr. Deepan Duraisamy (Dr.Dee)
     bio: >-
-      Cosmetic Dentist Founder- Vogue Dental Studios Melbourne, Australia
+      Cosmetic Dentist Founder - Vogue Dental Studios Melbourne, Australia
     location: "Australia"
-    followers: 125437
-    engagement: 178
-    commentsToLikes: 0.013084
+    followers: 135089
+    engagement: 179
+    commentsToLikes: 0.015187
     id: ck0ubn97vf0ok0i19g9tarlh3
     verified: false
-    hashtags: "#veneers, #smilemakeover, #newsmile, #picassoporcelainveneers"
-  - username: "misszedd"
+    hashtags: "#newsmiles, #newsmile, #voguedentalstudios, #topcosmeticdentistry"
+  - username: "dr.davidattia"
     fullname: >-
-      Bibles Of Truth 🙌🏾
+      Dr David Attia
     bio: >-
-      👸🏽@bridezillaevents @misszeddshop 📍Melbs 💉@cosmetic_avenue 🦷@dr.dee_official #operationbratzdoll #bigbootybarbie ⬇️55K YT Schnacks
+      🇦🇺SYD 🦷Cosmetic & Implant Dentist 🇩🇪MSc(Oral Implantology)(𝘎𝘰𝘦𝘵𝘩𝘦) | MOI Clinical Tutor💉 🏴󠁧󠁢󠁥󠁮󠁧󠁿PGradDip(Orthodontics)(𝘊𝘰𝘓) 🏅FICOI
     location: "Australia"
-    followers: 58251
-    engagement: 78
-    commentsToLikes: 0.067965
-    id: ck6trekr4yj2v0j71ebfe4iki
+    followers: 24200
+    engagement: 177
+    commentsToLikes: 0.152265
+    id: ck5q5w724uuel0i11wtpf1fx3
     verified: false
-    hashtags: "#misszedd, #misszeddpresets, #misszeddshop, #chanel"
-  - username: "super_kana_"
+    hashtags: "#dentist, #cosmeticdentistry, #oralsurgery, #odonto"
+  - username: "lipfillerscollective"
     fullname: >-
-      Japanese World Traveller✈︎
+      Lip Fillers Collective
     bio: >-
-      🌸Japan/FUK🇯🇵→AUS🇦🇺→QR🇶🇦→DXB🇦🇪⇆🌍 🌸外資系客室乗務員✈︎ 51countries 🌸Makeup 美容| cosmetics lover💄 🌸Workout🏋️‍♀️ 🌸象使い | elephant license🐘
+      💋We repost the best lips in the world ✖️Tag us for the chance to be featured or visit our website for our Media Kit 🔞
     location: "Australia"
-    followers: 8887
-    engagement: 408
-    commentsToLikes: 0.022963
-    id: ck9wdq8k7grho0j78r9jie15v
+    followers: 49560
+    engagement: 79
+    commentsToLikes: 0.064131
+    id: ck55lpuii24q50i11n65khd2f
     verified: false
-    hashtags: "#cappadocia, #dubai, #turkey, #crewlife"
+    hashtags: "#lipliner, #cosmeticinjectables, #cosmeticdoctor, #cosmeticnurse"
+  - username: "sarahjaneroza"
+    fullname: >-
+      SARAH ROZA
+    bio: >-
+      🎥TV+Radio 🎤Host 🌟Brand Ambassador #Hair #Beauty #Fashion #Makeup #Health #Mafs 📍Melb, AUS 🇦🇺 📧For Collaborations please email below⬇️ 📺YouTube Channel
+    location: "Australia"
+    followers: 371172
+    engagement: 168
+    commentsToLikes: 0.032323
+    id: ck5cl1ocoy2jm0i112ylzgnqh
+    verified: true
+    hashtags: "#fun, #cosmetics, #queen, #curvy"
 ---

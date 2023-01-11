@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Japan in 2023
+title: Top 10 Pole Dancers Instagram Influencers In Japan In 2023
 description: >-
-  Find top pole dancers Instagram influencers in Japan in 2023. Most popular hashtags: #love #poledance #japan #poledancer.
+  Find top pole dancers Instagram influencers in Japan in 2023. Most popular hashtags: #poledance #poledancer #love #fashion.
 platform: Instagram
-hits: 9
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 9 Instagram influencers like this in Japan for you to contact.
+hits: 11
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 11 Instagram influencers like this in Japan for you to pitch.
 profiles:
   - username: "miki0000000000"
     fullname: >-
@@ -13,24 +13,48 @@ profiles:
     bio: >-
       I'm pole dancer&Dental hygienist. Please feel free to follow me:) ポールダンサー＆歯科衛生士です←(ライセンス持ってるだけ)😂 気軽にフォローしてね😊 🇯🇵Nara🦌→Osaka🐙⇔NY🗽 #poledancer
     location: "Japan"
-    followers: 43503
-    engagement: 310
-    commentsToLikes: 0.021692
+    followers: 52585
+    engagement: 312
+    commentsToLikes: 0.020240
     id: ckap6xki3hs2l0i783gsdwkva
     verified: false
-    hashtags: "#bikini, #swimwear, #street, #bff"
+    hashtags: "#pic, #asiangirls, #gym, #villa"
+  - username: "riri.ribon"
+    fullname: >-
+      ★RIRI☆
+    bio: >-
+      ♡My name is Riri♡ 姉ageha/pole dancer/ お仕事依頼はＤＭお待ちしてます💋
+    location: "Japan"
+    followers: 199145
+    engagement: 81
+    commentsToLikes: 0.014435
+    id: ck5hia42jcfnv0i11g4wph3vz
+    verified: false
+    hashtags: "#love, #ootd, #fashion, #happy"
+  - username: "blackyasuna"
+    fullname: >-
+      yasuna
+    bio: >-
+      🇯🇵🇹🇭🇰🇷 poledancer.gogodancer.model. live in Tokyo Japan
+    location: "Japan"
+    followers: 12195
+    engagement: 264
+    commentsToLikes: 0.016956
+    id: ckapc3tbn2cr90i78wgrrvx8g
+    verified: false
+    hashtags: "#merryxmas, #inkgirl, #pv, #yello"
   - username: "curlybaby_lilika"
     fullname: >-
       Pole dancer Lilika𓆉
     bio: >-
-      📍Tokyo⇄Okinawa/Poledancer/🏳️‍🌈L DM返信出来ません/I Don't Reply DMs 出演依頼・お仕事に関するお問い合わせ📩 poledancerlilika@yahoo.co.jp
+      📍Tokyo⇄Okinawa 💃Poledancer 🏳️‍🌈Lesbian 🧜‍♀️Beachlover 個人的にDM返信出来ません レッスン情報はハイライト 出演依頼・お仕事に関するお問い合わせ📩 poledancerlilika@yahoo.co.jp
     location: "Japan"
-    followers: 99959
-    engagement: 173
-    commentsToLikes: 0.016362
+    followers: 96495
+    engagement: 164
+    commentsToLikes: 0.008809
     id: ck5hrnqwtv6d60i11pqfngcnn
     verified: false
-    hashtags: "#happy, #lilika, #poledancer, #healthylifestyle"
+    hashtags: "#fashion, #black, #outfit, #pleaserheels"
   - username: "pinoko0122"
     fullname: >-
       PINOKO🦄✨
@@ -42,77 +66,65 @@ profiles:
     commentsToLikes: 0.020854
     id: ck5bwi0g5lqpa0i117z5ob7dt
     verified: false
-    hashtags: "#heels, #pleasershoes, #polish, #poledance"
+    hashtags: "#exoticpoledance, #exoticpoledancer, #exoticpole, #pdexotictrick"
   - username: "kumi_burlesque"
     fullname: >-
       Kumi@Burlesque Tokyo
     bio: >-
       Iam artist💋💃🎨 鳥取県米子市出身🐤 #インテリアコーディネーター になる夢。🤔 ◆質問などはDMではなくコメント欄にお願いします❤️ ◆お仕事の依頼・お席のご予約は📞📩 👇物販購入ページ
     location: "Japan"
-    followers: 24728
-    engagement: 231
-    commentsToLikes: 0.022160
+    followers: 25972
+    engagement: 202
+    commentsToLikes: 0.025847
     id: ck8tbey60vdy70j78aggvt0uc
     verified: false
-    hashtags: "#bodymake, #ff, #burlesque, #f4f"
-  - username: "shigefumi_"
+    hashtags: "#selfie, #tagforlikes, #f4f, #love"
+  - username: "angie_77780"
     fullname: >-
-      しげ【crystalball_club】ADM
+      Angie/アンジー
     bio: >-
-      フリー素材「PAKUTASO」カメラマン所属 全日本写真連盟関西支部所属 某企業カメラマン 他 ・ 日本初球体撮影専門公式HUB @crystalball_club #水晶玉撮影隊 水晶玉撮影隊のハッシュタグは商標登録済 ・ @portrait_club_jp #ポトレ撮影隊 人物ポトレ撮影専門
+      👽96👠MIX🇸🇬🇨🇳🇯🇵 💎Model/freelance I can speakChinese&Japanese 💎TikTok↓抖音
     location: "Japan"
-    followers: 2152
-    engagement: 1486
-    commentsToLikes: 0.032849
-    id: ckaorr8h6odyy0i78ee32m6zp
+    followers: 107079
+    engagement: 158
+    commentsToLikes: 0.011180
+    id: ck5cky9mqxusk0i11lqqqn0xr
     verified: false
-    hashtags: "#best, #france, #clickxworld, #mono"
-  - username: "esthergracia"
+    hashtags: "#ferrari, #lamborginisuv, #love, #model"
+  - username: "andrea_velasc0"
     fullname: >-
-      Esther Gracia Santoso
+      ᗩᑎᗪᖇEᗩ_ᐯEᒪᗩᔕᑕ0
     bio: >-
-      my baby girl @nicolelintang #esthergraciapoledance #esthergraciagiveaway
+      •••••••ᔕI ᗰE ᐯEᔕ ᗰEᑎOᔕ, Eᔕ ᑭOᖇᑫᑌE EᔕTOY ᕼᗩᑕIEᑎᗪO ᗰᗩᔕ•••••••••••••••• 🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
     location: "Japan"
-    followers: 214674
-    engagement: 181
-    commentsToLikes: 0.411057
-    id: ck5c1aic2us0v0i11s7lz3wpe
+    followers: 30615
+    engagement: 476
+    commentsToLikes: 0.015072
+    id: ckf5pagoj5h6k0j23owo41wgh
     verified: false
-    hashtags: "#esthergraciagiveaway, #halloween2020, #esthergraciapoledance, #komoonyoung"
+    hashtags: "#domingo, #poledance, #lunes, #coronavirustime"
   - username: "didi.leona"
     fullname: >-
       Ruka Riot
     bio: >-
-      Appointments tattoos ➡️DM 🐰Bitch Power🐰 🐩 Calle, graffiti, tattoo🐩
+      TXDXSPRESXS Appoitments Tattoo➡️DM 🐰 Bitch Power 🐰 🐩 Calle, Graffiti, Tattoo 🐩
     location: "Japan"
-    followers: 16431
-    engagement: 638
-    commentsToLikes: 0.012882
+    followers: 20998
+    engagement: 563
+    commentsToLikes: 0.012035
     id: ck0w2pxkgplpj0i19ngyqu7ad
     verified: false
-    hashtags: "#dirtygirl, #cartoontattoo, #bitchtattoo, #bitchpower"
+    hashtags: "#cartoontattoo, #freepussy, #bitchpower, #rukariot"
   - username: "tinaladysoul"
     fullname: >-
       Tina
     bio: >-
-      KODP#22 Singer/Songwriter 🇯🇵
+      Singer/Songwriter 🇯🇵 KODP#22 徳間ジャパン,Universal music Japan, Sony music Japan ▶️YouTube Tina official channel ☟
     location: "Japan"
-    followers: 2961
-    engagement: 1102
-    commentsToLikes: 0.037362
+    followers: 3121
+    engagement: 1115
+    commentsToLikes: 0.031892
     id: ckapajzkrwewy0i78byozz3vi
     verified: false
-    hashtags: "#love, #shooting, #rnb, #newsong"
-  - username: "hoapyon"
-    fullname: >-
-      山田ホアニータ🎀ʏᴀᴍᴀᴅᴀ🍭ʜᴏᴀɴɪᴛᴀ🌷
-    bio: >-
-      🌷✨🌷✨🌷✨🌷✨🌷✨🌷✨🌷 🤡🦄ドラァグクイーンのゆるキャラ🧸🧚‍♀️ 💘ᴘᴀᴋᴋᴜɴ✩ɴʏᴏ💘🚀🚀 @pakkunxnyo 👙ぴんくがだいすき💅ハピネス大盛り🍭 💖💛💖ʟɪɴᴇスタンプ⚧⚧発売中💖💛💖 🌷✨🌷✨🌷✨🌷✨🌷✨🌷✨🌷
-    location: "Japan"
-    followers: 7643
-    engagement: 632
-    commentsToLikes: 0.013802
-    id: ck5znrnfcp11v0i14fy80wbtf
-    verified: false
-    hashtags: "#yumekawaii, #stayhome, #fatgirl, #model"
+    hashtags: "#yello, #youtube, #mv, #shooting"
 ---

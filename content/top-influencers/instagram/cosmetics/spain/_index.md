@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Spain in 2023
+title: Top 10 Cosmetics Instagram Influencers In Spain In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Spain in 2023. Most popular hashtags: #cosmetics #beauty #makeup #skincare.
+  Find top cosmetics Instagram influencers in Spain in 2023. Most popular hashtags: #beauty #cosmetics #fashion #makeup.
 platform: Instagram
-hits: 234
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 234 Instagram influencers like this in Spain for you to collaborate.
+hits: 226
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 226 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "curly.azahara"
+  - username: "noemi_littlemoon"
     fullname: >-
-      Hacia una vida  +consciente🌍
+      𝗡𝗢𝗘𝗠𝗜 𝗚𝗔𝗥𝗖𝗜𝗔
     bio: >-
-      Vegan recipes👩🏼‍🌾🌱 Natural cosmetic🌿 Slow fashion 🌻🌎 👧🏻Natura👶🏼Delmar🐕Guakamole 🐶🖤🌈 @juanma_furio💘 @lamardebienmalaga🏄🏼‍♂️ @lamardebienvalencia🏄🏻‍♀️
+      𝓔𝓷𝓯𝓮𝓻𝓶𝓮𝓻𝓪 💉 Ꮇꮻꭰꭺ ꭹ Ꮯꮻꮪꮇꭼ́ꭲꮖꮯꭺ 👠💄 𝑬𝒎𝒃𝒂𝒋𝒂𝒅𝒐𝒓𝒂: @amanecerinfinitoclothes dto%: NOEMI_LITTLEMOON @clarisa.cosmetic dto%: NOE10 📍Madrid / 🏡 Cartagena
     location: "Spain"
-    followers: 601206
-    engagement: 226
-    commentsToLikes: 0.345734
-    id: ck0w05upjcixy0i19ie74697f
-    verified: true
-    hashtags: "#familylove, #family, #recetasveganasfaciles, #vegan"
+    followers: 6762
+    engagement: 416
+    commentsToLikes: 0.106766
+    id: ck13c1uevy7lq0i1968kmzuap
+    verified: false
+    hashtags: "#photo, #chaleco, #nieve, #fashionstyle"
   - username: "baltasaroficial"
     fullname: >-
       Baltasar González Pinel
     bio: >-
       Director of Makeup Artistry M•A•C Cosmetics Europe, Mid. East, Africa, India, Russia Co-Founder of @bogartmakeup Makeup and Science of Beauty Academy
     location: "Spain"
-    followers: 41586
-    engagement: 334
-    commentsToLikes: 0.050625
+    followers: 41902
+    engagement: 317
+    commentsToLikes: 0.042619
     id: ck5zjcheghckw0i14y3a16d7z
     verified: true
-    hashtags: "#powderkissliquidlipcolour, #acrilico, #baltasargonzalezpinel, #cinderella"
-  - username: "alejandradominguezgila"
+    hashtags: "#acrilico, #acrylicpainting, #azul, #fee"
+  - username: "miss.rodriguez.d"
     fullname: >-
-      Alejandra Domínguez Gila ♏🧿
+      𝚂𝚞𝚜𝚊𝚗 𝚁𝚘𝚍𝚛í𝚐𝚞𝚎𝚣 𝙳. 🌷
     bio: >-
-      I’m not perfect, nor I wish to be. My imperfections define me and make me unique. 🌄#nature #landscape #scenography 👠#fashion 💄#cosmetics #scorpio
+      •𝙼𝚊𝚍𝚎 𝚒𝚗 𝙿𝚎𝚛𝚞, 𝙻𝚒𝚟𝚒𝚗𝚐 𝚒𝚗 𝚂𝚙𝚊𝚒𝚗 (📍𝙼𝚊𝚕𝚕𝚘𝚛𝚌𝚊) 🇵🇪🇪🇸 •𝙵𝚘𝚞𝚗𝚍𝚎𝚛 @lovers.by.sr_ •𝙼𝚒𝚜𝚜 𝙿𝚎𝚛𝚞 𝚂𝚙𝚊𝚒𝚗𝟷𝟽/𝚃𝚘𝚙 𝟸𝟹 𝙼𝚒𝚜𝚜 𝙿𝚎𝚛𝚞𝟷𝟾 👑
     location: "Spain"
-    followers: 13743
-    engagement: 400
-    commentsToLikes: 0.066793
-    id: ck5zyx75oaoq90i14oimrbsan
+    followers: 15372
+    engagement: 505
+    commentsToLikes: 0.215634
+    id: ck5zuup6v32nt0i14w1d9fg44
     verified: false
-    hashtags: "#sezanelovesmadrid, #missoni, #greece, #portugal"
-  - username: "tuasmakeup"
+    hashtags: "#coure, #winter, #fashionpost, #missretos"
+  - username: "criistyvera95"
     fullname: >-
-      DREW TUÁ
+      Cristy Vera 🖤
     bio: >-
-      💞 Main account: @drewtua (50k) 🎥 Youtuber (+265k): Drew Tuá 💅🏻 MUA at M•A•C Cosmetics 💄 Face Awards Finalist
+      📍| Seville, Spain 📩| MD / criverleo@hotmail.com 🎁|@sheinofficial 15% "criistyvera95" 👗|Outfits here😍👇
     location: "Spain"
-    followers: 8757
-    engagement: 2011
-    commentsToLikes: 0.021886
-    id: ck6uda2rbjwwk0j714v2tee5j
+    followers: 25460
+    engagement: 947
+    commentsToLikes: 0.044466
+    id: ck9hcamw8kj2h0j78qs2zihbn
     verified: false
-    hashtags: "#jeffreestarcosmetics, #jeffreestarprlist, #makeupart, #anastasiabeverlyhills"
-  - username: "mami_enapuros"
+    hashtags: "#sexy, #trendy, #sheinhaul2021, #summer"
+  - username: "carlottahurtado"
     fullname: >-
-      ↬ 𝓡𝓪𝓺𝓾𝓮𝓵 ↫
+      𝖢𝖠𝖱𝖫𝖠 𝖯𝖤𝖱𝖤𝖹
     bio: >-
-      𝙼𝚊𝚝𝚎𝚛𝚗𝚒𝚝𝚢 | 𝙱𝚎𝚊𝚞𝚝𝚢 | 𝙻𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 🏙| 𝙲𝚘𝚛𝚞𝚗̃𝚊 🇪🇸 👦🏻| ℳ𝒶𝓂𝒾 𝒹𝑒 ℳ𝒶𝓇𝓉𝒾𝓃 |𝟙𝟞-𝟘𝟜-𝟚𝟘𝟙𝟠| 📩| rsotbar@gmail.com ✨𝚀𝚞𝚒𝚎𝚗 𝚗𝚘 𝚊𝚛𝚛𝚒𝚎𝚜𝚐𝚊 𝙽𝚘 𝚐𝚊𝚗𝚊✨
+      Live and let live. 🇪🇸📍
     location: "Spain"
-    followers: 25058
-    engagement: 730
-    commentsToLikes: 1.113308
-    id: ckap9alakruuk0i78wpus7ika
+    followers: 2553
+    engagement: 1233
+    commentsToLikes: 0.057465
+    id: ckap0ixfcqhvi0i78sbugjv14
     verified: false
-    hashtags: "#maternidad, #makeupideas, #beauty, #kids"
-  - username: "gsusserranomua"
+    hashtags: "#gloss, #glitter, #base, #lipcolor"
+  - username: "dr.alejandro.segarra"
     fullname: >-
-      ⚜ 🅙🅔🅢🅤🅢 🅢🅔🅡🅡🅐🅝🅞 ⚜
+      Dr. Alejandro Segarra
     bio: >-
-      🎨ᕈRO MΔKE-Uᕈ ΔRΓISΓ 🖌 💄 MaQuiLLaNDo La ViDa 💋 🎵𝙔𝙖 𝙨𝙤𝙢𝙤𝙨➕𝙙𝙚 280𝙆 #gusiernagas ⬇️ 📍Madrid, Spain 🇪🇸
+      Diplomado Internacional de Med Estética 📍Barcelona y Madrid. 📞Información/citas 930107517 (BCN)
     location: "Spain"
-    followers: 19217
-    engagement: 612
-    commentsToLikes: 0.230138
-    id: ck5pzczpe0d9q0i119k6g7a23
+    followers: 53832
+    engagement: 229
+    commentsToLikes: 0.037778
+    id: ck55kbo51yxte0i11zato21js
     verified: false
-    hashtags: "#gloss, #carnivalxlpro, #outfit, #mascara"
-  - username: "make_baby_up"
+    hashtags: ""
+  - username: "remenavarro.es"
     fullname: >-
-      🦄 🌈 babyCris 🌈🦄
+      Reme Navarro Escrivá
     bio: >-
-      ⏬C O L A B O R A C I O N E S ⏬ 📍Valladolid @sheinofficial 15% dto MAKEBABYUP15 @rotita_official http://www.rotita.com/?lkid=35129 #rotita
+      Farmacéutica ⚡️Dermocosmética ⚡️Nutricionista⚡️Influencer Fundadora @mifarma 10% dto ⏱ cupón: REMENAVARRO Mis dietas 👉 @comer.fuera
     location: "Spain"
-    followers: 22010
-    engagement: 319
-    commentsToLikes: 0.296688
-    id: ck9weydcemf1k0j78fssy2fip
+    followers: 29658
+    engagement: 241
+    commentsToLikes: 0.499401
+    id: ckap2459ixadf0i7840ani74e
     verified: false
-    hashtags: "#promociones, #bloggervalladolid, #free, #shein"
-  - username: "miaupotingues"
+    hashtags: "#consejosdereme, #cosmetica, #skincare, #ootd"
+  - username: "lauramedinaviejo"
     fullname: >-
-      ѕαи∂яα▫ мιαυρσтιиgυєѕ.¢σм▫
+      Dinamita
     bio: >-
-      мαкєυρ | вєαυту | fαѕнισи & ℓιfєѕтуℓє 📍🇪🇸gαℓι¢ια 👇🏻 иєω ρσѕт!
+      CONTENT AND MAGIC CREATOR ✨💕 F.Designer+CEO @dinamita.streetwear CEO @buenkarmastudio MAGIC✨MAKEUP✨DESIGN 💌lauramedinaviejo@gmail.com
     location: "Spain"
-    followers: 16549
-    engagement: 316
-    commentsToLikes: 0.261715
-    id: ck0u6ksim26z00i19of57efar
+    followers: 11679
+    engagement: 515
+    commentsToLikes: 0.039409
+    id: ckap98yq6rnoc0i78w66ogt5p
     verified: false
-    hashtags: "#makeupartist, #eyeshadowpalette, #vegan, #makeup"
-  - username: "missmayparis"
+    hashtags: "#witchesofinstagram, #instagood, #instagram, #nature"
+  - username: "laufargas"
     fullname: >-
-      María Joya
+      pinkisimapuff
     bio: >-
-      🏠Jerez-Paris-London-Bogotá-Lisboa 👗#moda ✈️ #viajes 🙋🏼‍♀️ #missmayparis 📩Colaboraciones email o DM
+      🐥100℅ arrítmica 💄Makeup artist 🌈 💍Casadísima @aleix.dgr ✍🏻 El otro lado de la butaca 👇🏻
     location: "Spain"
-    followers: 49970
-    engagement: 143
-    commentsToLikes: 0.111855
-    id: ck55mtadp4qon0i11rbzo9npd
+    followers: 3841
+    engagement: 727
+    commentsToLikes: 0.068649
+    id: ck14kr8mkqwx60i19lxpivxm6
     verified: false
-    hashtags: "#birchboxes, #chile, #mascarilla, #amordemivida"
-  - username: "mybeautrip"
+    hashtags: "#makeuplover, #makeupaddict, #nyxcosmetic, #skincare"
+  - username: "los40sonlosnuevos20_oficial"
     fullname: >-
-      Marjorie
+      @los40sonlosnuevos20_oficial
     bio: >-
-      Fashion / Beauty / Travel ✉: mybeautrip@mybeautrip.com
+      Mamá👶, esposa💑 y amando la vida 💓 🇪🇸🇧🇷 Preparando mi mejor versión ➡️ 4.0 ⓉⓊ ⓅⓊⒺⒹⒺⓈ 👠#MODA 🧘#CUIDADOS 🥗#RECETAS 🌎#VIAJES 🧖‍♀️#HEALTHYLIFESTYLE
     location: "Spain"
-    followers: 65837
-    engagement: 124
-    commentsToLikes: 0.185153
-    id: ck5px2vcgptv00i11w9zwsb8o
+    followers: 21434
+    engagement: 101
+    commentsToLikes: 0.610860
+    id: ck15u5kxblip60i19c51pkugk
     verified: false
-    hashtags: "#fashiongram, #beauty, #instafashion, #cosmetics"
+    hashtags: "#life, #leidaatracao, #invierno, #look"
 ---

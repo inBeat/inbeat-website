@@ -1,130 +1,118 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Austria in 2023
+title: Top 10 Illustrators Instagram Influencers In Austria In 2023
 description: >-
-  Find top illustrators Instagram influencers in Austria in 2023. Most popular hashtags: #illustration #artwork #drawing.
+  Find top illustrators Instagram influencers in Austria in 2023. Most popular hashtags: #illustration #illustrationartists #artwork #illustrationartist.
 platform: Instagram
-hits: 13
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 13 Instagram influencers like this in Austria for you to pitch.
+hits: 9
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Austria for you to collaborate.
 profiles:
   - username: "stefankoidl"
     fullname: >-
       Stefan Koidl
     bio: >-
-      Illustrator | Concept Art 🎨 Krampus masks 😈 AT, Salzburg🇦🇹 prints: https://www.redbubble.com/people/Koidl/ https://www.artstation.com/stefankoidl
+      Illustrator | Krampus masks 🎨😈 AT, Salzburg🇦🇹 Crypto inquiries: stefankoidl.nft@gmail.com https://crypto.com/nft/profile/stefankoidl
     location: "Austria"
-    followers: 220161
-    engagement: 1313
-    commentsToLikes: 0.005495
+    followers: 262907
+    engagement: 983
+    commentsToLikes: 0.005154
     id: ck0w3x0kpvptw0i19uc5lkr0w
     verified: false
-    hashtags: ""
+    hashtags: "#prettyphoto"
   - username: "julesboho.tattoo"
     fullname: >-
       Jules Boho
     bio: >-
-      tattoo artist • illustrator • painter • globetrotter • co-owner of Linzer Tattooatelier • based in Linz, AT 🇦🇹🌎 ☀️🤙🏼
+      tattoo artist • illustrator • painter • globetrotter(usually)• co-owner of Linzer Tattooatelier • based in Linz, AT 🇦🇹🌎 ☀️🤙🏼
     location: "Austria"
-    followers: 49776
-    engagement: 152
-    commentsToLikes: 0.014036
+    followers: 49531
+    engagement: 154
+    commentsToLikes: 0.022893
     id: ck0u83d8h6g4a0i196353gfnx
     verified: false
-    hashtags: "#avantgardetattoo, #naturetattoo, #contemporarytattooing, #art"
+    hashtags: "#toptattooartist, #artistsoninstagram, #sketchtattoo, #naturetattoo"
   - username: "caglazimmermann"
     fullname: >-
       Cagla Zimmermann
     bio: >-
-      Illustrator in Vienna A folksy dreamer Work inquiries👇🏼 📮hello@caglazimmermann.com Editioned Prints > @toiartgallery © All works copyright protected
+      Illustrator 🏡 living in Vienna A folksy dreamer ©All works copyright protected
     location: "Austria"
-    followers: 20640
-    engagement: 578
-    commentsToLikes: 0.107495
+    followers: 23363
+    engagement: 459
+    commentsToLikes: 0.094727
     id: ck139uc9xn5j30i19ftug6igc
     verified: false
-    hashtags: "#illustrationow, #onmydesktoday, #traditionalartist, #surfacepatterndesign"
-  - username: "helsinkimonamour"
-    fullname: >-
-      Myriam Van Neste
-    bio: >-
-      Illustrator from Québec, based in Vienna For collabs and inquiries 💌hello@myriamvanneste.com
-    location: "Austria"
-    followers: 93246
-    engagement: 287
-    commentsToLikes: 0.013482
-    id: ck0tzgzpiqe830i19v6lid18k
-    verified: false
-    hashtags: "#shopsmall, #supportsmallbusinesses, #myriamvannestepattern, #ethicalfashion"
+    hashtags: "#folkart, #gouacheartist, #womenwhopaint, #gouachepainting"
   - username: "sofie_strasser"
     fullname: >-
       Sofie Strasser
     bio: >-
       Printmaker and Illustrator // Mostly in Vienna, sometimes in New Orleans 🖤
     location: "Austria"
-    followers: 9332
-    engagement: 481
-    commentsToLikes: 0.034575
+    followers: 10212
+    engagement: 390
+    commentsToLikes: 0.026648
     id: ckap3m0rg3kck0i78iw2cz74w
     verified: false
-    hashtags: "#get, #foodies, #wienstagram, #schlange"
-  - username: "michaelhackerillustration"
-    fullname: >-
-      Michael Hacker
-    bio: >-
-      Illustrator, comic & gig poster artist in Vienna & Berlin. • @elherpez • @pizzeriadisgusto • @gigpostershow •
-    location: "Austria"
-    followers: 25011
-    engagement: 231
-    commentsToLikes: 0.044766
-    id: ck0uaotrxcozx0i19r9t52a8w
-    verified: false
-    hashtags: "#pin, #beer, #sketch, #ink"
+    hashtags: "#wienneubau, #pike, #hecht, #wienstagram"
   - username: "ana___popescu"
     fullname: >-
       Ana Popescu
     bio: >-
-      visual artist and illustrator from France based in Vienna / for any inquiries or commissions mail to ana@popescuana.com
+      visual artist & illustrator from France, based in Vienna / for any inquiries mail to ana@popescuana.com US/UK/FR -> represented by @atelier22paris
     location: "Austria"
-    followers: 45354
-    engagement: 359
-    commentsToLikes: 0.008462
+    followers: 57857
+    engagement: 329
+    commentsToLikes: 0.007830
     id: ck8tdj6403ixh0j78sgxzbskh
     verified: false
-    hashtags: "#molotowmarkers, #bialetti, #drawing, #acrylic"
+    hashtags: "#visualdiary, #illustration, #textile, #procreate"
   - username: "petrabraunillustration"
     fullname: >-
       Petra Braun
     bio: >-
-      Illustrator from Austria Nature lover 🌱 vegan 🍉 cat addict 🐈 For commissions and collaborations contact hello@petra-braun.com
+      Hey there, I‘m Petra! ✏️ Illustrator from Austria 💌 hello@petra-braun.com Portfolio & Shop www.petra-braun.com (no DM please)
     location: "Austria"
-    followers: 54266
-    engagement: 503
-    commentsToLikes: 0.048324
+    followers: 63452
+    engagement: 350
+    commentsToLikes: 0.035391
     id: ck0u1ud4exzjd0i19d95zb7li
     verified: false
-    hashtags: "#illo, #floralpattern, #illustratenow, #womenwhodraw"
+    hashtags: "#womenofillustration, #patterndesign, #illustration, #lovers"
   - username: "damare_draws"
     fullname: >-
-      Damare
+      Damare @ Dokomi B21
     bio: >-
-      Illustrator | Vienna | 🔞 I make comics and illustrations and love to work with vibrant colors🎨 ! DO NOT REPOST / EDIT MY ART !
+      🎨 Hey, I'm Damare a freelance illustrator. I make comics, fanarts and love to work with vibrant colors. ⬇️ Patreon, Twitch & Shop ⛔ reposts/edits
     location: "Austria"
-    followers: 16762
-    engagement: 3747
-    commentsToLikes: 0.014381
+    followers: 24046
+    engagement: 1379
+    commentsToLikes: 0.010743
     id: ck9wdi2g8fq2v0j78wrlsu97y
     verified: false
-    hashtags: "#gaycomic, #comicbookpanels, #pokemonswordandshield, #animalcrossingdrawing"
-  - username: "kisakisenka"
+    hashtags: "#boyslove, #genshinimpactfanart, #kaeyafanart, #voltron"
+  - username: "michaelhackerillustration"
     fullname: >-
-      Vladimir Arhipkin
+      Michael Hacker
     bio: >-
-      Tattoo artist/illustrator/designer Graz. Austria. @WorldFamousInk - proteam hello@create-tattoo.com
+      Illustrator, comic & gig poster artist • @pizzeriadisgusto • @elherpez • @gigpostershow • El Herpez #2 is now available for pre-order over at
     location: "Austria"
-    followers: 29446
-    engagement: 165
-    commentsToLikes: 0.014854
-    id: ckaoucgwozov40i78vdeh4erf
+    followers: 24966
+    engagement: 226
+    commentsToLikes: 0.022980
+    id: ck0uaotrxcozx0i19r9t52a8w
     verified: false
-    hashtags: "#tattoocolor, #neotraditionalflash, #neotraditionaleurope, #worldfamoustattooink"
+    hashtags: "#drawing, #comics, #illustration, #michaelhacker"
+  - username: "rachelkatstaller"
+    fullname: >-
+      Rachel Katstaller
+    bio: >-
+      ✏️Illustrator, maker and failed skater 🌴Tropical cat living in the Alps 📓Repped by @redfoxliterary 👇Shop Original Art for a good cause
+    location: "Austria"
+    followers: 17633
+    engagement: 138
+    commentsToLikes: 0.023086
+    id: ck5zlr8k4l8n50i14yj1gp9nk
+    verified: false
+    hashtags: "#artoftheday, #geometricart, #illustrationart, #ilustra"
 ---

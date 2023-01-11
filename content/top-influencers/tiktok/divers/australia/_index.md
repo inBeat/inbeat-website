@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers TikTok Influencers In Australia in 2023
+title: Top 10 Divers TikTok Influencers In Australia In 2023
 description: >-
-  Find top divers TikTok influencers in Australia in 2023. Most popular hashtags: #diversity #duet #diving #fyp.
+  Find top divers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #viral #diversity #australia.
 platform: TikTok
-hits: 22
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 22 TikTok influencers like this in Australia for you to contact.
+hits: 87
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 87 TikTok influencers like this in Australia for you to collaborate.
 profiles:
   - username: "aquariustraveller"
     fullname: >-
-      Chris Fry
+      Aquarius Traveller / Chris Fry
     bio: >-
       Chris Fry Creator, Travel Photo/Videographer & Diver IG: @Aquarius.traveller
     location: "Australia"
-    followers: 29000
-    engagement: 762
-    commentsToLikes: 0.074862
+    followers: 28800
+    engagement: 670
+    commentsToLikes: 0.068408
     id: ck977bnu23lx30j7889za75v1
     verified: false
-    hashtags: "#travel, #australia, #adventure, #brisbane"
-  - username: "thexhan"
-    fullname: >-
-      Hannah Balanay
-    bio: >-
-      🇵🇭 ig: thexhan.official inquiries: diversity.perth@hotmail.com 19
-    location: "Australia"
-    followers: 13700000
-    engagement: 2209
-    commentsToLikes: 0.005017
-    id: ck8aebbanbiqj0j78vtkv4bur
-    verified: true
-    hashtags: "#thesero, #samsungpartner, #duet, #culturekings"
+    hashtags: "#adventure, #brisbane, #queensland, #australia"
   - username: "samfrickerr"
     fullname: >-
       Sam Fricker 
     bio: >-
       Australian Diver 🇦🇺 🤙 More Than Just A Dream 💎
     location: "Australia"
-    followers: 326300
-    engagement: 1089
-    commentsToLikes: 0.012211
+    followers: 432000
+    engagement: 922
+    commentsToLikes: 0.011570
     id: ck8f711ci2u5h0j78zgsuu7x0
     verified: false
-    hashtags: "#flips, #rockjumps, #diving, #wheatstraws"
-  - username: "scott.creates"
+    hashtags: "#flips, #tokyo2021, #meme, #wheatstraws"
+  - username: "vintaqv"
     fullname: >-
-      Scott Stuart
+      ISSSAYYYY
     bio: >-
-      Bestselling Kids Author Support the "My Shadow is Pink" film at link below! 👇
+      Hey, ily 💞 Spam= blocked I married Ameliah so back off 🐙🐙
     location: "Australia"
-    followers: 285100
-    engagement: 1871
-    commentsToLikes: 0.019969
-    id: ck977vvtk5plk0j78clftsuxd
-    verified: false
-    hashtags: "#kids, #fatherson, #beyourself, #parenting"
-  - username: "awh.issy"
-    fullname: >-
-      ♡︎9k children♡︎
-    bio: >-
-      User- AwhIssy I used to be “honexxi.rblx” Ameliah is mine
-    location: "Australia"
-    followers: 9227
-    engagement: 2178
-    commentsToLikes: 0.164794
+    followers: 9801
+    engagement: 1611
+    commentsToLikes: 0.081427
     id: ckd6huaseae5c0j23uds6gxnb
     verified: false
-    hashtags: "#foryoupage, #foryou, #roblox, #edit"
-  - username: "tarikfrimpongofficial"
+    hashtags: "#fyp, #trend, #roblox, #foryoupage"
+  - username: "alexamelia"
     fullname: >-
-      tarikfrimpong
+      [ alex / lex ]
     bio: >-
-      he/ him ❤️ Actor - Singer - Dancer 😊 Goal: 257BILLION
+      dm’s don’t work they/she books are my therapy and issue i’m a minor, thanks :)
     location: "Australia"
-    followers: 11400
-    engagement: 1854
-    commentsToLikes: 0.192791
-    id: ckbf7xzt8y5xd0j23r3a2kg1z
+    followers: 6222
+    engagement: 2313
+    commentsToLikes: 0.051044
+    id: ckdntgffilgko0j23alx99i61
     verified: false
-    hashtags: "#johnlegend, #theatre, #johnlegendcover, #antiracism"
+    hashtags: "#love, #booktok, #romance, #bookhaul"
   - username: "bodyblendz"
     fullname: >-
       Bodyblendz
     bio: >-
       Australian Skincare Brand that Gets YOU! Reduces Breakouts & Stretch Marks
     location: "Australia"
-    followers: 3964
-    engagement: 1541
-    commentsToLikes: 0.062152
+    followers: 4163
+    engagement: 1391
+    commentsToLikes: 0.060254
     id: ckbraukzkp37c0j23ucixrn8v
     verified: false
-    hashtags: "#selfcare, #selflove, #beauty, #bodyblendz"
-  - username: "ashe_media"
+    hashtags: "#beautiful, #iso, #skincareroutine, #beautytutorial"
+  - username: "neelkolhatkar"
     fullname: >-
-      ashe_media
+      Neel Kolhatkar
     bio: >-
-      Hi its Liam Business- liamashesocials@gmail.com Insta/snap- ashe_media
+      Aussie guy with jokes and thoughts 🤡🥸. IG @neelkolhatkar Podcast - S*x Cells
     location: "Australia"
-    followers: 103600
-    engagement: 1376
-    commentsToLikes: 0.011112
-    id: cka5z125uko3m0i78ew259dvp
-    verified: false
-    hashtags: "#woolies, #diving, #duet, #tv"
-  - username: "jessraeking"
+    followers: 926100
+    engagement: 1658
+    commentsToLikes: 0.015694
+    id: ck81sw75mtjxy0j78qigcxp54
+    verified: true
+    hashtags: "#left, #women, #sydney, #men"
+  - username: "alexkyddphoto"
     fullname: >-
-      Jess King
+      Alex Kydd Photo
     bio: >-
-      Curve Model & Nap enthusiast My cat’s name is Draco Meowfoy Insta: @jessraeking
+      Underwater photographer | Freediver | Australian IG: @alexkyddphoto
     location: "Australia"
-    followers: 8358
-    engagement: 510
-    commentsToLikes: 0.044921
-    id: ckdhgtydkxu6z0j23jn2d0wof
+    followers: 17900
+    engagement: 1318
+    commentsToLikes: 0.018709
+    id: ckb17ra2kvgfn0j23qwde9llg
     verified: false
-    hashtags: "#lol, #size14, #midsizegirl, #curvemodel"
-  - username: "sydneyspearos"
+    hashtags: "#ocean, #marinelife, #gopro, #westernaustralia"
+  - username: "baileypickles"
     fullname: >-
-      sydney spearos
+      Bailey Pickles Music
     bio: >-
-      @sydney.spearos insta @Sydney spearos spearfishing f/b follow and comment
+      17, Sydney, AUS Open to features and collabs! Mgmt: baileypicklesteam@gmail.com
     location: "Australia"
-    followers: 217100
-    engagement: 449
-    commentsToLikes: 0.024532
-    id: ck83wz6byn75q0j78mjg27hju
+    followers: 402400
+    engagement: 840
+    commentsToLikes: 0.033778
+    id: cka0u3v43sojp0i78gbu9exoa
     verified: false
-    hashtags: "#oceanadict, #foryoupage, #theman, #ocean"
+    hashtags: "#tiktokpiano, #duet, #pianocover, #spotifyshufflechallenge"
+  - username: "pamm.j"
+    fullname: >-
+      pam
+    bio: >-
+      if you found me no you didn't
+    location: "Australia"
+    followers: 4003
+    engagement: 1080
+    commentsToLikes: 0.066828
+    id: ck9dr1xqk29m20j78f5onnmsg
+    verified: false
+    hashtags: "#foryoupage, #fyp, #art, #like"
+  - username: "timofylee"
+    fullname: >-
+      timofylee
+    bio: >-
+      Home of the 'Lee Family' Fun vids 😬
+    location: "Australia"
+    followers: 551400
+    engagement: 3069
+    commentsToLikes: 0.005602
+    id: ckbfdx5w67meq0j23m7gdhr57
+    verified: false
+    hashtags: "#karen, #asian, #asianmom, #duet"
 ---

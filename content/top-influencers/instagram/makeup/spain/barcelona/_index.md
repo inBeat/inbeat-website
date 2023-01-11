@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Barcelona in 2023
+title: Top 10 Makeup Instagram Influencers In Barcelona In 2023
 description: >-
-  Find top makeup Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #makeup #model #photooftheday.
+  Find top makeup Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #makeup #model #fashion.
 platform: Instagram
-hits: 128
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 128 Instagram influencers like this in Barcelona, Spain for you to contact.
+hits: 85
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 85 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
-  - username: "bigmouthers"
-    fullname: >-
-      Big Mouthers
-    bio: >-
-      Sexiest and coolest Hard Rock band in Barcelona(Spain) www.bigmouthers.com Facebook.com/bigmouthers
-    location: "Spain"
-    followers: 5527
-    engagement: 442
-    commentsToLikes: 0.051073
-    id: ck5ccrs6xhw5x0i118e353czg
-    verified: false
-    hashtags: "#video, #life, #pics, #igers"
   - username: "familishome"
     fullname: >-
       F A M I L I ‘ S   H O M E  🌸
     bio: >-
       Autodidacta adicta al #maquillaje y la #cosmetica . Código de descuento en @maquillalia MAQUIHOME . 📍 #barcelona . Piel MIXTA / SENSIBLE / ACNEICA
     location: "Spain"
-    followers: 5670
-    engagement: 852
-    commentsToLikes: 0.369189
+    followers: 5878
+    engagement: 659
+    commentsToLikes: 0.234149
     id: ck6u3igg5xz220j715klj0obb
     verified: false
-    hashtags: "#corazonabeauty, #wibo, #makeupfantasy, #halloween2020"
-  - username: "agataa8"
+    hashtags: "#pinkducklondon, #primor, #onlinecosmeticos, #maquillajeespa"
+  - username: "silascalleshablasen"
     fullname: >-
-      AGATAA∞
+      Alexandra
     bio: >-
-      Barcelona 📍 ♀️💪💪
+      Alexandra #Socialmediamanager #Contentcreator #Photographer @sch_lifestylephoto #Makeupartist 💌 silascalleshablasen@gmail.com
     location: "Spain"
-    followers: 14455
-    engagement: 621
-    commentsToLikes: 0.033928
-    id: ckap4if9a7iql0i78oj3haz8m
+    followers: 32225
+    engagement: 142
+    commentsToLikes: 0.059669
+    id: ck5qe08nyy3js0i11q35qmp4c
     verified: false
-    hashtags: "#model, #modelo, #pelolargo, #pelocasta"
-  - username: "raisie_ink"
+    hashtags: "#hm, #fashionblogger, #ootd, #fashionstyle"
+  - username: "ohh.ginger"
     fullname: >-
-      🌸Raisie 🌸
+      wedding+editorial photographer
     bio: >-
-      50% Soft🐻 50% bad ass🌸 • Seoul April 2023 📍 🇰🇷 •@suicidegirls official 🎀 • @charliez__angelz Squad • MUA/ 메이크업 아티스트 💄 Works & collabs DM/EMAIL💌
+      Anna⚡️ singing odes to joy and freedom. based out of Barcelona, Spain & Europe. ☄️2021: MEX feb-march, USA, EU
     location: "Spain"
-    followers: 41393
-    engagement: 779
-    commentsToLikes: 0.017863
-    id: ck5cbwpalgb190i111v3497qa
+    followers: 27417
+    engagement: 522
+    commentsToLikes: 0.030427
+    id: ck5pypnmmx6ot0i113c71derz
     verified: false
-    hashtags: "#lovely, #inkedbabes, #suicidegirl, #tattooed"
+    hashtags: ""
   - username: "carmen.antonn"
     fullname: >-
       Carmen Antón
     bio: >-
-      Model&Actress 🎬 @elclubdeactores 🎞 Management:@ocotalent_ rosamaria@ocotalent.com @salvadoragency @salvadormodels 🎓Psychologist 📍Madrid
+      🎞 Actriz:@ocotalent_ rosamaria@ocotalent.com 📸 Moda&Publi: @salvadoragency @salvadormodels 🎬 @elclubdeactores 📍Madrid 👩🏼‍🎓Psychologist
     location: "Spain"
-    followers: 25008
-    engagement: 300
-    commentsToLikes: 0.054591
+    followers: 25312
+    engagement: 241
+    commentsToLikes: 0.041234
     id: ck6txwt8b0b9u0j71z1sc9vck
     verified: false
-    hashtags: "#fashioneditorial, #ootd, #couture, #getreadytomodel"
-  - username: "alessandrorenzi"
-    fullname: >-
-      Alessandro Renzi
-    bio: >-
-      Professional photographer 📧 alessandro.renzi@mac.com #barcelona 🇪🇸 👇👇
-    location: "Spain"
-    followers: 62510
-    engagement: 119
-    commentsToLikes: 0.017931
-    id: ck55o1mm97g510i11oh9jpciq
-    verified: false
-    hashtags: "#fujixlovers, #featurepalette, #fujilove, #fujifilmlove"
+    hashtags: "#happymonday, #tbt, #positivevibes, #balayagehair"
   - username: "nuria_tomas"
     fullname: >-
       Núria Tomás
     bio: >-
-      BCN - MAD 🚀 Founder & CEO @apoloxcommunication 🥚 Founder and Designer @eggsoeggso 🎬 Actress @macutotalent
+      🏛 Apolo’s mom 🚀 Founder @apoloxcommunication 🎬 Actress @macutotalent 🎓 Career @enriquetomas
     location: "Spain"
-    followers: 44663
-    engagement: 169
-    commentsToLikes: 0.035100
+    followers: 45185
+    engagement: 145
+    commentsToLikes: 0.025766
     id: ck5cfqfuvng4u0i115i3gwy2q
     verified: false
-    hashtags: "#pregnancy, #pregnant, #pregnantstyle, #fotografiaembarazo"
-  - username: "laurabudo"
+    hashtags: "#babyapolo, #pregnant, #nude, #fotografiaembarazo"
+  - username: "andrea_keany"
     fullname: >-
-      L A B Ú 🌱
+      Actriz | Andrea Keany
     bio: >-
-      📍Barcelona | Costa Brava 📥laura.bumaar@gmail.com 15% “laura15” @rorolovejewelry 10% “laura10” @la_casa_dels_pantalons 10% “LABU” @masksupofficial
+      Rodando ando...🎬📽 ••••••••••• 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇦
     location: "Spain"
-    followers: 63566
-    engagement: 437
-    commentsToLikes: 0.107989
-    id: ckaovk41r4wun0i787xihzx2v
+    followers: 4766
+    engagement: 997
+    commentsToLikes: 0.318184
+    id: ck6tkabrk4b6y0j71ghskfz4b
     verified: false
-    hashtags: "#autumn, #luzeelsol, #collaborattions, #summer"
-  - username: "danirull.official"
+    hashtags: "#benidorm, #actress, #actriz, #rodaje"
+  - username: "noah_pharrell"
     fullname: >-
-      danielrull
+      Noah Pharrell | Photographer
     bio: >-
-      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
+      NEW PROJECT @noah_pharrell_unpublished
     location: "Spain"
-    followers: 19043
-    engagement: 368
-    commentsToLikes: 0.095710
-    id: ck0w0ii8tedh20i19eb5soii8
+    followers: 15052
+    engagement: 467
+    commentsToLikes: 0.027077
+    id: ck5hcm77tismb0i11mkwcqjlk
     verified: false
-    hashtags: "#fashionblogger, #malebeauty, #retouch, #visualart"
-  - username: "nattaliaweberr"
+    hashtags: "#portraitphotography, #ishoothumans, #polaroid, #weshoothumans"
+  - username: "sharon__thequeen"
     fullname: >-
-      Nattalia Weber 🇧🇷🥑
+      Heartless
     bio: >-
-      👩🏻‍⚕️🍎DIETÉTICA y NUTRICIÓN 🏋🏽‍♀️Entrenos personales 👙Preparación de competición 👠Clases de posing 📚Psicología @prozis NATTALIA @protella NATTALIA
+      🏳️‍🌈 Barcelona🏡 🇪🇸-🇩🇪🇬🇭
     location: "Spain"
-    followers: 18328
-    engagement: 330
-    commentsToLikes: 0.031475
-    id: ck8t4fkoy6lzv0j78j4ltyr7s
+    followers: 10331
+    engagement: 1675
+    commentsToLikes: 0.023000
+    id: ck8t2y7mo15lu0j78vp56caei
     verified: false
-    hashtags: "#coach, #bikinifitness, #barcelona, #love"
+    hashtags: "#beach, #sky, #dior, #spain"
+  - username: "larochulaloba"
+    fullname: >-
+      SOY  ROCHU  LA  LOBA 🐺💖
+    bio: >-
+      La mejor presentación de @islatentaciones🌴 Siempre flexx💪🏼 LA ROCHU EN YT‼️ Secundaria @larochulaloba3 CONTENIDO🔥🔞 LINKS & LAST WORK👇🏼
+    location: "Spain"
+    followers: 33457
+    engagement: 238
+    commentsToLikes: 0.039428
+    id: ck5zz8cm3b9t00i147m4xidco
+    verified: false
+    hashtags: "#makeupartist, #portraitphotography, #studiophotography, #drill"
+  - username: "thenortherngirlphotography"
+    fullname: >-
+      Rebecca Scabrós
+    bio: >-
+      Fashion&ModernWeddingPhotographer Fashion: @rebeccascabros Diary @rebeccascabrosdiary 📍Based in Barcelona - Available worldwide
+    location: "Spain"
+    followers: 7271
+    engagement: 417
+    commentsToLikes: 0.048377
+    id: ck5c9tm8bc3n10i11urmbxl88
+    verified: false
+    hashtags: "#peoplescreative, #ecoconscious, #couple, #letsgosomewhere"
 ---

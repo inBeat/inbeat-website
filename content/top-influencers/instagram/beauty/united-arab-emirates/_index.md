@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Beauty Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top beauty Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #makeup #dubaiblogger.
+  Find top beauty Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fashion #lifestyle.
 platform: Instagram
-hits: 445
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 445 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 401
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 401 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
+  - username: "layannsalem"
+    fullname: >-
+      • ليان سالم •
+    bio: >-
+      📍 AD | Dubai Beauty | Lifestyle | Travel I drive boats too⚓️ @layansalembeauty
+    location: "United Arab Emirates"
+    followers: 414723
+    engagement: 342
+    commentsToLikes: 0.012301
+    id: ck8t0317tqnto0j788apbqc8p
+    verified: false
+    hashtags: "#beautifulskin, #sleepfearless, #periodsomnia, #sheglamblush"
+  - username: "fata.hasanovic"
+    fullname: >-
+      Fata Hasanovic
+    bio: >-
+      TRAVEL x BEAUTY x FASHION 📍 Living in #dubai PHOTOGRAPHY : @fataaagraphy CLICK HERE :
+    location: "United Arab Emirates"
+    followers: 482241
+    engagement: 69
+    commentsToLikes: 0.041382
+    id: ck15s5laqbc4b0i19770uqclw
+    verified: true
+    hashtags: "#reels, #songverh, #feedaesthetic, #bosnia"
   - username: "gisoodiba"
     fullname: >-
       GISOO DIBA
     bio: >-
       Beauty & makeup Youtube:Gisoodiba Businesses:gisoodiba@gmail.com www.gisoodiba.com 💍@navidaneshfar Based in dubai
     location: "United Arab Emirates"
-    followers: 520695
-    engagement: 1364
-    commentsToLikes: 0.160568
+    followers: 620892
+    engagement: 1412
+    commentsToLikes: 0.069284
     id: ck6u5giqa9i3g0j71azzfhbkm
     verified: false
-    hashtags: "#beautyblogger, #tartecosmetics, #hudabeauty, #makeuplook"
-  - username: "radhasrevolution"
-    fullname: >-
-      Radha Shah
-    bio: >-
-      Mrs. India Worldwide UAE 🇮🇳 🇦🇪. Fashion, Fitness, Food & Beauty Blogger For collaboration please DM me
-    location: "United Arab Emirates"
-    followers: 53596
-    engagement: 412
-    commentsToLikes: 0.233228
-    id: ck5cargq3dzju0i118j7fjm4a
-    verified: false
-    hashtags: ""
+    hashtags: "#makeup, #hudabeauty, #kyliecosmetics, #fentybeauty"
   - username: "madaboutella"
     fullname: >-
-      DUBAI LIFESTYLE BLOGGER🏝
+      Dubai Lifestyle Blogger🏝
     bio: >-
-      Ella Pop #fashion | #lifestyle | #beauty 📩 business: info.madaboutElla@gmail.com 📍#Dubai🇦🇪 👩🏻Bulgarian/American 📸Tag #madaboutElla
+      Ella Pop #fashion | #lifestyle | #beauty 📩 pr: info.madaboutElla@gmail.com 📍#Dubai🇦🇪 👩🏻Bulgarian/American Follow me on TikTok: @madaboutElla
     location: "United Arab Emirates"
-    followers: 42336
-    engagement: 371
-    commentsToLikes: 0.134989
+    followers: 64322
+    engagement: 298
+    commentsToLikes: 0.101958
     id: ck0w4tfys0bwr0i19i7ag9tri
     verified: false
-    hashtags: "#tbt"
-  - username: "fata.hasanovic"
+    hashtags: ""
+  - username: "rebeccarkassab"
     fullname: >-
-      Fata Hasanovic
+      Rebecca Kassab Al Azar
     bio: >-
-      TRAVEL x BEAUTY x FASHION 📍 Living in #dubai IMPRESSUM : @impressum.fata #Podcast : Fataland #tiktok: Fata.hasanovic
+      📍#BEY | #DXB 𝒮𝑒𝑒𝓀 𝓎𝑜𝓊𝓇 𝒾𝓃𝓃𝑒𝓇 𝓅𝑒𝒶𝒸𝑒🕊† لتكن مشيئتك #FASHION | #BEAUTY | #LIFESTYLE ▫️Master in Telecom Engineer ▫️Digital Media Expert ▫️Fashion Stylist
     location: "United Arab Emirates"
-    followers: 449873
-    engagement: 271
-    commentsToLikes: 0.045620
-    id: ck15s5laqbc4b0i19770uqclw
-    verified: true
-    hashtags: "#musicmonday, #dxb, #fata, #travel"
-  - username: "wassaymughal"
-    fullname: >-
-      Wassay Mughal 🇦🇪
-    bio: >-
-      UAE Licenced @promotersparadise #LifeStyleInfluencer & #MomBlogger Beauty•Fashion•Lifestyle #MyDubai 👼🏻@diaryofmybaby Email 💌wassaymughal@gmail.com
-    location: "United Arab Emirates"
-    followers: 85651
-    engagement: 274
-    commentsToLikes: 0.116094
-    id: ck15r8csh6nmh0i19rzwu3hbd
+    followers: 90774
+    engagement: 282
+    commentsToLikes: 0.061562
+    id: ck5cfoqmmncwz0i11vy9hgawb
     verified: false
-    hashtags: "#dubaifashion, #dubaiinfluencer, #myplacearabia, #thebarbielook"
-  - username: "ihuoma_eze"
+    hashtags: "#lovewins, #dubailife, #beachlife, #sunset"
+  - username: "saratvshow"
     fullname: >-
-      Ihuoma Eze 🇳🇬🇦🇪
+      ♡ Sara | سارة ♡ أُم نايا
     bio: >-
-      Visual storyteller 📸 Hey there, I'm a Youtuber 🎥 Lifestyle + Travel 📩| quieeneteze799@gmail.com Shop @omaa_beauty_store__
+      🎥 Youtuber with 900k+ ❤️ 📍Dubai/Sweden 📧 For ads: saratvshow@hotmail.com 👩‍👧Mommy to @angelnayaa 💄Beautyblogger ⬇️ My media platforms ⬇️Subscribe
     location: "United Arab Emirates"
-    followers: 15602
-    engagement: 858
-    commentsToLikes: 0.061174
-    id: ckap5fyj0biam0i78mg21i5fq
+    followers: 220947
+    engagement: 322
+    commentsToLikes: 0.078277
+    id: ck15pygt109cb0i1935kczj6w
     verified: false
-    hashtags: "#lagosblogger, #dametraveler, #maldives, #travelblogger"
-  - username: "omgsuraiyaa"
+    hashtags: "#reelitfeelit, #turkey, #likesforlike, #lifestyle"
+  - username: "youmi.kh"
     fullname: >-
-      Suraiya - UAE🇦🇪
+      Youmi kh
     bio: >-
-      •Dubai beauty & food Blogger •For collaboration/ PR - dm or email 📧 • @shein_ar discount code “suraiya15” •Check my YouTube channel 👇
+      يمنى الخوري - - Lebanese 🇱🇧 . - Owner of @youmionlineshop - Fashion | Beauty | Lifestyle influencer.
     location: "United Arab Emirates"
-    followers: 17937
-    engagement: 426
-    commentsToLikes: 0.070094
-    id: ckap6v36ihgwm0i7831s10hh8
+    followers: 607510
+    engagement: 266
+    commentsToLikes: 0.062403
+    id: ck5hlalt0jvjv0i11vghv7e6o
     verified: false
-    hashtags: "#sharjahblogger, #dubailifestyle, #dubaibeautyblogger, #modestfashion"
-  - username: "divabeautyae"
+    hashtags: "#youmi, #youmionlineshop, #youmilenses, #maldives"
+  - username: "sapna1809"
     fullname: >-
-      Arti ( Dubai / India Blogger )
+      Sapna Bhambra
     bio: >-
-      #dubaiblogger #Dubai 🇦🇪 #India🇮🇳 #beauty #fashion #lifestyle Blog #dubaimom of 2#kids ✉ Divabeautyfashion@gmail.com @ksecret_official 'ARTI10' 10% off
+      🇮🇳 🇦🇪 🎂18 Sept My Day. #dubaiblogger #food🥘 #beauty💄 DM or Email for collaboration 📧 sapnabhambra@outlook.com
     location: "United Arab Emirates"
-    followers: 18284
-    engagement: 379
-    commentsToLikes: 0.264650
-    id: ckf5tjy86i0q30j23fznd9pdx
+    followers: 17031
+    engagement: 462
+    commentsToLikes: 0.085809
+    id: ck9wg60q3s1wr0j7829ivm1p1
     verified: false
-    hashtags: "#makeuptutorial, #makeupbyme, #dubaimakeupartist, #motd"
-  - username: "fatomglam"
+    hashtags: "#phoneography, #sunshinegirl, #popxodaily, #mountainview"
+  - username: "shazyzahid"
     fullname: >-
-      Fatima Wasim فاطمة وسيم
+      Shahreen Zahid | شاهرين زاهد
     bio: >-
-      •Makeup , Beauty •fatimawaseem.business@gmail.com
+      Digital Content Creator | Model 🌴 Fashion and beauty 📍Dubai 📩shazyzahid@gmail.com
     location: "United Arab Emirates"
-    followers: 813228
-    engagement: 358
-    commentsToLikes: 0.024739
-    id: ck5zku1qwk5n70i14fa9kjbw1
+    followers: 42651
+    engagement: 243
+    commentsToLikes: 0.087318
+    id: ck5hi0fsbazvw0i115cua5wol
     verified: false
-    hashtags: "#tb, #nationallipstickday"
-  - username: "heidielkady"
+    hashtags: "#aldouae, #stepintolove, #aquaforeverything, #lespecs"
+  - username: "kikikeerati"
     fullname: >-
-      Heidi El Kady - هايدي القاضي
+      Kiki Keerati Dubai
     bio: >-
-      Wife & Mommy ❏ Fashion | Beauty | Lifestyle ❏ #Dubai | #Cairo ❏ Founder of @heidisbyheidielkady 📧 heidi.elkady@gmail.com
+      Asian girl living in Dubai 🇹🇭🇦🇪 Fashion | Beauty | Travel | Lifestyle ✈️ A Frequent flyer 📩 DM for work/collabs
     location: "United Arab Emirates"
-    followers: 89458
-    engagement: 225
-    commentsToLikes: 0.082261
-    id: ckap481v565v90i78g9g6vrmc
+    followers: 122093
+    engagement: 353
+    commentsToLikes: 0.014868
+    id: ck5q9owxfc8f50i11biwwxw3b
     verified: false
-    hashtags: "#thebestmanonearth, #luckywife, #babyhussein, #luckysister"
+    hashtags: "#luxury, #ootd, #summer, #holiday"
 ---

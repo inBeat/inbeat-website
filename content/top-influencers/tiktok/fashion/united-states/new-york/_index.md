@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion TikTok Influencers In New York in 2023
+title: Top 10 Fashion TikTok Influencers In New York In 2023
 description: >-
-  Find top fashion TikTok influencers in New York in 2023. Most popular hashtags: #newyork #fyp #fashion #nyc.
+  Find top fashion TikTok influencers in New York in 2023. Most popular hashtags: #fashion #newyork #fyp #nyc.
 platform: TikTok
-hits: 206
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 206 TikTok influencers like this in New York, United States for you to pitch.
+hits: 189
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 189 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "theaudreypeters"
+  - username: "angzel"
     fullname: >-
-      The Audrey Peters
+      Angzel
     bio: >-
-      AP🍒 CEO of let’s do it info@theaudreypeters.com
+      nyc 🖤🧝🏻‍♀️🔪 insta: @angzel Apple Music: @angzel
     location: "United States"
-    followers: 216800
-    engagement: 1079
-    commentsToLikes: 0.018037
-    id: ckai5d13prlnq0i78j9ie4n60
+    followers: 56500
+    engagement: 1192
+    commentsToLikes: 0.015327
+    id: ck8nf4stlq7rz0j78gtouc5xn
     verified: false
-    hashtags: "#fashion, #newyorkcity, #newyork, #manhattan"
-  - username: "mandyansari"
+    hashtags: "#fashion, #newyork, #friends, #nobullying"
+  - username: "nattiescloset"
     fullname: >-
-      mandy ansari
+      Nattiescloset
     bio: >-
-      💁🏻‍♀️your virtual bff instagram: @mandy www.girlandthe.com
+      More fashion inspo on IG @nattiescloset
     location: "United States"
-    followers: 42200
-    engagement: 555
-    commentsToLikes: 0.061947
-    id: ck900x70mavuv0j78q5upz3je
+    followers: 4211
+    engagement: 410
+    commentsToLikes: 0.069945
+    id: ckbf7yjehy8pk0j234r4qjv1k
     verified: false
-    hashtags: "#foryou, #nyc, #tiktokfoodie, #learnfromme"
-  - username: "makeachange.world"
+    hashtags: "#foryou, #outfitinspiration, #ootd, #holidaydecor"
+  - username: "juliettesxlife"
     fullname: >-
-      makeachange
+      Juliette🍓🌵
     bio: >-
-      Environmental media 🌊 Uplifting videos to #makeachange Follow us on YouTube! 👇
+      70K❤️ Email: jpropp@tahlpropp.com
     location: "United States"
-    followers: 150600
-    engagement: 1995
-    commentsToLikes: 0.010844
-    id: ck92t67p6gjng0j78xzieddu3
+    followers: 69000
+    engagement: 2211
+    commentsToLikes: 0.033313
+    id: ck932w4cwlblj0j78bdho499f
     verified: false
-    hashtags: "#fyp, #ocean, #foryourpage, #pollution"
+    hashtags: "#fyp, #indie, #foryou, #vintage"
+  - username: "danielbooter"
+    fullname: >-
+      Daniel Booter
+    bio: >-
+      📍NYC
+    location: "United States"
+    followers: 34700
+    engagement: 599
+    commentsToLikes: 0.055905
+    id: ckbkg63sb7euc0j23qourftld
+    verified: false
+    hashtags: "#views, #la, #lux, #nj"
   - username: "samanthadiorio_"
     fullname: >-
       samanthadiorio
     bio: >-
       PARSONS FASHION MFA, NEW YORK IG: @samanthadiorio 💋
     location: "United States"
-    followers: 63200
-    engagement: 508
-    commentsToLikes: 0.011366
+    followers: 62500
+    engagement: 454
+    commentsToLikes: 0.010349
     id: ck8z5ybnzjsl80j78i6ydrzeh
     verified: false
-    hashtags: "#foryou, #parsonsfashionmfa, #parsons, #fashionschool"
-  - username: "samayasmall"
+    hashtags: "#foryoupage, #foru, #fashion, #parsons"
+  - username: "paigeywaigey420"
     fullname: >-
-      samayasmall
+      paigeywaigey
     bio: >-
-      NYC🇱🇧22🇺🇸 Fashion I NYC is my personality Follow me on za graaam 👆🏼
+      nyc @paigemlev
     location: "United States"
-    followers: 33200
-    engagement: 973
-    commentsToLikes: 0.013732
-    id: ckcv5ib8yp98s0j23hymfhhsx
+    followers: 3554
+    engagement: 982
+    commentsToLikes: 0.052201
+    id: ckbf62nnkvgs20j23bikd6o11
     verified: false
-    hashtags: "#whatieatinaday, #nyc, #fyp, #breakfast"
-  - username: "maudylo"
+    hashtags: "#fyp, #dayinmylife, #fashion, #nyc"
+  - username: "ryan_matta_"
     fullname: >-
-      Ahmadjg
+      Ryan Matta
     bio: >-
-      Content Creator ❗️Mental Health is #1 Here to make you smile ❗️ Road to 100k
+      Photographer Videographer Drone Pilot. Your Smile Can Change The World!
     location: "United States"
-    followers: 70400
-    engagement: 1753
-    commentsToLikes: 0.108296
-    id: ckc8uoakgh4cf0j230euxm4kn
+    followers: 13700
+    engagement: 438
+    commentsToLikes: 0.039024
+    id: ckcviwwh3w6jq0j23qdokaplg
     verified: false
-    hashtags: "#foryoupage, #fup, #duet, #foryoupagethis"
-  - username: "idontcare.usa"
+    hashtags: "#slowmo, #drone, #4thofjuly, #friends"
+  - username: "sunainabhagisb"
     fullname: >-
-      jcm
+      Sunaina Bhagi
     bio: >-
-      
+      Actor Model Fitness freak New York📍Mumbai📍Delhi📍 Instagram- sunainabhagi
     location: "United States"
-    followers: 2210
-    engagement: 632
-    commentsToLikes: 0.063387
-    id: ck81q4pc4fxa00j78l7qb3mwb
+    followers: 62900
+    engagement: 414
+    commentsToLikes: 0.022750
+    id: ckbwjfosa3jji0j23kdgxx6ip
     verified: false
-    hashtags: "#foryoupage, #streetwear, #fashion, #hoodieszn"
-  - username: "qualitydotclothing"
+    hashtags: "#christmas, #love, #bagelbopscontest, #sky"
+  - username: "brendanfoery"
     fullname: >-
-      Quality Clothing
+      Brendan Foery
     bio: >-
-      Quality Clothing Collection 0008 - June 26 https://quality.clothing
+      I make music and create stuff. www.brendanfoery.com
     location: "United States"
-    followers: 6026
-    engagement: 1061
-    commentsToLikes: 0.044553
-    id: ck8nfddnkrfvf0j782ztwc0xr
+    followers: 10800
+    engagement: 1026
+    commentsToLikes: 0.125106
+    id: ck8w5hsmsa0yi0j78rl2yazr0
     verified: false
-    hashtags: "#newyork, #quality, #street, #streetwear"
-  - username: "leeeethebumblebee"
+    hashtags: "#beat, #musicproducer, #duet, #music"
+  - username: "ghanaianbabe"
     fullname: >-
-      Lee
+      Nannette
     bio: >-
-      ✨🧿🦋 Florida/Israel 🦋🧿✨
+      Travel | Lifestyle | DMV Recs 🇬🇭
     location: "United States"
-    followers: 5387
-    engagement: 736
-    commentsToLikes: 0.039939
-    id: ck8z4lutreap10j78rj9jip63
+    followers: 8968
+    engagement: 1085
+    commentsToLikes: 0.037805
+    id: ckacvzmhbq7uj0i78so03w7op
     verified: false
-    hashtags: "#fyp, #minions, #cityofdreams, #aliciakeys"
-  - username: "felixsemper"
-    fullname: >-
-      felixsemper
-    bio: >-
-      Stretching your imagination www.felixsemper.com
-    location: "United States"
-    followers: 401800
-    engagement: 888
-    commentsToLikes: 0.006485
-    id: ckb9mfm08fiae0j23ns0kxde7
-    verified: false
-    hashtags: "#art, #sculpture, #collegegotmelike, #nyc"
+    hashtags: "#blackgirlmagic, #travel, #africangirl, #tiktoktravel"
 ---

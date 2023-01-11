@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Los Angeles in 2023
+title: Top 10 Health Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top health Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fitness #losangeles #health.
+  Find top health Instagram influencers in Los Angeles in 2023. Most popular hashtags: #health #losangeles #fitness #fashion.
 platform: Instagram
-hits: 364
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 364 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 345
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 345 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "jizzymack"
+  - username: "cynthiamaii"
     fullname: >-
-      Ray  Sadeghi
+      𝐂𝐘𝐍𝐓𝐇𝐈𝐀 • Petite Fashion Model
     bio: >-
-      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. Contact by DM or Email for any business inquiries.
+      5’0ft shifting modeling & fashion for petites + mental health advocate los angeles ♡ @rolemodelsmgmt 💌 booking@cynthiamai.com 🎶 tiktok: cynthiamaii
     location: "United States"
-    followers: 212389
-    engagement: 139
-    commentsToLikes: 0.015024
-    id: ck0vx1u47wpyl0i19oypik8rj
+    followers: 17683
+    engagement: 405
+    commentsToLikes: 0.161635
+    id: ck5qco2x2rins0i11rpmn0mby
     verified: false
-    hashtags: "#ufc, #fitness, #bible, #chicago"
-  - username: "ryan.seif"
+    hashtags: "#lovelulus, #lulusambassador, #ad, #stopasianhate"
+  - username: "tinaxgomez"
     fullname: >-
-      Ryan Seif
+      Martina Gomez
     bio: >-
-      Cinematographer, Music Video Director, Celebrity photographer￼ 🇺🇸
+      🎨Dancer🔛Model 🛍Co/F: @floefashions 🎥Rehab(Winter In Paris)Brent Faiyaz ✨Go for it babe
     location: "United States"
-    followers: 17967
-    engagement: 507
-    commentsToLikes: 0.046424
-    id: ck9wgx5pmvdfh0j787n6deowx
+    followers: 4169
+    engagement: 714
+    commentsToLikes: 0.111415
+    id: ck5zkki8cjnbb0i14g15ae6fc
     verified: false
-    hashtags: "#nature, #ryanseif, #musicvideo, #instagram"
-  - username: "awin_3r"
+    hashtags: "#willyscoutsall, #scoutmodelagency21, #wlyg, #modeling"
+  - username: "james_haydn"
     fullname: >-
-      Carlos
+      James Rodriguez
     bio: >-
-      Spread love. Cuban 200% 🇨🇺. Crtorrez343@gmail.com
+      Adding COLOR to this world, a page at a time💙💚 The Lightning Thief BROADWAY ⚡ ART - MUSIC - HEALTH - FITNESS✌🏾
     location: "United States"
-    followers: 11038
-    engagement: 435
-    commentsToLikes: 0.019663
-    id: ck5hh27ax5zwx0i114zp9x2n7
+    followers: 7298
+    engagement: 890
+    commentsToLikes: 0.019734
+    id: ck15sv8b0eyu50i19n7ez19pf
     verified: false
-    hashtags: "#muscle, #fit, #fitness, #workout"
-  - username: "olivia.thai"
-    fullname: >-
-      OLIVIATHAI ⬇️✌️🌎❄️🐣
-    bio: >-
-      📍Arcadia, CA American Idol XV. UC Berkeley 2023. clearly not a fan of IG grids. certified essential oil specialist. songwriter + comedic livestreamer
-    location: "United States"
-    followers: 88380
-    engagement: 121
-    commentsToLikes: 0.097725
-    id: ck6tr1d2ew8up0j71j7yl784f
-    verified: false
-    hashtags: "#meme, #memes, #virus, #covid19"
-  - username: "leonatsume"
-    fullname: >-
-      Leo Natsume
-    bio: >-
-      Creative Designer. Clients: Google, Instagram, Adobe, Uber, Twitter, Huawei, Nike, Disney, Coca-Cola, NYT, Mercedes-Benz, WillSmith, Armani.
-    location: "United States"
-    followers: 24332
-    engagement: 398
-    commentsToLikes: 0.017378
-    id: ck0vuzgofmuiw0i19bru4qv33
-    verified: false
-    hashtags: "#octane, #catsofinstagram, #smartphone, #influencer"
+    hashtags: "#enoughisenough, #environment, #strong, #justiceforbreonnataylor"
   - username: "kim_strother"
     fullname: >-
       Kim Strother
     bio: >-
-      Celebrity Trainer & Yoga Instructor. Healing through holistic nutrition & mindfulness. Let’s create your own integrative health plan. 📍Los Angeles CA
+      Celebrity Trainer & Yoga Instructor Healing through holistic nutrition & mindfulness. Let’s create your own integrative health plan. 📍Los Angeles CA
     location: "United States"
-    followers: 18453
-    engagement: 268
-    commentsToLikes: 0.086910
+    followers: 26499
+    engagement: 124
+    commentsToLikes: 0.086633
     id: ck0vy0qgv1nzc0i191977v1hz
     verified: false
-    hashtags: "#30daytransformation, #nutrition, #explore, #healthylifestyle"
-  - username: "michellecarigma"
-    fullname: >-
-      MC
-    bio: >-
-      @itsallgood.inc @_modernfit Mental Health, Fitness, Wellness Los Angeles
-    location: "United States"
-    followers: 29088
-    engagement: 472
-    commentsToLikes: 0.028930
-    id: ck6tshhcx4snf0j71tkgg1r0m
-    verified: false
-    hashtags: "#challengeaccepted, #wearamask, #blacklivesmatter, #blackouttuesday"
+    hashtags: "#yogasculpt, #workoutmotivation, #getoutside, #yogaglo"
   - username: "soukeyna"
     fullname: >-
       SouKeyna Diouf
     bio: >-
-      (Sue•Kay•Na) Senegalese• Model• Healthcare Advocate• Howard Alumni UN Global Health Champion 📍Los Angeles
+      (Sue•Kay•Na) Senegalese• Model• Healthcare Advocate• Howard Alumna UN Global Health Champion 📍Los Angeles
     location: "United States"
-    followers: 103099
-    engagement: 652
-    commentsToLikes: 0.017691
+    followers: 137981
+    engagement: 523
+    commentsToLikes: 0.014630
     id: ck0vz37o872dh0i19x5qcj376
     verified: false
-    hashtags: "#lancomepartner, #ad, #savagexambassador, #swipe"
+    hashtags: "#ad, #moon, #revolveinbloom, #mygrlfrnd"
   - username: "cori.story"
     fullname: >-
       Corinne Nicewick
     bio: >-
       I’m almost good at a lot of things ______________________ - Mental Health Advocate - 📍Los Angeles, CA
     location: "United States"
-    followers: 29306
-    engagement: 682
-    commentsToLikes: 0.017898
+    followers: 38475
+    engagement: 639
+    commentsToLikes: 0.019501
     id: ck1384lfueh0w0i196kmj6kt2
     verified: false
-    hashtags: "#awakenedalchemy, #movementchallenge, #flexibility, #push"
-  - username: "mybeautybunny"
+    hashtags: "#contortion, #funny, #challenge, #fail"
+  - username: "cannonnation"
     fullname: >-
-      Jen M 🐰 My Beauty Bunny Blog
+      Brandon "The Cannon" Adams
     bio: >-
-      🐰 Since 2009 #crueltyfree blogger 🐰 Jen Mathews, Chief Bunny 🐰 #cleanbeauty, health & lifestyle 📍Los Angeles ✍🏻 jen@mybeautybunny.com #thyroidcancer 🦋
+      Pro Boxer 🥊YouTube: @BATheCannon 🥊Facebook: @BrandonTheCannon
     location: "United States"
-    followers: 78051
-    engagement: 152
-    commentsToLikes: 0.035043
-    id: ck0vvybkjrbjk0i19alnpo9ez
+    followers: 12767
+    engagement: 609
+    commentsToLikes: 0.074159
+    id: ck8szhio5ogw90j78mce8occu
     verified: false
-    hashtags: "#vegan, #gifted, #crueltyfree, #goodhairdaychallenge"
+    hashtags: "#brown, #losangeles, #health, #fun"
+  - username: "carson.mosser"
+    fullname: >-
+      Carson Reed
+    bio: >-
+      Kentucky native :) Actor/Model
+    location: "United States"
+    followers: 55549
+    engagement: 200
+    commentsToLikes: 0.045490
+    id: ck5qcgz3hqinc0i11pk8ngi0u
+    verified: false
+    hashtags: "#fit, #track, #malemodel, #lagunabeach"
+  - username: "drmarkcheng"
+    fullname: >-
+      Dr. Mark Cheng
+    bio: >-
+      💪“Make every rep rehabilitative!” 🎓PhD in TCM Creator of @K3Combat & @Beachbody’s #TaiCheng Master SFG @strongfirst 🗺 Santa Monica & Diamond Bar, CA
+    location: "United States"
+    followers: 17645
+    engagement: 179
+    commentsToLikes: 0.061239
+    id: ck8sy9d7ck6e50j7815gjunz0
+    verified: false
+    hashtags: "#losangeles, #health, #kettlebell, #love"
+  - username: "fitbeautytips"
+    fullname: >-
+      Health | Fitness | Beauty   ᭲
+    bio: >-
+      𝗪𝗘 𝗕𝗨𝗬 𝗕𝗟𝗔𝗖𝗞 ✌🏿 💖 | Healthtips💊Beautytips💄 ♻️ | DM For Removal / Credits 📧 | business enquiry - voguenyog@gmail.com
+    location: "United States"
+    followers: 397721
+    engagement: 119
+    commentsToLikes: 0.010734
+    id: ckaotbp23v7cg0i78xtbtorlc
+    verified: false
+    hashtags: "#motivation, #girl, #skincare, #healthylifestyle"
 ---

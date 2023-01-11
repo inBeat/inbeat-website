@@ -1,11 +1,11 @@
 ---
-title: Top 10 Karate Fighters Instagram Influencers in 2023
+title: Top 10 Karate Fighters Instagram Influencers In 2023
 description: >-
-  Find top karate fighters Instagram influencers in 2023. Most popular hashtags: #karate #sport #fitness #training.
+  Find top karate fighters Instagram influencers in 2023. Most popular hashtags: #karate #kickboxing #fitness #martialarts.
 platform: Instagram
-hits: 7
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 7 Instagram influencers like this for you to connect with.
+hits: 5
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 5 Instagram influencers like this for you to contact.
 profiles:
   - username: "anshan_khosravi"
     fullname: >-
@@ -13,82 +13,58 @@ profiles:
     bio: >-
       3x national champion 🥇🥇🥇 Karate fighter 🥋 Sweden Stockholm🇸🇪 كار خوبه خدا درست كنه🧿
     location: "Sweden"
-    followers: 17651
-    engagement: 688
-    commentsToLikes: 0.064880
+    followers: 17484
+    engagement: 638
+    commentsToLikes: 0.069620
     id: ck8tdcpd82ttw0j78wdhem66s
     verified: false
-    hashtags: "#karate, #sweden, #anshan, #angizeshi"
-  - username: "mario_jassmann_official"
+    hashtags: "#karate, #kuwaitkaratefederation, #karatedo, #karatelife"
+  - username: "karatetravellers"
     fullname: >-
-      𝗠𝗮𝗿𝗶𝗼 𝗝𝗮𝘀𝘀𝗺𝗮𝗻𝗻 / 𝗕𝗼𝘅𝗲𝗿
+      karatetravellers
     bio: >-
-      𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗕𝗼𝘅𝗲𝗿🥊 𝗥𝗲𝗰𝗼𝗿𝗱: 𝟮𝟬-𝟬-𝟬 ( 𝟭𝟳𝗞𝗢'𝘀)🔝 𝗜𝗻𝘁𝗲𝗿𝗻. 𝗚𝗲𝗿𝗺𝗮𝗻 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻 🇩🇪 𝗪𝗕𝗙 𝗜𝗻𝘁𝗲𝗿𝗰𝗼𝗻𝘁𝗶𝗻𝗲𝗻𝘁𝗮𝗹 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻 🌍
-    location: "Germany"
-    followers: 10282
-    engagement: 1525
-    commentsToLikes: 0.059819
-    id: ck0tz9xp1pogu0i19wzu21ut0
+      Ge👩🏽🇲🇳& Gio🧔🏻🇮🇹 Travellers🗺MartialArtsPractitioners🥋 Couple👫 🚧Waiting out the pandemic in Kathmandu Nepal 🏔A Rooftop is our current dojo
+    location: "United States"
+    followers: 5868
+    engagement: 1619
+    commentsToLikes: 0.045311
+    id: ckf5oorl8358j0j235stcoh1p
     verified: false
-    hashtags: "#california, #ko, #fashionphotography, #dream"
-  - username: "hasanyousefii"
+    hashtags: "#kata, #karatepassion, #shotokan, #martialarts"
+  - username: "davydona_hurricane"
     fullname: >-
-      Хасан Юсефи
+      Davy Dona
     bio: >-
-      رَبِّ لا تَذَرْنی‏ فَرْداً 8-3-1 Light Heavyweight mma Fighter Wushu sando Asia champion ACA fighter
+      Pro fighter @karatecombat 🥋@clubbudokanthiais @kingkarate94 🥇🥉European champion 🥇11 times champion of france 💍 @lolitadona_
+    location: "France"
+    followers: 20329
+    engagement: 406
+    commentsToLikes: 0.028214
+    id: ck6trknbyzjf40j71ambni56x
+    verified: false
+    hashtags: "#motivation, #instamood, #enterthepit, #champion"
+  - username: "djema_paris"
+    fullname: >-
+      Djéma
+    bio: >-
+      V.Champion du Monde 🏆🌎 Champion d'Europe 🏆🇪🇺 12 fois Champion de France🏆🇫🇷 Coach 🥊🏋️‍♂️🥋 📍Paris 📍Marbella
+    location: "France"
+    followers: 12176
+    engagement: 637
+    commentsToLikes: 0.019835
+    id: ck8sy5itcjrz80j782j9ca58l
+    verified: false
+    hashtags: "#onekyokushin, #kyokushin, #muscle, #french"
+  - username: "soheilakbarpour"
+    fullname: >-
+      Ali Akbarpour 🇮🇷 (BJJ Fighter)
+    bio: >-
+      ACBJJ World 2019🥇🥈🥈 UAE World Pro 2019🥇🥈 Grand Slam🥇 UAE International pro🥇🥇🥇🥇🥇 SJJIF🥇🥇🥇🥇 Pro BJJ record 49-5 Pro MMA record 1-0 Purple belt Married❤️
     location: "Iran"
-    followers: 49031
-    engagement: 312
-    commentsToLikes: 0.063648
-    id: ck602eukyh99z0i14rxbbq58r
+    followers: 11012
+    engagement: 1452
+    commentsToLikes: 0.175994
+    id: ck6ug5uws13120j710q737guh
     verified: false
-    hashtags: "#conormcgregor, #judo, #mixedmartialarts, #boxe"
-  - username: "davit_vardumyan"
-    fullname: >-
-      DAVIT VARDUMYAN
-    bio: >-
-      @sportspeople1989
-    location: "United States"
-    followers: 146327
-    engagement: 334
-    commentsToLikes: 0.010139
-    id: ck0w3pxveuo5k0i19ql6x3obx
-    verified: false
-    hashtags: "#tkdlife, #martialartist, #challenge, #tkdwtf"
-  - username: "martialarts__worldwide"
-    fullname: >-
-      martialarts_worldwide
-    bio: >-
-      High quality martial arts from around the world Follow like Tag share for possible feature Founder @taekwondo_worldwide . . #martialarts__worldwide
-    location: "United Kingdom"
-    followers: 184468
-    engagement: 488
-    commentsToLikes: 0.009623
-    id: ck5q5eswvskan0i113e5261me
-    verified: false
-    hashtags: "#judo, #karate, #fighter, #muaythaiindonesia"
-  - username: "alistairovereem"
-    fullname: >-
-      Alistair Overeem
-    bio: >-
-      #Reem6 - Episode 7 out now! (Link 👇👇) Miami - but I tend to travel a bit! #Overeem UFC heavyweight | K-1, DREAM & Strikeforce World Champion.
-    location: "United States"
-    followers: 1039151
-    engagement: 228
-    commentsToLikes: 0.009368
-    id: ck55mfeqs3tzx0i11cjob5dh8
-    verified: true
-    hashtags: "#tbt, #mma, #legacy, #xboxseriesxs"
-  - username: "michel_jarabito"
-    fullname: >-
-      BIG MICH
-    bio: >-
-      LIFE IS GOOD. 🥗FITNESS BODY 🏋️‍♀️PERSONAL TRAINER 🏋️‍♀️COACHING ONLINE Code promo: Michel-jarabito
-    location: "Switzerland"
-    followers: 39635
-    engagement: 131
-    commentsToLikes: 0.025857
-    id: ck8wgj4ishg6i0j786gv5dhji
-    verified: false
-    hashtags: "#life, #healthy, #goals, #inspiration"
+    hashtags: "#abudhabi, #wrestling, #jiujitsu, #soheilakbarpour"
 ---

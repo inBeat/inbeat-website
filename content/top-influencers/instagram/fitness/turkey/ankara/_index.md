@@ -1,96 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Ankara in 2023
+title: Top 10 Fitness Instagram Influencers In Ankara In 2023
 description: >-
-  Find top fitness Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #fitness #istanbul #fit.
+  Find top fitness Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #fitness #istanbul #turkey.
 platform: Instagram
-hits: 31
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 31 Instagram influencers like this in Ankara, Turkey for you to pitch.
+hits: 35
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 35 Instagram influencers like this in Ankara, Turkey for you to connect with.
 profiles:
-  - username: "oyunkusum.tr"
+  - username: "__bojanarmandic__"
     fullname: >-
-      Güvercin 🕊
+      Bojana Rmandic
     bio: >-
-      Gvrcn TR 🇹🇷 Bizimkisi bir aşk hikayesi.. 🕊 Sayfamıza güvercin sevdalı dostlarımızı bekleriz. Siz gönderin biz paylaşalım.. 📩
+      Social Media influencer 👩‍💻 Montenegro based 🇲🇪 Istanbul 🇹🇷 Collaboration dm /email 📩
     location: "Turkey"
-    followers: 11084
-    engagement: 949
-    commentsToLikes: 0.005994
-    id: ckf5vpdo7pf7k0j23o0mod6vj
+    followers: 57512
+    engagement: 191
+    commentsToLikes: 0.112405
+    id: ck5hdenmtn0t40i11goxclfwg
     verified: false
-    hashtags: "#mavi, #dogsofinstagram, #pokemon, #beautiful"
-  - username: "pt_mstfkeskin"
+    hashtags: "#instalike, #photoshoot, #me, #followme"
+  - username: "aysegunduzgunes"
     fullname: >-
-      Mustafa Keskin/ Workout Videos
+      Ayşe Gündüz Güneş
     bio: >-
-      Herkesin Yapabileceği Spor Videoları - Birebir Özel Ders İçin ➡️ DM - Uzaktan Eğitim İçin ➡️ DM 📈 1on1 Personal Traning/Kurucu @1on1personaltrainer
+      🥑 Dengeli Yaşam | Motivasyon | Sağlıklı Tarifler 💫 Mühendis | Yaşam Koçu | Spor Eğitmeni 📩 Reklam ve iş birlikleri için aysegunduzgunes@gmail.com
     location: "Turkey"
-    followers: 115232
-    engagement: 142
-    commentsToLikes: 0.116825
-    id: ck15s8l83brx50i19pmf3mvue
+    followers: 45865
+    engagement: 214
+    commentsToLikes: 0.563812
+    id: ckap7qotgl5380i78mpjbap8t
     verified: false
-    hashtags: "#sporcu, #1on1personaltraining, #fitfam, #motivation"
-  - username: "kuafor.hasan34"
+    hashtags: "#ramazantatl, #reelsindia, #sekersiztarifler, #ingilizceo"
+  - username: "yenilgiimsin"
     fullname: >-
-      KUAFÖR HASAN
+      Sevipte Sevilmeyen 🥀
     bio: >-
-      ✂️✂️✂️👍 ✂️ HAİR STYLİST ✂️
+      Herşey Şaka Gibi Ama Ben Gülmüyorum 💔
     location: "Turkey"
-    followers: 9912
-    engagement: 443
-    commentsToLikes: 0.037277
-    id: ck8t8wc01m3880j78a8ibij2g
+    followers: 47106
+    engagement: 161
+    commentsToLikes: 0.027942
+    id: ckap0bkdnpm870i78g3xi2iws
     verified: false
-    hashtags: "#alaattin, #film, #tras, #cukur"
-  - username: "dr.zekeriyatasdemir"
-    fullname: >-
-      Doç. Dr. Zekeriya Taşdemir
-    bio: >-
-      Diş eti hastalıkları ve cerrahisi - İmplantoloji Uzmanı 📍Dentest Kızılay Diş Hekimliği ve İmplantoloji Kliniği 📞03124192729
-    location: "Turkey"
-    followers: 14555
-    engagement: 821
-    commentsToLikes: 0.025192
-    id: ckaoyegcsh66v0i78x7afsipp
-    verified: false
-    hashtags: "#kist, #ankaradis, #ankaradi, #dis"
-  - username: "100de100saglik"
-    fullname: >-
-      SağlıkDoğada ❌REKLAMSIZ SAYFA❌
-    bio: >-
-      Yıllar sonra "Gençliğinize geri dönseniz, nasıl bir hayat yaşardınız?" sorusuna, sağlığıma daha cok dikkat ederdim dememek için @100de100saglik 👏👍
-    location: "Turkey"
-    followers: 280003
-    engagement: 95
-    commentsToLikes: 0.013072
-    id: ck8t73tqrfjz00j78czz7cm04
-    verified: false
-    hashtags: ""
-  - username: "radmehrbrothers"
-    fullname: >-
-      Mobin_mohamad
-    bio: >-
-      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion 🔴 Kişisel ders ve online koçluk
-    location: "Turkey"
-    followers: 17945
-    engagement: 887
-    commentsToLikes: 0.119018
-    id: ck1399rmkk8at0i19eybkxyr1
-    verified: false
-    hashtags: "#legendary, #muaythai, #onechampion, #onechampionship"
-  - username: "cigdemcmks"
-    fullname: >-
-      Çigdem Çamkes
-    bio: >-
-      🔥 Pilates teacher 🔥 💥 Personel Trainer 💥 🧘 Yoga teacher 🧘 @bi_bak_bencee
-    location: "Turkey"
-    followers: 5127
-    engagement: 827
-    commentsToLikes: 0.094473
-    id: ckaouqz5j1fot0i78d2fr7cs6
-    verified: false
-    hashtags: "#fitnes, #beslenme, #karaa, #bodybuilding"
+    hashtags: "#video, #uae, #sagopakajmer, #ceza"
   - username: "emrah_offical_protection"
     fullname: >-
       
@@ -102,29 +54,77 @@ profiles:
     commentsToLikes: 0.024863
     id: ck9hc5zgpjyhb0j78y4i2j70a
     verified: false
-    hashtags: "#asayi, #follow, #fashion, #m5"
+    hashtags: "#likesforlikes, #car, #turkey, #motor"
+  - username: "oyunkusum.tr"
+    fullname: >-
+      Güvercin 🕊
+    bio: >-
+      Gvrcn TR 🇹🇷 Bizimkisi bir aşk hikayesi.. 🕊 Reklâm ve işbirliği için DM 📥
+    location: "Turkey"
+    followers: 13580
+    engagement: 652
+    commentsToLikes: 0.008084
+    id: ckf5vpdo7pf7k0j23o0mod6vj
+    verified: false
+    hashtags: "#venezuela, #beautiful, #seferli, #fashionista"
+  - username: "radmehrbrothers"
+    fullname: >-
+      Mobin_mohamad
+    bio: >-
+      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion
+    location: "Turkey"
+    followers: 37072
+    engagement: 580
+    commentsToLikes: 0.141342
+    id: ck1399rmkk8at0i19eybkxyr1
+    verified: false
+    hashtags: "#survivor2021, #acunmedya, #strong, #tv8"
   - username: "profdrhakanyardimci"
     fullname: >-
       Prof. Dr. Hakan YARDIMCI
     bio: >-
       Tek Resmi Hesabımdır Veteriner Hekim🐱🐶🐮🦉🐼 Mikrobiyoloji🔬 Ankara Üniversitesi Veteriner Fakültesi Body Building 🏋🏻‍♂️ Fitness🏃🏻‍♂️
     location: "Turkey"
-    followers: 4779
-    engagement: 1017
-    commentsToLikes: 0.160093
+    followers: 4971
+    engagement: 953
+    commentsToLikes: 0.126776
     id: ckap95wr0rag70i786fydzrut
     verified: false
-    hashtags: "#petsgram, #kedisever, #petsofinstagram, #dog"
-  - username: "yesimasti"
+    hashtags: "#gata, #catsofinstagram, #gato, #gatos"
+  - username: "ilkerinanoglu"
     fullname: >-
-      Zumbawithyesim🍀
+      Ilker Inanoglu
     bio: >-
-      Mom of one❤️, Official Zumba Instructor, Quality and Certification Manager M.Sc. METU/ODTU, #zumba #dance #fitness
+      Film and TV producer Actor MIAMI /LOS ANGELES/İSTANBUL
     location: "Turkey"
-    followers: 5319
-    engagement: 910
-    commentsToLikes: 0.067172
-    id: ckf5kyxq7nq830j23fqiqblnu
+    followers: 209951
+    engagement: 381
+    commentsToLikes: 0.015589
+    id: ck5q0wicp83yt0i11uf00m4s2
+    verified: true
+    hashtags: "#happiness, #production, #success, #miami"
+  - username: "ozkastamonutv"
+    fullname: >-
+      Öz Kastamonu Tv
+    bio: >-
+      👦 Muhammet Ali Sağlar 💝 @saglarelsanatlari (Hz.Pir Şeyh Şabanı Veli Camii) 🔴 YouTube / Öz Kastamonu Tv&Radyo™
+    location: "Turkey"
+    followers: 71910
+    engagement: 768
+    commentsToLikes: 0.079374
+    id: ckaotc48gv9jw0i782fx3zf6e
     verified: false
-    hashtags: "#fitness, #goodvibes, #bodrum, #fitmom"
+    hashtags: "#kahkaha, #kastamonu, #kastamonua, #komik"
+  - username: "fitixm"
+    fullname: >-
+      ❗️Sağlıklı Yaşa FİT Kal❗️
+    bio: >-
+      🌿 Sağlıklıbeslenme ve spor günlüğüm 🌿 Fittarifler ve Fittabaklar 💫#fitixm Daha az ye,daha çok su iç daha çok hareket et!
+    location: "Turkey"
+    followers: 14646
+    engagement: 545
+    commentsToLikes: 0.107329
+    id: ck8t6nrrxe8la0j780gdobyba
+    verified: false
+    hashtags: "#healthyfood, #nefisyemektarifleri, #antrenman, #evdesporyap"
 ---

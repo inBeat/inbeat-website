@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Los Angeles in 2023
+title: Top 10 Vegan Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top vegan Instagram influencers in Los Angeles in 2023. Most popular hashtags: #vegan #losangeles #plantbased #veganfood.
+  Find top vegan Instagram influencers in Los Angeles in 2023. Most popular hashtags: #vegan #losangeles #love #veganfood.
 platform: Instagram
-hits: 195
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 195 Instagram influencers like this in Los Angeles, United States for you to work with.
+hits: 190
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 190 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
-  - username: "natalie_aley"
+  - username: "camly.me"
     fullname: >-
-      natalie_aley
+      Camly
     bio: >-
-      🏡 Los Angeles 🎹 #music 🤸🏼‍♂️ #yoga 🥗 #plantpoweredliving ✈️ #travel
+      Vietnamese American, LA 🌃 Native sharing hidden gems 🥘. 📍 Los Angeles, CA Use code CAMLYME ⬇️
     location: "United States"
-    followers: 182009
-    engagement: 101
-    commentsToLikes: 0.036870
-    id: ck55m16ds2xw70i11thewkwy2
+    followers: 37519
+    engagement: 210
+    commentsToLikes: 0.200859
+    id: ck0u9haha9u5y0i190xcaa6ko
     verified: false
-    hashtags: "#plantbased, #yogawear, #veganlosangeles, #yogainspiration"
-  - username: "be_leaf_vegan"
+    hashtags: "#larestaurants, #eaterla, #lafoodscene, #hairmakeover"
+  - username: "hauntinglyalex"
     fullname: >-
-      Be Leaf
+      Alex | 🎃✌🏼🧡 | She/Her
     bio: >-
-      Be Leaf is a vegan wholesale/ retail company of delicious plant-based products that are made from natural Ingredients. P: 626-346-3359
+      𝙼𝚎𝚗𝚝𝚊𝚕 𝚑𝚎𝚊𝚕𝚝𝚑 𝚊𝚍𝚟𝚘𝚌𝚊𝚝𝚎. 𝚃𝚑𝚎 𝚖𝚊𝚌𝚊𝚋𝚛𝚎. 𝚁𝚎𝚝𝚛𝚘 𝚊𝚍𝚖𝚒𝚛𝚎𝚛. 𝙼𝚎𝚐𝚊 𝚐𝚎𝚎𝚔. 𝚆𝚛𝚒𝚝𝚒𝚗𝚐. 𝙼𝚞𝚜𝚒𝚌. 𝚁𝚎𝚊𝚍𝚒𝚗𝚐. 📖 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗿𝗲𝗮𝗱𝗶𝗻𝗴: “𝘎𝘳𝘦𝘦𝘯𝘭𝘪𝘨𝘩𝘵𝘴”𝘣𝘺 𝘔𝘢𝘵𝘵𝘩𝘦𝘸 𝘔𝘤𝘊𝘰𝘯𝘢𝘶𝘨𝘩𝘦𝘺
     location: "United States"
-    followers: 24793
-    engagement: 115
-    commentsToLikes: 0.020154
-    id: ck5zjaegch8nq0i14ar7qwyc1
+    followers: 9483
+    engagement: 692
+    commentsToLikes: 0.032029
+    id: ck8tbk8n4vyuw0j78fka93cli
     verified: false
-    hashtags: "#veganbreakfast, #veganrecipes, #vegandinner, #vegansofig"
-  - username: "audreydunham"
+    hashtags: "#halloween365, #halloween, #spooky, #awakenthespirits"
+  - username: "sweetsimplevegan"
     fullname: >-
-      Audrey Dunham
+      Jasmine Briones
     bio: >-
-      🍎 Vegan Deliciousness: AudreyDunham.com 🍪 Creator: @PeanutsBakeShop 🌱YouTube.com/AudreyDunham 💜 Wife to @JeffDunham 💕Twin Boy Mom, stepMom to 3 Girls
+      • vegan recipe creator 🇪🇨🇵🇭 • mama to @berryandlouie • youtube: Sweet Simple Vegan • email: jasmine@sweetsimplevegan.com • ebook ↴
     location: "United States"
-    followers: 48426
-    engagement: 247
-    commentsToLikes: 0.034353
-    id: ck0tuamo46chd0i19o318vbnx
+    followers: 268751
+    engagement: 184
+    commentsToLikes: 0.084567
+    id: ck0w2gvgsob2m0i19duxlkl6t
+    verified: false
+    hashtags: "#veganchicken, #vegan, #ad, #vegancheese"
+  - username: "erin_micklow"
+    fullname: >-
+      Erin Micklow
+    bio: >-
+      That spikey haired girl 🤷‍♀️ @sovereigntalentgroup Subscribe 👉ERIN MICKLOW on YouTube 300+ #punkrock videos-band interviews/shows 2.8+Million views
+    location: "United States"
+    followers: 119873
+    engagement: 172
+    commentsToLikes: 0.020229
+    id: ck138k2fwglzs0i19u44fj8kx
     verified: true
-    hashtags: "#freeshipping, #jeffdunham, #dairyfreecookies, #veganandglutenfree"
-  - username: "jourdanrashid"
+    hashtags: "#punkmusic, #reggae, #punkfashion, #killstar"
+  - username: "vida_miaa"
     fullname: >-
-      J Man
+      A N N A  L O P E Z  || 🇮🇹🇫🇷🇲🇽
     bio: >-
-      ☀︎︎ sᴀɢɢɪᴛᴀʀɪᴜs ☽ ᴘɪsᴄᴇs ☝︎︎ sᴄᴏʀᴘɪᴏ 𝐀𝐜𝐭𝗼𝐫 𝐀𝐫𝐭𝐢𝐬𝐭 𝐌𝗼𝐝𝐞𝐥 𝐃𝐞𝐥𝐢𝐛𝐞𝐫𝐚𝐭𝐞 𝐂𝐫𝐞𝐚𝐭𝗼𝐫 ꧁ 𝐄𝐯𝐞𝐲𝐭𝐡𝐢𝐧𝐠 𝐔𝐧𝐝𝐞𝐫 𝐓𝐡𝐞 𝐒𝐮𝐧 ꧂ 🌱👨🏾‍🍳 @the_hood_vegan 🌐 👕☯︎︎ @ace_n_denim
+      CEO - Founder @naiadehair VIRGINIA 📍 Family first 👪❤ Military Wife🔒💑 GYM THERAPY💪🏽🍑 Collab 📧 : annaiklopez@gmail.com VEGETARIAN🌿
     location: "United States"
-    followers: 5757
-    engagement: 464
-    commentsToLikes: 0.103710
-    id: ck5hqzek3tzy60i11a0etmxt3
+    followers: 21655
+    engagement: 387
+    commentsToLikes: 0.065970
+    id: ck8t26ianybk80j787q1ou1rg
     verified: false
-    hashtags: "#photooftheday, #quarentine, #instadaily, #veganlife"
-  - username: "chefvanessalauren"
+    hashtags: "#gymmotivation, #fit, #squats, #healthylifestyle"
+  - username: "michaelawitter"
     fullname: >-
-      V A N E S S A    L A U R E N
+      𝑴𝒊𝒄𝒉𝒂𝒆𝒍𝒂 🤍
     bio: >-
-      chef // founder @secretgardenpopup available now for private chef services sponsored by @melissasproduce
+      Los Angeles | vegan
     location: "United States"
-    followers: 94682
-    engagement: 72
-    commentsToLikes: 0.016706
-    id: ck5pwym5np8pj0i11ze2b4g8q
+    followers: 19222
+    engagement: 633
+    commentsToLikes: 0.036529
+    id: ck6u6olb5gtdp0j7184tocu25
     verified: false
-    hashtags: "#funinthesun, #glutenfree, #popup, #ecofriendly"
-  - username: "boss_babe_bella"
+    hashtags: "#nails, #frenchtipnails, #nailart, #shein"
+  - username: "eatswithkayla"
     fullname: >-
-      Lawyer|Expat|Bride
+      Kayla Hurtienne
     bio: >-
-      German lawyer becoming Cali attorney ⚖️ Follow me for daily 🇩🇪🇺🇸👩🏼‍💼👰🏼-posts L.A. | CT | Berlin | traveling the 🌍
+      𝒉𝒆𝒂𝒍𝒕𝒉𝒚 𝒆𝒂𝒕𝒔 | 𝒇𝒊𝒏𝒅𝒊𝒏𝒈 𝒃𝒂𝒍𝒂𝒏𝒄𝒆 | 𝒘𝒆𝒍𝒍𝒏𝒆𝒔𝒔 💌 eatswithkayla@gmail.com 📍 Manhattan Beach, CA ✨ personal: @itskayluuh
     location: "United States"
-    followers: 5445
-    engagement: 440
-    commentsToLikes: 0.063581
-    id: ckf5nbwstxltm0j23v2l29iyi
+    followers: 2067
+    engagement: 3122
+    commentsToLikes: 0.398857
+    id: ck8t1jr03w1fs0j78rcqf1ncp
     verified: false
-    hashtags: "#staatsexamen, #referendariat, #jurastudium, #volljuristin"
-  - username: "triciaxpain"
+    hashtags: "#cleaneating, #foodisfuel, #goodmoodfood, #feedfeed"
+  - username: "souleyvegan"
     fullname: >-
-      💖Tricia Pain💚Is My Real Name👽
+      SOULEY VEGAN
     bio: >-
-      🌴LA💻PC Gamer 🎥TWITCH.tv/triciaxpain🍬LIVE: Fri-Tues 📸Patreon.com/triciaxpain 🥑Vegan8yrs🌈Bi🧚 🦄YRU KRU @yrushoes @fafxfafxfaf
+      EST. 2006 We are a Vegan Louisiana Creole restaurant in Oakland Ca Known 4 Bold approach to the vegan industry. Visit our website for locations!
     location: "United States"
-    followers: 22005
-    engagement: 318
-    commentsToLikes: 0.049917
-    id: ck5q88zsl50ua0i11u9tu52s9
+    followers: 41535
+    engagement: 660
+    commentsToLikes: 0.013168
+    id: ck8szxanrq2cm0j78ugwn24sh
     verified: false
-    hashtags: "#vegancommunity, #friendsnotfood, #weareallone, #bts"
-  - username: "mpact_lor"
+    hashtags: "#vegansofla, #souleyveganla, #crueltyfree, #veganofig"
+  - username: "veganexchangela"
     fullname: >-
-      Longka M-PACT Lor | KINJAZ
+      Vegan Exchange LA
     bio: >-
-      ♾🌱 @_UndergroundFlow_ B-boy/Freestyle Coach 🌊 @KINJAZ Artist/Choreographer 🐯 @thelorbrothers Twinjaz✌🏼 @viidose Merch 7️⃣ @kinjambattle💥 👁👇🏼
+      CANCELLED UNTIL FURTHER NOTICE 100% Vegan Weekly Market ☀️Every Sunday except 9/6 11am-5pm | Now thru 5/31 & 10/4-3/21/21 4-10pm | 6/7-9/27 FREE ENTRY
     location: "United States"
-    followers: 19551
-    engagement: 144
-    commentsToLikes: 0.044451
-    id: ck6ua35wd17p50j716y2lfu4l
+    followers: 35898
+    engagement: 121
+    commentsToLikes: 0.027998
+    id: ck14iua87h7br0i19dnea993k
     verified: false
-    hashtags: "#bboynetwork, #hmong, #earthday, #sacramento"
-  - username: "hannahforcier"
+    hashtags: "#vsfnights, #saferathome, #staycation"
+  - username: "luparkerla"
     fullname: >-
-      Hannah Forcier
+      Lu Parker
     bio: >-
-      (For-see-ayeee) She/Her 📍 Los Angeles, CA Vegan🌱Earth Lover🌎Youtuber-531k💖
+      📺 Emmy Award Winning News Anchor @ktla5news 💜 Founder of @bekindandco 🎤 Inspirational Speaker 👑 Former Miss USA 🐶 Mom to @moosedogla 👇🏼 Shop is open!✨
     location: "United States"
-    followers: 46500
-    engagement: 324
-    commentsToLikes: 0.033822
-    id: ck6tryl0u1ti30j71qgn0a9vu
+    followers: 18851
+    engagement: 356
+    commentsToLikes: 0.079668
+    id: ck1390u3uiyzr0i19n6ze8aev
     verified: true
-    hashtags: "#90s, #votehimout, #buylocal, #supportsmallbusiness"
-  - username: "veganfatkid"
-    fullname: >-
-      Tim Moore
-    bio: >-
-      went vegan, changed his life✌🏻 •🇳🇿los angeles •‪🌮🍔🍩‬ ‪•record producer / owner @yorkrecording ‪•founder @trainvegan‬™
-    location: "United States"
-    followers: 199558
-    engagement: 168
-    commentsToLikes: 0.025359
-    id: ck15phcvhxvy80i192a0n53sg
-    verified: false
-    hashtags: "#adoptdontshop, #worldveganday, #catdad, #repost"
+    hashtags: "#fun, #thankyou, #bekindandco, #kindnesswins"
 ---

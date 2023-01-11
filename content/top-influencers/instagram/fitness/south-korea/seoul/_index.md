@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Seoul in 2023
+title: Top 10 Fitness Instagram Influencers In Seoul In 2023
 description: >-
-  Find top fitness Instagram influencers in Seoul in 2023. Most popular hashtags: #fitness #seoul #ootd #korean.
+  Find top fitness Instagram influencers in Seoul in 2023. Most popular hashtags: #fitness #ootd #dailylook.
 platform: Instagram
-hits: 11
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 11 Instagram influencers like this in Seoul, South Korea for you to collaborate.
+hits: 4
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 4 Instagram influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
-  - username: "dailydana_fit"
+  - username: "glam_dana"
     fullname: >-
       운동하는간호사ㅣ다나(Dana)
     bio: >-
-      🇰🇷Seoul 👑 @nabbawffkorea ambassador 🏅20NABBA Bikini tall top6 🥇20Muscle&fitness mania Bikini 🥈🥉20IFBB Novice Bikini 🌐@uplounge_official 공식 후원 모델
+      🇰🇷 Seoul/health&Beauty lifestyle💕 👑 @nabbawffkorea ambassador 💪🏿 @f45_training_sinnonhyeon ambassador 🏅 20 NABBA Bikini athlete tall top6
     location: "South Korea"
-    followers: 66927
-    engagement: 241
-    commentsToLikes: 0.033878
+    followers: 93409
+    engagement: 208
+    commentsToLikes: 0.030592
     id: ck6uiejgjemip0j71e2w2sfil
     verified: false
-    hashtags: "#fitness, #bodyprofile, #fitgirl, #ootd"
-  - username: "pole1selena"
+    hashtags: "#fitness, #gym, #bodycheck, #dailylook"
+  - username: "taelaraa"
     fullname: >-
-      selena
+      Dilara ILGAZ
     bio: >-
-      😊member of insightmovement hansabu seoul family !!! 왕십리한사부에서 노는 폴댄서💪💋 http://www.hansabu.com/ @pole_hansabu
+      #모델 #model 촬영문의 ⤵️ 📩 이메일:anj-ent@naver.com ☎️연락처 (백철호): +82 010-7455-0175
     location: "South Korea"
-    followers: 5814
-    engagement: 467
-    commentsToLikes: 0.032708
-    id: ck6udjdv3lfy00j71zy5u3z5d
+    followers: 7566
+    engagement: 1016
+    commentsToLikes: 0.029799
+    id: ck8t2ajzoyqub0j78rmpoc531
     verified: false
-    hashtags: "#practice, #pole, #poledance, #happy"
-  - username: "hluna.fitness"
+    hashtags: "#girl, #me, #makeup, #taelara"
+  - username: "boonkaewnaree"
     fullname: >-
-      홍주연 🖤 洪周演
+      Boonmeemagert Kaewnaree J. 陈水铭
     bio: >-
-      @blackberrykorea . ♥ 𝐇𝖔𝖓𝖌 𝐉𝖚 𝐘𝖊𝖔𝖓 🌙 𝐋𝐮𝐧𝐚 ℍ𝕠𝕟𝕘 ♥ 𝐁𝐢𝐤𝐢𝐧𝐢𝔸𝕥𝕙𝕝𝕖𝕥𝕖 𝐅𝐢𝐭𝐧𝐞𝐬𝐬𝕄𝕠𝕕𝕖𝕝 ⠀
+      Singapore-Thai, นๅยบุญมี มาเกิด เเก้วนารี Instagramer | TikToker | YouTuber TikTok: 陈水铭(153K+) YouTubeTV — @boondarerick For Work: jayts-m@hotmail.com
     location: "South Korea"
-    followers: 45488
-    engagement: 256
-    commentsToLikes: 0.021908
-    id: ckap3i1rb32w30i789x6ey0pf
+    followers: 75807
+    engagement: 182
+    commentsToLikes: 0.053434
+    id: ck6uc3401d7zp0j714ryzyutw
+    verified: false
+    hashtags: "#instagood, #boy, #koreanfashion, #lifestyle"
+  - username: "502bright"
+    fullname: >-
+      차현승🇰🇷(Cha HyunSeung)
+    bio: >-
+      #Dancer #Model #menshealth #calvinklein #pulse8 핏모델 그랑프리🥇🏆 스포티즘모델🥈 스포츠모델🥉 촬영 및 섭외문의 DM
+    location: "South Korea"
+    followers: 280673
+    engagement: 448
+    commentsToLikes: 0.004314
+    id: ck5hpabjor0qs0i11zzloa4yc
     verified: true
-    hashtags: "#ootd, #weekend, #blackberry, #goodnight"
-  - username: "han_ohkhui"
+    hashtags: "#dancer, #ulkin, #fashionshow, #model"
+  - username: "wo.om"
     fullname: >-
-      한 옥희 🏳️‍🌈🇰🇷🇬🇭
+      우미미🍑움쌤
     bio: >-
-      COLLABORATIONS: Email/DM 📧 Currently in 🇺🇸
+      #woomimi 상점 오픈예정🛍🧸 #healthy & #fitness 🏋🏽‍♀️ Physical Training Instructor 🔍 TPI golf/google 기업,개인 레슨
     location: "South Korea"
-    followers: 83426
-    engagement: 198
-    commentsToLikes: 0.016910
-    id: ck5hm4m6zlcut0i11kkprw1dm
+    followers: 71299
+    engagement: 326
+    commentsToLikes: 0.023357
+    id: ck9wdte67h6wk0j78vg8vd81f
     verified: false
-    hashtags: "#explore, #lesbian, #seoul, #septumpiercing"
-  - username: "khumor.a"
+    hashtags: "#lunge, #thoracicmobility, #hipabduction, #hipextension"
+  - username: "west__star__"
     fullname: >-
-      Khumora в Корее 🇰🇷🦋
+      서별 // 플러스사이즈모델
     bio: >-
-      Traveling, Shopping & Lifestyle ✨ Мысли в слух 💭 YouTube channel 🎞
+      🇰🇷 PLUS SIZE MODEL | ACTOR | FITNESS | BEAUTY @thekurvekorea @nobleman_theater 유튜브 ‘웨스트스타’ 채널
     location: "South Korea"
-    followers: 2938
-    engagement: 1336
-    commentsToLikes: 0.069519
-    id: ck9halnuxczvk0j78q8td5rul
+    followers: 22567
+    engagement: 541
+    commentsToLikes: 0.014856
+    id: ck9haqe75dngd0j781tk89geu
     verified: false
-    hashtags: "#f4f, #busan, #instagood, #photography"
-  - username: "mensjournalonline"
+    hashtags: "#13"
+  - username: "one_the_girl"
     fullname: >-
-      MEN’S JOURNAL ONLINE
+      원도연
     bio: >-
-      For editorial submission: info.mensjournalonline@gmail.com #MensJournalOnline
+      - ICN Fitness booty🥇, Bathing suit & Fit model🥈 - 슈퍼바디짐 트레이너 준비중🤟🏻 🇩🇪🇧🇪🇫🇷🇳🇱🇨🇭🇬🇧🇪🇸🇨🇿🇮🇹🇦🇹🇭🇺🇭🇰🇹🇭🇯🇵🇦🇺🇬🇺
     location: "South Korea"
-    followers: 24556
-    engagement: 104
-    commentsToLikes: 0.005798
-    id: ck8t2lt2yzx020j78s5jti7ca
+    followers: 7655
+    engagement: 410
+    commentsToLikes: 0.047479
+    id: ck5c06a1gsj0p0i110bh44otb
     verified: false
-    hashtags: "#china, #manabouttownuk, #manabouttown, #underwear"
-  - username: "florian.korea"
+    hashtags: "#diet, #fitness, #workout, #weighttraining"
+  - username: "himkong.jamiet"
     fullname: >-
-      Florian 플로리안 🇩🇪🇰🇷
+      재미어트 대표 힘콩
     bio: >-
-      ⁣ 🙎🏼‍♂️ l 대학원생 • 유튜버⁣ • 스포츠모델 🥇🥉 🇩🇪 l @ironmaxx_kor 엠버서더 🇰🇷 l @mulawear_kr 엠버서더 🇺🇸 l @harbinger.korea 엠버서더⁣ 📸 l 촬영/협찬 • [DM] 📩⁣ ⁣ #외국인모델 #외국인배우
+      �유석종 himkong �재미있는 다이어트●운동 (All about fitness) �재미어트샵�홈짐기구/보충용식품/닭가슴살
     location: "South Korea"
-    followers: 22910
-    engagement: 118
-    commentsToLikes: 0.021948
-    id: ck5cew9xulu7l0i11iertd75p
+    followers: 122032
+    engagement: 181
+    commentsToLikes: 0.018916
+    id: ck5hlvjyokxy90i11u2zxn29k
     verified: false
-    hashtags: "#daily, #korea, #abs, #motivation"
-  - username: "asuka_pasfit41"
+    hashtags: ""
+  - username: "jinyfit_true"
     fullname: >-
-      Asuka
+      팀트루짐-TEAM TRUE 신정진
     bio: >-
-      🇫🇷 🇰🇷 🇺🇸 우리 그 자체로 빛나 💜
+      ▪️Professional PT @fitness.true ▪️지니핏의류마켓 @jinyfit09
     location: "South Korea"
-    followers: 2343
-    engagement: 1131
-    commentsToLikes: 0.151704
-    id: ck8tcqobo0b3k0j7851hoack0
+    followers: 62653
+    engagement: 72
+    commentsToLikes: 0.033779
+    id: ck14gy8nw7lw20i19zcm2kmqt
     verified: false
-    hashtags: "#fightobesity, #evolution, #teamnonofit, #outfit"
-  - username: "run.soyoung"
+    hashtags: "#2021season, #herecomestheday"
+  - username: "dooice"
     fullname: >-
-      런소영 - Run Soyoung
+      강두형  dooice
     bio: >-
-      🌎#러닝 트레이너 #런소영 입니다🇰🇷 @runsoda #런소다 러닝모임 운영🏃🏻‍♀️🏃🏻‍♂️ . . Runsoyoung Youtube❤💙👇
+      MODEL/FASHION/FITNESS/COMMERCIAL MODEL/ 두이스 제품 문의 언제든 편하게 DM 주세요📮 @dooice_official
     location: "South Korea"
-    followers: 110008
-    engagement: 163
-    commentsToLikes: 0.021795
-    id: ck5hpz8ofs7zb0i11usg23r7c
-    verified: true
-    hashtags: "#10km, #global6k, #youtube, #hereiam"
-  - username: "bigdaddyglam"
-    fullname: >-
-      Gordon Lam
-    bio: >-
-      # LEGEND MAGAZINE Co-founder & Creative Director @hashtag_legend LEGEND ENTERTAINMENT GROUP Co-founder & Managing Director
-    location: "South Korea"
-    followers: 14312
-    engagement: 853
-    commentsToLikes: 0.020592
-    id: ck5zuhi092d970i14yg72d5dj
+    followers: 41424
+    engagement: 274
+    commentsToLikes: 0.015449
+    id: ck5q2550nebge0i11tloacp7l
     verified: false
-    hashtags: "#futureissue, #bigdaddyglamtravel, #heejungkim, #hyomin"
+    hashtags: "#ebbetsfield, #merrychristmas"
 ---

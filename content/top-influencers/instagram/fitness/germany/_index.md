@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Germany in 2023
+title: Top 10 Fitness Instagram Influencers In Germany In 2023
 description: >-
-  Find top fitness Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #style #fitnessmotivation.
+  Find top fitness Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #fitnessmotivation #gymgirl #motivation.
 platform: Instagram
-hits: 2466
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 2466 Instagram influencers like this in Germany for you to pitch.
+hits: 1973
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 1973 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "berma.fit"
-    fullname: >-
-      Fitness
-    bio: >-
-      Natural fitness, youtube: berma fit
-    location: "Germany"
-    followers: 10586
-    engagement: 1079
-    commentsToLikes: 0.033150
-    id: ck6tum2mph47f0j713g2vc5t2
-    verified: false
-    hashtags: "#gym, #workoutmotivation, #selfimprovement, #workout"
   - username: "filipexferreira"
     fullname: >-
       Fitness
     bio: >-
       🇧🇷 #lifestyle #fun #teambro #motivation #fitness
     location: "Germany"
-    followers: 51232
-    engagement: 669
-    commentsToLikes: 0.006444
+    followers: 65609
+    engagement: 622
+    commentsToLikes: 0.006658
     id: ck9hctx2cmyit0j78mqxuciyl
     verified: false
     hashtags: "#halloween"
-  - username: "jacki.byr"
+  - username: "nicolas_aesthetics"
     fullname: >-
-      Jacki 🍍
+      Nicolas Enache | Fitness, Cooking & Health
     bio: >-
-      FASHION | LIFESTYLE | FITNESS 📍NRW 🧳 Visual Merchandiser ...𝓂𝒶𝓀𝑒 𝒾𝓉 𝒽𝒶𝓅𝓅𝑒𝓃 ✨
+      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
     location: "Germany"
-    followers: 5065
-    engagement: 2201
-    commentsToLikes: 0.136230
-    id: ck8t8vsl9m0yx0j7850rvescv
+    followers: 107721
+    engagement: 431
+    commentsToLikes: 0.007534
+    id: ck5hdm6dio6r40i11vzge88qv
     verified: false
-    hashtags: "#fashionlover, #fashionaddict, #fashionstyle, #outfitoftheday"
-  - username: "burakdinc__"
+    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
+  - username: "vicces_"
     fullname: >-
-      BURAK DINC
+      victoria
     bio: >-
-      ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢ 📸 #fashion| #fitness| #travel |#lifestyle 📍 Augsburg/Cologne 📩 dinc.burak89@gmail.com 🔐 @me1isim 👇
+      🦋 fitness • fashion • model ☁️ cologne | 22 🏋🏽‍♀️ Teveo -10% mit Viccesx10 🤎 @naughtynuts -10% mit Victoria10
     location: "Germany"
-    followers: 10481
-    engagement: 1255
-    commentsToLikes: 0.103265
-    id: ck0u1nqppxf210i19mljrs9l4
+    followers: 91635
+    engagement: 723
+    commentsToLikes: 0.029055
+    id: ck8t8e2rsk3ta0j78t0okncez
     verified: false
-    hashtags: "#jackandjones, #jjambassador, #advertisement, #pregnancy"
-  - username: "slawomira_aldona"
+    hashtags: "#potd, #teveo, #gymmotivation, #fitfamgermany"
+  - username: "healthy_mandy"
     fullname: >-
-      🎀Slawomira Rykowska🎀
+      ⭐️-Mama von Rio ❤️
     bio: >-
-      #33years🙆🏻 #polishgirl🇵🇱#Living in Germany🇩🇪 #Fitness 💪🏼🏋🏻‍♀️#Travel 🛩🌏#Enjoy my life 🦋🎊 📍 Wetzlar
+      Ehefrau von @fitnessoskar ❤️
     location: "Germany"
-    followers: 13334
-    engagement: 1281
-    commentsToLikes: 0.071702
-    id: ckap2k7mkz73a0i785t5iqpnk
+    followers: 689359
+    engagement: 1619
+    commentsToLikes: 0.044480
+    id: ck13723uq9dwn0i19hv2tcm7x
     verified: false
-    hashtags: "#frankfurt, #me, #lifeisgood, #beautiful"
-  - username: "dbunny1703"
+    hashtags: "#fr, #liebe, #baby, #rezept"
+  - username: "bambi_jenny"
     fullname: >-
-      🦋D i a n a🦋
+      Jenny 🫶
     bio: >-
-      ✨🌺live the moment🌺✨📍Germany📍 👠💃🏻Fashion and fitnesslover💖🐰💋Singlegirl ☀️beginne jeden Tag mit einem Lächeln 😃
+      Ehrlicher Mama Content 💖 Authentisch🫶Echt Mai 2018👦🏼 #sommerbaby2021 🌈 👶🏽 #hausgeburt 🏡 Kaia 2019🐶 Friseurmeisterin & Fitnesstrainerin ⬇️Superfoods⬇️
     location: "Germany"
-    followers: 69401
-    engagement: 662
-    commentsToLikes: 0.049941
-    id: ck0w3x43zvqdx0i19ckbozuua
+    followers: 46503
+    engagement: 306
+    commentsToLikes: 0.046115
+    id: ckox6uu2ftihi0j23xdnjivxt
     verified: false
-    hashtags: "#freitag, #picoftheday, #monday, #blueeyes"
-  - username: "lorina_s"
+    hashtags: "#sommerbaby2021, #stillen, #mamaleben, #stilleninder"
+  - username: "analena.lz"
     fullname: >-
-      INSPO | LIFESTYLE | OUTFITS
+      𝓐𝓷𝓪-𝓛𝓮𝓷𝓪 𝓛𝓮𝔃𝓪𝓲𝓬
     bio: >-
-      positive vibes 🌻 040 fashion.coffee.fitness.acting ✨ shoutout mit #lörsina
+      🍑it’s all about gains 🦾licensed fitness trainer 🤍𝐬𝐞𝐥𝐟𝐥𝐨𝐯𝐞 | mindset | trading 👩🏽‍💻working online - DM to join me
     location: "Germany"
-    followers: 2727
-    engagement: 2896
-    commentsToLikes: 0.110602
-    id: ckaovcf4q3zdg0i78nvop5rhy
+    followers: 83258
+    engagement: 294
+    commentsToLikes: 0.018687
+    id: ckf5lhxlnpmno0j23vc4wp9u5
     verified: false
-    hashtags: "#lo"
-  - username: "rafirachek"
+    hashtags: "#shein, #gym, #sheingals, #fitness"
+  - username: "fit.suny84"
     fullname: >-
-      RAFI RACHEK 🌴
+      Sara | Darmstadt 🇩🇪 🇵🇱
     bio: >-
-      🌹🏳️‍🌈🏝 @bachelor.rtl ♻️we only have one World reduce plastic use • | Fitnesscoach 📍Köln | 🇩🇪 Management&Booking : contact@patricia-lessnerkraus.de
+      🤍 Fitness, Travel, Lifestyle 🔜 Thailand 🇹🇭 ❗️NEW ACCOUNT @ fit.suny 250k gehackt
     location: "Germany"
-    followers: 60619
-    engagement: 1277
-    commentsToLikes: 0.045587
-    id: ck5zqt7edv91t0i14mvx3vvww
+    followers: 129163
+    engagement: 267
+    commentsToLikes: 0.029216
+    id: cl9ofguoykx9b0i23a2drjjgc
+    verified: false
+    hashtags: "#fitnessgirl, #muskeln, #aufbau, #beach"
+  - username: "adriaan.vanveen"
+    fullname: >-
+      ADRIAAN VAN VEEN
+    bio: >-
+      🎭 #Schauspieler 🌱 #Vegan 🏌️ #Golf 🤸🏼 #Fitness 🖤 #Techno 📌 #Hannover 🇩🇪🇳🇱 🎬 Agentur @agentur.frehse 📰 PR @newstarmediamuc
+    location: "Germany"
+    followers: 18483
+    engagement: 93
+    commentsToLikes: 0.028050
+    id: ck8syv0u3m47i0j7850l8c3el
+    verified: false
+    hashtags: "#onset, #pixxlounge, #schauspieler, #zdf"
+  - username: "yeahitsmanu"
+    fullname: >-
+      Manuel K.
+    bio: >-
+      Licensed Gym Coach & Finance Nerd 🌐 Frankfurt 📍 @elements_fitness_wellness @gq_germany @tommyhilfiger @pure_training_official Impressum👇🏼
+    location: "Germany"
+    followers: 15462
+    engagement: 97
+    commentsToLikes: 0.023713
+    id: ck6uc4uasdira0j71aj56im0u
+    verified: false
+    hashtags: "#fitness, #frankfurt, #motivation, #challenges"
+  - username: "zallibhai"
+    fullname: >-
+      Zehra Allibhai - The FitNest
+    bio: >-
+      Fɪᴛɴᴇss | Fᴏoᴅ | Fᴀᴍɪʟʏ | Tʀᴀᴠᴇʟ 🇨🇦 Fitness Coach, Kinesiologist, @cityline expert Let’s Connect ⬇️
+    location: "Germany"
+    followers: 280776
+    engagement: 90
+    commentsToLikes: 0.025523
+    id: ck5hlkkxwkdtq0i11rtmqm0cg
     verified: true
-    hashtags: "#travelphotography, #fitnessmotivation, #bachelorinparadise, #travel"
-  - username: "giuljana.wolf"
-    fullname: >-
-      GIULJANA 🌸
-    bio: >-
-      •20|German|Augsburg •Fitness & Nutrition 🏃🏽‍♀️🍎 •I want to make memories all over the world•
-    location: "Germany"
-    followers: 6519
-    engagement: 1240
-    commentsToLikes: 0.090501
-    id: ckaoycklggxwq0i78x5l695ni
-    verified: false
-    hashtags: "#loveyourself"
-  - username: "sarah.knsl"
-    fullname: >-
-      Sarah
-    bio: >-
-      Welcome to my life 🤞🏻 Lifestyle| Mindset |Fitness CGN📍 💌 SarahKnsl@t-online.de 🎓 Digital Marketing
-    location: "Germany"
-    followers: 10102
-    engagement: 1233
-    commentsToLikes: 0.124625
-    id: ckapah9uqw3jc0i787sl66q8i
-    verified: false
-    hashtags: "#instainspo, #lifestyleportraits, #cologneblogger, #discoverunder10k"
+    hashtags: "#moveyourbody, #mealprep, #movedaily, #fitatanyage"
 ---

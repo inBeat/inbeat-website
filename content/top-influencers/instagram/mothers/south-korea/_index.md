@@ -1,60 +1,12 @@
 ---
-title: Top 10 Mothers Instagram Influencers In South Korea in 2023
+title: Top 10 Mothers Instagram Influencers In South Korea In 2023
 description: >-
-  Find top mothers Instagram influencers in South Korea in 2023. Most popular hashtags: #mother #dhaka #throwback.
+  Find top mothers Instagram influencers in South Korea in 2023. Most popular hashtags: #ootd #korean #christmas.
 platform: Instagram
-hits: 53
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 53 Instagram influencers like this in South Korea for you to pitch.
+hits: 32
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 32 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
-  - username: "txxmini"
-    fullname: >-
-      TAEMIN PARK🇰🇷
-    bio: >-
-      GOST🇰🇷(Mother) BANANAS🇫🇷 NEXT🇺🇸 NEXT🇬🇧 Elite🇮🇹
-    location: "South Korea"
-    followers: 100160
-    engagement: 599
-    commentsToLikes: 0.005927
-    id: ck0w0m09uevqr0i19vacxsnib
-    verified: false
-    hashtags: "#fendi, #fendiss21, #fendifamily, #fxdls"
-  - username: "tomazhurkina"
-    fullname: >-
-      ЖИЗНЬ МОДЕЛИ В КОРЕЕ 🇰🇷
-    bio: >-
-      ЧЕСТНО О: 💉Пластике 🤵🏻Бывших 👜Моде 🧠Психотерапии 👠Моделинге ⠀ ADDICTED TO JOKES, COFFEE & CHICKEN ⠀ Mother of d̶r̶a̶g̶o̶n̶s̶🐉dogs🐶 •INST+YOUTUBE•
-    location: "South Korea"
-    followers: 44449
-    engagement: 145
-    commentsToLikes: 0.044595
-    id: ck5ckabwjwgr80i119m5foyon
-    verified: false
-    hashtags: "#cavalierkingcharlesspaniel, #cklifefeatures, #cavaliercommunity"
-  - username: "sasha_yugay"
-    fullname: >-
-      Sasha Yu
-    bio: >-
-      Lifestyle & motherhood 🥰 Married 💍 @05era ♥️ Mom of @danieltheoblachko ☁️ Co-founder of @momsbox.kz 🤗📦
-    location: "South Korea"
-    followers: 149934
-    engagement: 872
-    commentsToLikes: 0.026526
-    id: ck15tmuc8iv3g0i19dzwe1tmn
-    verified: false
-    hashtags: "#collegien, #turning2soon, #pomdapi"
-  - username: "lego_heavy_industries"
-    fullname: >-
-      lego_heavy_industries
-    bio: >-
-      I love you mother. 1950.10.07~2020.10.10
-    location: "South Korea"
-    followers: 9354
-    engagement: 1104
-    commentsToLikes: 0.006625
-    id: ckaotw6lfxrv20i78gvbnst5n
-    verified: false
-    hashtags: "#afol, #brick, #legomoc, #dread"
   - username: "lovelypeachesmusic100"
     fullname: >-
       Peaches 💖
@@ -66,7 +18,19 @@ profiles:
     commentsToLikes: 0.044890
     id: ck6tohfo7e3rl0j7118qz1deg
     verified: true
-    hashtags: "#peachlings, #yousobad, #whitebugs, #13inch"
+    hashtags: "#yousobad, #whitebugs, #13inch, #oooodaddy"
+  - username: "stephanie_molyneaux"
+    fullname: >-
+      S T E P H ☼
+    bio: >-
+      » motherhood • lifestyle • travel » I I MMXV » mama to noémie » corporate m&a attorney » korean-american » miami | d.c.
+    location: "South Korea"
+    followers: 5892
+    engagement: 622
+    commentsToLikes: 0.105638
+    id: ck8t0zdh7tw9s0j78xccucuha
+    verified: false
+    hashtags: "#dirtybootsmessyhair, #smpweddings, #stylemepretty, #theknot"
   - username: "dasomhahn"
     fullname: >-
       Dasom Han
@@ -78,31 +42,7 @@ profiles:
     commentsToLikes: 0.006856
     id: ck5btk75gg42w0i112fycp66u
     verified: false
-    hashtags: "#nike, #challengeaccepted, #womensupportingwomen, #hyukoh"
-  - username: "kingmck"
-    fullname: >-
-      K̸I̸N̸G̸M̸C̸K̸
-    bio: >-
-      +82 Φ J̸O̸I̸N̸T̸H̸E̸D̸D̸N̸D̸M̸V̸M̸T̸ Φ K̸I̸L̸O̸1K̸G̸ @pluseighttwo @ddndmvmt @seoultoinfinity @mother.media 🌹 $ ♡ ₩ ∞ ¥ 🌹
-    location: "South Korea"
-    followers: 28851
-    engagement: 144
-    commentsToLikes: 0.018984
-    id: ck5pyu4lgxth70i119ugcbvsj
-    verified: false
-    hashtags: "#tma2, #aiaiaiaudio, #teamsquarius, #jointheddndmvmt"
-  - username: "solshine_y_mama"
-    fullname: >-
-      Sol & Mamá +1(Dec. 2020)
-    bio: >-
-      📸/📽 Toddler & mama adventures in squares! SOL is 🇰🇷 🇺🇸 🇬🇹 📍South Korea ❤ California
-    location: "South Korea"
-    followers: 7199
-    engagement: 300
-    commentsToLikes: 0.178005
-    id: ck6u6ehumf4u10j71c8olyd7v
-    verified: false
-    hashtags: "#bigsister2020, #adventureswithchildren, #vidaencorea, #mylittlesunshine"
+    hashtags: "#womensupportingwomen, #hyukoh, #20, #throughlove"
   - username: "starettoday"
     fullname: >-
       ETtoday星光雲
@@ -114,17 +54,77 @@ profiles:
     commentsToLikes: 0.005971
     id: ck0uax6cbdcr00i19dwmcntsv
     verified: true
-    hashtags: "#ettoday, #etmovie, #singer, #mothersday"
-  - username: "tinazahan"
+    hashtags: "#singer, #etmovie, #mothersday, #mother"
+  - username: "adventuresof_solynoah"
     fullname: >-
-      티나  Tina Zahan
+      Sol y Noah
     bio: >-
-      🇸🇬 🇧🇩 Law student with love for multi-culture. Founder of BD K-Family (the first and only Korean Cultural community of BD) My Facebook Page ⇊
+      Adventure seeking, outdoor exploring, nature loving siblings. Currently exploring South Korea. Sibling OOTD~Reels SOL & NOAH are 🇰🇷 🇺🇸 🇬🇹
     location: "South Korea"
-    followers: 8791
-    engagement: 1087
-    commentsToLikes: 0.026992
-    id: ck9wejs8okky30j781bxnkods
+    followers: 7984
+    engagement: 685
+    commentsToLikes: 0.137320
+    id: ck6u6ehumf4u10j71c8olyd7v
     verified: false
-    hashtags: "#blonde, #asian, #dhaka, #rubywoo"
+    hashtags: "#momentsinmotherhood, #capturingmoments, #mihija, #misolecito"
+  - username: "thizisdan"
+    fullname: >-
+      강희웅(Danny Kang)🇰🇷
+    bio: >-
+      Life in Korea @frost_latte @koreangrocerymen
+    location: "South Korea"
+    followers: 86804
+    engagement: 324
+    commentsToLikes: 0.040807
+    id: ck136b2hy5mou0i194l0uq5kw
+    verified: false
+    hashtags: "#lifeinkorea, #korealife, #thizisdanhouse, #thiziskorea"
+  - username: "hehejihee"
+    fullname: >-
+      Julie Hwang
+    bio: >-
+      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
+    location: "South Korea"
+    followers: 56787
+    engagement: 522
+    commentsToLikes: 0.012792
+    id: ckaozhqm2lxud0i78ep1u8e99
+    verified: false
+    hashtags: "#serenity, #fashion, #ootd, #travel"
+  - username: "solars_fiance"
+    fullname: >-
+      Solar’s Fiance
+    bio: >-
+      MAMAMOO FAN ACCOUNT! Admins: [SF] & [JZY] Let’s gogo, bebe! 🇰🇷♥️🏳️‍🌈 (Cred to respective owners) FOLLOW @solarkeem STREAM AYA 👇
+    location: "South Korea"
+    followers: 11306
+    engagement: 1094
+    commentsToLikes: 0.012327
+    id: ck0tuw7038y2x0i19x514ny70
+    verified: false
+    hashtags: "#mamamoowheein, #mamammoohwasa, #hipmamamoo, #moonbyulmamamoo"
+  - username: "blazian_amazon"
+    fullname: >-
+      박경희 Keong-Hee
+    bio: >-
+      Korean, Black & Native American 안녕하세요 O'-Si-Yo' #jetlife #FlightAttendant #FlyGirl #youcantcatchme #Engaged💍💎 #LeiLanisMom
+    location: "South Korea"
+    followers: 3130
+    engagement: 981
+    commentsToLikes: 0.091682
+    id: ck5c9eytybbae0i112zdu6e7s
+    verified: false
+    hashtags: "#curlyhair, #korean, #melaninpoppin, #hanguksaram"
+  - username: "healthyfoodmakesyoufeelgood"
+    fullname: >-
+      Foodblog Sin
+    bio: >-
+      🤱 Mommy 🌱 Tea lover 🛫 Globetrotter 🍉 World cuisine foodie 🇰🇷 Korean-Belgian blogger 🇧🇪 🏠 Flanders, Belgium
+    location: "South Korea"
+    followers: 3796
+    engagement: 879
+    commentsToLikes: 0.402066
+    id: ck5ho75oap27p0i118v7gt28f
+    verified: false
+    hashtags: "#collab, #gezondeten, #vegan, #foodfotografie"
 ---

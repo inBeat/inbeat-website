@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Venezuela in 2023
+title: Top 10 Instagram Influencers In Venezuela In 2023
 description: >-
-  Find top Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #tbt #caracas.
+  Find top Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #model #campaign.
 platform: Instagram
-hits: 1141
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 1141 Instagram influencers like this in Venezuela for you to connect with.
+hits: 965
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 965 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
+  - username: "olivarescfc"
+    fullname: >-
+      Oscar Olivares
+    bio: >-
+      🌎 Making art with bottle caps 📘 Estudia dibujo online en @academiaolivares 📩 Contacto@olivaresart.com
+    location: "Venezuela"
+    followers: 222533
+    engagement: 265
+    commentsToLikes: 0.025234
+    id: ck0tw1c2adleq0i19xorb4vnn
+    verified: false
+    hashtags: "#artistavenezolano, #reel, #venezuela, #inspirational"
+  - username: "franciscoandara"
+    fullname: >-
+      FRANCISCO ANDARA | 📸
+    bio: >-
+      || Director creativo || Comunicador social || Fotografía de moda & Retoque
+    location: "Venezuela"
+    followers: 46484
+    engagement: 163
+    commentsToLikes: 0.037919
+    id: ck5pvigxwi1720i115zr4tpin
+    verified: false
+    hashtags: "#closeup, #venezuelanphotographer, #retoucher, #reflexion"
+  - username: "bettinaromina"
+    fullname: >-
+      Bettina Garcia
+    bio: >-
+      “El hubiera no existe” 👧🏼 Mamá de Bettinita @btapiero 🇻🇪 Venezolana de Nacimiento 🇵🇦 Panameña de Adopción
+    location: "Venezuela"
+    followers: 887070
+    engagement: 90
+    commentsToLikes: 0.048797
+    id: ck0tuaoib6cq40i19d4ckxj1z
+    verified: true
+    hashtags: "#turquia, #bettinita, #expectationvsreality, #pamukale"
+  - username: "missgrandinternational"
+    fullname: >-
+      𝗠𝗶𝘀𝘀 𝗚𝗿𝗮𝗻𝗱 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹
+    bio: >-
+      #WeAreGRANDthe1andOnly MGI ‘22 is @isanmenin from Brazil 🇧🇷
+    location: "Venezuela"
+    followers: 3953105
+    engagement: 77
+    commentsToLikes: 0.016799
+    id: ck0vymryz4rrh0i19zpcku1fi
+    verified: false
+    hashtags: "#grand, #grandexperiences, #missgrandinternational2022, #wearegrandthe1andonly"
   - username: "estefaniaramirezmakeup"
     fullname: >-
       Estefanía Ramírez
     bio: >-
-      🌸 A R T I S T 🌎 We must evolve✨ 🐰 #crueltyfree 💌 estefaniaramirezmakeup@gmail.com 💄Latin MUA
+      🌸 A R T I S T 🌸 ✨ Content Creator - Be your own concept of BEAUTY - 🐰 @ethicalbeauty.ve 💌 estefaniaramirezmakeup@gmail.com
     location: "Venezuela"
-    followers: 15450
-    engagement: 3498
-    commentsToLikes: 0.907463
+    followers: 18128
+    engagement: 1353
+    commentsToLikes: 0.068183
     id: ck5c8lit49qpl0i113dncncnq
     verified: false
-    hashtags: "#morphebabe, #blindwhite, #polarlightsbrown, #queengray"
+    hashtags: "#beautysquad, #xiogal"
+  - username: "dieguisimo"
+    fullname: >-
+      Diego Vallenilla Z
+    bio: >-
+      Contando historias a través de mis fotos 📍Un venezolano viviendo en Venezuela 📷 Fotografía 📩 Contáctame
+    location: "Venezuela"
+    followers: 48694
+    engagement: 781
+    commentsToLikes: 0.053971
+    id: ck5bwyy64molw0i1113qluyao
+    verified: false
+    hashtags: "#venezuela, #deseoscumplidos, #quequisieras, #valendeviaje"
   - username: "emilygori"
     fullname: >-
       𝓔𝓶𝓲𝓵𝔂 𝓖𝓸𝓻𝓲👑
     bio: >-
       ”Sé feliz, eso vuelve loco a los demás”❤️ Publicidad al DM📥 📌ᴠᴇɴᴇᴢᴜᴇʟᴀ.
     location: "Venezuela"
-    followers: 97762
-    engagement: 1236
-    commentsToLikes: 0.238521
+    followers: 108614
+    engagement: 1286
+    commentsToLikes: 0.124860
     id: ck602x5rajsvr0i14u14h0fx1
     verified: false
-    hashtags: "#mexico, #colombia, #sorteo, #sorteoiphone"
-  - username: "dianavasquezve"
+    hashtags: "#keniaos, #pantojitas, #sorteoiphone, #freefirelatam"
+  - username: "vanevanemchin"
     fullname: >-
-      DIANA VASQUEZ
+      V A N E V A N E 🌹
     bio: >-
-      📺 Reportera @noticierovenevision 🎧 Locutora UCV 💪🏼 Fitness Girl 👩🏻‍💻 Redacto Notas de Salud ⤵️
+      Única Cuenta📍 Abogada🎖🇻🇪 Diseñadora por vocación ❤️ Imagen Publicitario ✨ Publicidad al DM 💌 CEO: @vanevanebijoux
     location: "Venezuela"
-    followers: 29888
-    engagement: 1110
-    commentsToLikes: 0.162843
-    id: ck8tdsjan4m2c0j78m724dumc
+    followers: 344282
+    engagement: 593
+    commentsToLikes: 0.030582
+    id: ck9haanf2bt5g0j78vorvvvrh
     verified: false
-    hashtags: "#atusaludenlinea, #reporter, #caracas, #cuarentenacreativa"
-  - username: "musicbymauro"
+    hashtags: "#nuevacoleccion, #vanevanemchin, #lucecomounareinaconvanevane, #fajaspostoperatorias"
+  - username: "ariannapitino"
     fullname: >-
-      Mauro
+      AP.
     bio: >-
-      Siendo 2 👇🏼 (completa en YouTube)
+      11:11🦂✨ Comunicadora Social🎙 〰️Producción II Dirección Creativa || RRSS Relaciones Públicas || Fashion Consultant v e n e z u e l a 📍
     location: "Venezuela"
-    followers: 24585
-    engagement: 1087
-    commentsToLikes: 0.069006
-    id: ck8t8txqylt320j78nqze988d
+    followers: 66301
+    engagement: 989
+    commentsToLikes: 0.012180
+    id: ck0tw1ckedlh80i19e0e7a89q
     verified: false
-    hashtags: "#singer, #latinoamerica, #guitarra, #caracas"
-  - username: "gasibae"
-    fullname: >-
-      𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐆𝐀𝐒𝐈𝐁𝐀
-    bio: >-
-      ✖️Miss Distrito Capital 2020 | Miss Fotogénica 20’ ✖️Healthy lifestyle | Model | LATINA 🇻🇪 ✖️Business: workingwith.gasiba@gmail.com 🌟dm for collabs
-    location: "Venezuela"
-    followers: 41228
-    engagement: 794
-    commentsToLikes: 0.063985
-    id: ck5cfpfsfnege0i11i3rdr0vh
-    verified: false
-    hashtags: "#repost, #girlpower, #womenempowerment, #miss"
-  - username: "dieguisimo"
-    fullname: >-
-      Diego Vallenilla Z
-    bio: >-
-      Contando historias a través de mi lente 📍Un venezolano viviendo en Venezuela 📷 Fotografía 📩 Contáctame
-    location: "Venezuela"
-    followers: 45120
-    engagement: 775
-    commentsToLikes: 0.083808
-    id: ck5bwyy64molw0i1113qluyao
-    verified: false
-    hashtags: "#caracas, #picoftheday, #playa, #afaltadeplayacaracas"
+    hashtags: "#campaign, #photoshoot, #modellife, #throwback"
   - username: "liaryshernandez"
     fullname: >-
       Liarys Hernández
     bio: >-
-      𝐋𝐈𝐀𝐇 𝐆𝐑𝐎𝐔𝐏 • @liah.storevzla • @liah.bar • @liah.spa Business woman 📩 liaryschm@hotmail.com
+      𝐋𝐈𝐀𝐇 𝐆𝐑𝐎𝐔𝐏 • @liah.storevzla • @magicoffee.byliah • @liah.spa Business woman 📩 liaryschm@hotmail.com
     location: "Venezuela"
-    followers: 633010
-    engagement: 730
-    commentsToLikes: 0.029127
+    followers: 658794
+    engagement: 572
+    commentsToLikes: 0.048718
     id: ck5hizk0gfqrc0i1154s3rm5i
     verified: false
-    hashtags: "#24, #sunday, #liahaccesories, #noahinfluencer"
-  - username: "wilkaryzambranoo"
-    fullname: >-
-      𝓦𝓲𝓵𝓴𝓪𝓻𝔂
-    bio: >-
-      𝚂𝚘𝚕𝚘 𝚋𝚞𝚎𝚗𝚊𝚜 𝚟𝚒𝚋𝚛𝚊𝚜! 𝙘𝙤𝙫𝙚𝙧𝙨 \ 𝙢𝙤𝙩𝙞𝙫𝙖𝙩𝙞𝙤𝙣 \ (𝐭𝐭+30𝙠) ▫️ 𝙵𝚒𝚕𝚒𝚙𝚎𝚗𝚜𝚎𝚜 𝟺:𝟷𝟹 ✨
-    location: "Venezuela"
-    followers: 10064
-    engagement: 1290
-    commentsToLikes: 0.093935
-    id: ckf5on4es2x420j232bzly3z5
-    verified: false
-    hashtags: "#delineado, #concurso, #memories, #tbt"
-  - username: "soyricardojose"
-    fullname: >-
-      Ricardo Castellanos
-    bio: >-
-      - Gerente General de @AgenteDePrensa 🖤 - Press Event Planner 📰🌟 Creo en Venezuela 💛💙❤
-    location: "Venezuela"
-    followers: 21562
-    engagement: 1139
-    commentsToLikes: 0.207342
-    id: ck5c6oe875uyu0i11507pr6d6
-    verified: false
-    hashtags: "#madrid, #cuarentena, #pandemia, #agentedeprensa"
-  - username: "sthefannyvzm"
-    fullname: >-
-      Sthefanny Zuleta
-    bio: >-
-      TEFFY Bailarina & Coreografa Modelo⚡️ Disfruto la vida bailando✨ 🇻🇪
-    location: "Venezuela"
-    followers: 8541
-    engagement: 1356
-    commentsToLikes: 0.064889
-    id: ck15s3jozb1ke0i19ztep2emv
-    verified: false
-    hashtags: "#instagram, #model, #makeup, #ballerina"
+    hashtags: "#liahswimwear"
 ---

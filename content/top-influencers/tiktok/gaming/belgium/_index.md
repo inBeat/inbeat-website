@@ -1,96 +1,72 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Belgium in 2023
+title: Top 10 Gaming TikTok Influencers In Belgium In 2023
 description: >-
-  Find top gaming TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #viral #gaming #pourtoi.
+  Find top gaming TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #gaming #foryou #pourtoi.
 platform: TikTok
-hits: 11
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat has 11 TikTok influencers like this in Belgium for you to work with.
+hits: 10
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "superdenis_marty_mcfly"
-    fullname: >-
-      Superdenis
-    bio: >-
-      📍Liège Go 10K 😉 Donnons du sens à cette vie
-    location: "Belgium"
-    followers: 8395
-    engagement: 686
-    commentsToLikes: 0.077400
-    id: ckc7c2wivlsvy0j23fnpo422e
-    verified: false
-    hashtags: "#coronavirus, #couvrefeu, #videogames, #videogame"
-  - username: "acrozzz"
+  - username: "realdriftparadise"
     fullname: >-
       Acrozzz
     bio: >-
-      Follow my Insta ⬆️ 🔥ALL Drift Gameplays by Myself🔥 😈ACROZZZ😈
+      Follow my Instagram⬆️ 🌟OFFICIAL CREATOR FOR @POWDER.GG🌟 ✨ACROZZZ✨
     location: "Belgium"
-    followers: 417100
-    engagement: 1422
-    commentsToLikes: 0.072461
+    followers: 539700
+    engagement: 1385
+    commentsToLikes: 0.072708
     id: ckb9nvwqyhqh50j23qbi8d3nq
     verified: false
-    hashtags: "#gta5, #gtav, #gta5online, #gta5clips"
-  - username: "maimag09"
+    hashtags: "#fyp, #gtav, #gta5, #gamingontiktok"
+  - username: "hassanpleintv"
     fullname: >-
-      Disneygay 🎉
+      HassanPleinTV
     bio: >-
-      Si tu aimes comme moi Stitch abonnes-toi 🥰🎉 Bientôt les 4K ?🧐
+      ~ DJ HASSANIE ~ Rappeur et Influenceur - J’ai 23 ans - 🎥 76k sur YouTube
     location: "Belgium"
-    followers: 3786
-    engagement: 1006
-    commentsToLikes: 0.066440
-    id: ckd0q3wclhzt70j23c97ebuw3
+    followers: 128400
+    engagement: 1062
+    commentsToLikes: 0.025667
+    id: ckal6esc2aroe0i78mlc5orgv
     verified: false
-    hashtags: "#disneylandparis, #monaperocommenceici, #shopdisney, #monhalloween"
+    hashtags: "#rap, #warzone, #codclips, #pourtoiiii"
+  - username: "wendy_adriaens"
+    fullname: >-
+      Wendy Adriaens
+    bio: >-
+      The Ostrich Whisperer 💌Bredabaan 1032, 2990 Wuustwezel, Belgium
+    location: "Belgium"
+    followers: 857200
+    engagement: 1352
+    commentsToLikes: 0.035282
+    id: ckdhqrfqg1un60j23lni2fhqs
+    verified: false
+    hashtags: "#wendyadriaens, #cute, #velociraptor, #rescuebird"
   - username: "jenthe.smisdom"
     fullname: >-
       Smissy
     bio: >-
       I don’t know what I’m doing here but I’m here
     location: "Belgium"
-    followers: 100900
-    engagement: 1827
-    commentsToLikes: 0.018797
+    followers: 100200
+    engagement: 1808
+    commentsToLikes: 0.018279
     id: ck83zobru1km80j78mi4kg3yl
     verified: false
-    hashtags: "#fy, #fypage, #xyzbca, #dxbkd"
-  - username: "hassanpleintv"
+    hashtags: "#schoollife, #fypage, #xyzbca, #dxbkd"
+  - username: "davidolkarny"
     fullname: >-
-      HassanPleinTV
+      David Olkarny
     bio: >-
-      ~ DJ HASSANIE ~ Rappeur et Influenceur - J’ai 23 ans - 🎥 76.1k sur YouTube
+      📸 ⚡︎ Photographe ⚐ Bruxelles ⚔︎ Follow the gram
     location: "Belgium"
-    followers: 131100
-    engagement: 1141
-    commentsToLikes: 0.025948
-    id: ckal6esc2aroe0i78mlc5orgv
-    verified: false
-    hashtags: "#handicap, #pourtoi, #rap, #questions"
-  - username: "foryoubella.com"
-    fullname: >-
-      Irish Anne Tello
-    bio: >-
-      👆🏼Goal 50k before December ✨ I make beautiful jewellery. Online Fashion Shop
-    location: "Belgium"
-    followers: 39300
-    engagement: 530
-    commentsToLikes: 0.026708
-    id: ckbfganthbdy40j23ot8ud2w1
-    verified: false
-    hashtags: "#tiktokacademie, #distorsiontemporelle, #lumieresur, #onlinestores"
-  - username: "jays3bago"
-    fullname: >-
-      J S3bago
-    bio: >-
-      Jay Jay 🇰🇪/🇧🇪 If you can’t convince them, confuse them.
-    location: "Belgium"
-    followers: 10500
-    engagement: 840
-    commentsToLikes: 0.058562
-    id: ckd6fxl4y81f40j23yulrka0t
-    verified: false
-    hashtags: "#like, #funny, #savage, #4u"
+    followers: 142400
+    engagement: 1045
+    commentsToLikes: 0.012810
+    id: cka6q5hwfm70j0i78i3gm6t8k
+    verified: true
+    hashtags: "#behindthescene, #iphonetricks, #learnontiktok, #photoidea"
   - username: "gangster_wunzie"
     fullname: >-
       Gangster_Wunzie
@@ -102,29 +78,53 @@ profiles:
     commentsToLikes: 0.008308
     id: ckb9sxc8iqffz0j238lt3heht
     verified: false
-    hashtags: "#epic, #roblox, #cool, #nederlands"
-  - username: "silentjill"
+    hashtags: "#roblox, #nederlands, #epic, #belgie"
+  - username: "tomvd.ink"
     fullname: >-
-      Silentjill 
+      Tom
     bio: >-
-      COMPLÈTEMENT FUCKED UP 🥳 Rdv sur YouTube et Instagram !
+      + d’aventures sur mon Insta ☝🏻
     location: "Belgium"
-    followers: 440900
-    engagement: 1481
-    commentsToLikes: 0.010534
-    id: ckb10j5p8p19a0j23hha94wmw
-    verified: true
-    hashtags: "#halloween, #pourtoi, #fyp, #crime"
-  - username: "enzio.houwaart"
-    fullname: >-
-      enzio.houwaart
-    bio: >-
-      25⎜Bachelor Business Management, Major in Sports Management 🎓⎜🇧🇪🇳🇱
-    location: "Belgium"
-    followers: 11300
-    engagement: 530
-    commentsToLikes: 0.022907
-    id: ckcj3yor150g00j23knx3vnwp
+    followers: 84000
+    engagement: 1234
+    commentsToLikes: 0.030766
+    id: ckav4zz52bhl70j23hsblmt9r
     verified: false
-    hashtags: "#fyp, #neymarjr, #neymar, #fcb"
+    hashtags: "#fy, #collage, #foryou, #pourtoi"
+  - username: "keansuspensions"
+    fullname: >-
+      keansuspensions
+    bio: >-
+      📩 keansuspensions@gmail.com 📱+32 (0)486 07 58 82 📱+32 (0)485 72 91 63
+    location: "Belgium"
+    followers: 7545
+    engagement: 457
+    commentsToLikes: 0.014260
+    id: ckb91uvw8hs360j23mkoltz3w
+    verified: false
+    hashtags: "#keansuspensions, #ferrari, #pourtoi, #fyp"
+  - username: "yoxeu"
+    fullname: >-
+      Yoxeu
+    bio: >-
+      vous + moi = nous
+    location: "Belgium"
+    followers: 58900
+    engagement: 915
+    commentsToLikes: 0.019231
+    id: cka0qjychcuz40i78pbxhcab7
+    verified: false
+    hashtags: "#pasdelove, #quedesloves, #collage, #drink"
+  - username: "stormgalactic"
+    fullname: >-
+      jose.fernandez
+    bio: >-
+      Hello there! Star Wars geek 4 life! Follow me on instagram 😋 One 🇧🇪 boy
+    location: "Belgium"
+    followers: 6639
+    engagement: 1156
+    commentsToLikes: 0.074399
+    id: ckcojt15z4t6v0j23vgrbsmqm
+    verified: false
+    hashtags: "#foryou, #starwars, #funny, #presents"
 ---

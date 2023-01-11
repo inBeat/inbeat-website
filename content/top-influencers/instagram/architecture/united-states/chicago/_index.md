@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Chicago in 2023
+title: Top 10 Architecture Instagram Influencers In Chicago In 2023
 description: >-
-  Find top architecture Instagram influencers in Chicago in 2023. Most popular hashtags: #architecture #chicago #chiarchitecture #design.
+  Find top architecture Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #architecture #mychicagopix #insta.
 platform: Instagram
 hits: 76
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 76 Instagram influencers like this in Chicago, United States for you to contact.
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 76 Instagram influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "karamanndesign"
     fullname: >-
       Kara Mann
     bio: >-
-      Interior Design + Architecture Chicago + Los Angeles Maker @kept.home Text Me 312 847 2021
+      Interior Design + Architecture Chicago + Los Angeles Maker @kept.home Book a consultation with me on @theexpert
     location: "United States"
-    followers: 33947
-    engagement: 176
-    commentsToLikes: 0.052483
+    followers: 40668
+    engagement: 150
+    commentsToLikes: 0.027597
     id: ck5hog0bgphu90i11sjbpwd5n
     verified: true
-    hashtags: "#inspiration, #winnetkaestate, #karamanndesign, #monday"
+    hashtags: "#winnetkaestate, #karamannxcb2, #karamanndesign, #iwd2021"
   - username: "ms.maddiehealy"
     fullname: >-
       Ms. Maddie🍎
     bio: >-
-      📍Chicago/Midwest🌲 || California Grown 🌼 • CATS 🐈 • MUSIC 🎶 • NIKON 📸 • TYPE 1🩸
+      📍Chicago/Midwest🌲 || California Grown 🌼 🚇 GreenLine G✶✶DS LINK: 👇
     location: "United States"
-    followers: 8116
-    engagement: 516
-    commentsToLikes: 0.065171
+    followers: 9524
+    engagement: 326
+    commentsToLikes: 0.111443
     id: ck5pw6x3nlekv0i11yju981h6
     verified: false
-    hashtags: "#cityviews, #architecture, #chicagoland, #midwestphotographs"
-  - username: "summerthorntondesign"
+    hashtags: "#nature, #chicago, #architecture, #onlinechicago"
+  - username: "art.of.chi"
     fullname: >-
-      Summer Thornton
+      Instagram Of Chicago
     bio: >-
-      Interior Designer feat in AD, NYTimes, WSJ, House Beautiful, Trad Home, Lonny, Chicago Tribune, etc. Projects nationwide. Please credit my 📷
+      Features | Giveaways | Meet ups Feature Tag : #Artofchi
     location: "United States"
-    followers: 75432
-    engagement: 145
-    commentsToLikes: 0.031696
-    id: ck0w0d321dkug0i19q37gbsst
+    followers: 103140
+    engagement: 142
+    commentsToLikes: 0.020019
+    id: ck0u22viiyr4h0i19wlnlcd6r
     verified: false
-    hashtags: "#housetour, #interiordecorating, #interiordesigner, #interiors"
-  - username: "wishuponastarrynight"
+    hashtags: "#chiarchitecture, #visitchitown, #enjoyillinois, #chitecture"
+  - username: "camvalmor"
     fullname: >-
-      ✨ kaitlin czurylo ✨😀
+      Cam Valmor | First Officer
     bio: >-
-      😀 📍Chicago ✨ She/Her life & style with a dash of whimsy #disneystyle, plants, tiki, musicals tie dye for sale @kaitmakestiedye 💌 krczurylo@gmail.com
+      Hop on with me and enjoy the ride! ✈️ Arline pilot ❤️ Animal Lover 📸 Amateur Photographer 👇 My secret pics: Valmor.contact@gmail.com
     location: "United States"
-    followers: 21721
-    engagement: 265
-    commentsToLikes: 0.120672
-    id: ck0tycjoxmfcx0i19o8hftdzr
+    followers: 7881
+    engagement: 485
+    commentsToLikes: 0.061475
+    id: ck8wghh8uhdgc0j7894ibpbih
     verified: false
-    hashtags: "#chicagoinfluencer, #fallstyle, #myohmysupplyco, #teenypresets"
-  - username: "thehauteinteriors"
+    hashtags: "#nycprimeshot, #ilovenewyork, #nycblogger, #online"
+  - username: "mmeyers76"
     fullname: >-
-      T.H.I. INTERIORS
+      Mike Meyers
     bio: >-
-      INTERIOR DESIGN | ARCHITECTURE 📍Chicago Projects in NY | Dubai | Kuwait Featured in Harper’s Bazaar Interiors 📧 info@thi-interiors.com 📱+17084655596
+      Chicago @SonyAlpha Ambassador 👇🏻👇🏻PRINTS👇🏻👇🏻
     location: "United States"
-    followers: 193144
-    engagement: 221
-    commentsToLikes: 0.009261
-    id: ck6uidmn7egv80j71bqjpqh21
+    followers: 183472
+    engagement: 330
+    commentsToLikes: 0.033309
+    id: ck0tt7xo91jj70i19ca6ibv9h
     verified: false
-    hashtags: "#chicago, #interiordesign, #interiorinspo, #interiorinspiration"
-  - username: "_amphoto"
+    hashtags: "#bnwmood, #alphacollective, #droneoftheday, #streets"
+  - username: "jorgevillegash"
     fullname: >-
-      Andres Marin
+      Jorge Villegas
     bio: >-
-      📍Orlando, FL 🏢 Travel | Architecture 📷 Sony A7Riii | Mavic 2 Pro amphoto.us@gmail.com ———————— Commercial/Real Estate @_andresmarinphotography
+      Product designer, pizzahead, and father of one big fat English bulldog 🐶 I help businesses solve problems with design... whatever that means!
     location: "United States"
-    followers: 7112
-    engagement: 450
-    commentsToLikes: 0.042143
-    id: ckaozc6kxl7pr0i78y1jbcfhx
+    followers: 9921
+    engagement: 546
+    commentsToLikes: 0.031712
+    id: ck136zs5292ro0i1931luhiuq
     verified: false
-    hashtags: "#portugal, #rustlord, #chitecture, #insta"
-  - username: "blindfoxart"
+    hashtags: "#fatalframes, #thecreatorclass, #stlmo, #saintlouismissouri"
+  - username: "wgnnews"
     fullname: >-
-      Ҍӏíղժ Ƒօ×
+      WGN News
     bio: >-
-      ⱭɾԵÍՏԵ • 𝔐𝔲𝔰𝔢 • Nefelibata ✖️ 𝙰𝚕𝚕 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐𝚜 𝚊𝚗𝚍 𝚙𝚛𝚒𝚗𝚝𝚜 ✖️ BOSTON based, PHX, NYC and LA rooted ✖️ Sales@BlindFoxArt.com for art inquires
+      Chicago's very own source for news, weather, sports & entertainment. Snapchat � wgntv
     location: "United States"
-    followers: 13308
-    engagement: 521
-    commentsToLikes: 0.039585
-    id: ck5ztx91z1adr0i14rm2ji6dq
-    verified: false
-    hashtags: "#work, #art, #interiordesign, #picoftheday"
-  - username: "palmaandpartners"
-    fullname: >-
-      P A  L   M    A
-    bio: >-
-      Evolutionary Architecture
-    location: "United States"
-    followers: 10324
-    engagement: 169
-    commentsToLikes: 0.007918
-    id: ck0vux0jimjrh0i19ext3pvht
-    verified: false
-    hashtags: "#palmaandpartners, #natoheadquarters, #architecturedaily, #architecturelovers"
+    followers: 167714
+    engagement: 68
+    commentsToLikes: 0.023262
+    id: ck6tnl143a26m0j71bqpwgrv6
+    verified: true
+    hashtags: "#wgn, #chicago, #wgnmorningnews, #repost"
   - username: "chiarchitecture"
     fullname: >-
       Chicago Architecture Center
     bio: >-
       Exhibits, 75+ tours and the #1 river cruise. We help you discover the secrets and stories behind Chicago's most beautiful buildings. #ChiArchitecture
     location: "United States"
-    followers: 93582
-    engagement: 254
-    commentsToLikes: 0.010110
+    followers: 99920
+    engagement: 238
+    commentsToLikes: 0.011067
     id: ck0tu43au5jl40i19poifpg6y
     verified: false
     hashtags: ""
-  - username: "matt.jwood"
+  - username: "silkandraven"
     fullname: >-
-      Matt Wood
+      Morgan Wisted
     bio: >-
-      Newcastle 🇬🇧 | Chicago 🇺🇸 @newcastlevisuals
+      interior design + architecture pupil sustainable style chicago - nashville e: morgan@silkandraven.com
     location: "United States"
-    followers: 8571
-    engagement: 850
-    commentsToLikes: 0.032121
-    id: ck5cgwd6ypnzn0i1127tw7511
+    followers: 30224
+    engagement: 214
+    commentsToLikes: 0.054877
+    id: ck6tizdv21pza0j71pq8eheht
     verified: false
-    hashtags: "#windycity, #lifeofchicago, #street, #all2epic"
+    hashtags: "#toteme, #noguchi, #hmconscious, #interiordesign"
+  - username: "nick_ulivieri"
+    fullname: >-
+      Nick Ulivieri
+    bio: >-
+      I like my verticals parallel, skies wild, and hanging above Chicago. Shooting structures & architecture is my profession. ✶ ✶ ✶ ✶ 📧: nick@nuphoto.com
+    location: "United States"
+    followers: 31044
+    engagement: 361
+    commentsToLikes: 0.022761
+    id: ck0u22vdmyr380i1904xtwmk0
+    verified: false
+    hashtags: "#snokeh, #chi, #ilwx, #banff"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food TikTok Influencers In New York in 2023
+title: Top 10 Food TikTok Influencers In New York In 2023
 description: >-
-  Find top food TikTok influencers in New York in 2023. Most popular hashtags: #fyp #food #newyork #foryou.
+  Find top food TikTok influencers in New York in 2023. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
-hits: 178
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform has 178 TikTok influencers like this in New York, United States for you to work with.
+hits: 168
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 168 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "claudiaadelicia"
+  - username: "stephen__gaon"
     fullname: >-
-      Claudia Adelicia
+      Stephen__Gaon
     bio: >-
-      Just be cool. Don’t be all like, uncool. THANK YOU FOR 45K!!! ❤️🤙🏼🤟🏼🎉
+      Spread positivity
     location: "United States"
-    followers: 45600
-    engagement: 889
-    commentsToLikes: 0.073841
-    id: ckd6z4ghpxtgk0j23g55lbzwq
+    followers: 3166
+    engagement: 556
+    commentsToLikes: 0.134388
+    id: ckblgeopma3400j23kimbjelp
     verified: false
-    hashtags: "#bbmas, #problemsolved, #horrortok, #footlongshuffle"
-  - username: "sandrac411"
+    hashtags: "#jiujitsu, #music, #foryou, #foryoupage"
+  - username: "duragboy_nyc"
     fullname: >-
-      Sandra
+      jayjay_2time
     bio: >-
-      “ I feel like I’m taking crazy pills” — Mr. Mugatu
+      https://thecoldestwater.com/?ref=johnjacksonii NYC💯🤟🏽 FRED🌀🌀
     location: "United States"
-    followers: 32200
-    engagement: 422
-    commentsToLikes: 0.018904
-    id: ckb9lyfmferdd0j238e5lmllr
+    followers: 90300
+    engagement: 986
+    commentsToLikes: 0.066902
+    id: ckb9g3zps4snz0j23q5cy6z3i
     verified: false
-    hashtags: "#tiktok, #ticktok, #mac, #viral"
-  - username: "justtheyip"
+    hashtags: "#funny, #gemini, #fyp, #foryourpage"
+  - username: "zainebharoonn"
     fullname: >-
-      Emily Yip
+      zaineb
     bio: >-
-      PDX NY updates are posted on my IG @emilychengyip THANK U FOR ALL THE SUPPORT
+      
     location: "United States"
-    followers: 18000
-    engagement: 887
-    commentsToLikes: 0.025864
-    id: ck9rev68f40s80j78i4o29obu
+    followers: 5283
+    engagement: 860
+    commentsToLikes: 0.095292
+    id: ckbexsu21i9pa0j236bk3lig2
     verified: false
-    hashtags: "#foryou, #explore, #fypage, #food"
-  - username: "mera_carlsjrangelgirl"
+    hashtags: "#newyork, #nyc, #recipe, #fyp"
+  - username: "dannyvegacomedy"
     fullname: >-
-      Mera
+      danny vega 
     bio: >-
-      I eat glass and I lie. Twitter: @iwasbornaclown
+      known for eating over the sink Podcast: AITApod.com Twitter: @holyduck
     location: "United States"
-    followers: 96400
-    engagement: 1785
-    commentsToLikes: 0.029229
-    id: ckavltyoyvc0e0j23lbelbri8
+    followers: 83600
+    engagement: 1109
+    commentsToLikes: 0.026920
+    id: ck984osy4pakr0j78i4kvus71
     verified: false
-    hashtags: "#spiritualwake, #light, #familydinner, #nyc"
+    hashtags: "#funny, #comedy, #joke, #humor"
+  - username: "andrea8km"
+    fullname: >-
+      Andrea8km
+    bio: >-
+      IG: Andrea8k 👩‍👦 🇨🇴 🇲🇽 📍NY
+    location: "United States"
+    followers: 3497
+    engagement: 446
+    commentsToLikes: 0.041886
+    id: ckbwflp53208l0j23j4ubvmn6
+    verified: false
+    hashtags: "#duet, #fyp, #colombia, #peanutbutter"
   - username: "nycandg"
     fullname: >-
       NYC_Gyro
     bio: >-
       🥙New York Chicken And Gyro 🥙 📍Canoga Park 📍Hollywood 📍West
     location: "United States"
-    followers: 47800
-    engagement: 389
-    commentsToLikes: 0.016214
+    followers: 47300
+    engagement: 406
+    commentsToLikes: 0.017521
     id: ck80oalengdmx0j78j4ai2x70
     verified: false
-    hashtags: "#fyp, #eathalal, #halal, #xyzbca"
-  - username: "doseofvitaminmc"
+    hashtags: "#xyzbca, #fyp, #halal, #food"
+  - username: "sophiaxo222"
     fullname: >-
-      Marycruz🦋🖤
+      Sophia
     bio: >-
-      your daily dose of vitamin MC 🥴 21 | LA
+      
     location: "United States"
-    followers: 60500
-    engagement: 1718
-    commentsToLikes: 0.017440
-    id: ckbqpizstad0k0j231hsqhh7a
+    followers: 14000
+    engagement: 1527
+    commentsToLikes: 0.005403
+    id: ck9a4kl5ruvxl0j78w3a3cz2k
     verified: false
-    hashtags: "#travel, #recipe, #cooking, #california"
-  - username: "liahyoo"
+    hashtags: "#food, #jatt, #trending, #newyorkcity"
+  - username: "nicki.boi"
     fullname: >-
-      Liah Yoo
+      Nicholas
     bio: >-
-      #over30club jumping on tiktok after seeing gen Zs damaging their skin
+      New York, BK Italian🇮🇹 Snapchat: cumbanicola Follow my insta!😁
     location: "United States"
-    followers: 134000
-    engagement: 955
-    commentsToLikes: 0.013573
-    id: cka0w9h851xgs0i78erf14yak
+    followers: 253700
+    engagement: 1858
+    commentsToLikes: 0.011362
+    id: ck8qoxx0712eq0j78okcz8vgt
+    verified: false
+    hashtags: "#viral, #fyp, #foryoupage, #italian"
+  - username: "starting9"
+    fullname: >-
+      starting9
+    bio: >-
+      The Number one baseball podcast in the world
+    location: "United States"
+    followers: 239700
+    engagement: 1545
+    commentsToLikes: 0.009595
+    id: ckb9r6n1enfdk0j23vugfzoe0
     verified: true
-    hashtags: "#skincareroutine, #acnetips, #acne, #antiaging"
-  - username: "matthew.algoo"
+    hashtags: "#baseball, #fail, #fyp, #foryoupage"
+  - username: "moesafa"
     fullname: >-
-      matthew.algoo
+      moesafa
     bio: >-
-      Real Estate Agent in NYC Instagram: @Matthew.Algoo
+      🇱🇧 27 NYC 🗽
     location: "United States"
-    followers: 4898
-    engagement: 475
-    commentsToLikes: 0.043134
-    id: ckb9asmhmw0ef0j233xpqwc08
+    followers: 14800
+    engagement: 632
+    commentsToLikes: 0.048534
+    id: ckai4kwmsoc9a0i786b44ww0a
     verified: false
-    hashtags: "#home, #realestate, #brooklyn, #newyork"
-  - username: "getbuckets_et"
-    fullname: >-
-      ET
-    bio: >-
-      NYC 🗽💫 KING OF QUEENS 👑 💯 HOOPER | COMEDIAN | LIVING GOAT GET ME TO 50K‼️📈
-    location: "United States"
-    followers: 43200
-    engagement: 1100
-    commentsToLikes: 0.038656
-    id: ckcdsx0ngdka30j23jl6kvrzl
-    verified: false
-    hashtags: "#bronx, #tiktok, #mlb, #nyc"
-  - username: "sarhodgson"
-    fullname: >-
-      Sarah Hodgson
-    bio: >-
-      Welcome to NYC Tik Tok ;) insta: @sar.hodgson
-    location: "United States"
-    followers: 105400
-    engagement: 1573
-    commentsToLikes: 0.010267
-    id: ckd6gsbyx93qz0j23gtzk71z2
-    verified: false
-    hashtags: "#party, #gossipgirl, #girl, #food"
+    hashtags: "#foryou, #islam, #muslim, #arabtiktok"
 ---

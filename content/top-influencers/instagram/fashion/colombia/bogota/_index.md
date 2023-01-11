@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Bogotá in 2023
+title: Top 10 Fashion Instagram Influencers In Bogotá In 2023
 description: >-
-  Find top fashion Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #fashion #bogota #moda.
+  Find top fashion Instagram influencers in Bogotá in 2023. Most popular hashtags: #fashion #colombia #bogota #travel.
 platform: Instagram
-hits: 72
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 72 Instagram influencers like this in Bogotá, Colombia for you to work with.
+hits: 58
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 58 Instagram influencers like this in Bogotá, Colombia for you to collaborate.
 profiles:
-  - username: "juanpablosocarras"
+  - username: "_omnia.x"
     fullname: >-
-      Juan Pablo Socarrás Yani.
+      O M N I A
     bio: >-
-      Diseñador Latino 📍#Bogotá Consultor| Emprendedor social | Creativo | Embajador de Samsung | @socarrasofficial ///
+      Contacto y publicidad DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴
     location: "Colombia"
-    followers: 20946
-    engagement: 429
-    commentsToLikes: 0.088828
-    id: ckap8vohnq3nm0i78y80kpg6a
+    followers: 102604
+    engagement: 459
+    commentsToLikes: 0.120064
+    id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#bogota, #covid19, #fashion, #galaxyzflip"
-  - username: "nataliagw"
+    hashtags: "#vibetones, #sonyalphacolombia, #insomniamag, #777luckyfish"
+  - username: "ramvidzapata"
     fullname: >-
-      
+      🆁🅰🅼🆅🅸🅳
     bio: >-
-      also at @rio_representa btá, colombia
+      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ 🍑@jjmalibu Ambassasor 🇻🇪Living in Bogota🇻🇪
     location: "Colombia"
-    followers: 7162
-    engagement: 752
-    commentsToLikes: 0.067563
-    id: ck0w38bhrs3au0i19wtad8pnd
+    followers: 65605
+    engagement: 280
+    commentsToLikes: 0.016344
+    id: ck6u070hhdyy10j71x6lygpcd
     verified: false
-    hashtags: "#puppies, #madeincolombia, #dogsofinstagram, #hechoencolombia"
-  - username: "lizmendietav"
+    hashtags: "#men, #photography, #inkedmen, #medellin"
+  - username: "valentt24"
     fullname: >-
-      ★𝕃𝕚𝕫 𝕄𝕖𝕟𝕕𝕚𝕖𝕥𝕒 𝕍.🇨🇴Amazon Girl🐍
+      Valentina Aya
     bio: >-
-      💖Just love & reality around here 🐆 @desafiocaracol 💃Model/Tvhost/Actress 👩🏽‍💼Lawyer 🏊🏽‍♀️ Ambassador @activebodytech 📲 @representacionesprimemodels
+      𝗕𝗶𝗸𝗲𝗿 𝗚𝗶𝗿𝗹💫 // 𝗠𝗼𝘁𝗼𝘃𝗲𝗹𝗼𝗰𝗶𝗱𝗮𝗱🏍 𝗣𝘂𝗯𝗹𝗶𝗰𝗶𝗱𝗮𝗱 𝗗𝗠 📩 🚘 @q7_graypower @sloowyellowcab
     location: "Colombia"
-    followers: 41982
-    engagement: 152
-    commentsToLikes: 0.047199
-    id: ckf5uc17kkbya0j23xmfo0snz
-    verified: true
-    hashtags: "#tvhost, #healthylifestyle, #tbt, #fashionmodel"
+    followers: 23402
+    engagement: 986
+    commentsToLikes: 0.010543
+    id: ck8sxbcobgrqd0j7822ggf7go
+    verified: false
+    hashtags: "#motorcycle, #beach, #piscina, #colombiana"
+  - username: "angiemusicofficial"
+    fullname: >-
+      ΛИGIE
+    bio: >-
+      🇨🇴
+    location: "Colombia"
+    followers: 7875
+    engagement: 474
+    commentsToLikes: 0.097852
+    id: ckf5oq0uu3b7c0j23eeyuvrbz
+    verified: false
+    hashtags: "#bogota, #cover, #allaboutvocals, #hotvocals"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
     bio: >-
       ❌PHOTOGRAPHY❌ 📍Bogotá, Colombia 🇨🇴 PORTRAITS, LIFE STYLE, FASHION, BEAUTY AND CELEBRITY PHOTOGRAPHER SESIONES-COLABORACIONES AL DM📸
     location: "Colombia"
-    followers: 46541
-    engagement: 761
-    commentsToLikes: 0.037433
+    followers: 51747
+    engagement: 827
+    commentsToLikes: 0.034807
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#fotografia, #foto, #reels, #zombie"
-  - username: "julianatomann"
+    hashtags: "#tips, #tipsfoto, #vivov20, #ma"
+  - username: "paudazzle"
     fullname: >-
-      𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙀𝙍 𝙒𝙊𝙈𝙀𝙉
+      🇵 🇦 🇺 🇩 🇦 🇿 🇿 🇱 🇪
     bio: >-
-      ¡𝗔𝘆𝘂𝗱𝗼 𝗮 𝗹𝗮𝘀 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝘀 𝗮 𝗴𝗲𝗻𝗲𝗿𝗮𝗿 𝘃𝗮𝗿𝗶𝗮𝘀 𝗳𝘂𝗲𝗻𝘁𝗲𝘀 𝗱𝗲 𝗶𝗻𝗴𝗿𝗲𝘀𝗼! 👨‍👩‍👦‍👦|ƒαмιℓια 🌡|Eɴғᴇʀᴍᴇʀᴀ 🇨🇴|𝘽𝙊𝙂-𝘾𝙊𝙇 🙏🏻|𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜 #bogota #love #mujer #fuerza
+      🖤ʟɪғᴇsᴛʏʟᴇ/ᴛᴇᴄʜ & ᴠɪᴅᴇᴏɢᴀᴍᴇs 🎮 ɢᴀᴍᴇʀ/sᴛʀᴇᴀᴍᴇʀ 💥 ᴛɪᴋᴛᴏᴋ: +160ᴋ 👾 ʜᴏsᴛ @lageekweb 🚀sᴘᴏɴsᴏʀ: @speedlogiccomputadores 💚ʙʀᴀɴᴅ/ᴅᴍ
     location: "Colombia"
-    followers: 16266
-    engagement: 680
-    commentsToLikes: 0.111989
-    id: ck14ltbuxwdna0i19naqt0jed
+    followers: 53448
+    engagement: 120
+    commentsToLikes: 0.097499
+    id: ck8t93d4smtm30j785mznfiht
     verified: false
-    hashtags: "#beauty, #follow, #entrepreneur, #love"
-  - username: "david_artpe"
+    hashtags: "#instagram, #photography, #cartagena, #ecuador"
+  - username: "juanpablosocarras"
     fullname: >-
-      David Peñalver Art
+      Juan Pablo Socarrás Yani.
     bio: >-
-      Studygram/ Letras Bonitas “Que todo lo que respire alabe a Dios" Usa mi hashtag #David_artp Suscríbete a mi canal de YouTube:💖
+      Diseñador 📍#Bogotá Diseño con propósito. Consultor| Emprendedor social | Creativo | Socarrás | Historias hechas a mano | ///
     location: "Colombia"
-    followers: 25229
-    engagement: 1006
-    commentsToLikes: 0.375321
-    id: ck6tny43sb1al0j712gnsb9rm
+    followers: 33543
+    engagement: 310
+    commentsToLikes: 0.094952
+    id: ckap8vohnq3nm0i78y80kpg6a
     verified: false
-    hashtags: "#apunteslindos, #studynotes, #brushlettering, #letteringnewbie"
-  - username: "maferestrepo_b"
-    fullname: >-
-      Mafe Restrepo
-    bio: >-
-      Amo estar en @generacionpentecostal💙 🙋🏻‍♀️Soy una ALELUYA FELIZ💫 Envíos nacionales e internacionales✨💕 Mi marca de Ropa: MR👗
-    location: "Colombia"
-    followers: 47612
-    engagement: 2108
-    commentsToLikes: 1.394409
-    id: ck14kf2rfp7lp0i198xzdke2p
-    verified: false
-    hashtags: "#bendiciones, #verdade, #girls, #amorincondicional"
-  - username: "andeezeta"
-    fullname: >-
-      Andee Zeta
-    bio: >-
-      Artist ⚡️ Producer ⚡️Song Writer 2 x Grammy winner Welcome to my life 🎶😛🐶😸🍺🎵 Escucha: LO BONITO ES SIMPLE👇💣🔥
-    location: "Colombia"
-    followers: 42906
-    engagement: 158
-    commentsToLikes: 0.097245
-    id: ck5he8j3yrlyk0i11jqo3ndsu
-    verified: true
-    hashtags: "#selfie, #tattoos, #sunday, #newmusic"
-  - username: "jessica.zabala"
-    fullname: >-
-      Jessica Zabala
-    bio: >-
-      📍Bogotá Cree en ti 🍀✨ Insta Tips | Beauty | Fashion | Lifestyle Tiktok | jessicazabalaa
-    location: "Colombia"
-    followers: 89469
-    engagement: 1163
-    commentsToLikes: 0.149957
-    id: ck9wghcvxtf430j788scdohfk
-    verified: false
-    hashtags: "#blackouttuesday"
+    hashtags: "#lookdodia, #colombia, #modamasculina, #fashionstyle"
   - username: "branorozcom"
     fullname: >-
       Bran Orozco Muñoz
     bio: >-
       • Lifestyle | Graphic Designer • Fotos con iPhone 11 • Ciénaga - Bogotá - Colombia
     location: "Colombia"
-    followers: 16649
-    engagement: 459
-    commentsToLikes: 0.100064
+    followers: 16573
+    engagement: 335
+    commentsToLikes: 0.078741
     id: ck15ux3olox5w0i19y3al30ix
     verified: false
-    hashtags: "#hilton, #santamartaiscrazy, #travel, #colombia"
+    hashtags: "#colombia, #blogger, #colombiatravellers, #cienagamagdalena"
+  - username: "julianatomann"
+    fullname: >-
+      𝙀𝙈𝙋𝙍𝙀𝙉𝘿𝙀𝘿𝙊𝙍𝘼 𝘿𝙄𝙂𝙄𝙏𝘼𝙇
+    bio: >-
+      •ƒαмιℓια❤️ •#Bogota🇨🇴 •Eɴғᴇʀᴍᴇʀᴀ💉 •𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜🤲🏻 •𝙵𝚞𝚗𝚍𝚊𝚍𝚘𝚛𝚊💍@__sofiana0_ @byjulianatomann 💰𝗜𝗡𝗧𝗘𝗥𝗡𝗘𝗧=𝗗𝗜𝗡𝗘𝗥𝗢 𝗬𝗢 𝗧𝗘 𝗘𝗡𝗦𝗘𝗡̃𝗢⬇️
+    location: "Colombia"
+    followers: 15931
+    engagement: 626
+    commentsToLikes: 0.092550
+    id: ck14ltbuxwdna0i19naqt0jed
+    verified: false
+    hashtags: "#girl, #libertad, #instagood, #colombiana"
+  - username: "dd.rm"
+    fullname: >-
+      Derly Daniela
+    bio: >-
+      •Owner of: @sebastiano.shop •Tiktok: dd.rm7 164k 💌 Info : ddrm.contacto@gmail.com •@illustrator.ddrm Fashion designer/Model/YouTube #fashionstyle
+    location: "Colombia"
+    followers: 28755
+    engagement: 699
+    commentsToLikes: 0.031405
+    id: ck9has8yzdw4r0j78jiu8f2rf
+    verified: false
+    hashtags: "#modelocolombiana, #blackandwhite, #vestidodeba, #makeup"
 ---

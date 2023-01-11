@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Medellín in 2023
+title: Top 10 Models Instagram Influencers In Medellín In 2023
 description: >-
-  Find top models Instagram influencers in Medellín in 2023. Most popular hashtags: #model #medellin #colombia #picoftheday.
+  Find top models Instagram influencers in Medellín in 2023. Most popular hashtags: #model #medellin #colombia #love.
 platform: Instagram
-hits: 69
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 69 Instagram influencers like this in Medellín, Colombia for you to work with.
+hits: 65
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 65 Instagram influencers like this in Medellín, Colombia for you to connect with.
 profiles:
+  - username: "alejamontealegre16"
+    fullname: >-
+      Alejandra Montealegre
+    bio: >-
+      MAY Ex @guerreroscolombia @smartfitco Journalist - Model Medellín Publicidad al DM TikTok: alejamontealegre_16
+    location: "Colombia"
+    followers: 113390
+    engagement: 163
+    commentsToLikes: 0.047465
+    id: ck8sxh9p4he0x0j781r956pih
+    verified: false
+    hashtags: "#cabellosano, #hairstyle, #haircolor, #fitnessmotivation"
   - username: "johanaosornor"
     fullname: >-
       Johana Osorno Ruiz
     bio: >-
       • Model. Medellín 🔛 Colombia📍 If you want a true change, walk differently.
     location: "Colombia"
-    followers: 61522
-    engagement: 106
-    commentsToLikes: 0.036288
+    followers: 60813
+    engagement: 104
+    commentsToLikes: 0.037843
     id: ck55ono068qgd0i11hw4iorpz
     verified: false
-    hashtags: "#styleoftheday, #homes, #encasita, #nofilter"
+    hashtags: "#work, #model, #leonisa, #lingeri"
   - username: "dariannyurdanetaa"
     fullname: >-
       Darianny Urdaneta ✨
     bio: >-
-      
+      Creadora de contenido🔥 TIKTOK (+600k)
     location: "Colombia"
-    followers: 22915
-    engagement: 1674
-    commentsToLikes: 0.039397
+    followers: 25127
+    engagement: 1453
+    commentsToLikes: 0.035541
     id: ckaozqbwqmxui0i783l00ezyg
     verified: false
-    hashtags: "#photographe, #pasion, #retratosp, #posarencasa"
-  - username: "lamadridd"
+    hashtags: "#model, #medellin, #photographe, #pasion"
+  - username: "danitamayo11"
     fullname: >-
-      @lamadridd 🇨🇴
+      Daniela Tamayo
     bio: >-
-      @austinbrandmadrid
+      Modelo ★ B e a c h • L o v e r ★ @coconutswimsuits 🌴 @BangEnergy Select Ambassador ✨ ⬇️🔥EXCLUSIVE CONTENT🔥⬇️
     location: "Colombia"
-    followers: 109513
-    engagement: 103
-    commentsToLikes: 0.055066
-    id: ckf5v58ehncd90j23rxlfjao8
-    verified: false
-    hashtags: "#girl, #model, #quedateencasa, #medellin"
-  - username: "e1evenmusic_"
+    followers: 910815
+    engagement: 82
+    commentsToLikes: 0.041899
+    id: ck5ccc8d6h3il0i11zgx8adfr
+    verified: true
+    hashtags: "#reels, #reelsinstagram, #bangenergy, #energydrink"
+  - username: "ccarlosalvarez"
     fullname: >-
-      E1EVEN
+      Carlos Alvarez
     bio: >-
-      Pereira - Colombia. 🇨🇴 Contacto Para Contrataciones 👇🏼 📥 e11evenmusicofficial@gmail.com Sigueme en mi Fanpage de Facebook 👇🏼⚡
+      🎬🎥 ACTOR 🤵🏼‍♂️🎤 Host 🗣 Trilingüe: 🇺🇸🇧🇷🇪🇸 📍Bogota, Colombia 👔 Empresario
     location: "Colombia"
-    followers: 7778
-    engagement: 2431
-    commentsToLikes: 0.084943
-    id: ckaoyz0z2jni20i78dad9m6y2
+    followers: 170353
+    engagement: 108
+    commentsToLikes: 0.029346
+    id: ck5zvsqih4urm0i14wgrcr7j2
     verified: false
-    hashtags: "#boy, #melodias, #musica, #moments"
-  - username: "cieloemyli"
+    hashtags: "#love, #nature, #gym, #followforfollow"
+  - username: "theonlysanto"
     fullname: >-
-      Cielo Emyli
+      SANTO
     bio: >-
-      🌸Actriz 🌸Bailarina urbana 🌸Modelo 🌸#eradigital Mi canal de Youtube junto a @lil.brucelee
+      Fashion Designer Dancer Art Director “The power of create is as perfect as a Diamond”
     location: "Colombia"
-    followers: 16485
-    engagement: 312
-    commentsToLikes: 0.051953
-    id: ck5hempy0tpnd0i111miiyufz
+    followers: 38120
+    engagement: 300
+    commentsToLikes: 0.015112
+    id: ck6uap9z14uuf0j71kyp6z5b1
     verified: false
-    hashtags: "#entrepreneur, #cieloemyli, #actress, #medellin"
+    hashtags: "#fitnesslife, #showproduction, #style, #queerart"
   - username: "carolinafrancov"
     fullname: >-
       Carolina Franco Villegas
     bio: >-
       ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
     location: "Colombia"
-    followers: 60698
-    engagement: 462
-    commentsToLikes: 0.046698
+    followers: 64316
+    engagement: 540
+    commentsToLikes: 0.058125
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#espnbiketeam, #gorigogo, #ciclismo, #cycling"
-  - username: "paudazzle"
+    hashtags: "#cyclinglife, #ciclismo, #gorigogooficial, #cycling"
+  - username: "vane_eslava"
     fullname: >-
-      🇵 🇦 🇺 🇩 🇦 🇿 🇿 🇱 🇪
+      Vane Eslava
     bio: >-
-      👩🏼‍💻ʟɪғᴇsᴛʏʟᴇ/ᴛᴇᴄʜ & ᴠɪᴅᴇᴏɢᴀᴍᴇs 🎮 ɢᴀᴍᴇʀ ᴘʀᴏғᴇsɪᴏɴᴀʟ 👾 ʜᴏsᴛ ᴇɴ @lageekweb 🎙️sᴛʀᴇᴀᴍᴇʀ FB.GG/PauDazzle 🚀sᴘᴏɴsᴏʀ: @speedlogiccomputadores 💚ᴘᴜʙʟɪᴄɪᴅᴀᴅ/ᴅᴍ
+      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
     location: "Colombia"
-    followers: 53857
-    engagement: 114
-    commentsToLikes: 0.094028
-    id: ck8t93d4smtm30j785mznfiht
+    followers: 43834
+    engagement: 236
+    commentsToLikes: 0.026712
+    id: ckf5su7thg7ru0j23e5gwo5dq
     verified: false
-    hashtags: "#paudazzle, #cartagena, #photo, #fitness"
-  - username: "__cejas_"
+    hashtags: "#model, #portrait, #love, #instagram"
+  - username: "jhulianaorozcog"
     fullname: >-
-      👑𝒶𝓃𝒹𝓇ℯ𝓈 ℊℴ𝓃𝓏𝒶𝓁ℯ𝓏👑          
+      Jhuliana Orozco💟
     bio: >-
-      MEDELLIN - COLOMBIA | 🇨🇴 Meta-INFINITA!!🔥🚀 ¡16 añitos!🤪🔞 Publicidad al DM!📲 Creador de @__manhattan_barber_shop
+      🗣🎥Comunicación social Model - Gym lover💪🏼 P O S I T I V E👀 M I N D🧠✨ 🇨🇴Medellín
     location: "Colombia"
-    followers: 21173
-    engagement: 1640
-    commentsToLikes: 0.107354
-    id: ckf5lmyxsq5ex0j23n1tlccuj
+    followers: 66255
+    engagement: 294
+    commentsToLikes: 0.023423
+    id: ckf5mh82wtsk40j23oph0ln3h
     verified: false
-    hashtags: "#tiktok, #antioquia, #jajaja, #medellincolombia"
-  - username: "teamfelinocolombia"
+    hashtags: "#happy, #pic, #instagram, #febrero"
+  - username: "esthefanyupc"
     fullname: >-
-      JULI 💕
+      Esthefany Pérez
     bio: >-
-      Maria Fernanda Yepes🇨🇴Actriz 🎭 •Cuenta oficial👉🏻 @mariafelina 😻 •Amar es admirar con el corazón,admirar es amar con la mente❣️ •CEO:@sjuliana23 🦄
+      𝘋𝘢𝘶𝘨𝘩𝘵𝘦𝘳 𝘰𝘧 𝘎𝘰𝘥 𝕚𝕟𝕔𝕝𝕦𝕤𝕠 𝕒𝕝 𝕗𝕚𝕟𝕒𝕝 𝕕𝕖 𝕝𝕒 𝕙𝕚𝕤𝕥𝕠𝕣𝕚𝕒 𝔻𝕀𝕆𝕊 𝕀ℕ𝕀ℂ𝕀𝔸 𝕆𝕋ℝ𝔸 🌻Psicoterapeuta @psico.renacer ”y la mayor de las tres es el AMOR” ‭‭1 Co‬13:13‬ ✨
     location: "Colombia"
-    followers: 11065
-    engagement: 417
-    commentsToLikes: 0.048421
-    id: ck5qbrv4jn3vc0i11hl6nivbb
+    followers: 8711
+    engagement: 88
+    commentsToLikes: 0.056293
+    id: ck9wfbh9qo40v0j78t56p1qpg
     verified: false
-    hashtags: "#fans, #model, #like, #photooftheday"
-  - username: "alejamontealegre16"
-    fullname: >-
-      Alejandra Montealegre
-    bio: >-
-      May 🎓Journalist - Model 🐍 Ex integrante @guerreroscolombia 📍Medellín 📩 Publicidad al DM
-    location: "Colombia"
-    followers: 108014
-    engagement: 190
-    commentsToLikes: 0.061828
-    id: ck8sxh9p4he0x0j781r956pih
-    verified: false
-    hashtags: "#goodvibes, #fitness, #training, #minicover"
+    hashtags: "#travel, #amor, #coffee, #bogota"
 ---

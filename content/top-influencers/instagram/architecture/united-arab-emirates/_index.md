@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In United Arab Emirates in 2023
+title: Top 10 Architecture Instagram Influencers In United Arab Emirates In 2023
 description: >-
-  Find top architecture Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #mydubai #dubai #architecture #visitdubai.
+  Find top architecture Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #architecture #dubai #mydubai #dubailife.
 platform: Instagram
-hits: 40
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 40 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 39
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 39 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
-  - username: "mashiyaneh"
-    fullname: >-
-      Mashiyaneh
-    bio: >-
-      ⚜️GEM Official DBA Ambassador .Knowledge Curator .Consultant .Doctor to be .MBA .B.A Architecture .Knowledge Blogger .W93FSJ 👩🏻‍💻🏋🏻‍♀️👩🏽‍🎤👠📚
-    location: "United Arab Emirates"
-    followers: 27341
-    engagement: 322
-    commentsToLikes: 0.170188
-    id: ckaotswh1xd9r0i7830l8gyvt
-    verified: false
-    hashtags: "#challengeaccepted, #mashiyaneh, #ruthbaderginsburg"
   - username: "pk.prakashphotography"
     fullname: >-
       Prakash (prakash photography)
     bio: >-
       Next Destination📯let's see Photographer Content Creator Speaker Instructor Traveler, Landscape, Interior,Architecture #photographer #dubai
     location: "United Arab Emirates"
-    followers: 12832
-    engagement: 709
-    commentsToLikes: 0.047816
+    followers: 12600
+    engagement: 662
+    commentsToLikes: 0.048297
     id: ck0vyekp13l4w0i19o015lauw
     verified: false
-    hashtags: "#kuwait, #longexpohunter, #icelandic, #editing"
+    hashtags: "#earth, #igtones, #fromabove, #photooftheday"
   - username: "dubaiangle"
     fullname: >-
       DUBAIANGLE
     bio: >-
-      🔸 #dubaiangle 📍Dubai🇦🇪 - 📍Delhi🇮🇳 🔸Urban Landscape | Architecture 🔹If its usual, you probably wont find it here 😎
+      🔸 #dubaiangle 📍Dubai🇦🇪 🔸Urban Landscape | Architecture | Cityscape 🔹If its usual, you probably won't find it here 😎 All pictures are mine ©️
     location: "United Arab Emirates"
-    followers: 15004
-    engagement: 543
-    commentsToLikes: 0.046797
+    followers: 15062
+    engagement: 419
+    commentsToLikes: 0.030858
     id: ckaor7g87m1mj0i783nv55zm3
     verified: false
-    hashtags: "#igbest, #dubai, #burjkhalifa, #picsdubai"
-  - username: "_mustafasyed_"
-    fullname: >-
-      Mustafa Syed | MSP
-    bio: >-
-      Aspiring Photographer + Videographer Landscapes | Architecture | Automobiles // © Mustafa Syed @msptik on Tiktok for BTS McLaren 720S YouTube ⬇️
-    location: "United Arab Emirates"
-    followers: 17571
-    engagement: 393
-    commentsToLikes: 0.051588
-    id: ck136y40v8twu0i19kaauuqz2
-    verified: false
-    hashtags: "#arabmoneyofficial, #passionpassport, #cars, #supercarsofinstagram"
+    hashtags: "#whatsondubai, #timeoutdubai, #mydubai, #simplydubai"
   - username: "ahmad_kaddourah"
     fullname: >-
       AHMAD KADDOURAH | أحمد قدوره
     bio: >-
       |FINE ART ARCHITECTURE | |NIKON CAMERA| |Architect Engineer | PAL 🇵🇸| UAE 🇦🇪 | FV🇮🇹
     location: "United Arab Emirates"
-    followers: 3400
-    engagement: 666
-    commentsToLikes: 0.103086
+    followers: 3974
+    engagement: 992
+    commentsToLikes: 0.117984
     id: ck8t9ctxznmkh0j7853p79zan
     verified: false
-    hashtags: "#ahmadkaddourah, #instagramphotography, #amazingphoto, #unitedarabemirates"
+    hashtags: "#amazingphotography, #amazing, #architecture, #architexture"
   - username: "danyeidphotography"
     fullname: >-
       Dany Eid
     bio: >-
-      Dubai Expo2020 official photographer Architecture, Cityscape & Landscape Photographer Ambassador at Carl Zeiss, fstopgear & Nisi Filters
+      @expo2020dubai Official Photographer Architecture, Cityscape & Landscape Photographer Ambassador at Carl Zeiss, fstopgear & Nisi Filters
     location: "United Arab Emirates"
-    followers: 62367
-    engagement: 149
-    commentsToLikes: 0.019970
+    followers: 63642
+    engagement: 209
+    commentsToLikes: 0.018432
     id: ck13d4bwv3m550i1926wsydhh
     verified: false
-    hashtags: "#capturethecreative, #shadows, #luxurylifestyle, #kingdom"
+    hashtags: "#planet, #nightphotography, #uaeoffroaders, #adventuretime"
   - username: "khd_uae"
     fullname: >-
       Khalid Al Hammadi خالد الحمادي
     bio: >-
       - Chemical Engineer - In love with Nature and Architecture
     location: "United Arab Emirates"
-    followers: 43755
-    engagement: 1625
-    commentsToLikes: 0.077878
+    followers: 51671
+    engagement: 1720
+    commentsToLikes: 0.074952
     id: ck14i2t3ydcwo0i191vfqfrae
     verified: false
-    hashtags: "#jais, #rasalkhaimah, #alain, #natgeoyourshot"
-  - username: "motaz_assi"
+    hashtags: "#rasalkhaimah, #fantastic, #igcolor, #igbest"
+  - username: "mahmoud.mar3i"
     fullname: >-
-      Assi - Dubai📍- Photographer
+      Mahmoud Marei
     bio: >-
-      All photos are taken by me For order ⬇️
+      🇦🇪UAE based 📷 Photography is my passion 📷Nikon instructor I Nisi & Tokina brand ambassador I city & Architecture I B&W I landscape I astrophotogr
     location: "United Arab Emirates"
-    followers: 10706
-    engagement: 1466
-    commentsToLikes: 0.119496
-    id: ck8tatfd7szdy0j78xu3qeple
+    followers: 25992
+    engagement: 482
+    commentsToLikes: 0.050185
+    id: ck14kej65p4vc0i19tq846fdg
     verified: false
-    hashtags: "#creative, #foodblog, #earthfocus, #gameoftones"
-  - username: "sultanphotoz"
+    hashtags: "#my, #nikon, #italy, #newyear2020"
+  - username: "thehauteinteriors"
     fullname: >-
-      Sultan | سلطان
+      T.H.I. INTERIORS
     bio: >-
-      •Photography 📸 | Coffee ☕️ •Sharjah 🇦🇪📍 •Owner of @sphotoz.ae
+      INTERIOR DESIGN | ARCHITECTURE 📍Chicago Projects in NY | Dubai | Kuwait Featured in Harper’s Bazaar Interiors 📧 info@thi-interiors.com 📱+17084655596
     location: "United Arab Emirates"
-    followers: 2581
-    engagement: 2054
-    commentsToLikes: 0.261690
-    id: ck8tbquy2wrf60j789z9anj2z
+    followers: 193144
+    engagement: 221
+    commentsToLikes: 0.009261
+    id: ck6uidmn7egv80j71bqjpqh21
     verified: false
-    hashtags: "#canonphotos, #focalmarked, #arkiromantix, #fantastic"
+    hashtags: "#mydubai, #chicago, #beiruting, #interiordesigner"
+  - username: "arturdainese"
+    fullname: >-
+      ARTÙR DAINESE
+    bio: >-
+      🌍Live to travel, travel to live 🦂 📍Dubai 🇦🇪 ⚜️Brand founder ⬇️ 🐍@arturdainese_python 👘@arturdainese_kimono 📩DM for collab 🗣🇮🇹🇷🇺🇺🇸🇪🇸
+    location: "United Arab Emirates"
+    followers: 44991
+    engagement: 114
+    commentsToLikes: 0.055049
+    id: ck6u8or55st5w0j71j727iufv
+    verified: false
+    hashtags: "#dubaimarina, #sharjah, #instagram, #like"
+  - username: "1sk1alketbi"
+    fullname: >-
+      © Salem Alketbi سالم الكتبي
+    bio: >-
+      @sk_street.fotos @1sk1arts Forensic DNA Analyst╰🇦🇪🇬🇧🇮🇹 #Dubai 👮‍♂️ 📍INTERESTS 〰️ Photography》Traveling》Art》Literature》Sports》Biology》Nature》Psychology
+    location: "United Arab Emirates"
+    followers: 27989
+    engagement: 804
+    commentsToLikes: 0.052866
+    id: ck6ugzak562a90j71mtp14esk
+    verified: false
+    hashtags: "#park, #happiness, #dubaiblogger, #bird"
   - username: "julianna_dxb"
     fullname: >-
       Julianna 📍 Dubai
     bio: >-
-      Welcome to my photo diary🎀 Dubai life 🇦🇪 & travel memories 🌍 Happy 💑💍 and 🐶 @yosh_pomsky Dubai 📸 @dubai_photoguide Brand Ambassador 👗 @ydnalabel
+      Welcome to my photo diary🎀 Dubai life 🇦🇪 & travel memories 🌍 Happy 💑💍 and 🐶 @yosh_pomsky Dubai 📸 @dubai_photoguide Brand Ambassador 👗 @ydnawomen
     location: "United Arab Emirates"
-    followers: 5632
-    engagement: 1852
-    commentsToLikes: 0.157413
+    followers: 5895
+    engagement: 1804
+    commentsToLikes: 0.149919
     id: ckap20ei5wu9t0i78nwnk9vb6
     verified: false
-    hashtags: "#instadubai, #nightscape, #dubai, #beautifulplaces"
+    hashtags: "#beautifuldestinations, #dubaiinstagram, #middleeast, #dubaimarina"
 ---

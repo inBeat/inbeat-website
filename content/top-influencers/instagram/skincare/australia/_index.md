@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Australia in 2023
+title: Top 10 Skincare Instagram Influencers In Australia In 2023
 description: >-
-  Find top skincare Instagram influencers in Australia in 2023. Most popular hashtags: #skincare #gifted #makeup.
+  Find top skincare Instagram influencers in Australia in 2023. Most popular hashtags: #skincare #makeup #texturetuesday.
 platform: Instagram
-hits: 242
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 242 Instagram influencers like this in Australia for you to pitch.
+hits: 129
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 129 Instagram influencers like this in Australia for you to contact.
 profiles:
-  - username: "prettyprogress23"
+  - username: "byemmaleah"
     fullname: >-
-      Liz Claire 😜 Sydney
+      Em | skincare + beauty
     bio: >-
-      🥰 Skincare, makeup & latin music lover 💃 Just FYI I have never taken Roaccutane/isotretinoin; I’m just tryna heal holistically 🌱
+      sydney, aus 📍 skincare / hair / beauty + everyday life 🤍 💌: emilia@cloutcommunications.com.au
     location: "Australia"
-    followers: 31436
-    engagement: 502
-    commentsToLikes: 0.060744
-    id: ck0u7ooxg5a3a0i19fnsdctdj
+    followers: 15952
+    engagement: 1913
+    commentsToLikes: 0.112932
+    id: cl4l962k3t1en0i232ak4mtb9
     verified: false
-    hashtags: "#acne, #skinpositivity, #skin, #growth"
+    hashtags: "#aveneau, #personalbestskin, #tymodryer, #tymobeauty"
   - username: "nikkiajoy"
     fullname: >-
       N I K K I A   J O Y
     bio: >-
       YouTuber | Pro MUA | Skincare Junkie🙌🏼😂 PR📧nikkiajoybusiness@gmail.com(US) or nikkia@maxconnectors.com.au(AU) Watch my latest YouTube video ⬇️✨
     location: "Australia"
-    followers: 154843
-    engagement: 149
-    commentsToLikes: 0.045309
+    followers: 151734
+    engagement: 117
+    commentsToLikes: 0.042324
     id: ck13daojs4i860i193e8dg2g8
     verified: true
-    hashtags: "#christmas, #makeup, #nikkiajoycosmetics, #skincare"
-  - username: "betha.ny_"
+    hashtags: "#biossance, #makeup, #skincare, #nikkiajoycosmetics"
+  - username: "maddysbeautytalk"
     fullname: >-
-      Bethany Doble
+      Maddy’s Beauty Blog 🌸
     bio: >-
-      Skincare | Business | Mindset Miss Tourism Metropolitan Australia 👑 @madetoinspireteam 🇿🇦🇦🇺
+      📍Sydney, Australia | Nurse 💋Makeup and Skincare Lover 💄 Reviews, Flatlays, Hauls 💌 PR/Collab: maddysbeautytalk@gmail.com or DM
     location: "Australia"
-    followers: 2673
-    engagement: 1555
-    commentsToLikes: 0.103434
-    id: ck8svvm5icv0o0j78me6z08i8
+    followers: 6630
+    engagement: 809
+    commentsToLikes: 0.239261
+    id: ck9wompi75s350j78axu4ws5q
     verified: false
-    hashtags: "#aussie, #misstourismmetropolitaninternational2019, #misstourism, #pageant"
-  - username: "olenakhamula"
+    hashtags: "#skinrituals, #makeupinspiration, #makeupcommunity, #microinfluencer"
+  - username: "leahjay_"
     fullname: >-
-      Spread Love wherever you go! 💛
+      𝘓𝘦𝘢𝘩𝘑𝘢𝘺
     bio: >-
-      Sydney, Australia Fashion | Jewellery | Skincare ✨ All enquiries | khamula.olena@outlook.com @clairdavu
+      @unclogd Founder @the_skincare_glossary Skin-ducation An honest edit of products and experiences that I love and truly represent me.
     location: "Australia"
-    followers: 143031
-    engagement: 114
-    commentsToLikes: 0.039668
-    id: ckap0h3xeq9da0i78n016ecf8
-    verified: true
-    hashtags: "#skincare, #perfumeaddict, #istilllovemyhaircut, #comfy"
-  - username: "joannafleming"
-    fullname: >-
-      Joanna Fleming
-    bio: >-
-      Full time skincare aficionado, part time amateur detective 🧐 Founder @skinfwd ✨ Podcast Host | Digital Content | Beauty Journalist
-    location: "Australia"
-    followers: 12886
-    engagement: 665
-    commentsToLikes: 0.085202
-    id: ck6uc6wkadvfw0j71ih93nv0v
+    followers: 68964
+    engagement: 182
+    commentsToLikes: 0.024016
+    id: ck0u285skz5390i19dx9ad2e6
     verified: false
-    hashtags: "#teatime, #adorechristmas, #styledwithdyson, #iso"
-  - username: "jessicaearle_model"
-    fullname: >-
-      J E S S I C A  E A R L E
-    bio: >-
-      🇦🇺CURVE MODEL @bellamanagement @bridgemodels @lovebalistarz @red11models 📍Currently in Queensland 🛒Shop my skincare label @maskedbymodels 👇🏼👇🏼👇🏼
-    location: "Australia"
-    followers: 57247
-    engagement: 300
-    commentsToLikes: 0.021321
-    id: ck6u6ky4ig72t0j715cfw8j9v
-    verified: false
-    hashtags: "#workingwithysl, #ad, #yslbeautyau, #gifted"
-  - username: "karlaroccuzzo"
-    fullname: >-
-      KARLA ROCCUZZO
-    bio: >-
-      creative director ~ @with.karla + @kynderscents makeup artist. skincare lover. bookings ~ karlaroccuzzo.com collabs ✉️ karla@maxconnectors.com.au
-    location: "Australia"
-    followers: 121453
-    engagement: 44
-    commentsToLikes: 0.039965
-    id: ck14h1vdr84nj0i19dtyzcern
-    verified: false
-    hashtags: "#wereback, #bringhairandbeautyback, #soyobsessed, #krspon"
-  - username: "xxgabikatharinaxx"
-    fullname: >-
-      Gabi Katharina
-    bio: >-
-      21.🐮 use code TRULYGK12 at the link below for 10% off some amazing skincare ✨
-    location: "Australia"
-    followers: 5421
-    engagement: 1150
-    commentsToLikes: 0.065988
-    id: ck9wdcl17f1l20j78uje5vmzu
-    verified: false
-    hashtags: "#gifted, #skincare, #ad, #coloredcontacts"
+    hashtags: "#pinkset, #leobaby, #sunglasshaul, #xoxogossipgirl"
   - username: "skincaresweets"
     fullname: >-
       Elayne
     bio: >-
-      Perth, Australia 🐨 Fragrance free skincare, SPF & snack advocate Combo/oily - PIH - eczema 💌 PR/Collab: elayne.stewart.02@gmail.com
+      25 Perth, Australia Cosmetic nurse @facebyelayne I love myself, skincare & sweets
     location: "Australia"
-    followers: 3153
-    engagement: 1071
-    commentsToLikes: 0.430103
+    followers: 2854
+    engagement: 875
+    commentsToLikes: 0.324866
     id: ckaor2boylfam0i786kjd6njq
     verified: false
-    hashtags: "#whatsnewwednesday, #gifted, #texturetuesday, #suncreamsundae"
+    hashtags: "#wtbeautytester, #niod, #texturetuesday, #gifted"
+  - username: "melaniegrantskin"
+    fullname: >-
+      M E L A N I E   G R A N T
+    bio: >-
+      Australian Skin Expert Sydney, Melbourne, Los Angeles and Paris 💕 Official Skin Expert for CHANEL ✨ Shop @skincareedit .com
+    location: "Australia"
+    followers: 101330
+    engagement: 117
+    commentsToLikes: 0.031567
+    id: ck0tw6npre9660i19jsvejq9r
+    verified: false
+    hashtags: "#skinbymelaniegrant, #lelift, #adamgrant"
+  - username: "madeleineedwards"
+    fullname: >-
+      Maddie Edwards
+    bio: >-
+      • 26 • Melbourne, AUS • Beauty and skincare addicted girl trying to force you to love your skin exactly how it is xx
+    location: "Australia"
+    followers: 32478
+    engagement: 385
+    commentsToLikes: 0.055150
+    id: ck14l574uswvm0i19s61vbvic
+    verified: false
+    hashtags: "#ad, #smarternaturalskincare, #thefrankeffect, #meccamax"
   - username: "othersummers"
     fullname: >-
       Billie 🌿 Other Summers
     bio: >-
       skincare and makeup 📍 melbourne, australia billiemmoran@gmail.com
     location: "Australia"
-    followers: 10564
-    engagement: 461
-    commentsToLikes: 0.190169
+    followers: 10103
+    engagement: 303
+    commentsToLikes: 0.222881
     id: ck5q9r068cjia0i11to2wfo1f
     verified: false
-    hashtags: ""
+    hashtags: "#natashadenona, #eyeshadowswatches, #eyeshadowpalettes, #macpartner"
+  - username: "showmetheglow"
+    fullname: >-
+      Rachel
+    bio: >-
+      Skincare obsessed. Combination, oily mess. For PR enquires DM or email 👇🏼 💌 showmetheglow@gmail.com Melbourne, Aus
+    location: "Australia"
+    followers: 3510
+    engagement: 664
+    commentsToLikes: 0.290926
+    id: ck6ug3c9w0owk0j71ibd4izn0
+    verified: false
+    hashtags: "#cliniquepartner, #evenbetter, #sponsored, #suncreamsundae"
+  - username: "prettyprogress23"
+    fullname: >-
+      Liz Claire 😜
+    bio: >-
+      Australia 📍 •Skincare, makeup and latin music lover 💃 •Healing holistically without Accutane/Iso & I’m so happy you’re here 🙈😘
+    location: "Australia"
+    followers: 34384
+    engagement: 438
+    commentsToLikes: 0.043104
+    id: ck0u7ooxg5a3a0i19fnsdctdj
+    verified: false
+    hashtags: "#acnescars, #skincare, #skinpositivity, #acne"
 ---

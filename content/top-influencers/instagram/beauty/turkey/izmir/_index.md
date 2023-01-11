@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Izmir in 2023
+title: Top 10 Beauty Instagram Influencers In Izmir In 2023
 description: >-
-  Find top beauty Instagram influencers in Izmir in 2023. Most popular hashtags: #beauty #summer #izmir #nature.
+  Find top beauty Instagram influencers in Izmir in 2023. Most popular hashtags: #beauty #izmir #fashion #makeup.
 platform: Instagram
-hits: 79
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 79 Instagram influencers like this in Izmir, Turkey for you to contact.
+hits: 73
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database holds 73 Instagram influencers like this in Izmir, Turkey for you to connect with.
 profiles:
-  - username: "dr.ahmettepe"
+  - username: "dibaestetik"
     fullname: >-
-      Uzm.Dr.Ahmet Tepe
+      Diba Estetik&güzellik
     bio: >-
-      ➡️TEPE KLİNİK 🔶Medikal Estetik 🔶Akupunktur 🔶Mezoterapi 🔶Ozonterapi ☎️ 05059997737
+      Diba BARIŞAN Tel:0232 422 32 35 📞 507 291 01 48
     location: "Turkey"
-    followers: 15904
-    engagement: 501
-    commentsToLikes: 0.042063
-    id: ck9hb9se9fyeg0j783ldytqed
+    followers: 13262
+    engagement: 879
+    commentsToLikes: 0.001508
+    id: ck9ha47wjb2oi0j786aycm7dh
     verified: false
-    hashtags: "#turkey, #sea, #september, #sa"
-  - username: "vlknbrt"
+    hashtags: "#ka, #alsancak, #epilasyon, #kal"
+  - username: "nihanayanoglu"
     fullname: >-
-      ᴠᴏʟᴋᴀɴ ʙᴀʀᴜᴛ | 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢
+      ℕ I H A ℕ
     bio: >-
-      ɪ ᴀᴍ ɪɴ ʟᴏs ᴀɴɢᴇʟᴇs ɴᴏᴡ 📍 ᴅᴍ ᴛᴏ ʙᴏᴏᴋ ғᴏʀ sʜᴏᴏᴛɪɴɢ 📸 - 𝑝𝑜𝑟𝑡𝑟𝑎𝑖𝑡 -𝑓𝑎𝑠ℎ𝑖𝑜𝑛 -𝑠𝑝𝑜𝑟𝑡
+      Based in Izmir 🕊 Lifestyle • Beauty • Fashion
     location: "Turkey"
-    followers: 6895
-    engagement: 647
-    commentsToLikes: 0.030472
-    id: ckapb6kejyr5h0i78v3qx8bvh
+    followers: 11689
+    engagement: 623
+    commentsToLikes: 0.415411
+    id: ck13agb68q9710i19irrzsxis
     verified: false
-    hashtags: "#photography, #modelling, #photooftheday, #russian"
-  - username: "sevvalakmn"
-    fullname: >-
-      Şevval Akman
-    bio: >-
-      İzmir|Tekirdağ #Fashion | #Beauty | #Lifestyle Business Inquiry:sevvalakmnn@gmail.com
-    location: "Turkey"
-    followers: 19754
-    engagement: 178
-    commentsToLikes: 0.069829
-    id: ck8t4azfw63xv0j78wu1mrvde
-    verified: false
-    hashtags: "#vintageaesthetic, #neutralcolors, #parisianblogger, #vintageoutfit"
+    hashtags: "#gu, #bolu, #winteractivity, #snow"
   - username: "guzellikmodu"
     fullname: >-
       Buse ⭐️ÇEKİLİŞ VAR
     bio: >-
       Makeup|Beauty|Lifestyle|Shopping✨ 📍İzmir 💌PR:DM//MAİL
     location: "Turkey"
-    followers: 31155
-    engagement: 148
-    commentsToLikes: 0.039099
+    followers: 29839
+    engagement: 165
+    commentsToLikes: 0.023647
     id: ck13cm47f10p40i199bxda3ru
     verified: false
-    hashtags: "#lipstick, #makeup, #instadaily, #follow4followback"
-  - username: "gizemnyildirim"
+    hashtags: "#trending, #nail, #likelike, #followforfollowback"
+  - username: "muammerketenciofficial"
     fullname: >-
-      Petite Fashion | Travel
+      Muammer Ketenci
     bio: >-
-      Gizem ོ 🎓Kadıköy Maarif|Koç University Law & IR 📍İstanbul 👩‍❤️‍👨@leleforg
+      Fashion Designer Reklam ve isbirliği @cemozkook
     location: "Turkey"
-    followers: 33004
-    engagement: 609
-    commentsToLikes: 0.044249
-    id: ck0u7ucsk5ni00i19thgsqht6
-    verified: false
-    hashtags: "#fashionista, #selfie, #travel, #photography"
+    followers: 116282
+    engagement: 328
+    commentsToLikes: 0.100892
+    id: ck5q0xcqf883f0i11uloroxsj
+    verified: true
+    hashtags: "#baku, #muammerketenci, #fashiondesigner, #azerbaycan"
   - username: "selinablog"
     fullname: >-
       Selin Aydın
     bio: >-
-      ✨ Makeup, Beauty, Fashion 🎓 Psychology 📍 İzmir, Turkey 💌 PR: seliina.blog@gmail.com
+      ✨ Makeup, Beauty, Fashion 🎓 Psychology 📍 İzmir 💌 PR: seliina.blog@gmail.com
     location: "Turkey"
-    followers: 89400
-    engagement: 270
-    commentsToLikes: 0.044363
+    followers: 87248
+    engagement: 306
+    commentsToLikes: 0.180836
     id: ck5cf8f0bmgy30i11poftf44f
     verified: false
-    hashtags: "#makeupvideo, #beautybloggers, #likeme, #makeupbyme"
-  - username: "sule.clkk"
+    hashtags: "#makeupartist, #makeuptutorial, #makeup, #makeupbyme"
+  - username: "aysegull_tatarr"
     fullname: >-
-      Şule ÇELİK 🎤🎬🎶
+      Aysegul Tatar
     bio: >-
-      ⓒ ♥ ☎️ Sahne İletişim : 05323418700 🏫 Okan Üniversitesi | Konservatuvar 👩‍🎓 Anadolu Üniversitesi | İktisat 👩‍🎓 BLMYO | Dış Ticaret
+      İnfluencer | momblogger |lifestyle Kadın girişimci Tv programları 📺 PR iletişim DM 📩 @esenleranneleriii @aysegulunn_blogu
     location: "Turkey"
-    followers: 9126
-    engagement: 632
-    commentsToLikes: 0.007236
-    id: ck14lbtxttvfu0i19ykwaberv
+    followers: 113393
+    engagement: 101
+    commentsToLikes: 0.059048
+    id: ck8t4887m5u080j78satnz8iq
     verified: false
-    hashtags: "#instalike, #likeforlikes, #instagood, #like4likes"
-  - username: "shirvant"
+    hashtags: "#tesettu, #happy, #love, #tweegram"
+  - username: "tuceyildrm"
     fullname: >-
-      Shirvan
+      Tuçe y.g
     bio: >-
-      #fotoğraf 📷 lezzetli yemek 🍴yeni yerler keşfetmek 🗺 #food #travel #lifestyle & discover new countries 🌍 📧: shirvantnrkl@gmail.com
+      Fashion | Lifestyle | Beauty Food engineer and chemist 📍İzmir 💌yildirim.tuce@gmail.com / dm @girisimcikadinlargrubu
     location: "Turkey"
-    followers: 47499
-    engagement: 177
-    commentsToLikes: 0.083450
-    id: ck8tdifpa3fx20j78k3fcs3x7
+    followers: 114309
+    engagement: 51
+    commentsToLikes: 0.075819
+    id: ck14hmkmhb2tb0i19x6v60e72
     verified: false
-    hashtags: "#ootd, #istanbulda1yer, #mondaymotivation, #yemek"
-  - username: "__belqin__"
+    hashtags: "#dream, #helpturkey, #turkeyisburning, #adrasan"
+  - username: "makeupbymahsima"
     fullname: >-
-      belgin kandemir | Denizli
+      Mahsima
     bio: >-
-      Nikon D5300 18-140 mm • photography 📷 • travel 👣 • nature ☘ • lifestyle 🙆
+      📍istanbul/ levent - umraniye 💄 saç ve makyaj @mahsiiiiima
     location: "Turkey"
-    followers: 18239
-    engagement: 1157
-    commentsToLikes: 0.127934
-    id: ck13643re4o8s0i195eq3l821
+    followers: 10420
+    engagement: 93
+    commentsToLikes: 0.080357
+    id: ck0vyxftu697s0i194xxfx4w0
     verified: false
-    hashtags: "#portrait, #sun, #nikon, #tree"
-  - username: "pinaroez_"
+    hashtags: "#beauty, #model, #dugun, #hair"
+  - username: "gulshan_huseynli_official"
     fullname: >-
-      FASHION X P I N A R 🧿
+      Julia Huseynli
     bio: >-
-      🌻 C | حب💍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 💌pinaroez_@maxplusmgmt.de⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🌻#FASHION 🎥MY LATEST YOUTUBE VIDEO ⬇️⬇️⬇️ s7es5
+      Actor And Singer🎼🎤. Sevmirem Seni 👇
     location: "Turkey"
-    followers: 35396
-    engagement: 248
-    commentsToLikes: 0.018262
-    id: ckap5vri9ddiu0i784uqgtaax
+    followers: 100997
+    engagement: 232
+    commentsToLikes: 0.025416
+    id: ck9whrhv3z5hs0j783d6krl2p
     verified: false
-    hashtags: "#fashionblogger, #streetstyle, #ootd, #fashionista"
+    hashtags: "#actress, #azerbaijan, #astara, #baku"
+  - username: "pisimel"
+    fullname: >-
+      Melike Birinci
+    bio: >-
+      Influencer / Fashion 📍İzmir @mavisehir_dergisi
+    location: "Turkey"
+    followers: 53321
+    engagement: 206
+    commentsToLikes: 0.061655
+    id: ckaou7ngyz5yo0i789594515d
+    verified: false
+    hashtags: "#ootdfashion, #pretty, #ootdbloggers, #womanslook"
 ---

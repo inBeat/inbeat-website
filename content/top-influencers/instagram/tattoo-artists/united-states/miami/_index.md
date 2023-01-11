@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Miami in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Miami In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Miami in 2023. Most popular hashtags: #tattoo #miami #inked #tattoos.
+  Find top tattoo-artists Instagram influencers in Miami in 2023. Most popular hashtags: #tattooartist #tattoo #miami #miamitattoos.
 platform: Instagram
-hits: 47
+hits: 59
 text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 47 Instagram influencers like this in Miami, United States for you to pitch.
+text_bottom: Our database has 59 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
+  - username: "lulutattooart"
+    fullname: >-
+      Lulu • Miami Tattoo Artist •
+    bio: >-
+      Tattoo Artist ❖ @thegoldenneedle_tattoos ❖ — booking@lulutattoo.art | +17868654194 — ProTeam @fytsupplies Sponsor @balmtattoousa
+    location: "United States"
+    followers: 43430
+    engagement: 178
+    commentsToLikes: 0.064810
+    id: ck6u738uyj7ss0j71buu8lb7o
+    verified: false
+    hashtags: "#wynwood, #lgbt, #art, #colortattoo"
+  - username: "borisbianchi"
+    fullname: >-
+      tattoosbyboris@gmail.com
+    bio: >-
+      Blackwork-lettering-fineline #MIAMI . PROTEAM @kingpintattoosupply @allegoryink @balmtattoouk @fkirons
+    location: "United States"
+    followers: 48680
+    engagement: 84
+    commentsToLikes: 0.056214
+    id: ckaoun0de0zg60i786g8n9fdo
+    verified: false
+    hashtags: "#blackwork, #studioxiii, #lettering, #tattoos"
   - username: "tatubaby"
     fullname: >-
       Tatu Baby
     bio: >-
       ONLY other IG @TatuBabyTattoos Bookings ❌ email TatuBabyTattoo@gmail.com 🇨🇴 Owner of @TillTheEndTattoos Vh1 Cartel Crew 🎥 Proud Mom 👶🏽 YO REINARE👑
     location: "United States"
-    followers: 1496821
-    engagement: 192
-    commentsToLikes: 0.009903
+    followers: 1616849
+    engagement: 159
+    commentsToLikes: 0.007152
     id: ck5bu7aiyha2s0i11zvlkgitr
     verified: true
-    hashtags: "#tatubabytattoos, #tilltheendtattoogallery, #miamitattooartist, #balmtattooprotem"
+    hashtags: "#spektrahalo, #fusioninks, #tatubabytattoos, #getinked"
+  - username: "spthelow"
+    fullname: >-
+      The Real Don🦍
+    bio: >-
+      🇲S 🥶357MsUpNext🇸#bikelife🇽 @lesmeilleurscabreursdunet @scrape_tv @caribbeanbikelife @bikesupfilms thelow👻 Fredobang57
+    location: "United States"
+    followers: 6062
+    engagement: 762
+    commentsToLikes: 0.030331
+    id: ck6tjyfen3ndq0j71jw92hth9
+    verified: false
+    hashtags: "#guadeloupe, #sniperbiker, #motorcycle, #motivation"
   - username: "waz.art"
     fullname: >-
       WAZ
     bio: >-
       MIAMI TATTOO ARTIST @Equilattera 📩 appt@equilattera.com ❌ NO DM for tattoo inquiries 🔻YouTube🔻
     location: "United States"
-    followers: 66931
-    engagement: 158
-    commentsToLikes: 0.029079
+    followers: 66254
+    engagement: 184
+    commentsToLikes: 0.024821
     id: ck6tp4kp7hss80j71i58vmhps
     verified: false
-    hashtags: "#miamibeach, #minimaltattoo, #floridatattoo, #linestattoo"
-  - username: "lulutattooart"
+    hashtags: "#equilattera, #miamitattoos, #miamitattoo, #finelinetattoos"
+  - username: "kevin.deuso.artist"
     fullname: >-
-      Lulu • Miami Tattoo Artist •
+      💮PAINT|TATTOO|FOTO💮
     bio: >-
-      Tattoo Artist ❖@thegoldenneedle_tattoos❖ ProTeam @fytsupplies Sponsors: @balmtattoous & @viking_inks Booking: booking@lulutattoo.art | +17868654194
+      REPRESENTED BY @corridorcontemporary @grovefineart @inkedlifemiami
     location: "United States"
-    followers: 41655
-    engagement: 192
-    commentsToLikes: 0.064847
-    id: ck6u738uyj7ss0j71buu8lb7o
+    followers: 38160
+    engagement: 440
+    commentsToLikes: 0.013758
+    id: ck8t5cphv9nug0j789mv7s3xw
     verified: false
-    hashtags: "#miamitattoo, #wynwood, #owltattoo, #femaleartist"
-  - username: "indigofox__"
-    fullname: >-
-      #artangel
-    bio: >-
-      NEOHUMAN🌱Tatu Artist🌱Tech Architect 🌱Vegan🌱Lover🌱 @blackmedicinetatu.
-    location: "United States"
-    followers: 8470
-    engagement: 507
-    commentsToLikes: 0.050291
-    id: ck6u8ir47rtr00j71e56qbu9g
-    verified: false
-    hashtags: "#explore, #blacktatu, #tatu, #vegan"
-  - username: "strokin_dark"
-    fullname: >-
-      Dark Art
-    bio: >-
-      🇷🇺 🇯🇵 🇩🇪 🇮🇩 🇨🇿 🇮🇱 🇨🇳🇳🇴🇳🇱🇫🇷🇸🇪🇹🇷🇬🇷🇬🇧🇮🇪🇻🇦🇺🇸 🇵🇹🇹🇭 ✉️christapostol@gmail.com
-    location: "United States"
-    followers: 19360
-    engagement: 287
-    commentsToLikes: 0.009426
-    id: ck5bubcqihhe70i111v7gzss6
-    verified: false
-    hashtags: "#losangeles, #dark, #tat, #la"
-  - username: "luisgil_art"
-    fullname: >-
-      Luis Gil
-    bio: >-
-      Miami, Florida 🇺🇸🇻🇪 🔹Tattoo artist and owner @mejorartestudio🔹 Sponsor: @viking_inks - @balm_tattoo Book now: 📆 Luisgil.citastattoo@gmail.com
-    location: "United States"
-    followers: 60637
-    engagement: 147
-    commentsToLikes: 0.172237
-    id: ck5bw7luml5cv0i112rdaia3w
-    verified: false
-    hashtags: "#tattoodesign, #mundoskink, #305, #mejorartetattoostudio"
+    hashtags: "#flowertattoo, #miamiink, #sketch, #oilpainting"
   - username: "boloarttattoo"
     fullname: >-
       ᏴOᏞO
     bio: >-
       вoιoтaттoos@yaнoo.coм 📩 Studio•@thegoldenneedle_tattoos
     location: "United States"
-    followers: 229921
-    engagement: 270
-    commentsToLikes: 0.025110
+    followers: 233978
+    engagement: 296
+    commentsToLikes: 0.022828
     id: ck0w1fxvrj5cq0i198e4vmoj1
     verified: false
-    hashtags: "#cuba, #tattooartist, #realistictattoo, #tattooedgirls"
-  - username: "nate_needles"
+    hashtags: "#instapic, #tattoo, #artwork, #fusionink"
+  - username: "bartkuykens"
     fullname: >-
-      Nate Needles
+      BART KUYKENS
     bio: >-
-      @highnoontattoofl @nate_needless @tattoo_yardist For appointments ⤵️ Dm or email
+      Exhibitions: May 27-29 Marbella, ES June 24-27 Hereford, UK Sept 2-5 Vejle, DK Sept 23-26 Limassol, CY Okt 1 - 3 Athens, GR Okt 21-24 Brussels, BE
     location: "United States"
-    followers: 28466
-    engagement: 267
-    commentsToLikes: 0.038708
-    id: ck6tr03d5vxnx0j71y63g4ua8
+    followers: 56160
+    engagement: 232
+    commentsToLikes: 0.059232
+    id: ck0twqj05gflt0i19jasdslnk
     verified: false
-    hashtags: "#downtownmelbourne, #ink, #tattoomodel, #jacksonvilletattooartist"
-  - username: "marsinks"
+    hashtags: "#aflat6loveaffair, #bartkuykens, #porschemoment, #analogphotography"
+  - username: "ivanatattooart"
     fullname: >-
-      𝕸𝖆𝖗𝖘
+      Ivana Belakova
     bio: >-
-      ✨ Miami • Art • Tattoos • Anime ✨ Bright bold and cute 🌈 Tattoo artist @blackborneo.tattoostudio DM to book 💌 Serious inquires only Shop link below ⬋
+      THE ONLY FEMALE IN THE WORLD WHOSE TATTOOS ARE CERTIFIED AS CONTEMPORARY FINE ART (LA-MIAMI) 👑 CELEBRITY TATTOO ARTIST 👑
     location: "United States"
-    followers: 5049
-    engagement: 835
-    commentsToLikes: 0.056610
-    id: ckf5tv4gpiuys0j233xzmrq6k
+    followers: 205199
+    engagement: 17
+    commentsToLikes: 0.019263
+    id: ck5zs4xgtxu1o0i1417ymapkx
     verified: false
-    hashtags: "#japan, #nerdytattoos, #miamitattoos, #miamitattooshop"
-  - username: "the_world_of_laeti"
+    hashtags: "#hushcares, #colortattoo, #nonstoplaughter, #birdsalwaysshitonmycar"
+  - username: "tierra_amira"
     fullname: >-
-      Laëtitia Luccioni 🌪 From 🇫🇷 🌍
+      Tierra Amira Jones
     bio: >-
-      Blogger Welcome on my IG! Welcome in the world of realistic tattoo I'M NOT A TATTOO ARTIST ⚠️ Eu não sou uma artista tatuador⚠️
+      Actress| Published Model | DJ | @dj_fullxposure 🎥YouTube: Tierra Amira Jones
     location: "United States"
-    followers: 81107
-    engagement: 143
-    commentsToLikes: 0.008779
-    id: ck0w2kuyeovdx0i19fp3gxmk6
+    followers: 35174
+    engagement: 108
+    commentsToLikes: 0.368299
+    id: ck8syvp1em72b0j78plmzeevc
     verified: false
-    hashtags: "#tattooed, #tattooist, #colortattoo, #tattoo"
+    hashtags: "#femaledjs, #melaninpoppin, #tierraamirajones, #igdaily"
 ---

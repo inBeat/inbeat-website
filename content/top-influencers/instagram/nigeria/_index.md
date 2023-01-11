@@ -1,24 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Nigeria in 2023
+title: Top 10 Instagram Influencers In Nigeria In 2023
 description: >-
-  Find top Instagram influencers in Nigeria in 2023. Most popular hashtags: #explorepage #explore #exploremore.
+  Find top Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #explorepage #stayhome.
 platform: Instagram
-hits: 1051
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 1051 Instagram influencers like this in Nigeria for you to pitch.
+hits: 545
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 545 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
-  - username: "_top.guy"
+  - username: "ayrastarr"
     fullname: >-
-      T0P B0Y!
+      Celestial being 👼🏾🤍🎖
     bio: >-
-      There Is No Planet B’➰
+      20 E dey rush SABI GIRL 🤱🏾
     location: "Nigeria"
-    followers: 10191
-    engagement: 2042
-    commentsToLikes: 0.105082
-    id: ck6u5sw9ubji30j71ntdrn27q
+    followers: 2745325
+    engagement: 487
+    commentsToLikes: 0.012461
+    id: ck1366noz4zrz0i1982ulxgej
     verified: false
-    hashtags: "#exploremore, #explore, #explorepage, #xplore"
+    hashtags: "#rushchallenge, #flexnaija, #coloursofasuperstar, #darlingnigeria"
+  - username: "happycurlhappygirl"
+    fullname: >-
+      Rayna
+    bio: >-
+      curls • beauty • family • lifestyle 🤍 los angeles rayna@cfg.co 220K+ youtube subbies • 190K+ tik tok
+    location: "Nigeria"
+    followers: 155677
+    engagement: 808
+    commentsToLikes: 0.028313
+    id: ck5ccz2wbi91n0i11r5ffjtz4
+    verified: false
+    hashtags: "#marriedlife, #momlife, #ariesseason, #husbandandwife"
   - username: "colormanola"
     fullname: >-
       𝕆𝕝𝕒 𝕊𝕡𝕖𝕔𝕥𝕖𝕣 🇨🇦
@@ -30,101 +42,89 @@ profiles:
     commentsToLikes: 0.102817
     id: ck6u80kxqoqha0j714ny48adf
     verified: false
-    hashtags: "#stayhealthy, #repost, #explore, #stayhome"
-  - username: "akiinbami"
-    fullname: >-
-      
-    bio: >-
-      a hot mess
-    location: "Nigeria"
-    followers: 3371
-    engagement: 3432
-    commentsToLikes: 0.124215
-    id: ck5hdml2ho8ws0i1137nfgi4b
-    verified: false
-    hashtags: ""
-  - username: "smallieee_"
-    fullname: >-
-      SM✨💫
-    bio: >-
-      19 👻 smallie_fine 🎈Serious minded entrepreneur @scentsbyapril_
-    location: "Nigeria"
-    followers: 15411
-    engagement: 1382
-    commentsToLikes: 0.127274
-    id: ckf5laa9rowqx0j231qn88oq9
-    verified: false
-    hashtags: "#exploremore, #explorepage"
-  - username: "assumptanwaz"
-    fullname: >-
-      Assumpta
-    bio: >-
-      🇫🇷 🇳🇬 Finance 👩🏻‍🏫 Face model @steph__claire God’s little favorite
-    location: "Nigeria"
-    followers: 2307
-    engagement: 2287
-    commentsToLikes: 0.190475
-    id: ck5zzdvmhbjx00i1449xva9b0
-    verified: false
-    hashtags: "#ireade19"
-  - username: "michaeltakon"
-    fullname: >-
-      Takon
-    bio: >-
-      5'11 🇳🇬 14th January I love puns, tell me a joke
-    location: "Nigeria"
-    followers: 3908
-    engagement: 2250
-    commentsToLikes: 0.141125
-    id: ck6u5sydpbjx90j71ee1svziw
-    verified: false
-    hashtags: ""
+    hashtags: "#stayhome, #stayhealthy, #repost, #explorepage"
   - username: "realsophy"
     fullname: >-
       SHADES OF SOPHIA ♉️
     bio: >-
-      👩‍🍳Chef @tastewithsophy ✈️Tourist 👻Real_sophy Twitter: Realsophy
+      👩‍🍳Chef @tastewithsophy Twitter: Realsophy Snapchat: Real_sophy
     location: "Nigeria"
-    followers: 72133
-    engagement: 616
-    commentsToLikes: 0.079455
+    followers: 96019
+    engagement: 738
+    commentsToLikes: 0.104403
     id: ck5hrhn71uw9s0i11uinjrqi5
     verified: false
-    hashtags: "#video, #wig, #realsophy, #africa"
+    hashtags: "#nomakeup, #brandinfluencer, #thursday, #nigeria"
+  - username: "call_me_fola"
+    fullname: >-
+      FOLAPONDIS 💥
+    bio: >-
+      YourFavLoverBoi 📌🍑 *BNE 💥 For Bookings: +2348103674747 *Download MY LADY 👇
+    location: "Nigeria"
+    followers: 20516
+    engagement: 1403
+    commentsToLikes: 0.099351
+    id: ck5hoaiecp8890i11n0zzgpuw
+    verified: false
+    hashtags: "#tbt, #deletingsoon, #yourfavloverboi, #endsars"
+  - username: "maliyaofficial"
+    fullname: >-
+      Maliya Michael
+    bio: >-
+      Model | Influencer Bookings: Maliyamgt@gmail.com
+    location: "Nigeria"
+    followers: 340279
+    engagement: 565
+    commentsToLikes: 0.024631
+    id: ck135nhdj2aeb0i19u8z1kr7u
+    verified: false
+    hashtags: "#funnyfails, #airbnblagos, #dubaitour, #lagosbabes"
+  - username: "jlmn12_"
+    fullname: >-
+      Jamie Newman
+    bio: >-
+      God 1st | WFU Alum | #2021NFLDRAFT
+    location: "Nigeria"
+    followers: 26653
+    engagement: 2455
+    commentsToLikes: 0.050844
+    id: ck5hjyj54hh5g0i11m44hityp
+    verified: false
+    hashtags: "#godsplan, #stayhome, #family4l"
+  - username: "elyeanur_"
+    fullname: >-
+      eleanor🌺
+    bio: >-
+      👻: elyeanor. Learn to mind the business that pays you💆‍♀️. I am more than what you see here💯. 🇳🇬🇹🇭
+    location: "Nigeria"
+    followers: 9512
+    engagement: 1481
+    commentsToLikes: 0.059005
+    id: ck6tvgnjum4im0j71wudsyvzx
+    verified: false
+    hashtags: "#explore, #explorepage, #deletingsoon, #bodybuilding"
   - username: "_raabii"
     fullname: >-
       
     bio: >-
-      @sappheromodels
+      
     location: "Nigeria"
-    followers: 5785
-    engagement: 2457
-    commentsToLikes: 0.071284
+    followers: 6041
+    engagement: 2380
+    commentsToLikes: 0.068472
     id: ck6u26cnfpz8v0j7134ql2ruo
     verified: false
     hashtags: "#explore, #explorepage"
-  - username: "_ibiyemii_"
+  - username: "hameedah_xx"
     fullname: >-
-      Ibiyemi
+      Hammed Hamidat Oyindamola
     bio: >-
-      * Creative Director @ibiyemiglamour 💄 * Brand Influencer
+      MODEL beauty & brand influencer Content creator/promotion manager Dm for bookings
     location: "Nigeria"
-    followers: 19814
-    engagement: 684
-    commentsToLikes: 0.078585
-    id: ck8szwjvupz7w0j789egnlxue
+    followers: 11437
+    engagement: 1361
+    commentsToLikes: 0.050829
+    id: ck5q769s9057p0i116byq3ebi
     verified: false
-    hashtags: ""
-  - username: "tas.sy_"
-    fullname: >-
-      Tas
-    bio: >-
-      📣 Influencer Twin @kenie.x @thekaytwinss Fashion designer DM me for promotions and collaboration
-    location: "Nigeria"
-    followers: 8043
-    engagement: 1023
-    commentsToLikes: 0.079598
-    id: ckf5mg8h7tni90j23ald3ihdr
-    verified: false
-    hashtags: "#twins, #exploremore, #explorepage, #explore"
+    hashtags: "#selflove, #happyvalentinesday"
 ---

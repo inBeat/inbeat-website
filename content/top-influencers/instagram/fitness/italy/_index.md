@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Italy in 2023
+title: Top 10 Fitness Instagram Influencers In Italy In 2023
 description: >-
-  Find top fitness Instagram influencers in Italy in 2023. Most popular hashtags: #fitness #italiangirl #me #fashion.
+  Find top fitness Instagram influencers in Italy in 2023. Most popular hashtags: #sealovers #homesweethome #instagood.
 platform: Instagram
-hits: 1267
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 1267 Instagram influencers like this in Italy for you to connect with.
+hits: 1072
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 1072 Instagram influencers like this in Italy for you to work with.
 profiles:
   - username: "lovefit_girl"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🛒Affiliato @prozisitalia ➡️Codice LOVEFIT10 🏋🏻‍♀️ #fitnessgirl 🥞 #fitbreakfast 📝 #ricettefit LINK⤵️
     location: "Italy"
-    followers: 10942
-    engagement: 1264
-    commentsToLikes: 0.174321
+    followers: 11487
+    engagement: 1008
+    commentsToLikes: 0.103500
     id: ck0vv6j7hnrfu0i19g45powzl
     verified: false
-    hashtags: "#fitbreakfast, #pistacchio, #pumpkincake, #cucinieri"
-  - username: "daniele.gaiti"
+    hashtags: "#natalericettre, #colazionefit, #breakfast, #colazione"
+  - username: "belladally"
     fullname: >-
-      Daniele Gaiti
+      B e  l l a   D a l l y 🕊
     bio: >-
-      Turin, Italy Fashion - Fitness - Travel Danielegaiti@gmail.com
+      — my work & creative space — Wife to Arif Iz❣️ KL, Malaysia Actor | Modest Fashion | Fitness | Traveler Ambassador of @galeriariani
     location: "Italy"
-    followers: 7404
-    engagement: 1412
-    commentsToLikes: 0.167291
-    id: ck8t50bq08fhu0j78ttv20nhq
-    verified: false
-    hashtags: "#men, #menfashion, #guywithstyle, #fashionforman"
-  - username: "chiaravittorini"
+    followers: 2353642
+    engagement: 19
+    commentsToLikes: 0.008925
+    id: ck0w5s6lg56hg0i19v9j0zt9r
+    verified: true
+    hashtags: "#garniergreenbeauty, #garniermalaysia, #greenerneverstops, #bellaforariani"
+  - username: "siledona"
     fullname: >-
-      Chiara Vittorini
+      Sile
     bio: >-
-      Psicologa clinica 👩‍⚕️ Fitness 🏋️‍♀️ Psicologia dello sport e Mental Training ⛹️‍♀️ Cibo sano e Psicologia dell'alimentazione 🍉 ~ ❤️
+      ❤️Fashion/Fitness & 🧘‍♀️/🐈/Dentistry • Founder of @sile.style 👗 • #siledona #silestyle ✒️🇬🇧🇷🇺🇮🇹🇱🇹 📩siledona7@gmail.com • ⬇️SILE clothing store⬇️
     location: "Italy"
-    followers: 4962
-    engagement: 1773
-    commentsToLikes: 0.326720
-    id: ckf5wp48fsswy0j230083iwtn
+    followers: 17753
+    engagement: 829
+    commentsToLikes: 0.588470
+    id: ck13byiddxrgy0i1987nbvc01
     verified: false
-    hashtags: "#ricettefit, #ricettesane, #ricettelight, #cucinalight"
-  - username: "valentinosolinas"
-    fullname: >-
-      Valentino Solinas
-    bio: >-
-      . TAEKWON-DO MASTER . FITNESS INSTRUCTOR . AVAILABLE FOR SEMINARS AND PRIVATE CLASSES! One of favorite flexibility pages: @flexibility.best
-    location: "Italy"
-    followers: 17211
-    engagement: 1022
-    commentsToLikes: 0.118345
-    id: ck5zo4ocppr3t0i14gp8mw2k7
-    verified: false
-    hashtags: "#tkd, #tkdlove, #fitness, #flexibilitytraining"
-  - username: "_sara.grossi_"
-    fullname: >-
-      Sara Grossi
-    bio: >-
-      SALUTE🍓/FITNESS🍑/LIFESTYLE💫 Seguitemi su TikTok: https://vm.tiktok.com/Gw1hVh/
-    location: "Italy"
-    followers: 3298
-    engagement: 2316
-    commentsToLikes: 0.116052
-    id: ck8tb53ltubc50j782zij5rdn
-    verified: false
-    hashtags: "#selfie, #beuty, #girlstyle, #picoftheday"
-  - username: "sim1workout"
-    fullname: >-
-      Simone Carotenuto
-    bio: >-
-      🎥 YouTube: SIM1WORKOUT ❄️ Founder: @ice120official ❄️ 🥊 Boxe - Powerlifting - Fitness 👊 📧 Collaborazioni: sim1workout@gmail.com 🔻ACQUISTA QUI🔻
-    location: "Italy"
-    followers: 115846
-    engagement: 839
-    commentsToLikes: 0.040060
-    id: ck6tmawf07i3n0j71jhud8map
-    verified: false
-    hashtags: "#ice, #sim1workout, #daje, #ice120"
+    hashtags: "#buonaserataatutti, #instamood, #siledona, #mare"
   - username: "iamtinacriss"
     fullname: >-
       Cristina
     bio: >-
       Certified MUA @cristinamuabacau Fitness🌸fashion🌸beauty Email/DM me for collabs cristina.teacu@yahoo.co.uk 📍Romania
     location: "Italy"
-    followers: 31951
-    engagement: 716
-    commentsToLikes: 0.067219
+    followers: 34113
+    engagement: 418
+    commentsToLikes: 0.103305
     id: ckap4kvfl7qu40i787gjcc4m0
     verified: false
-    hashtags: "#architectureinspo, #coendy, #coendystyle, #lamberjackshirt"
+    hashtags: ""
+  - username: "cri.brightphotos"
+    fullname: >-
+      Cri
+    bio: >-
+      I love photography❤ I love Travelling🏄‍♀️ NO video chat⛔ Modena Italy.. Love sea and dancing.. Fitness Next destination : Oceania, Asia, Maldive💕😎
+    location: "Italy"
+    followers: 6458
+    engagement: 1195
+    commentsToLikes: 0.043362
+    id: ck6tilrtz0yjq0j71qz4sa8ss
+    verified: false
+    hashtags: "#photographylovers, #photographer, #modena, #myskynow"
+  - username: "nerinafrancesca"
+    fullname: >-
+      💎 Francesca Nerina 💎
+    bio: >-
+      HEALTH | FITNESS | LIFESTYLE 💪 Italy 🇮🇹 Brand Ambassador My only backup @francescanerinaa
+    location: "Italy"
+    followers: 528497
+    engagement: 680
+    commentsToLikes: 0.048623
+    id: ck8t5753n90v00j78mkte5hhx
+    verified: false
+    hashtags: "#selfie, #heels, #dress, #homesweethome"
   - username: "michelariganelli"
     fullname: >-
       Michela Riganelli
     bio: >-
-      😇😈 booking@michelariganelli.com • 🇮🇹 #fitnessgirl / #DJ 🎧 /98’
+      michela@ehappen.it • 🇮🇹 #fitnessgirl / #DJ 🎧 /98’
     location: "Italy"
-    followers: 733375
-    engagement: 1439
-    commentsToLikes: 0.022198
+    followers: 679428
+    engagement: 839
+    commentsToLikes: 0.020770
     id: ck5bvej8gji0i0i11548gf6t8
     verified: false
-    hashtags: "#birthdaygirl, #blonde, #redgirl, #sardinia"
+    hashtags: "#abitodasera, #autumnvibes, #makeup, #sun"
   - username: "angelicaceci95"
     fullname: >-
       Angelica 💙
     bio: >-
       Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
     location: "Italy"
-    followers: 3777
-    engagement: 1923
-    commentsToLikes: 0.142160
+    followers: 3701
+    engagement: 1356
+    commentsToLikes: 0.078475
     id: ck8t5wrudbi500j78diegkd83
     verified: false
-    hashtags: "#italy, #gym, #girly, #me"
-  - username: "barbara_busnelli"
+    hashtags: "#veneziagram, #viaggiare, #travelblog, #throwback"
+  - username: "keyla.sanchez93"
     fullname: >-
-      Barbara Busnelli
+      Keyla Sanchez
     bio: >-
-      Se dai scarso valore a te stesso, sta sicuro che il mondo non alzerà il prezzo. Fitness Instructor @beatotemilano AMBASSADOR
+      🇨🇻 Kriola 📍🇺🇸 Hair/ Beauty/ Fitness Influencer - Collab 📩 New Video Clip 👇🏼
     location: "Italy"
-    followers: 28983
-    engagement: 576
-    commentsToLikes: 0.311061
-    id: ck8ta4gv1qfwq0j78k5xbwlgf
+    followers: 63870
+    engagement: 891
+    commentsToLikes: 0.033429
+    id: ckap8ygkhqfqu0i78zs233xs9
     verified: false
-    hashtags: "#beauty, #outfitofday, #italianwoman, #fashionaddict"
+    hashtags: "#ad"
+  - username: "sim1workout"
+    fullname: >-
+      Simone Carotenuto
+    bio: >-
+      🎥 YouTube: SIM1WORKOUT ❄️ La freschezza è tutto ❄️ 💥TEAM @ice120official 💥 🥊 Boxe - Powerlifting - Fitness 👊 🔻37% di sconto su tutto col codice SIM 🔻
+    location: "Italy"
+    followers: 123944
+    engagement: 836
+    commentsToLikes: 0.060000
+    id: ck6tmawf07i3n0j71jhud8map
+    verified: false
+    hashtags: "#ice120, #daje, #sim1workout, #ice"
 ---

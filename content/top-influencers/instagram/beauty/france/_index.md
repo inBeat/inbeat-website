@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In France in 2023
+title: Top 10 Beauty Instagram Influencers In France In 2023
 description: >-
-  Find top beauty Instagram influencers in France in 2023. Most popular hashtags: #concours #fashion #beauty.
+  Find top beauty Instagram influencers in France in 2023. Most popular hashtags: #fashion #hairstyling #blogger.
 platform: Instagram
-hits: 3566
+hits: 3815
 text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 3566 Instagram influencers like this in France for you to collaborate.
+text_bottom: Our database has 3815 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "chlooe_grn"
+  - username: "ryma_beautyaddict"
     fullname: >-
-      Chloé | 🕊
+      Ryma
     bio: >-
-      🎞 fashion & beauty ✉️ chlooegrn@gmail.com ma collection de chaussures ⤵️
+      Beauty&Lifestyle influencer Youtuber & Traveler ✈ Collaboration : ryma.ba.mg@gmail.com @tulip.home.ryma
     location: "France"
-    followers: 13027
-    engagement: 1827
-    commentsToLikes: 0.394311
-    id: ck5honc2ypvcc0i11dxq0i235
+    followers: 2238685
+    engagement: 251
+    commentsToLikes: 0.062990
+    id: ck6u54fw67j810j71i4gzimcf
     verified: false
-    hashtags: "#gift, #instagramgiveaway, #giveawaycontest, #concours"
-  - username: "sarahbkl_"
+    hashtags: "#foreo, #lunamini3, #foreoufo2, #foreoufo"
+  - username: "clea_lacy"
     fullname: >-
-      𝓢𝓪𝓻𝓪𝓱
+      𝒞𝓁𝑒𝒶-𝐿𝒶𝒸𝓎
     bio: >-
-      lifestyle, fashion, beauty collab: saarahh76210@gmail.com ✉️ 📍Le havre
+      Lifestyle ☼ Beauty ☼ Fashion ☼ Happiness Podcast: „It‘s a Matchday“ 🎤 ✉️ management@clealacy.de
     location: "France"
-    followers: 7081
-    engagement: 1502
-    commentsToLikes: 0.113658
-    id: ck8tcp6ws05il0j78u4yqmosc
-    verified: false
-    hashtags: "#lehavre, #discoverunder5k, #picoftheday, #discoverunder20k"
-  - username: "lo_beauuty"
+    followers: 408733
+    engagement: 180
+    commentsToLikes: 0.030109
+    id: ck0vx3rptwzsu0i19a14tnm1f
+    verified: true
+    hashtags: "#travel, #december, #nyc, #fashion"
+  - username: "bouchrabenayache.official"
     fullname: >-
-      L O R I N E
+      👑 Bouchra Ben Ayache
     bio: >-
-      Beauty Fashion & Dailylife Créatrice de contenu 📍Lorraine, FR ✉️ Lo.beauuty@gmail.com
+      This is the official account of model Bouchra Ben Ayache. Miss beauty 2018 👑 ✈️Travel🇪🇬🇹🇳🇦🇪🇲🇦🇹🇷🇲🇻🇲🇾🇶🇦🇹🇿 📩 bouchra.benayache.m@gmail.com 💍❤️
     location: "France"
-    followers: 7889
-    engagement: 1419
-    commentsToLikes: 0.538688
-    id: ck9wdw9wbhjt20j78jm4enyvg
+    followers: 1208641
+    engagement: 257
+    commentsToLikes: 0.008363
+    id: ck6u550cx7mmc0j71jdejx2iw
     verified: false
-    hashtags: "#autumnlook, #concoursinstagram, #beautybloggers, #giveaway"
-  - username: "inessiadream"
+    hashtags: "#aldo, #bershka, #styleblogger, #model"
+  - username: "aashnashroff"
     fullname: >-
-      𝙄𝙉𝙀𝙎𝙎𝙄𝘼 ♦ 𝕊𝕚𝕟𝕘𝕖𝕣 𝕞𝕒𝕜𝕖𝕦𝕡 𝕒𝕕𝕕𝕚𝕔𝕥
+      Aashna Shroff
     bio: >-
-      💙 Music ♦ Beauty ♦ Food ♦ Lifestyle 💌 inessiapro@gmail.com 💄 Conseils, avis, test, fun, concours et blabla 🎤 Je chante clique👇🏼 pour voir ma cover
+      fashion, beauty, life @snobhome theteam@thesnobjournal.com
     location: "France"
-    followers: 18460
-    engagement: 1407
-    commentsToLikes: 0.454689
-    id: ck6u56g6m7v8e0j718uyyvz0f
-    verified: false
-    hashtags: "#frenchfashion, #frenchinfluencer, #frenchmodel, #champselysees"
-  - username: "mariebnnz"
+    followers: 969271
+    engagement: 137
+    commentsToLikes: 0.005478
+    id: ck0tumq9k7sbn0i194t3be16k
+    verified: true
+    hashtags: "#salonsmooth, #professionalhaircare, #salonathome, #tresemmeindia"
+  - username: "prpitaloka"
     fullname: >-
-      Marie Bnz
+      プリンセスピタルカ
     bio: >-
-      beautymarieb@gmail.com nouvelle vidéo youtube:
+      your curious bae🧚🏻 🎀Gaming-Cosplay-Travel-Beauty🎀 Business Inq ✉ Dm/wa:+62 896-9241-7449 (Kai) 2nd acc @heypitaloka @croffleloka_
     location: "France"
-    followers: 103242
-    engagement: 955
-    commentsToLikes: 0.050806
-    id: ck5cijhkcsrey0i117qtbozzl
+    followers: 246291
+    engagement: 115
+    commentsToLikes: 0.010188
+    id: ckapbczcizgif0i786hm9v3jk
     verified: false
-    hashtags: "#tfbornthisway, #bangs, #frangerideau, #newyork"
-  - username: "realjoyceappia"
+    hashtags: "#nikkeid, #toweroffantasy, #kobenicosplay, #freefire"
+  - username: "ashty_hadid"
     fullname: >-
-      Fashion| Joyceappia 🇬🇭🇨🇮
+      Ashty Hadid - اشتي حديد
     bio: >-
-      Making Social Media Real Again😉 Happiness Advocate 💖 @joyceappiatv Music| Fitness| Beauty| Fashion From 🇩🇪| 🔜📍USA PR: mgt.joceappia@gmail.com 📍UK/ US
+      للأعلانات: For inquiries : +964 7823990999 Founder of @by.ashtyhadid Beauty line
     location: "France"
-    followers: 34792
-    engagement: 799
-    commentsToLikes: 0.059775
-    id: ck5zr3cyxvtgu0i14ve0jvyjt
+    followers: 3061165
+    engagement: 106
+    commentsToLikes: 0.031434
+    id: ck14hh07maaca0i19kajn9eno
     verified: false
-    hashtags: ""
-  - username: "jodielapetitefrenchie"
+    hashtags: "#pink"
+  - username: "theankitarai"
     fullname: >-
-      𝑱𝒐𝒅𝒊𝒆 𝒍𝒂 𝒑𝒆𝒕𝒊𝒕𝒆 𝒇𝒓𝒆𝒏𝒄𝒉𝒊𝒆
+      Ankita Rai Tiwari
     bio: >-
-      « A fashion lover à la française ♥ »  fashion, beauty, lifestyle ✉️ jodielapetitefrenchie.agent@gmail.com
+      I apologize for anything I post while hungry. ——————————————————————— Fashion • Lifestyle • Beauty • Motherhood 📧 : ankitaraitiwari@gmail.com
     location: "France"
-    followers: 460708
-    engagement: 789
-    commentsToLikes: 0.106693
-    id: ck0tt93px1ok80i1985juiutd
-    verified: false
-    hashtags: "#walkwithminelli, #minelli, #kaptenandson, #bekapten"
-  - username: "iman.karovic"
+    followers: 278245
+    engagement: 91
+    commentsToLikes: 0.044863
+    id: ck600f7ordhml0i14hughbwuu
+    verified: true
+    hashtags: "#sunsetlover, #reels, #indianfashioninfluencer, #theankitarai"
+  - username: "esmi_beauty_"
     fullname: >-
-      iman | إيمان
+      Esmi Beauty
     bio: >-
-      Model • Lifestyle blogger • Law 👩🏽‍⚖️ • ♎️ • Beauty queen👸🏽 | Miss Tourism BiH 2015 👑 • Collabs 💌
+      Beauty | Fashion | Travel CEO : @esmiralda_collection_ Business email :esmibeautypro@outlook.fr
     location: "France"
-    followers: 40826
-    engagement: 705
-    commentsToLikes: 0.120976
-    id: ck0tuu05q8np60i19au0pa7l4
+    followers: 766215
+    engagement: 73
+    commentsToLikes: 8.392203
+    id: ck6u54irr7jrv0j71gjjr14l9
     verified: false
-    hashtags: "#grateful, #prugice, #tb, #canoeing"
-  - username: "themodestparisian"
+    hashtags: "#summervibes, #summer, #blogger, #positivevibes"
+  - username: "rawaa_beauty"
     fullname: >-
-      The Modest Parisian
+      R A W A A • B E A U T Y
     bio: >-
-      🇫🇷 French / 🇲🇺 Mauritian / ✈️Travel /📸 Photography/👗 Modest Fashion/📷 Content Creator /💄Beauty/💍Married/✉️ Email or DM for Collabs/PR THEMODEST15 on⬇️
+      📍currently, PARIS - Makeup, Beauty & Lifestyle - 🤍🤎 ▫️Inquiries : ContactRawaaBeauty@gmail.com ▫️Tiktok: rawaa_beauty ▫️Facebook: rawaabeauty
     location: "France"
-    followers: 10115
-    engagement: 2024
-    commentsToLikes: 0.121588
-    id: ck6u56ctu7uoy0j71pyfr6nrl
-    verified: false
-    hashtags: "#islam, #monilemaurice, #muslimtravel, #modestfashionista"
-  - username: "lollita.curvygirl"
+    followers: 3756319
+    engagement: 52
+    commentsToLikes: 0.007096
+    id: ck8syvlpmm6qw0j78l4vtd4xo
+    verified: true
+    hashtags: "#baby, #maman, #par, #caftanmarocain"
+  - username: "cindykarmoko"
     fullname: >-
-      〰️ Curvy Model-influencer 〰️
+      CINDY KARMOKO
     bio: >-
-      🕶 Ambassador for @luxeyessxm ♥️ Curvy model and beauty influencer #beyoutiful
+      Big wardrobe 🧳🤣 👠, Beauty, Travel & Fragrance enthusiast ✈️ Home Baker👩🏻‍🍳 @swellrecipes ❤️ #oma🍑 #idressedtothrill #lidahcece
     location: "France"
-    followers: 21624
-    engagement: 1161
-    commentsToLikes: 0.075316
-    id: ck8t58yci97ye0j7864xzebmq
-    verified: false
-    hashtags: "#loveyourcurves, #pictureoftheday, #face, #plussizefashion"
+    followers: 108165
+    engagement: 37
+    commentsToLikes: 0.061865
+    id: ck137q4rfct710i19fx80v9rf
+    verified: true
+    hashtags: "#makandireels, #viralfood, #idressedtothrill, #coachny"
 ---

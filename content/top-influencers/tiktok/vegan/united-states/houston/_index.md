@@ -1,48 +1,36 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Houston in 2023
+title: Top 10 Vegan TikTok Influencers In Houston In 2023
 description: >-
-  Find top vegan TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #vegan #foryou.
+  Find top vegan TikTok influencers in Houston in 2023. Most popular hashtags: #vegan #fyp #duet #stitch.
 platform: TikTok
-hits: 7
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 7 TikTok influencers like this in Houston, United States for you to collaborate.
+hits: 6
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database has 6 TikTok influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "lilynbae"
+  - username: "monijai1"
     fullname: >-
-      Lily and Bae
+      Moni Jai
     bio: >-
-      OUR YOUTUBE IS LIT: LILY AND BAE IG: @guarizbrand @lily__bae @mpromando
+      NOLA⚜️Raised Me 1st Goal - 100K Subscribe to My YouTube Channel
     location: "United States"
-    followers: 53100
-    engagement: 1196
-    commentsToLikes: 0.009558
-    id: ckb9sfrm3pmnk0j23z8r9a1dz
+    followers: 42300
+    engagement: 2020
+    commentsToLikes: 0.180502
+    id: ckck4y5wupmn30j23mi5vi7gv
     verified: false
-    hashtags: "#latina, #funny, #corridos, #goodtimes"
-  - username: "antasiaadamjee"
+    hashtags: "#monijai1, #neworleans, #monijai, #getfitwithmonijai"
+  - username: "jasminerdh"
     fullname: >-
-      TikTokTas
+      JasmineRDH, BSDH MHA
     bio: >-
-      what word do u hate
+      📍Houston Dental Hygienist | Educator | Mentor BEST TEETH WHITENING STRIPS👇
     location: "United States"
-    followers: 25600
-    engagement: 857
-    commentsToLikes: 0.017636
-    id: ckcv7u9c5q56q0j23zgi4tqu4
+    followers: 668700
+    engagement: 1180
+    commentsToLikes: 0.013010
+    id: ck8s6jutfkv420j78duue5zl7
     verified: false
-    hashtags: "#vegan, #whatieatinaday, #todayilearned, #minivlog"
-  - username: "sirmrsenior"
-    fullname: >-
-      Prof. Sir & Ditto
-    bio: >-
-      PO Box 580368, Houston, TX 77058 🧊Follow to join the SNOM GANG 🔥
-    location: "United States"
-    followers: 202500
-    engagement: 2376
-    commentsToLikes: 0.028324
-    id: ck8keyx3wbs7z0j785oxqgfd2
-    verified: false
-    hashtags: "#skit, #wholesome, #foryou, #truth"
+    hashtags: "#liveingreys, #barcobrigade, #teeth, #hygienetips"
   - username: "yogijaz"
     fullname: >-
       Yogi Jaz Porter
@@ -50,81 +38,93 @@ profiles:
       Instagram @ yogijazporter Houston Based International Yoga Entrepreneur
     location: "United States"
     followers: 12600
-    engagement: 1042
-    commentsToLikes: 0.015480
+    engagement: 909
+    commentsToLikes: 0.018132
     id: ck9v5ssknznbe0j789p5m9qx1
     verified: false
-    hashtags: "#yogachallenge, #naturalhair, #comedy, #fyp"
-  - username: "curlyysenpai"
+    hashtags: "#naturalhair, #comedy, #yogachallenge, #fyp"
+  - username: "quenchvegancos"
     fullname: >-
-      Maria 💜
+      DerrionaCherbrea
     bio: >-
-      Texas weeb 🌵 | Latina 🇳🇮 | #BLM🤎 🖤 Anime is my job | 日本語を話します
+      Vegan, cruelty free skin/body care ✨ Based in Sav. Ga 🌴 Ig: @quenchcosmetics_
     location: "United States"
-    followers: 36000
-    engagement: 1626
-    commentsToLikes: 0.028030
-    id: ckd0i9a22ewe60j23xnnqyb57
+    followers: 4153
+    engagement: 1312
+    commentsToLikes: 0.031978
+    id: ckc7uf01by9pq0j23bseab7ou
     verified: false
-    hashtags: "#japan, #naruto, #kawaii, #japanesefood"
-  - username: "fattonyrap"
-    fullname: >-
-      Fat Tony
-    bio: >-
-      👨🏾‍🎨 Fat Tony on Spotify new album EXOTICA ✨ October 23
-    location: "United States"
-    followers: 23800
-    engagement: 457
-    commentsToLikes: 0.043333
-    id: ckc8v7hjthwsa0j23bu5smulo
-    verified: false
-    hashtags: "#tiktok, #4u, #exotica, #hoodalt"
+    hashtags: "#fyp, #blackowned, #skincare, #vegancosmetics"
   - username: "hunuhh"
     fullname: >-
       Hannah Gebert
     bio: >-
-      Atl, GA UGA’ 23 20
+      Atl, GA UGA
     location: "United States"
-    followers: 2245
-    engagement: 842
-    commentsToLikes: 0.038535
+    followers: 2204
+    engagement: 952
+    commentsToLikes: 0.007280
     id: ck8kh49sdl8mz0j78dv0myh2d
     verified: false
-    hashtags: "#college, #greenscreen, #corona, #veganlife"
-  - username: "thevintagegoree"
+    hashtags: "#college, #vegan, #greenscreen, #rona"
+  - username: "tiktoksofiesworld"
     fullname: >-
-      •Black Retro Babe•
+      Sofia
     bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
+      🇮🇹Dual Citizen | Doppia Cittadinanza🇺🇸 insta: @sofies.world 93K on YouTube⬇️
     location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
+    followers: 18500
+    engagement: 421
+    commentsToLikes: 0.075092
+    id: ckaibr094hiq80i78hvl49qj3
     verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
-  - username: "alaneatsfrogs"
+    hashtags: "#italianfood, #learnitalian, #italiano, #italian"
+  - username: "veganlesbianrepublicans"
     fullname: >-
-      alan raskin :)
+      Eve & Das
     bio: >-
-      "i’m a vegan except for when i eat the rich" - noor wendy WHALEyums stan accoun
+      “The Avocado Toast Lesbians,” Vegan, Married, Republicans 🇺🇸 🏳️‍🌈
     location: "United States"
-    followers: 49500
-    engagement: 2471
-    commentsToLikes: 0.046072
-    id: ckdn8veqjfihi0j23mwyza1it
+    followers: 46500
+    engagement: 2261
+    commentsToLikes: 0.100295
+    id: ckdclovylnw2r0j23tvaevkjy
     verified: false
-    hashtags: "#biden2020, #voting, #gay, #electionday"
-  - username: "findingjayreace"
+    hashtags: "#walkaway, #maga, #lesbiansfortrump, #trump"
+  - username: "antheiamae"
     fullname: >-
-      🤴🏽Mr.Positivity 🌱
+      mae mae
     bio: >-
-      Author/Speaker Veganism | Health | Motivation | Legacy is available now👇🏾|
+      intersectional vegan big sis🥰 comrade🧸 total liberationist she/? @eco_tok
     location: "United States"
-    followers: 9112
-    engagement: 2153
-    commentsToLikes: 0.429635
-    id: ck9skqa1ua13n0j78xb4nidzv
+    followers: 7125
+    engagement: 1746
+    commentsToLikes: 0.137265
+    id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#positivitytrain, #reacenation, #stitch, #strapback"
+    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+  - username: "veganmumu"
+    fullname: >-
+      Shannon
+    bio: >-
+      your vegan mom 🐧 Florida 🍊
+    location: "United States"
+    followers: 6762
+    engagement: 1446
+    commentsToLikes: 0.401234
+    id: ckavlfj1duq540j237nx3htr9
+    verified: false
+    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
+  - username: "kawaiikingb"
+    fullname: >-
+      MJ Cobra
+    bio: >-
+      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
+    location: "United States"
+    followers: 4459
+    engagement: 2638
+    commentsToLikes: 0.068353
+    id: ckav30jp99aym0j2355hwtnvy
+    verified: false
+    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Los Angeles in 2023
+title: Top 10 Barbers TikTok Influencers In Los Angeles In 2023
 description: >-
-  Find top barbers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #barber #fyp #foryou #losangeles.
+  Find top barbers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #barber #fyp #losangeles #viral.
 platform: TikTok
-hits: 11
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 11 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 12
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 12 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "dominicanbarber_"
-    fullname: >-
-      dominicanbarber_
-    bio: >-
-      
-    location: "United States"
-    followers: 13600
-    engagement: 524
-    commentsToLikes: 0.021613
-    id: ck92t6ec8glev0j78niutc37l
-    verified: false
-    hashtags: "#beautiful, #rd, #mexico, #dominicana"
   - username: "iamsu_binchoi"
     fullname: >-
       subin choi
     bio: >-
       korean raised in hawaii living the La life baby! Motovloging 🤷🏻‍♂️ questcrew
     location: "United States"
-    followers: 75700
-    engagement: 505
-    commentsToLikes: 0.014047
+    followers: 75100
+    engagement: 520
+    commentsToLikes: 0.013654
     id: ckb0w2818lcgu0j236jelc37o
     verified: false
-    hashtags: "#losangeles, #barber, #haircut, #beauty"
+    hashtags: "#barber, #losangeles, #breakdance, #savinglives"
   - username: "ukn714"
     fullname: >-
       Unknown
     bio: >-
       Huntington Beach! Mexican 🇲🇽 Barber Dog owner: Kaia & kora 🐺🐺
     location: "United States"
-    followers: 2842
-    engagement: 690
-    commentsToLikes: 0.018645
+    followers: 2839
+    engagement: 685
+    commentsToLikes: 0.017756
     id: ckbl76alb4vpf0j23zi6sa1ha
     verified: false
-    hashtags: "#crusing, #crusin, #chicanoculture, #bags"
-  - username: "michaelb0505"
+    hashtags: "#chicanoculture, #lowriders, #crusin, #calivibes"
+  - username: "deanothebarber"
     fullname: >-
-      Michael Evans Behling
+      deanothebarber
     bio: >-
-      Los Angeles
+      I cut hair & teach Content Creator Los Angeles 🦋
     location: "United States"
-    followers: 1600000
-    engagement: 1686
-    commentsToLikes: 0.018804
-    id: ck8hrqc3p9tnq0j78yqua1l8i
-    verified: true
-    hashtags: "#duet, #allamerican, #daishawnhayes, #superlativesmiles"
-  - username: "seanmikekelly"
+    followers: 447200
+    engagement: 1570
+    commentsToLikes: 0.013062
+    id: ckcjcj30i9jeq0j23774ac3vl
+    verified: false
+    hashtags: "#tattoo, #barber, #tattoos, #barberlife"
+  - username: "fidelpittss"
     fullname: >-
-      Sean Kelly
+      Fidelpittss
     bio: >-
-      Follow my IG for a jersey :) Los Angeles, CA☀️
+      FOLLOW/INSTAGRAM ⬆️ Blessed by 300,000‼️🖤 CALI🌴🏈🪐BARBER💈 👻@sniper.del
     location: "United States"
-    followers: 167200
-    engagement: 1608
-    commentsToLikes: 0.035079
-    id: ck95txnoss4x70j78v0t44btn
-    verified: true
-    hashtags: "#lmao, #bruh, #jerseychamps, #funny"
+    followers: 305700
+    engagement: 1569
+    commentsToLikes: 0.018745
+    id: ckac3lagfbml40i780iuj0xaa
+    verified: false
+    hashtags: "#barber, #athlete, #studentathlete, #football"
   - username: "windy_cityboi_209"
     fullname: >-
       Windycityboi209
     bio: >-
       Modesto California Ig.@windycityboi209 Traveling barber Bankrolhayden barber
     location: "United States"
-    followers: 31000
-    engagement: 1318
-    commentsToLikes: 0.006498
+    followers: 30200
+    engagement: 1226
+    commentsToLikes: 0.008492
     id: ck81s0lddp58d0j788ht4j1yl
     verified: false
-    hashtags: "#tikttok, #barberlife, #tiktokfamous, #goviral"
+    hashtags: "#makemefamous, #tikttok, #fy, #tiktot"
+  - username: "mariscoselpana_"
+    fullname: >-
+      mariscoselpana_
+    bio: >-
+      
+    location: "United States"
+    followers: 15600
+    engagement: 448
+    commentsToLikes: 0.171429
+    id: ck92t6ec8glev0j78niutc37l
+    verified: false
+    hashtags: "#barberworld, #photography, #2020, #wahl"
   - username: "yrnjaedyn"
     fullname: >-
       Jaedyn
     bio: >-
       Just a lil crazy Sacramento 📍 Instagram: yrnjaedyn Road to 60k 🏃🏾‍♀️
     location: "United States"
-    followers: 51700
-    engagement: 1357
-    commentsToLikes: 0.052079
+    followers: 51300
+    engagement: 990
+    commentsToLikes: 0.056947
     id: ckbqm3q5w75v50j23nodwm3ep
     verified: false
-    hashtags: "#xyzbca, #school, #foru, #viral"
-  - username: "rolex_no_tik_tok"
+    hashtags: "#viral, #military, #xyzbca, #foru"
+  - username: "getgulley"
     fullname: >-
-      Rolex_no_tik
+      Tabrin Gulley
     bio: >-
-      1836 Ranch and collect hotwheels. 4 free hw Add IG: ca_collects_hw
+      I LIKE MAKIN STUFF... Oh yea! And shoes! 13K? 😂 Check the IG
     location: "United States"
-    followers: 4280
-    engagement: 1017
-    commentsToLikes: 0.041614
-    id: ckbklk2wjesnx0j23uc2pz0ih
+    followers: 11200
+    engagement: 1216
+    commentsToLikes: 0.056955
+    id: ck9ohnc42c1g00j78xnym8uvw
     verified: false
-    hashtags: "#hotwheels, #foryou, #cars, #graphics"
-  - username: "shugzaddy"
+    hashtags: "#sneakers, #foryoupage, #sneakerhead, #foryou"
+  - username: "adrian187x"
     fullname: >-
-      Edgar Rodriguez
+      Adrian
     bio: >-
-      Army Vet 🇺🇸 🇲🇽 Feel Free To Show Some Love ❤️☑️ Don’t be shy 🤫👻👇🏽👇🏽
+      22 👻 a-187x
     location: "United States"
-    followers: 49400
-    engagement: 378
-    commentsToLikes: 0.044171
-    id: ckahyja4czksg0i788ckn9t3p
+    followers: 42100
+    engagement: 1051
+    commentsToLikes: 0.036331
+    id: ckb9vfc80uppr0j23gamljo4w
     verified: false
-    hashtags: "#followme, #follow, #hood, #friday"
-  - username: "andrewprotv"
+    hashtags: "#california, #fy, #fyp, #foryou"
+  - username: "marcinteodoru"
     fullname: >-
-      andrew petersen
+      Marcin Teodoru
     bio: >-
-      Dropped out of college to do tik tok full time, don’t let me flop 🥺
+      Ecom | Travel | Invest 👆🏼YouTube 🚀 💸Zero to $1,000,000 Challenge! 👇🏼
     location: "United States"
-    followers: 275600
-    engagement: 1290
-    commentsToLikes: 0.009331
-    id: cka6locw63yn50i78xy4z4xk9
+    followers: 293100
+    engagement: 482
+    commentsToLikes: 0.088563
+    id: ck9gkm3w6jydx0j7885r2su20
     verified: false
-    hashtags: "#viral, #foryou, #fyp, #houston"
+    hashtags: "#lasvegas, #elonmusk, #vegas, #share"
 ---

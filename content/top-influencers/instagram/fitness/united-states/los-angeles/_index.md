@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Los Angeles in 2023
+title: Top 10 Fitness Instagram Influencers In Los Angeles In 2023
 description: >-
-  Find top fitness Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fitness #fitnessmotivation #losangeles #artist.
+  Find top fitness Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fitness #losangeles #love #fashion.
 platform: Instagram
-hits: 649
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 649 Instagram influencers like this in Los Angeles, United States for you to pitch.
+hits: 585
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 585 Instagram influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "inspire_people"
-    fullname: >-
-      Jonathan Albrecht
-    bio: >-
-      Director of RE & Operations, Orangetheory Fitness Los Angeles | Silicon Valley | Melbourne, AUS “How you do anything is how you do everything.”
-    location: "United States"
-    followers: 3761
-    engagement: 1443
-    commentsToLikes: 0.061116
-    id: ck5c8j0sw9leo0i11rvdu3tuk
-    verified: false
-    hashtags: "#mlk, #jonathangetsyounger, #orangetheoryfitness, #74"
   - username: "boldaslauren"
     fullname: >-
       lauren trenkle
     bio: >-
       yoga sculpt instructor 🤘🏼 health enthusiast | real food | fitness | los angeles boldaslauren@gmail.com
     location: "United States"
-    followers: 5151
-    engagement: 763
-    commentsToLikes: 0.053040
+    followers: 4949
+    engagement: 794
+    commentsToLikes: 0.053321
     id: ck0tztsakrlwi0i193u5cczp4
     verified: false
-    hashtags: "#sponsored, #ad, #vitalinfluencer, #blackouttuesday"
-  - username: "deborahkolb"
+    hashtags: "#sponsored, #ad, #vitalinfluencer, #stayvital"
+  - username: "zack_palmisano"
     fullname: >-
-      Deborah Kolb
+      Zack Palmisano
     bio: >-
-      Los Angeles based Photographer Let me Capture your Vision!! Bookings: Pictures@DeborahKolb.net 818 999 9891
+      😊 Happy people are the most attractive people! 🌱 Vegan Watch My Highlight! 🔥 OF + Coaching Below! 💪 Competitive Bodybuilder 🌆 LA. @suvihannaa 💍
     location: "United States"
-    followers: 31108
-    engagement: 370
-    commentsToLikes: 0.011010
-    id: ck135xfva3q7m0i190xe1cf5c
+    followers: 120052
+    engagement: 159
+    commentsToLikes: 0.017215
+    id: ckaowywakb2vg0i78qtu3ntrd
     verified: false
-    hashtags: "#internationalwomensday, #pnw, #losangelesrealestate, #brokerlady"
-  - username: "shezapk40"
+    hashtags: "#vegangains, #vegan, #gymrat, #dyel"
+  - username: "ritzjwill"
     fullname: >-
-      SERGEI SHEZA® 🏴‍☠️
+      RITZ WILLIAMS⚡️
     bio: >-
-      📍Los Angeles ⛩ Chiropractor-Samurai
+      i think I fell in love with growth 🌱
     location: "United States"
-    followers: 36656
+    followers: 20120
     engagement: 456
-    commentsToLikes: 0.017615
-    id: ck5c7zq5h8hng0i110j5nn4qm
+    commentsToLikes: 0.098677
+    id: ck5zsgxssyh5e0i147qsnfygc
     verified: false
-    hashtags: "#sergeisheza, #ocean, #malemodel, #shezamood"
-  - username: "amallagrace"
+    hashtags: "#fitness, #losangeles, #love, #fun"
+  - username: "nikki_trinidad_"
     fullname: >-
-      Amalla Okaro, BSN, RN ❤️
+      Nikki Trinidad
     bio: >-
-      Nigeria / USA 🇳🇬🇺🇸 Neurosurgery RN 🧠💉 RageTalentAgency
+      📍DTLA , Los Angeles ▫️Filipina | Latina ▫️Travel • Fashion • Bikini LOVER ✨ ▫️M/A @leo.alderman @lsamanagement 📩NikkiTrinidadBookings@gmail.com
     location: "United States"
-    followers: 6145
-    engagement: 1279
-    commentsToLikes: 0.044945
-    id: ckf5uv5jxmgrs0j23kk7ymx1d
+    followers: 99625
+    engagement: 183
+    commentsToLikes: 0.062052
+    id: ck5c31ejdyetf0i1104rbc0oc
     verified: false
-    hashtags: "#model, #la, #actress, #lv"
-  - username: "jasonshanescott"
+    hashtags: "#ad, #ohpollyswim, #ohpolly, #sportswear"
+  - username: "jorgioblamo"
     fullname: >-
-      Jason-Shane Scott
+      Jorge Blamo 🇬🇭🇵🇹
     bio: >-
-      Actor 🎭 Writer 📝 Football Junkie🏈🏈
+      Psalm 23 🙏🏾 • Actor @wutangonhulu @remymartinus • Founder @inner.fire.fitness • Team @underarmour Inquiries 📧 jblamomgmt@gmail.com
     location: "United States"
-    followers: 10063
-    engagement: 919
-    commentsToLikes: 0.098409
-    id: ck5btt11zgjv70i11g1e04skz
+    followers: 20441
+    engagement: 421
+    commentsToLikes: 0.069638
+    id: ckapci5wo3wgy0i787hom7xij
     verified: false
-    hashtags: "#hollywood, #fitness, #losangeles, #fitnessmotivation"
-  - username: "eqvisions"
+    hashtags: "#leadyourlife, #jb, #throughthistogether, #throughthemind"
+  - username: "drewlip"
     fullname: >-
-      Edgar Quevedo
+      Andrew B Lipson
     bio: >-
-      🎥 DP|Creator 🎬 Co-Owner of @bluelabelproductions 👨‍👩‍👦 Familia DM ME TO BOOK YOUR SHOOTS!
+      Actor ~ Barman 🍎🍕🗽—> 🎭🌮🕶
     location: "United States"
-    followers: 3589
-    engagement: 760
-    commentsToLikes: 0.055718
-    id: ck6tvzf3rp53g0j71166gqob6
+    followers: 2675
+    engagement: 1163
+    commentsToLikes: 0.096086
+    id: ck13akxjgqvs00i197wewjjb6
     verified: false
-    hashtags: "#nyvideodirector, #fitness, #losangelesdirector, #nyvideographer"
-  - username: "slaywithateia"
+    hashtags: "#actor, #me, #bar, #acting"
+  - username: "dr.cracks"
     fullname: >-
-      TIA 🇹🇹🇬🇾
+      Dr.Ali Cracks
     bio: >-
-      Model | Coach Jesus follower ❤️ TikTok - SlaywithAteia Get FIT | Work from home ⤵️ SlaywithAteia.goherbalife.com 🎦 YouTube - SlaywithAteia
+      TikTok @dr.cracks (800K+) Followers (Millions Of Millions Of Views) 👇LINK BELOW👇
     location: "United States"
-    followers: 10309
-    engagement: 776
-    commentsToLikes: 0.046249
-    id: ck55lmfss1x0l0i11apisv46n
+    followers: 24116
+    engagement: 167
+    commentsToLikes: 0.015915
+    id: ck9wp4arp7qqo0j78qtzkd112
     verified: false
-    hashtags: "#modellife, #modeling, #fitgirls, #fashionbloggers"
-  - username: "jordy_runs"
+    hashtags: "#stretch, #chiropractic, #pain, #chiropractor"
+  - username: "xoxogissel"
     fullname: >-
-      Jordynn West
+      G I S S E L 🦋
     bio: >-
-      🏃🏾‍♀️ Atletismo | 13y/o 🇺🇸 Youth Runner Blogger 📝 Humble 🐝 Trusting My Process 🔑 #Believe #TrackGirlVibes
+      We take photos as a return ticket of a moment otherwise gone LA 🇲🇽📍 New video is up ⬇️
     location: "United States"
-    followers: 19297
-    engagement: 1490
-    commentsToLikes: 0.042651
-    id: ck8tdvmpm4vfl0j78il78rnh9
+    followers: 14492
+    engagement: 1812
+    commentsToLikes: 0.022976
+    id: ckap5u7jnd6od0i783ojpxebi
     verified: false
-    hashtags: "#runningmotivation, #athleticwear, #nikerunning, #resistancebands"
-  - username: "ro54d"
+    hashtags: "#whitetoes, #photography, #latina, #fashion"
+  - username: "sonnymatson1"
     fullname: >-
-      Rodrigo Garduño
+      Sonny Matson
     bio: >-
-      Founder of 54D Program High performance Coach. Miami📍 Former Professional soccer player. @54d.us 🇺🇸/@54d.mx🇲🇽/@54d.col🇨🇴
+      Born in Australia | Living in LA Snapchat | sonnymatson sonnymatson@hotmail.com🌴 My photography page @sonnychaotic Fashion magazine • Uncensored
     location: "United States"
-    followers: 1025537
-    engagement: 247
-    commentsToLikes: 0.038116
-    id: ck5cf0o7tm3c40i11cmvoo431
+    followers: 33795
+    engagement: 278
+    commentsToLikes: 0.023262
+    id: ck55kozf6zsfg0i119i3ta8o8
     verified: false
-    hashtags: "#rodrigogardu, #ny, #training, #miamiflorida"
+    hashtags: "#fitness, #hair, #losangeles, #beauty"
+  - username: "hellgoth6"
+    fullname: >-
+      𖤐    𝐻𝐸𝐿𝐿 𝐻𝐸𝑅𝐸       𖤐
+    bio: >-
+      𖤐 𝐆𝐎𝐓𝐇 / 𝐆𝐑𝐔𝐍𝐆𝐄 𝐈𝐍𝐒𝐏𝐈𝐑𝐀𝐓𝐈𝐎𝐍 𖤐 ᴰᴹ / ᴱᴹᴬᴵᴸ ᶠᴼᴿ ᴾᴬᴵᴰ ᴾᴿᴼᴹᴼˢ 𖤐 𝘛𝘈𝘎 𝘔𝘌 𝘛𝘖 𝘎𝘌𝘛 𝘍𝘌𝘈𝘛𝘜𝘙𝘌𝘋
+    location: "United States"
+    followers: 11586
+    engagement: 383
+    commentsToLikes: 0.021371
+    id: ckaovg1ry4gz40i78eh00678d
+    verified: false
+    hashtags: "#darkfashion, #gothicfashion, #gothgirls, #gothfashion"
 ---

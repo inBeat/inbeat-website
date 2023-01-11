@@ -1,130 +1,130 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In United Kingdom in 2023
+title: Top 10 Pole Dancers Instagram Influencers In United Kingdom In 2023
 description: >-
-  Find top pole dancers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #poledance #poledancer #flexibility #dance.
+  Find top pole dancers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #poledance #poledancer #poledancersofig #poletricks.
 platform: Instagram
-hits: 17
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 17 Instagram influencers like this in United Kingdom for you to work with.
+hits: 12
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 12 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
   - username: "psyc_grungequeen"
     fullname: >-
       Valkyrie Garcìa sgh
     bio: >-
-      Alt Model/performer • Pole dancer •Artist •Music Videos Psychology, Rock, Grunge, Viking 🤘 Suicide Girls Hopeful 💕 DM to collab 📸 Notts, UK
+      Alternative Model performer • Pole dancer • Music Videos Psychology, Rock, Grunge, Viking 🤘sgh 💕 Occasionally posts about important stuff
     location: "United Kingdom"
-    followers: 23873
-    engagement: 283
-    commentsToLikes: 0.070726
+    followers: 21943
+    engagement: 294
+    commentsToLikes: 0.071162
     id: ck15t11hjft860i19dvfg04bm
     verified: false
-    hashtags: "#blonde, #sexysunday, #moodygrams, #uk"
-  - username: "katherinekosma"
+    hashtags: "#mua, #pinup, #inkedgirls, #mood"
+  - username: "shevtsova_elizaveta"
     fullname: >-
-      Katherine✨
+      Elizaveta Shevtsova
     bio: >-
-      Plymouth. 23. 🍃👽💀💚 Nail Tech, Lil YouTuber, Resin Artist, Photographer, Model & Pole Dancer. Lover of cats, makeup, emo bands & weed.￼✨🔪💎📷💅🏻🐈🖤🥀
+      🏆3x World, Europe, 4x Czech champion, Pole Art Spain, 2x Italy medalist english, čeština, русский @dragonflybrand ambassador #pdshevtsovasplit
     location: "United Kingdom"
-    followers: 10070
-    engagement: 712
-    commentsToLikes: 0.045665
-    id: ck5q1bdowa6k00i11h0b4fbay
+    followers: 18973
+    engagement: 108
+    commentsToLikes: 0.010786
+    id: ck6tjst6o3cnv0j71fgjrsemh
     verified: false
-    hashtags: "#gothicc, #darkaesthetic, #witchcraft, #stockings"
-  - username: "bendy_kate"
+    hashtags: "#poledancingnation, #poledancenation, #poleathlete, #dragonflybrandambassador"
+  - username: "cteagz"
     fullname: >-
-      Bendy Kate
+      C TEAGANN 👙
     bio: >-
-      Pole dancer, aerialist & acrobat Dog lover Designer & Author @thebendybrand Sports Therapist @flexitherapy
+      Get Flexible and Strong Online/In Person 🙏⏬ Coach/Performer ✌🏽 European/UK Pole champion 🏆
     location: "United Kingdom"
-    followers: 169772
-    engagement: 83
-    commentsToLikes: 0.012211
-    id: ck0ueqyjhlwjg0i19lj8tx10r
-    verified: true
-    hashtags: "#floorwork, #training, #pole, #bendykate"
+    followers: 27154
+    engagement: 165
+    commentsToLikes: 0.041392
+    id: ck6tjs4773bcy0j71f4ns6dsj
+    verified: false
+    hashtags: "#poletricks, #handstands, #handbalance, #poleshapes"
   - username: "marinavish"
     fullname: >-
       Marina Vishniakova
     bio: >-
-      Pole & Aerial Artist and Instructor 🧚‍♀️ @superflyhoneyworld Ambassador @milanpoledancestudio Instructor Collab./enquiries📩 marina.vish86@gmail.com
+      Pole & Aerial Artist/Instructor 🧚‍♀️ @invertikaofficial INVERTIKAVISH10 @milanpoledancestudio 📍Milan Collab. enquiries 📩 marina.vish86@gmail.com
     location: "United Kingdom"
-    followers: 50558
-    engagement: 241
-    commentsToLikes: 0.019834
+    followers: 62112
+    engagement: 146
+    commentsToLikes: 0.022845
     id: ck14guzpk75w60i196itm17oo
     verified: false
-    hashtags: "#poledancenation, #poledancersofinstagram, #sport, #lovetodance"
-  - username: "lorna.fit"
+    hashtags: "#shapes, #polephoto, #polemom, #pdspincombo"
+  - username: "katherinekosma"
     fullname: >-
-      Lorna ✨Fitness Model✨
+      Katherine✨
     bio: >-
-      🏆 MP Pro and Pure Elite champion ⭐️ @tbconditioning @teamtbc 🤍 @its.me.lorna
+      Plymouth UK. 24. Lover of cats & weed. ADHD/ASD✨🐈‍⬛💚👽 @trippywitchofficial 🌙⛓🔮
     location: "United Kingdom"
-    followers: 19181
-    engagement: 388
-    commentsToLikes: 0.053568
-    id: ck6u33bnuvga70j716ezvv96d
+    followers: 15376
+    engagement: 651
+    commentsToLikes: 0.027695
+    id: ck5q1bdowa6k00i11h0b4fbay
     verified: false
-    hashtags: "#sunshine, #gettingitdone, #girlswithmuscle, #fitfun"
-  - username: "sigismondiphotography"
+    hashtags: "#pvc, #alternativemodel, #gothgirls, #gothgirl"
+  - username: "ria.sangria"
     fullname: >-
-      Alessandro Sigismondi
+      R i a  S a n g r i a  🧋 🍬
     bio: >-
-      Photography | Video Productions | Learn with me My #yogaphotography Course on @omstarsofficial code: SIGIS1MONTH 👇🏼
+      ✾Splits • Photography• Boba✾ #riasangria Email for business enquiries only DMS are not monitored
     location: "United Kingdom"
-    followers: 40918
-    engagement: 124
-    commentsToLikes: 0.069767
-    id: ck0w3pvnlunrh0i198iupk0md
+    followers: 20868
+    engagement: 298
+    commentsToLikes: 0.146663
+    id: ck9wdcq12f2820j78i7psdxhd
     verified: false
-    hashtags: "#photographycourse, #yogaphotoremix, #yogalife, #yogaeverywhere"
+    hashtags: "#lockdown, #tgif, #poledance, #riasangria"
   - username: "alhsnaps"
     fullname: >-
       A L H
     bio: >-
       North London Photographer - Headshots, Dance and Events.
     location: "United Kingdom"
-    followers: 9923
-    engagement: 806
-    commentsToLikes: 0.003678
+    followers: 9784
+    engagement: 826
+    commentsToLikes: 0.003569
     id: ck8svzumodbdp0j78w4n3n9wa
     verified: false
-    hashtags: "#livefolk, #instamagazine, #gramslayers, #streetshared"
+    hashtags: "#streettogether, #street, #streetmobs, #createcommune"
   - username: "imogengunter"
     fullname: >-
       Imogen Gunter
     bio: >-
-      BendyFreak Owner of @aerialinspirations @aerial.inspirations.shop Tutorials: patreon.com/imogengunter Travels 🌍performs 🎪 Book lessons, shop,contact↓
+      BendyFreak My shop: @aerial.inspirations.shop +owner of @aerialinspirations Tutorials: patreon.com/imogengunter Travels 🌍performs 🎪 Website↓
     location: "United Kingdom"
-    followers: 40015
-    engagement: 233
-    commentsToLikes: 0.030092
+    followers: 40902
+    engagement: 246
+    commentsToLikes: 0.023996
     id: ck13c614kyscx0i19cc0qqm0m
     verified: false
-    hashtags: "#aerialhooptricks, #contortion, #aerialinspirations, #aerial"
-  - username: "pixieleknot"
+    hashtags: "#poledancecombo, #contortion, #workout, #flexibility"
+  - username: "marioncrampe"
     fullname: >-
-      Pixie Le Knot
+      Marion Crampe
     bio: >-
-      Game Of Thrones, The Devil Inside, My Feral Heart, It Never Sleeps, Mowgli, Get Your Act Together, The Sidemen Show and GQ's Hottest Woman Of The Week
+      Museum of a journey ✨ Instructor-Performer-Modeling 🙏🏻 Life/Others-beyond 📌 Earth 📩 For enquiries/online classes, contact marioncrampe@hotmail.fr
     location: "United Kingdom"
-    followers: 69817
-    engagement: 282
-    commentsToLikes: 0.041725
-    id: ck15rai9i6ywj0i197f66v5jk
-    verified: false
-    hashtags: "#subway, #overheadlift, #circuseverydamnday, #tfl"
-  - username: "shwegold"
+    followers: 236423
+    engagement: 138
+    commentsToLikes: 0.018341
+    id: ck15sqmbvec020i193gzoyoyr
+    verified: true
+    hashtags: "#identity, #twistyourbody, #marioncrampe, #dreamyart"
+  - username: "amyhazel92"
     fullname: >-
-      𝖘𝖍𝖜𝖊 🦂
+      Pole Dancing Unicorn
     bio: >-
-      “Be humble, flow cocky, stay gold” •Spanglish living in Bournemouth• >Performer for the @dreamboys< -18+content @onlyfansasboloco-
+      👑 Miss Pole Dance Australia 2017 🤸🏼‍♀️Co-owner @blackbirdmelbourne 👶🏼 Mummy to be - Feb 2021💕 🧘‍♀️ Self recovery ED & HA ONLINE TUTORIALS👇🏽
     location: "United Kingdom"
-    followers: 18624
-    engagement: 298
-    commentsToLikes: 0.027412
-    id: ck55nlok26h100i11yd1r79qf
+    followers: 153465
+    engagement: 60
+    commentsToLikes: 0.017097
+    id: ck8t4oeck7ioo0j78kgtwuau1
     verified: false
-    hashtags: "#strippermemes, #striperlife, #bulgeboys, #stripers"
+    hashtags: "#23weekspregnant, #yogaflow, #yogasequence, #poledance"
 ---

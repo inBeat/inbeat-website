@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Switzerland in 2023
+title: Top 10 Photographers Instagram Influencers In Switzerland In 2023
 description: >-
-  Find top photographers Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #creative #photography #creativephotography.
+  Find top photographers Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #photography #zurich #portrait.
 platform: Instagram
-hits: 250
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 250 Instagram influencers like this in Switzerland for you to work with.
+hits: 152
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 152 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
-  - username: "fleursnoir"
+  - username: "niklas.eschenmoser"
     fullname: >-
-      Fleur
+      Niklas Eschenmoser
     bio: >-
-      * Hello stranger :) * photographer, gamer, lover of animals, traveling, cosplay, a good wine with Damien rice music’s and @artur.noir
+      Photographer & Filmmaker Bern, Switzerland
     location: "Switzerland"
-    followers: 43327
-    engagement: 1248
-    commentsToLikes: 0.258550
-    id: ck15tmw04ivcw0i19nwamvzzb
+    followers: 7730
+    engagement: 425
+    commentsToLikes: 0.034666
+    id: ck14hpkiqbhmi0i19zx9qg4h0
     verified: false
-    hashtags: "#netflix, #reels, #netflixcosplay, #ciri"
+    hashtags: "#doubs, #nature, #biodiversity, #fleetingglaciers"
+  - username: "championscars"
+    fullname: >-
+      Championscars
+    bio: >-
+      Switzerland🇨🇭 Photographer | Video Creator Private Account: @blacktaurus7
+    location: "Switzerland"
+    followers: 41182
+    engagement: 314
+    commentsToLikes: 0.014640
+    id: ck0w5jp2z3yxd0i19eg6sv3gb
+    verified: false
+    hashtags: "#sanktgallen, #911, #porschegt3cup, #dtmsportscars"
   - username: "massiahzavahir"
     fullname: >-
       MassiahZavahir
     bio: >-
-      ..creating.. ▪️Dancer | Choreographer 📸Photographer - DM for bookings ▪️Credits: Kanye West - Honor Up, MCM, Puma, Braun, Swatch, UO, Nike 📍Basel 🇨🇭
+      ..creating.. ▪️Dancer | Choreographer 📸Photographer - DM for bookings ▪️Credits: Kanye West - Honor Up, MCM, Puma, BRAUN, Swatch, UO, Nike 📍Basel 🇨🇭
     location: "Switzerland"
-    followers: 6130
-    engagement: 799
-    commentsToLikes: 0.154916
+    followers: 6665
+    engagement: 748
+    commentsToLikes: 0.133208
     id: ck5qcjwa7qxxx0i112ynf2ikk
     verified: false
-    hashtags: "#instagood, #gqstyle, #berlin, #oassismag"
+    hashtags: "#portraitphotography, #ootd, #libertyfairs, #zurich"
+  - username: "josevitari"
+    fullname: >-
+      Josevi Tari
+    bio: >-
+      🇪🇸Spanish Model 📍 Zurich, Switzerland🇨🇭 📸 Men's Fashion & Lifestyle 🌍 Love Travelling around the world. photographer:📸📲📩
+    location: "Switzerland"
+    followers: 43474
+    engagement: 249
+    commentsToLikes: 0.360018
+    id: ck5hjldijgtwo0i114h28ac9n
+    verified: false
+    hashtags: "#dapperlydone, #dappermen, #menfashiontips, #tailoredsuit"
+  - username: "shunsukecos"
+    fullname: >-
+      Shunsuke
+    bio: >-
+      Model, Coser and Self-photographer | 23 | 🇨🇭
+    location: "Switzerland"
+    followers: 269637
+    engagement: 1427
+    commentsToLikes: 0.004861
+    id: ck6twj3c2sa8p0j71w4rrad8q
+    verified: false
+    hashtags: "#naruto, #toxic, #sasuke, #britneyspears"
   - username: "kalepipe"
     fullname: >-
       Nae 🥬
     bio: >-
-      visual artist photographer, illustrator, painter dm or mail for creative collaborations.
+      ✨ swiss-filipina photographer and visual artist dm or mail for creative collaborations.
     location: "Switzerland"
-    followers: 39225
-    engagement: 1328
-    commentsToLikes: 0.006373
+    followers: 38324
+    engagement: 954
+    commentsToLikes: 0.005134
     id: ckf5rmr9xd8fr0j23md5kl0z9
     verified: false
-    hashtags: "#lascauxcolours"
-  - username: "michelvongerges"
-    fullname: >-
-      Michel Von Gerges
-    bio: >-
-      #bnwmood #fineartphotography Visual artist and a watch photographer. 🎥🎬📷 Free spirit, motorcyclist and a dreamer!
-    location: "Switzerland"
-    followers: 32756
-    engagement: 71
-    commentsToLikes: 0.092661
-    id: ck5hpplytrrfj0i116re6dqwu
-    verified: false
-    hashtags: "#zurich, #portraitgames, #creativeportrait, #godox"
+    hashtags: ""
   - username: "richardjuilliart"
     fullname: >-
       Richard juilliart
     bio: >-
       Photographer based in Switzerland
     location: "Switzerland"
-    followers: 18385
-    engagement: 1064
-    commentsToLikes: 0.004741
+    followers: 18198
+    engagement: 891
+    commentsToLikes: 0.003853
     id: ck6udq8bvmj7v0j71a9skrd48
     verified: false
-    hashtags: "#covid, #moment, #documentaryphotography, #onassignment"
-  - username: "josevitari"
+    hashtags: "#education, #humanitarian, #photojournalism, #geneva"
+  - username: "alex_lambrechts"
     fullname: >-
-      Josevi Tari
+      Alex Lambrechts
     bio: >-
-      🇪🇸Spanish Model 📍 Zurich, Switzerland🇨🇭 📸 Men's Fashion & Lifestyle 🌍 Love Travelling around the world. photographer:📸📲📩 Hextie Code: josevi25 (25%)
+      Official Photographer - LFI Leica Fotografie International Auteur / Filmmaker Rep. ROGUES ARTIST MANAGEMENT Based 🇨🇭+ 🇬🇧 Born 🇺🇾 Raised 🇦🇺
     location: "Switzerland"
-    followers: 31359
-    engagement: 278
-    commentsToLikes: 0.382741
-    id: ck5hjldijgtwo0i114h28ac9n
-    verified: false
-    hashtags: "#reels, #ootd, #moda, #outfitgrids"
-  - username: "miniundstil"
+    followers: 132957
+    engagement: 582
+    commentsToLikes: 0.000000
+    id: ck5bvtowekdri0i11b0x53sc1
+    verified: true
+    hashtags: "#teamgalaxy, #16mm, #amalficoast, #withgalaxy"
+  - username: "dadic.zada"
     fullname: >-
-      Mini & Stil
+      Zིaིdིaི
     bio: >-
-      ♥ isabelle | zurich | mom of three girls | visual storyteller | photographer @isabellekadefotografie ♥ ♥ read my blog:
+      Hobby Photographer📷 From 🇧🇦..Live in Switzerland.🇨🇭 Landscape & Nature Photography/Hiking 🏔🇨🇭🥾🏕 No Private Messages..📵
     location: "Switzerland"
-    followers: 26028
-    engagement: 258
-    commentsToLikes: 0.046680
-    id: ck0vwwhcwvxea0i19ybtz8rou
+    followers: 16289
+    engagement: 1335
+    commentsToLikes: 0.186208
+    id: ckap4b48i6kci0i78lw2qoe4g
     verified: false
-    hashtags: "#farrowandball, #kidsdesign, #kidsroom, #boliginter"
-  - username: "nicischindler"
+    hashtags: "#mountains, #berge, #blumenliebe, #tulips"
+  - username: "stefanrappo"
     fullname: >-
-      Nicolas Schindler
+      Stefan Rappo
     bio: >-
-      Film photographer _ On #35mm & #mediumformat In Switzerland.
+      Swiss photographer based in Paris traveling worldwide All images © Stefan Rappo mail@stefan-rappo.com
     location: "Switzerland"
-    followers: 6802
-    engagement: 873
-    commentsToLikes: 0.027935
-    id: ckaoug7l404ur0i78i89ugauf
+    followers: 56878
+    engagement: 189
+    commentsToLikes: 0.020529
+    id: ck0ub9vf8e5ri0i19s87r1b92
     verified: false
-    hashtags: "#nightwalkermagazine, #120film, #cinestill800t, #imaginarymagnitude"
-  - username: "florenceurban"
-    fullname: >-
-      Florence U. Photography 📸©️
-    bio: >-
-      Other account: @_portraits_photographer Professional photographer DM for shooting SonyA7rii, Zeiss & Sony lenses captures are mine©️
-    location: "Switzerland"
-    followers: 4991
-    engagement: 1961
-    commentsToLikes: 0.208597
-    id: ckaoy7kjsgbx50i78jzrnptcc
-    verified: false
-    hashtags: "#allkindofnature, #igersflowers, #macro, #flower"
-  - username: "travel_photos_stone"
-    fullname: >-
-      Steen🤙🤣✈️
-    bio: >-
-      Passionate hobby photographer 🌍Travel, nature, culture 📷 Nikon D750, IPhone X 😉 All photos taken by me©️
-    location: "Switzerland"
-    followers: 2780
-    engagement: 2518
-    commentsToLikes: 0.126107
-    id: ckap1f3bsubsi0i78lklqnms7
-    verified: false
-    hashtags: "#bnw, #fujilove, #simplicity, #stilllife"
+    hashtags: "#underwater, #schlangenfrau, #color, #blackandwhite"
 ---

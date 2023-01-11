@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga TikTok Influencers In London in 2023
+title: Top 10 Yoga TikTok Influencers In London In 2023
 description: >-
-  Find top yoga TikTok influencers in London in 2023. Most popular hashtags: #london #yoga #fyp #handstand.
+  Find top yoga TikTok influencers in London in 2023. Most popular hashtags: #yoga #fyp #london #fitness.
 platform: TikTok
-hits: 5
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 5 TikTok influencers like this in London, United Kingdom for you to collaborate.
+hits: 4
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 4 TikTok influencers like this in London, United Kingdom for you to connect with.
 profiles:
-  - username: "alicesantos0204"
-    fullname: >-
-      alicesantos0204
-    bio: >-
-      Health • Wellness • Model Follow me on Instagram @alicesantos0204
-    location: "United Kingdom"
-    followers: 55400
-    engagement: 1123
-    commentsToLikes: 0.010486
-    id: ckbqdwfnjzunv0j23os835vbo
-    verified: false
-    hashtags: "#fy, #life, #health, #saudavel"
   - username: "ashlyraeceo"
     fullname: >-
       ashlyraeceo
     bio: >-
-      Scottish ✨ Living in London ✨ Plant Based 🌱 Health, Wealth & Beauty 🌸
+      CEO of my own life Money ⭐️ Mindset ⭐️ Manifesting ⭐️ Business 5* Podcast 🎙
     location: "United Kingdom"
-    followers: 21500
-    engagement: 360
-    commentsToLikes: 0.026622
+    followers: 21800
+    engagement: 454
+    commentsToLikes: 0.041020
     id: ck8ouyb7jrp0w0j78801dsrdw
     verified: false
-    hashtags: "#london, #fyp, #yoga, #funny"
-  - username: "dianne_buswell_official"
-    fullname: >-
-      Dancer Dianne 
-    bio: >-
-      Follow me on Instagram and my YouTube channel
-    location: "United Kingdom"
-    followers: 589500
-    engagement: 1446
-    commentsToLikes: 0.009631
-    id: ck8orepojbwx80j78kj0te3p4
-    verified: true
-    hashtags: "#buswellness, #dance, #voiceover, #strictly"
-  - username: "smallspartanjay"
-    fullname: >-
-      Small Spartan 
-    bio: >-
-      Jay@ixbtalent.com INSTAGRAM - @Smallspartanjay YOUTUBE - SMALLSPARTANTV
-    location: "United Kingdom"
-    followers: 373300
-    engagement: 531
-    commentsToLikes: 0.008157
-    id: ck83wyzr0n5k10j78grbaw3ur
-    verified: false
-    hashtags: "#abs, #london, #fit, #sixpack"
+    hashtags: "#healthylifestyle, #fyp, #entrepreneur, #heybrandonwhatyougoton"
   - username: "laninalu"
     fullname: >-
       Leilani Rios
     bio: >-
       Bad Ass Coach for Women 🦸🏽‍♀️ ig @laninalu11 🌸🔥💃🏽
     location: "United Kingdom"
-    followers: 9501
-    engagement: 441
-    commentsToLikes: 0.026202
+    followers: 9554
+    engagement: 486
+    commentsToLikes: 0.027529
     id: ckamm3vxvytyf0i7820fb0hz3
     verified: false
-    hashtags: "#fy, #algarve, #fitchick, #portugal"
+    hashtags: "#coach, #feminineenergy, #dancing, #fyp"
+  - username: "chloekourga"
+    fullname: >-
+      chloekourga
+    bio: >-
+      Fitness thingz 🤘🏻 & Doing things that scare me 👊🏻 Funnier on IG ⬆️
+    location: "United Kingdom"
+    followers: 21200
+    engagement: 1105
+    commentsToLikes: 0.021921
+    id: ck9n8ddna8h4a0j78dc7r70rs
+    verified: false
+    hashtags: "#london, #stretching, #gymtok, #yoga"
+  - username: "graffitikings_gman"
+    fullname: >-
+      🔥FOLLOW🔥
+    bio: >-
+      🔥 GRAFFITI KINGS 🔥 @graffitikings 151k Insta 2.4 mil Facebook 53k Twitter
+    location: "United Kingdom"
+    followers: 11000
+    engagement: 652
+    commentsToLikes: 0.047074
+    id: cka0rgfufgzld0i78e8uwwkcw
+    verified: false
+    hashtags: "#fun, #graffitikings, #2022, #graffitiart"
   - username: "yoga_jonathon"
     fullname: >-
       Jonathon
     bio: >-
       Yoga student 🕉
     location: "United Kingdom"
-    followers: 2166
-    engagement: 1648
-    commentsToLikes: 0.060281
+    followers: 2154
+    engagement: 1600
+    commentsToLikes: 0.051476
     id: ck9bznzgvntbu0j7855qrhweb
     verified: false
-    hashtags: "#mindfulnesspractice, #onebreathatatime, #mindfulnessmeditation, #yogamen"
+    hashtags: "#mindfulnesspractice, #menofyoga, #yogamen, #onebreathatatime"
   - username: "thewellnesscoach"
     fullname: >-
-      Jessica Annabelle
+      ✨Jessica✨
     bio: >-
-      Psychology Scholar • Mental Health • Healing • Intimacy • Yoga Teacher ⠀ 👇🏼
+      ☝🏼JOIN THE CLUB Exploring Psychology, Relationships, Yoga & Philosophy✨
     location: "United Kingdom"
-    followers: 40300
-    engagement: 763
-    commentsToLikes: 0.049332
+    followers: 89300
+    engagement: 853
+    commentsToLikes: 0.033338
     id: ckb9vndlfuznq0j239v7x54ue
     verified: false
-    hashtags: "#relationshiptips, #attachmentstyle, #relationshipadvice, #attachmentissues"
-  - username: "therosieburr"
+    hashtags: "#spiritualjourney, #innerhealing, #intimacy, #relationshipadvice"
+  - username: "chloe.hutchings"
     fullname: >-
-      Rosie Burr
+      chloe_hutchings
     bio: >-
-      🤸‍♀️Handbalancing contortionist 👙Fitness model 🎥YouTube 👩‍💻Blogger
+      Myprotein code: CHLOEH 🖤 Insta: chloe_hutchings | UK
     location: "United Kingdom"
-    followers: 6269
-    engagement: 867
-    commentsToLikes: 0.035517
-    id: ck9616bhnl8dz0j7899nwp4dx
+    followers: 102600
+    engagement: 695
+    commentsToLikes: 0.047119
+    id: cka6j1um1t09c0i78py3ys5s0
     verified: false
-    hashtags: "#brighterinside, #superwomen, #positiveenergychallenge, #rosieburr"
-  - username: "ashlyraeceo"
+    hashtags: "#fashion, #yoga, #fyp, #workout"
+  - username: "chloekourga"
     fullname: >-
-      ashlyraeceo
+      chloekourga
     bio: >-
-      Scottish ✨ Living in London ✨ Plant Based 🌱 Health, Wealth & Beauty 🌸
+      Fitness thingz 🤘🏻 & Doing things that scare me 👊🏻 Funnier on IG ⬆️
     location: "United Kingdom"
-    followers: 21500
-    engagement: 360
-    commentsToLikes: 0.026622
-    id: ck8ouyb7jrp0w0j78801dsrdw
+    followers: 21200
+    engagement: 1105
+    commentsToLikes: 0.021921
+    id: ck9n8ddna8h4a0j78dc7r70rs
     verified: false
-    hashtags: "#london, #fyp, #yoga, #funny"
+    hashtags: "#london, #stretching, #gymtok, #yoga"
   - username: "acroyogadancer"
     fullname: >-
       AcroYogaBallerina
     bio: >-
-      💖 Follow for more 💕 For more content in my link 🗝
+      💖 Follow for more 💕 ⬇️ Make 💲💲 with podcasts ⬇️
     location: "United Kingdom"
-    followers: 143900
-    engagement: 533
-    commentsToLikes: 0.022505
+    followers: 165000
+    engagement: 304
+    commentsToLikes: 0.058843
     id: ckcuy5lqomaiz0j23u68cihos
     verified: false
-    hashtags: "#handstand, #tiktoktutorial, #foryou, #stitch"
+    hashtags: "#foryou, #dancing, #didyouknow, #dance"
+  - username: "gluteywear"
+    fullname: >-
+      Glutey Wear
+    bio: >-
+      She’s Confident & Empowered Luxurious Activewear Designed For You ❤️
+    location: "United Kingdom"
+    followers: 28100
+    engagement: 372
+    commentsToLikes: 0.018939
+    id: ckbbgze075jg30j235xfmcl45
+    verified: false
+    hashtags: "#fyp, #girlswhotrain, #workout, #clothinghaul"
 ---

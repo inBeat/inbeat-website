@@ -1,72 +1,48 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Austria in 2023
+title: Top 10 Beauty TikTok Influencers In Austria In 2023
 description: >-
-  Find top beauty TikTok influencers in Austria in 2023. Most popular hashtags: #beauty #fyp #halloween #foryou.
+  Find top beauty TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #beauty #foryou #test.
 platform: TikTok
-hits: 51
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 51 TikTok influencers like this in Austria for you to collaborate.
+hits: 43
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 43 TikTok influencers like this in Austria for you to contact.
 profiles:
   - username: "lisa.sophie.thoma"
     fullname: >-
       Lisa Sophie Thoma
     bio: >-
-      YouTube: Cutelifehacksde Instagram: meineversion 💖 Basteln, Beauty & Hacks 💖
+      YouTube: Cutelifehacksde Instagram: Meineversion 💖 Basteln, Beauty & Hacks
     location: "Austria"
-    followers: 118200
-    engagement: 1599
-    commentsToLikes: 0.009880
+    followers: 177600
+    engagement: 1248
+    commentsToLikes: 0.008706
     id: ck9c08qaho58y0j78zl1hwpqw
     verified: true
-    hashtags: "#beauty, #diy, #schleim, #asmr"
-  - username: "zhr.stn"
-    fullname: >-
-      Zehra.StN...🦋
-    bio: >-
-      Zukünftige Fahrlehrerin 🚘 MoM of two beauty Girls 👩‍👧‍👧
-    location: "Austria"
-    followers: 13100
-    engagement: 747
-    commentsToLikes: 0.042053
-    id: ckbr2h7cyj5vp0j23l2xutlah
-    verified: false
-    hashtags: "#fahrsicherheitstraining, #fahrschulevienna, #zuk, #gezegenteam"
-  - username: "valeriadolbel"
-    fullname: >-
-      Valeria Dolbel
-    bio: >-
-      Beauty nutrition, recipes, wellness tips, gardening, DIY projects and more! 🌱
-    location: "Austria"
-    followers: 30800
-    engagement: 622
-    commentsToLikes: 0.023941
-    id: ckbeyn46wj8r20j23iyg2u767
-    verified: false
-    hashtags: "#fruitlover, #plantbasedrecipes, #plantbasedfood, #plantbased"
-  - username: "ewatsiakmakis"
-    fullname: >-
-      ewa
-    bio: >-
-      fashion, beauty, lifestyle & fooood🤍 follow my IG: ewatsiakmakis vienna
-    location: "Austria"
-    followers: 26400
-    engagement: 712
-    commentsToLikes: 0.017989
-    id: ckai38ndaj02e0i783silu66w
-    verified: false
-    hashtags: "#vienna, #vlog, #asiashophaul, #shopping"
+    hashtags: "#glitzer, #muttertag, #schminken, #beauty"
   - username: "beauty_thecockatoo"
     fullname: >-
       Vogi be like
     bio: >-
       I bims Beauty - das weiße Greif-Vogi 🐔😬😜 crazy Cockatoo with crazy human 😂
     location: "Austria"
-    followers: 7727
-    engagement: 644
-    commentsToLikes: 0.017915
+    followers: 9958
+    engagement: 920
+    commentsToLikes: 0.030392
     id: ckc384z95wxvg0j230p9gj8je
     verified: false
-    hashtags: "#animalsdoingthings, #moodswings, #animalsreact, #papagei"
+    hashtags: "#petsoftiktok, #birb, #petchallenge, #funnytiktok"
+  - username: "beautydiets"
+    fullname: >-
+      Valeria Dolbel
+    bio: >-
+      Skin nutrition specialist 🌱 WFPB Recipes/tips for healthy skin & vibrant living
+    location: "Austria"
+    followers: 30500
+    engagement: 483
+    commentsToLikes: 0.048468
+    id: ckbeyn46wj8r20j23iyg2u767
+    verified: false
+    hashtags: "#plantbased, #nutritiontips, #postacne, #wfpb"
   - username: "coloratoequestrian"
     fullname: >-
       Sabrina Kat
@@ -78,53 +54,77 @@ profiles:
     commentsToLikes: 0.011054
     id: ckbvtl0vtscnj0j23ln96g9ki
     verified: false
-    hashtags: "#ups, #equestrian, #pferdeliebe, #travel"
-  - username: "jonbro363"
+    hashtags: "#schweiz, #tiktok, #ups, #pinto"
+  - username: "xprinceali_"
     fullname: >-
-      jonbro 363
+      Prince Ali
     bio: >-
-      Skiislife 🎿 Thx for 4k follower🚦
+      📧 Ali.ciftci66@gmx.at 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
     location: "Austria"
-    followers: 4598
-    engagement: 963
-    commentsToLikes: 0.025698
-    id: ckbfef6uz8is40j239qn046d9
+    followers: 83900
+    engagement: 755
+    commentsToLikes: 0.083225
+    id: ckb9i4mix87e00j23zyh5wcw8
     verified: false
-    hashtags: "#foryou, #foryoupage, #foru, #ski"
-  - username: "maqaroon"
+    hashtags: "#race, #experiment, #viral, #fyp"
+  - username: "sarahelsiee"
     fullname: >-
-      Maqaroon
+      sarah ⚡️
     bio: >-
-      🌸 Aesthetic Trends, Hacks & DIYs 🌸 Joanna Zhou 🇨🇳🇦🇹 YouTuber & Designer!
+      💥🍿 trying food & products fy ✌🏽🔥 🇪🇬 mixed kid 🇦🇹 wien📍
     location: "Austria"
-    followers: 265700
-    engagement: 1599
-    commentsToLikes: 0.009225
-    id: ck9c8wqkptcw70j78rth2qa3p
+    followers: 20400
+    engagement: 651
+    commentsToLikes: 0.023630
+    id: ckdnneoukjyon0j23fbj6s5sp
+    verified: false
+    hashtags: "#makeuptutorial, #bipa, #lashes, #tutorials"
+  - username: "alinaevita"
+    fullname: >-
+      PRESS🔔WIN 
+    bio: >-
+      Insta/Youtube: @AlinaEvita ⤴️ 15 years•Mom runs acc 🎯1M🙏 Hit my bell/Жми на🔔
+    location: "Austria"
+    followers: 576800
+    engagement: 1368
+    commentsToLikes: 0.065390
+    id: ck8roff3sgwh30j78eygn7s6c
     verified: true
-    hashtags: "#polymerclay, #rocktumbler, #cute, #pig"
-  - username: "happyjumpytravel"
-    fullname: >-
-      Marie Lou
-    bio: >-
-      🌿 Plastic Free Zone and my baby cats 🌿 Austria 🇦🇹
-    location: "Austria"
-    followers: 7185
-    engagement: 681
-    commentsToLikes: 0.017670
-    id: ck9ka93mvgbki0j789wksf8bu
-    verified: false
-    hashtags: "#sustainable, #nomoreplastic, #moodboost, #lowwaste"
+    hashtags: "#wearehere, #tiktokdance, #viral, #gymnastics"
   - username: "antonbiermann3"
     fullname: >-
       🖤TONI🖤
     bio: >-
       🥰TT Wife♥️bemecrazyme🥰 💓#couplegoals#💓 TT Brother🤜🏻hofingerrobert🤛🏻
     location: "Austria"
-    followers: 8561
-    engagement: 774
-    commentsToLikes: 0.062894
+    followers: 8477
+    engagement: 753
+    commentsToLikes: 0.059765
     id: ckbfik5sqeg740j236jokfycn
     verified: false
-    hashtags: "#fun, #crazy, #likeit, #duett"
+    hashtags: "#comedy, #sing, #lipsync, #fun"
+  - username: "ellyeco"
+    fullname: >-
+      Elly Eco
+    bio: >-
+      🌿 Plastic Free Zone and my baby cats 🌿 Austria 🇦🇹
+    location: "Austria"
+    followers: 7073
+    engagement: 845
+    commentsToLikes: 0.019504
+    id: ck9ka93mvgbki0j789wksf8bu
+    verified: false
+    hashtags: "#moodboost, #vienna, #nachhaltig, #nachhaltigerleben"
+  - username: "monikafrauenhofer"
+    fullname: >-
+      Monika Frauenhofer
+    bio: >-
+      
+    location: "Austria"
+    followers: 8095
+    engagement: 422
+    commentsToLikes: 0.029392
+    id: cka0n23u8xtqr0i78avk19bp1
+    verified: false
+    hashtags: "#austria, #fyp, #funny, #fy"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In New Delhi in 2023
+title: Top 10 Models Instagram Influencers In New Delhi In 2023
 description: >-
-  Find top models Instagram influencers in New Delhi in 2023. Most popular hashtags: #fashion #photography #model #fashionblogger.
+  Find top models Instagram influencers in New Delhi in 2023. Most popular hashtags: #photography #model #fashion #trending.
 platform: Instagram
-hits: 66
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 66 Instagram influencers like this in New Delhi, India for you to collaborate.
+hits: 40
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 40 Instagram influencers like this in New Delhi, India for you to contact.
 profiles:
-  - username: "ria.swamy"
-    fullname: >-
-      Ria Swamy
-    bio: >-
-      The OG. Freelance model | 23 | New Delhi SUBSCRIBEEE 🦋
-    location: "India"
-    followers: 20507
-    engagement: 1800
-    commentsToLikes: 0.013228
-    id: ck0vw5qmhs87m0i19mdnq3tn5
-    verified: false
-    hashtags: "#stayhome, #staysafe, #cheeselove, #safecravings"
   - username: "iemrizwan_official"
     fullname: >-
       Rizwan Khan
     bio: >-
       ALHAMDULILLAH😍 Actor/Model Tiktok - Iemrizwan New delhi / India♥️ 3rd Oct 🎂 I dream ‘fore I am! DM me for Collaboration
     location: "India"
-    followers: 2217
-    engagement: 2208
-    commentsToLikes: 0.027818
+    followers: 2090
+    engagement: 2103
+    commentsToLikes: 0.023062
     id: ckapbgodtzsa60i782cfui7qm
     verified: false
-    hashtags: "#iphone12pro, #selfies, #pro, #pubg"
+    hashtags: "#pubmobile, #brutal, #pubgclips, #iphone12pro"
+  - username: "rudra_priya_"
+    fullname: >-
+      Rudrapriya.
+    bio: >-
+      VLCC Femina Miss India Madhya Pradesh 2020 @missindiaorg Urban planner and Model. MA @timestalent Bhopal| New Delhi
+    location: "India"
+    followers: 8487
+    engagement: 859
+    commentsToLikes: 0.028500
+    id: ck15qovw53xbh0i19wvzgety9
+    verified: false
+    hashtags: "#rvwomen, #reelsinstagram, #thread, #rishiandvibhuti"
   - username: "jiah_bhardwaj"
     fullname: >-
       Deoyani Bhardwaj (Jiah)
     bio: >-
-      Dancer|Model 💃 Interior Designer 📍NewDelhi | Mumbai deoyani.bwj@gmail.com
+      Dancer | Model | Choreographer | Interior Designer 📍New Delhi deoyani.bwj@gmail.com
     location: "India"
-    followers: 34876
-    engagement: 872
-    commentsToLikes: 0.026597
+    followers: 38870
+    engagement: 388
+    commentsToLikes: 0.028465
     id: ck14imgrzg4cy0i19qy7ln4o8
     verified: false
-    hashtags: "#iconic, #photography, #dance, #jiahbhardwaj"
-  - username: "iamdivinaathackur"
-    fullname: >-
-      divinaathackur
-    bio: >-
-      #actor #bollywood #movies #actress #hickey #veeram #prasthanam #whosyourdaddy HICKEY movie link
-    location: "India"
-    followers: 38879
-    engagement: 296
-    commentsToLikes: 0.029291
-    id: ck15rrpus9d3i0i19usyotiqz
-    verified: false
-    hashtags: "#fashion, #southindianactress, #love, #kolkata"
+    hashtags: "#latindance, #socialdance, #holi2k21, #reels"
   - username: "shewon_alyosius"
     fullname: >-
       Shewon Alyosius
     bio: >-
-      Never give up on your dreams. Digital Marketer | Fashion Stylist | I Model Sometimes! Portraits • Fashion • Beauty • Lifestyle 📍New Delhi
+      Never give up on your dreams. Digital Marketer | Fashion Stylist | Fashion Model Fashion • Beauty • Lifestyle • Portraits 📍New Delhi
     location: "India"
-    followers: 62295
-    engagement: 256
-    commentsToLikes: 0.038841
+    followers: 75093
+    engagement: 134
+    commentsToLikes: 0.058256
     id: ck15sp6r1e4k90i19kx2hi3on
     verified: false
-    hashtags: "#happy, #indianethnic, #girlpower, #reels"
-  - username: "theclassiqueaffair_"
+    hashtags: "#happyvibes, #rakhi, #rakhshabandhan, #positivevibes"
+  - username: "tusharikasethi"
     fullname: >-
-      Nitin Gupta | Lifestyle Blog
+      Tusharika Sethi
     bio: >-
-      👔•Versatile Fashion | Lifestyle 📝•Content Creator •Model •Actor 📧•theclassiqueaffair@gmail.com 📍•New Delhi ⬇️•My Own Show☺️
+      Travel | Food | Lifestyle 📍New Delhi Conquering the world ✈️ 💌 hellotusharika@gmail.com
     location: "India"
-    followers: 13419
-    engagement: 830
-    commentsToLikes: 0.057108
-    id: ckaova9eg3phc0i78ujgtpu1v
+    followers: 5776
+    engagement: 664
+    commentsToLikes: 0.082820
+    id: ckap02xjhohdn0i78bqctyjt1
     verified: false
-    hashtags: "#designersuits, #summer2020, #instagramfashion, #menwithstreetstyle"
-  - username: "prarthna02"
+    hashtags: "#poser, #sea, #traveldiaries, #hiking"
+  - username: "ankur.dua"
     fullname: >-
-      Prarthna Ahuja
+      Ankur Dua
     bio: >-
-      Fashion! Beauty! Lifestyle! @Plixxo campus ambassador 💌 Dm or Mail for Collaboration. 📍New Delhi Whatever you do in life, do it with love 💙
+      22 || 📍New Delhi DM/Mail for paid promotion & collaboration Email- ankur.dua999@gmail.com Snapchat👻- ankurdua99
     location: "India"
-    followers: 6232
-    engagement: 1403
-    commentsToLikes: 0.099520
-    id: ck8t7ahudg48o0j78ypt7wn2m
+    followers: 171758
+    engagement: 257
+    commentsToLikes: 0.018824
+    id: ck9wg37jxrp3u0j78v3medvr0
     verified: false
-    hashtags: "#fashionista, #plixxoblogger, #ootd, #plixxo"
+    hashtags: "#viralreels, #explorepage, #punjabi, #viralpost"
+  - username: "abhishek_berwal_"
+    fullname: >-
+      अभिषेक बेरवाल
+    bio: >-
+      DTU’22 | KV’18 | New Delhi 📩 berwal69@gmail.com
+    location: "India"
+    followers: 11691
+    engagement: 1139
+    commentsToLikes: 0.032052
+    id: ckapav5r4xl800i7816ehskzo
+    verified: false
+    hashtags: "#pose, #hairstyle, #fitness, #gym"
+  - username: "hasan__suhaib__siddiqui"
+    fullname: >-
+      Hasan S. Siddiqui | سید الصہیب
+    bio: >-
+      𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 ıllı 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 ıllı 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞 📍Roorkee ⇌ New Delhi 📍IND 🇮🇳 According US 🇺🇸 Mail For Collaboration📥 U Can’t 🔥Me #facebook #Hasansuhaibsiddiqui
+    location: "India"
+    followers: 34770
+    engagement: 25
+    commentsToLikes: 0.034766
+    id: ckaovylz16nnc0i7856g8crjm
+    verified: false
+    hashtags: "#insta, #instadaily, #model, #modeling"
   - username: "the_ankita_gupta_"
     fullname: >-
       Ankita Gupta
     bio: >-
       NIFT, New Delhi. B.Des.🎓 Jewelry Designer @swarovski Professional Makeup Artist 💄@ankita_gupta_makeovers Kanpur🔃Delhi DM for paid promotions /collabs
     location: "India"
-    followers: 11451
-    engagement: 907
-    commentsToLikes: 0.091880
+    followers: 11727
+    engagement: 798
+    commentsToLikes: 0.064296
     id: ckaov5oul361p0i78o45c14hk
     verified: false
-    hashtags: "#nift, #photoshoot, #summeroutfitideas, #makeupblogger"
-  - username: "hasan__suhaib__siddiqui"
+    hashtags: "#pose, #delhifashionblogger, #makeup, #summeroutfitideas"
+  - username: "himanshuchwdhary"
     fullname: >-
-      Hasan S. Siddiqui | سید الصہیب
+      Himanshu Choudhary
     bio: >-
-      𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 ıllı 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 ıllı 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞 📍Roorkee ⇌ New Delhi Mail For Collaboration📥 U Can’t 🔥Me Managed by @sneakernews #facebook #Hasansuhaibsiddiqui
+      Director at @modelmakersofficial Director at @meoproduction Director at @meostudiodelhi NEW-DELHI/MUMBAI
     location: "India"
-    followers: 35161
-    engagement: 30
-    commentsToLikes: 0.038209
-    id: ckaovylz16nnc0i7856g8crjm
+    followers: 21656
+    engagement: 275
+    commentsToLikes: 0.032328
+    id: ckapaz00ky04c0i78xsuuaxro
     verified: false
-    hashtags: "#nature, #photography, #photo, #flairback"
-  - username: "abhishek_berwal_"
-    fullname: >-
-      अभिषेक बेरवाल
-    bio: >-
-      DTU’22 | KV’18 | New Delhi
-    location: "India"
-    followers: 5004
-    engagement: 1088
-    commentsToLikes: 0.038669
-    id: ckapav5r4xl800i7816ehskzo
-    verified: false
-    hashtags: "#love, #beautiful, #sunday, #picoftheday"
+    hashtags: "#mtvsplitsvilla, #mtvroadies, #mtv, #mtvindia"
 ---

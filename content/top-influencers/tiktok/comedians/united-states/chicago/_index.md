@@ -1,96 +1,120 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Chicago in 2023
+title: Top 10 Comedians TikTok Influencers In Chicago In 2023
 description: >-
-  Find top comedians TikTok influencers in Chicago in 2023. Most popular hashtags: #chicago #fyp #comedy #funny.
+  Find top comedians TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #comedy #stitch #funny.
 platform: TikTok
-hits: 27
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 27 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 24
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 24 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
+  - username: "mattlikestolaugh"
+    fullname: >-
+      Matt Shaver
+    bio: >-
+      My mom thinks I’m handsome & I think I’m funny Comedian / Chicago ⬇️All Links!⬇️
+    location: "United States"
+    followers: 54000
+    engagement: 1862
+    commentsToLikes: 0.052870
+    id: ckbf7620vwtxr0j23f1dbskoy
+    verified: false
+    hashtags: "#viral, #funny, #duet, #stitch"
+  - username: "callmebyyourwifesname"
+    fullname: >-
+      Andrew
+    bio: >-
+      Chicago Comedian/Actor/Writer/Musician He/Him Insta: @yesandrewsickel
+    location: "United States"
+    followers: 63700
+    engagement: 1491
+    commentsToLikes: 0.035824
+    id: ckbf0gtdem52s0j23gcq0z45e
+    verified: false
+    hashtags: "#sketch, #stitch, #lilnasx, #men"
   - username: "miggyduke"
     fullname: >-
       Megwell Rodreeguez
     bio: >-
       Chicago based comedian & educator. Support the arts and be nice.
     location: "United States"
-    followers: 35100
-    engagement: 1010
-    commentsToLikes: 0.020018
+    followers: 34800
+    engagement: 1005
+    commentsToLikes: 0.041491
     id: ckbf0gw9um5ip0j23jq0a8kd6
     verified: false
-    hashtags: "#smallbusiness, #myneighborsrock, #topochico, #candles"
-  - username: "allisonistoosilly"
+    hashtags: "#comedy, #fyp, #stitch, #tragedy"
+  - username: "mattbanwart"
     fullname: >-
-      Allison
+      Matt Banwart
     bio: >-
-      crafty bisexual comedian 💗💜💙 Montessori toddler teacher Chicago
+      Stand Up Comedian ~Satire Writer~ 24 | Chicago Live Shows Out NOW ↘️⬇️↙️
     location: "United States"
-    followers: 3314
-    engagement: 1084
-    commentsToLikes: 0.092573
-    id: ckdn2kvl2dil30j23prg76zvp
+    followers: 32700
+    engagement: 1029
+    commentsToLikes: 0.094506
+    id: ckbbqj5l1e8o30j23prn08u1w
     verified: false
-    hashtags: "#showupshowoff, #halloween, #wewintogether, #halloween2020"
-  - username: "adwithit"
+    hashtags: "#roastbattle, #learnontiktok, #conspiracy, #standupcomedy"
+  - username: "olevialou"
     fullname: >-
-      adwitdacontent
+      OLEEVIA
     bio: >-
-      I AM A KING OF STITCH I AM A ORGINALIST @ CONTENT
+      Get your sugar free red bull and get the day started
     location: "United States"
-    followers: 9987
-    engagement: 733
-    commentsToLikes: 0.191444
-    id: ckb9bznpfyhzp0j23c3haxqzf
+    followers: 21600
+    engagement: 704
+    commentsToLikes: 0.027986
+    id: ck8tkvdof9giv0j78e3tuq2zr
     verified: false
-    hashtags: "#floodthefeed, #trending, #christian, #demontime"
-  - username: "darkskindrizzy"
+    hashtags: "#comedy, #funny, #fyp, #birthday"
+  - username: ".bdawgricch"
     fullname: >-
-      JAMÀLY
+      Bdawgricch💪🏽
     bio: >-
-      ARTIST/COMEDIAN 😂 LATINO ✊🏿✊🏾✊🏽✊🏼✊🏻 IG @JAMALYBELLO 🇵🇦🇨🇷 PANAMEÑO
+      Chicago📍 Half Time Comedian😂 Follow Me On Insta🌪
     location: "United States"
-    followers: 25200
-    engagement: 1665
-    commentsToLikes: 0.122673
-    id: ckahun5s9j53l0i78wdcs4en8
+    followers: 213700
+    engagement: 1357
+    commentsToLikes: 0.033817
+    id: ckb9aa1qlv3hb0j238q4lvjej
     verified: false
-    hashtags: "#puertorican, #black, #dominican, #afrolatino"
-  - username: "thearishj"
+    hashtags: "#fyp, #makemeviral, #funny, #makemefamous"
+  - username: "stephnomore"
     fullname: >-
-      Arish J.
+      stevester
     bio: >-
-      😂 Comedian/Actor 🎥 Filmmaker 🇵🇰 🇺🇸 📍Atlanta
+      I LOVE DUCKS & SEA OTTERS spotify: @stephnomore
     location: "United States"
-    followers: 6098
-    engagement: 761
-    commentsToLikes: 0.068528
-    id: ckc30xyszrj750j2326r4ydkp
+    followers: 46300
+    engagement: 1698
+    commentsToLikes: 0.029906
+    id: ckb9o7pzpijqw0j23pt9gihu4
     verified: false
-    hashtags: "#pakistani, #indian, #indians, #comedy"
-  - username: "ttg13kant"
+    hashtags: "#music, #love, #stitch, #book"
+  - username: "realaaronweber"
     fullname: >-
-      Anthony Laster
+      Aaron Weber
     bio: >-
-      100k Followers By The End Of My Deployment!? +Snap 👻 okg_anthony 📍Chicago📍
+      See me live ✅ 5/21-22 O’Fallon, MO ✅ 6/25-27 Chicago ✅ 7/10 Auburn, AL
     location: "United States"
-    followers: 51500
-    engagement: 1126
-    commentsToLikes: 0.028244
-    id: ckaiieu8ua48o0i78tmeju6oh
+    followers: 93500
+    engagement: 1699
+    commentsToLikes: 0.007018
+    id: ckb9rhhoxo5vk0j23oxtu4gc2
     verified: false
-    hashtags: "#life, #xyz, #smile, #usmilitary"
-  - username: "danmancarney"
+    hashtags: "#comedian, #podcast, #cars, #standupcomedy"
+  - username: "corymichaeliscomedy"
     fullname: >-
-      Dan Carney
+      Cory Michaelis
     bio: >-
-      Comedian Follow me on IG Sub on YouTube
+      Comedian 🎤 IG: @corymichaeliscomedy “Bad Teacher” on Dry Bar Sights Set on 99k
     location: "United States"
-    followers: 31000
-    engagement: 1344
-    commentsToLikes: 0.007547
-    id: ckbl45pex1nig0j23yolsa1ti
+    followers: 45700
+    engagement: 1183
+    commentsToLikes: 0.054693
+    id: ckbl0mni1xbf10j23xzn52auk
     verified: false
-    hashtags: "#standupcomedy, #dankmemes, #funnyvideos, #comedian"
+    hashtags: "#duet, #fyp, #dating, #comedy"
   - username: "jimmyriggins"
     fullname: >-
       Har V Dent
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.024767
     id: ckdi74jmz8vvr0j23wy6m4h9f
     verified: false
-    hashtags: "#lol, #explore, #foryou, #foryoupage"
-  - username: "frankie_failure"
-    fullname: >-
-      Frankie Pitts
-    bio: >-
-      He/Him 22
-    location: "United States"
-    followers: 21400
-    engagement: 2816
-    commentsToLikes: 0.031532
-    id: ckamf7djp6ugc0i78yhlsoy5g
-    verified: false
-    hashtags: "#chicago, #fyp, #dating, #maidcostume"
-  - username: "mattbanwart"
-    fullname: >-
-      Matt Banwart
-    bio: >-
-      CEO Of Stand Up Comedy 20k?? Instagram @Matt_Banwart Live show in Des Moines⤵️
-    location: "United States"
-    followers: 19600
-    engagement: 1423
-    commentsToLikes: 0.083823
-    id: ckbbqj5l1e8o30j23prn08u1w
-    verified: false
-    hashtags: "#duet, #greenscreen, #stitch, #happyhalloween"
+    hashtags: "#chicago, #foryoupage, #foryou, #comedy"
 ---

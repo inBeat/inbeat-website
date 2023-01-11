@@ -1,24 +1,12 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Atlanta in 2023
+title: Top 10 Vegan TikTok Influencers In Atlanta In 2023
 description: >-
-  Find top vegan TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #atlanta #vegan #foodie.
+  Find top vegan TikTok influencers in Atlanta in 2023. Most popular hashtags: #vegan #atlanta #fyp #foryoupage.
 platform: TikTok
-hits: 11
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 11 TikTok influencers like this in Atlanta, United States for you to collaborate.
+hits: 12
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in Atlanta, United States for you to collaborate.
 profiles:
-  - username: "wfpbjosh"
-    fullname: >-
-      Josh Wayne
-    bio: >-
-      Vegan, Whole Food Plant Based, Forager, Empathy
-    location: "United States"
-    followers: 3089
-    engagement: 871
-    commentsToLikes: 0.043022
-    id: ckakny1z394yh0i78q1bxh4cp
-    verified: false
-    hashtags: "#edible, #forage, #yum, #fyp"
   - username: "vinyasavegan"
     fullname: >-
       Michael
@@ -30,101 +18,113 @@ profiles:
     commentsToLikes: 0.061744
     id: ckb9c074oyknf0j23xnm03x6c
     verified: false
-    hashtags: "#vegancookies, #veganbreakfast, #vegandessert, #veganrecipes"
+    hashtags: "#health, #dessert, #veganbreakfast, #veganrecipes"
+  - username: "wfpbjosh"
+    fullname: >-
+      Josh Wayne
+    bio: >-
+      Vegan, Whole Food Plant Based, Forager, Empathy
+    location: "United States"
+    followers: 3160
+    engagement: 908
+    commentsToLikes: 0.066418
+    id: ckakny1z394yh0i78q1bxh4cp
+    verified: false
+    hashtags: "#edible, #plantbased, #atl, #foraging"
   - username: "buzzed__lightyear"
     fullname: >-
       Buzzed ❤️🖤🌱
     bio: >-
       Antisocial Vegan•I Avoid Meet •🌱Eater 🐾 Lover•Runner•It’s All Fun• 🇵🇷
     location: "United States"
-    followers: 5221
-    engagement: 650
-    commentsToLikes: 0.079126
+    followers: 5168
+    engagement: 1003
+    commentsToLikes: 0.085163
     id: ckbfiblkfe3rw0j23ebr838yt
     verified: false
-    hashtags: "#singlelife, #getthelook, #morph, #over40"
-  - username: "justlex.x"
+    hashtags: "#plantbased, #xyzbca, #youshouldknow, #foodie"
+  - username: "jarrett_derryberry"
     fullname: >-
-      Lex
+      Jarrett Derryberry
     bio: >-
-      26 Accepting Orders NOW🔥 NC & ATL🍑 MY WEBSITE & YOUTUBE below↙️
+      ATLANTA... kinda. Well not really... I'm like an hour from it. I'm close enough.
     location: "United States"
-    followers: 66000
-    engagement: 1268
-    commentsToLikes: 0.174093
-    id: ckb9mpz4hg3hv0j237jztqd2a
+    followers: 13900
+    engagement: 560
+    commentsToLikes: 0.051020
+    id: ck8kd2smg3xo50j78rm9vj0b6
     verified: false
-    hashtags: "#foodie, #atlanta, #food, #foodtok"
-  - username: "catoura"
+    hashtags: "#cringe, #foryou, #lookalikeedit, #dog"
+  - username: "quenchvegancos"
     fullname: >-
-      Catoura
+      DerrionaCherbrea
     bio: >-
-      Beauty, Style & Yummy Eats Mama to a sweet chi chi Follow me on Insta!
+      Vegan, cruelty free skin/body care ✨ Based in Sav. Ga 🌴 Ig: @quenchcosmetics_
     location: "United States"
-    followers: 10500
-    engagement: 827
-    commentsToLikes: 0.030348
-    id: ck9fmlkpyu1l50j78kh09jpkd
+    followers: 4153
+    engagement: 1312
+    commentsToLikes: 0.031978
+    id: ckc7uf01by9pq0j23bseab7ou
     verified: false
-    hashtags: "#fyp, #pup, #xyzbca, #dogsoftiktok"
-  - username: "bitboycrypto"
+    hashtags: "#fyp, #blackowned, #skincare, #vegancosmetics"
+  - username: "quinoatears"
     fullname: >-
-      BitBoy Crypto
+      quinoa tears
     bio: >-
-      Crypto YouTuber by day. TikToker by night. Ben Armstrong aka BitBoy Crypto.
+      🐱🍄🌞🌻
     location: "United States"
-    followers: 2400000
-    engagement: 1552
-    commentsToLikes: 0.016881
-    id: ck7zp8ok3nw420j78fvhrxytk
-    verified: true
-    hashtags: "#cryptocurrency, #falcons, #crypto, #bitcoin"
+    followers: 3805
+    engagement: 1036
+    commentsToLikes: 0.060017
+    id: ckb98w02ospk10j23r25g3ryl
+    verified: false
+    hashtags: "#thehighnote, #geicolipsync, #atl, #atlanta"
   - username: "hunuhh"
     fullname: >-
       Hannah Gebert
     bio: >-
-      Atl, GA UGA’ 23 20
+      Atl, GA UGA
     location: "United States"
-    followers: 2245
-    engagement: 842
-    commentsToLikes: 0.038535
+    followers: 2204
+    engagement: 952
+    commentsToLikes: 0.007280
     id: ck8kh49sdl8mz0j78dv0myh2d
     verified: false
-    hashtags: "#college, #greenscreen, #corona, #veganlife"
-  - username: "brsweenx"
+    hashtags: "#college, #vegan, #greenscreen, #rona"
+  - username: "sweatininpink"
     fullname: >-
-      bs
+      Jemi
     bio: >-
-      touching every dog i see since ‘93
+      I post more on IG ⬆️ (mostly) plant-based & gluten-free med student 🩺
     location: "United States"
-    followers: 41100
-    engagement: 958
-    commentsToLikes: 0.022085
-    id: ckdt348q0sf5m0j23yb5i4adb
+    followers: 117800
+    engagement: 598
+    commentsToLikes: 0.011688
+    id: ckc2ylhv9po5v0j23cpvdkbj1
     verified: false
-    hashtags: "#fyp, #la, #tv, #setlifechallenge"
-  - username: "pretty_southernqueen"
+    hashtags: "#tiktokpartner, #healthy, #ad, #breakfast"
+  - username: "beautyofaboymom"
     fullname: >-
-      Ja’Vaughn Sanders
+      BeautyofBoyMom
     bio: >-
-      PayPal/Vemo: southernqueen9 CashApp: $Southernbelle1992 Welcome To The Kingdom
+      Lover of affordable style, fitness and beauty. Follow me on IG. Shop links 👇🏼
     location: "United States"
-    followers: 30000
-    engagement: 1331
-    commentsToLikes: 0.024983
-    id: ckb9a2afjutqv0j23zu9gms98
+    followers: 59200
+    engagement: 359
+    commentsToLikes: 0.049192
+    id: ck982kodkgdgg0j78053yide1
     verified: false
-    hashtags: "#fyp, #pov, #duet, #blm"
-  - username: "chikofatl"
+    hashtags: "#targetstyling, #charlottenc, #over40, #over40mom"
+  - username: "vmatt_mason36"
     fullname: >-
-      Queen Sugarplum
+      Matt
     bio: >-
-      ATL just an average chick thank you for 5k 🥰🤪
+      Thanks for the love🙏🏼 here to entertain Follow me on IG mattwmason_
     location: "United States"
-    followers: 5837
-    engagement: 628
-    commentsToLikes: 0.028341
-    id: ckb10r8pqpbrc0j23upphefe0
+    followers: 63200
+    engagement: 1280
+    commentsToLikes: 0.022887
+    id: cka7p945p6ajw0i78iqw72k7j
     verified: false
-    hashtags: "#finalsathome, #fyp, #waxing, #esthetician"
+    hashtags: "#madden, #nfl, #foryou, #wrestling"
 ---

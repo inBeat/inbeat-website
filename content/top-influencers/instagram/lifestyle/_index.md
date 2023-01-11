@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers in 2023
+title: Top 10 Lifestyle Instagram Influencers In 2023
 description: >-
-  Find top lifestyle Instagram influencers in 2023. Most popular hashtags: #streetstyle #fashion #style.
+  Find top lifestyle Instagram influencers in 2023. Most popular hashtags: #explorepage #ad #mahsaamini #delhiinfluencer.
 platform: Instagram
-hits: 63828
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 63828 Instagram influencers like this for you to collaborate.
+hits: 60031
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 60031 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "x_fashiondiaries_x"
+  - username: "savannah_joyyy"
     fullname: >-
-      Lifestyle
+      Savannah Joy
     bio: >-
-      Upper Austria 🏠 Fashion 👗Healthy Lifestyle 🐮Veggie 🏡Interior🏋️‍♀️#foodspringfamily ❤️ Founder of @fashiondiariesonlineshop
-    location: "Germany"
-    followers: 58597
-    engagement: 195
-    commentsToLikes: 0.251906
-    id: ck55on3vg8p810i11hn65t4u5
-    verified: false
-    hashtags: "#fitness, #fashion, #igersvienna, #boots"
-  - username: "waadyxox"
-    fullname: >-
-      Waad Baayou
-    bio: >-
-      🇱🇾 | 🇬🇧 | 🇦🇪 | LIFESTYLE |
-    location: "United Kingdom"
-    followers: 6587
-    engagement: 603
-    commentsToLikes: 0.086279
-    id: ckap5cw94b3uz0i78u43qdszg
-    verified: false
-    hashtags: ""
-  - username: "trueoutfit"
-    fullname: >-
-      True Outfit
-    bio: >-
-      Lifestyle
+      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
     location: "United States"
-    followers: 35309
-    engagement: 108
-    commentsToLikes: 0.014973
-    id: ckap2jvlez5i50i7848fj4ts4
+    followers: 132122
+    engagement: 417
+    commentsToLikes: 0.012208
+    id: ck5q33lorj2160i11tlfrq9s1
     verified: false
-    hashtags: ""
-  - username: "angelika_rysz"
+    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
+  - username: "behamin"
     fullname: >-
-      Angelika
+      Behamin • بهامين
     bio: >-
-      🌎 27/194 •Lubię minimalizm •ourmoments •motherhood •travel •lifestyle •simplelife
-    location: "Poland"
-    followers: 3646
-    engagement: 1525
-    commentsToLikes: 0.346529
-    id: ck5zizhb5gnvu0i14guq3n633
-    verified: false
-    hashtags: "#velvetdynasty, #whiteboots, #mywardrobe, #stylizacjadnia"
-  - username: "lelemageste"
-    fullname: >-
-      Letícia Mageste | Maquiagem
-    bio: >-
-      💥 Vida real nos stories • Belo Horizonte | 19 Dicas • maquiagem • cabelo • lifestyle • Nada é maior que o amor 💓
-    location: "Brazil"
-    followers: 14542
-    engagement: 3548
-    commentsToLikes: 0.257544
-    id: ck14ih234fd090i19h46xpdbv
-    verified: false
-    hashtags: "#memesbrasil, #tbt, #reelsinstagram, #lookinspira"
-  - username: "voguishdiet"
-    fullname: >-
-      Gaby Aleixandre
-    bio: >-
-      Lifestyle Blogger-Foodie 📍Miami, Fl Youtube.com/voguishdiet Contact: info@voguishdiet.com Photos by @legendaryalex
+      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
     location: "United States"
-    followers: 19088
-    engagement: 3184
-    commentsToLikes: 0.066797
-    id: ck5byrr4tppqv0i11vb64i9fk
+    followers: 487738
+    engagement: 571
+    commentsToLikes: 0.033819
+    id: ck0u741343nni0i1969xnaly0
     verified: false
-    hashtags: "#mysmashbox, #dualipa, #letsgetphysical, #smashboxpartner"
-  - username: "mmifa"
+    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
+  - username: "sadaf_beauty"
     fullname: >-
-      ＭＩＦＡ
+      Sadaf Beauty
     bio: >-
-      ♬do re"Mifa"so la ti do ❥CaliforniaBased ✧Wanderlust,Goodenergy&Uplevel Lifestyle ♛Beauty is in the eye of the beholder ✎mifa@mifanguyen.com »NewPost↡
-    location: "United Kingdom"
-    followers: 4145
-    engagement: 3133
-    commentsToLikes: 0.136025
-    id: ck9habo8hbxlz0j789yrzgrjm
-    verified: false
-    hashtags: ""
-  - username: "joeyloomans"
+      📍San Francisco 👇🏼Follow my lifestyle/travel blog @sadaf_beauty_diary Email: contact@sadafbeauty.net
+    location: "United States"
+    followers: 3866821
+    engagement: 725
+    commentsToLikes: 0.021434
+    id: ck0u21ukoymhd0i19l8xovyot
+    verified: true
+    hashtags: "#sheinpartner, #sheinx, #sheinforall, #mahsaamini"
+  - username: "itschloe.n"
     fullname: >-
-      Joey Loomans🇳🇱
+      CHLOE | FASHION BLOGGER
     bio: >-
-      📍The Netherlands 🥼Back-up Assistent at Scotch&Soda 🥑Healthy Lifestyle 🔝Fashion & Lifestyle 📨 Collab: Joeyloomans@outlook.com
-    location: "Netherlands"
-    followers: 3022
-    engagement: 3057
-    commentsToLikes: 0.350511
-    id: ckap5lrzrc8kn0i78q6jhmeo1
-    verified: false
-    hashtags: "#lifestyle, #fashionblogger, #holzkernwatches, #mensstreetstyle"
-  - username: "yvx27"
-    fullname: >-
-      yaqoob🖇'
-    bio: >-
-      Fashion | lifestyle Photography | editing Dm for inquiries 📫 Dxb📍
+      SF Bay Area | fashion, lifestyle and beauty🕊 fits straight from your Pinterest 🍸🖤 💌 email for collabs/PR: itschloe.nn@gmail.com
     location: ""
-    followers: 2794
-    engagement: 2882
-    commentsToLikes: 0.303799
-    id: ck5q391ogjt0o0i119jz2hhzx
+    followers: 40995
+    engagement: 560
+    commentsToLikes: 0.103547
+    id: ckprgrbny882y0j23mhlhv5cm
     verified: false
-    hashtags: "#vans, #fashionista, #photographer, #dubaimodel"
-  - username: "rufiee"
+    hashtags: "#pacpartner, #pinterestoutfit, #fallootd, #pinterestgirl"
+  - username: "harshitmittal15"
     fullname: >-
-      Rufaro | 📸
+      HARSHIT MITTAL
     bio: >-
-      💁🏾‍♀️Your fave plus size babe 🥂Chief of enjoyment 🌸Plus fashion | Travel | Lifestyle | Enjoyment 🔑Philipians 4:13
-    location: "United Kingdom"
-    followers: 3778
-    engagement: 2572
-    commentsToLikes: 0.220912
-    id: ckapbw6mo1ick0i78w3wwppid
+      Men’s Fashion | Grooming | Lifestyle 📍 Chandigarh | Delhi ✉️ : harshitmittal152001@gmail.com
+    location: "India"
+    followers: 100200
+    engagement: 555
+    commentsToLikes: 0.012492
+    id: ck8t4jupg70nt0j78yxv91uzz
     verified: false
-    hashtags: ""
+    hashtags: "#ad, #menswear, #beautysale, #selfieready"
+  - username: "rohittt_09_"
+    fullname: >-
+      𝐑𝐨𝐡𝐢𝐭 𝐙𝐢𝐧𝐣𝐮𝐫𝐤𝐞 ~ 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧𝐛𝐨𝐢 💫
+    bio: >-
+      • Fashion • Lifestyle • Video Creator 📍Surat ➰ Mumbai #reactionboi • YouTube : Rohit Zinjurke ( 35 Lakh Subscribers)
+    location: "India"
+    followers: 24801559
+    engagement: 537
+    commentsToLikes: 0.009176
+    id: ck8tc6k3dygnd0j783tc47cg7
+    verified: false
+    hashtags: "#fifaworldcup, #tvf, #amazonminitv, #watchnow"
+  - username: "virginiepilotte"
+    fullname: >-
+      VIRGINIE
+    bio: >-
+      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
+    location: "Canada"
+    followers: 32541
+    engagement: 593
+    commentsToLikes: 0.059708
+    id: ck55ppopob3mx0i11k0dp0cdv
+    verified: false
+    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
+  - username: "nabela"
+    fullname: >-
+      Nabela (নাবিলা) Noor
+    bio: >-
+      designer, author + homemaker celebrating life through #pocketsofpeace home & design: @nabelanoorhome lifestyle brand: @shopnabelanoorhome
+    location: "United States"
+    followers: 2374516
+    engagement: 516
+    commentsToLikes: 0.006658
+    id: ck0u7k38d51qy0i19zp81qyjv
+    verified: true
+    hashtags: "#popmas, #nabelanoorhome, #targetholiday, #pocketsofpeace"
+  - username: "the_indian_messieurs"
+    fullname: >-
+      Shivam Gupta
+    bio: >-
+      💡 Fashion | Lifestyle | Travel 👔 NIFT | Content Creator & Designer 📩 DM/Mail To Collaborate 📍 Delhi NCR | Mumbai
+    location: "India"
+    followers: 283319
+    engagement: 432
+    commentsToLikes: 0.011731
+    id: ck6tmcgr07l2x0j71tc2tt54p
+    verified: false
+    hashtags: "#hairstylemen, #menshairstyle, #traditionalwear, #bloggerstyle"
+  - username: "mommas_gang"
+    fullname: >-
+      SAMMY
+    bio: >-
+      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
+    location: "Canada"
+    followers: 30491
+    engagement: 1265
+    commentsToLikes: 0.020403
+    id: ck5zijlgfftz90i14vjkufxsl
+    verified: false
+    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
 ---

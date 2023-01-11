@@ -1,84 +1,120 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Tokyo in 2023
+title: Top 10 Cosmetics Instagram Influencers In Tokyo In 2023
 description: >-
-  Find top cosmetics Instagram influencers in Tokyo in 2023. Most popular hashtags: #pr #stayhome #fashion #cosmetics.
+  Find top cosmetics Instagram influencers in Tokyo in 2023. Most popular hashtags: #ootd #fashion #pr.
 platform: Instagram
-hits: 62
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 62 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 47
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 47 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
-  - username: "mamiset"
+  - username: "chika72714"
     fullname: >-
-      瀬戸 麻実　セトマミ
+      ♡CHIKA♡
     bio: >-
-      🇯🇵 美容家 色×形×質感で無限大の #マミ様メイク #メイクアップのための色彩学 マミ様メイク書籍大人気爆走中📚
+      株式会社LAURA 代表取締役 株式会社LAURA cosmetics 代表取締役 @laura.cosmetics.tokyo ◆美肌＆本格HIFUリフトアップ専門店◆ ローラビューティーサロン @laura_tokyo 東京都中央区佃1-2-4「月島駅」徒歩5分 ♡公式HPにてweb予約受付中♡
     location: "Japan"
-    followers: 83148
-    engagement: 157
-    commentsToLikes: 0.009347
-    id: ck0vwpyj1v0at0i19lj9aw76z
+    followers: 29026
+    engagement: 106
+    commentsToLikes: 0.011744
+    id: ckap0wj19s4gm0i7879hon3ns
+    verified: false
+    hashtags: "#hermes, #instabag, #happybirthday, #instagourmet"
+  - username: "miho_ishiguro"
+    fullname: >-
+      石黒 美帆  𝐌𝐢𝐡𝐨 𝐈𝐬𝐡𝐢𝐠𝐮𝐫𝐨
+    bio: >-
+      講談社 #VOCEST YouTube【ワタシコスメCh.】🎤♡
+    location: "Japan"
+    followers: 63771
+    engagement: 97
+    commentsToLikes: 0.026640
+    id: ck6uglcva3pmc0j71huevljk7
+    verified: false
+    hashtags: "#skincare, #ootd, #fashiongram, #outfit"
+  - username: "arisakomiya_official"
+    fullname: >-
+      小宮有紗
+    bio: >-
+      1994.2.5／japan／actress／voice actress／dj BOX CORPORATION Twitter : @box_komiyaarisa
+    location: "Japan"
+    followers: 121123
+    engagement: 1157
+    commentsToLikes: 0.005427
+    id: ck0w6clf37y070i19x2gts9ma
+    verified: false
+    hashtags: "#lovelive, #aqours, #bis, #gelatopique"
+  - username: "kanon_1228"
+    fullname: >-
+      花音
+    bio: >-
+      Kanon 21 avex management めざましテレビ イマドキガール 基礎英語0 (NHK第2ラジオ) 恋愛ドラマな恋がしたい2
+    location: "Japan"
+    followers: 79422
+    engagement: 518
+    commentsToLikes: 0.009687
+    id: ck134fjujw6w30i19mpekcj6g
     verified: true
-    hashtags: "#makeup, #cosmetics, #tokyo, #beauty"
-  - username: "hoshinoko728"
-    fullname: >-
-      𝕙𝕠𝕤𝕙𝕚𝕟𝕠𝕜𝕠
-    bio: >-
-      ¹⁹⁹²⁰⁷²⁸ お仕事依頼は💌へ □ 𝚃𝚘𝚔𝚢𝚘 □ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎𝚛 □ 𝙼𝚢 𝚏𝚊𝚖𝚒𝚕𝚢 𝚑𝚊𝚜 𝚝𝚑𝚛𝚎𝚎 𝚙𝚎𝚘𝚙𝚕𝚎. ............. ▼ 𝙸𝚗𝚝𝚎𝚛𝚒𝚘𝚛 @s_home_728 ▼ 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝚘𝚘𝚗♥ @aprily.official ▼ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎
-    location: "Japan"
-    followers: 107585
-    engagement: 505
-    commentsToLikes: 0.012423
-    id: ck6ugjknq3ek20j71ex306fes
-    verified: false
-    hashtags: "#stayhome, #pr, #youtube, #ootd"
-  - username: "shihoriiin49"
-    fullname: >-
-      ʂᴴᴵᴴᵒᴿᴵᴺ❤︎
-    bio: >-
-      @plume_mignon Producer 👗167cm 宝島社sweet official instagirl🍒 ❤︎disney❤︎fashion❤︎sweets❤︎cosme お仕事依頼→DMへお願いします💌
-    location: "Japan"
-    followers: 37730
-    engagement: 158
-    commentsToLikes: 0.006802
-    id: ck0tzgwv7qdsg0i19ph0woceo
-    verified: false
-    hashtags: "#casetify, #village, #shihorin, #makeup"
+    hashtags: "#dejavu, #09"
   - username: "__rihostagram__"
     fullname: >-
       中村里帆
     bio: >-
       アミューズ所属 高知県出身 21歳 Ray専属モデル
     location: "Japan"
-    followers: 55761
-    engagement: 727
-    commentsToLikes: 0.006911
+    followers: 58415
+    engagement: 620
+    commentsToLikes: 0.008020
     id: ck14iw0xyhf0h0i19vkxif2ax
     verified: true
-    hashtags: "#fila, #mini, #01"
-  - username: "rsk_0315"
+    hashtags: "#06, #fila, #mini"
+  - username: "xoxo._yolo_.xoxo"
     fullname: >-
-      RISAKO_ISHIKAWA
+      
     bio: >-
-      Official Instagram/Model 🌹 Space Craft 所属
+      TOKYO ⇄ KANAGAWA﻿ love…💋#美容 #オーガニック #グルメ #ファッション #サスティナブル﻿ ﻿ 📩お仕事のご依頼⇨DM or Mail
     location: "Japan"
-    followers: 78911
-    engagement: 123
-    commentsToLikes: 0.004473
-    id: ck5zr8692w3650i14jkf1aw0z
-    verified: true
-    hashtags: "#osaji, #pr, #cafe, #elendeek"
-  - username: "bis_web"
-    fullname: >-
-      b i s
-    bio: >-
-      bis [ビス] 🌼偶数月1日発売 ﻿﻿﻿ ﻿﻿𝐰𝐢𝐭𝐡 𝐚 𝐠𝐢𝐫𝐥 𝐨𝐟 𝐦𝐲 𝐡𝐞𝐚𝐫𝐭 ﻿﻿いつまでもガーリーな心を持ち続ける人のための ファッションカルチャーマガジン @bis_web / #bis_web をつけてポストしてね♡﻿﻿﻿ ﻿﻿since2017 ©︎光文社
-    location: "Japan"
-    followers: 154618
-    engagement: 165
-    commentsToLikes: 0.023614
-    id: ck5hndx1ynm7j0i11xu80l4d8
+    followers: 21983
+    engagement: 306
+    commentsToLikes: 0.031422
+    id: ck6tmab0a7gu80j719t57dyn0
     verified: false
-    hashtags: "#homecafe, #sweetestcherry, #bis, #jo1"
+    hashtags: "#florist, #pr, #vivian, #amphi"
+  - username: "jinguwakana"
+    fullname: >-
+      WAKANA JINGU💋Jcup
+    bio: >-
+      @blossomservicejp 代表🍒 onlyfans 1ヶ月半で3.7%✨ . YouTube💗onlyfans💗produce💗blossom💗
+    location: "Japan"
+    followers: 45667
+    engagement: 183
+    commentsToLikes: 0.038190
+    id: ck135glnl1bay0i199fycicd6
+    verified: false
+    hashtags: "#youtube, #outfit, #ootd, #bodymake"
+  - username: "__hongzzi__"
+    fullname: >-
+      홍지언 じおん
+    bio: >-
+      👑 2018 MISS KOREA JP 1st 眞 👑 ㅤ ✒︎ 𝐊𝐞𝐢𝐨 𝐮𝐧𝐢𝐯. @keio_university 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 & 𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎 #慶應 #게이오 #유학생 #홍찌구르메 #171cm 💌 촬영 / 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙳𝙼
+    location: "Japan"
+    followers: 9925
+    engagement: 396
+    commentsToLikes: 0.058305
+    id: ckap2ajtty12q0i78vlj4tcnt
+    verified: false
+    hashtags: "#gfriend, #sonne, #itaewon, #disney"
+  - username: "_0138n"
+    fullname: >-
+      mio yanase
+    bio: >-
+      23 @superamarket aoyama DM📩
+    location: "Japan"
+    followers: 85948
+    engagement: 393
+    commentsToLikes: 0.001240
+    id: ckaoqxdj5kufq0i783j10ppji
+    verified: false
+    hashtags: "#pocher, #nail, #maisonspecial, #reldi"
   - username: "seika_etoile__11"
     fullname: >-
       🎀seika 🎀
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.009918
     id: ck6tzgk419knp0j719fcswgw2
     verified: false
-    hashtags: "#afternoontea, #cafe, #salondelouis, #honeysalon"
-  - username: "nana.0312"
-    fullname: >-
-      三井菜那 ❁ Nana Mitsui
-    bio: >-
-      𝑀𝑜𝑑𝑒𝑙𓆉𝐿𝑖𝑣𝑒𝑟 171㎝ . ☽ andGIRL スーパーメイツ ⟡ MAQUIA.美人百花.CLASSY. with etc . ‎✎ܚお仕事のご依頼はDM or Mailまで
-    location: "Japan"
-    followers: 26456
-    engagement: 122
-    commentsToLikes: 0.027371
-    id: ckaous46r1ksf0i78pml40s94
-    verified: false
-    hashtags: "#gu, #snidel, #pr, #caseiphone"
-  - username: "maripo_jp"
-    fullname: >-
-      M A R I 🌐 神林真里
-    bio: >-
-      📍Based in Tokyo 🗣Japanese | English | Mandarin 🎖Ambassador: @odlo_japan @finc_app - #maripo_fitness - #maripo_beauty - #maripo_fashion
-    location: "Japan"
-    followers: 29630
-    engagement: 178
-    commentsToLikes: 0.012914
-    id: ck14i2zyrddu80i19pfnkl5to
-    verified: false
-    hashtags: "#maripo, #scandi, #pr, #koreancosmetics"
-  - username: "aoyagifumiko"
-    fullname: >-
-      青柳文子／Fumiko Aoyagi
-    bio: >-
-      🇯🇵model やめるかもしれないけどyoutubeが始まりました。。チャンネル登録者数が増えたら続けます、よかったら見てみてください。。！ お仕事は➡️watanabe@asobisystem.com DMは返信できません🙏 ✈️#なんとか_trip
-    location: "Japan"
-    followers: 214790
-    engagement: 156
-    commentsToLikes: 0.002929
-    id: ck55q9ddqcfml0i111f73wk72
-    verified: true
-    hashtags: "#stylehint, #claska, #stayhome, #pr"
+    hashtags: "#salondelouis, #honeysalon, #fashion, #coordinate"
 ---

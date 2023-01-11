@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking TikTok Influencers In United States in 2023
+title: Top 10 Cooking TikTok Influencers In United States In 2023
 description: >-
-  Find top cooking TikTok influencers in United States in 2023. Most popular hashtags: #duet #recipes #fyp.
+  Find top cooking TikTok influencers in United States in 2023. Most popular hashtags: #stitch #duet #baking #fyp.
 platform: TikTok
-hits: 3401
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform has 3401 TikTok influencers like this in United States for you to connect with.
+hits: 2826
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 2826 TikTok influencers like this in United States for you to contact.
 profiles:
-  - username: "thevintagegoree"
-    fullname: >-
-      •Black Retro Babe•
-    bio: >-
-      Retro Babe She/Her Confident Colorful Curvy Fashion/Makeup/Vegan Cooking/DIYs
-    location: "United States"
-    followers: 19000
-    engagement: 3024
-    commentsToLikes: 0.087918
-    id: ckb0tojgwj34e0j23rnt9nl2q
-    verified: false
-    hashtags: "#greenscreen, #foxxylove, #foxxylovecosplay, #sunglasses"
-  - username: "growingthroughtheweeds"
-    fullname: >-
-      Growing Through The Weeds 🍓
-    bio: >-
-      🌱 Gardening 🧵 Sewing 🍪 Cooking 🌟 Positivity & dash of sarcasm
-    location: "United States"
-    followers: 6974
-    engagement: 2156
-    commentsToLikes: 0.248635
-    id: ckc8xfm28lcen0j23p1lup6zq
-    verified: false
-    hashtags: "#growingthroughtheweeds, #learnontiktok, #diy, #sewing"
   - username: "symphonic_bear"
     fullname: >-
       Symphonic Bear
     bio: >-
       Bear. Musician. I also play the hobbit in @flippantmoniker ’s orc cooking videos
     location: "United States"
-    followers: 47900
-    engagement: 1925
-    commentsToLikes: 0.057984
+    followers: 47200
+    engagement: 2191
+    commentsToLikes: 0.196902
     id: ck9glnlycp67y0j78qhgmu8w8
     verified: false
-    hashtags: "#gaybears, #duet, #hobbit, #gay"
+    hashtags: "#clarinet, #otherkinfamily, #stitch, #gaybears"
+  - username: "growingthroughtheweeds"
+    fullname: >-
+      Growing Through The Weeds 🍓
+    bio: >-
+      🌱 Gardening 🧵 Sewing 🍪 Cooking 🌟 Positivity & dash of sarcasm
+    location: "United States"
+    followers: 9525
+    engagement: 2144
+    commentsToLikes: 0.309111
+    id: ckc8xfm28lcen0j23p1lup6zq
+    verified: false
+    hashtags: "#gardening, #garden, #summer, #growfoodnow"
   - username: "seatrick"
     fullname: >-
       SeaTrick 
     bio: >-
-      Black Lives Matter Drag - Sewing - Cooking - Wands pfp by Woofdahyoupetcha
+      They/Them Wands - Drag - Cooking - Sewing ⬇️✨Check out my Etsy✨⬇️
     location: "United States"
-    followers: 145700
-    engagement: 2101
-    commentsToLikes: 0.030471
+    followers: 168300
+    engagement: 2202
+    commentsToLikes: 0.049218
     id: ck81s2bslphml0j783w2qxzry
     verified: false
-    hashtags: "#halfasssedcooking, #christmas, #vintage, #duet"
-  - username: "demi_the_vlog_dog"
+    hashtags: "#stitch, #harrypotter, #smallbusiness, #sewing"
+  - username: "cookingwithlynja"
     fullname: >-
-      Demi The Vlog Dog
+      Lynja
     bio: >-
-      ❤️ hi fren Eye disease awareness. Learning to cook with you #cookingtrashwithash
+      A regular mom with killer cooking skills Cookingwithlynja@gmail.com
     location: "United States"
-    followers: 168000
-    engagement: 1579
-    commentsToLikes: 0.060720
-    id: ckbay2apcohhw0j2326tllkfk
-    verified: false
-    hashtags: "#spookytreats, #imjealous, #greenscreen, #keratoconus"
-  - username: "sun_creme"
+    followers: 4300000
+    engagement: 2223
+    commentsToLikes: 0.008543
+    id: ckd0jrr5qflwc0j23iwlvtur9
+    verified: true
+    hashtags: "#taotronics, #airfryer, #chickenwings, #dailyharvest"
+  - username: "jaimemessina"
     fullname: >-
-      s u n n y 🤩
+      Jaime Messina
     bio: >-
-      est. july.l6 /she/her ig:sun.creme⭐️ i see unfollowing i’m cooking tmr
+      ✨High Vibes 💫 🌴 Boston to Florida 🥓LC Cooking 🐱Cat Lady 🏳️‍🌈LGBTQ
     location: "United States"
-    followers: 14000
-    engagement: 3317
-    commentsToLikes: 0.165360
-    id: ckcuzzpcemzd10j23zfoyew91
+    followers: 43400
+    engagement: 1226
+    commentsToLikes: 0.185046
+    id: ckb9rx26xonjw0j23t3wupa4n
     verified: false
-    hashtags: "#famous, #xyzbca, #wewintogether, #unwrapthedeals"
-  - username: "tonymasseycooks"
+    hashtags: "#lgbtq, #persiancat, #catlady, #lgbt"
+  - username: "supremestephany20"
     fullname: >-
-      Tony Massey
+      SupremeStephany20
     bio: >-
-      Welcome to my world of Cooking and Music! Enjoy! $TMassSpeaks
+      hi friends ✨ WIFEY 💍 lifestyle, beauty, crafts, baking/cooking videos ♡
     location: "United States"
-    followers: 124500
-    engagement: 1307
-    commentsToLikes: 0.040926
-    id: ckdn5opplei8x0j23dmpft217
+    followers: 3176
+    engagement: 1142
+    commentsToLikes: 0.263452
+    id: ck9flkuatobgx0j78tbwy8i1l
     verified: false
-    hashtags: "#foryou, #cookingwithtony, #datingadvice, #mentalhealthmatters"
+    hashtags: "#fy, #honeymoon, #hawaii, #tryonhaulclothes"
+  - username: "levelupirl"
+    fullname: >-
+      levelupirl
+    bio: >-
+      Anime Computers Cooking Gardening Photography
+    location: "United States"
+    followers: 2874
+    engagement: 967
+    commentsToLikes: 0.090171
+    id: cka0kuku7o7l20i78ksst02ak
+    verified: false
+    hashtags: "#foryou, #fyp, #onepiece, #stitch"
+  - username: "zainoobtheboob"
+    fullname: >-
+      Zainab Nasser
+    bio: >-
+      Hot girl doing hot girl shit (eating, cooking, baking, and dancing) 🇵🇸
+    location: "United States"
+    followers: 53800
+    engagement: 1283
+    commentsToLikes: 0.072839
+    id: ckdnarc5ig5vq0j23127mose1
+    verified: false
+    hashtags: "#petsoftiktok, #huskymom, #fyp, #husky"
+  - username: "matthewinthekitchen"
+    fullname: >-
+      Matthew Merril
+    bio: >-
+      That kid from those cooking shows 16 contactmatthewinthekitchen@gmail.com LINKS
+    location: "United States"
+    followers: 2100000
+    engagement: 1630
+    commentsToLikes: 0.009120
+    id: ckc7v3b4myr6v0j23cfwny125
+    verified: true
+    hashtags: "#baking, #ranch, #sponsored, #hiddenvalleyranch"
   - username: "mom_the_bomb_4"
     fullname: >-
       Nikki T
     bio: >-
       Midwestern mom x 4 Mom hacks/ cooking hacks/fun
     location: "United States"
-    followers: 48200
-    engagement: 1169
-    commentsToLikes: 0.046364
+    followers: 49700
+    engagement: 714
+    commentsToLikes: 0.066233
     id: ck9nt8rkvh9n00j78y6ycgfi7
     verified: false
-    hashtags: "#momlife, #parentsoftiktok, #momsoftiktok, #altrocktober"
-  - username: "cookingwithlynja"
-    fullname: >-
-      Lynja
-    bio: >-
-      Just a regular mom with killer cooking skills CookingWithLynja@gmail.com
-    location: "United States"
-    followers: 2300000
-    engagement: 2039
-    commentsToLikes: 0.010559
-    id: ckd0jrr5qflwc0j23iwlvtur9
-    verified: true
-    hashtags: ""
-  - username: "onegreatvegan"
-    fullname: >-
-      onegreatvegan
-    bio: >-
-      Actress, Singer, and Chef + Daily Positivity Musical Cooking Show Host
-    location: "United States"
-    followers: 138600
-    engagement: 1630
-    commentsToLikes: 0.032037
-    id: ck9evvjwgk8j10j78zypngbzm
-    verified: false
-    hashtags: "#plantbased, #tiktokcooks, #chef, #pumpkinspice"
+    hashtags: "#sourdough, #breadtok, #ifeelweightless, #shadowandbone"
 ---

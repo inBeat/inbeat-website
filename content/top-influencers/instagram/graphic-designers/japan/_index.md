@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Japan in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Japan In 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Japan in 2023. Most popular hashtags: #graphicdesign #japan #photoshop.
+  Find top graphic-designers Instagram influencers in Japan in 2023. Most popular hashtags: #artwork #illustration #graphicdesign.
 platform: Instagram
-hits: 27
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 27 Instagram influencers like this in Japan for you to contact.
+hits: 29
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 29 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "eric_flowerboy"
-    fullname: >-
-      Eric Aleson
-    bio: >-
-      🇲🇾 | Graphic Designer 🌷 | Flower Boy @flowerboy_studio 📧 | ericlim0117@gmail.com 🦷 | @irafflesdental_kl
-    location: "Japan"
-    followers: 57104
-    engagement: 171
-    commentsToLikes: 0.004041
-    id: ck5hnu9z2oejl0i11mvdin5qk
-    verified: false
-    hashtags: "#malaysia, #travel, #versace, #weekendvibes"
   - username: "__freetree__"
     fullname: >-
       Danny 🇯🇵
     bio: >-
       Art Director + Graphic Designer Go!→Sub @__freetree__pop Old Japanese pieces that I chose. "I believe in synchronicity..."
     location: "Japan"
-    followers: 3231
-    engagement: 1499
-    commentsToLikes: 0.077413
+    followers: 3407
+    engagement: 1528
+    commentsToLikes: 0.079642
     id: ckaou3r88ynwp0i787pxspf9e
     verified: false
-    hashtags: "#unsung, #patina, #jj, #fever"
+    hashtags: "#tv, #addicted, #fever, #doorshiding"
+  - username: "atau.fr"
+    fullname: >-
+      Atau
+    bio: >-
+      Japanese photographer and graphic designer based in France. 🎨 @atau.jp 📸 @atau.fr
+    location: "Japan"
+    followers: 7661
+    engagement: 1237
+    commentsToLikes: 0.006026
+    id: ckaox3znzbohs0i78dzj0gyij
+    verified: false
+    hashtags: "#streetphotographers, #streetphotographer, #visiteztoulouse, #mtp"
+  - username: "alexandergioiosa"
+    fullname: >-
+      Alexander Gioiosa
+    bio: >-
+      Ambassador @wacom Graphic Designer / Illustrator
+    location: "Japan"
+    followers: 30921
+    engagement: 299
+    commentsToLikes: 0.022647
+    id: ck5zji2ewhmr70i14g6s8hjfn
+    verified: false
+    hashtags: "#digitalart, #illustrator, #artwork, #batman"
   - username: "akirakusaka"
     fullname: >-
       日下 明 | Akira Kusaka
     bio: >-
-      Illustrator & Graphic designer。絵と音と言葉のユニット「repair」としても活動。﻿ ﻿ Works → @akirakusaka_official﻿ ﻿ このアカウントでは、repairの事やお知らせなどを中心に。作品については上記のアカウントで。﻿ ﻿
+      Illustrator & Graphic designer。絵と音と言葉のユニット「repair」としても活動。﻿ ﻿ My Works → @akirakusaka_official﻿ ﻿ こちらでは、repairの事やお知らせなどを中心に。イラストは全てphotoshopで描いてます。﻿ ﻿
     location: "Japan"
-    followers: 49329
-    engagement: 358
-    commentsToLikes: 0.004816
+    followers: 49743
+    engagement: 334
+    commentsToLikes: 0.004243
     id: ck0w2dkw6ntgz0i1927qqhc3l
     verified: false
-    hashtags: "#star, #piano, #kutoten, #2020repair"
+    hashtags: "#photoshop, #akirakusaka, #moon, #repaircalendar2021"
   - username: "dorimiiiiiii"
     fullname: >-
       M!DOR!
     bio: >-
-      COLLAGE ARTIST ⊷ GRAPHIC DESIGNER ⊷ ART DIRECTOR Based in TOKYO ⇄ HAKODATE ✂︎-----midori.0129.roll@gmail.com----- Online Shop☞ @le.mariage.de.chimere
+      Collage Artist ⊷ Graphic Designer ⊷ Art Director Based in TOKYO-JAPAN ✂︎-----midori.0129.roll@gmail.com----- Online Shop☞ @le.mariage.de.chimere
     location: "Japan"
-    followers: 11155
-    engagement: 583
-    commentsToLikes: 0.016533
+    followers: 11994
+    engagement: 464
+    commentsToLikes: 0.019922
     id: ckaor0r8bl7un0i78a9hy1k6p
     verified: false
-    hashtags: "#collage, #analogcollage, #graphicdesign, #paper"
+    hashtags: "#collageart, #collageartist, #analogcollage, #artwork"
+  - username: "may_illustration"
+    fullname: >-
+      may : 食べ物イラストレーター
+    bio: >-
+      Foodie illustrator 😋🇯🇵 And Graphic Designer 🖥 Paint in Acrylic Gouache 🎨 - 食べ物好きイラストレーター 👩‍🎨 兼 デザイナー🖥 アクリルガッシュで描いてます🎨 - #foodillustration #食べ物イラスト
+    location: "Japan"
+    followers: 20774
+    engagement: 937
+    commentsToLikes: 0.017681
+    id: ck5qb76a9k5oa0i1173biu0xg
+    verified: false
+    hashtags: "#howtodraw, #foodillustration, #sweets, #cozycorner"
   - username: "chispipika"
     fullname: >-
       ♡ 忘れられない鋼 🍂
     bio: >-
       📍Málaga ☁ 🐲🌸 22 • N a i o l y • Anime and Japanese culture ♥ Collaborations 📮 ❥ Graphic designer @nai_kiary 💛 Personal @chis_naioly ⬇
     location: "Japan"
-    followers: 8414
-    engagement: 1316
-    commentsToLikes: 0.039674
+    followers: 8422
+    engagement: 1322
+    commentsToLikes: 0.039461
     id: ck5zyixk79yx80i14nnz9e6zn
     verified: false
     hashtags: ""
+  - username: "wagashi_art"
+    fullname: >-
+      YUKI FUJIWARA
+    bio: >-
+      Graphic Designer / #和菓子 デザイナー / #Wagashi Artist 日々の暮らしの中で感じたものを、和菓子を通して表現。お仕事の依頼や連絡はDMかメールにて✉️ レッスン動画配信中↓
+    location: "Japan"
+    followers: 20234
+    engagement: 740
+    commentsToLikes: 0.007656
+    id: ck5zsc5d5y7y10i14je0i3xlq
+    verified: false
+    hashtags: "#ichido, #workshop, #uchuwagashi, #shuuemura"
   - username: "obatasaki"
     fullname: >-
       obatasaki
     bio: >-
       illustrator / graphicdesigner
     location: "Japan"
-    followers: 22217
-    engagement: 255
-    commentsToLikes: 0.003902
+    followers: 23342
+    engagement: 242
+    commentsToLikes: 0.003585
     id: ck5q6dqw5wzmv0i11frdd2wd6
     verified: false
-    hashtags: "#togoyamanashi, #stayhome, #indoor, #yamanashi"
-  - username: "wagashi_art"
+    hashtags: "#repost, #stayhome, #indoor, #yamanashi"
+  - username: "eric_flowerboy"
     fullname: >-
-      YUKI FUJIWARA
+      Eric Aleson
     bio: >-
-      Graphic Designer / #和菓子 デザイナー / #Wagashi Artist 日々の暮らしの中で感じたものを、和菓子を通して表現。お仕事の依頼や連絡はDMかメールにて✉️ 【対談記事】和菓子界の新世代が語る！美しさを超える和菓子作りの源とは？↓
+      🇲🇾 | Graphic Designer 🌷 | Flower Boy @flowerboy_studio 📧 | ericlim0117@gmail.com 🦷 | @irafflesdental_kl
     location: "Japan"
-    followers: 18194
-    engagement: 758
-    commentsToLikes: 0.008154
-    id: ck5zsc5d5y7y10i14je0i3xlq
+    followers: 57122
+    engagement: 193
+    commentsToLikes: 0.003535
+    id: ck5hnu9z2oejl0i11mvdin5qk
     verified: false
-    hashtags: "#workshop, #uchuwagashi, #shuuemura, #stayhome"
-  - username: "sayurinishikubo"
-    fullname: >-
-      sayurinishikubo
-    bio: >-
-      graphic artist / graphic designer / art director sayurinishikubo@gmail.com www.sayurinishikubo.com ◻︎OTTE www.ottestore.com
-    location: "Japan"
-    followers: 64204
-    engagement: 152
-    commentsToLikes: 0.003915
-    id: ck5hn2gibn2xy0i11x67mlv8t
-    verified: false
-    hashtags: "#sayurinishikubo, #otte, #publictee, #may"
-  - username: "kohyamada"
-    fullname: >-
-      𝔎𝔬𝔥 𝔜𝔞𝔪𝔞𝔡𝔞
-    bio: >-
-      Graphic designer//Film directer//adjective effecter //photographer//Our team→SHELFS.co // Osaka→Tokyo JAPAN. ✉️→koh@shelfs.co Draw account : @kohdraw
-    location: "Japan"
-    followers: 4985
-    engagement: 521
-    commentsToLikes: 0.014020
-    id: ck5pz1ub9yuqm0i11sk3zqvvs
-    verified: false
-    hashtags: "#shelfsco, #tokyo, #japan, #xgirl"
-  - username: "aleksovana"
-    fullname: >-
-      ana
-    bio: >-
-      artist
-    location: "Japan"
-    followers: 80569
-    engagement: 719
-    commentsToLikes: 0.013117
-    id: ck0ttz1b54xwl0i19saekal2s
-    verified: false
-    hashtags: "#procreate, #myart, #originalartwork, #90saesthetic"
+    hashtags: "#uniqlomy, #simplemadebetter, #mylifewear, #uniqlou"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Peru in 2023
+title: Top 10 Nutrition Instagram Influencers In Peru In 2023
 description: >-
-  Find top nutrition Instagram influencers in Peru in 2023. Most popular hashtags: #yomequedoencasa #saludybienestar #photooftheday.
+  Find top nutrition Instagram influencers in Peru in 2023. Most popular hashtags: #publicidad #peru #salud #positivevibes.
 platform: Instagram
-hits: 18
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 18 Instagram influencers like this in Peru for you to work with.
+hits: 21
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 21 Instagram influencers like this in Peru for you to work with.
 profiles:
+  - username: "verofith"
+    fullname: >-
+      Veronica Mori
+    bio: >-
+      ☝️Nutrición y Deporte 💪 📌 Lima - Perú 🇵🇪 👩‍👦mamá de yadiel ♥️ 💪Distribuidor Independiente😃 😃 Herbalife Nutrition ♥️ #peruana #mamafit
+    location: "Peru"
+    followers: 582806
+    engagement: 124
+    commentsToLikes: 0.019078
+    id: ckapa4nteuowr0i78df9tjoh6
+    verified: false
+    hashtags: "#moments, #bendecidodia, #reto21dias, #domingo"
+  - username: "paulamonpas"
+    fullname: >-
+      PAULA MONTES
+    bio: >-
+      📍Now in LIMA 🇺🇸 @NEXTMODELS Health Coach in training @nutritionschool 🍃 @thehealthiestmodel
+    location: "Peru"
+    followers: 34083
+    engagement: 267
+    commentsToLikes: 0.032902
+    id: ck14gdv094pyl0i19wv2l0o5z
+    verified: false
+    hashtags: "#nomakeup, #nofilter, #dior, #sustainablefashion"
   - username: "victor_latinlover"
     fullname: >-
       Latin Lover
     bio: >-
       “Todo o Nada”. Conductor,Luchador,Actor y Empresario Twitter: @victorlatin77 Suplementos @latin.nutrition Contacto : kikirikiiic@gmail.com
     location: "Peru"
-    followers: 126321
-    engagement: 219
-    commentsToLikes: 0.045549
+    followers: 143361
+    engagement: 126
+    commentsToLikes: 0.039942
     id: ck6u8944xq5vw0j71njbpay8o
     verified: true
-    hashtags: "#family, #dance, #life, #gad"
-  - username: "macawellness"
-    fullname: >-
-      MACA 🌻 Nutricionista, RD, MBA
-    bio: >-
-      Entre lo sano, rico y real 🌿 Nutriendo cuerpo-mente ✨ #NutricionREAL🤘🏼 💌info.macawellness@gmail.com @asicsfrontrunner🇵🇪 @fitbitlatam Tengo PODCAST🎙⬇️
-    location: "Peru"
-    followers: 54682
-    engagement: 308
-    commentsToLikes: 0.044792
-    id: ck5pytz39xsol0i11wbqe26fk
-    verified: true
-    hashtags: "#anotalo, #macaeduca, #nutricionreal, #plantbased"
+    hashtags: "#gym, #love, #harleydavidson, #life"
   - username: "carlazaplana"
     fullname: >-
       Carla Zaplana
     bio: >-
-      🥬Dietista-Nutricionista (Plant-Based) 📚COME LIMPIO: Alimentación para el cuerpo, la mente y las emociones 🚺Nutrición Femenina 📍Perú✈️ 👇 Más info aquí:
+      🥬Lic. Nutrición y Dietética (Plant-Based) 📚COME LIMPIO: Alimentación para el cuerpo, mente y emociones 👩‍💻Membresía RAÍCES 🎙Podcast ORÍGENES 📍Perú
     location: "Peru"
-    followers: 95119
-    engagement: 111
-    commentsToLikes: 0.065013
+    followers: 110284
+    engagement: 86
+    commentsToLikes: 0.053838
     id: ck5q0pmxv753e0i11wal65ycx
     verified: true
-    hashtags: "#silencio, #coronavirus, #holisticnutrition, #saludybienestar"
-  - username: "marianahidalgog"
+    hashtags: "#nutritiontips, #superfood, #jugoverde, #eatcleandiet"
+  - username: "marinamoram"
     fullname: >-
-      Mariana | Nutrición + Hábitos
+      Marina Mora Montero 🐝
     bio: >-
-      ~ Te enseño a comer y a crear hábitos sanos para que cambies de vida, no solo de talla 🍇 ~ 💌 | Citas: mhgnutricionista@gmail.com RESFRÍO+TIPS 👇🏽
+      Modelo/ Reina / Empresaria/ Profesora / Feliz y Agradecida 🙏❤️ @marinamoraescuela @marinamorashop ☎️ 01-6538747 Av.Reducto 971-Miraflores Lima PERU
     location: "Peru"
-    followers: 91749
-    engagement: 462
-    commentsToLikes: 0.041053
-    id: ck6u91w0cv08a0j71afz0zsxy
+    followers: 218860
+    engagement: 143
+    commentsToLikes: 0.026224
+    id: ck5hrywiivpvq0i11n8dv8xbx
     verified: false
-    hashtags: "#nutricionista, #peru, #nutricion, #yococinoencasa"
+    hashtags: "#positivelife, #blessed, #grateful, #peru"
   - username: "vivianadeferrari"
     fullname: >-
       Self Love Coach
     bio: >-
-      ⚡️Be you⚡️ Public Speaker | Reprogram your mind | Make it simple | Love Self Work 👇🏼Y O U T U B E
+      ⚡️BE YOU⚡️ Reprogram your mind | Make it simple | Self Love Work 👇🏼Más contenido en YOUTUBE
     location: "Peru"
-    followers: 46286
-    engagement: 590
-    commentsToLikes: 0.028814
+    followers: 47438
+    engagement: 584
+    commentsToLikes: 0.038099
     id: ck6tt9c619cdg0j71yyfxjsnr
     verified: false
-    hashtags: "#positivevibes, #positivemindset, #amorpropio, #positivemind"
+    hashtags: "#mindfulness, #bienestarysalud, #lifecoaching, #sigueadelante"
   - username: "fuchsrally"
     fullname: >-
       Nicolás Fuchs- 🏁Oficial🏁
     bio: >-
-      🇵🇪 2023 de vuelta a los orígenes!! 🏁Rally!! 🏆🥇Nuevos proyectos deportivos y empresariales. 😊 A influir favorablemente en la vida de la gente!!! .
+      🇵🇪 2021 de vuelta a los orígenes!! 🏁Rally!! 🏆🥇Nuevos proyectos deportivos y empresariales. 😊 A influir favorablemente en la vida de la gente!!! .
     location: "Peru"
-    followers: 35029
-    engagement: 141
-    commentsToLikes: 0.018255
+    followers: 35190
+    engagement: 148
+    commentsToLikes: 0.019732
     id: ck0u6rawt2p5e0i19ahsrjo3f
     verified: true
-    hashtags: "#yomequedoencasa, #herbalifenutritionper, #offroad, #fuchsrally"
-  - username: "kate_miranda_23"
+    hashtags: "#nicofuchs, #herbalifenutritionper, #fuchsrally, #publicidad"
+  - username: "healthy_pleasure"
     fullname: >-
-      Kate Miranda 🐰🌎✈️💕
+      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
     bio: >-
-      📍Peruvian Girl 🙋🏻‍♀️❣️ 🧠 Aviación Comercial 🛩💺 🍏🍍Nutrición 👉🏻👸🏻 RESILIENTE 🎂 25 - 11 💪🏻🏋🏼‍♀️ Amante del gym ✌🏻🍃 Peace And Love
+      Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
     location: "Peru"
-    followers: 35390
-    engagement: 153
-    commentsToLikes: 0.049152
-    id: ck5zrd8vawd7e0i14c2wvxym3
-    verified: false
-    hashtags: "#piropo, #quemadores, #proteinas, #anfitriona"
+    followers: 58358
+    engagement: 137
+    commentsToLikes: 0.113241
+    id: ck5zlrnnbl9gc0i14k1khb4zx
+    verified: true
+    hashtags: "#dieta, #foodfight, #healthy, #peru"
   - username: "tete_novoa_oficial"
     fullname: >-
       Tete Novoa Oficial
     bio: >-
-      🎤Cantante y compositor en @saratogaoficial 🔥 Artista solista, amante❤ de los animales🐶 y del deporte🏋️‍♂️ ⬇️👕NUEVO MERCHAND OFICIAL🧢⬇️
+      🎤Cantante y compositor en @saratogaoficial 🔥 Artista solista, amante❤ de los animales🐶 y del deporte🏋️‍♂️ ⬇️Nuevo vídeo ⬇️
     location: "Peru"
-    followers: 32786
-    engagement: 581
-    commentsToLikes: 0.019700
+    followers: 35068
+    engagement: 323
+    commentsToLikes: 0.022829
     id: ck5c26baxwmfc0i11tdcr5bfu
     verified: false
-    hashtags: "#rockandfitness, #fitnessboy, #repost, #merch"
-  - username: "caparus"
+    hashtags: "#live, #repost, #tetenovoa, #freddiemercury"
+  - username: "marianahidalgo.nutricion"
     fullname: >-
-      🌺V A L E R I A   C A P A R Ó🌺
+      Mariana | Nutrición+Hábitos
     bio: >-
-      📍Lima - Perú 17 años🌻 Nutrición UPC 📚🍎 @vesia.nutricion 🥑
+      🍓¡Soy nutricionista! Te enseño de alimentación y hábitos para que cambies de vida no de talla. 💘 Team @reebokperu RECETARIO GRATUITO AQUÍ 👇🏼
     location: "Peru"
-    followers: 2716
-    engagement: 2132
-    commentsToLikes: 0.069962
-    id: ckap65fpneh350i78r3doxklc
+    followers: 121565
+    engagement: 181
+    commentsToLikes: 0.100759
+    id: ck6u91w0cv08a0j71afz0zsxy
     verified: false
-    hashtags: ""
-  - username: "crisisyak"
-    fullname: >-
-      C R I S
-    bio: >-
-      新垣 クリス 🇯🇵🇵🇪 Estudiante de Nutrición, me gustan las plantas, soy adicta a los dulces y medio otaku
-    location: "Peru"
-    followers: 6506
-    engagement: 1118
-    commentsToLikes: 0.028081
-    id: ck9hcp6gwmfip0j78u0o1w1hw
-    verified: false
-    hashtags: "#photooftheday, #sakura, #potd, #anime"
+    hashtags: "#peru, #marianahidalgo, #nutrici, #2023biencabr"
 ---

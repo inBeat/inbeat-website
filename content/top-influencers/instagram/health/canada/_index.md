@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Canada in 2023
+title: Top 10 Health Instagram Influencers In Canada In 2023
 description: >-
-  Find top health Instagram influencers in Canada in 2023. Most popular hashtags: #workout #selflove #fitness.
+  Find top health Instagram influencers in Canada in 2023. Most popular hashtags: #healthylifestyle #mentalhealth #toronto.
 platform: Instagram
-hits: 816
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 816 Instagram influencers like this in Canada for you to contact.
+hits: 399
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 399 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "justina.sadecki"
+  - username: "maddison.noel"
     fullname: >-
-      Justina
+      Maddison | Travel & Adventure
     bio: >-
-      God First.📍Ontario Psych B.A | Mental Health Advocate Body Positive | Model | Artist @justinapaints | 🇵🇱 shoot with me! 💌 justina.sadecki@gmail.com
+      HAVE THE BEST DAY EVER ▾ Encouraging you - because you’re worth it ↟ CPT + Health Coach ⋙ owner @_mylesfitness
     location: "Canada"
-    followers: 13740
-    engagement: 1313
-    commentsToLikes: 0.055647
-    id: ck8t11pe3u54n0j78019t2bey
+    followers: 117368
+    engagement: 327
+    commentsToLikes: 0.011174
+    id: ck15pveawztko0i19qnk287xo
     verified: false
-    hashtags: "#virgoseason, #mybhlook"
+    hashtags: "#travelalberta, #explorealberta, #travelnevada, #travelusa"
+  - username: "melsays"
+    fullname: >-
+      MELSAYS
+    bio: >-
+      Bilingual TV/Podcast Host | Writer 🗣✍🏻 @theoffners Productions 📺 CPT/FNS Cancer survivor 💪🏻 Mental & physical health advocate 🧠🏃🏼‍♀️
+    location: "Canada"
+    followers: 14373
+    engagement: 141
+    commentsToLikes: 0.144922
+    id: ckpn0tv8z3kfb0j235ms3mo84
+    verified: false
+    hashtags: "#snowboard, #vancouverisland, #museum, #pcr"
+  - username: "simple_ula"
+    fullname: >-
+      simple Ula ▫️ Urszula Truchan
+    bio: >-
+      wife&mama 🇵🇱&🇨🇦 🏆Canadian Business Awards:Lifestyle Blog of 2022 Here to encourage you to live a happy,healthy &more productive life🤍 Visit my blog👇
+    location: "Canada"
+    followers: 77466
+    engagement: 62
+    commentsToLikes: 0.079169
+    id: ck5zijmh5fu0m0i14r3po37fc
+    verified: false
+    hashtags: "#ottawablogger, #minimalistichome, #canadianfamily, #canadianmom"
+  - username: "healthynumnumblog"
+    fullname: >-
+      Michelle | Healthy Recipes
+    bio: >-
+      healthy yummy recipes by @michellevonhahn mostly: gluten, dairy, & refined sugar free ✉️ — michelle@healthynumnum.com my blog ↓
+    location: "Canada"
+    followers: 101272
+    engagement: 33
+    commentsToLikes: -0.366543
+    id: clabntkbzsgzk0i23m9rpnnw3
+    verified: false
+    hashtags: "#healthyfood, #christmas, #healthyrecipes, #healthylifestyle"
+  - username: "seedsofthree"
+    fullname: >-
+      LEIGH | Lifestyle, Wellness & Quick Recipes
+    bio: >-
+      • Mom • Writer • Author • Advocate for Mental Health • Focused on the joy of living a full and healthy life • Contributor to Huffington Post
+    location: "Canada"
+    followers: 40841
+    engagement: 50
+    commentsToLikes: 2.245820
+    id: cks10oy3q2b480j23hvm1fptg
+    verified: false
+    hashtags: "#recipes, #instagood, #mentalhealth, #recipe"
   - username: "kgmtl"
     fullname: >-
       Katherine Garbarino
     bio: >-
       Founder @girlslivingwell ✨ 👩🏽‍🤝‍👩🏻 Your virtual BFF 🍋 Health & Wellness 💅🏽 Beauty & Skincare 🎞 Daily Tips & Tricks 💌 emma@kg-mtl.com
     location: "Canada"
-    followers: 72129
-    engagement: 520
-    commentsToLikes: 0.124757
+    followers: 89793
+    engagement: 379
+    commentsToLikes: 0.009993
     id: ck55ke17yz3wj0i11cnnamu23
     verified: false
-    hashtags: "#crueltyfree, #sustainablefashion, #kgmtlxardene, #glossup"
-  - username: "jocebedard"
+    hashtags: "#protectyoface, #kgmtlxardene, #welcometothelowerlevel, #dondala"
+  - username: "natashaahuja"
     fullname: >-
-      Jocelyn Bedard
+      𝐍𝐚𝐭𝐚𝐬𝐡𝐚 | 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠
     bio: >-
-      🎬 | ACTING & YOUTUBE HOST ☁️| HEALTH & FITNESS 🧚🏼| TIK TOK: jocebedard 🌸| YOUTUBE ⇩
+      ♡ if no one told you today, you matter » positivity, mental health and self-care ☆ social media mgmt + content creation
     location: "Canada"
-    followers: 16032
-    engagement: 578
-    commentsToLikes: 0.070088
-    id: ck9wgxgpmveft0j78rr1j2su4
+    followers: 73726
+    engagement: 269
+    commentsToLikes: 0.047160
+    id: ck5c6oq5h5vn40i11619eva0c
     verified: false
-    hashtags: "#drunk, #tiktok, #joke, #instagramreels"
-  - username: "itsalexstay"
+    hashtags: "#bellletstalk"
+  - username: "mariapapadakiss"
     fullname: >-
-      Alex Stay (he/them)
+      Maria Papadakis
     bio: >-
-      6’5” Growing Cub with a Lithp 🐻 Aethetic Optimitht 🔥 Anti-Bullying Activitht 🏳️‍🌈 Mental Health Advocate 🧠 📍de Montréal - now Vancouver 🏞
+      🎥 Digital Host & In Stadium Host | @torontofc 🎬 Producer | MLSE 💪🏼 Trainer & Healthy Eating Advocate
     location: "Canada"
-    followers: 8495
-    engagement: 1374
-    commentsToLikes: 0.037302
-    id: ck8t9cw42nmrz0j78ubl0modb
+    followers: 5282
+    engagement: 1155
+    commentsToLikes: 0.046551
+    id: ck5bw8ylgl8e70i11csi5gtz1
     verified: false
-    hashtags: "#bodypositivity, #dadbod, #gaycubs, #cuddlebuddy"
+    hashtags: "#ootd, #toronto, #healthyplanet, #torontolife"
   - username: "jdolll_x"
     fullname: >-
       JDoll | Online Fitness Coach
     bio: >-
-      🍯Multi-faceted as f*ck 📝Mental health advocate | BPD/DBT 🏋🏻‍♀️Gym rat | personal trainer - @tilyoucollapse - @yummysports 👇🏽Link for coaching
+      🍯Multi-faceted as f*ck 📝Mental health advocate | BPD/DBT 🏋🏻‍♀️Gym rat | personal trainer - @yummysports 👇🏽Link for coaching
     location: "Canada"
-    followers: 15913
-    engagement: 568
-    commentsToLikes: 0.067045
+    followers: 17014
+    engagement: 445
+    commentsToLikes: 0.092792
     id: ck5bv32xdiwl80i11qhyoluh8
     verified: false
-    hashtags: "#yyc, #brunettegirl, #borderlinepersonalitydisorder, #yycfitness"
-  - username: "jordanshrinks"
+    hashtags: "#yyc, #girlswithtattoos, #womensupportingwomen, #yycnow"
+  - username: "nachoserricchio"
     fullname: >-
-      🅙 🅞 🅡 🅓 🅞
+      Ｉｇｎａｃｉｏ Ｓｅｒｒｉｃｃｈｉo
     bio: >-
-      Lover of wellness, balance, & everything spooky. 🦇 Got healthy and I want to help you do the same. 🤍 @morejordo @weareinspira ✨ ☾ Important links. ↓
+      Mental Health Advocate 💚 Tu Salud Mental Importa
     location: "Canada"
-    followers: 320469
-    engagement: 869
-    commentsToLikes: 0.015884
-    id: ck0vzixit9c0w0i1937jyxb1q
-    verified: false
-    hashtags: "#birthday, #birthdaygirl, #27, #lingerie"
-  - username: "maddielymburner"
-    fullname: >-
-      MADDIE ☼
-    bio: >-
-      plants, health, & fitness 🍃 » fitness IG: @madfit.ig » YouTube: Maddie Lymburner ⇣SHOP MY RECIPE BOOKS⇣
-    location: "Canada"
-    followers: 320235
-    engagement: 1140
-    commentsToLikes: 0.013634
-    id: ck13blxx1w2200i194u0inrh0
-    verified: false
-    hashtags: "#couplephoto, #naturelovers, #selfcare, #quarantinelife"
-  - username: "yesmissy"
-    fullname: >-
-      Eileen Lazazzera
-    bio: >-
-      🦄 Don't let your dreams be just dreams 🌐 yesmissy.com 💍 Wifey & doggy mama 💫 style 💫 beauty 💫 health 💫 lifestyle 💌 hello@yesmissy.com
-    location: "Canada"
-    followers: 27606
-    engagement: 299
-    commentsToLikes: 0.164254
-    id: ck0tzy706rymy0i1904xmoqg5
-    verified: false
-    hashtags: "#antiaging, #reclaimconfidence, #ltkstyletip, #lavieenrose"
-  - username: "sameerayounesi"
-    fullname: >-
-      samEEra سمی‌را
-    bio: >-
-      Healthy life style, healthy mind! Personal Trainer برای دریافت برنامه غذایی و تمرینی دایرکت ارسال شود DM👉🏻 Workouts+ Meal plans📍Canada,Toronto
-    location: "Canada"
-    followers: 22213
-    engagement: 1645
-    commentsToLikes: 0.022265
-    id: ck5ck91mewe070i11cuzzh0bo
-    verified: false
-    hashtags: "#fitnessmodel, #gainweight, #canada, #iran"
-  - username: "princeofkelowna"
-    fullname: >-
-      Dane Rupert
-    bio: >-
-      Big Brother Canada 7- Winner 👑 🇨🇦 |GR • 05 • 07 • 18| 💙 Mental Health advocate 🤙🏽 🏃🏼‍♂️🚶🏼‍♂️🏃🏼‍♂️🗣👇🏼
-    location: "Canada"
-    followers: 28080
-    engagement: 793
-    commentsToLikes: 0.021965
-    id: ck5q8kr7y6o5y0i11duofy4le
-    verified: false
-    hashtags: "#happyholidays, #photoshoot, #blackouttuesday, #hulkamania"
+    followers: 103203
+    engagement: 479
+    commentsToLikes: 0.018802
+    id: ck14k6m7enzsc0i19v2u46wgb
+    verified: true
+    hashtags: "#mentalhealth, #mentalhealthawareness, #nostigma, #yougotthis"
 ---

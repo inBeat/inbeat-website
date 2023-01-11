@@ -1,36 +1,84 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Japan in 2023
+title: Top 10 Home Decor Instagram Influencers In Japan In 2023
 description: >-
-  Find top home decor Instagram influencers in Japan in 2023. Most popular hashtags: #homedecor #interior #nature #interiordesign.
+  Find top home decor Instagram influencers in Japan in 2023. Most popular hashtags: #homedecor #interiordesign #homedesign #design.
 platform: Instagram
-hits: 20
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 20 Instagram influencers like this in Japan for you to contact.
+hits: 17
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 17 Instagram influencers like this in Japan for you to pitch.
 profiles:
+  - username: "lamot_photography"
+    fullname: >-
+      Laura Motuziene 🇱🇹
+    bio: >-
+      All photos are mine. Love macro photography, nature, road trips.. United Kingdom Thank you for visiting. @laura_go_drone
+    location: "Japan"
+    followers: 2382
+    engagement: 1310
+    commentsToLikes: 0.042439
+    id: ck9wf8xp0nqrq0j786onmxovr
+    verified: false
+    hashtags: "#monochrome, #splash, #plant, #bnwphotography"
   - username: "swaro109"
     fullname: >-
       網田真希☆空間デザイナー☆swaro109
     bio: >-
-      🏠空間デザイナー 🔨DIYクリエイター 🎥DIY-YouTuber ❤趣味は食べる事 【YouTubeスワロちゃんねる】↓↓
+      🏠インテリア 🎨空間デザイナー 🔨DIYクリエイター 🎥DIY-YouTuber【スワロちゃんねる】 月間30万View ❤趣味🎹ピアノ＆🍖食べる事 【YouTubeスワロちゃんねる】↓↓
     location: "Japan"
-    followers: 18575
-    engagement: 342
-    commentsToLikes: 0.020137
+    followers: 18510
+    engagement: 283
+    commentsToLikes: 0.016372
     id: ck14kubo7rd2c0i19yunnmjth
     verified: false
-    hashtags: "#furniture, #bohointerior, #myhome, #instahome"
-  - username: "asasa0509"
+    hashtags: "#house, #bohostyle, #furniture, #interiordesign"
+  - username: "eleganceroom"
     fullname: >-
-      keiko S
+      Olivia Jent | Interior Design
     bio: >-
-      夫婦+愛犬との暮らし in Chiba 建売住宅をコツコツDIY🔨 □著書 元雑貨屋asasaさんの「ゆるカワ暮らし」 □Yahoo!クリエイター □BRUNO/ Hinata Lifeアンバサダー&フレンド □ESSE編集部公認インスタグラマー □folkオフィシャルライター
+      Cincinnati📍 Pink Page: @oliviaseleganceroom
     location: "Japan"
-    followers: 48053
-    engagement: 439
-    commentsToLikes: 0.000674
-    id: ck139v4nen9od0i19qehsvb1x
+    followers: 596938
+    engagement: 144
+    commentsToLikes: 0.014082
+    id: ck135b1vb0log0i192x3ytjd5
     verified: false
-    hashtags: "#interior, #bedroom, #homedecore, #100"
+    hashtags: "#arch, #vogueliving, #mynordicroom, #homegoods"
+  - username: "villariarveien"
+    fullname: >-
+      Katrine Seim Andersen
+    bio: >-
+      ▪️New house 2017 ▪️Interior ▪️Sandnes, Norway
+    location: "Japan"
+    followers: 123825
+    engagement: 256
+    commentsToLikes: 0.027702
+    id: ck5bwqrafm86c0i11wyq82cia
+    verified: false
+    hashtags: "#minimalism, #garden, #whiteinterioryes, #julepynt"
+  - username: "sheishine"
+    fullname: >-
+      Hine Mizushima / 水島ひね
+    bio: >-
+      Craft Artist. Vancouver, Canada. www.hinemizushima.com
+    location: "Japan"
+    followers: 23929
+    engagement: 240
+    commentsToLikes: 0.008098
+    id: ckaou8yfwzc980i78h2etb9sy
+    verified: false
+    hashtags: "#hinemizushima, #plant, #berries, #craft"
+  - username: "rubyart1"
+    fullname: >-
+      Ruby Art
+    bio: >-
+      ❤️I’m an Illustrator❤️ 🎍#artist🎍 🐕 Meet my boy : @hachi_ruby_shiba 🐕 🌺 Store: rubyart.ca 🌺 ⬇️ 🌎 LINKS TO ALL MY SITES
+    location: "Japan"
+    followers: 19628
+    engagement: 354
+    commentsToLikes: 0.007430
+    id: ck9hb6cc2fkqf0j78ggil7tco
+    verified: false
+    hashtags: "#koifish, #art, #rubyart, #homedecor"
   - username: "keijiashizawadesign"
     fullname: >-
       KEIJI ASHIZAWA DESIGN
@@ -42,89 +90,41 @@ profiles:
     commentsToLikes: 0.009192
     id: ck15u0rnfkuyc0i19nqju1aey
     verified: false
-    hashtags: "#karimokucasestudy, #livingroom, #interiorproject, #japanesearchitecture"
-  - username: "freedom_travellikekaren"
+    hashtags: "#housedesign, #homedesign, #minimalism, #smallhouse"
+  - username: "hollykstyles"
     fullname: >-
-      Karen🛄✈️🌎Travel + Lifestyle
+      Holly
     bio: >-
-      ғᴏʀᴇᴠᴇʀ ʜᴜɴɢʀʏ👣ᴀᴄʜᴇ ғᴏʀ ᴅɪsᴛᴀɴᴛ ᴘʟᴀᴄᴇs ✧ 𝗠𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻𝗮𝗹 ✧ 𝗕𝗲 𝗚𝗼𝗼𝗱 ✧ 𝗗𝗼 𝗚𝗼𝗼𝗱 💍 @chef__explorer 🇦🇺🇲🇾 #LDR 📍MY #✈ 📬𝑤𝑜𝑟𝑘 ❥ 𝑘𝑎𝑟𝑒𝑛𝑚𝑖𝑠𝑐ℎ𝑎@𝑔𝑚𝑎𝑖𝑙.𝑐𝑜𝑚
+      • dallas tx • future mrs 💍 • home | fashion | lifestyle • @shopjustusthree • realtor @hollywrealestate link below to shop my posts
     location: "Japan"
-    followers: 16911
-    engagement: 645
-    commentsToLikes: 0.120557
-    id: ck0vwrqdtv9wg0i19p9s4396i
+    followers: 2479
+    engagement: 799
+    commentsToLikes: 0.208682
+    id: ckaowm7if9gug0i78mtyycrlx
     verified: false
-    hashtags: "#karenxwa, #explorepage, #shetravels, #outdooradventures"
+    hashtags: "#2020, #ootd, #tistheseason, #colorado"
+  - username: "travel_photos_stone"
+    fullname: >-
+      Steen🤙🤣✈️
+    bio: >-
+      Passionate hobby photographer 🌍Travel, nature, culture 📷 Nikon D750, IPhone X 😉 All photos taken by me©️
+    location: "Japan"
+    followers: 2718
+    engagement: 2376
+    commentsToLikes: 0.130766
+    id: ckap1f3bsubsi0i78lklqnms7
+    verified: false
+    hashtags: "#fineart, #naturelovers, #raw, #relaxing"
   - username: "theluxegirls"
     fullname: >-
       Classy.Stylish.Fashion.Girls
     bio: >-
       Turn on post notifications DM if it’s your pic 📥 If you use my pictures Tag @theluxegirls
     location: "Japan"
-    followers: 128155
-    engagement: 130
-    commentsToLikes: 0.001504
+    followers: 152614
+    engagement: 127
+    commentsToLikes: 0.001813
     id: ck13bri32wtm50i19zgowz9ov
     verified: false
-    hashtags: "#instaphoto, #luxe, #interiordesign, #theluxegirls"
-  - username: "emi__0805"
-    fullname: >-
-      emi
-    bio: >-
-      アンティーク、インテリア ドライフラワーや多肉植物 お庭の花やグリーンに癒されています❤ セキセイインコ ♂️funちゃんとの 暮らしも時々♪*･♪･*:.｡..🐦｡.:*･♪･*:.｡.💓 日々幸せを感じる瞬間を 共有できたら．．．と思います*･ﾟ･♪*:.｡..｡.:*･♪
-    location: "Japan"
-    followers: 11271
-    engagement: 1584
-    commentsToLikes: 0.020247
-    id: ckaoyd4jjh0fo0i78hvekfg9s
-    verified: false
-    hashtags: "#mydisplay, #flowerlovers, #gardencaf, #loves"
-  - username: "mushing_square"
-    fullname: >-
-      ➵🌍✖𝑆𝑖𝑥𝑀𝑢𝑠𝘩𝑒𝑟𝑠 & 𝑇𝑤𝑜𝑃𝑖𝑔𝑒𝑜𝑛𝑠✖🇪🇦™
-    bio: >-
-      La gran manada‼🎪TikTok/IgTv/Reel🎞 🎬|Perros actores⭐ 🐕|Dumba♀ 🐕|Buda♂ 🐕|Book♂ 🐦|Tomás♂ 🐕|Sirio♂ 🐕|Hermes♂ 🐕|Pax♂ 🐦|Vicky♀ ⛰|Recatados 🛷|Mushing
-    location: "Japan"
-    followers: 13606
-    engagement: 982
-    commentsToLikes: 0.297522
-    id: ck5zt279tzlpm0i149wtw1cbe
-    verified: false
-    hashtags: "#infludog, #puppy, #adopt, #dogphotography"
-  - username: "licca_sayu"
-    fullname: >-
-      ♡ 𝚜𝚊𝚢𝚞 ♡
-    bio: >-
-      ❤︎ I Love Licca doll ❤︎ Thank you for visiting my page◡̈♥
-    location: "Japan"
-    followers: 6554
-    engagement: 1035
-    commentsToLikes: 0.005377
-    id: ckap1wdvvwd9t0i78exgyeck6
-    verified: false
-    hashtags: "#dollstagram, #liccadoll, #miniature, #kira"
-  - username: "dmocba"
-    fullname: >-
-      CBA
-    bio: >-
-      I'm CBA, a painter as abstract artist from Kobe, japan. Thank you for dropping by. 神戸を拠点に活動しているCBA（シーバ）です。 We can deal here. Please send me a DM here.
-    location: "Japan"
-    followers: 47775
-    engagement: 287
-    commentsToLikes: 0.025762
-    id: ck15tiuqxias30i19czdtn64a
-    verified: false
-    hashtags: "#modernart, #colorpop, #abstractmag, #contemporarypainting"
-  - username: "rubyart1"
-    fullname: >-
-      Ruby Art
-    bio: >-
-      ❤️I’m an Illustrator❤️ 🎍#artist🎍 🐕 Meet my boy : @hachi_ruby_shiba 🐕 🌺 Store open September 1st 🌺 ⬇️ 🌎 LINKS TO ALL MY SITES
-    location: "Japan"
-    followers: 19846
-    engagement: 512
-    commentsToLikes: 0.012396
-    id: ck9hb6cc2fkqf0j78ggil7tco
-    verified: false
-    hashtags: "#kanekiken, #animeart, #fireemblemfanart, #art4share"
+    hashtags: "#millionairelife, #creative, #luxurylifestyle, #fashion"
 ---

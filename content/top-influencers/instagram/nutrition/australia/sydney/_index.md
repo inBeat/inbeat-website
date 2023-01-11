@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Sydney in 2023
+title: Top 10 Nutrition Instagram Influencers In Sydney In 2023
 description: >-
-  Find top nutrition Instagram influencers in Sydney in 2023. Most popular hashtags: #ad #sydney #sydneyfoodie.
+  Find top nutrition Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #australia #nutrition #fashion.
 platform: Instagram
-hits: 24
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 24 Instagram influencers like this in Sydney, Australia for you to contact.
+hits: 8
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 8 Instagram influencers like this in Sydney, Australia for you to collaborate.
 profiles:
-  - username: "bigmelbappetite"
+  - username: "ateaspoonofstyle"
     fullname: >-
-      Melbourne Foodie
+      Tanaka Tarou
     bio: >-
-      Kathy & Dan “Come get chubby with us!” 🤤 📷 Food Photographer @knphotography.com.au 🌶 Chilli Fiend & Korean Food Lover! ✉️ bigmelbappetite@gmail.com
+      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
     location: "Australia"
-    followers: 20763
-    engagement: 367
-    commentsToLikes: 0.168711
-    id: ck5c6i0xf5h7e0i11m3wjbpsq
+    followers: 30201
+    engagement: 175
+    commentsToLikes: 0.218128
+    id: ck15seuspcnp30i19ut0843ge
     verified: false
-    hashtags: "#ad, #bmafavourites, #gifted, #harvestgourmet"
-  - username: "dancavalcante90"
-    fullname: >-
-      D a n
-    bio: >-
-      📍 Sydney 💊 @switch_nutrition
-    location: "Australia"
-    followers: 6225
-    engagement: 846
-    commentsToLikes: 0.059688
-    id: ck6topxnbffo60j71qrx6q4t6
-    verified: false
-    hashtags: "#instagay, #lifestyle, #instafit, #feels"
-  - username: "gabreal.hungry"
-    fullname: >-
-      Gabrielle |Sydney Photographer
-    bio: >-
-      ☕ Living life one meal at a time 📩 DM / gabreal.hungry@gmail.com
-    location: "Australia"
-    followers: 16370
-    engagement: 504
-    commentsToLikes: 0.104043
-    id: ck5pz74dtzjku0i11vxq809qc
-    verified: false
-    hashtags: "#breakfastinsydney, #australianblogger, #apmmonaco, #sydneylife"
-  - username: "foodbyzeebee"
-    fullname: >-
-      Sydney Foodie and Teacher
-    bio: >-
-      💠Foodie/Photgrapher 💁🏽‍♀️🇦🇺 💠Teacher👩🏽‍🏫 💠Find me eating, cooking,networking or educating the masses 💠Dm: collab/invites #foodbyzeebee
-    location: "Australia"
-    followers: 3625
-    engagement: 729
-    commentsToLikes: 0.340575
-    id: ck14l8pwiteja0i19ohnfce9t
-    verified: false
-    hashtags: "#coffeetable, #sydneyphotographer, #quoteoftheday, #sydneyfood"
-  - username: "_anutka__"
-    fullname: >-
-      Anna🌸
-    bio: >-
-      | My life in colourful squares 📸 | 💍 @nzaff | 💌 segova.anna@gmail.com | 🌏 Sydney, Australia
-    location: "Australia"
-    followers: 17749
-    engagement: 581
-    commentsToLikes: 0.048541
-    id: ck14lqetpvywf0i19vc4ocpy0
-    verified: false
-    hashtags: "#ootn, #islandvibes, #ad, #tlpicks"
-  - username: "nickyprice_"
-    fullname: >-
-      Nicky Price
-    bio: >-
-      ✖️Health and fitness ✖️Photography ✖️Travel 📍Sydney, Australia 👇🏼ONLINE training and nutrition programs
-    location: "Australia"
-    followers: 42554
-    engagement: 487
-    commentsToLikes: 0.025512
-    id: ck0udruw2jv800i19pl55sia6
-    verified: false
-    hashtags: "#ck"
+    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
   - username: "helenasauzier"
     fullname: >-
       Helena Sauzier
     bio: >-
-      🇲🇺🇿🇦🇦🇺 📍Sydney 🎓BSc Health Science 👅Food & Drink @sauzyeats 👩🏼‍💻Accounts & Marketing @reformprojects 🧠Nutrition & Health Coaching @wellcollegeglobal
+      🇲🇺🇿🇦🇦🇺 📍Sydney 🎓BSc Health Science 🏄🏼‍♀️Ambassador @fliteboard 🧠Nutrition & Health Coaching @wellcollegeglobal 🍴Food Adventures @sauzyeats
     location: "Australia"
-    followers: 58208
-    engagement: 306
-    commentsToLikes: 0.031538
+    followers: 56891
+    engagement: 165
+    commentsToLikes: 0.035910
     id: ck5qaw04diji00i11jz9sz3wy
     verified: true
-    hashtags: "#deepdownunder, #throwback, #madeitadate, #allpail2023"
-  - username: "julzjulzjulzz"
+    hashtags: "#amazonaustralia, #christmasshop, #ad, #stircreativity"
+  - username: "jennybeeen"
     fullname: >-
-      Julia Woodford WBFF PRO
+      Jenny Blenk | Content Creator
     bio: >-
-      💪🏼@bigmuscles_nutrition Athlete 💯@fitnessgurls Athlete ✨@thetraininghouse Co-owner 💌 Info@juliawoodfordfitness.com EBOOKS 👇🏼
+      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
     location: "Australia"
-    followers: 54355
-    engagement: 130
-    commentsToLikes: 0.047547
-    id: ck0w2vnadqe0k0i19fpx35xwe
+    followers: 8147
+    engagement: 644
+    commentsToLikes: 0.205182
+    id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#wbffpro, #bigmusclesnutrition, #sydney, #strongerthanyouthink"
-  - username: "tristan_hodder"
+    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
+  - username: "jamieazzopardi"
     fullname: >-
-      T
+      Jamie Azzopardi (He/Him)
     bio: >-
-      📍Sydney 🏃‍♂️Professional Parkour & Tricking Athlete 💌 Email for Business inquiries
+      🇦🇺🇲🇹🏳️‍🌈🇧🇷🇺🇸 Celebrity Fashion Stylist + Culture Blogger Nomadic Gypsy • 90s Kid 📍Cadi (SYD) Music • Arts • Food • Lifestyle • Travel • Fashion
     location: "Australia"
-    followers: 11076
-    engagement: 826
-    commentsToLikes: 0.046260
-    id: ck6txphjqz4by0j71ihew104q
+    followers: 167803
+    engagement: 399
+    commentsToLikes: 0.013054
+    id: ck14l0irws96d0i19oitjaa2v
     verified: false
-    hashtags: "#flippingfeed, #tricking, #freerun, #gym"
-  - username: "jessienorbz"
+    hashtags: "#localsupply, #sneakers, #editorial, #australianfashion"
+  - username: "myvietnamesemum"
     fullname: >-
-      J E S S I E
+      My Vietnamese Mum
     bio: >-
-      ✨ Sydney Based Model & YouTuber 🌻 @findyourfirepodcast 🥑 Nutrition Student | JORDI 💛 🌿Ryderwear | JESSIE10 ✨Bookings contactjessnorbury@yahoo.com.au
+      Mum sends me photos of her food everyday, so I thought I'd share it with the world 💛
     location: "Australia"
-    followers: 18769
-    engagement: 463
-    commentsToLikes: 0.033853
-    id: ck13c71xkyxbe0i19kvzguau6
+    followers: 54468
+    engagement: 148
+    commentsToLikes: 0.013125
+    id: ck135047fz1rf0i19ema2xdlb
     verified: false
-    hashtags: ""
+    hashtags: "#veggies, #foodgram, #seafood, #f52grams"
+  - username: "trainertrowell"
+    fullname: >-
+      • LACHLAN TROWELL •
+    bio: >-
+      🔬 B of Sport & Exercise⁣ Science 🦾 In-Person & Online Coach @fitnessfirstau ⁣ 💉 Type-1 Diabetic 🥤@myproteinau Athlete - ‘TROWELLMYP’
+    location: "Australia"
+    followers: 4353
+    engagement: 787
+    commentsToLikes: 0.071300
+    id: ck6trblj1y1oi0j71p5kynhho
+    verified: false
+    hashtags: "#gym, #onlinecoach, #glutes, #biomechanics"
+  - username: "unbeleafablefood"
+    fullname: >-
+      Jess - Vegan Food Melbourne
+    bio: >-
+      Sharing all the tasty food I eat in Melbourne! 🌱 Code JESS for 10% off @pickldit + @1potmealz 🤩 Email or DM me for recommendations 💛
+    location: "Australia"
+    followers: 7112
+    engagement: 531
+    commentsToLikes: 0.475509
+    id: ck5c6i25y5hac0i1100fgq43o
+    verified: false
+    hashtags: "#melbournedesserts, #vegains, #melbournefoodblogger, #vegan"
+  - username: "julesrobinson82"
+    fullname: >-
+      Jules
+    bio: >-
+      Live•Love•Embrace🧿 CEO• @figur_co For Women Reshaping The World 👶🏽 @babycubandladylumps 📞 @the.mgmt
+    location: "Australia"
+    followers: 730175
+    engagement: 169
+    commentsToLikes: 0.014438
+    id: ck1350vx9z4rw0i1935w8sh76
+    verified: true
+    hashtags: "#quotes, #lockdownlife, #quotesaboutlife, #quoteoftheday"
+  - username: "jeet_selal"
+    fullname: >-
+      Jeet Selal (Himalayan Stallion)
+    bio: >-
+      S & C, NUTRITION Coach🇦🇺 SPORT Management🇬🇧 FOUNDER Himalayan Stallion @hsf_expo @hsajeetselal ▪️KNOWLEDGE AMB @myproteinin
+    location: "Australia"
+    followers: 903396
+    engagement: 2262
+    commentsToLikes: 0.006091
+    id: ckapasgboxai50i78atufxlox
+    verified: false
+    hashtags: "#warrior, #reelsinstagram, #hsfexpo2023, #mahadev"
+  - username: "rubygracemarks"
+    fullname: >-
+      r u b y g r a c e
+    bio: >-
+      brisbane; @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
+    location: "Australia"
+    followers: 23763
+    engagement: 894
+    commentsToLikes: 0.052252
+    id: ckap2n0uwzk0o0i78zh5qva2i
+    verified: false
+    hashtags: "#billinibabes"
 ---

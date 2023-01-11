@@ -1,72 +1,72 @@
 ---
-title: Top 10 Music TikTok Influencers In Portugal in 2023
+title: Top 10 Music TikTok Influencers In Portugal In 2023
 description: >-
-  Find top music TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #tiktok #duet #portugal.
+  Find top music TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #portugal #foryou.
 platform: TikTok
-hits: 50
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 50 TikTok influencers like this in Portugal for you to connect with.
+hits: 52
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 52 TikTok influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "kennystones"
-    fullname: >-
-      kennystones
-    bio: >-
-      Ouve a minha música aí no link crl
-    location: "Portugal"
-    followers: 61800
-    engagement: 1493
-    commentsToLikes: 0.013530
-    id: ckcuyb79fmch80j234dw4aht6
-    verified: false
-    hashtags: "#voltareilopes, #stitch, #portugal, #pov"
   - username: "stankoofficial"
     fullname: >-
       Stanko
     bio: >-
       Já ouviste a minha música nova? 👆👆👆 clicka aí mpt 👇👇👇
     location: "Portugal"
-    followers: 36200
-    engagement: 1306
-    commentsToLikes: 0.018514
+    followers: 49700
+    engagement: 1264
+    commentsToLikes: 0.033171
     id: ckcvj9y25wnge0j23qul16ac1
     verified: false
-    hashtags: "#fyp, #paravoce, #duet, #stitch"
-  - username: "julia.vieira.r"
+    hashtags: "#stitch, #duet, #cachoeiracongelante"
+  - username: "kennystones"
     fullname: >-
-      Julia Vieira
+      kennystones
     bio: >-
-      bem vindo a um perfil nada a ver 🤪 ah e eu gosto de criar músicas
+      CEO of #ligaospiscas Ouve a minha música aí no link crl
     location: "Portugal"
-    followers: 46100
-    engagement: 1104
-    commentsToLikes: 0.015888
-    id: ckdhtnews33c50j23r6ltcar5
+    followers: 93400
+    engagement: 959
+    commentsToLikes: 0.027323
+    id: ckcuyb79fmch80j234dw4aht6
     verified: false
-    hashtags: "#lisboa, #summer, #ex, #storytime"
+    hashtags: "#semvergonha, #pedinche, #duet, #wwe"
+  - username: "raquelcastanheiraa"
+    fullname: >-
+      Raquel Castanheira <3
+    bio: >-
+      ✨🌈💜 Olá sou a miúda das músicas e de outras cenas
+    location: "Portugal"
+    followers: 93000
+    engagement: 1321
+    commentsToLikes: 0.016260
+    id: ckb94jfv8m1u20j236245v5mw
+    verified: false
+    hashtags: "#raquelcastanheira, #tuconhecesounaoconheces, #fyp, #curlyhair"
   - username: "megahitstiktok"
     fullname: >-
       Mega Hits
     bio: >-
       A tua música, os teus artistas preferidos e o backstage do que ouves na Mega!
     location: "Portugal"
-    followers: 35800
-    engagement: 867
-    commentsToLikes: 0.006714
+    followers: 41400
+    engagement: 889
+    commentsToLikes: 0.007411
     id: ckbbbilvi0irm0j230yzd6z8b
     verified: false
-    hashtags: "#fyp, #megahits, #isto, #ticket"
+    hashtags: "#radio, #isto, #megahits, #anitta"
   - username: "eauxg"
     fullname: >-
       EauxG
     bio: >-
       🇦🇴|🇵🇹 Produtor de Música CEO das Curiosidades [Oh-Djï]
     location: "Portugal"
-    followers: 44600
-    engagement: 891
-    commentsToLikes: 0.018127
+    followers: 51200
+    engagement: 874
+    commentsToLikes: 0.017730
     id: ck9kfuv4e54l00j78hip9u6o1
     verified: false
-    hashtags: "#tiktokportugal, #paravoce, #3perguntas, #sempress"
+    hashtags: "#oioioi, #sempress, #felizemcasa, #3perguntas"
   - username: "claudanie"
     fullname: >-
       Cláudia Daniela
@@ -74,11 +74,11 @@ profiles:
       "live with passion, live musical.ly"
     location: "Portugal"
     followers: 11600
-    engagement: 337
-    commentsToLikes: 0.006619
+    engagement: 459
+    commentsToLikes: 0.008250
     id: ckbqih0bv3ocp0j23nt92r5n2
     verified: false
-    hashtags: "#foryoupage, #charevelacao, #tiktok, #boyfriend"
+    hashtags: "#pregnant, #desafio, #viral, #foryoupage"
   - username: "seifiiii"
     fullname: >-
       Seifi
@@ -95,36 +95,36 @@ profiles:
     fullname: >-
       Patrícia Franco
     bio: >-
-      Just be nice and kind :) 16 PT📍
+      Just be nice and kind :) 17 PT📍
     location: "Portugal"
-    followers: 31500
-    engagement: 1985
-    commentsToLikes: 0.034617
+    followers: 30900
+    engagement: 2016
+    commentsToLikes: 0.039534
     id: ckcpse08nmmj40j23oveh3e7m
     verified: false
-    hashtags: "#tiktokportugal, #dueto, #fy, #music"
-  - username: "wayndior"
+    hashtags: "#outfit, #foryou, #fy, #dueto"
+  - username: "p.t__"
     fullname: >-
-      Dior ✨
+      Portugal aesthetic
     bio: >-
-      Instagram & Youtube ✨⬆️ Artista 🎙 “Desfilar” OUT NOW☔️
+      Olá bem vinda/o a minha conta, espero que gostes!🇵🇹Videos todos os dias✨
     location: "Portugal"
-    followers: 134400
-    engagement: 1777
-    commentsToLikes: 0.022029
-    id: ckcprw7ztlxb30j23onjnz6ix
+    followers: 66100
+    engagement: 1712
+    commentsToLikes: 0.036713
+    id: ckavdexhmlfj80j23js8vek2u
     verified: false
-    hashtags: "#fyp, #fa, #duet, #oioioi"
-  - username: "eden_hamill"
+    hashtags: "#tuga, #europe, #music, #portugal"
+  - username: "tikhugotok"
     fullname: >-
-      Eden Hamill
+      Hugo Lança
     bio: >-
-      🏴󠁧󠁢󠁳󠁣󠁴󠁿 𝐅𝐨𝐥𝐥𝐨𝐰 𝐦𝐲 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ✨𝑩𝑬 𝑫𝑰𝑭𝑭𝑬𝑹𝑬𝑵𝑻 ✨
+      Tiktok Developer sнαriทg τнє вєsτ ƒσr τнє ωσrℓ∂ cσмεdy😂 ʍષઽ¡૮🎶 єηтєятαıηмєηт🌍
     location: "Portugal"
-    followers: 8079
-    engagement: 1115
-    commentsToLikes: 0.047151
-    id: ckb9sgk4spq7e0j23fj2ynqnb
+    followers: 47800
+    engagement: 807
+    commentsToLikes: 0.141228
+    id: ckbqq8b8kb6oe0j230mg601md
     verified: false
-    hashtags: "#tiktok, #fyp, #music, #lipsync"
+    hashtags: "#espa, #tikhugotok, #fyp, #viral"
 ---

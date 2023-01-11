@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In United States in 2023
+title: Top 10 Instagram Influencers In United States In 2023
 description: >-
-  Find top Instagram influencers in United States in 2023. Most popular hashtags: #petitefashion #petitestyle #whowhatwearing.
+  Find top Instagram influencers in United States in 2023. Most popular hashtags: #outfitinspo #outfitideas #pregnancy.
 platform: Instagram
-hits: 205461
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 205461 Instagram influencers like this in United States for you to work with.
+hits: 247306
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 247306 Instagram influencers like this in United States for you to connect with.
 profiles:
-  - username: "evierupp"
+  - username: "amberdowty_"
     fullname: >-
-      Evelyn Grace ♡ LA Biz Educator
+      Amber Nicole ♡
     bio: >-
-      🌸I help women create a life + biz they LOVE 💛Founder: @theheartuniversity 🎙Heart+Hustle Podcast 🌿elopement photographer FREE PRODUCTIVITY GUIDE👇🏼
+      Long Island-NY📍 Daily Outfit Inspo🫶 💌 amberdowty@insanityhq.com Shop my Presets below ↓
     location: "United States"
-    followers: 26736
-    engagement: 712
-    commentsToLikes: 0.035347
-    id: ck13a76akoyg40i19edjwq8h6
+    followers: 51096
+    engagement: 419
+    commentsToLikes: 0.052067
+    id: ckt2ndyak3i400j23hglzx8of
     verified: false
-    hashtags: "#athomephotochallenge"
-  - username: "nicoleneissany"
+    hashtags: "#falloutfits, #fallfashion, #outfitinspo, #outfitideas"
+  - username: "thehalliescene"
     fullname: >-
-      nicole | petite style & travel
+      Hallie | Nashville Blogger
     bio: >-
-      » nicole.neissany@gmail.com ⚲ NJ ♡ wife & cat mom ☆ sharing goodness & neutral boho chic styles with a side of wanderlust ⤺ shop posts, presets & more
+      hi, i’m Hallie, like Halle Berry! everyday style + home reno | new mom 💕 normalizing life + mental health 🤍🌿 hannaht@shinetalentgroup.com
     location: "United States"
-    followers: 12214
-    engagement: 928
-    commentsToLikes: 0.253694
-    id: ck134abe3vgtr0i19zeycgvjt
+    followers: 52689
+    engagement: 414
+    commentsToLikes: 0.115509
+    id: ckn9ayfvumbl20j23lt41y6yv
     verified: false
-    hashtags: "#octobervibes, #neutralfashion, #eastcoastblogger, #makeitblissful"
-  - username: "kalleyheili"
+    hashtags: "#nursery, #expectingmom, #firsttimemom, #girlnursery"
+  - username: "baileysarian"
     fullname: >-
-      kalley
+      Bailey Sarian  🥀
     bio: >-
-      I like words and they say pictures are worth a thousand. • Wife + Mom, BSSM2 + Bethel Music I wear lots of hats. Literally.
+      Ms. Murder, Mystery, & Makeup • Dark History • 👇🏼 * New Video * & My Social Links :
     location: "United States"
-    followers: 282086
-    engagement: 1245
-    commentsToLikes: 0.013977
-    id: ck55n1llc5abw0i11669c6kha
-    verified: false
-    hashtags: "#blackouttuesday, #enneagram, #myersbriggs, #disc"
-  - username: "danielabelindaa"
-    fullname: >-
-      daniela marquez 🍓
-    bio: >-
-      walnut publications . * 🌱🤎🧿🧘🏾🧚🏼‍♀️* .
-    location: "United States"
-    followers: 2409
-    engagement: 4959
-    commentsToLikes: 0.197722
-    id: ckapadb3wvn7q0i78qftpub7q
-    verified: false
-    hashtags: "#hcobrandagent, #hollistercollective, #worldteenmentalwellnessday, #hollisterbrandagent"
-  - username: "livvlinaress"
-    fullname: >-
-      L I V 👼🏻
-    bio: >-
-      ☆ ☆ ☆
-    location: "United States"
-    followers: 2716
-    engagement: 4717
-    commentsToLikes: 0.336723
-    id: ckap849ztmrmv0i78cm903pms
-    verified: false
-    hashtags: "#15"
-  - username: "cindyycheeks"
-    fullname: >-
-      Cindy | Travel & Style
-    bio: >-
-      ☆ california ❤︎ travel & outfit inspo ➝ book a photoshoot @bymiguelandcindy ✎ contact@cindyycheeks.com ☟ blog, outfits, pinterest & more
-    location: "United States"
-    followers: 10568
-    engagement: 4133
-    commentsToLikes: 0.093031
-    id: ck0tyerw2mib70i19vdfy78yn
-    verified: false
-    hashtags: "#igtravel, #photoideas, #girlythings, #instastories"
-  - username: "xzayvierbrown"
-    fullname: >-
-      Lil X • X Brown
-    bio: >-
-      Gods Plan...
-    location: "United States"
-    followers: 4136
-    engagement: 3778
-    commentsToLikes: 0.126225
-    id: ck0vzwz6ebapx0i19ug7omi3g
+    followers: 2984315
+    engagement: 663
+    commentsToLikes: 0.007988
+    id: ck0tu62zw5sxv0i19qevjyufa
     verified: false
     hashtags: ""
-  - username: "shanaxchan"
+  - username: "jess"
     fullname: >-
-      shana chan ♡
+      Jess Conte
     bio: >-
-      los ángeles, ca
+      ✞ ☻ jess@scalemanagement.co ⤥ my guided journal
     location: "United States"
-    followers: 3155
-    engagement: 3627
-    commentsToLikes: 0.253098
-    id: ck9hbhi02gupa0j784txoxj30
-    verified: false
-    hashtags: "#327clothing, #blackouttuesday, #ad"
-  - username: "alvaromero"
-    fullname: >-
-      alvaro romero
-    bio: >-
-      JESUS IS KING 🇵🇪
-    location: "United States"
-    followers: 519057
-    engagement: 3588
-    commentsToLikes: 0.036154
-    id: ck8wg3fx3goae0j782wdfdalw
-    verified: false
+    followers: 2262141
+    engagement: 1362
+    commentsToLikes: 0.002894
+    id: ck0vw0aemrj6l0i194vjeeex9
+    verified: true
     hashtags: ""
-  - username: "seriouslyshereen"
+  - username: "savannah_joyyy"
     fullname: >-
-      shereen 🥭
+      Savannah Joy
     bio: >-
-      I’m just tryna be on a Pakistani drama
+      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
     location: "United States"
-    followers: 7455
-    engagement: 3545
-    commentsToLikes: 0.085046
-    id: ck9wh0y3dvqwk0j78fpz2j2k0
+    followers: 132122
+    engagement: 417
+    commentsToLikes: 0.012208
+    id: ck5q33lorj2160i11tlfrq9s1
     verified: false
-    hashtags: "#eidmubarak, #eid2020"
+    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
+  - username: "behamin"
+    fullname: >-
+      Behamin • بهامين
+    bio: >-
+      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
+    location: "United States"
+    followers: 487738
+    engagement: 571
+    commentsToLikes: 0.033819
+    id: ck0u741343nni0i1969xnaly0
+    verified: false
+    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
+  - username: "maggiemacdonald"
+    fullname: >-
+      MM
+    bio: >-
+      raelyn@raelynmgmt.com
+    location: "United States"
+    followers: 200926
+    engagement: 832
+    commentsToLikes: 0.009191
+    id: ck5zt6mnrzu670i14y1jc91xm
+    verified: false
+    hashtags: "#ad, #revolvegallery"
+  - username: "rachelearls"
+    fullname: >-
+      Rachel Wynn Earls
+    bio: >-
+      Mom of boys 🤰with baby #4 ✞ = ♡ on earth as it is in heaven Earls Family Vlogs 🎥 Author: A Higher Calling earlsfamilypartnerships@gmail.com
+    location: "United States"
+    followers: 152801
+    engagement: 468
+    commentsToLikes: 0.011996
+    id: ck8wf8p4rfblz0j783su7u5b7
+    verified: false
+    hashtags: "#genderreveal, #boymom, #pregnancy, #duracelloptimum"
+  - username: "annaheid"
+    fullname: >-
+      Anna Heid
+    bio: >-
+      atl → nyc usc cheer alum peds nurse🩺 💌contact@tablerock.com
+    location: "United States"
+    followers: 181976
+    engagement: 799
+    commentsToLikes: 0.005085
+    id: ck9hcwuvvnasn0j78v6h43kbm
+    verified: false
+    hashtags: "#emptyapartmenttour, #pppartner, #nyc, #nycapartments"
+  - username: "lucyraemcfadin"
+    fullname: >-
+      ༻Lucy Rae McFadin༺
+    bio: >-
+      lucymcfadin@gmail.com
+    location: "United States"
+    followers: 75205
+    engagement: 503
+    commentsToLikes: 0.006589
+    id: ck0tz18e8or5p0i19jkpkuya2
+    verified: false
+    hashtags: "#abundance, #guccibeloved, #ggmarmont, #ad"
 cities:
   - name: New York
     link: /instagram/united-states/new-york

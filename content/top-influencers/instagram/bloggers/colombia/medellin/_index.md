@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Medellín in 2023
+title: Top 10 Bloggers Instagram Influencers In Medellín In 2023
 description: >-
-  Find top bloggers Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #makeup #cartagena.
+  Find top bloggers Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #reelsinstagram #bogota.
 platform: Instagram
-hits: 14
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 14 Instagram influencers like this in Medellín, Colombia for you to connect with.
+hits: 8
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 8 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
+  - username: "marialejamirandap"
+    fullname: >-
+      -M A R I A  A L E J A N D R A-
+    bio: >-
+      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
+    location: "Colombia"
+    followers: 8470
+    engagement: 510
+    commentsToLikes: 0.041288
+    id: ckaouqrjw1esd0i78decx4wuk
+    verified: false
+    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
   - username: "carogallegoca"
     fullname: >-
       Caro Gallego Ca.
     bio: >-
       Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
     location: "Colombia"
-    followers: 34797
-    engagement: 342
-    commentsToLikes: 0.366796
+    followers: 36955
+    engagement: 234
+    commentsToLikes: 0.092682
     id: ck5qaczd5fr190i11fj3cjksh
     verified: false
-    hashtags: "#hawaii, #summernight, #dolcevitta"
+    hashtags: "#viernestrepado, #giveaway"
   - username: "saracalderonmakeup"
     fullname: >-
       Maquillaje Cartagena
     bio: >-
-      💄Maquillaje para toda ocasión ¡a domicilio! 🖊Cursos de automaquillaje y de cejas Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 💓Beauty blogger
+      Maquillaje para toda ocasión ¡a domicilio! Cursos de automaquillaje 🖊 Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 #makeupcartagena Blogger
     location: "Colombia"
-    followers: 6466
-    engagement: 868
-    commentsToLikes: 0.118183
+    followers: 6543
+    engagement: 821
+    commentsToLikes: 0.145285
     id: ckaoydrcxh39n0i78g1yu92pf
     verified: false
-    hashtags: "#makeuptutorial, #beautyglowcol, #masterclass, #makeupaddict"
-  - username: "adribeautyartist"
-    fullname: >-
-      ✨Adri Beauty Artist✨
-    bio: >-
-      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje y Cursos👇🏻
-    location: "Colombia"
-    followers: 13381
-    engagement: 852
-    commentsToLikes: 0.137053
-    id: ckaoyngqii8us0i78s7n5ut7m
-    verified: false
-    hashtags: "#maquillajebarranquilla, #makeupartist, #maquilladora, #maquillaje"
-  - username: "la.travelista"
-    fullname: >-
-      TRAVEL INSPO & REISEFIEBER
-    bio: >-
-      *Wherever you go, go with all your heart* #latravelista ••• 📍 #medellín 🇨🇴 💻 #digitalnomad & #girlboss @naji_be.here.now 🌎 See the world with me 🌊🌴
-    location: "Colombia"
-    followers: 2653
-    engagement: 652
-    commentsToLikes: 0.068986
-    id: ck6tygqa33mje0j71muq4ropi
-    verified: false
-    hashtags: "#latravelista, #gypsysoul, #colombia, #tellus"
-  - username: "yeilove"
-    fullname: >-
-      YeiLove
-    bio: >-
-      Te enseño a desaprender Abriendo mentes, cerrando heridas Más 🧠 que silicón. 📍 Medellín YouTube: YeiLove TikTok: Yeilovetv
-    location: "Colombia"
-    followers: 1448030
-    engagement: 335
-    commentsToLikes: 0.048675
-    id: ck5hgf0ol2fc00i11c6mzry5p
-    verified: true
-    hashtags: "#venezuela, #cartagena, #vlog, #publicidad"
-  - username: "giannimichielin"
-    fullname: >-
-      Giannina Michielin Roa
-    bio: >-
-      Fashion Blogger Personal Shopper 💌giannimichielin@hotmail.com 💡Co-Founder #brunchofideas 💌 brunchofideas@gmail.com Cali, Colombia 🇨🇴 || Italy 🇮🇹
-    location: "Colombia"
-    followers: 38496
-    engagement: 137
-    commentsToLikes: 0.099863
-    id: ck0w3n7rnu9n80i19d99jvcmt
-    verified: false
-    hashtags: "#influencermarketing, #micalibella, #publicidad, #gracias"
-  - username: "senor.viajero"
-    fullname: >-
-      Señor Viajero
-    bio: >-
-      Recorro los lugares más asombrosos 🏞️ de mi región para que tú tambien lo hagas 💪🏽🧗. Consejos para viajar x Colombia 🇨🇴 Med 📍 #travel
-    location: "Colombia"
-    followers: 20484
-    engagement: 694
-    commentsToLikes: 0.323590
-    id: ck5hrs6icvdyt0i1172mzn954
-    verified: false
-    hashtags: "#freediving, #instatravel, #colombiahd, #apnea"
-  - username: "caritomakeup_"
-    fullname: >-
-      CARITO MAKE UP ✨💄
-    bio: >-
-      •CURSOS DE MAQUILLAJE👩🏽‍🎨 •Maquilladora profesional✨ • Maquillaje para toda ocasión 💄 •PUBLICIDAD🤳🏽📦🛍💸 •Administradora de empresas 👩🏽‍💻 #soyvogueraco
-    location: "Colombia"
-    followers: 20196
-    engagement: 286
-    commentsToLikes: 0.200244
-    id: ck13c60jgys9s0i19ohwx207v
-    verified: false
-    hashtags: "#ad, #cutie, #latin, #makeup"
+    hashtags: "#makeup, #tutorial, #maquillajenatural, #novias"
   - username: "isabelvesga"
     fullname: >-
-      Isabel Vesga
+      Isa • Designer | Styling
     bio: >-
-      Fashion Designer | Content creator @elementumdesign @itsmariavesga Colombiana
+      Colombian babe 🌈 Lifestyle | Travel | Outfits ⚡️ Founder @itsmariavesga @elementumdesign Links 👇🏽✨
     location: "Colombia"
-    followers: 9419
-    engagement: 363
-    commentsToLikes: 0.034217
+    followers: 9917
+    engagement: 453
+    commentsToLikes: 0.042405
     id: ck8tcsh2n0i9l0j78rd38d8tm
     verified: false
-    hashtags: "#travelphotography, #travel, #fashion, #colombians"
-  - username: "marcolassoml"
+    hashtags: "#blondebalayage, #sheingals, #travel, #makeuplooks"
+  - username: "dondeesta_kelly"
     fullname: >-
-      Marco Lasso ML
+      Kelly 🐿 Just A Travel Squirrel
     bio: >-
-      📬infomarcolassoml@gmail.com📥 @conectadosdigital @conectadosaudiovisual 👇🏽Video: una casa para mi madre 🙏🏽❤️👇🏽
+      ❌Kels In Red❌ ✦ Visual Storyteller ✈ Travel ~ Photography 📸 🛸 I’ve a drone De bocas libres y pies pa’ caminar🌏
     location: "Colombia"
-    followers: 365307
-    engagement: 137
-    commentsToLikes: 0.027887
-    id: ck5ci7weos6kr0i11ctgqwd1c
-    verified: true
-    hashtags: "#comedia, #suanfonson, #medellin, #calicolombia"
+    followers: 24463
+    engagement: 470
+    commentsToLikes: 0.286362
+    id: ck0w5qet44x4b0i19672e02td
+    verified: false
+    hashtags: "#trip, #viajeroscolombianos, #blogger, #viajerosporelmundo"
+  - username: "somos.viajeras"
+    fullname: >-
+      Somos Viajeras - Blog
+    bio: >-
+      🇨🇴Ericka, Colombiana Viajo sola por el 🌍🛫 60 países 🗺 Únete a mi canal de voluntariados en telegram 📌 Colombia 👇 mi blog
+    location: "Colombia"
+    followers: 23388
+    engagement: 425
+    commentsToLikes: 0.255934
+    id: ck8t3j1iu3f8y0j787xnjbjab
+    verified: false
+    hashtags: "#viajera, #valledelcocora, #quindio, #amazingdestination"
+  - username: "juanmejia28"
+    fullname: >-
+      Juan Mejía
+    bio: >-
+      TikTok +140k🍃 🇨🇴 ❤️ Colombia👑 ☀️ Eliminando prejuicios.💚🍃DM 💌📩📦 Mis viajes son MUNICIPALES🥰
+    location: "Colombia"
+    followers: 60664
+    engagement: 484
+    commentsToLikes: 0.046135
+    id: ckaowayl184dp0i780p2exrj9
+    verified: false
+    hashtags: "#popular, #viral, #viralvideos, #dailygram"
+  - username: "malejagarciagarcia"
+    fullname: >-
+      🌎✈️ ᗰᗩᒪᗴᒎᗩ ★·.·´¯
+    bio: >-
+      ᗰᗴᗪᎥᑕᎥᑎᗩ ᗰᎥ ᑭᖇᗝᖴᗴᔕᎥóᑎ, ᑕᗝᗰᗴᖇ ᗴᔕ ᗰᎥ ᑭᗩᔕᎥóᑎ🥩🍔🍱😻 cση нαмвяε ∂ε мυη∂σ, vιvαη ℓσs vιαנεs!!! 🚀🌎 #CosaRicaCosaBuenaCosaBienHecha 📍Medellin, Colombia 🇨🇴
+    location: "Colombia"
+    followers: 166686
+    engagement: 393
+    commentsToLikes: 0.109832
+    id: ckap5ykkgdpi10i78wxampujs
+    verified: false
+    hashtags: "#pictureoftheday, #colombiana, #colombia, #lifestyleblogger"
+  - username: "saracalderonmakeup"
+    fullname: >-
+      Maquillaje Cartagena
+    bio: >-
+      Maquillaje para toda ocasión ¡a domicilio! Cursos de automaquillaje 🖊 Para citas: Whatsapp 3052644231 o DM📲 📍Cartagena 🇨🇴 #makeupcartagena Blogger
+    location: "Colombia"
+    followers: 6543
+    engagement: 821
+    commentsToLikes: 0.145285
+    id: ckaoydrcxh39n0i78g1yu92pf
+    verified: false
+    hashtags: "#makeup, #tutorial, #maquillajenatural, #novias"
+  - username: "conchisamperr"
+    fullname: >-
+      Conchi Samper
+    bio: >-
+      Psicóloga Social Media Manager / Blogger / Moda / Belleza 💌hola@viviendotendencias.es 📍 Almería
+    location: "Colombia"
+    followers: 31288
+    engagement: 288
+    commentsToLikes: 0.079671
+    id: ck5hi0usmb25p0i11evzfvxeq
+    verified: false
+    hashtags: "#conchisamper, #modasostenible, #fotografiaartistica, #modacircular"
 ---

@@ -1,84 +1,84 @@
 ---
-title: Top 10 Food TikTok Influencers In Italy in 2023
+title: Top 10 Food TikTok Influencers In Italy In 2023
 description: >-
-  Find top food TikTok influencers in Italy in 2023. Most popular hashtags: #perte #neiperte #foryoupage #foryou.
+  Find top food TikTok influencers in Italy in 2023. Most popular hashtags: #perte #food #neiperte #foodporn.
 platform: TikTok
-hits: 261
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 261 TikTok influencers like this in Italy for you to contact.
+hits: 231
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat has 231 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "tortaoragione"
     fullname: >-
       Tortaoragione
     bio: >-
-      Marco 48 COVID-19 TiKToKer food blog
+      Marco 48 food blog 👇
     location: "Italy"
-    followers: 142400
-    engagement: 1737
-    commentsToLikes: 0.011472
+    followers: 194000
+    engagement: 1581
+    commentsToLikes: 0.009471
     id: ckbwg0r3q29ek0j23scerxa7y
     verified: false
-    hashtags: "#impararediverte, #tiktokfooditalia, #imparacontiktok, #losapevi"
-  - username: "matteo_battazza"
-    fullname: >-
-      Matteo_battazza
-    bio: >-
-      2002😈food blogger , Paolo Fox 2.0 CEO:ciboallacazzo 50k?🥰♥️
-    location: "Italy"
-    followers: 48700
-    engagement: 1796
-    commentsToLikes: 0.032372
-    id: ck8vshspldmie0j78wmn3kzl1
-    verified: false
-    hashtags: "#foryourpage, #foryou, #newtrend, #neiperte"
-  - username: "sissifacose"
-    fullname: >-
-      Sissi Fa Cose
-    bio: >-
-      YOLO❤️ Humor and a healthy life 😊 Sport:#sissifasport Food:#sissifacibo
-    location: "Italy"
-    followers: 3290
-    engagement: 335
-    commentsToLikes: 0.069037
-    id: ckdbqzqr1bzb40j23igguxv4i
-    verified: false
-    hashtags: "#corsica, #sardegna, #equilibrio, #sissifasport"
-  - username: "zerobudgetgardener"
-    fullname: >-
-      Zero Budget Gardener
-    bio: >-
-      Indian Woman, Story Teller, Growing veggies, Cooking Indian&Italian food
-    location: "Italy"
-    followers: 2317
-    engagement: 214
-    commentsToLikes: 0.055124
-    id: ckbf0h0iom65p0j23ejml35f3
-    verified: false
-    hashtags: "#troll, #zerobudgetgardener, #ancyan, #youtuber"
-  - username: "cataldihealth"
-    fullname: >-
-      Cataldi Health 
-    bio: >-
-      Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
-    location: "Italy"
-    followers: 56000
-    engagement: 1861
-    commentsToLikes: 0.012609
-    id: ck8s5jvwzg8i50j785nktn2vv
-    verified: false
-    hashtags: "#cataldihealth, #naturopathy, #sweet, #nutrizione"
+    hashtags: "#imparacontiktok, #tiktokitaliafood, #tiramisuchallenge, #losapevi"
   - username: "foodmeal"
     fullname: >-
       foodporn
     bio: >-
       🍫 FOOD | FOODPORN | TASTY 🍫 🤤 FOLLOW ME 😋
     location: "Italy"
-    followers: 27500
-    engagement: 1383
-    commentsToLikes: 0.001609
+    followers: 27100
+    engagement: 1423
+    commentsToLikes: 0.015697
     id: ck9pm9jci887d0j788nlvcdbq
     verified: false
     hashtags: ""
+  - username: "sarah_blaxy"
+    fullname: >-
+      Sisters•in•Crime
+    bio: >-
+      🏳️‍🌈Anna & Sarah🖤 🍁 ~ 24 yo ~ 🇮🇹Italy ~ 🍕We love food, music and games🤟🏻
+    location: "Italy"
+    followers: 11100
+    engagement: 1121
+    commentsToLikes: 0.040859
+    id: ckbez22z6jv4a0j23bnq70134
+    verified: false
+    hashtags: "#bff, #pov, #trend, #deathnote"
+  - username: "food_italia"
+    fullname: >-
+      Food Italia
+    bio: >-
+      Il canale FOODPORN più HOT di Tik Tok! “Perdete ogni speranza o voi a dieta”😏
+    location: "Italy"
+    followers: 39000
+    engagement: 1270
+    commentsToLikes: 0.010738
+    id: ck8vx6henqbnw0j78ctalf8mx
+    verified: false
+    hashtags: "#follow, #foryou, #neiperte, #likes"
+  - username: "festfood"
+    fullname: >-
+      foodporn
+    bio: >-
+      🍫FOOD | FOODPORN | YUMMY🍫 😋 FOLLOW ME 😋
+    location: "Italy"
+    followers: 53500
+    engagement: 1132
+    commentsToLikes: 0.006120
+    id: ck9aarliulri20j78fjcm582x
+    verified: false
+    hashtags: ""
+  - username: "cataldihealth"
+    fullname: >-
+      Cataldi Health 
+    bio: >-
+      Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
+    location: "Italy"
+    followers: 55100
+    engagement: 1385
+    commentsToLikes: 0.013724
+    id: ck8s5jvwzg8i50j785nktn2vv
+    verified: false
+    hashtags: "#naturopata, #sweet, #cataldi, #fruit"
   - username: "fabrizio_sina"
     fullname: >-
       fabrizio_sina
@@ -86,45 +86,45 @@ profiles:
       Italian 🇮🇹 Dance 🤟🏻 Food 🍕 Fashion 😎
     location: "Italy"
     followers: 10200
-    engagement: 674
-    commentsToLikes: 0.057070
+    engagement: 659
+    commentsToLikes: 0.051628
     id: ck8tulwywsova0j7880zdze76
     verified: false
-    hashtags: "#neiperte, #divertente, #challenge, #bambini"
-  - username: "food_lover.it"
+    hashtags: "#fase2, #foryou, #neiperte, #friendship"
+  - username: "fao"
     fullname: >-
-      Nutella & Food
+      UN's Food & Ag Org
     bio: >-
-      Account ufficiale di Nutella & Food Per pubblicità: sdpsocialmedia1@gmail.com
+      UN food agency working for a secure future of food for all.
     location: "Italy"
-    followers: 10421
-    engagement: 1296
-    commentsToLikes: 0.024137
-    id: ck8vx6henqbnw0j78ctalf8mx
-    verified: false
-    hashtags: "#tiktok, #pertee, #nutella, #tiktokfood"
-  - username: "matteo.paolini.88"
+    followers: 217400
+    engagement: 244
+    commentsToLikes: 0.010492
+    id: ck8j4fxeh218u0j78hd39tdov
+    verified: true
+    hashtags: "#worldpulsesday, #lovepulses, #fao, #iyfv2021"
+  - username: "roccobuffone"
     fullname: >-
-      Matteo Paolini
+      Rocco Buffone
     bio: >-
-      Fitness & food lover 🇮🇹Italian athlete🇮🇹 ⬇️My Instagram for more⬇️
+      MasterChef Italia 7 FoodBlogger Love Cooking Follow me on Instagram My Blog: www.roccobuffone.it
     location: "Italy"
-    followers: 427000
-    engagement: 1051
-    commentsToLikes: 0.006438
-    id: ckc30kog0r9g60j23d6ll9w6n
+    followers: 31600
+    engagement: 752
+    commentsToLikes: 0.009841
+    id: ck92xosu1zjd70j78jp5i3r6t
     verified: false
-    hashtags: "#perte, #foryoupage, #sport, #fitnessmotivation"
-  - username: "festfood"
+    hashtags: "#like, #italia, #delicious, #ita"
+  - username: "italyfoodprn"
     fullname: >-
-      foodporn
+      italyfoodprn
     bio: >-
-      🍫FOOD | FOODPORN | YUMMY🍫 😋 FOLLOW ME 😋
+      SOLO IL VERO FOODPORN ITALIANO 😍❤ #italyfoodporn
     location: "Italy"
-    followers: 54400
-    engagement: 1069
-    commentsToLikes: 0.007100
-    id: ck9aarliulri20j78fjcm582x
-    verified: false
-    hashtags: ""
+    followers: 26400
+    engagement: 715
+    commentsToLikes: 0.009459
+    id: ckfpluben0vbk0j236hwfl26c
+    verified: true
+    hashtags: "#viral, #perte, #italia, #food"
 ---

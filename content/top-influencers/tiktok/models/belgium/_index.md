@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Belgium in 2023
+title: Top 10 Models TikTok Influencers In Belgium In 2023
 description: >-
-  Find top models TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #model #fyp #foryoupage.
+  Find top models TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #pourtoi #fyp #model.
 platform: TikTok
-hits: 13
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 13 TikTok influencers like this in Belgium for you to contact.
+hits: 14
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 14 TikTok influencers like this in Belgium for you to contact.
 profiles:
   - username: "hennyseroeyen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       👆👀more👆 🎬Actor/Model/Athlete 👇tap to follow👇
     location: "Belgium"
-    followers: 107400
-    engagement: 2146
-    commentsToLikes: 0.018029
+    followers: 109700
+    engagement: 1805
+    commentsToLikes: 0.012771
     id: ck920jmkeegyi0j784bjdvbq5
     verified: true
-    hashtags: "#sup, #throwback, #monster, #foryou"
+    hashtags: "#vj, #fy, #foryou, #foryoupage"
+  - username: "ireemofiicial"
+    fullname: >-
+      IREEMOFFICIAL
+    bio: >-
+      Model📷
+    location: "Belgium"
+    followers: 43000
+    engagement: 636
+    commentsToLikes: 0.033917
+    id: ck8ade58d5ila0j783sps1cjs
+    verified: false
+    hashtags: "#kesfetbeni, #beni, #irem, #tiktok"
   - username: "majalex_"
     fullname: >-
       MAJA LEX 
     bio: >-
-      Belgian model 18 Insta : @majalex
+      Belgian model / model tok 🤍 18 @majalex_
     location: "Belgium"
-    followers: 25200
-    engagement: 1176
-    commentsToLikes: 0.010859
+    followers: 48100
+    engagement: 1003
+    commentsToLikes: 0.010302
     id: cka0rviilioiy0i78pc2d683t
     verified: false
-    hashtags: "#model, #modeling, #modellife, #foryou"
-  - username: "reedzon7"
+    hashtags: "#tallgirl, #modellife, #majalex, #models"
+  - username: "lolitaoliveri"
+    fullname: >-
+      Lolita Oliveri
+    bio: >-
+      Model & Bikini designer CEO of @loolita_swimwear 👙 I SEW & SELL CUSTOM BIKINI
+    location: "Belgium"
+    followers: 43200
+    engagement: 1128
+    commentsToLikes: 0.046217
+    id: ck9flmorloqr70j78bnfjydvl
+    verified: false
+    hashtags: "#foryou, #handmade, #smallbusiness, #fyp"
+  - username: "hasamm777"
     fullname: >-
       ◣🅗🇮🇶🅢◢
     bio: >-
       ██████ ★الله★اكبر★ ██████
     location: "Belgium"
-    followers: 22200
-    engagement: 779
-    commentsToLikes: 0.058180
+    followers: 22700
+    engagement: 791
+    commentsToLikes: 0.104508
     id: ck9fwryyx2rtp0j780f2k2j83
     verified: false
-    hashtags: ""
+    hashtags: "#syiria, #system, #iraq, #model"
   - username: "donabr_dqnn_officiel"
     fullname: >-
       donabr_dqnn_officiel
     bio: >-
-      𝕭𝖊𝖑𝖌𝖊🇧🇪 1̴7̴ 𝚢𝚎𝚊𝚛𝚜 ꙆƮᙅᖴ 5Ʈᙖ🥳💪🥳 𝟙Ƽ~𝟙ϩ~𝟙९ 👫💍❤💑🥰
+      𝕭𝖊𝖑𝖌𝖊🇧🇪 𝟙𝟠 𝚢𝚎𝚊𝚛𝚜 ꙆƮᙅᖴ 5Ʈᙖ🥳💪🥳 𝟙Ƽ~𝟙ϩ~𝟙९ 👫💍❤💑🥰
     location: "Belgium"
-    followers: 3586
-    engagement: 1344
-    commentsToLikes: 0.029062
+    followers: 3654
+    engagement: 1650
+    commentsToLikes: 0.028470
     id: cka0phz4e8cmu0i78sk9rgsv1
     verified: false
-    hashtags: "#music, #musically, #frenchhumour, #humour"
-  - username: "ayoubbabyy"
+    hashtags: "#photography, #tag, #belgium, #model"
+  - username: "isabellaarosalinaa"
     fullname: >-
-      Ayoub Ben Ammar
+      Isabella Rosalina
     bio: >-
-      modèle et chanteur 📀 30 K ? Insta : ayoubbabyy Snap : ayoubbabyy 👇
+      🌴Island gal🌴 Collab: info.isabellarosalina@gmail.com
     location: "Belgium"
-    followers: 29800
-    engagement: 1123
-    commentsToLikes: 0.032370
-    id: ckbfedphs8aep0j23njoflng5
+    followers: 144100
+    engagement: 1054
+    commentsToLikes: 0.025641
+    id: ckcdu5qwjecrv0j23sn48mi4r
     verified: false
-    hashtags: "#fypp, #storytime, #fyp, #pourtoi"
-  - username: "omaiysi_officiel"
-    fullname: >-
-      omaiysi
-    bio: >-
-      Nouvelle vidéo sur ma chaîne YouTube ❤️🌹 ⬇️⬇️⬇️
-    location: "Belgium"
-    followers: 88500
-    engagement: 422
-    commentsToLikes: 0.051645
-    id: ck900ym8xb1p40j78tr9o1ev1
-    verified: false
-    hashtags: "#omaiysi, #tiktok, #pourtoi, #foryoupage"
-  - username: "laura__tl"
-    fullname: >-
-      Laura
-    bio: >-
-      Hey 👋🏼 🇧🇪 Good vibes only ✨
-    location: "Belgium"
-    followers: 30900
-    engagement: 1707
-    commentsToLikes: 0.018785
-    id: ckdbnq46earag0j23tp6w04ph
-    verified: false
-    hashtags: "#didyouknow, #fyp, #mycostume, #trend"
+    hashtags: "#voorjou, #pourtoi, #foryou, #boyfriend"
   - username: "kikou.cest.moi.mg"
     fullname: >-
       Mg Hody
     bio: >-
-      • #justforfun 🌸😄 • Suivez moi sur Instagram 🇧🇪 • je poste tout les jours ✅
+      • 🌸 Follow moi sur Instagram ⬆️⬆️⬆️⬆️ • 5k ??? Je vous aime ! 🔆
     location: "Belgium"
-    followers: 3302
-    engagement: 538
-    commentsToLikes: 0.034770
+    followers: 4914
+    engagement: 525
+    commentsToLikes: 0.033662
     id: ckcog3g3o315m0j23fa2yhu61
     verified: false
-    hashtags: "#dance, #commente, #belgian, #funny"
-  - username: "fitnils"
+    hashtags: "#foryou, #tiktok, #belgian, #pourtoi"
+  - username: "tinne.oltmans"
     fullname: >-
-      Nils
+      Tinne Oltmans
     bio: >-
-      Insta :fit_nils01⤴️ 🔥19yo 📍Liège N’hésitez pas à vous abonnez 😜 10k ? 🥺
+      Actor & singer OP EEN DAG, OUT NOW! ✨ ☎ Business: tinne.oltmans@outlook.com
     location: "Belgium"
-    followers: 4673
-    engagement: 848
-    commentsToLikes: 0.040688
-    id: ckb9jqg8db7f70j23kr21xh82
-    verified: false
-    hashtags: "#foryou, #belgique, #fyp, #xyzbca"
-  - username: "venusmayamia"
+    followers: 105000
+    engagement: 1635
+    commentsToLikes: 0.012704
+    id: ck921p03jj0o40j7863jp3fbm
+    verified: true
+    hashtags: "#comedy, #lipsync, #tinneoltmans, #cover"
+  - username: "ayoubbabyy"
     fullname: >-
-      Venus Maya
+      Ayoub Ben Ammar ≠
     bio: >-
-      👻@adelinavev & @venusmayastyle Shopping 🛍 : www.venusmayastyle.com
+      Insta : ayoubbabyy Twitter : ayoubbabyy MA DERNIÈRE VIDÉO YOUTUBE 😰⬇️ ⇩
     location: "Belgium"
-    followers: 2058
-    engagement: 528
-    commentsToLikes: 0.055817
-    id: ckbw2orzqwtmt0j233i3f8kr8
+    followers: 29800
+    engagement: 1151
+    commentsToLikes: 0.052274
+    id: ckbfedphs8aep0j23njoflng5
     verified: false
-    hashtags: "#tiktokbelgium, #tiktok, #pourtoiii, #dansechallenge"
+    hashtags: "#youtube, #foryou, #mode, #reponseauxcomms"
 ---

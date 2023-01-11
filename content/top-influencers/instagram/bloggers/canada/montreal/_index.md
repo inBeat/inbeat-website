@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Montreal in 2023
+title: Top 10 Bloggers Instagram Influencers In Montreal In 2023
 description: >-
-  Find top bloggers Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #mtlblog #mtlmoments.
+  Find top bloggers Instagram influencers in Montreal in 2023. Most popular hashtags: #canada #montreal #toronto #blogger.
 platform: Instagram
-hits: 35
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 35 Instagram influencers like this in Montreal, Canada for you to work with.
+hits: 13
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 13 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
   - username: "billiebopbillie"
     fullname: >-
       B I L L I E ☾
     bio: >-
-      Model • MTL Paid bookings only Bookings: DM YouTube ☟︎
+      Model • MTL Paid bookings only Tiktok: billiebopbillie YouTube channel ☟︎
     location: "Canada"
-    followers: 20672
-    engagement: 392
-    commentsToLikes: 0.032149
+    followers: 20494
+    engagement: 527
+    commentsToLikes: 0.014954
     id: ck5hcjwwwigby0i11bcu7r0b9
     verified: false
-    hashtags: "#fashionmodel, #likeforlike, #montreal, #blogger"
-  - username: "westmountfashionista"
+    hashtags: "#followme, #photograph, #girl, #like4like"
+  - username: "twourism"
     fullname: >-
-      Jessica 📍 Montreal Blogger
+      A & M - Toronto Foodies
     bio: >-
-      {Blogging since 2011} Montreal|Flowers| Fashion|Handbags|Travel|Beauty|Mum to #madamandme 💌:jessica@westmountfashionista.com
+      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
     location: "Canada"
-    followers: 29716
-    engagement: 164
-    commentsToLikes: 0.097280
-    id: ck0tvzowhdhsy0i195evfsxa1
+    followers: 12221
+    engagement: 724
+    commentsToLikes: 0.226612
+    id: ck6ubkqqma5jw0j718b18nc2f
     verified: false
-    hashtags: "#wmftravels, #traveltuesday, #cccertified, #montrealjewelry"
-  - username: "ma_folievagabonde"
+    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
+  - username: "sidafz"
     fullname: >-
-      Naomi • Montréal Blogger
+      Sidrah | Toronto Blogger
     bio: >-
-      🇨🇦 Française en PVT Canada à Montréal 📲 Com & Content Manager 🗺 Blog Voyage 💻 Mafolievagabonde.com ⬇️ Pourquoi faire son PVT Canada à Montréal ?
+      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
     location: "Canada"
-    followers: 5566
-    engagement: 542
-    commentsToLikes: 0.036363
-    id: ckaoyk0hnhsqq0i78by2dfa1g
+    followers: 13878
+    engagement: 115
+    commentsToLikes: 0.669998
+    id: cks8aqhhiupz50j23q90dq3w1
     verified: false
-    hashtags: "#streetart, #pvtcanada, #montr"
-  - username: "blog_le_refuge"
+    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+  - username: "foodaholicblog_"
     fullname: >-
-      Le Refuge | Montreal Blogger
+      Sandi ♡ Foodaholic!
     bio: >-
-      Content Creator From Montreal ➖Let’s talk about Coffee, Food, Drinks, Home and Lifestyle
+      * 💻 Food Blogger | Lifestyle | Travel 📍 Toronto 💌 foodaholic12@gmail.com 🏠 Clubhouse @ sandi_04 👩🏻‍💻 Logistics & E-Commerce (FT) 👇🏻 🇧 🇱 🇴 🇬
     location: "Canada"
-    followers: 9227
-    engagement: 632
-    commentsToLikes: 0.285872
-    id: ck6totvemg3440j719p4y19zo
+    followers: 17402
+    engagement: 151
+    commentsToLikes: 0.090092
+    id: ck6tnpz6yac6e0j71wpt4mvq1
     verified: false
-    hashtags: "#falliscoming, #coffeedaily, #montrealfood, #mtlmoments"
-  - username: "melissalproulx"
+    hashtags: "#reels, #canadatakeout, #canada, #torontolife"
+  - username: "albenacakedesign"
     fullname: >-
-      M E L I S S A🦋
+      Albena Cake Design
     bio: >-
-      𝙴𝚜𝚌𝚊𝚙𝚒𝚗𝚐 𝚝𝚑𝚎 𝚘𝚛𝚍𝚒𝚗𝚊𝚛𝚢🔮🤍🌙 𝙻𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎, 𝚝𝚛𝚊𝚟𝚎𝚕 𝚊𝚗𝚍 𝚏𝚞𝚗 ⚡️ 📍𝙼𝚃𝙻, 🇨🇦 💌𝚎𝚗𝚝𝚛𝚎𝚍𝚎𝚞𝚡𝚌𝚑𝚊𝚗𝚌𝚎𝚜@𝚑𝚘𝚝𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
+      Cake artist, instructor, consultant Montréal/destination Enquires: albenacakedesignlab@gmail.com @satin.ice Artist of Excellence
     location: "Canada"
-    followers: 10731
-    engagement: 727
-    commentsToLikes: 0.079550
-    id: ckaoxsnc6ekel0i78qr5zyb6a
+    followers: 32863
+    engagement: 301
+    commentsToLikes: 0.030405
+    id: ck139ow4xmeea0i193uht2svz
     verified: false
-    hashtags: "#tigermist, #travel, #happy, #instapic"
-  - username: "iamkamantha"
+    hashtags: "#cakeinspiration, #edibleart, #christmascake, #handcrafted"
+  - username: "unstoppable.mama"
     fullname: >-
-      Kamantha Naidoo
+      Sara ♡ Ottawa Lifestyle Blogger
     bio: >-
-      𝕍𝕒𝕟𝕔𝕠𝕦𝕧𝕖𝕣 ♎️ 𝒫𝓇𝑜𝓊𝒹𝓁𝓎 🇿🇦🇨🇦🇦🇺 ᴀᴄᴛᴏʀ 🎬 ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴍᴏᴅᴇʟ👠 ▪️ @enriquemodels_ ▪️ @alushimodels ℂ𝕠𝕟𝕗𝕚𝕕𝕖𝕟𝕔𝕖 ℂ𝕠𝕒𝕔𝕙 𝒞𝑜-𝒻𝑜𝓊𝓃𝒹𝑒𝓇 @hotshotzevents
+      DAILY FASHION INSPO Blogger | Designer | Author 🎥4M+Reels ♡ @unstoppableprints.co ♡ REEL Mom-Kids 15m apart ♡ Ottawa🇨🇦 ♡ FREE Colouring & Play Ideas↓
     location: "Canada"
-    followers: 53179
-    engagement: 207
-    commentsToLikes: 0.072655
-    id: ckf5s1jriei0o0j23ugqfegb1
+    followers: 14716
+    engagement: 231
+    commentsToLikes: 0.400085
+    id: ckrvnl3vxktsw0j23g13q0bah
     verified: false
-    hashtags: "#fitspo, #womenwholift, #babesofinsta, #mindset"
-  - username: "fulltimefoooodie"
+    hashtags: "#613mom, #amazonfashionfinds, #food4thought, #fashionreels"
+  - username: "yourdappergoals"
     fullname: >-
-      Nath | Montreal Food Blogger
+      Midhvan Gulati
     bio: >-
-      🍽Eat with me all over Montreal 📸Food Photographer⁣ ✨Content Creator 💌DM/email for collabs⁣/invites 😋Always hungry
+      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
     location: "Canada"
-    followers: 14997
-    engagement: 623
-    commentsToLikes: 0.497647
-    id: ck0u68j5b18vz0i19tdk9l14t
+    followers: 47354
+    engagement: 266
+    commentsToLikes: 0.031125
+    id: ck5hqblkfsu3o0i11qym0xxbb
     verified: false
-    hashtags: "#mtlresto, #montrealer, #sweets, #mtlfoodblog"
+    hashtags: "#reelsindia, #happy, #beautiful, #black"
+  - username: "shewearslove"
+    fullname: >-
+      Amrit | Modern Motherhood
+    bio: >-
+      •Top Vancouver 🇨🇦 Mom Blogger •Inspiring you to follow your dreams while raising your little babes🤍 •Model @lizbellagency ↓Read the Blog↓
+    location: "Canada"
+    followers: 23454
+    engagement: 495
+    commentsToLikes: 0.927797
+    id: ck6u7wih6o2720j717p2096ha
+    verified: false
+    hashtags: "#vancityhype, #westcoastblogger, #momswhoblog, #flashofdelight"
+  - username: "ouijdane_mo"
+    fullname: >-
+      Ouijdane | Fashion Blogger ✨
+    bio: >-
+      - 𝒍𝒆𝒕 𝒎𝒆 𝒓𝒆𝒎𝒊𝒏𝒅 𝒚𝒐𝒖 🕊️ - 𝒕𝒉𝒊𝒔 𝒊𝒔 𝒎𝒚 𝒐𝒏𝒍𝒚 𝒂𝒄𝒄𝒐𝒖𝒏𝒕 🙌🏻 -📍𝒎𝒐𝒏𝒕𝒓𝒆́𝒂𝒍, 𝒄𝒂𝒏𝒂𝒅𝒂 🇨🇦 - 𝒄𝒐𝒍𝒍𝒂𝒃 📩: Mamouniouijdane@gmail.com
+    location: "Canada"
+    followers: 63769
+    engagement: 405
+    commentsToLikes: 0.031466
+    id: ckap5jd9rby2q0i78j7t0sbgr
+    verified: false
+    hashtags: "#mtl, #fashioninspo, #smile, #photooftheday"
   - username: "livelovecanada"
     fullname: >-
       live love canada
     bio: >-
       The most beautiful moments & places in Canada ❤ Live Love Canada ❤ ⬇ ⭐Tag 🏆@livelovecanada 🏆 Subscribe to our YouTube channel 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
     location: "Canada"
-    followers: 196128
-    engagement: 257
-    commentsToLikes: 0.013148
+    followers: 259229
+    engagement: 300
+    commentsToLikes: 0.014151
     id: ck0ttgns52mwz0i19tjx0jvco
     verified: false
-    hashtags: "#igdaily, #britishcolumbia, #explorenl, #edmonton"
-  - username: "pinklablonde"
-    fullname: >-
-      PINKLABLONDE
-    bio: >-
-      Welcome to my world 🍋✨💛 👱🏻‍♀️ Marie-Anne Labrie 📍 Based in Montreal 🎨 HAIR EDUCATOR ✏️ Blogger 📊 Social media LOVER
-    location: "Canada"
-    followers: 23893
-    engagement: 354
-    commentsToLikes: 0.066055
-    id: ckf5qq8c4a79j0j23w6w2ve3z
-    verified: false
-    hashtags: "#hairstyle, #blondehair, #healthyhair, #hairtips"
-  - username: "eliggarcia"
-    fullname: >-
-      Eli G Garcia
-    bio: >-
-      • Founder of Eli in the Walk•in ™ • Blogger since 2011 • BA PR - Journalism @UDEA • BA Fashion @UQAM • 📍Montreal • 📧 eliinthewalkin@gmail.com
-    location: "Canada"
-    followers: 80507
-    engagement: 92
-    commentsToLikes: 0.045824
-    id: ck5hqbn5dsu7f0i11frxb5imc
-    verified: false
-    hashtags: "#fall, #mondayfunday, #sotd, #burberry"
+    hashtags: "#calgary, #yyc, #sunset, #vancouver"
 ---

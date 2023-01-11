@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Austin in 2023
+title: Top 10 Vegan TikTok Influencers In Austin In 2023
 description: >-
-  Find top vegan TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #vegan #duet #foryoupage.
+  Find top vegan TikTok influencers in Austin in 2023. Most popular hashtags: #vegan #fyp #stitch #lgbt.
 platform: TikTok
-hits: 22
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 22 TikTok influencers like this in Austin, United States for you to contact.
+hits: 23
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat has 23 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "ketosnackz"
+  - username: "cozyrosati"
     fullname: >-
-      iRick
+      Cosette Rosati
     bio: >-
-      Keto enthusiast located in Austin, TX!
+      BE YOU. DO YOU. FOR YOU. ⚡️ Eco-Friendly Thrift Queen 👑
     location: "United States"
-    followers: 50600
-    engagement: 480
-    commentsToLikes: 0.034595
-    id: ckb9bp23yxyr20j23zdexbpii
+    followers: 91500
+    engagement: 522
+    commentsToLikes: 0.078181
+    id: ckacfmt0yrjis0i787jm6lk9x
     verified: false
-    hashtags: "#ketosis, #type2diabetes, #ketodiet, #lowcarbdiet"
-  - username: "mr.biggiebear"
+    hashtags: "#thrifting, #ootd, #thrifthaul, #atx"
+  - username: "philthefixer"
     fullname: >-
-      mr.biggiebear
+      Phil the Fixer
     bio: >-
-      Making Hoomans shmile since 16’ 🤘🏽🌈
+      'just to save the world.' podcast ♻️ redneck eco-dude 🤠🤙🌎 ATX 🌵🦇
     location: "United States"
-    followers: 60300
-    engagement: 1921
-    commentsToLikes: 0.019032
-    id: ck8fark5y4lns0j78p5zy60ap
+    followers: 46800
+    engagement: 2159
+    commentsToLikes: 0.095326
+    id: ck8fb24zk55i80j78hckk43vw
     verified: false
-    hashtags: "#primal, #ily, #foryoupage, #fyp"
-  - username: "ashleythenoble"
+    hashtags: "#soil, #tedcruz, #climatechange, #secondstep"
+  - username: "alimanasa"
     fullname: >-
-      Ashy
+      🌜Ali🌻Ishraq🌛
     bio: >-
-      Venmo: ashleythenoble
+      
     location: "United States"
-    followers: 541500
-    engagement: 680
-    commentsToLikes: 0.039477
-    id: ckdhxf37p4hum0j23szk95k20
+    followers: 26000
+    engagement: 539
+    commentsToLikes: 0.036126
+    id: cka0uzgsxwism0i78fw0aj2sy
     verified: false
-    hashtags: "#over30, #womenover30, #provewhatspossible, #spooktember"
-  - username: "austin_maguire"
+    hashtags: "#greenscreen, #cocinalatina, #muslim, #baghrir"
+  - username: "austinweberr"
     fullname: >-
-      Austin Maguire 
+      austin weber
     bio: >-
-      help me reach my ultimate goal of world domination they/she austinmconnect@gmail
+      Instagram - austinnweberr
     location: "United States"
-    followers: 706900
-    engagement: 1678
-    commentsToLikes: 0.015388
-    id: ck8j9dkebmxzk0j785ulzilio
-    verified: true
-    hashtags: "#stitch, #positions, #debate2020, #trans"
+    followers: 255000
+    engagement: 2417
+    commentsToLikes: 0.010604
+    id: ckavhkydfpetv0j23v39benq4
+    verified: false
+    hashtags: "#natal, #natalchart, #algorithm, #asmr"
   - username: "gingergijoe"
     fullname: >-
       Austin Laun
     bio: >-
-      ✝️Follower of God🙏 Follow me! I’m whatever is opposite of a vegan..
+      ✝️Follower of God🙏 Army Veteran 🇺🇸 I’m whatever is opposite of a vegan..
     location: "United States"
-    followers: 124100
-    engagement: 1969
-    commentsToLikes: 0.013132
+    followers: 126600
+    engagement: 1627
+    commentsToLikes: 0.024784
     id: ck8hs580fbrkv0j78kvwfuy7e
     verified: false
-    hashtags: "#military, #veteransday, #veteran, #stitch"
+    hashtags: "#funny, #stitch, #greenscreen, #fyp"
+  - username: "juan_and_nicks_life"
+    fullname: >-
+      juan and nick
+    bio: >-
+      Queer couple living in Austin,tx 🏳️‍🌈
+    location: "United States"
+    followers: 20400
+    engagement: 1472
+    commentsToLikes: 0.039965
+    id: ckcdtva5le4ol0j23rsq63cuy
+    verified: false
+    hashtags: "#lgbt, #vegan, #fyp, #atx"
   - username: "kateaustin_"
     fullname: >-
       Kate Austin
     bio: >-
       she/her another vegan lesbian i’m better on instagram instagram: @kateaustinn
     location: "United States"
-    followers: 144000
-    engagement: 954
-    commentsToLikes: 0.008597
+    followers: 150400
+    engagement: 1135
+    commentsToLikes: 0.010096
     id: ckd0kvsfag2nh0j23vk53dkhz
     verified: false
-    hashtags: "#provewhatspossible, #ghostphotoshoot, #fyp, #femme"
-  - username: "hunger4more1212"
+    hashtags: "#gaygirlsoftiktok, #lesbians, #blymanor, #victoriapedretti"
+  - username: "travelingwithcva"
     fullname: >-
-      Austin Ogu
+      Courtney & Brett
     bio: >-
-      Just A Husband/dad trying to enjoy life CEO of kitchen Tiktok
+      Living a 24/7 weekend on wheels 🚐📍TX ➸click link for info on workin from home
     location: "United States"
-    followers: 161000
-    engagement: 1735
-    commentsToLikes: 0.048056
-    id: ckb18y3nrwvqh0j238bw1wjd3
+    followers: 120300
+    engagement: 570
+    commentsToLikes: 0.102314
+    id: cka0tnihuqmfn0i785c7mxhe6
     verified: false
-    hashtags: "#jokes, #marriedlife, #relationshipgoals, #ohno"
-  - username: "the_factual_texan"
+    hashtags: "#homeonwheels, #dogmom, #over30, #texas"
+  - username: "imtinabina"
     fullname: >-
-      Exposing TikTok
+      tinab
     bio: >-
-      (Ben Shapiro Jr.) Follow @the_war_history_kid for wwii content
+      Harvard/MIT. Quit 🚀 science. Cert. Ayurveda Nutritionist Off-grid mud home🌎🌿
     location: "United States"
-    followers: 101500
-    engagement: 1577
-    commentsToLikes: 0.070365
-    id: ckc85mlg8546a0j23x9g8cyb9
+    followers: 82400
+    engagement: 1359
+    commentsToLikes: 0.030210
+    id: ck9eodhztnv9b0j780zmtq6oa
     verified: false
-    hashtags: "#liberal, #gun, #debunked, #vegan"
-  - username: "calbal12345"
+    hashtags: "#fyp, #panama, #whoknew, #nature"
+  - username: "chubbycucumber"
     fullname: >-
-      Cal
+      Drew Schroeder
     bio: >-
-      20, California//New York
+      🍔Plantbased Chef🍔 ✨NOT here to turn you vegan✨ Followers = Caulifollowers
     location: "United States"
-    followers: 6637
-    engagement: 901
-    commentsToLikes: 0.066081
-    id: ck81q7mxlgleb0j78522u17z5
+    followers: 27600
+    engagement: 1280
+    commentsToLikes: 0.102982
+    id: ckc2zk06cqgki0j238u4qvkcm
     verified: false
-    hashtags: "#fashion, #britneyspears, #ohno, #halloween"
-  - username: "fungalfairy"
-    fullname: >-
-      ☻ jacie ☻
-    bio: >-
-      nm jus chillin on earth for a lil bit tryin to raise the vibration wbu?
-    location: "United States"
-    followers: 17700
-    engagement: 1550
-    commentsToLikes: 0.014484
-    id: ckbfhejjccsz80j238cgvy2k3
-    verified: false
-    hashtags: "#fairytok, #fyp, #cottagecore, #foryoupage"
+    hashtags: "#plantbased, #foodie, #seitan, #thatveganteacher"
 ---

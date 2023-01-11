@@ -1,129 +1,129 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Canada in 2023
+title: Top 10 Nutrition Instagram Influencers In Canada In 2023
 description: >-
-  Find top nutrition Instagram influencers in Canada in 2023. Most popular hashtags: #fitness #photography #art.
+  Find top nutrition Instagram influencers in Canada in 2023. Most popular hashtags: #motivation #toronto #personaltrainer.
 platform: Instagram
-hits: 144
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 144 Instagram influencers like this in Canada for you to collaborate.
+hits: 61
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 61 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "janellefaithill"
+  - username: "aabrunelle"
     fullname: >-
-      Janelle Hill 🇨🇦 Fitness
+      Audrey-Ann — R/O/C Crew
     bio: >-
-      ✖️ AC♡ ✖️ @ryderwear athlete ✨ ✖️ @peachbands | @beaybl ✖️ @tc.nutrition | @popeyeswinnipeg ✖️ @swishmodels | @jed_north ✖️ Kinesiology 📚 ✖️ LINKS⤵️
+      Probably gone cooking, running or riding my bike. Honours BSc in Nutrition Sciences. Here is a safe place, feel welcomed. ♥️
     location: "Canada"
-    followers: 25268
-    engagement: 680
-    commentsToLikes: 0.078797
-    id: ck5hlc0uxjy7v0i11cj8b3up1
+    followers: 15140
+    engagement: 199
+    commentsToLikes: 0.023493
+    id: ckrxec7enpi7u0j23cf4sx8a0
     verified: false
-    hashtags: "#dailygymfits, #ryderwear, #teamryderwear, #winnipeg"
-  - username: "claudia.mars"
+    hashtags: "#onroc, #roccrew, #onrunning, #trailrunning"
+  - username: "tovfitness"
     fullname: >-
-      Claudia Mars
+      TOVA | fitness & positivity
     bio: >-
-      🦅Founder @riseonline.ca 🎓Certified: nutrition specialist, personal trainer, yoga instructor, genetic-based program designer
+      owner of @rebornclub.co 🇨🇦toronto | 23 ✨@myproteinus - ‘TOVAMYP’ for 45% off 🦋CPT, sports nutrition & BAASc psych ↓ MORE LINKS ↓
     location: "Canada"
-    followers: 204739
-    engagement: 206
-    commentsToLikes: 0.046515
-    id: ck0w3ms6tu7eo0i19tni0esca
+    followers: 11218
+    engagement: 411
+    commentsToLikes: 0.212369
+    id: ck6uil7k3fo5u0j71onk2dgkx
     verified: false
-    hashtags: "#letyourselfbloom, #alohababe, #nebbiafamily"
-  - username: "josieargento"
+    hashtags: "#fitness, #gymgains, #gymjokes, #stronggirls"
+  - username: "spiritual.beefcake"
     fullname: >-
-      Josie Argento
+      Coach Derek
     bio: >-
-      25 | Toronto 📍 @hammerfitness bikini athlete @tc.nutrition sponsored athlete | JOSIE10 @firsthealthapparel | @firsthealth_ | JOSIE @cabanapoolbar
+      NO BAD DAYS 💫 💻 Online Coach Lifestyle Training & Nutrition Physically & Mentally Transforming Clients
     location: "Canada"
-    followers: 6789
-    engagement: 1171
-    commentsToLikes: 0.033662
-    id: ck6009u6yd7cu0i1476shklqt
+    followers: 32755
+    engagement: 119
+    commentsToLikes: 0.077501
+    id: ck5ck0nahvvse0i11tr8m3du5
     verified: false
-    hashtags: "#25"
+    hashtags: "#2020, #classicphysique, #nobaddays, #fuckcovid19"
   - username: "danielle.vaughan"
     fullname: >-
-      D A N I E L L E 🧿
+      danielle vaughan 🧿
     bio: >-
       Health & Lifestyle Coach Personal Training | Nutrition | Collab ↙️
     location: "Canada"
-    followers: 265312
-    engagement: 255
-    commentsToLikes: 0.023019
+    followers: 260617
+    engagement: 194
+    commentsToLikes: 0.018807
     id: ck5bwusrkmghd0i111imiupii
     verified: false
     hashtags: "#summer2020"
-  - username: "minxinstyle"
+  - username: "sonikasewpal"
     fullname: >-
-      Jill Bradley (RHN)
+      SONIKA SEWPAL 🇨🇦🇲🇺🧿
     bio: >-
-      Nutritionist, Mom, Model, Actress, Entrepreneur ❤️
+      Bsc in Nutrition and Healthy Weightloss 🍎 🍏 Founder of @sonikabeauty 🌸 IG model, Business and Brand promoter 💎 DM or email for inquiries 📥💌
     location: "Canada"
-    followers: 29416
-    engagement: 385
-    commentsToLikes: 0.102990
-    id: ckaotv4erxnql0i78tyhhxzax
+    followers: 41860
+    engagement: 290
+    commentsToLikes: 0.058615
+    id: ckap6l2djgba30i7835g6sgn2
     verified: false
-    hashtags: "#instalike, #art, #fashionblogger, #girl"
-  - username: "kakookie_cosplay"
+    hashtags: "#amazing, #mauritiangiveaway, #win, #mauritius"
+  - username: "melissamerk"
     fullname: >-
-      Kakookie
+      MELISSA MERK
     bio: >-
-      Kakookie Nutrition Facts #Cosplay 100% 👘 #legalloli 200% 🍬 #smol energy 1,000% 💌 #Fries 10,000% 🍟 Made in Canada may 17 1997 🇨🇦 Next Con: ???
+      📍 Vancouver , Canada 📚 holistic nutrition 🐶 dog mom @tikatheaussie 🎬 new YT video every Monday 📩melissa@infagency.com
     location: "Canada"
-    followers: 10130
-    engagement: 1564
-    commentsToLikes: 0.029275
-    id: ck8szds4jo0vq0j78bb60t04k
-    verified: false
-    hashtags: "#gamer, #amonguscosplay, #kawaii, #cosplayersofinstagram"
-  - username: "alizolfi.fitness"
+    followers: 89239
+    engagement: 398
+    commentsToLikes: 0.009295
+    id: ck0vv6qk1nsgx0i19k4xey9r7
+    verified: true
+    hashtags: "#summerofcupcake, #cupcakelighthearted, #choosejoy, #ad"
+  - username: "mandyfroudefitness"
     fullname: >-
-      Alizolfi(AZfitness)
+      Mandy Froude
     bio: >-
-      Toronto🇨🇦🇮🇷 Canadian National pro qualifier Health,Fitness,Nutrition Canadian diploma👨🏻‍🎓 Online Coaching 📝 مربى آنلاين
+      💪🏼Online Fitness & Nutrition Coach 🏆CPA Competitor 🔥@inside_fitness Hot & Fit 💯 👙@khcustoms 💙@believesupplements 💧@themammothmug ⬇️Discount codes
     location: "Canada"
-    followers: 2803
-    engagement: 1547
-    commentsToLikes: 0.062888
-    id: ckf5nnrmyywli0j23gid2owm4
+    followers: 10210
+    engagement: 353
+    commentsToLikes: 0.033808
+    id: ckaordok3mr1c0i78ychdbuuv
     verified: false
-    hashtags: "#fitnessmodel, #gymmotivation, #trainer, #gymlife"
-  - username: "aaparker1"
+    hashtags: "#yyz, #believe, #fitlife, #rest"
+  - username: "natbeers"
     fullname: >-
-      Alex Parker
+      nat beers
     bio: >-
-      2015 Crossfit Games Athlete 6x Regionals Athlete Nutrition Coach - @tacticnutrition Podcast - @afternoonsnackpodcast @nova3labs - Code PARKER
+      you catch more flies with honey but you catch more honeys being fly 🍯 YYC 🇨🇦 crossfit l2 • weightlifting & nutrition coach @modernlittlefarmhouse 🌿
     location: "Canada"
-    followers: 47221
-    engagement: 309
-    commentsToLikes: 0.018174
-    id: ck0vweg7wtbpd0i19s7p5by66
+    followers: 21369
+    engagement: 238
+    commentsToLikes: 0.065555
+    id: ck8tb6fizuhi90j78qmurt7bm
     verified: false
-    hashtags: "#fitness, #nutrition, #crossfit, #workout"
-  - username: "mohsenmirii"
+    hashtags: "#backtheblue, #thinblueline"
+  - username: "ivan_koach"
     fullname: >-
-      Mohsen Miri
+      Personal Trainer
     bio: >-
-      Official account of Mohsen Miri Coach and Personal trainer Diet Nutritionist @teammiricanada 🇨🇦 برای دریافت برنامه به وب سایت زیر مراجعه کنید👇🏻
+      📍Toronto • C O A C H • C E R T I F I E D (Européen diploma & Canadian certificate) / Nutrition 📱Online coaching / One on one ➡️ DM
     location: "Canada"
-    followers: 153028
-    engagement: 392
-    commentsToLikes: 0.190851
-    id: ck5hjo6hggz050i11orv1ow98
+    followers: 2308
+    engagement: 976
+    commentsToLikes: 0.061546
+    id: ckaowx12iau1y0i78ymxc25vy
     verified: false
-    hashtags: "#iran, #teammiricanada, #teammiri, #canada"
+    hashtags: "#workout, #arms, #personaltrainer, #niketraining"
   - username: "skyeshealthyeats"
     fullname: >-
       S K Y E’ S   E A T S
     bio: >-
-      🌻🥒🍋🤸🏻‍♀️☁️ ~ ubc dietetics👩🏻‍⚕️ ~ my nourishing plant-based eats🌱 ~ @mintclubathletics nutrition✨ ~ vancouver, bc📍
+      🌻🥒🍋🤸🏻‍♀️☁️ ~ bsc ubc dietetics👩🏻‍⚕️ ~ my nourishing plant-based eats🌱 ~ @mintclubathletics nutrition✨ ~ vancouver, bc📍
     location: "Canada"
-    followers: 6319
-    engagement: 1478
-    commentsToLikes: 0.208533
+    followers: 6103
+    engagement: 771
+    commentsToLikes: 0.221981
     id: ck6u7wy7oo52k0j716abyd4z5
     verified: false
     hashtags: ""

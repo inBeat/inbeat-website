@@ -1,72 +1,84 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Chile in 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Chile In 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Chile in 2023. Most popular hashtags: #tattooartist #tattoo #tatuaje #tattoos.
+  Find top tattoo-artists Instagram influencers in Chile in 2023. Most popular hashtags: #tattoo #tattooartist #tatuajes #tattoos.
 platform: Instagram
-hits: 24
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 24 Instagram influencers like this in Chile for you to connect with.
+hits: 19
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 19 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "_brahox"
+  - username: "lorenzodotline"
     fullname: >-
-      Braho
+      DotlineTattoo•Exclusive Studio
     bio: >-
-      illustrator & Tattooartist - 🌑 ✍🏻✍🏻 Open for guestpot in 2020 🌎🇪🇺 📩 Agenda abierta 📩📩📩 brahimjadur.artproject@gmail.com #brahimjadur #ilustration
+      •Loyalty, Love - 1994 •Ama, persevera, sé fuerte. •Haz click en el link para asesorías personalizadas •
     location: "Chile"
-    followers: 5503
-    engagement: 891
-    commentsToLikes: 0.079821
-    id: ckap9owtot1s60i78ybmededv
+    followers: 14863
+    engagement: 183
+    commentsToLikes: 0.281174
+    id: ck5q11vfa8v7h0i11urgfastt
     verified: false
-    hashtags: "#artwork, #blackwork, #illustration, #conceptart"
-  - username: "matatuart"
+    hashtags: "#inkgirls, #girltattoo, #girlswithink, #tattooart"
+  - username: "sergiovisor_ph"
     fullname: >-
-      MΔRCΣLΩ ΔRΣLLΔΠΩ • Stgo, Chile
+      Sergio Carabajal 📸
     bio: >-
-      •Black and grey 🗽 •Agenda Cerrada 2020❌
+      Fotógrafo en Damn Hip Hop
     location: "Chile"
-    followers: 27982
-    engagement: 307
-    commentsToLikes: 0.031424
-    id: ck0w1fwgpj54t0i196ljz0a8d
+    followers: 6027
+    engagement: 185
+    commentsToLikes: 0.037859
+    id: ck602xbd8jtu70i14qz3bcmjp
     verified: false
-    hashtags: "#chiletattoo, #paris, #dubai, #tattoostyle"
-  - username: "carlaurrejola.art"
-    fullname: >-
-      Carla Urrejola
-    bio: >-
-      * Tatuajes | Ilustración * No DM * Agenda Abierta ENERO 2021 * Cotizar a través del formulario 👇🏻
-    location: "Chile"
-    followers: 20521
-    engagement: 237
-    commentsToLikes: 0.017336
-    id: ck8syyxngmk2r0j783unbmxze
-    verified: false
-    hashtags: "#blackwork, #whipshaded, #carlaurrejolatattoo, #dogportrait"
+    hashtags: "#tattoolife, #artist, #blackmoody, #tata"
   - username: "nimu.art"
     fullname: >-
       🅽🅸🅼🆄 : Ilustracion Y Tatuajes
     bio: >-
-      ▪️ Co-Owner @estudioelbosque ▪️ 𝙰𝚛𝚝𝚍𝚛𝚒𝚟𝚎𝚛 𝙼𝚊𝚌𝚑𝚒𝚗𝚎𝚜 𝙋𝙍𝙊𝙏𝙚𝙖𝙢 ▪️ #Radiantcolorscrew Soy de aquí y de por allá
+      ▪️ Co-Owner @estudioelbosque ▪️ 𝙰𝚛𝚝𝚍𝚛𝚒𝚟𝚎𝚛 𝙼𝚊𝚌𝚑𝚒𝚗𝚎𝚜 𝙋𝙍𝙊𝙏𝙚𝙖𝙢 ▪️ #Radiantcolorscrew Agenda enero febrero CERRADA
     location: "Chile"
-    followers: 45558
-    engagement: 82
-    commentsToLikes: 0.030769
+    followers: 51316
+    engagement: 99
+    commentsToLikes: 0.020101
     id: ck5qed534zwjo0i117n0xx83i
     verified: false
-    hashtags: "#neotraditional, #tattooistartmagazine, #tattooartistmagazine, #inspirationtatto"
-  - username: "cavaleracl"
+    hashtags: "#tatuaje, #inspirationtatto, #tattoos, #inkedmag"
+  - username: "matatuart"
     fullname: >-
-      CAVALERA
+      MΔRCΣLΩ ΔRΣLLΔΠΩ • Stgo, Chile
     bio: >-
-      Estudio Boutique de Tatuaje 💀 Agendas 👉🏻 📩 CONTACTO@CAVALERA.CL . . . 📍Mallinkrodt 170, Providencia [Jardín Mallinkrodt]
+      •Black and grey 🗽 •Agenda Cerrada ❌
     location: "Chile"
-    followers: 48907
-    engagement: 114
-    commentsToLikes: 0.009386
+    followers: 29218
+    engagement: 268
+    commentsToLikes: 0.034216
+    id: ck0w1fwgpj54t0i196ljz0a8d
+    verified: false
+    hashtags: "#tattoos, #realismotattoo, #tattoo, #tatuajes"
+  - username: "carlaurrejola.art"
+    fullname: >-
+      Carla Urrejola
+    bio: >-
+      * Tatuajes | Ilustración * No DM * Agenda Abierta MARZO 2021 * Cotizar a través del formulario 👇🏻
+    location: "Chile"
+    followers: 20582
+    engagement: 275
+    commentsToLikes: 0.020049
+    id: ck8syyxngmk2r0j783unbmxze
+    verified: false
+    hashtags: "#petsofinstagram, #chile, #dotwork, #blackworkers"
+  - username: "estudiotatuajesboutique"
+    fullname: >-
+      
+    bio: >-
+      
+    location: "Chile"
+    followers: 42270
+    engagement: 124
+    commentsToLikes: 0.009028
     id: ck5qcyj0psybs0i11df7yy8ab
     verified: false
-    hashtags: "#tattoodesign, #tattoostudio, #art, #dotstattoo"
+    hashtags: "#tatuajes, #tattoodo, #tattooed, #tattoo"
   - username: "___evilcat"
     fullname: >-
       Evil SSSS 🐍
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.016702
     id: ck6uch6lsfl360j71t8h2kwd9
     verified: false
-    hashtags: "#satanlovesme, #vintage, #onlyfans, #greenhair"
-  - username: "tomxx"
+    hashtags: "#satanlovesme, #greenhair, #darkgirl, #girlswhitink"
+  - username: "steph.vtattoo"
     fullname: >-
-      Oscar Silva  𓆏
+      ▫        S t e p h💉T a t t o o
     bio: >-
-      Tatuajes y pinturas 🌚 🌝 Vegan 🐸❤️ @tomxx___ For prints and original paintings on the link
+      Stephanie Villalón Dotwork, Geometric & Fineline en Santiago, Chile. ✳️AGENDA DISPONIBLE ✳️ hasta nuevo aviso! consultas a mi direct📥💙
     location: "Chile"
-    followers: 16215
-    engagement: 815
-    commentsToLikes: 0.013641
-    id: ck9weuhuhlvyq0j781ubhpds2
+    followers: 22571
+    engagement: 416
+    commentsToLikes: 0.045715
+    id: ck8sxq133i8jz0j78jfx9frkd
     verified: false
-    hashtags: "#bright, #tradflash, #paperworkers, #oldlines"
-  - username: "garcifoto"
+    hashtags: "#dotworktattoo, #chile, #tatuajes, #minimaltattoo"
+  - username: "mieeel2020"
     fullname: >-
-      Antonio Garci
+      Cecilia Fuentes
     bio: >-
-      Fotógrafo. Madrid, ES Autor de "El retrato. Técnicas de iluminación" en @photoclub_es Profesor en @domestika y @toomanyflash Profoto Trainer.
+      #makeupmiel🐝🌻 #megamafu ✨ @sesionesdelcorte ⭐ La vida es hermosa y la música... La música lo es todo ✨ Arte, danza, música #pride🌈
     location: "Chile"
-    followers: 48018
-    engagement: 246
-    commentsToLikes: 0.049515
-    id: ck55p53jh9tru0i11zvt6bs6e
+    followers: 5791
+    engagement: 325
+    commentsToLikes: 0.056866
+    id: ck14guerz72v70i195ufsmf8l
     verified: false
-    hashtags: "#portraits, #art, #style, #beautiful"
-  - username: "mattia_masanes"
+    hashtags: "#hacemosloquenosgusta, #colores, #comunidad, #pride"
+  - username: "patiineta.tattoo"
     fullname: >-
-      Mattia Masanes
+      ANIME & MANGA TATTOO ⛩️
     bio: >-
-      🇨🇷 Creador de contenido ➕ De 300.000 Seguidores 🎯 Consultor digital 🚀 Fundador de @bostream_smm 👀 Modelo @aegency @fierce.mgmt
+      • CUPOS DISPONIBLES ABRIL 2021✨ •CARTOON & ANIME TATTOOS🍥 •CONSULTAS SOLO POR DIRECT🌸 •AGENDA CERRADA MARZO 2021 🗓 • @studio.kitsune
     location: "Chile"
-    followers: 47084
-    engagement: 459
-    commentsToLikes: 0.009996
-    id: ck0tx7u7ii5ex0i1900tpulvj
+    followers: 14415
+    engagement: 455
+    commentsToLikes: 0.010703
+    id: ck8tb2y60u4580j78puqksezd
     verified: false
-    hashtags: "#bhfyp, #photography, #tucomovives, #ytucomovives"
-  - username: "allendes_julio"
-    fullname: >-
-      𝐉𝐔𝐋𝐈𝐎 𝐀𝐋𝐋𝐄𝐍𝐃𝐄𝐒 🐶
-    bio: >-
-      📍chileno 🇨🇱 Bailarín 🏖
-    location: "Chile"
-    followers: 109102
-    engagement: 434
-    commentsToLikes: 0.009460
-    id: ck5q5qwilu5o90i11nq3wvj3e
-    verified: true
-    hashtags: "#acrobatics, #menstyle, #instaphoto, #instamoment"
+    hashtags: "#hxh, #lovely, #dragonball, #hxhedit"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Canada in 2023
+title: Top 10 Food Instagram Influencers In Canada In 2023
 description: >-
-  Find top food Instagram influencers in Canada in 2023. Most popular hashtags: #selfie #nature #fall.
+  Find top food Instagram influencers in Canada in 2023. Most popular hashtags: #ad #sponsored #torontofoodie.
 platform: Instagram
-hits: 878
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 878 Instagram influencers like this in Canada for you to pitch.
+hits: 409
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 409 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "loki.eats"
+  - username: "rosalielessard_"
     fullname: >-
-      Loki | Lifestyle | Travel
+      Rosalie Lessard
     bio: >-
-      🇨🇦 Toronto Girl Exploring Canada and Beyond ✨Helping you find IG Worthy Places ☽ Foodie• Traveller• Dreamer 〄 Let’s work together! DM/ Email!
+      Youtubeuse 🍲 Foodie 📍Mtl Qc info@rosalielessard.com📥
     location: "Canada"
-    followers: 8064
-    engagement: 956
-    commentsToLikes: 0.134902
-    id: ck15pdw1zxegt0i19c6ul7eap
+    followers: 171386
+    engagement: 456
+    commentsToLikes: 0.007290
+    id: ck5zm1mj1lqlu0i14lqhaw6b4
     verified: false
-    hashtags: "#fashioninspo, #feedfeed, #dreamy, #pastries"
-  - username: "natlejour"
+    hashtags: "#cocoabutter, #bodycare, #147, #toujourslapourvous"
+  - username: "iframemoments"
     fullname: >-
-      Nathalie
+      iframemoments | Toronto Content Creator
     bio: >-
-      ✨Blog Perso ✨Lifestyle 👩🏼‍🦳 ✨Montreal Vibes 💫🇨🇦 ✨Health Food Travels ✨Nature Fashion ✨Silver Model 🖤📸- 58 years ✨DM for collab ✨Happy Wife ❤️
+      Capturing moments become story covered with memory 📸Food | Product | Portrait | Event Photography 💥Premium Videos Crafted 🔮Let’s Create Magic 📍Toronto
     location: "Canada"
-    followers: 8740
-    engagement: 930
-    commentsToLikes: 0.304150
-    id: ckap9zo2ku4w70i78ps2q8d9k
+    followers: 9887
+    engagement: 465
+    commentsToLikes: 0.249712
+    id: ck5ccyj97i7ti0i11tg9w42gg
     verified: false
-    hashtags: "#greyhair, #selfie, #montreallife, #agelessstyle"
-  - username: "lyss.fits"
+    hashtags: "#torontofoodie, #halalfoodie, #santaclausiscomingtotown, #torontofoodblogger"
+  - username: "healthyeatsbyfi"
     fullname: >-
-      Alyssa Cleversey
+      Fiona
     bio: >-
-      22 y/o//🇨🇦 All about body inclusivity and positivity up in here ✨ Soccer + Pokénerd 🤓⚽️ Lover of all food 🍕
+      seattle, wa food photo dump & eat good feel good recipes fionaegandy@gmail.com
     location: "Canada"
-    followers: 293113
-    engagement: 625
-    commentsToLikes: 0.021279
-    id: ck9hbow68htbm0j78sd3qnz4d
+    followers: 116827
+    engagement: 249
+    commentsToLikes: 0.025183
+    id: cl7o04b5xwbgt0i23qh7txkef
     verified: false
-    hashtags: "#fitnessmodel, #fitgirl, #fitnessgirl, #gymrat"
-  - username: "cocacarlyxoxo"
+    hashtags: "#ad, #bulletproofpartner"
+  - username: "lifewithfarihaa"
     fullname: >-
-      ©️arly ☁️💜🦄💜☁️
+      Fariha⚡️| content creator & recipe developer
     bio: >-
-      📍🇨🇦 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑠ℎ𝑜𝑤 𝑚𝑒 𝑏𝑒𝑡𝑡𝑒𝑟 𝑡ℎ𝑎𝑛 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑡𝑒𝑙𝑙 𝑚𝑒 🌶♏️ 🌺Organic Curves🌺 Wanderlust🌍 Foodie🍡Empath💖 &Whatever else I’m in the mood for Paid Collabs 📧⬇️
+      ✨ follow me for recipes, food/home styling + travel 👩🏽‍💻 public policy advisor | freelance recipe developer 📩 lifewithfarihaa@gmail.com 📍Toronto
     location: "Canada"
-    followers: 155783
-    engagement: 795
-    commentsToLikes: 0.044156
-    id: ck8t3vsfz4oaf0j78rjcu5j8y
+    followers: 8704
+    engagement: 217
+    commentsToLikes: 0.203509
+    id: ckyu5qpgkxlf30j237rxofi63
     verified: false
-    hashtags: "#respectmycurves, #curvystyle, #curvyblogger, #nyc"
-  - username: "kerrylaifatt"
+    hashtags: "#vealathome, #ontarioveal, #bakeadifference2022, #partner"
+  - username: "lucierosel"
     fullname: >-
-      Kerry | Toronto Travel Foodie
+      Lucie-Rose Lévesque 🌿
     bio: >-
-      🌺Chinese Jamaican Mom💍🇨🇦 Inspirational places, food, and style that spark joy. 📍TORONTO • NY • LOS ANGELES • MIAMI
+      ☆Beauty, Lifestyle & Foodie Journalist ☆Content creator *also on TikTok ☆Mama of 2 girls + 2 identical boys #twins Proprio @larosemagnolia CITQ 304766
     location: "Canada"
-    followers: 9371
-    engagement: 937
-    commentsToLikes: 0.336193
-    id: ck5zxd9mv7sn50i145r3r8vkm
+    followers: 15400
+    engagement: 154
+    commentsToLikes: 0.056360
+    id: ckrxec6bqphaz0j23qe122jtp
     verified: false
-    hashtags: "#exploreontario, #dametraveler, #mommyandme, #toronto"
-  - username: "edenvonweiss"
+    hashtags: "#produitsofferts, #pub, #twins, #corbeilelectro"
+  - username: "abhishekdekate"
     fullname: >-
-      EDEN🌬
+      Abhishek Dekate
     bio: >-
-      ☾ Hobbies include making food and mistakes ♤ @wild.mgmt x @playmgmt ♧ email: edenaveryweiss@gmail.com Youtube below
+      ⋒ home + design, food + drinks and everything in between ► toronto 🇨🇦 / from: 🇮🇳 ⍜ contributor @foodnetworkca ⧉ abhishek.dekate@gmail.com ◑ A / D ↓
     location: "Canada"
-    followers: 15370
-    engagement: 1103
-    commentsToLikes: 0.037128
-    id: ck602s8ixiv670i14ere9mjlx
+    followers: 29303
+    engagement: 110
+    commentsToLikes: 0.036707
+    id: ck5bzba4pqt490i11yb7j2ktm
     verified: false
-    hashtags: "#deep"
-  - username: "charobillard"
+    hashtags: "#apartmentdecor, #hometour, #currentdesignsituation, #kinfolkhome"
+  - username: "reclaimedhealthjayde"
     fullname: >-
-      Charlotte Robillard Millette
+      Jayde Gut Health Nutritionist
     bio: >-
-      ♑︎ | Pro tennis player 🎾 | 21 | Montreal 🇨🇦 Dog person 🐶 Foodie 😋 World traveller 🌍 Family first 💯 For enquiries: charlotte@va-as.com
+      Healing the gut with nutritious food + holistic living Food education + nourishing recipes jayde@reclaimedhealth.ca 👇🏻GUT-FRIENDLY GUIDE & RECIPES
     location: "Canada"
-    followers: 51004
-    engagement: 549
-    commentsToLikes: 0.036309
-    id: ck5znp19aovtp0i14icp7q3n8
-    verified: true
-    hashtags: "#freckledbaby"
-  - username: "lisajane2"
-    fullname: >-
-      Lisa-jane
-    bio: >-
-      CANADA | NASHVILLE Hunter | Jesus | Traveler | Foodie | Going through life Blindly Optimistic Email to collab.
-    location: "Canada"
-    followers: 5074
-    engagement: 1600
-    commentsToLikes: 0.070401
-    id: ckaov4zyl32st0i78pwh00be1
+    followers: 62233
+    engagement: 61
+    commentsToLikes: 0.090033
+    id: ckf5p73t056e90j23481pn9u7
     verified: false
-    hashtags: "#treattuesday, #orderedpizza, #harleystyle, #naturecolors"
-  - username: "roxane_bailey"
+    hashtags: "#armraarmy, #tryarmra, #armrapartner, #ad"
+  - username: "christy.wong"
     fullname: >-
-      Roxane Bailey | MTL📍
+      C H R I S T Y
     bio: >-
-      Makeup 💋 Fashion 👠 Food 🍰 Social Media Manager at @image_motion 💁🏻‍♀️
+      📍 nyc 👩🏻‍💼 CPA // consultant 🤍 fashion • lifestyle • food for thought 🏠 vancouver • 香港 • losangeles • sanfrancisco
     location: "Canada"
-    followers: 2502
-    engagement: 1358
-    commentsToLikes: 0.157428
-    id: ck6uidy4aeiv60j71qnq4vwkk
+    followers: 33271
+    engagement: 830
+    commentsToLikes: 0.064638
+    id: ckf5movhfut1b0j23fodjut3o
     verified: false
-    hashtags: "#gifted, #ad, #kvdveganbeauty, #cateyesforall"
-  - username: "samantha__celine"
+    hashtags: "#ootdstyle, #personalgrowth, #fallootd, #hawaii"
+  - username: "dezleighh"
     fullname: >-
-      Samantha | Toronto Lifestyle
+      Dezleigh | CALGARY BLOGGER
     bio: >-
-      Affordable fashion, food, lifestyle ✨ Caribbean girl 🌺 in Toronto 🇨🇦 📲 Sign here
+      "Dez-Lee" 💫Fashion • Food • Fun • Family 🇵🇭Filipino 📍Calgary, Canada
     location: "Canada"
-    followers: 2495
-    engagement: 1774
-    commentsToLikes: 0.107042
-    id: ck8t10cl0tzwv0j78onub1piy
+    followers: 11007
+    engagement: 970
+    commentsToLikes: 0.403364
+    id: ck6u9w5f200sz0j719l7k6o5r
     verified: false
-    hashtags: "#storycube, #mapifulfamily, #blackouttuesday, #summersolstice"
+    hashtags: "#happytastesgood, #sponsored, #safewaypartner, #circlekcanada"
+  - username: "thevancouveriteblog"
+    fullname: >-
+      CINDY YU
+    bio: >-
+      👩🏻Into good cocktails + great conversations. 📣Travel, Design, Food, Wine 🍸Project @cocktailsinthejungle Sunshine Coast VLOG 👇🏼
+    location: "Canada"
+    followers: 26898
+    engagement: 275
+    commentsToLikes: 0.079822
+    id: ck14gyj6d7nhk0i19cuapn5q7
+    verified: false
+    hashtags: "#fairmontempress, #victoriabc, #luxurytravel, #travelblogger"
 ---

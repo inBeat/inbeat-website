@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Ireland in 2023
+title: Top 10 Travel TikTok Influencers In Ireland In 2023
 description: >-
-  Find top travel TikTok influencers in Ireland in 2023. Most popular hashtags: #travel #ireland #fyp #foryoupage.
+  Find top travel TikTok influencers in Ireland in 2023. Most popular hashtags: #travel #fyp #ireland #dublin.
 platform: TikTok
-hits: 26
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 26 TikTok influencers like this in Ireland for you to collaborate.
+hits: 22
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 22 TikTok influencers like this in Ireland for you to collaborate.
 profiles:
   - username: "jattii0"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Mitro kaim o sare Travel +eat = enjoy 😉 Followers jind jaan Happily single 😊
     location: "Ireland"
-    followers: 66400
-    engagement: 1009
-    commentsToLikes: 0.059405
+    followers: 70500
+    engagement: 757
+    commentsToLikes: 0.060915
     id: cka0qrp8bdroy0i781r2p49gj
     verified: false
-    hashtags: "#uae, #london, #dublin, #usa"
+    hashtags: "#ireland, #punjabi, #mitro, #withdarmers"
   - username: "mahantirajkumar"
     fullname: >-
       M.Raj Kumar
     bio: >-
       Music, Traveling, Photography 🇮🇳 🇫🇷 🇮🇪
     location: "Ireland"
-    followers: 19000
-    engagement: 704
-    commentsToLikes: 0.013107
+    followers: 18900
+    engagement: 699
+    commentsToLikes: 0.012655
     id: ckbwjtzlh3pda0j23dkvgfjht
     verified: false
-    hashtags: "#dublin, #tiktokaustralia, #throwback, #postmalone"
+    hashtags: "#australia, #tiktokaustralia, #postmalone, #posty"
   - username: "siobh.ohagan"
     fullname: >-
       Siobhan O'Hagan
     bio: >-
       Irish ☘️ Training and Travelling ✈️⛵️🌅🏋🏼‍♂️🥊 You Only Live Once 🙌🏼
     location: "Ireland"
-    followers: 40400
-    engagement: 361
-    commentsToLikes: 0.014029
+    followers: 40000
+    engagement: 403
+    commentsToLikes: 0.014409
     id: ckbf1ch7end6i0j23je6m4euu
     verified: false
-    hashtags: "#foryoupage, #ireland, #fyp, #irishfyp"
+    hashtags: "#bali, #portugal, #irishfyp, #fitness"
   - username: "justrunnings"
     fullname: >-
       justrunnings
     bio: >-
-      I have too much time on my hands 📧 Business Email: justrunnings1@gmail.com
+      I have way to much time on my hands 📧 Email: jrssports.ie@gmail.com
     location: "Ireland"
-    followers: 29300
-    engagement: 1382
-    commentsToLikes: 0.047119
+    followers: 31900
+    engagement: 1461
+    commentsToLikes: 0.039253
     id: ckb9kz4m1d8110j23bp5ag2ny
     verified: false
-    hashtags: "#mayo4sam, #irishtowns, #hurling, #irish"
+    hashtags: "#mayo4sam, #jrs, #irish, #leavingcert"
   - username: "ej.officiel"
     fullname: >-
       EJ.Travels🗺️
     bio: >-
       Photographer || Videographer Based In Tenerife🇮🇨
     location: "Ireland"
-    followers: 3854
-    engagement: 728
-    commentsToLikes: 0.065959
+    followers: 3809
+    engagement: 719
+    commentsToLikes: 0.062087
     id: ckcj75q506jdq0j23jizrnaoo
     verified: false
-    hashtags: "#sunset, #elteide, #lightroom, #travel"
-  - username: "muratcork"
-    fullname: >-
-      muratcork
-    bio: >-
-      Let’s discover Cork & Ireland😉 Find me on Insta:MuratCork📸 Gülümse😅
-    location: "Ireland"
-    followers: 3259
-    engagement: 730
-    commentsToLikes: 0.139179
-    id: ck9v0mds4dat40j783qrhb0c1
-    verified: false
-    hashtags: "#loveireland, #travel, #waterford, #tiktokireland"
-  - username: "eimsireland"
-    fullname: >-
-      Eimear McDermott
-    bio: >-
-      Mainly doggie content but you probably saw me on a swing Thank you for 8k
-    location: "Ireland"
-    followers: 8584
-    engagement: 1037
-    commentsToLikes: 0.025529
-    id: ckbvt3t9lrw200j23jnktb2hk
-    verified: false
-    hashtags: "#tutorial, #tibetanterrier, #travel, #transformation"
+    hashtags: "#photography, #sunset, #travel, #lightroom"
   - username: "shanejkennedy"
     fullname: >-
       shanejkennedy
     bio: >-
       IG - shanejkennedy Recovered Anorexic 🇮🇪
     location: "Ireland"
-    followers: 50700
-    engagement: 1433
-    commentsToLikes: 0.025739
+    followers: 50200
+    engagement: 1406
+    commentsToLikes: 0.028143
     id: ckb9ug6j4t2g90j2398nkga3b
     verified: false
-    hashtags: "#culture, #fyp, #travelmememories, #tiktokfood"
+    hashtags: "#beer, #fyp, #learnontiktok, #factslobby"
+  - username: "foxy.wanderer"
+    fullname: >-
+      Victoria 
+    bio: >-
+      𝐋𝐞𝐭’𝐬 𝐛𝐞 𝐟𝐫𝐢𝐞𝐧𝐝𝐬 𝐨𝐧 𝐈𝐆👆 Living in Tenerife 🏝 Foodie 🥢
+    location: "Ireland"
+    followers: 59600
+    engagement: 514
+    commentsToLikes: 0.045860
+    id: ckc7zofr81dlb0j23wu6n4tl9
+    verified: false
+    hashtags: "#tenerife, #beachvibes, #explore, #tenerfie"
   - username: "zachosulley"
     fullname: >-
       Zach O’Sullivan
     bio: >-
       19⛷🇮🇪
     location: "Ireland"
-    followers: 6869
-    engagement: 946
-    commentsToLikes: 0.020386
+    followers: 6863
+    engagement: 1001
+    commentsToLikes: 0.021901
     id: ckbfef43p8ie90j230zjac4bk
     verified: false
-    hashtags: "#skiing, #gopro, #austria, #xyzbca"
-  - username: "bmoneyirl"
+    hashtags: "#bestlife, #gopromax, #travel, #snow"
+  - username: "eimsireland"
     fullname: >-
-      B Money
+      Eimear McDermott
     bio: >-
-      Jokes•Vlogs•Lifestyle 🇮🇪🇰🇪🇹🇿 60k🥺
+      Mainly doggie content but you probably saw me on a swing Thank you for 8k
     location: "Ireland"
-    followers: 59700
-    engagement: 1226
-    commentsToLikes: 0.022373
-    id: ckd0sep7zivz30j23mq0s7jxs
+    followers: 8433
+    engagement: 950
+    commentsToLikes: 0.021893
+    id: ckbvt3t9lrw200j23jnktb2hk
     verified: false
-    hashtags: "#fyp, #travel, #islam, #somali"
+    hashtags: "#dogsoftiktok, #dogs, #doggroomerlife, #dog"
+  - username: "corkdaily"
+    fullname: >-
+      Cork Daily
+    bio: >-
+      Discover Cork, Ireland with Cork Daily🇮🇪❤️🤍😊
+    location: "Ireland"
+    followers: 3188
+    engagement: 317
+    commentsToLikes: 0.057449
+    id: ck9v0mds4dat40j783qrhb0c1
+    verified: false
+    hashtags: "#irishdaily, #westcork, #ireland, #irlanda"
 ---
