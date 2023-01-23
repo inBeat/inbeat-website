@@ -1,0 +1,24 @@
+{{- define "main" -}}
+<div id="engagement-rate">
+  <section class="container mobile-adjusted page-top" id="engagement-header">
+    <div hidden class="chrome-exentsion-tag">inBeat Extension</div>
+    <h1>{{- .Params.title -}}</h1>
+    <p>{{- .Params.subtitle | markdownify -}}</p>
+    <div class="chrome-tag">
+      <a target="_blank" href="https://chrome.google.com/webstore/detail/inbeat-%E2%80%94-instagram-engage/obciajlapimgfoacagkaioophbopigja?hl=en&authuser=3">
+        <div class="icons">{{- partial "icons/chrome-store.html" -}}</div>
+      </a>
+    </div>
+  </section>
+
+
+  {{- partial "site/ugc-global.html" . -}}
+  {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+</div>
+
+<script>
+  var app = new Vue({
+    el: '#engagement-rate-chrome-extension',
+  });
+</script>
+{{- end -}}

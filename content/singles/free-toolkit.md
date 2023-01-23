@@ -38,6 +38,10 @@ toolkits:
       text: Calculate campaign spend for an influencer marketing campaign & estimate it’s results
       icon: freetoolkit-spend-calculator
       url: influencer-marketing-roi-calculator
+    - title: Engagement Rate <br> Chrome Extension
+      text: Calculate Engagement Rate directly on Instagram, add profiles to a list & export it to a csv file!
+      icon: freetoolkit-engagement-calculator-chrome-extension
+      url: engagement-rate-chrome-extension
   - AdMockupGenerators:
     subtitle: Ad mockup generators
     tools:
