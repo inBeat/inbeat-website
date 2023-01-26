@@ -253,10 +253,10 @@
 
   li {
     float: left;
-    margin-right: 1.45rem;
+    margin-right: 1.2rem;
 
     @include breakpoint(md) {
-      margin-right: 3rem;
+      margin-right: 2rem;
     }
 
     cursor: pointer;
