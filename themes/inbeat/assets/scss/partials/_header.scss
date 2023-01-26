@@ -19,6 +19,9 @@
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
     overflow: hidden;
     width: auto;
+    .row {
+      margin: 0px !important;
+    }
 
     .col-md-3 {
       @include breakpoint(md) {
