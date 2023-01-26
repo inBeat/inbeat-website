@@ -346,8 +346,10 @@
 
           &.--no-flex {
             display: block;
-            white-space: nowrap;
             padding: 0 8px;
+          }
+          &.--no-wrap {
+            white-space: nowrap;
           }
 
           h4 {
