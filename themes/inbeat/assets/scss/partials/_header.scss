@@ -19,6 +19,9 @@
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
     overflow: hidden;
     width: auto;
+    .row {
+      margin: 0px !important;
+    }
 
     .col-md-3 {
       @include breakpoint(md) {
@@ -65,6 +68,7 @@
         align-self: baseline;
         margin-top: auto;
         width: 100%;
+        padding: 20px 0px;
         &:hover{
           opacity: .8;
         }
@@ -253,10 +257,10 @@
 
   li {
     float: left;
-    margin-right: 1.45rem;
+    margin-right: 1.2rem;
 
     @include breakpoint(md) {
-      margin-right: 3rem;
+      margin-right: 2rem;
     }
 
     cursor: pointer;
@@ -344,6 +348,9 @@
           &.--no-flex {
             display: block;
             padding: 0 8px;
+          }
+          &.--no-wrap {
+            white-space: nowrap;
           }
 
           h4 {

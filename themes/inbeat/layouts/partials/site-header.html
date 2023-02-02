@@ -7,7 +7,7 @@
 					<div class="slide">{{- partial "icons/inbeat-logo.html" -}}</div>
 				</a>
 			</div>
-			<div class="col-xs-7 hide-sm">
+			<div class="col-xs-7 col-md-8 hide-sm">
 				<ul>
 					<li class="menu-parent has-submenu">
 						<a href="javascript:void(0)" title="Features">
@@ -91,7 +91,7 @@
 											<div class="pages">
 												{{- range .pages -}}
 												<li class="page">
-													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
+													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex --no-wrap" title="{{ .name }}">
 														<h4>
 															{{ .name }} {{ if .tag}}
 															<span class="tag">{{ .tag }}</span>
@@ -122,13 +122,16 @@
 							</div>
 						</div>
 					</li>
+					<li class="hide-md">
+						<a href="https://inbeat.agency/" target="_blank" title="Inbeat Agency">The Agency</a>
+					</li>
 					<li class="creator-studio">
 						<a href="{{- $.Site.BaseURL -}}ugc-studio" title="UGC Studio">UGC Studio</a>
 						<span class="new-badge">NEW</span>
 					</li>
 				</ul>
 			</div>
-			<div class="col-xs-4 hide-sm">
+			<div class="col-xs-4 col-md-3 hide-sm">
 				<ul class="right">
 					<li class="cta">
 						<a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
@@ -209,6 +212,7 @@
 						{{- end -}}
 					</div>
 				</li>
+				<li><a href="https://inbeat.agency/" target="_blank" title="Inbeat Agency">The Agency</a></li>
 				<li><a href="{{- $.Site.BaseURL -}}ugc-studio" title="UGC Studio">UGC Studio</a></li>
 			</ul>
 
