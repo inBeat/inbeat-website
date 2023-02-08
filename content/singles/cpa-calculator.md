@@ -15,7 +15,7 @@ whatwedo:
     text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale. 
     video: influencer-statistics  
     cta:
-      link: https://www.inbeat.co/ugc-platform/
+      link: https://www.inbeat.co/ugc-studio/
       text: Learn More
     newBadge: true
 relatedTools:

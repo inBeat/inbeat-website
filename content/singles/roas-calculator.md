@@ -15,7 +15,7 @@ whatwedo:
     text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
     video: influencer-statistics  
     cta:
-      link: https://www.inbeat.co/ugc-platform/
+      link: https://www.inbeat.co/ugc-studio/
       text: Learn More
     newBadge: true
 relatedTools:

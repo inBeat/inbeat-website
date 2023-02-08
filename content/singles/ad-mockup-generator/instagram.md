@@ -19,7 +19,7 @@ whatwedo:
     video: CreatorStudio_Snippet
     newBadge: true
     cta:
-      link: https://www.inbeat.co/ugc-platform/
+      link: https://www.inbeat.co/ugc-studio/
       text: Learn More
     id: mockup-whatwedo
 relatedTools:
