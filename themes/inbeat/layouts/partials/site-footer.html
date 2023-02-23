@@ -117,7 +117,7 @@
                         <ul>
                             {{- range .Site.Data.footer.col1_ugc -}}
                             <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                <a class="low-white" href="{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
                             </li>
                             {{- end -}}
                         </ul>
@@ -134,7 +134,7 @@
                         <ul>
                             {{- range .Site.Data.footer.col1_database -}}
                             <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                <a class="low-white" href="{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
                             </li>
                             {{- end -}}
                         </ul>
@@ -151,7 +151,7 @@
                             <ul>
                                 {{- range .Site.Data.footer.col2 -}}
                                 <li >
-                                    <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}" target="_blank">
+                                    <a class="low-white" href="{{- .link -}}" title="{{- .anchor }}" target="_blank">
                                    {{- .anchor }}</a>
                                 </li>
                                 {{- end -}}
@@ -179,7 +179,7 @@
                         <ul>
                             {{- range .Site.Data.footer.col3 -}}
                             <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                <a class="low-white" href="{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
                             </li>
                             {{- end -}}
                         </ul>
@@ -195,7 +195,7 @@
                     <div class="content">
                         <ul>
                             {{- range .Site.Data.navigation.footer.support -}} 
-                                <li> <a href="" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
+                                <li> <a href="{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
                             {{- end -}}
                         </ul>
                     </div>
