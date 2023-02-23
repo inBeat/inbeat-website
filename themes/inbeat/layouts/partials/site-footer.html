@@ -195,7 +195,7 @@
                     <div class="content">
                         <ul>
                             {{- range .Site.Data.navigation.footer.support -}} 
-                                <li> <a href="https://teaminbeat.typeform.com/to/tbkVXc2b" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
+                                <li> <a href="{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
                             {{- end -}}
                         </ul>
                     </div>
