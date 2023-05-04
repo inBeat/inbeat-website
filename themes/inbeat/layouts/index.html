@@ -21,8 +21,8 @@
         <div class="col-xs-12 col-md-4 left-col">
             <h2>{{- .title -}}</h2>
             <p>{{- .text | markdownify -}}</p>
-            <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ if .link.external }}{{- .link.link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link.link -}}{{end}}" target="_blank">
-                {{- htmlUnescape .link.text -}}
+            <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="https://app.inbeat.co/get-started" target="_blank">
+              Sign up →
             </a>
             {{- with .question -}}
             <div id="tooltip-element" class="is-relative">
