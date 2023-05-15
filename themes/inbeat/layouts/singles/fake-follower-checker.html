@@ -15,9 +15,7 @@
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     {{ $content := partial "site/engagementRateForm.html" .}}
-    {{ partial "site/popup.html" (dict "context" . "id" "formPopup" "content" $content "canClose" false "class" "auto-wh"  ) }}
     <section id="ffc-calculator" class="container mobile-adjusted">
-
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
@@ -371,18 +369,17 @@
                         return {'likes_follower': 0.035, 'comments_likes': 0.01, 'type': 'mega-influencer'};
             },
             async submit() {
-                // this.openEmailCaptureForm(); // only for local testing.
-                var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
-                if (this.quotaReached) {
-                    this.error = 'You reached your quota for this hour. Try again later.';
-                    return;
-                }
-                if (username == '') {
-                    this.error = 'Please enter a username.';
-                    return;
-                }
-                this.loading = true;
-                var _this = this;
+              var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
+              if (this.quotaReached) {
+                  this.error = 'You reached your quota for this hour. Try again later.';
+                  return;
+              }
+              if (username == '') {
+                  this.error = 'Please enter a username.';
+                  return;
+              }
+              this.loading = true;
+              var _this = this;
               window.grecaptcha.ready(() => {
                 document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                 window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}).then(function (token) {
@@ -431,7 +428,6 @@
                     _this.loading = false;
                   }
                   request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
-                  _this.openEmailCaptureForm(request);
                 })
               })
             },

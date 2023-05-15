@@ -181,24 +181,6 @@
                 var win = window.open('https://teaminbeat.typeform.com/to/sLHT8z3M/', '_blank');
                 win.focus();
             },
-            openEmailCaptureForm(httpRequest) {
-                if (!this.getCookie('erc-submit') && this.getFirstData === true) {
-                    let bannerEl = document.getElementById('banner')
-                    if(bannerEl) {
-                        bannerEl.style.pointerEvents = 'none';
-                    }
-                    httpRequest.addEventListener('loadend', (() => {
-                        setTimeout(function () {
-                            allPopup.find(x => x.id === 'formPopup').openPopup();
-                        }, 3000);
-                    }));
-                }
-
-                // for local testing only
-                // setTimeout(function () {
-                //     allPopup.find(x => x.id === 'formPopup').openPopup();
-                // }, 3000);
-            },
         }
     }
 </script>

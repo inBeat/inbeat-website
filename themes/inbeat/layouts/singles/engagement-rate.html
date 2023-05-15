@@ -12,7 +12,6 @@
 <div id="engagement-rate">
 
     {{ $content := partial "site/engagementRateForm.html" .}}
-    {{ partial "site/popup.html" (dict "context" . "id" "formPopup" "content" $content "canClose" false "class" "auto-wh"  ) }}
     <section class="container mobile-adjusted page-top" id="engagement-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
@@ -246,7 +245,6 @@
                 this.average_comments = Math.round(sum / this.posts.length);
             },
             async submit() {
-                // this.openEmailCaptureForm(); // only for local testing
               if(this.loading == true) return;
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
@@ -298,7 +296,6 @@
                         _this.loading = false;
                       }
                       request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
-                      _this.openEmailCaptureForm(request);
                     })
                 })
             },
