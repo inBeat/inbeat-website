@@ -506,7 +506,6 @@ function home() {
   header();
   pricing();
   affiliate();
-  topInfluencers();
   popup();
   faq();
   banner();
