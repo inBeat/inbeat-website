@@ -24,8 +24,6 @@ defaultContentLanguageInSubdir = false
   ## This is used when the BaseURL does not need to modified (eg, in share links)
   siteaddress = "https://www.inbeat.co/"
   siteaddressno = "https://www.inbeat.co"
-  ## Google Tag Manager tracking ID
-  gtmid = "GTM-W2MQ972"
 
 # MARKDOWN
 ## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
