@@ -13,6 +13,6 @@ whatwedo:
   newBadge: true 
   video: CreatorStudio_Snippet 
   cta:
-    link: https://www.inbeat.co/ugc-studio/
+    link: https://www.inbeat.co/ugc-platform/
     text: Learn More
 ---

@@ -126,7 +126,7 @@
 						<a href="https://inbeat.agency/" target="_blank" title="Inbeat Agency">The Agency</a>
 					</li>
 					<li class="creator-studio">
-						<a href="{{- $.Site.BaseURL -}}ugc-studio" title="UGC Studio">UGC Studio</a>
+						<a href="{{- $.Site.BaseURL -}}ugc-platform" title="UGC Platform">UGC Platform</a>
 						<span class="new-badge">NEW</span>
 					</li>
 				</ul>
@@ -134,8 +134,12 @@
 			<div class="col-xs-4 col-md-3 hide-sm">
 				<ul class="right">
 					<li class="cta">
-						<a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
-						<a href="https://app.inbeat.co/get-started" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up</a>
+            {{ if eq .RelPermalink "/ugc-platform/" }}
+              <a href="https://app.showca.se/users/sign_up" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up - on Showcase</a>
+            {{ else }}
+              <a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
+              <a href="https://app.inbeat.co/get-started" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up</a>
+            {{ end }}
 					</li>
 				</ul>
 			</div>
@@ -213,14 +217,16 @@
 					</div>
 				</li>
 				<li><a href="https://inbeat.agency/" target="_blank" title="Inbeat Agency">The Agency</a></li>
-				<li><a href="{{- $.Site.BaseURL -}}ugc-studio" title="UGC Studio">UGC Studio</a></li>
+				<li><a href="{{- $.Site.BaseURL -}}ugc-platform" title="UGC Platform">UGC Platform</a></li>
 			</ul>
 
 			<div class="cta">
-				<a class="btn btn-lg" href="https://app.inbeat.co/get-started" target="_blank">
-					<span>Sign up</span>
-				</a>
-				<a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
+        {{ if eq .RelPermalink "/ugc-platform/" }}
+          <a href="https://app.showca.se/users/sign_up" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up - on Showcase</a>
+        {{ else }}
+          <a class="btn btn-lg" href="https://app.inbeat.co/get-started" target="_blank"><span>Sign up</span></a>
+          <a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
+        {{ end }}
 			</div>
 		</div>
 	</div>
