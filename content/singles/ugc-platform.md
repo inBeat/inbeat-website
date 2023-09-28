@@ -5,13 +5,13 @@ description: >-
 slug: ugc-platform
 layout: ugc-platform
 hero:
-  title: Create UGC that<br/> converts
+  title: Create UGC that converts
   subtitle: >-
     Drive down your CPAs by working with creators that have a track record for performance.
   cta:
     text: >-
       <span>Sign up — on Showcase</span>
-    link: https://app.showca.se/users/sign_up
+    link: https://app.showca.se/users/sign_up?as=client
 banner:
   show: false
 discoverInfluencer:
@@ -76,7 +76,7 @@ whatwedo:
     newBadge: false 
     video: CreatorStudio_Snippet 
     cta:
-      link: https://app.showca.se/users/sign_up
+      link: https://app.showca.se/users/sign_up?as=client
       text: Sign up - on Showcase
 testimonials: 
   id: testimonials_creator-studio
@@ -111,9 +111,4 @@ toolkits:
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-tiktok-topinfluencers
       url: top-influencers/tiktok
-# startnow:
-#   title: Get crackin'
-#   description: Start your influencer campaign today, with inBeat.
----
-
 ---
