@@ -59,12 +59,12 @@ features:
     announcement:
       color: 303545
       title: Create UGC that converts with a fully managed platform.
-      topText: UGC Studio
+      topText: UGC Platform
       cta:
         text: Learn more
         color: EBFDE6
-        title: UGC Studio
-        link: '/ugc-studio'
+        title: UGC Platform
+        link: '/ugc-platform'
     pages:
       - name: Influencer search engine
         link: '/features/quicksearch'

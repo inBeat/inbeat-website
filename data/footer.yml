@@ -1,6 +1,6 @@
   col1_ugc:
     - anchor: Learn More
-      link: ugc-studio
+      link: ugc-platform
       external: false
     - anchor: Book a demo
       link: https://calendly.com/inbeat-co/creator-studio-demo
