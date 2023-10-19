@@ -1,4 +1,6 @@
-<section class="container mobile-adjusted" id="mockup_builder">
+<div id="mockup_builder">
+  {{ partial "site/unlock_calculator_popup.html" }}
+<section class="container mobile-adjusted">
   <div>
     <div class="row" id="mockup__card-wrapper">
       <div :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
@@ -333,6 +335,7 @@
     </div>
   </div>
 </section>
+</div>
 
 {{- if getenv "IS_PROD" -}}
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
@@ -345,6 +348,7 @@
 {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
 {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
 {{- partial "site/ad-mockup-generator/captionMixin.html" -}}
+{{- partial "site/mixin/unlockCalculator.html" -}}
 <script>
     Vue.component('uploader', {
         data: function () {
@@ -615,7 +619,7 @@
 
     var app = new Vue({
       el: '#mockup_builder',
-      mixins: [adFormatHeightMixin,uploadMixin,generalMixin,captionMixin],
+      mixins: [adFormatHeightMixin, uploadMixin, generalMixin, captionMixin, unlockCalculator],
       data: {
             ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
             activeTab: 'controls',

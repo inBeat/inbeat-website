@@ -1,0 +1,73 @@
+<script>
+  var unlockCalculator = {
+    data() {
+      return {
+        showPopup: false,
+        unlocked: false,
+        verifying: false,
+        popupClass: "",
+        submissions: 0,
+      };
+    },
+    computed: {
+      cookieName() {
+        return "unlock-tool" + window.location.pathname.replace(/\//g, "-");
+      },
+    },
+    methods: {
+      showUnlockPopup() {
+        let cookieValue = getCookie(this.cookieName);
+
+        if (!cookieValue) {
+          setCookie(this.cookieName, 1, 60);
+          return false;
+        } else if (cookieValue === "1") {
+          this.showPopup = true;
+          this.popupClass = "show";
+          this.handleState(true);
+          return true;
+        } else {
+          return false;
+        }
+      },
+      hideUnlockPopup() {
+        setCookie(this.cookieName, true, 60);
+        this.showPopup = false;
+        this.handleState(false);
+      },
+      handleState(newVal) {
+        if (newVal) {
+          this.addBlur();
+          this.preventScroll();
+        } else {
+          this.removeBlur();
+          this.allowScroll();
+        }
+      },
+      startVerifying() {
+        this.verifying = true;
+        this.unlocked = true;
+        setTimeout(() => {
+          this.verifying = false;
+        }, 5000);
+      },
+      addBlur() {
+        document.querySelectorAll("section").forEach(function (item) {
+          item.classList.add("blur");
+        });
+      },
+      removeBlur() {
+        document.querySelectorAll("section").forEach(function (item) {
+          item.classList.remove("blur");
+        });
+      },
+      preventScroll() {
+        document.body.style.overflow = "hidden";
+      },
+      allowScroll() {
+        document.body.style.overflow = "";
+      },
+    },
+    delimiters: ["{", "}"],
+  };
+</script>

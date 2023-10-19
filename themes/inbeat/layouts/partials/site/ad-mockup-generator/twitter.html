@@ -1,4 +1,6 @@
-<section class="container mobile-adjusted" id="mockup_builder">
+<div id="mockup_builder">
+{{ partial "site/unlock_calculator_popup.html" }}
+<section class="container mobile-adjusted">
     <div>
       <div class="row" id="mockup__card-wrapper">
         <div :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
@@ -315,7 +317,7 @@
       </div>
     </div>
   </section>
-  
+</div> 
   {{- if getenv "IS_PROD" -}}
   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
   {{- else -}}
@@ -327,6 +329,7 @@
   {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
   {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
   {{- partial "site/ad-mockup-generator/captionMixin.html" -}}
+  {{- partial "site/mixin/unlockCalculator.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -595,7 +598,7 @@
   
       var app = new Vue({
         el: '#mockup_builder',
-        mixins: [uploadMixin,generalMixin,captionMixin],
+        mixins: [uploadMixin, generalMixin, captionMixin, unlockCalculator],
         data: {
               activeTab: 'controls',
               profileName: '',
