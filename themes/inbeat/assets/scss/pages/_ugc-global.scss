@@ -22,6 +22,9 @@
         line-height: 2.62rem;
         letter-spacing: -1px;
         text-align: left;
+        display: flex;
+        flex-direction: column;
+        
         @include breakpoint(md) {
             font-weight: 500;
             font-size: 3.5rem;
@@ -43,7 +46,7 @@
         }
     }
     @include breakpoint(sm) {
-        padding: 128px 51px;
+        padding: 128px 50px;
         .whatwedo_description-title{
             margin-bottom: 32px !important;
             margin-top: 0;
@@ -57,10 +60,11 @@
 
     }
     .whatwedo_image, .whatwedo_video {
-        width: 100%;
+        display: none;
         border-radius: 5px;
         @include breakpoint(md) {
-            width: 495px;
+            width: 100%;
+            display: block;
             border-radius: 10px;
         }
     }
@@ -94,22 +98,17 @@
         }
     }
     .new-badge{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        gap: 10px;
-        padding: 0px 12px 2px;
-        width: 120px !important;
-        height: 30px;
+        padding: 6px 12px;
+        width: fit-content;
+        height: fit-content;
         background: linear-gradient(180deg, #FFE9F0 0%, #FAECDB 51.04%, #D6EBE4 100%);
         border-radius: 360px;
         font-weight: 400;
-        font-size: 18px;
-        line-height: 28px;
+        font-size: 14px;
+        line-height: 16px;
         text-align: center;
         letter-spacing: 0.01em;
         color: #141514;
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
     }
 }

@@ -1,0 +1,102 @@
+<section
+  id="showcasePopup"
+  :class="['showcase-popup', popupClass]"
+  v-cloak
+  v-if="showPopup">
+  <div class="sc-popup">
+    <div class="content">
+      <div class="close" @click="hideShowcasePopup">
+        {{- partial "icons/close.html" -}}
+      </div>
+      <img src="/images/showcase-img.png" alt="Showcase">
+      <div class="right-content">
+        <span class="new-badge">NEW</span>
+        <h1 class="title">UGC Platform</h1>
+        <p class="text">Create high quality UGC with top creators.</p>
+        <a href="https://www.showca.se/" title="Sign up for free &#8212 On Showcase" class="btn btn-lg" target="_blank">
+          <span>Sign up for free</span> &#8212 On Showcase
+      </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+
+<script>
+  function setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(";");
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == " ") c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+  var app = new Vue({
+    el: "#showcasePopup",
+    data() {
+      return {
+        showPopup: false,
+        unlocked: false,
+        verifying: false,
+        popupClass: "",
+        submissions: 0,
+      };
+    },
+    computed: {},
+    mounted() {
+      this.showShowcasePopup();
+    },
+    methods: {
+      showShowcasePopup() {
+        let cookieValue = getCookie("sc-popup");
+
+        if (!cookieValue) {
+          this.showPopup = true;
+          setTimeout(() => {
+            this.popupClass = "popupOverlay--fadeIn";
+            this.handleState(true);
+          }, 20000);
+        }
+      },
+      hideShowcasePopup() {
+        setCookie("sc-popup", true, 60);
+        this.popupClass = "";
+        setTimeout(() => {
+          this.showPopup = false;
+        }, 1000);
+        this.handleState(false);
+      },
+      handleState(newVal) {
+        if (newVal) {
+          this.preventScroll();
+        } else {
+          this.allowScroll();
+        }
+      },
+      preventScroll() {
+        document.body.style.overflow = "hidden";
+      },
+      allowScroll() {
+        document.body.style.overflow = "";
+      },
+    },
+    delimiters: ["{", "}"],
+  });
+</script>

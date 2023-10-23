@@ -1,5 +1,5 @@
 <section id="header-container">
-	{{- partial "site/banner.html" (dict "context" . "text" "See how inBeat works" "url" "javascript:void(0)" "class" "popupTrigger" "show" .Params.banner.show) -}}
+	{{- partial "site/banner.html" (dict "context" . "text" "Create high quality UGC - Try Showcase for free" "url" "https://www.showca.se/") -}}
 	<div class="container">
 		<div class="row middle-xs between-xs" id="header">
 			<div class="col-xs-6 col-sm-1 col-md-1">
@@ -57,7 +57,7 @@
 									{{ with .announcement }}
 									<div style="background-color:#{{ .color }}" class="col-sm-6 col-md-6 column announcement">
 										<h2>{{ .topText }}</h2>
-										<p style="margin-bottom: 72px" class="announcement-title">{{ .title }}</p>
+										<p style="margin-bottom: 180px" class="announcement-title">{{ .title }}</p>
 										<a href="{{ .cta.link }}" style="background-color:#{{ .cta.color }}" title="{{ .cta.title }}" class="btn btn-lg" target="_blank">{{ .cta.text }}</a>
 									</div>
 									{{ end }} {{- end -}}

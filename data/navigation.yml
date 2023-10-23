@@ -58,13 +58,13 @@ features:
     # hasMorePage: true
     announcement:
       color: 303545
-      title: Create UGC that converts with a fully managed platform.
-      topText: UGC Platform
+      title: Create high quality UGC ads
+      topText: New Platform - Showcase
       cta:
-        text: Learn more
+        text: Sign up - For free
         color: EBFDE6
         title: UGC Platform
-        link: '/ugc-platform'
+        link: 'https://www.showca.se/'
     pages:
       - name: Influencer search engine
         link: '/features/quicksearch'
