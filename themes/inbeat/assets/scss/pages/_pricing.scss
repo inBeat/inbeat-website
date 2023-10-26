@@ -55,12 +55,12 @@ $plan-padding: 1.5rem;
         .toggle-container{
             padding: 31px 21px 36px 38px;
             background: #FFFFFF;
-            border-radius: 29px;
-            margin-bottom: 21px;
+            border-radius: 32px;
+            margin-bottom: 20px;
             opacity: 0.6;
             cursor: pointer;
             border: 1px solid #BDBDBD;
-            transition: $transition_default;
+            transition: box-shadow .10s cubic-bezier(0.5, 0.1, 0.6, 0.5);
             @include breakpoint(sm-down) {
                 padding: 20px 30px;
                 border-radius: 12px;
@@ -99,6 +99,7 @@ $plan-padding: 1.5rem;
         .--active{
             border: 2px solid #141514;
             opacity: 1;
+            pointer-events: none;
         }
     }
 }
