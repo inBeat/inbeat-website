@@ -37,10 +37,8 @@
       },
       handleState(newVal) {
         if (newVal) {
-          this.addBlur();
           this.preventScroll();
         } else {
-          this.removeBlur();
           this.allowScroll();
         }
       },
@@ -50,16 +48,6 @@
         setTimeout(() => {
           this.verifying = false;
         }, 10000);
-      },
-      addBlur() {
-        document.querySelectorAll("section").forEach(function (item) {
-          item.classList.add("blur");
-        });
-      },
-      removeBlur() {
-        document.querySelectorAll("section").forEach(function (item) {
-          item.classList.remove("blur");
-        });
       },
       preventScroll() {
         document.body.style.overflow = "hidden";

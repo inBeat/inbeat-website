@@ -1,237 +1,174 @@
 <div id="mockup_builder">
   {{ partial "site/unlock_calculator_popup.html" }}
-<section class="container mobile-adjusted">
-  <div>
-    <div class="row" id="mockup__card-wrapper">
-      <div :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-        <div class="row mockup__preview-configuration-wrapper" :class="{'--gray-bg' : activeTab === 'preview'}">
-          <div class="preview-design-switch hide-md-up col-xs-12">
-            <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}"
-              @click="switchTab('controls')">
-              Ad Content
-            </div>
-            <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'preview'}"
-              @click="switchTab('preview')">
-              Preview
-            </div>
-          </div>
-          <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"
-            class="mockup__configuration-wrapper col-sm-down-12">
-
-            <div class="mockup__configuration-section" id="mockup-controls">
-              <div class="mockup__configuration-header-wrapper">
-                <h4 class="mockup__configuration-title">Instagram</h4>
+  <section class="container mobile-adjusted">
+    <div>
+      <div class="row" id="mockup__card-wrapper">
+        <div :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
+          <div class="row mockup__preview-configuration-wrapper" :class="{'--gray-bg' : activeTab === 'preview'}">
+            <div class="preview-design-switch hide-md-up col-xs-12">
+              <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}"
+                @click="switchTab('controls')">
+                Ad Content
               </div>
-              <div class="mockup-type">
-                <div class="mockup-type-header">
-                  <span class="mockup__title">Ad Type & format</span>
+              <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'preview'}"
+                @click="switchTab('preview')">
+                Preview
+              </div>
+            </div>
+            <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"
+              class="mockup__configuration-wrapper col-sm-down-12">
+
+              <div class="mockup__configuration-section" id="mockup-controls">
+                <div class="mockup__configuration-header-wrapper">
+                  <h4 class="mockup__configuration-title">Instagram</h4>
                 </div>
-                <div>
-                  <div class="glide">
-                    <div class="glide__track" data-glide-el="track">
-                      <div class="insta__mockup-type-wrapper" id="mockup-type-wrapper" ref="adType">
-                        <div style="width: auto !important;" class="mockup-type__card slide-mockup-type"
-                          :class="{'--active': activeAd.id === adType.id}" v-for="adType in adTypes" :key="adType.id"
-                          @click="adTypeClick(adType)">
-                          <div class="image-wrapper">
-                            <img :src="getImgUrl(adType.img)">
-                          </div>
-                          <div class="insta-mockup-type-title">
-                            <p :class="{'--active': activeAd.id === adType.id}">{adType.type}
-                              <span>({adType.ratio})</span>
-                            </p>
-                            <div class="circle">
-                              <div class="circle-inner" v-if="activeAd.id === adType.id"></div>
+                <div class="mockup-type">
+                  <div class="mockup-type-header">
+                    <span class="mockup__title">Ad Type & format</span>
+                  </div>
+                  <div>
+                    <div class="glide">
+                      <div class="glide__track" data-glide-el="track">
+                        <div class="insta__mockup-type-wrapper" id="mockup-type-wrapper" ref="adType">
+                          <div style="width: auto !important;" class="mockup-type__card slide-mockup-type"
+                            :class="{'--active': activeAd.id === adType.id}" v-for="adType in adTypes" :key="adType.id"
+                            @click="adTypeClick(adType)">
+                            <div class="image-wrapper">
+                              <img :src="getImgUrl(adType.img)">
+                            </div>
+                            <div class="insta-mockup-type-title">
+                              <p :class="{'--active': activeAd.id === adType.id}">{adType.type}
+                                <span>({adType.ratio})</span>
+                              </p>
+                              <div class="circle">
+                                <div class="circle-inner" v-if="activeAd.id === adType.id"></div>
+                              </div>
                             </div>
                           </div>
                         </div>
                       </div>
-                    </div>
-                    <div class="glide-controls" data-glide-el="controls" v-show="showGlideControls">
-                      <span class="swiper-previous glide-control-btn" data-glide-dir="<">
-                        {{- partial "icons/left-arrow.html" -}}
-                      </span>
-                      <span class="swiper-next glide-control-btn" data-glide-dir=">">
-                        {{- partial "icons/right-arrow.html" -}}
-                      </span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="profile__input-wrapper">
-                <span class="mockup__title">Profile picture and username</span>
-                <div class="uploader-wrapper">
-                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
-                    <span class="upload-image-wrapper">
-                      <span v-if="!dpSrc">{{- partial "icons/upload-img-logo.html" -}}</span>
-                      <img v-else :src="dpSrc ? dpSrc : ''" alt=""> 
-                    </span> 
-                  </uploader>
-                  <div class="input-wrapper">
-                    <input v-model="profileName" @keyDown="onKeyDown" type="text" id="account-name-input"
-                      class="mockup-input" placeholder="username" maxlength="20" />
-                  </div>
-                </div>
-              </div>
-              <div class="mockup__configuration-dropzone-wrapper">
-                <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
-                  v-else>Image</span>
-                <span class="mockup__description">Recommended image size is 
-                  <span>{activeAd.resolution}</span>&nbsp;pixels</span>
-                  <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
-                  @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                  <div class="upload_placeholder-wrapper">
-                    {{- partial "icons/upload-placeholder.html" -}}
-                    <p><span>Click to upload</span> or drag-and-drop</br>
-                    <div class="sub-droparea-text">Supports only .png or .jpg</div>
-                    <span ref="messageError" class="image-error-text"></span>
-                    </p>
-                  </div>
-                </uploader>
-                <div v-else class="multiple-uploader">
-                  <div class="ib_upload"  v-for="(post,i) in postSrc" :key="i">
-                    <div class="image-wrapper">
-                      <div class="edit-delete-wrapper">
-                        <uploader :multiple="false" @submit-image="uploadImage($event,'body',i)" @validated="validation($event)">
-                        <span class="delete-icon">
-                          {{- partial "icons/edit.html" -}}
+                      <div class="glide-controls" data-glide-el="controls" v-show="showGlideControls">
+                        <span class="swiper-previous glide-control-btn" data-glide-dir="<">
+                          {{- partial "icons/left-arrow.html" -}}
                         </span>
-                      </uploader>
-                        <span class="delete-icon" style="margin-top: 4px;" @click="deletePost(post)">
-                          {{- partial "icons/delete.html" -}}
+                        <span class="swiper-next glide-control-btn" data-glide-dir=">">
+                          {{- partial "icons/right-arrow.html" -}}
                         </span>
                       </div>
-                      <img class="preview-image-body" :src="post" alt="">
                     </div>
                   </div>
-                 <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                  <div class="ib_upload uploader">
-                    <div class="image-wrapper">
-                      <span> {{- partial "icons/add.html" -}}</span>
-                    </div>
-                  </div>
-                  </uploader>
                 </div>
-              </div>
-              <div class="mockup__configuration-ad-action">
-                <h4 class="mockup__title">
-                  Call to action
-                </h4>
-                <p class="mockup__description">
-                  The displayed CTA on the bottom of the ad
-                </p>
-                <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
-                  @option-select="optionSelect($event)"></dropdown>
-              </div>
-              <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3">
-                <h4 class="mockup__title">
-                  Likes
-                </h4>
-                <p class="mockup__description">
-                  Set the number of likes for your post. Numeric input only.
-                </p>
-                <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                  @input="addLikes($event,'likes')" class="likes-count-input" type="number" placeholder="15">
-              </div>
-              <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3 && activeAd.type === 'Reel'" style="margin-top: 24px;">
-                <h4 class="mockup__title">
-                  Comments
-                </h4>
-                <p class="mockup__description">
-                  Set the number of comments for your post. Numeric input only.
-                </p>
-                <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                  @input="addLikes($event,'comments')" class="likes-count-input" type="number" placeholder="34">
-              </div>
-              <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
-                <h4 class="mockup__title">
-                  Caption
-                </h4>
-                <p class="mockup__description">
-                  Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
-                  or less.
-                </p>
-                <textarea @input="addCaption($event, 90,'Instagram')" maxlength="2200" class="message-textarea" v-model="caption"
-                  placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
+                <div class="profile__input-wrapper">
+                  <span class="mockup__title">Profile picture and username</span>
+                  <div class="uploader-wrapper">
+                    <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
+                      <span class="upload-image-wrapper">
+                        <span v-if="!dpSrc">{{- partial "icons/upload-img-logo.html" -}}</span>
+                        <img v-else :src="dpSrc ? dpSrc : ''" alt=""> 
+                      </span> 
+                    </uploader>
+                    <div class="input-wrapper">
+                      <input v-model="profileName" @keyDown="onKeyDown" type="text" id="account-name-input"
+                        class="mockup-input" placeholder="username" maxlength="20" />
+                    </div>
+                  </div>
+                </div>
+                <div class="mockup__configuration-dropzone-wrapper">
+                  <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
+                    v-else>Image</span>
+                  <span class="mockup__description">Recommended image size is 
+                    <span>{activeAd.resolution}</span>&nbsp;pixels</span>
+                    <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
+                    @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="upload_placeholder-wrapper">
+                      {{- partial "icons/upload-placeholder.html" -}}
+                      <p><span>Click to upload</span> or drag-and-drop</br>
+                      <div class="sub-droparea-text">Supports only .png or .jpg</div>
+                      <span ref="messageError" class="image-error-text"></span>
+                      </p>
+                    </div>
+                  </uploader>
+                  <div v-else class="multiple-uploader">
+                    <div class="ib_upload"  v-for="(post,i) in postSrc" :key="i">
+                      <div class="image-wrapper">
+                        <div class="edit-delete-wrapper">
+                          <uploader :multiple="false" @submit-image="uploadImage($event,'body',i)" @validated="validation($event)">
+                          <span class="delete-icon">
+                            {{- partial "icons/edit.html" -}}
+                          </span>
+                        </uploader>
+                          <span class="delete-icon" style="margin-top: 4px;" @click="deletePost(post)">
+                            {{- partial "icons/delete.html" -}}
+                          </span>
+                        </div>
+                        <img class="preview-image-body" :src="post" alt="">
+                      </div>
+                    </div>
+                  <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="ib_upload uploader">
+                      <div class="image-wrapper">
+                        <span> {{- partial "icons/add.html" -}}</span>
+                      </div>
+                    </div>
+                    </uploader>
+                  </div>
+                </div>
+                <div class="mockup__configuration-ad-action">
+                  <h4 class="mockup__title">
+                    Call to action
+                  </h4>
+                  <p class="mockup__description">
+                    The displayed CTA on the bottom of the ad
+                  </p>
+                  <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
+                    @option-select="optionSelect($event)"></dropdown>
+                </div>
+                <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3">
+                  <h4 class="mockup__title">
+                    Likes
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of likes for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    @input="addLikes($event,'likes')" class="likes-count-input" type="number" placeholder="15">
+                </div>
+                <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3 && activeAd.type === 'Reel'" style="margin-top: 24px;">
+                  <h4 class="mockup__title">
+                    Comments
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of comments for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    @input="addLikes($event,'comments')" class="likes-count-input" type="number" placeholder="34">
+                </div>
+                <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
+                  <h4 class="mockup__title">
+                    Caption
+                  </h4>
+                  <p class="mockup__description">
+                    Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
+                    or less.
+                  </p>
+                  <textarea @input="addCaption($event, 90,'Instagram')" maxlength="2200" class="message-textarea" v-model="caption"
+                    placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
+                </div>
               </div>
             </div>
-          </div>
-          <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section"
-            id="mockup-preview">
-            <div class="preview-wrapper-mobile">
-              <div id="mockup-download-img">
-                <div id="instagram-mockup-preview" class="mockup-preview-wrapper"
-                  v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
-                  <div class="preview-header">
-                    <div class="preview-creadincials">
-                      <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
-                      <div class="gradient-border">
-                        <div class="profile-picture-wrapper">
-                          <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
-                        </div>
-                      </div>
-                      </uploader>
-                      <div class="user-name-wrapper">
-                        <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                        <span class="sponcered-text">Sponsored</span>
-                      </div>
-                    </div>
-                    {{- partial "icons/more-option.html" -}}
-                  </div>
-                  <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)" >
-                  <div class="preview-body" id="post-body" :style="getComputedHeight">
-                    <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
-                    <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                        recommended<span></span>
-                  </div>
-                  </uploader>
-                  <uploader v-else  :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                  <div   class="preview-body" id="post-body" :style="getComputedHeight">
-                      <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2
-                        ?postSrc.length:2}</span>
-                      <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                          recommended</span></span>
-                      <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
-                    </div>
-                  </uploader>
-                  <div class="preview_banner-wrapper">
-                    <div class="preview-banner-cta">
-                      <span>{selectedPreviewCTA.name}</span>
-                      {{- partial "icons/right-chevron.html" -}}
-                    </div>
-                  </div>
-                  <div class="preview-cta">
-                    <div class="like-share-comment">
-                      {{- partial "icons/like.html" -}}
-                      {{- partial "icons/comment-insta.html" -}}
-                      {{- partial "icons/chat.html" -}}
-                    </div>
-                    <div v-if="activeAd.id === 4" class="carousel-pagination"><span
-                        v-for="(dot,i) in postSrc.length >=2 ?postSrc : [1,2]" :key="dot" class="carousel-dot"
-                        :class="{active: activePost === i}"></span></div>
-                    {{- partial "icons/save.html" -}}
-                  </div>
-                  <div class="preview-description">
-                    <div class="previwe-likes" :key="likes">
-                      {likes} {likes > 1 ? 'Likes' : 'Like'}
-                    </div>
-                    <div class="preview-caption" id="preview-caption"
-                      style="height: auto;">
-                      <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username'}</span>
-                        <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
-                        class="see-more" @click="seeMoreExpand">...See More</span>
-                    </div>
-                  </div>
-                </div>
-                <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
-                  <div class="header-wrapper">
-                    <div class="line">
-                    </div>
+            <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section"
+              id="mockup-preview">
+              <div class="preview-wrapper-mobile">
+                <div id="mockup-download-img">
+                  <div id="instagram-mockup-preview" class="mockup-preview-wrapper"
+                    v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
                     <div class="preview-header">
                       <div class="preview-creadincials">
                         <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
-                        <div class="profile-picture-wrapper">
-                          <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                        <div class="gradient-border">
+                          <div class="profile-picture-wrapper">
+                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                          </div>
                         </div>
                         </uploader>
                         <div class="user-name-wrapper">
@@ -239,102 +176,165 @@
                           <span class="sponcered-text">Sponsored</span>
                         </div>
                       </div>
-                      <div class="story-options">
-                        {{- partial "icons/more.html" -}}
-                        {{- partial "icons/cross-story.html" -}}
+                      {{- partial "icons/more-option.html" -}}
+                    </div>
+                    <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)" >
+                    <div class="preview-body" id="post-body" :style="getComputedHeight">
+                      <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
+                      <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                          recommended<span></span>
+                    </div>
+                    </uploader>
+                    <uploader v-else  :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div   class="preview-body" id="post-body" :style="getComputedHeight">
+                        <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2
+                          ?postSrc.length:2}</span>
+                        <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                            recommended</span></span>
+                        <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
+                      </div>
+                    </uploader>
+                    <div class="preview_banner-wrapper">
+                      <div class="preview-banner-cta">
+                        <span>{selectedPreviewCTA.name}</span>
+                        {{- partial "icons/right-chevron.html" -}}
+                      </div>
+                    </div>
+                    <div class="preview-cta">
+                      <div class="like-share-comment">
+                        {{- partial "icons/like.html" -}}
+                        {{- partial "icons/comment-insta.html" -}}
+                        {{- partial "icons/chat.html" -}}
+                      </div>
+                      <div v-if="activeAd.id === 4" class="carousel-pagination"><span
+                          v-for="(dot,i) in postSrc.length >=2 ?postSrc : [1,2]" :key="dot" class="carousel-dot"
+                          :class="{active: activePost === i}"></span></div>
+                      {{- partial "icons/save.html" -}}
+                    </div>
+                    <div class="preview-description">
+                      <div class="previwe-likes" :key="likes">
+                        {likes} {likes > 1 ? 'Likes' : 'Like'}
+                      </div>
+                      <div class="preview-caption" id="preview-caption"
+                        style="height: auto;">
+                        <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username'}</span>
+                          <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
+                          class="see-more" @click="seeMoreExpand">...See More</span>
                       </div>
                     </div>
                   </div>
-                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                  <div class="preview-body" id="story-body" :style="getComputedHeight">
-                    <div class="story-overlay"></div>
-                    <img class="preview-image-body" v-if="postSrc[0]"
-                      :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
-                    <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                        recommended</span></span>
-                  </div>
-                  </uploader>
-                  <div class="story__preview-footer">
-                    <div class="cta">
-                      {{- partial "icons/up-chevron.html" -}}
-                      <span>
-                        {selectedPreviewCTA.name}
-                      </span>
-                    </div>
-                    <div class="cta-wrapper">
-                      {{- partial "icons/dm-wh.html" -}}
-                    </div>
-                  </div>
-                </div>
-                <div id="instagram-mockup-preview" v-if="activeAd.type === 'Reel'" class="mockup_preview-story">
-                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                  <div class="preview-body" id="story-body" :style="getComputedHeight">
-                    <!-- <div class="story-overlay"></div> -->
-                    <img class="preview-image-body" v-if="postSrc[0]"
-                      :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
-                    <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                        recommended</span></span>
-                  </div>
-                  </uploader>
-                  <div class="story__preview-footer reel-footer">
-                    <div class="reel-description-area">
-                      <div class="reel_preview-creadincials">
-                        <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
-                        <div class="profile-picture-wrapper">
-                          <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                  <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
+                    <div class="header-wrapper">
+                      <div class="line">
+                      </div>
+                      <div class="preview-header">
+                        <div class="preview-creadincials">
+                          <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
+                          <div class="profile-picture-wrapper">
+                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                          </div>
+                          </uploader>
+                          <div class="user-name-wrapper">
+                            <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
+                            <span class="sponcered-text">Sponsored</span>
+                          </div>
                         </div>
-                        </uploader>
-                        <div class="user-name-wrapper">
-                          <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                          <span class="sponcered-text">Sponsored</span>
+                        <div class="story-options">
+                          {{- partial "icons/more.html" -}}
+                          {{- partial "icons/cross-story.html" -}}
                         </div>
                       </div>
-                      <div class="preview-caption" id="preview-caption">
-                        <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
-                        class="see-more" @click="seeMoreExpand">...See More</span>  
                     </div>
-                      <div class="reel-cta">
+                    <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="preview-body" id="story-body" :style="getComputedHeight">
+                      <div class="story-overlay"></div>
+                      <img class="preview-image-body" v-if="postSrc[0]"
+                        :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
+                      <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                          recommended</span></span>
+                    </div>
+                    </uploader>
+                    <div class="story__preview-footer">
+                      <div class="cta">
+                        {{- partial "icons/up-chevron.html" -}}
+                        <span>
                           {selectedPreviewCTA.name}
+                        </span>
+                      </div>
+                      <div class="cta-wrapper">
+                        {{- partial "icons/dm-wh.html" -}}
                       </div>
                     </div>
-                    <div class="reel_action-area">
-                      <div class="action-wrapper">
-                        {{- partial "icons/reel-like.html" -}}
-                        <span>{likes}</span>
+                  </div>
+                  <div id="instagram-mockup-preview" v-if="activeAd.type === 'Reel'" class="mockup_preview-story">
+                    <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="preview-body" id="story-body" :style="getComputedHeight">
+                      <!-- <div class="story-overlay"></div> -->
+                      <img class="preview-image-body" v-if="postSrc[0]"
+                        :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
+                      <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                          recommended</span></span>
+                    </div>
+                    </uploader>
+                    <div class="story__preview-footer reel-footer">
+                      <div class="reel-description-area">
+                        <div class="reel_preview-creadincials">
+                          <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
+                          <div class="profile-picture-wrapper">
+                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                          </div>
+                          </uploader>
+                          <div class="user-name-wrapper">
+                            <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
+                            <span class="sponcered-text">Sponsored</span>
+                          </div>
+                        </div>
+                        <div class="preview-caption" id="preview-caption">
+                          <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
+                          class="see-more" @click="seeMoreExpand">...See More</span>  
                       </div>
-                      <div class="action-wrapper">
-                        {{- partial "icons/reel-comment.html" -}}
-                        <span>{comments}</span>
+                        <div class="reel-cta">
+                            {selectedPreviewCTA.name}
+                        </div>
                       </div>
-                      <div class="action-wrapper">
-                        {{- partial "icons/reel-send.html" -}}
-                      </div>
-                      <div class="action-wrapper">
-                        {{- partial "icons/reel-more.html" -}}
+                      <div class="reel_action-area">
+                        <div class="action-wrapper">
+                          {{- partial "icons/reel-like.html" -}}
+                          <span>{likes}</span>
+                        </div>
+                        <div class="action-wrapper">
+                          {{- partial "icons/reel-comment.html" -}}
+                          <span>{comments}</span>
+                        </div>
+                        <div class="action-wrapper">
+                          {{- partial "icons/reel-send.html" -}}
+                        </div>
+                        <div class="action-wrapper">
+                          {{- partial "icons/reel-more.html" -}}
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="preview-download-wrapper">
-              <button @click="downloadPng('instagram-mockup-preview','instagram-ad-mockup')" class="mockup-download-btn mockup-btn">
-                Download PNG
-              </button>
-              <button v-if="canCopy" @click="copyImage('instagram-mockup-preview')" class="mockup-copy-btn" @mouseleave="copied = false">
-                {{- partial "icons/copy-button.html" -}}
-                <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
-                <span v-else class="--tooltip-copy --sucess">Copied
-                  {{- partial "icons/check.html" -}}
-                </span>
-              </button>
+              <div class="preview-download-wrapper">
+                <button @click="downloadPng('instagram-mockup-preview','instagram-ad-mockup')" class="mockup-download-btn mockup-btn">
+                  Download PNG
+                </button>
+                <button v-if="canCopy" @click="copyImage('instagram-mockup-preview')" class="mockup-copy-btn" @mouseleave="copied = false">
+                  {{- partial "icons/copy-button.html" -}}
+                  <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
+                  <span v-else class="--tooltip-copy --sucess">Copied
+                    {{- partial "icons/check.html" -}}
+                  </span>
+                </button>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 </div>
 
 {{- if getenv "IS_PROD" -}}

@@ -1,6 +1,6 @@
 <div id="mockup_builder">
-{{ partial "site/unlock_calculator_popup.html" }}
-<section class="container mobile-adjusted">
+  {{ partial "site/unlock_calculator_popup.html" }}
+  <section class="container mobile-adjusted">
     <div>
       <div class="row" id="mockup__card-wrapper">
         <div :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
@@ -17,7 +17,6 @@
             </div>
             <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"
               class="mockup__configuration-wrapper col-sm-down-12">
-  
               <div class="mockup__configuration-section" id="mockup-controls">
                 <div class="mockup__configuration-header-wrapper">
                   <h4 class="mockup__configuration-title">Facebook</h4>
@@ -115,7 +114,7 @@
                         <img class="preview-image-body" :src="post" alt="">
                       </div>
                     </div>
-                   <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="ib_upload uploader">
                       <div class="image-wrapper">
                         <span> {{- partial "icons/add.html" -}}</span>
@@ -150,7 +149,7 @@
                   </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                     <h4 class="mockup__title">
-                     Headline
+                      Headline
                     </h4>
                     <!-- <p class="mockup__description">
                       set headline copy for post.
