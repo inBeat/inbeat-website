@@ -8,7 +8,9 @@
       <div class="close" @click="hideShowcasePopup">
         {{- partial "icons/close.html" -}}
       </div>
-      <img src="/images/showcase-img.png" alt="Showcase">
+      <video autoplay muted loop playsinline class="video">
+        <source src="/videos/CreatorStudio_Snippet.mp4" />
+      </video>   
       <div class="right-content">
         <span class="new-badge">NEW</span>
         <h1 class="title">UGC Platform</h1>
@@ -21,11 +23,7 @@
   </div>
 </section>
 
-{{- if getenv "IS_PROD" -}}
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-{{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-{{- end -}}
 
 <script>
   function setCookie(name, value, days) {
@@ -72,7 +70,7 @@
           setTimeout(() => {
             this.popupClass = "popupOverlay--fadeIn";
             this.handleState(true);
-          }, 10000);
+          }, 20000);
         }
       },
       hideShowcasePopup() {

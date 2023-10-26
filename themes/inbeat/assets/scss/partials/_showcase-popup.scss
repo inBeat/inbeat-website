@@ -96,13 +96,12 @@
         }
 
       }
-      img {
+      .video {
         width: 100%;
         @include breakpoint(xs) {
-         max-width: 100%;
+          max-height: 500px;
         }
       }
-
 
       .close {
         cursor: pointer;
