@@ -11,8 +11,8 @@ header:
   subtitle: Find thousands of look-alike influencers with automated similar profile & hashtag searches. 
   image: /images/features-deepsearch.png
   cta:
-      text: <span>Try it now</span> &#8212 it's free
-      link: https://app.inbeat.co/get-started
+      text: <span>Book a demo</span> &#8212 it's free
+      link: https://calendly.com/inbeatco/30min
   ctasecond:
       text: <span>►</span> See how it works 
 sections:
@@ -30,11 +30,4 @@ sections:
       text: You can go over the results we found, and select the ones that you want to contact. 
     - title: Bulk select 
       text: They all look good to you? Select them all with a single click with our Bulk Select feature.
-whatwedo:
-    title: Built-in & advanced influencer insights
-    text: Analyse your potential collaborations with deep influencer statistics to optimize your campaign performance.
-    video: influencer-statistics 
-    cta:
-        link: https://app.inbeat.co/get-started
-        text: Try it now — it's free
 ---

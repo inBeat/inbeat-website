@@ -4,7 +4,7 @@
     <h1>{{- .title | markdownify -}}</h1>
     <h4>{{- .subtitle | markdownify -}}</h4>
     <div class="cta">
-        <a href="{{- .cta.link -}}" target="_blank" class="btn btn-lg btn-crazy-hover" title="Get started" id="hero-cta">
+        <a href="{{- .cta.link -}}" target="_blank" class="btn btn-lg btn-crazy-hover" title="Book a demo" id="hero-cta">
             {{- htmlUnescape .cta.text | markdownify -}}
         </a>
         <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
@@ -21,8 +21,8 @@
         <div class="col-xs-12 col-md-4 left-col">
             <h2>{{- .title -}}</h2>
             <p>{{- .text | markdownify -}}</p>
-            <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="https://app.inbeat.co/get-started" target="_blank">
-              Sign up →
+            <a class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="https://calendly.com/inbeatco/30min" target="_blank">
+              Book a demo →
             </a>
             {{- with .question -}}
             <div id="tooltip-element" class="is-relative">
@@ -68,7 +68,7 @@
     </div>
 </section>
 
-{{- partial "site/ugc-global.html" . -}}
+{{- partial "site/whatwedo.html" . -}}
 
 {{- with .Params.startnow -}}
 <section class="container m-tb-160 mobile-adjusted" id="start-now">
@@ -76,8 +76,8 @@
         <div class="col-xs-12 col-md-4 col1">
             <h2>{{- .title -}}</h2>
             <h4>{{- .description -}}</h4>
-            <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy btn-md" target="_blank">
-                <span>Try it now</span> &#8212 it's free
+            <a href="https://calendly.com/inbeatco/30min" title="Book a demo" class="btn btn-crazy btn-md" target="_blank">
+                <span>Book a demo</span> &#8212 it's free
             </a>
             <p class="signin">
                 Already in the family?
