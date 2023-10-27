@@ -3,22 +3,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-md-5">
-                    {{ if isset . "video" }}
-                    <video class="whatwedo_video" autoplay muted loop playsinline>
-                        <source src="/videos/{{- .video -}}.mp4" />
-                    </video>  
-                    {{end}}
-                    {{ if isset . "image" }} 
-                    <img class="whatwedo_image"src="{{- .image -}}" alt=""> 
-                    {{end}}
+                  <img class="whatwedo_image" src="/images/showcase-img.png" alt="Showcase"> 
                 </div>
                 <div class="col-xs-12 col-md-6 whatwedo_description-section">
-                    <h2 class="whatwedo_description-title">{{- if .newBadge -}}
-                    <span class="new-badge hide-sm">New feature</span>
-                    {{- end -}}    {{- .title -}}</h2>
+                  <h2 class="whatwedo_description-title">
+                    {{- if .newBadge -}}
+                      <span class="new-badge">New!</span>
+                    {{- end -}}   
+                    {{- .title -}}
+                  </h2>
                     <p class="whatwedo_description-subtext">{{- .text -}}</p>
                     <div class="cta-whatwedo">
-                        <a href="{{- .cta.link -}}" class="btn btn-lg whatwedo-btn" title="Try it now" id="hero-cta">
+                        <a href="{{- .cta.link -}}" class="btn btn-lg whatwedo-btn" title="Sign up for free — On Showcase" id="hero-cta" target="_blank">
                             {{- htmlUnescape .cta.text | markdownify -}}
                         </a>
                     </div>

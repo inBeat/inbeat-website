@@ -98,13 +98,13 @@ resources:
     hasMorePage: true
     announcement:
       color: 393045
-      title: An inspiration library for UGC Ads.
-      topText: Curated, sorted & free!
+      title: Create high quality UGC ads.
+      topText: New Platform - Showcase
       cta:
-        text: Visit AdCollection
+        text: Sign up - For free
         color: FDE7E6
         title: Visit AdCollection
-        link: 'https://www.adcollection.co/'
+        link: 'https://www.showca.se/'
     pages:
       - name: Engagement rate calculator
         link: '/engagement-rate-calculator-instagram/'
