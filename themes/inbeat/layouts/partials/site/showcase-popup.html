@@ -1,29 +1,32 @@
-<section
-  id="showcasePopup"
-  :class="['showcase-popup', popupClass]"
-  v-cloak
-  v-if="showPopup">
-  <div class="sc-popup">
-    <div class="content">
-      <div class="close" @click="hideShowcasePopup">
-        {{- partial "icons/close.html" -}}
-      </div>
-      <video autoplay muted loop playsinline class="video">
-        <source src="/videos/CreatorStudio_Snippet.mp4" />
-      </video>   
-      <div class="right-content">
-        <span class="new-badge">NEW</span>
-        <h1 class="title">UGC Platform</h1>
-        <p class="text">Create high quality UGC with top creators.</p>
-        <a href="https://www.showca.se/" title="Sign up for free &#8212 On Showcase" class="btn btn-lg" target="_blank">
-          <span>Sign up for free</span> &#8212 On Showcase
-      </a>
+<div id="showcasePopup">
+  <section :class="['showcase-popup', popupClass]" v-cloak v-if="showPopup">
+    <div class="sc-popup">
+      <div class="content">
+        <div class="close" @click="hideShowcasePopup">
+          {{- partial "icons/close.html" -}}
+        </div>
+        <video autoplay muted loop playsinline class="video">
+          <source src="/videos/CreatorStudio_Snippet.mp4" />
+        </video>
+        <div class="right-content">
+          <span class="new-badge">NEW</span>
+          <h1 class="title">UGC Platform</h1>
+          <p class="text">Create high quality UGC with top creators.</p>
+          <a href="https://www.showca.se/" title="Sign up for free &#8212 On Showcase" class="btn btn-lg"
+            target="_blank">
+            <span>Sign up for free</span> &#8212 On Showcase
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+</div>
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- if getenv "IS_PROD" -}}
+<script src="https://unpkg.com/vue@3.3.7/dist/vue.global.prod.js"></script>
+{{- else -}}
+<script src="https://unpkg.com/vue@3.3.7/dist/vue.global.js"></script>
+{{- end -}}
 
 <script>
   function setCookie(name, value, days) {
@@ -46,8 +49,8 @@
     }
     return null;
   }
-  var app = new Vue({
-    el: "#showcasePopup",
+  const { createApp } = Vue;
+  const app = createApp({
     data() {
       return {
         showPopup: false,
@@ -57,7 +60,6 @@
         submissions: 0,
       };
     },
-    computed: {},
     mounted() {
       this.showShowcasePopup();
     },
@@ -95,6 +97,6 @@
         document.body.style.overflow = "";
       },
     },
-    delimiters: ["{", "}"],
   });
+  app.mount('#showcasePopup');
 </script>
