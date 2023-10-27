@@ -1,4 +1,6 @@
-<section class="container mobile-adjusted" id="mockup_builder">
+<div id="mockup_builder">
+  {{ partial "site/unlock_calculator_popup.html" }}
+  <section class="container mobile-adjusted">
     <div>
       <div class="row" id="mockup__card-wrapper">
         <div :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
@@ -15,7 +17,6 @@
             </div>
             <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"
               class="mockup__configuration-wrapper col-sm-down-12">
-  
               <div class="mockup__configuration-section" id="mockup-controls">
                 <div class="mockup__configuration-header-wrapper">
                   <h4 class="mockup__configuration-title">Facebook</h4>
@@ -113,7 +114,7 @@
                         <img class="preview-image-body" :src="post" alt="">
                       </div>
                     </div>
-                   <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="ib_upload uploader">
                       <div class="image-wrapper">
                         <span> {{- partial "icons/add.html" -}}</span>
@@ -148,7 +149,7 @@
                   </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                     <h4 class="mockup__title">
-                     Headline
+                      Headline
                     </h4>
                     <!-- <p class="mockup__description">
                       set headline copy for post.
@@ -352,7 +353,7 @@
       </div>
     </div>
   </section>
-  
+</div>
   {{- if getenv "IS_PROD" -}}
   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
   {{- else -}}
@@ -364,6 +365,7 @@
   {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
   {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
   {{- partial "site/ad-mockup-generator/captionMixin.html" -}}
+  {{- partial "site/mixin/unlockCalculator.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -581,7 +583,7 @@
       })
       var app = new Vue({
         el: '#mockup_builder',
-        mixins: [adFormatHeightMixin,uploadMixin,generalMixin,captionMixin],
+        mixins: [adFormatHeightMixin, uploadMixin, generalMixin, captionMixin, unlockCalculator],
         data: {
               ctaOptions: [{name:'Download',code:'DW'},{name:'Learn more',code:'LN'},{name:'Apply now',code:'AN'},{name:'Shop now',code:'SN'},{name:'Watch more',code:'WM'},{name:'Subscribe',code:'SB'},{name:'Find Yout Groups',code:'FYG'},{name:'Try in Camera',code:'TIC'},{name:'Sign up',code:'SU'},{name:'Book now',code:'BN'},{name:'Call now',code:'CN'},{name:'Contact us',code:'CU'},{name:'Listen Now',code:'LN'},{name:'Get showtimes',code:'GST'},{name:'Order now',code:'ORDE'},{name:'Get directions',code:'GDRE'},{name:'See menu',code:'CME'},{name:'Get quote',code:'GQUO'},{name:'Send message',code:'SEM'},{name:'Send WhatsApp message',code:'SENWMSG'},{name:'Request time',code:'RQT'},{name:'Dial code',code:'DIC'}],
               activeTab: 'controls',

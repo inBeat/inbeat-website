@@ -14,6 +14,7 @@
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
+    {{ partial "site/unlock_calculator_popup.html" }}
     {{ $content := partial "site/engagementRateForm.html" .}}
     <section id="ffc-calculator" class="container mobile-adjusted">
         {{- if $maintenance -}}
@@ -232,11 +233,12 @@
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
 {{- partial "site/emailCaptureMixin.html" -}}
+{{- partial "site/mixin/unlockCalculator.html" -}}
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
         el: '#ffc-calculator__wrap',
-        mixins: [emailCaptureMixin],
+        mixins: [emailCaptureMixin, unlockCalculator],
         data() {
             return {
                 username: '',
@@ -377,6 +379,9 @@
               if (username == '') {
                   this.error = 'Please enter a username.';
                   return;
+              }
+              if (!this.initialSearch) {
+                this.showUnlockPopup()
               }
               this.loading = true;
               var _this = this;

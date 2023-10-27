@@ -6,6 +6,10 @@
           },
         methods: {
             downloadPng(target,name){
+
+              if (this.showUnlockPopup()) {
+                  return;
+              }
                 var preview = document.getElementById(target)
                 html2canvas(preview)
                 .then(function(canvas){
