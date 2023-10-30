@@ -13,8 +13,8 @@ hero:
   image: /images/features-quicksearch.png
   cta:
     text: >-
-      <span>Sign Up</span>
-    link: "https://app.inbeat.co/get-started"
+      <span>Book a demo</span>
+    link: "https://calendly.com/inbeatco/30min"
 features:
   - id: search
     # class: popupTrigger
@@ -24,7 +24,7 @@ features:
       keywords to find the profiles you need.
     link:
       text: Book a demo &#8594;
-      link: "https://calendly.com/inbeat-co/inbeat-co-demo"
+      link: "https://calendly.com/inbeatco/30min"
       external: true
     question:
       text: How do you spam-check your influencers?
@@ -38,7 +38,7 @@ features:
       <span>Quickly</span> go through results and add the fitting influencers to your list. 
     link:
       text: Book a demo &#8594;
-      link: "https://calendly.com/inbeat-co/inbeat-co-demo"
+      link: "https://calendly.com/inbeatco/30min"
       external: true
     question:
       text: Database vs marketplace?
@@ -52,7 +52,7 @@ features:
       Once your list is ready, you can export all <span>contact information</span> in a click. 
     link:
       text: Book a demo &#8594;
-      link: "https://calendly.com/inbeat-co/inbeat-co-demo"
+      link: "https://calendly.com/inbeatco/30min"
       external: true
     question:
       text: What can I do with the exports?

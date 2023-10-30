@@ -11,8 +11,8 @@ header:
   subtitle: Get thousands of Influencer E-mails & info quickly & export it to a CSV sheet.
   image: /images/features-exportcontact.png
   cta:
-      text: <span>Try it now</span> &#8212 it's free
-      link: https://app.inbeat.co/get-started
+      text: <span>Book a demo</span> &#8212 it's free
+      link: https://calendly.com/inbeatco/30min
 sections:
   - title: Get all influencer information
     image: /images/features-contactexport-getallinfluencerinformation.png
@@ -28,11 +28,4 @@ sections:
       text: You can import the CSV directly into a mass E-mail client or contact the influencers directly.
     - title: By Direct Message 
       text: You can send them a message by their respective social media.
-whatwedo:
-    title: Evaluate influencers with insights
-    text: Our influencer analytics widget empowers you to get to know exactly who you’re collaborating with.
-    video: influencer-statistics 
-    cta:
-        link: https://app.inbeat.co/get-started
-        text: Try it now — it's free
 ---

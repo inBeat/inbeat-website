@@ -11,8 +11,8 @@ header:
   subtitle: Instantly browse our database of millions of TikTok & Instagram influencers.
   image: /images/features-quicksearch.png
   cta:
-      text: <span>Try it now</span> &#8212 it's free
-      link: https://app.inbeat.co/get-started
+      text: <span>Book a demo</span> &#8212 it's free
+      link: https://calendly.com/inbeatco/30min
 sections:
   - title: Search engine with filtering
     image: /images/features-quicksearch-searchenginewithfiltering.png
@@ -28,11 +28,4 @@ sections:
       text: Carefully go through each influencer and add them one by one to your list. 
     - title: Bulk select 
       text: In a hurry? Build lists of hundreds of influencers in seconds with Bulk Select. 
-whatwedo:
-  title: Detailed Influencer statistics & analytics
-  text: Our built-in influencer analytics tool allows you to know exactly who you’re working with. Gain insight on general Influencer performance & their past collaborations.
-  video: influencer-statistics 
-  cta:
-    link: https://app.inbeat.co/get-started
-    text: Try it now — it's free
 ---

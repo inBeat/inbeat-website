@@ -686,4 +686,19 @@ roas_calculator:
           For example, if your advertising campaign cost $5,000 and generates $10,000 in profit, your
           break-even ROAS would be 500/1000 = 0.5. This means that to break even on your advertising
           campaign, you need a ROAS of at least 0.5.
-
+ugc_marketplace:
+  - question: How do you curate your UGC marketplace?
+    answer: >-
+      We handpick the cream of the crop — the top 2% of each niche — ensuring that the creators you partner with are in tune with your industry's nuances. Our selection is based on various criteria tailored to your specifications such as location, gender, lifestyle, and niche.
+  - question: What types of content can I produce through Showcase?
+    answer: >-
+      Showcase's UGC marketplace empowers you to craft diverse promotional content, from unboxings and testimonials to app showcases and lifestyle captures. And while many creators focus on platforms like Instagram and TikTok, the content is versatile enough for use across your website and all major social channels including Facebook, Snapchat, and more.
+  - question: Why should I opt for a UGC marketplace?
+    answer: >-
+      Leveraging a UGC marketplace like Showcase streamlines the process of tapping into creators, enabling large-scale content creation without the usual stresses. Experience quality, resonant content crafted by creators who truly understand and resonate with your target audience.
+  - question: How much influence do I have over the content's creative direction?
+    answer: >-
+      Whether you want a precise creative outline followed to the letter or prefer granting creators a broader canvas to work on, Showcase accommodates your preferences.
+  - question: Do I retain full rights to the UGC content generated for my brand?
+    answer: >-
+      Absolutely! All content produced via Showcase is yours to own and utilize across any facet of your business, anytime you wish. Your brand retains full rights, giving you full freedom.
