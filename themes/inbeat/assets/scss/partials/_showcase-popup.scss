@@ -46,13 +46,14 @@
       }
 
       @include breakpoint(md-down) {
-        padding: 40px;
+        padding: 32px;
+        padding-top: 24px;
       }
 
       .right-content {
         height: 100%;
         display: flex;
-        padding-top: 32px;
+        padding-top: 18px;
         flex-direction: column;
         justify-content: center;
 
@@ -97,9 +98,12 @@
 
       }
       .video {
+        height: 300px;
         width: 100%;
-        @include breakpoint(xs) {
+        object-fit: cover;
+        @include breakpoint(sm) {
           max-height: 500px;
+          width: 100%;
         }
       }
 
