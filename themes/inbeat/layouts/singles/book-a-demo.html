@@ -1,0 +1,198 @@
+
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Book a Demo</title>
+</head>
+
+<div id="bookDemo" class="parent">
+  <section id="form" v-if="!isNotBusiness">
+    <h1 class="title">Book a demo</h1>
+    <form id="demoForm" class="form" @submit.prevent="submitForm">
+      <div class="form-field">
+        <div class="input-parent">
+          <div class="input-group">
+            <label for="firstName">First name</label>
+            <input type="text" id="firstName" v-model="formData.firstName" required>
+          </div>
+          <div class="input-group">
+            <label for="lastName">Last name</label>
+            <input type="text" id="lastName" v-model="formData.lastName" required>
+          </div>
+        </div>
+        <div class="input-group">
+          <label for="email">Business e-mail</label>
+          <input type="email" id="email" v-model="formData.email" required>
+        </div>
+        <div class="input-group">
+          <label for="companyName">Company name</label>
+          <input type="text" id="companyName" v-model="formData.companyName" required>
+        </div>
+      </div>
+      <button type="submit" class="cta">Continue</button>
+    </form>
+  </section>
+  <section id="thankYou" class="thank-you" v-else>
+    <h1 class="title">Thank you for your <br /> interest</h1>
+    <a href="/"><button class="cta">Back to homepage</button></a>
+  </section>
+  <div class="bottom-banner"></div>
+</div>
+
+
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+
+  .parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    position: relative;
+  }
+
+  .form-field {
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+  }
+
+  .title {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.84px;
+    text-align: center;
+    margin-bottom: 42px;
+  }
+
+  input {
+    display: flex;
+    padding: 12px 10px !important;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    font-size: 14px !important;
+    font-weight: 400;
+    border: 1px solid #D6D6D6;
+  }
+
+  .input-parent {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .input-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  label {
+    color: #2D2D2D;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.084px;
+  }
+
+  .cta {
+    background-color: black !important;
+    border-radius: 8px;
+    padding: 12px 0;
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 24px;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+  }
+
+  .cta:hover {
+    background-color: #1b1b1b !important;
+  }
+
+  .bottom-banner {
+    position: absolute;
+    bottom: 0;
+    height: 34px;
+    width: 100%;
+    background: var(--super-light-animated, linear-gradient(-90deg, #FFE9F0 0%, #FAECDB 51.04%, #D6EBE4 100%));
+  }
+
+  @media (max-width: 576px) {
+    .input-parent {
+      flex-direction: column;
+    }
+
+    .form {
+      width: 320px;
+    }
+
+  }
+
+  .thank-you {
+    display: flex;
+    flex-direction: column;
+    padding: 0 32px;
+  }
+</style>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://unpkg.com/vue@3.3.7/dist/vue.global.prod.js"></script>
+{{- else -}}
+<script src="https://unpkg.com/vue@3.3.7/dist/vue.global.js"></script>
+{{- end -}}
+
+<script>
+  const { createApp } = Vue;
+
+  const bookDemo = createApp({
+    data() {
+      return {
+        formData: {
+          firstName: '',
+          lastName: '',
+          email: '',
+          companyName: ''
+        },
+        isNotBusiness: false,
+      };
+    },
+    methods: {
+      isBusinessEmail(email) {
+        const freeEmailDomains = [
+          'gmail.com', 'yahoo.com', 'outlook.com', 'hotmail.com', 'aol.com',
+          'icloud.com', 'mail.com', 'zoho.com', 'protonmail.com', 'yandex.com',
+          'live.com', 'msn.com', 'yahoo.co.uk', 'comcast.net', 'verizon.net',
+          'sbcglobal.net', 'att.net', 'cox.net'
+        ];
+        const domain = email.split('@')[1];
+        return !freeEmailDomains.includes(domain);
+      },
+
+      submitForm() {
+        if (this.isBusinessEmail(this.formData.email)) {
+          const { firstName, lastName, email, companyName } = this.formData;
+          const businessUrl = "https://meetings.hubspot.com/david-morneau/showcase?email=" + email
+            + "&firstName=" + firstName
+            + "&lastName=" + lastName
+            + "&company=" + companyName;
+          window.location.href = businessUrl;
+        } else {
+          this.isNotBusiness = true;
+        }
+      },
+    }
+  }).mount('#bookDemo');
+</script>

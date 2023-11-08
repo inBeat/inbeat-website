@@ -21,7 +21,7 @@
         <div class="col-xs-12 col-md-4 left-col">
             <h2>{{- .title -}}</h2>
             <p>{{- .text | markdownify -}}</p>
-            <a class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="https://calendly.com/inbeatco/30min" target="_blank">
+            <a class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="/book-a-demo" target="_blank">
               Book a demo →
             </a>
             {{- with .question -}}
@@ -76,7 +76,7 @@
         <div class="col-xs-12 col-md-4 col1">
             <h2>{{- .title -}}</h2>
             <h4>{{- .description -}}</h4>
-            <a href="https://calendly.com/inbeatco/30min" title="Book a demo" class="btn btn-crazy btn-md" target="_blank">
+            <a href="/book-a-demo" title="Book a demo" class="btn btn-crazy btn-md" target="_blank">
                 <span>Book a demo</span> &#8212 it's free
             </a>
             <p class="signin">
