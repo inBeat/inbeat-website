@@ -12,7 +12,7 @@ header:
   image: /images/features-exportcontact.png
   cta:
       text: <span>Book a demo</span> &#8212 it's free
-      link: https://calendly.com/inbeatco/30min
+      link: /book-a-demo
 sections:
   - title: Get all influencer information
     image: /images/features-contactexport-getallinfluencerinformation.png

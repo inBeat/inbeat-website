@@ -12,7 +12,7 @@ header:
   image: /images/features-deepsearch.png
   cta:
       text: <span>Book a demo</span> &#8212 it's free
-      link: https://calendly.com/inbeatco/30min
+      link: /book-a-demo
   ctasecond:
       text: <span>►</span> See how it works 
 sections:
