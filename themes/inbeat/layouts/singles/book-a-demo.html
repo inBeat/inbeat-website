@@ -4,7 +4,7 @@
   <body>
     {{ partial "header/gtm.html" . }}
     <div id="bookDemo" class="parent">
-      <section id="form" v-if="!isNotBusiness">
+      <section id="form" v-if="!isThankYou && !isbookingRedirect">
         <h1 class="title">Book a demo</h1>
         <form id="demoForm" class="form" @submit.prevent="submitForm">
           <div class="form-field">
@@ -30,9 +30,14 @@
           <button type="submit" class="cta">Continue</button>
         </form>
       </section>
-      <section id="thankYou" class="thank-you" v-else>
+      <section id="thankYou" class="thank-you" v-if="isThankYou">
         <h1 class="title">Thank you for your <br /> interest</h1>
         <a href="/"><button class="cta">Back to homepage</button></a>
+      </section>
+      <section class="book-completed" v-if="isbookingRedirect">
+       <h1 class="title">You’re all set!</h1>
+       <p class="subtitle">During our call, our team will walk you through how Showcase works</p>
+       <p class="notice">You can close this page</p>
       </section>
       <div class="bottom-banner"></div>
     </div>
@@ -69,6 +74,15 @@
     letter-spacing: -0.84px;
     text-align: center;
     margin-bottom: 42px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.36px;
+    text-align: center;
+    margin-top: 0;
   }
 
   input {
@@ -143,6 +157,27 @@
     flex-direction: column;
     padding: 0 32px;
   }
+
+  .book-completed {
+    display: flex;
+    flex-direction: column;
+    padding: 0 32px;
+    text-align: center;
+  }
+
+  .book-completed .title {
+    margin-bottom: 12px !important; 
+  }
+
+  .book-completed .notice {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.24px;
+    color: #2D2D2D;
+    opacity: .5;
+    margin-top: 24px;
+  }
 </style>
 
 {{- if getenv "IS_PROD" -}}
@@ -163,8 +198,14 @@
           email: '',
           companyName: ''
         },
-        isNotBusiness: false,
+        isThankYou: false,
+        isbookingRedirect: false,
+        queryParams: {} 
       };
+    },
+    created() {
+        this.parseQueryParams();
+        this.isbookingRedirect = this.queryParams.bookademo === 'true';
     },
     methods: {
       isBusinessEmail(email) {
@@ -177,7 +218,11 @@
         const domain = email.split('@')[1];
         return !freeEmailDomains.includes(domain);
       },
-
+      parseQueryParams() {
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        this.queryParams = Object.fromEntries(urlParams.entries());
+      },
       submitForm() {
         if (this.isBusinessEmail(this.formData.email)) {
           const { firstName, lastName, email, companyName } = this.formData;
@@ -187,7 +232,7 @@
             + "&company=" + companyName;
           window.location.href = businessUrl;
         } else {
-          this.isNotBusiness = true;
+          this.isThankYou = true;
         }
       },
     }
