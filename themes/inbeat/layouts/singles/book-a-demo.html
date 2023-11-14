@@ -4,7 +4,16 @@
   <body>
     {{ partial "header/gtm.html" . }}
     <div id="bookDemo" class="parent">
-      <section id="form" v-if="!isThankYou && !isbookingRedirect">
+      <section class="book-completed" v-if="isbookingRedirect">
+        <h1 class="title">You’re all set!</h1>
+        <p class="subtitle">During our call, our team will walk you through how Showcase works</p>
+        <p class="notice">You can close this page</p>
+      </section>
+      <section id="thankYou" class="thank-you" v-if="isThankYou">
+        <h1 class="title">Thank you for your <br /> interest</h1>
+        <a href="/"><button class="cta">Back to homepage</button></a>
+      </section>
+      <section id="form" v-else-if="!isbookingRedirect">
         <h1 class="title">Book a demo</h1>
         <form id="demoForm" class="form" @submit.prevent="submitForm">
           <div class="form-field">
@@ -29,15 +38,6 @@
           </div>
           <button type="submit" class="cta">Continue</button>
         </form>
-      </section>
-      <section id="thankYou" class="thank-you" v-if="isThankYou">
-        <h1 class="title">Thank you for your <br /> interest</h1>
-        <a href="/"><button class="cta">Back to homepage</button></a>
-      </section>
-      <section class="book-completed" v-if="isbookingRedirect">
-       <h1 class="title">You’re all set!</h1>
-       <p class="subtitle">During our call, our team will walk you through how Showcase works</p>
-       <p class="notice">You can close this page</p>
       </section>
       <div class="bottom-banner"></div>
     </div>
