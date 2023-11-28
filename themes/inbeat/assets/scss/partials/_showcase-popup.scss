@@ -34,7 +34,7 @@
       grid-gap: 6px;
       justify-items: center;
       align-items: center;
-      padding: 24px 64px 96px ;
+      padding: 64px;
 
       @include breakpoint(sm) {
         width: fit-content;
@@ -45,9 +45,12 @@
         grid-template-columns: 1fr 1fr;
       }
 
+      @include breakpoint(md) {
+       width: 720px;
+      }
+
       @include breakpoint(md-down) {
         padding: 32px;
-        padding-top: 24px;
       }
 
       .right-content {
