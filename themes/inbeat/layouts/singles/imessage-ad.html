@@ -1,0 +1,16 @@
+{{- define "main" -}}
+<div id="imessage-ad">
+  <section class="container mobile-adjusted page-top" id="imessage-ad-header">
+    <div class="aside-text">
+      <h1>{{- .Params.title -}}</h1>
+      <p>{{- .Params.subtitle | markdownify -}}</p>
+      <a href="{{- .Params.ctalink -}}" title="Open in Figma" class="btn btn-lg" target="_blank">Open in Figma</a>
+    </div>
+    <img class="whatwedo_image" src="/images/imessage-ad.png" alt="Showcase"> 
+  </section>
+
+  {{- partial "site/whatwedo.html" . -}}
+  {{- partial "site/related-tools.html" . -}}
+  {{- partial "site/faq.html" (dict "context" . "faq" .Params.faq "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+</div>
+{{- end -}}
