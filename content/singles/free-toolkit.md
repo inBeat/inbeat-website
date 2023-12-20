@@ -42,6 +42,10 @@ toolkits:
       text: Calculate Engagement Rate directly on Instagram, add profiles to a list & export it to a csv file!
       icon: freetoolkit-engagement-calculator-chrome-extension
       url: engagement-rate-chrome-extension
+    - title: iMessage <br> ad template
+      text: Create engaging, personalized ads with our easy-to-use 'iMessage' style Figma template.
+      icon: freetoolkit-imessage-ad
+      url: imessage-ad
   - AdMockupGenerators:
     subtitle: Ad mockup generators
     tools:

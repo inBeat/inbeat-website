@@ -1,0 +1,60 @@
+#imessage-ad {
+  #imessage-ad-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12.5rem;
+    margin-bottom: 6.5rem;
+
+    .aside-text {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+    }
+
+    @include breakpoint(sm-down) {
+      img {
+        width: 100%;
+      }
+    }
+
+    @include breakpoint(md) {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4.375rem;
+      text-align: center;
+      margin-bottom: 12.5rem;
+
+      .aside-text {
+        align-items: baseline;
+        margin: auto 0;
+      }
+
+      img {
+        width: 100%;
+      }
+
+      h1 {
+        text-align: left;
+        font-size: 4rem;
+        line-height: 4.6rem;
+      }
+
+      p {
+        text-align: left;
+        margin-top: 0;
+      }
+    }
+  }
+}
