@@ -1,5 +1,5 @@
 <transition name="fade">
-  <div id="unlockCalculator" :class="['unlock-calculator-popup', popupClass]" v-if="showPopup">
+  <div id="unlockCalculator" :class="['unlock-calculator-popup', popupClass]" v-if="showPopup" v-cloak>
     <div class="popup popup--fadeIn"> 
         <div class="content">
           <div class="content-group">
