@@ -1,5 +1,6 @@
 {{- define "main" -}}
 {{- with .Params -}}
+{{ partial "site/adcollection-popup.html" }}
 <section class="container mobile-adjusted" id="mockup-hero">
     <div class="hero_mockup-header">
         <h1>{{- .hero.title | markdownify -}}</h1>

@@ -9,6 +9,7 @@
 {{- $username = "watchaswewander" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
+{{ partial "site/showcase-popup.html" }}
 <div id="ffc-calculator__wrap">
     <section class="container mobile-adjusted page-top" id="ffc-header">
         <h1>{{- .Params.titre -}}</h1>

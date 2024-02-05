@@ -1,0 +1,100 @@
+<div id="adcollectionPopup">
+  <section :class="['adcollection-popup', popupClass]" v-cloak v-if="showPopup">
+    <div class="wrapper-popup">
+      <div class="content">
+        <div class="close" @click="hideShowcasePopup">
+          {{- partial "icons/close.html" -}}
+        </div>
+          <img alt="adcollection" src="/images/adcollection-popup.png" />
+        <div class="right-content">
+          <span class="new-badge">Enhance Your Marketing Skills</span>
+          <h1 class="title">Gain insights on creating high-performing ads.</h1>
+          <p class="text">Ad inspiration, analysis & insights into all things digital advertising, delivered weekly to your inbox.</p>
+          <a href="https://adcollection.beehiiv.com/subscribe" title="Join the newsletter" class="btn btn-lg"
+            target="_blank">
+            Join the newsletter
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://unpkg.com/vue@3.3.7/dist/vue.global.prod.js"></script>
+{{- else -}}
+<script src="https://unpkg.com/vue@3.3.7/dist/vue.global.js"></script>
+{{- end -}}
+
+<script>
+  function setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(";");
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == " ") c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+  const { createApp } = Vue;
+  const scPopup = createApp({
+    data() {
+      return {
+        showPopup: false,
+        unlocked: false,
+        verifying: false,
+        popupClass: "",
+        submissions: 0,
+      };
+    },
+    mounted() {
+      this.showShowcasePopup();
+    },
+    methods: {
+      showShowcasePopup() {
+        let cookieValue = getCookie("adcollection-popup");
+
+        if (!cookieValue) {
+          this.showPopup = true;
+          setTimeout(() => {
+            this.popupClass = "popupOverlay--fadeIn";
+            this.handleState(true);
+          }, 3000);
+        }
+      },
+      hideShowcasePopup() {
+        setCookie("adcollection-popup", true, 60);
+        this.popupClass = "";
+        setTimeout(() => {
+          this.showPopup = false;
+        }, 1000);
+        this.handleState(false);
+      },
+      handleState(newVal) {
+        if (newVal) {
+          this.preventScroll();
+        } else {
+          this.allowScroll();
+        }
+      },
+      preventScroll() {
+        document.body.style.overflow = "hidden";
+      },
+      allowScroll() {
+        document.body.style.overflow = "";
+      },
+    },
+  });
+  scPopup.mount('#adcollectionPopup');
+</script>
