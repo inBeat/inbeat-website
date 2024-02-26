@@ -10,7 +10,8 @@
         <p class="notice">You can close this page</p>
       </section>
       <section id="thankYou" class="thank-you" v-if="isThankYou">
-        <h1 class="title">Thank you for your <br /> interest</h1>
+        <h1 class="title">Hmm. 🤔 <br /> Unfortunately, that doesn't look like a business email.</h1>
+        <p class="subtitle">Please enter a different email or contact us at <a class="email-link" href="mailto:aaron@inbeat.co">aaron@inbeat.co</a></p>
         <a href="/"><button class="cta">Back to homepage</button></a>
       </section>
       <section id="form" v-else-if="!isbookingRedirect">
@@ -68,12 +69,12 @@
   }
 
   .title {
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 700;
-    line-height: 48px;
+    line-height: 42px;
     letter-spacing: -0.84px;
     text-align: center;
-    margin-bottom: 42px;
+    margin-bottom: 12px;
   }
 
   .subtitle {
@@ -83,6 +84,11 @@
     letter-spacing: -0.36px;
     text-align: center;
     margin-top: 0;
+  }
+
+  .email-link, .email-link:hover {
+    text-decoration: underline;
+    width: fit-content;
   }
 
   input {
@@ -118,13 +124,16 @@
   .cta {
     background-color: black !important;
     border-radius: 8px;
-    padding: 12px 0;
+    padding: 12px 24px;
     color: white;
     font-size: 13px;
     font-weight: 600;
     line-height: 24px;
     border: none;
-    width: 100%;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
     cursor: pointer;
     transition: all 0.15s ease-in-out;
   }
@@ -155,6 +164,7 @@
   .thank-you {
     display: flex;
     flex-direction: column;
+    align-items: center;
     padding: 0 32px;
   }
 
