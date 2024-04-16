@@ -11,19 +11,17 @@
             <ul>
               {{- range .Site.Data.footer.col1_ugc -}}
               <li>
-                <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
-                  title="{{- .anchor }}">{{- .anchor }}</a>
-                {{- end -}}
+                <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor -}}">{{- .anchor -}}</a> 
               </li>
+              {{- end -}}
             </ul>
             <p class="small" style="margin-top:48px;">The Database</p>
             <ul>
               {{- range .Site.Data.footer.col1_database -}}
               <li>
-                <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
-                  title="{{- .anchor }}">{{- .anchor }}</a>
-                {{- end -}}
+                <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor -}}">{{- .anchor -}}</a>
               </li>
+              {{- end -}}
             </ul>
           </div>
           <div class="col-xs-6 col-sm-6">
@@ -33,7 +31,7 @@
               <li>
                 <a target="{{ if .external }}_blank{{ else }}_self{{ end }}"
                   href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
-                  title="{{- .anchor }}">{{- .anchor }}</a>
+                  title="{{- .anchor -}}">{{- .anchor -}}</a>
               </li>
               {{- end -}}
             </ul>
@@ -47,7 +45,7 @@
             <ul>
               {{- range .Site.Data.footer.col3 -}}
               <li>
-                <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor -}}">{{- .anchor -}}</a>
               </li>
               {{- end -}}
             </ul>
@@ -110,8 +108,7 @@
         <li class="dropdown-item page">
           <div class="dropdown">
             <a>UGC Platform</a>
-            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
             </svg>
           </div>
@@ -121,7 +118,7 @@
               <li>
                 <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}"
                   href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
-                  title="{{- .anchor }}">{{- .anchor }}</a>
+                  title="{{- .anchor -}}">{{- .anchor -}}</a>
               </li>
               {{- end -}}
             </ul>
@@ -130,8 +127,7 @@
         <li class="dropdown-item page">
           <div class="dropdown">
             <a>The Database</a>
-            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
             </svg>
           </div>
@@ -139,9 +135,9 @@
             <ul>
               {{- range .Site.Data.footer.col1_database -}}
               <li>
-                <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}"
-                  href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
-                  title="{{- .anchor }}">{{- .anchor }}</a>
+                <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}" 
+                href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" 
+                title="{{- .anchor -}}">{{- .anchor -}}</a>
               </li>
               {{- end -}}
             </ul>
@@ -150,8 +146,7 @@
         <li class="dropdown-item page">
           <div class="dropdown">
             <a>Resources</a>
-            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
             </svg>
           </div>
@@ -161,7 +156,7 @@
               <li>
                 <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}"
                   href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
-                  title="{{- .anchor }}">{{- .anchor }}</a>
+                  title="{{- .anchor -}}">{{- .anchor -}}</a>
               </li>
               {{- end -}}
             </ul>
@@ -179,8 +174,7 @@
             <ul>
               {{- range .Site.Data.footer.col3 -}}
               <li>
-                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor
-                  }}</a>
+                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor -}}">{{- .anchor -}}</a>
               </li>
               {{- end -}}
             </ul>
@@ -222,7 +216,6 @@
             </ul>
           </div>
         </li>
-
       </ul>
     </div>
     <div class="row bottom middle-xs">
