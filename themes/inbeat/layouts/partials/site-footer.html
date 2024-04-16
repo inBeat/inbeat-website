@@ -1,227 +1,227 @@
 <footer>
-    <div id="footer" class="container mobile-adjusted">
+  <div id="footer" class="container mobile-adjusted">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="footer-logo small">{{- partial "icons/inbeat-logo-footer.html" -}}</div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-lg-6">
         <div class="row">
-            <div class="col-xs-12">  <div class="footer-logo small">{{- partial "icons/inbeat-logo-footer.html" -}}</div></div>
-            <div class="col-xs-12 col-sm-6 col-lg-6">
-                <div class="row">
-                    <div class="col-xs-6 col-sm-6 col-lg-6">
-                        <p class="small">UGC Platform</p>
-                        <ul>
-                            {{- range .Site.Data.footer.col1_ugc -}}
-                            <li>
-                                    <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
-                                {{- end -}}
-                            </li>
-                        </ul>
-                        <p class="small" style="margin-top:48px;">The Database</p>
-                        <ul>
-                            {{- range .Site.Data.footer.col1_database -}}
-                            <li>
-                                    <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
-                                {{- end -}}
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-xs-6 col-sm-6">
-                        <p class="small">Resources</p>
-                        <ul>
-                            {{- range .Site.Data.footer.col2 -}}
-                            <li>
-                                <a target="{{ if .external }}_blank{{ else }}_self{{ end }}" href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
-                            </li>
-                            {{- end -}}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-lg-6">
-                <div class="row">
-                    <div class="col-xs-6 col-sm-6 col-lg-6">
-                        <p class="small">The Toolkit</p>
-                        <ul>
-                            {{- range .Site.Data.footer.col3 -}}
-                            <li>
-                                <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
-                            </li>
-                            {{- end -}}
-                        </ul>
-                    </div>
-                    <div class="col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-1 col-lg-5 col-lg-offset-1">
-                        <p class="small">Support</p>
-                        <ul>
-                            <li>
-                                <a href="{{- $.Site.Data.settings.ugcBookDemo -}}" title="Book a demo" target="_blank">
-                                    Book a demo
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="row">
-                            <div class="col-xs-6 col-sm-6 col-lg-6  footer-social-wrapper">
-                                <p class="small">Social</p>
-                                <ul>
-                                    <li>
-                                        <a href="https://www.instagram.com/inbeat.co/" title="Instagram" target="_blank">
-                                            Instagram
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.youtube.com/channel/UC1ur6zPPCD03vIjVbU-yZTg" title="Youtube"
-                                            target="_blank">
-                                            Youtube
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/company/inbeat/" title="LinkedIn" target="_blank">
-                                            LinkedIn
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.facebook.com/inBeat.co/" title="Facebook" target="_blank">
-                                            Facebook
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row bottom middle-xs">
-                <div><a href="{{- $.Site.BaseURL -}}privacy-policy" title="inBeat. ">Privacy Policy</a></div>
-                <div><a href="{{- $.Site.BaseURL -}}terms-and-conditions" title="Terms & Conditions">Terms & Conditions</a></div>
-                <div class="bugbounty"><a href="{{- $.Site.BaseURL -}}bug-bounty" title="Bug Bounty" >Found a bug?</a></div>
-        </div>
-    </div>
-
-    <div id="mobile-footer" class="container mobile-adjusted ">
-        <div class="row">
-            <div class="col-sm-12">
-                <div class="footer-logo small">{{- partial "icons/inbeat-logo-footer.html" -}}</div>
-            </div>
-        </div>
-        <div class="row footer-items">
+          <div class="col-xs-6 col-sm-6 col-lg-6">
+            <p class="small">UGC Platform</p>
             <ul>
-                <!-- <li class="page"><a href="{{- $.Site.Data.settings.ugcBookDemo -}}" title="demo">Book a demo</a> </li> -->
-                <!-- <li class="page"><a href="{{- $.Site.BaseURL -}}/pricing" title="Pricing">Pricing</a> </li> -->
-                <!-- <li class="page"><a href="{{- $.Site.BaseURL -}}/Articles" title="Articles">Articles</a> </li> -->
-                
-                <li class="dropdown-item page">
-                    <div class="dropdown">
-                        <a>UGC Platform</a>
-                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
-                        </svg>
-                    </div> 
-                    <div class="content">
-                        <ul>
-                            {{- range .Site.Data.footer.col1_ugc -}}
-                            <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
-                            </li>
-                            {{- end -}}
-                        </ul>
-                    </div>
-                </li>
-                <li class="dropdown-item page">
-                    <div class="dropdown">
-                        <a>The Database</a>
-                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
-                        </svg>
-                    </div> 
-                    <div class="content">
-                        <ul>
-                            {{- range .Site.Data.footer.col1_database -}}
-                            <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
-                            </li>
-                            {{- end -}}
-                        </ul>
-                    </div>
-                </li>
-                <li class="dropdown-item page">
-                    <div class="dropdown">
-                        <a>Resources</a>
-                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
-                        </svg>
-                    </div> 
-                        <div class="content">
-                            <ul>
-                                {{- range .Site.Data.footer.col2 -}}
-                                <li >
-                                    <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}" target="_blank">
-                                   {{- .anchor }}</a>
-                                </li>
-                                {{- end -}}
-                            </ul>
-                            <!-- {{- range .Site.Data.navigation.resources -}} 
-                            <ul>
-                                <li class="content-title title--white"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <ellipse fill='white' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
-                                </svg>{{ .title }}</li>
-                                {{- range .pages -}}
-                                    <li> <a href="" >{{ .name }}</a> <p>{{ .description }}</p></li>
-                                {{ end }}
-                            </ul>
-                            {{- end -}} -->
-                        </div>
-                </li>
-                <li class="dropdown-item page">
-                    <div class="dropdown">
-                        <a>The Toolkit</a>
-                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
-                        </svg>
-                    </div> 
-                    <div class="content">
-                        <ul>
-                            {{- range .Site.Data.footer.col3 -}}
-                            <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
-                            </li>
-                            {{- end -}}
-                        </ul>
-                    </div>
-                </li>
-                <li class="dropdown-item page">
-                    <div class="dropdown">
-                        <a>Support</a>
-                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
-                        </svg>
-                    </div> 
-                    <div class="content">
-                        <ul>
-                            {{- range .Site.Data.navigation.footer.support -}} 
-                                <li> <a href="{{- $.Site.BaseURL -}}{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
-                            {{- end -}}
-                        </ul>
-                    </div>
-                </li>
-                <li class="dropdown-item page">
-                    <div class="dropdown">
-                        <a>Social</a>
-                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
-                        </svg>
-                    </div> 
-                    <div class="content">
-                        <ul>
-                            {{- range .Site.Data.navigation.footer.social -}} 
-                                <li> <a href="" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
-                            {{- end -}}
-                        </ul>
-                    </div>
-                </li>
-
+              {{- range .Site.Data.footer.col1_ugc -}}
+              <li>
+                <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor -}}">{{- .anchor -}}</a> 
+              </li>
+              {{- end -}}
             </ul>
+            <p class="small" style="margin-top:48px;">The Database</p>
+            <ul>
+              {{- range .Site.Data.footer.col1_database -}}
+              <li>
+                <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor -}}">{{- .anchor -}}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+            <p class="small">Resources</p>
+            <ul>
+              {{- range .Site.Data.footer.col2 -}}
+              <li>
+                <a target="{{ if .external }}_blank{{ else }}_self{{ end }}"
+                  href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
+                  title="{{- .anchor -}}">{{- .anchor -}}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
         </div>
-        <div class="row bottom middle-xs">
-                <div><a href="{{- $.Site.BaseURL -}}privacy-policy" title="inBeat. ">Privacy Policy</a></div>
-                <div><a href="{{- $.Site.BaseURL -}}terms-and-conditions" title="Terms & Conditions">Terms & Conditions</a></div>
-                <div class="bugbounty"><a href="{{- $.Site.BaseURL -}}bug-bounty" title="Bug Bounty" >Found a bug?</a></div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-lg-6">
+        <div class="row">
+          <div class="col-xs-6 col-sm-6 col-lg-6">
+            <p class="small">The Toolkit</p>
+            <ul>
+              {{- range .Site.Data.footer.col3 -}}
+              <li>
+                <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor -}}">{{- .anchor -}}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+          <div class="col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-1 col-lg-5 col-lg-offset-1">
+            <p class="small">Support</p>
+            <ul>
+              <li>
+                <a href="{{- $.Site.Data.settings.ugcBookDemo -}}" title="Book a demo" target="_blank">
+                  Book a demo
+                </a>
+              </li>
+            </ul>
+            <div class="row">
+              <div class="col-xs-6 col-sm-6 col-lg-6  footer-social-wrapper">
+                <p class="small">Social</p>
+                <ul>
+                  <li>
+                    <a href="https://www.instagram.com/inbeat.co/" title="Instagram" target="_blank">
+                      Instagram
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.youtube.com/channel/UC1ur6zPPCD03vIjVbU-yZTg" title="Youtube" target="_blank">
+                      Youtube
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.linkedin.com/company/inbeat/" title="LinkedIn" target="_blank">
+                      LinkedIn
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.facebook.com/inBeat.co/" title="Facebook" target="_blank">
+                      Facebook
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
+    <div class="row bottom middle-xs">
+      <div><a href="{{- $.Site.BaseURL -}}privacy-policy" title="inBeat. ">Privacy Policy</a></div>
+      <div><a href="{{- $.Site.BaseURL -}}terms-and-conditions" title="Terms & Conditions">Terms & Conditions</a></div>
+      <div class="bugbounty"><a href="{{- $.Site.BaseURL -}}bug-bounty" title="Bug Bounty">Found a bug?</a></div>
+    </div>
+  </div>
+
+  <div id="mobile-footer" class="container mobile-adjusted ">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="footer-logo small">{{- partial "icons/inbeat-logo-footer.html" -}}</div>
+      </div>
+    </div>
+    <div class="row footer-items">
+      <ul>
+        <li class="dropdown-item page">
+          <div class="dropdown">
+            <a>UGC Platform</a>
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
+            </svg>
+          </div>
+          <div class="content">
+            <ul>
+              {{- range .Site.Data.footer.col1_ugc -}}
+              <li>
+                <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}"
+                  href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
+                  title="{{- .anchor -}}">{{- .anchor -}}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+        </li>
+        <li class="dropdown-item page">
+          <div class="dropdown">
+            <a>The Database</a>
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
+            </svg>
+          </div>
+          <div class="content">
+            <ul>
+              {{- range .Site.Data.footer.col1_database -}}
+              <li>
+                <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}" 
+                href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" 
+                title="{{- .anchor -}}">{{- .anchor -}}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+        </li>
+        <li class="dropdown-item page">
+          <div class="dropdown">
+            <a>Resources</a>
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
+            </svg>
+          </div>
+          <div class="content">
+            <ul>
+              {{- range .Site.Data.footer.col2 -}}
+              <li>
+                <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}"
+                  href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}"
+                  title="{{- .anchor -}}">{{- .anchor -}}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+        </li>
+        <li class="dropdown-item page">
+          <div class="dropdown">
+            <a>The Toolkit</a>
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
+            </svg>
+          </div>
+          <div class="content">
+            <ul>
+              {{- range .Site.Data.footer.col3 -}}
+              <li>
+                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor -}}">{{- .anchor -}}</a>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+        </li>
+        <li class="dropdown-item page">
+          <div class="dropdown">
+            <a>Support</a>
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
+            </svg>
+          </div>
+          <div class="content">
+            <ul>
+              {{- range .Site.Data.navigation.footer.support -}}
+              <li> <a href="{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a>
+                <p>{{ .description }}</p>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+        </li>
+        <li class="dropdown-item page">
+          <div class="dropdown">
+            <a>Social</a>
+            <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white" />
+            </svg>
+          </div>
+          <div class="content">
+            <ul>
+              {{- range .Site.Data.navigation.footer.social -}}
+              <li> <a href="{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a>
+                <p>{{ .description }}</p>
+              </li>
+              {{- end -}}
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="row bottom middle-xs">
+      <div><a href="{{- $.Site.BaseURL -}}privacy-policy" title="inBeat. ">Privacy Policy</a></div>
+      <div><a href="{{- $.Site.BaseURL -}}terms-and-conditions" title="Terms & Conditions">Terms & Conditions</a></div>
+      <div class="bugbounty"><a href="{{- $.Site.BaseURL -}}bug-bounty" title="Bug Bounty">Found a bug?</a></div>
+    </div>
+  </div>
 </footer>
