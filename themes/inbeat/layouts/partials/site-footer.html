@@ -117,7 +117,7 @@
                         <ul>
                             {{- range .Site.Data.footer.col1_ugc -}}
                             <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                              <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}" href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
                             </li>
                             {{- end -}}
                         </ul>
@@ -134,7 +134,7 @@
                         <ul>
                             {{- range .Site.Data.footer.col1_database -}}
                             <li>
-                                <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                              <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}" href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
                             </li>
                             {{- end -}}
                         </ul>
@@ -151,21 +151,10 @@
                             <ul>
                                 {{- range .Site.Data.footer.col2 -}}
                                 <li >
-                                    <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}" target="_blank">
-                                   {{- .anchor }}</a>
+                                  <a class="low-white" target="{{ if .external }}_blank{{ else }}_self{{ end }}" href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
                                 </li>
                                 {{- end -}}
                             </ul>
-                            <!-- {{- range .Site.Data.navigation.resources -}} 
-                            <ul>
-                                <li class="content-title title--white"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <ellipse fill='white' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
-                                </svg>{{ .title }}</li>
-                                {{- range .pages -}}
-                                    <li> <a href="" >{{ .name }}</a> <p>{{ .description }}</p></li>
-                                {{ end }}
-                            </ul>
-                            {{- end -}} -->
                         </div>
                 </li>
                 <li class="dropdown-item page">
@@ -195,7 +184,7 @@
                     <div class="content">
                         <ul>
                             {{- range .Site.Data.navigation.footer.support -}} 
-                                <li> <a href="{{- $.Site.BaseURL -}}{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
+                                <li> <a href="{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
                             {{- end -}}
                         </ul>
                     </div>
@@ -210,7 +199,7 @@
                     <div class="content">
                         <ul>
                             {{- range .Site.Data.navigation.footer.social -}} 
-                                <li> <a href="" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
+                                <li> <a href="{{- .link -}}" target="_blank" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
                             {{- end -}}
                         </ul>
                     </div>

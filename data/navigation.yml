@@ -88,10 +88,6 @@ resources:
         description: Insights for the modern marketer
         link: 'https://www.growthnotes.news/'
         target: '_blank'
-      # - name: The Pulse Podcast
-      #   description: Listen to influencer marketing experts
-      #   link: '/categories/podcasts/'
-      #   target: '_self'
   - color: grey
     title: The Toolkit
     tag: Free
@@ -134,9 +130,13 @@ footer:
     - name: Top TikTok Influencers
   social:
     - name: Instagram
+      link: 'https://www.instagram.com/inbeat.co/'
     - name: Youtube
+      link: 'https://www.youtube.com/channel/UC1ur6zPPCD03vIjVbU-yZTg'
     - name: Linkedin
+      link: 'https://ca.linkedin.com/company/plll'
     - name: Facebook
+      link: 'https://www.facebook.com/inBeat.co/'
   support:
     - name: Book a demo
       link: 'https://teaminbeat.typeform.com/to/tbkVXc2b'
