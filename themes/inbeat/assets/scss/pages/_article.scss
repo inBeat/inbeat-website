@@ -84,6 +84,7 @@ h5 {
 }
 
 #article-header {
+    padding: 0;
     margin-top: 25px;
     @include breakpoint(sm) {
         margin-top: 50px;
@@ -422,4 +423,24 @@ h5 {
     // .podcasts {
     //     background-color: $dark_sub; color: white;
     // }
+}
+
+.article-table-contents {
+  width: 100%;
+  padding: 24px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+
+  h2 {
+    color: black;
+    font-size: 28px;
+    margin: 12px 0px;
+    line-height: 28px;
+  }
+
+  ul {
+    padding-left: 24px;
+    li a:hover {
+      opacity: 0.8;
+    }
+  }
 }
