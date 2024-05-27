@@ -19,18 +19,6 @@ profiles:
     id: ck5hmbeatlnhe0i11t2v7d5zg
     verified: false
     hashtags: "#petrouniasfamily, #gymnasticsstars, #gymnastics, #weekend"
-  - username: "alena_n_star"
-    fullname: >-
-      Alena ✖️😼✖️Nazarova
-    bio: >-
-      Rhythmic gymnastics🤸🏼‍♀️ Represented by 💌 @selectmodellosangeles
-    location: "United States"
-    followers: 353161
-    engagement: 495
-    commentsToLikes: 0.031947
-    id: ck0tuy1zr96fo0i19aaaik2k4
-    verified: false
-    hashtags: "#teamboandtee, #home"
   - username: "danielaestupinan01"
     fullname: >-
       Danii - La Capii🧡
