@@ -7,18 +7,6 @@ hits: 1030
 text_top: Discover the most popular Instagram influencers on inBeat.
 text_bottom: Our search engine holds 1030 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "alena_n_star"
-    fullname: >-
-      Alena ✖️😼✖️Nazarova
-    bio: >-
-      Rhythmic gymnastics🤸🏼‍♀️ Represented by 💌 @selectmodellosangeles
-    location: "United States"
-    followers: 353161
-    engagement: 495
-    commentsToLikes: 0.031947
-    id: ck0tuy1zr96fo0i19aaaik2k4
-    verified: false
-    hashtags: "#teamboandtee, #home"
   - username: "brians.flyin"
     fullname: >-
       Brian
