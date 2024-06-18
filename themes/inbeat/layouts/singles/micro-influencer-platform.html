@@ -1,6 +1,5 @@
 {{- define "main" -}}
 {{- with .Params.hero -}}
-{{ partial "site/showcase-popup.html" }}
 <section class="container mobile-adjusted mip" id="hero">
   <h1>{{- .title | markdownify -}}</h1>
   <h4>{{- .subtitle | markdownify -}}</h4>

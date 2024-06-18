@@ -9,7 +9,6 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-{{ partial "site/showcase-popup.html" }}
 <div id="engagement-rate">
     {{ partial "site/unlock_calculator_popup.html" }}
     {{ $content := partial "site/engagementRateForm.html" .}}
