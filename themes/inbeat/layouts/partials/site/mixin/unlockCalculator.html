@@ -2,40 +2,55 @@
   var unlockCalculator = {
     data() {
       return {
-        showPopup: false,
         userType: "",
         popupClass: "",
+        email: "",
+        subscriptionError: null,
       };
     },
-    computed: {
-      cookieName() {
-        return "unlock-tool" + window.location.pathname.replace(/\//g, "-");
-      },
-    },
     methods: {
+      sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+      },
       showUnlockPopup() {
-        let cookieValue = getCookie(this.cookieName);
-          this.showPopup = true;
-          this.popupClass = "show";
-          this.handleState(true);
-          return true;
+        let cookieValue = getCookie("calculator");
+        if (cookieValue === "true") {
+          return;
+        }
+        this.popupClass = "show";
+        this.handleScroll(true);
+        return true;
       },
-      hideUnlockPopup() {
-        this.showPopup = false;
-        this.handleState(false);
+      async hideUnlockPopup() {
+        await setCookie("calculator", "true", 365);
+        await this.sleep(1000) // Close popup after 1 second
+        this.popupClass = "";
+        this.handleScroll(false);
       },
-      handleState(newVal) {
+      handleScroll(newVal) {
         if (newVal) {
-          this.preventScroll();
+          document.body.style.overflow = "hidden";
         } else {
-          this.allowScroll();
+          document.body.style.overflow = "";
         }
       },
-      preventScroll() {
-        document.body.style.overflow = "hidden";
+      setUserType(type) {
+        this.userType = type;
       },
-      allowScroll() {
-        document.body.style.overflow = "";
+      async handleSubscription() {
+        if (!isValidEmail(this.email)) {
+          console.log("Invalid email address.");
+          this.subscriptionError = "Invalid email address.";
+          return;
+        }
+        const result = await beehiivAPI.subscribe(this.email);
+        if (result.error) {
+          console.error("Failed to subscribe:", result.error);
+          this.subscriptionError = result.error;
+          return
+        }
+        console.log("Successfully subscribed:", result);
+        this.hideUnlockPopup();
       },
     },
     delimiters: ["{", "}"],

@@ -1,15 +1,39 @@
 <transition name="fade">
-  <div id="unlockCalculator" :class="['unlock-calculator-popup', popupClass]" v-if="showPopup" v-cloak>
-    <div class="popup popup--fadeIn"> 
-        <div class="content">
-          <div class="content-group">
-            <div class="header">
-              <h1 class="title">Title</h1>
-              <p class="subtext">Subtext</p>
-            </div>
-            <button class="btn btn-lg active" @click="hideUnlockPopup">Unlock Calculator</button>
+  <div id="unlockCalculator" :class="['unlock-calculator-popup', popupClass]" v-cloak>
+    <div class="popup popup--fadeIn">
+      <div v-if="userType === ''" class="content">
+        <div class="content-group">
+          <div class="header">
+            <h1 class="title">Title</h1>
+            <p class="subtext">Subtext</p>
+          </div>
+          <div>
+            <button class="btn btn-lg active" @click="setUserType('creator')">Influencer / Creator</button>
+            <button class="btn btn-lg active" @click="setUserType('brand')">Brand / Marketer</button>
           </div>
         </div>
+      </div>
+      <div v-if="userType === 'creator'" class="content">
+        <h4 class="title">Title</h4>
+        <p class="subtext">Subtext</p>
+        <div class="cta">
+          <a href="https://app.inbeat.co/get-started" @click="hideUnlockPopup" class="btn btn-lg" title="Get started"
+            target="_blank">
+            Join as a creator
+          </a>
+        </div>
+      </div>
+      <div v-if="userType === 'brand'" class="content">
+        <h4 class="title">Title</h4>
+        <p class="subtext">Subtext</p>
+        <pre v-if="subscriptionError" class="subscriptionError">{ subscriptionError }</pre>
+        <input v-model="email" type="text" id="email" name="email">
+        <div class="cta">
+          <button @click="handleSubscription" class="btn btn-lg" title="Get started">
+            Subscribe to beehiiv
+          </button>
+        </div>
+      </div>
     </div>
   </div>
 </transition>
