@@ -232,13 +232,12 @@
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
-{{- partial "site/emailCaptureMixin.html" -}}
 {{- partial "site/mixin/unlockCalculator.html" -}}
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
         el: '#ffc-calculator__wrap',
-        mixins: [emailCaptureMixin, unlockCalculator],
+        mixins: [unlockCalculator],
         data() {
             return {
                 username: '',

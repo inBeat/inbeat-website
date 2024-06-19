@@ -3,10 +3,8 @@
     data() {
       return {
         showPopup: false,
-        unlocked: false,
-        verifying: false,
+        userType: "",
         popupClass: "",
-        submissions: 0,
       };
     },
     computed: {
@@ -17,21 +15,12 @@
     methods: {
       showUnlockPopup() {
         let cookieValue = getCookie(this.cookieName);
-
-        if (!cookieValue) {
-          setCookie(this.cookieName, 1, 60);
-          return false;
-        } else if (cookieValue === "1") {
           this.showPopup = true;
           this.popupClass = "show";
           this.handleState(true);
           return true;
-        } else {
-          return false;
-        }
       },
       hideUnlockPopup() {
-        setCookie(this.cookieName, true, 60);
         this.showPopup = false;
         this.handleState(false);
       },
@@ -41,13 +30,6 @@
         } else {
           this.allowScroll();
         }
-      },
-      startVerifying() {
-        this.verifying = true;
-        this.unlocked = true;
-        setTimeout(() => {
-          this.verifying = false;
-        }, 10000);
       },
       preventScroll() {
         document.body.style.overflow = "hidden";
