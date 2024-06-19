@@ -79,11 +79,14 @@
         background-color: black;
         padding: 24px 40px;
         width: fit-content;
+        transition: opacity 0.2s ease-in-out;
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
 
-        a {
-          color: white;
-          font-size: 16px;
-          font-weight: 400;
+        &:hover {
+          opacity: 0.9;
+          cursor: pointer;
         }
       }
     }

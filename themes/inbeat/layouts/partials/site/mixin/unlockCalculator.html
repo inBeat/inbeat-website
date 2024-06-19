@@ -3,7 +3,7 @@
     data() {
       return {
         userType: "",
-        popupClass: "",
+        popupClass: "show",
         email: "",
         subscriptionError: null,
       };
@@ -17,6 +17,8 @@
         if (cookieValue === "true") {
           return;
         }
+        // Reset user type to make sure it's null if a user clear his cookies
+        this.setUserType("");
         this.popupClass = "show";
         this.handleScroll(true);
         return true;

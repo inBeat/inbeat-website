@@ -2,14 +2,15 @@
   <div id="unlockCalculator" :class="['unlock-calculator-popup', popupClass]" v-cloak>
     <div class="popup popup--fadeIn">
       <div v-if="userType === ''" class="content">
+        <img src="/images/unlock-calculator.png" alt="Unlock Calculator Banner">
         <div class="content-group">
           <div class="header">
-            <h1 class="title">Title</h1>
-            <p class="subtext">Subtext</p>
+            <h1 class="title">Unlock Calculator</h1>
+            <p class="subtext">What represents you best?</p>
           </div>
-          <div>
-            <button class="btn btn-lg active" @click="setUserType('creator')">Influencer / Creator</button>
-            <button class="btn btn-lg active" @click="setUserType('brand')">Brand / Marketer</button>
+          <div class="cta">
+            <button class="btn btn-outline" @click="setUserType('creator')">Influencer / Creator</button>
+            <button class="btn" @click="setUserType('brand')">Brand / Marketer</button>
           </div>
         </div>
       </div>
