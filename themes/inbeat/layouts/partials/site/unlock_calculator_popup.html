@@ -1,6 +1,6 @@
 <transition name="fade">
-  <div id="unlockCalculator" :class="['unlock-calculator-popup', popupClass]" v-cloak>
-    <div class="popup popup--fadeIn">
+  <div id="unlockCalculator" :class="['unlock-calculator-popup popupOverlay', popupClass]" v-cloak>
+    <div>
       <div v-if="userType === ''" class="content">
         <img src="/images/unlock-calculator.png" alt="Unlock Calculator Banner">
         <div class="content-group">

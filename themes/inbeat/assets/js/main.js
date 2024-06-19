@@ -212,6 +212,7 @@ function affiliate() {
   }
 }
 
+// TODO: Refactor the video popup
 var allPopup = [];
 function popup() {
   var Popup = function (options) {
@@ -228,12 +229,8 @@ function popup() {
 
     this.openPopup = function () {
       isOpen = true;
-      this.popup.classList.toggle('popupOverlay--fadeIn');
-      this.innerPopup.classList.toggle('popupInner--fadeIn');
+      this.popup.classList.toggle('show');
       document.body.style.overflow = 'hidden';
-      document.querySelectorAll('section').forEach(function (item) {
-        item.classList.toggle("blur");
-      })
       if (this.force) {
         document.querySelectorAll('.preventPointer').forEach(function (item) {
           item.classList.add("noTrigger");
@@ -246,12 +243,8 @@ function popup() {
     }
     this.closePopup = function () {
       isOpen = false
-      this.popup.classList.toggle('popupOverlay--fadeIn');
-      this.innerPopup.classList.toggle('popupInner--fadeIn');
+      this.popup.classList.toggle('show');
       document.body.style.overflow = 'hidden visible';
-      document.querySelectorAll('section').forEach(function (item) {
-        item.classList.remove("blur");
-      })
       if (this.content.querySelector('video')) {
         this.content.querySelector('video').pause();
         this.content.querySelector('video').currentTime = 0;
