@@ -17,16 +17,8 @@
       <div v-if="userType === 'creator'">
         {{ partial "site/showcase-popup.html" }}
       </div>
-      <div v-if="userType === 'brand'" class="content">
-        <h4 class="title">Title</h4>
-        <p class="subtext">Subtext</p>
-        <pre v-if="subscriptionError" class="subscriptionError">{ subscriptionError }</pre>
-        <input v-model="email" type="text" id="email" name="email">
-        <div class="cta">
-          <button @click="handleSubscription" class="btn btn-lg" title="Get started">
-            Subscribe to beehiiv
-          </button>
-        </div>
+      <div v-if="userType === 'brand'">
+        {{ partial "site/newsletter-popup.html" (dict "lockMode" true) }}
       </div>
     </div>
   </div>

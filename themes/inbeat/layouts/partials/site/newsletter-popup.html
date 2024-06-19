@@ -1,0 +1,39 @@
+<div class="newsletter-popup">
+  <div class="wrapper">
+    {{ if not .lockMode }}
+    <div @click="" class="close">{{ partial "icons/close.html" . }}</div>
+    {{ end }}
+    <div class="header">
+      <div class="logo">{{ partial "icons/growthnotes.html" . }}</div>
+      <div>
+        {{ if .lockMode }}
+        <h1 class="title">Unlock this tool by <br> subscribing to our newsletter</h1>
+        {{ else }}
+        <img src="/images/growthnotesbanner.png" alt="Growthnotes Banner">
+        {{ end }}
+      </div>
+    </div>
+    <div class="form">
+      <input type="email" placeholder="Enter your email" />
+      <a href="https://app.inbeat.co/get-started" class="cta" title="Get started" target="_blank">
+        {{ if .lockMode }}
+        Subscribe and unlock
+        {{ else }}
+        Subscribe to newsletter
+        {{ end }}
+      </a>
+    </div>
+  </div>
+  <div class="brand">
+    <h5>Join 50,000+ readers for valuable marketing insights</h5>
+    <div class="icons">
+      {{ partial "icons/newsletterbrand/tbwai.html" . }}
+      {{ partial "icons/newsletterbrand/ogilvy.html" . }}
+      {{ partial "icons/newsletterbrand/havas.html" . }}
+      {{ partial "icons/newsletterbrand/cycle.html" . }}
+      {{ partial "icons/newsletterbrand/cossette.html" . }}
+      {{ partial "icons/newsletterbrand/deloitte.html" . }}
+      {{ partial "icons/newsletterbrand/crispin.html" . }}
+    </div>
+  </div>
+</div>

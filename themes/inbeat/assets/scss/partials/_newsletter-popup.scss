@@ -1,0 +1,161 @@
+.newsletter-popup {
+  background-color: white;
+  max-width: 700px;
+
+  @media screen and (max-width: 600px) {
+    width: 500px;
+    height: auto;
+  }
+
+  @media screen and (max-width: 500px) {
+    width: 450px;
+    height: auto;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 40px;
+    gap: 40px;
+    position: relative;
+
+    @media screen and (max-width: 500px) {
+      padding: 32px 24px;
+    }
+
+    .close {
+      position: absolute;
+      top: 0;
+      right: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 50px;
+      height: 50px;
+      cursor: pointer;
+      transition: background-color 0.15s ease-in-out;
+
+      &:hover {
+        opacity: 0.4;
+      }
+    }
+
+    .header {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+
+      .logo {
+        object-fit: cover;
+        object-position: top;
+      }
+
+      .title {
+        margin: 0;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 36px;
+        letter-spacing: -0.3px;
+      }
+    }
+
+    .form {
+      height: 52px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: row;
+
+      @media screen and (max-width: 700px) {
+        align-items: center;
+        text-align: center;
+      }
+
+      input {
+        width: 100%;
+        border: none;
+        background-color: transparent;
+        font-size: 16px;
+        font-weight: 400;
+        color: #141514;
+        padding: 12px;
+        border-radius: 2px;
+        transition: border-color 0.1s ease-in-out;
+        margin-right: 8px;
+        border: 1px solid #00000017;
+
+        &:focus {
+          border-color: #FF6635;
+          outline: none;
+        }
+      }
+
+      .cta {
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #FF6635;
+        border-radius: 2px;
+        height: 100%;
+        width: 100%;
+        transition: background-color 0.15s ease-in-out;
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
+
+        &:hover {
+          background-color: #ff490c;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+
+  .brand {
+    background-color: #F9F7F7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 32px;
+    gap: 24px;
+
+    h5 {
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      opacity: 0.5;
+      margin: 0;
+      line-height: 24px;
+      /* 171.429% */
+      text-align: center;
+    }
+
+    .icons {
+      gap: 12px;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+
+      svg {
+        width: 70px;
+        height: auto;
+      }
+
+      @media screen and (max-width: 600px) {
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+
+      }
+    }
+  }
+}
