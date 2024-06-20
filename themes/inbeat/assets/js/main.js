@@ -349,12 +349,8 @@ function industries() {
 }
 function banner() {
   var banner = document.getElementById('banner');
-  if (!banner) {
-    return;
-  }
-  var text = banner.querySelector('#popup-trigger')
-  var close = banner.querySelector('#close')
-  var closeBtn = document.getElementById('close');
+ 
+  var text = banner.querySelector('#banner-text')
   var hero = document.getElementById('hero');
   var hero_cmp = document.getElementById('hero_cmp');
   var prevScrollpos = window.pageYOffset;
@@ -362,31 +358,32 @@ function banner() {
     hero = document.getElementById('hero-industries');
   }
   window.onscroll = function () {
+    if (!banner) {
+      return;
+    }
     var currentScrollPos = window.pageYOffset;
     if (prevScrollpos > currentScrollPos) {
       banner.style.height = '28px';
       text.classList.remove("hide");
-      close.style.top = '0';
     } else {
       banner.style.height = "0px"
       text.classList.add("hide");
-      close.style.top = '-30px'
     }
     prevScrollpos = currentScrollPos;
   }
 
   banner.classList.remove("hide-banner");
-  closeBtn.addEventListener('click', function (e) {
-    e.preventDefault();
-    setCookie('banner-hide', true, 60);
-    banner.remove();
-    if (hero !== null) {
-      hero.classList.remove('has-banner');
-    }
-    if (hero_cmp !== null) {
-      hero_cmp.classList.remove('has-banner');
-    }
-  })
+  // closeBtn.addEventListener('click', function (e) {
+  //   e.preventDefault();
+  //   setCookie('banner-hide', true, 60);
+  //   banner.remove();
+  //   if (hero !== null) {
+  //     hero.classList.remove('has-banner');
+  //   }
+  //   if (hero_cmp !== null) {
+  //     hero_cmp.classList.remove('has-banner');
+  //   }
+  // })
   if (hero !== null) {
     hero.classList.add('has-banner');
   }

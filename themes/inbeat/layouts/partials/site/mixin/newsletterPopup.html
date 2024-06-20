@@ -1,0 +1,55 @@
+<script>
+  new Vue({
+    el: '#banner',
+    data: {
+      popupClass: "",
+      email: "",
+      subscriptionError: null,
+    },
+    mounted() {
+      console.log("newsletterPopup mounted");
+      setTimeout(() => {
+        this.showNewsletterPopup();
+      }, 10000);
+    },
+    methods: {
+      showNewsletterPopup() {
+        if (document.querySelector('.popupOverlay.show')) {
+          console.log("Another popup is already open, ignoring request to show.");
+          return;
+        }
+        console.log("showNewsletterPopup");
+        this.popupClass = "show";
+        this.handleScroll(true)
+      },
+      hideNewsletterPopup() {
+        this.popupClass = "";
+        this.handleScroll(false)
+      },
+      outsideClick(event) {
+        if (event.target.classList.contains('popupOverlay')) {
+          this.hideNewsletterPopup();
+        }
+      },
+      handleScroll(newVal) {
+        newVal ? document.body.style.overflow = "hidden" : document.body.style.overflow = "";
+      },
+      async handleSubscription() {
+        if (!isValidEmail(this.email)) {
+          console.log("Invalid email address.");
+          this.subscriptionError = "Invalid email address.";
+          return;
+        }
+        const result = await beehiivAPI.subscribe(this.email);
+        if (result.error) {
+          console.error("Failed to subscribe:", result.error);
+          this.subscriptionError = result.error;
+          return;
+        }
+        console.log("Successfully subscribed:", result);
+        this.hideNewsletterPopup();
+      },
+    },
+    delimiters: ["{", "}"],
+  });
+</script>

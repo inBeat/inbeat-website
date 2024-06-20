@@ -1,7 +1,7 @@
-<div class="newsletter-popup">
+<div id="newsletterPopup" class="newsletter-popup" :class="popupClass" v-cloak>
   <div class="wrapper">
     {{ if not .lockMode }}
-    <div @click="" class="close">{{ partial "icons/close.html" . }}</div>
+    <div @click="hideNewsletterPopup" class="close">{{ partial "icons/close.html" . }}</div>
     {{ end }}
     <div class="header">
       <div class="logo">{{ partial "icons/growthnotes.html" . }}</div>
@@ -14,8 +14,8 @@
       </div>
     </div>
     <div class="form">
-      <input type="email" placeholder="Enter your email" />
-      <a href="https://app.inbeat.co/get-started" class="cta" title="Get started" target="_blank">
+      <input type="email" placeholder="Enter your email" v-model="email" />
+      <a @click.prevent="handleSubscription" href="#" class="cta" title="Get started">
         {{ if .lockMode }}
         Subscribe and unlock
         {{ else }}

@@ -29,13 +29,6 @@
         }
         text-align: center;
     }
-    #close{
-        padding: 5px 15px;
-        position: absolute;
-        right: 0;
-        top: 0;
-        transition: $transition_default;
-    }
     .hide{
         transform: translateY(-100%);
         opacity: 0;
