@@ -2,7 +2,7 @@
   var unlockCalculator = {
     data() {
       return {
-        userType: "",
+        profileType: "",
         popupClass: "",
         email: "",
         subscriptionError: null,
@@ -37,7 +37,7 @@
         }
       },
       setUserType(type) {
-        this.userType = type;
+        this.profileType = type;
       },
       async handleSubscription() {
         if (!isValidEmail(this.email)) {

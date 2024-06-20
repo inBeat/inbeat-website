@@ -1,7 +1,7 @@
 <transition name="fade">
   <div id="unlockCalculator" :class="['unlock-calculator-popup popupOverlay', popupClass]" v-cloak>
     <div>
-      <div v-if="userType === ''" class="content">
+      <div v-if="profileType === ''" class="content">
         <img src="/images/unlock-calculator.png" alt="Unlock Calculator Banner">
         <div class="content-group">
           <div class="header">
@@ -14,10 +14,10 @@
           </div>
         </div>
       </div>
-      <div v-if="userType === 'creator'">
+      <div v-if="profileType === 'creator'">
         {{ partial "site/showcase-popup.html" }}
       </div>
-      <div v-if="userType === 'brand'">
+      <div v-if="profileType === 'brand'">
         {{ partial "site/newsletter-popup.html" (dict "lockMode" true) }}
       </div>
     </div>

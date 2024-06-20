@@ -14,14 +14,13 @@
       </div>
     </div>
     <div class="form">
-      <input type="email" placeholder="Enter your email" v-model="email" />
-      <a @click.prevent="handleSubscription" href="#" class="cta" title="Get started">
-        {{ if .lockMode }}
-        Subscribe and unlock
-        {{ else }}
-        Subscribe to newsletter
-        {{ end }}
-      </a>
+      <div class="form-group">
+        <input type="email" placeholder="Enter your email" v-model="email" />
+        <a @click.prevent="handleSubscription" href="#" class="cta" title="Get started">
+          Try it
+        </a>
+      </div>
+      <p class="subtext">You can unsubscribe at any time!</p>
     </div>
   </div>
   <div class="brand">

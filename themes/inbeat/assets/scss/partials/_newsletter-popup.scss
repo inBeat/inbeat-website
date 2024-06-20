@@ -67,55 +67,70 @@
     }
 
     .form {
-      height: 52px;
+      gap: 4px;
       width: 100%;
       display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: row;
+      flex-direction: column;
 
-      @media screen and (max-width: 700px) {
-        align-items: center;
-        text-align: center;
-      }
-
-      input {
-        width: 100%;
-        border: none;
-        background-color: transparent;
-        font-size: 16px;
-        font-weight: 400;
-        color: #141514;
-        padding: 12px;
-        border-radius: 2px;
-        transition: border-color 0.1s ease-in-out;
-        margin-right: 8px;
-        border: 1px solid #00000017;
-
-        &:focus {
-          border-color: #FF6635;
-          outline: none;
-        }
-      }
-
-      .cta {
-        text-align: center;
+      .form-group {
+        height: 52px;
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color: #FF6635;
-        border-radius: 2px;
-        height: 100%;
-        width: 100%;
-        transition: background-color 0.15s ease-in-out;
-        color: white;
-        font-size: 16px;
-        font-weight: 400;
+        flex-direction: row;
 
-        &:hover {
-          background-color: #ff490c;
-          cursor: pointer;
+        @media screen and (max-width: 700px) {
+          align-items: center;
+          text-align: center;
         }
+
+        input {
+          width: 100%;
+          border: none;
+          background-color: transparent;
+          font-size: 16px;
+          font-weight: 400;
+          color: #141514;
+          padding: 12px;
+          border-radius: 2px;
+          transition: border-color 0.1s ease-in-out;
+          margin-right: 8px;
+          border: 1px solid #00000017;
+  
+          &:focus {
+            border-color: #FF6635;
+            outline: none;
+          }
+        }
+
+        .cta {
+          text-align: center;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background-color: #FF6635;
+          border-radius: 2px;
+          height: 100%;
+          width: 50%;
+          transition: background-color 0.15s ease-in-out;
+          color: white;
+          font-size: 16px;
+          font-weight: 400;
+  
+          &:hover {
+            background-color: #ff490c;
+            cursor: pointer;
+          }
+        }
+      }
+      
+      .subtext {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        margin: 0;
+        line-height: 24px; /* 171.429% */
+        opacity: 0.5;
       }
     }
   }
