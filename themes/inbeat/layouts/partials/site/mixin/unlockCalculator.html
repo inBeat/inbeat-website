@@ -7,7 +7,7 @@
         email: "",
         subscriptionError: null,
         subscribed: false,
-        loading: false,
+        beehiivLoading: false,
       };
     },
     methods: {
@@ -36,8 +36,8 @@
         this.profileType = type;
       },
       async handleSubscription() {
-        if (this.loading) return;
-        this.loading = true;
+        if (this.beehiivLoading) return;
+        this.beehiivLoading = true;
         this.subscriptionError = null;
 
         try {
@@ -50,7 +50,7 @@
         } catch (error) {
           this.subscriptionError = error.message;
         } finally {
-          this.loading = false;
+          this.beehiivLoading = false;
         }
       },
       hidePopup() {
