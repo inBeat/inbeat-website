@@ -10,6 +10,7 @@ const autoprefixer = require('gulp-autoprefixer');
 
 const jsFiles = [
   'themes/inbeat/assets/js/main.js',
+  'themes/inbeat/assets/js/beehiivAPI.js',
 ];
 
 // hugo production call

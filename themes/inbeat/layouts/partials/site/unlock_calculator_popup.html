@@ -1,15 +1,24 @@
 <transition name="fade">
-  <div id="unlockCalculator" :class="['unlock-calculator-popup', popupClass]" v-if="showPopup" v-cloak>
-    <div class="popup popup--fadeIn"> 
-        <div class="content">
-          <div class="content-group">
-            <div class="header">
-              <h1 class="title">Title</h1>
-              <p class="subtext">Subtext</p>
-            </div>
-            <button class="btn btn-lg active" @click="hideUnlockPopup">Unlock Calculator</button>
+  <div id="unlockCalculator" @click="outsideClick" :class="['unlock-calculator-popup popupOverlay', popupClass]" v-cloak>
+    <div>
+      <div v-if="profileType === ''" class="content">
+        <div class="content-group">
+          <div class="header">
+            <p class="subtext">Unlock Calculator</p>
+            <h1 class="title">What represents you best?</h1>
+          </div>
+          <div class="cta">
+            <button class="btn btn-outline" @click="setProfileType('creator')">Influencer / Creator</button>
+            <button class="btn" @click="setProfileType('brand')">Brand / Marketer</button>
           </div>
         </div>
+      </div>
+      <div v-if="profileType === 'creator'">
+        {{ partial "site/showcase-popup.html" }}
+      </div>
+      <div v-if="profileType === 'brand'" >
+        {{ partial "site/newsletter-popup.html" (dict "lockMode" true) }}
+      </div>
     </div>
   </div>
 </transition>

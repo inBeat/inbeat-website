@@ -4,18 +4,10 @@
 .popupTrigger {
 	cursor: pointer;
 }
-.blur:not(.popupOverlay):not(#header) {
-	filter: blur(6px);
-	-webkit-filter: blur(6px);
-	-moz-filter: blur(6px);
-	-o-filter: blur(6px);
-	-ms-filter: blur(6px);
-}
 .popupOverlay {
 	z-index: 500;
 	opacity: 0;
   visibility: hidden;
-	background: rgba(0, 0, 0, 0.6);
 	position: fixed;
   display: flex;
 	top: 0;
@@ -25,19 +17,20 @@
 	transition: $transition_default;
 	justify-content: center;
 	align-items: center;
-	&.popupOverlay--fadeIn {
-		opacity: 1;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  padding: 12px;
+
+  &.show {
+    opacity: 1;
     visibility: visible;
-	}
+  }
 	.popup {
 		height: auto;
-		opacity: 0;
 		transform: translateY(0px);
 		transition: $transition_default;
-		&.popupInner--fadeIn {
-			opacity: 1;
-      transform: translateY(-50px);
-		}
+
 		&.auto-wh {
 			width: auto;
 			height: auto;

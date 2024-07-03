@@ -1,0 +1,52 @@
+<div id="newsletterPopup" class="newsletter-popup" :class="popupClass" v-cloak>
+  <div v-if="!subscribed">
+    <div class="wrapper">
+      {{ if not .lockMode }}
+      <div @click="hidePopup" class="close">{{ partial "icons/close.html" . }}</div>
+      {{ end }}
+      <div class="header">
+        <div>
+          {{ if .lockMode }}
+          <div class="logo">{{ partial "icons/growthnotes.html" . }}</div>
+          <h1 class="title">Unlock this tool by <br> subscribing to our newsletter</h1>
+          {{ else }}
+          <h1 class="logo-name">Growthnotes Newsletter</h1>
+          <img src="/images/growthnotesbanner.png" alt="Growthnotes Banner">
+          {{ end }}
+        </div>
+      </div>
+      <div class="form">
+        <div class="error" v-if="!subscribed">
+          {subscriptionError}
+        </div>
+        <div class="form-group">
+          <input type="email" placeholder="Enter your email" v-model="email" />
+          <a v-if="!loading" @click.prevent="handleSubscription" href="#" class="cta" title="Try it">
+            Try it
+          </a>
+          <div v-else class="cta loading">
+            loading...
+          </div>
+        </div>
+        <p class="subtext">You can unsubscribe at any time!</p>
+      </div>
+    </div>
+    <div class="brand">
+      <h5>Join 50,000+ readers for valuable marketing insights</h5>
+      <div class="icons">
+        {{ range $icon := slice "tbwai" "ogilvy" "havas" "cycle" "cossette" "deloitte" "crispin" }}
+          {{ partial (printf "icons/newsletterbrand/%s.html" $icon) $ }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div v-else class="subscribed-view">
+    <div class="header">
+      <h1 class="title">Check your email!</h1>
+      <p class="subtext">We've sent you a confirmation email. Don't forget to check your inbox to complete your subscription!</p>
+    </div>
+    <a @click.prevent="hidePopup" href="#" class="cta" title="Done">
+      Done
+    </a>
+  </div>
+</div>
