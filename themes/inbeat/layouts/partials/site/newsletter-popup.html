@@ -21,9 +21,9 @@
         </div>
         <div class="form-group">
           <input type="email" placeholder="Enter your email" v-model="email" />
-          <a v-if="!beehiivLoading" @click.prevent="handleSubscription" href="#" class="cta" title="Try it">
+          <button v-if="!beehiivLoading" @click.prevent="handleSubscription" href="#" class="cta" title="Try it">
             Try it
-          </a>
+          </button>
           <div v-else class="cta loading">
             loading...
           </div>
