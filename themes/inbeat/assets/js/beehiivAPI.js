@@ -8,7 +8,6 @@ var beehiivAPI = {
       body: JSON.stringify({ email: email, utm_source: source })
     })
     .then(function(response) {
-      console.log("response:", response);
       if (!response.ok) throw new Error("HTTP error status: " + response.status);
       return response.json();
     })
