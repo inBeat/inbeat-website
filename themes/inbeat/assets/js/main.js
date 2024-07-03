@@ -223,8 +223,6 @@ function popup() {
     var isOpen = false;
     this.force = this.popup.dataset.force || false;
     close = this.popup.querySelector(".close")
-    defaultWidth = this.innerPopup.style.width;
-    defaultHeight = this.innerPopup.style.height;
     this.content = this.popup.querySelector(".content-wrapper");
 
     this.openPopup = function () {
@@ -474,7 +472,7 @@ function isValidEmail(email) {
   header();
   pricing();
   affiliate();
-  popup();
+ // popup();
   faq();
   banner();
   articleProgressBar();
