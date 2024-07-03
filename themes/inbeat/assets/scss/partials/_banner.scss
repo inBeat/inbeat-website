@@ -3,11 +3,7 @@
     cursor: pointer;
     position: relative;
     padding: 5px;
-    height :  28px;
     transition: $transition_default;
-    &.hide-banner{
-        height: 0%;
-    }
     a{
         display: flex;
         align-content: center;
@@ -28,13 +24,6 @@
             font-size: 12px;
         }
         text-align: center;
-    }
-    #close{
-        padding: 5px 15px;
-        position: absolute;
-        right: 0;
-        top: 0;
-        transition: $transition_default;
     }
     .hide{
         transform: translateY(-100%);

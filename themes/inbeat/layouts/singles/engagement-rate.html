@@ -9,7 +9,6 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-{{ partial "site/showcase-popup.html" }}
 <div id="engagement-rate">
     {{ partial "site/unlock_calculator_popup.html" }}
     {{ $content := partial "site/engagementRateForm.html" .}}
@@ -191,20 +190,14 @@
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our TikTok Engagement Rate Tool") -}}
 {{- end -}}
 
-{{- if getenv "IS_PROD" -}}
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-{{- else -}}
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-{{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
-{{- partial "site/emailCaptureMixin.html" -}}
 {{- partial "site/mixin/unlockCalculator.html" -}}
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
         el: '#engagement-rate',
-        mixins: [emailCaptureMixin, unlockCalculator],
+        mixins: [unlockCalculator],
         data() {
             return {
                 username: '',

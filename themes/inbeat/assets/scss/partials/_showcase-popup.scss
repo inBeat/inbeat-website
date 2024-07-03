@@ -1,124 +1,120 @@
 .showcase-popup {
-  z-index: 500;
-  opacity: 0;
-  visibility: hidden;
-  background: rgba(0, 0, 0, 0.6);
-  position: fixed;
-  display: flex;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
+  background-color: white;
   height: 100%;
-  transition: $transition_default;
+  width: 100%;
+  width: 1024px;
+  display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 
-  &.popupOverlay--fadeIn {
-    opacity: 1;
-    visibility: visible;
+  @media screen and (max-width: 1000px) {
+    width: 100%;
   }
 
-  .sc-popup {
-    height: auto;
-    transition: $transition_default;
-    padding: 0 20px;
+  .wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
 
-    .content {
-      position: relative;
-      background-color: white;
-      width: fit-content;
+    .close {
+      position: absolute;
+      width: 40px;
+      height: 40px;
       display: flex;
-      flex-direction: column;
-      grid-gap: 6px;
-      justify-items: center;
+      justify-content: center;
       align-items: center;
-      padding: 64px;
+      top: 0;
+      right: 0;
+      cursor: pointer;
 
-      @include breakpoint(sm) {
-        width: fit-content;
-        height: fit-content;
-        grid-gap: 24px;
-        padding: 64px;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-      }
-
-      @include breakpoint(md) {
-       width: 720px;
-      }
-
-      @include breakpoint(md-down) {
-        padding: 32px;
-      }
-
-      .right-content {
-        height: 100%;
-        display: flex;
-        padding-top: 18px;
-        flex-direction: column;
-        justify-content: center;
-
-        @include breakpoint(sm) {
-          padding-top: 0px;
+      @media screen and (max-width: 700px) {
+        svg path{
+          stroke: white;
         }
+      }
 
-        .new-badge {
-          padding: 4px 16px;
-          width: fit-content;
-          height: fit-content;
-          background: linear-gradient(180deg, #ffe9f0 0%, #faecdb 51.04%, #d6ebe4 100%);
-          border-radius: 360px;
-          font-weight: 400;
-          font-size: 12px;
-          line-height: 16px;
-          text-align: center;
+      &:hover {
+        opacity: 0.5;
+      }
+    }
 
-          letter-spacing: 0.01em;
-          color: #141514;
+    @media screen and (min-width: 700px) {
+      flex-direction: row;
+    }
+
+    img {
+      height: 300px;
+      width: 100%;
+      object-fit: cover;
+      object-position: top;
+
+      @media screen and (min-width: 700px) {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    .aside {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      gap: 32px;
+      padding: 60px;
+      flex-direction: column;
+      align-self: center;
+
+      @media screen and (max-width: 700px) {
+        align-items: center;
+        text-align: center;
+        padding: 40px;
+        gap: 24px
+      }
+
+      .text {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+
+        @media screen and (max-width: 700px) {
+          padding: 0px 32px;
         }
 
         .title {
-          margin-top: 12px;
-          margin-bottom: 0;
+          margin: 0;
+          padding: 0;
           font-size: 42px;
-          color: #141514;
-          font-weight: 500;
           line-height: 52px;
+          font-style: normal;
+          font-weight: 500;
           letter-spacing: -0.4px;
-
-          @include breakpoint(sm) {
-            margin-top: 32px;
-          }
         }
 
-        .text {
-          margin-top: 8px;
-          margin-bottom: 32px;
-          white-space: nowrap
-        }
-
-      }
-      .video {
-        height: 300px;
-        width: 100%;
-        object-fit: cover;
-        @include breakpoint(sm) {
-          max-height: 500px;
-          width: 100%;
+        .subtext {
+          margin: 0;
+          padding: 0;
+          font-size: 18px;
+          font-style: normal;
+          font-weight: 400;
+          color: #141514
         }
       }
 
-      .close {
-        cursor: pointer;
-        position: absolute;
-        top: 10px;
-        right: 16px;
-        transition: $transition_default;
+      .cta {
+        background-color: black;
+        padding: 24px 40px;
+        width: fit-content;
+        transition: opacity 0.2s ease-in-out;
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
 
         &:hover {
-          opacity: .5;
+          opacity: 0.9;
+          cursor: pointer;
         }
       }
     }

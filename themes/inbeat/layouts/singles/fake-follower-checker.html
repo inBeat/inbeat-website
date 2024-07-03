@@ -9,7 +9,6 @@
 {{- $username = "watchaswewander" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-{{ partial "site/showcase-popup.html" }}
 <div id="ffc-calculator__wrap">
     <section class="container mobile-adjusted page-top" id="ffc-header">
         <h1>{{- .Params.titre -}}</h1>
@@ -225,21 +224,14 @@
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.fake_follower_checker "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
 
-
-{{- if getenv "IS_PROD" -}}
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-{{- else -}}
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-{{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
-{{- partial "site/emailCaptureMixin.html" -}}
 {{- partial "site/mixin/unlockCalculator.html" -}}
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
         el: '#ffc-calculator__wrap',
-        mixins: [emailCaptureMixin, unlockCalculator],
+        mixins: [unlockCalculator],
         data() {
             return {
                 username: '',

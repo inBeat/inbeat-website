@@ -2,59 +2,64 @@
   var unlockCalculator = {
     data() {
       return {
-        showPopup: false,
-        unlocked: false,
-        verifying: false,
+        profileType: "",
         popupClass: "",
-        submissions: 0,
+        email: "",
+        subscriptionError: null,
+        subscribed: false,
+        loading: false,
       };
-    },
-    computed: {
-      cookieName() {
-        return "unlock-tool" + window.location.pathname.replace(/\//g, "-");
-      },
     },
     methods: {
       showUnlockPopup() {
-        let cookieValue = getCookie(this.cookieName);
+        if (getCookie("calculator") === "true") return false;
+        
+        this.setProfileType("");
+        this.popupClass = "show";
+        this.toggleScroll(true);
+        return true;
+      },
+      async hideUnlockPopup() {
+        await setCookie("calculator", "true", 90);
+        this.popupClass = "";
+        this.toggleScroll(false);
+      },
+      toggleScroll(disable) {
+        document.body.style.overflow = disable ? "hidden" : "";
+      },
+      outsideClick(event) {
+        if (event.target.classList.contains('popupOverlay') && this.profileType === "creator") {
+          this.hideUnlockPopup();
+        }
+      },
+      setProfileType(type) {
+        this.profileType = type;
+      },
+      async handleSubscription() {
+        if (this.loading) return;
+        this.loading = true;
+        this.subscriptionError = null;
 
-        if (!cookieValue) {
-          setCookie(this.cookieName, 1, 60);
-          return false;
-        } else if (cookieValue === "1") {
-          this.showPopup = true;
-          this.popupClass = "show";
-          this.handleState(true);
-          return true;
-        } else {
-          return false;
+        try {
+          if (!this.isValidEmail(this.email)) {
+            throw new Error("Invalid email address.");
+          }
+          const result = await beehiivAPI.subscribe(this.email, "Unlock Calculator");
+          if (result.error) throw new Error(result.error);
+          this.subscribed = true;
+        } catch (error) {
+          this.subscriptionError = error.message;
+        } finally {
+          this.loading = false;
         }
       },
-      hideUnlockPopup() {
-        setCookie(this.cookieName, true, 60);
-        this.showPopup = false;
-        this.handleState(false);
+      hidePopup() {
+        this.popupClass = "";
+        this.toggleScroll(false);
       },
-      handleState(newVal) {
-        if (newVal) {
-          this.preventScroll();
-        } else {
-          this.allowScroll();
-        }
-      },
-      startVerifying() {
-        this.verifying = true;
-        this.unlocked = true;
-        setTimeout(() => {
-          this.verifying = false;
-        }, 10000);
-      },
-      preventScroll() {
-        document.body.style.overflow = "hidden";
-      },
-      allowScroll() {
-        document.body.style.overflow = "";
-      },
+      isValidEmail(email) {
+        return /\S+@\S+\.\S+/.test(email);
+      }
     },
     delimiters: ["{", "}"],
   };

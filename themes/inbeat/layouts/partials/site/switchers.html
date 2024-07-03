@@ -25,11 +25,6 @@
         </div>
     </div>
 </section>
-{{- if getenv "IS_PROD" -}}
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-{{- else -}}
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-{{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script>
     var app = new Vue({
