@@ -1,16 +1,14 @@
-{{- $show := .show | default true -}}
-{{- if $show -}}
 <div id="banner" class="preventPointer">
-    <a href="{{ .url }}" target="_blank" class="{{ .class }}" data-popup-id="videoPopup" id="popup-trigger">
-        <div class="text-content">
-            <p class="small">{{ .text }}</p>
-        </div>
-    </a>
-    <div id="close">
-        <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M1 0.634277L11 10.6343" stroke="black"/>
-        <path d="M1 10.6343L11 0.634277" stroke="black"/>
-        </svg>
+  <a @click="showNewsletterPopup" id="banner-text">
+    <div class="text-content">
+      <p class="small">Subscribe now to our weekly marketing newsletter, where top experts share their top-notch strategies.</p>
     </div>
+  </a>
+
+  <div @click="outsideClick" :class="['popupOverlay', popupClass]">
+    {{ partial "site/newsletter-popup.html" (dict "lockMode" false) }}
+  </div>
+
+  {{ partial "site/mixin/newsletterPopup.html" }}
+
 </div>
-{{- end -}}

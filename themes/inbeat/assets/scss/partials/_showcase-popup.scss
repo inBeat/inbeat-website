@@ -1,0 +1,122 @@
+.showcase-popup {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  width: 1024px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  @media screen and (max-width: 1000px) {
+    width: 100%;
+  }
+
+  .wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+
+    .close {
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      top: 0;
+      right: 0;
+      cursor: pointer;
+
+      @media screen and (max-width: 700px) {
+        svg path{
+          stroke: white;
+        }
+      }
+
+      &:hover {
+        opacity: 0.5;
+      }
+    }
+
+    @media screen and (min-width: 700px) {
+      flex-direction: row;
+    }
+
+    img {
+      height: 300px;
+      width: 100%;
+      object-fit: cover;
+      object-position: top;
+
+      @media screen and (min-width: 700px) {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    .aside {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      gap: 32px;
+      padding: 60px;
+      flex-direction: column;
+      align-self: center;
+
+      @media screen and (max-width: 700px) {
+        align-items: center;
+        text-align: center;
+        padding: 40px;
+        gap: 24px
+      }
+
+      .text {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+
+        @media screen and (max-width: 700px) {
+          padding: 0px 32px;
+        }
+
+        .title {
+          margin: 0;
+          padding: 0;
+          font-size: 42px;
+          line-height: 52px;
+          font-style: normal;
+          font-weight: 500;
+          letter-spacing: -0.4px;
+        }
+
+        .subtext {
+          margin: 0;
+          padding: 0;
+          font-size: 18px;
+          font-style: normal;
+          font-weight: 400;
+          color: #141514
+        }
+      }
+
+      .cta {
+        background-color: black;
+        padding: 24px 40px;
+        width: fit-content;
+        transition: opacity 0.2s ease-in-out;
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
+
+        &:hover {
+          opacity: 0.9;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}

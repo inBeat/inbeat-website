@@ -1,131 +1,84 @@
 .unlock-calculator-popup {
-  z-index: 500;
-  opacity: 0;
-  visibility: hidden;
-  background: rgba(0, 0, 0, 0.6);
-  position: fixed;
-  display: flex;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  transition: $transition_default;
-  justify-content: center;
-  align-items: center;
+  padding: 0px 24px;
 
-  &.show {
-    opacity: 1;
-    visibility: visible;
-  }
-
-  .popup {
-    height: auto;
-    transition: $transition_default;
-    padding: 0 20px;
-
-    &.auto-wh {
-      width: auto;
-      height: auto;
-      background-color: white;
+  .content {
+    background-color: white;
+    width: 100%;
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    @media screen and (max-width: 540px) {
+      width: 400px;
     }
 
-    .content {
-      background-color: white;
-      width: 760px;
-      height: 530px;
+    .content-group {
+      padding: 0px 80px;
       display: flex;
-      justify-content: center;
-      align-items: center;
       flex-direction: column;
+      gap: 56px;
 
-      .content-group {
-        min-width: 500px;
+      .header {
+        color: #141514;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+        text-wrap: nowrap;
 
-        .header {
-          color: #141514;
-          text-align: center;
-          margin-bottom: 32px;
-
-          .title {
-            font-size: 28px;
-            font-style: normal;
-            font-weight: 500;
-            line-height: 40px;
-            letter-spacing: -0.3px;
-            margin-bottom: 14px;
-          }
-
-          .subtext {
-            opacity: 0.5;
-            font-size: 16px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 16px;
-            /* 100% */
-            letter-spacing: 0.16px;
-            margin: 0px;
-          }
+        .title {
+          font-size: 28px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: 30px;
+          letter-spacing: -0.3px;
+          margin: 0;
         }
 
-        .social {
-          width: 100%;
-          background-color: #F9F7F7;
-          border-radius: 20px;
-          display: flex;
+        .subtext {
+          opacity: 0.5;
+          font-size: 16px;
+          font-style: normal;
+          font-weight: 400;
+          margin: 0px;
+        }
+      }
+
+      .cta {
+        display: flex;
+        gap: 16px;
+
+        @media screen and (max-width: 540px) {
+          flex-direction: column;
           gap: 12px;
-          padding: 36px 0;
-          margin-bottom: 40px;
-          align-items: center;
-          justify-content: center;
-
-          .social-badge {
-            display: flex;
-            padding: 2px 16px;
-            border-radius: 360px;
-            font-size: 14px;
-            font-style: normal;
-            font-weight: 500;
-            letter-spacing: -0.3px;
-            justify-content: center;
-            align-items: center;
-            gap: 4px;
-
-            &:hover {
-              cursor: pointer;
-              opacity: 0.8;
-            }
-
-            &.tiktok {
-              background: #FFE5EE;
-              color: #831E42;
-            }
-
-            &.instagram {
-              background: #F8E3D8;
-              color: #723F24;
-            }
-
-            &.linkedin {
-              background: #D0D5DD;
-              color: #1D3A69;
-            }
-          }
         }
 
-        .btn {
-          width: 100%;
+        button {
+          height: 90px;
+          width: 225px;
+          transition: opacity 0.2s ease-in-out;
+          border-radius: 2px;
 
-          &.disabled {
-            opacity: 0.5 !important;
-            pointer-events: none;
+          @media screen and (max-width: 540px) {
+            width: 100%;
           }
 
-          &.active:hover {
+          &.btn-outline {
+            &:hover {
+              background-color: rgb(241, 241, 241);
+              opacity: 1;
+            }
+          }
+
+          &:hover {
             cursor: pointer;
-            background-color: #313131;
+            opacity: 0.9;
           }
         }
       }
+
     }
   }
 
