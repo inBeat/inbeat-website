@@ -472,7 +472,7 @@ function isValidEmail(email) {
   header();
   pricing();
   affiliate();
- // popup();
+  popup();
   faq();
   banner();
   articleProgressBar();
