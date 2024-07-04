@@ -13,6 +13,11 @@
     height: auto;
   }
 
+  @media screen and (max-width: 450px) {
+    width: 350px;
+    height: auto;
+  }
+
   .wrapper {
     display: flex;
     flex-direction: column;
@@ -73,6 +78,11 @@
         font-weight: 500;
         line-height: 36px;
         letter-spacing: -0.3px;
+
+        @media screen and (max-width: 450px) {
+          font-size: 28px;
+          line-height: 32px;
+        }
       }
     }
 
@@ -150,7 +160,7 @@
         font-style: normal;
         font-weight: 400;
         margin: 0;
-        line-height: 24px; /* 171.429% */
+        line-height: 24px;
         opacity: 0.5;
       }
     }
@@ -172,26 +182,52 @@
       opacity: 0.5;
       margin: 0;
       line-height: 24px;
-      /* 171.429% */
       text-align: center;
     }
 
     .icons {
-      gap: 12px;
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 20px;
       justify-content: center;
       align-items: center;
-      display: flex;
-
-      svg {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    
+    .icons svg {
+      width: 100%;
+      width: 60px;
+      max-width: 60px;
+      height: auto;
+      justify-self: center;
+      @media (max-width: 600px) {
         width: 70px;
-        height: auto;
+        max-width: 70px;
+        justify-self: start;
       }
+    }
+    
+    .icons:nth-child(4),
+    .icons:nth-child(5) {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .icons:nth-child(4) svg:nth-child(3),
+    .icons:nth-child(5) svg:nth-child(3) {
+      grid-column: 1 / -1;
+    }
 
-      @media screen and (max-width: 600px) {
-        height: auto;
-        width: 100%;
-        flex-direction: row;
+    @media (max-width: 600px) {
+      .icons {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+    
 
+    @media (max-width: 450px) {
+      .icons {
+        grid-template-columns: repeat(3, 1fr);
       }
     }
   }
@@ -218,6 +254,11 @@
         letter-spacing: -0.4px;
         line-height: 52px;
         margin: 0;
+
+        @media screen and (max-width: 500px) {
+          font-size: 32px;
+          line-height: 36px;
+        }
       }
   
       .subtext {
