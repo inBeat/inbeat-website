@@ -1,14 +1,12 @@
 <div id="banner" class="preventPointer">
   <a @click="showNewsletterPopup" id="banner-text">
     <div class="text-content">
-      <p class="small">Subscribe now to our weekly marketing newsletter, where top experts share their top-notch strategies.</p>
+      <p class="small desktop-text">Subscribe now to our weekly marketing newsletter, where top experts share their top-notch strategies.</p>
+      <p class="small mobile-text">Subscribe to our weekly newsletter</p>
     </div>
   </a>
-
   <div @click="outsideClick" :class="['popupOverlay', popupClass]">
     {{ partial "site/newsletter-popup.html" (dict "lockMode" false) }}
   </div>
-
   {{ partial "site/mixin/newsletterPopup.html" }}
-
 </div>

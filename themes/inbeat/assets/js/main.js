@@ -345,22 +345,32 @@ function industries() {
     }, true);
   }
 }
+
 function banner() {
+  var headerContainer = document.getElementById('header-container');
   var banner = document.getElementById('banner');
   var text = banner.querySelector('#banner-text');
   var prevScrollpos = window.scrollY;
+  var bannerHeight = banner.offsetHeight;
+  var visibleBannerHeight = 10;
+
+  function updateHeaderState(isScrollingDown) {
+    headerContainer.style.top = isScrollingDown ? (-bannerHeight + visibleBannerHeight) + 'px' : '0';
+    text.classList[isScrollingDown ? 'add' : 'remove']('hide');
+  }
+
   window.onscroll = function () {
-    if (!banner) return;
     var currentScrollPos = window.scrollY;
-    if (prevScrollpos > currentScrollPos) {
-      banner.style.height = '28px';
-      text.classList.remove('hide');
-    } else {
-      banner.style.height = '0px';
-      text.classList.add('hide');
-    }
+    updateHeaderState(currentScrollPos > prevScrollpos);
     prevScrollpos = currentScrollPos;
   };
+
+  window.addEventListener('resize', function() {
+    bannerHeight = banner.offsetHeight;
+    updateHeaderState(window.scrollY > prevScrollpos);
+  });
+
+  updateHeaderState(false);
 }
 
 function articleProgressBar() {

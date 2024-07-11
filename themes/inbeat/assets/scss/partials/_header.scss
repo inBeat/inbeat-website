@@ -211,19 +211,27 @@
 
 #header {
   position: static;
-  height: $mobilenavheight;
-  padding-left: 0.5rem;
-  padding-right: 1rem;
+  padding: 16px;
   margin: 0;
 
   @include breakpoint(sm) {
-    height: $navheight;
     padding-left: 0;
     padding-right: 0;
     margin-left: -0.5rem;
     margin-right: -0.5rem;
   }
+  .navigation-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
 
+    @include breakpoint(md) {
+      justify-content: start;
+      gap: 2rem;
+    }
+  }
   .logo {
     display: block;
     width: 2.25rem;
@@ -256,13 +264,6 @@
   }
 
   li {
-    float: left;
-    margin-right: 1.2rem;
-
-    @include breakpoint(md) {
-      margin-right: 2rem;
-    }
-
     cursor: pointer;
 
     a {
@@ -271,12 +272,13 @@
 
     &.cta {
       display: flex;
-      margin-right: 0px !important;
+      align-items: center;
 
       a {
-        padding: 12px 48px !important;
         background-color: black;
         opacity: 1;
+        padding: 8px 24px;
+        border-radius: 2px;
       }
 
       .no-background {
@@ -611,10 +613,7 @@
     display: block;
     overflow-y: scroll;
     overflow-x: none !important;
-    // padding-right: 17px;
-    /* Increase/decrease this value for cross-browser compatibility */
     box-sizing: content-box;
-    /* So the width will be 100% + 17px */
     opacity: 1;
     position: fixed;
     top: 0;
@@ -649,5 +648,5 @@
   top: 0;
   background: white;
   z-index: 200;
-  transition: all 0.3s ease;
+  transition: all 0.12s ease-in-out;
 }
