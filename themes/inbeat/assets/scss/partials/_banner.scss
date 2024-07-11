@@ -24,9 +24,26 @@
             font-size: 12px;
         }
         text-align: center;
+
+        .desktop-text {
+          display: block;
+        }
+        
+        .mobile-text {
+          display: none;
+        }
+        
+        @media screen and (max-width: 48rem) {
+          .desktop-text {
+            display: none;
+          }
+        
+          .mobile-text {
+            display: block;
+          }
+        }
     }
     .hide{
-        transform: translateY(-100%);
         opacity: 0;
     }
 }
