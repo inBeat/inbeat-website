@@ -131,14 +131,9 @@
 }
 
 #hero {
-  padding-top: 8.5rem;
-  padding-bottom: 6rem;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
   text-align: center;
-
-  @include breakpoint(sm) {
-    padding-top: calc(50vh - 15.625rem);
-    padding-bottom: calc(50vh - 18rem);
-  }
 
   &.has-banner {
     // Add the banner height size
