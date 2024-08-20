@@ -16,7 +16,8 @@
       </section>
       <section id="form" v-else-if="!isbookingRedirect">
         <h1 class="title">Book a demo</h1>
-        <form id="demoForm" class="form" @submit.prevent="submitForm">
+        {{ `<p class="error-message">{{ errorMessage }}</p>` | safeHTML }}
+        <form id="demoForm" @submit.prevent="submitForm">
           <div class="form-field">
             <div class="input-parent">
               <div class="input-group">
@@ -89,6 +90,11 @@
   .email-link, .email-link:hover {
     text-decoration: underline;
     width: fit-content;
+  }
+
+  .error-message {
+    font-size: 14px;
+    color: red;
   }
 
   input {
@@ -196,12 +202,16 @@
 <script src="https://unpkg.com/vue@3.3.7/dist/vue.global.js"></script>
 {{- end -}}
 
+<script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
+
 <script>
   const { createApp } = Vue;
 
   const bookDemo = createApp({
+    el: '#bookDemo',
     data() {
       return {
+        errorMessage: '',
         formData: {
           firstName: '',
           lastName: '',
@@ -234,17 +244,26 @@
         this.queryParams = Object.fromEntries(urlParams.entries());
       },
       submitForm() {
-        if (this.isBusinessEmail(this.formData.email)) {
-          const { firstName, lastName, email, companyName } = this.formData;
-          const businessUrl = "https://meetings.hubspot.com/aaron-kozinets/inbeat-software-demo?email=" + email
-            + "&firstName=" + firstName
-            + "&lastName=" + lastName
-            + "&company=" + companyName;
-          window.location.href = businessUrl;
-        } else {
-          this.isThankYou = true;
-        }
-      },
+        window.grecaptcha.ready(() => {
+          window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'})
+            .then((token) => {
+              if (this.isBusinessEmail(this.formData.email)) {
+                const { firstName, lastName, email, companyName } = this.formData;
+                const businessUrl = "https://meetings.hubspot.com/aaron-kozinets/inbeat-software-demo?email=" + email
+                  + "&firstName=" + firstName
+                  + "&lastName=" + lastName
+                  + "&company=" + companyName;
+                window.location.href = businessUrl;
+              } else {
+                this.isThankYou = true;
+              }
+            })
+            .catch((error) => {
+              console.error('An error occurred:', error);
+              this.errorMessage = error.message || 'An error occurred while submitting the form. Please try again later.';
+            });
+        });
+      }
     }
   }).mount('#bookDemo');
 </script>
