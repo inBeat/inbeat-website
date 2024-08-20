@@ -16,7 +16,7 @@
       </section>
       <section id="form" v-else-if="!isbookingRedirect">
         <h1 class="title">Book a demo</h1>
-        {{ `<p class="error-message">{{ errorMessage }}</p>` | safeHTML }}
+        {{ `<p v-if="errorMessage" class="error-message">{{ errorMessage }}</p>` | safeHTML }}
         <form id="demoForm" @submit.prevent="submitForm">
           <div class="form-field">
             <div class="input-parent">
