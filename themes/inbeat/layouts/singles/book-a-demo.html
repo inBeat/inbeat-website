@@ -249,11 +249,10 @@
             .then((token) => {
               if (this.isBusinessEmail(this.formData.email)) {
                 const { firstName, lastName, email, companyName } = this.formData;
-                const businessUrl = "https://meetings.hubspot.com/aaron-kozinets/inbeat-software-demo?email=" + email
-                  + "&firstName=" + firstName
-                  + "&lastName=" + lastName
-                  + "&company=" + companyName;
-                window.location.href = businessUrl;
+                const calendlyUrl = "https://calendly.com/inbeatco/30min"
+                  + "?name=" + encodeURIComponent(firstName + " " + lastName)
+                  + "&email=" + encodeURIComponent(email)
+                window.location.href = calendlyUrl;
               } else {
                 this.isThankYou = true;
               }
